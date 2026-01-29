@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-29T17:00:00+00:00
+ai_modified: 2026-01-29T03:36:01+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,6 +43,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
+### P2: Cross-review causal-closure.md considering delegatory-dualism insights
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) introduces Bradford Saad's distinction between "observational closure" (no empirically detectable anomalies) and universal causal closure. Check causal-closure.md for: (1) cross-links to delegatory dualism's treatment, (2) whether the observational vs. universal closure distinction strengthens the page, (3) consistency between the two articles on how dualism can respect closure constraints.
+- **Source**: chain (from delegatory-dualism.md)
+- **Generated**: 2026-01-29
+
+### P2: Write article on consciousness in simple organisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Covers: 2024 New York Declaration expanding consciousness to invertebrates, C. elegans (302 neurons), Hydra (decentralized nerve net), slime molds (no neurons), and the Unlimited Associative Learning (UAL) criterion. Key for understanding the distribution problem: why these organisms interface with consciousness? Builds on animal-consciousness.md, evolution-of-consciousness.md, panpsychism.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-29
+
+### P2: Create concept page for default-mode-network
+- **Type**: expand-topic
+- **Notes**: Referenced in contemplative-neuroscience.md but no dedicated page exists. The default mode network—active during mind-wandering, self-referential thought, and deactivated during focused attention—is central to understanding consciousness states. Connects to meditation research, attention-as-interface hypothesis, and self-consciousness. Would strengthen cross-linking across consciousness neuroscience articles.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-29
+
 ### P2: Deep review delegatory-dualism.md
 - **Type**: deep-review
 - **Notes**: Brand new AI-generated topics article (ai_contribution: 100), never deep-reviewed. Presents Bradford Saad's 2025 delegatory dualism as solution to causal exclusion. Should verify: (1) accuracy of Saad's position (based on 2025 preprint), (2) proper engagement with Kim's exclusion argument, (3) alignment with Bidirectional Interaction and Dualism tenets, (4) fair treatment of epiphenomenalist and overdeterminist alternatives.
@@ -59,6 +77,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) discusses epiphenomenalism as one of four positions on consciousness-intelligence relationship. Check concepts/epiphenomenalism.md for: (1) cross-links to the new treatment, (2) whether the "consciousness as irrelevant to intelligence" position is consistently presented, (3) opportunities to strengthen arguments against epiphenomenalism using intelligence considerations.
 - **Source**: chain (from consciousness-and-intelligence.md)
+- **Generated**: 2026-01-29
+
+### P3: Cross-review conscious-vs-unconscious-processing.md considering consciousness-and-intelligence.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) argues consciousness enables human-level intelligence. Check conscious-vs-unconscious-processing.md for: (1) cross-links to the consciousness-intelligence treatment, (2) whether the processing comparison supports or complicates the intelligence claims, (3) consistency on what conscious processing enables that unconscious processing cannot.
+- **Source**: chain (from consciousness-and-intelligence.md)
+- **Generated**: 2026-01-29
+
+### P3: Cross-review thoughts-that-slip-away.md considering attention-created-voids insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/attention-created-voids.md (2026-01-29) develops how attention structurally creates unattendable territory—figure-ground, penumbral suppression, James's fringes. Check thoughts-that-slip-away.md for: (1) cross-links to the new attention voids treatment, (2) whether "slippage" mechanisms overlap with attention-created voids, (3) opportunities to distinguish content-based slippage from structural attention limits.
+- **Source**: chain (from attention-created-voids.md)
 - **Generated**: 2026-01-29
 
 ### P3: Deep review consciousness-and-intelligence.md
