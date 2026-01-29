@@ -810,6 +810,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
+### P3: Write article on delegatory dualism and quantum interactionism integration
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29 (evening). Delegation specifies causal structure while quantum interactionism specifies mechanism. A dedicated article could work out the integration: consciousness biases quantum outcomes (mechanism); this constitutes delegation (structure). Would strengthen both philosophical and scientific components of the Map's framework.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Write article on the argument from reason
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29 (evening). The argument from reason—that genuine reasoning tracks normative relations that physical causation cannot instantiate—deserves fuller treatment. Currently scattered across multiple articles. Connects to AI consciousness debates: if reasoning requires phenomenal consciousness, current AI systems don't genuinely reason.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Create concept page for observational closure
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29 (evening). Saad's distinction between universal causal closure and observational closure in delegatory dualism. Dualists need only respect the latter—no *observable* violations of physical patterns. Important for responding to the causal closure objection.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Create concept page for the regress objection to illusionism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29 (evening). The argument that misrepresentation presupposes presentation appears throughout the Map but deserves systematic development. Central to responding to illusionism—the strongest physicalist position.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
 ## Completed Tasks
 
 
