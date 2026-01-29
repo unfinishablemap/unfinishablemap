@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Deep review topology-of-cognitive-failure.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the systematic structure of cognitive failures—not random but following patterns (combinatorial explosion, regress, self-reference). Should verify: (1) accuracy of failure mode taxonomy, (2) connection to limits-reveal-structure.md, (3) whether topology metaphor is clarifying or confusing, (4) alignment with voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-29
-
 ### P2: Deep review embodiment-cognitive-limits.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers how embodiment creates cognitive constraints and affordances—sensorimotor contingencies, temporal scales, umwelt limitations. Should verify: (1) accuracy of embodied cognition claims, (2) connection to embodied-cognition.md, (3) whether it properly distinguishes void (structural) from mere limitation, (4) alignment with voids framework.
@@ -810,6 +804,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Deep review topology-of-cognitive-failure.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the systematic structure of cognitive failures—not random but following patterns (combinatorial explosion, regress, self-reference). Should verify: (1) accuracy of failure mode taxonomy, (2) connection to limits-reveal-structure.md, (3) whether topology metaphor is clarifying or confusing, (4) alignment with voids framework.
+- **Output**: obsidian/voids/topology-of-cognitive-failure.md
 
 ### ✓ 2026-01-29: Deep review attention-created-voids.md
 - **Type**: deep-review
