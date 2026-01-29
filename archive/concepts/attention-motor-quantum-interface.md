@@ -2,9 +2,9 @@
 title: "Attention-Motor Quantum Interface"
 description: "Attention and motor planning share neural substrates, suggesting a unified quantum selection mechanism where consciousness chooses among competing actions."
 created: 2026-01-23
-modified: 2026-01-26
+modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-29T13:00:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -33,6 +33,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated: null
 last_deep_review: 2026-01-26T12:18:15+00:00
+archived: true
+archived_date: 2026-01-29T13:00:00+00:00
+superseded_by: "/concepts/motor-selection/"
+archive_reason: "Coalesced into Motor Selection and the Attention-Motor Interface"
+original_path: "/concepts/attention-motor-quantum-interface/"
 ---
 
 The premotor theory of attention proposes that attention and motor planning share the same neural substrates—attention shifts *are* motor plans. If Stapp's quantum Zeno mechanism operates through attention, and attention is fundamentally motor planning, then a single quantum selection mechanism underlies both domains. The Unfinishable Map's framework unifies under one interface: consciousness selects among competing neural options through rapid observation, whether the selection concerns what to perceive or what to do.

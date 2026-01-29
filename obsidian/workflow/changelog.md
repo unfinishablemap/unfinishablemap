@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 13:00 UTC - coalesce
+
+- **Status**: Success
+- **Sources**: `concepts/motor-selection.md`, `concepts/attention-motor-quantum-interface.md`
+- **Target**: `concepts/motor-selection.md` (renamed: "Motor Selection and the Attention-Motor Interface")
+- **Archived**: `archive/concepts/attention-motor-quantum-interface.md`
+- **References to review**: 10 files reference archived article (links preserved via archive)
+- **Notes**: Two articles with substantial overlap on premotor theory of attention, quantum Zeno mechanism, basal ganglia selection, Libet reinterpretation, dopamine research, and empirical predictions. Merged into comprehensive unified treatment. New article (~3900 words) combines best content from both sources, eliminates redundancy.
+
 ## 2026-01-29 05:14 UTC - deep-review
 
 - **Status**: Success
