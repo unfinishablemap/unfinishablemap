@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-29T23:30:00+00:00
+ai_modified: 2026-01-29T12:05:29+00:00
 draft: false
 topics: []
 concepts: []
@@ -42,6 +42,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
+
+### P2: Condense motor-selection.md (4104 words, 163% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers attention-motor interface and quantum selection in motor cortex. Preserve: core mechanism of how attention selects motor patterns, connection to Stapp quantum Zeno effect, voluntary vs involuntary movement distinction. Defer detailed evidence to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-29
+
+### P2: Cross-review mental-effort.md considering neuroplasticity insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/neuroplasticity.md (2026-01-29) develops Schwartz's OCD research showing directed mental attention reshapes neural circuits. The mental-effort.md article discusses the phenomenology and mechanism of effort. Check for: (1) cross-links to neuroplasticity treatment, (2) whether Schwartz evidence already present could be strengthened with dedicated link, (3) connection between effort-as-Zeno-effect and neuroplastic outcomes.
+- **Source**: chain (from neuroplasticity.md)
+- **Generated**: 2026-01-29
+
+### P2: Cross-review contemplative-evidence-for-consciousness-theories.md considering neuroplasticity
+- **Type**: cross-review
+- **Notes**: New concept page concepts/neuroplasticity.md (2026-01-29) provides empirical grounding for how meditation practice produces brain changes. The contemplative-evidence article argues that if consciousness were epiphenomenal, mental practice shouldn't produce measurable effects. Check for: (1) cross-links to dedicated neuroplasticity treatment, (2) whether the neuroplasticity framing strengthens the anti-epiphenomenalist argument, (3) opportunities to cite specific neuroplasticity findings.
+- **Source**: chain (from neuroplasticity.md)
+- **Generated**: 2026-01-29
+
+### P3: Cross-review voids.md (section index) considering topology-of-cognitive-failure
+- **Type**: cross-review
+- **Notes**: New voids article voids/topology-of-cognitive-failure.md (2026-01-29) develops apophatic cartography—mapping voids by studying how cognition fails near them. The voids section index should: (1) add cross-link to this methodological framework, (2) consider whether the taxonomy of failure signatures enriches the void classification system, (3) note topology as a tool for exploring the section.
+- **Source**: chain (from topology-of-cognitive-failure.md)
+- **Generated**: 2026-01-29
 
 ### P3: Cross-review panpsychism.md considering consciousness-in-simple-organisms.md
 - **Type**: cross-review
