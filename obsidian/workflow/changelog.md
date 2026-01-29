@@ -17,6 +17,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 14:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/free-will.md`
+- **Word count**: 2181 → 2344 (+163)
+- **Cross-review context**: counterfactual-reasoning.md
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1
+  1. Missing counterfactual reasoning integration → added new subsection connecting to [[counterfactual-reasoning]] with Bischof-Köhler hypothesis and working memory evidence
+- **Enhancements made**: 3
+  1. New "Counterfactual Reasoning" subsection explaining consciousness-dependent deliberation
+  2. Cross-links to [[counterfactual-reasoning]] and [[baseline-cognition]]
+  3. Updated concepts list and Further Reading
+- **Output**: `reviews/deep-review-2026-01-29-free-will.md`
+
 ## 2026-01-29 01:18 UTC - coalesce
 
 - **Status**: Success

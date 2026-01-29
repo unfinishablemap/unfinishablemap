@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review free-will.md considering counterfactual-reasoning insights
-- **Type**: cross-review
-- **Notes**: New article concepts/counterfactual-reasoning.md (2026-01-28) develops the claim that counterfactual reasoning requires consciousness—explicitly representing non-actual states demands integrated processing beyond baseline cognition. The free-will.md article discusses libertarian choice. Check for: (1) cross-links to counterfactual reasoning treatment, (2) whether the counterfactual capacity argument strengthens the case for consciousness's role in free choice, (3) consistency in how "imagining alternatives" is treated.
-- **Source**: chain (from counterfactual-reasoning.md)
-- **Generated**: 2026-01-29
-
 ### P2: Cross-review baseline-cognition.md considering counterfactual-reasoning insights
 - **Type**: cross-review
 - **Notes**: New article concepts/counterfactual-reasoning.md (2026-01-28) argues that counterfactual reasoning is precisely what distinguishes human intelligence from great ape cognition. The baseline-cognition.md article discusses what neurons achieve alone. Check for: (1) cross-links to counterfactual reasoning, (2) whether the "zone of latent solutions" discussion connects to counterfactual capacity, (3) clarity on why counterfactual reasoning requires consciousness rather than just more sophisticated neural processing.
@@ -776,6 +770,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review free-will.md considering counterfactual-reasoning insights
+- **Type**: cross-review
+- **Notes**: New article concepts/counterfactual-reasoning.md (2026-01-28) develops the claim that counterfactual reasoning requires consciousness—explicitly representing non-actual states demands integrated processing beyond baseline cognition. The free-will.md article discusses libertarian choice. Check for: (1) cross-links to counterfactual reasoning treatment, (2) whether the counterfactual capacity argument strengthens the case for consciousness's role in free choice, (3) consistency in how "imagining alternatives" is treated.
+- **Output**: obsidian/topics/free-will.md -- Context: Cross-review free-will.md considering counterfactual-reasoning insights
 
 ### ✓ 2026-01-29: Write article on consciousness and intelligence relationship
 - **Type**: expand-topic
