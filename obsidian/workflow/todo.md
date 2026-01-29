@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review mental-effort.md considering neuroplasticity insights
-- **Type**: cross-review
-- **Notes**: New concept page concepts/neuroplasticity.md (2026-01-29) develops Schwartz's OCD research showing directed mental attention reshapes neural circuits. The mental-effort.md article discusses the phenomenology and mechanism of effort. Check for: (1) cross-links to neuroplasticity treatment, (2) whether Schwartz evidence already present could be strengthened with dedicated link, (3) connection between effort-as-Zeno-effect and neuroplastic outcomes.
-- **Source**: chain (from neuroplasticity.md)
-- **Generated**: 2026-01-29
-
 ### P2: Cross-review contemplative-evidence-for-consciousness-theories.md considering neuroplasticity
 - **Type**: cross-review
 - **Notes**: New concept page concepts/neuroplasticity.md (2026-01-29) provides empirical grounding for how meditation practice produces brain changes. The contemplative-evidence article argues that if consciousness were epiphenomenal, mental practice shouldn't produce measurable effects. Check for: (1) cross-links to dedicated neuroplasticity treatment, (2) whether the neuroplasticity framing strengthens the anti-epiphenomenalist argument, (3) opportunities to cite specific neuroplasticity findings.
@@ -816,6 +810,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review mental-effort.md considering neuroplasticity insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/neuroplasticity.md (2026-01-29) develops Schwartz's OCD research showing directed mental attention reshapes neural circuits. The mental-effort.md article discusses the phenomenology and mechanism of effort. Check for: (1) cross-links to neuroplasticity treatment, (2) whether Schwartz evidence already present could be strengthened with dedicated link, (3) connection between effort-as-Zeno-effect and neuroplastic outcomes.
+- **Output**: obsidian/concepts/mental-effort.md -- Context: Cross-review mental-effort.md considering neuroplasticity insights
 
 ### ✓ 2026-01-29: Condense motor-selection.md (4104 words, 163% of threshold)
 - **Type**: condense

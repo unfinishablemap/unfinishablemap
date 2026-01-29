@@ -17,6 +17,20 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 21:15 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/mental-effort.md`
+- **Word count**: 2082 → 2144 (+62 words)
+- **Cross-review context**: neuroplasticity.md (cross-reviewing considering neuroplasticity insights)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Condensed neuroplasticity section to focus on phenomenology (delegated details to new [[neuroplasticity]] article)
+  - Added [[neuroplasticity]] to concepts list and Further Reading
+  - Added Hagan et al. 2002 citation for decoherence claim
+- **Enhancements made**: 3 (cross-links, citation, phenomenology focus)
+- **Output**: `reviews/deep-review-2026-01-29-mental-effort.md`
+
 ## 2026-01-29 18:15 UTC - condense
 
 - **Status**: Success
