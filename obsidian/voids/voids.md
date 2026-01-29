@@ -31,6 +31,7 @@ related_articles:
   - "[[language-thought-boundary]]"
   - "[[intrinsic-nature-void]]"
   - "[[other-minds-void]]"
+  - "[[past-self-void]]"
   - "[[topology-of-cognitive-failure]]"
   - "[[origin-of-consciousness]]"
 ai_contribution: 80
@@ -125,6 +126,8 @@ This section will explore:
 **[[intrinsic-nature-void|The intrinsic nature void]]**: Physics describes what matter *does* but not what it *is*. Russell and Eddington showed that physical science captures only relational structure, leaving intrinsic categorical nature forever outside its reach. Consciousness may be our only window into intrinsic nature—we access something from the inside. This asymmetry underlies the hard problem and provides independent support for dualism.
 
 **[[other-minds-void|The other minds void]]**: Each consciousness is sealed within itself, able to infer but never directly access the experience of any other mind. This may be the most pervasive void—operating constantly in every social interaction—yet it often goes unnoticed because indirect access methods mask the underlying absence. The asymmetry between first-person and third-person access appears constitutive of what consciousness is.
+
+**[[past-self-void|The past-self void]]**: We cannot directly access our own past conscious states—only reconstruct them. The past self is structurally inaccessible in much the same way other minds are: you can infer, imagine, and simulate, but you cannot directly know what it was like to be the "you" of five years ago. Numerical identity doesn't grant phenomenal access. We are strangers to ourselves across time.
 
 **[[thoughts-that-slip-away|What slips away]]**: A phenomenological investigation of thoughts that won't stick. What patterns emerge when we pay attention to what we keep failing to think?
 

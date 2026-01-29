@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 18:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: The Past Self Void
+- **Output**: `voids/past-self-void.md`
+- **Word count**: 2062
+- **Based on research**: Yes (`research/voids-past-self-void-2026-01-29.md`)
+- **Summary**: Article exploring the structural inaccessibility of past conscious states. We can only reconstruct, never directly access, what it was like to be our past selves—creating a void parallel to the other-minds void but directed at ourselves across time.
+
 ## 2026-01-29 17:09 UTC - deep-review
 
 - **Status**: Success

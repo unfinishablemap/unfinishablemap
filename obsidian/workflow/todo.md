@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write voids article on past-self void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-past-self-void-2026-01-29.md. Covers the structural inaccessibility of past conscious states—we cannot directly re-enter yesterday's mind, only reconstruct it from incomplete traces. The past self is numerically identical yet phenomenologically alien. Connects to other-minds-void (parallel structure), temporal-asymmetry-remembering-anticipating, episodic-memory, autonoetic-consciousness.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-29
-
 ### P2: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
 - **Type**: cross-review
 - **Notes**: PROMOTED. New concept page concepts/default-mode-network.md (2026-01-29) discusses DMN suppression during meditation. Check meditation-and-consciousness-modes.md for: (1) cross-links to the DMN neurobiological treatment, (2) whether the DMN framework explains meditation state transitions, (3) opportunities to connect contemplative phenomenology with neuroscience.
@@ -822,6 +816,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Write voids article on past-self void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-past-self-void-2026-01-29.md. Covers the structural inaccessibility of past conscious states—we cannot directly re-enter yesterday's mind, only reconstruct it from incomplete traces. The past self is numerically identical yet phenomenologically alien. Connects to other-minds-void (parallel structure), temporal-asymmetry-remembering-anticipating, episodic-memory, autonoetic-consciousness.
+- **Output**: Write voids article on past-self void
 
 ### ✓ 2026-01-29: Cross-review voids.md considering origin-of-consciousness.md
 - **Type**: cross-review
