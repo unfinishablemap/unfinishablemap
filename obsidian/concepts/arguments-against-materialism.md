@@ -4,7 +4,7 @@ description: "The case against materialism includes the explanatory gap, zombie 
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-29T18:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-01-20T04:30:00+00:00
+last_deep_review: 2026-01-29T18:00:00+00:00
 ---
 
 Multiple independent arguments converge on the same conclusion: [[materialism]]—the view that reality is fundamentally physical—cannot account for consciousness. These arguments share a common structure: they identify aspects of conscious experience that appear logically or metaphysically separable from physical facts, suggesting that consciousness cannot be reduced to or fully explained by physical processes. This page surveys the major arguments, their responses, and why the convergence of independent lines of reasoning provides strong cumulative support for the [[tenets#^dualism|Dualism tenet]].
@@ -120,9 +120,7 @@ But quantum mechanics reveals that physics is not deterministic at the fundament
 
 ### The Decoherence Objection
 
-The most serious challenge to quantum consciousness theories is [[decoherence]]—the loss of quantum coherence through environmental interaction. Max Tegmark calculated in 2000 that neural coherence times would be femtoseconds, far too short for neural processes operating on millisecond scales. If superpositions collapse almost instantly in warm brains, consciousness cannot operate through quantum selection.
-
-The objection deserves serious engagement. However:
+[[decoherence|Decoherence]]—the loss of quantum coherence through environmental interaction—poses the most serious challenge to quantum consciousness theories. Max Tegmark (2000) calculated that neural coherence times would be femtoseconds, far too short for millisecond-scale neural processes. The objection deserves serious engagement:
 
 1. **Tegmark's calculations have been contested.** Hameroff argues the model assumed thermal equilibrium and separation distances inappropriate for the Orch OR mechanism. Corrected calculations increase coherence times by seven orders of magnitude.
 
