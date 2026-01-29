@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Deep review attention-created-voids.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers how attention structurally creates unattendable territory—figure-ground, penumbral suppression, James's unfocusable fringes. Should verify: (1) accuracy of Gurwitsch's field theory claims, (2) connection to voluntary-attention.md and attention.md, (3) whether distinction between structural vs content-based attention limits is clear, (4) alignment with voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-29
-
 ### P2: Deep review topology-of-cognitive-failure.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the systematic structure of cognitive failures—not random but following patterns (combinatorial explosion, regress, self-reference). Should verify: (1) accuracy of failure mode taxonomy, (2) connection to limits-reveal-structure.md, (3) whether topology metaphor is clarifying or confusing, (4) alignment with voids framework.
@@ -810,6 +804,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Deep review attention-created-voids.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers how attention structurally creates unattendable territory—figure-ground, penumbral suppression, James's unfocusable fringes. Should verify: (1) accuracy of Gurwitsch's field theory claims, (2) connection to voluntary-attention.md and attention.md, (3) whether distinction between structural vs content-based attention limits is clear, (4) alignment with voids framework.
+- **Output**: obsidian/voids/attention-created-voids.md
 
 ### ✓ 2026-01-29: Write voids article on origin of consciousness
 - **Type**: expand-topic
