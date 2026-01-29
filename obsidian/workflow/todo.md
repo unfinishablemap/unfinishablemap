@@ -43,15 +43,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P3: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
+### P2: Write voids article on past-self void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-past-self-void-2026-01-29.md. Covers the structural inaccessibility of past conscious states—we cannot directly re-enter yesterday's mind, only reconstruct it from incomplete traces. The past self is numerically identical yet phenomenologically alien. Connects to other-minds-void (parallel structure), temporal-asymmetry-remembering-anticipating, episodic-memory, autonoetic-consciousness.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-29
+
+### P2: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
 - **Type**: cross-review
-- **Notes**: New concept page concepts/default-mode-network.md (2026-01-29) discusses DMN suppression during meditation. Check meditation-and-consciousness-modes.md for: (1) cross-links to the DMN neurobiological treatment, (2) whether the DMN framework explains meditation state transitions, (3) opportunities to connect contemplative phenomenology with neuroscience.
+- **Notes**: PROMOTED. New concept page concepts/default-mode-network.md (2026-01-29) discusses DMN suppression during meditation. Check meditation-and-consciousness-modes.md for: (1) cross-links to the DMN neurobiological treatment, (2) whether the DMN framework explains meditation state transitions, (3) opportunities to connect contemplative phenomenology with neuroscience.
 - **Source**: chain (from default-mode-network.md)
 - **Generated**: 2026-01-29
 
-### P3: Cross-review thoughts-that-slip-away.md considering attention-created-voids insights
+### P2: Cross-review thoughts-that-slip-away.md considering attention-created-voids insights
 - **Type**: cross-review
-- **Notes**: New voids article voids/attention-created-voids.md (2026-01-29) develops how attention structurally creates unattendable territory—figure-ground, penumbral suppression, James's fringes. Check thoughts-that-slip-away.md for: (1) cross-links to the new attention voids treatment, (2) whether "slippage" mechanisms overlap with attention-created voids, (3) opportunities to distinguish content-based slippage from structural attention limits.
+- **Notes**: PROMOTED. New voids article voids/attention-created-voids.md (2026-01-29) develops how attention structurally creates unattendable territory—figure-ground, penumbral suppression, James's fringes. Check thoughts-that-slip-away.md for: (1) cross-links to the new attention voids treatment, (2) whether "slippage" mechanisms overlap with attention-created voids, (3) opportunities to distinguish content-based slippage from structural attention limits.
 - **Source**: chain (from attention-created-voids.md)
 - **Generated**: 2026-01-29
 
@@ -61,9 +67,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from convergent-cognitive-limits.md)
 - **Generated**: 2026-01-28
 
-### P3: Deep review other-minds-void.md
+### P2: Deep review other-minds-void.md
 - **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the structural impossibility of direct access to other conscious experiences. Should verify: (1) accuracy of epistemological arguments, (2) connection to problem-of-other-minds.md, (3) whether it properly distinguishes the void (structural limit) from mere empirical difficulty, (4) alignment with voids framework.
+- **Notes**: PROMOTED. AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the structural impossibility of direct access to other conscious experiences. Should verify: (1) accuracy of epistemological arguments, (2) connection to problem-of-other-minds.md, (3) whether it properly distinguishes the void (structural limit) from mere empirical difficulty, (4) alignment with voids framework. Important: synergizes with new past-self-void article (parallel structure between other minds and past selves).
 - **Source**: staleness
 - **Generated**: 2026-01-28
 
@@ -79,9 +85,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from integrated-information-theory-critique.md)
 - **Generated**: 2026-01-28
 
-### P3: Deep review temporal-asymmetry-remembering-anticipating.md
+### P2: Deep review temporal-asymmetry-remembering-anticipating.md
 - **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the asymmetry between remembering (re-experiencing the past) and anticipating (only imagining the future). Pre-experience appears structurally impossible. Should verify: (1) accuracy of causal trace arguments, (2) connection to duration.md and temporal-consciousness.md, (3) alignment with voids framework, (4) engagement with philosophical literature on temporal phenomenology.
+- **Notes**: PROMOTED. AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the asymmetry between remembering (re-experiencing the past) and anticipating (only imagining the future). Pre-experience appears structurally impossible. Should verify: (1) accuracy of causal trace arguments, (2) connection to duration.md and temporal-consciousness.md, (3) alignment with voids framework, (4) engagement with philosophical literature on temporal phenomenology. Important: synergizes with new past-self-void work.
 - **Source**: staleness
 - **Generated**: 2026-01-28
 
