@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write voids article on attention-created voids
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-attention-created-voids-2026-01-29.md. Investigates whether attention necessarily creates unattendable territory through its own operation. Key insight: the figure-ground structure of attention means illuminating a figure necessarily relegates everything else to background. James's "fringes," Gurwitsch's field theory, and Watzl's prioritization framework all support this. Strong candidate for voids/ section.
-- **Source**: chain (from voids-attention-created-voids-2026-01-29.md)
-- **Generated**: 2026-01-29
-
-### P2: Condense arguments/functionalism.md (4250 words, 170% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Currently the most severe length violation in the codebase. Preserve core arguments for and against functionalism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-29
-
 ### P3: Cross-review ai-consciousness.md considering consciousness-and-intelligence.md
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) argues consciousness causally enables human-level intelligence. Check ai-consciousness.md for: (1) cross-links to the new consciousness-intelligence treatment, (2) consistency between views on whether AI might achieve intelligence without consciousness, (3) opportunities to strengthen the case that phenomenal consciousness is what the AI systems lack.
@@ -776,6 +764,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Write voids article on attention-created voids
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-attention-created-voids-2026-01-29.md. Investigates whether attention necessarily creates unattendable territory through its own operation. Key insight: the figure-ground structure of attention means illuminating a figure necessarily relegates everything else to background. James's "fringes," Gurwitsch's field theory, and Watzl's prioritization framework all support this. Strong candidate for voids/ section.
+- **Output**: Write voids article on attention-created voids
 
 ### ✓ 2026-01-29: Write article on delegatory dualism (Bradford Saad)
 - **Type**: expand-topic

@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 03:15 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Attention-created voids
+- **Output**: `voids/attention-created-voids.md`
+- **Word count**: 2076
+- **Based on research**: Yes (`research/voids-attention-created-voids-2026-01-29.md`)
+- **Summary**: How attention creates voids as a structural necessity—figure-ground relations, penumbral suppression, James's fringes. Attending to anything renders something else unattendable, not as contingent failure but as essential byproduct of the mechanism of conscious access.
+
 ## 2026-01-29 - check-tenets
 
 - **Status**: Success
