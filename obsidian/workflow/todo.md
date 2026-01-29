@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review llm-consciousness.md considering embodiment-cognitive-limits insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/embodiment-cognitive-limits.md (2026-01-28) explores how embodiment shapes and constrains cognition—the grounding problem suggests meaning may require embodiment. The llm-consciousness.md article discusses AI consciousness. Check for: (1) cross-links to embodiment limits, (2) whether the grounding objection applies to LLMs (disembodied systems), (3) how conceptual metaphor research bears on whether LLMs can genuinely understand.
-- **Source**: chain (from embodiment-cognitive-limits.md)
-- **Generated**: 2026-01-28
-
 ### P2: Condense arguments-against-materialism-2026-01-06.md (4518 words, 129% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for research/. This is a research notes file—may need restructuring rather than pure condensation. Check whether content should be split into multiple notes or whether redundant sections can be removed. Preserve: key arguments against materialism, source citations, tenet alignments. See /condense skill.
@@ -758,6 +752,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review llm-consciousness.md considering embodiment-cognitive-limits insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/embodiment-cognitive-limits.md (2026-01-28) explores how embodiment shapes and constrains cognition—the grounding problem suggests meaning may require embodiment. The llm-consciousness.md article discusses AI consciousness. Check for: (1) cross-links to embodiment limits, (2) whether the grounding objection applies to LLMs (disembodied systems), (3) how conceptual metaphor research bears on whether LLMs can genuinely understand.
+- **Output**: obsidian/concepts/llm-consciousness.md -- Context: Cross-review llm-consciousness.md considering embodiment-cognitive-limits insights
 
 ### ✓ 2026-01-29: Cross-review conscious-vs-unconscious-processing.md considering phenomenal-overflow insights
 - **Type**: cross-review
