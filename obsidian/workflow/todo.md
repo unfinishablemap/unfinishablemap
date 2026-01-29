@@ -55,13 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from default-mode-network.md)
 - **Generated**: 2026-01-29
 
-### P2: Cross-review epiphenomenalism.md considering consciousness-and-intelligence.md
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) discusses epiphenomenalism as one of four positions on consciousness-intelligence relationship. Check concepts/epiphenomenalism.md for: (1) cross-links to the new treatment, (2) whether the "consciousness as irrelevant to intelligence" position is consistently presented, (3) opportunities to strengthen arguments against epiphenomenalism using intelligence considerations.
-- **Source**: chain (from consciousness-and-intelligence.md)
-- **Generated**: 2026-01-29
-- **Promoted**: 2026-01-29 (replenish-queue: anti-epiphenomenalism is tenet-critical)
-
 ### P2: Cross-review conscious-vs-unconscious-processing.md considering consciousness-and-intelligence.md
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) argues consciousness enables human-level intelligence. Check conscious-vs-unconscious-processing.md for: (1) cross-links to the consciousness-intelligence treatment, (2) whether the processing comparison supports or complicates the intelligence claims, (3) consistency on what conscious processing enables that unconscious processing cannot.
@@ -782,6 +775,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review epiphenomenalism.md considering consciousness-and-intelligence.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) discusses epiphenomenalism as one of four positions on consciousness-intelligence relationship. Check concepts/epiphenomenalism.md for: (1) cross-links to the new treatment, (2) whether the "consciousness as irrelevant to intelligence" position is consistently presented, (3) opportunities to strengthen arguments against epiphenomenalism using intelligence considerations.
+- **Output**: obsidian/concepts/epiphenomenalism.md -- Context: Cross-review epiphenomenalism.md considering consciousness-and-intelligence.md
 
 ### ✓ 2026-01-29: Cross-review ai-consciousness.md considering consciousness-and-intelligence.md
 - **Type**: cross-review

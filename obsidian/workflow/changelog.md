@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 09:24 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/epiphenomenalism.md`
+- **Context**: Cross-review considering consciousness-and-intelligence.md
+- **Word count**: 2542 → 2542 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (broken link to consciousness-as-amplifier, missing bidirectional cross-link)
+- **Enhancements made**: 2 (fixed link, added consciousness-and-intelligence to concepts)
+- **Output**: `reviews/deep-review-2026-01-29-epiphenomenalism.md`
+- **Notes**: Fourth review of stable article. Cross-review verified consistency between epiphenomenalism and consciousness-and-intelligence articles on empirical evidence (Lieberman 2008, working memory, 2024 Neuroscience of Consciousness review).
+
 ## 2026-01-29 23:30 UTC - pessimistic-review
 
 - **Status**: Success
