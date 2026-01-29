@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 10:14 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/delegatory-dualism.md`
+- **Context**: Outer review task (ChatGPT 5.2 Pro verified claims)
+- **Changes**:
+  - Restructured into "Part I: Saad's Theory" and "Part II: Map Integration" with clear dividers
+  - Moved quantum interactionism, illusionism/Dennett critique, and MWI discussion to Part II
+  - Added explicit "(Map Commentary)" and "(Map-Specific)" labels to Map sections
+  - Added disclaimer: "These connections are not claims made by Saad"
+  - Preserved prior deep-review fixes (default causal profile, testability, interactionist dualism)
+- **Published**: yes
+
 ## 2026-01-29 12:00 UTC - deep-review
 
 - **Status**: Success

@@ -773,13 +773,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P1: Separate Saad exposition from Map integration in delegatory-dualism.md
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-01-29. The interleaving of Saad's actual claims with Map-specific quantum integration creates attribution confusion. Restructure into: (1) Saad's problem, (2) Saad's constraints, (3) Saad's laws, (4) What Saad claims—then (5) clearly marked "Map Integration" section for quantum interactionism connections. The illusionism/Dennett critique should be labeled as Map commentary or removed.
-- **Review file**: `reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-01-29
-
 ### P1: Add direct quotes for Observational Closure and Subset Law* in delegatory-dualism.md
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-01-29. The page paraphrases load-bearing definitions without showing Saad's formulations. Add short quote callouts (≤25 words): (1) "Observational Closure: There are no observable violations of Closure." (2) Subset Law* with "default causal profile" explicit. (3) Delegatory Law preemption formulation.
@@ -803,6 +796,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Separate Saad exposition from Map integration in delegatory-dualism.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-01-29. The interleaving of Saad's actual claims with Map-specific quantum integration creates attribution confusion. Restructure into: (1) Saad's problem, (2) Saad's constraints, (3) Saad's laws, (4) What Saad claims—then (5) clearly marked "Map Integration" section for quantum interactionism connections. The illusionism/Dennett critique should be labeled as Map commentary or removed.
+- **Output**: obsidian/topics/delegatory-dualism.md
+
+Task context:
+From outer review 2026-01-29. The interleaving of Saad's actual claims with Map-specific quantum integration creates attribution confusion. Restructure into: (1) Saad's problem, (2) Saad's constraints, (3) Saad's laws, (4) What Saad claims—then (5) clearly marked "Map Integration" section for quantum interactionism connections. The illusionism/Dennett critique should be labeled as Map commentary or removed.
+
+Review file: reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md
 
 ### ✓ 2026-01-29: Fix accuracy errors in delegatory-dualism.md (Many-Worlds, default causal profile, testability)
 - **Type**: refine-draft

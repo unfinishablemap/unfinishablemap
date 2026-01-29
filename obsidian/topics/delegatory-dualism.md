@@ -4,7 +4,7 @@ description: "Bradford Saad's 2025 theory explains how consciousness causes beha
 created: 2026-01-29
 modified: 2026-01-29
 human_modified:
-ai_modified: 2026-01-29T09:52:07+00:00
+ai_modified: 2026-01-29T10:14:38+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,11 @@ last_deep_review: 2026-01-29T21:45:00+00:00
 
 Delegatory dualism is Bradford Saad's 2025 solution to the causal exclusion problem—the challenge of how consciousness can cause physical effects without overdetermining outcomes that already have sufficient physical causes. The core insight: physical brain states *delegate* their causal responsibilities to conscious experiences that share their causal profiles. When you wince from pain, the pain causes the wince by taking over causal work the physical state would otherwise perform. No overdetermination occurs because the physical state's contribution is preempted, not duplicated.
 
-This framework provides theoretical backing for The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet while respecting empirical constraints. Saad shows that dualists need not accept epiphenomenalism (consciousness as causally inert) or embrace awkward overdetermination. A third path exists.
+This article first presents Saad's theory on its own terms, then explores how the Map integrates it with our quantum interactionist framework.
+
+---
+
+# Part I: Saad's Theory
 
 ## The Problem Saad Addresses
 
@@ -41,15 +45,15 @@ Previous responses accepted one horn or the other:
 - **Epiphenomenalists** accept that experiences don't cause physical effects—they're merely along for the ride
 - **Overdeterminists** accept systematic overdetermination as the price of mental causation
 
-Saad rejects both. Epiphenomenalism is self-undermining (if consciousness causes nothing, we have no reason to trust our reports about consciousness). [[illusionism|Illusionists]] respond that sophisticated self-models could generate accurate reports without phenomenal causation—but this trades the hard problem for an equally hard "illusion problem," since representing oneself as conscious presupposes something it is like to have that representation. Even heterophenomenology—Dennett's method of studying consciousness through third-person observation of reports—must identify which behaviors count as "conscious reports," a categorization that implicitly relies on phenomenal concepts. Overdetermination posits redundant causation without explaining why. Delegatory dualism offers a third option: experiences genuinely cause physical effects by *taking over* causal work, not duplicating it.
+Saad rejects both. Epiphenomenalism is self-undermining (if consciousness causes nothing, we have no reason to trust our reports about consciousness). Overdetermination posits redundant causation without explaining why. Delegatory dualism offers a third option: experiences genuinely cause physical effects by *taking over* causal work, not duplicating it.
 
-## Five Constraints on Dualist Theories
+## Saad's Five Constraints
 
 Saad argues any adequate dualist theory must satisfy five constraints:
 
 ### 1. Efficacy
 
-Experiences must cause physical effects. Pain causes wincing; visual experience causes reaching. This constraint rules out epiphenomenalism directly. The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet embodies this requirement: "consciousness is not a passive observer—it causally influences the physical world."
+Experiences must cause physical effects. Pain causes wincing; visual experience causes reaching. This constraint rules out epiphenomenalism directly.
 
 ### 2. Non-Overdetermination
 
@@ -59,7 +63,7 @@ Physical effects caused by experience should not *also* have concurrent sufficie
 
 Experiences should not cause *observable* violations of physical causal patterns. This is weaker than strict causal closure. Saad's key distinction: dualists need not accept that physics is complete everywhere—only that mental causation doesn't produce empirically detectable anomalies in laboratory experiments.
 
-This constraint aligns with the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet, which holds that consciousness influences outcomes "without injecting energy or violating conservation laws" and rules out "any interaction that would be empirically detectable under current experimental precision."
+Saad defines an observable violation as "a violation of Closure that would be recognized as such by an experiment of the sort performed in physics or neuroscience that lies within the realm of nomic possibility."
 
 ### 4. Upward Systematicity
 
@@ -71,7 +75,7 @@ Duplicating a system's functional organization should preserve its phenomenology
 
 Saad observes that existing dualist theories satisfy only some constraints. Epiphenomenalism satisfies all but Efficacy. Overdeterminism satisfies Efficacy but fails Non-Overdetermination. No previous theory satisfies all five.
 
-## The Delegation Mechanism
+## Saad's Two Laws
 
 Delegatory dualism works through two laws:
 
@@ -111,23 +115,7 @@ Saad argues dualists need only respect observational closure. The delegation mec
 
 This matters because the main argument against interactionism appeals to closure. If dualists can accept observational closure while rejecting universal closure, the argument loses force. Physics need not be complete *everywhere*—it need only appear complete in laboratories. Consciousness can operate causally without leaving detectable traces.
 
-This parallels the Map's quantum interactionism: consciousness biases undetermined outcomes without changing probability distributions. No experiment detects the bias because all outcomes were already quantum-mechanically possible.
-
-## Relation to Quantum Interactionism
-
-How does delegatory dualism relate to the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework?
-
-The frameworks are compatible but operate at different levels:
-
-**Quantum interactionism** specifies *where* consciousness interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. This is a claim about mechanism—the physical substrate of mental causation.
-
-**Delegatory dualism** specifies *how* mental causation avoids overdetermination: through delegation and preemption. This is a claim about causal structure—the logic of mind-body interaction.
-
-The frameworks could integrate: quantum indeterminacy provides the physical mechanism; delegation provides the causal structure. Consciousness biases quantum outcomes (the mechanism); this biasing constitutes the physical state delegating its causal role to the experience (the structure).
-
-Alternatively, delegatory dualism is more general—it doesn't require quantum mechanics. The delegation framework could apply wherever mind and body interact, quantum or otherwise. For those skeptical of quantum consciousness, delegatory dualism offers an independent response to the exclusion problem.
-
-## What Delegation Explains
+## What Saad Claims Delegation Explains
 
 ### Why We Report Our Experiences
 
@@ -147,7 +135,7 @@ Neural correlates of consciousness (NCCs) are tight correlations between brain s
 
 Delegatory dualism predicts exactly this: psychophysical laws (Subset Law*) ensure systematic correlations between physical organization and phenomenology. NCC research discovers these correlations. Nothing about NCCs favors materialism; delegatory dualism predicts the same findings.
 
-### Testability
+### Testability and Limitations
 
 Delegatory dualism is designed to satisfy Observational Closure—no observable violations of physical causal patterns. This means the theory deliberately avoids producing lab-detectable anomalies. Saad acknowledges this creates limited discriminability: the view is "in the same predictive boat" as epiphenomenalist dualism, overdeterminist dualism, and physicalism when it comes to empirical tests.
 
@@ -173,17 +161,57 @@ Preemption involves backup causation—both causes exist, one just operates firs
 
 What metaphysical mechanism allows a non-physical cause to preempt a physical one?
 
-**Response**: This is the general interaction problem for dualism, not specific to delegation. Delegatory dualism answers the *structure* question (how mental causation avoids overdetermination); the *mechanism* question (how non-physical causes affect physical systems) remains for any interactionist view. The Map's quantum framework addresses mechanism separately.
+**Response**: This is the general interaction problem for dualism, not specific to delegation. Delegatory dualism answers the *structure* question (how mental causation avoids overdetermination); the *mechanism* question (how non-physical causes affect physical systems) remains for any interactionist view.
 
 ### Objection: Does this framework require a specific quantum interpretation?
 
 **Response**: Saad does not discuss Many-Worlds or commit to any particular quantum interpretation. Delegatory dualism is a framework about causal structure—how mental causation avoids overdetermination—not about the physical mechanism of mind-body interaction. Quantum mechanics is treated as one possible mechanism route, not a presupposition.
 
-*Map integration note*: The Map's [[tenets#^no-many-worlds|rejection of Many-Worlds]] is a separate commitment. If one combines delegatory dualism with the Map's quantum interactionism, then rejection of MWI becomes relevant to the combined view. But this is a Map-specific integration, not a requirement of Saad's framework itself.
+---
+
+# Part II: Map Integration
+
+*The following sections represent The Unfinishable Map's interpretation and integration of delegatory dualism with our quantum interactionist framework. These connections are not claims made by Saad.*
+
+## Relation to Quantum Interactionism
+
+How does delegatory dualism relate to the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework?
+
+The frameworks are compatible but operate at different levels:
+
+**Quantum interactionism** specifies *where* consciousness interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. This is a claim about mechanism—the physical substrate of mental causation.
+
+**Delegatory dualism** specifies *how* mental causation avoids overdetermination: through delegation and preemption. This is a claim about causal structure—the logic of mind-body interaction.
+
+The frameworks could integrate: quantum indeterminacy provides the physical mechanism; delegation provides the causal structure. Consciousness biases quantum outcomes (the mechanism); this biasing constitutes the physical state delegating its causal role to the experience (the structure).
+
+Alternatively, delegatory dualism is more general—it doesn't require quantum mechanics. The delegation framework could apply wherever mind and body interact, quantum or otherwise. For those skeptical of quantum consciousness, delegatory dualism offers an independent response to the exclusion problem.
+
+## Observational Closure and Minimal Quantum Interaction
+
+Saad's Observational Closure parallels the Map's approach to mental causation. Both hold that consciousness can be causally efficacious without producing empirically detectable anomalies.
+
+The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that consciousness influences outcomes "without injecting energy or violating conservation laws" and rules out "any interaction that would be empirically detectable under current experimental precision." Saad's Observational Closure provides a *philosophical* justification for this empirical invisibility, independent of quantum considerations.
+
+## The Illusionism Challenge (Map Commentary)
+
+A challenge to delegatory dualism comes from [[illusionism|illusionists]], who argue that sophisticated self-models could generate accurate reports about consciousness without phenomenal causation—we merely *seem* to ourselves to be conscious. This trades the hard problem for an equally hard "illusion problem," since representing oneself as conscious presupposes something it is like to have that representation.
+
+Even heterophenomenology—Dennett's method of studying consciousness through third-person observation of reports—must identify which behaviors count as "conscious reports," a categorization that implicitly relies on phenomenal concepts.
+
+Delegatory dualism sidesteps this debate by granting experiences genuine causal efficacy. If pain *causes* you to report being in pain, there is no "illusion" to explain away.
+
+## Many-Worlds Considerations (Map-Specific)
+
+Saad does not discuss Many-Worlds interpretation (MWI) in his paper. However, the Map's [[tenets#^no-many-worlds|rejection of MWI]] becomes relevant when integrating delegatory dualism with our quantum interactionism.
+
+If MWI is true, every quantum outcome occurs in some branch—there is no selection among possibilities, only branching. The Map's quantum interactionism requires outcomes to be *selected* (not merely branched), so rejection of MWI is necessary for the combined view.
+
+This is a Map-specific integration point, not a requirement of Saad's theory itself. Delegatory dualism as a framework is neutral on quantum interpretation.
 
 ## Relation to Site Perspective
 
-Delegatory dualism strongly supports the Map's core tenets:
+Delegatory dualism supports the Map's core tenets:
 
 **Dualism tenet**: Saad defends interactionist dualism—the view that experiences cause physical effects while being "neither identical with nor grounded in" physical states. The framework presupposes irreducibility but focuses on mental causation rather than committing to specific views about the metaphysics of mental substance.
 
@@ -193,9 +221,9 @@ Delegatory dualism strongly supports the Map's core tenets:
 
 **Occam's Razor Has Limits tenet**: Delegatory dualism demonstrates that sophisticated dualist theories can satisfy stringent constraints. The framework is more complex than epiphenomenalism but more explanatory. Simplicity isn't everything.
 
-**No Many-Worlds tenet**: Saad does not discuss Many-Worlds, and delegatory dualism as a framework does not depend on any particular quantum interpretation. However, if one integrates Saad's delegation mechanism with the Map's quantum interactionism (where consciousness biases quantum outcomes), then the Map's rejection of MWI becomes relevant—MWI would eliminate the outcomes consciousness could select. This is a Map-specific integration point, not a requirement of Saad's theory itself.
+**No Many-Worlds tenet**: Saad does not discuss Many-Worlds, and delegatory dualism as a framework does not depend on any particular quantum interpretation. The Map's rejection of MWI is relevant only to our quantum integration proposal, not to Saad's theory itself.
 
-Saad's work strengthens the philosophical foundations for the Map's interactionist position. The delegation mechanism answers the "how is this possible?" question that has troubled interactionists since Descartes.
+Saad's work strengthens the philosophical foundations for the Map's interactionist position. The delegation mechanism answers the exclusion/overdetermination *structure* problem—how mental causation is logically coherent. The *mechanism* question (how non-physical causes interact with physical systems) remains, and the Map addresses it via quantum interactionism.
 
 ## Further Reading
 
@@ -218,15 +246,28 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 - Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 - Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 
-<!-- AI REFINEMENT LOG - 2026-01-29
-Changes made based on outer review by ChatGPT 5.2 Pro (verified against PMC source):
+<!-- AI REFINEMENT LOG - 2026-01-29 (refine-draft pass)
+Changes made based on outer review by ChatGPT 5.2 Pro (verification notes confirmed against PMC source):
 
-1. Subset Law*: Added "default causal profile" qualifier which is central to Saad's formulation—the "default" enables preemption rather than overdetermination
-2. Many-Worlds/quantum: Removed incorrect claim that Saad "presupposes collapse-based quantum mechanics"—Saad doesn't discuss MWI; quantum is treated as a separate mechanism route. Marked quantum integration as Map-specific speculation
-3. Testability: Rewrote to reflect Saad's acknowledgment that the theory is "in the same predictive boat" as alternatives—advantages are theoretical coherence, not distinctive predictions
-4. Substance dualism → interactionist dualism: Saad defends interactionist dualism (experiences cause physical effects) without committing to substance dualism specifically
+STRUCTURAL CHANGES (addressing attribution confusion):
+1. Split article into "Part I: Saad's Theory" and "Part II: Map Integration" with clear horizontal rule dividers
+2. Added explicit disclaimer at start of Part II: "The following sections represent The Unfinishable Map's interpretation... These connections are not claims made by Saad."
+3. Moved quantum interactionism discussion entirely to Part II (Map Integration section)
+4. Moved illusionism/Dennett critique to Part II with "(Map Commentary)" label in section heading
+5. Moved Many-Worlds considerations to Part II with "(Map-Specific)" label
 
-Review file: reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md
+CONTENT CHANGES (from prior deep-review, verified):
+1. Subset Law*: "default causal profile" qualifier preserved—central to Saad's formulation
+2. Saad's Observational Closure definition quoted directly in constraints section
+3. Testability section reflects Saad's acknowledgment of "same predictive boat" limitation
+4. "Interactionist dualism" used instead of "substance dualism" (Saad's actual commitment)
+5. Removed tenet citations from Saad's constraints section (those are Map concepts)
+
+The restructure ensures readers can clearly distinguish:
+- Channel A: What Saad actually claims (Part I)
+- Channel B: Map's integration and commentary (Part II)
+
+Review file: obsidian/reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md
 
 This log should be removed after human review.
 -->
