@@ -4,7 +4,7 @@ description: "How quantum wave functions collapsed before conscious observers ex
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-29T13:53:56+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-01-20T12:30:00+00:00
+last_deep_review: 2026-01-29T13:53:56+00:00
 ---
 
 If consciousness participates in quantum collapse, what determined outcomes before conscious observers existed? Star formation, chemical reactions, genetic mutations—all required definite quantum outcomes billions of years before the first mind. This "prebiotic collapse" problem challenges any framework linking consciousness to measurement. The Unfinishable Map's resolution separates two claims: collapse is real (per the [[tenets#^no-many-worlds|No Many Worlds]] tenet), but consciousness doesn't *cause* collapse universally—it *interfaces* with collapse in neural systems. Objective reduction provides the baseline; consciousness modulates rather than initiates.
@@ -150,7 +150,7 @@ The Map rejects illusionism for reasons detailed on its [[illusionism|dedicated 
 
 If consciousness is an illusion, something must generate that illusion. On illusionist accounts, neural processes produce systematic misrepresentations that seem phenomenal. But this explanation itself requires collapse during the prebiotic era—the neural systems that generate the illusion evolved through quantum events (mutations, molecular interactions) that required definite outcomes. The illusionist cannot escape into "it's all illusion" because the very existence of the illusion-generating system presupposes the cosmological timeline the prebiotic problem addresses.
 
-Moreover, Raymond Tallis's regress objection applies: "Misrepresentation presupposes presentation." If the illusion of consciousness seems real to something, that something is doing the experiencing. The problem relocates rather than dissolves.
+Moreover, Raymond Tallis's regress objection applies: "Misrepresentation presupposes presentation." If the illusion of consciousness seems real to something, that something is doing the experiencing. Illusionists contest this regress—arguing that the "seeming" can itself be functionally explained without invoking genuine phenomenal experience—but the debate remains unresolved. At minimum, the problem relocates rather than dissolves.
 
 ## Process Philosophy Perspective
 
