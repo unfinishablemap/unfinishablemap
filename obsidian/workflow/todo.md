@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review hard-problem-of-consciousness.md considering origin-of-consciousness.md
-- **Type**: cross-review
-- **Notes**: New voids article voids/origin-of-consciousness.md (2026-01-29) explores the "origin void"—why consciousness exists at all, a question prior to the hard problem. Check hard-problem-of-consciousness.md for: (1) cross-links to the origin void treatment, (2) whether the distinction between "what consciousness is" and "why it exists" is clear, (3) opportunities to connect the hard problem to deeper ontological questions.
-- **Source**: chain (from origin-of-consciousness.md)
-- **Generated**: 2026-01-29
-
 ### P2: Cross-review mysterianism.md considering origin-of-consciousness.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/origin-of-consciousness.md (2026-01-29) develops the origin void where inquiry confronts the containment of the questioner. Mysterianism addresses cognitive closure—check for: (1) cross-links to origin void, (2) whether mysterian arguments apply to the origin question specifically, (3) connection between cognitive closure and self-referential voids.
@@ -828,6 +822,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review hard-problem-of-consciousness.md considering origin-of-consciousness.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/origin-of-consciousness.md (2026-01-29) explores the "origin void"—why consciousness exists at all, a question prior to the hard problem. Check hard-problem-of-consciousness.md for: (1) cross-links to the origin void treatment, (2) whether the distinction between "what consciousness is" and "why it exists" is clear, (3) opportunities to connect the hard problem to deeper ontological questions.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering origin-of-consciousness.md
 
 ### ✓ 2026-01-29: Deep review embodiment-cognitive-limits.md
 - **Type**: deep-review
