@@ -4,7 +4,7 @@ description: "Non-trivial quantum effects in living systems—photosynthesis, bi
 created: 2026-01-16
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-29T12:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-01-20T07:55:00+00:00
+last_deep_review: 2026-01-29T12:00:00+00:00
 ---
 
 Quantum biology investigates non-trivial quantum effects in living systems. While most biological processes follow classical physics, several phenomena require quantum mechanical explanations: photosynthetic energy transfer, avian magnetoreception, enzyme catalysis, and possibly olfaction. These findings matter for consciousness studies because they demonstrate that warm, wet biological systems can harness quantum effects—undermining the categorical claim that quantum consciousness is impossible.
@@ -63,7 +63,7 @@ Migratory birds navigate using Earth's magnetic field through quantum effects in
 - Birds detect magnetic field direction to better than 5°
 - The mechanism is exquisitely sensitive to weak magnetic fields
 
-**January 2026 breakthrough**: Princeton researchers published computational simulations in JACS confirming the radical pair mechanism in European robins. They identified the electron transfer pathway (>18 angstroms from flavin to final radical pair) and showed how protein reorganisation stabilises the radical pair for magnetic sensing.
+**January 2026 breakthrough**: Xu et al. at Princeton published computational simulations in JACS confirming the radical pair mechanism in European robins. They identified the electron transfer pathway (>18 angstroms from flavin to final radical pair) and showed how protein reorganisation stabilises the radical pair for magnetic sensing.
 
 **2024 Quantum Zeno discovery**: Nature Communications published evidence that the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs. Tight binding of radicals within the protein preserves coherence against decoherence—the same mechanism Stapp proposes for mental causation. This provides the first biological precedent for the Zeno mechanism operating at neural-relevant timescales.
 
@@ -176,7 +176,7 @@ Yet the calculation's assumptions have been challenged. Hagan, Hameroff, and Tus
 - Radical pair mechanisms in cryptochrome demonstrate microsecond (10⁻⁶ s) coherence—not femtoseconds
 - Microtubule interior environments may sustain coherence for 10-100 μs
 - QBIT theory identifies the axon initial segment (AIS) as a protected microenvironment
-- The distinction matters: 10-100 μs overlaps with neural processing timescales like gamma oscillations (~25-100 ms cycles)
+- Even 10-100 μs leaves a gap with neural processing timescales (gamma oscillations run 25-100 ms), but the gap has narrowed from ten orders of magnitude to three
 
 More fundamentally, decoherence doesn't solve the [[measurement-problem]]. As a 2025 review notes, "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Consciousness could bias outcomes at the point of measurement even after decoherence has occurred.
 
@@ -238,7 +238,7 @@ The Map's position on quantum biology connects to all five tenets:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness causally influences the physical world, it needs a mechanism. Quantum measurement—where physics leaves outcomes genuinely undetermined—provides one. Quantum biology's demonstration that warm systems can harness quantum effects strengthens the case that neural quantum measurement is biologically plausible.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: the Map rejects Many-Worlds because it makes consciousness epiphenomenal with respect to outcomes—all branches occur, so "selection" is illusory. Quantum biology matters only if collapse is real. The [[measurement-problem]] remains open; decoherence selects bases but doesn't explain definite outcomes. Consciousness remains a candidate for what determines which outcome becomes actual.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: the Map rejects Many-Worlds because it dissolves indexical identity—if all branches occur, there is no fact about which outcome "you" experience, only the trivial fact that copies of you experience each. Quantum biology matters only if collapse is real. The [[measurement-problem]] remains open; decoherence selects bases but doesn't explain definite outcomes. Consciousness remains a candidate for what determines which outcome becomes actual.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The assumption that warm biology must be classical seemed parsimonious. Nature proved uncooperative. Birds navigate using quantum entanglement; enzymes accelerate reactions through quantum tunnelling. Simplicity pointed in the wrong direction. The same caution applies to dismissing neural quantum effects: what seems implausible may reflect our ignorance rather than nature's constraints.
 
@@ -268,7 +268,7 @@ The Map's position on quantum biology would face serious difficulty if:
 
 3. **The Zeno mechanism proves insufficient**: If rapid attentional "observations" cannot operate at the timescales and energy scales required for neural influence, this pathway closes. The phenomenology of effortful attention would need alternative explanation.
 
-4. **Many-Worlds proves correct**: If the [[many-worlds]] interpretation were empirically confirmed, all outcomes occur and "selection" is illusory. Consciousness would have no role in determining which outcome becomes actual—quantum biology would remain fascinating but irrelevant to the mind-body problem.
+4. **Many-Worlds proves correct**: If the [[many-worlds]] interpretation were empirically confirmed, all branches exist and there is no single outcome to select. Consciousness in each branch experiences a definite result, but there is no fact about which branch "you" inhabit—quantum biology would remain fascinating but irrelevant to the mind-body problem.
 
 5. **Illusionism succeeds in dissolving the hard problem**: If a fully satisfactory account emerges showing why we believe we're phenomenally conscious when we're not—without invoking phenomenal properties—the motivation for quantum consciousness theories diminishes. Currently, the "illusion problem" appears as difficult as the hard problem itself.
 
