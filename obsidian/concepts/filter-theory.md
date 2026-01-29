@@ -4,12 +4,13 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-27T01:07:31+00:00
+ai_modified: 2026-01-29T05:14:47+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[altered-states-of-consciousness]]"
+  - "[[default-mode-network]]"
   - "[[meditation-and-consciousness-modes]]"
   - "[[minimal-consciousness]]"
   - "[[buddhism-and-dualism]]"
@@ -28,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-27T01:07:31+00:00
+last_deep_review: 2026-01-29T05:14:47+00:00
 ---
 
 The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by William James, Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain is interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to The Unfinishable Map's [[interactionist-dualism|interactionist dualism]] and explains how [[tenets#^dualism|dualism]] can accommodate the empirical findings that seem to support materialism.
@@ -78,9 +79,11 @@ Huxley's key insight: reduced brain activity can *increase* conscious experience
 
 ### The Psychedelic Paradox
 
-Neuroimaging studies of psychedelic states show *decreased* activity in the default mode network alongside *increased* global connectivity between brain networks. The experience reports are striking: *expanded*, *richer*, *more vivid* conscious experience. On simple production models, disrupted neural organization should produce disrupted consciousness—yet psychedelics often produce experiences reported as more coherent and meaningful than ordinary waking states.
+Neuroimaging studies of psychedelic states show *decreased* activity in the [[default-mode-network]] alongside *increased* global connectivity between brain networks. The experience reports are striking: *expanded*, *richer*, *more vivid* conscious experience. On simple production models, disrupted neural organization should produce disrupted consciousness—yet psychedelics often produce experiences reported as more coherent and meaningful than ordinary waking states.
 
-Filter theory interprets this pattern: the DMN normally constrains consciousness to a narrow band of self-referential processing. Psychedelics disrupt this constraint while increasing global integration. The brain isn't producing *less* consciousness—it's filtering *less*. The enhanced between-network connectivity represents new channels opening as normal constraints dissolve. The "reducing valve" loosens, and consciousness floods through previously blocked pathways.
+A physicalist would object: different neural processing simply produces different experience—no "filter" or "access" is required. DMN suppression changes which computations occur, hence which experiences arise. This objection is coherent. What makes the filter interpretation attractive is not additional evidence against physicalism but coherence with the [[hard-problem-of-consciousness|hard problem]]—even perfect neural mapping leaves unexplained *why* there is something it is like to undergo these processes.
+
+Filter theory interprets this pattern: the DMN normally constrains consciousness to a narrow band of self-referential processing (what the [[default-mode-network]] article calls the "narrative filter"). Psychedelics disrupt this constraint while increasing global integration. The brain isn't producing *less* consciousness—it's filtering *less*. The enhanced between-network connectivity represents new channels opening as normal constraints dissolve.
 
 This interpretation aligns with Aldous Huxley's original proposal and with recent models like REBUS (Relaxed Beliefs Under Psychedelics): what's being relaxed is precisely the constraining function that normally restricts conscious experience to a biologically useful subset.
 
@@ -92,13 +95,13 @@ This divergence is problematic for production models: if consciousness is produc
 
 ### Received But Not Perceived
 
-Mashour and Bharioke's 2024 *Neuron* review confirms that sensory information reaches the brain during light sedation but is not perceived—what they term "received but not perceived." The signal arrives at sensory cortex; something prevents its manifestation in consciousness. This is precisely what filter theory predicts: the signal reaches the interface but the interface blocks transmission. Disrupt the filter mechanism differently (ketamine vs. propofol), and the same signal may or may not reach consciousness.
+Mashour and Bharioke's 2024 *Neuron* review confirms that sensory information reaches the brain during light sedation but is not perceived. The signal arrives at sensory cortex; something prevents its manifestation in consciousness. This is precisely what filter theory predicts: the signal reaches the interface but the interface blocks transmission.
 
 ### Meditative Cessation
 
-Advanced meditation produces cessation events—"radically altered states characterised by full loss of phenomenal content"—that differ fundamentally from anaesthetic unconsciousness. Unlike drug-induced states (externally imposed, often disorienting), cessation is voluntary and transformative. Meditators deliberately withdraw consciousness from neural processing, then return with reported insights.
+Advanced meditation produces cessation events—states with full loss of phenomenal content—that differ fundamentally from anaesthetic unconsciousness. Unlike drug-induced states (externally imposed), cessation is voluntary and transformative.
 
-The key difference: anaesthesia disrupts the filter from outside; cessation may represent consciousness *releasing* its grip on the filter from inside. If consciousness merely emerged from brain activity, voluntary cessation should be impossible—one cannot voluntarily eliminate the activity producing oneself. But if consciousness *uses* the brain as interface, it might choose to disengage. The transformative reports of advanced practitioners upon return suggest consciousness operated during cessation unconstrained by the brain-interface.
+The key difference: anaesthesia disrupts the filter from outside; cessation may represent consciousness *releasing* its grip on the filter from inside. If consciousness merely emerged from brain activity, voluntary cessation should be impossible—one cannot voluntarily eliminate the activity producing oneself. But if consciousness *uses* the brain as interface, it might choose to disengage.
 
 ### Near-Death Experiences
 
@@ -220,17 +223,18 @@ The Buddhist framework offers something filter theory lacks: a detailed phenomen
 
 ## Further Reading
 
-- [[minimal-consciousness]] — What does filter theory say about simple organisms?
-- [[buddhism-and-dualism]] — Buddhist parallels to filter theory and meditation as filter reduction
-- [[mysterianism]] — Filter theory is compatible with cognitive closure about consciousness
-- [[altered-states-of-consciousness]] — Psychedelics, flow, hypnosis, and interface configurations
-- [[brain-specialness]] — Why brains specifically can serve as consciousness interfaces
-- [[mind-brain-separation]] — The rendering engine analogy and faculty division
-- [[loss-of-consciousness]] — Anesthesia, covert consciousness, and the filter interpretation
+- [[default-mode-network]] — The brain's self-referential system as a specific filter mechanism
+- [[minimal-consciousness]] — Filter theory and simple organisms
+- [[buddhism-and-dualism]] — Buddhist parallels and meditation as filter reduction
+- [[mysterianism]] — Compatibility with cognitive closure
+- [[altered-states-of-consciousness]] — Psychedelics, flow, and interface configurations
+- [[brain-specialness]] — Why brains specifically serve as interfaces
+- [[mind-brain-separation]] — The rendering engine analogy
+- [[loss-of-consciousness]] — Anesthesia and covert consciousness
 - [[near-death-experiences]] — Enhanced experience during brain compromise
-- [[dreams-and-consciousness]] — Consciousness operating without sensory input
+- [[dreams-and-consciousness]] — Consciousness without sensory input
 - [[neural-correlates-of-consciousness]] — Why correlates don't prove production
-- [[interactionist-dualism]] — The broader framework filter theory supports
+- [[interactionist-dualism]] — The broader framework
 - [[quantum-consciousness]] — The proposed mechanism for mind-brain interface
 
 ## References

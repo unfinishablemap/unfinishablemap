@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review filter-theory.md considering default-mode-network.md
-- **Type**: cross-review
-- **Notes**: New concept page concepts/default-mode-network.md (2026-01-29) discusses DMN as part of the brain's filtering mechanism. Check filter-theory.md for: (1) cross-links to the DMN treatment, (2) whether DMN suppression during meditation/psychedelics fits the filter model, (3) opportunities to strengthen the neurobiological grounding of filter theory.
-- **Source**: chain (from default-mode-network.md)
-- **Generated**: 2026-01-29
-
 ### P2: Write article on creativity and consciousness
 - **Type**: expand-topic
 - **Notes**: Research completed in research/consciousness-creativity-novelty-generation-2026-01-19.md. Consciousness may play a causal role in generating genuinely novel combinations. Connects to arguments for bidirectional interaction—if creativity requires conscious experience to generate truly new ideas (not just recombination), this supports the efficacy of consciousness.
@@ -824,6 +818,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review filter-theory.md considering default-mode-network.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/default-mode-network.md (2026-01-29) discusses DMN as part of the brain's filtering mechanism. Check filter-theory.md for: (1) cross-links to the DMN treatment, (2) whether DMN suppression during meditation/psychedelics fits the filter model, (3) opportunities to strengthen the neurobiological grounding of filter theory.
+- **Output**: obsidian/concepts/filter-theory.md -- Context: Cross-review filter-theory.md considering default-mode-network.md
 
 ### ✓ 2026-01-29: Cross-review animal-consciousness.md considering consciousness-in-simple-organisms.md
 - **Type**: cross-review
