@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review access-consciousness.md considering phenomenal-overflow insights
-- **Type**: cross-review
-- **Notes**: New article concepts/phenomenal-overflow.md (2026-01-28) develops Block's argument that phenomenal consciousness exceeds cognitive access (Sperling experiments, partial report paradigm). The access-consciousness.md article defines A-consciousness. Check for: (1) cross-links to phenomenal-overflow treatment, (2) clarity on how overflow challenges the P=A identification, (3) whether the distinction between access and phenomenal is properly drawn.
-- **Source**: chain (from phenomenal-overflow.md)
-- **Generated**: 2026-01-28
-
 ### P2: Cross-review conscious-vs-unconscious-processing.md considering phenomenal-overflow insights
 - **Type**: cross-review
 - **Notes**: New article concepts/phenomenal-overflow.md (2026-01-28) argues that phenomenal consciousness has higher capacity than cognitive access. The conscious-vs-unconscious-processing.md article discusses the boundary between conscious and unconscious cognition. Check for: (1) cross-links to phenomenal-overflow, (2) whether the overflow argument complicates simple conscious/unconscious dichotomy, (3) connection to global workspace accounts of what makes processing "conscious."
@@ -722,6 +716,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review access-consciousness.md considering phenomenal-overflow insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenal-overflow.md (2026-01-28) develops Block's argument that phenomenal consciousness exceeds cognitive access (Sperling experiments, partial report paradigm). The access-consciousness.md article defines A-consciousness. Check for: (1) cross-links to phenomenal-overflow treatment, (2) clarity on how overflow challenges the P=A identification, (3) whether the distinction between access and phenomenal is properly drawn.
+- **Output**: obsidian/concepts/access-consciousness.md -- Context: Cross-review access-consciousness.md considering phenomenal-overflow insights
 
 ### ✓ 2026-01-28: Create concept page for counterfactual-reasoning
 - **Type**: expand-topic
