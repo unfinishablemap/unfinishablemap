@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review attention.md considering attention-created-voids.md
-- **Type**: cross-review
-- **Notes**: New voids article voids/attention-created-voids.md (2026-01-29) argues attention structurally creates unattendable territory—figure creates ground, penumbral suppression, James's unfocusable fringes. Check attention.md for: (1) cross-links to the voids treatment, (2) whether attention's structural limitations deserve mention alongside its role in consciousness, (3) consistency with Gurwitsch/Watzl frameworks.
-- **Source**: chain (from attention-created-voids.md)
-- **Generated**: 2026-01-29
-
 ### P2: Deep review delegatory-dualism.md
 - **Type**: deep-review
 - **Notes**: Brand new AI-generated topics article (ai_contribution: 100), never deep-reviewed. Presents Bradford Saad's 2025 delegatory dualism as solution to causal exclusion. Should verify: (1) accuracy of Saad's position (based on 2025 preprint), (2) proper engagement with Kim's exclusion argument, (3) alignment with Bidirectional Interaction and Dualism tenets, (4) fair treatment of epiphenomenalist and overdeterminist alternatives.
@@ -776,6 +770,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review attention.md considering attention-created-voids.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/attention-created-voids.md (2026-01-29) argues attention structurally creates unattendable territory—figure creates ground, penumbral suppression, James's unfocusable fringes. Check attention.md for: (1) cross-links to the voids treatment, (2) whether attention's structural limitations deserve mention alongside its role in consciousness, (3) consistency with Gurwitsch/Watzl frameworks.
+- **Output**: obsidian/concepts/attention.md -- Context: Cross-review attention.md considering attention-created-voids.md
 
 ### ✓ 2026-01-29: Cross-review mental-causation.md considering delegatory-dualism.md
 - **Type**: cross-review

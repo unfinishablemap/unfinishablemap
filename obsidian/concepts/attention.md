@@ -4,7 +4,7 @@ description: "Attention selects information for conscious processing. Its relati
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-27T04:38:55+00:00
+ai_modified: 2026-01-29T14:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-27T04:38:55+00:00
+last_deep_review: 2026-01-29T14:30:00+00:00
 ---
 
 Attention and consciousness are closely linked but increasingly understood as dissociable processes. You can attend to things you're not conscious of (blindsight patients orient toward stimuli they deny seeing) and be conscious of things you're not attending to (peripheral awareness, the gist of a scene). This dissociation matters philosophically: it suggests consciousness cannot be reduced to attentional mechanisms—and it positions attention as the potential interface where consciousness influences the physical world.
@@ -74,6 +74,12 @@ Colin McGinn's [[mysterianism]] suggests the relationship might be inherently op
 ## Attention as the Mind-Matter Interface
 
 Here the Map's framework offers a distinctive perspective. Rather than asking whether attention *is* consciousness, ask: does attention *mediate* consciousness's influence on the physical world?
+
+### Attention Creates Voids
+
+Before examining attention's positive role as interface, note its structural consequence: to attend is to create voids. The Gestalt figure-ground relation means that focal attention necessarily produces margins and backgrounds that cannot be simultaneously focal. James's "fringe of consciousness" cannot be directly examined without transforming it into something else. Penumbral suppression actively darkens what surrounds the attentional spotlight.
+
+This matters for the interface hypothesis: if attention is how consciousness engages matter, then consciousness necessarily creates inaccessibility as a byproduct of access. Selection implies exclusion. See [[attention-created-voids]] for the full treatment of these structural limits.
 
 ### The Willed-Instructed-Exogenous Distinction
 
@@ -189,6 +195,7 @@ The attention-consciousness relationship illuminates all five tenets:
 
 ## Further Reading
 
+- [[attention-created-voids]] — How attention creates structural voids as a byproduct of selection
 - [[voluntary-attention]] — The willed-instructed-exogenous distinction
 - [[attention-as-interface]] — Attention mediates consciousness's causal influence on matter
 - [[meditation-and-consciousness-modes]] — FA/OM meditation and selection vs witnessing modes
