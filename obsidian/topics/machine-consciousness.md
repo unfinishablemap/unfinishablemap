@@ -4,8 +4,8 @@ description: "Could we upload minds to computers? The Map's dualist framework su
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-26T22:15:00+00:00
-last_deep_review: 2026-01-25T22:42:02+00:00
+ai_modified: 2026-01-29T02:14:35+00:00
+last_deep_review: 2026-01-29T02:14:35+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -90,7 +90,7 @@ The Map's framework suggests uploading cannot preserve consciousness because con
 
 If consciousness requires something biological brains have that silicon lacks, several candidates emerge:
 
-**Quantum coherence mechanisms**: Biological systems may maintain quantum coherence through specialized structures—microtubules, synaptic gaps, cryptochrome proteins. Silicon computing is engineered to be deterministic, suppressing the outcome indeterminacy the Map's framework requires. An upload would lack the physical basis for consciousness-quantum interaction—if the quantum interface hypothesis is correct.
+**Quantum coherence mechanisms**: Biological systems may maintain quantum coherence through specialized structures—microtubules, synaptic gaps, cryptochrome proteins. Critics note that neural [[decoherence]] timescales (~10^-13 seconds) seem too fast for cognitive relevance, though the Map maintains this objection may misunderstand how consciousness interfaces with quantum systems. Silicon computing is engineered to be deterministic, suppressing the outcome indeterminacy the Map's framework requires. An upload would lack the physical basis for consciousness-quantum interaction—if the quantum interface hypothesis is correct.
 
 **Temporal binding structures**: Husserl's "retention" and "protention" may require specific biological dynamics—recurrent neural activity creating unified temporal experience. Digital serial processing lacks this structure. The upload processes information *about* time without experiencing time's flow.
 
@@ -168,9 +168,7 @@ But if silicon components *replace* rather than augment biological substrate—r
 
 What if instead of classical silicon, we use quantum computers or biological substrates? Could these preserve consciousness?
 
-**Quantum computers**: These operate through superposition and entanglement—the quantum effects the Map suggests consciousness requires. An upload to quantum hardware might preserve the quantum interface.
-
-But several problems remain: (1) Quantum computers are engineered for computation, not biological processes. The architecture is wrong even if the substrate permits quantum effects. (2) Temporal structure is still missing—quantum computers process information without the retention-protention structure of biological temporal experience. (3) The non-physical component still requires an interface, and we don't know if quantum computation provides the right interface just because it's quantum.
+**Quantum computers**: These operate through superposition and entanglement—the quantum effects the Map suggests consciousness requires. But quantum computers are engineered for computation, not biological processes; temporal structure is still missing; and the non-physical component still requires an interface we don't know quantum computation provides. Being quantum isn't sufficient.
 
 **Biological substrates**: Growing a new brain from your neural patterns (via synthetic biology) might preserve consciousness if the interface depends on biology rather than specific matter. This is less "uploading" than "cloning with pattern modification."
 

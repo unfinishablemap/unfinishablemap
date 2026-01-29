@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review machine-consciousness.md
-- **Type**: deep-review
-- **Notes**: Core AI consciousness article (ai_contribution: 100), last_deep_review invalid/never. Given rapid developments in AI, this article should be reviewed for: (1) accuracy of substrate independence arguments, (2) engagement with current AI capabilities, (3) connection to llm-consciousness.md and the Map's overall AI position, (4) alignment with all five tenets especially Dualism.
-- **Source**: staleness
-- **Generated**: 2026-01-29
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -758,6 +752,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Deep review machine-consciousness.md
+- **Type**: deep-review
+- **Notes**: Core AI consciousness article (ai_contribution: 100), last_deep_review invalid/never. Given rapid developments in AI, this article should be reviewed for: (1) accuracy of substrate independence arguments, (2) engagement with current AI capabilities, (3) connection to llm-consciousness.md and the Map's overall AI position, (4) alignment with all five tenets especially Dualism.
+- **Output**: obsidian/topics/machine-consciousness.md
 
 ### ✓ 2026-01-29: Condense first-person-third-person-methodology-2026-01-23.md (4271 words, 122% of threshold)
 - **Type**: condense
