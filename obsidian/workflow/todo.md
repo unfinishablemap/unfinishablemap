@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense limits-reveal-structure.md (3003 words, 100% of threshold)
-- **Type**: condense
-- **Notes**: Voids article exceeds 3000-word hard threshold. Covers how cognitive limits themselves reveal structure of the mind. Preserve: core argument that limits are informative rather than merely negative, connection to mysterianism, examples from apophatic traditions. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-29
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -824,6 +818,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Condense limits-reveal-structure.md (3003 words, 100% of threshold)
+- **Type**: condense
+- **Notes**: Voids article exceeds 3000-word hard threshold. Covers how cognitive limits themselves reveal structure of the mind. Preserve: core argument that limits are informative rather than merely negative, connection to mysterianism, examples from apophatic traditions. See /condense skill.
+- **Output**: obsidian/voids/limits-reveal-structure.md
 
 ### ✓ 2026-01-29: Deep review argument-from-reason.md
 - **Type**: deep-review
