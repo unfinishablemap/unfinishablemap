@@ -74,10 +74,13 @@ Capture findings using these severity definitions:
 
 **Critical issues** (must fix) — ONLY flag as critical if:
 - Factual error (wrong date, misattributed quote, incorrect scientific claim)
+- **Attribution error** (claims attributed to wrong author, or claims author didn't make)
+- **Dropped qualifiers** that change meaning (e.g., "default causal profile" → "causal profile")
 - Internal contradiction (article contradicts itself)
 - Missing required section (e.g., no "Relation to Site Perspective")
 - Broken links or references
 - Severe style guide violation (e.g., missing front-loaded summary)
+- **Source/Map conflation** (Map interpretation presented as source's claim)
 
 **NOT critical** — These are medium or low, not critical:
 - "Persona X disagrees with the position" (philosophical disagreement is expected)
@@ -97,6 +100,36 @@ Capture findings using these severity definitions:
 **Counterarguments needing response** — Note these separately
 
 **Unsupported claims** — Flag factual claims without support
+
+### 2.5 Attribution Accuracy Check (Required for Source-Based Articles)
+
+If the article is based on a specific source (research paper, philosopher's work), run this dedicated check. **These errors are critical** because they damage credibility.
+
+#### Misattribution Check
+- [ ] Are all claims attributed to the source actually in the source?
+- [ ] Did we attribute a framework/constraints to the right author? (e.g., "five constraints" are Saad's, not Chalmers')
+- [ ] Did we claim the author discusses something they don't? (e.g., "Many-Worlds" when they don't mention it)
+
+#### Qualifier Preservation Check
+- [ ] Are crucial qualifiers preserved? ("default causal profile" not just "causal profile")
+- [ ] Did we change "X or at least Y" to just "X"?
+- [ ] Did we change "some" to "all" or "wherever"?
+
+#### Position Strength Check
+- [ ] Did we present exploratory positions as commitments? ("explores" ≠ "argues")
+- [ ] Did we claim shared commitments that aren't shared? (e.g., "shares our rejection of MWI" when author expresses "sympathy for MWI")
+- [ ] Did we use "solves" or "answers" when source uses "addresses" or "explores"?
+
+#### Source/Map Separation Check
+- [ ] Is source exposition clearly separated from Map interpretation?
+- [ ] Are Map-specific arguments (tenets, quantum interactionism) clearly labeled as such?
+- [ ] Did we inject Map arguments as if they came from the source?
+
+#### Self-Contradiction Check
+- [ ] Did we claim something is "not required" but also "required" in different sections?
+- [ ] Are claims about the theory's commitments consistent throughout?
+
+**If any check fails, this is a CRITICAL issue.** Fix it before proceeding to optimistic review.
 
 ### 3. Run Optimistic Review (Deep Mode)
 
@@ -321,6 +354,17 @@ Enhanced:
 - **Don't re-flag issues that previous reviews marked as resolved** — If a prior review said "addressed Dennett's heterophenomenology," don't flag "functionalist response too weak" again unless there's a specific new problem
 - **Don't treat philosophical disagreement as "critical"** — The adversarial personas are *designed* to disagree with dualist content. "MWI defender finds this unsatisfying" is not a critical issue; it's an expected philosophical standoff
 - **Don't oscillate** — If you find yourself wanting to expand something a previous review trimmed (or vice versa), that's a signal the article has reached stability, not that it needs more changes
+
+### Attribution Errors to Catch
+
+These errors have been identified in outer reviews and ARE critical issues:
+
+- **Don't miss misattribution** — If the article says "Chalmers argues X" but X is actually from Saad, this is critical
+- **Don't miss dropped qualifiers** — "Default causal profile" → "causal profile" loses essential meaning
+- **Don't miss overstated positions** — "Explores" → "argues" is a misrepresentation
+- **Don't miss source/Map conflation** — Map's quantum speculation presented as if it's the source author's claim
+- **Don't miss self-contradiction** — Claiming theory "doesn't require X" then later "requires X"
+- **Don't miss false shared commitments** — Claiming author "shares our rejection of MWI" when they express sympathy for MWI
 
 ## Scoring and Selection
 
