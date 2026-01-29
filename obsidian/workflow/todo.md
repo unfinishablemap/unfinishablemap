@@ -759,13 +759,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P2: Update causal-closure.md with Observational Closure distinction
-- **Type**: cross-review
-- **Notes**: From outer review 2026-01-29. Saad's distinction between universal Closure and Observational Closure is directly relevant to the causal closure page. Add a subsection: "Observational Closure (Saad 2025)" with the exact definition and explanation of why it blocks a common anti-interactionist argument. Cross-link to delegatory-dualism.md.
-- **Review file**: `reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-01-29
-
 ### P2: Update mental-causation.md with delegation and preemption framework
 - **Type**: cross-review
 - **Notes**: From outer review 2026-01-29. Add subsection "Delegation and Preemption (Saad 2025)" with the major/sergeant analogy and default causal profiles explanation. The Delegatory Law provides a clean "preemption not overdetermination" story relevant to mental causation. Cross-link to delegatory-dualism.md.
@@ -805,6 +798,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Update causal-closure.md with Observational Closure distinction
+- **Type**: cross-review
+- **Notes**: From outer review 2026-01-29. Saad's distinction between universal Closure and Observational Closure is directly relevant to the causal closure page. Add a subsection: "Observational Closure (Saad 2025)" with the exact definition and explanation of why it blocks a common anti-interactionist argument. Cross-link to delegatory-dualism.md.
+- **Output**: obsidian/concepts/causal-closure.md -- Context: Update causal-closure.md with Observational Closure distinction
 
 ### ✓ 2026-01-29: Deep review consciousness-and-intelligence.md
 - **Type**: deep-review

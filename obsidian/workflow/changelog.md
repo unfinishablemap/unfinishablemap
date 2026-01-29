@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 11:53 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/causal-closure.md`
+- **Context**: Task from outer review to add Observational Closure distinction (Saad 2025)
+- **Word count**: 3419 → 3321 (-98 words, length-neutral mode)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (missing Observational Closure distinction)
+- **Enhancements made**: New subsection "Observational vs Universal Closure" with Saad's definition and cross-link to delegatory-dualism.md
+- **Condensations**: Trimmed Arguments from Reason and Free Will sections to offset additions
+- **Output**: `reviews/deep-review-2026-01-29-causal-closure-observational.md`
+- **Notes**: Targeted enhancement per outer review task. Added Saad's distinction between universal closure (strong metaphysical claim) and observational closure (empirical claim physics supports). This weakens the causal closure objection—dualists need only respect observational closure.
+
 ## 2026-01-29 11:43 UTC - deep-review
 
 - **Status**: Success

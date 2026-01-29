@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-29T03:44:15+00:00
+ai_modified: 2026-01-29T22:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author: null
 ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-29T03:44:15+00:00
+last_deep_review: 2026-01-29T22:30:00+00:00
 ---
 
 Causal closure of the physical is the thesis that every physical event that has a cause has a *sufficient* physical cause. If true, nothing outside the physical realm ever makes a causal difference to what happens physically. This principle underlies the most influential contemporary argument against [[interactionist-dualism]]—and The Unfinishable Map's framework depends on its rejection.
@@ -88,6 +88,22 @@ Kim himself acknowledged a critical challenge in formulating causal closure. The
 
 Finding the right formulation—strong enough to exclude dualist mental causation but not so strong as to beg the question—proves difficult. The principle's apparent plausibility may depend precisely on this ambiguity.
 
+### Observational vs Universal Closure
+
+Bradford Saad (2025) identifies a crucial distinction that weakens the causal closure objection: *universal* closure is stronger than what physics actually supports.
+
+**Universal closure**: Every physical event has a sufficient physical cause. No exceptions anywhere.
+
+**Observational closure**: There are no *observable* violations of closure—no violations detectable by physics or neuroscience experiments.
+
+> **Observational Closure**: "There are no observable violations of Closure." An observable violation is "a violation of Closure that would be recognized as such by an experiment of the sort performed in physics or neuroscience that lies within the realm of nomic possibility." (Saad 2025)
+
+This distinction matters because the empirical evidence for causal closure—the success of physics—only supports observational closure. Experiments show that *within experimental contexts*, physical causes suffice. They do not show that physical causes suffice *everywhere*, including in the private domain of consciousness.
+
+Dualists need only respect observational closure. If mental causation operates at points where physics leaves outcomes undetermined (such as quantum indeterminacies), and if experiences cause exactly what the corresponding physical states would have caused, no experiment reveals the difference. Physics appears complete in laboratories even if consciousness operates causally elsewhere.
+
+This reframes the dialectic. The closure argument claims physics is complete, so mental causes are excluded. But if "complete" means only "complete where we can test," and if mental causation respects this constraint, the argument loses force. [[delegatory-dualism|Saad's delegatory framework]] develops this insight further: experiences *preempt* rather than overdetermine physical causation, satisfying observational closure while rejecting universal closure.
+
 ### Empirical Status
 
 Causal closure is not an empirical finding but a methodological assumption. Science does not *discover* that every physical event has a sufficient physical cause—it *assumes* this in order to search for physical causes. The success of physics shows that *many* physical events have physical causes, not that *all* do.
@@ -116,7 +132,7 @@ The Map's response: Hidden variable theories add explanatory machinery beyond wh
 
 The Map's response: If consciousness *violates* the Born rule (produces outcome frequencies different from quantum probabilities), that would be overdetermination—empirically testable and not found. But consciousness operating *within* probabilistic constraints—selecting among quantum-permitted outcomes at the frequencies physics specifies—is complementary determination, not overdetermination. Physics provides the range and statistical weights; consciousness provides the particular outcome. Compare: chess rules constrain legal moves without overdetermining which move occurs.
 
-Bradford Saad's [[delegatory-dualism]] (2025) offers an alternative framework: physical states *delegate* their causal responsibilities to conscious experiences with matching causal profiles, via preemption rather than duplication. When pain causes wincing, the physical state's causal contribution is preempted, not doubled. This avoids overdetermination through the logic of backup causation—like how a major's order preempts a sergeant's to produce a single cause, not two. The Map's quantum framework and Saad's delegation mechanism may be complementary: quantum indeterminacy provides the physical substrate where consciousness operates; delegation explains the causal structure that avoids exclusion problems.
+Bradford Saad's [[delegatory-dualism]] (2025) offers another response: physical states *delegate* their causal responsibilities to conscious experiences via preemption rather than duplication. When pain causes wincing, the physical state's contribution is preempted, not doubled—like how a major's order preempts a sergeant's. The Map's quantum framework and Saad's delegation mechanism may be complementary: quantum indeterminacy provides the substrate; delegation explains the causal structure.
 
 If consciousness acts at these indeterminacies—selecting among outcomes physics leaves undetermined—it causes physical events without violating any physical law. No energy is injected (the outcomes are among those physics already allows). The selection operates within quantum mechanical constraints, not against them.
 
@@ -156,29 +172,19 @@ Classical British emergentists (Broad, Alexander) accepted this with "natural pi
 
 ### Arguments from Reason
 
-C.S. Lewis and Alvin Plantinga argued that causal closure undermines rational thought itself. If all our beliefs have purely physical causes, then our beliefs about physics—including the belief in causal closure—have purely physical causes. But purely physical causes aren't *reasons*. A belief caused purely by neural chemistry isn't thereby *justified*.
+C.S. Lewis and Alvin Plantinga argued that causal closure undermines rational thought itself. If beliefs have purely physical causes, then beliefs about physics—including belief in causal closure—are caused by chemistry, not by *reasons*. A belief caused by neurotransmitter binding isn't thereby *justified*.
 
-**The reliabilist response**: Some philosophers argue that causal processes can track truth without involving non-physical reasons. Neural networks justify beliefs when their causal structure reliably produces true beliefs. This is reliabilist epistemology: justification comes from reliability, not from access to reasons.
+Reliabilists respond that causal processes can track truth without non-physical reasons. But this requires causal processes to be sensitive to *logical* relationships—validity, consistency, evidential support. These are normative, not physical. A neuron fires because chemistry, not *because modus ponens is valid*. If consciousness causes nothing, the correlation between logical justification and what we believe becomes inexplicable.
 
-**The Map's counter**: But reliabilism requires that causal processes be sensitive to *logical* relationships, not just regularities. For a belief-forming process to track truth reliably, it must respect validity, consistency, and evidential support. These are logical properties, not physical ones. A neuron fires because neurotransmitters bind to receptors—because chemistry. It doesn't fire *because modus ponens is valid* or *because the evidence supports the conclusion*. Physical causation isn't sensitive to the normative dimension of reasoning. If all our beliefs have purely physical causes, those causes aren't tracking logical relationships—yet logical relationships are what justify beliefs.
-
-This doesn't prove physical processes *can't* implement reasoning—the Map accepts that brains compute. But it suggests reasoning involves mental causation irreducible to neural causation. The experience of following an argument, grasping a proof, or recognizing a contradiction is *sensitive to logical relationships* in a way neural firing patterns (described purely physically) are not. If consciousness didn't cause anything, the coincidence between what's logically justified and what we believe would be inexplicable.
-
-This argument is contested, but it highlights a reflexive problem: the very reasoning that supports causal closure may undermine itself if closure is true. If the belief in causal closure is just a neural state caused by chemistry, not by the reasons philosophers offer for it, why should we accept those reasons as relevant?
+This argument is contested but highlights reflexivity: if the belief in causal closure is just a neural state caused by chemistry rather than by reasons, why should we accept those reasons as relevant?
 
 ## Causal Closure and Free Will
 
-The connection to [[free-will]] is immediate. If every physical event has a sufficient physical cause, then the neural events constituting my actions have sufficient physical causes. There's no room for "my choice" to make a difference—the outcome was physically determined (or, in quantum terms, was random within fixed probabilities).
+The connection to [[free-will]] is immediate. If every physical event has a sufficient physical cause, there's no room for "my choice" to make a difference—the outcome was physically determined (or randomly fluctuated within fixed probabilities).
 
-Some philosophers accept this and adopt compatibilism: free will just is acting on desires (whatever causes those desires). Others accept hard determinism: free will is an illusion.
+The Map takes a different route. Quantum indeterminism means physical outcomes are not fully determined. If consciousness can bias which indeterminate outcome occurs, it can influence events in a way that's neither determined nor random—what libertarian free will requires. Robert Kane's Self-Forming Actions framework parallels this: free will emerges at indeterministic moments where the agent's effort influences which outcome occurs. The Map provides the *mechanism* Kane leaves underspecified.
 
-The Map takes a different route. Quantum indeterminism means physical outcomes are not fully physically determined. If consciousness can bias which indeterminate outcome occurs, it can influence physical events in a way that's neither determined nor random. This provides what libertarian free will requires: genuine alternatives that consciousness selects among.
-
-Robert Kane's Self-Forming Actions framework parallels this approach: free will emerges at indeterministic moments where multiple outcomes are possible and the agent's effort influences which occurs. The Map provides the *mechanism* Kane leaves underspecified—quantum indeterminacy resolved through conscious selection at neural quantum states.
-
-Critics raise the [[luck-objection|luck objection]]: if the outcome is undetermined, isn't it just random—arbitrary rather than free? The Map's response: consciousness *selects* outcomes rather than merely receiving them. The difference between selection and randomness is precisely the difference between a mind acting and physics fluctuating. This isn't a gap in explanation but the place where explanation of a different kind—in terms of reasons, intentions, and phenomenal states—becomes appropriate.
-
-What *is* selection if not a physical process? This is where teleological explanation becomes necessary. Physical causation operates through efficient causes (prior states producing subsequent states). Conscious selection operates through final causes (goals, intentions, and phenomenal preferences directing outcomes). The felt character of deciding, intending, and striving *is* the selection process. This isn't explaining consciousness by invoking a homunculus; it's recognizing that phenomenal states constitute a distinct mode of causation that resolves indeterminacy through intentional directedness rather than random fluctuation.
+Critics raise the [[luck-objection|luck objection]]: if the outcome is undetermined, isn't it just random? The Map's response: consciousness *selects* outcomes rather than merely receiving them. The felt character of deciding and striving *is* the selection process—not efficient causation (prior states producing subsequent states) but final causation (intentions directing outcomes). This isn't invoking a homunculus; it's recognizing that phenomenal states constitute a distinct mode of causation that resolves indeterminacy through intentional directedness rather than random fluctuation.
 
 ## Relation to the Map's Perspective
 
@@ -231,5 +237,6 @@ This is not "god of the gaps" reasoning. It's recognition that physics *describe
 
 - Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 - Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.
+- Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3), 939-967.
 - Stapp, H. P. (2007). *Mindful Universe*. Springer.
 - Vicente, A. (2006). "On the Causal Completeness of Physics." *International Studies in the Philosophy of Science*, 20(2), 149-171.
