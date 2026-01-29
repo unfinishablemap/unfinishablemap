@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on consciousness in simple organisms
-- **Type**: expand-topic
-- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Covers: 2024 New York Declaration expanding consciousness to invertebrates, C. elegans (302 neurons), Hydra (decentralized nerve net), slime molds (no neurons), and the Unlimited Associative Learning (UAL) criterion. Key for understanding the distribution problem: why these organisms interface with consciousness? Builds on animal-consciousness.md, evolution-of-consciousness.md, panpsychism.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-29
-
 ### P2: Create concept page for default-mode-network
 - **Type**: expand-topic
 - **Notes**: Referenced in contemplative-neuroscience.md but no dedicated page exists. The default mode network—active during mind-wandering, self-referential thought, and deactivated during focused attention—is central to understanding consciousness states. Connects to meditation research, attention-as-interface hypothesis, and self-consciousness. Would strengthen cross-linking across consciousness neuroscience articles.
@@ -794,6 +788,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Write article on consciousness in simple organisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Covers: 2024 New York Declaration expanding consciousness to invertebrates, C. elegans (302 neurons), Hydra (decentralized nerve net), slime molds (no neurons), and the Unlimited Associative Learning (UAL) criterion. Key for understanding the distribution problem: why these organisms interface with consciousness? Builds on animal-consciousness.md, evolution-of-consciousness.md, panpsychism.md.
+- **Output**: consciousness in simple organisms
 
 ### ✓ 2026-01-29: Cross-review causal-closure.md considering delegatory-dualism insights
 - **Type**: cross-review
