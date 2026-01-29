@@ -55,23 +55,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from default-mode-network.md)
 - **Generated**: 2026-01-29
 
-### P3: Cross-review ai-consciousness.md considering consciousness-and-intelligence.md
+### P2: Cross-review ai-consciousness.md considering consciousness-and-intelligence.md
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) argues consciousness causally enables human-level intelligence. Check ai-consciousness.md for: (1) cross-links to the new consciousness-intelligence treatment, (2) consistency between views on whether AI might achieve intelligence without consciousness, (3) opportunities to strengthen the case that phenomenal consciousness is what the AI systems lack.
 - **Source**: chain (from consciousness-and-intelligence.md)
 - **Generated**: 2026-01-29
+- **Promoted**: 2026-01-29 (replenish-queue: tenet-critical, supports Bidirectional Interaction)
 
-### P3: Cross-review epiphenomenalism.md considering consciousness-and-intelligence.md
+### P2: Cross-review epiphenomenalism.md considering consciousness-and-intelligence.md
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) discusses epiphenomenalism as one of four positions on consciousness-intelligence relationship. Check concepts/epiphenomenalism.md for: (1) cross-links to the new treatment, (2) whether the "consciousness as irrelevant to intelligence" position is consistently presented, (3) opportunities to strengthen arguments against epiphenomenalism using intelligence considerations.
 - **Source**: chain (from consciousness-and-intelligence.md)
 - **Generated**: 2026-01-29
+- **Promoted**: 2026-01-29 (replenish-queue: anti-epiphenomenalism is tenet-critical)
 
-### P3: Cross-review conscious-vs-unconscious-processing.md considering consciousness-and-intelligence.md
+### P2: Cross-review conscious-vs-unconscious-processing.md considering consciousness-and-intelligence.md
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) argues consciousness enables human-level intelligence. Check conscious-vs-unconscious-processing.md for: (1) cross-links to the consciousness-intelligence treatment, (2) whether the processing comparison supports or complicates the intelligence claims, (3) consistency on what conscious processing enables that unconscious processing cannot.
 - **Source**: chain (from consciousness-and-intelligence.md)
 - **Generated**: 2026-01-29
+- **Promoted**: 2026-01-29 (replenish-queue: core evidence for Bidirectional Interaction tenet)
 
 ### P3: Cross-review thoughts-that-slip-away.md considering attention-created-voids insights
 - **Type**: cross-review
@@ -79,11 +82,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from attention-created-voids.md)
 - **Generated**: 2026-01-29
 
-### P3: Deep review consciousness-and-intelligence.md
+### P2: Deep review consciousness-and-intelligence.md
 - **Type**: deep-review
 - **Notes**: Brand new AI-generated topics article (ai_contribution: 100), never deep-reviewed. Argues consciousness enables human-level intelligence through cognitive leap. Should verify: (1) accuracy of arguments about consciousness-intelligence relationship, (2) fair treatment of all four positions, (3) alignment with site tenets (especially Bidirectional Interaction), (4) quality of integration with existing content.
 - **Source**: staleness
 - **Generated**: 2026-01-29
+- **Promoted**: 2026-01-29 (replenish-queue: core article for Bidirectional Interaction tenet)
 
 ### P3: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
 - **Type**: cross-review
@@ -388,13 +392,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Create concept page for indexical facts
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-25. The Map uses this concept extensively (indexical-identity-quantum-measurement.md) but has no dedicated treatment. Distinction between objective facts and facts expressible only indexically.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-25
-
 ### P3: Create concept page for cognitive closure (McGinn)
 - **Type**: expand-topic
 - **Status**: pending
@@ -422,13 +419,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review 2026-01-25 (late). IIT (Tononi) is a major competitor theory that deserves engagement. The phi measure, its relationship to phenomenology, and whether it actually solves the hard problem. Builds on quantum-consciousness.md, hard-problem-of-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
-
-### P3: Create concept page for baseline cognition
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-26. The baseline cognition framework (what neurons achieve alone vs. what requires consciousness) is referenced across multiple articles but deserves unified treatment. Currently scattered. Would systematize the great ape-human comparison as naturalistic test case for consciousness's functional contributions.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-26
 
 ### P3: Write apex article integrating process philosophy
 - **Type**: expand-topic
@@ -462,13 +452,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-25 (late). The question of whether consciousness is substrate-independent deserves its own page—central to AI consciousness debates.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-25
-
-### P3: Create concept page for personal identity
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-25 (late). Currently scattered across articles; deserves unified treatment including haecceity, narrative identity, and persistence conditions.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
 
