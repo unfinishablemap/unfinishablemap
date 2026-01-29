@@ -17,6 +17,23 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 UTC - coalesce
+
+- **Status**: No action taken
+- **Analysis**: Searched for merge candidates across concepts/, topics/, and voids/ directories
+- **Candidates evaluated**: 7 groups (attention mechanisms, binding/quantum, consciousness function, mental effort/quantum mechanisms, consciousness overview, motor control, access/phenomenal distinction)
+- **Conclusion**: No strong candidates for merging found
+- **Rationale**:
+  - 14 articles have already been coalesced in prior work
+  - Remaining article pairs are well-differentiated in scope and purpose
+  - "Overlapping" articles actually serve distinct functions (concept vs. topic, empirical vs. theoretical, overview vs. focused treatment)
+  - Small articles (126-150 lines) are intentionally focused on single concepts
+- **Examples reviewed**:
+  - attention.md / attention-as-interface.md / voluntary-attention.md - each covers distinct aspect
+  - binding-problem.md / quantum-binding-and-phenomenal-unity.md - concept covers problem, topic focuses on quantum solution
+  - mental-effort.md / stapp-quantum-mind.md - phenomenology focus vs. mechanism focus
+- **Notes**: The existing architecture reflects deliberate separation of concerns. Coalescing would reduce clarity rather than improve it.
+
 ## 2026-01-29 11:53 UTC - deep-review
 
 - **Status**: Success
