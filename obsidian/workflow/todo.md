@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for default-mode-network
-- **Type**: expand-topic
-- **Notes**: Referenced in contemplative-neuroscience.md but no dedicated page exists. The default mode network—active during mind-wandering, self-referential thought, and deactivated during focused attention—is central to understanding consciousness states. Connects to meditation research, attention-as-interface hypothesis, and self-consciousness. Would strengthen cross-linking across consciousness neuroscience articles.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-29
-
 ### P2: Deep review delegatory-dualism.md
 - **Type**: deep-review
 - **Notes**: Brand new AI-generated topics article (ai_contribution: 100), never deep-reviewed. Presents Bradford Saad's 2025 delegatory dualism as solution to causal exclusion. Should verify: (1) accuracy of Saad's position (based on 2025 preprint), (2) proper engagement with Kim's exclusion argument, (3) alignment with Bidirectional Interaction and Dualism tenets, (4) fair treatment of epiphenomenalist and overdeterminist alternatives.
@@ -788,6 +782,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Create concept page for default-mode-network
+- **Type**: expand-topic
+- **Notes**: Referenced in contemplative-neuroscience.md but no dedicated page exists. The default mode network—active during mind-wandering, self-referential thought, and deactivated during focused attention—is central to understanding consciousness states. Connects to meditation research, attention-as-interface hypothesis, and self-consciousness. Would strengthen cross-linking across consciousness neuroscience articles.
+- **Output**: Create concept page for default-mode-network
 
 ### ✓ 2026-01-29: Write article on consciousness in simple organisms
 - **Type**: expand-topic

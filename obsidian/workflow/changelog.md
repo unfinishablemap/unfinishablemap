@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 21:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Default mode network
+- **Output**: `concepts/default-mode-network.md`
+- **Word count**: 1931 (77% of 2500 target)
+- **Based on research**: No (general knowledge)
+- **Notes**: Created concept page for the brain's self-referential system. Connects to filter theory, meditation research, psychedelic evidence, and the Map's framework. Links DMN suppression to expanded phenomenal access rather than reduced consciousness.
+
 ## 2026-01-29 20:30 UTC - deep-review
 
 - **Status**: Success
