@@ -773,13 +773,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P1: Fix accuracy errors in delegatory-dualism.md (Many-Worlds, default causal profile, testability)
-- **Type**: refine-draft
-- **Notes**: From outer review 2026-01-29. Verified against PMC source. Three correctness issues: (1) Article claims Saad's theory "presupposes collapse-based quantum mechanics" and requires MWI rejection—Saad doesn't discuss Many-Worlds; quantum is treated as a separate mechanism route. (2) Subset Law* omits "default causal profile" which is central to avoiding overdetermination. (3) Testability section overstates—Saad admits "same predictive boat" as other views. Also change "substance dualism" → "interactionist dualism" (Saad doesn't commit to substance dualism).
-- **Review file**: `reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-01-29
-
 ### P1: Separate Saad exposition from Map integration in delegatory-dualism.md
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-01-29. The interleaving of Saad's actual claims with Map-specific quantum integration creates attribution confusion. Restructure into: (1) Saad's problem, (2) Saad's constraints, (3) Saad's laws, (4) What Saad claims—then (5) clearly marked "Map Integration" section for quantum interactionism connections. The illusionism/Dennett critique should be labeled as Map commentary or removed.
@@ -810,6 +803,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Fix accuracy errors in delegatory-dualism.md (Many-Worlds, default causal profile, testability)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-01-29. Verified against PMC source. Three correctness issues: (1) Article claims Saad's theory "presupposes collapse-based quantum mechanics" and requires MWI rejection—Saad doesn't discuss Many-Worlds; quantum is treated as a separate mechanism route. (2) Subset Law* omits "default causal profile" which is central to avoiding overdetermination. (3) Testability section overstates—Saad admits "same predictive boat" as other views. Also change "substance dualism" → "interactionist dualism" (Saad doesn't commit to substance dualism).
+- **Output**: obsidian/topics/delegatory-dualism.md
+
+Task context:
+From outer review 2026-01-29. Verified against PMC source. Three correctness issues: (1) Article claims Saad's theory "presupposes collapse-based quantum mechanics" and requires MWI rejection—Saad doesn't discuss Many-Worlds; quantum is treated as a separate mechanism route. (2) Subset Law* omits "default causal profile" which is central to avoiding overdetermination. (3) Testability section overstates—Saad admits "same predictive boat" as other views. Also change "substance dualism" → "interactionist dualism" (Saad doesn't commit to substance dualism).
+
+Review file: reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md
 
 ### ✓ 2026-01-29: Cross-review epiphenomenalism.md considering consciousness-and-intelligence.md
 - **Type**: cross-review

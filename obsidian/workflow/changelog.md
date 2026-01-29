@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 09:52 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/delegatory-dualism.md`
+- **Context**: Outer review by ChatGPT 5.2 Pro (verified against PMC source)
+- **Changes**:
+  - Fixed Subset Law* to include "default causal profile" qualifier (central to Saad's formulation)
+  - Removed incorrect claim that Saad presupposes collapse-based QM / rejects MWI (Saad doesn't discuss MWI)
+  - Rewrote Testability section to reflect Saad's acknowledgment of "same predictive boat" as alternatives
+  - Changed "substance dualism" → "interactionist dualism" (Saad doesn't commit to substance dualism)
+  - Marked quantum integration as Map-specific speculation throughout
+- **Published**: yes
+
 ## 2026-01-29 23:30 UTC - outer-review
 
 - **Status**: Success
