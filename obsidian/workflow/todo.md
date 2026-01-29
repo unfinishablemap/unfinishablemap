@@ -787,6 +787,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: outer-review
 - **Generated**: 2026-01-29
 
+### P3: Write article on consciousness and creativity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Builds on free-will, agent-causation, voluntary-attention. Addresses gap in how consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination. Creativity as paradigm case of Bidirectional Interaction.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Write article on causal exclusion problem (dedicated treatment)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Kim's exclusion argument deserves standalone treatment given centrality to mental causation debates. Currently scattered across delegatory-dualism, mental-causation, epiphenomenalism. Would systematically present overdetermination, delegation, and gap-filling responses.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Create concept page for specious present
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Referenced in temporal-consciousness but deserves own page covering James, Husserl, and contemporary debates. Central to understanding temporal phenomenology.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Create concept page for quantum measurement problem
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The underlying physics question that makes room for consciousness at collapse. Currently assumed but not explained. Would help readers understand why quantum mechanics leaves room for consciousness.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Create concept page for self-stultification arguments
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The pattern shared by arguments against epiphenomenalism, illusionism, and certain materialisms. Could unify treatment across multiple articles. Strong rhetorical and philosophical tool.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
 ## Completed Tasks
 
 
