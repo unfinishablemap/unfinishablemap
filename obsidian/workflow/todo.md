@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review animal-consciousness.md considering consciousness-in-simple-organisms.md
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-in-simple-organisms.md (2026-01-29) extends consciousness discussion to nematodes, hydra, and slime molds. Check animal-consciousness.md for: (1) cross-links to the new simple organisms treatment, (2) consistency on where consciousness thresholds might lie, (3) whether the distribution puzzle argument strengthens the animal consciousness case.
-- **Source**: chain (from consciousness-in-simple-organisms.md)
-- **Generated**: 2026-01-29
-
 ### P2: Cross-review filter-theory.md considering default-mode-network.md
 - **Type**: cross-review
 - **Notes**: New concept page concepts/default-mode-network.md (2026-01-29) discusses DMN as part of the brain's filtering mechanism. Check filter-theory.md for: (1) cross-links to the DMN treatment, (2) whether DMN suppression during meditation/psychedelics fits the filter model, (3) opportunities to strengthen the neurobiological grounding of filter theory.
@@ -830,6 +824,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review animal-consciousness.md considering consciousness-in-simple-organisms.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-in-simple-organisms.md (2026-01-29) extends consciousness discussion to nematodes, hydra, and slime molds. Check animal-consciousness.md for: (1) cross-links to the new simple organisms treatment, (2) consistency on where consciousness thresholds might lie, (3) whether the distribution puzzle argument strengthens the animal consciousness case.
+- **Output**: obsidian/topics/animal-consciousness.md -- Context: Cross-review animal-consciousness.md considering consciousness-in-simple-organisms.md
 
 ### ✓ 2026-01-29: Deep review consciousness-in-simple-organisms.md
 - **Type**: deep-review
