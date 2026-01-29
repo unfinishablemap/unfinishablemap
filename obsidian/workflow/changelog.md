@@ -17,6 +17,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 16:49 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/voluntary-attention.md`
+- **Context**: Cross-review considering attention-motor-quantum-interface.md
+- **Word count**: 2231 → ~2250 (+19 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Added Rizzolatti attribution for premotor theory of attention (PMTA)
+  - Added Desmurget et al. (2009) citation for double dissociation finding
+  - Added Thura & Cisek (2014) citation for motor commitment timing
+- **Enhancements made**: 0
+- **Output**: `reviews/deep-review-2026-01-29-voluntary-attention.md`
+- **Note**: Second review; article approaching stability
+
 ## 2026-01-29 16:39 UTC - deep-review
 
 - **Status**: Success
