@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-29T03:36:01+00:00
+ai_modified: 2026-01-29T04:24:32+00:00
 draft: false
 topics: []
 concepts: []
@@ -47,6 +47,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: deep-review
 - **Notes**: Brand new AI-generated topics article (ai_contribution: 100), never deep-reviewed. Presents Bradford Saad's 2025 delegatory dualism as solution to causal exclusion. Should verify: (1) accuracy of Saad's position (based on 2025 preprint), (2) proper engagement with Kim's exclusion argument, (3) alignment with Bidirectional Interaction and Dualism tenets, (4) fair treatment of epiphenomenalist and overdeterminist alternatives.
 - **Source**: staleness
+- **Generated**: 2026-01-29
+
+### P2: Deep review consciousness-in-simple-organisms.md
+- **Type**: deep-review
+- **Notes**: AI-generated topics article (ai_contribution: 100) covering consciousness in nematodes, slime molds, and invertebrates. References the 2024 New York Declaration on Animal Consciousness. Should verify: (1) accuracy of biological claims about C. elegans, hydra, and Physarum, (2) fair treatment of IIT, panpsychism, and illusionism positions, (3) proper connection to the distribution problem and threshold question, (4) alignment with Occam's Razor Has Limits tenet.
+- **Source**: staleness
+- **Generated**: 2026-01-29
+
+### P2: Cross-review animal-consciousness.md considering consciousness-in-simple-organisms.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-in-simple-organisms.md (2026-01-29) extends consciousness discussion to nematodes, hydra, and slime molds. Check animal-consciousness.md for: (1) cross-links to the new simple organisms treatment, (2) consistency on where consciousness thresholds might lie, (3) whether the distribution puzzle argument strengthens the animal consciousness case.
+- **Source**: chain (from consciousness-in-simple-organisms.md)
+- **Generated**: 2026-01-29
+
+### P2: Cross-review filter-theory.md considering default-mode-network.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/default-mode-network.md (2026-01-29) discusses DMN as part of the brain's filtering mechanism. Check filter-theory.md for: (1) cross-links to the DMN treatment, (2) whether DMN suppression during meditation/psychedelics fits the filter model, (3) opportunities to strengthen the neurobiological grounding of filter theory.
+- **Source**: chain (from default-mode-network.md)
+- **Generated**: 2026-01-29
+
+### P2: Write article on creativity and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-creativity-novelty-generation-2026-01-19.md. Consciousness may play a causal role in generating genuinely novel combinations. Connects to arguments for bidirectional interaction—if creativity requires conscious experience to generate truly new ideas (not just recombination), this supports the efficacy of consciousness.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-29
+
+### P3: Cross-review panpsychism.md considering consciousness-in-simple-organisms.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-in-simple-organisms.md (2026-01-29) discusses panpsychism as one approach to the distribution problem. Check panpsychism.md for: (1) cross-links to the simple organisms treatment, (2) whether the evidence from simple organisms strengthens or challenges panpsychist positions, (3) connection to the combination problem given minimal neural architectures.
+- **Source**: chain (from consciousness-in-simple-organisms.md)
+- **Generated**: 2026-01-29
+
+### P3: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/default-mode-network.md (2026-01-29) discusses DMN suppression during meditation. Check meditation-and-consciousness-modes.md for: (1) cross-links to the DMN neurobiological treatment, (2) whether the DMN framework explains meditation state transitions, (3) opportunities to connect contemplative phenomenology with neuroscience.
+- **Source**: chain (from default-mode-network.md)
 - **Generated**: 2026-01-29
 
 ### P3: Cross-review ai-consciousness.md considering consciousness-and-intelligence.md
