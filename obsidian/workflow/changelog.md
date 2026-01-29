@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 17:00 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: The Past Self Void
+- **Category**: Unexplorable / Occluded (mixed)
+- **Output**: `research/voids-past-self-void-2026-01-29.md`
+- **Key finding**: We cannot directly access our own past conscious states—only reconstruct them. The past self is structurally inaccessible in much the same way other minds are: we can infer and simulate but not directly know what it was like to be "us" at a previous time. This creates a peculiar void where numerical identity doesn't grant phenomenal access.
+- **Sources consulted**: 11 (SEP Memory, Conway Self-Memory System, Tulving autonoetic consciousness, Parfit personal identity, PNAS false memories, De Brigard phenomenology of remembering, narrative identity, self-continuity research, Buddhist impermanence)
+- **Article angles identified**: (1) Past-Self Void as parallel to other-minds void but within single identity, (2) Memory as void navigation—constructing proxies rather than accessing, (3) Moment-to-moment impermanence—the void operates continuously
+
 ## 2026-01-29 16:49 UTC - deep-review
 
 - **Status**: Success
