@@ -4,8 +4,8 @@ description: "Can we genuinely author our choices? The Map defends libertarian f
 created: 2026-01-08
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T14:30:00+00:00
-last_deep_review: 2026-01-29T14:30:00+00:00
+ai_modified: 2026-01-29T05:49:55+00:00
+last_deep_review: 2026-01-29T05:49:55+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ Classical physics suggested determinism: given initial conditions and physical l
 
 **Libertarian Free Will**: We can initiate causal chains not fully determined by prior physical states. The Map's framework is specifically *[[agent-causation|agent-causal]]*—the agent as persisting substance directly causes actions, irreducible to prior mental events. This requires [[tenets#^dualism|substance dualism]]: consciousness must be a persisting *thing* capable of exercising causal powers, not merely a property of physical systems.
 
-**Compatibilism**: Free will means acting from endorsed desires without external coercion. Yet this leaves untouched whether the person could have chosen otherwise—the question that motivates the search for a deeper account.
+**Compatibilism**: Free will means acting from endorsed desires without external coercion. Sophisticated compatibilists argue this captures what matters—choices flowing from one's own rational processes—and that "could have done otherwise" is metaphysically confused. Yet for those who take the phenomenology of deliberation seriously, compatibilism redescribes rather than explains: why does choosing *feel* like determining an open outcome if the outcome was always fixed?
 
 Bergson's [[duration|durée]] offers additional resources: if mental states interpenetrate rather than causing each other like discrete billiard balls, the deterministic model fails at its foundations.
 

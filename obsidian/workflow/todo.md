@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Deep review free-will.md
-- **Type**: deep-review
-- **Notes**: Flagship topics article (ai_contribution=100) on libertarian free will and consciousness. Never deep-reviewed since creation. Should verify: (1) accuracy of libertarian, compatibilist, and hard determinist positions, (2) engagement with luck objection and manipulation arguments, (3) proper treatment of quantum Zeno mechanism (per pessimistic review, this is currently over-relied upon), (4) alignment with Bidirectional Interaction and No Many Worlds tenets.
-- **Source**: staleness
-- **Generated**: 2026-01-29
-
 ### P1: Deep review argument-from-reason.md
 - **Type**: deep-review
 - **Notes**: Key topics article (ai_contribution=100) presenting the argument that reasoning requires consciousness. Central to the site's case against epiphenomenalism and AI consciousness. Never deep-reviewed. Should verify: (1) accuracy of C.S. Lewis, Plantinga, and Reppert formulations, (2) engagement with physicalist responses (evolutionary debunking, reliabilism), (3) connection to self-stultification argument and cognitive phenomenology, (4) alignment with Bidirectional Interaction tenet.
@@ -836,6 +830,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Deep review free-will.md
+- **Type**: deep-review
+- **Notes**: Flagship topics article (ai_contribution=100) on libertarian free will and consciousness. Never deep-reviewed since creation. Should verify: (1) accuracy of libertarian, compatibilist, and hard determinist positions, (2) engagement with luck objection and manipulation arguments, (3) proper treatment of quantum Zeno mechanism (per pessimistic review, this is currently over-relied upon), (4) alignment with Bidirectional Interaction and No Many Worlds tenets.
+- **Output**: obsidian/topics/free-will.md
 
 ### ✓ 2026-01-29: Deep review hard-problem-of-consciousness.md
 - **Type**: deep-review
