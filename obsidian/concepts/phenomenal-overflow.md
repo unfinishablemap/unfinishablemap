@@ -2,9 +2,10 @@
 title: "Phenomenal Overflow"
 description: "Ned Block's argument that phenomenal consciousness exceeds cognitive access—we experience more than we can report, suggesting phenomenology is richer than function."
 created: 2026-01-28
-modified: 2026-01-28
+modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-28T12:00:00+00:00
+ai_modified: 2026-01-29T00:58:54+00:00
+last_deep_review: 2026-01-29T00:58:54+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,6 +15,8 @@ concepts:
   - "[[global-workspace-theory]]"
   - "[[qualia]]"
   - "[[attention]]"
+  - "[[attention-as-interface]]"
+  - "[[stapp-quantum-mind]]"
   - "[[working-memory]]"
   - "[[introspection]]"
 related_articles:
@@ -68,6 +71,12 @@ Critics—notably Daniel Dennett and Michael Cohen—argue that overflow is an i
 **Retroactive construction**: When the cue arrives, attention accesses iconic memory traces and constructs the specific experience. The phenomenology is created by the access process, not accessed by it.
 
 **Inflation fallacy**: Subjects mistake the *ability* to access any row (partial report success) for *actually having accessed* all rows simultaneously. But ability doesn't entail prior experience.
+
+### Introspective Fallibility
+
+Deflationary theorists invoke a broader point: introspection is notoriously unreliable. Subjects confidently misreport their mental states in numerous well-documented cases—change blindness, inattentional blindness, confabulation in split-brain patients. Why should phenomenal reports about "seeing all the letters" be trusted when other introspective reports are demonstrably wrong?
+
+Block's response: the partial report paradigm provides behavioral evidence independent of introspection. The ability to report any cued row with high accuracy shows *something* was available—the dispute is whether that something was phenomenally conscious. The behavioral data constrain the options more than bare introspective reports would.
 
 ### Why Deflationism Deserves Consideration
 
@@ -136,9 +145,9 @@ Each shows phenomenal properties are not identical to functional properties. If 
 
 The [[tenets#^bidirectional|Bidirectional Interaction tenet]] holds that consciousness causally influences the physical world. Overflow complicates but doesn't undermine this claim.
 
-If phenomenology exceeds access, what role does the "extra" phenomenology play? One possibility: the overflowing phenomenal field is where consciousness operates most fundamentally. Attention selects from this field what enters access—and attention may be where consciousness exercises causal influence.
+If phenomenology exceeds access, what role does the "extra" phenomenology play? One possibility: the overflowing phenomenal field is where consciousness operates most fundamentally. [[Attention-as-interface|Attention selects]] from this field what enters access—and attention may be where consciousness exercises causal influence.
 
-On this view, the rich phenomenal field is the stage; attention is conscious selection; access is the downstream result. The overflow itself may be causally relevant even if not explicitly accessed.
+On this view, the rich phenomenal field is the stage; attention is conscious selection; access is the downstream result. [[Stapp-quantum-mind|Stapp's quantum Zeno model]] proposes a specific mechanism: sustained attention (rapid repeated observations) could bias quantum indeterminacies toward particular neural patterns, determining what gets selected from the phenomenal field for access and action. Whether or not this specific mechanism is correct, the structural point remains: overflow suggests phenomenology is primary, and access is the result of conscious selection from richer phenomenal material.
 
 ### Occam's Razor Has Limits
 
@@ -146,7 +155,7 @@ The deflationary response to overflow appeals to parsimony: why posit rich pheno
 
 But [[tenets#^occams-limits|Occam's Razor has limits]]. The parsimony of deflationary accounts comes at the cost of dismissing what subjects report: they say they saw all the letters, not that they had an impression of letterishness. Deflationary theories require subjects to be systematically wrong about their own experience.
 
-When a theory's parsimony requires dismissing the primary data (subjective reports), parsimony may mislead. The overflow hypothesis takes phenomenology seriously; deflationism explains it away.
+When a theory's parsimony requires dismissing the primary data (subjective reports), parsimony may mislead. The overflow hypothesis accepts phenomenal reports at face value; deflationism reinterprets them as judgments about what *seemed* to happen rather than reports of what was experienced. Both approaches have costs—the question is which costs are more acceptable.
 
 ## The Contested Status {#contested}
 
@@ -156,7 +165,7 @@ Phenomenal overflow remains genuinely contested. The Map presents it as evidence
 
 **What's contested**: Whether this available-but-unreported information is phenomenally conscious. The debate hinges on whether phenomenology can exist without access—which is precisely what's at issue between overflow proponents and deflationary critics.
 
-**The methodological bind**: If phenomenology exceeds access, we cannot directly verify it through access-dependent methods (reports, reasoning about experience). The overflow hypothesis may be unfalsifiable from a strictly third-person perspective. But this unfalsifiability might itself be evidence: it's exactly what we'd expect if phenomenology genuinely transcends function.
+**The methodological bind**: If phenomenology exceeds access, we cannot directly verify it through access-dependent methods (reports, reasoning about experience). The overflow hypothesis may be unfalsifiable from a strictly third-person perspective. This unfalsifiability is generally a mark against a hypothesis—yet it's also exactly what we'd expect if phenomenology genuinely transcends function. The situation is frustrating rather than decisive: unfalsifiability doesn't confirm overflow, but neither does it refute it.
 
 This connects to [[pre-conceptual-knowing]]—the void of experience that exceeds conceptualization. If phenomenal overflow is real, it exemplifies this broader limit: there may be aspects of experience that resist not just verbal report but cognitive access altogether.
 
@@ -167,6 +176,8 @@ This connects to [[pre-conceptual-knowing]]—the void of experience that exceed
 - [[global-workspace-theory]]—theory of access that may not capture full phenomenology
 - [[introspection]]—the method by which we access (and possibly miss) experience
 - [[attention]]—the selective mechanism between phenomenal field and access
+- [[attention-as-interface]]—how attention might mediate conscious selection
+- [[stapp-quantum-mind]]—a proposed mechanism for conscious selection from phenomenal overflow
 - [[pre-conceptual-knowing]]—the broader void of experience beyond concepts
 
 ## References
