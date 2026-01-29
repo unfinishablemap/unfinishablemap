@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-29T05:47:42.106758+00:00'
-session_count: 1142
-cycle_position: 379
+last_updated: '2026-01-29T05:57:42.107302+00:00'
+session_count: 1143
+cycle_position: 380
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -46,10 +46,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (delegatory dualism (Bradford Saad))
-  type: expand-topic
-  date: '2026-01-29'
-  outcome: success
 - task: expand-topic (Write voids article on attention-created voids)
   type: expand-topic
   date: '2026-01-29'
@@ -123,6 +119,10 @@ recent_tasks:
   date: '2026-01-29'
   outcome: success
 - task: deep-review (obsidian/topics/free-will.md)
+  type: deep-review
+  date: '2026-01-29'
+  outcome: success
+- task: deep-review
   type: deep-review
   date: '2026-01-29'
   outcome: success
