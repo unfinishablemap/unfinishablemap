@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-29T12:05:29+00:00
+ai_modified: 2026-01-29T12:58:25+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,17 +43,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P3: Cross-review voids.md (section index) considering topology-of-cognitive-failure
+### P2: Cross-review voids.md (section index) considering topology-of-cognitive-failure
 - **Type**: cross-review
 - **Notes**: New voids article voids/topology-of-cognitive-failure.md (2026-01-29) develops apophatic cartography—mapping voids by studying how cognition fails near them. The voids section index should: (1) add cross-link to this methodological framework, (2) consider whether the taxonomy of failure signatures enriches the void classification system, (3) note topology as a tool for exploring the section.
 - **Source**: chain (from topology-of-cognitive-failure.md)
 - **Generated**: 2026-01-29
+- **Promoted**: 2026-01-29 (replenish-queue: recent chain task important for voids framework organization)
 
-### P3: Cross-review panpsychism.md considering consciousness-in-simple-organisms.md
+### P2: Cross-review panpsychism.md considering consciousness-in-simple-organisms.md
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-in-simple-organisms.md (2026-01-29) discusses panpsychism as one approach to the distribution problem. Check panpsychism.md for: (1) cross-links to the simple organisms treatment, (2) whether the evidence from simple organisms strengthens or challenges panpsychist positions, (3) connection to the combination problem given minimal neural architectures.
 - **Source**: chain (from consciousness-in-simple-organisms.md)
 - **Generated**: 2026-01-29
+- **Promoted**: 2026-01-29 (replenish-queue: important philosophical connection between empirical and theoretical content)
 
 ### P3: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
 - **Type**: cross-review
@@ -73,11 +75,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from convergent-cognitive-limits.md)
 - **Generated**: 2026-01-28
 
-### P3: Deep review computational-cognitive-limits.md
+### P2: Deep review computational-cognitive-limits.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers computational limits on cognition (NP-hardness of inference, finite working memory). Should verify: (1) accuracy of computational complexity claims, (2) connection to mysterianism and cognitive closure, (3) distinction from collective-cognitive-limits and convergent-cognitive-limits, (4) alignment with voids framework.
 - **Source**: staleness
 - **Generated**: 2026-01-28
+- **Promoted**: 2026-01-29 (replenish-queue: core voids article needs verification of technical claims)
 
 ### P3: Deep review other-minds-void.md
 - **Type**: deep-review
@@ -91,11 +94,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from contemplative-evidence-for-consciousness-theories.md)
 - **Generated**: 2026-01-28
 
-### P3: Cross-review global-workspace-theory.md considering IIT critique
+### P2: Cross-review global-workspace-theory.md considering IIT critique
 - **Type**: cross-review
 - **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) provides detailed critique of IIT from the Map's interactionist perspective. Global Workspace Theory is often compared to IIT. Check global-workspace-theory.md for: (1) cross-links to IIT critique, (2) whether GWT avoids the passivity objection raised against IIT, (3) opportunities to clarify how both theories handle consciousness's causal role.
 - **Source**: chain (from integrated-information-theory-critique.md)
 - **Generated**: 2026-01-28
+- **Promoted**: 2026-01-29 (replenish-queue: important theory comparison, strengthens IIT critique integration)
 
 ### P3: Cross-review panpsychism.md considering IIT critique
 - **Type**: cross-review

@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-29T12:31:26.462289+00:00'
-session_count: 1167
-cycle_position: 404
+last_updated: '2026-01-29T12:41:26.462758+00:00'
+session_count: 1168
+cycle_position: 405
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -45,11 +45,21 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 6
+  p3_tasks: 116
+  needs_replenishment: false
+  last_replenishment: '2026-01-29T12:58:25+00:00'
+  replenishment_source_counts:
+    chain: 0
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
+    promotion: 4
 recent_tasks:
-- task: deep-review (obsidian/concepts/objections-to-interactionism.md )
-  type: deep-review
-  date: '2026-01-29'
-  outcome: success
 - task: expand-topic (Create concept page for neuroplasticity)
   type: expand-topic
   date: '2026-01-29'
@@ -132,6 +142,10 @@ recent_tasks:
   date: '2026-01-29'
   outcome: success
 - task: deep-review
+  type: deep-review
+  date: '2026-01-29'
+  outcome: success
+- task: deep-review (obsidian/topics/contemplative-evidence-for-conscio)
   type: deep-review
   date: '2026-01-29'
   outcome: success
