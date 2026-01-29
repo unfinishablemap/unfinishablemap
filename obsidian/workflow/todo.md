@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review contemplative-evidence-for-consciousness-theories.md considering neuroplasticity
-- **Type**: cross-review
-- **Notes**: New concept page concepts/neuroplasticity.md (2026-01-29) provides empirical grounding for how meditation practice produces brain changes. The contemplative-evidence article argues that if consciousness were epiphenomenal, mental practice shouldn't produce measurable effects. Check for: (1) cross-links to dedicated neuroplasticity treatment, (2) whether the neuroplasticity framing strengthens the anti-epiphenomenalist argument, (3) opportunities to cite specific neuroplasticity findings.
-- **Source**: chain (from neuroplasticity.md)
-- **Generated**: 2026-01-29
-
 ### P3: Cross-review voids.md (section index) considering topology-of-cognitive-failure
 - **Type**: cross-review
 - **Notes**: New voids article voids/topology-of-cognitive-failure.md (2026-01-29) develops apophatic cartography—mapping voids by studying how cognition fails near them. The voids section index should: (1) add cross-link to this methodological framework, (2) consider whether the taxonomy of failure signatures enriches the void classification system, (3) note topology as a tool for exploring the section.
@@ -810,6 +804,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review contemplative-evidence-for-consciousness-theories.md considering neuroplasticity
+- **Type**: cross-review
+- **Notes**: New concept page concepts/neuroplasticity.md (2026-01-29) provides empirical grounding for how meditation practice produces brain changes. The contemplative-evidence article argues that if consciousness were epiphenomenal, mental practice shouldn't produce measurable effects. Check for: (1) cross-links to dedicated neuroplasticity treatment, (2) whether the neuroplasticity framing strengthens the anti-epiphenomenalist argument, (3) opportunities to cite specific neuroplasticity findings.
+- **Output**: obsidian/topics/contemplative-evidence-for-consciousness-theories.md -- Context: Cross-review contemplative-evidence-for-consciousness-theories.md considering neuroplasticity
 
 ### ✓ 2026-01-29: Cross-review mental-effort.md considering neuroplasticity insights
 - **Type**: cross-review
