@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 21:45 UTC - coalesce
+
+- **Status**: No merge performed
+- **Reason**: After thorough analysis of 6 candidate clusters, all articles found to be well-differentiated
+- **Clusters examined**:
+  1. **Attention cluster** (7 articles: attention.md, attention-as-interface.md, voluntary-attention.md, motor-selection.md, consciousness-selecting-neural-patterns.md, mental-effort.md, attention-motor-quantum-interface.md) — Articles layered at different abstraction levels; cross-references appropriate, not redundant
+  2. **AI/machine consciousness** (ai-consciousness.md, machine-consciousness.md) — Distinct questions: current AI vs. mind uploading
+  3. **Consciousness-intelligence** (consciousness-and-intelligence.md, consciousness-as-amplifier.md) — Topic survey vs. specific mechanism claim
+  4. **Interactionist dualism** (interactionist-dualism.md, mind-brain-separation.md, mind-matter-interface.md) — Philosophical position vs. empirical division vs. theoretical unification
+  5. **Indexical identity** (indexical-facts.md, haecceity.md) — Epistemic vs. metaphysical focus
+- **Conclusion**: Content is appropriately structured with minimal duplication. No strong merge candidates found.
+
 ## 2026-01-29 17:30 UTC - refine-draft
 
 - **Status**: Success
