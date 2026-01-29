@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-28T23:45:00+00:00
+ai_modified: 2026-01-29T17:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -42,6 +42,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
+
+### P2: Cross-review interactionist-dualism.md considering delegatory-dualism.md
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) presents Bradford Saad's 2025 solution to the causal exclusion problem via delegation rather than overdetermination. Check interactionist-dualism.md for: (1) cross-links to delegatory dualism as a specific variant, (2) whether the causal exclusion discussion could benefit from the delegation response, (3) consistency in how mental causation challenges are framed.
+- **Source**: chain (from delegatory-dualism.md)
+- **Generated**: 2026-01-29
+
+### P2: Cross-review mental-causation.md considering delegatory-dualism.md
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) introduces the delegation mechanism for mental causation—experiences take over causal work rather than adding to it. Check mental-causation.md for: (1) cross-links to this novel mechanism, (2) whether the overdetermination discussion should reference the delegation alternative, (3) engagement with Saad's five constraints on dualist theories.
+- **Source**: chain (from delegatory-dualism.md)
+- **Generated**: 2026-01-29
+
+### P2: Cross-review attention.md considering attention-created-voids.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/attention-created-voids.md (2026-01-29) argues attention structurally creates unattendable territory—figure creates ground, penumbral suppression, James's unfocusable fringes. Check attention.md for: (1) cross-links to the voids treatment, (2) whether attention's structural limitations deserve mention alongside its role in consciousness, (3) consistency with Gurwitsch/Watzl frameworks.
+- **Source**: chain (from attention-created-voids.md)
+- **Generated**: 2026-01-29
+
+### P2: Deep review delegatory-dualism.md
+- **Type**: deep-review
+- **Notes**: Brand new AI-generated topics article (ai_contribution: 100), never deep-reviewed. Presents Bradford Saad's 2025 delegatory dualism as solution to causal exclusion. Should verify: (1) accuracy of Saad's position (based on 2025 preprint), (2) proper engagement with Kim's exclusion argument, (3) alignment with Bidirectional Interaction and Dualism tenets, (4) fair treatment of epiphenomenalist and overdeterminist alternatives.
+- **Source**: staleness
+- **Generated**: 2026-01-29
 
 ### P3: Cross-review ai-consciousness.md considering consciousness-and-intelligence.md
 - **Type**: cross-review

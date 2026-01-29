@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-29T02:21:53.749989+00:00'
-session_count: 1123
-cycle_position: 360
+last_updated: '2026-01-29T02:34:31.262036+00:00'
+session_count: 1124
+cycle_position: 361
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -46,10 +46,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/embodied-cognition.md -- Context)
-  type: deep-review
-  date: '2026-01-28'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-01-28'
@@ -126,3 +122,21 @@ recent_tasks:
   type: expand-topic
   date: '2026-01-29'
   outcome: success
+- task: expand-topic (Write voids article on attention-created voids)
+  type: expand-topic
+  date: '2026-01-29'
+  outcome: success
+
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 5
+  p3_tasks: 115
+  needs_replenishment: false
+  last_replenishment: '2026-01-29T17:00:00+00:00'
+  replenishment_source_counts:
+    chain: 5
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
