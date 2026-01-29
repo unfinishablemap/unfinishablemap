@@ -4,7 +4,7 @@ description: "How conscious states map to quantum selections: the coupling laws 
 created: 2026-01-16
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T00:00:00+00:00
+ai_modified: 2026-01-29T01:44:52+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-29
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-29T01:44:52+00:00
 coalesced_from:
   - "/concepts/psychophysical-coupling-law/"
   - "/concepts/psychophysical-coupling-mechanisms/"
@@ -57,7 +57,7 @@ A psychophysical coupling law would specify:
 3. **Bandwidth**: How much information can consciousness inject per unit time?
 4. **Scope constraints**: What is *not* selectable?
 
-Without answers to these questions, "consciousness selects" is promissory—a placeholder for a theory not yet articulated. What Schaffer calls the "t-shirt problem"—the lack of a compact systematization of psychophysical correlations—remains unsolved. The challenge is not merely identifying *that* consciousness influences physical events, but specifying *how*.
+Without answers to these questions, "consciousness selects" is promissory—a placeholder for a theory not yet articulated. What Schaffer calls the "t-shirt problem"—the lack of a compact systematization of psychophysical correlations—remains unsolved.
 
 ## Chalmers' Framework for Psychophysical Laws
 
@@ -112,9 +112,7 @@ The bandwidth constraint sharply limits what selection can accomplish:
 | ~3-4 choices/second | Matches deliberate decision-making phenomenology |
 | Cumulative over time | Sustained attention, not instantaneous |
 
-This explains why selection is policy-level: consciousness selects "raise arm" not "fire neuron N₂₃₄₅₆." A coupling law claiming consciousness directly determines billions of quantum events per second would violate what we know about conscious processing limits.
-
-Any coupling law must respect this constraint. Whatever consciousness selects, the selection must be achievable at ~10 bits/second.
+This explains why selection is policy-level: consciousness selects "raise arm" not "fire neuron N₂₃₄₅₆." Any coupling law must respect this constraint.
 
 ## Candidate Coupling Laws
 
@@ -155,7 +153,7 @@ Consciousness shapes possibility space but doesn't determine specific outcomes. 
 **Mental variable**: The "now" of conscious awareness—this moment, this perspective
 **Physical variable**: Which outcome is experienced as actual
 
-The law: **Consciousness doesn't cause outcomes; it selects which outcome is "this one."** All branches may exist (as MWI holds), but consciousness is what makes one branch subjectively actual.
+The law: **Consciousness doesn't cause outcomes; it selects which outcome is "this one."** Unlike MWI's treatment of self-locating uncertainty—where all branches exist and the question is merely "which branch am I in?"—this law holds that selection makes one outcome *actual* and precludes the others. The difference is ontological, not merely epistemic.
 
 This connects to the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet: the selected outcome is *this* outcome, with indexical identity that branching models cannot capture.
 
@@ -167,19 +165,19 @@ Beyond the law families, specific mechanisms have been proposed. Only two have d
 
 Henry Stapp's quantum Zeno model provides the most developed coupling mechanism. **Phenomenal property**: intensity and focus of attention, the phenomenology of effort. **Physical selection**: rate of quantum measurements. **Mechanism**: Attending to a neural pattern increases observation rate, "freezing" the pattern via the quantum Zeno effect.
 
-The quantum Zeno effect—experimentally verified—shows that rapid repeated observation can prevent quantum state evolution. Stapp connects this to William James' phenomenology of "volitional effort": sustaining attention against distraction requires mental work precisely because it requires maintaining high observation rates.
+The quantum Zeno effect—experimentally verified—shows that rapid repeated observation can prevent quantum state evolution. Stapp connects this to James' phenomenology of "volitional effort": sustaining attention against distraction requires mental work because it requires maintaining high observation rates.
 
 **Testable predictions**: Meditation training should increase ability to sustain high observation rates. OCD patients using mindful attention to resist compulsions should show measurable changes in frontal activation (Schwartz et al. documented such changes). Willed attention should differ from instructed attention in neural signatures.
 
 **Major objection**: Decoherence timescale. Monte Carlo simulations (Araujo et al., 2014) showed the quantum Zeno effect breaks down for timescales exceeding brain decoherence time.
 
-**Possible response**: Consciousness could bias outcome selection *after* decoherence, operating at the point of definite-outcome emergence rather than during coherent evolution. This shifts the mechanism from "Zeno-freezing superpositions" to "selecting among decoherence-selected alternatives."
+**Possible response**: Consciousness could bias outcome selection *after* decoherence, at the point of definite-outcome emergence rather than during coherent evolution. This shifts the mechanism from "Zeno-freezing superpositions" to "selecting among decoherence-selected alternatives." The mechanism would then operate not on quantum superpositions but on the classical alternatives that decoherence produces—a less exotic but still causally efficacious form of selection.
 
 ### 2. Intention as Probability Weighting {#intention}
 
 John Eccles' psychon-dendron theory proposes that **mental intention acts as a quantum probability field**, altering the likelihood of neurotransmitter vesicle release via quantum tunneling. **Phenomenal property**: intending to act, volition. **Physical selection**: probability of vesicle exocytosis.
 
-Each mental unit (psychon) couples to a neural unit (dendron); intention modulates quantum tunneling probability without violating conservation laws. Eccles cited Libet experiments: intention to move activates the supplementary motor area approximately 200 milliseconds before intended movement.
+Each mental unit (psychon) couples to a neural unit (dendron); intention modulates quantum tunneling probability without violating conservation laws.
 
 **Testable predictions**: Voluntary movements should show different preparatory neural signatures than involuntary movements. Intention should correlate with changes in vesicle release probability.
 
@@ -225,7 +223,7 @@ Kerskens and Pérez (2022) reported possible entanglement signatures in human br
 | **Qualia→Basis** | Qualitative character | Measurement basis | Very low | None | Purely speculative |
 | **Unity→Entanglement** | Phenomenal binding | Sustained coherence | Low | Kerskens-Pérez MRI | Correlation≠causation |
 
-Stapp's attention mechanism provides the most developed account: clear phenomenal property (effort), clear physical parameter (observation rate), clear mechanism (Zeno effect), testable predictions, and experimental evidence (though contested). The Araujo et al. simulations pose a serious challenge—whether a post-decoherence version remains coherent is an open question.
+Stapp's attention mechanism provides the most developed account: clear phenomenal property (effort), clear physical parameter (observation rate), clear mechanism (Zeno effect), testable predictions, and experimental evidence (though contested).
 
 ## The Specification Requirement
 
@@ -247,13 +245,11 @@ A coupling law must specify exclusions—what consciousness cannot select:
 - Events outside attention scope
 - Information beyond bandwidth limit (~10 bits/second)
 
-**Why these exclusions**: Selection operates through attention, which is neurally implemented. The coupling law connects conscious attention to its neural substrates, not to arbitrary physical systems. The brain specialness problem resolves: selection is brain-local because attention is brain-local.
+Selection operates through attention, which is neurally implemented. The brain specialness problem resolves: selection is brain-local because attention is brain-local.
 
 ## Testing the Coupling Law
 
-**Random number generator experiments** have attempted to detect consciousness influencing external quantum outcomes. Results are mixed—some meta-analyses find small effects; others attribute these to publication bias.
-
-If the coupling law restricts selection to attention-controlled neural systems, RNG experiments should fail by design—the RNG is external. This isn't a defect; it's evidence about what kind of coupling law obtains.
+**Random number generator experiments** have attempted to detect consciousness influencing external quantum outcomes. Results are mixed—some meta-analyses find small effects; others attribute these to publication bias. If the coupling law restricts selection to attention-controlled neural systems, RNG experiments should fail by design—the RNG is external.
 
 **A better test**: Measure whether conscious effort correlates with neural pattern stability in attention networks. If Stapp's Zeno mechanism is real, effort should map to pattern persistence.
 
