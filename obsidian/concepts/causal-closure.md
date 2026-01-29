@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-29T03:44:15+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ concepts:
   - "[[mental-causation]]"
   - "[[downward-causation]]"
   - "[[reductionism]]"
+  - "[[delegatory-dualism]]"
 related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism]]"
@@ -31,7 +32,7 @@ author: null
 ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-22T20:55:47+00:00
+last_deep_review: 2026-01-29T03:44:15+00:00
 ---
 
 Causal closure of the physical is the thesis that every physical event that has a cause has a *sufficient* physical cause. If true, nothing outside the physical realm ever makes a causal difference to what happens physically. This principle underlies the most influential contemporary argument against [[interactionist-dualism]]—and The Unfinishable Map's framework depends on its rejection.
@@ -113,7 +114,9 @@ The Map's response: Hidden variable theories add explanatory machinery beyond wh
 
 **The overdetermination worry**: Even granting indeterminism, doesn't consciousness biasing quantum outcomes constitute overdetermination? The wave function determines probability distributions; consciousness determines which outcome within that distribution. Two causes, one effect.
 
-The Map's response: This depends on what "biasing" means. If consciousness *violates* the Born rule (produces outcome frequencies different from quantum probabilities), that would be overdetermination—and it's empirically testable and hasn't been found. But if consciousness operates *within* the probabilistic constraints—selecting among outcomes that quantum mechanics makes available at the frequencies quantum mechanics specifies—then the wave function provides the *range* of possibilities and their *statistical weights*, while consciousness provides the *particular outcome*. This is not overdetermination but complementary determination: physics specifies what *can* happen and how *often* each possibility occurs across many trials; consciousness specifies what *does* happen in this particular instance. Compare: the rules of chess determine what moves are legal and constrain strategy statistically, but the player determines which legal move actually occurs. The rules don't overdetermine the move; they constrain it.
+The Map's response: If consciousness *violates* the Born rule (produces outcome frequencies different from quantum probabilities), that would be overdetermination—empirically testable and not found. But consciousness operating *within* probabilistic constraints—selecting among quantum-permitted outcomes at the frequencies physics specifies—is complementary determination, not overdetermination. Physics provides the range and statistical weights; consciousness provides the particular outcome. Compare: chess rules constrain legal moves without overdetermining which move occurs.
+
+Bradford Saad's [[delegatory-dualism]] (2025) offers an alternative framework: physical states *delegate* their causal responsibilities to conscious experiences with matching causal profiles, via preemption rather than duplication. When pain causes wincing, the physical state's causal contribution is preempted, not doubled. This avoids overdetermination through the logic of backup causation—like how a major's order preempts a sergeant's to produce a single cause, not two. The Map's quantum framework and Saad's delegation mechanism may be complementary: quantum indeterminacy provides the physical substrate where consciousness operates; delegation explains the causal structure that avoids exclusion problems.
 
 If consciousness acts at these indeterminacies—selecting among outcomes physics leaves undetermined—it causes physical events without violating any physical law. No energy is injected (the outcomes are among those physics already allows). The selection operates within quantum mechanical constraints, not against them.
 
@@ -147,17 +150,9 @@ This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] 
 
 ### The Emergentist Response
 
-Strong [[emergence|emergentism]] provides another route to denying causal closure. Timothy O'Connor and Hong Yu Wong argue that emergent properties possess "fundamentally novel" causal powers not reducible to component-level causation. Their "structural triggering conditions" framework holds that latent emergent powers manifest when components organize appropriately.
+Strong [[emergence|emergentism]] provides another route to denying causal closure. Timothy O'Connor and Hong Yu Wong argue that emergent properties possess "fundamentally novel" causal powers not reducible to component-level causation—genuine [[downward-causation]] where consciousness influences neural states in ways component interactions don't determine.
 
-On this view, causal closure fails because organization adds something genuinely new. The physical base provides necessary but not sufficient conditions. O'Connor and Wong:
-
-> "If one decides to act in the world—perhaps making up one's mind to switch on an electric kettle—strongly emergent consciousness (higher level) is imagined to downwardly cause a resultant state of (lower level) molecular motion."
-
-This is genuine [[downward-causation]]—higher-level properties causally influencing lower-level behavior in ways not reducible to component interactions. If consciousness is strongly emergent, it acts "downward" on neural states.
-
-Classical British emergentists (Broad, Alexander) affirmed this position but lacked a mechanism. They accepted strong emergence with "natural piety"—brute facts to be acknowledged. This left their position vulnerable to Kim's exclusion argument: if lower-level causes are sufficient (causal closure), how can higher-level properties add anything?
-
-The Map's quantum framework strengthens emergentism by specifying where and how emergent causation operates: at quantum indeterminacies, where physics provides probabilities but not outcomes. This transforms the emergentist response from mere assertion to a mechanism: consciousness fills a genuine gap in physical determination. Downward causation becomes coherent because the "downward" direction operates precisely where the "upward" physical story is incomplete.
+Classical British emergentists (Broad, Alexander) accepted this with "natural piety" but lacked a mechanism, leaving them vulnerable to Kim's exclusion argument. The Map's quantum framework strengthens emergentism by specifying where emergent causation operates: at quantum indeterminacies, where physics provides probabilities but not outcomes. Downward causation becomes coherent because the "downward" direction operates precisely where the "upward" physical story is incomplete.
 
 ### Arguments from Reason
 
@@ -207,11 +202,9 @@ Rejecting causal closure might seem to invite chaos—if physics isn't complete,
 
 The answer: physics is *almost* complete. Quantum indeterminacies are tiny, and the statistical laws of quantum mechanics ensure that large-scale regularities emerge from microscopic randomness.
 
-But why don't consciousness-influenced quantum events aggregate to detectable violations of physical law? If consciousness biases quantum outcomes, and there are ~10²⁶ atoms in a bridge, why don't cumulative biases add up to structural failures?
+But why don't consciousness-influenced quantum events aggregate to detectable violations of physical law?
 
-The statistical response: Suppose consciousness biases individual quantum events by a small percentage—say 1% away from the Born rule probabilities in neural systems specifically prepared for amplification. In a bridge's steel atoms, there are ~10¹⁵ thermalization events per second, but these aren't amplified to macroscopic effects (no neural architecture to propagate the signal). The biases would average out to undetectable fluctuations well within quantum mechanical statistical variation. Moreover, if consciousness only operates at indeterminacies *that make a difference to cognitive processing*—quantum events in neural microtubules or ion channels that affect firing patterns—then the number of consciousness-influenced events is vastly smaller than the total number of quantum events in the body.
-
-What causal closure's failure allows is *small* deviations from purely physical expectations—deviations that could influence which of several superposed neural states becomes actual. These deviations would be statistically invisible in any physical measurement of non-neural systems yet could make all the difference for agency and thought in neural systems prepared by evolution for quantum amplification.
+The statistical response: Consciousness biases only indeterminacies that matter for cognition—quantum events in neural systems prepared for amplification. In non-neural systems (bridge atoms, thermalization events), any biases average out to undetectable fluctuations within quantum statistical variation. Causal closure's failure allows *small* deviations that influence which superposed neural state becomes actual—statistically invisible outside neural systems, yet decisive for agency and thought.
 
 **Testability**: What would falsify the Map's position? Several possibilities: (1) demonstration that quantum coherence is *never* maintained at neural timescales under any conditions, (2) proof that quantum effects, even if present, cannot be amplified to affect neural firing, (3) identification of purely classical mechanisms sufficient to explain all consciousness-related phenomena including reportability and metacognition, or (4) discovery that consciousness reports don't correlate with quantum effects in predicted ways. The Map's position is not empirically equivalent to physicalism—it makes testable predictions about quantum biology in neural systems.
 
@@ -220,6 +213,7 @@ This is not "god of the gaps" reasoning. It's recognition that physics *describe
 ## Further Reading
 
 - [[conservation-laws-and-mind]] — Why the energy conservation objection fails; selection-not-injection framework
+- [[delegatory-dualism]] — Saad's framework avoiding overdetermination through preemption
 - [[luck-objection]] — The challenge that undetermined choices are merely random; consciousness-as-selector response
 - [[mysterianism]] — Why the mechanism of mind-matter interaction may exceed human comprehension
 - [[reductionism]] — Ontological vs methodological vs epistemic reduction; why conflating them supports closure illicitly

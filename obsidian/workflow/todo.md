@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review causal-closure.md considering delegatory-dualism insights
-- **Type**: cross-review
-- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) introduces Bradford Saad's distinction between "observational closure" (no empirically detectable anomalies) and universal causal closure. Check causal-closure.md for: (1) cross-links to delegatory dualism's treatment, (2) whether the observational vs. universal closure distinction strengthens the page, (3) consistency between the two articles on how dualism can respect closure constraints.
-- **Source**: chain (from delegatory-dualism.md)
-- **Generated**: 2026-01-29
-
 ### P2: Write article on consciousness in simple organisms
 - **Type**: expand-topic
 - **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Covers: 2024 New York Declaration expanding consciousness to invertebrates, C. elegans (302 neurons), Hydra (decentralized nerve net), slime molds (no neurons), and the Unlimited Associative Learning (UAL) criterion. Key for understanding the distribution problem: why these organisms interface with consciousness? Builds on animal-consciousness.md, evolution-of-consciousness.md, panpsychism.md.
@@ -800,6 +794,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review causal-closure.md considering delegatory-dualism insights
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) introduces Bradford Saad's distinction between "observational closure" (no empirically detectable anomalies) and universal causal closure. Check causal-closure.md for: (1) cross-links to delegatory dualism's treatment, (2) whether the observational vs. universal closure distinction strengthens the page, (3) consistency between the two articles on how dualism can respect closure constraints.
+- **Output**: obsidian/concepts/causal-closure.md -- Context: Cross-review causal-closure.md considering delegatory-dualism insights
 
 ### ✓ 2026-01-29: Cross-review attention.md considering attention-created-voids.md
 - **Type**: cross-review
