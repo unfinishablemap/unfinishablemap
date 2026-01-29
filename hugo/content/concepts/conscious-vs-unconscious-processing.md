@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-29 00:15:12+00:00
+ai_modified: 2026-01-29 22:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -31,10 +31,11 @@ description: 'Consciousness enables specific functions unconscious processing ca
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 00:15:12+00:00
+last_deep_review: 2026-01-29 22:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[consciousness-and-intelligence]]'
 - '[[neural-correlates-conscious-unconscious-processing-2026-01-23]]'
 - '[[interactionist-dualism]]'
 - '[[epiphenomenalism]]'
@@ -301,6 +302,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 
 ## Further Reading
 
+- [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — How consciousness enables human-level intelligence beyond baseline cognition
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — How quantum mechanisms can operate within neural timescales
 - [argument-from-reason](/topics/argument-from-reason/) — Why reasoning about consciousness requires consciousness to be causally efficacious
 - [consciousness](/concepts/consciousness/) — The core concept and its varieties

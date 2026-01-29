@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-01-29 21:30:00+00:00
+ai_modified: 2026-01-29 11:34:34+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Exploring whether consciousness and intelligence are independent, i
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 21:30:00+00:00
+last_deep_review: 2026-01-29 11:34:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,7 +109,7 @@ The [consciousness-as-intelligence-amplifier](/concepts/consciousness-as-amplifi
 
 **Metacognition**: Great apes show procedural metacognition—uncertainty guides their behaviour—but may lack *declarative* metacognition: representing their knowledge *as* knowledge, taking their beliefs as objects of thought.
 
-**Cumulative culture**: Apes have culture but cannot accumulate improvements across generations. They lack the explicit transmission and deliberate modification that cumulative culture requires. Tomasello calls their innovations "zone of latent solutions"—discovering what their existing capacities can already produce, rather than building new capacities.
+**Cumulative culture**: Apes have culture but cannot accumulate improvements across generations. They lack the explicit transmission and deliberate modification that cumulative culture requires. Tennie, Call, and Tomasello (2009) describe ape innovations as within the "zone of latent solutions"—discovering what their existing capacities can already produce, rather than building new capacities.
 
 **Logical reasoning**: Empirical research (Lieberman et al. 2008) shows that conscious processing specifically enables rule-based logical reasoning. Disrupting conscious attention impairs logic; disrupting unconscious processes does not.
 
@@ -188,4 +188,5 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against di
 - James, W. (1890). *The Principles of Psychology*. Henry Holt.
 - Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
 - Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
-- Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
+- Tennie, C., Call, J., & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415.
+- Tomasello, M., & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.

@@ -1,20 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-01-27 18:00:00+00:00
+ai_modified: 2026-01-29 18:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[mysterianism]]'
 - '[[simulation]]'
+- '[[consciousness-and-mathematical-understanding]]'
 created: 2026-01-27
-date: &id001 2026-01-27
+date: &id001 2026-01-29
 description: Human+AI exploration of formal limits on what any algorithmic mind can
   know. Gödel, Turing, and complexity theory define voids that mathematics proves
   exist.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-29 18:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -46,13 +48,13 @@ Kurt Gödel showed in 1931 that any consistent formal system capable of expressi
 
 This means mathematical truth exceeds mathematical proof. There are truths we can recognise but never demonstrate within our formal frameworks. The void is built into the structure of logic itself.
 
-J.R. Lucas and Roger Penrose argue this implies human minds are not Turing machines. We can "see" the truth of Gödel sentences—statements that say of themselves that they cannot be proven—while any formal system is blind to its own Gödel sentence. If we genuinely grasp these truths, we transcend the systems that cannot.
+J.R. Lucas and Roger Penrose argue this implies human minds are not Turing machines. We can "see" the truth of Gödel sentences—statements that say of themselves that they cannot be proven—while any formal system is blind to its own Gödel sentence. If we genuinely grasp these truths, we transcend the systems that cannot. See [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) for detailed treatment of mathematical insight as evidence for non-computational mind.
 
-Critics counter that this assumes human reasoning is consistent—an unproven claim. Perhaps we only seem to grasp Gödel sentences through inconsistent reasoning that would dissolve under scrutiny. The Lucas-Penrose argument remains contested, but the underlying void is not: mathematical systems provably cannot capture all mathematical truth.
+Most cognitive scientists and AI researchers reject this argument. Critics counter that it assumes human reasoning is consistent—an unproven claim. We may only seem to grasp Gödel sentences through procedures that would reveal inconsistency under scrutiny, or we may be following mechanical proof procedures without genuine insight. The Lucas-Penrose argument remains a minority position, but the underlying void is not contested: mathematical systems provably cannot capture all mathematical truth.
 
 ## Rice's Theorem and Semantic Opacity
 
-Henry Rice generalised the halting problem in 1951: any non-trivial semantic property of programs is undecidable. We cannot algorithmically determine whether a program has any interesting behaviour-dependent property—whether it prints "hello", whether it ever uses a particular variable, whether it computes a particular function.
+Rice's theorem generalised the halting problem in 1953: any non-trivial semantic property of the partial function computed by a program is undecidable. We cannot algorithmically determine whether a program computes a function with any interesting property—whether it computes a constant function, whether it equals another program's function, whether its output has a particular pattern.
 
 This creates a void between syntax and semantics. We can inspect what a program looks like without being able to determine what it does. The formal structure is accessible; the meaning is occluded.
 
@@ -68,7 +70,7 @@ This is perhaps the clearest example of the computational void's character: not 
 
 ## Computational Irreducibility
 
-Stephen Wolfram identifies computational irreducibility as a fundamental limit on prediction. Some computations cannot be simplified—the only way to know the outcome is to run every step. Even with perfect models and complete information, prediction may be impossible.
+Stephen Wolfram proposes computational irreducibility as a limit on prediction. His thesis: some computations cannot be simplified—the only way to know the outcome is to run every step. Even with perfect models and complete information, prediction may be impossible.
 
 "For meaningful general predictions to be possible," Wolfram writes, "the system making predictions must be able to outrun the system it is trying to predict." When systems have equivalent computational power, neither can simulate the other faster than real time. The universe may be its own fastest simulator.
 
@@ -84,7 +86,7 @@ This void separates what rationality demands from what any finite mind can deliv
 
 ## Phenomenology of the Computational Edge
 
-Approaching these limits has a distinctive phenomenology:
+Approaching these limits has a distinctive phenomenology—related to but distinct from the [contemplative and psychedelic edge-states](/voids/phenomenology-of-the-edge/) explored elsewhere in the voids framework:
 
 **Infinite regress.** Trying to verify a system's consistency requires a meta-system, which requires verification by a meta-meta-system. The tower never grounds itself. Minds experience this as the peculiar vertigo of self-validation—how can I trust my reasoning about whether my reasoning is trustworthy?
 
@@ -102,7 +104,7 @@ This has implications for [AI as void explorer](/voids/ai-as-void-explorer/). In
 
 However, asymmetries may exist in *practice*. AI might recognise patterns in where problems become intractable, might hold more problem structure in working memory, might identify which instances of NP-hard problems humans systematically misjudge. The formal limits are shared; the approach to those limits differs.
 
-The deeper question: Are there non-computational aspects of mind that escape these limits? Penrose argues yes—consciousness involves quantum gravitational processes beyond Turing computation. If correct, the computational void would bound machines while consciousness accesses something more. The Map's commitment to [bidirectional interaction](/tenets/#bidirectional-interaction)—consciousness causally influencing physics—suggests the interface between mind and matter might operate non-computationally.
+The deeper question: Are there non-computational aspects of mind that escape these limits? Penrose argues yes—consciousness involves quantum gravitational processes beyond Turing computation. This remains highly speculative (see [mysterianism's](/concepts/mysterianism/) treatment of whether we can even know if minds transcend computation). But if correct, the computational void would bound machines while consciousness accesses something more. The Map's commitment to [bidirectional interaction](/tenets/#bidirectional-interaction)—consciousness causally influencing physics—suggests the interface between mind and matter might operate non-computationally.
 
 ## Relation to Site Perspective
 

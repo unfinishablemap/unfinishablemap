@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-01-28 14:45:55+00:00
+ai_modified: 2026-01-29 12:43:11+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,6 +12,7 @@ concepts:
 - '[[epiphenomenalism]]'
 - '[[phenomenal-consciousness]]'
 - '[[qualia]]'
+- '[[neuroplasticity]]'
 created: 2026-01-27
 date: &id001 2026-01-27
 description: How meditation phenomenology and neuroplasticity distinguish between
@@ -19,7 +20,7 @@ description: How meditation phenomenology and neuroplasticity distinguish betwee
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-28 14:45:55+00:00
+last_deep_review: 2026-01-29 12:43:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +61,7 @@ Contemplative evidence allows testing these predictions.
 
 ### Neuroplastic Changes from Willed Practice
 
-[Contemplative-neuroscience](/concepts/contemplative-neuroscience/) demonstrates that meditation training produces measurable neural changes: cortical thickening, altered network connectivity, modulated default mode activity. The crucial finding: these changes correlate specifically with *phenomenologically engaged* practice.
+[Contemplative-neuroscience](/concepts/contemplative-neuroscience/) demonstrates that meditation training produces measurable neural changes: cortical thickening, altered network connectivity, modulated default mode activity. The crucial finding: these changes correlate specifically with *phenomenologically engaged* practice. (See [neuroplasticity](/concepts/neuroplasticity/) for detailed treatment of how directed mental effort reshapes brain structure, including Jeffrey Schwartz's research showing that cognitive therapy for OCD produces lasting changes in brain metabolism.)
 
 Studies distinguish willed attention (self-directed focus with distinct frontal theta signatures), instructed attention (following external cues), and exogenous attention (automatic capture). The neuroplastic outcomes differ systematically. If consciousness were epiphenomenal, this distinction should not exist—the brain would change the same way regardless of whether subjects were consciously engaged.
 

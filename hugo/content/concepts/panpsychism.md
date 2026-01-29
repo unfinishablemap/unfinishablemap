@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-27 11:15:33+00:00
+ai_modified: 2026-01-29 13:18:11+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[intrinsic-nature-void]]'
 - '[[process-philosophy]]'
+- '[[consciousness-in-simple-organisms]]'
 created: 2026-01-08
 date: &id001 2026-01-27
 description: The view that consciousness is fundamental and ubiquitous in nature.
@@ -22,7 +23,7 @@ description: The view that consciousness is fundamental and ubiquitous in nature
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 11:15:33+00:00
+last_deep_review: 2026-01-29 13:18:11+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,7 +88,7 @@ The combination problem has several variants:
 
 **The evolutionary distribution question**: If all matter has experiential properties, why does consciousness apparently track neural complexity and behavioural flexibility? The panpsychist answer: what we recognise as "consciousness" is organised, integrated experience. Simple systems have only simple, fragmented experience; complex neural systems achieve the [phenomenal unity](/concepts/phenomenal-unity/) we associate with minds. Evolution didn't create experience—it created the integrating structures that amplify and unify pre-existing experiential properties (see [the emergence question](/concepts/evolution-of-consciousness/#the-emergence-question)).
 
-**Empirical boundary cases**: Research on [minimal consciousness](/concepts/minimal-consciousness/) in simple organisms provides a testing ground for panpsychist continuity. Consider:
+**Empirical boundary cases**: Research on [minimal consciousness](/concepts/minimal-consciousness/) in simple organisms provides a testing ground for panpsychist continuity (see [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) for detailed treatment). Consider:
 
 - **C. elegans** (302 neurons): Shows habituation and associative learning yet fails trace conditioning—a key criterion for unlimited associative learning. If panpsychism is correct, even this minimal nervous system has some experiential quality, but cannot unite micro-experiences into integrated subjectivity.
 
@@ -182,6 +183,7 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 
 ## Further Reading
 
+- [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Detailed analysis of C. elegans, Hydra, and slime molds and what they reveal about consciousness distribution
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical cases (C. elegans, Hydra, slime molds) that test panpsychist predictions
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — How panpsychism addresses the evolutionary emergence question
 - [combination-problem](/concepts/combination-problem/) — The central challenge facing panpsychism

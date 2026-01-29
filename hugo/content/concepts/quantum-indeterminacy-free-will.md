@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-29 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: How quantum mechanics creates logical space for libertarian free wi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 12:00:00+00:00
+last_deep_review: 2026-01-29 12:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +72,7 @@ The Map's framework is [agent-causal](/concepts/agent-causation/). Roderick Chis
 
 On this view, the agent as persisting substance directly causes actions. Quantum indeterminacy provides the opening; the agent provides the selection. The explanatory buck stops at the agent's exercise of causal power, which is reasons-responsive rather than arbitrary.
 
-Timothy O'Connor's neo-Aristotelian framework (2021) treats low-level indeterminacy as enabling agent causation without requiring it to operate at the macroscopic level. Consciousness interfaces with physics at quantum indeterminacies; the agent's choices emerge from this interface.
+Timothy O'Connor's neo-Aristotelian framework treats low-level indeterminacy as enabling agent causation without requiring it to operate at the macroscopic level. Consciousness interfaces with physics at quantum indeterminacies; the agent's choices emerge from this interface.
 
 ## The Luck Objection: The Central Challenge
 

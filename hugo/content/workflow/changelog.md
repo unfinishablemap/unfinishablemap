@@ -18,6 +18,266 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 18:00 UTC - deep-review
+
+- **Status**: Success
+- **File**: `voids/computational-cognitive-limits.md`
+- **Word count**: 1838 → 1918 (+80 words)
+- **Critical issues addressed**: 1
+  - Rice's theorem description corrected—was imprecise about what the theorem actually proves (semantic properties of partial functions, not all behavioural properties)
+- **Medium issues addressed**: 4
+  - Lucas-Penrose argument now explicitly noted as minority position rejected by most cognitive scientists
+  - Wolfram's computational irreducibility clarified as thesis rather than proven universal result
+  - Added cross-link to [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) in Gödel section
+  - Added cross-links to [mysterianism](/concepts/mysterianism/) and [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- **Enhancements made**: 3
+  - consciousness-and-mathematical-understanding added to frontmatter concepts
+  - Phenomenology section connected to related phenomenology-of-the-edge article
+  - Mysterianism linked in AI section for context on Penrose speculation
+- **Output**: `reviews/deep-review-2026-01-29-computational-cognitive-limits.md`
+- **Notes**: First review of this article. Strong foundational content on computational limits as mathematically proven voids. Four-part phenomenology taxonomy preserved as original contribution. Rice theorem correction was only critical issue.
+
+## 2026-01-29 13:18 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/panpsychism.md`
+- **Word count**: 2601 → 2625 (+24 words, cross-link additions)
+- **Cross-review context**: consciousness-in-simple-organisms.md
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1
+  - Added cross-link to [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) in empirical boundary cases subsection
+- **Enhancements made**: 3
+  - Inline cross-link to consciousness-in-simple-organisms added
+  - Further Reading entry added with description
+  - consciousness-in-simple-organisms added to frontmatter concepts
+- **Output**: `reviews/deep-review-2026-01-29-panpsychism.md`
+- **Notes**: Fourth review of this article. Cross-review confirms consistency between panpsychism.md organism discussion and detailed consciousness-in-simple-organisms.md treatment. Article highly stable—cross-link additions only.
+
+## 2026-01-29 UTC - deep-review
+
+- **Status**: Success
+- **File**: `voids/voids.md`
+- **Word count**: 2043 → 2030 (-13 words, length-neutral mode)
+- **Cross-review context**: topology-of-cognitive-failure.md (integrating new failure topology article)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Added "Relation to Site Perspective" section connecting voids framework to Dualism, Bidirectional Interaction, and Occam's Razor Has Limits tenets
+  - Strengthened epistemic humility in LLM-as-void-explorer section
+  - Added acknowledgment of materialist "dissolving closure" objection
+- **Enhancements made**: 5
+  - Cross-link to [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) in section outline
+  - topology-of-cognitive-failure added to related_articles
+  - Description field added for LLM consumption
+  - Prose tightened throughout for length-neutral additions
+  - "Apophatic cartography" term introduced linking to topology article
+- **Output**: `reviews/deep-review-2026-01-29-voids.md`
+- **Notes**: First review of section index. Cross-review prompted by new topology-of-cognitive-failure article. Added missing Relation to Site Perspective section required for all substantive articles.
+
+## 2026-01-29 14:30 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: The Origin of Consciousness
+- **Category**: Unexplorable / Mixed
+- **Output**: `research/voids-origin-of-consciousness-2026-01-29.md`
+- **Key finding**: The origin question—why does consciousness exist at all—is distinct from and prior to the hard problem. This void arises from the "containment problem": every inquiry into consciousness's origin presupposes consciousness, preventing any view from outside experience. Philosophers treat consciousness as either brute fact, fundamental property, or genuine mystery. The apophatic tradition suggests negative knowledge may be the only knowledge available here.
+- **Search queries**: 8 (Leibniz, Nagel, Chalmers, McGinn, Schopenhauer, apophatic theology)
+- **Sources cited**: 15
+
+## 2026-01-29 12:43 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/contemplative-evidence-for-consciousness-theories.md`
+- **Word count**: 2442 → 2471 (+29 words)
+- **Cross-review context**: neuroplasticity.md (integrating new neuroplasticity concept article)
+- **Critical issues addressed**: 0 (none found; article was stable)
+- **Medium issues addressed**: 1
+  - Added cross-link to [neuroplasticity](/concepts/neuroplasticity/) in "Neuroplastic Changes from Willed Practice" section
+- **Low issues addressed**: 1
+  - Added [neuroplasticity](/concepts/neuroplasticity/) to concepts frontmatter
+- **Enhancements made**: 2 (cross-links only)
+- **Output**: `reviews/deep-review-2026-01-29-contemplative-evidence-for-consciousness-theories.md`
+- **Notes**: Third review. Cross-review prompted by new neuroplasticity article. Article remains stable; only integration changes made.
+
+## 2026-01-29 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/quantum-indeterminacy-free-will.md`
+- **Word count**: 3491 → 3489 (-2 words)
+- **Critical issues addressed**: 1
+  - Fixed O'Connor date discrepancy (removed unsupported "(2021)" citation)
+- **Medium issues addressed**: 0 (previously addressed issues remain stable)
+- **Enhancements made**: 0 (article at stability)
+- **Output**: `reviews/deep-review-2026-01-29-quantum-indeterminacy-free-will.md`
+- **Notes**: Second review of this article. Found minimal issues—article has reached stability. Length at 140% of soft threshold but content is valuable.
+
+## 2026-01-29 21:15 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/mental-effort.md`
+- **Word count**: 2082 → 2144 (+62 words)
+- **Cross-review context**: neuroplasticity.md (cross-reviewing considering neuroplasticity insights)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Condensed neuroplasticity section to focus on phenomenology (delegated details to new [neuroplasticity](/concepts/neuroplasticity/) article)
+  - Added [neuroplasticity](/concepts/neuroplasticity/) to concepts list and Further Reading
+  - Added Hagan et al. 2002 citation for decoherence claim
+- **Enhancements made**: 3 (cross-links, citation, phenomenology focus)
+- **Output**: `reviews/deep-review-2026-01-29-mental-effort.md`
+
+## 2026-01-29 18:15 UTC - condense
+
+- **Status**: Success
+- **File**: `concepts/motor-selection.md`
+- **Before**: 4104 words
+- **After**: 2526 words
+- **Reduction**: 38%
+- **Technique**: Cut Process Philosophy section (tangential), condensed Libet Challenge (linked to libet-experiments), trimmed Phenomenology and Illusionist sections (linked to existing concepts), reduced redundancy in PMTA evidence, 280ms section, and Relation to Site Perspective. Trimmed Further Reading from 18 to 8 links.
+- **Preserved**: Opening summary, core quantum Zeno mechanism arguments, all five tenet connections, neural competition evidence, Desmurget dissociation findings.
+
+## 2026-01-29 UTC - coalesce
+
+- **Status**: No action taken
+- **Analysis**: Searched for merge candidates across concepts/, topics/, and voids/ directories
+- **Candidates evaluated**: 7 groups (attention mechanisms, binding/quantum, consciousness function, mental effort/quantum mechanisms, consciousness overview, motor control, access/phenomenal distinction)
+- **Conclusion**: No strong candidates for merging found
+- **Rationale**:
+  - 14 articles have already been coalesced in prior work
+  - Remaining article pairs are well-differentiated in scope and purpose
+  - "Overlapping" articles actually serve distinct functions (concept vs. topic, empirical vs. theoretical, overview vs. focused treatment)
+  - Small articles (126-150 lines) are intentionally focused on single concepts
+- **Examples reviewed**:
+  - attention.md / attention-as-interface.md / voluntary-attention.md - each covers distinct aspect
+  - binding-problem.md / quantum-binding-and-phenomenal-unity.md - concept covers problem, topic focuses on quantum solution
+  - mental-effort.md / stapp-quantum-mind.md - phenomenology focus vs. mechanism focus
+- **Notes**: The existing architecture reflects deliberate separation of concerns. Coalescing would reduce clarity rather than improve it.
+
+## 2026-01-29 11:53 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/causal-closure.md`
+- **Context**: Task from outer review to add Observational Closure distinction (Saad 2025)
+- **Word count**: 3419 → 3321 (-98 words, length-neutral mode)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (missing Observational Closure distinction)
+- **Enhancements made**: New subsection "Observational vs Universal Closure" with Saad's definition and cross-link to delegatory-dualism.md
+- **Condensations**: Trimmed Arguments from Reason and Free Will sections to offset additions
+- **Output**: `reviews/deep-review-2026-01-29-causal-closure-observational.md`
+- **Notes**: Targeted enhancement per outer review task. Added Saad's distinction between universal closure (strong metaphysical claim) and observational closure (empirical claim physics supports). This weakens the causal closure objection—dualists need only respect observational closure.
+
+## 2026-01-29 11:43 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/analytic-idealism.md`
+- **Context**: Second review (first: 2026-01-20)
+- **Word count**: 2198 → 2299 (+101 words, 92% of soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (dissociation argument, empirical claims, eliminativist acknowledgment)
+- **Enhancements made**: 1 (cross-link to process-philosophy)
+- **Output**: `reviews/deep-review-2026-01-29-analytic-idealism.md`
+- **Notes**: Article approaching stability. Strengthened dissociation response with actual argument. Tightened vague empirical claims. Acknowledged eliminativist position on hard problem. Low issues deferred (indexical questions, Buddhist svabhava precision) as appropriate for article scope.
+
+## 2026-01-29 11:34 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/consciousness-and-intelligence.md`
+- **Context**: Second review (first review earlier today at 21:30 UTC)
+- **Word count**: 2089 → 2127 (+38 words)
+- **Critical issues addressed**: 0 (none found - previous review addressed all)
+- **Medium issues addressed**: 1 (ZLS attribution correction)
+- **Enhancements made**: 1 (citation accuracy improvements)
+- **Output**: `reviews/deep-review-2026-01-29-consciousness-and-intelligence-2.md`
+- **Notes**: Article has reached stability after 2 reviews same day. Attribution corrected: "zone of latent solutions" now properly attributed to Tennie, Call, and Tomasello (2009). Tomasello 2010 citation corrected to include co-author Herrmann.
+
+## 2026-01-29 22:45 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/conscious-vs-unconscious-processing.md`
+- **Context**: Cross-review considering consciousness-and-intelligence.md
+- **Word count**: 3415 → 3424 (+9 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (deferred due to length constraints)
+- **Enhancements made**: 2 (cross-links to consciousness-and-intelligence)
+- **Output**: `reviews/deep-review-2026-01-29-late-conscious-vs-unconscious-processing.md`
+- **Notes**: Article has reached stability after 3 reviews. No critical issues. Attribution accuracy verified. Article at 137% of soft threshold, operating in length-neutral mode.
+
+## 2026-01-29 20:30 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: All non-draft topics (41), concepts (98), tenets (1)
+- **Output**: `reviews/optimistic-2026-01-29-late.md`
+- **Strengths identified**:
+  - Convergent arguments (phenomenological, logical, empirical) toward unified dualist position
+  - Sophisticated engagement with cutting-edge debates (delegatory dualism, continual learning argument)
+  - Integration of quantum biology, contemplative evidence, argument from reason
+  - Strong treatment of hard problem, free will, AI consciousness
+- **Expansion opportunities**:
+  - Consciousness and creativity (high priority)
+  - Causal exclusion problem dedicated treatment (high priority)
+  - Phenomenology of time and quantum collapse (high priority)
+  - Unity of consciousness and neural binding (medium)
+  - Attention and agency integration (medium)
+- **New concept pages suggested**: causal exclusion problem, specious present, quantum measurement problem, self-stultification arguments
+- **Tasks added**: 5 P3 tasks to todo.md
+
+## 2026-01-29 10:21 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/delegatory-dualism.md`
+- **Context**: Outer review task—add verbatim quote callouts for load-bearing definitions
+- **Changes**:
+  - Added Observational Closure quote as blockquote (Saad 2025)
+  - Added Subset Law* quote with "default causal profile" explicit as blockquote
+  - Added Delegatory Law preemption formulation as blockquote
+- **Published**: yes
+
+## 2026-01-29 10:14 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/delegatory-dualism.md`
+- **Context**: Outer review task (ChatGPT 5.2 Pro verified claims)
+- **Changes**:
+  - Restructured into "Part I: Saad's Theory" and "Part II: Map Integration" with clear dividers
+  - Moved quantum interactionism, illusionism/Dennett critique, and MWI discussion to Part II
+  - Added explicit "(Map Commentary)" and "(Map-Specific)" labels to Map sections
+  - Added disclaimer: "These connections are not claims made by Saad"
+  - Preserved prior deep-review fixes (default causal profile, testability, interactionist dualism)
+- **Published**: yes
+
+## 2026-01-29 12:00 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/quantum-biology.md`
+- **Word count**: 3247 → 3284 (+37 words, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (MWI characterization, decoherence timescale acknowledgment, citation precision)
+- **Enhancements made**: 3 targeted fixes
+- **Output**: `reviews/deep-review-2026-01-29-quantum-biology.md`
+- **Notes**: Second review; article has reached stability. No critical issues. Clarified indexical identity issue in MWI discussion, acknowledged remaining timescale gap after decoherence revisions, added Xu et al. attribution.
+
+## 2026-01-29 09:52 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/delegatory-dualism.md`
+- **Context**: Outer review by ChatGPT 5.2 Pro (verified against PMC source)
+- **Changes**:
+  - Fixed Subset Law* to include "default causal profile" qualifier (central to Saad's formulation)
+  - Removed incorrect claim that Saad presupposes collapse-based QM / rejects MWI (Saad doesn't discuss MWI)
+  - Rewrote Testability section to reflect Saad's acknowledgment of "same predictive boat" as alternatives
+  - Changed "substance dualism" → "interactionist dualism" (Saad doesn't commit to substance dualism)
+  - Marked quantum integration as Map-specific speculation throughout
+- **Published**: yes
+
+## 2026-01-29 23:30 UTC - outer-review
+
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.2 Pro (OpenAI)
+- **File**: `reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md`
+- **Article reviewed**: `topics/delegatory-dualism.md`
+- **Claims verified**: 6 (all confirmed against PMC source)
+- **High-value findings**: 7
+- **Tasks generated**: 5 (P1: 3, P2: 2)
+- **Notes**: High-quality external review. Identified real attribution and accuracy issues: (1) Many-Worlds/collapse claims wrongly attributed to Saad, (2) "default causal profile" omitted from Subset Law*, (3) testability overstated, (4) "substance dualism" should be "interactionist dualism", (5) Saad exposition vs Map integration interleaved causing confusion.
+
 ## 2026-01-29 09:24 UTC - deep-review
 
 - **Status**: Success

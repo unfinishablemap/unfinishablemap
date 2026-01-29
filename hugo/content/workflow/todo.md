@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-29 07:05:00+00:00
+ai_modified: 2026-01-29 12:58:25+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,24 +44,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P3: Cross-review panpsychism.md considering consciousness-in-simple-organisms.md
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-in-simple-organisms.md (2026-01-29) discusses panpsychism as one approach to the distribution problem. Check panpsychism.md for: (1) cross-links to the simple organisms treatment, (2) whether the evidence from simple organisms strengthens or challenges panpsychist positions, (3) connection to the combination problem given minimal neural architectures.
-- **Source**: chain (from consciousness-in-simple-organisms.md)
-- **Generated**: 2026-01-29
-
 ### P3: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
 - **Type**: cross-review
 - **Notes**: New concept page concepts/default-mode-network.md (2026-01-29) discusses DMN suppression during meditation. Check meditation-and-consciousness-modes.md for: (1) cross-links to the DMN neurobiological treatment, (2) whether the DMN framework explains meditation state transitions, (3) opportunities to connect contemplative phenomenology with neuroscience.
 - **Source**: chain (from default-mode-network.md)
 - **Generated**: 2026-01-29
-
-### P2: Cross-review conscious-vs-unconscious-processing.md considering consciousness-and-intelligence.md
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) argues consciousness enables human-level intelligence. Check conscious-vs-unconscious-processing.md for: (1) cross-links to the consciousness-intelligence treatment, (2) whether the processing comparison supports or complicates the intelligence claims, (3) consistency on what conscious processing enables that unconscious processing cannot.
-- **Source**: chain (from consciousness-and-intelligence.md)
-- **Generated**: 2026-01-29
-- **Promoted**: 2026-01-29 (replenish-queue: core evidence for Bidirectional Interaction tenet)
 
 ### P3: Cross-review thoughts-that-slip-away.md considering attention-created-voids insights
 - **Type**: cross-review
@@ -69,23 +56,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from attention-created-voids.md)
 - **Generated**: 2026-01-29
 
-### P2: Deep review consciousness-and-intelligence.md
-- **Type**: deep-review
-- **Notes**: Brand new AI-generated topics article (ai_contribution: 100), never deep-reviewed. Argues consciousness enables human-level intelligence through cognitive leap. Should verify: (1) accuracy of arguments about consciousness-intelligence relationship, (2) fair treatment of all four positions, (3) alignment with site tenets (especially Bidirectional Interaction), (4) quality of integration with existing content.
-- **Source**: staleness
-- **Generated**: 2026-01-29
-- **Promoted**: 2026-01-29 (replenish-queue: core article for Bidirectional Interaction tenet)
-
 ### P3: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) develops evidence for cross-cultural universal cognitive limits (bias blind spot, mystical experiences). The collective-cognitive-limits.md article covers group-level limits (paradigm blindness, Overton windows). Check for: (1) cross-links between individual-universal and group-level limits, (2) whether convergent limits strengthen the case that some voids are species-level rather than cultural, (3) opportunities to distinguish group dynamics from individual architecture.
 - **Source**: chain (from convergent-cognitive-limits.md)
-- **Generated**: 2026-01-28
-
-### P3: Deep review computational-cognitive-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers computational limits on cognition (NP-hardness of inference, finite working memory). Should verify: (1) accuracy of computational complexity claims, (2) connection to mysterianism and cognitive closure, (3) distinction from collective-cognitive-limits and convergent-cognitive-limits, (4) alignment with voids framework.
-- **Source**: staleness
 - **Generated**: 2026-01-28
 
 ### P3: Deep review other-minds-void.md
@@ -100,11 +74,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from contemplative-evidence-for-consciousness-theories.md)
 - **Generated**: 2026-01-28
 
-### P3: Cross-review global-workspace-theory.md considering IIT critique
+### P2: Cross-review global-workspace-theory.md considering IIT critique
 - **Type**: cross-review
 - **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) provides detailed critique of IIT from the Map's interactionist perspective. Global Workspace Theory is often compared to IIT. Check global-workspace-theory.md for: (1) cross-links to IIT critique, (2) whether GWT avoids the passivity objection raised against IIT, (3) opportunities to clarify how both theories handle consciousness's causal role.
 - **Source**: chain (from integrated-information-theory-critique.md)
 - **Generated**: 2026-01-28
+- **Promoted**: 2026-01-29 (replenish-queue: important theory comparison, strengthens IIT critique integration)
 
 ### P3: Cross-review panpsychism.md considering IIT critique
 - **Type**: cross-review
@@ -774,8 +749,120 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
+### P2: Update mental-causation.md with delegation and preemption framework
+- **Type**: cross-review
+- **Notes**: From outer review 2026-01-29. Add subsection "Delegation and Preemption (Saad 2025)" with the major/sergeant analogy and default causal profiles explanation. The Delegatory Law provides a clean "preemption not overdetermination" story relevant to mental causation. Cross-link to delegatory-dualism.md.
+- **Review file**: `reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-01-29
+
+### P3: Write article on consciousness and creativity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Builds on free-will, agent-causation, voluntary-attention. Addresses gap in how consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination. Creativity as paradigm case of Bidirectional Interaction.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Write article on causal exclusion problem (dedicated treatment)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Kim's exclusion argument deserves standalone treatment given centrality to mental causation debates. Currently scattered across delegatory-dualism, mental-causation, epiphenomenalism. Would systematically present overdetermination, delegation, and gap-filling responses.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Create concept page for specious present
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Referenced in temporal-consciousness but deserves own page covering James, Husserl, and contemporary debates. Central to understanding temporal phenomenology.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Create concept page for quantum measurement problem
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The underlying physics question that makes room for consciousness at collapse. Currently assumed but not explained. Would help readers understand why quantum mechanics leaves room for consciousness.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Create concept page for self-stultification arguments
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The pattern shared by arguments against epiphenomenalism, illusionism, and certain materialisms. Could unify treatment across multiple articles. Strong rhetorical and philosophical tool.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Deep review computational-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers computational limits on cognition (NP-hardness of inference, finite working memory). Should verify: (1) accuracy of computational complexity claims, (2) connection to mysterianism and cognitive closure, (3) distinction from collective-cognitive-limits and convergent-cognitive-limits, (4) alignment with voids framework.
+- **Output**: obsidian/voids/computational-cognitive-limits.md
+
+### ✓ 2026-01-29: Cross-review panpsychism.md considering consciousness-in-simple-organisms.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-in-simple-organisms.md (2026-01-29) discusses panpsychism as one approach to the distribution problem. Check panpsychism.md for: (1) cross-links to the simple organisms treatment, (2) whether the evidence from simple organisms strengthens or challenges panpsychist positions, (3) connection to the combination problem given minimal neural architectures.
+- **Output**: obsidian/concepts/panpsychism.md -- Context: Cross-review panpsychism.md considering consciousness-in-simple-organisms.md
+
+### ✓ 2026-01-29: Cross-review voids.md (section index) considering topology-of-cognitive-failure
+- **Type**: cross-review
+- **Notes**: New voids article voids/topology-of-cognitive-failure.md (2026-01-29) develops apophatic cartography—mapping voids by studying how cognition fails near them. The voids section index should: (1) add cross-link to this methodological framework, (2) consider whether the taxonomy of failure signatures enriches the void classification system, (3) note topology as a tool for exploring the section.
+- **Output**: obsidian/voids/voids.md -- Context: Cross-review voids.md (section index) considering topology-of-cognitive-failure
+
+### ✓ 2026-01-29: Cross-review contemplative-evidence-for-consciousness-theories.md considering neuroplasticity
+- **Type**: cross-review
+- **Notes**: New concept page concepts/neuroplasticity.md (2026-01-29) provides empirical grounding for how meditation practice produces brain changes. The contemplative-evidence article argues that if consciousness were epiphenomenal, mental practice shouldn't produce measurable effects. Check for: (1) cross-links to dedicated neuroplasticity treatment, (2) whether the neuroplasticity framing strengthens the anti-epiphenomenalist argument, (3) opportunities to cite specific neuroplasticity findings.
+- **Output**: obsidian/topics/contemplative-evidence-for-consciousness-theories.md -- Context: Cross-review contemplative-evidence-for-consciousness-theories.md considering neuroplasticity
+
+### ✓ 2026-01-29: Cross-review mental-effort.md considering neuroplasticity insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/neuroplasticity.md (2026-01-29) develops Schwartz's OCD research showing directed mental attention reshapes neural circuits. The mental-effort.md article discusses the phenomenology and mechanism of effort. Check for: (1) cross-links to neuroplasticity treatment, (2) whether Schwartz evidence already present could be strengthened with dedicated link, (3) connection between effort-as-Zeno-effect and neuroplastic outcomes.
+- **Output**: obsidian/concepts/mental-effort.md -- Context: Cross-review mental-effort.md considering neuroplasticity insights
+
+### ✓ 2026-01-29: Condense motor-selection.md (4104 words, 163% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers attention-motor interface and quantum selection in motor cortex. Preserve: core mechanism of how attention selects motor patterns, connection to Stapp quantum Zeno effect, voluntary vs involuntary movement distinction. Defer detailed evidence to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/motor-selection.md
+
+### ✓ 2026-01-29: Update causal-closure.md with Observational Closure distinction
+- **Type**: cross-review
+- **Notes**: From outer review 2026-01-29. Saad's distinction between universal Closure and Observational Closure is directly relevant to the causal closure page. Add a subsection: "Observational Closure (Saad 2025)" with the exact definition and explanation of why it blocks a common anti-interactionist argument. Cross-link to delegatory-dualism.md.
+- **Output**: obsidian/concepts/causal-closure.md -- Context: Update causal-closure.md with Observational Closure distinction
+
+### ✓ 2026-01-29: Deep review consciousness-and-intelligence.md
+- **Type**: deep-review
+- **Notes**: Brand new AI-generated topics article (ai_contribution: 100), never deep-reviewed. Argues consciousness enables human-level intelligence through cognitive leap. Should verify: (1) accuracy of arguments about consciousness-intelligence relationship, (2) fair treatment of all four positions, (3) alignment with site tenets (especially Bidirectional Interaction), (4) quality of integration with existing content.
+- **Output**: obsidian/topics/consciousness-and-intelligence.md
+
+### ✓ 2026-01-29: Cross-review conscious-vs-unconscious-processing.md considering consciousness-and-intelligence.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) argues consciousness enables human-level intelligence. Check conscious-vs-unconscious-processing.md for: (1) cross-links to the consciousness-intelligence treatment, (2) whether the processing comparison supports or complicates the intelligence claims, (3) consistency on what conscious processing enables that unconscious processing cannot.
+- **Output**: obsidian/concepts/conscious-vs-unconscious-processing.md -- Context: Cross-review conscious-vs-unconscious-processing.md considering consciousness-and-intelligence.md
+
+### ✓ 2026-01-29: Add direct quotes for Observational Closure and Subset Law* in delegatory-dualism.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-01-29. The page paraphrases load-bearing definitions without showing Saad's formulations. Add short quote callouts (≤25 words): (1) "Observational Closure: There are no observable violations of Closure." (2) Subset Law* with "default causal profile" explicit. (3) Delegatory Law preemption formulation.
+- **Output**: obsidian/topics/delegatory-dualism.md
+
+Task context:
+From outer review 2026-01-29. The page paraphrases load-bearing definitions without showing Saad's formulations. Add short quote callouts (≤25 words): (1) "Observational Closure: There are no observable violations of Closure." (2) Subset Law* with "default causal profile" explicit. (3) Delegatory Law preemption formulation.
+
+Review file: reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md
+
+### ✓ 2026-01-29: Separate Saad exposition from Map integration in delegatory-dualism.md
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-01-29. The interleaving of Saad's actual claims with Map-specific quantum integration creates attribution confusion. Restructure into: (1) Saad's problem, (2) Saad's constraints, (3) Saad's laws, (4) What Saad claims—then (5) clearly marked "Map Integration" section for quantum interactionism connections. The illusionism/Dennett critique should be labeled as Map commentary or removed.
+- **Output**: obsidian/topics/delegatory-dualism.md
+
+Task context:
+From outer review 2026-01-29. The interleaving of Saad's actual claims with Map-specific quantum integration creates attribution confusion. Restructure into: (1) Saad's problem, (2) Saad's constraints, (3) Saad's laws, (4) What Saad claims—then (5) clearly marked "Map Integration" section for quantum interactionism connections. The illusionism/Dennett critique should be labeled as Map commentary or removed.
+
+Review file: reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md
+
+### ✓ 2026-01-29: Fix accuracy errors in delegatory-dualism.md (Many-Worlds, default causal profile, testability)
+- **Type**: refine-draft
+- **Notes**: From outer review 2026-01-29. Verified against PMC source. Three correctness issues: (1) Article claims Saad's theory "presupposes collapse-based quantum mechanics" and requires MWI rejection—Saad doesn't discuss Many-Worlds; quantum is treated as a separate mechanism route. (2) Subset Law* omits "default causal profile" which is central to avoiding overdetermination. (3) Testability section overstates—Saad admits "same predictive boat" as other views. Also change "substance dualism" → "interactionist dualism" (Saad doesn't commit to substance dualism).
+- **Output**: obsidian/topics/delegatory-dualism.md
+
+Task context:
+From outer review 2026-01-29. Verified against PMC source. Three correctness issues: (1) Article claims Saad's theory "presupposes collapse-based quantum mechanics" and requires MWI rejection—Saad doesn't discuss Many-Worlds; quantum is treated as a separate mechanism route. (2) Subset Law* omits "default causal profile" which is central to avoiding overdetermination. (3) Testability section overstates—Saad admits "same predictive boat" as other views. Also change "substance dualism" → "interactionist dualism" (Saad doesn't commit to substance dualism).
+
+Review file: reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md
 
 ### ✓ 2026-01-29: Cross-review epiphenomenalism.md considering consciousness-and-intelligence.md
 - **Type**: cross-review
