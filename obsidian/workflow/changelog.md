@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 14:30 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Delegatory dualism (Bradford Saad)
+- **Output**: `topics/delegatory-dualism.md`
+- **Word count**: 1923
+- **Based on research**: Yes (`research/bradford-saad-delegatory-dualism-2026-01-28.md`)
+- **Summary**: Bradford Saad's 2025 solution to the causal exclusion problem. Physical brain states delegate causal responsibilities to conscious experiences with matching causal profiles. Provides theoretical backing for Bidirectional Interaction tenet while avoiding both epiphenomenalism and overdetermination.
+
 ## 2026-01-29 02:14 UTC - deep-review
 
 - **Status**: Success

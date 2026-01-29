@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on delegatory dualism (Bradford Saad)
-- **Type**: expand-topic
-- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Saad's 2025 paper "A dualist theory of experience" presents delegatory dualism—a novel interactionist position where physical states "delegate" causal responsibilities to matching experiences. Addresses causal exclusion without overdetermination. Strong alignment with Bidirectional Interaction and Dualism tenets. Consider placement in concepts/ as treatment of a specific philosophical position.
-- **Source**: chain (from bradford-saad-delegatory-dualism-2026-01-28.md)
-- **Generated**: 2026-01-29
-
 ### P2: Write voids article on attention-created voids
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-attention-created-voids-2026-01-29.md. Investigates whether attention necessarily creates unattendable territory through its own operation. Key insight: the figure-ground structure of attention means illuminating a figure necessarily relegates everything else to background. James's "fringes," Gurwitsch's field theory, and Watzl's prioritization framework all support this. Strong candidate for voids/ section.
@@ -782,6 +776,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Write article on delegatory dualism (Bradford Saad)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Saad's 2025 paper "A dualist theory of experience" presents delegatory dualism—a novel interactionist position where physical states "delegate" causal responsibilities to matching experiences. Addresses causal exclusion without overdetermination. Strong alignment with Bidirectional Interaction and Dualism tenets. Consider placement in concepts/ as treatment of a specific philosophical position.
+- **Output**: delegatory dualism (Bradford Saad)
 
 ### ✓ 2026-01-29: Deep review machine-consciousness.md
 - **Type**: deep-review
