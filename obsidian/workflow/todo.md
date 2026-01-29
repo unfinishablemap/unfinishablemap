@@ -708,6 +708,54 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
+### P3: Write article on contemplative neuroscience integration
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. Integrate the neuroscience of meditation (DMN deactivation, gamma synchrony, neuroplasticity) with phenomenological reports. Strengthens bidirectional interaction case with empirical data. Builds on witness-consciousness.md, meditation-and-consciousness-modes.md, contemplative-evidence-for-consciousness-theories.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Write article on the unity of consciousness (comprehensive treatment)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. Systematic treatment of how unified experience arises from distributed neural processing. Hasker's emergent dualism, quantum binding hypothesis, and the argument from unity. Builds on binding-problem references, phenomenal-unity.md, split-brain-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Write article on Eastern philosophy and haecceity tension
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. Fuller treatment of tension between Buddhist anattā and the Map's haecceitistic identity. Can witness-consciousness be preserved without a witnessing substance? Builds on eastern-philosophy-consciousness.md, buddhism-and-dualism.md, witness-consciousness.md, haecceity.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Write article on moral implications of interactionism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. Ethical implications of the Map's framework: if consciousness is fundamental and causally efficacious, what follows for moral responsibility, criminal justice, animal ethics, AI policy? Builds on moral-responsibility.md, free-will.md, ethics-of-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Create concept page for substance causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. E.J. Lowe's view that all causation is fundamentally agents exercising powers. Currently scattered across agent-causation.md and interactionist-dualism.md; deserves unified treatment.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Create concept page for the self-stultification argument
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. The powerful argument against epiphenomenalism (if consciousness causes nothing, our reports about it are unreliable) appears in multiple articles but deserves standalone treatment.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Create concept page for Process 1 / Process 2 distinction
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. Stapp's distinction between von Neumann's Process 1 (measurement) and Process 2 (unitary evolution) is central to quantum mind framework but not clearly explained anywhere.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Create concept page for phenomenal overflow
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. Block's argument that phenomenology exceeds access—important for access/phenomenal distinction. Currently only referenced, not given dedicated treatment.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
 ## Completed Tasks
 
 
