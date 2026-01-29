@@ -2,9 +2,9 @@
 title: "Analytic Idealism"
 description: "Analytic idealism posits consciousness as fundamental, with matter as its appearance. Kastrup's framework dissolves the hard problem by reversing ontology."
 created: 2026-01-15
-modified: 2026-01-20
+modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-29T11:43:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-20T08:30:00+00:00
+last_deep_review: 2026-01-29T11:43:43+00:00
 ---
 
 Analytic idealism is the view that universal consciousness is the sole ontological primitive—everything else, including what we call "matter," is patterns or appearances within this consciousness. Developed primarily by philosopher Bernardo Kastrup, it represents idealism updated for contemporary analytic philosophy. The Unfinishable Map's framework shares analytic idealism's anti-physicalism but maintains a crucial difference: we accept that physical reality exists distinctly from consciousness and that the two interact bidirectionally.
@@ -50,7 +50,7 @@ Kastrup frames this as taking consciousness seriously as a datum rather than an 
 
 Analytic idealism claims superior parsimony over both [[materialism]] and dualism.
 
-**Against materialism**: Physicalism faces the [[hard-problem-of-consciousness|hard problem]]—explaining why physical processes give rise to experience at all. No amount of neural description tells us *why* there's something it's like to see red. Consciousness doesn't follow from physics; it's an additional, unexplained explanandum.
+**Against materialism**: Physicalism faces the [[hard-problem-of-consciousness|hard problem]]—explaining why physical processes give rise to experience at all. No amount of neural description tells us *why* there's something it's like to see red. Some eliminativists deny there's any problem here—they reject qualia as folk concepts to be outgrown rather than explained. But for those who take phenomenal experience seriously, consciousness doesn't follow from physics; it's an additional, unexplained explanandum.
 
 **Against dualism**: If you accept that consciousness exists fundamentally, why posit a second fundamental substance (matter) that somehow interacts with it? Interactionism raises the interaction problem: how do radically different substances causally connect?
 
@@ -90,7 +90,7 @@ The brain, on this view, is what the dissociation *looks like* from outside. Whe
 
 Kastrup argues this is easier. We have an empirical model—dissociation—for how unity becomes apparent plurality. We have no model for how plurality becomes genuine unity. The combination problem is harder than the dissociation problem.
 
-Critics respond that DID involves a brain already functioning as a unified system; applying dissociation cosmically is a large extrapolation. But Kastrup argues the conceptual structure is sound: one consciousness appearing to itself as many.
+Critics respond that DID involves a brain already functioning as a unified system; applying dissociation cosmically is a large extrapolation. Kastrup's response: the brain doesn't *explain* how dissociation works—it's merely the observable correlate. If dissociation is a coherent psychological phenomenon (one perspective fragmenting into subjectively separate viewpoints), the phenomenon could occur at any scale where consciousness exists. The analogy isn't "brains can do it, so the cosmos can"; it's "division of perspective is conceptually possible, and we have an empirical instance demonstrating it."
 
 ## Relation to the Map's Perspective
 
@@ -168,7 +168,7 @@ Idealism and dualism may seem empirically equivalent—both predict the same bra
 
 **Interface specificity**: Dualism predicts consciousness interfaces with matter at specific sites (brains, through [[quantum-consciousness|quantum mechanisms]]). Idealism, with no genuine physical substrate, must explain why certain "appearances" function as interfaces while others don't. If [[interface-locality]] proves empirically robust—if consciousness really is bounded by embodiment—this supports a genuine physical interface rather than patterns in universal mind.
 
-**Multiple observer scenarios**: The [[multi-mind-collapse-problem]] asks how multiple consciousnesses coordinate. Dualism answers: they don't need to, because each interfaces only with its own brain, while objective physical processes determine shared facts. Idealism must explain intersubjective agreement differently—perhaps as universal consciousness maintaining consistency. Future quantum experiments on observer-dependence might distinguish these mechanisms.
+**Multiple observer scenarios**: The [[multi-mind-collapse-problem]] asks how multiple consciousnesses coordinate. Dualism answers: they don't need to, because each interfaces only with its own brain, while objective physical processes determine shared facts. Idealism must explain intersubjective agreement differently—perhaps as universal consciousness maintaining consistency across its dissociations. A decisive experiment would require scenarios where dualism and idealism make different predictions about intersubjective coordination—difficult to construct, but not obviously impossible.
 
 **Filter theory predictions**: If [[filter-theory]] is correct—if reduced neural activity can *expand* consciousness rather than just diminishing it—this favors interpretations where consciousness exists independently. But filter theory is neutral between dualism (consciousness is distinct from matter) and idealism (matter is appearance within consciousness). The evidence supports consciousness's independence from the brain, not its exclusive ontological status.
 
@@ -187,6 +187,7 @@ Idealism and dualism may seem empirically equivalent—both predict the same bra
 - [[interactionist-dualism]] — How consciousness and matter interact
 - [[combination-problem]] — The challenge panpsychism faces that idealism claims to avoid
 - [[hard-problem-of-consciousness]] — The problem all positions must address
+- [[process-philosophy]] — A different framework for understanding consciousness and nature
 - [[tenets]] — the Map's foundational commitments
 
 ## References
