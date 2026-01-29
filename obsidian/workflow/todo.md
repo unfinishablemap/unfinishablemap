@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from convergent-cognitive-limits.md)
 - **Generated**: 2026-01-28
 
-### P2: Deep review other-minds-void.md
-- **Type**: deep-review
-- **Notes**: PROMOTED. AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the structural impossibility of direct access to other conscious experiences. Should verify: (1) accuracy of epistemological arguments, (2) connection to problem-of-other-minds.md, (3) whether it properly distinguishes the void (structural limit) from mere empirical difficulty, (4) alignment with voids framework. Important: synergizes with new past-self-void article (parallel structure between other minds and past selves).
-- **Source**: staleness
-- **Generated**: 2026-01-28
-
 ### P3: Cross-review meditation-and-consciousness-modes.md considering contemplative evidence
 - **Type**: cross-review
 - **Notes**: New article topics/contemplative-evidence-for-consciousness-theories.md (2026-01-27) develops contemplative phenomenology as evidence for consciousness theories. The meditation-and-consciousness-modes.md article discusses meditation states. Check for: (1) cross-links to the systematic contemplative evidence treatment, (2) consistency between state descriptions, (3) whether the new article's theoretical framing enriches the meditation modes treatment.
@@ -804,6 +798,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Deep review other-minds-void.md
+- **Type**: deep-review
+- **Notes**: PROMOTED. AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the structural impossibility of direct access to other conscious experiences. Should verify: (1) accuracy of epistemological arguments, (2) connection to problem-of-other-minds.md, (3) whether it properly distinguishes the void (structural limit) from mere empirical difficulty, (4) alignment with voids framework. Important: synergizes with new past-self-void article (parallel structure between other minds and past selves).
+- **Output**: obsidian/voids/other-minds-void.md
 
 ### ✓ 2026-01-29: Cross-review thoughts-that-slip-away.md considering attention-created-voids insights
 - **Type**: cross-review

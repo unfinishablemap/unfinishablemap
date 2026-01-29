@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 21:40 UTC - deep-review
+
+- **Status**: Success
+- **File**: `voids/other-minds-void.md`
+- **Word count**: 1942 → 1991 (+49 words, length-neutral mode)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (epistemic/ontological distinction, Hogan twins qualification)
+- **Enhancements made**: 3 (quantum speculation flagged, 2 cross-links added)
+- **Output**: `reviews/deep-review-2026-01-29-other-minds-void.md`
+- **Summary**: First review of this article. No critical issues found—the article is philosophically sound with accurate attributions. Addressed medium issues: (1) clarified that the self/other asymmetry is primarily epistemic, with the ontological question being what the hard problem and tenets address; (2) qualified the Hogan twins claim to distinguish sensory cross-talk from disputed phenomenal sharing; (3) flagged quantum explanation as speculative. Added cross-links to [[mysterianism]] and [[philosophical-zombies]]. Trimmed verbose passages in "Why We Don't Notice" and "When the Void Becomes Visible" to maintain length-neutral operation at 99.5% of soft threshold.
+
 ## 2026-01-29 20:40 UTC - deep-review
 
 - **Status**: Success (stability confirmed)
