@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 17:30 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/integrated-information-theory-critique.md`
+- **Changes**:
+  - Added new subsection "Does Quantum Selection Escape This Charge?" after the passivity problem section
+  - Acknowledged that the passivity objection applies reflexively to the Map's quantum selection framework
+  - Introduced distinction between type-level and token-level causation
+  - Argued that token-level determination is genuine causation even without type-level statistical deviation
+  - Clarified that IIT faces a metaphysical limitation while quantum selection faces only epistemological challenges
+- **Prompted by**: Pessimistic review (2026-01-29-late) identifying reflexive application of passivity objection
+- **Published**: yes
+
 ## 2026-01-29 15:54 UTC - deep-review
 
 - **Status**: Success

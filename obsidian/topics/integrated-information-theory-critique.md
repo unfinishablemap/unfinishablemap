@@ -2,9 +2,9 @@
 title: "Why Integrated Information Theory Falls Short"
 description: "IIT takes consciousness seriously but makes it passive. A critique from the Map's interactionist perspective on identity, causation, and time."
 created: 2026-01-27
-modified: 2026-01-27
+modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-27T21:59:34+00:00
+ai_modified: 2026-01-29T17:30:00+00:00
 draft: false
 last_deep_review: 2026-01-27T21:59:34+00:00
 topics:
@@ -37,6 +37,20 @@ IIT's central claim is an identity thesis: consciousness *is* integrated informa
 If consciousness is identical to certain physical arrangements, then consciousness doesn't *do* anything over and above what physics does. The integrated information just *is* the conscious experience; it doesn't additionally influence subsequent states. Your feeling of choosing is real—it's part of the phi-structure—but the choice itself is determined by the same causal chains that would operate in any purely physical system.
 
 This is [[epiphenomenalism]] by another name. Classical epiphenomenalism says consciousness is caused by but doesn't cause physical events. IIT says consciousness *is* certain physical events. Either way, consciousness doesn't influence what happens next except through its physical constitution—which means physics alone does all the causal work.
+
+### Does Quantum Selection Escape This Charge?
+
+Intellectual honesty requires acknowledging that critics level the same objection against the Map's quantum selection framework. If consciousness operates only at quantum indeterminacies—selecting among outcomes that physics makes equally probable—then what does consciousness *add*? The statistical distribution of outcomes remains unchanged; Born rule predictions hold. In what sense is consciousness doing anything that physics plus quantum chance wouldn't accomplish?
+
+The answer lies in distinguishing **type-level** from **token-level** causation.
+
+At the **type level**, consciousness doesn't change statistical regularities. If you ran my life a thousand times, the statistical distribution of outcomes would match Born rule predictions. No experiment measuring frequencies could detect consciousness's influence. In this sense, the critic is right: consciousness doesn't alter the physics.
+
+At the **token level**, consciousness determines *which particular outcome* actualises in *this* specific instance. The Born rule says the electron has 50% probability of spin-up and 50% spin-down—but something determines which one *actually happens* in this measurement, now, to me. On the Map's view, that's consciousness selecting. On the physics-alone view, it's... what? "Objective chance"? "Brute randomness"? These are labels, not explanations.
+
+Why does token-level determination matter? Because token-level causation is *genuine* causation. The specific pattern of quantum outcomes determines the course of my life, shapes the connections in my brain, produces the particular thoughts I'm having right now. If consciousness is what resolves quantum indeterminacies in my nervous system—even without altering their statistical distribution—then consciousness is genuinely shaping my future. The fact that someone measuring outcome frequencies wouldn't detect this influence doesn't make it causally inert; it makes the causation experimentally invisible at the type level while remaining metaphysically real at the token level.
+
+IIT cannot make this move. If consciousness just *is* the integrated information structure, there's no room for consciousness to determine anything—not at the type level, not at the token level. The structure is what it is; it doesn't select among alternatives because there are no alternatives for it to select among. That's the difference: the Map's quantum selection faces epistemological challenges (how would we detect token-level causation?), while IIT faces a metaphysical limitation (there's nothing for consciousness to causally do).
 
 The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet exists precisely because epiphenomenalism is self-undermining. If consciousness cannot influence neurons, then our discussions *about* consciousness are caused entirely by physical processes with no input from consciousness itself—the [[causal-closure|causal closure of physics]] doing all the work. Why should these discussions be accurate? IIT inherits this problem. Our beliefs about integrated information are themselves just more integrated information—physically constituted states caused by prior physical states. The theory cannot explain why we reliably track phenomenal facts if phenomenal facts have no causal role.
 
@@ -110,3 +124,17 @@ The Map chooses interaction because epiphenomenalism—even the sophisticated ve
 - Albantakis, L., et al. (2023). Integrated information theory (IIT) 4.0. *PLOS Computational Biology*, 19(10), e1011465.
 - Aaronson, S. (2014). Why I am not an integrated information theorist (or, the unconscious expander). *Shtetl-Optimized* (blog post).
 - COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
+
+<!-- AI REFINEMENT LOG - 2026-01-29
+Changes made:
+- Added new subsection "Does Quantum Selection Escape This Charge?" after the passivity problem section
+- Acknowledged that the passivity objection applies reflexively to the Map's quantum selection framework
+- Introduced distinction between type-level and token-level causation
+- Argued that token-level determination is genuine causation even without type-level statistical deviation
+- Clarified that IIT faces a metaphysical limitation while quantum selection faces only epistemological challenges
+
+Prompted by pessimistic review (2026-01-29-late) identifying reflexive application of passivity objection.
+Key improvements: Intellectual honesty about the critique applying to both frameworks; substantive response distinguishing kinds of causation.
+
+This log should be removed after human review.
+-->

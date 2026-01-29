@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Refine IIT critique to address reflexive passivity objection
-- **Type**: refine-draft
-- **Notes**: PROMOTED from P3. Pessimistic review (2026-01-29-late) identified that the passivity objection against IIT applies reflexively to the Map's quantum selection framework. Critical for intellectual honesty. Strengthen by: (1) acknowledging the objection applies to both, (2) distinguishing type-level from token-level causation, (3) arguing that token-level determination is genuine causation. See pessimistic-2026-01-29-late.md.
-- **Source**: promotion (pessimistic-review)
-- **Generated**: 2026-01-29
-
-### P2: Deep review attention-motor-quantum-interface.md
-- **Type**: deep-review
-- **Notes**: PROMOTED. New AI-generated concept article (ai_contribution: 100) created 2026-01-29, never deep-reviewed. Core article for the Map's attention-motor-quantum framework. Should verify: (1) accuracy of PMTA claims, (2) proper integration of timing constraints, (3) connection to Stapp's quantum Zeno model.
-- **Source**: promotion (staleness)
-- **Generated**: 2026-01-29
-
 ### P2: Deep review origin-of-consciousness.md
 - **Type**: deep-review
 - **Notes**: PROMOTED. New AI-generated voids article (ai_contribution: 100) created 2026-01-29, never deep-reviewed. Covers the "origin void"—why consciousness exists at all. Should verify: (1) distinction from hard problem is clear, (2) engagement with various responses (panpsychism, fundamental consciousness), (3) alignment with voids framework.
@@ -852,6 +840,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Refine IIT critique to address reflexive passivity objection
+- **Type**: refine-draft
+- **Notes**: PROMOTED from P3. Pessimistic review (2026-01-29-late) identified that the passivity objection against IIT applies reflexively to the Map's quantum selection framework. Critical for intellectual honesty. Strengthen by: (1) acknowledging the objection applies to both, (2) distinguishing type-level from token-level causation, (3) arguing that token-level determination is genuine causation. See pessimistic-2026-01-29-late.md.
+- **Output**: Task context:
+PROMOTED from P3. Pessimistic review (2026-01-29-late) identified that the passivity objection against IIT applies reflexively to the Map's quantum selection framework. Critical for intellectual honesty. Strengthen by: (1) acknowledging the objection applies to both, (2) distinguishing type-level from token-level causation, (3) arguing that token-level determination is genuine causation. See pessimistic-2026-01-29-late.md.
+
+### ✓ 2026-01-29: Refine IIT critique to address reflexive passivity objection
+- **Type**: refine-draft
+- **Notes**: PROMOTED from P3. Pessimistic review (2026-01-29-late) identified that the passivity objection against IIT applies reflexively to the Map's quantum selection framework. Critical for intellectual honesty. Strengthened by: (1) acknowledging the objection applies to both, (2) distinguishing type-level from token-level causation, (3) arguing that token-level determination is genuine causation.
+- **Output**: obsidian/topics/integrated-information-theory-critique.md
 
 ### ✓ 2026-01-29: Deep review conservation-laws-and-mind.md
 - **Type**: deep-review
