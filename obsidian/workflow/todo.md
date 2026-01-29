@@ -61,13 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from convergent-cognitive-limits.md)
 - **Generated**: 2026-01-28
 
-### P2: Deep review computational-cognitive-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers computational limits on cognition (NP-hardness of inference, finite working memory). Should verify: (1) accuracy of computational complexity claims, (2) connection to mysterianism and cognitive closure, (3) distinction from collective-cognitive-limits and convergent-cognitive-limits, (4) alignment with voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-28
-- **Promoted**: 2026-01-29 (replenish-queue: core voids article needs verification of technical claims)
-
 ### P3: Deep review other-minds-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the structural impossibility of direct access to other conscious experiences. Should verify: (1) accuracy of epistemological arguments, (2) connection to problem-of-other-minds.md, (3) whether it properly distinguishes the void (structural limit) from mere empirical difficulty, (4) alignment with voids framework.
@@ -794,6 +787,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Deep review computational-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers computational limits on cognition (NP-hardness of inference, finite working memory). Should verify: (1) accuracy of computational complexity claims, (2) connection to mysterianism and cognitive closure, (3) distinction from collective-cognitive-limits and convergent-cognitive-limits, (4) alignment with voids framework.
+- **Output**: obsidian/voids/computational-cognitive-limits.md
 
 ### ✓ 2026-01-29: Cross-review panpsychism.md considering consciousness-in-simple-organisms.md
 - **Type**: cross-review

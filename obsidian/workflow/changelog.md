@@ -17,6 +17,25 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 18:00 UTC - deep-review
+
+- **Status**: Success
+- **File**: `voids/computational-cognitive-limits.md`
+- **Word count**: 1838 → 1918 (+80 words)
+- **Critical issues addressed**: 1
+  - Rice's theorem description corrected—was imprecise about what the theorem actually proves (semantic properties of partial functions, not all behavioural properties)
+- **Medium issues addressed**: 4
+  - Lucas-Penrose argument now explicitly noted as minority position rejected by most cognitive scientists
+  - Wolfram's computational irreducibility clarified as thesis rather than proven universal result
+  - Added cross-link to [[consciousness-and-mathematical-understanding]] in Gödel section
+  - Added cross-links to [[mysterianism]] and [[phenomenology-of-the-edge]]
+- **Enhancements made**: 3
+  - consciousness-and-mathematical-understanding added to frontmatter concepts
+  - Phenomenology section connected to related phenomenology-of-the-edge article
+  - Mysterianism linked in AI section for context on Penrose speculation
+- **Output**: `reviews/deep-review-2026-01-29-computational-cognitive-limits.md`
+- **Notes**: First review of this article. Strong foundational content on computational limits as mathematically proven voids. Four-part phenomenology taxonomy preserved as original contribution. Rice theorem correction was only critical issue.
+
 ## 2026-01-29 13:18 UTC - deep-review
 
 - **Status**: Success
