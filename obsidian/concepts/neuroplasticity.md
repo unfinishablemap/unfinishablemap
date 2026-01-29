@@ -4,7 +4,8 @@ description: "The brain's ability to reorganize through experience—and why Sch
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T12:00:00+00:00
+ai_modified: 2026-01-29T18:30:00+00:00
+last_deep_review: 2026-01-29T18:30:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -111,7 +112,7 @@ What connects mental effort to neural change? The [[attention-as-interface|atten
 
 Attention functions as the interface layer between consciousness and neural systems. When consciousness directs attention to specific content, it selects which neural patterns receive reinforcement. Repeated selection produces plasticity. The brain changes because attention repeatedly activates certain circuits rather than others.
 
-[[stapp-quantum-mind|Stapp's quantum Zeno mechanism]] offers a more specific proposal: mental attention operates through rapid "observations" of neural quantum states, holding desired patterns stable against decay. Whether or not this specific mechanism is correct, the general principle stands: attention is the bridge between conscious selection and physical change.
+[[stapp-quantum-mind|Stapp's quantum Zeno mechanism]] offers a more specific—though highly speculative—proposal: mental attention operates through rapid "observations" of neural quantum states, holding desired patterns stable against decay. Most physicists remain sceptical that quantum coherence survives long enough in warm biological tissue for this mechanism to operate. Whether or not this specific proposal proves correct, the general principle stands: attention is the bridge between conscious selection and physical change.
 
 The [[voluntary-attention|willed-instructed distinction]] matters here. Neuroscience reveals that different neural processes engage when you *choose* where to attend versus merely *follow instructions*. Willed attention recruits additional frontal resources and shows distinct neural signatures. If neuroplasticity depends on attention, and willed attention differs neurally from instructed attention, then the *quality* of consciousness—whether one is genuinely deciding or merely implementing—may affect plasticity outcomes.
 
@@ -131,6 +132,8 @@ Neuroplasticity does not definitively prove:
 A thorough materialist can interpret the same data as complex neural self-modification: one brain state causing another through physical mechanisms, with consciousness as correlate rather than cause. The debate cannot be settled by neuroimaging alone.
 
 What neuroplasticity does establish: mental effort has physical consequences. Whatever the ultimate mechanism, something that presents itself phenomenologically as *deciding to redirect attention* correlates with *changes in brain structure*. This is harder to square with epiphenomenalism than with interactionist dualism—the correlation is exactly what interactionism predicts and what epiphenomenalism must explain away.
+
+A fair test: if purely mechanical interventions (drugs, transcranial magnetic stimulation, or surgical lesions) could replicate all the effects of cognitive therapy—including the specific, intentional redirection of thought patterns—the interactionist interpretation would be weakened. The current evidence suggests they cannot fully substitute, but this remains an open empirical question.
 
 ## Relation to Site Perspective
 
@@ -157,6 +160,6 @@ Neuroplasticity provides empirical support for several of The Unfinishable Map's
 
 - Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 - Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
-- Davidson, R.J., & Lutz, A. (2008). Buddha's Brain: Neuroplasticity and Meditation. *IEEE Signal Processing Magazine*, 25(1), 176-174.
+- Davidson, R.J., & Lutz, A. (2008). Buddha's Brain: Neuroplasticity and Meditation. *IEEE Signal Processing Magazine*, 25(1), 176-184.
 - Lazar, S.W., et al. (2005). Meditation experience is associated with increased cortical thickness. *NeuroReport*, 16(17), 1893-1897.
 - Pascual-Leone, A., et al. (2005). The plastic human brain cortex. *Annual Review of Neuroscience*, 28, 377-401.
