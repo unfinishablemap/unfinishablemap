@@ -4,7 +4,8 @@ description: "The brain's self-referential system, active at rest. DMN may const
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T00:00:00+00:00
+ai_modified: 2026-01-29T05:03:58+00:00
+last_deep_review: 2026-01-29T05:03:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +28,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-The default mode network (DMN) is a set of brain regions active when the mind is not engaged in external tasks—during mind-wandering, autobiographical memory, self-referential thinking, and social cognition. Discovered by Marcus Raichle in the early 2000s, the DMN has become central to understanding consciousness, particularly the relationship between brain activity and subjective experience. From The Unfinishable Map's perspective, the DMN may function as part of the brain's [[filter-theory|filtering mechanism]]—constraining consciousness to self-referential narrative and loosening during states that expand phenomenal access.
+The default mode network (DMN) is a set of brain regions active when the mind is not engaged in external tasks—during mind-wandering, autobiographical memory, self-referential thinking, and social cognition. Discovered by Marcus Raichle in the early 2000s, the DMN has become central to understanding consciousness, particularly the relationship between brain activity and subjective experience.
+
+Standard neuroscience interprets DMN activity as *generating* self-referential experience through neural processing. The Unfinishable Map proposes an alternative reading: the DMN may function as part of the brain's [[filter-theory|filtering mechanism]]—constraining consciousness to self-referential narrative and loosening during states that expand phenomenal access. Both interpretations account for the same empirical data; they differ in what they claim about the relationship between neural activity and consciousness itself.
 
 ## Anatomy and Function
 
@@ -80,6 +83,8 @@ The [[filter-theory|filter theory of consciousness]] proposes that the brain con
 
 If the brain filters consciousness rather than generating it, the DMN may filter consciousness specifically into self-referential narrative. The continuous activity of DMN at rest doesn't indicate a "default" in the sense of baseline—it indicates ongoing active filtering that constructs the sense of being a particular self with a particular history.
 
+A physicalist would object: "Different neural processing produces different experience—no 'filter' or 'access' is required. DMN suppression simply changes which computations occur, hence which experiences arise." This objection is coherent. The filter interpretation offers a different reading of the same correlation, not additional evidence against physicalism. What makes the filter view attractive is its coherence with the [[hard-problem-of-consciousness|hard problem]]—even perfect neural mapping leaves unexplained *why* there is something it is like to undergo these processes.
+
 On this reading:
 - **High DMN activity** = consciousness constrained to personal narrative, self-concern, mental time travel
 - **Low DMN activity** = consciousness less constrained, potentially accessing wider phenomenal territory
@@ -95,7 +100,7 @@ Neuroimaging of psychedelic states provides striking support. Psilocybin, LSD, a
 
 If the DMN produced the self, its suppression should eliminate self-experience entirely. Instead, suppression produces *different* self-experience—often described as more expansive, less bounded, more unified with surroundings. This fits filter theory: reduce the filter's constraint, and consciousness expands rather than diminishes.
 
-Carhart-Harris's REBUS model (Relaxed Beliefs Under Psychedelics) explicitly frames this as belief relaxation—the DMN maintains the prior beliefs that constitute the self-model, and psychedelics relax these constraints.
+Carhart-Harris's REBUS model (Relaxed Beliefs Under Psychedelics) frames this as belief relaxation—the DMN maintains the prior beliefs that constitute the self-model, and psychedelics relax these constraints. Carhart-Harris himself interprets REBUS within a physicalist framework, where "relaxed beliefs" means altered neural prediction rather than expanded non-physical awareness. The filter interpretation reads the same evidence differently: reduced constraint, expanded access.
 
 ### Meditation and DMN Suppression
 
