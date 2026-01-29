@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for attention-motor-quantum-interface
-- **Type**: expand-topic
-- **Notes**: This concept is referenced 15 times across the site (motor-selection.md, quantum-consciousness.md, reviews) but has no definition page. Should define: the hypothesized role of attention and motor systems as the interface between consciousness and quantum processes, connection to voluntary attention and motor selection, relationship to Stapp's quantum Zeno mechanism.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-29
-
-### P2: Condense functionalism.md (4250 words, 121% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers functionalism as a philosophy of mind—consciousness as functional organization. Preserve: core multiple realizability argument, connection to consciousness-as-computation debates, engagement with inverted qualia objection. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-29
-
 ### P2: Deep review conservation-laws-and-mind.md
 - **Type**: deep-review
 - **Notes**: AI-generated topics article (ai_contribution: 100), never deep-reviewed. Covers how conservation laws constrain mind-body interaction theories. Critical for the site's interactionism: should verify (1) accuracy of physics claims, (2) engagement with causal closure objection, (3) connection to minimal quantum interaction tenet, (4) whether the energy conservation objection is properly addressed.
@@ -840,6 +828,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Create concept page for attention-motor-quantum-interface
+- **Type**: expand-topic
+- **Notes**: This concept is referenced 15 times across the site (motor-selection.md, quantum-consciousness.md, reviews) but has no definition page. Should define: the hypothesized role of attention and motor systems as the interface between consciousness and quantum processes, connection to voluntary attention and motor selection, relationship to Stapp's quantum Zeno mechanism.
+- **Output**: Create concept page for attention-motor-quantum-interface
 
 ### ✓ 2026-01-29: Cross-review mysterianism.md considering origin-of-consciousness.md
 - **Type**: cross-review

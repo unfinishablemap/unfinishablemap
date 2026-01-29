@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 19:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: attention-motor-quantum-interface
+- **Output**: `concepts/attention-motor-quantum-interface.md`
+- **Word count**: 1493
+- **Based on research**: yes (`research/attention-motor-planning-quantum-interface-2026-01-23.md`, `research/dopamine-attention-motor-quantum-interface-2026-01-24.md`)
+- **Notes**: Created concept page for the unified attention-motor quantum interface hypothesis. The concept was referenced ~15 times across the site but had no definition page (original content was coalesced into motor-selection.md). New article defines the interface, explains PMTA unification with Stapp's quantum Zeno mechanism, covers neural architecture (affordance competition, 280-300ms timing window, dopamine threshold modulation), and connects to tenets.
+
 ## 2026-01-29 20:30 UTC - optimistic-review
 
 - **Status**: Success
