@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Deep review hard-problem-of-consciousness.md
-- **Type**: deep-review
-- **Notes**: Flagship topics article (ai_contribution=100) covering the site's central philosophical challenge. Never deep-reviewed since creation. Should verify: (1) accuracy of Chalmers' formulation and related arguments, (2) fair treatment of physicalist responses (type-B materialism, illusionism), (3) connection to the site's five tenets, (4) integration with related content (explanatory-gap, qualia, knowledge-argument).
-- **Source**: staleness
-- **Generated**: 2026-01-29
-
 ### P1: Deep review free-will.md
 - **Type**: deep-review
 - **Notes**: Flagship topics article (ai_contribution=100) on libertarian free will and consciousness. Never deep-reviewed since creation. Should verify: (1) accuracy of libertarian, compatibilist, and hard determinist positions, (2) engagement with luck objection and manipulation arguments, (3) proper treatment of quantum Zeno mechanism (per pessimistic review, this is currently over-relied upon), (4) alignment with Bidirectional Interaction and No Many Worlds tenets.
@@ -842,6 +836,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Deep review hard-problem-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: Flagship topics article (ai_contribution=100) covering the site's central philosophical challenge. Never deep-reviewed since creation. Should verify: (1) accuracy of Chalmers' formulation and related arguments, (2) fair treatment of physicalist responses (type-B materialism, illusionism), (3) connection to the site's five tenets, (4) integration with related content (explanatory-gap, qualia, knowledge-argument).
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md
 
 ### ✓ 2026-01-29: Cross-review filter-theory.md considering default-mode-network.md
 - **Type**: cross-review
