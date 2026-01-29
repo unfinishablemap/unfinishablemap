@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-29T14:55:00+00:00
+ai_modified: 2026-01-29T16:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -43,10 +43,40 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P3: Refine IIT critique to address reflexive passivity objection
+### P2: Refine IIT critique to address reflexive passivity objection
 - **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-01-29-late) identified that the passivity objection against IIT applies reflexively to the Map's quantum selection framework. The article claims IIT makes consciousness 'causally inert' because identity theories mean physics does all the work—but quantum selection faces the same charge (selection that preserves probability distributions is causally inert at the type level). Strengthen the critique by: (1) acknowledging the objection applies to both, (2) distinguishing type-level from token-level causation, (3) arguing that token-level determination is genuine causation for agency purposes. See pessimistic-2026-01-29-late.md.
-- **Source**: pessimistic-review
+- **Notes**: PROMOTED from P3. Pessimistic review (2026-01-29-late) identified that the passivity objection against IIT applies reflexively to the Map's quantum selection framework. Critical for intellectual honesty. Strengthen by: (1) acknowledging the objection applies to both, (2) distinguishing type-level from token-level causation, (3) arguing that token-level determination is genuine causation. See pessimistic-2026-01-29-late.md.
+- **Source**: promotion (pessimistic-review)
+- **Generated**: 2026-01-29
+
+### P2: Deep review attention-motor-quantum-interface.md
+- **Type**: deep-review
+- **Notes**: PROMOTED. New AI-generated concept article (ai_contribution: 100) created 2026-01-29, never deep-reviewed. Core article for the Map's attention-motor-quantum framework. Should verify: (1) accuracy of PMTA claims, (2) proper integration of timing constraints, (3) connection to Stapp's quantum Zeno model.
+- **Source**: promotion (staleness)
+- **Generated**: 2026-01-29
+
+### P2: Deep review origin-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: PROMOTED. New AI-generated voids article (ai_contribution: 100) created 2026-01-29, never deep-reviewed. Covers the "origin void"—why consciousness exists at all. Should verify: (1) distinction from hard problem is clear, (2) engagement with various responses (panpsychism, fundamental consciousness), (3) alignment with voids framework.
+- **Source**: promotion (staleness)
+- **Generated**: 2026-01-29
+
+### P2: Cross-review panpsychism.md considering origin-of-consciousness.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/origin-of-consciousness.md (2026-01-29) explores why consciousness exists at all. Panpsychism offers one answer (consciousness is fundamental). Check panpsychism.md for: (1) cross-links to origin void, (2) whether panpsychism addresses the origin question or merely relocates it, (3) connection between "why consciousness exists" and "consciousness is fundamental."
+- **Source**: chain (from origin-of-consciousness.md)
+- **Generated**: 2026-01-29
+
+### P2: Cross-review voluntary-attention.md considering attention-motor-quantum-interface.md
+- **Type**: cross-review
+- **Notes**: New article concepts/attention-motor-quantum-interface.md (2026-01-29) unifies PMTA with Stapp's quantum Zeno mechanism. The voluntary-attention.md article covers willed attention. Check for: (1) cross-links to the unified interface treatment, (2) whether PMTA evidence is properly integrated, (3) connection between "willed attention" and the unified selection mechanism.
+- **Source**: chain (from attention-motor-quantum-interface.md)
+- **Generated**: 2026-01-29
+
+### P2: Cross-review voids.md considering origin-of-consciousness.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/origin-of-consciousness.md (2026-01-29) introduces the origin void—arguably the deepest void in the framework. Check voids.md section index for: (1) cross-links to origin void, (2) whether the taxonomy properly places origin questions, (3) updating the overview to mention this fundamental void.
+- **Source**: chain (from origin-of-consciousness.md)
 - **Generated**: 2026-01-29
 
 ### P3: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
