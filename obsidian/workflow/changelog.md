@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 01:05 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Consciousness and intelligence relationship
+- **Output**: `topics/consciousness-and-intelligence.md`
+- **Word count**: 2011
+- **Based on research**: Yes (`research/consciousness-influence-intelligence-2026-01-21.md`)
+- **Notes**: Explores the conceptual relationship between consciousness and intelligence—whether they are independent, mutually requiring, or deeply intertwined. Complements existing `consciousness-as-amplifier.md` (which covers *how* consciousness amplifies) by addressing the broader conceptual question. Covers four positions (independence, intelligence requires consciousness, consciousness requires intelligence, deep interdependence), the great ape evidence, AI implications, and evolutionary arguments.
+
 ## 2026-01-29 00:58 UTC - deep-review
 
 - **Status**: Success

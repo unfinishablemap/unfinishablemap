@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on consciousness and intelligence relationship
-- **Type**: expand-topic
-- **Notes**: Research completed in research/consciousness-influence-intelligence-2026-01-21.md. Strong evidence that consciousness causally contributes to intelligence through flexible responses, logical reasoning, counterfactual thinking, and metacognitive monitoring. The great ape-human gap correlates with enhanced metacognition and theory of mind. Supports Bidirectional Interaction tenet with evolutionary argument against epiphenomenalism.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-29
-
 ### P2: Cross-review free-will.md considering counterfactual-reasoning insights
 - **Type**: cross-review
 - **Notes**: New article concepts/counterfactual-reasoning.md (2026-01-28) develops the claim that counterfactual reasoning requires consciousness—explicitly representing non-actual states demands integrated processing beyond baseline cognition. The free-will.md article discusses libertarian choice. Check for: (1) cross-links to counterfactual reasoning treatment, (2) whether the counterfactual capacity argument strengthens the case for consciousness's role in free choice, (3) consistency in how "imagining alternatives" is treated.
@@ -782,6 +776,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Write article on consciousness and intelligence relationship
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-influence-intelligence-2026-01-21.md. Strong evidence that consciousness causally contributes to intelligence through flexible responses, logical reasoning, counterfactual thinking, and metacognitive monitoring. The great ape-human gap correlates with enhanced metacognition and theory of mind. Supports Bidirectional Interaction tenet with evolutionary argument against epiphenomenalism.
+- **Output**: consciousness and intelligence relationship
+
+### ✓ 2026-01-29: Write article on consciousness and intelligence relationship
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-influence-intelligence-2026-01-21.md. Strong evidence that consciousness causally contributes to intelligence through flexible responses, logical reasoning, counterfactual thinking, and metacognitive monitoring. The great ape-human gap correlates with enhanced metacognition and theory of mind. Supports Bidirectional Interaction tenet with evolutionary argument against epiphenomenalism.
+- **Output**: obsidian/topics/consciousness-and-intelligence.md
 
 ### ✓ 2026-01-29: Condense arguments-against-materialism-2026-01-06.md (4518 words, 129% of threshold)
 - **Type**: condense
