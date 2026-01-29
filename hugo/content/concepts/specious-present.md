@@ -13,7 +13,7 @@ concepts:
 - '[[collapse-and-time]]'
 - '[[quantum-consciousness]]'
 - '[[binding-problem]]'
-- '[[psychophysical-coupling-law]]'
+- '[[psychophysical-coupling]]'
 - '[[illusionism]]'
 - '[[witness-consciousness]]'
 - '[[introspection]]'
@@ -77,7 +77,7 @@ Working memory provides a promising neural correlate. The 100ms-5s "experienced 
 
 Baddeley's episodic buffer—storing integrated multimodal representations "accessed by conscious awareness"—performs binding across modalities and time. The buffer makes bound features available to consciousness without itself performing the binding. What does the binding? If consciousness participates constitutively (as the [binding problem](/concepts/binding-problem/) analysis suggests), WM's episodic buffer may be where this participation is observable.
 
-The ~10 bits/second limit on conscious throughput noted in the Map's [coupling law research](/concepts/psychophysical-coupling-law/) matches both working memory capacity and specious present duration—perhaps reflecting consciousness's interface bandwidth. Recent research distinguishing unconscious WM storage from conscious WM manipulation supports the idea that the specious present involves consciousness actively selecting and binding, not just maintaining information.
+The ~10 bits/second limit on conscious throughput noted in the Map's [coupling law research](/archive/concepts/psychophysical-coupling-law/) matches both working memory capacity and specious present duration—perhaps reflecting consciousness's interface bandwidth. Recent research distinguishing unconscious WM storage from conscious WM manipulation supports the idea that the specious present involves consciousness actively selecting and binding, not just maintaining information.
 
 The specious present may be what working memory *feels like from inside*.
 
@@ -168,7 +168,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet warns parsimony is 
 
 ### Binding and Structure
 - [binding-problem](/concepts/binding-problem/) — Feature binding and consciousness
-- [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) — Bandwidth constraints on consciousness-matter interaction
+- [psychophysical-coupling](/concepts/psychophysical-coupling/) — Bandwidth constraints on consciousness-matter interaction
 - [haecceity](/concepts/haecceity/) — Why *this* present moment is irreducible
 
 ### Challenges

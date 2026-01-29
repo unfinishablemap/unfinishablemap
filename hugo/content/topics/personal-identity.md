@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-28 21:52:03+00:00
+ai_modified: 2026-01-28 22:50:49+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -42,59 +42,23 @@ The Unfinishable Map's framework provides a distinctive answer. The [No Many Wor
 
 ## The Standard Positions
 
-Philosophers debate what makes someone at one time the same person as someone at another time. Three main positions dominate.
+Three main positions dominate the debate about what makes someone at one time the same person as someone at another.
 
-### The Psychological View
+**The Psychological View**: You are your psychology—connected by overlapping chains of memories, intentions, beliefs, and character traits. Locke originated this view; Parfit refined it. The view handles intuitions about brain transplants (you'd follow your brain) but struggles with fission: if your brain splits and both hemispheres continue, both would be psychologically continuous with you. Which is you?
 
-You are your psychology. Person X at time-1 and person Y at time-2 are the same person if X is psychologically continuous with Y—connected by overlapping chains of memories, intentions, beliefs, and character traits. What matters is that later mental states causally depend on earlier ones in the right way.
+**The Biological View**: You are your organism. Eric Olson's "animalism" holds that identity requires biological continuity—you were once a fetus and could persist in a vegetative state. It handles fission differently (neither resulting person is you because the original organism ceased) but conflicts with transplant intuitions.
 
-John Locke originated this view: you are whoever remembers being you. Derek Parfit refined it: what matters isn't strict identity but psychological connectedness and continuity. These come in degrees, so identity (or what matters about it) comes in degrees too.
+**The Narrative View**: You are your story. Marya Schechtman argues identity emerges through self-created life narratives. But this may be too demanding—what about those with fragmented self-narratives?
 
-The psychological view handles our intuitions about many cases. If your brain were transplanted into another body, you'd seem to go with it—because your psychology would. But the view struggles with fission cases: if your brain were split, each hemisphere transplanted into a different body, psychological continuity would branch. Both resulting people would be psychologically continuous with you. Which one is you? Neither? Both?
+Recent phenomenological work distinguishes these from a more basic [minimal self](/concepts/self-and-consciousness/)—a pre-reflective first-person perspective present whenever consciousness is present. The minimal self is the "for-me-ness" of experience that persists even when narrative identity fragments. This suggests personal identity may have layers: a narrative layer that changes dramatically, and a minimal layer—the bare perspectival character of experience—that persists throughout.
 
-### The Biological View
-
-You are your organism. Identity requires biological continuity—the persistence of the same living biological system. On this "animalist" view, you were once an early fetus (before any psychology existed) and could persist in a vegetative state (after psychology ended). What matters is the continuation of your biological life, not your mental states.
-
-Eric Olson champions this view. It handles fission differently: neither resulting person after brain-splitting is you, because the original organism ceased. But it conflicts with intuitions about brain transplants: animalism implies you'd stay with your original body, not follow your brain.
-
-### The Narrative View
-
-You are your story. Identity emerges through self-created life narratives that unite experiences into a coherent biography. What makes experiences yours isn't just psychological continuity but their incorporation into the story you tell about your life.
-
-Marya Schechtman and others develop this approach. It captures something missing from psychological continuity: the active sense of authorship over one's life. But it may be too demanding—are people with fragmented or incoherent self-narratives not fully persons?
-
-### The Minimal Self: A Deeper Layer
-
-Recent phenomenological work by Shaun Gallagher and Dan Zahavi distinguishes the *narrative self* from a more basic [minimal self](/concepts/self-and-consciousness/)—a pre-reflective first-person perspective present whenever consciousness is present.
-
-The minimal self doesn't depend on narrative construction. It is the "for-me-ness" of experience: every conscious state has a built-in first-personal character. You don't need to think "I am experiencing this" for the experience to be yours. This basic experiential structure exists even in infants before narrative capacities develop, and in adults with severe amnesia who cannot construct coherent life stories.
-
-This distinction matters for personal identity. The narrative view may capture what we care about socially—the story we tell about who we are—while missing what persists *through* fragmented narratives: the minimal self. If narrative identity fragments (as in dementia), something may nonetheless persist: *this* first-person perspective, the same subject having the experiences.
-
-The minimal self provides what the narrative self presupposes. One cannot construct a life story without a basic experiential core having the experiences to narrativize. This suggests personal identity may have layers: a narrative layer that changes dramatically over a lifetime, and a minimal layer—the bare perspectival character of experience—that persists throughout.
-
-### Autonoetic Consciousness: The Temporal Self
-
-Endel Tulving's concept of [autonoetic consciousness](/concepts/autonoetic-consciousness/) adds a crucial dimension: the capacity for mental time travel that constitutes the self across time. When you remember your childhood or imagine your future, you don't merely access information—you *re-inhabit* the past and *pre-inhabit* the future as *you*.
-
-This bears directly on personal identity. Autonoetic consciousness involves:
-
-- **Double presence of self**: You are simultaneously here now remembering and there then experiencing. This creates a phenomenal bridge across temporal distance.
-- **Felt pastness as quale**: The sense that a remembered event occurred *in the past* is part of what it is like to remember—not inferred from content but immediately given.
-- **Bidirectional projection**: The same capacity enables remembering the past and imagining the future. Patient KC, with damaged episodic memory, couldn't plan his future either—both directions of mental time travel were lost together.
-
-For personal identity, this means psychological continuity has a phenomenal character that computational accounts miss. Memory isn't data retrieval; it's *re-experiencing*. The continuity that matters for identity isn't just causal connections between mental states—it's the lived phenomenology of being the same subject across time, which autonoetic consciousness provides.
-
-This strengthens the Map's position against [Parfit's reductionism](/concepts/parfit-reductionism/). If what matters in memory is mere information continuity, a perfect upload preserves everything. But if remembering involves *this* subject re-inhabiting *their* past—the same first-person perspective traveling back through time—then information preservation isn't enough. The upload has the data; it lacks the autonoetic presence that makes the memories *mine*.
+[Autonoetic consciousness](/concepts/autonoetic-consciousness/)—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *re-inhabit* the past as *you*. Memory isn't data retrieval; it's re-experiencing. This phenomenal character of psychological continuity matters for the Map's position: if remembering involves *this* subject re-inhabiting *their* past, then information preservation alone isn't enough for identity.
 
 ## Parfit's Challenge
 
-Derek Parfit's work transformed the debate. He argued that personal identity isn't what matters. What matters is psychological connectedness and continuity, regardless of whether these amount to identity.
+Derek Parfit argued that personal identity isn't what matters—psychological connectedness and continuity are, regardless of whether these amount to identity. Imagine teletransportation: your body is scanned, destroyed, and recreated from new matter. The resulting person has all your memories and intentions. Parfit says the question "Is that person you?" may have no determinate answer, and it doesn't matter.
 
-His thought experiments make the point vivid. Imagine teletransportation: your body is scanned, destroyed, and recreated from new matter on Mars. The resulting person has all your memories, beliefs, and intentions. Is that person you? Parfit says: the question may have no determinate answer, and it doesn't matter. What matters—psychological continuity—is preserved.
-
-On [Parfit's "reductionist" view](/concepts/parfit-reductionism/), personal identity consists in nothing over and above bodily and psychological continuity. There's no separate entity—a soul, an ego—that persists; there's just the continued existence of a brain, body, and interrelated mental events. Persons exist, but their existence is not a further fact beyond these components. The dedicated [parfit-reductionism](/concepts/parfit-reductionism/) article develops the Map's critique in detail—arguing that patterns don't make choices (consciousnesses do), that zombie conceivability shows identity involves something beyond continuity, and that causal history through quantum selection gives content to indexical identity.
+On [Parfit's "reductionist" view](/concepts/parfit-reductionism/), personal identity consists in nothing over and above bodily and psychological continuity—no soul, no ego, just brain, body, and interrelated mental events. The dedicated [parfit-reductionism](/concepts/parfit-reductionism/) article develops the Map's critique: patterns don't make choices (consciousnesses do), zombie conceivability shows identity involves something beyond continuity, and causal history gives content to indexical identity.
 
 ## Why the Map Disagrees
 
@@ -168,121 +132,41 @@ The resulting people might have your memories and psychology. They might even be
 
 ### Evidence from Split-Brain Cases
 
-[Split-brain patients](/topics/split-brain-consciousness/) provide empirical evidence bearing on fission scenarios. When the corpus callosum is severed, each hemisphere processes information independently—the classic experiments showed one hemisphere unable to report what the other perceived.
+[Split-brain patients](/topics/split-brain-consciousness/) provide empirical evidence bearing on fission. When the corpus callosum is severed, each hemisphere processes information independently. Yet Thomas Nagel observed these patients have "too much unity to say 'two', yet too much separation to say 'one'."
 
-Yet the philosophical picture that emerged may be too clean. Thomas Nagel argued that split-brain patients have "too much unity to say 'two', yet too much separation to say 'one'." Recent research strengthens this: even minimal corpus callosum fibers can maintain interhemispheric synchronization, and the brain reorganizes, recruiting alternative pathways to resist fragmentation.
-
-**What this suggests for personal identity:**
-
-1. **Unity is resilient.** If consciousness were merely the sum of brain processes, complete disconnection should produce complete division. The persistence of some unity despite massive disconnection suggests consciousness has intrinsic unity that physical disconnection cannot fully sever.
-
-2. **The question may be malformed.** "How many persons does a split-brain patient comprise?" assumes persons come in discrete whole numbers. If consciousness can be partially divided while remaining somehow one, our concept of individual identity may be inadequate to capture what's actually there.
-
-3. **Support for non-physical persistence.** Elizabeth Schechter proposes split-brain patients have "two minds in one person"—duality at one level (perception, reasoning) with unity at another (self-identification, agency). This layered picture fits better with the Map's view that consciousness is something over and above physical structure. The non-physical aspect of mind may maintain unity even when physical connections are severed—explaining why response unity persists despite perceptual division.
-
-4. **Indexical identity persists.** Despite perceptual fragmentation, split-brain patients maintain first-person unity: they think of themselves as "one of us," not two beings sharing a body. This suggests indexical identity—the irreducible fact of being *this* conscious being—is more fundamental than the computational binding that physical connections enable.
-
-The split-brain cases neither prove nor refute the Map's view of personal identity. But they complicate simple accounts and lend support to the claim that consciousness is something beyond what neural structure alone can explain.
+This supports the Map's view: if consciousness were merely the sum of brain processes, complete disconnection should produce complete division. The persistence of some unity despite massive disconnection suggests consciousness has intrinsic unity that physical disconnection cannot fully sever. Despite perceptual fragmentation, split-brain patients maintain first-person unity—they think of themselves as one person, not two beings sharing a body. This suggests indexical identity is more fundamental than the computational binding that physical connections enable.
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) like Dennett and Frankish argue that phenomenal consciousness is itself an illusion—the brain represents itself as having qualitative states it doesn't actually possess. If there is no phenomenal consciousness in the robust sense, what exactly persists through time? The "conscious perspective" that grounds personal identity might be a useful fiction rather than an ontological primitive.
+[Illusionists](/concepts/illusionism/) argue that phenomenal consciousness is itself an illusion—the brain represents itself as having qualitative states it doesn't actually possess. If so, what exactly persists through time?
 
-### The Regress Response
+The illusionist position faces a fundamental problem: for something to *seem* a certain way, there must be a subject to whom it seems that way. Even if my sense of being a continuous self is a cognitive construction, *something* is having that sense. The illusionist cannot escape the indexical question by dissolving consciousness—the dissolution must happen *somewhere*, to *someone*.
 
-The illusionist position faces a fundamental problem when applied to personal identity. For something to *seem* a certain way, there must be a subject to whom it seems that way—and this seeming is itself phenomenal. Raymond Tallis (2016) argues that the illusion of consciousness requires consciousness to be an illusion *for*. Even if the content of personal identity were illusory, the subject experiencing that illusion must exist.
+The illusionist arguing against personal identity must assume their own identity throughout the argument. *This* illusionist expects *you* to follow *their* reasoning. The very act of philosophical argument presupposes the indexical facts it purports to deny.
 
-Applied to personal identity: even if my sense of being a continuous self is a cognitive construction, *something* is having that sense. The question "Which subject is experiencing this construction?" remains meaningful. The illusionist cannot escape the indexical question by dissolving consciousness itself—because the dissolution must happen *somewhere*, to *someone*.
-
-### Dennett's Heterophenomenology
-
-Dennett proposes treating first-person reports as data about "how things seem" without committing to phenomenal properties. On this view, the question "Am I the same person over time?" would be replaced by "Does this organism produce reports of continuous identity?"
-
-But this replacement doesn't dissolve the problem. Multiple organisms might produce identical reports—clones, teleporter copies, even convergent AI systems. The question "Which of these reporting systems is *me*?" survives the heterophenomenological reduction. Dennett's move from phenomenology to verbal behavior leaves the indexical problem untouched. I know which reports are mine not because I've verified their source, but because I am the subject producing them.
-
-### The Performative Contradiction
-
-The illusionist arguing against personal identity must assume their own identity throughout the argument. *This* illusionist, persisting through *this* argument, expects *you* to follow *their* reasoning to *your* conclusion. If there were no fact about which subject is arguing and which is reading, the dialectical situation would be incoherent.
-
-This suggests illusionism is self-undermining when applied to personal identity. The very act of philosophical argument presupposes the indexical facts it purports to deny.
-
-### Error Theory for Haecceity
-
-Could our sense of haecceity be a cognitive illusion—not phenomenal consciousness itself, but the sense that *this* consciousness is irreplaceable? Perhaps evolution wired us to resist being destroyed, and the intuition that replicas wouldn't be "us" is merely a side-effect of this survival instinct, not evidence of metaphysical truth.
-
-Three considerations tell against this error theory:
-
-**The regress reasserts itself.** The error theory proposes that our haecceity intuitions are illusions generated by cognitive processes. But *whose* cognitive processes? The theory requires a subject whose intuitions are being explained—and this subject has the very particularity the error theory denies. The explanation presupposes what it attempts to explain away.
-
-**The intuition is too precise.** Survival instinct would predict aversion to *all* death-like scenarios. But the haecceity intuition discriminates: we resist teletransportation (which creates a replica) differently from how we resist ordinary death. If the intuition were merely survival-driven, this discrimination would be mysterious. The intuition tracks something specific—the continuity of *this* subject—not mere organismal survival.
-
-**Other self-related intuitions are revisable.** We've revised many intuitions about selfhood: that the self is unitary (split-brain cases challenge this), that memory is reliable (it isn't), that our preferences are stable (they aren't). Yet the haecceity intuition—that replicas aren't really us—persists through reflection. This resilience suggests it tracks something real rather than reflecting eliminable cognitive bias.
-
-The error theory remains possible. But it faces explanatory burdens that anti-haecceitists often underestimate.
+Could the sense of haecceity specifically be a cognitive illusion—perhaps evolution wired us to resist destruction, and the intuition that replicas wouldn't be "us" is merely a survival instinct side-effect? Three considerations tell against this: (1) the error theory requires a subject whose intuitions are being explained, presupposing the particularity it denies; (2) the haecceity intuition discriminates between teletransportation and ordinary death in ways mere survival instinct wouldn't predict; (3) unlike other self-related intuitions we've revised (that memory is reliable, that preferences are stable), the haecceity intuition persists through reflection, suggesting it tracks something real.
 
 ## The Decoherence Challenge
 
-The Map's framework connects personal identity to quantum selection—*this* consciousness making *these* selections at quantum indeterminacies. But [decoherence](/concepts/decoherence/) poses a challenge: quantum coherence in warm biological systems supposedly decays in femtoseconds, far too fast for neural processes.
+The Map's framework connects personal identity to quantum selection—*this* consciousness making *these* selections. But [decoherence](/concepts/decoherence/) poses a challenge: quantum coherence in warm biological systems supposedly decays in femtoseconds.
 
-### Why Decoherence Doesn't Dissolve Identity
-
-Three considerations mitigate this objection:
-
-**Revised timescales**: The Tegmark-Hameroff debate shows initial decoherence calculations may be off by orders of magnitude. Evidence from microtubule coherence, tryptophan superradiance, and cryptochrome magnetoreception suggests biology may maintain quantum effects longer than expected.
-
-**Measurement problem remains**: Decoherence selects preferred bases but doesn't explain why we see definite outcomes—the problem of outcomes remains open. If consciousness plays a role at measurement—after decoherence has established bases—the personal identity question remains: *which* consciousness is making the selections?
-
-**Temporal structure**: The [quantum Zeno mechanism](/concepts/attention-as-interface/) suggests consciousness operates through rapid repeated observation, not sustained coherence. The relevant timescale isn't how long coherence persists, but how quickly attention can bias probabilities through repeated measurement-like interactions.
+Three considerations mitigate this: the Tegmark-Hameroff debate shows initial decoherence calculations may be off by orders of magnitude; decoherence doesn't explain why we see definite outcomes, so consciousness may play a role at measurement; and the [quantum Zeno mechanism](/concepts/attention-as-interface/) suggests consciousness operates through rapid repeated observation, not sustained coherence.
 
 Even if the quantum mechanism proves untenable, the conceptual point stands: personal identity involves *this* subject having experiences and making choices. Whether the mechanism is quantum or involves some other non-physical interface, the indexical fact remains.
-
-## Process Philosophy Perspective
-
-Alfred North Whitehead's process philosophy offers a complementary framing. For Whitehead, reality consists of "actual occasions"—momentary experiential events that arise, prehend (grasp) their predecessors, and perish. Each actual occasion has what Whitehead called a "subjective form"—the particular way it experiences its data.
-
-This framework illuminates personal identity in several ways:
-
-**Temporal haecceity**: Each moment of experience is *this* moment, unrepeatable and particular. Two actual occasions might prehend identical data yet differ in subjective form. Personal identity involves the continuity of prehension—each new moment grasping the previous as *its own* past.
-
-**Concrescence requires definiteness**: For Whitehead, actual occasions achieve definite reality through "concrescence"—the process of becoming concrete. This maps onto the Map's rejection of many-worlds: becoming actual requires one outcome, not all possibilities persisting. Personal identity presupposes this definiteness.
-
-**Identity as creative advance**: The self isn't a substance underlying change but a creative advance into novelty—each moment inheriting from its predecessors while contributing something genuinely new. This preserves what matters about narrative identity (creativity, authorship) while grounding it in something more fundamental (the haecceity of experiential process).
-
-The [haecceity article](/concepts/haecceity/) develops these connections further, showing how Whitehead's actual occasions provide metaphysical grounding for the Map's emphasis on indexical identity.
-
-## The Buddhist Perspective
-
-[Buddhist philosophy](/concepts/buddhism-and-dualism/) challenges the substantialist picture of personal identity. The doctrine of *anatta* (non-self) denies any permanent, unchanging self underlying experience. Nāgārjuna's Madhyamaka argues that the self is *śūnyatā* (empty)—lacking inherent existence.
-
-How does the Map's framework relate to this ancient challenge?
-
-**Refined haecceitism**: The Buddhist analysis may be compatible with a process-based haecceity. The self can be empty of *qualitative* essence while still being *this* particular experiential process. Buddhist philosophy doesn't deny that *this* person experiences *this* moment—it denies that there's a permanent substance underlying the experience. But haecceity doesn't require permanence; it requires particularity. *This* stream of consciousness, however impermanent and constructed, is distinguishable from *that* stream.
-
-**Contemplative evidence**: Experienced meditators report the sense of being a fixed self dissolving, revealing consciousness without a center. If contemplative practice reveals the self to be constructed, what grounds indexical identity?
-
-**The witness response**: Even when the *narrative* self dissolves, something remains—the [witness](/concepts/witness-consciousness/), the bare awareness observing even the dissolution of self-concepts. This witness has haecceity: *this* awareness witnessing *this* dissolution. The Buddhist insight about the constructed nature of narrative self doesn't eliminate the minimal self's particularity.
 
 ## Implications for Survival
 
 What does survival require? As discussed in [death-and-consciousness](/topics/death-and-consciousness/), the Map's framework makes survival after bodily death a coherent possibility—but only if indexical identity is preserved. Resurrection through mere recreation would yield a duplicate, not you.
 
-**Teletransportation**: You die. The replica may be psychologically identical but lacks your consciousness. Even if the replica is conscious, it's a new consciousness with your memories, not yours continued.
+**Teletransportation**: You die. The replica may be psychologically identical but lacks your consciousness—a new consciousness with your memories, not yours continued.
 
-**Gradual replacement**: If your neurons were replaced gradually with silicon, one at a time, you might survive—if the replacement preserved consciousness, and it's the same consciousness, not a new one taking over. The question turns on whether consciousness can "transfer" substrates.
+**Gradual replacement**: You might survive neuron-by-neuron replacement with silicon—if the replacement preserved consciousness and it's the same consciousness, not a new one taking over.
 
-**Cryonics**: If you were frozen and revived, you'd survive only if the revived person had your consciousness, not merely your psychology. Whether this is possible depends on whether consciousness is preserved by physical preservation.
+**Uploading**: Your mind "uploaded" to a computer would not be you, even if functionally perfect. Functional identity isn't consciousness identity.
 
-**Uploading**: Your mind "uploaded" to a computer would not be you, even if the upload were functionally perfect. Functional identity isn't consciousness identity.
+**Bodily death**: If consciousness is irreducible and the brain is interface rather than generator, brain death might alter how consciousness manifests without ending *this* particular consciousness. The [death-and-consciousness](/topics/death-and-consciousness/) article explores how dualism keeps this question open where materialism forecloses it.
 
-**Bodily death**: If consciousness is irreducible and the brain is interface rather than generator (as Ducasse's radio analogy suggests), brain death might alter how consciousness manifests without ending *this* particular consciousness. The [death-and-consciousness](/topics/death-and-consciousness/) article explores how dualism keeps this question genuinely open where materialism forecloses it.
-
-These conclusions follow from taking consciousness seriously as non-reducible and indexical identity as a real fact.
-
-### The Quantum Persistence Question
-
-Hameroff's "quantum soul" hypothesis raises a specific challenge for indexical identity: if consciousness-as-quantum-information disperses into the universe at death, is the dispersed information still *you*? the Map's framework suggests caution here. Quantum information conservation doesn't obviously preserve the unified, indexical character of conscious experience. A wave function spread across spacetime wouldn't be *this* perspective having experiences—it might be mere information without a subject.
-
-This illustrates the constraint indexical identity places on survival theories: what persists must be *this* consciousness, the particular perspective that constitutes you. Near-death experiences are intriguing precisely because they suggest consciousness might maintain unified subjectivity even when its neural substrate is severely compromised.
+These conclusions follow from taking consciousness seriously as non-reducible and indexical identity as real.
 
 ## The Meaning Connection
 
@@ -296,19 +180,9 @@ This grounds a stronger sense of individual meaning. You're not just a pattern t
 
 ## What Would Challenge This View?
 
-The Map's account of personal identity would be challenged by:
+The Map's account would be challenged by: (1) a successful illusionist explanation of why we *seem* to be particular subjects without positing actual particularity; (2) a decision-theoretic vindication of many-worlds that derives the Born rule without presupposing indexical identity; (3) teleportation experiments where replicas report absolutely no experiential discontinuity; (4) contemplative reports of the complete absence of witnessing awareness (current reports suggest the opposite—witness-consciousness persists through self-dissolution); (5) a complete neural explanation of unified experience that also accounts for split-brain unity.
 
-1. **Successful illusionist reduction**: If neuroscience could fully explain why we *seem* to be particular subjects persisting through time—why the illusion is so compelling—without positing actual particularity, the view's phenomenological foundation would be undermined. Attention Schema Theory attempts this but faces the regress problem.
-
-2. **Decision-theoretic vindication of MWI**: If Wallace, Greaves, or others could derive the Born rule from rational constraints that genuinely don't presuppose indexical identity—showing that self-locating uncertainty is coherent even when all branches are equally real—the anti-MWI argument from personal identity would weaken.
-
-3. **Teleportation with subjective continuity**: If someone were teleported, the original destroyed, and the replica reported absolutely no experiential discontinuity—no gap, no sense of newness—this would support anti-haecceitism. Though such reports couldn't definitively settle whether the original subject survived or a new one emerged with false memories.
-
-4. **Contemplative dissolution of witness**: If advanced meditators consistently reported not just the dissolution of the narrative self, but the complete absence of any witnessing awareness—no haecceitistic remainder at all—this would challenge the claim that [introspection](/concepts/introspection/) reveals irreducible particularity. Current contemplative reports suggest the opposite: witness-consciousness persists through self-dissolution.
-
-5. **Complete neural explanation of unity**: If neuroscience explained how the brain generates unified experience without positing anything non-physical, and this explanation also accounted for why split-brain patients maintain some unity despite disconnection, the empirical support for non-physical persistence would diminish.
-
-These challenges remain unmet, but articulating them clarifies what the view claims and what evidence would count against it.
+These challenges remain unmet, but articulating them clarifies what evidence would count against the view.
 
 ## Relation to Site Perspective
 
@@ -326,20 +200,16 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 
 ## Further Reading
 
-- [parfit-reductionism](/concepts/parfit-reductionism/) — the Map's detailed critique of Parfit's view
+- [parfit-reductionism](/concepts/parfit-reductionism/) — The Map's detailed critique of Parfit's view
 - [many-worlds](/arguments/many-worlds/) — Why the Map rejects many-worlds (the indexical problem is central)
-- [haecceity](/concepts/haecceity/) — Primitive thisness and why qualitative identity isn't enough
+- [haecceity](/concepts/haecceity/) — Primitive thisness, Whitehead's process philosophy, and why qualitative identity isn't enough
 - [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self and phenomenology of selfhood
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporal self
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Empirical evidence on consciousness unity and division
 - [death-and-consciousness](/topics/death-and-consciousness/) — What survival after death would require
-- [meaning-of-life](/topics/meaning-of-life/) — Why personal existence matters
-- [free-will](/topics/free-will/) — How consciousness shapes choices
+- [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on self; the *anatta* doctrine and the witness response
 - [illusionism](/concepts/illusionism/) — The challenge that consciousness itself is illusory
-- [introspection](/concepts/introspection/) — First-person access and its reliability
 - [decoherence](/concepts/decoherence/) — The quantum coherence objection and responses
-- [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on self and consciousness
-- [witness-consciousness](/concepts/witness-consciousness/) — The bare awareness underlying experience
 - [tenets](/tenets/) — The framework grounding this view
 
 ## References

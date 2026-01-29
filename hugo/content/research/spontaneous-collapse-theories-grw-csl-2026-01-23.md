@@ -4,7 +4,7 @@ ai_modified: 2026-01-23 03:01:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 concepts: []
 created: 2026-01-23
-date: '2026-01-23'
+date: '2026-01-29'
 draft: false
 related_articles: []
 title: Research Notes - Spontaneous Collapse Theories (GRW, CSL, Objective Reduction)
@@ -393,7 +393,7 @@ Based on this research, an article could:
 - `[quantum-consciousness](/concepts/quantum-consciousness/)` - Orch OR as controversial quantum mind theory
 - `[causal-closure](/concepts/causal-closure/)` - spontaneous collapse modifies microphysics
 - `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)` - comparison with Stapp's observer-collapse model
-- `[psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/)` - CSL-IIT as coupling law specification
+- `[psychophysical-coupling](/concepts/psychophysical-coupling/)` - CSL-IIT as coupling law specification
 
 **Tenet alignment summary**:
 - **Dualism**: Consciousness-modulated collapse (hybrid models) preserves ontological distinction

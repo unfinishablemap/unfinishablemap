@@ -177,7 +177,7 @@ A 2024 *Brain* study connects dopamine directly to this oscillatory substrate. B
 
 This creates a coherent picture: dopamine promotes the theta state that may provide the timing substrate for quantum selection events. The frontal theta signature observed in both willed attention (Bengson 2019) and motor preparation may be dopamine-facilitated, linking the neurotransmitter system to the quantum mechanism. If theta cycles provide windows for selection, and dopamine is required to enter theta, then dopamine gates access to the quantum interface without itself performing selection.
 
-Additionally, the [post-decoherence selection response](/concepts/psychophysical-coupling-mechanisms/) applies: consciousness might bias outcome selection *after* decoherence, at the moment of measurement collapse. Decoherence determines which basis collapses into; consciousness could still influence which outcome within that basis becomes actual.
+Additionally, the [post-decoherence selection response](/archive/concepts/psychophysical-coupling-mechanisms/) applies: consciousness might bias outcome selection *after* decoherence, at the moment of measurement collapse. Decoherence determines which basis collapses into; consciousness could still influence which outcome within that basis becomes actual.
 
 ## Empirical Predictions
 
@@ -274,7 +274,7 @@ This framework identifies *where* consciousness might influence motor selection�
 - [motor-selection](/concepts/motor-selection/) — Motor selection as a domain for quantum Zeno effects
 - [voluntary-attention](/concepts/voluntary-attention/) — Neural signatures of willed attention
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis foundation
-- [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) — Comparative analysis of coupling mechanisms
+- [psychophysical-coupling](/concepts/psychophysical-coupling/) — Comparative analysis of coupling mechanisms
 - [mental-effort](/concepts/mental-effort/) — Phenomenology of effort in both domains
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The common experiential structure
 - [free-will](/topics/free-will/) — The broader topic this supports

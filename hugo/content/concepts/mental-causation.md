@@ -5,7 +5,7 @@ ai_modified: 2026-01-26 22:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[psychophysical-coupling-mechanisms]]'
+- '[[psychophysical-coupling]]'
 - '[[psychophysical-laws-framework]]'
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
@@ -135,7 +135,7 @@ Even granting that quantum indeterminacy provides an opening for mental causatio
 
 The [psychophysical-laws-framework](/topics/psychophysical-laws-framework/) provides the conceptual structure for addressing this challenge. Chalmers distinguished *supervenience laws* (which physical states produce which experiences) from what the Map calls *selection laws* (which mental states influence which physical outcomes). Mental causation requires selection laws—not merely supervenience laws running upward from physics to phenomenology, but laws specifying how consciousness participates in determining physical outcomes.
 
-The [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) article surveys five candidate mechanisms:
+The [psychophysical-coupling](/concepts/psychophysical-coupling/) article surveys five candidate mechanisms:
 
 1. **Attention → observation rate** (Stapp): Sustained attention increases quantum measurement frequency, "freezing" neural patterns via the quantum Zeno effect. The most developed proposal with testable predictions.
 
@@ -243,7 +243,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 ## Further Reading
 
 - [psychophysical-laws-framework](/topics/psychophysical-laws-framework/) — Integrated overview of the framework requiring selection laws for mental causation
-- [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) — Five candidate mechanisms specifying how mental causation might work at the neural interface
+- [psychophysical-coupling](/concepts/psychophysical-coupling/) — Five candidate mechanisms specifying how mental causation might work at the neural interface
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's foundational commitment to consciousness causally influencing the physical world
 - [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness exists
 - [many-worlds](/arguments/many-worlds/) — Why the Map rejects MWI (and why it matters for mental causation)

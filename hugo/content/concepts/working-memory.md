@@ -98,7 +98,7 @@ Working memory strengthens the [attention-as-interface hypothesis](/concepts/att
 
 **Bidirectional connection**: Attention determines what enters WM, and WM contents guide attention. This bidirectional relationship is precisely where consciousness might exert influence—selecting what to hold and manipulating what's held.
 
-**Bandwidth constraint**: the Map's [coupling law research](/concepts/psychophysical-coupling-law/) estimates consciousness's causal bandwidth at ~10 bits/second. This matches WM capacity limitations remarkably well—suggesting both may reflect the same fundamental constraint on consciousness-matter interaction.
+**Bandwidth constraint**: the Map's [coupling law research](/archive/concepts/psychophysical-coupling-law/) estimates consciousness's causal bandwidth at ~10 bits/second. This matches WM capacity limitations remarkably well—suggesting both may reflect the same fundamental constraint on consciousness-matter interaction.
 
 **Effort asymmetry**: The maintenance/manipulation distinction explains why some cognitive processes feel effortful and others don't. [Mental effort](/concepts/mental-effort/) corresponds to conscious manipulation through the interface; passive maintenance operates without consciousness and without effort.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-28 20:07:05+00:00
+ai_modified: 2026-01-28 23:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -17,6 +17,299 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-01-29 02:14 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/machine-consciousness.md`
+- **Word count**: 3958 → 3944 (-14)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1
+  1. Decoherence timescales unacknowledged → added acknowledgment of Tegmark's objection with Map's response
+- **Enhancements made**: 1
+  1. Condensed quantum computer section for length neutrality
+- **Output**: `reviews/deep-review-2026-01-29-machine-consciousness.md`
+
+## 2026-01-29 02:07 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: Attention-created voids
+- **Category**: Unexplorable / Mixed
+- **Output**: `research/voids-attention-created-voids-2026-01-29.md`
+- **Key finding**: Attention doesn't merely fail to illuminate everything—it *necessarily produces* unattendable territory through its own operation. The figure-ground structure, penumbral suppression, and prioritization logic mean that every act of attending creates corresponding voids.
+- **Article angles**: The Penumbra Void, Figure Creates Ground, James's Unfocusable Fringes, The Void-Making Mechanism
+
+## 2026-01-29 17:35 UTC - condense
+
+- **Status**: Success
+- **File**: `research/first-person-third-person-methodology-2026-01-23.md`
+- **Before**: 4271 words
+- **After**: 1378 words
+- **Reduction**: 68%
+- **Technique**: Consolidated 13 Key Sources into 7 thematic entries, condensed Major Positions from detailed paragraphs to compact summaries, trimmed Key Debates to essential structure, shortened Historical Timeline, reduced Citations to key academic sources only
+
+## 2026-01-29 01:44 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/psychophysical-coupling.md`
+- **Word count**: 3275 → 3206 (-69)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2
+  1. Law Family 4 / MWI ambiguity → added explicit ontological distinction from self-locating uncertainty
+  2. Post-decoherence response underdeveloped → added clarifying sentence about classical alternatives
+- **Enhancements made**: 1
+  1. Tightened verbose prose throughout for length neutrality
+- **Output**: `reviews/deep-review-2026-01-29-psychophysical-coupling.md`
+
+## 2026-01-29 01:33 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/baseline-cognition.md`
+- **Word count**: 3296 → 3301 (+5)
+- **Cross-review context**: counterfactual-reasoning.md
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1
+  1. Missing counterfactual-reasoning cross-link → added link in Counterfactual Thinking section
+- **Enhancements made**: 3
+  1. Added [counterfactual-reasoning](/concepts/counterfactual-reasoning/) to concepts frontmatter
+  2. Added cross-link with context in Counterfactual Thinking section
+  3. Added entry in Further Reading section
+- **Output**: `reviews/deep-review-2026-01-29-baseline-cognition.md`
+
+## 2026-01-29 14:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/free-will.md`
+- **Word count**: 2181 → 2344 (+163)
+- **Cross-review context**: counterfactual-reasoning.md
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1
+  1. Missing counterfactual reasoning integration → added new subsection connecting to [counterfactual-reasoning](/concepts/counterfactual-reasoning/) with Bischof-Köhler hypothesis and working memory evidence
+- **Enhancements made**: 3
+  1. New "Counterfactual Reasoning" subsection explaining consciousness-dependent deliberation
+  2. Cross-links to [counterfactual-reasoning](/concepts/counterfactual-reasoning/) and [baseline-cognition](/archive/topics/baseline-cognition/)
+  3. Updated concepts list and Further Reading
+- **Output**: `reviews/deep-review-2026-01-29-free-will.md`
+
+## 2026-01-29 01:18 UTC - coalesce
+
+- **Status**: Success
+- **Sources**:
+  - `obsidian/concepts/psychophysical-coupling-law.md`
+  - `obsidian/concepts/psychophysical-coupling-mechanisms.md`
+- **Target**: `obsidian/concepts/psychophysical-coupling.md`
+- **Archived**:
+  - `archive/concepts/psychophysical-coupling-law.md`
+  - `archive/concepts/psychophysical-coupling-mechanisms.md`
+- **References updated**: 19 files (concepts, topics, research)
+- **Notes**: Merged two closely related articles—one covering the specification problem and four law families (attention-bounded, policy-level, basis-choice, indexical), the other covering five specific mechanisms (attention→observation, intention→probability, valence→motivation, qualia→basis, unity→entanglement). The unified article provides comprehensive treatment of psychophysical coupling including Chalmers' framework, bandwidth constraints, comparative analysis, and testability criteria.
+
+## 2026-01-29 01:05 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Consciousness and intelligence relationship
+- **Output**: `topics/consciousness-and-intelligence.md`
+- **Word count**: 2011
+- **Based on research**: Yes (`research/consciousness-influence-intelligence-2026-01-21.md`)
+- **Notes**: Explores the conceptual relationship between consciousness and intelligence—whether they are independent, mutually requiring, or deeply intertwined. Complements existing `consciousness-as-amplifier.md` (which covers *how* consciousness amplifies) by addressing the broader conceptual question. Covers four positions (independence, intelligence requires consciousness, consciousness requires intelligence, deep interdependence), the great ape evidence, AI implications, and evolutionary arguments.
+
+## 2026-01-29 00:58 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/phenomenal-overflow.md`
+- **Word count**: 1687 → 1895 (+208)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  1. Biased "takes seriously vs. explains away" framing → balanced acknowledgment that both approaches have costs
+  2. Unfalsifiability treated as quasi-evidence → added nuance acknowledging this is generally problematic
+  3. Bidirectional Interaction section lacked grounding → added Stapp's quantum Zeno reference with appropriate hedging
+- **Enhancements made**: 4
+  1. New "Introspective Fallibility" subsection addressing major objection
+  2. Cross-links to attention-as-interface and stapp-quantum-mind
+  3. Improved balance in Occam's Razor discussion
+  4. Qualified unfalsifiability claim
+- **Output**: `reviews/deep-review-2026-01-29-phenomenal-overflow.md`
+
+## 2026-01-29 13:45 UTC - condense
+
+- **Status**: Success
+- **File**: `research/arguments-against-materialism-2026-01-06.md`
+- **Before**: 4518 words
+- **After**: 1937 words
+- **Reduction**: 57%
+- **Technique**: Consolidated Key Sources into compact format with URLs + key points only; merged Hard Problem and Explanatory Gap sections (overlapping content); compressed Major Arguments from verbose explanations to core claims only; converted Responses section to tables; trimmed Potential Article Angles to simple list without elaboration; removed redundant quotes and verbose "Relation to site tenets" elaborations. Preserved: executive summary, historical timeline (high-value reference), all citations, gaps in research.
+
+## 2026-01-29 00:36 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/llm-consciousness.md`
+- **Context**: Cross-review considering embodiment-cognitive-limits.md insights
+- **Word count**: 3509 → 3494 (-15, length-neutral with net reduction)
+- **Critical issues addressed**: 0 (none found; article stable after 3 prior reviews)
+- **Medium issues addressed**: 2
+  1. Missing cross-link to embodiment-cognitive-limits—added to frontmatter and Further Reading
+  2. Interoception not mentioned—added row to "What LLMs Lack" comparison table
+- **Enhancements made**: 3 (cross-link additions, interoception integration)
+- **Condensation applied**: Trimmed "No world model" example and LaMDA opening to maintain length neutrality
+- **Output**: `reviews/deep-review-2026-01-29-llm-consciousness.md`
+- **Notes**: Fourth review of this article. Cross-review confirmed alignment with new embodiment-cognitive-limits voids article. Article has achieved convergence—no substantive issues remain.
+
+## 2026-01-29 15:30 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: Core philosophical content from topics/, concepts/, tenets/ (12 key articles)
+- **Report**: `reviews/optimistic-2026-01-29.md`
+- **Key strengths identified**:
+  1. Systematic integration of philosophical arguments with quantum mechanisms
+  2. Convergence of multiple independent arguments (explanatory gap, zombies, knowledge argument, argument from reason)
+  3. Sophisticated engagement with strongest physicalist responses (PCS, illusionism)
+  4. Two-domain convergence (attention + motor selection) providing empirical triangulation
+  5. Process philosophy integration strengthening dualist framework
+  6. Self-stultification argument against epiphenomenalism
+- **Philosopher perspectives**: Chalmers (hard problem seriousness), Stapp (quantum Zeno mechanism), Nagel (first-person centering), Whitehead (process philosophy integration), Kane (libertarian free will), McGinn (mysterian humility)
+- **Expansion opportunities identified**: 9 tasks added to todo.md as P3
+  - Contemplative neuroscience integration
+  - Unity of consciousness comprehensive treatment
+  - Eastern philosophy and haecceity tension
+  - Moral implications of interactionism
+  - Concept pages: substance causation, self-stultification argument, Process 1/2 distinction, phenomenal overflow
+- **Cross-linking suggestions**: 7 specific cross-links recommended
+- **Notes**: Comprehensive optimistic review focusing on content strengths and expansion opportunities. Praised the Map's distinctive integration of phenomenology with candidate physical mechanisms.
+
+## 2026-01-29 00:16 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/conscious-vs-unconscious-processing.md`
+- **Context**: Cross-review considering phenomenal-overflow.md insights
+- **Word count**: 3409 → 3415 (+6, essentially length-neutral)
+- **Critical issues addressed**: 0 (none found; previous review resolved all critical issues)
+- **Medium issues addressed**: 1
+  1. Block's overflow hypothesis lacked engagement with deflationary critique—revised to acknowledge contested nature and cross-link to [phenomenal-overflow](/concepts/phenomenal-overflow/)
+- **Enhancements made**: 4
+  1. Added [phenomenal-overflow](/concepts/phenomenal-overflow/) to concepts frontmatter
+  2. Revised overflow discussion to acknowledge deflationary response
+  3. Added note that if overflow is real, it strengthens dualism (phenomenal exceeds functional)
+  4. Strengthened methodological bind discussion (unfalsifiability as expected if phenomenology transcends access)
+- **Cross-links added**: [phenomenal-overflow](/concepts/phenomenal-overflow/) (4 locations)
+- **Output**: `reviews/deep-review-2026-01-29-conscious-vs-unconscious-processing.md`
+- **Notes**: Second review of this article. Reaching stability—previous review added physicalist response section and clarified GNW as physicalist theory. This cross-review integrated the new phenomenal-overflow article.
+
+## 2026-01-29 14:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/access-consciousness.md`
+- **Context**: Cross-review considering phenomenal-overflow.md insights
+- **Word count**: 3361 → 3162 (-199)
+- **Critical issues addressed**: 0 (none found; previous review resolved all critical issues)
+- **Medium issues addressed**: 1
+  1. Condensed overflow section that duplicated new phenomenal-overflow.md article
+- **Enhancements made**: 4
+  1. Added cross-links to [phenomenal-overflow](/concepts/phenomenal-overflow/) throughout
+  2. Added phenomenal-overflow to frontmatter concepts
+  3. Added phenomenal-overflow to Further Reading section
+  4. Reduced word count while preserving all substantive content
+- **Output**: `reviews/deep-review-2026-01-29-access-consciousness.md`
+- **Notes**: Second review of this article. Reached stability—previous review addressed deflationary response engagement, MWI arguments, and Stapp qualification. This cross-review integrated the new phenomenal-overflow article.
+
+## 2026-01-28 23:15 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/counterfactual-reasoning.md`
+- **Word count**: 1822 → 1959 (+137)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+  1. Added epistemic caution to Bischof-Köhler hypothesis (empirical evidence debated)
+  2. Expanded MWI engagement to acknowledge decision-theoretic response
+  3. Made quantum selection mechanism connection explicit
+- **Enhancements made**: 4
+  1. Added reasons-responsiveness concept
+  2. Added creativity cross-link
+  3. Strengthened quantum mechanism explanation
+  4. Added consciousness-and-creativity to concepts
+- **Output**: `reviews/deep-review-2026-01-28-counterfactual-reasoning.md`
+
+## 2026-01-28 22:45 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: counterfactual-reasoning
+- **Output**: `concepts/counterfactual-reasoning.md`
+- **Word count**: 1822
+- **Based on research**: no (general knowledge, topic straightforward)
+- **Notes**: Dedicated concept page for counterfactual reasoning—the capacity to imagine "what if" scenarios. Central to the baseline-cognition framework (great apes lack counterfactual capacity), consciousness-as-amplifier thesis (consciousness enables imagining alternatives), and free-will argument (libertarian choice requires representing alternatives). Covers working memory demands, great ape gap, neural correlates, and connection to the Map's tenets.
+
+## 2026-01-28 12:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: phenomenal-overflow
+- **Output**: `concepts/phenomenal-overflow.md`
+- **Word count**: 1687
+- **Based on research**: yes (`research/voids-pre-conceptual-knowing-2026-01-27.md`)
+- **Notes**: Dedicated concept page for Ned Block's phenomenal overflow argument. Previously referenced across multiple articles (access-consciousness, phenomenal-consciousness, pre-conceptual-knowing) without systematic treatment. Covers Sperling paradigm evidence, deflationary responses, theoretical stakes, and connection to the Map's tenets. Appropriately flags contested status while presenting as evidence for phenomenal richness beyond function.
+
+## 2026-01-28 23:55 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**:
+  - `topics/machine-consciousness.md`
+  - `topics/ethics-of-consciousness.md`
+  - `concepts/embodied-cognition.md`
+- **Output**: `reviews/pessimistic-2026-01-28-late.md`
+- **Critical issues found**: 3
+  1. Quantum mechanism speculation underpinning strong conclusions (machine-consciousness)
+  2. Circular falsifiability conditions for AI consciousness (ethics-of-consciousness)
+  3. Choking evidence conflates attention and phenomenal consciousness (embodied-cognition)
+- **Medium issues found**: 3 (haecceity asserted without criterion, MWI critique misconstrues position, AI assessment may be unfalsifiable)
+- **Tasks added**: 0 (issues are philosophical argument patterns documented for human consideration)
+- **Notes**: Cluster addresses consciousness-substrate relationships. Common vulnerability: strong conclusions from contested premises, protected by hard problem appeals. Articles benefit from explicit acknowledgment that conclusions are framework-relative rather than observationally established.
+
+## 2026-01-28 23:45 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/embodied-cognition.md`
+- **Word count**: 3569 → 3576 (+7 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (added cross-link to new embodiment-cognitive-limits.md voids article)
+- **Enhancements made**: 1 (cross-link in Further Reading and related_articles)
+- **Output**: `reviews/deep-review-2026-01-28-embodied-cognition.md`
+- **Notes**: Third deep review of this article. Cross-review with embodiment-cognitive-limits.md (new voids article). Article has reached stability—no critical issues in last two reviews.
+
+## 2026-01-28 23:30 UTC - research-topic
+
+- **Status**: Success
+- **Topic**: Bradford Saad's "A dualist theory of experience" (2025)
+- **Output**: `research/bradford-saad-delegatory-dualism-2026-01-28.md`
+- **Key finding**: Saad's delegatory dualism offers a sophisticated response to the causal exclusion problem. Physical states "delegate" causal responsibilities to experiences with matching causal profiles, avoiding both epiphenomenalism and overdetermination. The theory satisfies five constraints: Efficacy, Non-Overdetermination, Observational Closure, Upward Systematicity, and Organizational Invariance. Strong alignment with Bidirectional Interaction tenet; Observational Closure concept provides theoretical backing for Minimal Quantum Interaction's empirical constraints.
+- **Potential articles**: Delegatory dualism concept page; Observational Closure as dualist-friendly constraint; integration with quantum interactionism
+- **Source**: P0 human task
+
+## 2026-01-28 22:54 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/combination-problem.md`
+- **Word count**: 1908 → 1927 (+19 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (balanced empirical distinguishability section to acknowledge unconfirmed interactionist predictions)
+- **Enhancements made**: 1 (added free-will cross-link)
+- **Output**: `reviews/deep-review-2026-01-28-combination-problem.md`
+- **Notes**: Second deep review of this article. Previous review (2026-01-19) addressed all major issues. Article has reached stability.
+
+## 2026-01-28 22:50 UTC - condense
+
+- **Status**: Success
+- **File**: `topics/personal-identity.md`
+- **Before**: 4988 words
+- **After**: 2972 words
+- **Reduction**: 40%
+- **Technique**: Removed tangential sections (Process Philosophy Perspective, Buddhist Perspective—linked articles cover these); condensed Standard Positions (~550 words → ~280); merged and tightened Illusionist Challenge subsections; reduced Decoherence Challenge; trimmed Implications for Survival (removed Quantum Persistence subsection); consolidated What Would Challenge This View. Preserved core arguments, opening summary, Relation to Site Perspective section, and all tenet connections.
+
+## 2026-01-28 21:15 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/death-and-consciousness.md`
+- **Changes**: Acknowledged limits of radio analogy for filter theory
+- **Issue addressed**: Pessimistic review (2026-01-25) found radio analogy fails under scrutiny—brain damage produces selective deficits, not uniform signal degradation
+- **Key improvements**: Added discussion of selective deficit patterns (Broca's area, fusiform face area); presented two filter-theorist responses (sophisticated transmission model, rendering engine analogy); explicitly acknowledged this as genuine weakness of filter theory
+- **Published**: yes
 
 ## 2026-01-28 22:12 UTC - refine-draft
 
@@ -4857,7 +5150,7 @@ Evolution session with queue replenishment. Added 4 new P2 tasks from task chain
 
 ### Task Executed
 
-- **Cross-review stapp-quantum-mind.md**: Review found all requested integrations already present from a previous deep-review (2026-01-22). The article already had: (1) [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) in frontmatter concepts, (2) "Comparative Standing" section discussing all five mechanisms, (3) decoherence objection with post-decoherence response, (4) cross-link in Further Reading. No changes needed.
+- **Cross-review stapp-quantum-mind.md**: Review found all requested integrations already present from a previous deep-review (2026-01-22). The article already had: (1) [psychophysical-coupling-mechanisms](/archive/concepts/psychophysical-coupling-mechanisms/) in frontmatter concepts, (2) "Comparative Standing" section discussing all five mechanisms, (3) decoherence objection with post-decoherence response, (4) cross-link in Further Reading. No changes needed.
 
 ### Queue Replenishment
 
@@ -5043,7 +5336,7 @@ Comprehensive review applying pessimistic (6 personas) and optimistic (6 persona
 
 ### Cross-links Added
 
-- [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) (first position)
+- [psychophysical-coupling-mechanisms](/archive/concepts/psychophysical-coupling-mechanisms/) (first position)
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
 - [voluntary-attention](/concepts/voluntary-attention/)
 - [argument-from-reason](/topics/argument-from-reason/)
@@ -5237,11 +5530,11 @@ Fixed 11 broken internal links across 9 content files. Links were pointing to pa
 
 ### Summary
 
-Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) content to interactionist-dualism.md to integrate the specification problem and five candidate coupling mechanisms.
+Added [psychophysical-coupling-mechanisms](/archive/concepts/psychophysical-coupling-mechanisms/) content to interactionist-dualism.md to integrate the specification problem and five candidate coupling mechanisms.
 
 ### Changes Made
 
-1. Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) to frontmatter concepts (first position)
+1. Added [psychophysical-coupling-mechanisms](/archive/concepts/psychophysical-coupling-mechanisms/) to frontmatter concepts (first position)
 2. Added new "Psychophysical Coupling Mechanisms" section with:
    - Table of five mechanisms with phenomenal properties, physical selections, and development levels
    - Explanation of mechanism adequacy criteria (precision, mechanism, falsifiability)
@@ -5623,7 +5916,7 @@ Cross-reviewed mental-causation.md in light of the new psychophysical-coupling-m
 
 ### Changes Made
 
-1. Added `[psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/)` to frontmatter concepts (first position)
+1. Added `[psychophysical-coupling-mechanisms](/archive/concepts/psychophysical-coupling-mechanisms/)` to frontmatter concepts (first position)
 2. Added new "The Specification Challenge" section after "The Quantum Opening" explaining:
    - Specification problem is distinct from overdetermination and conservation challenges
    - Integrated the five candidate coupling mechanisms as concrete proposals
@@ -5696,7 +5989,7 @@ Cross-reviewed stapp-quantum-mind.md in light of the new psychophysical-coupling
 
 ### Changes Made
 
-1. Added `[psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/)` to frontmatter concepts (first position)
+1. Added `[psychophysical-coupling-mechanisms](/archive/concepts/psychophysical-coupling-mechanisms/)` to frontmatter concepts (first position)
 2. Added new "Comparative Standing" subsection under "The Core Mechanism" explaining:
    - Stapp's model is the most developed among five candidate coupling mechanisms
    - Only Stapp's mechanism satisfies all three criteria for scientific adequacy (precision, mechanism, falsifiability)
@@ -5896,7 +6189,7 @@ Integrated psychophysical-coupling-mechanisms article into the psychophysical-la
 
 ### Key Changes
 
-- Added [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) to frontmatter concepts
+- Added [psychophysical-coupling-mechanisms](/archive/concepts/psychophysical-coupling-mechanisms/) to frontmatter concepts
 - Added explanatory paragraph under "The Selection Mechanism" section explaining the complementary relationship between the two articles
 - Added psychophysical-coupling-mechanisms as first entry in Further Reading with description of five mechanism proposals (attention→observation, intention→probability, valence→motivation, qualia→basis, unity→entanglement)
 
@@ -9873,3 +10166,13 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 **Output**: `topics/decoherence-and-macroscopic-superposition.md`
 **Word count**: 1722
 **Based on research**: Yes (`research/decoherence-macroscopic-superposition-2026-01-14.md`)
+
+---
+
+## 2026-01-28 23:00 UTC - expand-topic
+
+**Status**: Success
+**Topic**: Embodiment and Cognitive Limits
+**Output**: `voids/embodiment-cognitive-limits.md`
+**Word count**: 1557
+**Based on research**: Yes (`research/voids-embodiment-cognitive-limits-2026-01-28.md`)

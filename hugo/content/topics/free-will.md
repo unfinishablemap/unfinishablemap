@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-28 20:29:26+00:00
+ai_modified: 2026-01-29 14:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,14 +21,15 @@ concepts:
 - '[[decoherence]]'
 - '[[epiphenomenalism]]'
 - '[[phenomenology-of-choice]]'
+- '[[counterfactual-reasoning]]'
 created: 2026-01-08
-date: &id001 2026-01-28
+date: &id001 2026-01-29
 description: 'Can we genuinely author our choices? The Map defends libertarian free
   will: consciousness influences physical outcomes through quantum-level selection.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-28 20:29:26+00:00
+last_deep_review: 2026-01-29 14:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,6 +76,12 @@ If selection is genuine, the luck objection fails—the agent explains the diffe
 ### The Phenomenology of Choice
 
 The [phenomenology of choice](/concepts/phenomenology-of-choice/) provides direct evidence that consciousness selects rather than merely observes. Choosing feels fundamentally different from observing—when you choose, you participate in determining the outcome rather than receiving it passively. This phenomenological distinction maps onto neural reality: willed attention shows different signatures than automatic capture. If choosing were epiphenomenal decoration, this correlation would be coincidental.
+
+### Counterfactual Reasoning
+
+Genuine choice requires [counterfactual reasoning](/concepts/counterfactual-reasoning/)—the capacity to imagine alternatives and evaluate what would follow from each. The Bischof-Köhler hypothesis proposes that animals cannot act on drive states they don't currently possess; a sated chimpanzee won't store food for future hunger because it cannot vividly represent that counterfactual state. Great apes show working memory capacity of roughly 2±1 items versus humans' 7±2, limiting their ability to hold actual situation, counterfactual premise, and counterfactual consequences simultaneously.
+
+This suggests that counterfactual reasoning—and therefore genuine deliberation—requires consciousness. The [baseline cognition](/archive/topics/baseline-cognition/) framework predicts exactly this: capacities requiring extensive working memory manipulation should be absent or severely limited in species with reduced conscious capacity. Deliberating feels like holding multiple possibilities open, exploring their implications, and then settling on one. Without the capacity to represent "what would happen if I chose X," an agent is restricted to pattern-matching from prior experience rather than genuinely evaluating alternatives.
 
 ### The Decoherence Challenge
 
@@ -194,6 +201,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum mechanics supports libertarian free will
 - [mental-causation](/concepts/mental-causation/) — Essential for free will; how the framework addresses Kim's exclusion
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of deciding
+- [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The consciousness-dependent capacity to imagine and evaluate alternatives
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis including retrocausal resolution
 - [voluntary-attention](/concepts/voluntary-attention/) — Paradigm case of consciousness selecting neural patterns
 - [motor-selection](/concepts/motor-selection/) — Second selection domain with parallel neural signatures

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-28 22:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: If electrons have micro-experiences, how do billions combine into u
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-19 21:00:00+00:00
+last_deep_review: 2026-01-28 22:54:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -152,7 +152,7 @@ Can we test which problem is more tractable? Several lines of evidence bear on t
 
 **Anesthesia and microtubules**: Studies showing that microtubule-stabilizing drugs delay anesthetic-induced unconsciousness (Wiest et al. 2024) support quantum mechanisms for consciousness without implicating micro-experience combination.
 
-The interactionist framework generates specific predictions testable by current methods. Panpsychism's combination proposals remain primarily conceptual, with no clear empirical consequences that would distinguish successful combination from failed combination.
+The interactionist framework generates specific predictions testable by current methods—though these predictions remain unconfirmed. Panpsychism's combination proposals remain primarily conceptual, with no clear empirical consequences that would distinguish successful combination from failed combination. Neither framework has decisive empirical support, but interactionism at least identifies what evidence would count.
 
 ## What Panpsychism Gets Right
 
@@ -186,6 +186,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - [binding-problem](/concepts/binding-problem/) — The neural coordination challenge (related but distinct)
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical testing ground in simple organisms
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The alternative avoiding the problem
+- [free-will](/topics/free-will/) — Mental causation implications of the interaction alternative
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem panpsychism aimed to solve
 - [qualia](/concepts/qualia/) — What must combine (or not)
 - [tenets](/tenets/) — the Map's foundational commitments

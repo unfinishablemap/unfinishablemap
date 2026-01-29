@@ -5,8 +5,8 @@ ai_modified: 2026-01-27 22:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[psychophysical-coupling-law]]'
-- '[[psychophysical-coupling-mechanisms]]'
+- '[[psychophysical-coupling]]'
+- '[[psychophysical-coupling]]'
 - '[[interactionist-dualism]]'
 - '[[mental-causation]]'
 - '[[integrated-information-theory]]'
@@ -79,7 +79,7 @@ This leaves open whether the mental can causally influence the physical. Chalmer
 
 Causal laws (or "selection laws" in the Map's terminology) specify how mental states influence which physical states become actual. The mental is input; the physical is output.
 
-The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires causal laws—not merely supervenience laws. Consciousness doesn't just accompany brain states; it selects among physically underdetermined alternatives. The [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) page explores what such selection laws might look like.
+The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires causal laws—not merely supervenience laws. Consciousness doesn't just accompany brain states; it selects among physically underdetermined alternatives. The [psychophysical-coupling](/concepts/psychophysical-coupling/) page explores what such selection laws might look like.
 
 **The asymmetry**: Chalmers' framework primarily develops the upward direction (physical → phenomenal). The Map needs laws for both directions, with special emphasis on the downward direction (phenomenal → physical selection).
 
@@ -155,7 +155,7 @@ The Map's argument against epiphenomenalism: if consciousness were causally iner
 
 Chalmers leaves the mechanism abstract. The Map (following Stapp) specifies attention as the mental variable and quantum Zeno maintenance as the mechanism. Conscious attention holds desired neural patterns actual through repeated observation—not by injecting energy, but by affecting which quantum possibilities become actual.
 
-This page discusses psychophysical laws at the level of *form*—what such laws must accomplish, what constraints they must satisfy. The companion article [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) addresses *implementation*—five specific proposals for which phenomenal properties map to which physical parameters through what pathways. The two articles are complementary: this page explains why psychophysical laws are needed and what structure they must have; the mechanisms page evaluates concrete proposals meeting (or failing to meet) those structural requirements.
+This page discusses psychophysical laws at the level of *form*—what such laws must accomplish, what constraints they must satisfy. The companion article [psychophysical-coupling](/concepts/psychophysical-coupling/) addresses *implementation*—five specific proposals for which phenomenal properties map to which physical parameters through what pathways. The two articles are complementary: this page explains why psychophysical laws are needed and what structure they must have; the mechanisms page evaluates concrete proposals meeting (or failing to meet) those structural requirements.
 
 ### Rejection of Organizational Invariance
 
@@ -219,7 +219,7 @@ Psychophysical laws are where the Map's tenets become theoretically precise.
 
 **[Dualism](/tenets/#dualism)** requires psychophysical laws by definition. If consciousness is ontologically distinct from physics, something must specify how they relate.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** requires that these laws run in both directions—not just upward supervenience, but downward selection. The Map's [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) articulates what such selection laws must accomplish.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** requires that these laws run in both directions—not just upward supervenience, but downward selection. The Map's [psychophysical-coupling](/concepts/psychophysical-coupling/) articulates what such selection laws must accomplish.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains what kind of psychophysical laws are admissible. Consciousness biases quantum outcomes without violating conservation laws—the smallest intervention physics permits.
 
@@ -237,8 +237,8 @@ The framework would face serious difficulty if: (1) the hard problem dissolves�
 
 - [chalmers-psychophysical-coupling](/topics/chalmers-psychophysical-coupling/) — Focused treatment of Chalmers' framework and the Map's divergences
 - [psychophysical-laws-framework](/topics/psychophysical-laws-framework/) — Integrated overview connecting laws to mechanisms and tenets
-- [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) — Specific mechanism proposals (attention→observation, intention→probability, valence→motivation, qualia→basis, unity→entanglement)
-- [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) — The Map's specific coupling law problem
+- [psychophysical-coupling](/concepts/psychophysical-coupling/) — Specific mechanism proposals (attention→observation, intention→probability, valence→motivation, qualia→basis, unity→entanglement)
+- [psychophysical-coupling](/concepts/psychophysical-coupling/) — The Map's specific coupling law problem
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework requiring bidirectional laws
 - [mental-causation](/concepts/mental-causation/) — How consciousness causes physical effects
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific quantum mechanisms

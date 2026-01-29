@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-28 23:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,11 +24,12 @@ description: Cognition depends on the body and extends into the environment. Thi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-22 11:00:00+00:00
+last_deep_review: 2026-01-28 23:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[embodied-cognition-extended-mind-2026-01-14]]'
+- '[[embodiment-cognitive-limits]]'
 title: Embodied Cognition and the Extended Mind
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -219,6 +220,7 @@ The key point: embodied cognition challenges a specific historical position (Car
 - [intentionality](/concepts/intentionality/) — Motor intentionality and the directedness of embodied action
 - [ai-consciousness](/topics/ai-consciousness/) — Why the grounding problem matters for machine minds
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's integration of embodied cognition with consciousness science
+- [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How embodiment shapes and constrains what we can think (voids)
 - [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness, the Dreyfus model, and choking as bidirectional evidence
 - [brain-specialness](/archive/concepts/brain-specialness/) — What makes neural systems the interface for consciousness
 - [interface-locality](/archive/concepts/interface-locality/) — Why selection is brain-restricted

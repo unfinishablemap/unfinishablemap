@@ -121,7 +121,7 @@ Predictive processing describes attention as precision weighting—upweighting p
 
 ### Working Memory and the Interface
 
-Working memory and attention are deeply interlinked, strengthening the [interface hypothesis](/concepts/attention-as-interface/). The Map's [coupling law research](/concepts/psychophysical-coupling-law/) notes a ~10 bits/second limit on conscious throughput—matching working memory capacity remarkably well.
+Working memory and attention are deeply interlinked, strengthening the [interface hypothesis](/concepts/attention-as-interface/). The Map's [coupling law research](/archive/concepts/psychophysical-coupling-law/) notes a ~10 bits/second limit on conscious throughput—matching working memory capacity remarkably well.
 
 Recent research distinguishes working memory *storage* (which can be unconscious, maintained via synaptic calcium) from *manipulation* (which requires conscious reactivation). This maps onto the Map's framework: passive storage might be purely neural; active manipulation might require consciousness's participation. Working memory manipulation could be the interface in action.
 

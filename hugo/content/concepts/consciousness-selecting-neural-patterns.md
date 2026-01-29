@@ -11,7 +11,7 @@ concepts:
 - '[[mental-causation]]'
 - '[[causal-closure]]'
 - '[[measurement-problem]]'
-- '[[psychophysical-coupling-law]]'
+- '[[psychophysical-coupling]]'
 - '[[decoherence]]'
 - '[[illusionism]]'
 - '[[introspection]]'
@@ -182,7 +182,7 @@ This is the minimal interpretation of Stapp's Process 1: consciousness chooses w
 
 This connects to the Map's [No Many Worlds](/tenets/#no-many-worlds) tenet—consciousness selects which outcome is experienced as "this one" rather than causing outcomes directly.
 
-These constraint families are developed in detail as candidate coupling laws in [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/), where they are evaluated against the ~10 bits/second bandwidth constraint that empirically limits what selection can accomplish.
+These constraint families are developed in detail as candidate coupling laws in [psychophysical-coupling](/concepts/psychophysical-coupling/), where they are evaluated against the ~10 bits/second bandwidth constraint that empirically limits what selection can accomplish.
 
 ## Relation to Site Perspective
 
@@ -236,12 +236,12 @@ The consciousness-selecting neural patterns framework would face serious difficu
 
 **Timing and retrocausality**: If selection is atemporal—operating outside linear time—how does it relate to the subjective flow of experience?
 
-**The coupling law**: What psychophysical laws govern selection? the Map proposes the mechanism but acknowledges that the detailed mapping from conscious states to physical selections remains to be specified. See [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) for four candidate coupling laws (attention-bounded, policy-level, basis-choice, and indexical) and the bandwidth constraints any coupling law must respect.
+**The coupling law**: What psychophysical laws govern selection? the Map proposes the mechanism but acknowledges that the detailed mapping from conscious states to physical selections remains to be specified. See [psychophysical-coupling](/concepts/psychophysical-coupling/) for four candidate coupling laws (attention-bounded, policy-level, basis-choice, and indexical) and the bandwidth constraints any coupling law must respect.
 
 ## Further Reading
 
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How selection integrates with imagination's generative role
-- [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) — The laws governing what selection can accomplish
+- [psychophysical-coupling](/concepts/psychophysical-coupling/) — The laws governing what selection can accomplish
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Major theories of how consciousness interfaces with quantum mechanics
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and Stapp's mechanism
 - [voluntary-attention](/concepts/voluntary-attention/) — The willed/instructed distinction and neural signatures of selection

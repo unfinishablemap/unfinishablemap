@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-29 14:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[phenomenal-consciousness]]'
+- '[[phenomenal-overflow]]'
 - '[[global-workspace-theory]]'
 - '[[functionalism]]'
 - '[[qualia]]'
@@ -18,13 +19,13 @@ concepts:
 - '[[mysterianism]]'
 - '[[indexical-identity-quantum-measurement]]'
 created: 2026-01-22
-date: &id001 2026-01-23
+date: &id001 2026-01-29
 description: Access consciousness makes mental states available for reasoning and
   behavior control, distinct from phenomenal consciousness's subjective experience.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-23 12:15:00+00:00
+last_deep_review: 2026-01-29 14:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,20 +100,11 @@ Blindsight patients have cortical damage (typically V1) causing a blind spot in 
 
 ### The Overflow Argument: Phenomenology Without Full Access
 
-Block's overflow argument holds that phenomenal consciousness has richer content than access consciousness—we experience more than we can report or think about.
+Block's [overflow argument](/concepts/phenomenal-overflow/) holds that phenomenal consciousness has richer content than access consciousness—we experience more than we can report or think about. Evidence from iconic memory experiments suggests subjects phenomenally experience more letters than they can subsequently report, implying P-consciousness exceeds A-consciousness in capacity.
 
-**Sperling's iconic memory experiment** (1960): Flash a grid of 12 letters for 50 milliseconds. Subjects can report only 4-5 letters. But if you cue them immediately after (tone indicating which row to report), they can report any row with high accuracy. Subjects consistently report "I saw all 12 letters but couldn't hold them all in memory."
+If overflow is real, it has significant implications: phenomenal richness exceeds what [Global Workspace](/concepts/global-workspace-theory/) mechanisms make accessible, and P-consciousness cannot reduce to A-consciousness if P has higher capacity than A.
 
-**Block's interpretation**: Subjects must have had phenomenal consciousness of all 12 letters—that's what's being consulted when the cue directs attention to a specific row. But only 4-5 letters are A-conscious at once (available for reasoning and report without the cue). Therefore, P-consciousness overflows A-consciousness.
-
-**Implications for the distinction**:
-- If overflow is real, phenomenal richness exceeds what global workspace mechanisms make accessible
-- [GWT](/concepts/global-workspace-theory/) might explain access while missing the fuller phenomenology
-- P-consciousness cannot reduce to A-consciousness if P has higher capacity than A
-
-**The deflationary response**: Critics—notably Dennett and Cohen—argue that the experience of "seeing all 12" is itself a report/judgment (thus A-conscious), and the letters not currently reportable aren't genuinely P-conscious either. On this view, subjects don't experience all 12 letters; they experience a *gestalt impression* of "lots of letters" that becomes specific only when the cue directs attention. The "overflow" is confabulation—retroactively attributing rich phenomenology that wasn't there. This deflationary interpretation deserves serious consideration: if the phenomenal richness exists only in reconstruction rather than original experience, the overflow argument fails.
-
-The debate remains unresolved, though recent work adds complexity. Nartker et al. (2025) found that "inattentionally blind" participants retain visual sensitivity to stimuli they explicitly deny noticing—they can report location, colour, and shape of objects they claim not to have seen. This suggests phenomenology may persist even when workspace broadcast fails, supporting overflow. But deflationary theorists can respond that this residual sensitivity reflects degraded access rather than rich phenomenology. See [global-workspace-theory](/concepts/global-workspace-theory/#the-accessphenomenal-distinction).
+Critics—notably Dennett and Cohen—offer a deflationary response: subjects experience a *gestalt impression* rather than specific letters, and the sense of rich phenomenology is confabulation. The debate remains genuinely contested. See [phenomenal-overflow](/concepts/phenomenal-overflow/) for detailed examination of the evidence and arguments on both sides.
 
 ### A-Consciousness Without P-Consciousness?
 
@@ -146,7 +138,7 @@ This is why [Global Workspace Theory](/concepts/global-workspace-theory/) succee
 - Inattentional blindness shows that unattended information may not reach full access
 - [Voluntary attention](/concepts/voluntary-attention/) enables deliberate control over what becomes accessible
 
-**Block's overflow argument revisited**: If overflow is real, attention might select what becomes A-conscious from a richer phenomenal field. Attention doesn't create P-consciousness but determines what reaches the access-machinery. This fits the dualist view: phenomenal consciousness exists in parallel with functional access, and attention is the bridge.
+**Block's overflow argument revisited**: If [overflow](/concepts/phenomenal-overflow/) is real, attention selects what becomes A-conscious from a richer phenomenal field. Attention doesn't create P-consciousness but determines what reaches the access-machinery. This fits the dualist view: phenomenal consciousness exists in parallel with functional access, and attention is the bridge.
 
 **Stapp's quantum mechanism**: [Henry Stapp's model](/concepts/stapp-quantum-mind/) proposes that [attention is the interface](/concepts/attention-as-interface/) where consciousness influences physical processes. On this view—which remains speculative and contested among physicists—attention operates through the quantum Zeno effect: sustained observation that selects among potential outcomes. The connection to A-consciousness: attention determines what information is "held" in the global workspace long enough for reasoning and action. Attention is the voluntary control mechanism for A-consciousness. See [motor-selection](/concepts/motor-selection/) for how this plays out in action selection.
 
@@ -174,7 +166,7 @@ Access consciousness reveals what physicalism *can* explain: functional availabi
 
 The [explanatory gap](/concepts/explanatory-gap/) persists: neural mechanisms for access don't bridge to phenomenology. Knowing that information achieved prefrontal-parietal ignition doesn't tell us why there's "something it's like" to have that information broadcast. [Arguments against functionalism](/arguments/functionalism/) show that functional role cannot capture phenomenal properties. This persistent gap—despite decades of sophisticated neuroscientific work—may reflect a [cognitive closure](/concepts/mysterianism/) on our part, or it may indicate a genuine ontological distinction. Either possibility resists physicalist resolution.
 
-Block's dissociations strengthen dualism: if access and phenomenology can come apart, they're distinct. Blindsight suggests access without phenomenology; overflow suggests phenomenology exceeding access. If P-consciousness isn't reducible to A-consciousness, and A-consciousness is functionally explicable, then P-consciousness requires non-physical explanation.
+Block's dissociations strengthen dualism: if access and phenomenology can come apart, they're distinct. Blindsight suggests access without phenomenology; [overflow](/concepts/phenomenal-overflow/) suggests phenomenology exceeding access. If P-consciousness isn't reducible to A-consciousness, and A-consciousness is functionally explicable, then P-consciousness requires non-physical explanation.
 
 ### Bidirectional Interaction
 
@@ -238,6 +230,7 @@ An experience becomes A-conscious not by having an intrinsic access-property, bu
 ## Further Reading
 
 - [Phenomenal consciousness](/concepts/phenomenal-consciousness/)—the complement to A-consciousness in Block's framework
+- [Phenomenal overflow](/concepts/phenomenal-overflow/)—Block's argument that phenomenology exceeds access capacity
 - [Global Workspace Theory](/concepts/global-workspace-theory/)—neuroscientific theory of A-consciousness mechanisms
 - [Attention as interface](/concepts/attention-as-interface/)—how consciousness controls what becomes accessible
 - [Stapp's quantum mind](/concepts/stapp-quantum-mind/)—mechanism for conscious selection of what gets accessed

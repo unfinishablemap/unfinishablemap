@@ -5,7 +5,7 @@ ai_modified: 2026-01-27 15:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[psychophysical-coupling-mechanisms]]'
+- '[[psychophysical-coupling]]'
 - '[[voluntary-attention]]'
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
@@ -60,7 +60,7 @@ The key insight: consciousness doesn't *generate* neural patterns—it *selects*
 
 Crucially, the mechanism satisfies conservation laws. Consciousness shapes which possibility actualises without adding energy. This addresses the classical objection to dualism: at quantum indeterminacies, physics leaves outcomes undetermined. Consciousness biases the outcome without competing with physical causes. The physical causes are *necessary but not sufficient*; consciousness provides the sufficiency.
 
-Among [proposed coupling mechanisms](/concepts/psychophysical-coupling-mechanisms/), Stapp's model is the most developed, satisfying all three criteria for scientific adequacy: *precision*, *mechanism*, and *falsifiability*. See the linked article for comparative analysis with Eccles and other proposals.
+Among [proposed coupling mechanisms](/archive/concepts/psychophysical-coupling-mechanisms/), Stapp's model is the most developed, satisfying all three criteria for scientific adequacy: *precision*, *mechanism*, and *falsifiability*. See the linked article for comparative analysis with Eccles and other proposals.
 
 ## William James and the Phenomenology of Effort
 
@@ -167,7 +167,7 @@ The model generates falsifiable predictions:
 
 ## Further Reading
 
-- [psychophysical-coupling-mechanisms](/concepts/psychophysical-coupling-mechanisms/) — Comparative analysis; Stapp's model as most developed
+- [psychophysical-coupling](/concepts/psychophysical-coupling/) — Comparative analysis; Stapp's model as most developed
 - [voluntary-attention](/concepts/voluntary-attention/) — Neural signatures of willed attention
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer
 - [decoherence](/concepts/decoherence/) — The decoherence objection and responses

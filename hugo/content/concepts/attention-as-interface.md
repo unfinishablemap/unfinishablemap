@@ -10,7 +10,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
 - '[[consciousness-selecting-neural-patterns]]'
-- '[[psychophysical-coupling-law]]'
+- '[[psychophysical-coupling]]'
 - '[[interface-locality]]'
 - '[[meditation-and-consciousness-modes]]'
 - '[[motor-selection]]'
@@ -92,7 +92,7 @@ The 2025 COGITATE adversarial testing suggests attention networks (frontoparieta
 
 Conscious processing operates at roughly 10 bits/second (Meister 2024)—vastly less than the brain's total information processing. This shapes what attention can select: coarse-grained policies and action patterns (you can intend to reach for a cup but not the firing pattern of motor neurons). Selection effects accumulate through sustained attention over time; brief attention produces minimal impact while sustained effort produces neuroplasticity. The brain does enormous computational work automatically; consciousness selects among results, not computations—which explains why most cognition feels effortless.
 
-The bandwidth constraint connects to the [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) specifying what consciousness can and cannot do.
+The bandwidth constraint connects to the [psychophysical-coupling](/concepts/psychophysical-coupling/) specifying what consciousness can and cannot do.
 
 ## Meditation as Interface Training
 
@@ -213,7 +213,7 @@ This transforms philosophical assertion into empirical program. Whether the hypo
 
 ## Further Reading
 
-**Core concepts**: [attention](/concepts/attention/), [voluntary-attention](/concepts/voluntary-attention/), [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/), [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/), [interface-locality](/archive/concepts/interface-locality/)
+**Core concepts**: [attention](/concepts/attention/), [voluntary-attention](/concepts/voluntary-attention/), [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/), [psychophysical-coupling](/concepts/psychophysical-coupling/), [interface-locality](/archive/concepts/interface-locality/)
 
 **Quantum mechanisms**: [quantum-consciousness](/concepts/quantum-consciousness/), [decoherence](/concepts/decoherence/), [many-worlds](/arguments/many-worlds/)
 

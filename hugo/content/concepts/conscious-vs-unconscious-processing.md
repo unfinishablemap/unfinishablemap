@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-29 00:15:12+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -23,6 +23,7 @@ concepts:
 - '[[first-person-third-person-methodology]]'
 - '[[qualia]]'
 - '[[knowledge-argument]]'
+- '[[phenomenal-overflow]]'
 created: 2026-01-23
 date: &id001 2026-01-25
 description: 'Consciousness enables specific functions unconscious processing cannot
@@ -30,7 +31,7 @@ description: 'Consciousness enables specific functions unconscious processing ca
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-25 18:30:00+00:00
+last_deep_review: 2026-01-29 00:15:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -142,17 +143,17 @@ The 2025 Nature adversarial collaboration (COGITATE) tested both theories and fo
 
 The debate continues. What both theories agree on: recurrent processing distinguishes conscious from unconscious perception. Feedforward-only processing—information flowing from sensory input toward motor output without feedback—does not support consciousness.
 
-Ned Block's "overflow hypothesis" holds that phenomenal consciousness exceeds cognitive access—you experience more than you can report. The evidence: Sperling's partial report paradigm suggests subjects see more letters than they can recall. Critics respond that this reflects unconscious information storage rather than rich phenomenal experience.
+The ["overflow hypothesis"](/concepts/phenomenal-overflow/) holds that phenomenal consciousness exceeds cognitive access—you experience more than you can report. Sperling's partial report paradigm suggests subjects see more letters than they can recall. But this claim is genuinely contested: deflationists argue subjects have only a gestalt impression of "letterishness," not specific letter-experiences, and mistake the *ability* to access any row for *having accessed* all rows. The overflow debate is examined in detail in [phenomenal-overflow](/concepts/phenomenal-overflow/).
 
-The Map's perspective: the functional evidence for [Bidirectional Interaction](/tenets/#bidirectional-interaction) depends primarily on access consciousness—the aspects of consciousness that enable reasoning, reporting, and voluntary action. If phenomenal consciousness without access exists, it would not threaten the tenet's core claim: consciousness (at least in its access form) makes a functional causal difference.
+For the Map's argument here, the functional evidence for [Bidirectional Interaction](/tenets/#bidirectional-interaction) depends primarily on access consciousness—the aspects of consciousness that enable reasoning, reporting, and voluntary action. If phenomenal consciousness without access exists, it would not threaten the tenet's core claim: consciousness (at least in its access form) makes a functional causal difference. But if overflow is real, it strengthens the dualist position: phenomenal properties would demonstrably exceed functional properties, supporting the claim that phenomenology is not reducible to function.
 
 ## Blindsight: The Paradigm Case
 
 [Blindsight](/concepts/blindsight/) provides the clearest evidence that consciousness adds functionality beyond unconscious processing.
 
-Patients with damage to primary visual cortex (V1) report being completely blind in portions of their visual field. Yet when forced to guess about stimuli in their blind field, they perform above chance—sometimes remarkably well—for orientation, motion, and even emotional expression.
+Patients with V1 damage report being completely blind in portions of their visual field. Yet when forced to guess about stimuli in their blind field, they perform above chance for orientation, motion, and emotional expression.
 
-This demonstrates that visual information can guide behavior without conscious perception. But the limitations are equally telling:
+Visual information can guide behavior without conscious perception. But the limitations are equally telling:
 
 **What blindsight preserves**:
 - Forced-choice discrimination (above chance, well below normal)
@@ -178,20 +179,9 @@ This functionality gap supports [Bidirectional Interaction](/tenets/#bidirection
 
 ## Attention as Gatekeeper
 
-Attention emerges as the gatekeeper for conscious access. The relationship:
+[Attention](/concepts/attention/) gates conscious access. Without attention, information remains subliminal (insufficient signal strength) or preconscious (signal present but attention elsewhere, as in inattentional blindness). With attention, top-down amplification boosts sensory signals into global broadcast, enabling the three consciousness-requiring functions above.
 
-**Without attention**: Information remains subliminal or preconscious
-- Subliminal: Insufficient bottom-up strength (e.g., masked stimuli)
-- Preconscious: Sufficient strength but attention directed elsewhere (e.g., inattentional blindness)
-
-**With attention**: Information gains conscious access
-- Top-down amplification boosts sensory signals
-- Attended information enters global broadcast
-- Conscious access enables the three functions above
-
-This two-factor model (stimulus strength × attention) explains why attention manipulations reliably modulate conscious perception. Change blindness and inattentional blindness demonstrate that even salient stimuli fail to reach consciousness without attention.
-
-For the Map's framework, this connects to [voluntary-attention](/concepts/voluntary-attention/): if attention gates conscious access, and conscious access enables unique cognitive functions, then voluntary control of attention becomes a mechanism for consciousness to influence cognition. The [quantum Zeno hypothesis](/concepts/stapp-quantum-mind/) locates this control at the quantum level.
+Change blindness and inattentional blindness demonstrate that even salient stimuli fail to reach consciousness without attention. For the Map's framework, this connects to [voluntary-attention](/concepts/voluntary-attention/): voluntary control of attention becomes a mechanism for consciousness to influence which information enters the workspace. The [quantum Zeno hypothesis](/concepts/stapp-quantum-mind/) locates this control at the quantum level.
 
 ## Connection to Baseline Cognition
 
@@ -255,11 +245,11 @@ The 2025 reanalysis addressed this by requiring exhaustive sensitivity demonstra
 
 ### The Phenomenal Overflow Question
 
-If phenomenal consciousness can exceed access consciousness (the "overflow" hypothesis), we face a paradox: consciousness without access cannot be reported, so how do we study it?
+If [phenomenal consciousness can exceed access consciousness](/concepts/phenomenal-overflow/), we face a methodological bind: consciousness without access cannot be reported, so how do we study it?
 
 No-report paradigms attempt to identify consciousness without requiring behavioral reports. Initial results suggest consciousness-related neural activity in posterior regions even without frontal access/report involvement. But whether this represents genuine phenomenal consciousness without access, or merely neural correlates that usually accompany consciousness, remains contested.
 
-This methodological impasse reflects deeper issues about [first-person-third-person-methodology](/topics/first-person-third-person-methodology/): third-person neuroscience cannot directly access first-person phenomenal facts. The overflow question may be underdetermined by any purely neural evidence, requiring philosophical argument about what consciousness *is* before empirical methods can settle what consciousness *does*. [Mysterian](/archive/topics/mysterianism-cognitive-closure/) positions suggest some consciousness questions may be cognitively closed to us.
+This methodological impasse is itself philosophically significant. Third-person neuroscience cannot directly access first-person phenomenal facts. The overflow question may be underdetermined by purely neural evidence—but this unfalsifiability might itself be evidence: it's exactly what we'd expect if phenomenology genuinely transcends functional access. [Mysterian](/archive/topics/mysterianism-cognitive-closure/) positions suggest some consciousness questions may be cognitively closed to us.
 
 ### Content vs Enabling NCCs
 
@@ -319,6 +309,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 - [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition looks like without full consciousness
 - [access-consciousness](/concepts/access-consciousness/) — Consciousness as availability for reasoning and report
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — Consciousness as subjective experience
+- [phenomenal-overflow](/concepts/phenomenal-overflow/) — The contested hypothesis that phenomenology exceeds access
 - [working-memory](/concepts/working-memory/) — The maintenance function requiring consciousness
 - [attention](/concepts/attention/) — The gatekeeper for conscious access
 - [voluntary-attention](/concepts/voluntary-attention/) — How consciousness directs attention

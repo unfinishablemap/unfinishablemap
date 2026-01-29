@@ -6,7 +6,7 @@ ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
 - '[[psychophysical-laws]]'
-- '[[psychophysical-coupling-law]]'
+- '[[psychophysical-coupling]]'
 - '[[quantum-consciousness]]'
 - '[[stapp-quantum-mind]]'
 created: 2026-01-23

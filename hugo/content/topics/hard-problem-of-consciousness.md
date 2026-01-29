@@ -32,7 +32,7 @@ concepts:
 - '[[emergence]]'
 - '[[analytic-idealism]]'
 - '[[pairing-problem]]'
-- '[[psychophysical-coupling-law]]'
+- '[[psychophysical-coupling]]'
 - '[[semantic-memory]]'
 - '[[cognitive-phenomenology]]'
 - '[[witness-consciousness]]'
@@ -217,7 +217,7 @@ The [Map's critique of IIT](/topics/integrated-information-theory-critique/) ide
 
 ### Chalmers' Psychophysical Framework
 
-Chalmers proposes that consciousness requires new *fundamental laws*—psychophysical principles bridging phenomenal and physical domains. His three principles (Structural Coherence, Organizational Invariance, Double-Aspect Information) specify constraints on what a solution would look like. In "Consciousness and the Collapse of the Wave Function" (2022), Chalmers and McQueen develop a quantum version where consciousness resists superposition. The Map's [psychophysical-coupling-law](/concepts/psychophysical-coupling-law/) builds on this framework.
+Chalmers proposes that consciousness requires new *fundamental laws*—psychophysical principles bridging phenomenal and physical domains. His three principles (Structural Coherence, Organizational Invariance, Double-Aspect Information) specify constraints on what a solution would look like. In "Consciousness and the Collapse of the Wave Function" (2022), Chalmers and McQueen develop a quantum version where consciousness resists superposition. The Map's [psychophysical-coupling](/concepts/psychophysical-coupling/) builds on this framework.
 
 ### Russellian Monism
 

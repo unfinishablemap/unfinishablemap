@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-27 18:30:00+00:00
+ai_modified: 2026-01-29 01:33:16+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -28,6 +28,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[agent-causation]]'
 - '[[voluntary-attention]]'
+- '[[counterfactual-reasoning]]'
 created: 2026-01-22
 date: &id001 2026-01-25
 description: 'Baseline cognition is what neural systems achieve without consciousness.
@@ -35,7 +36,7 @@ description: 'Baseline cognition is what neural systems achieve without consciou
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 18:30:00+00:00
+last_deep_review: 2026-01-29 01:33:16+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -135,11 +136,11 @@ Unconscious processing excels at pattern recognition and associative learning. B
 
 ### Counterfactual Thinking (Spontaneous Intentional Action)
 
-Humans uniquely imagine situations that don't exist—learning from hypothetical alternatives, planning for future need-states not currently experienced, evaluating actions by their possible consequences. The Bischof-Köhler hypothesis proposes that animals cannot act on drive states they don't currently possess: a sated animal won't store food for future hunger because it cannot consciously represent that future need-state.
+Humans uniquely imagine situations that don't exist—learning from hypothetical alternatives, planning for future need-states not currently experienced, evaluating actions by their possible consequences. [Counterfactual reasoning](/concepts/counterfactual-reasoning/) requires explicitly representing non-actual states while manipulating those representations to draw conclusions—a capacity demanding the kind of integrated workspace that Global Workspace Theory associates with consciousness.
 
-Evidence for great ape foresight exists but remains limited. They may anticipate immediate futures but show little capacity for the extended mental simulation—explicitly imagining oneself in counterfactual scenarios—that characterises human planning.
+The Bischof-Köhler hypothesis proposes that animals cannot act on drive states they don't currently possess: a sated animal won't store food for future hunger because it cannot consciously represent that future need-state. Evidence for great ape foresight exists but remains limited—they may anticipate immediate futures but show little capacity for the extended mental simulation that characterises human planning.
 
-This connects to the third consciousness-requiring function: *spontaneous intentional action*—generating goal-directed behaviour from internal states rather than external triggers. [Blindsight patients](/archive/topics/conscious-vs-unconscious-processing/#blindsight-the-paradigm-case) demonstrate the pattern clearly: they can respond to visual stimuli but cannot spontaneously use blind-field information to initiate self-directed action. Great apes show similar limitations—sophisticated reactive cognition without the self-initiated goal pursuit that requires maintaining future states while selecting appropriate actions. The temporal bridging between current state and counterfactual outcome requires the sustained, flexible representations only conscious access provides.
+This connects to the third consciousness-requiring function: *spontaneous intentional action*—generating goal-directed behaviour from internal states rather than external triggers. [Blindsight patients](/archive/topics/conscious-vs-unconscious-processing/#blindsight-the-paradigm-case) cannot spontaneously use blind-field information to initiate self-directed action. Great apes show similar limitations—sophisticated reactive cognition without the self-initiated goal pursuit that requires maintaining future states while selecting appropriate actions.
 
 ### Social Cognition: Where the Gap Is Clearest
 
@@ -260,6 +261,7 @@ The baseline cognition hypothesis could be undermined by:
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Model organisms and the boundaries of consciousness
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The broadcasting account of conscious access
 - [free-will](/topics/free-will/) — How conscious deliberation supports libertarian free will
+- [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The capacity to imagine non-actual states, requiring consciousness
 - [introspection](/concepts/introspection/) — The capacity to examine one's own mental states
 - [consciousness-independent-baseline-cognition-2026-01-21](/research/consciousness-independent-baseline-cognition-2026-01-21/) — Research notes underlying this article
 
