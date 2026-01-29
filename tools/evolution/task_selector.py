@@ -6,6 +6,7 @@ Provides the bridge between todo.md task types and Claude skill invocations.
 import logging
 import re
 from dataclasses import dataclass
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
@@ -32,10 +33,14 @@ class SkillInvocation:
     args: Optional[str] = None
 
     def to_prompt(self) -> str:
-        """Convert to a Claude prompt string."""
+        """Convert to a Claude prompt string.
+
+        Includes current UTC time so skills can log accurate timestamps.
+        """
+        time_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
         if self.args:
-            return f"Run the {self.skill} skill with: {self.args}"
-        return f"Run the {self.skill} skill"
+            return f"Run the {self.skill} skill with: {self.args}. Current time: {time_str}"
+        return f"Run the {self.skill} skill. Current time: {time_str}"
 
 
 # Default todo.md path

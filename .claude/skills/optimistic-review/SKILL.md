@@ -199,7 +199,14 @@ Add expansion opportunities to `obsidian/workflow/todo.md` as P3 (low priority, 
 
 ### 6. Log to Changelog
 
-Append summary to `obsidian/workflow/changelog.md`.
+Prepend entry to `obsidian/workflow/changelog.md` (add immediately after frontmatter, before existing entries):
+
+```markdown
+## [current time from prompt] - optimistic-review
+- **Status**: Success
+- **Content reviewed**: [summary]
+- **Output**: [filepath]
+```
 
 ## Important
 

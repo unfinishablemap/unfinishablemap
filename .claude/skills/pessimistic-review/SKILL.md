@@ -185,7 +185,14 @@ If significant issues are found, add tasks to `obsidian/workflow/todo.md`:
 
 ### 5. Log to Changelog
 
-Append summary to `obsidian/workflow/changelog.md`.
+Prepend entry to `obsidian/workflow/changelog.md` (add immediately after frontmatter, before existing entries):
+
+```markdown
+## [current time from prompt] - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [summary]
+- **Output**: [filepath]
+```
 
 ## Important
 

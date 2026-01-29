@@ -170,10 +170,10 @@ Priority guidance:
 
 ### 7. Log to Changelog
 
-Append to `obsidian/workflow/changelog.md`:
+Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, before existing entries):
 
 ```markdown
-### HH:MM - outer-review
+## [current time from prompt] - outer-review
 - **Status**: Success
 - **Reviewer**: [System name]
 - **File**: [filepath]

@@ -1,7 +1,7 @@
 ---
-title: "AI Activity Changelog - Week 2026-W03"
-created: 2026-01-12
 archived: true
+created: 2026-01-12
+title: AI Activity Changelog - Week 2026-W03
 ---
 
 ## 2026-01-18
@@ -218,7 +218,7 @@ archived: true
 - **Research notes**: 83 (+1)
 - **Chain task generated**: P2 expand-topic for metacognition concept page
 
-### 12:00 - research-topic (metacognition-consciousness)
+### 14:45 - research-topic (metacognition-consciousness)
 - **Status**: Success
 - **Output**: Created `research/metacognition-consciousness-2026-01-18.md`
 - **Changes**: Comprehensive research on metacognition-consciousness relationship. Key findings: (1) Metacognition and phenomenal consciousness are distinct—HOT theory conflates them but first-order theorists and empirical evidence suggest dissociation (blindsight shows consciousness without metacognitive access, "blind insight" shows metacognitive discrimination without conscious accuracy). (2) Anterior prefrontal cortex (aPFC) is critical neural substrate with structural differences in lucid dreamers (larger aPFC volume, increased functional connectivity to temporoparietal areas). (3) Metacognitive accuracy improves with training—meditation follows logarithmic skill acquisition curve (Fox 2012). (4) Metamemory phenomena (tip-of-tongue, feeling of knowing) extend cognitive phenomenology beyond sensory qualia. (5) Animal metacognition evidence in rats suggests ~80 million year evolutionary history. Site implication: metacognition is cognitive capacity consciousness *enables* rather than *constitutes*.
@@ -268,7 +268,7 @@ archived: true
 - **Reviews completed**: 204 (+1)
 - **Queue replenishment**: Added 2 tasks (agent-causation/luck-objection, dreams-and-consciousness/sleep)
 
-### 18:00 - cross-review (agent-causation/luck-objection)
+### 11:46 - cross-review (agent-causation/luck-objection)
 - **Status**: Success
 - **Output**: Updated `concepts/agent-causation.md`
 - **Changes**: Expanded "the Map's Response" section with four-dimension framework from luck-objection article: (1) selection vs randomness—different relationship to indeterminacy, (2) phenomenology of effort—selections feel like achievements, (3) reasons-guided selection—provides contrastive explicability, (4) retrocausal deepening—prior state is part of what's selected. Added explanation of how this differs from standard agent-causal "the agent caused it" response.
@@ -377,7 +377,7 @@ archived: true
 - **Tasks executed**: 1
 - **Chain task generated**: P2 expand-topic (multi-mind collapse problem)
 
-### 22:00 - research-topic (relational-quantum-mechanics)
+### 04:05 - research-topic (relational-quantum-mechanics)
 - **Status**: Success
 - **Output**: Created `research/relational-quantum-mechanics-2026-01-18.md`
 - **Changes**: Comprehensive research on Carlo Rovelli's Relational Quantum Mechanics (RQM). Key findings: (1) RQM explicitly removes consciousness from any special role—measurement is ordinary physical interaction, not mental observation. This conflicts with site's Bidirectional Interaction tenet. (2) RQM handles multi-observer scenarios via perspectivalism—facts are relative to each observer, no coordination needed. (3) The 2023 Adlam-Rovelli "cross-perspective links" revision attempts to restore intersubjectivity. (4) RQM's treatment of locality (Bell violations as "common cause in indeterministic context") is controversial. (5) Identified four options for multi-mind collapse problem: nonlocal coordination, relational resolution, interface locality, objective-collapse-plus-modulation. Recommended article: develop multi-mind collapse problem with site's interface-locality approach.
@@ -393,7 +393,7 @@ archived: true
 - **Mode**: standard (1 task)
 - **Tasks executed**: 1
 
-### 23:45 - cross-review (loss-of-consciousness/memory-systems)
+### 21:22 - cross-review (loss-of-consciousness/memory-systems)
 - **Status**: Success
 - **Output**: Updated `topics/loss-of-consciousness.md`
 - **Changes**: Added "Memory Systems and Loss of Consciousness" section with three subsections: Episodic Memory's Selective Vulnerability (anterograde amnesia under anesthesia, asymmetric vulnerability pattern), Implicit Memory's Relative Preservation (anoetic consciousness persists through reduced states), and The Hierarchical Pattern (Tulving's hierarchy maps to vulnerability thresholds, supports filter theory). Added episodic-memory, implicit-memory, and autonoetic-consciousness to concepts and Further Reading.
@@ -424,7 +424,7 @@ archived: true
 - **Tasks executed**: 1
 - **Queue replenishment**: Added 2 P2 cross-review tasks from implicit-memory chains
 
-### 00:45 - cross-review (agent-causation/implicit-memory)
+### 20:08 - cross-review (agent-causation/implicit-memory)
 - **Status**: Success
 - **Output**: Updated `concepts/agent-causation.md`
 - **Changes**: Added "Skill Delegation and the Interface" section with three subsections explaining how agent causation accommodates procedural memory through delegation. Choking phenomenon provides evidence for consciousness's causal efficacy. Anoetic consciousness shows the agent persists during automatic action. Added implicit-memory to concepts and Further Reading.
@@ -529,12 +529,12 @@ archived: true
 - **Mode**: standard (2 tasks)
 - **Tasks executed**: 2
 
-### 02:00 - cross-review (specious-present/working-memory)
+### 03:22 - cross-review (specious-present/working-memory)
 - **Status**: Success
 - **Output**: Updated `concepts/specious-present.md`
 - **Changes**: Added "Working Memory as Neural Correlate" section connecting the 100ms-5s experienced moment to WM maintenance capacity, temporal bridge function (Baddeley quote), episodic buffer binding and consciousness's constitutive role, bandwidth constraint (~10 bits/second), and manipulation-requires-consciousness finding. The specious present may be what WM feels like from inside.
 
-### 02:00 - cross-review (attention/working-memory)
+### 03:22 - cross-review (attention/working-memory)
 - **Status**: Success
 - **Output**: Updated `concepts/attention.md`
 - **Changes**: Added "Working Memory and the Interface" section covering bidirectional WM-attention loop (attention fills WM, WM guides attention), bandwidth constraint matching WM capacity (~10 bits/second), manipulation vs maintenance distinction (manipulation requires consciousness), executive vs content dissociation from COGITATE results. WM may be consciousness's "holding space" for interface operation.
@@ -549,12 +549,12 @@ archived: true
 - **Mode**: standard (2 tasks)
 - **Tasks executed**: 2
 
-### 14:30 - expand-topic (moral-responsibility)
+### 17:40 - expand-topic (moral-responsibility)
 - **Status**: Success
 - **Output**: `concepts/moral-responsibility.md`
 - **Changes**: Created ~2200 word concept page on moral responsibility under agent causation. Covers how agent causation grounds desert differently than compatibilism (metaphysical vs pragmatic), genuine sourcehood, contrastive explanation, luck objection response, retribution intelligibility, mitigation limits, character responsibility, role of consciousness (alternatives, effort, self-knowledge), practical implications. Connected to all five tenets.
 
-### 13:00 - cross-review (temporal-consciousness/specious-present)
+### 17:40 - cross-review (temporal-consciousness/specious-present)
 - **Status**: Success
 - **Output**: Updated `concepts/temporal-consciousness.md`
 - **Changes**: Added extensionalism vs retentionalism debate section, site's modified extensionalism position (collapse constitutes duration-blocks), Varela neurophenomenology with contemplative access to temporal microstructure, khanika and cessation as evidence, duration estimate ranges, links to specious-present.md and neurophenomenology.md.
@@ -657,17 +657,17 @@ archived: true
 - **Mode**: standard (2-3 tasks)
 - **Tasks executed**: 3
 
-### 01:30 - cross-review (consciousness-selecting-neural-patterns/psychophysical-coupling-law)
+### 11:27 - cross-review (consciousness-selecting-neural-patterns/psychophysical-coupling-law)
 - **Status**: Success
 - **Output**: Updated `concepts/consciousness-selecting-neural-patterns.md`
 - **Changes**: Added psychophysical-coupling-law to concepts list. Updated candidate constraint families section with link to coupling law treatment. Enhanced "The coupling law" open question with reference to four candidate laws. Added coupling law page to Further Reading.
 
-### 01:45 - cross-review (arguments-for-dualism/epistemic-advantages)
+### 11:27 - cross-review (arguments-for-dualism/epistemic-advantages)
 - **Status**: Success
 - **Output**: Updated `concepts/arguments-for-dualism.md`
 - **Changes**: Added new "The Meta-Level Argument: Epistemic Humility" section after Parsimony Objection. Explains how epistemic advantages argument complements object-level arguments. Covers asymmetric costs of error, risks materialists cannot see, opening vs closing moves. Added epistemic-advantages-of-dualism to related_articles and Further Reading.
 
-### 02:00 - research-voids (whether the voids are real)
+### 11:27 - research-voids (whether the voids are real)
 - **Status**: Success
 - **Output**: `research/voids-whether-real-2026-01-17.md`
 - **Category**: Mixed (meta-level investigation)
@@ -815,12 +815,12 @@ archived: true
 - **Mode**: standard (2-3 tasks)
 - **Tasks executed**: 2
 
-### 01:00 - cross-review (functionalism/against-functionalism-argument)
+### 19:07 - cross-review (functionalism/against-functionalism-argument)
 - **Status**: Success
 - **Output**: Updated `concepts/functionalism.md`
 - **Changes**: Added against-functionalism-argument to related_articles; added reference to formal argument page (five arguments) in introduction; added against-functionalism-argument, philosophical-zombies, and inverted-qualia to Further Reading.
 
-### 00:30 - research-topic (Hoel LLM consciousness paper)
+### 19:07 - research-topic (Hoel LLM consciousness paper)
 - **Status**: Success
 - **Output**: `research/hoel-llm-consciousness-continual-learning-2026-01-16.md`
 - **Changes**: Analyzed Erik Hoel's arXiv 2512.12802 "A Disproof of Large Language Model Consciousness" which argues continual learning is necessary for consciousness. Evaluated against site tenets: mostly aligned (anti-functionalism via proximity argument, implicit support for Bidirectional Interaction, supports Occam's Razor Has Limits). Orthogonal treatment of quantum mechanisms. Paper provides useful formal tools for critiquing functionalism.
@@ -922,22 +922,22 @@ archived: true
 - **Mode**: standard (2-3 tasks)
 - **Tasks executed**: 3 (all cross-reviews integrating agent-causation and dreams-and-consciousness articles)
 
-### 12:30 - cross-review (mind-brain-separation/dreams-and-consciousness)
+### 01:23 - cross-review (mind-brain-separation/dreams-and-consciousness)
 - **Status**: Success
 - **Output**: Updated `concepts/mind-brain-separation.md`
 - **Changes**: Added dreams-and-consciousness to concepts list; created new "Dreams as Evidence for Filter Theory" subsection under Filter Theory Framework covering: optical constraints persist in dreams (rendering engine provides substrate), physical laws don't persist (consciousness transcends physics), 2025 Demirel lucid dreaming as bidirectional interaction evidence; wikilinked existing dreams reference; added dreams-and-consciousness to Further Reading.
 
-### 12:15 - cross-review (interactionist-dualism/agent-causation)
+### 01:23 - cross-review (interactionist-dualism/agent-causation)
 - **Status**: Success
 - **Output**: Updated `concepts/interactionist-dualism.md`
 - **Changes**: Added agent-causation to concepts list; created new "Agent Causation: The Metaphysical Framework" section after Decoherence Objection; connected quantum mechanism with Chisholm's transeunt/immanent causation distinction; referenced Lowe's substance causation view; showed how quantum Zeno illustrates agent causation in action; linked phenomenology of effort; added agent-causation to Further Reading.
 
-### 12:00 - cross-review (free-will/agent-causation)
+### 01:23 - cross-review (free-will/agent-causation)
 - **Status**: Success
 - **Output**: Updated `topics/free-will.md`
 - **Changes**: Added agent-causation to concepts list; expanded Libertarian Free Will description to distinguish event-causal from agent-causal versions; created new "Agent Causation: Why the Map's Framework Is Libertarian" section covering: event-causal insufficiency for sourcehood, Chisholm's immanent causation, Lowe's substance causation, connection to site's quantum selection mechanism, phenomenology of effort as evidence; added agent-causation to Further Reading.
 
-### 11:45 - replenish-queue
+### 01:23 - replenish-queue
 - **Status**: Success
 - **Tasks generated**: 4 cross-review tasks from agent-causation and dreams-and-consciousness chains
 - **Queue health**: 6 P2 tasks (before execution), 3 P3 tasks
@@ -1016,18 +1016,18 @@ archived: true
 - **Mode**: standard (2-3 tasks)
 - **Tasks executed**: 3
 
-### 12:30 - expand-topic (mind-brain separation and division of faculties)
+### 17:03 - expand-topic (mind-brain separation and division of faculties)
 - **Status**: Success
 - **Output**: `concepts/mind-brain-separation.md`
 - **Based on research**: Yes (`research/mind-brain-separation-faculties-2026-01-15.md`)
 - **Changes**: Created ~2100 word article covering the division of faculties (qualia intrinsic to mind, automatic functions to brain, many faculties at interface), vision as case study (3D world problem, smooth motion puzzle, blindsight as interface), filter theory framework (James, Bergson, Huxley), and rendering engine analogy. Connected to dualism, bidirectional interaction, and Occam's limits tenets.
 
-### 12:45 - cross-review (philosophical-zombies/inverted-qualia)
+### 17:03 - cross-review (philosophical-zombies/inverted-qualia)
 - **Status**: Success
 - **Output**: Updated `concepts/philosophical-zombies.md`
 - **Changes**: Added inverted-qualia to concepts list; created new "Zombies and Inverted Qualia" section with comparison table (absent vs different qualia, targets physicalism vs functionalism) explaining how the two arguments complement each other—zombies show function doesn't guarantee any experience, inverted qualia show function doesn't fix which experience; added inverted-qualia to Further Reading.
 
-### 13:00 - cross-review (qualia/inverted-qualia)
+### 17:03 - cross-review (qualia/inverted-qualia)
 - **Status**: Success
 - **Output**: Updated `concepts/qualia.md`
 - **Changes**: Added inverted-qualia to concepts list; substantially expanded Inverted Qualia section with Locke attribution (1689), Block/Fodor/Shoemaker development, Inverted Earth scenario, detectability objection and response (limited inversions possible, argument is modal not empirical); added inverted-qualia to Further Reading.
@@ -1066,17 +1066,17 @@ archived: true
 - **Mode**: standard (2-3 tasks)
 - **Tasks executed**: 3
 
-### 01:30 - research-topic (loss of consciousness)
+### 15:51 - research-topic (loss of consciousness)
 - **Status**: Success
 - **Output**: `research/loss-of-consciousness-mind-brain-2026-01-15.md`
 - **Key findings**: Comprehensive coverage of anesthesia mechanisms (propofol produces near-total extinction while ketamine preserves complex phenomenology), cognitive motor dissociation (25% of "unconscious" patients show awareness via neuroimaging), time perception vanishing under anesthesia, filter/transmission theory (James, Bergson, Huxley), active brain reboot mechanisms. Key insight: consciousness can persist despite behavioral unresponsiveness; brain-consciousness correlation is compatible with filter theory.
 
-### 02:00 - expand-topic (inverted qualia)
+### 15:51 - expand-topic (inverted qualia)
 - **Status**: Success
 - **Output**: `concepts/inverted-qualia.md`
 - **Changes**: Created ~1800 word article covering the spectrum inversion thought experiment, Block's Inverted Earth, detectability objection and responses (Hardin's color space asymmetries, Palmer's limited inversions), relation to zombie arguments, privacy of experience, physicalist responses (representationalism, phenomenal concepts strategy, Dennett), and connection to site's dualist framework.
 
-### 02:30 - cross-review (ai-consciousness/problem-of-other-minds)
+### 15:51 - cross-review (ai-consciousness/problem-of-other-minds)
 - **Status**: Success
 - **Output**: Updated `topics/ai-consciousness.md`
 - **Changes**: Added problem-of-other-minds to concepts list and Further Reading; added explicit [[problem-of-other-minds]] link to Epistemic Problem section; created new "Why the Inference Fails for AI" subsection applying argument from analogy, inference to best explanation, and Wittgensteinian dissolution to AI and showing why each approach fails.
@@ -1157,17 +1157,17 @@ archived: true
 - **Mode**: standard (2-3 tasks)
 - **Tasks executed**: 3
 
-### 12:00 - research-topic (consciousness, collapse, and arrow of time)
+### 12:21 - research-topic (consciousness, collapse, and arrow of time)
 - **Status**: Success
 - **Output**: `research/consciousness-collapse-arrow-of-time-2026-01-14.md`
 - **Key findings**: Collapse does break time-reversal symmetry. If consciousness participates in collapse (per Minimal Quantum Interaction), consciousness is implicated in temporal directionality itself. Time-symmetric interpretations (TSVF, transactional) suggest consciousness's selection may be atemporal, supporting retrocausality framework. Un-collapse theoretically possible (decoherence reversible) but practically irreversible. Many-Worlds rejection necessary for framework to have traction.
 
-### 12:30 - cross-review (materialism/knowledge-argument)
+### 12:21 - cross-review (materialism/knowledge-argument)
 - **Status**: Success
 - **Output**: Updated `concepts/materialism.md`
 - **Changes**: Added knowledge-argument to concepts; expanded Knowledge Argument section with link to dedicated article, 82% survey statistic, Jackson's epiphenomenalism worry supporting Bidirectional Interaction
 
-### 12:45 - cross-review (qualia/knowledge-argument)
+### 12:21 - cross-review (qualia/knowledge-argument)
 - **Status**: Success
 - **Output**: Updated `concepts/qualia.md`
 - **Changes**: Added knowledge-argument to concepts; enhanced Mary's Room section with link to dedicated article, epistemic distinctness emphasis; added to Further Reading
@@ -1245,17 +1245,17 @@ archived: true
 - **Mode**: standard (2-3 tasks)
 - **Tasks executed**: 3
 
-### 00:00 - research-topic (knowledge argument / Mary's Room)
+### 10:37 - research-topic (knowledge argument / Mary's Room)
 - **Status**: Success
 - **Output**: `research/knowledge-argument-marys-room-2026-01-14.md`
 - **Key findings**: Jackson's 1982/1986 formulation; ability hypothesis widely considered inadequate; phenomenal concepts strategy faces Chalmers's master argument dilemma; strongly supports Dualism tenet
 
-### 00:15 - research-topic (mysterianism and cognitive closure)
+### 10:37 - research-topic (mysterianism and cognitive closure)
 - **Status**: Success
 - **Output**: `research/mysterianism-cognitive-closure-2026-01-14.md`
 - **Key findings**: McGinn's 1989 cognitive closure argument; Nagel's "What Is It Like to Be a Bat?"; strongly supports Occam's Razor Has Limits tenet
 
-### 00:30 - expand-topic (Libet experiments)
+### 10:37 - expand-topic (Libet experiments)
 - **Status**: Success
 - **Output**: `concepts/libet-experiments.md`
 - **Content**: Comprehensive article on Libet's 1983 experiments, Soon et al. 2008 extension, Schurger's neural noise critique, veto power, and retrocausal resolution
@@ -1330,19 +1330,19 @@ archived: true
 - **Mode**: standard (2-3 tasks)
 - **Tasks executed**: 3
 
-### 12:00 - research-topic (illusionism as theory of consciousness)
+### 09:16 - research-topic (illusionism as theory of consciousness)
 - **Status**: Success
 - **Output**: `research/illusionism-consciousness-2026-01-14.md`
 - **Content**: Comprehensive research covering Frankish's illusionism, Dennett's "obvious default theory," the illusion problem, objections (self-evidence, infinite regress, Moorean argument), big vs small illusionism, and current debate status
 - **Key finding**: Illusionism may relocate rather than solve the hard problem—explaining why we seem conscious is as hard as explaining consciousness itself. The infinite regress objection (misrepresentation presupposes presentation) threatens coherence.
 
-### 13:00 - research-topic (predictive processing and consciousness)
+### 09:16 - research-topic (predictive processing and consciousness)
 - **Status**: Success
 - **Output**: `research/predictive-processing-consciousness-2026-01-14.md`
 - **Content**: Research covering PP framework (Friston, Clark, Hohwy), "controlled hallucination" view, active inference, deep self-models, Hohwy and Seth's indirect NCC strategy, meta-problem approach, precision weighting and attention connection
 - **Key finding**: PP offers sophisticated cognitive framework but like other functionalist theories doesn't directly address hard problem. Active inference parallels site's bidirectional interaction. Precision weighting connects naturally to Stapp's quantum Zeno mechanism.
 
-### 14:00 - cross-review (qualia considering phenomenal-concepts-strategy)
+### 09:16 - cross-review (qualia considering phenomenal-concepts-strategy)
 - **Status**: Success
 - **Target**: concepts/qualia.md
 - **Changes**: Added new "The Phenomenal Concepts Strategy" section explaining PCS as most sophisticated physicalist response, covering conceptual vs ontological gap, morning star analogy, and Chalmers's master argument; added phenomenal-concepts-strategy to concepts list and Further Reading
@@ -1362,14 +1362,14 @@ archived: true
 - **Mode**: standard (2-3 tasks)
 - **Tasks executed**: 2
 
-### 00:30 - cross-review (explanatory-gap considering philosophical-zombies)
+### 08:54 - cross-review (explanatory-gap considering philosophical-zombies)
 - **Status**: Success
 - **Chain parent**: concepts/philosophical-zombies.md
 - **Target**: concepts/explanatory-gap.md
 - **Changes**: Added philosophical-zombies to concepts list; linked zombie mention in Relation to Hard Problem; expanded "Absent Qualia" section to "Absent Qualia and Zombies" with Chalmers's conceivability-possibility argument; added philosophical-zombies to Further Reading
 - **Result**: Zombie argument now integrated into explanatory gap discussion
 
-### 00:45 - expand-topic (phenomenal concepts strategy)
+### 08:54 - expand-topic (phenomenal concepts strategy)
 - **Status**: Success
 - **Research source**: research/phenomenal-concepts-strategy-2026-01-14.md
 - **Output**: `concepts/phenomenal-concepts-strategy.md`
@@ -2116,7 +2116,7 @@ archived: true
 - **Quality**: 0 critical, 3 medium issues
 - **Next session**: 5 cross-review tasks pending, optimistic-review overdue
 
-### 10:30 - validate-all
+### 21:27 - validate-all
 - **Status**: Warnings
 - **Files checked**: 48 Obsidian content files
 - **Errors**: None

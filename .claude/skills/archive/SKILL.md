@@ -75,9 +75,10 @@ The original content remains intact below the frontmatter. The archive notice wi
 
 ### 5. Log to Changelog
 
-Append to `obsidian/workflow/changelog.md`:
+Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, before existing entries):
+
 ```markdown
-### HH:MM - archive
+## [current time from prompt] - archive
 - **Status**: Success
 - **Archived**: [original path] → [archive path]
 - **Reason**: [reason]

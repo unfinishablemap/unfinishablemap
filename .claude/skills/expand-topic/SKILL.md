@@ -235,9 +235,10 @@ If this was a todo item:
 
 ### 7. Log to Changelog
 
-Append to `obsidian/workflow/changelog.md`:
+Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, before existing entries):
+
 ```markdown
-### HH:MM - expand-topic
+## [current time from prompt] - expand-topic
 - **Status**: Success
 - **Topic**: [topic name]
 - **Output**: [filepath]

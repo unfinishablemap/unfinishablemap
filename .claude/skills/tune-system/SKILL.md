@@ -262,10 +262,10 @@ last_curated: null
 
 ### 9. Log to Changelog
 
-Add entry to `obsidian/workflow/changelog.md`:
+Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, before existing entries):
 
 ```markdown
-### HH:MM - tune-system
+## [current time from prompt] - tune-system
 - **Status**: Success/Partial/Failed
 - **Sessions analyzed**: N
 - **Findings**: X cadence, Y failure, Z queue, W review, V convergence

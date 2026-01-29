@@ -139,9 +139,10 @@ If references were found to archived articles, create a follow-up task:
 
 ### 8. Log to Changelog
 
-Append to `obsidian/workflow/changelog.md`:
+Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, before existing entries):
+
 ```markdown
-### HH:MM - coalesce
+## [current time from prompt] - coalesce
 - **Status**: Success
 - **Sources**: [list of source files]
 - **Target**: [new article path]

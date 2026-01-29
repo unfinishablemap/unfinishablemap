@@ -167,10 +167,10 @@ ai_contribution: [increase appropriately]
 
 ### 7. Log to Changelog
 
-Append to `obsidian/workflow/changelog.md`:
+Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, before existing entries):
 
 ```markdown
-### HH:MM - condense
+## [current time from prompt] - condense
 - **Status**: Success
 - **File**: [filepath]
 - **Before**: [word count]

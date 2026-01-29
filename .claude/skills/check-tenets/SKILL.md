@@ -117,7 +117,16 @@ ai_system: [current model]
 
 ### 5. Log to Changelog
 
-Append summary to `obsidian/workflow/changelog.md`.
+Prepend entry to `obsidian/workflow/changelog.md` (add immediately after frontmatter, before existing entries):
+
+```markdown
+## [current time from prompt] - check-tenets
+- **Status**: Success/Warnings
+- **Files checked**: [count]
+- **Errors**: [count]
+- **Warnings**: [count]
+- **Output**: [filepath]
+```
 
 ## Important
 

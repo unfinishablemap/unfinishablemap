@@ -313,10 +313,10 @@ If significant issues remain that couldn't be addressed in this session:
 
 ### 9. Log to Changelog
 
-Append to `obsidian/workflow/changelog.md`:
+Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, before existing entries):
 
 ```markdown
-### HH:MM - deep-review
+## [current time from prompt] - deep-review
 - **Status**: Success
 - **File**: [filepath]
 - **Word count**: [before] → [after] ([+/-change])

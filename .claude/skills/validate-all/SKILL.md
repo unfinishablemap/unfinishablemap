@@ -79,18 +79,12 @@ Report critical and hard warnings. Note soft warnings only if concerning trend.
 
 ### 6. Log Results
 
-Append results to `obsidian/workflow/changelog.md` with:
-- Timestamp
-- Status (Success/Warnings/Errors)
-- Count of files validated
-- Any errors or warnings found
-- List of orphaned content (if any)
-- List of stale drafts (if any)
+Prepend results to `obsidian/workflow/changelog.md` (add immediately after frontmatter, before existing entries).
 
 ## Output Format
 
 ```markdown
-### HH:MM - validate-all
+## [current time from prompt] - validate-all
 - **Status**: Success/Warnings/Errors
 - **Files validated**: N
 - **Errors**: List or "None"

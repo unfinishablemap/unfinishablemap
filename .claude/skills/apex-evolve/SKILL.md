@@ -181,9 +181,9 @@ Create `obsidian/reviews/apex-evolve-[date]-[slug].md` containing:
 
 ### Step 10: Log and Commit
 
-1. Log to `obsidian/workflow/changelog.md`:
+1. Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, before existing entries):
    ```
-   ## [timestamp] apex-evolve
+   ## [current time from prompt] - apex-evolve
    - **Status**: Complete
    - **Article**: [title]
    - **Changed sources**: [count]

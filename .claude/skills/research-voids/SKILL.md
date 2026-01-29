@@ -187,10 +187,10 @@ If this was triggered by the evolution loop:
 
 ### 8. Log to Changelog
 
-Append to `obsidian/workflow/changelog.md`:
+Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, before existing entries):
 
 ```markdown
-### HH:MM - research-voids
+## [current time from prompt] - research-voids
 - **Status**: Success
 - **Topic**: [selected topic]
 - **Category**: Unexplored/Unexplorable/Occluded

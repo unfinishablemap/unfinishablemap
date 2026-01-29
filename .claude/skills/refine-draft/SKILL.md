@@ -165,9 +165,10 @@ If significant issues remain, create a new todo:
 
 ### 10. Log to Changelog
 
-Append to `obsidian/workflow/changelog.md`:
+Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, before existing entries):
+
 ```markdown
-### HH:MM - refine-draft
+## [current time from prompt] - refine-draft
 - **Status**: Success
 - **File**: [filepath]
 - **Original score**: X/10

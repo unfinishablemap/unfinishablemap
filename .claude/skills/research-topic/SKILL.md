@@ -140,7 +140,15 @@ If this was a todo item, mark it complete and note the output file.
 
 ### 6. Log to Changelog
 
-Append summary to `obsidian/workflow/changelog.md`.
+Prepend entry to `obsidian/workflow/changelog.md` (add immediately after frontmatter, before existing entries):
+
+```markdown
+## [current time from prompt] - research-topic
+- **Status**: Success
+- **Topic**: [topic name]
+- **Output**: [filepath]
+- **Sources consulted**: [count]
+```
 
 ## Important
 
