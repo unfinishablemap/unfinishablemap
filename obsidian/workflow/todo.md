@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Deep review hard-problem-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: Flagship topics article (ai_contribution=100) covering the site's central philosophical challenge. Never deep-reviewed since creation. Should verify: (1) accuracy of Chalmers' formulation and related arguments, (2) fair treatment of physicalist responses (type-B materialism, illusionism), (3) connection to the site's five tenets, (4) integration with related content (explanatory-gap, qualia, knowledge-argument).
+- **Source**: staleness
+- **Generated**: 2026-01-29
+
+### P1: Deep review free-will.md
+- **Type**: deep-review
+- **Notes**: Flagship topics article (ai_contribution=100) on libertarian free will and consciousness. Never deep-reviewed since creation. Should verify: (1) accuracy of libertarian, compatibilist, and hard determinist positions, (2) engagement with luck objection and manipulation arguments, (3) proper treatment of quantum Zeno mechanism (per pessimistic review, this is currently over-relied upon), (4) alignment with Bidirectional Interaction and No Many Worlds tenets.
+- **Source**: staleness
+- **Generated**: 2026-01-29
+
+### P1: Deep review argument-from-reason.md
+- **Type**: deep-review
+- **Notes**: Key topics article (ai_contribution=100) presenting the argument that reasoning requires consciousness. Central to the site's case against epiphenomenalism and AI consciousness. Never deep-reviewed. Should verify: (1) accuracy of C.S. Lewis, Plantinga, and Reppert formulations, (2) engagement with physicalist responses (evolutionary debunking, reliabilism), (3) connection to self-stultification argument and cognitive phenomenology, (4) alignment with Bidirectional Interaction tenet.
+- **Source**: staleness
+- **Generated**: 2026-01-29
+
+### P2: Condense limits-reveal-structure.md (3003 words, 100% of threshold)
+- **Type**: condense
+- **Notes**: Voids article exceeds 3000-word hard threshold. Covers how cognitive limits themselves reveal structure of the mind. Preserve: core argument that limits are informative rather than merely negative, connection to mysterianism, examples from apophatic traditions. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-29
+
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
