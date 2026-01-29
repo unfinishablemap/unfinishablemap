@@ -49,6 +49,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-01-28
 
+### P2: Write article on delegatory dualism (Bradford Saad)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Saad's 2025 paper "A dualist theory of experience" presents delegatory dualism—a novel interactionist position where physical states "delegate" causal responsibilities to matching experiences. Addresses causal exclusion without overdetermination. Strong alignment with Bidirectional Interaction and Dualism tenets. Consider placement in concepts/ as treatment of a specific philosophical position.
+- **Source**: chain (from bradford-saad-delegatory-dualism-2026-01-28.md)
+- **Generated**: 2026-01-29
+
 ### P3: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) develops evidence for cross-cultural universal cognitive limits (bias blind spot, mystical experiences). The collective-cognitive-limits.md article covers group-level limits (paradigm blindness, Overton windows). Check for: (1) cross-links between individual-universal and group-level limits, (2) whether convergent limits strengthen the case that some voids are species-level rather than cultural, (3) opportunities to distinguish group dynamics from individual architecture.
