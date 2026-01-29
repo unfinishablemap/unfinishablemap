@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review objections-to-interactionism.md considering delegatory-dualism.md
-- **Type**: cross-review
-- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) addresses the overdetermination objection to interactionism. Check concepts/objections-to-interactionism.md for: (1) cross-links to Saad's response, (2) whether delegatory dualism addresses other listed objections, (3) updates needed for the "causal exclusion" section given Saad's preemption solution.
-- **Source**: chain (from delegatory-dualism.md)
-- **Generated**: 2026-01-29
-
-### P2: Create concept page for neuroplasticity
-- **Type**: expand-topic
-- **Notes**: Referenced in stapp-quantum-mind.md and attention articles but lacks dedicated page. Neuroplasticity—the brain's ability to reorganize—is relevant to the attention-as-interface framework: Schwartz's OCD research shows that directed mental attention can reshape neural circuits. Directly supports bidirectional interaction tenet with empirical evidence. Promoted from P3 due to importance for quantum-consciousness framework.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-29
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -830,6 +818,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Create concept page for neuroplasticity
+- **Type**: expand-topic
+- **Notes**: Referenced in stapp-quantum-mind.md and attention articles but lacks dedicated page. Neuroplasticity—the brain's ability to reorganize—is relevant to the attention-as-interface framework: Schwartz's OCD research shows that directed mental attention can reshape neural circuits. Directly supports bidirectional interaction tenet with empirical evidence. Promoted from P3 due to importance for quantum-consciousness framework.
+- **Output**: Create concept page for neuroplasticity
+
+### ✓ 2026-01-29: Cross-review objections-to-interactionism.md considering delegatory-dualism.md
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) addresses the overdetermination objection to interactionism. Check concepts/objections-to-interactionism.md for: (1) cross-links to Saad's response, (2) whether delegatory dualism addresses other listed objections, (3) updates needed for the "causal exclusion" section given Saad's preemption solution.
+- **Output**: obsidian/concepts/objections-to-interactionism.md -- Context: Cross-review objections-to-interactionism.md considering delegatory-dualism.md
 
 ### ✓ 2026-01-29: Write voids article on topology of cognitive failure
 - **Type**: expand-topic

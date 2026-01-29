@@ -17,6 +17,26 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 12:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Neuroplasticity
+- **Output**: `concepts/neuroplasticity.md`
+- **Word count**: 1648
+- **Based on research**: No (general knowledge; topic referenced extensively in existing articles)
+- **Notes**: Created concept page for neuroplasticity—the brain's ability to reorganise through experience. Focuses on Schwartz's OCD research as key evidence for bidirectional interaction tenet. Connects to mental-effort.md, stapp-quantum-mind.md, attention-as-interface.md. Addresses epiphenomenalist response and explains why neuroplasticity is harder to square with epiphenomenalism than interactionism.
+
+## 2026-01-29 08:28 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/objections-to-interactionism.md`
+- **Context**: Cross-review considering delegatory-dualism.md
+- **Word count**: 3406 → 3465 (+59)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (delegatory dualism cross-reference, observational closure)
+- **Enhancements made**: 6 (new response section, frontmatter update, summary table, further reading, relation section, prose tightening)
+- **Output**: `reviews/deep-review-2026-01-29-objections-to-interactionism.md`
+
 ## 2026-01-29 08:21 UTC - apex-evolve
 
 - **Status**: Success
