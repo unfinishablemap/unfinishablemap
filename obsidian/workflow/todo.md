@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on consciousness and intelligence relationship
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-influence-intelligence-2026-01-21.md. Strong evidence that consciousness causally contributes to intelligence through flexible responses, logical reasoning, counterfactual thinking, and metacognitive monitoring. The great ape-human gap correlates with enhanced metacognition and theory of mind. Supports Bidirectional Interaction tenet with evolutionary argument against epiphenomenalism.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-29
+
+### P2: Cross-review free-will.md considering counterfactual-reasoning insights
+- **Type**: cross-review
+- **Notes**: New article concepts/counterfactual-reasoning.md (2026-01-28) develops the claim that counterfactual reasoning requires consciousness—explicitly representing non-actual states demands integrated processing beyond baseline cognition. The free-will.md article discusses libertarian choice. Check for: (1) cross-links to counterfactual reasoning treatment, (2) whether the counterfactual capacity argument strengthens the case for consciousness's role in free choice, (3) consistency in how "imagining alternatives" is treated.
+- **Source**: chain (from counterfactual-reasoning.md)
+- **Generated**: 2026-01-29
+
+### P2: Cross-review baseline-cognition.md considering counterfactual-reasoning insights
+- **Type**: cross-review
+- **Notes**: New article concepts/counterfactual-reasoning.md (2026-01-28) argues that counterfactual reasoning is precisely what distinguishes human intelligence from great ape cognition. The baseline-cognition.md article discusses what neurons achieve alone. Check for: (1) cross-links to counterfactual reasoning, (2) whether the "zone of latent solutions" discussion connects to counterfactual capacity, (3) clarity on why counterfactual reasoning requires consciousness rather than just more sophisticated neural processing.
+- **Source**: chain (from counterfactual-reasoning.md)
+- **Generated**: 2026-01-29
+
+### P2: Condense first-person-third-person-methodology-2026-01-23.md (4271 words, 122% of threshold)
+- **Type**: condense
+- **Notes**: Research file exceeds 3500-word hard threshold for research/. Covers the debate between first-person phenomenological methods and third-person scientific observation in consciousness studies. Preserve: key methodological distinctions, Varela's neurophenomenology, implications for consciousness science. May need reorganization rather than pure condensation. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-29
+
+### P2: Deep review machine-consciousness.md
+- **Type**: deep-review
+- **Notes**: Core AI consciousness article (ai_contribution: 100), last_deep_review invalid/never. Given rapid developments in AI, this article should be reviewed for: (1) accuracy of substrate independence arguments, (2) engagement with current AI capabilities, (3) connection to llm-consciousness.md and the Map's overall AI position, (4) alignment with all five tenets especially Dualism.
+- **Source**: staleness
+- **Generated**: 2026-01-29
+
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
