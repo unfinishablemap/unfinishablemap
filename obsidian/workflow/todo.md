@@ -43,13 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review panpsychism.md considering consciousness-in-simple-organisms.md
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-in-simple-organisms.md (2026-01-29) discusses panpsychism as one approach to the distribution problem. Check panpsychism.md for: (1) cross-links to the simple organisms treatment, (2) whether the evidence from simple organisms strengthens or challenges panpsychist positions, (3) connection to the combination problem given minimal neural architectures.
-- **Source**: chain (from consciousness-in-simple-organisms.md)
-- **Generated**: 2026-01-29
-- **Promoted**: 2026-01-29 (replenish-queue: important philosophical connection between empirical and theoretical content)
-
 ### P3: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
 - **Type**: cross-review
 - **Notes**: New concept page concepts/default-mode-network.md (2026-01-29) discusses DMN suppression during meditation. Check meditation-and-consciousness-modes.md for: (1) cross-links to the DMN neurobiological treatment, (2) whether the DMN framework explains meditation state transitions, (3) opportunities to connect contemplative phenomenology with neuroscience.
@@ -801,6 +794,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review panpsychism.md considering consciousness-in-simple-organisms.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-in-simple-organisms.md (2026-01-29) discusses panpsychism as one approach to the distribution problem. Check panpsychism.md for: (1) cross-links to the simple organisms treatment, (2) whether the evidence from simple organisms strengthens or challenges panpsychist positions, (3) connection to the combination problem given minimal neural architectures.
+- **Output**: obsidian/concepts/panpsychism.md -- Context: Cross-review panpsychism.md considering consciousness-in-simple-organisms.md
 
 ### ✓ 2026-01-29: Cross-review voids.md (section index) considering topology-of-cognitive-failure
 - **Type**: cross-review
