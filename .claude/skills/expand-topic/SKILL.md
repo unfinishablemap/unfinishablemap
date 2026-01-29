@@ -74,6 +74,73 @@ Before writing, review `obsidian/tenets/tenets.md` and ensure the article will:
 
 ### 5. Generate Article
 
+**CRITICAL: Source Attribution Discipline**
+
+Before writing, understand these rules to prevent misattribution errors:
+
+#### 5.1 Two-Channel Structure (Required for Research-Based Articles)
+
+When the article is based on a specific source (research paper, book, philosopher's work), structure content into two clearly separated channels:
+
+**Channel A: Source Exposition** — What the author actually claims
+- Use hedged language: "X argues...", "According to X...", "X's framework..."
+- Include verbatim short quotes (≤25 words) for load-bearing definitions
+- Do NOT inject Map perspective here
+- Do NOT attribute claims the author didn't make
+
+**Channel B: Map Integration** — How the Map interprets or builds on this
+- Clearly label: "## Relation to Site Perspective" or "## Map Integration"
+- Use explicit framing: "The Map interprets this as...", "This aligns with the Map's tenet..."
+- Speculation must be flagged: "The Map speculates that..." or "One possible integration..."
+
+**Never interleave these channels.** Keep source exposition and Map interpretation in separate sections.
+
+#### 5.2 Quote-and-Cite Gates
+
+For any named law, constraint, or technical definition attributed to a source:
+- Include a verbatim short quote (≤25 words) with citation
+- Preserve crucial qualifiers (e.g., "default causal profile" not just "causal profile")
+- If the source says "X or at least Y", don't simplify to just "X"
+
+Example of qualifier preservation:
+- ✗ "Wherever information exists, it has phenomenal character"
+- ✓ "Information (or at least some information) has two aspects" — with note that Chalmers treats universal scope as open question
+
+#### 5.3 Position Strength Calibration
+
+Match claim strength to what the source actually says:
+
+| Source says | Article should say |
+|-------------|-------------------|
+| "explores" / "worth investigating" | "X explores..." (not "X argues" or "X shows") |
+| "has sympathy for" | "X expresses sympathy for..." (not "X rejects alternatives") |
+| "one option is" | "One approach X considers..." (not "X's framework requires") |
+| "explicitly argues" | "X argues..." (can use stronger framing) |
+
+**Never attribute a commitment the source doesn't make.** Especially for:
+- Quantum interpretation commitments (collapse vs MWI)
+- Whether something is "required" vs "one possible mechanism"
+- Strong claims like "solves" or "answers" vs "addresses" or "responds to"
+
+#### 5.4 Research-Note Alignment Check
+
+If a research note exists for this topic:
+1. Read the matching research note
+2. Extract the 5 most important claims
+3. Verify the article doesn't contradict them
+4. If diverging from research notes, explain why explicitly
+
+#### 5.5 Non-Contradiction Self-Check
+
+Before finalizing, verify:
+- [ ] Did I claim the theory is both X-dependent and X-independent?
+- [ ] Did I attribute to the author claims they didn't discuss?
+- [ ] Did I drop technically essential qualifiers?
+- [ ] Did I present exploratory positions as commitments?
+- [ ] Did I inject Map arguments as if they were the source's arguments?
+
+---
+
 Use the existing generation tool:
 ```bash
 uv run python scripts/generate.py article "[Topic Title]" --style exploratory
@@ -102,17 +169,20 @@ last_curated:
 
 [Opening paragraph - accessible hook into the topic]
 
-## [First Major Section]
+## [First Major Section - Source Exposition]
 
-[Content...]
+[What the source actually claims, with quotes for key definitions]
 
-## [Second Major Section]
+## [Second Major Section - Source Exposition]
 
-[Content...]
+[Continue source exposition...]
 
 ## Relation to Site Perspective
 
-[How this topic connects to the Map's tenets - be explicit]
+[CLEARLY SEPARATED: How the Map interprets this work]
+[Use explicit framing: "The Map interprets...", "This aligns with..."]
+[Flag speculation: "The Map speculates that..."]
+[Do NOT present Map arguments as if they came from the source]
 
 ## Further Reading
 
@@ -216,3 +286,15 @@ Follow the comprehensive guidance in `obsidian/project/writing-style.md`.
 - ALWAYS include current model in `ai_system`
 - ALWAYS update `ai_modified` timestamp
 - Content must align with site tenets
+
+### Attribution Discipline (Critical)
+
+These errors have been caught by outer reviews and cause real damage to credibility:
+
+- **NEVER attribute claims to an author who didn't make them** — If the source doesn't discuss X, don't say "Author argues X"
+- **NEVER drop crucial qualifiers** — "Default causal profile" is not the same as "causal profile"
+- **NEVER strengthen hedged positions** — "Explores" ≠ "argues"; "has sympathy for" ≠ "rejects alternatives"
+- **NEVER present Map interpretations as source claims** — Keep source exposition and Map integration in separate sections
+- **NEVER claim shared commitments without verification** — Check if the author actually shares our position before claiming alignment
+
+When in doubt, hedge toward the source's actual language.

@@ -48,6 +48,36 @@ This provides:
 - Improvements list with priorities
 - Missing concepts
 
+### 3.5 Attribution Accuracy Check (Required for Source-Based Articles)
+
+If the article is based on a specific source (research paper, philosopher's work), run this checklist:
+
+#### Misattribution Check
+- [ ] Are all claims attributed to the source actually in the source?
+- [ ] Did we attribute framework/constraints to the right author? (e.g., "five constraints" are Saad's, not Chalmers')
+- [ ] Did we claim the author discusses something they don't? (e.g., "Many-Worlds" when they don't mention it)
+
+#### Qualifier Preservation Check
+- [ ] Are crucial qualifiers preserved? ("default causal profile" not just "causal profile")
+- [ ] Did we change "X or at least Y" to just "X"?
+- [ ] Did we change "some" to "all" or "wherever"?
+
+#### Position Strength Check
+- [ ] Did we present exploratory positions as commitments?
+- [ ] Did we claim shared commitments that aren't shared? (e.g., "shares our rejection of MWI" when author expresses "sympathy for MWI")
+- [ ] Did we use "solves" or "answers" when source uses "addresses" or "explores"?
+
+#### Source/Map Separation Check
+- [ ] Is source exposition clearly separated from Map interpretation?
+- [ ] Are Map-specific arguments (tenets, quantum interactionism) clearly labeled as such?
+- [ ] Did we inject Map arguments as if they came from the source?
+
+#### Self-Contradiction Check
+- [ ] Did we claim something is "not required" but also "required" in different sections?
+- [ ] Are claims about the theory's commitments consistent throughout?
+
+**If any check fails, fix the issue before proceeding to other improvements.**
+
 ### 4. Apply Improvements
 
 Based on the review, make targeted improvements following `obsidian/project/writing-style.md`.
@@ -165,6 +195,17 @@ Changes applied directly.
 - Don't remove content without clear reason
 - Don't change `draft: false` to `draft: true` on published content
 - Don't make stylistic changes just for the sake of change
+
+### Attribution Errors to Avoid
+
+These errors have been identified in outer reviews and must be fixed when found:
+
+- **Don't attribute framework X to author Y** when it's actually from author Z (e.g., "five constraints" are Saad's, not Chalmers')
+- **Don't claim an author discusses topic X** when they don't mention it (e.g., Saad doesn't discuss Many-Worlds)
+- **Don't drop crucial qualifiers** from definitions (e.g., "default causal profile" → "causal profile" loses essential meaning)
+- **Don't strengthen hedged claims** (e.g., "explores" → "argues"; "sympathy for X" → "rejects alternatives to X")
+- **Don't present Map interpretations as source claims** — keep Channel A (source) and Channel B (Map) separate
+- **Don't claim shared commitments that aren't shared** (e.g., claiming author "shares our rejection of MWI" when they express sympathy for MWI)
 
 ## Important
 
