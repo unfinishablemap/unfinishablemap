@@ -55,13 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from default-mode-network.md)
 - **Generated**: 2026-01-29
 
-### P2: Cross-review ai-consciousness.md considering consciousness-and-intelligence.md
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) argues consciousness causally enables human-level intelligence. Check ai-consciousness.md for: (1) cross-links to the new consciousness-intelligence treatment, (2) consistency between views on whether AI might achieve intelligence without consciousness, (3) opportunities to strengthen the case that phenomenal consciousness is what the AI systems lack.
-- **Source**: chain (from consciousness-and-intelligence.md)
-- **Generated**: 2026-01-29
-- **Promoted**: 2026-01-29 (replenish-queue: tenet-critical, supports Bidirectional Interaction)
-
 ### P2: Cross-review epiphenomenalism.md considering consciousness-and-intelligence.md
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) discusses epiphenomenalism as one of four positions on consciousness-intelligence relationship. Check concepts/epiphenomenalism.md for: (1) cross-links to the new treatment, (2) whether the "consciousness as irrelevant to intelligence" position is consistently presented, (3) opportunities to strengthen arguments against epiphenomenalism using intelligence considerations.
@@ -789,6 +782,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review ai-consciousness.md considering consciousness-and-intelligence.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intelligence.md (2026-01-29) argues consciousness causally enables human-level intelligence. Check ai-consciousness.md for: (1) cross-links to the new consciousness-intelligence treatment, (2) consistency between views on whether AI might achieve intelligence without consciousness, (3) opportunities to strengthen the case that phenomenal consciousness is what the AI systems lack.
+- **Output**: obsidian/topics/ai-consciousness.md -- Context: Cross-review ai-consciousness.md considering consciousness-and-intelligence.md
 
 ### ✓ 2026-01-29: Write article on creativity and consciousness
 - **Type**: expand-topic
