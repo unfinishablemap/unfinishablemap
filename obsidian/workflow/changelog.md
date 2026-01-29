@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 02:07 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: Attention-created voids
+- **Category**: Unexplorable / Mixed
+- **Output**: `research/voids-attention-created-voids-2026-01-29.md`
+- **Key finding**: Attention doesn't merely fail to illuminate everything—it *necessarily produces* unattendable territory through its own operation. The figure-ground structure, penumbral suppression, and prioritization logic mean that every act of attending creates corresponding voids.
+- **Article angles**: The Penumbra Void, Figure Creates Ground, James's Unfocusable Fringes, The Void-Making Mechanism
+
 ## 2026-01-29 17:35 UTC - condense
 
 - **Status**: Success
