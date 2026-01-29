@@ -4,7 +4,7 @@ description: "How quantum mechanics creates logical space for libertarian free w
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-29T12:00:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-01-20T12:00:00+00:00
+last_deep_review: 2026-01-29T12:00:00+00:00
 ---
 
 Quantum mechanics provides the only genuine indeterminacy in fundamental physics—and this creates logical space for libertarian free will that determinism forecloses. The relationship is contested: critics argue that quantum randomness yields "random will" rather than "free will," no better than determinism. This page systematizes how quantum indeterminacy supports free will when combined with consciousness as selector, answering the [[luck-objection|luck objection]] through the [[quantum-consciousness|quantum Zeno mechanism]] and [[agent-causation|agent-causal]] metaphysics.
@@ -70,7 +70,7 @@ The Map's framework is [[agent-causation|agent-causal]]. Roderick Chisholm disti
 
 On this view, the agent as persisting substance directly causes actions. Quantum indeterminacy provides the opening; the agent provides the selection. The explanatory buck stops at the agent's exercise of causal power, which is reasons-responsive rather than arbitrary.
 
-Timothy O'Connor's neo-Aristotelian framework (2021) treats low-level indeterminacy as enabling agent causation without requiring it to operate at the macroscopic level. Consciousness interfaces with physics at quantum indeterminacies; the agent's choices emerge from this interface.
+Timothy O'Connor's neo-Aristotelian framework treats low-level indeterminacy as enabling agent causation without requiring it to operate at the macroscopic level. Consciousness interfaces with physics at quantum indeterminacies; the agent's choices emerge from this interface.
 
 ## The Luck Objection: The Central Challenge
 
