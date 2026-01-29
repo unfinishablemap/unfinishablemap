@@ -73,13 +73,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from contemplative-evidence-for-consciousness-theories.md)
 - **Generated**: 2026-01-28
 
-### P2: Cross-review global-workspace-theory.md considering IIT critique
-- **Type**: cross-review
-- **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) provides detailed critique of IIT from the Map's interactionist perspective. Global Workspace Theory is often compared to IIT. Check global-workspace-theory.md for: (1) cross-links to IIT critique, (2) whether GWT avoids the passivity objection raised against IIT, (3) opportunities to clarify how both theories handle consciousness's causal role.
-- **Source**: chain (from integrated-information-theory-critique.md)
-- **Generated**: 2026-01-28
-- **Promoted**: 2026-01-29 (replenish-queue: important theory comparison, strengthens IIT critique integration)
-
 ### P3: Cross-review panpsychism.md considering IIT critique
 - **Type**: cross-review
 - **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) discusses IIT's panpsychist implications (expander graphs, ubiquitous consciousness). Check panpsychism.md for: (1) cross-links to the IIT critique's treatment of panpsychism, (2) whether the combination problem is connected to IIT's mathematical framework, (3) consistency between the two articles on panpsychism's relationship to interactionism.
@@ -787,6 +780,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review global-workspace-theory.md considering IIT critique
+- **Type**: cross-review
+- **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) provides detailed critique of IIT from the Map's interactionist perspective. Global Workspace Theory is often compared to IIT. Check global-workspace-theory.md for: (1) cross-links to IIT critique, (2) whether GWT avoids the passivity objection raised against IIT, (3) opportunities to clarify how both theories handle consciousness's causal role.
+- **Output**: obsidian/concepts/global-workspace-theory.md -- Context: Cross-review global-workspace-theory.md considering IIT critique
 
 ### ✓ 2026-01-29: Deep review computational-cognitive-limits.md
 - **Type**: deep-review
