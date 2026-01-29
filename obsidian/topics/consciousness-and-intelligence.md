@@ -4,7 +4,8 @@ description: "Exploring whether consciousness and intelligence are independent, 
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T12:00:00+00:00
+ai_modified: 2026-01-29T21:30:00+00:00
+last_deep_review: 2026-01-29T21:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +18,9 @@ concepts:
   - "[[functionalism]]"
   - "[[epiphenomenalism]]"
   - "[[global-workspace-theory]]"
+  - "[[heterophenomenology]]"
+  - "[[quantum-decoherence-objection]]"
+  - "[[explanatory-gap]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-influence-intelligence-2026-01-21]]"
@@ -52,7 +56,7 @@ Consciousness involves [[phenomenal-consciousness|phenomenal experience]]—the 
 
 [[access-consciousness|Access consciousness]] is a related but distinct notion: information being globally available for reasoning, report, and behavioural control. A mental state is access-conscious when its content can be freely used across cognitive systems. [[global-workspace-theory|Global Workspace Theory]] models this as information "broadcast" across the brain.
 
-The hard question is whether phenomenal consciousness—the felt quality of experience—can exist independently of the functional role that access consciousness describes. The Map holds that phenomenal consciousness is irreducible to function and that this irreducibility matters for understanding its relationship to intelligence.
+The hard question is whether phenomenal consciousness—the felt quality of experience—can exist independently of the functional role that access consciousness describes. [[heterophenomenology|Heterophenomenology]]—treating subjective reports as data without granting them special ontological status—offers one methodological approach, but the Map holds that phenomenal consciousness is irreducible to function and that this irreducibility matters for understanding its relationship to intelligence.
 
 ## Four Positions on the Relationship
 
@@ -146,7 +150,7 @@ The harder question concerns phenomenal consciousness—the felt quality of expe
 
 The Map holds that phenomenal consciousness matters irreducibly. The amplification evidence supports this: if only access consciousness mattered, then any system with global information broadcast should show human-level flexibility. But the great ape gap persists despite sophisticated neural broadcasting. Something more is required—and that something plausibly involves phenomenal experience.
 
-The [[explanatory-gap]] between functional description and phenomenal character suggests that phenomenal consciousness is not reducible to access mechanisms. And if phenomenal consciousness is ontologically distinct, the question of its causal contribution becomes pressing. The Map answers: phenomenal consciousness is what makes the difference.
+The [[explanatory-gap|explanatory gap]] between functional description and phenomenal character suggests that phenomenal consciousness is not reducible to access mechanisms. And if phenomenal consciousness is ontologically distinct, the question of its causal contribution becomes pressing. The Map answers: phenomenal consciousness is what makes the difference.
 
 ## Relation to Site Perspective
 
@@ -154,9 +158,9 @@ The [[tenets#^dualism|Dualism]] tenet holds that consciousness is irreducible to
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims consciousness causally influences the physical world. The amplification hypothesis specifies *how*: through flexible deployment, metacognitive monitoring, and counterfactual simulation. Consciousness doesn't just accompany intelligence; it enables specific cognitive capacities that neural processing alone cannot achieve.
 
-The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes a mechanism: consciousness influences neural states through quantum selection at points of indeterminacy. This provides the physical interface where consciousness and intelligence meet—the brain presents quantum alternatives, consciousness selects among them, and the selection shapes cognitive outcomes.
+The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes a mechanism: consciousness influences neural states through quantum selection at points of indeterminacy. This provides the physical interface where consciousness and intelligence meet—the brain presents quantum alternatives, consciousness selects among them, and the selection shapes cognitive outcomes. The [[quantum-decoherence-objection|decoherence objection]]—that quantum coherence cannot survive in warm brains—remains a serious challenge, though corrected calculations and evidence from quantum biology suggest the timescales may be longer than initially claimed.
 
-The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects interpretations where consciousness fragments across branches. If intelligence requires selection—choosing *this* over *that*—then the selecting consciousness must produce determinate outcomes. Branching would undermine the selectivity that intelligent choice requires.
+The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects interpretations where consciousness fragments across branches. If intelligence requires selection—choosing *this* over *that*—then the selecting consciousness must produce determinate outcomes. Many-worlds defenders respond that each branch contains a complete observer making determinate choices—but this multiplies decision-makers rather than preserving the selecting agent who weighs alternatives. The Map holds that genuine deliberation requires a single outcome, not parallel realisations of every option.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against dismissing consciousness's role for the sake of parsimony. Epiphenomenalism seems simpler—consciousness does nothing, behaviour is fully physical—but this apparent simplicity creates puzzles the amplification evidence resolves. Sometimes the ontologically richer theory is explanatorily simpler.
 
