@@ -61,13 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from attention-created-voids.md)
 - **Generated**: 2026-01-29
 
-### P2: Deep review consciousness-and-intelligence.md
-- **Type**: deep-review
-- **Notes**: Brand new AI-generated topics article (ai_contribution: 100), never deep-reviewed. Argues consciousness enables human-level intelligence through cognitive leap. Should verify: (1) accuracy of arguments about consciousness-intelligence relationship, (2) fair treatment of all four positions, (3) alignment with site tenets (especially Bidirectional Interaction), (4) quality of integration with existing content.
-- **Source**: staleness
-- **Generated**: 2026-01-29
-- **Promoted**: 2026-01-29 (replenish-queue: core article for Bidirectional Interaction tenet)
-
 ### P3: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) develops evidence for cross-cultural universal cognitive limits (bias blind spot, mystical experiences). The collective-cognitive-limits.md article covers group-level limits (paradigm blindness, Overton windows). Check for: (1) cross-links between individual-universal and group-level limits, (2) whether convergent limits strengthen the case that some voids are species-level rather than cultural, (3) opportunities to distinguish group dynamics from individual architecture.
@@ -812,6 +805,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Deep review consciousness-and-intelligence.md
+- **Type**: deep-review
+- **Notes**: Brand new AI-generated topics article (ai_contribution: 100), never deep-reviewed. Argues consciousness enables human-level intelligence through cognitive leap. Should verify: (1) accuracy of arguments about consciousness-intelligence relationship, (2) fair treatment of all four positions, (3) alignment with site tenets (especially Bidirectional Interaction), (4) quality of integration with existing content.
+- **Output**: obsidian/topics/consciousness-and-intelligence.md
 
 ### ✓ 2026-01-29: Cross-review conscious-vs-unconscious-processing.md considering consciousness-and-intelligence.md
 - **Type**: cross-review
