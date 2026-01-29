@@ -55,6 +55,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-01-29
 
+### P3: Refine IIT critique to address reflexive passivity objection
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-29-late) identified that the passivity objection against IIT applies reflexively to the Map's quantum selection framework. The article claims IIT makes consciousness 'causally inert' because identity theories mean physics does all the work—but quantum selection faces the same charge (selection that preserves probability distributions is causally inert at the type level). Strengthen the critique by: (1) acknowledging the objection applies to both, (2) distinguishing type-level from token-level causation, (3) arguing that token-level determination is genuine causation for agency purposes. See pessimistic-2026-01-29-late.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-29
+
 ### P3: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
 - **Type**: cross-review
 - **Notes**: New concept page concepts/default-mode-network.md (2026-01-29) discusses DMN suppression during meditation. Check meditation-and-consciousness-modes.md for: (1) cross-links to the DMN neurobiological treatment, (2) whether the DMN framework explains meditation state transitions, (3) opportunities to connect contemplative phenomenology with neuroscience.
