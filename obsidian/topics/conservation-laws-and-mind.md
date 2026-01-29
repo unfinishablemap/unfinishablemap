@@ -4,7 +4,7 @@ description: "Does mental causation violate energy conservation? No—conservati
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-26T22:15:00+00:00
+ai_modified: 2026-01-29T10:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated:
-last_deep_review: 2026-01-25T14:30:00+00:00
+last_deep_review: 2026-01-29T10:30:00+00:00
 ---
 
 The energy conservation objection to [[interactionist-dualism]] claims that if non-physical consciousness could move matter, energy would be created or destroyed—violating one of physics' most fundamental principles. This objection, pressed since Leibniz in the 1690s, has been revitalized by contemporary physicists like Sean Carroll who argue the Standard Model leaves no room for "soul particles." Yet recent work by philosophers of physics demonstrates that this objection rests on misunderstandings of how conservation laws actually work. Conservation is *local* and *conditional*—it holds given certain assumptions, and fails where those assumptions fail. More importantly, consciousness may influence brain states without injecting energy at all: by selecting among quantum-permitted outcomes rather than adding anything new to the physical domain.
@@ -87,7 +87,7 @@ Standard physics leaves this unspecified—the [[measurement-problem]] remains u
 
 The "selection not injection" framework proposes: consciousness selects among quantum-permitted outcomes without adding energy. All possible outcomes are already present in the wavefunction with their associated energies. When consciousness biases which outcome actualizes, it doesn't inject anything new—it determines which of the pre-existing possibilities becomes real.
 
-Henry Stapp's [[stapp-quantum-mind|quantum Zeno mechanism]] makes this concrete. In quantum mechanics, repeated observation of a system can prolong its state—the Zeno effect. Stapp proposes that mental attention acts like rapid observation, holding desired neural patterns against decoherence. The mind doesn't push neurons around; it selects which neural configurations persist.
+Henry Stapp's [[stapp-quantum-mind|quantum Zeno mechanism]] makes this concrete. Crucially, Stapp's approach uses orthodox quantum mechanics (von Neumann-Lüders projection)—no speculative new physics is required. In quantum mechanics, repeated observation of a system can prolong its state—the Zeno effect. Stapp proposes that mental attention acts like rapid observation, holding desired neural patterns against decoherence. The mind doesn't push neurons around; it selects which neural configurations persist.
 
 The key insight: selecting among energetically equivalent outcomes requires no energy transfer. If outcomes A, B, and C each have probability 1/3 and identical energy, then determining that A (rather than B or C) becomes actual doesn't violate conservation. All that's changed is *which* outcome occurs, not the system's total energy.
 
@@ -148,7 +148,7 @@ If the many-worlds interpretation (MWI) is correct, all quantum outcomes occur i
 
 *Response*: This is correct as far as it goes. The selection framework assumes collapse is real—that only one outcome actually occurs. If MWI is true, the framework fails.
 
-The Map rejects MWI for independent reasons (see [[tenets#^no-many-worlds|No Many Worlds tenet]]). The proliferation of unobservable branches violates parsimony more severely than dualism does. More fundamentally, MWI raises indexical questions it cannot answer: why am I experiencing *this* branch rather than another? The framework provides no resources to address this, yet the question seems meaningful.
+The Map rejects MWI for independent reasons (see [[tenets#^no-many-worlds|No Many Worlds tenet]]). While MWI claims parsimony by adding no new laws, it proliferates unobservable branches in compensation. More fundamentally, MWI raises indexical questions it cannot answer: why am I experiencing *this* branch rather than another? The framework provides no resources to address this, yet the question seems meaningful.
 
 This article therefore assumes that some collapse-like process occurs. Readers who accept MWI will find the conservation objection moot—but they face their own difficulties explaining definite experience.
 
@@ -165,6 +165,8 @@ This article shows the objection fails:
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet—"the smallest possible non-physical influence on quantum outcomes"—aligns precisely with the selection-not-injection framework. Consciousness doesn't add force or energy; it biases which of the quantum-permitted outcomes becomes actual.
 
 This doesn't prove consciousness acts at quantum indeterminacies. It shows that if consciousness does so act, physics provides no barrier. The positive case for interaction comes from philosophical arguments: the [[explanatory-gap]], the [[knowledge-argument]], the self-stultification of epiphenomenalism, and the [[baseline-cognition|empirical evidence]] that consciousness enables cognitive functions the unconscious baseline cannot achieve.
+
+The selection framework also has implications for [[free-will]]. If consciousness can select among quantum-permitted neural outcomes, this provides a mechanism for agent causation that libertarians about free will require—a locus where mind genuinely determines what happens rather than merely accompanying physical processes.
 
 ## Further Reading
 

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review conservation-laws-and-mind.md
-- **Type**: deep-review
-- **Notes**: AI-generated topics article (ai_contribution: 100), never deep-reviewed. Covers how conservation laws constrain mind-body interaction theories. Critical for the site's interactionism: should verify (1) accuracy of physics claims, (2) engagement with causal closure objection, (3) connection to minimal quantum interaction tenet, (4) whether the energy conservation objection is properly addressed.
-- **Source**: staleness
-- **Generated**: 2026-01-29
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -828,6 +822,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Deep review conservation-laws-and-mind.md
+- **Type**: deep-review
+- **Notes**: AI-generated topics article (ai_contribution: 100), never deep-reviewed. Covers how conservation laws constrain mind-body interaction theories. Critical for the site's interactionism: should verify (1) accuracy of physics claims, (2) engagement with causal closure objection, (3) connection to minimal quantum interaction tenet, (4) whether the energy conservation objection is properly addressed.
+- **Output**: obsidian/topics/conservation-laws-and-mind.md
 
 ### ✓ 2026-01-29: Create concept page for attention-motor-quantum-interface
 - **Type**: expand-topic
