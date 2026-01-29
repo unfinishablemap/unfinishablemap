@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-26 12:00:00+00:00
+ai_modified: 2026-01-29 16:39:12+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -30,7 +30,7 @@ description: 'Autobiographical memory and autonoetic consciousness: remembering 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 16:30:00+00:00
+last_deep_review: 2026-01-29 16:39:12+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,7 +109,7 @@ In [witness consciousness](/concepts/witness-consciousness/), practitioners obse
 
 ## What Would Challenge This View?
 
-The irreducibility of memorial phenomenology would be challenged by: (1) phenomenology dissolving under introspective analysis—instead, closer attention intensifies it; (2) functionally equivalent systems lacking phenomenology—the Map predicts this is impossible for systems with conscious architecture; (3) pastness being fully inferential rather than immediately given; (4) meditators reporting the pastness quale dissolves upon examination—instead, it becomes more vivid; (5) artificial systems demonstrating genuine remember/know phenomenology without consciousness involvement.
+The irreducibility of memorial phenomenology would be challenged by: (1) phenomenology dissolving under introspective analysis—instead, closer attention intensifies it; (2) consistent first-person reports from brain-damaged patients that retrieval phenomenology is present despite lesions to proposed binding sites—current evidence from hippocampal amnesia shows the opposite; (3) pastness being fully inferential rather than immediately given—phenomenological investigation suggests it arrives already tagged; (4) meditators reporting the pastness quale dissolves upon examination—instead, it becomes more vivid in contemplative traditions; (5) successful prediction of remember/know responses from purely computational models without phenomenal variables—current models require subjective confidence ratings as inputs.
 
 ## Relation to Site Perspective
 
@@ -117,11 +117,11 @@ Episodic memory supports all five foundational commitments.
 
 **[Dualism](/tenets/#dualism)**: The phenomenology of episodic retrieval—the felt pastness, the re-experiencing, the double presence of self—involves irreducible qualia. Neural activity in hippocampus and prefrontal cortex correlates with retrieval, but correlation doesn't explain why there is something it is like to remember. A physically identical system without phenomenal consciousness would perform the same computations but wouldn't re-experience anything. The gap between neural mechanism and phenomenal character is the hard problem in memorial form. The illusionist response—that re-experiencing is merely a misrepresentation—faces the regress problem detailed above.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The binding processes that create unified episodic memories may involve quantum selection at key neural sites. If consciousness interfaces with the brain through [attention-mediated quantum mechanisms](/concepts/attention-as-interface/), then the focused attention required for encoding and the reconstructive attention required for retrieval would be sites where consciousness participates in determining which neural patterns become actual. The [decoherence](/concepts/decoherence/) challenge to quantum coherence in warm brains applies here, but the revised timescales and biological precedents (avian magnetoreception) suggest the objection isn't decisive. Memory formation could involve consciousness selecting among quantum-superposed binding patterns.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The binding processes that create unified episodic memories may involve quantum selection at key neural sites. If consciousness interfaces with the brain through [attention-mediated quantum mechanisms](/concepts/attention-as-interface/), then the focused attention required for encoding and the reconstructive attention required for retrieval would be sites where consciousness participates in determining which neural patterns become actual. The [decoherence](/concepts/decoherence/) challenge to quantum coherence in warm brains applies here. Biological precedents like avian magnetoreception demonstrate that quantum effects can survive warm environments, though these involve specific chemical mechanisms (radical pair processes) not directly applicable to memory binding. The hypothesis remains speculative but not ruled out: memory formation could involve consciousness selecting among quantum-superposed binding patterns at currently unidentified sites.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Memory retrieval can causally influence behaviour—you remember that the stove is hot and act accordingly. If retrieval involves conscious re-experiencing (autonoetic consciousness) and this conscious experience causes the behaviour, then consciousness participates in the causal order. The alternative—that retrieval is unconscious with phenomenology as epiphenomenal accompaniment—faces the challenge of explaining why phenomenology varies with retrieval quality. Vivid recollection influences behaviour differently than vague familiarity; if the phenomenology is causally inert, why does varying it change what happens?
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Episodic memory presupposes a single history. When you remember an event, you remember it as having actually occurred—one of many possibilities became actual, and that's what you remember. A many-worlds framework where all possibilities branch would undermine the coherence of episodic memory. Which branch's events are you remembering? The pastness quale marks events as having occurred in *the* past, not in *a* past. Episodic memory's phenomenology assumes a single-history metaphysics. This connects to [haecceity](/concepts/haecceity/)—the memory is *this* person's memory of *that* event, requiring haecceitistic facts that many-worlds eliminates.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Episodic memory presupposes a determinate history. When you remember an event, you remember it as having actually occurred—one of many possibilities became actual, and that's what you remember. The pastness quale marks events as having occurred in *the* past, not merely in *a* past among infinitely many equally real alternatives. An MWI proponent might respond that within any branch, memories function normally—you remember the events of *your* branch. But this misses the phenomenological point: the pastness quale doesn't merely indicate "events in my causal history"; it marks events as having *determinately occurred* rather than being one actualisation among many. This connects to [haecceity](/concepts/haecceity/)—the memory is *this* person's memory of *that* event, requiring haecceitistic facts about which possibilities became actual. If all possibilities are equally real, the felt determinacy of the remembered past becomes a systematic illusion about the metaphysical structure of history.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The "simpler" computational theory of memory—storage and retrieval of information—fails to account for the phenomenal facts. Adding phenomenology to the theory isn't unnecessary complexity but recognition of what memory actually involves. The remember/know distinction demonstrates that the same information can be accessed with or without experiential re-living, suggesting phenomenology isn't reducible to information content. Dismissing the phenomenology as "less parsimonious" assumes we understand memory well enough to judge what's essential. We don't.
 

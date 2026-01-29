@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-29 13:18:11+00:00
+ai_modified: 2026-01-29 16:28:55+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,12 +23,13 @@ description: The view that consciousness is fundamental and ubiquitous in nature
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 13:18:11+00:00
+last_deep_review: 2026-01-29 16:28:55+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[panpsychism-consciousness-2026-01-08]]'
 - '[[integrated-information-theory]]'
+- '[[origin-of-consciousness]]'
 title: Panpsychism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -125,7 +126,7 @@ The interaction problem—how do distinct substances causally influence each oth
 
 Despite disagreeing on the solution, the Map affirms panpsychism's key insights:
 
-1. **Consciousness is fundamental**: Not emergent from non-conscious stuff, but a basic feature of reality.
+1. **Consciousness is fundamental**: Not emergent from non-conscious stuff, but a basic feature of reality. This addresses not just the hard problem but the deeper [origin question](/voids/origin-of-consciousness/)—*why* consciousness exists at all. By treating experience as fundamental, panpsychism shifts rather than dissolves that question, but the shift is significant.
 
 2. **Physicalism fails**: No physical description captures what consciousness is.
 
@@ -195,6 +196,7 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The structural gap panpsychism proposes to fill
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — The problem of quantum collapse before biological minds
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The central puzzle both views address
+- [origin-of-consciousness](/voids/origin-of-consciousness/) — The deeper question of why consciousness exists at all, which panpsychism addresses by treating consciousness as fundamental
 - [panpsychism-consciousness-2026-01-08](/research/panpsychism-consciousness-2026-01-08/) — Detailed research notes
 - [tenets](/tenets/) — the Map's foundational commitments
 

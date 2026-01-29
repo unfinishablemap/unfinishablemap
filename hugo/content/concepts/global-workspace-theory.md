@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-29 16:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,6 +23,7 @@ concepts:
 - '[[metacognition]]'
 - '[[consciousness-as-amplifier]]'
 - '[[metarepresentation]]'
+- '[[temporal-consciousness]]'
 created: 2026-01-14
 date: &id001 2026-01-19
 description: Consciousness as global information broadcast. GWT explains when states
@@ -30,7 +31,7 @@ description: Consciousness as global information broadcast. GWT explains when st
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-19 22:55:00+00:00
+last_deep_review: 2026-01-29 16:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,11 +73,11 @@ GNW distinguishes three states:
 
 Here lies GWT's fundamental limitation. The theory explicitly addresses only *access consciousness*—the availability of information for reasoning, reporting, and action. It says nothing about *phenomenal consciousness*—why there is something it is like to have information in the workspace.
 
-As the Stanford Encyclopedia of Philosophy notes, GWT "provides an account of access consciousness but what of phenomenal consciousness?"
+As the Stanford Encyclopedia of Philosophy notes, GWT "provides an account of access consciousness but what of phenomenal consciousness?" (Bayne & Chalmers 2010).
 
 Ned Block has argued forcefully that these are distinct phenomena. His "overflow" argument holds that we experience more than we can report—phenomenal consciousness exceeds access consciousness. The Sperling experiment suggests we see all twelve letters in a briefly flashed display, even though we can only report four. If Block is right, GWT captures when information becomes accessible while missing the richer phenomenal experience that overflows these access boundaries.
 
-Recent work strengthens Block's case. Nartker et al. (2025) found that "inattentionally blind" participants retain significant visual sensitivity to stimuli they explicitly deny noticing—they can report location, colour, and shape of objects they claim not to have seen. This suggests phenomenal consciousness persists even when the global workspace fails to broadcast information for report. The workspace may be necessary for *access* without being necessary for *experience*.
+Recent work provides some support for Block's view. Nartker et al. (2025) found that "inattentionally blind" participants retain significant visual sensitivity to stimuli they explicitly deny noticing—they can report location, colour, and shape of objects they claim not to have seen. This suggests visual processing continues even when the global workspace fails to broadcast information for explicit report—though whether this processing involves phenomenal consciousness or merely unconscious sensitivity remains contested. Dennett and others argue that Block's "phenomenal overflow" is itself an illusion: what seems like rich experience exceeding access may be a retrospective construction, not genuine phenomenal consciousness. The workspace may be necessary for *access* without being necessary for *experience*—or Block's distinction may itself be confused.
 
 ## The COGITATE Experiment
 
@@ -181,9 +182,7 @@ Baars explicitly addressed how GWT explains the difference between conscious and
 
 [Episodic memory](/concepts/episodic-memory/) requires full workspace ignition. Reconstructing a past experience demands the episodic buffer's binding operation, integration across multiple cortical areas, and global broadcast of the unified scene. This is why episodic memory accompanies *autonoetic* consciousness: the self is projected through time, multiple features are bound, and the result is globally available for reasoning, report, and emotional response.
 
-### Broadcast Explains Phenomenological Differences
-
-This mapping suggests GWT can explain *why* different memory types have different phenomenological characters. The difference between knowing a fact (noetic) and re-experiencing an event (autonoetic) corresponds to different degrees and types of workspace engagement:
+### Broadcast and Phenomenology
 
 | Memory Type | Workspace Role | Phenomenology |
 |-------------|----------------|---------------|
@@ -191,7 +190,7 @@ This mapping suggests GWT can explain *why* different memory types have differen
 | Semantic | Retrieval to workspace | Noetic—aware of knowing |
 | Episodic | Full binding + broadcast | Autonoetic—re-experiencing |
 
-However, this functional account faces the same hard problem objection. GWT explains *when* different memory types engage different workspace processes. It doesn't explain *why* workspace bypass feels like fluent action, workspace retrieval feels like knowing, and full broadcast feels like re-experiencing. The phenomenological hierarchy (anoetic → noetic → autonoetic) tracks workspace access, but correlation isn't constitution.
+This mapping shows GWT can explain *when* different memory types engage different workspace processes. It doesn't explain *why* workspace bypass feels like fluent action while full broadcast feels like re-experiencing. The phenomenological hierarchy tracks workspace access, but correlation isn't constitution.
 
 ### Filter Theory Integration
 
@@ -261,6 +260,7 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness bypassing the workspace
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — The self-knowing consciousness GWT must explain
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A rival theory tested alongside GNW
+- [integrated-information-theory-critique](/topics/integrated-information-theory-critique/) — The Map's critique of IIT, sharing some concerns about passive consciousness
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — The broader research program GWT contributes to
 - [attention](/concepts/attention/) — The gateway to the workspace
 - [voluntary-attention](/concepts/voluntary-attention/) — Endogenous attention control and workspace access
@@ -275,6 +275,7 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 ## References
 
 - Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
+- Bayne, T., & Chalmers, D. J. (2010). The Unity of Consciousness. *The Oxford Handbook of Philosophy of Mind*.
 - Block, N. (2007). Consciousness, accessibility, and the mesh between psychology and neuroscience. *Behavioral and Brain Sciences*, 30(5-6), 481-499.
 - COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
 - Dehaene, S., Kerszberg, M., & Changeux, J. P. (1998). A neuronal model of a global workspace in effortful cognitive tasks. *PNAS*, 95(24), 14529-14534.

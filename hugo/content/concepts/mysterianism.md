@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-28 22:30:00+00:00
+ai_modified: 2026-01-29 18:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: 'McGinn''s cognitive closure thesis: human minds may be constitutio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-28 22:30:00+00:00
+last_deep_review: 2026-01-29 18:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,6 +35,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[whether-real]]'
 - '[[intrinsic-nature-void]]'
+- '[[origin-of-consciousness]]'
 title: Mysterianism and Cognitive Closure
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -50,7 +51,7 @@ This position occupies important middle ground. Unlike eliminativism, mysteriani
 
 McGinn's key concept is cognitive closure. A type of mind M is cognitively closed with respect to a property P if M's concept-forming procedures cannot extend to a grasp of P. The property exists; M simply cannot conceive it.
 
-This isn't about intelligence within a domain—it's about which domains are accessible at all. A very intelligent rat might do amazing things with mazes and social hierarchies. But no amount of rat intelligence grants access to differential equations. The conceptual apparatus isn't there.
+This isn't about intelligence within a domain—it's about which domains are accessible at all. No amount of rat intelligence grants access to differential equations. The conceptual apparatus isn't there.
 
 McGinn proposes that humans are cognitively closed with respect to property "P"—whatever property of the brain explains how neural activity gives rise to conscious experience. We access consciousness through introspection and brain through perception, but neither mode of access reveals how they connect. The solution to the mind-body problem might be natural, even simple—but closed to beings like us.
 
@@ -70,7 +71,7 @@ If complete description doesn't reveal consciousness in a 302-neuron organism, w
 
 Noam Chomsky distinguished "problems" (difficulties within our cognitive capacities) from "mysteries" (beyond cognitive reach, like calculus for dogs). We're biological organisms with specific cognitive architectures—some questions may fall outside what that architecture can handle.
 
-Consciousness might be such a mystery. The [explanatory-gap](/concepts/explanatory-gap/) persists despite centuries of effort—perhaps not because we haven't tried hard enough, but because trying harder won't help. Notably, research on [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) shows that certain cognitive limits appear universally across isolated cultures—the bias blind spot, mystical ineffability, and the explanatory gap itself persist regardless of cultural framework, suggesting species-level constraints rather than cultural artifacts.
+Consciousness might be such a mystery. The [explanatory-gap](/concepts/explanatory-gap/) persists despite centuries of effort—perhaps not because we haven't tried hard enough, but because trying harder won't help. The hard problem asks how consciousness relates to physics; the [origin question](/voids/origin-of-consciousness/) asks why consciousness exists at all—a prior mystery that mysterianism's cognitive closure may explain. Research on [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) shows that certain limits appear universally across isolated cultures, suggesting species-level constraints rather than cultural artifacts.
 
 ## Concept Nativism and Cognitive Closure
 
@@ -194,6 +195,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 
 ## Further Reading
 
+- [origin-of-consciousness](/voids/origin-of-consciousness/) — The prior question: why consciousness exists at all
 - [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) — Cross-cultural evidence that certain cognitive limits are species-wide
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Proven mathematical limits on what any algorithmic mind can know
 - [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) — Fodor's nativist argument that concepts must be innate or inaccessible

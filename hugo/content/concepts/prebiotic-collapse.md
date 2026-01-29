@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-29 13:53:56+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: How quantum wave functions collapsed before conscious observers exi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 12:30:00+00:00
+last_deep_review: 2026-01-29 13:53:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -152,7 +152,7 @@ The Map rejects illusionism for reasons detailed on its [dedicated page](/concep
 
 If consciousness is an illusion, something must generate that illusion. On illusionist accounts, neural processes produce systematic misrepresentations that seem phenomenal. But this explanation itself requires collapse during the prebiotic era—the neural systems that generate the illusion evolved through quantum events (mutations, molecular interactions) that required definite outcomes. The illusionist cannot escape into "it's all illusion" because the very existence of the illusion-generating system presupposes the cosmological timeline the prebiotic problem addresses.
 
-Moreover, Raymond Tallis's regress objection applies: "Misrepresentation presupposes presentation." If the illusion of consciousness seems real to something, that something is doing the experiencing. The problem relocates rather than dissolves.
+Moreover, Raymond Tallis's regress objection applies: "Misrepresentation presupposes presentation." If the illusion of consciousness seems real to something, that something is doing the experiencing. Illusionists contest this regress—arguing that the "seeming" can itself be functionally explained without invoking genuine phenomenal experience—but the debate remains unresolved. At minimum, the problem relocates rather than dissolves.
 
 ## Process Philosophy Perspective
 

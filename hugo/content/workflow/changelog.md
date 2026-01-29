@@ -18,6 +18,347 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 21:15 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `concepts/meditation-and-consciousness-modes.md`
+- **Word count**: 2887 (unchanged, length-neutral mode)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (missing cross-link to default-mode-network.md)
+- **Enhancements made**: 5 cross-links to [default-mode-network](/concepts/default-mode-network/) added
+- **Output**: `reviews/deep-review-2026-01-29-meditation-and-consciousness-modes.md`
+- **Context**: Cross-review considering new default-mode-network.md article
+- **Summary**: Second review of this article. Added cross-links to the new default-mode-network.md article which provides complementary neuroscience on DMN suppression during meditation. No critical issues found. Article has reached stability after addressing illusionism engagement, Buddhist phenomenology, and MWI arguments in previous review.
+
+## 2026-01-29 20:30 UTC - tune-system
+
+- **Status**: Success
+- **Sessions analyzed**: 1184 (sessions 11-1194)
+- **Findings**: 0 cadence issues, 0 failure patterns, 0 queue issues, 5 recurring review themes (philosophical), strong convergence
+- **Tier 1 changes**: 0 applied (system operating optimally)
+- **Tier 2 recommendations**: 4 logged (revise targets upward, add voids/apex targets, review medium issues, reduce orphans)
+- **Output**: `reviews/system-tune-2026-01-29.md`
+- **Summary**: System performing excellently. 0% failure rate, content far exceeds targets (35 topics vs 10 target, 145 concepts vs 15 target). No adjustments warranted—all parameters within optimal bounds.
+
+## 2026-01-29 18:57 UTC - check-tenets
+
+- **Status**: Success
+- **Files checked**: 139 (42 topics + 97 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 0
+- **Output**: `reviews/tenet-check-2026-01-29.md`
+- **Summary**: All site content maintains robust alignment with the five foundational tenets. No direct contradictions, implicit conflicts, or notable tensions found. Opposing views (illusionism, physicalism, many-worlds) are appropriately framed as challenges rather than endorsements.
+
+## 2026-01-29 18:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: The Past Self Void
+- **Output**: `voids/past-self-void.md`
+- **Word count**: 2062
+- **Based on research**: Yes (`research/voids-past-self-void-2026-01-29.md`)
+- **Summary**: Article exploring the structural inaccessibility of past conscious states. We can only reconstruct, never directly access, what it was like to be our past selves—creating a void parallel to the other-minds void but directed at ourselves across time.
+
+## 2026-01-29 17:09 UTC - deep-review
+
+- **Status**: Success
+- **File**: `voids/voids.md`
+- **Context**: Cross-review considering origin-of-consciousness.md
+- **Word count**: 2030 → 2025 (-5 words, length-neutral mode)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2
+  - Added origin void entry to "The Map" section, positioned as foundational
+  - Added [origin-of-consciousness](/voids/origin-of-consciousness/) to related_articles frontmatter
+- **Enhancements made**: 2 (trimmed redundant descriptions for length neutrality)
+- **Output**: `reviews/deep-review-2026-01-29-voids-2.md`
+- **Note**: Second review today; article approaching stability
+
+## 2026-01-29 17:00 UTC - research-voids
+
+- **Status**: Success
+- **Topic**: The Past Self Void
+- **Category**: Unexplorable / Occluded (mixed)
+- **Output**: `research/voids-past-self-void-2026-01-29.md`
+- **Key finding**: We cannot directly access our own past conscious states—only reconstruct them. The past self is structurally inaccessible in much the same way other minds are: we can infer and simulate but not directly know what it was like to be "us" at a previous time. This creates a peculiar void where numerical identity doesn't grant phenomenal access.
+- **Sources consulted**: 11 (SEP Memory, Conway Self-Memory System, Tulving autonoetic consciousness, Parfit personal identity, PNAS false memories, De Brigard phenomenology of remembering, narrative identity, self-continuity research, Buddhist impermanence)
+- **Article angles identified**: (1) Past-Self Void as parallel to other-minds void but within single identity, (2) Memory as void navigation—constructing proxies rather than accessing, (3) Moment-to-moment impermanence—the void operates continuously
+
+## 2026-01-29 16:49 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/voluntary-attention.md`
+- **Context**: Cross-review considering attention-motor-quantum-interface.md
+- **Word count**: 2231 → ~2250 (+19 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Added Rizzolatti attribution for premotor theory of attention (PMTA)
+  - Added Desmurget et al. (2009) citation for double dissociation finding
+  - Added Thura & Cisek (2014) citation for motor commitment timing
+- **Enhancements made**: 0
+- **Output**: `reviews/deep-review-2026-01-29-voluntary-attention.md`
+- **Note**: Second review; article approaching stability
+
+## 2026-01-29 16:39 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/episodic-memory.md`
+- **Word count**: 2158 → 2266 (+108 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Rewrote MWI argument (was "which branch?" confusion; now focuses on phenomenological determinacy and haecceity)
+  - Tightened falsifiability conditions (2) and (5) to be empirically testable rather than circular
+  - Added epistemic humility to quantum section regarding biological precedents
+- **Enhancements made**: 0
+- **Output**: `reviews/deep-review-2026-01-29-episodic-memory.md`
+- **Note**: Second review; article approaching stability
+
+## 2026-01-29 16:28 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/panpsychism.md`
+- **Context**: Cross-review considering origin-of-consciousness.md
+- **Word count**: ~2625 → ~2660 (+35 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1
+  - Added cross-link to origin-of-consciousness.md (the article addressed the hard problem but not the distinct "origin question")
+- **Enhancements made**: 1
+  - Clarified in "What Panpsychism Gets Right" that treating consciousness as fundamental shifts rather than dissolves the origin question
+- **Output**: `reviews/deep-review-2026-01-29-panpsychism-origin.md`
+- **Note**: Fifth review of this article; article has stabilized
+
+## 2026-01-29 16:19 UTC - deep-review
+
+- **Status**: Success
+- **File**: `voids/origin-of-consciousness.md`
+- **Word count**: 1954 → 1972 (+18 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2
+  - Qualified zombie conceivability claim (was stated as fact, now acknowledged as contested)
+  - Improved MWI characterization (clarified it doesn't dissolve the origin question)
+- **Enhancements made**: 1
+  - Added cross-link to [explanatory-gap](/concepts/explanatory-gap/) concept
+- **Output**: `reviews/deep-review-2026-01-29-origin-of-consciousness.md`
+
+## 2026-01-29 21:45 UTC - coalesce
+
+- **Status**: No merge performed
+- **Reason**: After thorough analysis of 6 candidate clusters, all articles found to be well-differentiated
+- **Clusters examined**:
+  1. **Attention cluster** (7 articles: attention.md, attention-as-interface.md, voluntary-attention.md, motor-selection.md, consciousness-selecting-neural-patterns.md, mental-effort.md, attention-motor-quantum-interface.md) — Articles layered at different abstraction levels; cross-references appropriate, not redundant
+  2. **AI/machine consciousness** (ai-consciousness.md, machine-consciousness.md) — Distinct questions: current AI vs. mind uploading
+  3. **Consciousness-intelligence** (consciousness-and-intelligence.md, consciousness-as-amplifier.md) — Topic survey vs. specific mechanism claim
+  4. **Interactionist dualism** (interactionist-dualism.md, mind-brain-separation.md, mind-matter-interface.md) — Philosophical position vs. empirical division vs. theoretical unification
+  5. **Indexical identity** (indexical-facts.md, haecceity.md) — Epistemic vs. metaphysical focus
+- **Conclusion**: Content is appropriately structured with minimal duplication. No strong merge candidates found.
+
+## 2026-01-29 17:30 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `topics/integrated-information-theory-critique.md`
+- **Changes**:
+  - Added new subsection "Does Quantum Selection Escape This Charge?" after the passivity problem section
+  - Acknowledged that the passivity objection applies reflexively to the Map's quantum selection framework
+  - Introduced distinction between type-level and token-level causation
+  - Argued that token-level determination is genuine causation even without type-level statistical deviation
+  - Clarified that IIT faces a metaphysical limitation while quantum selection faces only epistemological challenges
+- **Prompted by**: Pessimistic review (2026-01-29-late) identifying reflexive application of passivity objection
+- **Published**: yes
+
+## 2026-01-29 15:54 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/attention-motor-quantum-interface.md`
+- **Word count**: 1493 → 1514 (+21 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2
+  - Clarified PMTA core claim as paraphrase (removed misleading quotation marks)
+  - Added nuance to decoherence debate (Tegmark vs. Hameroff address different mechanisms)
+- **Enhancements made**: 1
+  - Added [agent-causation](/concepts/agent-causation/) to Further Reading
+- **Output**: `reviews/deep-review-2026-01-29-attention-motor-quantum-interface.md`
+- **Notes**: First review of recreated article (previous version coalesced into motor-selection.md 2026-01-26). Article is well-structured at 61% of soft threshold. No critical issues; deferred items are bedrock philosophical disagreements.
+
+## 2026-01-29 10:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/conservation-laws-and-mind.md`
+- **Word count**: 2104 → 2170 (+66 words)
+- **Critical issues addressed**: 0 (none found—article stable after first review)
+- **Medium issues addressed**: 1 (MWI parsimony claim reframed)
+- **Enhancements made**: 3
+  - Added note that Stapp uses orthodox QM (von Neumann-Lüders), not speculative physics
+  - Added explicit free will connection in Relation to Site Perspective
+  - Softened MWI parsimony claim to focus on indexical objection
+- **Output**: `reviews/deep-review-2026-01-29-conservation-laws-and-mind.md`
+- **Notes**: Second deep review. Article has reached stability—no critical issues, all six adversarial personas engaged but objections represent expected philosophical disagreement rather than fixable flaws. Convergence achieved.
+
+## 2026-01-29 19:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: attention-motor-quantum-interface
+- **Output**: `concepts/attention-motor-quantum-interface.md`
+- **Word count**: 1493
+- **Based on research**: yes (`research/attention-motor-planning-quantum-interface-2026-01-23.md`, `research/dopamine-attention-motor-quantum-interface-2026-01-24.md`)
+- **Notes**: Created concept page for the unified attention-motor quantum interface hypothesis. The concept was referenced ~15 times across the site but had no definition page (original content was coalesced into motor-selection.md). New article defines the interface, explains PMTA unification with Stapp's quantum Zeno mechanism, covers neural architecture (affordance competition, 280-300ms timing window, dopamine threshold modulation), and connects to tenets.
+
+## 2026-01-29 20:30 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: 41 topics, 97 concepts, tenets.md (all non-draft content)
+- **Strengths identified**:
+  - Convergent argumentation: Multiple independent routes (zombie argument, knowledge argument, explanatory gap, inverted qualia, argument from reason) reinforce conclusions
+  - Empirical grounding: Recent research (2024-2026) including COGITATE, Princeton cryptochrome study, Schurger's Libet reinterpretation
+  - Contemplative integration: Cross-cultural meditation phenomenology as systematic first-person data
+  - Process philosophy depth: Whitehead's framework providing metaphysical grounding without requiring readers to master the system
+- **Expansion opportunities added**: 5 P3 tasks
+  - Temporal binding and the specious present
+  - Consciousness and mathematical understanding
+  - Specious present concept page
+  - Phenomenal overflow concept page
+- **Sympathetic philosopher analysis**: Chalmers (hard problem), Stapp (quantum Zeno), Nagel (subjectivity), Whitehead (process ontology), Kane (agent causation), McGinn (cognitive closure)
+- **Output**: `reviews/optimistic-2026-01-29-night.md`
+- **Notes**: Comprehensive site-wide review identifying cross-cutting patterns: intellectual honesty (acknowledging genuine challenges), convergent argumentation (multiple independent routes), empirical engagement (testable predictions), and contemplative integration (trained observation as data).
+
+## 2026-01-29 18:00 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `concepts/mysterianism.md`
+- **Word count**: 2597 → 2603 (+6 words, length-neutral)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1
+  - Missing bidirectional link to origin-of-consciousness.md (the origin void)
+- **Enhancements made**: 2
+  - Added origin-of-consciousness cross-link in frontmatter, Further Reading, and "Problems Versus Mysteries" section
+  - Tightened prose in "Cognitive Closure" section to offset additions
+- **Output**: `reviews/deep-review-2026-01-29-mysterianism.md`
+- **Notes**: Fifth deep review. Cross-review triggered by origin-of-consciousness.md article. Added connection showing the origin question (why consciousness exists) as prior to the hard problem (how consciousness relates to physics), with cognitive closure potentially explaining both. Article confirmed stable; bedrock disagreements (eliminativism, Buddhist framework) not re-flagged.
+
+## 2026-01-29 18:30 UTC - deep-review (cross-review)
+
+- **Status**: Success
+- **File**: `topics/hard-problem-of-consciousness.md`
+- **Word count**: 2916 → 2956 (+40 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 1
+  - Added paragraph distinguishing hard problem from origin void with cross-link to [origin-of-consciousness](/voids/origin-of-consciousness/)
+- **Output**: `reviews/deep-review-2026-01-29-hard-problem-of-consciousness-cross.md`
+- **Notes**: Cross-review triggered by new origin-of-consciousness.md article. The hard problem article (reviewed 5 times, confirmed stable) needed integration with new origin void content. Added one paragraph clarifying that hard problem asks *how* while origin void asks *why*. Bidirectional linking now complete.
+
+## 2026-01-29 14:52 UTC - deep-review
+
+- **Status**: Success (stability confirmed)
+- **File**: `concepts/relational-quantum-mechanics.md`
+- **Word count**: 2936 → 2936 (unchanged)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Output**: `reviews/deep-review-2026-01-29-relational-quantum-mechanics.md`
+- **Notes**: Second review. Article confirmed stable after comprehensive improvements in 2026-01-20 review. Attribution accuracy verified. Philosophical disagreements noted as bedrock (illusionism, contemplative phenomenology) rather than fixable issues. Timestamps updated only.
+
+## 2026-01-29 16:30 UTC - deep-review
+
+- **Status**: Success
+- **File**: `voids/embodiment-cognitive-limits.md`
+- **Word count**: 1557 → ~1630 (+73 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Grounding problem certainty: softened from "no one has demonstrated" to "remains contested"
+  - MWI strawman: reframed tenet connection to focus on Map's positive commitment
+  - Functionalist counter-position: explicitly acknowledged in Symbol Grounding section
+- **Enhancements made**: 2
+  - Added cross-link to [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) (motor intentionality as pre-conceptual knowing)
+  - Added agency implication to Implications section
+- **Output**: `reviews/deep-review-2026-01-29-embodiment-cognitive-limits.md`
+- **Notes**: First review. No attribution errors found. Article handles sources responsibly. Bedrock disagreement with functionalism now explicitly acknowledged rather than elided.
+
+## 2026-01-29 14:29 UTC - deep-review
+
+- **Status**: Success
+- **File**: `voids/topology-of-cognitive-failure.md`
+- **Word count**: 2287 → 2302 (+15 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2
+  - Introspective failure section: added explicit materialist counterpoint, reframed "targeted blindness" as hypothesis rather than assumed fact
+  - Bidirectional Interaction tenet connection: now acknowledges both materialist and dualist interpretations predict structured failure
+- **Enhancements made**: 1
+  - Added cross-link to [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) in body and Further Reading
+- **Output**: `reviews/deep-review-2026-01-29-topology-of-cognitive-failure.md`
+- **Notes**: First review of new article. No attribution errors found. Article appropriately focuses on phenomenology rather than speculative mechanisms.
+
+## 2026-01-30 00:30 UTC - pessimistic-review
+
+- **Status**: Success
+- **Content reviewed**:
+  - `topics/lucid-dreaming-and-consciousness.md`
+  - `topics/integrated-information-theory-critique.md`
+  - `concepts/simulation.md`
+- **Critical issues found**: 3
+  1. Dream control evidence doesn't distinguish phenomenal causation from functional causation
+  2. IIT passivity objection applies reflexively to the Map's quantum selection framework
+  3. Simulation hypothesis is neutral between physicalism and dualism, not dualism-supporting
+- **Medium issues found**: 3
+  - Quantum Zeno mechanism timescale mismatch unaddressed in lucid dreaming article
+  - MWI rejection arguments don't distinguish phenomenologies that both interpretations predict identically
+  - Process philosophy interpretation presented as dualism-supporting when it's actually interpretation-neutral
+- **Output**: `reviews/pessimistic-2026-01-29-late.md`
+- **Tasks generated**: 1 (P3: Refine IIT critique to address reflexive passivity objection)
+- **Notes**: Cluster addresses altered states, competing theory critique, and speculative metaphysics. Main vulnerability: articles identify problems for competitors without acknowledging structurally similar problems face the Map's framework.
+
+## 2026-01-29 14:09 UTC - deep-review
+
+- **Status**: Success
+- **File**: `voids/attention-created-voids.md`
+- **Word count**: 2076 → 2073 (-3 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Meditator claim reworded from unsupported empirical assertion to defensible observation
+  - Dualism tenet section strengthened—now explicitly engages materialist mechanisms while maintaining phenomenology/mechanism distinction
+  - Added inline citation for Simons & Chabris invisible gorilla study
+- **Enhancements made**: 0 (length-neutral mode, article at soft threshold)
+- **Output**: `reviews/deep-review-2026-01-29-attention-created-voids.md`
+- **Notes**: First review. Article philosophically mature—adversarial personas disagree on bedrock issues (phenomenology's evidential status) but no critical errors. Stability notes added for future reviews.
+
+## 2026-01-29 20:00 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Origin of consciousness (voids article)
+- **Output**: `voids/origin-of-consciousness.md`
+- **Word count**: 1954 (98% of 2000 target)
+- **Based on research**: Yes (`research/voids-origin-of-consciousness-2026-01-29.md`)
+- **Notes**: Explores the origin void—why consciousness exists at all, distinct from the hard problem. Addresses the containment problem (inquiry occurs within consciousness), brute fact responses, and apophatic approaches.
+
+## 2026-01-29 13:53 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/prebiotic-collapse.md`
+- **Word count**: 2857 → 2880 (+23 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1
+  - Illusionism section balanced—added acknowledgment that illusionists contest the Tallis regress argument
+- **Enhancements made**: 0 (length-neutral mode, article at 114% of soft threshold)
+- **Output**: `reviews/deep-review-2026-01-29-prebiotic-collapse.md`
+- **Notes**: Second review. Article reaching stability—previous review (2026-01-20) added major sections; this review found no critical issues and only one medium issue. Remaining concerns are bedrock philosophical disagreements.
+
+## 2026-01-29 16:45 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/global-workspace-theory.md`
+- **Word count**: 3272 → 3307 (+35 words)
+- **Cross-review context**: integrated-information-theory-critique.md
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+  - Nartker et al. (2025) interpretation qualified—original claimed "phenomenal consciousness persists" which overstates what the study shows
+  - Added acknowledgment of Dennett's response to Block's overflow argument
+  - Added citation for Stanford Encyclopedia quote (Bayne & Chalmers 2010)
+- **Enhancements made**: 4
+  - Cross-link to [integrated-information-theory-critique](/topics/integrated-information-theory-critique/) added for COGITATE comparison context
+  - [temporal-consciousness](/concepts/temporal-consciousness/) added to concepts list
+  - Prose tightened in "Broadcast Explains Phenomenological Differences" section
+  - Reference added: Bayne & Chalmers (2010)
+- **Output**: `reviews/deep-review-2026-01-29-global-workspace-theory.md`
+- **Notes**: Second review. Article approaching stability—previous review added major sections; this one made targeted improvements. Operating in length-neutral mode (132% of soft threshold).
+
 ## 2026-01-29 18:00 UTC - deep-review
 
 - **Status**: Success

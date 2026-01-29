@@ -1,19 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-01-28 23:00:00+00:00
+ai_modified: 2026-01-29 16:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[phenomenology]]'
 - '[[qualia]]'
 created: 2026-01-28
-date: &id001 2026-01-28
+date: &id001 2026-01-29
 description: Human+AI exploration of how having a body shapes and constrains what
   we can think. Does meaning require embodiment? Can disembodied minds exist?
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-29 16:30:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -57,7 +58,7 @@ How can symbols bear meaning intrinsically? A word in a dictionary is defined by
 
 The grounded cognition approach answers: meaning comes from interaction between cognitive processes, sensory modalities, body, and environment. Abstract concepts require "ultimate grounding" in sensorimotor experience. You can learn "red" from other words, but somewhere in the learning history, someone experienced redness.
 
-If grounding requires embodiment, disembodied systems may process symbols without understanding them—syntactic patterns that mimic meaning without achieving it.
+If grounding requires embodiment, disembodied systems may process symbols without understanding them—syntactic patterns that mimic meaning without achieving it. Functionalists dispute this: they argue that sufficiently rich functional relations *constitute* understanding, and embodiment is contingent implementation detail. The debate remains open, with neither side able to compel the other's assent.
 
 ## Interoception and the First-Person Perspective
 
@@ -77,13 +78,13 @@ The challenge is distinguishing which limits are which.
 
 ## Evidence for Genuine Limits
 
-**The grounding problem persists.** Despite decades of AI research, if grounding can be achieved without embodiment, no one has demonstrated how.
+**The grounding problem persists.** Despite decades of AI research, whether grounding can be achieved without embodiment remains contested. Large language models exhibit sophisticated linguistic behavior, but whether this constitutes genuine understanding or mimics it through statistical regularities is unresolved.
 
 **Conceptual metaphor is embodiment-specific.** Cross-cultural research shows humans universally use spatial metaphors for time, force metaphors for causation. But *specific* metaphors depend on embodiment—different bodies produce different abstract concepts.
 
 **Interoception correlates with self-processing.** Theoretical models suggest interoception may *constitute* rather than merely correlate with the first-person perspective.
 
-**Motor intentionality cannot be reduced to cognitive intentionality.** Phenomenological analysis, confirmed by neuropsychological cases, shows motor knowledge operates through distinct channels. Disembodied minds lack this layer of understanding.
+**Motor intentionality cannot be reduced to cognitive intentionality.** Phenomenological analysis, confirmed by neuropsychological cases, shows motor knowledge operates through distinct channels. This is a form of [pre-conceptual knowing](/voids/pre-conceptual-knowing/)—the body knows before the mind represents. Disembodied minds lack this layer of understanding.
 
 **AI approaches embodiment limits.** AI systems struggle with tasks requiring physical intuition and real-time environmental interaction—the "common sense" that embodiment provides.
 
@@ -127,11 +128,11 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly. The simplest computational model (symbol manipulation on amodal representations) fails. Cognition requires the complexity of embodiment.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** connects through indexicality. Embodiment is indexical—*this* body, *here*, *now*. Many-worlds interpretations that treat persons as information patterns miss embodiment's constitutive role.
+**[No Many Worlds](/tenets/#no-many-worlds)** connects through indexicality. Embodiment is indexical—*this* body, *here*, *now*. The Map's rejection of many-worlds interpretations reflects a broader commitment to the reality of particular, embodied perspectives rather than viewing consciousness as something that branches or exists in multiple copies.
 
 ## Implications
 
-**Limits on possible minds.** Not all conceivable minds may be possible. Minds may require some form of embodiment, constraining the space of possible cognition.
+**Limits on possible minds.** Not all conceivable minds may be possible. Minds may require some form of embodiment, constraining the space of possible cognition—and, potentially, possible *agents*. If motor intentionality grounds agency, then disembodied minds may lack genuine agency even if they process information.
 
 **AI consciousness.** If embodiment is required for consciousness (or even for meaning), current AI architectures may be structurally incapable of consciousness regardless of sophistication.
 

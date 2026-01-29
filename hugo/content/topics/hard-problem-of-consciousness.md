@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-01-28 12:30:00+00:00
+ai_modified: 2026-01-29 18:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -51,7 +51,7 @@ description: Why is there something it is like to be conscious? Physical descrip
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-28 12:30:00+00:00
+last_deep_review: 2026-01-29 18:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,6 +61,7 @@ related_articles:
 - '[[integrated-information-theory-critique]]'
 - '[[quantum-consciousness]]'
 - '[[chalmers-psychophysical-laws-2026-01-17]]'
+- '[[origin-of-consciousness]]'
 title: The Hard Problem of Consciousness
 topics: []
 ---
@@ -70,6 +71,8 @@ Why is there something it is like to be you?
 This question—deceptively simple—marks the boundary where physical explanation seems to end and mystery begins. Neuroscience can trace the cascade of neural activity when you see red, taste coffee, or feel pain. It can explain how you discriminate stimuli, report your states, and control your behaviour. Yet after all this explanation, a question remains: why is any of this accompanied by *experience*?
 
 David Chalmers called this the "hard problem of consciousness." It is hard not because we lack data or technology, but because the very structure of physical explanation seems incapable of reaching it.
+
+The hard problem asks *how* consciousness relates to physical processes. A deeper question—the [origin void](/voids/origin-of-consciousness/)—asks *why* consciousness exists at all. Even a complete solution to the hard problem would not explain why the universe contains experience in the first place.
 
 ## Easy Problems and Hard Problems
 

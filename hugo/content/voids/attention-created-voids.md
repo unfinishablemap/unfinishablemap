@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-01-29 03:15:00+00:00
+ai_modified: 2026-01-29 14:09:12+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,7 @@ description: How the act of attending generates unattendable territory—figure-
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-29 14:09:12+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -65,7 +66,7 @@ The attention void here is not about content but about mode. Certain aspects of 
 
 ## Inattentional Blindness
 
-The empirical demonstration is inattentional blindness—the failure to perceive clearly visible stimuli when attention is engaged elsewhere. The invisible gorilla experiment showed that focused attention on a counting task renders an unexpected gorilla literally invisible, even when it walks through the scene, beats its chest, and exits.
+The empirical demonstration is inattentional blindness—the failure to perceive clearly visible stimuli when attention is engaged elsewhere. The invisible gorilla experiment (Simons & Chabris, 1999) showed that focused attention on a counting task renders an unexpected gorilla literally invisible, even when it walks through the scene, beats its chest, and exits.
 
 This is not "not noticing" in the ordinary sense. Subjects do not experience a gorilla-shaped gap in their perception. The gorilla is genuinely absent from conscious experience—not registered as present and then forgotten, but never entering awareness at all.
 
@@ -82,8 +83,6 @@ This reveals a limit where attention meets structural constraints it cannot over
 The phenomenology is distinctive: one image is vivid and present; the other is *absent*. Not dim, not peripheral, but gone. Then they switch. The void is the absence of whichever percept is currently suppressed.
 
 ## The Phenomenology of Attention Voids
-
-What does it feel like to encounter attention-created voids?
 
 **The peripheral shimmer.** Content at the edge of attention that vanishes when you try to look directly. You sense something there—movement, colour, meaning—but direct attention destroys it. The shimmer exists only in peripheral mode.
 
@@ -121,9 +120,9 @@ This suggests the attention void may be the most fundamental void: not a limitat
 
 ### Dualism
 
-The attention void offers indirect support for The Unfinishable Map's [Dualism](/tenets/#dualism) tenet. If attention structures consciousness—not as one function among others but as the *organising principle* of conscious experience—then understanding consciousness requires understanding this organising activity. Physical description tells us about neural activity during attention, but the structuring itself—the production of figure against ground, centre against margin—has a phenomenal character that neural description cannot capture.
+The attention void offers indirect support for The Unfinishable Map's [Dualism](/tenets/#dualism) tenet. Neural mechanisms—lateral inhibition, biased competition, executive gating—explain *how* attention creates voids. They describe the information-processing architecture. But they do not explain *why* there is something it is like to have content excluded from awareness. The suppressive dark has phenomenal character: it feels like something to have the world contract around a focus. Neural description captures the selection; it does not capture the felt quality of exclusion.
 
-The void is produced by the structuring. To explain the void would require explaining the phenomenal character of attending. Materialism cannot explain why there is something it is like to attend rather than mere information-processing selection.
+This gap between mechanism and phenomenology is the attention void's contribution to the dualist case. The void is not merely a processing feature but an experiential one.
 
 ### Bidirectional Interaction
 
@@ -141,7 +140,7 @@ A complex relational pattern might be true but systematically fall into the atte
 
 The claim that attention creates structural voids would face difficulty if:
 
-1. **Training eliminated the figure-ground structure.** If contemplatives or others could perceive without producing ground—maintaining focal detail across the entire visual field simultaneously—this would suggest figure-ground is contingent. Reports from advanced meditators do not describe this; if anything, they describe awareness of the structure itself, not its elimination.
+1. **Training eliminated the figure-ground structure.** If contemplatives or others could perceive without producing ground—maintaining focal detail across the entire visual field simultaneously—this would suggest figure-ground is contingent. Reports from contemplative traditions describe heightened awareness of the structure itself—noticing the margin as margin—but not its elimination.
 
 2. **Parallel processing replaced serial attention.** If neural or artificial systems could process all stimuli equally without prioritisation hierarchies, the claim that attending requires de-prioritising would fail. Current evidence suggests even massively parallel systems develop attention-like selection mechanisms.
 

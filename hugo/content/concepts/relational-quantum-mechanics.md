@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-29 14:52:35+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Rovelli's interpretation where quantum facts are relative to observ
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 14:30:00+00:00
+last_deep_review: 2026-01-29 14:52:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

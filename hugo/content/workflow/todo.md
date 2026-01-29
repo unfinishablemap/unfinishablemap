@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-29 12:58:25+00:00
+ai_modified: 2026-01-29 16:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,15 +44,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P3: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
+### P2: Cross-review thoughts-that-slip-away.md considering attention-created-voids insights
 - **Type**: cross-review
-- **Notes**: New concept page concepts/default-mode-network.md (2026-01-29) discusses DMN suppression during meditation. Check meditation-and-consciousness-modes.md for: (1) cross-links to the DMN neurobiological treatment, (2) whether the DMN framework explains meditation state transitions, (3) opportunities to connect contemplative phenomenology with neuroscience.
-- **Source**: chain (from default-mode-network.md)
-- **Generated**: 2026-01-29
-
-### P3: Cross-review thoughts-that-slip-away.md considering attention-created-voids insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/attention-created-voids.md (2026-01-29) develops how attention structurally creates unattendable territory—figure-ground, penumbral suppression, James's fringes. Check thoughts-that-slip-away.md for: (1) cross-links to the new attention voids treatment, (2) whether "slippage" mechanisms overlap with attention-created voids, (3) opportunities to distinguish content-based slippage from structural attention limits.
+- **Notes**: PROMOTED. New voids article voids/attention-created-voids.md (2026-01-29) develops how attention structurally creates unattendable territory—figure-ground, penumbral suppression, James's fringes. Check thoughts-that-slip-away.md for: (1) cross-links to the new attention voids treatment, (2) whether "slippage" mechanisms overlap with attention-created voids, (3) opportunities to distinguish content-based slippage from structural attention limits.
 - **Source**: chain (from attention-created-voids.md)
 - **Generated**: 2026-01-29
 
@@ -62,9 +56,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from convergent-cognitive-limits.md)
 - **Generated**: 2026-01-28
 
-### P3: Deep review other-minds-void.md
+### P2: Deep review other-minds-void.md
 - **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the structural impossibility of direct access to other conscious experiences. Should verify: (1) accuracy of epistemological arguments, (2) connection to problem-of-other-minds.md, (3) whether it properly distinguishes the void (structural limit) from mere empirical difficulty, (4) alignment with voids framework.
+- **Notes**: PROMOTED. AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the structural impossibility of direct access to other conscious experiences. Should verify: (1) accuracy of epistemological arguments, (2) connection to problem-of-other-minds.md, (3) whether it properly distinguishes the void (structural limit) from mere empirical difficulty, (4) alignment with voids framework. Important: synergizes with new past-self-void article (parallel structure between other minds and past selves).
 - **Source**: staleness
 - **Generated**: 2026-01-28
 
@@ -74,22 +68,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from contemplative-evidence-for-consciousness-theories.md)
 - **Generated**: 2026-01-28
 
-### P2: Cross-review global-workspace-theory.md considering IIT critique
-- **Type**: cross-review
-- **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) provides detailed critique of IIT from the Map's interactionist perspective. Global Workspace Theory is often compared to IIT. Check global-workspace-theory.md for: (1) cross-links to IIT critique, (2) whether GWT avoids the passivity objection raised against IIT, (3) opportunities to clarify how both theories handle consciousness's causal role.
-- **Source**: chain (from integrated-information-theory-critique.md)
-- **Generated**: 2026-01-28
-- **Promoted**: 2026-01-29 (replenish-queue: important theory comparison, strengthens IIT critique integration)
-
 ### P3: Cross-review panpsychism.md considering IIT critique
 - **Type**: cross-review
 - **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) discusses IIT's panpsychist implications (expander graphs, ubiquitous consciousness). Check panpsychism.md for: (1) cross-links to the IIT critique's treatment of panpsychism, (2) whether the combination problem is connected to IIT's mathematical framework, (3) consistency between the two articles on panpsychism's relationship to interactionism.
 - **Source**: chain (from integrated-information-theory-critique.md)
 - **Generated**: 2026-01-28
 
-### P3: Deep review temporal-asymmetry-remembering-anticipating.md
+### P2: Deep review temporal-asymmetry-remembering-anticipating.md
 - **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the asymmetry between remembering (re-experiencing the past) and anticipating (only imagining the future). Pre-experience appears structurally impossible. Should verify: (1) accuracy of causal trace arguments, (2) connection to duration.md and temporal-consciousness.md, (3) alignment with voids framework, (4) engagement with philosophical literature on temporal phenomenology.
+- **Notes**: PROMOTED. AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the asymmetry between remembering (re-experiencing the past) and anticipating (only imagining the future). Pre-experience appears structurally impossible. Should verify: (1) accuracy of causal trace arguments, (2) connection to duration.md and temporal-consciousness.md, (3) alignment with voids framework, (4) engagement with philosophical literature on temporal phenomenology. Important: synergizes with new past-self-void work.
 - **Source**: staleness
 - **Generated**: 2026-01-28
 
@@ -110,6 +97,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: New voids article voids/pre-conceptual-knowing.md (2026-01-27) investigates whether conceptual beings are structurally blocked from modes of knowing available to pre-conceptual beings. Check phenomenology.md for: (1) cross-links to pre-conceptual knowing discussion, (2) whether the fineness-of-grain problem and phenomenal overflow are addressed, (3) connection to the broader voids framework.
 - **Source**: chain (from pre-conceptual-knowing.md)
 - **Generated**: 2026-01-27
+
+### P3: Condense minimal-consciousness.md (3750 words, 107% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers minimal forms of consciousness—what the simplest conscious experience might be. Preserve: core arguments about consciousness thresholds, connection to animal consciousness and graded consciousness. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-29
+
+### P3: Condense many-worlds.md (3704 words, 106% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers many-worlds interpretation arguments relevant to the No Many Worlds tenet. Preserve: core indexical identity objection, connection to quantum-interpretations.md, engagement with Wallace's decision-theoretic argument. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-29
 
 ### P3: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
 - **Type**: condense
@@ -290,6 +289,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review 2026-01-24. How does consciousness enable creative innovation? If great apes are restricted to the "zone of latent solutions," what enables humans to escape it? The incubation effect (unconscious processing followed by conscious insight) is empirically well-studied. Builds on baseline-cognition.md, conscious-vs-unconscious-processing.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-24
+
+### P3: Write article on temporal binding and the specious present
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. How consciousness achieves duration—the ~100-750ms "specious present" that makes melody possible rather than isolated notes. Covers phenomenology of temporal flow, Husserl's retention-protention structure, and connection to quantum collapse models. Builds on temporal-consciousness.md, process-philosophy.md, phenomenal-unity.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Write article on consciousness and mathematical understanding
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. Penrose-Lucas-Gödel arguments that mathematical understanding cannot be computational; how consciousness grasps truths that formal systems cannot derive. Connection to the argument from reason and consciousness's role in normative epistemology. Builds on argument-from-reason.md, consciousness-and-intelligence.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Create concept page for specious-present
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. The ~100-750ms duration within which experience flows as unified—fundamental to temporal consciousness but currently scattered across multiple articles. Would consolidate discussion from temporal-consciousness.md, duration.md, process-philosophy.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
+
+### P3: Create concept page for phenomenal-overflow
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. Evidence that phenomenal consciousness exceeds cognitive access (Sperling's iconic memory, change blindness). Frequently referenced but not defined. Relevant to phenomenal-consciousness.md, access-consciousness.md, attention.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-29
 
 ### P3: Address AI consciousness article length and redundancy
 - **Type**: refine-draft
@@ -788,6 +811,92 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
+- **Type**: cross-review
+- **Notes**: PROMOTED. New concept page concepts/default-mode-network.md (2026-01-29) discusses DMN suppression during meditation. Check meditation-and-consciousness-modes.md for: (1) cross-links to the DMN neurobiological treatment, (2) whether the DMN framework explains meditation state transitions, (3) opportunities to connect contemplative phenomenology with neuroscience.
+- **Output**: obsidian/concepts/meditation-and-consciousness-modes.md -- Context: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
+
+### ✓ 2026-01-29: Write voids article on past-self void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-past-self-void-2026-01-29.md. Covers the structural inaccessibility of past conscious states—we cannot directly re-enter yesterday's mind, only reconstruct it from incomplete traces. The past self is numerically identical yet phenomenologically alien. Connects to other-minds-void (parallel structure), temporal-asymmetry-remembering-anticipating, episodic-memory, autonoetic-consciousness.
+- **Output**: Write voids article on past-self void
+
+### ✓ 2026-01-29: Cross-review voids.md considering origin-of-consciousness.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/origin-of-consciousness.md (2026-01-29) introduces the origin void—arguably the deepest void in the framework. Check voids.md section index for: (1) cross-links to origin void, (2) whether the taxonomy properly places origin questions, (3) updating the overview to mention this fundamental void.
+- **Output**: obsidian/voids/voids.md -- Context: Cross-review voids.md considering origin-of-consciousness.md
+
+### ✓ 2026-01-29: Cross-review voluntary-attention.md considering attention-motor-quantum-interface.md
+- **Type**: cross-review
+- **Notes**: New article concepts/attention-motor-quantum-interface.md (2026-01-29) unifies PMTA with Stapp's quantum Zeno mechanism. The voluntary-attention.md article covers willed attention. Check for: (1) cross-links to the unified interface treatment, (2) whether PMTA evidence is properly integrated, (3) connection between "willed attention" and the unified selection mechanism.
+- **Output**: obsidian/concepts/voluntary-attention.md -- Context: Cross-review voluntary-attention.md considering attention-motor-quantum-interface.md
+
+### ✓ 2026-01-29: Cross-review panpsychism.md considering origin-of-consciousness.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/origin-of-consciousness.md (2026-01-29) explores why consciousness exists at all. Panpsychism offers one answer (consciousness is fundamental). Check panpsychism.md for: (1) cross-links to origin void, (2) whether panpsychism addresses the origin question or merely relocates it, (3) connection between "why consciousness exists" and "consciousness is fundamental."
+- **Output**: obsidian/concepts/panpsychism.md -- Context: Cross-review panpsychism.md considering origin-of-consciousness.md
+
+### ✓ 2026-01-29: Deep review origin-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: PROMOTED. New AI-generated voids article (ai_contribution: 100) created 2026-01-29, never deep-reviewed. Covers the "origin void"—why consciousness exists at all. Should verify: (1) distinction from hard problem is clear, (2) engagement with various responses (panpsychism, fundamental consciousness), (3) alignment with voids framework.
+- **Output**: obsidian/voids/origin-of-consciousness.md
+
+### ✓ 2026-01-29: Refine IIT critique to address reflexive passivity objection
+- **Type**: refine-draft
+- **Notes**: PROMOTED from P3. Pessimistic review (2026-01-29-late) identified that the passivity objection against IIT applies reflexively to the Map's quantum selection framework. Critical for intellectual honesty. Strengthen by: (1) acknowledging the objection applies to both, (2) distinguishing type-level from token-level causation, (3) arguing that token-level determination is genuine causation. See pessimistic-2026-01-29-late.md.
+- **Output**: Task context:
+PROMOTED from P3. Pessimistic review (2026-01-29-late) identified that the passivity objection against IIT applies reflexively to the Map's quantum selection framework. Critical for intellectual honesty. Strengthen by: (1) acknowledging the objection applies to both, (2) distinguishing type-level from token-level causation, (3) arguing that token-level determination is genuine causation. See pessimistic-2026-01-29-late.md.
+
+### ✓ 2026-01-29: Refine IIT critique to address reflexive passivity objection
+- **Type**: refine-draft
+- **Notes**: PROMOTED from P3. Pessimistic review (2026-01-29-late) identified that the passivity objection against IIT applies reflexively to the Map's quantum selection framework. Critical for intellectual honesty. Strengthened by: (1) acknowledging the objection applies to both, (2) distinguishing type-level from token-level causation, (3) arguing that token-level determination is genuine causation.
+- **Output**: obsidian/topics/integrated-information-theory-critique.md
+
+### ✓ 2026-01-29: Deep review conservation-laws-and-mind.md
+- **Type**: deep-review
+- **Notes**: AI-generated topics article (ai_contribution: 100), never deep-reviewed. Covers how conservation laws constrain mind-body interaction theories. Critical for the site's interactionism: should verify (1) accuracy of physics claims, (2) engagement with causal closure objection, (3) connection to minimal quantum interaction tenet, (4) whether the energy conservation objection is properly addressed.
+- **Output**: obsidian/topics/conservation-laws-and-mind.md
+
+### ✓ 2026-01-29: Create concept page for attention-motor-quantum-interface
+- **Type**: expand-topic
+- **Notes**: This concept is referenced 15 times across the site (motor-selection.md, quantum-consciousness.md, reviews) but has no definition page. Should define: the hypothesized role of attention and motor systems as the interface between consciousness and quantum processes, connection to voluntary attention and motor selection, relationship to Stapp's quantum Zeno mechanism.
+- **Output**: Create concept page for attention-motor-quantum-interface
+
+### ✓ 2026-01-29: Cross-review mysterianism.md considering origin-of-consciousness.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/origin-of-consciousness.md (2026-01-29) develops the origin void where inquiry confronts the containment of the questioner. Mysterianism addresses cognitive closure—check for: (1) cross-links to origin void, (2) whether mysterian arguments apply to the origin question specifically, (3) connection between cognitive closure and self-referential voids.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering origin-of-consciousness.md
+
+### ✓ 2026-01-29: Cross-review hard-problem-of-consciousness.md considering origin-of-consciousness.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/origin-of-consciousness.md (2026-01-29) explores the "origin void"—why consciousness exists at all, a question prior to the hard problem. Check hard-problem-of-consciousness.md for: (1) cross-links to the origin void treatment, (2) whether the distinction between "what consciousness is" and "why it exists" is clear, (3) opportunities to connect the hard problem to deeper ontological questions.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering origin-of-consciousness.md
+
+### ✓ 2026-01-29: Deep review embodiment-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers how embodiment creates cognitive constraints and affordances—sensorimotor contingencies, temporal scales, umwelt limitations. Should verify: (1) accuracy of embodied cognition claims, (2) connection to embodied-cognition.md, (3) whether it properly distinguishes void (structural) from mere limitation, (4) alignment with voids framework.
+- **Output**: obsidian/voids/embodiment-cognitive-limits.md
+
+### ✓ 2026-01-29: Deep review topology-of-cognitive-failure.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the systematic structure of cognitive failures—not random but following patterns (combinatorial explosion, regress, self-reference). Should verify: (1) accuracy of failure mode taxonomy, (2) connection to limits-reveal-structure.md, (3) whether topology metaphor is clarifying or confusing, (4) alignment with voids framework.
+- **Output**: obsidian/voids/topology-of-cognitive-failure.md
+
+### ✓ 2026-01-29: Deep review attention-created-voids.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers how attention structurally creates unattendable territory—figure-ground, penumbral suppression, James's unfocusable fringes. Should verify: (1) accuracy of Gurwitsch's field theory claims, (2) connection to voluntary-attention.md and attention.md, (3) whether distinction between structural vs content-based attention limits is clear, (4) alignment with voids framework.
+- **Output**: obsidian/voids/attention-created-voids.md
+
+### ✓ 2026-01-29: Write voids article on origin of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-origin-of-consciousness-2026-01-29.md. Investigates the question prior to the hard problem: why does consciousness exist at all? Not how it relates to matter, but why there is any experience whatsoever. Key insight: this question may be structurally unanswerable from within consciousness itself—every attempt presupposes experience. Philosophers treat it as brute fact, fundamental irreducible, or ultimate mystery. The apophatic tradition offers methodological guidance. Strong candidate for the deepest void.
+- **Output**: Write voids article on origin of consciousness
+
+### ✓ 2026-01-29: Cross-review global-workspace-theory.md considering IIT critique
+- **Type**: cross-review
+- **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) provides detailed critique of IIT from the Map's interactionist perspective. Global Workspace Theory is often compared to IIT. Check global-workspace-theory.md for: (1) cross-links to IIT critique, (2) whether GWT avoids the passivity objection raised against IIT, (3) opportunities to clarify how both theories handle consciousness's causal role.
+- **Output**: obsidian/concepts/global-workspace-theory.md -- Context: Cross-review global-workspace-theory.md considering IIT critique
 
 ### ✓ 2026-01-29: Deep review computational-cognitive-limits.md
 - **Type**: deep-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-29 16:49:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ description: 'Willed attention shows unique neural signatures: frontal theta, bi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-24 06:57:00+00:00
+last_deep_review: 2026-01-29 16:49:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -128,9 +128,9 @@ Attention is the psychological process that *holds* content active over time—p
 
 [Motor selection](/concepts/motor-selection/) provides a concrete example of voluntary attention control in action. The 300ms decision window before voluntary movement—during which frontal theta increases and frontal-parietal coherence strengthens—shows the same neural signatures as willed attention.
 
-The Desmurget double dissociation is particularly significant: stimulating parietal cortex produces movements without intention ("my arm moved"), while stimulating premotor cortex produces intention without movement ("I wanted to move but didn't"). This supports the view that phenomenal intention is causally upstream of motor execution.
+The Desmurget double dissociation is particularly significant: stimulating parietal cortex produces movements without intention ("my arm moved"), while stimulating premotor cortex produces intention without movement ("I wanted to move but didn't") (Desmurget et al. 2009). This supports the view that phenomenal intention is causally upstream of motor execution.
 
-The [premotor theory of attention](/archive/concepts/attention-motor-quantum-interface/) proposes that attention shifts *are* motor plans. The timing convergence supports this: ~300ms willed attention deployment matches the ~280ms motor commitment point. This suggests a single quantum selection interface—consciousness operates through one mechanism that the brain divides only functionally. Willed attention and willed action feel like the same kind of effort because they *are* the same kind of effort.
+Giacomo Rizzolatti's [premotor theory of attention](/archive/concepts/attention-motor-quantum-interface/) (PMTA) proposes that attention shifts *are* motor plans. The timing convergence supports this: ~300ms willed attention deployment matches the ~280ms motor commitment point identified by Thura & Cisek (2014). This suggests a single quantum selection interface—consciousness operates through one mechanism that the brain divides only functionally. Willed attention and willed action feel like the same kind of effort because they *are* the same kind of effort.
 
 ## Relation to Site Perspective
 
@@ -218,7 +218,9 @@ This neural distinctiveness matters philosophically. If consciousness contribute
 
 - Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 - COGITATE Consortium (2025). Adversarial testing of theories of consciousness. *Nature Human Behaviour*.
+- Desmurget, M., Reilly, K.T., Richard, N., Szathmari, A., Mottolese, C., & Sirigu, A. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
 - Hagan, S., Hameroff, S.R., & Tuszynski, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+- Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 - Vossel, S. et al. (2023). Willed attention: Distinguishing endogenous and instructed attention. *Frontiers in Psychology*, 14, 1023456.
