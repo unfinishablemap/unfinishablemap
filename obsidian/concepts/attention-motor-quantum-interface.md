@@ -4,7 +4,7 @@ description: "The unified neural substrate where attention and motor planning co
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T19:00:00+00:00
+ai_modified: 2026-01-29T15:54:19+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-29
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-29T15:54:19+00:00
 ---
 
 The attention-motor quantum interface is the hypothesized unified neural substrate where consciousness influences brain states. The Unfinishable Map proposes that attention and motor planning share the same neural mechanisms—and that this shared substrate is where consciousness selects among quantum possibilities through the [[stapp-quantum-mind|quantum Zeno effect]]. Rather than two separate interfaces (one for perception, one for action), consciousness operates through a single selection mechanism that the brain divides only functionally.
@@ -36,7 +36,7 @@ This unification has substantial empirical support. The premotor theory of atten
 
 ## The Premotor Theory of Attention
 
-Giacomo Rizzolatti's premotor theory of attention (PMTA) provides the empirical foundation. The core claim: "Selective attention and movement planning use the same neural substrates and there is no independent attention system."
+Giacomo Rizzolatti's premotor theory of attention (PMTA) provides the empirical foundation. The core claim: selective attention and movement planning use the same neural substrates—there is no independent attention system.
 
 Evidence supporting this claim:
 
@@ -135,7 +135,7 @@ This framework identifies *where* consciousness might influence brain states—a
 
 ## Challenges and Responses
 
-**Decoherence objection**: If the interface involves quantum processes, how can coherence survive in warm neural tissue? Revised calculations (Hameroff 2014) yield coherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer than Tegmark's estimates. Additionally, Stapp's Zeno mechanism doesn't require sustained coherence—each attentional "observation" constitutes a rapid measurement collapsing the wavefunction before decoherence acts. See [[quantum-neural-timing-constraints]] for the full timing hierarchy.
+**Decoherence objection**: If the interface involves quantum processes, how can coherence survive in warm neural tissue? The debate remains open: Tegmark estimated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds, while Hameroff (2014) argues revised calculations yield 10⁻⁵ to 10⁻⁴ seconds—though these address different mechanisms and neither has secured consensus. Importantly, Stapp's Zeno mechanism doesn't require sustained coherence—each attentional "observation" constitutes a rapid measurement collapsing the wavefunction before decoherence acts. See [[quantum-neural-timing-constraints]] for the full timing hierarchy.
 
 **Libet challenge**: The [[libet-experiments]] found neural preparation precedes conscious awareness. Schurger's 2012 model reframes this: the readiness potential may be averaged stochastic noise, not unconscious decision. What consciousness contributes is determining *when to allow* threshold-crossing—selection among options the brain presents.
 
@@ -149,6 +149,7 @@ This framework identifies *where* consciousness might influence brain states—a
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno mechanism
 - [[dopamine-selection-interface]] — Dopamine's role in threshold modulation
 - [[quantum-neural-timing-constraints]] — Decoherence and timing considerations
+- [[agent-causation]] — The metaphysics of agents as causes
 
 ## References
 
