@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense first-person-third-person-methodology-2026-01-23.md (4271 words, 122% of threshold)
-- **Type**: condense
-- **Notes**: Research file exceeds 3500-word hard threshold for research/. Covers the debate between first-person phenomenological methods and third-person scientific observation in consciousness studies. Preserve: key methodological distinctions, Varela's neurophenomenology, implications for consciousness science. May need reorganization rather than pure condensation. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-29
-
 ### P2: Deep review machine-consciousness.md
 - **Type**: deep-review
 - **Notes**: Core AI consciousness article (ai_contribution: 100), last_deep_review invalid/never. Given rapid developments in AI, this article should be reviewed for: (1) accuracy of substrate independence arguments, (2) engagement with current AI capabilities, (3) connection to llm-consciousness.md and the Map's overall AI position, (4) alignment with all five tenets especially Dualism.
@@ -764,6 +758,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Condense first-person-third-person-methodology-2026-01-23.md (4271 words, 122% of threshold)
+- **Type**: condense
+- **Notes**: Research file exceeds 3500-word hard threshold for research/. Covers the debate between first-person phenomenological methods and third-person scientific observation in consciousness studies. Preserve: key methodological distinctions, Varela's neurophenomenology, implications for consciousness science. May need reorganization rather than pure condensation. See /condense skill.
+- **Output**: obsidian/research/first-person-third-person-methodology-2026-01-23.md
 
 ### ✓ 2026-01-29: Cross-review baseline-cognition.md considering counterfactual-reasoning insights
 - **Type**: cross-review
