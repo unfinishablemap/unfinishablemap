@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-29 17:00 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/mental-causation.md`
+- **Review type**: Cross-review with delegatory-dualism.md
+- **Word count**: 2908 → 2931 (+23, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reference to delegatory dualism in Major Responses)
+- **Enhancements made**: 4 (added Delegatory Dualism subsection, added concept link, updated Further Reading, added Saad reference)
+- **Output**: `reviews/deep-review-2026-01-29-mental-causation.md`
+
 ## 2026-01-29 21:30 UTC - deep-review
 
 - **Status**: Success

@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review mental-causation.md considering delegatory-dualism.md
-- **Type**: cross-review
-- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) introduces the delegation mechanism for mental causation—experiences take over causal work rather than adding to it. Check mental-causation.md for: (1) cross-links to this novel mechanism, (2) whether the overdetermination discussion should reference the delegation alternative, (3) engagement with Saad's five constraints on dualist theories.
-- **Source**: chain (from delegatory-dualism.md)
-- **Generated**: 2026-01-29
-
 ### P2: Cross-review attention.md considering attention-created-voids.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/attention-created-voids.md (2026-01-29) argues attention structurally creates unattendable territory—figure creates ground, penumbral suppression, James's unfocusable fringes. Check attention.md for: (1) cross-links to the voids treatment, (2) whether attention's structural limitations deserve mention alongside its role in consciousness, (3) consistency with Gurwitsch/Watzl frameworks.
@@ -782,6 +776,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-29: Cross-review mental-causation.md considering delegatory-dualism.md
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (2026-01-29) introduces the delegation mechanism for mental causation—experiences take over causal work rather than adding to it. Check mental-causation.md for: (1) cross-links to this novel mechanism, (2) whether the overdetermination discussion should reference the delegation alternative, (3) engagement with Saad's five constraints on dualist theories.
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Cross-review mental-causation.md considering delegatory-dualism.md
 
 ### ✓ 2026-01-29: Cross-review interactionist-dualism.md considering delegatory-dualism.md
 - **Type**: cross-review
