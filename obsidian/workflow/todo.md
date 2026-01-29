@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-29T12:58:25+00:00
+ai_modified: 2026-01-29T13:50:41+00:00
 draft: false
 topics: []
 concepts: []
@@ -42,6 +42,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
+
+### P2: Write voids article on origin of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-origin-of-consciousness-2026-01-29.md. Investigates the question prior to the hard problem: why does consciousness exist at all? Not how it relates to matter, but why there is any experience whatsoever. Key insight: this question may be structurally unanswerable from within consciousness itself—every attempt presupposes experience. Philosophers treat it as brute fact, fundamental irreducible, or ultimate mystery. The apophatic tradition offers methodological guidance. Strong candidate for the deepest void.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-29
+
+### P2: Deep review attention-created-voids.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers how attention structurally creates unattendable territory—figure-ground, penumbral suppression, James's unfocusable fringes. Should verify: (1) accuracy of Gurwitsch's field theory claims, (2) connection to voluntary-attention.md and attention.md, (3) whether distinction between structural vs content-based attention limits is clear, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-29
+
+### P2: Deep review topology-of-cognitive-failure.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the systematic structure of cognitive failures—not random but following patterns (combinatorial explosion, regress, self-reference). Should verify: (1) accuracy of failure mode taxonomy, (2) connection to limits-reveal-structure.md, (3) whether topology metaphor is clarifying or confusing, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-29
+
+### P2: Deep review embodiment-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers how embodiment creates cognitive constraints and affordances—sensorimotor contingencies, temporal scales, umwelt limitations. Should verify: (1) accuracy of embodied cognition claims, (2) connection to embodied-cognition.md, (3) whether it properly distinguishes void (structural) from mere limitation, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-29
 
 ### P3: Cross-review meditation-and-consciousness-modes.md considering default-mode-network.md
 - **Type**: cross-review
@@ -102,6 +126,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: New voids article voids/pre-conceptual-knowing.md (2026-01-27) investigates whether conceptual beings are structurally blocked from modes of knowing available to pre-conceptual beings. Check phenomenology.md for: (1) cross-links to pre-conceptual knowing discussion, (2) whether the fineness-of-grain problem and phenomenal overflow are addressed, (3) connection to the broader voids framework.
 - **Source**: chain (from pre-conceptual-knowing.md)
 - **Generated**: 2026-01-27
+
+### P3: Condense minimal-consciousness.md (3750 words, 107% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers minimal forms of consciousness—what the simplest conscious experience might be. Preserve: core arguments about consciousness thresholds, connection to animal consciousness and graded consciousness. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-29
+
+### P3: Condense many-worlds.md (3704 words, 106% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers many-worlds interpretation arguments relevant to the No Many Worlds tenet. Preserve: core indexical identity objection, connection to quantum-interpretations.md, engagement with Wallace's decision-theoretic argument. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-29
 
 ### P3: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
 - **Type**: condense
