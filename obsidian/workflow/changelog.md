@@ -17,6 +17,20 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-30 03:40 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `concepts/access-consciousness.md`
+- **Changes**:
+  - Acknowledged access/phenomenal distinction is contested, not established framework
+  - Added functionalist interpretation that distinction begs the question
+  - Expanded blindsight section to include functionalist reading
+  - Enhanced functionalism section with explicit challenge and Map's response
+  - Added Tegmark's timescale objections to Stapp's quantum mechanism
+  - Expanded MWI section to engage with MWI defenders' responses
+- **Triggered by**: pessimistic-2026-01-29-night.md (Issue 1: distinction begs question against functionalism)
+- **Published**: yes
+
 ## 2026-01-30 02:40 UTC - deep-review
 
 - **Status**: Success

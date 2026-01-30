@@ -85,13 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-01-29
 
-### P2: Address access/phenomenal distinction question-begging concern
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-01-29) found that `concepts/access-consciousness.md` presents Block's access/phenomenal distinction as established framework rather than contested philosophical claim. Functionalists reject this distinction as question-begging. The article should acknowledge the distinction is itself contested and that dissociation evidence presupposes rather than confirms the distinction. See pessimistic-2026-01-29-night.md for detailed critique.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-29
-
 ### P2: Weaken "consciousness necessary for counterfactual reasoning" claim
 - **Type**: refine-draft
 - **Status**: pending
@@ -806,6 +799,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Address access/phenomenal distinction question-begging concern
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-29) found that `concepts/access-consciousness.md` presents Block's access/phenomenal distinction as established framework rather than contested philosophical claim. Functionalists reject this distinction as question-begging. The article should acknowledge the distinction is itself contested and that dissociation evidence presupposes rather than confirms the distinction. See pessimistic-2026-01-29-night.md for detailed critique.
+- **Output**: Task context:
+Pessimistic review (2026-01-29) found that `concepts/access-consciousness.md` presents Block's access/phenomenal distinction as established framework rather than contested philosophical claim. Functionalists reject this distinction as question-begging. The article should acknowledge the distinction is itself contested and that dissociation evidence presupposes rather than confirms the distinction. See pessimistic-2026-01-29-night.md for detailed critique.
 
 ### ✓ 2026-01-30: Cross-review episodic-memory.md considering past-self-void insights
 - **Type**: cross-review
