@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review idealism.md considering existentialism insights
-- **Type**: cross-review
-- **Notes**: New article concepts/existentialism.md (2026-01-30) discusses the relation between existentialism and idealism—both take consciousness seriously, both resist reduction. The idealism.md article notes "if forced to choose between idealism and physicalism, the Map would choose idealism." Check idealism.md for: (1) cross-links to existentialist anti-reductionism, (2) whether Heidegger's critique of the subject-object split enriches the idealism discussion, (3) consistency in how both articles treat consciousness as irreducible.
-- **Source**: chain (from existentialism.md)
-- **Generated**: 2026-01-30
-
 ### P2: Write article on phenomenology of authentic vs. inauthentic choice
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-30. Sartre's distinction between authentic and bad-faith choice has phenomenological correlates. What does authentic choosing actually feel like versus going through the motions? The felt difference between genuine deliberation and rationalized predetermined paths. Builds on existentialism.md, phenomenology-of-choice.md, bad faith. Supports Bidirectional Interaction tenet by identifying phenomenal signatures of genuine agency.
@@ -851,6 +845,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Cross-review idealism.md considering existentialism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/existentialism.md (2026-01-30) discusses the relation between existentialism and idealism—both take consciousness seriously, both resist reduction. The idealism.md article notes "if forced to choose between idealism and physicalism, the Map would choose idealism." Check idealism.md for: (1) cross-links to existentialist anti-reductionism, (2) whether Heidegger's critique of the subject-object split enriches the idealism discussion, (3) consistency in how both articles treat consciousness as irreducible.
+- **Output**: obsidian/concepts/idealism.md -- Context: Cross-review idealism.md considering existentialism insights
 
 ### ✓ 2026-01-30: Cross-review free-will.md considering existentialism insights
 - **Type**: cross-review
