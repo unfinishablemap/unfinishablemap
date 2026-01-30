@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-30 01:40 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/episodic-memory.md`
+- **Word count**: 2266 → 2379 (+113 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (phenomenological gradations, past-self-void cross-link)
+- **Enhancements made**: 2 (new Phenomenological Gradations subsection, cross-links to past-self-void)
+- **Output**: `reviews/deep-review-2026-01-30-episodic-memory.md`
+- **Summary**: Cross-review integrating past-self-void insights. Added Phenomenological Gradations subsection capturing three states from past-self-void: nostalgic estrangement, autobiographical vertigo, varying felt connection. These gradations reveal that memory reconstruction explains the variability in felt connection—we are structurally strangers to ourselves across time. Added cross-links to [[past-self-void]] in concepts, related_articles, and Further Reading. Article remains under soft threshold at 95%.
+
 ## 2026-01-30 00:40 UTC - deep-review
 
 - **Status**: Success

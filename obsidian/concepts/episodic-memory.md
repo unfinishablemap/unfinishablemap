@@ -4,7 +4,7 @@ description: "Autobiographical memory and autonoetic consciousness: remembering 
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-29T16:39:12+00:00
+ai_modified: 2026-01-30T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,16 +27,18 @@ concepts:
   - "[[decoherence]]"
   - "[[attention-as-interface]]"
   - "[[meditation-and-consciousness-modes]]"
+  - "[[past-self-void]]"
 related_articles:
   - "[[tenets]]"
   - "[[temporal-asymmetry-remembering-anticipating]]"
   - "[[episodic-memory-consciousness-2026-01-16]]"
+  - "[[past-self-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-01-29T16:39:12+00:00
+last_deep_review: 2026-01-30T01:40:00+00:00
 ---
 
 Episodic memory stores experienced events—your first day at school, yesterday's breakfast, the moment you learned some terrible news. Unlike [[semantic-memory|semantic memory]] (knowing facts) or [[implicit-memory|implicit memory]] (skills and habits), episodic memory is autobiographical: it records what happened *to you*, *when*, and *where*. When you retrieve an episodic memory, you don't merely access information—you re-experience the event, re-inhabiting it with first-person phenomenology. This distinctive relationship between memory and consciousness is what Tulving captured with the term [[autonoetic-consciousness|autonoetic consciousness]].
@@ -74,6 +76,10 @@ The [[binding-problem|binding problem]] in consciousness and the binding problem
 [[autonoetic-consciousness|Autonoetic consciousness]] describes the distinctive phenomenology of episodic remembering: the sense of re-experiencing, the double presence of self (as rememberer and as protagonist), the felt pastness of the remembered event.
 
 Tulving's three-level hierarchy captures what makes this distinctive. [[implicit-memory|Anoetic consciousness]] accompanies procedural memory—there's something it is like to perform a skill, but without self-representation. Noetic consciousness accompanies [[semantic-memory|semantic memory]]—you know facts without re-experiencing learning them. Autonoetic consciousness involves *representing yourself as the subject of the represented event*. You project yourself back into the past, phenomenally present as both current rememberer and past protagonist.
+
+### Phenomenological Gradations
+
+The phenomenology of remembering comes in degrees. *Nostalgic estrangement*: looking at old photos, you recognise yourself as protagonist but cannot re-enter that perspective—you remember *about* the experience without re-experiencing it. *Autobiographical vertigo*: occasionally "was that really me?" becomes sharp, creating dissonance between numerical identity (same person) and phenomenal alienation (different experience). *Varying felt connection*: sometimes a past self feels like "me," sometimes like a stranger—direct access wouldn't vary this way; reconstruction explains the variability. These gradations reveal what the [[past-self-void|past-self void]] makes explicit: we are structurally strangers to ourselves across time, confusing vivid reconstruction with genuine access.
 
 ### The Pastness Quale
 
@@ -129,6 +135,7 @@ Episodic memory supports all five foundational commitments.
 
 - [[autonoetic-consciousness]] — The form of consciousness that enables episodic memory
 - [[temporal-asymmetry-remembering-anticipating]] — Why we can re-experience the past but only imagine the future
+- [[past-self-void]] — Why the past self is structurally inaccessible, not merely forgotten
 - [[semantic-memory]] — Noetic consciousness and knowing without re-experiencing
 - [[implicit-memory]] — Anoetic consciousness and procedural memory
 - [[prospective-memory]] — Memory for the future
