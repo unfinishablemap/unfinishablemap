@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly, not
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-30T12:04:00+00:00
+ai_modified: 2026-01-30T22:15:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -26,6 +26,7 @@ concepts:
   - "[[mental-causation]]"
   - "[[phenomenology-of-choice]]"
   - "[[explanatory-gap]]"
+  - "[[authentic-vs-inauthentic-choice]]"
 related_articles:
   - "[[tenets]]"
   - "[[agent-causation-libertarian-free-will-2026-01-14]]"
@@ -36,7 +37,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-30T12:04:00+00:00
+last_deep_review: 2026-01-30T22:15:00+00:00
 ---
 
 Agent causation holds that conscious agents—understood as persisting substances rather than collections of events—directly cause their actions. The agent is the causal source, not reducible to prior mental events like beliefs and desires. This positions agents as initiators of causal chains, not merely links in chains that stretch back before their existence.
@@ -72,7 +73,7 @@ The Map strengthens this response. Consciousness doesn't randomly select—it ge
 3. **Reasons-guided selection**: Consciousness selects based on reasons, making selection contrastively explicable
 4. **Retrocausal deepening**: If [[retrocausality|selection is atemporal]], the prior state is part of what consciousness selected
 
-The agent's exercise of causal power is itself the explanation—a legitimate terminus, like physics taking existence as primitive. Selection is phenomenologically distinct (effort vs passivity), neurally distinct (frontal theta), and reasons-responsive.
+The agent's exercise of causal power is itself the explanation—a legitimate terminus, like physics taking existence as primitive. Selection is phenomenologically distinct (effort vs passivity), neurally distinct (frontal theta), and reasons-responsive. The [[authentic-vs-inauthentic-choice|authenticity dimension]] matters here: agent causation is fully engaged in authentic choice (where you genuinely author the decision) and attenuated in inauthentic, scripted behavior—suggesting the selection function has variable engagement rather than operating uniformly across all actions.
 
 ## Substance Causation and the Map's Framework
 
@@ -167,6 +168,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 - [[implicit-memory]] — Skill delegation and choking phenomenon
 - [[decoherence]] — The decoherence challenge
 - [[explanatory-gap]] — Why physical description leaves consciousness unexplained
+- [[authentic-vs-inauthentic-choice]] — When agent causation is engaged (authentic choice) vs. attenuated
 
 ## References
 

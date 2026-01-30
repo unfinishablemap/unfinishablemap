@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review agent-causation.md considering authentic-vs-inauthentic-choice
-- **Type**: cross-review
-- **Notes**: New article topics/authentic-vs-inauthentic-choice.md (2026-01-30) argues that authentic choice engages consciousness's genuine selection function while inauthentic choice runs on automatic processing. Check agent-causation.md for: (1) cross-links to the authenticity framework, (2) whether the distinction between genuine agent causation and pseudo-agency aligns, (3) connection between the "mental effort" signature of authentic choice and agent-causal accounts.
-- **Source**: chain (from authentic-vs-inauthentic-choice.md)
-- **Generated**: 2026-01-30
-
 ### P2: Cross-review working-memory.md considering language-recursion-consciousness
 - **Type**: cross-review
 - **Notes**: Article topics/language-recursion-and-consciousness.md argues that recursive syntax depends on working memory manipulation requiring conscious access. Check working-memory.md for: (1) cross-links to the recursion-consciousness argument, (2) whether the "bottleneck" framing for recursive processing is developed, (3) connection between working memory limits and consciousness-dependence claims.
@@ -839,6 +833,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Cross-review agent-causation.md considering authentic-vs-inauthentic-choice
+- **Type**: cross-review
+- **Notes**: New article topics/authentic-vs-inauthentic-choice.md (2026-01-30) argues that authentic choice engages consciousness's genuine selection function while inauthentic choice runs on automatic processing. Check agent-causation.md for: (1) cross-links to the authenticity framework, (2) whether the distinction between genuine agent causation and pseudo-agency aligns, (3) connection between the "mental effort" signature of authentic choice and agent-causal accounts.
+- **Output**: obsidian/concepts/agent-causation.md -- Context: Cross-review agent-causation.md considering authentic-vs-inauthentic-choice
 
 ### ✓ 2026-01-30: Write voids article on natural vs. designed cognitive limits
 - **Type**: expand-topic
