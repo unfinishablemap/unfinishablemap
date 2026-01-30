@@ -4,7 +4,7 @@ description: "Existentialist philosophy's contributions to consciousness studies
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T15:55:00+00:00
+ai_modified: 2026-01-30T16:45:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -29,6 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-30
 last_curated: null
+last_deep_review: 2026-01-30T16:45:00+00:00
 ---
 
 Existentialism offers The Unfinishable Map resources that extend beyond its traditional concerns with meaning, freedom, and authenticity. Two contributions stand out for consciousness studies: Sartre's analysis of the pour-soi (being-for-itself) anticipates the regress argument against [[illusionism]], and Heidegger's analysis of Dasein reveals why consciousness resists reduction to properties or functions. These insights strengthen the [[tenets#^dualism|Dualism tenet]] by demonstrating that consciousness has structural features incompatible with materialist reduction.
@@ -47,9 +48,9 @@ This structure generates what Sartre calls the "nothingness" at the heart of con
 
 [[Illusionism]] claims that phenomenal consciousness is an introspective illusion—that there is nothing it is like to be conscious, only functional states that misrepresent themselves as having qualitative character. Sartre's pour-soi structure reveals why this position is self-undermining.
 
-The illusionist must answer: to whom does the illusion appear? For a misrepresentation to occur, something must be misrepresented *to* something. The illusionist typically replies that the "seeming" is just another functional state—a representation of a representation, all the way down, with no genuine experiencer required.
+The illusionist must answer: to whom does the illusion appear? For a misrepresentation to occur, something must be misrepresented *to* something. The illusionist typically replies that the "seeming" is just another functional state—a representation of a representation, all the way down, with no genuine experiencer required. Frankish argues that illusions need not be phenomenal illusions—they can be cognitive or theoretical errors about one's own states.
 
-Sartre's analysis exposes the incoherence. The pour-soi is not a representation added to consciousness but consciousness's own mode of being. When I am aware of my awareness, this is not one thing observing another. It is the pour-soi's constitutive self-presence—the "being-aware" that accompanies every experience. To claim this is an illusion requires something to *experience* the illusion. But this experiencer would itself be a pour-soi. The regress terminates not in functional states but in the irreducibly first-person character of awareness.
+Sartre's analysis reveals why this move fails. The pour-soi is not a representation added to consciousness but consciousness's own mode of being. When I am aware of my awareness, this is not one thing observing another. It is the pour-soi's constitutive self-presence—the "being-aware" that accompanies every experience. To claim this is an illusion requires something to *experience* the illusion. But this experiencer would itself be a pour-soi. The regress terminates not in functional states but in the irreducibly first-person character of awareness.
 
 Raymond Tallis has made this point against contemporary illusionists: "Misrepresentation presupposes presentation." For consciousness to misrepresent itself as phenomenal, there must be something to which this misrepresentation appears. That "something to which" is exactly the phenomenal consciousness illusionism denies.
 
@@ -75,7 +76,7 @@ Heidegger's existential analytic reveals structures of Dasein that resist reduct
 
 Heidegger's analysis suggests why consciousness cannot be reduced to physical properties or computational functions:
 
-1. **The priority of being-in-the-world**: Any scientific investigation of consciousness presupposes the scientist's own being-in-the-world. The detached, objectifying stance is a derived mode, not the ground level. You cannot step outside Dasein to explain it in terms of something more fundamental.
+1. **The priority of being-in-the-world**: Any scientific investigation of consciousness presupposes the scientist's own being-in-the-world. The detached, objectifying stance is a derived mode, not the ground level. This is not merely a methodological point—you cannot step outside Dasein to explain it in terms of something more fundamental because the explaining itself requires being-in-the-world.
 
 2. **The projective structure**: Dasein is constitutively ahead of itself. But physical states are always present states, even when they represent the future. The gap between being-toward-possibilities and representing-possibilities parallels the gap between pour-soi and en-soi.
 
@@ -170,6 +171,7 @@ The existentialist-dualist alignment would face difficulty if:
 - [[personal-identity]] — The problem of what constitutes the self across time
 - [[haecceity]] — The unrepeatable thisness of conscious subjects
 - [[witness-consciousness]] — Contemplative cultivation of non-identified awareness
+- [[mysterianism]] — The possibility that consciousness is cognitively closed to us
 - [[buddhism-and-dualism]] — Buddhist perspectives on self and consciousness
 - [[mental-effort]] — The phenomenology of effortful attention
 - [[tenets]] — The Map's foundational commitments
