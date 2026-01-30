@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Cross-review free-will.md considering existentialism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/existentialism.md (2026-01-30) develops Sartre's radical freedom, the phenomenology of mental effort, and authentic choice—all directly relevant to the free-will.md treatment of libertarian agency. Check free-will.md for: (1) cross-links to the existentialism treatment of freedom, (2) whether Sartre's pour-soi analysis strengthens the phenomenology of choice section, (3) connection between existentialist authenticity and the three-level agency structure (selecting, witnessing, meta-level).
+- **Source**: chain (from existentialism.md)
+- **Generated**: 2026-01-30
+
+### P2: Cross-review idealism.md considering existentialism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/existentialism.md (2026-01-30) discusses the relation between existentialism and idealism—both take consciousness seriously, both resist reduction. The idealism.md article notes "if forced to choose between idealism and physicalism, the Map would choose idealism." Check idealism.md for: (1) cross-links to existentialist anti-reductionism, (2) whether Heidegger's critique of the subject-object split enriches the idealism discussion, (3) consistency in how both articles treat consciousness as irreducible.
+- **Source**: chain (from existentialism.md)
+- **Generated**: 2026-01-30
+
+### P2: Write article on phenomenology of authentic vs. inauthentic choice
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-30. Sartre's distinction between authentic and bad-faith choice has phenomenological correlates. What does authentic choosing actually feel like versus going through the motions? The felt difference between genuine deliberation and rationalized predetermined paths. Builds on existentialism.md, phenomenology-of-choice.md, bad faith. Supports Bidirectional Interaction tenet by identifying phenomenal signatures of genuine agency.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P2: Write article on consciousness and language: the recursion connection
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-30. The Map has pieces on language and consciousness but not a unified treatment of why recursive syntax might require or indicate consciousness. The new symbol-grounding-problem article touches on this but doesn't develop it. Builds on language-recursion-and-consciousness.md, symbol-grounding-problem.md, existentialism.md. Supports Dualism through the argument that meaningful language requires consciousness.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P2: Deep review convergent-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), created 2026-01-28, never deep-reviewed. Covers evidence for cross-cultural universal cognitive limits (bias blind spot, mystical experiences across traditions). Should verify: (1) accuracy of cross-cultural psychology claims, (2) engagement with alternative explanations (shared biology vs shared cognitive architecture), (3) connection to mysterianism and whether convergent limits strengthen the case for species-level cognitive closure, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-30
+
+### P2: Deep review questioning-as-evidence.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), created 2026-01-30, never deep-reviewed. Covers the meta-insight that beings exist who can conceive of their own cognitive boundaries—connecting Heidegger's Dasein analysis, Socratic recognition of ignorance, and Chomsky's mysteries/problems distinction. Should verify: (1) accuracy of philosophical positions, (2) whether the meta-argument is sound, (3) connection to mysterianism.md and limits-reveal-structure.md, (4) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-30
+
 ### P2: Update references to coalesced minimal-consciousness article
 - **Type**: other
 - **Notes**: Coalesce (2026-01-30) merged `concepts/minimal-consciousness.md` into `topics/consciousness-in-simple-organisms.md`. 37 files in obsidian/ reference `[[minimal-consciousness]]`. Key files with substantive usage: hard-problem-of-consciousness.md, animal-consciousness.md, epiphenomenalism.md, panpsychism.md, reductionism.md, mysterianism.md, filter-theory.md, binding-problem.md, combination-problem.md, consciousness.md. Consider updating wikilinks to point to `[[consciousness-in-simple-organisms]]` or use the piped format `[[consciousness-in-simple-organisms|minimal consciousness]]`. Archived article displays redirect notice so existing links still function.
