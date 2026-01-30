@@ -55,8 +55,8 @@ topics: []
 - Added minimal-consciousness to concepts frontmatter
 
 ### Cross-links Added
-- [minimal-consciousness](/concepts/minimal-consciousness/) added to concepts frontmatter (top position)
-- [minimal-consciousness](/concepts/minimal-consciousness/) added to Further Reading section with description
+- [minimal-consciousness](/archive/concepts/minimal-consciousness/) added to concepts frontmatter (top position)
+- [minimal-consciousness](/archive/concepts/minimal-consciousness/) added to Further Reading section with description
 
 ## Remaining Items
 

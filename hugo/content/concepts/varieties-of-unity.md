@@ -261,7 +261,7 @@ The varieties of unity exemplify why simplicity isn't a reliable guide. One migh
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's version of the unity puzzle
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Quantum entanglement as binding mechanism
 - [witness-consciousness](/concepts/witness-consciousness/) — Awareness without identification
-- [minimal-consciousness](/concepts/minimal-consciousness/) — Unity at the boundaries of experience
+- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Unity at the boundaries of experience
 - [illusionism](/concepts/illusionism/) — The challenge that phenomenal unity is illusory
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Contemplative evidence for two modes of consciousness
 - [attention-schema-theory](/concepts/attention-schema-theory/) — Neuroscientific illusionism and the regress problem

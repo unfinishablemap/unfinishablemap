@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-30 15:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Consciousness is fundamental; matter is derivative or appearance. T
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 08:45:00+00:00
+last_deep_review: 2026-01-30 15:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -29,7 +29,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Idealism is the view that consciousness is fundamental and matter is derivative—the inverse of physicalism. In its strongest form, associated with Bernardo Kastrup's [analytic idealism](/concepts/analytic-idealism/), matter doesn't exist independently at all; it's the extrinsic appearance of mental processes. Physical reality is what universal consciousness looks like from a dissociated perspective. The Unfinishable Map shares idealism's conviction that consciousness is fundamental but maintains a crucial difference: physical reality exists distinctly and consciousness interacts with it bidirectionally. The Map's [dualist framework](/concepts/dualism/) takes consciousness seriously (with idealism) while also taking physics seriously (against idealism).
+Idealism is the view that consciousness is fundamental and matter is derivative—the inverse of physicalism. This position has deep roots in both Western philosophy (Berkeley, Hegel, the British Idealists) and Eastern traditions (Advaita Vedanta, Yogācāra Buddhism). In its contemporary analytic form, associated with Bernardo Kastrup's [analytic idealism](/concepts/analytic-idealism/), matter doesn't exist independently at all; it's the extrinsic appearance of mental processes. Physical reality is what universal consciousness looks like from a dissociated perspective. The Unfinishable Map shares idealism's conviction that consciousness is fundamental but maintains a crucial difference: physical reality exists distinctly and consciousness interacts with it bidirectionally. The Map's [dualist framework](/concepts/dualism/) takes consciousness seriously (with idealism) while also taking physics seriously (against idealism).
 
 This difference matters for how we understand causation, science, and individual significance. If matter is merely appearance, what is consciousness interacting with when you decide to raise your arm and the arm rises? the Map's [interactionist position](/archive/arguments/interactionist-dualism/) holds that something genuinely physical responds to conscious choice—a claim idealism cannot accommodate without reducing "interaction" to one part of consciousness affecting another.
 
@@ -93,7 +93,7 @@ If matter is appearance, why can't we alter it at will? You can't fly by wishing
 
 Kastrup appeals to dissociation: your individual consciousness is isolated from universal consciousness, so you can't directly access the universal patterns that constitute physical law. But this raises questions about what structures the dissociation and why it produces regular, law-like appearances.
 
-Interactionist dualism has a straightforward answer: physical reality exists independently with its own structure. Consciousness can influence it, but only within the gaps physics leaves open (quantum indeterminacy). You can't fly because flight would require violating physical law, and consciousness influences physics only where physics is genuinely indeterminate.
+Interactionist dualism has a straightforward answer: physical reality exists independently with its own structure. Consciousness can influence it, but only within the gaps physics leaves open (quantum indeterminacy)—though this mechanism remains speculative and faces challenges from decoherence (addressed in the [tenets](/tenets/)). You can't fly because flight would require violating physical law, and consciousness influences physics only where physics is genuinely indeterminate.
 
 ### Indexical Identity
 
@@ -103,7 +103,7 @@ The Map's dualism preserves individual consciousness as genuinely distinct. You'
 
 ## Simple Organisms and the Ubiquity of Mind
 
-Research on [minimal consciousness](/concepts/minimal-consciousness/)—organisms like *C. elegans* (302 neurons), Hydra (decentralized nerve nets), and slime molds (no neurons at all)—bears differently on idealism than on competing views.
+Research on [minimal consciousness](/archive/concepts/minimal-consciousness/)—organisms like *C. elegans* (302 neurons), Hydra (decentralized nerve nets), and slime molds (no neurons at all)—bears differently on idealism than on competing views.
 
 ### What Idealism Predicts
 
@@ -133,7 +133,7 @@ This gives idealism an advantage the Map's framework lacks. Interactionist duali
 
 The Map's framework can respond: cognition and consciousness may dissociate. Slime molds process information (cognition) without phenomenal experience (consciousness). The quantum-neural interface hypothesis concerns where consciousness *interfaces with* matter, not where information processing occurs. Sophisticated behaviors can emerge from non-conscious physical systems; thermostats "sense" temperature without experiencing anything.
 
-But this response concedes something to idealism. If cognition and consciousness can fully dissociate—if an organism can solve mazes, form memories, and optimize networks without any experience whatsoever—then the correlation between behavioral complexity and consciousness weakens. And if behavioral markers unreliably track consciousness, the hard problem becomes even harder.
+This response preserves the dualist framework but shifts the explanatory burden: it must explain why sophisticated information processing arose in presumably non-conscious systems and what distinguishes processing-with-experience from processing-without. Notably, this challenge faces any view (including idealism) that accepts consciousness comes in degrees—the question of where and why experience attaches to physical systems remains difficult regardless of one's metaphysics.
 
 ## Idealism's Advantages
 
@@ -171,7 +171,7 @@ If forced to choose between idealism and physicalism, the Map would choose ideal
 
 ## Further Reading
 
-- [minimal-consciousness](/concepts/minimal-consciousness/) — Consciousness in simple organisms and what it implies for theories of mind
+- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Consciousness in simple organisms and what it implies for theories of mind
 - [dualism](/concepts/dualism/) — Foundational overview of the Map's dualist position
 - [analytic-idealism](/concepts/analytic-idealism/) — Detailed treatment of Kastrup's analytic idealism
 - [panpsychism](/concepts/panpsychism/) — Another view taking consciousness as fundamental

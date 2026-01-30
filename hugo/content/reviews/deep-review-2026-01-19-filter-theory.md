@@ -55,7 +55,7 @@ topics: []
 - Updated references with Carhart-Harris & Friston (2019) and Fox et al. (2012)
 
 ### Cross-links Added
-- [minimal-consciousness](/concepts/minimal-consciousness/) — added to frontmatter and new section created
+- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — added to frontmatter and new section created
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — added to frontmatter and new section created
 - [mysterianism](/concepts/mysterianism/) — added to frontmatter and mentioned in Buddhist section
 - [witness-consciousness](/concepts/witness-consciousness/) — linked in Buddhist meditation discussion

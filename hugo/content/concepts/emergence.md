@@ -54,7 +54,7 @@ C.D. Broad established emergence as a distinct philosophical position in 1925. H
 
 Consciousness appears to be strongly emergent. No arrangement of neurons logically entails the presence of experience. This is the [hard problem](/topics/hard-problem-of-consciousness/)—the seeming impossibility of deriving phenomenal facts from physical facts.
 
-The [evolutionary emergence of consciousness](/concepts/evolution-of-consciousness/) provides a concrete test case. Three possibilities structure the debate: *panpsychist continuity* (experience was always present), *gradual emergence* (consciousness increased incrementally with neural complexity), and *threshold emergence* (consciousness appeared when organisational thresholds were crossed). Each faces distinct challenges—panpsychism must explain combination, gradualism must specify partial qualia, threshold views must justify the threshold. Research on [minimal consciousness](/concepts/minimal-consciousness/) in simple organisms (insects, mollusks) provides empirical constraints on these options. The evolutionary question reveals that strong emergence isn't merely an abstract philosophical puzzle but a constraint on understanding life's history.
+The [evolutionary emergence of consciousness](/concepts/evolution-of-consciousness/) provides a concrete test case. Three possibilities structure the debate: *panpsychist continuity* (experience was always present), *gradual emergence* (consciousness increased incrementally with neural complexity), and *threshold emergence* (consciousness appeared when organisational thresholds were crossed). Each faces distinct challenges—panpsychism must explain combination, gradualism must specify partial qualia, threshold views must justify the threshold. Research on [minimal consciousness](/archive/concepts/minimal-consciousness/) in simple organisms (insects, mollusks) provides empirical constraints on these options. The evolutionary question reveals that strong emergence isn't merely an abstract philosophical puzzle but a constraint on understanding life's history.
 
 The distinction matters because strong emergence denies [ontological reductionism](/concepts/reductionism/) while remaining compatible with [methodological reductionism](/concepts/reductionism/). Neuroscience studies the physical substrate; this doesn't commit one to claiming consciousness *is* that substrate.
 
@@ -183,7 +183,7 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 - [binding-problem](/concepts/binding-problem/) — How distributed processes achieve phenomenal unity
 - [phenomenal-unity](/concepts/phenomenal-unity/) — The unity of conscious experience that binding must explain
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
-- [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical constraints from simple organisms
+- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Empirical constraints from simple organisms
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The mechanism for downward causation
 - [tenets](/tenets/) — the Map's foundational commitments
 

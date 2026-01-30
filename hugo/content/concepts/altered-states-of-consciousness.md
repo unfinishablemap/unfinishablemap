@@ -109,7 +109,7 @@ What is clear: these experiences involve altered consciousness precisely when th
 
 ## Boundary States: Where ASCs Meet Minimal Consciousness
 
-ASCs map the *upper* boundary of ordinary consciousness—states of expansion, dissolution, or reconfiguration beyond baseline awareness. But consciousness also has a *lower* boundary explored in [minimal-consciousness](/concepts/minimal-consciousness/)—organisms like *C. elegans* (302 neurons) or Hydra (decentralized nerve net) that may possess only the simplest forms of experience.
+ASCs map the *upper* boundary of ordinary consciousness—states of expansion, dissolution, or reconfiguration beyond baseline awareness. But consciousness also has a *lower* boundary explored in [minimal-consciousness](/archive/concepts/minimal-consciousness/)—organisms like *C. elegans* (302 neurons) or Hydra (decentralized nerve net) that may possess only the simplest forms of experience.
 
 These boundaries illuminate each other. Advanced meditators approaching cessation report phenomenology that may resemble what simple organisms inhabit continuously: awareness without complex content, presence without elaborate representation. The meditator voluntarily reaches "downward" to consciousness stripped of normal filtering; the nematode may simply exist there.
 
@@ -131,7 +131,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 
 ## Further Reading
 
-- [minimal-consciousness](/concepts/minimal-consciousness/) — The lower boundary of conscious experience
+- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — The lower boundary of conscious experience
 - [filter-theory](/concepts/filter-theory/) — The theoretical framework for interpreting ASCs
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Voluntary access to altered states
 - [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Consciousness operating without sensory input

@@ -63,7 +63,7 @@ Nagel's broader point: objective scientific methods cannot capture subjective ex
 
 ## Simple Minds and Complete Knowledge
 
-Research on [minimal consciousness](/concepts/minimal-consciousness/) provides striking empirical evidence for cognitive closure. Consider *C. elegans*, whose entire nervous system has been mapped: 302 neurons, every synapse documented. Yet we cannot determine whether the worm experiences anything at all. Complete structural knowledge doesn't bridge the gap to phenomenal facts.
+Research on [minimal consciousness](/archive/concepts/minimal-consciousness/) provides striking empirical evidence for cognitive closure. Consider *C. elegans*, whose entire nervous system has been mapped: 302 neurons, every synapse documented. Yet we cannot determine whether the worm experiences anything at all. Complete structural knowledge doesn't bridge the gap to phenomenal facts.
 
 If complete description doesn't reveal consciousness in a 302-neuron organism, why expect it to reveal consciousness in an 86-billion-neuron brain? We have markers for consciousness (like Unlimited Associative Learning), not detectors. We identify correlates without grasping what consciousness *is*—exactly what McGinn predicts if we're cognitively closed to the relevant property.
 
@@ -200,7 +200,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Proven mathematical limits on what any algorithmic mind can know
 - [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) — Fodor's nativist argument that concepts must be innate or inaccessible
 - [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) — Mathematical insight as evidence for cognitive limits
-- [minimal-consciousness](/concepts/minimal-consciousness/) — Complete neural mapping yet unknowable experience
+- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Complete neural mapping yet unknowable experience
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What cognitive closure feels like from the inside
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits reveal cognitive architecture
 - [whether-real](/voids/whether-real/) — Can we know if the voids are genuinely permanent?

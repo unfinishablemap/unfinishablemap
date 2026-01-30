@@ -196,7 +196,7 @@ These cases dissociate computational binding from phenomenal binding. The brain 
 
 ### Simple Organisms: Testing the Limits of Unity
 
-Research on [organisms at consciousness boundaries](/concepts/minimal-consciousness/) offers natural experiments. **Hydra** has ~900 neurons in a decentralized nerve net with no central processing—if it has experience, is it unified? **C. elegans** (302 neurons) shows positive Phi but fails trace-conditioning, suggesting integration and phenomenal unity may not perfectly track each other. **Slime molds** solve mazes without any neurons, demonstrating that information integration alone doesn't produce the structures quantum approaches identify with conscious unity.
+Research on [organisms at consciousness boundaries](/archive/concepts/minimal-consciousness/) offers natural experiments. **Hydra** has ~900 neurons in a decentralized nerve net with no central processing—if it has experience, is it unified? **C. elegans** (302 neurons) shows positive Phi but fails trace-conditioning, suggesting integration and phenomenal unity may not perfectly track each other. **Slime molds** solve mazes without any neurons, demonstrating that information integration alone doesn't produce the structures quantum approaches identify with conscious unity.
 
 These cases suggest phenomenal unity may require quantum mechanisms: classical integration happens in distributed systems like Hydra and slime molds, yet neither shows behavioral markers of unified consciousness. If quantum entanglement provides genuine holism where classical coordination cannot, organisms lacking quantum-coherent neural structures would lack unity even while processing information.
 
@@ -227,7 +227,7 @@ Phenomenal unity illuminates why the Map's [tenets](/tenets/) take the positions
 - [agent-causation](/concepts/agent-causation/) — Unity as precondition for coherent agency
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's approach through integration
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on unity
-- [minimal-consciousness](/concepts/minimal-consciousness/) — Boundary cases testing unity in simple organisms
+- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Boundary cases testing unity in simple organisms
 - [mind-brain-separation](/concepts/mind-brain-separation/) — Unity as intrinsically mental faculty
 - [self-and-consciousness](/concepts/self-and-consciousness/) — The subject who has unified experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why experience exists at all

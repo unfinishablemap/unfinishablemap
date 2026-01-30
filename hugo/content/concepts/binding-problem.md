@@ -182,7 +182,7 @@ Recent research provides direct support. See [quantum-binding-experimental-evide
 
 Classical binding combines separate things, but combination doesn't produce unity. Quantum entanglement creates systems that were never fully separate—the entangled state has properties irreducible to parts. This matches phenomenal unity: experience is unified from the ground up, not assembled from separate quale-atoms.
 
-[Simple organisms](/concepts/minimal-consciousness/) provide natural experiments. *C. elegans* shows positive Φ values yet fails trace-conditioning requiring temporal binding. If IIT equates consciousness with integration, the worm should have unified experience. The quantum framework predicts organisms lacking quantum-coherent structures would lack phenomenal unity while performing computational binding—exactly BP1 without BP2.
+[Simple organisms](/archive/concepts/minimal-consciousness/) provide natural experiments. *C. elegans* shows positive Φ values yet fails trace-conditioning requiring temporal binding. If IIT equates consciousness with integration, the worm should have unified experience. The quantum framework predicts organisms lacking quantum-coherent structures would lack phenomenal unity while performing computational binding—exactly BP1 without BP2.
 
 ## Phenomenal Unity as Primitive
 
@@ -248,7 +248,7 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Sleep as dissociation between BP1 and BP2
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Episodic memory binding and mental time travel
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — Recursive language as cognitive binding case study
-- [minimal-consciousness](/concepts/minimal-consciousness/) — Boundary cases testing binding in simple organisms
+- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Boundary cases testing binding in simple organisms
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — How consciousness causally influences neural binding
 - [illusionism](/concepts/illusionism/) — The view that phenomenal unity is illusory (and why it fails)
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding

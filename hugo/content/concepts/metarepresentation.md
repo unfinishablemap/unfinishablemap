@@ -283,7 +283,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [metacognition](/concepts/metacognition/) — The enabling relation between consciousness and self-monitoring
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances cognitive capacity
-- [minimal-consciousness](/concepts/minimal-consciousness/) — The baseline cognition hypothesis
+- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — The baseline cognition hypothesis
 - [higher-order-theories](/concepts/higher-order-theories/) — Theories that identify consciousness with metarepresentation
 - [introspection](/concepts/introspection/) — Access to one's own mental states
 - [animal-consciousness](/topics/animal-consciousness/) — The great ape comparison

@@ -61,7 +61,7 @@ But neural correlates don't determine when consciousness first emerged. The scat
 
 ### Organisms at the Boundaries
 
-[Research on simple organisms](/concepts/minimal-consciousness/) complicates easy answers. *C. elegans* (302 neurons) exhibits habituation and responds to anesthetics—yet fails trace-conditioning tests. Hydra (decentralized nerve net, no brain) challenges assumptions that consciousness requires centralization. Most puzzling: the slime mold *Physarum polycephalum* solves mazes with no neurons whatsoever.
+[Research on simple organisms](/archive/concepts/minimal-consciousness/) complicates easy answers. *C. elegans* (302 neurons) exhibits habituation and responds to anesthetics—yet fails trace-conditioning tests. Hydra (decentralized nerve net, no brain) challenges assumptions that consciousness requires centralization. Most puzzling: the slime mold *Physarum polycephalum* solves mazes with no neurons whatsoever.
 
 These cases reveal how little we understand about consciousness-substrate relationships. Complete structural knowledge of *C. elegans* doesn't tell us whether it experiences anything—the explanatory gap persists at every level of complexity.
 
@@ -216,7 +216,7 @@ Scientific humility requires specifying what would count against one's view.
 ## Further Reading
 
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognitive capacity and the baseline cognition hypothesis
-- [minimal-consciousness](/concepts/minimal-consciousness/) — How little neural complexity can support consciousness?
+- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — How little neural complexity can support consciousness?
 - [animal-consciousness](/topics/animal-consciousness/) — The question of which creatures are conscious
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What selected outcomes before minds existed
 - [emergence](/concepts/emergence/) — Strong vs weak emergence and consciousness

@@ -101,7 +101,7 @@ The phenomenology of the edge offers several insights for understanding consciou
 
 ## The Lower Edge: Minimal Consciousness
 
-While most edge-phenomenology concerns humans approaching the *upper* limits of cognition, the [minimal consciousness](/concepts/minimal-consciousness/) question asks about the *lower* edge. What is the simplest system that has experience at all? C. elegans with its 302 neurons, Hydra with its decentralized nerve net, slime molds processing information without neurons—these organisms probe the boundary from below.
+While most edge-phenomenology concerns humans approaching the *upper* limits of cognition, the [minimal consciousness](/archive/concepts/minimal-consciousness/) question asks about the *lower* edge. What is the simplest system that has experience at all? C. elegans with its 302 neurons, Hydra with its decentralized nerve net, slime molds processing information without neurons—these organisms probe the boundary from below.
 
 The two edges illuminate each other. At the upper edge, advanced meditators strip away mental content while awareness remains. At the lower edge, simple organisms may have awareness without the cognitive apparatus to strip away. The MPE meditator approaches from above what the nematode may permanently inhabit from below: consciousness in its minimal form.
 
@@ -135,7 +135,7 @@ The [apophatic tradition](/voids/apophatic-approaches/) offers methods for engag
 
 ## Further Reading
 
-- [Minimal Consciousness](/concepts/minimal-consciousness/) — The lower edge: what is the simplest system with experience?
+- [Minimal Consciousness](/archive/concepts/minimal-consciousness/) — The lower edge: what is the simplest system with experience?
 - [Voids in the Map](/voids/) — The broader context of cognitive limits and what they reveal
 - [Apophatic Approaches](/voids/apophatic-approaches/) — Methods for engaging with what exceeds articulation
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — The phenomenology of slippage and dissolving insights

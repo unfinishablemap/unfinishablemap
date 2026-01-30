@@ -105,11 +105,11 @@ As Russell and Eddington observed, physics tells us what things *do*—how they 
 
 ## The Gap Illustrated: Complete Knowledge of Simple Minds
 
-The explanatory gap gains sharpest focus when we consider [consciousness in simple organisms](/concepts/minimal-consciousness/). The roundworm *C. elegans* is the most thoroughly mapped organism in neuroscience: exactly 302 neurons, 8,000 chemical synapses, 890 gap junctions. We know its complete neural connectome—every connection, every pathway. Yet we cannot determine whether *C. elegans* experiences anything.
+The explanatory gap gains sharpest focus when we consider [consciousness in simple organisms](/archive/concepts/minimal-consciousness/). The roundworm *C. elegans* is the most thoroughly mapped organism in neuroscience: exactly 302 neurons, 8,000 chemical synapses, 890 gap junctions. We know its complete neural connectome—every connection, every pathway. Yet we cannot determine whether *C. elegans* experiences anything.
 
 This is the hard problem made empirically vivid. We *have* complete structural knowledge—and we still cannot say whether there is something it is like to be a worm. The organism exhibits behaviours suggestive of experience, yet no amount of additional structural data resolves the question.
 
-The gap is not about missing information. Complete physical description fails to tell us whether experience is present in even the simplest nervous systems we can fully characterise. See [minimal-consciousness](/concepts/minimal-consciousness/) for extended analysis of boundary cases including Hydra and slime moulds.
+The gap is not about missing information. Complete physical description fails to tell us whether experience is present in even the simplest nervous systems we can fully characterise. See [minimal-consciousness](/archive/concepts/minimal-consciousness/) for extended analysis of boundary cases including Hydra and slime moulds.
 
 ## Phenomenological Evidence: The Witness
 

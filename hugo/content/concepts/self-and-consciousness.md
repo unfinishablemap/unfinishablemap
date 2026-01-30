@@ -108,7 +108,7 @@ Property dualism, as Chalmers articulates it, "posits the existence of propertie
 
 The [binding problem](/concepts/binding-problem/) asks how unified conscious experience arises from distributed neural processing. Phenomenal unity and first-person perspective may be two aspects of the same phenomenon—every conscious experience is unified *for* someone.
 
-If the brain does not produce consciousness, the problem inverts: consciousness has intrinsic unity (including the minimal self), and the brain provides informational content that consciousness binds. Unity is a feature of consciousness itself, not an achievement of neural computation. This connects to the [minimal consciousness](/concepts/minimal-consciousness/) literature—if the minimal self is a structural feature of consciousness, any conscious system, however simple, would have it.
+If the brain does not produce consciousness, the problem inverts: consciousness has intrinsic unity (including the minimal self), and the brain provides informational content that consciousness binds. Unity is a feature of consciousness itself, not an achievement of neural computation. This connects to the [minimal consciousness](/archive/concepts/minimal-consciousness/) literature—if the minimal self is a structural feature of consciousness, any conscious system, however simple, would have it.
 
 ## Can the Minimal Self Be Tested?
 

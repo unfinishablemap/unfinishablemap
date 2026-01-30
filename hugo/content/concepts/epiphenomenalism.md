@@ -112,7 +112,7 @@ But this leaves unexplained why consciousness *tracks* adaptive features with su
 
 The [consciousness-as-intelligence-amplifier](/concepts/consciousness-as-amplifier/) article makes this point sharply: if the painfulness of pain is something beyond the neural state that produces pain behavior (as the [explanatory gap](/concepts/explanatory-gap/) suggests), then why would this causally inert phenomenal aspect systematically track biological significance? The neural state alone determines behavior; the phenomenal glow adds nothing. Yet this "nothing" reliably indicates what matters for survival. Without causal connection, why should pain feel bad rather than neutral or pleasant?
 
-The [phylogenetic evidence](/concepts/evolution-of-consciousness/) sharpens this problem. Consciousness appears widely distributed across the animal kingdom—mammals, birds, cephalopods, perhaps even [organisms with just a few hundred neurons](/concepts/minimal-consciousness/). The tracking is remarkably precise: across vastly different lineages, consciousness accompanies exactly those neural structures associated with adaptive, flexible behaviour. The epiphenomenalist must explain this as cosmic coincidence. The interactionist explanation is simpler: consciousness is distributed where it is because it *does* something—it guides behaviour toward survival.
+The [phylogenetic evidence](/concepts/evolution-of-consciousness/) sharpens this problem. Consciousness appears widely distributed across the animal kingdom—mammals, birds, cephalopods, perhaps even [organisms with just a few hundred neurons](/archive/concepts/minimal-consciousness/). The tracking is remarkably precise: across vastly different lineages, consciousness accompanies exactly those neural structures associated with adaptive, flexible behaviour. The epiphenomenalist must explain this as cosmic coincidence. The interactionist explanation is simpler: consciousness is distributed where it is because it *does* something—it guides behaviour toward survival.
 
 ### The Amplification Evidence
 
@@ -193,7 +193,7 @@ The self-stultification problem remains the decisive objection. If epiphenomenal
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — the Map's alternative framework
 - [tenets](/tenets/) — the Map's foundational commitments against epiphenomenalism
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The context for debates about consciousness
-- [minimal-consciousness](/concepts/minimal-consciousness/) — Evidence of consciousness in simple organisms; challenges the tracking coincidence
+- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Evidence of consciousness in simple organisms; challenges the tracking coincidence
 - [epiphenomenalism-2026-01-08](/research/epiphenomenalism-2026-01-08/) — Detailed research notes
 
 ## References

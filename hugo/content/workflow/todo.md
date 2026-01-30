@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-30 10:40:00+00:00
+ai_modified: 2026-01-30 17:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced minimal-consciousness article
+- **Type**: other
+- **Notes**: Coalesce (2026-01-30) merged `concepts/minimal-consciousness.md` into `topics/consciousness-in-simple-organisms.md`. 37 files in obsidian/ reference `[minimal-consciousness](/archive/concepts/minimal-consciousness/)`. Key files with substantive usage: hard-problem-of-consciousness.md, animal-consciousness.md, epiphenomenalism.md, panpsychism.md, reductionism.md, mysterianism.md, filter-theory.md, binding-problem.md, combination-problem.md, consciousness.md. Consider updating wikilinks to point to `[consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)` or use the piped format `[minimal consciousness](/topics/consciousness-in-simple-organisms/)`. Archived article displays redirect notice so existing links still function.
+- **Source**: coalesce
+- **Generated**: 2026-01-30
+
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Deep review apex/consciousness-and-agency.md
-- **Type**: deep-review
-- **Notes**: Apex article (ai_contribution: 100), never deep-reviewed. Covers the synthesis of consciousness and agency—central to the Bidirectional Interaction tenet. Should verify: (1) accurate treatment of free will and mental causation, (2) connection to attention-as-interface and motor-selection, (3) engagement with epiphenomenalism objections, (4) coherent narrative integrating quantum mechanisms.
-- **Source**: staleness
+### P2: Cross-review ai-consciousness.md considering symbol-grounding-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/symbol-grounding-problem.md (2026-01-30) argues that computational symbol manipulation cannot produce intrinsic meaning. Check ai-consciousness.md for: (1) cross-links to the symbol grounding argument, (2) whether the grounding problem strengthens the case against AI consciousness, (3) engagement with hybrid grounding proposals and their limitations.
+- **Source**: chain (from symbol-grounding-problem.md)
+- **Generated**: 2026-01-30
+
+### P2: Cross-review llm-consciousness.md considering symbol-grounding-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/symbol-grounding-problem.md (2026-01-30) develops the vector grounding problem for neural networks (Piantadosi & Hill 2023). Check llm-consciousness.md for: (1) cross-links to symbol grounding treatment, (2) whether vector grounding problem is addressed, (3) how the grounding argument relates to LLM-specific consciousness debates.
+- **Source**: chain (from symbol-grounding-problem.md)
+- **Generated**: 2026-01-30
+
+### P2: Cross-review mysterianism.md considering questioning-as-evidence insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/questioning-as-evidence.md (2026-01-30) explores meta-insight that beings who can conceive cognitive limits exist. Check mysterianism.md for: (1) cross-links to the questioning-as-evidence treatment, (2) whether McGinn's cognitive closure connects to the meta-question of why limit-questioning is possible, (3) connection between Chomsky's mysteries/problems distinction in both articles.
+- **Source**: chain (from questioning-as-evidence.md)
+- **Generated**: 2026-01-30
+
+### P2: Cross-review limits-reveal-structure.md considering questioning-as-evidence insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/questioning-as-evidence.md (2026-01-30) addresses meta-question of what limit-questioning reveals. Check limits-reveal-structure.md for: (1) cross-links to the questioning-as-evidence article, (2) whether the meta-insight about questioning beings strengthens the structural argument, (3) connection to Heidegger's Dasein analysis as beings for whom Being is an issue.
+- **Source**: chain (from questioning-as-evidence.md)
+- **Generated**: 2026-01-30
+
+### P3: Cross-review nihilism-and-existentialism.md considering existentialism.md
+- **Type**: cross-review
+- **Notes**: New standalone article concepts/existentialism.md (2026-01-30) now provides dedicated coverage of existentialist philosophy. Check nihilism-and-existentialism.md for: (1) cross-links to the new existentialism page, (2) whether content can be streamlined now that existentialism has dedicated coverage, (3) appropriate division of labor between the two articles.
+- **Source**: chain (from existentialism.md)
 - **Generated**: 2026-01-30
 
 ### P3: Deep review questions/consciousness-selecting-neural-patterns.md
@@ -803,8 +833,94 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
+### P3: Write article on Bergson and the duration of consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Bergson is cited across multiple articles (duration.md, free-will.md, temporal-consciousness.md) but deserves more systematic treatment. His durée concept—lived time as opposed to spatialized clock time—provides crucial resources for understanding why consciousness resists quantification. Supports Dualism through the argument that consciousness has temporal structure physics cannot capture.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Create concept page for phenomenal intentionality
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Central to symbol grounding problem and meaning-and-consciousness—the thesis that original intentionality derives from phenomenal consciousness. Currently mentioned but not given dedicated analysis. Would strengthen the connection between SGP and consciousness studies.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Create concept page for bad faith (mauvaise foi)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Sartre's concept mentioned in existentialism.md but deserves dedicated treatment. Bad faith demonstrates consciousness's irreducibility—materialist accounts struggle to explain self-deception without multiplying subjects. The pour-soi's self-distance provides the structure.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Cross-review intentionality.md considering symbol-grounding-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/symbol-grounding-problem.md (2026-01-30) addresses how symbols acquire intrinsic meaning. Check intentionality.md for: (1) cross-links to symbol grounding discussion, (2) whether the relationship between intentionality and grounding is adequately developed, (3) connection to the Chinese Room argument present in both articles.
+- **Output**: obsidian/concepts/intentionality.md -- Context: Cross-review intentionality.md considering symbol-grounding-problem insights
+
+### ✓ 2026-01-30: Condense phenomenal-value-realism.md (4321 words, 173% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word soft threshold for concepts/ by 73%. Recently refined but still over limit. Covers the claim that phenomenal experiences have intrinsic value properties. Preserve: core value realism argument, connection to consciousness and ethics, response to error theory. Defer detailed metaethical debates to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/phenomenal-value-realism.md
+
+### ✓ 2026-01-30: Cross-review meaning-of-life.md considering existentialism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/existentialism.md (2026-01-30) develops existentialist themes on meaning, freedom, and authenticity. Check meaning-of-life.md for: (1) cross-links to existentialism treatment, (2) whether existentialist responses to meaninglessness are adequately represented, (3) connection between Sartre's radical freedom and the Map's consciousness-grounded meaning.
+- **Output**: obsidian/topics/meaning-of-life.md -- Context: Cross-review meaning-of-life.md considering existentialism insights
+
+### ✓ 2026-01-30: Cross-review phenomenology.md considering existentialism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/existentialism.md (2026-01-30) develops Sartre's pour-soi structure and Heidegger's Dasein analysis. Check phenomenology.md for: (1) cross-links to existentialism's phenomenological contributions, (2) whether Husserl-Heidegger-Sartre relationship is properly framed, (3) opportunities to strengthen the first-person methodology discussion with existentialist grounding.
+- **Output**: obsidian/concepts/phenomenology.md -- Context: Cross-review phenomenology.md considering existentialism insights
+
+### ✓ 2026-01-30: Write article on symbol grounding problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/symbol-grounding-problem-2026-01-30.md. The symbol grounding problem (Harnad 1990) asks how symbols acquire intrinsic meaning—directly supports the Bidirectional Interaction tenet by showing pure computation lacks genuine understanding. Key points: Chinese Room connection, sensorimotor grounding proposals fail without consciousness, LLM relevance. Aligns strongly with site's dualist perspective.
+- **Output**: symbol grounding problem
+
+### ✓ 2026-01-30: Create dedicated existentialism concept article
+- **Type**: expand-topic
+- **Notes**: Existentialism is currently embedded in nihilism-and-existentialism.md but deserves standalone treatment. Sartre's pour-soi structure anticipates the regress problem against illusionism; Heidegger's Dasein analysis prefigures the Map's claim that consciousness cannot be reducible to properties. Multiple deep reviews identified these connections but they remain undeveloped. Would strengthen the Dualism tenet's philosophical grounding.
+- **Output**: Create dedicated existentialism concept article
+
+### ✓ 2026-01-30: Address identity thesis defense in phenomenal-value-realism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-30) identified that the article presents Rawlette's identity claim (pleasure *is* goodness) as following from phenomenal realism without distinguishing semantic from metaphysical versions. The semantic claim (pleasantness is conceptually evaluative) is secure but thin; the metaphysical claim (pleasantness and goodness are identical properties) requires additional argument beyond conceptual analysis. Should acknowledge this is a contested philosophical position and develop the argument for metaphysical identity.
+- **Output**: obsidian/concepts/phenomenal-value-realism.md
+
+Task context:
+Pessimistic review (2026-01-30) identified that the article presents Rawlette's identity claim (pleasure *is* goodness) as following from phenomenal realism without distinguishing semantic from metaphysical versions. The semantic claim (pleasantness is conceptually evaluative) is secure but thin; the metaphysical claim (pleasantness and goodness are identical properties) requires additional argument beyond conceptual analysis. Should acknowledge this is a contested philosophical position and develop the argument for metaphysical identity.
+
+### ✓ 2026-01-30: Research symbol grounding problem
+- **Type**: research-topic
+- **Notes**: The symbol grounding problem is foundational to consciousness arguments—showing why computation alone cannot ground symbols in meaning the way conscious experience does. Critical for defending the Bidirectional Interaction tenet (consciousness must causally engage with symbols) and distinguishing conscious comprehension from AI statistical competence. Referenced in consciousness-only-territories.md and embodied cognition discussions but lacks dedicated coverage.
+- **Output**: symbol grounding problem
+
+### ✓ 2026-01-30: Condense functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/—worst length violator. Functionalism is a core rival theory. Preserve: core multiple realizability argument, China brain objection, connection to consciousness theories. Remove redundancy, defer detailed objections to dedicated pages. See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
+
+### ✓ 2026-01-30: Write article on Stapp's mental effort theory
+- **Type**: expand-topic
+- **Notes**: Research completed in research/stapp-mental-effort-mind-matter-2026-01-14.md. Henry Stapp's quantum Zeno effect model of mental effort directly supports the Bidirectional Interaction tenet—one of the most developed physics-based proposals for how consciousness influences brain activity. Key topics: attention sustaining neural patterns through repeated observation, quantum Zeno effect preventing decoherence, connection to voluntary action. High tenet-relevance.
+- **Output**: Stapp's mental effort theory
+
+### ✓ 2026-01-30: Condense loss-of-consciousness.md (4177 words, 139% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Covers what loss of consciousness tells us about the mind-brain interface. Preserve: core clinical evidence, graded consciousness findings, connection to neural correlates. See /condense skill.
+- **Output**: obsidian/topics/loss-of-consciousness.md
+
+### ✓ 2026-01-30: Write voids article on questioning-as-evidence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-questioning-as-evidence-2026-01-30.md. The meta-insight that beings exist who can conceive of their own cognitive boundaries—connects Heidegger's analysis of Dasein, Socratic recognition of ignorance, and Chomsky's mysteries vs problems distinction. Target: voids/questioning-as-evidence.md
+- **Output**: Write voids article on questioning-as-evidence
+
+### ✓ 2026-01-30: Deep review apex/consciousness-and-agency.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100), never deep-reviewed. Covers the synthesis of consciousness and agency—central to the Bidirectional Interaction tenet. Should verify: (1) accurate treatment of free will and mental causation, (2) connection to attention-as-interface and motor-selection, (3) engagement with epiphenomenalism objections, (4) coherent narrative integrating quantum mechanisms.
+- **Output**: obsidian/apex/consciousness-and-agency.md
 
 ### ✓ 2026-01-30: Deep review apex/ground-of-meaning.md
 - **Type**: deep-review

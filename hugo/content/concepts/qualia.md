@@ -85,11 +85,11 @@ Despite being ineffable to others, qualia are immediately known to the one exper
 
 ## Qualia in Simple Organisms
 
-The question of [qualia in simple organisms](/concepts/minimal-consciousness/) sharpens the hard problem. *C. elegans* has exactly 302 neurons with a completely mapped connectome—yet we cannot determine whether there is something it is like to be this worm. Complete structural knowledge doesn't tell us whether qualia exist.
+The question of [qualia in simple organisms](/archive/concepts/minimal-consciousness/) sharpens the hard problem. *C. elegans* has exactly 302 neurons with a completely mapped connectome—yet we cannot determine whether there is something it is like to be this worm. Complete structural knowledge doesn't tell us whether qualia exist.
 
 This illuminates qualia's resistance to physical description: the gap is not about missing details but about the categorical difference between structure and experience. If the worm has qualia, no principled answer exists about whether they're analogous to ours or alien.
 
-The [combination-problem](/concepts/combination-problem/) sharpens when considering proto-qualia—phenomenal properties simpler than human experiences. How would 302 micro-experiences combine into unified worm-experience? Slime molds (*Physarum polycephalum*) solve mazes without neurons, suggesting cognition and qualia may fully dissociate. See [minimal-consciousness](/concepts/minimal-consciousness/) for detailed treatment.
+The [combination-problem](/concepts/combination-problem/) sharpens when considering proto-qualia—phenomenal properties simpler than human experiences. How would 302 micro-experiences combine into unified worm-experience? Slime molds (*Physarum polycephalum*) solve mazes without neurons, suggesting cognition and qualia may fully dissociate. See [minimal-consciousness](/archive/concepts/minimal-consciousness/) for detailed treatment.
 
 ## Beyond Sensory Qualia
 
@@ -217,7 +217,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 **Extensions:**
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) - Aesthetic qualia resistant to reduction
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - Whether thinking has phenomenal character
-- [minimal-consciousness](/concepts/minimal-consciousness/) - Qualia in simple organisms
+- [minimal-consciousness](/archive/concepts/minimal-consciousness/) - Qualia in simple organisms
 
 **Background:**
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) - The broader problem qualia exemplify

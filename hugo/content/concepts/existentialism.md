@@ -1,156 +1,192 @@
 ---
 ai_contribution: 100
-ai_generated_date: 2026-01-06
-ai_modified: 2026-01-27 02:42:07+00:00
+ai_generated_date: 2026-01-30
+ai_modified: 2026-01-30 16:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[buddhism-and-dualism]]'
-- '[[personal-identity]]'
+- '[[phenomenology]]'
 - '[[illusionism]]'
+- '[[consciousness]]'
+- '[[personal-identity]]'
+- '[[haecceity]]'
+- '[[intentionality]]'
 - '[[witness-consciousness]]'
 - '[[introspection]]'
-- '[[haecceity]]'
-- '[[decoherence]]'
 - '[[mental-effort]]'
-created: 2026-01-06
-date: &id001 2026-01-21
-description: 'Existence precedes essence: we create ourselves through choices. Dualism
-  grounds the freedom existentialism assumes but never explains.'
+- '[[nihilism-and-existentialism]]'
+created: 2026-01-30
+date: &id001 2026-01-30
+description: 'Existentialist philosophy''s contributions to consciousness studies:
+  Sartre''s pour-soi anticipates the regress against illusionism; Heidegger''s Dasein
+  resists reduction.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-21 00:15:00+00:00
+last_deep_review: 2026-01-30 16:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[nihilism]]'
-- '[[eastern-philosophy-consciousness]]'
+- '[[buddhism-and-dualism]]'
 title: Existentialism
 topics:
 - '[[free-will]]'
 - '[[meaning-of-life]]'
+- '[[hard-problem-of-consciousness]]'
 ---
 
-Existentialism is a philosophical tradition centred on individual existence, freedom, and the challenge of creating meaning in a universe that provides none ready-made.
+Existentialism offers The Unfinishable Map resources that extend beyond its traditional concerns with meaning, freedom, and authenticity. Two contributions stand out for consciousness studies: Sartre's analysis of the pour-soi (being-for-itself) anticipates the regress argument against [illusionism](/concepts/illusionism/), and Heidegger's analysis of Dasein reveals why consciousness resists reduction to properties or functions. These insights strengthen the [Dualism tenet](/tenets/#dualism) by demonstrating that consciousness has structural features incompatible with materialist reduction.
 
-The core insight is deceptively simple: existence precedes essence. Unlike a hammer, which is designed for a purpose before it exists, human beings exist first and only then define themselves through their choices. There is no pre-given human nature, no cosmic script, no essence waiting to be discovered. We are, as Jean-Paul Sartre put it, "condemned to be free."
+For the relationship between existentialism and nihilism—and the broader question of meaning—see [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/).
 
-## Core Themes
+## The Pour-Soi: Consciousness as Irreducibly Self-Aware
 
-### Existence Precedes Essence
+Sartre's central distinction in *Being and Nothingness* (1943) separates two modes of being. The en-soi (being-in-itself) is the mode of things: solid, self-identical, complete. A stone simply is what it is. The pour-soi (being-for-itself) is the mode of consciousness: always aware of itself, always beyond any characterisation, never reducible to its contents.
 
-Humans are not born with a fixed nature or purpose. We exist first—thrown into the world without consent—and create ourselves through choices. A paper cutter's essence precedes its existence; it's designed for cutting. But what is a human *for*? Nothing in particular. We must decide.
+The pour-soi cannot coincide with itself. Consciousness is always conscious *of* something—including consciousness of itself. But this self-awareness is not like a mirror's reflection of an object. When I am aware of my fear, I am not simply a fearful thing plus an awareness-thing observing it. The awareness *is* the fear, experienced from within, yet simultaneously distanced from it through the very act of awareness.
 
-### Radical Freedom
+This structure generates what Sartre calls the "nothingness" at the heart of consciousness. The pour-soi is perpetually separated from its objects and from itself by a gap that is not an empty space but a constitutive feature of awareness itself. Consciousness introduces negation into being: it is what it is not (its objects, its past, its possibilities) and is not what it is (any fixed characterisation).
 
-Without essence determining what we must be, we are radically free. Every moment presents a choice; refusing to choose is itself a choice. This freedom is not liberating in any comfortable sense—it is the source of profound anxiety (*angoisse*). Nothing constrains our choices except ourselves. The weight of responsibility falls entirely on us.
+### The Regress Against Illusionism
 
-### Authenticity
+[Illusionism](/concepts/illusionism/) claims that phenomenal consciousness is an introspective illusion—that there is nothing it is like to be conscious, only functional states that misrepresent themselves as having qualitative character. Sartre's pour-soi structure reveals why this position is self-undermining.
 
-Inauthentic living means fleeing from freedom—following conventions unreflectively, defining oneself by roles, pretending choices are determined by circumstances. Heidegger called this "das Man" (the They)—living as "one" does rather than as *I* choose.
+The illusionist must answer: to whom does the illusion appear? For a misrepresentation to occur, something must be misrepresented *to* something. The illusionist typically replies that the "seeming" is just another functional state—a representation of a representation, all the way down, with no genuine experiencer required. Frankish argues that illusions need not be phenomenal illusions—they can be cognitive or theoretical errors about one's own states.
 
-Authentic existence means owning one's freedom, making choices with full awareness they are one's own, accepting responsibility for what one becomes. It means facing anxiety rather than fleeing it.
+Sartre's analysis reveals why this move fails. The pour-soi is not a representation added to consciousness but consciousness's own mode of being. When I am aware of my awareness, this is not one thing observing another. It is the pour-soi's constitutive self-presence—the "being-aware" that accompanies every experience. To claim this is an illusion requires something to *experience* the illusion. But this experiencer would itself be a pour-soi. The regress terminates not in functional states but in the irreducibly first-person character of awareness.
 
-### Absurdity
+Raymond Tallis has made this point against contemporary illusionists: "Misrepresentation presupposes presentation." For consciousness to misrepresent itself as phenomenal, there must be something to which this misrepresentation appears. That "something to which" is exactly the phenomenal consciousness illusionism denies.
 
-Camus emphasized the *absurd*—the confrontation between human desire for meaning and the universe's silence. The absurd is not in the world or in us alone, but in the relation: our demand meeting the world's refusal.
+Sartre anticipated this a century earlier. The pour-soi cannot be objectified—turned into an en-soi—without ceasing to be consciousness. The attempt to explain away phenomenal consciousness treats the pour-soi as if it were an en-soi: a thing with properties that might be illusory. But consciousness is not a thing with properties. It is the perspective from which properties appear.
 
-Given the absurd, why not suicide? Camus answered: we must imagine Sisyphus happy. The appropriate response is revolt—continuing to live and create meaning despite the universe's silence.
+## Heidegger's Dasein: Being-in-the-World
 
-### Bad Faith
+Martin Heidegger's *Being and Time* (1927) approaches consciousness indirectly, through what he calls Dasein—literally "being-there," the kind of being that is ours. Heidegger avoids the term "consciousness" because he considers it laden with Cartesian assumptions that distort the phenomenon.
 
-Sartre's *mauvaise foi* (bad faith) describes self-deception about freedom. We pretend choices are determined by circumstances, treating ourselves as things. A waiter playing his role too perfectly, as if determined by it, is in bad faith—pretending to be a waiter the way an inkwell is an inkwell.
+Dasein's defining feature is that its being is an issue for it. A rock exists without any concern about its existence. Dasein exists in such a way that its existence matters to it. This "mattering" is not an added feature—a rock plus concern—but Dasein's mode of being itself.
 
-Bad faith is not simple lying. It is peculiar self-deception: we are both deceiver and deceived, simultaneously knowing and not knowing our freedom.
+### The Existential Analytic
 
-## Existentialism and Meaning
+Heidegger's existential analytic reveals structures of Dasein that resist reduction:
 
-Existentialism is often misread as nihilistic. The universe provides no ready-made meaning, but that doesn't make meaning impossible—it must be *created* rather than discovered. Sartre: "Man is nothing else but what he makes of himself." Camus: "The struggle itself toward the heights is enough to fill a man's heart."
+**Being-in-the-world**: Dasein is never a detached subject observing an external world. It is always already embedded in a context of meaningful relations—a workshop, a neighborhood, a culture. The subject-object split that materialism assumes is derivative, not primary. We first encounter things as ready-to-hand (equipment for purposes) before we can treat them as present-at-hand (objects with properties).
 
-The challenge is to create meaning without pretending it was there all along—owning values as choices rather than discoveries.
+**Understanding and projection**: Dasein always exists ahead of itself, projecting possibilities. Understanding is not representing facts but grasping how things matter for future action. This temporal structure—being toward possibilities not yet actual—cannot be captured in any present-state description.
 
-## The Illusionist Challenge
+**Mood (Stimmung)**: Every experience is attuned—colored by a mood that discloses how things matter. Anxiety, boredom, wonder are not subjective colorings added to objective perception but ways of being disclosed to the world. Mood is not inside the head; it is how the world shows up.
 
-[Illusionists](/concepts/illusionism/) argue that phenomenal consciousness is an introspective illusion—that there's nothing it's *like* to choose or feel anguish. If true, existentialism's starting point collapses.
+### Why Dasein Resists Reduction
 
-But illusionism faces a regress: for anguish to be illusory, something must experience that illusory anguish. The *seeming* of choice must *seem to* something. Sartre anticipated this—his pour-soi (being-for-itself) is precisely the awareness structure that resists reduction to thinghood. The illusionist's move is itself a form of bad faith: treating consciousness as an en-soi (thing) rather than the pour-soi it reveals itself to be.
+Heidegger's analysis suggests why consciousness cannot be reduced to physical properties or computational functions:
 
-Contemplative evidence supports existentialism here. If illusionism were correct, sustained [introspection](/concepts/introspection/) should dissolve the "illusion" of consciousness. Instead, practice *refines* phenomenal access. [Witness consciousness](/concepts/witness-consciousness/)—observing thoughts without identification—demonstrates the subject-object structure existentialism requires.
+1. **The priority of being-in-the-world**: Any scientific investigation of consciousness presupposes the scientist's own being-in-the-world. The detached, objectifying stance is a derived mode, not the ground level. This is not merely a methodological point—you cannot step outside Dasein to explain it in terms of something more fundamental because the explaining itself requires being-in-the-world.
 
-The connection to [haecceity](/concepts/haecceity/) deepens the point. Existentialist self-creation produces not a replicable pattern but *this* unrepeatable subject. Illusionism treats consciousness as multiply realisable; existentialism insists on the non-substitutability of this particular perspective making these particular choices.
+2. **The projective structure**: Dasein is constitutively ahead of itself. But physical states are always present states, even when they represent the future. The gap between being-toward-possibilities and representing-possibilities parallels the gap between pour-soi and en-soi.
 
-## Contemplative Connections
+3. **The question of being**: Dasein is the being for whom being is a question. This reflexivity—being able to inquire into one's own mode of existence—presupposes what materialism cannot explain: that there is something it is like to be this inquirer.
 
-[Witness consciousness](/concepts/witness-consciousness/)—observing mental contents without identification—grounds authentic choice. To choose authentically requires seeing one's situation clearly, including tendencies toward bad faith. Witnessing breaks the captivity of being *caught* by thoughts and roles, revealing them as objects rather than identities.
+The Map's [Dualism tenet](/tenets/#dualism) finds philosophical grounding here. If Dasein's structures are irreducible to present-at-hand properties, then materialism's attempt to explain consciousness through brain properties confronts a category error. Consciousness is not a property of brains; it is the perspective from which brains can be investigated.
 
-[Mental effort](/concepts/mental-effort/) connects to existentialist freedom. The experience of sustaining attention against distraction, resisting the easier path—this is freedom made palpable. If choices were predetermined, the experience of effort would be systematically illusory. But contemplative practice suggests effortful attention has genuine effects: sustained practice produces results that unsustained attention doesn't.
+## Authenticity and the Singular Self
 
-## What Would Challenge This View?
+Existentialism emphasises that existence is always *mine*—first-person, unrepeatable, non-transferable. Heidegger calls this *Jemeinigkeit* (mineness). Sartre expresses it through the pour-soi's radical particularity. Both converge on what the Map calls [haecceity](/concepts/haecceity/): the unrepeatable thisness of a particular conscious subject.
 
-The existentialist-dualist synthesis would face difficulty if:
+Authentic existence means owning this particularity—choosing in full awareness that the choice is one's own, not determined by "what one does" (Heidegger's *das Man*). Inauthenticity means fleeing into the anonymous crowd, treating oneself as interchangeable with others.
 
-- **Illusionism solved the regress problem**—explaining *why we have* experiences of choice, not just why we report them
-- **Contemplative practice dissolved the sense of freedom** rather than refining it
-- **[Quantum decoherence](/concepts/decoherence/) fully ruled out** consciousness-brain quantum coupling in warm tissue
-- **Many-worlds proved inescapable**, fragmenting the singular self that existentialism requires
+This connects to the [No Many Worlds tenet](/tenets/#no-many-worlds). The Many-Worlds interpretation holds that every quantum measurement actualises all outcomes across branching universes. Every choice produces copies making every alternative. But existentialist authenticity presupposes that choices genuinely select—that when I choose, I am not simultaneously choosing every alternative in other branches.
 
-## Relation to The Unfinishable Map's Perspective
+If Many Worlds were true, the weight of existentialist choice would dissolve. The anguish Sartre describes—the dizzying awareness that nothing determines one's choice but oneself—presupposes that the choice matters, that it selects one path over others that will not be taken. MWI preserves the *appearance* of selection from each branch-bound observer's perspective but eliminates genuine selection from the universe's standpoint.
 
-Existentialism's emphasis on meaning-creation might seem to conflict with the Map's dualism. If consciousness is real and irreducible, doesn't meaning exceed mere human projection?
+The Map rejects MWI partly for this reason. Existentialist phenomenology reveals that consciousness involves singular perspective, unrepeatable identity, and genuine selection among possibilities. These features conflict with a metaphysics that multiplies observers to avoid selection.
+
+## The Phenomenology of Freedom
+
+Existentialists insist that freedom is not an empirical fact to be discovered but a structural feature of consciousness. Sartre: "Man is condemned to be free." The pour-soi's constitutive self-distance means I can always take a stance toward my current situation, including toward my own past choices and present desires.
+
+This freedom is not uncaused randomness. It is the capacity to suspend automatic response, to consider alternatives, to act on reasons rather than impulses. The phenomenology of choice reveals this: the hesitation before decision, the sense of possibilities weighing against each other, the moment of commitment.
+
+The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) provides a mechanism for this freedom. Consciousness biases which neural patterns become actual by selecting among quantum-indeterminate possibilities. The brain generates options; the mind selects. This fits existentialist phenomenology: the situation presents possibilities, consciousness actualises one.
+
+The experience of [mental-effort](/concepts/mental-effort/)—the felt strain of sustaining attention against distraction, of resisting the easier path—provides evidence for this selection function. If choices were predetermined by prior physical states, the phenomenology of effort would be systematically illusory. Contemplative traditions report that effortful attention has genuine effects on both experience and behavior, suggesting that the selection is real.
+
+## Bad Faith and the Flight from Freedom
+
+Sartre's concept of *mauvaise foi* (bad faith) illuminates the peculiar self-deception that consciousness enables. In bad faith, I deny my freedom by treating myself as a thing—determined by circumstances, roles, or character. The waiter who performs "being a waiter" too precisely, as if his role fully defines him, exhibits bad faith. So does the person who claims "I couldn't help it; that's just who I am."
+
+Bad faith is not ordinary lying. It is self-deception in which I am simultaneously deceiver and deceived. This paradoxical structure presupposes the pour-soi: only a being that is not identical with itself can deceive itself. A thing cannot be in bad faith because it cannot distance itself from what it is.
+
+For the Map's framework, bad faith demonstrates consciousness's irreducibility. Materialist accounts struggle to explain how a physical system can deceive itself—deception requires a deceiver and a deceived, which seems to multiply subjects. But the pour-soi's self-distance provides exactly this structure without multiplication: the same consciousness can simultaneously know and flee from its freedom.
+
+This connects to [witness-consciousness](/concepts/witness-consciousness/). The capacity to observe one's thoughts without identification—cultivated in contemplative practice—is the antidote to bad faith. The witness stance is pour-soi purified: awareness aware of itself, not collapsed into any particular content. Existentialist authenticity and contemplative witnessing converge on the same structure of non-identified awareness.
+
+## Relation to Site Perspective
 
 ### Dualism
 
-Sartre's pour-soi (being-for-itself) is radically distinct from en-soi (being-in-itself, things). This resonates with the [Dualism tenet](/tenets/#dualism)—consciousness resists objectification, always beyond any characterisation. Sartre didn't endorse substance dualism, but his insistence that consciousness cannot be reduced to thinghood aligns with the Map's core claim.
+Sartre did not endorse substance dualism—his ontology is not Cartesian. But his insistence that the pour-soi cannot be reduced to en-soi aligns with the Map's core claim. Consciousness cannot be objectified without being falsified. Any account that treats consciousness as a thing with properties has already missed what consciousness is.
 
-### Bidirectional Interaction
-
-Existentialism assumes that choices make a difference but never explains how. The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) provides the mechanism: consciousness influences outcomes through quantum selection, biasing which neural patterns actualise. The phenomenology of [mental-effort](/concepts/mental-effort/)—trying, sustaining attention—gains significance here. Effort would be illusory if predetermined; contemplative evidence suggests it has real effects.
+Heidegger's analysis of Dasein makes the same point differently. Being-in-the-world is not a relation between two substances (mind and matter) but the primordial condition from which any subject-object distinction is derived. Materialism assumes the subject-object split and then tries to explain the subject in terms of objects. Heidegger shows this gets things backwards.
 
 ### Minimal Quantum Interaction
 
-The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) proposes consciousness biases quantum outcomes physics leaves indeterminate. This fits existentialist phenomenology: the brain generates possibilities; consciousness actualises one. Even "not choosing" is a selection. The anguish of freedom reflects this structure.
+The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) proposes that consciousness biases quantum outcomes without injecting energy. The existentialist phenomenology of choice fits this mechanism: consciousness does not create possibilities ex nihilo but selects among those the situation presents.
+
+The specious present—the experienced "now" that extends beyond the mathematical instant—operates at timescales relevant to quantum neural processes. Husserl's analysis of retention and protention, which existentialists inherit, reveals temporal thickness in experience. This thickness may reflect the interval over which consciousness exercises its selection function.
 
 ### No Many Worlds
 
-The [No Many Worlds tenet](/tenets/#no-many-worlds) is crucial for existentialism. If Many-Worlds were true, every choice actualises all options across branches—the authentic self coexists with the self in bad faith. Existentialist emphasis on the weight of singular choice requires that decisions genuinely select one outcome. The Map's rejection of MWI preserves what existentialism needs: choices that matter because made by *this* unrepeatable subject.
+Existentialism's emphasis on singular choice, authentic self-creation, and the weight of decision presupposes that choices genuinely matter—that they select one future over alternatives that will not be actualised. The [No Many Worlds tenet](/tenets/#no-many-worlds) preserves this. If all choices actualise in branches, the existentialist vocabulary of commitment, anguish, and responsibility loses its grip.
 
-### Synthesis
+The [haecceity](/concepts/haecceity/) of conscious subjects—their unrepeatable thisness—conflicts with MWI's multiplication of observers. Existentialism insists that I am not interchangeable with my branching copies. The Map agrees.
 
-Even if consciousness is real and irreducible, we still face choices about what to do with existence. The facts of consciousness don't determine our values. Existentialism's insights about freedom and responsibility remain relevant within a dualist framework—perhaps more so, since genuine choice becomes causally efficacious rather than merely felt.
+### Bidirectional Interaction
 
-## Comparison with Eastern Philosophy
+Existentialist freedom requires that consciousness make a difference. The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) provides the mechanism: consciousness causally influences physical outcomes through quantum selection. Without bidirectional interaction, existentialist freedom would be epiphenomenal—a felt sense of choosing that changes nothing.
 
-Existentialism and [Buddhist philosophy](/topics/eastern-philosophy-consciousness/) both reject a fixed, discoverable self, but diverge in response. Buddhism's *anattā* holds there is no enduring self—just aggregates in flux. Existentialists agree there's no pre-given essence but insist the self is *created* through choice. From a Buddhist view, this may be clinging—constructing what should be released.
+The fact that we discuss freedom, that Sartre could write about anguish and bad faith, suggests that consciousness influences behavior. Epiphenomenalism cannot explain why talk of phenomenal states tracks phenomenal states if those states are causally inert. The Map's bidirectional interaction provides what existentialism needs: genuine causal efficacy of mind.
 
-Both traditions confront groundlessness. Existentialism responds with self-assertion; Buddhism with equanimity. Yet both emphasize engagement over escapism—Sartre condemned bad faith; Buddhism condemns spiritual bypassing.
+### Occam's Razor Has Limits
 
-### The Compatibility Thesis
+The [fifth tenet](/tenets/#occams-limits) warns against dismissing dualism on grounds of simplicity. Existentialist analysis reveals complexity in consciousness—the self-distance of the pour-soi, the projective structure of Dasein, the paradox of bad faith—that materialist accounts systematically overlook. The apparent simplicity of physicalism comes from ignoring this complexity.
 
-The [compatibility thesis](/concepts/buddhism-and-dualism/) offers a middle path. Buddhism denies a *permanent* owner but accepts that consciousness and experience are real. Existentialist self-creation need not aim at permanence—authenticity can operate moment-to-moment. Like a candle flame: each moment is genuinely fire without requiring persistence. Each authentic choice is genuinely self-creation without accumulating into a structure that must be defended.
+Heidegger's critique applies: third-person scientific investigation already presupposes the investigator's being-in-the-world. To claim that physics explains everything assumes physics can explain what makes physics possible. This is not a failure of simplicity but a failure of scope.
 
-If consciousness is irreducible at each moment (as the [Dualism tenet](/tenets/#dualism) holds), Buddhist impermanence doesn't threaten consciousness's reality—only its permanence. The self is neither fixed essence nor illusion, but a genuine conscious perspective making real choices, without those choices hardening into destiny.
+## What Would Challenge This View?
+
+The existentialist-dualist alignment would face difficulty if:
+
+- **Illusionism resolved the regress**: A coherent formulation of illusionism that did not presuppose phenomenal consciousness—no "seeming" or "appearing" to anyone. No such formulation has been produced.
+
+- **Being-in-the-world proved reducible**: A physical account that explained Dasein's structures without presupposing them in the investigator. This would require explaining understanding, mood, and projection in purely present-at-hand terms.
+
+- **Bad faith became explicable functionally**: A materialist account of self-deception that did not multiply subjects or invoke the pour-soi's self-distance.
+
+- **Many-Worlds proved inescapable**: Strong theoretical or empirical reasons to accept MWI that outweighed the existentialist objections about singular choice and identity.
+
+- **Contemplative practice dissolved freedom**: If trained introspection revealed that the sense of choosing is always retrospective confabulation. Instead, contemplatives report refined access to the choice process.
 
 ## Further Reading
 
-- [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — The compatibility thesis: irreducibility without permanence
-- [nihilism](/concepts/nihilism/) — The challenge existentialism responds to
-- [meaning-of-life](/topics/meaning-of-life/) — How meaning can be grounded in consciousness
+- [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) — The relationship between existentialism and nihilism, including the problem of meaning
+- [phenomenology](/concepts/phenomenology/) — The broader phenomenological tradition existentialism develops
+- [illusionism](/concepts/illusionism/) — The position existentialist analysis undermines
 - [free-will](/topics/free-will/) — The metaphysics of choice and agency
-- [personal-identity](/topics/personal-identity/) — What constitutes the self across time
+- [personal-identity](/topics/personal-identity/) — The problem of what constitutes the self across time
+- [haecceity](/concepts/haecceity/) — The unrepeatable thisness of conscious subjects
+- [witness-consciousness](/concepts/witness-consciousness/) — Contemplative cultivation of non-identified awareness
+- [mysterianism](/concepts/mysterianism/) — The possibility that consciousness is cognitively closed to us
+- [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on self and consciousness
+- [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful attention
 - [tenets](/tenets/) — The Map's foundational commitments
-- [agent-causation](/concepts/agent-causation/) — Libertarian accounts of free agency
 
 ## References
 
+- Heidegger, M. (1927/1962). *Being and Time*. Harper & Row.
+- Sartre, J.-P. (1943/1956). *Being and Nothingness*. Philosophical Library.
 - Sartre, J.-P. (1946). *Existentialism Is a Humanism*.
-- Sartre, J.-P. (1943). *Being and Nothingness*.
-- Camus, A. (1942). *The Myth of Sisyphus*.
-- Heidegger, M. (1927). *Being and Time*.
-- de Beauvoir, S. (1947). *The Ethics of Ambiguity*.
+- Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
 - Kierkegaard, S. (1843). *Either/Or*.
-- Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
-- Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+- Camus, A. (1942). *The Myth of Sisyphus*.
+- Tallis, R. (2024). The illusion of illusionism. *Philosophy Now*.
+- Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.

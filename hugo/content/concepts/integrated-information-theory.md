@@ -96,7 +96,7 @@ But what does minimal Phi predict about minimal consciousness? The *C. elegans* 
 
 **Quantity versus quality**: If a 302-neuron worm has positive Phi, its experience would be vastly simpler than human consciousness. IIT predicts this: Phi scales with integration, so minimal neural systems should have minimal experience. But this makes consciousness appear graduated rather than threshold-based—a counterintuitive implication that IIT embraces.
 
-See [minimal-consciousness](/concepts/minimal-consciousness/) for detailed treatment of consciousness in simple organisms and the distribution problem IIT's panpsychism raises.
+See [minimal-consciousness](/archive/concepts/minimal-consciousness/) for detailed treatment of consciousness in simple organisms and the distribution problem IIT's panpsychism raises.
 
 ### Substrate Matters
 
@@ -215,7 +215,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 - [time-perception-consciousness-theories](/topics/time-perception-consciousness-theories/) — IIT's failure to explain multi-second experienced duration despite calculating instantaneous Φ
 - [phenomenal-unity](/concepts/phenomenal-unity/) — The unity IIT claims to explain via integration
 - [binding-problem](/concepts/binding-problem/) — The related puzzle of how features combine
-- [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical tests of IIT in simple organisms
+- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Empirical tests of IIT in simple organisms
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle IIT addresses
 - [panpsychism](/concepts/panpsychism/) — A related view on consciousness's ubiquity
 - [illusionism](/concepts/illusionism/) — The challenge IIT must answer

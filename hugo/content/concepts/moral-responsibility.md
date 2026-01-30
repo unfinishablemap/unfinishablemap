@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-30 14:49:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: How agent causation grounds genuine moral desert. Agents originate 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 14:30:00+00:00
+last_deep_review: 2026-01-30 14:49:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -147,7 +147,7 @@ Three responses: (1) Tegmark's original calculations are disputed—Hameroff's g
 
 Agent-causal moral responsibility is falsifiable. Findings that would undermine the framework:
 
-1. **Complete neural prediction of moral choices**: If neuroscience could predict all moral decisions from prior brain states with 100% accuracy at timescales ruling out quantum effects, there would be no "gap" for consciousness to fill. Current predictive accuracy (~60% for simple choices) leaves substantial room.
+1. **Complete neural prediction of moral choices**: If neuroscience could predict all moral decisions from prior brain states with 100% accuracy at timescales ruling out quantum effects, there would be no "gap" for consciousness to fill. Current predictive accuracy (~60% for simple binary choices in studies like Soon et al. 2008) leaves substantial room.
 
 2. **Dissociation of effort phenomenology from desert intuitions**: If sustained mental effort could be shown to have no correlation with judgments of desert—if we praised and blamed equally regardless of how hard the choice felt—the phenomenological support would collapse. Current evidence shows the opposite: we hold agents more responsible for choices they struggled with than for automatic responses.
 
@@ -195,6 +195,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 - Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 - O'Connor, T. (2000). *Persons and Causes*. Oxford University Press.
 - Pereboom, D. (2001). *Living Without Free Will*. Cambridge University Press.
+- Soon, C.S., Brass, M., Heinze, H.J., & Haynes, J.D. (2008). Unconscious determinants of free decisions in the human brain. *Nature Neuroscience*, 11(5), 543-545.
 - Strawson, P.F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*.
 - Tallis, R. (2011). *Aping Mankind*. Acumen.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.

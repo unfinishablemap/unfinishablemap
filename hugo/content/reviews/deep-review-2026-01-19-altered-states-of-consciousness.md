@@ -56,7 +56,7 @@ topics: []
 - **Tantric yoga reference**: Added systematic phenomenology of consciousness structures
 
 ### Cross-links Added
-- [minimal-consciousness](/concepts/minimal-consciousness/) — added to concepts frontmatter and new section
+- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — added to concepts frontmatter and new section
 - Enhanced Further Reading section with descriptions for each link
 
 ## Remaining Items

@@ -131,7 +131,7 @@ Filter theory explains this: consciousness is not located in neural tissue but i
 
 ### Simple Organisms and the Filter Boundary
 
-The [minimal-consciousness](/concepts/minimal-consciousness/) literature raises a sharp question for filter theory: where does the filter begin? If consciousness interfaces with brains, what happens with organisms that have minimal or no neural tissue?
+The [minimal-consciousness](/archive/concepts/minimal-consciousness/) literature raises a sharp question for filter theory: where does the filter begin? If consciousness interfaces with brains, what happens with organisms that have minimal or no neural tissue?
 
 *C. elegans* has exactly 302 neurons, a completely mapped connectome, and displays learning behaviors—yet we cannot determine whether it experiences anything. On filter theory, this organism may lack the structural complexity required for consciousness to interface effectively. The filter model doesn't require every neural system to provide an interface; it requires only that *some* physical structures serve this function better than others.
 
@@ -226,7 +226,7 @@ The Buddhist framework offers something filter theory lacks: a detailed phenomen
 ## Further Reading
 
 - [default-mode-network](/concepts/default-mode-network/) — The brain's self-referential system as a specific filter mechanism
-- [minimal-consciousness](/concepts/minimal-consciousness/) — Filter theory and simple organisms
+- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Filter theory and simple organisms
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist parallels and meditation as filter reduction
 - [mysterianism](/concepts/mysterianism/) — Compatibility with cognitive closure
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Psychedelics, flow, and interface configurations

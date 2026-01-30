@@ -198,7 +198,7 @@ The baseline cognition hypothesis doesn't deny great ape consciousness. Great ap
 
 Great apes may possess access consciousness (information available for behaviour) without the full reflexive consciousness humans possess (consciousness that can take itself as object). They experience without necessarily experiencing that they experience—a distinction central to [introspective](/concepts/introspection/) capacity and the limits thereof.
 
-This connects to [minimal consciousness](/concepts/minimal-consciousness/) research. Consciousness may admit of degrees and kinds. The question isn't "conscious or not?" but "what kind of consciousness, supporting what cognitive operations?"
+This connects to [minimal consciousness](/archive/concepts/minimal-consciousness/) research. Consciousness may admit of degrees and kinds. The question isn't "conscious or not?" but "what kind of consciousness, supporting what cognitive operations?"
 
 ## Implications for AI
 
@@ -258,7 +258,7 @@ The baseline cognition hypothesis could be undermined by:
 - [metarepresentation](/concepts/metarepresentation/) — The capacity to represent representations
 - [cumulative-culture](/concepts/cumulative-culture/) — The ratchet effect and why it requires metarepresentation
 - [animal-consciousness](/topics/animal-consciousness/) — The broader context including evolutionary evidence
-- [minimal-consciousness](/concepts/minimal-consciousness/) — Model organisms and the boundaries of consciousness
+- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Model organisms and the boundaries of consciousness
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The broadcasting account of conscious access
 - [free-will](/topics/free-will/) — How conscious deliberation supports libertarian free will
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The capacity to imagine non-actual states, requiring consciousness

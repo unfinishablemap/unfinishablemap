@@ -90,7 +90,7 @@ The distinction matters because:
 
 Creature consciousness asks which beings are conscious—which things have *any* experiences. State consciousness asks which mental states of a conscious being are themselves conscious—when you're thinking about dinner while brushing your teeth, is the brushing conscious?
 
-Both questions connect to the Map's framework: creature consciousness relates to [evolution-of-consciousness](/concepts/evolution-of-consciousness/) and [minimal-consciousness](/concepts/minimal-consciousness/); state consciousness relates to [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) and attention.
+Both questions connect to the Map's framework: creature consciousness relates to [evolution-of-consciousness](/concepts/evolution-of-consciousness/) and [minimal-consciousness](/archive/concepts/minimal-consciousness/); state consciousness relates to [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) and attention.
 
 ## Theories of Consciousness {#theories}
 
@@ -201,7 +201,7 @@ The Map's extensive coverage of consciousness includes:
 - Neuroscientific interface ([neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/), [binding-problem](/concepts/binding-problem/), [global-workspace-theory](/concepts/global-workspace-theory/))
 - Functional contrasts ([access-consciousness](/concepts/access-consciousness/), [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/), [baseline-cognition](/archive/topics/baseline-cognition/))
 - Quantum mechanisms ([quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/))
-- Varieties of experience ([altered-states-of-consciousness](/concepts/altered-states-of-consciousness/), [dreams-and-consciousness](/concepts/dreams-and-consciousness/), [witness-consciousness](/concepts/witness-consciousness/), [minimal-consciousness](/concepts/minimal-consciousness/))
+- Varieties of experience ([altered-states-of-consciousness](/concepts/altered-states-of-consciousness/), [dreams-and-consciousness](/concepts/dreams-and-consciousness/), [witness-consciousness](/concepts/witness-consciousness/), [minimal-consciousness](/archive/concepts/minimal-consciousness/))
 
 ## Further Reading
 
