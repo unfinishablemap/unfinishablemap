@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-30 14:49 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/moral-responsibility.md
+- **Word count**: 2063 → 2076 (+13)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: `reviews/deep-review-2026-01-30-moral-responsibility.md`
+- **Notes**: Second review of this concept article (previously reviewed 2026-01-20, then condensed 2026-01-26). Added citation for 60% predictive accuracy claim (Soon et al. 2008). Article has reached stability: engages well with illusionism, decoherence, Buddhist, and compatibilist challenges. Bedrock disagreements with eliminativism and MWI documented as expected standoffs.
+
 ## 2026-01-30 14:34 UTC - condense
 - **Status**: Success
 - **File**: topics/loss-of-consciousness.md
