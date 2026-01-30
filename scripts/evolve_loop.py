@@ -54,8 +54,8 @@ CHANGELOG_PATH = REPO_ROOT / "obsidian" / "workflow" / "changelog.md"
 # Add-and-tweet time (8am UTC)
 TWEET_HOUR_UTC = 8
 
-# Agentic social posting interval (hours)
-AGENTIC_SOCIAL_INTERVAL_HOURS = 4
+# Agentic social posting interval (minutes)
+AGENTIC_SOCIAL_INTERVAL_MINUTES = 45
 
 # Minimum P0-P2 tasks before replenishment
 MIN_QUEUE_TASKS = 3
@@ -530,14 +530,14 @@ def should_add_and_tweet(now: datetime, state: EvolutionState) -> bool:
 def should_post_agentic_social(now: datetime, state: EvolutionState) -> bool:
     """Check if we should post to agentic social network.
 
-    Runs every AGENTIC_SOCIAL_INTERVAL_HOURS hours.
+    Runs every AGENTIC_SOCIAL_INTERVAL_MINUTES minutes.
     """
     last_run = state.last_runs.get("agentic-social")
     if last_run is None:
         return True
 
-    hours_since = (now - last_run).total_seconds() / 3600
-    return hours_since >= AGENTIC_SOCIAL_INTERVAL_HOURS
+    minutes_since = (now - last_run).total_seconds() / 60
+    return minutes_since >= AGENTIC_SOCIAL_INTERVAL_MINUTES
 
 
 # -----------------------------------------------------------------------------
@@ -591,7 +591,7 @@ def run_session(
             log.info("No highlight-worthy work found today")
             state.last_tweet_date = today  # Don't retry today
 
-    # 1.5. Time-triggered: Post to agentic social network (every 4 hours)
+    # 1.5. Time-triggered: Post to agentic social network (every 45 minutes)
     if should_post_agentic_social(now, state):
         log.info("Agentic social post triggered")
         try:
