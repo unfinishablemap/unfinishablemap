@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review convergent-cognitive-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), created 2026-01-28, never deep-reviewed. Covers evidence for cross-cultural universal cognitive limits (bias blind spot, mystical experiences across traditions). Should verify: (1) accuracy of cross-cultural psychology claims, (2) engagement with alternative explanations (shared biology vs shared cognitive architecture), (3) connection to mysterianism and whether convergent limits strengthen the case for species-level cognitive closure, (4) alignment with voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-30
-
 ### P2: Deep review questioning-as-evidence.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), created 2026-01-30, never deep-reviewed. Covers the meta-insight that beings exist who can conceive of their own cognitive boundaries—connecting Heidegger's Dasein analysis, Socratic recognition of ignorance, and Chomsky's mysteries/problems distinction. Should verify: (1) accuracy of philosophical positions, (2) whether the meta-argument is sound, (3) connection to mysterianism.md and limits-reveal-structure.md, (4) alignment with voids framework.
@@ -833,6 +827,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Deep review convergent-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), created 2026-01-28, never deep-reviewed. Covers evidence for cross-cultural universal cognitive limits (bias blind spot, mystical experiences across traditions). Should verify: (1) accuracy of cross-cultural psychology claims, (2) engagement with alternative explanations (shared biology vs shared cognitive architecture), (3) connection to mysterianism and whether convergent limits strengthen the case for species-level cognitive closure, (4) alignment with voids framework.
+- **Output**: obsidian/voids/convergent-cognitive-limits.md
 
 ### ✓ 2026-01-30: Write article on consciousness and language: the recursion connection
 - **Type**: expand-topic
