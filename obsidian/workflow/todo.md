@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-30T14:44:00+00:00
+ai_modified: 2026-01-30T15:14:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Research symbol grounding problem
+- **Type**: research-topic
+- **Notes**: The symbol grounding problem is foundational to consciousness arguments—showing why computation alone cannot ground symbols in meaning the way conscious experience does. Critical for defending the Bidirectional Interaction tenet (consciousness must causally engage with symbols) and distinguishing conscious comprehension from AI statistical competence. Referenced in consciousness-only-territories.md and embodied cognition discussions but lacks dedicated coverage.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-30
+
+### P2: Create dedicated existentialism concept article
+- **Type**: expand-topic
+- **Notes**: Existentialism is currently embedded in nihilism-and-existentialism.md but deserves standalone treatment. Sartre's pour-soi structure anticipates the regress problem against illusionism; Heidegger's Dasein analysis prefigures the Map's claim that consciousness cannot be reducible to properties. Multiple deep reviews identified these connections but they remain undeveloped. Would strengthen the Dualism tenet's philosophical grounding.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-30
+
+### P2: Cross-review limits-reveal-structure.md considering questioning-as-evidence.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/questioning-as-evidence.md (2026-01-30) develops the meta-insight that the capacity to conceive cognitive voids is itself evidential. The limits-reveal-structure.md article argues that cognitive limits illuminate cognitive architecture. Check for: (1) cross-links to the new questioning-as-evidence treatment, (2) whether the "datum that questioning beings exist" strengthens the limits-reveal-structure argument, (3) opportunities to connect Heidegger's Dasein discussion to both articles.
+- **Source**: chain (from questioning-as-evidence.md)
+- **Generated**: 2026-01-30
 
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
