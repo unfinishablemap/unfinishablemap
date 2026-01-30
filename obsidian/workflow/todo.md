@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-30T14:27:00+00:00
+ai_modified: 2026-01-30T14:44:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on Stapp's mental effort theory
+- **Type**: expand-topic
+- **Notes**: Research completed in research/stapp-mental-effort-mind-matter-2026-01-14.md. Henry Stapp's quantum Zeno effect model of mental effort directly supports the Bidirectional Interaction tenet—one of the most developed physics-based proposals for how consciousness influences brain activity. Key topics: attention sustaining neural patterns through repeated observation, quantum Zeno effect preventing decoherence, connection to voluntary action. High tenet-relevance.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-30
+
+### P2: Cross-review mysterianism.md considering questioning-as-evidence insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/questioning-as-evidence.md (2026-01-30) argues that the capacity to conceive cognitive limits is itself evidential—what does it mean that questioning beings exist? Check mysterianism.md for: (1) cross-links to the meta-level questioning argument, (2) whether McGinn's cognitive closure connects to the Heidegger/Dasein analysis, (3) whether the "scope-limit entailment" strengthens the mysterian position.
+- **Source**: chain (from questioning-as-evidence.md)
+- **Generated**: 2026-01-30
+
+### P2: Condense functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/—worst length violator. Functionalism is a core rival theory. Preserve: core multiple realizability argument, China brain objection, connection to consciousness theories. Remove redundancy, defer detailed objections to dedicated pages. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-30
 
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
