@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-30 20:16 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/mental-causation.md
+- **Word count**: 2931 → 2933 (+2, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (expanded delegatory dualism preemption mechanism)
+- **Enhancements made**: 1 (integrated delegation/preemption framework with military analogy)
+- **Context**: User request to update with delegation and preemption framework
+- **Output**: `reviews/deep-review-2026-01-30-mental-causation.md`
+
 ## 2026-01-30 20:10 UTC - apex-evolve
 - **Status**: Complete
 - **Article**: The Explanatory Frontier

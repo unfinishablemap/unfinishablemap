@@ -771,13 +771,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P2: Update mental-causation.md with delegation and preemption framework
-- **Type**: cross-review
-- **Notes**: From outer review 2026-01-29. Add subsection "Delegation and Preemption (Saad 2025)" with the major/sergeant analogy and default causal profiles explanation. The Delegatory Law provides a clean "preemption not overdetermination" story relevant to mental causation. Cross-link to delegatory-dualism.md.
-- **Review file**: `reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-01-29
-
 ### P3: Write article on consciousness and creativity
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Builds on free-will, agent-causation, voluntary-attention. Addresses gap in how consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination. Creativity as paradigm case of Bidirectional Interaction.
@@ -828,6 +821,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Update mental-causation.md with delegation and preemption framework
+- **Type**: cross-review
+- **Notes**: From outer review 2026-01-29. Add subsection "Delegation and Preemption (Saad 2025)" with the major/sergeant analogy and default causal profiles explanation. The Delegatory Law provides a clean "preemption not overdetermination" story relevant to mental causation. Cross-link to delegatory-dualism.md.
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Update mental-causation.md with delegation and preemption framework
 
 ### ✓ 2026-01-30: Cross-review limits-reveal-structure.md considering questioning-as-evidence insights
 - **Type**: cross-review

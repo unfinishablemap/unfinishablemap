@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-29T17:00:00+00:00
+ai_modified: 2026-01-30T20:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-29T17:00:00+00:00
+last_deep_review: 2026-01-30T20:16:00+00:00
 ---
 
 Mental causation is the thesis that mental states cause physical effects. When you decide to raise your arm, your decision causes the arm to rise. When pain motivates you to avoid the fire, the pain causes the avoidance. This seems obvious from experience but faces a formidable philosophical challenge: Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. The Unfinishable Map's quantum framework provides a response: consciousness causes physical effects at points where physics is genuinely incomplete.
@@ -66,11 +66,9 @@ The dilemma seems stark: deny that consciousness causes anything, or deny that c
 
 ## Overdetermination and Exclusion
 
-Why can't mental and physical causes both contribute? This would be *causal overdetermination*—two independent sufficient causes converging on a single effect. Kim argues systematic overdetermination is untenable: if *every* action has both mental and physical sufficient causes, this strains credibility.
+Why can't mental and physical causes both contribute? This would be *causal overdetermination*—two independent sufficient causes converging on a single effect. Kim argues systematic overdetermination is untenable.
 
-Critics respond in several ways. **The dependence response**: mental causes supervene on physical causes, so this isn't coincidental overdetermination but interdependent causation. **The proportionality response** (Yablo): mental properties may be the more *proportional* cause—neither too specific nor too general for the effect. **The levels response**: mental and physical descriptions capture the same process at different levels.
-
-Each response has merit, but none fully dissolves the problem if we accept strong [[causal-closure|causal closure]].
+Critics respond: mental causes supervene on physical causes (the dependence response); mental properties may be the more *proportional* cause (Yablo); mental and physical descriptions capture the same process at different levels. Each response has merit, but none fully dissolves the problem if we accept strong [[causal-closure|causal closure]].
 
 ## The Supervenience Problem
 
@@ -86,21 +84,25 @@ This generalization of the problem either undermines all higher-level causation 
 
 ### Interventionism
 
-James Woodward's interventionist theory defines causes as factors whose manipulation would change effects. Thomas Kroedel argues this vindicates mental causation: the exclusion argument assumes a "building block" model that interventionism replaces. Critique: can we intervene on mental properties while holding physical realizers fixed, given supervenience?
+James Woodward's interventionist theory defines causes as factors whose manipulation would change effects. Kroedel argues this vindicates mental causation by replacing the exclusion argument's "building block" model. The challenge: can we intervene on mental properties while holding physical realizers fixed?
 
 ### Inheritance and Constitution
 
-Mental properties might "inherit" causal powers from physical realizers through constitution or grounding—a cooperative rather than competitive relation. Mental causation *just is* physical causation under another description, without identity.
+Mental properties might "inherit" causal powers from physical realizers through constitution or grounding—mental causation *is* physical causation under another description, without identity.
 
 ### Strong Emergence
 
-[[emergence|Strong emergentism]] holds that mental properties have genuinely novel causal powers not present in physical constituents. Timothy O'Connor and Hong Yu Wong propose "structural triggering conditions"—latent powers that manifest when components organize appropriately.
-
-This requires denying causal closure: the physical story is insufficient because organization adds something new. The challenge: without specifying *how* emergent causation works, this names the problem more than solves it.
+[[emergence|Strong emergentism]] holds that mental properties have genuinely novel causal powers not present in physical constituents. O'Connor and Wong propose "structural triggering conditions"—latent powers manifesting when components organize appropriately. This requires denying causal closure, but without specifying *how* emergent causation works, it names the problem more than solves it.
 
 ### Delegatory Dualism
 
-Bradford Saad's [[delegatory-dualism|delegatory dualism]] (2025) offers a different strategy: accept that physical states could cause behaviour, but hold that experiences *preempt* this causal work. When pain causes wincing, the underlying physical state's causal contribution is delegated to the experience—not duplicated. This avoids overdetermination because only one cause operates; the other is sidelined.
+Bradford Saad's [[delegatory-dualism|delegatory dualism]] (2025) offers a different strategy: accept that physical states could cause behaviour, but hold that experiences *preempt* this causal work rather than duplicating it.
+
+The mechanism: physical brain states have a "default causal profile"—the pattern of effects they *would* produce absent any experience. When an experience arises whose causal profile matches this default, the experience takes over. Pain causes wincing by *preempting* what the physical state would otherwise do, not by overdetermining alongside it.
+
+Saad's analogy: A major and a sergeant both order troops to advance. The major's order preempts the sergeant's—the troops advance because of the major's command, not because two commands overdetermined the outcome. The sergeant's order is rendered causally idle. Similarly, when you experience pain, the physical state's "cause wincing" capacity is preempted by the pain itself.
+
+This differs crucially from overdetermination. Overdetermination posits two independent sufficient causes both contributing. Preemption has one cause *operating* while the other is *sidelined*—present but idle.
 
 Saad's distinction between *universal* closure (every physical event has sufficient physical cause) and *observational* closure (no detectable violations) parallels the Map's quantum framework: both hold that mental causation can be genuine without producing empirically detectable anomalies. Delegatory dualism addresses causal *structure*; the quantum opening addresses causal *mechanism*. The frameworks complement each other.
 
@@ -207,15 +209,7 @@ Mental causation is central to the Map's framework.
 
 ## Why This Matters
 
-Mental causation bears directly on:
-
-**Free will**: If consciousness causes nothing, [[free-will|free will]] is illusory—your "choices" are physical events that happen to correlate with conscious decision-making. Mental causation is necessary for genuine agency.
-
-**Moral responsibility**: Blame and praise assume that conscious states cause actions. If pain doesn't cause avoidance and compassion doesn't cause helping, the foundations of ethics crumble.
-
-**Rationality**: If reasoning about consciousness isn't caused by consciousness, our beliefs about consciousness float free of evidence. Self-knowledge becomes impossible.
-
-The Map affirms mental causation because denying it undermines everything we think we know about ourselves.
+Mental causation bears directly on [[free-will|free will]] (consciousness must cause choices for agency to be real), moral responsibility (blame and praise assume conscious states cause actions), and rationality (beliefs about consciousness must be caused by consciousness to be knowledge). The Map affirms mental causation because denying it undermines everything we think we know about ourselves.
 
 ## What Would Challenge This View?
 
