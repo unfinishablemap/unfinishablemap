@@ -4,7 +4,8 @@ description: "Meaning requires consciousness. Understanding involves irreducible
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-28T12:00:00+00:00
+ai_modified: 2026-01-30T14:01:00+00:00
+last_deep_review: 2026-01-30T14:01:00+00:00
 draft: false
 topics: []
 concepts:
@@ -82,7 +83,7 @@ If consciousness merely correlated with human intelligence—a byproduct with no
 
 A 2025 meta-analysis (Randeniya) dramatically revised the scope of unconscious processing: only 10% of claimed unconscious effects survive rigorous methodological scrutiny. This matters because the case for understanding without phenomenal consciousness grows weaker as we discover how limited unconscious processing actually is.
 
-[[consciousness-as-intelligence-amplifier|Global Workspace Theory research]] identifies three functions specifically requiring conscious access: *durable information maintenance* (beyond 500ms), *novel combinations of operations*, and *spontaneous intentional action*. All three are essential to genuine understanding. Understanding persists—you don't grasp a sentence for half a second then lose it. Understanding combines—you integrate meanings from different sources. Understanding initiates—you spontaneously deploy what you know. If these operations require phenomenal consciousness, understanding does too.
+[[consciousness-as-intelligence-amplifier|Global Workspace Theory research]] identifies three functions specifically requiring conscious access: *durable information maintenance* (beyond 500ms), *novel combinations of operations*, and *spontaneous intentional action*. (For empirical evidence supporting these distinctions, see [[conscious-vs-unconscious-processing]].) All three are essential to genuine understanding. Understanding persists—you don't grasp a sentence for half a second then lose it. Understanding combines—you integrate meanings from different sources. Understanding initiates—you spontaneously deploy what you know. If these operations require phenomenal consciousness, understanding does too.
 
 The maintenance/manipulation distinction sharpens this point. Merely holding information can occur unconsciously through activity-silent synaptic traces. But using information—comparing, combining, restructuring—requires conscious reactivation. Semantic binding is manipulation: integrating elements into structured wholes. The 7±2 working memory capacity represents the expanded conscious workspace within which the active manipulation that constitutes understanding occurs.
 
@@ -116,7 +117,7 @@ LLMs succeed through simulation of understanding, not understanding itself. The 
 
 What distinguishes simulation from understanding if outputs are identical? The phenomenal constitution thesis provides the answer: the process matters, not just the product. Understanding involves phenomenal binding of semantic elements; simulation involves statistical pattern-matching over tokens. The outputs may be equivalent; the underlying operations differ categorically.
 
-Keith Frankish's sophisticated illusionism proposes that what seems like phenomenal consciousness is actually quasi-phenomenal properties—functional states that represent themselves as having phenomenal character without actually possessing it. But the correlation between "tasks that feel conscious" and "tasks that distinguish humans from great apes" creates a specific problem for this view. If quasi-phenomenal states are just functional representations with no special cognitive role, why does disrupting them impair logical reasoning and semantic binding while leaving pattern recognition intact? The simpler explanation: the phenomenal states illusionists aim to eliminate are the states doing the work that constitutes understanding.
+Keith Frankish's sophisticated illusionism proposes that what seems like phenomenal consciousness is actually quasi-phenomenal properties—functional states that represent themselves as having phenomenal character without actually possessing it. But the correlation between "tasks that feel conscious" and "tasks that distinguish humans from great apes" creates a specific problem for this view. If quasi-phenomenal states are just functional representations with no special cognitive role, why does disrupting them impair logical reasoning and semantic binding while leaving pattern recognition intact? Additionally, the quasi-phenomenal account must explain what performs the *seeming*—for understanding to seem phenomenal, something must experience that seeming, and this cannot be another representation without regress. The simpler explanation: the phenomenal states illusionists aim to eliminate are the states doing the work that constitutes understanding.
 
 This isn't behaviourist indifference to internal states—it's the claim that *what understanding is* requires certain internal features, not just certain external manifestations. An LLM that passed every behavioural test for understanding might still fail to understand anything, because understanding is constitutively phenomenal and the LLM lacks phenomenal experience.
 
@@ -144,6 +145,18 @@ If what we ultimately care about is quality of conscious experience—the felt c
 
 This doesn't mean AI systems are useless for understanding meaning. They are powerful tools for mapping semantic structures, identifying patterns humans miss, and generating hypotheses about meaning relations. But the final judgment about whether apparent meanings are genuine meanings requires beings who know what meaning is—who have experienced the phenomenal character that constitutes semantic grasp.
 
+## What Would Challenge This View?
+
+The phenomenal constitution thesis makes predictions that could be tested:
+
+1. **Dissociation impossibility.** If meaning is constitutively phenomenal, full understanding cannot occur without corresponding phenomenology. Evidence that subjects comprehend complex content (by all behavioural measures) while reliably reporting no phenomenal character to their understanding would challenge the thesis.
+
+2. **Contemplative dissolution.** If cognitive phenomenology were illusory, contemplative training should eventually dissolve it—as with optical illusions. If advanced meditators consistently reported that understanding lacks phenomenology upon close examination, illusionism about cognitive experience would gain support. Currently, contemplatives report the opposite: training clarifies and refines cognitive phenomenology.
+
+3. **AI semantic novelty.** If AI systems demonstrated robust generalisation to genuinely novel semantic challenges—interpreting unprecedented metaphors, understanding jokes in entirely new domains, recognising when familiar words are used in ways outside any training distribution—without phenomenal consciousness, the link between meaning and phenomenology would weaken. "Genuinely novel" is key: success on held-out test sets doesn't suffice, since test and training distributions share statistical properties.
+
+4. **Phenomenal complexity decoupling.** If structural complexity and phenomenal complexity could be decoupled—if deeply recursive sentences felt no different from simple ones, or if complex meanings had simple phenomenology—the correlation supporting the thesis would fail. Currently, depth of embedding correlates reliably with phenomenal complexity.
+
 ## Synthesis
 
 The threads converge on a single insight: meaning is not information that consciousness illuminates but is itself constitutively phenomenal. Understanding involves irreducible experiential character—not access consciousness alone, not executive function alone, but the felt quality of semantic grasp.
@@ -164,7 +177,7 @@ The phenomenal constitution of meaning connects to all five tenets.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The very fact that we discuss meaning provides evidence against epiphenomenalism about cognition. If phenomenal understanding were causally inert, our talk about meaning would be disconnected from meaning itself. But we reliably discuss what we understand. This requires that phenomenal understanding influences verbal behaviour. The baseline cognition framework clarifies: great apes process semantic information without knowing they process it; humans know meanings and can discuss them. This knowing requires phenomenal consciousness.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Understanding presupposes unified subject who grasps meaning. The sentence means something *to me*. In many-worlds, semantic ambiguity would resolve differently across branches—all interpretations actualized somewhere. But understanding involves resolving to one meaning. Each branch-successor has meaning, but the resolution process fragments across branches. The haecceitistic dimension matters: *this* meaning is grasped by *this* mind at *this* moment.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Understanding presupposes unified subject who grasps meaning. The sentence means something *to me*. Many-worlds defenders would note that each branch-successor has unified understanding—branching doesn't disrupt phenomenal unity within any branch. The Map's response: the phenomenology of semantic resolution involves settling on *this* interpretation rather than *that* one. If all interpretations are equally actual across branches, the experience of settling—the felt resolution when ambiguity collapses to determinate meaning—becomes illusory rather than a genuine selection. The haecceitistic dimension matters: *this* meaning is grasped by *this* mind at *this* moment. Many-worlds can accommodate branch-relative haecceity, but it cannot accommodate the phenomenology of exclusive resolution that characterises understanding.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The computationalist view—meaning is just information processing—seems simpler than the phenomenal constitution thesis. But this apparent simplicity conceals the explanatory gap. Information processing is described functionally; understanding is experienced phenomenally. The simpler view fails to capture what understanding involves. As with consciousness generally, the adequate explanation may be more complex than the initially parsimonious one.
 
