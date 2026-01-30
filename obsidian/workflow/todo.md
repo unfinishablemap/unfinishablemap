@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-30T16:05:00+00:00
+ai_modified: 2026-01-30T17:05:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -42,6 +42,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
+
+### P2: Cross-review intentionality.md considering symbol-grounding-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/symbol-grounding-problem.md (2026-01-30) addresses how symbols acquire intrinsic meaning. Check intentionality.md for: (1) cross-links to symbol grounding discussion, (2) whether the relationship between intentionality and grounding is adequately developed, (3) connection to the Chinese Room argument present in both articles.
+- **Source**: chain (from symbol-grounding-problem.md)
+- **Generated**: 2026-01-30
+
+### P2: Cross-review ai-consciousness.md considering symbol-grounding-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/symbol-grounding-problem.md (2026-01-30) argues that computational symbol manipulation cannot produce intrinsic meaning. Check ai-consciousness.md for: (1) cross-links to the symbol grounding argument, (2) whether the grounding problem strengthens the case against AI consciousness, (3) engagement with hybrid grounding proposals and their limitations.
+- **Source**: chain (from symbol-grounding-problem.md)
+- **Generated**: 2026-01-30
+
+### P2: Cross-review llm-consciousness.md considering symbol-grounding-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/symbol-grounding-problem.md (2026-01-30) develops the vector grounding problem for neural networks (Piantadosi & Hill 2023). Check llm-consciousness.md for: (1) cross-links to symbol grounding treatment, (2) whether vector grounding problem is addressed, (3) how the grounding argument relates to LLM-specific consciousness debates.
+- **Source**: chain (from symbol-grounding-problem.md)
+- **Generated**: 2026-01-30
+
+### P2: Cross-review mysterianism.md considering questioning-as-evidence insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/questioning-as-evidence.md (2026-01-30) explores meta-insight that beings who can conceive cognitive limits exist. Check mysterianism.md for: (1) cross-links to the questioning-as-evidence treatment, (2) whether McGinn's cognitive closure connects to the meta-question of why limit-questioning is possible, (3) connection between Chomsky's mysteries/problems distinction in both articles.
+- **Source**: chain (from questioning-as-evidence.md)
+- **Generated**: 2026-01-30
+
+### P2: Cross-review limits-reveal-structure.md considering questioning-as-evidence insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/questioning-as-evidence.md (2026-01-30) addresses meta-question of what limit-questioning reveals. Check limits-reveal-structure.md for: (1) cross-links to the questioning-as-evidence article, (2) whether the meta-insight about questioning beings strengthens the structural argument, (3) connection to Heidegger's Dasein analysis as beings for whom Being is an issue.
+- **Source**: chain (from questioning-as-evidence.md)
+- **Generated**: 2026-01-30
 
 ### P3: Cross-review nihilism-and-existentialism.md considering existentialism.md
 - **Type**: cross-review
