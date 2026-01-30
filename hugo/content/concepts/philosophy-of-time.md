@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-30 20:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: A-theory versus B-theory, presentism, eternalism, and the growing b
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 16:45:00+00:00
+last_deep_review: 2026-01-30 20:35:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -151,7 +151,7 @@ Three responses preserve the framework:
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) might dismiss temporal phenomenology as mere representation without metaphysical import. If there's nothing it's *really* like to experience time's flow—if the sense of temporal becoming is an introspective illusion—then consciousness needn't be constitutive of time. The B-theory eternalist block could exist unchanged, with our sense of flow being a persistent representational error.
+[Illusionists](/concepts/illusionism/) argue that what needs explaining isn't temporal experience but why we *report* temporal experience—the seeming itself is the explanandum, not something pointing to deeper phenomenology. If the sense of temporal becoming is a cognitive/functional phenomenon rather than irreducible phenomenology, consciousness needn't be constitutive of time. The B-theory eternalist block could exist unchanged, with our sense of flow being a persistent representational error.
 
 The framework offers three responses:
 
@@ -213,7 +213,7 @@ The framework makes commitments that could be empirically challenged:
 
 **4. Contemplative contradictions.** If trained contemplatives systematically reported that temporal experience doesn't vary with modes of attention—if cessation included normal time perception, or witness consciousness felt accelerated—phenomenological support would fail. Current contemplative consensus aligns with predictions.
 
-**5. Decoherence conclusively rules out neural quantum effects.** If experiments definitively demonstrated no quantum effects survive in neural tissue at any relevant timescale, the physical basis would fail. Current evidence is mixed but increasingly favourable to biological quantum effects.
+**5. Decoherence conclusively rules out neural quantum effects.** If experiments definitively demonstrated no quantum effects survive in neural tissue at any relevant timescale, the physical basis would fail. Current evidence remains contested, with examples like avian magnetoreception suggesting biological quantum effects are possible but neural applications uncertain.
 
 ## Relation to Site Perspective
 

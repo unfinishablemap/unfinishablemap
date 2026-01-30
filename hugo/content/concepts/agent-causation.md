@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-30 12:04:00+00:00
+ai_modified: 2026-01-30 22:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,6 +22,7 @@ concepts:
 - '[[mental-causation]]'
 - '[[phenomenology-of-choice]]'
 - '[[explanatory-gap]]'
+- '[[authentic-vs-inauthentic-choice]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 description: Agent causation holds that persons originate actions directly, not through
@@ -29,7 +30,7 @@ description: Agent causation holds that persons originate actions directly, not 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-30 12:04:00+00:00
+last_deep_review: 2026-01-30 22:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,7 +75,7 @@ The Map strengthens this response. Consciousness doesn't randomly select—it ge
 3. **Reasons-guided selection**: Consciousness selects based on reasons, making selection contrastively explicable
 4. **Retrocausal deepening**: If [selection is atemporal](/concepts/retrocausality/), the prior state is part of what consciousness selected
 
-The agent's exercise of causal power is itself the explanation—a legitimate terminus, like physics taking existence as primitive. Selection is phenomenologically distinct (effort vs passivity), neurally distinct (frontal theta), and reasons-responsive.
+The agent's exercise of causal power is itself the explanation—a legitimate terminus, like physics taking existence as primitive. Selection is phenomenologically distinct (effort vs passivity), neurally distinct (frontal theta), and reasons-responsive. The [authenticity dimension](/topics/authentic-vs-inauthentic-choice/) matters here: agent causation is fully engaged in authentic choice (where you genuinely author the decision) and attenuated in inauthentic, scripted behavior—suggesting the selection function has variable engagement rather than operating uniformly across all actions.
 
 ## Substance Causation and the Map's Framework
 
@@ -169,6 +170,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main 
 - [implicit-memory](/concepts/implicit-memory/) — Skill delegation and choking phenomenon
 - [decoherence](/concepts/decoherence/) — The decoherence challenge
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical description leaves consciousness unexplained
+- [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — When agent causation is engaged (authentic choice) vs. attenuated
 
 ## References
 

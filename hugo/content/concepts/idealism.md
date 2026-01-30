@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-30 15:45:00+00:00
+ai_modified: 2026-01-30 20:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[analytic-idealism]]'
 - '[[interactionist-dualism]]'
 - '[[explanatory-gap]]'
+- '[[existentialism]]'
 created: 2026-01-08
 date: &id001 2026-01-08
 description: Consciousness is fundamental; matter is derivative or appearance. The
@@ -18,7 +19,7 @@ description: Consciousness is fundamental; matter is derivative or appearance. T
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-30 15:45:00+00:00
+last_deep_review: 2026-01-30 20:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,6 +102,12 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet emphasizes that indexical id
 
 The Map's dualism preserves individual consciousness as genuinely distinct. You're not a fragment of something else; you're a conscious being who interacts with physical reality. When you exercise [agent causation](/concepts/agent-causation/)—originating a genuine causal chain through choice—it is *you* who acts, not a dissociated portion of cosmic mind.
 
+### Existentialist Support
+
+[Existentialist phenomenology](/archive/concepts/existentialism/) strengthens this concern. Sartre's analysis of the *pour-soi* (being-for-itself) reveals that consciousness is constitutively self-distanced—always aware of itself from a position of separation, never coinciding with its contents. This structure enables genuine choice: because consciousness is not identical with its states, it can take a stance toward them.
+
+Idealism threatens this structure. If consciousness is all there is, what is it distanced *from*? The pour-soi requires objects that are genuinely other—the *en-soi* (being-in-itself). Sartre's framework suggests that the subject-object distinction idealism dissolves may be necessary for the very agency consciousness exercises. When idealism treats matter as appearance within consciousness, it risks collapsing the otherness that makes choice meaningful—there is nothing genuinely resistant for will to engage with.
+
 ## Simple Organisms and the Ubiquity of Mind
 
 Research on [minimal consciousness](/archive/concepts/minimal-consciousness/)—organisms like *C. elegans* (302 neurons), Hydra (decentralized nerve nets), and slime molds (no neurons at all)—bears differently on idealism than on competing views.
@@ -177,6 +184,7 @@ If forced to choose between idealism and physicalism, the Map would choose ideal
 - [panpsychism](/concepts/panpsychism/) — Another view taking consciousness as fundamental
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — How consciousness and matter interact on the Map's view
 - [explanatory-gap](/concepts/explanatory-gap/) — The structural gap between physical and phenomenal description
+- [existentialism](/archive/concepts/existentialism/) — How Sartre's pour-soi/en-soi distinction illuminates the idealism debate
 - [agent-causation](/concepts/agent-causation/) — Why individual agency matters for the dualism/idealism choice
 - [tenets](/tenets/) — the Map's foundational commitments
 - [analytic-idealism-2026-01-08](/research/analytic-idealism-2026-01-08/) — Research notes on Kastrup and idealism

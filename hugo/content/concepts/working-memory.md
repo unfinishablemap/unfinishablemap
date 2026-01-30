@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-27 20:45:00+00:00
+ai_modified: 2026-01-30 22:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,7 +28,7 @@ description: Maintenance can be unconscious; manipulation requires conscious acc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-21 18:40:00+00:00
+last_deep_review: 2026-01-30 22:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,11 +76,11 @@ The 100ms–5s "experienced moment" in temporal perception corresponds precisely
 
 The [consciousness-as-amplifier hypothesis](/concepts/consciousness-as-amplifier/) positions working memory expansion as a key mechanism through which consciousness transforms cognition.
 
-**The capacity gap**: Chimpanzee working memory holds approximately 2±1 items; human working memory holds 7±2. If manipulation requires consciousness, then expanded WM capacity implies expanded conscious access. The additional capacity enables holding multiple representations for comparison, flexible combination into novel structures, and the recursive operations language requires.
+**The capacity gap**: Chimpanzee working memory holds approximately 2±1 items (estimates vary; see Inoue & Matsuzawa 2007 for numerical sequence tasks); human working memory holds 7±2 (Miller 1956). If manipulation requires consciousness, then expanded WM capacity implies expanded conscious access. The additional capacity enables holding multiple representations for comparison, flexible combination into novel structures, and the recursive operations language requires.
 
 [Recursive linguistic structure](/topics/language-recursion-and-consciousness/) demonstrates this clearly. Embedding sentences within sentences—"The man who saw the woman who chased the dog ran"—requires holding incomplete constituents while processing embedded clauses. With 2±1 capacity, even depth-2 sentences exhaust available slots. With 7±2 capacity, depth-3 or depth-4 becomes manageable. Crucially, recursive parsing requires WM *manipulation*: binding clauses into larger structures requires simultaneously accessing stored and incoming elements—the consciousness-requiring operation.
 
-The "magic number" 7±2 may reflect not arbitrary neural limitation but the interface bandwidth between consciousness and the neural workspace. Great apes possess impressive pattern recognition and procedural skills but lack capacities tied to WM manipulation: cumulative culture, logical reasoning, and counterfactual thinking. See [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) for detailed analysis of how expanded capacity enables [metacognitive monitoring](/concepts/metacognition/), counterfactual thinking, and [cumulative culture](/concepts/metarepresentation/).
+The "magic number" 7±2 may reflect not arbitrary neural limitation but the interface bandwidth between consciousness and the neural workspace. Why couldn't purely neural expansion—more neurons, better connectivity—account for this? The answer lies in what expanded capacity *enables*: not just more storage but qualitatively different operations. [Recursive linguistic structure](/topics/language-recursion-and-consciousness/) is the paradigm case—parsing nested clauses requires holding incomplete structures while integrating new input, an operation that demands conscious manipulation, not mere neural buffering. Great apes possess impressive pattern recognition and procedural skills but lack capacities tied to WM manipulation: cumulative culture, logical reasoning, and counterfactual thinking. See [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) for detailed analysis of how expanded capacity enables [metacognitive monitoring](/concepts/metacognition/), counterfactual thinking, and [cumulative culture](/concepts/metarepresentation/).
 
 ## Semantic Retrieval and Working Memory
 
@@ -126,7 +126,7 @@ Working memory research supports key positions:
 
 **[Dualism](/tenets/#dualism)**: The maintenance/manipulation asymmetry suggests consciousness contributes something beyond neural storage. If manipulation requires conscious reactivation, consciousness participates constitutively—not merely accompanying neural processes but necessary for certain cognitive operations. The phenomenology of effortful manipulation—the felt work of holding and transforming content—resists reduction to neural activity descriptions.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: WM operates at neural timescales (seconds), while quantum effects occur at much shorter timescales (nanoseconds to microseconds). The activity-silent hypothesis—synaptic calcium traces ~1 second—may bridge these scales. Quantum effects at synapses during manipulation could scale up to WM-level phenomena. The quantum Zeno effect provides a candidate mechanism: conscious attention repeatedly "observing" quantum states, holding desired neural patterns against decoherence.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: WM operates at neural timescales (seconds), while quantum effects occur at much shorter timescales (nanoseconds to microseconds). The activity-silent hypothesis—synaptic calcium traces ~1 second—may bridge these scales. Quantum effects at synapses during manipulation could, speculatively, scale up to WM-level phenomena. One proposed mechanism is the quantum Zeno effect: conscious attention repeatedly "observing" quantum states might hold desired neural patterns against decoherence. This remains highly speculative—the Map's core argument for consciousness participating in WM manipulation doesn't depend on quantum mechanisms.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: WM manipulation demonstrates downward causation. Conscious intent to manipulate WM content produces measurable neural changes. Whatever the mechanism, information flows from consciousness to brain when we actively work with WM contents. The [phenomenology of choosing](/concepts/phenomenology-of-choice/) maps directly onto WM manipulation: both involve effortful engagement rather than passive observation, both have the qualitative character of *doing* rather than *undergoing*.
 
@@ -155,9 +155,11 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 
 - Baddeley, A.D. & Hitch, G.J. (1974). Working memory. *Psychology of Learning and Motivation*, 8, 47-89.
 - Baddeley, A.D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423.
+- Baars, B.J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
 - Hitch, G.J., Allen, R.J., & Baddeley, A.D. (2025). The multicomponent model of working memory fifty years on. *Quarterly Journal of Experimental Psychology*.
+- Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004-R1005.
+- Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81-97.
+- Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56-61.
 - Soto, D., Mäntylä, T., & Silvanto, J. (2011). Working memory without consciousness. *Current Biology*, 21(22), R912-R913.
 - Stokes, M.G. (2015). 'Activity-silent' working memory in prefrontal cortex: A dynamic coding framework. *Trends in Cognitive Sciences*, 19(7), 394-405.
-- Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56-61.
-- Baars, B.J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
 - Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1-25.

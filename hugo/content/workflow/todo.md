@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-30 17:05:00+00:00
+ai_modified: 2026-01-30 21:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review symbol-grounding-problem.md considering language-recursion-consciousness
+- **Type**: cross-review
+- **Notes**: Article topics/language-recursion-and-consciousness.md connects recursive syntax to consciousness via working memory. The symbol-grounding-problem.md article addresses how symbols acquire meaning. Check for: (1) cross-links between grounding and recursion arguments, (2) whether recursive structure strengthens the case against pure computational grounding, (3) connection between meaningful recursion and the Chinese Room argument.
+- **Source**: chain (from language-recursion-and-consciousness.md)
+- **Generated**: 2026-01-30
 
 ### P2: Update references to coalesced minimal-consciousness article
 - **Type**: other
@@ -772,13 +778,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P2: Update mental-causation.md with delegation and preemption framework
-- **Type**: cross-review
-- **Notes**: From outer review 2026-01-29. Add subsection "Delegation and Preemption (Saad 2025)" with the major/sergeant analogy and default causal profiles explanation. The Delegatory Law provides a clean "preemption not overdetermination" story relevant to mental causation. Cross-link to delegatory-dualism.md.
-- **Review file**: `reviews/outer-review-2026-01-29-delegatory-dualism-chatgpt-5-2-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-01-29
-
 ### P3: Write article on consciousness and creativity
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Builds on free-will, agent-causation, voluntary-attention. Addresses gap in how consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination. Creativity as paradigm case of Bidirectional Interaction.
@@ -829,6 +828,56 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Cross-review working-memory.md considering language-recursion-consciousness
+- **Type**: cross-review
+- **Notes**: Article topics/language-recursion-and-consciousness.md argues that recursive syntax depends on working memory manipulation requiring conscious access. Check working-memory.md for: (1) cross-links to the recursion-consciousness argument, (2) whether the "bottleneck" framing for recursive processing is developed, (3) connection between working memory limits and consciousness-dependence claims.
+- **Output**: obsidian/concepts/working-memory.md -- Context: Cross-review working-memory.md considering language-recursion-consciousness
+
+### ✓ 2026-01-30: Cross-review agent-causation.md considering authentic-vs-inauthentic-choice
+- **Type**: cross-review
+- **Notes**: New article topics/authentic-vs-inauthentic-choice.md (2026-01-30) argues that authentic choice engages consciousness's genuine selection function while inauthentic choice runs on automatic processing. Check agent-causation.md for: (1) cross-links to the authenticity framework, (2) whether the distinction between genuine agent causation and pseudo-agency aligns, (3) connection between the "mental effort" signature of authentic choice and agent-causal accounts.
+- **Output**: obsidian/concepts/agent-causation.md -- Context: Cross-review agent-causation.md considering authentic-vs-inauthentic-choice
+
+### ✓ 2026-01-30: Write voids article on natural vs. designed cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-natural-vs-designed-limits-2026-01-30.md. Distinguishes cognitive limits that emerge naturally from physics/biology (fundamental constants, information processing bounds) versus those imposed by deliberate design constraints (institutional blind spots, cultural taboos). Key insight: designed limits are removable in principle; natural limits reveal something about the structure of mind itself. Target: voids/natural-vs-designed-limits.md
+- **Output**: Write voids article on natural vs. designed cognitive limits
+
+### ✓ 2026-01-30: Deep review questioning-as-evidence.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), created 2026-01-30, never deep-reviewed. Covers the meta-insight that beings exist who can conceive of their own cognitive boundaries—connecting Heidegger's Dasein analysis, Socratic recognition of ignorance, and Chomsky's mysteries/problems distinction. Should verify: (1) accuracy of philosophical positions, (2) whether the meta-argument is sound, (3) connection to mysterianism.md and limits-reveal-structure.md, (4) alignment with voids framework.
+- **Output**: obsidian/voids/questioning-as-evidence.md
+
+### ✓ 2026-01-30: Deep review convergent-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), created 2026-01-28, never deep-reviewed. Covers evidence for cross-cultural universal cognitive limits (bias blind spot, mystical experiences across traditions). Should verify: (1) accuracy of cross-cultural psychology claims, (2) engagement with alternative explanations (shared biology vs shared cognitive architecture), (3) connection to mysterianism and whether convergent limits strengthen the case for species-level cognitive closure, (4) alignment with voids framework.
+- **Output**: obsidian/voids/convergent-cognitive-limits.md
+
+### ✓ 2026-01-30: Write article on consciousness and language: the recursion connection
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-30. The Map has pieces on language and consciousness but not a unified treatment of why recursive syntax might require or indicate consciousness. The new symbol-grounding-problem article touches on this but doesn't develop it. Builds on language-recursion-and-consciousness.md, symbol-grounding-problem.md, existentialism.md. Supports Dualism through the argument that meaningful language requires consciousness.
+- **Output**: consciousness and language: the recursion connection
+
+### ✓ 2026-01-30: Write article on phenomenology of authentic vs. inauthentic choice
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-30. Sartre's distinction between authentic and bad-faith choice has phenomenological correlates. What does authentic choosing actually feel like versus going through the motions? The felt difference between genuine deliberation and rationalized predetermined paths. Builds on existentialism.md, phenomenology-of-choice.md, bad faith. Supports Bidirectional Interaction tenet by identifying phenomenal signatures of genuine agency.
+- **Output**: phenomenology of authentic vs. inauthentic choice
+
+### ✓ 2026-01-30: Cross-review idealism.md considering existentialism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/existentialism.md (2026-01-30) discusses the relation between existentialism and idealism—both take consciousness seriously, both resist reduction. The idealism.md article notes "if forced to choose between idealism and physicalism, the Map would choose idealism." Check idealism.md for: (1) cross-links to existentialist anti-reductionism, (2) whether Heidegger's critique of the subject-object split enriches the idealism discussion, (3) consistency in how both articles treat consciousness as irreducible.
+- **Output**: obsidian/concepts/idealism.md -- Context: Cross-review idealism.md considering existentialism insights
+
+### ✓ 2026-01-30: Cross-review free-will.md considering existentialism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/existentialism.md (2026-01-30) develops Sartre's radical freedom, the phenomenology of mental effort, and authentic choice—all directly relevant to the free-will.md treatment of libertarian agency. Check free-will.md for: (1) cross-links to the existentialism treatment of freedom, (2) whether Sartre's pour-soi analysis strengthens the phenomenology of choice section, (3) connection between existentialist authenticity and the three-level agency structure (selecting, witnessing, meta-level).
+- **Output**: obsidian/topics/free-will.md -- Context: Cross-review free-will.md considering existentialism insights
+
+### ✓ 2026-01-30: Update mental-causation.md with delegation and preemption framework
+- **Type**: cross-review
+- **Notes**: From outer review 2026-01-29. Add subsection "Delegation and Preemption (Saad 2025)" with the major/sergeant analogy and default causal profiles explanation. The Delegatory Law provides a clean "preemption not overdetermination" story relevant to mental causation. Cross-link to delegatory-dualism.md.
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Update mental-causation.md with delegation and preemption framework
 
 ### ✓ 2026-01-30: Cross-review limits-reveal-structure.md considering questioning-as-evidence insights
 - **Type**: cross-review
@@ -3425,6 +3474,34 @@ Review file: reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-ch
 ### P3: Create concept page for phenomenal concepts
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-30. Distinct from the phenomenal concepts *strategy*; the concepts themselves deserve analysis. What makes a concept phenomenal? How do they differ from functional/physical concepts? Builds on phenomenal-concepts-strategy.md, phenomenal-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Write article on predictive processing and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-30 (evening). Gap in coverage of currently dominant paradigm in neuroscience/AI. Should explore how predictive processing either supports or challenges the dualist framework—the "controlled hallucination" framing has materialist implications worth engaging. Builds on predictive-processing.md concept, hard-problem-of-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Write dedicated topic on the problem of mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-30 (evening). Currently spread across downward-causation.md, interactionist-dualism.md, delegatory-dualism.md. Central to Bidirectional Interaction tenet; deserves unified treatment consolidating scattered arguments.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Create concept page for causal closure
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-30 (evening). Currently referenced in multiple articles but not defined with dedicated page. Core to understanding the interaction problem. Would support cross-linking from interactionist-dualism.md, downward-causation.md, conservation-laws-and-mind.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Create concept page for acquaintance knowledge
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-30 (evening). Frequently invoked in discussions of Mary's Room, phenomenal concepts, consciousness-only territories but not systematically defined. Builds on knowledge-argument.md, phenomenal-concepts-strategy.md, consciousness-only-territories.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 

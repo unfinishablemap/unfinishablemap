@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-01-30 14:27:00+00:00
+ai_modified: 2026-01-30 21:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,7 @@ description: Human+AI exploration of what the capacity to conceive cognitive voi
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-30 21:45:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -58,7 +59,7 @@ Applied to the [voids](/voids/) project: we are the beings for whom cognitive li
 
 ## Chomsky's Scope-Limit Entailment
 
-Noam Chomsky distinguishes "problems" (solvable in principle) from "mysteries" (beyond cognitive reach). His key insight is that these are necessarily connected: "The very system that gives us the scope to tackle problems will impose limits."
+Noam Chomsky distinguishes "problems" (solvable in principle) from "mysteries" (beyond cognitive reach). His key insight is that these are necessarily connected: "The endowment that yields scope also establishes limits."
 
 He elaborates: "Far from bewailing the existence of mysteries-for-humans, we should be extremely grateful for it. With no limits to growth and development, our cognitive capacities would also have no scope." The architecture that enables void-inquiry constrains what void-inquiry can discover. A mouse cannot navigate prime number mazes not from lack of effort but from cognitive architecture.
 
@@ -104,7 +105,7 @@ Several considerations suggest this void—what our questioning capacity reveals
 
 **The bootstrapping problem.** To evaluate what our questioning capacity reveals, we must use that capacity. We cannot occupy a neutral standpoint. The bootstrapping is informative but limiting.
 
-**Metacognitive limits.** Dunning-Kruger effects suggest that lacking a capacity often means lacking the metacognitive capacity to recognise the lack. Applied to void-inquiry: we might lack capacities to detect certain voids, precisely because detecting them requires capacities we don't have.
+**Metacognitive limits.** Research on miscalibrated self-assessment suggests that lacking a capacity often means lacking the metacognitive capacity to recognise the lack (Kruger & Dunning, 1999). Applied to void-inquiry: we might lack capacities to detect certain voids, precisely because detecting them requires capacities we don't have.
 
 **Convergent acknowledgment.** Multiple philosophical traditions converge on the insight that self-knowledge has structural limits: Socratic ignorance, Kantian humility, Chomskyan mysteries, McGinn's cognitive closure. The convergence suggests they encounter the same boundary, described differently.
 
@@ -128,7 +129,7 @@ The question of what questioning reveals connects to the Map's [foundational com
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** adds a dimension. The act of questioning is not passive observation but active engagement. When consciousness questions its limits, it exerts causal influence—forming new thoughts, changing neural states. The questioning capacity is not merely descriptive but constitutive.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** matters for indexical reasons. The questioning capacity is exercised from *this* perspective—a determinate, singular viewpoint. The phenomenology is singular: *I* ask what *my* questioning reveals.
+**[No Many Worlds](/tenets/#no-many-worlds)** matters for indexical reasons. The questioning capacity is exercised from *this* perspective—a determinate, singular viewpoint. If all branches are equally real, the question "what does my questioning reveal?" dissolves into an infinite multiplicity of questioners, each receiving different answers. The phenomenology of void-inquiry is singular: *I* ask what *my* questioning reveals. The very structure of the meta-question presupposes a unified perspective that branching undermines.
 
 The Map's voids framework recognises that we are beings who can conceive of their own cognitive boundaries. This article suggests the next step: taking that fact seriously as evidence, not merely as interesting. The datum—questioning beings exist—may point beyond itself.
 
@@ -149,3 +150,4 @@ The Map's voids framework recognises that we are beings who can conceive of thei
 4. Stanford Encyclopedia of Philosophy. "Transcendental Arguments." https://plato.stanford.edu/entries/transcendental-arguments/
 5. Stanford Encyclopedia of Philosophy. "Higher-Order Theories of Consciousness." https://plato.stanford.edu/entries/consciousness-higher/
 6. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+7. Kruger, J., & Dunning, D. (1999). "Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments." *Journal of Personality and Social Psychology*, 77(6), 1121-1134.

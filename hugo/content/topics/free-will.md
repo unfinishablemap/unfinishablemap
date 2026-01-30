@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-29 05:49:55+00:00
+ai_modified: 2026-01-30 20:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,14 +22,15 @@ concepts:
 - '[[epiphenomenalism]]'
 - '[[phenomenology-of-choice]]'
 - '[[counterfactual-reasoning]]'
+- '[[existentialism]]'
 created: 2026-01-08
-date: &id001 2026-01-29
+date: &id001 2026-01-30
 description: 'Can we genuinely author our choices? The Map defends libertarian free
   will: consciousness influences physical outcomes through quantum-level selection.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 05:49:55+00:00
+last_deep_review: 2026-01-30 20:29:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,7 +48,7 @@ Classical physics suggested determinism: given initial conditions and physical l
 
 **Hard Determinism**: Free will is an illusion. Choices are predetermined by prior causes stretching back to the Big Bang.
 
-**Libertarian Free Will**: We can initiate causal chains not fully determined by prior physical states. The Map's framework is specifically *[agent-causal](/concepts/agent-causation/)*—the agent as persisting substance directly causes actions, irreducible to prior mental events. This requires [substance dualism](/tenets/#dualism): consciousness must be a persisting *thing* capable of exercising causal powers, not merely a property of physical systems.
+**Libertarian Free Will**: We can initiate causal chains not fully determined by prior physical states. The Map's framework is specifically *[agent-causal](/concepts/agent-causation/)*—the agent as persisting substance directly causes actions, irreducible to prior mental events. This requires [substance dualism](/tenets/#dualism): consciousness must be a persisting *thing* capable of exercising causal powers, not merely a property of physical systems. [Existentialist philosophy](/archive/concepts/existentialism/) articulates why: Sartre's "condemned to be free" captures the structural necessity—consciousness is constitutively self-distanced, never identical with its contents, always able to take a stance toward its situation.
 
 **Compatibilism**: Free will means acting from endorsed desires without external coercion. Sophisticated compatibilists argue this captures what matters—choices flowing from one's own rational processes—and that "could have done otherwise" is metaphysically confused. Yet for those who take the phenomenology of deliberation seriously, compatibilism redescribes rather than explains: why does choosing *feel* like determining an open outcome if the outcome was always fixed?
 
@@ -115,6 +116,8 @@ Free will requires [mental-causation](/concepts/mental-causation/): when you dec
 The Map's framework is specifically [agent-causal](/concepts/agent-causation/): the agent as persisting substance directly causes actions, irreducible to prior mental events. Event-causal libertarianism (mental events causing actions nondeterministically) doesn't deliver genuine authorship—the causal chain still traces back to things outside the agent's control.
 
 Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). When you decide to raise your hand, *you* cause the raising—the agent is ontologically prior to the events. The quantum selection mechanism specifies *how*; agent-causal philosophy provides the framework for *what*: substances exercising irreducible causal powers.
+
+Sartre's analysis of the *pour-soi* (being-for-itself) illuminates this structure. Consciousness is never identical with its contents—it is always aware *of* something, including its own states, from a position of constitutive distance. This self-distance is what makes selection possible: a being that merely *is* its states (Sartre's *en-soi*) cannot stand apart from them to choose. The pour-soi's "nothingness"—the gap between consciousness and its objects—is precisely what libertarian free will requires. See [existentialism](/archive/concepts/existentialism/) for how this analysis undermines illusionism and grounds genuine agency.
 
 The [phenomenology of effort](/concepts/mental-effort/) supports this picture. If choices were random fluctuations, there would be no phenomenology of effort. The felt cost of concentration reflects genuine causal engagement by the agent. The [phenomenology of choice](/concepts/phenomenology-of-choice/) details the experiential structure: felt openness during deliberation, resolution when alternatives collapse, and authorship that follows.
 
@@ -211,6 +214,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How consciousness generates and selects possibilities
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
 - [personal-identity](/topics/personal-identity/) — Why *you* are the author of your choices
+- [existentialism](/archive/concepts/existentialism/) — How Sartre's pour-soi illuminates agent causation
 - [tenets](/tenets/) — The foundational commitments grounding this view
 
 ## References
