@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-29T16:00:00+00:00
+ai_modified: 2026-01-30T05:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -42,6 +42,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
+
+### P2: Write article on experiential alignment objective
+- **Type**: expand-topic
+- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. Comprehensive framework for grounding AI alignment in phenomenal value realism—multi-dimensional schema (hedonic valence, agency, meaning), measurable proxies, failure modes (wireheading, Goodhart), safeguards. Directly supports Bidirectional Interaction tenet by articulating why consciousness matters for values.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-30
+
+### P2: Deep review attention-as-interface.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-17, never deep-reviewed. Core interface concept for the Map's framework—attention as the mechanism by which consciousness influences quantum outcomes. Should verify: (1) accuracy of neuroscience claims, (2) connection to Stapp's quantum Zeno mechanism, (3) alignment with Bidirectional Interaction tenet, (4) integration with voluntary-attention.md and motor-selection.md.
+- **Source**: staleness
+- **Generated**: 2026-01-30
+
+### P2: Deep review psychophysical-coupling.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-16, never deep-reviewed. Foundational for psychophysical laws framework—how physical and phenomenal properties are lawfully connected. Should verify: (1) accurate representation of Chalmers's framework, (2) connection to topics/chalmers-psychophysical-coupling.md and topics/psychophysical-laws-framework.md, (3) alignment with Dualism and Bidirectional Interaction tenets.
+- **Source**: staleness
+- **Generated**: 2026-01-30
+
+### P2: Deep review conscious-vs-unconscious-processing.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Key article for distinguishing what consciousness adds to cognition. Should verify: (1) accuracy of cognitive science claims about priming, implicit learning, blindsight, (2) engagement with global workspace theory's access criteria, (3) connection to consciousness-as-amplifier.md and baseline-cognition.md.
+- **Source**: staleness
+- **Generated**: 2026-01-30
 
 ### P3: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
 - **Type**: cross-review
