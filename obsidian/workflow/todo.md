@@ -813,12 +813,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
-### P2: Deep review pre-conceptual-knowing.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-01-27, never deep-reviewed. Covers whether conceptual thought creates structural barriers to modes of knowing available to non-conceptual beings. Key themes: fineness of grain problem, Block's overflow research, prereflective bodily awareness. Should verify accuracy and connection to broader voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-30
-
 ### P2: Deep review collective-cognitive-limits.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-01-26, never deep-reviewed. Covers group-level cognitive limits—paradigm blindness, Overton windows, collective elephants in the room. Should verify: (1) accuracy of social epistemology claims, (2) connection to mysterianism and cognitive closure, (3) alignment with voids framework.
@@ -845,6 +839,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Deep review pre-conceptual-knowing.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-01-27, never deep-reviewed. Covers whether conceptual thought creates structural barriers to modes of knowing available to non-conceptual beings. Key themes: fineness of grain problem, Block's overflow research, prereflective bodily awareness. Should verify accuracy and connection to broader voids framework.
+- **Output**: obsidian/voids/pre-conceptual-knowing.md
 
 ### ✓ 2026-01-30: Cross-review mysterianism.md considering natural-vs-designed-limits
 - **Type**: cross-review
