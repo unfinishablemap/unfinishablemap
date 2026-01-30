@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-30 12:04:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,6 +21,7 @@ concepts:
 - '[[downward-causation]]'
 - '[[mental-causation]]'
 - '[[phenomenology-of-choice]]'
+- '[[explanatory-gap]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 description: Agent causation holds that persons originate actions directly, not through
@@ -28,7 +29,7 @@ description: Agent causation holds that persons originate actions directly, not 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 10:00:00+00:00
+last_deep_review: 2026-01-30 12:04:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -137,7 +138,7 @@ Whitehead's process philosophy offers complementary support: if all causation in
 
 Agent causation is falsifiable. Key challenges:
 
-- **Complete neural prediction**: 100% accuracy predicting decisions from prior brain states would leave no gap. Current accuracy (~60%) leaves room.
+- **Complete neural prediction**: 100% accuracy predicting decisions from prior brain states would leave no gap. Current prediction accuracy remains well below this threshold, leaving substantial room for consciousness-selection.
 - **Elimination of neural quantum effects**: If quantum coherence were excluded in brain tissue, the interface mechanism fails. Quantum biology suggests effects are more robust than expected.
 - **Dissociation of effort and outcome**: If effort didn't correlate with decision difficulty, phenomenological support collapses. Current evidence shows correlation.
 - **No willed/instructed distinction**: If neural signatures were identical, the claim consciousness adds something would weaken. Research robustly distinguishes them.
@@ -167,6 +168,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main 
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as causal pathway
 - [implicit-memory](/concepts/implicit-memory/) — Skill delegation and choking phenomenon
 - [decoherence](/concepts/decoherence/) — The decoherence challenge
+- [explanatory-gap](/concepts/explanatory-gap/) — Why physical description leaves consciousness unexplained
 
 ## References
 

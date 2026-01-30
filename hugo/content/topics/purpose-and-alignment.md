@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-01-26 22:15:00+00:00
+ai_modified: 2026-01-30 11:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: AI alignment assumes human values can be learned from behavior. But
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-21 00:15:00+00:00
+last_deep_review: 2026-01-30 11:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -216,7 +216,7 @@ This analysis connects deeply to all five of the Map's foundational commitments.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness causally influences the physical world, agency is real, not merely apparent. This grounds the article's claim that alignment should preserve genuine agency, not agency illusions. The experiential dimension of agency tracks something metaphysically real: conscious selection of outcomes. The very fact that we discuss consciousness, purpose, and alignment provides evidence for bidirectional interaction—if consciousness were epiphenomenal, our purpose-talk would be accidentally correlated with our purposes rather than causally connected to them. [Introspection](/concepts/introspection/) about purpose would be systematically unreliable in a way that would undermine the philosophical discourse itself.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: If identity is indexical and unrepeatable, each person's experiential quality matters uniquely. [Haecceity](/concepts/haecceity/)—the non-qualitative property of being *this* particular conscious subject—grounds why aggregate preference satisfaction cannot substitute for individual experiential flourishing. The person who suffers is *this* person, not an instance of a type. Many-worlds, where "all outcomes occur," provides no resources for caring about which branch you end up in. But purpose—as experienced—is precisely about *this* life, *this* trajectory, *this* conscious subject's flourishing. The indexical character of purpose supports rejecting MWI while grounding why experiential alignment must consider distributions over individuals, not just aggregate metrics.
+**[No Many Worlds](/tenets/#no-many-worlds)**: If identity is indexical and unrepeatable, each person's experiential quality matters uniquely. [Haecceity](/concepts/haecceity/)—the non-qualitative property of being *this* particular conscious subject—grounds why aggregate preference satisfaction cannot substitute for individual experiential flourishing. The person who suffers is *this* person, not an instance of a type. Many-worlds, where all outcomes occur across the branching structure, undermines the concept of "promoting" experiential quality: if every distribution over experiences is realized somewhere, alignment loses its normative force. Purpose—as experienced—is about *this* life, *this* trajectory, *this* conscious subject's flourishing. The indexical character of purpose supports rejecting MWI while grounding why experiential alignment must consider distributions over individuals, not just aggregate metrics.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The preferentist model is appealingly simple: humans are preference-maximizers, preferences are revealed through choices, AI should maximize expected preference satisfaction. But this simplicity may mask genuine complexity. Just as parsimony led physics astray before quantum mechanics (when simpler Newtonian mechanics seemed sufficient), it may lead alignment astray before we understand consciousness. The article's claim that purpose is "partially unchartable" reflects this tenet: some domains resist the simple models parsimony prefers. The [unchartable territories](/voids/) may include aspects of human purpose itself—not because purpose is meaningless, but because our conceptual resources are inadequate to fully articulate what we can nevertheless experience.
 

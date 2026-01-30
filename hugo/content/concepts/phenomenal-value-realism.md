@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-30 11:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,11 +24,12 @@ description: The metaethical view that intrinsic value is a feature of conscious
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 20:40:00+00:00
+last_deep_review: 2026-01-30 11:54:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[purpose-and-alignment]]'
+- '[[experiential-alignment]]'
 - '[[phenomenal-value-realism-metaethics-2026-01-16]]'
 title: Phenomenal Value Realism
 topics:
@@ -204,15 +205,11 @@ This aligns precisely with phenomenal value realism. The goodness of pleasure is
 
 [Buddhist philosophy](/concepts/buddhism-and-dualism/) introduces complexity. The first noble truth identifies suffering (*dukkha*) as pervasive in conditioned existence—seemingly supporting that valence is real and morally significant. Yet Buddhist analysis questions whether pleasure and suffering have intrinsic nature (*svabhava*). Suffering arises dependently, not as a self-existent property.
 
-The Map's response: phenomenal value realism claims that value is *experienced as* intrinsic, constituting what badness means. Whether this phenomenal fact depends on conditions (Buddhist view) or exists independently (substance dualist view) is a further question. The badness of pain is directly present whether or not pain is ultimately empty.
+The Map's response: phenomenal value realism claims that value is *experienced as* intrinsic, constituting what badness means. Whether this phenomenal fact depends on conditions (Buddhist view) or exists independently (substance dualist view) is a further question. The badness of pain is directly present whether or not pain is ultimately empty. Moreover, the Map's phenomenal value pluralism—valuing agency, meaning, and understanding alongside hedonic valence—resonates with Buddhist concerns about attachment to pleasure. The goal is not maximal hedonic intensity but experiential flourishing across multiple dimensions.
 
 ## Contemplative Evidence
 
-The phenomenology of valence accessible through sustained [introspection](/concepts/introspection/) supports the Map's position.
-
-### The Directness of Valence
-
-In concentrated states, meditators report that positive and negative valence are directly present—not inferred, not represented, but immediately manifest. This distinguishes valence from beliefs about experience. You can be mistaken about whether you're angry, but the unpleasantness of the anger (when present) seems epistemically direct.
+Beyond the general contemplative challenge to illusionism noted above, specific meditative states provide detailed evidence about valence.
 
 ### The Jhāna States
 
@@ -274,6 +271,7 @@ Phenomenal value realism unifies the Map's disparate concerns: consciousness stu
 
 ## Further Reading
 
+- [experiential-alignment](/concepts/experiential-alignment/) — The operationalization of phenomenal value realism for AI alignment
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why experience has aesthetic quality, and why this resists reduction
 - [meaning-of-life](/topics/meaning-of-life/) — The case that consciousness grounds meaning
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Ethical implications of consciousness-grounded value
