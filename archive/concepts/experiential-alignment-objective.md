@@ -24,6 +24,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-30
 last_curated: null
 last_deep_review: 2026-01-30T08:41:00+00:00
+archived: true
+archived_date: 2026-01-30T10:45:00+00:00
+superseded_by: "/concepts/experiential-alignment/"
+archive_reason: "Coalesced into Experiential Alignment"
+original_path: "/concepts/experiential-alignment-objective/"
 ---
 
 An experiential alignment objective specifies what distributions over human conscious experience AI systems should promote. Rather than a single utility function, it defines multiple experiential dimensions with target ranges and constraints—a multi-dimensional target that resists the failure modes of simpler approaches.

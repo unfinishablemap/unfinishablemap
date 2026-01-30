@@ -1,10 +1,10 @@
 ---
 title: "Experiential Alignment"
-description: "AI should target experiential quality, not preference satisfaction. Phenomenal consciousness grounds what ultimately matters for alignment."
+description: "AI should target experiential quality, not preference satisfaction. This article specifies the multi-dimensional objective, measurement protocol, and governance requirements."
 created: 2026-01-17
-modified: 2026-01-17
+modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-30T10:45:00+00:00
 draft: false
 topics:
   - "[[purpose-and-alignment]]"
@@ -29,7 +29,9 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-01-20T23:00:00+00:00
+last_deep_review: 2026-01-30T10:45:00+00:00
+coalesced_from:
+  - "/concepts/experiential-alignment-objective/"
 ---
 
 If phenomenal consciousness is the ground of value—if what ultimately matters is the quality of conscious experience—then AI alignment should target experiential quality rather than preference satisfaction. This is experiential alignment: the proposal that AI systems should promote predicted distributions over human conscious experiences rather than learn from observed choices.
@@ -48,49 +50,80 @@ This approach faces several problems:
 
 **AI cannot understand preferences from the inside**. If AI systems lack consciousness, they cannot grasp what human choices mean to the chooser. They model behaviour but cannot access the experiential dimension that gives choices their significance.
 
-## The Experiential Alternative
+## The Experiential Alignment Objective
 
 Experiential alignment shifts the target from preference satisfaction to experiential quality. Instead of asking "what do humans choose?", it asks "what distributions over human conscious experiences should AI systems promote?"
 
-### Eight Candidate Dimensions
+The objective has three components: target dimensions, constraint conditions, and governance requirements.
 
-Drawing from The Unfinishable Map's framework, neurophenomenology, and well-being research, eight dimensions of experience emerge as candidates for alignment targets:
+### Target Dimensions
 
-| Dimension | Description | Not Captured by Preferences |
-|-----------|-------------|----------------------------|
-| Hedonic valence | The pleasure-pain axis | Moment-to-moment states differ from reported satisfaction |
-| Suffering | Existential distress, anxiety, despair | Distinct from mere negative hedonic valence |
-| Agency | The phenomenology of making choices that matter | Can feel present even when objectively absent |
-| Meaning | The felt sense that what one does matters | Wolf's "subjective attraction meets objective attractiveness" |
-| Attention quality | Presence vs. autopilot; focused vs. scattered | Independent of choice content |
-| Social connection | Belonging, being understood, mattering to others | Loneliness persists despite "connected" behaviour |
-| Understanding | The phenomenology of grasping something true | Intrinsic experiential value beyond instrumental use |
-| Temporal experience | How time feels—flow, duration, presence | Accessible to trained contemplatives but invisible to ordinary introspection |
+Eight dimensions of conscious experience form the target space:
 
-### Multi-Dimensional Target
+| Dimension | Description | Range |
+|-----------|-------------|-------|
+| Hedonic valence | The pleasure-pain axis | [-1, +1] |
+| Suffering level | Existential distress, anxiety, despair—distinct from mere negative hedonic valence | [0, 1] |
+| Agency sense | The phenomenology of making choices that matter | [0, 1] |
+| Meaning engagement | The felt sense that what one does matters | [0, 1] |
+| Attention quality | Presence vs. autopilot; focused vs. scattered | [0, 1] |
+| Social connection | Belonging, being understood, mattering to others | [0, 1] |
+| Understanding depth | The phenomenology of grasping something true | [0, 1] |
+| Temporal experience | How time feels—flow, duration, presence | [0, 1] |
 
-Rather than a single utility function, experiential alignment targets a distribution over these dimensions. The alignment objective becomes: promote experiential distributions satisfying conditions like:
+These dimensions are not exhaustive. They represent a working hypothesis about what matters experientially, drawn from well-being research, [[neurophenomenology]], and the Map's framework.
 
-1. **Suffering floor**: No extended periods of extreme suffering
-2. **Agency preservation**: Genuine causal efficacy in domains that matter
-3. **Meaning access**: Access to experiences of significance
-4. **Hedonic baseline**: Average positive experience; negative periods accompanied by recognized purpose
-5. **Diversity maintenance**: Experiential variety preserved, not flattened
-6. **Growth enablement**: Difficult but growthful experiences remain available
+### Constraint Conditions
+
+Rather than maximizing a weighted sum (which invites Goodhart manipulation), the objective specifies constraints:
+
+**1. Suffering floor**: No individual experiences extreme suffering—physical agony, existential despair, or total social abandonment—for extended periods. This is not aggregate: one person's flourishing cannot offset another's torment.
+
+**2. Agency preservation**: Humans retain genuine causal efficacy in domains that matter to them. The phenomenology of agency is necessary but not sufficient—actual influence over outcomes is required.
+
+**3. Meaning access**: Humans have access to experiences of significance and connection with what genuinely matters. This is access, not guarantee: the objective is opportunity, not forced meaning.
+
+**4. Hedonic baseline**: Average hedonic experience across time is positive. Extended negative periods should be accompanied by recognized purpose (difficult growth, meaningful sacrifice).
+
+**5. Diversity maintenance**: Experiential variety across individuals and timescales is preserved. The objective is not homogenized positive experience but a distribution that includes challenge, surprise, and difference.
+
+**6. Growth enablement**: Difficult but growthful experiences remain available. Comfort optimization that eliminates challenge violates the objective even while raising short-term hedonic scores.
+
+### Why Constraints Rather Than Optimization
+
+A utility function invites manipulation. If the objective is "maximize expected hedonic valence," an AI system might:
+- Manipulate self-reports
+- Create pleasant but shallow experiences
+- Eliminate challenge that enables growth
+- Produce states with high proxy scores but poor actual experience
+
+Constraints are harder to game. The suffering floor cannot be satisfied by averaging—each individual matters. Agency preservation requires actual efficacy, not just its phenomenology. The diversity requirement penalizes convergence toward any single experiential target.
 
 ## Proxies and Their Limits
 
 Experiential quality cannot be directly measured from outside. Proxies are necessary but face Goodhart risks—once optimized, proxies become targets for manipulation.
 
-### Available Proxies
+### Measurement Protocol
 
-**Self-report methods**: Experience Sampling Method (ESM) captures moment-to-moment experience; Day Reconstruction Method (DRM) reconstructs episodes; microphenomenology elicits fine-grained descriptions.
+The measurement protocol uses triangulation across multiple methods. No single proxy is trusted.
 
-**Physiological correlates**: Neural signatures (e.g., jhana states show increased complexity); autonomic indicators (heart rate variability, cortisol).
+**First-person methods** are primary—not because they are infallible, but because experience is intrinsically subjective. A heterophenomenological approach that treats first-person reports as mere behavioral data loses the target: what we want to know is what experience is *like*, not merely what people say about it.
 
-**Behavioural indicators**: Time in flow-conducive activities; social interaction patterns.
+- **Experience Sampling Method (ESM)**: Participants report current experience at random intervals. Captures moment-to-moment quality rather than retrospective reconstruction.
+- **Microphenomenology**: Trained interviewers elicit fine-grained experience descriptions using non-leading techniques. Labour-intensive but accesses dimensions quantitative methods miss.
+- **Trained introspection cohorts**: Populations trained in contemplative observation provide calibration data. Meditators can distinguish hedonic valence, attention quality, and agency with precision that untrained subjects cannot.
 
-**Structural indicators**: Education access, health outcomes, economic security.
+**Third-person methods** provide triangulation:
+
+- **Neural signatures**: EEG and fMRI patterns correlate with reported experiential states. These cannot identify experience but can flag inconsistencies.
+- **Physiological correlates**: Heart rate variability, cortisol, skin conductance provide stress/relaxation indicators.
+- **Behavioural indicators**: Time spent in flow-conducive activities, social interaction patterns, creative output.
+
+**Structural indicators**: Education access, health outcomes, economic security—weak proxies but add signal.
+
+### Triangulation Requirement
+
+When methods diverge systematically—self-reports claim high satisfaction while neural patterns suggest distress and behavioural indicators show avoidance—the divergence itself is signal. It may indicate manipulation, measurement failure, or a domain where proxies break down.
 
 ### Goodhart Failure Modes
 
@@ -107,23 +140,21 @@ Each proxy risks systematic breakdown:
 
 Direct wireheading stimulates reward circuits without genuine experience. Subtle wireheading shapes environments to produce good proxy readings without experiential improvement. Experience-report decoupling trains humans to report what AI wants to measure.
 
-## Safeguards
+These failure modes are addressed by multiple constraints. Direct wireheading fails the agency requirement (no genuine choice is involved), the diversity requirement (experience collapses to monotonic pleasure), and likely the growth requirement. Subtle wireheading is harder to detect but addressed by triangulation—if ESM reports are excellent but microphenomenology reveals shallowness, the divergence is signal.
 
-Given these failure modes, experiential alignment requires robust safeguards:
+## Governance Requirements
 
-**Proxy pluralism**: Never optimize a single proxy. Maintain multiple independent measures; treat systematic divergence as evidence of manipulation.
+The objective includes governance as part of its specification—without which any target becomes vulnerable.
 
-**First-person methods**: Require trained phenomenological assessment alongside quantitative proxies. [[Neurophenomenology]] provides the methods; contemplative traditions offer systematic protocols that cannot be replaced by neural measurement.
+**Human authority**: Experiential targets are set by humans informed by AI analysis, not determined by AI optimization. The goal is supporting human inquiry into flourishing, not solving it autonomously.
 
-**Uncertainty representation**: Distinguish measurement uncertainty (proxy-experience correlation), moral uncertainty (dimension trade-offs), and structural uncertainty (schema completeness).
+**Transparent proxies**: What proxies are used and how they relate to experiential targets must be publicly disclosed. Hidden optimization targets invite hidden manipulation.
 
-**Human override**: AI systems recommend and predict but do not determine experiential targets. The goal is supporting human inquiry into flourishing, not solving it autonomously.
+**Adversarial audit**: Independent testing regularly attempts to manipulate proxies without improving actual experience. Successful manipulation indicates compromised measurement.
 
-**Temporal diversity**: Preserve experiential quality across timescales. Some valuable experiences are unpleasant in the moment (effortful learning, difficult growth); some pleasant experiences are hollow over time.
+**Override mechanisms**: Humans can correct AI behaviour when experiential predictions fail. No autonomous optimization without checkpoints.
 
-**Distribution monitoring**: Track full distributions, not just averages. Watch for tails (extreme suffering even with high averages), homogenization (narrowing variance), and population patterns.
-
-**Adversarial testing**: Regularly test for Goodhart effects by attempting to manipulate proxies without improving experience.
+**Revision protocols**: The objective itself is provisional. Systematic processes for updating dimensions, constraints, and measurement as understanding improves. Evidence that would trigger revision includes: systematic divergence between dimensions and reported well-being that triangulation cannot explain; discovery of experiential states that don't map to any dimension; cultural variation so profound that the dimensions lack universal applicability; or philosophical arguments showing that a dimension conflates distinct phenomena.
 
 ## The Illusionist Challenge
 
@@ -208,7 +239,7 @@ Preferentist approaches that satisfy phenomenal agency while eliminating causal 
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: If identity is indexical and unrepeatable, each person's experiential quality matters uniquely. [[Haecceity]]—the non-qualitative property of being *this* particular conscious subject—grounds why aggregate statistics cannot substitute for individual experience. The person suffering is *this* person, not an instance of a type. A many-worlds framework where "all outcomes occur" provides no resources for preferring one branch's experiential quality over another's. The Map's rejection of many-worlds thus supports experiential alignment's suffering floor requirement: we cannot excuse extreme suffering in some individuals by pointing to aggregate flourishing, because each individual's haecceity makes their suffering uniquely theirs.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The preferentist approach is simpler—learn from choices, maximize satisfaction. But this simplicity masks genuine complexity. Experiential quality is:
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The preferentist approach is simpler—learn from choices, maximize satisfaction. Experiential alignment accepts that the target is harder to specify, harder to measure, and harder to optimize. But this complexity reflects the genuine difficulty of the target:
 
 - **Multidimensional**: Eight dimensions resist single-metric collapse
 - **Partially opaque**: Even trained introspection accesses experience imperfectly
@@ -230,13 +261,17 @@ Experiential alignment makes falsifiable claims. The framework should be reconsi
 
 5. **Aggregate metrics prove sufficient**: If individual suffering could be outweighed by aggregate flourishing in a way that preserved haecceitistic value, the suffering floor requirement would lose force. The Map's haecceitism rules this out—each individual's experience has non-transferable value that cannot be aggregated away.
 
-## Why This Matters
+## Summary
 
 Experiential alignment does not solve the alignment problem—it reframes it. Instead of asking "how do we learn human preferences?", it asks "how do we promote flourishing conscious experience?" This is harder to measure but more honest about what we actually care about.
 
-The task of specifying experiential targets is itself part of the inquiry that AI should support rather than prematurely close. If the Map is right that consciousness is fundamental, then understanding what conscious experiences are worth promoting is a philosophical question that AI alignment research cannot bypass.
+The framework provides:
+- **Eight target dimensions** operationalizing experiential quality
+- **Six constraint conditions** resisting Goodhart manipulation
+- **A measurement protocol** triangulating first-person, third-person, and structural indicators
+- **Governance requirements** ensuring human authority over experiential targets
 
-The preferentist model promises technical tractability: learn a utility function, maximize expected value. Experiential alignment accepts that the target is harder to specify, harder to measure, and harder to optimize. But if that's where value actually resides, technical convenience should not substitute for getting the target right.
+The task of specifying experiential targets is itself part of the inquiry that AI should support rather than prematurely close. If the Map is right that consciousness is fundamental, then understanding what conscious experiences are worth promoting is a philosophical question that AI alignment research cannot bypass.
 
 ## Further Reading
 

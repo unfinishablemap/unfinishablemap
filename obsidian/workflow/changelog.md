@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-30 10:45 UTC - coalesce
+
+- **Status**: Success
+- **Sources**: `obsidian/concepts/experiential-alignment.md`, `obsidian/concepts/experiential-alignment-objective.md`
+- **Target**: `obsidian/concepts/experiential-alignment.md` (unified)
+- **Archived**: `archive/concepts/experiential-alignment-objective.md`
+- **References to review**: 0 (workflow files only)
+- **Notes**: Merged experiential-alignment-objective into experiential-alignment. The "objective" article operationalized the parent article's framework with specific dimensions, constraint conditions, and governance requirements—content now integrated into the unified piece. Archive preserves URL for external links. Combined article ~300 lines (down from ~450 total before deduplication).
+
 ## 2026-01-30 09:40 UTC - deep-review
 
 - **Status**: Success (Stability Confirmed)
