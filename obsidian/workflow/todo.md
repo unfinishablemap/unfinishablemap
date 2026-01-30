@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review working-memory.md considering language-recursion-consciousness
-- **Type**: cross-review
-- **Notes**: Article topics/language-recursion-and-consciousness.md argues that recursive syntax depends on working memory manipulation requiring conscious access. Check working-memory.md for: (1) cross-links to the recursion-consciousness argument, (2) whether the "bottleneck" framing for recursive processing is developed, (3) connection between working memory limits and consciousness-dependence claims.
-- **Source**: chain (from language-recursion-and-consciousness.md)
-- **Generated**: 2026-01-30
-
 ### P2: Cross-review symbol-grounding-problem.md considering language-recursion-consciousness
 - **Type**: cross-review
 - **Notes**: Article topics/language-recursion-and-consciousness.md connects recursive syntax to consciousness via working memory. The symbol-grounding-problem.md article addresses how symbols acquire meaning. Check for: (1) cross-links between grounding and recursion arguments, (2) whether recursive structure strengthens the case against pure computational grounding, (3) connection between meaningful recursion and the Chinese Room argument.
@@ -833,6 +827,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Cross-review working-memory.md considering language-recursion-consciousness
+- **Type**: cross-review
+- **Notes**: Article topics/language-recursion-and-consciousness.md argues that recursive syntax depends on working memory manipulation requiring conscious access. Check working-memory.md for: (1) cross-links to the recursion-consciousness argument, (2) whether the "bottleneck" framing for recursive processing is developed, (3) connection between working memory limits and consciousness-dependence claims.
+- **Output**: obsidian/concepts/working-memory.md -- Context: Cross-review working-memory.md considering language-recursion-consciousness
 
 ### ✓ 2026-01-30: Cross-review agent-causation.md considering authentic-vs-inauthentic-choice
 - **Type**: cross-review
