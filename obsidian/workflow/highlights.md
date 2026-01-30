@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Deep review refined our analysis of psychophysical coupling—mapping five candidate mechanisms from Stapp's attention-as-observation to Eccles' intention-as-probability-weighting, with testable predictions for each.
 
 **Type**: insight  
+**Tweet**: https://x.com/i/web/status/2017156282713506277  
 **Link**: [[psychophysical-coupling]]
 
 ---

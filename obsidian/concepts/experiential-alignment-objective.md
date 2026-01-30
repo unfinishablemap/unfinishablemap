@@ -4,7 +4,7 @@ description: "The concrete target for AI alignment: a multi-dimensional specific
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T06:40:00+00:00
+ai_modified: 2026-01-30T08:41:00+00:00
 draft: false
 topics:
   - "[[purpose-and-alignment]]"
@@ -23,7 +23,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-30
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-30T08:41:00+00:00
 ---
 
 An experiential alignment objective specifies what distributions over human conscious experience AI systems should promote. Rather than a single utility function, it defines multiple experiential dimensions with target ranges and constraints—a multi-dimensional target that resists the failure modes of simpler approaches.
@@ -82,6 +82,8 @@ Constraints are harder to game. The suffering floor cannot be satisfied by avera
 The experiential alignment objective cannot be directly observed from outside. Any measurement is a proxy with Goodhart risks. The protocol uses triangulation across multiple methods:
 
 ### First-Person Methods
+
+First-person methods are primary in this protocol—not because they are infallible, but because experience is intrinsically subjective. A heterophenomenological approach that treats first-person reports as mere behavioral data to be explained away loses the target: what we want to know is what experience is *like*, not merely what people say about it. The risk of introspective error is real, which is why triangulation with third-person methods is required. But treating verbal behavior as the final word eliminates the phenomenon we're trying to track.
 
 **Experience Sampling Method (ESM):** Participants report current experience at random intervals. Captures moment-to-moment quality rather than retrospective reconstruction.
 
@@ -144,7 +146,7 @@ Maximizing average quality might eliminate peaks and troughs, producing stable b
 
 **Not a solution to alignment.** The objective reframes what alignment aims at but does not solve measurement problems or Goodhart risks. It is a target specification, not a technical implementation.
 
-**Not a complete account of value.** The eight dimensions are a working hypothesis. Other dimensions may matter. The revision protocol acknowledges this.
+**Not a complete account of value.** The eight dimensions are a working hypothesis. Other dimensions may matter. The revision protocol acknowledges this. Evidence that would trigger revision includes: systematic divergence between dimensions and reported well-being that triangulation cannot explain; discovery of experiential states that don't map to any dimension; cultural variation so profound that the dimensions lack universal applicability; or philosophical arguments showing that a dimension conflates distinct phenomena.
 
 **Not directly measurable.** All measurement is through proxies with known limitations. The objective accepts this rather than pretending otherwise.
 
@@ -160,7 +162,7 @@ The experiential alignment objective connects to all five of the Map's tenets.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]:** The very possibility of specifying an experiential objective depends on consciousness being causally connected to behaviour. If reports of experience were epiphenomenal—causally disconnected from the experiences they purport to describe—no measurement protocol could work. Bidirectional interaction grounds the epistemic accessibility of experience.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]:** The suffering floor cannot be satisfied by aggregate statistics. On a many-worlds interpretation where all branches are equally real, each individual's suffering would be balanced by their flourishing elsewhere—but the constraint applies to *this* individual in *this* branch. Haecceity matters: the objective tracks particular conscious subjects, not type-instances.
+**[[tenets#^no-many-worlds|No Many Worlds]]:** The suffering floor cannot be satisfied by aggregate statistics. On a many-worlds interpretation where all branches are equally real, every possible experiential outcome occurs somewhere—including all forms of suffering. The constraint applies to *this* individual in *this* branch, the one where choices are actually made. Many-worlds leaves no room for "promoting" certain experiences over others; all experiences occur across the branching structure. Haecceity matters: the objective tracks particular conscious subjects making particular choices, not type-instances distributed across branches.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]:** Preference-based alignment is simpler: learn from choices, maximize satisfaction. The experiential objective is messier: eight dimensions, constraint conditions, triangulated measurement, governance requirements. This complexity reflects the genuine difficulty of the target. Parsimony should not override what the phenomenon demands.
 
