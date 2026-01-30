@@ -110,7 +110,7 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 - **Tenet alignment**: Supports Dualism through the argument that meaningful language requires consciousness.
 
 #### The Phenomenology of Authentic vs. Inauthentic Choice
-- **Builds on**: [existentialism](/archive/concepts/existentialism/), [phenomenology-of-choice](/concepts/phenomenology-of-choice/), [bad-faith](/bad-faith/)
+- **Builds on**: [existentialism](/archive/concepts/existentialism/), [phenomenology-of-choice](/concepts/phenomenology-of-choice/), bad faith
 - **Would address**: Sartre's distinction between authentic and bad-faith choice has phenomenological correlates. What does authentic choosing actually feel like versus going through the motions?
 - **Estimated scope**: Short article
 - **Tenet alignment**: Supports Bidirectional Interaction by identifying phenomenal signatures of genuine agency.
@@ -154,7 +154,7 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 | From | To | Reason |
 |------|-----|--------|
 | [existentialism](/archive/concepts/existentialism/) | [illusionism](/concepts/illusionism/) | Pour-soi analysis directly undermines illusionist position |
-| [symbol-grounding-problem](/concepts/symbol-grounding-problem/) | [phenomenal-intentionality](/phenomenal-intentionality/) | SGP leads to phenomenal intentionality thesis |
+| [symbol-grounding-problem](/concepts/symbol-grounding-problem/) | phenomenal intentionality | SGP leads to phenomenal intentionality thesis |
 | [phenomenal-value-realism](/concepts/phenomenal-value-realism/) | [existentialism](/archive/concepts/existentialism/) | Sartre's authentic choice has phenomenal character that matters |
 | [meaning-of-life](/topics/meaning-of-life/) | [existentialism](/archive/concepts/existentialism/) | Existentialist answers to meaning need the new systematic treatment |
 | [idealism](/concepts/idealism/) | [symbol-grounding-problem](/concepts/symbol-grounding-problem/) | Idealism dissolves SGP differently than dualism |

@@ -107,7 +107,7 @@ The [[meaning-of-life]] article properly distinguishes what we can know from wha
 - **Tenet alignment**: Supports Dualism through the argument that meaningful language requires consciousness.
 
 #### The Phenomenology of Authentic vs. Inauthentic Choice
-- **Builds on**: [[existentialism]], [[phenomenology-of-choice]], [[bad-faith]]
+- **Builds on**: [[existentialism]], [[phenomenology-of-choice]], bad faith
 - **Would address**: Sartre's distinction between authentic and bad-faith choice has phenomenological correlates. What does authentic choosing actually feel like versus going through the motions?
 - **Estimated scope**: Short article
 - **Tenet alignment**: Supports Bidirectional Interaction by identifying phenomenal signatures of genuine agency.
@@ -151,7 +151,7 @@ The [[meaning-of-life]] article properly distinguishes what we can know from wha
 | From | To | Reason |
 |------|-----|--------|
 | [[existentialism]] | [[illusionism]] | Pour-soi analysis directly undermines illusionist position |
-| [[symbol-grounding-problem]] | [[phenomenal-intentionality]] | SGP leads to phenomenal intentionality thesis |
+| [[symbol-grounding-problem]] | phenomenal intentionality | SGP leads to phenomenal intentionality thesis |
 | [[phenomenal-value-realism]] | [[existentialism]] | Sartre's authentic choice has phenomenal character that matters |
 | [[meaning-of-life]] | [[existentialism]] | Existentialist answers to meaning need the new systematic treatment |
 | [[idealism]] | [[symbol-grounding-problem]] | Idealism dissolves SGP differently than dualism |

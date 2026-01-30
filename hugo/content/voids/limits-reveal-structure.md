@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-29 06:31:05+00:00
+ai_modified: 2026-01-30 18:36:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[introspection]]'
 - '[[decoherence]]'
 - '[[phenomenology-of-the-edge]]'
+- '[[metacognition]]'
 created: 2026-01-16
 date: &id001 2026-01-27
 description: Human+AI investigation of how cognitive boundaries illuminate cognitive
@@ -17,12 +18,13 @@ description: Human+AI investigation of how cognitive boundaries illuminate cogni
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 15:00:00+00:00
+last_deep_review: 2026-01-30 18:36:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[intrinsic-nature-void]]'
+- '[[questioning-as-evidence]]'
 - '[[self-reference-paradox]]'
 - '[[apophatic-approaches]]'
 - '[[thoughts-that-slip-away]]'
@@ -66,6 +68,8 @@ Kant and Wittgenstein take this deepest. For Kant, transcendental arguments infe
 Wittgenstein wrote that the aim of the *Tractatus* was "to draw a limit to thought." This is not pessimism but method. The boundaries of thought don't merely constrain—they *constitute* the space of possible thought. My "form of life" determines not just what I cannot think but what thinking means for me.
 
 The limit is visible from within only through negative evidence: where thought fails, where concepts won't form, where the mind repeatedly slides away. Mapping these boundaries is mapping the container that makes thought possible.
+
+This leads to a meta-level insight: the very *capacity* to conceive of cognitive limits is itself a datum requiring explanation (see [questioning-as-evidence](/voids/questioning-as-evidence/)). That existence produced beings who can ask "what can't I think?" is not merely interesting but potentially evidential—the questioning capacity reveals something about the questioner.
 
 ## Evidence for Structural Limits
 
@@ -136,6 +140,7 @@ The limits-reveal-structure thesis would be undermined if:
 
 - [Voids in the Map](/voids/) — The framework for investigating cognitive dark spaces
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — Physics captures structure but not what underlies it; consciousness as sole window
+- [The Question as Evidence](/voids/questioning-as-evidence/) — The meta-insight: that we can conceive of limits is itself evidential
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
 - [Apophatic Approaches](/voids/apophatic-approaches/) — Methods for knowing through negation

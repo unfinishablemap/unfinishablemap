@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-29 18:00:00+00:00
+ai_modified: 2026-01-30 18:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: 'McGinn''s cognitive closure thesis: human minds may be constitutio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 18:00:00+00:00
+last_deep_review: 2026-01-30 18:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,7 +99,7 @@ Cross-method convergence matters epistemically—these aren't artifacts of parti
 
 ## What the Limits Reveal
 
-The *shape* of our limitations reveals the *structure* of our minds. What we cannot think is as informative about cognitive architecture as what we can. See [limits-reveal-structure](/voids/limits-reveal-structure/) for extended treatment.
+The *shape* of our limitations reveals the *structure* of our minds—what we cannot think is as informative about cognitive architecture as what we can. Moreover, the very *capacity* to conceive of cognitive closure is itself significant: that evolution produced beings who can ask "what can't I think?" is a datum requiring explanation, not merely an interesting fact. See [limits-reveal-structure](/voids/limits-reveal-structure/) for extended treatment.
 
 This transforms mysterianism from pessimism into method. By mapping *where* thought systematically fails, we trace the shape of human cognition itself. For the Map's [voids](/voids/) framework, mapping void territory (the unthinkable) becomes a way of mapping mind territory (the thinker).
 
