@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-30 17:09 UTC - coalesce
+- **Status**: Success
+- **Sources**: concepts/minimal-consciousness.md, topics/consciousness-in-simple-organisms.md
+- **Target**: topics/consciousness-in-simple-organisms.md
+- **Archived**: archive/concepts/minimal-consciousness.md
+- **References to review**: 37 files contain `[[minimal-consciousness]]` links (active content will redirect via archive notice)
+- **Notes**: Merged two articles covering consciousness in simple organisms. ~60-70% content overlap (both covered C. elegans, Hydra, slime molds, UAL framework, illusionist challenge, contemplative perspectives). Integrated unique content from minimal-consciousness.md: three-level metarepresentational framework, Metzinger's MPE, Buddhist vijñāna/prajñā distinction. Retained consciousness-in-simple-organisms.md as target (better title for the topic). Word count: ~280 lines unified from ~284 + ~222 source lines.
+
 ## 2026-01-30 16:55 UTC - condense
 - **Status**: Success
 - **File**: concepts/phenomenal-value-realism.md

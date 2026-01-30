@@ -34,6 +34,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
 last_deep_review: 2026-01-22T06:00:00+00:00
+archived: true
+archived_date: 2026-01-30T17:09:00+00:00
+superseded_by: "/topics/consciousness-in-simple-organisms/"
+archive_reason: "Coalesced into Consciousness in Simple Organisms"
+original_path: "/concepts/minimal-consciousness/"
 ---
 
 How little neural complexity can support consciousness? The question matters for ethics (which organisms deserve moral consideration?), for philosophy (where does experience interface with matter?), and for the [[hard-problem-of-consciousness|hard problem]] itself (can we identify the minimal conditions for subjectivity?). Research on simple organisms—from the 302-neuron nematode *C. elegans* to nerve-free slime molds—challenges assumptions about what consciousness requires while revealing the fundamental difficulty of detecting experience from the outside.
