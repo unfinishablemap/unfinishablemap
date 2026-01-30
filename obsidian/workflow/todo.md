@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on phenomenology of authentic vs. inauthentic choice
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-30. Sartre's distinction between authentic and bad-faith choice has phenomenological correlates. What does authentic choosing actually feel like versus going through the motions? The felt difference between genuine deliberation and rationalized predetermined paths. Builds on existentialism.md, phenomenology-of-choice.md, bad faith. Supports Bidirectional Interaction tenet by identifying phenomenal signatures of genuine agency.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-30
-
 ### P2: Write article on consciousness and language: the recursion connection
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-30. The Map has pieces on language and consciousness but not a unified treatment of why recursive syntax might require or indicate consciousness. The new symbol-grounding-problem article touches on this but doesn't develop it. Builds on language-recursion-and-consciousness.md, symbol-grounding-problem.md, existentialism.md. Supports Dualism through the argument that meaningful language requires consciousness.
@@ -845,6 +839,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Write article on phenomenology of authentic vs. inauthentic choice
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-30. Sartre's distinction between authentic and bad-faith choice has phenomenological correlates. What does authentic choosing actually feel like versus going through the motions? The felt difference between genuine deliberation and rationalized predetermined paths. Builds on existentialism.md, phenomenology-of-choice.md, bad faith. Supports Bidirectional Interaction tenet by identifying phenomenal signatures of genuine agency.
+- **Output**: phenomenology of authentic vs. inauthentic choice
 
 ### ✓ 2026-01-30: Cross-review idealism.md considering existentialism insights
 - **Type**: cross-review
