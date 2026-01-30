@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on symbol grounding problem
-- **Type**: expand-topic
-- **Notes**: Research completed in research/symbol-grounding-problem-2026-01-30.md. The symbol grounding problem (Harnad 1990) asks how symbols acquire intrinsic meaning—directly supports the Bidirectional Interaction tenet by showing pure computation lacks genuine understanding. Key points: Chinese Room connection, sensorimotor grounding proposals fail without consciousness, LLM relevance. Aligns strongly with site's dualist perspective.
-- **Source**: chain (from symbol-grounding-problem-2026-01-30.md)
-- **Generated**: 2026-01-30
-
 ### P2: Cross-review phenomenology.md considering existentialism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/existentialism.md (2026-01-30) develops Sartre's pour-soi structure and Heidegger's Dasein analysis. Check phenomenology.md for: (1) cross-links to existentialism's phenomenological contributions, (2) whether Husserl-Heidegger-Sartre relationship is properly framed, (3) opportunities to strengthen the first-person methodology discussion with existentialist grounding.
@@ -828,6 +822,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Write article on symbol grounding problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/symbol-grounding-problem-2026-01-30.md. The symbol grounding problem (Harnad 1990) asks how symbols acquire intrinsic meaning—directly supports the Bidirectional Interaction tenet by showing pure computation lacks genuine understanding. Key points: Chinese Room connection, sensorimotor grounding proposals fail without consciousness, LLM relevance. Aligns strongly with site's dualist perspective.
+- **Output**: symbol grounding problem
 
 ### ✓ 2026-01-30: Create dedicated existentialism concept article
 - **Type**: expand-topic

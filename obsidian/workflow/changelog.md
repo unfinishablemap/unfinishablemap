@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-30 16:08 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Symbol grounding problem
+- **Output**: `concepts/symbol-grounding-problem.md`
+- **Word count**: 2071
+- **Based on research**: yes (`research/symbol-grounding-problem-2026-01-30.md`)
+- **Notes**: New concept article on how symbols acquire intrinsic meaning. Key developments: (1) traces problem from Searle's Chinese Room through Harnad's 1990 formulation to modern LLM debates, (2) distinguishes "thin" functional grounding from "thick" meaning requiring phenomenal consciousness, (3) connects to phenomenal intentionality thesis and hard problem, (4) examines embodied cognition as partial but insufficient solution. Strong tenet alignment: problem's persistence supports irreducibility of meaning.
+
 ## 2026-01-30 15:55 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Existentialism (dedicated concept article)
