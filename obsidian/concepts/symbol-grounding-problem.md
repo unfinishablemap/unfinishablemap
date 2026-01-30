@@ -4,7 +4,7 @@ description: "How symbols acquire meaning intrinsic to a system rather than para
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T16:08:00+00:00
+ai_modified: 2026-01-30T17:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-30
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-01-30T17:54:00+00:00
 ---
 
 The symbol grounding problem asks how symbols in a computational system can acquire meaning *intrinsic* to that system rather than meaning borrowed from human interpreters. When you think about Paris, your thought is genuinely *about* Paris. When a computer processes the symbol "Paris," is that symbol about anything for the computer—or only for the humans who read its outputs?
@@ -59,6 +59,8 @@ Searle anticipated this move. In responding to his Chinese Room argument, critic
 
 Searle's response: causal connection is not semantic connection. A thermostat is causally connected to temperature, but the thermostat doesn't *understand* temperature. Adding a robot body to the Chinese Room gives the room causal contact with the world while leaving the semantic situation unchanged. The person inside still manipulates symbols without understanding Chinese.
 
+Critics have offered further replies—the "systems reply" argues that while the person doesn't understand Chinese, the whole system (person plus rules plus symbols) might. But this only relocates the question: does the *system* have genuine understanding, or merely produce outputs that look like understanding? The symbol grounding problem asks precisely this question at the system level.
+
 Robotics experiments have tested Harnad's proposal in practice. Luc Steels's "Talking Heads" experiments in the late 1990s had robots develop shared vocabularies through "language games"—situated interactions where robots learned to associate words with visual features. Steels claimed the symbol grounding problem "has been solved."
 
 But this claim conflates functional grounding with intrinsic meaning. The robots developed behaviorally appropriate responses to environmental features. Their internal states became reliably correlated with external situations. This is "thin" grounding—symbols tracking world states—not "thick" grounding where the symbols *mean* something to the system itself. A sophisticated thermostat also tracks world states without meaning anything.
@@ -85,7 +87,7 @@ Three interpretations present themselves:
 
 **LLMs circumvent the grounding problem.** Their training corpus contains text produced by humans who *did* have grounded meanings. LLMs inherit statistical traces of human grounding without being grounded themselves. They operate in what might be called a "quoted environment"—manipulating language about the world without contacting the world. This explains competence without granting meaning.
 
-**Sensorimotor grounding was never necessary.** Perhaps language itself provides sufficient structure for meaning-like relations. Distributional semantics—meaning as patterns of use—might be all there is. This deflationary view challenges both Harnad's proposal and the Map's position.
+**Sensorimotor grounding was never necessary.** Perhaps language itself provides sufficient structure for meaning-like relations. Distributional semantics—meaning as patterns of use—might be all there is. This deflationary view challenges both Harnad's proposal and the Map's position. But deflating *meaning* into statistical patterns faces its own challenge: it must explain why the question of "genuine" meaning seems intelligible at all—and why attributions of meaning to thermostats strike us as metaphorical while attributions to humans do not.
 
 **The distinction between grounding and meaning clarifies.** LLMs may have functional grounding (symbols connected to other symbols in rich networks) without genuine meaning (phenomenal experience of semantic content). Their impressive performance demonstrates sophisticated information processing, not understanding.
 
