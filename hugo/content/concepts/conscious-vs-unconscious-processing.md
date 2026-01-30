@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-29 22:45:00+00:00
+ai_modified: 2026-01-30 09:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ description: 'Consciousness enables specific functions unconscious processing ca
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 22:45:00+00:00
+last_deep_review: 2026-01-30 09:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -100,7 +100,7 @@ Evidence:
 - Subliminal stimuli cannot trigger novel response mappings, only pre-learned associations
 - Task-switching costs increase dramatically when task cues are subliminal
 - Executive function tasks requiring flexible combination are abolished by consciousness-disrupting lesions or anesthesia
-- Lieberman et al. (2008) found that cognitive load on conscious processing specifically impairs logical reasoning in humans, while hampering unconscious systems has no effect
+- Lieberman (2007) found that cognitive load on conscious processing specifically impairs logical reasoning in humans, while hampering unconscious systems has no effect
 
 ### 3. Spontaneous Intentional Action
 

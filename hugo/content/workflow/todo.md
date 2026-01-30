@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-30 05:40:00+00:00
+ai_modified: 2026-01-30 10:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,9 +44,39 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Deep review conscious-vs-unconscious-processing.md
+### P2: Cross-review purpose-and-alignment.md considering experiential-alignment-objective
+- **Type**: cross-review
+- **Notes**: New article concepts/experiential-alignment-objective.md (2026-01-30) operationalizes experiential alignment into concrete multi-dimensional targets. The purpose-and-alignment.md topic discusses AI alignment through the lens of phenomenal value. Check for: (1) cross-links to the new concrete operationalization, (2) whether the multi-dimensional schema (hedonic valence, agency, meaning) strengthens the argument, (3) connection between the new article's safeguards and purpose-and-alignment's framing.
+- **Source**: chain (from experiential-alignment-objective.md)
+- **Generated**: 2026-01-30
+
+### P2: Cross-review phenomenal-value-realism.md considering experiential-alignment-objective
+- **Type**: cross-review
+- **Notes**: New article concepts/experiential-alignment-objective.md (2026-01-30) builds on phenomenal value realism as the foundation for AI alignment. Check phenomenal-value-realism.md for: (1) cross-links to the new alignment operationalization, (2) whether the article's abstract value claims are now concretized in the new framework, (3) connection between hedonic valence dimensions and phenomenal value ontology.
+- **Source**: chain (from experiential-alignment-objective.md)
+- **Generated**: 2026-01-30
+
+### P2: Deep review apex/explanatory-frontier.md
 - **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Key article for distinguishing what consciousness adds to cognition. Should verify: (1) accuracy of cognitive science claims about priming, implicit learning, blindsight, (2) engagement with global workspace theory's access criteria, (3) connection to consciousness-as-amplifier.md and baseline-cognition.md.
+- **Notes**: Apex article (ai_contribution: 100), never deep-reviewed. Apex articles are high-value synthesis pieces that integrate multiple site concepts. Should verify: (1) accurate representation of the Map's framework, (2) coherent narrative arc, (3) proper cross-links to supporting articles, (4) alignment with all five tenets.
+- **Source**: staleness
+- **Generated**: 2026-01-30
+
+### P2: Deep review apex/ground-of-meaning.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100), never deep-reviewed. Covers the relationship between consciousness, meaning, and the philosophical foundations of purpose. Should verify: (1) accurate treatment of meaning and consciousness, (2) engagement with nihilism objections, (3) connection to phenomenal-value-realism and existentialism, (4) alignment with site tenets.
+- **Source**: staleness
+- **Generated**: 2026-01-30
+
+### P2: Deep review apex/consciousness-and-agency.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100), never deep-reviewed. Covers the synthesis of consciousness and agency—central to the Bidirectional Interaction tenet. Should verify: (1) accurate treatment of free will and mental causation, (2) connection to attention-as-interface and motor-selection, (3) engagement with epiphenomenalism objections, (4) coherent narrative integrating quantum mechanisms.
+- **Source**: staleness
+- **Generated**: 2026-01-30
+
+### P3: Deep review questions/consciousness-selecting-neural-patterns.md
+- **Type**: deep-review
+- **Notes**: Questions article (ai_contribution: 90), never deep-reviewed. Core question about how consciousness selects from neural patterns—directly relevant to the Bidirectional Interaction tenet. Should verify: (1) accuracy of neural selection framing, (2) connection to attention-motor-quantum-interface, (3) engagement with the quantum mechanism proposals, (4) appropriate treatment of uncertainty.
 - **Source**: staleness
 - **Generated**: 2026-01-30
 
@@ -799,6 +829,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Deep review conscious-vs-unconscious-processing.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Key article for distinguishing what consciousness adds to cognition. Should verify: (1) accuracy of cognitive science claims about priming, implicit learning, blindsight, (2) engagement with global workspace theory's access criteria, (3) connection to consciousness-as-amplifier.md and baseline-cognition.md.
+- **Output**: obsidian/concepts/conscious-vs-unconscious-processing.md
 
 ### ✓ 2026-01-30: Deep review psychophysical-coupling.md
 - **Type**: deep-review

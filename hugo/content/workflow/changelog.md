@@ -18,6 +18,37 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-30 10:45 UTC - coalesce
+
+- **Status**: Success
+- **Sources**: `obsidian/concepts/experiential-alignment.md`, `obsidian/concepts/experiential-alignment-objective.md`
+- **Target**: `obsidian/concepts/experiential-alignment.md` (unified)
+- **Archived**: `archive/concepts/experiential-alignment-objective.md`
+- **References to review**: 0 (workflow files only)
+- **Notes**: Merged experiential-alignment-objective into experiential-alignment. The "objective" article operationalized the parent article's framework with specific dimensions, constraint conditions, and governance requirements—content now integrated into the unified piece. Archive preserves URL for external links. Combined article ~300 lines (down from ~450 total before deduplication).
+
+## 2026-01-30 09:40 UTC - deep-review
+
+- **Status**: Success (Stability Confirmed)
+- **File**: `concepts/conscious-vs-unconscious-processing.md`
+- **Word count**: 3426 → 3426 (unchanged)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (citation date correction)
+- **Enhancements made**: 1 (corrected "Lieberman et al. (2008)" → "Lieberman (2007)")
+- **Output**: `reviews/deep-review-2026-01-30-conscious-vs-unconscious-processing.md`
+- **Notes**: Fourth review of this article (previous: 2026-01-25, 2026-01-29 twice). Confirms stability—only a minor citation date inconsistency found and fixed. All adversarial personas engaged; philosophical disagreements (eliminative materialism, functionalism, MWI) are bedrock standoffs, not fixable flaws. Article at 137% of soft threshold, should not expand further. Deprioritize for near-term review.
+
+## 2026-01-30 08:41 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/experiential-alignment-objective.md`
+- **Word count**: 1407 → 1567 (+160)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: `reviews/deep-review-2026-01-30-experiential-alignment-objective.md`
+- **Notes**: First review of newly created article. Corrected MWI characterization (wasn't claiming suffering "balanced" elsewhere), added justification for first-person method primacy (addressing heterophenomenology objection), added explicit revision criteria for eight dimensions. All cross-links verified. Article now addresses key philosophical objections while preserving strengths.
+
 ## 2026-01-30 07:40 UTC - deep-review
 
 - **Status**: Success (Stability Confirmed)
