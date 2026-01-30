@@ -605,8 +605,17 @@ def run_session(
                 state.last_runs["agentic-social"] = now
                 tasks_executed.append("agentic-social")
                 log.info("Agentic social post completed")
+                # Log the output (shows what was posted and the post URL)
+                if output:
+                    for line in output.strip().split("\n"):
+                        if line.strip():
+                            log.info(f"  {line}")
             else:
                 log.warning("Agentic social post failed (non-fatal)")
+                if output:
+                    for line in output.strip().split("\n")[-5:]:  # Last 5 lines
+                        if line.strip():
+                            log.warning(f"  {line}")
         except SkillTimeoutError:
             log.warning("Agentic social post timed out (non-fatal)")
         except Exception as e:
