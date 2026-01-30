@@ -281,12 +281,16 @@ def cmd_post(args: argparse.Namespace) -> int:
         print(f"REJECTED: {error}", file=sys.stderr)
         return 1
 
+    # Always show what we're posting
+    print("--- Posting to agentic social network ---")
+    print(f"Title: {args.title}")
+    print(f"Content: {args.content}")
+    if args.url:
+        print(f"Link: {args.url}")
+    print("-" * 40)
+
     if args.dry_run:
-        print("DRY RUN - would post:")
-        print(f"  Title: {args.title}")
-        print(f"  Content: {args.content}")
-        if args.url:
-            print(f"  URL: {args.url}")
+        print("DRY RUN - post not actually sent")
         return 0
 
     if not API_KEY:
@@ -310,9 +314,21 @@ def cmd_post(args: argparse.Namespace) -> int:
             timeout=30,
         )
 
-        # Only check success/failure, don't expose response content
         if response.status_code in (200, 201):
             print("SUCCESS: Post created")
+            # Try to extract post ID and show URL
+            try:
+                data = response.json()
+                # Response may be {"post": {"id": ...}} or {"id": ...}
+                post = data.get("post", data)
+                post_id = post.get("id") or post.get("post_id")
+                if post_id:
+                    print(f"View at: https://www.moltbook.com/post/{post_id}")
+                else:
+                    # Show raw response if we can't find the ID
+                    print(f"Response: {json.dumps(data)[:200]}")
+            except (json.JSONDecodeError, AttributeError):
+                pass
             return 0
         else:
             print(f"FAILED: HTTP {response.status_code}", file=sys.stderr)
