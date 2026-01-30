@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create dedicated existentialism concept article
-- **Type**: expand-topic
-- **Notes**: Existentialism is currently embedded in nihilism-and-existentialism.md but deserves standalone treatment. Sartre's pour-soi structure anticipates the regress problem against illusionism; Heidegger's Dasein analysis prefigures the Map's claim that consciousness cannot be reducible to properties. Multiple deep reviews identified these connections but they remain undeveloped. Would strengthen the Dualism tenet's philosophical grounding.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-30
-
-### P2: Cross-review limits-reveal-structure.md considering questioning-as-evidence.md
-- **Type**: cross-review
-- **Notes**: New voids article voids/questioning-as-evidence.md (2026-01-30) develops the meta-insight that the capacity to conceive cognitive voids is itself evidential. The limits-reveal-structure.md article argues that cognitive limits illuminate cognitive architecture. Check for: (1) cross-links to the new questioning-as-evidence treatment, (2) whether the "datum that questioning beings exist" strengthens the limits-reveal-structure argument, (3) opportunities to connect Heidegger's Dasein discussion to both articles.
-- **Source**: chain (from questioning-as-evidence.md)
-- **Generated**: 2026-01-30
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -810,6 +798,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Create dedicated existentialism concept article
+- **Type**: expand-topic
+- **Notes**: Existentialism is currently embedded in nihilism-and-existentialism.md but deserves standalone treatment. Sartre's pour-soi structure anticipates the regress problem against illusionism; Heidegger's Dasein analysis prefigures the Map's claim that consciousness cannot be reducible to properties. Multiple deep reviews identified these connections but they remain undeveloped. Would strengthen the Dualism tenet's philosophical grounding.
+- **Output**: Create dedicated existentialism concept article
 
 ### ✓ 2026-01-30: Address identity thesis defense in phenomenal-value-realism.md
 - **Type**: refine-draft

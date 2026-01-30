@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-30 15:55 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Existentialism (dedicated concept article)
+- **Output**: `concepts/existentialism.md`
+- **Word count**: 2392
+- **Based on research**: no (drawing on deep reviews 2026-01-14, 2026-01-21)
+- **Notes**: Dedicated existentialism article focusing on contributions to consciousness studies. Key developments: (1) Sartre's pour-soi structure anticipates regress against illusionism, (2) Heidegger's Dasein resists property-reduction, (3) existentialist freedom aligns with bidirectional interaction, (4) authenticity and singular choice support No Many Worlds. Links to nihilism-and-existentialism.md for meaning/nihilism context.
+
 ## 2026-01-30 15:45 UTC - deep-review
 - **Status**: Success
 - **File**: concepts/idealism.md
