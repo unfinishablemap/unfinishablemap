@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write voids article on questioning-as-evidence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-questioning-as-evidence-2026-01-30.md. The meta-insight that beings exist who can conceive of their own cognitive boundaries—connects Heidegger's analysis of Dasein, Socratic recognition of ignorance, and Chomsky's mysteries vs problems distinction. Target: voids/questioning-as-evidence.md
+- **Source**: chain (from research-voids)
+- **Generated**: 2026-01-30
+
+### P2: Condense eastern-philosophy-consciousness.md (4206 words, 140% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Covers Buddhist, Hindu, and Taoist approaches to consciousness. Preserve: core comparisons with Western dualism, anattā vs haecceity tension, contemplative phenomenology as evidence. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-30
+
+### P2: Condense loss-of-consciousness.md (4177 words, 139% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Covers what loss of consciousness tells us about the mind-brain interface. Preserve: core clinical evidence, graded consciousness findings, connection to neural correlates. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-30
+
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
