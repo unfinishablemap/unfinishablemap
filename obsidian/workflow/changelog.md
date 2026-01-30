@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-30 14:54 UTC - expand-topic
+- **Status**: Already Complete
+- **Topic**: Stapp's mental effort theory
+- **Notes**: Task generated from unconsumed_research but research was already consumed. Existing coverage: (1) `concepts/mental-effort.md` (2026-01-14) titled "Mental Effort and the Quantum Zeno Effect" covers phenomenology of effort, Stapp's mechanism, neuroplasticity evidence; (2) `concepts/stapp-quantum-mind.md` (2026-01-22) covers the full quantum mind model including free will implications. Both articles comprehensively address the research notes' suggested angles. Task removed from queue.
+
 ## 2026-01-30 14:49 UTC - deep-review
 - **Status**: Success
 - **File**: concepts/moral-responsibility.md
