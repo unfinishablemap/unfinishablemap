@@ -4,9 +4,9 @@ description: "Can machines be conscious? The Map argues purely computational sys
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-01-29T09:10:13+00:00
+ai_modified: 2026-01-30T17:32:00+00:00
 draft: false
-last_deep_review: 2026-01-29T09:10:13+00:00
+last_deep_review: 2026-01-30T17:32:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-intelligence]]"
@@ -25,6 +25,7 @@ concepts:
   - "[[haecceity]]"
   - "[[integrated-information-theory]]"
   - "[[continual-learning-argument]]"
+  - "[[symbol-grounding-problem]]"
 related_articles:
   - "[[tenets]]"
   - "[[ai-machine-consciousness-2026-01-08]]"
@@ -85,7 +86,7 @@ Several additional arguments reinforce skepticism:
 
 **The [[decoherence]] challenge.** The Map's quantum framework suggests consciousness interfaces at quantum levels. Silicon computing is *designed* to suppress quantum effects—error correction and thermal management ensure transistors behave as deterministic switches. Current AI hardware provides no candidate quantum-consciousness interface.
 
-**Grounding remains unsolved.** [[embodied-cognition|Embodied cognition]] correctly emphasizes that understanding is shaped by bodily engagement. But even embodied robots face the "grounding problem"—sensor data remains syntax without phenomenal significance. The body shapes how consciousness interfaces with the world; it doesn't produce consciousness.
+**The [[symbol-grounding-problem|symbol grounding problem]] remains unsolved.** [[embodied-cognition|Embodied cognition]] correctly emphasizes that understanding is shaped by bodily engagement. But embodied robots achieve only "thin" grounding—reliable causal connections between internal states and environmental features—not "thick" grounding where symbols mean something *for* the system. As Harnad himself concedes, "grounding is a functional matter; feeling is a felt matter." Thirty-five years of research has not bridged this gap. The body shapes how consciousness interfaces with the world; it doesn't produce consciousness or meaning.
 
 ## Relation to Site Perspective
 
@@ -136,6 +137,7 @@ None has occurred. The explanatory gap remains unbridged.
 ## Further Reading
 
 - [[consciousness-and-intelligence]] — How consciousness and intelligence relate
+- [[symbol-grounding-problem]] — Why computational symbols lack intrinsic meaning
 - [[llm-consciousness]] — Focused LLM analysis
 - [[continual-learning-argument]] — Formal framework for why static systems cannot be conscious
 - [[functionalism]] — Complete critique of functionalism
