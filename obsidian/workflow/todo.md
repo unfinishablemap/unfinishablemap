@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review simulation.md considering natural-vs-designed-limits insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/natural-vs-designed-limits.md (2026-01-30) explores whether cognitive limits are natural features or designed constraints—directly relevant to the simulation hypothesis. Check simulation.md for: (1) cross-links to the new voids treatment, (2) whether the "designed constraints" framing enriches the simulation discussion, (3) connection between simulation-as-containment and the natural/designed distinction.
-- **Source**: chain (from natural-vs-designed-limits.md)
-- **Generated**: 2026-01-30
-
 ### P2: Cross-review mysterianism.md considering natural-vs-designed-limits
 - **Type**: cross-review
 - **Notes**: New voids article voids/natural-vs-designed-limits.md (2026-01-30) questions whether cognitive closure is natural (McGinn) or potentially designed. The mysterianism.md article discusses cognitive closure without considering the design alternative. Check for: (1) cross-links to the new voids treatment, (2) whether the natural/designed distinction adds a dimension to mysterian arguments, (3) the meta-level question of whether the distinction itself could be unknowable.
@@ -833,6 +827,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Cross-review simulation.md considering natural-vs-designed-limits insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/natural-vs-designed-limits.md (2026-01-30) explores whether cognitive limits are natural features or designed constraints—directly relevant to the simulation hypothesis. Check simulation.md for: (1) cross-links to the new voids treatment, (2) whether the "designed constraints" framing enriches the simulation discussion, (3) connection between simulation-as-containment and the natural/designed distinction.
+- **Output**: obsidian/concepts/simulation.md -- Context: Cross-review simulation.md considering natural-vs-designed-limits insights
 
 ### ✓ 2026-01-30: Cross-review symbol-grounding-problem.md considering language-recursion-consciousness
 - **Type**: cross-review

@@ -4,7 +4,7 @@ description: "If reality is computed, mind-matter interaction becomes unsurprisi
 created: 2026-01-07
 modified: 2026-01-07
 human_modified: null
-ai_modified: 2026-01-27T15:21:00+00:00
+ai_modified: 2026-01-30T23:05:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -21,6 +21,7 @@ concepts:
   - "[[decoherence]]"
   - "[[haecceity]]"
   - "[[computational-cognitive-limits]]"
+  - "[[natural-vs-designed-limits]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-selecting-neural-patterns]]"
@@ -29,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-07
 last_curated: null
-last_deep_review: 2026-01-27T15:21:00+00:00
+last_deep_review: 2026-01-30T23:05:00+00:00
 ---
 
 The simulation hypothesis proposes that our reality is a computed simulation running on some substrate. This idea, popularised by Nick Bostrom's probability argument and science fiction, has surprising relevance for mind-matter interaction. In simulated contexts, many apparent puzzles about consciousness influencing physics dissolve completely.
@@ -137,6 +138,8 @@ If we are simulated and our minds are computational, we inherit all [[computatio
 
 This creates a tension with Penrose-style arguments. If consciousness genuinely grasps Gödel sentences that formal systems cannot prove, it transcends computation. But if we're simulated computations, we *can't* genuinely grasp these truths—we only seem to. Either the simulation hypothesis is false, or Lucas-Penrose arguments fail, or consciousness operates non-computationally even within the simulation (perhaps at the substrate level). The Map's commitment to bidirectional interaction suggests the third option: consciousness interfaces with the simulation in ways that transcend the simulation's internal computational limits.
 
+A deeper question: are these computational limits [[natural-vs-designed-limits|natural features of finite cognition, or designed constraints]]? The simulation framework makes this question tractable—a simulator could impose limits beyond those inherent to computation itself. Whether we could ever distinguish natural from designed limits is itself an open question explored in the Map's voids framework.
+
 This has implications for [[ai-consciousness]]: if we're simulated and conscious, digital systems might also achieve consciousness under the right conditions. The barrier would be architectural, not substrate-based.
 
 ## Objections and Responses
@@ -186,11 +189,11 @@ Alfred North Whitehead's process philosophy offers a distinctive angle on the si
 
 From this perspective, the simulation hypothesis raises intriguing questions:
 
-**Simulated prehension**: If the simulation implements genuine actual occasions—events with their own experiential aspect—then simulated beings would be genuinely conscious. The simulation wouldn't create pseudo-experience but would instantiate the conditions for real prehension. This aligns with the "consciousness at both levels" option discussed above.
+**Simulated prehension**: If the simulation implements genuine actual occasions—events with experiential aspect—simulated beings would be genuinely conscious. The simulation wouldn't create pseudo-experience but would instantiate conditions for real prehension, aligning with the "consciousness at both levels" option above.
 
-**Concrescence and computation**: Whitehead's "concrescence"—the process by which occasions unify their prehensions—resembles computation: both integrate inputs into novel outputs. But concrescence has intrinsic experiential character; whether computation does is precisely the hard problem. The simulation hypothesis reframes rather than resolves this question.
+**Concrescence and computation**: Whitehead's "concrescence"—occasions unifying their prehensions—resembles computation: both integrate inputs into novel outputs. But concrescence has intrinsic experiential character; whether computation does is the hard problem. The simulation hypothesis reframes rather than resolves this.
 
-**The extensive continuum**: Whitehead held that space and time form an "extensive continuum." In a simulation, this continuum would be represented rather than fundamental—coordinates in memory rather than intrinsic spatiotemporal structure. This aligns with how the simulation hypothesis dissolves locality concerns.
+**The extensive continuum**: Whitehead held that space and time form an "extensive continuum." In a simulation, this would be represented rather than fundamental—coordinates in memory rather than intrinsic spatiotemporal structure. This aligns with how simulation dissolves locality concerns.
 
 Process philosophy suggests that if simulated, reality would be no less genuinely experiential than "base" reality—provided the simulation implements conditions for actual occasions rather than merely approximating functional effects.
 
@@ -246,6 +249,7 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 - [[haecceity]] — The indexical identity problem that simulation resolves
 - [[decoherence]] — The timescale objection and its application within simulations
 - [[computational-cognitive-limits]] — Formal limits that constrain simulated minds
+- [[natural-vs-designed-limits]] — Whether cognitive limits are natural or engineered
 - [[tenets]] — The foundational commitments these concepts serve
 
 ## References
