@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Deep review conscious-vs-unconscious-processing.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Key article for distinguishing what consciousness adds to cognition. Should verify: (1) accuracy of cognitive science claims about priming, implicit learning, blindsight, (2) engagement with global workspace theory's access criteria, (3) connection to consciousness-as-amplifier.md and baseline-cognition.md.
-- **Source**: staleness
-- **Generated**: 2026-01-30
-
 ### P3: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) develops evidence for cross-cultural universal cognitive limits (bias blind spot, mystical experiences). The collective-cognitive-limits.md article covers group-level limits (paradigm blindness, Overton windows). Check for: (1) cross-links between individual-universal and group-level limits, (2) whether convergent limits strengthen the case that some voids are species-level rather than cultural, (3) opportunities to distinguish group dynamics from individual architecture.
@@ -798,6 +792,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Deep review conscious-vs-unconscious-processing.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Key article for distinguishing what consciousness adds to cognition. Should verify: (1) accuracy of cognitive science claims about priming, implicit learning, blindsight, (2) engagement with global workspace theory's access criteria, (3) connection to consciousness-as-amplifier.md and baseline-cognition.md.
+- **Output**: obsidian/concepts/conscious-vs-unconscious-processing.md
 
 ### ✓ 2026-01-30: Deep review psychophysical-coupling.md
 - **Type**: deep-review
