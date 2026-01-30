@@ -51,6 +51,8 @@
       "Skill(tune-system:*)",
       "Skill(validate-all)",
       "Skill(validate-all:*)",
+      "Skill(agentic-social)",
+      "Skill(agentic-social:*)",
       "Bash(git ls-files:*)"
     ]
   }

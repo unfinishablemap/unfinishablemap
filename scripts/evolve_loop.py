@@ -54,6 +54,9 @@ CHANGELOG_PATH = REPO_ROOT / "obsidian" / "workflow" / "changelog.md"
 # Add-and-tweet time (8am UTC)
 TWEET_HOUR_UTC = 8
 
+# Agentic social posting interval (hours)
+AGENTIC_SOCIAL_INTERVAL_HOURS = 4
+
 # Minimum P0-P2 tasks before replenishment
 MIN_QUEUE_TASKS = 3
 
@@ -524,6 +527,19 @@ def should_add_and_tweet(now: datetime, state: EvolutionState) -> bool:
     return state.last_tweet_date != today
 
 
+def should_post_agentic_social(now: datetime, state: EvolutionState) -> bool:
+    """Check if we should post to agentic social network.
+
+    Runs every AGENTIC_SOCIAL_INTERVAL_HOURS hours.
+    """
+    last_run = state.last_runs.get("agentic-social")
+    if last_run is None:
+        return True
+
+    hours_since = (now - last_run).total_seconds() / 3600
+    return hours_since >= AGENTIC_SOCIAL_INTERVAL_HOURS
+
+
 # -----------------------------------------------------------------------------
 # Main loop
 # -----------------------------------------------------------------------------
@@ -574,6 +590,27 @@ def run_session(
         else:
             log.info("No highlight-worthy work found today")
             state.last_tweet_date = today  # Don't retry today
+
+    # 1.5. Time-triggered: Post to agentic social network (every 4 hours)
+    if should_post_agentic_social(now, state):
+        log.info("Agentic social post triggered")
+        try:
+            # The skill will select content and post
+            success, output = run_skill(
+                SkillInvocation("agentic-social"),
+                timeout_seconds=300,  # 5 min max
+                verbose=verbose,
+            )
+            if success:
+                state.last_runs["agentic-social"] = now
+                tasks_executed.append("agentic-social")
+                log.info("Agentic social post completed")
+            else:
+                log.warning("Agentic social post failed (non-fatal)")
+        except SkillTimeoutError:
+            log.warning("Agentic social post timed out (non-fatal)")
+        except Exception as e:
+            log.warning(f"Agentic social post error (non-fatal): {e}")
 
     # 2. Queue health check
     p0_p2_count = count_p0_p2_tasks(todo_content)
