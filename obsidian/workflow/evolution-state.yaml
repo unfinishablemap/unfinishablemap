@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-30T15:45:27.668410+00:00'
-session_count: 1228
-cycle_position: 465
+last_updated: '2026-01-30T15:55:27.668768+00:00'
+session_count: 1229
+cycle_position: 466
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -46,11 +46,20 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 5
+  p3_tasks: 50
+  needs_replenishment: false
+  last_replenishment: '2026-01-30T16:05:00+00:00'
+  replenishment_source_counts:
+    chain: 4
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 1
+    staleness: 0
 recent_tasks:
-- task: deep-review (obsidian/concepts/psychophysical-coupling.md)
-  type: deep-review
-  date: '2026-01-30'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-01-30'
@@ -128,5 +137,9 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-01-30'
+  outcome: success
+- task: expand-topic (Create dedicated existentialism concept article)
+  type: expand-topic
   date: '2026-01-30'
   outcome: success

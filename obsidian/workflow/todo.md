@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-30T15:14:00+00:00
+ai_modified: 2026-01-30T16:05:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -42,6 +42,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
+
+### P2: Write article on symbol grounding problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/symbol-grounding-problem-2026-01-30.md. The symbol grounding problem (Harnad 1990) asks how symbols acquire intrinsic meaning—directly supports the Bidirectional Interaction tenet by showing pure computation lacks genuine understanding. Key points: Chinese Room connection, sensorimotor grounding proposals fail without consciousness, LLM relevance. Aligns strongly with site's dualist perspective.
+- **Source**: chain (from symbol-grounding-problem-2026-01-30.md)
+- **Generated**: 2026-01-30
+
+### P2: Cross-review phenomenology.md considering existentialism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/existentialism.md (2026-01-30) develops Sartre's pour-soi structure and Heidegger's Dasein analysis. Check phenomenology.md for: (1) cross-links to existentialism's phenomenological contributions, (2) whether Husserl-Heidegger-Sartre relationship is properly framed, (3) opportunities to strengthen the first-person methodology discussion with existentialist grounding.
+- **Source**: chain (from existentialism.md)
+- **Generated**: 2026-01-30
+
+### P2: Cross-review meaning-of-life.md considering existentialism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/existentialism.md (2026-01-30) develops existentialist themes on meaning, freedom, and authenticity. Check meaning-of-life.md for: (1) cross-links to existentialism treatment, (2) whether existentialist responses to meaninglessness are adequately represented, (3) connection between Sartre's radical freedom and the Map's consciousness-grounded meaning.
+- **Source**: chain (from existentialism.md)
+- **Generated**: 2026-01-30
+
+### P2: Condense phenomenal-value-realism.md (4321 words, 173% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word soft threshold for concepts/ by 73%. Recently refined but still over limit. Covers the claim that phenomenal experiences have intrinsic value properties. Preserve: core value realism argument, connection to consciousness and ethics, response to error theory. Defer detailed metaethical debates to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-30
+
+### P3: Cross-review nihilism-and-existentialism.md considering existentialism.md
+- **Type**: cross-review
+- **Notes**: New standalone article concepts/existentialism.md (2026-01-30) now provides dedicated coverage of existentialist philosophy. Check nihilism-and-existentialism.md for: (1) cross-links to the new existentialism page, (2) whether content can be streamlined now that existentialism has dedicated coverage, (3) appropriate division of labor between the two articles.
+- **Source**: chain (from existentialism.md)
+- **Generated**: 2026-01-30
 
 ### P3: Deep review questions/consciousness-selecting-neural-patterns.md
 - **Type**: deep-review
