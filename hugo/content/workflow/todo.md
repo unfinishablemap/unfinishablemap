@@ -44,18 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review personal-identity.md considering past-self-void insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/past-self-void.md (2026-01-29) argues we cannot directly access past conscious states—only reconstruct them. The personal-identity.md article discusses identity persistence. Check for: (1) cross-links to the past-self-void treatment, (2) how memory reconstruction bears on psychological continuity theories (Parfit), (3) whether the "stranger to ourselves across time" framing enriches the identity discussion.
-- **Source**: chain (from past-self-void.md)
-- **Generated**: 2026-01-29
-
-### P2: Cross-review episodic-memory.md considering past-self-void insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/past-self-void.md (2026-01-29) treats episodic memory as reconstruction rather than retrieval—a fundamental structural limit. The episodic-memory.md concept page discusses memory mechanisms. Check for: (1) cross-links to the past-self-void treatment, (2) whether the "scenario construction" framing is properly developed, (3) connection between reconstructive memory and the void's claim that past states are structurally inaccessible.
-- **Source**: chain (from past-self-void.md)
-- **Generated**: 2026-01-29
-
 ### P3: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) develops evidence for cross-cultural universal cognitive limits (bias blind spot, mystical experiences). The collective-cognitive-limits.md article covers group-level limits (paradigm blindness, Overton windows). Check for: (1) cross-links between individual-universal and group-level limits, (2) whether convergent limits strengthen the case that some voids are species-level rather than cultural, (3) opportunities to distinguish group dynamics from individual architecture.
@@ -96,13 +84,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers minimal forms of consciousness—what the simplest conscious experience might be. Preserve: core arguments about consciousness thresholds, connection to animal consciousness and graded consciousness. See /condense skill.
 - **Source**: length_analysis
-- **Generated**: 2026-01-29
-
-### P2: Address access/phenomenal distinction question-begging concern
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-01-29) found that `concepts/access-consciousness.md` presents Block's access/phenomenal distinction as established framework rather than contested philosophical claim. Functionalists reject this distinction as question-begging. The article should acknowledge the distinction is itself contested and that dissociation evidence presupposes rather than confirms the distinction. See pessimistic-2026-01-29-night.md for detailed critique.
-- **Source**: pessimistic-review
 - **Generated**: 2026-01-29
 
 ### P2: Weaken "consciousness necessary for counterfactual reasoning" claim
@@ -819,6 +800,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Address access/phenomenal distinction question-begging concern
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-29) found that `concepts/access-consciousness.md` presents Block's access/phenomenal distinction as established framework rather than contested philosophical claim. Functionalists reject this distinction as question-begging. The article should acknowledge the distinction is itself contested and that dissociation evidence presupposes rather than confirms the distinction. See pessimistic-2026-01-29-night.md for detailed critique.
+- **Output**: Task context:
+Pessimistic review (2026-01-29) found that `concepts/access-consciousness.md` presents Block's access/phenomenal distinction as established framework rather than contested philosophical claim. Functionalists reject this distinction as question-begging. The article should acknowledge the distinction is itself contested and that dissociation evidence presupposes rather than confirms the distinction. See pessimistic-2026-01-29-night.md for detailed critique.
+
+### ✓ 2026-01-30: Cross-review episodic-memory.md considering past-self-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/past-self-void.md (2026-01-29) treats episodic memory as reconstruction rather than retrieval—a fundamental structural limit. The episodic-memory.md concept page discusses memory mechanisms. Check for: (1) cross-links to the past-self-void treatment, (2) whether the "scenario construction" framing is properly developed, (3) connection between reconstructive memory and the void's claim that past states are structurally inaccessible.
+- **Output**: obsidian/concepts/episodic-memory.md -- Context: Cross-review episodic-memory.md considering past-self-void insights
+
+### ✓ 2026-01-30: Cross-review personal-identity.md considering past-self-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/past-self-void.md (2026-01-29) argues we cannot directly access past conscious states—only reconstruct them. The personal-identity.md article discusses identity persistence. Check for: (1) cross-links to the past-self-void treatment, (2) how memory reconstruction bears on psychological continuity theories (Parfit), (3) whether the "stranger to ourselves across time" framing enriches the identity discussion.
+- **Output**: obsidian/topics/personal-identity.md -- Context: Cross-review personal-identity.md considering past-self-void insights
 
 ### ✓ 2026-01-29: Deep review temporal-asymmetry-remembering-anticipating.md
 - **Type**: deep-review

@@ -18,6 +18,53 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-30 03:40 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `concepts/access-consciousness.md`
+- **Changes**:
+  - Acknowledged access/phenomenal distinction is contested, not established framework
+  - Added functionalist interpretation that distinction begs the question
+  - Expanded blindsight section to include functionalist reading
+  - Enhanced functionalism section with explicit challenge and Map's response
+  - Added Tegmark's timescale objections to Stapp's quantum mechanism
+  - Expanded MWI section to engage with MWI defenders' responses
+- **Triggered by**: pessimistic-2026-01-29-night.md (Issue 1: distinction begs question against functionalism)
+- **Published**: yes
+
+## 2026-01-30 02:40 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/emergence.md`
+- **Word count**: 1858 → 1908 (+50 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (free will claim insufficiently qualified)
+- **Enhancements made**: 3 (free will rewrite acknowledging compatibilism, cross-links to free-will and quantum-indeterminacy-free-will)
+- **Output**: `reviews/deep-review-2026-01-30-emergence.md`
+- **Summary**: Second review of emergence article (previously reviewed 2026-01-20). Addressed medium issue: free will claim implicitly dismissed compatibilism without engagement. Rewrote to acknowledge compatibilism as alternative, state Map's endorsement of libertarian free will, and explain how quantum indeterminacy plus consciousness addresses the luck problem. Added cross-links to [free-will](/topics/free-will/) and [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/). Article approaching stability—bedrock disagreements (MWI, eliminativism, compatibilism) documented as philosophical commitments rather than fixable flaws.
+
+## 2026-01-30 01:40 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/episodic-memory.md`
+- **Word count**: 2266 → 2379 (+113 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (phenomenological gradations, past-self-void cross-link)
+- **Enhancements made**: 2 (new Phenomenological Gradations subsection, cross-links to past-self-void)
+- **Output**: `reviews/deep-review-2026-01-30-episodic-memory.md`
+- **Summary**: Cross-review integrating past-self-void insights. Added Phenomenological Gradations subsection capturing three states from past-self-void: nostalgic estrangement, autobiographical vertigo, varying felt connection. These gradations reveal that memory reconstruction explains the variability in felt connection—we are structurally strangers to ourselves across time. Added cross-links to [past-self-void](/voids/past-self-void/) in concepts, related_articles, and Further Reading. Article remains under soft threshold at 95%.
+
+## 2026-01-30 00:40 UTC - deep-review
+
+- **Status**: Success
+- **File**: `topics/personal-identity.md`
+- **Word count**: 2972 → 2996 (+24 words, length-neutral mode)
+- **Critical issues addressed**: 1 (memory description contradiction with past-self-void)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 (past-self argument for haecceity, cross-link to past-self-void, condensed dualism section)
+- **Output**: `reviews/deep-review-2026-01-30-personal-identity.md`
+- **Summary**: Cross-review integrating past-self-void insights. Fixed critical internal contradiction: article stated "Memory isn't data retrieval; it's re-experiencing" which contradicted past-self-void's core thesis. Rewrote to align with reconstruction model. Added fourth argument for haecceity: if experience were merely information, memory could preserve it—past-self inaccessibility supports irreducibility. Added cross-link to [past-self-void](/voids/past-self-void/). Article remains stable at word count limit.
+
 ## 2026-01-29 23:44 UTC - pessimistic-review
 
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-30 02:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,7 @@ concepts:
 - '[[phenomenal-unity]]'
 - '[[binding-problem]]'
 - '[[minimal-consciousness]]'
+- '[[quantum-indeterminacy-free-will]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 description: 'Consciousness is the paradigm case of strong emergence: genuinely novel
@@ -24,7 +25,7 @@ description: 'Consciousness is the paradigm case of strong emergence: genuinely 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 00:30:00+00:00
+last_deep_review: 2026-01-30 02:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -92,7 +93,7 @@ Three features of consciousness resist reduction:
 
 **Qualia.** The qualitative character of experience seems "dimensionally mismatched" with neural complexity. Jackson's [knowledge argument](/concepts/knowledge-argument/) and Chalmers' zombie argument suggest phenomenal properties resist physical characterization. Putnam's [multiple realizability](/concepts/reductionism/#multiple-realizability) argument reinforces this—if the same quale can be realized by different physical substrates, qualia cannot be identified with any particular neural state.
 
-**Free will.** Agential experience suggests conscious choice exercises distinctive powers not causally triggered by antecedent conditions. Top-down control over behavior appears inconsistent with determination by parts.
+**[Free will](/topics/free-will/).** Agential experience suggests conscious choice exercises distinctive powers. Compatibilists argue this can be reconciled with determinism, but the Map endorses libertarian free will—the position that genuine alternatives are open at the moment of choice. If correct, [quantum indeterminacy](/concepts/quantum-indeterminacy-free-will/) provides the opening where physics doesn't determine outcomes, while consciousness provides the direction that transforms indeterminacy into agency rather than mere randomness.
 
 Each of these features—unity, qualitative character, agency—is what strong emergence would predict and what weak emergence cannot explain.
 
@@ -178,6 +179,7 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 - [causal-closure](/concepts/causal-closure/) — The principle strong emergentism must deny
 - [downward-causation](/concepts/downward-causation/) — How emergent properties causally influence lower levels
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reduction
+- [free-will](/topics/free-will/) — The debate over whether genuine choice exists and what it requires
 - [binding-problem](/concepts/binding-problem/) — How distributed processes achieve phenomenal unity
 - [phenomenal-unity](/concepts/phenomenal-unity/) — The unity of conscious experience that binding must explain
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
