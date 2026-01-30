@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review symbol-grounding-problem.md considering language-recursion-consciousness
-- **Type**: cross-review
-- **Notes**: Article topics/language-recursion-and-consciousness.md connects recursive syntax to consciousness via working memory. The symbol-grounding-problem.md article addresses how symbols acquire meaning. Check for: (1) cross-links between grounding and recursion arguments, (2) whether recursive structure strengthens the case against pure computational grounding, (3) connection between meaningful recursion and the Chinese Room argument.
-- **Source**: chain (from language-recursion-and-consciousness.md)
-- **Generated**: 2026-01-30
-
 ### P2: Update references to coalesced minimal-consciousness article
 - **Type**: other
 - **Notes**: Coalesce (2026-01-30) merged `concepts/minimal-consciousness.md` into `topics/consciousness-in-simple-organisms.md`. 37 files in obsidian/ reference `[[minimal-consciousness]]`. Key files with substantive usage: hard-problem-of-consciousness.md, animal-consciousness.md, epiphenomenalism.md, panpsychism.md, reductionism.md, mysterianism.md, filter-theory.md, binding-problem.md, combination-problem.md, consciousness.md. Consider updating wikilinks to point to `[[consciousness-in-simple-organisms]]` or use the piped format `[[consciousness-in-simple-organisms|minimal consciousness]]`. Archived article displays redirect notice so existing links still function.
@@ -827,6 +821,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Cross-review symbol-grounding-problem.md considering language-recursion-consciousness
+- **Type**: cross-review
+- **Notes**: Article topics/language-recursion-and-consciousness.md connects recursive syntax to consciousness via working memory. The symbol-grounding-problem.md article addresses how symbols acquire meaning. Check for: (1) cross-links between grounding and recursion arguments, (2) whether recursive structure strengthens the case against pure computational grounding, (3) connection between meaningful recursion and the Chinese Room argument.
+- **Output**: obsidian/concepts/symbol-grounding-problem.md -- Context: Cross-review symbol-grounding-problem.md considering language-recursion-consciousness
 
 ### ✓ 2026-01-30: Cross-review working-memory.md considering language-recursion-consciousness
 - **Type**: cross-review
