@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on experiential alignment objective
-- **Type**: expand-topic
-- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. Comprehensive framework for grounding AI alignment in phenomenal value realism—multi-dimensional schema (hedonic valence, agency, meaning), measurable proxies, failure modes (wireheading, Goodhart), safeguards. Directly supports Bidirectional Interaction tenet by articulating why consciousness matters for values.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-30
-
-### P2: Deep review attention-as-interface.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-17, never deep-reviewed. Core interface concept for the Map's framework—attention as the mechanism by which consciousness influences quantum outcomes. Should verify: (1) accuracy of neuroscience claims, (2) connection to Stapp's quantum Zeno mechanism, (3) alignment with Bidirectional Interaction tenet, (4) integration with voluntary-attention.md and motor-selection.md.
-- **Source**: staleness
-- **Generated**: 2026-01-30
-
 ### P2: Deep review psychophysical-coupling.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-16, never deep-reviewed. Foundational for psychophysical laws framework—how physical and phenomenal properties are lawfully connected. Should verify: (1) accurate representation of Chalmers's framework, (2) connection to topics/chalmers-psychophysical-coupling.md and topics/psychophysical-laws-framework.md, (3) alignment with Dualism and Bidirectional Interaction tenets.
@@ -816,6 +804,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Write article on experiential alignment objective
+- **Type**: expand-topic
+- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. Comprehensive framework for grounding AI alignment in phenomenal value realism—multi-dimensional schema (hedonic valence, agency, meaning), measurable proxies, failure modes (wireheading, Goodhart), safeguards. Directly supports Bidirectional Interaction tenet by articulating why consciousness matters for values.
+- **Output**: experiential alignment objective
 
 ### ✓ 2026-01-30: Weaken "consciousness necessary for counterfactual reasoning" claim
 - **Type**: refine-draft
