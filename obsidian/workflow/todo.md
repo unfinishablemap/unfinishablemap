@@ -820,6 +820,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
+### P3: Write article on Bergson and the duration of consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Bergson is cited across multiple articles (duration.md, free-will.md, temporal-consciousness.md) but deserves more systematic treatment. His durée concept—lived time as opposed to spatialized clock time—provides crucial resources for understanding why consciousness resists quantification. Supports Dualism through the argument that consciousness has temporal structure physics cannot capture.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Create concept page for phenomenal intentionality
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Central to symbol grounding problem and meaning-and-consciousness—the thesis that original intentionality derives from phenomenal consciousness. Currently mentioned but not given dedicated analysis. Would strengthen the connection between SGP and consciousness studies.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Create concept page for bad faith (mauvaise foi)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Sartre's concept mentioned in existentialism.md but deserves dedicated treatment. Bad faith demonstrates consciousness's irreducibility—materialist accounts struggle to explain self-deception without multiplying subjects. The pour-soi's self-distance provides the structure.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
 ## Completed Tasks
 
 
