@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-30T10:40:00+00:00
+ai_modified: 2026-01-30T14:27:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,18 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write voids article on questioning-as-evidence
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-questioning-as-evidence-2026-01-30.md. The meta-insight that beings exist who can conceive of their own cognitive boundaries—connects Heidegger's analysis of Dasein, Socratic recognition of ignorance, and Chomsky's mysteries vs problems distinction. Target: voids/questioning-as-evidence.md
-- **Source**: chain (from research-voids)
-- **Generated**: 2026-01-30
-
-### P2: Condense eastern-philosophy-consciousness.md (4206 words, 140% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Covers Buddhist, Hindu, and Taoist approaches to consciousness. Preserve: core comparisons with Western dualism, anattā vs haecceity tension, contemplative phenomenology as evidence. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-30
 
 ### P2: Condense loss-of-consciousness.md (4177 words, 139% of threshold)
 - **Type**: condense
@@ -816,6 +804,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Write voids article on questioning-as-evidence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-questioning-as-evidence-2026-01-30.md. The meta-insight that beings exist who can conceive of their own cognitive boundaries—connects Heidegger's analysis of Dasein, Socratic recognition of ignorance, and Chomsky's mysteries vs problems distinction. Target: voids/questioning-as-evidence.md
+- **Output**: Write voids article on questioning-as-evidence
 
 ### ✓ 2026-01-30: Deep review apex/consciousness-and-agency.md
 - **Type**: deep-review

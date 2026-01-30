@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-29 20:05:00+00:00
+ai_modified: 2026-01-30T14:27:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,14 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-01-30 14:27 UTC - expand-topic
+- **Status**: Success
+- **Topic**: questioning-as-evidence
+- **Output**: voids/questioning-as-evidence.md
+- **Word count**: 1636
+- **Based on research**: yes (research/voids-questioning-as-evidence-2026-01-30.md)
+- **Notes**: Voids article exploring what the capacity to conceive cognitive limits reveals about consciousness and reality. Draws on Heidegger's Dasein analysis, Chomsky's scope-limit entailment, Socratic paradox, and transcendental arguments. Connects to all five tenets, especially dualism (questioning stance cannot be collapsed into the questioned).
 
 ## 2026-01-30 14:14 UTC - deep-review
 
