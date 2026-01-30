@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Deep review apex/consciousness-and-agency.md
-- **Type**: deep-review
-- **Notes**: Apex article (ai_contribution: 100), never deep-reviewed. Covers the synthesis of consciousness and agency—central to the Bidirectional Interaction tenet. Should verify: (1) accurate treatment of free will and mental causation, (2) connection to attention-as-interface and motor-selection, (3) engagement with epiphenomenalism objections, (4) coherent narrative integrating quantum mechanisms.
-- **Source**: staleness
-- **Generated**: 2026-01-30
-
 ### P3: Deep review questions/consciousness-selecting-neural-patterns.md
 - **Type**: deep-review
 - **Notes**: Questions article (ai_contribution: 90), never deep-reviewed. Core question about how consciousness selects from neural patterns—directly relevant to the Bidirectional Interaction tenet. Should verify: (1) accuracy of neural selection framing, (2) connection to attention-motor-quantum-interface, (3) engagement with the quantum mechanism proposals, (4) appropriate treatment of uncertainty.
@@ -804,6 +798,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Deep review apex/consciousness-and-agency.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100), never deep-reviewed. Covers the synthesis of consciousness and agency—central to the Bidirectional Interaction tenet. Should verify: (1) accurate treatment of free will and mental causation, (2) connection to attention-as-interface and motor-selection, (3) engagement with epiphenomenalism objections, (4) coherent narrative integrating quantum mechanisms.
+- **Output**: obsidian/apex/consciousness-and-agency.md
 
 ### ✓ 2026-01-30: Deep review apex/ground-of-meaning.md
 - **Type**: deep-review
