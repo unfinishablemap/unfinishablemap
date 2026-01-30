@@ -4,7 +4,7 @@ description: "Authentic choice feels like genuine self-expression; inauthentic c
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T20:55:00+00:00
+ai_modified: 2026-01-30T21:35:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -26,6 +26,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-30
 last_curated: null
+last_deep_review: 2026-01-30T21:35:00+00:00
 ---
 
 Some choices feel like they come from deep within—expressions of who you really are. Others feel like going through motions, following scripts you never wrote, doing what "one does." The Unfinishable Map proposes that this phenomenological distinction tracks something metaphysically significant: authentic choice engages consciousness's genuine selection function, while inauthentic choice runs on automatic processing that merely simulates decision.
@@ -133,9 +134,9 @@ This gives authenticity metaphysical significance: authentic choice is where con
 
 ### The Neural Evidence
 
-The neural signatures of [[voluntary-attention|willed action]]—frontal theta oscillations, bidirectional frontoparietal coherence—appear in voluntary, effortful choice but not in automatic or instructed behavior. If authentic choice is characteristically effortful and inauthentic choice characteristically automatic, this neural distinction may track the authenticity difference.
+The neural signatures of [[voluntary-attention|willed action]]—frontal theta oscillations, bidirectional frontoparietal coherence (Botvinick et al., 2001; Cavanagh & Frank, 2014)—appear in voluntary, effortful choice but not in automatic or instructed behavior. If authentic choice is characteristically effortful and inauthentic choice characteristically automatic, this neural distinction may track the authenticity difference.
 
-The [[motor-selection|300ms decision window]] for willed movements—versus ~100ms for automatic ones—suggests that genuine selection requires time for quantum possibilities to develop and consciousness to engage. Quick, scripted responses may bypass this window entirely.
+The [[motor-selection|decision window]] for willed movements (~300ms versus ~100ms for instructed movements; Haggard, 2008) suggests that genuine selection requires time for candidate neural patterns to develop and consciousness to engage. Scripted, automatic responses may bypass this deliberative interval.
 
 ### Agent Causation and the Whole Self
 
@@ -157,7 +158,7 @@ Major life disruptions—illness, loss, mortality awareness—can trigger this b
 
 [[witness-consciousness|Contemplative practice]] offers another path. Meditation develops the capacity to observe thoughts and impulses without automatic identification. This creates space for non-compulsive response—the gap between stimulus and reaction where choice becomes possible.
 
-Advanced practitioners describe watching intentions arise before endorsing them. This witnessing reveals what ordinarily remains hidden: the difference between having an impulse and being determined by it. From the witness stance, scripted responses become visible as scripts rather than inevitable necessities.
+Advanced practitioners describe watching intentions arise before endorsing them (Lutz et al., 2015; Kabat-Zinn, 1990). This witnessing reveals what ordinarily remains hidden: the difference between having an impulse and being determined by it. From the witness stance, scripted responses become visible as scripts rather than inevitable necessities.
 
 The [[meditation-and-consciousness-modes|choiceless awareness]] cultivated in some traditions isn't passivity but refined attention. It doesn't eliminate choice but reveals choice's structure—including the possibility of choosing otherwise.
 
@@ -169,7 +170,7 @@ This isn't a guarantee of authenticity. Philosophical sophistication can itself 
 
 ## Authentic Choice and Moral Responsibility
 
-The authenticity distinction bears on [[moral-responsibility|moral responsibility]]. If authentic choice engages genuine agency while inauthentic choice runs on automatic processing, the moral significance of each differs.
+The authenticity distinction bears on [[moral-responsibility]]. If authentic choice engages genuine agency while inauthentic choice runs on automatic processing, the moral significance of each differs.
 
 ### Responsibility Requires Authorship
 
@@ -182,6 +183,8 @@ The Map's framework gives this intuition metaphysical grounding. If consciousnes
 If authenticity is a condition for genuine agency, there may be a derivative duty to cultivate it. Remaining in inauthentic mode—never developing the capacity for genuine choice—constitutes a failure to become what human consciousness makes possible.
 
 Existentialists varied on whether authenticity is morally required. Heidegger avoided moralising the distinction; Sartre's ethics of freedom implies that bad faith is a kind of failure. The Map's framework suggests that inauthenticity involves a metaphysical deficit—the underutilisation of consciousness's causal power—whether or not this deficit is morally culpable.
+
+A compatibilist might object that authenticity can be grounded in reflective endorsement without quantum selection: you choose authentically when you act from values you would endorse on reflection, regardless of whether consciousness biases quantum outcomes. The Map acknowledges that phenomenological authenticity may be necessary but not sufficient for genuine selection—authentic-feeling choices could still be determined. But the combination of authentic phenomenology with the Map's causal mechanism provides a fuller account: not merely acting from endorsed values but genuinely selecting among open possibilities.
 
 ## Relation to Site Perspective
 
@@ -227,10 +230,15 @@ The authentic-inauthentic framework would face difficulty if:
 
 ## References
 
-- Heidegger, M. (1927/1962). *Being and Time*. Harper & Row.
-- Sartre, J.-P. (1943/1956). *Being and Nothingness*. Philosophical Library.
-- Sartre, J.-P. (1946). *Existentialism Is a Humanism*.
 - Bergson, H. (1889). *Time and Free Will*. (Essai sur les données immédiates de la conscience)
+- Botvinick, M. M., Braver, T. S., Barch, D. M., Carter, C. S., & Cohen, J. D. (2001). Conflict monitoring and cognitive control. *Psychological Review*, 108(3), 624-652.
+- Cavanagh, J. F., & Frank, M. J. (2014). Frontal theta as a mechanism for cognitive control. *Trends in Cognitive Sciences*, 18(8), 414-421.
 - Crowell, S. (2007). Husserlian phenomenology. In *A Companion to Phenomenology and Existentialism*. Blackwell.
 - Guignon, C. (1984). Heidegger's 'authenticity' revisited. *Review of Metaphysics*, 38(2), 321-339.
+- Haggard, P. (2008). Human volition: Towards a neuroscience of will. *Nature Reviews Neuroscience*, 9(12), 934-946.
+- Heidegger, M. (1927/1962). *Being and Time*. Harper & Row.
+- Kabat-Zinn, J. (1990). *Full Catastrophe Living*. Dell Publishing.
+- Lutz, A., Jha, A. P., Dunne, J. D., & Saron, C. D. (2015). Investigating the phenomenological matrix of mindfulness-related practices from a neurocognitive perspective. *American Psychologist*, 70(7), 632-658.
+- Sartre, J.-P. (1943/1956). *Being and Nothingness*. Philosophical Library.
+- Sartre, J.-P. (1946). *Existentialism Is a Humanism*.
 - Weberman, D. (2000). Sartre's theory of bad faith. *International Journal of Philosophical Studies*, 8(2), 143-175.
