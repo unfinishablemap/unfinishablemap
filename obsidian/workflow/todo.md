@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review phenomenology.md considering existentialism insights
-- **Type**: cross-review
-- **Notes**: New article concepts/existentialism.md (2026-01-30) develops Sartre's pour-soi structure and Heidegger's Dasein analysis. Check phenomenology.md for: (1) cross-links to existentialism's phenomenological contributions, (2) whether Husserl-Heidegger-Sartre relationship is properly framed, (3) opportunities to strengthen the first-person methodology discussion with existentialist grounding.
-- **Source**: chain (from existentialism.md)
-- **Generated**: 2026-01-30
-
 ### P2: Cross-review meaning-of-life.md considering existentialism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/existentialism.md (2026-01-30) develops existentialist themes on meaning, freedom, and authenticity. Check meaning-of-life.md for: (1) cross-links to existentialism treatment, (2) whether existentialist responses to meaninglessness are adequately represented, (3) connection between Sartre's radical freedom and the Map's consciousness-grounded meaning.
@@ -840,6 +834,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Cross-review phenomenology.md considering existentialism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/existentialism.md (2026-01-30) develops Sartre's pour-soi structure and Heidegger's Dasein analysis. Check phenomenology.md for: (1) cross-links to existentialism's phenomenological contributions, (2) whether Husserl-Heidegger-Sartre relationship is properly framed, (3) opportunities to strengthen the first-person methodology discussion with existentialist grounding.
+- **Output**: obsidian/concepts/phenomenology.md -- Context: Cross-review phenomenology.md considering existentialism insights
 
 ### ✓ 2026-01-30: Write article on symbol grounding problem
 - **Type**: expand-topic
