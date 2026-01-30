@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Deep review psychophysical-coupling.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-16, never deep-reviewed. Foundational for psychophysical laws framework—how physical and phenomenal properties are lawfully connected. Should verify: (1) accurate representation of Chalmers's framework, (2) connection to topics/chalmers-psychophysical-coupling.md and topics/psychophysical-laws-framework.md, (3) alignment with Dualism and Bidirectional Interaction tenets.
-- **Source**: staleness
-- **Generated**: 2026-01-30
-
 ### P2: Deep review conscious-vs-unconscious-processing.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Key article for distinguishing what consciousness adds to cognition. Should verify: (1) accuracy of cognitive science claims about priming, implicit learning, blindsight, (2) engagement with global workspace theory's access criteria, (3) connection to consciousness-as-amplifier.md and baseline-cognition.md.
@@ -804,6 +798,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Deep review psychophysical-coupling.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-16, never deep-reviewed. Foundational for psychophysical laws framework—how physical and phenomenal properties are lawfully connected. Should verify: (1) accurate representation of Chalmers's framework, (2) connection to topics/chalmers-psychophysical-coupling.md and topics/psychophysical-laws-framework.md, (3) alignment with Dualism and Bidirectional Interaction tenets.
+- **Output**: obsidian/concepts/psychophysical-coupling.md
 
 ### ✓ 2026-01-30: Write article on experiential alignment objective
 - **Type**: expand-topic
