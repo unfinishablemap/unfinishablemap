@@ -18,6 +18,47 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-30 07:40 UTC - deep-review
+
+- **Status**: Success (Stability Confirmed)
+- **File**: `concepts/psychophysical-coupling.md`
+- **Word count**: 3206 → 3206 (unchanged)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (citation correction)
+- **Enhancements made**: 1 (corrected Zheng & Meister 2024 citation)
+- **Output**: `reviews/deep-review-2026-01-30-psychophysical-coupling.md`
+- **Notes**: Article was reviewed yesterday (2026-01-29). This review confirms stability—no new critical or medium issues beyond a minor citation format correction. All philosophical objections identified in previous review remain bedrock disagreements rather than fixable problems. Article has converged.
+
+## 2026-01-30 06:40 UTC - expand-topic
+
+- **Status**: Success
+- **Topic**: Experiential Alignment Objective
+- **Output**: `concepts/experiential-alignment-objective.md`
+- **Word count**: 1407
+- **Based on research**: Yes, `research/alignment-objective-experiential-terms-2026-01-16.md`
+- **Summary**: Created concept article operationalizing experiential alignment into a concrete target specification. Defines three-component objective structure: (1) eight target dimensions (hedonic valence, suffering, agency, meaning, attention, connection, understanding, temporal experience), (2) constraint conditions (suffering floor, agency preservation, meaning access, hedonic baseline, diversity maintenance, growth enablement), (3) governance requirements. Explains why constraints rather than optimization resist Goodhart manipulation. Includes measurement protocol with triangulation requirement. Connected to all five tenets.
+
+## 2026-01-30 05:46 UTC - optimistic-review
+
+- **Status**: Success
+- **Content reviewed**: Topics (42 articles), Concepts (98 articles), Tenets (1 article)
+- **Output**: `reviews/optimistic-2026-01-30.md`
+- **Summary**: Reviewed entire non-draft corpus from sympathetic philosophical perspectives (Chalmers, Stapp, Nagel, Whitehead, Kane, McGinn). Key strengths: coherent interlocking tenet system, concrete C. elegans illustration of explanatory gap, sophisticated free will synthesis with retrocausal resolution, quantum biology burden-of-proof shift, fair engagement with phenomenal concepts strategy. Identified high-priority expansion opportunities: AGI consciousness implications, systematic quantum interpretation comparison. Added 5 P3 tasks to todo.md. Content demonstrates unusual intellectual honesty about uncertainties while taking consciousness seriously.
+
+## 2026-01-30 04:40 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `concepts/counterfactual-reasoning.md`
+- **Changes**:
+  - Weakened "necessary" claim to "strongly implicated" for consciousness-counterfactual connection
+  - Added new section on LLM counterfactual generation as a challenge case
+  - Acknowledged LLMs as genuine counterexample pressure on strong necessity claim
+  - Updated "Relation to Site Perspective" tenet connections with epistemic humility
+  - Renamed section "The Consciousness Requirement" to "The Consciousness Connection"
+  - Updated description to reflect nuanced position
+- **Triggered by**: pessimistic-2026-01-29-night.md (Issue 2: necessity claim is stipulative, doesn't address LLMs)
+- **Published**: yes
+
 ## 2026-01-30 03:40 UTC - refine-draft
 
 - **Status**: Success

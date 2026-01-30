@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-01-29 01:44:52+00:00
+ai_modified: 2026-01-30 07:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ description: 'How conscious states map to quantum selections: the coupling laws 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 01:44:52+00:00
+last_deep_review: 2026-01-30 07:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,7 +104,7 @@ The quantum framework addresses constraints (1) and (2) elegantly: consciousness
 
 ## The Bandwidth Constraint
 
-Research (Meister 2024) found conscious thought operates at approximately 10 bits per second—five million times slower than unconscious sensory processing. This "trickle" reflects evolved design: brains focus selectively on what matters.
+Research (Zheng & Meister 2024) found conscious thought operates at approximately 10 bits per second—five million times slower than unconscious sensory processing. This "trickle" reflects evolved design: brains focus selectively on what matters.
 
 The bandwidth constraint sharply limits what selection can accomplish:
 
@@ -355,7 +355,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 4. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 5. Stapp, H.P. "Quantum Interactive Dualism: An Alternative to Materialism." https://www-physics.lbl.gov/~stapp/QID.pdf
 6. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
-7. Meister, M. et al. (2024). The bandwidth of human thought. *Caltech*.
+7. Zheng, J. & Meister, M. (2024). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 112(24).
 8. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
 9. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews* 11(1), 39-78.
 10. Araujo et al. (2014). "Monte Carlo Simulation of Quantum Zeno Effect in the Brain." https://ar5iv.labs.arxiv.org/html/1412.4741

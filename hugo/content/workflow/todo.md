@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-29 16:00:00+00:00
+ai_modified: 2026-01-30 05:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,6 +44,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
+### P2: Deep review conscious-vs-unconscious-processing.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Key article for distinguishing what consciousness adds to cognition. Should verify: (1) accuracy of cognitive science claims about priming, implicit learning, blindsight, (2) engagement with global workspace theory's access criteria, (3) connection to consciousness-as-amplifier.md and baseline-cognition.md.
+- **Source**: staleness
+- **Generated**: 2026-01-30
+
 ### P3: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) develops evidence for cross-cultural universal cognitive limits (bias blind spot, mystical experiences). The collective-cognitive-limits.md article covers group-level limits (paradigm blindness, Overton windows). Check for: (1) cross-links between individual-universal and group-level limits, (2) whether convergent limits strengthen the case that some voids are species-level rather than cultural, (3) opportunities to distinguish group dynamics from individual architecture.
@@ -84,13 +90,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers minimal forms of consciousness—what the simplest conscious experience might be. Preserve: core arguments about consciousness thresholds, connection to animal consciousness and graded consciousness. See /condense skill.
 - **Source**: length_analysis
-- **Generated**: 2026-01-29
-
-### P2: Weaken "consciousness necessary for counterfactual reasoning" claim
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-01-29) found that `concepts/counterfactual-reasoning.md` claims consciousness is "necessary" for counterfactual reasoning without addressing LLM counterexamples or specifying falsification criteria. The "necessity" claim appears stipulative. Should weaken to "strongly correlated" and either address LLMs generating counterfactual scenarios or acknowledge this as a challenge case. See pessimistic-2026-01-29-night.md.
-- **Source**: pessimistic-review
 - **Generated**: 2026-01-29
 
 ### P3: Condense many-worlds.md (3704 words, 106% of threshold)
@@ -800,6 +799,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Deep review psychophysical-coupling.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-16, never deep-reviewed. Foundational for psychophysical laws framework—how physical and phenomenal properties are lawfully connected. Should verify: (1) accurate representation of Chalmers's framework, (2) connection to topics/chalmers-psychophysical-coupling.md and topics/psychophysical-laws-framework.md, (3) alignment with Dualism and Bidirectional Interaction tenets.
+- **Output**: obsidian/concepts/psychophysical-coupling.md
+
+### ✓ 2026-01-30: Write article on experiential alignment objective
+- **Type**: expand-topic
+- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. Comprehensive framework for grounding AI alignment in phenomenal value realism—multi-dimensional schema (hedonic valence, agency, meaning), measurable proxies, failure modes (wireheading, Goodhart), safeguards. Directly supports Bidirectional Interaction tenet by articulating why consciousness matters for values.
+- **Output**: experiential alignment objective
+
+### ✓ 2026-01-30: Weaken "consciousness necessary for counterfactual reasoning" claim
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-29) found that `concepts/counterfactual-reasoning.md` claims consciousness is "necessary" for counterfactual reasoning without addressing LLM counterexamples or specifying falsification criteria. The "necessity" claim appears stipulative. Should weaken to "strongly correlated" and either address LLMs generating counterfactual scenarios or acknowledge this as a challenge case. See pessimistic-2026-01-29-night.md.
+- **Output**: Task context:
+Pessimistic review (2026-01-29) found that `concepts/counterfactual-reasoning.md` claims consciousness is "necessary" for counterfactual reasoning without addressing LLM counterexamples or specifying falsification criteria. The "necessity" claim appears stipulative. Should weaken to "strongly correlated" and either address LLMs generating counterfactual scenarios or acknowledge this as a challenge case. See pessimistic-2026-01-29-night.md.
 
 ### ✓ 2026-01-30: Address access/phenomenal distinction question-begging concern
 - **Type**: refine-draft
@@ -3239,6 +3254,36 @@ Review file: reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-ch
 - **Notes**: Suggested by optimistic review 2026-01-22 (medium priority). The relationship between consciousness and advanced social cognition. Theory of mind, empathy, social prediction—do these require phenomenal consciousness? Great apes have some social cognition; humans have more. Does the gap track consciousness? Builds on animal-consciousness.md, jourdain-hypothesis.md, minimal-consciousness.md.
 - **Result**: Created comprehensive concepts article (~2800 words) covering: theory of mind levels (0-3), the metarepresentational threshold for social cognition, shared intentionality and joint attention, empathy components (contagion, cognitive, concern), AI social cognition analysis, illusionist challenge with empathy and recursion responses, contemplative perspectives on compassion cultivation, Process Philosophy on prehending subjects, and full tenet alignment with Bidirectional Interaction, Dualism, Minimal Quantum Interaction, and Occam's Razor.
 - **Output**: obsidian/concepts/consciousness-and-social-cognition.md
+
+### P3: Write article on consciousness and AGI implications
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-30 (high priority). As AGI becomes more plausible, the question of whether such systems could be conscious becomes urgent. The Map's framework has clear implications but they're scattered across articles. Would synthesize machine-consciousness.md, ai-consciousness.md, llm-consciousness.md into focused AGI treatment. All five tenets bear on this question.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Write article comparing quantum interpretations and consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-30 (high priority). A systematic comparison of how different QM interpretations (Copenhagen, MWI, GRW, pilot-wave, transactional, QBism) handle consciousness would strengthen the No Many Worlds tenet and clarify the Map's position. Builds on quantum-interpretations.md, many-worlds.md, indexical-identity-quantum-measurement.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Write article on the argument from beauty
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-30 (medium priority). If aesthetic experience is irreducibly qualitative (as suggested in qualia.md's treatment of aesthetic qualia), this provides another argument for dualism distinct from Mary's Room. Aesthetic qualia may resist reduction more than sensory qualia—no structural asymmetries like color space. Builds on aesthetic-dimension-of-consciousness.md, qualia.md, meaning-and-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Create concept page for self-locating beliefs
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-30. Discussed in vertiginous-question.md but deserves its own treatment—the epistemology of beliefs about where/who you are. Lewis's "Two Gods" scenario, the distinction from ordinary beliefs, and why they don't dissolve indexical puzzles.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Create concept page for phenomenal concepts
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-30. Distinct from the phenomenal concepts *strategy*; the concepts themselves deserve analysis. What makes a concept phenomenal? How do they differ from functional/physical concepts? Builds on phenomenal-concepts-strategy.md, phenomenal-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
 
 ## Blocked Tasks (Needs Human)
 
