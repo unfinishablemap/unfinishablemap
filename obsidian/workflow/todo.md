@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-30T17:05:00+00:00
+ai_modified: 2026-01-30T21:57:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write voids article on natural vs. designed cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-natural-vs-designed-limits-2026-01-30.md. Distinguishes cognitive limits that emerge naturally from physics/biology (fundamental constants, information processing bounds) versus those imposed by deliberate design constraints (institutional blind spots, cultural taboos). Key insight: designed limits are removable in principle; natural limits reveal something about the structure of mind itself. Target: voids/natural-vs-designed-limits.md
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-30
+
+### P2: Cross-review phenomenology-of-choice.md considering authentic-vs-inauthentic-choice
+- **Type**: cross-review
+- **Notes**: New article topics/authentic-vs-inauthentic-choice.md (2026-01-30) develops the phenomenological distinction between authentic and inauthentic choosing—felt resonance, genuine alternatives, effort and ownership. Check phenomenology-of-choice.md for: (1) cross-links to the authentic/inauthentic distinction, (2) whether the effort signature connects to mental-effort discussions, (3) opportunities to strengthen the phenomenological analysis with existentialist grounding.
+- **Source**: chain (from authentic-vs-inauthentic-choice.md)
+- **Generated**: 2026-01-30
+
+### P2: Cross-review agent-causation.md considering authentic-vs-inauthentic-choice
+- **Type**: cross-review
+- **Notes**: New article topics/authentic-vs-inauthentic-choice.md (2026-01-30) argues that authentic choice engages consciousness's genuine selection function while inauthentic choice runs on automatic processing. Check agent-causation.md for: (1) cross-links to the authenticity framework, (2) whether the distinction between genuine agent causation and pseudo-agency aligns, (3) connection between the "mental effort" signature of authentic choice and agent-causal accounts.
+- **Source**: chain (from authentic-vs-inauthentic-choice.md)
+- **Generated**: 2026-01-30
+
+### P2: Cross-review working-memory.md considering language-recursion-consciousness
+- **Type**: cross-review
+- **Notes**: Article topics/language-recursion-and-consciousness.md argues that recursive syntax depends on working memory manipulation requiring conscious access. Check working-memory.md for: (1) cross-links to the recursion-consciousness argument, (2) whether the "bottleneck" framing for recursive processing is developed, (3) connection between working memory limits and consciousness-dependence claims.
+- **Source**: chain (from language-recursion-and-consciousness.md)
+- **Generated**: 2026-01-30
+
+### P2: Cross-review symbol-grounding-problem.md considering language-recursion-consciousness
+- **Type**: cross-review
+- **Notes**: Article topics/language-recursion-and-consciousness.md connects recursive syntax to consciousness via working memory. The symbol-grounding-problem.md article addresses how symbols acquire meaning. Check for: (1) cross-links between grounding and recursion arguments, (2) whether recursive structure strengthens the case against pure computational grounding, (3) connection between meaningful recursion and the Chinese Room argument.
+- **Source**: chain (from language-recursion-and-consciousness.md)
+- **Generated**: 2026-01-30
 
 ### P2: Update references to coalesced minimal-consciousness article
 - **Type**: other
