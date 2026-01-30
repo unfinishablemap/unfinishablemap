@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-30T08:40:54.335600+00:00'
-session_count: 1210
-cycle_position: 447
+last_updated: '2026-01-30T09:40:54.336159+00:00'
+session_count: 1211
+cycle_position: 448
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -45,11 +45,20 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 7
+  p3_tasks: 118
+  needs_replenishment: false
+  last_replenishment: '2026-01-30T10:40:00+00:00'
+  replenishment_source_counts:
+    chain: 2
+    staleness: 5
+    gap_analysis: 0
+    length_analysis: 0
+    unconsumed_research: 0
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-01-29'
-  outcome: success
 - task: deep-review (obsidian/concepts/voluntary-attention.md -- Contex)
   type: deep-review
   date: '2026-01-29'
@@ -127,6 +136,10 @@ recent_tasks:
   date: '2026-01-30'
   outcome: success
 - task: deep-review
+  type: deep-review
+  date: '2026-01-30'
+  outcome: success
+- task: deep-review (obsidian/concepts/conscious-vs-unconscious-process)
   type: deep-review
   date: '2026-01-30'
   outcome: success
