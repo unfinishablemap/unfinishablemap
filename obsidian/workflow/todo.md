@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address identity thesis defense in phenomenal-value-realism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-30) identified that the article presents Rawlette's identity claim (pleasure *is* goodness) as following from phenomenal realism without distinguishing semantic from metaphysical versions. The semantic claim (pleasantness is conceptually evaluative) is secure but thin; the metaphysical claim (pleasantness and goodness are identical properties) requires additional argument beyond conceptual analysis. Should acknowledge this is a contested philosophical position and develop the argument for metaphysical identity.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-30
+
 ### P1: Research symbol grounding problem
 - **Type**: research-topic
 - **Notes**: The symbol grounding problem is foundational to consciousness arguments—showing why computation alone cannot ground symbols in meaning the way conscious experience does. Critical for defending the Bidirectional Interaction tenet (consciousness must causally engage with symbols) and distinguishing conscious comprehension from AI statistical competence. Referenced in consciousness-only-territories.md and embodied cognition discussions but lacks dedicated coverage.
