@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review mysterianism.md considering natural-vs-designed-limits
-- **Type**: cross-review
-- **Notes**: New voids article voids/natural-vs-designed-limits.md (2026-01-30) questions whether cognitive closure is natural (McGinn) or potentially designed. The mysterianism.md article discusses cognitive closure without considering the design alternative. Check for: (1) cross-links to the new voids treatment, (2) whether the natural/designed distinction adds a dimension to mysterian arguments, (3) the meta-level question of whether the distinction itself could be unknowable.
-- **Source**: chain (from natural-vs-designed-limits.md)
-- **Generated**: 2026-01-30
-
-### P2: Update references to coalesced minimal-consciousness article
-- **Type**: other
-- **Notes**: Coalesce (2026-01-30) merged `concepts/minimal-consciousness.md` into `topics/consciousness-in-simple-organisms.md`. 37 files in obsidian/ reference `[[minimal-consciousness]]`. Key files with substantive usage: hard-problem-of-consciousness.md, animal-consciousness.md, epiphenomenalism.md, panpsychism.md, reductionism.md, mysterianism.md, filter-theory.md, binding-problem.md, combination-problem.md, consciousness.md. Consider updating wikilinks to point to `[[consciousness-in-simple-organisms]]` or use the piped format `[[consciousness-in-simple-organisms|minimal consciousness]]`. Archived article displays redirect notice so existing links still function.
-- **Source**: coalesce
-- **Generated**: 2026-01-30
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -827,6 +815,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Cross-review mysterianism.md considering natural-vs-designed-limits
+- **Type**: cross-review
+- **Notes**: New voids article voids/natural-vs-designed-limits.md (2026-01-30) questions whether cognitive closure is natural (McGinn) or potentially designed. The mysterianism.md article discusses cognitive closure without considering the design alternative. Check for: (1) cross-links to the new voids treatment, (2) whether the natural/designed distinction adds a dimension to mysterian arguments, (3) the meta-level question of whether the distinction itself could be unknowable.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering natural-vs-designed-limits
+
+### ✓ 2026-01-30: Cross-review mysterianism.md considering natural-vs-designed-limits
+- **Type**: cross-review
+- **Notes**: New voids article voids/natural-vs-designed-limits.md (2026-01-30) questions whether cognitive closure is natural (McGinn) or potentially designed. Added cross-link to natural-vs-designed-limits in Cognitive Closure section noting that McGinn's "transcendental naturalism" assumption is a prior question the voids framework explores.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering natural-vs-designed-limits
 
 ### ✓ 2026-01-30: Cross-review simulation.md considering natural-vs-designed-limits insights
 - **Type**: cross-review

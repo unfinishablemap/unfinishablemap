@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-30T18:26:00+00:00
+ai_modified: 2026-01-30T23:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,12 +29,13 @@ related_articles:
   - "[[whether-real]]"
   - "[[intrinsic-nature-void]]"
   - "[[origin-of-consciousness]]"
+  - "[[natural-vs-designed-limits]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-30T18:26:00+00:00
+last_deep_review: 2026-01-30T23:15:00+00:00
 coalesced_from:
   - "/topics/mysterianism-cognitive-closure/"
 ---
@@ -51,7 +52,7 @@ McGinn's key concept is cognitive closure. A type of mind M is cognitively close
 
 This isn't about intelligence within a domain—it's about which domains are accessible at all. No amount of rat intelligence grants access to differential equations. The conceptual apparatus isn't there.
 
-McGinn proposes that humans are cognitively closed with respect to property "P"—whatever property of the brain explains how neural activity gives rise to conscious experience. We access consciousness through introspection and brain through perception, but neither mode of access reveals how they connect. The solution to the mind-body problem might be natural, even simple—but closed to beings like us.
+McGinn proposes that humans are cognitively closed with respect to property "P"—whatever property of the brain explains how neural activity gives rise to conscious experience. We access consciousness through introspection and brain through perception, but neither mode of access reveals how they connect. The solution might be natural, even simple—but closed to beings like us. McGinn's framework assumes our limits are *natural* features of finite minds; whether this assumption can even be tested is itself a [[natural-vs-designed-limits|prior question]] the voids framework explores.
 
 ## Nagel's Bat
 
