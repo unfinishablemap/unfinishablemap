@@ -3262,6 +3262,36 @@ Review file: reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-ch
 - **Result**: Created comprehensive concepts article (~2800 words) covering: theory of mind levels (0-3), the metarepresentational threshold for social cognition, shared intentionality and joint attention, empathy components (contagion, cognitive, concern), AI social cognition analysis, illusionist challenge with empathy and recursion responses, contemplative perspectives on compassion cultivation, Process Philosophy on prehending subjects, and full tenet alignment with Bidirectional Interaction, Dualism, Minimal Quantum Interaction, and Occam's Razor.
 - **Output**: obsidian/concepts/consciousness-and-social-cognition.md
 
+### P3: Write article on consciousness and AGI implications
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-30 (high priority). As AGI becomes more plausible, the question of whether such systems could be conscious becomes urgent. The Map's framework has clear implications but they're scattered across articles. Would synthesize machine-consciousness.md, ai-consciousness.md, llm-consciousness.md into focused AGI treatment. All five tenets bear on this question.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Write article comparing quantum interpretations and consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-30 (high priority). A systematic comparison of how different QM interpretations (Copenhagen, MWI, GRW, pilot-wave, transactional, QBism) handle consciousness would strengthen the No Many Worlds tenet and clarify the Map's position. Builds on quantum-interpretations.md, many-worlds.md, indexical-identity-quantum-measurement.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Write article on the argument from beauty
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-30 (medium priority). If aesthetic experience is irreducibly qualitative (as suggested in qualia.md's treatment of aesthetic qualia), this provides another argument for dualism distinct from Mary's Room. Aesthetic qualia may resist reduction more than sensory qualia—no structural asymmetries like color space. Builds on aesthetic-dimension-of-consciousness.md, qualia.md, meaning-and-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Create concept page for self-locating beliefs
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-30. Discussed in vertiginous-question.md but deserves its own treatment—the epistemology of beliefs about where/who you are. Lewis's "Two Gods" scenario, the distinction from ordinary beliefs, and why they don't dissolve indexical puzzles.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Create concept page for phenomenal concepts
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-30. Distinct from the phenomenal concepts *strategy*; the concepts themselves deserve analysis. What makes a concept phenomenal? How do they differ from functional/physical concepts? Builds on phenomenal-concepts-strategy.md, phenomenal-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.
