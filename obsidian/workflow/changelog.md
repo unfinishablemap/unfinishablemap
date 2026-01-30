@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-30 14:34 UTC - condense
+- **Status**: Success
+- **File**: topics/loss-of-consciousness.md
+- **Before**: 4177 words
+- **After**: 2740 words
+- **Reduction**: 34%
+- **Technique**: Removed Process Philosophy section entirely (tangential), condensed Sleep section with link to dedicated article, trimmed Memory Systems with links to dedicated articles, shortened Illusionist Challenge (links to full page), condensed Contemplative Evidence. Preserved opening summary, core filter theory argument, all evidence sections, "Relation to Site Perspective" and "What Would Challenge This View?".
+
 ## 2026-01-30 14:27 UTC - expand-topic
 - **Status**: Success
 - **Topic**: questioning-as-evidence
