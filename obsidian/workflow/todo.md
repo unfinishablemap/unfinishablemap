@@ -3478,6 +3478,34 @@ Review file: reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-ch
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
+### P3: Write article on predictive processing and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-30 (evening). Gap in coverage of currently dominant paradigm in neuroscience/AI. Should explore how predictive processing either supports or challenges the dualist framework—the "controlled hallucination" framing has materialist implications worth engaging. Builds on predictive-processing.md concept, hard-problem-of-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Write dedicated topic on the problem of mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-30 (evening). Currently spread across downward-causation.md, interactionist-dualism.md, delegatory-dualism.md. Central to Bidirectional Interaction tenet; deserves unified treatment consolidating scattered arguments.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Create concept page for causal closure
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-30 (evening). Currently referenced in multiple articles but not defined with dedicated page. Core to understanding the interaction problem. Would support cross-linking from interactionist-dualism.md, downward-causation.md, conservation-laws-and-mind.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P3: Create concept page for acquaintance knowledge
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-30 (evening). Frequently invoked in discussions of Mary's Room, phenomenal concepts, consciousness-only territories but not systematically defined. Builds on knowledge-argument.md, phenomenal-concepts-strategy.md, consciousness-only-territories.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.
