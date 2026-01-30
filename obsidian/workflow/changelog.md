@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-30 12:04 UTC - deep-review
+
+- **Status**: Success
+- **File**: `concepts/agent-causation.md`
+- **Word count**: 1893 → 1910 (+17)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2
+- **Output**: `reviews/deep-review-2026-01-30-agent-causation.md`
+- **Notes**: Second review of this article (previous: 2026-01-20). Softened unsupported "~60%" prediction accuracy claim. Added [[explanatory-gap]] cross-link to frontmatter and Further Reading. Article has stabilized—no critical issues, bedrock philosophical disagreements acknowledged in stability notes. At 76% of soft threshold, well within limits.
+
 ## 2026-01-30 11:54 UTC - deep-review
 
 - **Status**: Success

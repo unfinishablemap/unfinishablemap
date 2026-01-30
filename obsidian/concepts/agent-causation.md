@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly, not
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-30T12:04:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -25,6 +25,7 @@ concepts:
   - "[[downward-causation]]"
   - "[[mental-causation]]"
   - "[[phenomenology-of-choice]]"
+  - "[[explanatory-gap]]"
 related_articles:
   - "[[tenets]]"
   - "[[agent-causation-libertarian-free-will-2026-01-14]]"
@@ -35,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-20T10:00:00+00:00
+last_deep_review: 2026-01-30T12:04:00+00:00
 ---
 
 Agent causation holds that conscious agents—understood as persisting substances rather than collections of events—directly cause their actions. The agent is the causal source, not reducible to prior mental events like beliefs and desires. This positions agents as initiators of causal chains, not merely links in chains that stretch back before their existence.
@@ -135,7 +136,7 @@ Whitehead's process philosophy offers complementary support: if all causation in
 
 Agent causation is falsifiable. Key challenges:
 
-- **Complete neural prediction**: 100% accuracy predicting decisions from prior brain states would leave no gap. Current accuracy (~60%) leaves room.
+- **Complete neural prediction**: 100% accuracy predicting decisions from prior brain states would leave no gap. Current prediction accuracy remains well below this threshold, leaving substantial room for consciousness-selection.
 - **Elimination of neural quantum effects**: If quantum coherence were excluded in brain tissue, the interface mechanism fails. Quantum biology suggests effects are more robust than expected.
 - **Dissociation of effort and outcome**: If effort didn't correlate with decision difficulty, phenomenological support collapses. Current evidence shows correlation.
 - **No willed/instructed distinction**: If neural signatures were identical, the claim consciousness adds something would weaken. Research robustly distinguishes them.
@@ -165,6 +166,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 - [[attention-as-interface]] — Attention as causal pathway
 - [[implicit-memory]] — Skill delegation and choking phenomenon
 - [[decoherence]] — The decoherence challenge
+- [[explanatory-gap]] — Why physical description leaves consciousness unexplained
 
 ## References
 
