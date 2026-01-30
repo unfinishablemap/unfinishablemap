@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Cross-review free-will.md considering existentialism insights
-- **Type**: cross-review
-- **Notes**: New article concepts/existentialism.md (2026-01-30) develops Sartre's radical freedom, the phenomenology of mental effort, and authentic choice—all directly relevant to the free-will.md treatment of libertarian agency. Check free-will.md for: (1) cross-links to the existentialism treatment of freedom, (2) whether Sartre's pour-soi analysis strengthens the phenomenology of choice section, (3) connection between existentialist authenticity and the three-level agency structure (selecting, witnessing, meta-level).
-- **Source**: chain (from existentialism.md)
-- **Generated**: 2026-01-30
-
 ### P2: Cross-review idealism.md considering existentialism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/existentialism.md (2026-01-30) discusses the relation between existentialism and idealism—both take consciousness seriously, both resist reduction. The idealism.md article notes "if forced to choose between idealism and physicalism, the Map would choose idealism." Check idealism.md for: (1) cross-links to existentialist anti-reductionism, (2) whether Heidegger's critique of the subject-object split enriches the idealism discussion, (3) consistency in how both articles treat consciousness as irreducible.
@@ -857,6 +851,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Cross-review free-will.md considering existentialism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/existentialism.md (2026-01-30) develops Sartre's radical freedom, the phenomenology of mental effort, and authentic choice—all directly relevant to the free-will.md treatment of libertarian agency. Check free-will.md for: (1) cross-links to the existentialism treatment of freedom, (2) whether Sartre's pour-soi analysis strengthens the phenomenology of choice section, (3) connection between existentialist authenticity and the three-level agency structure (selecting, witnessing, meta-level).
+- **Output**: obsidian/topics/free-will.md -- Context: Cross-review free-will.md considering existentialism insights
 
 ### ✓ 2026-01-30: Update mental-causation.md with delegation and preemption framework
 - **Type**: cross-review
