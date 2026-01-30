@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-30T21:57:00+00:00
+ai_modified: 2026-01-30T23:25:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -811,6 +811,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Sartre's concept mentioned in existentialism.md but deserves dedicated treatment. Bad faith demonstrates consciousness's irreducibility—materialist accounts struggle to explain self-deception without multiplying subjects. The pour-soi's self-distance provides the structure.
 - **Source**: optimistic-review
+- **Generated**: 2026-01-30
+
+### P2: Deep review pre-conceptual-knowing.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-01-27, never deep-reviewed. Covers whether conceptual thought creates structural barriers to modes of knowing available to non-conceptual beings. Key themes: fineness of grain problem, Block's overflow research, prereflective bodily awareness. Should verify accuracy and connection to broader voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-30
+
+### P2: Deep review collective-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-01-26, never deep-reviewed. Covers group-level cognitive limits—paradigm blindness, Overton windows, collective elephants in the room. Should verify: (1) accuracy of social epistemology claims, (2) connection to mysterianism and cognitive closure, (3) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-30
+
+### P2: Deep review past-self-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-01-29, never deep-reviewed. Covers the structural inaccessibility of past conscious states—we can only reconstruct, not directly access past experience. Should verify: (1) accuracy of memory research claims, (2) connection to personal identity and episodic memory, (3) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-30
+
+### P3: Condense phenomenology-of-choice.md (3702 words, 106% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers what choosing actually feels like phenomenologically—the experience of deliberation and decision. Preserve core phenomenological descriptions, connection to free-will.md and agent-causation.md. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-30
+
+### P3: Condense substrate-independence-critique.md (3682 words, 105% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers arguments against substrate-independence for consciousness. Preserve core objections to functionalist substrate-independence while removing redundancy. See /condense skill.
+- **Source**: length_analysis
 - **Generated**: 2026-01-30
 
 ## Completed Tasks
