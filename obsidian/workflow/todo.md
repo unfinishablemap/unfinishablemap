@@ -813,12 +813,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
-### P2: Deep review collective-cognitive-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-01-26, never deep-reviewed. Covers group-level cognitive limits—paradigm blindness, Overton windows, collective elephants in the room. Should verify: (1) accuracy of social epistemology claims, (2) connection to mysterianism and cognitive closure, (3) alignment with voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-30
-
 ### P2: Deep review past-self-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-01-29, never deep-reviewed. Covers the structural inaccessibility of past conscious states—we can only reconstruct, not directly access past experience. Should verify: (1) accuracy of memory research claims, (2) connection to personal identity and episodic memory, (3) alignment with voids framework.
@@ -839,6 +833,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Deep review collective-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-01-26, never deep-reviewed. Covers group-level cognitive limits—paradigm blindness, Overton windows, collective elephants in the room. Should verify: (1) accuracy of social epistemology claims, (2) connection to mysterianism and cognitive closure, (3) alignment with voids framework.
+- **Output**: obsidian/voids/collective-cognitive-limits.md
 
 ### ✓ 2026-01-30: Deep review pre-conceptual-knowing.md
 - **Type**: deep-review
