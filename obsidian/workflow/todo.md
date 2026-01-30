@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review questioning-as-evidence.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), created 2026-01-30, never deep-reviewed. Covers the meta-insight that beings exist who can conceive of their own cognitive boundaries—connecting Heidegger's Dasein analysis, Socratic recognition of ignorance, and Chomsky's mysteries/problems distinction. Should verify: (1) accuracy of philosophical positions, (2) whether the meta-argument is sound, (3) connection to mysterianism.md and limits-reveal-structure.md, (4) alignment with voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-30
-
 ### P2: Update references to coalesced minimal-consciousness article
 - **Type**: other
 - **Notes**: Coalesce (2026-01-30) merged `concepts/minimal-consciousness.md` into `topics/consciousness-in-simple-organisms.md`. 37 files in obsidian/ reference `[[minimal-consciousness]]`. Key files with substantive usage: hard-problem-of-consciousness.md, animal-consciousness.md, epiphenomenalism.md, panpsychism.md, reductionism.md, mysterianism.md, filter-theory.md, binding-problem.md, combination-problem.md, consciousness.md. Consider updating wikilinks to point to `[[consciousness-in-simple-organisms]]` or use the piped format `[[consciousness-in-simple-organisms|minimal consciousness]]`. Archived article displays redirect notice so existing links still function.
@@ -827,6 +821,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Deep review questioning-as-evidence.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), created 2026-01-30, never deep-reviewed. Covers the meta-insight that beings exist who can conceive of their own cognitive boundaries—connecting Heidegger's Dasein analysis, Socratic recognition of ignorance, and Chomsky's mysteries/problems distinction. Should verify: (1) accuracy of philosophical positions, (2) whether the meta-argument is sound, (3) connection to mysterianism.md and limits-reveal-structure.md, (4) alignment with voids framework.
+- **Output**: obsidian/voids/questioning-as-evidence.md
 
 ### ✓ 2026-01-30: Deep review convergent-cognitive-limits.md
 - **Type**: deep-review
