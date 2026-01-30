@@ -4,7 +4,7 @@ description: "A-theory versus B-theory, presentism, eternalism, and the growing 
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-30T20:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-01-20T16:45:00+00:00
+last_deep_review: 2026-01-30T20:35:00+00:00
 ---
 
 Philosophy of time asks fundamental questions about time's nature: Does the past exist? Is there an objective present? Does time flow, or is "flow" an illusion? These questions matter for consciousness because the relationship between subjective temporal experience and physical time remains deeply puzzling. If consciousness participates in [[collapse-and-time|quantum collapse]]—and collapse introduces time's arrow—then consciousness may be implicated in the structure of time itself, not merely a passenger traveling through it.
@@ -149,7 +149,7 @@ Three responses preserve the framework:
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] might dismiss temporal phenomenology as mere representation without metaphysical import. If there's nothing it's *really* like to experience time's flow—if the sense of temporal becoming is an introspective illusion—then consciousness needn't be constitutive of time. The B-theory eternalist block could exist unchanged, with our sense of flow being a persistent representational error.
+[[illusionism|Illusionists]] argue that what needs explaining isn't temporal experience but why we *report* temporal experience—the seeming itself is the explanandum, not something pointing to deeper phenomenology. If the sense of temporal becoming is a cognitive/functional phenomenon rather than irreducible phenomenology, consciousness needn't be constitutive of time. The B-theory eternalist block could exist unchanged, with our sense of flow being a persistent representational error.
 
 The framework offers three responses:
 
@@ -211,7 +211,7 @@ The framework makes commitments that could be empirically challenged:
 
 **4. Contemplative contradictions.** If trained contemplatives systematically reported that temporal experience doesn't vary with modes of attention—if cessation included normal time perception, or witness consciousness felt accelerated—phenomenological support would fail. Current contemplative consensus aligns with predictions.
 
-**5. Decoherence conclusively rules out neural quantum effects.** If experiments definitively demonstrated no quantum effects survive in neural tissue at any relevant timescale, the physical basis would fail. Current evidence is mixed but increasingly favourable to biological quantum effects.
+**5. Decoherence conclusively rules out neural quantum effects.** If experiments definitively demonstrated no quantum effects survive in neural tissue at any relevant timescale, the physical basis would fail. Current evidence remains contested, with examples like avian magnetoreception suggesting biological quantum effects are possible but neural applications uncertain.
 
 ## Relation to Site Perspective
 
