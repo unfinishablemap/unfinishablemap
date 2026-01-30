@@ -17,6 +17,20 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-30 04:40 UTC - refine-draft
+
+- **Status**: Success
+- **File**: `concepts/counterfactual-reasoning.md`
+- **Changes**:
+  - Weakened "necessary" claim to "strongly implicated" for consciousness-counterfactual connection
+  - Added new section on LLM counterfactual generation as a challenge case
+  - Acknowledged LLMs as genuine counterexample pressure on strong necessity claim
+  - Updated "Relation to Site Perspective" tenet connections with epistemic humility
+  - Renamed section "The Consciousness Requirement" to "The Consciousness Connection"
+  - Updated description to reflect nuanced position
+- **Triggered by**: pessimistic-2026-01-29-night.md (Issue 2: necessity claim is stipulative, doesn't address LLMs)
+- **Published**: yes
+
 ## 2026-01-30 03:40 UTC - refine-draft
 
 - **Status**: Success

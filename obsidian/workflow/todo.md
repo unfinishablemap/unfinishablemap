@@ -85,13 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-01-29
 
-### P2: Weaken "consciousness necessary for counterfactual reasoning" claim
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-01-29) found that `concepts/counterfactual-reasoning.md` claims consciousness is "necessary" for counterfactual reasoning without addressing LLM counterexamples or specifying falsification criteria. The "necessity" claim appears stipulative. Should weaken to "strongly correlated" and either address LLMs generating counterfactual scenarios or acknowledge this as a challenge case. See pessimistic-2026-01-29-night.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-29
-
 ### P3: Condense many-worlds.md (3704 words, 106% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers many-worlds interpretation arguments relevant to the No Many Worlds tenet. Preserve: core indexical identity objection, connection to quantum-interpretations.md, engagement with Wallace's decision-theoretic argument. See /condense skill.
@@ -799,6 +792,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Weaken "consciousness necessary for counterfactual reasoning" claim
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-29) found that `concepts/counterfactual-reasoning.md` claims consciousness is "necessary" for counterfactual reasoning without addressing LLM counterexamples or specifying falsification criteria. The "necessity" claim appears stipulative. Should weaken to "strongly correlated" and either address LLMs generating counterfactual scenarios or acknowledge this as a challenge case. See pessimistic-2026-01-29-night.md.
+- **Output**: Task context:
+Pessimistic review (2026-01-29) found that `concepts/counterfactual-reasoning.md` claims consciousness is "necessary" for counterfactual reasoning without addressing LLM counterexamples or specifying falsification criteria. The "necessity" claim appears stipulative. Should weaken to "strongly correlated" and either address LLMs generating counterfactual scenarios or acknowledge this as a challenge case. See pessimistic-2026-01-29-night.md.
 
 ### ✓ 2026-01-30: Address access/phenomenal distinction question-begging concern
 - **Type**: refine-draft
