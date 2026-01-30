@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address identity thesis defense in phenomenal-value-realism.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-01-30) identified that the article presents Rawlette's identity claim (pleasure *is* goodness) as following from phenomenal realism without distinguishing semantic from metaphysical versions. The semantic claim (pleasantness is conceptually evaluative) is secure but thin; the metaphysical claim (pleasantness and goodness are identical properties) requires additional argument beyond conceptual analysis. Should acknowledge this is a contested philosophical position and develop the argument for metaphysical identity.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-30
-
 ### P2: Create dedicated existentialism concept article
 - **Type**: expand-topic
 - **Notes**: Existentialism is currently embedded in nihilism-and-existentialism.md but deserves standalone treatment. Sartre's pour-soi structure anticipates the regress problem against illusionism; Heidegger's Dasein analysis prefigures the Map's claim that consciousness cannot be reducible to properties. Multiple deep reviews identified these connections but they remain undeveloped. Would strengthen the Dualism tenet's philosophical grounding.
@@ -816,6 +810,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Address identity thesis defense in phenomenal-value-realism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-30) identified that the article presents Rawlette's identity claim (pleasure *is* goodness) as following from phenomenal realism without distinguishing semantic from metaphysical versions. The semantic claim (pleasantness is conceptually evaluative) is secure but thin; the metaphysical claim (pleasantness and goodness are identical properties) requires additional argument beyond conceptual analysis. Should acknowledge this is a contested philosophical position and develop the argument for metaphysical identity.
+- **Output**: obsidian/concepts/phenomenal-value-realism.md
+
+Task context:
+Pessimistic review (2026-01-30) identified that the article presents Rawlette's identity claim (pleasure *is* goodness) as following from phenomenal realism without distinguishing semantic from metaphysical versions. The semantic claim (pleasantness is conceptually evaluative) is secure but thin; the metaphysical claim (pleasantness and goodness are identical properties) requires additional argument beyond conceptual analysis. Should acknowledge this is a contested philosophical position and develop the argument for metaphysical identity.
 
 ### ✓ 2026-01-30: Research symbol grounding problem
 - **Type**: research-topic

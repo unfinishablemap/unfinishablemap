@@ -4,7 +4,7 @@ description: "The metaethical view that intrinsic value is a feature of consciou
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-30T11:54:00+00:00
+ai_modified: 2026-01-30T15:40:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -43,9 +43,31 @@ The Unfinishable Map is committed to a version of phenomenal value realism: cons
 
 Sharon Hewitt Rawlette, in *The Feeling of Value* (2016), develops the most systematic defense. Her thesis: "When we feel pleasure, we are feeling intrinsic goodness itself." Pleasantness and intrinsic goodness are identical—not merely correlated.
 
-This is an identity claim stronger than typical defenses of hedonism. Hedonists often argue pleasure causes or indicates value. Rawlette argues pleasure *is* value. The experiential quality of joy, satisfaction, or delight just is what we mean by "intrinsically good." The experiential quality of agony, suffering, or distress just is what we mean by "intrinsically bad."
+This identity claim is stronger than typical defenses of hedonism. Hedonists often argue pleasure causes or indicates value. Rawlette argues pleasure *is* value. The experiential quality of joy, satisfaction, or delight just is what we mean by "intrinsically good." The experiential quality of agony, suffering, or distress just is what we mean by "intrinsically bad."
 
-She calls this **analytic hedonism**: the claim is analytic—true in virtue of what the terms mean—rather than a synthetic discovery.
+### Semantic vs. Metaphysical Identity
+
+This claim admits two interpretations that must be distinguished:
+
+**The semantic claim**: Pleasantness is conceptually evaluative. To fully grasp what "pleasant" means is to grasp that it involves positive evaluation. Someone who says "this is pleasant but there's nothing good about it" either means something non-standard by "pleasant" or hasn't fully understood the concept.
+
+**The metaphysical claim**: Pleasantness and intrinsic goodness are the same property—not two properties that happen to coincide, but one property under two descriptions. When you experience pleasure, you directly instantiate goodness itself.
+
+The semantic claim is relatively secure. Conceptual analysis reveals that evaluative content is built into hedonic concepts. But semantic necessity doesn't automatically yield metaphysical identity. "Water" and "H₂O" were discovered to be identical through empirical investigation, not conceptual analysis. Could "pleasantness" and "goodness" be conceptually linked yet metaphysically distinct?
+
+Rawlette's **analytic hedonism** holds that the connection is tighter than the water-H₂O case: the identity is analytic—true in virtue of what the terms mean—rather than a synthetic discovery. This is a contested position in metaethics. Critics argue that even if we can't coherently deny pleasure's goodness, this might reflect conceptual connections rather than property identity.
+
+### The Case for Metaphysical Identity
+
+Three considerations support the stronger metaphysical reading:
+
+**Phenomenological transparency**: Unlike the water-H₂O case, we have direct access to both relata. When experiencing pleasure, we don't infer its goodness from theoretical considerations—the goodness is manifest in the experience itself. The pleasure doesn't *cause* or *indicate* goodness; attending to the pleasure just is attending to something good. This direct acquaintance suggests we're not dealing with two properties but one.
+
+**No residual question**: For genuinely distinct properties, we can always ask "granted X, why Y?" Even knowing water is H₂O, we can ask why H₂O has water's macroscopic properties (and the answer involves physics). But once you fully attend to what pleasure feels like—not abstractly, but in lived experience—there's no residual question "but why is this good?" The question dissolves because the goodness is constitutive of what you're attending to.
+
+**Explanatory asymmetry**: If pleasantness and goodness were distinct, we'd need an explanation of why they invariably coincide. What mechanism ensures that every pleasant experience is good? The identity thesis eliminates this explanatory burden: they coincide because they're the same thing.
+
+The Map acknowledges this remains a contested philosophical position. The metaphysical identity claim goes beyond what conceptual analysis alone can establish. But the phenomenological considerations—particularly the transparency of value in experience—provide independent grounds for the identity, not merely the conceptual link.
 
 ### The Is-Ought Bridge
 
@@ -56,7 +78,9 @@ A distinctive feature of this view: it claims to dissolve the traditional is-oug
 
 then normativity exists within the empirical world. The badness of pain isn't added to pain by moral judgment; it's intrinsic to what pain *is*.
 
-The coherence test: "pleasant feelings are intrinsically bad" would be incoherent—it would suggest the speaker means something different by "pleasant" than we do. If you genuinely understood what pleasant means, you couldn't coherently deny its goodness.
+This bridge depends on the metaphysical identity claim. If pleasantness and goodness are merely conceptually linked (the semantic reading), the is-ought gap might persist: the concepts connect, but the normative property might still be something over and above the descriptive phenomenal property. The stronger metaphysical reading—that they're the same property—is what genuinely dissolves the gap.
+
+The coherence test: "pleasant feelings are intrinsically bad" would be incoherent—it would suggest the speaker means something different by "pleasant" than we do. If you genuinely understood what pleasant means, you couldn't coherently deny its goodness. This test supports the semantic claim directly and the metaphysical claim indirectly (via the transparency and explanatory considerations above).
 
 ## The Map's Position: Phenomenal Value Pluralism
 
@@ -141,7 +165,11 @@ The [[meaning-of-life]] article's central claim—that conscious experience grou
 
 G.E. Moore argued that for any natural property N, we can coherently ask "X is N, but is it good?" This suggests goodness isn't identical to any natural property.
 
-**Response**: The open question feels open because we're confused about concepts, not because goodness is a separate property. When we really understand what pleasantness is—when we attend to its phenomenal character—we see that goodness is part of what we're attending to. The question is "open" only to those who haven't fully grasped the identity.
+**Response**: Moore's argument has more force against reductive naturalism (identifying goodness with fitness-promoting or desire-satisfying properties) than against phenomenal value realism. For those properties, the question genuinely is open—we can coherently wonder whether what promotes fitness is good. But phenomenal value realism claims identity with a phenomenal property, not a functional one.
+
+The open question argument poses a genuine challenge to the metaphysical identity claim. If pleasantness and goodness were fully identical, asking "this is pleasant, but is it good?" should be like asking "this is a triangle, but does it have three sides?" Yet the question seems meaningful in a way the triangle question doesn't.
+
+Two responses are available. First, the question's apparent meaningfulness may reflect our ability to consider concepts separately even when they pick out the same property—we can meaningfully ask "is this water, and is it H₂O?" even though they're identical. Second, and more directly: the question loses its apparent openness when we shift from abstract consideration to attending to actual pleasures. Asking abstractly "is pleasure good?" might seem open. But while experiencing intense pleasure and asking "is *this* good?"—attending directly to its phenomenal character—the question closes. The goodness isn't inferred; it's manifest.
 
 ### The Experience Machine
 
