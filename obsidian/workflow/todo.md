@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review personal-identity.md considering past-self-void insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/past-self-void.md (2026-01-29) argues we cannot directly access past conscious states—only reconstruct them. The personal-identity.md article discusses identity persistence. Check for: (1) cross-links to the past-self-void treatment, (2) how memory reconstruction bears on psychological continuity theories (Parfit), (3) whether the "stranger to ourselves across time" framing enriches the identity discussion.
-- **Source**: chain (from past-self-void.md)
-- **Generated**: 2026-01-29
-
 ### P2: Cross-review episodic-memory.md considering past-self-void insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/past-self-void.md (2026-01-29) treats episodic memory as reconstruction rather than retrieval—a fundamental structural limit. The episodic-memory.md concept page discusses memory mechanisms. Check for: (1) cross-links to the past-self-void treatment, (2) whether the "scenario construction" framing is properly developed, (3) connection between reconstructive memory and the void's claim that past states are structurally inaccessible.
@@ -818,6 +812,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Cross-review personal-identity.md considering past-self-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/past-self-void.md (2026-01-29) argues we cannot directly access past conscious states—only reconstruct them. The personal-identity.md article discusses identity persistence. Check for: (1) cross-links to the past-self-void treatment, (2) how memory reconstruction bears on psychological continuity theories (Parfit), (3) whether the "stranger to ourselves across time" framing enriches the identity discussion.
+- **Output**: obsidian/topics/personal-identity.md -- Context: Cross-review personal-identity.md considering past-self-void insights
 
 ### ✓ 2026-01-29: Deep review temporal-asymmetry-remembering-anticipating.md
 - **Type**: deep-review

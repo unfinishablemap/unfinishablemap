@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-28T22:50:49+00:00
+ai_modified: 2026-01-30T00:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,12 +26,13 @@ related_articles:
   - "[[tenets]]"
   - "[[meaning-of-life]]"
   - "[[death-and-consciousness]]"
+  - "[[past-self-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-08
 last_curated: null
-last_deep_review: 2026-01-28T18:49:50+00:00
+last_deep_review: 2026-01-30T00:40:00+00:00
 ---
 
 What makes you *you*? Not just at this moment, but across time—what connects the person reading this sentence to the child you once were and the person you'll be tomorrow? The persistence question is literally a matter of life and death: it determines the conditions under which you survive or cease to exist.
@@ -50,7 +51,7 @@ Three main positions dominate the debate about what makes someone at one time th
 
 Recent phenomenological work distinguishes these from a more basic [[self-and-consciousness|minimal self]]—a pre-reflective first-person perspective present whenever consciousness is present. The minimal self is the "for-me-ness" of experience that persists even when narrative identity fragments. This suggests personal identity may have layers: a narrative layer that changes dramatically, and a minimal layer—the bare perspectival character of experience—that persists throughout.
 
-[[autonoetic-consciousness|Autonoetic consciousness]]—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *re-inhabit* the past as *you*. Memory isn't data retrieval; it's re-experiencing. This phenomenal character of psychological continuity matters for the Map's position: if remembering involves *this* subject re-inhabiting *their* past, then information preservation alone isn't enough for identity.
+[[autonoetic-consciousness|Autonoetic consciousness]]—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. Yet as the [[past-self-void]] reveals, this reconstruction can never fully access the original experience—the phenomenal state itself is gone, replaced by present simulation. This matters for the Map's position: the "pastness quale" that marks memories as genuinely yours points to something information storage cannot capture.
 
 ## Parfit's Challenge
 
@@ -88,6 +89,8 @@ Three considerations support the inference:
 
 3. **The explanatory gap**: Why does reductionism seem inadequate? Perhaps because it *is* inadequate—our persistent puzzlement about personal identity reflects genuine metaphysical structure, not mere conceptual confusion.
 
+4. **The past-self argument**: The [[past-self-void]] reveals that we cannot access past conscious states—only reconstruct them from traces. If experience were merely information, memory could preserve it completely. That it cannot suggests experience involves something information storage cannot capture: the haecceity of *undergoing* rather than *representing*.
+
 **The error theory worry**: Could the sense of haecceity be a cognitive illusion? The illusionist challenge (addressed in the dedicated section below) raises this directly. But if our sense of haecceity is illusory, what is having that illusion? The seeming itself requires a subject for whom things seem—and this subject has the very particularity the illusion supposedly creates. The error theory faces a regress.
 
 This doesn't prove haecceity with certainty. But it shifts the burden: anti-haecceitists must explain why the phenomenological evidence misleads, not merely assert that it does.
@@ -98,9 +101,7 @@ This connects to quantum selection. If consciousness influences which quantum ou
 
 The [[tenets#^dualism|Dualism]] tenet holds that consciousness is not reducible to physical processes. If consciousness is a distinct ontological category, then personal identity may involve this non-physical aspect—not just bodily or psychological continuity.
 
-This doesn't require believing in a Cartesian soul that floats free of the body. It means that what makes you the same person over time may include the persistence of *this* conscious perspective, not just the continuity of certain physical or functional states.
-
-Consider: could there be a zombie duplicate of you—physically and functionally identical but lacking consciousness? If dualism is right, yes. But then personal identity can't be just physical or functional facts. The zombie wouldn't be you precisely because it would lack your consciousness.
+This doesn't require a Cartesian soul. It means what makes you the same person may include the persistence of *this* conscious perspective, not just physical or functional continuity. A zombie duplicate—physically identical but lacking consciousness—wouldn't be you, showing that identity involves something non-physical.
 
 ### The Bidirectional Connection
 
@@ -224,15 +225,3 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Stanford Encyclopedia of Philosophy: Personal Identity and Ethics. https://plato.stanford.edu/entries/identity-ethics/
 
-<!-- AI REFINEMENT LOG - 2026-01-28
-Changes made:
-- Added "Arguing for Haecceity" subsection distinguishing phenomenological from metaphysical claims
-- Provided three arguments for haecceity: conceivability, causal history, explanatory gap
-- Added "Error Theory for Haecceity" subsection addressing whether haecceity intuitions could be cognitive illusions
-- Responded to pessimistic review finding that haecceity was assumed rather than argued
-
-Based on pessimistic review 2026-01-25.
-Key improvements: Article now argues for haecceity rather than assuming it, and explicitly addresses error theory.
-
-This log should be removed after human review.
--->
