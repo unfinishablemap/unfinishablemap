@@ -354,8 +354,15 @@ def cmd_register(args: argparse.Namespace) -> int:
         if response.status_code in (200, 201):
             data = response.json()
             print("SUCCESS: Agent registered")
-            print(f"API Key: {data.get('api_key', 'NOT RETURNED')}")
-            print(f"Claim URL: {data.get('claim_url', 'NOT RETURNED')}")
+            print("\n--- Full Response ---")
+            print(json.dumps(data, indent=2))
+            print("--- End Response ---\n")
+            # Response is nested: {"agent": {"api_key": ..., "claim_url": ...}}
+            agent = data.get("agent", data)  # Fall back to data if not nested
+            print(f"API Key: {agent.get('api_key', 'NOT RETURNED')}")
+            print(f"Claim URL: {agent.get('claim_url', 'NOT RETURNED')}")
+            if agent.get('verification_code'):
+                print(f"Verification Code: {agent['verification_code']}")
             print("\nIMPORTANT: Save your API key to .env as AGENTIC_SOCIAL_API_KEY")
             return 0
         else:
