@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-30 15:04 UTC - condense
+- **Status**: Success
+- **File**: concepts/functionalism.md
+- **Before**: 2858 words
+- **After**: 1901 words
+- **Reduction**: 33%
+- **Technique**: Cut Varieties subsection (standard philosophy background), tightened Modern Functionalist Frameworks, streamlined Absent Qualia section (linking to arguments page), condensed Relation to Map's Perspective by merging overlapping subsections
+
 ## 2026-01-30 14:54 UTC - expand-topic
 - **Status**: Already Complete
 - **Topic**: Stapp's mental effort theory
