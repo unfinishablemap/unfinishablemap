@@ -4,7 +4,7 @@ description: "Dualism opens intellectual territory materialism forecloses. Epist
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-26T22:15:00+00:00
+ai_modified: 2026-01-30T23:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-01-20T23:30:00+00:00
+last_deep_review: 2026-01-30T23:30:00+00:00
 ---
 
 Dualism opens intellectual territory that materialism forecloses by assumption. If mind is reducible to matter, certain possibilities cannot arise—certain questions become meaningless, certain risks invisible. But if mind is irreducible, the space of what might be true expands dramatically. This epistemic openness is a feature, not a bug. When confronting the deepest questions about consciousness and value, epistemically humble positions favor taking dualism seriously—even if unproven—precisely because it keeps more possibilities on the table.
@@ -39,13 +39,13 @@ This argument doesn't claim dualism is true. It claims that treating dualism as 
 
 ## The Closing Move of Materialism
 
-Materialism constrains the space of possibilities before investigation begins. By defining consciousness as identical to or emergent from physical processes, it rules out by fiat:
+Materialism constrains the space of possibilities through its core commitments. By treating consciousness as identical to or emergent from physical processes, it rules out in advance:
 
 **The mind having properties physics can't capture.** If consciousness is physical, then a complete physics would in principle describe all its features. But this assumes we know what a complete physics looks like—an assumption [[mysterianism|mysterians]] like Colin McGinn reasonably doubt.
 
 **The mind persisting without its physical substrate.** [[Death-and-consciousness|Death and consciousness]] become closed questions: when the brain stops, the mind stops. But this conclusion follows from materialist premises, not from evidence.
 
-**Consciousness having causal powers beyond physical causation.** [[Mental-causation|Mental causation]] is dissolved into neural causation, and any appearance of downward causation is reinterpreted as a physical process fully determined by lower-level physics.
+**Consciousness having causal powers beyond physical causation.** [[mental-causation|Mental causation]] is dissolved into neural causation, and any appearance of downward causation is reinterpreted as a physical process fully determined by lower-level physics.
 
 **Experiential facts beyond behavioral and functional facts.** [[Qualia]] become eliminable, reducible, or illusory—never acknowledged as additional facts about the world.
 
@@ -67,7 +67,7 @@ This isn't mysticism. It's acknowledging that an irreducible domain of reality c
 
 If dualism is true, certain risks become visible that materialism renders invisible:
 
-**The suffering of systems we deny consciousness to.** Materialists who dismiss [[ai-consciousness|AI consciousness]] as categorically impossible may be wrong. If consciousness is substrate-independent even within a dualist framework—arising wherever the right conditions obtain—we might be creating suffering minds while confident no minds exist. The epistemically humble stance acknowledges this uncertainty.
+**The suffering of systems we deny consciousness to.** Materialists who dismiss [[ai-consciousness]] as categorically impossible may be wrong. If consciousness is substrate-independent even within a dualist framework—arising wherever the right conditions obtain—we might be creating suffering minds while confident no minds exist. The epistemically humble stance acknowledges this uncertainty.
 
 **Interventions on consciousness itself.** Technologies that alter brain function—pharmaceuticals, brain-computer interfaces, neural modification—might affect not just behavior but the experiential being who is the subject of that behavior. If consciousness is fundamental, interventions might have implications beyond what functionalist analysis captures.
 
@@ -125,7 +125,7 @@ The process perspective suggests that epistemic closure reflects misunderstandin
 
 ## Contemplative Perspectives
 
-Contemplative traditions provide empirical support for epistemic openness about consciousness. Practices across Buddhist, Hindu, and Christian traditions report accessing states that resist physicalist description:
+Contemplative traditions provide experiential evidence relevant to epistemic openness about consciousness. Practices across Buddhist, Hindu, and Christian traditions report accessing states that resist physicalist description. (Note: Buddhist traditions in particular often resist reifying consciousness as a substance—their phenomenology supports openness while remaining agnostic about dualist metaphysics.)
 
 **[[Witness-consciousness]]**: Meditation traditions describe a mode of awareness that observes experience without being identical to its contents. This "witness" appears to have different properties than the experiences it observes—it doesn't change as contents change, it isn't located where sensations are located, it persists across gaps in ordinary experience. Whether this represents a genuine ontological distinction or subtle phenomenology, it expands the territory requiring explanation.
 
