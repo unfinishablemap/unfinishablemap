@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on natural vs. designed cognitive limits
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-natural-vs-designed-limits-2026-01-30.md. Distinguishes cognitive limits that emerge naturally from physics/biology (fundamental constants, information processing bounds) versus those imposed by deliberate design constraints (institutional blind spots, cultural taboos). Key insight: designed limits are removable in principle; natural limits reveal something about the structure of mind itself. Target: voids/natural-vs-designed-limits.md
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-30
-
-### P2: Cross-review phenomenology-of-choice.md considering authentic-vs-inauthentic-choice
-- **Type**: cross-review
-- **Notes**: New article topics/authentic-vs-inauthentic-choice.md (2026-01-30) develops the phenomenological distinction between authentic and inauthentic choosing—felt resonance, genuine alternatives, effort and ownership. Check phenomenology-of-choice.md for: (1) cross-links to the authentic/inauthentic distinction, (2) whether the effort signature connects to mental-effort discussions, (3) opportunities to strengthen the phenomenological analysis with existentialist grounding.
-- **Source**: chain (from authentic-vs-inauthentic-choice.md)
-- **Generated**: 2026-01-30
-
 ### P2: Cross-review agent-causation.md considering authentic-vs-inauthentic-choice
 - **Type**: cross-review
 - **Notes**: New article topics/authentic-vs-inauthentic-choice.md (2026-01-30) argues that authentic choice engages consciousness's genuine selection function while inauthentic choice runs on automatic processing. Check agent-causation.md for: (1) cross-links to the authenticity framework, (2) whether the distinction between genuine agent causation and pseudo-agency aligns, (3) connection between the "mental effort" signature of authentic choice and agent-causal accounts.
@@ -851,6 +839,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Write voids article on natural vs. designed cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-natural-vs-designed-limits-2026-01-30.md. Distinguishes cognitive limits that emerge naturally from physics/biology (fundamental constants, information processing bounds) versus those imposed by deliberate design constraints (institutional blind spots, cultural taboos). Key insight: designed limits are removable in principle; natural limits reveal something about the structure of mind itself. Target: voids/natural-vs-designed-limits.md
+- **Output**: Write voids article on natural vs. designed cognitive limits
 
 ### ✓ 2026-01-30: Deep review questioning-as-evidence.md
 - **Type**: deep-review
