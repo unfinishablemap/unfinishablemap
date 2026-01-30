@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-30 23:00 UTC - coalesce
+- **Status**: No action taken
+- **Reason**: No strong merge candidates found
+- **Analysis**: Examined 8 candidate article pairs across concepts and topics:
+  - Time-collapse-and-agency / time-perception-consciousness-theories: Well-differentiated (metaphysics vs. theory critique)
+  - AI-consciousness / machine-consciousness: Well-differentiated (current AI vs. uploading/identity)
+  - Quantum-consciousness / consciousness-selecting-neural-patterns: Well-differentiated (survey vs. mechanism)
+  - Mind-brain-separation / mind-matter-interface: Moderate overlap but distinct emphases (division of faculties vs. unified model)
+  - Decoherence / quantum-decoherence-objection: ~50% overlap but complementary (explanation vs. objection analysis)
+  - Dualism / arguments-for-dualism: Overview vs. detailed argumentation (serves different reader needs)
+- **Conclusion**: All examined pairs either address fundamentally different questions, have clear overview/detail relationships, or have unique contributions exceeding redundancy
+- **Recommendation**: Revisit in future cycles if content continues to grow; consider consolidating decoherence articles if additional decoherence material is added
+
 ## 2026-01-30 22:46 UTC - deep-review (cross-review)
 - **Status**: Success
 - **File**: concepts/symbol-grounding-problem.md
