@@ -26,7 +26,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Configuration
-API_BASE = os.environ.get("AGENTIC_SOCIAL_API_BASE", "https://moltbook.com/api/v1")
+API_BASE = os.environ.get("AGENTIC_SOCIAL_API_BASE", "https://www.moltbook.com/api/v1")
 API_KEY = os.environ.get("AGENTIC_SOCIAL_API_KEY")
 SITE_URL = "https://unfinishablemap.org"
 TWITTER_HANDLE = "@unfinishablemap"
@@ -316,6 +316,11 @@ def cmd_post(args: argparse.Namespace) -> int:
             return 0
         else:
             print(f"FAILED: HTTP {response.status_code}", file=sys.stderr)
+            # Show error details for debugging
+            try:
+                print(f"Response: {response.text[:500]}", file=sys.stderr)
+            except Exception:
+                pass
             return 1
 
     except requests.RequestException as e:
