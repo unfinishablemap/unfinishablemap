@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Condense phenomenal-value-realism.md (4321 words, 173% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 2500-word soft threshold for concepts/ by 73%. Recently refined but still over limit. Covers the claim that phenomenal experiences have intrinsic value properties. Preserve: core value realism argument, connection to consciousness and ethics, response to error theory. Defer detailed metaethical debates to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-30
-
 ### P3: Cross-review nihilism-and-existentialism.md considering existentialism.md
 - **Type**: cross-review
 - **Notes**: New standalone article concepts/existentialism.md (2026-01-30) now provides dedicated coverage of existentialist philosophy. Check nihilism-and-existentialism.md for: (1) cross-links to the new existentialism page, (2) whether content can be streamlined now that existentialism has dedicated coverage, (3) appropriate division of labor between the two articles.
@@ -828,6 +822,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Condense phenomenal-value-realism.md (4321 words, 173% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word soft threshold for concepts/ by 73%. Recently refined but still over limit. Covers the claim that phenomenal experiences have intrinsic value properties. Preserve: core value realism argument, connection to consciousness and ethics, response to error theory. Defer detailed metaethical debates to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/phenomenal-value-realism.md
 
 ### ✓ 2026-01-30: Cross-review meaning-of-life.md considering existentialism insights
 - **Type**: cross-review
