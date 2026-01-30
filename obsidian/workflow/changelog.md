@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-30 17:16 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/intentionality.md
+- **Word count**: 3193 → 3216 (+23 words, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added symbol-grounding-problem cross-link)
+- **Enhancements made**: 2 (integrated SGP reference in naturalization section, added to Further Reading)
+- **Context**: Cross-review considering symbol-grounding-problem.md insights
+- **Output**: `reviews/deep-review-2026-01-30-intentionality.md`
+
 ## 2026-01-30 17:09 UTC - coalesce
 - **Status**: Success
 - **Sources**: concepts/minimal-consciousness.md, topics/consciousness-in-simple-organisms.md

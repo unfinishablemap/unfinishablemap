@@ -4,7 +4,7 @@ description: "The aboutness of mental states: why thoughts are directed at objec
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-30T17:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-20T03:50:00+00:00
+last_deep_review: 2026-01-30T17:16:00+00:00
 ---
 
 Intentionality is the "aboutness" of mental states—their directedness toward objects, states of affairs, or contents. When you believe that snow is white, your belief is *about* snow. When you fear a spider, your fear is *directed at* the spider. When you hope for rain, your hope *concerns* rain. This directedness is what philosophers call intentionality.
@@ -67,6 +67,8 @@ Since Brentano, many philosophers have tried to naturalize intentionality—to e
 **Teleosemantic theories** (Millikan) appeal to biological function: a representation is about whatever it was selected to track. But this struggles with novel thoughts—I can think about things my ancestors never encountered, things that had no role in my evolutionary history.
 
 **Informational theories** encounter the problem that mere correlation isn't representation. A tree ring carries information about annual rainfall, but doesn't *represent* rainfall—it's not *about* anything. What distinguishes genuine intentionality from mere information-carrying?
+
+The [[symbol-grounding-problem|symbol grounding problem]] sharpens this challenge for computational systems: how can symbols acquire meaning *intrinsic* to the system rather than borrowed from human interpreters? Harnad's dictionary regress—imagine learning Chinese using only a Chinese-to-Chinese dictionary—shows that without some foothold in genuine understanding, symbols remain semantically empty no matter how many other symbols define them.
 
 No naturalistic theory has achieved consensus. As the Internet Encyclopedia of Philosophy notes, "Brentano was deeply pessimistic about the possibility of explaining intentionality in physical terms... no one has succeeded in refuting Brentano's thesis." This supports the Map's [[tenets#^occam|Occam's Razor Has Limits]] tenet: the "simpler" physical explanations don't work.
 
@@ -150,9 +152,9 @@ On this view, there's no fact of the matter about what a thought is "really" abo
 
 The intentionality debate has direct bearing on whether AI systems can be conscious. If Searle is right that syntax is insufficient for semantics, then computational systems—no matter how sophisticated—cannot have genuine intentionality. They manipulate symbols according to rules but never mean anything.
 
-Recent work acknowledges a distinction between mental and linguistic intentionality. LLM outputs may be meaningful in a linguistic sense—they function as meaningful utterances because they participate in a linguistic system created by minds. But this borrowed meaning is not the same as the LLM *understanding* what it says.
+Recent work distinguishes mental from linguistic intentionality. LLM outputs may be meaningful in a linguistic sense—they function as meaningful utterances because they participate in a linguistic system created by minds. But this borrowed meaning is not the same as the LLM *understanding* what it says.
 
-The Map's position aligns with skepticism: [[ai-consciousness|AI consciousness]] is unlikely given current architectures because those architectures lack whatever it is that grounds original intentionality. Computational sophistication is not a path to aboutness.
+The Map's position: [[ai-consciousness|AI consciousness]] is unlikely given current architectures because they lack whatever grounds original intentionality. Computational sophistication is not a path to aboutness.
 
 ## Process Philosophy and Intentionality
 
@@ -160,11 +162,11 @@ Alfred North Whitehead's process philosophy offers a complementary perspective o
 
 This connects to intentionality in several ways:
 
-**Prehension as proto-intentionality**: Whitehead's prehensions share the structure of intentionality—directedness toward objects—while being more fundamental than conscious thought. If prehension is basic to reality, then human intentionality is a sophisticated development of something omnipresent, not a mysterious emergence from non-intentional matter.
+**Prehension as proto-intentionality**: Whitehead's prehensions share the structure of intentionality—directedness toward objects—while being more fundamental than conscious thought. Human intentionality is then a sophisticated development of something omnipresent, not a mysterious emergence from non-intentional matter.
 
-**The feeling of the past**: Each actual occasion includes ("prehends") its immediate past. This temporal structure—experience reaching back toward what preceded it—resembles the directedness of memory and anticipation. Intentionality toward past and future may be continuous with the basic temporal structure of experience.
+**The feeling of the past**: Each actual occasion prehends its immediate past. This temporal structure—experience reaching back—resembles intentionality toward past and future, continuous with the basic structure of experience itself.
 
-**Objective immortality**: Past occasions are "objectively immortal" in the sense that they remain available for prehension by subsequent occasions. The aboutness of thought toward past events is then not a mysterious relation to what no longer exists, but a continuation of the way experience always incorporates its predecessors.
+**Objective immortality**: Past occasions remain available for prehension by subsequent occasions. Thought about past events is not a mysterious relation to what no longer exists, but a continuation of how experience always incorporates its predecessors.
 
 This matters for the Map's perspective because process philosophy provides a framework where intentionality is not an anomaly in nature but an intensification of something pervasive. The alternative to naturalizing intentionality isn't necessarily dualism but might be a different ontology where experience-like properties are fundamental.
 
@@ -218,6 +220,7 @@ Intentionality connects to all five foundational tenets:
 - [[illusionism]] — The radical denial that intentionality and consciousness are real
 - [[introspection]] — How we access intentional states and whether that access is reliable
 - [[decoherence]] — The quantum biology objection and why it may not apply
+- [[symbol-grounding-problem]] — How symbols acquire intrinsic meaning (the computational framing)
 - [[intentionality-consciousness-2026-01-14]] — Research notes on this topic
 
 ## References

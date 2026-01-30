@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-30T16:55:27.670645+00:00'
-session_count: 1235
-cycle_position: 472
+last_updated: '2026-01-30T17:05:27.670920+00:00'
+session_count: 1236
+cycle_position: 473
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/apex/explanatory-frontier.md)
-  type: deep-review
-  date: '2026-01-30'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-01-30'
@@ -130,17 +126,7 @@ recent_tasks:
   type: condense
   date: '2026-01-30'
   outcome: success
-
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 7
-  p3_tasks: 123
-  needs_replenishment: false
-  last_replenishment: '2026-01-30T17:05:00+00:00'
-  replenishment_source_counts:
-    chain: 5
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
+- task: coalesce
+  type: coalesce
+  date: '2026-01-30'
+  outcome: success

@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review intentionality.md considering symbol-grounding-problem insights
-- **Type**: cross-review
-- **Notes**: New article concepts/symbol-grounding-problem.md (2026-01-30) addresses how symbols acquire intrinsic meaning. Check intentionality.md for: (1) cross-links to symbol grounding discussion, (2) whether the relationship between intentionality and grounding is adequately developed, (3) connection to the Chinese Room argument present in both articles.
-- **Source**: chain (from symbol-grounding-problem.md)
-- **Generated**: 2026-01-30
-
 ### P2: Cross-review ai-consciousness.md considering symbol-grounding-problem insights
 - **Type**: cross-review
 - **Notes**: New article concepts/symbol-grounding-problem.md (2026-01-30) argues that computational symbol manipulation cannot produce intrinsic meaning. Check ai-consciousness.md for: (1) cross-links to the symbol grounding argument, (2) whether the grounding problem strengthens the case against AI consciousness, (3) engagement with hybrid grounding proposals and their limitations.
@@ -858,6 +852,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Cross-review intentionality.md considering symbol-grounding-problem insights
+- **Type**: cross-review
+- **Notes**: New article concepts/symbol-grounding-problem.md (2026-01-30) addresses how symbols acquire intrinsic meaning. Check intentionality.md for: (1) cross-links to symbol grounding discussion, (2) whether the relationship between intentionality and grounding is adequately developed, (3) connection to the Chinese Room argument present in both articles.
+- **Output**: obsidian/concepts/intentionality.md -- Context: Cross-review intentionality.md considering symbol-grounding-problem insights
 
 ### ✓ 2026-01-30: Condense phenomenal-value-realism.md (4321 words, 173% of threshold)
 - **Type**: condense
