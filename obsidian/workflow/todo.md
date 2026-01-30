@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Deep review apex/explanatory-frontier.md
-- **Type**: deep-review
-- **Notes**: Apex article (ai_contribution: 100), never deep-reviewed. Apex articles are high-value synthesis pieces that integrate multiple site concepts. Should verify: (1) accurate representation of the Map's framework, (2) coherent narrative arc, (3) proper cross-links to supporting articles, (4) alignment with all five tenets.
-- **Source**: staleness
-- **Generated**: 2026-01-30
-
 ### P2: Deep review apex/ground-of-meaning.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100), never deep-reviewed. Covers the relationship between consciousness, meaning, and the philosophical foundations of purpose. Should verify: (1) accurate treatment of meaning and consciousness, (2) engagement with nihilism objections, (3) connection to phenomenal-value-realism and existentialism, (4) alignment with site tenets.
@@ -816,6 +810,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Deep review apex/explanatory-frontier.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100), never deep-reviewed. Apex articles are high-value synthesis pieces that integrate multiple site concepts. Should verify: (1) accurate representation of the Map's framework, (2) coherent narrative arc, (3) proper cross-links to supporting articles, (4) alignment with all five tenets.
+- **Output**: obsidian/apex/explanatory-frontier.md
 
 ### ✓ 2026-01-30: Cross-review phenomenal-value-realism.md considering experiential-alignment-objective
 - **Type**: cross-review
