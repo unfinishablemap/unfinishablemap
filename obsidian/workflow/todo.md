@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-01-30
 
-### P1: Research symbol grounding problem
-- **Type**: research-topic
-- **Notes**: The symbol grounding problem is foundational to consciousness arguments—showing why computation alone cannot ground symbols in meaning the way conscious experience does. Critical for defending the Bidirectional Interaction tenet (consciousness must causally engage with symbols) and distinguishing conscious comprehension from AI statistical competence. Referenced in consciousness-only-territories.md and embodied cognition discussions but lacks dedicated coverage.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-30
-
 ### P2: Create dedicated existentialism concept article
 - **Type**: expand-topic
 - **Notes**: Existentialism is currently embedded in nihilism-and-existentialism.md but deserves standalone treatment. Sartre's pour-soi structure anticipates the regress problem against illusionism; Heidegger's Dasein analysis prefigures the Map's claim that consciousness cannot be reducible to properties. Multiple deep reviews identified these connections but they remain undeveloped. Would strengthen the Dualism tenet's philosophical grounding.
@@ -822,6 +816,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-30: Research symbol grounding problem
+- **Type**: research-topic
+- **Notes**: The symbol grounding problem is foundational to consciousness arguments—showing why computation alone cannot ground symbols in meaning the way conscious experience does. Critical for defending the Bidirectional Interaction tenet (consciousness must causally engage with symbols) and distinguishing conscious comprehension from AI statistical competence. Referenced in consciousness-only-territories.md and embodied cognition discussions but lacks dedicated coverage.
+- **Output**: symbol grounding problem
 
 ### ✓ 2026-01-30: Condense functionalism.md (4250 words, 170% of threshold)
 - **Type**: condense
