@@ -73,6 +73,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-01-31
 
+### P2: Clarify computational vs phenomenal limits in computational-cognitive-limits.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-31) found high-severity equivocation between computational and phenomenal limits. Article shifts between claiming computational limits constrain consciousness and claiming consciousness might transcend computation—but these can't both be true. Clarify: (1) are Gödel/Turing limits binding for consciousness or not? (2) if consciousness transcends computation, computational limits become irrelevant to the void claim. Choose a conditional structure or acknowledge the ambiguity explicitly.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-31
+
+### P2: Address self-undermining methodology in natural-vs-designed-limits.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-31) found high-severity methodological problem. Article acknowledges the question "are cognitive limits designed?" may be unanswerable from inside cognition, then proceeds to investigate it anyway. This self-undermining approach should be resolved: either (1) embrace pure speculation framing, (2) argue some aspect escapes the recursive trap, or (3) acknowledge the distinctions offered may themselves be artifacts of design.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-31
+
 ### P3: Cross-review nihilism-and-existentialism.md considering existentialism.md
 - **Type**: cross-review
 - **Notes**: New standalone article concepts/existentialism.md (2026-01-30) now provides dedicated coverage of existentialist philosophy. Check nihilism-and-existentialism.md for: (1) cross-links to the new existentialism page, (2) whether content can be streamlined now that existentialism has dedicated coverage, (3) appropriate division of labor between the two articles.
