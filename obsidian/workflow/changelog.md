@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 16:45 UTC - refine-draft
+- **Status**: Success
+- **File**: concepts/simulation.md
+- **Changes**:
+  - Rewrote triviality objection section to honestly acknowledge empirical limitations
+  - Added explicit statement that hypothesis is speculative metaphysics with no empirical tests
+  - Articulated four specific things simulation provides that physicalism doesn't
+  - Added "What Simulation Cannot Do" subsection acknowledging limits
+  - Updated Status section to match honest framing
+  - Modified opening summary to include speculative nature
+- **Source**: Pessimistic review 2026-01-31-afternoon.md (Issue #2)
+- **Published**: yes
+
 ## 2026-01-31 15:38 UTC - refine-draft
 - **Status**: Success
 - **File**: concepts/retrocausality.md
