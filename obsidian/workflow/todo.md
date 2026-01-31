@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review free-will.md considering causal-interface.md
-- **Type**: cross-review
-- **Notes**: New voids article voids/causal-interface.md (2026-01-31) develops the phenomenology of agency—why we cannot observe how intention becomes action. Check free-will.md for: (1) cross-links to the causal interface treatment, (2) whether Libet experiments discussion aligns with the void's framing, (3) opportunities to strengthen the connection between libertarian free will and the mechanism opacity.
-- **Source**: chain (from causal-interface.md)
-- **Generated**: 2026-01-31
-
 ### P2: Cross-review mysterianism.md considering causal-interface.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/causal-interface.md (2026-01-31) argues that the mind-body interface is structurally inaccessible—not merely unknown but potentially unknowable. This connects directly to McGinn's cognitive closure thesis. Check mysterianism.md for: (1) cross-links to the causal interface as an exemplary mystery, (2) whether the mechanism void strengthens or complicates the mysterian position, (3) consistency between the articles on structural vs. contingent limits.
@@ -854,6 +848,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Cross-review free-will.md considering causal-interface.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/causal-interface.md (2026-01-31) develops the phenomenology of agency—why we cannot observe how intention becomes action. Check free-will.md for: (1) cross-links to the causal interface treatment, (2) whether Libet experiments discussion aligns with the void's framing, (3) opportunities to strengthen the connection between libertarian free will and the mechanism opacity.
+- **Output**: obsidian/topics/free-will.md -- Context: Cross-review free-will.md considering causal-interface.md
 
 ### ✓ 2026-01-31: Cross-review introspection.md considering causal-interface.md
 - **Type**: cross-review

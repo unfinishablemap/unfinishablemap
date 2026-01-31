@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 04:12 UTC - deep-review
+- **Status**: Success
+- **File**: topics/free-will.md
+- **Word count**: 2495 → 2537 (+42)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (added causal-interface cross-link)
+- **Enhancements made**: 3 (integrated causal-interface in "Picture That Emerges" section, frontmatter concepts, and Further Reading)
+- **Output**: `reviews/deep-review-2026-01-31-free-will.md`
+- **Notes**: Eleventh review; cross-review for causal-interface.md. The causal interface void explains why the quantum selection mechanism is systematically invisible—opacity is predicted by minimal interaction, not a gap in the theory. Article highly stable; all major philosophical objections (eliminativism, MWI, Buddhist no-self) are bedrock disagreements, not fixable issues.
+
 ## 2026-01-31 04:02 UTC - deep-review
 - **Status**: Success
 - **File**: concepts/decoherence.md
