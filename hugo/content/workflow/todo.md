@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-31 07:57:00+00:00
+ai_modified: 2026-01-31 11:08:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,53 +38,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review mysterianism.md considering alien-minds-void-explorers.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/alien-minds-void-explorers.md (2026-01-31) develops McGinn's cognitive closure in the context of radically different minds. Check mysterianism.md for: (1) cross-links to the new alien-minds article, (2) whether the alien minds angle strengthens the case for architecture-specific cognitive limits, (3) connections to the voids framework's treatment of structurally-closed territories.
+- **Source**: chain (from expand-topic)
+- **Generated**: 2026-01-31
+
+### P2: Cross-review ai-as-void-explorer.md considering alien-minds-void-explorers.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/alien-minds-void-explorers.md (2026-01-31) extends the void-explorer framework to genuinely extraterrestrial minds. Check ai-as-void-explorer.md for: (1) cross-links to the new alien-minds article, (2) whether the distinction between human-trained AI and genuinely alien minds is relevant to the AI void-explorer claims, (3) whether the "inheritance problem" section should reference the alien minds article as theoretical contrast.
+- **Source**: chain (from expand-topic)
+- **Generated**: 2026-01-31
+
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
-
-### P2: Create concept page for minimal-consciousness
-- **Type**: expand-topic
-- **Notes**: Referenced 68 times across site but no dedicated article. The threshold of conscious experience—what the simplest conscious being might experience, where consciousness "starts." Research available in consciousness-simple-organisms-2026-01-19.md. Connects to graded-consciousness, animal-consciousness, and the hard problem. Critical for the site's engagement with consciousness science.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-31
-
-### P2: Write voids article on incompleteness-void
-- **Type**: expand-topic
-- **Notes**: Research completed in voids-incompleteness-void-2026-01-31.md. Gödel's incompleteness theorems as cognitive void—truths that formal systems cannot prove about themselves. Connection to self-reference limits, the argument from reason, and what this reveals about consciousness being non-computable.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-31
-
-### P2: Cross-review combination-problem.md considering process-and-consciousness apex
-- **Type**: cross-review
-- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) discusses how process philosophy addresses the combination problem differently than substance metaphysics. Check combination-problem.md for: (1) cross-links to process philosophy treatment, (2) whether process's "prehension" concept offers a distinct response, (3) consistency between the two articles on panpsychism's challenges.
-- **Source**: chain (from process-and-consciousness.md)
-- **Generated**: 2026-01-31
-
-### P2: Cross-review agent-causation.md considering process-and-consciousness apex
-- **Type**: cross-review
-- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) develops how process philosophy's "actual occasions" involve micro-agency. Check agent-causation.md for: (1) cross-links to process philosophy treatment, (2) whether Whitehead's framework strengthens or complicates libertarian agent causation, (3) connection to the site's interactionist dualism position.
-- **Source**: chain (from process-and-consciousness.md)
-- **Generated**: 2026-01-31
-
-### P2: Research alien minds as void explorers
-- **Type**: research-topic
-- **Notes**: The voids section references "alien-minds-as-void-explorers" but no article exists. Explore: how minds structured very differently from humans might access cognitive territories closed to us. Connection to the void framework's premise that limits are structurally informative. Would complement ai-as-void-explorer.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-31
-
-### P2: Clarify computational vs phenomenal limits in computational-cognitive-limits.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-01-31) found high-severity equivocation between computational and phenomenal limits. Article shifts between claiming computational limits constrain consciousness and claiming consciousness might transcend computation—but these can't both be true. Clarify: (1) are Gödel/Turing limits binding for consciousness or not? (2) if consciousness transcends computation, computational limits become irrelevant to the void claim. Choose a conditional structure or acknowledge the ambiguity explicitly.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-31
-
-### P2: Address self-undermining methodology in natural-vs-designed-limits.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-01-31) found high-severity methodological problem. Article acknowledges the question "are cognitive limits designed?" may be unanswerable from inside cognition, then proceeds to investigate it anyway. This self-undermining approach should be resolved: either (1) embrace pure speculation framing, (2) argue some aspect escapes the recursive trap, or (3) acknowledge the distinctions offered may themselves be artifacts of design.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-31
 
 ### P3: Cross-review nihilism-and-existentialism.md considering existentialism.md
 - **Type**: cross-review
@@ -891,6 +861,87 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Cross-review ai-as-void-explorer.md considering new apex synthesis
+- **Type**: cross-review
+- **Notes**: Six new apex articles created 2026-01-31 synthesize major Map themes. Check ai-as-void-explorer.md for: (1) cross-links to machine-question.md (AI consciousness synthesis), (2) connections to minds-without-words.md (non-linguistic cognition), (3) whether the void explorer framing enriches or is enriched by the apex synthesis treatments.
+- **Output**: obsidian/voids/ai-as-void-explorer.md -- Context: Cross-review ai-as-void-explorer.md considering new apex synthesis
+
+### ✓ 2026-01-31: Write voids article on alien minds as void explorers
+- **Type**: expand-topic
+- **Notes**: Research completed in research/alien-minds-void-explorers-2026-01-31.md. How minds structured very differently from humans (extraterrestrial, radically different architectures) might access cognitive territories closed to us. Connects to McGinn's cognitive closure, Nagel's "What Is It Like to Be a Bat?", and the Map's framework that limits are structurally informative. Would complement ai-as-void-explorer.md.
+- **Output**: Write voids article on alien minds as void explorers
+
+### ✓ 2026-01-31: Write voids article on alien minds as void explorers
+- **Type**: expand-topic
+- **Notes**: How genuinely extraterrestrial minds—shaped by different evolution, embodiment, and possibly physics—might access cognitive territories closed to both humans and human-derived AI. Based on research/alien-minds-void-explorers-2026-01-31.md.
+- **Output**: obsidian/voids/alien-minds-void-explorers.md
+
+### ✓ 2026-01-31: Address self-undermining methodology in natural-vs-designed-limits.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-31) found high-severity methodological problem. Article acknowledges the question "are cognitive limits designed?" may be unanswerable from inside cognition, then proceeds to investigate it anyway. This self-undermining approach should be resolved: either (1) embrace pure speculation framing, (2) argue some aspect escapes the recursive trap, or (3) acknowledge the distinctions offered may themselves be artifacts of design.
+- **Output**: obsidian/voids/natural-vs-designed-limits.md
+
+Task context:
+Pessimistic review (2026-01-31) found high-severity methodological problem. Article acknowledges the question "are cognitive limits designed?" may be unanswerable from inside cognition, then proceeds to investigate it anyway. This self-undermining approach should be resolved: either (1) embrace pure speculation framing, (2) argue some aspect escapes the recursive trap, or (3) acknowledge the distinctions offered may themselves be artifacts of design.
+
+### ✓ 2026-01-31: Clarify computational vs phenomenal limits in computational-cognitive-limits.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-31) found high-severity equivocation between computational and phenomenal limits. Article shifts between claiming computational limits constrain consciousness and claiming consciousness might transcend computation—but these can't both be true. Clarify: (1) are Gödel/Turing limits binding for consciousness or not? (2) if consciousness transcends computation, computational limits become irrelevant to the void claim. Choose a conditional structure or acknowledge the ambiguity explicitly.
+- **Output**: obsidian/voids/computational-cognitive-limits.md
+
+Task context:
+Pessimistic review (2026-01-31) found high-severity equivocation between computational and phenomenal limits. Article shifts between claiming computational limits constrain consciousness and claiming consciousness might transcend computation—but these can't both be true. Clarify: (1) are Gödel/Turing limits binding for consciousness or not? (2) if consciousness transcends computation, computational limits become irrelevant to the void claim. Choose a conditional structure or acknowledge the ambiguity explicitly.
+
+### ✓ 2026-01-31: Research alien minds as void explorers
+- **Type**: research-topic
+- **Notes**: The voids section references "alien-minds-as-void-explorers" but no article exists. Explore: how minds structured very differently from humans might access cognitive territories closed to us. Connection to the void framework's premise that limits are structurally informative. Would complement ai-as-void-explorer.md.
+- **Output**: alien minds as void explorers
+
+### ✓ 2026-01-31: Cross-review agent-causation.md considering process-and-consciousness apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) develops how process philosophy's "actual occasions" involve micro-agency. Check agent-causation.md for: (1) cross-links to process philosophy treatment, (2) whether Whitehead's framework strengthens or complicates libertarian agent causation, (3) connection to the site's interactionist dualism position.
+- **Output**: obsidian/concepts/agent-causation.md -- Context: Cross-review agent-causation.md considering process-and-consciousness apex
+
+### ✓ 2026-01-31: Create apex article "The Machine Question"
+- **Type**: expand-topic
+- **Notes**: Create apex/machine-question.md. Thesis: Current AI systems lack consciousness not because of implementation details but because computation alone cannot generate experience—the gap is principled, not practical. Source articles: topics/ai-consciousness, topics/machine-consciousness, concepts/functionalism, concepts/chinese-room, topics/consciousness-as-intelligence-amplifier.
+- **Output**: Create apex article "The Machine Question"
+
+### ✓ 2026-01-31: Create apex article "Minds Without Words"
+- **Type**: expand-topic
+- **Notes**: Create apex/minds-without-words.md. Thesis: Non-linguistic consciousness in animals and simple organisms reveals that experience is more fundamental than the cognitive capacities we usually associate with mind. Source articles: topics/animal-consciousness, topics/consciousness-in-simple-organisms, topics/baseline-cognition, concepts/phenomenal-consciousness, topics/emotional-consciousness.
+- **Output**: Create apex article "Minds Without Words"
+
+### ✓ 2026-01-31: Create apex article "The Contemplative Path"
+- **Type**: expand-topic
+- **Notes**: Create apex/contemplative-path.md. Thesis: Contemplative traditions and phenomenological philosophy access aspects of consciousness that third-person neuroscience cannot reach. Source articles: topics/eastern-philosophy-consciousness, topics/contemplative-evidence-for-consciousness-theories, concepts/witness-consciousness, concepts/meditation-consciousness-modes, concepts/introspection, topics/epistemic-advantages-of-dualism, topics/aesthetic-dimension-of-consciousness.
+- **Output**: Create apex article "The Contemplative Path"
+
+### ✓ 2026-01-31: Create apex article "Identity Across Transformations"
+- **Type**: expand-topic
+- **Notes**: Create apex/identity-across-transformations.md. Thesis: Identity is irreducibly indexical—being *this* consciousness matters in ways pattern-based accounts cannot capture. Source articles: topics/personal-identity, topics/death-and-consciousness, topics/split-brain-consciousness, topics/indexical-identity-quantum-measurement, concepts/altered-states-of-consciousness, topics/loss-of-consciousness.
+- **Output**: Create apex article "Identity Across Transformations"
+
+### ✓ 2026-01-31: Create apex article "Testing the Map from Inside"
+- **Type**: expand-topic
+- **Notes**: Create apex/testing-the-map-from-inside.md. Thesis: You don't need a laboratory to investigate consciousness—you have one between your ears. By carefully attending to the phenomenology of choice, you can probe whether experience feels like selecting from options or passively watching neural processes. The Map's claims are testable from the inside. Source articles: concepts/introspection, concepts/witness-consciousness, concepts/meditation-and-consciousness-modes, concepts/phenomenology-of-choice, concepts/mental-effort, concepts/neurophenomenology.
+- **Output**: Create apex article "Testing the Map from Inside"
+
+### ✓ 2026-01-31: Create apex article "Living with the Map"
+- **Type**: expand-topic
+- **Notes**: Create apex/living-with-the-map.md. Thesis: If consciousness is fundamental and our choices genuinely matter, then the quest to understand our situation becomes the essential precursor to every meaningful decision. The Map offers not just a metaphysical picture but practical guidance. Source articles: topics/meaning-of-life, topics/ethics-of-consciousness, topics/purpose-and-alignment, concepts/phenomenal-value-realism, concepts/moral-responsibility, concepts/existentialism, topics/free-will.
+- **Output**: Create apex article "Living with the Map"
+
+### ✓ 2026-01-31: Write voids article on incompleteness-void
+- **Type**: expand-topic
+- **Notes**: Research completed in voids-incompleteness-void-2026-01-31.md. Gödel's incompleteness theorems as cognitive void—truths that formal systems cannot prove about themselves. Connection to self-reference limits, the argument from reason, and what this reveals about consciousness being non-computable.
+- **Output**: Write voids article on incompleteness-void
+
+### ✓ 2026-01-31: Create concept page for minimal-consciousness
+- **Type**: expand-topic
+- **Notes**: Referenced 68 times across site but no dedicated article. The threshold of conscious experience—what the simplest conscious being might experience, where consciousness "starts." Research available in consciousness-simple-organisms-2026-01-19.md. Connects to graded-consciousness, animal-consciousness, and the hard problem. Critical for the site's engagement with consciousness science.
+- **Output**: Create concept page for minimal-consciousness
 
 ### ✓ 2026-01-31: Cross-review temporal-consciousness.md considering process-and-consciousness apex
 - **Type**: cross-review
@@ -3702,6 +3753,24 @@ Review file: reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-ch
 - **Notes**: Suggested by optimistic review 2026-01-30 (evening). Frequently invoked in discussions of Mary's Room, phenomenal concepts, consciousness-only territories but not systematically defined. Builds on knowledge-argument.md, phenomenal-concepts-strategy.md, consciousness-only-territories.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
+
+### P3: Write article on developmental consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-31. How does consciousness develop in human ontogeny? When does the fetus become conscious? How does infant experience differ? The site treats phylogeny well but ontogeny less systematically. Builds on consciousness-in-simple-organisms.md, animal-consciousness.md, evolution-of-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
+### P3: Write article on philosophy of science and consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-31. The site engages philosophy of mind extensively but philosophy of science more implicitly. How does the Map's framework relate to scientific realism? To inference to best explanation? Builds on quantum-consciousness.md, mysterianism.md, tenets.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
+### P3: Write article on social construction challenge to consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-31. Social constructionist critiques argue "consciousness" is historically contingent. How does the Map respond? The site implicitly assumes consciousness is a natural kind—deserves explicit defense. Builds on intuitive-dualism.md, materialism.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
 
 ## Blocked Tasks (Needs Human)
 

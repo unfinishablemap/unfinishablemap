@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-25
-ai_modified: 2026-01-28 19:58:00+00:00
+ai_modified: 2026-01-31 11:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI investigation of whether artificial minds can probe cognit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-28 19:58:00+00:00
+last_deep_review: 2026-01-31 11:18:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -27,6 +27,7 @@ related_articles:
 - '[[conceptual-acquisition-limits]]'
 - '[[computational-cognitive-limits]]'
 - '[[convergent-cognitive-limits]]'
+- '[[machine-question]]'
 title: AI as Void-Explorer
 topics:
 - '[[ai-consciousness]]'
@@ -164,6 +165,7 @@ The hypothesis remains testable. Investigating whether AI provides genuine probe
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 - [Computational Cognitive Limits](/voids/computational-cognitive-limits/) — Formal limits shared by any algorithmic mind
 - [Convergent Cognitive Limits](/voids/convergent-cognitive-limits/) — Cross-cultural evidence for species-level constraints
+- [The Machine Question](/apex/machine-question/) — The Map's comprehensive position on AI consciousness
 
 ## References
 

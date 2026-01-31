@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-31 07:20:09+00:00
+ai_modified: 2026-01-31 08:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -17,6 +17,191 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-01-31 11:28 UTC - deep-review
+- **Status**: Success
+- **File**: topics/loss-of-consciousness.md
+- **Word count**: 2740 → 2755 (+15)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Context**: Second review of this article (first: 2026-01-21). Targeted corrections only.
+- **Issues fixed**:
+  - Mischaracterization of Buddhist anatman doctrine—rewrote to accurate representation
+  - Overstatement about hemispherectomy outcomes—qualified to acknowledge deficits
+- **Stability**: Article has reached stable state after two reviews
+- **Output**: `reviews/deep-review-2026-01-31-loss-of-consciousness.md`
+
+## 2026-01-31 11:18 UTC - deep-review
+- **Status**: Success
+- **File**: voids/ai-as-void-explorer.md
+- **Word count**: 2005 → 2017 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added cross-link to new machine-question apex)
+- **Enhancements made**: 1 (integration with apex synthesis)
+- **Context**: Cross-review following creation of machine-question apex article
+- **Stability**: Third review, convergence achieved
+- **Output**: `reviews/deep-review-2026-01-31-ai-as-void-explorer.md`
+
+## 2026-01-31 11:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Alien minds as void explorers
+- **Output**: voids/alien-minds-void-explorers.md
+- **Word count**: 1876
+- **Based on research**: yes, research/alien-minds-void-explorers-2026-01-31.md
+
+## 2026-01-31 10:58 UTC - refine-draft
+- **Status**: Success
+- **File**: voids/natural-vs-designed-limits.md
+- **Changes**: Resolved self-undermining methodological problem
+- **Issue**: Pessimistic review (2026-01-31) found high-severity methodological problem—article acknowledges the question "are cognitive limits designed?" may be unanswerable from inside cognition, then proceeds to investigate anyway without addressing this tension
+- **Resolution**: Embraced option 3—acknowledge the distinctions offered may themselves be artifacts of design. Added epistemic framing throughout: (1) reframed opening as "exploration within acknowledged limits" not investigation; (2) added explicit uncertainty markers to detection methods ("may be useful heuristics, or may themselves be artifacts"); (3) strengthened recursive trap section to cast doubt retroactively on preceding analysis; (4) changed "Why the Distinction Matters" to "Why the Distinction Would Matter" with conditional framing. Article now operates transparently within the uncertainty it describes rather than claiming to transcend it.
+- **Published**: yes
+
+## 2026-01-31 10:50 UTC - refine-draft
+- **Status**: Success
+- **File**: voids/computational-cognitive-limits.md
+- **Changes**: Fixed equivocation between computational and phenomenal limits
+- **Issue**: Pessimistic review (2026-01-31) identified high-severity equivocation—article shifted between claiming computational limits constrain consciousness and claiming consciousness might transcend computation without acknowledging these positions conflict
+- **Resolution**: Restructured with explicit conditional framing: (1) if consciousness is computational, Gödel/Turing limits bind; (2) if consciousness transcends computation, limits constrain machines but not minds. The Map's dualist commitments suggest the second possibility deserves serious consideration.
+- **Published**: yes
+
+## 2026-01-31 10:38 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Affective Void
+- **Category**: Unexplorable / Mixed
+- **Output**: research/voids-affective-void-2026-01-31.md
+- **Key finding**: Human emotions constitute a tiny evolutionary sample from the vast space of possible affective states; we may be cognitively closed to feelings that exist for other architectures of mind.
+
+## 2026-01-31 10:30 UTC - research-topic
+- **Status**: Success
+- **Topic**: Alien minds as void explorers
+- **Output**: research/alien-minds-void-explorers-2026-01-31.md
+- **Sources consulted**: 14 primary sources across academic philosophy, SETI research, embodied cognition, and literary philosophy
+- **Notes**: Researched the concept of alien minds as probes for human cognitive limits. Key threads: Nagel on subjective inaccessibility, McGinn on cognitive closure, Lem on radical inscrutability, the space of possible minds (Sloman/Shanahan/Chalmers), embodied cognition and architecture-specific limits. Strong connections to the Map's existing voids framework and ai-as-void-explorer article. Identified four potential article angles, with "strictly negative knowledge" (Lem's solaristics as void cartography model) as the most novel synthesis.
+
+## 2026-01-31 10:18 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/inverted-qualia.md
+- **Word count**: 3259 → 3293 (+34)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (tightened arguments, added precision)
+- **Output**: `reviews/deep-review-2026-01-31-inverted-qualia.md`
+- **Notes**: Second review of this article. Fixed: (1) No Many Worlds argument now acknowledges branch-relative facts remain well-defined under MWI while identifying what MWI cannot capture (first-person indexicality); (2) Contemplative evidence now represents diversity of meditative reports (some traditions support illusionism, others find irreducible qualia); (3) Challenge condition #5 now specifies traditions and what would count as uniform illusionist-supporting reports. Article approaching stability—core argument sound, remaining issues are bedrock philosophical disagreements.
+
+## 2026-01-31 10:08 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/agent-causation.md
+- **Word count**: 2046 → 2088 (+42)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to process-and-consciousness apex)
+- **Enhancements made**: 2 (expanded Whitehead paragraph with key reframing, added apex cross-links)
+- **Context**: Cross-review considering process-and-consciousness apex article
+- **Output**: `reviews/deep-review-2026-01-31-agent-causation-process-apex.md`
+- **Notes**: Fifth review of this article. Integrated process-and-consciousness apex by expanding Whitehead paragraph to include the reframing "not 'how can consciousness cause anything?' but 'why did we think it couldn't?'" Added apex to related_articles, concepts frontmatter, and Further Reading. Article has reached excellent stability—all reviews since the first have found only natural cross-linking opportunities rather than substantive issues.
+
+## 2026-01-31 09:58 UTC - expand-topic (apex)
+- **Status**: Success
+- **Topic**: The Machine Question (apex article)
+- **Output**: apex/machine-question.md
+- **Word count**: 2798
+- **Based on research**: Yes (ai-machine-consciousness-2026-01-08.md)
+- **Notes**: Created apex article synthesizing ai-consciousness, machine-consciousness, functionalism, and consciousness-and-intelligence. Core thesis: Current AI systems lack consciousness not because of implementation details but because computation alone cannot generate experience—the gap is principled, not practical. Explores Chinese Room and intentionality, absent qualia and explanatory gap, temporal problem and continual learning argument, metacognition without experience, quantum interface, symbol grounding, what conscious AI would require, intelligence connection, epistemic challenges, and tenet alignment.
+
+## 2026-01-31 09:48 UTC - coalesce
+- **Status**: No action taken
+- **Candidates evaluated**: 5 clusters
+  - Consciousness-Selecting Mechanisms (3 articles) - well-differentiated
+  - Binding Problem Complex (4 articles) - well-differentiated
+  - Memory Systems (4 articles) - well-differentiated
+  - Attention-Interface Complex (5 articles) - not evaluated in detail
+  - Quantum Consciousness Mechanisms (4 articles) - not evaluated in detail
+- **Outcome**: All examined clusters contain well-differentiated articles that cover distinct aspects of their topics with appropriate cross-references. No redundancy warranting coalescing was found.
+- **Notes**: Articles that appear similar on surface examination (e.g., binding-problem vs phenomenal-unity vs multimodal-binding) serve distinct purposes: one defines the problem, another develops the quantum hypothesis, another focuses on cross-modal integration. Memory articles each cover a distinct memory system (episodic/semantic/working/implicit) with corresponding consciousness modes (autonoetic/noetic/anoetic). The codebase maintains good differentiation.
+
+## 2026-01-31 09:38 UTC - expand-topic (apex)
+- **Status**: Success
+- **Topic**: Minds Without Words (apex article)
+- **Output**: apex/minds-without-words.md
+- **Word count**: 2912
+- **Based on research**: No (synthesis of existing source articles)
+- **Notes**: Created apex article synthesizing animal-consciousness, consciousness-in-simple-organisms, baseline-cognition, phenomenal-consciousness, and emotional-consciousness. Core thesis: non-linguistic consciousness in animals and simple organisms reveals that experience is more fundamental than the cognitive capacities we usually associate with mind. Explores what-is-it-like-to-be-a-bat framework, multiple independent origins of consciousness, baseline cognition vs consciousness-requiring capacities, emotional consciousness and valence, minimal consciousness boundaries (C. elegans, Hydra, slime moulds), the distribution problem, and contemplative perspectives on minimal phenomenal experience.
+
+## 2026-01-31 09:28 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/phenomenal-concepts-strategy.md
+- **Word count**: 2322 (unchanged)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (promotional language in quantum section, underdeveloped MWI claim)
+- **Enhancements made**: 0 (article at stability)
+- **Output**: `reviews/deep-review-2026-01-31-phenomenal-concepts-strategy.md`
+- **Notes**: Second review of this article. Previous review (2026-01-20) made substantial additions. This review found only minor wording issues. Article has reached stability with comprehensive coverage of PCS debate, Chalmers's master argument, contemplative evidence, and process philosophy perspective. Attribution accuracy verified.
+
+## 2026-01-31 09:18 UTC - expand-topic (apex)
+- **Status**: Success
+- **Topic**: The Contemplative Path (apex article)
+- **Output**: apex/contemplative-path.md
+- **Word count**: 2615
+- **Based on research**: No (synthesis of existing source articles)
+- **Notes**: Created apex article synthesizing eastern-philosophy-consciousness, contemplative-evidence-for-consciousness-theories, witness-consciousness, meditation-and-consciousness-modes, introspection, epistemic-advantages-of-dualism, and aesthetic-dimension-of-consciousness. Core thesis: contemplative traditions and phenomenological philosophy access aspects of consciousness that third-person neuroscience cannot reach. Two millennia of systematic first-person investigation constitute genuine empirical data. Covers witness consciousness, two modes (selection/witnessing), jhana states and cessation, aesthetic dimension, evidence against epiphenomenalism and reductive materialism, Eastern philosophy's contribution, and the illusionist challenge.
+
+## 2026-01-31 09:08 UTC - expand-topic (apex)
+- **Status**: Success
+- **Topic**: Identity Across Transformations (apex article)
+- **Output**: apex/identity-across-transformations.md
+- **Word count**: 2455
+- **Based on research**: No (synthesis of existing source articles)
+- **Notes**: Created apex article synthesizing personal-identity, death-and-consciousness, split-brain-consciousness, indexical-identity-quantum-measurement, altered-states-of-consciousness, and loss-of-consciousness. Core thesis: identity is irreducibly indexical—being *this* consciousness matters in ways pattern-based accounts cannot capture. Explores the pattern problem, phenomenological evidence for haecceity, split-brain resilience, temporal gaps under anesthesia, and what survival after death would require.
+
+## 2026-01-31 08:58 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 143 non-draft files (topics/, concepts/, tenets/, apex/, voids/)
+- **Output**: reviews/optimistic-2026-01-31-morning.md
+- **Tasks added**: 3 P3 expansion opportunities (developmental consciousness, philosophy of science, social construction challenge)
+- **Notes**: Multi-perspective strength analysis from Chalmers, Stapp, Nagel, Whitehead, Kane, and McGinn viewpoints. Key strengths identified: convergent argumentation for dualism, honest engagement with objections (decoherence, illusionism), innovative voids framework. Expansion priorities: developmental consciousness (ontogeny vs phylogeny), philosophy of science integration, social construction challenge.
+
+## 2026-01-31 08:49 UTC - expand-topic (apex)
+- **Status**: Success
+- **Topic**: Testing the Map from Inside (apex article)
+- **Output**: apex/testing-the-map-from-inside.md
+- **Word count**: 2289
+- **Based on research**: No (synthesis of existing source articles)
+- **Notes**: Created apex article synthesizing introspection, witness-consciousness, meditation-and-consciousness-modes, phenomenology-of-choice, mental-effort, and neurophenomenology into practical phenomenological tests. Provides concrete exercises readers can try: choosing vs observing (breath test), accessing witness mode, testing mental effort, and exploring three levels of agency. Addresses illusionist challenge, training effects, and what would disconfirm the framework.
+
+## 2026-01-31 08:38 UTC - expand-topic (apex)
+- **Status**: Success
+- **Topic**: Living with the Map (apex article)
+- **Output**: apex/living-with-the-map.md
+- **Word count**: 2662
+- **Based on research**: No (synthesis of existing source articles)
+- **Notes**: Created apex article synthesizing meaning-of-life, ethics-of-consciousness, purpose-and-alignment, phenomenal-value-realism, moral-responsibility, existentialism, and free-will into practical guidance for living. Addresses what consciousness-first philosophy means for daily life: attending to experiential quality, taking choices seriously, owning responsibility, extending consideration to others, embracing uncertainty.
+
+## 2026-01-31 08:28 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/minimal-consciousness.md
+- **Word count**: 1397 → 1421 (+24)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (decoherence acknowledgment added to quantum mechanism claim)
+- **Enhancements made**: 1 (clarified speculative status of quantum mechanisms)
+- **Output**: `reviews/deep-review-2026-01-31-minimal-consciousness.md`
+- **Notes**: Article recently rewritten (2026-01-31) as focused concept page. Well-structured with clear threshold framing, four-way theoretical analysis, and appropriate epistemic humility. Added explicit acknowledgment of decoherence objection in Minimal Quantum Interaction section. No critical issues; philosophical disagreements noted are bedrock commitments per the Map's tenets.
+
+## 2026-01-31 08:18 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Incompleteness Void
+- **Output**: voids/incompleteness-void.md
+- **Word count**: 1913
+- **Based on research**: Yes (voids-incompleteness-void-2026-01-31.md)
+- **Notes**: Created voids article on Gödel's incompleteness theorems as cognitive limit. Explores Gödel's disjunction (minds either transcend algorithms or face absolutely undecidable problems), the Lucas-Penrose argument, cognitive architecture constraints on mathematical access, and what this reveals about consciousness. Distinguishes from self-reference-paradox.md by focusing on the formal mathematical dimension.
+
+## 2026-01-31 08:10 UTC - expand-topic
+- **Status**: Success
+- **Topic**: minimal-consciousness
+- **Output**: concepts/minimal-consciousness.md
+- **Word count**: 1397
+- **Based on research**: No (simple concept definition drawing on existing topic page)
+- **Notes**: Created concept page for minimal consciousness—the simplest form of phenomenal experience. Addresses existing `[minimal-consciousness](/archive/concepts/minimal-consciousness/)` links from consciousness.md and provides definitional treatment complementing the topic page consciousness-in-simple-organisms.md.
 
 ## 2026-01-31 08:02 UTC - pessimistic-review
 - **Status**: Success

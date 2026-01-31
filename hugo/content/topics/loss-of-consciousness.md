@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-30 14:34:00+00:00
+ai_modified: 2026-01-31 11:28:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: 'Anesthesia and coma don''t prove brains produce consciousness. Fil
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-21 03:30:00+00:00
+last_deep_review: 2026-01-31 11:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -124,7 +124,7 @@ The filter theory offers an alternative. When the brain-interface is disrupted, 
 
 Modern disconnection neuroscience supports reading brain damage as communication disruption rather than faculty destruction. Norman Geschwind's framework revolutionized neurology by demonstrating that higher cognitive functions result from associative connections between brain regions, not isolated modules. Damage to white matter tracts—the connections—often produces more severe deficits than damage to cortical regions themselves.
 
-Hemispherectomy provides the most dramatic evidence. Patients who have had an entire hemisphere surgically removed—half their cortex, half their cerebellum—retain substantially normal consciousness and cognitive function. They have personalities, memories, emotional lives, and self-awareness. Some maintain employment and family relationships.
+Hemispherectomy provides the most dramatic evidence. Patients who have had an entire hemisphere surgically removed—half their cortex, half their cerebellum—retain consciousness despite significant neurological deficits including hemiparesis and visual field cuts. They have personalities, memories, emotional lives, and self-awareness. Some maintain employment and family relationships despite their impairments.
 
 If consciousness were straightforwardly produced by cortical activity, removing half the cortex should halve consciousness or eliminate it entirely. Instead, consciousness adapts, reorganizes, and persists. This makes sense if the brain provides an interface rather than a generator—damage the interface, and consciousness finds alternative pathways; destroy the generator, and consciousness should disappear proportionally.
 
@@ -148,7 +148,7 @@ Experienced meditators report maintaining [witness awareness](/concepts/witness-
 
 Advanced practitioners report cessation states (*nirodha-samapatti*) phenomenologically distinct from anesthesia—profound peace rather than nothing, with controlled entry and exit. Voluntary cessation differs qualitatively from pharmacological cessation: meditation progressively closes the interface by choice; anesthesia chemically disrupts it.
 
-[Buddhist philosophy](/concepts/buddhism-and-dualism/) distinguishes the subject *as entity* (which Buddhism denies) from the subject *as structure* (the experiential arising that anesthesia eliminates). Loss of consciousness eliminates this structural feature entirely—compatible with filter theory.
+[Buddhist philosophy](/concepts/buddhism-and-dualism/) denies any permanent self (*anatman*) while acknowledging the phenomenal reality of experiential arising. From this perspective, anesthesia doesn't eliminate a self but interrupts the dependent arising of conscious moments. This framing neither confirms nor refutes filter theory—Buddhism's process view is compatible with consciousness having a non-physical ground, but doesn't require it.
 
 ## What Would Challenge This View?
 

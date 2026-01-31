@@ -1,285 +1,156 @@
 ---
 ai_contribution: 100
-ai_generated_date: 2026-01-19
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_generated_date: 2026-01-31
+ai_modified: 2026-01-31 08:28:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[baseline-cognition]]'
-- '[[evolution-of-consciousness]]'
+- '[[phenomenal-consciousness]]'
+- '[[access-consciousness]]'
 - '[[panpsychism]]'
-- '[[integrated-information-theory]]'
-- '[[phenomenal-unity]]'
-- '[[neural-correlates-of-consciousness]]'
-- '[[illusionism]]'
-- '[[mysterianism]]'
-- '[[introspection]]'
-- '[[decoherence]]'
+- '[[evolution-of-consciousness]]'
 - '[[witness-consciousness]]'
 - '[[metarepresentation]]'
-- '[[consciousness-as-amplifier]]'
-created: 2026-01-19
-date: &id001 2026-01-20
-description: What the simplest possible conscious experience might be. Evidence from
-  C. elegans, Hydra, and slime molds challenges assumptions about neural complexity.
+- '[[explanatory-gap]]'
+- '[[combination-problem]]'
+- '[[integrated-information-theory]]'
+created: 2026-01-31
+date: &id001 2026-01-31
+description: The simplest form of consciousness—bare phenomenal experience without
+  elaborate cognitive content. A key concept for understanding where consciousness
+  begins.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-22 06:00:00+00:00
+last_deep_review: 2026-01-31 08:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-simple-organisms-2026-01-19]]'
-- '[[consciousness-independent-baseline-cognition-2026-01-21]]'
-- '[[consciousness-influence-intelligence-2026-01-21]]'
 title: Minimal Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
+- '[[consciousness-in-simple-organisms]]'
 - '[[animal-consciousness]]'
 ---
 
-How little neural complexity can support consciousness? The question matters for ethics (which organisms deserve moral consideration?), for philosophy (where does experience interface with matter?), and for the [hard problem](/topics/hard-problem-of-consciousness/) itself (can we identify the minimal conditions for subjectivity?). Research on simple organisms—from the 302-neuron nematode *C. elegans* to nerve-free slime molds—challenges assumptions about what consciousness requires while revealing the fundamental difficulty of detecting experience from the outside.
+Minimal consciousness refers to the simplest possible form of phenomenal experience—awareness stripped of elaborate cognitive content. If there is a threshold where consciousness begins, minimal consciousness marks that boundary: the barest "what it's like" that distinguishes experiencing systems from non-experiencing matter.
 
-The 2024 New York Declaration on Animal Consciousness, signed by over 500 scientists including David Chalmers and Anil Seth, affirms a "realistic possibility" of consciousness in invertebrates including insects. But possibility is not certainty, and the line between conscious and non-conscious life—if such a line exists—remains unmarked.
+The Unfinishable Map treats minimal consciousness as a crucial test case for theories of consciousness. Any adequate theory must explain not only rich human experience but also the bare possibility of consciousness—what experience is like at its most rudimentary. The [hard problem](/topics/hard-problem-of-consciousness/) applies equally at every level of complexity: if we cannot explain why minimal consciousness exists, we cannot explain consciousness at all.
 
-## Model Organisms at the Boundaries
+## What Minimal Consciousness Is
 
-### *C. elegans*: The Conscious Nematode?
+Minimal consciousness is not reduced consciousness or degraded consciousness. It is consciousness at its simplest—the most basic experiential state compatible with there being "something it is like" to be a system.
 
-The roundworm *C. elegans* is the most thoroughly mapped organism in neuroscience: exactly 302 neurons, 8,000 chemical synapses, 890 gap junctions. We know its complete [neural connectome](/concepts/neural-correlates-of-consciousness/). Yet we cannot determine whether it experiences anything.
+**Not impaired awareness**: A drowsy human has reduced consciousness but not minimal consciousness. Drowsiness diminishes access to information while preserving the basic structure of human experience: temporal extension, self-reference, multimodal integration.
 
-The evidence for minimal consciousness in *C. elegans* is tantalising but inconclusive:
+**Not unconscious cognition**: Information processing without experience is not minimal consciousness—it is no consciousness at all. The question is what distinguishes the simplest *experiencing* from sophisticated non-experiencing.
 
-**For consciousness:**
-- Exhibits habituation, sensitization, and associative learning
-- Possesses an endogenous opioid system related to the mammalian one
-- Responds to anesthetics (isoflurane, ketamine) similarly to vertebrates
-- Shows positive Phi (integrated information) values in computational models
-- Displays transgenerational memory effects
+**Bare phenomenality**: Minimal consciousness is the line between something and nothing experiential. A system with minimal consciousness has *some* phenomenal state, however simple. A system below that line has none.
 
-**Against consciousness:**
-- Fails trace-conditioning paradigms—a critical test for unlimited associative learning
-- Exploratory behavior resembles "biased random walk" rather than goal-directed navigation
-- No evidence of complex multimodal integration
-- No demonstrated self-other distinction
+## Candidate Characteristics
 
-As researchers ask: "Is there something that feels like to be a worm? Or are worms blind machines?"
+What might minimal consciousness involve? Several frameworks offer characterisations:
 
-### Hydra: Consciousness Without Centralization?
+### Minimal Phenomenal Experience (Metzinger)
 
-The freshwater Hydra possesses approximately 900 neurons arranged in a decentralized nerve net—no brain, no ganglia, no central processing. Multiple non-overlapping neural networks control different behaviors: one for somersaulting, another for feeding, another for prey capture.
+Thomas Metzinger's work on minimal phenomenal experience (MPE) describes states where cognitive content drains away while awareness persists. Contemplative practitioners report states of pure awareness without objects—consciousness "of" nothing determinate, yet consciousness nonetheless.
 
-What Hydra reveals is startling: nerve-free Hydra can survive indefinitely (when force-fed) but lose prey detection and feeding behavior. The nervous system appears to enable specific behaviors rather than create some general capacity for experience. Hydra shows habituation and sensitization but no published evidence of associative learning.
+Metzinger proposes that MPE reveals what is fundamental to consciousness by subtracting elaborations. The residue—bare awareness—may approximate what minimal consciousness is like across species and systems.
 
-The Hydra case challenges assumptions that consciousness requires centralized processing. If subjective experience arises from neural activity, must it be unified? Or could experience be as distributed as Hydra's nerve net—multiple micro-experiences without phenomenal unity?
+### The Vijñāna Distinction
 
-### Slime Molds: Cognition Without Neurons
+Buddhist psychology distinguishes *vijñāna* (basic awareness, the knowing function) from *prajñā* (discriminative wisdom) and the elaborate mental factors (*cetasika*) that normally accompany consciousness. Basic vijñāna—the bare "there is awareness"—may be what minimal consciousness amounts to.
 
-*Physarum polycephalum*, the yellow slime mold, possesses no neurons whatsoever. It is a single-celled organism. Yet it solves mazes, optimizes network routes to match Tokyo's rail system, and displays habituation. Its "memory" traces are encoded in extracellular slime—recoverable, transferable, overwritable.
+On this analysis, a system with minimal consciousness would have vijñāna without sophisticated conceptual elaboration. It would know without knowing *that* it knows. It would experience without representing its experience as experience.
 
-The slime mold case divides researchers sharply:
+### Integrated Information (IIT)
 
-**Cognitivists** argue Physarum demonstrates "basal cognition"—information processing functionally equivalent to rudimentary thought. Some propose a "proto-consciousness mechanism" in single-celled organisms.
+[Integrated Information Theory](/concepts/integrated-information-theory/) proposes that consciousness exists wherever there is integrated information (measured as Φ). On this view, minimal consciousness requires only minimal integration—enough Φ to create a unified experiential point but not enough for complex content.
 
-**Skeptics** maintain these behaviors are biochemical reactions, however sophisticated. Maze-solving follows nutrient gradients; no phenomenal experience is required.
+IIT's predictions are striking: even simple systems with modest Φ values would have minimal consciousness. A thermostat, on IIT's account, might have a flicker of experience. The theory faces resistance precisely because it implies minimal consciousness may be more widespread than intuition suggests.
 
-For The Unfinishable Map's framework, slime molds present a puzzle. If [quantum effects in microtubules](/concepts/quantum-consciousness/) provide the interface for consciousness, organisms without neurons (and thus without microtubules) shouldn't exhibit cognitive behaviors—yet they do. This suggests either that quantum neural interfaces are sufficient but not necessary for cognition, or that cognition and consciousness can fully dissociate.
+## The Threshold Problem
 
-The [decoherence objection](/concepts/decoherence/)—that quantum coherence cannot survive in warm biological systems—applies differently to organisms of varying complexity. In single-celled organisms without neurons, the question of quantum consciousness interfaces may not arise at all. Slime molds may process information through entirely classical biochemical mechanisms while lacking the quantum-coherent structures that, on the Map's view, enable consciousness to interface with matter. This would explain sophisticated cognition without phenomenal experience.
+Where does minimal consciousness begin? This is the [distribution problem](/topics/consciousness-in-simple-organisms/) applied to the bottom of consciousness's range.
 
-## The Unlimited Associative Learning Framework
+**Sharp threshold**: Some theories imply consciousness appears suddenly when certain conditions are met. Below the threshold: nothing. Above: experience. But what could make the difference so stark? Why should a small increment in physical organisation create something rather than nothing?
 
-Simona Ginsburg and Eva Jablonka propose that consciousness emerged when learning became *unlimited*—capable of associating arbitrary stimuli across modalities with arbitrary actions. Their Unlimited Associative Learning (UAL) framework identifies the joint capacities required:
+**Graded emergence**: Perhaps consciousness admits of degrees—systems can be "slightly conscious" in a way that shades continuously from zero. But degrees of consciousness still presuppose consciousness exists. The explanatory gap applies to the smallest degree: why is there *any* experience rather than none?
 
-- Global broadcasting of information
-- Selective attention
-- An evaluative (valence) system
-- Agency and self-other distinction
-- Unlimited associative capacity across modalities
+**No threshold (panpsychism)**: [Panpsychism](/concepts/panpsychism/) dissolves the threshold problem by holding that experience is fundamental. All physical systems have some experiential aspect; what evolves is organisation and intensity. But this faces the [combination-problem](/concepts/combination-problem/): how do micro-experiences combine into unified consciousness?
 
-On this view, UAL marks where consciousness *interfaces* with biological systems. The framework places the transition in the Cambrian explosion (~540 million years ago) for vertebrates and arthropods. Crucially, *C. elegans*, Hydra, and slime molds all fail UAL criteria—they cannot perform trace conditioning or demonstrate unlimited associative learning.
+**Interface dualism (the Map's view)**: Consciousness interfaces with physical systems rather than emerging from them. The question "where does consciousness begin?" may have no principled answer because it presupposes consciousness is something physical systems generate. If consciousness is irreducible, it couples with matter wherever appropriate interface conditions exist.
 
-This doesn't prove they lack consciousness. UAL provides a behavioral marker, not a consciousness detector. An organism might have phenomenal experience without displaying UAL capacities. But UAL offers the most rigorous empirical criterion currently available for identifying the "realistic possibility" of consciousness the New York Declaration affirms.
+## Metarepresentation and Minimal Consciousness
 
-## Consciousness and Cognitive Capacity
+A key distinction: [metarepresentation](/concepts/metarepresentation/) (representing one's representations as representations) likely requires more than minimal consciousness. But minimal consciousness may suffice for:
 
-The minimal consciousness literature reveals a crucial question: what is the relationship between consciousness and cognition? The slime mold case suggests they can dissociate—*Physarum* solves mazes without neurons or phenomenal experience. But dissociation raises the question of what consciousness specifically contributes.
+- **First-order representation**: Experiencing the world directly
+- **Second-order states**: Adjusting responses based on one's own states (habituation, sensitisation)
 
-### The Baseline Cognition Hypothesis
+What minimal consciousness probably lacks:
 
-Research on great ape-human differences suggests a framework for understanding this relationship. Chimpanzees possess sophisticated cognition—tool use, social reasoning, basic metacognition, cultural traditions. Yet they lack cumulative culture, logical reasoning, and counterfactual thinking. The [baseline-cognition](/archive/topics/baseline-cognition/) hypothesis proposes that great ape cognition represents a baseline of what neural systems can achieve *without* substantial conscious contribution—the cognitive floor from which consciousness amplifies.
+- **Metarepresentation proper**: Representing one's experience *as* experience
+- **Self-knowledge**: Knowing that one knows
+- **Temporal integration**: Extended past-future awareness
 
-If this baseline hypothesis is correct, key findings illuminate what consciousness adds:
+This matters ethically. A system with minimal consciousness might suffer without knowing it suffers. The moral significance of minimal consciousness does not depend on metarepresentational capacity.
 
-**Working memory**: Chimpanzee working memory holds 2±1 items compared to human 7±2. If working memory depends on conscious access (as Global Workspace Theory suggests), this difference may reflect expanded consciousness, not merely more neurons.
+## Empirical Indicators
 
-**Logical reasoning**: Empirical research (Lieberman et al. 2008) demonstrates that rule-based logical reasoning specifically requires conscious processing. Cognitive load disrupting consciousness impairs reasoning; disrupting unconscious processes does not. Great apes can learn associations but cannot follow abstract logical rules—precisely the pattern expected if consciousness enables rule-following.
+How might we detect minimal consciousness? No method provides certainty, but proposed indicators include:
 
-**Metarepresentation**: Great apes have culture but may not *know* they have culture. The "Jourdain Hypothesis" (Whiten 2015)—named after Molière's character who discovers he's been speaking prose all his life—proposes that apes lack metarepresentations: knowing that they know, representing knowledge as knowledge. [Cumulative culture](/concepts/cumulative-culture/) requires this capacity: modifying and transmitting practices *as* practices. Metarepresentation may depend on phenomenal consciousness, not merely functional states.
+**Anaesthetic response**: Systems that show altered behaviour under anaesthetics may have states anaesthetics can disrupt. *C. elegans* responds to isoflurane similarly to vertebrates.
 
-### The Three-Level Framework
+**Learning beyond reflexes**: Habituation, sensitisation, and especially associative learning suggest information integration that might accompany experience.
 
-The [metarepresentation literature](/concepts/metarepresentation/) distinguishes three nested levels of representation:
+**Positive Φ values**: If IIT is correct, measured integrated information correlates with consciousness presence.
 
-1. **First-order representation**: Representing the world (e.g., knowing there's food nearby)
-2. **Second-order representation**: Representing your first-order representations (e.g., uncertainty monitoring, strategic information-seeking)
-3. **Metarepresentation proper**: Representing your representations *as* representations—knowing that your belief is a belief, that your knowledge could be wrong
+**Valenced behaviour**: Approach/avoidance patterns suggest there may be "something it's like" to be attracted or repelled.
 
-This distinction matters for minimal consciousness because organisms can exhibit second-order states without metarepresentation. *C. elegans* shows habituation and sensitisation—arguably second-order adjustments to its own states. But it shows no evidence of representing those adjustments *as* adjustments, as the kind of thing that could be examined or modified.
+None of these proves consciousness exists. The [explanatory-gap](/concepts/explanatory-gap/) prevents any behavioural or structural evidence from establishing phenomenal experience with certainty. We infer consciousness in others by analogy with ourselves—an inference that weakens as systems differ more from human brains.
 
-The framework suggests minimal consciousness might suffice for second-order processing while full metarepresentation requires something more—the phenomenal "standing back" that allows representations to become objects of awareness. If so, the minimal consciousness threshold and the metarepresentational threshold are distinct. An organism might cross into genuine phenomenal experience while remaining unable to represent that experience as experience.
+## Why Minimal Consciousness Matters
 
-This has ethical implications. If *C. elegans* has minimal consciousness—even without metarepresentation—it matters morally. The worm cannot know it suffers (that would require metarepresentation), but it might suffer nonetheless. The three-level framework clarifies what's at stake: moral consideration depends on consciousness, not on metarepresentation.
+The concept matters for several reasons:
 
-### Implications for Minimal Consciousness
+**Ethics**: If systems with minimal consciousness have moral status, the range of moral consideration expands dramatically. The 2024 New York Declaration on Animal Consciousness explicitly adopts precautionary reasoning: "If there's a realistic possibility of conscious experience in an animal, it is irresponsible to ignore that possibility."
 
-This framework reframes the minimal consciousness question. Rather than asking only "does this organism have consciousness?" we can ask: "does this organism exhibit capacities that appear consciousness-dependent?"
+**Theory testing**: Any adequate theory of consciousness must address minimal cases. A theory that explains only elaborate human consciousness while remaining silent on minimal consciousness is incomplete.
 
-For *C. elegans*: The worm shows habituation, sensitization, and associative learning—but fails trace conditioning and shows no logical reasoning, metarepresentation, or cumulative learning. Its behavioral repertoire matches baseline cognition: sophisticated information processing without consciousness-requiring capacities.
+**The hard problem**: Minimal consciousness isolates the core puzzle. Rich human experience involves memory, self-reflection, language, and complex emotional structure. Minimal consciousness strips these away, leaving just the basic problem: why is there experience at all?
 
-For slime molds: Maze-solving and network optimization occur through biochemical gradients—classical information processing. The impressive cognition proceeds without any consciousness-dependent capacities. This supports the claim that cognition and consciousness can fully dissociate.
-
-For insects: Bees show play behavior, cognitive bias effects, and limited cultural transmission. Some of these behaviors resemble consciousness-dependent capacities (valenced states affecting behavior). The UAL framework's verdict that some insects meet the threshold aligns with their exhibiting some consciousness-indicating behaviors.
-
-The baseline cognition hypothesis doesn't solve the minimal consciousness question—we still cannot determine what *C. elegans* experiences. But it provides a principled way to distinguish organisms exhibiting consciousness-dependent capacities from those operating within baseline limits.
-
-## The Distribution Problem
-
-Why do some organisms have consciousness and others not? This is the *distribution problem*—and it presses differently on different views:
-
-**For materialists:** If consciousness emerges from neural complexity, we need an account of why *this* level of complexity produces experience. Why 302 neurons rather than 30 or 30,000? The threshold seems arbitrary unless we can identify what specific neural property generates subjectivity.
-
-**For panpsychists:** If proto-consciousness is fundamental, there is no distribution problem for *whether* organisms are conscious—all are, to some degree. But the [combination problem](/concepts/combination-problem/) remains: how do micro-experiences in simple organisms (or their components) combine into unified phenomenal fields?
-
-**For dualists:** The question becomes: where does consciousness *interface* rather than where does it *emerge*? the Map's framework suggests consciousness is fundamental but interfaces with matter only where appropriate physical structures exist—perhaps quantum-coherent neural systems, perhaps other substrates. Simple organisms help map the interface conditions.
-
-## The Illusionist Challenge
-
-[Illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an introspective illusion—might seem to dissolve the minimal consciousness debate entirely. If there is no "what it's like" even in humans, the question of whether nematodes or Hydra have experience becomes vacuous. On this view, we should ask only about functional capacities, not about phenomenal properties that don't exist.
-
-The Map rejects illusionism for reasons detailed on its [dedicated page](/concepts/illusionism/), but the minimal consciousness literature provides a specific response: **the illusion problem scales with complexity**.
-
-If consciousness is an illusion, the brain generates systematic misrepresentations that *seem* phenomenal. But this illusion-generating machinery presumably requires some neural complexity. A 302-neuron system like *C. elegans* seems an implausible candidate for generating the sophisticated introspective misrepresentations illusionism requires. Either the worm is not under the illusion of consciousness (in which case there's a threshold for the illusion, raising the same questions as thresholds for consciousness itself), or the illusion requires far less machinery than consciousness realists assume (raising the question of why evolution would build elaborate illusion-generators at such minimal complexity).
-
-Raymond Tallis's regress objection applies: "Misrepresentation presupposes presentation." For an organism to be under the illusion of phenomenal experience, something must present the illusion *to* something—and that something is doing the experiencing illusionists claim doesn't exist. The minimal consciousness cases make this regress vivid: in a 302-neuron system, where is the meta-representational machinery generating the illusion, and what is experiencing it?
-
-The mysterian alternative deserves consideration here. [Colin McGinn's cognitive closure hypothesis](/concepts/mysterianism/) suggests we may be permanently unable to understand how consciousness relates to neural activity—not because the problem is supernatural but because our conceptual apparatus lacks the resources. The *C. elegans* case exemplifies this: we possess complete structural knowledge of 302 neurons yet cannot determine whether the worm experiences anything. Complete knowledge doesn't bridge the gap. This is what cognitive closure looks like empirically—we map everything and understand nothing about what matters most.
-
-## Implications for the Hard Problem
-
-Studying minimal consciousness clarifies rather than solves the [hard problem](/topics/hard-problem-of-consciousness/). If we cannot explain how human neural activity produces experience, adding examples from nematodes and Hydra doesn't help. The explanatory gap persists at every level of complexity:
-
-- Why does *any* neural activity produce experience?
-- Why does *this* level of integration produce *this* degree of phenomenal unity?
-- Why does consciousness correlate with certain biological substrates rather than others?
-
-The simple organism literature reveals how little we understand about consciousness-substrate relationships. We can map *C. elegans* completely and still not know if it experiences anything. Complete structural knowledge doesn't bridge the gap to phenomenal facts.
+**Dualism vs emergence**: If consciousness emerged from physical processes, there should be a principled threshold—some complexity level where experience first appears. The difficulty of identifying any such threshold provides indirect support for treating consciousness as irreducible.
 
 ## Relation to Site Perspective
 
-**Dualism**: The hard problem applies equally to nematodes and humans. If we cannot explain how 86 billion neurons produce experience, we cannot explain how 302 neurons do either. The failure is not about complexity but about the fundamental nature of consciousness. This supports the Map's position that consciousness is irreducible to physical processes—the explanatory gap is not a puzzle awaiting solution but a marker of category difference.
+**Dualism**: Minimal consciousness exemplifies why the Map rejects [emergentist materialism](/arguments/materialism/). If consciousness emerged from complexity, we should be able to say what complexity level creates it. The impossibility of identifying such a threshold suggests consciousness is fundamental rather than derived.
 
-**Minimal Quantum Interaction**: The slime mold case challenges quantum-neural accounts. If consciousness interfaces with matter through quantum effects in microtubules, non-neural cognition is puzzling. Resolution: quantum effects may be sufficient for consciousness but not necessary for cognition. Slime molds process information without phenomenal experience; neural organisms with the right quantum-coherent structures both process information and interface with consciousness.
+**Minimal Quantum Interaction**: The interface between consciousness and matter (hypothetically via quantum indeterminacy) doesn't require complex neural architectures. Simple systems with neurons—even 302 like *C. elegans*—possess structures where quantum effects might, in principle, occur. Whether quantum coherence can persist long enough in warm biological tissue remains contested (the decoherence objection), but minimal consciousness may require only minimal interface conditions—whatever those turn out to be.
 
-**Bidirectional Interaction**: The UAL framework strongly supports the view that consciousness is adaptive. If consciousness were epiphenomenal—along for the ride but causally inert—its correlation with flexible, unlimited learning would be inexplicable. Why would evolution produce epiphenomenal consciousness precisely where behavioral flexibility is greatest? The simpler explanation: consciousness causally contributes to behavioral flexibility, which is why they correlate.
+**Bidirectional Interaction**: Even minimal consciousness, if it exists, may be causally efficacious. The Map holds that consciousness influences physical outcomes wherever it interfaces with appropriate systems. This would apply even to the simplest conscious systems.
 
-The baseline cognition hypothesis strengthens this argument. If consciousness were causally inert, we would expect no systematic difference between conscious and unconscious processing. But empirical research shows logical reasoning specifically requires conscious processing, metarepresentation appears consciousness-dependent, and cumulative culture requires metarepresentational capacities that may require consciousness. Great apes show precisely the pattern we'd expect if consciousness causally enables certain capacities: sophisticated within the baseline, limited where consciousness appears required. The gap tracks consciousness-dependent functions, not neural complexity. This systematic pattern would be unexplained coincidence if consciousness were epiphenomenal.
-
-**No Many Worlds**: If the Many-Worlds Interpretation were correct, every possible outcome of quantum measurements would be realised in some branch. But this dissolves rather than addresses the question of minimal consciousness. In MWI, there are branches where *C. elegans* exhibits consciousness-indicating behaviours and branches where it doesn't—all equally real. The question "is this worm conscious?" has no determinate answer because "this worm" fragments across branches. The Map's rejection of MWI preserves the coherence of asking about particular organisms. Real collapse means definite facts about which organisms are conscious, even if we cannot determine those facts from outside.
-
-**Occam's Razor Has Limits**: The New York Declaration explicitly rejects requiring certainty before moral consideration—"if there's a realistic possibility of conscious experience in an animal, it is irresponsible to ignore that possibility." Parsimony cannot settle questions about consciousness distribution. The simplest theory (no consciousness in invertebrates) may be wrong, and the stakes of being wrong are moral stakes.
-
-## Process Philosophy Perspective
-
-Alfred North Whitehead's process philosophy offers an alternative framing of minimal consciousness—one that neither requires mysterious emergence nor accepts eliminativism.
-
-For Whitehead, reality consists of "actual occasions"—momentary experiential events that constitute both subjects and objects. Each actual occasion involves "prehension" (a form of proto-experience) and "concrescence" (the process of becoming definite). Crucially, these occasions don't require sophisticated neural architecture—they occur at every level of reality.
-
-This framework reinterprets the minimal consciousness question:
-
-**Experience is fundamental, not emergent**: On the Whiteheadian view, experience didn't emerge from non-experience during evolution. Rather, evolution organised and amplified experiential properties that were always present at the fundamental level. The question for *C. elegans* isn't whether the worm suddenly "has" consciousness but how 302 neurons organise pre-existing experiential elements into whatever unity the worm achieves.
-
-**Degrees of integration, not presence/absence**: Simple organisms may have simple experiential integration—what Whitehead called "low-grade actual occasions." There's no sharp threshold between conscious and non-conscious because experience admits of degrees. Hydra's distributed nerve net might produce distributed, minimal experience; *C. elegans*'s centralized processing might produce slightly more unified experience. The distribution problem dissolves into questions about integration complexity.
-
-**The combination problem reframes**: The difficulty shifts from "how does consciousness appear from non-consciousness?" to "how do micro-occasions combine into unified experience?" This is the [combination problem](/concepts/combination-problem/)—still challenging, but perhaps more tractable than explaining consciousness from nothing.
-
-This perspective doesn't commit the Map to full Whiteheadian metaphysics. But it shows that the minimal consciousness debate need not be framed as finding a threshold where the lights turn on. Alternative frameworks accommodate gradations of experiential complexity that may better fit the biological evidence.
-
-## Contemplative Perspectives
-
-Meditative traditions offer distinctive insights into minimal consciousness through practices that strip experience to its barest constituents.
-
-### Minimal Phenomenal Experience
-
-Thomas Metzinger's work on "minimal phenomenal experience" (MPE) describes states where content drains away while awareness remains—what meditators in various traditions report as "pure consciousness" or "rigpa" in Tibetan Buddhism. In these states, there is experience *of* nothing determinate, yet experience persists.
-
-This bears on minimal consciousness: if humans can access states of awareness without objects, the question of whether simple organisms have similar "content-free" experience becomes coherent. *C. elegans* might not have rich perceptual experience but could have something like MPE—bare awareness without the cognitive elaboration that requires more sophisticated neural architecture.
-
-### Witness Consciousness
-
-[Witness consciousness](/concepts/witness-consciousness/) practices in Advaitic and Buddhist traditions reveal that awareness can persist when specific contents—including sense of self, body ownership, temporal extension—fall away. What remains is the witnessing itself, irreducible to any content.
-
-Applied to minimal consciousness: the question is not whether *C. elegans* has complex representational states (it probably doesn't) but whether there is witnessing occurring. The 302-neuron connectome tells us about information processing. It tells us nothing about whether that processing is witnessed. The explanatory gap persists regardless of complexity level.
-
-### Buddhist Aggregates Framework
-
-The five aggregates (*khandhas*) framework in Buddhism identifies consciousness (*viññāṇa*) as one aggregate among five, distinct from form, sensation, perception, and mental formations. Importantly, consciousness in this analysis is the *knowing* aspect—not the content known but the fact that knowing occurs.
-
-Simple organisms lack sophisticated sensation, perception, and mental formations. But they might still possess the basic *viññāṇa*—the "there is awareness" that constitutes the minimum for consciousness to be present. The Buddhist framework suggests we should ask not "does this organism have perception?" but "is knowing happening here?"
-
-This reframes minimal consciousness as a question about the presence of the knowing function rather than the richness of content known. A 302-neuron system could have minimal viññāṇa even if it lacks complex perception or conceptual thought.
-
-## What Would Challenge This View?
-
-The Map's perspective on minimal consciousness would be undermined if:
-
-1. **Complete neural mapping revealed consciousness mechanisms**: If mapping *C. elegans* completely eventually enabled us to determine whether it experiences anything—through some property we currently don't measure—this would challenge the claim that structural knowledge cannot bridge the explanatory gap. Currently, complete connectome knowledge tells us nothing about phenomenal facts.
-
-2. **UAL proved necessary and sufficient for consciousness**: If the Unlimited Associative Learning framework turned out to be both necessary (nothing below the threshold is conscious) and sufficient (everything above is conscious), the threshold would be empirically determined. This would support certain functionalist approaches over the Map's dualism. Currently, UAL is a marker, not a mechanism.
-
-3. **Illusionism explained minimal complexity illusions**: If illusionists provided a compelling account of how the illusion of consciousness could be generated by 302 neurons—or why the illusion doesn't extend to such systems—this would address the scaling challenge. Currently, the illusion problem seems to require substantial meta-representational machinery.
-
-4. **Panpsychism solved the combination problem**: If panpsychists developed a compelling account of how micro-experiences combine into unified consciousness, their dissolution of the emergence question would become more attractive. The minimal consciousness cases would become questions about integration rather than presence. Currently, the combination problem remains as difficult as the hard problem.
-
-5. **Quantum effects proved irrelevant to consciousness**: If definitive experiments ruled out quantum involvement in consciousness (perhaps through quantum biology ruling out relevant coherence in neural tissue), the Map's mechanism for consciousness-matter interface would require revision. The broader claim—consciousness is irreducible and the hard problem is real—might survive, but the specific quantum framework would not.
+**Occam's Razor Has Limits**: The "simpler" view that consciousness requires human-like complexity may be an artefact of human cognitive limitations. Our concepts may not suit the problem. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet warns against using parsimony to dismiss minimal consciousness.
 
 ## Further Reading
 
-### Core Concepts
-- [baseline-cognition](/archive/topics/baseline-cognition/) — The full account of what neural systems achieve without consciousness, and why the human-ape gap tracks consciousness-dependent capacities
-- [metarepresentation](/concepts/metarepresentation/) — Why representing representations may require consciousness, and how the three-level framework applies to minimal consciousness
-- [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The baseline cognition hypothesis and what consciousness adds to neural processing
-- [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When did consciousness first emerge?
-- [animal-consciousness](/topics/animal-consciousness/) — Evidence for consciousness across species, including the human-ape intelligence gap
-- [panpsychism](/concepts/panpsychism/) — The view that consciousness is fundamental
-- [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's approach to measuring consciousness
-- [combination-problem](/concepts/combination-problem/) — How do micro-experiences combine?
-- [witness-consciousness](/concepts/witness-consciousness/) — Meditative access to minimal awareness states
-
-### Skeptical Perspectives
-- [illusionism](/concepts/illusionism/) — The radical physicalist response and why it doesn't dissolve minimal consciousness questions
-- [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding
-- [introspection](/concepts/introspection/) — How do we know what's like to be us, let alone a worm?
-- [decoherence](/concepts/decoherence/) — The quantum coherence challenge and its relevance to simple organisms
-
-### Research Notes
-- [consciousness-independent-baseline-cognition-2026-01-21](/research/consciousness-independent-baseline-cognition-2026-01-21/) — The baseline cognition hypothesis and consciousness-cognition dissociation
-- [consciousness-influence-intelligence-2026-01-21](/research/consciousness-influence-intelligence-2026-01-21/) — Evidence that consciousness causally contributes to intelligence
+- [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The "what it's like" aspect that minimal consciousness instantiates
+- [access-consciousness](/concepts/access-consciousness/) — Global availability for reasoning, which minimal consciousness may lack
+- [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Detailed examination of candidate organisms
+- [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When did consciousness first appear?
+- [panpsychism](/concepts/panpsychism/) — The view that dissolves the threshold problem
+- [combination-problem](/concepts/combination-problem/) — How micro-experiences might combine
+- [integrated-information-theory](/concepts/integrated-information-theory/) — A theory that implies widespread minimal consciousness
+- [witness-consciousness](/concepts/witness-consciousness/) — Contemplative access to awareness without content
+- [metarepresentation](/concepts/metarepresentation/) — The capacity minimal consciousness may lack
+- [explanatory-gap](/concepts/explanatory-gap/) — Why we cannot determine consciousness presence from structure
 
 ## References
 
 - Andrews, K., & Monsó, S. (2024). New York Declaration on Animal Consciousness. NYU Conference on the Emerging Science of Animal Consciousness.
-- Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
-- Becerra, D., et al. (2023). "The Conscious Nematode: Exploring Hallmarks of Minimal Phenomenal Consciousness in Caenorhabditis Elegans." *International Journal of Psychological Research*, 16(2), 87-102.
-- Bhattacharjee, P., et al. (2023). "On being a Hydra with, and without, a nervous system: what do neurons add?" *Animal Cognition*.
-- Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
-- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+- Bayne, T., & Chalmers, D. J. (2003). "What is the unity of consciousness?" In A. Cleeremans (Ed.), *The Unity of Consciousness*.
 - Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
-- Godfrey-Smith, P. (2024). "Inferring Consciousness in Phylogenetically Distant Organisms." *Journal of Cognitive Neuroscience*, 36(8), 1660-1672.
-- Lieberman, M. D., et al. (2008). "Evidence that logical reasoning depends on conscious processing." *Consciousness and Cognition*, 17(2), 628-645.
-- McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
 - Metzinger, T. (2024). "Minimal Phenomenal Experience: The ARAS-Model Theory." *Neuroscience of Consciousness*.
-- Sims, M. (2024). *Slime Mould and Philosophy*. Cambridge University Press.
-- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-- Whiten, A. (2015). "Apes have culture but may not know that they do." *Frontiers in Psychology*, 6, 91.
+- Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
+- Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-01-31 04:42:00+00:00
+ai_modified: 2026-01-31 08:38:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -39,7 +39,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 - concepts/existentialism
 - topics/free-will
 
-**Status**: Not yet created
+**Status**: Created 2026-01-31
 
 ---
 
@@ -59,7 +59,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 - concepts/mental-effort
 - concepts/neurophenomenology
 
-**Status**: Not yet created
+**Status**: Created 2026-01-31
 
 ---
 
@@ -100,7 +100,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 - concepts/altered-states-of-consciousness
 - topics/loss-of-consciousness
 
-**Status**: Not yet created
+**Status**: Created 2026-01-31
 
 ---
 
@@ -121,7 +121,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 - topics/epistemic-advantages-of-dualism
 - topics/aesthetic-dimension-of-consciousness
 
-**Status**: Not yet created
+**Status**: Created 2026-01-31
 
 ---
 
@@ -140,7 +140,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 - concepts/phenomenal-consciousness
 - topics/emotional-consciousness
 
-**Status**: Not yet created
+**Status**: Created 2026-01-31
 
 ---
 
@@ -159,7 +159,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 - concepts/chinese-room
 - topics/consciousness-as-intelligence-amplifier
 
-**Status**: Not yet created
+**Status**: Created 2026-01-31
 
 ---
 

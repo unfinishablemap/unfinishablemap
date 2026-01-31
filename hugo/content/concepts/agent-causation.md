@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-31 01:51:00+00:00
+ai_modified: 2026-01-31 10:08:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -31,10 +31,11 @@ description: Agent causation holds that persons originate actions directly, not 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-31 01:51:00+00:00
+last_deep_review: 2026-01-31 10:08:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[process-and-consciousness]]'
 - '[[agent-causation-libertarian-free-will-2026-01-14]]'
 - '[[voluntary-attention-control-mechanisms-2026-01-17]]'
 - '[[motor-control-quantum-zeno-2026-01-18]]'
@@ -136,7 +137,7 @@ This strengthens agent causation against the critic who asks what about the agen
 
 Hausman's *L-creativity* requires "metaphysical novelty"—what genuinely didn't exist before—mapping directly onto sourcehood. Bergson's [duration](/concepts/duration/) develops this: conscious experience brings genuine novelty through memory's integration with the present. The agent isn't source just at choice but throughout the creative process.
 
-Whitehead's process philosophy offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally rather than metaphysically exceptional.
+Whitehead's [process philosophy](/concepts/process-philosophy/) offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally rather than metaphysically exceptional. This reframes the objection: the question is not "How can consciousness possibly cause anything?" but "Why did we think it couldn't?" The [Process and Consciousness](/apex/process-and-consciousness/) apex develops this connection in depth.
 
 ## What Would Challenge This View?
 
@@ -161,6 +162,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main 
 
 ## Further Reading
 
+- [process-and-consciousness](/apex/process-and-consciousness/) — How process philosophy supports agent causation (apex synthesis)
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Systematic treatment including Kane's 2024 convergence
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — Deliberation, decision, authorship
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Generation beyond selection

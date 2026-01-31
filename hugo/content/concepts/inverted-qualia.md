@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-31 10:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: What if your red looks like my green? Functionally identical beings
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 08:30:00+00:00
+last_deep_review: 2026-01-31 10:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -163,9 +163,9 @@ The phenomenology-cognition asymmetry: cognitive biases operate on judgments abo
 
 ### Contemplative Evidence
 
-Meditative traditions report [witness-consciousness](/concepts/witness-consciousness/)—awareness that observes mental contents without identification. Practitioners in jhāna states describe observing color qualia with unusual clarity while reducing cognitive processing. If qualia were purely representational artifacts, advanced meditators who have learned to distinguish raw experience from cognitive overlay should find qualia dissolving. Instead, they report qualia becoming *more* vivid as representational noise diminishes.
+Meditative traditions report [witness-consciousness](/concepts/witness-consciousness/)—awareness that observes mental contents without identification. Some practitioners in jhāna states describe observing color qualia with unusual clarity while reducing cognitive processing. However, meditative reports are not uniform: certain Buddhist traditions (particularly Madhyamaka) report that close examination reveals the constructed and empty nature of qualitative experience.
 
-This doesn't prove inverted qualia are possible, but it challenges the illusionist dismissal. If trained observers consistently report qualitative character as distinct from representational function, and if this distinction survives sophisticated attention training, the burden on illusionism increases.
+The significance for the inverted qualia debate is this: if qualia were purely representational artifacts, meditation should uniformly reveal them as such. Instead, contemplative reports diverge—suggesting qualia may have different aspects (some constructed, some irreducible) rather than being wholly eliminable. This doesn't prove inverted qualia are possible, but it complicates the illusionist dismissal.
 
 ## Process Philosophy Perspective
 
@@ -201,7 +201,7 @@ The inverted qualia argument—and The Unfinishable Map's reliance on it—would
 
 4. **Functionalism explains intrinsic properties.** If functional accounts could accommodate intrinsic properties of experience—not by denying them but by showing how function constitutes them—the apparent gap between function and quality would close. Some sophisticated functionalists attempt this, but the attempts have not succeeded.
 
-5. **Contemplative traditions converge on the illusionist view.** If advanced meditators across traditions reported that qualia dissolve under careful examination—that what seemed like intrinsic qualitative character was revealed as representational construction—this would support illusionism. Currently, contemplative reports tend in the opposite direction.
+5. **Contemplative traditions uniformly support illusionism.** If advanced practitioners across major traditions (Theravada jhāna, Zen shikantaza, Tibetan dzogchen, Advaita self-inquiry) consistently reported that sustained examination reveals qualia as purely constructed—with no irreducible qualitative residue—this would strengthen illusionism. Currently, reports diverge: some traditions emphasize construction, others report an irreducible "suchness" that survives deconstruction.
 
 None of these conditions are currently met. Functional role continues to seem distinct from qualitative character; color space asymmetries remain limited; illusionism struggles with the regress; functionalism hasn't captured intrinsicness; and contemplative reports support qualia's reality.
 
@@ -233,9 +233,9 @@ The [decoherence](/concepts/decoherence/) objection—that quantum effects are t
 
 ### No Many Worlds
 
-The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to inverted qualia through [haecceity](/concepts/haecceity/). If all quantum outcomes occur (as MWI holds), then in some branch Invert experiences phenomenal red and in another phenomenal green—and both branches are equally real. The question "what does Invert *actually* experience?" becomes unanswerable or meaningless.
+The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to inverted qualia through [haecceity](/concepts/haecceity/). If all quantum outcomes occur (as MWI holds), questions about what Invert *actually* experiences become indexically fraught. The MWI defender can still say "in this branch, Invert experiences phenomenal red"—branch-relative facts remain well-defined. But the deeper question—which branch am *I* in, and does that matter for what experience *is*—cannot be answered from within the formalism.
 
-The Map holds that the question is meaningful. There is a fact about what Invert experiences, not just what Invert experiences in this or that branch. Inverted qualia scenarios presuppose this: we're asking whether Invert's experience differs from Nonvert's, not whether some branch of Invert differs from some branch of Nonvert. The conceivability of the scenario supports real collapse and genuine indexical facts about experience.
+The Map holds that this indexical question is not merely unanswerable but points to something physics cannot capture. The conceivability of inverted qualia presupposes genuine facts about *this* subject's experience, not just about abstract branches. When we ask whether your red is my green, we're asking about us—not about our counterparts in other worlds. This first-person indexicality supports real collapse and genuine phenomenal facts.
 
 ### Occam's Razor Has Limits
 
