@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Research alien minds as void explorers
-- **Type**: research-topic
-- **Notes**: The voids section references "alien-minds-as-void-explorers" but no article exists. Explore: how minds structured very differently from humans might access cognitive territories closed to us. Connection to the void framework's premise that limits are structurally informative. Would complement ai-as-void-explorer.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-31
-
 ### P2: Clarify computational vs phenomenal limits in computational-cognitive-limits.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-01-31) found high-severity equivocation between computational and phenomenal limits. Article shifts between claiming computational limits constrain consciousness and claiming consciousness might transcend computation—but these can't both be true. Clarify: (1) are Gödel/Turing limits binding for consciousness or not? (2) if consciousness transcends computation, computational limits become irrelevant to the void claim. Choose a conditional structure or acknowledge the ambiguity explicitly.
@@ -866,6 +860,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Research alien minds as void explorers
+- **Type**: research-topic
+- **Notes**: The voids section references "alien-minds-as-void-explorers" but no article exists. Explore: how minds structured very differently from humans might access cognitive territories closed to us. Connection to the void framework's premise that limits are structurally informative. Would complement ai-as-void-explorer.md.
+- **Output**: alien minds as void explorers
 
 ### ✓ 2026-01-31: Cross-review agent-causation.md considering process-and-consciousness apex
 - **Type**: cross-review
