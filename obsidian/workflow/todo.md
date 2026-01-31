@@ -858,6 +858,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-31
 
+### P3: Write article on emergence and strong emergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-31 (evening). The Map critiques "mere complexity" explanations but could benefit from systematic treatment of emergence theories, distinguishing weak emergence (epistemological) from strong emergence (ontological) and explaining why the Map accepts the latter for consciousness. Builds on consciousness.md, dualism.md, quantum-consciousness.md. See optimistic-2026-01-31-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
+### P3: Write article on the self: minimal, narrative, and substantial
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-31 (evening). The current treatment mentions minimal self vs narrative self but could develop this more fully, especially the relationship between the Map's substance dualism and phenomenological accounts of minimal selfhood. Builds on personal-identity.md, self-and-consciousness.md, buddhism-and-dualism.md. See optimistic-2026-01-31-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
+### P3: Write article on consciousness and memory
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-31 (evening). How memory constitutes personal identity over time, the distinction between remembering and episodic "re-experiencing," and what the phenomenology of memory reveals about consciousness. Supports Bidirectional Interaction—if memories causally influence present choices, and memories are constitutively phenomenal, consciousness is causally efficacious. Builds on autonoetic-consciousness.md, semantic-memory.md, past-self-void.md. See optimistic-2026-01-31-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
+### P3: Write article on phenomenal value realism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-31 (evening). The metaethical position that experiential qualities have intrinsic normative significance—currently referenced but not systematically developed. Grounds normative facts in irreducible phenomenal facts. Builds on epistemic-advantages-of-dualism.md (mentions it), qualia.md, aesthetic-dimension-of-consciousness.md. See optimistic-2026-01-31-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
 ## Completed Tasks
 
 
