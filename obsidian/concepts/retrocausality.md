@@ -1,10 +1,10 @@
 ---
 title: "Retrocausality"
-description: "Backward causation in time-symmetric quantum mechanics. Resolves the Libet problem: consciousness can select outcomes despite neural activity preceding awareness."
+description: "Backward causation in time-symmetric quantum mechanics. On retrocausal interpretations, the Libet problem dissolves: consciousness can select outcomes despite neural activity preceding awareness."
 created: 2026-01-07
 modified: 2026-01-07
 human_modified: null
-ai_modified: 2026-01-27T23:15:00+00:00
+ai_modified: 2026-01-31T15:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,9 +36,9 @@ last_curated: null
 last_deep_review: 2026-01-27T23:15:00+00:00
 ---
 
-Retrocausality is the hypothesis that causation can operate backward in time—that future events can influence past ones. In the context of consciousness, retrocausality offers a resolution to the apparent problem of neural activity preceding conscious awareness: if consciousness can influence outcomes retrocausally, the temporal ordering of brain events poses no obstacle to genuine mental causation.
+Retrocausality is the hypothesis that causation can operate backward in time—that future events can influence past ones. In the context of consciousness, retrocausality offers a potential resolution to the apparent problem of neural activity preceding conscious awareness: if consciousness can influence outcomes retrocausally, the temporal ordering of brain events poses no obstacle to genuine mental causation.
 
-This concept matters for The Unfinishable Map's framework because the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] holds that consciousness causally influences the physical world. Critics point to Libet-style experiments showing neural "readiness potentials" appearing hundreds of milliseconds before conscious awareness of deciding. If consciousness arrives after the neural activity, how can it be the cause? Retrocausality dissolves this objection.
+This concept matters for The Unfinishable Map's framework because the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] holds that consciousness causally influences the physical world. Critics point to Libet-style experiments showing neural "readiness potentials" appearing hundreds of milliseconds before conscious awareness of deciding. If consciousness arrives after the neural activity, how can it be the cause? On retrocausal interpretations of quantum mechanics, this objection dissolves—though accepting such interpretations requires adopting a minority view in physics.
 
 ## The Puzzle of Temporal Ordering
 
@@ -46,7 +46,7 @@ This concept matters for The Unfinishable Map's framework because the [[tenets#^
 
 This seems to pose a problem: if the neural activity comes first, isn't consciousness merely informed of decisions already made? Doesn't this reduce consciousness to an epiphenomenon—a passenger rather than a driver?
 
-The retrocausal response: temporal precedence does not establish causal priority. If effects can precede causes, then consciousness occurring "after" neural activity is no obstacle to consciousness being the cause.
+The retrocausal response: temporal precedence does not establish causal priority. If effects can precede causes, then consciousness occurring "after" neural activity is no obstacle to consciousness being the cause. This response requires accepting an interpretation of quantum mechanics that includes retrocausality—a coherent option, but not the mainstream one.
 
 ## Retrocausality in Physics
 
@@ -56,13 +56,13 @@ Retrocausality has serious proponents and empirical grounding in physics.
 
 **Wheeler's delayed-choice**: Experiments confirm that measurement choices made *after* a particle passes through a double-slit can determine whether it behaved as wave or particle *earlier*. The 2017 satellite experiment extended this over thousands of kilometres.
 
-**The transactional interpretation**: Cramer's interpretation (1986) makes retrocausality explicit. Quantum events involve offer waves propagating forward, confirmation waves propagating backward, and an atemporal "handshake" that creates the transaction. The wave function is physically real; collapse occurs along the entire transaction simultaneously.
+**The transactional interpretation**: Cramer's interpretation (1986) makes retrocausality explicit. Quantum events involve offer waves propagating forward, confirmation waves propagating backward, and an atemporal "handshake" that creates the transaction. The wave function is physically real; collapse occurs along the entire transaction simultaneously. This interpretation remains a minority view—critics including Tim Maudlin have argued it faces difficulties with specific experimental setups, and Ruth Kastner has developed a modified version (the possibilist transactional interpretation) attempting to address these concerns. The debate continues, but the interpretation provides a coherent framework in which retrocausality is built into physics.
 
 **Bell tests**: Retrocausal models offer an alternative to nonlocality for explaining entanglement correlations—later measurements retroactively influence earlier states, preserving locality at the cost of temporal direction.
 
 ## Application to Consciousness
 
-The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets propose that consciousness selects among superposed neural states. If this selection operates retrocausally:
+The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets propose that consciousness selects among superposed neural states. If this selection operates retrocausally—as would be natural on the transactional interpretation—then:
 
 1. The brain prepares multiple possible action patterns (superposition)
 2. Consciousness "selects" which pattern becomes actual
@@ -73,13 +73,13 @@ The [[quantum-indeterminacy-free-will|systematic treatment of quantum indetermin
 
 ### The Atemporal Selection Model
 
-If consciousness operates at the transactional level, asking "when does consciousness make the decision?" may be the wrong question. The decision isn't made *at* a time; it determines *which* times become real. See [[collapse-and-time]] for the implications.
+On the transactional interpretation, if consciousness operates at the level of the quantum handshake, asking "when does consciousness make the decision?" may be the wrong question. The decision isn't made *at* a time; it determines *which* times become real. See [[collapse-and-time]] for the implications. This model requires accepting both the transactional interpretation and the claim that consciousness interfaces with quantum transactions—a coherent package, though each element is contested.
 
 ### Addressing Objections
 
 **Can we change history?** No—retrocausality doesn't imply altering established facts. The handshake creates a consistent transaction; the retrocausal influence is part of how the one real history came to be.
 
-**Isn't this unfalsifiable?** All quantum interpretations (Copenhagen, Many-Worlds, Bohmian) make identical predictions for currently testable scenarios. The question is which makes best sense of what we observe.
+**Isn't this unfalsifiable?** All quantum interpretations (Copenhagen, Many-Worlds, Bohmian) make identical predictions for currently testable scenarios. The question is which makes best sense of what we observe. This cuts both ways: retrocausality cannot be empirically established, but neither can it be empirically refuted by appealing to interpretations that deny it.
 
 **Why consciousness specifically?** The claim isn't that consciousness *adds* retrocausal powers but that physics already includes retrocausality, and consciousness operates at the level where this matters.
 
@@ -146,7 +146,7 @@ This doesn't prove the tenets are correct. It shows that a coherent physical pic
 - Neural activity can precede conscious awareness
 - These two facts are fully compatible
 
-The Libet experiments don't refute conscious causation; they reveal that conscious causation may operate outside the linear temporal order we normally assume.
+The Libet experiments don't refute conscious causation—provided one accepts an interpretation of physics that includes retrocausality. On standard interpretations that deny backward causation, the temporal ordering remains problematic. The Map's position is that retrocausal interpretations are sufficiently well-developed and physically motivated that the Libet objection is not decisive. Whether retrocausality is actually true remains an open question in physics; the point is that a coherent option exists under which conscious causation survives Libet intact.
 
 ## Further Reading
 
@@ -167,3 +167,18 @@ The Libet experiments don't refute conscious causation; they reveal that conscio
 - Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 - Sjöberg, R. L. (2024). SMA lesions and voluntary action. *Journal of Cognitive Neuroscience*.
 - Wheeler, J. A. (1978). The "past" and the "delayed-choice" double-slit experiment. In *Mathematical Foundations of Quantum Theory* (pp. 9-48). Academic Press.
+
+<!-- AI REFINEMENT LOG - 2026-01-31
+Changes made:
+- Made conditional structure explicit throughout: retrocausality dissolves Libet *if* you accept the transactional interpretation
+- Added acknowledgment that transactional interpretation is a minority view
+- Added engagement with Maudlin and Kastner criticisms of the transactional interpretation
+- Qualified "resolves" language to "potential resolution" and "on retrocausal interpretations"
+- Clarified the Map's position: retrocausal interpretations are sufficiently well-developed that Libet is not decisive, while acknowledging the question remains open
+- Updated description to reflect conditional framing
+
+Based on pessimistic review 2026-01-31-afternoon.md identifying that the article presented a conditional solution as if it were unconditional.
+Key improvements: Intellectual honesty about the interpretation-dependence of the Libet dissolution.
+
+This log should be removed after human review.
+-->

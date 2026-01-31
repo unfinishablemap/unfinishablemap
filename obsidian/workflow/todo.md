@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Clarify retrocausality's conditional structure re: transactional interpretation
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-01-31 found retrocausality.md presents the transactional interpretation as the Map's solution to Libet, but doesn't make the conditional structure explicit: the solution works *if* you accept the transactional interpretation, which is a minority view. Either defend the transactional interpretation against critics (Maudlin, Kastner) or present retrocausality as one coherent possibility rather than "the" resolution. See pessimistic-2026-01-31-afternoon.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-31
-
 ### P2: Address simulation hypothesis triviality objection
 - **Type**: refine-draft
 - **Status**: pending
@@ -895,6 +888,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Clarify retrocausality's conditional structure re: transactional interpretation
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-31 found retrocausality.md presents the transactional interpretation as the Map's solution to Libet, but doesn't make the conditional structure explicit: the solution works *if* you accept the transactional interpretation, which is a minority view. Either defend the transactional interpretation against critics (Maudlin, Kastner) or present retrocausality as one coherent possibility rather than "the" resolution. See pessimistic-2026-01-31-afternoon.md.
+- **Output**: Task context:
+Pessimistic review 2026-01-31 found retrocausality.md presents the transactional interpretation as the Map's solution to Libet, but doesn't make the conditional structure explicit: the solution works *if* you accept the transactional interpretation, which is a minority view. Either defend the transactional interpretation against critics (Maudlin, Kastner) or present retrocausality as one coherent possibility rather than "the" resolution. See pessimistic-2026-01-31-afternoon.md.
 
 ### ✓ 2026-01-31: Make "consciousness as low-bandwidth selector" explicit in agency apex
 - **Type**: refine-draft
