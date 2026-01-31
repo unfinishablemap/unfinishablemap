@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 10:50 UTC - refine-draft
+- **Status**: Success
+- **File**: voids/computational-cognitive-limits.md
+- **Changes**: Fixed equivocation between computational and phenomenal limits
+- **Issue**: Pessimistic review (2026-01-31) identified high-severity equivocation—article shifted between claiming computational limits constrain consciousness and claiming consciousness might transcend computation without acknowledging these positions conflict
+- **Resolution**: Restructured with explicit conditional framing: (1) if consciousness is computational, Gödel/Turing limits bind; (2) if consciousness transcends computation, limits constrain machines but not minds. The Map's dualist commitments suggest the second possibility deserves serious consideration.
+- **Published**: yes
+
 ## 2026-01-31 10:38 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Affective Void

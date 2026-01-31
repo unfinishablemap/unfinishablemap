@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Clarify computational vs phenomenal limits in computational-cognitive-limits.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-01-31) found high-severity equivocation between computational and phenomenal limits. Article shifts between claiming computational limits constrain consciousness and claiming consciousness might transcend computation—but these can't both be true. Clarify: (1) are Gödel/Turing limits binding for consciousness or not? (2) if consciousness transcends computation, computational limits become irrelevant to the void claim. Choose a conditional structure or acknowledge the ambiguity explicitly.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-31
-
 ### P2: Address self-undermining methodology in natural-vs-designed-limits.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-01-31) found high-severity methodological problem. Article acknowledges the question "are cognitive limits designed?" may be unanswerable from inside cognition, then proceeds to investigate it anyway. This self-undermining approach should be resolved: either (1) embrace pure speculation framing, (2) argue some aspect escapes the recursive trap, or (3) acknowledge the distinctions offered may themselves be artifacts of design.
@@ -860,6 +854,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Clarify computational vs phenomenal limits in computational-cognitive-limits.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-31) found high-severity equivocation between computational and phenomenal limits. Article shifts between claiming computational limits constrain consciousness and claiming consciousness might transcend computation—but these can't both be true. Clarify: (1) are Gödel/Turing limits binding for consciousness or not? (2) if consciousness transcends computation, computational limits become irrelevant to the void claim. Choose a conditional structure or acknowledge the ambiguity explicitly.
+- **Output**: obsidian/voids/computational-cognitive-limits.md
+
+Task context:
+Pessimistic review (2026-01-31) found high-severity equivocation between computational and phenomenal limits. Article shifts between claiming computational limits constrain consciousness and claiming consciousness might transcend computation—but these can't both be true. Clarify: (1) are Gödel/Turing limits binding for consciousness or not? (2) if consciousness transcends computation, computational limits become irrelevant to the void claim. Choose a conditional structure or acknowledge the ambiguity explicitly.
 
 ### ✓ 2026-01-31: Research alien minds as void explorers
 - **Type**: research-topic
