@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P0: Create apex article "The Machine Question"
-- **Type**: expand-topic
-- **Notes**: Create apex/machine-question.md. Thesis: Current AI systems lack consciousness not because of implementation details but because computation alone cannot generate experience—the gap is principled, not practical. Source articles: topics/ai-consciousness, topics/machine-consciousness, concepts/functionalism, concepts/chinese-room, topics/consciousness-as-intelligence-amplifier.
-- **Source**: human
-- **Generated**: 2026-01-31
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -878,6 +872,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Create apex article "The Machine Question"
+- **Type**: expand-topic
+- **Notes**: Create apex/machine-question.md. Thesis: Current AI systems lack consciousness not because of implementation details but because computation alone cannot generate experience—the gap is principled, not practical. Source articles: topics/ai-consciousness, topics/machine-consciousness, concepts/functionalism, concepts/chinese-room, topics/consciousness-as-intelligence-amplifier.
+- **Output**: Create apex article "The Machine Question"
 
 ### ✓ 2026-01-31: Create apex article "Minds Without Words"
 - **Type**: expand-topic

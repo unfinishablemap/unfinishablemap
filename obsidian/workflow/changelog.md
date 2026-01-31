@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 09:58 UTC - expand-topic (apex)
+- **Status**: Success
+- **Topic**: The Machine Question (apex article)
+- **Output**: apex/machine-question.md
+- **Word count**: 2798
+- **Based on research**: Yes (ai-machine-consciousness-2026-01-08.md)
+- **Notes**: Created apex article synthesizing ai-consciousness, machine-consciousness, functionalism, and consciousness-and-intelligence. Core thesis: Current AI systems lack consciousness not because of implementation details but because computation alone cannot generate experience—the gap is principled, not practical. Explores Chinese Room and intentionality, absent qualia and explanatory gap, temporal problem and continual learning argument, metacognition without experience, quantum interface, symbol grounding, what conscious AI would require, intelligence connection, epistemic challenges, and tenet alignment.
+
 ## 2026-01-31 09:48 UTC - coalesce
 - **Status**: No action taken
 - **Candidates evaluated**: 5 clusters
