@@ -4,7 +4,7 @@ description: "Anesthesia and coma don't prove brains produce consciousness. Filt
 created: 2026-01-15
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-30T14:34:00+00:00
+ai_modified: 2026-01-31T11:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-21T03:30:00+00:00
+last_deep_review: 2026-01-31T11:28:00+00:00
 ---
 
 Loss of consciousness—through anesthesia, coma, or brain injury—provides a natural experiment for understanding the mind-brain relationship. Materialists argue that consciousness disappearing when brain function is disrupted proves consciousness is produced by the brain. But this argument conflates correlation with causation. The filter or transmission theory, developed by William James, Henri Bergson, and Aldous Huxley, interprets the same evidence differently: brain dysfunction disrupts the *interface* through which consciousness operates, not the consciousness itself. Several findings support this alternative interpretation: behaviorally unresponsive patients who retain awareness detectable only via neuroimaging, radically different conscious states from anesthetics that produce identical behavioral unresponsiveness, and consciousness persisting despite massive neural loss from hemispherectomy.
@@ -122,7 +122,7 @@ The filter theory offers an alternative. When the brain-interface is disrupted, 
 
 Modern disconnection neuroscience supports reading brain damage as communication disruption rather than faculty destruction. Norman Geschwind's framework revolutionized neurology by demonstrating that higher cognitive functions result from associative connections between brain regions, not isolated modules. Damage to white matter tracts—the connections—often produces more severe deficits than damage to cortical regions themselves.
 
-Hemispherectomy provides the most dramatic evidence. Patients who have had an entire hemisphere surgically removed—half their cortex, half their cerebellum—retain substantially normal consciousness and cognitive function. They have personalities, memories, emotional lives, and self-awareness. Some maintain employment and family relationships.
+Hemispherectomy provides the most dramatic evidence. Patients who have had an entire hemisphere surgically removed—half their cortex, half their cerebellum—retain consciousness despite significant neurological deficits including hemiparesis and visual field cuts. They have personalities, memories, emotional lives, and self-awareness. Some maintain employment and family relationships despite their impairments.
 
 If consciousness were straightforwardly produced by cortical activity, removing half the cortex should halve consciousness or eliminate it entirely. Instead, consciousness adapts, reorganizes, and persists. This makes sense if the brain provides an interface rather than a generator—damage the interface, and consciousness finds alternative pathways; destroy the generator, and consciousness should disappear proportionally.
 
@@ -146,7 +146,7 @@ Experienced meditators report maintaining [[witness-consciousness|witness awaren
 
 Advanced practitioners report cessation states (*nirodha-samapatti*) phenomenologically distinct from anesthesia—profound peace rather than nothing, with controlled entry and exit. Voluntary cessation differs qualitatively from pharmacological cessation: meditation progressively closes the interface by choice; anesthesia chemically disrupts it.
 
-[[buddhism-and-dualism|Buddhist philosophy]] distinguishes the subject *as entity* (which Buddhism denies) from the subject *as structure* (the experiential arising that anesthesia eliminates). Loss of consciousness eliminates this structural feature entirely—compatible with filter theory.
+[[buddhism-and-dualism|Buddhist philosophy]] denies any permanent self (*anatman*) while acknowledging the phenomenal reality of experiential arising. From this perspective, anesthesia doesn't eliminate a self but interrupts the dependent arising of conscious moments. This framing neither confirms nor refutes filter theory—Buddhism's process view is compatible with consciousness having a non-physical ground, but doesn't require it.
 
 ## What Would Challenge This View?
 
