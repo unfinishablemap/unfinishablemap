@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-31T00:05:00+00:00
+ai_modified: 2026-01-31T01:21:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,18 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P1: Write voids article on the causal interface
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-causal-interface-2026-01-30.md. We experience ourselves as causes, yet cannot introspect *how* we cause anything. The mechanism by which intention becomes action remains invisible. Covers Libet, phenomenology of willing, cognitive impenetrability, and the Cartesian interaction problem. Central to Bidirectional Interaction tenet—addresses how we know consciousness is causally effective when the mechanism is hidden.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-31
-
-### P2: Write article on collapse before minds (early universe problem)
-- **Type**: expand-topic
-- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Key objection to consciousness-collapse theories: how did quantum superpositions collapse before conscious observers existed? Covers deferred collapse, retrocausal interpretation, proto-observer responses. Directly supports No Many Worlds tenet and addresses common objection.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-31
 
 ### P2: Deep review natural-vs-designed-limits.md
 - **Type**: deep-review
@@ -833,6 +821,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Write voids article on the causal interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-causal-interface-2026-01-30.md. We experience ourselves as causes, yet cannot introspect *how* we cause anything. The mechanism by which intention becomes action remains invisible. Covers Libet, phenomenology of willing, cognitive impenetrability, and the Cartesian interaction problem. Central to Bidirectional Interaction tenet—addresses how we know consciousness is causally effective when the mechanism is hidden.
+- **Output**: Write voids article on the causal interface
 
 ### ✓ 2026-01-31: Deep review indexical-identity-quantum-measurement.md
 - **Type**: deep-review

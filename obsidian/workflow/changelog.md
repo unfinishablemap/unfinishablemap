@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 01:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Causal Interface Void
+- **Output**: voids/causal-interface.md
+- **Word count**: 1864
+- **Based on research**: yes (research/voids-causal-interface-2026-01-30.md)
+- **Notes**: Explores why we cannot observe how consciousness causes anything. The mechanism by which intention becomes action remains invisible from both first-person (introspection) and third-person (neuroscience) perspectives. Covers the philosophical tradition (Descartes, Princess Elisabeth), cognitive science (Nisbett & Wilson, Wegner), Libet's timing experiments, and phenomenology of agency. Connects to Bidirectional Interaction and Minimal Quantum Interaction tenets—the void is the experiential face of the Mechanism Void from tenet-generated-voids.md.
+
 ## 2026-01-31 01:14 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: apex/ground-of-meaning.md, apex/consciousness-and-agency.md, apex/explanatory-frontier.md
