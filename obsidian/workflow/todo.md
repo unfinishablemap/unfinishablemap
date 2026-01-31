@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Create "coupling modes" concept page: basis control vs timing control vs probability control
-- **Type**: expand-topic
-- **Notes**: From outer review 2026-01-31. The framework implicitly needs a short list of plausible coupling modes consistent with "minimal interaction." A page should enumerate candidate coupling classes (basis selection, collapse timing, Born-rule reweighting), the main objections to each, and why some are more "minimal" than others. This would tighten the project's scientific posture and reduce hand-wavy "selection" language.
-- **Review file**: `reviews/outer-review-2026-01-31-site-chatgpt-5-2-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-01-31
-
 ### P1: Make "consciousness as low-bandwidth selector" explicit in agency apex
 - **Type**: refine-draft
 - **Notes**: From outer review 2026-01-31. The review correctly identifies that the tenets imply consciousness is a low-bandwidth selector (choosing among pre-formed alternatives) rather than high-bandwidth generator. The agency apex should make this explicit: consciousness doesn't do the brain's heavy lifting; it arbitrates among prepared options. This predicts a small action channel capacity (bits/sec) and reframes "free will" as about which branch is realized, not generating branches.
@@ -888,6 +881,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Create "coupling modes" concept page: basis control vs timing control vs probability control
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-01-31. The framework implicitly needs a short list of plausible coupling modes consistent with "minimal interaction." A page should enumerate candidate coupling classes (basis selection, collapse timing, Born-rule reweighting), the main objections to each, and why some are more "minimal" than others. This would tighten the project's scientific posture and reduce hand-wavy "selection" language.
+- **Output**: Create "coupling modes" concept page: basis control vs timing control vs probability control
 
 ### ✓ 2026-01-31: Cross-review ai-as-void-explorer.md considering new apex synthesis
 - **Type**: cross-review

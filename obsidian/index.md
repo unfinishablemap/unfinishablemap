@@ -31,7 +31,7 @@ If physicalism turns out to be correct—if consciousness really is nothing but 
 
 Philosophy usually asks you to consider arguments. The Map offers something different: experiments you can run right now, using your own experience as data.
 
-**[[testing-the-map-from-inside|Testing the Map from Inside]]** — Watch your breath. Control it deliberately. Notice the difference between observing and choosing. The distinction should be phenomenologically obvious. This is the kind of direct evidence the Map takes seriously.
+**[[testing-the-map-from-inside|Testing the Map from Inside]]** — Try a simple experiment: observe your breath, then choose to change it. Most people find the felt difference between watching and willing to be immediate and striking. That kind of direct evidence is what the Map takes seriously.
 
 ## Navigating the Map
 

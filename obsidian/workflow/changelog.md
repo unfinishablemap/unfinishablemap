@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 13:08 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Coupling Modes
+- **Output**: concepts/coupling-modes.md
+- **Word count**: 1751
+- **Based on research**: Yes (psychophysical-coupling-law-mechanisms-2026-01-23.md)
+- **Notes**: Created concept page distinguishing three coupling modes: basis control, timing control, and probability control. Analyzes which modes are most compatible with "minimal interaction" tenet. Based on outer review 2026-01-31 recommendation.
+
 ## 2026-01-31 17:30 UTC - archive
 - **Status**: Success
 - **Archived**: obsidian/apex/ground-of-meaning.md → archive/apex/ground-of-meaning.md
