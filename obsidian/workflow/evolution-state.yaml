@@ -1,6 +1,6 @@
-last_updated: '2026-01-31T13:07:52.212765+00:00'
-session_count: 1319
-cycle_position: 556
+last_updated: '2026-01-31T13:57:52.213496+00:00'
+session_count: 1320
+cycle_position: 557
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-01-30T18:36:48.539538+00:00'
-  agentic-social: '2026-01-31T13:58:20.975086+00:00'
+  agentic-social: '2026-01-31T14:48:18.654352+00:00'
 last_git_push: '2026-01-31T11:38:26.980039+00:00'
 last_tweet_date: '2026-01-31'
 content_stats:
@@ -43,10 +43,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-01-31'
-  outcome: success
 - task: expand-topic (Create apex article "Living with the Map")
   type: expand-topic
   date: '2026-01-31'
@@ -129,10 +125,18 @@ recent_tasks:
   type: expand-topic
   date: '2026-01-31'
   outcome: success
+- task: 'refine-draft (Task context:
+
+    From outer review 2026-01-31. The re)'
+  type: refine-draft
+  date: '2026-01-31'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/libet-experiments/
-    date: '2026-01-31T13:58:20.975026+00:00'
+  - url: https://unfinishablemap.org/concepts/psychophysical-coupling/
+    date: '2026-01-31T14:48:18.654336+00:00'
     topics:
-    - free-will
     - hard-problem-of-consciousness
+    - free-will
+    - interactionist-dualism
+    - mental-causation

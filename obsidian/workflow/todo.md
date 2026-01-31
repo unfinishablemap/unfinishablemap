@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Clarify retrocausality's conditional structure re: transactional interpretation
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-01-31 found retrocausality.md presents the transactional interpretation as the Map's solution to Libet, but doesn't make the conditional structure explicit: the solution works *if* you accept the transactional interpretation, which is a minority view. Either defend the transactional interpretation against critics (Maudlin, Kastner) or present retrocausality as one coherent possibility rather than "the" resolution. See pessimistic-2026-01-31-afternoon.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-31
+
+### P2: Address simulation hypothesis triviality objection
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-01-31 found simulation.md raises the triviality objection (compatible with everything, explains nothing) but doesn't adequately answer it. The article concedes it "reframes rather than answers" problems. Either provide substantive value beyond reframing (specific implications unique to simulation) or explicitly acknowledge the hypothesis is speculative metaphysics with no empirical consequences. See pessimistic-2026-01-31-afternoon.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-31
+
+### P2: Develop idealism.md argument for inter-substance interaction requirement
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-01-31 found idealism.md dismisses idealism's "intra-mental interaction" as "not genuine" but this assumes dualism (inter-substance interaction) is required. Idealism provides relata (dissociated alters); the article needs independent argument for why inter-substance interaction is necessary. Develop the phenomenological argument about resistance/otherness, or acknowledge the criterion is question-begging. See pessimistic-2026-01-31-afternoon.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-01-31
+
 ### P2: Develop "agency = attentional economics" as explicit concept
 - **Type**: expand-topic
 - **Notes**: From outer review 2026-01-31. The site links agency to conscious selection and repeatedly elevates attention/effort, but hasn't stated the full conclusion: will is primarily control of attention allocation over time. This implies freedom scales with attentional skill, and attention training (meditation, CBT-like refocusing) is metaphysically agency-enhancing in the theory's own terms.
