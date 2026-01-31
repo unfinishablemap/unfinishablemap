@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-31T08:18:00+00:00
+ai_modified: 2026-01-31T11:08:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write voids article on alien minds as void explorers
+- **Type**: expand-topic
+- **Notes**: Research completed in research/alien-minds-void-explorers-2026-01-31.md. How minds structured very differently from humans (extraterrestrial, radically different architectures) might access cognitive territories closed to us. Connects to McGinn's cognitive closure, Nagel's "What Is It Like to Be a Bat?", and the Map's framework that limits are structurally informative. Would complement ai-as-void-explorer.md.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-31
+
+### P2: Write voids article on affective void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-affective-void-2026-01-31.md. Emotions and feeling-states that may be structurally inaccessible to human consciousness—entire dimensions of affective experience beyond human phenomenological reach. Connects to evolutionary constraints on affect programs, intrinsic nature problem, and the void framework's treatment of architecturally-closed territories.
+- **Source**: chain (from research-voids)
+- **Generated**: 2026-01-31
+
+### P2: Cross-review ai-as-void-explorer.md considering new apex synthesis
+- **Type**: cross-review
+- **Notes**: Six new apex articles created 2026-01-31 synthesize major Map themes. Check ai-as-void-explorer.md for: (1) cross-links to machine-question.md (AI consciousness synthesis), (2) connections to minds-without-words.md (non-linguistic cognition), (3) whether the void explorer framing enriches or is enriched by the apex synthesis treatments.
+- **Source**: chain (from apex articles)
+- **Generated**: 2026-01-31
+
+### P2: Cross-review mysterianism.md considering alien minds research
+- **Type**: cross-review
+- **Notes**: New research on alien minds as void explorers (2026-01-31) develops McGinn's cognitive closure in the context of radically different minds. Check mysterianism.md for: (1) cross-links to forthcoming alien-minds article, (2) whether the alien minds angle strengthens the case for architecture-specific cognitive limits, (3) connections to the voids framework's treatment of structurally-closed territories.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-01-31
 
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
