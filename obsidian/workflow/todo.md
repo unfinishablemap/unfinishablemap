@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-31T03:52:00+00:00
+ai_modified: 2026-01-31T04:52:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -800,6 +800,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-01-29, never deep-reviewed. Covers the structural inaccessibility of past conscious states—we can only reconstruct, not directly access past experience. Should verify: (1) accuracy of memory research claims, (2) connection to personal identity and episodic memory, (3) alignment with voids framework.
 - **Source**: staleness
 - **Generated**: 2026-01-30
+
+### P2: Cross-review hard-problem-of-consciousness.md considering process-and-consciousness apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) synthesizes process philosophy resources for dualism. Check hard-problem-of-consciousness.md for: (1) cross-links to the apex synthesis, (2) whether process philosophy's diagnosis of the explanatory gap strengthens the article, (3) connection between "vacuous actuality" rejection and the hard problem.
+- **Source**: chain (from process-and-consciousness.md)
+- **Generated**: 2026-01-31
+
+### P2: Cross-review phenomenal-unity.md considering process-and-consciousness apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) discusses how process philosophy handles the combination problem differently than interactionism. Check phenomenal-unity.md for: (1) cross-links to process treatment, (2) whether the contrast between combination problem (process) and interaction problem (dualism) enriches the article, (3) Whitehead's "personally ordered society" as model of unified experience.
+- **Source**: chain (from process-and-consciousness.md)
+- **Generated**: 2026-01-31
+
+### P2: Condense duration.md (3625 words, 145% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers Bergson's durée—lived time as qualitative multiplicity vs. spatialized clock time. Preserve core phenomenological content, connection to temporal-consciousness.md and process-philosophy.md. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-31
+
+### P2: Condense quantum-interpretations.md (3625 words, 145% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers major QM interpretations and their implications for consciousness. Preserve: core interpretation summaries, evaluation criteria for consciousness relevance, connection to measurement-problem.md. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-31
+
+### P3: Condense many-worlds.md (3704 words, 148% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers the No Many Worlds tenet—arguments against MWI from indexical identity perspective. Preserve core arguments, vertiginous question discussion, connection to indexical-identity-quantum-measurement.md. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-31
+
+### P3: Condense access-consciousness.md (3613 words, 145% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers Block's access/phenomenal distinction—information availability for reasoning and report. Preserve core distinction, connection to phenomenal-consciousness.md and global-workspace-theory.md. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-31
 
 ### P3: Condense phenomenology-of-choice.md (3702 words, 106% of threshold)
 - **Type**: condense
