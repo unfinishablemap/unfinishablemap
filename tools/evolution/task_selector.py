@@ -68,6 +68,7 @@ EXECUTABLE_TASK_TYPES = {
     TaskType.OPTIMISTIC_REVIEW,
     TaskType.CONDENSE,
     TaskType.CROSS_REVIEW,
+    TaskType.INTEGRATE_ORPHAN,
 }
 
 
@@ -169,6 +170,18 @@ def task_to_skill(task: Task) -> SkillInvocation:
         file_path = _extract_file_path(task.title, task.notes)
         # Pass full title as context so deep-review knows what to consider
         return SkillInvocation("deep-review", f"{file_path} -- Context: {task.title}")
+
+    elif task_type == TaskType.INTEGRATE_ORPHAN:
+        # Integrate-orphan: add inbound links to an orphaned file
+        # Title like "Integrate binding-problem.md into site navigation"
+        file_path = _extract_file_path(task.title, task.notes)
+        # Use deep-review with context about needing to add cross-references
+        context = (
+            "This file has no inbound links and is orphaned. "
+            "Focus on finding related articles that should link to this content. "
+            "Add cross-references from existing articles to integrate this into the site navigation."
+        )
+        return SkillInvocation("deep-review", f"{file_path} -- Context: {context}")
 
     elif task_type == TaskType.OTHER:
         # OTHER is explicitly unsupported - tasks must have a specific type

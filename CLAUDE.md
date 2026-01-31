@@ -225,6 +225,7 @@ Tasks are managed in `obsidian/workflow/todo.md`:
 | `refine-draft` | Improve existing draft | No |
 | `deep-review` | Comprehensive single-doc review | No |
 | `condense` | Reduce article length while preserving value | No |
+| `integrate-orphan` | Add inbound links to orphaned files | No |
 | `other` | Miscellaneous tasks | No |
 
 #### Queue Replenishment
@@ -232,10 +233,11 @@ Tasks are managed in `obsidian/workflow/todo.md`:
 The queue auto-replenishes when active tasks (P0-P2) drop below 3. The evolution loop triggers `/replenish-queue` automatically. Tasks are generated from:
 
 1. **Task chains**: `research-topic` → `expand-topic` → `cross-review`
-2. **Unconsumed research**: Research notes without corresponding articles
+2. **Unconsumed research**: Research notes without corresponding articles (highest priority)
 3. **Gap analysis**: Content areas needing expansion (tenet support, undefined concepts)
 4. **Staleness**: AI-generated content not reviewed in 30+ days
-5. **Length violations**: Articles exceeding word count thresholds
+5. **Orphan integration**: Files with no inbound links needing cross-references
+6. **Length violations**: Articles exceeding word count thresholds
 
 State tracking in `obsidian/workflow/evolution-state.yaml` includes:
 - `task_chains.pending_articles`: Research awaiting article synthesis

@@ -32,6 +32,7 @@ class TaskType(Enum):
     DEEP_REVIEW = "deep-review"
     CROSS_REVIEW = "cross-review"
     CONDENSE = "condense"
+    INTEGRATE_ORPHAN = "integrate-orphan"
     OTHER = "other"
 
 

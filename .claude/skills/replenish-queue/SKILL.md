@@ -75,7 +75,30 @@ Content that hasn't been touched recently:
 2. For files not reviewed in 30+ days with `ai_contribution > 50`, generate:
    - P3: Deep review [file] for quality and currency
 
-### Source 5: Length Violations
+### Source 5: Orphan Integration
+
+Files that have no inbound links need integration into the site's navigation:
+
+1. Check `quality.orphaned_files` in evolution-state.yaml for the count
+2. If orphaned files exist, run orphan detection (similar to validate-all):
+   - Find files in hugo/content/ with no inbound links
+   - Exclude index files and special pages
+3. For each orphaned file, generate:
+   - P2: Integrate [file] into site navigation
+
+**Task format:**
+```markdown
+### P2: Integrate binding-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles
+  or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-01-31
+```
+
+Maximum 3 orphan integration tasks per replenishment (prioritize recently created files).
+
+### Source 6: Length Violations
 
 Articles exceeding length thresholds need condensation:
 
@@ -248,7 +271,50 @@ for content_file in glob('obsidian/**/*.md'):
             })
 ```
 
-#### 2.5 Check Length Violations
+#### 2.5 Check Orphaned Files
+
+```python
+# Check if orphans exist
+orphan_count = evolution_state['quality']['orphaned_files']
+
+if orphan_count > 0:
+    # Find actual orphaned files by scanning links
+    all_files = glob('hugo/content/**/*.md')
+    all_links = set()
+    for f in all_files:
+        links = extract_internal_links(f)
+        all_links.update(links)
+
+    orphans = []
+    for f in all_files:
+        # Skip index files and special pages
+        if f.name in ['_index.md', 'index.md'] or '/workflow/' in str(f):
+            continue
+
+        # Check if file is linked to
+        relative_path = f.relative_to('hugo/content')
+        if str(relative_path) not in all_links:
+            orphans.append({
+                'file': f,
+                'created': get_frontmatter(f).get('created'),
+            })
+
+    # Prioritize recently created orphans (coalesce artifacts)
+    orphans.sort(key=lambda x: x['created'] or '', reverse=True)
+
+    for orphan in orphans[:3]:  # Max 3 orphan tasks
+        candidates.append({
+            'title': f'Integrate {orphan["file"].name} into site navigation',
+            'type': 'integrate-orphan',
+            'priority': 'P2',
+            'notes': f'File has no inbound links. Add cross-references from related articles '
+                     f'or update section index pages to include navigation to this content.',
+            'source': 'orphan_integration',
+            'target_file': str(orphan['file'])
+        })
+```
+
+#### 2.6 Check Length Violations
 
 ```python
 from tools.curate.length import get_length_warnings
@@ -282,9 +348,11 @@ Score each candidate:
 SCORE = PRIORITY_BASE + SOURCE_BONUS + TENET_RELEVANCE
 
 PRIORITY_BASE: P1=300, P2=200, P3=100
-SOURCE_BONUS: chain=50, unconsumed_research=40, gap_analysis=30, length_analysis=25, staleness=10
+SOURCE_BONUS: unconsumed_research=60, chain=50, gap_analysis=30, length_analysis=25, staleness=10, orphan_integration=55
 TENET_RELEVANCE: +50 if directly supports a tenet
 ```
+
+**Note on research prioritization**: The `unconsumed_research` source has the highest bonus (+60) to ensure research notes are converted to articles before generating new research or gap-fill tasks. This prevents research backlog accumulation.
 
 Sort by score descending.
 
