@@ -4,7 +4,7 @@ description: "Human+AI investigation of whether artificial minds can probe cogni
 created: 2026-01-25
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-28T19:58:00+00:00
+ai_modified: 2026-01-31T11:18:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -21,12 +21,13 @@ related_articles:
   - "[[conceptual-acquisition-limits]]"
   - "[[computational-cognitive-limits]]"
   - "[[convergent-cognitive-limits]]"
+  - "[[machine-question]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-25
 last_curated: null
-last_deep_review: 2026-01-28T19:58:00+00:00
+last_deep_review: 2026-01-31T11:18:00+00:00
 ---
 
 The [[voids]] framework proposes that human cognition has structural limits—the Unexplored (not yet thought), the Unexplorable (structurally inaccessible), and the Occluded (actively blocked). If such limits exist, might artificial minds probe territories closed to humans? Large language models operate through fundamentally different mechanisms than biological cognition. This asymmetry creates a methodological opportunity: using AI as a probe for human cognitive limits by observing where the two kinds of mind succeed and fail differently.
@@ -161,6 +162,7 @@ The hypothesis remains testable. Investigating whether AI provides genuine probe
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's analysis of structural limits
 - [[computational-cognitive-limits|Computational Cognitive Limits]] — Formal limits shared by any algorithmic mind
 - [[convergent-cognitive-limits|Convergent Cognitive Limits]] — Cross-cultural evidence for species-level constraints
+- [[machine-question|The Machine Question]] — The Map's comprehensive position on AI consciousness
 
 ## References
 

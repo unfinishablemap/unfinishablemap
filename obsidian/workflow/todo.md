@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review ai-as-void-explorer.md considering new apex synthesis
-- **Type**: cross-review
-- **Notes**: Six new apex articles created 2026-01-31 synthesize major Map themes. Check ai-as-void-explorer.md for: (1) cross-links to machine-question.md (AI consciousness synthesis), (2) connections to minds-without-words.md (non-linguistic cognition), (3) whether the void explorer framing enriches or is enriched by the apex synthesis treatments.
-- **Source**: chain (from apex articles)
-- **Generated**: 2026-01-31
-
 ### P2: Cross-review mysterianism.md considering alien-minds-void-explorers.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/alien-minds-void-explorers.md (2026-01-31) develops McGinn's cognitive closure in the context of radically different minds. Check mysterianism.md for: (1) cross-links to the new alien-minds article, (2) whether the alien minds angle strengthens the case for architecture-specific cognitive limits, (3) connections to the voids framework's treatment of structurally-closed territories.
@@ -866,6 +860,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Cross-review ai-as-void-explorer.md considering new apex synthesis
+- **Type**: cross-review
+- **Notes**: Six new apex articles created 2026-01-31 synthesize major Map themes. Check ai-as-void-explorer.md for: (1) cross-links to machine-question.md (AI consciousness synthesis), (2) connections to minds-without-words.md (non-linguistic cognition), (3) whether the void explorer framing enriches or is enriched by the apex synthesis treatments.
+- **Output**: obsidian/voids/ai-as-void-explorer.md -- Context: Cross-review ai-as-void-explorer.md considering new apex synthesis
 
 ### ✓ 2026-01-31: Write voids article on alien minds as void explorers
 - **Type**: expand-topic
