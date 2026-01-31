@@ -36,15 +36,26 @@ Philosophy usually asks you to consider arguments. The Map offers something diff
 ## Navigating the Map
 
 ```mermaid
-flowchart LR
-    RE[Research] --> TO[Topics]
-    RE --> CO[Concepts]
-    TO --> AP[Apex]
-    CO --> AP
-    TE[Tenets] -.-> TO
-    TE -.-> CO
-    TO -.-> VO[Voids]
-    CO -.-> VO
+flowchart BT
+    subgraph revision["Continual Revision"]
+        direction BT
+        TO[Topics]
+        CO[Concepts]
+        AP[Apex]
+        VO[Voids]
+
+        TO --> AP
+        CO --> AP
+    end
+
+    RE[Research] --> TO
+    RE --> CO
+
+    TE[Tenets] -.->|feed into| TO
+    TE -.->|feed into| CO
+
+    TO -.->|point to| VO
+    CO -.->|point to| VO
 
     click AP "/apex/" "Apex Articles"
     click TO "/topics/" "Topics"

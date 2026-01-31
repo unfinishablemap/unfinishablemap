@@ -32,20 +32,31 @@ If physicalism turns out to be correct—if consciousness really is nothing but 
 
 Philosophy usually asks you to consider arguments. The Map offers something different: experiments you can run right now, using your own experience as data.
 
-**[Testing the Map from Inside](/apex/testing-the-map-from-inside/)** — Watch your breath. Control it deliberately. Notice the difference between observing and choosing. The distinction should be phenomenologically obvious. This is the kind of direct evidence the Map takes seriously.
+**[Testing the Map from Inside](/apex/testing-the-map-from-inside/)** — Try a simple experiment: observe your breath, then choose to change it. Most people find the felt difference between watching and willing to be immediate and striking. That kind of direct evidence is what the Map takes seriously.
 
 ## Navigating the Map
 
 ```mermaid
-flowchart LR
-    RE[Research] --> TO[Topics]
-    RE --> CO[Concepts]
-    TO --> AP[Apex]
-    CO --> AP
-    TE[Tenets] -.-> TO
-    TE -.-> CO
-    TO -.-> VO[Voids]
-    CO -.-> VO
+flowchart BT
+    subgraph revision["Continual Revision"]
+        direction BT
+        TO[Topics]
+        CO[Concepts]
+        AP[Apex]
+        VO[Voids]
+
+        TO --> AP
+        CO --> AP
+    end
+
+    RE[Research] --> TO
+    RE --> CO
+
+    TE[Tenets] -.->|feed into| TO
+    TE -.->|feed into| CO
+
+    TO -.->|point to| VO
+    CO -.->|point to| VO
 
     click AP "/apex/" "Apex Articles"
     click TO "/topics/" "Topics"
