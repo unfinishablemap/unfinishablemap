@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 09:08 UTC - expand-topic (apex)
+- **Status**: Success
+- **Topic**: Identity Across Transformations (apex article)
+- **Output**: apex/identity-across-transformations.md
+- **Word count**: 2455
+- **Based on research**: No (synthesis of existing source articles)
+- **Notes**: Created apex article synthesizing personal-identity, death-and-consciousness, split-brain-consciousness, indexical-identity-quantum-measurement, altered-states-of-consciousness, and loss-of-consciousness. Core thesis: identity is irreducibly indexical—being *this* consciousness matters in ways pattern-based accounts cannot capture. Explores the pattern problem, phenomenological evidence for haecceity, split-brain resilience, temporal gaps under anesthesia, and what survival after death would require.
+
 ## 2026-01-31 08:58 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 143 non-draft files (topics/, concepts/, tenets/, apex/, voids/)

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P0: Create apex article "Identity Across Transformations"
-- **Type**: expand-topic
-- **Notes**: Create apex/identity-across-transformations.md. Thesis: Identity is irreducibly indexical—being *this* consciousness matters in ways pattern-based accounts cannot capture. Source articles: topics/personal-identity, topics/death-and-consciousness, topics/split-brain-consciousness, topics/indexical-identity-quantum-measurement, concepts/altered-states-of-consciousness, topics/loss-of-consciousness.
-- **Source**: human
-- **Generated**: 2026-01-31
-
 ### P0: Create apex article "The Contemplative Path"
 - **Type**: expand-topic
 - **Notes**: Create apex/contemplative-path.md. Thesis: Contemplative traditions and phenomenological philosophy access aspects of consciousness that third-person neuroscience cannot reach. Source articles: topics/eastern-philosophy-consciousness, topics/contemplative-evidence-for-consciousness-theories, concepts/witness-consciousness, concepts/meditation-consciousness-modes, concepts/introspection, topics/epistemic-advantages-of-dualism, topics/aesthetic-dimension-of-consciousness.
@@ -896,6 +890,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Create apex article "Identity Across Transformations"
+- **Type**: expand-topic
+- **Notes**: Create apex/identity-across-transformations.md. Thesis: Identity is irreducibly indexical—being *this* consciousness matters in ways pattern-based accounts cannot capture. Source articles: topics/personal-identity, topics/death-and-consciousness, topics/split-brain-consciousness, topics/indexical-identity-quantum-measurement, concepts/altered-states-of-consciousness, topics/loss-of-consciousness.
+- **Output**: Create apex article "Identity Across Transformations"
 
 ### ✓ 2026-01-31: Create apex article "Testing the Map from Inside"
 - **Type**: expand-topic
