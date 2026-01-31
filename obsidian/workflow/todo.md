@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-30T23:25:00+00:00
+ai_modified: 2026-01-31T00:05:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -49,11 +49,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from existentialism.md)
 - **Generated**: 2026-01-30
 
-### P3: Deep review questions/consciousness-selecting-neural-patterns.md
+### P2: Deep review questions/consciousness-selecting-neural-patterns.md
 - **Type**: deep-review
 - **Notes**: Questions article (ai_contribution: 90), never deep-reviewed. Core question about how consciousness selects from neural patterns—directly relevant to the Bidirectional Interaction tenet. Should verify: (1) accuracy of neural selection framing, (2) connection to attention-motor-quantum-interface, (3) engagement with the quantum mechanism proposals, (4) appropriate treatment of uncertainty.
 - **Source**: staleness
+- **Promoted**: 2026-01-31 (replenish-queue: tenet relevance +50)
 - **Generated**: 2026-01-30
+
+### P2: Deep review arguments/arguments.md (section index)
+- **Type**: deep-review
+- **Notes**: Section index page (ai_contribution: 90), never deep-reviewed. Arguments section index should provide clear navigation to all argument articles and articulate how arguments support the Map's tenets. Should verify: (1) accurate listing of all argument pages, (2) clear categorization of argument types, (3) connection to tenets, (4) up-to-date cross-links.
+- **Source**: staleness
+- **Generated**: 2026-01-31
+
+### P2: Deep review questions/questions.md (section index)
+- **Type**: deep-review
+- **Notes**: Section index page (ai_contribution: 90), never deep-reviewed. Questions section should frame the open questions the Map addresses. Should verify: (1) accurate listing of all question pages, (2) connection between questions and tenets, (3) clarity on which questions are central vs. peripheral, (4) up-to-date cross-links.
+- **Source**: staleness
+- **Generated**: 2026-01-31
 
 ### P3: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
 - **Type**: cross-review
@@ -97,10 +110,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-01-29
 
-### P3: Condense many-worlds.md (3704 words, 106% of threshold)
+### P2: Condense many-worlds.md (3704 words, 106% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers many-worlds interpretation arguments relevant to the No Many Worlds tenet. Preserve: core indexical identity objection, connection to quantum-interpretations.md, engagement with Wallace's decision-theoretic argument. See /condense skill.
 - **Source**: length_analysis
+- **Promoted**: 2026-01-31 (replenish-queue: tenet relevance +50)
 - **Generated**: 2026-01-29
 
 ### P3: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
@@ -253,10 +267,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-01-26
 
-### P3: Deep review indexical-identity-quantum-measurement.md
+### P2: Deep review indexical-identity-quantum-measurement.md
 - **Type**: deep-review
 - **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Core article for the No Many Worlds tenet—examines how each QM interpretation fails the indexical gap. Should verify: (1) accuracy of QM interpretation summaries, (2) engagement with Wallace's decision-theoretic probability derivation, (3) connection to haecceity and personal identity, (4) alignment with all five tenets.
 - **Source**: staleness
+- **Promoted**: 2026-01-31 (replenish-queue: tenet relevance +50)
 - **Generated**: 2026-01-26
 
 ### P3: Write article on phenomenology of evidence assessment
