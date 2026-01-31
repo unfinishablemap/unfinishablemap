@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 13:58 UTC - refine-draft
+- **Status**: Success
+- **File**: apex/consciousness-and-agency.md
+- **Changes**:
+  - Added new "Consciousness as Selector, Not Generator" section explaining low-bandwidth control theory
+  - Made explicit that consciousness arbitrates among pre-formed options rather than generating them
+  - Noted implications: small action channel capacity, free will as branch selection not branch generation
+  - Updated synthesis section to incorporate selector/generator distinction
+- **Source**: Outer review 2026-01-31 (ChatGPT 5.2 Pro) - inference #1
+- **Published**: yes
+
 ## 2026-01-31 13:08 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Coupling Modes
