@@ -4,7 +4,7 @@ description: "The experiential structure of deliberation and decision-making: fe
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-31T03:43:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -26,6 +26,7 @@ concepts:
   - "[[quantum-coherence-protection]]"
   - "[[temporal-consciousness]]"
   - "[[luck-objection]]"
+  - "[[causal-interface]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -33,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-01-21T18:10:40+00:00
+last_deep_review: 2026-01-31T03:43:00+00:00
 ---
 
 Choosing feels like something. This obvious fact carries philosophical weight that is often overlooked. When you deliberate between options and settle on one, there is a distinctive qualitative character to the experience—a phenomenology of decision that differs markedly from passively observing events unfold. This phenomenology provides evidence for the Map's framework: consciousness as genuine selector rather than epiphenomenal spectator.
@@ -55,12 +56,12 @@ Deliberation also involves what might be called the *weight* of options. Some po
 The transition from deliberation to decision has its own phenomenology. There is a characteristic *settling* when alternatives collapse to actuality. One moment the options are open; the next, one has become real while others fade to mere counterfactuals.
 
 This settling can be gradual or sudden:
-- **Gradual resolution**: The preferred option emerges slowly through deliberation, gaining felt momentum until its actualisation seems almost inevitable
+- **Gradual resolution**: The preferred option emerges slowly, gaining felt momentum until its actualisation seems almost inevitable
 - **Sudden decision**: Alternatives remain equipoised until a discrete moment when one becomes actual—sometimes surprising even the chooser
 
-Both patterns share the same structure: genuine openness followed by determinate actualisation. But they differ phenomenologically. Gradual decisions feel less effortful; sudden decisions often feel more *willed*, as though the agent intervened at the decisive moment.
+Both patterns share the same structure: genuine openness followed by determinate actualisation. Gradual decisions feel less effortful; sudden decisions often feel more *willed*, as though the agent intervened at the decisive moment. Yet in neither case can we observe *how* intention becomes action—the mechanism is phenomenologically invisible. This is the [[causal-interface|causal interface void]]: we experience ourselves as causes but cannot access the interface that makes causation possible.
 
-The [[retrocausality|retrocausal]] dimension adds complexity. If selection operates atemporally—determining which history becomes real—the phenomenology of deciding "now" may be how atemporal selection manifests to time-bound consciousness. The feeling of sudden resolution might mark the point where consciousness engages with quantum indeterminacy.
+The [[retrocausality|retrocausal]] dimension adds complexity. If selection operates atemporally—determining which history becomes real—the phenomenology of deciding "now" may be how atemporal selection manifests to time-bound consciousness.
 
 The [[decoherence|decoherence objection]]—that quantum coherence cannot survive in warm neural tissue—is addressed through [[quantum-coherence-protection|protection mechanisms]] that may shield relevant superpositions. More fundamentally, consciousness may operate at the point of *outcome selection* after decoherence has selected the measurement basis, biasing which eigenstate becomes actual without requiring sustained coherence.
 
@@ -138,9 +139,9 @@ James observed that "sustained voluntary attention is a repetition of successive
 
 The neural evidence supports this:
 
-**The 300ms decision window**: Willed movements take approximately 300ms to initiate, versus ~100ms for instructed movements. This extended timeline isn't hesitation—it reflects the time required for candidate motor patterns to enter superposition, for consciousness to engage through intention, and for repeated observation to stabilize the selected pattern. The phenomenology of "gathering oneself" to act corresponds to this quantum selection process.
+**The 300ms decision window**: Willed movements take approximately 300ms to initiate, versus ~100ms for instructed movements. This extended timeline reflects the time required for consciousness to engage through intention and for repeated observation to stabilize the selected pattern. The phenomenology of "gathering oneself" to act corresponds to this selection process.
 
-**Frontal theta and bidirectional coherence**: Willed movements engage frontal theta oscillations and bidirectional frontoparietal coherence that instructed movements lack. The same signatures appear in willed versus automatic attention. This convergence suggests a unified mechanism: consciousness selecting among neural options through sustained engagement—felt as the directive quality of choosing.
+**Frontal theta and bidirectional coherence**: Willed movements engage frontal theta oscillations and bidirectional frontoparietal coherence that instructed movements lack. The same signatures appear in willed versus automatic attention—suggesting a unified mechanism: consciousness selecting among neural options through sustained engagement.
 
 **The basal ganglia interface**: The basal ganglia's brake-release architecture provides a candidate site where phenomenal effort operates. Motor programs compete under tonic inhibition; selection works by disinhibiting the chosen program while maintaining suppression on alternatives. The felt "settling" when choice resolves—the moment deliberation collapses to action—may correspond to this selective disinhibition.
 
@@ -294,6 +295,7 @@ The many-worlds defender might respond that the phenomenology is real *in each b
 - [[mental-effort]] — The quantum Zeno mechanism and why effort should feel like work
 - [[voluntary-attention]] — Neural signatures of genuine choosing
 - [[motor-selection]] — Motor choice as parallel to attentional choice
+- [[causal-interface]] — Why the mechanism connecting intention to action is invisible
 - [[duration]] — Bergson's lived time and creative becoming
 - [[consciousness-and-creativity]] — How consciousness generates options, not just selects
 - [[introspection]] — First-person methods for investigating choice

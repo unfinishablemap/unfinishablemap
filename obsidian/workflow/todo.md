@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review phenomenology-of-choice.md considering causal-interface insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/causal-interface.md (2026-01-31) examines the phenomenology of willing—we feel intentions and actions but not the connection between them. The phenomenology-of-choice.md article covers the experience of deliberation. Check for: (1) cross-links to causal-interface phenomenological analysis, (2) whether the "bridge is crossed without experiencing the crossing" observation enriches choice phenomenology, (3) connection to free-will debates via the opacity of willing.
-- **Source**: chain (from causal-interface.md)
-- **Generated**: 2026-01-31
-
 ### P3: Cross-review nihilism-and-existentialism.md considering existentialism.md
 - **Type**: cross-review
 - **Notes**: New standalone article concepts/existentialism.md (2026-01-30) now provides dedicated coverage of existentialist philosophy. Check nihilism-and-existentialism.md for: (1) cross-links to the new existentialism page, (2) whether content can be streamlined now that existentialism has dedicated coverage, (3) appropriate division of labor between the two articles.
@@ -819,8 +813,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-01-30
 
+### P3: Write article on attention mechanisms and consciousness interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Builds on attention-as-interface, quantum-consciousness, voluntary-attention. Would address: attention frequently mentioned as consciousness-brain interface but not systematically developed. Directly relevant to Minimal Quantum Interaction—Stapp's quantum Zeno mechanism operates through attention. See optimistic-2026-01-31.md
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
+### P3: Write article on working memory as consciousness amplifier
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Builds on consciousness-as-amplifier, working-memory, baseline-cognition. Would address: working memory capacity (human 7±2 vs ape 2±1) central to many arguments but scattered across articles. Supports Bidirectional Interaction by showing what consciousness adds to cognition. See optimistic-2026-01-31.md
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
+### P3: Write article on choking phenomenon and mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Builds on implicit-memory, mental-causation, epiphenomenalism. Sports psychology evidence for consciousness's causal efficacy—when attention shifts to automatized skills, execution is disrupted. Directly supports Bidirectional Interaction with unexpected empirical evidence. See optimistic-2026-01-31.md
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Cross-review phenomenology-of-choice.md considering causal-interface insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/causal-interface.md (2026-01-31) examines the phenomenology of willing—we feel intentions and actions but not the connection between them. The phenomenology-of-choice.md article covers the experience of deliberation. Check for: (1) cross-links to causal-interface phenomenological analysis, (2) whether the "bridge is crossed without experiencing the crossing" observation enriches choice phenomenology, (3) connection to free-will debates via the opacity of willing.
+- **Output**: obsidian/concepts/phenomenology-of-choice.md -- Context: Cross-review phenomenology-of-choice.md considering causal-interface insights
 
 ### ✓ 2026-01-31: Cross-review interactionist-dualism.md considering causal-interface insights
 - **Type**: cross-review
