@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write apex article integrating process philosophy across tenets
-- **Type**: expand-topic
-- **Notes**: Whitehead's process philosophy appears scattered across multiple articles (process-philosophy.md, collapse-and-time.md, phenomenal-unity.md) but deserves unified apex treatment. Shows how actual occasions explain phenomenal unity, concrescence models collapse, and self-determination grounds mental causation. Would demonstrate philosophical coherence of the five tenets. High tenet-alignment value.
-- **Source**: gap_analysis (promoted from optimistic-review P3)
-- **Generated**: 2026-01-31
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -842,6 +836,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Write apex article integrating process philosophy across tenets
+- **Type**: expand-topic
+- **Notes**: Whitehead's process philosophy appears scattered across multiple articles (process-philosophy.md, collapse-and-time.md, phenomenal-unity.md) but deserves unified apex treatment. Shows how actual occasions explain phenomenal unity, concrescence models collapse, and self-determination grounds mental causation. Would demonstrate philosophical coherence of the five tenets. High tenet-alignment value.
+- **Output**: Write apex article integrating process philosophy across tenets
 
 ### ✓ 2026-01-31: Cross-review mysterianism.md considering causal-interface.md
 - **Type**: cross-review

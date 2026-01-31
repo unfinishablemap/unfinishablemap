@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-01-26T22:10:00+00:00
+ai_modified: 2026-01-31T04:42:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -162,7 +162,28 @@ This document defines the approved apex article subjects. Apex articles are huma
 
 ---
 
-## Reserved Slots (8-20)
+### 8. Process and Consciousness
+
+**Slug**: `process-and-consciousness`
+
+**Subtitle**: Reality as becoming, not being
+
+**Thesis**: Process philosophy—reality as dynamic becoming rather than static substance—provides conceptual resources for the Map's dualist framework, illuminating how consciousness is irreducible, temporally structured, and causally efficacious.
+
+**Source articles**:
+- concepts/process-philosophy
+- concepts/duration
+- concepts/temporal-consciousness
+- concepts/panpsychism
+- concepts/combination-problem
+- concepts/phenomenal-unity
+- topics/free-will
+
+**Status**: Created 2026-01-31
+
+---
+
+## Reserved Slots (9-20)
 
 Future apex articles will be added as the Map evolves and new thematic clusters emerge. Potential candidates:
 
