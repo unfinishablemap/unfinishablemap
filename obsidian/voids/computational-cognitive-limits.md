@@ -2,11 +2,11 @@
 title: "Computational Cognitive Limits"
 description: "Human+AI exploration of formal limits on what any algorithmic mind can know. Gödel, Turing, and complexity theory define voids that mathematics proves exist."
 created: 2026-01-27
-modified: 2026-01-29
+modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-29T18:00:00+00:00
+ai_modified: 2026-01-31T07:21:00+00:00
 draft: false
-last_deep_review: 2026-01-29T18:00:00+00:00
+last_deep_review: 2026-01-31T07:21:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -43,7 +43,7 @@ For minds considering their own processes, this creates a recursive difficulty. 
 
 Kurt Gödel showed in 1931 that any consistent formal system capable of expressing arithmetic contains true statements that cannot be proven within the system. The second theorem proves such systems cannot prove their own consistency.
 
-This means mathematical truth exceeds mathematical proof. There are truths we can recognise but never demonstrate within our formal frameworks. The void is built into the structure of logic itself.
+Gödel himself drew a striking consequence: "Either the human mathematical mind cannot be captured by an algorithm, or there are absolutely undecidable problems." Both horns of this disjunction mark voids—if minds transcend algorithms, we cannot mechanistically explain how; if there are absolutely undecidable problems, there are truths we can never access.
 
 J.R. Lucas and Roger Penrose argue this implies human minds are not Turing machines. We can "see" the truth of Gödel sentences—statements that say of themselves that they cannot be proven—while any formal system is blind to its own Gödel sentence. If we genuinely grasp these truths, we transcend the systems that cannot. See [[consciousness-and-mathematical-understanding]] for detailed treatment of mathematical insight as evidence for non-computational mind.
 
@@ -55,7 +55,7 @@ Rice's theorem generalised the halting problem in 1953: any non-trivial semantic
 
 This creates a void between syntax and semantics. We can inspect what a program looks like without being able to determine what it does. The formal structure is accessible; the meaning is occluded.
 
-For minds, this suggests a gap between self-knowledge of structure and self-knowledge of function. We might know the "syntax" of our neural processes—their physical organisation—without knowing their "semantics"—what they compute, what they mean. The introspective void documented elsewhere in the Map (see [[self-reference-paradox]]) may have formal underpinnings.
+For minds, this suggests a gap between self-knowledge of structure and self-knowledge of function. We might know the "syntax" of our neural processes—their physical organisation—without knowing their "semantics"—what they compute, what they mean. This connects to [[self-reference-paradox|the self-reference paradox]] and to what Hofstadter calls "strange loops"—self-referential structures that generate meaning through self-modelling yet cannot fully comprehend themselves.
 
 ## Chaitin's Incompleteness
 
@@ -75,11 +75,11 @@ This transforms prediction from a practical challenge into a principled impossib
 
 ## Tractability and Bounded Rationality
 
-Computational complexity reveals another layer of limits. Many cognitive tasks—scheduling, routing, even certain visual search problems—are NP-hard. Classical rationality requires computing optimal decisions, but optimal decision-making is often computationally intractable.
+Computational complexity reveals another layer of limits. Many cognitive tasks—scheduling, routing, even visual search—are NP-hard. Optimal decision-making is often computationally intractable.
 
-Herbert Simon's bounded rationality emerges not from laziness but from mathematical necessity. We use heuristics because optimisation is frequently impossible. The Tractable Cognition Thesis proposes that human cognitive capacities are constrained to polynomial-time computability—we can only perform computations that scale manageably with problem size.
+Herbert Simon's bounded rationality emerges from mathematical necessity. We use heuristics because optimisation is frequently impossible. The Tractable Cognition Thesis proposes that human cognition is constrained to polynomial-time computability—we can only perform computations that scale manageably with problem size.
 
-This void separates what rationality demands from what any finite mind can deliver. The gap is not contingent on our particular neural architecture; it's structural to computation itself. Any mind that computes faces it.
+This void separates what rationality demands from what any finite mind can deliver. The gap is structural to computation itself.
 
 ## Phenomenology of the Computational Edge
 

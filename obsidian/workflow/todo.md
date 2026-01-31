@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review computational-cognitive-limits.md with new incompleteness research
-- **Type**: cross-review
-- **Notes**: New research notes research/voids-incompleteness-void-2026-01-31.md (2026-01-31) develops additional material on: (1) Erik Hoel's incompleteness-of-science argument, (2) Gödel's disjunction (minds transcend algorithms OR absolutely undecidable problems), (3) "absolutely undecidable" mathematical statements, (4) cognitive architecture constraints on mathematical knowledge. Check computational-cognitive-limits.md for: integration of Hoel's science-incompleteness claim, the disjunction framing, and the phenomenology section from research.
-- **Source**: chain (from research-voids)
-- **Generated**: 2026-01-31
-
 ### P2: Cross-review duration.md considering process-and-consciousness apex
 - **Type**: cross-review
 - **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) synthesizes Whitehead and Bergson's process frameworks. The duration.md concept page covers Bergson's durée. Check for: (1) cross-links to the apex synthesis, (2) whether the apex treatment enriches or clarifies the concept page, (3) consistency between Bergson presentations.
@@ -866,6 +860,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Cross-review computational-cognitive-limits.md with new incompleteness research
+- **Type**: cross-review
+- **Notes**: New research notes research/voids-incompleteness-void-2026-01-31.md (2026-01-31) develops additional material on: (1) Erik Hoel's incompleteness-of-science argument, (2) Gödel's disjunction (minds transcend algorithms OR absolutely undecidable problems), (3) "absolutely undecidable" mathematical statements, (4) cognitive architecture constraints on mathematical knowledge. Check computational-cognitive-limits.md for: integration of Hoel's science-incompleteness claim, the disjunction framing, and the phenomenology section from research.
+- **Output**: obsidian/voids/computational-cognitive-limits.md -- Context: Cross-review computational-cognitive-limits.md with new incompleteness research
 
 ### ✓ 2026-01-31: Condense duration.md (3625 words, 145% of threshold)
 - **Type**: condense
