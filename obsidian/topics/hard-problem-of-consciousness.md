@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-01-29T18:30:00+00:00
+ai_modified: 2026-01-31T05:23:00+00:00
 draft: false
 topics: []
 concepts:
@@ -56,12 +56,13 @@ related_articles:
   - "[[quantum-consciousness]]"
   - "[[chalmers-psychophysical-laws-2026-01-17]]"
   - "[[origin-of-consciousness]]"
+  - "[[process-and-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-06
 last_curated:
-last_deep_review: 2026-01-29T18:30:00+00:00
+last_deep_review: 2026-01-31T05:23:00+00:00
 ---
 
 Why is there something it is like to be you?
@@ -222,7 +223,7 @@ Chalmers proposes that consciousness requires new *fundamental laws*—psychophy
 
 ### Russellian Monism
 
-[[russellian-monism|Russellian monism]] holds that physics describes only relational structure while remaining silent on *intrinsic nature*. Perhaps consciousness is that intrinsic nature. But the view faces its own hard problem: if electrons have micro-experiences, how do billions combine into unified consciousness? Critics argue this requires "grounding laws" no better than dualism's psychophysical laws. See [[russellian-monism]] for detailed treatment.
+[[russellian-monism|Russellian monism]] holds that physics describes only relational structure while remaining silent on *intrinsic nature*. Perhaps consciousness is that intrinsic nature. [[process-and-consciousness|Process philosophy]] arrives at a similar diagnosis: physics captures relations while consciousness reveals intrinsic character. But Russellian monism faces its own hard problem: if electrons have micro-experiences, how do billions combine into unified consciousness? Critics argue this requires "grounding laws" no better than dualism's psychophysical laws. See [[russellian-monism]] for detailed treatment.
 
 ### Analytic Idealism
 

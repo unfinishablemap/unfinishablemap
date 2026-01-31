@@ -795,12 +795,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
-### P2: Cross-review hard-problem-of-consciousness.md considering process-and-consciousness apex
-- **Type**: cross-review
-- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) synthesizes process philosophy resources for dualism. Check hard-problem-of-consciousness.md for: (1) cross-links to the apex synthesis, (2) whether process philosophy's diagnosis of the explanatory gap strengthens the article, (3) connection between "vacuous actuality" rejection and the hard problem.
-- **Source**: chain (from process-and-consciousness.md)
-- **Generated**: 2026-01-31
-
 ### P2: Cross-review phenomenal-unity.md considering process-and-consciousness apex
 - **Type**: cross-review
 - **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) discusses how process philosophy handles the combination problem differently than interactionism. Check phenomenal-unity.md for: (1) cross-links to process treatment, (2) whether the contrast between combination problem (process) and interaction problem (dualism) enriches the article, (3) Whitehead's "personally ordered society" as model of unified experience.
@@ -866,6 +860,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Cross-review hard-problem-of-consciousness.md considering process-and-consciousness apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) synthesizes process philosophy resources for dualism. Check hard-problem-of-consciousness.md for: (1) cross-links to the apex synthesis, (2) whether process philosophy's diagnosis of the explanatory gap strengthens the article, (3) connection between "vacuous actuality" rejection and the hard problem.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering process-and-consciousness apex
 
 ### ✓ 2026-01-31: Deep review past-self-void.md
 - **Type**: deep-review
