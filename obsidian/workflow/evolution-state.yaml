@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-01-31T00:50:26.466843+00:00'
-session_count: 1271
-cycle_position: 508
+last_updated: '2026-01-31T01:00:26.467346+00:00'
+session_count: 1272
+cycle_position: 509
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -46,11 +46,20 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 1
+  p2_tasks: 5
+  p3_tasks: 131
+  needs_replenishment: false
+  last_replenishment: '2026-01-31T01:10:00+00:00'
+  replenishment_source_counts:
+    unconsumed_research: 2
+    chain: 1
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-01-30'
-  outcome: success
 - task: deep-review (obsidian/voids/questioning-as-evidence.md)
   type: deep-review
   date: '2026-01-30'
@@ -125,5 +134,9 @@ recent_tasks:
   outcome: success
 - task: condense (obsidian/concepts/many-worlds.md)
   type: condense
+  date: '2026-01-31'
+  outcome: success
+- task: deep-review (obsidian/topics/indexical-identity-quantum-measure)
+  type: deep-review
   date: '2026-01-31'
   outcome: success

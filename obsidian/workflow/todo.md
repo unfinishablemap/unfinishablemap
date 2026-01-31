@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Write voids article on the causal interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-causal-interface-2026-01-30.md. We experience ourselves as causes, yet cannot introspect *how* we cause anything. The mechanism by which intention becomes action remains invisible. Covers Libet, phenomenology of willing, cognitive impenetrability, and the Cartesian interaction problem. Central to Bidirectional Interaction tenet—addresses how we know consciousness is causally effective when the mechanism is hidden.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-31
+
+### P2: Write article on collapse before minds (early universe problem)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Key objection to consciousness-collapse theories: how did quantum superpositions collapse before conscious observers existed? Covers deferred collapse, retrocausal interpretation, proto-observer responses. Directly supports No Many Worlds tenet and addresses common objection.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-31
+
+### P2: Deep review natural-vs-designed-limits.md
+- **Type**: deep-review
+- **Notes**: New voids article (ai_contribution: 100) created 2026-01-30, not yet deep-reviewed. Covers whether cognitive limits are natural or designed. Should verify: (1) accurate framing of the natural/designed distinction, (2) connection to simulation hypothesis and mysterianism, (3) alignment with voids framework.
+- **Source**: chain (from expand-topic)
+- **Generated**: 2026-01-31
+
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
