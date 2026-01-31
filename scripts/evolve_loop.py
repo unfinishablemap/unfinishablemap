@@ -233,9 +233,37 @@ def commit_as_agent(skill_name: str, task_info: str | None = None) -> str | None
 # -----------------------------------------------------------------------------
 
 
+def run_workflow_archive() -> bool:
+    """Archive old changelog and completed tasks to keep files manageable.
+
+    Returns True if archive succeeded or no archiving needed.
+    """
+    log.info("Running workflow archive...")
+    result = subprocess.run(
+        ["uv", "run", "python", "scripts/archive_workflow.py", "--keep-weeks", "1"],
+        capture_output=True,
+        text=True,
+        cwd=REPO_ROOT,
+    )
+    if result.returncode != 0:
+        log.warning(f"Archive failed (non-fatal): {result.stderr}")
+        return True  # Non-fatal - continue with push
+
+    # Log what was archived
+    if "entries to archive" in result.stdout or "tasks to archive" in result.stdout:
+        for line in result.stdout.split("\n"):
+            if "archive" in line.lower() and line.strip():
+                log.info(f"  {line.strip()}")
+
+    return True
+
+
 def run_pre_push_validation() -> bool:
     """Run validation before pushing. Returns True if safe to push."""
     log.info("Running pre-push validation...")
+
+    # 0. Archive old workflow entries (changelog, completed tasks)
+    run_workflow_archive()
 
     # 1. Sync Obsidian to Hugo
     result = subprocess.run(
