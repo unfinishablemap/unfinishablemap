@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 07:26 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/near-death-experiences.md
+- **Word count**: 2781 → 2783 (+2)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (fixed relative time reference)
+- **Enhancements made**: 1 (added process-philosophy cross-link)
+- **Output**: `reviews/deep-review-2026-01-31-near-death-experiences.md`
+- **Notes**: Second review. Article shows convergence—previous review addressed structural gaps. Minor style fix and cross-link added. At 111% of soft threshold, length-neutral edits only.
+
 ## 2026-01-31 07:21 UTC - deep-review
 - **Status**: Success
 - **File**: voids/computational-cognitive-limits.md

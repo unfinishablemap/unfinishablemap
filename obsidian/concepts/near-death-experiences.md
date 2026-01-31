@@ -4,7 +4,7 @@ description: "Vivid conscious experiences during cardiac arrest when brain activ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-31T07:26:00+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -20,6 +20,7 @@ concepts:
   - "[[mysterianism]]"
   - "[[haecceity]]"
   - "[[many-worlds]]"
+  - "[[process-philosophy]]"
 related_articles:
   - "[[tenets]]"
   - "[[personal-identity]]"
@@ -29,10 +30,10 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-20T06:20:00+00:00
+last_deep_review: 2026-01-31T07:26:00+00:00
 ---
 
-Near-death experiences (NDEs) are vivid cognitive events reported by approximately 40% of cardiac arrest survivors. Research has accelerated significantly since 2022, with standardized terminology, multi-site prospective studies, and EEG evidence showing consciousness-consistent brain activity during CPR. The key finding: people report heightened, coherent experiences during severe cerebral ischemia—when brain function should be deeply compromised. This doesn't prove consciousness survives death, but it challenges simple brain-production models and supports The Unfinishable Map's [[tenets#^dualism|Dualism]] and [[tenets#^occams-limits|Occam's Razor Has Limits]] tenets.
+Near-death experiences (NDEs) are vivid cognitive events reported by approximately 40% of cardiac arrest survivors. A 2022 multidisciplinary consensus established standardized terminology, followed by multi-site prospective studies (AWARE II, 2023) and EEG evidence showing consciousness-consistent brain activity during CPR. The key finding: people report heightened, coherent experiences during severe cerebral ischemia—when brain function should be deeply compromised. This doesn't prove consciousness survives death, but it challenges simple brain-production models and supports The Unfinishable Map's [[tenets#^dualism|Dualism]] and [[tenets#^occams-limits|Occam's Razor Has Limits]] tenets.
 
 The evidence is contested but cannot be easily dismissed. Van Lommel's landmark 2001 study found only 18% of cardiac arrest survivors reported NDEs—paradoxical if NDEs are purely physiological responses to anoxia, since nearly all patients experienced the same physiological state. Something distinguishes experiencers from non-experiencers, and that something remains unexplained.
 
@@ -135,7 +136,7 @@ This is paradoxical if experience is produced by brain activity. When the factor
 
 ### Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy illuminates NDEs from a different angle. For Whitehead, "actual occasions"—the fundamental units of reality—have both physical and experiential aspects. Experience doesn't emerge from non-experiential matter; rather, experience pervades reality at every level.
+Alfred North Whitehead's [[process-philosophy]] illuminates NDEs from a different angle. For Whitehead, "actual occasions"—the fundamental units of reality—have both physical and experiential aspects. Experience doesn't emerge from non-experiential matter; rather, experience pervades reality at every level.
 
 On this view, NDEs don't require explaining how consciousness "survives" brain failure because consciousness was never simply produced by the brain. The brain provides an interface for consciousness to engage with the physical world, but the experiential dimension exists independently of any particular physical configuration. During dying, this interface dissolves, potentially allowing consciousness to operate in modes normally constrained by neural filtering.
 
