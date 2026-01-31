@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly, not
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-30T22:15:00+00:00
+ai_modified: 2026-01-31T01:51:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -22,6 +22,7 @@ concepts:
   - "[[quantum-indeterminacy-free-will]]"
   - "[[many-worlds]]"
   - "[[pairing-problem]]"
+  - "[[causal-interface]]"
   - "[[downward-causation]]"
   - "[[mental-causation]]"
   - "[[phenomenology-of-choice]]"
@@ -37,7 +38,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-30T22:15:00+00:00
+last_deep_review: 2026-01-31T01:51:00+00:00
 ---
 
 Agent causation holds that conscious agents—understood as persisting substances rather than collections of events—directly cause their actions. The agent is the causal source, not reducible to prior mental events like beliefs and desires. This positions agents as initiators of causal chains, not merely links in chains that stretch back before their existence.
@@ -82,6 +83,8 @@ If all causation is fundamentally substances exercising powers (Lowe, O'Connor),
 The Map specifies *where* agent causation interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. The agent selects among quantum possibilities—exercising the same kind of causal power that all substances exercise.
 
 This also addresses the [[pairing-problem|pairing problem]]: if consciousness interfaces at specific quantum-sensitive neural structures, it's spatially located where those structures are. Agent causation operates through particular physical interfaces.
+
+Why can't we observe this interface in action? The [[causal-interface|causal interface void]] explains: the mechanism is systematically invisible from both first-person introspection (which accesses intentions and actions but not their connection) and third-person observation (which sees correlates but not causation). This opacity is *predicted* by minimal quantum interaction—a minimal influence leaves minimal traces. The invisibility is not an embarrassment but a consequence of the interface being precisely small enough to avoid violating conservation laws.
 
 The [[decoherence|decoherence challenge]]—that warm neural tissue decoheres too fast—assumes quantum effects must persist at computation timescales. The Map requires only that consciousness biases outcomes *at* decoherence, and quantum biology has revealed unexpected coherence in warm biological systems.
 
@@ -166,6 +169,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 - [[motor-selection]] — Motor control as supporting domain
 - [[attention-as-interface]] — Attention as causal pathway
 - [[implicit-memory]] — Skill delegation and choking phenomenon
+- [[causal-interface]] — Why the mechanism of agent causation is systematically invisible
 - [[decoherence]] — The decoherence challenge
 - [[explanatory-gap]] — Why physical description leaves consciousness unexplained
 - [[authentic-vs-inauthentic-choice]] — When agent causation is engaged (authentic choice) vs. attenuated

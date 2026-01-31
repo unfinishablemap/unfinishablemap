@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review agent-causation.md considering causal-interface insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/causal-interface.md (2026-01-31) develops the "causal interface void"—we cannot observe how consciousness causes anything. The agent-causation.md article discusses the metaphysics of agent causation. Check for: (1) cross-links to causal-interface's treatment of the opacity problem, (2) whether the voids framework strengthens agent-causal arguments, (3) opportunities to connect phenomenology of willing with the metaphysical account.
-- **Source**: chain (from causal-interface.md)
-- **Generated**: 2026-01-31
-
 ### P2: Cross-review interactionist-dualism.md considering causal-interface insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/causal-interface.md (2026-01-31) addresses the core Cartesian objection—how can non-physical consciousness enter the causal order? The causal-interface article reframes this as an epistemic void rather than a metaphysical impossibility. Check interactionist-dualism.md for: (1) cross-links to causal-interface treatment, (2) whether the "double opacity" argument addresses interaction objections, (3) consistency between the two articles on the status of causal mechanism questions.
@@ -833,6 +827,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Cross-review agent-causation.md considering causal-interface insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/causal-interface.md (2026-01-31) develops the "causal interface void"—we cannot observe how consciousness causes anything. The agent-causation.md article discusses the metaphysics of agent causation. Check for: (1) cross-links to causal-interface's treatment of the opacity problem, (2) whether the voids framework strengthens agent-causal arguments, (3) opportunities to connect phenomenology of willing with the metaphysical account.
+- **Output**: obsidian/concepts/agent-causation.md -- Context: Cross-review agent-causation.md considering causal-interface insights
 
 ### ✓ 2026-01-31: Deep review natural-vs-designed-limits.md
 - **Type**: deep-review
