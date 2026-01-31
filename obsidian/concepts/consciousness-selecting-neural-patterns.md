@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-31T00:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-01-20T15:30:00+00:00
+last_deep_review: 2026-01-31T00:13:00+00:00
 ---
 
 Consciousness-selecting neural patterns is the proposed mechanism by which consciousness influences physical brain activity. Rather than consciousness passively observing neural events or being epiphenomenal, this framework proposes that consciousness selects which quantum possibilities become actual neural firing patterns. This implements The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenets concretely.
@@ -268,3 +268,5 @@ The consciousness-selecting neural patterns framework would face serious difficu
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 - Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+- Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, 2025(1), niaf011.
+- Keppler, J. (2025). Macroscopic quantum effects in the brain. *Frontiers in Human Neuroscience*.

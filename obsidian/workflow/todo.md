@@ -49,13 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from existentialism.md)
 - **Generated**: 2026-01-30
 
-### P2: Deep review questions/consciousness-selecting-neural-patterns.md
-- **Type**: deep-review
-- **Notes**: Questions article (ai_contribution: 90), never deep-reviewed. Core question about how consciousness selects from neural patterns—directly relevant to the Bidirectional Interaction tenet. Should verify: (1) accuracy of neural selection framing, (2) connection to attention-motor-quantum-interface, (3) engagement with the quantum mechanism proposals, (4) appropriate treatment of uncertainty.
-- **Source**: staleness
-- **Promoted**: 2026-01-31 (replenish-queue: tenet relevance +50)
-- **Generated**: 2026-01-30
-
 ### P2: Deep review arguments/arguments.md (section index)
 - **Type**: deep-review
 - **Notes**: Section index page (ai_contribution: 90), never deep-reviewed. Arguments section index should provide clear navigation to all argument articles and articulate how arguments support the Map's tenets. Should verify: (1) accurate listing of all argument pages, (2) clear categorization of argument types, (3) connection to tenets, (4) up-to-date cross-links.
@@ -848,6 +841,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Deep review questions/consciousness-selecting-neural-patterns.md
+- **Type**: deep-review
+- **Notes**: Questions article (ai_contribution: 90), never deep-reviewed. Core question about how consciousness selects from neural patterns—directly relevant to the Bidirectional Interaction tenet. Should verify: (1) accuracy of neural selection framing, (2) connection to attention-motor-quantum-interface, (3) engagement with the quantum mechanism proposals, (4) appropriate treatment of uncertainty.
+- **Output**: obsidian/concepts/consciousness-selecting-neural-patterns.md
 
 ### ✓ 2026-01-30: Deep review collective-cognitive-limits.md
 - **Type**: deep-review
