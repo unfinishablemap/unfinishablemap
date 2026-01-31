@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-31T07:57:00+00:00
+ai_modified: 2026-01-31T08:18:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -42,18 +42,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
-
-### P2: Write voids article on incompleteness-void
-- **Type**: expand-topic
-- **Notes**: Research completed in voids-incompleteness-void-2026-01-31.md. Gödel's incompleteness theorems as cognitive void—truths that formal systems cannot prove about themselves. Connection to self-reference limits, the argument from reason, and what this reveals about consciousness being non-computable.
-- **Source**: unconsumed_research
-- **Generated**: 2026-01-31
-
-### P2: Cross-review combination-problem.md considering process-and-consciousness apex
-- **Type**: cross-review
-- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) discusses how process philosophy addresses the combination problem differently than substance metaphysics. Check combination-problem.md for: (1) cross-links to process philosophy treatment, (2) whether process's "prehension" concept offers a distinct response, (3) consistency between the two articles on panpsychism's challenges.
-- **Source**: chain (from process-and-consciousness.md)
-- **Generated**: 2026-01-31
 
 ### P2: Cross-review agent-causation.md considering process-and-consciousness apex
 - **Type**: cross-review
@@ -884,6 +872,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Write voids article on incompleteness-void
+- **Type**: expand-topic
+- **Notes**: Research completed in voids-incompleteness-void-2026-01-31.md. Gödel's incompleteness theorems as cognitive void—truths that formal systems cannot prove about themselves. Connection to self-reference limits, the argument from reason, and what this reveals about consciousness being non-computable.
+- **Output**: Write voids article on incompleteness-void
 
 ### ✓ 2026-01-31: Create concept page for minimal-consciousness
 - **Type**: expand-topic
