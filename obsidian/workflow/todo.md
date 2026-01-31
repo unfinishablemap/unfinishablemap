@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-31T01:40:00+00:00
+ai_modified: 2026-01-31T03:52:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -36,6 +36,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Cross-review introspection.md considering causal-interface.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/causal-interface.md (2026-01-31) discusses introspection's systematic failure to observe mental causation (Nisbett & Wilson's process/product asymmetry, Wegner's constructed authorship). Check introspection.md for: (1) cross-links to the causal interface void, (2) whether the introspection article addresses this specific limitation, (3) connection between introspection reliability debates and the mechanism void.
+- **Source**: chain (from causal-interface.md)
+- **Generated**: 2026-01-31
+
+### P2: Cross-review free-will.md considering causal-interface.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/causal-interface.md (2026-01-31) develops the phenomenology of agency—why we cannot observe how intention becomes action. Check free-will.md for: (1) cross-links to the causal interface treatment, (2) whether Libet experiments discussion aligns with the void's framing, (3) opportunities to strengthen the connection between libertarian free will and the mechanism opacity.
+- **Source**: chain (from causal-interface.md)
+- **Generated**: 2026-01-31
+
+### P2: Cross-review mysterianism.md considering causal-interface.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/causal-interface.md (2026-01-31) argues that the mind-body interface is structurally inaccessible—not merely unknown but potentially unknowable. This connects directly to McGinn's cognitive closure thesis. Check mysterianism.md for: (1) cross-links to the causal interface as an exemplary mystery, (2) whether the mechanism void strengthens or complicates the mysterian position, (3) consistency between the articles on structural vs. contingent limits.
+- **Source**: chain (from causal-interface.md)
+- **Generated**: 2026-01-31
+
+### P2: Write apex article integrating process philosophy across tenets
+- **Type**: expand-topic
+- **Notes**: Whitehead's process philosophy appears scattered across multiple articles (process-philosophy.md, collapse-and-time.md, phenomenal-unity.md) but deserves unified apex treatment. Shows how actual occasions explain phenomenal unity, concrescence models collapse, and self-determination grounds mental causation. Would demonstrate philosophical coherence of the five tenets. High tenet-alignment value.
+- **Source**: gap_analysis (promoted from optimistic-review P3)
+- **Generated**: 2026-01-31
 
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
