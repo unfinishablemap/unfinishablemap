@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P0: Create apex article "Living with the Map"
+- **Type**: expand-topic
+- **Notes**: Create apex/living-with-the-map.md. Thesis: If consciousness is fundamental and our choices genuinely matter, then the quest to understand our situation becomes the essential precursor to every meaningful decision. The Map offers not just a metaphysical picture but practical guidance. Source articles: topics/meaning-of-life, topics/ethics-of-consciousness, topics/purpose-and-alignment, concepts/phenomenal-value-realism, concepts/moral-responsibility, concepts/existentialism, topics/free-will.
+- **Source**: human
+- **Generated**: 2026-01-31
+
+### P0: Create apex article "Testing the Map from Inside"
+- **Type**: expand-topic
+- **Notes**: Create apex/testing-the-map-from-inside.md. Thesis: You don't need a laboratory to investigate consciousness—you have one between your ears. By carefully attending to the phenomenology of choice, you can probe whether experience feels like selecting from options or passively watching neural processes. The Map's claims are testable from the inside. Source articles: concepts/introspection, concepts/witness-consciousness, concepts/meditation-and-consciousness-modes, concepts/phenomenology-of-choice, concepts/mental-effort, concepts/neurophenomenology.
+- **Source**: human
+- **Generated**: 2026-01-31
+
+### P0: Create apex article "Identity Across Transformations"
+- **Type**: expand-topic
+- **Notes**: Create apex/identity-across-transformations.md. Thesis: Identity is irreducibly indexical—being *this* consciousness matters in ways pattern-based accounts cannot capture. Source articles: topics/personal-identity, topics/death-and-consciousness, topics/split-brain-consciousness, topics/indexical-identity-quantum-measurement, concepts/altered-states-of-consciousness, topics/loss-of-consciousness.
+- **Source**: human
+- **Generated**: 2026-01-31
+
+### P0: Create apex article "The Contemplative Path"
+- **Type**: expand-topic
+- **Notes**: Create apex/contemplative-path.md. Thesis: Contemplative traditions and phenomenological philosophy access aspects of consciousness that third-person neuroscience cannot reach. Source articles: topics/eastern-philosophy-consciousness, topics/contemplative-evidence-for-consciousness-theories, concepts/witness-consciousness, concepts/meditation-consciousness-modes, concepts/introspection, topics/epistemic-advantages-of-dualism, topics/aesthetic-dimension-of-consciousness.
+- **Source**: human
+- **Generated**: 2026-01-31
+
+### P0: Create apex article "Minds Without Words"
+- **Type**: expand-topic
+- **Notes**: Create apex/minds-without-words.md. Thesis: Non-linguistic consciousness in animals and simple organisms reveals that experience is more fundamental than the cognitive capacities we usually associate with mind. Source articles: topics/animal-consciousness, topics/consciousness-in-simple-organisms, topics/baseline-cognition, concepts/phenomenal-consciousness, topics/emotional-consciousness.
+- **Source**: human
+- **Generated**: 2026-01-31
+
+### P0: Create apex article "The Machine Question"
+- **Type**: expand-topic
+- **Notes**: Create apex/machine-question.md. Thesis: Current AI systems lack consciousness not because of implementation details but because computation alone cannot generate experience—the gap is principled, not practical. Source articles: topics/ai-consciousness, topics/machine-consciousness, concepts/functionalism, concepts/chinese-room, topics/consciousness-as-intelligence-amplifier.
+- **Source**: human
+- **Generated**: 2026-01-31
+
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
