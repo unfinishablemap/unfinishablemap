@@ -3728,6 +3728,24 @@ Review file: reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-ch
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
+### P3: Write article on developmental consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-31. How does consciousness develop in human ontogeny? When does the fetus become conscious? How does infant experience differ? The site treats phylogeny well but ontogeny less systematically. Builds on consciousness-in-simple-organisms.md, animal-consciousness.md, evolution-of-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
+### P3: Write article on philosophy of science and consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-31. The site engages philosophy of mind extensively but philosophy of science more implicitly. How does the Map's framework relate to scientific realism? To inference to best explanation? Builds on quantum-consciousness.md, mysterianism.md, tenets.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
+### P3: Write article on social construction challenge to consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-31. Social constructionist critiques argue "consciousness" is historically contingent. How does the Map respond? The site implicitly assumes consciousness is a natural kind—deserves explicit defense. Builds on intuitive-dualism.md, materialism.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.
