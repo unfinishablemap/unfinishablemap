@@ -23,7 +23,26 @@
 {{- $created := "" -}}
 {{- $modified := "" -}}
 {{- with .Params.created -}}{{- $created = (time .).Format "2006-01-02" -}}{{- end -}}
-{{- with .Params.modified -}}{{- $modified = (time .).Format "2006-01-02" -}}{{- end -}}
+
+{{/* Compute effective modified date from ai_modified and human_modified */}}
+{{- $aiMod := .Params.ai_modified -}}
+{{- $humanMod := .Params.human_modified -}}
+{{- if and $aiMod $humanMod -}}
+    {{- $aiTime := time $aiMod -}}
+    {{- $humanTime := time $humanMod -}}
+    {{- if gt $aiTime.Unix $humanTime.Unix -}}
+        {{- $modified = $aiTime.Format "2006-01-02" -}}
+    {{- else -}}
+        {{- $modified = $humanTime.Format "2006-01-02" -}}
+    {{- end -}}
+{{- else if $aiMod -}}
+    {{- $modified = (time $aiMod).Format "2006-01-02" -}}
+{{- else if $humanMod -}}
+    {{- $modified = (time $humanMod).Format "2006-01-02" -}}
+{{- else -}}
+    {{/* Fall back to modified field if ai_modified/human_modified not set */}}
+    {{- with .Params.modified -}}{{- $modified = (time .).Format "2006-01-02" -}}{{- end -}}
+{{- end -}}
 
 <div class="authorship authorship-{{ $type }}">
     <span class="authorship-label">

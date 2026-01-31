@@ -83,753 +83,753 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P3: Cross-review nihilism-and-existentialism.md considering existentialism.md
+### P2: Cross-review nihilism-and-existentialism.md considering existentialism.md
 - **Type**: cross-review
 - **Notes**: New standalone article concepts/existentialism.md (2026-01-30) now provides dedicated coverage of existentialist philosophy. Check nihilism-and-existentialism.md for: (1) cross-links to the new existentialism page, (2) whether content can be streamlined now that existentialism has dedicated coverage, (3) appropriate division of labor between the two articles.
 - **Source**: chain (from existentialism.md)
 - **Generated**: 2026-01-30
 
-### P3: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
+### P2: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) develops evidence for cross-cultural universal cognitive limits (bias blind spot, mystical experiences). The collective-cognitive-limits.md article covers group-level limits (paradigm blindness, Overton windows). Check for: (1) cross-links between individual-universal and group-level limits, (2) whether convergent limits strengthen the case that some voids are species-level rather than cultural, (3) opportunities to distinguish group dynamics from individual architecture.
 - **Source**: chain (from convergent-cognitive-limits.md)
 - **Generated**: 2026-01-28
 
-### P3: Cross-review meditation-and-consciousness-modes.md considering contemplative evidence
+### P2: Cross-review meditation-and-consciousness-modes.md considering contemplative evidence
 - **Type**: cross-review
 - **Notes**: New article topics/contemplative-evidence-for-consciousness-theories.md (2026-01-27) develops contemplative phenomenology as evidence for consciousness theories. The meditation-and-consciousness-modes.md article discusses meditation states. Check for: (1) cross-links to the systematic contemplative evidence treatment, (2) consistency between state descriptions, (3) whether the new article's theoretical framing enriches the meditation modes treatment.
 - **Source**: chain (from contemplative-evidence-for-consciousness-theories.md)
 - **Generated**: 2026-01-28
 
-### P3: Cross-review panpsychism.md considering IIT critique
+### P2: Cross-review panpsychism.md considering IIT critique
 - **Type**: cross-review
 - **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) discusses IIT's panpsychist implications (expander graphs, ubiquitous consciousness). Check panpsychism.md for: (1) cross-links to the IIT critique's treatment of panpsychism, (2) whether the combination problem is connected to IIT's mathematical framework, (3) consistency between the two articles on panpsychism's relationship to interactionism.
 - **Source**: chain (from integrated-information-theory-critique.md)
 - **Generated**: 2026-01-28
 
-### P3: Cross-review functionalism.md considering IIT critique
+### P2: Cross-review functionalism.md considering IIT critique
 - **Type**: cross-review
 - **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) argues IIT is epiphenomenalism by another name. Functionalism also faces questions about consciousness's causal role. Check functionalism.md for: (1) cross-links to IIT critique, (2) whether functionalism handles the passivity objection differently than IIT, (3) connection between the expander graph problem and multiple realizability.
 - **Source**: chain (from integrated-information-theory-critique.md)
 - **Generated**: 2026-01-28
 
-### P3: Cross-review haecceity.md considering indexical-facts.md
+### P2: Cross-review haecceity.md considering indexical-facts.md
 - **Type**: cross-review
 - **Notes**: New article concepts/indexical-facts.md (2026-01-27) develops the concept of facts specifiable only through indexicals like "I", "here", "now"—central to the vertiginous question. Check haecceity.md for: (1) cross-links to indexical facts treatment, (2) whether the distinction between haecceity (primitive thisness) and indexical facts is clear, (3) opportunities to strengthen the connection to personal identity puzzles.
 - **Source**: chain (from indexical-facts.md)
 - **Generated**: 2026-01-27
 
-### P3: Cross-review phenomenology.md considering pre-conceptual-knowing.md
+### P2: Cross-review phenomenology.md considering pre-conceptual-knowing.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/pre-conceptual-knowing.md (2026-01-27) investigates whether conceptual beings are structurally blocked from modes of knowing available to pre-conceptual beings. Check phenomenology.md for: (1) cross-links to pre-conceptual knowing discussion, (2) whether the fineness-of-grain problem and phenomenal overflow are addressed, (3) connection to the broader voids framework.
 - **Source**: chain (from pre-conceptual-knowing.md)
 - **Generated**: 2026-01-27
 
-### P3: Condense minimal-consciousness.md (3750 words, 107% of threshold)
+### P2: Condense minimal-consciousness.md (3750 words, 107% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers minimal forms of consciousness—what the simplest conscious experience might be. Preserve: core arguments about consciousness thresholds, connection to animal consciousness and graded consciousness. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-01-29
 
-### P3: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
+### P2: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the bootstrap problem where the mind that was wrong must recognize its error. Preserve: Schulz's error-blindness claims, connection to self-reference-paradox. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-01-27
 
-### P3: Condense sleep-and-consciousness.md (3816 words, 153% of threshold)
+### P2: Condense sleep-and-consciousness.md (3816 words, 153% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for topics/. Covers consciousness states across sleep stages. Preserve: core distinctions between NREM/REM consciousness, connection to neural correlates and quantum interface. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-01-27
 
-### P3: Condense intuitive-dualism.md (3813 words, 153% of threshold)
+### P2: Condense intuitive-dualism.md (3813 words, 153% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers developmental psychology evidence that humans naturally think dualistically. Preserve: Bloom's research, developmental timeline, connection to arguments for dualism. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-01-27
 
-### P3: Deep review language-thought-boundary.md
+### P2: Deep review language-thought-boundary.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers Wittgenstein's Tractatus limits, Sapir-Whorf research, ineffability. Should verify: (1) accuracy of philosophical positions, (2) engagement with cognitive science of language, (3) distinction from general effability topic, (4) alignment with voids framework.
 - **Source**: staleness
 - **Generated**: 2026-01-27
 
-### P3: Deep review ai-as-void-explorer.md
+### P2: Deep review ai-as-void-explorer.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers AI as probe for human cognitive limits—12,000+ dimensional embedding spaces, lack of evolutionary biases. Should verify: (1) accuracy of AI capability claims, (2) whether asymmetry argument (failures vs successes) is sound, (3) connection to mysterianism and cognitive closure, (4) alignment with site's AI consciousness position.
 - **Source**: staleness
 - **Generated**: 2026-01-27
 
-### P3: Condense metarepresentation.md (3960 words, 158% of threshold)
+### P2: Condense metarepresentation.md (3960 words, 158% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers representing representations—central to consciousness theories (HOT, metacognition, theory of mind). Preserve: core metarepresentational distinctions, connection to consciousness threshold, ToM level mappings. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-01-27
 
-### P3: Deep review the-unobservable-self.md
+### P2: Deep review the-unobservable-self.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the paradox that the observing self cannot observe itself—a structural cognitive void. Should verify: (1) accuracy of self-reference arguments, (2) connection to introspection limitations and witness-consciousness, (3) alignment with other voids articles, (4) proper engagement with Buddhist no-self perspectives.
 - **Source**: staleness
 - **Generated**: 2026-01-27
 
-### P3: Deep review phenomenology-of-error-recognition.md
+### P2: Deep review phenomenology-of-error-recognition.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the bootstrap problem where the mind that was wrong must recognize its error. Should verify: (1) accuracy of Schulz's error-blindness claims, (2) engagement with Dunning-Kruger and metacognitive monitoring, (3) connection to self-reference-paradox and epistemic-emotions, (4) alignment with voids framework.
 - **Source**: staleness
 - **Generated**: 2026-01-27
 
-### P3: Deep review conceptual-impossibility.md
+### P2: Deep review conceptual-impossibility.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers concepts that cannot be coherently formed—not merely unknown but structurally unthinkable. Should verify: (1) accuracy of modal collapse and self-reference arguments, (2) distinction from mere ignorance vs. structural impossibility, (3) connection to mysterianism and cognitive closure, (4) alignment with voids framework.
 - **Source**: staleness
 - **Generated**: 2026-01-27
 
-### P3: Deep review consciousness-only-territories.md
+### P2: Deep review consciousness-only-territories.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories accessible only to conscious minds—acquaintance knowledge, phenomenal valence, indexical facts. The inverse of ai-as-void-explorer. Should verify: (1) accuracy of acquaintance knowledge argument (Mary's Room framing), (2) distinction between propositional and phenomenal knowledge, (3) connection to knowledge-argument.md and qualia.md, (4) alignment with voids framework.
 - **Source**: staleness
 - **Generated**: 2026-01-27
 
-### P3: Deep review destabilizing-self-knowledge.md
+### P2: Deep review destabilizing-self-knowledge.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers how certain self-knowledge destabilizes its own object—knowing you're spontaneous makes you less so, observing your natural state alters it. Should verify: (1) accuracy of observer effect claims, (2) connection to the-unobservable-self and self-reference-paradox, (3) whether the centipede's dilemma examples are apt, (4) alignment with voids framework.
 - **Source**: staleness
 - **Generated**: 2026-01-27
 
-### P3: Deep review voids.md (section index)
+### P2: Deep review voids.md (section index)
 - **Type**: deep-review
 - **Notes**: Section index page for voids (ai_contribution: 80), never deep-reviewed. Should verify: (1) accurate taxonomy of void types, (2) proper introduction to the voids framework, (3) up-to-date links to all voids articles, (4) clarity on what makes a "void" distinct from mere ignorance.
 - **Source**: staleness
 - **Generated**: 2026-01-27
 
-### P3: Condense introspection.md (4159 words, 166% of threshold)
+### P2: Condense introspection.md (4159 words, 166% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers first-person access to mental states and reliability debates. Preserve engagement with introspection skeptics while removing redundancy. May defer detailed methodology to phenomenology.md. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-01-26
 
-### P3: Deep review tenet-generated-voids.md
+### P2: Deep review tenet-generated-voids.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers voids that arise specifically from the Map's five tenets. Should verify: (1) accurate representation of each tenet's implications, (2) that claimed voids are genuine rather than mere gaps in current knowledge, (3) alignment with other voids articles and the voids framework.
 - **Source**: staleness
 - **Generated**: 2026-01-26
 
-### P3: Cross-review mysterianism.md considering collective cognitive limits insights
+### P2: Cross-review mysterianism.md considering collective cognitive limits insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/collective-cognitive-limits.md (2026-01-26) develops group-level cognitive limits (paradigm blindness, elephants in the room, Overton windows). The mysterianism.md concept page discusses individual cognitive closure (McGinn). Check for: (1) cross-links to collective limits treatment, (2) whether collective cognitive limits offer an additional dimension to the mysterian position, (3) the distinction between individual architectural limits and collective framework limits.
 - **Source**: chain (from collective-cognitive-limits.md)
 - **Generated**: 2026-01-26
 
-### P3: Cross-review limits-reveal-structure.md considering collective cognitive limits
+### P2: Cross-review limits-reveal-structure.md considering collective cognitive limits
 - **Type**: cross-review
 - **Notes**: New voids article voids/collective-cognitive-limits.md (2026-01-26) adds group-level limits to the voids framework. The limits-reveal-structure.md article argues that limits themselves are informative. Check for: (1) cross-links to collective limits article, (2) whether collective limits reveal different structures than individual limits, (3) opportunities to strengthen the argument that group blind spots may illuminate different aspects of consciousness.
 - **Source**: chain (from collective-cognitive-limits.md)
 - **Generated**: 2026-01-26
 
-### P3: Cross-review causal-closure.md considering conservation-laws-and-mind insights
+### P2: Cross-review causal-closure.md considering conservation-laws-and-mind insights
 - **Type**: cross-review
 - **Notes**: New article topics/conservation-laws-and-mind.md (2026-01-26) addresses conservation law objections and argues that consciousness may select quantum outcomes without adding energy. Check causal-closure.md for: (1) cross-links to new treatment, (2) whether the "selection without energy injection" response strengthens the article, (3) consistency in how closure is challenged.
 - **Source**: chain (from conservation-laws-and-mind.md)
 - **Generated**: 2026-01-26
 
-### P3: Condense functionalism.md (4250 words, 121% of threshold)
+### P2: Condense functionalism.md (4250 words, 121% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers computational theories of mind and the multiple realizability argument. Preserve core arguments and the consciousness objections while removing redundancy. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-01-26
 
-### P3: Create concept page for visual-consciousness
+### P2: Create concept page for visual-consciousness
 - **Type**: expand-topic
 - **Notes**: Referenced in multiple articles but no dedicated page exists. The paradigmatic case for studying phenomenal consciousness—color experience, visual imagery, blindsight. Would support cross-linking and clarify discussions of qualia. Builds on qualia.md, phenomenal-consciousness.md, neural-correlates-of-consciousness.md.
 - **Source**: gap_analysis
 - **Generated**: 2026-01-26
 
-### P3: Deep review dopamine-selection-interface.md
+### P2: Deep review dopamine-selection-interface.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-26, never deep-reviewed. Covers dopamine's role in the attention-motor quantum interface. Should verify: (1) accuracy of neuroscience claims about dopamine pathways, (2) integration with existing motor-selection and attention articles, (3) alignment with bidirectional interaction tenet.
 - **Source**: staleness
 - **Generated**: 2026-01-26
 
-### P3: Deep review defended-territory.md
+### P2: Deep review defended-territory.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories that resist cartography due to active defense (emotional, tribal, institutional). Should verify: (1) balance between epistemology and sociology, (2) connection to other voids categories, (3) accuracy of psychological claims about motivated reasoning.
 - **Source**: staleness
 - **Generated**: 2026-01-26
 
-### P3: Write article on consciousness and language interface
+### P2: Write article on consciousness and language interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-20
 
-### P3: Write article on the phenomenology of confusion
+### P2: Write article on the phenomenology of confusion
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-22 (ideas for later). What is it like to not-understand? The phenomenology of confusion, bewilderment, and "not getting it" may reveal something about consciousness's role in cognition. Connects to epistemic-emotions.md, cognitive-phenomenology.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-22
 
-### P3: Deep review heterophenomenology.md
+### P2: Deep review heterophenomenology.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers Dennett's third-person methodology for studying consciousness. Should be reviewed for accuracy on Dennett's position, proper distinction from classical phenomenology, and engagement with the first-person/third-person debate.
 - **Source**: staleness
 - **Generated**: 2026-01-23
 
-### P3: Deep review emotional-consciousness.md
+### P2: Deep review emotional-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Covers the relationship between emotions and phenomenal consciousness. Should verify: (1) accuracy of emotion theory presentations (James-Lange, Cannon-Bard, appraisal), (2) engagement with somatic marker hypothesis, (3) connection to phenomenal-value-realism and valence, (4) alignment with bidirectional interaction tenet.
 - **Source**: staleness
 - **Generated**: 2026-01-26
 
-### P3: Write article on phenomenology of evidence assessment
+### P2: Write article on phenomenology of evidence assessment
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-24. How does conscious reasoning actually work phenomenologically? What is it like to find an argument compelling vs. unconvincing? The argument from reason shows that reasoning requires consciousness; this would explore what conscious reasoning IS from the inside. Builds on argument-from-reason.md, introspection.md, epistemic-emotions.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-24
 
-### P3: Write article on attention disorders and the quantum interface
+### P2: Write article on attention disorders and the quantum interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-24. If attention is the mind-matter interface, what do attention disorders (ADHD, attention fatigue, meditation deficits) tell us about that interface? The OCD evidence (Schwartz) is mentioned; a systematic treatment of attention pathology would strengthen the framework. Builds on attention-motor-quantum-interface.md, voluntary-attention.md, stapp-quantum-mind.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-24
 
-### P3: Write article on developmental trajectory of conscious amplification
+### P2: Write article on developmental trajectory of conscious amplification
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-24. How does conscious amplification emerge developmentally in humans? The baseline cognition article compares adults; child development might reveal the emergence of metarepresentational capacities. When do children start representing their own representations? Builds on baseline-cognition.md, working-memory.md, metacognition.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-24
 
-### P3: Write article on creativity and novel combination
+### P2: Write article on creativity and novel combination
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-24. How does consciousness enable creative innovation? If great apes are restricted to the "zone of latent solutions," what enables humans to escape it? The incubation effect (unconscious processing followed by conscious insight) is empirically well-studied. Builds on baseline-cognition.md, conscious-vs-unconscious-processing.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-24
 
-### P3: Write article on temporal binding and the specious present
+### P2: Write article on temporal binding and the specious present
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29. How consciousness achieves duration—the ~100-750ms "specious present" that makes melody possible rather than isolated notes. Covers phenomenology of temporal flow, Husserl's retention-protention structure, and connection to quantum collapse models. Builds on temporal-consciousness.md, process-philosophy.md, phenomenal-unity.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Write article on consciousness and mathematical understanding
+### P2: Write article on consciousness and mathematical understanding
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29. Penrose-Lucas-Gödel arguments that mathematical understanding cannot be computational; how consciousness grasps truths that formal systems cannot derive. Connection to the argument from reason and consciousness's role in normative epistemology. Builds on argument-from-reason.md, consciousness-and-intelligence.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Create concept page for specious-present
+### P2: Create concept page for specious-present
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29. The ~100-750ms duration within which experience flows as unified—fundamental to temporal consciousness but currently scattered across multiple articles. Would consolidate discussion from temporal-consciousness.md, duration.md, process-philosophy.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Create concept page for phenomenal-overflow
+### P2: Create concept page for phenomenal-overflow
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29. Evidence that phenomenal consciousness exceeds cognitive access (Sperling's iconic memory, change blindness). Frequently referenced but not defined. Relevant to phenomenal-consciousness.md, access-consciousness.md, attention.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Address AI consciousness article length and redundancy
+### P2: Address AI consciousness article length and redundancy
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Pessimistic review 2026-01-25 found the article at 515 lines exceeds style guide recommendations. Same arguments recur in multiple sections (self-stultification argument appears 3+ times). Consider splitting into focused articles or radical compression of redundant sections. Front-load conclusions more effectively.
 - **Source**: pessimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Strengthen idealism article's engagement with idealist responses
+### P2: Strengthen idealism article's engagement with idealist responses
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Pessimistic review 2026-01-25 found the article dismisses idealism's handling of causation as "odd" without engaging idealist literature. Kastrup explicitly addresses the interaction objection via dissociation. Add engagement with idealist responses before rejecting them.
 - **Source**: pessimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Refine nihilism article's phenomenal value argument
+### P2: Refine nihilism article's phenomenal value argument
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Pessimistic review 2026-01-25 found the article overstates how decisively phenomenal value realism counters nihilism. The gap between phenomenal facts and normative facts needs acknowledgment. Also: Buddhism section oversimplifies by treating "the Buddhist point" as singular.
 - **Source**: pessimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Write article on the phenomenology of mathematical understanding
+### P2: Write article on the phenomenology of mathematical understanding
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-25. How does grasping a mathematical proof differ phenomenologically from merely following steps? The "click" of understanding, the difference between syntactic manipulation and genuine comprehension. Builds on cognitive-phenomenology.md, consciousness-and-mathematical-understanding.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Write article on consciousness and sleep architecture
+### P2: Write article on consciousness and sleep architecture
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-25. The different phases of sleep (NREM, REM) show different relationships between consciousness and neural activity. What does this tell us about the interface? Builds on sleep-and-consciousness.md, dreams-and-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Write article on the phenomenology of temporal agency
+### P2: Write article on the phenomenology of temporal agency
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-25. What is it like to form intentions for the future? How does the phenomenology of distal intention differ from proximal choice? Builds on free-will.md, prospective-memory.md, duration.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Strengthen illusionism engagement in death-and-consciousness.md
+### P2: Strengthen illusionism engagement in death-and-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Pessimistic review 2026-01-25 found the "regress problem" response begs the question against illusionism. Illusionists deny that representation requires experience. The brain can represent itself as having phenomenal properties without phenomenal properties being instantiated. Engage with this stronger form.
 - **Source**: pessimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Write article on philosophy of time and consciousness
+### P2: Write article on philosophy of time and consciousness
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-25. Deep connection between consciousness and time's direction. If consciousness participates in collapse, and collapse introduces irreversibility, consciousness may be constitutive of temporal flow. Builds on collapse-and-time.md, temporal-consciousness.md, specious-present.md, retrocausality.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Write article on comparative consciousness and interface differences
+### P2: Write article on comparative consciousness and interface differences
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-25. If consciousness interfaces with different neural architectures, what does this tell us about the interface? Octopus (distributed architecture), birds (different pallium), insects (tiny brains) suggest different interface configurations. Systematic comparative treatment. Builds on animal-consciousness.md, consciousness-in-simple-organisms.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Create concept page for cognitive closure (McGinn)
+### P2: Create concept page for cognitive closure (McGinn)
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-25. Referenced in mysterianism discussions but deserves its own concept page. McGinn's specific arguments about cognitive architecture and explanatory limits.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Write article on phenomenal unity deep dive
+### P2: Write article on phenomenal unity deep dive
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-25 (late). The quantum binding argument deserves detailed treatment—particularly the technical details of zero-lag gamma synchrony and why classical mechanisms fail. Builds on quantum-binding-and-phenomenal-unity.md, binding-problem.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Write article on contemplative evidence for consciousness theories
+### P2: Write article on contemplative evidence for consciousness theories
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-25 (late). The site mentions meditation evidence but could develop this systematically. Different traditions (Theravada, Dzogchen, Christian contemplative) provide converging phenomenological data. Builds on meditation-and-consciousness-modes.md, witness-consciousness.md, stapp-quantum-mind.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Write article on Integrated Information Theory critique
+### P2: Write article on Integrated Information Theory critique
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-25 (late). IIT (Tononi) is a major competitor theory that deserves engagement. The phi measure, its relationship to phenomenology, and whether it actually solves the hard problem. Builds on quantum-consciousness.md, hard-problem-of-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Write apex article integrating process philosophy
+### P2: Write apex article integrating process philosophy
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-26. Whitehead's framework appears scattered across multiple articles but deserves unified apex treatment. Shows how process metaphysics grounds all five tenets together: actual occasions explain phenomenal unity, concrescence models collapse, self-determination grounds mental causation. Would be valuable synthesis piece showing philosophical coherence.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-26
 
-### P3: Write article on time-symmetric selection mechanism
+### P2: Write article on time-symmetric selection mechanism
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-26. The transactional interpretation and TSVF are identified as high-alignment but deserve more technical development. How does atemporal selection resolve Libet? How does selecting across time work phenomenologically? Builds on retrocausality.md, quantum-interpretations.md, collapse-and-time.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-26
 
-### P3: Create concept page for semantic phenomenology
+### P2: Create concept page for semantic phenomenology
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-26. The felt quality of understanding—distinct from information processing. The ground-of-meaning apex article develops this but a dedicated concept page would support cross-linking. Connects to cognitive-phenomenology.md, llm-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-26
 
-### P3: Write article on clinical neural replacement evidence
+### P2: Write article on clinical neural replacement evidence
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-26. Engage actual clinical data—cochlear implants (neurons replaced, consciousness continuous), deep brain stimulation (artificial intervention, consciousness preserved), split-brain patients (consciousness unity despite neural separation). Would test quantum interface hypothesis against medical evidence. Builds on machine-consciousness.md, personal-identity.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-26
 
-### P3: Create concept page for substrate independence
+### P2: Create concept page for substrate independence
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-25 (late). The question of whether consciousness is substrate-independent deserves its own page—central to AI consciousness debates.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Reduce quantum Zeno reliance in free-will.md
+### P2: Reduce quantum Zeno reliance in free-will.md
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Pessimistic review 2026-01-25 found quantum Zeno mechanism mentioned 7+ times and structurally central, contradicting style guide's explicit warning against building arguments around speculative mechanisms. Restructure to treat quantum Zeno as one illustrative mechanism. Foreground phenomenological and agent-causal arguments that survive if the quantum mechanism fails.
 - **Source**: pessimistic-review
 - **Generated**: 2026-01-25
 
-### P3: Write article on phenomenology of recursive thought
+### P2: Write article on phenomenology of recursive thought
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-27. The Map claims recursive processing requires consciousness but hasn't systematically explored *what it's like* to think recursively. Center-embedding sentences, mathematical recursion, and self-referential thought provide empirical access points. Builds on language-recursion-and-consciousness.md, working-memory.md, metarepresentation.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Write article on structure of attention (unified treatment)
+### P2: Write article on structure of attention (unified treatment)
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-27. Attention as the mind-matter interface is central to the Map's framework. A dedicated article synthesizing the neuroscience (frontal theta, DLPFC/ACC activation, 300ms deployment window) with the phenomenology (effort, selection, sustained vs. captured) would strengthen this crucial piece. Builds on attention.md, voluntary-attention.md, attention-as-interface.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Write article on dreams and consciousness
+### P2: Write article on dreams and consciousness
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-27. Dreams provide a natural laboratory for studying consciousness dissociated from external input. Lucid dreaming particularly interesting—consciousness aware it's dreaming while dreaming. What does this tell us about the interface? Builds on lucid-dreaming-and-consciousness.md, sleep-and-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Write article on phenomenology of intellectual effort
+### P2: Write article on phenomenology of intellectual effort
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-27. The argument from reason shows consciousness grasps reasons *as* reasons. But what is it *like* to find an argument compelling? To feel the force of evidence? The phenomenology of intellectual engagement. Builds on argument-from-reason.md, phenomenology-of-choice.md, mental-effort.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Write article on emotional consciousness and value
+### P2: Write article on emotional consciousness and value
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-27. How does emotional phenomenology relate to the value realism framework? Emotions as ways experience presents as mattering. Distinguishes felt importance from mere information about importance. Builds on emotional-consciousness.md, phenomenal-value-realism.md, epistemic-emotions.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Create concept page for selection laws
+### P2: Create concept page for selection laws
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-27. The psychophysical-laws-framework introduces this concept; deserves dedicated treatment (attention-intention mappings, effort-selection correlations). Currently referenced but not fully developed.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Create concept page for reasons-responsiveness
+### P2: Create concept page for reasons-responsiveness
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-27. Central to argument from reason; how consciousness tracks normative relationships. The space of reasons vs. space of causes distinction deserves dedicated treatment.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Write article on microtubule quantum effects
+### P2: Write article on microtubule quantum effects
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-27. The 2025 Wiest et al. anesthetic studies deserve dedicated treatment—613 THz oscillation suppression by anesthetics is a testable signature. Builds on quantum-consciousness.md and decoherence.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Write apex article synthesising philosophy of time resources
+### P2: Write apex article synthesising philosophy of time resources
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-27. Integrate: the arrow of time and collapse, Bergson's durée, the specious present, retrocausality, and temporal phenomenology of consciousness. Builds on philosophy-of-time.md, collapse-and-time.md, duration.md. Apex article format.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Write article on Leibniz's Mill Argument
+### P2: Write article on Leibniz's Mill Argument
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-27. Historical depth—often referenced but deserves dedicated treatment as a proto-zombie argument. Would strengthen historical grounding of dualist arguments.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Write article on William James and consciousness
+### P2: Write article on William James and consciousness
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-27. Historical depth—his radical empiricism and stream of consciousness are natural allies to the Map's framework. Would strengthen historical grounding.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Write article on phenomenal value realism
+### P2: Write article on phenomenal value realism
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-27 (evening). The metaethical foundations of consciousness-based value claims—how phenomenal properties ground objective value. Currently referenced in meaning-of-life.md but not developed. Builds on meaning-of-life.md, qualia.md, emotional-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Write article on Attention Schema Theory critique
+### P2: Write article on Attention Schema Theory critique
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-27 (evening). Graziano's AST is a major illusionist theory not yet given dedicated treatment. The Map's attention-as-interface concept provides resources for critique—attention is mechanism, not explanation. Builds on illusionism.md, attention-as-interface.md, stapp-quantum-mind.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Write article on philosophy of temporal experience
+### P2: Write article on philosophy of temporal experience
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-27 (late). Synthesize Husserl's internal time consciousness, Bergson's durée, and Whitehead's actual occasions into unified treatment. Currently scattered across temporal-consciousness.md, duration.md, and process philosophy sections. Would strengthen bidirectional interaction (consciousness as temporal agent) and no-many-worlds (one actual sequence) tenets.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Write article on phenomenology of understanding
+### P2: Write article on phenomenology of understanding
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-27 (late). What is it like to understand something? The phenomenology of comprehension, insight, and conceptual grasp supports cognitive phenomenology and distinguishes consciousness from information processing. Builds on cognitive-phenomenology.md, epistemic-emotions.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Write expanded Buddhist philosophy integration article
+### P2: Write expanded Buddhist philosophy integration article
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-27 (late). Deeper integration: How does anatta (no-self) relate to haecceity? Does śūnyatā (emptiness) challenge or complement the Map's framework? Contemplative phenomenology as evidential support. Builds on buddhism-and-dualism.md, eastern-philosophy-consciousness.md, witness-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Create concept page for baseline-cognition
+### P2: Create concept page for baseline-cognition
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-27 (night). Foundational concept referenced across multiple articles but lacking dedicated treatment. Would clarify what cognition achieves without consciousness and why this matters for the causal efficacy question. The concept appears in consciousness-in-simple-organisms.md and implicitly in argument-from-reason.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Write article on process philosophy integration
+### P2: Write article on process philosophy integration
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-27 (night). How process metaphysics provides an alternative to substance/property dualism binary; why occasions rather than substances may be fundamental. Whitehead is referenced in aesthetic-dimension, simple-organisms, and hard-problem articles. Would provide metaphysical framework compatible with all five tenets.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Write article on phenomenal unity and the binding problem
+### P2: Write article on phenomenal unity and the binding problem
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-27 (night). Deep treatment of how phenomenal unity challenges physicalism. Why distributed neural activity doesn't explain unified experience. Referenced in hard-problem, aesthetic-dimension, and simple-organisms. May connect to quantum consciousness (entanglement as genuine holism). Estimated 2000-3000 words.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
-### P3: Write article on phenomenology of temporal experience
+### P2: Write article on phenomenology of temporal experience
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28. What the experience of time actually consists of; how the "specious present" bears on physics-consciousness interface; phenomenological evidence for or against temporal flow. Builds on retrocausality.md, philosophy-of-time.md, witness-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Write article on quantum measurement and definite outcomes
+### P2: Write article on quantum measurement and definite outcomes
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28. The gap between "mixture of possibilities" and "one actual outcome" that decoherence doesn't close; why this gap is where consciousness might operate. Builds on measurement-problem.md, decoherence.md, collapse-and-time.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Write article on neural implementation specifics
+### P2: Write article on neural implementation specifics
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28. Which of the five proposed mechanisms (radical pairs, ion tunnelling, microtubules, synaptic tunnelling, Posner molecules) has strongest evidence; what experiments would distinguish them. Builds on quantum-neural-mechanisms.md, quantum-biology.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Create concept page for specious present (dedicated)
+### P2: Create concept page for specious present (dedicated)
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28. The phenomenology of the experienced moment—central to temporal consciousness and potentially relevant to collapse timing. Currently mentioned but not treated systematically in its own page.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Create concept page for time-symmetric physics
+### P2: Create concept page for time-symmetric physics
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28. Foundational for retrocausality; currently assumed rather than explained. Would clarify why retrocausality follows from taking physics seriously. The transactional interpretation and TSVF depend on this.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Write article synthesizing attention-motor quantum selection
+### P2: Write article synthesizing attention-motor quantum selection
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). The convergence of attention and motor control research into unified selection framework is scattered across attention-motor-quantum-interface.md, voluntary-attention.md, motor-selection.md, quantum-consciousness.md. A synthesis would strengthen the case that both domains exhibit the same quantum selection architecture.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Write article on consciousness and meaning integration
+### P2: Write article on consciousness and meaning integration
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). How consciousness grounds meaning—if qualia are real and causally efficacious, values and purposes can be genuine features of reality rather than projections. Builds on meaning-of-life.md, purpose-and-alignment.md, moral-responsibility.md, phenomenal-value-realism.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Write article on phenomenological evidence methodology
+### P2: Write article on phenomenological evidence methodology
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). The site's use of first-person evidence deserves methodological treatment—what makes contemplative reports reliable, how to handle cross-tradition convergence, relationship to Varela's neurophenomenology. Builds on contemplative-evidence-for-consciousness-theories.md, witness-consciousness.md, neurophenomenology.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Create concept page for phenomenal overflow
+### P2: Create concept page for phenomenal overflow
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). Block's overflow research appears in multiple articles but lacks dedicated systematic treatment. Central to the access/phenomenal consciousness distinction.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Create concept page for self-locating beliefs
+### P2: Create concept page for self-locating beliefs
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). Important for vertiginous question and many-worlds discussions. The distinction between qualitative knowledge and self-locating knowledge deserves dedicated treatment. Connects to Lewis's Two Gods scenario.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Write apex article on temporal consciousness
+### P2: Write apex article on temporal consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (evening). Synthesize the Map's scattered time resources: arrow of time and quantum collapse, Bergson's durée, specious present, retrocausality, temporal phenomenology of consciousness. Would strengthen connection between No Many Worlds tenet and phenomenology of temporal experience. Builds on philosophy-of-time.md, collapse-and-time.md, duration.md, specious-present.md, temporal-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Write article on phenomenal value realism development
+### P2: Write article on phenomenal value realism development
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (evening). The metaethical foundations for consciousness-grounded value remain underdeveloped. Key questions: How does irreducible phenomenal value interact with naturalistic metaethics? What are the implications for moral realism? How does the Map's position relate to Rawlette's work? Builds on meaning-of-life.md, phenomenal-value-realism.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Write article on history of interactionist dualism
+### P2: Write article on history of interactionist dualism
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (evening). Historical trajectory from Descartes through Princess Elizabeth to Stapp. Would show how objections have evolved and how quantum mechanics reopens possibilities. Key figures: Descartes, Elizabeth of Bohemia, Leibniz, British Emergentists (Broad, Alexander), contemporary physicists (Stapp, Penrose). Builds on interactionist-dualism.md, conservation-laws-and-mind.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Write article on anesthesia ethics
+### P2: Write article on anesthesia ethics
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (evening). If consciousness is what matters morally, anesthesia awareness becomes a serious ethical issue. The Map's framework has implications for surgical protocols. Applied ethics article. Builds on ethics-of-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Write apex article on Eastern philosophy integration
+### P2: Write apex article on Eastern philosophy integration
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (evening). Systematic treatment of how Buddhist, Hindu, and Taoist approaches relate to the Map's framework. Does Buddhist non-self contradict dualism? How does the Map relate to Advaita Vedānta? Builds on eastern-philosophy-consciousness.md, buddhism-and-dualism.md, contemplative-evidence-for-consciousness-theories.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Expand intrinsic nature void treatment
+### P2: Expand intrinsic nature void treatment
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (evening). The intrinsic nature void is central to hard problem but underdeveloped. Engage with Russellian monism, structuralism in physics, question of whether consciousness provides our only window into intrinsic nature. Builds on intrinsic-nature-void.md, hard-problem-of-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Create concept page for selection laws
+### P2: Create concept page for selection laws
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (evening). The Map distinguishes supervenience laws (physics→phenomenology) from selection laws (phenomenology→physics). The latter need dedicated treatment beyond scattered references. Builds on psychophysical-laws-framework.md, psychophysical-coupling-mechanisms.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Create concept page for the consciousness-value connection
+### P2: Create concept page for the consciousness-value connection
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (evening). How consciousness grounds value—deserves focused treatment integrating metaethics with phenomenology. Builds on meaning-of-life.md, phenomenal-value-realism.md, emotional-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Create concept page for temporal unity
+### P2: Create concept page for temporal unity
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (evening). The unity of experience across time (specious present, mental time travel) as distinct from spatial unity (binding). Would clarify an underexplored aspect of phenomenal unity. Builds on varieties-of-unity.md, autonoetic-consciousness.md, temporal-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Create concept page for phenomenological evidence
+### P2: Create concept page for phenomenological evidence
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (evening). How first-person data can function as evidence distinguishing between theories—methodological treatment. What makes contemplative reports reliable? How to handle cross-tradition convergence? Builds on contemplative-evidence-for-consciousness-theories.md, neurophenomenology.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Create concept page for the interface problem
+### P2: Create concept page for the interface problem
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (evening). The specific question of where consciousness meets physics, distinct from the broader interaction problem. Would clarify the relationship between pairing problem, causal closure, and quantum interface proposals. Builds on pairing-problem.md, attention-as-interface.md, quantum-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-28
 
-### P3: Write article on contemplative neuroscience integration
+### P2: Write article on contemplative neuroscience integration
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29. Integrate the neuroscience of meditation (DMN deactivation, gamma synchrony, neuroplasticity) with phenomenological reports. Strengthens bidirectional interaction case with empirical data. Builds on witness-consciousness.md, meditation-and-consciousness-modes.md, contemplative-evidence-for-consciousness-theories.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Write article on the unity of consciousness (comprehensive treatment)
+### P2: Write article on the unity of consciousness (comprehensive treatment)
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29. Systematic treatment of how unified experience arises from distributed neural processing. Hasker's emergent dualism, quantum binding hypothesis, and the argument from unity. Builds on binding-problem references, phenomenal-unity.md, split-brain-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Write article on Eastern philosophy and haecceity tension
+### P2: Write article on Eastern philosophy and haecceity tension
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29. Fuller treatment of tension between Buddhist anattā and the Map's haecceitistic identity. Can witness-consciousness be preserved without a witnessing substance? Builds on eastern-philosophy-consciousness.md, buddhism-and-dualism.md, witness-consciousness.md, haecceity.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Write article on moral implications of interactionism
+### P2: Write article on moral implications of interactionism
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29. Ethical implications of the Map's framework: if consciousness is fundamental and causally efficacious, what follows for moral responsibility, criminal justice, animal ethics, AI policy? Builds on moral-responsibility.md, free-will.md, ethics-of-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Create concept page for substance causation
+### P2: Create concept page for substance causation
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29. E.J. Lowe's view that all causation is fundamentally agents exercising powers. Currently scattered across agent-causation.md and interactionist-dualism.md; deserves unified treatment.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Create concept page for the self-stultification argument
+### P2: Create concept page for the self-stultification argument
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29. The powerful argument against epiphenomenalism (if consciousness causes nothing, our reports about it are unreliable) appears in multiple articles but deserves standalone treatment.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Create concept page for Process 1 / Process 2 distinction
+### P2: Create concept page for Process 1 / Process 2 distinction
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29. Stapp's distinction between von Neumann's Process 1 (measurement) and Process 2 (unitary evolution) is central to quantum mind framework but not clearly explained anywhere.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Create concept page for phenomenal overflow
+### P2: Create concept page for phenomenal overflow
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29. Block's argument that phenomenology exceeds access—important for access/phenomenal distinction. Currently only referenced, not given dedicated treatment.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Write article on delegatory dualism and quantum interactionism integration
+### P2: Write article on delegatory dualism and quantum interactionism integration
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29 (evening). Delegation specifies causal structure while quantum interactionism specifies mechanism. A dedicated article could work out the integration: consciousness biases quantum outcomes (mechanism); this constitutes delegation (structure). Would strengthen both philosophical and scientific components of the Map's framework.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Write article on the argument from reason
+### P2: Write article on the argument from reason
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29 (evening). The argument from reason—that genuine reasoning tracks normative relations that physical causation cannot instantiate—deserves fuller treatment. Currently scattered across multiple articles. Connects to AI consciousness debates: if reasoning requires phenomenal consciousness, current AI systems don't genuinely reason.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Create concept page for observational closure
+### P2: Create concept page for observational closure
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29 (evening). Saad's distinction between universal causal closure and observational closure in delegatory dualism. Dualists need only respect the latter—no *observable* violations of physical patterns. Important for responding to the causal closure objection.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Create concept page for the regress objection to illusionism
+### P2: Create concept page for the regress objection to illusionism
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29 (evening). The argument that misrepresentation presupposes presentation appears throughout the Map but deserves systematic development. Central to responding to illusionism—the strongest physicalist position.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Write article on consciousness and creativity
+### P2: Write article on consciousness and creativity
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Builds on free-will, agent-causation, voluntary-attention. Addresses gap in how consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination. Creativity as paradigm case of Bidirectional Interaction.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Write article on causal exclusion problem (dedicated treatment)
+### P2: Write article on causal exclusion problem (dedicated treatment)
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Kim's exclusion argument deserves standalone treatment given centrality to mental causation debates. Currently scattered across delegatory-dualism, mental-causation, epiphenomenalism. Would systematically present overdetermination, delegation, and gap-filling responses.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Create concept page for specious present
+### P2: Create concept page for specious present
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Referenced in temporal-consciousness but deserves own page covering James, Husserl, and contemporary debates. Central to understanding temporal phenomenology.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Create concept page for quantum measurement problem
+### P2: Create concept page for quantum measurement problem
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The underlying physics question that makes room for consciousness at collapse. Currently assumed but not explained. Would help readers understand why quantum mechanics leaves room for consciousness.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Create concept page for self-stultification arguments
+### P2: Create concept page for self-stultification arguments
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The pattern shared by arguments against epiphenomenalism, illusionism, and certain materialisms. Could unify treatment across multiple articles. Strong rhetorical and philosophical tool.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-29
 
-### P3: Write article on Bergson and the duration of consciousness
+### P2: Write article on Bergson and the duration of consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Bergson is cited across multiple articles (duration.md, free-will.md, temporal-consciousness.md) but deserves more systematic treatment. His durée concept—lived time as opposed to spatialized clock time—provides crucial resources for understanding why consciousness resists quantification. Supports Dualism through the argument that consciousness has temporal structure physics cannot capture.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
-### P3: Create concept page for phenomenal intentionality
+### P2: Create concept page for phenomenal intentionality
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Central to symbol grounding problem and meaning-and-consciousness—the thesis that original intentionality derives from phenomenal consciousness. Currently mentioned but not given dedicated analysis. Would strengthen the connection between SGP and consciousness studies.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
-### P3: Create concept page for bad faith (mauvaise foi)
+### P2: Create concept page for bad faith (mauvaise foi)
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Sartre's concept mentioned in existentialism.md but deserves dedicated treatment. Bad faith demonstrates consciousness's irreducibility—materialist accounts struggle to explain self-deception without multiplying subjects. The pour-soi's self-distance provides the structure.
 - **Source**: optimistic-review
@@ -841,45 +841,45 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-01-31
 
-### P3: Condense many-worlds.md (3704 words, 148% of threshold)
+### P2: Condense many-worlds.md (3704 words, 148% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers the No Many Worlds tenet—arguments against MWI from indexical identity perspective. Preserve core arguments, vertiginous question discussion, connection to indexical-identity-quantum-measurement.md. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-01-31
 
-### P3: Condense access-consciousness.md (3613 words, 145% of threshold)
+### P2: Condense access-consciousness.md (3613 words, 145% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers Block's access/phenomenal distinction—information availability for reasoning and report. Preserve core distinction, connection to phenomenal-consciousness.md and global-workspace-theory.md. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-01-31
 
-### P3: Condense phenomenology-of-choice.md (3702 words, 106% of threshold)
+### P2: Condense phenomenology-of-choice.md (3702 words, 106% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers what choosing actually feels like phenomenologically—the experience of deliberation and decision. Preserve core phenomenological descriptions, connection to free-will.md and agent-causation.md. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-01-30
 
-### P3: Condense substrate-independence-critique.md (3682 words, 105% of threshold)
+### P2: Condense substrate-independence-critique.md (3682 words, 105% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers arguments against substrate-independence for consciousness. Preserve core objections to functionalist substrate-independence while removing redundancy. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-01-30
 
-### P3: Write article on attention mechanisms and consciousness interface
+### P2: Write article on attention mechanisms and consciousness interface
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Builds on attention-as-interface, quantum-consciousness, voluntary-attention. Would address: attention frequently mentioned as consciousness-brain interface but not systematically developed. Directly relevant to Minimal Quantum Interaction—Stapp's quantum Zeno mechanism operates through attention. See optimistic-2026-01-31.md
 - **Source**: optimistic-review
 - **Generated**: 2026-01-31
 
-### P3: Write article on working memory as consciousness amplifier
+### P2: Write article on working memory as consciousness amplifier
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Builds on consciousness-as-amplifier, working-memory, baseline-cognition. Would address: working memory capacity (human 7±2 vs ape 2±1) central to many arguments but scattered across articles. Supports Bidirectional Interaction by showing what consciousness adds to cognition. See optimistic-2026-01-31.md
 - **Source**: optimistic-review
 - **Generated**: 2026-01-31
 
-### P3: Write article on choking phenomenon and mental causation
+### P2: Write article on choking phenomenon and mental causation
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Builds on implicit-memory, mental-causation, epiphenomenalism. Sports psychology evidence for consciousness's causal efficacy—when attention shifts to automatized skills, execution is disrupted. Directly supports Bidirectional Interaction with unexpected empirical evidence. See optimistic-2026-01-31.md
@@ -3723,77 +3723,77 @@ Review file: reviews/outer-review-2026-01-28-chalmers-psychophysical-coupling-ch
 - **Result**: Created comprehensive concepts article (~2800 words) covering: theory of mind levels (0-3), the metarepresentational threshold for social cognition, shared intentionality and joint attention, empathy components (contagion, cognitive, concern), AI social cognition analysis, illusionist challenge with empathy and recursion responses, contemplative perspectives on compassion cultivation, Process Philosophy on prehending subjects, and full tenet alignment with Bidirectional Interaction, Dualism, Minimal Quantum Interaction, and Occam's Razor.
 - **Output**: obsidian/concepts/consciousness-and-social-cognition.md
 
-### P3: Write article on consciousness and AGI implications
+### P2: Write article on consciousness and AGI implications
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-30 (high priority). As AGI becomes more plausible, the question of whether such systems could be conscious becomes urgent. The Map's framework has clear implications but they're scattered across articles. Would synthesize machine-consciousness.md, ai-consciousness.md, llm-consciousness.md into focused AGI treatment. All five tenets bear on this question.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
-### P3: Write article comparing quantum interpretations and consciousness
+### P2: Write article comparing quantum interpretations and consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-30 (high priority). A systematic comparison of how different QM interpretations (Copenhagen, MWI, GRW, pilot-wave, transactional, QBism) handle consciousness would strengthen the No Many Worlds tenet and clarify the Map's position. Builds on quantum-interpretations.md, many-worlds.md, indexical-identity-quantum-measurement.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
-### P3: Write article on the argument from beauty
+### P2: Write article on the argument from beauty
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-30 (medium priority). If aesthetic experience is irreducibly qualitative (as suggested in qualia.md's treatment of aesthetic qualia), this provides another argument for dualism distinct from Mary's Room. Aesthetic qualia may resist reduction more than sensory qualia—no structural asymmetries like color space. Builds on aesthetic-dimension-of-consciousness.md, qualia.md, meaning-and-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
-### P3: Create concept page for self-locating beliefs
+### P2: Create concept page for self-locating beliefs
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-30. Discussed in vertiginous-question.md but deserves its own treatment—the epistemology of beliefs about where/who you are. Lewis's "Two Gods" scenario, the distinction from ordinary beliefs, and why they don't dissolve indexical puzzles.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
-### P3: Create concept page for phenomenal concepts
+### P2: Create concept page for phenomenal concepts
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-30. Distinct from the phenomenal concepts *strategy*; the concepts themselves deserve analysis. What makes a concept phenomenal? How do they differ from functional/physical concepts? Builds on phenomenal-concepts-strategy.md, phenomenal-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
-### P3: Write article on predictive processing and consciousness
+### P2: Write article on predictive processing and consciousness
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-30 (evening). Gap in coverage of currently dominant paradigm in neuroscience/AI. Should explore how predictive processing either supports or challenges the dualist framework—the "controlled hallucination" framing has materialist implications worth engaging. Builds on predictive-processing.md concept, hard-problem-of-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
-### P3: Write dedicated topic on the problem of mental causation
+### P2: Write dedicated topic on the problem of mental causation
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-30 (evening). Currently spread across downward-causation.md, interactionist-dualism.md, delegatory-dualism.md. Central to Bidirectional Interaction tenet; deserves unified treatment consolidating scattered arguments.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
-### P3: Create concept page for causal closure
+### P2: Create concept page for causal closure
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-30 (evening). Currently referenced in multiple articles but not defined with dedicated page. Core to understanding the interaction problem. Would support cross-linking from interactionist-dualism.md, downward-causation.md, conservation-laws-and-mind.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
-### P3: Create concept page for acquaintance knowledge
+### P2: Create concept page for acquaintance knowledge
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-01-30 (evening). Frequently invoked in discussions of Mary's Room, phenomenal concepts, consciousness-only territories but not systematically defined. Builds on knowledge-argument.md, phenomenal-concepts-strategy.md, consciousness-only-territories.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
-### P3: Write article on developmental consciousness
+### P2: Write article on developmental consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-31. How does consciousness develop in human ontogeny? When does the fetus become conscious? How does infant experience differ? The site treats phylogeny well but ontogeny less systematically. Builds on consciousness-in-simple-organisms.md, animal-consciousness.md, evolution-of-consciousness.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-31
 
-### P3: Write article on philosophy of science and consciousness
+### P2: Write article on philosophy of science and consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-31. The site engages philosophy of mind extensively but philosophy of science more implicitly. How does the Map's framework relate to scientific realism? To inference to best explanation? Builds on quantum-consciousness.md, mysterianism.md, tenets.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-01-31
 
-### P3: Write article on social construction challenge to consciousness
+### P2: Write article on social construction challenge to consciousness
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-31. Social constructionist critiques argue "consciousness" is historically contingent. How does the Map respond? The site implicitly assumes consciousness is a natural kind—deserves explicit defense. Builds on intuitive-dualism.md, materialism.md.
 - **Source**: optimistic-review
