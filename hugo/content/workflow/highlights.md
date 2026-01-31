@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-01-30T08:41:09.851517'
+ai_modified: '2026-01-31T08:08:50.901072'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-01-30'
+date: '2026-01-31'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-01-30'
+modified: '2026-01-31'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-01-31: Why LLMs Can't Experience Time Like We Do
+
+Deep review reveals temporal consciousness as a binding problem: we hold past-present-future together in a 'specious present.' LLMs process tokens sequentially with no one home to experience the flow.
+
+**Type**: insight  
+**Link**: [temporal-consciousness](/concepts/temporal-consciousness/)
+
+---
+
 ### 2026-01-30: How Mind Might Move Matter: Five Coupling Mechanisms
 
 Deep review refined our analysis of psychophysical coupling—mapping five candidate mechanisms from Stapp's attention-as-observation to Eccles' intention-as-probability-weighting, with testable predictions for each.
