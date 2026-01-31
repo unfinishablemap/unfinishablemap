@@ -4,7 +4,8 @@ description: "The simplest form of consciousness—bare phenomenal experience wi
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T08:10:00+00:00
+ai_modified: 2026-01-31T08:28:00+00:00
+last_deep_review: 2026-01-31T08:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -123,7 +124,7 @@ The concept matters for several reasons:
 
 **Dualism**: Minimal consciousness exemplifies why the Map rejects [[materialism|emergentist materialism]]. If consciousness emerged from complexity, we should be able to say what complexity level creates it. The impossibility of identifying such a threshold suggests consciousness is fundamental rather than derived.
 
-**Minimal Quantum Interaction**: The interface between consciousness and matter (hypothetically via quantum indeterminacy) doesn't require complex neural architectures. Simple systems with neurons—even 302 like *C. elegans*—possess microtubules where quantum effects might occur. Minimal consciousness may require only minimal interface conditions.
+**Minimal Quantum Interaction**: The interface between consciousness and matter (hypothetically via quantum indeterminacy) doesn't require complex neural architectures. Simple systems with neurons—even 302 like *C. elegans*—possess structures where quantum effects might, in principle, occur. Whether quantum coherence can persist long enough in warm biological tissue remains contested (the decoherence objection), but minimal consciousness may require only minimal interface conditions—whatever those turn out to be.
 
 **Bidirectional Interaction**: Even minimal consciousness, if it exists, may be causally efficacious. The Map holds that consciousness influences physical outcomes wherever it interfaces with appropriate systems. This would apply even to the simplest conscious systems.
 
