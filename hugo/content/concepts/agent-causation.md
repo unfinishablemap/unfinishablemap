@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-30 22:15:00+00:00
+ai_modified: 2026-01-31 01:51:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,6 +18,7 @@ concepts:
 - '[[quantum-indeterminacy-free-will]]'
 - '[[many-worlds]]'
 - '[[pairing-problem]]'
+- '[[causal-interface]]'
 - '[[downward-causation]]'
 - '[[mental-causation]]'
 - '[[phenomenology-of-choice]]'
@@ -30,7 +31,7 @@ description: Agent causation holds that persons originate actions directly, not 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-30 22:15:00+00:00
+last_deep_review: 2026-01-31 01:51:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,6 +85,8 @@ If all causation is fundamentally substances exercising powers (Lowe, O'Connor),
 The Map specifies *where* agent causation interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. The agent selects among quantum possibilities—exercising the same kind of causal power that all substances exercise.
 
 This also addresses the [pairing problem](/concepts/pairing-problem/): if consciousness interfaces at specific quantum-sensitive neural structures, it's spatially located where those structures are. Agent causation operates through particular physical interfaces.
+
+Why can't we observe this interface in action? The [causal interface void](/voids/causal-interface/) explains: the mechanism is systematically invisible from both first-person introspection (which accesses intentions and actions but not their connection) and third-person observation (which sees correlates but not causation). This opacity is *predicted* by minimal quantum interaction—a minimal influence leaves minimal traces. The invisibility is not an embarrassment but a consequence of the interface being precisely small enough to avoid violating conservation laws.
 
 The [decoherence challenge](/concepts/decoherence/)—that warm neural tissue decoheres too fast—assumes quantum effects must persist at computation timescales. The Map requires only that consciousness biases outcomes *at* decoherence, and quantum biology has revealed unexpected coherence in warm biological systems.
 
@@ -168,6 +171,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main 
 - [motor-selection](/concepts/motor-selection/) — Motor control as supporting domain
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as causal pathway
 - [implicit-memory](/concepts/implicit-memory/) — Skill delegation and choking phenomenon
+- [causal-interface](/voids/causal-interface/) — Why the mechanism of agent causation is systematically invisible
 - [decoherence](/concepts/decoherence/) — The decoherence challenge
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical description leaves consciousness unexplained
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — When agent causation is engaged (authentic choice) vs. attenuated

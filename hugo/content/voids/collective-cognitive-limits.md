@@ -1,17 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-01-26 22:15:00+00:00
+ai_modified: 2026-01-30 23:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
+- '[[combination-problem]]'
 created: 2026-01-26
 date: &id001 2026-01-26
+description: 'Beyond individual cognitive closure: how paradigms, social silence,
+  and Overton Windows create emergent blind spots that no individual mind would face
+  alone.'
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-30 23:55:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -30,7 +35,7 @@ The [voids](/voids/) framework explores individual cognitive limits—what a sin
 
 Individual cognitive closure, as McGinn describes, arises from the architecture of individual minds. Collective cognitive closure arises from the architecture of shared understanding itself. A paradigm, a culture, an Overton Window—each provides the concepts that make thought possible while simultaneously excluding concepts outside its frame.
 
-This is a genuine emergence. The collective blind spot is not simply the intersection of individual blind spots. Rather, the very act of coordinating thought across minds creates new limitations that no individual alone would face. You might see the elephant in the room; I might see it too; yet *we* cannot discuss it because the social structure of discussion excludes it.
+This is a genuine emergence. The collective blind spot is not simply the intersection of individual blind spots—the same issue arises with the [combination problem](/concepts/combination-problem/) in consciousness studies, where individual experiences combine into something qualitatively different. Here, the very act of coordinating thought across minds creates new limitations that no individual alone would face. You might see the elephant in the room; I might see it too; yet *we* cannot discuss it because the social structure of discussion excludes it.
 
 Three frameworks illuminate this territory: Kuhn's paradigm blindness, Zerubavel's elephants in the room, and the Overton Window. Each describes a different mechanism by which collectives fail to think thoughts that individuals might think alone.
 
@@ -38,7 +43,7 @@ Three frameworks illuminate this territory: Kuhn's paradigm blindness, Zerubavel
 
 Thomas Kuhn's analysis of scientific revolutions reveals how shared frameworks create shared blind spots. Phlogiston chemists couldn't see oxygen. Pre-Copernican astronomers couldn't see heliocentrism as coherent. The blindness wasn't stupidity; it was structural.
 
-Kuhn's key insight: paradigms are *incommensurable*. There is no neutral standpoint from which to compare them. A paradigm shift is a gestalt switch—not accumulation of evidence but transformation of perception. The Unexplorable territory isn't merely absent from the paradigm's map; it *cannot be represented* on that map because the concepts needed to identify the blind spot are concepts the paradigm cannot provide.
+Kuhn's key insight: paradigms are *substantially incommensurable*. While later philosophers qualified Kuhn's original strong claim—some comparison across paradigms is possible—the core observation holds: practitioners within a paradigm cannot fully see alternatives from within. The Unexplorable territory isn't merely absent from the paradigm's map; it *cannot be represented* on that map because the concepts needed to identify the blind spot are concepts the paradigm cannot provide.
 
 The phenomenology is distinctive: anomalies appear as noise, as things-to-be-explained-away rather than signals. Recognition comes only in retrospect—"How did we not see this?"
 
@@ -68,9 +73,9 @@ When do individual cognitive limits aggregate into collective ones? When do they
 
 **Limits that cancel:** Sometimes groups see what individuals miss. Crowdsourcing and prediction markets can outperform experts by aggregating diverse perspectives. The "wisdom of crowds" phenomenon occurs when individual errors are uncorrelated and cancel out.
 
-**Limits that emerge:** The distinctive case. Some blind spots exist *only* at the collective level. The elephant in the room requires multiple people to become invisible—a single person alone wouldn't experience the pressure against acknowledgment. Social coordination creates occlusion that no individual generates.
+**Limits that emerge:** The distinctive case. Some blind spots exist *only* at the collective level. Consider institutional failures: individuals within a failing organisation often see problems clearly but cannot act because "everyone knows" the problems are undiscussable. The elephant in the room requires multiple people to become invisible—a single person alone wouldn't experience the pressure against acknowledgment.
 
-The question for the voids framework: which type of collective limitation matters most for understanding cognitive territory? Paradigm blindness suggests Unexplorable regions shaped by the structure of shared frameworks. Elephants suggest Occluded territory defended by social structure. Emergent limits suggest voids that exist only for coordinated minds.
+The question for the voids framework: which type of collective limitation matters most? Paradigm blindness suggests Unexplorable regions; elephants suggest Occluded territory; emergent limits suggest voids that exist only for coordinated minds.
 
 ## Approaching the Collective Edge
 
@@ -104,7 +109,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) framework extends to coll
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** raises the question of causal direction. The Overton Window doesn't just describe what individuals happen to think—it *shapes* what individuals can think. The causal flow may run both directions: individuals constituting the collective, the collective constraining individuals.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** extends the indexical question to the social level. If different paradigms and Overton Windows exist simultaneously—each constituting its own collective cognitive reality—which one matters?
+**[No Many Worlds](/tenets/#no-many-worlds)** has indirect implications. The tenet's concern with indexical identity—why *this* branch, *this* observer—parallels questions about collective cognition: why does *this* paradigm dominate, *this* Overton Window constrain discussion? Both involve the question of which of multiple possibilities becomes actual.
 
 ## What Would Challenge This View?
 

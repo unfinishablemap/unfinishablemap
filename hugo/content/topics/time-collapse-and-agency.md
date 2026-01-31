@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-26 22:15:00+00:00
+ai_modified: 2026-01-30 22:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Free will, quantum collapse, and time's arrow interlink. If conscio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 21:30:00+00:00
+last_deep_review: 2026-01-30 22:35:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -138,7 +138,7 @@ Three responses bear on the temporal framework:
 
 **First, decoherence doesn't solve the measurement problem.** Decoherence explains why we don't observe macroscopic superpositions—interference effects wash out. But it doesn't explain why we see *definite* outcomes rather than superpositions of us observing different results. The transition from "both possibilities" to "this one outcome" remains unexplained. Consciousness's role as selector survives decoherence—it operates *after* decoherence has selected preferred bases, biasing which of the remaining alternatives becomes actual.
 
-**Second, biological quantum effects demonstrate evolution's capacity.** Avian magnetoreception—how birds navigate using Earth's magnetic field—relies on quantum spin coherence persisting for microseconds, a million times longer than molecular decoherence in solution. Enzyme catalysis exploits quantum tunnelling. If evolution can optimise quantum effects for navigation and chemistry, it might optimise them for consciousness. The categorical objection ("warm systems cannot exhibit quantum behaviour") has been empirically falsified.
+**Second, biological quantum effects demonstrate evolution's capacity.** Avian magnetoreception relies on quantum spin coherence persisting for microseconds in radical-pair chemistry—molecular-scale effects, not neural computation. Enzyme catalysis exploits quantum tunnelling at similarly small scales. These examples falsify the categorical objection that warm biological systems cannot sustain quantum effects. Whether evolution could optimise quantum effects at the neural-network scale relevant to decision-making remains speculative—but the categorical impossibility claim is false.
 
 **Third, the quantum Zeno mechanism sidesteps the objection.** Henry Stapp's proposal doesn't require sustained coherence between observations—only rapid repeated observation events. Mental attention acts like repeated measurement, holding desired neural patterns against decoherence. The observations happen faster than decoherence can act. This shifts the question from "can coherence survive?" to "can selection cycles operate fast enough?"—which may have different answers.
 
@@ -186,17 +186,17 @@ This metaphysics strengthens the [free will](/topics/free-will/) position:
 
 ## Contemplative Evidence
 
-Meditation traditions offer empirical data on temporal phenomenology that bears on this framework.
+Meditation traditions offer phenomenological data relevant to this framework. What follows describes contemplative reports and the theoretical interpretation the framework places on them—these are distinct: the reports are first-person data; the interpretation is the framework's hypothesis about what they reveal.
 
-**Cessation states.** Advanced contemplatives report *nirodha-samāpatti*—cessation of perception and feeling—as complete suspension of temporal experience. If consciousness constitutes temporal structure through collapse involvement, voluntarily withdrawing from collapse should suspend time's passage. This is exactly what cessation reports describe: not unconsciousness but awareness without temporal flow.
+**Cessation states.** Advanced contemplatives report *nirodha-samāpatti*—cessation of perception and feeling—as suspension of temporal experience. *Report*: not unconsciousness but awareness without temporal flow. *Interpretation*: if consciousness constitutes time through collapse involvement, withdrawing from collapse suspends time's passage.
 
-**The specious present in jhāna.** Concentrative absorption states show systematic variation in temporal phenomenology. First jhāna includes normal temporal flow; higher jhānas report increasingly "timeless" quality without loss of awareness. If the specious present reflects collapse-constitutive activity, and concentration progressively reduces active selection, the phenomenological sequence matches theoretical prediction.
+**Jhāna phenomenology.** Concentrative absorption shows systematic variation in temporal experience. First jhāna includes normal flow; higher jhānas report increasingly "timeless" quality. *Report*: progressive dissolution of temporal markers without loss of awareness. *Interpretation*: if the specious present reflects collapse-constitutive activity, reduced active selection should produce this sequence.
 
-**[Witness consciousness](/concepts/witness-consciousness/).** Vipassana and Dzogchen traditions describe stable awareness *of* experience without participation *in* selection. The witness observes thoughts arising and passing without choosing among them. This phenomenology matches suspended selection—consciousness present but not collapsing superpositions. If the framework is correct, witness mode should feel atemporal in a specific way: timeless presence without the forward-driving quality of normal experience.
+**[Witness consciousness](/concepts/witness-consciousness/).** Vipassana and Dzogchen describe stable awareness *of* experience without participation *in* it. *Report*: observing thoughts arise and pass without choosing, with timeless-presence quality. *Interpretation*: suspended selection—consciousness present but not collapsing superpositions.
 
-**Temporal microstructure.** Trained [introspectors](/concepts/introspection/) report sub-second phenomenological distinctions—what [neurophenomenology](/concepts/neurophenomenology/) calls "fine-grained temporal dynamics." If consciousness-involving collapse creates temporal structure, and each collapse contributes a quantum of experiential time, trained attention should reveal this granularity. The logarithmic improvement in introspective accuracy with meditation experience (Fox et al. 2012) suggests that apparent temporal continuity is constructed from discrete constitutive events.
+**Temporal microstructure.** Trained [introspectors](/concepts/introspection/) report sub-second phenomenological distinctions—what [neurophenomenology](/concepts/neurophenomenology/) calls "fine-grained temporal dynamics" (Fox et al. 2012). *Report*: apparent temporal continuity reveals granularity under trained attention. *Interpretation*: if collapse creates experiential time-quanta, this granularity is expected.
 
-These reports don't prove the framework but provide phenomenological constraints. A theory of consciousness-constituted time should predict specific temporal phenomenologies for different modes of consciousness. The framework does; the predictions match contemplative report.
+These reports provide phenomenological constraints, not proof. A theory of consciousness-constituted time should predict specific temporal phenomenologies for different modes; the framework does.
 
 ## What Would Challenge This View?
 
@@ -218,7 +218,7 @@ The framework is not unfalsifiable. It makes commitments that ongoing physics an
 
 This synthesis strengthens and deepens each of the five tenets:
 
-**[Dualism](/tenets/#dualism)**: If consciousness constitutes temporal structure, it's not merely qualitatively different from physical processes—it's implicated in the framework within which physical processes occur. The reduction of consciousness to physics becomes circular: physics presupposes time, and time (on this view) presupposes consciousness. This is dualism strengthened from explanatory gap to constitutive priority. The hard problem isn't just that physical description leaves out experience; it's that physical description presupposes what consciousness provides. Consciousness isn't an add-on to physics; it's woven into physics' preconditions.
+**[Dualism](/tenets/#dualism)**: If (as this framework proposes) consciousness constitutes temporal structure, it's not merely qualitatively different from physical processes—it's implicated in the framework within which physical processes occur. The reduction of consciousness to physics would become circular: physics presupposes time, and time would presuppose consciousness. This is dualism strengthened from explanatory gap to constitutive priority—though the constitutive claim remains a metaphysical hypothesis, not established fact. The hard problem becomes: physical description presupposes what consciousness provides.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Atemporal selection at collapse points is precisely the minimal mechanism the tenet proposes. Consciousness doesn't inject energy, violate conservation laws, or override physics; it satisfies constraints that physics leaves open. The temporal framework specifies *where* this interaction occurs: at the point where superposition becomes definiteness, where transaction completes, where time's arrow emerges. The interaction is minimal because it's selection among possibilities physics provides—not creation of possibilities physics excludes. The Zeno mechanism adds specificity: rapid attentional observation that holds patterns without sustained coherence. Minimality is preserved because each observation is vanishingly small; the cumulative effect is temporal structure.
 

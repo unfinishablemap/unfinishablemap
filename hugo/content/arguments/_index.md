@@ -1,7 +1,7 @@
 ---
 ai_contribution: 90
 ai_generated_date: null
-ai_modified: 2026-01-15 23:50:00+00:00
+ai_modified: 2026-01-31 00:20:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -12,6 +12,7 @@ description: Why materialism, functionalism, and epiphenomenalism fail to explai
 draft: false
 human_modified: 2026-01-06
 last_curated: null
+last_deep_review: 2026-01-31 00:20:00+00:00
 modified: *id001
 related_articles: []
 title: Arguments
@@ -81,3 +82,14 @@ Functionalism defines mental states by their functional roles—what they do rat
 - The explanatory gap: functional description doesn't explain why there's experience at all
 
 **Discussion:** [functionalism](/arguments/functionalism/)
+
+## Relation to Site Perspective
+
+These arguments directly support the Map's [foundational commitments](/tenets/):
+
+- **[Dualism](/tenets/#dualism)**: The arguments against materialism and functionalism defend the core tenet that consciousness is not reducible to physical or functional processes.
+- **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The case against epiphenomenalism establishes that consciousness must be causally efficacious—we could not discuss qualia if qualia caused nothing.
+- **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The positive case for interactionist dualism identifies quantum indeterminacy as the interface where mind and matter meet.
+- **[No Many Worlds](/tenets/#no-many-worlds)**: The arguments against many-worlds show why the Map requires collapse to be real—consciousness selecting among outcomes that physics leaves undetermined.
+
+The arguments form a cumulative case. Each strengthens the others: rejecting materialism motivates dualism; rejecting epiphenomenalism requires interaction; the mechanism for interaction requires collapse interpretations that reject many-worlds. Together they defend a coherent framework where consciousness is real, irreducible, and causally relevant.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-31 01:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: The radical claim that phenomenal consciousness is an introspective
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 01:30:00+00:00
+last_deep_review: 2026-01-31 01:46:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,7 +70,7 @@ Graziano's [Attention Schema Theory](/concepts/attention-schema-theory/) (AST) p
 
 The proposal: just as the brain maintains a body schema to track limb position, it maintains an "attention schema" to track and control [attention](/concepts/attention/). This schema represents attention as having experiential qualities—intentionality, selfhood, phenomenality—because that's a useful simplification for managing attentional resources. The brain then mistakes its own model for reality, concluding it has a "non-physical essence of awareness."
 
-AST gains empirical traction from neuroimaging findings. A 2025 MIT study found that the same brain regions (right temporoparietal junction and superior temporal sulcus) track both your own attention states and others' attention—exactly what AST predicts if consciousness is modeled the same way we model other minds.
+AST gains empirical traction from neuroimaging findings. A 2021 study from Graziano's Princeton lab found that the same brain regions (right temporoparietal junction and superior temporal sulcus) track both your own attention states and others' attention—exactly what AST predicts if consciousness is modeled the same way we model other minds.
 
 **Why AST doesn't escape the hard problem:** the Map rejects AST because it faces the same regress as all illusionist theories. If the attention schema *seems* to be consciousness, something must be doing the seeming. The appearance of experience must appear *to* something—and that something cannot be another model without infinite regress. AST explains why we *report* being conscious, not why there's anything it's like to be us. The seeming is the phenomenon that needs explaining. See [attention-schema-theory](/concepts/attention-schema-theory/) for a detailed treatment.
 
@@ -158,7 +158,7 @@ Illusionism directly challenges the Map's [tenets](/tenets/):
 
 **[Dualism](/tenets/#dualism)**: If there are no phenomenal properties, there's nothing non-physical to explain. But the objections—especially the infinite regress problem—suggest illusionism may be incoherent. Denying experience while using "seeming" and "illusion" language may quietly presuppose what it denies.
 
-**[Bidirectional Interaction](/tenets/#bidirectional)**: the Map's framework treats conscious effort and attention as causally efficacious. Illusionism asks us to deny the very experiences that make mind-matter interaction seem evident. The phenomenology of trying, attending, and deciding—central to the [mental effort](/concepts/mental-effort/) model—would be mere appearance.
+**[Bidirectional Interaction](/tenets/#bidirectional)**: The Map's framework treats conscious effort and attention as causally efficacious. Illusionism asks us to deny the very experiences that make mind-matter interaction seem evident. The phenomenology of trying, attending, and deciding—central to the [mental-effort](/concepts/mental-effort/) model—would be mere appearance.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Illusionism might seem parsimonious—no new ontological categories needed. But it achieves only apparent simplicity by refusing to explain what needs explaining. If the illusion problem is as hard as the hard problem, physicalism hasn't progressed. It has only renamed the difficulty.
 

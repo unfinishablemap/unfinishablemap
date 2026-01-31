@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-31 00:13:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: Consciousness selects which quantum possibilities become actual neu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 15:30:00+00:00
+last_deep_review: 2026-01-31 00:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -271,3 +271,5 @@ The consciousness-selecting neural patterns framework would face serious difficu
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 - Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+- Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, 2025(1), niaf011.
+- Keppler, J. (2025). Macroscopic quantum effects in the brain. *Frontiers in Human Neuroscience*.

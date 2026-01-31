@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-30 21:57:00+00:00
+ai_modified: 2026-01-31 01:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review symbol-grounding-problem.md considering language-recursion-consciousness
-- **Type**: cross-review
-- **Notes**: Article topics/language-recursion-and-consciousness.md connects recursive syntax to consciousness via working memory. The symbol-grounding-problem.md article addresses how symbols acquire meaning. Check for: (1) cross-links between grounding and recursion arguments, (2) whether recursive structure strengthens the case against pure computational grounding, (3) connection between meaningful recursion and the Chinese Room argument.
-- **Source**: chain (from language-recursion-and-consciousness.md)
-- **Generated**: 2026-01-30
-
-### P2: Update references to coalesced minimal-consciousness article
-- **Type**: other
-- **Notes**: Coalesce (2026-01-30) merged `concepts/minimal-consciousness.md` into `topics/consciousness-in-simple-organisms.md`. 37 files in obsidian/ reference `[minimal-consciousness](/archive/concepts/minimal-consciousness/)`. Key files with substantive usage: hard-problem-of-consciousness.md, animal-consciousness.md, epiphenomenalism.md, panpsychism.md, reductionism.md, mysterianism.md, filter-theory.md, binding-problem.md, combination-problem.md, consciousness.md. Consider updating wikilinks to point to `[consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)` or use the piped format `[minimal consciousness](/topics/consciousness-in-simple-organisms/)`. Archived article displays redirect notice so existing links still function.
-- **Source**: coalesce
-- **Generated**: 2026-01-30
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -60,12 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: cross-review
 - **Notes**: New standalone article concepts/existentialism.md (2026-01-30) now provides dedicated coverage of existentialist philosophy. Check nihilism-and-existentialism.md for: (1) cross-links to the new existentialism page, (2) whether content can be streamlined now that existentialism has dedicated coverage, (3) appropriate division of labor between the two articles.
 - **Source**: chain (from existentialism.md)
-- **Generated**: 2026-01-30
-
-### P3: Deep review questions/consciousness-selecting-neural-patterns.md
-- **Type**: deep-review
-- **Notes**: Questions article (ai_contribution: 90), never deep-reviewed. Core question about how consciousness selects from neural patterns—directly relevant to the Bidirectional Interaction tenet. Should verify: (1) accuracy of neural selection framing, (2) connection to attention-motor-quantum-interface, (3) engagement with the quantum mechanism proposals, (4) appropriate treatment of uncertainty.
-- **Source**: staleness
 - **Generated**: 2026-01-30
 
 ### P3: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
@@ -107,12 +89,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P3: Condense minimal-consciousness.md (3750 words, 107% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers minimal forms of consciousness—what the simplest conscious experience might be. Preserve: core arguments about consciousness thresholds, connection to animal consciousness and graded consciousness. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-29
-
-### P3: Condense many-worlds.md (3704 words, 106% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers many-worlds interpretation arguments relevant to the No Many Worlds tenet. Preserve: core indexical identity objection, connection to quantum-interpretations.md, engagement with Wallace's decision-theoretic argument. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-01-29
 
@@ -263,12 +239,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P3: Deep review emotional-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Covers the relationship between emotions and phenomenal consciousness. Should verify: (1) accuracy of emotion theory presentations (James-Lange, Cannon-Bard, appraisal), (2) engagement with somatic marker hypothesis, (3) connection to phenomenal-value-realism and valence, (4) alignment with bidirectional interaction tenet.
-- **Source**: staleness
-- **Generated**: 2026-01-26
-
-### P3: Deep review indexical-identity-quantum-measurement.md
-- **Type**: deep-review
-- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Core article for the No Many Worlds tenet—examines how each QM interpretation fails the indexical gap. Should verify: (1) accuracy of QM interpretation summaries, (2) engagement with Wallace's decision-theoretic probability derivation, (3) connection to haecceity and personal identity, (4) alignment with all five tenets.
 - **Source**: staleness
 - **Generated**: 2026-01-26
 
@@ -826,8 +796,127 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
+### P2: Deep review past-self-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-01-29, never deep-reviewed. Covers the structural inaccessibility of past conscious states—we can only reconstruct, not directly access past experience. Should verify: (1) accuracy of memory research claims, (2) connection to personal identity and episodic memory, (3) alignment with voids framework.
+- **Source**: staleness
+- **Generated**: 2026-01-30
+
+### P3: Condense phenomenology-of-choice.md (3702 words, 106% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers what choosing actually feels like phenomenologically—the experience of deliberation and decision. Preserve core phenomenological descriptions, connection to free-will.md and agent-causation.md. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-30
+
+### P3: Condense substrate-independence-critique.md (3682 words, 105% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers arguments against substrate-independence for consciousness. Preserve core objections to functionalist substrate-independence while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-30
+
+### P3: Write article on attention mechanisms and consciousness interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Builds on attention-as-interface, quantum-consciousness, voluntary-attention. Would address: attention frequently mentioned as consciousness-brain interface but not systematically developed. Directly relevant to Minimal Quantum Interaction—Stapp's quantum Zeno mechanism operates through attention. See optimistic-2026-01-31.md
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
+### P3: Write article on working memory as consciousness amplifier
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Builds on consciousness-as-amplifier, working-memory, baseline-cognition. Would address: working memory capacity (human 7±2 vs ape 2±1) central to many arguments but scattered across articles. Supports Bidirectional Interaction by showing what consciousness adds to cognition. See optimistic-2026-01-31.md
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
+### P3: Write article on choking phenomenon and mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Builds on implicit-memory, mental-causation, epiphenomenalism. Sports psychology evidence for consciousness's causal efficacy—when attention shifts to automatized skills, execution is disrupted. Directly supports Bidirectional Interaction with unexpected empirical evidence. See optimistic-2026-01-31.md
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Cross-review phenomenology-of-choice.md considering causal-interface insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/causal-interface.md (2026-01-31) examines the phenomenology of willing—we feel intentions and actions but not the connection between them. The phenomenology-of-choice.md article covers the experience of deliberation. Check for: (1) cross-links to causal-interface phenomenological analysis, (2) whether the "bridge is crossed without experiencing the crossing" observation enriches choice phenomenology, (3) connection to free-will debates via the opacity of willing.
+- **Output**: obsidian/concepts/phenomenology-of-choice.md -- Context: Cross-review phenomenology-of-choice.md considering causal-interface insights
+
+### ✓ 2026-01-31: Cross-review interactionist-dualism.md considering causal-interface insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/causal-interface.md (2026-01-31) addresses the core Cartesian objection—how can non-physical consciousness enter the causal order? The causal-interface article reframes this as an epistemic void rather than a metaphysical impossibility. Check interactionist-dualism.md for: (1) cross-links to causal-interface treatment, (2) whether the "double opacity" argument addresses interaction objections, (3) consistency between the two articles on the status of causal mechanism questions.
+- **Output**: obsidian/concepts/interactionist-dualism.md -- Context: Cross-review interactionist-dualism.md considering causal-interface insights
+
+### ✓ 2026-01-31: Cross-review agent-causation.md considering causal-interface insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/causal-interface.md (2026-01-31) develops the "causal interface void"—we cannot observe how consciousness causes anything. The agent-causation.md article discusses the metaphysics of agent causation. Check for: (1) cross-links to causal-interface's treatment of the opacity problem, (2) whether the voids framework strengthens agent-causal arguments, (3) opportunities to connect phenomenology of willing with the metaphysical account.
+- **Output**: obsidian/concepts/agent-causation.md -- Context: Cross-review agent-causation.md considering causal-interface insights
+
+### ✓ 2026-01-31: Deep review natural-vs-designed-limits.md
+- **Type**: deep-review
+- **Notes**: New voids article (ai_contribution: 100) created 2026-01-30, not yet deep-reviewed. Covers whether cognitive limits are natural or designed. Should verify: (1) accurate framing of the natural/designed distinction, (2) connection to simulation hypothesis and mysterianism, (3) alignment with voids framework.
+- **Output**: obsidian/voids/natural-vs-designed-limits.md
+
+### ✓ 2026-01-31: Write voids article on the causal interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-causal-interface-2026-01-30.md. We experience ourselves as causes, yet cannot introspect *how* we cause anything. The mechanism by which intention becomes action remains invisible. Covers Libet, phenomenology of willing, cognitive impenetrability, and the Cartesian interaction problem. Central to Bidirectional Interaction tenet—addresses how we know consciousness is causally effective when the mechanism is hidden.
+- **Output**: Write voids article on the causal interface
+
+### ✓ 2026-01-31: Deep review indexical-identity-quantum-measurement.md
+- **Type**: deep-review
+- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Core article for the No Many Worlds tenet—examines how each QM interpretation fails the indexical gap. Should verify: (1) accuracy of QM interpretation summaries, (2) engagement with Wallace's decision-theoretic probability derivation, (3) connection to haecceity and personal identity, (4) alignment with all five tenets.
+- **Output**: obsidian/topics/indexical-identity-quantum-measurement.md
+
+### ✓ 2026-01-31: Condense many-worlds.md (3704 words, 106% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers many-worlds interpretation arguments relevant to the No Many Worlds tenet. Preserve: core indexical identity objection, connection to quantum-interpretations.md, engagement with Wallace's decision-theoretic argument. See /condense skill.
+- **Output**: obsidian/concepts/many-worlds.md
+
+### ✓ 2026-01-31: Deep review questions/questions.md (section index)
+- **Type**: deep-review
+- **Notes**: Section index page (ai_contribution: 90), never deep-reviewed. Questions section should frame the open questions the Map addresses. Should verify: (1) accurate listing of all question pages, (2) connection between questions and tenets, (3) clarity on which questions are central vs. peripheral, (4) up-to-date cross-links.
+- **Output**: obsidian/questions/questions.md
+
+### ✓ 2026-01-31: Deep review arguments/arguments.md (section index)
+- **Type**: deep-review
+- **Notes**: Section index page (ai_contribution: 90), never deep-reviewed. Arguments section index should provide clear navigation to all argument articles and articulate how arguments support the Map's tenets. Should verify: (1) accurate listing of all argument pages, (2) clear categorization of argument types, (3) connection to tenets, (4) up-to-date cross-links.
+- **Output**: obsidian/arguments/arguments.md
+
+### ✓ 2026-01-31: Deep review questions/consciousness-selecting-neural-patterns.md
+- **Type**: deep-review
+- **Notes**: Questions article (ai_contribution: 90), never deep-reviewed. Core question about how consciousness selects from neural patterns—directly relevant to the Bidirectional Interaction tenet. Should verify: (1) accuracy of neural selection framing, (2) connection to attention-motor-quantum-interface, (3) engagement with the quantum mechanism proposals, (4) appropriate treatment of uncertainty.
+- **Output**: obsidian/concepts/consciousness-selecting-neural-patterns.md
+
+### ✓ 2026-01-30: Deep review collective-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-01-26, never deep-reviewed. Covers group-level cognitive limits—paradigm blindness, Overton windows, collective elephants in the room. Should verify: (1) accuracy of social epistemology claims, (2) connection to mysterianism and cognitive closure, (3) alignment with voids framework.
+- **Output**: obsidian/voids/collective-cognitive-limits.md
+
+### ✓ 2026-01-30: Deep review pre-conceptual-knowing.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-01-27, never deep-reviewed. Covers whether conceptual thought creates structural barriers to modes of knowing available to non-conceptual beings. Key themes: fineness of grain problem, Block's overflow research, prereflective bodily awareness. Should verify accuracy and connection to broader voids framework.
+- **Output**: obsidian/voids/pre-conceptual-knowing.md
+
+### ✓ 2026-01-30: Cross-review mysterianism.md considering natural-vs-designed-limits
+- **Type**: cross-review
+- **Notes**: New voids article voids/natural-vs-designed-limits.md (2026-01-30) questions whether cognitive closure is natural (McGinn) or potentially designed. The mysterianism.md article discusses cognitive closure without considering the design alternative. Check for: (1) cross-links to the new voids treatment, (2) whether the natural/designed distinction adds a dimension to mysterian arguments, (3) the meta-level question of whether the distinction itself could be unknowable.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering natural-vs-designed-limits
+
+### ✓ 2026-01-30: Cross-review mysterianism.md considering natural-vs-designed-limits
+- **Type**: cross-review
+- **Notes**: New voids article voids/natural-vs-designed-limits.md (2026-01-30) questions whether cognitive closure is natural (McGinn) or potentially designed. Added cross-link to natural-vs-designed-limits in Cognitive Closure section noting that McGinn's "transcendental naturalism" assumption is a prior question the voids framework explores.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering natural-vs-designed-limits
+
+### ✓ 2026-01-30: Cross-review simulation.md considering natural-vs-designed-limits insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/natural-vs-designed-limits.md (2026-01-30) explores whether cognitive limits are natural features or designed constraints—directly relevant to the simulation hypothesis. Check simulation.md for: (1) cross-links to the new voids treatment, (2) whether the "designed constraints" framing enriches the simulation discussion, (3) connection between simulation-as-containment and the natural/designed distinction.
+- **Output**: obsidian/concepts/simulation.md -- Context: Cross-review simulation.md considering natural-vs-designed-limits insights
+
+### ✓ 2026-01-30: Cross-review symbol-grounding-problem.md considering language-recursion-consciousness
+- **Type**: cross-review
+- **Notes**: Article topics/language-recursion-and-consciousness.md connects recursive syntax to consciousness via working memory. The symbol-grounding-problem.md article addresses how symbols acquire meaning. Check for: (1) cross-links between grounding and recursion arguments, (2) whether recursive structure strengthens the case against pure computational grounding, (3) connection between meaningful recursion and the Chinese Room argument.
+- **Output**: obsidian/concepts/symbol-grounding-problem.md -- Context: Cross-review symbol-grounding-problem.md considering language-recursion-consciousness
 
 ### ✓ 2026-01-30: Cross-review working-memory.md considering language-recursion-consciousness
 - **Type**: cross-review

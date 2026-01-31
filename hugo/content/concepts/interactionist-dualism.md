@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-29 17:30:00+00:00
+ai_modified: 2026-01-31 02:01:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -32,14 +32,15 @@ concepts:
 - '[[quantum-indeterminacy-free-will]]'
 - '[[attention-as-interface]]'
 - '[[delegatory-dualism]]'
+- '[[causal-interface]]'
 created: 2026-01-14
-date: &id001 2026-01-29
+date: &id001 2026-01-31
 description: Mind and body are distinct yet causally connected. Quantum indeterminacy
   provides the mechanism for consciousness to influence brain states.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 17:30:00+00:00
+last_deep_review: 2026-01-31 02:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -246,11 +247,11 @@ This remains an active empirical question. The Map takes no position on which qu
 
 ## Agent Causation: The Metaphysical Framework
 
-The quantum mechanisms describe *where* consciousness interfaces with physics. [Agent causation](/concepts/agent-causation/) provides the metaphysical framework for *what* is happening at that interface.
+The quantum mechanisms describe *where* consciousness interfaces with physics. [Agent causation](/concepts/agent-causation/) provides the metaphysical framework for *what* is happening at that interface. The [causal interface](/voids/causal-interface/) itself remains systematically opaque—invisible from both first-person introspection and third-person observation—as predicted by minimal interaction.
 
-Most causal explanations appeal to events causing events (*event causation*). But interactionist dualism requires something different: the conscious subject—as a persisting substance—directly causes physical outcomes (*agent causation*). Roderick Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). When I decide to speak, *I* cause the speaking—the agent is ontologically prior to the events.
+Interactionist dualism requires the conscious subject—as a persisting substance—to directly cause physical outcomes (*agent causation*), not merely events causing events. Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). When I decide to speak, *I* cause the speaking.
 
-The quantum Zeno mechanism illustrates this: when attention holds neural patterns in place, the conscious subject exercises causal power over brain states. The phenomenology of mental effort confirms this: directing attention feels like *doing* something, not observing correlated events.
+The quantum Zeno mechanism illustrates this: attention holds neural patterns in place, the subject exercising causal power. The phenomenology of mental effort confirms this: directing attention feels like *doing*, not observing correlated events.
 
 This connects to [quantum indeterminacy and free will](/concepts/quantum-indeterminacy-free-will/): the same quantum openings that permit consciousness to influence brain states provide metaphysical room for libertarian freedom. The agent doesn't randomly select among options—the agent *chooses*.
 
@@ -324,7 +325,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [causal-closure](/concepts/causal-closure/) — The closure objection and responses
 
 **Related topics:**
-- [mental-causation](/concepts/mental-causation/), [agent-causation](/concepts/agent-causation/), [emergence](/concepts/emergence/), [epiphenomenalism](/arguments/epiphenomenalism/), [evolution-of-consciousness](/concepts/evolution-of-consciousness/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), [delegatory-dualism](/topics/delegatory-dualism/)
+- [mental-causation](/concepts/mental-causation/), [agent-causation](/concepts/agent-causation/), [emergence](/concepts/emergence/), [epiphenomenalism](/arguments/epiphenomenalism/), [evolution-of-consciousness](/concepts/evolution-of-consciousness/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), [delegatory-dualism](/topics/delegatory-dualism/), [causal-interface](/voids/causal-interface/)
 
 ## References
 
