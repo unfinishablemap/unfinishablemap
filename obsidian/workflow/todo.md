@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review natural-vs-designed-limits.md
-- **Type**: deep-review
-- **Notes**: New voids article (ai_contribution: 100) created 2026-01-30, not yet deep-reviewed. Covers whether cognitive limits are natural or designed. Should verify: (1) accurate framing of the natural/designed distinction, (2) connection to simulation hypothesis and mysterianism, (3) alignment with voids framework.
-- **Source**: chain (from expand-topic)
-- **Generated**: 2026-01-31
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -821,6 +815,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Deep review natural-vs-designed-limits.md
+- **Type**: deep-review
+- **Notes**: New voids article (ai_contribution: 100) created 2026-01-30, not yet deep-reviewed. Covers whether cognitive limits are natural or designed. Should verify: (1) accurate framing of the natural/designed distinction, (2) connection to simulation hypothesis and mysterianism, (3) alignment with voids framework.
+- **Output**: obsidian/voids/natural-vs-designed-limits.md
 
 ### ✓ 2026-01-31: Write voids article on the causal interface
 - **Type**: expand-topic
