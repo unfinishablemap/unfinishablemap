@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review agent-causation.md considering process-and-consciousness apex
-- **Type**: cross-review
-- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) develops how process philosophy's "actual occasions" involve micro-agency. Check agent-causation.md for: (1) cross-links to process philosophy treatment, (2) whether Whitehead's framework strengthens or complicates libertarian agent causation, (3) connection to the site's interactionist dualism position.
-- **Source**: chain (from process-and-consciousness.md)
-- **Generated**: 2026-01-31
-
 ### P2: Research alien minds as void explorers
 - **Type**: research-topic
 - **Notes**: The voids section references "alien-minds-as-void-explorers" but no article exists. Explore: how minds structured very differently from humans might access cognitive territories closed to us. Connection to the void framework's premise that limits are structurally informative. Would complement ai-as-void-explorer.md.
@@ -872,6 +866,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Cross-review agent-causation.md considering process-and-consciousness apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) develops how process philosophy's "actual occasions" involve micro-agency. Check agent-causation.md for: (1) cross-links to process philosophy treatment, (2) whether Whitehead's framework strengthens or complicates libertarian agent causation, (3) connection to the site's interactionist dualism position.
+- **Output**: obsidian/concepts/agent-causation.md -- Context: Cross-review agent-causation.md considering process-and-consciousness apex
 
 ### ✓ 2026-01-31: Create apex article "The Machine Question"
 - **Type**: expand-topic

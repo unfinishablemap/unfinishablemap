@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly, not
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-31T01:51:00+00:00
+ai_modified: 2026-01-31T10:08:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -30,6 +30,7 @@ concepts:
   - "[[authentic-vs-inauthentic-choice]]"
 related_articles:
   - "[[tenets]]"
+  - "[[process-and-consciousness]]"
   - "[[agent-causation-libertarian-free-will-2026-01-14]]"
   - "[[voluntary-attention-control-mechanisms-2026-01-17]]"
   - "[[motor-control-quantum-zeno-2026-01-18]]"
@@ -38,7 +39,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-31T01:51:00+00:00
+last_deep_review: 2026-01-31T10:08:00+00:00
 ---
 
 Agent causation holds that conscious agents—understood as persisting substances rather than collections of events—directly cause their actions. The agent is the causal source, not reducible to prior mental events like beliefs and desires. This positions agents as initiators of causal chains, not merely links in chains that stretch back before their existence.
@@ -134,7 +135,7 @@ This strengthens agent causation against the critic who asks what about the agen
 
 Hausman's *L-creativity* requires "metaphysical novelty"—what genuinely didn't exist before—mapping directly onto sourcehood. Bergson's [[duration]] develops this: conscious experience brings genuine novelty through memory's integration with the present. The agent isn't source just at choice but throughout the creative process.
 
-Whitehead's process philosophy offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally rather than metaphysically exceptional.
+Whitehead's [[process-philosophy|process philosophy]] offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally rather than metaphysically exceptional. This reframes the objection: the question is not "How can consciousness possibly cause anything?" but "Why did we think it couldn't?" The [[process-and-consciousness|Process and Consciousness]] apex develops this connection in depth.
 
 ## What Would Challenge This View?
 
@@ -159,6 +160,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 
 ## Further Reading
 
+- [[process-and-consciousness]] — How process philosophy supports agent causation (apex synthesis)
 - [[quantum-indeterminacy-free-will]] — Systematic treatment including Kane's 2024 convergence
 - [[phenomenology-of-choice]] — Deliberation, decision, authorship
 - [[consciousness-and-creativity]] — Generation beyond selection
