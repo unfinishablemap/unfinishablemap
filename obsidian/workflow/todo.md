@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-31T04:52:00+00:00
+ai_modified: 2026-01-31T07:20:09+00:00
 draft: false
 topics: []
 concepts: []
@@ -42,6 +42,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
+
+### P2: Cross-review computational-cognitive-limits.md with new incompleteness research
+- **Type**: cross-review
+- **Notes**: New research notes research/voids-incompleteness-void-2026-01-31.md (2026-01-31) develops additional material on: (1) Erik Hoel's incompleteness-of-science argument, (2) Gödel's disjunction (minds transcend algorithms OR absolutely undecidable problems), (3) "absolutely undecidable" mathematical statements, (4) cognitive architecture constraints on mathematical knowledge. Check computational-cognitive-limits.md for: integration of Hoel's science-incompleteness claim, the disjunction framing, and the phenomenology section from research.
+- **Source**: chain (from research-voids)
+- **Generated**: 2026-01-31
+
+### P2: Cross-review duration.md considering process-and-consciousness apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) synthesizes Whitehead and Bergson's process frameworks. The duration.md concept page covers Bergson's durée. Check for: (1) cross-links to the apex synthesis, (2) whether the apex treatment enriches or clarifies the concept page, (3) consistency between Bergson presentations.
+- **Source**: chain (from process-and-consciousness.md)
+- **Generated**: 2026-01-31
+
+### P2: Cross-review temporal-consciousness.md considering process-and-consciousness apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) develops temporal aspects of consciousness within process philosophy framework. The temporal-consciousness.md concept page covers phenomenology of time experience. Check for: (1) cross-links to the apex synthesis, (2) whether process philosophy framing enriches the temporal phenomenology treatment, (3) connection between Whiteheadian actual occasions and moment-to-moment experience.
+- **Source**: chain (from process-and-consciousness.md)
+- **Generated**: 2026-01-31
 
 ### P3: Cross-review nihilism-and-existentialism.md considering existentialism.md
 - **Type**: cross-review
@@ -795,12 +813,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
-### P2: Condense duration.md (3625 words, 145% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers Bergson's durée—lived time as qualitative multiplicity vs. spatialized clock time. Preserve core phenomenological content, connection to temporal-consciousness.md and process-philosophy.md. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-31
-
 ### P2: Condense quantum-interpretations.md (3625 words, 145% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers major QM interpretations and their implications for consciousness. Preserve: core interpretation summaries, evaluation criteria for consciousness relevance, connection to measurement-problem.md. See /condense skill.
@@ -854,6 +866,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Condense duration.md (3625 words, 145% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers Bergson's durée—lived time as qualitative multiplicity vs. spatialized clock time. Preserve core phenomenological content, connection to temporal-consciousness.md and process-philosophy.md. See /condense skill.
+- **Output**: obsidian/concepts/duration.md
 
 ### ✓ 2026-01-31: Cross-review phenomenal-unity.md considering process-and-consciousness apex
 - **Type**: cross-review

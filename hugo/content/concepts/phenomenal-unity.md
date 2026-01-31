@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-28 20:15:00+00:00
+ai_modified: 2026-01-31 05:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,11 +28,12 @@ description: Why conscious experiences come as integrated wholes rather than sep
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-28 20:15:00+00:00
+last_deep_review: 2026-01-31 05:33:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[neural-binding-quantum-entanglement-2026-01-19]]'
+- '[[process-and-consciousness]]'
 title: Phenomenal Unity
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -214,6 +215,7 @@ Phenomenal unity illuminates why the Map's [tenets](/tenets/) take the positions
 
 ## Further Reading
 
+- [process-and-consciousness](/apex/process-and-consciousness/) — Apex synthesis: how process philosophy (Whitehead, Bergson) illuminates phenomenal unity through its account of actual occasions
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Broader conceptual framing of what unity is and how it relates to binding, combination, and other problems
 - [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) — Detailed analysis of classical binding mechanisms (gamma synchrony, thalamocortical loops) and why quantum entanglement succeeds where they fail
 - [quantum-binding-experimental-evidence](/concepts/quantum-binding-experimental-evidence/) — Comprehensive analysis of 2022-2025 experimental support for quantum mechanisms underlying phenomenal unity

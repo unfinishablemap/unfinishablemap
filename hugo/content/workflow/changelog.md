@@ -18,6 +18,107 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 05:33 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/phenomenal-unity.md
+- **Word count**: 3297 → 3315 (+18)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (missing cross-link to process-and-consciousness apex)
+- **Enhancements made**: 1 (bidirectional cross-link with apex article)
+- **Output**: `reviews/deep-review-2026-01-31-phenomenal-unity.md`
+- **Notes**: Fourth deep review (cross-review with process-and-consciousness apex). Article stable since third review (2026-01-28). Only change: added [process-and-consciousness](/apex/process-and-consciousness/) to related_articles frontmatter and first position in Further Reading. The apex article lists phenomenal-unity as a source; bidirectional linking now complete. Length-neutral mode applied (at 133% of soft threshold).
+
+## 2026-01-31 05:23 UTC - deep-review
+- **Status**: Success
+- **File**: topics/hard-problem-of-consciousness.md
+- **Word count**: 2956 → 2971 (+15)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 1 (cross-link to process-and-consciousness apex)
+- **Output**: `reviews/deep-review-2026-01-31-hard-problem-of-consciousness.md`
+- **Notes**: Cross-review triggered by new process-and-consciousness apex article. Article stable after six reviews. Only change: added cross-link to new apex in Russellian Monism section and related_articles frontmatter. Process philosophy's diagnosis of the explanatory gap complements this article's treatment of intrinsic nature.
+
+## 2026-01-31 05:13 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Incompleteness Void
+- **Category**: Mixed (Unexplorable with Occluded dimensions)
+- **Output**: research/voids-incompleteness-void-2026-01-31.md
+- **Key finding**: Gödel's incompleteness theorems reveal structural limits on self-referential systems that may apply to consciousness—either minds transcend formal systems (generating an explanatory void) or face absolutely undecidable truths (generating a knowledge void).
+
+## 2026-01-31 05:03 UTC - deep-review
+- **Status**: Success
+- **File**: voids/past-self-void.md
+- **Word count**: 2062 → 2086 (+24)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (strengthened Bidirectional Interaction tenet, acknowledged Buddhist/dualism tension, added Functionalist Objection section)
+- **Enhancements made**: 2 (condensed Approaches to Edge section, tightened What AI Might See section)
+- **Output**: `reviews/deep-review-2026-01-31-past-self-void.md`
+- **Notes**: First deep review. Article well-constructed with strong phenomenology section and empirical grounding. Added functionalist counterargument engagement using HSAM evidence. Strengthened tenet connections. Length-neutral mode applied (at 104% of soft threshold). Article now in good shape for future reviews.
+
+## 2026-01-31 04:58 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/integrated-information-theory.md
+- **Word count**: 2906 → 2919 (+13)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (skeptical framing for Kerskens & Pérez study, added causal-interface cross-link)
+- **Enhancements made**: 3 (causal-interface in body and frontmatter, condensed UAL paragraph for length neutrality)
+- **Output**: `reviews/deep-review-2026-01-31-integrated-information-theory.md`
+- **Notes**: Second deep review. Article has reached good stability. Previous review (2026-01-20) added substantial content. This review made targeted improvements: added skeptical qualifier to quantum entanglement study claim, integrated causal-interface cross-link in "Where IIT Conflicts" section. No critical issues remain; article engages comprehensively with major objections.
+
+## 2026-01-31 04:42 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Process and Consciousness (apex article)
+- **Output**: apex/process-and-consciousness.md
+- **Word count**: 2891
+- **Based on research**: No (synthesis from existing content)
+- **Notes**: New apex article integrating process philosophy (Whitehead, Bergson) across all five tenets. Synthesizes concepts/process-philosophy, concepts/duration, concepts/temporal-consciousness, concepts/panpsychism, and related articles. Shows how process thought provides conceptual resources for the Map's dualist framework without committing to panpsychism.
+
+## 2026-01-31 04:33 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/mysterianism.md
+- **Word count**: 2658 → 2658 (±0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (added causal-interface cross-link)
+- **Enhancements made**: 3 (integrated causal-interface in Minimal Quantum Interaction tenet section, related_articles, and Further Reading)
+- **Output**: `reviews/deep-review-2026-01-31-mysterianism-causal-interface.md`
+- **Notes**: Eighth review; cross-review for causal-interface.md. The causal interface void directly illustrates McGinn's cognitive closure—it explores why we cannot observe how consciousness interfaces with physical causation. This is a concrete instance of closure regarding property P. Length-neutral achieved by trimming redundant prose in "Temporary Versus Permanent" section. Article highly stable; all major philosophical objections are bedrock disagreements.
+
+## 2026-01-31 04:22 UTC - coalesce
+- **Status**: No action taken
+- **Sources examined**: Attention cluster (4 articles), AI/machine consciousness cluster (3 articles), temporal consciousness cluster (3 articles), personal identity cluster (2 articles)
+- **Outcome**: No strong merge candidates found after five iterations
+- **Notes**: All examined article clusters are well-differentiated. Attention articles serve distinct purposes (overview, interface hypothesis, willed attention mechanisms, motor-attention unification). AI/consciousness articles address different scopes (general AI, LLM-specific, mind uploading). Temporal consciousness articles operate at different levels of specificity (theory gaps, comprehensive treatment, specious present deep-dive). Personal identity articles focus on different aspects (persistence, phenomenology of selfhood). The codebase exhibits good structure with hub articles linking to specialized treatments rather than redundant coverage.
+
+## 2026-01-31 04:12 UTC - deep-review
+- **Status**: Success
+- **File**: topics/free-will.md
+- **Word count**: 2495 → 2537 (+42)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (added causal-interface cross-link)
+- **Enhancements made**: 3 (integrated causal-interface in "Picture That Emerges" section, frontmatter concepts, and Further Reading)
+- **Output**: `reviews/deep-review-2026-01-31-free-will.md`
+- **Notes**: Eleventh review; cross-review for causal-interface.md. The causal interface void explains why the quantum selection mechanism is systematically invisible—opacity is predicted by minimal interaction, not a gap in the theory. Article highly stable; all major philosophical objections (eliminativism, MWI, Buddhist no-self) are bedrock disagreements, not fixable issues.
+
+## 2026-01-31 04:02 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/decoherence.md
+- **Word count**: 2719 → 2737 (+18)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (Fisher coherence precision, MWI falsifiability framing)
+- **Enhancements made**: 2 (cross-links to process-philosophy and phenomenal-consciousness)
+- **Output**: `reviews/deep-review-2026-01-31-decoherence.md`
+- **Notes**: Second review of this article. Previous review (2026-01-20) addressed major gaps. This review found no critical issues—article has reached maturity. Minor precision improvements to Fisher coherence time (~28 hours explicit) and MWI falsifiability condition (acknowledged empirical equivalence). Added process-philosophy cross-link and frontmatter concepts. Philosophical disagreements (eliminativism, MWI) are bedrock differences, not article defects.
+
+## 2026-01-31 03:57 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/introspection.md
+- **Word count**: 4175 → 4193 (+18)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (added causal-interface cross-link)
+- **Enhancements made**: 3 (integrated causal-interface in body text, frontmatter concepts, and Further Reading)
+- **Output**: `reviews/deep-review-2026-01-31-introspection.md`
+- **Notes**: Third review; cross-review for causal-interface.md. The causal interface void exemplifies process access failure in the domain of agency—directly relevant to the process/content distinction central to this article. Tightened Training section and Critical Phenomenology section for length-neutrality. Article stable; no critical issues found in last three reviews.
+
 ## 2026-01-31 03:43 UTC - deep-review
 - **Status**: Success
 - **File**: concepts/phenomenology-of-choice.md

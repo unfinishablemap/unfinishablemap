@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-01-29 18:30:00+00:00
+ai_modified: 2026-01-31 05:23:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -51,7 +51,7 @@ description: Why is there something it is like to be conscious? Physical descrip
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 18:30:00+00:00
+last_deep_review: 2026-01-31 05:23:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,6 +62,7 @@ related_articles:
 - '[[quantum-consciousness]]'
 - '[[chalmers-psychophysical-laws-2026-01-17]]'
 - '[[origin-of-consciousness]]'
+- '[[process-and-consciousness]]'
 title: The Hard Problem of Consciousness
 topics: []
 ---
@@ -224,7 +225,7 @@ Chalmers proposes that consciousness requires new *fundamental laws*—psychophy
 
 ### Russellian Monism
 
-[Russellian monism](/concepts/russellian-monism/) holds that physics describes only relational structure while remaining silent on *intrinsic nature*. Perhaps consciousness is that intrinsic nature. But the view faces its own hard problem: if electrons have micro-experiences, how do billions combine into unified consciousness? Critics argue this requires "grounding laws" no better than dualism's psychophysical laws. See [russellian-monism](/concepts/russellian-monism/) for detailed treatment.
+[Russellian monism](/concepts/russellian-monism/) holds that physics describes only relational structure while remaining silent on *intrinsic nature*. Perhaps consciousness is that intrinsic nature. [Process philosophy](/apex/process-and-consciousness/) arrives at a similar diagnosis: physics captures relations while consciousness reveals intrinsic character. But Russellian monism faces its own hard problem: if electrons have micro-experiences, how do billions combine into unified consciousness? Critics argue this requires "grounding laws" no better than dualism's psychophysical laws. See [russellian-monism](/concepts/russellian-monism/) for detailed treatment.
 
 ### Analytic Idealism
 

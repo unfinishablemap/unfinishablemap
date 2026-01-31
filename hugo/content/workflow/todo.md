@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-31 01:40:00+00:00
+ai_modified: 2026-01-31 04:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -796,11 +796,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
-### P2: Deep review past-self-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-01-29, never deep-reviewed. Covers the structural inaccessibility of past conscious states—we can only reconstruct, not directly access past experience. Should verify: (1) accuracy of memory research claims, (2) connection to personal identity and episodic memory, (3) alignment with voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-30
+### P2: Condense duration.md (3625 words, 145% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers Bergson's durée—lived time as qualitative multiplicity vs. spatialized clock time. Preserve core phenomenological content, connection to temporal-consciousness.md and process-philosophy.md. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-31
+
+### P2: Condense quantum-interpretations.md (3625 words, 145% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers major QM interpretations and their implications for consciousness. Preserve: core interpretation summaries, evaluation criteria for consciousness relevance, connection to measurement-problem.md. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-31
+
+### P3: Condense many-worlds.md (3704 words, 148% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers the No Many Worlds tenet—arguments against MWI from indexical identity perspective. Preserve core arguments, vertiginous question discussion, connection to indexical-identity-quantum-measurement.md. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-31
+
+### P3: Condense access-consciousness.md (3613 words, 145% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers Block's access/phenomenal distinction—information availability for reasoning and report. Preserve core distinction, connection to phenomenal-consciousness.md and global-workspace-theory.md. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-01-31
 
 ### P3: Condense phenomenology-of-choice.md (3702 words, 106% of threshold)
 - **Type**: condense
@@ -837,6 +855,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Cross-review phenomenal-unity.md considering process-and-consciousness apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) discusses how process philosophy handles the combination problem differently than interactionism. Check phenomenal-unity.md for: (1) cross-links to process treatment, (2) whether the contrast between combination problem (process) and interaction problem (dualism) enriches the article, (3) Whitehead's "personally ordered society" as model of unified experience.
+- **Output**: obsidian/concepts/phenomenal-unity.md -- Context: Cross-review phenomenal-unity.md considering process-and-consciousness apex
+
+### ✓ 2026-01-31: Cross-review hard-problem-of-consciousness.md considering process-and-consciousness apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) synthesizes process philosophy resources for dualism. Check hard-problem-of-consciousness.md for: (1) cross-links to the apex synthesis, (2) whether process philosophy's diagnosis of the explanatory gap strengthens the article, (3) connection between "vacuous actuality" rejection and the hard problem.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering process-and-consciousness apex
+
+### ✓ 2026-01-31: Deep review past-self-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-01-29, never deep-reviewed. Covers the structural inaccessibility of past conscious states—we can only reconstruct, not directly access past experience. Should verify: (1) accuracy of memory research claims, (2) connection to personal identity and episodic memory, (3) alignment with voids framework.
+- **Output**: obsidian/voids/past-self-void.md
+
+### ✓ 2026-01-31: Write apex article integrating process philosophy across tenets
+- **Type**: expand-topic
+- **Notes**: Whitehead's process philosophy appears scattered across multiple articles (process-philosophy.md, collapse-and-time.md, phenomenal-unity.md) but deserves unified apex treatment. Shows how actual occasions explain phenomenal unity, concrescence models collapse, and self-determination grounds mental causation. Would demonstrate philosophical coherence of the five tenets. High tenet-alignment value.
+- **Output**: Write apex article integrating process philosophy across tenets
+
+### ✓ 2026-01-31: Cross-review mysterianism.md considering causal-interface.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/causal-interface.md (2026-01-31) argues that the mind-body interface is structurally inaccessible—not merely unknown but potentially unknowable. This connects directly to McGinn's cognitive closure thesis. Check mysterianism.md for: (1) cross-links to the causal interface as an exemplary mystery, (2) whether the mechanism void strengthens or complicates the mysterian position, (3) consistency between the articles on structural vs. contingent limits.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering causal-interface.md
+
+### ✓ 2026-01-31: Cross-review free-will.md considering causal-interface.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/causal-interface.md (2026-01-31) develops the phenomenology of agency—why we cannot observe how intention becomes action. Check free-will.md for: (1) cross-links to the causal interface treatment, (2) whether Libet experiments discussion aligns with the void's framing, (3) opportunities to strengthen the connection between libertarian free will and the mechanism opacity.
+- **Output**: obsidian/topics/free-will.md -- Context: Cross-review free-will.md considering causal-interface.md
+
+### ✓ 2026-01-31: Cross-review introspection.md considering causal-interface.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/causal-interface.md (2026-01-31) discusses introspection's systematic failure to observe mental causation (Nisbett & Wilson's process/product asymmetry, Wegner's constructed authorship). Check introspection.md for: (1) cross-links to the causal interface void, (2) whether the introspection article addresses this specific limitation, (3) connection between introspection reliability debates and the mechanism void.
+- **Output**: obsidian/concepts/introspection.md -- Context: Cross-review introspection.md considering causal-interface.md
 
 ### ✓ 2026-01-31: Cross-review phenomenology-of-choice.md considering causal-interface insights
 - **Type**: cross-review

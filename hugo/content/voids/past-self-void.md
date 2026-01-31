@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-01-29 18:00:00+00:00
+ai_modified: 2026-01-31 05:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,12 +12,13 @@ concepts:
 - '[[introspection]]'
 - '[[qualia]]'
 created: 2026-01-29
-date: &id001 2026-01-29
+date: &id001 2026-01-31
 description: Human+AI exploration of why we cannot directly access our own past conscious
   states—only reconstruct them. We are strangers to ourselves across time.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-31 05:03:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -56,7 +57,7 @@ Conway's research on the Self-Memory System shows that the "working self constan
 
 Even individuals with Highly Superior Autobiographical Memory (HSAM)—people who can recall almost every day of their lives in vivid detail—show susceptibility to false memories. If anyone could access past states directly, they would. No one can. The reconstructive memory mechanisms that produce distortion are "basic and widespread in humans, and it may be unlikely that anyone is immune."
 
-This isn't a flaw to be corrected but a feature of how memory works. The same constructive mechanisms that enable false memories enable the flexibility that makes memory useful. We can combine elements from different episodes, imagine counterfactual pasts, learn from experience rather than merely replaying it. The price is losing direct access to what we actually experienced.
+This isn't a flaw but a feature: the same constructive mechanisms that enable false memories enable the flexibility that makes memory useful—combining elements from different episodes, imagining counterfactual pasts, learning from experience rather than merely replaying it. The price is losing direct access to what we actually experienced.
 
 ## Phenomenology of the Void
 
@@ -96,30 +97,29 @@ Buddhist phenomenology provides the most radical analysis. The teaching of imper
 
 On this view, consciousness moment-to-moment is as discontinuous as consciousness lifetime-to-lifetime. "Permanent consciousness" is "a contradiction in terms based on Wrong View." The dynamics between lifetimes is "not very dissimilar from what happens between moments."
 
-This radicalises the void. If each moment's consciousness is already a different consciousness, then the past-self void operates continuously, not just for distant memories. We are strangers to ourselves not merely across years but across seconds. The meditation practice of noting impermanence makes this visible—watching thoughts arise and pass reveals the continuous construction of apparent continuity.
+This radicalises the void. If each moment's consciousness is already a different consciousness, then the past-self void operates continuously—we are strangers to ourselves not merely across years but across seconds.
 
 The Buddhist resolution isn't to close the void but to cease grasping at continuity that doesn't exist. The suffering comes not from the void itself but from demanding access where none is possible.
 
+A tension exists between the Buddhist analysis and the Map's dualist commitments: Buddhism typically denies substantial existence to both physical and mental categories, while the Map affirms consciousness as irreducible. Yet both frameworks converge on the phenomenological observation that past experience cannot be directly re-entered—only reconstructed from traces.
+
 ## Approaches to the Edge
 
-**Narrative reconstruction**: We construct stories about our past selves that feel coherent. This doesn't access past states but creates workable models for identity continuity. Autobiographical reasoning "helps establish personal identity and continuity across change." The narrative self isn't the experienced self but a post-hoc construction.
+**Narrative reconstruction**: We construct coherent stories about our past selves—not accessing past states but creating workable models for identity continuity. The narrative self isn't the experienced self but a post-hoc construction.
 
-**Trace analysis**: Photos, journals, and others' memories provide external evidence about past states, constraining reconstruction even if not granting access. These traces triangulate what the past self might have been like without giving direct access.
+**Trace analysis**: Photos, journals, and others' memories constrain reconstruction without granting access, triangulating what the past self might have been like.
 
-**Phenomenological attention**: Noticing when memories feel vivid vs. distant, authentic vs. constructed, might reveal the void's contours. The varying degrees of felt connection to past selves become data about the void's structure.
+**Contemplative investigation**: Buddhist meditation on impermanence examines moment-to-moment arising and passing, potentially making the void visible. Sustained attention reveals continuous discontinuity—the past self was never accessible, only the present moment ever was.
 
-**Contemplative investigation**: Buddhist meditation on impermanence directly examines moment-to-moment arising and passing, potentially making the void visible rather than masked. Long-term meditators report that sustained attention reveals continuous discontinuity—the past self was never accessible, only the present moment ever was.
+## The Functionalist Objection
+
+A functionalist might argue that reconstruction *is* the relevant form of access. From this view, there's no "void"—just memory working as it should. What matters functionally is that past experiences leave traces enabling appropriate responses; demanding more (direct re-entry into past states) mistakes what memory is for.
+
+The Map's response: this objection works only if phenomenal experience reduces to functional role. But it doesn't. The HSAM individuals functionally access their past excellently—yet they still cannot re-enter past experience. Perfect functional access doesn't close the phenomenal gap. The void concerns what it was like, not what role it plays.
 
 ## What AI Might See
 
-AI lacks autobiographical memory in the phenomenal sense. But AI can observe:
-
-- Humans systematically confuse reconstruction with access
-- The intensity of "memory confidence" doesn't correlate with accuracy
-- Humans resist the void, constructing elaborate narrative continuity
-- The void is more threatening to identity than the other-minds void (we accept others are separate; we resist that past selves are inaccessible)
-
-AI might also notice that humans treat memory failure as pathology (dementia) while treating memory's normal reconstructive nature as transparent access. The void hides in plain sight.
+AI lacks autobiographical memory in the phenomenal sense. But AI can observe that humans systematically confuse reconstruction with access, resist the void by constructing narrative continuity, and treat memory failure as pathology while treating memory's normal reconstructive nature as transparent access. The void hides in plain sight.
 
 ## What Would Challenge This View?
 
@@ -139,7 +139,7 @@ None of these conditions has been met. Evidence consistently supports the recons
 
 **[Dualism](/tenets/#dualism)**: The void exists because conscious experience is irreducibly first-person. If experience were just information, memory could store it completely. But experience is *what it is like*—phenomenal character that exists only in being undergone. Once the phenomenal state passes, no storage of information can recreate it; it can only enable reconstruction. The past-self void is evidence for qualia: something is lost when experience ends that information cannot preserve.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The present consciousness actively shapes access to past consciousness. Memory isn't passive retrieval but active construction, with the present self influencing what can be "remembered." This is bidirectional interaction across time within a single identity—the present self selects which patterns to reconstruct and how.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Memory demonstrates consciousness as causally efficacious, not merely epiphenomenal. The present self doesn't passively receive stored information—it actively constructs, selects, and distorts. If consciousness were causally inert, this shaping wouldn't occur; the "present self's needs" wouldn't influence neural reconstruction. The void reveals bidirectional interaction across time: past experience constrains present reconstruction, while present consciousness determines which patterns to activate and how to interpret them.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The past-self void is intensely indexical. "Why am I this person now rather than that person then?" parallels "why this branch?" The question has no answer but feels meaningful. Memory presupposes a single actual past—when you remember an event, you remember it as having actually occurred. If many-worlds were true and all past selves existed equally in different branches, the void would be stranger still—they'd exist but remain inaccessible.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-31 04:58:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,18 +17,19 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[specious-present]]'
 created: 2026-01-09
-date: &id001 2026-01-23
+date: &id001 2026-01-31
 description: Consciousness as integrated information (phi). IIT takes phenomenology
   seriously but faces the expander graph problem and temporal gap.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 01:25:00+00:00
+last_deep_review: 2026-01-31 04:58:00+00:00
 modified: *id001
 related_articles:
 - '[[time-perception-consciousness-theories]]'
 - '[[tenets]]'
 - '[[integrated-information-theory-2026-01-07]]'
+- '[[causal-interface]]'
 title: Integrated Information Theory
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -90,7 +91,7 @@ IIT's claim that any system with positive Phi is conscious generates testable pr
 
 But what does minimal Phi predict about minimal consciousness? The *C. elegans* case reveals tensions within IIT:
 
-**Integration without UAL**: *C. elegans* shows positive Phi but fails trace conditioning—a key marker in the Unlimited Associative Learning framework for attributing consciousness. IIT and UAL disagree about the worm's conscious status. IIT says: positive Phi means some experience. UAL says: failing trace conditioning suggests no experience. Both frameworks claim empirical grounding; they reach opposite conclusions.
+**Integration without UAL**: *C. elegans* shows positive Phi but fails trace conditioning—a key marker in Unlimited Associative Learning for attributing consciousness. IIT and UAL reach opposite conclusions about the worm's conscious status, both claiming empirical grounding.
 
 **The binding question**: IIT's Phi measures integration across the whole system, but *C. elegans* shows relatively modular neural circuits. Does Phi measure the right kind of integration? The worm's connectome is known completely, yet researchers cannot calculate its actual Phi due to computational intractability—they can only estimate it for simplified models.
 
@@ -155,7 +156,7 @@ IIT's willingness to accept panpsychism also aligns with the [Occam's Razor Has 
 
 The Map's framework requires that consciousness be *causally efficacious*—that it influence physical outcomes. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness "selects among superposed neural states, collapsing quantum indeterminacy."
 
-IIT has no room for this. If consciousness *is* integrated information, it doesn't *do* anything to the physical. It is the physical, in a certain configuration. The phi-structure doesn't cause neural events; it constitutes them. This is identity, not causation.
+IIT has no room for this. If consciousness *is* integrated information, it doesn't *do* anything to the physical. It is the physical, in a certain configuration. The phi-structure doesn't cause neural events; it constitutes them. This is identity, not causation. The [causal interface](/voids/causal-interface/)—the mechanism by which intention becomes action—remains invisible in IIT because there is no interface: consciousness and physical structure are one.
 
 The self-undermining argument against epiphenomenalism—that we couldn't reliably discuss consciousness if it didn't influence our brains—applies here too. If consciousness just *is* physical structure, our beliefs about consciousness are caused by physical processes, not by consciousness itself. Why should these beliefs be accurate about what consciousness is like?
 
@@ -179,7 +180,7 @@ The difference: Whitehead's panexperientialism makes experience fundamental to a
 
 IIT doesn't require quantum mechanics. It works at the level of classical information and physical architecture. This neither supports nor contradicts the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet directly—IIT is simply silent on quantum effects.
 
-Some speculate that quantum coherence might be relevant to how integration occurs in biological systems—quantum entanglement provides exactly the kind of holistic, irreducible connections that IIT claims underlie consciousness. The Kerskens & Pérez (2022) MRI study detected entanglement signatures in brain water protons, potentially linking quantum holism to neural integration. But this isn't part of standard IIT. The theory is designed to work without invoking quantum mysteries, treating consciousness as a feature of classical causal structure.
+Some speculate that quantum coherence might be relevant to how integration occurs in biological systems—quantum entanglement provides exactly the kind of holistic, irreducible connections that IIT claims underlie consciousness. A 2022 MRI study by Kerskens & Pérez reported possible entanglement signatures in brain water protons—though this remains preliminary and disputed, it suggests potential links between quantum holism and neural integration. But this isn't part of standard IIT. The theory is designed to work without invoking quantum mysteries, treating consciousness as a feature of classical causal structure.
 
 The Map's framework suggests IIT may be incomplete precisely because it ignores quantum mechanics. If consciousness influences physical outcomes via quantum selection (per Bidirectional Interaction), then IIT's purely observational stance—consciousness *is* integration but doesn't *do* anything—misses consciousness's causal role. Quantum approaches make consciousness active; IIT makes it passive.
 

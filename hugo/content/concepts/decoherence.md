@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-01-31 04:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,15 +13,17 @@ concepts:
 - '[[illusionism]]'
 - '[[attention]]'
 - '[[attention-as-interface]]'
+- '[[process-philosophy]]'
+- '[[phenomenal-consciousness]]'
 created: 2026-01-14
-date: &id001 2026-01-23
+date: &id001 2026-01-31
 description: Decoherence challenges quantum consciousness theories, but biology exploits
   quantum effects in photosynthesis and magnetoreception. The objection is empirical,
   not fatal.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 01:50:00+00:00
+last_deep_review: 2026-01-31 04:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,7 +82,7 @@ Recent research has provided more direct evidence:
 
 **2025 simulation advances**: Computer modelling found that anaesthetics specifically abolish a 613 THz quantum oscillation peak in microtubules while non-anaesthetics do not. This frequency matches Fröhlich coherence predictions—a specific, testable signature that distinguishes quantum consciousness from classical alternatives.
 
-**Fisher's Posner molecule hypothesis**: Matthew Fisher (2015) proposed an entirely different mechanism: phosphorus nuclear spins in Posner molecules (Ca₉(PO₄)₆) could maintain coherence for ~10⁵ seconds—hours, not microseconds. Nuclear spins couple weakly to their environment, potentially bypassing the decoherence challenge entirely.
+**Fisher's Posner molecule hypothesis**: Matthew Fisher (2015) proposed an entirely different mechanism: phosphorus nuclear spins in Posner molecules (Ca₉(PO₄)₆) could maintain coherence for ~10⁵ seconds (~28 hours), vastly exceeding typical molecular decoherence. Nuclear spins couple weakly to their environment, potentially bypassing the decoherence challenge entirely.
 
 This debate remains unresolved empirically—no experiment has directly measured quantum coherence times in living neural tissue. But the story is clearly more complex than Tegmark's early calculation indicated, and the burden of proof may be shifting.
 
@@ -146,7 +148,7 @@ More directly: the decoherence debate is independent of the illusionism debate. 
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy offers a complementary framework. For Whitehead, "actual occasions"—the fundamental units of reality—have both physical and experiential aspects. Experience is not something that emerges from non-experiential matter and could thus be eliminated by decoherence. Rather, experience pervades reality at every level.
+Alfred North Whitehead's [process-philosophy](/concepts/process-philosophy/) offers a complementary framework. For Whitehead, "actual occasions"—the fundamental units of reality—have both physical and experiential aspects. Experience is not something that emerges from non-experiential matter and could thus be eliminated by decoherence. Rather, experience pervades reality at every level.
 
 On this view, the question shifts from "how can quantum effects survive long enough for consciousness to interact?" to "how do micro-experiences (each actual occasion's subjective aspect) combine into unified consciousness?" The [combination-problem](/concepts/combination-problem/) replaces the decoherence problem as the central challenge.
 
@@ -162,7 +164,7 @@ The Map's position on decoherence would face serious difficulty if:
 
 3. **Neural quantum effects are conclusively ruled out**: If experiments definitively demonstrate that no quantum effects survive in neural tissue—not in microtubules, not in nuclear spins, not anywhere—the physical basis for quantum consciousness collapses. Current evidence is mixed but increasingly favourable; a decisive negative result would require major revision.
 
-4. **Many-Worlds proves correct**: If the [many-worlds](/arguments/many-worlds/) interpretation were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. The measurement problem dissolves differently, and consciousness has no role in determining outcomes. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet would fail.
+4. **Many-Worlds becomes the consensus interpretation**: While MWI and Copenhagen are empirically equivalent under standard formulations, if physicists converged on MWI as the correct interpretation—perhaps through theoretical parsimony or derivation of the Born rule—then all outcomes occur and "selection" becomes illusory. The measurement problem dissolves differently, and consciousness has no role in determining outcomes. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet would fail.
 
 5. **Decoherence solves the measurement problem**: If a fully satisfactory account of definite outcomes emerges that requires only decoherence (no consciousness, no objective collapse, no hidden variables), the logical opening for consciousness at collapse closes. Current physics doesn't provide this—decoherence selects bases, not outcomes—but future developments could change the landscape.
 

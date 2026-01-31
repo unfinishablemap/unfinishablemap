@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-30 20:29:00+00:00
+ai_modified: 2026-01-31 04:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,6 +21,7 @@ concepts:
 - '[[decoherence]]'
 - '[[epiphenomenalism]]'
 - '[[phenomenology-of-choice]]'
+- '[[causal-interface]]'
 - '[[counterfactual-reasoning]]'
 - '[[existentialism]]'
 created: 2026-01-08
@@ -30,7 +31,7 @@ description: 'Can we genuinely author our choices? The Map defends libertarian f
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-30 20:29:00+00:00
+last_deep_review: 2026-01-31 04:12:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -182,7 +183,7 @@ Most voluntary action involves distal intentions formed earlier, not just proxim
 
 The brain prepares a superposition of possible action patterns. Consciousness—operating atemporally at the quantum level—selects which possibility becomes actual. From inside linear time, it looks like the brain "decided" before consciousness became aware. But the linear ordering is itself part of what was selected. Consciousness determined which temporal sequence—including its own apparent lateness—would exist.
 
-This isn't a proof. It's a coherent picture that takes both consciousness and physics seriously, preserving what matters about free will (genuine authorship) while respecting what we know about the brain and quantum mechanics. How consciousness biases probabilities may remain mysterious—perhaps part of what [mysterianism](/concepts/mysterianism/) suggests exceeds human comprehension. But evidence can point toward a truth we can't fully understand.
+This isn't a proof. It's a coherent picture that takes both consciousness and physics seriously, preserving what matters about free will (genuine authorship) while respecting what we know about the brain and quantum mechanics. How consciousness biases probabilities may remain mysterious—the [causal interface void](/voids/causal-interface/) explains why this mechanism is systematically invisible from both introspection and neuroscience, a consequence of minimal interaction rather than a gap in the theory. Perhaps this is part of what [mysterianism](/concepts/mysterianism/) suggests exceeds human comprehension. But evidence can point toward a truth we can't fully understand.
 
 ## Relation to Site Perspective
 
@@ -215,6 +216,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
 - [personal-identity](/topics/personal-identity/) — Why *you* are the author of your choices
 - [existentialism](/archive/concepts/existentialism/) — How Sartre's pour-soi illuminates agent causation
+- [causal-interface](/voids/causal-interface/) — Why the mechanism of consciousness-physics interaction is systematically invisible
 - [tenets](/tenets/) — The foundational commitments grounding this view
 
 ## References

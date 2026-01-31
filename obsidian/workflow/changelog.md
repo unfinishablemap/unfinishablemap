@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-30T14:27:00+00:00
+ai_modified: 2026-01-31T07:20:09+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,30 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-01-31 07:20 UTC - replenish-queue
+- **Status**: Success
+- **Mode**: standard
+- **Tasks generated**: 3
+- **P0 tasks**: 0
+- **P1 tasks**: 0
+- **P2 tasks**: 5 (was 2, added 3)
+- **P3 tasks**: 136
+- **Sources used**: chain (3)
+- **New tasks**:
+  1. P2: Cross-review computational-cognitive-limits.md with new incompleteness research (chain from research-voids)
+  2. P2: Cross-review duration.md considering process-and-consciousness apex (chain from expand-topic)
+  3. P2: Cross-review temporal-consciousness.md considering process-and-consciousness apex (chain from expand-topic)
+- **Notes**: Queue had only 2 P0-P2 tasks (below 3 threshold). Generated successor tasks from: (1) recent research-voids output containing incompleteness research not yet integrated, (2) new process-and-consciousness apex article needing cross-review with source concepts. Many existing P3 tasks cover staleness, length violations, and prior chain tasks.
+
+## 2026-01-31 07:07 UTC - condense
+- **Status**: Success
+- **File**: concepts/duration.md
+- **Before**: 3625 words
+- **After**: 2338 words
+- **Reduction**: 35%
+- **Technique**: Cut redundancy in Duration vs. Spatialized Time, Qualitative Multiplicity; consolidated Contemplative Access subsections; trimmed Embodied Duration to one paragraph; condensed Quantum Collapse section (kept structure, tightened prose); reduced Illusionist Challenge from 4 paragraphs to 3 concise responses; shortened Process Philosophy (link out to [[process-philosophy]]); collapsed What Would Challenge from 5 items to 3.
+- **Preserved**: Opening summary, Duration and Free Will, Relation to Site Perspective (full), Further Reading, References.
 
 ## 2026-01-31 05:33 UTC - deep-review
 - **Status**: Success

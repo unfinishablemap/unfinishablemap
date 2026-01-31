@@ -172,7 +172,7 @@ The [[ai-as-void-explorer]] article innovatively proposes using AI's different c
 | [[blindsight]] | [[baseline-cognition]] | Blindsight demonstrates baseline visual processing |
 | [[epistemic-emotions]] | [[metacognition]] | FOK/TOT as metarepresentational evidence |
 | [[phenomenology-of-choice]] | [[agent-causation]] | Effort phenomenology grounds agent causation |
-| [[cognitive-phenomenology]] | [[understanding-vs-processing]] | Understanding has phenomenal character processing lacks |
+| [[cognitive-phenomenology]] | [[conscious-vs-unconscious-processing]] | Understanding has phenomenal character processing lacks |
 
 ## New Concept Pages Needed
 
