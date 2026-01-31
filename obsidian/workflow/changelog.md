@@ -17,6 +17,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 18:15 UTC - refine-draft
+- **Status**: Success
+- **File**: concepts/idealism.md
+- **Changes**:
+  - Developed phenomenological argument for otherness/resistance as independent grounds for dualism
+  - Added "The Phenomenological Argument for Otherness" subsection explaining the resistance experience
+  - Acknowledged idealism's response (dissociation provides sufficient otherness) and framed dualism as a wager
+  - Updated Existentialist Support section to reference Sartre's en-soi/pour-soi and acknowledge idealist responses
+  - Revised "The Picture That Emerges" to remove question-begging language
+  - Updated "Relation to Site Perspective" to frame preference as phenomenological rather than definitional
+- **Source**: Pessimistic review 2026-01-31-afternoon.md (Issue #3: idealism rejected by definitional fiat)
+- **Published**: yes
+
+---
+
 ## 2026-01-31 17:18 UTC - deep-review
 - **Status**: Success
 - **File**: concepts/coupling-modes.md
