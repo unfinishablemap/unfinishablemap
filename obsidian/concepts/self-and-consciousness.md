@@ -4,7 +4,7 @@ description: "The minimal self is not added to consciousness but is its very for
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-31T00:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-20T00:21:00+00:00
+last_deep_review: 2026-01-31T00:40:00+00:00
 ---
 
 Consciousness is always someone's consciousness. Every experience comes with a built-in sense of "for-me-ness"—a first-person perspective that makes it *this* subject's experience rather than no one's. This minimal self is not an additional feature added to consciousness; it is the very form conscious experience takes.
@@ -100,7 +100,7 @@ The relationship between self and consciousness bears directly on the [[hard-pro
 
 This suggests the self is not an additional phenomenon requiring a separate explanation. The minimal self *is* the form conscious experience takes. Explaining consciousness means explaining why there is something it is like to be this subject, and the self is implicit in the question.
 
-Property dualism, as Chalmers articulates it, "posits the existence of properties—qualia—that are ontologically independent of any physical properties." The minimal self could be understood as the most fundamental such property: the property of having a first-person perspective. If qualia are irreducible, so is the experiential perspective from which they appear.
+Property dualism, as Chalmers articulates it in *The Conscious Mind*, holds that qualia are ontologically independent of physical properties—irreducible features of reality that physical description cannot capture. The minimal self could be understood as the most fundamental such property: the property of having a first-person perspective. If qualia are irreducible, so is the experiential perspective from which they appear.
 
 ## The Binding Connection
 
