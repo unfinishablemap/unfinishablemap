@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Limits of Conceptual Acquisition"
+title: Deep Review - The Limits of Conceptual Acquisition
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T19:00:00+00:00
+ai_modified: 2026-01-26 19:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: The Limits of Conceptual Acquisition
-
 **Date**: 2026-01-26
-**File**: obsidian/voids/conceptual-acquisition-limits.md
+**Article**: [[conceptual-acquisition-limits|The Limits of Conceptual Acquisition]]
 **Previous review**: Never
 **Word count**: 2042 → 2027 (-15 words)
 

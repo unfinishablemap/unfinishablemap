@@ -1,25 +1,23 @@
 ---
-title: "Deep Review - The Unity of Consciousness"
+title: Deep Review - The Unity of Consciousness
 created: 2026-01-28
 modified: 2026-01-28
-human_modified:
-ai_modified: 2026-01-28T17:46:00+00:00
+human_modified: null
+ai_modified: 2026-01-28 17:46:00+00:00
 draft: false
 topics: []
 concepts: []
 related_articles: []
 ai_contribution: 100
-author:
+author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-28
-last_curated:
+last_curated: null
 ---
 
-# Deep Review: The Unity of Consciousness
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/unity-of-consciousness.md
-**Previous review**: 2026-01-24
+**Article**: [[unity-of-consciousness|The Unity of Consciousness]]
+**Previous review**: [[deep-review-2026-01-24-unity-of-consciousness|2026-01-24]]
 **Context**: Cross-review considering neural-binding-mechanisms.md
 
 ## Pessimistic Analysis Summary

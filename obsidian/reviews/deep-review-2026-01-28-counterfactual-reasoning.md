@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Counterfactual Reasoning"
+title: Deep Review - Counterfactual Reasoning
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-28T23:15:00+00:00
+ai_modified: 2026-01-28 23:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-28
 last_curated: null
 ---
 
-# Deep Review: Counterfactual Reasoning
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/counterfactual-reasoning.md
+**Article**: [[counterfactual-reasoning|Counterfactual Reasoning]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

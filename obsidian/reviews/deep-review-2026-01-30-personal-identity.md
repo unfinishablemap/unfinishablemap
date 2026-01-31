@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Personal Identity"
+title: Deep Review - Personal Identity
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T00:40:00+00:00
+ai_modified: 2026-01-30 00:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: Personal Identity
-
 **Date**: 2026-01-30
-**File**: obsidian/topics/personal-identity.md
-**Previous review**: 2026-01-28
+**Article**: [[personal-identity|Personal Identity]]
+**Previous review**: [[deep-review-2026-01-28-personal-identity|2026-01-28]]
 **Context**: Cross-review considering past-self-void insights
 
 ## Pessimistic Analysis Summary

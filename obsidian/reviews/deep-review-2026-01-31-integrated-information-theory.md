@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Integrated Information Theory"
+title: Deep Review - Integrated Information Theory
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T04:58:00+00:00
+ai_modified: 2026-01-31 04:58:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-31
 last_curated: null
 ---
 
-# Deep Review: Integrated Information Theory
-
 **Date**: 2026-01-31
-**File**: obsidian/concepts/integrated-information-theory.md
-**Previous review**: 2026-01-20
+**Article**: [[integrated-information-theory|Integrated Information Theory]]
+**Previous review**: [[deep-review-2026-01-20-integrated-information-theory|2026-01-20]]
 
 ## Pessimistic Analysis Summary
 

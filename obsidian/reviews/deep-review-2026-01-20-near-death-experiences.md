@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Near-Death Experiences"
+title: Deep Review - Near-Death Experiences
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T06:20:00+00:00
+ai_modified: 2026-01-20 06:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: Near-Death Experiences
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/near-death-experiences.md
+**Article**: [[near-death-experiences|Near-Death Experiences]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

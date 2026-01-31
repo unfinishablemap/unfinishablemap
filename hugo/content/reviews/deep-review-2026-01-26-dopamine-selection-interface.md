@@ -16,10 +16,8 @@ title: Deep Review - Dopamine and the Selection Interface
 topics: []
 ---
 
-# Deep Review: Dopamine and the Selection Interface
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/dopamine-selection-interface.md
+**Article**: [Dopamine and the Selection Interface](/concepts/dopamine-selection-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

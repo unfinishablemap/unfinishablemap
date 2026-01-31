@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Mysterianism (Causal-Interface Cross-Review)"
+title: Deep Review - Mysterianism (Causal-Interface Cross-Review)
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T04:33:00+00:00
+ai_modified: 2026-01-31 04:33:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-31
 last_curated: null
 ---
 
-# Deep Review: Mysterianism and Cognitive Closure
-
 **Date**: 2026-01-31
-**File**: obsidian/concepts/mysterianism.md
-**Previous review**: 2026-01-30 (natural-vs-designed-limits cross-review)
+**Article**: [[mysterianism|Mysterianism and Cognitive Closure]]
+**Previous review**: [[deep-review-2026-01-30-mysterianism|2026-01-30 (natural-vs-designed-limits cross-review)]]
 **Cross-review context**: causal-interface voids article (voids/causal-interface.md)
 
 ## Pessimistic Analysis Summary

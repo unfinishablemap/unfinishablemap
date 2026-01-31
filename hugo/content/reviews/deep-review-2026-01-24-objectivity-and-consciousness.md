@@ -16,10 +16,8 @@ title: Deep Review - Objectivity and Consciousness
 topics: []
 ---
 
-# Deep Review: Objectivity and Consciousness
-
 **Date**: 2026-01-24
-**File**: concepts/objectivity-and-consciousness.md
+**Article**: [Objectivity And Consciousness](/concepts/objectivity-and-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Autonoetic Consciousness"
+title: Deep Review - Autonoetic Consciousness
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T14:38:00+00:00
+ai_modified: 2026-01-20 14:38:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: Autonoetic Consciousness
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/autonoetic-consciousness.md
+**Article**: [[autonoetic-consciousness|Autonoetic Consciousness]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Lucid Dreaming and Consciousness"
+title: Deep Review - Lucid Dreaming and Consciousness
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T10:30:00+00:00
+ai_modified: 2026-01-22 10:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-22
 last_curated: null
 ---
 
-# Deep Review: Lucid Dreaming and Consciousness
-
 **Date**: 2026-01-22
-**File**: obsidian/topics/lucid-dreaming-and-consciousness.md
+**Article**: [[lucid-dreaming-and-consciousness|Lucid Dreaming and Consciousness]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Quantum Binding and Phenomenal Unity"
+title: Deep Review - Quantum Binding and Phenomenal Unity
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T19:15:41+00:00
+ai_modified: 2026-01-27 19:15:41+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Quantum Binding and Phenomenal Unity
-
 **Date**: 2026-01-27
-**File**: obsidian/topics/quantum-binding-and-phenomenal-unity.md
-**Previous review**: 2026-01-21
+**Article**: [[quantum-binding-and-phenomenal-unity|Quantum Binding and Phenomenal Unity]]
+**Previous review**: [[deep-review-2026-01-21-quantum-binding-and-phenomenal-unity|2026-01-21]]
 **Context**: Cross-review considering quantum biology content
 
 ## Pessimistic Analysis Summary

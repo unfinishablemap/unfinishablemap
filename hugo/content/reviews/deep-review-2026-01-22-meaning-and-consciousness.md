@@ -16,10 +16,8 @@ title: Deep Review - Meaning and Consciousness
 topics: []
 ---
 
-# Deep Review: Meaning and Consciousness
-
 **Date**: 2026-01-22
-**File**: obsidian/topics/meaning-and-consciousness.md
+**Article**: [Meaning and Consciousness](/topics/meaning-and-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

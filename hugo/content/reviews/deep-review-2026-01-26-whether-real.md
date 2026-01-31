@@ -16,11 +16,9 @@ title: Deep Review - Whether the Voids Are Real
 topics: []
 ---
 
-# Deep Review: Whether the Voids Are Real
-
 **Date**: 2026-01-26
-**File**: obsidian/voids/whether-real.md
-**Previous review**: 2026-01-20
+**Article**: [Whether the Voids Are Real](/voids/whether-real/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-whether-real/)
 **Context**: Cross-review considering defended-territory insights
 
 ## Pessimistic Analysis Summary

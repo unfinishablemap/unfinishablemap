@@ -16,11 +16,9 @@ title: Deep Review - Meditation and Consciousness Modes
 topics: []
 ---
 
-# Deep Review: Meditation and Consciousness Modes
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/meditation-and-consciousness-modes.md
-**Previous review**: 2026-01-21
+**Article**: [Meditation and Consciousness Modes](/concepts/meditation-and-consciousness-modes/)
+**Previous review**: [2026-01-21](/reviews/deep-review-2026-01-21-meditation-and-consciousness-modes/)
 **Context**: Cross-review considering default-mode-network.md
 
 ## Pessimistic Analysis Summary

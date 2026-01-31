@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Agent Causation"
+title: Deep Review - Agent Causation
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T10:00:00+00:00
+ai_modified: 2026-01-20 10:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: Agent Causation
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/agent-causation.md
+**Article**: [[agent-causation|Agent Causation]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Multimodal Binding"
+title: Deep Review - Multimodal Binding
 created: 2026-01-25
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-25T18:26:05+00:00
+ai_modified: 2026-01-25 18:26:05+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-25
 last_curated: null
 ---
 
-# Deep Review: Multimodal Binding
-
 **Date**: 2026-01-25
-**File**: obsidian/concepts/multimodal-binding.md
+**Article**: [[multimodal-binding|Multimodal Binding]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

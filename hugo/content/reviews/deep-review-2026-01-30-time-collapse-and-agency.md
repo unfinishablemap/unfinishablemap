@@ -16,11 +16,9 @@ title: Deep Review - Time, Collapse, and Agency
 topics: []
 ---
 
-# Deep Review: Time, Collapse, and Agency
-
 **Date**: 2026-01-30
-**File**: obsidian/topics/time-collapse-and-agency.md
-**Previous review**: 2026-01-20
+**Article**: [Time, Collapse, and Agency](/topics/time-collapse-and-agency/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-time-collapse-and-agency/)
 
 ## Pessimistic Analysis Summary
 

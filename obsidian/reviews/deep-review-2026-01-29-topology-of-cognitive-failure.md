@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Topology of Cognitive Failure"
+title: Deep Review - The Topology of Cognitive Failure
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T14:29:48+00:00
+ai_modified: 2026-01-29 14:29:48+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: The Topology of Cognitive Failure
-
 **Date**: 2026-01-29
-**File**: obsidian/voids/topology-of-cognitive-failure.md
+**Article**: [[topology-of-cognitive-failure|The Topology of Cognitive Failure]]
 **Previous review**: Never (first review of new article)
 
 ## Pessimistic Analysis Summary

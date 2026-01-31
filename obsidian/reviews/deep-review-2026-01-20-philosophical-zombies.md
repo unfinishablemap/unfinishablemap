@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Philosophical Zombies"
+title: Deep Review - Philosophical Zombies
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T17:00:00+00:00
+ai_modified: 2026-01-20 17:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: Philosophical Zombies
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/philosophical-zombies.md
+**Article**: [[philosophical-zombies|Philosophical Zombies]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

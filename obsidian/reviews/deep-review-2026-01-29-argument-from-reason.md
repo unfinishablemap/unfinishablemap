@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Argument from Reason"
+title: Deep Review - The Argument from Reason
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T06:09:54+00:00
+ai_modified: 2026-01-29 06:09:54+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: The Argument from Reason
-
 **Date**: 2026-01-29
-**File**: obsidian/topics/argument-from-reason.md
-**Previous review**: 2026-01-24
+**Article**: [[argument-from-reason|The Argument from Reason]]
+**Previous review**: [[deep-review-2026-01-24-argument-from-reason|2026-01-24]]
 
 ## Pessimistic Analysis Summary
 

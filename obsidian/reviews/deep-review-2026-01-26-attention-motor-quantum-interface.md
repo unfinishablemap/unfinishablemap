@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Attention-Motor Quantum Interface"
+title: Deep Review - Attention-Motor Quantum Interface
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T12:18:15+00:00
+ai_modified: 2026-01-26 12:18:15+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: Attention-Motor Quantum Interface
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/attention-motor-quantum-interface.md
-**Previous review**: 2026-01-24
+**Article**: [[attention-motor-quantum-interface|Attention-Motor Quantum Interface]]
+**Previous review**: [[deep-review-2026-01-24-attention-motor-quantum-interface|2026-01-24]]
 **Cross-review context**: dopamine-selection-interface.md insights
 
 ## Pessimistic Analysis Summary

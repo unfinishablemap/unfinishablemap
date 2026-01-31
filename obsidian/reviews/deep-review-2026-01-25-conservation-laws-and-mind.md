@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Conservation Laws and Mind-Brain Causation"
+title: Deep Review - Conservation Laws and Mind-Brain Causation
 created: 2026-01-25
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-25T14:30:00+00:00
+ai_modified: 2026-01-25 14:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-25
 last_curated: null
 ---
 
-# Deep Review: Conservation Laws and Mind-Brain Causation
-
 **Date**: 2026-01-25
-**File**: obsidian/topics/conservation-laws-and-mind.md
+**Article**: [[conservation-laws-and-mind|Conservation Laws and Mind-Brain Causation]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

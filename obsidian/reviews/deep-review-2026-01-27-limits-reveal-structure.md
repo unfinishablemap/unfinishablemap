@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - What the Limits Reveal"
+title: Deep Review - What the Limits Reveal
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T15:00:00+00:00
+ai_modified: 2026-01-27 15:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: What the Limits Reveal
-
 **Date**: 2026-01-27
-**File**: obsidian/voids/limits-reveal-structure.md
-**Previous review**: 2026-01-20
+**Article**: [[limits-reveal-structure|What the Limits Reveal]]
+**Previous review**: [[deep-review-2026-01-20-limits-reveal-structure|2026-01-20]]
 **Context**: Cross-review considering intrinsic-nature-void.md
 
 ## Pessimistic Analysis Summary

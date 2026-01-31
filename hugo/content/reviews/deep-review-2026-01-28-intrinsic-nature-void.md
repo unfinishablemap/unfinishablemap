@@ -16,10 +16,8 @@ title: Deep Review - The Intrinsic Nature Void
 topics: []
 ---
 
-# Deep Review: The Intrinsic Nature Void
-
 **Date**: 2026-01-28
-**File**: obsidian/voids/intrinsic-nature-void.md
+**Article**: [The Intrinsic Nature Void](/voids/intrinsic-nature-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

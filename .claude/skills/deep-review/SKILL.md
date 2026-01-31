@@ -263,11 +263,9 @@ ai_generated_date: YYYY-MM-DD
 last_curated: null
 ---
 
-# Deep Review: [Document Title]
-
 **Date**: YYYY-MM-DD
-**File**: [filepath]
-**Previous review**: [Never / YYYY-MM-DD]
+**Article**: [[article-slug|Article Title]]
+**Previous review**: [[previous-review-slug|YYYY-MM-DD]] or Never
 
 ## Pessimistic Analysis Summary
 

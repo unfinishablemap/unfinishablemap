@@ -16,10 +16,8 @@ title: Deep Review - The Luck Objection to Libertarian Free Will
 topics: []
 ---
 
-# Deep Review: The Luck Objection to Libertarian Free Will
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/luck-objection.md
+**Article**: [The Luck Objection to Libertarian Free Will](/concepts/luck-objection/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

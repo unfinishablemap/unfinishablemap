@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Duration (Durée)"
+title: Deep Review - Duration (Durée)
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T00:00:00+00:00
+ai_modified: 2026-01-21 00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-21
 last_curated: null
 ---
 
-# Deep Review: Duration (Durée)
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/duration.md
+**Article**: [[duration|Duration (Durée)]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

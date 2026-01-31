@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Temporal Structure of Understanding"
+title: Deep Review - The Temporal Structure of Understanding
 created: 2026-01-25
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-25T20:29:56+00:00
+ai_modified: 2026-01-25 20:29:56+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-25
 last_curated: null
 ---
 
-# Deep Review: The Temporal Structure of Understanding
-
 **Date**: 2026-01-25
-**File**: obsidian/concepts/temporal-structure-of-understanding.md
+**Article**: [[temporal-structure-of-understanding|The Temporal Structure of Understanding]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

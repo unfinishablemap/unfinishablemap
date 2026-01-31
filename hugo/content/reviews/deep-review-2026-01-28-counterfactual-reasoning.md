@@ -16,10 +16,8 @@ title: Deep Review - Counterfactual Reasoning
 topics: []
 ---
 
-# Deep Review: Counterfactual Reasoning
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/counterfactual-reasoning.md
+**Article**: [Counterfactual Reasoning](/concepts/counterfactual-reasoning/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -16,11 +16,9 @@ title: Deep Review - AI Consciousness
 topics: []
 ---
 
-# Deep Review: AI Consciousness
-
 **Date**: 2026-01-30
-**File**: obsidian/topics/ai-consciousness.md
-**Previous review**: 2026-01-29
+**Article**: [AI Consciousness](/topics/ai-consciousness/)
+**Previous review**: [2026-01-29](/reviews/deep-review-2026-01-29-ai-consciousness/)
 **Context**: Cross-review considering symbol-grounding-problem.md insights
 
 ## Pessimistic Analysis Summary

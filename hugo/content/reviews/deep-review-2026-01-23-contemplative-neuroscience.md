@@ -16,10 +16,8 @@ title: Deep Review - Contemplative Neuroscience
 topics: []
 ---
 
-# Deep Review: Contemplative Neuroscience
-
 **Date**: 2026-01-23
-**File**: obsidian/concepts/contemplative-neuroscience.md
+**Article**: [Contemplative Neuroscience](/concepts/contemplative-neuroscience/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

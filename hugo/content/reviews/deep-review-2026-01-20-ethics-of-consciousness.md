@@ -16,10 +16,8 @@ title: Deep Review - Ethics of Consciousness
 topics: []
 ---
 
-# Deep Review: Ethics of Consciousness
-
 **Date**: 2026-01-20
-**File**: obsidian/topics/ethics-of-consciousness.md
+**Article**: [Ethics of Consciousness](/topics/ethics-of-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

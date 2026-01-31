@@ -16,10 +16,8 @@ title: Deep Review - Libet Experiments and the Neuroscience of Volition
 topics: []
 ---
 
-# Deep Review: Libet Experiments and the Neuroscience of Volition
-
 **Date**: 2026-01-20
-**File**: concepts/libet-experiments.md
+**Article**: [Libet Experiments](/concepts/libet-experiments/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

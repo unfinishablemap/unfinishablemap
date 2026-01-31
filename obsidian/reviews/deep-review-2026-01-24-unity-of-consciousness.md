@@ -1,24 +1,22 @@
 ---
-title: "Deep Review - The Unity of Consciousness"
+title: Deep Review - The Unity of Consciousness
 created: 2026-01-24
 modified: 2026-01-24
-human_modified:
-ai_modified: 2026-01-24T07:58:00+00:00
+human_modified: null
+ai_modified: 2026-01-24 07:58:00+00:00
 draft: false
 topics: []
 concepts: []
 related_articles: []
 ai_contribution: 100
-author:
+author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-24
-last_curated:
+last_curated: null
 ---
 
-# Deep Review: The Unity of Consciousness
-
 **Date**: 2026-01-24
-**File**: obsidian/concepts/unity-of-consciousness.md
+**Article**: [[unity-of-consciousness|The Unity of Consciousness]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

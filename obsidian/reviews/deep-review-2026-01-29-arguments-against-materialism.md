@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Arguments Against Materialism"
+title: Deep Review - Arguments Against Materialism
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T18:00:00+00:00
+ai_modified: 2026-01-29 18:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Arguments Against Materialism
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/arguments-against-materialism.md
-**Previous review**: 2026-01-20
+**Article**: [[arguments-against-materialism|Arguments Against Materialism]]
+**Previous review**: [[deep-review-2026-01-20-arguments-against-materialism|2026-01-20]]
 
 ## Pessimistic Analysis Summary
 

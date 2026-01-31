@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Inverted Qualia"
+title: Deep Review - Inverted Qualia
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T08:30:00+00:00
+ai_modified: 2026-01-20 08:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: Inverted Qualia
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/inverted-qualia.md
+**Article**: [[inverted-qualia|Inverted Qualia]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

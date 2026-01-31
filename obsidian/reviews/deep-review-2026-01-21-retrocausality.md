@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Retrocausality"
+title: Deep Review - Retrocausality
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T01:00:00+00:00
+ai_modified: 2026-01-21 01:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-21
 last_curated: null
 ---
 
-# Deep Review: Retrocausality
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/retrocausality.md
+**Article**: [[retrocausality|Retrocausality]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

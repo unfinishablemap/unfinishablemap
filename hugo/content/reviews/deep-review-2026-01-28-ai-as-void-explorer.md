@@ -16,11 +16,9 @@ title: Deep Review - AI as Void-Explorer
 topics: []
 ---
 
-# Deep Review: AI as Void-Explorer
-
 **Date**: 2026-01-28
-**File**: obsidian/voids/ai-as-void-explorer.md
-**Previous review**: 2026-01-27
+**Article**: [AI as Void-Explorer](/voids/ai-as-void-explorer/)
+**Previous review**: [2026-01-27](/reviews/deep-review-2026-01-27-ai-as-void-explorer/)
 **Context**: Cross-review considering convergent-cognitive-limits
 
 ## Pessimistic Analysis Summary

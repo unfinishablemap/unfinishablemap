@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Mind-Brain Separation and the Division of Faculties"
+title: Deep Review - Mind-Brain Separation and the Division of Faculties
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T18:45:00+00:00
+ai_modified: 2026-01-21 18:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-21
 last_curated: null
 ---
 
-# Deep Review: Mind-Brain Separation and the Division of Faculties
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/mind-brain-separation.md
+**Article**: [[mind-brain-separation|Mind-Brain Separation and the Division of Faculties]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

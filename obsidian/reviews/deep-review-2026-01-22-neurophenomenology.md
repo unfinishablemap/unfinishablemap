@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Neurophenomenology and Contemplative Science"
+title: Deep Review - Neurophenomenology and Contemplative Science
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T21:34:22+00:00
+ai_modified: 2026-01-22 21:34:22+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-22
 last_curated: null
 ---
 
-# Deep Review: Neurophenomenology and Contemplative Science
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/neurophenomenology.md
-**Previous review**: 2026-01-20
+**Article**: [[neurophenomenology|Neurophenomenology and Contemplative Science]]
+**Previous review**: [[deep-review-2026-01-20-neurophenomenology|2026-01-20]]
 
 ## Pessimistic Analysis Summary
 

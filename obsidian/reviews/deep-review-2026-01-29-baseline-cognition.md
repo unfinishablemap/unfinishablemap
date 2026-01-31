@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Baseline Cognition"
+title: Deep Review - Baseline Cognition
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T01:33:16+00:00
+ai_modified: 2026-01-29 01:33:16+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Baseline Cognition
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/baseline-cognition.md
-**Previous review**: 2026-01-27
+**Article**: [[baseline-cognition|Baseline Cognition]]
+**Previous review**: [[deep-review-2026-01-27-baseline-cognition|2026-01-27]]
 **Context**: Cross-review considering counterfactual-reasoning insights
 
 ## Pessimistic Analysis Summary

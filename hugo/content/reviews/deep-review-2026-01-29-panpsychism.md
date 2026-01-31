@@ -16,11 +16,9 @@ title: Deep Review - Panpsychism
 topics: []
 ---
 
-# Deep Review: Panpsychism
-
 **Date**: 2026-01-29
-**File**: concepts/panpsychism.md
-**Previous review**: 2026-01-27 (process-philosophy cross-review)
+**Article**: [Panpsychism](/concepts/panpsychism/)
+**Previous review**: [2026-01-27 (process-philosophy cross-review)](/reviews/deep-review-2026-01-27-panpsychism/)
 **Context**: Cross-review considering consciousness-in-simple-organisms.md
 
 ## Pessimistic Analysis Summary

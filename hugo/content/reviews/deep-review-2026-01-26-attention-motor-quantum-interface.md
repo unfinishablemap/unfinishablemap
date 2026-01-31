@@ -16,11 +16,9 @@ title: Deep Review - Attention-Motor Quantum Interface
 topics: []
 ---
 
-# Deep Review: Attention-Motor Quantum Interface
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/attention-motor-quantum-interface.md
-**Previous review**: 2026-01-24
+**Article**: [Attention-Motor Quantum Interface](/archive/concepts/attention-motor-quantum-interface/)
+**Previous review**: [2026-01-24](/reviews/deep-review-2026-01-24-attention-motor-quantum-interface/)
 **Cross-review context**: dopamine-selection-interface.md insights
 
 ## Pessimistic Analysis Summary

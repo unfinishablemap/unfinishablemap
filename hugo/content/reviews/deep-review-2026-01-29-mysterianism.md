@@ -16,11 +16,9 @@ title: Deep Review - Mysterianism (Origin Void Cross-Review)
 topics: []
 ---
 
-# Deep Review: Mysterianism and Cognitive Closure
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/mysterianism.md
-**Previous review**: 2026-01-28
+**Article**: [Mysterianism and Cognitive Closure](/concepts/mysterianism/)
+**Previous review**: [2026-01-28](/reviews/deep-review-2026-01-28-mysterianism/)
 **Cross-review context**: origin-of-consciousness.md (the origin void)
 
 ## Pessimistic Analysis Summary

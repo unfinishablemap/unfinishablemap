@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Consciousness and Mathematical Understanding"
+title: Deep Review - Consciousness and Mathematical Understanding
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T19:30:00+00:00
+ai_modified: 2026-01-27 19:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Consciousness and Mathematical Understanding
-
 **Date**: 2026-01-27
-**File**: obsidian/topics/consciousness-and-mathematical-understanding.md
-**Previous review**: 2026-01-22
+**Article**: [[consciousness-and-mathematical-understanding|Consciousness and Mathematical Understanding]]
+**Previous review**: [[deep-review-2026-01-22-consciousness-and-mathematical-understanding|2026-01-22]]
 **Context**: Cross-review considering computational-cognitive-limits
 
 ## Pessimistic Analysis Summary

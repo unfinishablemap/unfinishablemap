@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Critique of Substrate Independence"
+title: Deep Review - Critique of Substrate Independence
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T21:30:00+00:00
+ai_modified: 2026-01-20 21:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: Critique of Substrate Independence
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/substrate-independence-critique.md
+**Article**: [[substrate-independence-critique|Critique of Substrate Independence]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

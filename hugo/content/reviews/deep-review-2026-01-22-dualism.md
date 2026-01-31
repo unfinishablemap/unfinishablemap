@@ -16,11 +16,9 @@ title: Deep Review - Dualism
 topics: []
 ---
 
-# Deep Review: Dualism
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/dualism.md
-**Previous review**: 2026-01-19 (initial creation, not a full deep review)
+**Article**: [Dualism](/concepts/dualism/)
+**Previous review**: [2026-01-19 (initial creation, not a full deep review)](/reviews/deep-review-2026-01-19-dualism/)
 
 ## Pessimistic Analysis Summary
 

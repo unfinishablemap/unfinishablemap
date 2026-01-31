@@ -18,11 +18,9 @@ title: Deep Review - Animal Consciousness
 topics: []
 ---
 
-# Deep Review: Animal Consciousness
-
 **Date**: 2026-01-27
-**File**: obsidian/topics/animal-consciousness.md
-**Previous review**: 2026-01-22
+**Article**: [Animal Consciousness](/topics/animal-consciousness/)
+**Previous review**: [2026-01-22](/reviews/deep-review-2026-01-22-animal-consciousness/)
 
 ## Context
 

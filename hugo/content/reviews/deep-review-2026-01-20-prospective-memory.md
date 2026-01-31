@@ -16,10 +16,8 @@ title: Deep Review - Prospective Memory and Future-Oriented Consciousness
 topics: []
 ---
 
-# Deep Review: Prospective Memory and Future-Oriented Consciousness
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/prospective-memory.md
+**Article**: [Prospective Memory and Future-Oriented Consciousness](/concepts/prospective-memory/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

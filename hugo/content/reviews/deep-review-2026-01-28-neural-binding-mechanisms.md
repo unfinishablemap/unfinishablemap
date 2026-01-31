@@ -16,10 +16,8 @@ title: Deep Review - Neural Binding Mechanisms
 topics: []
 ---
 
-# Deep Review: Neural Binding Mechanisms
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/neural-binding-mechanisms.md
+**Article**: [Neural Binding Mechanisms](/concepts/neural-binding-mechanisms/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

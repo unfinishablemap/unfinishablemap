@@ -16,11 +16,9 @@ title: Deep Review - Duration (Durée)
 topics: []
 ---
 
-# Deep Review: Duration (Durée)
-
 **Date**: 2026-01-31
-**File**: obsidian/concepts/duration.md
-**Previous review**: 2026-01-27
+**Article**: [Duration (Durée)](/concepts/duration/)
+**Previous review**: [2026-01-27](/reviews/deep-review-2026-01-27-duration/)
 **Cross-review context**: process-and-consciousness apex article
 
 ## Pessimistic Analysis Summary

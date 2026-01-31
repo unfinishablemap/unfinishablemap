@@ -16,11 +16,9 @@ title: Deep Review - The Argument from Reason
 topics: []
 ---
 
-# Deep Review: The Argument from Reason
-
 **Date**: 2026-01-29
-**File**: obsidian/topics/argument-from-reason.md
-**Previous review**: 2026-01-24
+**Article**: [The Argument from Reason](/topics/argument-from-reason/)
+**Previous review**: [2026-01-24](/reviews/deep-review-2026-01-24-argument-from-reason/)
 
 ## Pessimistic Analysis Summary
 

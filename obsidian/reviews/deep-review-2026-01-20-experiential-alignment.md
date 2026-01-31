@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Experiential Alignment"
+title: Deep Review - Experiential Alignment
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T23:00:00+00:00
+ai_modified: 2026-01-20 23:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: Experiential Alignment
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/experiential-alignment.md
+**Article**: [[experiential-alignment|Experiential Alignment]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

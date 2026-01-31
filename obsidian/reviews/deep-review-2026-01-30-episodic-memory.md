@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Episodic Memory"
+title: Deep Review - Episodic Memory
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T01:40:00+00:00
+ai_modified: 2026-01-30 01:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: Episodic Memory
-
 **Date**: 2026-01-30
-**File**: obsidian/concepts/episodic-memory.md
-**Previous review**: 2026-01-29
+**Article**: [[episodic-memory|Episodic Memory]]
+**Previous review**: [[deep-review-2026-01-29-episodic-memory|2026-01-29]]
 **Context**: Cross-review considering past-self-void insights
 
 ## Pessimistic Analysis Summary

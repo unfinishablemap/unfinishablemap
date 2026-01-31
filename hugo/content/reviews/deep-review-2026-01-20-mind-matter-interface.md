@@ -16,10 +16,8 @@ title: Deep Review - The Mind-Matter Interface
 topics: []
 ---
 
-# Deep Review: The Mind-Matter Interface
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/mind-matter-interface.md
+**Article**: [The Mind-Matter Interface: Unifying Filter Theory and Quantum Selection](/concepts/mind-matter-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -16,10 +16,8 @@ title: Deep Review - Presentiment and Retrocausality
 topics: []
 ---
 
-# Deep Review: Presentiment and Retrocausality
-
 **Date**: 2026-01-27
-**File**: obsidian/topics/presentiment-and-retrocausality.md
+**Article**: [Presentiment and Retrocausality](/topics/presentiment-and-retrocausality/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -16,10 +16,8 @@ title: Deep Review - Emergence
 topics: []
 ---
 
-# Deep Review: Emergence
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/emergence.md
+**Article**: [Emergence](/concepts/emergence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -16,10 +16,8 @@ title: Deep Review - Quantum Indeterminacy and Free Will
 topics: []
 ---
 
-# Deep Review: Quantum Indeterminacy and Free Will
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/quantum-indeterminacy-free-will.md
+**Article**: [Quantum Indeterminacy and Free Will](/concepts/quantum-indeterminacy-free-will/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

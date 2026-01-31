@@ -16,10 +16,8 @@ title: Deep Review - Implicit Memory and Anoetic Consciousness
 topics: []
 ---
 
-# Deep Review: Implicit Memory and Anoetic Consciousness
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/implicit-memory.md
+**Article**: [Implicit Memory and Anoetic Consciousness](/concepts/implicit-memory/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

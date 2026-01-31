@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Brain Specialness"
+title: Deep Review - Brain Specialness
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T07:20:00+00:00
+ai_modified: 2026-01-20 07:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: Brain Specialness
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/brain-specialness.md
+**Article**: [[brain-specialness|Brain Specialness]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

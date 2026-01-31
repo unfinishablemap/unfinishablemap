@@ -16,10 +16,8 @@ title: Deep Review - Interface Locality
 topics: []
 ---
 
-# Deep Review: Interface Locality
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/interface-locality.md
+**Article**: [Interface Locality](/archive/concepts/interface-locality/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Working Memory and Consciousness"
+title: Deep Review - Working Memory and Consciousness
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T18:40:00+00:00
+ai_modified: 2026-01-21 18:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-21
 last_curated: null
 ---
 
-# Deep Review: Working Memory and Consciousness
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/working-memory.md
+**Article**: [[working-memory|Working Memory and Consciousness]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

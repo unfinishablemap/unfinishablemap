@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Meaning and Consciousness"
+title: Deep Review - Meaning and Consciousness
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T08:08:00+00:00
+ai_modified: 2026-01-22 08:08:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-22
 last_curated: null
 ---
 
-# Deep Review: Meaning and Consciousness
-
 **Date**: 2026-01-22
-**File**: obsidian/topics/meaning-and-consciousness.md
+**Article**: [[meaning-and-consciousness|Meaning and Consciousness]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

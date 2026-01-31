@@ -16,10 +16,8 @@ title: Deep Review - Neurophenomenology and Contemplative Science
 topics: []
 ---
 
-# Deep Review: Neurophenomenology and Contemplative Science
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/neurophenomenology.md
+**Article**: [Neurophenomenology and Contemplative Science](/concepts/neurophenomenology/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

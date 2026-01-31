@@ -16,10 +16,8 @@ title: 'Deep Review - Quantum Binding: Experimental Evidence'
 topics: []
 ---
 
-# Deep Review: Quantum Binding: Experimental Evidence
-
 **Date**: 2026-01-24
-**File**: concepts/quantum-binding-experimental-evidence.md
+**Article**: [Quantum Binding Experimental Evidence](/concepts/quantum-binding-experimental-evidence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

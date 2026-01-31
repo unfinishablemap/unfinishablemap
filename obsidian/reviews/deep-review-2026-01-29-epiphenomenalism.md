@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Epiphenomenalism"
+title: Deep Review - Epiphenomenalism
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T09:24:16+00:00
+ai_modified: 2026-01-29 09:24:16+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Epiphenomenalism
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/epiphenomenalism.md
-**Previous review**: 2026-01-28
+**Article**: [[epiphenomenalism|Epiphenomenalism]]
+**Previous review**: [[deep-review-2026-01-28-epiphenomenalism|2026-01-28]]
 **Cross-review context**: consciousness-and-intelligence.md
 
 ## Pessimistic Analysis Summary

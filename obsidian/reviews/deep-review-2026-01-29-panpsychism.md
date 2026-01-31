@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Panpsychism"
+title: Deep Review - Panpsychism
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T13:18:11+00:00
+ai_modified: 2026-01-29 13:18:11+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Panpsychism
-
 **Date**: 2026-01-29
-**File**: concepts/panpsychism.md
-**Previous review**: 2026-01-27 (process-philosophy cross-review)
+**Article**: [[panpsychism|Panpsychism]]
+**Previous review**: [[deep-review-2026-01-27-panpsychism|2026-01-27 (process-philosophy cross-review)]]
 **Context**: Cross-review considering consciousness-in-simple-organisms.md
 
 ## Pessimistic Analysis Summary

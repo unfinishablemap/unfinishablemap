@@ -16,10 +16,8 @@ title: Deep Review - Parfit's Reductionism
 topics: []
 ---
 
-# Deep Review: Parfit's Reductionism
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/parfit-reductionism.md
+**Article**: [Parfit's Reductionism](/concepts/parfit-reductionism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

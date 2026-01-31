@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Filter Theory of Consciousness"
+title: Deep Review - Filter Theory of Consciousness
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T05:14:47+00:00
+ai_modified: 2026-01-29 05:14:47+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Filter Theory of Consciousness
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/filter-theory.md
-**Previous review**: 2026-01-27
+**Article**: [[filter-theory|Filter Theory of Consciousness]]
+**Previous review**: [[deep-review-2026-01-27-filter-theory|2026-01-27]]
 **Cross-review context**: default-mode-network.md
 
 ## Pessimistic Analysis Summary

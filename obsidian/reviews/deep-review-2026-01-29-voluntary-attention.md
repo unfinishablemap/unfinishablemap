@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Voluntary Attention"
+title: Deep Review - Voluntary Attention
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T16:49:00+00:00
+ai_modified: 2026-01-29 16:49:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Voluntary Attention
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/voluntary-attention.md
-**Previous review**: 2026-01-24
+**Article**: [[voluntary-attention|Voluntary Attention]]
+**Previous review**: [[deep-review-2026-01-24-voluntary-attention|2026-01-24]]
 **Cross-review context**: attention-motor-quantum-interface.md
 
 ## Context

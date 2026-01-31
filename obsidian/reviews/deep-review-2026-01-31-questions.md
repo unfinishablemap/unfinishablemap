@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Open Questions"
+title: Deep Review - Open Questions
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T00:30:00+00:00
+ai_modified: 2026-01-31 00:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-31
 last_curated: null
 ---
 
-# Deep Review: Open Questions
-
 **Date**: 2026-01-31
-**File**: obsidian/questions/questions.md
+**Article**: [[questions|Open Questions]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

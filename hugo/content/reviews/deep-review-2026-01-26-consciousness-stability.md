@@ -16,11 +16,9 @@ title: Deep Review - Consciousness (Stability Check)
 topics: []
 ---
 
-# Deep Review: Consciousness (Stability Check)
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/consciousness.md
-**Previous review**: 2026-01-26 (earlier today)
+**Article**: [Consciousness](/concepts/consciousness/)
+**Previous review**: [2026-01-26 (earlier today)](/reviews/deep-review-2026-01-26-consciousness/)
 
 ## Review Outcome
 

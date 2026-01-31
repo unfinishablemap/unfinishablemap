@@ -16,10 +16,8 @@ title: Deep Review - Materialism
 topics: []
 ---
 
-# Deep Review: Materialism
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/materialism.md
+**Article**: [Materialism](/arguments/materialism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

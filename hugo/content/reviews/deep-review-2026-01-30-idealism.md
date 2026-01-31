@@ -16,11 +16,9 @@ title: Deep Review - Idealism
 topics: []
 ---
 
-# Deep Review: Idealism
-
 **Date**: 2026-01-30
-**File**: obsidian/concepts/idealism.md
-**Previous review**: 2026-01-20
+**Article**: [Idealism](/concepts/idealism/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-idealism/)
 
 ## Pessimistic Analysis Summary
 

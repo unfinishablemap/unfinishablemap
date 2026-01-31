@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Hard Problem of Consciousness"
+title: Deep Review - The Hard Problem of Consciousness
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-28T12:30:00+00:00
+ai_modified: 2026-01-28 12:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-28
 last_curated: null
 ---
 
-# Deep Review: The Hard Problem of Consciousness
-
 **Date**: 2026-01-28
-**File**: obsidian/topics/hard-problem-of-consciousness.md
-**Previous review**: 2026-01-27
+**Article**: [[hard-problem-of-consciousness|The Hard Problem of Consciousness]]
+**Previous review**: [[deep-review-2026-01-27-hard-problem-of-consciousness|2026-01-27]]
 **Context**: Cross-review considering IIT critique article
 
 ## Pessimistic Analysis Summary

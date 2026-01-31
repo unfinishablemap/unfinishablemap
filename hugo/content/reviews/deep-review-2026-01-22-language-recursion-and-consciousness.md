@@ -16,10 +16,8 @@ title: Deep Review - Language, Recursion, and Consciousness
 topics: []
 ---
 
-# Deep Review: Language, Recursion, and Consciousness
-
 **Date**: 2026-01-22
-**File**: obsidian/topics/language-recursion-and-consciousness.md
+**Article**: [Language, Recursion, and Consciousness](/topics/language-recursion-and-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

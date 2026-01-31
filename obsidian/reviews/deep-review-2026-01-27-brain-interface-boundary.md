@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Brain Interface Boundary: Why Consciousness Acts Only Here"
+title: 'Deep Review - Brain Interface Boundary: Why Consciousness Acts Only Here'
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T07:30:08+00:00
+ai_modified: 2026-01-27 07:30:08+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Brain Interface Boundary
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/brain-interface-boundary.md
+**Article**: [[brain-interface-boundary|Brain Interface Boundary: Why Consciousness Acts Only Here]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

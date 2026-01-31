@@ -17,10 +17,8 @@ title: Deep Review - Quantum Biology and the Consciousness Debate
 topics: []
 ---
 
-# Deep Review: Quantum Biology and the Consciousness Debate
-
 **Date**: 2026-01-27
-**File**: obsidian/topics/quantum-biology-and-the-consciousness-debate.md
+**Article**: [Quantum Biology and the Consciousness Debate](/topics/quantum-biology-and-the-consciousness-debate/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

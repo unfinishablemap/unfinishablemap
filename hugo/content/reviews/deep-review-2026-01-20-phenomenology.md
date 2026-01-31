@@ -16,10 +16,8 @@ title: Deep Review - Phenomenology
 topics: []
 ---
 
-# Deep Review: Phenomenology
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/phenomenology.md
+**Article**: [Phenomenology](/concepts/phenomenology/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

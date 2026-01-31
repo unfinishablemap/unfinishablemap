@@ -16,10 +16,8 @@ title: Deep Review - Semantic Memory and Noetic Consciousness
 topics: []
 ---
 
-# Deep Review: Semantic Memory and Noetic Consciousness
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/semantic-memory.md
+**Article**: [Semantic Memory and Noetic Consciousness](/concepts/semantic-memory/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

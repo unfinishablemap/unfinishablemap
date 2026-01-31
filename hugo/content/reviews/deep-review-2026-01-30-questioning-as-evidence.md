@@ -16,10 +16,8 @@ title: Deep Review - The Question as Evidence
 topics: []
 ---
 
-# Deep Review: The Question as Evidence
-
 **Date**: 2026-01-30
-**File**: obsidian/voids/questioning-as-evidence.md
+**Article**: [The Question as Evidence](/voids/questioning-as-evidence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

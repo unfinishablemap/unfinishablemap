@@ -16,10 +16,8 @@ title: Deep Review - Neuroplasticity
 topics: []
 ---
 
-# Deep Review: Neuroplasticity
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/neuroplasticity.md
+**Article**: [Neuroplasticity](/concepts/neuroplasticity/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

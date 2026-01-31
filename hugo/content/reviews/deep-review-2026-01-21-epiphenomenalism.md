@@ -16,10 +16,8 @@ title: Deep Review - Against Epiphenomenalism
 topics: []
 ---
 
-# Deep Review: Against Epiphenomenalism
-
 **Date**: 2026-01-21
-**File**: obsidian/arguments/epiphenomenalism.md
+**Article**: [Against Epiphenomenalism](/arguments/epiphenomenalism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

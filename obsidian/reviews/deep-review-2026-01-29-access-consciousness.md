@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Access Consciousness"
+title: Deep Review - Access Consciousness
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T14:30:00+00:00
+ai_modified: 2026-01-29 14:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Access Consciousness
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/access-consciousness.md
-**Previous review**: 2026-01-23
+**Article**: [[access-consciousness|Access Consciousness]]
+**Previous review**: [[deep-review-2026-01-23-access-consciousness|2026-01-23]]
 **Context**: Cross-review considering phenomenal-overflow.md insights
 
 ## Pessimistic Analysis Summary

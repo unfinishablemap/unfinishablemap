@@ -16,11 +16,9 @@ title: Deep Review - Minimal Consciousness
 topics: []
 ---
 
-# Deep Review: Minimal Consciousness
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/minimal-consciousness.md
-**Previous review**: 2026-01-20T06:20:00+00:00
+**Article**: [Minimal Consciousness](/archive/concepts/minimal-consciousness/)
+**Previous review**: [2026-01-20T06:20:00+00:00](/reviews/deep-review-2026-01-20-minimal-consciousness/)
 
 ## Task Context
 

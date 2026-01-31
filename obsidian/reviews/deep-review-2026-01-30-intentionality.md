@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Intentionality"
+title: Deep Review - Intentionality
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T17:16:00+00:00
+ai_modified: 2026-01-30 17:16:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: Intentionality
-
 **Date**: 2026-01-30
-**File**: obsidian/concepts/intentionality.md
-**Previous review**: 2026-01-20
+**Article**: [[intentionality|Intentionality]]
+**Previous review**: [[deep-review-2026-01-20-intentionality|2026-01-20]]
 **Cross-review context**: symbol-grounding-problem.md
 
 ## Pessimistic Analysis Summary

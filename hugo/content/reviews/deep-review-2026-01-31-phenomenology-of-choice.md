@@ -16,11 +16,9 @@ title: Deep Review - Phenomenology of Choice
 topics: []
 ---
 
-# Deep Review: Phenomenology of Choice
-
 **Date**: 2026-01-31
-**File**: obsidian/concepts/phenomenology-of-choice.md
-**Previous review**: 2026-01-21
+**Article**: [Phenomenology of Choice](/concepts/phenomenology-of-choice/)
+**Previous review**: [2026-01-21](/reviews/deep-review-2026-01-21-phenomenology-of-choice/)
 
 ## Context
 

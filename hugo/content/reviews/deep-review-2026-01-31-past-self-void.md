@@ -16,10 +16,8 @@ title: Deep Review - The Past-Self Void
 topics: []
 ---
 
-# Deep Review: The Past-Self Void
-
 **Date**: 2026-01-31
-**File**: obsidian/voids/past-self-void.md
+**Article**: [The Past-Self Void](/voids/past-self-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Phenomenology of the Edge"
+title: Deep Review - The Phenomenology of the Edge
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T22:15:00+00:00
+ai_modified: 2026-01-19 22:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-19
 last_curated: null
 ---
 
-# Deep Review: The Phenomenology of the Edge
-
 **Date**: 2026-01-19
-**File**: obsidian/voids/phenomenology-of-the-edge.md
+**Article**: [[phenomenology-of-the-edge|The Phenomenology of the Edge]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

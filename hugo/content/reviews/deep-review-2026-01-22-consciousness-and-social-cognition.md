@@ -16,10 +16,8 @@ title: Deep Review - Consciousness and Social Cognition
 topics: []
 ---
 
-# Deep Review: Consciousness and Social Cognition
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/consciousness-and-social-cognition.md
+**Article**: [Consciousness and Social Cognition](/concepts/consciousness-and-social-cognition/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

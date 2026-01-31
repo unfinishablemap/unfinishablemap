@@ -16,10 +16,8 @@ title: Deep Review - Consciousness-Selecting Neural Patterns
 topics: []
 ---
 
-# Deep Review: Consciousness-Selecting Neural Patterns
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/consciousness-selecting-neural-patterns.md
+**Article**: [Consciousness-Selecting Neural Patterns](/questions/consciousness-selecting-neural-patterns/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

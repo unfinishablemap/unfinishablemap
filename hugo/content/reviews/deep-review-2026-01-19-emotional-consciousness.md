@@ -16,10 +16,8 @@ title: Deep Review - Emotional Consciousness
 topics: []
 ---
 
-# Deep Review: Emotional Consciousness
-
 **Date**: 2026-01-19
-**File**: concepts/emotional-consciousness.md
+**Article**: [Emotional Consciousness](/archive/concepts/emotional-consciousness/)
 **Previous review**: Never (created same day)
 
 ## Pessimistic Analysis Summary

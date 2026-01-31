@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Computational Cognitive Limits"
+title: Deep Review - Computational Cognitive Limits
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T18:00:00+00:00
+ai_modified: 2026-01-29 18:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Computational Cognitive Limits
-
 **Date**: 2026-01-29
-**File**: obsidian/voids/computational-cognitive-limits.md
+**Article**: [[computational-cognitive-limits|Computational Cognitive Limits]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

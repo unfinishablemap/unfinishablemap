@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Mysterianism and Cognitive Closure"
+title: Deep Review - Mysterianism and Cognitive Closure
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T18:30:00+00:00
+ai_modified: 2026-01-27 18:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Mysterianism and Cognitive Closure
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/mysterianism.md
-**Previous review**: 2026-01-20
+**Article**: [[mysterianism|Mysterianism and Cognitive Closure]]
+**Previous review**: [[deep-review-2026-01-20-mysterianism|2026-01-20]]
 **Cross-review context**: intrinsic-nature-void.md insights
 
 ## Pessimistic Analysis Summary

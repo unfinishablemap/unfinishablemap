@@ -16,10 +16,8 @@ title: Deep Review - Chalmers on Psychophysical Coupling
 topics: []
 ---
 
-# Deep Review: Chalmers on Psychophysical Coupling
-
 **Date**: 2026-01-27
-**File**: obsidian/topics/chalmers-psychophysical-coupling.md
+**Article**: [Chalmers on Psychophysical Coupling](/topics/chalmers-psychophysical-coupling/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

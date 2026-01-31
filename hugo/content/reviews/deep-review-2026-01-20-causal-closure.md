@@ -16,10 +16,8 @@ title: Deep Review - Causal Closure of the Physical
 topics: []
 ---
 
-# Deep Review: Causal Closure of the Physical
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/causal-closure.md
+**Article**: [Causal Closure of the Physical](/concepts/causal-closure/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

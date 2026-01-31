@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Question as Evidence"
+title: Deep Review - The Question as Evidence
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T21:45:00+00:00
+ai_modified: 2026-01-30 21:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: The Question as Evidence
-
 **Date**: 2026-01-30
-**File**: obsidian/voids/questioning-as-evidence.md
+**Article**: [[questioning-as-evidence|The Question as Evidence]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

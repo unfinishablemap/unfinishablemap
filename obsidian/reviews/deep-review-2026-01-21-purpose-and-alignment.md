@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Purpose and AI Alignment"
+title: Deep Review - Purpose and AI Alignment
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T00:15:00+00:00
+ai_modified: 2026-01-21 00:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-21
 last_curated: null
 ---
 
-# Deep Review: Purpose and AI Alignment
-
 **Date**: 2026-01-21
-**File**: obsidian/topics/purpose-and-alignment.md
+**Article**: [[purpose-and-alignment|Purpose and AI Alignment]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -16,10 +16,8 @@ title: Deep Review - Psychophysical Laws
 topics: []
 ---
 
-# Deep Review: Psychophysical Laws
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/psychophysical-laws.md
+**Article**: [Psychophysical Laws](/concepts/psychophysical-laws/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

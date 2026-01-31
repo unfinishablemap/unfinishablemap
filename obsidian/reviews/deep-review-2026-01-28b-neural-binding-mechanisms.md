@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Neural Binding Mechanisms (Second Pass)"
+title: Deep Review - Neural Binding Mechanisms (Second Pass)
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-28T16:57:00+00:00
+ai_modified: 2026-01-28 16:57:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-28
 last_curated: null
 ---
 
-# Deep Review: Neural Binding Mechanisms (Second Pass)
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/neural-binding-mechanisms.md
-**Previous review**: 2026-01-28 (earlier today)
+**Article**: [[neural-binding-mechanisms|Neural Binding Mechanisms]]
+**Previous review**: [[deep-review-2026-01-28-neural-binding-mechanisms|2026-01-28 (earlier today)]]
 
 ## Review Context
 

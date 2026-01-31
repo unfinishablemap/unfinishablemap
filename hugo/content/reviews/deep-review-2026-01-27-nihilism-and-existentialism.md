@@ -16,10 +16,8 @@ title: Deep Review - Nihilism and Existentialism
 topics: []
 ---
 
-# Deep Review: Nihilism and Existentialism
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/nihilism-and-existentialism.md
+**Article**: [Nihilism and Existentialism](/concepts/nihilism-and-existentialism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

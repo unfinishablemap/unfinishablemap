@@ -17,10 +17,8 @@ title: Deep Review - The Explanatory Gap
 topics: []
 ---
 
-# Deep Review: The Explanatory Gap
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/explanatory-gap.md
+**Article**: [The Explanatory Gap](/concepts/explanatory-gap/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

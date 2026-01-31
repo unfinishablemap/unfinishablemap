@@ -16,10 +16,8 @@ title: Deep Review - The Pairing Problem
 topics: []
 ---
 
-# Deep Review: The Pairing Problem
-
 **Date**: 2026-01-20
-**File**: `obsidian/concepts/pairing-problem.md`
+**Article**: [Pairing Problem](/concepts/pairing-problem/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

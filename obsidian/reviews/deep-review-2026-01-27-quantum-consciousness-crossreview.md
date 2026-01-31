@@ -1,15 +1,15 @@
 ---
-title: "Deep Review - Quantum Consciousness Mechanisms (Cross-review with Decoherence)"
+title: Deep Review - Quantum Consciousness Mechanisms (Cross-review with Decoherence)
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T20:45:00+00:00
+ai_modified: 2026-01-27 20:45:00+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
-  - "[[quantum-consciousness]]"
-  - "[[decoherence-and-macroscopic-superposition]]"
+- '[[quantum-consciousness]]'
+- '[[decoherence-and-macroscopic-superposition]]'
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -17,11 +17,9 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Quantum Consciousness Mechanisms (Cross-review)
-
 **Date**: 2026-01-27
-**File**: concepts/quantum-consciousness.md
-**Previous review**: 2026-01-27 (earlier today, cross-review with quantum-neural-mechanisms)
+**Article**: [[quantum-consciousness|Quantum Consciousness]]
+**Previous review**: [[deep-review-2026-01-27-quantum-consciousness|2026-01-27 (earlier today, cross-review with quantum-neural-mechanisms)]]
 **Context**: Cross-review considering decoherence-and-macroscopic-superposition insights
 
 ## Pessimistic Analysis Summary

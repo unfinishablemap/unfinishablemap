@@ -16,10 +16,8 @@ title: Deep Review - The Phenomenology of the Edge
 topics: []
 ---
 
-# Deep Review: The Phenomenology of the Edge
-
 **Date**: 2026-01-19
-**File**: obsidian/voids/phenomenology-of-the-edge.md
+**Article**: [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

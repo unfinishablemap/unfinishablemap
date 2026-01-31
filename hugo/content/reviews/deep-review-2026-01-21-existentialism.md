@@ -16,11 +16,9 @@ title: Deep Review - Existentialism
 topics: []
 ---
 
-# Deep Review: Existentialism
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/existentialism.md
-**Previous review**: 2026-01-14 (6 days ago)
+**Article**: [Existentialism](/archive/concepts/existentialism/)
+**Previous review**: [2026-01-14 (6 days ago)](/reviews/deep-review-2026-01-14-existentialism/)
 
 ## Pessimistic Analysis Summary
 

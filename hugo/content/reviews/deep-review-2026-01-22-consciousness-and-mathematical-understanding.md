@@ -16,10 +16,8 @@ title: Deep Review - Consciousness and Mathematical Understanding
 topics: []
 ---
 
-# Deep Review: Consciousness and Mathematical Understanding
-
 **Date**: 2026-01-22
-**File**: obsidian/topics/consciousness-and-mathematical-understanding.md
+**Article**: [Consciousness and Mathematical Understanding](/topics/consciousness-and-mathematical-understanding/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

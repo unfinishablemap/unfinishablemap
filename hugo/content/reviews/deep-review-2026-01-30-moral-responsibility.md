@@ -16,11 +16,9 @@ title: Deep Review - Moral Responsibility
 topics: []
 ---
 
-# Deep Review: Moral Responsibility
-
 **Date**: 2026-01-30
-**File**: obsidian/concepts/moral-responsibility.md
-**Previous review**: 2026-01-20
+**Article**: [Moral Responsibility](/concepts/moral-responsibility/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-moral-responsibility/)
 
 ## Context
 

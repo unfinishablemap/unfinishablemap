@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Collapse and the Arrow of Time"
+title: Deep Review - Collapse and the Arrow of Time
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T20:13:53+00:00
+ai_modified: 2026-01-19 20:13:53+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-19
 last_curated: null
 ---
 
-# Deep Review: Collapse and the Arrow of Time
-
 **Date**: 2026-01-19
-**File**: obsidian/concepts/collapse-and-time.md
+**Article**: [[collapse-and-time|Collapse and the Arrow of Time]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

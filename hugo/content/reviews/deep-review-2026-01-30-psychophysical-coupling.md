@@ -16,11 +16,9 @@ title: Deep Review - Psychophysical Coupling
 topics: []
 ---
 
-# Deep Review: Psychophysical Coupling
-
 **Date**: 2026-01-30
-**File**: obsidian/concepts/psychophysical-coupling.md
-**Previous review**: 2026-01-29
+**Article**: [Psychophysical Coupling](/concepts/psychophysical-coupling/)
+**Previous review**: [2026-01-29](/reviews/deep-review-2026-01-29-psychophysical-coupling/)
 
 ## Pessimistic Analysis Summary
 

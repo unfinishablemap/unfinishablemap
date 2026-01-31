@@ -16,10 +16,8 @@ title: Deep Review - Consciousness as Intelligence Amplifier
 topics: []
 ---
 
-# Deep Review: Consciousness as Intelligence Amplifier
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/consciousness-as-amplifier.md
+**Article**: [Consciousness as Intelligence Amplifier](/concepts/consciousness-as-amplifier/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

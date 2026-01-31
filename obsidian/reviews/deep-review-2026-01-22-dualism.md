@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Dualism"
+title: Deep Review - Dualism
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T20:46:31+00:00
+ai_modified: 2026-01-22 20:46:31+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-22
 last_curated: null
 ---
 
-# Deep Review: Dualism
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/dualism.md
-**Previous review**: 2026-01-19 (initial creation, not a full deep review)
+**Article**: [[dualism|Dualism]]
+**Previous review**: [[deep-review-2026-01-19-dualism|2026-01-19 (initial creation, not a full deep review)]]
 
 ## Pessimistic Analysis Summary
 

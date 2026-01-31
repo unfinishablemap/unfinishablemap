@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Intentionality"
+title: Deep Review - Intentionality
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T03:50:00+00:00
+ai_modified: 2026-01-20 03:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: Intentionality
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/intentionality.md
+**Article**: [[intentionality|Intentionality]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

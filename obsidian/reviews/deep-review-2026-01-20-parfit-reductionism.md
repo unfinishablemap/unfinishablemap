@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Parfit's Reductionism"
+title: Deep Review - Parfit's Reductionism
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T22:30:00+00:00
+ai_modified: 2026-01-20 22:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: Parfit's Reductionism
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/parfit-reductionism.md
+**Article**: [[parfit-reductionism|Parfit's Reductionism]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

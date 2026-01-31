@@ -16,10 +16,8 @@ title: Deep Review - Quantum Decoherence Objection
 topics: []
 ---
 
-# Deep Review: Quantum Decoherence Objection
-
 **Date**: 2026-01-24
-**File**: obsidian/concepts/quantum-decoherence-objection.md
+**Article**: [Quantum Decoherence Objection](/concepts/quantum-decoherence-objection/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

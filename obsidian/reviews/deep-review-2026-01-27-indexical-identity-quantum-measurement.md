@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Indexical Identity and Quantum Measurement"
+title: Deep Review - Indexical Identity and Quantum Measurement
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T14:30:00+00:00
+ai_modified: 2026-01-27 14:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Indexical Identity and Quantum Measurement
-
 **Date**: 2026-01-27
-**File**: obsidian/topics/indexical-identity-quantum-measurement.md
-**Previous review**: 2026-01-25
+**Article**: [[indexical-identity-quantum-measurement|Indexical Identity and Quantum Measurement]]
+**Previous review**: [[deep-review-2026-01-25-indexical-identity-quantum-measurement|2026-01-25]]
 **Cross-review context**: Considering subjective probability research (quantum-measurement-subjective-probability-2026-01-23.md)
 
 ## Pessimistic Analysis Summary

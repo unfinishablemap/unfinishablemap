@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Epistemic Advantages of Non-Materialist Theories"
+title: Deep Review - Epistemic Advantages of Non-Materialist Theories
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T23:30:00+00:00
+ai_modified: 2026-01-30 23:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: Epistemic Advantages of Non-Materialist Theories
-
 **Date**: 2026-01-30
-**File**: obsidian/topics/epistemic-advantages-of-dualism.md
-**Previous review**: 2026-01-20
+**Article**: [[epistemic-advantages-of-dualism|Epistemic Advantages of Non-Materialist Theories]]
+**Previous review**: [[deep-review-2026-01-20-epistemic-advantages-of-dualism|2026-01-20]]
 
 ## Pessimistic Analysis Summary
 

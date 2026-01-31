@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Pre-Conceptual Knowing"
+title: Deep Review - Pre-Conceptual Knowing
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T23:37:00+00:00
+ai_modified: 2026-01-30 23:37:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: Pre-Conceptual Knowing
-
 **Date**: 2026-01-30
-**File**: obsidian/voids/pre-conceptual-knowing.md
+**Article**: [[pre-conceptual-knowing|Pre-Conceptual Knowing]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Other Minds Void"
+title: Deep Review - The Other Minds Void
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T21:40:00+00:00
+ai_modified: 2026-01-29 21:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: The Other Minds Void
-
 **Date**: 2026-01-29
-**File**: obsidian/voids/other-minds-void.md
+**Article**: [[other-minds-void|The Other Minds Void]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

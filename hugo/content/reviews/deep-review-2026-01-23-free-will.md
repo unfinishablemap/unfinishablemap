@@ -16,11 +16,9 @@ title: Deep Review - Free Will and Determinism
 topics: []
 ---
 
-# Deep Review: Free Will and Determinism
-
 **Date**: 2026-01-23
-**File**: obsidian/topics/free-will.md
-**Previous review**: 2026-01-20
+**Article**: [Free Will and Determinism](/topics/free-will/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-free-will/)
 
 ## Pessimistic Analysis Summary
 

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Phenomenal Unity"
+title: Deep Review - Phenomenal Unity
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T05:40:12+00:00
+ai_modified: 2026-01-27 05:40:12+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Phenomenal Unity
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/phenomenal-unity.md
-**Previous review**: 2026-01-20
+**Article**: [[phenomenal-unity|Phenomenal Unity]]
+**Previous review**: [[deep-review-2026-01-20-phenomenal-unity|2026-01-20]]
 
 ## Pessimistic Analysis Summary
 

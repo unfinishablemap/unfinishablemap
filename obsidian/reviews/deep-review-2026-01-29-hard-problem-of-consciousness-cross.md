@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Hard Problem of Consciousness (Cross-Review)"
+title: Deep Review - The Hard Problem of Consciousness (Cross-Review)
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T18:30:00+00:00
+ai_modified: 2026-01-29 18:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: The Hard Problem of Consciousness (Cross-Review)
-
 **Date**: 2026-01-29
-**File**: obsidian/topics/hard-problem-of-consciousness.md
-**Previous review**: 2026-01-29 (sixth review overall; fifth confirmed stability)
+**Article**: [[hard-problem-of-consciousness|The Hard Problem of Consciousness]]
+**Previous review**: [[deep-review-2026-01-29-hard-problem-of-consciousness|2026-01-29 (sixth review overall; fifth confirmed stability)]]
 **Cross-review context**: origin-of-consciousness.md (new voids article)
 
 ## Review Outcome: Minor Enhancement for Cross-Linking

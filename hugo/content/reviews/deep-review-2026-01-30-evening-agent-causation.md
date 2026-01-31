@@ -16,11 +16,9 @@ title: Deep Review - Agent Causation (Cross-Review)
 topics: []
 ---
 
-# Deep Review: Agent Causation (Cross-Review)
-
 **Date**: 2026-01-30 (evening)
-**File**: obsidian/concepts/agent-causation.md
-**Previous review**: 2026-01-30 (morning)
+**Article**: [Agent Causation](/concepts/agent-causation/)
+**Previous review**: [2026-01-30 (morning)](/reviews/deep-review-2026-01-30-agent-causation/)
 **Context**: Cross-review considering authentic-vs-inauthentic-choice.md
 
 ## Pessimistic Analysis Summary

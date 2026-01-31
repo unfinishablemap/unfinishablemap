@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Access Consciousness"
+title: Deep Review - Access Consciousness
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-23T12:15:00+00:00
+ai_modified: 2026-01-23 12:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-23
 last_curated: null
 ---
 
-# Deep Review: Access Consciousness
-
 **Date**: 2026-01-23
-**File**: concepts/access-consciousness.md
+**Article**: [[access-consciousness|Access Consciousness]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Nihilism and Existentialism"
+title: Deep Review - Nihilism and Existentialism
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T11:36:35+00:00
+ai_modified: 2026-01-27 11:36:35+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Nihilism and Existentialism
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/nihilism-and-existentialism.md
+**Article**: [[nihilism-and-existentialism|Nihilism and Existentialism]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

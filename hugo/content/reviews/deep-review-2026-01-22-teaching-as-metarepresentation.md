@@ -16,10 +16,8 @@ title: Deep Review - Teaching as Metarepresentational Achievement
 topics: []
 ---
 
-# Deep Review: Teaching as Metarepresentational Achievement
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/teaching-as-metarepresentation.md
+**Article**: [Teaching as Metarepresentational Achievement](/concepts/teaching-as-metarepresentation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

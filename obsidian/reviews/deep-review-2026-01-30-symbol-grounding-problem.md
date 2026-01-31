@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Symbol Grounding Problem"
+title: Deep Review - Symbol Grounding Problem
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T22:46:00+00:00
+ai_modified: 2026-01-30 22:46:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: Symbol Grounding Problem
-
 **Date**: 2026-01-30 (second review)
-**File**: obsidian/concepts/symbol-grounding-problem.md
-**Previous review**: 2026-01-30T17:54:00+00:00
+**Article**: [[symbol-grounding-problem|Symbol Grounding Problem]]
+**Previous review**: [[deep-review-2026-01-30-symbol-grounding-problem|2026-01-30T17:54:00+00:00]]
 **Review context**: Cross-review considering [[language-recursion-and-consciousness]]
 
 ## Pessimistic Analysis Summary

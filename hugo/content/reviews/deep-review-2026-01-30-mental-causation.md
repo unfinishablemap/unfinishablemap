@@ -16,11 +16,9 @@ title: Deep Review - Mental Causation
 topics: []
 ---
 
-# Deep Review: Mental Causation
-
 **Date**: 2026-01-30
-**File**: obsidian/concepts/mental-causation.md
-**Previous review**: 2026-01-29
+**Article**: [Mental Causation](/concepts/mental-causation/)
+**Previous review**: [2026-01-29](/reviews/deep-review-2026-01-29-mental-causation/)
 **Word count**: 2931 → 2933 (+2, length-neutral)
 **Context**: Update with delegation and preemption framework per user request
 

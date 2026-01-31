@@ -16,10 +16,8 @@ title: Deep Review - Against Many-Worlds
 topics: []
 ---
 
-# Deep Review: Against Many-Worlds
-
 **Date**: 2026-01-22
-**File**: obsidian/arguments/many-worlds.md
+**Article**: [Against Many-Worlds](/arguments/many-worlds/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

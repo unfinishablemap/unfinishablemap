@@ -16,10 +16,8 @@ title: Deep Review - Baseline Cognition
 topics: []
 ---
 
-# Deep Review: Baseline Cognition
-
 **Date**: 2026-01-25
-**File**: topics/baseline-cognition.md
+**Article**: [Baseline Cognition](/archive/topics/baseline-cognition/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

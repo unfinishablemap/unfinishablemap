@@ -16,10 +16,8 @@ title: Deep Review - Working Memory and Consciousness
 topics: []
 ---
 
-# Deep Review: Working Memory and Consciousness
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/working-memory.md
+**Article**: [Working Memory and Consciousness](/concepts/working-memory/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

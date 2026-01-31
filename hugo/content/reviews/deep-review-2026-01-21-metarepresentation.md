@@ -16,10 +16,8 @@ title: Deep Review - Metarepresentation and Phenomenal Consciousness
 topics: []
 ---
 
-# Deep Review: Metarepresentation and Phenomenal Consciousness
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/metarepresentation.md
+**Article**: [Metarepresentation and Phenomenal Consciousness](/concepts/metarepresentation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

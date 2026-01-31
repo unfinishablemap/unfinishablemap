@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Functionalism"
+title: Deep Review - Functionalism
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T21:15:00+00:00
+ai_modified: 2026-01-19 21:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-19
 last_curated: null
 ---
 
-# Deep Review: Functionalism
-
 **Date**: 2026-01-19
-**File**: obsidian/concepts/functionalism.md
-**Previous review**: 2026-01-19 (earlier pass added minimal-consciousness content)
+**Article**: [[functionalism|Functionalism]]
+**Previous review**: [[deep-review-2026-01-19-functionalism|2026-01-19 (earlier pass added minimal-consciousness content)]]
 
 ## Review Session 2 (21:15 UTC)
 

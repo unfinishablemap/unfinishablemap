@@ -16,10 +16,8 @@ title: Deep Review - Metacognition and Consciousness
 topics: []
 ---
 
-# Deep Review: Metacognition and Consciousness
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/metacognition.md
+**Article**: [Metacognition and Consciousness](/concepts/metacognition/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

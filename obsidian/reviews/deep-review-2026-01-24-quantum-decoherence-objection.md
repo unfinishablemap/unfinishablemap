@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Quantum Decoherence Objection"
+title: Deep Review - Quantum Decoherence Objection
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-24T19:15:00+00:00
+ai_modified: 2026-01-24 19:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-24
 last_curated: null
 ---
 
-# Deep Review: Quantum Decoherence Objection
-
 **Date**: 2026-01-24
-**File**: obsidian/concepts/quantum-decoherence-objection.md
+**Article**: [[quantum-decoherence-objection|Quantum Decoherence Objection]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

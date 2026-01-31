@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Embodied Cognition and the Extended Mind"
+title: Deep Review - Embodied Cognition and the Extended Mind
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-28T23:45:00+00:00
+ai_modified: 2026-01-28 23:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-28
 last_curated: null
 ---
 
-# Deep Review: Embodied Cognition and the Extended Mind
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/embodied-cognition.md
-**Previous review**: 2026-01-22
+**Article**: [[embodied-cognition|Embodied Cognition and the Extended Mind]]
+**Previous review**: [[deep-review-2026-01-22-embodied-cognition|2026-01-22]]
 **Cross-review context**: embodiment-cognitive-limits.md (new voids article)
 
 ## Length Status

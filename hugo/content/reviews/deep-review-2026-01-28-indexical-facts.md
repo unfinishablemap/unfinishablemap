@@ -16,10 +16,8 @@ title: Deep Review - Indexical Facts
 topics: []
 ---
 
-# Deep Review: Indexical Facts
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/indexical-facts.md
+**Article**: [Indexical Facts](/concepts/indexical-facts/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

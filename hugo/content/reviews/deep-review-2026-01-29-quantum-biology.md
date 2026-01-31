@@ -16,11 +16,9 @@ title: Deep Review - Quantum Biology
 topics: []
 ---
 
-# Deep Review: Quantum Biology
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/quantum-biology.md
-**Previous review**: 2026-01-20
+**Article**: [Quantum Biology](/concepts/quantum-biology/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-quantum-biology/)
 
 ## Pessimistic Analysis Summary
 

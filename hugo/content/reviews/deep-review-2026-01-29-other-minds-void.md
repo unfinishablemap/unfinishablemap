@@ -16,10 +16,8 @@ title: Deep Review - The Other Minds Void
 topics: []
 ---
 
-# Deep Review: The Other Minds Void
-
 **Date**: 2026-01-29
-**File**: obsidian/voids/other-minds-void.md
+**Article**: [The Other Minds Void](/voids/other-minds-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -16,10 +16,8 @@ title: Deep Review - Cognitive Phenomenology
 topics: []
 ---
 
-# Deep Review: Cognitive Phenomenology
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/cognitive-phenomenology.md
+**Article**: [Cognitive Phenomenology](/concepts/cognitive-phenomenology/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

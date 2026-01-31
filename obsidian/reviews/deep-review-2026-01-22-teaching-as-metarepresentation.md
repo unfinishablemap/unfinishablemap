@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Teaching as Metarepresentational Achievement"
+title: Deep Review - Teaching as Metarepresentational Achievement
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T14:30:00+00:00
+ai_modified: 2026-01-22 14:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-22
 last_curated: null
 ---
 
-# Deep Review: Teaching as Metarepresentational Achievement
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/teaching-as-metarepresentation.md
+**Article**: [[teaching-as-metarepresentation|Teaching as Metarepresentational Achievement]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

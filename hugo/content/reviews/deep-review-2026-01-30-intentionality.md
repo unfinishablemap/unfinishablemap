@@ -16,11 +16,9 @@ title: Deep Review - Intentionality
 topics: []
 ---
 
-# Deep Review: Intentionality
-
 **Date**: 2026-01-30
-**File**: obsidian/concepts/intentionality.md
-**Previous review**: 2026-01-20
+**Article**: [Intentionality](/concepts/intentionality/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-intentionality/)
 **Cross-review context**: symbol-grounding-problem.md
 
 ## Pessimistic Analysis Summary

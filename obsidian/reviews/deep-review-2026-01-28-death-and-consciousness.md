@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Death and Consciousness"
+title: Deep Review - Death and Consciousness
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-28T19:50:17+00:00
+ai_modified: 2026-01-28 19:50:17+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-28
 last_curated: null
 ---
 
-# Deep Review: Death and Consciousness
-
 **Date**: 2026-01-28
-**File**: obsidian/topics/death-and-consciousness.md
-**Previous review**: 2026-01-20
+**Article**: [[death-and-consciousness|Death and Consciousness]]
+**Previous review**: [[deep-review-2026-01-20-death-and-consciousness|2026-01-20]]
 
 ## Pessimistic Analysis Summary
 

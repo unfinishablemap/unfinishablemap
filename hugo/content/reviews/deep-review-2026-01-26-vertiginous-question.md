@@ -16,10 +16,8 @@ title: Deep Review - The Vertiginous Question
 topics: []
 ---
 
-# Deep Review: The Vertiginous Question
-
 **Date**: 2026-01-26
-**File**: obsidian/topics/vertiginous-question.md
+**Article**: [The Vertiginous Question](/topics/vertiginous-question/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

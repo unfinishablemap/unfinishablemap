@@ -16,11 +16,9 @@ title: Deep Review - Functionalism
 topics: []
 ---
 
-# Deep Review: Functionalism
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/functionalism.md
-**Previous review**: 2026-01-20
+**Article**: [Functionalism](/arguments/functionalism/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-functionalism/)
 
 ## Pessimistic Analysis Summary
 

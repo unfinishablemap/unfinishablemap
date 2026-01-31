@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Quantum Indeterminacy and Free Will"
+title: Deep Review - Quantum Indeterminacy and Free Will
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T12:00:00+00:00
+ai_modified: 2026-01-20 12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: Quantum Indeterminacy and Free Will
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/quantum-indeterminacy-free-will.md
+**Article**: [[quantum-indeterminacy-free-will|Quantum Indeterminacy and Free Will]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

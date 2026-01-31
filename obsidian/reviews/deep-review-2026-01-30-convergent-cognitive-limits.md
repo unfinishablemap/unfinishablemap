@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Convergent Cognitive Limits"
+title: Deep Review - Convergent Cognitive Limits
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T21:25:00+00:00
+ai_modified: 2026-01-30 21:25:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: Convergent Cognitive Limits
-
 **Date**: 2026-01-30
-**File**: obsidian/voids/convergent-cognitive-limits.md
+**Article**: [[convergent-cognitive-limits|Convergent Cognitive Limits]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

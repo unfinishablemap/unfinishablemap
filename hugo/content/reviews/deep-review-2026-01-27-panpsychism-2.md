@@ -16,11 +16,9 @@ title: Deep Review - Panpsychism
 topics: []
 ---
 
-# Deep Review: Panpsychism
-
 **Date**: 2026-01-27
-**File**: concepts/panpsychism.md
-**Previous review**: 2026-01-27 (earlier today)
+**Article**: [Panpsychism](/concepts/panpsychism/)
+**Previous review**: [2026-01-27 (earlier today)](/reviews/deep-review-2026-01-27-panpsychism/)
 **Context**: Cross-review considering process-philosophy insights
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Cumulative Culture"
+title: Deep Review - Cumulative Culture
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-23T00:15:00+00:00
+ai_modified: 2026-01-23 00:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-23
 last_curated: null
 ---
 
-# Deep Review: Cumulative Culture
-
 **Date**: 2026-01-23
-**File**: obsidian/concepts/cumulative-culture.md
+**Article**: [[cumulative-culture|Cumulative Culture]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Working Memory and Consciousness"
+title: Deep Review - Working Memory and Consciousness
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T22:25:00+00:00
+ai_modified: 2026-01-30 22:25:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: Working Memory and Consciousness
-
 **Date**: 2026-01-30
-**File**: obsidian/concepts/working-memory.md
-**Previous review**: 2026-01-21
+**Article**: [[working-memory|Working Memory and Consciousness]]
+**Previous review**: [[deep-review-2026-01-21-working-memory|2026-01-21]]
 **Cross-review context**: language-recursion-and-consciousness.md
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Loss of Consciousness and the Mind-Brain Relationship"
+title: Deep Review - Loss of Consciousness and the Mind-Brain Relationship
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T11:28:00+00:00
+ai_modified: 2026-01-31 11:28:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-31
 last_curated: null
 ---
 
-# Deep Review: Loss of Consciousness and the Mind-Brain Relationship
-
 **Date**: 2026-01-31
-**File**: obsidian/topics/loss-of-consciousness.md
-**Previous review**: 2026-01-21
+**Article**: [[loss-of-consciousness|Loss of Consciousness and the Mind-Brain Relationship]]
+**Previous review**: [[deep-review-2026-01-21-loss-of-consciousness|2026-01-21]]
 
 ## Pessimistic Analysis Summary
 

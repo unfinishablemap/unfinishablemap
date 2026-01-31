@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Dopamine and the Selection Interface"
+title: Deep Review - Dopamine and the Selection Interface
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T12:27:42+00:00
+ai_modified: 2026-01-26 12:27:42+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: Dopamine and the Selection Interface
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/dopamine-selection-interface.md
+**Article**: [[dopamine-selection-interface|Dopamine and the Selection Interface]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

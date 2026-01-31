@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Whether the Voids Are Real"
+title: Deep Review - Whether the Voids Are Real
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T12:00:00+00:00
+ai_modified: 2026-01-26 12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: Whether the Voids Are Real
-
 **Date**: 2026-01-26
-**File**: obsidian/voids/whether-real.md
-**Previous review**: 2026-01-20
+**Article**: [[whether-real|Whether the Voids Are Real]]
+**Previous review**: [[deep-review-2026-01-20-whether-real|2026-01-20]]
 **Context**: Cross-review considering defended-territory insights
 
 ## Pessimistic Analysis Summary

@@ -16,10 +16,8 @@ title: Deep Review - Meditation and Consciousness Modes
 topics: []
 ---
 
-# Deep Review: Meditation and Consciousness Modes
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/meditation-and-consciousness-modes.md
+**Article**: [Meditation and Consciousness Modes](/concepts/meditation-and-consciousness-modes/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

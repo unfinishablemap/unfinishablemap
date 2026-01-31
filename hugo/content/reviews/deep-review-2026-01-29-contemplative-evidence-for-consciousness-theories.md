@@ -16,11 +16,9 @@ title: Deep Review - Contemplative Evidence for Consciousness Theories
 topics: []
 ---
 
-# Deep Review: Contemplative Evidence for Consciousness Theories
-
 **Date**: 2026-01-29
-**File**: obsidian/topics/contemplative-evidence-for-consciousness-theories.md
-**Previous review**: 2026-01-28
+**Article**: [Contemplative Evidence for Consciousness Theories](/topics/contemplative-evidence-for-consciousness-theories/)
+**Previous review**: [2026-01-28](/reviews/deep-review-2026-01-28-contemplative-evidence-for-consciousness-theories/)
 **Review context**: Cross-review considering new neuroplasticity concept article
 
 ## Pessimistic Analysis Summary

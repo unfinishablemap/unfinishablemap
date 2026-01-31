@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Emotional Consciousness"
+title: Deep Review - Emotional Consciousness
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T10:12:46+00:00
+ai_modified: 2026-01-26 10:12:46+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: Emotional Consciousness
-
 **Date**: 2026-01-26
-**File**: obsidian/topics/emotional-consciousness.md
-**Previous review**: 2026-01-19
+**Article**: [[emotional-consciousness|Emotional Consciousness and Valence]]
+**Previous review**: [[deep-review-2026-01-19-emotional-consciousness|2026-01-19]]
 
 ## Pessimistic Analysis Summary
 

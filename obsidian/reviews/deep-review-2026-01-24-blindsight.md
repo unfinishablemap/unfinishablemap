@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Blindsight"
+title: Deep Review - Blindsight
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-24T16:55:00+00:00
+ai_modified: 2026-01-24 16:55:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-24
 last_curated: null
 ---
 
-# Deep Review: Blindsight
-
 **Date**: 2026-01-24
-**File**: obsidian/concepts/blindsight.md
+**Article**: [[blindsight|Blindsight]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

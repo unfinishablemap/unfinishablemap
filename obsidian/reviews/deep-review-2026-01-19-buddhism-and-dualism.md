@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Buddhism and Dualism"
+title: Deep Review - Buddhism and Dualism
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T12:00:00+00:00
+ai_modified: 2026-01-19 12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-19
 last_curated: null
 ---
 
-# Deep Review: Buddhism and Dualism
-
 **Date**: 2026-01-19
-**File**: obsidian/concepts/buddhism-and-dualism.md
+**Article**: [[buddhism-and-dualism|Buddhism and Dualism]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -17,10 +17,8 @@ title: Deep Review - Heterophenomenology
 topics: []
 ---
 
-# Deep Review: Heterophenomenology
-
 **Date**: 2026-01-25
-**File**: obsidian/concepts/heterophenomenology.md
+**Article**: [Heterophenomenology](/concepts/heterophenomenology/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

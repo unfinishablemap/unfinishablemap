@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Consciousness and Social Cognition"
+title: Deep Review - Consciousness and Social Cognition
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-23T00:00:00+00:00
+ai_modified: 2026-01-23 00:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-22
 last_curated: null
 ---
 
-# Deep Review: Consciousness and Social Cognition
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/consciousness-and-social-cognition.md
+**Article**: [[consciousness-and-social-cognition|Consciousness and Social Cognition]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

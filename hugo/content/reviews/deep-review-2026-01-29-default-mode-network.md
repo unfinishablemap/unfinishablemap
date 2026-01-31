@@ -16,10 +16,8 @@ title: Deep Review - Default Mode Network
 topics: []
 ---
 
-# Deep Review: Default Mode Network
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/default-mode-network.md
+**Article**: [Default Mode Network](/concepts/default-mode-network/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

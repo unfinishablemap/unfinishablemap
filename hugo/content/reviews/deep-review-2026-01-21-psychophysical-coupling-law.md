@@ -16,10 +16,8 @@ title: Deep Review - The Psychophysical Coupling Law
 topics: []
 ---
 
-# Deep Review: The Psychophysical Coupling Law
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/psychophysical-coupling-law.md
+**Article**: [Psychophysical Coupling Law](/archive/concepts/psychophysical-coupling-law/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

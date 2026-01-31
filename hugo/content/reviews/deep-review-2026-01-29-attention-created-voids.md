@@ -16,10 +16,8 @@ title: Deep Review - Attention-Created Voids
 topics: []
 ---
 
-# Deep Review: Attention-Created Voids
-
 **Date**: 2026-01-29
-**File**: obsidian/voids/attention-created-voids.md
+**Article**: [Attention-Created Voids](/voids/attention-created-voids/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

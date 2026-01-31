@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Phenomenal Concepts Strategy"
+title: Deep Review - The Phenomenal Concepts Strategy
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T01:30:00+00:00
+ai_modified: 2026-01-20 01:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: The Phenomenal Concepts Strategy
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/phenomenal-concepts-strategy.md
+**Article**: [[phenomenal-concepts-strategy|The Phenomenal Concepts Strategy]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

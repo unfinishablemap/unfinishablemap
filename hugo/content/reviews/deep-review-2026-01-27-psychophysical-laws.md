@@ -16,11 +16,9 @@ title: Deep Review - Psychophysical Laws
 topics: []
 ---
 
-# Deep Review: Psychophysical Laws
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/psychophysical-laws.md
-**Previous review**: 2026-01-26
+**Article**: [Psychophysical Laws](/concepts/psychophysical-laws/)
+**Previous review**: [2026-01-26](/reviews/deep-review-2026-01-26-psychophysical-laws/)
 **Context**: Cross-review considering chalmers-psychophysical-coupling insights
 
 ## Pessimistic Analysis Summary

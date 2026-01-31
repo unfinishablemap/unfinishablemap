@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Conscious vs Unconscious Processing"
+title: Deep Review - Conscious vs Unconscious Processing
 created: 2026-01-25
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-25T17:29:51+00:00
+ai_modified: 2026-01-25 17:29:51+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-25
 last_curated: null
 ---
 
-# Deep Review: Conscious vs Unconscious Processing
-
 **Date**: 2026-01-25
-**File**: obsidian/topics/conscious-vs-unconscious-processing.md
+**Article**: [[conscious-vs-unconscious-processing|Conscious Vs Unconscious Processing]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

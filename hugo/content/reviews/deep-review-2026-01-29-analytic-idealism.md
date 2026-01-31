@@ -16,11 +16,9 @@ title: Deep Review - Analytic Idealism
 topics: []
 ---
 
-# Deep Review: Analytic Idealism
-
 **Date**: 2026-01-29
-**File**: concepts/analytic-idealism.md
-**Previous review**: 2026-01-20
+**Article**: [Analytic Idealism](/concepts/analytic-idealism/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-analytic-idealism/)
 
 ## Pessimistic Analysis Summary
 

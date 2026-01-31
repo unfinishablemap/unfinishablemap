@@ -16,10 +16,8 @@ title: Deep Review - Theory of Mind
 topics: []
 ---
 
-# Deep Review: Theory of Mind
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/theory-of-mind.md
+**Article**: [Theory of Mind](/concepts/theory-of-mind/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

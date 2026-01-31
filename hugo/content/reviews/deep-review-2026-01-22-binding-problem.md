@@ -17,11 +17,9 @@ title: Deep Review - The Binding Problem
 topics: []
 ---
 
-# Deep Review: The Binding Problem
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/binding-problem.md
-**Previous review**: 2026-01-19
+**Article**: [The Binding Problem](/concepts/binding-problem/)
+**Previous review**: [2026-01-19](/reviews/deep-review-2026-01-19-binding-problem/)
 
 ## Pessimistic Analysis Summary
 

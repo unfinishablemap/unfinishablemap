@@ -1,15 +1,15 @@
 ---
-title: "Deep Review - The Binding Problem"
+title: Deep Review - The Binding Problem
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-28T17:26:12+00:00
+ai_modified: 2026-01-28 17:26:12+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
-  - "[[binding-problem]]"
-  - "[[neural-binding-mechanisms]]"
+- '[[binding-problem]]'
+- '[[neural-binding-mechanisms]]'
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -17,11 +17,9 @@ ai_generated_date: 2026-01-28
 last_curated: null
 ---
 
-# Deep Review: The Binding Problem
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/binding-problem.md
-**Previous review**: 2026-01-22
+**Article**: [[binding-problem|The Binding Problem]]
+**Previous review**: [[deep-review-2026-01-22-binding-problem|2026-01-22]]
 **Cross-review context**: Considering neural-binding-mechanisms.md
 
 ## Pessimistic Analysis Summary

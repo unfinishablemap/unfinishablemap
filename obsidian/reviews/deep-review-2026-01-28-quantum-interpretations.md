@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Interpretations of Quantum Mechanics"
+title: Deep Review - Interpretations of Quantum Mechanics
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-28T16:06:00+00:00
+ai_modified: 2026-01-28 16:06:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-28
 last_curated: null
 ---
 
-# Deep Review: Interpretations of Quantum Mechanics
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/quantum-interpretations.md
-**Previous review**: 2026-01-21
+**Article**: [[quantum-interpretations|Interpretations of Quantum Mechanics]]
+**Previous review**: [[deep-review-2026-01-21-quantum-interpretations|2026-01-21]]
 **Context**: Cross-review considering new [[qbism]] article
 
 ## Pessimistic Analysis Summary

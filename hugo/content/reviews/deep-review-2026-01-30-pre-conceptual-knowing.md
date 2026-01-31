@@ -16,10 +16,8 @@ title: Deep Review - Pre-Conceptual Knowing
 topics: []
 ---
 
-# Deep Review: Pre-Conceptual Knowing
-
 **Date**: 2026-01-30
-**File**: obsidian/voids/pre-conceptual-knowing.md
+**Article**: [Pre-Conceptual Knowing](/voids/pre-conceptual-knowing/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

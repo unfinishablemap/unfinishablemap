@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Emergence"
+title: Deep Review - Emergence
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T02:40:00+00:00
+ai_modified: 2026-01-30 02:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: Emergence
-
 **Date**: 2026-01-30
-**File**: obsidian/concepts/emergence.md
-**Previous review**: 2026-01-20
+**Article**: [[emergence|Emergence]]
+**Previous review**: [[deep-review-2026-01-20-emergence|2026-01-20]]
 
 ## Pessimistic Analysis Summary
 

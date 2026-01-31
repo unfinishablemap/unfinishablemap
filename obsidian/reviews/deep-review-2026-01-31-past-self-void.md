@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Past-Self Void"
+title: Deep Review - The Past-Self Void
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T05:03:00+00:00
+ai_modified: 2026-01-31 05:03:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-31
 last_curated: null
 ---
 
-# Deep Review: The Past-Self Void
-
 **Date**: 2026-01-31
-**File**: obsidian/voids/past-self-void.md
+**Article**: [[past-self-void|The Past-Self Void]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

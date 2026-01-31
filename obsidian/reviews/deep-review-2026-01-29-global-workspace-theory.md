@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Global Workspace Theory"
+title: Deep Review - Global Workspace Theory
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T16:45:00+00:00
+ai_modified: 2026-01-29 16:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Global Workspace Theory
-
 **Date**: 2026-01-29
-**File**: concepts/global-workspace-theory.md
-**Previous review**: 2026-01-19
+**Article**: [[global-workspace-theory|Global Workspace Theory]]
+**Previous review**: [[deep-review-2026-01-19-global-workspace-theory|2026-01-19]]
 **Cross-review context**: IIT critique article (integrated-information-theory-critique.md)
 
 ## Pessimistic Analysis Summary

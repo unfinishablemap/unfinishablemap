@@ -16,10 +16,8 @@ title: Deep Review - Against Functionalism
 topics: []
 ---
 
-# Deep Review: Against Functionalism
-
 **Date**: 2026-01-20
-**File**: obsidian/arguments/functionalism.md
+**Article**: [Against Functionalism](/arguments/functionalism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

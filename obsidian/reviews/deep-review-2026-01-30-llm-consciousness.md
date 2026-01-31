@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - LLM Consciousness"
+title: Deep Review - LLM Consciousness
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T18:04:00+00:00
+ai_modified: 2026-01-30 18:04:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: LLM Consciousness
-
 **Date**: 2026-01-30
-**File**: obsidian/concepts/llm-consciousness.md
-**Previous review**: 2026-01-29
+**Article**: [[llm-consciousness|LLM Consciousness]]
+**Previous review**: [[deep-review-2026-01-29-llm-consciousness|2026-01-29]]
 **Context**: Cross-review considering symbol-grounding-problem.md insights
 
 ## Pessimistic Analysis Summary

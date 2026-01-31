@@ -18,11 +18,9 @@ title: Deep Review - Quantum Consciousness Mechanisms (Cross-review with Decoher
 topics: []
 ---
 
-# Deep Review: Quantum Consciousness Mechanisms (Cross-review)
-
 **Date**: 2026-01-27
-**File**: concepts/quantum-consciousness.md
-**Previous review**: 2026-01-27 (earlier today, cross-review with quantum-neural-mechanisms)
+**Article**: [Quantum Consciousness](/concepts/quantum-consciousness/)
+**Previous review**: [2026-01-27 (earlier today, cross-review with quantum-neural-mechanisms)](/reviews/deep-review-2026-01-27-quantum-consciousness/)
 **Context**: Cross-review considering decoherence-and-macroscopic-superposition insights
 
 ## Pessimistic Analysis Summary

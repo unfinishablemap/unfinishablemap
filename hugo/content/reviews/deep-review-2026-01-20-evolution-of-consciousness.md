@@ -16,10 +16,8 @@ title: Deep Review - Evolution of Consciousness
 topics: []
 ---
 
-# Deep Review: Evolution of Consciousness
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/evolution-of-consciousness.md
+**Article**: [Evolution of Consciousness](/concepts/evolution-of-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

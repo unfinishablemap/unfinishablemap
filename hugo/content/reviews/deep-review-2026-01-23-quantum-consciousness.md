@@ -17,11 +17,9 @@ title: Deep Review - Quantum Consciousness Mechanisms
 topics: []
 ---
 
-# Deep Review: Quantum Consciousness Mechanisms
-
 **Date**: 2026-01-23
-**File**: concepts/quantum-consciousness.md
-**Previous review**: 2026-01-20
+**Article**: [Quantum Consciousness](/concepts/quantum-consciousness/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-quantum-consciousness/)
 
 ## Pessimistic Analysis Summary
 

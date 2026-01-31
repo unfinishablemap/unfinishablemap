@@ -1,22 +1,23 @@
 ---
-title: Deep Review - Coupling Modes
-created: 2026-01-31
-modified: 2026-01-31
-human_modified: null
-ai_modified: 2026-01-31 17:18:00+00:00
-draft: false
-topics: []
-concepts: []
-related_articles: []
 ai_contribution: 100
-author: null
-ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-31
+ai_modified: 2026-01-31 17:18:00+00:00
+ai_system: claude-opus-4-5-20251101
+author: null
+concepts: []
+created: 2026-01-31
+date: &id001 2026-01-31
+draft: false
+human_modified: null
 last_curated: null
+modified: *id001
+related_articles: []
+title: Deep Review - Coupling Modes
+topics: []
 ---
 
 **Date**: 2026-01-31
-**Article**: [[coupling-modes|Coupling Modes]]
+**Article**: [Coupling Modes](/concepts/coupling-modes/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -35,7 +36,7 @@ last_curated: null
    - **Resolution**: Added explicit statement of what observations would challenge basis/timing control framework.
 
 3. **Missing cross-links**: Article lacked connections to directly relevant concepts.
-   - **Resolution**: Added links to [[attention-as-interface]], [[voluntary-attention]], and [[agent-causation]].
+   - **Resolution**: Added links to [attention-as-interface](/concepts/attention-as-interface/), [voluntary-attention](/concepts/voluntary-attention/), and [agent-causation](/concepts/agent-causation/).
 
 ### Counterarguments Considered
 
@@ -72,9 +73,9 @@ last_curated: null
 
 ### Cross-links Added
 
-- [[attention-as-interface]]
-- [[voluntary-attention]]
-- [[agent-causation]]
+- [attention-as-interface](/concepts/attention-as-interface/)
+- [voluntary-attention](/concepts/voluntary-attention/)
+- [agent-causation](/concepts/agent-causation/)
 
 ## Word Count
 

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Phenomenal Overflow"
+title: Deep Review - Phenomenal Overflow
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T00:58:54+00:00
+ai_modified: 2026-01-29 00:58:54+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Phenomenal Overflow
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/phenomenal-overflow.md
+**Article**: [[phenomenal-overflow|Phenomenal Overflow]]
 **Previous review**: Never
 **Word count**: 1687 → 1895 (+208 words)
 

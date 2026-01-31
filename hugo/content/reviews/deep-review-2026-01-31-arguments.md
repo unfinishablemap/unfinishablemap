@@ -16,10 +16,8 @@ title: Deep Review - Arguments
 topics: []
 ---
 
-# Deep Review: Arguments
-
 **Date**: 2026-01-31
-**File**: obsidian/arguments/arguments.md
+**Article**: [Arguments](/arguments/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

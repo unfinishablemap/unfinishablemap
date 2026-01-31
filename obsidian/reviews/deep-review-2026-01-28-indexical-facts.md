@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Indexical Facts"
+title: Deep Review - Indexical Facts
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-28T15:30:00+00:00
+ai_modified: 2026-01-28 15:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-28
 last_curated: null
 ---
 
-# Deep Review: Indexical Facts
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/indexical-facts.md
+**Article**: [[indexical-facts|Indexical Facts]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

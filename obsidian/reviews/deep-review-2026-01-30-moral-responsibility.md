@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Moral Responsibility"
+title: Deep Review - Moral Responsibility
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T14:49:00+00:00
+ai_modified: 2026-01-30 14:49:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: Moral Responsibility
-
 **Date**: 2026-01-30
-**File**: obsidian/concepts/moral-responsibility.md
-**Previous review**: 2026-01-20
+**Article**: [[moral-responsibility|Moral Responsibility]]
+**Previous review**: [[deep-review-2026-01-20-moral-responsibility|2026-01-20]]
 
 ## Context
 

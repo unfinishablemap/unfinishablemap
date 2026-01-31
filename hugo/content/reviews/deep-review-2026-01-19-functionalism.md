@@ -16,11 +16,9 @@ title: Deep Review - Functionalism
 topics: []
 ---
 
-# Deep Review: Functionalism
-
 **Date**: 2026-01-19
-**File**: obsidian/concepts/functionalism.md
-**Previous review**: 2026-01-19 (earlier pass added minimal-consciousness content)
+**Article**: [Functionalism](/arguments/functionalism/)
+**Previous review**: [2026-01-19 (earlier pass added minimal-consciousness content)](/reviews/deep-review-2026-01-19-functionalism/)
 
 ## Review Session 2 (21:15 UTC)
 

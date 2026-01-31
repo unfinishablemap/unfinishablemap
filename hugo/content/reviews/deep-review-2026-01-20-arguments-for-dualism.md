@@ -16,10 +16,8 @@ title: Deep Review - Arguments for Dualism
 topics: []
 ---
 
-# Deep Review: Arguments for Dualism
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/arguments-for-dualism.md
+**Article**: [Arguments for Dualism](/concepts/arguments-for-dualism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

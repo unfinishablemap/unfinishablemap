@@ -16,10 +16,8 @@ title: Deep Review - LLM Consciousness
 topics: []
 ---
 
-# Deep Review: LLM Consciousness
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/llm-consciousness.md
+**Article**: [LLM Consciousness](/concepts/llm-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

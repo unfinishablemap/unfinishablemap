@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Luck Objection to Libertarian Free Will"
+title: Deep Review - The Luck Objection to Libertarian Free Will
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T03:00:00+00:00
+ai_modified: 2026-01-21 03:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-21
 last_curated: null
 ---
 
-# Deep Review: The Luck Objection to Libertarian Free Will
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/luck-objection.md
+**Article**: [[luck-objection|The Luck Objection to Libertarian Free Will]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

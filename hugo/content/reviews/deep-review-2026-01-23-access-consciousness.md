@@ -16,10 +16,8 @@ title: Deep Review - Access Consciousness
 topics: []
 ---
 
-# Deep Review: Access Consciousness
-
 **Date**: 2026-01-23
-**File**: concepts/access-consciousness.md
+**Article**: [Access Consciousness](/concepts/access-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,14 +1,14 @@
 ---
-title: "Deep Review - Stapp's Quantum Mind Model"
+title: Deep Review - Stapp's Quantum Mind Model
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T15:30:00+00:00
+ai_modified: 2026-01-27 15:30:00+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
-  - "[[stapp-quantum-mind]]"
+- '[[stapp-quantum-mind]]'
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -16,11 +16,9 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Stapp's Quantum Mind Model
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/stapp-quantum-mind.md
-**Previous review**: 2026-01-22
+**Article**: [[stapp-quantum-mind|Stapp's Quantum Mind Model]]
+**Previous review**: [[deep-review-2026-01-22-stapp-quantum-mind|2026-01-22]]
 **Context**: Cross-review considering quantum-biology updates
 
 ## Pessimistic Analysis Summary

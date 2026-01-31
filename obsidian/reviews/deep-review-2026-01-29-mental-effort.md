@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Mental Effort and the Quantum Zeno Effect"
+title: Deep Review - Mental Effort and the Quantum Zeno Effect
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T21:15:00+00:00
+ai_modified: 2026-01-29 21:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Mental Effort and the Quantum Zeno Effect
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/mental-effort.md
-**Previous review**: 2026-01-20
+**Article**: [[mental-effort|Mental Effort and the Quantum Zeno Effect]]
+**Previous review**: [[deep-review-2026-01-20-mental-effort|2026-01-20]]
 **Cross-review context**: neuroplasticity.md (new article created 2026-01-29)
 
 ## Pessimistic Analysis Summary

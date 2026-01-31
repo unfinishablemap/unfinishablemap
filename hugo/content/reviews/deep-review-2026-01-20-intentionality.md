@@ -16,10 +16,8 @@ title: Deep Review - Intentionality
 topics: []
 ---
 
-# Deep Review: Intentionality
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/intentionality.md
+**Article**: [Intentionality](/concepts/intentionality/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

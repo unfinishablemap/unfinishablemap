@@ -16,10 +16,8 @@ title: Deep Review - The Asymmetry Between Remembering and Anticipating
 topics: []
 ---
 
-# Deep Review: The Asymmetry Between Remembering and Anticipating
-
 **Date**: 2026-01-29
-**File**: obsidian/voids/temporal-asymmetry-remembering-anticipating.md
+**Article**: [The Asymmetry Between Remembering and Anticipating](/voids/temporal-asymmetry-remembering-anticipating/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

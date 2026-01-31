@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Aesthetic Dimension of Consciousness"
+title: Deep Review - The Aesthetic Dimension of Consciousness
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T05:30:00+00:00
+ai_modified: 2026-01-22 05:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-22
 last_curated: null
 ---
 
-# Deep Review: The Aesthetic Dimension of Consciousness
-
 **Date**: 2026-01-22
-**File**: obsidian/topics/aesthetic-dimension-of-consciousness.md
+**Article**: [[aesthetic-dimension-of-consciousness|The Aesthetic Dimension of Consciousness]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Consciousness-Selecting Neural Patterns"
+title: Deep Review - Consciousness-Selecting Neural Patterns
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T00:13:00+00:00
+ai_modified: 2026-01-31 00:13:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-31
 last_curated: null
 ---
 
-# Deep Review: Consciousness-Selecting Neural Patterns
-
 **Date**: 2026-01-31
-**File**: obsidian/concepts/consciousness-selecting-neural-patterns.md
-**Previous review**: 2026-01-20
+**Article**: [[consciousness-selecting-neural-patterns|Consciousness-Selecting Neural Patterns]]
+**Previous review**: [[deep-review-2026-01-20-consciousness-selecting-neural-patterns|2026-01-20]]
 **Word count**: 2861 words (114% of 2500 soft threshold)
 
 ## Pessimistic Analysis Summary

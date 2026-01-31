@@ -16,11 +16,9 @@ title: Deep Review - Global Workspace Theory
 topics: []
 ---
 
-# Deep Review: Global Workspace Theory
-
 **Date**: 2026-01-29
-**File**: concepts/global-workspace-theory.md
-**Previous review**: 2026-01-19
+**Article**: [Global Workspace Theory](/concepts/global-workspace-theory/)
+**Previous review**: [2026-01-19](/reviews/deep-review-2026-01-19-global-workspace-theory/)
 **Cross-review context**: IIT critique article (integrated-information-theory-critique.md)
 
 ## Pessimistic Analysis Summary

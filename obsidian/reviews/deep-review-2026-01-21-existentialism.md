@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Existentialism"
+title: Deep Review - Existentialism
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T00:15:00+00:00
+ai_modified: 2026-01-21 00:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-21
 last_curated: null
 ---
 
-# Deep Review: Existentialism
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/existentialism.md
-**Previous review**: 2026-01-14 (6 days ago)
+**Article**: [[existentialism|Existentialism]]
+**Previous review**: [[deep-review-2026-01-14-existentialism|2026-01-14 (6 days ago)]]
 
 ## Pessimistic Analysis Summary
 

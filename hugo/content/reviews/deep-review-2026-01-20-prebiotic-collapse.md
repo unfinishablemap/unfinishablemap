@@ -16,10 +16,8 @@ title: Deep Review - Prebiotic Collapse
 topics: []
 ---
 
-# Deep Review: Prebiotic Collapse
-
 **Date**: 2026-01-20
-**File**: concepts/prebiotic-collapse.md
+**Article**: [Prebiotic Collapse](/concepts/prebiotic-collapse/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

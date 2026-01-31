@@ -16,10 +16,8 @@ title: Deep Review - Quantum Probability and Consciousness
 topics: []
 ---
 
-# Deep Review: Quantum Probability and Consciousness
-
 **Date**: 2026-01-24
-**File**: concepts/quantum-probability-and-consciousness.md
+**Article**: [Quantum Probability And Consciousness](/archive/concepts/quantum-probability-and-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

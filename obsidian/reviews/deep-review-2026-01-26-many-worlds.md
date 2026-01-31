@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Many-Worlds Interpretation"
+title: Deep Review - The Many-Worlds Interpretation
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T13:00:00+00:00
+ai_modified: 2026-01-26 13:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: The Many-Worlds Interpretation
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/many-worlds.md
-**Previous review**: 2026-01-22
+**Article**: [[many-worlds|The Many-Worlds Interpretation]]
+**Previous review**: [[deep-review-2026-01-22-many-worlds|2026-01-22]]
 
 ## Pessimistic Analysis Summary
 

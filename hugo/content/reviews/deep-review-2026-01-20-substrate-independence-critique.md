@@ -16,10 +16,8 @@ title: Deep Review - Critique of Substrate Independence
 topics: []
 ---
 
-# Deep Review: Critique of Substrate Independence
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/substrate-independence-critique.md
+**Article**: [Critique of Substrate Independence](/concepts/substrate-independence-critique/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

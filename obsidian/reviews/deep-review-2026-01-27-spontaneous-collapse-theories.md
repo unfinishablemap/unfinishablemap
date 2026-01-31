@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Spontaneous Collapse Theories"
+title: Deep Review - Spontaneous Collapse Theories
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T19:45:00+00:00
+ai_modified: 2026-01-27 19:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Spontaneous Collapse Theories
-
 **Date**: 2026-01-27 (second review)
-**File**: obsidian/concepts/spontaneous-collapse-theories.md
-**Previous review**: 2026-01-27 (earlier same day)
+**Article**: [[spontaneous-collapse-theories|Spontaneous Collapse Theories]]
+**Previous review**: [[deep-review-2026-01-27-spontaneous-collapse-theories|2026-01-27 (earlier same day)]]
 **Context**: Cross-review considering quantum-neural-mechanisms.md
 
 ## Pessimistic Analysis Summary

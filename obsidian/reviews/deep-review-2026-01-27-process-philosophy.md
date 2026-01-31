@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Process Philosophy"
+title: Deep Review - Process Philosophy
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T19:30:00+00:00
+ai_modified: 2026-01-27 19:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Process Philosophy
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/process-philosophy.md
+**Article**: [[process-philosophy|Process Philosophy]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

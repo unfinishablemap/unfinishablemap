@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Quantum Binding: Experimental Evidence"
+title: 'Deep Review - Quantum Binding: Experimental Evidence'
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-24T08:20:00+00:00
+ai_modified: 2026-01-24 08:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-24
 last_curated: null
 ---
 
-# Deep Review: Quantum Binding: Experimental Evidence
-
 **Date**: 2026-01-24
-**File**: concepts/quantum-binding-experimental-evidence.md
+**Article**: [[quantum-binding-experimental-evidence|Quantum Binding Experimental Evidence]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -16,10 +16,8 @@ title: Deep Review - The Meaning of Life
 topics: []
 ---
 
-# Deep Review: The Meaning of Life
-
 **Date**: 2026-01-15
-**File**: obsidian/topics/meaning-of-life.md
+**Article**: [The Meaning of Life](/topics/meaning-of-life/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

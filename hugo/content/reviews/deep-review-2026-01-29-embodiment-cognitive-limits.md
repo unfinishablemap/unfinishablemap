@@ -16,10 +16,8 @@ title: Deep Review - Embodiment and Cognitive Limits
 topics: []
 ---
 
-# Deep Review: Embodiment and Cognitive Limits
-
 **Date**: 2026-01-29
-**File**: obsidian/voids/embodiment-cognitive-limits.md
+**Article**: [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/)
 **Previous review**: Never
 **Word count**: 1557 → ~1630 (+73 words)
 

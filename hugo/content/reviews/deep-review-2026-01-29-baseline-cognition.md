@@ -16,11 +16,9 @@ title: Deep Review - Baseline Cognition
 topics: []
 ---
 
-# Deep Review: Baseline Cognition
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/baseline-cognition.md
-**Previous review**: 2026-01-27
+**Article**: [Baseline Cognition](/archive/topics/baseline-cognition/)
+**Previous review**: [2026-01-27](/reviews/deep-review-2026-01-27-baseline-cognition/)
 **Context**: Cross-review considering counterfactual-reasoning insights
 
 ## Pessimistic Analysis Summary

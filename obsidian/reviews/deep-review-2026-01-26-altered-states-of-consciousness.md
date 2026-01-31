@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Altered States of Consciousness"
+title: Deep Review - Altered States of Consciousness
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T11:49:09+00:00
+ai_modified: 2026-01-26 11:49:09+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: Altered States of Consciousness
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/altered-states-of-consciousness.md
-**Previous review**: 2026-01-19
+**Article**: [[altered-states-of-consciousness|Altered States of Consciousness]]
+**Previous review**: [[deep-review-2026-01-19-altered-states-of-consciousness|2026-01-19]]
 
 ## Pessimistic Analysis Summary
 

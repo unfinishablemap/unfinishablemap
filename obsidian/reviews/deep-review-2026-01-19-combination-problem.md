@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Combination Problem"
+title: Deep Review - The Combination Problem
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T21:00:00+00:00
+ai_modified: 2026-01-19 21:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-19
 last_curated: null
 ---
 
-# Deep Review: The Combination Problem
-
 **Date**: 2026-01-19
-**File**: obsidian/concepts/combination-problem.md
+**Article**: [[combination-problem|The Combination Problem]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

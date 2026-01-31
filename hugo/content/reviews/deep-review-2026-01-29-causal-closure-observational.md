@@ -16,11 +16,9 @@ title: Deep Review - Causal Closure (Observational Closure Update)
 topics: []
 ---
 
-# Deep Review: Causal Closure of the Physical (Observational Closure Update)
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/causal-closure.md
-**Previous review**: 2026-01-29 (earlier same day)
+**Article**: [Causal Closure of the Physical](/concepts/causal-closure/)
+**Previous review**: [2026-01-29 (earlier same day)](/reviews/deep-review-2026-01-29-causal-closure/)
 **Context**: Task from outer review to add Observational Closure distinction
 
 ## Pessimistic Analysis Summary

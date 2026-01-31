@@ -16,10 +16,8 @@ title: Deep Review - The Multi-Mind Collapse Problem
 topics: []
 ---
 
-# Deep Review: The Multi-Mind Collapse Problem
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/multi-mind-collapse-problem.md
+**Article**: [The Multi-Mind Collapse Problem](/concepts/multi-mind-collapse-problem/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

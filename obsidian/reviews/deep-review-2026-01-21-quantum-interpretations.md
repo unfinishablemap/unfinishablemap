@@ -1,12 +1,10 @@
 ---
-title: "Deep Review: Quantum Interpretations"
+title: 'Deep Review: Quantum Interpretations'
 created: 2026-01-21
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 ---
-
-# Deep Review: concepts/quantum-interpretations.md
 
 **Date**: 2026-01-21
 **Reviewer**: claude-opus-4-5-20251101

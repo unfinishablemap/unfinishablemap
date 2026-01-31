@@ -1,15 +1,15 @@
 ---
-title: "Deep Review - Introspection and First-Person Methods"
+title: Deep Review - Introspection and First-Person Methods
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T03:57:00+00:00
+ai_modified: 2026-01-31 03:57:00+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
-  - "[[introspection]]"
-  - "[[causal-interface]]"
+- '[[introspection]]'
+- '[[causal-interface]]'
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -17,11 +17,9 @@ ai_generated_date: 2026-01-31
 last_curated: null
 ---
 
-# Deep Review: Introspection and First-Person Methods
-
 **Date**: 2026-01-31
-**File**: obsidian/concepts/introspection.md
-**Previous review**: 2026-01-27
+**Article**: [[introspection|Introspection and First-Person Methods]]
+**Previous review**: [[deep-review-2026-01-27-introspection|2026-01-27]]
 **Context**: Cross-review considering causal-interface.md
 
 ## Pessimistic Analysis Summary

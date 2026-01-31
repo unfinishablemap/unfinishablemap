@@ -16,10 +16,8 @@ title: Deep Review - Predictive Processing
 topics: []
 ---
 
-# Deep Review: Predictive Processing
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/predictive-processing.md
+**Article**: [Predictive Processing](/concepts/predictive-processing/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

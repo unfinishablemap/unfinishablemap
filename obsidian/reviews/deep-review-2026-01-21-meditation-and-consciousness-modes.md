@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Meditation and Consciousness Modes"
+title: Deep Review - Meditation and Consciousness Modes
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T18:30:00+00:00
+ai_modified: 2026-01-21 18:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-21
 last_curated: null
 ---
 
-# Deep Review: Meditation and Consciousness Modes
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/meditation-and-consciousness-modes.md
+**Article**: [[meditation-and-consciousness-modes|Meditation and Consciousness Modes]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

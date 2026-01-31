@@ -16,10 +16,8 @@ title: Deep Review - Quantum Binding and Phenomenal Unity
 topics: []
 ---
 
-# Deep Review: Quantum Binding and Phenomenal Unity
-
 **Date**: 2026-01-21
-**File**: obsidian/topics/quantum-binding-and-phenomenal-unity.md
+**Article**: [Quantum Binding and Phenomenal Unity](/topics/quantum-binding-and-phenomenal-unity/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -16,11 +16,9 @@ title: Deep Review - Computational Cognitive Limits
 topics: []
 ---
 
-# Deep Review: Computational Cognitive Limits
-
 **Date**: 2026-01-31
-**File**: obsidian/voids/computational-cognitive-limits.md
-**Previous review**: 2026-01-29
+**Article**: [Computational Cognitive Limits](/voids/computational-cognitive-limits/)
+**Previous review**: [2026-01-29](/reviews/deep-review-2026-01-29-computational-cognitive-limits/)
 **Context**: Cross-review with new incompleteness research (voids-incompleteness-void-2026-01-31.md)
 
 ## Pessimistic Analysis Summary

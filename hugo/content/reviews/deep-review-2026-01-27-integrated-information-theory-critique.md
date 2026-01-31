@@ -16,10 +16,8 @@ title: Deep Review - Why Integrated Information Theory Falls Short
 topics: []
 ---
 
-# Deep Review: Why Integrated Information Theory Falls Short
-
 **Date**: 2026-01-27
-**File**: obsidian/topics/integrated-information-theory-critique.md
+**Article**: [Why Integrated Information Theory Falls Short](/topics/integrated-information-theory-critique/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

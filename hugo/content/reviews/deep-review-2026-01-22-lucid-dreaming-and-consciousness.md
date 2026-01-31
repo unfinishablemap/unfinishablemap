@@ -16,10 +16,8 @@ title: Deep Review - Lucid Dreaming and Consciousness
 topics: []
 ---
 
-# Deep Review: Lucid Dreaming and Consciousness
-
 **Date**: 2026-01-22
-**File**: obsidian/topics/lucid-dreaming-and-consciousness.md
+**Article**: [Lucid Dreaming and Consciousness](/topics/lucid-dreaming-and-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

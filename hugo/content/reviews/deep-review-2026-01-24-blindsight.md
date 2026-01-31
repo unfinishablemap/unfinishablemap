@@ -16,10 +16,8 @@ title: Deep Review - Blindsight
 topics: []
 ---
 
-# Deep Review: Blindsight
-
 **Date**: 2026-01-24
-**File**: obsidian/concepts/blindsight.md
+**Article**: [Blindsight](/concepts/blindsight/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

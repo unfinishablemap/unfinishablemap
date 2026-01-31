@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Knowledge Argument (Mary's Room)"
+title: Deep Review - The Knowledge Argument (Mary's Room)
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T10:15:00+00:00
+ai_modified: 2026-01-20 10:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: The Knowledge Argument (Mary's Room)
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/knowledge-argument.md
+**Article**: [[knowledge-argument|The Knowledge Argument (Mary's Room)]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

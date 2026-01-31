@@ -16,10 +16,8 @@ title: Deep Review - Intuitive Dualism
 topics: []
 ---
 
-# Deep Review: Intuitive Dualism
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/intuitive-dualism.md
+**Article**: [Intuitive Dualism](/concepts/intuitive-dualism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

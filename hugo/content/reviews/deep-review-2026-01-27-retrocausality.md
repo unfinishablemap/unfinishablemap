@@ -16,11 +16,9 @@ title: Deep Review - Retrocausality
 topics: []
 ---
 
-# Deep Review: Retrocausality
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/retrocausality.md
-**Previous review**: 2026-01-21
+**Article**: [Retrocausality](/concepts/retrocausality/)
+**Previous review**: [2026-01-21](/reviews/deep-review-2026-01-21-retrocausality/)
 **Context**: Cross-review considering presentiment-and-retrocausality insights
 
 ## Pessimistic Analysis Summary

@@ -17,10 +17,8 @@ title: Deep Review - Apophatic Approaches
 topics: []
 ---
 
-# Deep Review: Apophatic Approaches
-
 **Date**: 2026-01-20
-**File**: obsidian/voids/apophatic-approaches.md
+**Article**: [Apophatic Approaches: Knowing Through Negation](/voids/apophatic-approaches/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

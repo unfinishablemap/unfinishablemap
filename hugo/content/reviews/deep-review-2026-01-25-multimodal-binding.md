@@ -16,10 +16,8 @@ title: Deep Review - Multimodal Binding
 topics: []
 ---
 
-# Deep Review: Multimodal Binding
-
 **Date**: 2026-01-25
-**File**: obsidian/concepts/multimodal-binding.md
+**Article**: [Multimodal Binding](/concepts/multimodal-binding/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

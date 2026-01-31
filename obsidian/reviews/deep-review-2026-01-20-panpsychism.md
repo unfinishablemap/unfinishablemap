@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Panpsychism"
+title: Deep Review - Panpsychism
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T00:30:00+00:00
+ai_modified: 2026-01-20 00:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: Panpsychism
-
 **Date**: 2026-01-20
-**File**: concepts/panpsychism.md
+**Article**: [[panpsychism|Panpsychism]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

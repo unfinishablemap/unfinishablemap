@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Measurement Problem"
+title: Deep Review - The Measurement Problem
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T14:15:00+00:00
+ai_modified: 2026-01-19 14:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-19
 last_curated: null
 ---
 
-# Deep Review: The Measurement Problem
-
 **Date**: 2026-01-19
-**File**: obsidian/concepts/measurement-problem.md
+**Article**: [[measurement-problem|The Measurement Problem]]
 **Previous review**: Never
 **Type**: Cross-review (integrating many-worlds.md arguments)
 

@@ -16,10 +16,8 @@ title: Deep Review - Death and Consciousness
 topics: []
 ---
 
-# Deep Review: Death and Consciousness
-
 **Date**: 2026-01-20
-**File**: obsidian/topics/death-and-consciousness.md
+**Article**: [Death and Consciousness](/topics/death-and-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

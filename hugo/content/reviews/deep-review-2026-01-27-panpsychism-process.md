@@ -16,11 +16,9 @@ title: Deep Review - Panpsychism (Process Philosophy Cross-Review)
 topics: []
 ---
 
-# Deep Review: Panpsychism (Process Philosophy Cross-Review)
-
 **Date**: 2026-01-27
-**File**: concepts/panpsychism.md
-**Previous review**: 2026-01-27 (intrinsic nature void cross-review)
+**Article**: [Panpsychism](/concepts/panpsychism/)
+**Previous review**: [2026-01-27 (intrinsic nature void cross-review)](/reviews/deep-review-2026-01-27-panpsychism/)
 **Context**: Cross-review considering process-philosophy connections
 
 ## Pessimistic Analysis Summary

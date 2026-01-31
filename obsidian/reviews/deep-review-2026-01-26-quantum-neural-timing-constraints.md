@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Quantum Neural Timing Constraints"
+title: Deep Review - Quantum Neural Timing Constraints
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T12:00:00+00:00
+ai_modified: 2026-01-26 12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: Quantum Neural Timing Constraints
-
 **Date**: 2026-01-26
-**File**: obsidian/topics/quantum-neural-timing-constraints.md
+**Article**: [[quantum-neural-timing-constraints|Quantum Neural Timing Constraints]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

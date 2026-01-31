@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Materialism"
+title: Deep Review - Materialism
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T18:30:00+00:00
+ai_modified: 2026-01-20 18:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: Materialism
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/materialism.md
+**Article**: [[materialism|Materialism]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

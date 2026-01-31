@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Phenomenology"
+title: Deep Review - Phenomenology
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-24T04:45:00+00:00
+ai_modified: 2026-01-24 04:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-24
 last_curated: null
 ---
 
-# Deep Review: Phenomenology
-
 **Date**: 2026-01-24
-**File**: obsidian/concepts/phenomenology.md
-**Previous review**: 2026-01-20
+**Article**: [[phenomenology|Phenomenology]]
+**Previous review**: [[deep-review-2026-01-20-phenomenology|2026-01-20]]
 
 ## Pessimistic Analysis Summary
 

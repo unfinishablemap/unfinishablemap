@@ -16,10 +16,8 @@ title: Deep Review - Inverted Qualia
 topics: []
 ---
 
-# Deep Review: Inverted Qualia
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/inverted-qualia.md
+**Article**: [Inverted Qualia](/concepts/inverted-qualia/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

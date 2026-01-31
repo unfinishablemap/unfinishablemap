@@ -1,14 +1,14 @@
 ---
-title: "Deep Review - Quantum Biology and the Consciousness Debate"
+title: Deep Review - Quantum Biology and the Consciousness Debate
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T20:08:10+00:00
+ai_modified: 2026-01-27 20:08:10+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
-  - "[[quantum-biology-and-the-consciousness-debate]]"
+- '[[quantum-biology-and-the-consciousness-debate]]'
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -16,10 +16,8 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Quantum Biology and the Consciousness Debate
-
 **Date**: 2026-01-27
-**File**: obsidian/topics/quantum-biology-and-the-consciousness-debate.md
+**Article**: [[quantum-biology-and-the-consciousness-debate|Quantum Biology and the Consciousness Debate]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

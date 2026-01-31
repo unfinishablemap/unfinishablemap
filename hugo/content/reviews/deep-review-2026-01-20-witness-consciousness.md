@@ -16,10 +16,8 @@ title: Deep Review - Witness Consciousness
 topics: []
 ---
 
-# Deep Review: Witness Consciousness
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/witness-consciousness.md
+**Article**: [Witness Consciousness](/concepts/witness-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Decoherence and Macroscopic Superposition"
+title: Deep Review - Decoherence and Macroscopic Superposition
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T18:10:02+00:00
+ai_modified: 2026-01-27 18:10:02+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Decoherence and Macroscopic Superposition
-
 **Date**: 2026-01-27
-**File**: obsidian/topics/decoherence-and-macroscopic-superposition.md
+**Article**: [[decoherence-and-macroscopic-superposition|Decoherence and Macroscopic Superposition]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

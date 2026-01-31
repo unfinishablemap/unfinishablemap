@@ -16,10 +16,8 @@ title: Deep Review - Quantum Measurement and Subjective Probability
 topics: []
 ---
 
-# Deep Review: Quantum Measurement and Subjective Probability
-
 **Date**: 2026-01-27
-**File**: obsidian/topics/quantum-measurement-and-subjective-probability.md
+**Article**: [Quantum Measurement and Subjective Probability](/topics/quantum-measurement-and-subjective-probability/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

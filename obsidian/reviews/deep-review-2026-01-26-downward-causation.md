@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Downward Causation"
+title: Deep Review - Downward Causation
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T19:17:19+00:00
+ai_modified: 2026-01-26 19:17:19+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: Downward Causation
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/downward-causation.md
-**Previous review**: 2026-01-20
+**Article**: [[downward-causation|Downward Causation]]
+**Previous review**: [[deep-review-2026-01-20-downward-causation|2026-01-20]]
 **Cross-review context**: psychophysical-laws-framework.md
 
 ## Pessimistic Analysis Summary

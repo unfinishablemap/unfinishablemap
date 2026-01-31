@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Psychophysical Coupling"
+title: Deep Review - Psychophysical Coupling
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T01:44:52+00:00
+ai_modified: 2026-01-29 01:44:52+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Psychophysical Coupling
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/psychophysical-coupling.md
+**Article**: [[psychophysical-coupling|Psychophysical Coupling]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

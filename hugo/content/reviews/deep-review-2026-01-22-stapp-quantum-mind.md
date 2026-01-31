@@ -17,10 +17,8 @@ title: Deep Review - Stapp's Quantum Mind Model
 topics: []
 ---
 
-# Deep Review: Stapp's Quantum Mind Model
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/stapp-quantum-mind.md
+**Article**: [Stapp's Quantum Mind Model](/concepts/stapp-quantum-mind/)
 **Previous review**: Never
 **Reviewer**: Evolution session 599
 

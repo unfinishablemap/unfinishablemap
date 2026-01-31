@@ -16,10 +16,8 @@ title: Deep Review - Interactionist Dualism
 topics: []
 ---
 
-# Deep Review: Interactionist Dualism
-
 **Date**: 2026-01-19
-**File**: obsidian/concepts/interactionist-dualism.md
+**Article**: [Interactionist Dualism](/archive/arguments/interactionist-dualism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

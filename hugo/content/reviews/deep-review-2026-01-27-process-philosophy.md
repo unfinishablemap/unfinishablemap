@@ -16,10 +16,8 @@ title: Deep Review - Process Philosophy
 topics: []
 ---
 
-# Deep Review: Process Philosophy
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/process-philosophy.md
+**Article**: [Process Philosophy](/concepts/process-philosophy/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

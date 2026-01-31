@@ -16,11 +16,9 @@ title: Deep Review - Cognitive Phenomenology
 topics: []
 ---
 
-# Deep Review: Cognitive Phenomenology
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/cognitive-phenomenology.md
-**Previous review**: 2026-01-20
+**Article**: [Cognitive Phenomenology](/concepts/cognitive-phenomenology/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-cognitive-phenomenology/)
 **Cross-review context**: Language-thought boundary insights from [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/), [language-thought-boundary](/voids/language-thought-boundary/), and voids research
 
 ## Pessimistic Analysis Summary

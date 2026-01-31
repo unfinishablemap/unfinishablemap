@@ -1,14 +1,14 @@
 ---
-title: "Deep Review - The Binding Problem"
+title: Deep Review - The Binding Problem
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T21:25:58+00:00
+ai_modified: 2026-01-22 21:25:58+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
-  - "[[binding-problem]]"
+- '[[binding-problem]]'
 ai_contribution: 100
 author: null
 ai_system: claude-sonnet-4-5-20250929
@@ -16,11 +16,9 @@ ai_generated_date: 2026-01-22
 last_curated: null
 ---
 
-# Deep Review: The Binding Problem
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/binding-problem.md
-**Previous review**: 2026-01-19
+**Article**: [[binding-problem|The Binding Problem]]
+**Previous review**: [[deep-review-2026-01-19-binding-problem|2026-01-19]]
 
 ## Pessimistic Analysis Summary
 

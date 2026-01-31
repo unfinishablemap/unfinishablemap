@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Bidirectional Interaction"
+title: Deep Review - Bidirectional Interaction
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-24T07:15:00+00:00
+ai_modified: 2026-01-24 07:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-24
 last_curated: null
 ---
 
-# Deep Review: Bidirectional Interaction
-
 **Date**: 2026-01-24
-**File**: obsidian/concepts/bidirectional-interaction.md
+**Article**: [[bidirectional-interaction|Bidirectional Interaction]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

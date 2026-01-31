@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Cognitive Phenomenology"
+title: Deep Review - Cognitive Phenomenology
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T19:30:00+00:00
+ai_modified: 2026-01-20 19:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: Cognitive Phenomenology
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/cognitive-phenomenology.md
+**Article**: [[cognitive-phenomenology|Cognitive Phenomenology]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

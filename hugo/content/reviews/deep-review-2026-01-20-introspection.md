@@ -17,10 +17,8 @@ title: Deep Review - Introspection and First-Person Methods
 topics: []
 ---
 
-# Deep Review: Introspection and First-Person Methods
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/introspection.md
+**Article**: [Introspection and First-Person Methods](/concepts/introspection/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

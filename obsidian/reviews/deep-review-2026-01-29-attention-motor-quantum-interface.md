@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Attention-Motor Quantum Interface"
+title: Deep Review - Attention-Motor Quantum Interface
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T15:54:19+00:00
+ai_modified: 2026-01-29 15:54:19+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Attention-Motor Quantum Interface
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/attention-motor-quantum-interface.md
-**Previous review**: 2026-01-26 (of earlier version; article was recreated 2026-01-29 via expand-topic after coalesce)
+**Article**: [[attention-motor-quantum-interface|Attention-Motor Quantum Interface]]
+**Previous review**: [[deep-review-2026-01-26-attention-motor-quantum-interface|2026-01-26 (of earlier version; article was recreated 2026-01-29 via expand-topic after coalesce)]]
 
 ## Context
 

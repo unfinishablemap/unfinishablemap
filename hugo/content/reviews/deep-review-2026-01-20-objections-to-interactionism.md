@@ -16,10 +16,8 @@ title: Deep Review - Objections to Interactionist Dualism
 topics: []
 ---
 
-# Deep Review: Objections to Interactionist Dualism
-
 **Date**: 2026-01-20
-**File**: `concepts/objections-to-interactionism.md`
+**Article**: [Objections To Interactionism](/concepts/objections-to-interactionism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

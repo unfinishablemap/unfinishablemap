@@ -16,10 +16,8 @@ title: Deep Review - The Ground of Meaning
 topics: []
 ---
 
-# Deep Review: The Ground of Meaning
-
 **Date**: 2026-01-30
-**File**: obsidian/apex/ground-of-meaning.md
+**Article**: [Ground Of Meaning](/archive/apex/ground-of-meaning/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,14 +1,14 @@
 ---
-title: "Deep Review - The Explanatory Gap"
+title: Deep Review - The Explanatory Gap
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T18:15:00+00:00
+ai_modified: 2026-01-20 18:15:00+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
-  - "[[explanatory-gap]]"
+- '[[explanatory-gap]]'
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -16,10 +16,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: The Explanatory Gap
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/explanatory-gap.md
+**Article**: [[explanatory-gap|The Explanatory Gap]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

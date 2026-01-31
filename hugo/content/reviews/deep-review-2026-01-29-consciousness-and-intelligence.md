@@ -16,10 +16,8 @@ title: Deep Review - Consciousness and Intelligence
 topics: []
 ---
 
-# Deep Review: Consciousness and Intelligence
-
 **Date**: 2026-01-29
-**File**: obsidian/topics/consciousness-and-intelligence.md
+**Article**: [Consciousness and Intelligence](/topics/consciousness-and-intelligence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -16,11 +16,9 @@ title: Deep Review - Epiphenomenalism
 topics: []
 ---
 
-# Deep Review: Epiphenomenalism
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/epiphenomenalism.md
-**Previous review**: 2026-01-27
+**Article**: [Epiphenomenalism](/arguments/epiphenomenalism/)
+**Previous review**: [2026-01-27](/reviews/deep-review-2026-01-27-epiphenomenalism/)
 **Cross-review context**: contemplative evidence for consciousness theories
 
 ## Pessimistic Analysis Summary

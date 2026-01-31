@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Delegatory Dualism (Second Pass)"
+title: Deep Review - Delegatory Dualism (Second Pass)
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T21:45:00+00:00
+ai_modified: 2026-01-29 21:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Delegatory Dualism (Second Pass)
-
 **Date**: 2026-01-29
-**File**: obsidian/topics/delegatory-dualism.md
-**Previous review**: 2026-01-29
+**Article**: [[delegatory-dualism|Delegatory Dualism]]
+**Previous review**: [[deep-review-2026-01-29-delegatory-dualism|2026-01-29]]
 
 ## Review Context
 

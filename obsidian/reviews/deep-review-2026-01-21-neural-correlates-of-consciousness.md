@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Neural Correlates of Consciousness"
+title: Deep Review - Neural Correlates of Consciousness
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T00:30:00+00:00
+ai_modified: 2026-01-21 00:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-21
 last_curated: null
 ---
 
-# Deep Review: Neural Correlates of Consciousness
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/neural-correlates-of-consciousness.md
+**Article**: [[neural-correlates-of-consciousness|Neural Correlates of Consciousness]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

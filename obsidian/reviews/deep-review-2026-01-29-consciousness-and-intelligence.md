@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Consciousness and Intelligence"
+title: Deep Review - Consciousness and Intelligence
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T21:30:00+00:00
+ai_modified: 2026-01-29 21:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Consciousness and Intelligence
-
 **Date**: 2026-01-29
-**File**: obsidian/topics/consciousness-and-intelligence.md
+**Article**: [[consciousness-and-intelligence|Consciousness and Intelligence]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

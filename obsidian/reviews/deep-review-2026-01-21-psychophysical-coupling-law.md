@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Psychophysical Coupling Law"
+title: Deep Review - The Psychophysical Coupling Law
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T01:30:00+00:00
+ai_modified: 2026-01-21 01:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-21
 last_curated: null
 ---
 
-# Deep Review: The Psychophysical Coupling Law
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/psychophysical-coupling-law.md
+**Article**: [[psychophysical-coupling-law|Psychophysical Coupling Law]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

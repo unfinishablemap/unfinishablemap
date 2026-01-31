@@ -16,10 +16,8 @@ title: Deep Review - Epiphenomenalism
 topics: []
 ---
 
-# Deep Review: Epiphenomenalism
-
 **Date**: 2026-01-19
-**File**: obsidian/concepts/epiphenomenalism.md
+**Article**: [Epiphenomenalism](/arguments/epiphenomenalism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

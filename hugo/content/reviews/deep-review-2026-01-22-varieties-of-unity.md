@@ -16,10 +16,8 @@ title: Deep Review - Varieties of Unity in Consciousness
 topics: []
 ---
 
-# Deep Review: Varieties of Unity in Consciousness
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/varieties-of-unity.md
+**Article**: [Varieties of Unity in Consciousness](/concepts/varieties-of-unity/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

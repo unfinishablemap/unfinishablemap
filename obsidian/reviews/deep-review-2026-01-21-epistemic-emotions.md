@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Epistemic Emotions"
+title: Deep Review - Epistemic Emotions
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T18:48:00+00:00
+ai_modified: 2026-01-21 18:48:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-21
 last_curated: null
 ---
 
-# Deep Review: Epistemic Emotions
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/epistemic-emotions.md
+**Article**: [[epistemic-emotions|Epistemic Emotions]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

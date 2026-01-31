@@ -16,10 +16,8 @@ title: Deep Review - Bidirectional Interaction
 topics: []
 ---
 
-# Deep Review: Bidirectional Interaction
-
 **Date**: 2026-01-24
-**File**: obsidian/concepts/bidirectional-interaction.md
+**Article**: [Bidirectional Interaction](/concepts/bidirectional-interaction/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

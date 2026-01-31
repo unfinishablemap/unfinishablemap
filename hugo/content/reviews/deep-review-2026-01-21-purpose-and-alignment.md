@@ -16,10 +16,8 @@ title: Deep Review - Purpose and AI Alignment
 topics: []
 ---
 
-# Deep Review: Purpose and AI Alignment
-
 **Date**: 2026-01-21
-**File**: obsidian/topics/purpose-and-alignment.md
+**Article**: [Purpose and AI Alignment](/topics/purpose-and-alignment/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

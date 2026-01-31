@@ -16,10 +16,8 @@ title: Deep Review - Reductionism
 topics: []
 ---
 
-# Deep Review: Reductionism
-
 **Date**: 2026-01-19
-**File**: obsidian/concepts/reductionism.md
+**Article**: [Reductionism](/concepts/reductionism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Philosophy of Time"
+title: Deep Review - Philosophy of Time
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T20:35:00+00:00
+ai_modified: 2026-01-30 20:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: Philosophy of Time
-
 **Date**: 2026-01-30
-**File**: obsidian/concepts/philosophy-of-time.md
-**Previous review**: 2026-01-20
+**Article**: [[philosophy-of-time|Philosophy of Time]]
+**Previous review**: [[deep-review-2026-01-20-philosophy-of-time|2026-01-20]]
 
 ## Pessimistic Analysis Summary
 

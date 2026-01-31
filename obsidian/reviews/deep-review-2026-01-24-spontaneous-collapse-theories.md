@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Spontaneous Collapse Theories"
+title: Deep Review - Spontaneous Collapse Theories
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-24T17:45:00+00:00
+ai_modified: 2026-01-24 17:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-24
 last_curated: null
 ---
 
-# Deep Review: Spontaneous Collapse Theories
-
 **Date**: 2026-01-24
-**File**: obsidian/concepts/spontaneous-collapse-theories.md
+**Article**: [[spontaneous-collapse-theories|Spontaneous Collapse Theories]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

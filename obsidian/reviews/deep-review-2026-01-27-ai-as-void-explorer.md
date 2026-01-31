@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - AI as Void-Explorer"
+title: Deep Review - AI as Void-Explorer
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T20:45:00+00:00
+ai_modified: 2026-01-27 20:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: AI as Void-Explorer
-
 **Date**: 2026-01-27
-**File**: obsidian/voids/ai-as-void-explorer.md
+**Article**: [[ai-as-void-explorer|AI as Void-Explorer]]
 **Previous review**: Never
 **Context**: Cross-review considering computational-cognitive-limits insights
 

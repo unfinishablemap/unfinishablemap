@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Agent Causation (Cross-Review for Causal Interface)"
+title: Deep Review - Agent Causation (Cross-Review for Causal Interface)
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T01:51:00+00:00
+ai_modified: 2026-01-31 01:51:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-31
 last_curated: null
 ---
 
-# Deep Review: Agent Causation (Cross-Review for Causal Interface)
-
 **Date**: 2026-01-31
-**File**: obsidian/concepts/agent-causation.md
-**Previous review**: 2026-01-30 (evening, third review)
+**Article**: [[agent-causation|Agent Causation]]
+**Previous review**: [[deep-review-2026-01-30-agent-causation|2026-01-30 (evening, third review)]]
 **Context**: Cross-review considering causal-interface.md insights
 
 ## Pessimistic Analysis Summary

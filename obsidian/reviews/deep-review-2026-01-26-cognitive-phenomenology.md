@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Cognitive Phenomenology"
+title: Deep Review - Cognitive Phenomenology
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T11:09:31+00:00
+ai_modified: 2026-01-26 11:09:31+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: Cognitive Phenomenology
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/cognitive-phenomenology.md
-**Previous review**: 2026-01-20
+**Article**: [[cognitive-phenomenology|Cognitive Phenomenology]]
+**Previous review**: [[deep-review-2026-01-20-cognitive-phenomenology|2026-01-20]]
 **Cross-review context**: Language-thought boundary insights from [[language-recursion-and-consciousness]], [[language-thought-boundary]], and voids research
 
 ## Pessimistic Analysis Summary

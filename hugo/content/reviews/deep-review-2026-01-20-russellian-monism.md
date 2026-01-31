@@ -16,10 +16,8 @@ title: Deep Review - Russellian Monism
 topics: []
 ---
 
-# Deep Review: Russellian Monism
-
 **Date**: 2026-01-20
-**File**: `concepts/russellian-monism.md`
+**Article**: [Russellian Monism](/concepts/russellian-monism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

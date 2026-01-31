@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Machine Consciousness and Mind Uploading"
+title: Deep Review - Machine Consciousness and Mind Uploading
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T02:14:35+00:00
+ai_modified: 2026-01-29 02:14:35+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Machine Consciousness and Mind Uploading
-
 **Date**: 2026-01-29
-**File**: obsidian/topics/machine-consciousness.md
-**Previous review**: 2026-01-25
+**Article**: [[machine-consciousness|Machine Consciousness and Mind Uploading]]
+**Previous review**: [[deep-review-2026-01-25-machine-consciousness|2026-01-25]]
 
 ## Pessimistic Analysis Summary
 

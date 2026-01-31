@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Meaning of Life"
+title: Deep Review - The Meaning of Life
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-15T20:00:00+00:00
+ai_modified: 2026-01-15 20:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-15
 last_curated: null
 ---
 
-# Deep Review: The Meaning of Life
-
 **Date**: 2026-01-15
-**File**: obsidian/topics/meaning-of-life.md
+**Article**: [[meaning-of-life|The Meaning of Life]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

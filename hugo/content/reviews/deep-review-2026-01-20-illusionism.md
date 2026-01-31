@@ -16,10 +16,8 @@ title: Deep Review - Illusionism
 topics: []
 ---
 
-# Deep Review: Illusionism
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/illusionism.md
+**Article**: [Illusionism](/concepts/illusionism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

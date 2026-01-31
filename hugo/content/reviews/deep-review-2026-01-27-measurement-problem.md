@@ -16,11 +16,9 @@ title: Deep Review - The Measurement Problem
 topics: []
 ---
 
-# Deep Review: The Measurement Problem
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/measurement-problem.md
-**Previous review**: 2026-01-26
+**Article**: [The Measurement Problem](/concepts/measurement-problem/)
+**Previous review**: [2026-01-26](/reviews/deep-review-2026-01-26-measurement-problem/)
 **Context**: Cross-review considering prebiotic-collapse insights
 **Word count**: 2494 → 2502 (+8 words, at 100% of soft threshold)
 

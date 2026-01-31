@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Specious Present"
+title: Deep Review - The Specious Present
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T23:30:00+00:00
+ai_modified: 2026-01-21 23:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-21
 last_curated: null
 ---
 
-# Deep Review: The Specious Present
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/specious-present.md
+**Article**: [[specious-present|The Specious Present]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

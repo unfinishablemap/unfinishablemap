@@ -16,10 +16,8 @@ title: Deep Review - The Explanatory Frontier
 topics: []
 ---
 
-# Deep Review: The Explanatory Frontier
-
 **Date**: 2026-01-30
-**File**: obsidian/apex/explanatory-frontier.md
+**Article**: [Explanatory Frontier](/archive/apex/explanatory-frontier/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -16,10 +16,8 @@ title: Deep Review - Consciousness
 topics: []
 ---
 
-# Deep Review: Consciousness
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/consciousness.md
+**Article**: [Consciousness](/concepts/consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

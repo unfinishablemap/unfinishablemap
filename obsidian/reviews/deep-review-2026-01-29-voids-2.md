@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Voids in the Map (Cross-Review)"
+title: Deep Review - Voids in the Map (Cross-Review)
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T17:09:07+00:00
+ai_modified: 2026-01-29 17:09:07+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Voids in the Map
-
 **Date**: 2026-01-29
-**File**: obsidian/voids/voids.md
-**Previous review**: 2026-01-29 (cross-review with topology-of-cognitive-failure.md)
+**Article**: [[voids|Voids in the Map]]
+**Previous review**: [[deep-review-2026-01-29-voids|2026-01-29 (cross-review with topology-of-cognitive-failure.md)]]
 **Context**: Cross-review considering new origin-of-consciousness.md article
 **Word count**: 2030 → 2025 (-5 words, length-neutral mode)
 

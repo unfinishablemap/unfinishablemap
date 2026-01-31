@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Explanatory Frontier"
+title: Deep Review - The Explanatory Frontier
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T12:14:00+00:00
+ai_modified: 2026-01-30 12:14:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: The Explanatory Frontier
-
 **Date**: 2026-01-30
-**File**: obsidian/apex/explanatory-frontier.md
+**Article**: [[explanatory-frontier|Explanatory Frontier]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

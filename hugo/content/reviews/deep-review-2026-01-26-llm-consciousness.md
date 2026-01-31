@@ -16,11 +16,9 @@ title: Deep Review - LLM Consciousness
 topics: []
 ---
 
-# Deep Review: LLM Consciousness
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/llm-consciousness.md
-**Previous review**: 2026-01-20
+**Article**: [LLM Consciousness](/concepts/llm-consciousness/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-llm-consciousness/)
 **Context**: Cross-review considering AI void-exploration insights
 
 ## Pessimistic Analysis Summary

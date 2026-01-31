@@ -16,11 +16,9 @@ title: Deep Review - Quantum Measurement Interpretations Beyond Many-Worlds
 topics: []
 ---
 
-# Deep Review: Quantum Measurement Interpretations Beyond Many-Worlds
-
 **Date**: 2026-01-28
-**File**: obsidian/topics/quantum-measurement-interpretations-beyond-mwi.md
-**Previous review**: 2026-01-25
+**Article**: [Quantum Measurement Interpretations Beyond Many-Worlds](/topics/quantum-measurement-interpretations-beyond-mwi/)
+**Previous review**: [2026-01-25](/reviews/deep-review-2026-01-25-quantum-measurement-interpretations-beyond-mwi/)
 **Cross-review context**: quantum-measurement-and-subjective-probability.md insights
 
 ## Pessimistic Analysis Summary

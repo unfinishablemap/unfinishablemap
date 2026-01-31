@@ -16,11 +16,9 @@ title: Deep Review - Phenomenal Unity
 topics: []
 ---
 
-# Deep Review: Phenomenal Unity
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/phenomenal-unity.md
-**Previous review**: 2026-01-20
+**Article**: [Phenomenal Unity](/concepts/phenomenal-unity/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-phenomenal-unity/)
 
 ## Pessimistic Analysis Summary
 

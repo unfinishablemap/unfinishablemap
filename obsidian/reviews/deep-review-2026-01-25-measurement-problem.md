@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Measurement Problem"
+title: Deep Review - The Measurement Problem
 created: 2026-01-25
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-25T20:51:17+00:00
+ai_modified: 2026-01-25 20:51:17+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-25
 last_curated: null
 ---
 
-# Deep Review: The Measurement Problem
-
 **Date**: 2026-01-25
-**File**: obsidian/concepts/measurement-problem.md
-**Previous review**: 2026-01-25T21:15:00+00:00
+**Article**: [[measurement-problem|The Measurement Problem]]
+**Previous review**: [[deep-review-2026-01-25-measurement-problem|2026-01-25T21:15:00+00:00]]
 **Word count**: 2540 → 2444 (-96 words, now at 98% of soft threshold)
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Agent Causation (Cross-Review for Process and Consciousness)"
+title: Deep Review - Agent Causation (Cross-Review for Process and Consciousness)
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T10:08:00+00:00
+ai_modified: 2026-01-31 10:08:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-31
 last_curated: null
 ---
 
-# Deep Review: Agent Causation (Cross-Review for Process and Consciousness)
-
 **Date**: 2026-01-31
-**File**: obsidian/concepts/agent-causation.md
-**Previous review**: 2026-01-31 (cross-review for causal-interface)
+**Article**: [[agent-causation|Agent Causation]]
+**Previous review**: [[deep-review-2026-01-31-agent-causation|2026-01-31 (cross-review for causal-interface)]]
 **Context**: Cross-review considering process-and-consciousness apex article
 
 ## Pessimistic Analysis Summary

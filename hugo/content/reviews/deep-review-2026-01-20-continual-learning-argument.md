@@ -16,10 +16,8 @@ title: Deep Review - Continual Learning Argument
 topics: []
 ---
 
-# Deep Review: Continual Learning Argument
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/continual-learning-argument.md
+**Article**: [Continual Learning Argument](/concepts/continual-learning-argument/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

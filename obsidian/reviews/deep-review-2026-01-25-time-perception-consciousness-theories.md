@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Time Perception and Consciousness Theories"
+title: Deep Review - Time Perception and Consciousness Theories
 created: 2026-01-25
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-25T09:45:00+00:00
+ai_modified: 2026-01-25 09:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-25
 last_curated: null
 ---
 
-# Deep Review: Time Perception and Consciousness Theories
-
 **Date**: 2026-01-25
-**File**: obsidian/topics/time-perception-consciousness-theories.md
+**Article**: [[time-perception-consciousness-theories|Time Perception and Consciousness Theories]]
 **Previous review**: Never
 **Word count**: 2108 → 2722 (+614 words, +29%)
 

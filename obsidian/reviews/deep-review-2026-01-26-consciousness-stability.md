@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Consciousness (Stability Check)"
+title: Deep Review - Consciousness (Stability Check)
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T08:23:55+00:00
+ai_modified: 2026-01-26 08:23:55+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: Consciousness (Stability Check)
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/consciousness.md
-**Previous review**: 2026-01-26 (earlier today)
+**Article**: [[consciousness|Consciousness]]
+**Previous review**: [[deep-review-2026-01-26-consciousness|2026-01-26 (earlier today)]]
 
 ## Review Outcome
 

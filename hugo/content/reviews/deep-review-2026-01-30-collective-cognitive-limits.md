@@ -16,10 +16,8 @@ title: Deep Review - Collective Cognitive Limits
 topics: []
 ---
 
-# Deep Review: Collective Cognitive Limits
-
 **Date**: 2026-01-30
-**File**: obsidian/voids/collective-cognitive-limits.md
+**Article**: [Collective Cognitive Limits](/voids/collective-cognitive-limits/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

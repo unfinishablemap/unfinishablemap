@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Against Many-Worlds"
+title: Deep Review - Against Many-Worlds
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T01:00:00+00:00
+ai_modified: 2026-01-22 01:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-22
 last_curated: null
 ---
 
-# Deep Review: Against Many-Worlds
-
 **Date**: 2026-01-22
-**File**: obsidian/arguments/many-worlds.md
+**Article**: [[many-worlds|Against Many-Worlds]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -16,10 +16,8 @@ title: Deep Review - The Unity of Consciousness
 topics: []
 ---
 
-# Deep Review: The Unity of Consciousness
-
 **Date**: 2026-01-24
-**File**: obsidian/concepts/unity-of-consciousness.md
+**Article**: [The Unity of Consciousness](/concepts/unity-of-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

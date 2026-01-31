@@ -1,14 +1,14 @@
 ---
-title: "Deep Review - Heterophenomenology"
+title: Deep Review - Heterophenomenology
 created: 2026-01-25
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-25T19:31:47+00:00
+ai_modified: 2026-01-25 19:31:47+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
-  - "[[heterophenomenology]]"
+- '[[heterophenomenology]]'
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -16,10 +16,8 @@ ai_generated_date: 2026-01-25
 last_curated: null
 ---
 
-# Deep Review: Heterophenomenology
-
 **Date**: 2026-01-25
-**File**: obsidian/concepts/heterophenomenology.md
+**Article**: [[heterophenomenology|Heterophenomenology]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

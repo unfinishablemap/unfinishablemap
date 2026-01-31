@@ -16,10 +16,8 @@ title: Deep Review - The Origin Void
 topics: []
 ---
 
-# Deep Review: The Origin Void
-
 **Date**: 2026-01-29
-**File**: obsidian/voids/origin-of-consciousness.md
+**Article**: [The Origin Void](/voids/origin-of-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

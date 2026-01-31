@@ -1,14 +1,14 @@
 ---
-title: "Deep Review - Introspection and First-Person Methods"
+title: Deep Review - Introspection and First-Person Methods
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T08:30:00+00:00
+ai_modified: 2026-01-20 08:30:00+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
-  - "[[introspection]]"
+- '[[introspection]]'
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -16,10 +16,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: Introspection and First-Person Methods
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/introspection.md
+**Article**: [[introspection|Introspection and First-Person Methods]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

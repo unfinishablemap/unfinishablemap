@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Intrinsic Nature Void"
+title: Deep Review - The Intrinsic Nature Void
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-28T15:05:44+00:00
+ai_modified: 2026-01-28 15:05:44+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-28
 last_curated: null
 ---
 
-# Deep Review: The Intrinsic Nature Void
-
 **Date**: 2026-01-28
-**File**: obsidian/voids/intrinsic-nature-void.md
+**Article**: [[intrinsic-nature-void|The Intrinsic Nature Void]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

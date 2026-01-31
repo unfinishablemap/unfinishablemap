@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Locality and Mind-Matter Interaction"
+title: Deep Review - Locality and Mind-Matter Interaction
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T15:10:40+00:00
+ai_modified: 2026-01-27 15:10:40+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Locality and Mind-Matter Interaction
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/locality.md
-**Previous review**: 2026-01-19
+**Article**: [[locality|Locality and Mind-Matter Interaction]]
+**Previous review**: [[deep-review-2026-01-19-locality|2026-01-19]]
 
 ## Pessimistic Analysis Summary
 

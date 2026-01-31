@@ -16,11 +16,9 @@ title: Deep Review - Agent Causation
 topics: []
 ---
 
-# Deep Review: Agent Causation
-
 **Date**: 2026-01-30
-**File**: obsidian/concepts/agent-causation.md
-**Previous review**: 2026-01-20
+**Article**: [Agent Causation](/concepts/agent-causation/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-agent-causation/)
 
 ## Pessimistic Analysis Summary
 

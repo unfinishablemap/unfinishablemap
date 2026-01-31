@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Consciousness"
+title: Deep Review - Consciousness
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T12:00:00+00:00
+ai_modified: 2026-01-26 12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: Consciousness
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/consciousness.md
+**Article**: [[consciousness|Consciousness]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

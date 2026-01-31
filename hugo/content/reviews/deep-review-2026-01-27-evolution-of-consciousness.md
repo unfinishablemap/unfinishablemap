@@ -16,11 +16,9 @@ title: Deep Review - Evolution of Consciousness
 topics: []
 ---
 
-# Deep Review: Evolution of Consciousness
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/evolution-of-consciousness.md
-**Previous review**: 2026-01-20
+**Article**: [Evolution of Consciousness](/concepts/evolution-of-consciousness/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-evolution-of-consciousness/)
 **Cross-review context**: Prebiotic collapse insights integration
 
 ## Pessimistic Analysis Summary

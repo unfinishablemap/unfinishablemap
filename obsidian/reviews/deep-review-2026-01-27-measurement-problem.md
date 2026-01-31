@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Measurement Problem"
+title: Deep Review - The Measurement Problem
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T06:49:39+00:00
+ai_modified: 2026-01-27 06:49:39+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: The Measurement Problem
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/measurement-problem.md
-**Previous review**: 2026-01-26
+**Article**: [[measurement-problem|The Measurement Problem]]
+**Previous review**: [[deep-review-2026-01-26-measurement-problem|2026-01-26]]
 **Context**: Cross-review considering prebiotic-collapse insights
 **Word count**: 2494 → 2502 (+8 words, at 100% of soft threshold)
 

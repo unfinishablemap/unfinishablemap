@@ -16,11 +16,9 @@ title: Deep Review - Relational Quantum Mechanics
 topics: []
 ---
 
-# Deep Review: Relational Quantum Mechanics
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/relational-quantum-mechanics.md
-**Previous review**: 2026-01-20
+**Article**: [Relational Quantum Mechanics](/concepts/relational-quantum-mechanics/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-relational-quantum-mechanics/)
 
 ## Pessimistic Analysis Summary
 

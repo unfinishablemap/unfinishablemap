@@ -16,10 +16,8 @@ title: Deep Review - Attention as Interface Hypothesis
 topics: []
 ---
 
-# Deep Review: Attention as Interface Hypothesis
-
 **Date**: 2026-01-20
-**File**: `obsidian/concepts/attention-as-interface.md`
+**Article**: [Attention As Interface](/concepts/attention-as-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

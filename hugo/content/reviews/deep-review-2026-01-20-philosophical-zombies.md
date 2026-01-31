@@ -16,10 +16,8 @@ title: Deep Review - Philosophical Zombies
 topics: []
 ---
 
-# Deep Review: Philosophical Zombies
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/philosophical-zombies.md
+**Article**: [Philosophical Zombies](/concepts/philosophical-zombies/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

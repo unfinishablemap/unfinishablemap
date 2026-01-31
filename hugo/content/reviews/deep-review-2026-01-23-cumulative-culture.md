@@ -16,10 +16,8 @@ title: Deep Review - Cumulative Culture
 topics: []
 ---
 
-# Deep Review: Cumulative Culture
-
 **Date**: 2026-01-23
-**File**: obsidian/concepts/cumulative-culture.md
+**Article**: [Cumulative Culture](/concepts/cumulative-culture/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

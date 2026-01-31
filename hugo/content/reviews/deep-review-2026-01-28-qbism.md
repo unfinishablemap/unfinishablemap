@@ -16,10 +16,8 @@ title: Deep Review - QBism (Quantum Bayesianism)
 topics: []
 ---
 
-# Deep Review: QBism (Quantum Bayesianism)
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/qbism.md
+**Article**: [QBism (Quantum Bayesianism)](/concepts/qbism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

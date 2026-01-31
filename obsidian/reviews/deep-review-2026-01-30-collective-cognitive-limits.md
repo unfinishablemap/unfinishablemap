@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Collective Cognitive Limits"
+title: Deep Review - Collective Cognitive Limits
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T23:55:00+00:00
+ai_modified: 2026-01-30 23:55:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: Collective Cognitive Limits
-
 **Date**: 2026-01-30
-**File**: obsidian/voids/collective-cognitive-limits.md
+**Article**: [[collective-cognitive-limits|Collective Cognitive Limits]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -16,11 +16,9 @@ title: Deep Review - Collapse and the Arrow of Time
 topics: []
 ---
 
-# Deep Review: Collapse and the Arrow of Time
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/collapse-and-time.md
-**Previous review**: 2026-01-19
+**Article**: [Collapse and the Arrow of Time](/concepts/collapse-and-time/)
+**Previous review**: [2026-01-19](/reviews/deep-review-2026-01-19-collapse-and-time/)
 
 ## Pessimistic Analysis Summary
 

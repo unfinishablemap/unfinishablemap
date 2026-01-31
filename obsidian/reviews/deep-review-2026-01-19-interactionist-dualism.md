@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Interactionist Dualism"
+title: Deep Review - Interactionist Dualism
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T09:15:38+00:00
+ai_modified: 2026-01-19 09:15:38+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-19
 last_curated: null
 ---
 
-# Deep Review: Interactionist Dualism
-
 **Date**: 2026-01-19
-**File**: obsidian/concepts/interactionist-dualism.md
+**Article**: [[interactionist-dualism|Interactionist Dualism]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Mental Causation"
+title: Deep Review - Mental Causation
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T20:45:00+00:00
+ai_modified: 2026-01-26 20:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: Mental Causation
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/mental-causation.md
-**Previous review**: 2026-01-20
+**Article**: [[mental-causation|Mental Causation]]
+**Previous review**: [[deep-review-2026-01-20-mental-causation|2026-01-20]]
 **Word count**: 2907 → 2908 (+1, length-neutral)
 **Context**: Cross-review considering psychophysical laws framework
 

@@ -16,11 +16,9 @@ title: Deep Review - Mental Causation
 topics: []
 ---
 
-# Deep Review: Mental Causation
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/mental-causation.md
-**Previous review**: 2026-01-26
+**Article**: [Mental Causation](/concepts/mental-causation/)
+**Previous review**: [2026-01-26](/reviews/deep-review-2026-01-26-mental-causation/)
 **Word count**: 2908 → 2931 (+23, length-neutral)
 **Context**: Cross-review considering delegatory-dualism.md
 

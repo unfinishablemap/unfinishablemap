@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Interactionist Dualism"
+title: Deep Review - Interactionist Dualism
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T02:01:00+00:00
+ai_modified: 2026-01-31 02:01:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-31
 last_curated: null
 ---
 
-# Deep Review: Interactionist Dualism
-
 **Date**: 2026-01-31
-**File**: obsidian/concepts/interactionist-dualism.md
-**Previous review**: 2026-01-29
+**Article**: [[interactionist-dualism|Interactionist Dualism]]
+**Previous review**: [[deep-review-2026-01-29-interactionist-dualism|2026-01-29]]
 **Review type**: Cross-review with causal-interface.md
 
 ## Context

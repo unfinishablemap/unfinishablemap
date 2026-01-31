@@ -16,10 +16,8 @@ title: Deep Review - Substance Dualism vs Property Dualism
 topics: []
 ---
 
-# Deep Review: Substance Dualism vs Property Dualism
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/substance-property-dualism.md
+**Article**: [Substance Dualism vs Property Dualism](/concepts/substance-property-dualism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

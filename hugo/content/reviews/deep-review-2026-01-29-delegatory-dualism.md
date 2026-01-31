@@ -16,10 +16,8 @@ title: Deep Review - Delegatory Dualism
 topics: []
 ---
 
-# Deep Review: Delegatory Dualism
-
 **Date**: 2026-01-29
-**File**: obsidian/topics/delegatory-dualism.md
+**Article**: [Delegatory Dualism](/topics/delegatory-dualism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

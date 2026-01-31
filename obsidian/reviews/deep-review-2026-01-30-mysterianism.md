@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Mysterianism (Questioning-as-Evidence Cross-Review)"
+title: Deep Review - Mysterianism (Questioning-as-Evidence Cross-Review)
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T18:26:00+00:00
+ai_modified: 2026-01-30 18:26:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: Mysterianism and Cognitive Closure
-
 **Date**: 2026-01-30
-**File**: obsidian/concepts/mysterianism.md
-**Previous review**: 2026-01-29
+**Article**: [[mysterianism|Mysterianism and Cognitive Closure]]
+**Previous review**: [[deep-review-2026-01-29-mysterianism|2026-01-29]]
 **Cross-review context**: questioning-as-evidence research (voids-questioning-as-evidence-2026-01-30.md)
 
 ## Pessimistic Analysis Summary

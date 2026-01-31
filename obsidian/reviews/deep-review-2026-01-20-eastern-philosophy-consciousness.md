@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Eastern Philosophy and Consciousness"
+title: Deep Review - Eastern Philosophy and Consciousness
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T22:30:00+00:00
+ai_modified: 2026-01-20 22:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: Eastern Philosophy and Consciousness
-
 **Date**: 2026-01-20
-**File**: obsidian/topics/eastern-philosophy-consciousness.md
+**Article**: [[eastern-philosophy-consciousness|Eastern Philosophy and Consciousness]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

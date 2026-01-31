@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Pairing Problem"
+title: Deep Review - The Pairing Problem
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T19:45:00+00:00
+ai_modified: 2026-01-20 19:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: The Pairing Problem
-
 **Date**: 2026-01-20
-**File**: `obsidian/concepts/pairing-problem.md`
+**Article**: [[pairing-problem|Pairing Problem]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,15 +1,15 @@
 ---
-title: "Deep Review - Animal Consciousness"
+title: Deep Review - Animal Consciousness
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T16:30:00+00:00
+ai_modified: 2026-01-27 16:30:00+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
-  - "[[animal-consciousness]]"
-  - "[[consciousness-as-intelligence-amplifier]]"
+- '[[animal-consciousness]]'
+- '[[consciousness-as-intelligence-amplifier]]'
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -17,11 +17,9 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Animal Consciousness
-
 **Date**: 2026-01-27
-**File**: obsidian/topics/animal-consciousness.md
-**Previous review**: 2026-01-22
+**Article**: [[animal-consciousness|Animal Consciousness]]
+**Previous review**: [[deep-review-2026-01-22-animal-consciousness|2026-01-22]]
 
 ## Context
 

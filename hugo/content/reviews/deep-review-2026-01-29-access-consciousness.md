@@ -16,11 +16,9 @@ title: Deep Review - Access Consciousness
 topics: []
 ---
 
-# Deep Review: Access Consciousness
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/access-consciousness.md
-**Previous review**: 2026-01-23
+**Article**: [Access Consciousness](/concepts/access-consciousness/)
+**Previous review**: [2026-01-23](/reviews/deep-review-2026-01-23-access-consciousness/)
 **Context**: Cross-review considering phenomenal-overflow.md insights
 
 ## Pessimistic Analysis Summary

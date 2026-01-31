@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Consciousness in Simple Organisms"
+title: Deep Review - Consciousness in Simple Organisms
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T21:45:00+00:00
+ai_modified: 2026-01-21 21:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-21
 last_curated: null
 ---
 
-# Deep Review: Consciousness in Simple Organisms
-
 **Date**: 2026-01-21
-**File**: obsidian/topics/consciousness-in-simple-organisms.md
+**Article**: [[consciousness-in-simple-organisms|Consciousness in Simple Organisms]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

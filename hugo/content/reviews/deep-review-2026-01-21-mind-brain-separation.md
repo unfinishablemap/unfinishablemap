@@ -16,10 +16,8 @@ title: Deep Review - Mind-Brain Separation and the Division of Faculties
 topics: []
 ---
 
-# Deep Review: Mind-Brain Separation and the Division of Faculties
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/mind-brain-separation.md
+**Article**: [Mind-Brain Separation and the Division of Faculties](/concepts/mind-brain-separation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

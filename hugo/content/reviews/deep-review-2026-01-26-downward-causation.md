@@ -16,11 +16,9 @@ title: Deep Review - Downward Causation
 topics: []
 ---
 
-# Deep Review: Downward Causation
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/downward-causation.md
-**Previous review**: 2026-01-20
+**Article**: [Downward Causation](/concepts/downward-causation/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-downward-causation/)
 **Cross-review context**: psychophysical-laws-framework.md
 
 ## Pessimistic Analysis Summary

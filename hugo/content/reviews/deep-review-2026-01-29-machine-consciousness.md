@@ -16,11 +16,9 @@ title: Deep Review - Machine Consciousness and Mind Uploading
 topics: []
 ---
 
-# Deep Review: Machine Consciousness and Mind Uploading
-
 **Date**: 2026-01-29
-**File**: obsidian/topics/machine-consciousness.md
-**Previous review**: 2026-01-25
+**Article**: [Machine Consciousness and Mind Uploading](/topics/machine-consciousness/)
+**Previous review**: [2026-01-25](/reviews/deep-review-2026-01-25-machine-consciousness/)
 
 ## Pessimistic Analysis Summary
 

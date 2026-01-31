@@ -16,10 +16,8 @@ title: Deep Review - The Specious Present
 topics: []
 ---
 
-# Deep Review: The Specious Present
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/specious-present.md
+**Article**: [The Specious Present](/concepts/specious-present/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -16,11 +16,9 @@ title: Deep Review - Prebiotic Collapse
 topics: []
 ---
 
-# Deep Review: Prebiotic Collapse
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/prebiotic-collapse.md
-**Previous review**: 2026-01-20
+**Article**: [Prebiotic Collapse: What Selected Outcomes Before Minds?](/concepts/prebiotic-collapse/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-prebiotic-collapse/)
 
 ## Pessimistic Analysis Summary
 

@@ -16,10 +16,8 @@ title: Deep Review - First-Person vs Third-Person Methodology in Consciousness S
 topics: []
 ---
 
-# Deep Review: First-Person vs Third-Person Methodology in Consciousness Science
-
 **Date**: 2026-01-25
-**File**: obsidian/topics/first-person-third-person-methodology.md
+**Article**: [First-Person vs Third-Person Methodology in Consciousness Science](/topics/first-person-third-person-methodology/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

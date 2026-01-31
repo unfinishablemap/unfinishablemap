@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Time, Collapse, and Agency"
+title: Deep Review - Time, Collapse, and Agency
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T22:35:00+00:00
+ai_modified: 2026-01-30 22:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: Time, Collapse, and Agency
-
 **Date**: 2026-01-30
-**File**: obsidian/topics/time-collapse-and-agency.md
-**Previous review**: 2026-01-20
+**Article**: [[time-collapse-and-agency|Time, Collapse, and Agency]]
+**Previous review**: [[deep-review-2026-01-20-time-collapse-and-agency|2026-01-20]]
 
 ## Pessimistic Analysis Summary
 

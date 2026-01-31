@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Psychophysical Laws Framework"
+title: Deep Review - The Psychophysical Laws Framework
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T14:10:30+00:00
+ai_modified: 2026-01-26 14:10:30+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: The Psychophysical Laws Framework
-
 **Date**: 2026-01-26
-**File**: obsidian/topics/psychophysical-laws-framework.md
+**Article**: [[psychophysical-laws-framework|The Psychophysical Laws Framework]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

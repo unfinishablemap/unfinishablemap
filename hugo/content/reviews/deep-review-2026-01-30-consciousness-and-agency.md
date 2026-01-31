@@ -16,10 +16,8 @@ title: Deep Review - Consciousness and Agency
 topics: []
 ---
 
-# Deep Review: Consciousness and Agency
-
 **Date**: 2026-01-30
-**File**: obsidian/apex/consciousness-and-agency.md
+**Article**: [Consciousness and Agency](/apex/consciousness-and-agency/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

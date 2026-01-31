@@ -16,10 +16,8 @@ title: Deep Review - Mental Causation
 topics: []
 ---
 
-# Deep Review: Mental Causation
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/mental-causation.md
+**Article**: [Mental Causation](/concepts/mental-causation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

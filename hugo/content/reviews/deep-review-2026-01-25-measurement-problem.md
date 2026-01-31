@@ -16,11 +16,9 @@ title: Deep Review - The Measurement Problem
 topics: []
 ---
 
-# Deep Review: The Measurement Problem
-
 **Date**: 2026-01-25
-**File**: obsidian/concepts/measurement-problem.md
-**Previous review**: 2026-01-25T21:15:00+00:00
+**Article**: [The Measurement Problem](/concepts/measurement-problem/)
+**Previous review**: [2026-01-25T21:15:00+00:00](/reviews/deep-review-2026-01-25-measurement-problem/)
 **Word count**: 2540 → 2444 (-96 words, now at 98% of soft threshold)
 
 ## Pessimistic Analysis Summary

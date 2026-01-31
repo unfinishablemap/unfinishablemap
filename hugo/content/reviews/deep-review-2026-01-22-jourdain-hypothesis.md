@@ -16,10 +16,8 @@ title: Deep Review - The Jourdain Hypothesis
 topics: []
 ---
 
-# Deep Review: The Jourdain Hypothesis
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/jourdain-hypothesis.md
+**Article**: [The Jourdain Hypothesis](/concepts/jourdain-hypothesis/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

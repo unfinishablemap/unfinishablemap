@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Intersubjectivity"
+title: Deep Review - Intersubjectivity
 created: 2026-01-25
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-25T19:45:00+00:00
+ai_modified: 2026-01-25 19:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-25
 last_curated: null
 ---
 
-# Deep Review: Intersubjectivity
-
 **Date**: 2026-01-25
-**File**: obsidian/concepts/intersubjectivity.md
+**Article**: [[intersubjectivity|Intersubjectivity]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

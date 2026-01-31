@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Attention Schema Theory"
+title: Deep Review - Attention Schema Theory
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T20:40:00+00:00
+ai_modified: 2026-01-29 20:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Attention Schema Theory
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/attention-schema-theory.md
-**Previous review**: 2026-01-20
+**Article**: [[attention-schema-theory|Attention Schema Theory]]
+**Previous review**: [[deep-review-2026-01-20-attention-schema-theory|2026-01-20]]
 
 ## Executive Summary
 

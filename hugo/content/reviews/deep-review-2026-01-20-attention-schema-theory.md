@@ -16,10 +16,8 @@ title: Deep Review - Attention Schema Theory
 topics: []
 ---
 
-# Deep Review: Attention Schema Theory
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/attention-schema-theory.md
+**Article**: [Attention Schema Theory](/concepts/attention-schema-theory/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

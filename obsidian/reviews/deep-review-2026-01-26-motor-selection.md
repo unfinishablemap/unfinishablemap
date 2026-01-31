@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Motor Selection and the Quantum Zeno Effect"
+title: Deep Review - Motor Selection and the Quantum Zeno Effect
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T21:00:00+00:00
+ai_modified: 2026-01-26 21:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: Motor Selection and the Quantum Zeno Effect
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/motor-selection.md
-**Previous review**: 2026-01-21
+**Article**: [[motor-selection|Motor Selection and the Attention-Motor Interface]]
+**Previous review**: [[deep-review-2026-01-21-motor-selection|2026-01-21]]
 **Context**: Cross-review considering dopamine-selection-interface.md insights
 
 ## Pessimistic Analysis Summary

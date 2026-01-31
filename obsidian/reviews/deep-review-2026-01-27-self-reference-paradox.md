@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Self-Reference Paradox"
+title: Deep Review - The Self-Reference Paradox
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T18:30:00+00:00
+ai_modified: 2026-01-27 18:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: The Self-Reference Paradox
-
 **Date**: 2026-01-27
-**File**: obsidian/voids/self-reference-paradox.md
-**Previous review**: 2026-01-20
+**Article**: [[self-reference-paradox|The Self-Reference Paradox]]
+**Previous review**: [[deep-review-2026-01-20-self-reference-paradox|2026-01-20]]
 
 ## Cross-Review Context
 

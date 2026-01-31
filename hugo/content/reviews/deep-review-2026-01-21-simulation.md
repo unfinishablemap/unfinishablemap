@@ -16,11 +16,9 @@ title: Deep Review - The Simulation Hypothesis
 topics: []
 ---
 
-# Deep Review: The Simulation Hypothesis
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/simulation.md
-**Previous review**: 2026-01-17
+**Article**: [The Simulation Hypothesis](/concepts/simulation/)
+**Previous review**: [2026-01-17](/reviews/deep-review-2026-01-17-simulation/)
 
 ## Pessimistic Analysis Summary
 

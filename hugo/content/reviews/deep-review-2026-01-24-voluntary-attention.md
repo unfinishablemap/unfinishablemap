@@ -16,11 +16,9 @@ title: Deep Review - Voluntary Attention
 topics: []
 ---
 
-# Deep Review: Voluntary Attention
-
 **Date**: 2026-01-24
-**File**: obsidian/concepts/voluntary-attention.md
-**Previous review**: 2026-01-21
+**Article**: [Voluntary Attention](/concepts/voluntary-attention/)
+**Previous review**: [2026-01-21](/reviews/deep-review-2026-01-21-voluntary-attention/)
 
 ## Context
 

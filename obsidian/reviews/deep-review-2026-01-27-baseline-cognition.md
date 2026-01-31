@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Baseline Cognition"
+title: Deep Review - Baseline Cognition
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T18:30:00+00:00
+ai_modified: 2026-01-27 18:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Baseline Cognition
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/baseline-cognition.md
-**Previous review**: 2026-01-25
+**Article**: [[baseline-cognition|Baseline Cognition]]
+**Previous review**: [[deep-review-2026-01-25-baseline-cognition|2026-01-25]]
 **Context**: Cross-review considering consciousness-as-intelligence-amplifier
 
 ## Pessimistic Analysis Summary

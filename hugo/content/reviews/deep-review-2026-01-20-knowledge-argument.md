@@ -16,10 +16,8 @@ title: Deep Review - The Knowledge Argument (Mary's Room)
 topics: []
 ---
 
-# Deep Review: The Knowledge Argument (Mary's Room)
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/knowledge-argument.md
+**Article**: [The Knowledge Argument (Mary's Room)](/concepts/knowledge-argument/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

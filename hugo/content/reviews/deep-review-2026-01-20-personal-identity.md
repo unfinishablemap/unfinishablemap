@@ -16,10 +16,8 @@ title: Deep Review - Personal Identity
 topics: []
 ---
 
-# Deep Review: Personal Identity
-
 **Date**: 2026-01-20
-**File**: obsidian/topics/personal-identity.md
+**Article**: [Personal Identity](/topics/personal-identity/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

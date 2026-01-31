@@ -16,11 +16,9 @@ title: Deep Review - The Measurement Problem
 topics: []
 ---
 
-# Deep Review: The Measurement Problem
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/measurement-problem.md
-**Previous review**: 2026-01-25
+**Article**: [The Measurement Problem](/concepts/measurement-problem/)
+**Previous review**: [2026-01-25](/reviews/deep-review-2026-01-25-measurement-problem/)
 **Context**: Cross-review considering spontaneous-collapse-theories.md
 **Word count**: 2444 → 2494 (+50 words, at 100% of soft threshold)
 

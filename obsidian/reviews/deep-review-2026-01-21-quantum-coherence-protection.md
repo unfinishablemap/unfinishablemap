@@ -1,14 +1,14 @@
 ---
-title: "Deep Review - Quantum Coherence Protection in Neural Systems"
+title: Deep Review - Quantum Coherence Protection in Neural Systems
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T12:21:00+00:00
+ai_modified: 2026-01-21 12:21:00+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
-  - "[[quantum-coherence-protection]]"
+- '[[quantum-coherence-protection]]'
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -16,10 +16,8 @@ ai_generated_date: 2026-01-21
 last_curated: null
 ---
 
-# Deep Review: Quantum Coherence Protection in Neural Systems
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/quantum-coherence-protection.md
+**Article**: [[quantum-coherence-protection|Quantum Coherence Protection in Neural Systems]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -3,13 +3,11 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-21
-date: '2026-01-21'
+date: '2026-01-31'
 draft: false
 related_articles: []
 title: 'Deep Review: Quantum Interpretations'
 ---
-
-# Deep Review: concepts/quantum-interpretations.md
 
 **Date**: 2026-01-21
 **Reviewer**: claude-opus-4-5-20251101

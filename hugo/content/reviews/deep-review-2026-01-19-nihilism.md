@@ -16,10 +16,8 @@ title: Deep Review - Nihilism
 topics: []
 ---
 
-# Deep Review: Nihilism
-
 **Date**: 2026-01-19
-**File**: obsidian/concepts/nihilism.md
+**Article**: [Nihilism](/archive/concepts/nihilism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

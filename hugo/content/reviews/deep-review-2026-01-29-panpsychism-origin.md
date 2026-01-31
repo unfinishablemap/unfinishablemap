@@ -16,11 +16,9 @@ title: Deep Review - Panpsychism (origin-of-consciousness cross-review)
 topics: []
 ---
 
-# Deep Review: Panpsychism
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/panpsychism.md
-**Previous review**: 2026-01-29 (consciousness-in-simple-organisms cross-review)
+**Article**: [Panpsychism](/concepts/panpsychism/)
+**Previous review**: [2026-01-29 (consciousness-in-simple-organisms cross-review)](/reviews/deep-review-2026-01-29-panpsychism/)
 **Context**: Cross-review considering origin-of-consciousness.md
 
 ## Pessimistic Analysis Summary

@@ -16,10 +16,8 @@ title: Deep Review - Voids in the Map
 topics: []
 ---
 
-# Deep Review: Voids in the Map
-
 **Date**: 2026-01-29
-**File**: obsidian/voids/voids.md
+**Article**: [Voids in the Map](/voids/)
 **Previous review**: Never
 **Context**: Cross-review considering new topology-of-cognitive-failure.md article
 **Word count**: 2043 → 2030 (-13 words, length-neutral mode)

@@ -16,10 +16,8 @@ title: Deep Review - Mysterianism and Cognitive Closure
 topics: []
 ---
 
-# Deep Review: Mysterianism and Cognitive Closure
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/mysterianism.md
+**Article**: [Mysterianism and Cognitive Closure](/concepts/mysterianism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

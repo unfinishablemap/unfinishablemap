@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Epiphenomenalism"
+title: Deep Review - Epiphenomenalism
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T10:54:22+00:00
+ai_modified: 2026-01-27 10:54:22+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Epiphenomenalism
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/epiphenomenalism.md
-**Previous review**: 2026-01-26
+**Article**: [[epiphenomenalism|Epiphenomenalism]]
+**Previous review**: [[deep-review-2026-01-26-epiphenomenalism|2026-01-26]]
 **Cross-review context**: consciousness-as-intelligence-amplifier causal evidence
 
 ## Pessimistic Analysis Summary

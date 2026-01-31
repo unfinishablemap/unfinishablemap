@@ -16,10 +16,8 @@ title: Deep Review - Intersubjectivity
 topics: []
 ---
 
-# Deep Review: Intersubjectivity
-
 **Date**: 2026-01-25
-**File**: obsidian/concepts/intersubjectivity.md
+**Article**: [Intersubjectivity](/concepts/intersubjectivity/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

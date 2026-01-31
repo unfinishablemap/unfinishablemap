@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Thoughts That Slip Away"
+title: Deep Review - Thoughts That Slip Away
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T19:40:00+00:00
+ai_modified: 2026-01-29 19:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Thoughts That Slip Away
-
 **Date**: 2026-01-29
-**File**: obsidian/voids/thoughts-that-slip-away.md
-**Previous review**: 2026-01-20
+**Article**: [[thoughts-that-slip-away|Thoughts That Slip Away]]
+**Previous review**: [[deep-review-2026-01-20-thoughts-that-slip-away|2026-01-20]]
 **Cross-review context**: attention-created-voids research
 
 ## Pessimistic Analysis Summary

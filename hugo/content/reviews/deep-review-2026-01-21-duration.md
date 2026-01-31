@@ -16,10 +16,8 @@ title: Deep Review - Duration (Durée)
 topics: []
 ---
 
-# Deep Review: Duration (Durée)
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/duration.md
+**Article**: [Duration (Durée)](/concepts/duration/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

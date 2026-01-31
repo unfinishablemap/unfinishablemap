@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Consciousness and Agency"
+title: Deep Review - Consciousness and Agency
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T14:14:00+00:00
+ai_modified: 2026-01-30 14:14:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: Consciousness and Agency
-
 **Date**: 2026-01-30
-**File**: obsidian/apex/consciousness-and-agency.md
+**Article**: [[consciousness-and-agency|Consciousness and Agency]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

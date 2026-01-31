@@ -16,11 +16,9 @@ title: Deep Review - Near-Death Experiences
 topics: []
 ---
 
-# Deep Review: Near-Death Experiences
-
 **Date**: 2026-01-31
-**File**: obsidian/concepts/near-death-experiences.md
-**Previous review**: 2026-01-20
+**Article**: [Near-Death Experiences](/concepts/near-death-experiences/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-near-death-experiences/)
 
 ## Pessimistic Analysis Summary
 

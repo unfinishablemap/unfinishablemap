@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Purpose and AI Alignment"
+title: Deep Review - Purpose and AI Alignment
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T11:45:00+00:00
+ai_modified: 2026-01-30 11:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: Purpose and AI Alignment
-
 **Date**: 2026-01-30
-**File**: obsidian/topics/purpose-and-alignment.md
-**Previous review**: 2026-01-21
+**Article**: [[purpose-and-alignment|Purpose and AI Alignment]]
+**Previous review**: [[deep-review-2026-01-21-purpose-and-alignment|2026-01-21]]
 **Cross-review context**: experiential-alignment-objective.md coalesced into experiential-alignment.md
 
 ## Pessimistic Analysis Summary

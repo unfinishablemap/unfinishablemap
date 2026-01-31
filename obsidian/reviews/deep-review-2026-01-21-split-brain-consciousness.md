@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Split-Brain Cases and Consciousness Unity"
+title: Deep Review - Split-Brain Cases and Consciousness Unity
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T19:30:00+00:00
+ai_modified: 2026-01-21 19:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-21
 last_curated: null
 ---
 
-# Deep Review: Split-Brain Cases and Consciousness Unity
-
 **Date**: 2026-01-21
-**File**: obsidian/topics/split-brain-consciousness.md
+**Article**: [[split-brain-consciousness|Split-Brain Cases and Consciousness Unity]]
 **Previous review**: 2026-01-16
 
 ## Pessimistic Analysis Summary

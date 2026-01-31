@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Problem of Other Minds"
+title: Deep Review - Problem of Other Minds
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-28T12:00:00+00:00
+ai_modified: 2026-01-28 12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-28
 last_curated: null
 ---
 
-# Deep Review: Problem of Other Minds
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/problem-of-other-minds.md
-**Previous review**: 2026-01-22
+**Article**: [[problem-of-other-minds|Problem of Other Minds]]
+**Previous review**: [[deep-review-2026-01-22-problem-of-other-minds|2026-01-22]]
 **Context**: Cross-review considering other-minds-void.md insights
 
 ## Pessimistic Analysis Summary

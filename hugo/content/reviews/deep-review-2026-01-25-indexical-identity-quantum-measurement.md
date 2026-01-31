@@ -16,10 +16,8 @@ title: Deep Review - Indexical Identity and Quantum Measurement
 topics: []
 ---
 
-# Deep Review: Indexical Identity and Quantum Measurement
-
 **Date**: 2026-01-25
-**File**: obsidian/topics/indexical-identity-quantum-measurement.md
+**Article**: [Indexical Identity and Quantum Measurement](/topics/indexical-identity-quantum-measurement/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

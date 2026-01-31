@@ -16,10 +16,8 @@ title: Deep Review - Phenomenal Binding
 topics: []
 ---
 
-# Deep Review: Phenomenal Binding
-
 **Date**: 2026-01-24
-**File**: concepts/phenomenal-binding.md
+**Article**: [Phenomenal Binding](/archive/concepts/phenomenal-binding/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

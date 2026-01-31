@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Consciousness and Creativity"
+title: Deep Review - Consciousness and Creativity
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-28T17:22:07+00:00
+ai_modified: 2026-01-28 17:22:07+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-28
 last_curated: null
 ---
 
-# Deep Review: Consciousness and Creativity
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/consciousness-and-creativity.md
-**Previous review**: 2026-01-19
+**Article**: [[consciousness-and-creativity|Consciousness and Creativity]]
+**Previous review**: [[deep-review-2026-01-19-consciousness-and-creativity|2026-01-19]]
 
 ## Pessimistic Analysis Summary
 

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Self and Consciousness"
+title: Deep Review - Self and Consciousness
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T00:40:00+00:00
+ai_modified: 2026-01-31 00:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-31
 last_curated: null
 ---
 
-# Deep Review: Self and Consciousness
-
 **Date**: 2026-01-31
-**File**: obsidian/concepts/self-and-consciousness.md
-**Previous review**: 2026-01-20
+**Article**: [[self-and-consciousness|Self and Consciousness]]
+**Previous review**: [[deep-review-2026-01-20-self-and-consciousness|2026-01-20]]
 
 ## Pessimistic Analysis Summary
 

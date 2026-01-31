@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Arguments"
+title: Deep Review - Arguments
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T00:20:00+00:00
+ai_modified: 2026-01-31 00:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-31
 last_curated: null
 ---
 
-# Deep Review: Arguments
-
 **Date**: 2026-01-31
-**File**: obsidian/arguments/arguments.md
+**Article**: [[arguments|Arguments]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

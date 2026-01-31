@@ -16,11 +16,9 @@ title: Deep Review - Dreams and Consciousness
 topics: []
 ---
 
-# Deep Review: Dreams and Consciousness
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/dreams-and-consciousness.md
-**Previous review**: 2026-01-20
+**Article**: [Dreams and Consciousness](/concepts/dreams-and-consciousness/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-dreams-and-consciousness/)
 
 ## Pessimistic Analysis Summary
 

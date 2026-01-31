@@ -16,11 +16,9 @@ title: Deep Review - Mysterianism (Computational Limits Cross-Review)
 topics: []
 ---
 
-# Deep Review: Mysterianism and Cognitive Closure
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/mysterianism.md
-**Previous review**: 2026-01-27 (earlier today)
+**Article**: [Mysterianism and Cognitive Closure](/concepts/mysterianism/)
+**Previous review**: [2026-01-27 (earlier today)](/reviews/deep-review-2026-01-27-mysterianism/)
 **Cross-review context**: computational-cognitive-limits.md insights
 
 ## Pessimistic Analysis Summary

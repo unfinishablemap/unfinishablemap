@@ -16,11 +16,9 @@ title: Deep Review - Spontaneous Collapse Theories
 topics: []
 ---
 
-# Deep Review: Spontaneous Collapse Theories
-
 **Date**: 2026-01-27 (second review)
-**File**: obsidian/concepts/spontaneous-collapse-theories.md
-**Previous review**: 2026-01-27 (earlier same day)
+**Article**: [Spontaneous Collapse Theories](/concepts/spontaneous-collapse-theories/)
+**Previous review**: [2026-01-27 (earlier same day)](/reviews/deep-review-2026-01-27-spontaneous-collapse-theories/)
 **Context**: Cross-review considering quantum-neural-mechanisms.md
 
 ## Pessimistic Analysis Summary

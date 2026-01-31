@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Contemplative Evidence for Consciousness Theories"
+title: Deep Review - Contemplative Evidence for Consciousness Theories
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-28T14:26:08+00:00
+ai_modified: 2026-01-28 14:26:08+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-28
 last_curated: null
 ---
 
-# Deep Review: Contemplative Evidence for Consciousness Theories
-
 **Date**: 2026-01-28
-**File**: obsidian/topics/contemplative-evidence-for-consciousness-theories.md
+**Article**: [[contemplative-evidence-for-consciousness-theories|Contemplative Evidence for Consciousness Theories]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -16,10 +16,8 @@ title: Deep Review - The Phenomenal Concepts Strategy
 topics: []
 ---
 
-# Deep Review: The Phenomenal Concepts Strategy
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/phenomenal-concepts-strategy.md
+**Article**: [The Phenomenal Concepts Strategy](/concepts/phenomenal-concepts-strategy/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

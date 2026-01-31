@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Delegatory Dualism"
+title: Deep Review - Delegatory Dualism
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T20:30:00+00:00
+ai_modified: 2026-01-29 20:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Delegatory Dualism
-
 **Date**: 2026-01-29
-**File**: obsidian/topics/delegatory-dualism.md
+**Article**: [[delegatory-dualism|Delegatory Dualism]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

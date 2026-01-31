@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Ground of Meaning"
+title: Deep Review - The Ground of Meaning
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T14:01:00+00:00
+ai_modified: 2026-01-30 14:01:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-30
 last_curated: null
 ---
 
-# Deep Review: The Ground of Meaning
-
 **Date**: 2026-01-30
-**File**: obsidian/apex/ground-of-meaning.md
+**Article**: [[ground-of-meaning|Ground Of Meaning]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -16,11 +16,9 @@ title: Deep Review - Idealism (Cross-Review)
 topics: []
 ---
 
-# Deep Review: Idealism (Cross-Review)
-
 **Date**: 2026-01-30
-**File**: obsidian/concepts/idealism.md
-**Previous review**: 2026-01-30 (same day, earlier)
+**Article**: [Idealism](/concepts/idealism/)
+**Previous review**: [2026-01-30 (same day, earlier)](/reviews/deep-review-2026-01-30-idealism/)
 **Context**: Cross-review considering existentialism insights
 
 ## Pessimistic Analysis Summary

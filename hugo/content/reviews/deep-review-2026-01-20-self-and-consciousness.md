@@ -16,10 +16,8 @@ title: Deep Review - Self and Consciousness
 topics: []
 ---
 
-# Deep Review: Self and Consciousness
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/self-and-consciousness.md
+**Article**: [Self and Consciousness](/concepts/self-and-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

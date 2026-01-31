@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Consciousness and Intelligence (2nd)"
+title: Deep Review - Consciousness and Intelligence (2nd)
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T11:34:34+00:00
+ai_modified: 2026-01-29 11:34:34+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Consciousness and Intelligence (2nd Review)
-
 **Date**: 2026-01-29
-**File**: obsidian/topics/consciousness-and-intelligence.md
-**Previous review**: 2026-01-29 (earlier today)
+**Article**: [[consciousness-and-intelligence|Consciousness and Intelligence]]
+**Previous review**: [[deep-review-2026-01-29-consciousness-and-intelligence|2026-01-29 (earlier today)]]
 
 ## Context
 

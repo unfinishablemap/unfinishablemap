@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Simulation Hypothesis"
+title: Deep Review - The Simulation Hypothesis
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-17T22:15:00+00:00
+ai_modified: 2026-01-17 22:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-17
 last_curated: null
 ---
 
-# Deep Review: The Simulation Hypothesis
-
 **Date**: 2026-01-17
-**File**: obsidian/concepts/simulation.md
+**Article**: [[simulation|The Simulation Hypothesis]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

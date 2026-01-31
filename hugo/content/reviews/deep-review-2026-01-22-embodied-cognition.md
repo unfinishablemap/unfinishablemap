@@ -16,11 +16,9 @@ title: Deep Review - Embodied Cognition and the Extended Mind
 topics: []
 ---
 
-# Deep Review: Embodied Cognition and the Extended Mind
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/embodied-cognition.md
-**Previous review**: 2026-01-20
+**Article**: [Embodied Cognition and the Extended Mind](/concepts/embodied-cognition/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-embodied-cognition/)
 
 ## Pessimistic Analysis Summary
 

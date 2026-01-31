@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Decoherence and Quantum Biology"
+title: Deep Review - Decoherence and Quantum Biology
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T01:50:00+00:00
+ai_modified: 2026-01-20 01:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: Decoherence and Quantum Biology
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/decoherence.md
+**Article**: [[decoherence|Decoherence and Quantum Biology]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

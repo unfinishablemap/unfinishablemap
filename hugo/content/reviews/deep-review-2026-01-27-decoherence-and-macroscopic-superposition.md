@@ -16,10 +16,8 @@ title: Deep Review - Decoherence and Macroscopic Superposition
 topics: []
 ---
 
-# Deep Review: Decoherence and Macroscopic Superposition
-
 **Date**: 2026-01-27
-**File**: obsidian/topics/decoherence-and-macroscopic-superposition.md
+**Article**: [Decoherence and Macroscopic Superposition](/topics/decoherence-and-macroscopic-superposition/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

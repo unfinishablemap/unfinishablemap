@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Psychophysical Laws Framework"
+title: Deep Review - The Psychophysical Laws Framework
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T17:39:53+00:00
+ai_modified: 2026-01-27 17:39:53+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: The Psychophysical Laws Framework
-
 **Date**: 2026-01-27
-**File**: obsidian/topics/psychophysical-laws-framework.md
-**Previous review**: 2026-01-26
+**Article**: [[psychophysical-laws-framework|The Psychophysical Laws Framework]]
+**Previous review**: [[deep-review-2026-01-26-psychophysical-laws-framework|2026-01-26]]
 **Context**: Cross-review considering new [[chalmers-psychophysical-coupling]] article
 
 ## Pessimistic Analysis Summary

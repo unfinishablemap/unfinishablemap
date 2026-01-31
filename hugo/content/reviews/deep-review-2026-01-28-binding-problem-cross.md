@@ -18,11 +18,9 @@ title: Deep Review - The Binding Problem (Cross-Review)
 topics: []
 ---
 
-# Deep Review: The Binding Problem (Cross-Review)
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/binding-problem.md
-**Previous review**: 2026-01-28 (earlier today)
+**Article**: [The Binding Problem](/concepts/binding-problem/)
+**Previous review**: [2026-01-28 (earlier today)](/reviews/deep-review-2026-01-28-binding-problem/)
 **Cross-review context**: Considering neural-binding-mechanisms.md
 
 ## Pessimistic Analysis Summary

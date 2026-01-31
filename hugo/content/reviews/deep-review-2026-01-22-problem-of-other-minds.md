@@ -16,10 +16,8 @@ title: Deep Review - Problem of Other Minds
 topics: []
 ---
 
-# Deep Review: Problem of Other Minds
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/problem-of-other-minds.md
+**Article**: [Problem of Other Minds](/concepts/problem-of-other-minds/)
 **Previous review**: 2026-01-18
 
 ## Pessimistic Analysis Summary

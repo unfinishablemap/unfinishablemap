@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Russellian Monism"
+title: Deep Review - Russellian Monism
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T06:19:00+00:00
+ai_modified: 2026-01-27 06:19:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Russellian Monism
-
 **Date**: 2026-01-27
-**File**: `concepts/russellian-monism.md`
-**Previous review**: 2026-01-20
+**Article**: [[russellian-monism|Russellian Monism]]
+**Previous review**: [[deep-review-2026-01-20-russellian-monism|2026-01-20]]
 **Cross-review context**: intrinsic-nature-void.md insights
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Reductionism"
+title: Deep Review - Reductionism
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T13:30:00+00:00
+ai_modified: 2026-01-19 13:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-19
 last_curated: null
 ---
 
-# Deep Review: Reductionism
-
 **Date**: 2026-01-19
-**File**: obsidian/concepts/reductionism.md
+**Article**: [[reductionism|Reductionism]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Phenomenology of Choice"
+title: Deep Review - Phenomenology of Choice
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T03:43:00+00:00
+ai_modified: 2026-01-31 03:43:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-31
 last_curated: null
 ---
 
-# Deep Review: Phenomenology of Choice
-
 **Date**: 2026-01-31
-**File**: obsidian/concepts/phenomenology-of-choice.md
-**Previous review**: 2026-01-21
+**Article**: [[phenomenology-of-choice|Phenomenology of Choice]]
+**Previous review**: [[deep-review-2026-01-21-phenomenology-of-choice|2026-01-21]]
 
 ## Context
 

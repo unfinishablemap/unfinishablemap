@@ -16,10 +16,8 @@ title: Deep Review - Sleep and Consciousness
 topics: []
 ---
 
-# Deep Review: Sleep and Consciousness
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/sleep-and-consciousness.md
+**Article**: [Sleep and Consciousness](/concepts/sleep-and-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

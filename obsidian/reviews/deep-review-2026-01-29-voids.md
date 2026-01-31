@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Voids in the Map"
+title: Deep Review - Voids in the Map
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T12:00:00+00:00
+ai_modified: 2026-01-29 12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Voids in the Map
-
 **Date**: 2026-01-29
-**File**: obsidian/voids/voids.md
+**Article**: [[voids|Voids in the Map]]
 **Previous review**: Never
 **Context**: Cross-review considering new topology-of-cognitive-failure.md article
 **Word count**: 2043 → 2030 (-13 words, length-neutral mode)

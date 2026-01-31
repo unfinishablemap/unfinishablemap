@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Baseline Cognition"
+title: Deep Review - Baseline Cognition
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-22T21:30:00+00:00
+ai_modified: 2026-01-22 21:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-22
 last_curated: null
 ---
 
-# Deep Review: Baseline Cognition
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/baseline-cognition.md
+**Article**: [[baseline-cognition|Baseline Cognition]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

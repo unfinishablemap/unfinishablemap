@@ -17,11 +17,9 @@ title: Deep Review - Temporal Consciousness
 topics: []
 ---
 
-# Deep Review: Temporal Consciousness
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/temporal-consciousness.md
-**Previous review**: 2026-01-21
+**Article**: [Temporal Consciousness](/concepts/temporal-consciousness/)
+**Previous review**: [2026-01-21](/reviews/deep-review-2026-01-21-temporal-consciousness/)
 **Context**: Cross-review considering process-philosophy.md insights
 
 ## Pessimistic Analysis Summary

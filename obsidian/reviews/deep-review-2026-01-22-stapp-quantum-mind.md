@@ -1,14 +1,14 @@
 ---
-title: "Deep Review - Stapp's Quantum Mind Model"
+title: Deep Review - Stapp's Quantum Mind Model
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-24T04:31:00+00:00
+ai_modified: 2026-01-24 04:31:00+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
-  - "[[stapp-quantum-mind]]"
+- '[[stapp-quantum-mind]]'
 ai_contribution: 100
 author: null
 ai_system: claude-sonnet-4-5-20250929
@@ -16,10 +16,8 @@ ai_generated_date: 2026-01-22
 last_curated: null
 ---
 
-# Deep Review: Stapp's Quantum Mind Model
-
 **Date**: 2026-01-22
-**File**: obsidian/concepts/stapp-quantum-mind.md
+**Article**: [[stapp-quantum-mind|Stapp's Quantum Mind Model]]
 **Previous review**: Never
 **Reviewer**: Evolution session 599
 

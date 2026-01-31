@@ -16,11 +16,9 @@ title: Deep Review - Mysterianism (Convergent Limits Cross-Review)
 topics: []
 ---
 
-# Deep Review: Mysterianism and Cognitive Closure
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/mysterianism.md
-**Previous review**: 2026-01-27
+**Article**: [Mysterianism and Cognitive Closure](/concepts/mysterianism/)
+**Previous review**: [2026-01-27](/reviews/deep-review-2026-01-27-mysterianism/)
 **Cross-review context**: convergent-cognitive-limits.md insights
 
 ## Pessimistic Analysis Summary

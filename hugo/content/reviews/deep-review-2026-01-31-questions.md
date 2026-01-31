@@ -16,10 +16,8 @@ title: Deep Review - Open Questions
 topics: []
 ---
 
-# Deep Review: Open Questions
-
 **Date**: 2026-01-31
-**File**: obsidian/questions/questions.md
+**Article**: [Open Questions](/questions/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

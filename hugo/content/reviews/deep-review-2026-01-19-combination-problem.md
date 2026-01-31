@@ -16,10 +16,8 @@ title: Deep Review - The Combination Problem
 topics: []
 ---
 
-# Deep Review: The Combination Problem
-
 **Date**: 2026-01-19
-**File**: obsidian/concepts/combination-problem.md
+**Article**: [The Combination Problem](/concepts/combination-problem/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -16,10 +16,8 @@ title: Deep Review - Experiential Alignment
 topics: []
 ---
 
-# Deep Review: Experiential Alignment
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/experiential-alignment.md
+**Article**: [Experiential Alignment](/concepts/experiential-alignment/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

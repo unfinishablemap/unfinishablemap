@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Higher-Order Theories of Consciousness"
+title: Deep Review - Higher-Order Theories of Consciousness
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T22:50:00+00:00
+ai_modified: 2026-01-19 22:50:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-19
 last_curated: null
 ---
 
-# Deep Review: Higher-Order Theories of Consciousness
-
 **Date**: 2026-01-19
-**File**: concepts/higher-order-theories.md
+**Article**: [[higher-order-theories|Higher Order Theories]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

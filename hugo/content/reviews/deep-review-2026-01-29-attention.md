@@ -16,11 +16,9 @@ title: Deep Review - Attention and Consciousness
 topics: []
 ---
 
-# Deep Review: Attention and Consciousness
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/attention.md
-**Previous review**: 2026-01-27
+**Article**: [Attention and Consciousness](/concepts/attention/)
+**Previous review**: [2026-01-27](/reviews/deep-review-2026-01-27-attention/)
 **Review type**: Cross-review considering attention-created-voids.md
 
 ## Pessimistic Analysis Summary

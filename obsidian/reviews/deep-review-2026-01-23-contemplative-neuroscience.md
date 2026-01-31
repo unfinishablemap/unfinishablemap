@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Contemplative Neuroscience"
+title: Deep Review - Contemplative Neuroscience
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-23T12:35:00+00:00
+ai_modified: 2026-01-23 12:35:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-23
 last_curated: null
 ---
 
-# Deep Review: Contemplative Neuroscience
-
 **Date**: 2026-01-23
-**File**: obsidian/concepts/contemplative-neuroscience.md
+**Article**: [[contemplative-neuroscience|Contemplative Neuroscience]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

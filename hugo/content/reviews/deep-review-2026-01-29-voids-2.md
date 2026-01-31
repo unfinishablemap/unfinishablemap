@@ -16,11 +16,9 @@ title: Deep Review - Voids in the Map (Cross-Review)
 topics: []
 ---
 
-# Deep Review: Voids in the Map
-
 **Date**: 2026-01-29
-**File**: obsidian/voids/voids.md
-**Previous review**: 2026-01-29 (cross-review with topology-of-cognitive-failure.md)
+**Article**: [Voids in the Map](/voids/)
+**Previous review**: [2026-01-29 (cross-review with topology-of-cognitive-failure.md)](/reviews/deep-review-2026-01-29-voids/)
 **Context**: Cross-review considering new origin-of-consciousness.md article
 **Word count**: 2030 → 2025 (-5 words, length-neutral mode)
 

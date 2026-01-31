@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Haecceity and Indexical Identity"
+title: Deep Review - Haecceity and Indexical Identity
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T18:00:00+00:00
+ai_modified: 2026-01-26 18:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: Haecceity and Indexical Identity
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/haecceity.md
-**Previous review**: 2026-01-20
+**Article**: [[haecceity|Haecceity and Indexical Identity]]
+**Previous review**: [[deep-review-2026-01-20-haecceity|2026-01-20]]
 **Cross-review context**: vertiginous-question.md insights
 
 ## Pessimistic Analysis Summary

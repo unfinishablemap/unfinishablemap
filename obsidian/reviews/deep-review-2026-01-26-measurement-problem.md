@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Measurement Problem"
+title: Deep Review - The Measurement Problem
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T19:07:38+00:00
+ai_modified: 2026-01-26 19:07:38+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: The Measurement Problem
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/measurement-problem.md
-**Previous review**: 2026-01-25
+**Article**: [[measurement-problem|The Measurement Problem]]
+**Previous review**: [[deep-review-2026-01-25-measurement-problem|2026-01-25]]
 **Context**: Cross-review considering spontaneous-collapse-theories.md
 **Word count**: 2444 → 2494 (+50 words, at 100% of soft threshold)
 

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Epiphenomenalism"
+title: Deep Review - Epiphenomenalism
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T19:01:35+00:00
+ai_modified: 2026-01-26 19:01:35+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: Epiphenomenalism
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/epiphenomenalism.md
-**Previous review**: 2026-01-19 (note: an earlier review on 2026-01-21 was for a different file path—obsidian/arguments/epiphenomenalism.md)
+**Article**: [[epiphenomenalism|Epiphenomenalism]]
+**Previous review**: [[deep-review-2026-01-19-epiphenomenalism|2026-01-19 (note: an earlier review on 2026-01-21 was for a different file path—obsidian/arguments/epiphenomenalism.md)]]
 
 ## Pessimistic Analysis Summary
 

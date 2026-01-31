@@ -16,11 +16,9 @@ title: Deep Review - Phenomenology
 topics: []
 ---
 
-# Deep Review: Phenomenology
-
 **Date**: 2026-01-30
-**File**: obsidian/concepts/phenomenology.md
-**Previous review**: 2026-01-24
+**Article**: [Phenomenology](/concepts/phenomenology/)
+**Previous review**: [2026-01-24](/reviews/deep-review-2026-01-24-phenomenology/)
 **Context**: Cross-review considering existentialism.md insights
 
 ## Pessimistic Analysis Summary

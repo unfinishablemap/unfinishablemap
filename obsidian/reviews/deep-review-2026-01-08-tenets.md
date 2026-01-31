@@ -1,22 +1,20 @@
 ---
-title: "Deep Review - Tenets"
+title: Deep Review - Tenets
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-01-08T02:30:00+00:00
+ai_modified: 2026-01-08 02:30:00+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
-  - "[[tenets]]"
+- '[[tenets]]'
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-08
 last_curated: null
 ---
-
-# Deep Review: Tenets
 
 **File reviewed**: `tenets/tenets.md`
 **Date**: 2026-01-08

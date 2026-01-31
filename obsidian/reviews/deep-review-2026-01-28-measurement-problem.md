@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Measurement Problem"
+title: Deep Review - The Measurement Problem
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-28T16:16:15+00:00
+ai_modified: 2026-01-28 16:16:15+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-28
 last_curated: null
 ---
 
-# Deep Review: The Measurement Problem
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/measurement-problem.md
-**Previous review**: 2026-01-27
+**Article**: [[measurement-problem|The Measurement Problem]]
+**Previous review**: [[deep-review-2026-01-27-measurement-problem|2026-01-27]]
 **Context**: Cross-review considering QBism (qbism.md now exists)
 **Word count**: 2485 → 2489 (+4 words, at 100% of soft threshold)
 

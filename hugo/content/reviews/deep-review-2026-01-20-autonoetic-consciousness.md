@@ -16,10 +16,8 @@ title: Deep Review - Autonoetic Consciousness
 topics: []
 ---
 
-# Deep Review: Autonoetic Consciousness
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/autonoetic-consciousness.md
+**Article**: [Autonoetic Consciousness](/concepts/autonoetic-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

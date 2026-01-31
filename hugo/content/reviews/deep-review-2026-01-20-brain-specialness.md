@@ -16,10 +16,8 @@ title: Deep Review - Brain Specialness
 topics: []
 ---
 
-# Deep Review: Brain Specialness
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/brain-specialness.md
+**Article**: [Brain Specialness](/archive/concepts/brain-specialness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

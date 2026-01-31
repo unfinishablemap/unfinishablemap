@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Natural vs. Designed Cognitive Limits"
+title: Deep Review - Natural vs. Designed Cognitive Limits
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T01:30:00+00:00
+ai_modified: 2026-01-31 01:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-31
 last_curated: null
 ---
 
-# Deep Review: Natural vs. Designed Cognitive Limits
-
 **Date**: 2026-01-31
-**File**: obsidian/voids/natural-vs-designed-limits.md
+**Article**: [[natural-vs-designed-limits|Natural vs. Designed Cognitive Limits]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

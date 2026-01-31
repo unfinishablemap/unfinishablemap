@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Qualia"
+title: Deep Review - Qualia
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-24T03:15:00+00:00
+ai_modified: 2026-01-24 03:15:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-24
 last_curated: null
 ---
 
-# Deep Review: Qualia
-
 **Date**: 2026-01-24
-**File**: obsidian/concepts/qualia.md
-**Previous review**: 2026-01-20T09:35:00+00:00
+**Article**: [[qualia|Qualia]]
+**Previous review**: [[deep-review-2026-01-20-qualia|2026-01-20T09:35:00+00:00]]
 
 ## Pessimistic Analysis Summary
 

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Neural Quantum Coherence"
+title: Deep Review - Neural Quantum Coherence
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-19T10:06:00+00:00
+ai_modified: 2026-01-19 10:06:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-19
 last_curated: null
 ---
 
-# Deep Review: Neural Quantum Coherence
-
 **Date**: 2026-01-19
-**File**: `obsidian/concepts/neural-quantum-coherence.md`
+**Article**: [[neural-quantum-coherence|Neural Quantum Coherence]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

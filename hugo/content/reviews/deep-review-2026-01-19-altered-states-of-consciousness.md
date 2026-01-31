@@ -16,10 +16,8 @@ title: Deep Review - Altered States of Consciousness
 topics: []
 ---
 
-# Deep Review: Altered States of Consciousness
-
 **Date**: 2026-01-19
-**File**: obsidian/concepts/altered-states-of-consciousness.md
+**Article**: [Altered States of Consciousness](/concepts/altered-states-of-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -16,10 +16,8 @@ title: Deep Review - Phenomenology of Authentic vs. Inauthentic Choice
 topics: []
 ---
 
-# Deep Review: Phenomenology of Authentic vs. Inauthentic Choice
-
 **Date**: 2026-01-30
-**File**: obsidian/topics/authentic-vs-inauthentic-choice.md
+**Article**: [Phenomenology of Authentic vs. Inauthentic Choice](/topics/authentic-vs-inauthentic-choice/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

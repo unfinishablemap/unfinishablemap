@@ -16,10 +16,8 @@ title: Deep Review - Phenomenal Consciousness
 topics: []
 ---
 
-# Deep Review: Phenomenal Consciousness
-
 **Date**: 2026-01-25
-**File**: concepts/phenomenal-consciousness.md
+**Article**: [Phenomenal Consciousness](/concepts/phenomenal-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

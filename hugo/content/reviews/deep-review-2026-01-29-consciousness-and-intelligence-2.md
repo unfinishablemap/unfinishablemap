@@ -16,11 +16,9 @@ title: Deep Review - Consciousness and Intelligence (2nd)
 topics: []
 ---
 
-# Deep Review: Consciousness and Intelligence (2nd Review)
-
 **Date**: 2026-01-29
-**File**: obsidian/topics/consciousness-and-intelligence.md
-**Previous review**: 2026-01-29 (earlier today)
+**Article**: [Consciousness and Intelligence](/topics/consciousness-and-intelligence/)
+**Previous review**: [2026-01-29 (earlier today)](/reviews/deep-review-2026-01-29-consciousness-and-intelligence/)
 
 ## Context
 

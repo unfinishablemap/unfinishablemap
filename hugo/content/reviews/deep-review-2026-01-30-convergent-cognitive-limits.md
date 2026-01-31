@@ -16,10 +16,8 @@ title: Deep Review - Convergent Cognitive Limits
 topics: []
 ---
 
-# Deep Review: Convergent Cognitive Limits
-
 **Date**: 2026-01-30
-**File**: obsidian/voids/convergent-cognitive-limits.md
+**Article**: [Convergent Cognitive Limits](/voids/convergent-cognitive-limits/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

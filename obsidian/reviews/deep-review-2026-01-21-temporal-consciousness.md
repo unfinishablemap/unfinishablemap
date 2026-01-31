@@ -1,14 +1,14 @@
 ---
-title: "Deep Review - Temporal Consciousness"
+title: Deep Review - Temporal Consciousness
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-21T18:30:00+00:00
+ai_modified: 2026-01-21 18:30:00+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
-  - "[[temporal-consciousness]]"
+- '[[temporal-consciousness]]'
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -16,10 +16,8 @@ ai_generated_date: 2026-01-21
 last_curated: null
 ---
 
-# Deep Review: Temporal Consciousness
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/temporal-consciousness.md
+**Article**: [[temporal-consciousness|Temporal Consciousness]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

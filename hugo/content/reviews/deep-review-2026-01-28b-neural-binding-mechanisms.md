@@ -16,11 +16,9 @@ title: Deep Review - Neural Binding Mechanisms (Second Pass)
 topics: []
 ---
 
-# Deep Review: Neural Binding Mechanisms (Second Pass)
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/neural-binding-mechanisms.md
-**Previous review**: 2026-01-28 (earlier today)
+**Article**: [Neural Binding Mechanisms](/concepts/neural-binding-mechanisms/)
+**Previous review**: [2026-01-28 (earlier today)](/reviews/deep-review-2026-01-28-neural-binding-mechanisms/)
 
 ## Review Context
 

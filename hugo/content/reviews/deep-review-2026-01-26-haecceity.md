@@ -16,11 +16,9 @@ title: Deep Review - Haecceity and Indexical Identity
 topics: []
 ---
 
-# Deep Review: Haecceity and Indexical Identity
-
 **Date**: 2026-01-26
-**File**: obsidian/concepts/haecceity.md
-**Previous review**: 2026-01-20
+**Article**: [Haecceity and Indexical Identity](/concepts/haecceity/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-haecceity/)
 **Cross-review context**: vertiginous-question.md insights
 
 ## Pessimistic Analysis Summary

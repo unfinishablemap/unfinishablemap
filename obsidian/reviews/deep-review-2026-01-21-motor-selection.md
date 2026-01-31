@@ -6,8 +6,6 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 ---
 
-# Deep Review: Motor Selection and the Quantum Zeno Effect
-
 **Date**: 2026-01-21
 **Article**: [[motor-selection]]
 **Trigger**: Task queue (integrate research from motor-control-quantum-zeno-2026-01-18.md)

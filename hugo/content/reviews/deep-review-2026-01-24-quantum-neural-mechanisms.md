@@ -16,10 +16,8 @@ title: Deep Review - Quantum Neural Mechanisms
 topics: []
 ---
 
-# Deep Review: Quantum Neural Mechanisms
-
 **Date**: 2026-01-24
-**File**: obsidian/concepts/quantum-neural-mechanisms.md
+**Article**: [Quantum Neural Mechanisms](/concepts/quantum-neural-mechanisms/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

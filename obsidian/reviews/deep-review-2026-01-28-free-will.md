@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Free Will and Determinism"
+title: Deep Review - Free Will and Determinism
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-28T20:29:26+00:00
+ai_modified: 2026-01-28 20:29:26+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-28
 last_curated: null
 ---
 
-# Deep Review: Free Will and Determinism
-
 **Date**: 2026-01-28
-**File**: obsidian/topics/free-will.md
-**Previous review**: 2026-01-27
+**Article**: [[free-will|Free Will and Determinism]]
+**Previous review**: [[deep-review-2026-01-27-free-will|2026-01-27]]
 **Cross-review context**: motor-selection.md
 
 ## Pessimistic Analysis Summary

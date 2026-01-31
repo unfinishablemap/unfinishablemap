@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Mind-Matter Interface"
+title: Deep Review - The Mind-Matter Interface
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T18:30:00+00:00
+ai_modified: 2026-01-20 18:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: The Mind-Matter Interface
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/mind-matter-interface.md
+**Article**: [[mind-matter-interface|The Mind-Matter Interface: Unifying Filter Theory and Quantum Selection]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

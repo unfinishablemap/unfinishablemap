@@ -16,11 +16,9 @@ title: Deep Review - Phenomenal Value Realism
 topics: []
 ---
 
-# Deep Review: Phenomenal Value Realism
-
 **Date**: 2026-01-30
-**File**: obsidian/concepts/phenomenal-value-realism.md
-**Previous review**: 2026-01-20
+**Article**: [Phenomenal Value Realism](/concepts/phenomenal-value-realism/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-phenomenal-value-realism/)
 **Cross-review context**: experiential-alignment.md
 
 ## Pessimistic Analysis Summary

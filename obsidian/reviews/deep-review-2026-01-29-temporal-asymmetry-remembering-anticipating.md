@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Asymmetry Between Remembering and Anticipating"
+title: Deep Review - The Asymmetry Between Remembering and Anticipating
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T22:40:00+00:00
+ai_modified: 2026-01-29 22:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: The Asymmetry Between Remembering and Anticipating
-
 **Date**: 2026-01-29
-**File**: obsidian/voids/temporal-asymmetry-remembering-anticipating.md
+**Article**: [[temporal-asymmetry-remembering-anticipating|The Asymmetry Between Remembering and Anticipating]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

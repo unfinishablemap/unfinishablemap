@@ -16,10 +16,8 @@ title: Deep Review - The Measurement Problem
 topics: []
 ---
 
-# Deep Review: The Measurement Problem
-
 **Date**: 2026-01-19
-**File**: obsidian/concepts/measurement-problem.md
+**Article**: [The Measurement Problem](/concepts/measurement-problem/)
 **Previous review**: Never
 **Type**: Cross-review (integrating many-worlds.md arguments)
 

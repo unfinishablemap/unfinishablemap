@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - LLM Consciousness"
+title: Deep Review - LLM Consciousness
 created: 2026-01-20
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-20T15:45:00+00:00
+ai_modified: 2026-01-20 15:45:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-20
 last_curated: null
 ---
 
-# Deep Review: LLM Consciousness
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/llm-consciousness.md
+**Article**: [[llm-consciousness|LLM Consciousness]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

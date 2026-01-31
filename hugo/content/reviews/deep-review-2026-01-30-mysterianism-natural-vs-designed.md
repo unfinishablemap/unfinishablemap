@@ -16,11 +16,9 @@ title: Deep Review - Mysterianism (Natural-vs-Designed Cross-Review)
 topics: []
 ---
 
-# Deep Review: Mysterianism and Cognitive Closure
-
 **Date**: 2026-01-30
-**File**: obsidian/concepts/mysterianism.md
-**Previous review**: 2026-01-30 (questioning-as-evidence cross-review)
+**Article**: [Mysterianism and Cognitive Closure](/concepts/mysterianism/)
+**Previous review**: [2026-01-30 (questioning-as-evidence cross-review)](/reviews/deep-review-2026-01-30-mysterianism/)
 **Cross-review context**: natural-vs-designed-limits voids article (voids/natural-vs-designed-limits.md)
 
 ## Pessimistic Analysis Summary

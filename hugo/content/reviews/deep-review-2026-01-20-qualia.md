@@ -16,10 +16,8 @@ title: Deep Review - Qualia
 topics: []
 ---
 
-# Deep Review: Qualia
-
 **Date**: 2026-01-20
-**File**: obsidian/concepts/qualia.md
+**Article**: [Qualia](/concepts/qualia/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

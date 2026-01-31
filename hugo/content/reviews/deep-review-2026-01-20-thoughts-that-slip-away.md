@@ -16,10 +16,8 @@ title: Deep Review - Thoughts That Slip Away
 topics: []
 ---
 
-# Deep Review: Thoughts That Slip Away
-
 **Date**: 2026-01-20
-**File**: obsidian/voids/thoughts-that-slip-away.md
+**Article**: [Thoughts That Slip Away](/voids/thoughts-that-slip-away/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

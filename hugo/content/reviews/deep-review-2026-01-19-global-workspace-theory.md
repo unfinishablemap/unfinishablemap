@@ -16,10 +16,8 @@ title: Deep Review - Global Workspace Theory
 topics: []
 ---
 
-# Deep Review: Global Workspace Theory
-
 **Date**: 2026-01-19
-**File**: concepts/global-workspace-theory.md
+**Article**: [Global Workspace Theory](/concepts/global-workspace-theory/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

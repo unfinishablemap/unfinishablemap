@@ -16,11 +16,9 @@ title: Deep Review - Buddhism and Dualism
 topics: []
 ---
 
-# Deep Review: Buddhism and Dualism
-
 **Date**: 2026-01-27
-**File**: obsidian/concepts/buddhism-and-dualism.md
-**Previous review**: 2026-01-19
+**Article**: [Buddhism and Dualism](/concepts/buddhism-and-dualism/)
+**Previous review**: [2026-01-19](/reviews/deep-review-2026-01-19-buddhism-and-dualism/)
 
 ## Pessimistic Analysis Summary
 

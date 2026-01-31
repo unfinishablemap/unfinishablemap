@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Default Mode Network"
+title: Deep Review - Default Mode Network
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T05:03:58+00:00
+ai_modified: 2026-01-29 05:03:58+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-29
 last_curated: null
 ---
 
-# Deep Review: Default Mode Network
-
 **Date**: 2026-01-29
-**File**: obsidian/concepts/default-mode-network.md
+**Article**: [[default-mode-network|Default Mode Network]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Phenomenal Binding"
+title: Deep Review - Phenomenal Binding
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-24T19:30:00+00:00
+ai_modified: 2026-01-24 19:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-24
 last_curated: null
 ---
 
-# Deep Review: Phenomenal Binding
-
 **Date**: 2026-01-24
-**File**: concepts/phenomenal-binding.md
+**Article**: [[phenomenal-binding|Phenomenal Binding]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

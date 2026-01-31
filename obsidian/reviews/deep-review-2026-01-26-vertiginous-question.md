@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - The Vertiginous Question"
+title: Deep Review - The Vertiginous Question
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T20:30:00+00:00
+ai_modified: 2026-01-26 20:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-26
 last_curated: null
 ---
 
-# Deep Review: The Vertiginous Question
-
 **Date**: 2026-01-26
-**File**: obsidian/topics/vertiginous-question.md
+**Article**: [[vertiginous-question|The Vertiginous Question]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

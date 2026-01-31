@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Chalmers on Psychophysical Coupling"
+title: Deep Review - Chalmers on Psychophysical Coupling
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T17:00:00+00:00
+ai_modified: 2026-01-27 17:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Chalmers on Psychophysical Coupling
-
 **Date**: 2026-01-27
-**File**: obsidian/topics/chalmers-psychophysical-coupling.md
+**Article**: [[chalmers-psychophysical-coupling|Chalmers on Psychophysical Coupling]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

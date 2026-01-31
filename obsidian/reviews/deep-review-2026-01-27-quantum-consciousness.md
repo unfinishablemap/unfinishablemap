@@ -1,15 +1,15 @@
 ---
-title: "Deep Review - Quantum Consciousness Mechanisms"
+title: Deep Review - Quantum Consciousness Mechanisms
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T16:30:00+00:00
+ai_modified: 2026-01-27 16:30:00+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
-  - "[[quantum-consciousness]]"
-  - "[[quantum-neural-mechanisms]]"
+- '[[quantum-consciousness]]'
+- '[[quantum-neural-mechanisms]]'
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -17,11 +17,9 @@ ai_generated_date: 2026-01-27
 last_curated: null
 ---
 
-# Deep Review: Quantum Consciousness Mechanisms
-
 **Date**: 2026-01-27
-**File**: concepts/quantum-consciousness.md
-**Previous review**: 2026-01-23
+**Article**: [[quantum-consciousness|Quantum Consciousness]]
+**Previous review**: [[deep-review-2026-01-23-quantum-consciousness|2026-01-23]]
 **Context**: Cross-review considering quantum-neural-mechanisms insights
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Functionalism"
+title: Deep Review - Functionalism
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-01-28T21:43:00+00:00
+ai_modified: 2026-01-28 21:43:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-28
 last_curated: null
 ---
 
-# Deep Review: Functionalism
-
 **Date**: 2026-01-28
-**File**: obsidian/concepts/functionalism.md
-**Previous review**: 2026-01-20
+**Article**: [[functionalism|Functionalism]]
+**Previous review**: [[deep-review-2026-01-20-functionalism|2026-01-20]]
 
 ## Pessimistic Analysis Summary
 

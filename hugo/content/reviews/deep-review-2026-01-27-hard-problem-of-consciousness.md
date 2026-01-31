@@ -16,11 +16,9 @@ title: Deep Review - The Hard Problem of Consciousness
 topics: []
 ---
 
-# Deep Review: The Hard Problem of Consciousness
-
 **Date**: 2026-01-27
-**File**: obsidian/topics/hard-problem-of-consciousness.md
-**Previous review**: 2026-01-20
+**Article**: [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/)
+**Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-hard-problem-of-consciousness/)
 **Context**: Cross-review considering intrinsic-nature-void insights
 
 ## Pessimistic Analysis Summary

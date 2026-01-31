@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Illusionism"
+title: Deep Review - Illusionism
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T01:46:00+00:00
+ai_modified: 2026-01-31 01:46:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,11 +15,9 @@ ai_generated_date: 2026-01-31
 last_curated: null
 ---
 
-# Deep Review: Illusionism
-
 **Date**: 2026-01-31
-**File**: obsidian/concepts/illusionism.md
-**Previous review**: 2026-01-20
+**Article**: [[illusionism|Illusionism]]
+**Previous review**: [[deep-review-2026-01-20-illusionism|2026-01-20]]
 
 ## Pessimistic Analysis Summary
 

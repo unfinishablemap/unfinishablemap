@@ -17,10 +17,8 @@ title: Deep Review - Quantum Coherence Protection in Neural Systems
 topics: []
 ---
 
-# Deep Review: Quantum Coherence Protection in Neural Systems
-
 **Date**: 2026-01-21
-**File**: obsidian/concepts/quantum-coherence-protection.md
+**Article**: [Quantum Coherence Protection in Neural Systems](/concepts/quantum-coherence-protection/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,9 +1,9 @@
 ---
-title: "Deep Review - Subjective Probability and Quantum Measurement"
+title: Deep Review - Subjective Probability and Quantum Measurement
 created: 2026-01-25
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-25T19:30:00+00:00
+ai_modified: 2026-01-25 19:30:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -15,10 +15,8 @@ ai_generated_date: 2026-01-25
 last_curated: null
 ---
 
-# Deep Review: Subjective Probability and Quantum Measurement
-
 **Date**: 2026-01-25
-**File**: obsidian/concepts/subjective-probability-quantum-measurement.md
+**Article**: [[subjective-probability-quantum-measurement|Subjective Probability Quantum Measurement]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
