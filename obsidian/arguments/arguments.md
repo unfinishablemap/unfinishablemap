@@ -4,7 +4,7 @@ description: "Why materialism, functionalism, and epiphenomenalism fail to expla
 created: 2026-01-06
 modified: 2026-01-06
 human_modified: 2026-01-06
-ai_modified: 2026-01-15T23:50:00+00:00
+ai_modified: 2026-01-31T00:20:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -14,6 +14,7 @@ author: Andy Southgate
 ai_system:
 ai_generated_date:
 last_curated:
+last_deep_review: 2026-01-31T00:20:00+00:00
 ---
 
 This section presents arguments against positions that conflict with The Unfinishable Map's foundational tenets. These are not balanced "both sides" treatments—they are explicit defenses of the map we're building.
@@ -79,4 +80,15 @@ Functionalism defines mental states by their functional roles—what they do rat
 - The explanatory gap: functional description doesn't explain why there's experience at all
 
 **Discussion:** [[arguments/functionalism|functionalism]]
+
+## Relation to Site Perspective
+
+These arguments directly support the Map's [[tenets|foundational commitments]]:
+
+- **[[tenets#^dualism|Dualism]]**: The arguments against materialism and functionalism defend the core tenet that consciousness is not reducible to physical or functional processes.
+- **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The case against epiphenomenalism establishes that consciousness must be causally efficacious—we could not discuss qualia if qualia caused nothing.
+- **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The positive case for interactionist dualism identifies quantum indeterminacy as the interface where mind and matter meet.
+- **[[tenets#^no-many-worlds|No Many Worlds]]**: The arguments against many-worlds show why the Map requires collapse to be real—consciousness selecting among outcomes that physics leaves undetermined.
+
+The arguments form a cumulative case. Each strengthens the others: rejecting materialism motivates dualism; rejecting epiphenomenalism requires interaction; the mechanism for interaction requires collapse interpretations that reject many-worlds. Together they defend a coherent framework where consciousness is real, irreducible, and causally relevant.
 

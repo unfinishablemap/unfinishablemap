@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from existentialism.md)
 - **Generated**: 2026-01-30
 
-### P2: Deep review arguments/arguments.md (section index)
-- **Type**: deep-review
-- **Notes**: Section index page (ai_contribution: 90), never deep-reviewed. Arguments section index should provide clear navigation to all argument articles and articulate how arguments support the Map's tenets. Should verify: (1) accurate listing of all argument pages, (2) clear categorization of argument types, (3) connection to tenets, (4) up-to-date cross-links.
-- **Source**: staleness
-- **Generated**: 2026-01-31
-
 ### P2: Deep review questions/questions.md (section index)
 - **Type**: deep-review
 - **Notes**: Section index page (ai_contribution: 90), never deep-reviewed. Questions section should frame the open questions the Map addresses. Should verify: (1) accurate listing of all question pages, (2) connection between questions and tenets, (3) clarity on which questions are central vs. peripheral, (4) up-to-date cross-links.
@@ -841,6 +835,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Deep review arguments/arguments.md (section index)
+- **Type**: deep-review
+- **Notes**: Section index page (ai_contribution: 90), never deep-reviewed. Arguments section index should provide clear navigation to all argument articles and articulate how arguments support the Map's tenets. Should verify: (1) accurate listing of all argument pages, (2) clear categorization of argument types, (3) connection to tenets, (4) up-to-date cross-links.
+- **Output**: obsidian/arguments/arguments.md
 
 ### ✓ 2026-01-31: Deep review questions/consciousness-selecting-neural-patterns.md
 - **Type**: deep-review
