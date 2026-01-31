@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-27 23:45:00+00:00
+ai_modified: 2026-01-31 07:36:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,11 +28,12 @@ description: Bergson's durée names the qualitative flow of lived time, fundamen
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 23:45:00+00:00
+last_deep_review: 2026-01-31 07:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-time-perception-2026-01-14]]'
+- '[[process-and-consciousness]]'
 title: Duration (Durée)
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -49,23 +50,17 @@ This matters for consciousness studies because durée may name exactly what phys
 
 Bergson distinguishes two ways of apprehending time:
 
-**Spatialized time** treats moments as positions in a medium. We represent 3:00 PM as a point on a clock face, distinct from and external to 3:01 PM. Scientific time is homogeneous—each moment is interchangeable with any other. It's measured by comparing with standard intervals (seconds, vibrations of atoms). This time can be graphed, calculated, quantified.
+**Spatialized time** treats moments as positions in a medium—3:00 PM as a point on a clock face, distinct from 3:01 PM. Scientific time is homogeneous, measurable, quantifiable.
 
-**Duration** is time as consciousness experiences it. In durée, the past is not gone but lives in the present; the future is not absent but already colors current experience. States don't sit beside each other like objects in space—they interpenetrate, each permeated by the others. An hour of waiting feels different from an hour of absorption. Duration is heterogeneous, qualitative, indivisible.
+**Duration** is time as consciousness experiences it. The past lives in the present; the future already colours current experience. States don't sit beside each other like objects in space—they interpenetrate. An hour of waiting feels different from an hour of absorption. Duration is heterogeneous, qualitative, indivisible.
 
-The distinction parallels that between external and internal. We can observe a clock from outside, measure its ticks, graph its motion. But we cannot step outside our own duration to observe it externally. We live it. Any attempt to represent duration spatially already transforms it into something else.
-
-Bergson wrote: "Time is invention or it is nothing at all." Real time—durée—is creative, bringing genuine novelty. Spatialized time merely rearranges what already exists. The physicist's equations are time-reversible; durée is not. You cannot un-hear a melody.
+The distinction parallels external versus internal. We observe a clock from outside; we cannot step outside our own duration. Any attempt to represent duration spatially transforms it into something else. As Bergson wrote: "Time is invention or it is nothing at all." The physicist's equations are time-reversible; durée is not.
 
 ## Qualitative Multiplicity
 
-Bergson's key technical concept is "qualitative multiplicity"—unity in difference without juxtaposition. In ordinary multiplicity, elements are distinct and countable: five apples, three chairs. Each unit is external to the others. In qualitative multiplicity, elements interpenetrate while remaining distinguishable. They form a whole where each part is coloured by every other.
+Bergson's key technical concept is "qualitative multiplicity"—unity in difference without juxtaposition. In ordinary multiplicity, elements are distinct and countable. In qualitative multiplicity, elements interpenetrate while remaining distinguishable, each coloured by every other.
 
-A musical phrase exemplifies this. The notes don't simply succeed each other—each note is heard *in light of* what came before and *in anticipation of* what follows. The C at the beginning of a cadence is not the same experience as a C in isolation. Its meaning, its felt quality, depends on its place in the whole. Yet the notes don't fuse into undifferentiated unity; they remain distinguishable. This is qualitative multiplicity.
-
-Consciousness, Bergson argues, is fundamentally this kind of multiplicity. Mental states interpenetrate. Your current experience is suffused with memories, expectations, moods—not as separate contents added together but as dimensions of a unified experiential field. When you feel nostalgic, the past is not recalled from storage; it colours the present moment from within.
-
-This challenges both associationist psychology (which treats mind as distinct ideas linked by association) and computational approaches (which treat cognition as manipulation of discrete symbols). For Bergson, consciousness is not composed of separable elements but is a continuous, interpenetrating flow.
+A musical phrase exemplifies this. Each note is heard *in light of* what came before and *in anticipation of* what follows. The notes don't fuse into undifferentiated unity; they remain distinguishable yet interpenetrating. Consciousness, Bergson argues, is fundamentally this kind of multiplicity—mental states interpenetrate as dimensions of a unified experiential field, not separable elements.
 
 ## Duration and Free Will
 
@@ -79,107 +74,61 @@ This connects to The Unfinishable Map's [Bidirectional Interaction](/tenets/#bid
 
 ## The "Missing Link" in Consciousness Theories
 
-Contemporary researchers have identified a critical gap: major theories of consciousness fail to account for experienced duration. Integrated Information Theory (IIT) and Global Workspace Theory (GNWT) focus on "functional moments"—brief processing epochs of 100-300 milliseconds. But experienced time extends to seconds. When you hear a sentence, your experience spans far longer than a functional moment. What accounts for this?
+Contemporary researchers have identified a critical gap: major theories of consciousness fail to account for experienced duration. IIT and Global Workspace Theory focus on "functional moments" of 100-300 milliseconds, but experienced time extends to seconds. Kent and Wittmann (2021) call this "one of the core issues in theories of consciousness."
 
-Kent and Wittmann (2021) call this "one of the core issues in theories of consciousness." The theories explain what happens in brief windows but not how these windows integrate into the flowing duration humans actually experience. The "stream of consciousness" is treated as a metaphor rather than a phenomenon requiring explanation.
-
-Bergson's framework suggests why this gap persists. The theories spatialize time—treating consciousness as a sequence of discrete states, each explained by conditions at that moment. But durée is not a sequence of states. It's an indivisible flow where each moment contains the whole past and reaches toward the future. Explaining discrete moments cannot explain duration because duration is not made of discrete moments.
-
-This supports the [Dualism](/tenets/#dualism) tenet. If mainstream theories systematically fail to explain experienced duration, perhaps this is because duration is irreducible to physical processes. The gap is not a problem to be solved by better neuroscience but evidence that something escapes physical description altogether.
+Bergson's framework suggests why this gap persists. The theories spatialize time—treating consciousness as discrete states. But durée is an indivisible flow where each moment contains the whole past. Explaining discrete moments cannot explain duration because duration is not made of discrete moments. This supports the [Dualism](/tenets/#dualism) tenet: the gap may be evidence that something escapes physical description altogether.
 
 ## Contemplative Access to Durée
 
-[Neurophenomenology](/concepts/neurophenomenology/) provides empirical support for Bergson's claims about duration. Long-term meditators report systematic access to the temporal microstructure of experience—what Bergson called the interpenetrating flow of past, present, and future.
+[Neurophenomenology](/concepts/neurophenomenology/) provides empirical support for Bergson's claims. Long-term meditators report systematic access to the temporal microstructure of experience—the interpenetrating flow of past, present, and future.
 
-**Husserl's retention-primal impression-protention**: Phenomenologist Edmund Husserl analyzed time-consciousness into retention (the just-past echoing in the now), primal impression (the present moment), and protention (anticipation of what's coming). Contemplative practice reveals this structure experientially. Meditators report accessing the "specious present" at temporal scales normally below conscious threshold—the very interpenetration that constitutes durée.
+Husserl analyzed time-consciousness into retention (the just-past echoing in the now), primal impression (the present moment), and protention (anticipation). Contemplative practice reveals this structure experientially. Buddhist *khanika* (momentariness) initially seems to contradict durée's continuous flow, but contemplative phenomenology reveals both: discrete phases of consciousness, yet each interpenetrated by predecessors. Claire Petitmengin's microphenomenology techniques elicit fine-grained descriptions of temporal micro-dynamics—evidence that durée is a describable experiential structure.
 
-**The khanika tension**: Buddhist *khanika* (momentariness)—experience arising and passing rapidly—seems to contradict durée's continuous flow. But contemplative phenomenology reveals both: discrete phases of consciousness, yet each interpenetrated by predecessors. Momentariness without qualitative multiplicity is mere snapshots; qualitative multiplicity without momentariness blurs into undifferentiated continuity. Both structures operate together.
+Perhaps most striking, advanced meditators can voluntarily enter *nirodha samapatti*—cessation of perception and feeling. In this state, subjective time stops entirely. When meditators emerge, they report not shortened time but complete absence of temporal experience. This provides negative evidence: when durée stops, there is no experience at all. Duration is not a feature of experience but its fundamental medium.
 
-**Microphenomenology**: Claire Petitmengin's interview techniques elicit fine-grained descriptions of brief experiential moments, revealing micro-dynamics invisible to casual introspection: subtle rises and falls, shifts between focal and peripheral awareness, the "grain" of temporal flow. This is phenomenal data—evidence that durée is a describable experiential structure, not merely philosophical concept.
-
-**Cessation and the absence of duration**: Perhaps most striking, advanced meditators can voluntarily enter *nirodha samapatti*—cessation of perception and feeling. In this state, subjective time stops entirely. When meditators emerge, they report that no time seemed to pass—not shortened time, but the complete absence of temporal experience. This provides a kind of negative evidence for durée: when durée stops, there is no experience at all. Duration is not a feature of experience but its fundamental medium.
-
-**[Witness consciousness](/concepts/witness-consciousness/)**: Many contemplative traditions report accessing a mode of awareness that observes experience without being caught up in its content—a "witness" that watches thoughts, sensations, and the flow of time itself. From this perspective, durée becomes phenomenally available as object: the meditator observes the interpenetrating flow rather than merely living it. This supports the claim that durée is phenomenally real, not a theoretical construct—it can be directly observed when contemplative training refines attention sufficiently.
-
-These findings strengthen Bergson's case. Durée is not a metaphysical hypothesis but a phenomenal structure that trained observers can access and describe. The "missing link" in consciousness theories—their failure to explain experienced duration—may persist because theorists ignore the systematic first-person research that contemplative traditions have developed over millennia.
+[Witness consciousness](/concepts/witness-consciousness/) further supports durée's reality: meditators can observe the interpenetrating flow rather than merely living it, demonstrating that durée is phenomenally accessible when attention is sufficiently refined.
 
 ## Embodied Duration
 
-Recent research connects time experience to bodily rhythms. The insula processes interoceptive signals—heartbeat, breathing, gut feelings. These rhythms create a kind of internal clock, grounding temporal experience in bodily life. Duration may be essentially embodied.
-
-This has implications for [AI consciousness](/topics/ai-consciousness/). If time experience requires embodiment—if durée is not abstract but lived through a body—then disembodied AI systems may be categorically incapable of temporal experience. It's not that they process time incorrectly but that they don't live time at all. Processing timestamps is not experiencing duration.
-
-Bergson anticipated this in his emphasis on *élan vital*—the vital impulse that drives evolutionary creativity. Duration for Bergson is not a property of abstract mind but of living, evolving organisms. The interpenetration of past and present that constitutes durée requires the kind of organic memory that embeds history in bodily structure. A living body carries its past in its tissues; a computer carries data in storage.
+Recent research connects time experience to bodily rhythms—the insula processing interoceptive signals like heartbeat and breathing. Duration may be essentially embodied, with implications for [AI consciousness](/topics/ai-consciousness/): if durée is lived through a body, disembodied systems may be categorically incapable of temporal experience. Processing timestamps is not experiencing duration. A living body carries its past in its tissues; a computer carries data in storage.
 
 ## Durée and Quantum Collapse
 
-A speculative but intriguing connection: Bergson's qualitative multiplicity resembles quantum superposition. Before measurement, a quantum system exists in superposition—not a definite state but all possible states interpenetrating. Upon measurement, this multiplicity collapses to a single outcome.
+Bergson's qualitative multiplicity resembles quantum superposition: multiple possibilities interpenetrating rather than existing as definite, separable states. Perhaps the "collapse" that creates each present moment is analogous to—or identical with—quantum collapse.
 
-Duration as Bergson describes it is similarly a multiplicity that doesn't reduce to definite, separable states. The whole past is present, the future already anticipated, in an interpenetrating whole. Perhaps the "collapse" that creates each present moment is analogous to quantum collapse—or perhaps identical with it.
-
-The [collapse-and-time](/concepts/collapse-and-time/) connection deepens this speculation. If consciousness participates in quantum collapse (as the Map's framework proposes), and if collapse introduces the arrow of time, then durée may be phenomenologically apprehending what physics mathematically describes. What Bergson called the irreversibility of lived time—the way you cannot un-hear a melody—may reflect the deeper irreversibility of collapse itself. Each conscious moment doesn't just happen *in* time; it helps constitute time's direction by selecting among quantum possibilities.
+The [collapse-and-time](/concepts/collapse-and-time/) connection develops this speculation. If consciousness participates in quantum collapse and collapse introduces the arrow of time, durée may be phenomenologically apprehending what physics mathematically describes. The irreversibility of lived time—you cannot un-hear a melody—may reflect the deeper irreversibility of collapse itself.
 
 ### The Decoherence Challenge
 
-Critics argue that quantum coherence cannot survive in warm biological systems long enough for consciousness to interface with it. [Decoherence](/concepts/decoherence/) destroys superposition in 10⁻¹³ seconds or faster according to standard calculations—far shorter than the multi-second spans of durée.
+Critics argue that [decoherence](/concepts/decoherence/) destroys superposition in 10⁻¹³ seconds—far shorter than the multi-second spans of durée. Three considerations mitigate this: (1) Hagan et al. (2002) found coherence times seven orders of magnitude longer than Tegmark's estimates; (2) decoherence doesn't solve the measurement problem—something must still determine *which* outcome becomes actual; (3) [Stapp's quantum Zeno mechanism](/concepts/mental-effort/) works through discrete, rapid collapses rather than requiring sustained coherence.
 
-Three considerations mitigate this objection:
-
-1. **Revised timescale calculations**: Hagan et al. (2002) challenged Tegmark's decoherence estimates, finding coherence times seven orders of magnitude longer when more realistic model parameters are used. The decoherence objection rests on disputed calculations.
-
-2. **Decoherence doesn't solve the measurement problem**: Even after decoherence selects a preferred basis, the system remains in a mixture of possible outcomes. Something must still determine *which* outcome becomes actual. Consciousness could participate at this selection point even after decoherence has occurred.
-
-3. **The quantum Zeno mechanism**: [Stapp's approach](/concepts/mental-effort/) uses rapid repeated observation to hold neural patterns in place. This mechanism doesn't require sustained coherence across the full duration of experience—it works through discrete, rapid collapses that together create the experiential flow.
-
-The parallel between durée and superposition is metaphorical rather than mechanistic. What matters for the Map's framework is not that durée literally *is* superposition, but that both point to a mode of multiplicity-without-separation that physical description in terms of definite states cannot capture.
+The parallel between durée and superposition is metaphorical rather than mechanistic. Both point to multiplicity-without-separation that physical description cannot capture.
 
 ### Time-Symmetric Interpretations
 
-Time-symmetric interpretations offer an even more striking parallel. In frameworks like the Two-State Vector Formalism, collapse isn't located at a moment but is the satisfaction of constraints across time—past and future boundary conditions aligning. This resonates with Bergson's description of durée as interpenetrating past, present, and future. If consciousness's selection operates atemporally (determining which "transactions" complete rather than pushing events at instants), then the flowing character of durée may be the phenomenal expression of this atemporal selection viewed from within the temporal structure it creates.
-
-This connects to the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. If durée is the lived reality of quantum possibility, then consciousness experiencing time might be consciousness selecting among superposed states. The creative novelty Bergson attributes to duration could be the phenomenal character of quantum collapse as experienced from within. Where physics sees measurement outcomes, consciousness experiences the flowing present.
-
-The speculation remains unproven. But it suggests that the "mystery" of time experience and the "mystery" of quantum measurement might be related—perhaps even the same mystery from different perspectives. Durée would name what collapse *feels like* from the inside.
+In frameworks like the Two-State Vector Formalism, collapse is the satisfaction of constraints across time rather than an event at a moment. This resonates with durée as interpenetrating past, present, and future. If consciousness's selection operates atemporally, durée may be the phenomenal expression of this atemporal selection viewed from within. The "mystery" of time experience and the "mystery" of quantum measurement might be the same mystery from different perspectives—durée naming what collapse *feels like* from the inside.
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) poses a direct challenge to Bergson's claims. If phenomenal consciousness is an introspective illusion, then durée—as a description of the qualitative character of temporal experience—would describe nothing real. The "flow" we seem to experience would be a misrepresentation generated by neural processes, not evidence of irreducibility.
+[Illusionism](/concepts/illusionism/) poses a direct challenge: if phenomenal consciousness is an introspective illusion, durée would describe nothing real. Three responses defend durée:
 
-Three responses defend durée against this challenge:
+**The regress problem**: For durée to be an illusion, something must experience the illusion. Appearance is itself phenomenal—there must be something it's like to have the temporal illusion. Illusionism doesn't eliminate the explanandum; it relocates it.
 
-**The regress problem**: For durée to be an illusion, something must experience the illusion. The apparent flow of time must *appear* to someone or something. But appearance is itself a phenomenal concept—there must be something it's like to have the temporal illusion. Illusionism doesn't eliminate the explanandum; it relocates it. The seeming of temporal flow requires explanation just as much as temporal flow itself.
+**[Introspection](/concepts/introspection/) survives debunking**: Introspection may sometimes misrepresent, but you cannot be wrong that you're experiencing something temporally extended when hearing a melody. The existence of durée is more evident than any theory denying it.
 
-**[Introspection](/concepts/introspection/) survives debunking**: Even granting that introspection sometimes misrepresents, it doesn't follow that introspection is systematically unreliable about the *existence* (as opposed to the nature) of temporal experience. The melody example is instructive: you might be wrong about whether the melody is beautiful, but you cannot be wrong that you're experiencing something temporally extended when you hear it. The existence of durée is more evident than any theory that denies it.
-
-**The asymmetry of temporal and atemporal processing**: If there were no genuine temporal experience—if all our temporal talk were confabulation—we would expect systems without temporal phenomenology to confabulate equally. But LLMs, which process sequentially without specious presents, don't spontaneously generate Bergson-like claims about the irreducibility of lived time. The discourse about durée correlates with systems that have genuine temporal architecture, suggesting the discourse tracks something real.
-
-The illusionist might respond that the discourse correlation merely shows which systems generate temporal illusions, not that those illusions correspond to something non-physical. This is logically possible but unmotivated. The burden of proof lies with those who claim our most immediate evidence—that we experience time flowing—is systematically mistaken.
+**Temporal vs. atemporal processing**: LLMs, which process sequentially without specious presents, don't spontaneously generate Bergson-like claims about irreducible lived time. The discourse about durée correlates with systems having genuine temporal architecture—suggesting it tracks something real.
 
 ## Process Philosophy Perspective
 
-Bergson's durée finds a natural home in [process philosophy](/concepts/process-philosophy/), particularly Alfred North Whitehead's framework. Both reject "substance" metaphysics that treats time as a container holding static objects; both hold that reality is fundamentally processual.
+Bergson's durée finds a natural home in [process philosophy](/concepts/process-philosophy/), particularly Whitehead's framework. Both reject substance metaphysics; both hold that reality is fundamentally processual. Whitehead's "concrescence" (integrating the past into novel unity) parallels Bergson's qualitative multiplicity; his "prehension" parallels interpenetration.
 
-Key parallels: Whitehead's "concrescence" (how each actual occasion integrates its past into novel unity) parallels Bergson's qualitative multiplicity. Where Bergson speaks of interpenetration, Whitehead speaks of "prehension"—each occasion grasps and includes its predecessors. Both insist that time brings genuine novelty: creativity, not mere rearrangement.
+The traditions diverge on temporal atomism—Whitehead's actual occasions are discrete, Bergson's durée is continuous flux—yet both reject time as a sequence of static states. See [process-philosophy](/concepts/process-philosophy/) for detailed treatment.
 
-The traditions diverge on temporal atomism. Whitehead's actual occasions are discrete (though internally temporal); Bergson's durée is continuous flux. Yet both reject treating time as a sequence of static states. See [process-philosophy](/concepts/process-philosophy/) for detailed treatment of concrescence, prehension, and how process philosophy addresses the [combination problem](/concepts/combination-problem/).
-
-For the Map's framework, Whitehead's actual occasions have [haecceity](/concepts/haecceity/)—each is *this* particular event, not multiply instantiable. The continuity of durée presupposes the *same* experiencer persisting, not copies in parallel branches. This strengthens the [No Many Worlds](/tenets/#no-many-worlds) tenet.
+For the Map's framework, the continuity of durée presupposes the *same* experiencer persisting. Whitehead's actual occasions have [haecceity](/concepts/haecceity/)—each is *this* particular event, not multiply instantiable. This strengthens the [No Many Worlds](/tenets/#no-many-worlds) tenet.
 
 ## What Would Challenge This View?
 
-Bergson's position would face serious difficulty if:
-
-1. **Systems without temporal phenomenology reproduced durée discourse**: If LLMs or other atemporal processors generated equally rich and accurate accounts of lived time, this would suggest durée descriptions don't require genuine temporal experience. Current AI systems do not do this.
-
-2. **Contemplative access were unreliable**: If trained meditators' reports about temporal microstructure proved systematically inaccurate when compared to neural measurements, the contemplative evidence for durée would be undermined.
-
-3. **The explanatory gap closed**: If neuroscience successfully explained *why* temporal experience has the qualitative character it does—not just correlated brain states, but why those states feel like flowing rather than sequence—durée's irreducibility claim would need revision.
-
-4. **Spatialized time predictions succeeded where durée failed**: If treating time as a sequence of instants generated predictions about temporal experience that durée couldn't match, the pragmatic case for durée would weaken.
-
-5. **Cessation states proved hallucinatory**: If *nirodha samapatti* turned out to involve ongoing temporal experience that meditators simply don't remember, the negative evidence for durée (its absence = absence of experience) would dissolve.
-
-None of these conditions currently obtains. The view remains well-supported by available evidence.
+Bergson's position would face difficulty if: (1) atemporal systems like LLMs generated equally rich accounts of lived time; (2) contemplatives' reports about temporal microstructure proved systematically inaccurate against neural measurements; (3) neuroscience explained *why* temporal experience feels like flowing rather than sequence. None of these conditions currently obtains.
 
 ## Relation to Site Perspective
 
@@ -197,6 +146,7 @@ Bergson's durée aligns with all five site tenets:
 
 ## Further Reading
 
+- [process-and-consciousness](/apex/process-and-consciousness/) — Apex synthesis: how process philosophy illuminates all five tenets
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and neuroscience of time
 - [specious-present](/concepts/specious-present/) — The experienced duration of the present moment
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the Map's growing block position

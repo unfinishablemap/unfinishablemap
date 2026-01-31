@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-27 09:34:22+00:00
+ai_modified: 2026-01-31 07:48:21+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -33,7 +33,7 @@ description: Experience flows through time in the specious present. LLMs lack th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 09:34:22+00:00
+last_deep_review: 2026-01-31 07:48:21+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -190,6 +190,7 @@ The temporal argument strengthens the case that consciousness requires something
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — How sleep modulates and can eliminate temporal experience
 - [ai-consciousness](/topics/ai-consciousness/) — Why the Map holds AI systems are not conscious
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework where experience is fundamental to reality
+- [process-and-consciousness](/apex/process-and-consciousness/) — Apex synthesis of process philosophy and the Map's framework
 - [tenets](/tenets/) — The foundational commitments of the Map
 
 ## References
