@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 09:38 UTC - expand-topic (apex)
+- **Status**: Success
+- **Topic**: Minds Without Words (apex article)
+- **Output**: apex/minds-without-words.md
+- **Word count**: 2912
+- **Based on research**: No (synthesis of existing source articles)
+- **Notes**: Created apex article synthesizing animal-consciousness, consciousness-in-simple-organisms, baseline-cognition, phenomenal-consciousness, and emotional-consciousness. Core thesis: non-linguistic consciousness in animals and simple organisms reveals that experience is more fundamental than the cognitive capacities we usually associate with mind. Explores what-is-it-like-to-be-a-bat framework, multiple independent origins of consciousness, baseline cognition vs consciousness-requiring capacities, emotional consciousness and valence, minimal consciousness boundaries (C. elegans, Hydra, slime moulds), the distribution problem, and contemplative perspectives on minimal phenomenal experience.
+
 ## 2026-01-31 09:28 UTC - deep-review
 - **Status**: Success
 - **File**: concepts/phenomenal-concepts-strategy.md

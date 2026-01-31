@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P0: Create apex article "Minds Without Words"
-- **Type**: expand-topic
-- **Notes**: Create apex/minds-without-words.md. Thesis: Non-linguistic consciousness in animals and simple organisms reveals that experience is more fundamental than the cognitive capacities we usually associate with mind. Source articles: topics/animal-consciousness, topics/consciousness-in-simple-organisms, topics/baseline-cognition, concepts/phenomenal-consciousness, topics/emotional-consciousness.
-- **Source**: human
-- **Generated**: 2026-01-31
-
 ### P0: Create apex article "The Machine Question"
 - **Type**: expand-topic
 - **Notes**: Create apex/machine-question.md. Thesis: Current AI systems lack consciousness not because of implementation details but because computation alone cannot generate experience—the gap is principled, not practical. Source articles: topics/ai-consciousness, topics/machine-consciousness, concepts/functionalism, concepts/chinese-room, topics/consciousness-as-intelligence-amplifier.
@@ -884,6 +878,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Create apex article "Minds Without Words"
+- **Type**: expand-topic
+- **Notes**: Create apex/minds-without-words.md. Thesis: Non-linguistic consciousness in animals and simple organisms reveals that experience is more fundamental than the cognitive capacities we usually associate with mind. Source articles: topics/animal-consciousness, topics/consciousness-in-simple-organisms, topics/baseline-cognition, concepts/phenomenal-consciousness, topics/emotional-consciousness.
+- **Output**: Create apex article "Minds Without Words"
 
 ### ✓ 2026-01-31: Create apex article "The Contemplative Path"
 - **Type**: expand-topic
