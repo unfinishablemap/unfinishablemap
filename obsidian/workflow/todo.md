@@ -241,13 +241,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-01-26
 
-### P2: Deep review indexical-identity-quantum-measurement.md
-- **Type**: deep-review
-- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Core article for the No Many Worlds tenet—examines how each QM interpretation fails the indexical gap. Should verify: (1) accuracy of QM interpretation summaries, (2) engagement with Wallace's decision-theoretic probability derivation, (3) connection to haecceity and personal identity, (4) alignment with all five tenets.
-- **Source**: staleness
-- **Promoted**: 2026-01-31 (replenish-queue: tenet relevance +50)
-- **Generated**: 2026-01-26
-
 ### P3: Write article on phenomenology of evidence assessment
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-24. How does conscious reasoning actually work phenomenologically? What is it like to find an argument compelling vs. unconvincing? The argument from reason shows that reasoning requires consciousness; this would explore what conscious reasoning IS from the inside. Builds on argument-from-reason.md, introspection.md, epistemic-emotions.md.
@@ -822,6 +815,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Deep review indexical-identity-quantum-measurement.md
+- **Type**: deep-review
+- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Core article for the No Many Worlds tenet—examines how each QM interpretation fails the indexical gap. Should verify: (1) accuracy of QM interpretation summaries, (2) engagement with Wallace's decision-theoretic probability derivation, (3) connection to haecceity and personal identity, (4) alignment with all five tenets.
+- **Output**: obsidian/topics/indexical-identity-quantum-measurement.md
 
 ### ✓ 2026-01-31: Condense many-worlds.md (3704 words, 106% of threshold)
 - **Type**: condense
