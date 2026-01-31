@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-30T23:15:00+00:00
+ai_modified: 2026-01-31T04:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,12 +30,13 @@ related_articles:
   - "[[intrinsic-nature-void]]"
   - "[[origin-of-consciousness]]"
   - "[[natural-vs-designed-limits]]"
+  - "[[causal-interface]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-30T23:15:00+00:00
+last_deep_review: 2026-01-31T04:33:00+00:00
 coalesced_from:
   - "/topics/mysterianism-cognitive-closure/"
 ---
@@ -118,7 +119,7 @@ A key distinction within mysterianism:
 
 **Permanent mysterianism** holds that cognitive closure is permanent. No amount of scientific progress will solve the problem for beings like us. We might build artificial intelligences that solve it, or encounter alien minds that understand it—but *we* never will.
 
-From our current perspective, both positions look identical. We can't know in advance which problems are permanently closed. But the distinction matters for how we interpret our situation. Temporary mysterians see the hard problem as a challenge; permanent mysterians see it as a limit.
+From our current perspective, both look identical—we cannot know in advance which problems are permanently closed.
 
 ## Mysterianism's Virtues
 
@@ -186,7 +187,7 @@ Mysterianism connects to all five tenets:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The Map departs from pure mysterianism, proposing that consciousness causally influences the physical world—a commitment mysterians would consider exceeding cognitive warrant. However, mysterian humility doesn't preclude working hypotheses.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The quantum mechanism might seem to contradict mysterianism, but the Map proposes consciousness biases quantum outcomes without explaining *why* there's something it's like to do so. The hard problem remains mysterious even with the causal interface understood.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The quantum mechanism might seem to contradict mysterianism, but the Map proposes consciousness biases quantum outcomes without explaining *why* there's something it's like to do so. The hard problem remains mysterious even if the [[causal-interface|causal interface]] were understood—and as the voids framework explores, even the interface itself may be permanently opaque.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Mysterianism provides indirect support. Many-worlds eliminates collapse and any role for consciousness in physics. Rejecting many-worlds because it makes indexical identity inexplicable invokes mysterian intuitions.
 
@@ -201,6 +202,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [[consciousness-and-mathematical-understanding]] — Mathematical insight as evidence for cognitive limits
 - [[minimal-consciousness]] — Complete neural mapping yet unknowable experience
 - [[phenomenology-of-the-edge]] — What cognitive closure feels like from the inside
+- [[causal-interface]] — The void between intention and action as cognitive closure in action
 - [[limits-reveal-structure]] — How cognitive limits reveal cognitive architecture
 - [[whether-real]] — Can we know if the voids are genuinely permanent?
 - [[hard-problem-of-consciousness]] — The problem mysterians think is unsolvable

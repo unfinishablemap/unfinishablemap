@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review mysterianism.md considering causal-interface.md
-- **Type**: cross-review
-- **Notes**: New voids article voids/causal-interface.md (2026-01-31) argues that the mind-body interface is structurally inaccessible—not merely unknown but potentially unknowable. This connects directly to McGinn's cognitive closure thesis. Check mysterianism.md for: (1) cross-links to the causal interface as an exemplary mystery, (2) whether the mechanism void strengthens or complicates the mysterian position, (3) consistency between the articles on structural vs. contingent limits.
-- **Source**: chain (from causal-interface.md)
-- **Generated**: 2026-01-31
-
 ### P2: Write apex article integrating process philosophy across tenets
 - **Type**: expand-topic
 - **Notes**: Whitehead's process philosophy appears scattered across multiple articles (process-philosophy.md, collapse-and-time.md, phenomenal-unity.md) but deserves unified apex treatment. Shows how actual occasions explain phenomenal unity, concrescence models collapse, and self-determination grounds mental causation. Would demonstrate philosophical coherence of the five tenets. High tenet-alignment value.
@@ -848,6 +842,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Cross-review mysterianism.md considering causal-interface.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/causal-interface.md (2026-01-31) argues that the mind-body interface is structurally inaccessible—not merely unknown but potentially unknowable. This connects directly to McGinn's cognitive closure thesis. Check mysterianism.md for: (1) cross-links to the causal interface as an exemplary mystery, (2) whether the mechanism void strengthens or complicates the mysterian position, (3) consistency between the articles on structural vs. contingent limits.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering causal-interface.md
 
 ### ✓ 2026-01-31: Cross-review free-will.md considering causal-interface.md
 - **Type**: cross-review
