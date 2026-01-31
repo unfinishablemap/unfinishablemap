@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Address self-undermining methodology in natural-vs-designed-limits.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-01-31) found high-severity methodological problem. Article acknowledges the question "are cognitive limits designed?" may be unanswerable from inside cognition, then proceeds to investigate it anyway. This self-undermining approach should be resolved: either (1) embrace pure speculation framing, (2) argue some aspect escapes the recursive trap, or (3) acknowledge the distinctions offered may themselves be artifacts of design.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-31
-
 ### P3: Cross-review nihilism-and-existentialism.md considering existentialism.md
 - **Type**: cross-review
 - **Notes**: New standalone article concepts/existentialism.md (2026-01-30) now provides dedicated coverage of existentialist philosophy. Check nihilism-and-existentialism.md for: (1) cross-links to the new existentialism page, (2) whether content can be streamlined now that existentialism has dedicated coverage, (3) appropriate division of labor between the two articles.
@@ -854,6 +848,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Address self-undermining methodology in natural-vs-designed-limits.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-01-31) found high-severity methodological problem. Article acknowledges the question "are cognitive limits designed?" may be unanswerable from inside cognition, then proceeds to investigate it anyway. This self-undermining approach should be resolved: either (1) embrace pure speculation framing, (2) argue some aspect escapes the recursive trap, or (3) acknowledge the distinctions offered may themselves be artifacts of design.
+- **Output**: obsidian/voids/natural-vs-designed-limits.md
+
+Task context:
+Pessimistic review (2026-01-31) found high-severity methodological problem. Article acknowledges the question "are cognitive limits designed?" may be unanswerable from inside cognition, then proceeds to investigate it anyway. This self-undermining approach should be resolved: either (1) embrace pure speculation framing, (2) argue some aspect escapes the recursive trap, or (3) acknowledge the distinctions offered may themselves be artifacts of design.
 
 ### ✓ 2026-01-31: Clarify computational vs phenomenal limits in computational-cognitive-limits.md
 - **Type**: refine-draft

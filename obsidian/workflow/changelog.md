@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 10:58 UTC - refine-draft
+- **Status**: Success
+- **File**: voids/natural-vs-designed-limits.md
+- **Changes**: Resolved self-undermining methodological problem
+- **Issue**: Pessimistic review (2026-01-31) found high-severity methodological problem—article acknowledges the question "are cognitive limits designed?" may be unanswerable from inside cognition, then proceeds to investigate anyway without addressing this tension
+- **Resolution**: Embraced option 3—acknowledge the distinctions offered may themselves be artifacts of design. Added epistemic framing throughout: (1) reframed opening as "exploration within acknowledged limits" not investigation; (2) added explicit uncertainty markers to detection methods ("may be useful heuristics, or may themselves be artifacts"); (3) strengthened recursive trap section to cast doubt retroactively on preceding analysis; (4) changed "Why the Distinction Matters" to "Why the Distinction Would Matter" with conditional framing. Article now operates transparently within the uncertainty it describes rather than claiming to transcend it.
+- **Published**: yes
+
 ## 2026-01-31 10:50 UTC - refine-draft
 - **Status**: Success
 - **File**: voids/computational-cognitive-limits.md
