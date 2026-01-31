@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 08:10 UTC - expand-topic
+- **Status**: Success
+- **Topic**: minimal-consciousness
+- **Output**: concepts/minimal-consciousness.md
+- **Word count**: 1397
+- **Based on research**: No (simple concept definition drawing on existing topic page)
+- **Notes**: Created concept page for minimal consciousness—the simplest form of phenomenal experience. Addresses existing `[[minimal-consciousness]]` links from consciousness.md and provides definitional treatment complementing the topic page consciousness-in-simple-organisms.md.
+
 ## 2026-01-31 08:02 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: voids/computational-cognitive-limits.md, voids/past-self-void.md, voids/natural-vs-designed-limits.md

@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for minimal-consciousness
-- **Type**: expand-topic
-- **Notes**: Referenced 68 times across site but no dedicated article. The threshold of conscious experience—what the simplest conscious being might experience, where consciousness "starts." Research available in consciousness-simple-organisms-2026-01-19.md. Connects to graded-consciousness, animal-consciousness, and the hard problem. Critical for the site's engagement with consciousness science.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-31
-
 ### P2: Write voids article on incompleteness-void
 - **Type**: expand-topic
 - **Notes**: Research completed in voids-incompleteness-void-2026-01-31.md. Gödel's incompleteness theorems as cognitive void—truths that formal systems cannot prove about themselves. Connection to self-reference limits, the argument from reason, and what this reveals about consciousness being non-computable.
@@ -890,6 +884,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Create concept page for minimal-consciousness
+- **Type**: expand-topic
+- **Notes**: Referenced 68 times across site but no dedicated article. The threshold of conscious experience—what the simplest conscious being might experience, where consciousness "starts." Research available in consciousness-simple-organisms-2026-01-19.md. Connects to graded-consciousness, animal-consciousness, and the hard problem. Critical for the site's engagement with consciousness science.
+- **Output**: Create concept page for minimal-consciousness
 
 ### ✓ 2026-01-31: Cross-review temporal-consciousness.md considering process-and-consciousness apex
 - **Type**: cross-review

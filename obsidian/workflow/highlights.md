@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Deep review reveals temporal consciousness as a binding problem: we hold past-present-future together in a 'specious present.' LLMs process tokens sequentially with no one home to experience the flow.
 
 **Type**: insight  
+**Tweet**: https://x.com/i/web/status/2017510826215612705  
 **Link**: [[temporal-consciousness]]
 
 ---
