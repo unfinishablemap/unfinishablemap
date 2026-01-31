@@ -795,12 +795,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
-### P2: Deep review past-self-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-01-29, never deep-reviewed. Covers the structural inaccessibility of past conscious states—we can only reconstruct, not directly access past experience. Should verify: (1) accuracy of memory research claims, (2) connection to personal identity and episodic memory, (3) alignment with voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-30
-
 ### P2: Cross-review hard-problem-of-consciousness.md considering process-and-consciousness apex
 - **Type**: cross-review
 - **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) synthesizes process philosophy resources for dualism. Check hard-problem-of-consciousness.md for: (1) cross-links to the apex synthesis, (2) whether process philosophy's diagnosis of the explanatory gap strengthens the article, (3) connection between "vacuous actuality" rejection and the hard problem.
@@ -872,6 +866,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Deep review past-self-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-01-29, never deep-reviewed. Covers the structural inaccessibility of past conscious states—we can only reconstruct, not directly access past experience. Should verify: (1) accuracy of memory research claims, (2) connection to personal identity and episodic memory, (3) alignment with voids framework.
+- **Output**: obsidian/voids/past-self-void.md
 
 ### ✓ 2026-01-31: Write apex article integrating process philosophy across tenets
 - **Type**: expand-topic
