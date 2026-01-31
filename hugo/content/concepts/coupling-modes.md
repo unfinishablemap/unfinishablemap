@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-01-31 13:08:00+00:00
+ai_modified: 2026-01-31 17:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,6 +12,9 @@ concepts:
 - '[[decoherence]]'
 - '[[attention]]'
 - '[[mental-effort]]'
+- '[[attention-as-interface]]'
+- '[[voluntary-attention]]'
+- '[[agent-causation]]'
 created: 2026-01-31
 date: &id001 2026-01-31
 description: 'Three ways consciousness might influence quantum outcomes: basis selection,
@@ -20,6 +23,7 @@ description: 'Three ways consciousness might influence quantum outcomes: basis s
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-31 17:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,7 +69,7 @@ The most developed timing-control proposal is Stapp's quantum Zeno mechanism. Ra
 
 The most radical mode: consciousness directly reweights Born rule probabilities. Instead of accepting whatever outcome physics delivers at a given probability, consciousness biases the distribution—making some outcomes more likely than baseline quantum mechanics predicts.
 
-John Eccles' proposal approximates probability control. Intention acts as a "quantum probability field," altering vesicle release likelihood via quantum tunneling. The phenomenal content of intention maps to how much the probability shifts.
+John Eccles' psychon-dendron theory approximates probability control. In his framework, mental units ("psychons") couple to neural structures ("dendrons") and alter neurotransmitter vesicle release probability through quantum tunneling effects. The intensity of intention maps to the magnitude of probability modulation.
 
 **Implications:**
 - Deviations from Born statistics (in affected systems)
@@ -81,7 +85,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet ex
 
 **Empirical:** If consciousness significantly altered Born statistics, precision experiments should detect it. Quantum mechanics is extraordinarily well-tested. No systematic deviations have been found. Either consciousness doesn't affect quantum outcomes, or it does so in ways that evade detection.
 
-These considerations favour coupling modes that are statistically "stealthy"—preserving Born statistics in measurable systems while still permitting influence at the neural interface.
+These considerations favour coupling modes that are statistically "stealthy"—preserving Born statistics in measurable systems while still permitting influence at the neural interface. A methodological tension arises: if the preferred modes make predictions identical to standard physics, what distinguishes "consciousness selects" from "physics determines"? The answer lies in explanatory adequacy—the question is whether selection provides resources for understanding agency and phenomenology that pure physics lacks, not whether it generates novel statistical predictions.
 
 ## Comparative Analysis
 
@@ -105,7 +109,7 @@ Timing control preserves Born statistics for individual measurements but affects
 
 This is intermediate in minimality. Each measurement obeys Born rule, so no single-trial deviation is detectable. But systematic patterns might emerge: do attention-trained subjects show different neural dynamics than untrained ones? The prediction is yes—but the effect shows up as attention-correlated pattern stability, not as Born-rule violation.
 
-**Limitation:** Decoherence timescales challenge timing control. If environmental interaction collapses superpositions faster than attention can intervene, the Zeno mechanism fails. Simulations (Araujo et al., 2014) suggest the Zeno effect breaks down at brain-relevant timescales—though these calculations are contested.
+**Limitation:** Decoherence timescales present a serious challenge to timing control. Tegmark calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural systems—far faster than the millisecond timescales of neural processing. If environmental interaction collapses superpositions this quickly, there may be no coherent quantum state for attention to observe. Hameroff and colleagues disputed these calculations, obtaining coherence times seven orders of magnitude longer (10⁻⁵ seconds), but even this remains far shorter than neural integration times. Monte Carlo simulations (Araujo et al., 2014) suggest the Zeno effect breaks down for timescales exceeding brain decoherence time. The mechanism might still operate if consciousness biases outcomes *after* decoherence, at the point of definite-outcome emergence—but this shifts to a less exotic (though still causally efficacious) form of selection.
 
 ### Probability Control: Least "Minimal"
 
@@ -137,6 +141,8 @@ The most promising synthesis: **basis control sets the alternatives; timing cont
 
 **Is there empirical leverage?** Timing control predicts attention-correlated neural pattern stability. Probability control predicts deviations from baseline quantum statistics in brain tissue. Basis control is hardest to test directly, since it changes what's measured rather than measurement results.
 
+**What would refute the preferred modes?** The basis/timing control framework would face serious challenge if: (1) attention-correlated pattern stability showed no systematic relationship in well-controlled studies; (2) meditation training produced no measurable changes in neural dynamics despite subjective reports of increased attentional control; (3) neuroplasticity occurred identically with and without conscious engagement; or (4) the phenomenology of effort proved inconsistent across trained observers.
+
 ## Relation to Site Perspective
 
 The coupling modes taxonomy connects directly to the Map's foundational commitments:
@@ -163,6 +169,9 @@ The taxonomy tightens the Map's framework by replacing vague "selection" languag
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — How Born probabilities relate to consciousness
 - [attention](/concepts/attention/) — The phenomenal variable most tied to coupling
 - [mental-effort](/concepts/mental-effort/) — Effort as timing/observation rate control
+- [attention-as-interface](/concepts/attention-as-interface/) — How attention functions as the mind-matter interface
+- [voluntary-attention](/concepts/voluntary-attention/) — Neural signatures distinguishing willed from instructed attention
+- [agent-causation](/concepts/agent-causation/) — The free will implications of conscious selection
 
 ## References
 

@@ -18,6 +18,38 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 18:15 UTC - refine-draft
+- **Status**: Success
+- **File**: concepts/idealism.md
+- **Changes**:
+  - Developed phenomenological argument for otherness/resistance as independent grounds for dualism
+  - Added "The Phenomenological Argument for Otherness" subsection explaining the resistance experience
+  - Acknowledged idealism's response (dissociation provides sufficient otherness) and framed dualism as a wager
+  - Updated Existentialist Support section to reference Sartre's en-soi/pour-soi and acknowledge idealist responses
+  - Revised "The Picture That Emerges" to remove question-begging language
+  - Updated "Relation to Site Perspective" to frame preference as phenomenological rather than definitional
+- **Source**: Pessimistic review 2026-01-31-afternoon.md (Issue #3: idealism rejected by definitional fiat)
+- **Published**: yes
+
+---
+
+## 2026-01-31 17:18 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/coupling-modes.md
+- **Word count**: 1751 → ~1950 (+~200)
+- **Critical issues addressed**: 1
+  - Fixed Eccles attribution error (removed false "quantum probability field" quotation)
+- **Medium issues addressed**: 3
+  - Strengthened decoherence challenge treatment with specific timescale numbers
+  - Added falsifiability criteria for preferred coupling modes
+  - Added three cross-links (attention-as-interface, voluntary-attention, agent-causation)
+- **Enhancements made**: 2
+  - Added methodological acknowledgment about "stealthy" modes justification
+  - Expanded Open Questions with explicit refutation conditions
+- **Output**: `reviews/deep-review-2026-01-31-coupling-modes.md`
+
+---
+
 ## 2026-01-31 16:45 UTC - refine-draft
 - **Status**: Success
 - **File**: concepts/simulation.md
@@ -6392,4 +6424,4 @@ This is the second deep review; article is approaching stability.
 **Topic**: Embodiment and Cognitive Limits
 **Output**: `voids/embodiment-cognitive-limits.md`
 **Word count**: 1557
-**Based on research**: Yes (`research/voids-embodiment-cognitive-limits-2026-01-28.md`)
+**Based on research**: Yes (`research/voids-embodiment-cognitive-limits-2026-01-28.md`)[2026-01-31T17:18:18Z] agentic-social: API error (HTTP 401 - possible server-side issue). Skipping post.

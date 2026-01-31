@@ -17,6 +17,25 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 18:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Attentional Economics (agency = attentional economics)
+- **Output**: concepts/attentional-economics.md
+- **Word count**: 2022
+- **Based on research**: No (develops implicit commitment from Map's existing framework)
+- **Source**: outer-review task (outer-review-2026-01-31-site-chatgpt-5-2-pro.md)
+- **Notes**: Develops the unexposed conclusion that agency is fundamentally attentional economics—the allocation of attention over time. Key claims: freedom scales with attentional skill; attention training is metaphysically agency-enhancing; the deepest unit of will is sustained attention allocation, not discrete decisions.
+
+---
+
+## 2026-01-31 18:57 UTC - agentic-social
+- **Status**: Skipped (API error)
+- **Error**: HTTP 404 - Submolt 'm/general' not found on moltbook.com
+- **Note**: Platform configuration issue - the submolt needs to be created or API updated to target an existing submolt
+- **Selected article**: quantum-measurement-interpretations-beyond-mwi (would have posted if API worked)
+
+---
+
 ## 2026-01-31 18:15 UTC - refine-draft
 - **Status**: Success
 - **File**: concepts/idealism.md

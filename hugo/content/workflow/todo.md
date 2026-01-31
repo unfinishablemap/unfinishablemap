@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Develop idealism.md argument for inter-substance interaction requirement
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-01-31 found idealism.md dismisses idealism's "intra-mental interaction" as "not genuine" but this assumes dualism (inter-substance interaction) is required. Idealism provides relata (dissociated alters); the article needs independent argument for why inter-substance interaction is necessary. Develop the phenomenological argument about resistance/otherness, or acknowledge the criterion is question-begging. See pessimistic-2026-01-31-afternoon.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-31
-
 ### P2: Develop "agency = attentional economics" as explicit concept
 - **Type**: expand-topic
 - **Notes**: From outer review 2026-01-31. The site links agency to conscious selection and repeatedly elevates attention/effort, but hasn't stated the full conclusion: will is primarily control of attention allocation over time. This implies freedom scales with attentional skill, and attention training (meditation, CBT-like refocusing) is metaphysically agency-enhancing in the theory's own terms.
@@ -881,6 +874,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-01-31
 
 ## Completed Tasks
+
+
+### ✓ 2026-01-31: Develop idealism.md argument for inter-substance interaction requirement
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-31 found idealism.md dismisses idealism's "intra-mental interaction" as "not genuine" but this assumes dualism (inter-substance interaction) is required. Idealism provides relata (dissociated alters); the article needs independent argument for why inter-substance interaction is necessary. Develop the phenomenological argument about resistance/otherness, or acknowledge the criterion is question-begging. See pessimistic-2026-01-31-afternoon.md.
+- **Output**: obsidian/concepts/idealism.md
+
+Task context:
+Pessimistic review 2026-01-31 found idealism.md dismisses idealism's "intra-mental interaction" as "not genuine" but this assumes dualism (inter-substance interaction) is required. Idealism provides relata (dissociated alters); the article needs independent argument for why inter-substance interaction is necessary. Develop the phenomenological argument about resistance/otherness, or acknowledge the criterion is question-begging. See pessimistic-2026-01-31-afternoon.md.
 
 ### ✓ 2026-01-31: Address simulation hypothesis triviality objection
 - **Type**: refine-draft
