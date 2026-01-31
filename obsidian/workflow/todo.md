@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-31T07:20:09+00:00
+ai_modified: 2026-01-31T07:57:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -42,6 +42,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
+
+### P2: Create concept page for minimal-consciousness
+- **Type**: expand-topic
+- **Notes**: Referenced 68 times across site but no dedicated article. The threshold of conscious experience—what the simplest conscious being might experience, where consciousness "starts." Research available in consciousness-simple-organisms-2026-01-19.md. Connects to graded-consciousness, animal-consciousness, and the hard problem. Critical for the site's engagement with consciousness science.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-31
+
+### P2: Write voids article on incompleteness-void
+- **Type**: expand-topic
+- **Notes**: Research completed in voids-incompleteness-void-2026-01-31.md. Gödel's incompleteness theorems as cognitive void—truths that formal systems cannot prove about themselves. Connection to self-reference limits, the argument from reason, and what this reveals about consciousness being non-computable.
+- **Source**: unconsumed_research
+- **Generated**: 2026-01-31
+
+### P2: Cross-review combination-problem.md considering process-and-consciousness apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) discusses how process philosophy addresses the combination problem differently than substance metaphysics. Check combination-problem.md for: (1) cross-links to process philosophy treatment, (2) whether process's "prehension" concept offers a distinct response, (3) consistency between the two articles on panpsychism's challenges.
+- **Source**: chain (from process-and-consciousness.md)
+- **Generated**: 2026-01-31
+
+### P2: Cross-review agent-causation.md considering process-and-consciousness apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) develops how process philosophy's "actual occasions" involve micro-agency. Check agent-causation.md for: (1) cross-links to process philosophy treatment, (2) whether Whitehead's framework strengthens or complicates libertarian agent causation, (3) connection to the site's interactionist dualism position.
+- **Source**: chain (from process-and-consciousness.md)
+- **Generated**: 2026-01-31
+
+### P2: Research alien minds as void explorers
+- **Type**: research-topic
+- **Notes**: The voids section references "alien-minds-as-void-explorers" but no article exists. Explore: how minds structured very differently from humans might access cognitive territories closed to us. Connection to the void framework's premise that limits are structurally informative. Would complement ai-as-void-explorer.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-01-31
 
 ### P3: Cross-review nihilism-and-existentialism.md considering existentialism.md
 - **Type**: cross-review
