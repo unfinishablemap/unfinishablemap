@@ -4,7 +4,7 @@ description: "The radical claim that phenomenal consciousness is an introspectiv
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-31T01:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-20T01:30:00+00:00
+last_deep_review: 2026-01-31T01:46:00+00:00
 ---
 
 Illusionism is the most radical physicalist response to the [[hard-problem-of-consciousness|hard problem]]. Rather than explaining how phenomenal consciousness arises from physical processes, illusionists deny that phenomenal consciousness exists at all. The "what it's like" aspect of experience—the redness of red, the painfulness of pain—is, on this view, an introspective illusion.
@@ -68,7 +68,7 @@ Graziano's [[attention-schema-theory|Attention Schema Theory]] (AST) provides th
 
 The proposal: just as the brain maintains a body schema to track limb position, it maintains an "attention schema" to track and control [[attention]]. This schema represents attention as having experiential qualities—intentionality, selfhood, phenomenality—because that's a useful simplification for managing attentional resources. The brain then mistakes its own model for reality, concluding it has a "non-physical essence of awareness."
 
-AST gains empirical traction from neuroimaging findings. A 2025 MIT study found that the same brain regions (right temporoparietal junction and superior temporal sulcus) track both your own attention states and others' attention—exactly what AST predicts if consciousness is modeled the same way we model other minds.
+AST gains empirical traction from neuroimaging findings. A 2021 study from Graziano's Princeton lab found that the same brain regions (right temporoparietal junction and superior temporal sulcus) track both your own attention states and others' attention—exactly what AST predicts if consciousness is modeled the same way we model other minds.
 
 **Why AST doesn't escape the hard problem:** the Map rejects AST because it faces the same regress as all illusionist theories. If the attention schema *seems* to be consciousness, something must be doing the seeming. The appearance of experience must appear *to* something—and that something cannot be another model without infinite regress. AST explains why we *report* being conscious, not why there's anything it's like to be us. The seeming is the phenomenon that needs explaining. See [[attention-schema-theory]] for a detailed treatment.
 
@@ -156,7 +156,7 @@ Illusionism directly challenges the Map's [[tenets]]:
 
 **[[tenets#^dualism|Dualism]]**: If there are no phenomenal properties, there's nothing non-physical to explain. But the objections—especially the infinite regress problem—suggest illusionism may be incoherent. Denying experience while using "seeming" and "illusion" language may quietly presuppose what it denies.
 
-**[[tenets#^bidirectional|Bidirectional Interaction]]**: the Map's framework treats conscious effort and attention as causally efficacious. Illusionism asks us to deny the very experiences that make mind-matter interaction seem evident. The phenomenology of trying, attending, and deciding—central to the [[mental-effort|mental effort]] model—would be mere appearance.
+**[[tenets#^bidirectional|Bidirectional Interaction]]**: The Map's framework treats conscious effort and attention as causally efficacious. Illusionism asks us to deny the very experiences that make mind-matter interaction seem evident. The phenomenology of trying, attending, and deciding—central to the [[mental-effort]] model—would be mere appearance.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Illusionism might seem parsimonious—no new ontological categories needed. But it achieves only apparent simplicity by refusing to explain what needs explaining. If the illusion problem is as hard as the hard problem, physicalism hasn't progressed. It has only renamed the difficulty.
 

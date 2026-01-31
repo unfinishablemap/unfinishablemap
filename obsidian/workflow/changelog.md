@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 01:46 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/illusionism.md
+- **Word count**: 2207 → 2207 (minimal change, 88% of soft threshold)
+- **Critical issues addressed**: 1 (corrected "2025 MIT study" to "2021 Princeton study")
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 1 (fixed cross-link formatting for mental-effort)
+- **Output**: `reviews/deep-review-2026-01-31-illusionism.md`
+- **Notes**: Second review of this article. Previous review (2026-01-20) had added Process Philosophy Challenge, Mysterian Alternative, Knowledge Argument connection, and falsifiability conditions. This review focused on verification: confirmed Strawson quote attribution, PhilPapers survey data, and corrected misattributed study claim. Article is now at stability—adversarial personas disagree philosophically but no factual or structural flaws remain.
+
 ## 2026-01-31 01:30 UTC - deep-review
 - **Status**: Success
 - **File**: voids/natural-vs-designed-limits.md
