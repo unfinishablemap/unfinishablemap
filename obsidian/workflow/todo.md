@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Cross-review introspection.md considering causal-interface.md
-- **Type**: cross-review
-- **Notes**: New voids article voids/causal-interface.md (2026-01-31) discusses introspection's systematic failure to observe mental causation (Nisbett & Wilson's process/product asymmetry, Wegner's constructed authorship). Check introspection.md for: (1) cross-links to the causal interface void, (2) whether the introspection article addresses this specific limitation, (3) connection between introspection reliability debates and the mechanism void.
-- **Source**: chain (from causal-interface.md)
-- **Generated**: 2026-01-31
-
 ### P2: Cross-review free-will.md considering causal-interface.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/causal-interface.md (2026-01-31) develops the phenomenology of agency—why we cannot observe how intention becomes action. Check free-will.md for: (1) cross-links to the causal interface treatment, (2) whether Libet experiments discussion aligns with the void's framing, (3) opportunities to strengthen the connection between libertarian free will and the mechanism opacity.
@@ -860,6 +854,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Cross-review introspection.md considering causal-interface.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/causal-interface.md (2026-01-31) discusses introspection's systematic failure to observe mental causation (Nisbett & Wilson's process/product asymmetry, Wegner's constructed authorship). Check introspection.md for: (1) cross-links to the causal interface void, (2) whether the introspection article addresses this specific limitation, (3) connection between introspection reliability debates and the mechanism void.
+- **Output**: obsidian/concepts/introspection.md -- Context: Cross-review introspection.md considering causal-interface.md
 
 ### ✓ 2026-01-31: Cross-review phenomenology-of-choice.md considering causal-interface insights
 - **Type**: cross-review

@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 03:57 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/introspection.md
+- **Word count**: 4175 → 4193 (+18)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (added causal-interface cross-link)
+- **Enhancements made**: 3 (integrated causal-interface in body text, frontmatter concepts, and Further Reading)
+- **Output**: `reviews/deep-review-2026-01-31-introspection.md`
+- **Notes**: Third review; cross-review for causal-interface.md. The causal interface void exemplifies process access failure in the domain of agency—directly relevant to the process/content distinction central to this article. Tightened Training section and Critical Phenomenology section for length-neutrality. Article stable; no critical issues found in last three reviews.
+
 ## 2026-01-31 03:43 UTC - deep-review
 - **Status**: Success
 - **File**: concepts/phenomenology-of-choice.md
