@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 17:30 UTC - archive
+- **Status**: Success
+- **Archived**: obsidian/apex/ground-of-meaning.md → archive/apex/ground-of-meaning.md
+- **Reason**: Apex article not in approved apex-articles.md index
+- **References found**: 1 (review file only)
+
+## 2026-01-31 17:30 UTC - archive
+- **Status**: Success
+- **Archived**: obsidian/apex/explanatory-frontier.md → archive/apex/explanatory-frontier.md
+- **Reason**: Apex article not in approved apex-articles.md index
+- **References found**: 2 (review files only)
+
 ## 2026-01-31 17:50 UTC - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.2 Pro

@@ -4,8 +4,12 @@ description: "The hard problem isn't a puzzle awaiting solution—it's a boundar
 created: 2026-01-24
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T20:10:00+00:00
+ai_modified: 2026-01-31T17:30:00+00:00
 draft: false
+archived: true
+archived_date: 2026-01-31T17:30:00+00:00
+archive_reason: "Apex article not in approved apex-articles.md index"
+original_path: "/apex/explanatory-frontier/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[mysterianism]]"

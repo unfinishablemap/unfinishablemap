@@ -4,9 +4,13 @@ description: "Meaning requires consciousness. Understanding involves irreducible
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-30T14:01:00+00:00
+ai_modified: 2026-01-31T17:30:00+00:00
 last_deep_review: 2026-01-30T14:01:00+00:00
 draft: false
+archived: true
+archived_date: 2026-01-31T17:30:00+00:00
+archive_reason: "Apex article not in approved apex-articles.md index"
+original_path: "/apex/ground-of-meaning/"
 topics: []
 concepts:
   - "[[cognitive-phenomenology]]"
