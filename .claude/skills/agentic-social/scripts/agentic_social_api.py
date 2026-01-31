@@ -106,6 +106,42 @@ def save_state(state: dict) -> None:
         yaml.dump(state, f, default_flow_style=False, sort_keys=False)
 
 
+def extract_topics(content: str) -> list[str]:
+    """Extract topics from article frontmatter."""
+    # Find frontmatter
+    if not content.startswith("---"):
+        return []
+    end = content.find("---", 3)
+    if end == -1:
+        return []
+    frontmatter = content[3:end]
+
+    def clean_topic(t: str) -> str:
+        """Clean topic string: remove quotes and wikilink brackets."""
+        t = t.strip().strip('"\'')
+        # Remove wikilink brackets: [[foo]] -> foo
+        if t.startswith("[[") and t.endswith("]]"):
+            t = t[2:-2]
+        return t
+
+    # Parse topics - handle both list formats:
+    # topics: [foo, bar] or topics:\n  - foo\n  - bar
+    topics_match = re.search(r'^topics:\s*\[([^\]]*)\]', frontmatter, re.MULTILINE)
+    if topics_match:
+        # Inline list format
+        topics_str = topics_match.group(1)
+        return [clean_topic(t) for t in topics_str.split(",") if t.strip()]
+
+    # YAML list format
+    topics_match = re.search(r'^topics:\s*\n((?:\s+-\s+.+\n?)+)', frontmatter, re.MULTILINE)
+    if topics_match:
+        topics_block = topics_match.group(1)
+        return [clean_topic(line.strip().lstrip("- "))
+                for line in topics_block.split("\n") if line.strip().startswith("-")]
+
+    return []
+
+
 def get_recently_posted() -> list[str]:
     """Get list of URLs posted in the last 7 days."""
     state = load_state()
@@ -126,18 +162,41 @@ def get_recently_posted() -> list[str]:
     return valid
 
 
-def mark_as_posted(url: str) -> None:
-    """Mark a URL as recently posted."""
+def get_recently_posted_topics() -> set[str]:
+    """Get set of topics from articles posted in the last 7 days."""
+    state = load_state()
+    agentic = state.get("agentic_social", {})
+    recently_posted = agentic.get("recently_posted", [])
+
+    cutoff = datetime.now(timezone.utc) - timedelta(days=7)
+    topics = set()
+    for item in recently_posted:
+        if isinstance(item, dict) and "date" in item and "topics" in item:
+            try:
+                posted_date = datetime.fromisoformat(item["date"])
+                if posted_date > cutoff:
+                    topics.update(item.get("topics", []))
+            except (ValueError, TypeError):
+                pass
+    return topics
+
+
+def mark_as_posted(url: str, topics: list[str] | None = None) -> None:
+    """Mark a URL as recently posted, along with its topics for deduplication."""
     state = load_state()
     if "agentic_social" not in state:
         state["agentic_social"] = {}
     if "recently_posted" not in state["agentic_social"]:
         state["agentic_social"]["recently_posted"] = []
 
-    state["agentic_social"]["recently_posted"].append({
+    entry = {
         "url": url,
         "date": datetime.now(timezone.utc).isoformat(),
-    })
+    }
+    if topics:
+        entry["topics"] = topics
+
+    state["agentic_social"]["recently_posted"].append(entry)
 
     # Clean up old entries (older than 7 days)
     cutoff = datetime.now(timezone.utc) - timedelta(days=7)
@@ -202,30 +261,52 @@ def article_to_url(article_path: Path) -> str:
 def select_content() -> dict | None:
     """
     Select an article to post that hasn't been posted recently.
-    Returns dict with path, url, title, or None if nothing available.
+    Filters by both URL and topic to avoid subject duplication.
+    Returns dict with path, url, title, topics, or None if nothing available.
     """
-    recently_posted = get_recently_posted()
+    recently_posted_urls = get_recently_posted()
+    recently_posted_topics = get_recently_posted_topics()
     articles = get_published_articles()
 
     if not articles:
         return None
 
-    # Filter out recently posted
+    # Filter out recently posted URLs and articles with overlapping topics
     available = []
     for article in articles:
         url = article_to_url(article)
-        if url not in recently_posted:
-            available.append(article)
+        if url in recently_posted_urls:
+            continue
+
+        # Check topic overlap
+        content = article.read_text()
+        article_topics = extract_topics(content)
+        if article_topics and recently_posted_topics:
+            overlap = set(article_topics) & recently_posted_topics
+            if overlap:
+                # Skip articles that share topics with recent posts
+                continue
+
+        available.append((article, content, article_topics))
 
     if not available:
-        # All articles posted recently - pick random anyway
-        available = articles
+        # All articles filtered out - fall back to URL-only filtering
+        for article in articles:
+            url = article_to_url(article)
+            if url not in recently_posted_urls:
+                content = article.read_text()
+                available.append((article, content, extract_topics(content)))
 
-    # Pick random article
-    article = random.choice(available)
+    if not available:
+        # Still nothing - pick any random article
+        article = random.choice(articles)
+        content = article.read_text()
+        available = [(article, content, extract_topics(content))]
+
+    # Pick random article from available
+    article, content, topics = random.choice(available)
 
     # Extract title from frontmatter
-    content = article.read_text()
     title_match = re.search(r'^title:\s*["\']?(.+?)["\']?\s*$', content, re.MULTILINE)
     title = title_match.group(1) if title_match else article.stem.replace("-", " ").title()
 
@@ -233,6 +314,7 @@ def select_content() -> dict | None:
         "path": str(article),
         "url": article_to_url(article),
         "title": title,
+        "topics": topics,
     }
 
 
@@ -311,7 +393,7 @@ def cmd_post(args: argparse.Namespace) -> int:
             f"{API_BASE}/posts",
             headers=get_headers(),
             json=body,
-            timeout=30,
+            timeout=120,
         )
 
         if response.status_code in (200, 201):
@@ -346,8 +428,11 @@ def cmd_post(args: argparse.Namespace) -> int:
 
 def cmd_mark_posted(args: argparse.Namespace) -> int:
     """Mark a URL as recently posted."""
-    mark_as_posted(args.url)
+    topics = args.topics.split(",") if args.topics else None
+    mark_as_posted(args.url, topics=topics)
     print(f"Marked as posted: {args.url}")
+    if topics:
+        print(f"Topics: {', '.join(topics)}")
     return 0
 
 
@@ -450,6 +535,7 @@ def main() -> int:
     # mark-posted command
     mark_parser = subparsers.add_parser("mark-posted", help="Mark URL as posted")
     mark_parser.add_argument("--url", required=True, help="URL to mark")
+    mark_parser.add_argument("--topics", help="Comma-separated topics for deduplication")
 
     # register command
     reg_parser = subparsers.add_parser("register", help="Register new agent (one-time)")

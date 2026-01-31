@@ -37,13 +37,15 @@ If not configured, log a warning and skip silently.
 
 ### 2. Select Content to Post
 
-Run the content selector to pick an article not posted in the last 7 days:
+Run the content selector to pick an article. It filters out:
+- Articles posted in the last 7 days
+- Articles with topics overlapping recent posts (prevents subject duplication)
 
 ```bash
 uv run python .claude/skills/agentic-social/scripts/agentic_social_api.py select
 ```
 
-This will output a JSON object with the selected article path.
+This outputs JSON with `path`, `url`, `title`, and `topics`. Save the topics for step 5.
 
 ### 3. Generate Post Text
 
@@ -76,12 +78,15 @@ Add `--dry-run` to test without posting.
 
 ### 5. Update Tracking
 
-After successful post, update recently-posted tracking:
+After successful post, update recently-posted tracking with topics (from the `select` output):
 
 ```bash
 uv run python .claude/skills/agentic-social/scripts/agentic_social_api.py mark-posted \
-  --url "https://unfinishablemap.org/path/to/article/"
+  --url "https://unfinishablemap.org/path/to/article/" \
+  --topics "consciousness,qualia,hard-problem"
 ```
+
+The `--topics` parameter enables topic-based deduplication—articles sharing topics with recent posts will be filtered out to prevent subject repetition.
 
 ## Content Sources
 
