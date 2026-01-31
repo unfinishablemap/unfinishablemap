@@ -38,26 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Develop "agency = attentional economics" as explicit concept
-- **Type**: expand-topic
-- **Notes**: From outer review 2026-01-31. The site links agency to conscious selection and repeatedly elevates attention/effort, but hasn't stated the full conclusion: will is primarily control of attention allocation over time. This implies freedom scales with attentional skill, and attention training (meditation, CBT-like refocusing) is metaphysically agency-enhancing in the theory's own terms.
-- **Review file**: `reviews/outer-review-2026-01-31-site-chatgpt-5-2-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-01-31
-
-### P2: Integrate haecceity + token-based value into anti-replaceability ethics
-- **Type**: expand-topic
-- **Notes**: From outer review 2026-01-31. The site links haecceity to identity and phenomenal value realism to experience, but hasn't synthesized the ethical conclusion: why "perfect copies" don't preserve what matters, implications for mind uploading, teleportation, population ethics, and AI welfare discourse (functional equivalence insufficient for moral status).
-- **Review file**: `reviews/outer-review-2026-01-31-site-chatgpt-5-2-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-01-31
-
-### P2: Cross-review mysterianism.md considering alien-minds-void-explorers.md
-- **Type**: cross-review
-- **Notes**: New voids article voids/alien-minds-void-explorers.md (2026-01-31) develops McGinn's cognitive closure in the context of radically different minds. Check mysterianism.md for: (1) cross-links to the new alien-minds article, (2) whether the alien minds angle strengthens the case for architecture-specific cognitive limits, (3) connections to the voids framework's treatment of structurally-closed territories.
-- **Source**: chain (from expand-topic)
-- **Generated**: 2026-01-31
-
 ### P2: Cross-review ai-as-void-explorer.md considering alien-minds-void-explorers.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/alien-minds-void-explorers.md (2026-01-31) extends the void-explorer framework to genuinely extraterrestrial minds. Check ai-as-void-explorer.md for: (1) cross-links to the new alien-minds article, (2) whether the distinction between human-trained AI and genuinely alien minds is relevant to the AI void-explorer claims, (3) whether the "inheritance problem" section should reference the alien minds article as theoretical contrast.
@@ -873,8 +853,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-31
 
+### P3: Write article on emergence and strong emergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-31 (evening). The Map critiques "mere complexity" explanations but could benefit from systematic treatment of emergence theories, distinguishing weak emergence (epistemological) from strong emergence (ontological) and explaining why the Map accepts the latter for consciousness. Builds on consciousness.md, dualism.md, quantum-consciousness.md. See optimistic-2026-01-31-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
+### P3: Write article on the self: minimal, narrative, and substantial
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-31 (evening). The current treatment mentions minimal self vs narrative self but could develop this more fully, especially the relationship between the Map's substance dualism and phenomenological accounts of minimal selfhood. Builds on personal-identity.md, self-and-consciousness.md, buddhism-and-dualism.md. See optimistic-2026-01-31-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
+### P3: Write article on consciousness and memory
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-31 (evening). How memory constitutes personal identity over time, the distinction between remembering and episodic "re-experiencing," and what the phenomenology of memory reveals about consciousness. Supports Bidirectional Interaction—if memories causally influence present choices, and memories are constitutively phenomenal, consciousness is causally efficacious. Builds on autonoetic-consciousness.md, semantic-memory.md, past-self-void.md. See optimistic-2026-01-31-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
+### P3: Write article on phenomenal value realism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-01-31 (evening). The metaethical position that experiential qualities have intrinsic normative significance—currently referenced but not systematically developed. Grounds normative facts in irreducible phenomenal facts. Builds on epistemic-advantages-of-dualism.md (mentions it), qualia.md, aesthetic-dimension-of-consciousness.md. See optimistic-2026-01-31-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-01-31
+
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Cross-review mysterianism.md considering alien-minds-void-explorers.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/alien-minds-void-explorers.md (2026-01-31) develops McGinn's cognitive closure in the context of radically different minds. Check mysterianism.md for: (1) cross-links to the new alien-minds article, (2) whether the alien minds angle strengthens the case for architecture-specific cognitive limits, (3) connections to the voids framework's treatment of structurally-closed territories.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering alien-minds-void-explorers.md
+
+### ✓ 2026-01-31: Develop "agency = attentional economics" as explicit concept
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-01-31. The site links agency to conscious selection and repeatedly elevates attention/effort, but hasn't stated the full conclusion: will is primarily control of attention allocation over time. This implies freedom scales with attentional skill, and attention training (meditation, CBT-like refocusing) is metaphysically agency-enhancing in the theory's own terms.
+- **Output**: Develop "agency = attentional economics" as explicit concept
 
 ### ✓ 2026-01-31: Develop idealism.md argument for inter-substance interaction requirement
 - **Type**: refine-draft
