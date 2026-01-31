@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 00:30 UTC - deep-review
+- **Status**: Success
+- **File**: questions/questions.md
+- **Word count**: 107 → 114 (+7 words, 6% of soft threshold)
+- **Critical issues addressed**: 1 (missing frontmatter description)
+- **Medium issues addressed**: 2 (ambiguous wikilink, missing tenets link)
+- **Enhancements made**: 2 (clarified link with display text, added related_articles)
+- **Output**: `reviews/deep-review-2026-01-31-questions.md`
+- **Notes**: First review of section index page. Section needs expansion (more questions) but that is structural work beyond this review's scope.
+
 ## 2026-01-31 00:20 UTC - deep-review
 - **Status**: Success
 - **File**: arguments/arguments.md

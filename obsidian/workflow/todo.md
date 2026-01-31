@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from existentialism.md)
 - **Generated**: 2026-01-30
 
-### P2: Deep review questions/questions.md (section index)
-- **Type**: deep-review
-- **Notes**: Section index page (ai_contribution: 90), never deep-reviewed. Questions section should frame the open questions the Map addresses. Should verify: (1) accurate listing of all question pages, (2) connection between questions and tenets, (3) clarity on which questions are central vs. peripheral, (4) up-to-date cross-links.
-- **Source**: staleness
-- **Generated**: 2026-01-31
-
 ### P3: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) develops evidence for cross-cultural universal cognitive limits (bias blind spot, mystical experiences). The collective-cognitive-limits.md article covers group-level limits (paradigm blindness, Overton windows). Check for: (1) cross-links between individual-universal and group-level limits, (2) whether convergent limits strengthen the case that some voids are species-level rather than cultural, (3) opportunities to distinguish group dynamics from individual architecture.
@@ -835,6 +829,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Deep review questions/questions.md (section index)
+- **Type**: deep-review
+- **Notes**: Section index page (ai_contribution: 90), never deep-reviewed. Questions section should frame the open questions the Map addresses. Should verify: (1) accurate listing of all question pages, (2) connection between questions and tenets, (3) clarity on which questions are central vs. peripheral, (4) up-to-date cross-links.
+- **Output**: obsidian/questions/questions.md
 
 ### ✓ 2026-01-31: Deep review arguments/arguments.md (section index)
 - **Type**: deep-review
