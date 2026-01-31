@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P0: Create apex article "The Contemplative Path"
-- **Type**: expand-topic
-- **Notes**: Create apex/contemplative-path.md. Thesis: Contemplative traditions and phenomenological philosophy access aspects of consciousness that third-person neuroscience cannot reach. Source articles: topics/eastern-philosophy-consciousness, topics/contemplative-evidence-for-consciousness-theories, concepts/witness-consciousness, concepts/meditation-consciousness-modes, concepts/introspection, topics/epistemic-advantages-of-dualism, topics/aesthetic-dimension-of-consciousness.
-- **Source**: human
-- **Generated**: 2026-01-31
-
 ### P0: Create apex article "Minds Without Words"
 - **Type**: expand-topic
 - **Notes**: Create apex/minds-without-words.md. Thesis: Non-linguistic consciousness in animals and simple organisms reveals that experience is more fundamental than the cognitive capacities we usually associate with mind. Source articles: topics/animal-consciousness, topics/consciousness-in-simple-organisms, topics/baseline-cognition, concepts/phenomenal-consciousness, topics/emotional-consciousness.
@@ -890,6 +884,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Create apex article "The Contemplative Path"
+- **Type**: expand-topic
+- **Notes**: Create apex/contemplative-path.md. Thesis: Contemplative traditions and phenomenological philosophy access aspects of consciousness that third-person neuroscience cannot reach. Source articles: topics/eastern-philosophy-consciousness, topics/contemplative-evidence-for-consciousness-theories, concepts/witness-consciousness, concepts/meditation-consciousness-modes, concepts/introspection, topics/epistemic-advantages-of-dualism, topics/aesthetic-dimension-of-consciousness.
+- **Output**: Create apex article "The Contemplative Path"
 
 ### ✓ 2026-01-31: Create apex article "Identity Across Transformations"
 - **Type**: expand-topic

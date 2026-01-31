@@ -120,7 +120,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 - topics/epistemic-advantages-of-dualism
 - topics/aesthetic-dimension-of-consciousness
 
-**Status**: Not yet created
+**Status**: Created 2026-01-31
 
 ---
 
