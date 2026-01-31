@@ -4,7 +4,7 @@ description: "Why conscious experiences come as integrated wholes rather than se
 created: 2026-01-19
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-28T20:15:00+00:00
+ai_modified: 2026-01-31T05:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,12 +28,13 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[neural-binding-quantum-entanglement-2026-01-19]]"
+  - "[[process-and-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-01-28T20:15:00+00:00
+last_deep_review: 2026-01-31T05:33:00+00:00
 ---
 
 Phenomenal unity is the fact that conscious experiences come as integrated wholes rather than collections of separate parts. When you see a red apple while hearing music and feeling hungry, these aren't three parallel streams—they're aspects of one unified experience that is yours. This unity is not merely functional coordination or information integration; it is a feature of what experience *is like*. Classical mechanisms cannot explain it because they coordinate separate processes without creating genuine wholes. Quantum entanglement may succeed precisely because it provides irreducible holism at the level of physics.
@@ -212,6 +213,7 @@ Phenomenal unity illuminates why the Map's [[tenets]] take the positions they do
 
 ## Further Reading
 
+- [[process-and-consciousness]] — Apex synthesis: how process philosophy (Whitehead, Bergson) illuminates phenomenal unity through its account of actual occasions
 - [[unity-of-consciousness]] — Broader conceptual framing of what unity is and how it relates to binding, combination, and other problems
 - [[neural-binding-mechanisms]] — Detailed analysis of classical binding mechanisms (gamma synchrony, thalamocortical loops) and why quantum entanglement succeeds where they fail
 - [[quantum-binding-experimental-evidence]] — Comprehensive analysis of 2022-2025 experimental support for quantum mechanisms underlying phenomenal unity

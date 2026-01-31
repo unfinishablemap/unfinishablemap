@@ -795,12 +795,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-30
 
-### P2: Cross-review phenomenal-unity.md considering process-and-consciousness apex
-- **Type**: cross-review
-- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) discusses how process philosophy handles the combination problem differently than interactionism. Check phenomenal-unity.md for: (1) cross-links to process treatment, (2) whether the contrast between combination problem (process) and interaction problem (dualism) enriches the article, (3) Whitehead's "personally ordered society" as model of unified experience.
-- **Source**: chain (from process-and-consciousness.md)
-- **Generated**: 2026-01-31
-
 ### P2: Condense duration.md (3625 words, 145% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers Bergson's durée—lived time as qualitative multiplicity vs. spatialized clock time. Preserve core phenomenological content, connection to temporal-consciousness.md and process-philosophy.md. See /condense skill.
@@ -860,6 +854,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Cross-review phenomenal-unity.md considering process-and-consciousness apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) discusses how process philosophy handles the combination problem differently than interactionism. Check phenomenal-unity.md for: (1) cross-links to process treatment, (2) whether the contrast between combination problem (process) and interaction problem (dualism) enriches the article, (3) Whitehead's "personally ordered society" as model of unified experience.
+- **Output**: obsidian/concepts/phenomenal-unity.md -- Context: Cross-review phenomenal-unity.md considering process-and-consciousness apex
 
 ### ✓ 2026-01-31: Cross-review hard-problem-of-consciousness.md considering process-and-consciousness apex
 - **Type**: cross-review
