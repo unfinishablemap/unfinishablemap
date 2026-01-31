@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 08:49 UTC - expand-topic (apex)
+- **Status**: Success
+- **Topic**: Testing the Map from Inside (apex article)
+- **Output**: apex/testing-the-map-from-inside.md
+- **Word count**: 2289
+- **Based on research**: No (synthesis of existing source articles)
+- **Notes**: Created apex article synthesizing introspection, witness-consciousness, meditation-and-consciousness-modes, phenomenology-of-choice, mental-effort, and neurophenomenology into practical phenomenological tests. Provides concrete exercises readers can try: choosing vs observing (breath test), accessing witness mode, testing mental effort, and exploring three levels of agency. Addresses illusionist challenge, training effects, and what would disconfirm the framework.
+
 ## 2026-01-31 08:38 UTC - expand-topic (apex)
 - **Status**: Success
 - **Topic**: Living with the Map (apex article)
