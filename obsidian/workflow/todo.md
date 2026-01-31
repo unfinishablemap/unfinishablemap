@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review temporal-consciousness.md considering process-and-consciousness apex
-- **Type**: cross-review
-- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) develops temporal aspects of consciousness within process philosophy framework. The temporal-consciousness.md concept page covers phenomenology of time experience. Check for: (1) cross-links to the apex synthesis, (2) whether process philosophy framing enriches the temporal phenomenology treatment, (3) connection between Whiteheadian actual occasions and moment-to-moment experience.
-- **Source**: chain (from process-and-consciousness.md)
-- **Generated**: 2026-01-31
-
 ### P3: Cross-review nihilism-and-existentialism.md considering existentialism.md
 - **Type**: cross-review
 - **Notes**: New standalone article concepts/existentialism.md (2026-01-30) now provides dedicated coverage of existentialist philosophy. Check nihilism-and-existentialism.md for: (1) cross-links to the new existentialism page, (2) whether content can be streamlined now that existentialism has dedicated coverage, (3) appropriate division of labor between the two articles.
@@ -854,6 +848,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Cross-review temporal-consciousness.md considering process-and-consciousness apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) develops temporal aspects of consciousness within process philosophy framework. The temporal-consciousness.md concept page covers phenomenology of time experience. Check for: (1) cross-links to the apex synthesis, (2) whether process philosophy framing enriches the temporal phenomenology treatment, (3) connection between Whiteheadian actual occasions and moment-to-moment experience.
+- **Output**: obsidian/concepts/temporal-consciousness.md -- Context: Cross-review temporal-consciousness.md considering process-and-consciousness apex
 
 ### ✓ 2026-01-31: Cross-review duration.md considering process-and-consciousness apex
 - **Type**: cross-review
