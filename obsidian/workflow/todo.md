@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P0: Create apex article "Living with the Map"
-- **Type**: expand-topic
-- **Notes**: Create apex/living-with-the-map.md. Thesis: If consciousness is fundamental and our choices genuinely matter, then the quest to understand our situation becomes the essential precursor to every meaningful decision. The Map offers not just a metaphysical picture but practical guidance. Source articles: topics/meaning-of-life, topics/ethics-of-consciousness, topics/purpose-and-alignment, concepts/phenomenal-value-realism, concepts/moral-responsibility, concepts/existentialism, topics/free-will.
-- **Source**: human
-- **Generated**: 2026-01-31
-
 ### P0: Create apex article "Testing the Map from Inside"
 - **Type**: expand-topic
 - **Notes**: Create apex/testing-the-map-from-inside.md. Thesis: You don't need a laboratory to investigate consciousness—you have one between your ears. By carefully attending to the phenomenology of choice, you can probe whether experience feels like selecting from options or passively watching neural processes. The Map's claims are testable from the inside. Source articles: concepts/introspection, concepts/witness-consciousness, concepts/meditation-and-consciousness-modes, concepts/phenomenology-of-choice, concepts/mental-effort, concepts/neurophenomenology.
@@ -908,6 +902,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Create apex article "Living with the Map"
+- **Type**: expand-topic
+- **Notes**: Create apex/living-with-the-map.md. Thesis: If consciousness is fundamental and our choices genuinely matter, then the quest to understand our situation becomes the essential precursor to every meaningful decision. The Map offers not just a metaphysical picture but practical guidance. Source articles: topics/meaning-of-life, topics/ethics-of-consciousness, topics/purpose-and-alignment, concepts/phenomenal-value-realism, concepts/moral-responsibility, concepts/existentialism, topics/free-will.
+- **Output**: Create apex article "Living with the Map"
 
 ### ✓ 2026-01-31: Write voids article on incompleteness-void
 - **Type**: expand-topic
