@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review interactionist-dualism.md considering causal-interface insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/causal-interface.md (2026-01-31) addresses the core Cartesian objection—how can non-physical consciousness enter the causal order? The causal-interface article reframes this as an epistemic void rather than a metaphysical impossibility. Check interactionist-dualism.md for: (1) cross-links to causal-interface treatment, (2) whether the "double opacity" argument addresses interaction objections, (3) consistency between the two articles on the status of causal mechanism questions.
-- **Source**: chain (from causal-interface.md)
-- **Generated**: 2026-01-31
-
 ### P2: Cross-review phenomenology-of-choice.md considering causal-interface insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/causal-interface.md (2026-01-31) examines the phenomenology of willing—we feel intentions and actions but not the connection between them. The phenomenology-of-choice.md article covers the experience of deliberation. Check for: (1) cross-links to causal-interface phenomenological analysis, (2) whether the "bridge is crossed without experiencing the crossing" observation enriches choice phenomenology, (3) connection to free-will debates via the opacity of willing.
@@ -827,6 +821,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Cross-review interactionist-dualism.md considering causal-interface insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/causal-interface.md (2026-01-31) addresses the core Cartesian objection—how can non-physical consciousness enter the causal order? The causal-interface article reframes this as an epistemic void rather than a metaphysical impossibility. Check interactionist-dualism.md for: (1) cross-links to causal-interface treatment, (2) whether the "double opacity" argument addresses interaction objections, (3) consistency between the two articles on the status of causal mechanism questions.
+- **Output**: obsidian/concepts/interactionist-dualism.md -- Context: Cross-review interactionist-dualism.md considering causal-interface insights
 
 ### ✓ 2026-01-31: Cross-review agent-causation.md considering causal-interface insights
 - **Type**: cross-review

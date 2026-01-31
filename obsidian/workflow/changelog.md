@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 02:01 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/interactionist-dualism.md
+- **Word count**: 3554 → 3552 (-2)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (added causal-interface cross-link)
+- **Enhancements made**: 1 (integrated causal-interface void acknowledgment)
+- **Output**: `reviews/deep-review-2026-01-31-interactionist-dualism.md`
+- **Notes**: Fourth review; cross-review for causal-interface.md. Added acknowledgment in Agent Causation section that the interface is systematically opaque—invisible from both first-person introspection and third-person observation—as predicted by minimal interaction. Tightened surrounding prose for length neutrality. Article at hard-warning (142% of soft threshold) but stable. All major cross-links now present (delegatory-dualism, causal-interface).
+
 ## 2026-01-31 01:51 UTC - deep-review
 - **Status**: Success
 - **File**: concepts/agent-causation.md
