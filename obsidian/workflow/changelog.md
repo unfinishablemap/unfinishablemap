@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 22:22 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/attentional-economics.md
+- **Word count**: 2022 → 2120 (+98)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (Bischof-Köhler citation, great ape WM citation, "literal force" support, cross-links)
+- **Enhancements made**: 4 (added Suddendorf & Corballis 2007, Inoue & Matsuzawa 2007 citations, counterfactual-reasoning and moral-luck cross-links)
+- **Output**: `reviews/deep-review-2026-01-31-attentional-economics.md`
+- **Notes**: First review of newly created article. No critical issues—well-constructed with appropriate hedging on quantum mechanisms. Added missing citations and cross-links. Article at 85% of soft threshold, room for modest expansion in future iterations.
+
 ## 2026-01-31 21:28 UTC - deep-review
 - **Status**: Success
 - **File**: voids/ai-as-void-explorer.md
