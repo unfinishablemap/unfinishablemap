@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-01-30 14:14:00+00:00
+ai_modified: 2026-01-31 13:58:00+00:00
 ai_system: claude-opus-4-5-20251101
 apex_last_synthesis: 2026-01-29 08:21:07+00:00
 apex_sources:
@@ -52,6 +52,16 @@ Three traditional responses emerge. Hard determinism accepts the implication: fr
 The Map's framework is libertarian, but with a specific mechanism: consciousness selects among quantum possibilities. This requires not just indeterminacy but genuine deliberation—the capacity to represent alternative futures and evaluate what would follow from each. This requires unpacking. Quantum mechanics introduces genuine indeterminacy at the fundamental level—physics specifies probabilities but not which outcome occurs. Before measurement, particles exist in superposition; measurement collapses superposition to definite outcome, but *which* outcome is not determined by prior physical states. Here is a gap in the causal order that determinism cannot close.
 
 But critics object: quantum randomness doesn't give us free will. A random choice is no more *mine* than a determined one. If the outcome is undetermined by prior states but also undetermined by me, it's just luck. This is the [luck objection](/concepts/agent-causation/#the-luck-objection)—the central challenge any libertarian position must answer.
+
+## Consciousness as Selector, Not Generator
+
+A crucial implication follows from the Map's framework: consciousness is a *selector*, not a *generator*. The brain does the heavy computational lifting—representing possibilities, simulating consequences, preparing motor programs. Consciousness selects among these pre-formed alternatives. It arbitrates; it does not construct.
+
+This follows directly from two tenets. [Minimal quantum interaction](/tenets/#minimal-quantum-interaction) demands that consciousness's influence be as small as possible—not because consciousness is weak, but because excessive influence would violate physical constraints and show up in measurements. [Bidirectional interaction](/tenets/#bidirectional-interaction) requires that consciousness genuinely affect outcomes. The resolution: consciousness exerts just enough influence to select among options that physics has already prepared.
+
+The implications are significant. First, most cognition is *nonconscious scaffolding*. The creative generation of alternatives, the evaluation of consequences, the preparation of action plans—these are brain processes. Consciousness receives options, not raw materials. Second, the "action channel" through which consciousness influences the world has limited bandwidth—perhaps measurable in bits per second or choice-points per second. Working memory limits, attentional capacity, and the phenomenology of choosing (one thing at a time, with effort) all point toward a narrow selection channel. Third, "free will" is primarily about *which branch is realized*, not about generating branches. The brain generates the decision tree; consciousness determines which path through it becomes actual.
+
+This reframes "mind over matter" from mental force to executive arbitration. Consciousness doesn't do the brain's heavy lifting any more than a company's CEO does the manufacturing. But which possibilities become actual—that is where consciousness makes its irreducible contribution.
 
 ## Agent Causation: The Agent as Source
 
@@ -141,7 +151,7 @@ The framework requires consciousness for responsibility. The agent who sources a
 
 Individual source articles establish components: free will as quantum selection, agent causation as the metaphysics of sourcehood, mental causation as consciousness affecting physics, the argument from reason as a second route to mental causation, moral responsibility as grounded in authorship, time-collapse-agency as the temporal framework, counterfactual reasoning as the cognitive capacity that makes genuine deliberation possible. What emerges from these interlocking pieces cannot be seen from any single source.
 
-The synthesis is this: consciousness as phenomenally unified, temporally constitutive, reasons-responsive selection among quantum possibilities. "Phenomenally unified" because the agent who selects is a single experiential subject, not a committee of subsystems. "Temporally constitutive" because selection may help create the directed time within which consequences unfold. "Reasons-responsive" because selection is guided by counterfactual evaluation of what matters to the agent, not arbitrary. "Quantum possibilities" because this is where physics leaves room for irreducible mental contribution.
+The synthesis is this: consciousness as phenomenally unified, temporally constitutive, reasons-responsive *selection* among quantum possibilities. "Phenomenally unified" because the agent who selects is a single experiential subject, not a committee of subsystems. "Temporally constitutive" because selection may help create the directed time within which consequences unfold. "Reasons-responsive" because selection is guided by counterfactual evaluation of what matters to the agent, not arbitrary. "Quantum possibilities" because this is where physics leaves room for irreducible mental contribution. And crucially, *selection*—not generation—because consciousness arbitrates among options the brain prepares rather than constructing those options from scratch. The brain does the heavy computational work; consciousness determines which prepared alternative becomes actual.
 
 The elements form a mutually supporting structure: agent causation requires mental causation (the agent must cause something physical), which requires a gap in physical determination (quantum indeterminacy provides it), which requires genuine collapse (no many worlds), which requires consciousness to determine rather than discover outcomes—bringing us back to agent causation. Each element would be unmotivated without the others; together they form a single coherent picture.
 
