@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-31T04:33:00+00:00
+ai_modified: 2026-01-31T20:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,12 +31,13 @@ related_articles:
   - "[[origin-of-consciousness]]"
   - "[[natural-vs-designed-limits]]"
   - "[[causal-interface]]"
+  - "[[alien-minds-void-explorers]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-31T04:33:00+00:00
+last_deep_review: 2026-01-31T20:42:00+00:00
 coalesced_from:
   - "/topics/mysterianism-cognitive-closure/"
 ---
@@ -117,7 +118,7 @@ A key distinction within mysterianism:
 
 **Temporary mysterianism** holds that current science cannot explain consciousness, but future paradigm shifts might bridge the gap. New concepts, new methods, new frameworks—something will eventually click. The mystery is practical, not principled.
 
-**Permanent mysterianism** holds that cognitive closure is permanent. No amount of scientific progress will solve the problem for beings like us. We might build artificial intelligences that solve it, or encounter alien minds that understand it—but *we* never will.
+**Permanent mysterianism** holds that cognitive closure is permanent. No amount of scientific progress will solve the problem for beings like us. We might build artificial intelligences that solve it, or encounter [[alien-minds-void-explorers|alien minds]] that understand it—but *we* never will. If cognitive closure is architecture-specific rather than universal, different minds face different closures: where our map has void, theirs might have detail.
 
 From our current perspective, both look identical—we cannot know in advance which problems are permanently closed.
 
@@ -210,6 +211,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [[illusionism]] — The rival view that consciousness isn't real
 - [[combination-problem]] — Panpsychism's version of the mystery
 - [[voids]] — The Map's framework for approaching cognitive limits
+- [[alien-minds-void-explorers]] — Whether different cognitive architectures face different closures
 
 ## References
 
