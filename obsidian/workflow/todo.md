@@ -91,13 +91,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-01-29
 
-### P2: Condense many-worlds.md (3704 words, 106% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers many-worlds interpretation arguments relevant to the No Many Worlds tenet. Preserve: core indexical identity objection, connection to quantum-interpretations.md, engagement with Wallace's decision-theoretic argument. See /condense skill.
-- **Source**: length_analysis
-- **Promoted**: 2026-01-31 (replenish-queue: tenet relevance +50)
-- **Generated**: 2026-01-29
-
 ### P3: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the bootstrap problem where the mind that was wrong must recognize its error. Preserve: Schulz's error-blindness claims, connection to self-reference-paradox. See /condense skill.
@@ -829,6 +822,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Condense many-worlds.md (3704 words, 106% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers many-worlds interpretation arguments relevant to the No Many Worlds tenet. Preserve: core indexical identity objection, connection to quantum-interpretations.md, engagement with Wallace's decision-theoretic argument. See /condense skill.
+- **Output**: obsidian/concepts/many-worlds.md
 
 ### ✓ 2026-01-31: Deep review questions/questions.md (section index)
 - **Type**: deep-review
