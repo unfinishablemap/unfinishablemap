@@ -4,7 +4,7 @@ description: "Physicalism's best response to the explanatory gap: the puzzle is 
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-01-31T09:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-20T01:30:00+00:00
+last_deep_review: 2026-01-31T09:28:00+00:00
 ---
 
 The phenomenal concepts strategy (PCS) is the most sophisticated physicalist response to the [[explanatory-gap|explanatory gap]]. Rather than denying that consciousness seems puzzling, PCS locates the puzzle in our *concepts* rather than in reality. The gap between physical descriptions and conscious experience, it claims, reflects how we think about experience—not something non-physical in experience itself.
@@ -153,11 +153,11 @@ Several findings would strengthen PCS and weaken the dualist interpretation:
 
 **[[tenets#^dualism|Dualism]]**: The Unfinishable Map takes the explanatory gap as evidence that consciousness involves something beyond the physical. PCS is the strongest challenge to this position, and engaging it honestly strengthens the case for dualism. Chalmers's master argument suggests that PCS relocates rather than dissolves the problem. If phenomenal concepts are special in a way that explains the gap, that specialness must either (a) create a new gap or (b) apply equally to zombies, in which case it doesn't explain why *we* find consciousness puzzling. The persistence of the debate after decades of sophisticated work suggests the gap reflects something real about consciousness, not merely our conceptual limitations.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If PCS fails and the gap is ontological rather than conceptual, consciousness must interact with the physical world somehow. The Map's framework proposes quantum-level selection as this interaction point—consciousness biases quantum outcomes rather than violating energy conservation. PCS's failure supports the need for such an interface: if phenomenal concepts can't be explained purely physically, something non-physical must enter the picture, and quantum indeterminacy provides the cleanest entry point. See [[decoherence]] for the challenges this faces.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If PCS fails and the gap is ontological rather than conceptual, consciousness must interact with the physical world somehow. The Map's framework proposes quantum-level selection as this interaction point—consciousness biases quantum outcomes rather than violating energy conservation. PCS's failure supports the need for such an interface: if phenomenal concepts can't be explained purely physically, something non-physical must enter the picture, and quantum indeterminacy provides one proposed entry point. See [[decoherence]] for the challenges this faces.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: PCS assumes that phenomenal concepts merely *represent* brain states without affecting them. But the deployment of phenomenal concepts itself requires causal work—the brain must do something to generate these "direct" or "quotational" concepts. If phenomenal concepts involve consciousness directly grasping its own states (as Loar suggests), this grasping may constitute the kind of downward causation the Map affirms. The concept doesn't just passively represent; consciousness actively apprehends. This active element resists purely bottom-up explanation.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The [[philosophical-zombies|zombie]] thought experiment central to Chalmers's master argument presupposes indexical identity—*I* could have been a zombie, or *this* world could have lacked consciousness. [[Haecceity]]—the irreducible thisness of individual perspective—underlies the conceivability intuition. Many-worlds interpretations dissolve such indexicality by treating all outcomes as equally real. If the Map's rejection of many-worlds is correct, the zombie conceivability intuition retains its force, and PCS cannot escape by denying that zombies raise genuine questions.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The [[philosophical-zombies|zombie]] thought experiment central to Chalmers's master argument presupposes indexical identity—*I* could have been a zombie, or *this* world could have lacked consciousness. [[Haecceity]]—the irreducible thisness of individual perspective—underlies the conceivability intuition. Many-worlds interpretations complicate such indexicality: if all outcomes are equally real, questions about what "could have been" become questions about which branch one inhabits. The Map's rejection of many-worlds preserves the zombie conceivability intuition in its original force—PCS cannot escape by retreating to a framework where indexical questions lose their grip.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: PCS often appeals to parsimony: why posit non-physical properties when the gap might be merely conceptual? But apparent simplicity may reflect ignorance. If the gap persists despite sophisticated attempts to explain it, perhaps the simpler explanation is that physics genuinely cannot capture everything about consciousness. The "conceptual" explanation adds complexity by requiring an account of why phenomenal concepts are so peculiarly unlike other concepts—and this peculiarity itself becomes the new puzzle. Parsimony cuts both ways.
 
