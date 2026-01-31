@@ -4,7 +4,7 @@ description: "Bergson's durée names the qualitative flow of lived time, fundame
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-31T07:07:00+00:00
+ai_modified: 2026-01-31T07:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,12 +28,13 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-time-perception-2026-01-14]]"
+  - "[[process-and-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-27T23:45:00+00:00
+last_deep_review: 2026-01-31T07:36:00+00:00
 ---
 
 Henri Bergson's concept of *durée* (duration) names the qualitative experience of time as consciousness lives it—fundamentally different from clock time or the spatialized time of physics. When you listen to a melody, you don't experience a succession of separate notes arranged along a timeline. You experience the melody *as a whole*, with each note permeated by the ones before and reaching toward those to come. This flowing, interpenetrating, qualitative time is durée.
@@ -142,6 +143,7 @@ Bergson's durée aligns with all five site tenets:
 
 ## Further Reading
 
+- [[process-and-consciousness]] — Apex synthesis: how process philosophy illuminates all five tenets
 - [[temporal-consciousness]] — The specious present and neuroscience of time
 - [[specious-present]] — The experienced duration of the present moment
 - [[philosophy-of-time]] — A-theory, B-theory, and the Map's growing block position

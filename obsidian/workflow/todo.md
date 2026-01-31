@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review duration.md considering process-and-consciousness apex
-- **Type**: cross-review
-- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) synthesizes Whitehead and Bergson's process frameworks. The duration.md concept page covers Bergson's durée. Check for: (1) cross-links to the apex synthesis, (2) whether the apex treatment enriches or clarifies the concept page, (3) consistency between Bergson presentations.
-- **Source**: chain (from process-and-consciousness.md)
-- **Generated**: 2026-01-31
-
 ### P2: Cross-review temporal-consciousness.md considering process-and-consciousness apex
 - **Type**: cross-review
 - **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) develops temporal aspects of consciousness within process philosophy framework. The temporal-consciousness.md concept page covers phenomenology of time experience. Check for: (1) cross-links to the apex synthesis, (2) whether process philosophy framing enriches the temporal phenomenology treatment, (3) connection between Whiteheadian actual occasions and moment-to-moment experience.
@@ -860,6 +854,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-01-31: Cross-review duration.md considering process-and-consciousness apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/process-and-consciousness.md (2026-01-31) synthesizes Whitehead and Bergson's process frameworks. The duration.md concept page covers Bergson's durée. Check for: (1) cross-links to the apex synthesis, (2) whether the apex treatment enriches or clarifies the concept page, (3) consistency between Bergson presentations.
+- **Output**: obsidian/concepts/duration.md -- Context: Cross-review duration.md considering process-and-consciousness apex
 
 ### ✓ 2026-01-31: Cross-review computational-cognitive-limits.md with new incompleteness research
 - **Type**: cross-review
