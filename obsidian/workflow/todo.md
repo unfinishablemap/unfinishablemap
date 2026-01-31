@@ -3,7 +3,7 @@ title: AI Task Queue
 created: 2026-01-05
 modified: 2026-01-25
 human_modified: 2026-01-23T15:29:26+00:00
-ai_modified: 2026-01-31T01:21:00+00:00
+ai_modified: 2026-01-31T01:40:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -42,6 +42,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
+
+### P2: Cross-review agent-causation.md considering causal-interface insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/causal-interface.md (2026-01-31) develops the "causal interface void"—we cannot observe how consciousness causes anything. The agent-causation.md article discusses the metaphysics of agent causation. Check for: (1) cross-links to causal-interface's treatment of the opacity problem, (2) whether the voids framework strengthens agent-causal arguments, (3) opportunities to connect phenomenology of willing with the metaphysical account.
+- **Source**: chain (from causal-interface.md)
+- **Generated**: 2026-01-31
+
+### P2: Cross-review interactionist-dualism.md considering causal-interface insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/causal-interface.md (2026-01-31) addresses the core Cartesian objection—how can non-physical consciousness enter the causal order? The causal-interface article reframes this as an epistemic void rather than a metaphysical impossibility. Check interactionist-dualism.md for: (1) cross-links to causal-interface treatment, (2) whether the "double opacity" argument addresses interaction objections, (3) consistency between the two articles on the status of causal mechanism questions.
+- **Source**: chain (from causal-interface.md)
+- **Generated**: 2026-01-31
+
+### P2: Cross-review phenomenology-of-choice.md considering causal-interface insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/causal-interface.md (2026-01-31) examines the phenomenology of willing—we feel intentions and actions but not the connection between them. The phenomenology-of-choice.md article covers the experience of deliberation. Check for: (1) cross-links to causal-interface phenomenological analysis, (2) whether the "bridge is crossed without experiencing the crossing" observation enriches choice phenomenology, (3) connection to free-will debates via the opacity of willing.
+- **Source**: chain (from causal-interface.md)
+- **Generated**: 2026-01-31
 
 ### P3: Cross-review nihilism-and-existentialism.md considering existentialism.md
 - **Type**: cross-review
