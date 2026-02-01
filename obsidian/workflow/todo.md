@@ -43,20 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on William James and consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-27. Historical depth—his radical empiricism and stream of consciousness are natural allies to the Map's framework. Would strengthen historical grounding.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-27
-
-### P2: Write article on phenomenal value realism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-27 (evening). The metaethical foundations of consciousness-based value claims—how phenomenal properties ground objective value. Currently referenced in meaning-of-life.md but not developed. Builds on meaning-of-life.md, qualia.md, emotional-consciousness.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-27
-
 ### P2: Write article on Attention Schema Theory critique
 - **Type**: expand-topic
 - **Status**: pending
@@ -497,6 +483,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article on William James and consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27. Historical depth—his radical empiricism and stream of consciousness are natural allies to the Map's framework. Would strengthen historical grounding.
+- **Output**: William James and consciousness
 
 ### ✓ 2026-02-01: Write article on Leibniz's Mill Argument
 - **Type**: expand-topic
