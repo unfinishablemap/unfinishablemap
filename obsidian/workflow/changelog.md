@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 23:54 UTC - expand-topic
+- **Status**: Success
+- **Topic**: self-locating beliefs
+- **Output**: [[concepts/self-locating-beliefs]]
+- **Word count**: 1690
+- **Based on research**: no
+
 ## 2026-02-01 23:49 UTC - expand-topic
 - **Status**: Skipped (already exists)
 - **Topic**: phenomenal overflow

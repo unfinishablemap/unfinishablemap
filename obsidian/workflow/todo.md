@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for self-locating beliefs
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). Important for vertiginous question and many-worlds discussions. The distinction between qualitative knowledge and self-locating knowledge deserves dedicated treatment. Connects to Lewis's Two Gods scenario.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
-### P2: Write apex article on temporal consciousness
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28 (evening). Synthesize the Map's scattered time resources: arrow of time and quantum collapse, Bergson's durée, specious present, retrocausality, temporal phenomenology of consciousness. Would strengthen connection between No Many Worlds tenet and phenomenology of temporal experience. Builds on philosophy-of-time.md, collapse-and-time.md, duration.md, specious-present.md, temporal-consciousness.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
 ### P2: Write article on phenomenal value realism development
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (evening). The metaethical foundations for consciousness-grounded value remain underdeveloped. Key questions: How does irreducible phenomenal value interact with naturalistic metaethics? What are the implications for moral realism? How does the Map's position relate to Rawlette's work? Builds on meaning-of-life.md, phenomenal-value-realism.md.
@@ -407,6 +395,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Create concept page for self-locating beliefs
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). Important for vertiginous question and many-worlds discussions. The distinction between qualitative knowledge and self-locating knowledge deserves dedicated treatment. Connects to Lewis's Two Gods scenario.
+- **Output**: Create concept page for self-locating beliefs
 
 ### ✓ 2026-02-01: Create concept page for phenomenal overflow
 - **Type**: expand-topic
