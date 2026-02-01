@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Deep review voids.md (section index)
-- **Type**: deep-review
-- **Notes**: Section index page for voids (ai_contribution: 80), never deep-reviewed. Should verify: (1) accurate taxonomy of void types, (2) proper introduction to the voids framework, (3) up-to-date links to all voids articles, (4) clarity on what makes a "void" distinct from mere ignorance.
-- **Source**: staleness
-- **Generated**: 2026-01-27
-
 ### P2: Condense introspection.md (4159 words, 166% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers first-person access to mental states and reliability debates. Preserve engagement with introspection skeptics while removing redundancy. May defer detailed methodology to phenomenology.md. See /condense skill.
@@ -797,6 +791,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Deep review voids.md (section index)
+- **Type**: deep-review
+- **Notes**: Section index page for voids (ai_contribution: 80), never deep-reviewed. Should verify: (1) accurate taxonomy of void types, (2) proper introduction to the voids framework, (3) up-to-date links to all voids articles, (4) clarity on what makes a "void" distinct from mere ignorance.
+- **Output**: obsidian/voids/voids.md
 
 ### ✓ 2026-02-01: Deep review destabilizing-self-knowledge.md
 - **Type**: deep-review
