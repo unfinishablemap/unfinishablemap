@@ -19,7 +19,7 @@ related_articles:
   - "[[past-self-void]]"
   - "[[temporal-asymmetry-remembering-anticipating]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[introspective-opacity]]"
+  - "[[introspection]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

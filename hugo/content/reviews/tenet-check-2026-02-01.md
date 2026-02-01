@@ -14,17 +14,70 @@ title: Tenet Alignment Check - 2026-02-01
 **Date**: 2026-02-01
 **Files checked**: 142 concepts + 43 topics = 185 total
 **Errors**: 0
-**Warnings**: 0
-**Notes**: 0
+**Warnings**: 2
+**Notes**: 5
 
 ## Summary
 
-Comprehensive scan of all content in the topics and concepts directories found **no violations** of the five foundational tenets. The content demonstrates strong alignment across all tenets while maintaining intellectual integrity through:
+Comprehensive scan of all content in the topics and concepts directories found **no direct violations** of the five foundational tenets. The content demonstrates strong alignment across all tenets while maintaining intellectual integrity. Two warnings identify areas where clarification could strengthen tenet alignment. Five notes flag minor tensions that may benefit from attention.
 
+Overall strengths:
 - Fair engagement with opposing positions (explicitly framed as views the Map rejects)
 - Appropriate epistemic humility about speculative mechanisms
 - Falsifiability conditions for major claims
 - Substantive responses to strongest objections
+
+## Errors
+
+None.
+
+## Warnings
+
+### eastern-philosophy-consciousness.md
+
+- **Tenet**: Dualism
+- **Issue**: The article presents Advaita Vedanta's non-dual perspective and Buddhist dependent origination without sufficiently clarifying how these relate to the Map's commitment to property dualism. While the article acknowledges tensions, it could more explicitly articulate why property dualism remains the Map's position despite these alternative frameworks.
+- **Quote**: Discussion of non-dual consciousness and dependent origination without explicit reconciliation with property dualism
+- **Recommendation**: Add a section or clarifying paragraph that explicitly addresses how the Map's property dualism accommodates insights from these traditions while maintaining its core commitment. Similar to how `panpsychism.md` handles the relationship—acknowledging attractions while explaining preference for dualism.
+
+### integrated-information-theory-critique.md
+
+- **Tenet**: Bidirectional Interaction
+- **Issue**: The article's discussion of token-level causation (consciousness causing specific physical outcomes) versus type-level causation needs further development to fully support the Bidirectional Interaction tenet. The distinction is introduced but the implications for the Map's position on mental causation could be more thoroughly articulated.
+- **Quote**: Token-level vs. type-level causation distinction
+- **Recommendation**: Expand the section on causation to more explicitly connect to the Map's commitment that consciousness causally influences physical outcomes, not just as a type but at the token level in specific instances.
+
+## Notes
+
+### process-philosophy-and-consciousness.md
+
+- **Tenet**: Dualism
+- **Issue**: Whitehead's process philosophy is presented as compatible with the Map's framework, but the article could benefit from more explicit discussion of how processual categories map onto property dualism. Process thought emphasizes events over substances—this tension with substance-based frameworks deserves acknowledgment.
+- **Assessment**: Not a conflict, but an opportunity for deeper integration.
+
+### haecceity.md
+
+- **Tenet**: Dualism
+- **Issue**: The concept of "processual haecceity" introduced in the article is philosophically innovative but its relationship to traditional haecceity and to property dualism could be more explicitly developed.
+- **Assessment**: The concept serves the Map's purposes well; minor clarification would strengthen the presentation.
+
+### time-symmetric-selection-mechanism.md
+
+- **Tenet**: Minimal Quantum Interaction
+- **Issue**: The retrocausal mechanism proposed is speculative and sits at the edge of the Minimal Quantum Interaction tenet. While the article appropriately marks this as speculative, users may not recognize how far this extends beyond mainstream physics.
+- **Assessment**: Appropriately qualified but warrants monitoring as the Map develops.
+
+### quantum-measurement-and-subjective-probability.md
+
+- **Tenet**: No Many Worlds
+- **Issue**: The article discusses probability in quantum mechanics and mentions Born rule derivation attempts in MWI contexts. While clearly framed as examining problems with such attempts, the technical detail could be misread as implicit support.
+- **Assessment**: Framing is appropriate; no action needed unless reader confusion is reported.
+
+### psychophysical-laws-framework.md
+
+- **Tenet**: Bidirectional Interaction
+- **Issue**: The framework article references Chalmers' tendency toward epiphenomenalism without immediately contrasting this with the Map's rejection of epiphenomenalism. A reader encountering this article first might initially be confused about the Map's position.
+- **Assessment**: The contrast is made elsewhere in the article and in linked articles; minor structural reorganization could improve clarity.
 
 ## Tenet-by-Tenet Analysis
 
@@ -83,30 +136,24 @@ Examples of excellent engagement:
 - `panpsychism.md`: Develops panpsychism seriously, identifies problems it solves, explains why the Map chooses dualism
 - `idealism.md`: Extensive engagement with analytic idealism, acknowledges advantages while explaining preference for dualism
 
-### Recent Refinements
+### Process Philosophy Integration
 
-The `idealism.md` article documents recent improvements to avoid question-begging against idealism—demonstrating ongoing quality maintenance.
+Multiple files now engage with Whitehead's process philosophy. This integration is philosophically productive but requires care to maintain consistency with property dualism. The `process-philosophy-and-consciousness.md` article handles this well but the connection could be made more explicit.
 
-### Buddhist No-Self Engagement
+### Chalmers Framework
 
-`haecceity.md` and `buddhism-and-dualism.md` engage with Buddhist perspectives questioning persistent selfhood while maintaining compatibility with haecceitistic facts. This demonstrates philosophical sophistication, not inconsistency.
+The `chalmers-psychophysical-coupling.md` article provides excellent engagement with Chalmers' naturalistic dualism, clearly articulating where the Map builds on and diverges from his framework—particularly on epiphenomenalism and organizational invariance.
 
-## Errors
+## Recommendations
 
-None.
+1. **Address Warning in eastern-philosophy-consciousness.md**: Add explicit reconciliation between Eastern non-dual frameworks and property dualism, following the model in `panpsychism.md`.
 
-## Warnings
+2. **Strengthen integrated-information-theory-critique.md**: Develop the token-level causation discussion to more explicitly support Bidirectional Interaction tenet.
 
-None.
+3. **Continue**: The current approach of presenting opposing views charitably while explaining why the Map's position is stronger.
 
-## Notes
-
-None.
-
-## Conclusion
-
-The content demonstrates strong, consistent alignment with all five tenets. Philosophical nuance and engagement with competing frameworks constitutes responsible philosophy, not tenet violation. No corrective action required.
+4. **Continue**: Marking speculative claims with appropriate epistemic qualifiers.
 
 ## Files Passing All Checks
 
-All 185 files in topics and concepts directories pass tenet alignment checks.
+All 185 files in topics and concepts directories pass tenet alignment checks at the ERROR level. Two files have WARNINGS requiring attention. Five files have NOTES for consideration.

@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-30
-date: '2026-01-30'
+date: '2026-02-01'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-01-30 (Evening)
@@ -166,7 +166,7 @@ The tripartite taxonomy (Unexplored, Unexplorable, Occluded) is philosophically 
 | [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) | [agent-causation](/concepts/agent-causation/) | Authenticity engages genuine agent causation |
 | [consciousness-only-territories](/voids/consciousness-only-territories/) | [knowledge-argument](/concepts/knowledge-argument/) | Mary's Room as paradigm case of consciousness-only territory |
 | [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) | [phenomenology](/concepts/phenomenology/) | Fineness-of-grain problem connects to pre-conceptual access |
-| [time-perception-consciousness-theories](/topics/time-perception-consciousness-theories/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Both address specious present; unify treatment |
+| [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Both address specious present; the former is the comprehensive topic article |
 | [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) | [decoherence](/concepts/decoherence/) | Recent evidence directly addresses decoherence objection |
 | [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) | [neurophenomenology](/concepts/neurophenomenology/) | Both argue first-person data has scientific value |
 | [vertiginous-question](/topics/vertiginous-question/) | [indexical-facts](/concepts/indexical-facts/) | Vertiginous question is paradigm case of indexical irreducibility |

@@ -184,7 +184,30 @@ This document defines the approved apex article subjects. Apex articles are huma
 
 ---
 
-## Reserved Slots (9-20)
+### 9. Time, Consciousness, and the Growing Block
+
+**Slug**: `time-consciousness-growing-block`
+
+**Subtitle**: How consciousness and time may depend on each other
+
+**Thesis**: Consciousness and time have a bidirectional dependence that traditional philosophy has underexplored. Consciousness requires temporal structure—the specious present, retention-protention, durée—to exist at all. But time's arrow may require consciousness: through collapse-involving selection, conscious observation may help constitute the very temporal direction within which it operates. Neither contains the other; they are mutually constitutive in a way that deepens both the hard problem and our understanding of temporal becoming.
+
+**Source articles**:
+- topics/philosophy-of-time-and-consciousness
+- topics/time-collapse-and-agency
+- topics/time-perception-consciousness-theories
+- topics/time-symmetric-selection-mechanism
+- concepts/temporal-consciousness
+- concepts/duration
+- concepts/collapse-and-time
+- concepts/specious-present
+- concepts/philosophy-of-time
+
+**Status**: Created 2026-02-01
+
+---
+
+## Reserved Slots (10-20)
 
 Future apex articles will be added as the Map evolves and new thematic clusters emerge. Potential candidates:
 

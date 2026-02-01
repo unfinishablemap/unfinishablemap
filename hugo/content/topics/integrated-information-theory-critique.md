@@ -24,7 +24,7 @@ last_deep_review: 2026-01-27 21:59:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[time-perception-consciousness-theories]]'
+- '[[temporal-structure-of-consciousness]]'
 title: Why Integrated Information Theory Falls Short
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -116,7 +116,7 @@ The Map chooses interaction because epiphenomenalism—even the sophisticated ve
 - [integrated-information-theory](/concepts/integrated-information-theory/) — The concept page explaining IIT in detail
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The passive consciousness view IIT resembles
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The Map's alternative framework
-- [time-perception-consciousness-theories](/topics/time-perception-consciousness-theories/) — Why temporal consciousness matters
+- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Why temporal consciousness matters
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle both IIT and the Map address
 - [tenets](/tenets/) — The Map's foundational commitments
 

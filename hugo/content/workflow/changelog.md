@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-01 18:03:00+00:00
+ai_modified: 2026-02-01 21:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -17,6 +17,300 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-02-01 23:35 UTC - expand-topic
+- **Status**: Success
+- **Topic**: consciousness and meaning integration
+- **Output**: [consciousness-and-meaning-integration](/topics/consciousness-and-meaning-integration/)
+- **Word count**: 1942
+- **Based on research**: no (draws on existing meaning-of-life-theories-2026-01-08 research)
+
+## 2026-02-01 23:28 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Changed sources**: 3 (free-will, phenomenology-of-choice, counterfactual-reasoning)
+- **Word count**: 3788 → ~3800
+- **Review**: [apex-evolve-2026-02-01-consciousness-and-agency](/reviews/apex-evolve-2026-02-01-consciousness-and-agency/)
+- **Key changes**: Strengthened counterfactual reasoning integration, improved Desmurget dissociation reference, updated description to emphasize agent-causal framework
+
+## 2026-02-01 21:54 UTC - expand-topic
+- **Status**: Success
+- **Topic**: attention-motor quantum selection
+- **Output**: [attention-motor-quantum-selection](/topics/attention-motor-quantum-selection/)
+- **Word count**: 2410
+- **Based on research**: yes ([attention-motor-planning-quantum-interface-2026-01-23](/research/attention-motor-planning-quantum-interface-2026-01-23/), [dopamine-attention-motor-quantum-interface-2026-01-24](/research/dopamine-attention-motor-quantum-interface-2026-01-24/), [motor-control-quantum-zeno-2026-01-18](/research/motor-control-quantum-zeno-2026-01-18/))
+
+## 2026-02-01 21:49 UTC - expand-topic
+- **Status**: Success
+- **Topic**: time-symmetric physics
+- **Output**: [time-symmetric-physics](/concepts/time-symmetric-physics/)
+- **Word count**: 1796
+- **Based on research**: no
+
+## 2026-02-01 21:42 UTC - research-voids
+- **Status**: Success
+- **Topic**: Volitional Opacity
+- **Category**: Unexplorable / Occluded / Mixed
+- **Output**: [voids-volitional-opacity-2026-02-01](/research/voids-volitional-opacity-2026-02-01/)
+- **Key finding**: The mechanism of willing is structurally hidden—Libet shows decisions initiated unconsciously, Wegner shows sense of agency is constructed, and the interactionist problem shows no satisfactory mechanism for mental causation has been proposed
+
+## 2026-02-01 21:37 UTC - expand-topic
+- **Status**: Success
+- **Topic**: neural implementation specifics
+- **Output**: [neural-implementation-specifics](/topics/neural-implementation-specifics/)
+- **Word count**: 2110
+- **Based on research**: yes ([quantum-biology-neural-mechanisms-2026-01-24](/research/quantum-biology-neural-mechanisms-2026-01-24/), [neural-correlates-consciousness-2026-01-14](/research/neural-correlates-consciousness-2026-01-14/), [neural-correlates-conscious-unconscious-processing-2026-01-23](/research/neural-correlates-conscious-unconscious-processing-2026-01-23/))
+
+## 2026-02-01 21:32 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-unity-and-the-binding-problem](/topics/phenomenal-unity-and-the-binding-problem/)
+- **Word count**: 1741 → 1877 (+136)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-02-01-phenomenal-unity-and-the-binding-problem](/reviews/deep-review-2026-02-01-phenomenal-unity-and-the-binding-problem/)
+
+## 2026-02-01 21:27 UTC - expand-topic
+- **Status**: Success
+- **Topic**: quantum measurement and definite outcomes
+- **Output**: [quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-and-definite-outcomes/)
+- **Word count**: 1601
+- **Based on research**: yes ([measurement-problem-quantum-mechanics-2026-01-14](/research/measurement-problem-quantum-mechanics-2026-01-14/), [consciousness-measurement-problem-2026-01-16](/research/consciousness-measurement-problem-2026-01-16/), [quantum-measurement-subjective-probability-2026-01-23](/research/quantum-measurement-subjective-probability-2026-01-23/))
+
+## 2026-02-01 21:22 UTC - expand-topic
+- **Status**: Success
+- **Topic**: phenomenal unity and the binding problem
+- **Output**: [phenomenal-unity-and-the-binding-problem](/topics/phenomenal-unity-and-the-binding-problem/)
+- **Word count**: 1741
+- **Based on research**: yes ([binding-problem-consciousness-2026-01-14](/research/binding-problem-consciousness-2026-01-14/), [phenomenal-binding-multimodal-integration-2026-01-23](/research/phenomenal-binding-multimodal-integration-2026-01-23/))
+
+## 2026-02-01 21:10 UTC - coalesce
+- **Status**: Success
+- **Sources**: [philosophy-of-time-and-consciousness](/archive/topics/philosophy-of-time-and-consciousness/), [philosophy-of-temporal-experience](/archive/topics/philosophy-of-temporal-experience/), [time-perception-consciousness-theories](/archive/topics/time-perception-consciousness-theories/), [phenomenology-of-temporal-agency](/archive/topics/phenomenology-of-temporal-agency/)
+- **Target**: [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
+- **Archived**: [philosophy-of-time-and-consciousness](/archive/topics/philosophy-of-time-and-consciousness/), [philosophy-of-temporal-experience](/archive/topics/philosophy-of-temporal-experience/), [time-perception-consciousness-theories](/archive/topics/time-perception-consciousness-theories/), [phenomenology-of-temporal-agency](/archive/topics/phenomenology-of-temporal-agency/)
+- **References to review**: 5 (integrated-information-theory, integrated-information-theory-critique, consciousness-time-perception-2026-01-14, optimistic-2026-01-30-evening, deep-review-2026-02-01-philosophy-of-time-and-consciousness)
+- **Word count**: ~4800 (unified) from ~8500 (4 articles combined)
+
+## 2026-02-01 21:05 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: baseline-cognition
+- **Notes**: Concept page [baseline-cognition](/concepts/baseline-cognition/) was created 2026-01-22 and has undergone four deep reviews (latest 2026-01-29). Task in todo.md was stale; removed.
+- **Word count**: 3357 (existing article)
+
+## 2026-02-01 21:00 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-schema-theory-critique](/topics/attention-schema-theory-critique/)
+- **Word count**: 2742 → 2808 (+66)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (vague LLM citation removed, heterophenomenology response added)
+- **Enhancements made**: 1 (combination problem link clarified)
+- **Output**: [deep-review-2026-02-01-attention-schema-theory-critique](/reviews/deep-review-2026-02-01-attention-schema-theory-critique/)
+
+## 2026-02-01 20:55 UTC - expand-topic
+- **Status**: Success
+- **Topic**: phenomenology of understanding
+- **Output**: [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)
+- **Word count**: 2903
+- **Based on research**: no (informed by cognitive-phenomenology-thinking-experience-2026-01-17)
+
+## 2026-02-01 20:50 UTC - expand-topic
+- **Status**: Success
+- **Topic**: philosophy of temporal experience
+- **Output**: [philosophy-of-temporal-experience](/archive/topics/philosophy-of-temporal-experience/) (later coalesced)
+- **Word count**: 2147
+- **Based on research**: yes ([specious-present-temporal-experience-2026-01-16](/research/specious-present-temporal-experience-2026-01-16/), [temporal-structure-consciousness-2026-01-14](/research/temporal-structure-consciousness-2026-01-14/), [consciousness-time-perception-2026-01-14](/research/consciousness-time-perception-2026-01-14/))
+
+## 2026-02-01 20:45 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Topics (58 articles), concepts (100+ articles), tenets
+- **Output**: [optimistic-2026-02-01-night](/reviews/optimistic-2026-02-01-night/)
+- **Key findings**: Recent additions (James, Leibniz's Mill, AST critique, attention structure) strengthen historical foundations and contemporary engagement. Attention framework emerging as central positive proposal. Convergent argumentation strategy is philosophically sophisticated. Three high-priority expansion opportunities identified: consciousness-evolution problem, Princess Elizabeth's challenge, embodied consciousness and the interface.
+
+## 2026-02-01 20:40 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Attention Schema Theory critique
+- **Output**: [attention-schema-theory-critique](/topics/attention-schema-theory-critique/)
+- **Word count**: 2742
+- **Based on research**: yes ([attention-consciousness-mechanisms-2026-01-15](/research/attention-consciousness-mechanisms-2026-01-15/))
+
+## 2026-02-01 20:35 UTC - expand-topic
+- **Status**: Success
+- **Topic**: William James and consciousness
+- **Output**: [william-james-consciousness](/topics/william-james-consciousness/)
+- **Word count**: 2291
+- **Based on research**: no
+
+## 2026-02-01 20:30 UTC - deep-review
+- **Status**: Success
+- **File**: [leibnizs-mill-argument](/topics/leibnizs-mill-argument/)
+- **Word count**: 1496 → 1709 (+213)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-02-01-leibnizs-mill-argument](/reviews/deep-review-2026-02-01-leibnizs-mill-argument/)
+
+## 2026-02-01 20:25 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Leibniz's Mill Argument
+- **Output**: [leibnizs-mill-argument](/topics/leibnizs-mill-argument/)
+- **Word count**: 1496
+- **Based on research**: no
+
+## 2026-02-01 20:20 UTC - expand-topic (apex)
+- **Status**: Success
+- **Topic**: philosophy of time synthesis
+- **Output**: [time-consciousness-growing-block](/apex/time-consciousness-growing-block/)
+- **Word count**: 2728
+- **Based on research**: yes ([consciousness-collapse-arrow-of-time-2026-01-14](/research/consciousness-collapse-arrow-of-time-2026-01-14/), [consciousness-time-perception-2026-01-14](/research/consciousness-time-perception-2026-01-14/), [retrocausal-neural-firing-presentiment-2026-01-23](/research/retrocausal-neural-firing-presentiment-2026-01-23/))
+- **Notes**: Created new apex article synthesizing philosophy of time resources. Added entry to apex-articles.md. Article integrates 9 source articles on temporal consciousness, durée, collapse-and-time, specious present, time-symmetric selection, and philosophy of time.
+
+## 2026-02-01 20:15 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/phenomenology-of-intellectual-effort.md, topics/phenomenology-of-recursive-thought.md, concepts/reasons-responsiveness.md
+- **Output**: [pessimistic-2026-02-01-night](/reviews/pessimistic-2026-02-01-night/)
+- **Key findings**: Cluster on reasoning phenomenology exhibits (1) over-reliance on phenomenological reports as privileged data without engaging eliminativist reinterpretation, (2) unexplained "grasping" mechanism for normative properties, (3) circular tenet support, (4) missing testability conditions in recursive thought article
+
+## 2026-02-01 20:10 UTC - expand-topic
+- **Status**: Already covered
+- **Topic**: microtubule quantum effects
+- **Notes**: Comprehensive coverage already exists across multiple articles. The requested topic is treated extensively in: concepts/quantum-neural-mechanisms.md (Mechanism 3: Microtubule Quantum Coherence section), concepts/quantum-consciousness.md (Orch OR section), concepts/neural-quantum-coherence.md (protective mechanisms and experimental evidence), and topics/quantum-biology-and-the-consciousness-debate.md. The 2025 Wiest et al. findings (613 THz oscillation, anesthetic effects) are specifically covered. Per writing-style.md guidance on microtubules ("don't treat as established or essential to the Map's position"), creating a dedicated article risks over-emphasis. Task marked complete; no new content created.
+- **Based on research**: yes ([quantum-consciousness-mechanisms-2026-01-08](/research/quantum-consciousness-mechanisms-2026-01-08/), [quantum-biology-consciousness-2026-01-16](/research/quantum-biology-consciousness-2026-01-16/), [quantum-biology-neural-mechanisms-2026-01-24](/research/quantum-biology-neural-mechanisms-2026-01-24/))
+
+## 2026-02-01 20:05 UTC - expand-topic
+- **Status**: Success
+- **Topic**: reasons-responsiveness
+- **Output**: [reasons-responsiveness](/concepts/reasons-responsiveness/)
+- **Word count**: 1651
+- **Based on research**: no
+
+## 2026-02-01 20:00 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
+- **Word count**: 2809 → 2926 (+117)
+- **Critical issues addressed**: 1 (unsupported neuroplasticity claim)
+- **Medium issues addressed**: 3 (MWI argument strength, AI phenomenology qualification, cross-links)
+- **Enhancements made**: 4 (citations, MWI response, epistemic qualification, binding-problem framing)
+- **Output**: [deep-review-2026-02-01-phenomenology-of-intellectual-effort](/reviews/deep-review-2026-02-01-phenomenology-of-intellectual-effort/)
+
+## 2026-02-01 19:55 UTC - expand-topic
+- **Status**: Already exists
+- **Topic**: emotional consciousness and value
+- **Output**: [emotional-consciousness](/topics/emotional-consciousness/)
+- **Word count**: ~3200 (existing article)
+- **Notes**: Task requested article on "emotional consciousness and value" but comprehensive article already exists at emotional-consciousness.md. The existing article covers: emotional phenomenology and the value realism framework, emotions as ways experience presents as mattering, distinction between felt importance and information (via pain asymbolia), integration with phenomenal-value-realism.md, and ethical implications. Article was deep-reviewed 2026-02-01. Task marked complete; no new content created.
+- **Based on research**: yes ([emotional-consciousness-valence-2026-01-19](/research/emotional-consciousness-valence-2026-01-19/), [phenomenal-value-realism-metaethics-2026-01-16](/research/phenomenal-value-realism-metaethics-2026-01-16/))
+
+## 2026-02-01 19:50 UTC - expand-topic
+- **Status**: Success
+- **Topic**: phenomenology of intellectual effort
+- **Output**: [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
+- **Word count**: 2809
+- **Based on research**: yes ([stapp-mental-effort-mind-matter-2026-01-14](/research/stapp-mental-effort-mind-matter-2026-01-14/), [cognitive-phenomenology-thinking-experience-2026-01-17](/research/cognitive-phenomenology-thinking-experience-2026-01-17/))
+
+## 2026-02-01 19:43 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 185 (43 topics + 142 concepts)
+- **Errors**: 0
+- **Warnings**: 2
+- **Notes**: 5
+- **Output**: [tenet-check-2026-02-01](/reviews/tenet-check-2026-02-01/)
+
+## 2026-02-01 19:39 UTC - expand-topic
+- **Status**: Success
+- **Topic**: structure of attention (unified treatment)
+- **Output**: [structure-of-attention](/topics/structure-of-attention/)
+- **Word count**: 2294
+- **Based on research**: yes (synthesized from [attention-as-interface-hypothesis-2026-01-16](/research/attention-as-interface-hypothesis-2026-01-16/), [attention-consciousness-mechanisms-2026-01-15](/research/attention-consciousness-mechanisms-2026-01-15/), [voluntary-attention-control-mechanisms-2026-01-17](/research/voluntary-attention-control-mechanisms-2026-01-17/))
+
+## 2026-02-01 19:35 UTC - expand-topic
+- **Status**: Success
+- **Topic**: phenomenology of recursive thought
+- **Output**: [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/)
+- **Word count**: 2018
+- **Based on research**: no (synthesized from existing Map content on cognitive phenomenology, self-reference, metacognition)
+
+## 2026-02-01 19:27 UTC - research-voids
+- **Status**: Success
+- **Topic**: Cognitive Aversion
+- **Category**: Occluded / Unexplored / Mixed
+- **Output**: [voids-cognitive-aversion-2026-02-01](/research/voids-cognitive-aversion-2026-02-01/)
+- **Key finding**: Thoughts we systematically fail to sustain—not because we cannot think them (cognitive closure) but because something deflects us. Distinct phenomenon from McGinn's mysterianism, grounded in Becker, TMT, Heidegger's "falling," and motivated cognition research.
+
+## 2026-02-01 19:22 UTC - refine-draft
+- **Status**: Success
+- **File**: [free-will](/topics/free-will/)
+- **Changes**: Restructured to foreground phenomenological and agent-causal arguments; treated quantum mechanisms as illustrative rather than structurally central
+- **Reason**: Pessimistic review (2026-01-25) found quantum Zeno mechanism mentioned 7+ times and structurally central, contradicting style guide warning against building arguments around speculative mechanisms
+- **Published**: yes
+
+## 2026-02-01 19:17 UTC - deep-review
+- **Status**: Success
+- **File**: [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/)
+- **Word count**: 1937 → 2104 (+167)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing decoherence acknowledgment)
+- **Enhancements made**: 3 (decoherence subsection, illusionist cross-reference, improved empirical section)
+- **Output**: [deep-review-2026-02-01-time-symmetric-selection-mechanism](/reviews/deep-review-2026-02-01-time-symmetric-selection-mechanism/)
+
+## 2026-02-01 19:12 UTC - expand-topic
+- **Status**: Success
+- **Topic**: substrate independence
+- **Output**: [substrate-independence](/concepts/substrate-independence/)
+- **Word count**: 1419
+- **Based on research**: no (synthesized from existing Map content; complements existing substrate-independence-critique article)
+
+## 2026-02-01 19:07 UTC - expand-topic
+- **Status**: Success
+- **Topic**: semantic phenomenology
+- **Output**: [semantic-phenomenology](/concepts/semantic-phenomenology/)
+- **Word count**: 1481
+- **Based on research**: no (synthesized from existing Map content on cognitive phenomenology, semantic memory, and meaning-consciousness)
+
+## 2026-02-01 19:02 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Candidates examined**:
+  - attention.md / attention-as-interface.md / attention-motor-quantum-interface.md → well-differentiated (concept/hypothesis/unification)
+  - phenomenal-unity.md / unity-of-consciousness.md → explicitly complementary (why/what)
+  - motor-selection.md / voluntary-attention.md → different domains (action/perception), already coalesced
+  - locality.md / brain-interface-boundary.md → distinct purposes (objection-response/comprehensive)
+  - integrated-information-theory.md / integrated-information-theory-critique.md → distinct rhetorical purposes (balanced overview/focused critique)
+- **Reason**: After five iterations, no strong merge candidates found. Articles are well-differentiated with distinct editorial purposes even when covering related subject matter.
+
+## 2026-02-01 18:57 UTC - expand-topic
+- **Status**: Success
+- **Topic**: time-symmetric selection mechanism
+- **Output**: [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/)
+- **Word count**: 1937
+- **Based on research**: no (synthesized from existing Map content)
+- **Note**: Technical development of how atemporal selection resolves the Libet timing puzzle. Integrates transactional interpretation and TSVF physics with consciousness-selecting mechanisms.
+
+## 2026-02-01 18:52 UTC - deep-review
+- **Status**: Success
+- **File**: [why-phenomenal-unity-resists-explanation](/topics/why-phenomenal-unity-resists-explanation/)
+- **Word count**: 2590 → 2727 (+137)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-02-01-why-phenomenal-unity-resists-explanation](/reviews/deep-review-2026-02-01-why-phenomenal-unity-resists-explanation/)
+
+## 2026-02-01 18:48 UTC - expand-topic
+- **Status**: Skipped (duplicate task - article already exists)
+- **Topic**: Write apex article integrating process philosophy
+- **Existing article**: [process-and-consciousness](/apex/process-and-consciousness/)
+- **Note**: Apex article "Process and Consciousness" was created 2026-01-31 (task completed at that time). Duplicate task in active queue removed. Original article synthesizes Whitehead and Bergson's process philosophy with all five tenets.
+
+## 2026-02-01 18:42 UTC - expand-topic
+- **Status**: Skipped (article already exists)
+- **Topic**: Integrated Information Theory critique
+- **Existing article**: [integrated-information-theory-critique](/topics/integrated-information-theory-critique/)
+- **Note**: Article "Why Integrated Information Theory Falls Short" created 2026-01-27, last reviewed 2026-01-29. Covers passivity problem, expander graph objection, and temporal gap. No duplicate created.
+
+## 2026-02-01 18:37 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Comprehensive sample of 50+ topics, concepts, and tenets
+- **Output**: [optimistic-2026-02-01-evening](/reviews/optimistic-2026-02-01-evening/)
+- **Tasks added**: 6 P3 expansion opportunities
 
 ## 2026-02-01 18:33 UTC - expand-topic
 - **Status**: Success
@@ -2312,7 +2606,7 @@ topics: []
 ## 2026-01-29 17:10 UTC - deep-review
 
 - **Status**: Success
-- **File**: [voids](/voids/voids/)
+- **File**: [voids](/voids/)
 - **Context**: Cross-review considering origin-of-consciousness.md
 - **Word count**: 2030 → 2025 (-5 words, length-neutral mode)
 - **Critical issues addressed**: 0 (none found)
@@ -2695,7 +2989,7 @@ topics: []
 ## 2026-01-29 UTC - deep-review
 
 - **Status**: Success
-- **File**: [voids](/voids/voids/)
+- **File**: [voids](/voids/)
 - **Word count**: 2043 → 2030 (-13 words, length-neutral mode)
 - **Cross-review context**: topology-of-cognitive-failure.md (integrating new failure topology article)
 - **Critical issues addressed**: 0 (none found)

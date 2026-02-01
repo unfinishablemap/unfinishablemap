@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-01-31 13:58:00+00:00
+ai_modified: 2026-02-01 23:28:00+00:00
 ai_system: claude-opus-4-5-20251101
-apex_last_synthesis: 2026-01-29 08:21:07+00:00
+apex_last_synthesis: 2026-02-01 23:28:00+00:00
 apex_sources:
 - topics/free-will
 - concepts/agent-causation
@@ -23,8 +23,9 @@ concepts:
 - '[[quantum-consciousness]]'
 created: 2026-01-24
 date: &id001 2026-01-29
-description: How does consciousness author action in a physical world? Through quantum
-  selection—grounding free will, mental causation, and moral responsibility.
+description: How does consciousness author action in a physical world? Through agent-causal
+  selection among possibilities physics leaves undetermined—grounding free will and
+  moral responsibility.
 draft: false
 human_modified: null
 last_curated: null
@@ -83,7 +84,7 @@ Three features mark the difference. First, selection is *reasons-guided*. Consci
 
 Second, selection involves *phenomenology of effort and choice*. Choosing feels effortful—maintaining focus, resisting temptation, following through. Random processes don't feel like work. More fundamentally, the [phenomenology of choice](/concepts/phenomenology-of-choice/) reveals a felt distinction between choosing and observing: when you choose, you participate in determining the outcome rather than passively receiving it. Dennett's heterophenomenology would accept these reports while remaining agnostic about whether they describe genuine phenomenal properties—perhaps the brain generates "seemings" of effort and authorship without there being anything it's like to choose. But the correlation between felt difficulty and measured cognitive load would then be coincidental, and the evolutionary pressure producing such phenomenology would be puzzling if it did nothing. The simpler explanation: phenomenology tracks something real. Choosing feels like something you *do*, not something that happens to you, because it *is* something you do.
 
-Third, selection shows *distinctive neural signatures*. Willed attention and willed movement engage frontal theta oscillations, bidirectional frontoparietal coherence, and sustained engagement patterns that automatic or instructed actions lack. The brain distinguishes between doing what you're told and doing what you choose. Desmurget's neurosurgical studies sharpen this point: inferior parietal stimulation produces conscious intention *without* movement, while premotor stimulation produces movement *without* awareness—the phenomenology of deciding is neurally separable from execution machinery. Crucially, the same selection architecture appears across domains: attention and motor control show parallel signatures—frontal theta, bidirectional coherence, distinct willed-versus-instructed patterns. Two independent domains exhibiting identical architecture suggests a unified selection mechanism, not coincidence. This isn't mere correlation—if consciousness were epiphenomenal, why would neural signatures track phenomenology across multiple systems? The correspondence suggests both track something real: consciousness making a difference.
+Third, selection shows *distinctive neural signatures*. Willed attention and willed movement engage frontal theta oscillations, bidirectional frontoparietal coherence, and sustained engagement patterns that automatic or instructed actions lack. The brain distinguishes between doing what you're told and doing what you choose. Desmurget's neurosurgical studies reveal a crucial dissociation: inferior parietal stimulation produces conscious intention *without* movement, while premotor stimulation produces movement *without* intention phenomenology. This double dissociation shows the phenomenology of deciding is neurally separable from execution machinery—consciousness operates at the selection interface, not in the downstream motor circuits. Crucially, the same selection architecture appears across domains: attention and motor control show parallel signatures. Two independent systems exhibiting identical architecture suggests a unified selection mechanism, not coincidence. If consciousness were epiphenomenal, why would neural signatures track phenomenology across multiple systems? The correspondence suggests both track something real: consciousness making a difference.
 
 Together, these features answer the luck objection. The agent explains the difference between worlds because the agent *selected* for reasons, with phenomenal engagement, through mechanisms that distinguish selection from reception. Lucky indeterminism lacks all three features.
 
@@ -97,11 +98,11 @@ Buddhist philosophy challenges this picture, arguing that the "substantial self"
 
 ### Counterfactual Reasoning and Deliberation
 
-Genuine choice requires more than selecting among options—it requires representing those options as genuinely possible alternatives and evaluating what would follow from each. [Counterfactual reasoning](/concepts/counterfactual-reasoning/)—the capacity to imagine "what if"—is essential to deliberation.
+Genuine choice requires more than selecting among options—it requires representing those options as genuinely possible alternatives and evaluating what would follow from each. [Counterfactual reasoning](/concepts/counterfactual-reasoning/)—the capacity to imagine "what if"—provides the representational substrate through which consciousness engages with alternatives.
 
-The Bischof-Köhler hypothesis illuminates this requirement: animals may be unable to act on drive states they don't currently possess because they cannot vividly represent counterfactual states. A sated chimpanzee won't store food for future hunger because it cannot hold both its current state and the counterfactual hungry-future-self simultaneously. Great apes show working memory capacity of roughly 2±1 items versus humans' 7±2, limiting their ability to maintain actual situation, counterfactual premise, and counterfactual consequences together.
+The Bischof-Köhler hypothesis illuminates this requirement: animals may be unable to act on drive states they don't currently possess because they cannot vividly represent counterfactual states. A sated chimpanzee won't store food for future hunger because it cannot hold both its current state and the counterfactual hungry-future-self simultaneously. Great apes show working memory capacity of roughly 2±1 items versus humans' 7±2—limiting their ability to maintain actual situation, counterfactual premise, and counterfactual consequences together.
 
-This connects directly to agent causation. Without counterfactual reasoning, an agent is restricted to pattern-matching from prior experience rather than genuinely evaluating alternatives. Deliberation *feels* like holding multiple possibilities open, exploring their implications, and then settling on one. That phenomenology tracks genuine cognitive work: the expanded conscious workspace within which counterfactual simulation occurs. Selection without counterfactual evaluation would be mere preference expression; selection *through* counterfactual evaluation is genuine deliberation.
+This connects directly to agent causation: counterfactual reasoning is *how* consciousness causally engages with options. Without it, selection would be blind—random rather than reasons-responsive. The agent must represent "what would happen if I chose A" and "what would happen if I chose B," evaluate these counterfactual scenarios against values and goals, and then determine which to actualise. Each step requires the expanded conscious workspace that human working memory provides. Deliberation *feels* like holding multiple possibilities open, exploring their implications, and then settling on one—and this phenomenology tracks genuine cognitive work. Selection without counterfactual evaluation would be mere preference expression; selection *through* counterfactual evaluation is genuine deliberation.
 
 ## Mental Causation and the Exclusion Problem
 

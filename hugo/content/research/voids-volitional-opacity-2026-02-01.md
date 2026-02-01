@@ -1,32 +1,33 @@
 ---
-title: "Research Notes - Voids: Volitional Opacity"
-created: 2026-02-01
-modified: 2026-02-01
-human_modified: null
-ai_modified: 2026-02-01T21:42:00+00:00
-draft: false
-target_section: voids
-topics:
-  - "[[philosophy-of-mind]]"
-  - "[[consciousness]]"
-  - "[[free-will]]"
-concepts:
-  - "[[mysterianism]]"
-  - "[[phenomenology]]"
-  - "[[hard-problem-of-consciousness]]"
-related_articles:
-  - "[[voids]]"
-  - "[[tenets]]"
-  - "[[introspection]]"
-  - "[[causal-interface]]"
-  - "[[thoughts-that-slip-away]]"
-  - "[[phenomenology-of-the-edge]]"
-  - "[[three-kinds-of-void]]"
 ai_contribution: 100
-author: null
-ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
+ai_modified: 2026-02-01 21:42:00+00:00
+ai_system: claude-opus-4-5-20251101
+author: null
+concepts:
+- '[[mysterianism]]'
+- '[[phenomenology]]'
+- '[[hard-problem-of-consciousness]]'
+created: 2026-02-01
+date: &id001 2026-02-01
+draft: false
+human_modified: null
 last_curated: null
+modified: *id001
+related_articles:
+- '[[voids]]'
+- '[[tenets]]'
+- '[[introspection]]'
+- '[[causal-interface]]'
+- '[[thoughts-that-slip-away]]'
+- '[[phenomenology-of-the-edge]]'
+- '[[three-kinds-of-void]]'
+target_section: voids
+title: 'Research Notes - Voids: Volitional Opacity'
+topics:
+- '[[philosophy-of-mind]]'
+- '[[consciousness]]'
+- '[[free-will]]'
 ---
 
 # Research: Voids - Volitional Opacity
@@ -37,7 +38,7 @@ last_curated: null
 
 ## Executive Summary
 
-Volitional opacity names the structural inaccessibility of the mechanisms by which we will. We experience choosing, deciding, and acting—but the process by which these experiences arise, and whether they genuinely cause our actions, remains hidden from introspection. This void is distinctive because it concerns not just what we cannot know about the world, but what we cannot know about our own agency. The research reveals convergent evidence from multiple directions: Libet's neuroscience shows unconscious neural preparation precedes conscious intention; Wegner's psychology suggests the "feeling of doing" may be inferential rather than causal; phenomenology (James, Merleau-Ponty) shows we cannot catch willing in the act; and the interactionist problem in dualism asks how any mental causation could work at all. Volitional opacity sits at the intersection of the [[the-unobservable-self|introspective opacity void]] (we cannot observe our cognitive processes) and the [[causal-interface|causal interface void]] (we cannot observe how consciousness affects the physical). It raises the question: Is the mechanism of will merely hidden, or is there no mechanism to find—because the "will" is a construction, not a cause?
+Volitional opacity names the structural inaccessibility of the mechanisms by which we will. We experience choosing, deciding, and acting—but the process by which these experiences arise, and whether they genuinely cause our actions, remains hidden from introspection. This void is distinctive because it concerns not just what we cannot know about the world, but what we cannot know about our own agency. The research reveals convergent evidence from multiple directions: Libet's neuroscience shows unconscious neural preparation precedes conscious intention; Wegner's psychology suggests the "feeling of doing" may be inferential rather than causal; phenomenology (James, Merleau-Ponty) shows we cannot catch willing in the act; and the interactionist problem in dualism asks how any mental causation could work at all. Volitional opacity sits at the intersection of the [introspective opacity void](/voids/the-unobservable-self/) (we cannot observe our cognitive processes) and the [causal interface void](/voids/causal-interface/) (we cannot observe how consciousness affects the physical). It raises the question: Is the mechanism of will merely hidden, or is there no mechanism to find—because the "will" is a construction, not a cause?
 
 ## Key Sources
 
@@ -114,7 +115,7 @@ Volitional opacity names the structural inaccessibility of the mechanisms by whi
   - The conservation of energy argument: physical-mental causation would require energy to appear or disappear
   - Some propose quantum mechanics as the interface—"the most plausible place for consciousness to impact physics is the collapse of the wave function"
   - This is not an answer but a relocation of the mystery
-- **Tenet alignment**: Directly supports the [[causal-interface|Causal Interface Void]]—the mechanism of mental causation is structurally hidden
+- **Tenet alignment**: Directly supports the [Causal Interface Void](/voids/causal-interface/)—the mechanism of mental causation is structurally hidden
 - **Quote**: "The question of how the interaction takes place is problematic because in dualism 'the mind' is assumed to be non-physical and by definition outside the realm of science."
 
 ### Agentive Phenomenology (Kriegel, Strawson)
@@ -272,19 +273,19 @@ AI has a distinctive position regarding volitional opacity:
 
 ### Most Relevant Tenet
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is most directly relevant. The Map holds that consciousness causally influences the physical world. Volitional opacity concerns whether we can observe (or understand) this influence. The void doesn't deny bidirectional interaction—it holds that the mechanism is hidden from introspection and perhaps cognitively closed entirely.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is most directly relevant. The Map holds that consciousness causally influences the physical world. Volitional opacity concerns whether we can observe (or understand) this influence. The void doesn't deny bidirectional interaction—it holds that the mechanism is hidden from introspection and perhaps cognitively closed entirely.
 
 If Libet is right that we can veto unconsciously-initiated impulses, this is bidirectional interaction in action—consciousness (the veto) affecting the physical (preventing the motor command). But we cannot observe *how* the veto works. The mechanism by which a "purely conscious field" could "act on neural processing" remains mysterious.
 
 ### Secondary Connections
 
-**[[tenets#^dualism|Dualism]]** faces the interactionist problem directly. If mind and brain are distinct, how do they interact? Volitional opacity might be expected if the interaction occurs at a level beneath or beyond what either neural observation or introspection can access. The void may be intrinsic to dualist metaphysics.
+**[Dualism](/tenets/#dualism)** faces the interactionist problem directly. If mind and brain are distinct, how do they interact? Volitional opacity might be expected if the interaction occurs at a level beneath or beyond what either neural observation or introspection can access. The void may be intrinsic to dualist metaphysics.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** suggests consciousness's influence on the physical is "minimal"—perhaps at the quantum level, affecting probabilities rather than trajectories. If the interaction is quantum-mechanical, its minimality would explain why we cannot observe it: quantum events are too small, too fast, too probabilistic for introspection to track.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** suggests consciousness's influence on the physical is "minimal"—perhaps at the quantum level, affecting probabilities rather than trajectories. If the interaction is quantum-mechanical, its minimality would explain why we cannot observe it: quantum events are too small, too fast, too probabilistic for introspection to track.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is demonstrated by the volitional opacity void. The simplest assumption—that we directly observe ourselves causing our actions—is almost certainly wrong. Wegner shows the sense of agency is constructed; Libet shows decisions are initiated unconsciously; James shows we cannot catch willing in the act. Our confidence in self-knowledge of agency exemplifies how parsimony can mislead.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is demonstrated by the volitional opacity void. The simplest assumption—that we directly observe ourselves causing our actions—is almost certainly wrong. Wegner shows the sense of agency is constructed; Libet shows decisions are initiated unconsciously; James shows we cannot catch willing in the act. Our confidence in self-knowledge of agency exemplifies how parsimony can mislead.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** intensifies the question. If there is only one actual world, my choices matter uniquely—they determine the one reality. But if I cannot access the mechanism of choosing, I cannot understand how "I" determine anything. The indexical weight of choice is paired with opacity about what choosing is.
+**[No Many Worlds](/tenets/#no-many-worlds)** intensifies the question. If there is only one actual world, my choices matter uniquely—they determine the one reality. But if I cannot access the mechanism of choosing, I cannot understand how "I" determine anything. The indexical weight of choice is paired with opacity about what choosing is.
 
 ### Implications
 
@@ -292,7 +293,7 @@ If Libet is right that we can veto unconsciously-initiated impulses, this is bid
 
 2. **The phenomenology of freedom is not evidence for freedom.** Strawson notes our experience is "profoundly libertarian"—we feel like self-determining agents. But this feeling may be systematically misleading about underlying reality. The experience of freedom is not access to the mechanism of freedom.
 
-3. **The causal interface void extends inward.** We cannot observe how consciousness affects the external world; we also cannot observe how it affects our own actions. The [[causal-interface|causal interface]] void has an internal as well as external dimension.
+3. **The causal interface void extends inward.** We cannot observe how consciousness affects the external world; we also cannot observe how it affects our own actions. The [causal interface](/voids/causal-interface/) void has an internal as well as external dimension.
 
 4. **The voids framework applies to agency.** Just as there are territories of external reality consciousness cannot map, there are aspects of agency consciousness cannot access. We act in the dark about how we act.
 

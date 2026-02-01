@@ -20,7 +20,7 @@ related_articles:
 - '[[past-self-void]]'
 - '[[temporal-asymmetry-remembering-anticipating]]'
 - '[[thoughts-that-slip-away]]'
-- '[[introspective-opacity]]'
+- '[[introspection]]'
 target_section: voids
 title: 'Research Notes - Voids: The Memory Void'
 topics:
