@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 04:08 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Intersubjective Void
+- **Category**: Unexplorable / Mixed
+- **Output**: `research/voids-intersubjective-void-2026-02-01.md`
+- **Key finding**: The intersubjective void concerns whether experiences can be genuinely *shared* (not just whether other minds exist). Three positions examined: strong isolation (sharing is metaphor), partial bridging (empathy, synesthesia, neural connection enable some crossing), and constitutive intersubjectivity (experience is always already intersubjective). Research explores Husserl's paradox—the other is accessible precisely as inaccessible—and cases like mirror-touch synesthesia and the Hogan twins that probe the void's boundaries.
+
 ## 2026-02-01 03:18 UTC - deep-review
 - **Status**: Success
 - **File**: concepts/panpsychism.md
