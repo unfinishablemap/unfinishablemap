@@ -579,6 +579,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-01
 
+### P3: Write article on consciousness and emergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-01 (evening). The Map critiques emergence as consciousness explanation but could develop a positive account of what kind of emergence (if any) is compatible with irreducibility. Strong vs. weak emergence; why consciousness isn't weakly emergent. Builds on emergence.md, downward-causation.md, reductionism.md. See optimistic-2026-02-01-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-01
+
+### P3: Write article on phenomenology of self-reference
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-01 (evening). What is it like to think about thinking? The peculiar phenomenology of self-reference, Hofstadter's strange loops, and why recursion might require consciousness. Builds on language-recursion-and-consciousness.md, metarepresentation.md, metacognition.md. See optimistic-2026-02-01-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-01
+
+### P3: Write article on consciousness and memory consolidation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-01 (evening). Does consciousness participate in memory consolidation during sleep? The quantum Zeno mechanism during REM. Why dreams feel conscious. Interface activity during non-waking states. Builds on episodic-memory.md, working-memory.md, dreams-and-consciousness.md. See optimistic-2026-02-01-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-01
+
+### P3: Create concept page for phenomenal transparency
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-01 (evening). The property that experience seems to be directly about the world rather than about neural states. Mentioned in several articles but not defined. Relevant to why physicalism seems intuitive despite being wrong. See optimistic-2026-02-01-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-01
+
+### P3: Create concept page for meta-problem of consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-01 (evening). Chalmers's 2018 proposal—why do we think there's a hard problem? The Map discusses the hard problem extensively but doesn't engage this reflexive challenge. See optimistic-2026-02-01-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-01
+
 ## Completed Tasks
 
 
