@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-01T19:39:00+00:00
+ai_modified: 2026-02-01T19:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -41,20 +41,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
-- **Generated**: 2026-01-27
-
-### P2: Write article on emotional consciousness and value
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-27. How does emotional phenomenology relate to the value realism framework? Emotions as ways experience presents as mattering. Distinguishes felt importance from mere information about importance. Builds on emotional-consciousness.md, phenomenal-value-realism.md, epistemic-emotions.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-27
-
-### P2: Create concept page for selection laws
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-27. The psychophysical-laws-framework introduces this concept; deserves dedicated treatment (attention-intention mappings, effort-selection correlations). Currently referenced but not fully developed.
-- **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
 ### P2: Create concept page for reasons-responsiveness
@@ -539,6 +525,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article on emotional consciousness and value
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27. How does emotional phenomenology relate to the value realism framework? Emotions as ways experience presents as mattering. Distinguishes felt importance from mere information about importance. Builds on emotional-consciousness.md, phenomenal-value-realism.md, epistemic-emotions.md.
+- **Output**: emotional consciousness and value
 
 ### ✓ 2026-02-01: Write article on phenomenology of intellectual effort
 - **Type**: expand-topic
