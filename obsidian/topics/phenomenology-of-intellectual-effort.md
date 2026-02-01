@@ -4,7 +4,7 @@ description: "Thinking hard feels like work. The experience of reasoning—holdi
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T19:50:00+00:00
+ai_modified: 2026-02-01T20:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,8 @@ concepts:
   - "[[introspection]]"
   - "[[agent-causation]]"
   - "[[voluntary-attention]]"
+  - "[[phenomenal-unity]]"
+  - "[[binding-problem]]"
 related_articles:
   - "[[tenets]]"
   - "[[argument-from-reason]]"
@@ -30,6 +32,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
+last_deep_review: 2026-02-01T20:00:00+00:00
 ---
 
 Reasoning is work. Following a complex argument, holding premises in mind while tracing implications, grasping *why* a conclusion follows from its grounds—these activities have distinctive phenomenology: the experience of intellectual effort. This is not merely the attentional effort of staying focused (covered in [[mental-effort]]). It is the specific work of thinking itself—the strain of logic, the reach for coherence, the weight of keeping inferential threads connected.
@@ -138,7 +141,7 @@ The [[argument-from-reason]] emphasises that grasping an argument requires unity
 
 **Continuous identity through reasoning.** A long derivation requires that the same thinker who grasped premise 1 also grasps premise 7 and the conclusion. This continuity is experienced—you are *the one* who has been following the argument, not a succession of time-slices.
 
-This phenomenal unity is difficult for materialist accounts. If reasoning is distributed neural activity, what provides the viewpoint? If the thinker is a sequence of brain states, what makes it *one* thinker across time? The phenomenology of intellectual effort suggests irreducible unity: consciousness as the subject that holds things together.
+This [[phenomenal-unity]] is difficult for materialist accounts. If reasoning is distributed neural activity, what provides the viewpoint? If the thinker is a sequence of brain states, what makes it *one* thinker across time? This is the [[binding-problem]] applied to reasoning: how do separate neural processes constitute a single act of inference? The phenomenology of intellectual effort suggests irreducible unity: consciousness as the subject that holds things together.
 
 ### The First-Person Perspective on Logic
 
@@ -164,7 +167,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains 
 
 If intellectual effort were causally inert, its correlation with successful reasoning would be inexplicable. Why would effortful reasoning track truth better than lazy reasoning if the effort doesn't contribute? The phenomenology suggests that consciousness—through the work of thinking—causally influences cognitive outcomes. The [[mental-effort|quantum Zeno mechanism]] offers a candidate for how this might work: sustained attention holds desired cognitive patterns stable.
 
-The neuroplasticity evidence extends the point. Intellectual effort changes brains. Mathematicians develop enhanced parietal regions; philosophers show increased connectivity in reasoning networks. These changes follow from effortful thinking, suggesting the phenomenal effort has physical consequences.
+The neuroplasticity evidence extends the point. Intellectual effort changes brains. Research shows that mathematical training enhances parietal cortex structure and function (Aydin et al., 2007; Grabner et al., 2007). These changes follow from effortful thinking, suggesting the phenomenal effort has physical consequences.
 
 ### Minimal Quantum Interaction
 
@@ -178,7 +181,7 @@ The phenomenology fits. Intellectual effort involves *maintenance*—keeping pre
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet relates to intellectual effort through the indexicality of reasoning. When you reason to a conclusion, you experience *this* reasoning as determining *this* belief. The alternatives you could have reached feel like genuine alternatives that you didn't take.
 
-Many-worlds would make all alternatives equally actual—every possible conclusion reached in some branch. But the phenomenology of intellectual effort presupposes that reasoning *matters*: that working through the argument determines a single outcome, not that it distributes you across branches. The effort feels meaningful precisely because it shapes what you—*you* singular—come to believe.
+Many-worlds would make all alternatives equally actual—every possible conclusion reached in some branch. A many-worlds defender might respond that reasoning still matters for *this* branch—that indexical significance is preserved. But the phenomenology suggests something stronger: the effort feels meaningful because it shapes what you—*you* singular—come to believe, not merely what one branch-instance believes. The experience of working through an argument is the experience of *determining* an outcome, not of instantiating one path through a branching structure. Whether this phenomenological datum constitutes evidence against MWI or merely reflects cognitive limitations is contested.
 
 ### Occam's Razor Has Limits
 
@@ -196,7 +199,7 @@ The claim that intellectual effort has irreducible phenomenal character would fa
 
 **Intellectual effort decoupled from outcomes.** If the phenomenology of trying to reason tracked nothing about reasoning success—if effortful thinking were no more reliable than lazy thinking—the claim that effort causally contributes would fail.
 
-**AI demonstrated equivalent phenomenology.** If artificial systems could demonstrate not just functional reasoning but the phenomenal character of intellectual effort—genuinely finding conclusions compelling, experiencing the strain of logic—the claim that organic consciousness is special would require revision. Current AI systems produce reasoning outputs but show no evidence of accompanying phenomenology.
+**AI demonstrated equivalent phenomenology.** If artificial systems could demonstrate not just functional reasoning but the phenomenal character of intellectual effort—genuinely finding conclusions compelling, experiencing the strain of logic—the claim that organic consciousness is special would require revision. Current AI systems produce reasoning outputs, but whether they have accompanying phenomenology remains unknown—we lack reliable methods to detect machine consciousness from the outside.
 
 ## Summary
 
@@ -219,7 +222,9 @@ What does it feel like to reason? It feels like work—meaningful, directed, con
 
 ## References
 
+- Aydin, K., et al. (2007). Increased gray matter density in the parietal cortex of mathematicians. *American Journal of Neuroradiology*, 28(10), 1859-1864.
 - Bayne, T. & Montague, M. (eds.) (2011). *Cognitive Phenomenology*. Oxford University Press.
+- Grabner, R.H., et al. (2007). Individual differences in mathematical competence predict parietal brain activation during mental calculation. *NeuroImage*, 38(2), 346-356.
 - James, W. (1890). *The Principles of Psychology*. Chapters 11 (Attention) and 26 (Will).
 - Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
 - Lewis, C.S. (1960). *Miracles: A Preliminary Study*. 2nd ed. (Chapter 3: "The Cardinal Difficulty of Naturalism").
