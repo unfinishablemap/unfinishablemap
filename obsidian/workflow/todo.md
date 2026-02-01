@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review functionalism.md considering IIT critique
-- **Type**: cross-review
-- **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) argues IIT is epiphenomenalism by another name. Functionalism also faces questions about consciousness's causal role. Check functionalism.md for: (1) cross-links to IIT critique, (2) whether functionalism handles the passivity objection differently than IIT, (3) connection between the expander graph problem and multiple realizability.
-- **Source**: chain (from integrated-information-theory-critique.md)
-- **Generated**: 2026-01-28
-
 ### P2: Cross-review haecceity.md considering indexical-facts.md
 - **Type**: cross-review
 - **Notes**: New article concepts/indexical-facts.md (2026-01-27) develops the concept of facts specifiable only through indexicals like "I", "here", "now"—central to the vertiginous question. Check haecceity.md for: (1) cross-links to indexical facts treatment, (2) whether the distinction between haecceity (primitive thisness) and indexical facts is clear, (3) opportunities to strengthen the connection to personal identity puzzles.
@@ -852,6 +846,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Cross-review functionalism.md considering IIT critique
+- **Type**: cross-review
+- **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) argues IIT is epiphenomenalism by another name. Functionalism also faces questions about consciousness's causal role. Check functionalism.md for: (1) cross-links to IIT critique, (2) whether functionalism handles the passivity objection differently than IIT, (3) connection between the expander graph problem and multiple realizability.
+- **Output**: obsidian/concepts/functionalism.md -- Context: Cross-review functionalism.md considering IIT critique
 
 ### ✓ 2026-02-01: Cross-review panpsychism.md considering IIT critique
 - **Type**: cross-review

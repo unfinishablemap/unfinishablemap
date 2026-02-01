@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 04:58 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/functionalism.md
+- **Cross-review context**: IIT critique
+- **Word count**: 1901 → 2036 (+135)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (IIT's critique of functionalism underexplored)
+- **Enhancements made**: 1 (new "A Physicalist Rejection of Functionalism" subsection)
+- **Output**: `reviews/deep-review-2026-02-01-functionalism.md`
+- **Notes**: Third review. Article has stabilized. Added subsection explaining that IIT—a physicalist theory—also rejects functionalism because substrate matters for integration. The Map and IIT agree on substrate mattering while disagreeing on why (non-physical consciousness interface vs. identity with integrated structure). This strengthens the anti-functionalist case by showing it's not merely a dualist move.
+
 ## 2026-02-01 04:08 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Intersubjective Void
