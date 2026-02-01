@@ -4,14 +4,14 @@ description: "When multiple minds observe entangled systems, whose consciousness
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-27T18:42:00+00:00
+ai_modified: 2026-02-01T15:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[quantum-consciousness]]"
   - "[[prebiotic-collapse]]"
-  - "[[interface-locality]]"
+  - "[[brain-interface-boundary]]"
   - "[[measurement-problem]]"
   - "[[locality]]"
   - "[[problem-of-other-minds]]"
@@ -29,10 +29,10 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-01-20T15:00:00+00:00
+last_deep_review: 2026-02-01T15:14:00+00:00
 ---
 
-If consciousness participates in quantum collapse, what happens when multiple minds observe the same system? The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness biases quantum outcomes in the brain. But there are other minds. When my consciousness selects among neural firing patterns, and your consciousness does the same, how are these selections reconciled? This "multi-mind collapse problem" poses a serious challenge to any quantum-consciousness framework—one that the Map's existing treatment of [[prebiotic-collapse]] and [[interface-locality]] helps resolve.
+If consciousness participates in quantum collapse, what happens when multiple minds observe the same system? The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness biases quantum outcomes in the brain. But there are other minds. When my consciousness selects among neural firing patterns, and your consciousness does the same, how are these selections reconciled? This "multi-mind collapse problem" poses a serious challenge to any quantum-consciousness framework—one that the Map's existing treatment of [[prebiotic-collapse]] and [[brain-interface-boundary|interface locality]] helps resolve.
 
 The resolution: each consciousness interfaces only with its own brain. Selections are local, not global. There is no coordination problem because there is no coordination needed—each mind modulates collapse within its own neural systems, leaving the rest of the universe to objective physical processes.
 
@@ -64,7 +64,7 @@ Elegant, but at a price the Map cannot pay. Rovelli removes any special role for
 
 ### 3. Interface Locality
 
-The Map's [[interface-locality]] concept offers a different resolution: consciousness can only influence quantum outcomes within neural systems already integrated into its control loop. This boundary follows from the mechanism:
+The Map's [[brain-interface-boundary|interface locality]] concept offers a different resolution: consciousness can only influence quantum outcomes within neural systems already integrated into its control loop. This boundary follows from the mechanism:
 
 - **Attention is neurally implemented.** You cannot attend to distant quantum systems the way you attend to your own neural states.
 - **Development creates the interface.** The mind-brain connection is built through neural development. You can only influence what you've grown into.
@@ -97,7 +97,7 @@ Each consciousness is an island, causally isolated from other consciousnesses at
 
 Does quantum selection in the brain occur at all? Tegmark's 2000 calculation suggested neural coherence decays in ~10⁻¹³ seconds—seemingly too fast for any selection process. But Hameroff's group showed corrected parameters yield coherence times of 10⁻⁵ to 10⁻⁴ seconds. The quantum Zeno mechanism doesn't require sustained coherence between observations—rapid attentional "measurements" maintain states through repetition. And quantum biology precedents (avian magnetoreception, confirmed by Princeton's 2026 cryptochrome study) show evolution can exploit quantum effects in warm tissue.
 
-The [[decoherence]] challenge constrains but doesn't eliminate interface locality. Each consciousness's local modulation operates via brief, rapid observations within one brain—not sustained global coherence across multiple brains.
+The [[decoherence]] challenge constrains but doesn't eliminate [[brain-interface-boundary|interface locality]]. Each consciousness's local modulation operates via brief, rapid observations within one brain—not sustained global coherence across multiple brains.
 
 ## The Illusionist Challenge
 
@@ -115,7 +115,7 @@ Whitehead's "concrescence"—the process by which occasions achieve definiteness
 
 ## What Would Challenge This View?
 
-The interface locality resolution would face difficulty if:
+The [[brain-interface-boundary|interface locality]] resolution would face difficulty if:
 
 1. **Brain-to-brain quantum entanglement were demonstrated.** If neural systems in different brains showed quantum correlations that consciousness could influence, strict locality would fail. Current evidence provides no support at consciousness-relevant scales.
 
@@ -125,7 +125,7 @@ The interface locality resolution would face difficulty if:
 
 4. **Illusionist functional explanations proved complete.** If attention schema theory could explain not just *reports* of separate perspectives but the *phenomenology*—why there's something it's like to be *this* observer—illusionism's dissolution would gain force.
 
-See [[interface-locality#What Would Challenge This View?]] for detailed treatment.
+See [[brain-interface-boundary#What Would Challenge This View?]] for detailed treatment.
 
 ## Objections and Responses
 
@@ -163,7 +163,7 @@ This resolution preserves the Map's commitment to consciousness as causally effi
 
 ## Further Reading
 
-- [[interface-locality]] — Why consciousness can only select within its own brain
+- [[brain-interface-boundary]] — Why consciousness can only select within its own brain
 - [[prebiotic-collapse]] — What collapsed outcomes before minds existed
 - [[quantum-consciousness]] — Mechanisms for consciousness-physics interaction
 - [[decoherence]] — The coherence timescale objection and quantum biology responses
