@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-29 16:28:55+00:00
+ai_modified: 2026-02-01 03:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,12 +23,13 @@ description: The view that consciousness is fundamental and ubiquitous in nature
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 16:28:55+00:00
+last_deep_review: 2026-02-01 03:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[panpsychism-consciousness-2026-01-08]]'
 - '[[integrated-information-theory]]'
+- '[[integrated-information-theory-critique]]'
 - '[[origin-of-consciousness]]'
 title: Panpsychism
 topics:
@@ -154,7 +155,7 @@ This implies panpsychism: even simple systems like photodiodes have minimal phi 
 
 However, IIT faces its own version of the combination problem. High-phi systems are "more" conscious than low-phi systems, but it remains unclear why integration should produce unified experience rather than just integrated information processing. The phi measure quantifies integration but doesn't explain why integration feels like anything.
 
-For the Map's framework, IIT is instructive but incomplete. It takes consciousness seriously as fundamental (aligning with the Dualism tenet) but identifies it with physical structure rather than treating it as causally efficacious over and above physics (conflicting with Bidirectional Interaction). If consciousness *is* integrated information, it doesn't *do* anything separate from the physical—it *is* the physical in a certain configuration.
+For the Map's framework, IIT is instructive but incomplete. It takes consciousness seriously as fundamental (aligning with the Dualism tenet) but identifies it with physical structure rather than treating it as causally efficacious over and above physics (conflicting with Bidirectional Interaction). If consciousness *is* integrated information, it doesn't *do* anything separate from the physical—it *is* the physical in a certain configuration. For the Map's full critique of IIT, see [Why Integrated Information Theory Falls Short](/topics/integrated-information-theory-critique/).
 
 ## Can Panpsychism Be Tested?
 

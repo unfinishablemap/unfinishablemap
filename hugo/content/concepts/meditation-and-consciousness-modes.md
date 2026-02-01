@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-29 06:15:00+00:00
+ai_modified: 2026-02-01 01:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,8 @@ concepts:
 - '[[phenomenology-of-choice]]'
 - '[[phenomenology]]'
 - '[[default-mode-network]]'
+- '[[contemplative-neuroscience]]'
+- '[[neurophenomenology]]'
 created: 2026-01-18
 date: &id001 2026-01-21
 description: 'Two modes of consciousness: active selection through attention and passive
@@ -22,7 +24,7 @@ description: 'Two modes of consciousness: active selection through attention and
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 06:15:00+00:00
+last_deep_review: 2026-02-01 01:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -264,6 +266,8 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 
 - [witness-consciousness](/concepts/witness-consciousness/) — Dedicated treatment of the sakshi/witness concept
 - [default-mode-network](/concepts/default-mode-network/) — The brain network that quiets during meditation, with filter theory interpretation
+- [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Neuroplasticity evidence from meditation training supporting bidirectional interaction
+- [neurophenomenology](/concepts/neurophenomenology/) — Varela's mutual constraints framework integrating first-person and third-person methods
 - [illusionism](/concepts/illusionism/) — The illusionist challenge and quasi-phenomenal properties
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The felt difference between choosing and observing
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness influences matter through attention

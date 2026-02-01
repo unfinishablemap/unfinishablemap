@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-26 22:15:00+00:00
+ai_modified: 2026-02-01 02:28:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: Buddhism takes consciousness seriously while denying permanent self
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 22:30:00+00:00
+last_deep_review: 2026-02-01 02:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,59 +43,35 @@ The Map finds Buddhism instructive as both ally and provocateur. Buddhism takes 
 
 ## Buddhism's Approach to Consciousness
 
-### The Five Aggregates
+### The Five Aggregates and No-Self
 
-Buddhism analyzes what we call "self" into five aggregates (skandhas):
+Buddhism analyzes "self" into five aggregates (skandhas): form, feeling, perception, mental formations, and consciousness (*vijñāna*). Crucially, consciousness is *one of* these aggregates—important but not privileged. Each is impermanent, constantly arising and passing away. What we call "self" is these aggregates interacting, not a substance underlying them.
 
-1. **Form** (rūpa) — the body and physical objects
-2. **Feeling** (vedanā) — pleasant, unpleasant, or neutral sensations
-3. **Perception** (saññā) — recognition and categorization
-4. **Mental formations** (saṅkhāra) — intentions, emotions, dispositions
-5. **Consciousness** (vijñāna) — bare awareness of objects
+The doctrine of *anattā* (no-self) targets *ātman*—the Hindu concept of an eternal, unchanging soul. Buddhism rejects this: what continues from moment to moment is a causal process, not a substance. The flame tonight is causally connected to yesterday's flame but isn't the same flame.
 
-Crucially, consciousness is *one of* these aggregates—important but not privileged. Each aggregate is impermanent, constantly arising and passing away. What we call "self" is the process of these aggregates interacting, not a substance underlying them.
-
-This analysis is phenomenologically sophisticated. Buddhism doesn't deny that experience happens. It denies that there's a permanent experiencer behind the experience.
-
-### No-Self (Anattā)
-
-The doctrine of *anattā* (no-self) is Buddhism's most distinctive and challenging claim. It doesn't mean "you don't exist" but rather "you don't exist *as you think you do*."
-
-The target is *ātman*—the Hindu concept of an eternal, unchanging soul that transmigrates between lives. Buddhism rejects this. What continues from moment to moment, and life to life, is a causal process—not a substance. The flame that burns tonight is causally connected to yesterday's flame but isn't the same flame.
-
-This creates an apparent tension with dualism. Doesn't dualism require a "self" that is distinct from the body? Buddhism says no such self exists.
+This creates apparent tension with dualism. Doesn't dualism require a "self" distinct from body? Buddhism says no such permanent self exists—but this needn't conflict with irreducibility of experience at each moment.
 
 ### The Witness Tradition
 
 Despite rejecting a permanent self, both Hindu and Buddhist traditions extensively discuss [witness-consciousness](/concepts/witness-consciousness/)—the *sakshi* (Sanskrit: "seer" or "observer")—the pure awareness that observes mental contents without identification. In Advaita Vedanta, the witness is self-luminous and unchanging, the stable background while thoughts arise and pass. Buddhism's relationship to witness consciousness is more complex: while denying a permanent observer-self, Buddhist meditation cultivates precisely the capacity to observe mental contents as objects.
 
-The resolution may lie in distinguishing *what is denied*. Buddhism rejects an eternal soul-substance persisting through rebirth; it need not reject the phenomenal structure of awareness that makes observation possible. When Buddhist practitioners achieve the capacity to observe thoughts as objects, they access witness consciousness experientially while remaining agnostic about its ultimate ontological status.
-
-The witness tradition provides phenomenological evidence for dualism: if consciousness can observe thoughts as objects, then the observer cannot be identical to what is observed. This subject-object structure—accessible through contemplative practice—reveals something irreducible about experience. The witness cannot become an object; it is the condition for there being objects of experience at all.
+The resolution: Buddhism rejects an eternal soul-substance, not the phenomenal structure of awareness that makes observation possible. The witness tradition provides phenomenological evidence for dualism: if consciousness can observe thoughts as objects, the observer cannot be identical to what is observed. This subject-object structure reveals something irreducible—the witness cannot become an object; it is the condition for there being objects of experience at all.
 
 ### Decentering and Self-Deconstruction
 
-Contemporary research reveals the cognitive mechanisms underlying witness consciousness. *Decentering*—the metacognitive capacity that witnessing cultivates—involves three interrelated processes: meta-awareness (knowing you are having mental experiences), disidentification (recognizing thoughts as mental events rather than reality), and reduced reactivity (observing without automatic response). This maps directly onto Buddhist insight practice.
-
-The neural correlates are striking. A 7T fMRI study of advanced vipassana practitioners documented progressive self-deconstruction through the Stages of Insight: self-processing regions (medial prefrontal cortex, temporal poles) deactivated while awareness regions (parietal cortex, visual areas) activated. Equanimity correlated specifically with mPFC deactivation and posterior cingulate activation. The pattern suggests witnessing doesn't merely observe the self—it progressively de-reifies it.
+*Decentering*—the metacognitive capacity that witnessing cultivates—involves meta-awareness, disidentification, and reduced reactivity. A 7T fMRI study of advanced vipassana practitioners documented progressive self-deconstruction: self-processing regions deactivated while awareness regions activated. Equanimity correlated with mPFC deactivation and posterior cingulate activation—witnessing doesn't merely observe the self but progressively de-reifies it.
 
 This provides empirical grounding for the Buddhist claim that rigorous observation reveals no substantial self. What investigation discloses is not an unchanging witness-substance but the *process* of witnessing—awareness operating without a fixed center. The phenomenological structure of subject-object remains; the metaphysical claim of permanence does not.
 
 ### Mind-Only: The Yogācāra School
 
-Not all Buddhist schools treat consciousness as merely one aggregate among others. The Yogācāra ("Mind-Only") school, developed by Vasubandhu and Asaṅga in the 4th-5th century CE, argues that only consciousness is ultimately real.
-
-On this view, what appears as an external physical world is a construction of mind. The "storehouse consciousness" (*ālaya-vijñāna*) contains the seeds of all experience; what we perceive as matter is mental projection. This resembles Western idealism more than Western materialism.
-
-Yogācāra takes consciousness as fundamental—aligning with the Dualism tenet's claim that consciousness is not reducible to physical processes. But it goes further: there *are* no physical processes distinct from consciousness.
+The Yogācāra ("Mind-Only") school argues that only consciousness is ultimately real. What appears as external world is mental construction; the "storehouse consciousness" (*ālaya-vijñāna*) contains the seeds of all experience. This resembles Western idealism—taking consciousness as fundamental (aligning with the Dualism tenet) but denying physical processes exist distinct from consciousness.
 
 ### Emptiness: The Madhyamaka View
 
-The Madhyamaka ("Middle Way") school, founded by Nāgārjuna, takes a different approach. All phenomena—mental and physical alike—are "empty" (*śūnyatā*) of inherent existence. Nothing has an independent, essential nature; everything arises dependently, in relation to other things.
+The Madhyamaka ("Middle Way") school, founded by Nāgārjuna, holds that all phenomena—mental and physical—are "empty" (*śūnyatā*) of inherent existence. Nothing has an independent essence; everything arises dependently.
 
-This isn't nihilism. Emptiness doesn't mean "nothing exists" but "nothing exists independently." A table exists, but only in relation to its parts, its makers, its uses, our concepts of "table." Strip away the relations and there's nothing left to be the table's "essence."
-
-The same applies to consciousness. It exists, but not as an independent substance. It arises dependently, moment to moment, in relation to objects, body, and previous mental states.
+This isn't nihilism. Emptiness means "nothing exists independently"—a table exists only in relation to its parts, makers, uses, and concepts. Consciousness too exists, but not as independent substance; it arises dependently, moment to moment.
 
 ## Buddhism and the Hard Problem
 
@@ -133,13 +109,13 @@ Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) provides 
 
 Recent research has begun validating this approach empirically:
 
-**Jhana states**: 7-Tesla fMRI studies of advanced meditators (23,000+ hours of practice) show distinct neural signatures during jhana states—disrupted hierarchical brain organization, increased global connectivity, and elevated complexity measures. The phenomenology of these states—eight progressively refined levels from directed attention through formless absorptions—provides data that third-person methods alone cannot generate.
+**Jhana states**: 7-Tesla fMRI studies of advanced meditators show distinct neural signatures during jhana states—disrupted hierarchical brain organization, increased global connectivity, and elevated complexity measures. The eight progressively refined jhana levels provide phenomenological data that third-person methods alone cannot generate.
 
-**Cessation experiences**: Buddhist traditions describe *nirodha samapatti*—complete cessation of perception and feeling—as an attainable state. Meditators can voluntarily "turn off" phenomenal consciousness while brain activity continues. This challenges the assumption that consciousness simply *is* neural activity, supporting the Map's filter theory interpretation: perhaps cessation represents complete filtering rather than consciousness's absence.
+**Cessation experiences**: Buddhist traditions describe *nirodha samapatti*—complete cessation of perception and feeling—as an attainable state. Meditators can voluntarily suspend phenomenal consciousness while brain activity continues. This challenges the assumption that consciousness simply *is* neural activity, supporting the Map's filter theory interpretation.
 
-Thomas Metzinger's research on *minimal phenomenal experience* (MPE) extends this investigation. Drawing on over 500 experiential reports, Metzinger describes a "zero-person perspective": awareness that continues without the usual subject-object structure. Experience becomes non-conceptual, atemporal, non-egoic, and aperspectival—yet vividly present. If consciousness can operate stripped of all content, including the witness structure itself, then awareness is more fundamental than any particular form it takes. See [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) for detailed treatment of these limit-experiences.
+Thomas Metzinger's research on *minimal phenomenal experience* describes awareness without the usual subject-object structure—non-conceptual, atemporal, non-egoic, yet vividly present. If consciousness can operate stripped of all content, awareness is more fundamental than any particular form it takes. See [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) for detailed treatment.
 
-**Temporal microstructure**: Contemplative training reveals access to the "specious present" at fine temporal scales. Buddhist descriptions of *khanika* (momentariness)—experience arising and passing in rapid succession—align with Husserl's phenomenological analysis of time-consciousness. Ordinary awareness blurs these transitions; meditation discloses them.
+**Temporal microstructure**: Buddhist descriptions of *khanika* (momentariness)—experience arising and passing in rapid succession—align with Husserl's phenomenological analysis of time-consciousness. Contemplative training discloses transitions that ordinary awareness blurs.
 
 These findings demonstrate that contemplative traditions offer not just philosophical claims but empirical methods for investigating consciousness systematically.
 
@@ -147,11 +123,11 @@ These findings demonstrate that contemplative traditions offer not just philosop
 
 Tibetan Buddhist dream yoga (*mi-lam*) provides another empirical avenue for consciousness investigation. This millennium-old tradition trains practitioners to maintain awareness during sleep—both within dreams and through dreamless states.
 
-Dream yoga proceeds through progressive stages: achieving lucidity within dreams, overcoming fear by recognizing dream contents cannot harm, controlling and transforming dream objects through intention, and ultimately recognizing the dream body's insubstantiality—that consciousness persists even as the sense of embodiment dissolves. The practice culminates in "sleep yoga," maintaining awareness through dreamless sleep, where the body sleeps but the mind stays aware.
+Dream yoga proceeds through progressive stages: achieving lucidity, overcoming fear, controlling dream objects through intention, and ultimately recognizing the dream body's insubstantiality. The practice culminates in "sleep yoga"—maintaining awareness through dreamless sleep.
 
-The philosophical significance is profound. Dream yoga reveals that waking experience and dream experience share a common structure: both are constructions of mind. The vivid sensory world we navigate while awake is, like the dream world, an appearance within consciousness—not a direct perception of external reality. This insight undermines naive realism: if dreams can produce fully convincing experiential worlds, waking experience might be similarly constructed.
+Dream yoga reveals that waking and dream experience share a common structure: both are constructions of mind. If dreams can produce fully convincing experiential worlds, waking experience might be similarly constructed—undermining naive realism.
 
-Recent lucid dreaming research validates aspects of this tradition. The 2025 Demirel findings identify lucid dreaming as a distinct consciousness state with its own neural signature—not merely a blend of waking and REM sleep but "the emergence of a stable third phase marked by recursive symbolic awareness." Two-way communication experiments (2021) confirm that lucid dreamers can exchange information with experimenters in real time while verifiably in REM sleep.
+Recent lucid dreaming research validates aspects of this tradition. Demirel et al. (2025) identify lucid dreaming as a distinct consciousness state with its own neural signature—"the emergence of a stable third phase marked by recursive symbolic awareness." Two-way communication experiments confirm that lucid dreamers can exchange information with experimenters while verifiably in REM sleep.
 
 For the Map's framework, dream yoga demonstrates [Bidirectional Interaction](/tenets/#bidirectional-interaction) within the experiential domain: dreamers volitionally control dream contents through intention. It also supports the filter theory interpretation: dreams are what consciousness does when sensory constraints are removed, using the brain's representational capacities freely rather than for external representation.
 
@@ -163,15 +139,15 @@ The Dalai Lama emphasizes dream yoga's existential significance: "Training durin
 
 ### The Regress Response
 
-The illusionist faces a regress problem that Buddhism has long addressed. For something to *seem* a certain way, there must be a subject to whom it seems that way. The illusion of suffering must be experienced by something, and that experiencing is itself phenomenal. Buddhism recognises this through *vijñāna* (consciousness) as one of the five aggregates—awareness exists even if the self that supposedly owns it does not.
+The illusionist faces a regress: for something to *seem* a certain way, there must be a subject to whom it seems that way. The illusion of suffering must be experienced—and that experiencing is phenomenal. Buddhism recognises this through *vijñāna*: awareness exists even if the self that supposedly owns it does not.
 
-The illusionist might respond that "seeming" is itself merely functional information processing. But Buddhist meditation traditions report *observing* the arising and passing of mental states with increasing precision. This observation cannot be another representation without infinite regress. Something witnesses the representations—and this witnessing is precisely what contemplative training refines.
+The illusionist might respond that "seeming" is functional information processing. But Buddhist traditions report *observing* mental states with increasing precision—this observation cannot be another representation without infinite regress. Something witnesses the representations, and this witnessing is what contemplative training refines.
 
 ### The Contemplative Challenge
 
-Trained meditators present a problem for illusionism that casual [introspection](/concepts/introspection/) does not. The Fox et al. (2012) study showed meditation experience predicts introspective accuracy on a logarithmic learning curve. If phenomenal consciousness were illusion, we would expect training to eventually *dissolve* the illusion—as understanding dissolves other cognitive errors. Instead, training *refines* phenomenal access. Meditators report increasingly subtle phenomenological distinctions, not recognition that there was nothing there.
+Trained meditators present a problem for illusionism. The Fox et al. (2012) study showed meditation experience predicts introspective accuracy. If phenomenal consciousness were illusion, training should eventually *dissolve* it—as understanding dissolves other cognitive errors. Instead, training *refines* phenomenal access: meditators report increasingly subtle distinctions, not recognition that there was nothing there.
 
-The illusionist might claim training merely creates more elaborate illusions. But this stretches the concept of "illusion" past utility. When trained observers across traditions converge on phenomenological descriptions—temporal microstructure, witness-content distinction, stages of insight—the parsimonious explanation is that they're describing something real.
+The illusionist might claim training creates more elaborate illusions. But when trained observers across traditions converge on phenomenological descriptions—temporal microstructure, witness-content distinction, stages of insight—the parsimonious explanation is that they're describing something real.
 
 ### Buddhism's Own Response
 
@@ -197,11 +173,9 @@ Buddhism might accept this formulation. The Map can too—see [buddhism-and-dual
 
 ### The Haecceity Complication
 
-The Map's [commitment to haecceity](/concepts/haecceity/)—the thisness that makes *this* conscious subject distinct from qualitatively identical others—faces a subtle challenge from Buddhism. If there's no permanent self, what bears haecceity? Haecceity seems to require a *this* to be *this*.
+The Map's [commitment to haecceity](/concepts/haecceity/)—the thisness distinguishing *this* conscious subject from qualitatively identical others—faces challenge from Buddhism. If there's no permanent self, what bears haecceity?
 
-One resolution: haecceity applies to experiential processes, not substances. *This* stream of moments is distinct from *that* stream, even though neither contains a permanent substrate. The indexical fact—that I am *this* series of experiences—remains even if the referent is a process rather than a thing.
-
-This interpretation may actually strengthen the compatibility thesis. Buddhism doesn't deny that *this* person experiences *this* moment; it denies that there's an unchanging soul underneath. Haecceity about processes is compatible with impermanence about substances.
+Resolution: haecceity applies to experiential processes, not substances. *This* stream of moments is distinct from *that* stream, even without permanent substrate. The indexical fact—that I am *this* series of experiences—remains even if the referent is process rather than thing. Buddhism doesn't deny that *this* person experiences *this* moment; it denies an unchanging soul underneath. Haecceity about processes is compatible with impermanence about substances.
 
 ### No External World?
 
@@ -213,11 +187,9 @@ But not all Buddhist schools are Yogācāra. Madhyamaka accepts conventional phy
 
 ### Liberation vs. Explanation
 
-Buddhism's ultimate goal is liberation (*nirvana*)—freedom from suffering through transformation of consciousness. It's a practical project, not primarily an explanatory one.
+Buddhism's ultimate goal is liberation (*nirvana*)—transformation of consciousness, not explanation of it. The Map's project is different: to understand consciousness and its place in nature. Buddhism might ask: why explain consciousness when you could transform it?
 
-The Map's project is different: to understand consciousness and its place in nature. Buddhism might see this as missing the point. Why explain consciousness when you could transform it?
-
-This tension may be productive rather than destructive. The Map can acknowledge that understanding consciousness isn't the only worthwhile project while still pursuing it. Buddhism can acknowledge that theoretical clarity might support practice.
+This tension is productive. The Map acknowledges that understanding isn't the only worthwhile project; Buddhism can acknowledge that theoretical clarity might support practice.
 
 ## Process Philosophy Perspective
 
@@ -225,15 +197,15 @@ Alfred North Whitehead's process philosophy provides a bridge between Buddhist a
 
 ### Actual Occasions and Momentariness
 
-Both frameworks reject permanent substances in favour of process. Each actual occasion, like each Buddhist moment of consciousness, has a beginning, middle, and end. What persists is not a thing but a pattern of inheritance—each moment prehending and transforming its predecessors.
+Both frameworks reject permanent substances in favour of process. Each actual occasion, like each Buddhist moment of consciousness, has a beginning, middle, and end. What persists is a pattern of inheritance—each moment prehending and transforming its predecessors.
 
-The technical parallel is precise. Whitehead's "prehension" (how each occasion grasps its past) maps to Buddhist "saṅkhāra" (formations, conditioned arising). Both describe how present experience inherits from and transforms the past without requiring a permanent substrate.
+Whitehead's "prehension" (how each occasion grasps its past) maps to Buddhist "saṅkhāra" (formations, conditioned arising). Both describe how present experience inherits from and transforms the past without requiring a permanent substrate.
 
 ### Concrescence and the Specious Present
 
-Whitehead's "concrescence"—the process by which an actual occasion becomes determinate—illuminates the Buddhist [specious present](/concepts/specious-present/). Each moment integrates multiple prehensions into a unified experience, then perishes. This matches the phenomenology of vipassana practice: observing arising, persistence, and passing at increasingly fine temporal scales.
+Whitehead's "concrescence"—how an actual occasion becomes determinate—illuminates Buddhist phenomenology. Each moment integrates multiple prehensions into unified experience, then perishes. This matches vipassana practice: observing arising, persistence, and passing at fine temporal scales.
 
-The connection to quantum mechanics is suggestive. Whitehead proposed that concrescence involves something like quantum collapse—the transition from potentiality to actuality. If so, Buddhist meditation that discloses temporal microstructure may be accessing the grain of reality where quantum selection occurs. The [decoherence objection](/concepts/decoherence/) would not apply to this framework because experience doesn't *emerge from* physical processes; physical and experiential aspects are two sides of each actual occasion.
+Whitehead proposed that concrescence involves something like quantum collapse—transition from potentiality to actuality. This *might* connect to contemplative phenomenology, though the temporal scales differ dramatically. The [decoherence objection](/concepts/decoherence/) would not apply to this framework because experience doesn't *emerge from* physical processes; physical and experiential aspects are two sides of each actual occasion.
 
 ### Why This Matters for the Map
 
@@ -257,15 +229,13 @@ Compare this with the Map's view that meaning is grounded in consciousness itsel
 
 ## What the Map Can Learn
 
-Eastern philosophy offers several insights the Map can integrate:
+**Phenomenological precision**: Buddhist traditions developed detailed maps of mental states. [Neurophenomenology](/concepts/neurophenomenology/) shows this isn't mere speculation: trained observers produce reliable reports correlating with neural changes.
 
-**Phenomenological precision**: Buddhist meditation traditions have developed detailed maps of mental states—from the jhana sequence to subtle distinctions in perception and attention. [Neurophenomenology](/concepts/neurophenomenology/) shows this isn't mere introspective speculation: trained observers produce reliable, replicable reports that correlate with measurable neural changes. This complements Western philosophy's more abstract approach.
-
-**Impermanence needn't be threatening**: If consciousness is irreducible but impermanent, that's not a loss—it's liberation from the burden of maintaining an eternal self.
+**Impermanence needn't be threatening**: If consciousness is irreducible but impermanent, that's liberation from the burden of maintaining an eternal self.
 
 **Practice matters**: Understanding consciousness theoretically is one thing; training attention is another. Both may be needed.
 
-**The explanatory gap may be permanent**: Buddhism doesn't explain how experience arises; it works with experience as given. Perhaps the hard problem is not a problem to be solved but a fact to be acknowledged.
+**The explanatory gap may be permanent**: Buddhism doesn't explain how experience arises; it works with experience as given. Perhaps the hard problem is a fact to acknowledge, not a problem to solve.
 
 ## What Would Challenge This View?
 
@@ -287,11 +257,11 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 
 **[Dualism](/tenets/#dualism)**: Buddhism shares the Map's rejection of eliminative materialism—the very project of transformation presupposes real experience. But Buddhism denies the permanent self that some forms of dualism invoke. The compatibility thesis resolves this: consciousness can be irreducible at each moment while impermanent across moments. Property dualism without substance dualism. The illusionist challenge gains no traction against Buddhist phenomenology precisely because Buddhism takes experience seriously enough to train it systematically.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum)**: Buddhist descriptions of temporal microstructure—*khaṇika* momentariness, the fine grain of arising and passing—may describe the timescale at which consciousness interfaces with quantum processes. The specious present as disclosed in meditation could reflect the temporal structure of collapse events. Dream yoga's demonstration that consciousness persists without sensory constraint supports the filter theory interpretation: consciousness accesses quantum processes that sensory processing usually obscures.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum)**: Buddhist descriptions of temporal microstructure—*khaṇika* momentariness, the fine grain of arising and passing—reveal consciousness operating at finer timescales than ordinary awareness accesses. Whether this connects to quantum processes remains speculative; the phenomenological and quantum timescales differ dramatically. Dream yoga's demonstration that consciousness persists without sensory constraint supports the filter theory interpretation: consciousness may access processes that sensory processing usually obscures.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The doctrine of karma implies mental causation—intentions produce real consequences. This is bidirectional interaction: consciousness influences outcomes. Dream yoga goes further: trained dreamers exercise volitional control over dream content, demonstrating consciousness shaping experience directly. The contemplative evidence for [mental-effort](/concepts/mental-effort/)—the phenomenology of exertion in meditation—matches what bidirectional interaction predicts.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Buddhist practice presupposes that this moment's choices shape this practitioner's future—not that all choices occur in branching universes. The Dalai Lama's claim that dream yoga "prepares for maintaining awareness at death" assumes continuity of *this* subject. The [haecceity](/concepts/haecceity/) of the practitioner matters: I am training *this* mind, not a quantum superposition of minds. Meditation would be pointless if all possible meditation outcomes occurred across branches.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Buddhist practice presupposes that this moment's choices shape this practitioner's future—not that all choices occur in branching universes. The Dalai Lama's claim that dream yoga "prepares for maintaining awareness at death" assumes continuity of *this* subject. The [haecceity](/concepts/haecceity/) of the practitioner matters: I am training *this* mind, not a quantum superposition of minds. (MWI defenders would counter that subjective singularity is compatible with objective branching—from within any branch, practice feels singular. The Map rejects this as rendering indexical questions unanswerable.)
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Two millennia of contemplative investigation represent data that Western philosophy has largely ignored. Dismissing this as "merely subjective" may reflect methodological blindness rather than parsimony. The jhana sequence, the stages of insight, the phenomenology of cessation—these are systematic observations by trained observers. The [introspection literature](/concepts/introspection/) shows that trained observation outperforms naive introspection. Eastern philosophy suggests that the simplest metaphysics (pure physicalism) may miss genuine features of experience accessible only through disciplined investigation.
 

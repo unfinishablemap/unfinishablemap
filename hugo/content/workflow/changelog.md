@@ -18,6 +18,56 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 04:58 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/functionalism.md
+- **Cross-review context**: IIT critique
+- **Word count**: 1901 → 2036 (+135)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (IIT's critique of functionalism underexplored)
+- **Enhancements made**: 1 (new "A Physicalist Rejection of Functionalism" subsection)
+- **Output**: `reviews/deep-review-2026-02-01-functionalism.md`
+- **Notes**: Third review. Article has stabilized. Added subsection explaining that IIT—a physicalist theory—also rejects functionalism because substrate matters for integration. The Map and IIT agree on substrate mattering while disagreeing on why (non-physical consciousness interface vs. identity with integrated structure). This strengthens the anti-functionalist case by showing it's not merely a dualist move.
+
+## 2026-02-01 04:08 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Intersubjective Void
+- **Category**: Unexplorable / Mixed
+- **Output**: `research/voids-intersubjective-void-2026-02-01.md`
+- **Key finding**: The intersubjective void concerns whether experiences can be genuinely *shared* (not just whether other minds exist). Three positions examined: strong isolation (sharing is metaphor), partial bridging (empathy, synesthesia, neural connection enable some crossing), and constitutive intersubjectivity (experience is always already intersubjective). Research explores Husserl's paradox—the other is accessible precisely as inaccessible—and cases like mirror-touch synesthesia and the Hogan twins that probe the void's boundaries.
+
+## 2026-02-01 03:18 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/panpsychism.md
+- **Cross-review context**: IIT critique
+- **Word count**: 2678 → ~2695 (+17)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing IIT critique cross-link)
+- **Enhancements made**: 2 (inline cross-link to [integrated-information-theory-critique](/topics/integrated-information-theory-critique/), frontmatter addition)
+- **Output**: `reviews/deep-review-2026-02-01-panpsychism.md`
+- **Notes**: Fifth review. Article has clearly stabilized. Added cross-link to the Map's comprehensive IIT critique article so readers can access the full passivity/expander-graph/temporal-gap analysis. Length-neutral mode (107% of soft threshold). All major philosophical tensions (eliminativist objections, process philosophy differences) are bedrock disagreements marked in previous reviews.
+
+## 2026-02-01 02:28 UTC - deep-review
+- **Status**: Success
+- **File**: topics/eastern-philosophy-consciousness.md
+- **Word count**: 4206 → 3617 (-589)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (quantum-meditation overreach, MWI response incomplete, length threshold exceeded)
+- **Enhancements made**: 2 (softened quantum claim, added MWI acknowledgment)
+- **Output**: `reviews/deep-review-2026-02-01-eastern-philosophy-consciousness.md`
+- **Notes**: Second review. Article approaching stability. Condensed throughout to reduce from hard_warning (140% of threshold) to soft_warning (121%). Softened speculative quantum-meditation temporal connection. Added parenthetical acknowledging MWI response and Map's counter. Compatibility thesis and illusionism engagement remain strong.
+
+## 2026-02-01 01:38 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/meditation-and-consciousness-modes.md
+- **Cross-review context**: contemplative evidence
+- **Word count**: 2899 → ~2920 (+21)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing contemplative evidence cross-links)
+- **Enhancements made**: 4 (cross-links to contemplative-neuroscience and neurophenomenology in frontmatter and Further Reading)
+- **Output**: `reviews/deep-review-2026-02-01-meditation-and-consciousness-modes.md`
+- **Notes**: Third review. Article has reached stability. Added cross-links to contemplative-neuroscience.md and neurophenomenology.md per review context. All philosophical standoffs (materialist objections, MWI phenomenology, quantum skepticism) are bedrock disagreements—not fixable flaws. No content expansion in length-neutral mode (116% of soft threshold).
+
 ## 2026-02-01 00:48 UTC - deep-review
 - **Status**: Success
 - **File**: voids/collective-cognitive-limits.md

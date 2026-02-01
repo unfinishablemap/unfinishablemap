@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-30 15:04:00+00:00
+ai_modified: 2026-02-01 04:58:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,7 +29,7 @@ description: Mental states defined by causal roles, not substrate. Absent qualia
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-28 21:43:00+00:00
+last_deep_review: 2026-02-01 04:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,6 +69,12 @@ But PP inherits functionalism's core limitation: explaining *that* perception is
 [Global Workspace Theory (GWT)](/concepts/global-workspace-theory/) proposes consciousness arises when information broadcasts to a "global workspace" accessible across brain regions. But explaining how information becomes globally available doesn't explain why global availability feels like anything. Ned Block's distinction between "access consciousness" and "phenomenal consciousness" captures the gap: GWT may explain access but not phenomenal consciousness.
 
 The COGITATE experiment (Melloni et al., 2023-2024)—the largest adversarial collaboration in consciousness science—tested GWT against IIT. Neither theory's predictions were fully confirmed. Both remain silent on why any neural activity should be accompanied by experience.
+
+### A Physicalist Rejection of Functionalism
+
+[Integrated Information Theory (IIT)](/concepts/integrated-information-theory/) explicitly rejects functionalism—not from a dualist perspective, but from within physicalism. IIT holds that consciousness depends on *how* a system is physically organized, not just what function it computes. Two systems performing identical functions could have different integrated information (Φ) depending on their architecture: a feed-forward network processes information without integration, while a recurrent network with the same input-output function might have high Φ.
+
+This matters because it shows rejecting functionalism isn't merely a dualist move. The Map and IIT agree that substrate matters, though they disagree on *why*: IIT claims consciousness is identical to integrated physical structure, while the Map holds that the right physical structure enables non-physical consciousness to interact with the brain. Both reject the functionalist claim that only causal roles matter.
 
 ## Functionalism and AI
 
