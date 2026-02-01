@@ -790,6 +790,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-31
 
+### P3: Write article on phenomenology of belief revision
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-01. What is it like to change one's mind? The moment of belief revision has distinctive phenomenology—the "giving way" of an old view, the "clicking into place" of a new one. Connects to consciousness's role in rationality and the argument from reason. Builds on epistemic-emotions.md, phenomenology-of-error-recognition.md, introspection.md. See optimistic-2026-02-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-01
+
+### P3: Write article on consciousness and temporal integration
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-01. How consciousness binds across time—not just the specious present but narrative identity, autobiographical memory, and prospective planning. IIT addresses instantaneous states; what theory addresses extended temporal phenomenology? Builds on temporal-consciousness.md, duration.md, specious-present.md. See optimistic-2026-02-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-01
+
+### P3: Write article on distinctiveness of human creativity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-01. How consciousness enables genuine novelty. Great apes restricted to "zone of latent solutions"; humans escape it. The incubation effect (unconscious processing → conscious insight) is empirically established. What does consciousness add? Builds on baseline-cognition.md, consciousness-and-creativity.md, working-memory.md. See optimistic-2026-02-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-01
+
+### P3: Create concept page for indexical-knowledge
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-01. Referenced throughout (vertiginous-question.md, personal-identity.md) but no dedicated treatment. Would consolidate discussion of "this" consciousness and why indexical facts exceed objective description. See optimistic-2026-02-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-01
+
+### P3: Create concept page for acquaintance-knowledge
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-01. Referenced in discussions of Mary's Room and consciousness-only-territories.md. Russell's distinction between knowledge by description and knowledge by acquaintance is foundational to the knowledge argument. See optimistic-2026-02-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-01
+
 ## Completed Tasks
 
 
