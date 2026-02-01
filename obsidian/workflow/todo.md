@@ -43,13 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on phenomenology of intellectual effort
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-27. The argument from reason shows consciousness grasps reasons *as* reasons. But what is it *like* to find an argument compelling? To feel the force of evidence? The phenomenology of intellectual engagement. Builds on argument-from-reason.md, phenomenology-of-choice.md, mental-effort.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-27
-
 ### P2: Write article on emotional consciousness and value
 - **Type**: expand-topic
 - **Status**: pending
@@ -546,6 +539,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article on phenomenology of intellectual effort
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27. The argument from reason shows consciousness grasps reasons *as* reasons. But what is it *like* to find an argument compelling? To feel the force of evidence? The phenomenology of intellectual engagement. Builds on argument-from-reason.md, phenomenology-of-choice.md, mental-effort.md.
+- **Output**: phenomenology of intellectual effort
 
 ### ✓ 2026-02-01: Write article on structure of attention (unified treatment)
 - **Type**: expand-topic
