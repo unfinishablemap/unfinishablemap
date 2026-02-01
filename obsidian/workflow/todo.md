@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Condense metarepresentation.md (3960 words, 158% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers representing representations—central to consciousness theories (HOT, metacognition, theory of mind). Preserve: core metarepresentational distinctions, connection to consciousness threshold, ToM level mappings. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-27
-
 ### P2: Deep review the-unobservable-self.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the paradox that the observing self cannot observe itself—a structural cognitive void. Should verify: (1) accuracy of self-reference arguments, (2) connection to introspection limitations and witness-consciousness, (3) alignment with other voids articles, (4) proper engagement with Buddhist no-self perspectives.
@@ -798,6 +792,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Condense metarepresentation.md (3960 words, 158% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers representing representations—central to consciousness theories (HOT, metacognition, theory of mind). Preserve: core metarepresentational distinctions, connection to consciousness threshold, ToM level mappings. See /condense skill.
+- **Output**: obsidian/concepts/metarepresentation.md
 
 ### ✓ 2026-02-01: Deep review ai-as-void-explorer.md
 - **Type**: deep-review
