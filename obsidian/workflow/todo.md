@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for time-symmetric physics
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28. Foundational for retrocausality; currently assumed rather than explained. Would clarify why retrocausality follows from taking physics seriously. The transactional interpretation and TSVF depend on this.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
 ### P2: Write article synthesizing attention-motor quantum selection
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). The convergence of attention and motor control research into unified selection framework is scattered across attention-motor-quantum-interface.md, voluntary-attention.md, motor-selection.md, quantum-consciousness.md. A synthesis would strengthen the case that both domains exhibit the same quantum selection architecture.
@@ -437,6 +431,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Create concept page for time-symmetric physics
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28. Foundational for retrocausality; currently assumed rather than explained. Would clarify why retrocausality follows from taking physics seriously. The transactional interpretation and TSVF depend on this.
+- **Output**: Create concept page for time-symmetric physics
 
 ### ✓ 2026-02-01: Write article on neural implementation specifics
 - **Type**: expand-topic
