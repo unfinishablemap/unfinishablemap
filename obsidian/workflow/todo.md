@@ -43,13 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on time-symmetric selection mechanism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-26. The transactional interpretation and TSVF are identified as high-alignment but deserve more technical development. How does atemporal selection resolve Libet? How does selecting across time work phenomenologically? Builds on retrocausality.md, quantum-interpretations.md, collapse-and-time.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-26
-
 ### P2: Create concept page for semantic phenomenology
 - **Type**: expand-topic
 - **Status**: pending
@@ -602,6 +595,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article on time-symmetric selection mechanism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-26. The transactional interpretation and TSVF are identified as high-alignment but deserve more technical development. How does atemporal selection resolve Libet? How does selecting across time work phenomenologically? Builds on retrocausality.md, quantum-interpretations.md, collapse-and-time.md.
+- **Output**: time-symmetric selection mechanism
 
 ### ✓ 2026-02-01: Write apex article integrating process philosophy
 - **Type**: expand-topic
