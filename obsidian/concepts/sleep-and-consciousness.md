@@ -4,7 +4,7 @@ description: "Consciousness operates in gradations during sleep. Memory consolid
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-01T13:35:00+00:00
+ai_modified: 2026-02-01T13:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-01-20T17:30:00+00:00
+last_deep_review: 2026-02-01T13:55:00+00:00
 ---
 
 Sleep reveals that consciousness operates in gradations, not as a binary switch. During NREM slow-wave sleep, consciousness diminishes but rarely vanishes entirely—dreaming can occur in any sleep stage, correlating with reduced slow waves in the posterior cortical "hot zone." During REM, vivid experience returns while metacognition remains suppressed. [[dreams-and-consciousness#Lucid Dreaming: A Distinct State|Lucid dreaming]] restores metacognitive awareness by reactivating prefrontal regions normally quiescent during sleep. Most remarkably, memory consolidation during sleep operates *outside* the consciousness channel entirely—the brain's offline processing bypasses the ~10 bits/second bandwidth limitation of conscious experience, replaying multiple memory traces in parallel. This reveals the consciousness-brain interface as having multiple modes: waking selective attention, sleeping offline processing, and dreaming partial engagement.
@@ -180,4 +180,4 @@ The Map's interpretation would face difficulty if:
 - Stickgold, R. et al. (2023). Augmenting hippocampal-prefrontal synchrony during sleep enhances memory consolidation. *Nature Neuroscience*, 26, 2170-2181.
 - Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 - Tononi, G. & Cirelli, C. (2014). Sleep and the price of plasticity. *Neuron*, 81(1), 12-34.
-- Wang, H. et al. (2025). Differential engagement of thalamic nuclei orchestrates consciousness states. *Communications Biology*, 8, 92.
+- Wang, H.-R. et al. (2025). Differential engagement of thalamic nuclei orchestrates consciousness states in propofol anesthesia. *Communications Biology*, 8, 92.
