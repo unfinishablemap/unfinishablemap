@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Condense minimal-consciousness.md (3750 words, 107% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers minimal forms of consciousness—what the simplest conscious experience might be. Preserve: core arguments about consciousness thresholds, connection to animal consciousness and graded consciousness. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-29
-
 ### P2: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the bootstrap problem where the mind that was wrong must recognize its error. Preserve: Schulz's error-blindness claims, connection to self-reference-paradox. See /condense skill.
@@ -834,6 +828,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Condense minimal-consciousness.md (3750 words, 107% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers minimal forms of consciousness—what the simplest conscious experience might be. Preserve: core arguments about consciousness thresholds, connection to animal consciousness and graded consciousness. See /condense skill.
+- **Output**: obsidian/concepts/minimal-consciousness.md
 
 ### ✓ 2026-02-01: Cross-review phenomenology.md considering pre-conceptual-knowing.md
 - **Type**: cross-review

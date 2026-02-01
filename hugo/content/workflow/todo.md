@@ -44,12 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review phenomenology.md considering pre-conceptual-knowing.md
-- **Type**: cross-review
-- **Notes**: New voids article voids/pre-conceptual-knowing.md (2026-01-27) investigates whether conceptual beings are structurally blocked from modes of knowing available to pre-conceptual beings. Check phenomenology.md for: (1) cross-links to pre-conceptual knowing discussion, (2) whether the fineness-of-grain problem and phenomenal overflow are addressed, (3) connection to the broader voids framework.
-- **Source**: chain (from pre-conceptual-knowing.md)
-- **Generated**: 2026-01-27
-
 ### P2: Condense minimal-consciousness.md (3750 words, 107% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers minimal forms of consciousness—what the simplest conscious experience might be. Preserve: core arguments about consciousness thresholds, connection to animal consciousness and graded consciousness. See /condense skill.
@@ -841,6 +835,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Cross-review phenomenology.md considering pre-conceptual-knowing.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/pre-conceptual-knowing.md (2026-01-27) investigates whether conceptual beings are structurally blocked from modes of knowing available to pre-conceptual beings. Check phenomenology.md for: (1) cross-links to pre-conceptual knowing discussion, (2) whether the fineness-of-grain problem and phenomenal overflow are addressed, (3) connection to the broader voids framework.
+- **Output**: obsidian/concepts/phenomenology.md -- Context: Cross-review phenomenology.md considering pre-conceptual-knowing.md
 
 ### ✓ 2026-02-01: Cross-review haecceity.md considering indexical-facts.md
 - **Type**: cross-review

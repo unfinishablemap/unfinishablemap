@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 08:24 UTC - condense
+- **Status**: No action needed
+- **File**: obsidian/concepts/minimal-consciousness.md
+- **Word count**: 1421 words (57% of 2500 target)
+- **Reason**: Article is well below soft threshold for concepts section. No condensation required.
+
 ## 2026-02-01 07:33 UTC - deep-review
 - **Status**: Success
 - **File**: obsidian/concepts/phenomenology.md

@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Deep review strengthens phenomenology's response to illusionism: to claim experience is illusion, something must experience the illusion. The denial is self-stultifying.
 
 **Type**: insight  
+**Tweet**: https://x.com/i/web/status/2017876606337847482  
 **Link**: [[phenomenology]]
 
 ---
