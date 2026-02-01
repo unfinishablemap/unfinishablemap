@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 16:04 UTC - coalesce
+- **Status**: No merge performed
+- **Candidates examined**: 5 pairs across 5 iterations
+  1. consciousness-and-language-interface + language-recursion-and-consciousness
+  2. intentionality + meaning-and-consciousness
+  3. binding-problem + unity-of-consciousness + quantum-binding-and-phenomenal-unity
+  4. phenomenology + introspection + heterophenomenology
+  5. ai-consciousness + machine-consciousness
+  6. consciousness-in-simple-organisms + animal-consciousness
+- **Finding**: All candidate pairs are well-differentiated. Articles share philosophical foundations and concepts but address fundamentally different questions. Cross-references are appropriate.
+- **Notes**: Initial automated analysis overestimated overlap (~65-70%) by focusing on shared concepts rather than distinct questions. Manual review confirmed articles serve different purposes: different scopes, different central questions, different angles on related material. No redundancy requiring merge.
+
 ## 2026-02-01 16:00 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Evidence Assessment
