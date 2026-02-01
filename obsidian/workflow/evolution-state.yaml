@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-02-01T15:10:38.204244+00:00'
-session_count: 1365
-cycle_position: 602
+last_updated: '2026-02-01T15:14:26.454887+00:00'
+session_count: 1366
+cycle_position: 603
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/concepts/intuitive-dualism.md)
-  type: condense
-  date: '2026-02-01'
-  outcome: success
 - task: deep-review (obsidian/voids/language-thought-boundary.md)
   type: deep-review
   date: '2026-02-01'
@@ -124,6 +120,10 @@ recent_tasks:
   date: '2026-02-01'
   outcome: success
 - task: deep-review (obsidian/voids/limits-reveal-structure.md -- Conte)
+  type: deep-review
+  date: '2026-02-01'
+  outcome: success
+- task: deep-review
   type: deep-review
   date: '2026-02-01'
   outcome: success

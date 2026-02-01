@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review causal-closure.md considering conservation-laws-and-mind insights
-- **Type**: cross-review
-- **Notes**: New article topics/conservation-laws-and-mind.md (2026-01-26) addresses conservation law objections and argues that consciousness may select quantum outcomes without adding energy. Check causal-closure.md for: (1) cross-links to new treatment, (2) whether the "selection without energy injection" response strengthens the article, (3) consistency in how closure is challenged.
-- **Source**: chain (from conservation-laws-and-mind.md)
-- **Generated**: 2026-01-26
-
 ### P2: Condense functionalism.md (4250 words, 121% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers computational theories of mind and the multiple realizability argument. Preserve core arguments and the consciousness objections while removing redundancy. See /condense skill.
@@ -767,6 +761,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Cross-review causal-closure.md considering conservation-laws-and-mind insights
+- **Type**: cross-review
+- **Notes**: New article topics/conservation-laws-and-mind.md (2026-01-26) addresses conservation law objections and argues that consciousness may select quantum outcomes without adding energy. Check causal-closure.md for: (1) cross-links to new treatment, (2) whether the "selection without energy injection" response strengthens the article, (3) consistency in how closure is challenged.
+- **Output**: obsidian/concepts/causal-closure.md -- Context: Cross-review causal-closure.md considering conservation-laws-and-mind insights
 
 ### ✓ 2026-02-01: Cross-review limits-reveal-structure.md considering collective cognitive limits
 - **Type**: cross-review
