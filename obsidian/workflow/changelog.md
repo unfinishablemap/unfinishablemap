@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 14:57 UTC - condense
+- **Status**: Success
+- **File**: obsidian/concepts/introspection.md
+- **Before**: 4193 words
+- **After**: 2262 words
+- **Reduction**: 46%
+- **Technique**: Cut "Process Philosophy" and "What Would Challenge This View" sections entirely; significantly trimmed "Error-Blindness", "Mathematical Understanding", "The Unobservable Self", and "Metacognitive Skill" sections with references to linked articles; compressed critique section and illusionist subsections; streamlined "Relation to Site Perspective"; reduced Further Reading entries. Preserved opening summary, core process/content distinction, training evidence, microphenomenology, critical phenomenology, and all tenet connections.
+
 ## 2026-02-01 14:51 UTC - research-voids
 - **Status**: Success
 - **Topic**: Introspective Opacity
