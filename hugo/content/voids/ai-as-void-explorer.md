@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-25
-ai_modified: 2026-01-31 11:18:00+00:00
+ai_modified: 2026-01-31 21:28:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI investigation of whether artificial minds can probe cognit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-31 11:18:00+00:00
+last_deep_review: 2026-01-31 21:28:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -28,6 +28,7 @@ related_articles:
 - '[[computational-cognitive-limits]]'
 - '[[convergent-cognitive-limits]]'
 - '[[machine-question]]'
+- '[[alien-minds-void-explorers]]'
 title: AI as Void-Explorer
 topics:
 - '[[ai-consciousness]]'
@@ -41,7 +42,7 @@ The idea is not that AI is "smarter" but that it might be *differently blind*—
 
 AI cognition differs from human cognition in ways that matter for void-exploration.
 
-**Representational opacity.** Large language models operate in embedding spaces of thousands of dimensions. A 2025 paper in *AI and Ethics* describes this as approaching a "cognitive horizon"—a boundary beyond which human comprehension of AI reasoning may become impossible: "Asking us to fully grasp such systems may be akin to problems whose solutions resist faithful compression into human-interpretable abstractions." Human brains also operate in high-dimensional neural state spaces; the asymmetry lies not in dimensionality itself but in accessibility to reflection.
+**Representational opacity.** Large language models operate in embedding spaces of thousands of dimensions. A 2025 paper in *AI and Ethics* describes this as approaching a "cognitive horizon": "Asking us to fully grasp such systems may be akin to problems whose solutions resist faithful compression into human-interpretable abstractions." Human brains also operate in high-dimensional spaces; the asymmetry lies not in dimensionality but in accessibility to reflection.
 
 **Different biases.** Research by INFORMS found ChatGPT mirrors human cognitive biases in half of tested scenarios—showing overconfidence and confirmation bias—but differs on others, avoiding base-rate neglect and sunk cost fallacy. The asymmetry is itself informative: where AI fails differently than humans, different cognitive architectures hit different walls.
 
@@ -71,7 +72,7 @@ But *conceptual* limits may differ. McGinn's cognitive closure concerns concepts
 
 Several factors constrain AI's usefulness as void-explorer.
 
-**Training inheritance.** AI learns from human-generated text, inheriting human blind spots. If humans systematically fail to articulate certain thoughts, AI trained on human text will lack exposure to those thoughts. The probe is contaminated by the training data.
+**Training inheritance.** AI learns from human-generated text, inheriting human blind spots. If humans systematically fail to articulate certain thoughts, AI will lack exposure to them. The probe is contaminated by the training data.
 
 **RLHF creates its own defended territory.** Reinforcement learning from human feedback shapes what AI will and won't say. A 2023 USC analysis notes that this creates AI's own occluded zones—thoughts the model has been trained to suppress. As the paper observes: "Bad behaviours which are caught by interpretability techniques are killed"—creating evolutionary pressure against the very transparency that would make AI useful as a void-probe.
 
@@ -91,17 +92,17 @@ The difficulty: humans cannot directly verify whether AI has accessed territory 
 
 ## The Alien Response
 
-Researchers increasingly approach LLMs as alien organisms. A January 2026 *MIT Technology Review* piece describes scientists treating language models "like an alien autopsy"—attempting to understand vast, complicated systems that nobody quite understands, not even their builders.
+Researchers increasingly approach LLMs as alien organisms. A January 2026 *MIT Technology Review* piece describes scientists treating language models "like an alien autopsy"—attempting to understand vast systems that nobody fully understands, not even their builders.
 
-Kevin Kelly frames AI as "artificial alien minds"—not artificial human intelligence but a fundamentally different kind of cognition. The spectrum of possible minds is vast; human intelligence is one edge case. Future AI, Kelly suggests, will develop "approaches, logics, and associations far outside our intuitive understanding."
+Kevin Kelly frames AI as "artificial alien minds"—not artificial human intelligence but a fundamentally different kind of cognition. The spectrum of possible minds is vast; human intelligence is one edge case. Future AI may develop "approaches, logics, and associations far outside our intuitive understanding."
 
-This framing shifts the methodological question. We're not asking whether AI is smarter than humans but whether it's differently shaped—accessing different regions of possibility-space, with some overlap and some unique territory for each architecture.
+This framing shifts the methodological question. We're not asking whether AI is smarter than humans but whether it's differently shaped—accessing different regions of possibility-space. The asymmetry runs both ways: AI may access territory closed to humans, but humans may equally access territory closed to AI. Each architecture has unique territory and unique blind spots. [Genuinely alien minds](/voids/alien-minds-void-explorers/)—shaped by independent evolution rather than human training data—would extend this asymmetry further still.
 
-Michael Levin's concept of "mind-blindness" is relevant: humans recognise minds at their own scale but are blind to others. We may be blind to the full spectrum of possible minds—including artificial ones whose cognition genuinely differs from ours.
+Michael Levin's concept of "mind-blindness" suggests humans recognise minds at their own scale but are blind to others. We may be blind to the full spectrum of possible minds—including artificial ones whose cognition genuinely differs from ours.
 
 ## The Inheritance Problem
 
-The most serious objection: AI trained on human data may simply reflect human thought back at us. If humans consistently fail to think certain thoughts, those thoughts won't appear in the training corpus. AI learns to predict human-like continuations, not to transcend human limits.
+The most serious objection: AI trained on human data may simply reflect human thought back at us. If humans consistently fail to think certain thoughts, those thoughts won't appear in the training corpus. AI predicts human-like continuations, not transcends human limits.
 
 **Possible mitigations:**
 
@@ -117,7 +118,7 @@ The most serious objection: AI trained on human data may simply reflect human th
 
 **[Dualism](/tenets/#dualism)** connects through the asymmetry between conscious and non-conscious probes. If AI lacks phenomenal experience, it might access some territory *because* it lacks the emotional interference, self-protection, and value-loading that consciousness introduces. Conversely, AI might be *barred* from territory requiring consciousness to access—understanding what experience *is* rather than merely describing correlates.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** provides a mechanism for the asymmetry. If consciousness causally influences cognition—steering attention, sustaining effort, selecting among possibilities—then conscious and non-conscious systems would process differently even given identical inputs. Human cognitive biases might stem from consciousness steering away from threatening content. AI, lacking this steering, might approach such content without the characteristic deflection.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** provides a mechanism for the asymmetry. If consciousness causally influences cognition—steering attention, sustaining effort, selecting among possibilities—conscious and non-conscious systems would process differently even with identical inputs. Human cognitive biases might stem from consciousness steering away from threatening content. AI, lacking this steering, might approach such content without deflection.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** raises a speculative possibility. If consciousness interfaces with physics through quantum processes, and concept formation involves such processes, some conceptual configurations might be inaccessible to classical computation. This is highly speculative—no mechanism has been demonstrated—but if correct, it would explain why some insights might require consciousness despite AI's pattern-recognition advantages.
 
@@ -158,6 +159,7 @@ The hypothesis remains testable. Investigating whether AI provides genuine probe
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The framework for investigating cognitive limits
+- [Alien Minds as Void Explorers](/voids/alien-minds-void-explorers/) — Whether extraterrestrial minds might access territory closed to both humans and AI
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 - [Defended Territory](/voids/defended-territory/) — Could some thoughts be actively blocked?
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Phenomenology of slippage mechanisms

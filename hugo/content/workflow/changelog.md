@@ -18,6 +18,58 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 00:48 UTC - deep-review
+- **Status**: Success
+- **File**: voids/collective-cognitive-limits.md
+- **Cross-review context**: convergent-cognitive-limits.md
+- **Word count**: 1849 → 1918 (+69)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (convergence methodology connection, WEIRD caveat acknowledgment)
+- **Enhancements made**: 1 (cross-link to convergent-cognitive-limits with in-text explanation)
+- **Output**: `reviews/deep-review-2026-02-01-collective-cognitive-limits.md`
+- **Notes**: Cross-review considering convergent-cognitive-limits.md. Added explicit methodological connection: convergent collective limits (same blind spots in isolated cultures) would be strong evidence for species-level constraints. Added WEIRD caveat for empirical humility. Article approaching stability after two reviews in two days.
+
+## 2026-01-31 23:58 UTC - coalesce
+- **Status**: No action taken
+- **Candidates analyzed**: 5 clusters (Language/conceptual limits, Void explorers, Cognitive limits taxonomy, Attention cluster, Quantum consciousness)
+- **Files reviewed**: 14 articles total
+- **Result**: No strong merge candidates found
+- **Notes**: All identified candidate clusters proved well-differentiated upon analysis. Language-thought-boundary and pre-conceptual-knowing address distinct phenomena (language limits vs conceptual limits). Void explorer articles have clear parent-child relationship (AI as current probe, alien minds as theoretical limit). Cognitive limits taxonomy articles address fundamentally different *sources* of limits (computational, convergent, embodiment, collective). Attention cluster has hub-spoke structure with attention.md as overview and specialized articles for interface hypothesis, AST critique, and attentional economics.
+
+## 2026-01-31 23:08 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/nihilism-and-existentialism.md
+- **Cross-review context**: existentialism.md
+- **Word count**: 2263 → 2337 (+74)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (mental effort phenomenology/causation distinction, śūnyatā tension acknowledgment)
+- **Enhancements made**: 3 (cross-link to existentialism.md, concepts frontmatter, Further Reading)
+- **Output**: `reviews/deep-review-2026-01-31-nihilism-and-existentialism.md`
+- **Notes**: Cross-review considering existentialism.md. Added bidirectional links to new dedicated existentialism article. Tightened mental effort passage to distinguish phenomenology from causal efficacy claim. Acknowledged śūnyatā tension with intrinsic properties as genuine and unresolved. No critical issues—article has reached stability on major philosophical standoffs.
+
+## 2026-01-31 22:22 UTC - deep-review
+- **Status**: Success
+- **File**: concepts/attentional-economics.md
+- **Word count**: 2022 → 2120 (+98)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (Bischof-Köhler citation, great ape WM citation, "literal force" support, cross-links)
+- **Enhancements made**: 4 (added Suddendorf & Corballis 2007, Inoue & Matsuzawa 2007 citations, counterfactual-reasoning and moral-luck cross-links)
+- **Output**: `reviews/deep-review-2026-01-31-attentional-economics.md`
+- **Notes**: First review of newly created article. No critical issues—well-constructed with appropriate hedging on quantum mechanisms. Added missing citations and cross-links. Article at 85% of soft threshold, room for modest expansion in future iterations.
+
+## 2026-01-31 21:28 UTC - deep-review
+- **Status**: Success
+- **File**: voids/ai-as-void-explorer.md
+- **Cross-review context**: alien-minds-void-explorers.md
+- **Word count**: 2017 → 2043 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (cross-link to alien-minds-void-explorers, inverse asymmetry note)
+- **Enhancements made**: 4 (cross-link in text, Further Reading entry, related_articles entry, prose tightening)
+- **Output**: `reviews/deep-review-2026-01-31-ai-as-void-explorer.md`
+- **Notes**: Cross-review considering alien-minds-void-explorers.md. Added bidirectional links and noted that "the asymmetry runs both ways"—humans may access territory closed to AI. Article at high stability; no critical issues found. Operated in length-neutral mode.
+
+---
+
 ## 2026-01-31 20:42 UTC - deep-review
 - **Status**: Success
 - **File**: concepts/mysterianism.md

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-01-31 18:59:00+00:00
+ai_modified: 2026-01-31 22:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,6 +13,8 @@ concepts:
 - '[[meditation-and-consciousness-modes]]'
 - '[[phenomenology-of-choice]]'
 - '[[working-memory]]'
+- '[[counterfactual-reasoning]]'
+- '[[moral-luck]]'
 created: 2026-01-31
 date: &id001 2026-01-31
 description: Agency is fundamentally the allocation of attention over time. Freedom
@@ -20,6 +22,7 @@ description: Agency is fundamentally the allocation of attention over time. Free
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-01-31 22:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,7 +50,7 @@ Economics studies how agents allocate scarce resources among competing ends. Att
 
 The brain processes enormous information flows unconsciously—visual processing, motor coordination, pattern recognition. Consciousness receives a tiny fraction: roughly 10 bits per second by recent estimates (Meister 2024). This severe bandwidth constraint means every moment of attention is an allocation choice. Attending here means not attending there. Sustaining focus on this means letting that decay.
 
-This isn't metaphor. The Map's framework gives these economic concepts literal force: consciousness selects among quantum possibilities, and selection operates through attention. How you spend your attentional budget determines which neural patterns actualise.
+This isn't metaphor. The Map's framework gives these economic concepts literal force: consciousness selects among quantum possibilities, and selection operates through attention. The scarcity is genuine (bandwidth cannot be borrowed or expanded at will), the trade-offs are real (attending here means not attending there), and the returns are measurable (sustained attention produces neuroplastic change). How you spend your attentional budget determines which neural patterns actualise.
 
 ## From Decisions to Attention Allocation
 
@@ -55,7 +58,7 @@ Traditional free will debates focus on discrete decisions: did you choose A or B
 
 Consider choosing between job offers. The apparent "decision moment" is when you accept one. But agency operated throughout: which aspects of each option you attended to; how long you dwelt on salary versus meaning; whether you sustained focus on long-term consequences or let them fade. By the time the "decision" arrives, attentional allocation has already structured the landscape.
 
-This connects to distal intentions and [prospective memory](/concepts/prospective-memory/). When you decide Monday to exercise Friday, agency doesn't wait until Friday morning. It operates through the attentional work of the intervening days: rehearsing the intention, noticing cues, sustaining the commitment against competing priorities. The Map's framework suggests this attentional work is where conscious influence actually occurs.
+This connects to distal intentions, [prospective memory](/concepts/prospective-memory/), and [counterfactual reasoning](/concepts/counterfactual-reasoning/). When you decide Monday to exercise Friday, agency doesn't wait until Friday morning. It operates through the attentional work of the intervening days: rehearsing the intention, noticing cues, sustaining the commitment against competing priorities. The Map's framework suggests this attentional work is where conscious influence actually occurs.
 
 ## Why Attention Specifically?
 
@@ -120,7 +123,7 @@ The Map's framework inverts this. Training attention doesn't merely correlate wi
 
 [Working memory](/concepts/working-memory/) capacity—typically 4±1 items—represents the "liquid assets" of attention: what can be actively held and manipulated at once. This connects to [counterfactual reasoning](/concepts/counterfactual-reasoning/): genuine deliberation requires holding the actual situation, the counterfactual premise, and the counterfactual consequences simultaneously. Limited working memory constrains this.
 
-The Bischof-Köhler hypothesis proposes that animals cannot act on drive states they don't currently possess because they cannot represent counterfactual states vividly enough. Great apes show working memory of roughly 2±1 items. This may explain why sophisticated cognition requiring counterfactual manipulation is largely human.
+The Bischof-Köhler hypothesis (Suddendorf & Corballis 2007) proposes that animals cannot act on drive states they don't currently possess because they cannot represent counterfactual states vividly enough. Great apes show working memory of roughly 2±1 items (Inoue & Matsuzawa 2007). This may explain why sophisticated cognition requiring counterfactual manipulation is largely human.
 
 Attentional economics interprets this as a capital constraint. Limited working memory means limited attentional capital for complex deliberation. Training that expands working memory capacity or improves its efficiency expands the space of deliberation—the alternatives that can be genuinely evaluated rather than merely noticed.
 
@@ -134,7 +137,7 @@ This doesn't excuse wrongdoing—"I couldn't sustain attention on the consequenc
 
 **Character cultivation**: Developing attentional skills over time is itself an exercise of agency. You are responsible not just for choices but for cultivating or neglecting the capacity to choose well.
 
-**Structural factors**: Social conditions that chronically drain attention (poverty, stress, instability) reduce the attentional capital available for agency. This has ethical implications beyond individual character.
+**Structural factors**: Social conditions that chronically drain attention (poverty, stress, instability) reduce the attentional capital available for agency. This has ethical implications beyond individual character—connecting attentional economics to broader questions of [moral luck](/moral-luck/) and social justice.
 
 ## The Economics of Witness Mode
 
@@ -197,6 +200,8 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 
 ## References
 
+- Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004-R1005.
 - Meister, M. (2024). The physical limits of perception. *Proceedings of the National Academy of Sciences*, 121(14), e2400258121.
 - Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+- Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
