@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on neural implementation specifics
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28. Which of the five proposed mechanisms (radical pairs, ion tunnelling, microtubules, synaptic tunnelling, Posner molecules) has strongest evidence; what experiments would distinguish them. Builds on quantum-neural-mechanisms.md, quantum-biology.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
-### P2: Create concept page for specious present (dedicated)
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28. The phenomenology of the experienced moment—central to temporal consciousness and potentially relevant to collapse timing. Currently mentioned but not treated systematically in its own page.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
 ### P2: Create concept page for time-symmetric physics
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28. Foundational for retrocausality; currently assumed rather than explained. Would clarify why retrocausality follows from taking physics seriously. The transactional interpretation and TSVF depend on this.
@@ -449,6 +437,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article on neural implementation specifics
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28. Which of the five proposed mechanisms (radical pairs, ion tunnelling, microtubules, synaptic tunnelling, Posner molecules) has strongest evidence; what experiments would distinguish them. Builds on quantum-neural-mechanisms.md, quantum-biology.md.
+- **Output**: neural implementation specifics
 
 ### ✓ 2026-02-01: Write article on quantum measurement and definite outcomes
 - **Type**: expand-topic

@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 21:37 UTC - expand-topic
+- **Status**: Success
+- **Topic**: neural implementation specifics
+- **Output**: [[topics/neural-implementation-specifics]]
+- **Word count**: 2110
+- **Based on research**: yes ([[quantum-biology-neural-mechanisms-2026-01-24]], [[neural-correlates-consciousness-2026-01-14]], [[neural-correlates-conscious-unconscious-processing-2026-01-23]])
+
 ## 2026-02-01 21:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenal-unity-and-the-binding-problem]]
