@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 14:29 UTC - coalesce
+- **Status**: No action taken
+- **Sources examined**: Multiple candidate groups across topics/, concepts/, voids/
+- **Outcome**: No suitable coalesce candidates found
+- **Analysis**:
+  - Group 1 (Time articles): time-collapse-and-agency, presentiment-and-retrocausality, time-perception-consciousness-theories — well-differentiated (constructive framework vs diagnostic vs boundary-setting)
+  - Group 2 (Dualism variants): interactionist-dualism, substance-property-dualism, mind-brain-separation — distinct questions (causal relationship vs ontology vs empirical division)
+  - Group 3 (Quantum coherence): quantum-coherence-protection, quantum-decoherence-objection, quantum-neural-mechanisms, neural-quantum-coherence — designed to work together with explicit cross-references
+  - Void explorers: ai-as-void-explorer, alien-minds-void-explorers — complementary (AI actual vs Alien theoretical)
+- **Notes**: Site content is well-curated. Articles with thematic overlap maintain distinct purposes and explicit cross-references.
+
 ## 2026-02-01 14:24 UTC - deep-review
 - **Status**: Success
 - **File**: obsidian/voids/conceptual-impossibility.md
