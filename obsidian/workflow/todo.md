@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on phenomenological evidence methodology
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). The site's use of first-person evidence deserves methodological treatment—what makes contemplative reports reliable, how to handle cross-tradition convergence, relationship to Varela's neurophenomenology. Builds on contemplative-evidence-for-consciousness-theories.md, witness-consciousness.md, neurophenomenology.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
 ### P2: Create concept page for phenomenal overflow
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). Block's overflow research appears in multiple articles but lacks dedicated systematic treatment. Central to the access/phenomenal consciousness distinction.
@@ -419,6 +413,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article on phenomenological evidence methodology
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). The site's use of first-person evidence deserves methodological treatment—what makes contemplative reports reliable, how to handle cross-tradition convergence, relationship to Varela's neurophenomenology. Builds on contemplative-evidence-for-consciousness-theories.md, witness-consciousness.md, neurophenomenology.md.
+- **Output**: phenomenological evidence methodology
 
 ### ✓ 2026-02-01: Write article on consciousness and meaning integration
 - **Type**: expand-topic
