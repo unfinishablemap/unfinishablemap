@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
-- **Type**: cross-review
-- **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) develops evidence for cross-cultural universal cognitive limits (bias blind spot, mystical experiences). The collective-cognitive-limits.md article covers group-level limits (paradigm blindness, Overton windows). Check for: (1) cross-links between individual-universal and group-level limits, (2) whether convergent limits strengthen the case that some voids are species-level rather than cultural, (3) opportunities to distinguish group dynamics from individual architecture.
-- **Source**: chain (from convergent-cognitive-limits.md)
-- **Generated**: 2026-01-28
-
 ### P2: Cross-review meditation-and-consciousness-modes.md considering contemplative evidence
 - **Type**: cross-review
 - **Notes**: New article topics/contemplative-evidence-for-consciousness-theories.md (2026-01-27) develops contemplative phenomenology as evidence for consciousness theories. The meditation-and-consciousness-modes.md article discusses meditation states. Check for: (1) cross-links to the systematic contemplative evidence treatment, (2) consistency between state descriptions, (3) whether the new article's theoretical framing enriches the meditation modes treatment.
@@ -870,6 +864,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
+- **Type**: cross-review
+- **Notes**: New voids article voids/convergent-cognitive-limits.md (2026-01-28) develops evidence for cross-cultural universal cognitive limits (bias blind spot, mystical experiences). The collective-cognitive-limits.md article covers group-level limits (paradigm blindness, Overton windows). Check for: (1) cross-links between individual-universal and group-level limits, (2) whether convergent limits strengthen the case that some voids are species-level rather than cultural, (3) opportunities to distinguish group dynamics from individual architecture.
+- **Output**: obsidian/voids/collective-cognitive-limits.md -- Context: Cross-review collective-cognitive-limits.md considering convergent-cognitive-limits.md
 
 ### ✓ 2026-01-31: Cross-review nihilism-and-existentialism.md considering existentialism.md
 - **Type**: cross-review
