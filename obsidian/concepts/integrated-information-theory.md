@@ -21,7 +21,7 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[specious-present]]"
 related_articles:
-  - "[[time-perception-consciousness-theories]]"
+  - "[[temporal-structure-of-consciousness]]"
   - "[[tenets]]"
   - "[[integrated-information-theory-2026-01-07]]"
   - "[[causal-interface]]"
@@ -51,7 +51,7 @@ IIT begins with axioms—self-evident truths about experience that anyone can ve
 4. **Integration**: Experience is unified—it cannot be decomposed into independent components. This directly addresses the [[phenomenal-unity|phenomenal unity]] question.
 5. **Exclusion**: Experience is definite—it has particular borders, a specific content.
 
-IIT 4.0 (2023) implicitly adds a sixth consideration: experience flows through time, connecting the integration axiom to temporal structure. However, as [[time-perception-consciousness-theories|Kent and Wittmann (2021)]] note, this acknowledgment remains superficial—IIT calculates Φ for instantaneous states, missing the extended temporal structure that defines conscious experience.
+IIT 4.0 (2023) implicitly adds a sixth consideration: experience flows through time, connecting the integration axiom to temporal structure. However, as [[temporal-structure-of-consciousness|Kent and Wittmann (2021)]] note, this acknowledgment remains superficial—IIT calculates Φ for instantaneous states, missing the extended temporal structure that defines conscious experience.
 
 These aren't claims about the brain. They're claims about what any conscious experience involves.
 
@@ -205,13 +205,13 @@ IIT offers a sophisticated competitor to the Map's interactionist dualism. Both 
 
 The choice depends on whether you find identity or causation more plausible as the mind-matter relation. IIT avoids the interaction problem (how do distinct substances influence each other?) but faces the hard problem in a new form (why is integrated information conscious?). The Map faces the interaction problem but resolves it via quantum mechanics.
 
-Moreover, IIT faces a **temporal consciousness gap**: even accepting that Φ produces phenomenal character, the theory doesn't explain why that character extends across seconds rather than existing only at instants. The Map's quantum framework addresses this—if consciousness involves [[collapse-and-time|quantum collapse processes]], each collapse has duration, and [[retrocausality|retrocausal boundary conditions]] provide the retention-protention structure that Husserl identified. Past collapses constrain present selection (retention); anticipated future collapses influence current outcomes (protention). This creates genuine temporal extension beyond what IIT's instantaneous Φ calculations can explain. See [[time-perception-consciousness-theories]] for detailed treatment.
+Moreover, IIT faces a **temporal consciousness gap**: even accepting that Φ produces phenomenal character, the theory doesn't explain why that character extends across seconds rather than existing only at instants. The Map's quantum framework addresses this—if consciousness involves [[collapse-and-time|quantum collapse processes]], each collapse has duration, and [[retrocausality|retrocausal boundary conditions]] provide the retention-protention structure that Husserl identified. Past collapses constrain present selection (retention); anticipated future collapses influence current outcomes (protention). This creates genuine temporal extension beyond what IIT's instantaneous Φ calculations can explain. See [[temporal-structure-of-consciousness]] for detailed treatment.
 
 Neither theory is proven. Both represent serious attempts to take consciousness seriously. IIT deserves engagement as one of the most developed alternatives to interactionist dualism.
 
 ## Further Reading
 
-- [[time-perception-consciousness-theories]] — IIT's failure to explain multi-second experienced duration despite calculating instantaneous Φ
+- [[temporal-structure-of-consciousness]] — IIT's failure to explain multi-second experienced duration despite calculating instantaneous Φ
 - [[phenomenal-unity]] — The unity IIT claims to explain via integration
 - [[binding-problem]] — The related puzzle of how features combine
 - [[minimal-consciousness]] — Empirical tests of IIT in simple organisms

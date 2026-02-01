@@ -29,6 +29,11 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
+archived: true
+archived_date: 2026-02-01T21:10:00+00:00
+superseded_by: "/topics/temporal-structure-of-consciousness/"
+archive_reason: "Coalesced into Temporal Structure of Consciousness"
+original_path: "/topics/phenomenology-of-temporal-agency/"
 ---
 
 Agency doesn't happen in an instant. It unfolds through time with a distinctive phenomenal character that shapes what choosing actually feels like. The future feels open in a way the past does not. Deliberation has temporal texture—weighing options takes time, and that taking-time is part of the experience. The moment of decision has a quality of arrival, of possibility narrowing into actuality. These temporal features of agency aren't incidental; they may be constitutive of what it means to choose.

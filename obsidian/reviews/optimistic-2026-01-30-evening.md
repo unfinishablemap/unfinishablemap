@@ -163,7 +163,7 @@ The tripartite taxonomy (Unexplored, Unexplorable, Occluded) is philosophically 
 | [[authentic-vs-inauthentic-choice]] | [[agent-causation]] | Authenticity engages genuine agent causation |
 | [[consciousness-only-territories]] | [[knowledge-argument]] | Mary's Room as paradigm case of consciousness-only territory |
 | [[pre-conceptual-knowing]] | [[phenomenology]] | Fineness-of-grain problem connects to pre-conceptual access |
-| [[time-perception-consciousness-theories]] | [[temporal-consciousness]] | Both address specious present; unify treatment |
+| [[temporal-structure-of-consciousness]] | [[temporal-consciousness]] | Both address specious present; the former is the comprehensive topic article |
 | [[quantum-biology-and-the-consciousness-debate]] | [[decoherence]] | Recent evidence directly addresses decoherence objection |
 | [[contemplative-evidence-for-consciousness-theories]] | [[neurophenomenology]] | Both argue first-person data has scientific value |
 | [[vertiginous-question]] | [[indexical-facts]] | Vertiginous question is paradigm case of indexical irreducibility |

@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 21:10 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/philosophy-of-time-and-consciousness]], [[topics/philosophy-of-temporal-experience]], [[topics/time-perception-consciousness-theories]], [[topics/phenomenology-of-temporal-agency]]
+- **Target**: [[topics/temporal-structure-of-consciousness]]
+- **Archived**: [[archive/topics/philosophy-of-time-and-consciousness]], [[archive/topics/philosophy-of-temporal-experience]], [[archive/topics/time-perception-consciousness-theories]], [[archive/topics/phenomenology-of-temporal-agency]]
+- **References to review**: 5 (integrated-information-theory, integrated-information-theory-critique, consciousness-time-perception-2026-01-14, optimistic-2026-01-30-evening, deep-review-2026-02-01-philosophy-of-time-and-consciousness)
+- **Word count**: ~4800 (unified) from ~8500 (4 articles combined)
+
 ## 2026-02-01 21:05 UTC - expand-topic
 - **Status**: Skipped (already exists)
 - **Topic**: baseline-cognition

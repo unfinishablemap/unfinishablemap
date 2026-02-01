@@ -20,7 +20,7 @@ concepts:
   - "[[functionalism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[time-perception-consciousness-theories]]"
+  - "[[temporal-structure-of-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -114,7 +114,7 @@ The Map chooses interaction because epiphenomenalism—even the sophisticated ve
 - [[integrated-information-theory]] — The concept page explaining IIT in detail
 - [[epiphenomenalism]] — The passive consciousness view IIT resembles
 - [[interactionist-dualism]] — The Map's alternative framework
-- [[time-perception-consciousness-theories]] — Why temporal consciousness matters
+- [[temporal-structure-of-consciousness]] — Why temporal consciousness matters
 - [[hard-problem-of-consciousness]] — The puzzle both IIT and the Map address
 - [[tenets]] — The Map's foundational commitments
 

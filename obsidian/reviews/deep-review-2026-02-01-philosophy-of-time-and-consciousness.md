@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-02-01
-**Article**: [[philosophy-of-time-and-consciousness|Philosophy of Time and Consciousness]]
+**Article**: [[temporal-structure-of-consciousness|Temporal Structure of Consciousness]] (formerly Philosophy of Time and Consciousness)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -68,7 +68,7 @@ None. The article has no factual errors, attribution problems, or missing requir
 
 None needed. The article already has extensive cross-linking to related Map content:
 - [[temporal-consciousness]], [[philosophy-of-time]], [[time-collapse-and-agency]]
-- [[time-perception-consciousness-theories]], [[duration]], [[specious-present]]
+- [[temporal-structure-of-consciousness]], [[duration]], [[specious-present]]
 - [[collapse-and-time]], [[free-will]], [[hard-problem-of-consciousness]]
 
 ## Remaining Items

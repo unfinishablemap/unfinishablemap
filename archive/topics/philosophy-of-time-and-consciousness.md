@@ -27,6 +27,11 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
+archived: true
+archived_date: 2026-02-01T21:10:00+00:00
+superseded_by: "/topics/temporal-structure-of-consciousness/"
+archive_reason: "Coalesced into Temporal Structure of Consciousness"
+original_path: "/topics/philosophy-of-time-and-consciousness/"
 ---
 
 Consciousness and time depend on each other in ways that resist simple explanation. Consciousness requires temporal structure—experience flows, moments connect, the present has duration. But time's direction may require consciousness—the arrow distinguishing past from future may emerge through conscious observation. The Unfinishable Map explores both directions of this relationship, finding that neither consciousness nor time can be understood without the other.

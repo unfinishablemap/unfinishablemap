@@ -30,6 +30,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated:
 last_deep_review: 2026-01-25T09:45:00+00:00
+archived: true
+archived_date: 2026-02-01T21:10:00+00:00
+superseded_by: "/topics/temporal-structure-of-consciousness/"
+archive_reason: "Coalesced into Temporal Structure of Consciousness"
+original_path: "/topics/time-perception-consciousness-theories/"
 ---
 
 Major theories of consciousness focus almost exclusively on explaining brief "functional moments"—neural processing windows lasting 100 to 300 milliseconds. Yet human experience spans seconds, not mere instants. We hear melodies unfold, watch conversations develop, feel the flow of thought itself. This mismatch between what consciousness theories explain (sub-300ms processing) and what consciousness actually involves (multi-second experienced duration) reveals a fundamental gap in materialist accounts. The failure to explain temporal phenomenology—how consciousness structures time experience—strengthens the case for dualism.

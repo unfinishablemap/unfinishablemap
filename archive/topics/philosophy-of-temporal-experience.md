@@ -29,6 +29,11 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
+archived: true
+archived_date: 2026-02-01T21:10:00+00:00
+superseded_by: "/topics/temporal-structure-of-consciousness/"
+archive_reason: "Coalesced into Temporal Structure of Consciousness"
+original_path: "/topics/philosophy-of-temporal-experience/"
 ---
 
 Time doesn't merely pass—it is *experienced*. The difference matters. Physics describes sequences of states; phenomenology reveals what it's like to live through those sequences. William James observed that consciousness "flows" rather than appearing "chopped up into bits." Husserl analysed how each moment retains the just-past while anticipating the about-to-come. Bergson argued that lived time—*durée*—differs fundamentally from the spatialized time of clocks and equations. These insights converge on a claim: temporal experience has structure that physical description cannot capture.
