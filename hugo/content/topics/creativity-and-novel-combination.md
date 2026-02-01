@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-01 16:12:00+00:00
+ai_modified: 2026-02-01 18:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,6 +21,7 @@ description: Consciousness enables novel combinations that escape baseline cogni
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-01 18:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,7 +55,7 @@ Research on [conscious versus unconscious processing](/archive/topics/conscious-
 
 ### Durable Information Maintenance
 
-Novel combination requires holding multiple elements in mind simultaneously. Chimpanzee [working-memory](/concepts/working-memory/) holds approximately 2±1 items; human working memory holds 7±2. This expansion enables qualitatively different operations: with 7 items, you can hold a goal, three approaches to it, and their comparative strengths while considering modifications.
+Novel combination requires holding multiple elements in mind simultaneously. Research on [working-memory](/concepts/working-memory/) reveals substantial differences between species. While Miller's classic "7±2" estimate has been revised downward—Cowan (2010) suggests 3-4 items for focused attention—humans still maintain significantly more than the 2±1 items typical of chimpanzee working memory. Even the conservative estimate enables qualitatively different operations: with 3-4 items held stably, you can represent a goal alongside alternative approaches and their comparative merits.
 
 Subliminal information decays within 500ms. Consciously accessed information persists for seconds to minutes. Creative combination requires the extended manipulation that only durable maintenance permits. You cannot combine elements that fade before combination completes.
 
@@ -204,6 +205,7 @@ None of these conditions currently obtains.
 
 - Bergson, H. (1907). *Creative Evolution*. (L'Évolution créatrice)
 - Boden, M. (1990). *The Creative Mind: Myths and Mechanisms*. Basic Books.
+- Cowan, N. (2010). The magical mystery four: How is working memory capacity limited, and why? *Current Directions in Psychological Science*, 19(1), 51-57.
 - Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
 - Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 - Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

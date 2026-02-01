@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-01 18:00:00+00:00
+ai_modified: 2026-02-01 18:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -17,6 +17,76 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-02-01 18:33 UTC - expand-topic
+- **Status**: Success
+- **Topic**: phenomenal unity deep dive
+- **Output**: [why-phenomenal-unity-resists-explanation](/topics/why-phenomenal-unity-resists-explanation/)
+- **Word count**: 2590
+- **Based on research**: no (builds on existing articles: phenomenal-unity.md, quantum-binding-and-phenomenal-unity.md, binding-problem.md)
+
+## 2026-02-01 18:30 UTC - expand-topic
+- **Status**: Success
+- **Topic**: cognitive closure (McGinn)
+- **Output**: [cognitive-closure](/concepts/cognitive-closure/)
+- **Word count**: 1270
+- **Based on research**: yes, [mysterianism-cognitive-closure-2026-01-14](/research/mysterianism-cognitive-closure-2026-01-14/)
+
+## 2026-02-01 18:26 UTC - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-time-and-consciousness](/topics/philosophy-of-time-and-consciousness/)
+- **Word count**: 1798 -> 1933 (+135)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (expanded Libet response, tempered contemplative evidence claims, engaged with MWI account of time)
+- **Output**: [deep-review-2026-02-01-philosophy-of-time-and-consciousness](/reviews/deep-review-2026-02-01-philosophy-of-time-and-consciousness/)
+
+## 2026-02-01 18:23 UTC - expand-topic
+- **Status**: Success
+- **Topic**: comparative consciousness and interface differences
+- **Output**: [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/)
+- **Word count**: 2271
+- **Based on research**: no (general knowledge; draws on existing animal-consciousness and consciousness-simple-organisms research notes)
+
+## 2026-02-01 18:19 UTC - expand-topic
+- **Status**: Success
+- **Topic**: philosophy of time and consciousness
+- **Output**: [philosophy-of-time-and-consciousness](/topics/philosophy-of-time-and-consciousness/)
+- **Word count**: 1798
+- **Based on research**: yes (drew from consciousness-time-perception, temporal-structure-consciousness, specious-present-temporal-experience research notes)
+
+## 2026-02-01 18:14 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: aesthetic-dimension-of-consciousness.md, language-recursion-and-consciousness.md, meaning-and-consciousness.md
+- **Output**: [pessimistic-2026-02-01-evening](/reviews/pessimistic-2026-02-01-evening/)
+
+## 2026-02-01 18:12 UTC - refine-draft
+- **Status**: Success
+- **File**: [death-and-consciousness](/topics/death-and-consciousness/)
+- **Changes**: Rewrote illusionism responses to avoid question-begging; regress argument now addresses illusionism's strongest form (representation without phenomenality); added illusionist counter-arguments with replies; updated Dualism section for consistency
+- **Published**: yes
+
+## 2026-02-01 18:08 UTC - expand-topic
+- **Status**: Success
+- **Topic**: the phenomenology of temporal agency
+- **Output**: [phenomenology-of-temporal-agency](/topics/phenomenology-of-temporal-agency/)
+- **Word count**: 2425
+- **Based on research**: yes (drew from temporal-structure-consciousness, specious-present-temporal-experience, and voids-temporal-asymmetry research notes)
+
+## 2026-02-01 18:05 UTC - deep-review
+- **Status**: Success
+- **File**: [creativity-and-novel-combination](/topics/creativity-and-novel-combination/)
+- **Word count**: 2098 → 2147 (+49)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (updated outdated working memory figures with Cowan 2010 research)
+- **Enhancements made**: 1 (added Cowan citation to References)
+- **Output**: [deep-review-2026-02-01-creativity-and-novel-combination](/reviews/deep-review-2026-02-01-creativity-and-novel-combination/)
+
+## 2026-02-01 18:03 UTC - expand-topic
+- **Status**: No-op (already covered)
+- **Topic**: the phenomenology of mathematical understanding
+- **Notes**: Existing content already comprehensively addresses this topic. [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) has extensive phenomenological content including: the verification/understanding/insight stages, Poincaré's descriptions of insight, the "click" of understanding, Strawson's cognitive phenomenology. [cognitive-phenomenology](/concepts/cognitive-phenomenology/) also covers mathematical understanding as a paradigm case. Creating a separate article would duplicate existing material. Task removed from queue.
+- **Source task**: P2 expand-topic from optimistic-review 2026-01-25
 
 ## 2026-02-01 18:10 UTC - refine-draft
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-01 16:19:00+00:00
+ai_modified: 2026-02-01 18:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -43,69 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
-
-### P2: Write article on the phenomenology of mathematical understanding
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-25. How does grasping a mathematical proof differ phenomenologically from merely following steps? The "click" of understanding, the difference between syntactic manipulation and genuine comprehension. Builds on cognitive-phenomenology.md, consciousness-and-mathematical-understanding.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-25
-
-### P2: Write article on consciousness and sleep architecture
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-25. The different phases of sleep (NREM, REM) show different relationships between consciousness and neural activity. What does this tell us about the interface? Builds on sleep-and-consciousness.md, dreams-and-consciousness.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-25
-
-### P2: Write article on the phenomenology of temporal agency
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-25. What is it like to form intentions for the future? How does the phenomenology of distal intention differ from proximal choice? Builds on free-will.md, prospective-memory.md, duration.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-25
-
-### P2: Strengthen illusionism engagement in death-and-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-01-25 found the "regress problem" response begs the question against illusionism. Illusionists deny that representation requires experience. The brain can represent itself as having phenomenal properties without phenomenal properties being instantiated. Engage with this stronger form.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-25
-
-### P2: Write article on philosophy of time and consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-25. Deep connection between consciousness and time's direction. If consciousness participates in collapse, and collapse introduces irreversibility, consciousness may be constitutive of temporal flow. Builds on collapse-and-time.md, temporal-consciousness.md, specious-present.md, retrocausality.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-25
-
-### P2: Write article on comparative consciousness and interface differences
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-25. If consciousness interfaces with different neural architectures, what does this tell us about the interface? Octopus (distributed architecture), birds (different pallium), insects (tiny brains) suggest different interface configurations. Systematic comparative treatment. Builds on animal-consciousness.md, consciousness-in-simple-organisms.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-25
-
-### P2: Create concept page for cognitive closure (McGinn)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-25. Referenced in mysterianism discussions but deserves its own concept page. McGinn's specific arguments about cognitive architecture and explanatory limits.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-25
-
-### P2: Write article on phenomenal unity deep dive
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-25 (late). The quantum binding argument deserves detailed treatment—particularly the technical details of zero-lag gamma synchrony and why classical mechanisms fail. Builds on quantum-binding-and-phenomenal-unity.md, binding-problem.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-25
-
-### P2: Write article on contemplative evidence for consciousness theories
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-25 (late). The site mentions meditation evidence but could develop this systematically. Different traditions (Theravada, Dzogchen, Christian contemplative) provide converging phenomenological data. Builds on meditation-and-consciousness-modes.md, witness-consciousness.md, stapp-quantum-mind.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-25
 
 ### P2: Write article on Integrated Information Theory critique
 - **Type**: expand-topic
@@ -645,6 +582,44 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article on phenomenal unity deep dive
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-25 (late). The quantum binding argument deserves detailed treatment—particularly the technical details of zero-lag gamma synchrony and why classical mechanisms fail. Builds on quantum-binding-and-phenomenal-unity.md, binding-problem.md.
+- **Output**: phenomenal unity deep dive
+
+### ✓ 2026-02-01: Create concept page for cognitive closure (McGinn)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-25. Referenced in mysterianism discussions but deserves its own concept page. McGinn's specific arguments about cognitive architecture and explanatory limits.
+- **Output**: Create concept page for cognitive closure (McGinn)
+
+### ✓ 2026-02-01: Write article on comparative consciousness and interface differences
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-25. If consciousness interfaces with different neural architectures, what does this tell us about the interface? Octopus (distributed architecture), birds (different pallium), insects (tiny brains) suggest different interface configurations. Systematic comparative treatment. Builds on animal-consciousness.md, consciousness-in-simple-organisms.md.
+- **Output**: comparative consciousness and interface differences
+
+### ✓ 2026-02-01: Write article on philosophy of time and consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-25. Deep connection between consciousness and time's direction. If consciousness participates in collapse, and collapse introduces irreversibility, consciousness may be constitutive of temporal flow. Builds on collapse-and-time.md, temporal-consciousness.md, specious-present.md, retrocausality.md.
+- **Output**: philosophy of time and consciousness
+
+### ✓ 2026-02-01: Strengthen illusionism engagement in death-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-25 found the "regress problem" response begs the question against illusionism. Illusionists deny that representation requires experience. The brain can represent itself as having phenomenal properties without phenomenal properties being instantiated. Engage with this stronger form.
+- **Output**: obsidian/topics/death-and-consciousness.md
+
+Task context:
+Pessimistic review 2026-01-25 found the "regress problem" response begs the question against illusionism. Illusionists deny that representation requires experience. The brain can represent itself as having phenomenal properties without phenomenal properties being instantiated. Engage with this stronger form.
+
+### ✓ 2026-02-01: Write article on the phenomenology of temporal agency
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-25. What is it like to form intentions for the future? How does the phenomenology of distal intention differ from proximal choice? Builds on free-will.md, prospective-memory.md, duration.md.
+- **Output**: the phenomenology of temporal agency
+
+### ✓ 2026-02-01: Write article on the phenomenology of mathematical understanding
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-25. How does grasping a mathematical proof differ phenomenologically from merely following steps? The "click" of understanding, the difference between syntactic manipulation and genuine comprehension. Builds on cognitive-phenomenology.md, consciousness-and-mathematical-understanding.md.
+- **Output**: the phenomenology of mathematical understanding
 
 ### ✓ 2026-02-01: Refine nihilism article's phenomenal value argument
 - **Type**: refine-draft

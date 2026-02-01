@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-01 15:30:00+00:00
+ai_modified: 2026-02-01 18:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -88,11 +88,11 @@ The illusionist can accommodate everything this article describes functionally. 
 
 **Three responses:**
 
-1. **The regress problem.** Illusionism relocates the mystery rather than dissolving it. If consciousness is an "illusion," something must be under that illusion—something for which there's something it's like to be deceived. The "illusion" of phenomenal consciousness requires phenomenal consciousness to experience it. At death, does the illusion end, or does the thing-being-deceived end? The question survives relabeling.
+1. **The explanatory burden problem.** Illusionists say the brain can represent itself as having phenomenal properties without phenomenal properties being instantiated—representation doesn't require experience. Grant this for argument's sake. The question becomes: why does the representation have this specific character? Why do brains represent themselves as having *qualitative experience* rather than simply tracking functional states? The "illusion" of phenomenality is remarkably specific and universal. Explaining why this particular misrepresentation arises—and why it resists dissolution even when intellectually rejected—may prove as difficult as explaining phenomenality itself. The hard problem reappears as the "illusion problem": if physical processes can generate *the appearance* of phenomenal consciousness, why can't they generate the real thing? The burden has shifted, not disappeared.
 
-2. **Introspection survives debunking.** Even if [introspective](/concepts/introspection/) reports are sometimes unreliable about consciousness's *nature*, the existence of the phenomenon being reported seems undeniable. The illusionist who argues against consciousness uses their own conscious reasoning to do so. As Galen Strawson observed, the claim that consciousness doesn't exist is "the silliest claim ever made" precisely because making the claim requires being conscious.
+2. **Introspection survives debunking.** Even if [introspective](/concepts/introspection/) reports are sometimes unreliable about consciousness's *nature*, the existence of the phenomenon being reported seems undeniable. The illusionist who argues against consciousness uses their own reasoning to do so. As Galen Strawson observed, the claim that consciousness doesn't exist is "the silliest claim ever made" precisely because making the claim seems to require being conscious. The illusionist can respond that Strawson begs the question—"seems to require" is exactly what they're denying. But this reveals the debate's structure: one side finds the datum undeniable, the other finds the denial coherent. Neither can force the other to their starting point. The question is which starting point makes survival questions meaningful.
 
-3. **The self-undermining charge.** Illusionists presumably trust their own introspection enough to engage in the debate about consciousness. If introspection is systematically unreliable—if our reports about conscious experience bear no reliable relation to what's actually happening—then the illusionist's own arguments are undermined. The position cannot be rationally held by someone who arrived at it through introspection and reasoning about their own experience.
+3. **The self-undermining charge.** Illusionists presumably trust their own introspection enough to engage in the debate about consciousness. If introspection is systematically unreliable—if our reports about conscious experience bear no reliable relation to what's actually happening—then the illusionist's own arguments are undermined. The illusionist can respond that introspection reliably tracks functional states; what it misrepresents is the *nature* of those states (as phenomenal rather than purely functional). But this selective reliability is hard to motivate: why would evolution produce introspection that accurately tracks *which* states occur but systematically misrepresents *what those states are*? The more parsimonious view is that introspection is roughly accurate about both.
 
 The survival question remains meaningful if illusionism fails. And illusionism faces the same fundamental problem it attributes to dualism: explaining why things seem the way they do.
 
@@ -230,7 +230,7 @@ The Map's openness to survival would face serious difficulty if:
 
 ## Relation to the Map's Perspective
 
-**Dualism**: Makes survival coherent by denying that consciousness reduces to neural processes. If the brain is interface rather than generator—as [filter theory](/concepts/filter-theory/) suggests—brain death might not be consciousness death. The explanatory gap reveals that consciousness has features physical description cannot capture; those features might persist when their physical correlates cease. [Illusionism](/concepts/illusionism/)'s challenge—that consciousness itself is illusory—faces the regress problem: the illusion requires someone to be deceived. That "someone" is what might survive.
+**Dualism**: Makes survival coherent by denying that consciousness reduces to neural processes. If the brain is interface rather than generator—as [filter theory](/concepts/filter-theory/) suggests—brain death might not be consciousness death. The explanatory gap reveals that consciousness has features physical description cannot capture; those features might persist when their physical correlates cease. [Illusionism](/concepts/illusionism/)'s challenge—that consciousness itself is illusory—faces an explanatory burden problem: explaining why brains generate the specific "illusion" of phenomenality may prove as difficult as explaining phenomenality itself. If the illusion problem is as hard as the hard problem, illusionism hasn't dissolved the question of what survives—it has renamed it.
 
 **Minimal Quantum Interaction**: If consciousness operates at the quantum level, quantum conservation laws might preserve something. The [decoherence objection](/concepts/decoherence/) applies more strongly post-mortem—no biological system maintains coherence—but the hypothesis that consciousness acts at collapse rather than requiring sustained coherence remains relevant. If [quantum information](/concepts/quantum-consciousness/) encodes something about conscious states, its conservation might preserve something. Highly speculative, but the framework identifies where to look.
 
@@ -269,16 +269,18 @@ What the Map claims: given its dualist commitments, survival is a *coherent poss
 - Parnia, S., et al. (2014). "AWARE—AWAreness during REsuscitation—A prospective study." *Resuscitation*, 85(12), 1799-1805.
 - Xu, G., et al. (2023). "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain." *PNAS*, 120(19).
 
-<!-- AI REFINEMENT LOG - 2026-02-01
+<!-- AI REFINEMENT LOG - 2026-02-01T18:12:00+00:00
 Changes made:
-- Removed overstated "40% awareness" figure; replaced with actual study statistics (Van Lommel 18%, Parnia 9%)
-- Corrected AWARE study claims: noted hidden target methodology has not yielded verified OBE perceptions
-- Added context for Xu et al. 2023 gamma wave findings: researchers interpreted as neural correlates, not evidence for brain-independent consciousness
-- Removed unqualified "veridical perception cases" claim; noted controlled verification remains elusive
-- Added proper citations: Van Lommel 2001, Parnia 2014, Xu 2023
+- Rewrote "regress problem" response to illusionism to avoid begging the question
+- Previous version assumed representation requires experience; illusionists deny this
+- New response focuses on the "illusion problem": explaining why brains generate the specific illusion of phenomenality may be as hard as explaining phenomenality itself
+- Enhanced second and third responses with illusionist counter-arguments and replies
+- Updated Dualism section in "Relation to Site Perspective" for consistency
 
-Based on pessimistic review 2026-02-01-afternoon identifying NDE evidence overstatement.
-Key improvement: Intellectual honesty about current state of NDE research methodology.
+Based on pessimistic review 2026-01-25 identifying that regress argument begs question against strong illusionism.
+Key improvement: Engages illusionism's strongest form rather than assuming what it denies.
+
+Previous refinement (2026-02-01-afternoon): NDE evidence corrections.
 
 This log should be removed after human review.
 -->
