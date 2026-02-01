@@ -4,8 +4,9 @@ description: "Consciousness requires temporal structure to exist. Time's arrow m
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T18:19:00+00:00
+ai_modified: 2026-02-01T18:26:00+00:00
 draft: false
+last_deep_review: 2026-02-01T18:26:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
@@ -111,7 +112,7 @@ The specious present isn't a window onto pre-existing temporal structure. It may
 
 Meditation traditions provide phenomenological data. Advanced contemplatives report *nirodha samapatti*—cessation of perception and feeling—as complete suspension of temporal experience. Not shortened time, not altered time, but absent time. If consciousness constitutes time through collapse involvement, withdrawing from collapse should suspend time's passage. Contemplative reports confirm exactly this.
 
-Higher jhāna states show systematic variation in temporal phenomenology: progressively "timeless" quality without loss of awareness. If the specious present reflects collapse-constitutive activity, reduced active selection should produce this sequence—and it does.
+Higher jhāna states show systematic variation in temporal phenomenology: progressively "timeless" quality without loss of awareness. If the specious present reflects collapse-constitutive activity, reduced active selection should produce this sequence. The phenomenological data is consistent with this framework, though alternative explanations (altered neural processing creating illusions of timelessness) cannot be ruled out. Contemplative evidence is suggestive, not conclusive.
 
 ## Implications
 
@@ -123,7 +124,7 @@ The [[hard-problem-of-consciousness|hard problem]] asks why physical processes s
 
 The [[free-will|free will]] debate gains new dimensions. If consciousness selects among quantum possibilities and collapse creates irreversibility, then agents participate in creating the temporal structure within which their actions unfold. [[agent-causation|Agent causation]] isn't action within pre-existing time but participation in time's constitution.
 
-The Libet experiments—showing neural activity preceding conscious awareness—lose their force. If selection is atemporal, it needn't temporally precede neural activity. The "selection" determines which temporal ordering becomes actual; the neural activity "preceding" awareness is part of the selected transaction.
+The Libet experiments—showing neural activity preceding conscious awareness—lose their force. If selection is atemporal, it needn't temporally precede neural activity. Consider the analogy: a mathematical function determines which curve appears on a graph without being located at any point on the graph. Similarly, consciousness's selection determines which temporal ordering becomes actual without itself occurring at a time within that ordering. The neural activity "preceding" awareness and the awareness itself are both parts of the selected transaction. The apparent temporal gap between neural readiness potential and conscious decision may reflect our perspective from within the selected transaction, not a causal sequence consciousness must fit into.
 
 ### For AI
 
@@ -139,7 +140,7 @@ The bidirectional relationship between time and consciousness connects to all fi
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Consciousness selects collapse outcomes, affecting physical states. If collapse creates temporal direction, "bidirectional" includes temporal direction—selection propagates into both past and future through retrocausal constraint satisfaction.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The framework requires real collapse. Many-worlds denies collapse; all branches exist. Without real collapse, no selection, no irreversibility, no consciousness-constituted time. The felt flow of time, with possibilities narrowing to actualities, assumes collapse is real.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The framework requires real collapse. Many-worlds denies collapse; all branches exist. Many-worlds theorists argue that apparent irreversibility emerges through decoherence within each branch—but this treats temporal asymmetry as perspectival rather than fundamental. The Map's framework takes the felt flow of time seriously as pointing to something real: genuine possibilities narrowing to actualities. Without real collapse, the phenomenology of temporal flow becomes an illusion, and consciousness's apparent role in selecting outcomes becomes mere appearance within one branch among countless others.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The metaphysics is complex. But temporal experience is complex, and time's arrow remains among physics' deepest puzzles. Simpler metaphysics achieve parsimony by denying phenomena rather than explaining them.
 
