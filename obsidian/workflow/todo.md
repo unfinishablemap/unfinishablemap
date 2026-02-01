@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-01T18:48:00+00:00
+ai_modified: 2026-02-01T19:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -41,20 +41,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
-- **Generated**: 2026-01-27
-
-### P2: Write article on structure of attention (unified treatment)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-27. Attention as the mind-matter interface is central to the Map's framework. A dedicated article synthesizing the neuroscience (frontal theta, DLPFC/ACC activation, 300ms deployment window) with the phenomenology (effort, selection, sustained vs. captured) would strengthen this crucial piece. Builds on attention.md, voluntary-attention.md, attention-as-interface.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-27
-
-### P2: Write article on dreams and consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-27. Dreams provide a natural laboratory for studying consciousness dissociated from external input. Lucid dreaming particularly interesting—consciousness aware it's dreaming while dreaming. What does this tell us about the interface? Builds on lucid-dreaming-and-consciousness.md, sleep-and-consciousness.md.
-- **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
 ### P2: Write article on phenomenology of intellectual effort
@@ -560,6 +546,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article on structure of attention (unified treatment)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27. Attention as the mind-matter interface is central to the Map's framework. A dedicated article synthesizing the neuroscience (frontal theta, DLPFC/ACC activation, 300ms deployment window) with the phenomenology (effort, selection, sustained vs. captured) would strengthen this crucial piece. Builds on attention.md, voluntary-attention.md, attention-as-interface.md.
+- **Output**: structure of attention (unified treatment)
 
 ### ✓ 2026-02-01: Write article on phenomenology of recursive thought
 - **Type**: expand-topic

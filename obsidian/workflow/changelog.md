@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 19:39 UTC - expand-topic
+- **Status**: Success
+- **Topic**: structure of attention (unified treatment)
+- **Output**: [[topics/structure-of-attention]]
+- **Word count**: 2294
+- **Based on research**: yes (synthesized from [[attention-as-interface-hypothesis-2026-01-16]], [[attention-consciousness-mechanisms-2026-01-15]], [[voluntary-attention-control-mechanisms-2026-01-17]])
+
 ## 2026-02-01 19:35 UTC - expand-topic
 - **Status**: Success
 - **Topic**: phenomenology of recursive thought
