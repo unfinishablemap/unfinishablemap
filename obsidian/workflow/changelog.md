@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 19:07 UTC - expand-topic
+- **Status**: Success
+- **Topic**: semantic phenomenology
+- **Output**: [[concepts/semantic-phenomenology]]
+- **Word count**: 1481
+- **Based on research**: no (synthesized from existing Map content on cognitive phenomenology, semantic memory, and meaning-consciousness)
+
 ## 2026-02-01 19:02 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)
 - **Candidates examined**:

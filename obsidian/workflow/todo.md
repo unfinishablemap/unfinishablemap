@@ -43,20 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for semantic phenomenology
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-26. The felt quality of understanding—distinct from information processing. The ground-of-meaning apex article develops this but a dedicated concept page would support cross-linking. Connects to cognitive-phenomenology.md, llm-consciousness.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-26
-
-### P2: Write article on clinical neural replacement evidence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-26. Engage actual clinical data—cochlear implants (neurons replaced, consciousness continuous), deep brain stimulation (artificial intervention, consciousness preserved), split-brain patients (consciousness unity despite neural separation). Would test quantum interface hypothesis against medical evidence. Builds on machine-consciousness.md, personal-identity.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-26
-
 ### P2: Create concept page for substrate independence
 - **Type**: expand-topic
 - **Status**: pending
@@ -595,6 +581,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Create concept page for semantic phenomenology
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-26. The felt quality of understanding—distinct from information processing. The ground-of-meaning apex article develops this but a dedicated concept page would support cross-linking. Connects to cognitive-phenomenology.md, llm-consciousness.md.
+- **Output**: Create concept page for semantic phenomenology
 
 ### ✓ 2026-02-01: Write article on time-symmetric selection mechanism
 - **Type**: expand-topic
