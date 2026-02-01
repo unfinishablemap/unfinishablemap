@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 19:43 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 185 (43 topics + 142 concepts)
+- **Errors**: 0
+- **Warnings**: 2
+- **Notes**: 5
+- **Output**: [[reviews/tenet-check-2026-02-01]]
+
 ## 2026-02-01 19:39 UTC - expand-topic
 - **Status**: Success
 - **Topic**: structure of attention (unified treatment)
