@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Condense functionalism.md (4250 words, 121% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers computational theories of mind and the multiple realizability argument. Preserve core arguments and the consciousness objections while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
 ### P2: Create concept page for visual-consciousness
 - **Type**: expand-topic
 - **Notes**: Referenced in multiple articles but no dedicated page exists. The paradigmatic case for studying phenomenal consciousness—color experience, visual imagery, blindsight. Would support cross-linking and clarify discussions of qualia. Builds on qualia.md, phenomenal-consciousness.md, neural-correlates-of-consciousness.md.
@@ -761,6 +755,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Condense functionalism.md (4250 words, 121% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers computational theories of mind and the multiple realizability argument. Preserve core arguments and the consciousness objections while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-01: Cross-review causal-closure.md considering conservation-laws-and-mind insights
 - **Type**: cross-review

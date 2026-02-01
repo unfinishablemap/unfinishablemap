@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 15:22 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: obsidian/concepts/functionalism.md
+- **Word count**: 2036 words (81% of 2500 target)
+- **Reason**: Article is already well within acceptable limits for concepts section (threshold: 2500). No reduction needed.
+
 ## 2026-02-01 15:19 UTC - deep-review
 - **Status**: Success
 - **File**: obsidian/concepts/causal-closure.md
