@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 19:02 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Candidates examined**:
+  - attention.md / attention-as-interface.md / attention-motor-quantum-interface.md → well-differentiated (concept/hypothesis/unification)
+  - phenomenal-unity.md / unity-of-consciousness.md → explicitly complementary (why/what)
+  - motor-selection.md / voluntary-attention.md → different domains (action/perception), already coalesced
+  - locality.md / brain-interface-boundary.md → distinct purposes (objection-response/comprehensive)
+  - integrated-information-theory.md / integrated-information-theory-critique.md → distinct rhetorical purposes (balanced overview/focused critique)
+- **Reason**: After five iterations, no strong merge candidates found. Articles are well-differentiated with distinct editorial purposes even when covering related subject matter.
+
 ## 2026-02-01 18:57 UTC - expand-topic
 - **Status**: Success
 - **Topic**: time-symmetric selection mechanism
