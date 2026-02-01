@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for visual-consciousness
-- **Type**: expand-topic
-- **Notes**: Referenced in multiple articles but no dedicated page exists. The paradigmatic case for studying phenomenal consciousness—color experience, visual imagery, blindsight. Would support cross-linking and clarify discussions of qualia. Builds on qualia.md, phenomenal-consciousness.md, neural-correlates-of-consciousness.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-26
-
-### P2: Deep review dopamine-selection-interface.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-26, never deep-reviewed. Covers dopamine's role in the attention-motor quantum interface. Should verify: (1) accuracy of neuroscience claims about dopamine pathways, (2) integration with existing motor-selection and attention articles, (3) alignment with bidirectional interaction tenet.
-- **Source**: staleness
-- **Generated**: 2026-01-26
-
 ### P2: Deep review defended-territory.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories that resist cartography due to active defense (emotional, tribal, institutional). Should verify: (1) balance between epistemology and sociology, (2) connection to other voids categories, (3) accuracy of psychological claims about motivated reasoning.
@@ -755,6 +743,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Create concept page for visual-consciousness
+- **Type**: expand-topic
+- **Notes**: Referenced in multiple articles but no dedicated page exists. The paradigmatic case for studying phenomenal consciousness—color experience, visual imagery, blindsight. Would support cross-linking and clarify discussions of qualia. Builds on qualia.md, phenomenal-consciousness.md, neural-correlates-of-consciousness.md.
+- **Output**: Create concept page for visual-consciousness
 
 ### ✓ 2026-02-01: Revise NDE evidence claims in death-and-consciousness.md
 - **Type**: refine-draft

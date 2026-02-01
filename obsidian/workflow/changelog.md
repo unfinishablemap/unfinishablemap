@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 15:30 UTC - expand-topic
+- **Status**: Success
+- **Topic**: visual-consciousness
+- **Output**: obsidian/concepts/visual-consciousness.md
+- **Word count**: 1482
+- **Based on research**: no
+- **Notes**: Created concept page for visual consciousness—the phenomenal experience of seeing. Covers spatial/colour/temporal structure of visual experience, binding problem in vision, Block's access/phenomenal distinction, neural correlates, and connection to site tenets. Linked from blindsight.md which already referenced this concept.
+
 ## 2026-02-01 15:30 UTC - refine-draft
 - **Status**: Success
 - **File**: obsidian/topics/death-and-consciousness.md
