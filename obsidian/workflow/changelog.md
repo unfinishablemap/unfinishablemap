@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 14:10 UTC - deep-review
+- **Status**: Success
+- **File**: obsidian/voids/the-unobservable-self.md
+- **Word count**: 2927 → 2953 (+26)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (MWI argument reframed, cross-cultural citation added, hand analogy refined, metacognitive monitoring acknowledged)
+- **Enhancements made**: 2 (added description field, added explanatory-gap cross-link)
+- **Output**: `reviews/deep-review-2026-02-01-the-unobservable-self.md`
+- **Notes**: First review. Strong article with sound structural argument connecting unobservable self to hard problem. Process philosophy section particularly well-done. Main fix was MWI section which incorrectly claimed MWI predicts phenomenological multiplicity—rewritten with semantic/indexical argument.
+
 ## 2026-02-01 14:05 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All non-draft content in obsidian/topics/, obsidian/concepts/, obsidian/tenets/ (~43 topics, 100+ concepts, 1 tenets)

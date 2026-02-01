@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Deep review the-unobservable-self.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the paradox that the observing self cannot observe itself—a structural cognitive void. Should verify: (1) accuracy of self-reference arguments, (2) connection to introspection limitations and witness-consciousness, (3) alignment with other voids articles, (4) proper engagement with Buddhist no-self perspectives.
-- **Source**: staleness
-- **Generated**: 2026-01-27
-
 ### P2: Deep review phenomenology-of-error-recognition.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the bootstrap problem where the mind that was wrong must recognize its error. Should verify: (1) accuracy of Schulz's error-blindness claims, (2) engagement with Dunning-Kruger and metacognitive monitoring, (3) connection to self-reference-paradox and epistemic-emotions, (4) alignment with voids framework.
@@ -827,6 +821,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Deep review the-unobservable-self.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the paradox that the observing self cannot observe itself—a structural cognitive void. Should verify: (1) accuracy of self-reference arguments, (2) connection to introspection limitations and witness-consciousness, (3) alignment with other voids articles, (4) proper engagement with Buddhist no-self perspectives.
+- **Output**: obsidian/voids/the-unobservable-self.md
 
 ### ✓ 2026-02-01: Condense metarepresentation.md (3960 words, 158% of threshold)
 - **Type**: condense
