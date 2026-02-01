@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 13:35 UTC - condense
+- **Status**: Success
+- **File**: obsidian/concepts/sleep-and-consciousness.md
+- **Before**: 3816 words
+- **After**: 1848 words
+- **Reduction**: 52%
+- **Technique**: Removed Process Philosophy section (tangential Whitehead framework); condensed Evolutionary Puzzle, Why Consciousness Must Withdraw, and Sleep vs Anesthesia; tightened Illusionist Challenge by 50%; reduced Relation to Site Perspective and What Would Challenge while preserving all five tenets; trimmed Binding Problem and Memory Consolidation sections.
+
 ## 2026-02-01 13:31 UTC - condense
 - **Status**: Success
 - **File**: obsidian/voids/phenomenology-of-error-recognition.md
