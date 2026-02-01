@@ -4,7 +4,7 @@ description: "Why physicalism fails to explain consciousness. The explanatory ga
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-27T12:30:00+00:00
+ai_modified: 2026-02-01T09:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ concepts:
   - "[[panpsychism]]"
   - "[[many-worlds]]"
   - "[[argument-from-reason]]"
+  - "[[phenomenology]]"
 related_articles:
   - "[[tenets]]"
   - "[[epiphenomenalism]]"
@@ -34,7 +35,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-20T18:30:00+00:00
+last_deep_review: 2026-02-01T09:13:00+00:00
 ---
 
 Materialism (or physicalism) holds that everything that exists is physical—including consciousness. On this view, your experience of seeing red is not something *in addition to* brain activity; it *is* brain activity, or emerges from it, or will one day be explained entirely in physical terms. Materialism has dominated academic philosophy of mind for decades, promising ontological simplicity and alignment with natural science.
@@ -67,7 +68,7 @@ The radical option: consciousness as we conceive it doesn't exist. Our folk-psyc
 
 The appeal: no hard problem if there's no consciousness to explain. The problem vanishes because its subject matter vanishes.
 
-The problem: eliminativism seems to deny the obvious. Something it's like to read these words. Eliminativists are not zombies making noises about a non-existent phenomenon; they're conscious beings denying their own experience. The position is self-undermining in a way similar to [[epiphenomenalism]].
+The problem: eliminativism seems to deny the obvious. There is [[phenomenology|something it is like]] to read these words. Eliminativists respond that functional states can be acknowledged without the folk psychological framework of "experiences" and "qualia"—but this response merely pushes back the question: what explains the differential processing that constitutes the illusion of rich qualitative character? The position risks self-undermining in a way similar to [[epiphenomenalism]].
 
 ### Illusionism
 
