@@ -4,7 +4,8 @@ description: "The phenomenal experience of seeing—what it's like to perceive c
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T15:30:00+00:00
+ai_modified: 2026-02-01T15:33:00+00:00
+last_deep_review: 2026-02-01T15:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,9 +19,11 @@ concepts:
   - "[[inverted-qualia]]"
   - "[[attention]]"
   - "[[global-workspace-theory]]"
+  - "[[explanatory-gap]]"
 related_articles:
   - "[[tenets]]"
   - "[[knowledge-argument]]"
+  - "[[interactionist-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -60,7 +63,7 @@ Visual features are processed separately: colour in V4, motion in MT/V5, shape i
 
 Classical theories propose binding through neural synchrony—features of the same object trigger correlated activity across regions. But synchronized firing remains physically separate events; correlation is not unity. The hard aspect of binding (BP2) asks why computational coordination produces phenomenal unity at all.
 
-Quantum approaches propose that visual consciousness involves genuine physical holism. Entangled quantum states across neural populations would be unified at the physical level, not merely correlated. If visual binding depends on quantum coherence, this would explain why disrupting coherence (as anaesthetics may do) disrupts conscious unity while leaving much processing intact.
+One proposal: quantum approaches suggest visual consciousness involves genuine physical holism. Entangled quantum states across neural populations would be unified at the physical level, not merely correlated. If visual binding depends on quantum coherence—a hypothesis explored in [[quantum-consciousness|Orch OR]] and related theories—this would explain why disrupting coherence (as anaesthetics may do) disrupts conscious unity while leaving much processing intact. This remains speculative; see [[binding-problem]] for detailed treatment of the evidence.
 
 ## Visual Consciousness and Access
 
@@ -93,7 +96,7 @@ Visual consciousness exemplifies the [[hard-problem-of-consciousness|hard proble
 
 The explanatory gap is starkest for vision because we know so much about visual processing. The retina, V1, the ventral and dorsal streams—neuroscience has mapped vision extensively. Yet the more we learn about how visual information is processed, the more glaring becomes the absence of any explanation for why this processing feels like anything at all.
 
-This is not ignorance about neural detail. It's a gap in our conceptual apparatus. Physical descriptions trade in structure, function, causal relations. Visual qualia—the redness, the spatial spread, the sense of things *appearing*—resist capture in these terms. Either physics must expand to include qualitative properties (becoming unrecognisable), or there is more to visual consciousness than physics captures.
+This is not ignorance about neural detail. It's a gap in our conceptual apparatus—an [[explanatory-gap]] between physical description and phenomenal fact. Physical descriptions trade in structure, function, causal relations. Visual qualia—the redness, the spatial spread, the sense of things *appearing*—resist capture in these terms. Either physics must expand to include qualitative properties (becoming unrecognisable), or there is more to visual consciousness than physics captures.
 
 ## Relation to Site Perspective
 
