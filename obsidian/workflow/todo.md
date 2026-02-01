@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Deep review emotional-consciousness.md
-- **Type**: deep-review
-- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Covers the relationship between emotions and phenomenal consciousness. Should verify: (1) accuracy of emotion theory presentations (James-Lange, Cannon-Bard, appraisal), (2) engagement with somatic marker hypothesis, (3) connection to phenomenal-value-realism and valence, (4) alignment with bidirectional interaction tenet.
-- **Source**: staleness
-- **Generated**: 2026-01-26
-
 ### P2: Write article on phenomenology of evidence assessment
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-24. How does conscious reasoning actually work phenomenologically? What is it like to find an argument compelling vs. unconvincing? The argument from reason shows that reasoning requires consciousness; this would explore what conscious reasoning IS from the inside. Builds on argument-from-reason.md, introspection.md, epistemic-emotions.md.
@@ -719,6 +713,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Deep review emotional-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Covers the relationship between emotions and phenomenal consciousness. Should verify: (1) accuracy of emotion theory presentations (James-Lange, Cannon-Bard, appraisal), (2) engagement with somatic marker hypothesis, (3) connection to phenomenal-value-realism and valence, (4) alignment with bidirectional interaction tenet.
+- **Output**: obsidian/topics/emotional-consciousness.md
 
 ### ✓ 2026-02-01: Deep review heterophenomenology.md
 - **Type**: deep-review
