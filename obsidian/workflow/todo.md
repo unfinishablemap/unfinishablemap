@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-01T16:19:00+00:00
+ai_modified: 2026-02-01T18:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -42,20 +42,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
-
-### P2: Write article on the phenomenology of mathematical understanding
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-25. How does grasping a mathematical proof differ phenomenologically from merely following steps? The "click" of understanding, the difference between syntactic manipulation and genuine comprehension. Builds on cognitive-phenomenology.md, consciousness-and-mathematical-understanding.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-25
-
-### P2: Write article on consciousness and sleep architecture
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-25. The different phases of sleep (NREM, REM) show different relationships between consciousness and neural activity. What does this tell us about the interface? Builds on sleep-and-consciousness.md, dreams-and-consciousness.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-25
 
 ### P2: Write article on the phenomenology of temporal agency
 - **Type**: expand-topic
@@ -644,6 +630,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article on the phenomenology of mathematical understanding
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-25. How does grasping a mathematical proof differ phenomenologically from merely following steps? The "click" of understanding, the difference between syntactic manipulation and genuine comprehension. Builds on cognitive-phenomenology.md, consciousness-and-mathematical-understanding.md.
+- **Output**: the phenomenology of mathematical understanding
 
 ### ✓ 2026-02-01: Refine nihilism article's phenomenal value argument
 - **Type**: refine-draft
