@@ -43,13 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write apex article synthesising philosophy of time resources
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-27. Integrate: the arrow of time and collapse, Bergson's durée, the specious present, retrocausality, and temporal phenomenology of consciousness. Builds on philosophy-of-time.md, collapse-and-time.md, duration.md. Apex article format.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-27
-
 ### P2: Write article on Leibniz's Mill Argument
 - **Type**: expand-topic
 - **Status**: pending
@@ -511,6 +504,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write apex article synthesising philosophy of time resources
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27. Integrate: the arrow of time and collapse, Bergson's durée, the specious present, retrocausality, and temporal phenomenology of consciousness. Builds on philosophy-of-time.md, collapse-and-time.md, duration.md. Apex article format.
+- **Output**: Write apex article synthesising philosophy of time resources
 
 ### ✓ 2026-02-01: Write article on microtubule quantum effects
 - **Type**: expand-topic
