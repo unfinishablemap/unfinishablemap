@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review panpsychism.md considering IIT critique
-- **Type**: cross-review
-- **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) discusses IIT's panpsychist implications (expander graphs, ubiquitous consciousness). Check panpsychism.md for: (1) cross-links to the IIT critique's treatment of panpsychism, (2) whether the combination problem is connected to IIT's mathematical framework, (3) consistency between the two articles on panpsychism's relationship to interactionism.
-- **Source**: chain (from integrated-information-theory-critique.md)
-- **Generated**: 2026-01-28
-
 ### P2: Cross-review functionalism.md considering IIT critique
 - **Type**: cross-review
 - **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) argues IIT is epiphenomenalism by another name. Functionalism also faces questions about consciousness's causal role. Check functionalism.md for: (1) cross-links to IIT critique, (2) whether functionalism handles the passivity objection differently than IIT, (3) connection between the expander graph problem and multiple realizability.
@@ -858,6 +852,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Cross-review panpsychism.md considering IIT critique
+- **Type**: cross-review
+- **Notes**: New article topics/integrated-information-theory-critique.md (2026-01-27) discusses IIT's panpsychist implications (expander graphs, ubiquitous consciousness). Check panpsychism.md for: (1) cross-links to the IIT critique's treatment of panpsychism, (2) whether the combination problem is connected to IIT's mathematical framework, (3) consistency between the two articles on panpsychism's relationship to interactionism.
+- **Output**: obsidian/concepts/panpsychism.md -- Context: Cross-review panpsychism.md considering IIT critique
 
 ### ✓ 2026-02-01: Cross-review meditation-and-consciousness-modes.md considering contemplative evidence
 - **Type**: cross-review

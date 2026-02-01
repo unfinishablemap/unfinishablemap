@@ -4,7 +4,7 @@ description: "The view that consciousness is fundamental and ubiquitous in natur
 created: 2026-01-08
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-29T16:28:55+00:00
+ai_modified: 2026-02-01T03:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,13 +24,14 @@ related_articles:
   - "[[tenets]]"
   - "[[panpsychism-consciousness-2026-01-08]]"
   - "[[integrated-information-theory]]"
+  - "[[integrated-information-theory-critique]]"
   - "[[origin-of-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-08
 last_curated: null
-last_deep_review: 2026-01-29T16:28:55+00:00
+last_deep_review: 2026-02-01T03:18:00+00:00
 ---
 
 Panpsychism holds that consciousness is a fundamental and ubiquitous feature of reality—all matter has some experiential quality. An electron doesn't merely have mass and charge; it has something it's like to be that electron. This view has experienced a resurgence in contemporary philosophy of mind, championed by thinkers like Galen Strawson and Philip Goff.
@@ -152,7 +153,7 @@ This implies panpsychism: even simple systems like photodiodes have minimal phi 
 
 However, IIT faces its own version of the combination problem. High-phi systems are "more" conscious than low-phi systems, but it remains unclear why integration should produce unified experience rather than just integrated information processing. The phi measure quantifies integration but doesn't explain why integration feels like anything.
 
-For the Map's framework, IIT is instructive but incomplete. It takes consciousness seriously as fundamental (aligning with the Dualism tenet) but identifies it with physical structure rather than treating it as causally efficacious over and above physics (conflicting with Bidirectional Interaction). If consciousness *is* integrated information, it doesn't *do* anything separate from the physical—it *is* the physical in a certain configuration.
+For the Map's framework, IIT is instructive but incomplete. It takes consciousness seriously as fundamental (aligning with the Dualism tenet) but identifies it with physical structure rather than treating it as causally efficacious over and above physics (conflicting with Bidirectional Interaction). If consciousness *is* integrated information, it doesn't *do* anything separate from the physical—it *is* the physical in a certain configuration. For the Map's full critique of IIT, see [[integrated-information-theory-critique|Why Integrated Information Theory Falls Short]].
 
 ## Can Panpsychism Be Tested?
 
