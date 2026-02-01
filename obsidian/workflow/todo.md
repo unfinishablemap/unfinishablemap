@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-01T19:55:00+00:00
+ai_modified: 2026-02-01T21:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -41,18 +41,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
-- **Generated**: 2026-01-27
-
-### P2: Create concept page for baseline-cognition
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-27 (night). Foundational concept referenced across multiple articles but lacking dedicated treatment. Would clarify what cognition achieves without consciousness and why this matters for the causal efficacy question. The concept appears in consciousness-in-simple-organisms.md and implicitly in argument-from-reason.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-27
-
-### P2: Write article on process philosophy integration
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-27 (night). How process metaphysics provides an alternative to substance/property dualism binary; why occasions rather than substances may be fundamental. Whitehead is referenced in aesthetic-dimension, simple-organisms, and hard-problem articles. Would provide metaphysical framework compatible with all five tenets.
-- **Source**: optimistic-review
 - **Generated**: 2026-01-27
 
 ### P2: Write article on phenomenal unity and the binding problem
@@ -479,6 +467,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Create concept page for baseline-cognition
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27 (night). Foundational concept referenced across multiple articles but lacking dedicated treatment. Would clarify what cognition achieves without consciousness and why this matters for the causal efficacy question. The concept appears in consciousness-in-simple-organisms.md and implicitly in argument-from-reason.md.
+- **Output**: Create concept page for baseline-cognition
 
 ### ✓ 2026-02-01: Write article on phenomenology of understanding
 - **Type**: expand-topic

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-01T19:55:00+00:00
+ai_modified: 2026-02-01T21:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,12 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-02-01 21:05 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: baseline-cognition
+- **Notes**: Concept page [[concepts/baseline-cognition]] was created 2026-01-22 and has undergone four deep reviews (latest 2026-01-29). Task in todo.md was stale; removed.
+- **Word count**: 3357 (existing article)
 
 ## 2026-02-01 21:00 UTC - deep-review
 - **Status**: Success
