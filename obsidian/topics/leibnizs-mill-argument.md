@@ -4,7 +4,8 @@ description: "Leibniz's 1714 thought experiment imagines walking through an enla
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T20:25:00+00:00
+ai_modified: 2026-02-01T20:30:00+00:00
+last_deep_review: 2026-02-01T20:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +65,7 @@ Several features make Leibniz's Mill more than a historical curiosity:
 
 **It doesn't require dualist premises.** The argument starts from materialist assumptions—suppose there were a machine that could perceive—and derives a problem for materialism from within.
 
-**It appeals to a clear intuition.** The thought experiment invites verification. We don't need to accept Leibniz's metaphysics to feel the force of the question: where, among all those parts, is the perception?
+**It appeals to a clear intuition.** The thought experiment invites verification. We don't need to accept Leibniz's metaphysics to feel the force of the question: where, among all those parts, is the perception? A caution: intuitions have been unreliable guides to physics—we couldn't imagine curved spacetime or quantum entanglement either. But Leibniz's intuition differs from those cases. It doesn't say physics must work a certain way; it says that no physical description, however accurate, addresses the felt quality of experience. This is not a failure of imagination about physical possibilities but a recognition that physical description and phenomenal quality are different kinds of discourse.
 
 **It distinguishes function from experience.** A machine could pass any behavioral test for perception while the mill argument still applies. The parts would implement the right input-output relations, but walking through would still reveal "only parts which work one upon another."
 
@@ -72,13 +73,13 @@ Several features make Leibniz's Mill more than a historical curiosity:
 
 Materialists have offered several lines of response:
 
-**The emergence objection**: Perhaps perception is not located in any single part but emerges from the organization of parts. Just as wetness emerges from hydrogen and oxygen atoms though neither is wet individually, consciousness might emerge from neural organization.
+**The emergence objection**: Perhaps perception is not located in any single part but emerges from the organization of parts. Just as wetness emerges from hydrogen and oxygen atoms though neither is wet individually, [[consciousness]] might emerge from neural organization.
 
-Leibniz anticipated this response. His point is precisely that no arrangement of non-perceiving parts seems to explain perception. Emergence explanations face a burden: showing how the specific character of experience follows from the organization. Wetness can be explained in terms of molecular properties accessible to physics. Can the redness of red be similarly explained?
+This response misses Leibniz's point. The wetness analogy fails because wetness *can* be explained in terms of molecular properties accessible to physics—molecular mobility, hydrogen bonding, surface tension. These are structural features that inspection reveals. But what structural feature could explain the *redness* of red or the *painfulness* of pain? Organization gives us complexity, patterns, information processing. It does not give us felt quality. The burden falls on the emergentist: specify exactly how any arrangement of parts produces phenomenal character. Until this is done, emergence is a label for the problem, not a solution to it.
 
-**The mistake objection**: Perhaps we are wrong to expect perception to appear as something distinct from the parts. Our intuition that it should might reflect confusion rather than insight.
+**The mistake objection**: Perhaps we are wrong to expect perception to appear as something distinct from the parts. Our intuition that it should might reflect confusion rather than insight. Where, after all, is "computation" when we walk through a computer? We find only transistors, yet computation is real and reducible to physical processes.
 
-This response concedes the explanatory gap while denying its metaphysical significance. But it must then explain why the intuition is so powerful and what positive account of consciousness could replace it. [[Illusionism]]—the view that phenomenal consciousness is an illusion—takes this path, but faces the challenge of explaining what generates the illusion and to whom things seem any way at all.
+The computation analogy is seductive but misleading. Computation *is* fully captured by structural description—we can specify exactly what makes a process computational in terms of state transitions and symbol manipulations. Nothing is left over. With perception, something is left over: the felt quality, the "what it is like." A complete functional description of color processing—wavelengths detected, neural signals propagated, discriminations made—leaves out what red *looks like*. The response concedes the explanatory gap while denying its metaphysical significance. [[Illusionism]]—the view that phenomenal consciousness is an illusion—takes this path, but faces the challenge of explaining what generates the illusion and to whom things seem any way at all.
 
 **The knowledge objection**: Our inability to find perception by inspecting parts reflects our limited epistemic position, not an ontological gap. A more complete science might bridge the gap.
 
@@ -86,7 +87,7 @@ This is possible in principle but amounts to promissory materialism. Until the e
 
 ## The Argument and Functionalism
 
-Modern [[functionalism]]—the view that mental states are defined by their causal roles rather than their physical substrate—might seem to escape Leibniz's objection. If perception is a functional state (a certain pattern of inputs, outputs, and internal transitions), then inspection of the mill *would* reveal it: the functional organization would be visible in the parts' arrangements and interactions.
+Modern [[functionalism|functionalism]]—the view that mental states are defined by their causal roles rather than their physical substrate—might seem to escape Leibniz's objection. If perception is a functional state (a certain pattern of inputs, outputs, and internal transitions), then inspection of the mill *would* reveal it: the functional organization would be visible in the parts' arrangements and interactions.
 
 But this response changes the subject. Functionalism accounts for the *role* perception plays, not for its *felt quality*. A perfect functional duplicate of a perceiving system (a [[philosophical-zombies|zombie]]) would have all the right causal structure but—by hypothesis—no phenomenal experience. Leibniz's point is that inspection reveals only the causal structure. The question remains: where is the experience?
 
@@ -120,6 +121,8 @@ The mill argument stands alongside the [[knowledge-argument]], the [[philosophic
 - [[philosophical-zombies]] — Conceivability arguments for dualism
 - [[explanatory-gap]] — Why physical explanation seems to miss experience
 - [[panpsychism]] — One response to the mill that Leibniz himself endorsed
+- [[functionalism]] — The view that mental states are causal roles, and why it doesn't escape the mill
+- [[free-will]] — How the mill argument supports the reality of conscious choice
 
 ## References
 
