@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-01-31 23:58 UTC - coalesce
+- **Status**: No action taken
+- **Candidates analyzed**: 5 clusters (Language/conceptual limits, Void explorers, Cognitive limits taxonomy, Attention cluster, Quantum consciousness)
+- **Files reviewed**: 14 articles total
+- **Result**: No strong merge candidates found
+- **Notes**: All identified candidate clusters proved well-differentiated upon analysis. Language-thought-boundary and pre-conceptual-knowing address distinct phenomena (language limits vs conceptual limits). Void explorer articles have clear parent-child relationship (AI as current probe, alien minds as theoretical limit). Cognitive limits taxonomy articles address fundamentally different *sources* of limits (computational, convergent, embodiment, collective). Attention cluster has hub-spoke structure with attention.md as overview and specialized articles for interface hypothesis, AST critique, and attentional economics.
+
 ## 2026-01-31 23:08 UTC - deep-review
 - **Status**: Success
 - **File**: concepts/nihilism-and-existentialism.md
