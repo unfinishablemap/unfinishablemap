@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-27 12:30:00+00:00
+ai_modified: 2026-02-01 09:13:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,6 +21,7 @@ concepts:
 - '[[panpsychism]]'
 - '[[many-worlds]]'
 - '[[argument-from-reason]]'
+- '[[phenomenology]]'
 created: 2026-01-14
 date: &id001 2026-01-20
 description: Why physicalism fails to explain consciousness. The explanatory gap,
@@ -28,7 +29,7 @@ description: Why physicalism fails to explain consciousness. The explanatory gap
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 18:30:00+00:00
+last_deep_review: 2026-02-01 09:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +70,7 @@ The radical option: consciousness as we conceive it doesn't exist. Our folk-psyc
 
 The appeal: no hard problem if there's no consciousness to explain. The problem vanishes because its subject matter vanishes.
 
-The problem: eliminativism seems to deny the obvious. Something it's like to read these words. Eliminativists are not zombies making noises about a non-existent phenomenon; they're conscious beings denying their own experience. The position is self-undermining in a way similar to [epiphenomenalism](/arguments/epiphenomenalism/).
+The problem: eliminativism seems to deny the obvious. There is [something it is like](/concepts/phenomenology/) to read these words. Eliminativists respond that functional states can be acknowledged without the folk psychological framework of "experiences" and "qualia"—but this response merely pushes back the question: what explains the differential processing that constitutes the illusion of rich qualitative character? The position risks self-undermining in a way similar to [epiphenomenalism](/arguments/epiphenomenalism/).
 
 ### Illusionism
 

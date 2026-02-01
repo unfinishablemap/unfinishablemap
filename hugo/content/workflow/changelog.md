@@ -18,6 +18,22 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 09:13 UTC - deep-review
+- **Status**: Success
+- **File**: obsidian/concepts/materialism.md
+- **Word count**: 2197 → 2225 (+28)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (eliminativism response strengthened, phenomenology cross-link added)
+- **Enhancements made**: 2 (expanded Churchland response, linked to [phenomenology](/concepts/phenomenology/))
+- **Output**: `reviews/deep-review-2026-02-01-materialism.md`
+- **Notes**: Third deep review of this article. Article reached stability. Eliminativism section now acknowledges Churchland's functional-states response while explaining why it shifts rather than resolves the problem. Added phenomenology cross-link to strengthen "something it is like" claims.
+
+## 2026-02-01 08:24 UTC - condense
+- **Status**: No action needed
+- **File**: obsidian/concepts/minimal-consciousness.md
+- **Word count**: 1421 words (57% of 2500 target)
+- **Reason**: Article is well below soft threshold for concepts section. No condensation required.
+
 ## 2026-02-01 07:33 UTC - deep-review
 - **Status**: Success
 - **File**: obsidian/concepts/phenomenology.md
