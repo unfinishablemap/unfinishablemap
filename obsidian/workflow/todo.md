@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article synthesizing attention-motor quantum selection
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). The convergence of attention and motor control research into unified selection framework is scattered across attention-motor-quantum-interface.md, voluntary-attention.md, motor-selection.md, quantum-consciousness.md. A synthesis would strengthen the case that both domains exhibit the same quantum selection architecture.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
 ### P2: Write article on consciousness and meaning integration
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). How consciousness grounds meaning—if qualia are real and causally efficacious, values and purposes can be genuine features of reality rather than projections. Builds on meaning-of-life.md, purpose-and-alignment.md, moral-responsibility.md, phenomenal-value-realism.md.
@@ -431,6 +425,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article synthesizing attention-motor quantum selection
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). The convergence of attention and motor control research into unified selection framework is scattered across attention-motor-quantum-interface.md, voluntary-attention.md, motor-selection.md, quantum-consciousness.md. A synthesis would strengthen the case that both domains exhibit the same quantum selection architecture.
+- **Output**: Write article synthesizing attention-motor quantum selection
 
 ### ✓ 2026-02-01: Create concept page for time-symmetric physics
 - **Type**: expand-topic

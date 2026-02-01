@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 21:54 UTC - expand-topic
+- **Status**: Success
+- **Topic**: attention-motor quantum selection
+- **Output**: [[topics/attention-motor-quantum-selection]]
+- **Word count**: 2410
+- **Based on research**: yes ([[attention-motor-planning-quantum-interface-2026-01-23]], [[dopamine-attention-motor-quantum-interface-2026-01-24]], [[motor-control-quantum-zeno-2026-01-18]])
+
 ## 2026-02-01 21:49 UTC - expand-topic
 - **Status**: Success
 - **Topic**: time-symmetric physics
