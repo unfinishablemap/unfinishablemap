@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on phenomenology of understanding
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-27 (late). What is it like to understand something? The phenomenology of comprehension, insight, and conceptual grasp supports cognitive phenomenology and distinguishes consciousness from information processing. Builds on cognitive-phenomenology.md, epistemic-emotions.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-27
-
-### P2: Write expanded Buddhist philosophy integration article
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-27 (late). Deeper integration: How does anatta (no-self) relate to haecceity? Does śūnyatā (emptiness) challenge or complement the Map's framework? Contemplative phenomenology as evidential support. Builds on buddhism-and-dualism.md, eastern-philosophy-consciousness.md, witness-consciousness.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-27
-
 ### P2: Create concept page for baseline-cognition
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-27 (night). Foundational concept referenced across multiple articles but lacking dedicated treatment. Would clarify what cognition achieves without consciousness and why this matters for the causal efficacy question. The concept appears in consciousness-in-simple-organisms.md and implicitly in argument-from-reason.md.
@@ -491,6 +479,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article on phenomenology of understanding
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27 (late). What is it like to understand something? The phenomenology of comprehension, insight, and conceptual grasp supports cognitive phenomenology and distinguishes consciousness from information processing. Builds on cognitive-phenomenology.md, epistemic-emotions.md.
+- **Output**: phenomenology of understanding
 
 ### ✓ 2026-02-01: Write article on philosophy of temporal experience
 - **Type**: expand-topic
