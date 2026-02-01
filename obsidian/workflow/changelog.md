@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 15:30 UTC - refine-draft
+- **Status**: Success
+- **File**: obsidian/topics/death-and-consciousness.md
+- **Changes**:
+  - Removed overstated "40% awareness" figure; replaced with actual study statistics (Van Lommel 18%, Parnia 9%)
+  - Corrected AWARE study claims: noted hidden target methodology has not yielded verified OBE perceptions
+  - Added context for Xu et al. 2023 gamma wave findings: researchers interpreted as neural correlates
+  - Removed unqualified "veridical perception cases" claim; noted controlled verification remains elusive
+  - Added proper citations: Van Lommel 2001, Parnia 2014, Xu 2023
+- **Published**: yes
+- **Notes**: Based on pessimistic review 2026-02-01-afternoon. Key improvement: intellectual honesty about current state of NDE research methodology.
+
 ## 2026-02-01 15:23 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: Mental causation and physics cluster

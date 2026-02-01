@@ -4,7 +4,7 @@ description: "Does consciousness survive bodily death? Dualism keeps the questio
 created: 2026-01-14
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-28T21:15:00+00:00
+ai_modified: 2026-02-01T15:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -124,11 +124,11 @@ The Map's [[interactionist-dualism]] leaves these questions open. What matters i
 
 [[near-death-experiences|Near-death experiences]] (NDEs)—now termed "Recalled Experience of Death" (RED)—provide intriguing evidence for consciousness beyond brain function. NDEs sit within a broader spectrum of [[altered-states-of-consciousness|altered states]] that reveal consciousness operating in configurable modes. The "paradox of heightened experience" during brain compromise parallels the psychedelic paradox: decreased neural activity, expanded experience.
 
-Common features include out-of-body perception, life review, encounters with deceased relatives, and profound mental clarity. Approximately 40% of cardiac arrest survivors report awareness during the event—yet only 18% in Van Lommel's study reported full NDEs. Something distinguishes experiencers from non-experiencers, and that something remains unexplained.
+Common features include out-of-body perception, life review, encounters with deceased relatives, and profound mental clarity. Studies report varying rates of awareness during cardiac arrest—Van Lommel et al. (2001) found 18% of survivors reported NDEs, while Parnia et al. (2014) found 9% had verified awareness. The variation in reported rates highlights methodological challenges in this research. Something distinguishes experiencers from non-experiencers, and that something remains unexplained.
 
-**Key findings:** The AWARE II studies documented systematic patterns across multiple sites. A 2024 study found gamma wave surges in dying brains—coherent activity in consciousness-associated regions persisting minutes after cardiac arrest. If consciousness depends entirely on neural function, heightened experience during brain failure is paradoxical.
+**Key findings:** The AWARE studies documented systematic patterns across multiple sites, though the hidden visual target methodology did not yield verified out-of-body perceptions (only one subject reported leaving their body in a location with targets, and recall was incomplete). A 2023 study (Xu et al.) found gamma wave surges in dying brains—coherent activity in consciousness-associated regions persisting briefly after cardiac arrest. The researchers interpreted this as neural correlates of end-of-life brain activity rather than evidence for brain-independent consciousness; however, the pattern of heightened neural organisation during apparent shutdown remains noteworthy. If consciousness depends entirely on neural function, heightened experience during brain failure is paradoxical.
 
-Materialist explanations exist—ketamine-like effects, REM intrusion, temporal lobe seizures—but none fully accounts for NDE coherence, veridical perception cases, or why failing neural function produces *heightened* rather than diminished consciousness.
+Materialist explanations exist—ketamine-like effects, REM intrusion, temporal lobe seizures—but none fully accounts for NDE coherence or why failing neural function sometimes produces *heightened* rather than diminished consciousness.
 
 This doesn't prove survival. But it suggests the brain-consciousness relationship may be more complex than simple production. See [[near-death-experiences]] for detailed treatment.
 
@@ -218,7 +218,7 @@ The Map's openness to survival would face serious difficulty if:
 
 1. **The illusionist functional explanation proves complete.** If attention schema theory or similar frameworks could fully explain not just *reports* about consciousness but the phenomenology itself—if someone who has directly experienced awareness could be satisfied that their experience is exhaustively explained by functional processes—then survival questions would dissolve. Currently, such explanations seem to leave out what matters most.
 
-2. **Veridical NDE claims are systematically debunked.** The AWARE studies attempted to verify out-of-body perceptions. If comprehensive, well-designed studies consistently found that NDE reports fail verification tests—that subjects report details they couldn't verify even under optimal conditions—the evidential weight of NDEs would diminish. Current evidence is mixed but includes verified cases.
+2. **Veridical NDE claims are systematically debunked.** The AWARE studies attempted to verify out-of-body perceptions using hidden visual targets, but the methodology has not yet yielded confirmed veridical perception—only one subject reported an OBE in a target area, with incomplete recall. If comprehensive, well-designed studies consistently found that NDE reports fail verification tests, the evidential weight of NDEs would diminish. Anecdotal reports of veridical perception exist in the literature (e.g., patients accurately describing resuscitation procedures), but controlled verification remains elusive.
 
 3. **Consciousness proved definitively to be substrate-dependent.** If neuroscience demonstrated not just correlation but necessary identity between consciousness and specific neural processes—if we understood exactly how neurons generate experience—then the filter model would become unmotivated. Currently, correlation is established but the mechanism remains mysterious.
 
@@ -263,16 +263,20 @@ What the Map claims: given its dualist commitments, survival is a *coherent poss
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 - Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*.
 - Hagan, S., Hameroff, S., & Tuszynski, J. (2002). "Quantum computation in brain microtubules." *Physical Review E*.
+- Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
+- Parnia, S., et al. (2014). "AWARE—AWAreness during REsuscitation—A prospective study." *Resuscitation*, 85(12), 1799-1805.
+- Xu, G., et al. (2023). "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain." *PNAS*, 120(19).
 
-<!-- AI REFINEMENT LOG - 2026-01-28
+<!-- AI REFINEMENT LOG - 2026-02-01
 Changes made:
-- Acknowledged limits of radio analogy for filter theory
-- Added discussion of selective brain deficits (Broca's area, fusiform face area examples)
-- Presented two filter-theorist responses: sophisticated transmission model and rendering engine analogy
-- Explicitly acknowledged this as a genuine weakness of filter theory
+- Removed overstated "40% awareness" figure; replaced with actual study statistics (Van Lommel 18%, Parnia 9%)
+- Corrected AWARE study claims: noted hidden target methodology has not yielded verified OBE perceptions
+- Added context for Xu et al. 2023 gamma wave findings: researchers interpreted as neural correlates, not evidence for brain-independent consciousness
+- Removed unqualified "veridical perception cases" claim; noted controlled verification remains elusive
+- Added proper citations: Van Lommel 2001, Parnia 2014, Xu 2023
 
-Based on pessimistic review 2026-01-25 identifying radio analogy vulnerability.
-Key improvement: Intellectual honesty about where filter theory strains against empirical patterns.
+Based on pessimistic review 2026-02-01-afternoon identifying NDE evidence overstatement.
+Key improvement: Intellectual honesty about current state of NDE research methodology.
 
 This log should be removed after human review.
 -->
