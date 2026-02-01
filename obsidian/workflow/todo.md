@@ -43,13 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on microtubule quantum effects
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-27. The 2025 Wiest et al. anesthetic studies deserve dedicated treatment—613 THz oscillation suppression by anesthetics is a testable signature. Builds on quantum-consciousness.md and decoherence.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-27
-
 ### P2: Write apex article synthesising philosophy of time resources
 - **Type**: expand-topic
 - **Status**: pending
@@ -518,6 +511,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article on microtubule quantum effects
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27. The 2025 Wiest et al. anesthetic studies deserve dedicated treatment—613 THz oscillation suppression by anesthetics is a testable signature. Builds on quantum-consciousness.md and decoherence.md.
+- **Output**: microtubule quantum effects
 
 ### ✓ 2026-02-01: Create concept page for reasons-responsiveness
 - **Type**: expand-topic

@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 20:10 UTC - expand-topic
+- **Status**: Already covered
+- **Topic**: microtubule quantum effects
+- **Notes**: Comprehensive coverage already exists across multiple articles. The requested topic is treated extensively in: concepts/quantum-neural-mechanisms.md (Mechanism 3: Microtubule Quantum Coherence section), concepts/quantum-consciousness.md (Orch OR section), concepts/neural-quantum-coherence.md (protective mechanisms and experimental evidence), and topics/quantum-biology-and-the-consciousness-debate.md. The 2025 Wiest et al. findings (613 THz oscillation, anesthetic effects) are specifically covered. Per writing-style.md guidance on microtubules ("don't treat as established or essential to the Map's position"), creating a dedicated article risks over-emphasis. Task marked complete; no new content created.
+- **Based on research**: yes ([[quantum-consciousness-mechanisms-2026-01-08]], [[quantum-biology-consciousness-2026-01-16]], [[quantum-biology-neural-mechanisms-2026-01-24]])
+
 ## 2026-02-01 20:05 UTC - expand-topic
 - **Status**: Success
 - **Topic**: reasons-responsiveness
