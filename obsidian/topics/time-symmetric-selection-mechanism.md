@@ -4,7 +4,7 @@ description: "How consciousness selects quantum outcomes atemporally. The transa
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T18:57:00+00:00
+ai_modified: 2026-02-01T19:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,8 @@ concepts:
   - "[[libet-experiments]]"
   - "[[temporal-consciousness]]"
   - "[[specious-present]]"
+  - "[[decoherence]]"
+  - "[[illusionism]]"
 related_articles:
   - "[[tenets]]"
   - "[[time-collapse-and-agency]]"
@@ -28,6 +30,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
+last_deep_review: 2026-02-01T19:17:00+00:00
 ---
 
 Time-symmetric selection proposes that consciousness determines quantum outcomes not at a moment in time but through atemporal constraint satisfaction. On this view, consciousness participates in determining which correlations hold between past and future—selecting which "transaction" completes—rather than causing collapse at an instant. This resolves the apparent timing problem from [[libet-experiments|Libet experiments]]: neural activity can precede conscious awareness without undermining conscious causation, because the selection isn't located in time at all.
@@ -38,7 +41,7 @@ The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interac
 
 [[libet-experiments|Benjamin Libet's experiments]] (1983) revealed that neural "readiness potentials" precede conscious awareness of deciding by several hundred milliseconds. Later fMRI studies by Soon et al. (2008) extended this to seconds. If neural activity comes first, how can consciousness be the cause?
 
-The standard interpretation: the brain decides, then informs consciousness—which is therefore epiphenomenal. But this conclusion only follows if causation must flow forward in time. Time-symmetric interpretations of quantum mechanics deny this assumption.
+The standard interpretation: the brain decides, then informs consciousness—which is therefore epiphenomenal. [[illusionism|Illusionists]] go further, arguing consciousness doesn't really "arrive" at all—the brain constructs the appearance of decision-making post hoc. But both conclusions only follow if causation must flow forward in time. Time-symmetric interpretations of quantum mechanics deny this assumption.
 
 ## Time-Symmetric Physics
 
@@ -118,6 +121,10 @@ Henry Stapp's [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno m
 
 The mechanisms complement rather than compete. Zeno describes the interface at each observation event; time-symmetry explains how the pattern of observations determines outcomes across time without requiring consciousness to temporally precede neural activity.
 
+### The Decoherence Challenge
+
+Critics object that quantum effects cannot survive in warm biological systems—[[decoherence]] destroys coherence in femtoseconds, far too fast for neural processes. Three responses apply: (1) Decoherence timescales are disputed, with Hameroff's group obtaining estimates seven orders of magnitude longer than Tegmark's. (2) The Zeno mechanism sidesteps sustained coherence—rapid observation events happen faster than decoherence can act. (3) Biological quantum effects (avian magnetoreception, photosynthetic energy transfer) demonstrate evolution's capacity to exploit coherence. More fundamentally, decoherence doesn't solve the measurement problem—something must still select which outcome becomes actual after decoherence has selected preferred bases. See [[decoherence]] for detailed treatment.
+
 ## The Modified Growing Block
 
 Time-symmetric physics seems to require eternalism—past and future must both exist to send and receive waves. But the Map's [[collapse-and-time|collapse framework]] requires real temporal becoming. How to reconcile?
@@ -180,9 +187,9 @@ Can time-symmetric selection be tested? The transactional and standard interpret
 
 But specific signatures might distinguish consciousness-involving selection:
 
-- **Contemplative phenomenology**: Do trained meditators report temporal experience consistent with atemporal selection? Cessation states (where time reportedly stops) would be relevant.
-- **Timing correlations**: Does the relationship between neural activity and conscious awareness match what atemporal selection predicts?
-- **Random number generator effects**: Can consciousness bias quantum random processes? Evidence is mixed but this remains a potential test.
+- **Contemplative phenomenology**: Do trained meditators report temporal experience consistent with atemporal selection? Cessation states (where time reportedly stops) and the "timeless" quality of deep concentration would be relevant.
+- **Timing correlations**: Does the relationship between neural activity and conscious awareness match what atemporal selection predicts? The Libet data is compatible with the model; further studies of decision timing could provide constraints.
+- **Neural indeterminacy gaps**: The 60% prediction accuracy in Soon et al. leaves substantial room for undetermined factors. If this gap closed with better measurement, the selection model would face difficulty; if it persists despite improved techniques, something beyond measured neural activity contributes to outcomes.
 
 None of these is conclusive. The framework is speculative but not unfalsifiable—it makes commitments about consciousness, time, and quantum mechanics that ongoing research could confirm or challenge.
 
