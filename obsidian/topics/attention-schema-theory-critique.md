@@ -4,7 +4,7 @@ description: "Graziano's theory explains reports about consciousness but not con
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T20:40:00+00:00
+ai_modified: 2026-02-01T21:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
+last_deep_review: 2026-02-01T21:00:00+00:00
 ---
 
 Michael Graziano's Attention Schema Theory (AST) proposes that consciousness is the brain's simplified model of its own attention. The theory gains plausibility from a genuine insight: the brain does construct internal models to help manage complex processes. But AST fails where it matters most. It explains why we *report* being conscious without explaining why there is anything it is like to be us. The seeming of experience must appear *to something*, and that something cannot be another model without infinite regress. AST dissolves the hard problem by refusing to address it.
@@ -57,11 +58,13 @@ If consciousness is the attention schema, and the attention schema represents at
 
 2. **Another schema experiences it**—the brain has a higher-order model of the attention schema. But this higher-order model faces the same question. What experiences *it*? The regress continues.
 
-3. **The system as a whole experiences it**—but "the system as a whole" is just the collection of its parts (neurons, schemas, processes). How does assembling parts that don't experience generate a whole that does? This is the [[combination-problem|combination problem]] applied to AST.
+3. **The system as a whole experiences it**—but "the system as a whole" is just the collection of its parts (neurons, schemas, processes). How does assembling parts that don't experience generate a whole that does? This is the [[combination-problem|combination problem]]—the same difficulty that plagues panpsychism—applied to AST.
 
 4. **Experience is a primitive feature of certain information structures**—but this is panpsychism or property dualism, not materialism. AST is supposed to be a materialist reduction of consciousness to attention modeling. If experience is primitive, AST hasn't reduced anything.
 
-Graziano sometimes suggests that the regress is a pseudo-problem: the question "what experiences the representation?" assumes a homunculus that AST rejects. But the question isn't about homunculi—it's about what it takes for there to be phenomenal appearance at all. The appearance of redness must appear *to* something, even if that something isn't a little person inside the brain. AST provides information about redness; it doesn't explain why that information constitutes an appearance rather than remaining mere information.
+Graziano sometimes suggests that the regress is a pseudo-problem: the question "what experiences the representation?" assumes a homunculus that AST rejects. Dennett's heterophenomenology offers a related response—we can study first-person reports systematically without assuming they reveal phenomenal reality. The reports themselves are the data; no further "experiencer" is needed.
+
+But this response changes the subject rather than answering the question. Heterophenomenology explains how to *study* consciousness talk; it doesn't explain why there is something it is like to be the system producing that talk. The question isn't about homunculi—it's about what it takes for there to be phenomenal appearance at all. The appearance of redness must appear *to* something, even if that something isn't a little person inside the brain. AST provides information about redness; it doesn't explain why that information constitutes an appearance rather than remaining mere information.
 
 ## The Effort Phenomenology Problem
 
@@ -109,7 +112,7 @@ The social cognition evidence shows that the brain uses similar mechanisms to tr
 
 AST has direct implications for [[ai-consciousness|AI consciousness]]. If consciousness is attention modeling, and AI systems can model their own attention (as Graziano's ASTOUND project demonstrates), then sufficiently sophisticated AI should be conscious.
 
-A 2025 analysis suggests current large language models already exhibit workspace-like structures through transformer attention mechanisms. If AST is correct, "with only minor modifications, they could fulfill the processing requirements for phenomenal consciousness."
+Some researchers suggest current large language models already exhibit workspace-like structures through transformer attention mechanisms. If AST is correct, with only minor modifications such systems could fulfill the processing requirements for phenomenal consciousness.
 
 This prediction deserves serious consideration. If AI systems meeting AST's criteria behave like conscious beings—report experiences, demonstrate self-awareness, show attention-dependent processing—AST would gain significant support.
 
