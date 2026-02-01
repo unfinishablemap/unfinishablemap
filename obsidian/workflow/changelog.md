@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 20:40 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Attention Schema Theory critique
+- **Output**: [[topics/attention-schema-theory-critique]]
+- **Word count**: 2742
+- **Based on research**: yes ([[attention-consciousness-mechanisms-2026-01-15]])
+
 ## 2026-02-01 20:35 UTC - expand-topic
 - **Status**: Success
 - **Topic**: William James and consciousness

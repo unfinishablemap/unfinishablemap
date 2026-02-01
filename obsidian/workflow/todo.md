@@ -43,13 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on Attention Schema Theory critique
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-27 (evening). Graziano's AST is a major illusionist theory not yet given dedicated treatment. The Map's attention-as-interface concept provides resources for critique—attention is mechanism, not explanation. Builds on illusionism.md, attention-as-interface.md, stapp-quantum-mind.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-27
-
 ### P2: Write article on philosophy of temporal experience
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-27 (late). Synthesize Husserl's internal time consciousness, Bergson's durée, and Whitehead's actual occasions into unified treatment. Currently scattered across temporal-consciousness.md, duration.md, and process philosophy sections. Would strengthen bidirectional interaction (consciousness as temporal agent) and no-many-worlds (one actual sequence) tenets.
@@ -483,6 +476,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article on Attention Schema Theory critique
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27 (evening). Graziano's AST is a major illusionist theory not yet given dedicated treatment. The Map's attention-as-interface concept provides resources for critique—attention is mechanism, not explanation. Builds on illusionism.md, attention-as-interface.md, stapp-quantum-mind.md.
+- **Output**: Attention Schema Theory critique
 
 ### ✓ 2026-02-01: Write article on William James and consciousness
 - **Type**: expand-topic
