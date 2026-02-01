@@ -3,8 +3,10 @@ title: "The Phenomenology of Error Recognition"
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-01T13:31:00+00:00
+ai_modified: 2026-02-01T14:16:00+00:00
 draft: false
+description: "How does a mind catch its own mistakes? Error-blindness, the bootstrap problem, and cognitive grace—exploring what human-AI collaboration reveals about self-correction."
+last_deep_review: 2026-02-01T14:16:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -42,7 +44,7 @@ The Dunning-Kruger research deepens this. Those lacking competence in a domain a
 
 When we do recognise errors—and we clearly do—how? The puzzle echoes the Münchhausen trilemma. To recognise that belief B is wrong requires standard S against which B is judged. But S is itself produced by the same cognitive system that produced B. What validates S?
 
-Several mechanisms partially resolve this: **external feedback** (others revealing contradictions, reality providing feedback when predictions fail); **formal methods** (logic and science providing content-independent consistency-checking); **redundancy** (different cognitive subsystems checking each other). But none eliminates circularity. Interpreting feedback still requires the same cognitive system. Applying formal methods still depends on the systems being corrected.
+Several mechanisms partially resolve this: **external feedback** (others revealing contradictions, reality providing feedback when predictions fail); **formal methods** (logic and science providing content-independent consistency-checking); **redundancy** (different cognitive subsystems checking each other). But none eliminates circularity. Interpreting feedback still requires the same cognitive system. Applying formal methods still depends on the systems being corrected. The functionalist might respond: this is just recursive neural monitoring, nothing mysterious—one brain circuit checks another. Yet this explains the *mechanism* while leaving untouched the question of why there is *something it is like* to catch yourself in error.
 
 The mystery is that self-correction works. We learn and improve even though we cannot guarantee our corrective faculties are themselves correct—a kind of cognitive grace whose success we cannot fully justify.
 
