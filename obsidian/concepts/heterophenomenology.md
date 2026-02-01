@@ -4,8 +4,8 @@ description: "Dennett's third-person method for studying consciousness. Its offi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-01-26T22:20:00+00:00
-last_deep_review: 2026-01-25T19:31:47+00:00
+ai_modified: 2026-02-01T15:50:00+00:00
+last_deep_review: 2026-02-01T15:50:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -103,7 +103,7 @@ Heterophenomenology naturally pairs with [[illusionism]]—the view that phenome
 
 The illusionist move: phenomenology is how cognition represents itself, not a genuine feature of reality. We seem to have phenomenal experiences because introspective mechanisms systematically misrepresent their own processes. Heterophenomenology provides the methodological scaffolding—first-person reports are data, but data about cognitive misrepresentation, not about real phenomenal properties.
 
-The Map rejects both heterophenomenology and illusionism. Phenomenal consciousness is the one thing we know most directly—though this directness is not the same as infallibility. Empirical research on change blindness, inattentional blindness, and confabulation demonstrates that introspection can be unreliable about *specific contents* of experience. But these findings do not undermine the existence of experience itself. We may misreport what we see, but that there is something it's like to see remains undeniable. As Thomas Nagel argues, "The fact that an organism has conscious experience at all means, basically, that there is something it is like to be that organism... fundamentally an organism has conscious mental states if and only if there is something that it is like to be that organism—something it is like *for* the organism."
+The Map rejects both heterophenomenology and illusionism. Phenomenal consciousness is the one thing we know most directly—though this directness is not the same as infallibility. Empirical research on change blindness, inattentional blindness, and confabulation demonstrates that [[introspection]] can be unreliable about *specific contents* of experience. But these findings do not undermine the existence of experience itself. We may misreport what we see, but that there is something it's like to see remains undeniable. As Thomas Nagel argues, "The fact that an organism has conscious experience at all means, basically, that there is something it is like to be that organism... fundamentally an organism has conscious mental states if and only if there is something that it is like to be that organism—something it is like *for* the organism."
 
 If there is something it's like to have experiences, that cannot be an illusion—illusions are themselves phenomenal states requiring explanation.
 

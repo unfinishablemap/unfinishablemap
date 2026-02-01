@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Deep review heterophenomenology.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers Dennett's third-person methodology for studying consciousness. Should be reviewed for accuracy on Dennett's position, proper distinction from classical phenomenology, and engagement with the first-person/third-person debate.
-- **Source**: staleness
-- **Generated**: 2026-01-23
-
 ### P2: Deep review emotional-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Covers the relationship between emotions and phenomenal consciousness. Should verify: (1) accuracy of emotion theory presentations (James-Lange, Cannon-Bard, appraisal), (2) engagement with somatic marker hypothesis, (3) connection to phenomenal-value-realism and valence, (4) alignment with bidirectional interaction tenet.
@@ -725,6 +719,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Deep review heterophenomenology.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers Dennett's third-person methodology for studying consciousness. Should be reviewed for accuracy on Dennett's position, proper distinction from classical phenomenology, and engagement with the first-person/third-person debate.
+- **Output**: obsidian/concepts/heterophenomenology.md
 
 ### ✓ 2026-02-01: Write article on consciousness and language interface
 - **Type**: expand-topic
