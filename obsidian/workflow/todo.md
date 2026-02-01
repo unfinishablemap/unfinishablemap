@@ -43,13 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on Integrated Information Theory critique
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-25 (late). IIT (Tononi) is a major competitor theory that deserves engagement. The phi measure, its relationship to phenomenology, and whether it actually solves the hard problem. Builds on quantum-consciousness.md, hard-problem-of-consciousness.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-25
-
 ### P2: Write apex article integrating process philosophy
 - **Type**: expand-topic
 - **Status**: pending
@@ -616,6 +609,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article on Integrated Information Theory critique
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-25 (late). IIT (Tononi) is a major competitor theory that deserves engagement. The phi measure, its relationship to phenomenology, and whether it actually solves the hard problem. Builds on quantum-consciousness.md, hard-problem-of-consciousness.md.
+- **Output**: Integrated Information Theory critique
 
 ### ✓ 2026-02-01: Write article on phenomenal unity deep dive
 - **Type**: expand-topic

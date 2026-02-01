@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 18:42 UTC - expand-topic
+- **Status**: Skipped (article already exists)
+- **Topic**: Integrated Information Theory critique
+- **Existing article**: [[topics/integrated-information-theory-critique]]
+- **Note**: Article "Why Integrated Information Theory Falls Short" created 2026-01-27, last reviewed 2026-01-29. Covers passivity problem, expander graph objection, and temporal gap. No duplicate created.
+
 ## 2026-02-01 18:37 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Comprehensive sample of 50+ topics, concepts, and tenets
