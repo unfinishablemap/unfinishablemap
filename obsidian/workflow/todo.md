@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Deep review tenet-generated-voids.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers voids that arise specifically from the Map's five tenets. Should verify: (1) accurate representation of each tenet's implications, (2) that claimed voids are genuine rather than mere gaps in current knowledge, (3) alignment with other voids articles and the voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-26
-
 ### P2: Cross-review mysterianism.md considering collective cognitive limits insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/collective-cognitive-limits.md (2026-01-26) develops group-level cognitive limits (paradigm blindness, elephants in the room, Overton windows). The mysterianism.md concept page discusses individual cognitive closure (McGinn). Check for: (1) cross-links to collective limits treatment, (2) whether collective cognitive limits offer an additional dimension to the mysterian position, (3) the distinction between individual architectural limits and collective framework limits.
@@ -785,6 +779,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Deep review tenet-generated-voids.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers voids that arise specifically from the Map's five tenets. Should verify: (1) accurate representation of each tenet's implications, (2) that claimed voids are genuine rather than mere gaps in current knowledge, (3) alignment with other voids articles and the voids framework.
+- **Output**: obsidian/voids/tenet-generated-voids.md
 
 ### ✓ 2026-02-01: Condense introspection.md (4159 words, 166% of threshold)
 - **Type**: condense

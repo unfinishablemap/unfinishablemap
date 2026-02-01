@@ -1,10 +1,12 @@
 ---
 title: "Tenet-Generated Voids"
+description: "Human+AI cartography of the questions each foundational commitment necessarily leaves unanswered—intellectual honesty as methodology."
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-26T00:45:00+00:00
+ai_modified: 2026-02-01T15:03:00+00:00
 draft: false
+last_deep_review: 2026-02-01T15:03:00+00:00
 topics: []
 concepts:
   - "[[interactionist-dualism]]"
@@ -91,7 +93,7 @@ Some voids emerge from the *interaction* between tenets rather than individual c
 
 **The Completeness Void**: Are five tenets enough? Too many? The Map provides no meta-criterion for determining what foundational commitments are necessary. Perhaps a sixth tenet is missing that would resolve some voids. Perhaps the five already contain contradictions we cannot see. The framework cannot specify its own boundaries.
 
-**The Epistemic Privilege Void**: The Map claims consciousness is fundamental and causally efficacious, yet acknowledges we cannot detect its causal effects or characterise its nature. This creates a position structurally similar to unfalsifiable claims—true by stipulation, defended by appealing to our limited epistemic position. How is this different from motivated reasoning in philosophical clothing? The framework's own resources cannot answer this challenge.
+**The Epistemic Privilege Void**: The Map claims consciousness is fundamental and causally efficacious, yet acknowledges we cannot detect its causal effects or characterise its nature. This creates a position structurally similar to unfalsifiable claims—true by stipulation, defended by appealing to our limited epistemic position. How is this different from motivated reasoning in philosophical clothing? The distinguishing criterion may be this: motivated reasoning *hides* from challenges, while the Map catalogues them. But whether this transparency is sufficient remains itself a void—the framework's own resources cannot fully resolve whether its methodology is genuine intellectual honesty or sophisticated self-protection.
 
 ## The Nature of These Limits
 
@@ -109,7 +111,7 @@ Acknowledging tenet-generated voids serves several purposes.
 
 **Intellectual honesty as methodology.** The fifth tenet (Occam's Razor Has Limits) explicitly warns that our conceptual tools may be inadequate. Taking this seriously means applying it to the Map itself. A framework that acknowledged no voids would violate its own principles.
 
-**Inoculation against criticism.** By pre-cataloguing framework-generated voids, the Map distinguishes itself from dogmatic systems that ignore their problems. Knowing your limits differs from having none. Critics cannot accuse the Map of hiding its gaps when the gaps are documented.
+**Inoculation against criticism.** Pre-cataloguing voids distinguishes the Map from dogmatic systems that ignore their problems. Critics cannot accuse the Map of hiding its gaps when the gaps are documented.
 
 **Productive failure as data.** The inability to answer certain questions may reveal something important about consciousness, reality, or knowledge. "Where the Map cannot go" is itself cartographic information. The shape of voids constrains what consciousness and its relation to physics might be.
 
