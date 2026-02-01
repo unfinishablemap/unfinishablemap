@@ -4,7 +4,8 @@ description: "How consciousness weaves distributed neural activity into seamless
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T21:22:00+00:00
+ai_modified: 2026-02-01T21:32:00+00:00
+last_deep_review: 2026-02-01T21:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -70,6 +71,8 @@ This explains access unity—why information becomes globally available to cogni
 
 Each theory provides mechanisms for BP1 while leaving BP2 untouched. Synchrony, integration, and broadcasting describe relations among separate elements. But phenomenal unity is not a relation among separates—it is the character of experience as indivisible whole. Leibniz saw this in his "mill argument": walking through an enlarged brain, you would see parts alongside parts, but nowhere would you find the unity of experience. The structure of physical description (external relations) differs categorically from the structure of phenomenal unity (intrinsic wholeness).
 
+A functionalist might object: perhaps "phenomenal unity" is just what subjects *report* when their cognitive systems are properly integrated. On this view, the sense of unity is itself a functional phenomenon—a benign user illusion produced by the brain's integration mechanisms. But this response faces a dilemma. If reports of unity are disconnected from any genuine phenomenal fact, then the reports themselves become mysterious—why would integration *produce* such reports rather than simply processing information silently? And if the reports *do* track something real, we're back to explaining what that something is. The heterophenomenological response shifts the problem without solving it.
+
 ## The Varieties of Unity
 
 Not all unity is the same. Tim Bayne and David Chalmers distinguish [[varieties-of-unity|three dimensions]]:
@@ -114,7 +117,7 @@ The [[quantum-consciousness|Orch OR hypothesis]] proposes that neural microtubul
 
 This doesn't solve the hard problem (why does *any* physical state produce experience?). But it solves the structure-matching problem. Classical mechanisms offer coordinated multiplicities as correlates of experiential unity. Quantum entanglement offers genuine physical unity as correlate of phenomenal unity. The structure matches.
 
-See [[quantum-binding-and-phenomenal-unity]] for detailed development of this argument, including experimental evidence from 2024-2025 (microtubule-anesthesia connections, MRI entanglement signatures) and responses to the decoherence objection.
+See [[quantum-binding-and-phenomenal-unity]] for detailed development of this argument, including responses to the decoherence objection.
 
 ## Why This Matters
 
@@ -132,7 +135,7 @@ This supports [[tenets#^dualism|dualism]]—not substance dualism necessarily, b
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Unified consciousness doesn't merely observe—it selects. What gets bound into unified experience is partly under voluntary control (attention shapes binding). This suggests top-down causation from phenomenal states to neural coordination.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Quantum binding requires real collapse. In many-worlds, all possible bindings occur in branching universes—there is no genuine selection, hence no fact about which configuration becomes actual. The phenomenal unity of *this* experience requires that *this* configuration was selected.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Quantum binding requires real collapse. In many-worlds, all possible bindings occur in branching universes. MWI proponents argue that each branch has its own fact about "which configuration is actual in this branch"—and the indexical experience of being in one branch rather than another is just a tautology. The Map maintains that this dissolves rather than explains the phenomenal question: why is there something it is like to be *this* observer in *this* branch? The indexical fact requires a metaphysical grounding that MWI refuses to provide.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Classical binding theories seem simpler—no quantum effects needed. But apparent simplicity fails if classical mechanisms cannot produce what needs explaining. The "simpler" hypothesis hasn't been shown to work; it's merely hoped to work.
 
