@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 19:12 UTC - expand-topic
+- **Status**: Success
+- **Topic**: substrate independence
+- **Output**: [[concepts/substrate-independence]]
+- **Word count**: 1419
+- **Based on research**: no (synthesized from existing Map content; complements existing substrate-independence-critique article)
+
 ## 2026-02-01 19:07 UTC - expand-topic
 - **Status**: Success
 - **Topic**: semantic phenomenology

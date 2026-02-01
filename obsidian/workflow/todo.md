@@ -43,13 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for substrate independence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-25 (late). The question of whether consciousness is substrate-independent deserves its own page—central to AI consciousness debates.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-25
-
 ### P2: Reduce quantum Zeno reliance in free-will.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -581,6 +574,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Create concept page for substrate independence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-25 (late). The question of whether consciousness is substrate-independent deserves its own page—central to AI consciousness debates.
+- **Output**: Create concept page for substrate independence
 
 ### ✓ 2026-02-01: Create concept page for semantic phenomenology
 - **Type**: expand-topic
