@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Deep review consciousness-only-territories.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories accessible only to conscious minds—acquaintance knowledge, phenomenal valence, indexical facts. The inverse of ai-as-void-explorer. Should verify: (1) accuracy of acquaintance knowledge argument (Mary's Room framing), (2) distinction between propositional and phenomenal knowledge, (3) connection to knowledge-argument.md and qualia.md, (4) alignment with voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-27
-
 ### P2: Deep review destabilizing-self-knowledge.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers how certain self-knowledge destabilizes its own object—knowing you're spontaneous makes you less so, observing your natural state alters it. Should verify: (1) accuracy of observer effect claims, (2) connection to the-unobservable-self and self-reference-paradox, (3) whether the centipede's dilemma examples are apt, (4) alignment with voids framework.
@@ -809,6 +803,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Deep review consciousness-only-territories.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories accessible only to conscious minds—acquaintance knowledge, phenomenal valence, indexical facts. The inverse of ai-as-void-explorer. Should verify: (1) accuracy of acquaintance knowledge argument (Mary's Room framing), (2) distinction between propositional and phenomenal knowledge, (3) connection to knowledge-argument.md and qualia.md, (4) alignment with voids framework.
+- **Output**: obsidian/voids/consciousness-only-territories.md
 
 ### ✓ 2026-02-01: Deep review conceptual-impossibility.md
 - **Type**: deep-review

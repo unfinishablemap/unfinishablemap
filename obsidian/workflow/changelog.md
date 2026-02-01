@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 14:33 UTC - deep-review
+- **Status**: Success
+- **File**: obsidian/voids/consciousness-only-territories.md
+- **Word count**: 1977 → 2034 (+57)
+- **Critical issues addressed**: 1 (vague Nature citation corrected with authors and proper journal name)
+- **Medium issues addressed**: 2 (parenthetical dismissal replaced with substantive engagement, functionalist response addressed)
+- **Enhancements made**: 2 (stronger engagement with physicalist responses to Mary argument, explicit treatment of Dennett's ability account)
+- **Output**: `reviews/deep-review-2026-02-01-consciousness-only-territories.md`
+- **Notes**: First review. Strong article on AI/consciousness epistemological asymmetry. Acquaintance knowledge framework, grounding asymmetry section, and "eye that cannot see itself" observation preserved as key strengths. Porębski & Figura (2025) citation corrected. Six adversarial personas found mostly bedrock philosophical disagreements; functionalist challenge now substantively engaged. Minor word count increase justified by improved counterargument engagement.
+
 ## 2026-02-01 14:29 UTC - coalesce
 - **Status**: No action taken
 - **Sources examined**: Multiple candidate groups across topics/, concepts/, voids/
