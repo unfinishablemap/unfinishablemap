@@ -474,6 +474,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-01
 
+### P3: Write article on consciousness-evolution problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-01 (night). How could non-physical consciousness evolve through natural selection if it influences physical outcomes? The site alludes to this but hasn't treated it systematically. If consciousness is causally efficacious (Bidirectional Interaction), evolution could select for it; needs explicit treatment. Builds on evolution-of-consciousness.md, tenets.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-02-01
+
+### P3: Write article on Princess Elizabeth's challenge (historical deep dive)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-01 (night). The famous objection has contemporary responses; historical treatment would show evolution of the debate and why quantum mechanics changes the terms. Directly supports Minimal Quantum Interaction by showing how Descartes couldn't answer what we now can. Builds on interactionist-dualism.md, conservation-laws-and-mind.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-02-01
+
+### P3: Write article on embodied consciousness and the interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-01 (night). How does the filter/interface model accommodate embodied cognition insights? The body shapes consciousness—is this compatible with dualism? Shows dualism can accommodate embodied insights without reducing to them. Builds on embodied-cognition.md, attention-as-interface.md, filter-theory.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-02-01
+
 ## Completed Tasks
 
 
