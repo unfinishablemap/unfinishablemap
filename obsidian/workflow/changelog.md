@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 19:22 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/free-will]]
+- **Changes**: Restructured to foreground phenomenological and agent-causal arguments; treated quantum mechanisms as illustrative rather than structurally central
+- **Reason**: Pessimistic review (2026-01-25) found quantum Zeno mechanism mentioned 7+ times and structurally central, contradicting style guide warning against building arguments around speculative mechanisms
+- **Published**: yes
+
 ## 2026-02-01 19:17 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/time-symmetric-selection-mechanism]]

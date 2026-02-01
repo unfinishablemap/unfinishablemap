@@ -43,13 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Reduce quantum Zeno reliance in free-will.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-01-25 found quantum Zeno mechanism mentioned 7+ times and structurally central, contradicting style guide's explicit warning against building arguments around speculative mechanisms. Restructure to treat quantum Zeno as one illustrative mechanism. Foreground phenomenological and agent-causal arguments that survive if the quantum mechanism fails.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-25
-
 ### P2: Write article on phenomenology of recursive thought
 - **Type**: expand-topic
 - **Status**: pending
@@ -574,6 +567,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Reduce quantum Zeno reliance in free-will.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-25 found quantum Zeno mechanism mentioned 7+ times and structurally central, contradicting style guide's explicit warning against building arguments around speculative mechanisms. Restructure to treat quantum Zeno as one illustrative mechanism. Foreground phenomenological and agent-causal arguments that survive if the quantum mechanism fails.
+- **Output**: obsidian/topics/free-will.md
+
+Task context:
+Pessimistic review 2026-01-25 found quantum Zeno mechanism mentioned 7+ times and structurally central, contradicting style guide's explicit warning against building arguments around speculative mechanisms. Restructure to treat quantum Zeno as one illustrative mechanism. Foreground phenomenological and agent-causal arguments that survive if the quantum mechanism fails.
 
 ### ✓ 2026-02-01: Create concept page for substrate independence
 - **Type**: expand-topic
