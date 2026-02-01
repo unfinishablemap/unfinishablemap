@@ -4,7 +4,7 @@ description: "What ADHD, attention fatigue, and meditation deficits reveal about
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T16:08:00+00:00
+ai_modified: 2026-02-01T16:15:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -26,6 +26,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
+last_deep_review: 2026-02-01T16:15:00+00:00
 ---
 
 If attention serves as consciousness's interface with the brain—as The Unfinishable Map's framework proposes—then attention disorders should reveal something about that interface. They do. ADHD, attention fatigue, and meditation difficulties each illuminate different aspects of how consciousness engages with neural systems. Rather than undermining the interface hypothesis, these conditions support it: they show what happens when specific components of the attention-selection mechanism are compromised.
@@ -40,7 +41,7 @@ Attention-deficit/hyperactivity disorder affects roughly 5% of children and 2.5%
 
 ADHD is strongly associated with dopamine system dysfunction. The most effective treatments—stimulant medications like methylphenidate and amphetamine—increase dopamine availability. This connection is revealing because dopamine modulates decision thresholds rather than generating motor capacity directly.
 
-A landmark 2024 *Nature* study demonstrated that dopamine-deficient mice "can move" but "won't move." Motor circuitry remains intact; goal-directed initiative is lost. This suggests a three-layer architecture:
+A landmark 2024 *Nature* study demonstrated that dopamine dynamics are dispensable for movement but promote reward responses. Mice with disrupted rapid dopamine signaling moved normally—motor circuitry remained intact—but showed reduced motivation during reward-guided behavior. Goal-directed initiative is lost even when motor capacity is preserved. This suggests—within the Map's interpretive framework—a three-layer architecture:
 
 1. **Neural computation** generates competing options (preserved without dopamine)
 2. **Dopamine** sets threshold sensitivity—how easily options become actions
@@ -175,7 +176,7 @@ The quantum mechanism specifically (consciousness biasing outcomes through the Z
 
 ### Dualism
 
-Attention disorders support [[tenets#^dualism|dualism's]] distinction between consciousness and its mechanisms. If consciousness *were* attention (as some functionalist accounts suggest), attention disorders should diminish consciousness. They don't—they impair control while leaving experience intact. The person with ADHD is fully conscious but struggling to direct that consciousness effectively.
+Attention disorders are consistent with [[tenets#^dualism|dualism's]] distinction between consciousness and its mechanisms. If consciousness *were* attention (as some functionalist accounts suggest), attention disorders should diminish consciousness. They don't—they impair control while leaving experience intact. The person with ADHD is fully conscious but struggling to direct that consciousness effectively.
 
 ### Bidirectional Interaction
 
@@ -193,6 +194,7 @@ The materialist might argue that attention disorders show attention is "just" ne
 
 - [[attention-as-interface]] — The core hypothesis: attention as consciousness's bridge to matter
 - [[attention-motor-quantum-interface]] — The unified attention-motor substrate for selection
+- [[stapp-quantum-mind]] — Stapp's quantum Zeno approach to mind-brain interaction
 - [[voluntary-attention]] — Neural signatures distinguishing willed from automatic attention
 - [[mental-effort]] — Why attention feels effortful and what effort signifies
 - [[dopamine-selection-interface]] — Dopamine's role in threshold modulation
