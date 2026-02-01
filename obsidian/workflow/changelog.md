@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 16:20 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Memory Void
+- **Category**: Unexplorable / Occluded / Mixed
+- **Output**: `research/voids-memory-void-2026-02-01.md`
+- **Key finding**: Past phenomenal experiences (qualia) may be fundamentally inaccessible—memory provides reconstructions and simulations rather than genuine access to original experience. The simulation theory of memory, combined with Parfit's observations about weakening psychological connectedness over time, suggests the experiential past is lost the moment it passes.
+
 ## 2026-02-01 16:19 UTC - expand-topic
 - **Status**: Already exists
 - **Topic**: consciousness and mathematical understanding
