@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the bootstrap problem where the mind that was wrong must recognize its error. Preserve: Schulz's error-blindness claims, connection to self-reference-paradox. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-27
-
 ### P2: Condense sleep-and-consciousness.md (3816 words, 153% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for topics/. Covers consciousness states across sleep stages. Preserve: core distinctions between NREM/REM consciousness, connection to neural correlates and quantum interface. See /condense skill.
@@ -828,6 +822,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Covers the bootstrap problem where the mind that was wrong must recognize its error. Preserve: Schulz's error-blindness claims, connection to self-reference-paradox. See /condense skill.
+- **Output**: obsidian/voids/phenomenology-of-error-recognition.md
 
 ### ✓ 2026-02-01: Condense minimal-consciousness.md (3750 words, 107% of threshold)
 - **Type**: condense
