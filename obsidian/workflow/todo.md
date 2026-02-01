@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Condense intuitive-dualism.md (3813 words, 153% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers developmental psychology evidence that humans naturally think dualistically. Preserve: Bloom's research, developmental timeline, connection to arguments for dualism. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-27
-
 ### P2: Deep review language-thought-boundary.md
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers Wittgenstein's Tractatus limits, Sapir-Whorf research, ineffability. Should verify: (1) accuracy of philosophical positions, (2) engagement with cognitive science of language, (3) distinction from general effability topic, (4) alignment with voids framework.
@@ -816,6 +810,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Condense intuitive-dualism.md (3813 words, 153% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers developmental psychology evidence that humans naturally think dualistically. Preserve: Bloom's research, developmental timeline, connection to arguments for dualism. See /condense skill.
+- **Output**: obsidian/concepts/intuitive-dualism.md
 
 ### ✓ 2026-02-01: Condense sleep-and-consciousness.md (3816 words, 153% of threshold)
 - **Type**: condense

@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 13:46 UTC - condense
+- **Status**: Success
+- **File**: obsidian/concepts/intuitive-dualism.md
+- **Before**: 3813 words
+- **After**: 1783 words
+- **Reduction**: 53%
+- **Technique**: Condensed Bloom's Natural-Born Dualists section (merged evidence subsections); tightened Cross-Cultural Challenge; shortened Learning Debate and Bering's Simulation Constraint; reduced Illusionist Challenge by 50% (linked to dedicated article); condensed Process Philosophy and Contemplative Perspectives significantly; compressed What Would Challenge into single paragraph; trimmed Relation to Site Perspective while preserving all five tenets; reduced Further Reading to essential links only.
+
 ## 2026-02-01 13:41 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/sleep-and-consciousness.md, concepts/materialism.md, voids/phenomenology-of-error-recognition.md
