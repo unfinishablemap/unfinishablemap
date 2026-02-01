@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for phenomenal overflow
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). Block's overflow research appears in multiple articles but lacks dedicated systematic treatment. Central to the access/phenomenal consciousness distinction.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
 ### P2: Create concept page for self-locating beliefs
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). Important for vertiginous question and many-worlds discussions. The distinction between qualitative knowledge and self-locating knowledge deserves dedicated treatment. Connects to Lewis's Two Gods scenario.
@@ -413,6 +407,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Create concept page for phenomenal overflow
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (comprehensive). Block's overflow research appears in multiple articles but lacks dedicated systematic treatment. Central to the access/phenomenal consciousness distinction.
+- **Output**: Create concept page for phenomenal overflow
 
 ### ✓ 2026-02-01: Write article on phenomenological evidence methodology
 - **Type**: expand-topic
