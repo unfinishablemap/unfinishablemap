@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 23:28 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/consciousness-and-agency]]
+- **Changed sources**: 3 (free-will, phenomenology-of-choice, counterfactual-reasoning)
+- **Word count**: 3788 → ~3800
+- **Review**: [[reviews/apex-evolve-2026-02-01-consciousness-and-agency]]
+- **Key changes**: Strengthened counterfactual reasoning integration, improved Desmurget dissociation reference, updated description to emphasize agent-causal framework
+
 ## 2026-02-01 21:54 UTC - expand-topic
 - **Status**: Success
 - **Topic**: attention-motor quantum selection
@@ -70,7 +78,7 @@ topics: []
 
 ## 2026-02-01 21:10 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[topics/philosophy-of-time-and-consciousness]], [[topics/philosophy-of-temporal-experience]], [[topics/time-perception-consciousness-theories]], [[topics/phenomenology-of-temporal-agency]]
+- **Sources**: [[archive/topics/philosophy-of-time-and-consciousness]], [[archive/topics/philosophy-of-temporal-experience]], [[archive/topics/time-perception-consciousness-theories]], [[archive/topics/phenomenology-of-temporal-agency]]
 - **Target**: [[topics/temporal-structure-of-consciousness]]
 - **Archived**: [[archive/topics/philosophy-of-time-and-consciousness]], [[archive/topics/philosophy-of-temporal-experience]], [[archive/topics/time-perception-consciousness-theories]], [[archive/topics/phenomenology-of-temporal-agency]]
 - **References to review**: 5 (integrated-information-theory, integrated-information-theory-critique, consciousness-time-perception-2026-01-14, optimistic-2026-01-30-evening, deep-review-2026-02-01-philosophy-of-time-and-consciousness)
@@ -101,7 +109,7 @@ topics: []
 ## 2026-02-01 20:50 UTC - expand-topic
 - **Status**: Success
 - **Topic**: philosophy of temporal experience
-- **Output**: [[topics/philosophy-of-temporal-experience]]
+- **Output**: [[archive/topics/philosophy-of-temporal-experience]] (later coalesced)
 - **Word count**: 2147
 - **Based on research**: yes ([[specious-present-temporal-experience-2026-01-16]], [[temporal-structure-consciousness-2026-01-14]], [[consciousness-time-perception-2026-01-14]])
 
@@ -2590,7 +2598,7 @@ topics: []
 ## 2026-01-29 17:10 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[voids/voids]]
+- **File**: [[voids]]
 - **Context**: Cross-review considering origin-of-consciousness.md
 - **Word count**: 2030 → 2025 (-5 words, length-neutral mode)
 - **Critical issues addressed**: 0 (none found)
@@ -2973,7 +2981,7 @@ topics: []
 ## 2026-01-29 UTC - deep-review
 
 - **Status**: Success
-- **File**: [[voids/voids]]
+- **File**: [[voids]]
 - **Word count**: 2043 → 2030 (-13 words, length-neutral mode)
 - **Cross-review context**: topology-of-cognitive-failure.md (integrating new failure topology article)
 - **Critical issues addressed**: 0 (none found)
