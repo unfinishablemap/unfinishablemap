@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-26 22:15:00+00:00
+ai_modified: 2026-02-01 18:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ description: Why does pain feel bad? Emotional consciousness poses the hard prob
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-26 10:12:46+00:00
+last_deep_review: 2026-02-01 15:53:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -105,9 +105,11 @@ The explanatory gap for valence is particularly stark because valence seems so s
 
 ## Emotional Consciousness and Moral Status
 
-If valence is an intrinsic phenomenal property, it grounds moral status. Jeremy Bentham's principle—"the question is not, Can they reason? nor, Can they talk? but, Can they suffer?"—captures valence sentientism: the capacity for negatively valenced experience (suffering) is necessary and sufficient for moral consideration.
+If valence is an intrinsic phenomenal property, it provides the foundation that any moral status requires. Jeremy Bentham's principle—"the question is not, Can they reason? nor, Can they talk? but, Can they suffer?"—captures valence sentientism: the capacity for negatively valenced experience (suffering) is necessary for moral consideration.
 
-This view aligns with [phenomenal-value-realism](/concepts/phenomenal-value-realism/): if the badness of suffering is objective and intrinsic (not merely represented or judged), then moral facts depend on phenomenal facts. The wrongness of causing suffering derives from suffering's intrinsic badness—a phenomenal property, not a functional state.
+This view aligns with [phenomenal-value-realism](/concepts/phenomenal-value-realism/): if the badness of suffering is objective and intrinsic (not merely represented or judged), phenomenal facts provide the basis on which moral facts might depend. The wrongness of causing suffering would derive from suffering's intrinsic badness—a phenomenal property, not a functional state.
+
+However, a gap remains between phenomenal facts and normative facts. That pain *is* bad (phenomenally) does not immediately entail that causing pain *ought not* be done. This is a version of the is-ought problem: moving from "suffering feels bad" to "we ought to reduce suffering" requires an additional bridge principle—perhaps that intrinsic badness generates reasons for action, or that phenomenal facts are themselves normative. [Phenomenal value realism](/concepts/phenomenal-value-realism/) attempts this bridge by holding that the badness of pain is not merely descriptive but normatively significant: something's being intrinsically bad just is a reason against bringing it about. Whether this move succeeds remains philosophically contested. What the Map can assert is the phenomenal side: suffering has a real felt badness that is not reducible to functional states. Whether and how this grounds moral obligation is a further question that phenomenal value realism addresses but does not settle decisively.
 
 Broader sentientism extends moral status to all phenomenally conscious beings, not just those with valence. David Chalmers' "philosophical Vulcan"—a being with phenomenal consciousness but no capacity for pleasure or pain—challenges valence sentientism. If the Vulcan has rich perceptual experience but no emotions, does it have moral status?
 
@@ -206,3 +208,16 @@ Emotional consciousness is not a puzzle awaiting functional solution. It is evid
 - Sun, X., et al. (2024). Brain representations of affective valence and intensity in sustained pleasure and pain. *PNAS*, 121(26).
 - Tye, M., & Prinz, J. (2022). Sentience, Vulcans, and zombies: The value of phenomenal consciousness. *AI & Society*.
 - Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
+
+<!-- AI REFINEMENT LOG - 2026-02-01
+Changes made:
+- Acknowledged the gap between phenomenal facts and normative facts in the "Emotional Consciousness and Moral Status" section
+- Added explicit discussion of the is-ought problem when moving from "suffering feels bad" to "we ought to reduce suffering"
+- Softened claim that phenomenal value realism "grounds" moral status to "provides the foundation"
+- Clarified that phenomenal value realism attempts the phenomenal-to-normative bridge but does not settle the question decisively
+
+Based on pessimistic review 2026-01-25 which noted the article overstated how decisively phenomenal value realism counters nihilism.
+Key improvements: More nuanced treatment of the relationship between phenomenal facts and moral facts, acknowledging philosophical contestation.
+
+This log should be removed after human review.
+-->

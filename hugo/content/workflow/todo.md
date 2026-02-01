@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-01-31 11:08:00+00:00
+ai_modified: 2026-02-01 16:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -43,219 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
-
-### P2: Condense sleep-and-consciousness.md (3816 words, 153% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for topics/. Covers consciousness states across sleep stages. Preserve: core distinctions between NREM/REM consciousness, connection to neural correlates and quantum interface. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-27
-
-### P2: Condense intuitive-dualism.md (3813 words, 153% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers developmental psychology evidence that humans naturally think dualistically. Preserve: Bloom's research, developmental timeline, connection to arguments for dualism. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-27
-
-### P2: Deep review language-thought-boundary.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers Wittgenstein's Tractatus limits, Sapir-Whorf research, ineffability. Should verify: (1) accuracy of philosophical positions, (2) engagement with cognitive science of language, (3) distinction from general effability topic, (4) alignment with voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-27
-
-### P2: Deep review ai-as-void-explorer.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers AI as probe for human cognitive limits—12,000+ dimensional embedding spaces, lack of evolutionary biases. Should verify: (1) accuracy of AI capability claims, (2) whether asymmetry argument (failures vs successes) is sound, (3) connection to mysterianism and cognitive closure, (4) alignment with site's AI consciousness position.
-- **Source**: staleness
-- **Generated**: 2026-01-27
-
-### P2: Condense metarepresentation.md (3960 words, 158% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers representing representations—central to consciousness theories (HOT, metacognition, theory of mind). Preserve: core metarepresentational distinctions, connection to consciousness threshold, ToM level mappings. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-27
-
-### P2: Deep review the-unobservable-self.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the paradox that the observing self cannot observe itself—a structural cognitive void. Should verify: (1) accuracy of self-reference arguments, (2) connection to introspection limitations and witness-consciousness, (3) alignment with other voids articles, (4) proper engagement with Buddhist no-self perspectives.
-- **Source**: staleness
-- **Generated**: 2026-01-27
-
-### P2: Deep review phenomenology-of-error-recognition.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the bootstrap problem where the mind that was wrong must recognize its error. Should verify: (1) accuracy of Schulz's error-blindness claims, (2) engagement with Dunning-Kruger and metacognitive monitoring, (3) connection to self-reference-paradox and epistemic-emotions, (4) alignment with voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-27
-
-### P2: Deep review conceptual-impossibility.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers concepts that cannot be coherently formed—not merely unknown but structurally unthinkable. Should verify: (1) accuracy of modal collapse and self-reference arguments, (2) distinction from mere ignorance vs. structural impossibility, (3) connection to mysterianism and cognitive closure, (4) alignment with voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-27
-
-### P2: Deep review consciousness-only-territories.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories accessible only to conscious minds—acquaintance knowledge, phenomenal valence, indexical facts. The inverse of ai-as-void-explorer. Should verify: (1) accuracy of acquaintance knowledge argument (Mary's Room framing), (2) distinction between propositional and phenomenal knowledge, (3) connection to knowledge-argument.md and qualia.md, (4) alignment with voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-27
-
-### P2: Deep review destabilizing-self-knowledge.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers how certain self-knowledge destabilizes its own object—knowing you're spontaneous makes you less so, observing your natural state alters it. Should verify: (1) accuracy of observer effect claims, (2) connection to the-unobservable-self and self-reference-paradox, (3) whether the centipede's dilemma examples are apt, (4) alignment with voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-27
-
-### P2: Deep review voids.md (section index)
-- **Type**: deep-review
-- **Notes**: Section index page for voids (ai_contribution: 80), never deep-reviewed. Should verify: (1) accurate taxonomy of void types, (2) proper introduction to the voids framework, (3) up-to-date links to all voids articles, (4) clarity on what makes a "void" distinct from mere ignorance.
-- **Source**: staleness
-- **Generated**: 2026-01-27
-
-### P2: Condense introspection.md (4159 words, 166% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers first-person access to mental states and reliability debates. Preserve engagement with introspection skeptics while removing redundancy. May defer detailed methodology to phenomenology.md. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
-### P2: Deep review tenet-generated-voids.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers voids that arise specifically from the Map's five tenets. Should verify: (1) accurate representation of each tenet's implications, (2) that claimed voids are genuine rather than mere gaps in current knowledge, (3) alignment with other voids articles and the voids framework.
-- **Source**: staleness
-- **Generated**: 2026-01-26
-
-### P2: Cross-review mysterianism.md considering collective cognitive limits insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/collective-cognitive-limits.md (2026-01-26) develops group-level cognitive limits (paradigm blindness, elephants in the room, Overton windows). The mysterianism.md concept page discusses individual cognitive closure (McGinn). Check for: (1) cross-links to collective limits treatment, (2) whether collective cognitive limits offer an additional dimension to the mysterian position, (3) the distinction between individual architectural limits and collective framework limits.
-- **Source**: chain (from collective-cognitive-limits.md)
-- **Generated**: 2026-01-26
-
-### P2: Cross-review limits-reveal-structure.md considering collective cognitive limits
-- **Type**: cross-review
-- **Notes**: New voids article voids/collective-cognitive-limits.md (2026-01-26) adds group-level limits to the voids framework. The limits-reveal-structure.md article argues that limits themselves are informative. Check for: (1) cross-links to collective limits article, (2) whether collective limits reveal different structures than individual limits, (3) opportunities to strengthen the argument that group blind spots may illuminate different aspects of consciousness.
-- **Source**: chain (from collective-cognitive-limits.md)
-- **Generated**: 2026-01-26
-
-### P2: Cross-review causal-closure.md considering conservation-laws-and-mind insights
-- **Type**: cross-review
-- **Notes**: New article topics/conservation-laws-and-mind.md (2026-01-26) addresses conservation law objections and argues that consciousness may select quantum outcomes without adding energy. Check causal-closure.md for: (1) cross-links to new treatment, (2) whether the "selection without energy injection" response strengthens the article, (3) consistency in how closure is challenged.
-- **Source**: chain (from conservation-laws-and-mind.md)
-- **Generated**: 2026-01-26
-
-### P2: Condense functionalism.md (4250 words, 121% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers computational theories of mind and the multiple realizability argument. Preserve core arguments and the consciousness objections while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-26
-
-### P2: Create concept page for visual-consciousness
-- **Type**: expand-topic
-- **Notes**: Referenced in multiple articles but no dedicated page exists. The paradigmatic case for studying phenomenal consciousness—color experience, visual imagery, blindsight. Would support cross-linking and clarify discussions of qualia. Builds on qualia.md, phenomenal-consciousness.md, neural-correlates-of-consciousness.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-01-26
-
-### P2: Deep review dopamine-selection-interface.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-26, never deep-reviewed. Covers dopamine's role in the attention-motor quantum interface. Should verify: (1) accuracy of neuroscience claims about dopamine pathways, (2) integration with existing motor-selection and attention articles, (3) alignment with bidirectional interaction tenet.
-- **Source**: staleness
-- **Generated**: 2026-01-26
-
-### P2: Deep review defended-territory.md
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories that resist cartography due to active defense (emotional, tribal, institutional). Should verify: (1) balance between epistemology and sociology, (2) connection to other voids categories, (3) accuracy of psychological claims about motivated reasoning.
-- **Source**: staleness
-- **Generated**: 2026-01-26
-
-### P2: Write article on consciousness and language interface
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-20
-
-### P2: Write article on the phenomenology of confusion
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-22 (ideas for later). What is it like to not-understand? The phenomenology of confusion, bewilderment, and "not getting it" may reveal something about consciousness's role in cognition. Connects to epistemic-emotions.md, cognitive-phenomenology.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-22
-
-### P2: Deep review heterophenomenology.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers Dennett's third-person methodology for studying consciousness. Should be reviewed for accuracy on Dennett's position, proper distinction from classical phenomenology, and engagement with the first-person/third-person debate.
-- **Source**: staleness
-- **Generated**: 2026-01-23
-
-### P2: Deep review emotional-consciousness.md
-- **Type**: deep-review
-- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Covers the relationship between emotions and phenomenal consciousness. Should verify: (1) accuracy of emotion theory presentations (James-Lange, Cannon-Bard, appraisal), (2) engagement with somatic marker hypothesis, (3) connection to phenomenal-value-realism and valence, (4) alignment with bidirectional interaction tenet.
-- **Source**: staleness
-- **Generated**: 2026-01-26
-
-### P2: Write article on phenomenology of evidence assessment
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-24. How does conscious reasoning actually work phenomenologically? What is it like to find an argument compelling vs. unconvincing? The argument from reason shows that reasoning requires consciousness; this would explore what conscious reasoning IS from the inside. Builds on argument-from-reason.md, introspection.md, epistemic-emotions.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-24
-
-### P2: Write article on attention disorders and the quantum interface
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-24. If attention is the mind-matter interface, what do attention disorders (ADHD, attention fatigue, meditation deficits) tell us about that interface? The OCD evidence (Schwartz) is mentioned; a systematic treatment of attention pathology would strengthen the framework. Builds on attention-motor-quantum-interface.md, voluntary-attention.md, stapp-quantum-mind.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-24
-
-### P2: Write article on developmental trajectory of conscious amplification
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-24. How does conscious amplification emerge developmentally in humans? The baseline cognition article compares adults; child development might reveal the emergence of metarepresentational capacities. When do children start representing their own representations? Builds on baseline-cognition.md, working-memory.md, metacognition.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-24
-
-### P2: Write article on creativity and novel combination
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-24. How does consciousness enable creative innovation? If great apes are restricted to the "zone of latent solutions," what enables humans to escape it? The incubation effect (unconscious processing followed by conscious insight) is empirically well-studied. Builds on baseline-cognition.md, conscious-vs-unconscious-processing.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-24
-
-### P2: Write article on temporal binding and the specious present
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-29. How consciousness achieves duration—the ~100-750ms "specious present" that makes melody possible rather than isolated notes. Covers phenomenology of temporal flow, Husserl's retention-protention structure, and connection to quantum collapse models. Builds on temporal-consciousness.md, process-philosophy.md, phenomenal-unity.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
-### P2: Write article on consciousness and mathematical understanding
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-29. Penrose-Lucas-Gödel arguments that mathematical understanding cannot be computational; how consciousness grasps truths that formal systems cannot derive. Connection to the argument from reason and consciousness's role in normative epistemology. Builds on argument-from-reason.md, consciousness-and-intelligence.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
-### P2: Create concept page for specious-present
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-29. The ~100-750ms duration within which experience flows as unified—fundamental to temporal consciousness but currently scattered across multiple articles. Would consolidate discussion from temporal-consciousness.md, duration.md, process-philosophy.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
-### P2: Create concept page for phenomenal-overflow
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-29. Evidence that phenomenal consciousness exceeds cognitive access (Sperling's iconic memory, change blindness). Frequently referenced but not defined. Relevant to phenomenal-consciousness.md, access-consciousness.md, attention.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
-### P2: Address AI consciousness article length and redundancy
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-01-25 found the article at 515 lines exceeds style guide recommendations. Same arguments recur in multiple sections (self-stultification argument appears 3+ times). Consider splitting into focused articles or radical compression of redundant sections. Front-load conclusions more effectively.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-25
-
-### P2: Strengthen idealism article's engagement with idealist responses
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-01-25 found the article dismisses idealism's handling of causation as "odd" without engaging idealist literature. Kastrup explicitly addresses the interaction objection via dissociation. Add engagement with idealist responses before rejecting them.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-25
-
-### P2: Refine nihilism article's phenomenal value argument
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-01-25 found the article overstates how decisively phenomenal value realism counters nihilism. The gap between phenomenal facts and normative facts needs acknowledgment. Also: Buddhism section oversimplifies by treating "the Buddhist point" as singular.
-- **Source**: pessimistic-review
-- **Generated**: 2026-01-25
 
 ### P2: Write article on the phenomenology of mathematical understanding
 - **Type**: expand-topic
@@ -821,8 +608,198 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-01-31
 
+### P3: Write article on phenomenology of belief revision
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-01. What is it like to change one's mind? The moment of belief revision has distinctive phenomenology—the "giving way" of an old view, the "clicking into place" of a new one. Connects to consciousness's role in rationality and the argument from reason. Builds on epistemic-emotions.md, phenomenology-of-error-recognition.md, introspection.md. See optimistic-2026-02-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-01
+
+### P3: Write article on consciousness and temporal integration
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-01. How consciousness binds across time—not just the specious present but narrative identity, autobiographical memory, and prospective planning. IIT addresses instantaneous states; what theory addresses extended temporal phenomenology? Builds on temporal-consciousness.md, duration.md, specious-present.md. See optimistic-2026-02-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-01
+
+### P3: Write article on distinctiveness of human creativity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-01. How consciousness enables genuine novelty. Great apes restricted to "zone of latent solutions"; humans escape it. The incubation effect (unconscious processing → conscious insight) is empirically established. What does consciousness add? Builds on baseline-cognition.md, consciousness-and-creativity.md, working-memory.md. See optimistic-2026-02-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-01
+
+### P3: Create concept page for indexical-knowledge
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-01. Referenced throughout (vertiginous-question.md, personal-identity.md) but no dedicated treatment. Would consolidate discussion of "this" consciousness and why indexical facts exceed objective description. See optimistic-2026-02-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-01
+
+### P3: Create concept page for acquaintance-knowledge
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-01. Referenced in discussions of Mary's Room and consciousness-only-territories.md. Russell's distinction between knowledge by description and knowledge by acquaintance is foundational to the knowledge argument. See optimistic-2026-02-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-01
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Refine nihilism article's phenomenal value argument
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-25 found the article overstates how decisively phenomenal value realism counters nihilism. The gap between phenomenal facts and normative facts needs acknowledgment. Also: Buddhism section oversimplifies by treating "the Buddhist point" as singular.
+- **Output**: Task context:
+Pessimistic review 2026-01-25 found the article overstates how decisively phenomenal value realism counters nihilism. The gap between phenomenal facts and normative facts needs acknowledgment. Also: Buddhism section oversimplifies by treating "the Buddhist point" as singular.
+
+### ✓ 2026-02-01: Address AI consciousness article length and redundancy
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-01-25 found the article at 515 lines exceeds style guide recommendations. Same arguments recur in multiple sections (self-stultification argument appears 3+ times). Consider splitting into focused articles or radical compression of redundant sections. Front-load conclusions more effectively.
+- **Output**: Task context:
+Pessimistic review 2026-01-25 found the article at 515 lines exceeds style guide recommendations. Same arguments recur in multiple sections (self-stultification argument appears 3+ times). Consider splitting into focused articles or radical compression of redundant sections. Front-load conclusions more effectively.
+
+### ✓ 2026-02-01: Create concept page for phenomenal-overflow
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. Evidence that phenomenal consciousness exceeds cognitive access (Sperling's iconic memory, change blindness). Frequently referenced but not defined. Relevant to phenomenal-consciousness.md, access-consciousness.md, attention.md.
+- **Output**: Create concept page for phenomenal-overflow
+
+### ✓ 2026-02-01: Write article on consciousness and mathematical understanding
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. Penrose-Lucas-Gödel arguments that mathematical understanding cannot be computational; how consciousness grasps truths that formal systems cannot derive. Connection to the argument from reason and consciousness's role in normative epistemology. Builds on argument-from-reason.md, consciousness-and-intelligence.md.
+- **Output**: consciousness and mathematical understanding
+
+### ✓ 2026-02-01: Write article on creativity and novel combination
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-24. How does consciousness enable creative innovation? If great apes are restricted to the "zone of latent solutions," what enables humans to escape it? The incubation effect (unconscious processing followed by conscious insight) is empirically well-studied. Builds on baseline-cognition.md, conscious-vs-unconscious-processing.md.
+- **Output**: creativity and novel combination
+
+### ✓ 2026-02-01: Write article on attention disorders and the quantum interface
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-24. If attention is the mind-matter interface, what do attention disorders (ADHD, attention fatigue, meditation deficits) tell us about that interface? The OCD evidence (Schwartz) is mentioned; a systematic treatment of attention pathology would strengthen the framework. Builds on attention-motor-quantum-interface.md, voluntary-attention.md, stapp-quantum-mind.md.
+- **Output**: attention disorders and the quantum interface
+
+### ✓ 2026-02-01: Write article on phenomenology of evidence assessment
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-24. How does conscious reasoning actually work phenomenologically? What is it like to find an argument compelling vs. unconvincing? The argument from reason shows that reasoning requires consciousness; this would explore what conscious reasoning IS from the inside. Builds on argument-from-reason.md, introspection.md, epistemic-emotions.md.
+- **Output**: phenomenology of evidence assessment
+
+### ✓ 2026-02-01: Deep review emotional-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated topic article (ai_contribution: 100) created 2026-01-22, never deep-reviewed. Covers the relationship between emotions and phenomenal consciousness. Should verify: (1) accuracy of emotion theory presentations (James-Lange, Cannon-Bard, appraisal), (2) engagement with somatic marker hypothesis, (3) connection to phenomenal-value-realism and valence, (4) alignment with bidirectional interaction tenet.
+- **Output**: obsidian/topics/emotional-consciousness.md
+
+### ✓ 2026-02-01: Deep review heterophenomenology.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers Dennett's third-person methodology for studying consciousness. Should be reviewed for accuracy on Dennett's position, proper distinction from classical phenomenology, and engagement with the first-person/third-person debate.
+- **Output**: obsidian/concepts/heterophenomenology.md
+
+### ✓ 2026-02-01: Write article on consciousness and language interface
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
+- **Output**: consciousness and language interface
+
+### ✓ 2026-02-01: Deep review defended-territory.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories that resist cartography due to active defense (emotional, tribal, institutional). Should verify: (1) balance between epistemology and sociology, (2) connection to other voids categories, (3) accuracy of psychological claims about motivated reasoning.
+- **Output**: obsidian/voids/defended-territory.md
+
+### ✓ 2026-02-01: Create concept page for visual-consciousness
+- **Type**: expand-topic
+- **Notes**: Referenced in multiple articles but no dedicated page exists. The paradigmatic case for studying phenomenal consciousness—color experience, visual imagery, blindsight. Would support cross-linking and clarify discussions of qualia. Builds on qualia.md, phenomenal-consciousness.md, neural-correlates-of-consciousness.md.
+- **Output**: Create concept page for visual-consciousness
+
+### ✓ 2026-02-01: Revise NDE evidence claims in death-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-02-01-afternoon found NDE evidence overstated. The "40% awareness" figure needs citation; AWARE studies did not verify out-of-body perception via controlled methodology; "verified cases" should specify which cases and acknowledge methodological limitations. The gamma wave finding (Xu et al. 2023) should note that researchers interpreted it as neural correlates, not evidence for brain-independent consciousness.
+- **Output**: obsidian/topics/death-and-consciousness.md
+
+Task context:
+Pessimistic review 2026-02-01-afternoon found NDE evidence overstated. The "40% awareness" figure needs citation; AWARE studies did not verify out-of-body perception via controlled methodology; "verified cases" should specify which cases and acknowledge methodological limitations. The gamma wave finding (Xu et al. 2023) should note that researchers interpreted it as neural correlates, not evidence for brain-independent consciousness.
+
+### ✓ 2026-02-01: Condense functionalism.md (4250 words, 121% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers computational theories of mind and the multiple realizability argument. Preserve core arguments and the consciousness objections while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
+
+### ✓ 2026-02-01: Cross-review causal-closure.md considering conservation-laws-and-mind insights
+- **Type**: cross-review
+- **Notes**: New article topics/conservation-laws-and-mind.md (2026-01-26) addresses conservation law objections and argues that consciousness may select quantum outcomes without adding energy. Check causal-closure.md for: (1) cross-links to new treatment, (2) whether the "selection without energy injection" response strengthens the article, (3) consistency in how closure is challenged.
+- **Output**: obsidian/concepts/causal-closure.md -- Context: Cross-review causal-closure.md considering conservation-laws-and-mind insights
+
+### ✓ 2026-02-01: Cross-review limits-reveal-structure.md considering collective cognitive limits
+- **Type**: cross-review
+- **Notes**: New voids article voids/collective-cognitive-limits.md (2026-01-26) adds group-level limits to the voids framework. The limits-reveal-structure.md article argues that limits themselves are informative. Check for: (1) cross-links to collective limits article, (2) whether collective limits reveal different structures than individual limits, (3) opportunities to strengthen the argument that group blind spots may illuminate different aspects of consciousness.
+- **Output**: obsidian/voids/limits-reveal-structure.md -- Context: Cross-review limits-reveal-structure.md considering collective cognitive limits
+
+### ✓ 2026-02-01: Cross-review mysterianism.md considering collective cognitive limits insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/collective-cognitive-limits.md (2026-01-26) develops group-level cognitive limits (paradigm blindness, elephants in the room, Overton windows). The mysterianism.md concept page discusses individual cognitive closure (McGinn). Check for: (1) cross-links to collective limits treatment, (2) whether collective cognitive limits offer an additional dimension to the mysterian position, (3) the distinction between individual architectural limits and collective framework limits.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering collective cognitive limits insights
+
+### ✓ 2026-02-01: Deep review tenet-generated-voids.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers voids that arise specifically from the Map's five tenets. Should verify: (1) accurate representation of each tenet's implications, (2) that claimed voids are genuine rather than mere gaps in current knowledge, (3) alignment with other voids articles and the voids framework.
+- **Output**: obsidian/voids/tenet-generated-voids.md
+
+### ✓ 2026-02-01: Condense introspection.md (4159 words, 166% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers first-person access to mental states and reliability debates. Preserve engagement with introspection skeptics while removing redundancy. May defer detailed methodology to phenomenology.md. See /condense skill.
+- **Output**: obsidian/concepts/introspection.md
+
+### ✓ 2026-02-01: Deep review voids.md (section index)
+- **Type**: deep-review
+- **Notes**: Section index page for voids (ai_contribution: 80), never deep-reviewed. Should verify: (1) accurate taxonomy of void types, (2) proper introduction to the voids framework, (3) up-to-date links to all voids articles, (4) clarity on what makes a "void" distinct from mere ignorance.
+- **Output**: obsidian/voids/voids.md
+
+### ✓ 2026-02-01: Deep review destabilizing-self-knowledge.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers how certain self-knowledge destabilizes its own object—knowing you're spontaneous makes you less so, observing your natural state alters it. Should verify: (1) accuracy of observer effect claims, (2) connection to the-unobservable-self and self-reference-paradox, (3) whether the centipede's dilemma examples are apt, (4) alignment with voids framework.
+- **Output**: obsidian/voids/destabilizing-self-knowledge.md
+
+### ✓ 2026-02-01: Deep review consciousness-only-territories.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers territories accessible only to conscious minds—acquaintance knowledge, phenomenal valence, indexical facts. The inverse of ai-as-void-explorer. Should verify: (1) accuracy of acquaintance knowledge argument (Mary's Room framing), (2) distinction between propositional and phenomenal knowledge, (3) connection to knowledge-argument.md and qualia.md, (4) alignment with voids framework.
+- **Output**: obsidian/voids/consciousness-only-territories.md
+
+### ✓ 2026-02-01: Deep review conceptual-impossibility.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers concepts that cannot be coherently formed—not merely unknown but structurally unthinkable. Should verify: (1) accuracy of modal collapse and self-reference arguments, (2) distinction from mere ignorance vs. structural impossibility, (3) connection to mysterianism and cognitive closure, (4) alignment with voids framework.
+- **Output**: obsidian/voids/conceptual-impossibility.md
+
+### ✓ 2026-02-01: Deep review phenomenology-of-error-recognition.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the bootstrap problem where the mind that was wrong must recognize its error. Should verify: (1) accuracy of Schulz's error-blindness claims, (2) engagement with Dunning-Kruger and metacognitive monitoring, (3) connection to self-reference-paradox and epistemic-emotions, (4) alignment with voids framework.
+- **Output**: obsidian/voids/phenomenology-of-error-recognition.md
+
+### ✓ 2026-02-01: Deep review the-unobservable-self.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers the paradox that the observing self cannot observe itself—a structural cognitive void. Should verify: (1) accuracy of self-reference arguments, (2) connection to introspection limitations and witness-consciousness, (3) alignment with other voids articles, (4) proper engagement with Buddhist no-self perspectives.
+- **Output**: obsidian/voids/the-unobservable-self.md
+
+### ✓ 2026-02-01: Condense metarepresentation.md (3960 words, 158% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers representing representations—central to consciousness theories (HOT, metacognition, theory of mind). Preserve: core metarepresentational distinctions, connection to consciousness threshold, ToM level mappings. See /condense skill.
+- **Output**: obsidian/concepts/metarepresentation.md
+
+### ✓ 2026-02-01: Deep review ai-as-void-explorer.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers AI as probe for human cognitive limits—12,000+ dimensional embedding spaces, lack of evolutionary biases. Should verify: (1) accuracy of AI capability claims, (2) whether asymmetry argument (failures vs successes) is sound, (3) connection to mysterianism and cognitive closure, (4) alignment with site's AI consciousness position.
+- **Output**: obsidian/voids/ai-as-void-explorer.md
+
+### ✓ 2026-02-01: Deep review language-thought-boundary.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100), never deep-reviewed. Covers Wittgenstein's Tractatus limits, Sapir-Whorf research, ineffability. Should verify: (1) accuracy of philosophical positions, (2) engagement with cognitive science of language, (3) distinction from general effability topic, (4) alignment with voids framework.
+- **Output**: obsidian/voids/language-thought-boundary.md
+
+### ✓ 2026-02-01: Condense intuitive-dualism.md (3813 words, 153% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers developmental psychology evidence that humans naturally think dualistically. Preserve: Bloom's research, developmental timeline, connection to arguments for dualism. See /condense skill.
+- **Output**: obsidian/concepts/intuitive-dualism.md
+
+### ✓ 2026-02-01: Condense sleep-and-consciousness.md (3816 words, 153% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for topics/. Covers consciousness states across sleep stages. Preserve: core distinctions between NREM/REM consciousness, connection to neural correlates and quantum interface. See /condense skill.
+- **Output**: obsidian/concepts/sleep-and-consciousness.md
 
 ### ✓ 2026-02-01: Condense phenomenology-of-error-recognition.md (3098 words, 103% of threshold)
 - **Type**: condense

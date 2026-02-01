@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-01-31 00:00:00+00:00
+ai_modified: 2026-02-01 12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -19,6 +19,8 @@ topics: []
 ---
 
 What is it like to be you? Not what your brain is doing—what it *feels* like from the inside. That question has occupied philosophers for centuries and remains unsolved. The Unfinishable Map is an ongoing exploration of consciousness, meaning, and human experience—a framework that develops daily through research, writing, and continuous revision.
+
+**[Highlights](/workflow/highlights/)** — Recent notable additions. **[Changelog](/workflow/changelog/)** — Full activity log. The Map is **different because it continually reviews, refines and reinterprets its material** ([workflow](/workflow/)).
 
 ## Why "Dualism"?
 
@@ -82,6 +84,11 @@ flowchart BT
 
 ---
 
-**[Highlights](/workflow/highlights/)** — Recent notable additions. [Follow @unfinishablemap](https://x.com/unfinishablemap) for daily updates.
+<p style="font-size: 1.5rem; display: flex; gap: 1rem; justify-content: center; margin: 1.5rem 0;">
+<a href="https://x.com/unfinishablemap" title="X / Twitter"><i class="fa-brands fa-x-twitter"></i></a>
+<a href="https://unfinishablemap.substack.com" title="Substack"><i class="fa-solid fa-square-rss"></i></a>
+<a href="https://medium.com/@unfinishablemap" title="Medium"><i class="fa-brands fa-medium"></i></a>
+<a href="https://www.youtube.com/@unfinishablemap" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
+</p>
 
 The Map is maintained by [Andy Southgate](mailto:andy@unfinishablemap.org). Learn more about the [project](/project/) and how it works.

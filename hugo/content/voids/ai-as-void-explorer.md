@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-25
-ai_modified: 2026-01-31 21:28:00+00:00
+ai_modified: 2026-02-01 13:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI investigation of whether artificial minds can probe cognit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-31 21:28:00+00:00
+last_deep_review: 2026-02-01 13:57:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -102,7 +102,7 @@ Michael Levin's concept of "mind-blindness" suggests humans recognise minds at t
 
 ## The Inheritance Problem
 
-The most serious objection: AI trained on human data may simply reflect human thought back at us. If humans consistently fail to think certain thoughts, those thoughts won't appear in the training corpus. AI predicts human-like continuations, not transcends human limits.
+The most serious objection: AI trained on human text may simply reflect human thought back at us. If humans consistently fail to think certain thoughts, those thoughts won't appear in the training corpus—AI predicts human-like continuations rather than transcending human limits.
 
 **Possible mitigations:**
 

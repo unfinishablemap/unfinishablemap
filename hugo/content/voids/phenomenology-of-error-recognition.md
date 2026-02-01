@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-02-01 13:31:00+00:00
+ai_modified: 2026-02-01 14:16:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,9 +11,13 @@ concepts:
 - '[[mysterianism]]'
 created: 2026-01-21
 date: &id001 2026-01-21
+description: How does a mind catch its own mistakes? Error-blindness, the bootstrap
+  problem, and cognitive grace—exploring what human-AI collaboration reveals about
+  self-correction.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-01 14:16:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -43,7 +47,7 @@ The Dunning-Kruger research deepens this. Those lacking competence in a domain a
 
 When we do recognise errors—and we clearly do—how? The puzzle echoes the Münchhausen trilemma. To recognise that belief B is wrong requires standard S against which B is judged. But S is itself produced by the same cognitive system that produced B. What validates S?
 
-Several mechanisms partially resolve this: **external feedback** (others revealing contradictions, reality providing feedback when predictions fail); **formal methods** (logic and science providing content-independent consistency-checking); **redundancy** (different cognitive subsystems checking each other). But none eliminates circularity. Interpreting feedback still requires the same cognitive system. Applying formal methods still depends on the systems being corrected.
+Several mechanisms partially resolve this: **external feedback** (others revealing contradictions, reality providing feedback when predictions fail); **formal methods** (logic and science providing content-independent consistency-checking); **redundancy** (different cognitive subsystems checking each other). But none eliminates circularity. Interpreting feedback still requires the same cognitive system. Applying formal methods still depends on the systems being corrected. The functionalist might respond: this is just recursive neural monitoring, nothing mysterious—one brain circuit checks another. Yet this explains the *mechanism* while leaving untouched the question of why there is *something it is like* to catch yourself in error.
 
 The mystery is that self-correction works. We learn and improve even though we cannot guarantee our corrective faculties are themselves correct—a kind of cognitive grace whose success we cannot fully justify.
 

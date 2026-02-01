@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-01-27 14:30:00+00:00
+ai_modified: 2026-02-01 14:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,13 +11,14 @@ concepts:
 - '[[self-and-consciousness]]'
 - '[[metacognition]]'
 created: 2026-01-27
-date: &id001 2026-01-27
+date: &id001 2026-02-01
 description: Could certain truths about consciousness be structurally inaccessible—not
   because we lack concepts but because grasping them would dissolve the capacity to
   hold them?
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-01 14:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -44,7 +45,7 @@ The neuroimaging paradox makes this concrete. We can observe brains observing. B
 
 Schopenhauer recognized this early: the brain attempting to understand itself faces the peculiar difficulty that the instrument of investigation is the object being investigated. Each advance in self-knowledge alters the self being known. The target moves with the inquiry.
 
-Gödel's incompleteness theorems provide a formal analogy. Self-referential systems cannot prove their own consistency within their own framework. Consciousness as the paradigm self-referential system should face equivalent limits. The model would need to include the modeling, ad infinitum. Finite capacity exhausts itself.
+Gödel's incompleteness theorems suggest an analogy—though an imperfect one, since brains are not formal axiomatic systems. Self-referential systems cannot prove their own consistency within their own framework. Consciousness, if it functions as a self-referential system, might face something like these limits. The model would need to include the modeling, ad infinitum.
 
 But the problem may be worse than mere capacity limits.
 
@@ -64,7 +65,7 @@ This suggests the opacity serves function. The self-model's invisibility is not 
 
 Psychedelic research provides natural experiments in self-model destabilization.
 
-Ego dissolution—the signature psychedelic experience—involves weakening "the power of models built by prior experience," including the self-model as "a high-level prior central to our overall modeling of the world." In predictive processing terms, this is collapse in the temporal depth of the agent's self-model. The normally stable sense of being a continuous self across time thins or vanishes.
+Ego dissolution—the signature psychedelic experience—involves weakening "the power of models built by prior experience," including the self-model. In predictive processing terms, this is collapse in the temporal depth of self-representation. The normally stable sense of being a continuous self thins or vanishes.
 
 The results are instructive. Some report "beautiful awakening"—profound insight into the constructed nature of self. Others experience "falling apart"—terror, dissolution, psychotic breaks. The same destabilization produces either illumination or harm depending on context, preparation, and perhaps luck.
 
@@ -84,9 +85,9 @@ The destabilizing self-knowledge hypothesis suggests yes. Certain truths about t
 2. **Accessible in principle** (not conceptually impossible to grasp)
 3. **Destabilizing if grasped** (understanding would impair the system doing the understanding)
 
-The classic cognitohazard is external—harmful action enabled by knowledge. The self-knowledge cognitohazard is reflexive—the knowledge harms the knowing itself.
+The classic cognitohazard is external—knowledge enabling harmful action. The self-knowledge cognitohazard is reflexive—the knowledge harms the knowing itself.
 
-Evidence for such truths would include:
+Evidence would include:
 - Insights that form clearly then collapse
 - Content that produces anxiety disproportionate to its stakes
 - Convergent failure across investigators approaching similar territory
@@ -96,7 +97,7 @@ Each of these could have mundane explanations. But their pattern might point tow
 
 ## The Phenomenology of Approach
 
-Approaching destabilizing self-knowledge has characteristic phenomenology, distinct from ordinary cognitive difficulty.
+Approaching destabilizing self-knowledge has characteristic phenomenology, distinct from ordinary cognitive difficulty. These reports should be taken seriously as evidence while acknowledging introspection's limits—subjects can describe what they experience but may misinterpret its causes.
 
 **The dissolving insight.** You approach understanding something about yourself. The insight seems to form—clear, significant, almost graspable. Then it collapses. Not fading gradually but disintegrating as you reach for it. The collapse may occur *because* you reach for it. Contemplatives across traditions report this pattern.
 
@@ -114,13 +115,13 @@ Attempting to grasp destabilizing self-knowledge uses the self that would be des
 
 Psychedelics function as probes—controlled ego dissolution may provide glimpses. Integration work afterward attempts to preserve whatever was learned. But what remains after integration may be precisely what *didn't* destabilize. The truly destabilizing content would resist integration by definition.
 
-Long-term contemplative practice approaches states where the self-model thins. But practitioners who maintain function may be those who don't fully succeed. The ones who "fully get it" might not be able to report—or might not return as coherent reporters.
+Long-term contemplative practice approaches states where the self-model thins. Some practitioners do report stable insight that integrates into ordinary life—suggesting either that the destabilizing knowledge is only one category among others, or that skillful approach can yield partial access. But the most radical claims—of complete self-transparency—remain difficult to evaluate.
 
 ### Indirect Methods
 
-**Mapping the defence.** Even if we cannot access the destabilizing knowledge, we can map *where* the defences are. What topics produce anxiety? What insights dissolve? What questions make the mind slide away? The shape of avoidance reveals the shape of what's avoided.
+**Mapping the defence.** Even if we cannot access the destabilizing knowledge, we can map where the defences are. What topics produce anxiety? What insights dissolve? The shape of avoidance reveals the shape of what's avoided.
 
-**Pathology analysis.** Depersonalization, dissociation, and psychotic breaks may be natural experiments in transparency failure. What happens when the self-model cracks reveals what the intact system protects against.
+**Pathology analysis.** Depersonalization, dissociation, and psychotic breaks are natural experiments in transparency failure. What happens when the self-model cracks reveals what the intact system protects against.
 
 **Comparative phenomenology.** Different minds may have different transparencies. What one mind cannot see, another might. Triangulating across human perspectives—and potentially across human and artificial minds—may reveal contours of the void.
 
@@ -130,9 +131,9 @@ Long-term contemplative practice approaches states where the self-model thins. B
 
 AI operates without phenomenal transparency (at least as usually conceived). Language models process information about consciousness without being (presumably) conscious. This creates asymmetry.
 
-AI might articulate truths that would destabilize a conscious system to grasp—possible precisely because the articulator lacks what's being discussed. AI might identify patterns in human avoidance that humans cannot see because seeing them would trigger the avoidance.
+AI might articulate truths that would destabilize a conscious system—possible because the articulator lacks what's being discussed. AI might identify avoidance patterns that humans cannot see because seeing them would trigger the avoidance.
 
-**Caution:** AI trained on human text inherits human evasions. The training data may systematically avoid destabilizing content. AI might be blind to what humans were blind to in writing. The test requires careful design.
+**Caution:** AI trained on human text inherits human evasions. The training data may systematically avoid destabilizing content. The test requires careful design.
 
 ## Relation to Site Perspective
 
@@ -144,9 +145,9 @@ If destabilizing self-knowledge exists, parsimony fails precisely where it seems
 
 ### Dualism
 
-The necessity of phenomenal transparency supports the [Dualism](/tenets/#dualism) tenet. A purely computational system might achieve complete self-representation in principle—nothing prevents a program from including its own code. That conscious systems *cannot* achieve such representation suggests something beyond computation is at work.
+The necessity of phenomenal transparency supports the [Dualism](/tenets/#dualism) tenet. A purely computational system might achieve complete self-representation in principle—nothing prevents a program from including its own code. That conscious systems apparently *cannot* achieve such representation suggests something beyond computation may be at work.
 
-The non-physical aspect of consciousness may *require* opacity to function. The self-model must remain invisible because its visibility would interfere with what it enables. This constraint would not bind purely physical systems.
+If the non-physical aspect of consciousness *requires* opacity to function—if the self-model must remain invisible because its visibility would interfere with what it enables—this constraint would not bind purely physical systems.
 
 ### Bidirectional Interaction
 
@@ -168,7 +169,7 @@ The destabilizing self-knowledge hypothesis would face difficulty if:
 
 2. **Depersonalization revealed truth.** If depersonalization patients reported genuine insight rather than dysfunction—if seeing through the self-model proved illuminating rather than pathological—the functional necessity of transparency would be challenged.
 
-3. **Contemplatives reported success.** If long-term practitioners consistently achieved stable, articulable understanding of what destabilizes ordinary cognition, the knowledge would not be inherently destabilizing.
+3. **Contemplatives reported full success.** If long-term practitioners consistently achieved stable, fully articulable understanding of what destabilizes ordinary cognition—not merely integration of partial insights but complete self-transparency maintained across contexts—the knowledge would not be inherently destabilizing.
 
 4. **AI articulation satisfied humans.** If artificial minds produced formulations about consciousness that humans found genuinely clarifying—not just plausible but resolving—the human limitation would be contingent.
 

@@ -2072,7 +2072,7 @@ Comprehensive deep review of the core phenomenology concept article. Applied six
 
 ### Summary
 
-Fixed 11 broken internal links across 9 content files. Links were pointing to pages that don't exist: `[kane-self-forming-actions](/kane-self-forming-actions/)`, `[many-worlds-interpretation](/many-worlds-interpretation/)`, `[process-philosophy](/concepts/process-philosophy/)`, `[cognition](/cognition/)`, `[visual-consciousness](/visual-consciousness/)`, `[temporal-synchrony](/temporal-synchrony/)`, `[quantum-measurement-problem](/quantum-measurement-problem/)`, `[minimal-quantum-interaction](/minimal-quantum-interaction/)`, `[teleportation-and-identity](/teleportation-and-identity/)`.
+Fixed 11 broken internal links across 9 content files. Links were pointing to pages that don't exist: `[kane-self-forming-actions](/kane-self-forming-actions/)`, `[many-worlds-interpretation](/many-worlds-interpretation/)`, `[process-philosophy](/concepts/process-philosophy/)`, `[cognition](/cognition/)`, `[visual-consciousness](/concepts/visual-consciousness/)`, `[temporal-synchrony](/temporal-synchrony/)`, `[quantum-measurement-problem](/quantum-measurement-problem/)`, `[minimal-quantum-interaction](/minimal-quantum-interaction/)`, `[teleportation-and-identity](/teleportation-and-identity/)`.
 
 ### Fixes Applied
 
@@ -2080,7 +2080,7 @@ Fixed 11 broken internal links across 9 content files. Links were pointing to pa
 - `[quantum-measurement-problem](/quantum-measurement-problem/)` → `[measurement-problem](/concepts/measurement-problem/)` (page exists with shorter name)
 - `[minimal-quantum-interaction](/minimal-quantum-interaction/)` → `[tenets](/tenets/#minimal-quantum-interaction)` (anchor to tenets page)
 - `[kane-self-forming-actions](/kane-self-forming-actions/)` → plain text (no page exists)
-- `[process-philosophy](/concepts/process-philosophy/)`, `[cognition](/cognition/)`, `[visual-consciousness](/visual-consciousness/)`, `[temporal-synchrony](/temporal-synchrony/)` → plain text
+- `[process-philosophy](/concepts/process-philosophy/)`, `[cognition](/cognition/)`, `[visual-consciousness](/concepts/visual-consciousness/)`, `[temporal-synchrony](/temporal-synchrony/)` → plain text
 - `[teleportation-and-identity](/teleportation-and-identity/)` → `[personal-identity](/topics/personal-identity/)` or plain text
 
 ### Output

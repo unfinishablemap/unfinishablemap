@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-31 20:42:00+00:00
+ai_modified: 2026-02-01 15:06:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: 'McGinn''s cognitive closure thesis: human minds may be constitutio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-31 20:42:00+00:00
+last_deep_review: 2026-02-01 15:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,6 +39,7 @@ related_articles:
 - '[[natural-vs-designed-limits]]'
 - '[[causal-interface]]'
 - '[[alien-minds-void-explorers]]'
+- '[[collective-cognitive-limits]]'
 title: Mysterianism and Cognitive Closure
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -74,7 +75,7 @@ If complete description doesn't reveal consciousness in a 302-neuron organism, w
 
 Noam Chomsky distinguished "problems" (difficulties within our cognitive capacities) from "mysteries" (beyond cognitive reach, like calculus for dogs). We're biological organisms with specific cognitive architectures—some questions may fall outside what that architecture can handle.
 
-Consciousness might be such a mystery. The [explanatory-gap](/concepts/explanatory-gap/) persists despite centuries of effort—perhaps not because we haven't tried hard enough, but because trying harder won't help. The hard problem asks how consciousness relates to physics; the [origin question](/voids/origin-of-consciousness/) asks why consciousness exists at all—a prior mystery that mysterianism's cognitive closure may explain. Research on [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) shows that certain limits appear universally across isolated cultures, suggesting species-level constraints rather than cultural artifacts.
+Consciousness might be such a mystery. The [explanatory-gap](/concepts/explanatory-gap/) persists despite centuries of effort—perhaps not because we haven't tried hard enough, but because trying harder won't help. The hard problem asks how consciousness relates to physics; the [origin question](/voids/origin-of-consciousness/) asks why consciousness exists at all—a prior mystery that mysterianism's cognitive closure may explain. Research on [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) shows that certain limits appear universally across isolated cultures, suggesting species-level constraints rather than cultural artifacts. These individual limits also extend to collectives: [paradigm blindness](/voids/collective-cognitive-limits/) shows that scientific communities can share blind spots that no individual could transcend from within, yet even centuries of collective inquiry have not closed the explanatory gap.
 
 ## Concept Nativism and Cognitive Closure
 
@@ -130,9 +131,9 @@ The position has several attractive features:
 
 **Takes consciousness seriously**. Unlike [illusionism](/concepts/illusionism/) or eliminativism, mysterianism accepts that phenomenal experience is real and genuinely puzzling. Something needs explaining. The failure is ours, not the phenomenon's.
 
-**Intellectually honest**. Rather than claiming to solve what remains unsolved, mysterianism acknowledges the depth of our ignorance. After centuries of failure, perhaps humility is appropriate.
+**Intellectually honest**. Mysterianism acknowledges the depth of our ignorance rather than claiming to solve what remains unsolved.
 
-**Explains the explanatory gap**. If we're cognitively closed to the property linking mind and brain, the [explanatory-gap](/concepts/explanatory-gap/) is exactly what we'd expect. We can describe both sides without seeing the connection—because the connection lies outside our conceptual reach.
+**Explains the explanatory gap**. If we're cognitively closed to the property linking mind and brain, the [explanatory-gap](/concepts/explanatory-gap/) is exactly what we'd expect—we describe both sides without seeing the connection because it lies outside our conceptual reach.
 
 **Neutral on ontology**. Mysterianism doesn't require commitment to physicalism or dualism. The solution might be physicalist (some natural property P explains consciousness) or dualist (consciousness is irreducible) or something we can't conceive. All positions remain open.
 
@@ -166,7 +167,7 @@ After millennia of philosophical investigation and decades of neuroscience, the 
 
 Daniel Dennett and the Churchlands argue that mysterianism discourages investigation. Declaring a problem unsolvable encourages giving up prematurely. We cannot know in advance what problems are unsolvable, so we should keep trying.
 
-The mysterian response: intellectual honesty isn't defeatism. We can continue investigating consciousness while acknowledging that success isn't guaranteed. And noting that centuries of effort have yielded little progress is observation, not surrender.
+The mysterian response: we can continue investigating consciousness while acknowledging that success isn't guaranteed. Noting that centuries of effort have yielded little progress is observation, not surrender.
 
 ### The Vitalism Analogy
 
@@ -200,6 +201,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 
 - [origin-of-consciousness](/voids/origin-of-consciousness/) — The prior question: why consciousness exists at all
 - [convergent-cognitive-limits](/voids/convergent-cognitive-limits/) — Cross-cultural evidence that certain cognitive limits are species-wide
+- [collective-cognitive-limits](/voids/collective-cognitive-limits/) — How cognitive closure extends to groups through paradigm blindness
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Proven mathematical limits on what any algorithmic mind can know
 - [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) — Fodor's nativist argument that concepts must be innate or inaccessible
 - [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) — Mathematical insight as evidence for cognitive limits

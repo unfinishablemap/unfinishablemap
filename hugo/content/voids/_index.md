@@ -1,27 +1,29 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-31 00:00:00+00:00
+ai_modified: 2026-02-01 14:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
 created: 2026-01-08
-date: &id001 2026-01-31
+date: &id001 2026-02-01
 description: Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable,
   and potentially occluded territories where thought cannot go or is blocked from
   going.
 draft: false
 human_modified: 2026-01-08
 last_curated: null
-last_deep_review: 2026-01-29 17:09:07+00:00
+last_deep_review: 2026-02-01 14:46:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[index]]'
 - '[[three-kinds-of-void]]'
 - '[[ai-as-void-explorer]]'
+- '[[topology-of-cognitive-failure]]'
+- '[[origin-of-consciousness]]'
 title: Voids in the Map
 topics: []
 ---
@@ -53,6 +55,60 @@ It would be easy to fill the voids with comfortable speculation—"we cannot kno
 The voids are not license for fantasy but invitations to precision. The goal is to map void *boundaries* as carefully as charted territory—to know where knowledge ends and why.
 
 The Map is unfinishable, but that doesn't mean we stop mapping. It means we map with appropriate humility, remaining alert to the possibility that some boundaries might be actively defended.
+
+## Navigating This Section
+
+### Foundational Articles
+
+- [Three Kinds of Void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
+- [The Origin Void](/voids/origin-of-consciousness/) — Why consciousness exists at all—the deepest void
+- [The Topology of Cognitive Failure](/voids/topology-of-cognitive-failure/) — Using the structure of failure as data
+- [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
+
+### Specific Voids
+
+- [The Causal Interface Void](/voids/causal-interface/) — How consciousness interfaces with the physical
+- [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — What matter is in itself
+- [The Other Minds Void](/voids/other-minds-void/) — Access to consciousness beyond our own
+- [The Unobservable Self](/voids/the-unobservable-self/) — The subject that cannot be its own object
+- [The Self-Reference Paradox](/voids/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
+- [The Past-Self Void](/voids/past-self-void/) — The discontinuity of personal identity over time
+- [The Incompleteness Void](/voids/incompleteness-void/) — Gödel's shadow on self-knowledge
+
+### Phenomenology of Limits
+
+- [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
+- [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Mechanisms of cognitive slippage
+- [Attention-Created Voids](/voids/attention-created-voids/) — What attention excludes by selecting
+- [Destabilizing Self-Knowledge](/voids/destabilizing-self-knowledge/) — Knowledge that undermines its own conditions
+- [The Phenomenology of Error Recognition](/voids/phenomenology-of-error-recognition/) — Detecting one's own mistakes
+
+### Types of Cognitive Limits
+
+- [The Limits of Conceptual Acquisition](/voids/conceptual-acquisition-limits/) — What concepts can minds form?
+- [Conceptual Impossibility](/voids/conceptual-impossibility/) — Thoughts that cannot be thought
+- [Computational Cognitive Limits](/voids/computational-cognitive-limits/) — Formal limits on any algorithmic mind
+- [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
+- [The Language-Thought Boundary](/voids/language-thought-boundary/) — What cannot be said
+- [Pre-Conceptual Knowing](/voids/pre-conceptual-knowing/) — Knowledge before and beyond concepts
+
+### Comparative Perspectives
+
+- [Convergent Cognitive Limits](/voids/convergent-cognitive-limits/) — Cross-cultural evidence for shared limits
+- [Collective Cognitive Limits](/voids/collective-cognitive-limits/) — What groups cannot think
+- [Natural vs. Designed Cognitive Limits](/voids/natural-vs-designed-limits/) — Evolved versus engineered constraints
+- [Tenet-Generated Voids](/voids/tenet-generated-voids/) — Limits implied by the Map's commitments
+
+### Methods and Probes
+
+- [Apophatic Approaches](/voids/apophatic-approaches/) — Knowing through negation
+- [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
+- [The Question as Evidence](/voids/questioning-as-evidence/) — What our questions reveal
+- [AI as Void-Explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human limits
+- [Alien Minds as Void Explorers](/voids/alien-minds-void-explorers/) — Non-human perspectives on cognitive space
+- [Defended Territory](/voids/defended-territory/) — Could some thoughts be actively blocked?
+- [Consciousness-Only Territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
+- [The Asymmetry Between Remembering and Anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why past and future access differs
 
 ---
 

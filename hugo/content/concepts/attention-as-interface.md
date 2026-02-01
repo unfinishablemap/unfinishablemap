@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-01 14:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -30,7 +30,7 @@ description: Attention may serve as the interface where consciousness influences
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 20:30:00+00:00
+last_deep_review: 2026-02-01 14:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +57,7 @@ Attention functions as the **interface layer** between consciousness and neural 
 | Attention mediates consciousness's causal influence | Specifies the downward direction of bidirectional interaction |
 | Consciousness can only influence what it attends to | Explains [brain specialness](/archive/concepts/interface-locality/)—why not psychokinesis |
 | Attention has bandwidth limits (~10 bits/second) | Constrains what consciousness can select |
-| The quantum Zeno effect is the mechanism | Rapid observation holds desired neural patterns |
+| The quantum Zeno effect is a candidate mechanism | Rapid observation holds desired neural patterns (alternative mechanisms possible) |
 
 This gives attention a distinctive role: not mere information processing, but the causal bridge between consciousness and matter. [Attention](/concepts/attention/) as a general concept covers the dissociation evidence and theoretical debates; this page focuses on attention's specific function as the Map of mind-matter interaction.
 
@@ -182,7 +182,7 @@ The interface hypothesis would fail if:
 
 1. **Consciousness without attention mechanisms**: Robust evidence of psychokinesis or remote influence through channels other than attention
 2. **Attention fully explained computationally**: Predictive processing explaining all attention phenomena including the willed-instructed distinction and effort phenomenology
-3. **Quantum decoherence too fast**: No quantum effects surviving attention timescales (~100ms) at any candidate sites (recent [quantum biology research](/concepts/decoherence/) suggests this hasn't occurred)
+3. **Quantum decoherence too fast**: No quantum effects surviving attention timescales (~100ms) at any candidate sites (recent [quantum biology research](/concepts/decoherence/) suggests this hasn't occurred). Note: even if quantum mechanisms fail, the interface hypothesis could survive via alternative physics—what matters is whether *some* mechanism allows consciousness to bias neural competition, not specifically the Zeno effect
 4. **Selection bandwidth exceeds ~10 bits/second**: Experiments finding much higher conscious selection rates
 5. **Willed and instructed attention prove identical**: If "willed" attention is just instructed with hidden instructions
 6. **Many-worlds interpretation confirmed**: "Selection" would be illusory—consciousness finding itself in branches rather than selecting outcomes
@@ -195,7 +195,7 @@ The interface hypothesis would fail if:
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The interface hypothesis *is* the specification of the downward direction. Without it, "bidirectional interaction" remains assertion without mechanism. Schwartz's OCD neuroplasticity provides empirical grounding.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The Zeno mechanism requires real collapse. If all branches actualize (MWI), there's nothing for attention to select. The phenomenology of attention *as selection* presupposes genuine alternatives—choosing *this* over *that*. On MWI, both occur; the felt efficacy of attention would be systematically misleading. See [many-worlds](/arguments/many-worlds/) for detailed arguments.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The Zeno mechanism requires real collapse. If all branches actualize (MWI), there's nothing for attention to select. The phenomenology of attention *as selection* presupposes genuine alternatives—choosing *this* over *that*. On MWI, both occur. The standard MWI response—that consciousness "self-locates" to branches where attention succeeded, creating the appearance of efficacy—doesn't rescue the position: it makes attention's felt causal power an elaborate illusion with no actual work being done. If the outcome was always guaranteed by branch-counting rather than effort, why does effortful attention correlate with neuroplastic change while passive observation doesn't? Self-locating explains the *appearance* of efficacy but not the *differential results* of engaged versus passive attention. See [many-worlds](/arguments/many-worlds/) for detailed arguments.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The 2025 adversarial testing found neither GWT nor IIT fully explains consciousness. The interface hypothesis adds complexity but explains what simpler theories cannot: why attention feels effortful and why effortful attention produces neuroplastic results.
 
