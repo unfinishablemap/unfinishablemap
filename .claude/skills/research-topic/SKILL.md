@@ -146,7 +146,7 @@ Prepend entry to `obsidian/workflow/changelog.md` (add immediately after frontma
 ## [current time from prompt] - research-topic
 - **Status**: Success
 - **Topic**: [topic name]
-- **Output**: [filepath]
+- **Output**: [[filepath without .md extension]]
 - **Sources consulted**: [count]
 ```
 

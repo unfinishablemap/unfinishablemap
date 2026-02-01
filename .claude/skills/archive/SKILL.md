@@ -80,7 +80,7 @@ Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, 
 ```markdown
 ## [current time from prompt] - archive
 - **Status**: Success
-- **Archived**: [original path] → [archive path]
+- **Archived**: [[original path without .md]] → [[archive path without .md]]
 - **Reason**: [reason]
 - **References found**: [count or "none"]
 ```

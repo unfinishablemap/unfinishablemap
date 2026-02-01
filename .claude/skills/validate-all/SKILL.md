@@ -89,14 +89,14 @@ Prepend results to `obsidian/workflow/changelog.md` (add immediately after front
 - **Files validated**: N
 - **Errors**: List or "None"
 - **Warnings**: List or "None"
-- **Orphaned content**: List or "None"
-- **Stale drafts**: List or "None"
+- **Orphaned content**: List as wikilinks or "None"
+- **Stale drafts**: List as wikilinks or "None"
 
 **Length Warnings:**
 | Status | Count | Worst |
 |--------|-------|-------|
-| Critical | N | filename.md (X%) |
-| Hard | N | filename.md (X%) |
+| Critical | N | [[filename]] (X%) |
+| Hard | N | [[filename]] (X%) |
 | Soft | N | (noted if >50% of articles) |
 ```
 

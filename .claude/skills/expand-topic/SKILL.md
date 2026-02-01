@@ -241,9 +241,9 @@ Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, 
 ## [current time from prompt] - expand-topic
 - **Status**: Success
 - **Topic**: [topic name]
-- **Output**: [filepath]
+- **Output**: [[filepath without .md extension]]
 - **Word count**: [count]
-- **Based on research**: [yes/no, link if yes]
+- **Based on research**: [yes/no, wikilink if yes]
 ```
 
 ### 8. Commit

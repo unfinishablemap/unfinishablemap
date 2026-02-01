@@ -185,10 +185,10 @@ Create `obsidian/reviews/apex-evolve-[date]-[slug].md` containing:
    ```
    ## [current time from prompt] - apex-evolve
    - **Status**: Complete
-   - **Article**: [title]
+   - **Article**: [[article path without .md extension]]
    - **Changed sources**: [count]
    - **Word count**: [before] → [after]
-   - **Review**: reviews/apex-evolve-[date]-[slug].md
+   - **Review**: [[reviews/apex-evolve-date-slug]]
    ```
 
 2. Create git commit:

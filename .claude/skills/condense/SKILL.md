@@ -172,7 +172,7 @@ Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, 
 ```markdown
 ## [current time from prompt] - condense
 - **Status**: Success
-- **File**: [filepath]
+- **File**: [[filepath without .md extension]]
 - **Before**: [word count]
 - **After**: [word count]
 - **Reduction**: [percentage]%

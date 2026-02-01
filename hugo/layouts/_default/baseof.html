@@ -225,32 +225,60 @@
             font-size: 0.7em;
         }
 
-        /* Algolia Autocomplete on home page */
-        .aa-Form {
-            border: none;
+        /* Algolia Autocomplete on home page - match search page styling */
+        .aa-Autocomplete {
+            width: 100%;
         }
-        .aa-SubmitIcon,
-        .aa-InputWrapperPrefix {
+        .aa-Form {
+            border: 1px solid var(--pico-muted-border-color);
+            border-radius: 0.25rem;
+            background: var(--pico-background-color);
+        }
+        .aa-Form:focus-within {
+            border-color: var(--pico-primary);
+            box-shadow: none;
+        }
+        .aa-Input {
+            padding: 0.75rem 1rem;
+            font-size: 1rem;
+            background: transparent;
+            color: var(--pico-color);
+        }
+        .aa-Input::placeholder {
+            color: var(--pico-muted-color);
+        }
+        .aa-SubmitButton,
+        .aa-ClearButton {
             display: none;
         }
-        /* Dark mode for Algolia Autocomplete */
-        [data-theme="dark"] .aa-Form {
-            background: var(--pico-background-color);
-            border-color: var(--pico-muted-border-color);
-        }
-        [data-theme="dark"] .aa-Input {
-            background: var(--pico-background-color);
-            color: var(--pico-color);
-        }
-        [data-theme="dark"] .aa-Panel {
+        .aa-Panel {
             background: var(--pico-card-background-color);
-            border-color: var(--pico-muted-border-color);
+            border: 1px solid var(--pico-muted-border-color);
+            border-radius: 0.25rem;
+            margin-top: 0.25rem;
         }
-        [data-theme="dark"] .aa-Item {
+        .aa-Item {
+            padding: 0.5rem 1rem;
             color: var(--pico-color);
         }
-        [data-theme="dark"] .aa-ItemLink {
-            color: var(--pico-color);
+        .aa-Item[aria-selected="true"] {
+            background: var(--pico-primary-background);
+        }
+        .aa-ItemLink {
+            color: var(--pico-primary);
+        }
+        .aa-ItemLink:hover {
+            text-decoration: underline;
+        }
+        /* Dark mode - set Algolia CSS custom properties */
+        [data-theme="dark"] {
+            --aa-background-color-rgb: 19, 23, 31;
+            --aa-muted-color-rgb: 150, 150, 150;
+            --aa-text-color-rgb: 224, 224, 224;
+            --aa-primary-color-rgb: 98, 176, 208;
+            --aa-input-background-color-rgb: 19, 23, 31;
+            --aa-panel-background-color-rgb: 30, 30, 30;
+            --aa-selected-color-rgb: 98, 176, 208;
         }
 
     </style>

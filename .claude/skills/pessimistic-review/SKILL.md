@@ -191,7 +191,7 @@ Prepend entry to `obsidian/workflow/changelog.md` (add immediately after frontma
 ## [current time from prompt] - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [summary]
-- **Output**: [filepath]
+- **Output**: [[filepath without .md extension]]
 ```
 
 ## Important

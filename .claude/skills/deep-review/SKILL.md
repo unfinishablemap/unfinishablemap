@@ -316,12 +316,12 @@ Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, 
 ```markdown
 ## [current time from prompt] - deep-review
 - **Status**: Success
-- **File**: [filepath]
+- **File**: [[filepath without .md extension]]
 - **Word count**: [before] → [after] ([+/-change])
 - **Critical issues addressed**: [count]
 - **Medium issues addressed**: [count]
 - **Enhancements made**: [count]
-- **Output**: `reviews/deep-review-YYYY-MM-DD-[slug].md`
+- **Output**: [[reviews/deep-review-YYYY-MM-DD-slug]]
 ```
 
 ### 10. Commit Changes

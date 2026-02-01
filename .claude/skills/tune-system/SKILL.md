@@ -271,7 +271,7 @@ Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, 
 - **Findings**: X cadence, Y failure, Z queue, W review, V convergence
 - **Tier 1 changes**: N applied
 - **Tier 2 recommendations**: N logged
-- **Output**: `reviews/system-tune-YYYY-MM-DD.md`
+- **Output**: [[reviews/system-tune-YYYY-MM-DD]]
 ```
 
 ## Safeguards

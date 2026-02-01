@@ -194,7 +194,7 @@ Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, 
 - **Status**: Success
 - **Topic**: [selected topic]
 - **Category**: Unexplored/Unexplorable/Occluded
-- **Output**: research/voids-[slug]-YYYY-MM-DD.md
+- **Output**: [[research/voids-slug-YYYY-MM-DD]]
 - **Key finding**: [one-sentence summary]
 ```
 

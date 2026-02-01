@@ -144,9 +144,9 @@ Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, 
 ```markdown
 ## [current time from prompt] - coalesce
 - **Status**: Success
-- **Sources**: [list of source files]
-- **Target**: [new article path]
-- **Archived**: [list of archive paths]
+- **Sources**: [list of source files as wikilinks]
+- **Target**: [[new article path without .md extension]]
+- **Archived**: [list of archive paths as wikilinks]
 - **References to review**: [count or "none"]
 ```
 

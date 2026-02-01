@@ -170,7 +170,7 @@ Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, 
 ```markdown
 ## [current time from prompt] - refine-draft
 - **Status**: Success
-- **File**: [filepath]
+- **File**: [[filepath without .md extension]]
 - **Original score**: X/10
 - **Changes**: [brief list]
 - **Published**: yes
