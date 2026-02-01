@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-01 05:48:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,7 @@ concepts:
 - '[[measurement-problem]]'
 - '[[quantum-consciousness]]'
 - '[[vertiginous-question]]'
+- '[[indexical-facts]]'
 created: 2026-01-16
 date: &id001 2026-01-26
 description: The quality of being this particular conscious subject. Pattern-based
@@ -22,7 +23,7 @@ description: The quality of being this particular conscious subject. Pattern-bas
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-26 18:00:00+00:00
+last_deep_review: 2026-02-01 05:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,7 +47,7 @@ Modern discussions distinguish:
 
 **Haecceity**: The non-qualitative, non-transferable property of being *this* particular thing. Unlike qualitative properties, haecceity cannot be duplicated. A perfect replica would share all qualitative properties but necessarily differ in haecceity.
 
-**Indexical facts**: Facts specifiable only using indexicals like "I," "here," "now." The fact that *I* am writing this sentence cannot be reduced to facts about some person writing a sentence—because there might be multiple people writing identical sentences, and only one of them is me.
+**[Indexical facts](/concepts/indexical-facts/)**: Facts specifiable only using indexicals like "I," "here," "now." The fact that *I* am writing this sentence cannot be reduced to facts about some person writing a sentence—because there might be multiple people writing identical sentences, and only one of them is me.
 
 These concepts converge for consciousness. The question "Why am I this subject and not another?" presupposes that being this subject is a genuine fact—a haecceitistic fact not reducible to qualitative features of my psychology.
 
@@ -94,7 +95,7 @@ Epistemologists discuss "self-locating beliefs"—beliefs about where you are in
 
 Consider: "There is a person in a red room" vs "I am in a red room." The first describes the world impersonally. The second locates me within it. Even knowing all impersonal facts about the world, I might not know which person I am—which requires self-location.
 
-David Lewis's "Two Gods" scenario: Two omniscient gods know all qualitative facts about the universe but are uncertain which god each one is. This suggests self-locating knowledge is distinct from qualitative knowledge.
+David Lewis's "Two Gods" scenario (discussed in [indexical-facts](/concepts/indexical-facts/)) demonstrates that self-locating knowledge is distinct from qualitative knowledge—omniscience about impersonal facts leaves "which one am I?" undetermined.
 
 For consciousness:
 
@@ -226,6 +227,7 @@ The haecceity concept makes explicit what the Map presupposes. Personal identity
 
 ## Further Reading
 
+- [indexical-facts](/concepts/indexical-facts/) — The irreducible first-person facts that haecceity grounds
 - [vertiginous-question](/topics/vertiginous-question/) — Why am I *this* conscious being rather than another?
 - [personal-identity](/topics/personal-identity/) — How haecceity grounds personal identity
 - [many-worlds](/arguments/many-worlds/) — Why indexical identity problems doom many-worlds

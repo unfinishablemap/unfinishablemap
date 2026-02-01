@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-01-31 22:22:00+00:00
+ai_modified: 2026-02-01 05:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts: []
@@ -29,7 +29,7 @@ None identified. The article is well-constructed with appropriate hedging on spe
 - **Bischof-Köhler hypothesis uncited**: The claim about animals' inability to act on non-current drive states lacked citation. *Resolution*: Added Suddendorf & Corballis 2007 citation.
 - **Great ape WM capacity uncited**: The "2±1 items" claim lacked inline citation. *Resolution*: Added Inoue & Matsuzawa 2007 citation.
 - **"Literal force" claim underargued**: The assertion that economic concepts have "literal force" in the framework could use support. *Resolution*: Added sentence specifying that scarcity is genuine, trade-offs are real, and returns are measurable.
-- **Missing cross-links**: Counterfactual reasoning was mentioned but not linked; moral luck was relevant to structural factors but missing. *Resolution*: Added both wikilinks.
+- **Missing cross-links**: Counterfactual reasoning was mentioned but not linked. *Resolution*: Added counterfactual-reasoning wikilink. (Note: moral-luck was initially added but later removed as no such article exists.)
 
 ### Counterarguments Considered
 - **Churchland/Dennett (functionalist)**: "Felt effort" could be explained by neural competition without non-physical causation. The article's response via the argument from reason and Zeno mechanism is appropriate; this remains a bedrock philosophical disagreement, not a flaw to fix.
@@ -49,13 +49,15 @@ None identified. The article is well-constructed with appropriate hedging on spe
 ### Enhancements Made
 - Strengthened "literal force" claim with concrete support
 - Added [counterfactual-reasoning](/concepts/counterfactual-reasoning/) cross-link in distal intentions passage
-- Added [moral-luck](/moral-luck/) cross-link in structural factors passage
+- Removed `moral-luck` cross-link (article does not exist; moral luck mentioned as plain text)
 - Added citations for Bischof-Köhler hypothesis and great ape WM capacity
 - Added two new references to References section
 
 ### Cross-links Added
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/)
-- [moral-luck](/moral-luck/)
+
+### Cross-links Removed
+- `moral-luck` (article does not exist)
 
 ## Remaining Items
 

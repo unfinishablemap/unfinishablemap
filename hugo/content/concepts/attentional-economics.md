@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-01-31 22:22:00+00:00
+ai_modified: 2026-02-01 05:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,7 +14,6 @@ concepts:
 - '[[phenomenology-of-choice]]'
 - '[[working-memory]]'
 - '[[counterfactual-reasoning]]'
-- '[[moral-luck]]'
 created: 2026-01-31
 date: &id001 2026-01-31
 description: Agency is fundamentally the allocation of attention over time. Freedom
@@ -137,7 +136,7 @@ This doesn't excuse wrongdoing—"I couldn't sustain attention on the consequenc
 
 **Character cultivation**: Developing attentional skills over time is itself an exercise of agency. You are responsible not just for choices but for cultivating or neglecting the capacity to choose well.
 
-**Structural factors**: Social conditions that chronically drain attention (poverty, stress, instability) reduce the attentional capital available for agency. This has ethical implications beyond individual character—connecting attentional economics to broader questions of [moral luck](/moral-luck/) and social justice.
+**Structural factors**: Social conditions that chronically drain attention (poverty, stress, instability) reduce the attentional capital available for agency. This has ethical implications beyond individual character—connecting attentional economics to broader questions of moral luck and social justice.
 
 ## The Economics of Witness Mode
 
