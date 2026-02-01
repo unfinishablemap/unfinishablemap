@@ -4,7 +4,7 @@ description: "Human+AI investigation of how cognitive boundaries illuminate cogn
 created: 2026-01-16
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-30T18:36:00+00:00
+ai_modified: 2026-02-01T15:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,7 @@ concepts:
   - "[[decoherence]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[metacognition]]"
-last_deep_review: 2026-01-30T18:36:00+00:00
+last_deep_review: 2026-02-01T15:10:00+00:00
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[illusionism]]"
   - "[[introspection]]"
   - "[[decoherence]]"
+  - "[[collective-cognitive-limits]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -66,6 +67,8 @@ Kant and Wittgenstein take this deepest. For Kant, transcendental arguments infe
 Wittgenstein wrote that the aim of the *Tractatus* was "to draw a limit to thought." This is not pessimism but method. The boundaries of thought don't merely constrain—they *constitute* the space of possible thought. My "form of life" determines not just what I cannot think but what thinking means for me.
 
 The limit is visible from within only through negative evidence: where thought fails, where concepts won't form, where the mind repeatedly slides away. Mapping these boundaries is mapping the container that makes thought possible.
+
+These limits operate not only at the individual level but at collective levels too. Paradigms, cultures, and social structures develop their own blind spots—emergent limitations that no individual mind would face alone (see [[collective-cognitive-limits]]). The shape of *collective* limits may reveal the architecture of collective cognition, just as individual limits reveal individual architecture.
 
 This leads to a meta-level insight: the very *capacity* to conceive of cognitive limits is itself a datum requiring explanation (see [[questioning-as-evidence]]). That existence produced beings who can ask "what can't I think?" is not merely interesting but potentially evidential—the questioning capacity reveals something about the questioner.
 
@@ -148,6 +151,7 @@ The limits-reveal-structure thesis would be undermined if:
 - [[illusionism|Illusionism]] — The radical challenge that limits are misrepresentations (see Illusionist Challenge section)
 - [[introspection|Introspection]] — The reliability of first-person access to cognitive architecture
 - [[decoherence|Decoherence]] — Quantum coherence and the physical possibility of mind-matter interface
+- [[collective-cognitive-limits|Collective Cognitive Limits]] — How paradigms and social structures create emergent blind spots
 
 ## References
 

@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 15:10 UTC - deep-review
+- **Status**: Success
+- **File**: obsidian/voids/limits-reveal-structure.md
+- **Word count**: 1780 → 1847 (+67)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (missing cross-link to collective-cognitive-limits)
+- **Enhancements made**: 2 (collective dimension paragraph, Further Reading update)
+- **Output**: `reviews/deep-review-2026-02-01-limits-reveal-structure.md`
+- **Notes**: Cross-review considering collective-cognitive-limits insights. Added paragraph in "Limits as Constitutive" section noting that limits operate at collective as well as individual levels, linking to collective-cognitive-limits.md. Article at 92% of soft threshold. Fourth deep review—article has reached high stability.
+
 ## 2026-02-01 15:06 UTC - deep-review
 - **Status**: Success
 - **File**: obsidian/concepts/mysterianism.md
