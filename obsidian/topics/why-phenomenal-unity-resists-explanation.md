@@ -4,7 +4,7 @@ description: "Classical mechanisms coordinate separate processes but cannot make
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T18:33:00+00:00
+ai_modified: 2026-02-01T18:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
+last_deep_review: 2026-02-01T18:52:00+00:00
 ---
 
 [[phenomenal-unity|Phenomenal unity]]—the fact that conscious experience comes as an integrated whole rather than separate parts—systematically resists physical explanation. Every classical approach shares a structural limitation: they describe how separate processes relate without explaining how they become *one* process. Synchronised firing consists of many neurons firing. Information integration occurs across distinct subsystems. Global broadcasting happens in multiple locations. No amount of coordination, correlation, or integration among separate things makes them literally one thing. This structural mismatch between physical relations and experiential unity is not merely a gap in current knowledge but may reflect a genuine ontological difference—consciousness involves something that physical description cannot capture.
@@ -64,7 +65,7 @@ Recent work has sharpened this problem. Zero-lag gamma synchrony—precisely syn
 - Classical signalling cannot achieve zero-lag synchrony across these distances
 - Yet zero-lag synchrony reliably correlates with conscious perception
 
-Baum's Quantum Binding Argument formalises the issue: if zero-lag synchrony across distances that forbid classical signalling is real, then the synchrony either violates relativity (faster-than-light signalling) or involves quantum non-locality. The thalamic "pacemaker" hypothesis—that a central oscillator coordinates distant regions—doesn't resolve the timing constraints.
+Baum's Quantum Binding Argument formalises the issue: if zero-lag synchrony across distances that forbid classical signalling is real, then the synchrony either violates relativity (faster-than-light signalling) or involves quantum non-locality. The thalamic "pacemaker" hypothesis—that a central oscillator coordinates distant regions—faces the same timing problem: signals from the thalamus to distant cortical sites take different times depending on axon length, yet synchrony appears simultaneous.
 
 This doesn't prove consciousness is quantum, but it suggests that the neural binding underlying phenomenal unity may already involve non-classical physics. Classical coordination mechanisms cannot produce the temporal precision observed.
 
@@ -116,11 +117,15 @@ Classical physics provides only external relations. But quantum mechanics provid
 
 When quantum systems become entangled, they form a whole with properties that neither part possesses individually. The entangled system cannot be decomposed into the states of its components—it has irreducible wholeness. This isn't merely that we lack information about the parts; the whole is ontologically prior to the parts.
 
+Unlike IIT's definitional move—stipulating that integration *is* unity—the quantum proposal makes a structural claim. IIT says "call integration 'unity'"; quantum holism says "here is something that actually *is* one thing, not many coordinated things." The proposal doesn't solve the hard problem (why does unity feel like anything?), but it provides a physical correlate that matches the structure of the explanandum rather than merely relabeling it.
+
 If neural microtubules sustain entangled quantum states that collapse together, phenomenal unity might *correspond to* the unity of the entangled quantum state. Structural match: the physical system is genuinely one thing (not coordinated separate things), and the experience is genuinely one thing.
 
 This doesn't solve the hard problem—the question of why *any* physical state, entangled or not, produces experience. But it solves what might be called the *structure matching* problem. Classical mechanisms fail to provide unified physical substrates for unified experiences. Quantum entanglement provides such substrates.
 
 The Map's position is that quantum holism provides the *right kind* of physical correlate for phenomenal unity. Classical correlates—synchrony, integration, broadcasting—remain multiplicities even when maximally coordinated. Quantum correlates—entangled states—are genuine unities at the physical level. Whether this physical unity *produces* or merely *corresponds to* phenomenal unity remains an open question. But the structural mismatch that defeats classical approaches doesn't defeat the quantum approach.
+
+The standard objection is decoherence: warm, wet brains should destroy quantum coherence in femtoseconds (Tegmark 2000). The Map acknowledges this empirical challenge while noting proposed mechanisms for preserving coherence in biological systems (see [[quantum-consciousness]] for discussion). The quantum alternative is speculative—but unlike classical approaches, it is not ruled out by structural considerations alone.
 
 ## The Illusionist Response
 
