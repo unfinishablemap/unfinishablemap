@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Cross-review haecceity.md considering indexical-facts.md
-- **Type**: cross-review
-- **Notes**: New article concepts/indexical-facts.md (2026-01-27) develops the concept of facts specifiable only through indexicals like "I", "here", "now"—central to the vertiginous question. Check haecceity.md for: (1) cross-links to indexical facts treatment, (2) whether the distinction between haecceity (primitive thisness) and indexical facts is clear, (3) opportunities to strengthen the connection to personal identity puzzles.
-- **Source**: chain (from indexical-facts.md)
-- **Generated**: 2026-01-27
-
 ### P2: Cross-review phenomenology.md considering pre-conceptual-knowing.md
 - **Type**: cross-review
 - **Notes**: New voids article voids/pre-conceptual-knowing.md (2026-01-27) investigates whether conceptual beings are structurally blocked from modes of knowing available to pre-conceptual beings. Check phenomenology.md for: (1) cross-links to pre-conceptual knowing discussion, (2) whether the fineness-of-grain problem and phenomenal overflow are addressed, (3) connection to the broader voids framework.
@@ -846,6 +840,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Cross-review haecceity.md considering indexical-facts.md
+- **Type**: cross-review
+- **Notes**: New article concepts/indexical-facts.md (2026-01-27) develops the concept of facts specifiable only through indexicals like "I", "here", "now"—central to the vertiginous question. Check haecceity.md for: (1) cross-links to indexical facts treatment, (2) whether the distinction between haecceity (primitive thisness) and indexical facts is clear, (3) opportunities to strengthen the connection to personal identity puzzles.
+- **Output**: obsidian/concepts/haecceity.md -- Context: Cross-review haecceity.md considering indexical-facts.md
 
 ### ✓ 2026-02-01: Cross-review functionalism.md considering IIT critique
 - **Type**: cross-review
