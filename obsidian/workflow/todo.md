@@ -43,13 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on the phenomenology of temporal agency
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-25. What is it like to form intentions for the future? How does the phenomenology of distal intention differ from proximal choice? Builds on free-will.md, prospective-memory.md, duration.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-25
-
 ### P2: Strengthen illusionism engagement in death-and-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -630,6 +623,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article on the phenomenology of temporal agency
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-25. What is it like to form intentions for the future? How does the phenomenology of distal intention differ from proximal choice? Builds on free-will.md, prospective-memory.md, duration.md.
+- **Output**: the phenomenology of temporal agency
 
 ### ✓ 2026-02-01: Write article on the phenomenology of mathematical understanding
 - **Type**: expand-topic
