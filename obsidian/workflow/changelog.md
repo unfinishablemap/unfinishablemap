@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 19:27 UTC - research-voids
+- **Status**: Success
+- **Topic**: Cognitive Aversion
+- **Category**: Occluded / Unexplored / Mixed
+- **Output**: [[research/voids-cognitive-aversion-2026-02-01]]
+- **Key finding**: Thoughts we systematically fail to sustain—not because we cannot think them (cognitive closure) but because something deflects us. Distinct phenomenon from McGinn's mysterianism, grounded in Becker, TMT, Heidegger's "falling," and motivated cognition research.
+
 ## 2026-02-01 19:22 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/free-will]]
