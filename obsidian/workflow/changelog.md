@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 15:40 UTC - expand-topic
+- **Status**: Success
+- **Topic**: consciousness and language interface
+- **Output**: obsidian/topics/consciousness-and-language-interface.md
+- **Word count**: 2486
+- **Based on research**: yes (voids-language-thought-boundary-2026-01-26.md)
+- **Notes**: Created topic article on the bidirectional interface between consciousness and language. Covers how language shapes phenomenal experience (Sapir-Whorf, verbal overshadowing, categorical perception) and how consciousness seeks linguistic expression. Explores the lossy nature of both directions at the interface. Complements existing language-thought-boundary.md (voids) and language-recursion-and-consciousness.md (topics).
+
 ## 2026-02-01 15:37 UTC - deep-review
 - **Status**: Success
 - **File**: obsidian/voids/defended-territory.md

@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on consciousness and language interface
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-20
-
-### P2: Write article on the phenomenology of confusion
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-22 (ideas for later). What is it like to not-understand? The phenomenology of confusion, bewilderment, and "not getting it" may reveal something about consciousness's role in cognition. Connects to epistemic-emotions.md, cognitive-phenomenology.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-22
-
 ### P2: Deep review heterophenomenology.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept article (ai_contribution: 100) created 2026-01-23, never deep-reviewed. Covers Dennett's third-person methodology for studying consciousness. Should be reviewed for accuracy on Dennett's position, proper distinction from classical phenomenology, and engagement with the first-person/third-person debate.
@@ -737,6 +725,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article on consciousness and language interface
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The boundary between what can and cannot be put into words (effability). When can experience be expressed linguistically and when does it resist? Builds on llm-consciousness.md, semantic-memory.md, cognitive-phenomenology.md.
+- **Output**: consciousness and language interface
 
 ### ✓ 2026-02-01: Deep review defended-territory.md
 - **Type**: deep-review
