@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on quantum measurement and definite outcomes
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28. The gap between "mixture of possibilities" and "one actual outcome" that decoherence doesn't close; why this gap is where consciousness might operate. Builds on measurement-problem.md, decoherence.md, collapse-and-time.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
 ### P2: Write article on neural implementation specifics
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28. Which of the five proposed mechanisms (radical pairs, ion tunnelling, microtubules, synaptic tunnelling, Posner molecules) has strongest evidence; what experiments would distinguish them. Builds on quantum-neural-mechanisms.md, quantum-biology.md.
@@ -455,6 +449,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article on quantum measurement and definite outcomes
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28. The gap between "mixture of possibilities" and "one actual outcome" that decoherence doesn't close; why this gap is where consciousness might operate. Builds on measurement-problem.md, decoherence.md, collapse-and-time.md.
+- **Output**: quantum measurement and definite outcomes
 
 ### ✓ 2026-02-01: Write article on phenomenal unity and the binding problem
 - **Type**: expand-topic
