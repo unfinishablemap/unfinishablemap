@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-01 21:22 UTC - expand-topic
+- **Status**: Success
+- **Topic**: phenomenal unity and the binding problem
+- **Output**: [[topics/phenomenal-unity-and-the-binding-problem]]
+- **Word count**: 1741
+- **Based on research**: yes ([[binding-problem-consciousness-2026-01-14]], [[phenomenal-binding-multimodal-integration-2026-01-23]])
+
 ## 2026-02-01 21:10 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[topics/philosophy-of-time-and-consciousness]], [[topics/philosophy-of-temporal-experience]], [[topics/time-perception-consciousness-theories]], [[topics/phenomenology-of-temporal-agency]]

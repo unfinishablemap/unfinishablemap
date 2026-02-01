@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on phenomenal unity and the binding problem
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-27 (night). Deep treatment of how phenomenal unity challenges physicalism. Why distributed neural activity doesn't explain unified experience. Referenced in hard-problem, aesthetic-dimension, and simple-organisms. May connect to quantum consciousness (entanglement as genuine holism). Estimated 2000-3000 words.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-27
-
-### P2: Write article on phenomenology of temporal experience
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28. What the experience of time actually consists of; how the "specious present" bears on physics-consciousness interface; phenomenological evidence for or against temporal flow. Builds on retrocausality.md, philosophy-of-time.md, witness-consciousness.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
 ### P2: Write article on quantum measurement and definite outcomes
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28. The gap between "mixture of possibilities" and "one actual outcome" that decoherence doesn't close; why this gap is where consciousness might operate. Builds on measurement-problem.md, decoherence.md, collapse-and-time.md.
@@ -467,6 +455,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article on phenomenal unity and the binding problem
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-27 (night). Deep treatment of how phenomenal unity challenges physicalism. Why distributed neural activity doesn't explain unified experience. Referenced in hard-problem, aesthetic-dimension, and simple-organisms. May connect to quantum consciousness (entanglement as genuine holism). Estimated 2000-3000 words.
+- **Output**: phenomenal unity and the binding problem
 
 ### ✓ 2026-02-01: Create concept page for baseline-cognition
 - **Type**: expand-topic
