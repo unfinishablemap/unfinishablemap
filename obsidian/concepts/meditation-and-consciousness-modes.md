@@ -4,7 +4,7 @@ description: "Two modes of consciousness: active selection through attention and
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-29T06:15:00+00:00
+ai_modified: 2026-02-01T01:38:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -20,6 +20,8 @@ concepts:
   - "[[phenomenology-of-choice]]"
   - "[[phenomenology]]"
   - "[[default-mode-network]]"
+  - "[[contemplative-neuroscience]]"
+  - "[[neurophenomenology]]"
 related_articles:
   - "[[tenets]]"
   - "[[meditation-observer-witness-phenomenon-2026-01-18]]"
@@ -28,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-01-29T06:15:00+00:00
+last_deep_review: 2026-02-01T01:38:00+00:00
 ---
 
 Consciousness appears to have at least two distinct modes of operation. In one mode—active selection—consciousness engages with the brain through attention, choosing among competing neural patterns and holding desired states stable through [[mental-effort|mental effort]]. In another mode—passive witnessing—consciousness observes without intervening, allowing mental contents to arise and pass without selection. Meditation traditions have discovered and cultivated both modes, and neuroscience confirms they have distinct brain signatures.
@@ -262,6 +264,8 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 
 - [[witness-consciousness]] — Dedicated treatment of the sakshi/witness concept
 - [[default-mode-network]] — The brain network that quiets during meditation, with filter theory interpretation
+- [[contemplative-neuroscience]] — Neuroplasticity evidence from meditation training supporting bidirectional interaction
+- [[neurophenomenology]] — Varela's mutual constraints framework integrating first-person and third-person methods
 - [[illusionism]] — The illusionist challenge and quasi-phenomenal properties
 - [[phenomenology-of-choice]] — The felt difference between choosing and observing
 - [[attention-as-interface]] — How consciousness influences matter through attention
