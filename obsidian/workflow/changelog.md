@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-01T21:05:00+00:00
+ai_modified: 2026-02-01T21:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,13 @@ related_articles:
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-02-01 21:42 UTC - research-voids
+- **Status**: Success
+- **Topic**: Volitional Opacity
+- **Category**: Unexplorable / Occluded / Mixed
+- **Output**: [[research/voids-volitional-opacity-2026-02-01]]
+- **Key finding**: The mechanism of willing is structurally hidden—Libet shows decisions initiated unconsciously, Wegner shows sense of agency is constructed, and the interactionist problem shows no satisfactory mechanism for mental causation has been proposed
 
 ## 2026-02-01 21:37 UTC - expand-topic
 - **Status**: Success
