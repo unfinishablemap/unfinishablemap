@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on attention disorders and the quantum interface
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-24. If attention is the mind-matter interface, what do attention disorders (ADHD, attention fatigue, meditation deficits) tell us about that interface? The OCD evidence (Schwartz) is mentioned; a systematic treatment of attention pathology would strengthen the framework. Builds on attention-motor-quantum-interface.md, voluntary-attention.md, stapp-quantum-mind.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-24
-
-### P2: Write article on developmental trajectory of conscious amplification
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-24. How does conscious amplification emerge developmentally in humans? The baseline cognition article compares adults; child development might reveal the emergence of metarepresentational capacities. When do children start representing their own representations? Builds on baseline-cognition.md, working-memory.md, metacognition.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-24
-
 ### P2: Write article on creativity and novel combination
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-24. How does consciousness enable creative innovation? If great apes are restricted to the "zone of latent solutions," what enables humans to escape it? The incubation effect (unconscious processing followed by conscious insight) is empirically well-studied. Builds on baseline-cognition.md, conscious-vs-unconscious-processing.md.
@@ -707,6 +695,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-01: Write article on attention disorders and the quantum interface
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-24. If attention is the mind-matter interface, what do attention disorders (ADHD, attention fatigue, meditation deficits) tell us about that interface? The OCD evidence (Schwartz) is mentioned; a systematic treatment of attention pathology would strengthen the framework. Builds on attention-motor-quantum-interface.md, voluntary-attention.md, stapp-quantum-mind.md.
+- **Output**: attention disorders and the quantum interface
 
 ### ✓ 2026-02-01: Write article on phenomenology of evidence assessment
 - **Type**: expand-topic
