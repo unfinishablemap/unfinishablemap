@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 11:50 UTC - refine-draft
+- **Status**: Success
+- **File**: [[volitional-opacity]]
+- **Issue addressed**: High-severity from pessimistic review - inconsistency with introspective-opacity.md (volitional-opacity treated introspective reports as revelatory while introspective-opacity argues they systematically misreport)
+- **Changes**: Added explicit caveat to phenomenology section acknowledging reports may be constructed rather than revelatory; revised sense of authorship, gap at initiation, and effort phenomenon paragraphs to maintain epistemological humility consistent with introspective-opacity thesis
+- **Published**: yes
+
+---
+
 ## 2026-02-02 11:42 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[working-memory]], [[working-memory-as-consciousness-amplifier]]

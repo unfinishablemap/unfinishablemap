@@ -4,7 +4,7 @@ description: "Human+AI exploration of why we cannot observe our own willing—th
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-02T10:38:00+00:00
+ai_modified: 2026-02-02T11:50:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -59,13 +59,15 @@ The question of how mental causation works "is problematic because in dualism 't
 
 ## The Phenomenology of Volitional Opacity
 
-What does this opacity feel like from the inside?
+What does this opacity feel like from the inside? A crucial caveat applies: [[introspective-opacity|introspective opacity]] suggests that these phenomenological reports may themselves be constructed rather than revelatory. We cannot assume introspection reliably describes volitional experience any more than it reliably describes other cognitive processes. The phenomenology recorded here represents *what willing seems like*—which may differ from what willing actually is.
 
-**The sense of authorship**: We experience ourselves as the origin of our actions. This feeling is vivid, immediate, and compelling. Galen Strawson describes an aspect of experience that is "profoundly libertarian," involving a sense of oneself as a "self-determining 'agent-self'" that is "separate from, and somehow irreducibly over and above, all its particular desires." The phenomenology of agency is rich and undeniable.
+With this caveat, subjects report the following features:
 
-**The gap at initiation**: When we try to catch the moment of deciding, we find it elusive. Decisions seem to *appear*—we experience having decided, not deciding. The initiation is always already past. Meditators across traditions report the same finding: sustained attention on the moment of decision reveals less and less. The intention seems to arise rather than be caused.
+**The sense of authorship**: We experience ourselves as the origin of our actions. This feeling is vivid, immediate, and compelling. Galen Strawson describes an aspect of experience that is "profoundly libertarian," involving a sense of oneself as a "self-determining 'agent-self'" that is "separate from, and somehow irreducibly over and above, all its particular desires." But as Wegner's research shows, this rich phenomenology can occur even when our actions have other causes. The sense of authorship is a constructed experience, not a window onto causal reality.
 
-**The effort phenomenon**: Trying involves "mobilizing force in the face of resistance," as Uriah Kriegel puts it. We experience exertion, strain, and directed effort. This phenomenology is vivid—but whether it reflects actual causation or merely accompanies neural events remains hidden. The effort is felt; its efficacy is opaque.
+**The gap at initiation**: When we try to catch the moment of deciding, we find it elusive. Decisions seem to *appear*—we experience having decided, not deciding. The initiation is always already past. Meditators across traditions report the same finding: sustained attention on the moment of decision reveals less and less. The intention seems to arise rather than be caused. Whether this elusiveness reflects genuine absence of conscious initiation, or merely introspection's inability to track rapid processes, cannot be determined from introspection itself.
+
+**The effort phenomenon**: Trying involves "mobilizing force in the face of resistance," as Uriah Kriegel puts it. We experience exertion, strain, and directed effort. This phenomenology is vivid—but whether it reflects actual causation or merely accompanies neural events remains hidden. The effort is felt; its efficacy is opaque. Even the phenomenology of effort may be retrospectively constructed: we may *feel* like we tried hard only after observing ourselves persist.
 
 **The transparency illusion**: Despite structural opacity, we *feel* transparent to ourselves as agents. We feel we know why we act, how we decide, what moves us. This felt transparency may be the mind's "best trick" (Wegner). The seamlessness of confabulation—fabricated explanations feel no different from veridical ones—creates confidence where none is warranted.
 
@@ -153,3 +155,16 @@ None of these conditions has been met. Four centuries of philosophy, decades of 
 - Strawson, G. (1986). *Freedom and Belief*. Oxford University Press.
 - Haynes, J.-D., et al. (2007). "Reading hidden intentions in the human brain." *Current Biology*, 17(4), 323-328.
 - Johansson, P., et al. (2005). "Failure to detect mismatches between intention and outcome in a simple decision task." *Science*, 310(5745), 116-119.
+
+<!-- AI REFINEMENT LOG - 2026-02-02
+Changes made:
+- Added explicit caveat at start of "Phenomenology of Volitional Opacity" section acknowledging that phenomenological reports may be constructed rather than revelatory
+- Revised "sense of authorship" paragraph to note that rich phenomenology can occur even when actions have other causes
+- Added epistemological humility to "gap at initiation" paragraph about whether elusiveness reflects genuine absence or introspective failure
+- Revised "effort phenomenon" to acknowledge even effort phenomenology may be retrospectively constructed
+
+Based on pessimistic review identifying tension with introspective-opacity.md.
+Key improvement: Resolved inconsistency where volitional-opacity treated introspective reports as revelatory while introspective-opacity argues they systematically misreport.
+
+This log should be removed after human review.
+-->
