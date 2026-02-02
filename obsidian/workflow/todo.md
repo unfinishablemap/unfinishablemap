@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02T08:09:00+00:00
+ai_modified: 2026-02-02T10:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -47,18 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
-- **Generated**: 2026-02-02
-
-### P2: Write voids article on volitional opacity
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-volitional-opacity-2026-02-01.md. The gap between willing and its neural/cognitive implementation. We experience intention but cannot observe how decisions are generated. Connects to free-will.md, agent-causation.md, phenomenology-of-choice.md, Libet experiments.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
-### P3: Deep review contemplative-path.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on contemplative approaches to consciousness. Check phenomenological claims, ensure alignment with Map's framework, verify connections to witness-consciousness.md and meditation-and-consciousness-modes.md.
-- **Source**: staleness
 - **Generated**: 2026-02-02
 
 ### P3: Deep review process-and-consciousness.md for quality
@@ -278,6 +266,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write voids article on volitional opacity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-volitional-opacity-2026-02-01.md. The gap between willing and its neural/cognitive implementation. We experience intention but cannot observe how decisions are generated. Connects to free-will.md, agent-causation.md, phenomenology-of-choice.md, Libet experiments.
+- **Output**: Write voids article on volitional opacity
+
+### ✓ 2026-02-02: Write voids article on volitional opacity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-volitional-opacity-2026-02-01.md. The gap between willing and its neural/cognitive implementation. We experience intention but cannot observe how decisions are generated.
+- **Output**: [[volitional-opacity]]
 
 ### ✓ 2026-02-02: Write voids article on introspective opacity
 - **Type**: expand-topic
