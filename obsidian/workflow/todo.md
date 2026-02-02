@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for selection laws
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28 (evening). The Map distinguishes supervenience laws (physics→phenomenology) from selection laws (phenomenology→physics). The latter need dedicated treatment beyond scattered references. Builds on psychophysical-laws-framework.md, psychophysical-coupling-mechanisms.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
 ### P2: Create concept page for the consciousness-value connection
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (evening). How consciousness grounds value—deserves focused treatment integrating metaethics with phenomenology. Builds on meaning-of-life.md, phenomenal-value-realism.md, emotional-consciousness.md.
@@ -379,6 +373,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Create concept page for selection laws
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). The Map distinguishes supervenience laws (physics→phenomenology) from selection laws (phenomenology→physics). The latter need dedicated treatment beyond scattered references. Builds on psychophysical-laws-framework.md, psychophysical-coupling-mechanisms.md.
+- **Output**: Create concept page for selection laws
 
 ### ✓ 2026-02-02: Write apex article on Eastern philosophy integration
 - **Type**: expand-topic
