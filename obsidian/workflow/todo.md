@@ -49,6 +49,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
+### P2: Review mental-causation.md considering choking phenomenon insights
+- **Type**: cross-review
+- **Notes**: New article topics/choking-phenomenon-mental-causation.md (2026-02-02) provides empirical evidence for mental causation from sports psychology. The mental-causation.md concept page should be cross-reviewed for: (1) adding reference to choking phenomenon as empirical support, (2) strengthening the "consciousness does something" argument with this concrete example, (3) connecting Kim's exclusion argument discussion to the choking evidence.
+- **Source**: chain (from choking-phenomenon-mental-causation.md)
+- **Generated**: 2026-02-02
+
+### P2: Review consciousness-as-amplifier.md considering working memory article
+- **Type**: cross-review
+- **Notes**: New article topics/working-memory-as-consciousness-amplifier.md (2026-02-02) develops the working memory expansion mechanism in depth. The consciousness-as-amplifier.md concept page should be cross-reviewed for: (1) cross-links to the detailed working memory treatment, (2) ensuring capacity arguments are consistent, (3) avoiding redundancy between the two articles.
+- **Source**: chain (from working-memory-as-consciousness-amplifier.md)
+- **Generated**: 2026-02-02
+
+### P2: Integrate time-consciousness-growing-block.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Apex article has no inbound links. Add cross-references from related articles (temporal-consciousness.md, specious-present.md, temporal-structure-of-consciousness.md) or update apex index page to include navigation to this synthesis piece.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Integrate cognitive-closure.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles (mysterianism.md, hard-problem-of-consciousness.md, consciousness.md) or update concept index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Condense functionalism.md (4250 words, 106% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for arguments/. Covers the functionalist position and its problems. Preserve core functionalist claims and objections (multiple realizability, china brain, substrate-independence). See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
 ### P3: Write article on emergence and strong emergence
 - **Type**: expand-topic
 - **Status**: pending
