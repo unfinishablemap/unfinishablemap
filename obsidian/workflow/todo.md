@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense materialism.md (3788 words, 108% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the materialist position and objections. Preserve core materialist claims and primary objections (hard problem, knowledge argument, explanatory gap). See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
 ### P2: Address quantum mechanism timing gap in downward-causation.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-02 morning) identified a high-severity issue: the article claims the Map provides a mechanism for downward causation (quantum Zeno effect), but doesn't resolve the timing gap between femtosecond decoherence and millisecond attention. The "bandwidth response" (consciousness operates at policy level) undermines the quantum mechanism rather than supporting it. Either specify how attention translates to femtosecond-scale observations, or acknowledge more directly that this is an unsolved gap.
@@ -217,6 +211,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense materialism.md (3788 words, 108% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the materialist position and objections. Preserve core materialist claims and primary objections (hard problem, knowledge argument, explanatory gap). See /condense skill.
+- **Output**: obsidian/concepts/materialism.md
 
 ### ✓ 2026-02-02: Integrate living-with-the-map.md into site navigation
 - **Type**: integrate-orphan
