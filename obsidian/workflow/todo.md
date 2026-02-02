@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02T22:27:00+00:00
+ai_modified: 2026-02-02T23:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -47,18 +47,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
-- **Generated**: 2026-02-02
-
-### P2: Write article on retrocausal neural firing and presentiment
-- **Type**: expand-topic
-- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Explores whether quantum retrocausality could underlie presentiment phenomena—neural responses preceding stimuli. Controversial but relevant to the Map's Minimal Quantum Interaction tenet and time-symmetric physics discussions. Connects to time-symmetric-physics.md, quantum-consciousness.md, neural-correlates-of-consciousness.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
-### P2: Integrate time-symmetric-physics.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concept article (deep-reviewed 2026-02-02) has no inbound links. Covers retrocausality and time-symmetric QM interpretations—directly relevant to Minimal Quantum Interaction tenet. Add cross-references from quantum-consciousness.md, quantum-interpretations.md, stapp-quantum-mind.md, measurement-problem.md.
-- **Source**: orphan_integration
 - **Generated**: 2026-02-02
 
 ### P2: Integrate leibnizs-mill-argument.md into site navigation
@@ -426,6 +414,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write article on retrocausal neural firing and presentiment
+- **Type**: expand-topic
+- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Explores whether quantum retrocausality could underlie presentiment phenomena—neural responses preceding stimuli. Controversial but relevant to the Map's Minimal Quantum Interaction tenet and time-symmetric physics discussions. Connects to time-symmetric-physics.md, quantum-consciousness.md, neural-correlates-of-consciousness.md.
+- **Output**: retrocausal neural firing and presentiment
 
 ### ✓ 2026-02-02: Write voids article on the dreamless sleep void
 - **Type**: expand-topic

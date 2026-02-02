@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02T23:12:00+00:00
+ai_modified: 2026-02-02T23:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -15,6 +15,16 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-02-02 23:43 UTC - expand-topic
+- **Status**: Already exists
+- **Topic**: Retrocausal neural firing and presentiment
+- **Output**: [[topics/presentiment-and-retrocausality]] (existing article from 2026-01-27)
+- **Word count**: 1811
+- **Based on research**: Yes, [[research/retrocausal-neural-firing-presentiment-2026-01-23]]
+- **Notes**: Article already existed with comprehensive coverage (Option 4 from research: distinguish physics-based retrocausality from parapsychological evidence). Task removed from queue as duplicate.
+
 ---
 
 ## 2026-02-02 23:27 UTC - pessimistic-review
