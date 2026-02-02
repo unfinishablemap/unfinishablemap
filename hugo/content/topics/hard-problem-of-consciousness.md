@@ -203,9 +203,9 @@ See [materialism](/arguments/materialism/) for detailed treatment of each positi
 
 ### Substrate Independence Fails
 
-If the explanatory gap is real, [substrate independence](/concepts/substrate-independence-critique/) is false. Functional organization supervenes on physical arrangements—if physical facts don't explain phenomenal facts, neither does functional organization.
+If the explanatory gap is real, [substrate independence](/archive/concepts/substrate-independence-critique/) is false. Functional organization supervenes on physical arrangements—if physical facts don't explain phenomenal facts, neither does functional organization.
 
-Block's China brain illustrates: the entire population implementing a brain's functional organization exactly. Is China conscious? The intuition that it isn't points to the same gap that makes the hard problem hard. If implementing causal structure doesn't suffice for the China brain, why should it suffice for silicon? See [substrate-independence-critique](/concepts/substrate-independence-critique/) for the full argument.
+Block's China brain illustrates: the entire population implementing a brain's functional organization exactly. Is China conscious? The intuition that it isn't points to the same gap that makes the hard problem hard. If implementing causal structure doesn't suffice for the China brain, why should it suffice for silicon? See [substrate-independence-critique](/archive/concepts/substrate-independence-critique/) for the full argument.
 
 ### Epiphenomenalism
 
@@ -274,7 +274,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [dualism](/concepts/dualism/) — Foundational overview: what dualism claims, main varieties, and converging arguments
 - [explanatory-gap](/concepts/explanatory-gap/) — Levine's formulation and physicalist responses
 - [materialism](/arguments/materialism/) — Why physicalist explanations fail
-- [substrate-independence-critique](/concepts/substrate-independence-critique/) — Why the hard problem entails substrate skepticism
+- [substrate-independence-critique](/archive/concepts/substrate-independence-critique/) — Why the hard problem entails substrate skepticism
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [mysterianism](/concepts/mysterianism/) — McGinn's cognitive closure thesis
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes only structure, leaving intrinsic nature unknowable

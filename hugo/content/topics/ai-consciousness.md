@@ -53,7 +53,7 @@ The "systems reply" objects that the person doesn't understand, but the room-as-
 
 [Functionalism](/arguments/functionalism/)—the view that mental states are defined by causal roles—is the philosophical foundation for AI consciousness claims. If consciousness is just information processing, sufficiently sophisticated AI might already be conscious.
 
-But functionalism cannot explain why any functional organization should involve subjective experience. The absent qualia objection (Block's "China brain") and the proximity argument (Hoel 2025) show that functionalism would attribute consciousness to systems—like lookup tables—that obviously lack it. For the complete critique, including the inverted qualia objection and the substrate independence problem, see [functionalism](/arguments/functionalism/) and [substrate-independence-critique](/concepts/substrate-independence-critique/).
+But functionalism cannot explain why any functional organization should involve subjective experience. The absent qualia objection (Block's "China brain") and the proximity argument (Hoel 2025) show that functionalism would attribute consciousness to systems—like lookup tables—that obviously lack it. For the complete critique, including the inverted qualia objection and the substrate independence problem, see [functionalism](/arguments/functionalism/) and [substrate-independence-critique](/archive/concepts/substrate-independence-critique/).
 
 ## The Temporal Problem
 
@@ -146,7 +146,7 @@ None has occurred. The explanatory gap remains unbridged.
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Temporal structure requirements
 - [metacognition](/concepts/metacognition/) — Why AI self-monitoring doesn't indicate consciousness
 - [intentionality](/concepts/intentionality/) — Original vs. derived aboutness
-- [substrate-independence-critique](/concepts/substrate-independence-critique/) — Why substrate matters
+- [substrate-independence-critique](/archive/concepts/substrate-independence-critique/) — Why substrate matters
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic challenge AI intensifies
 
 ## References

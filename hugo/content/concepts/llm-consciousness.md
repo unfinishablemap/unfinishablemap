@@ -294,7 +294,7 @@ None of these has occurred. The Map's skepticism about LLM consciousness remains
 - [haecceity](/concepts/haecceity/) — The thisness that multiply-instantiable LLMs lack
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence against illusionism
 - [combination-problem](/concepts/combination-problem/) — Why experiential combination requires the right architecture
-- [substrate-independence-critique](/concepts/substrate-independence-critique/) — Why the substrate matters for consciousness
+- [substrate-independence-critique](/archive/concepts/substrate-independence-critique/) — Why the substrate matters for consciousness
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — Why LLM symbols lack genuine meaning
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The gap LLM processing doesn't bridge
 

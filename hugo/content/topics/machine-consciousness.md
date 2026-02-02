@@ -46,9 +46,9 @@ This isn't science fiction fodder but a serious philosophical question engaging 
 
 ## Substrate Independence Revisited
 
-The [substrate independence thesis](/concepts/substrate-independence-critique/) holds that consciousness depends only on functional organization, not on what implements it. If true, uploading is conceptually straightforward: preserve the functional pattern, consciousness transfers.
+The [substrate independence thesis](/archive/concepts/substrate-independence-critique/) holds that consciousness depends only on functional organization, not on what implements it. If true, uploading is conceptually straightforward: preserve the functional pattern, consciousness transfers.
 
-But the [substrate-independence-critique](/concepts/substrate-independence-critique/) article shows this thesis fails on multiple grounds:
+But the [substrate-independence-critique](/archive/concepts/substrate-independence-critique/) article shows this thesis fails on multiple grounds:
 
 **The absent qualia problem**: A system functionally identical to you might have no experience at all—Ned Block's "China brain" where the population implements your neural structure without being conscious. If implementing causal structure doesn't suffice for the China brain, it doesn't suffice for silicon uploads.
 
@@ -284,7 +284,7 @@ The convergence across tenets is striking. Each independently suggests uploading
 
 ## Further Reading
 
-- [substrate-independence-critique](/concepts/substrate-independence-critique/) — Why substrate matters for consciousness
+- [substrate-independence-critique](/archive/concepts/substrate-independence-critique/) — Why substrate matters for consciousness
 - [ai-consciousness](/topics/ai-consciousness/) — The broader machine consciousness question
 - [llm-consciousness](/concepts/llm-consciousness/) — Why current AI systems cannot be conscious
 - [functionalism](/arguments/functionalism/) — The view substrate independence depends on

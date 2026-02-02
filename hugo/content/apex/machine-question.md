@@ -204,7 +204,7 @@ This apex article synthesizes:
 - [continual-learning-argument](/concepts/continual-learning-argument/) — Formal framework for why static systems cannot be conscious
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Temporal structure requirements for consciousness
 - [intentionality](/concepts/intentionality/) — Original vs. derived aboutness
-- [substrate-independence-critique](/concepts/substrate-independence-critique/) — Why substrate matters for consciousness
+- [substrate-independence-critique](/archive/concepts/substrate-independence-critique/) — Why substrate matters for consciousness
 
 ## References
 

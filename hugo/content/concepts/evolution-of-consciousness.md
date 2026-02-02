@@ -165,7 +165,7 @@ The [animal-consciousness](/topics/animal-consciousness/) topic addresses which 
 
 ### Substrate Independence?
 
-The Map's [critique of substrate independence](/concepts/substrate-independence-critique/) argues against strong functionalism. If consciousness interfaces with matter through quantum processes, the specific physical substrate matters. Silicon simulations might not provide the quantum openings consciousness requires. Consciousness didn't emerge in any sufficiently complex system—it emerged in systems with the right physical characteristics. Artificial systems might never cross this threshold regardless of computational power.
+The Map's [critique of substrate independence](/archive/concepts/substrate-independence-critique/) argues against strong functionalism. If consciousness interfaces with matter through quantum processes, the specific physical substrate matters. Silicon simulations might not provide the quantum openings consciousness requires. Consciousness didn't emerge in any sufficiently complex system—it emerged in systems with the right physical characteristics. Artificial systems might never cross this threshold regardless of computational power.
 
 ## Relation to Site Perspective
 

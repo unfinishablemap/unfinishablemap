@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-01 21:10:00+00:00
+ai_modified: 2026-02-02 01:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -38,7 +38,7 @@ description: How consciousness requires time, time may require consciousness, an
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-02 01:50:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -78,7 +78,7 @@ Two major philosophical positions address this puzzle:
 
 These aren't separate mental acts but an inseparable unity. Each moment carries the just-past within it while already reaching toward the next. The note you're hearing now carries the just-passed notes in retention while already anticipating the next. This structure makes meaning possible: you can't understand a sentence if each word evaporates before the next arrives.
 
-The Map's framework suggests a synthesis: experience is genuinely extended (extensionalism), but the extension involves [quantum collapse](/concepts/collapse-and-time/). The duration-block is constituted by a series of collapses, each with retrocausal constraints. This explains both the extended phenomenology and the retention-like structure—the past echoes in the present because retrocausal boundary conditions link them.
+The Map's framework suggests a synthesis: experience is genuinely extended (extensionalism), but the extension involves [quantum collapse](/concepts/collapse-and-time/). The duration-block is constituted by a series of collapses, each with retrocausal constraints. This explains both the extended phenomenology and the retention-like structure—the past echoes in the present because retrocausal boundary conditions link them. This proposal is speculative—the timescales of neural decoherence (femtoseconds) differ vastly from phenomenal duration (hundreds of milliseconds)—but it offers a framework where temporal phenomenology has metaphysical, not merely psychological, significance.
 
 ## Bergson's Durée
 
@@ -102,9 +102,9 @@ How do functional moments combine into extended experience? The theories don't s
 
 The most sophisticated materialist response invokes predictive processing: hierarchical neural systems generate predictions across multiple timescales, and "experienced duration" emerges from how prediction errors propagate through these hierarchies. On this view, the specious present is neither memory nor immediate sensation but the temporal depth of predictive integration.
 
-This account explains why experienced duration varies with attention and metabolic state, why time seems to speed up during flow states, and why novel experiences feel longer (more prediction errors requiring deeper processing). The account doesn't require anything beyond neural computation.
+This account has genuine explanatory power. It explains why experienced duration varies with attention and metabolic state, why time seems to speed up during flow states, and why novel experiences feel longer (more prediction errors requiring deeper processing). The functional profile of temporal experience—its variations, its dependencies, its neural correlates—may be fully capturable in predictive processing terms.
 
-The phenomenological rejoinder: even sophisticated predictive processing explains *when* temporal binding occurs and *what content* gets integrated, but not *what it's like* to experience that integration as flow. The [explanatory gap](/concepts/explanatory-gap/) reappears at the phenomenal level. A system could implement hierarchical prediction across timescales without there being anything it's like to be that system—without the qualitative character of duration that Bergson called *durée*.
+The phenomenological rejoinder grants this functional success but presses further: even sophisticated predictive processing explains *when* temporal binding occurs and *what content* gets integrated, but not *what it's like* to experience that integration as flow. The [explanatory gap](/concepts/explanatory-gap/) reappears at the phenomenal level. A functionalist might respond that there is no further "what it's like" beyond the functional profile—that asking what it's like *in addition to* the functional description rests on a confused picture of phenomenology. The Map's framework, following Chalmers, takes the further question seriously: the qualitative character of duration that Bergson called *durée* isn't captured by any functional account, however sophisticated.
 
 ## Temporal Binding and the Brain
 
@@ -256,7 +256,7 @@ The temporal structure of consciousness connects to all five [tenets](/tenets/):
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Consciousness selects collapse outcomes, affecting physical states. If collapse creates temporal direction, "bidirectional" includes temporal direction—selection propagates into both past and future through retrocausal constraint satisfaction. Temporal experience provides the substrate for agency: choice requires retention of options considered and protention toward outcomes anticipated. The [phenomenology of deliberation](/concepts/phenomenology-of-choice/)—holding possibilities open, then narrowing to decision—presupposes temporal structure.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The framework requires real collapse. Many-worlds denies collapse; all branches exist. Many-worlds theorists argue that apparent irreversibility emerges through decoherence within each branch—but this treats temporal asymmetry as perspectival rather than fundamental. The Map's framework takes the felt flow of time seriously as pointing to something real: genuine possibilities narrowing to actualities. The experience of succession—possibilities narrowing to actualities—assumes real collapse. In many-worlds, all possibilities are realised; we merely discover which branch we're on. But temporal experience doesn't feel like discovery; it feels like creation.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The framework requires real collapse. Many-worlds theorists argue that apparent irreversibility emerges through decoherence within each branch—objective within branches but perspectival in that all branches exist equally. The Map takes the felt flow of time as evidence for something real: genuine possibilities narrowing to actualities. In many-worlds, all possibilities are realised; we merely discover which branch we're on. Temporal experience doesn't feel like discovery; it feels like creation.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The metaphysics is complex. But temporal experience is complex, and time's arrow remains among physics' deepest puzzles. The richness of temporal phenomenology—the specious present, durée, retention-protention, the missing link problem—resists simplification. Illusionists who dismiss temporal flow as mere representation achieve parsimony by denying what requires explanation rather than explaining it.
 
@@ -287,7 +287,6 @@ The temporal structure of consciousness connects to all five [tenets](/tenets/):
 - Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
 - James, W. (1890). *The Principles of Psychology*. Henry Holt.
 - Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
-- Lieberman, M.D. et al. (2008). Neural correlates of cognitive load effects in syllogistic reasoning. *Brain Research*.
 - Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56-61.
 - Stanford Encyclopedia of Philosophy. Temporal Consciousness. https://plato.stanford.edu/entries/consciousness-temporal/
 - Stanford Encyclopedia of Philosophy. Time. https://plato.stanford.edu/entries/time/

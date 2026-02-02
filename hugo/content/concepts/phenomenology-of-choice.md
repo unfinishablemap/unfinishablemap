@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-31 03:43:00+00:00
+ai_modified: 2026-02-02 02:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -82,13 +82,7 @@ The sense of agency isn't infallible—patients with frontal damage may report a
 
 ## Choosing vs Observing
 
-The phenomenology of choice differs fundamentally from the phenomenology of observation. This difference matters for evaluating whether consciousness genuinely selects or merely watches.
-
-### Active vs Passive Phenomenology
-
-When observing a coin flip, you experience the outcome as *happening to* you. There is no sense of effort, no feeling that you determined which face landed up. The outcome arrives; you receive it.
-
-When choosing between two options, the experience is different. You participate in determining the outcome. The selection feels like something you *do*, not something that happens.
+The phenomenology of choice differs fundamentally from observation. When observing a coin flip, the outcome *happens to* you—no effort, no authorship. When choosing, you participate in determining the outcome. The selection feels like something you *do*.
 
 | Feature | Observation | Choice |
 |---------|-------------|--------|
@@ -97,168 +91,79 @@ When choosing between two options, the experience is different. You participate 
 | Counterfactual status | Fixed at arrival | Open until selection |
 | Authorship | Absent | Present |
 
-This phenomenological distinction maps onto the neural distinction between willed and automatic processing. [Willed attention](/concepts/voluntary-attention/) shows different neural signatures (frontal theta, bidirectional frontoparietal coherence) than automatic attention capture. The phenomenology tracks real differences in brain function.
+This maps onto the neural distinction between willed and automatic processing. [Willed attention](/concepts/voluntary-attention/) shows different signatures (frontal theta, bidirectional frontoparietal coherence) than automatic attention capture.
 
-### The Directing-vs-Being-Pulled Distinction
-
-The contrast is vivid in attention. When a loud noise captures your attention, you experience being *pulled*—the stimulus grabbed you. When you deliberately focus on a difficult text, you experience *directing*—you aimed attention at the target.
-
-This distinction has immediate first-person clarity. No philosophical argument is needed to convince you that these experiences differ. The question is whether the difference reflects genuine causal contribution or merely different *representations* of equally determined processes.
-
-The [illusionist](/concepts/illusionism/) position holds that the "directing" phenomenology is representational—the brain generates the sense of agency without consciousness actually contributing. But this faces the evolutionary puzzle: why would accurate phenomenology of effort correlate with task difficulty if phenomenology has no functional role? Hard tasks feel hard; easy tasks feel easy. This correlation suggests phenomenology tracks something real about cognitive engagement.
+The contrast is vivid in attention: being *pulled* by a loud noise versus *directing* focus on difficult text. The [illusionist](/concepts/illusionism/) holds this phenomenology is representational—the brain generates agency-sense without consciousness contributing. But why would accurate phenomenology of effort correlate with task difficulty if phenomenology has no functional role? Hard tasks feel hard; easy tasks feel easy. This correlation suggests phenomenology tracks real cognitive engagement.
 
 ## Effort as Evidence
 
 The [phenomenology of effort](/concepts/mental-effort/) provides the strongest evidence for genuine conscious contribution. If choosing were merely receiving randomly determined outcomes, there should be no phenomenology of effort—random processes don't feel like work.
 
-### The Cost of Choosing
-
-Deliberation between difficult alternatives feels costly. This cost has several dimensions:
-
-**Attentional cost**: Holding multiple options in awareness requires continuous engagement. Attention wanders toward the easier path of not-deciding; sustained deliberation requires pulling it back.
-
-**Emotional cost**: Difficult choices often involve felt tension—the anxiety of uncertainty, the pull of competing values, the weight of consequences.
-
-**Temporal cost**: The time spent deliberating is experienced as invested, not merely elapsed. There is a sense that the deliberation itself contributes to the outcome.
-
-If choosing were passive reception of determined outcomes, these costs would be inexplicable. Why would evolution produce expensive phenomenology for processes that would occur anyway?
+Deliberation between difficult alternatives feels costly: attentional cost (holding options requires continuous engagement), emotional cost (tension, competing values), and temporal cost (time feels invested, not merely elapsed). If choosing were passive reception, these costs would be inexplicable.
 
 ### Quantum Zeno and Felt Work
 
-Henry Stapp's [quantum Zeno mechanism](/concepts/mental-effort/) explains why effort should feel effortful. Rapid, repeated acts of attention "hold" desired neural patterns stable, preventing them from decohering into alternatives. Each observation event requires engagement from consciousness. Sustained attention requires continuous engagement—which is exactly what effort phenomenology describes.
+Henry Stapp's [quantum Zeno mechanism](/concepts/mental-effort/) explains why effort should feel effortful. Rapid, repeated acts of attention "hold" desired neural patterns stable, preventing them from decohering into alternatives. Sustained attention requires continuous engagement—which is exactly what effort phenomenology describes.
 
-The framework predicts:
-- **Sustained focus feels effortful** because it requires continuous mental events
-- **Effort can be increased** by intensifying attention
-- **Fatigue is real** because maintaining high observation rates depletes resources
-- **Distraction is easier** because it requires fewer probing events
-
-James observed that "sustained voluntary attention is a repetition of successive efforts." Stapp's mechanism explains why: each effort is an observation event, and sustained attention requires repeated events. The phenomenology matches the proposed mechanism.
+The framework predicts that sustained focus feels effortful (continuous mental events), effort can be increased (intensifying attention), fatigue is real (depleting resources), and distraction is easier (fewer probing events). James observed that "sustained voluntary attention is a repetition of successive efforts"—the phenomenology matches the proposed mechanism.
 
 ### Motor Selection as Paradigm Case
 
-[Motor selection](/concepts/motor-selection/) provides the clearest instance of effort phenomenology matching mechanism. When you prepare to move, you hold an intention—what Stapp calls a "template for action"—stable until execution. This holding feels like work because it *is* work: repeated attention events sustaining one motor pattern against competitors.
+[Motor selection](/concepts/motor-selection/) provides the clearest instance of effort phenomenology matching mechanism. When you prepare to move, you hold an intention stable until execution. This holding feels like work because it *is* work: repeated attention events sustaining one motor pattern against competitors.
 
-The neural evidence supports this:
+The neural evidence supports this. Willed movements take ~300ms to initiate versus ~100ms for instructed movements—time for consciousness to engage and stabilize the pattern. Willed movements engage frontal theta and bidirectional frontoparietal coherence that instructed movements lack. The basal ganglia's brake-release architecture provides a candidate site: motor programs compete under tonic inhibition, selection works by disinhibiting the chosen program.
 
-**The 300ms decision window**: Willed movements take approximately 300ms to initiate, versus ~100ms for instructed movements. This extended timeline reflects the time required for consciousness to engage through intention and for repeated observation to stabilize the selected pattern. The phenomenology of "gathering oneself" to act corresponds to this selection process.
+The Desmurget dissociation is particularly revealing: stimulating inferior parietal cortex produces conscious intention *without* movement; stimulating premotor cortex produces movement *without* intention phenomenology. The experience of effort tracks conscious contribution at the selection interface, not execution downstream.
 
-**Frontal theta and bidirectional coherence**: Willed movements engage frontal theta oscillations and bidirectional frontoparietal coherence that instructed movements lack. The same signatures appear in willed versus automatic attention—suggesting a unified mechanism: consciousness selecting among neural options through sustained engagement.
-
-**The basal ganglia interface**: The basal ganglia's brake-release architecture provides a candidate site where phenomenal effort operates. Motor programs compete under tonic inhibition; selection works by disinhibiting the chosen program while maintaining suppression on alternatives. The felt "settling" when choice resolves—the moment deliberation collapses to action—may correspond to this selective disinhibition.
-
-**The Desmurget dissociation**: Neurosurgical stimulation separates intention from execution. Stimulating inferior parietal cortex produces conscious intention to move *without* movement; stimulating premotor cortex produces movement *without* intention phenomenology. This double dissociation shows that the phenomenology of choosing—the felt sense that *I* am selecting—is not identical to the motor machinery executing the choice. The experience of effort tracks conscious contribution at the selection interface, not the execution downstream.
-
-The motor domain thus provides third-person validation for first-person phenomenology. When choice feels effortful, frontal theta increases. When choice feels automatic, it doesn't. The correlation between felt effort and neural signature suggests the phenomenology is tracking real engagement—the repeated attentional events by which consciousness holds one possibility stable while alternatives dissipate.
+When choice feels effortful, frontal theta increases. When choice feels automatic, it doesn't. The correlation suggests phenomenology tracks real engagement.
 
 ## Deliberation and Duration
 
-Henri Bergson's concept of [durée](/concepts/duration/) illuminates the phenomenology of deliberation. Choosing unfolds in lived time—qualitative duration where past and present interpenetrate—not the spatialized clock-time of physics. This connects to broader questions about [temporal-consciousness](/concepts/temporal-consciousness/)—how the structure of time-experience shapes what consciousness can do.
+Henri Bergson's concept of [durée](/concepts/duration/) illuminates deliberation. Choosing unfolds in lived time—qualitative duration where past and present interpenetrate—not spatialized clock-time. See [temporal-consciousness](/concepts/temporal-consciousness/) for how time-experience shapes what consciousness can do.
 
-### Why Choices Resist Determination
+Bergson argued that determinism treats mental states as discrete units causing each other mechanically. But in lived duration, mental states interpenetrate. Options don't sit statically waiting to be picked; they evolve through deliberation. What "option A" means changes as you consider option B. A free act emerges from the whole self—the full depth of one's lived duration—not from a chain of discrete events.
 
-Bergson argued that determinism depends on treating mental states as discrete, separable units that cause each other mechanically. But in lived duration, mental states interpenetrate. The "state" of deliberation at t₂ contains the whole deliberative process from t₁, transformed through the ongoing synthesis of experience.
-
-This matters for understanding choice. The options don't sit statically waiting to be picked like items on a shelf. They evolve through deliberation. What "option A" means changes as you consider option B; returning to A, you encounter it differently. The deliberation transforms what's being deliberated about.
-
-A free act, for Bergson, emerges from the whole self—the full depth of one's lived duration—not from a chain of discrete mental events. This isn't arbitrary choice between pre-defined options but creative expression of who you are becoming.
-
-### The Phenomenology of Options Changing
-
-This creative dimension shows up phenomenologically. Options that initially seemed clear become ambiguous through consideration. Options that seemed equivalent reveal unexpected differences. Sometimes a third option emerges that wasn't visible at the start.
-
-This is the [creativity](/concepts/consciousness-and-creativity/) aspect of choice: consciousness doesn't merely select from a fixed menu but actively constitutes the options through imaginative exploration. The phenomenology of options *developing* during deliberation supports the view that consciousness contributes more than passive selection.
+This creative dimension shows up phenomenologically. Options become ambiguous through consideration; seemingly equivalent options reveal differences; sometimes new options emerge. This is the [creativity](/concepts/consciousness-and-creativity/) aspect of choice: consciousness doesn't merely select from a fixed menu but actively constitutes the options through imaginative exploration.
 
 ## The Contemplative Perspective
 
-Meditation practice refines phenomenological discrimination, revealing aspects of choice that ordinary introspection misses.
+Meditation practice refines phenomenological discrimination, revealing aspects of choice ordinary introspection misses.
 
 ### Witnessing Choice Arise
 
-Advanced meditators describe watching decisions arise before identifying with them. There is a moment where an intention appears in awareness, followed by a distinct moment where the meditator "signs off" on it—makes it their own. These can be separated.
+Advanced meditators describe watching decisions arise before identifying with them—a moment where intention appears, followed by a distinct moment of "signing off." The *arising* of intentions may involve unconscious preparation; the *endorsement* involves conscious contribution.
 
-This separation is illuminating:
-- The *arising* of intentions may involve unconscious preparation
-- The *endorsement* of intentions involves conscious contribution
+Buddhist sources describe this precisely. The Abhidhamma distinguishes *cetanā* (intention/volition) from preceding mental factors. Theravāda manuals describe observing intention in the gap between stimulus and response. The Tibetan *dzogchen* tradition distinguishes recognising thoughts from being captured by them. Hindu sources offer parallels: Patañjali's *viveka-khyāti* (discriminative awareness) witnesses mental modifications without automatic identification; Advaita's *sākṣin* (witness-self) observes intentions arise without authoring them.
 
-What appears in ordinary experience as a single act of choosing may contain two distinguishable phases. The meditator sees the structure more clearly.
+### Effortless and Non-Choice
 
-Buddhist sources describe this with precision. The Abhidhamma tradition distinguishes *cetanā* (intention/volition) from the arising of mental factors that precede it. Theravāda meditation manuals describe observing intention arise in the gap between stimulus and response—what Nyanaponika Thera called "bare attention" revealing the construction of volition. The Tibetan *dzogchen* tradition similarly distinguishes recognising thoughts from being captured by them; the moment of recognition creates space for non-compulsive response.
+[Choiceless awareness](/concepts/witness-consciousness/) provides a contrast case: options arise and pass without selection. This proves consciousness can observe without choosing—the distinction is phenomenally accessible, not just conceptual.
 
-Hindu sources offer parallel accounts. Patañjali's *Yoga Sūtras* describe *viveka-khyāti*—discriminative awareness—as the capacity to witness the arising of mental modifications (*vṛtti*) without automatic identification. The *sākṣin* (witness-self) of Advaita Vedānta observes intentions arise without being their author, yet endorsement occurs through what Śaṅkara calls *adhyāsa*—the superimposition of agency onto what is witnessed.
+Curiously, not-choosing has its own phenomenology. Deliberately refraining from decision feels different from both choosing and indecision—active non-selection. The agent can: (1) select among options, (2) refrain from selecting, (3) choose whether to enter selecting mode. This three-level structure suggests agency exceeds simple selection.
 
-### Effortless Choice
+## Process Philosophy
 
-The phenomenology of effortless choice—[choiceless awareness](/concepts/witness-consciousness/)—provides a contrast case. In witness mode, options arise and pass without the meditator selecting among them. There is awareness without intervention.
+Whitehead's process philosophy illuminates why alternatives feel genuinely open. For Whitehead, "real potentials" are genuine features of reality, not merely epistemic uncertainties. Each "actual occasion" involves self-determination—receiving influences from the past while contributing novelty. Choice isn't mysterious intervention of mind in matter but the paradigm case of how reality operates.
 
-This proves something important: consciousness can observe without choosing. The distinction between observing and choosing isn't just conceptual—it's phenomenally accessible. You can be aware of options without selecting among them. When selection occurs, it's something *additional* to mere awareness.
-
-### The Phenomenology of Not-Choosing
-
-Curiously, not-choosing has its own phenomenology. Deliberately refraining from decision—letting options remain open—feels different from both choosing and from mere indecision. It's active non-selection: maintaining openness against the pull toward resolution.
-
-This extends the picture of agency. The agent can:
-1. Select among options
-2. Refrain from selecting
-3. Choose *whether* to enter selecting mode at all
-
-Each has distinctive phenomenology. This three-level structure—choosing, not-choosing, and meta-choosing—suggests agency is more than simple selection from alternatives.
-
-## Process Philosophy and the Structure of Decision
-
-Alfred North Whitehead's process philosophy offers conceptual resources for understanding the phenomenology of choice. For Whitehead, each "actual occasion" involves self-determination—the synthesis of causal inheritance into a novel unity.
-
-### Concrescence as Choosing
-
-Whitehead's term "concrescence" describes how actual occasions constitute themselves. They receive influences from the past (physical pole) and contribute novelty through self-determination (mental pole). The occasion decides what it becomes by how it synthesises its inputs.
-
-This maps onto the phenomenology of choice:
-- **Influences from the past**: The context, preferences, and circumstances that bear on the decision
-- **Self-determination**: The moment where the agent synthesises these influences into a determinate outcome
-- **Novelty**: The element that the agent contributes beyond what inheritance determined
-
-On this view, choice isn't mysterious intervention of mind in matter—it's the paradigm case of how reality operates. Every actual occasion involves experiential self-determination; human choice exemplifies this at a more complex level.
-
-### Why Alternatives Feel Open
-
-Process philosophy explains why alternatives feel genuinely open during deliberation. "Real potentials" are genuine features of reality, not merely epistemic uncertainties. Before the concrescence completes, multiple outcomes are genuinely possible.
-
-The felt openness of alternatives thus tracks ontological openness. The phenomenology isn't an illusion layered over a determined process—it accurately represents the structure of reality at that moment. This is what the [No Many Worlds](/tenets/#no-many-worlds) tenet protects: the sense that alternatives are real but only one becomes actual.
+The felt openness of alternatives thus tracks ontological openness. The phenomenology isn't illusion layered over a determined process—it accurately represents reality's structure at that moment. This is what the [No Many Worlds](/tenets/#no-many-worlds) tenet protects: alternatives are real but only one becomes actual.
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) argue that the phenomenology of choice—effort, openness, authorship—is representational fiction. The brain generates *representations* of choosing without there being anything it's like to choose.
+[Illusionists](/concepts/illusionism/) argue that effort, openness, and authorship are representational fiction—the brain generates *representations* of choosing without there being anything it's like to choose.
 
 ### The Regress Problem
 
-If the phenomenology of effort is illusory, what is the *seeming* of effort? The seeming must itself be explained. Either:
-- The seeming has phenomenal character (relocating rather than eliminating the problem)
-- The seeming has no phenomenal character (mysterious why it's so compelling)
+If phenomenology is illusory, what is the *seeming* of effort? The seeming must itself be explained. Either it has phenomenal character (relocating the problem) or it doesn't (mysterious why it's compelling). Raymond Tallis: "misrepresentation presupposes presentation."
 
-The illusionist typically opts for the second: seemings are functional states without phenomenal properties. But this faces Raymond Tallis's point: "misrepresentation presupposes presentation." To seem one way rather than another, there must be something it's like to seem.
+Keith Frankish responds that seemings are *quasi-phenomenal*—functional properties explaining why we judge choosing differs from observing. But quasi-phenomenal properties face the same regress. A philosophical zombie would have identical quasi-phenomenal representations, yet we judge our experience of choosing differs from passive reception in ways no functional duplicate captures.
 
-### Frankish's Quasi-Phenomenal Response
-
-Keith Frankish responds that "seemings" are *quasi-phenomenal*—they have functional properties that explain why we judge choosing to feel different from observing without requiring genuine phenomenal consciousness. The brain represents effort, openness, and authorship through functional states that ground our introspective reports.
-
-But quasi-phenomenal properties face the same regress. What grounds the *representation* of effort? Either representing effort itself feels like something (relocating phenomenality to the representational system) or it doesn't (leaving the compellingness of the representation unexplained). The zombie reformulation makes this vivid: a philosophical zombie—functionally identical but phenomenally empty—would have the same quasi-phenomenal representations of effort. Yet we judge that *our* experience of choosing differs from passive reception in a way no functional duplicate could capture.
-
-The [luck objection](/concepts/luck-objection/) reveals another problem for the illusionist: if choice is mere reception of randomly determined outcomes plus representational gloss, why does choosing feel like an achievement while lucky outcomes don't? The phenomenology of effort—the sense of genuine contribution—distinguishes selection from luck in a way mere representation cannot explain.
+The [luck objection](/concepts/luck-objection/) compounds this: if choice is mere reception of randomly determined outcomes plus representational gloss, why does choosing feel like achievement while lucky outcomes don't?
 
 ### Why Phenomenology Tracks Reality
 
-The correlation between felt difficulty and actual cognitive load is striking. Hard tasks feel hard; easy tasks feel easy. If phenomenology were causally disconnected from cognitive engagement, this correlation would be coincidental.
+The correlation between felt difficulty and actual cognitive load is striking. Hard tasks feel hard; easy tasks feel easy. If phenomenology were causally disconnected, this would be coincidental. More parsimoniously: phenomenology tracks cognitive engagement because phenomenology *is* that engagement from the inside.
 
-The more parsimonious explanation: phenomenology tracks something real about cognitive engagement because phenomenology *is* that engagement from the inside. The feeling of effort corresponds to the actual cost of consciousness participating in selection.
-
-### Contemplative Evidence
-
-Contemplative traditions provide evidence against illusionism about effort. If effort were illusory, extended practice should dissolve the illusion. Instead:
-- Meditators report *clearer* discrimination between effortful and effortless states
-- The transition from effort to effortlessness is itself phenomenally distinct
-- Trying to achieve effortlessness produces effort's characteristic phenomenology
-
-The illusion doesn't dissolve on inspection; it deepens into clearer phenomenology. This suggests we're tracking something real.
+Contemplative traditions provide further evidence. If effort were illusory, extended practice should dissolve the illusion. Instead, meditators report *clearer* discrimination between effortful and effortless states. The illusion doesn't dissolve on inspection; it deepens into clearer phenomenology.
 
 ## What Would Challenge This View?
 
@@ -276,19 +181,17 @@ The phenomenology-of-choice framework would face serious difficulty if:
 
 ## Relation to Site Perspective
 
-The phenomenology of choice aligns directly with what the Map's tenets predict:
+The phenomenology of choice aligns with what the Map's tenets predict:
 
-**[Dualism](/tenets/#dualism)**: If the qualitative character of choosing—effort, openness, authorship—is real, then consciousness contributes something beyond physical description. The phenomenology of decision isn't captured by any third-person neural account; there's something it's like to choose that neural firing patterns don't explain. This explanatory gap in the phenomenology of choice parallels the broader [hard problem](/topics/hard-problem-of-consciousness/).
+**[Dualism](/tenets/#dualism)**: The qualitative character of choosing—effort, openness, authorship—isn't captured by third-person neural accounts. There's something it's like to choose that firing patterns don't explain, paralleling the broader [hard problem](/topics/hard-problem-of-consciousness/).
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The phenomenology of effort suggests consciousness *does* something. If choosing were passive observation, effort would be inexplicable—random processes don't feel like work. The felt cost of deliberation corresponds to real causal engagement. [Mental effort research](/concepts/mental-effort/) confirms this: the willed/instructed distinction, neuroplasticity from directed attention, and the correlation between felt and measured cognitive load all support that consciousness causally contributes.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Effort phenomenology suggests consciousness *does* something. If choosing were passive, effort would be inexplicable—random processes don't feel like work. [Mental effort research](/concepts/mental-effort/) confirms: the willed/instructed distinction, neuroplasticity from directed attention, and the correlation between felt and measured cognitive load all support conscious causal contribution.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The phenomenology is consistent with selection at quantum indeterminacies. Choosing feels like biasing outcomes, not injecting energy. The [quantum Zeno mechanism](/concepts/mental-effort/) explains why sustained attention should feel effortful: rapid observation events require continuous engagement. The phenomenology matches what minimal interaction predicts.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Choosing feels like biasing outcomes, not injecting energy. The quantum Zeno mechanism explains why sustained attention feels effortful: rapid observation events require continuous engagement.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The phenomenology of choice presupposes singular actualisation. When you choose A, you experience A as *the* outcome—not as one branch among equals. The felt openness of alternatives before decision and their felt closure after matches collapse rather than branching.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Choice phenomenology presupposes singular actualisation. When you choose A, you experience A as *the* outcome—not one branch among equals. The felt openness before decision and closure after matches collapse rather than branching. The many-worlds response—phenomenology is real in each branch—relocates rather than dissolves the puzzle. The [indexical sense](/concepts/haecceity/) that *this* decision is happening to *you* requires an answer many-worlds cannot provide: why *this* branch?
 
-The many-worlds defender might respond that the phenomenology is real *in each branch*—you genuinely experience choosing A in one branch and choosing B in another. But this response relocates the puzzle rather than dissolving it. The pre-decision phenomenology of openness—both options felt as genuinely possible—would then represent not genuine metaphysical openness but mere epistemic uncertainty about which branch you'll find yourself in. The felt *weight* of deliberation, the sense that *this* decision matters, becomes mysterious if all outcomes are equally realised. More pressingly, the [indexical sense](/concepts/haecceity/) that *this* decision is happening to *you* requires an answer many-worlds cannot provide: why *this* branch? The question seems meaningful; many-worlds makes it unanswerable.
-
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Eliminating the phenomenology of choice would be simpler—call it representational and move on. But this parsimony purchases explanatory vacancy. Why does choosing feel different from observing? Why does effort correlate with difficulty? Why do contemplatives report refined rather than dissolved phenomenology of decision? A framework that takes the phenomenology seriously—even at the cost of ontological complexity—explains what elimination merely dismisses.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Eliminating choice phenomenology would be simpler—call it representational and move on. But this parsimony purchases explanatory vacancy. A framework that takes phenomenology seriously explains what elimination merely dismisses.
 
 ## Further Reading
 

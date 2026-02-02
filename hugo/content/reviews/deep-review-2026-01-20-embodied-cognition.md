@@ -73,7 +73,7 @@ Frontmatter concepts:
 Further Reading additions:
 - [brain-specialness](/archive/concepts/brain-specialness/)
 - [interface-locality](/archive/concepts/interface-locality/)
-- [substrate-independence-critique](/concepts/substrate-independence-critique/)
+- [substrate-independence-critique](/archive/concepts/substrate-independence-critique/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [voluntary-attention](/concepts/voluntary-attention/)
 - [motor-selection](/concepts/motor-selection/)
