@@ -363,6 +363,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-01
 
+### P3: Write article comparing quantum consciousness mechanisms
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02. Systematic comparative table of quantum consciousness mechanisms (Orch OR, Stapp, Fisher) on key dimensions: decoherence timescales, energy requirements, testability, biological plausibility, philosophical consequences. Recent evidence (Wiest et al. 2024, Atkins et al. 2025) challenges older calculations. Would strengthen scientific rigor of Minimal Quantum Interaction tenet. Builds on quantum-consciousness.md, stapp-quantum-mind.md, neural-quantum-coherence.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on contemplative verification of consciousness theories
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02. Develop detailed predictions about what meditation *should* reveal if various consciousness theories are true. If Stapp is right about quantum Zeno, what should meditators report about attention's effort structure? If consciousness is irreducible, what should happen to phenomenal access under sustained attention? Compare predictions to actual contemplative reports. Builds on contemplative-evidence-for-consciousness-theories.md, phenomenological-evidence-methodology.md, witness-consciousness.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
 ## Completed Tasks
 
 
