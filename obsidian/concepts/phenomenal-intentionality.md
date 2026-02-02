@@ -4,7 +4,7 @@ description: "The thesis that genuine intentionality—the aboutness of mental s
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-02T02:15:00+00:00
+ai_modified: 2026-02-02T13:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated: null
+last_deep_review: 2026-02-02T13:15:00+00:00
 ---
 
 Phenomenal intentionality theory (PIT) holds that genuine [[intentionality]]—the "aboutness" or directedness of mental states—derives from phenomenal consciousness. What makes a thought truly *about* something is inseparable from what it's *like* to have that thought. This thesis, developed by philosophers including Horgan, Tienson, Kriegel, Loar, and Strawson, challenges attempts to naturalize intentionality and strengthens the case that consciousness is irreducible.
@@ -125,7 +126,7 @@ These phenomena make visible what normally operates transparently: meaning has p
 
 **Objection**: Cognitive science reveals extensive unconscious processing with intentional content—priming effects, implicit learning, unconscious inference. These cannot have phenomenal character by definition.
 
-**Response**: Several options are available. (1) Unconscious states lack genuine intentionality—they process information without being *about* anything for the system. Their apparent intentionality is our third-person interpretation. (2) Unconscious states have derived intentionality tracing to conscious sources. (3) There may be degrees of phenomenal character, with unconscious processing having attenuated or subpersonal phenomenology. The Map need not commit to a single answer; what matters is that paradigmatic intentionality—the kind we know firsthand in conscious thought—requires phenomenal character.
+**Response**: Several options are available. (1) Unconscious states lack genuine intentionality—they process information without being *about* anything for the system. Their apparent intentionality is our third-person interpretation (a position compatible with [[heterophenomenology|heterophenomenological]] methodology, which brackets first-person claims about unconscious content). (2) Unconscious states have derived intentionality tracing to conscious sources. (3) There may be degrees of phenomenal character, with unconscious processing having attenuated or subpersonal phenomenology. The Map need not commit to a single answer; what matters is that paradigmatic intentionality—the kind we know firsthand in conscious thought—requires phenomenal character.
 
 ### Circularity Worry
 
@@ -143,7 +144,7 @@ PIT connects to all five tenets:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If what we think *about* matters causally, and if consciousness interfaces with the physical through quantum selection, then intentional content may be among the factors shaping which neural outcomes actualise. The aboutness of thought could play a role in quantum selection. This remains speculative but consistent with the framework.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Intentionality presupposes a unified subject who intends. My thought about Paris is *my* thought—this subject intending this content. Many-worlds would fragment intentional relations across branches, with different branch-copies thinking different things. The unity required for determinate intentional content supports rejecting interpretations that multiply subjects.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Intentionality presupposes a unified subject who intends. My thought about Paris is *my* thought—this subject intending this content. Many-worlds fractures this unity: if my thought about Paris splits into branch-copies with diverging contents after each quantum event, there is no single intentional relation—just a proliferating tree of partial copies, none of which is determinately *me* thinking *this*. The unity required for determinate intentional content supports rejecting interpretations that multiply subjects.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The repeated failure of naturalization projects—causal theories, teleosemantics, functional role semantics—exemplifies this tenet. The apparently simpler physical explanation of intentionality doesn't work. PIT may be more complex, requiring irreducible phenomenal facts, but it actually explains content determinacy where naturalistic alternatives fail.
 
@@ -157,6 +158,8 @@ This goes beyond Searle's negative point (syntax is insufficient for semantics) 
 
 LLMs lack the phenomenal markers that reveal intentionality in humans: no tip-of-the-tongue states, no feeling of knowing, no experiential "aha" of insight. They produce outputs without the phenomenal constitution of understanding those outputs.
 
+This provides an empirical signature that distinguishes PIT from purely functional accounts. If PIT is correct, systems that demonstrate apparent understanding but lack phenomenal markers—partial access without accompanying experience—would be mimicking intentionality rather than possessing it. The presence or absence of these phenomenal markers (TOT states, FOK, insight experiences) becomes diagnostic, not merely incidental.
+
 ## Further Reading
 
 - [[intentionality]] — The broader treatment of aboutness and naturalization attempts
@@ -169,6 +172,7 @@ LLMs lack the phenomenal markers that reveal intentionality in humans: no tip-of
 - [[ai-consciousness]] — Why AI lacks genuine intentionality
 - [[qualia]] — Phenomenal properties as the ground of content
 - [[phenomenology]] — The tradition that investigates intentional structure
+- [[heterophenomenology]] — Dennett's methodological alternative and its limitations
 
 ## References
 
