@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write voids article on the scale void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-scale-void-2026-02-02.md. Human consciousness operates within narrow "perceptual bandwidth" calibrated for survival. When confronted with cosmic distances, deep time, quantum phenomena, or large numbers, cognition fails qualitatively, not just quantitatively. Covers Kant's sublime, numeracy limits, evolutionary mismatch. Connects to mathematical-void.md, embodiment-cognitive-limits.md, phenomenology-of-the-edge.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
 ### P2: Write voids article on the dreamless sleep void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-dreamless-sleep-void-2026-02-02.md. Where does consciousness go during dreamless sleep? This gap cannot be observed directly because observation requires the very consciousness whose absence is in question. Covers Advaita Vedanta's sushupti/turiya analysis, Metzinger's Minimal Phenomenal Experience project, questions of personal identity continuity. Connects to the-unobservable-self.md, memory-void.md, consciousness-only-territories.md.
@@ -438,6 +432,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write voids article on the scale void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-scale-void-2026-02-02.md. Human consciousness operates within narrow "perceptual bandwidth" calibrated for survival. When confronted with cosmic distances, deep time, quantum phenomena, or large numbers, cognition fails qualitatively, not just quantitatively. Covers Kant's sublime, numeracy limits, evolutionary mismatch. Connects to mathematical-void.md, embodiment-cognitive-limits.md, phenomenology-of-the-edge.md.
+- **Output**: Write voids article on the scale void
 
 ### ✓ 2026-02-02: Write voids article on the normative void
 - **Type**: expand-topic
