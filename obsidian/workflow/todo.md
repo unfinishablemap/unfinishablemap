@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on consciousness and creativity
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review. Builds on free-will, agent-causation, voluntary-attention. Addresses gap in how consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination. Creativity as paradigm case of Bidirectional Interaction.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
-### P2: Write article on causal exclusion problem (dedicated treatment)
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review. Kim's exclusion argument deserves standalone treatment given centrality to mental causation debates. Currently scattered across delegatory-dualism, mental-causation, epiphenomenalism. Would systematically present overdetermination, delegation, and gap-filling responses.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
 ### P2: Create concept page for specious present
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Referenced in temporal-consciousness but deserves own page covering James, Husserl, and contemporary debates. Central to understanding temporal phenomenology.
@@ -277,6 +265,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write article on consciousness and creativity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Builds on free-will, agent-causation, voluntary-attention. Addresses gap in how consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination. Creativity as paradigm case of Bidirectional Interaction.
+- **Output**: consciousness and creativity
 
 ### ✓ 2026-02-02: Create concept page for observational closure
 - **Type**: expand-topic
