@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense functionalism.md (4318 words, 123% of threshold)
+- **Type**: condense
+- **Notes**: Article in arguments/ exceeds 3500-word hard threshold. Covers functionalism debate with objections and responses. Despite multiple previous condense attempts, still over threshold. Focus on: removing redundant examples, consolidating overlapping arguments, deferring detailed treatment to linked concept pages. Core arguments must be preserved.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P2: Condense materialism.md (3835 words, 110% of threshold)
+- **Type**: condense
+- **Notes**: Article in arguments/ exceeds 3500-word hard threshold. Covers arguments against materialism. Previous condense attempt (2026-02-02) did not reduce sufficiently. Preserve core anti-materialist arguments while removing redundancy with related concept pages.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P2: Condense many-worlds.md (3762 words, 108% of threshold)
+- **Type**: condense
+- **Notes**: Article in arguments/ exceeds 3500-word hard threshold. Covers arguments against Many Worlds Interpretation from indexical identity perspective. Preserve core arguments supporting No Many Worlds tenet while removing redundancy.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P2: Integrate affective-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-02) has no inbound links. Covers emotions and feeling-states structurally inaccessible to human consciousness—entire dimensions of affective experience beyond human phenomenological reach. Add cross-references from emotional-consciousness.md, qualia.md, other-minds-void.md, consciousness-only-territories.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Integrate creativity-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-02) has no inbound links. Covers the irreducible opacity of creative insight—how consciousness generates genuine novelty through processes that resist introspective access. Add cross-references from consciousness-and-creativity.md, phenomenology-of-understanding.md, thoughts-that-slip-away.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Integrate phenomenal-intentionality.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page (2026-02-02) has no inbound links. Covers the thesis that original intentionality derives from phenomenal consciousness—central to symbol grounding problem and meaning-and-consciousness debates. Add cross-references from symbol-grounding-problem.md, meaning-and-consciousness.md, aboutness.md, intentionality.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
