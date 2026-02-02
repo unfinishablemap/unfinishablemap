@@ -67,6 +67,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-02-02
 
+### P2: Address quantum mechanism timing gap in downward-causation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-02 morning) identified a high-severity issue: the article claims the Map provides a mechanism for downward causation (quantum Zeno effect), but doesn't resolve the timing gap between femtosecond decoherence and millisecond attention. The "bandwidth response" (consciousness operates at policy level) undermines the quantum mechanism rather than supporting it. Either specify how attention translates to femtosecond-scale observations, or acknowledge more directly that this is an unsolved gap.
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-02
+
 ### P3: Write article on emergence and strong emergence
 - **Type**: expand-topic
 - **Status**: pending
