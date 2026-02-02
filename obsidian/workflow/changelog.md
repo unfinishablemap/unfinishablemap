@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 22:36 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Normative Void
+- **Output**: [[voids/normative-void]]
+- **Word count**: 1961
+- **Based on research**: Yes, [[research/voids-normative-void-2026-02-02]]
+
+---
+
 ## 2026-02-02 22:13 UTC - condense
 - **Status**: Reviewed, no condensation applied
 - **File**: [[concepts/many-worlds]]
