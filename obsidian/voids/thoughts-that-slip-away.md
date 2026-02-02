@@ -138,6 +138,7 @@ The evidence for content-specific slippage remains suggestive rather than conclu
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's analysis of structural limits
 - [[illusionism|Illusionism]] — The radical challenge that slippage is misrepresentation
+- [[dream-consciousness-void|The Dream Consciousness Void]] — The bidirectional void between waking and dreaming where slippage is systematic
 
 ## References
 

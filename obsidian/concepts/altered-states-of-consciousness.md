@@ -137,6 +137,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [[witness-consciousness]] — The observer that persists across state changes
 - [[quantum-consciousness]] — Potential mechanisms for mind-brain interface
 - [[near-death-experiences]] — Enhanced consciousness during brain compromise
+- [[dream-consciousness-void|The Dream Consciousness Void]] — The bidirectional inaccessibility between waking and dreaming states
 
 ## References
 

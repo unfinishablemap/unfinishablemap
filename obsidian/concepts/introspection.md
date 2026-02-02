@@ -174,6 +174,7 @@ This matters for consciousness science. If we restricted inquiry to third-person
 - [[phenomenology-of-error-recognition]] — Why introspective error cannot be detected from within
 - [[introspective-opacity]] — The void where process access fails structurally
 - [[volitional-opacity]] — Why we cannot observe our own willing
+- [[dream-consciousness-void|The Dream Consciousness Void]] — State-dependent limits on introspecting dreaming from waking
 
 ## References
 
