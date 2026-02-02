@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P1: Condense arguments/functionalism.md (4318 words, 123% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core philosophical argument against functionalism with five formal arguments (absent qualia, inverted qualia, Chinese Room, multiple realizability, explanatory gap). Despite multiple previous condense attempts in concepts/functionalism.md, this arguments/ version remains significantly over limit. Focus on consolidating overlapping responses, deferring detailed examples to concept pages. Preserve formal argument structure.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
 ### P2: Write article on the argument from reason
 - **Type**: expand-topic
 - **Notes**: Research completed in research/argument-from-reason-self-defeat-physicalism-2026-01-23.md. The argument that genuine reasoning tracks normative relations physicalism cannot accommodate (Lewis, Reppert, Plantinga). Physicalism is self-defeating: if our beliefs are just brain states caused by prior physical states, we have no reason to trust them—including the belief in physicalism. Strongly supports Dualism and Bidirectional Interaction tenets. Connects to self-stultification.md, epiphenomenalism.md, causal-closure.md.
@@ -397,6 +391,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense arguments/functionalism.md (4318 words, 123% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core philosophical argument against functionalism with five formal arguments (absent qualia, inverted qualia, Chinese Room, multiple realizability, explanatory gap). Despite multiple previous condense attempts in concepts/functionalism.md, this arguments/ version remains significantly over limit. Focus on consolidating overlapping responses, deferring detailed examples to concept pages. Preserve formal argument structure.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-02: Condense functionalism.md (4250 words, 170% of threshold)
 - **Type**: condense
