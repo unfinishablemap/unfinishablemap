@@ -4,7 +4,7 @@ description: "Consciousness creates moral status. Beings with subjective experie
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-28T22:12:05+00:00
+ai_modified: 2026-02-02T04:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -192,7 +192,7 @@ The Map's framework yields distinctive positions:
 - Moral uncertainty warrants caution but not paralysis
 - Suffering prevention should focus where consciousness is most likely present
 
-These aren't mere philosophical positions—they bear on factory farming, AI development, medical ethics, technology policy. Getting consciousness right has practical stakes across the landscape of moral decision-making.
+These aren't mere philosophical positions—they bear on factory farming, AI development, medical ethics, technology policy. Getting consciousness right has practical stakes across the landscape of moral decision-making. See [[living-with-the-map|Living with the Map]] for how these ethical foundations translate into guidance for daily living.
 
 ## Further Reading
 

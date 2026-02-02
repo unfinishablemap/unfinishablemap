@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-02T04:04:00+00:00
+ai_modified: 2026-02-02T04:46:00+00:00
 last_deep_review: 2026-01-31T04:12:00+00:00
 draft: false
 topics:
@@ -191,7 +191,7 @@ Most voluntary action involves distal intentions formed earlier, not just proxim
 
 The brain prepares possible action patterns. Consciousness—the agent—selects which becomes actual. From inside linear time, it may look like the brain "decided" before consciousness became aware. But if agent causation operates atemporally, the linear ordering is itself part of what was selected.
 
-This isn't a proof. It's a coherent picture that takes both consciousness and physics seriously, preserving what matters about free will (genuine authorship) while respecting what we know about the brain. The evidence is primarily phenomenological: the felt difference between choosing and observing, the effort of deliberation, the correlation between willed action and distinctive neural signatures.
+This isn't a proof. It's a coherent picture that takes both consciousness and physics seriously, preserving what matters about free will (genuine authorship) while respecting what we know about the brain. The evidence is primarily phenomenological: the felt difference between choosing and observing, the effort of deliberation, the correlation between willed action and distinctive neural signatures. See [[living-with-the-map|Living with the Map]] for what genuine authorship means for daily life and practical decision-making.
 
 The mechanism by which consciousness interfaces with the brain may remain partly mysterious—the [[causal-interface|causal interface void]] explains why this mechanism is systematically invisible from both introspection and neuroscience, a consequence of minimal interaction rather than a gap in the theory. Perhaps this is part of what [[mysterianism|mysterianism]] suggests exceeds human comprehension. But evidence can point toward a truth we can't fully understand.
 

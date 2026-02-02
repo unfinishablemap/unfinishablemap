@@ -4,7 +4,7 @@ description: "What makes life meaningful? The Map suggests meaning is grounded i
 created: 2026-01-08
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-30T16:35:00+00:00
+ai_modified: 2026-02-02T04:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -237,7 +237,7 @@ On this view, meaningful life involves:
 
 4. **Recognition of others' consciousness**: Other conscious beings are equally significant. Their experiences matter intrinsically.
 
-This isn't a prescription for any particular lifestyle, but a framework within which diverse meaningful lives can be constructed.
+This isn't a prescription for any particular lifestyle, but a framework within which diverse meaningful lives can be constructed. See [[living-with-the-map|Living with the Map]] for how these principles translate into practical guidance for daily living.
 
 ## The Picture That Emerges
 

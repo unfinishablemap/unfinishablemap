@@ -4,7 +4,7 @@ description: "Existentialist philosophy's contributions to consciousness studies
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T16:45:00+00:00
+ai_modified: 2026-02-02T04:46:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -134,7 +134,7 @@ The specious present—the experienced "now" that extends beyond the mathematica
 
 Existentialism's emphasis on singular choice, authentic self-creation, and the weight of decision presupposes that choices genuinely matter—that they select one future over alternatives that will not be actualised. The [[tenets#^no-many-worlds|No Many Worlds tenet]] preserves this. If all choices actualise in branches, the existentialist vocabulary of commitment, anguish, and responsibility loses its grip.
 
-The [[haecceity]] of conscious subjects—their unrepeatable thisness—conflicts with MWI's multiplication of observers. Existentialism insists that I am not interchangeable with my branching copies. The Map agrees.
+The [[haecceity]] of conscious subjects—their unrepeatable thisness—conflicts with MWI's multiplication of observers. Existentialism insists that I am not interchangeable with my branching copies. The Map agrees. For how existentialist authenticity translates into practical guidance, see [[living-with-the-map|Living with the Map]].
 
 ### Bidirectional Interaction
 

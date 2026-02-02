@@ -4,7 +4,7 @@ description: "The metaethical view that intrinsic value is a feature of consciou
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-30T16:55:00+00:00
+ai_modified: 2026-02-02T04:46:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -111,7 +111,7 @@ If value requires consciousness, current AI systems (lacking consciousness per [
 
 For animals: they matter morally to the extent they have phenomenal experience. The [[animal-consciousness]] article argues many do—making their suffering morally significant.
 
-For meaning: the [[meaning-of-life]] central claim—that conscious experience grounds meaning—follows directly. If value *is* a feature of experience, meaningful experience needs no further justification.
+For meaning: the [[meaning-of-life]] central claim—that conscious experience grounds meaning—follows directly. If value *is* a feature of experience, meaningful experience needs no further justification. See [[living-with-the-map|Living with the Map]] for how phenomenal value realism translates into practical guidance for daily living.
 
 ## Objections and Responses
 

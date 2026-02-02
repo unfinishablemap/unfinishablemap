@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate living-with-the-map.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Apex article has no inbound links. Add cross-references from related articles (meaning-of-life.md, phenomenal-value-realism.md, testing-the-map-from-inside.md) or update apex index page and site navigation to include this practical philosophy piece.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Condense materialism.md (3788 words, 108% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the materialist position and objections. Preserve core materialist claims and primary objections (hard problem, knowledge argument, explanatory gap). See /condense skill.
@@ -223,6 +217,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate living-with-the-map.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Apex article has no inbound links. Add cross-references from related articles (meaning-of-life.md, phenomenal-value-realism.md, testing-the-map-from-inside.md) or update apex index page and site navigation to include this practical philosophy piece.
+- **Output**: obsidian/apex/living-with-the-map.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Integrate minds-without-words.md into site navigation
 - **Type**: integrate-orphan
