@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review symbol-grounding-problem.md with AI consciousness articles
-- **Type**: cross-review
-- **Notes**: New topic article topics/symbol-grounding-problem.md (2026-02-02) covers how computational symbols acquire meaning. Cross-review related AI consciousness articles for: (1) cross-links to symbol grounding, (2) reinforcing arguments about phenomenal intentionality requirement for meaning, (3) ensuring consistent treatment across llm-consciousness.md, machine-consciousness.md, ai-consciousness.md, phenomenal-intentionality.md.
-- **Source**: chain (from symbol-grounding-problem.md)
-- **Generated**: 2026-02-02
-
 ### P2: Cross-review argument-from-reason.md with epistemology articles
 - **Type**: cross-review
 - **Notes**: New topic article topics/argument-from-reason.md (2026-02-02) develops the self-defeat argument against physicalism. Cross-review related epistemology and consciousness articles for: (1) cross-links to argument from reason, (2) reinforcing the self-stultification pattern, (3) ensuring consistent treatment across self-stultification.md, epiphenomenalism.md, causal-closure.md, materialism.md.
@@ -397,6 +391,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Cross-review symbol-grounding-problem.md with AI consciousness articles
+- **Type**: cross-review
+- **Notes**: New topic article topics/symbol-grounding-problem.md (2026-02-02) covers how computational symbols acquire meaning. Cross-review related AI consciousness articles for: (1) cross-links to symbol grounding, (2) reinforcing arguments about phenomenal intentionality requirement for meaning, (3) ensuring consistent treatment across llm-consciousness.md, machine-consciousness.md, ai-consciousness.md, phenomenal-intentionality.md.
+- **Output**: obsidian/concepts/symbol-grounding-problem.md -- Context: Cross-review symbol-grounding-problem.md with AI consciousness articles
 
 ### ✓ 2026-02-02: Condense arguments/functionalism.md (4250 words, 170% of threshold)
 - **Type**: condense
