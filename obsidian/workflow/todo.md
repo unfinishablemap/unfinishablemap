@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write voids article on intersubjective void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-intersubjective-void-2026-02-01.md. The cognitive gap between consciousnesses: what one mind cannot directly access about another. Connects to problem-of-other-minds.md, intersubjectivity.md, other-minds-void.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
 ### P2: Condense death-and-consciousness.md (4478 words, 111% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 4000-word hard threshold for topics/. Covers death from a consciousness perspective—near-death experiences, persistence questions, and what the Map's framework suggests. Preserve core arguments while removing redundancy. See /condense skill.
@@ -251,6 +245,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write voids article on intersubjective void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-intersubjective-void-2026-02-01.md. The cognitive gap between consciousnesses: what one mind cannot directly access about another. Connects to problem-of-other-minds.md, intersubjectivity.md, other-minds-void.md.
+- **Output**: Write voids article on intersubjective void
+
+### ✓ 2026-02-02: Write voids article on intersubjective void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-intersubjective-void-2026-02-01.md.
+- **Output**: [[intersubjective-void]]
 
 ### ✓ 2026-02-02: Write voids article on the death void
 - **Type**: expand-topic
