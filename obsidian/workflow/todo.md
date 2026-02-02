@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense arguments/materialism.md (3788 words, 152% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core arguments against materialism (hard problem, knowledge argument, explanatory gap, conceivability). Previous condense on concepts/materialism.md succeeded but arguments/ version needs separate treatment. Preserve formal argument structure while deferring detailed engagement to concept pages.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
 ### P2: Condense arguments/many-worlds.md (3704 words, 148% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core arguments against Many Worlds Interpretation from indexical identity perspective. Directly supports No Many Worlds tenet. Preserve vertiginous question discussion and formal arguments while consolidating with many-worlds.md concept page treatment.
@@ -402,6 +396,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense arguments/materialism.md (3788 words, 152% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core arguments against materialism (hard problem, knowledge argument, explanatory gap, conceivability). Previous condense on concepts/materialism.md succeeded but arguments/ version needs separate treatment. Preserve formal argument structure while deferring detailed engagement to concept pages.
+- **Output**: obsidian/concepts/materialism.md
 
 ### ✓ 2026-02-02: Integrate dream-consciousness-void.md into site navigation
 - **Type**: integrate-orphan
