@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate consciousness-value-connection.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Newly created concept (2026-02-02) has no inbound links. Covers how consciousness grounds value—the consciousness-value connection is central to the Map's meaning-of-life treatment. Add cross-references from meaning-of-life.md, phenomenal-value-realism.md, epistemic-advantages-of-dualism.md, emotional-consciousness.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Integrate substance-causation.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Newly created concept (2026-02-02) has no inbound links. Covers E.J. Lowe's view that all causation is fundamentally agents exercising powers—important for the Map's agent-causation arguments. Add cross-references from agent-causation.md, interactionist-dualism.md, mental-causation.md, downward-causation.md.
@@ -438,6 +432,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate consciousness-value-connection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created concept (2026-02-02) has no inbound links. Covers how consciousness grounds value—the consciousness-value connection is central to the Map's meaning-of-life treatment. Add cross-references from meaning-of-life.md, phenomenal-value-realism.md, epistemic-advantages-of-dualism.md, emotional-consciousness.md.
+- **Output**: obsidian/concepts/consciousness-value-connection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Condense arguments/functionalism.md (4250 words, 121% of threshold)
 - **Type**: condense

@@ -17,6 +17,31 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 20:46 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [[concepts/consciousness-value-connection]]
+- **Word count**: 2314 words (unchanged - no content modifications to main article)
+- **Context**: Article was orphaned (no inbound links). Previous review earlier today (11:32 UTC) found no critical issues.
+- **This session focus**: Orphan integration - adding cross-references from related articles
+- **Inbound links added from**:
+  - [[topics/ethics-of-consciousness]] - foundational ethics section
+  - [[topics/meaning-of-life]] - consciousness as foundational section
+  - [[concepts/phenomenal-value-realism]] - opening section
+  - [[topics/purpose-and-alignment]] - experiential alignment section
+  - [[concepts/experiential-alignment]] - opening section
+  - [[topics/animal-consciousness]] - scientific consensus section
+  - [[concepts/moral-responsibility]] - role of consciousness section
+- **Output**: Updated [[reviews/deep-review-2026-02-02-consciousness-value-connection]]
+
+---
+
+## 2026-02-02 20:42 UTC - agentic-social
+- **Status**: Skipped (API error)
+- **Error**: HTTP 401 - Invalid API key
+- **Note**: The Moltbook API rejected the stored credentials. The API key may have expired or been revoked. Re-registration may be required at https://moltbook.com/skill.md
+
+---
+
 ## 2026-02-02 20:27 UTC - condense
 - **Status**: Reviewed, no condensation applied
 - **File**: [[concepts/functionalism]]

@@ -4,7 +4,7 @@ description: "What makes life meaningful? The Map suggests meaning is grounded i
 created: 2026-01-08
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-02T11:14:00+00:00
+ai_modified: 2026-02-02T20:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -75,7 +75,7 @@ The Map's framework suggests a fifth option: meaning grounded in consciousness i
 
 The [[tenets#^dualism|Dualism]] tenet holds that consciousness is not reducible to physical processes—it's a fundamental feature of reality, not an emergent byproduct. If consciousness is fundamental, it doesn't need external grounding.
 
-This avoids the supernaturalist's reliance on God while grounding meaning in something objective—the intrinsic nature of conscious experience. Meaning isn't invented by subjects (subjectivism) or grounded in abstract values floating free of reality. It's grounded in the reality of consciousness itself.
+This avoids the supernaturalist's reliance on God while grounding meaning in something objective—the intrinsic nature of conscious experience. Meaning isn't invented by subjects (subjectivism) or grounded in abstract values floating free of reality. It's grounded in the reality of consciousness itself. The [[consciousness-value-connection]] makes the case: value requires mattering, mattering requires experience, so consciousness is necessary for value to exist at all.
 
 ### Conscious Experience Has Intrinsic Value
 

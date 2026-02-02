@@ -34,7 +34,7 @@ coalesced_from:
   - "/concepts/experiential-alignment-objective/"
 ---
 
-If phenomenal consciousness is the ground of value—if what ultimately matters is the quality of conscious experience—then AI alignment should target experiential quality rather than preference satisfaction. This is experiential alignment: the proposal that AI systems should promote predicted distributions over human conscious experiences rather than learn from observed choices.
+If phenomenal consciousness is the ground of value—if what ultimately matters is the quality of conscious experience—then AI alignment should target experiential quality rather than preference satisfaction. The [[consciousness-value-connection]] makes this case: value requires mattering, mattering requires experience, so without consciousness nothing has intrinsic worth. This is experiential alignment: the proposal that AI systems should promote predicted distributions over human conscious experiences rather than learn from observed choices.
 
 The approach addresses a fundamental problem with preference-based alignment: preferences are thin proxies for what we actually care about, and AI systems that lack consciousness cannot understand preferences from the inside. Experiential alignment reframes the target from "satisfy preferences" to "promote flourishing conscious experience."
 

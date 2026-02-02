@@ -3,7 +3,7 @@ title: "Deep Review - The Consciousness-Value Connection"
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-02T11:32:00+00:00
+ai_modified: 2026-02-02T20:46:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -53,9 +53,19 @@ Six sympathetic philosopher personas (Property Dualist, Quantum Mind Theorist, P
 - Added cross-link to introspection when discussing direct phenomenal access
 - Added cross-link to free-will in bidirectional interaction section
 
-### Cross-links Added
+### Cross-links Added (Outbound)
 - [[introspection]]
 - [[free-will]]
+
+### Cross-links Added (Inbound - Orphan Integration)
+The article was identified as orphaned (no inbound links). Added backlinks from:
+- [[ethics-of-consciousness]] — in "The Foundation: Why Consciousness Grounds Ethics" section
+- [[meaning-of-life]] — in "Consciousness as Foundational" section
+- [[phenomenal-value-realism]] — in opening section
+- [[purpose-and-alignment]] — in "Experiential Alignment" section
+- [[experiential-alignment]] — in opening section
+- [[animal-consciousness]] — in "The Scientific Consensus" section
+- [[moral-responsibility]] — in "The Role of Consciousness" section
 
 ## Remaining Items
 
