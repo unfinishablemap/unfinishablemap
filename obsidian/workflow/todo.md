@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense functionalism.md (4250 words, 170% of threshold)
-- **Type**: condense
-- **Notes**: Article remains over 3500-word hard threshold despite multiple previous condense attempts. Core functionalist position and objections (multiple realizability, china brain, qualia objections) must be preserved. Consider: (1) removing redundant examples, (2) deferring detailed critique to linked articles, (3) consolidating overlapping arguments. The concept is central to AI consciousness debates so clarity is critical.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
 ### P2: Write article on consciousness in simple organisms
 - **Type**: expand-topic
 - **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Covers C. elegans, Hydra, slime molds, and the Unlimited Associative Learning (UAL) framework for minimal consciousness markers. Important for extending the Map's consciousness claims beyond mammals. Connects to animal-consciousness.md, evolution-of-consciousness.md, panpsychism.md.
@@ -302,6 +296,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article remains over 3500-word hard threshold despite multiple previous condense attempts. Core functionalist position and objections (multiple realizability, china brain, qualia objections) must be preserved. Consider: (1) removing redundant examples, (2) deferring detailed critique to linked articles, (3) consolidating overlapping arguments. The concept is central to AI consciousness debates so clarity is critical.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-02: Condense downward-causation.md (3875 words, 111% of threshold)
 - **Type**: condense

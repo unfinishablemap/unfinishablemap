@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 08:15 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [[concepts/functionalism]]
+- **Word count**: 2036 words (target: 2500, threshold: 3500)
+- **Reason**: Article is already well under the soft threshold at 81% of target. Content is well-structured with no redundancy or unnecessary background.
+
+---
+
 ## 2026-02-02 08:04 UTC - condense
 - **Status**: Success
 - **File**: [[concepts/downward-causation]]
