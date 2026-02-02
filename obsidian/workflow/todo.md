@@ -49,13 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on working memory as consciousness amplifier
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Builds on consciousness-as-amplifier, working-memory, baseline-cognition. Would address: working memory capacity (human 7±2 vs ape 2±1) central to many arguments but scattered across articles. Supports Bidirectional Interaction by showing what consciousness adds to cognition. See optimistic-2026-01-31.md
-- **Source**: optimistic-review
-- **Generated**: 2026-01-31
-
 ### P2: Write article on choking phenomenon and mental causation
 - **Type**: expand-topic
 - **Status**: pending
@@ -219,6 +212,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write article on working memory as consciousness amplifier
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Builds on consciousness-as-amplifier, working-memory, baseline-cognition. Would address: working memory capacity (human 7±2 vs ape 2±1) central to many arguments but scattered across articles. Supports Bidirectional Interaction by showing what consciousness adds to cognition. See optimistic-2026-01-31.md
+- **Output**: working memory as consciousness amplifier
 
 ### ✓ 2026-02-02: Write article on attention mechanisms and consciousness interface
 - **Type**: expand-topic
