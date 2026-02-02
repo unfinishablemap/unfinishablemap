@@ -199,6 +199,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 
 ## Further Reading
 
+- [[identity-across-transformations]] — Apex synthesis: how indexical identity persists through split-brain division, anesthesia, altered states, and death
 - [[parfit-reductionism]] — The Map's detailed critique of Parfit's view
 - [[many-worlds]] — Why the Map rejects many-worlds (the indexical problem is central)
 - [[haecceity]] — Primitive thisness, Whitehead's process philosophy, and why qualitative identity isn't enough

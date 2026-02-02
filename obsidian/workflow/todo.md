@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate identity-across-transformations.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Apex article (2026-01-31) has no inbound links. Key synthesis piece on how consciousness relates to personal identity through radical physical/mental changes. Add cross-references from related articles (personal-identity.md, ship-of-theseus.md, self-and-consciousness.md, teleportation-thought-experiment.md) or update apex index page.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Integrate baseline-cognition.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-01-22) has no inbound links. Foundational piece on what cognition can occur without consciousness. Referenced conceptually in many articles (consciousness-as-amplifier, animal-consciousness) but lacks explicit cross-links. Add links from working-memory.md, consciousness-as-amplifier.md, implicit-memory.md.
@@ -269,6 +263,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate identity-across-transformations.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Apex article (2026-01-31) has no inbound links. Key synthesis piece on how consciousness relates to personal identity through radical physical/mental changes. Add cross-references from related articles (personal-identity.md, ship-of-theseus.md, self-and-consciousness.md, teleportation-thought-experiment.md) or update apex index page.
+- **Output**: obsidian/apex/identity-across-transformations.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Condense functionalism.md (4318 words, 123% of threshold)
 - **Type**: condense

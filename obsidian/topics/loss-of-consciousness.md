@@ -178,6 +178,7 @@ The Map's [[tenets]] converge on loss of consciousness as a domain where the dua
 
 ## Further Reading
 
+- [[identity-across-transformations]] — Apex synthesis: how indexical identity persists through anesthesia, split-brain, altered states, and death
 - [[altered-states-of-consciousness]] — Loss of consciousness as part of the broader ASC spectrum
 - [[neural-correlates-of-consciousness]]
 - [[near-death-experiences]]

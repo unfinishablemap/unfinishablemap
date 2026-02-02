@@ -161,6 +161,7 @@ This topic intersects all five tenets:
 
 ## Further Reading
 
+- [[identity-across-transformations]] — Apex synthesis: how indexical identity persists through split-brain, anesthesia, altered states, and death
 - [[haecceity]] - The quality of being *this* particular thing
 - [[quantum-probability-consciousness]] - Three readings of the Born rule
 - [[quantum-measurement-interpretations-beyond-mwi]] - Survey of interpretations

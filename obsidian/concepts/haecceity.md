@@ -225,6 +225,7 @@ The haecceity concept makes explicit what the Map presupposes. Personal identity
 
 ## Further Reading
 
+- [[identity-across-transformations]] — Apex synthesis: how haecceity persists through split-brain, anesthesia, altered states, and death
 - [[indexical-facts]] — The irreducible first-person facts that haecceity grounds
 - [[vertiginous-question]] — Why am I *this* conscious being rather than another?
 - [[personal-identity]] — How haecceity grounds personal identity
