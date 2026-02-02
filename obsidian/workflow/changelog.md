@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 02:00 UTC - expand-topic
+- **Status**: Already exists
+- **Topic**: specious present
+- **Output**: [[specious-present]]
+- **Word count**: 2674
+- **Notes**: Comprehensive concept page already created 2026-01-17, deep-reviewed 2026-01-21. Covers James, Husserl, extensionalism vs retentionalism, neurophenomenology, quantum connections, AI implications. Task removed from queue.
+
 ## 2026-02-02 01:55 UTC - expand-topic
 - **Status**: Already exists
 - **Topic**: consciousness and creativity

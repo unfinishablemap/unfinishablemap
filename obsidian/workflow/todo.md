@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for specious present
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review. Referenced in temporal-consciousness but deserves own page covering James, Husserl, and contemporary debates. Central to understanding temporal phenomenology.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
-### P2: Create concept page for quantum measurement problem
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review. The underlying physics question that makes room for consciousness at collapse. Currently assumed but not explained. Would help readers understand why quantum mechanics leaves room for consciousness.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
 ### P2: Create concept page for self-stultification arguments
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The pattern shared by arguments against epiphenomenalism, illusionism, and certain materialisms. Could unify treatment across multiple articles. Strong rhetorical and philosophical tool.
@@ -265,6 +253,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Create concept page for specious present
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Referenced in temporal-consciousness but deserves own page covering James, Husserl, and contemporary debates. Central to understanding temporal phenomenology.
+- **Output**: Create concept page for specious present
 
 ### ✓ 2026-02-02: Write article on consciousness and creativity
 - **Type**: expand-topic
