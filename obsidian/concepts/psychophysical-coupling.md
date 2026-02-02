@@ -4,7 +4,7 @@ description: "How conscious states map to quantum selections: the coupling laws 
 created: 2026-01-16
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-30T07:40:00+00:00
+ai_modified: 2026-02-02T05:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -334,6 +334,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [[psychophysical-laws]] — Chalmers' foundational framework
 - [[consciousness-selecting-neural-patterns]] — The mechanism the coupling law governs
 - [[quantum-consciousness]] — Major theories of quantum-consciousness interface
+- [[attention-interface-mechanisms]] — Candidate neural sites, timing constraints, and testable predictions
 - [[mental-effort]] — The phenomenology Stapp's mechanism requires
 - [[attention]] — The attention-consciousness relationship
 - [[mental-causation]] — How coupling addresses exclusion arguments

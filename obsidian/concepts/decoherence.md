@@ -4,7 +4,7 @@ description: "Decoherence challenges quantum consciousness theories, but biology
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T04:02:00+00:00
+ai_modified: 2026-02-02T05:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -183,6 +183,7 @@ The [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] tenet is releva
 
 ## Further Reading
 
+- [[attention-interface-mechanisms]] — Candidate neural sites, timing constraints, and testable predictions for the interface
 - [[quantum-decoherence-objection]] — Detailed analysis of Tegmark's critique and responses
 - [[measurement-problem]] — Why decoherence doesn't solve the measurement problem
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interaction

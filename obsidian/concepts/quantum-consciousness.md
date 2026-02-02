@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-27T20:45:00+00:00
+ai_modified: 2026-02-02T05:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -184,6 +184,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 ## Further Reading
 
 **Mechanisms and timing:**
+- [[attention-interface-mechanisms]] — Candidate neural sites, timing constraints, and testable predictions
 - [[quantum-neural-mechanisms]] — Five neural quantum mechanisms with evidence status
 - [[stapp-quantum-mind]] — Comprehensive treatment of the quantum Zeno mechanism
 - [[quantum-neural-timing-constraints]] — Timing hierarchy from femtosecond to 300ms neural decisions

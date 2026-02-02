@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-27T15:30:00+00:00
+ai_modified: 2026-02-02T05:22:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -39,7 +39,7 @@ last_deep_review: 2026-01-27T15:30:00+00:00
 
 Henry Stapp's quantum mind model proposes that consciousness influences the brain through the quantum Zeno effect—a standard result in quantum mechanics where rapid, repeated observation prevents a quantum system from evolving. In Stapp's framework, mental effort acts like repeated observation, "holding" desired neural patterns in place against their natural tendency to dissipate. This provides a mechanism for mind-matter interaction that requires no new physics: consciousness operates through orthodox quantum mechanics, selecting among superposed neural states by attending to them.
 
-The model has remarkable properties. It explains why controlling attention feels effortful (rapid observation requires continuous engagement). It satisfies conservation laws (no energy is injected). It addresses the exclusion problem (consciousness operates where physics leaves outcomes undetermined). And it finds empirical support in Jeffrey Schwartz's neuroplasticity research showing that directed mental effort produces measurable brain changes.
+The model has remarkable properties. It explains why controlling attention feels effortful (rapid observation requires continuous engagement). It satisfies conservation laws (no energy is injected). It addresses the exclusion problem (consciousness operates where physics leaves outcomes undetermined). And it finds empirical support in Jeffrey Schwartz's neuroplasticity research showing that directed mental effort produces measurable brain changes. For the candidate neural sites and timing constraints relevant to this mechanism, see [[attention-interface-mechanisms]].
 
 ## The Core Mechanism
 

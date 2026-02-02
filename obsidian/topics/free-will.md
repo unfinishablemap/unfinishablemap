@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-02T04:46:00+00:00
+ai_modified: 2026-02-02T05:22:00+00:00
 last_deep_review: 2026-01-31T04:12:00+00:00
 draft: false
 topics:
@@ -92,7 +92,7 @@ How does consciousness interface with the brain? Several possibilities exist wit
 - **Retrocausal influence**: Selection determining which temporal sequence becomes real (compatible with time-symmetric quantum mechanics)
 - **Unknown physics**: Mechanisms not yet discovered
 
-The Map doesn't commit to any single mechanism. What matters philosophically is that consciousness *can* influence physical outcomes without violating physical laws—that there's room in physics for mental causation. Quantum mechanics provides one such opening; others may exist. See [[decoherence]] and [[quantum-consciousness]] for analysis of the quantum approach, including its limitations.
+The Map doesn't commit to any single mechanism. What matters philosophically is that consciousness *can* influence physical outcomes without violating physical laws—that there's room in physics for mental causation. Quantum mechanics provides one such opening; others may exist. See [[decoherence]] and [[quantum-consciousness]] for analysis of the quantum approach, including its limitations, and [[attention-interface-mechanisms]] for candidate neural sites and timing constraints.
 
 ## The Map's Position: Agent-Causal Selection
 
