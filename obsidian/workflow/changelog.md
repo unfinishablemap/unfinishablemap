@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 17:19 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [[functionalism]]
+- **Word count**: 2036 words (81% of 2500 target)
+- **Reason**: Article is well under the soft threshold for concepts. All sections add distinct value: opening summary, modern frameworks (PP, GWT, IIT), Chinese Room, absent qualia objection, minimal consciousness challenge, hard problem connection, and tenet alignment. No redundancy or excessive background identified.
+
+---
+
 ## 2026-02-02 16:58 UTC - deep-review
 - **Status**: Success
 - **File**: [[quantum-consciousness]]

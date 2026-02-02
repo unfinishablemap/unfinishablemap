@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense arguments/functionalism.md (4250 words, 170% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/ by 70%. Despite multiple previous condense attempts on concepts/functionalism.md, arguments/functionalism.md remains severely over limit. Focus on: consolidating overlapping objection-response pairs, removing redundant examples, deferring detailed treatment to concept pages. Core formal arguments (absent qualia, inverted qualia, Chinese Room) must be preserved.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
 ### P2: Cross-review symbol-grounding-problem.md with AI consciousness articles
 - **Type**: cross-review
 - **Notes**: New topic article topics/symbol-grounding-problem.md (2026-02-02) covers how computational symbols acquire meaning. Cross-review related AI consciousness articles for: (1) cross-links to symbol grounding, (2) reinforcing arguments about phenomenal intentionality requirement for meaning, (3) ensuring consistent treatment across llm-consciousness.md, machine-consciousness.md, ai-consciousness.md, phenomenal-intentionality.md.
@@ -403,6 +397,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense arguments/functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/ by 70%. Despite multiple previous condense attempts on concepts/functionalism.md, arguments/functionalism.md remains severely over limit. Focus on: consolidating overlapping objection-response pairs, removing redundant examples, deferring detailed treatment to concept pages. Core formal arguments (absent qualia, inverted qualia, Chinese Room) must be preserved.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-02: Cross-review quantum-consciousness.md considering neural binding article
 - **Type**: cross-review
