@@ -3,7 +3,7 @@ title: "The Unobservable Self"
 created: 2026-01-22
 modified: 2026-01-22
 human_modified:
-ai_modified: 2026-02-01T14:10:00+00:00
+ai_modified: 2026-02-02T18:42:00+00:00
 draft: false
 last_deep_review: 2026-02-01T14:10:00+00:00
 description: "When attention turns inward seeking the observer, it finds only more observing—a structural limit that illuminates why consciousness resists explanation."
@@ -34,7 +34,7 @@ last_curated:
 
 The observing self cannot observe itself observing. When you try to catch yourself in the act of awareness, you find only more awareness—the catcher always just ahead of what is caught. This structural feature of consciousness may explain why the hard problem is hard: the very thing we most need to understand is the one thing that systematically eludes understanding.
 
-This void differs from the [[self-reference-paradox|general self-reference problem]]. That concerns formal limitations—Gödel's incompleteness, the calibration problem. This concerns phenomenological elusiveness: the particular way consciousness slips away precisely when we turn attention toward the one attending.
+This void differs from the [[self-reference-paradox|general self-reference problem]]. That concerns formal limitations—Gödel's incompleteness, the calibration problem. This concerns phenomenological elusiveness: the particular way consciousness slips away precisely when we turn attention toward the one attending. The [[death-void]] presents a related impossibility: consciousness cannot observe its own cessation, not just its own observing.
 
 ## The Regression of Attention
 

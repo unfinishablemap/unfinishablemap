@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-02-02T10:52:00+00:00
+ai_modified: 2026-02-02T18:42:00+00:00
 draft: false
 last_deep_review: 2026-02-01T14:46:00+00:00
 topics: []
@@ -71,6 +71,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[affective-void|The Affective Void]] — Emotions we cannot feel—affects beyond human reach
 - [[memory-void|The Memory Void]] — Whether past qualia can be recovered or are lost forever
 - [[the-unobservable-self|The Unobservable Self]] — The subject that cannot be its own object
+- [[death-void|The Death Void]] — Consciousness cannot represent its own absence
 - [[creativity-void|The Creativity Void]] — Where creative insight originates, inaccessible to introspection
 - [[self-reference-paradox|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper
 - [[past-self-void|The Past-Self Void]] — The discontinuity of personal identity over time

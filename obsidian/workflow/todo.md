@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate death-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Newly created voids article (2026-02-02) has no inbound links. Covers the ultimate epistemic boundary—what lies beyond death for consciousness. Add cross-references from death-and-consciousness.md, personal-identity.md, meaning-of-life.md, three-kinds-of-void.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Integrate dream-consciousness-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Newly created voids article (2026-02-02) has no inbound links. Covers state-dependent cognitive limits—the mixed void combining unexplored creative territories, unexplorable dream logic, and occluded fading memory. Add cross-references from dreams-and-consciousness.md, lucid-dreaming-and-consciousness.md, three-kinds-of-void.md.
@@ -379,6 +373,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate death-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created voids article (2026-02-02) has no inbound links. Covers the ultimate epistemic boundary—what lies beyond death for consciousness. Add cross-references from death-and-consciousness.md, personal-identity.md, meaning-of-life.md, three-kinds-of-void.md.
+- **Output**: obsidian/voids/death-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Integrate selection-laws.md into site navigation
 - **Type**: integrate-orphan
