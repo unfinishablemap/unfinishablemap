@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-02 04:46:00+00:00
+ai_modified: 2026-02-02 11:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -255,6 +255,7 @@ The position takes seriously what we actually know: consciousness exists, it's r
 - [nihilism](/archive/concepts/nihilism/) — The case for meaninglessness and responses to it
 - [existentialism](/archive/concepts/existentialism/) — Sartre's pour-soi and the phenomenology of freedom support consciousness-grounded meaning
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical grounding for consciousness-based value
+- [phenomenal-value-realism-development](/topics/phenomenal-value-realism-development/) — Extending phenomenal value realism to address metaethical challenges and value pluralism
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — How AI alignment depends on unresolved questions about meaning
 
 ### Consciousness and Experience

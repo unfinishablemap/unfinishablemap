@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Working Memory as Consciousness Amplifier](/topics/working-memory-as-consciousness-amplifier/)
+**Article**: [Working Memory as Consciousness Amplifier](/archive/topics/working-memory-as-consciousness-amplifier/) (now archived; content coalesced into [working-memory](/concepts/working-memory/))
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

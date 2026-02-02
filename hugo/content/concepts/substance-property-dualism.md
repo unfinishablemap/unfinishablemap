@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-02 11:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -53,7 +53,7 @@ Princess Elizabeth of Bohemia pressed Descartes on a crucial difficulty: how can
 
 Leibniz sharpened the objection by invoking conservation of momentum. If mind could push matter, it would have to inject energy. But physics says energy is conserved. The interaction seems to require either abandoning conservation laws or abandoning causal efficacy.
 
-These objections pushed many philosophers toward alternatives: parallelism, [epiphenomenalism](/arguments/epiphenomenalism/), or materialism.
+These objections pushed many philosophers toward alternatives: parallelism, [epiphenomenalism](/arguments/epiphenomenalism/), or materialism. See [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) for how quantum mechanics later reopened possibilities that Leibniz thought closed.
 
 ### Contemporary Substance Dualism
 

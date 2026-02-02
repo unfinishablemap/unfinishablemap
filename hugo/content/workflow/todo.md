@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02 08:09:00+00:00
+ai_modified: 2026-02-02 10:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -48,12 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
-- **Generated**: 2026-02-02
-
-### P3: Deep review contemplative-path.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on contemplative approaches to consciousness. Check phenomenological claims, ensure alignment with Map's framework, verify connections to witness-consciousness.md and meditation-and-consciousness-modes.md.
-- **Source**: staleness
 - **Generated**: 2026-02-02
 
 ### P3: Deep review process-and-consciousness.md for quality
@@ -271,8 +265,103 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
 
+### P3: Write article on phenomenology of pain
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (midday). Pain's structure (protensional quality, apparent localisation, resistance to functionalism) deserves dedicated phenomenological treatment. Distinguishes from other negative states; grounds ethical commitments in irreducible phenomenal reality. Builds on qualia.md, emotional-consciousness.md. See optimistic-2026-02-02-midday.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on weak vs. strong emergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (midday). Systematic distinction between epistemological emergence (reducible in principle) and ontological emergence (irreducible). Explains why consciousness requires strong emergence and why "complexity" arguments fail. Builds on consciousness.md, reductionism.md. See optimistic-2026-02-02-midday.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on diachronic agency and personal narrative
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (midday). How agents author futures through memory, intention, and anticipatory consciousness. The temporal dimension of agency integrates Bidirectional Interaction with No Many Worlds (why *this* continuation matters). Builds on personal-identity.md, free-will.md, temporal-consciousness.md. See optimistic-2026-02-02-midday.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Address self-undermining structure in volitional/introspective opacity articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-02-02 (midday) identified high-severity issue: introspective-opacity.md argues introspection systematically misreports cognitive processes, while volitional-opacity.md treats introspective reports about willing as revealing genuine features. Either restrict the introspective opacity thesis with principled criteria for which domains remain reliable, or acknowledge volitional phenomenology may also be constructed rather than revelatory.
+- **Output**: Task context:
+Pessimistic review 2026-02-02 (midday) identified high-severity issue: introspective-opacity.md argues introspection systematically misreports cognitive processes, while volitional-opacity.md treats introspective reports about willing as revealing genuine features. Either restrict the introspective opacity thesis with principled criteria for which domains remain reliable, or acknowledge volitional phenomenology may also be constructed rather than revelatory.
+
+### ✓ 2026-02-02: Define "comprehension" in mathematical-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-02-02 (midday) identified high-severity issue: the article distinguishes "formal manipulation" from "genuine comprehension" but never defines what comprehension adds. The characterization ("intuitive grasp we have of three-dimensional geometry") is circular. Either provide explicit criteria for comprehension beyond formal manipulation, or acknowledge the distinction may be phenomenological rather than cognitive.
+- **Output**: obsidian/voids/mathematical-void.md
+
+Task context:
+Pessimistic review 2026-02-02 (midday) identified high-severity issue: the article distinguishes "formal manipulation" from "genuine comprehension" but never defines what comprehension adds. The characterization ("intuitive grasp we have of three-dimensional geometry") is circular. Either provide explicit criteria for comprehension beyond formal manipulation, or acknowledge the distinction may be phenomenological rather than cognitive.
+
+### ✓ 2026-02-02: Review introspection.md considering introspective opacity insights
+- **Type**: cross-review
+- **Notes**: New article voids/introspective-opacity.md (2026-02-02) explores structural limits on consciousness observing its own operations. The introspection.md concept page should be cross-reviewed for: (1) cross-links to introspective opacity, (2) relationship between introspective reliability debates and structural opacity, (3) implications for Cartesian certainty claims.
+- **Output**: obsidian/concepts/introspection.md -- Context: Review introspection.md considering introspective opacity insights
+
+### ✓ 2026-02-02: Review free-will.md considering volitional opacity insights
+- **Type**: cross-review
+- **Notes**: New article voids/volitional-opacity.md (2026-02-02) explores the gap between willing and its neural/cognitive implementation. The free-will.md article should be cross-reviewed for: (1) cross-links to volitional opacity, (2) how opacity of willing relates to libertarian free will arguments, (3) connection between Libet experiments and the experience of intending.
+- **Output**: obsidian/topics/free-will.md -- Context: Review free-will.md considering volitional opacity insights
+
+### ✓ 2026-02-02: Integrate phenomenal-value-realism-development.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created topics article (2026-02-02) has no inbound links. Develops metaethical foundations for consciousness-grounded value. Add cross-references from meaning-of-life.md, phenomenal-value-realism.md, epistemic-advantages-of-dualism.md.
+- **Output**: obsidian/topics/phenomenal-value-realism-development.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Integrate history-of-interactionist-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created topics article (2026-02-02) has no inbound links. Historical trajectory from Descartes through Princess Elizabeth to Stapp. Add cross-references from interactionist-dualism.md, conservation-laws-and-mind.md, objections-to-interactionism.md, quantum-consciousness.md.
+- **Output**: obsidian/topics/history-of-interactionist-dualism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Integrate contemplative-neuroscience-integration.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created topics article (2026-02-02) has no inbound links. Integrates neuroscience of meditation (DMN deactivation, gamma synchrony, neuroplasticity) with phenomenological reports. Add cross-references from meditation-and-consciousness-modes.md, witness-consciousness.md, neurophenomenology.md, bidirectional-interaction.md.
+- **Output**: obsidian/topics/contemplative-neuroscience-integration.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Write voids article on memory void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-memory-void-2026-02-01.md. The memory void concerns phenomenal gaps in recollection—not forgetting (which is documented), but the structural impossibility of re-accessing past conscious states. Connects to past-self-void.md, temporal-asymmetry-remembering-anticipating.md, thoughts-that-slip-away.md, introspection.md.
+- **Output**: Write voids article on memory void
+
+### ✓ 2026-02-02: Write voids article on volitional opacity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-volitional-opacity-2026-02-01.md. The gap between willing and its neural/cognitive implementation. We experience intention but cannot observe how decisions are generated. Connects to free-will.md, agent-causation.md, phenomenology-of-choice.md, Libet experiments.
+- **Output**: Write voids article on volitional opacity
+
+### ✓ 2026-02-02: Write voids article on volitional opacity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-volitional-opacity-2026-02-01.md. The gap between willing and its neural/cognitive implementation. We experience intention but cannot observe how decisions are generated.
+- **Output**: [volitional-opacity](/voids/volitional-opacity/)
+
+### ✓ 2026-02-02: Write voids article on introspective opacity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-introspective-opacity-2026-02-01.md. Structural limits on consciousness observing its own operations in real-time. The gap between consciousness and itself—impossibility of catching thought in the act. Convergent evidence from phenomenology (Sartre, Husserl), cognitive psychology (Nisbett & Wilson, Carruthers), William James. Connects to the-unobservable-self.md, thoughts-that-slip-away.md, phenomenology-of-the-edge.md.
+- **Output**: Write voids article on introspective opacity
+
+### ✓ 2026-02-02: Write voids article on introspective opacity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-introspective-opacity-2026-02-01.md. Structural limits on consciousness observing its own operations in real-time.
+- **Output**: [introspective-opacity](/voids/introspective-opacity/)
+
+### ✓ 2026-02-02: Write voids article on the mathematical void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-mathematical-void-2026-02-02.md. Mathematical reality may contain structures human minds cannot comprehend—not from lack of time/training, but architectural cognitive limits. Covers: failure of intuition at higher dimensions, transfinite infinities, non-surveyable proofs, Platonic objects beyond epistemic access. Distinctive void: mathematics *seems* accessible through formal manipulation yet genuine understanding may be blocked. Connects to computational-cognitive-limits.md, conceptual-impossibility.md, intrinsic-nature-void.md.
+- **Output**: Write voids article on the mathematical void
+
+### ✓ 2026-02-02: Write voids article on the mathematical void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-mathematical-void-2026-02-02.md. Mathematical reality may contain structures human minds cannot comprehend—not from lack of time/training, but architectural cognitive limits.
+- **Output**: [mathematical-void](/voids/mathematical-void/)
 
 ### ✓ 2026-02-02: Integrate psychophysical-coupling-mechanisms.md into site navigation
 - **Type**: integrate-orphan

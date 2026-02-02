@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-01 20:30:00+00:00
+ai_modified: 2026-02-02 11:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -54,7 +54,7 @@ The power of the argument lies in its vividness. It doesn't merely assert that p
 
 ## From Mills to Brains
 
-Modern neuroscience has given us extraordinary detail about the brain's "mill." We can map neural circuits, track electrochemical signals, measure blood flow with millimeter precision. Yet the challenge Leibniz posed persists. Examining neurons—even at molecular or quantum scales—reveals only physical processes: ions crossing membranes, neurotransmitters binding receptors, action potentials propagating down axons.
+Modern neuroscience has given us extraordinary detail about the brain's "mill." We can map neural circuits, track electrochemical signals, measure blood flow with millimeter precision. Yet the challenge Leibniz posed persists. Examining neurons—even at molecular or quantum scales—reveals only physical processes: ions crossing membranes, neurotransmitters binding receptors, action potentials propagating down axons. The [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) traces how Leibniz's arguments shaped subsequent debates and how quantum mechanics reopened questions he thought closed.
 
 What we do not find is the redness of red, the painfulness of pain, the felt quality of any experience. The [explanatory-gap](/concepts/explanatory-gap/) between neural mechanisms and conscious experience echoes Leibniz's observation that mechanical inspection reveals "never anything by which to explain a perception."
 

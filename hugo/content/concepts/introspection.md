@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-01 14:57:00+00:00
+ai_modified: 2026-02-02 11:27:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,6 +21,8 @@ concepts:
 - '[[the-unobservable-self]]'
 - '[[pre-conceptual-knowing]]'
 - '[[causal-interface]]'
+- '[[introspective-opacity]]'
+- '[[volitional-opacity]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 description: Our primary access to consciousness is contested. But critiques target
@@ -28,7 +30,7 @@ description: Our primary access to consciousness is contested. But critiques tar
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-31 03:57:00+00:00
+last_deep_review: 2026-02-02 11:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,7 +54,7 @@ Eric Schwitzgebel catalogued further failures: people cannot reliably report whe
 
 The critique's target matters. Nisbett and Wilson explicitly distinguish mental *processes* (the causal mechanisms producing decisions) from mental *contents* (current phenomenal states). Their argument concerns process access: we lack insight into *why* we choose as we do. They make no claim about whether we accurately perceive our present experience. The [causal interface void](/voids/causal-interface/) represents the extreme case of this limitation: we cannot observe *how* intention becomes action, though we access both the intention and the resulting movement.
 
-This distinction maps onto Bertrand Russell's knowledge by acquaintance versus description. We are *acquainted* with phenomenal content—directly presented with what experience is like—without necessarily having *descriptive* knowledge of the processes producing it. Russell took acquaintance as primitive and pre-conceptual: we know the redness of red not through propositions but through direct presentation. The introspection critics show we lack descriptive access to process; they leave acquaintance with content intact.
+This distinction maps onto Bertrand Russell's knowledge by acquaintance versus description. We are *acquainted* with phenomenal content—directly presented with what experience is like—without necessarily having *descriptive* knowledge of the processes producing it. Russell took acquaintance as primitive and pre-conceptual: we know the redness of red not through propositions but through direct presentation. The introspection critics show we lack descriptive access to process; they leave acquaintance with content intact. [Introspective opacity](/voids/introspective-opacity/)—explored as a void in the Map—names this structural limit: we access mental contents but never the mechanisms that produce them.
 
 This distinction is crucial for the [hard problem](/topics/hard-problem-of-consciousness/). Arguments for dualism don't depend on introspecting our cognitive processes—they depend on recognizing that there is something it is like to have conscious experience at all. [Qualia](/concepts/qualia/) are what experience *is*, not what causes experience. Even if I cannot introspect why I prefer one face to another, I can recognize that visual experience has a qualitative character that differs from its neural correlates.
 
@@ -172,6 +174,8 @@ This matters for consciousness science. If we restricted inquiry to third-person
 - [illusionism](/concepts/illusionism/) — The most radical challenge to phenomenal consciousness
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer phenomenon in contemplative traditions
 - [phenomenology-of-error-recognition](/voids/phenomenology-of-error-recognition/) — Why introspective error cannot be detected from within
+- [introspective-opacity](/voids/introspective-opacity/) — The void where process access fails structurally
+- [volitional-opacity](/voids/volitional-opacity/) — Why we cannot observe our own willing
 
 ## References
 

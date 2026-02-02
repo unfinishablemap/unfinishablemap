@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-02 11:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -112,7 +112,7 @@ The Map's framework commits to interactionism, with the [Minimal Quantum Interac
 
 ### The Interaction Problem
 
-If mind is non-physical, how can it causally affect the physical world? Classical objections (Princess Elizabeth to Descartes, Leibniz on conservation laws) seemed devastating when physics was deterministic. But quantum mechanics reopens possibilities: at quantum indeterminacies, physics specifies probabilities, not outcomes. Consciousness could select among possibilities without injecting energy.
+If mind is non-physical, how can it causally affect the physical world? Classical objections (Princess Elizabeth to Descartes, Leibniz on conservation laws) seemed devastating when physics was deterministic. But quantum mechanics reopens possibilities: at quantum indeterminacies, physics specifies probabilities, not outcomes. Consciousness could select among possibilities without injecting energy. The [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) traces how these objections evolved and why they no longer rule out interaction.
 
 The leading candidate mechanism is [Stapp's quantum Zeno effect](/concepts/stapp-quantum-mind/): repeated attention-driven observations bias superposition collapse toward particular outcomes without adding energy, only information. The objection that warm, noisy brains can't maintain quantum coherence misunderstands the proposal—consciousness doesn't require long-lived superposition but operates on the timescale where quantum processes influence neural firing (sub-millisecond). See [objections-to-interactionism](/concepts/objections-to-interactionism/) for detailed treatment.
 

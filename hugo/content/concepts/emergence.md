@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-30 02:40:00+00:00
+ai_modified: 2026-02-02 11:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -99,7 +99,7 @@ Each of these features—unity, qualitative character, agency—is what strong e
 
 ## The Map's Position: Strong Emergence with a Mechanism
 
-Classical British emergentists like Broad and Alexander affirmed strong emergence but couldn't specify how it operated. They accepted it with "natural piety"—brute facts to be acknowledged rather than explained.
+Classical British emergentists like Broad and Alexander affirmed strong emergence but couldn't specify how it operated. They accepted it with "natural piety"—brute facts to be acknowledged rather than explained. The [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) traces how this emergentist tradition developed in response to the materialist eclipse of the early twentieth century.
 
 The Map advances beyond this. The [quantum framework](/archive/arguments/interactionist-dualism/) provides what classical emergentism lacked: a mechanism for how non-physical causation operates without violating conservation laws.
 

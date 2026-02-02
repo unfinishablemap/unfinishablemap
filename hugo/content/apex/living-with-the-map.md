@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-02 04:46:00+00:00
+ai_modified: 2026-02-02 11:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 apex_last_synthesis: 2026-01-31 08:38:00+00:00
 apex_sources:
@@ -186,6 +186,7 @@ This apex article synthesizes:
 - [Ethics of Consciousness](/topics/ethics-of-consciousness/) — How consciousness creates moral status
 - [Purpose and AI Alignment](/topics/purpose-and-alignment/) — Why AI alignment faces the meaning problem
 - [Phenomenal Value Realism](/concepts/phenomenal-value-realism/) — Value as a feature of experience
+- [Developing Phenomenal Value Realism](/topics/phenomenal-value-realism-development/) — How value pluralism extends beyond hedonism
 - [Moral Responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
 - [Existentialism](/archive/concepts/existentialism/) — Sartre's pour-soi and the structure of freedom
 - [Free Will and Determinism](/topics/free-will/) — The Map's libertarian framework

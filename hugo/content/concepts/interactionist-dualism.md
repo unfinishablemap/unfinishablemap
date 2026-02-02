@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-31 02:01:00+00:00
+ai_modified: 2026-02-02 11:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -82,7 +82,7 @@ Chalmers tends toward epiphenomenalism. The Map diverges: the self-stultificatio
 
 ## The Historical Problem
 
-René Descartes established the classic formulation: mind (res cogitans) and body (res extensa) are distinct substances that interact. Princess Elizabeth of Bohemia immediately asked how something non-spatial could affect something spatial. Leibniz sharpened the objection: if mind pushes matter, it adds momentum, violating conservation. Contemporary physicists like Sean Carroll revitalize this argument.
+René Descartes established the classic formulation: mind (res cogitans) and body (res extensa) are distinct substances that interact. Princess Elizabeth of Bohemia immediately asked how something non-spatial could affect something spatial. Leibniz sharpened the objection: if mind pushes matter, it adds momentum, violating conservation. Contemporary physicists like Sean Carroll revitalize this argument. See [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) for the full trajectory from Descartes through Leibniz to quantum mechanics.
 
 Yet recent work demonstrates this objection rests on misunderstandings. Conservation is *local* and *conditional*—it holds given certain assumptions. The objection begs the question: expecting conservation to hold in the brain assumes interactionism is false. See [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) for why the conservation objection fails and how the "selection not injection" framework provides a positive account of mental causation.
 

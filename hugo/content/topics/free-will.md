@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-02 05:22:00+00:00
+ai_modified: 2026-02-02 11:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,6 +24,7 @@ concepts:
 - '[[causal-interface]]'
 - '[[counterfactual-reasoning]]'
 - '[[existentialism]]'
+- '[[volitional-opacity]]'
 created: 2026-01-08
 date: &id001 2026-01-30
 description: Can we genuinely author our choices? The Map defends agent-causal libertarian
@@ -32,7 +33,7 @@ description: Can we genuinely author our choices? The Map defends agent-causal l
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-31 04:12:00+00:00
+last_deep_review: 2026-02-02 11:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +61,7 @@ Bergson's [durée](/concepts/duration/) offers additional resources: if mental s
 
 [Libet's experiments](/concepts/libet-experiments/) found that neural "readiness potentials" precede conscious awareness of deciding to move. The implication seems devastating: if neural activity "decides" before awareness, isn't consciousness merely an epiphenomenal spectator?
 
-But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation—participants act when random fluctuations cross a threshold. Sjöberg (2024) provides stronger evidence: patients with surgical resection of the supplementary motor area—the region generating the readiness potential—retain their sense of voluntary action. If the RP reflected genuine volition, removing its source should impair it. It doesn't. Libet himself argued consciousness retains "veto power" to cancel prepared actions. The brain prepares options; consciousness selects or vetoes. See [libet-experiments](/concepts/libet-experiments/) for detailed analysis including the retrocausal resolution.
+But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation—participants act when random fluctuations cross a threshold. Sjöberg (2024) provides stronger evidence: patients with surgical resection of the supplementary motor area—the region generating the readiness potential—retain their sense of voluntary action. If the RP reflected genuine volition, removing its source should impair it. It doesn't. Libet himself argued consciousness retains "veto power" to cancel prepared actions. The brain prepares options; consciousness selects or vetoes. See [libet-experiments](/concepts/libet-experiments/) for detailed analysis including the retrocausal resolution, and [volitional-opacity](/voids/volitional-opacity/) for why the mechanism of willing is structurally hidden from introspection.
 
 ## The Agent-Causal Response to Luck
 
@@ -230,6 +231,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [personal-identity](/topics/personal-identity/) — Why *you* are the author of your choices
 - [existentialism](/archive/concepts/existentialism/) — How Sartre's pour-soi illuminates agent causation
 - [causal-interface](/voids/causal-interface/) — Why the mechanism of consciousness-physics interaction is systematically invisible
+- [volitional-opacity](/voids/volitional-opacity/) — Why we cannot observe our own willing
 - [tenets](/tenets/) — The foundational commitments grounding this view
 
 ## References
@@ -239,20 +241,3 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - Desmurget, M. et al. (2009). Movement intention after parietal cortex stimulation. *Science*, 324(5928), 811-813.
 - Sjöberg, R. L. (2024). The readiness potential and the soul: what happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
 - Cramer, J. G. (1986). Transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
-
-<!-- AI REFINEMENT LOG - 2026-02-01
-Changes made:
-- Restructured opening to foreground phenomenological and agent-causal arguments
-- Renamed "Quantum Indeterminacy and the Luck Objection" to "The Agent-Causal Response to Luck" with agent causation as primary response
-- Converted "The Decoherence Challenge" to "The Physical Mechanism Question" presenting quantum as one of several possible mechanisms
-- Renamed section "Consciousness Selects Quantum Outcomes" to "Agent-Causal Selection" emphasizing philosophical over physical claims
-- Softened retrocausality section to not depend on specific quantum interpretation
-- Revised "What Would Challenge This Framework" to separate philosophical core from physical mechanisms
-- Updated "The Picture That Emerges" to emphasize phenomenological evidence
-- Updated description and tenet connections to reflect agent-causal emphasis
-- Throughout: treated quantum selection as one illustrative mechanism rather than THE mechanism
-
-Responding to pessimistic review (2026-01-25) that found quantum Zeno structurally central despite style guide warning against building arguments around speculative mechanisms.
-
-This log should be removed after human review.
--->

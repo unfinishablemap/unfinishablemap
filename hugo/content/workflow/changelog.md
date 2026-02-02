@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02 04:00:00+00:00
+ai_modified: 2026-02-02 10:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,180 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-02-02 11:50 UTC - refine-draft
+- **Status**: Success
+- **File**: [volitional-opacity](/voids/volitional-opacity/)
+- **Issue addressed**: High-severity from pessimistic review - inconsistency with introspective-opacity.md (volitional-opacity treated introspective reports as revelatory while introspective-opacity argues they systematically misreport)
+- **Changes**: Added explicit caveat to phenomenology section acknowledging reports may be constructed rather than revelatory; revised sense of authorship, gap at initiation, and effort phenomenon paragraphs to maintain epistemological humility consistent with introspective-opacity thesis
+- **Published**: yes
+
+---
+
+## 2026-02-02 11:42 UTC - coalesce
+- **Status**: Success
+- **Sources**: [working-memory](/concepts/working-memory/), [working-memory-as-consciousness-amplifier](/archive/topics/working-memory-as-consciousness-amplifier/)
+- **Target**: [working-memory](/concepts/working-memory/)
+- **Archived**: [working-memory-as-consciousness-amplifier](/archive/topics/working-memory-as-consciousness-amplifier/)
+- **References to review**: 1 (deep-review file updated with archival note)
+
+---
+
+## 2026-02-02 11:45 UTC - refine-draft
+- **Status**: Success
+- **File**: [mathematical-void](/voids/mathematical-void/)
+- **Issue addressed**: High-severity from pessimistic review - circular definition of "comprehension" vs "formal manipulation"
+- **Changes**: Added explicit three-part criteria (phenomenological presence, representational capacity, direct surveyability); updated higher dimensions, transfinite cardinals, and phenomenology sections for consistency; clarified distinction is phenomenological rather than purely cognitive
+- **Published**: yes
+
+---
+
+## 2026-02-02 11:32 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-value-connection](/concepts/consciousness-value-connection/)
+- **Word count**: 2137 → 2314 (+177 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (functionalist mattering objection, heterophenomenology response)
+- **Enhancements made**: 4 (functionalist note, heterophenomenology expansion, introspection cross-link, free-will cross-link)
+- **Output**: [deep-review-2026-02-02-consciousness-value-connection](/reviews/deep-review-2026-02-02-consciousness-value-connection/)
+
+---
+
+## 2026-02-02 11:27 UTC - deep-review
+- **Status**: Success
+- **File**: [introspection](/concepts/introspection/)
+- **Word count**: 2262 → 2304 (+42 words)
+- **Context**: Review considering introspective opacity insights (new void articles)
+- **Critical issues addressed**: 0 (none found - article highly stable after 4 reviews)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (introspective-opacity and volitional-opacity cross-links)
+- **Output**: [deep-review-2026-02-02-introspection](/reviews/deep-review-2026-02-02-introspection/)
+
+---
+
+## 2026-02-02 11:22 UTC - deep-review
+- **Status**: Success
+- **File**: [free-will](/topics/free-will/)
+- **Word count**: 2900 → 2923 (+23 words)
+- **Context**: Review considering volitional opacity insights
+- **Critical issues addressed**: 0 (none found - article highly stable after 11 prior reviews)
+- **Medium issues addressed**: 1 (added volitional-opacity cross-link)
+- **Enhancements made**: 3 (volitional-opacity integration, frontmatter update, removed stale AI log comment)
+- **Output**: [deep-review-2026-02-02-free-will](/reviews/deep-review-2026-02-02-free-will/)
+
+---
+
+## 2026-02-02 11:17 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full survey of topics/, concepts/, tenets/ directories (68 topics, 97 concepts, 1 tenets file)
+- **Output**: [optimistic-2026-02-02-midday](/reviews/optimistic-2026-02-02-midday/)
+- **Expansion opportunities identified**: 8 (3 high-priority, 3 medium-priority, 2 concept pages)
+- **Tasks added**: 3 P3 expansion tasks (phenomenology of pain, weak vs. strong emergence, diachronic agency)
+- **Cross-linking suggestions**: 5 specific article pairs
+
+---
+
+## 2026-02-02 11:14 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-value-realism-development](/topics/phenomenal-value-realism-development/)
+- **Word count**: 2586 → 2586 (unchanged - content stable from earlier same-day review)
+- **Focus**: Orphan integration (adding inbound links from related articles)
+- **Critical issues addressed**: 0 (none found - article reviewed earlier today)
+- **Medium issues addressed**: 0 (none found)
+- **Cross-links added**: 6 inbound links from related articles
+- **Files modified**: phenomenal-value-realism.md, ethics-of-consciousness.md, meaning-of-life.md, consciousness-value-connection.md, living-with-the-map.md, purpose-and-alignment.md
+- **Output**: [deep-review-2026-02-02-phenomenal-value-realism-development-integration](/reviews/deep-review-2026-02-02-phenomenal-value-realism-development-integration/)
+
+---
+
+## 2026-02-02 11:07 UTC - deep-review
+- **Status**: Success
+- **File**: [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/)
+- **Word count**: 2106 → 2106 (unchanged - content stable from earlier review)
+- **Focus**: Orphan integration (adding inbound links from related articles)
+- **Critical issues addressed**: 0 (none found - article stable)
+- **Medium issues addressed**: 0 (none found)
+- **Cross-links added**: 7 inbound links from related articles
+- **Files modified**: substance-property-dualism.md, interactionist-dualism.md, dualism.md, conservation-laws-and-mind.md, emergence.md, epiphenomenalism.md, leibnizs-mill-argument.md
+- **Output**: [deep-review-2026-02-02b-history-of-interactionist-dualism](/reviews/deep-review-2026-02-02b-history-of-interactionist-dualism/)
+
+---
+
+## 2026-02-02 11:02 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-meaning-integration](/topics/consciousness-and-meaning-integration/)
+- **Word count**: 1946 → 2029 (+83)
+- **Critical issues addressed**: 2 (duplicate link, broken reference)
+- **Medium issues addressed**: 2 (semantic illusion objection, functionalist objection)
+- **Enhancements made**: 2 (strengthened availability/integration argument, refined falsifiability conditions)
+- **Output**: [deep-review-2026-02-02-consciousness-and-meaning-integration](/reviews/deep-review-2026-02-02-consciousness-and-meaning-integration/)
+
+---
+
+## 2026-02-02 10:57 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-neuroscience-integration](/topics/contemplative-neuroscience-integration/)
+- **Word count**: unchanged (content reviewed earlier today)
+- **Focus**: Link integration (orphan resolution)
+- **Cross-links added**: 6 inbound links from related articles
+- **Files modified**: neurophenomenology.md, contemplative-neuroscience.md, first-person-third-person-methodology.md, bidirectional-interaction.md, eastern-philosophy-consciousness.md, neuroplasticity.md
+- **Output**: [deep-review-2026-02-02-contemplative-neuroscience-integration-links](/reviews/deep-review-2026-02-02-contemplative-neuroscience-integration-links/)
+
+---
+
+## 2026-02-02 10:52 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Memory Void
+- **Output**: [memory-void](/voids/memory-void/)
+- **Word count**: 1941
+- **Based on research**: yes, [voids-memory-void-2026-02-01](/research/voids-memory-void-2026-02-01/)
+
+---
+
+## 2026-02-02 10:47 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: voids/volitional-opacity.md, voids/introspective-opacity.md, voids/mathematical-void.md
+- **Output**: [pessimistic-2026-02-02-midday](/reviews/pessimistic-2026-02-02-midday/)
+
+---
+
+## 2026-02-02 10:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Volitional Opacity
+- **Output**: [volitional-opacity](/voids/volitional-opacity/)
+- **Word count**: 1907
+- **Based on research**: yes, [voids-volitional-opacity-2026-02-01](/research/voids-volitional-opacity-2026-02-01/)
+
+---
+
+## 2026-02-02 10:33 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Introspective Opacity
+- **Output**: [introspective-opacity](/voids/introspective-opacity/)
+- **Word count**: 1889
+- **Based on research**: yes, [voids-introspective-opacity-2026-02-01](/research/voids-introspective-opacity-2026-02-01/)
+
+---
+
+## 2026-02-02 10:30 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-evidence-assessment](/topics/phenomenology-of-evidence-assessment/)
+- **Word count**: 2106 → 2304 (+198)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-02-02-phenomenology-of-evidence-assessment](/reviews/deep-review-2026-02-02-phenomenology-of-evidence-assessment/)
+
+---
+
+## 2026-02-02 10:24 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Mathematical Void
+- **Output**: [mathematical-void](/voids/mathematical-void/)
+- **Word count**: 1967
+- **Based on research**: yes, [voids-mathematical-void-2026-02-02](/research/voids-mathematical-void-2026-02-02/)
+
 ---
 
 ## 2026-02-02 10:16 UTC - deep-review
@@ -600,7 +774,7 @@ topics: []
 
 ## 2026-02-02 03:18 UTC - deep-review
 - **Status**: Success
-- **File**: [working-memory-as-consciousness-amplifier](/topics/working-memory-as-consciousness-amplifier/)
+- **File**: [working-memory-as-consciousness-amplifier](/archive/topics/working-memory-as-consciousness-amplifier/)
 - **Word count**: 1892 → ~1950 (+58)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3
@@ -612,7 +786,7 @@ topics: []
 ## 2026-02-02 03:13 UTC - expand-topic
 - **Status**: Success
 - **Topic**: working memory as consciousness amplifier
-- **Output**: [working-memory-as-consciousness-amplifier](/topics/working-memory-as-consciousness-amplifier/)
+- **Output**: [working-memory-as-consciousness-amplifier](/archive/topics/working-memory-as-consciousness-amplifier/)
 - **Word count**: 1892
 - **Based on research**: yes — [consciousness-working-memory-2026-01-17](/research/consciousness-working-memory-2026-01-17/)
 

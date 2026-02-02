@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-01-30 11:45:00+00:00
+ai_modified: 2026-02-02 11:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -227,6 +227,7 @@ The practical upshot: AI systems should be designed with profound humility about
 - [emotional-consciousness](/archive/concepts/emotional-consciousness/) — The phenomenology of valence and why felt quality matters for alignment
 - [experiential-alignment](/concepts/experiential-alignment/) — The alternative framework targeting experiential quality
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical grounding for consciousness-based value
+- [phenomenal-value-realism-development](/topics/phenomenal-value-realism-development/) — How phenomenal value pluralism addresses the measurement problem and metaethical challenges
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — The broader ethical framework for consciousness
 - [meaning-of-life](/topics/meaning-of-life/) — the Map's treatment of philosophical approaches to life's meaning
 - [ai-consciousness](/topics/ai-consciousness/) — Why the Map holds that AI systems lack consciousness

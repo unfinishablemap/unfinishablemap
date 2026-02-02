@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-02-01 02:28:00+00:00
+ai_modified: 2026-02-02 10:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -273,6 +273,7 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing modes
 - [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Dreams, lucid dreaming, and Tibetan dream yoga
 - [neurophenomenology](/concepts/neurophenomenology/) — The scientific research program bridging contemplative traditions and neuroscience
+- [contemplative-neuroscience-integration](/topics/contemplative-neuroscience-integration/) — How meditation research bridges first-person phenomenology and third-person neuroscience
 - [meaning-of-life](/topics/meaning-of-life/) — Western approaches to significance
 - [nihilism](/archive/concepts/nihilism/) — Compare Buddhist and Western responses to meaninglessness
 - [buddhist-perspectives-meaning-2026-01-06](/research/buddhist-perspectives-meaning-2026-01-06/) — Detailed research notes

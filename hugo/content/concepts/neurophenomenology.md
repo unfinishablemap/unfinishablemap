@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-02 10:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -156,6 +156,7 @@ Meditation exhibits the structure of [self-forming actions](/topics/free-will/):
 ## Further Reading
 
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Empirical evidence from meditation research validating the mutual constraints framework
+- [contemplative-neuroscience-integration](/topics/contemplative-neuroscience-integration/) — How meditation research bridges first-person phenomenology and third-person neuroscience
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno mechanism connecting attention to quantum processes
 - [introspection](/concepts/introspection/) — The reliability debate and process/content distinction
 - [phenomenology](/concepts/phenomenology/) — The philosophical tradition grounding neurophenomenology

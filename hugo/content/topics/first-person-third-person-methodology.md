@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-26 22:15:00+00:00
+ai_modified: 2026-02-02 10:57:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -74,7 +74,7 @@ This framework parallels the Map's interactionist dualism. Neither domain reduce
 
 ### Contemplative Neuroscience as Evidence
 
-Meditation studies provide concrete examples of mutual constraint. Trained meditators give consistent first-person reports of specific attentional states (witness consciousness, non-dual awareness, access concentration). Third-person measurement reveals these states correlate with distinct neural signatures (default mode network modulation, gamma synchrony, frontal-parietal coherence patterns). Neither perspective alone would discover these correlations—first-person training enables reliable phenomenological distinctions; third-person measurement enables neural validation.
+Meditation studies provide concrete examples of mutual constraint. Trained meditators give consistent first-person reports of specific attentional states (witness consciousness, non-dual awareness, access concentration). Third-person measurement reveals these states correlate with distinct neural signatures (default mode network modulation, gamma synchrony, frontal-parietal coherence patterns). Neither perspective alone would discover these correlations—first-person training enables reliable phenomenological distinctions; third-person measurement enables neural validation. See [contemplative-neuroscience-integration](/topics/contemplative-neuroscience-integration/) for detailed treatment of how this integration works in practice.
 
 This demonstrates that with proper training, first-person methods can achieve systematic rigor and intersubjective corroboration. The historical failure of early introspective psychology (Wundt, Titchener produced inconsistent results) reflects inadequate methodology, not the impossibility of rigorous first-person investigation.
 

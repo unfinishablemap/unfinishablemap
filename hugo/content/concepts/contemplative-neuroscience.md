@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-02 10:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -294,6 +294,7 @@ Contemplative neuroscience clarifies but does not close the [explanatory gap](/c
 ## Further Reading
 
 - [Neurophenomenology](/concepts/neurophenomenology/): Varela's framework for integrating first-person and third-person methods through mutual constraints
+- [contemplative-neuroscience-integration](/topics/contemplative-neuroscience-integration/): Comprehensive treatment of how meditation research bridges first-person and third-person perspectives
 - [mental-effort](/concepts/mental-effort/): The phenomenology of effort and Stapp's quantum Zeno mechanism, including Schwartz's OCD neuroplasticity evidence
 - [Witness-consciousness](/concepts/witness-consciousness/): Eastern contemplative traditions' phenomenological framework that meditation cultivates
 - [Voluntary-attention-control](/archive/concepts/voluntary-attention-control/): Neural mechanisms underlying willed vs. instructed vs. exogenous attention

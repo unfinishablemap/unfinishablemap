@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-02 07:43:00+00:00
+ai_modified: 2026-02-02 10:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -71,6 +71,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — What matter is in itself
 - [The Other Minds Void](/voids/other-minds-void/) — Access to consciousness beyond our own
 - [The Intersubjective Void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
+- [The Memory Void](/voids/memory-void/) — Whether past qualia can be recovered or are lost forever
 - [The Unobservable Self](/voids/the-unobservable-self/) — The subject that cannot be its own object
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
 - [The Past-Self Void](/voids/past-self-void/) — The discontinuity of personal identity over time
@@ -90,6 +91,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Limits of Conceptual Acquisition](/voids/conceptual-acquisition-limits/) — What concepts can minds form?
 - [Conceptual Impossibility](/voids/conceptual-impossibility/) — Thoughts that cannot be thought
 - [Computational Cognitive Limits](/voids/computational-cognitive-limits/) — Formal limits on any algorithmic mind
+- [The Mathematical Void](/voids/mathematical-void/) — Where formal manipulation succeeds but understanding fails
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
 - [The Language-Thought Boundary](/voids/language-thought-boundary/) — What cannot be said
 - [Pre-Conceptual Knowing](/voids/pre-conceptual-knowing/) — Knowledge before and beyond concepts

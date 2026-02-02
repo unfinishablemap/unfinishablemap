@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-02 04:46:00+00:00
+ai_modified: 2026-02-02 11:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -193,6 +193,7 @@ If value is grounded in consciousness: the [hard problem](/topics/hard-problem-o
 
 ## Further Reading
 
+- [phenomenal-value-realism-development](/topics/phenomenal-value-realism-development/) — Developing the metaethical foundations: how the view addresses queerness objections, the is-ought gap, and extends to phenomenal value pluralism
 - [experiential-alignment](/concepts/experiential-alignment/) — The operationalization of phenomenal value realism for AI alignment
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why experience has aesthetic quality, and why this resists reduction
 - [meaning-of-life](/topics/meaning-of-life/) — The case that consciousness grounds meaning

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-02 04:46:00+00:00
+ai_modified: 2026-02-02 11:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -204,6 +204,7 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
 - [experiential-alignment](/concepts/experiential-alignment/) — Targeting experience rather than preferences
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical grounding for experiential value
+- [phenomenal-value-realism-development](/topics/phenomenal-value-realism-development/) — How phenomenal value pluralism extends beyond hedonism to address metaethical challenges
 - [emotional-consciousness](/archive/concepts/emotional-consciousness/) — The felt quality of emotion and its ethical implications
 - [illusionism](/concepts/illusionism/) — The challenge from eliminativism about phenomenal consciousness
 - [tenets](/tenets/) — the Map's foundational commitments
