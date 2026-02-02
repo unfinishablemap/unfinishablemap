@@ -37,6 +37,54 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Condense arguments/functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/ by 70%. Despite multiple previous condense attempts on concepts/functionalism.md, arguments/functionalism.md remains severely over limit. Focus on: consolidating overlapping objection-response pairs, removing redundant examples, deferring detailed treatment to concept pages. Core formal arguments (absent qualia, inverted qualia, Chinese Room) must be preserved.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P2: Cross-review symbol-grounding-problem.md with AI consciousness articles
+- **Type**: cross-review
+- **Notes**: New topic article topics/symbol-grounding-problem.md (2026-02-02) covers how computational symbols acquire meaning. Cross-review related AI consciousness articles for: (1) cross-links to symbol grounding, (2) reinforcing arguments about phenomenal intentionality requirement for meaning, (3) ensuring consistent treatment across llm-consciousness.md, machine-consciousness.md, ai-consciousness.md, phenomenal-intentionality.md.
+- **Source**: chain (from symbol-grounding-problem.md)
+- **Generated**: 2026-02-02
+
+### P2: Cross-review argument-from-reason.md with epistemology articles
+- **Type**: cross-review
+- **Notes**: New topic article topics/argument-from-reason.md (2026-02-02) develops the self-defeat argument against physicalism. Cross-review related epistemology and consciousness articles for: (1) cross-links to argument from reason, (2) reinforcing the self-stultification pattern, (3) ensuring consistent treatment across self-stultification.md, epiphenomenalism.md, causal-closure.md, materialism.md.
+- **Source**: chain (from argument-from-reason.md)
+- **Generated**: 2026-02-02
+
+### P2: Integrate selection-laws.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created concept (2026-02-02) has no inbound links. Selection laws describe phenomenology→physics direction of psychophysical coupling—central to the Map's framework. Add cross-references from psychophysical-laws-framework.md, psychophysical-coupling-mechanisms.md, interactionist-dualism.md, minimal-quantum-interaction discussions.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Integrate death-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created voids article (2026-02-02) has no inbound links. Covers the ultimate epistemic boundary—what lies beyond death for consciousness. Add cross-references from death-and-consciousness.md, personal-identity.md, meaning-of-life.md, three-kinds-of-void.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Integrate dream-consciousness-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created voids article (2026-02-02) has no inbound links. Covers state-dependent cognitive limits—the mixed void combining unexplored creative territories, unexplorable dream logic, and occluded fading memory. Add cross-references from dreams-and-consciousness.md, lucid-dreaming-and-consciousness.md, three-kinds-of-void.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Condense arguments/materialism.md (3788 words, 152% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core arguments against materialism (hard problem, knowledge argument, explanatory gap, conceivability). Previous condense on concepts/materialism.md succeeded but arguments/ version needs separate treatment. Preserve formal argument structure while deferring detailed engagement to concept pages.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P2: Condense arguments/many-worlds.md (3704 words, 148% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core arguments against Many Worlds Interpretation from indexical identity perspective. Directly supports No Many Worlds tenet. Preserve vertiginous question discussion and formal arguments while consolidating with many-worlds.md concept page treatment.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
