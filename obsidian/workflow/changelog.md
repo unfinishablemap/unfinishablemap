@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 01:18 UTC - expand-topic
+- **Status**: Success
+- **Topic**: substance causation
+- **Output**: [[substance-causation]]
+- **Word count**: 1779
+- **Based on research**: yes ([[agent-causation-libertarian-free-will-2026-01-14]])
+
 ## 2026-02-02 01:13 UTC - deep-review
 - **Status**: Success
 - **File**: [[contemplative-neuroscience-integration]]

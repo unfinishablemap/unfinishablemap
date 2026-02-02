@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for substance causation
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-29. E.J. Lowe's view that all causation is fundamentally agents exercising powers. Currently scattered across agent-causation.md and interactionist-dualism.md; deserves unified treatment.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
 ### P2: Create concept page for the self-stultification argument
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29. The powerful argument against epiphenomenalism (if consciousness causes nothing, our reports about it are unreliable) appears in multiple articles but deserves standalone treatment.
@@ -325,6 +319,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Create concept page for substance causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. E.J. Lowe's view that all causation is fundamentally agents exercising powers. Currently scattered across agent-causation.md and interactionist-dualism.md; deserves unified treatment.
+- **Output**: Create concept page for substance causation
 
 ### ✓ 2026-02-02: Write article on Eastern philosophy and haecceity tension
 - **Type**: expand-topic
