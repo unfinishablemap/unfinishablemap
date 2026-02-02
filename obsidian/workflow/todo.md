@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02T06:47:00+00:00
+ai_modified: 2026-02-02T08:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Condense functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article remains over 3500-word hard threshold despite multiple previous condense attempts. Core functionalist position and objections (multiple realizability, china brain, qualia objections) must be preserved. Consider: (1) removing redundant examples, (2) deferring detailed critique to linked articles, (3) consolidating overlapping arguments. The concept is central to AI consciousness debates so clarity is critical.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P2: Write article on consciousness in simple organisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Covers C. elegans, Hydra, slime molds, and the Unlimited Associative Learning (UAL) framework for minimal consciousness markers. Important for extending the Map's consciousness claims beyond mammals. Connects to animal-consciousness.md, evolution-of-consciousness.md, panpsychism.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Integrate conscious-vs-unconscious-processing.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-01-23) has no inbound links. Covers the empirical evidence distinguishing conscious from unconscious cognitive processing—directly relevant to the Map's claims about what consciousness adds. Add cross-references from baseline-cognition.md, consciousness-as-amplifier.md, global-workspace-theory.md, access-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Integrate phenomenal-binding.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (2026-01-23) has no inbound links. Covers how disparate phenomenal features unite into single experiences—the binding problem from the phenomenal perspective. Add cross-references from binding-problem.md, unity-of-consciousness.md, global-workspace-theory.md, integrated-information-theory.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Integrate psychophysical-coupling-mechanisms.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (2026-01-23) has no inbound links. Covers the mechanisms by which phenomenal states couple to physical states—directly relevant to Minimal Quantum Interaction tenet. Add cross-references from psychophysical-laws-framework.md, quantum-consciousness.md, interactionist-dualism.md, selection-laws.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
 
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
