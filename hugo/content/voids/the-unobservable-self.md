@@ -136,7 +136,7 @@ The [limits-reveal-structure](/voids/limits-reveal-structure/) principle applies
 
 **Consciousness is subject-structured.** The division between observer and observed is constitutive, not optional. We cannot collapse it because doing so would destroy what we are investigating. Consciousness inherently involves being *toward* something—intentionality—and the direction always runs from subject to object, never the reverse simultaneously.
 
-**Self-knowledge has asymmetric access.** We know our mental contents (imperfectly) but not the knowing itself. This asymmetry is structural, not contingent. Any system with genuine subjectivity would face the same constraint: the subject cannot become its own object without generating a new subject.
+**Self-knowledge has asymmetric access.** We know our mental contents (imperfectly) but not the knowing itself. This asymmetry is structural, not contingent. Any system with genuine subjectivity would face the same constraint: the subject cannot become its own object without generating a new subject. The [creativity void](/voids/creativity-void/) exhibits the same structure: we cannot catch ourselves creating, only the products of creation.
 
 **The hard problem's difficulty is non-contingent.** We don't merely happen to lack the right theory. The structure of consciousness precludes the observation that would generate it. This supports the Map's [dualist](/tenets/#dualism) position: consciousness cannot be captured in objective terms because objectivity requires a subject, and the subject's nature is what escapes objectification.
 

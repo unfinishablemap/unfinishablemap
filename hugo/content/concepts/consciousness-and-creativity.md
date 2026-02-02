@@ -137,7 +137,7 @@ Consciousness and creativity connect directly to multiple tenets:
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: In many-worlds, every possibility is realized somewhere—nothing is genuinely created because everything already exists across branches. Creativity presupposes that some possibilities are actualized while others remain merely possible. Genuine novelty requires that not everything happens.
 
-The creative process may also illuminate [cognitive closure](/concepts/mysterianism/). If creativity involves generating genuinely novel possibilities, and if some of this generation operates through mechanisms our conceptual apparatus cannot fully capture, then our inability to fully explain creativity isn't a temporary gap but may reflect fundamental limits. The felt sense that insight "arrives" rather than being constructed—that "aha!" moments seem to emerge from beyond the reach of introspection—resonates with the mysterian suggestion that some aspects of consciousness exceed our cognitive grasp.
+The creative process may also illuminate [cognitive closure](/concepts/mysterianism/). If creativity involves generating genuinely novel possibilities, and if some of this generation operates through mechanisms our conceptual apparatus cannot fully capture, then our inability to fully explain creativity isn't a temporary gap but may reflect fundamental limits. The felt sense that insight "arrives" rather than being constructed—that "aha!" moments seem to emerge from beyond the reach of introspection—resonates with the mysterian suggestion that some aspects of consciousness exceed our cognitive grasp. The [creativity void](/voids/creativity-void/) explores this territory: why the source of creative insight is phenomenologically hidden, and what this reveals about consciousness.
 
 ## Further Reading
 
@@ -150,6 +150,7 @@ The creative process may also illuminate [cognitive closure](/concepts/mysterian
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding consciousness
 - [neurophenomenology](/concepts/neurophenomenology/) — Contemplative access to the temporal microstructure of creative experience
 - [free-will](/topics/free-will/) — How creativity connects to free action
+- [creativity-void](/voids/creativity-void/) — The void where creative insight originates
 - [consciousness-creativity-novelty-generation-2026-01-19](/research/consciousness-creativity-novelty-generation-2026-01-19/) — Research notes underlying this article
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-02 00:05:00+00:00
+ai_modified: 2026-02-02 12:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Beliefs about where and who you are in the world, distinct from bel
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-02 12:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -90,19 +90,19 @@ Whether self-locating uncertainty behaves like ordinary uncertainty—whether it
 
 ## Self-Location and Many-Worlds
 
-The [many-worlds](/arguments/many-worlds/) interpretation makes all quantum outcomes equally real—when a measurement occurs, the universe branches into all possibilities. This creates a peculiar situation for self-locating beliefs.
+The [many-worlds](/arguments/many-worlds/) interpretation makes all quantum outcomes equally real—when a measurement occurs, the universe branches into all possibilities. This creates a problem for self-locating beliefs.
 
-Before you look at a quantum measurement, there is one you. After branching, there are multiple successors in different branches, each continuous with your pre-measurement self. Everettians propose that your pre-measurement uncertainty about which outcome you'll see is "self-locating uncertainty"—uncertainty about which branch you're in, analogous to Beauty's uncertainty about which awakening she's experiencing.
+Before measurement, there is one you. After branching, there are multiple successors in different branches. Everettians propose that your pre-measurement uncertainty about which outcome you'll see is "self-locating uncertainty"—uncertainty about which branch you're in, analogous to Beauty's uncertainty about which awakening she's experiencing. Wallace, Saunders, and Sebens and Carroll have developed sophisticated accounts along these lines.
 
-The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects this move, for several reasons:
+The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet finds these accounts unsatisfying, for several reasons:
 
 **The framework mismatch**: Self-locating uncertainty normally presupposes a single reality with indexically uncertain facts. Beauty is in *one* awakening; she just doesn't know which. In many-worlds, you end up in *all* branches equally. There is no single branch you're "really" in while being uncertain which it is. The uncertainty framework seems inapplicable when all outcomes occur.
 
 **The haecceitistic problem**: If personal identity is constituted by [haecceity](/concepts/haecceity/)—primitive thisness—then "which branch am I in?" asks about a haecceitistic fact. But many-worlds provides no such facts. All branches are equally real, all successors equally continuous with you. There is nothing to ground the self-locating belief "I am in this branch" rather than "I am in all branches."
 
-**The phenomenological mismatch**: You will experience one definite sequence of outcomes, not multiple incompatible ones. The felt reality of anticipating one future—not many—suggests an indexical fact that many-worlds cannot accommodate.
+**The phenomenological mismatch**: You will experience one definite sequence of outcomes, not multiple incompatible ones. Functionalists might respond that this "felt definiteness" is itself a construction—a narrative the brain creates—rather than evidence of metaphysical uniqueness. But this response must explain why the construction so reliably tracks a single trajectory. The felt reality of anticipating one future suggests an indexical fact that many-worlds cannot accommodate. See [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) for extended treatment.
 
-Self-locating uncertainty in many-worlds faces the dilemma: either there are genuine self-locating facts (which MWI denies) or there is no genuine uncertainty (which makes decision theory inapplicable).
+Self-locating uncertainty in many-worlds faces a dilemma: either there are genuine self-locating facts (which MWI denies by making all branches equally real) or there is no genuine uncertainty (which makes decision theory inapplicable).
 
 ## Implications for Consciousness
 
@@ -161,17 +161,3 @@ Self-locating beliefs connect to several of the Map's [tenets](/tenets/). The co
 - Lewis, D. (2001). "Sleeping Beauty: Reply to Elga." *Analysis*, 61(3), 171-176.
 - List, C. (2022). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340.
 - Perry, J. (1979). "The Problem of the Essential Indexical." *Noûs*, 13(1), 3-21.
-
-<!-- AI REFINEMENT LOG - 2026-02-02
-Changes made:
-- Explicitly distinguished the epistemic thesis (indexical knowledge is irreducible) from the metaphysical thesis (indexical facts are irreducible)
-- Added new section "From Epistemic to Metaphysical: The Case for Indexical Facts" providing three independent arguments for the metaphysical thesis
-- Added acknowledgment after Lewis's Two Gods that the scenario might only establish the epistemic thesis
-- Updated objections section with new objection addressing the epistemic/metaphysical gap
-- Updated "Relation to Site Perspective" to acknowledge dependence on the metaphysical thesis
-
-Based on pessimistic review 2026-02-01 (late) which identified conflation of epistemic and metaphysical claims.
-Key improvements: Articles now explicitly distinguish what Perry/Lewis examples establish (epistemic thesis) from the stronger metaphysical claim the Map requires, and provide independent argument for the metaphysical thesis.
-
-This log should be removed after human review.
--->

@@ -1,9 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-27 19:44:22+00:00
+ai_modified: 2026-02-02 14:04:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
+coalesced_from:
+- /concepts/entanglement-binding-hypothesis/
 concepts:
 - '[[binding-problem]]'
 - '[[phenomenal-unity]]'
@@ -117,7 +119,17 @@ This matches phenomenal unity's structure. Experience does not feel assembled fr
 
 If microtubules in neurons sustain entangled quantum superpositions, and each objective reduction (collapse) of that entangled state constitutes a moment of experience, then the phenomenal unity of that experience would *correspond to* the quantum unity of the underlying state—structure matching structure.
 
-### The Remaining Gap
+### Classical Mechanisms Remain Necessary
+
+The quantum binding hypothesis does not eliminate classical neural mechanisms. Rather, it proposes a division of labour:
+
+**Classical mechanisms (BP1)**: Gamma synchrony, thalamocortical loops, and global workspace dynamics correctly segregate and coordinate features. They ensure "red" binds with "apple" rather than "blue cube."
+
+**Quantum mechanism (BP2)**: Entanglement provides the ontological unity that makes coordinated information feel like one experience rather than parallel processes.
+
+Classical binding operates on the results of feature detection; quantum binding underlies the phenomenal unity of the final experience. Both are necessary; neither is sufficient alone.
+
+## The Remaining Gap
 
 This structural correspondence is significant but not explanatory in the sense that would dissolve the hard problem. Quantum holism is still *physical* holism—mathematical irreducibility in Hilbert space. The question of why *any* physical state, reducible or irreducible, produces phenomenal experience remains open. Classical binding mechanisms fail because they offer only correlation between separate elements; quantum entanglement succeeds in offering genuine physical unity. But the transition from "physically unified state" to "phenomenally unified experience" is not thereby explained—it is relocated.
 

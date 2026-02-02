@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 10:52:00+00:00
+ai_modified: 2026-02-02 12:04:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,7 @@ description: Human+AI exploration of whether past experiences are recoverable or
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-02 12:04:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -38,9 +39,9 @@ This matters because memory is how we preserve our conscious lives. If memory pr
 
 ### The Preservationist Hope
 
-Bergson argued that "the past preserves itself automatically." On this view, the question is not how we remember but how we forget—the past doesn't need to be stored because it simply *is*. Husserl distinguished "primary memory" (retention, the immediate grasp of the just-past) from "secondary memory" (recollection, reaching across forgetfulness). Retentions "sink into the unconscious" but remain "unchanged in content." If this is right, the void may be merely practical: we often fail to remember, but genuine contact with preserved qualia is possible in principle.
+Bergson argued that "the past preserves itself automatically." On this view, the question is not how we remember but how we forget—the past doesn't need to be stored because it simply *is*. Husserl distinguished "primary memory" (retention, the immediate grasp of the just-past held in [working-memory](/concepts/working-memory/)) from "secondary memory" (recollection, reaching across forgetfulness). Retentions "sink into the unconscious" but remain "unchanged in content." If this is right, the void may be merely practical: we often fail to remember, but genuine contact with preserved qualia is possible in principle.
 
-Tulving's concept of [autonoetic consciousness](/concepts/autonoetic-consciousness/)—the awareness accompanying episodic memory—supports this interpretation. "In episodic memory, one does not merely know that the represented event occurred in one's past; one in some sense relives it." The phenomenology of vivid memory feels like re-entering, not constructing. The Proustian moment—when a sensory trigger brings back not just information but experiential texture—seems to punch through to actual past experience.
+Tulving's concept of [autonoetic consciousness](/concepts/autonoetic-consciousness/)—the awareness accompanying episodic memory—supports this interpretation. In episodic memory, one does not merely know that the represented event occurred in one's past; one in some sense relives it. The phenomenology of vivid memory feels like re-entering, not constructing. The Proustian moment—when a sensory trigger brings back not just information but experiential texture—seems to punch through to actual past experience.
 
 ### The Simulationist Challenge
 
@@ -116,7 +117,7 @@ Yet an occluded dimension remains possible. If past experience does persist (in 
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects to whether consciousness could "reach back" to past experience. If consciousness influences physical processes, memory retrieval might involve consciousness re-engaging traces in ways that resurrect original states. But if the original phenomenal state exists only in being undergone, no causal influence from the present could recreate it. The mechanism of genuine access—if it exists—remains utterly mysterious.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** intensifies the void. In many-worlds, all past possibilities continue to exist in parallel branches—but we have no access to them. Our branch's past is uniquely ours but potentially unreachable. Memory presupposes a single actual past: when you remember, you remember something as having actually occurred. The void concerns whether even that unique actual past can be phenomenally re-entered.
+**[No Many Worlds](/tenets/#no-many-worlds)** focuses the question. Memory presupposes a single actual past: when you remember, you remember something as having actually occurred, not one of many equally real alternatives. The void concerns whether that unique actual past—the one sequence of experiences that constitutes your history—can be phenomenally re-entered.
 
 ## What Would Challenge This View?
 

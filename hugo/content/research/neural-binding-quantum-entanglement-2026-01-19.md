@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-19 05:45:00+00:00
+ai_modified: 2026-02-02 13:49:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,8 +10,9 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[integrated-information-theory]]'
 - '[[neural-correlates-of-consciousness]]'
+consumed_by: '[[entanglement-binding-hypothesis]]'
 created: 2026-01-19
-date: &id001 2026-01-19
+date: &id001 2026-02-02
 draft: false
 human_modified: null
 last_curated: null
@@ -20,6 +21,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[binding-problem-consciousness-2026-01-14]]'
+target_section: concepts
 title: 'Research: Neural Binding Mechanisms and Quantum Entanglement Hypothesis'
 topics:
 - '[[hard-problem-of-consciousness]]'

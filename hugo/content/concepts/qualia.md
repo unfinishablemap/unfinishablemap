@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-27 19:00:00+00:00
+ai_modified: 2026-02-02 13:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -81,7 +81,7 @@ Qualia resist complete verbal description. How would you explain the taste of co
 
 ### Directly Apprehensible
 
-Despite being ineffable to others, qualia are immediately known to the one experiencing them. You don't infer that you're in pain—you directly apprehend the painful quality. This direct acquaintance gives qualia a peculiar epistemic status.
+Despite being ineffable to others, qualia are immediately known to the one experiencing them. You don't infer that you're in pain—you directly apprehend the painful quality. This direct acquaintance gives qualia a peculiar epistemic status. See [phenomenological-evidence](/concepts/phenomenological-evidence/) for how this first-person access, when disciplined through training and converging across observers, constitutes genuine evidence for consciousness theories.
 
 ## Qualia in Simple Organisms
 
@@ -99,7 +99,7 @@ The paradigm cases of qualia—redness, pain, taste—are sensory. But phenomeno
 
 The tip-of-the-tongue phenomenon has undeniable phenomenal character: the sense of imminence, the frustration of blocked retrieval. The *feeling* of a word approaching consciousness resists functional reduction. Similarly, the feeling-of-knowing—confidence you would recognise an answer you cannot recall—has qualitative character distinct from the functional access it reflects.
 
-Block's [phenomenal overflow](/voids/pre-conceptual-knowing/#phenomenal-overflow) research strengthens this: phenomenal consciousness exceeds cognitive access. If thinking has proprietary phenomenal character beyond sensory accompaniments—as [liberalism about cognitive phenomenology](/concepts/cognitive-phenomenology/) holds—then qualia pervade cognition, not just sensation.
+Block's [phenomenal overflow](/voids/pre-conceptual-knowing/#phenomenal-overflow) research strengthens this: phenomenal consciousness exceeds cognitive access. If thinking has proprietary phenomenal character beyond sensory accompaniments—as [liberalism about cognitive phenomenology](/concepts/cognitive-phenomenology/) holds—then qualia pervade cognition, not just sensation. The [phenomenal intentionality thesis](/concepts/phenomenal-intentionality/) extends this further: the phenomenal character of thought may be what determines intentional content.
 
 ### Aesthetic Qualia
 
@@ -218,6 +218,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) - Aesthetic qualia resistant to reduction
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - Whether thinking has phenomenal character
 - [minimal-consciousness](/archive/concepts/minimal-consciousness/) - Qualia in simple organisms
+- [affective-void](/voids/affective-void/) - Emotions and affects beyond human phenomenological reach
 
 **Background:**
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) - The broader problem qualia exemplify

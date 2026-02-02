@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 00:51:00+00:00
+ai_modified: 2026-02-02 12:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[introspection]]'
 - '[[intersubjectivity]]'
 - '[[heterophenomenology]]'
+- '[[philosophical-zombies]]'
 created: 2026-02-02
 date: &id001 2026-02-02
 description: First-person reports of conscious experience constitute genuine evidence
@@ -19,6 +20,7 @@ description: First-person reports of conscious experience constitute genuine evi
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-02 12:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +85,7 @@ The status of phenomenological evidence divides into two philosophical camps:
 
 **Neurophenomenological realism** (Varela, Thompson): Treats first-person reports, when gathered rigorously, as evidence about what subjects *actually* experience. Training and convergence transform reports from fallible impressions into genuine evidence about phenomenal reality.
 
-The Map endorses neurophenomenological realism. For consciousness research specifically, heterophenomenology's methodological neutrality faces a problem: if [phenomenal properties](/concepts/qualia/) are real and irreducible (as the [Dualism tenet](/tenets/#dualism) holds), then the methodology's agnosticism about phenomenal reality systematically brackets the very features that need explaining. Heterophenomenology works well for studying beliefs *about* experience; it is less suited for studying the [hard problem](/topics/hard-problem-of-consciousness/)—the qualitative character of experience itself.
+The Map endorses neurophenomenological realism. Heterophenomenology's neutrality faces a dilemma when applied to consciousness research: if [phenomenal properties](/concepts/qualia/) are real and irreducible (as the [Dualism tenet](/tenets/#dualism) holds), then bracketing their existence systematically avoids the central question. Dennett would respond that the hard problem itself is misconceived—that explaining the functional and behavioral phenomena *is* explaining consciousness. But this response presupposes that phenomenal properties reduce to functional ones, which is precisely what the [zombie argument](/concepts/philosophical-zombies/) calls into question. If zombies are conceivable—beings functionally identical to us but lacking experience—then functional explanation cannot exhaust what needs explaining. Heterophenomenology works well for studying beliefs *about* experience; it is less suited for studying the [hard problem](/topics/hard-problem-of-consciousness/)—the qualitative character of experience itself.
 
 ## The Reliability Objection
 
@@ -95,6 +97,8 @@ The phenomenological response distinguishes two targets of introspection:
 - **Phenomenal content**: What we are currently experiencing
 
 Nisbett and Wilson's research targeted access to cognitive *processes*, not phenomenal *content*. The epoché asks "what is being experienced?" not "why?" The reliability critique clarifies rather than defeats phenomenological method: untrained observation of cognitive processes is unreliable, but trained observation of phenomenal content produces convergent evidence.
+
+What would count as evidence *against* phenomenological reliability? If trained observers, using systematic methods, produced persistently divergent reports about the same experiential conditions; if phenomenological predictions failed to correlate with any neural or behavioral measures; if contemplative traditions with rigorous training programs yielded fundamentally incompatible accounts of basic phenomenal structures. The evidence runs the other way: convergence increases with training, predictions succeed, and diverse traditions report similar structures in deep meditative states.
 
 ## Limitations
 

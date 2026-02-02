@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-01-29 19:40:00+00:00
+ai_modified: 2026-02-02 12:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[mysterianism]]'
 - '[[illusionism]]'
 - '[[introspection]]'
+- '[[introspective-opacity]]'
 - '[[decoherence]]'
 - '[[attention]]'
 created: 2026-01-13
@@ -15,7 +16,7 @@ date: &id001 2026-01-20
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 19:40:00+00:00
+last_deep_review: 2026-02-02 12:18:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -54,6 +55,8 @@ Dostoevsky observed: "Try not to think of a polar bear, and you will see that th
 Edmund Husserl identified a deeper pattern: consciousness both forgets its object *and* forgets that it has forgotten. Through what he called "temporal contraction" and "affective fusion," the past withdraws from awareness without leaving a gap. The forgotten becomes "the truly absent past"—not merely unfocused but constitutively withdrawn.
 
 With ordinary forgetting, we notice the gap. We know we've forgotten the name, the appointment, the dream. But double concealment erases the gap itself. We don't know what we don't know. Only indirect evidence—diary entries, others' reports, photographs—reveals that something was there at all.
+
+Double concealment connects to [introspective-opacity](/voids/introspective-opacity/)—the structural limit preventing us from observing our own cognitive processes. We cannot watch ourselves forget. The mechanism of forgetting operates below the threshold of awareness, and when it succeeds completely, it erases evidence of its own operation. This transforms slippage from mere memory failure into something more fundamental: the mind's activity remains opaque even to itself, and some of that activity systematically removes its own traces.
 
 ## Ordinary Versus Deep Slippage
 
@@ -102,7 +105,7 @@ The phenomenology of slippage connects to The Unfinishable Map's [tenets](/tenet
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is most directly supported. If thoughts systematically slip away, our sense of what we can think is biased by survivorship: we only know what sticks. When we prefer simpler theories of consciousness, we may be selecting from survivors—ideas stable enough to be articulated—while genuinely novel content slipped away before it could compete.
 
-**[Dualism](/tenets/#dualism)** receives indirect support through content-specific slippage. If thoughts about consciousness reliably slip more than thoughts about practical matters, the dualist interpretation: such thoughts approach something real that exceeds physical description, and slippage occurs because consciousness is not what neural machinery evolved to stably represent.
+**[Dualism](/tenets/#dualism)** receives indirect support through content-specific slippage. If thoughts about consciousness reliably slip more than thoughts about practical matters, the dualist interpretation: such thoughts approach something real that exceeds physical description. This aligns with [McGinn's cognitive closure thesis](/concepts/mysterianism/)—our minds may lack the cognitive architecture to stably represent consciousness, so thoughts about it slip precisely because they strain against structural limits.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through the practices that resist slippage. We *choose* to document insights before they fade. The very act of investigating slippage demonstrates causal efficacy: consciousness deliberately influences physical processes to preserve what would otherwise slip.
 
@@ -131,6 +134,7 @@ The evidence for content-specific slippage remains suggestive rather than conclu
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
+- [Introspective Opacity](/voids/introspective-opacity/) — Why we cannot observe our own cognitive processes
 - [Apophatic Approaches](/voids/apophatic-approaches/) — Methods for knowing through negation
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits

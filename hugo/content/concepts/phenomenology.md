@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-01 07:33:00+00:00
+ai_modified: 2026-02-02 13:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -97,7 +97,7 @@ Gallagher and Zahavi identify this as the [minimal self](/concepts/self-and-cons
 
 Critics object that phenomenological reports cannot be trusted. Nisbett and Wilson showed people confabulate explanations for choices; Schwitzgebel catalogued domains where [introspection](/concepts/introspection/) fails.
 
-The phenomenological response: Nisbett and Wilson targeted access to cognitive *processes*, not phenomenal *content*. The epoché asks "what is being experienced?" not "why?" Moreover, Fox et al. (2012) found meditation experience predicts introspective accuracy—untrained observation is unreliable, but trained observation is a skill like any other. Petitmengin's microphenomenology provides interview techniques specifically designed to minimize confabulation. The critique clarifies rather than defeats phenomenological method: disciplined observation requires training.
+The phenomenological response: Nisbett and Wilson targeted access to cognitive *processes*, not phenomenal *content*. The epoché asks "what is being experienced?" not "why?" Moreover, Fox et al. (2012) found meditation experience predicts introspective accuracy—untrained observation is unreliable, but trained observation is a skill like any other. Petitmengin's microphenomenology provides interview techniques specifically designed to minimize confabulation. The critique clarifies rather than defeats phenomenological method: disciplined observation requires training. See [phenomenological-evidence](/concepts/phenomenological-evidence/) for detailed criteria distinguishing reliable from unreliable first-person reports.
 
 ## Intersubjective Validation
 

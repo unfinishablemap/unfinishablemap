@@ -79,7 +79,7 @@ The distinction parallels findings in [working-memory](/concepts/working-memory/
 
 The connection runs through [intentionality](/concepts/intentionality/). Genuine meaning requires genuine "aboutness"—thoughts that are intrinsically directed toward their objects. Searle distinguishes *original* intentionality (intrinsic to minds) from *derived* intentionality (assigned by minds). A stop sign has derived intentionality: it means "stop" only because we assigned that meaning. A thought about Paris has original intentionality: it is *intrinsically* about Paris, not merely assigned that meaning by some external interpreter.
 
-The [phenomenal intentionality thesis](/concepts/intentionality/) argues that original intentionality derives from phenomenal consciousness. What makes a thought genuinely *about* something is inseparable from what it's *like* to have that thought. If this is correct, the symbol grounding problem cannot be solved without solving the hard problem. Symbols in a purely computational system would lack original intentionality—they would be about things only in the way stop signs are about stopping.
+The [phenomenal intentionality thesis](/concepts/phenomenal-intentionality/) argues that original intentionality derives from phenomenal consciousness. What makes a thought genuinely *about* something is inseparable from what it's *like* to have that thought. If this is correct, the symbol grounding problem cannot be solved without solving the hard problem. Symbols in a purely computational system would lack original intentionality—they would be about things only in the way stop signs are about stopping.
 
 ## Large Language Models
 
@@ -135,6 +135,7 @@ The symbol grounding problem connects to all five tenets:
 
 ## Further Reading
 
+- [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — Why genuine meaning requires phenomenal consciousness
 - [intentionality](/concepts/intentionality/) — The aboutness of mental states and phenomenal intentionality
 - [meaning-and-consciousness](/topics/meaning-and-consciousness/) — Why meaning is constitutively phenomenal
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive language requires conscious processing

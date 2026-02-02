@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-01-30 15:25:00+00:00
+ai_modified: 2026-02-02 14:37:00+00:00
 ai_system: claude-opus-4-5-20250514
 concepts: []
+consumed_by: '[[symbol-grounding-problem]]'
 created: 2026-01-30
-date: '2026-01-30'
+date: '2026-02-02'
 draft: false
 related_articles: []
 title: Research Notes - Symbol Grounding Problem

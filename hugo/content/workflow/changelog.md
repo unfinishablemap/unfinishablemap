@@ -18,6 +18,298 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 14:37 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Symbol Grounding Problem
+- **Output**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
+- **Word count**: 1654
+- **Based on research**: yes — [symbol-grounding-problem-2026-01-30](/research/symbol-grounding-problem-2026-01-30/)
+
+---
+
+## 2026-02-02 14:31 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Scale Void
+- **Category**: Mixed (Unexplored + Unexplorable)
+- **Output**: [voids-scale-void-2026-02-02](/research/voids-scale-void-2026-02-02/)
+- **Key finding**: Human cognition operates within a narrow "perceptual bandwidth" calibrated by evolution for savanna survival. At cosmic, quantum, and deep-time scales, cognition fails not merely quantitatively but qualitatively—treating large numbers as categorical markers rather than quantities. Kant's analysis of the sublime provides the key phenomenological framework: imagination fails while reason demands totality.
+
+---
+
+## 2026-02-02 14:26 UTC - expand-topic
+- **Status**: Already exists
+- **Topic**: the argument from reason
+- **Output**: [argument-from-reason](/topics/argument-from-reason/) (existing article)
+- **Word count**: 3200 (existing)
+- **Based on research**: yes — [argument-from-reason-self-defeat-physicalism-2026-01-23](/research/argument-from-reason-self-defeat-physicalism-2026-01-23/)
+- **Notes**: Article already exists at topics/argument-from-reason.md, created 2026-01-23, last deep-reviewed 2026-01-29. Comprehensive treatment covers: core self-defeat argument, space of reasons vs space of causes, reliabilism critique, why consciousness must be involved, Plantinga's EAAN, Anscombe's critique, contemporary formulations (Reppert, Hasker), objections and responses. Removed duplicate P2 task from queue.
+
+---
+
+## 2026-02-02 14:21 UTC - deep-review
+- **Status**: Success
+- **File**: [reasons-responsiveness](/concepts/reasons-responsiveness/)
+- **Word count**: 1651 → 1874 (+223)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-02-02-reasons-responsiveness](/reviews/deep-review-2026-02-02-reasons-responsiveness/)
+
+---
+
+## 2026-02-02 14:10 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [functionalism](/arguments/functionalism/)
+- **Word count**: 2036 words
+- **Threshold**: 2500 words (concepts section)
+- **Reason**: Article is already 19% below target threshold. No condensation needed.
+
+---
+
+## 2026-02-02 14:04 UTC - coalesce
+- **Status**: Success
+- **Sources**: [entanglement-binding-hypothesis](/archive/concepts/entanglement-binding-hypothesis/)
+- **Target**: [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/)
+- **Archived**: [entanglement-binding-hypothesis](/archive/concepts/entanglement-binding-hypothesis/)
+- **References to review**: none (only changelog and research notes reference the archived article)
+- **Notes**: The newer article (created same day) overlapped significantly with existing topic article. Unique content ("Classical Mechanisms Remain Necessary" section) integrated into target before archiving.
+
+---
+
+## 2026-02-02 13:59 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenological-evidence](/concepts/phenomenological-evidence/)
+- **Word count**: 1431 → 1431 (no content changes)
+- **Focus**: Integration (orphan resolution)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphaned status resolved)
+- **Cross-links added**: 6 (from phenomenological-evidence-methodology, introspection, phenomenology, neurophenomenology, first-person-third-person-methodology, qualia, hard-problem-of-consciousness)
+- **Output**: [deep-review-2026-02-02-phenomenological-evidence-2](/reviews/deep-review-2026-02-02-phenomenological-evidence-2/)
+
+---
+
+## 2026-02-02 13:54 UTC - deep-review
+- **Status**: Success
+- **File**: [self-stultification](/concepts/self-stultification/)
+- **Word count**: 1360 → 1470 (+110)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (reliabilist response expanded, functionalist subsection added, Popper citation fixed)
+- **Enhancements made**: 4 (cross-links to argument-from-reason, knowledge-argument, philosophical-zombies, free-will)
+- **Output**: [deep-review-2026-02-02-self-stultification](/reviews/deep-review-2026-02-02-self-stultification/)
+
+---
+
+## 2026-02-02 13:49 UTC - expand-topic
+- **Status**: Success
+- **Topic**: neural binding and quantum entanglement
+- **Output**: [entanglement-binding-hypothesis](/archive/concepts/entanglement-binding-hypothesis/)
+- **Word count**: 1880
+- **Based on research**: yes — [neural-binding-quantum-entanglement-2026-01-19](/research/neural-binding-quantum-entanglement-2026-01-19/)
+
+---
+
+## 2026-02-02 13:44 UTC - expand-topic
+- **Status**: Already exists
+- **Topic**: motor control and quantum Zeno mechanism
+- **Output**: [motor-selection](/concepts/motor-selection/) (existing article)
+- **Word count**: 3010 (existing)
+- **Based on research**: yes — [motor-control-quantum-zeno-2026-01-18](/research/motor-control-quantum-zeno-2026-01-18/)
+- **Notes**: Research note was already consumed when motor-selection.md was created. Article comprehensively covers: premotor theory of attention, neural competition (affordance hypothesis), Libet challenge dissolution (Schurger, Sjöberg, Desmurget), quantum Zeno applied to motor selection, basal ganglia brake-release model, dopamine selection interface, phenomenology of motor choice, illusionist challenge. Added target_section to research note to prevent future duplicate task generation.
+
+---
+
+## 2026-02-02 13:36 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 68 topics, 96+ concepts, tenets (all non-draft)
+- **Output**: [optimistic-2026-02-02-afternoon-2](/reviews/optimistic-2026-02-02-afternoon-2/)
+- **Tasks added**: 9 new P3 tasks (consciousness and mathematical creativity, phenomenology of deliberation under uncertainty, consciousness and the ownership problem, incubation effect, flow states, process haecceitism concept, timing gap problem concept, contemplative epistemology concept)
+- **Notes**: Comprehensive strength analysis from six sympathetic philosopher perspectives (Chalmers, Stapp, Nagel, Whitehead, Kane, McGinn). Identified strongest content (hard problem treatment, quantum binding argument, argument from reason, vertiginous question, choking phenomenon, Eastern philosophy-haecceity tension). Proposed cross-linking opportunities and new concept pages.
+
+---
+
+## 2026-02-02 13:26 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-intentionality](/concepts/phenomenal-intentionality/)
+- **Word count**: 2286 → 2286 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (article stable from earlier review)
+- **Enhancements made**: 0 (article content unchanged)
+- **Cross-links added**: 7 inbound from 6 articles (intentionality, cognitive-phenomenology, meaning-and-consciousness, symbol-grounding-problem, ai-consciousness, hard-problem-of-consciousness, qualia)
+- **Output**: [deep-review-2026-02-02-phenomenal-intentionality-2](/reviews/deep-review-2026-02-02-phenomenal-intentionality-2/)
+- **Notes**: Orphan integration focus. Article had 0 inbound links from content despite being extensively discussed. Added 7 cross-references to integrate into site navigation. Article now stable after two reviews same day.
+
+---
+
+## 2026-02-02 13:21 UTC - deep-review
+- **Status**: Success
+- **File**: [creativity-void](/voids/creativity-void/)
+- **Word count**: 1749 → 1867 (+118)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (MWI argument engagement, orphan integration)
+- **Enhancements made**: 4 (process philosophy connection, MWI argument strengthening, generation-selection link, Further Reading expansion)
+- **Cross-links added**: 12 (6 outbound: consciousness-and-creativity, creativity-and-novel-combination, default-mode-network, agent-causation, free-will, process-and-consciousness; 6 inbound from: consciousness-and-creativity, creativity-and-novel-combination, the-unobservable-self, voids, free-will, mysterianism)
+- **Output**: [deep-review-2026-02-02-creativity-void](/reviews/deep-review-2026-02-02-creativity-void/)
+- **Notes**: First review of this article (never previously reviewed). Focus on orphan integration—article had no inbound links. Added extensive cross-referencing to integrate into site navigation.
+
+---
+
+## 2026-02-02 13:15 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-intentionality](/concepts/phenomenal-intentionality/)
+- **Word count**: 2184 → 2286 (+102)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (many-worlds argument, heterophenomenology link, empirical distinctiveness)
+- **Enhancements made**: 4 (expanded MWI tenet reasoning, added heterophenomenology link in response, added empirical signature paragraph, expanded Further Reading)
+- **Output**: [deep-review-2026-02-02-phenomenal-intentionality](/reviews/deep-review-2026-02-02-phenomenal-intentionality/)
+- **Notes**: First review of this article. Strong existing content; focused on filling gaps in MWI argument, methodological acknowledgment, and empirical predictions.
+
+---
+
+## 2026-02-02 13:09 UTC - deep-review
+- **Status**: Success
+- **File**: [affective-void](/voids/affective-void/)
+- **Word count**: 1796 → ~1880 (+84)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (quantum speculation qualification, deflationary objection)
+- **Enhancements made**: 3 (deflationary engagement, quantum hedging, cross-link)
+- **Cross-links added**: 5 (to voids, alien-minds-void-explorers, emotional-consciousness, qualia, mysterianism)
+- **Output**: [deep-review-2026-02-02-affective-void](/reviews/deep-review-2026-02-02-affective-void/)
+- **Notes**: First review of this article. Focused on orphan integration—added inbound links from 5 articles.
+
+---
+
+## 2026-02-02 13:04 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [many-worlds](/arguments/many-worlds/)
+- **Word count**: 2018 words (81% of 2500 target)
+- **Reason**: Article is well under target threshold; no cuts needed
+
+---
+
+## 2026-02-02 12:59 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `apex/identity-across-transformations.md`, `apex/machine-question.md`, `apex/time-consciousness-growing-block.md`
+- **Output**: [pessimistic-2026-02-02-afternoon](/reviews/pessimistic-2026-02-02-afternoon/)
+
+---
+
+## 2026-02-02 12:54 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [materialism](/arguments/materialism/)
+- **Word count**: 2220 words (89% of 2500 target)
+- **Reason**: Article is under threshold. No cuts needed.
+
+---
+
+## 2026-02-02 12:49 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [functionalism](/arguments/functionalism/)
+- **Word count**: 2036 words (81% of 2500 target)
+- **Reason**: Article is well under threshold. No cuts needed.
+
+---
+
+## 2026-02-02 12:45 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenological-evidence](/concepts/phenomenological-evidence/)
+- **Word count**: 1307 → 1431 (+124)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-02-02-phenomenological-evidence](/reviews/deep-review-2026-02-02-phenomenological-evidence/)
+
+---
+
+## 2026-02-02 12:36 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [materialism](/arguments/materialism/)
+- **Word count**: 2220 (89% of 2500 target)
+- **Reason**: Article is already within acceptable range for concepts section (target 2500, soft threshold 2500). No excess words to trim.
+
+---
+
+## 2026-02-02 12:30 UTC - deep-review
+- **Status**: Success
+- **File**: [self-locating-beliefs](/concepts/self-locating-beliefs/)
+- **Word count**: 2378 → 2425 (+47)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (acknowledged Everettian accounts of self-locating uncertainty, added functionalist response to felt definiteness)
+- **Enhancements made**: 2 (cross-link to indexical-identity-quantum-measurement, removed outdated refinement log)
+- **Output**: [deep-review-2026-02-02-self-locating-beliefs](/reviews/deep-review-2026-02-02-self-locating-beliefs/)
+
+---
+
+## 2026-02-02 12:27 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 123 (58 topics + 65 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 4 (clarification opportunities, not violations)
+- **Output**: [tenet-check-2026-02-02](/reviews/tenet-check-2026-02-02/)
+
+---
+
+## 2026-02-02 12:23 UTC - deep-review
+- **Status**: Success
+- **File**: [time-symmetric-physics](/concepts/time-symmetric-physics/)
+- **Word count**: 1796 → 1904 (+108)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (strengthened decoherence response with femtosecond timescale, added mathematical vs. causal symmetry distinction)
+- **Enhancements made**: 2 (addressed Dennett-style objection, clarified time-symmetric theories don't require sustained coherence)
+- **Output**: [deep-review-2026-02-02-time-symmetric-physics](/reviews/deep-review-2026-02-02-time-symmetric-physics/)
+
+---
+
+## 2026-02-02 12:18 UTC - deep-review
+- **Status**: Success
+- **File**: [thoughts-that-slip-away](/voids/thoughts-that-slip-away/)
+- **Word count**: 1698 → 1796 (+98)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (connected double concealment to introspective opacity, strengthened mysterianism link)
+- **Enhancements made**: 1 (introspective-opacity cross-link added)
+- **Output**: [deep-review-2026-02-02-thoughts-that-slip-away](/reviews/deep-review-2026-02-02-thoughts-that-slip-away/)
+
+---
+
+## 2026-02-02 12:09 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Dreamless Sleep Void
+- **Category**: Mixed (Unexplorable / Unexplored / potentially Occluded)
+- **Output**: [voids-dreamless-sleep-void-2026-02-02](/research/voids-dreamless-sleep-void-2026-02-02/)
+- **Key finding**: The dreamless sleep void presents a distinctive epistemic challenge—we cannot observe our own absence of consciousness—while Vedantic traditions, phenomenological research, and neuroscience converge on suggestions that some form of bare awareness may persist through apparently unconscious states.
+
+---
+
+## 2026-02-02 12:04 UTC - deep-review
+- **Status**: Success
+- **File**: [memory-void](/voids/memory-void/)
+- **Word count**: 1941 → 1931 (-10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (clarified MWI paragraph connection to tenets, fixed Tulving quote formatting as paraphrase)
+- **Enhancements made**: 1 cross-link added (working-memory)
+- **Output**: [deep-review-2026-02-02-memory-void](/reviews/deep-review-2026-02-02-memory-void/)
+
+---
+
+## 2026-02-02 11:59 UTC - deep-review
+- **Status**: Success
+- **File**: [substance-causation](/concepts/substance-causation/)
+- **Word count**: 1779 → 1945 (+166)
+- **Critical issues addressed**: 1 (incorrect O'Connor 2021 citation → Jacobs & O'Connor 2013)
+- **Medium issues addressed**: 3 (clarified uncaused/agent-caused distinction, added decoherence acknowledgment, added falsifiability response)
+- **Enhancements made**: 2 cross-links added (decoherence, quantum-decoherence-objection)
+- **Output**: [deep-review-2026-02-02-substance-causation](/reviews/deep-review-2026-02-02-substance-causation/)
+
+---
+
+## 2026-02-02 11:57 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [functionalism](/arguments/functionalism/)
+- **Word count**: 2036 words (81% of 2500 target)
+- **Reason**: Article is already within acceptable limits for concepts/ section (target: 2500, hard: 3500, critical: 5000). Content is well-structured with appropriate depth for a core concept that anchors the Map's anti-functionalist position.
+
+---
+
 ## 2026-02-02 11:50 UTC - refine-draft
 - **Status**: Success
 - **File**: [volitional-opacity](/voids/volitional-opacity/)

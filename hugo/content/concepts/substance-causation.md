@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 01:18:00+00:00
+ai_modified: 2026-02-02 11:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,6 +18,7 @@ description: Substance causation holds that substances, not events, are the fund
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-02 11:59:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +59,7 @@ E.J. Lowe developed the most systematic contemporary defence of substance causat
 
 **Free agents as unmoved movers**: Lowe argues that free agents are "unmoved movers, or initiators of new causal chains." When you make a choice, *you* initiate the causal chain—there's no prior event that determines your choice. The agent is the ultimate source.
 
-**Volitions as uncaused**: Lowe holds that volitions (acts of will) are uncaused events caused by the agent. The volition has no prior event cause; the agent produces it directly. This is controversial—it seems to posit brute unexplained events—but Lowe argues this is what genuine agency requires.
+**Volitions as uncaused by events**: Lowe holds that volitions (acts of will) have no *event-cause*—no prior event determines them—but they do have an *agent-cause*: the agent produces them directly. This distinction matters: "uncaused" means uncaused by events, not uncaused simpliciter. Critics find this controversial—it seems to posit brute unexplained events—but Lowe argues this is what genuine agency requires: the agent, not a prior event, is the explanation.
 
 ## Why Substance Causation Matters for Consciousness
 
@@ -77,7 +78,7 @@ The conceptual relationship:
 - Agent causation is substance causation in the domain of free will
 - The conscious subject is the paradigmatic substance exercising causal powers
 
-Timothy O'Connor's recent work (2021) develops this connection explicitly, treating all causation as substance causation in a neo-Aristotelian framework. On this view, agent causation isn't philosophically peculiar—it exemplifies what causation fundamentally is.
+Jonathan Jacobs and Timothy O'Connor's work (2013) develops this connection explicitly, treating all causation as substance causation in a neo-Aristotelian framework. On this view, agent causation isn't philosophically peculiar—it exemplifies what causation fundamentally is.
 
 ## The Causal Closure Question
 
@@ -86,6 +87,8 @@ Kim's exclusion argument against [mental causation](/concepts/mental-causation/)
 Substance causation shifts the dialectic. The question isn't whether physical *events* are sufficient but whether physical *substances* are the only substances with causal powers. Physics describes regularities in what substances do; it doesn't prove that only physical substances exist.
 
 The Map's quantum framework strengthens this response. At quantum indeterminacies, physics specifies probabilities but not outcomes—there's no sufficient physical cause because physics is genuinely incomplete there. Consciousness as substance exercises powers precisely at these openings. The exclusion argument fails because its key premise fails: physical events *don't* have sufficient physical causes at quantum measurement.
+
+This quantum proposal faces the [decoherence](/concepts/decoherence/) objection: quantum coherence in warm brains supposedly decays too fast for conscious influence. The Map's response (detailed in [quantum decoherence objection](/concepts/quantum-decoherence-objection/)) involves the scale of quantum effects and the possibility that consciousness operates at timescales compatible with neural quantum processes.
 
 ## Challenges to Substance Causation
 
@@ -96,6 +99,8 @@ If substances cause events by exercising powers, what role do laws play? Scienti
 Lowe's response: laws describe what substances of certain kinds tend to do given their powers and liabilities. They're *descriptive* of substance activity, not *productive* of it. The match ignites the wood because of what matches and wood are, not because a law makes them behave that way.
 
 Critics worry this makes laws mysterious. Why do substances of the same kind behave similarly? Without laws playing a productive role, the regularities seem unexplained.
+
+A related concern: what would *falsify* substance causation? If it offers no predictions distinct from event causation, critics charge it's not an empirical hypothesis but a metaphysical preference. The substance causalist response: metaphysical frameworks are evaluated by explanatory power, coherence, and fit with data—not by unique predictions. Substance causation fits better with the phenomenology of agency and solves problems (like mental causation) that event causation notoriously struggles with. These are reasons for acceptance even without a crucial experiment.
 
 ### The Agent Problem
 
@@ -123,7 +128,7 @@ Substance causation has deep roots:
 
 **Lowe**: E.J. Lowe (2008) systematised this into a comprehensive metaphysics where substance causation is fundamental and event causation derivative.
 
-**Neo-Aristotelian revival**: Recent work (O'Connor 2021, Marmodoro, Jacobs) develops substance causation within contemporary analytic metaphysics, treating causal powers as fundamental features of substances.
+**Neo-Aristotelian revival**: Recent work (Jacobs & O'Connor 2013, Marmodoro 2017, and others) develops substance causation within contemporary analytic metaphysics, treating causal powers as fundamental features of substances.
 
 ## Relation to Site Perspective
 
@@ -150,6 +155,8 @@ Substance causation provides the metaphysical foundation for the Map's position 
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body
 - [free-will](/topics/free-will/) — The broader question
 - [emergence](/concepts/emergence/) — Related concept of novel causal powers
+- [decoherence](/concepts/decoherence/) — The quantum challenge to consciousness-brain interaction
+- [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — The Map's response to decoherence concerns
 
 ## References
 
@@ -159,7 +166,6 @@ Substance causation provides the metaphysical foundation for the Map's position 
 - Lowe, E.J. (2001). "Event Causation and Agent Causation." *Grazer Philosophische Studien*, 61: 1-20.
 - Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
 - Marmodoro, A. (2017). "Aristotelian Powers at Work." In J. Jacobs (Ed.), *Causal Powers*. Oxford University Press.
-- O'Connor, T. (2000). *Persons and Causes*. Oxford University Press.
-- O'Connor, T. (2021). Neo-Aristotelian agent causation framework.
+- O'Connor, T. (2000). *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press.
 - Reid, T. (1788). *Essays on the Active Powers of Man*.
 - Swinburne, R. (1997). *The Evolution of the Soul*. Oxford University Press.

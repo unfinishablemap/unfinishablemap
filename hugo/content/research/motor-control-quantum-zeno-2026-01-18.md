@@ -3,9 +3,10 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-18
-date: '2026-01-20'
+date: '2026-02-02'
 draft: false
 related_articles: []
+target_section: concepts/motor-selection
 title: Research Notes - Motor Control and the Quantum Zeno Framework
 ---
 

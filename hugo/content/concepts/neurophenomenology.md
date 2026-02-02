@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-02 10:57:00+00:00
+ai_modified: 2026-02-02 13:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -94,7 +94,7 @@ Neurophenomenology responds:
 3. **Convergent findings**: Microphenomenological interviews produce replicable fine-grained categories across subjects.
 4. **Predictive power**: First-person reports from trained observers predict neural signatures that untrained reports do not.
 
-This does not make introspection infallible. But rigorous methods produce reliable results.
+This does not make introspection infallible. But rigorous methods produce reliable results. [Phenomenological evidence](/concepts/phenomenological-evidence/) gains credibility through training, intersubjective convergence, temporal stability, and predictive power—the same criteria neurophenomenology employs.
 
 ## The Illusionist Challenge
 

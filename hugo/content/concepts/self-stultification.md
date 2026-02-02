@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 03:50:00+00:00
+ai_modified: 2026-02-02 13:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,6 +19,7 @@ description: A position is self-stultifying when accepting it undermines the rat
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-02 13:54:00+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
@@ -93,13 +94,17 @@ The argument from reason argues that physicalism is self-stultifying because rat
 
 Reliabilists argue that a belief can be justified if it's produced by a reliable process—one that regularly generates true beliefs. Perhaps neural processes reliably track truth even without consciousness playing a causal role.
 
-This response faces the objection that reliability itself is a normative concept. What makes a process "reliable"? It produces true beliefs. But truth is how beliefs *ought* to be, not just how they happen to be. The reliabilist account presupposes the normative concepts it claims to naturalize.
+This response faces the objection that reliability itself is a normative concept. What makes a process "reliable"? It produces true beliefs. But truth is how beliefs *ought* to be, not just how they happen to be—a statistical correlation between neural outputs and world states isn't the same as beliefs being *justified*. The reliabilist account presupposes the normative concepts it claims to naturalize. The [argument-from-reason](/topics/argument-from-reason/) develops this challenge in detail.
 
 ### The Coincidence Response
 
 The epiphenomenalist might accept that the correlation between consciousness and accurate reports is coincidental but argue that we're simply lucky—our reports happen to track our experiences even without causal connection.
 
 This strains credulity. The tracking is remarkably precise: pain accompanies injury, not pleasure; fear accompanies danger, not safety; beliefs about red correlate with red experiences, not blue ones. Such systematic correlation without causal connection would be extraordinary coincidence.
+
+### The Functionalist Dissolution
+
+Functionalists argue that the problem dissolves if consciousness *is* the functional organization that tracks and reports on mental states. On this view, there's no gap between consciousness and the processes that produce accurate reports—they're the same thing. But this move requires denying that phenomenal character is anything over and above functional organization, which the [knowledge-argument](/concepts/knowledge-argument/) and [conceivability arguments](/concepts/philosophical-zombies/) challenge.
 
 ### Distinguishing Self-Defeat from Refutation
 
@@ -117,7 +122,7 @@ In the philosophy of mind, the argument gained prominence through:
 
 - **William James** (1879): Argued that epiphenomenalism makes consciousness an inexplicable "side effect" that couldn't have evolved.
 - **C.S. Lewis** (1947): Applied self-defeat reasoning to naturalism in *Miracles*, substantially revised after Elizabeth Anscombe's critique.
-- **Karl Popper** (1950s): Argued that determinism undermines rational evaluation.
+- **Karl Popper** (1977): Argued with John Eccles in *The Self and Its Brain* that determinism undermines rational evaluation.
 - **Alvin Plantinga** (1993): Developed the evolutionary argument against naturalism, a related self-defeat structure.
 - **Victor Reppert** (2003): Provided comprehensive defense of the argument from reason.
 
@@ -138,6 +143,7 @@ The argument also supports the [Occam's Razor Has Limits](/tenets/#occams-limits
 - [introspection](/concepts/introspection/) — Whether self-knowledge requires causal connection
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's tenet that consciousness causes things
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework that escapes self-stultification
+- [free-will](/topics/free-will/) — Self-stultification extends to libertarian free will: choices disconnected from reasons aren't rationally authored
 - [arguments-for-dualism](/concepts/arguments-for-dualism/) — Multiple arguments converging on irreducibility
 
 ## References

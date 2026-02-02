@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-02-02 04:04:00+00:00
+ai_modified: 2026-02-02 13:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -114,7 +114,7 @@ The gap is not about missing information. Complete physical description fails to
 
 ## Phenomenological Evidence: The Witness
 
-The explanatory gap has a phenomenological correlate. [Witness consciousness](/concepts/witness-consciousness/)—the capacity to observe one's own thoughts as objects of awareness—reveals that the observing subject always retreats beyond any attempt to objectify it. Mental contents become objects; what witnesses them is not itself a thought or sensation. The witness has only first-person givenness and cannot be observed from outside.
+The explanatory gap has a [phenomenological](/concepts/phenomenological-evidence/) correlate. [Witness consciousness](/concepts/witness-consciousness/)—the capacity to observe one's own thoughts as objects of awareness—reveals that the observing subject always retreats beyond any attempt to objectify it. Mental contents become objects; what witnesses them is not itself a thought or sensation. The witness has only first-person givenness and cannot be observed from outside.
 
 These features of experience resist assimilation into physical description. See [witness-consciousness](/concepts/witness-consciousness/) for the full analysis.
 
@@ -150,7 +150,7 @@ The Map's response: consciousness is located where it causally interfaces with t
 
 Beyond qualitative character, consciousness has another dimension resisting physical explanation: [intentionality](/concepts/intentionality/), the "aboutness" of mental states. Beliefs are *about* things; fears are *directed at* objects. Thoughts can be about things that don't exist.
 
-Phenomenal Intentionality Theory proposes that intentionality derives from phenomenal consciousness—explaining "aboutness" requires first solving the hard problem. See [intentionality](/concepts/intentionality/) for the full analysis.
+[Phenomenal Intentionality Theory](/concepts/phenomenal-intentionality/) proposes that intentionality derives from phenomenal consciousness—explaining "aboutness" requires first solving the hard problem. See [intentionality](/concepts/intentionality/) for the full analysis.
 
 ## The Zombie Thought Experiment
 

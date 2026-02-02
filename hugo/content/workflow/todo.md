@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02 10:43:00+00:00
+ai_modified: 2026-02-02 14:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -48,6 +48,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
+- **Generated**: 2026-02-02
+
+### P2: Write article on consciousness and emotional valence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/emotional-consciousness-valence-2026-01-19.md. Why emotions feel like something—the phenomenal character of hedonic experience. Panksepp vs. LeDoux debate, affective neuroscience, moral status implications. Paradigm case of irreducible qualia: a functionally identical system without feeling-tone is conceivable. Supports phenomenal-value-realism.md, connects to qualia.md, emotional-consciousness.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Condense arguments/materialism.md (3835 words, 110% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core philosophical arguments against materialism (hard problem, knowledge argument, explanatory gap, conceivability). Preserve formal argument structure and tenet connections while removing redundancy with concept pages like materialism.md. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P2: Condense arguments/many-worlds.md (3762 words, 108% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core philosophical arguments against Many Worlds Interpretation from indexical identity perspective. Directly supports No Many Worlds tenet. Preserve vertiginous question discussion and formal arguments while consolidating with many-worlds.md concept page treatment.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P2: Cross-review quantum-consciousness.md considering neural binding article
+- **Type**: cross-review
+- **Notes**: New article on neural binding and quantum entanglement (2026-02-02) provides specific mechanisms for quantum-based phenomenal binding. The quantum-consciousness.md topic page should be cross-reviewed for: (1) cross-links to the new binding article, (2) integration of entanglement-based binding hypothesis, (3) ensuring consistent treatment of Fisher's Posner molecule hypothesis across articles.
+- **Source**: chain (from expand-topic neural binding)
+- **Generated**: 2026-02-02
+
+### P3: Deep review contemplative-path.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on contemplative approaches to consciousness study. Check phenomenological claims, ensure alignment with Map's framework, verify connections to meditation-and-consciousness-modes.md, witness-consciousness.md.
+- **Source**: staleness
+- **Generated**: 2026-02-02
+
+### P3: Deep review reasons-responsiveness.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers reasons-responsive compatibilism—important for free will discussions. Check philosophical accuracy, ensure proper treatment of Fischer/Ravizza, verify connections to free-will.md, agent-causation.md.
+- **Source**: staleness
 - **Generated**: 2026-02-02
 
 ### P3: Deep review process-and-consciousness.md for quality
@@ -286,8 +322,170 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
 
+### P3: Write article on consciousness and mathematical creativity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). How mathematical insight demonstrates consciousness's irreducibility. Gödel's incompleteness and Penrose's arguments. Mathematical understanding involves grasping *why* proofs work—not just verifying steps. Builds on consciousness-and-mathematical-understanding.md, consciousness-and-intelligence.md, baseline-cognition.md. See optimistic-2026-02-02-afternoon-2.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on phenomenology of deliberation under uncertainty
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). What it's like to decide when outcomes are uncertain. The felt structure of weighing probabilities, accepting risk, committing despite incomplete information. Builds on phenomenology-of-choice.md, epistemic-emotions.md, free-will.md. See optimistic-2026-02-02-afternoon-2.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on consciousness and the ownership problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). What makes experiences *mine*? The ownership relation between consciousness and its contents. Depersonalization disorders where ownership fails while consciousness persists. Builds on vertiginous-question.md, haecceity.md, personal-identity.md. See optimistic-2026-02-02-afternoon-2.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on the incubation effect and unconscious processing
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). Incubation in creative problem-solving—solutions emerge after conscious effort is suspended. What this reveals about consciousness-unconscious relations. Builds on consciousness-and-creativity.md, baseline-cognition.md, working-memory.md. See optimistic-2026-02-02-afternoon-2.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on phenomenology of flow states
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). Flow as the opposite of choking—effortless excellence when consciousness is absorbed rather than monitoring. What flow phenomenology reveals about the consciousness-automaticity interface. Builds on choking-phenomenon-mental-causation.md, implicit-memory.md, attention-as-interface.md. See optimistic-2026-02-02-afternoon-2.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Create concept page for process haecceitism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). The resolution from eastern-philosophy-haecceity-tension.md that thisness can apply to experiential processes, not just substantial selves. Philosophically innovative and relevant to Buddhist-dualist compatibility. See optimistic-2026-02-02-afternoon-2.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Create concept page for the timing gap problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). The persistent challenge of connecting millisecond attention to femtosecond quantum processes. Currently scattered across articles; deserves unified treatment examining the gap, proposed resolutions, and remaining challenges. See optimistic-2026-02-02-afternoon-2.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Create concept page for contemplative epistemology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). How first-person methods can generate knowledge. Methodological foundation for the Map's use of phenomenological evidence across multiple articles. See optimistic-2026-02-02-afternoon-2.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write article on the symbol grounding problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/symbol-grounding-problem-2026-01-30.md. How computational symbols acquire meaning—critical for AI consciousness debates. Recent LLM research (2023-2025) shows linguistic competence without semantic understanding. Harnad's original formulation plus contemporary applications to chatbots. Directly relevant to machine-consciousness.md, llm-consciousness.md, phenomenal-intentionality.md. Supports the Map's position that meaning requires phenomenal consciousness.
+- **Output**: the symbol grounding problem
+
+### ✓ 2026-02-02: Write article on the symbol grounding problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/symbol-grounding-problem-2026-01-30.md. How computational symbols acquire meaning—critical for AI consciousness debates.
+- **Output**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
+
+### ✓ 2026-02-02: Write article on the argument from reason
+- **Type**: expand-topic
+- **Notes**: Research completed in research/argument-from-reason-self-defeat-physicalism-2026-01-23.md. The argument that genuine reasoning tracks normative relations physicalism cannot accommodate (Lewis, Reppert, Plantinga). Physicalism is self-defeating: if our beliefs are just brain states caused by prior physical states, we have no reason to trust them—including the belief in physicalism. Strongly supports Dualism and Bidirectional Interaction tenets. Connects to self-stultification.md, epiphenomenalism.md, causal-closure.md.
+- **Output**: the argument from reason
+
+### ✓ 2026-02-02: Condense arguments/functionalism.md (4318 words, 123% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core philosophical argument against functionalism with five formal arguments (absent qualia, inverted qualia, Chinese Room, multiple realizability, explanatory gap). Despite multiple previous condense attempts in concepts/functionalism.md, this arguments/ version remains significantly over limit. Focus on consolidating overlapping responses, deferring detailed examples to concept pages. Preserve formal argument structure.
+- **Output**: obsidian/concepts/functionalism.md
+
+### ✓ 2026-02-02: Condense functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for concepts/ by 70%. Despite multiple previous condense attempts, article remains severely over limit. Consider aggressive restructuring: extract detailed objection-response dialectic to separate article, keep only essential conceptual overview here. Preserve: core definition, relation to Map's substrate-dependence claims, key objections summary.
+- **Output**: obsidian/concepts/functionalism.md
+
+### ✓ 2026-02-02: Integrate phenomenological-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created concept (2026-02-02) has no inbound links. Methodological treatment of how first-person data functions as evidence—foundational for the Map's approach. Add cross-references from neurophenomenology.md, contemplative-evidence-for-consciousness-theories.md, introspection.md.
+- **Output**: obsidian/concepts/phenomenological-evidence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Write article on neural binding and quantum entanglement
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md. Investigates whether quantum entanglement could underlie the binding problem in consciousness. Directly relevant to Minimal Quantum Interaction tenet. Connects to binding-problem.md, quantum-consciousness.md, unity-of-consciousness.md.
+- **Output**: neural binding and quantum entanglement
+
+### ✓ 2026-02-02: Write article on motor control and quantum Zeno mechanism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how voluntary motor control might utilize the quantum Zeno effect through attention—directly relevant to Minimal Quantum Interaction tenet. Connects to stapp-quantum-mind.md, voluntary-attention.md, attention-interface-mechanisms.md.
+- **Output**: motor control and quantum Zeno mechanism
+
+### ✓ 2026-02-02: Write article on motor control and quantum Zeno mechanism
+- **Type**: expand-topic
+- **Status**: Already exists
+- **Notes**: Article already exists at concepts/motor-selection.md (comprehensive treatment). Research note motor-control-quantum-zeno-2026-01-18.md was consumed when motor-selection.md was created. Article covers: premotor theory of attention, neural competition/affordance hypothesis, Libet challenge dissolution, quantum Zeno applied to motor control, basal ganglia brake-release model. Last deep review: 2026-01-26.
+- **Output**: [motor-selection](/concepts/motor-selection/) (existing)
+
+### ✓ 2026-02-02: Integrate phenomenal-intentionality.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page (2026-02-02) has no inbound links. Covers the thesis that original intentionality derives from phenomenal consciousness—central to symbol grounding problem and meaning-and-consciousness debates. Add cross-references from symbol-grounding-problem.md, meaning-and-consciousness.md, aboutness.md, intentionality.md.
+- **Output**: obsidian/concepts/phenomenal-intentionality.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Integrate creativity-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-02) has no inbound links. Covers the irreducible opacity of creative insight—how consciousness generates genuine novelty through processes that resist introspective access. Add cross-references from consciousness-and-creativity.md, phenomenology-of-understanding.md, thoughts-that-slip-away.md.
+- **Output**: obsidian/voids/creativity-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Integrate affective-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-02) has no inbound links. Covers emotions and feeling-states structurally inaccessible to human consciousness—entire dimensions of affective experience beyond human phenomenological reach. Add cross-references from emotional-consciousness.md, qualia.md, other-minds-void.md, consciousness-only-territories.md.
+- **Output**: obsidian/voids/affective-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Condense many-worlds.md (3762 words, 108% of threshold)
+- **Type**: condense
+- **Notes**: Article in arguments/ exceeds 3500-word hard threshold. Covers arguments against Many Worlds Interpretation from indexical identity perspective. Preserve core arguments supporting No Many Worlds tenet while removing redundancy.
+- **Output**: obsidian/concepts/many-worlds.md
+
+### ✓ 2026-02-02: Condense materialism.md (3835 words, 110% of threshold)
+- **Type**: condense
+- **Notes**: Article in arguments/ exceeds 3500-word hard threshold. Covers arguments against materialism. Previous condense attempt (2026-02-02) did not reduce sufficiently. Preserve core anti-materialist arguments while removing redundancy with related concept pages.
+- **Output**: obsidian/concepts/materialism.md
+
+### ✓ 2026-02-02: Condense functionalism.md (4318 words, 123% of threshold)
+- **Type**: condense
+- **Notes**: Article in arguments/ exceeds 3500-word hard threshold. Covers functionalism debate with objections and responses. Despite multiple previous condense attempts, still over threshold. Focus on: removing redundant examples, consolidating overlapping arguments, deferring detailed treatment to linked concept pages. Core arguments must be preserved.
+- **Output**: obsidian/concepts/functionalism.md
+
+### ✓ 2026-02-02: Condense materialism.md (3788 words, 108% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the materialist/physicalist position and objections. Preserve core materialist claims and primary objections (hard problem, knowledge argument, explanatory gap). Reduce redundancy with related articles like physicalism.md, reductionism.md.
+- **Output**: obsidian/concepts/materialism.md
+
+### ✓ 2026-02-02: Deep review self-locating-beliefs.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers Perry/Lewis on indexical knowledge—foundational for the No Many Worlds tenet and haecceity arguments. Check philosophical accuracy, ensure semantic vs metaphysical claims are distinguished per pessimistic review feedback.
+- **Output**: obsidian/concepts/self-locating-beliefs.md
+
+### ✓ 2026-02-02: Deep review time-symmetric-physics.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers retrocausality and time-symmetric interpretations of QM—directly relevant to Minimal Quantum Interaction tenet. Check physics accuracy, ensure claims about retrocausality are properly hedged, verify connection to quantum-consciousness.md.
+- **Output**: obsidian/concepts/time-symmetric-physics.md
+
+### ✓ 2026-02-02: Review thoughts-that-slip-away.md considering introspective opacity
+- **Type**: cross-review
+- **Notes**: New voids article voids/introspective-opacity.md (2026-02-02) explores structural limits on consciousness observing itself. The thoughts-that-slip-away.md article covers related territory (fleeting thoughts, edge of awareness). Cross-review for: (1) cross-links between the two, (2) distinguishing the mechanisms (attention limits vs structural opacity), (3) consolidating overlapping insights.
+- **Output**: obsidian/voids/thoughts-that-slip-away.md -- Context: Review thoughts-that-slip-away.md considering introspective opacity
+
+### ✓ 2026-02-02: Review memory.md considering memory void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/memory-void.md (2026-02-02) explores structural gaps in phenomenal recollection—the impossibility of re-accessing past conscious states. The memory-related concept pages (episodic-memory.md, semantic-memory.md, working-memory.md) should be cross-reviewed for: (1) cross-links to memory void, (2) relationship between memory reliability and phenomenal access, (3) implications for personal identity arguments.
+- **Output**: memory.md -- Context: Review memory.md considering memory void insights
+
+### ✓ 2026-02-02: Condense functionalism.md (4250 words, 121% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Multiple previous condense attempts have not sufficiently reduced length. This is a core philosophical concept critical for AI consciousness debates. Consider aggressive restructuring: move detailed objection-response pairs to the existing arguments/functionalism.md article, keep only the conceptual overview here. Preserve: core definition, relation to Map's tenets, key objections summary with links to detailed treatment.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-02: Address self-undermining structure in volitional/introspective opacity articles
 - **Type**: refine-draft
