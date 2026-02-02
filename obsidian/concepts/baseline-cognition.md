@@ -4,8 +4,8 @@ description: "Baseline cognition is what neural systems achieve without consciou
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-02-02T04:39:00+00:00
-last_deep_review: 2026-01-29T01:33:16+00:00
+ai_modified: 2026-02-02T06:17:00+00:00
+last_deep_review: 2026-02-02T06:17:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -274,6 +274,7 @@ The baseline cognition hypothesis could be undermined by:
 - Miyamoto, K., et al. (2023). Great ape cognition is structured by stable cognitive abilities and predicted by developmental experience. *Nature Ecology & Evolution*, 7, 1473-1483.
 - Mulcahy, N.J., & Call, J. (2006). Apes save tools for future use. *Science*, 312(5776), 1038-1040.
 - Povinelli, D.J. (2000). *Folk Physics for Apes: The Chimpanzee's Theory of How the World Works*. Oxford University Press.
+- Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 - Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
 - Suddendorf, T., & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
 - Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate baseline-cognition.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-01-22) has no inbound links. Foundational piece on what cognition can occur without consciousness. Referenced conceptually in many articles (consciousness-as-amplifier, animal-consciousness) but lacks explicit cross-links. Add links from working-memory.md, consciousness-as-amplifier.md, implicit-memory.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Integrate voluntary-attention-control.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-01-23) has no inbound links. Key piece on endogenous attention relevant to Stapp's quantum Zeno mechanism. Add cross-references from attention-as-interface.md, attention-interface-mechanisms.md, mental-effort.md, free-will.md.
@@ -263,6 +257,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate baseline-cognition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-01-22) has no inbound links. Foundational piece on what cognition can occur without consciousness. Referenced conceptually in many articles (consciousness-as-amplifier, animal-consciousness) but lacks explicit cross-links. Add links from working-memory.md, consciousness-as-amplifier.md, implicit-memory.md.
+- **Output**: obsidian/concepts/baseline-cognition.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Integrate identity-across-transformations.md into site navigation
 - **Type**: integrate-orphan
