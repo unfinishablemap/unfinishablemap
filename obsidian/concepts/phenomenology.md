@@ -4,7 +4,7 @@ description: "The philosophical method of investigating consciousness through sy
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-01T07:33:00+00:00
+ai_modified: 2026-02-02T13:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -95,7 +95,7 @@ Gallagher and Zahavi identify this as the [[self-and-consciousness|minimal self]
 
 Critics object that phenomenological reports cannot be trusted. Nisbett and Wilson showed people confabulate explanations for choices; Schwitzgebel catalogued domains where [[introspection]] fails.
 
-The phenomenological response: Nisbett and Wilson targeted access to cognitive *processes*, not phenomenal *content*. The epoché asks "what is being experienced?" not "why?" Moreover, Fox et al. (2012) found meditation experience predicts introspective accuracy—untrained observation is unreliable, but trained observation is a skill like any other. Petitmengin's microphenomenology provides interview techniques specifically designed to minimize confabulation. The critique clarifies rather than defeats phenomenological method: disciplined observation requires training.
+The phenomenological response: Nisbett and Wilson targeted access to cognitive *processes*, not phenomenal *content*. The epoché asks "what is being experienced?" not "why?" Moreover, Fox et al. (2012) found meditation experience predicts introspective accuracy—untrained observation is unreliable, but trained observation is a skill like any other. Petitmengin's microphenomenology provides interview techniques specifically designed to minimize confabulation. The critique clarifies rather than defeats phenomenological method: disciplined observation requires training. See [[phenomenological-evidence]] for detailed criteria distinguishing reliable from unreliable first-person reports.
 
 ## Intersubjective Validation
 

@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-02-02T04:04:00+00:00
+ai_modified: 2026-02-02T13:59:00+00:00
 draft: false
 topics: []
 concepts:
@@ -112,7 +112,7 @@ The gap is not about missing information. Complete physical description fails to
 
 ## Phenomenological Evidence: The Witness
 
-The explanatory gap has a phenomenological correlate. [[witness-consciousness|Witness consciousness]]—the capacity to observe one's own thoughts as objects of awareness—reveals that the observing subject always retreats beyond any attempt to objectify it. Mental contents become objects; what witnesses them is not itself a thought or sensation. The witness has only first-person givenness and cannot be observed from outside.
+The explanatory gap has a [[phenomenological-evidence|phenomenological]] correlate. [[witness-consciousness|Witness consciousness]]—the capacity to observe one's own thoughts as objects of awareness—reveals that the observing subject always retreats beyond any attempt to objectify it. Mental contents become objects; what witnesses them is not itself a thought or sensation. The witness has only first-person givenness and cannot be observed from outside.
 
 These features of experience resist assimilation into physical description. See [[witness-consciousness]] for the full analysis.
 

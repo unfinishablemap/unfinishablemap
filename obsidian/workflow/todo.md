@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate phenomenological-evidence.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Newly created concept (2026-02-02) has no inbound links. Methodological treatment of how first-person data functions as evidence—foundational for the Map's approach. Add cross-references from neurophenomenology.md, contemplative-evidence-for-consciousness-theories.md, introspection.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Condense functionalism.md (4250 words, 170% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 2500-word hard threshold for concepts/ by 70%. Despite multiple previous condense attempts, article remains severely over limit. Consider aggressive restructuring: extract detailed objection-response dialectic to separate article, keep only essential conceptual overview here. Preserve: core definition, relation to Map's substrate-dependence claims, key objections summary.
@@ -367,6 +361,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate phenomenological-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created concept (2026-02-02) has no inbound links. Methodological treatment of how first-person data functions as evidence—foundational for the Map's approach. Add cross-references from neurophenomenology.md, contemplative-evidence-for-consciousness-theories.md, introspection.md.
+- **Output**: obsidian/concepts/phenomenological-evidence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Write article on neural binding and quantum entanglement
 - **Type**: expand-topic

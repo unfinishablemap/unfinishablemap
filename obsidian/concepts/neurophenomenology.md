@@ -4,7 +4,7 @@ description: "Varela's research program integrating first-person phenomenology w
 created: 2026-01-14
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-02T10:57:00+00:00
+ai_modified: 2026-02-02T13:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -91,7 +91,7 @@ Neurophenomenology responds:
 3. **Convergent findings**: Microphenomenological interviews produce replicable fine-grained categories across subjects.
 4. **Predictive power**: First-person reports from trained observers predict neural signatures that untrained reports do not.
 
-This does not make introspection infallible. But rigorous methods produce reliable results.
+This does not make introspection infallible. But rigorous methods produce reliable results. [[phenomenological-evidence|Phenomenological evidence]] gains credibility through training, intersubjective convergence, temporal stability, and predictive power—the same criteria neurophenomenology employs.
 
 ## The Illusionist Challenge
 

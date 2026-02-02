@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-02T11:27:00+00:00
+ai_modified: 2026-02-02T13:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ Eric Schwitzgebel catalogued further failures: people cannot reliably report whe
 
 The critique's target matters. Nisbett and Wilson explicitly distinguish mental *processes* (the causal mechanisms producing decisions) from mental *contents* (current phenomenal states). Their argument concerns process access: we lack insight into *why* we choose as we do. They make no claim about whether we accurately perceive our present experience. The [[causal-interface|causal interface void]] represents the extreme case of this limitation: we cannot observe *how* intention becomes action, though we access both the intention and the resulting movement.
 
-This distinction maps onto Bertrand Russell's knowledge by acquaintance versus description. We are *acquainted* with phenomenal content—directly presented with what experience is like—without necessarily having *descriptive* knowledge of the processes producing it. Russell took acquaintance as primitive and pre-conceptual: we know the redness of red not through propositions but through direct presentation. The introspection critics show we lack descriptive access to process; they leave acquaintance with content intact. [[introspective-opacity|Introspective opacity]]—explored as a void in the Map—names this structural limit: we access mental contents but never the mechanisms that produce them.
+This distinction maps onto Bertrand Russell's knowledge by acquaintance versus description. We are *acquainted* with phenomenal content—directly presented with what experience is like—without necessarily having *descriptive* knowledge of the processes producing it. Russell took acquaintance as primitive and pre-conceptual: we know the redness of red not through propositions but through direct presentation. The introspection critics show we lack descriptive access to process; they leave acquaintance with content intact. See [[phenomenological-evidence]] for the conditions under which such acquaintance constitutes genuine evidence. [[introspective-opacity|Introspective opacity]]—explored as a void in the Map—names this structural limit: we access mental contents but never the mechanisms that produce them.
 
 This distinction is crucial for the [[hard-problem-of-consciousness|hard problem]]. Arguments for dualism don't depend on introspecting our cognitive processes—they depend on recognizing that there is something it is like to have conscious experience at all. [[qualia|Qualia]] are what experience *is*, not what causes experience. Even if I cannot introspect why I prefer one face to another, I can recognize that visual experience has a qualitative character that differs from its neural correlates.
 

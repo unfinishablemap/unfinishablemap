@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-01-27T19:00:00+00:00
+ai_modified: 2026-02-02T13:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -79,7 +79,7 @@ Qualia resist complete verbal description. How would you explain the taste of co
 
 ### Directly Apprehensible
 
-Despite being ineffable to others, qualia are immediately known to the one experiencing them. You don't infer that you're in pain—you directly apprehend the painful quality. This direct acquaintance gives qualia a peculiar epistemic status.
+Despite being ineffable to others, qualia are immediately known to the one experiencing them. You don't infer that you're in pain—you directly apprehend the painful quality. This direct acquaintance gives qualia a peculiar epistemic status. See [[phenomenological-evidence]] for how this first-person access, when disciplined through training and converging across observers, constitutes genuine evidence for consciousness theories.
 
 ## Qualia in Simple Organisms
 

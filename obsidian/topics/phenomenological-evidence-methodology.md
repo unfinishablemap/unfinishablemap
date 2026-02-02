@@ -4,7 +4,7 @@ description: "First-person experience provides genuine evidence for consciousnes
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-02T00:15:00+00:00
+ai_modified: 2026-02-02T13:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ last_curated:
 last_deep_review: 2026-02-02T00:15:00+00:00
 ---
 
-Phenomenological evidence—first-person reports of conscious experience—provides genuine data for consciousness theories when gathered through rigorous methods. The question is not whether subjective experience counts as evidence, but what standards distinguish reliable phenomenological evidence from unreliable introspection. This article examines the methodology that transforms private experience into intersubjectively shareable evidence.
+[[phenomenological-evidence|Phenomenological evidence]]—first-person reports of conscious experience—provides genuine data for consciousness theories when gathered through rigorous methods. The question is not whether subjective experience counts as evidence, but what standards distinguish reliable phenomenological evidence from unreliable introspection. This article examines the methodology that transforms private experience into intersubjectively shareable evidence.
 
 The evidential status of phenomenology matters because consciousness theories must ultimately explain what we experience. A theory that accurately predicts brain activity but fails to capture the structure of lived experience has explained the wrong thing—this is the core insight behind the [[hard-problem-of-consciousness|hard problem of consciousness]]. Phenomenological evidence is irreplaceable precisely because it describes what needs explaining.
 
