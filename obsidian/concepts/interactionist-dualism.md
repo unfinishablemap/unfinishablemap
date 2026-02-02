@@ -36,6 +36,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[delegatory-dualism]]"
   - "[[causal-interface]]"
+  - "[[observational-closure]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-as-amplifier]]"
@@ -145,7 +146,7 @@ Two responses address the exclusion argument:
 
 **Quantum response**: The Map rejects premise 1. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds physics is *not* causally closed at quantum indeterminacies—physics specifies probabilities but not outcomes. The [[stapp-quantum-mind|Stapp model]] articulates this: consciousness operates through rapid observation (quantum Zeno effect), holding desired neural patterns in place. The exclusion argument fails because at quantum indeterminacies, physics is "silent" about outcomes.
 
-**Delegation response**: [[delegatory-dualism|Delegatory dualism]] (Saad 2025) rejects premise 3 without accepting overdetermination. Physical brain states *delegate* their causal responsibilities to experiences that share their causal profiles. When pain causes wincing, the physical state's causal role is preempted, not duplicated. This provides theoretical grounding for the Bidirectional Interaction tenet independent of quantum mechanics.
+**Delegation response**: [[delegatory-dualism|Delegatory dualism]] (Saad 2025) rejects premise 3 without accepting overdetermination. Physical brain states *delegate* their causal responsibilities to experiences that share their causal profiles. When pain causes wincing, the physical state's causal role is preempted, not duplicated. Saad's crucial distinction between universal closure and [[observational-closure|observational closure]] shows that dualists need only respect empirical constraints, not the stronger metaphysical claim. This provides theoretical grounding for the Bidirectional Interaction tenet independent of quantum mechanics.
 
 ## The Pairing Problem
 

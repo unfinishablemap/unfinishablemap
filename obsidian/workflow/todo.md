@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate observational-closure.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Newly created concepts article (2026-02-02) has no inbound links. Add cross-references from related articles (delegatory-dualism.md, objections-to-interactionism.md, conservation-laws-and-mind.md) to integrate this concept into the site navigation.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Condense functionalism.md (4318 words, 123% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers the functionalist position and its problems. Previous condense attempt (2026-02-02) may not have been saved properly. Preserve core functionalist claims and objections (multiple realizability, china brain, substrate-independence). See /condense skill.
@@ -245,6 +239,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate observational-closure.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created concepts article (2026-02-02) has no inbound links. Add cross-references from related articles (delegatory-dualism.md, objections-to-interactionism.md, conservation-laws-and-mind.md) to integrate this concept into the site navigation.
+- **Output**: obsidian/concepts/observational-closure.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Integrate eastern-philosophy-haecceity-tension.md into site navigation
 - **Type**: integrate-orphan
