@@ -49,18 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write voids article on the death void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-the-death-void-2026-02-02.md. The ultimate cognitive limit: what lies beyond death for consciousness. Connects to death-and-consciousness.md, personal-identity.md, meaning-of-life.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
-### P2: Integrate dream-consciousness-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Newly created voids article (2026-02-02) has no inbound links. Add cross-references from related articles (dreams-and-consciousness.md, three-kinds-of-void.md, lucid-dreaming-and-consciousness.md) to integrate this void into the site navigation.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Write voids article on intersubjective void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-intersubjective-void-2026-02-01.md. The cognitive gap between consciousnesses: what one mind cannot directly access about another. Connects to problem-of-other-minds.md, intersubjectivity.md, other-minds-void.md.
@@ -263,6 +251,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write voids article on the death void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-the-death-void-2026-02-02.md. The ultimate cognitive limit: what lies beyond death for consciousness. Connects to death-and-consciousness.md, personal-identity.md, meaning-of-life.md.
+- **Output**: Write voids article on the death void
+
+### ✓ 2026-02-02: Write voids article on the death void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-the-death-void-2026-02-02.md. The ultimate cognitive limit: what lies beyond death for consciousness.
+- **Output**: [[death-void]]
 
 ### ✓ 2026-02-02: Strengthen knowledge argument engagement in consciousness-only-territories.md
 - **Type**: refine-draft
