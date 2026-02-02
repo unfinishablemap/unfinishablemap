@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate identity-across-transformations.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Apex article (2026-01-31) has no inbound links. Key synthesis piece on how consciousness relates to personal identity through radical physical/mental changes. Add cross-references from related articles (personal-identity.md, ship-of-theseus.md, self-and-consciousness.md, teleportation-thought-experiment.md) or update apex index page.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Integrate baseline-cognition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-01-22) has no inbound links. Foundational piece on what cognition can occur without consciousness. Referenced conceptually in many articles (consciousness-as-amplifier, animal-consciousness) but lacks explicit cross-links. Add links from working-memory.md, consciousness-as-amplifier.md, implicit-memory.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Integrate voluntary-attention-control.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-01-23) has no inbound links. Key piece on endogenous attention relevant to Stapp's quantum Zeno mechanism. Add cross-references from attention-as-interface.md, attention-interface-mechanisms.md, mental-effort.md, free-will.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Deep review machine-question.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Central topic on whether machines can be conscious—highly relevant to current AI discourse. Ensure arguments align with Map's tenets, check for unsupported claims, verify tenet connections are explicit.
+- **Source**: staleness
+- **Generated**: 2026-02-02
+
+### P2: Deep review testing-the-map-from-inside.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Important methodological piece on how to test the Map's claims through first-person methods. Check phenomenological claims, ensure testability discussion is rigorous.
+- **Source**: staleness
+- **Generated**: 2026-02-02
+
+### P2: Integrate altered-states-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-01-23) has no inbound links. Covers psychedelics, meditation, dreaming, and what altered states reveal about consciousness. Add cross-references from dreams-and-consciousness.md, meditation-and-consciousness-modes.md, phenomenology-of-understanding.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
