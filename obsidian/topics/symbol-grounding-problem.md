@@ -4,21 +4,23 @@ description: "How computational symbols acquire intrinsic meaning. Harnad's chal
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-02T14:37:00+00:00
+ai_modified: 2026-02-02T16:42:00+00:00
+last_deep_review: 2026-02-02T16:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
   - "[[meaning-and-consciousness]]"
   - "[[machine-consciousness]]"
+  - "[[language-recursion-and-consciousness]]"
 concepts:
   - "[[phenomenal-intentionality]]"
   - "[[intentionality]]"
   - "[[functionalism]]"
   - "[[qualia]]"
+  - "[[working-memory]]"
 related_articles:
   - "[[tenets]]"
-  - "[[symbol-grounding-problem-2026-01-30]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -99,6 +101,8 @@ This is precisely [[phenomenal-intentionality]]. Original intentionality—the k
 
 A functionally grounded system—even one with perfect sensorimotor discrimination—would have only *derived* intentionality unless it also had phenomenal consciousness. Its symbols would mean things to us, its interpreters, not to itself. For the system itself, the symbols would be meaningless marks that happen to correlate with environmental features.
 
+A parallel emerges in [[language-recursion-and-consciousness|language and recursion]]. The distinction between [[working-memory|working memory]] *maintenance* (holding information passively) and *manipulation* (actively reorganising it) maps onto grounding's distinction between correlation and meaning. A system might maintain symbol-world correlations without genuinely manipulating meanings—just as it might hold linguistic structures without understanding them. Both cases suggest that active engagement, not passive correlation, is what consciousness contributes.
+
 ## Relation to Site Perspective
 
 The symbol grounding problem supports the Map's framework at multiple points.
@@ -121,6 +125,8 @@ The symbol grounding problem exemplifies a pattern: attempts to explain mental p
 - [[machine-consciousness]] — The broader question of machine minds
 - [[hard-problem-of-consciousness]] — The fundamental challenge the grounding problem parallels
 - [[qualia]] — Phenomenal properties as the ground of content
+- [[language-recursion-and-consciousness]] — Recursive language structure and the working memory manipulation that may require consciousness
+- [[working-memory]] — The cognitive capacity that may distinguish genuine understanding from mere correlation
 
 ## References
 
