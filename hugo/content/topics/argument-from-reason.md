@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-29 06:09:54+00:00
+ai_modified: 2026-02-02 17:57:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -13,6 +13,8 @@ concepts:
 - '[[mysterianism]]'
 - '[[stapp-quantum-mind]]'
 - '[[voluntary-attention]]'
+- '[[self-stultification]]'
+- '[[reasons-responsiveness]]'
 created: 2026-01-23
 date: &id001 2026-01-24
 description: If thoughts are fully explained by physical causes, no belief is rationally
@@ -20,7 +22,7 @@ description: If thoughts are fully explained by physical causes, no belief is ra
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 06:09:54+00:00
+last_deep_review: 2026-02-02 17:57:00+00:00
 modified: *id001
 related_articles:
 - '[[free-will]]'
@@ -48,7 +50,7 @@ The argument proceeds in three steps:
 
 **3. Therefore, if all mental states are fully explainable by physical causes, rational inference is impossible.** If physicalism is true, your belief that 2+2=4 is entirely explained by neural causes that have nothing to do with mathematical truth. Your belief might happen to be true (lucky you!), but it wouldn't be *rationally justified*—the neurons that produced it weren't tracking logical relationships, just grinding through physical laws.
 
-The self-defeat emerges when you apply this conclusion to physicalism itself. If the argument succeeds, then any belief in physicalism must itself lack rational justification (since all beliefs would). The position undermines its own rational foundations.
+The [self-defeat](/concepts/self-stultification/) emerges when you apply this conclusion to physicalism itself. If the argument succeeds, then any belief in physicalism must itself lack rational justification (since all beliefs would). The position undermines its own rational foundations.
 
 ## The Space of Reasons vs. Space of Causes
 
@@ -157,6 +159,9 @@ The physicalist might respond: "What's the difference? If the outputs match corr
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) - Nagel's analysis of how subjectivity enables objectivity
 - [introspection](/concepts/introspection/) - The reliability of self-knowledge and its connection to self-stultification
 - [motor-selection](/concepts/motor-selection/) - How attention selects among motor possibilities, paralleling intellectual selection
+- [self-stultification](/concepts/self-stultification/) - The structure of positions that undermine their own rational grounds
+- [reasons-responsiveness](/concepts/reasons-responsiveness/) - The capacity to track normative relationships central to the argument
+- [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) - Why positions that cannot be rationally held are epistemically self-defeating
 
 ## References
 

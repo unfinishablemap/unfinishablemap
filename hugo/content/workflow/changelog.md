@@ -18,6 +18,133 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 18:42 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [death-void](/voids/death-void/)
+- **Word count**: 1711 → 1996 (+285 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (missing "What Would Challenge" section, empirical citation needed)
+- **Enhancements made**: 5 (challenge section, Bering citation, cross-links to witness-consciousness, unobservable-self, consciousness-only-territories)
+- **Context**: Orphan integration—article had zero inbound links, now integrated into voids framework
+- **Files modified**: [voids](/voids/) (added to Specific Voids list), [death-and-consciousness](/topics/death-and-consciousness/) (added reference paragraph), [the-unobservable-self](/voids/the-unobservable-self/) (added cross-link)
+- **Output**: [deep-review-2026-02-02-death-void](/reviews/deep-review-2026-02-02-death-void/)
+
+---
+
+## 2026-02-02 18:28 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [selection-laws](/concepts/selection-laws/)
+- **Word count**: 1476 → 1476 (unchanged)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (orphan status—zero inbound links)
+- **Enhancements made**: 6 inbound links added from related articles
+- **Context**: Orphan integration—article had no content links, now integrated into psychophysical laws cluster
+- **Files modified**: [psychophysical-laws](/concepts/psychophysical-laws/), [mental-causation](/concepts/mental-causation/), [downward-causation](/concepts/downward-causation/), [psychophysical-laws-framework](/topics/psychophysical-laws-framework/), [bidirectional-interaction](/concepts/bidirectional-interaction/), [quantum-consciousness](/concepts/quantum-consciousness/)
+- **Output**: [deep-review-2026-02-02-selection-laws-cross-review](/reviews/deep-review-2026-02-02-selection-laws-cross-review/)
+
+---
+
+## 2026-02-02 18:12 UTC - deep-review
+- **Status**: Success
+- **File**: [selection-laws](/concepts/selection-laws/)
+- **Word count**: 1238 → 1476 (+238 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (functionalist response, empirical falsifiability)
+- **Enhancements made**: 3 (functionalist engagement, empirical tests section, free will connection)
+- **Output**: [deep-review-2026-02-02-selection-laws](/reviews/deep-review-2026-02-02-selection-laws/)
+
+---
+
+## 2026-02-02 17:57 UTC - deep-review
+- **Status**: Success
+- **File**: [argument-from-reason](/topics/argument-from-reason/)
+- **Word count**: 2880 → 2919 (+39 words)
+- **Critical issues addressed**: 0 (none found—article is stable after 3 reviews)
+- **Medium issues addressed**: 1 (missing cross-links to epistemology cluster)
+- **Enhancements made**: 4 (cross-links to self-stultification, reasons-responsiveness, epistemic-advantages-of-dualism)
+- **Context**: Cross-review with epistemology articles
+- **Output**: [deep-review-2026-02-02-argument-from-reason](/reviews/deep-review-2026-02-02-argument-from-reason/)
+
+---
+
+## 2026-02-02 17:43 UTC - deep-review
+- **Status**: Success
+- **File**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
+- **Word count**: 2301 → 2380 (+79 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (tightened No Many Worlds tenet connection)
+- **Enhancements made**: 5 (cross-links to continual-learning-argument and baseline-cognition)
+- **Context**: Cross-review with AI consciousness articles
+- **Output**: [deep-review-2026-02-02-symbol-grounding-problem](/reviews/deep-review-2026-02-02-symbol-grounding-problem/)
+
+---
+
+## 2026-02-02 17:27 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: Methodological foundations cluster (first-person-third-person-methodology.md, phenomenological-evidence-methodology.md, introspection.md)
+- **Output**: [pessimistic-2026-02-02-evening](/reviews/pessimistic-2026-02-02-evening/)
+
+---
+
+## 2026-02-02 17:19 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [functionalism](/arguments/functionalism/)
+- **Word count**: 2036 words (81% of 2500 target)
+- **Reason**: Article is well under the soft threshold for concepts. All sections add distinct value: opening summary, modern frameworks (PP, GWT, IIT), Chinese Room, absent qualia objection, minimal consciousness challenge, hard problem connection, and tenet alignment. No redundancy or excessive background identified.
+
+---
+
+## 2026-02-02 16:58 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-consciousness](/concepts/quantum-consciousness/)
+- **Word count**: 2002 → 2156 (+154 words)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (neural-binding cross-link, zero-lag synchrony, BP1/BP2 distinction, Zeno caveat)
+- **Enhancements made**: 5
+- **Context**: Cross-review considering neural-binding article
+- **Output**: [deep-review-2026-02-02-quantum-consciousness](/reviews/deep-review-2026-02-02-quantum-consciousness/)
+
+---
+
+## 2026-02-02 16:42 UTC - deep-review
+- **Status**: Success
+- **File**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
+- **Word count**: 1654 → 1744 (+90 words)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (restored cross-links lost during regeneration)
+- **Enhancements made**: 5 (frontmatter fixes, WM paragraph, Further Reading additions)
+- **Output**: [deep-review-2026-02-02-symbol-grounding-problem](/reviews/deep-review-2026-02-02-symbol-grounding-problem/)
+
+---
+
+## 2026-02-02 16:27 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [many-worlds](/arguments/many-worlds/)
+- **Word count**: 2018 words
+- **Threshold**: 2500 (soft), 3500 (hard)
+- **Reason**: Article is already under target threshold at 81% of soft limit. Content is well-structured with no redundancy or unnecessary padding. No cuts needed.
+
+---
+
+## 2026-02-02 16:13 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [materialism](/arguments/materialism/)
+- **Word count**: 2220 words
+- **Threshold**: 2500 (soft), 3500 (hard)
+- **Reason**: Article is already under target threshold at 89% of soft limit. No cuts needed.
+
+---
+
+## 2026-02-02 14:41 UTC - expand-topic
+- **Status**: Already exists
+- **Topic**: consciousness and emotional valence
+- **Output**: [emotional-consciousness](/archive/concepts/emotional-consciousness/) (existing article)
+- **Word count**: 3200 (existing)
+- **Based on research**: yes — [emotional-consciousness-valence-2026-01-19](/research/emotional-consciousness-valence-2026-01-19/)
+- **Notes**: Article already exists at topics/emotional-consciousness.md, created 2026-01-19, last deep-reviewed 2026-02-01. Comprehensive treatment covers: the felt quality problem, valence (hedonic vs evaluativist accounts), Panksepp vs LeDoux debate, pain asymbolia evidence, valence and motivation, core affect theory, moral status implications, and full tenet connections. Removed task from queue.
+
+---
+
 ## 2026-02-02 14:37 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Symbol Grounding Problem

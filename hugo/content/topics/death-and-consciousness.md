@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-02 07:22:00+00:00
+ai_modified: 2026-02-02 18:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -34,6 +34,7 @@ related_articles:
 - '[[tenets]]'
 - '[[meaning-of-life]]'
 - '[[death-consciousness-persistence-2026-01-14]]'
+- '[[death-void]]'
 title: Death and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -41,6 +42,8 @@ topics:
 ---
 
 Does consciousness survive bodily death? The Unfinishable Map's dualist framework makes survival a coherent possibility that materialism forecloses. If consciousness is immaterial and irreducible, nothing in principle prevents it from persisting when the body fails. This doesn't *guarantee* survival—functional dependence on brains might be essential even for non-physical minds. But dualism keeps the question genuinely open in ways materialism cannot. Combined with the Map's emphasis on [indexical identity](/topics/personal-identity/)—the view that *you* are irreplaceable rather than a mere pattern—and its concept of [haecceity](/concepts/haecceity/) (irreducible thisness), this creates distinctive resources for thinking about death.
+
+Before examining what might survive, we must acknowledge the [death void](/voids/death-void/)—the structural impossibility of consciousness representing its own absence. Every attempt to imagine nonexistence presupposes the imaginer. This cognitive limit shapes how we think about survival: we can reason about death but cannot experience or genuinely conceive it from within.
 
 ## The Stakes
 

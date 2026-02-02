@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 00:36:00+00:00
+ai_modified: 2026-02-02 18:28:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Fundamental principles specifying how conscious states influence wh
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-02 18:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,6 +41,8 @@ David Chalmers developed the canonical framework for [psychophysical-laws](/conc
 This creates an asymmetry. Chalmers' naturalistic dualism can accommodate [epiphenomenalism](/arguments/epiphenomenalism/)—the view that experience accompanies physical processes without causally affecting them. Supervenience laws alone don't require that consciousness makes a difference.
 
 The Map cannot accept this asymmetry. If consciousness is causally inert, our beliefs *about* consciousness would be causally disconnected from consciousness itself. We'd be accidentally right about our experiences at best. The Bidirectional Interaction tenet commits the Map to genuine downward causation—and selection laws are what make that causation precise.
+
+Functionalists respond that mental reports can track mental states without requiring downward causation—the tracking is mediated by functional organization, not phenomenal properties causing physical effects. But this response faces the hard problem: functional organization doesn't explain *why* there is something it is like to be in these states. If phenomenal properties are real and distinct from functional properties (as the Map holds), and our reports are accurate about those phenomenal properties, then phenomenal properties must causally influence reports. The functionalist can deny the distinctness, but that returns us to the hard problem's core challenge.
 
 ## What Selection Laws Must Specify
 
@@ -128,6 +130,8 @@ Selection laws are where the Map's tenets become operationally precise.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** justifies the ontological commitment. Adding selection laws seems less parsimonious than physicalism. But a theory that ignores robust data isn't genuinely simpler—it's inadequate. If consciousness is causally efficacious, selection laws are necessary completions of our picture.
 
+Selection laws also bear on [free-will](/topics/free-will/). If consciousness selects among physically underdetermined alternatives, this provides a mechanism for [agent-causation](/concepts/agent-causation/)—genuine authorship of choices that isn't mere randomness. The selection isn't arbitrary; it reflects the agent's intentions and attention. This connects the metaphysics of consciousness to the metaphysics of agency.
+
 ## What Would Challenge This View?
 
 Selection laws would face serious difficulty if:
@@ -142,6 +146,8 @@ Selection laws would face serious difficulty if:
 
 None of these currently succeeds, but they mark conditions under which the framework would need revision.
 
+**Empirical tests**: The framework makes indirect predictions. If selection is real, willed attention should differ from instructed or reflexive attention in neural signatures—a difference some contemplative neuroscience studies suggest exists. Meditation training should increase pattern stability in attention networks. The ~10 bits/second bandwidth should appear as a measurable constraint on conscious processing independent of sensory bandwidth. These predictions aren't definitive—functionalist accounts could explain the same data—but consistent failure across multiple tests would weaken the case.
+
 ## Further Reading
 
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The broader framework including supervenience laws
@@ -151,6 +157,8 @@ None of these currently succeeds, but they mark conditions under which the frame
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for selection
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The attention-observation mechanism in detail
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view selection laws are designed to avoid
+- [free-will](/topics/free-will/) — How selection laws provide a mechanism for libertarian free will
+- [agent-causation](/concepts/agent-causation/) — Genuine authorship through mental selection
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

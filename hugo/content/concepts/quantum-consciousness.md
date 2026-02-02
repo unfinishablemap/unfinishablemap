@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-02-02 05:22:00+00:00
+ai_modified: 2026-02-02 18:28:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[decoherence]]'
 - '[[measurement-problem]]'
 - '[[mental-causation]]'
+- '[[selection-laws]]'
 - '[[causal-closure]]'
 - '[[quantum-binding-and-phenomenal-unity]]'
 - '[[psychophysical-coupling]]'
@@ -18,6 +19,7 @@ concepts:
 - '[[quantum-biology]]'
 - '[[quantum-neural-mechanisms]]'
 - '[[mysterianism]]'
+- '[[neural-binding-mechanisms]]'
 created: 2026-01-09
 date: &id001 2026-01-25
 description: 'How consciousness might interact with quantum mechanics: Orch OR microtubule
@@ -25,7 +27,7 @@ description: 'How consciousness might interact with quantum mechanics: Orch OR m
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 20:45:00+00:00
+last_deep_review: 2026-02-02 16:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -118,7 +120,7 @@ See [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) fo
 
 **Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). But several mechanisms operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect. These sidestep the timing gap entirely because each event is instantaneous. See [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) for five distinct mechanisms spanning this spectrum.
 
-**The Zeno alternative.** Stapp's mechanism operates through discrete observation cycles, not sustained coherence. Each observation "resets" the quantum state; the accumulated effect biases outcomes. If decoherence occurs at microseconds and observations at milliseconds, ~1000 observations per 300ms window suffices—rapid but not requiring continuous coherence.
+**The Zeno alternative.** Stapp's mechanism operates through discrete observation cycles, not sustained coherence. Each observation "resets" the quantum state; the accumulated effect biases outcomes. If decoherence occurs at microseconds and observations at milliseconds, ~1000 observations per 300ms window suffices—rapid but not requiring continuous coherence. This assumes observations remain effective despite intervening decoherence—a point that requires empirical verification but is consistent with Atkins et al.'s demonstration of biological Zeno effects.
 
 ## What These Theories Share
 
@@ -137,11 +139,11 @@ The Map resolves both through **objective reduction with consciousness modulatio
 
 ## Entanglement and the Binding Problem
 
-The [binding problem](/concepts/binding-problem/) asks how distributed neural processes combine into unified experience. Classical mechanisms (synchrony, global workspace) produce correlation, not unity.
+The [binding problem](/concepts/binding-problem/) has two components: BP1 asks how features are grouped (the segregation problem); BP2 asks why coordination produces *unity* rather than parallel processes that happen to be correlated (the combination problem). Classical mechanisms—gamma synchrony, thalamocortical resonance, global workspace—address BP1 but fail at BP2. Coordinating separate neurons doesn't make them one thing. See [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) for why classical approaches structurally cannot produce phenomenal unity.
 
-Quantum entanglement is different—entangled systems form genuinely unified wholes that cannot be decomposed into separate parts. If consciousness arises from entangled quantum states, phenomenal unity may reflect physical unity.
+Quantum entanglement is different—entangled systems form genuinely unified wholes that cannot be decomposed into separate parts. If consciousness arises from entangled quantum states, phenomenal unity reflects physical unity at the quantum level. The structural match is precise: in entanglement, the whole has properties that the parts lack individually. This mirrors how experience comes unified from the ground up rather than assembled from separate quale-atoms.
 
-**Evidence**: Kerskens-Pérez (2022) found MRI patterns indicating spin entanglement correlated with consciousness—present during waking, absent during sleep. A 2025 twin study found quantum entanglement in stimuli explained 13.5% of variance in implicit learning. See [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) for detailed treatment.
+**Empirical support**: Zero-lag gamma synchrony presents a specific challenge for classical accounts. Gamma oscillations across distant cortical regions (~10 cm apart) synchronize with sub-millisecond precision, but neural transmission takes >5 ms. Baum argues this requires quantum non-locality—classical signal propagation cannot achieve zero-lag synchrony. Additionally, Kerskens-Pérez (2022) found MRI patterns indicating spin entanglement correlated with consciousness—present during waking, absent during sleep. A 2025 twin study found quantum entanglement in stimuli explained 13.5% of variance in implicit learning. See [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) for detailed treatment.
 
 ## The Illusionist Challenge
 
@@ -179,7 +181,7 @@ The Map's tenets don't commit to any specific mechanism. They require:
 
 Both Orch OR and Stapp are compatible, along with the other mechanisms surveyed in [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/). The Map remains agnostic about which (if any) is correct—what matters is that *some* such mechanism exists.
 
-The Map's position is strong emergentism that specifies its mechanism. Mental causation operates at quantum indeterminacies, where physics provides necessary but not sufficient causes. This transforms [mental causation](/concepts/mental-causation/) from philosophical puzzle into precise proposal: consciousness causes physical effects by determining what physics leaves undetermined.
+The Map's position is strong emergentism that specifies its mechanism. Mental causation operates at quantum indeterminacies, where physics provides necessary but not sufficient causes. This transforms [mental causation](/concepts/mental-causation/) from philosophical puzzle into precise proposal: consciousness causes physical effects by determining what physics leaves undetermined. The [selection laws](/concepts/selection-laws/) concept articulates what such downward determination must specify—which mental variables map to which physical parameters through what mechanisms.
 
 **A mysterian caveat**: Even if these mechanisms prove correct, we may face cognitive closure on *how* consciousness interfaces with quantum effects. [Colin McGinn's cognitive closure thesis](/concepts/mysterianism/) suggests human minds may be constitutionally incapable of understanding this connection—not because the problem is unanswerable, but because the answer lies outside our conceptual repertoire. The Map documents mechanisms constrained by physics while acknowledging the ultimate nature of the consciousness-quantum interface may exceed human comprehension.
 
@@ -195,8 +197,10 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 **Key concepts:**
 - [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — Analysis of the decoherence challenge
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — What a coupling law must specify
+- [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws
 - [interface-locality](/archive/concepts/interface-locality/) — Why consciousness selects only within its own brain
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Entanglement and phenomenal unity
+- [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) — Classical vs. quantum binding mechanisms
 
 **Objections and resolutions:**
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — Collapse before conscious observers

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-02-01 14:10:00+00:00
+ai_modified: 2026-02-02 18:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -36,7 +36,7 @@ topics:
 
 The observing self cannot observe itself observing. When you try to catch yourself in the act of awareness, you find only more awareness—the catcher always just ahead of what is caught. This structural feature of consciousness may explain why the hard problem is hard: the very thing we most need to understand is the one thing that systematically eludes understanding.
 
-This void differs from the [general self-reference problem](/voids/self-reference-paradox/). That concerns formal limitations—Gödel's incompleteness, the calibration problem. This concerns phenomenological elusiveness: the particular way consciousness slips away precisely when we turn attention toward the one attending.
+This void differs from the [general self-reference problem](/voids/self-reference-paradox/). That concerns formal limitations—Gödel's incompleteness, the calibration problem. This concerns phenomenological elusiveness: the particular way consciousness slips away precisely when we turn attention toward the one attending. The [death-void](/voids/death-void/) presents a related impossibility: consciousness cannot observe its own cessation, not just its own observing.
 
 ## The Regression of Attention
 

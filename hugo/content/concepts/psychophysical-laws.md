@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-27 22:30:00+00:00
+ai_modified: 2026-02-02 18:28:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[psychophysical-coupling]]'
 - '[[psychophysical-coupling]]'
+- '[[selection-laws]]'
 - '[[interactionist-dualism]]'
 - '[[mental-causation]]'
 - '[[integrated-information-theory]]'
@@ -77,7 +78,7 @@ This leaves open whether the mental can causally influence the physical. Chalmer
 
 ### Causal Laws
 
-Causal laws (or "selection laws" in the Map's terminology) specify how mental states influence which physical states become actual. The mental is input; the physical is output.
+Causal laws (or "[selection laws](/concepts/selection-laws/)" in the Map's terminology) specify how mental states influence which physical states become actual. The mental is input; the physical is output.
 
 The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires causal laws—not merely supervenience laws. Consciousness doesn't just accompany brain states; it selects among physically underdetermined alternatives. The [psychophysical-coupling](/concepts/psychophysical-coupling/) page explores what such selection laws might look like.
 
@@ -238,6 +239,7 @@ The framework would face serious difficulty if: (1) the hard problem dissolves�
 - [chalmers-psychophysical-coupling](/topics/chalmers-psychophysical-coupling/) — Focused treatment of Chalmers' framework and the Map's divergences
 - [psychophysical-laws-framework](/topics/psychophysical-laws-framework/) — Integrated overview connecting laws to mechanisms and tenets
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — Specific mechanism proposals (attention→observation, intention→probability, valence→motivation, qualia→basis, unity→entanglement)
+- [selection-laws](/concepts/selection-laws/) — The downward direction: how conscious states select physical outcomes
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — The Map's specific coupling law problem
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework requiring bidirectional laws
 - [mental-causation](/concepts/mental-causation/) — How consciousness causes physical effects

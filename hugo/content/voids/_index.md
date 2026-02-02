@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-02 10:52:00+00:00
+ai_modified: 2026-02-02 18:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -74,6 +74,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Affective Void](/voids/affective-void/) — Emotions we cannot feel—affects beyond human reach
 - [The Memory Void](/voids/memory-void/) — Whether past qualia can be recovered or are lost forever
 - [The Unobservable Self](/voids/the-unobservable-self/) — The subject that cannot be its own object
+- [The Death Void](/voids/death-void/) — Consciousness cannot represent its own absence
 - [The Creativity Void](/voids/creativity-void/) — Where creative insight originates, inaccessible to introspection
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
 - [The Past-Self Void](/voids/past-self-void/) — The discontinuity of personal identity over time

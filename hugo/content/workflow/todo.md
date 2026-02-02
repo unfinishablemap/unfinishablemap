@@ -38,6 +38,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate dream-consciousness-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created voids article (2026-02-02) has no inbound links. Covers state-dependent cognitive limits—the mixed void combining unexplored creative territories, unexplorable dream logic, and occluded fading memory. Add cross-references from dreams-and-consciousness.md, lucid-dreaming-and-consciousness.md, three-kinds-of-void.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Condense arguments/materialism.md (3788 words, 152% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core arguments against materialism (hard problem, knowledge argument, explanatory gap, conceivability). Previous condense on concepts/materialism.md succeeded but arguments/ version needs separate treatment. Preserve formal argument structure while deferring detailed engagement to concept pages.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P2: Condense arguments/many-worlds.md (3704 words, 148% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core arguments against Many Worlds Interpretation from indexical identity perspective. Directly supports No Many Worlds tenet. Preserve vertiginous question discussion and formal arguments while consolidating with many-worlds.md concept page treatment.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -48,30 +66,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
-- **Generated**: 2026-02-02
-
-### P2: Write article on consciousness and emotional valence
-- **Type**: expand-topic
-- **Notes**: Research completed in research/emotional-consciousness-valence-2026-01-19.md. Why emotions feel like something—the phenomenal character of hedonic experience. Panksepp vs. LeDoux debate, affective neuroscience, moral status implications. Paradigm case of irreducible qualia: a functionally identical system without feeling-tone is conceivable. Supports phenomenal-value-realism.md, connects to qualia.md, emotional-consciousness.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
-### P2: Condense arguments/materialism.md (3835 words, 110% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core philosophical arguments against materialism (hard problem, knowledge argument, explanatory gap, conceivability). Preserve formal argument structure and tenet connections while removing redundancy with concept pages like materialism.md. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
-### P2: Condense arguments/many-worlds.md (3762 words, 108% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core philosophical arguments against Many Worlds Interpretation from indexical identity perspective. Directly supports No Many Worlds tenet. Preserve vertiginous question discussion and formal arguments while consolidating with many-worlds.md concept page treatment.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
-### P2: Cross-review quantum-consciousness.md considering neural binding article
-- **Type**: cross-review
-- **Notes**: New article on neural binding and quantum entanglement (2026-02-02) provides specific mechanisms for quantum-based phenomenal binding. The quantum-consciousness.md topic page should be cross-reviewed for: (1) cross-links to the new binding article, (2) integration of entanglement-based binding hypothesis, (3) ensuring consistent treatment of Fisher's Posner molecule hypothesis across articles.
-- **Source**: chain (from expand-topic neural binding)
 - **Generated**: 2026-02-02
 
 ### P3: Deep review contemplative-path.md for quality
@@ -380,6 +374,57 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate death-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created voids article (2026-02-02) has no inbound links. Covers the ultimate epistemic boundary—what lies beyond death for consciousness. Add cross-references from death-and-consciousness.md, personal-identity.md, meaning-of-life.md, three-kinds-of-void.md.
+- **Output**: obsidian/voids/death-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Integrate selection-laws.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created concept (2026-02-02) has no inbound links. Selection laws describe phenomenology→physics direction of psychophysical coupling—central to the Map's framework. Add cross-references from psychophysical-laws-framework.md, psychophysical-coupling-mechanisms.md, interactionist-dualism.md, minimal-quantum-interaction discussions.
+- **Output**: obsidian/concepts/selection-laws.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Cross-review argument-from-reason.md with epistemology articles
+- **Type**: cross-review
+- **Notes**: New topic article topics/argument-from-reason.md (2026-02-02) develops the self-defeat argument against physicalism. Cross-review related epistemology and consciousness articles for: (1) cross-links to argument from reason, (2) reinforcing the self-stultification pattern, (3) ensuring consistent treatment across self-stultification.md, epiphenomenalism.md, causal-closure.md, materialism.md.
+- **Output**: obsidian/topics/argument-from-reason.md -- Context: Cross-review argument-from-reason.md with epistemology articles
+
+### ✓ 2026-02-02: Cross-review symbol-grounding-problem.md with AI consciousness articles
+- **Type**: cross-review
+- **Notes**: New topic article topics/symbol-grounding-problem.md (2026-02-02) covers how computational symbols acquire meaning. Cross-review related AI consciousness articles for: (1) cross-links to symbol grounding, (2) reinforcing arguments about phenomenal intentionality requirement for meaning, (3) ensuring consistent treatment across llm-consciousness.md, machine-consciousness.md, ai-consciousness.md, phenomenal-intentionality.md.
+- **Output**: obsidian/concepts/symbol-grounding-problem.md -- Context: Cross-review symbol-grounding-problem.md with AI consciousness articles
+
+### ✓ 2026-02-02: Condense arguments/functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/ by 70%. Despite multiple previous condense attempts on concepts/functionalism.md, arguments/functionalism.md remains severely over limit. Focus on: consolidating overlapping objection-response pairs, removing redundant examples, deferring detailed treatment to concept pages. Core formal arguments (absent qualia, inverted qualia, Chinese Room) must be preserved.
+- **Output**: obsidian/concepts/functionalism.md
+
+### ✓ 2026-02-02: Cross-review quantum-consciousness.md considering neural binding article
+- **Type**: cross-review
+- **Notes**: New article on neural binding and quantum entanglement (2026-02-02) provides specific mechanisms for quantum-based phenomenal binding. The quantum-consciousness.md topic page should be cross-reviewed for: (1) cross-links to the new binding article, (2) integration of entanglement-based binding hypothesis, (3) ensuring consistent treatment of Fisher's Posner molecule hypothesis across articles.
+- **Output**: obsidian/concepts/quantum-consciousness.md -- Context: Cross-review quantum-consciousness.md considering neural binding article
+
+### ✓ 2026-02-02: Condense arguments/many-worlds.md (3762 words, 108% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core philosophical arguments against Many Worlds Interpretation from indexical identity perspective. Directly supports No Many Worlds tenet. Preserve vertiginous question discussion and formal arguments while consolidating with many-worlds.md concept page treatment.
+- **Output**: obsidian/concepts/many-worlds.md
+
+### ✓ 2026-02-02: Condense arguments/materialism.md (3835 words, 110% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core philosophical arguments against materialism (hard problem, knowledge argument, explanatory gap, conceivability). Preserve formal argument structure and tenet connections while removing redundancy with concept pages like materialism.md. See /condense skill.
+- **Output**: obsidian/concepts/materialism.md
+
+### ✓ 2026-02-02: Write article on consciousness and emotional valence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/emotional-consciousness-valence-2026-01-19.md. Why emotions feel like something—the phenomenal character of hedonic experience. Panksepp vs. LeDoux debate, affective neuroscience, moral status implications. Paradigm case of irreducible qualia: a functionally identical system without feeling-tone is conceivable. Supports phenomenal-value-realism.md, connects to qualia.md, emotional-consciousness.md.
+- **Output**: consciousness and emotional valence
+
+### ✓ 2026-02-02: Write article on consciousness and emotional valence
+- **Type**: expand-topic
+- **Status**: Already exists
+- **Notes**: Article already exists at topics/emotional-consciousness.md (created 2026-01-19). Comprehensive 3200-word treatment covering: the felt quality problem, valence (hedonic vs evaluativist accounts), Panksepp vs LeDoux debate, pain asymbolia evidence, valence and motivation, core affect theory, moral status implications. Last deep-reviewed 2026-02-01.
+- **Output**: [emotional-consciousness](/archive/concepts/emotional-consciousness/) (existing)
 
 ### ✓ 2026-02-02: Write article on the symbol grounding problem
 - **Type**: expand-topic
