@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 12:30 UTC - deep-review
+- **Status**: Success
+- **File**: [[self-locating-beliefs]]
+- **Word count**: 2378 → 2425 (+47)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (acknowledged Everettian accounts of self-locating uncertainty, added functionalist response to felt definiteness)
+- **Enhancements made**: 2 (cross-link to indexical-identity-quantum-measurement, removed outdated refinement log)
+- **Output**: [[reviews/deep-review-2026-02-02-self-locating-beliefs]]
+
+---
+
 ## 2026-02-02 12:27 UTC - check-tenets
 - **Status**: Success
 - **Files checked**: 123 (58 topics + 65 concepts)

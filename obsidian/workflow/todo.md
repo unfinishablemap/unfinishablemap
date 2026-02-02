@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review self-locating-beliefs.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers Perry/Lewis on indexical knowledge—foundational for the No Many Worlds tenet and haecceity arguments. Check philosophical accuracy, ensure semantic vs metaphysical claims are distinguished per pessimistic review feedback.
-- **Source**: staleness
-- **Generated**: 2026-02-02
-
 ### P2: Condense materialism.md (3788 words, 108% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the materialist/physicalist position and objections. Preserve core materialist claims and primary objections (hard problem, knowledge argument, explanatory gap). Reduce redundancy with related articles like physicalism.md, reductionism.md.
@@ -299,6 +293,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Deep review self-locating-beliefs.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers Perry/Lewis on indexical knowledge—foundational for the No Many Worlds tenet and haecceity arguments. Check philosophical accuracy, ensure semantic vs metaphysical claims are distinguished per pessimistic review feedback.
+- **Output**: obsidian/concepts/self-locating-beliefs.md
 
 ### ✓ 2026-02-02: Deep review time-symmetric-physics.md for quality
 - **Type**: deep-review
