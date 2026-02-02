@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Review free-will.md considering volitional opacity insights
-- **Type**: cross-review
-- **Notes**: New article voids/volitional-opacity.md (2026-02-02) explores the gap between willing and its neural/cognitive implementation. The free-will.md article should be cross-reviewed for: (1) cross-links to volitional opacity, (2) how opacity of willing relates to libertarian free will arguments, (3) connection between Libet experiments and the experience of intending.
-- **Source**: chain (from volitional-opacity.md)
-- **Generated**: 2026-02-02
-
 ### P2: Review introspection.md considering introspective opacity insights
 - **Type**: cross-review
 - **Notes**: New article voids/introspective-opacity.md (2026-02-02) explores structural limits on consciousness observing its own operations. The introspection.md concept page should be cross-reviewed for: (1) cross-links to introspective opacity, (2) relationship between introspective reliability debates and structural opacity, (3) implications for Cartesian certainty claims.
@@ -311,6 +305,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Review free-will.md considering volitional opacity insights
+- **Type**: cross-review
+- **Notes**: New article voids/volitional-opacity.md (2026-02-02) explores the gap between willing and its neural/cognitive implementation. The free-will.md article should be cross-reviewed for: (1) cross-links to volitional opacity, (2) how opacity of willing relates to libertarian free will arguments, (3) connection between Libet experiments and the experience of intending.
+- **Output**: obsidian/topics/free-will.md -- Context: Review free-will.md considering volitional opacity insights
 
 ### ✓ 2026-02-02: Integrate phenomenal-value-realism-development.md into site navigation
 - **Type**: integrate-orphan
