@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense death-and-consciousness.md (4478 words, 111% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Covers death from a consciousness perspective—near-death experiences, persistence questions, and what the Map's framework suggests. Preserve core arguments while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
 ### P3: Deep review neural-implementation-specifics.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Technical article on candidate neural sites for the consciousness-brain interface. Check empirical claims, ensure alignment with Map's framework, verify connections to attention-interface-mechanisms.md.
@@ -245,6 +239,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense death-and-consciousness.md (4478 words, 111% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Covers death from a consciousness perspective—near-death experiences, persistence questions, and what the Map's framework suggests. Preserve core arguments while removing redundancy. See /condense skill.
+- **Output**: obsidian/topics/death-and-consciousness.md
 
 ### ✓ 2026-02-02: Write voids article on intersubjective void
 - **Type**: expand-topic
