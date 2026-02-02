@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate contemplative-neuroscience-integration.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Newly created topics article (2026-02-02) has no inbound links. Integrates neuroscience of meditation (DMN deactivation, gamma synchrony, neuroplasticity) with phenomenological reports. Add cross-references from meditation-and-consciousness-modes.md, witness-consciousness.md, neurophenomenology.md, bidirectional-interaction.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Integrate history-of-interactionist-dualism.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Newly created topics article (2026-02-02) has no inbound links. Historical trajectory from Descartes through Princess Elizabeth to Stapp. Add cross-references from interactionist-dualism.md, conservation-laws-and-mind.md, objections-to-interactionism.md, quantum-consciousness.md.
@@ -308,6 +302,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate contemplative-neuroscience-integration.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created topics article (2026-02-02) has no inbound links. Integrates neuroscience of meditation (DMN deactivation, gamma synchrony, neuroplasticity) with phenomenological reports. Add cross-references from meditation-and-consciousness-modes.md, witness-consciousness.md, neurophenomenology.md, bidirectional-interaction.md.
+- **Output**: obsidian/topics/contemplative-neuroscience-integration.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Write voids article on memory void
 - **Type**: expand-topic

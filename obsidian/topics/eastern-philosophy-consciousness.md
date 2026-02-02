@@ -4,7 +4,7 @@ description: "Buddhism takes consciousness seriously while denying permanent sel
 created: 2026-01-09
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-01T02:28:00+00:00
+ai_modified: 2026-02-02T10:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -270,6 +270,7 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 - [[meditation-and-consciousness-modes]] — Active selection and passive witnessing modes
 - [[dreams-and-consciousness]] — Dreams, lucid dreaming, and Tibetan dream yoga
 - [[neurophenomenology]] — The scientific research program bridging contemplative traditions and neuroscience
+- [[contemplative-neuroscience-integration]] — How meditation research bridges first-person phenomenology and third-person neuroscience
 - [[meaning-of-life]] — Western approaches to significance
 - [[nihilism]] — Compare Buddhist and Western responses to meaninglessness
 - [[buddhist-perspectives-meaning-2026-01-06]] — Detailed research notes

@@ -4,7 +4,7 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-02-02T10:57:00+00:00
 last_deep_review: 2026-01-24T07:15:00+00:00
 draft: false
 topics:
@@ -144,6 +144,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 - [[causal-closure]] — The closure objection and its limits
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism in detail
 - [[consciousness-as-amplifier]] — Evolutionary evidence for causal efficacy
+- [[contemplative-neuroscience-integration]] — How meditation research demonstrates bidirectional interaction in practice
 - [[baseline-cognition]] — The great ape comparison
 - [[downward-causation]] — Top-down causation more generally
 - [[tenets]] — The Map's foundational commitments

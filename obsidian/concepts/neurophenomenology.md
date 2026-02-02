@@ -4,7 +4,7 @@ description: "Varela's research program integrating first-person phenomenology w
 created: 2026-01-14
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-02-02T10:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -153,6 +153,7 @@ Meditation exhibits the structure of [[free-will|self-forming actions]]: the med
 ## Further Reading
 
 - [[contemplative-neuroscience]] — Empirical evidence from meditation research validating the mutual constraints framework
+- [[contemplative-neuroscience-integration]] — How meditation research bridges first-person phenomenology and third-person neuroscience
 - [[stapp-quantum-mind]] — Quantum Zeno mechanism connecting attention to quantum processes
 - [[introspection]] — The reliability debate and process/content distinction
 - [[phenomenology]] — The philosophical tradition grounding neurophenomenology

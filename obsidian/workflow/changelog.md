@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 10:57 UTC - deep-review
+- **Status**: Success
+- **File**: [[contemplative-neuroscience-integration]]
+- **Word count**: unchanged (content reviewed earlier today)
+- **Focus**: Link integration (orphan resolution)
+- **Cross-links added**: 6 inbound links from related articles
+- **Files modified**: neurophenomenology.md, contemplative-neuroscience.md, first-person-third-person-methodology.md, bidirectional-interaction.md, eastern-philosophy-consciousness.md, neuroplasticity.md
+- **Output**: [[reviews/deep-review-2026-02-02-contemplative-neuroscience-integration-links]]
+
+---
+
 ## 2026-02-02 10:52 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Memory Void
