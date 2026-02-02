@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on phenomenal value realism development
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28 (evening). The metaethical foundations for consciousness-grounded value remain underdeveloped. Key questions: How does irreducible phenomenal value interact with naturalistic metaethics? What are the implications for moral realism? How does the Map's position relate to Rawlette's work? Builds on meaning-of-life.md, phenomenal-value-realism.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
 ### P2: Write article on history of interactionist dualism
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (evening). Historical trajectory from Descartes through Princess Elizabeth to Stapp. Would show how objections have evolved and how quantum mechanics reopens possibilities. Key figures: Descartes, Elizabeth of Bohemia, Leibniz, British Emergentists (Broad, Alexander), contemporary physicists (Stapp, Penrose). Builds on interactionist-dualism.md, conservation-laws-and-mind.md.
@@ -395,6 +389,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write article on phenomenal value realism development
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). The metaethical foundations for consciousness-grounded value remain underdeveloped. Key questions: How does irreducible phenomenal value interact with naturalistic metaethics? What are the implications for moral realism? How does the Map's position relate to Rawlette's work? Builds on meaning-of-life.md, phenomenal-value-realism.md.
+- **Output**: phenomenal value realism development
 
 ### ✓ 2026-02-02: Address semantic-metaphysical conflation in indexical cluster
 - **Type**: refine-draft
