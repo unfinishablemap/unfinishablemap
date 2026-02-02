@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Review attention-as-interface.md considering new interface mechanisms article
-- **Type**: cross-review
-- **Notes**: New article topics/attention-interface-mechanisms.md (2026-02-02) provides detailed candidate neural sites, timing constraints, and testable predictions for the attention-consciousness interface. The attention-as-interface.md concept page should be cross-reviewed for: (1) cross-links to the detailed mechanisms treatment, (2) ensuring the hypothesis articulation remains consistent, (3) avoiding redundancy between concept overview and detailed mechanisms article.
-- **Source**: chain (from attention-interface-mechanisms.md)
-- **Generated**: 2026-02-02
-
 ### P2: Integrate attention-interface-mechanisms.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Newly created topics article (2026-02-02) has no inbound links. Add cross-references from related articles (attention-as-interface.md, voluntary-attention.md, quantum-consciousness.md, stapp-quantum-mind.md) to integrate this detailed mechanisms treatment into the site navigation.
@@ -263,6 +257,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Review attention-as-interface.md considering new interface mechanisms article
+- **Type**: cross-review
+- **Notes**: New article topics/attention-interface-mechanisms.md (2026-02-02) provides detailed candidate neural sites, timing constraints, and testable predictions for the attention-consciousness interface. The attention-as-interface.md concept page should be cross-reviewed for: (1) cross-links to the detailed mechanisms treatment, (2) ensuring the hypothesis articulation remains consistent, (3) avoiding redundancy between concept overview and detailed mechanisms article.
+- **Output**: obsidian/concepts/attention-as-interface.md -- Context: Review attention-as-interface.md considering new interface mechanisms article
 
 ### ✓ 2026-02-02: Address quantum mechanism timing gap in downward-causation.md
 - **Type**: refine-draft

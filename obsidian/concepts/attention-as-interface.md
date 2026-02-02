@@ -4,7 +4,7 @@ description: "Attention may serve as the interface where consciousness influence
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-01T14:42:00+00:00
+ai_modified: 2026-02-02T05:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ concepts:
   - "[[haecceity]]"
   - "[[many-worlds]]"
   - "[[introspection]]"
+  - "[[attention-interface-mechanisms]]"
 related_articles:
   - "[[tenets]]"
   - "[[attention-as-interface-hypothesis-2026-01-16]]"
@@ -38,7 +39,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-02-01T14:42:00+00:00
+last_deep_review: 2026-02-02T05:17:00+00:00
 ---
 
 If consciousness influences the physical world—as The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds—how does it do so? The attention as interface hypothesis provides a specific answer: consciousness acts on matter through attention. What you attend to is what consciousness can influence. Attention is not identical to consciousness but serves as the causal bridge between the non-physical subject and physical neural systems.
@@ -84,7 +85,7 @@ Where in the brain does the interface operate? Research identifies several candi
 | **Cortical microcolumns** | ~100-neuron coherence domains | Coarse-grained selection matching ~10 bits/second bandwidth |
 | **Microtubules (Orch OR)** | 2025: room-temperature quantum effects, anesthetic targeting | Attention might select which ensembles undergo coordinated collapse |
 
-The 2025 COGITATE adversarial testing suggests attention networks (frontoparietal) may be distinct from consciousness networks (posterior hot zone). Selection might occur where these systems meet.
+The 2025 COGITATE adversarial testing suggests attention networks (frontoparietal) may be distinct from consciousness networks (posterior hot zone). Selection might occur where these systems meet. For detailed analysis of each site including timing constraints and testable predictions, see [[attention-interface-mechanisms|Mechanisms of the Attention-Consciousness Interface]].
 
 ## The Bandwidth Constraint
 
@@ -213,7 +214,9 @@ This transforms philosophical assertion into empirical program. Whether the hypo
 
 **Core concepts**: [[attention]], [[voluntary-attention]], [[mental-effort]], [[consciousness-selecting-neural-patterns]], [[psychophysical-coupling]], [[interface-locality]]
 
-**Quantum mechanisms**: [[quantum-consciousness]], [[decoherence]], [[many-worlds]]
+**Mechanisms**: [[attention-interface-mechanisms|Mechanisms of the Attention-Consciousness Interface]] — candidate neural sites, timing constraints, and testable predictions
+
+**Quantum approaches**: [[quantum-consciousness]], [[decoherence]], [[many-worlds]]
 
 **Related domains**: [[meditation-and-consciousness-modes]], [[emotional-consciousness]], [[motor-selection]], [[consciousness-and-creativity]]
 
