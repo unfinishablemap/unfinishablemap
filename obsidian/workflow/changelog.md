@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 00:05 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/self-locating-beliefs]], [[topics/indexical-identity-quantum-measurement]]
+- **Task**: Address semantic-metaphysical conflation identified in pessimistic review 2026-02-01 (late)
+- **Changes**:
+  - Explicitly distinguished epistemic thesis (indexical knowledge is irreducible) from metaphysical thesis (indexical facts are irreducible)
+  - Added new section to self-locating-beliefs providing three independent arguments for the metaphysical thesis
+  - Updated both articles to acknowledge Perry/Lewis examples establish only the epistemic thesis
+  - Revised Many-Worlds discussion to acknowledge defenders can accept epistemic thesis while denying metaphysical thesis
+  - Updated "Relation to Site Perspective" sections to note dependence on metaphysical thesis
+- **Published**: yes
+
 ## 2026-02-01 23:59 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: self-locating-beliefs.md, indexical-identity-quantum-measurement.md, quantum-measurement-and-definite-outcomes.md

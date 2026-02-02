@@ -4,7 +4,7 @@ description: "Beliefs about where and who you are in the world, distinct from be
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T23:54:00+00:00
+ai_modified: 2026-02-02T00:05:00+00:00
 draft: false
 topics:
   - "[[vertiginous-question]]"
@@ -23,7 +23,7 @@ last_curated:
 last_deep_review:
 ---
 
-Self-locating beliefs are beliefs about where or who you are in the world, as opposed to beliefs about what the world is like. You can know every impersonal fact about the universe—every particle's position, every causal relation, every event's timing—and still lack self-locating knowledge. The distinction matters for consciousness: if self-locating beliefs track genuine [[indexical-facts|indexical facts]], then reality includes more than third-person description can capture.
+Self-locating beliefs are beliefs about where or who you are in the world, as opposed to beliefs about what the world is like. You can know every impersonal fact about the universe—every particle's position, every causal relation, every event's timing—and still lack self-locating knowledge. This raises a crucial question: does self-locating knowledge merely represent ordinary facts in a special way, or does it track genuinely irreducible [[indexical-facts|indexical facts]]? The answer matters for consciousness: if indexical facts are ontologically real—not just a mode of knowing impersonal facts—then reality includes more than third-person description can capture.
 
 ## The Distinction
 
@@ -37,6 +37,8 @@ John Perry's supermarket example illustrates the difference. You notice a trail 
 
 The cognitive and motivational difference is stark. Knowing "someone is making a mess" doesn't prompt you to check your own cart. Knowing "I am making the mess" immediately does. Perry argues this shows self-locating beliefs are not reducible to ordinary beliefs—they add something no impersonal description provides.
 
+This establishes what we might call the **epistemic thesis**: indexical knowledge is cognitively distinct from impersonal knowledge. But does this cognitive distinctness reflect a deeper metaphysical reality? That is, are there irreducible **indexical facts** in addition to irreducible indexical knowledge? This stronger **metaphysical thesis** requires separate argument—the epistemic thesis alone doesn't establish it.
+
 ## Lewis's Two Gods
 
 David Lewis's "Two Gods" scenario makes the point with maximal force. Two omniscient gods know every impersonal fact about the universe: every particle's position, every event's timing, every causal law. Their knowledge is complete by any third-person standard.
@@ -47,11 +49,25 @@ One god resides on the tallest mountain; the other in the deepest ocean. All the
 
 This self-locating knowledge requires something beyond omniscience about the world's structure. Even knowing everything about *what* exists, you can be ignorant about *where you are* among what exists.
 
+Does this scenario establish the metaphysical thesis—that there are irreducible indexical facts—or only the epistemic thesis—that some knowledge is irreducibly indexical in form? One might argue the gods merely lack a *relation* to the impersonal facts rather than lacking knowledge of additional facts. When the mountain god finally knows "I am the mountain god," the world hasn't changed—only the god's cognitive relation to it. On this reading, the scenario shows that *how* one knows matters, not that *what* one knows includes irreducibly indexical content.
+
+## From Epistemic to Metaphysical: The Case for Indexical Facts
+
+The Perry and Lewis examples establish the epistemic thesis: indexical knowledge is cognitively irreducible. But the Map's position requires the stronger metaphysical thesis: there are indexical *facts* that are ontologically real, not merely a special mode of knowing impersonal facts. What independent argument supports this?
+
+**The explanatory gap argument**: If self-locating knowledge were merely a way of representing impersonal facts, we should be able to explain *why* this mode of representation exists in purely impersonal terms. But the attempt seems circular. To explain why a system has self-locating representations, we would need to specify *which* system we're explaining—and "which" is itself an indexical notion. The impersonal description "system S has self-locating representations" only identifies S from the outside; it doesn't capture what makes S *this* system from the inside. The explanatory project seems to presuppose what it's trying to explain away.
+
+**The phenomenological argument**: The immediacy of self-locating knowledge suggests it tracks something real. You don't infer "I exist" from impersonal premises—the knowledge is given directly. If indexical facts were merely modes of access to impersonal facts, we would expect the knowledge to feel derivative, like knowing "the morning star is the evening star" after learning they're both Venus. Instead, self-locating knowledge has a directness that suggests it's not derived from anything more basic.
+
+**The counterfactual argument**: Consider what the world would be like if the metaphysical thesis were false—if there were only impersonal facts and indexical knowledge were merely a representational artefact. In such a world, the question "why am I *this* subject?" would be meaningless or trivially answered. But the question feels meaningful and non-trivial. We can coherently ask why consciousness is happening here, from this perspective, rather than elsewhere. If the question is coherent, what would make its answer true or false? Impersonal facts alone don't seem sufficient; something must ground the indexical.
+
+These arguments don't constitute proof, but they provide prima facie reasons to take the metaphysical thesis seriously—reasons beyond the mere cognitive distinctness of indexical knowledge.
+
 ## Relation to Indexical Facts
 
-Self-locating beliefs express [[indexical-facts]]—facts that can only be stated using indexicals. If self-locating beliefs were merely a different way of knowing ordinary facts, they could in principle be translated into impersonal terms. Lewis's scenario suggests otherwise: the self-locating fact "I am the mountain god" is not derivable from any set of impersonal facts about gods and mountains.
+Self-locating beliefs express [[indexical-facts]]—facts that can only be stated using indexicals. Given the arguments above, the Map treats these as genuine features of reality, not merely representational conveniences.
 
-This has implications for metaphysics. Christian List argues that irreducible indexical facts provide evidence against "third-personal metaphysics"—any picture that treats reality as fully describable without indexicals. If physics describes the universe in context-free terms, yet self-locating knowledge adds something physics doesn't contain, then physics is incomplete.
+Christian List argues that irreducible indexical facts provide evidence against "third-personal metaphysics"—any picture that treats reality as fully describable without indexicals. If physics describes the universe in context-free terms, yet self-locating knowledge adds something physics doesn't contain, then physics is incomplete—not merely incomplete as a description, but incomplete as an account of what exists.
 
 The connection to [[haecceity]] runs deep. Haecceity is the primitive "thisness" that makes something *this* particular thing rather than another qualitatively identical thing. Self-locating beliefs track haecceitistic facts—the fact that *I* am this subject, that *this* experience is happening to me. The Two Gods differ not in any qualitative property but in which one each is—a difference in haecceity that self-locating knowledge captures.
 
@@ -99,13 +115,17 @@ Self-locating beliefs have special significance for consciousness:
 
 ## Objections
 
+**"The epistemic thesis doesn't entail the metaphysical thesis"**: Perhaps Perry and Lewis only establish that indexical *knowledge* is cognitively distinct, not that indexical *facts* are ontologically real. The mode of knowing might be irreducible without the facts being irreducible.
+
+*Response*: This is a genuine challenge, addressed in the section above. The Map acknowledges the gap between epistemic and metaphysical theses and offers independent arguments (explanatory, phenomenological, and counterfactual) for the metaphysical claim. The epistemic thesis alone would leave consciousness merely a representational phenomenon; the metaphysical thesis is needed to ground the reality of first-person perspective.
+
 **"Self-location reduces to ordinary belief"**: Perhaps "I am the mountain god" just means "the utterer of this token is the mountain god"—a statement that could in principle be cashed out impersonally.
 
-*Response*: This translation loses the motivational role. Knowing "the utterer of this token is making a mess" doesn't prompt you to check your cart the way knowing "I am making the mess" does. The indexical seems cognitively essential, not just linguistically convenient.
+*Response*: This translation loses the motivational role. Knowing "the utterer of this token is making a mess" doesn't prompt you to check your cart the way knowing "I am making the mess" does. The indexical seems cognitively essential, not just linguistically convenient. Moreover, "the utterer of this token" is itself indexically identified—it presupposes which utterance we're discussing.
 
 **"Self-locating uncertainty is just ignorance"**: Perhaps self-locating beliefs don't track special facts—they just reflect incomplete information about ordinary facts.
 
-*Response*: The Two Gods know all impersonal facts. Their ignorance isn't about what exists or how things are arranged—it's about where they fit in what exists. If this were ordinary ignorance, specifying more impersonal facts would resolve it. But no additional third-person information tells the mountain god "you are the mountain god."
+*Response*: The Two Gods know all impersonal facts. Their ignorance isn't about what exists or how things are arranged—it's about where they fit in what exists. If this were ordinary ignorance, specifying more impersonal facts would resolve it. But no additional third-person information tells the mountain god "you are the mountain god." The critic might respond that this shows only the irreducibility of the *knowledge*, not the *facts*—but then the explanatory gap argument applies: what makes the knowledge irreducible if not something about reality?
 
 **"This generates skepticism"**: If self-locating knowledge is irreducible, how can we ever be sure of it?
 
@@ -113,9 +133,9 @@ Self-locating beliefs have special significance for consciousness:
 
 ## Relation to Site Perspective
 
-Self-locating beliefs connect to several of the Map's [[tenets]]:
+Self-locating beliefs connect to several of the Map's [[tenets]]. The connection depends on accepting the metaphysical thesis—that indexical facts are ontologically real, not merely a mode of representing impersonal facts. If only the epistemic thesis holds, the implications for the Map's position are weaker.
 
-**[[tenets#^dualism|Dualism]]**: If self-locating beliefs track irreducible indexical facts—facts not derivable from physics—then physical description is incomplete. The fact that *this* subject exists, experiencing from *this* perspective, is part of what dualism says physics cannot capture.
+**[[tenets#^dualism|Dualism]]**: If self-locating beliefs track irreducible indexical facts—facts not derivable from physics—then physical description is incomplete. The fact that *this* subject exists, experiencing from *this* perspective, is part of what dualism says physics cannot capture. The epistemic thesis alone might be compatible with physicalism (indexical knowledge as a functional property of physical systems); the metaphysical thesis challenges physicalism more directly.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The many-worlds interpretation cannot ground self-locating beliefs. If all outcomes are equally real, there is no fact about which branch you're in—yet you anticipate one definite future. The Map rejects MWI partly because self-locating beliefs seem meaningful in ways MWI cannot accommodate.
 
@@ -138,3 +158,17 @@ Self-locating beliefs connect to several of the Map's [[tenets]]:
 - Lewis, D. (2001). "Sleeping Beauty: Reply to Elga." *Analysis*, 61(3), 171-176.
 - List, C. (2022). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340.
 - Perry, J. (1979). "The Problem of the Essential Indexical." *Noûs*, 13(1), 3-21.
+
+<!-- AI REFINEMENT LOG - 2026-02-02
+Changes made:
+- Explicitly distinguished the epistemic thesis (indexical knowledge is irreducible) from the metaphysical thesis (indexical facts are irreducible)
+- Added new section "From Epistemic to Metaphysical: The Case for Indexical Facts" providing three independent arguments for the metaphysical thesis
+- Added acknowledgment after Lewis's Two Gods that the scenario might only establish the epistemic thesis
+- Updated objections section with new objection addressing the epistemic/metaphysical gap
+- Updated "Relation to Site Perspective" to acknowledge dependence on the metaphysical thesis
+
+Based on pessimistic review 2026-02-01 (late) which identified conflation of epistemic and metaphysical claims.
+Key improvements: Articles now explicitly distinguish what Perry/Lewis examples establish (epistemic thesis) from the stronger metaphysical claim the Map requires, and provide independent argument for the metaphysical thesis.
+
+This log should be removed after human review.
+-->
