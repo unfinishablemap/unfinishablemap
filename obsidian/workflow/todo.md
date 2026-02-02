@@ -327,6 +327,62 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
 
+### P3: Write article on consciousness and mathematical creativity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). How mathematical insight demonstrates consciousness's irreducibility. Gödel's incompleteness and Penrose's arguments. Mathematical understanding involves grasping *why* proofs work—not just verifying steps. Builds on consciousness-and-mathematical-understanding.md, consciousness-and-intelligence.md, baseline-cognition.md. See optimistic-2026-02-02-afternoon-2.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on phenomenology of deliberation under uncertainty
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). What it's like to decide when outcomes are uncertain. The felt structure of weighing probabilities, accepting risk, committing despite incomplete information. Builds on phenomenology-of-choice.md, epistemic-emotions.md, free-will.md. See optimistic-2026-02-02-afternoon-2.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on consciousness and the ownership problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). What makes experiences *mine*? The ownership relation between consciousness and its contents. Depersonalization disorders where ownership fails while consciousness persists. Builds on vertiginous-question.md, haecceity.md, personal-identity.md. See optimistic-2026-02-02-afternoon-2.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on the incubation effect and unconscious processing
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). Incubation in creative problem-solving—solutions emerge after conscious effort is suspended. What this reveals about consciousness-unconscious relations. Builds on consciousness-and-creativity.md, baseline-cognition.md, working-memory.md. See optimistic-2026-02-02-afternoon-2.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on phenomenology of flow states
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). Flow as the opposite of choking—effortless excellence when consciousness is absorbed rather than monitoring. What flow phenomenology reveals about the consciousness-automaticity interface. Builds on choking-phenomenon-mental-causation.md, implicit-memory.md, attention-as-interface.md. See optimistic-2026-02-02-afternoon-2.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Create concept page for process haecceitism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). The resolution from eastern-philosophy-haecceity-tension.md that thisness can apply to experiential processes, not just substantial selves. Philosophically innovative and relevant to Buddhist-dualist compatibility. See optimistic-2026-02-02-afternoon-2.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Create concept page for the timing gap problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). The persistent challenge of connecting millisecond attention to femtosecond quantum processes. Currently scattered across articles; deserves unified treatment examining the gap, proposed resolutions, and remaining challenges. See optimistic-2026-02-02-afternoon-2.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Create concept page for contemplative epistemology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). How first-person methods can generate knowledge. Methodological foundation for the Map's use of phenomenological evidence across multiple articles. See optimistic-2026-02-02-afternoon-2.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
 ## Completed Tasks
 
 
