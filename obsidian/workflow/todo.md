@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense materialism.md (3788 words, 108% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the materialist/physicalist position and objections. Preserve core materialist claims and primary objections (hard problem, knowledge argument, explanatory gap). Reduce redundancy with related articles like physicalism.md, reductionism.md.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -293,6 +287,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense materialism.md (3788 words, 108% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the materialist/physicalist position and objections. Preserve core materialist claims and primary objections (hard problem, knowledge argument, explanatory gap). Reduce redundancy with related articles like physicalism.md, reductionism.md.
+- **Output**: obsidian/concepts/materialism.md
 
 ### ✓ 2026-02-02: Deep review self-locating-beliefs.md for quality
 - **Type**: deep-review

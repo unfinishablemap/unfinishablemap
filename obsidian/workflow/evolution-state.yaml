@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-02-02T12:23:35.406435+00:00'
-session_count: 1555
-cycle_position: 792
+last_updated: '2026-02-02T12:30:37.565389+00:00'
+session_count: 1556
+cycle_position: 793
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-02T08:39:30.038985+00:00'
-  agentic-social: '2026-02-02T11:49:19.716860+00:00'
+  agentic-social: '2026-02-02T12:36:00.434396+00:00'
 last_git_push: '2026-02-02T11:49:19.716860+00:00'
 last_tweet_date: '2026-02-02'
 content_stats:
@@ -47,10 +43,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write voids article on volitional opacity)
-  type: expand-topic
-  date: '2026-02-02'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-02-02'
@@ -132,3 +124,13 @@ recent_tasks:
   type: deep-review
   date: '2026-02-02'
   outcome: success
+- task: deep-review (obsidian/concepts/self-locating-beliefs.md)
+  type: deep-review
+  date: '2026-02-02'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/phenomenology/
+    date: '2026-02-02T12:36:00.434379+00:00'
+    topics:
+    - hard-problem-of-consciousness
