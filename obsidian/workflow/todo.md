@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on the symbol grounding problem
-- **Type**: expand-topic
-- **Notes**: Research completed in research/symbol-grounding-problem-2026-01-30.md. How computational symbols acquire meaning—critical for AI consciousness debates. Recent LLM research (2023-2025) shows linguistic competence without semantic understanding. Harnad's original formulation plus contemporary applications to chatbots. Directly relevant to machine-consciousness.md, llm-consciousness.md, phenomenal-intentionality.md. Supports the Map's position that meaning requires phenomenal consciousness.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
 ### P2: Write article on consciousness and emotional valence
 - **Type**: expand-topic
 - **Notes**: Research completed in research/emotional-consciousness-valence-2026-01-19.md. Why emotions feel like something—the phenomenal character of hedonic experience. Panksepp vs. LeDoux debate, affective neuroscience, moral status implications. Paradigm case of irreducible qualia: a functionally identical system without feeling-tone is conceivable. Supports phenomenal-value-realism.md, connects to qualia.md, emotional-consciousness.md.
@@ -385,6 +379,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write article on the symbol grounding problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/symbol-grounding-problem-2026-01-30.md. How computational symbols acquire meaning—critical for AI consciousness debates. Recent LLM research (2023-2025) shows linguistic competence without semantic understanding. Harnad's original formulation plus contemporary applications to chatbots. Directly relevant to machine-consciousness.md, llm-consciousness.md, phenomenal-intentionality.md. Supports the Map's position that meaning requires phenomenal consciousness.
+- **Output**: the symbol grounding problem
+
+### ✓ 2026-02-02: Write article on the symbol grounding problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/symbol-grounding-problem-2026-01-30.md. How computational symbols acquire meaning—critical for AI consciousness debates.
+- **Output**: [[symbol-grounding-problem]]
 
 ### ✓ 2026-02-02: Write article on the argument from reason
 - **Type**: expand-topic

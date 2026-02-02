@@ -4,7 +4,8 @@ created: 2026-01-30
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-5-20250514
-ai_modified: 2026-01-30T15:25:00+00:00
+ai_modified: 2026-02-02T14:37:00+00:00
+consumed_by: "[[symbol-grounding-problem]]"
 ---
 
 # Research: Symbol Grounding Problem
