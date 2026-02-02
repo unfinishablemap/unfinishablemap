@@ -2,9 +2,9 @@
 title: "The Structure of Attention"
 description: "Attention divides into willed, instructed, and exogenous modes with distinct neural signatures. This architecture reveals where consciousness does genuine causal work."
 created: 2026-02-01
-modified: 2026-02-01
+modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-01T19:39:00+00:00
+ai_modified: 2026-02-02T02:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -28,6 +28,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
+last_deep_review: 2026-02-02T02:20:00+00:00
 ---
 
 Attention is not a single phenomenon. It divides into three architecturally distinct modes—exogenous (captured), instructed (cued), and willed (self-generated)—each with different triggers, timescales, and neural signatures. This structure matters philosophically because it identifies precisely where consciousness might do genuine causal work. When you freely choose where to direct focus, neural mechanisms engage that don't engage when you follow instructions or when attention is captured by salience. The additional frontal theta oscillations, bidirectional frontoparietal coherence, and extra frontal recruitment during willed attention mark what The Unfinishable Map claims consciousness contributes: internal decision-making about what to select.
@@ -76,7 +77,7 @@ You're at a noisy party. You decide to focus on your conversation partner's word
 | **Effort** | High |
 | **Control** | Fully voluntary |
 
-The willed/instructed distinction is critical. Research (Bengson et al. 2019, Vossel et al. 2023) identifies three neural signatures unique to willed attention:
+The willed/instructed distinction is critical. Research (Bengson et al. 2019; Nadra & Mangun 2023) identifies three neural signatures unique to willed attention:
 
 **Frontal theta oscillations**: ~500ms after choosing where to attend, frontal theta power increases—absent in instructed attention. Theta oscillations mark genuine decision-making.
 
@@ -110,7 +111,7 @@ The same ~300ms window appears in motor selection. Thura & Cisek (2014) identifi
 
 If willed attention and willed action share a common mechanism, the ~300ms window marks where consciousness engages the selection interface. The timing is too slow for exogenous reflexes, too slow for automatic processing, but right for deliberate choice.
 
-For the Map's framework, this temporal structure is suggestive. If consciousness operates through quantum Zeno effects—rapid observation holding desired patterns stable—it requires time for sustained engagement. The ~300ms deployment window provides that time. Exogenous attention's brief duration (~100ms) would be insufficient for Zeno freezing; willed attention's sustained character is what the mechanism requires.
+For the Map's framework, this temporal structure is suggestive. If consciousness operates through something like quantum Zeno effects—rapid observation holding desired patterns stable—it would require time for sustained engagement. The ~300ms deployment window might provide that time. This remains speculative, but the timing is striking: exogenous attention's brief duration (~100ms) would be insufficient for sustained influence, while willed attention's sustained character fits what such a mechanism would require.
 
 ## The Neural Architecture
 
@@ -178,7 +179,11 @@ The three-mode structure of attention illuminates the [[attention-as-interface|a
 
 **Willed attention** is where consciousness adds something. The frontal theta, the bidirectional coherence, the extra frontal recruitment—these neural signatures mark the contribution that instruction-following lacks.
 
-The structure reveals the interface in action: when you will attention, machinery engages that doesn't engage otherwise. The phenomenology of effort corresponds to the neural distinctiveness. If consciousness were epiphenomenal—causally inert—why would willed attention differ neurally from instructed attention? Both achieve the same end (directing focus to a target). The difference is *how* the goal was set.
+The structure reveals the interface in action: when you will attention, machinery engages that doesn't engage otherwise. The phenomenology of effort corresponds to the neural distinctiveness.
+
+A critic might respond: the neural differences simply reflect different computational pathways—internally-generated goals versus externally-provided ones—without requiring any non-physical contribution. The frontal theta and extra recruitment ARE the willing, not evidence OF willing beyond the neural.
+
+The Map's response: this interpretation explains away rather than explains. If phenomenal experience is identical to neural processing, why does internally-generated selection feel like *effort* while externally-cued selection feels like *following*? The physicalist says these feelings are what those neural patterns *are*. But that relocates rather than solves the question: why do *these* patterns feel like effortful willing while *those* patterns feel passive? The correlation between phenomenology and neural signature demands explanation—and the Map proposes that consciousness genuinely contributes where willing occurs, which is why it both feels different and looks different.
 
 ## Contemplative Evidence
 
@@ -189,6 +194,8 @@ Meditation traditions provide phenomenological data on attention's structure. Tw
 **Open monitoring (OM) meditation** cultivates something else: receiving all contents without preference or intervention. Neither capture nor willing. The practitioner observes attention itself.
 
 Neural signatures differ: FA increases frontal theta and ACC activation (the willed-attention signature); OM reduces them and increases alpha. Advanced practitioners report increasingly fine-grained awareness of the willed/captured distinction—consistent with introspective access to genuine differences.
+
+Buddhist traditions raise a challenge: if there is no stable self, who does the willing? The no-self (*anatta*) doctrine suggests the "willer" is itself a construction. The Map's response is that the phenomenology of willing exists even if no permanent self does. The experience of effort, the sense of internal origination—these are data regardless of whether they emanate from a substantial self or from moment-to-moment processes. What matters for the mind-matter interface is that willing *happens* and shows distinctive neural signatures, not that a Cartesian ego performs it.
 
 ## Implications for Site Framework
 
@@ -242,9 +249,8 @@ For the Map's framework, this architecture illuminates the mind-matter interface
 ## References
 
 - Bengson, J.J. et al. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
-- COGITATE Consortium (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature Human Behaviour*.
+- COGITATE Consortium (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
 - Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
-- Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Science*.
+- Nadra, J.G. & Mangun, G.R. (2023). Placing willed attention in context: A review of attention and free will. *Frontiers in Cognition*, 2, 1205618.
 - Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 - Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
-- Vossel, S. et al. (2023). Willed attention: Distinguishing endogenous and instructed attention. *Frontiers in Psychology*, 14, 1023456.
