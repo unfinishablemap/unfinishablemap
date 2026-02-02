@@ -18,6 +18,7 @@ concepts:
 - '[[downward-causation]]'
 - '[[reductionism]]'
 - '[[delegatory-dualism]]'
+- '[[observational-closure]]'
 created: 2026-01-14
 date: &id001 2026-01-22
 description: 'Causal closure claims every physical event has sufficient physical cause.
@@ -92,11 +93,11 @@ Finding the right formulation—strong enough to exclude dualist mental causatio
 
 ### Observational vs Universal Closure
 
-Bradford Saad (2025) identifies a crucial distinction that weakens the causal closure objection: *universal* closure is stronger than what physics actually supports.
+Bradford Saad (2025) identifies a crucial distinction that weakens the causal closure objection: *universal* closure is stronger than what physics actually supports. The [observational-closure](/concepts/observational-closure/) concept page develops this distinction in detail.
 
 **Universal closure**: Every physical event has a sufficient physical cause. No exceptions anywhere.
 
-**Observational closure**: There are no *observable* violations of closure—no violations detectable by physics or neuroscience experiments.
+**[Observational closure](/concepts/observational-closure/)**: There are no *observable* violations of closure—no violations detectable by physics or neuroscience experiments.
 
 > **Observational Closure**: "There are no observable violations of Closure." An observable violation is "a violation of Closure that would be recognized as such by an experiment of the sort performed in physics or neuroscience that lies within the realm of nomic possibility." (Saad 2025)
 

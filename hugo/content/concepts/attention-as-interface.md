@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-02-01 14:42:00+00:00
+ai_modified: 2026-02-02 05:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,6 +23,7 @@ concepts:
 - '[[haecceity]]'
 - '[[many-worlds]]'
 - '[[introspection]]'
+- '[[attention-interface-mechanisms]]'
 created: 2026-01-17
 date: &id001 2026-01-20
 description: Attention may serve as the interface where consciousness influences the
@@ -30,7 +31,7 @@ description: Attention may serve as the interface where consciousness influences
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-01 14:42:00+00:00
+last_deep_review: 2026-02-02 05:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,7 +87,7 @@ Where in the brain does the interface operate? Research identifies several candi
 | **Cortical microcolumns** | ~100-neuron coherence domains | Coarse-grained selection matching ~10 bits/second bandwidth |
 | **Microtubules (Orch OR)** | 2025: room-temperature quantum effects, anesthetic targeting | Attention might select which ensembles undergo coordinated collapse |
 
-The 2025 COGITATE adversarial testing suggests attention networks (frontoparietal) may be distinct from consciousness networks (posterior hot zone). Selection might occur where these systems meet.
+The 2025 COGITATE adversarial testing suggests attention networks (frontoparietal) may be distinct from consciousness networks (posterior hot zone). Selection might occur where these systems meet. For detailed analysis of each site including timing constraints and testable predictions, see [Mechanisms of the Attention-Consciousness Interface](/topics/attention-interface-mechanisms/).
 
 ## The Bandwidth Constraint
 
@@ -215,7 +216,9 @@ This transforms philosophical assertion into empirical program. Whether the hypo
 
 **Core concepts**: [attention](/concepts/attention/), [voluntary-attention](/concepts/voluntary-attention/), [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/), [psychophysical-coupling](/concepts/psychophysical-coupling/), [interface-locality](/archive/concepts/interface-locality/)
 
-**Quantum mechanisms**: [quantum-consciousness](/concepts/quantum-consciousness/), [decoherence](/concepts/decoherence/), [many-worlds](/arguments/many-worlds/)
+**Mechanisms**: [Mechanisms of the Attention-Consciousness Interface](/topics/attention-interface-mechanisms/) — candidate neural sites, timing constraints, and testable predictions
+
+**Quantum approaches**: [quantum-consciousness](/concepts/quantum-consciousness/), [decoherence](/concepts/decoherence/), [many-worlds](/arguments/many-worlds/)
 
 **Related domains**: [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/), [emotional-consciousness](/archive/concepts/emotional-consciousness/), [motor-selection](/concepts/motor-selection/), [consciousness-and-creativity](/concepts/consciousness-and-creativity/)
 

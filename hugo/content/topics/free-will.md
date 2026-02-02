@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-01 19:22:00+00:00
+ai_modified: 2026-02-02 05:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -95,7 +95,7 @@ How does consciousness interface with the brain? Several possibilities exist wit
 - **Retrocausal influence**: Selection determining which temporal sequence becomes real (compatible with time-symmetric quantum mechanics)
 - **Unknown physics**: Mechanisms not yet discovered
 
-The Map doesn't commit to any single mechanism. What matters philosophically is that consciousness *can* influence physical outcomes without violating physical laws—that there's room in physics for mental causation. Quantum mechanics provides one such opening; others may exist. See [decoherence](/concepts/decoherence/) and [quantum-consciousness](/concepts/quantum-consciousness/) for analysis of the quantum approach, including its limitations.
+The Map doesn't commit to any single mechanism. What matters philosophically is that consciousness *can* influence physical outcomes without violating physical laws—that there's room in physics for mental causation. Quantum mechanics provides one such opening; others may exist. See [decoherence](/concepts/decoherence/) and [quantum-consciousness](/concepts/quantum-consciousness/) for analysis of the quantum approach, including its limitations, and [attention-interface-mechanisms](/topics/attention-interface-mechanisms/) for candidate neural sites and timing constraints.
 
 ## The Map's Position: Agent-Causal Selection
 
@@ -112,7 +112,7 @@ The philosophical core is agent causation: you (the persisting conscious subject
 
 If consciousness selects neural patterns, shouldn't selection occur *before* neural preparation, not after? Libet's data shows neural activity precedes conscious awareness.
 
-[Retrocausal](/concepts/retrocausality/) interpretations offer one resolution. If consciousness operates atemporally—outside the forward flow of physical time—it doesn't need to precede neural preparation to be its cause. The selection determines which temporal sequence becomes real, including its apparent ordering.
+[Retrocausal](/concepts/retrocausality/) interpretations offer one resolution. If consciousness operates atemporally—outside the forward flow of physical time—it doesn't need to precede neural preparation to be its cause. The selection determines which temporal sequence becomes real, including its apparent ordering. The [Time, Consciousness, and the Growing Block](/apex/time-consciousness-growing-block/) apex synthesis develops this framework fully: consciousness may not merely act *within* time but participate in *constituting* temporal structure through its role in collapse.
 
 Some physical frameworks support this possibility: Cramer's transactional interpretation involves "offer waves" forward and "confirmation waves" backward, with the "handshake" being atemporal. But the philosophical point doesn't depend on any specific interpretation. Agent causation may operate atemporally regardless of the underlying physics. See [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) for why the Map's framework rests on physics rather than contested parapsychological claims.
 
@@ -194,7 +194,7 @@ Most voluntary action involves distal intentions formed earlier, not just proxim
 
 The brain prepares possible action patterns. Consciousness—the agent—selects which becomes actual. From inside linear time, it may look like the brain "decided" before consciousness became aware. But if agent causation operates atemporally, the linear ordering is itself part of what was selected.
 
-This isn't a proof. It's a coherent picture that takes both consciousness and physics seriously, preserving what matters about free will (genuine authorship) while respecting what we know about the brain. The evidence is primarily phenomenological: the felt difference between choosing and observing, the effort of deliberation, the correlation between willed action and distinctive neural signatures.
+This isn't a proof. It's a coherent picture that takes both consciousness and physics seriously, preserving what matters about free will (genuine authorship) while respecting what we know about the brain. The evidence is primarily phenomenological: the felt difference between choosing and observing, the effort of deliberation, the correlation between willed action and distinctive neural signatures. See [Living with the Map](/apex/living-with-the-map/) for what genuine authorship means for daily life and practical decision-making.
 
 The mechanism by which consciousness interfaces with the brain may remain partly mysterious—the [causal interface void](/voids/causal-interface/) explains why this mechanism is systematically invisible from both introspection and neuroscience, a consequence of minimal interaction rather than a gap in the theory. Perhaps this is part of what [mysterianism](/concepts/mysterianism/) suggests exceeds human comprehension. But evidence can point toward a truth we can't fully understand.
 

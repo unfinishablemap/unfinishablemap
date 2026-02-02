@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 01:45:00+00:00
+ai_modified: 2026-02-02 05:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,6 +11,8 @@ concepts:
 - '[[mental-causation]]'
 - '[[epiphenomenalism]]'
 - '[[quantum-consciousness]]'
+- '[[stapp-quantum-mind]]'
+- '[[quantum-indeterminacy-free-will]]'
 created: 2026-02-02
 date: &id001 2026-02-02
 description: 'Saad''s distinction: physics appears complete in laboratories without
@@ -18,6 +20,7 @@ description: 'Saad''s distinction: physics appears complete in laboratories with
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-02 05:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,7 +68,7 @@ How can mental causation be real without producing observable violations? Severa
 
 ### Statistical Invisibility
 
-If consciousness influences quantum outcomes at neural indeterminacies, and if these influences aggregate to match Born-rule statistics, no experiment detects the difference. The statistics look exactly as physics predicts. Only the *particular* outcomes differ from what would have occurred without mental influence—and physics doesn't predict particular outcomes, only probabilities.
+If consciousness influences quantum outcomes at neural indeterminacies, and if these influences aggregate to match Born-rule statistics, no experiment detects the difference. The statistics look exactly as physics predicts. Only the *particular* outcomes differ from what would have occurred without mental influence—and physics doesn't predict particular outcomes, only probabilities. [Henry Stapp's quantum Zeno framework](/concepts/stapp-quantum-mind/) develops the most detailed account of this mechanism.
 
 The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet embodies this: consciousness influences outcomes "without injecting energy or violating conservation laws" and in ways that are not "empirically detectable under current experimental precision."
 
@@ -77,7 +80,7 @@ When pain causes wincing, the delegated causal pathway produces the same wince t
 
 ### Domain Specificity
 
-Mental causation might operate only where physics is fundamentally incomplete—at measurement outcomes in quantum mechanics, where physics provides probabilities without determining which possibility becomes actual. In this domain, there is nothing for observation to compare against. Physics predicts a distribution; consciousness selects from within it. The selection is invisible because physics makes no prediction about individual selections.
+Mental causation might operate only where physics is fundamentally incomplete—at measurement outcomes in quantum mechanics, where physics provides probabilities without determining which possibility becomes actual. In this domain, there is nothing for observation to compare against. Physics predicts a distribution; consciousness selects from within it. The selection is invisible because physics makes no prediction about individual selections. This connects directly to debates about [quantum indeterminacy and free will](/concepts/quantum-indeterminacy-free-will/)—the same quantum openings that permit consciousness to influence brain states provide metaphysical room for genuine agency.
 
 ## Objections and Responses
 

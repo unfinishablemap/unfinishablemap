@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-02 04:39:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -296,6 +296,9 @@ The Map's position: the explanatory gap reflects a real ontological gap. P-consc
 - [free-will](/topics/free-will/) - P-consciousness and genuine agency
 - [agent-causation](/concepts/agent-causation/) - Conscious agents as irreducible causes
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) - The tension between objective description and subjective experience
+
+### Apex Synthesis
+- [minds-without-words](/apex/minds-without-words/) — Phenomenal consciousness in non-linguistic creatures
 
 ## References
 

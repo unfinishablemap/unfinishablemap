@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-01-30 16:45:00+00:00
+ai_modified: 2026-02-02 04:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -137,7 +137,7 @@ The specious present—the experienced "now" that extends beyond the mathematica
 
 Existentialism's emphasis on singular choice, authentic self-creation, and the weight of decision presupposes that choices genuinely matter—that they select one future over alternatives that will not be actualised. The [No Many Worlds tenet](/tenets/#no-many-worlds) preserves this. If all choices actualise in branches, the existentialist vocabulary of commitment, anguish, and responsibility loses its grip.
 
-The [haecceity](/concepts/haecceity/) of conscious subjects—their unrepeatable thisness—conflicts with MWI's multiplication of observers. Existentialism insists that I am not interchangeable with my branching copies. The Map agrees.
+The [haecceity](/concepts/haecceity/) of conscious subjects—their unrepeatable thisness—conflicts with MWI's multiplication of observers. Existentialism insists that I am not interchangeable with my branching copies. The Map agrees. For how existentialist authenticity translates into practical guidance, see [Living with the Map](/apex/living-with-the-map/).
 
 ### Bidirectional Interaction
 

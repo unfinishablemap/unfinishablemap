@@ -180,6 +180,7 @@ The Map's [tenets](/tenets/) converge on loss of consciousness as a domain where
 
 ## Further Reading
 
+- [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: how indexical identity persists through anesthesia, split-brain, altered states, and death
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Loss of consciousness as part of the broader ASC spectrum
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
 - [near-death-experiences](/concepts/near-death-experiences/)

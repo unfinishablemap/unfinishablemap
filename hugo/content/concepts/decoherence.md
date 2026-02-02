@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-31 04:02:00+00:00
+ai_modified: 2026-02-02 05:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -186,6 +186,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is releva
 
 ## Further Reading
 
+- [attention-interface-mechanisms](/topics/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions for the interface
 - [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — Detailed analysis of Tegmark's critique and responses
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve the measurement problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interaction

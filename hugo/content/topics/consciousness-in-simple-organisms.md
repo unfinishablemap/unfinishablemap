@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-30 17:09:00+00:00
+ai_modified: 2026-02-02 04:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -260,6 +260,9 @@ The Map rejects MWI partly because it undermines the [haecceity](/concepts/haecc
 ### Research Notes
 - [consciousness-independent-baseline-cognition-2026-01-21](/research/consciousness-independent-baseline-cognition-2026-01-21/) — The baseline cognition hypothesis
 - [consciousness-influence-intelligence-2026-01-21](/research/consciousness-influence-intelligence-2026-01-21/) — Evidence that consciousness contributes to intelligence
+
+### Apex Synthesis
+- [minds-without-words](/apex/minds-without-words/) — Integrated perspective on non-linguistic consciousness from simple organisms to great apes
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 03:23:00+00:00
+ai_modified: 2026-02-02 05:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: When skilled performers attend to automatized actions, performance 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-02 05:59:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,12 +41,14 @@ Choking provides unusually strong evidence for [mental causation](/concepts/ment
 
 Baumeister and Beilock's explicit monitoring theory explains the mechanism: high-pressure situations generate anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it.
 
-Research confirms several patterns:
+Research confirms several patterns (though, like much psychology from this era, some findings await replication):
 
 - **Skill-level asymmetry**: Highly skilled performers choke more than moderately skilled ones. Experts have more automaticity to disrupt.
 - **Implicit protection**: Skills learned without explicit awareness are protected against choking. If you never consciously learned the technique, you can't consciously interfere with it.
 - **Attentional distraction helps**: Dual-task conditions that occupy conscious attention can *improve* skilled performance. Removing the monitoring removes the interference.
 - **Outcome focus reduces choking**: Instructions to focus on outcomes rather than mechanics protect performance.
+
+The core phenomenon—performance degradation under self-focused attention—has replicated consistently across sports psychology, music performance, and motor learning research. The theoretical details remain debated; the basic effect does not.
 
 This pattern reveals a causal chain: (1) conscious attention shifts to procedural execution, (2) procedural execution is disrupted, (3) performance degrades. If step 1 couldn't cause step 2, the entire phenomenon would be inexplicable.
 
@@ -78,23 +80,23 @@ Choking occurs when this re-engagement is *inappropriate*—when consciousness i
 
 This analysis faces several problems.
 
-**The phenomenological regress**: If choking involves explicit monitoring "seeming" to interfere with procedural execution, something must be doing the seeming. The monitoring must *feel* like something—but that feeling is precisely what illusionism claims doesn't exist. The illusionist cannot consistently appeal to how things seem while denying that seeming has phenomenal character.
+**The causal tracking problem**: The illusionist explains choking as one brain process (prefrontal monitoring) interfering with another (cerebellar automaticity). Grant that description. The question remains: why does this interference track phenomenological distinctions so precisely? The performance degradation occurs specifically when there is the characteristic *feel* of effortful self-monitoring—not merely when prefrontal systems are active. Athletes report that they can engage cognitive control without choking when it doesn't have the phenomenal character of self-focused attention. If the phenomenology were epiphenomenal, this correlation would be coincidental. But it's systematic.
 
-**The mode asymmetry**: Why would different neural states correlate with qualitatively different "illusions"? Tulving's hierarchy describes phenomenological distinctions—the difference between acting without self-awareness (anoetic), knowing without re-experiencing (noetic), and re-living past events (autonoetic). If consciousness were merely functional information processing, these fine-grained phenomenological differences become mysterious. The illusionist must explain what generates systematically different illusions, and this explanation typically smuggles phenomenal properties back in.
+**The mode asymmetry**: Tulving's hierarchy describes phenomenological distinctions—the difference between acting without self-awareness (anoetic), knowing without re-experiencing (noetic), and re-living past events (autonoetic). The illusionist treats these as functional states the brain represents itself as having. But choking reveals that these modes have distinct causal profiles: anoetic consciousness permits smooth execution while autonoetic monitoring disrupts it. The functional difference tracks a phenomenological difference. If the phenomenology were merely how the brain misrepresents itself, why would different misrepresentations have reliably different causal consequences for motor execution?
 
-**The causal relevance problem**: Dennett might respond that the distinctions are representational—the brain represents itself as "effortfully attending" in one mode and "absorbed" in another, with different functional consequences. But this relocates rather than dissolves the problem. Why should representing oneself as effortfully attending *degrade* performance while representing oneself as absorbed does not? The functional difference tracks a phenomenological difference—the very distinction illusionism claims is empty.
+**The heterophenomenological response**: Dennett might invoke heterophenomenology—studying subjects' reports about their experiences without committing to phenomenal properties. The choking subject reports "effortful attention" and performs worse; the absorbed expert reports "flow" and performs well. The heterophenomenologist catalogues these reports without granting that the reported experiences are real. But this sidesteps rather than answers the question. The reports themselves track a performance difference. Something distinguishes the two states, and that something affects motor systems. Whether we call it "phenomenal" or not, it's causally relevant—which is what epiphenomenalism denies.
 
 ## Contemplative Convergence
 
-[Contemplative traditions](/concepts/meditation-and-consciousness-modes/) provide independent evidence for the anoetic/autonoetic distinction and its causal significance.
+[Contemplative traditions](/concepts/meditation-and-consciousness-modes/) provide independent phenomenological descriptions that parallel the choking literature's distinctions—though these traditions' own metaphysical frameworks differ from the Map's dualism.
 
-Experienced meditators describe states of effortless action where [witness-consciousness](/concepts/witness-consciousness/) observes without interfering. Buddhist *samskara* (habitual mental formations) acknowledges procedural patterns while maintaining that even automatic action occurs within awareness—unreflective awareness, but awareness nonetheless.
+Experienced meditators describe states of effortless action where [witness-consciousness](/concepts/witness-consciousness/) observes without interfering. Buddhist *samskara* (habitual mental formations) acknowledges procedural patterns while maintaining that even automatic action occurs within awareness—unreflective awareness, but awareness nonetheless. (Buddhist metaphysics generally rejects substance dualism, treating both "mind" and "matter" as interdependent processes rather than separate substances. The phenomenological descriptions remain relevant even where the metaphysical frameworks diverge.)
 
-The Theravāda analysis of *kāyagatāsati* (mindfulness of body) explicitly trains the transition between reflective and absorbed attention. The meditator learns to observe bodily sensations with detached attention, then to rest in non-interfering awareness. This is precisely the skill the choking literature suggests athletes need: maintaining consciousness without disrupting automatized execution.
+The Theravāda analysis of *kāyagatāsati* (mindfulness of body) explicitly trains the transition between reflective and absorbed attention. The meditator learns to observe bodily sensations with detached attention, then to rest in non-interfering awareness. This is precisely the skill the choking literature suggests athletes need: maintaining awareness without disrupting automatized execution.
 
-Zen's *shikantaza* ("just sitting") represents the expert mode: no technique being applied, no steps being followed, yet alert presence throughout. The Zen master's *mushin* (no-mind) isn't absence of consciousness but consciousness without self-interference. The body acts; consciousness witnesses without grasping.
+Zen's *shikantaza* ("just sitting") represents the expert mode: no technique being applied, no steps being followed, yet alert presence throughout. The Zen master's *mushin* (no-mind) is typically understood within that tradition as transcending the subject-object distinction rather than as "consciousness without self-interference" in a dualist sense. Nevertheless, the phenomenological description—acting without grasping—maps onto the absorbed expert's state.
 
-That contemplative training can protect against choking—and that the phenomenological states achieved through meditation map onto the psychological states distinguishing experts from chokers—supports the reality of these conscious modes and their causal relevance.
+That contemplative training can protect against choking—and that the phenomenological states achieved through meditation parallel the psychological states distinguishing experts from chokers—supports the reality of these conscious modes and their causal relevance, even if the metaphysical interpretation varies across traditions.
 
 ## Agent Causation and Choking
 

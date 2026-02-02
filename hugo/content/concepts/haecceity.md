@@ -175,7 +175,7 @@ Buddhist philosophy, particularly Madhyamaka, argues that the self is *sunyata* 
 
 **Response**: The Buddhist analysis may be compatible with a refined haecceitism. The self can be empty of *qualitative* essence while still being *this* particular process. Consider: Buddhist philosophy doesn't deny that *this* person experiences *this* moment—it denies that there's a permanent, unchanging self underlying the experience. But haecceity doesn't require permanence; it requires particularity. *This* stream of experience, however impermanent and constructed, is still distinguishable from *that* stream. The indexical fact remains even if the referent is a process rather than a substance.
 
-This interpretation suggests haecceity may be more about the particularity of experiential processes than about substantial souls—a view potentially compatible with both [Buddhist insights](/concepts/buddhism-and-dualism/) and the Map's framework.
+This interpretation suggests haecceity may be more about the particularity of experiential processes than about substantial souls—a view potentially compatible with both [Buddhist insights](/concepts/buddhism-and-dualism/) and the Map's framework. The [Eastern Philosophy–Haecceity Tension](/topics/eastern-philosophy-haecceity-tension/) article develops this compatibility in detail, arguing that "process haecceitism" can apply to impermanent streams of experience without requiring permanent souls.
 
 ## Process Philosophy and Haecceity
 
@@ -227,6 +227,7 @@ The haecceity concept makes explicit what the Map presupposes. Personal identity
 
 ## Further Reading
 
+- [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: how haecceity persists through split-brain, anesthesia, altered states, and death
 - [indexical-facts](/concepts/indexical-facts/) — The irreducible first-person facts that haecceity grounds
 - [vertiginous-question](/topics/vertiginous-question/) — Why am I *this* conscious being rather than another?
 - [personal-identity](/topics/personal-identity/) — How haecceity grounds personal identity

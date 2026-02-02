@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-30 16:35:00+00:00
+ai_modified: 2026-02-02 04:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -239,7 +239,7 @@ On this view, meaningful life involves:
 
 4. **Recognition of others' consciousness**: Other conscious beings are equally significant. Their experiences matter intrinsically.
 
-This isn't a prescription for any particular lifestyle, but a framework within which diverse meaningful lives can be constructed.
+This isn't a prescription for any particular lifestyle, but a framework within which diverse meaningful lives can be constructed. See [Living with the Map](/apex/living-with-the-map/) for how these principles translate into practical guidance for daily living.
 
 ## The Picture That Emerges
 

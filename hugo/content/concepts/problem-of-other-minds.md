@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-28 12:00:00+00:00
+ai_modified: 2026-02-02 04:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -172,6 +172,9 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment dramatizing behavior-consciousness gap
 - [ai-consciousness](/topics/ai-consciousness/) — The problem of other minds applied to machines
 - [animal-consciousness](/topics/animal-consciousness/) — The problem for non-human organisms
+
+### Apex Synthesis
+- [minds-without-words](/apex/minds-without-words/) — The problem of other minds in non-linguistic creatures
 
 ### External Sources
 - Thomas Nagel, "What Is It Like to Be a Bat?" (1974)

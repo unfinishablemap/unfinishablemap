@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-30 14:49:00+00:00
+ai_modified: 2026-02-02 04:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -111,7 +111,7 @@ If agents shape their characters through choices, moral education matters. Teach
 
 ### Self-Understanding
 
-Understanding yourself as an agent-cause changes self-conception. You are not a puppet of prior causes but a genuine originator. Your choices matter not because they feel significant but because you truly authored them. This can inspire or burden—the responsibility is real. But it also dignifies: you are the kind of being whose choices constitute who you are.
+Understanding yourself as an agent-cause changes self-conception. You are not a puppet of prior causes but a genuine originator. Your choices matter not because they feel significant but because you truly authored them. This can inspire or burden—the responsibility is real. But it also dignifies: you are the kind of being whose choices constitute who you are. For how this framework translates into practical guidance for daily living, see [Living with the Map](/apex/living-with-the-map/).
 
 ## The Illusionist Challenge
 

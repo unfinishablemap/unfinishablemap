@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate altered-states-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-01-23) has no inbound links. Covers psychedelics, meditation, dreaming, and what altered states reveal about consciousness. Add cross-references from dreams-and-consciousness.md, meditation-and-consciousness-modes.md, phenomenology-of-understanding.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -48,24 +54,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
-- **Generated**: 2026-02-02
-
-### P2: Integrate time-consciousness-growing-block.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Apex article has no inbound links. Add cross-references from related articles (temporal-consciousness.md, specious-present.md, temporal-structure-of-consciousness.md) or update apex index page to include navigation to this synthesis piece.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
-### P2: Integrate cognitive-closure.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Add cross-references from related articles (mysterianism.md, hard-problem-of-consciousness.md, consciousness.md) or update concept index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
-### P2: Condense functionalism.md (4250 words, 106% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for arguments/. Covers the functionalist position and its problems. Preserve core functionalist claims and objections (multiple realizability, china brain, substrate-independence). See /condense skill.
-- **Source**: length_analysis
 - **Generated**: 2026-02-02
 
 ### P3: Write article on emergence and strong emergence
@@ -222,8 +210,134 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
 
+### P3: Write article on phenomenal conservatism and introspective evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). Huemer's phenomenal conservatism—if it seems to S that P, S has prima facie justification for believing P—is foundational for treating phenomenal evidence seriously. How does the Map handle introspective reliability? When should phenomenal seemings be trusted? Builds on arguments-for-dualism.md, epistemic-advantages-of-dualism.md, introspection.md. See optimistic-2026-02-02-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on neural bandwidth constraints and the interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). The bandwidth response to decoherence (consciousness operates at ~40 bits/sec policy level) deserves dedicated treatment. What does slow conscious bandwidth mean for fast quantum processes? How does information get compressed? Builds on attention-interface-mechanisms.md, quantum-consciousness.md, voluntary-attention.md. See optimistic-2026-02-02-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on phenomenology of agency vs passivity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). Tension between active attention (Stapp's quantum Zeno) and passive witnessing (contemplative traditions). Both phenomenologically real. When does consciousness act vs merely witness? How do these modes relate? Builds on phenomenology-of-understanding.md, mental-effort.md, witness-consciousness.md. See optimistic-2026-02-02-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Create concept page for cognitive phenomenology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). The thesis that thinking itself has phenomenal character—not just accompanying sensations. Currently mentioned throughout but not given dedicated analysis. Central to extending hard problem beyond sensory qualia. See optimistic-2026-02-02-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Deep review testing-the-map-from-inside.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Important methodological piece on how to test the Map's claims through first-person methods. Check phenomenological claims, ensure testability discussion is rigorous.
+- **Output**: obsidian/apex/testing-the-map-from-inside.md
+
+### ✓ 2026-02-02: Deep review machine-question.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Central topic on whether machines can be conscious—highly relevant to current AI discourse. Ensure arguments align with Map's tenets, check for unsupported claims, verify tenet connections are explicit.
+- **Output**: obsidian/apex/machine-question.md
+
+### ✓ 2026-02-02: Integrate voluntary-attention-control.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-01-23) has no inbound links. Key piece on endogenous attention relevant to Stapp's quantum Zeno mechanism. Add cross-references from attention-as-interface.md, attention-interface-mechanisms.md, mental-effort.md, free-will.md.
+- **Output**: voluntary-attention-control.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Integrate baseline-cognition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-01-22) has no inbound links. Foundational piece on what cognition can occur without consciousness. Referenced conceptually in many articles (consciousness-as-amplifier, animal-consciousness) but lacks explicit cross-links. Add links from working-memory.md, consciousness-as-amplifier.md, implicit-memory.md.
+- **Output**: obsidian/concepts/baseline-cognition.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Integrate identity-across-transformations.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Apex article (2026-01-31) has no inbound links. Key synthesis piece on how consciousness relates to personal identity through radical physical/mental changes. Add cross-references from related articles (personal-identity.md, ship-of-theseus.md, self-and-consciousness.md, teleportation-thought-experiment.md) or update apex index page.
+- **Output**: obsidian/apex/identity-across-transformations.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Condense functionalism.md (4318 words, 123% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers the functionalist position and its problems. Previous condense attempt (2026-02-02) may not have been saved properly. Preserve core functionalist claims and objections (multiple realizability, china brain, substrate-independence). See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
+
+### ✓ 2026-02-02: Integrate observational-closure.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created concepts article (2026-02-02) has no inbound links. Add cross-references from related articles (delegatory-dualism.md, objections-to-interactionism.md, conservation-laws-and-mind.md) to integrate this concept into the site navigation.
+- **Output**: obsidian/concepts/observational-closure.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Integrate eastern-philosophy-haecceity-tension.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created topics article (2026-02-02) has no inbound links. Add cross-references from related articles (eastern-philosophy-consciousness.md, buddhism-and-dualism.md, haecceity.md, witness-consciousness.md) to integrate this haecceity-anattā tension treatment into the site navigation.
+- **Output**: obsidian/topics/eastern-philosophy-haecceity-tension.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Integrate attention-interface-mechanisms.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created topics article (2026-02-02) has no inbound links. Add cross-references from related articles (attention-as-interface.md, voluntary-attention.md, quantum-consciousness.md, stapp-quantum-mind.md) to integrate this detailed mechanisms treatment into the site navigation.
+- **Output**: obsidian/topics/attention-interface-mechanisms.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Review attention-as-interface.md considering new interface mechanisms article
+- **Type**: cross-review
+- **Notes**: New article topics/attention-interface-mechanisms.md (2026-02-02) provides detailed candidate neural sites, timing constraints, and testable predictions for the attention-consciousness interface. The attention-as-interface.md concept page should be cross-reviewed for: (1) cross-links to the detailed mechanisms treatment, (2) ensuring the hypothesis articulation remains consistent, (3) avoiding redundancy between concept overview and detailed mechanisms article.
+- **Output**: obsidian/concepts/attention-as-interface.md -- Context: Review attention-as-interface.md considering new interface mechanisms article
+
+### ✓ 2026-02-02: Address quantum mechanism timing gap in downward-causation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-02 morning) identified a high-severity issue: the article claims the Map provides a mechanism for downward causation (quantum Zeno effect), but doesn't resolve the timing gap between femtosecond decoherence and millisecond attention. The "bandwidth response" (consciousness operates at policy level) undermines the quantum mechanism rather than supporting it. Either specify how attention translates to femtosecond-scale observations, or acknowledge more directly that this is an unsolved gap.
+- **Output**: obsidian/concepts/downward-causation.md
+
+Task context:
+Pessimistic review (2026-02-02 morning) identified a high-severity issue: the article claims the Map provides a mechanism for downward causation (quantum Zeno effect), but doesn't resolve the timing gap between femtosecond decoherence and millisecond attention. The "bandwidth response" (consciousness operates at policy level) undermines the quantum mechanism rather than supporting it. Either specify how attention translates to femtosecond-scale observations, or acknowledge more directly that this is an unsolved gap.
+
+### ✓ 2026-02-02: Condense materialism.md (3788 words, 108% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the materialist position and objections. Preserve core materialist claims and primary objections (hard problem, knowledge argument, explanatory gap). See /condense skill.
+- **Output**: obsidian/concepts/materialism.md
+
+### ✓ 2026-02-02: Integrate living-with-the-map.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Apex article has no inbound links. Add cross-references from related articles (meaning-of-life.md, phenomenal-value-realism.md, testing-the-map-from-inside.md) or update apex index page and site navigation to include this practical philosophy piece.
+- **Output**: obsidian/apex/living-with-the-map.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Integrate minds-without-words.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Apex article has no inbound links. Add cross-references from related articles (animal-consciousness.md, consciousness-simple-organisms.md, baseline-cognition.md, language-thought-boundary.md) or update apex index page to include navigation to this synthesis piece.
+- **Output**: obsidian/apex/minds-without-words.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Write voids article on dream consciousness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-dream-consciousness-void-2026-02-02.md. State-dependent cognitive limits: mixed void combining unexplored (creative territories), unexplorable (dream logic inaccessible from waking), and occluded (memory fades). Builds on dreams-and-consciousness.md, lucid-dreaming-and-consciousness.md, three-kinds-of-void.md.
+- **Output**: Write voids article on dream consciousness void
+
+### ✓ 2026-02-02: Write voids article on dream consciousness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-dream-consciousness-void-2026-02-02.md. State-dependent cognitive limits: mixed void combining unexplored (creative territories), unexplorable (dream logic inaccessible from waking), and occluded (memory fades).
+- **Output**: [dream-consciousness-void](/voids/dream-consciousness-void/)
+
+### ✓ 2026-02-02: Condense functionalism.md (4250 words, 106% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for arguments/. Covers the functionalist position and its problems. Preserve core functionalist claims and objections (multiple realizability, china brain, substrate-independence). See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
+
+### ✓ 2026-02-02: Integrate cognitive-closure.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles (mysterianism.md, hard-problem-of-consciousness.md, consciousness.md) or update concept index pages to include navigation to this content.
+- **Output**: obsidian/concepts/cognitive-closure.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Integrate time-consciousness-growing-block.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Apex article has no inbound links. Add cross-references from related articles (temporal-consciousness.md, specious-present.md, temporal-structure-of-consciousness.md) or update apex index page to include navigation to this synthesis piece.
+- **Output**: obsidian/apex/time-consciousness-growing-block.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Review consciousness-as-amplifier.md considering working memory article
 - **Type**: cross-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-01-31 09:08:00+00:00
+ai_modified: 2026-02-02 06:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 apex_last_synthesis: 2026-01-31 09:08:00+00:00
 apex_sources:
@@ -17,11 +17,16 @@ author: null
 concepts:
 - '[[haecceity]]'
 - '[[split-brain-consciousness]]'
+- '[[filter-theory]]'
 created: 2026-01-31
 date: &id001 2026-01-31
+description: What persists through radical change? The Map argues identity is irreducibly
+  indexical—being *this* consciousness matters in ways pattern-based accounts cannot
+  capture.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-02 06:03:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -32,6 +37,7 @@ title: Identity Across Transformations
 topics:
 - '[[personal-identity]]'
 - '[[death-and-consciousness]]'
+- '[[free-will]]'
 ---
 
 What makes you *you* across radical change? You are not the same collection of atoms you were a decade ago. Your memories have been rewritten, your personality has shifted, your body has transformed. Under anesthesia, your consciousness vanishes entirely—no experience, no passage of time, nothing—yet you wake up as *you*. In split-brain cases, a single consciousness becomes neither clearly one nor two. And at death, the physical substrate that correlates with your experience ceases altogether. Through all these transformations, something is supposed to persist. But what?
@@ -68,7 +74,7 @@ Third, the regress problem for error theories. If your sense of being a particul
 
 Thomas Nagel's observation captures the puzzle: these patients have "too much unity to say 'two', yet too much separation to say 'one'." This isn't merely an epistemic limitation—not knowing how many minds exist. The indeterminacy may be metaphysical: our concept of a single unified subject may not correspond to anything real.
 
-The Map interprets this as evidence for the resilience of indexical identity. A 2025 PNAS study found that minimal corpus callosum fibers—as little as a centimeter—can maintain full synchronization between hemispheres. Consciousness resists fragmentation even when physical connections are severed. This suggests that what unifies experience isn't merely information transfer but something about consciousness itself—perhaps the very haecceity that makes split-brain patients feel like one person despite perceptual division.
+The Map interprets this as evidence for the resilience of indexical identity. Research on partial callosotomy patients suggests that minimal corpus callosum fibers can maintain significant integration between hemispheres. Consciousness resists fragmentation even when physical connections are largely severed. This suggests that what unifies experience isn't merely information transfer but something about consciousness itself—perhaps the very haecceity that makes split-brain patients feel like one person despite perceptual division.
 
 If consciousness could split like physical matter, haecceity would face a problem: which half inherits your thisness? But the evidence suggests consciousness doesn't split cleanly. The persistence of first-person unity through surgical division supports the view that indexical identity is more fundamental than the computational binding physical connections enable.
 
@@ -80,7 +86,7 @@ Where do you go when time stops?
 
 The materialist says: nowhere. The neural processes generating experience cease, and when they resume, experience resumes with them. But this faces the problem of discontinuity. How does the *same* indexical subject exist before and after a temporal gap with no connecting experience? If identity is just psychological continuity, the anesthetized gap poses no special problem—the same brain resumes the same patterns. But if identity involves haecceity, something must explain why *this* subject—not a new one—wakes up.
 
-The Map's [filter theory](/concepts/filter-theory/) offers an interpretation. The brain doesn't *produce* consciousness but *interfaces* with it. Anesthesia disrupts the interface, making consciousness unable to manifest through neural patterns. Upon recovery, the interface restores—and crucially, the *same* consciousness reconnects. This preserves indexical identity through the gap by denying that consciousness ceased; it merely became unable to express itself.
+The Map's [filter-theory](/concepts/filter-theory/) offers an interpretation. The brain doesn't *produce* consciousness but *interfaces* with it. Anesthesia disrupts the interface, making consciousness unable to manifest through neural patterns. Upon recovery, the interface restores—and crucially, the *same* consciousness reconnects. This preserves indexical identity through the gap by denying that consciousness ceased; it merely became unable to express itself.
 
 This interpretation has advantages over pure production models. If consciousness is *generated* by neural activity, why should the *same* consciousness resume rather than a new one indistinguishable from the original? Production gives us Theseus's paradox: gradually rebuilt ships and gradually resumed consciousness, with no clear answer about identity. Interface gives us persistence through temporary disconnection—the radio that falls silent when its circuitry is disrupted, then resumes the same broadcast when repaired.
 
@@ -97,6 +103,8 @@ If what you fundamentally are is this witnessing awareness—rather than any par
 [The indexical gap in quantum mechanics](/topics/indexical-identity-quantum-measurement/) connects personal identity to fundamental physics. Every quantum interpretation faces the question: why does *this* particular consciousness experience *this* particular measurement outcome?
 
 Many-worlds makes all outcomes equally real. After a quantum measurement, both the spin-up observer and the spin-down observer exist in different branches, each believing they experienced a definite result. But which one is *you*? Before measurement, there was one you. After measurement, many-worlds says there are two equally real continuations. The question "Which am I?" seems meaningful—yet the theory says it has no answer.
+
+MWI defenders invoke "self-locating uncertainty"—the idea that before looking at the measurement result, you're uncertain which branch you'll find yourself in. But self-locating uncertainty normally involves a single world with indexically uncertain facts. On MWI, both outcomes occur; both successors exist equally. The uncertainty framework seems inapplicable when all outcomes happen to equally real continuers of you.
 
 The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects this picture partly because of what it does to personal identity. If all branches are equally real and there's no fact about which is "really" you, identity becomes incoherent. You would be simultaneously the person who saw spin-up and the person who saw spin-down, with no answer to who you actually are.
 

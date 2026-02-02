@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-01-30 07:40:00+00:00
+ai_modified: 2026-02-02 05:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -336,6 +336,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Chalmers' foundational framework
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The mechanism the coupling law governs
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Major theories of quantum-consciousness interface
+- [attention-interface-mechanisms](/topics/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions
 - [mental-effort](/concepts/mental-effort/) — The phenomenology Stapp's mechanism requires
 - [attention](/concepts/attention/) — The attention-consciousness relationship
 - [mental-causation](/concepts/mental-causation/) — How coupling addresses exclusion arguments

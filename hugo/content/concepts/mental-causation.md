@@ -23,6 +23,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[bidirectional-interaction]]'
 - '[[delegatory-dualism]]'
+- '[[observational-closure]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 description: How mental states cause physical effects despite Kim's exclusion argument.
@@ -106,7 +107,7 @@ Saad's analogy: A major and a sergeant both order troops to advance. The major's
 
 This differs crucially from overdetermination. Overdetermination posits two independent sufficient causes both contributing. Preemption has one cause *operating* while the other is *sidelined*—present but idle.
 
-Saad's distinction between *universal* closure (every physical event has sufficient physical cause) and *observational* closure (no detectable violations) parallels the Map's quantum framework: both hold that mental causation can be genuine without producing empirically detectable anomalies. Delegatory dualism addresses causal *structure*; the quantum opening addresses causal *mechanism*. The frameworks complement each other.
+Saad's distinction between *universal* closure (every physical event has sufficient physical cause) and *[observational closure](/concepts/observational-closure/)* (no detectable violations) parallels the Map's quantum framework: both hold that mental causation can be genuine without producing empirically detectable anomalies. Delegatory dualism addresses causal *structure*; the quantum opening addresses causal *mechanism*. The frameworks complement each other.
 
 ### The Quantum Opening
 

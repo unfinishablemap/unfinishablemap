@@ -50,7 +50,7 @@ Chomsky calls what philosophers name "new mysterianism" simply "truism" for anyo
 
 ## Species-Specific Closure
 
-Colin McGinn formalises this into *cognitive closure*: a mind is closed with respect to a property if its concept-forming procedures cannot extend to grasp that property. The limitation is principled, not practical—constitutionally inaccessible, not merely difficult. A rat is cognitively closed to calculus; this tells us something about rat cognitive architecture.
+Colin McGinn formalises this into *[cognitive closure](/concepts/cognitive-closure/)*: a mind is closed with respect to a property if its concept-forming procedures cannot extend to grasp that property. The limitation is principled, not practical—constitutionally inaccessible, not merely difficult. A rat is cognitively closed to calculus; this tells us something about rat cognitive architecture.
 
 McGinn argues humans are likely cognitively closed to "property P"—whatever bridges neural activity and conscious experience. We access consciousness through introspection and brain through perception, but neither reveals the connection. The [hard problem](/topics/hard-problem-of-consciousness/) may be unsolvable not because the solution is supernatural but because it lies outside our cognitive reach.
 

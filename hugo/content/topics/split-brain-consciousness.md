@@ -247,6 +247,7 @@ This is not a failure to find an answer. It may be a clue to what consciousness 
 ## Further Reading
 
 ### Site Content
+- [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: how indexical identity persists through split-brain, anesthesia, altered states, and death
 - [phenomenal-unity](/concepts/phenomenal-unity/) — The three dimensions of experiential unity that split-brain cases stress-test
 - [binding-problem](/concepts/binding-problem/) — How distributed processes combine into unified experience
 - [personal-identity](/topics/personal-identity/) — What makes you *you* across time

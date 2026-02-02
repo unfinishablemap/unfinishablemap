@@ -248,6 +248,7 @@ What the Map claims: given its dualist commitments, survival is a *coherent poss
 
 ## Further Reading
 
+- [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: how indexical identity persists through radical transformation, from split-brain to death
 - [near-death-experiences](/concepts/near-death-experiences/) — Evidence from recalled experience of death
 - [filter-theory](/concepts/filter-theory/) — The transmission model reframing death as disconnection
 - [personal-identity](/topics/personal-identity/) — Why indexical identity matters for survival

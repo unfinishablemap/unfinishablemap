@@ -53,7 +53,7 @@ This position occupies important middle ground. Unlike eliminativism, mysteriani
 
 ## Cognitive Closure
 
-McGinn's key concept is cognitive closure. A type of mind M is cognitively closed with respect to a property P if M's concept-forming procedures cannot extend to a grasp of P. The property exists; M simply cannot conceive it.
+McGinn's key concept is [cognitive closure](/concepts/cognitive-closure/). A type of mind M is cognitively closed with respect to a property P if M's concept-forming procedures cannot extend to a grasp of P. The property exists; M simply cannot conceive it.
 
 This isn't about intelligence within a domain—it's about which domains are accessible at all. No amount of rat intelligence grants access to differential equations. The conceptual apparatus isn't there.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-29 21:15:00+00:00
+ai_modified: 2026-02-02 05:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -161,6 +161,7 @@ The Map doesn't commit to Stapp's specific proposal over other quantum conscious
 - [neuroplasticity](/concepts/neuroplasticity/) — Empirical evidence for consciousness-driven brain change
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Comprehensive treatment of Stapp's quantum Zeno mechanism
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer between consciousness and neural systems
+- [attention-interface-mechanisms](/topics/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions
 - [voluntary-attention](/concepts/voluntary-attention/) — The willed/instructed distinction and neural signatures
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The choosing-observing distinction
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Selection vs witnessing modes

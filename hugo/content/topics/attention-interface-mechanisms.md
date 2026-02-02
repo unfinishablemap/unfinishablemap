@@ -1,9 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 03:08:00+00:00
+ai_modified: 2026-02-02 05:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
+coalesced_from:
+- /topics/attention-motor-quantum-selection/
 concepts:
 - '[[attention]]'
 - '[[attention-as-interface]]'
@@ -15,26 +17,34 @@ concepts:
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[psychophysical-coupling]]'
 - '[[interface-locality]]'
-created: 2026-02-02
+- '[[attention-motor-quantum-interface]]'
+- '[[motor-selection]]'
+- '[[dopamine-selection-interface]]'
+- '[[agent-causation]]'
+created: 2026-02-01
 date: &id001 2026-02-02
-description: Candidate neural sites, timing constraints, and testable predictions
-  for how consciousness might influence brain states through attention.
+description: The unified attention-motor substrate where consciousness selects among
+  competing neural options through quantum mechanisms—candidate sites, timing constraints,
+  and testable predictions.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-02 05:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[attention-as-interface-hypothesis-2026-01-16]]'
 - '[[attention-motor-planning-quantum-interface-2026-01-23]]'
 - '[[attention-consciousness-mechanisms-2026-01-15]]'
+- '[[dopamine-attention-motor-quantum-interface-2026-01-24]]'
+- '[[motor-control-quantum-zeno-2026-01-18]]'
 title: Mechanisms of the Attention-Consciousness Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[free-will]]'
 ---
 
-The [attention-as-interface](/concepts/attention-as-interface/) hypothesis proposes that attention mediates consciousness's influence on brain states. But *where* in the brain does this interface operate, and *how* might consciousness bias neural outcomes? This article examines the candidate mechanisms—the specific neural sites, timing constraints, and empirical predictions that could test whether attention really functions as the mind-matter bridge.
+The [attention-as-interface](/concepts/attention-as-interface/) hypothesis proposes that attention mediates consciousness's influence on brain states. But *where* in the brain does this interface operate, and *how* might consciousness bias neural outcomes? A key insight: attention and motor planning share neural substrates—the premotor theory of attention suggests these are not separate systems. If consciousness operates through attention, and attention is motor planning, then consciousness engages through a unified selection mechanism connecting perception to action.
 
 The Unfinishable Map doesn't commit to a specific mechanism. What matters is the framework: consciousness acts on matter through attention, at sites where quantum indeterminacy leaves room for selection. Multiple candidate sites exist, each with different strengths and challenges.
 
@@ -47,6 +57,39 @@ If consciousness influences matter through attention, three questions arise:
 3. **How?** What mechanism allows non-physical influence without violating conservation laws?
 
 Standard neuroscience describes attention in computational terms: precision weighting, gain modulation, competitive selection. These describe *what* attention does functionally but not *what* attention is. The interface hypothesis asks whether consciousness contributes something these descriptions miss.
+
+## The Convergence of Attention and Motor Planning
+
+### Rizzolatti's Premotor Theory
+
+Giacomo Rizzolatti's premotor theory of attention (PMTA) challenges the assumption that attention and motor control are distinct systems. The core claim: selective attention and movement planning use the same neural substrates—there is no independent attention system.
+
+The evidence is substantial:
+
+- The same fronto-parietal networks activate during spatial attention shifts and motor preparation
+- Preparing an eye movement to location X improves visual processing at X—attention is the motor preparation
+- Microstimulation of motor regions enhances visual processing at the target location
+- Attempts to identify attention regions independent of motor planning consistently fail
+
+If PMTA is correct, the distinction between "attending to X" and "preparing to orient toward X" is artificial. What feels like directing attention is actually preparing action.
+
+### The Prefrontal Hierarchy
+
+A 2022 Royal Society paper extends this insight: "The entirety of the prefrontal cortex can be seen as fundamentally premotor in nature." What appears to be "executive function" or "abstract thought" is an action abstraction hierarchy—from concrete motor commands at one end to abstract goals at the other.
+
+This reframes the question of conscious control. If prefrontal cortex is premotor cortex, then conscious deliberation is a form of motor planning at high abstraction. The question "what should I do?" is as much motor preparation as "how should I move my arm?"
+
+### Shared Neural Signatures
+
+The convergence manifests in three neural signatures that distinguish willed from automatic processing in both domains:
+
+| Signature | In Attention | In Motor Control |
+|-----------|--------------|------------------|
+| **Frontal theta** | Present for willed attention, absent for instructed (Bengson 2019) | Present for voluntary movement initiation |
+| **Bidirectional coherence** | Theta-band coherence between frontal and parietal regions during willed attention | Similar bidirectional flow during genuine motor deliberation |
+| **~280-300ms timing** | Willed attention takes ~300ms to deploy | Motor commitment occurs ~280ms before movement (Thura & Cisek 2014) |
+
+The timing match is striking. If attention and motor selection were independent systems operating through different mechanisms, why would they share the same timeline?
 
 ## Candidate Selection Sites
 
@@ -68,7 +111,7 @@ The Penrose-Hameroff orchestrated objective reduction (Orch OR) hypothesis locat
 
 **Evidence for:** 2025 research found room-temperature quantum effects in microtubules; anesthetics target microtubules and cause unconsciousness; coherence time estimates have been revised upward (from Tegmark's 10⁻¹³ seconds to 10⁻⁴ seconds in corrected models—seven orders of magnitude longer).
 
-**Challenges:** Even revised estimates remain controversial. Orch OR proposes a specific collapse mechanism (gravitational self-reduction) that differs from standard quantum mechanics and remains untested.
+**Challenges:** Even revised estimates remain controversial—Tegmark's original calculations are still defended by many physicists, and the corrected parameters Hameroff's group uses are contested. Orch OR proposes a specific collapse mechanism (gravitational self-reduction) that differs from standard quantum mechanics and remains untested.
 
 **Relation to attention:** Orch OR doesn't specifically address attention's role. One integration: attention might determine which microtubule ensembles undergo coordinated collapse—selecting the "orchestration" pattern.
 
@@ -99,6 +142,53 @@ If true, attention might determine which microcolumn coherence patterns are sust
 
 **Status:** Highly speculative; the zero-point field hypothesis lacks independent confirmation.
 
+## The Competition-Selection Architecture
+
+### Parallel Options
+
+The brain doesn't compute single decisions serially. Research by Paul Cisek demonstrates that when faced with choices, the motor system represents multiple options simultaneously. In premotor cortex, 43% of task-related neurons fired for either of two potential reach targets—encoding both before selection occurred.
+
+This parallel representation is what makes selection meaningful. If the brain generated only one option at a time, there would be nothing to choose among. The existence of competing representations creates the space for selection—and raises the question of what does the selecting.
+
+### Threshold Crossing
+
+Neural competition resolves through threshold crossing. Competing representations accumulate support until one reaches threshold, triggering winner-take-all dynamics where the winning option executes while competitors are suppressed.
+
+This architecture provides a precise candidate locus for quantum selection. Multiple options exist simultaneously. One must become actual. The threshold crossing moment is where the resolution occurs—and where, under the Map's framework, consciousness contributes by biasing which option wins the race.
+
+### The Determinism Question
+
+Either the competition is deterministic—one option was always going to win—or it involves genuine indeterminacy. If deterministic, deliberation is theatre. The neurons encoding both options weren't weighing alternatives but mechanically computing a predetermined outcome.
+
+If genuinely indeterminate, something must resolve the indeterminacy. Pure randomness produces arbitrary selection, not choice. For outcomes to be both undetermined and meaningful, something beyond neural dynamics must bias which option actualises—consciousness entering not as noise, but as the resolution of indeterminacy in a direction that reflects what the agent is trying to do.
+
+## Dopamine and the Selection Threshold
+
+### "Can Move" But "Won't Move"
+
+A 2024 *Nature* study reveals a striking dissociation. Dopamine-deficient mice retain motor capacity—the circuitry for movement is intact. But they lose goal-directed initiative. They "can move" but "won't move."
+
+This suggests dopamine functions not as motor fuel but as something that sets the threshold for selection. The mice can move if externally triggered; what they lack is the internal drive that makes movement happen.
+
+### Three-Layer Architecture
+
+The research suggests a three-layer model for motor selection:
+
+1. **Neural computation** generates competing options (preserved without dopamine)
+2. **Dopamine** sets the threshold sensitivity and marks options as salient—worth pursuing
+3. **Consciousness** (via quantum selection) determines which option crosses threshold
+
+Dopamine doesn't cause movement; it tags what matters. Consciousness doesn't generate options; it selects among tagged options. The architecture satisfies the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness doesn't inject energy—it biases which accumulating option wins.
+
+### Tonic vs Phasic Signaling
+
+The 2024 research further distinguishes tonic (slow, background) from phasic (rapid, event-locked) dopamine:
+
+- **Tonic dopamine** supports baseline motor capacity—the ability to move at all
+- **Phasic dopamine** drives motivation and reward-seeking—the desire to pursue
+
+This maps onto the selection architecture. Tonic dopamine maintains the general capacity for threshold-crossing. Phasic dopamine modulates which specific options are marked as worth pursuing. Consciousness operates at the level of phasic selection—choosing among options already tagged as salient.
+
 ## Timing Constraints
 
 Different timescales interact at the interface:
@@ -112,7 +202,7 @@ Different timescales interact at the interface:
 | ~300 ms | Willed attention deployment (Bengson) | Full interface engagement |
 | Sustained | Maintained willed attention | Where Zeno effects accumulate |
 
-The convergence of ~280ms motor commitment and ~300ms willed attention deployment is striking. If attention and motor selection share a mechanism (as the premotor theory proposes), this shared timescale marks where consciousness engages.
+The convergence of ~280ms motor commitment and ~300ms willed attention deployment is striking. If attention and motor selection share a mechanism (as the premotor theory proposes), this shared timescale marks where consciousness engages. This timing window is directly relevant to [free-will](/topics/free-will/) debates: it identifies when deliberation resolves into commitment—the locus where [agent-causation](/concepts/agent-causation/) could operate.
 
 For quantum mechanisms to work, decoherence must be slow enough to permit meaningful influence before quantum effects dissipate. Tegmark's original calculations ruled this out; revised estimates (supported by 2025 research on biological quantum effects) may permit it.
 
@@ -121,6 +211,25 @@ For quantum mechanisms to work, decoherence must be slow enough to permit meanin
 Schurger's 2012 model reinterpreted Libet's readiness potential as stochastic neural noise rather than unconscious decision. On this view, background fluctuations bring competing options toward threshold; consciousness selects *when* to allow threshold-crossing.
 
 This fits the interface framework: neural competition generates options; consciousness biases which wins. The ~300ms deployment window might be when this selection occurs—after options are generated, before one executes.
+
+## The Quantum Zeno Mechanism
+
+### Stapp's Framework
+
+Henry Stapp proposes that consciousness operates through the quantum Zeno effect—a standard result in quantum mechanics where rapid, repeated observation prevents a quantum system from evolving. In the brain, mental attention acts like repeated observation, holding desired neural patterns stable against their tendency to dissipate into alternatives.
+
+If attention is motor planning, the Zeno mechanism applies directly to motor selection:
+
+1. **Neural superposition**: Multiple motor programs compete (classical analog: competing representations)
+2. **Attentional observation**: Directing attention to a motor plan constitutes observation
+3. **Zeno stabilisation**: Repeated observation holds the selected plan stable
+4. **Threshold facilitation**: Sustained attention biases which population reaches threshold first
+
+### Why Effort Feels Effortful
+
+This framework explains the phenomenology. Sustaining motor intention feels effortful for the same reason sustaining attention feels effortful: both require continuous engagement to maintain Zeno freezing. The effort is real cognitive work—maintaining the observation rate that keeps the selected pattern from dissipating.
+
+William James observed that "volition is nothing but attention" and "the free will question relates solely to the amount of effort of attention." Stapp's framework vindicates James: effort corresponds to observation rapidity.
 
 ## The Bandwidth Constraint
 
@@ -132,6 +241,41 @@ Implications for mechanism:
 - The brain generates and evaluates options unconsciously; consciousness selects among results
 
 This bandwidth constraint is consistent with all candidate mechanisms. Whether selection occurs at ion channels, microtubules, or neural assemblies, it operates on aggregate patterns that fall within the ~10 bits/second window.
+
+## The Libet Challenge Revisited
+
+### The Apparent Problem
+
+Benjamin Libet's 1983 experiments found that the readiness potential (RP)—neural activity in motor cortex—begins ~550ms before movement, while conscious awareness of intention occurs only ~200ms before. This seemed to show the brain "decides" before we're aware.
+
+The challenge to free will appeared direct: if neural activity precedes conscious awareness, consciousness arrives too late to cause anything.
+
+### The Stochastic Reinterpretation
+
+Schurger's 2012 model reframes the finding. The RP may be an artifact of averaging stochastic neural noise, not a signature of unconscious decision. Movement occurs when random fluctuations happen to reach threshold; averaging across trials produces the characteristic RP shape.
+
+What appears to be "the brain deciding" may be neural noise accumulating until threshold is crossed. What consciousness contributes is determining *when to allow* threshold crossing—selection among options, not initiation from nothing.
+
+### Surgical Evidence
+
+Sjöberg (2024) provides surgical evidence: patients with resection of the supplementary motor area (SMA)—the region generating the RP—retain their sense of voluntary action. If the RP reflected genuine volition, removing it should impair the sense of willing. It doesn't. The findings, Sjöberg concludes, are "completely irrelevant to the neuroscientific discussion about free will."
+
+The Libet challenge has been substantially weakened. The space for conscious contribution remains open.
+
+## The Intention-Execution Dissociation
+
+### Desmurget's Double Dissociation
+
+Neurosurgical studies by Desmurget (2009) reveal a double dissociation:
+
+- **Parietal stimulation** produces conscious intention without movement—or false belief of having moved (without any muscle activity)
+- **Premotor stimulation** produces movement without awareness
+
+Intention and execution are separable. The phenomenology of "deciding to move" arises in parietal cortex, part of the posterior "hot zone" associated with conscious content. The execution machinery operates independently.
+
+### Selection vs Execution
+
+This maps directly onto the Map's framework. Consciousness contributes at the selection level—choosing what to do—not at the execution level. This explains why we experience choosing to reach for a cup but don't experience choosing the firing patterns of individual motor neurons. The quantum Zeno mechanism operates at the selection interface: the level of "what" rather than "how."
 
 ## Testable Predictions
 
@@ -197,17 +341,25 @@ The interface framework would face serious challenge if:
 
 The interface framework presupposes consciousness is distinct from attention mechanisms. If consciousness were identical to neural attention processing, "interface" would be meaningless—what would interface with what? The hypothesis specifies how a non-physical subject engages with physical systems.
 
+The framework illuminates why the [explanatory-gap](/concepts/explanatory-gap/) exists. Physical descriptions characterise the option space—competing neural representations, threshold dynamics, dopaminergic modulation. Experiential descriptions characterise the selection—the felt sense of effort, intention, choice. Neither reduces to the other because they describe complementary aspects: what's available and what's selected.
+
 ### Minimal Quantum Interaction
 
 All candidate mechanisms satisfy the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. Consciousness doesn't inject energy or violate conservation laws—it biases indeterminate outcomes at sites where physics leaves room. The "minimal" constraint excludes psychokinesis and gross physical effects; it permits influence at quantum scales where selection rather than causation is the concept.
+
+The architecture further satisfies this: consciousness doesn't generate neural activity—the brain does that. Consciousness doesn't inject energy—the competing representations already exist. What consciousness contributes is bias at the moment of resolution: which of the already-present options crosses threshold. Conservation laws are preserved because the energy for any selected action comes from ordinary metabolic processes.
 
 ### Bidirectional Interaction
 
 The interface hypothesis *is* the specification of how [bidirectional interaction](/tenets/#bidirectional-interaction) works mechanistically. Without some interface specification, "consciousness influences matter" remains mere assertion. These candidate mechanisms make the assertion concrete and testable.
 
+The unified attention-motor substrate grounds this in empirical neuroscience:
+- **Consciousness → Brain**: Through selection among competing neural options (attention/motor planning)
+- **Brain → Consciousness**: Through presentation of options to select among (affordance specification)
+
 ### No Many Worlds
 
-All proposed mechanisms require genuine collapse. The quantum Zeno effect holds patterns by repeated observation that collapses wavefunctions. Orch OR requires gravitational self-collapse. Under [many-worlds](/tenets/#no-many-worlds), there's nothing to select—all outcomes occur in different branches. Selection presupposes single-world quantum mechanics.
+All proposed mechanisms require genuine collapse. The quantum Zeno effect holds patterns by repeated observation that collapses wavefunctions. Orch OR requires gravitational self-collapse. Under [many-worlds](/tenets/#no-many-worlds), all outcomes occur in different branches. MWI proponents argue that selection still occurs "within branches"—observers experience definite outcomes. The Map's response: if all branches actualize equally, then "selection" becomes mere self-location rather than genuine choice. The phenomenology of effort—the sense of determining an outcome—would be illusory. Selection as the Map understands it presupposes single-world quantum mechanics where alternatives genuinely compete.
 
 ### Occam's Razor Has Limits
 
@@ -215,8 +367,9 @@ The 2025 adversarial testing found neither Global Workspace Theory nor Integrate
 
 ## Summary
 
-The attention-as-interface hypothesis proposes that consciousness acts on matter through attention at specific neural sites where quantum indeterminacy permits influence without violating conservation laws. Multiple candidate sites exist:
+The attention-as-interface hypothesis proposes that consciousness acts on matter through a unified attention-motor substrate where quantum indeterminacy permits influence without violating conservation laws. The premotor theory of attention grounds this: what feels like directing attention is actually motor planning. The competition-selection architecture—multiple options competing for threshold crossing—provides the space where consciousness contributes.
 
+Multiple candidate sites exist:
 - **Ion channels (Stapp):** Quantum Zeno effect through attentional observation
 - **Microtubules (Orch OR):** Quantum computation with gravitational self-collapse
 - **Posterior-frontal junction:** Where content meets control
@@ -230,34 +383,49 @@ The Map doesn't commit to a specific mechanism. The commitment is to the framewo
 ## Further Reading
 
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis stated and developed
+- [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) — Detailed concept treatment of the unified interface
+- [motor-selection](/concepts/motor-selection/) — Motor selection and premotor theory in depth
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum approaches
 - [decoherence](/concepts/decoherence/) — The decoherence objection and responses
 - [mental-effort](/concepts/mental-effort/) — Phenomenology of attentional effort
 - [structure-of-attention](/topics/structure-of-attention/) — Willed, instructed, and exogenous attention
-- [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) — Unified attention-motor substrate
+- [dopamine-selection-interface](/concepts/dopamine-selection-interface/) — Dopamine's role in threshold modulation
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — Constraints on what consciousness can influence
+- [free-will](/topics/free-will/) — How the timing constraints relate to libertarian free will
+- [agent-causation](/concepts/agent-causation/) — The selection model as agent causation
+- [libet-experiments](/concepts/libet-experiments/) — Detailed analysis of readiness potential experiments
 
 ## References
 
-1. Bengson, J.J. et al. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+1. Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 
-2. Cisek, P. & Kalaska, J.F. (2005). Neural correlates of reaching decisions in dorsal premotor cortex. *Neuron*, 45(5), 801-814.
+2. Cisek, P., & Kalaska, J.F. (2005). Neural correlates of reaching decisions in dorsal premotor cortex. *Neuron*, 45(5), 801-814.
 
-3. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
+3. Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
 
-4. Keppler, J. (2025). Cortical microcolumns and the quantum zero-point field. *Frontiers in Human Neuroscience*.
+4. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 
-5. Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121.
+5. Kaeser, P.A., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*. https://doi.org/10.1038/s41586-024-08038-z
 
-6. Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Nature*, 642(8066), 133-142.
+6. Keppler, J. (2025). Cortical microcolumns and the quantum zero-point field. *Frontiers in Human Neuroscience*.
 
-7. Schurger, A. et al. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
+7. Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121.
 
-8. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
+8. Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Nature*, 642(8066), 133-142.
 
-9. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+9. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
 
-10. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+10. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 
-11. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
+11. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
+
+12. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
+
+13. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+
+14. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+
+15. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
+
+16. Wise, S.P., & Murray, E.A. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.

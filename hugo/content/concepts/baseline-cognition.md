@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-29 01:33:16+00:00
+ai_modified: 2026-02-02 06:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ description: 'Baseline cognition is what neural systems achieve without consciou
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 01:33:16+00:00
+last_deep_review: 2026-02-02 06:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -265,6 +265,9 @@ The baseline cognition hypothesis could be undermined by:
 - [introspection](/concepts/introspection/) — The capacity to examine one's own mental states
 - [consciousness-independent-baseline-cognition-2026-01-21](/research/consciousness-independent-baseline-cognition-2026-01-21/) — Research notes underlying this article
 
+### Apex Synthesis
+- [minds-without-words](/apex/minds-without-words/) — How baseline cognition illuminates non-linguistic consciousness across species
+
 ## References
 
 - De Neys, W. (2012). Bias and conflict: A case for logical intuitions. *Perspectives on Psychological Science*, 7(1), 28-38.
@@ -273,6 +276,7 @@ The baseline cognition hypothesis could be undermined by:
 - Miyamoto, K., et al. (2023). Great ape cognition is structured by stable cognitive abilities and predicted by developmental experience. *Nature Ecology & Evolution*, 7, 1473-1483.
 - Mulcahy, N.J., & Call, J. (2006). Apes save tools for future use. *Science*, 312(5776), 1038-1040.
 - Povinelli, D.J. (2000). *Folk Physics for Apes: The Chimpanzee's Theory of How the World Works*. Oxford University Press.
+- Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 - Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
 - Suddendorf, T., & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
 - Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.

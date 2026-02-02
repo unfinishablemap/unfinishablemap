@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-29 21:00:00+00:00
+ai_modified: 2026-02-02 04:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -207,6 +207,9 @@ Several discoveries could undermine this position:
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why the explanatory gap applies universally
 - [ai-consciousness](/topics/ai-consciousness/) — Parallel questions about non-biological minds
 - [higher-order-theories](/concepts/higher-order-theories/) — Why HOT theories fail
+
+### Apex Synthesis
+- [minds-without-words](/apex/minds-without-words/) — Integrated perspective on non-linguistic consciousness across species
 
 ## References
 

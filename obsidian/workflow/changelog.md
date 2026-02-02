@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 06:42 UTC - deep-review
+- **Status**: Success (cleanup)
+- **File**: altered-states-consciousness.md (orphan)
+- **Action**: Deleted stale hugo/content/topics/altered-states-consciousness.md
+- **Notes**: This file was flagged as orphaned, but investigation revealed it was a stale duplicate. The original topics/altered-states-consciousness article was coalesced into concepts/altered-states-of-consciousness on 2026-01-25. The archived version exists correctly at archive/topics/altered-states-consciousness.md with proper archive metadata. The stale copy in hugo/content/topics/ was missing archive markers and causing orphan detection. No content changes needed - the concepts version already has 27+ inbound links and two prior deep reviews marking it as stable.
+
+---
+
 ## 2026-02-02 06:37 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/comparative-consciousness-and-interface-differences]]

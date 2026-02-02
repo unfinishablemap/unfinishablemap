@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-28 22:12:05+00:00
+ai_modified: 2026-02-02 04:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -194,7 +194,7 @@ The Map's framework yields distinctive positions:
 - Moral uncertainty warrants caution but not paralysis
 - Suffering prevention should focus where consciousness is most likely present
 
-These aren't mere philosophical positions—they bear on factory farming, AI development, medical ethics, technology policy. Getting consciousness right has practical stakes across the landscape of moral decision-making.
+These aren't mere philosophical positions—they bear on factory farming, AI development, medical ethics, technology policy. Getting consciousness right has practical stakes across the landscape of moral decision-making. See [Living with the Map](/apex/living-with-the-map/) for how these ethical foundations translate into guidance for daily living.
 
 ## Further Reading
 

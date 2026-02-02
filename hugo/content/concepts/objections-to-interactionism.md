@@ -17,6 +17,7 @@ concepts:
 - '[[pairing-problem]]'
 - '[[luck-objection]]'
 - '[[delegatory-dualism]]'
+- '[[observational-closure]]'
 created: 2026-01-18
 date: &id001 2026-01-18
 description: 'Six major challenges to dualism: pairing, conservation, parsimony, decoherence,
@@ -251,7 +252,7 @@ This transforms the exclusion argument from a dilemma into a false premise: clos
 
 This avoids overdetermination because only one cause operates: the experience does the causal work while the physical state is sidelined. Preemption differs from overdetermination the way an assassin's successful shot differs from a backup shooter's bullet arriving simultaneously—one cause acts, the other is rendered idle.
 
-Saad's framework also distinguishes *observational closure* from *universal closure*: mental causation need not violate what physics experiments can detect, only what physics would accomplish if consciousness weren't present. This distinction strengthens the falsifiability conditions discussed below.
+Saad's framework also distinguishes *[observational closure](/concepts/observational-closure/)* from *universal closure*: mental causation need not violate what physics experiments can detect, only what physics would accomplish if consciousness weren't present. This distinction strengthens the falsifiability conditions discussed below.
 
 ### Connection to the Luck Objection
 

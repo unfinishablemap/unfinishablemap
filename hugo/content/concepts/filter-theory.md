@@ -225,6 +225,7 @@ The Buddhist framework offers something filter theory lacks: a detailed phenomen
 
 ## Further Reading
 
+- [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: how filter theory explains identity persistence through anesthesia and death
 - [default-mode-network](/concepts/default-mode-network/) — The brain's self-referential system as a specific filter mechanism
 - [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Filter theory and simple organisms
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist parallels and meditation as filter reduction

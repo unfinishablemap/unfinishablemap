@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-02-01 18:10:00+00:00
+ai_modified: 2026-02-02 04:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -195,6 +195,9 @@ Emotional consciousness is not a puzzle awaiting functional solution. It is evid
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems can be phenomenally conscious
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of consciousness
 - [emotional-consciousness-valence-2026-01-19](/research/emotional-consciousness-valence-2026-01-19/) — Research notes on emotions and valence
+
+### Apex Synthesis
+- [minds-without-words](/apex/minds-without-words/) — How emotional consciousness extends to non-linguistic creatures
 
 ## References
 

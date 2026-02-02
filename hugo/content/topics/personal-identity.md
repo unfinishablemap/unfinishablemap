@@ -201,6 +201,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 
 ## Further Reading
 
+- [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: how indexical identity persists through split-brain division, anesthesia, altered states, and death
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The Map's detailed critique of Parfit's view
 - [many-worlds](/arguments/many-worlds/) — Why the Map rejects many-worlds (the indexical problem is central)
 - [haecceity](/concepts/haecceity/) — Primitive thisness, Whitehead's process philosophy, and why qualitative identity isn't enough
@@ -209,6 +210,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Empirical evidence on consciousness unity and division
 - [death-and-consciousness](/topics/death-and-consciousness/) — What survival after death would require
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on self; the *anatta* doctrine and the witness response
+- [eastern-philosophy-haecceity-tension](/topics/eastern-philosophy-haecceity-tension/) — Process haecceitism: how Buddhist impermanence and indexical identity coexist
 - [illusionism](/concepts/illusionism/) — The challenge that consciousness itself is illusory
 - [decoherence](/concepts/decoherence/) — The quantum coherence objection and responses
 - [tenets](/tenets/) — The framework grounding this view

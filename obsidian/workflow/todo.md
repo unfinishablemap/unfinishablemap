@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02 03:08:00+00:00
+ai_modified: 2026-02-02T06:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate altered-states-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-01-23) has no inbound links. Covers psychedelics, meditation, dreaming, and what altered states reveal about consciousness. Add cross-references from dreams-and-consciousness.md, meditation-and-consciousness-modes.md, phenomenology-of-understanding.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -53,6 +47,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
+- **Generated**: 2026-02-02
+
+### P2: Write voids article on creativity void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-creativity-void-2026-02-02.md. Creativity as generative territory: unexplored realms revealed through creative acts, where consciousness generates genuinely novel combinations inaccessible to purely algorithmic processes. Connects to consciousness-and-creativity.md, phenomenology-of-understanding.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Write voids article on the death void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-the-death-void-2026-02-02.md. The ultimate cognitive limit: what lies beyond death for consciousness. Connects to death-and-consciousness.md, personal-identity.md, meaning-of-life.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Integrate dream-consciousness-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created voids article (2026-02-02) has no inbound links. Add cross-references from related articles (dreams-and-consciousness.md, three-kinds-of-void.md, lucid-dreaming-and-consciousness.md) to integrate this void into the site navigation.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Write voids article on intersubjective void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-intersubjective-void-2026-02-01.md. The cognitive gap between consciousnesses: what one mind cannot directly access about another. Connects to problem-of-other-minds.md, intersubjectivity.md, other-minds-void.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Condense death-and-consciousness.md (4478 words, 111% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Covers death from a consciousness perspective—near-death experiences, persistence questions, and what the Map's framework suggests. Preserve core arguments while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P3: Deep review neural-implementation-specifics.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Technical article on candidate neural sites for the consciousness-brain interface. Check empirical claims, ensure alignment with Map's framework, verify connections to attention-interface-mechanisms.md.
+- **Source**: staleness
 - **Generated**: 2026-02-02
 
 ### P3: Write article on emergence and strong emergence
@@ -239,6 +269,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate altered-states-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-01-23) has no inbound links. Covers psychedelics, meditation, dreaming, and what altered states reveal about consciousness. Add cross-references from dreams-and-consciousness.md, meditation-and-consciousness-modes.md, phenomenology-of-understanding.md.
+- **Output**: altered-states-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Deep review testing-the-map-from-inside.md for quality
 - **Type**: deep-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-31 10:08:00+00:00
+ai_modified: 2026-02-02 04:04:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -99,7 +99,7 @@ The Map satisfies both conditions for free will:
 - **Sourcehood**: Consciousness selects which quantum outcome becomes actual
 - **Alternative possibilities**: Multiple outcomes were genuinely possible until selection
 
-The [retrocausal dimension](/concepts/retrocausality/) deepens this: if selection is atemporal, determining which temporal history becomes real, the agent is "the cause of there being this chain at all."
+The [retrocausal dimension](/concepts/retrocausality/) deepens this: if selection is atemporal, determining which temporal history becomes real, the agent is "the cause of there being this chain at all." The [Time, Consciousness, and the Growing Block](/apex/time-consciousness-growing-block/) apex synthesis develops the full implications: agents don't just act *within* time—they participate in time's constitution. If collapse creates temporal direction, and consciousness participates in collapse, then agent causation becomes participation in creating the temporal structure within which actions unfold.
 
 ## Skill Delegation and the Interface
 
