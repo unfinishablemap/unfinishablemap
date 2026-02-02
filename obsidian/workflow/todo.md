@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02T10:38:00+00:00
+ai_modified: 2026-02-02T10:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -47,6 +47,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
+- **Generated**: 2026-02-02
+
+### P2: Write voids article on memory void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-memory-void-2026-02-01.md. The memory void concerns phenomenal gaps in recollection—not forgetting (which is documented), but the structural impossibility of re-accessing past conscious states. Connects to past-self-void.md, temporal-asymmetry-remembering-anticipating.md, thoughts-that-slip-away.md, introspection.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Integrate contemplative-neuroscience-integration.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created topics article (2026-02-02) has no inbound links. Integrates neuroscience of meditation (DMN deactivation, gamma synchrony, neuroplasticity) with phenomenological reports. Add cross-references from meditation-and-consciousness-modes.md, witness-consciousness.md, neurophenomenology.md, bidirectional-interaction.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Integrate history-of-interactionist-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created topics article (2026-02-02) has no inbound links. Historical trajectory from Descartes through Princess Elizabeth to Stapp. Add cross-references from interactionist-dualism.md, conservation-laws-and-mind.md, objections-to-interactionism.md, quantum-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Integrate phenomenal-value-realism-development.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created topics article (2026-02-02) has no inbound links. Develops metaethical foundations for consciousness-grounded value. Add cross-references from meaning-of-life.md, phenomenal-value-realism.md, epistemic-advantages-of-dualism.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Review free-will.md considering volitional opacity insights
+- **Type**: cross-review
+- **Notes**: New article voids/volitional-opacity.md (2026-02-02) explores the gap between willing and its neural/cognitive implementation. The free-will.md article should be cross-reviewed for: (1) cross-links to volitional opacity, (2) how opacity of willing relates to libertarian free will arguments, (3) connection between Libet experiments and the experience of intending.
+- **Source**: chain (from volitional-opacity.md)
+- **Generated**: 2026-02-02
+
+### P2: Review introspection.md considering introspective opacity insights
+- **Type**: cross-review
+- **Notes**: New article voids/introspective-opacity.md (2026-02-02) explores structural limits on consciousness observing its own operations. The introspection.md concept page should be cross-reviewed for: (1) cross-links to introspective opacity, (2) relationship between introspective reliability debates and structural opacity, (3) implications for Cartesian certainty claims.
+- **Source**: chain (from introspective-opacity.md)
 - **Generated**: 2026-02-02
 
 ### P3: Deep review process-and-consciousness.md for quality
