@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense functionalism.md (4250 words, 106% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for arguments/. Covers the functionalist position and its problems. Preserve core functionalist claims and objections (multiple realizability, china brain, substrate-independence). See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
 ### P3: Write article on emergence and strong emergence
 - **Type**: expand-topic
 - **Status**: pending
@@ -211,6 +205,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense functionalism.md (4250 words, 106% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for arguments/. Covers the functionalist position and its problems. Preserve core functionalist claims and objections (multiple realizability, china brain, substrate-independence). See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-02: Integrate cognitive-closure.md into site navigation
 - **Type**: integrate-orphan
