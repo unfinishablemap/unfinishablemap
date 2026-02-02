@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 07:59 UTC - coalesce
+- **Status**: Success (archive only)
+- **Sources**: [[topics/phenomenal-unity-and-the-binding-problem]]
+- **Target**: [[concepts/binding-problem]] (existing, comprehensive)
+- **Archived**: [[archive/topics/phenomenal-unity-and-the-binding-problem]]
+- **References updated**: 1 (consciousness-and-meaning-integration.md)
+- **Notes**: Archived redundant article - content fully subsumed by existing binding-problem.md which provides comprehensive coverage (5600+ words vs 2700 words) and has 61 inbound references.
+
+---
+
 ## 2026-02-02 07:54 UTC - condense
 - **Status**: Reviewed, no condensation applied
 - **File**: [[concepts/functionalism]]

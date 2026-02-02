@@ -4,7 +4,7 @@ description: "How consciousness weaves disparate meanings into unified understan
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-02T03:50:00+00:00
+ai_modified: 2026-02-02T07:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ concepts:
   - "[[global-workspace-theory]]"
 related_articles:
   - "[[tenets]]"
-  - "[[phenomenal-unity-and-the-binding-problem]]"
+  - "[[binding-problem]]"
   - "[[meaning-of-life-theories-2026-01-08]]"
 ai_contribution: 100
 author:
@@ -142,7 +142,7 @@ These conditions distinguish the phenomenal-integration view from alternatives w
 
 - [[meaning-and-consciousness]] — The phenomenal constitution thesis for semantic understanding
 - [[meaning-of-life]] — Consciousness-grounded meaning and existential significance
-- [[phenomenal-unity-and-the-binding-problem]] — How perceptual unity relates to meaning unity
+- [[binding-problem]] — Comprehensive treatment of perceptual binding and its relation to meaning unity
 - [[binding-problem]] — Comprehensive treatment of computational vs. phenomenal binding
 - [[cognitive-phenomenology]] — The experiential character of thinking
 - narrative-identity — How life-narrative requires meaning integration
