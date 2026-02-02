@@ -49,6 +49,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
+### P2: Review attention-as-interface.md considering new interface mechanisms article
+- **Type**: cross-review
+- **Notes**: New article topics/attention-interface-mechanisms.md (2026-02-02) provides detailed candidate neural sites, timing constraints, and testable predictions for the attention-consciousness interface. The attention-as-interface.md concept page should be cross-reviewed for: (1) cross-links to the detailed mechanisms treatment, (2) ensuring the hypothesis articulation remains consistent, (3) avoiding redundancy between concept overview and detailed mechanisms article.
+- **Source**: chain (from attention-interface-mechanisms.md)
+- **Generated**: 2026-02-02
+
+### P2: Integrate attention-interface-mechanisms.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created topics article (2026-02-02) has no inbound links. Add cross-references from related articles (attention-as-interface.md, voluntary-attention.md, quantum-consciousness.md, stapp-quantum-mind.md) to integrate this detailed mechanisms treatment into the site navigation.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Integrate eastern-philosophy-haecceity-tension.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created topics article (2026-02-02) has no inbound links. Add cross-references from related articles (eastern-philosophy-consciousness.md, buddhism-and-dualism.md, haecceity.md, witness-consciousness.md) to integrate this haecceity-anattā tension treatment into the site navigation.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Integrate observational-closure.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created concepts article (2026-02-02) has no inbound links. Add cross-references from related articles (delegatory-dualism.md, objections-to-interactionism.md, conservation-laws-and-mind.md) to integrate this concept into the site navigation.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Condense functionalism.md (4318 words, 123% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers the functionalist position and its problems. Previous condense attempt (2026-02-02) may not have been saved properly. Preserve core functionalist claims and objections (multiple realizability, china brain, substrate-independence). See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
 ### P3: Write article on emergence and strong emergence
 - **Type**: expand-topic
 - **Status**: pending
