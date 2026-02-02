@@ -4,7 +4,7 @@ description: "What it is like to be in a mental state—the subjective quality o
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-02-02T04:39:00+00:00
 last_deep_review: 2026-01-25T11:00:00+00:00
 draft: false
 topics:
@@ -294,6 +294,9 @@ The Map's position: the explanatory gap reflects a real ontological gap. P-consc
 - [[free-will]] - P-consciousness and genuine agency
 - [[agent-causation]] - Conscious agents as irreducible causes
 - [[objectivity-and-consciousness]] - The tension between objective description and subjective experience
+
+### Apex Synthesis
+- [[minds-without-words]] — Phenomenal consciousness in non-linguistic creatures
 
 ## References
 

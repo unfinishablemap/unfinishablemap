@@ -4,7 +4,7 @@ description: "From nematodes to slime molds: where does consciousness begin? The
 created: 2026-01-19
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T17:09:00+00:00
+ai_modified: 2026-02-02T04:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -257,6 +257,9 @@ The Map rejects MWI partly because it undermines the [[haecceity]]—the irreduc
 ### Research Notes
 - [[consciousness-independent-baseline-cognition-2026-01-21]] — The baseline cognition hypothesis
 - [[consciousness-influence-intelligence-2026-01-21]] — Evidence that consciousness contributes to intelligence
+
+### Apex Synthesis
+- [[minds-without-words]] — Integrated perspective on non-linguistic consciousness from simple organisms to great apes
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-29T21:00:00+00:00
+ai_modified: 2026-02-02T04:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -205,6 +205,9 @@ Several discoveries could undermine this position:
 - [[hard-problem-of-consciousness]] — Why the explanatory gap applies universally
 - [[ai-consciousness]] — Parallel questions about non-biological minds
 - [[higher-order-theories]] — Why HOT theories fail
+
+### Apex Synthesis
+- [[minds-without-words]] — Integrated perspective on non-linguistic consciousness across species
 
 ## References
 

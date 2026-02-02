@@ -4,7 +4,7 @@ description: "Baseline cognition is what neural systems achieve without consciou
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-29T01:33:16+00:00
+ai_modified: 2026-02-02T04:39:00+00:00
 last_deep_review: 2026-01-29T01:33:16+00:00
 draft: false
 topics:
@@ -262,6 +262,9 @@ The baseline cognition hypothesis could be undermined by:
 - [[counterfactual-reasoning]] — The capacity to imagine non-actual states, requiring consciousness
 - [[introspection]] — The capacity to examine one's own mental states
 - [[consciousness-independent-baseline-cognition-2026-01-21]] — Research notes underlying this article
+
+### Apex Synthesis
+- [[minds-without-words]] — How baseline cognition illuminates non-linguistic consciousness across species
 
 ## References
 

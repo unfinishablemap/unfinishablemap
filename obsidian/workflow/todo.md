@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate minds-without-words.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Apex article has no inbound links. Add cross-references from related articles (animal-consciousness.md, consciousness-simple-organisms.md, baseline-cognition.md, language-thought-boundary.md) or update apex index page to include navigation to this synthesis piece.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Integrate living-with-the-map.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Apex article has no inbound links. Add cross-references from related articles (meaning-of-life.md, phenomenal-value-realism.md, testing-the-map-from-inside.md) or update apex index page and site navigation to include this practical philosophy piece.
@@ -229,6 +223,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate minds-without-words.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Apex article has no inbound links. Add cross-references from related articles (animal-consciousness.md, consciousness-simple-organisms.md, baseline-cognition.md, language-thought-boundary.md) or update apex index page to include navigation to this synthesis piece.
+- **Output**: obsidian/apex/minds-without-words.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Write voids article on dream consciousness void
 - **Type**: expand-topic

@@ -4,7 +4,7 @@ description: "Why does pain feel bad? Emotional consciousness poses the hard pro
 created: 2026-01-19
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-02-01T18:10:00+00:00
+ai_modified: 2026-02-02T04:39:00+00:00
 last_deep_review: 2026-02-01T15:53:00+00:00
 draft: false
 topics:
@@ -193,6 +193,9 @@ Emotional consciousness is not a puzzle awaiting functional solution. It is evid
 - [[ai-consciousness]] — Whether artificial systems can be phenomenally conscious
 - [[ethics-of-consciousness]] — Moral implications of consciousness
 - [[emotional-consciousness-valence-2026-01-19]] — Research notes on emotions and valence
+
+### Apex Synthesis
+- [[minds-without-words]] — How emotional consciousness extends to non-linguistic creatures
 
 ## References
 

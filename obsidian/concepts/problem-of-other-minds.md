@@ -4,7 +4,7 @@ description: "How can we know others are conscious? The epistemic asymmetry betw
 created: 2026-01-14
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-28T12:00:00+00:00
+ai_modified: 2026-02-02T04:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -170,6 +170,9 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 - [[philosophical-zombies]] — The thought experiment dramatizing behavior-consciousness gap
 - [[ai-consciousness]] — The problem of other minds applied to machines
 - [[animal-consciousness]] — The problem for non-human organisms
+
+### Apex Synthesis
+- [[minds-without-words]] — The problem of other minds in non-linguistic creatures
 
 ### External Sources
 - Thomas Nagel, "What Is It Like to Be a Bat?" (1974)
