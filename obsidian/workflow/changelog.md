@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 01:23 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Dream Consciousness Void
+- **Category**: Unexplored / Unexplorable / Mixed
+- **Output**: [[research/voids-dream-consciousness-void-2026-02-02]]
+- **Key finding**: Dreams represent a naturally occurring altered state where cognitive limits shift—the dorsolateral prefrontal cortex deactivation during REM removes certain constraints while blocking higher-order reflection, creating bidirectional voids between waking and dreaming consciousness.
+
 ## 2026-02-02 01:18 UTC - expand-topic
 - **Status**: Success
 - **Topic**: substance causation
