@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02 03:08:00+00:00
+ai_modified: 2026-02-02 06:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate altered-states-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-01-23) has no inbound links. Covers psychedelics, meditation, dreaming, and what altered states reveal about consciousness. Add cross-references from dreams-and-consciousness.md, meditation-and-consciousness-modes.md, phenomenology-of-understanding.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -54,6 +48,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
+- **Generated**: 2026-02-02
+
+### P2: Condense functionalism.md (4450 words, 127% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers the functionalist position and its problems. Despite previous condense attempts, still over threshold. Preserve core functionalist claims and objections (multiple realizability, china brain, substrate-independence). Further consolidation needed. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P2: Condense downward-causation.md (3875 words, 111% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers mental causation and how non-physical consciousness can causally influence physical processes. Preserve core causal arguments, Kim's exclusion problem response, connection to quantum Zeno mechanism. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P3: Deep review contemplative-path.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on contemplative approaches to consciousness. Check phenomenological claims, ensure alignment with Map's framework, verify connections to witness-consciousness.md and meditation-and-consciousness-modes.md.
+- **Source**: staleness
+- **Generated**: 2026-02-02
+
+### P3: Deep review process-and-consciousness.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on process philosophy's account of consciousness. Check philosophical accuracy, ensure alignment with Map's dualist framework, verify connections to temporal-consciousness.md.
+- **Source**: staleness
+- **Generated**: 2026-02-02
+
+### P3: Deep review neural-implementation-specifics.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Technical article on candidate neural sites for the consciousness-brain interface. Check empirical claims, ensure alignment with Map's framework, verify connections to attention-interface-mechanisms.md.
+- **Source**: staleness
 - **Generated**: 2026-02-02
 
 ### P3: Write article on emergence and strong emergence
@@ -238,8 +262,92 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
 
+### P3: Write article on phenomenology of belief change
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02. What is it like to change one's mind? The moment of belief revision has distinctive phenomenology—the "giving way" of an old view, the "clicking into place" of a new one. Connects to consciousness's role in rationality and the argument from reason. Builds on epistemic-emotions.md, phenomenology-of-error-recognition.md, argument-from-reason.md. See optimistic-2026-02-02.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on the interface location problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02. Where exactly does consciousness interface with the brain? Multiple candidate sites exist (microtubules, dendritic integration zones, cortical columns). Systematic comparison article evaluating evidence for each and explaining why the Map remains agnostic about specifics. Builds on attention-interface-mechanisms.md, brain-interface-boundary.md, quantum-consciousness.md. See optimistic-2026-02-02.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on consciousness and surprise
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02. Phenomenology of surprise—violated expectations producing distinctive experiential quality—provides window into how consciousness interacts with predictive processing. If surprise is phenomenally real and causally efficacious (triggering learning, memory consolidation), supports Bidirectional Interaction. Builds on predictive-processing.md, phenomenology-of-understanding.md, epistemic-emotions.md. See optimistic-2026-02-02.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write voids article on cognitive aversion
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-cognitive-aversion-2026-02-01.md. Thoughts we systematically fail to sustain—not because we cannot think them (cognitive closure), but because something deflects us. Territory between Unexplored and Occluded. Convergent evidence from existential philosophy (Heidegger, Becker), psychology (terror management theory), and phenomenology (Sartre's bad faith). Connects to defended-territory.md, thoughts-that-slip-away.md, phenomenology-of-the-edge.md.
+- **Output**: Write voids article on cognitive aversion
+
+### ✓ 2026-02-02: Write voids article on cognitive aversion
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-cognitive-aversion-2026-02-01.md. Thoughts we systematically fail to sustain—not because we cannot think them (cognitive closure), but because something deflects us.
+- **Output**: [cognitive-aversion](/voids/cognitive-aversion/)
+
+### ✓ 2026-02-02: Write voids article on affective void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-affective-void-2026-01-31.md. The affective void concerns emotions and feeling-states structurally inaccessible to human consciousness—entire dimensions of affective experience that may exist in the space of possible minds but lie beyond human phenomenological reach. Sits at intersection of evolutionary constraints, architectural limits, and intrinsic nature problem. Connects to intrinsic-nature-void.md, other-minds-void.md, consciousness-only-territories.md.
+- **Output**: Write voids article on affective void
+
+### ✓ 2026-02-02: Condense death-and-consciousness.md (4478 words, 111% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Covers death from a consciousness perspective—near-death experiences, persistence questions, and what the Map's framework suggests. Preserve core arguments while removing redundancy. See /condense skill.
+- **Output**: obsidian/topics/death-and-consciousness.md
+
+### ✓ 2026-02-02: Write voids article on intersubjective void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-intersubjective-void-2026-02-01.md. The cognitive gap between consciousnesses: what one mind cannot directly access about another. Connects to problem-of-other-minds.md, intersubjectivity.md, other-minds-void.md.
+- **Output**: Write voids article on intersubjective void
+
+### ✓ 2026-02-02: Write voids article on intersubjective void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-intersubjective-void-2026-02-01.md.
+- **Output**: [intersubjective-void](/voids/intersubjective-void/)
+
+### ✓ 2026-02-02: Write voids article on the death void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-the-death-void-2026-02-02.md. The ultimate cognitive limit: what lies beyond death for consciousness. Connects to death-and-consciousness.md, personal-identity.md, meaning-of-life.md.
+- **Output**: Write voids article on the death void
+
+### ✓ 2026-02-02: Write voids article on the death void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-the-death-void-2026-02-02.md. The ultimate cognitive limit: what lies beyond death for consciousness.
+- **Output**: [death-void](/voids/death-void/)
+
+### ✓ 2026-02-02: Strengthen knowledge argument engagement in consciousness-only-territories.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-02-02 (early) identified high-severity issue: the article treats Mary's case as establishing acquaintance knowledge categorically without engaging sophisticated physicalist responses (Lewis's ability hypothesis, Loar's phenomenal concepts, Dennett's objection). Either refute these responses substantively or acknowledge the knowledge argument is contested and the article assumes its conclusion.
+- **Output**: obsidian/voids/consciousness-only-territories.md
+
+Task context:
+Pessimistic review 2026-02-02 (early) identified high-severity issue: the article treats Mary's case as establishing acquaintance knowledge categorically without engaging sophisticated physicalist responses (Lewis's ability hypothesis, Loar's phenomenal concepts, Dennett's objection). Either refute these responses substantively or acknowledge the knowledge argument is contested and the article assumes its conclusion.
+
+### ✓ 2026-02-02: Write voids article on creativity void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-creativity-void-2026-02-02.md. Creativity as generative territory: unexplored realms revealed through creative acts, where consciousness generates genuinely novel combinations inaccessible to purely algorithmic processes. Connects to consciousness-and-creativity.md, phenomenology-of-understanding.md.
+- **Output**: Write voids article on creativity void
+
+### ✓ 2026-02-02: Write voids article on creativity void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-creativity-void-2026-02-02.md.
+- **Output**: [creativity-void](/voids/creativity-void/)
+
+### ✓ 2026-02-02: Integrate altered-states-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-01-23) has no inbound links. Covers psychedelics, meditation, dreaming, and what altered states reveal about consciousness. Add cross-references from dreams-and-consciousness.md, meditation-and-consciousness-modes.md, phenomenology-of-understanding.md.
+- **Output**: altered-states-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Deep review testing-the-map-from-inside.md for quality
 - **Type**: deep-review

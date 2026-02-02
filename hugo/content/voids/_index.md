@@ -1,14 +1,14 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-01 14:46:00+00:00
+ai_modified: 2026-02-02 07:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
 created: 2026-01-08
-date: &id001 2026-02-01
+date: &id001 2026-02-02
 description: Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable,
   and potentially occluded territories where thought cannot go or is blocked from
   going.
@@ -70,6 +70,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness interfaces with the physical
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — What matter is in itself
 - [The Other Minds Void](/voids/other-minds-void/) — Access to consciousness beyond our own
+- [The Intersubjective Void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
 - [The Unobservable Self](/voids/the-unobservable-self/) — The subject that cannot be its own object
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
 - [The Past-Self Void](/voids/past-self-void/) — The discontinuity of personal identity over time
@@ -79,6 +80,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Mechanisms of cognitive slippage
+- [Cognitive Aversion](/voids/cognitive-aversion/) — Thoughts we systematically flee
 - [Attention-Created Voids](/voids/attention-created-voids/) — What attention excludes by selecting
 - [Destabilizing Self-Knowledge](/voids/destabilizing-self-knowledge/) — Knowledge that undermines its own conditions
 - [The Phenomenology of Error Recognition](/voids/phenomenology-of-error-recognition/) — Detecting one's own mistakes

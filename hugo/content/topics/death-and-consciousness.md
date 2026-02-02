@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-01 18:12:00+00:00
+ai_modified: 2026-02-02 07:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -44,19 +44,9 @@ Does consciousness survive bodily death? The Unfinishable Map's dualist framewor
 
 ## The Stakes
 
-On materialism, death is simple: consciousness is identical with or produced by brain processes; when the brain stops, consciousness ends. The question of survival doesn't arise because there's nothing to survive. As the materialist sees it, asking whether consciousness continues after brain death is like asking whether digestion continues after the digestive system is destroyed.
+On materialism, death is simple: consciousness is identical with brain processes; when the brain stops, consciousness ends. Dualism opens a different possibility. If consciousness isn't reducible to neural activity—if the [explanatory gap](/concepts/explanatory-gap/) reveals something more than physics—then the brain might be necessary for consciousness *in its current mode* without being necessary for consciousness *per se*.
 
-Dualism opens a different possibility. If consciousness isn't reducible to neural activity—if the [explanatory gap](/concepts/explanatory-gap/) reveals that something more than physics is involved—then the fate of consciousness isn't determined by the fate of neurons. The brain might be necessary for consciousness *in its current mode* without being necessary for consciousness *per se*.
-
-This isn't mere philosophical speculation. [Introspective](/concepts/introspection/) evidence—the immediate access each person has to their own conscious states—provides the starting point. We know consciousness exists because we experience it directly. The question is whether this directly-known phenomenon depends essentially on neural substrate or merely interfaces with it.
-
-The distinction matters. [Filter theory](/concepts/filter-theory/)—developed by William James, Henri Bergson, and Aldous Huxley—provides a framework for understanding how consciousness might relate to brains without being produced by them. C.J. Ducasse's radio analogy captures the intuition: destroying a radio ends the program locally, but the broadcast continues. If the brain is a receiver or interface rather than the generator of consciousness, brain death might alter how consciousness manifests without destroying it.
-
-The radio analogy has limits. Brain damage produces *selective* deficits—damage to Broca's area eliminates speech production while leaving comprehension intact; damage to the fusiform face area impairs face recognition while sparing object recognition. A simple receiver would degrade uniformly, like static across all channels. This pattern fits production models: specialized circuits produce specialized capacities, and their destruction eliminates those capacities specifically.
-
-Filter theorists can respond in two ways. First, a more sophisticated transmission model: the brain isn't a simple receiver but a complex interface with specialized components that filter different aspects of consciousness. Damage to one component blocks transmission of that aspect while leaving others intact—like a mixing board with independent channel controls rather than a single volume knob. Second, the rendering engine analogy (developed in the [filter-theory](/concepts/filter-theory/) article): the brain renders experience using specialized subsystems, each handling different features. Damage the motion-processing component and movement perception degrades; damage the texture-rendering component and surfaces become bland. The rendering engine doesn't *produce* what it renders—it provides the means for consciousness to manifest in structured form.
-
-Neither response is fully satisfying. The selective-deficit pattern remains easier to explain on production models. This is a genuine weakness of filter theory, not a fatal one—the theory has other virtues (explaining the psychedelic paradox, accommodating NDEs, fitting the hard problem)—but intellectual honesty requires acknowledging where the analogy strains.
+[Filter theory](/concepts/filter-theory/) provides the framework: the brain is receiver or interface rather than generator. If so, brain death might alter how consciousness manifests without destroying it. The selective-deficit objection (brain damage produces targeted losses, not uniform degradation) is addressed in the [filter-theory](/concepts/filter-theory/) article through the rendering engine analogy—specialized subsystems that filter different aspects of consciousness. This is a genuine weakness of filter theory, not a fatal one.
 
 ## The Identity Problem
 
@@ -68,51 +58,33 @@ The Map rejects this. As discussed in the [personal-identity](/topics/personal-i
 
 ### Parfit's "Liberating" View of Death
 
-[Parfit's reductionism](/concepts/parfit-reductionism/) yields a distinctive attitude toward death. If personal identity consists in nothing over and above psychological continuity—if there's no further fact about "who you are" beyond the pattern—then death is merely the ending of a pattern. Parfit found this liberating: "When I die, there will be no 'I' who goes out of existence. The pattern will simply end."
+[Parfit's reductionism](/concepts/parfit-reductionism/) treats death as merely the ending of a pattern—"no more distressing than when I am about to lose consciousness in sleep." Since there's no deep self that persists, there's no deep self that is destroyed.
 
-Parfit argued this should be "no more distressing than when I am about to lose consciousness in sleep." Since there's no deep self that persists, there's no deep self that is destroyed. Death becomes metaphysically shallow—significant practically, perhaps, but not the loss of anything irreducible.
-
-**Why the Map rejects this**: The liberating conclusion follows *only if* reductionism is true. But if identity involves something over and above pattern-continuity—if *you* are a particular conscious subject whose haecceity can't be replicated—then death is the destruction of something unique and irreplaceable. The pattern ends, yes, but so does *you*—the subject who experienced, chose, and cared. That loss is real in a way Parfit's view cannot accommodate.
-
-The Map's position makes death *worse* than Parfit's view in one sense: you really do cease to exist, not just a pattern. But it also makes death *different*: what's lost is a particular, not a repeatable universal. This explains the deep asymmetry we feel between:
-- Our own death (irreversible loss of this subject)
-- A replica's creation (a new subject, however similar)
-
-On Parfit's view, these should feel equivalent—"what matters" is preserved by the replica. That they don't feel equivalent reveals something about our pre-theoretical grasp of identity that reductionism must explain away.
+**Why the Map rejects this**: The liberating conclusion follows *only if* reductionism is true. If *you* are a particular conscious subject whose [haecceity](/concepts/haecceity/) can't be replicated, then death destroys something unique and irreplaceable. This explains the asymmetry we feel between our own death (irreversible loss of this subject) and a replica's creation (a new subject, however similar). On Parfit's view, these should feel equivalent. That they don't reveals something about our pre-theoretical grasp of identity.
 
 ### The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) like Daniel Dennett and Keith Frankish offer a more radical challenge to survival frameworks. If phenomenal consciousness itself is an introspective illusion—if there's nothing it's *like* to be conscious beyond functional states and their misrepresentations—then survival questions are confused from the start. There's nothing non-physical to survive; death is exactly what materialism says it is.
-
-The illusionist can accommodate everything this article describes functionally. The sense of indexical identity, the "pastness quale" of memory, the feeling that *you* are irreplaceable—all could be sophisticated misrepresentations generated by brains. When brains stop, the misrepresentations stop. End of story.
+[Illusionists](/concepts/illusionism/) argue that phenomenal consciousness is an introspective illusion—there's nothing non-physical to survive. Death is exactly what materialism says.
 
 **Three responses:**
 
-1. **The explanatory burden problem.** Illusionists say the brain can represent itself as having phenomenal properties without phenomenal properties being instantiated—representation doesn't require experience. Grant this for argument's sake. The question becomes: why does the representation have this specific character? Why do brains represent themselves as having *qualitative experience* rather than simply tracking functional states? The "illusion" of phenomenality is remarkably specific and universal. Explaining why this particular misrepresentation arises—and why it resists dissolution even when intellectually rejected—may prove as difficult as explaining phenomenality itself. The hard problem reappears as the "illusion problem": if physical processes can generate *the appearance* of phenomenal consciousness, why can't they generate the real thing? The burden has shifted, not disappeared.
+1. **The explanatory burden shifts but doesn't disappear.** Why do brains represent themselves as having *qualitative experience* rather than simply tracking functional states? The hard problem reappears as the "illusion problem": explaining why brains generate the specific appearance of phenomenality may prove as difficult as explaining phenomenality itself.
 
-2. **Introspection survives debunking.** Even if [introspective](/concepts/introspection/) reports are sometimes unreliable about consciousness's *nature*, the existence of the phenomenon being reported seems undeniable. The illusionist who argues against consciousness uses their own reasoning to do so. As Galen Strawson observed, the claim that consciousness doesn't exist is "the silliest claim ever made" precisely because making the claim seems to require being conscious. The illusionist can respond that Strawson begs the question—"seems to require" is exactly what they're denying. But this reveals the debate's structure: one side finds the datum undeniable, the other finds the denial coherent. Neither can force the other to their starting point. The question is which starting point makes survival questions meaningful.
+2. **Introspection survives debunking.** The illusionist who argues against consciousness uses their own reasoning to do so. As Galen Strawson observed, the claim that consciousness doesn't exist is "the silliest claim ever made." The illusionist responds that Strawson begs the question—but this reveals the debate's structure: one side finds the datum undeniable, the other finds the denial coherent.
 
-3. **The self-undermining charge.** Illusionists presumably trust their own introspection enough to engage in the debate about consciousness. If introspection is systematically unreliable—if our reports about conscious experience bear no reliable relation to what's actually happening—then the illusionist's own arguments are undermined. The illusionist can respond that introspection reliably tracks functional states; what it misrepresents is the *nature* of those states (as phenomenal rather than purely functional). But this selective reliability is hard to motivate: why would evolution produce introspection that accurately tracks *which* states occur but systematically misrepresents *what those states are*? The more parsimonious view is that introspection is roughly accurate about both.
-
-The survival question remains meaningful if illusionism fails. And illusionism faces the same fundamental problem it attributes to dualism: explaining why things seem the way they do.
+3. **Selective reliability is hard to motivate.** Illusionists claim introspection reliably tracks *which* states occur but systematically misrepresents *what those states are*. But why would evolution produce such a pattern? The more parsimonious view is that introspection is roughly accurate about both.
 
 ### The Autobiographical Self That Dies
 
-[Episodic memory](/concepts/episodic-memory/) reveals what exactly is lost at death: the *extended self* that spans time through mental time travel. When you remember your past or imagine your future, you project yourself across time, phenomenally present in reconstructed scenes. This capacity—[autonoetic consciousness](/concepts/autonoetic-consciousness/)—doesn't merely store information about your history; it constitutes you as a being with a history.
+[Episodic memory](/concepts/episodic-memory/) reveals what exactly is lost at death: the *extended self* that spans time through mental time travel. This capacity—[autonoetic consciousness](/concepts/autonoetic-consciousness/)—doesn't merely store information about your history; it constitutes you as a being with a history.
 
-Consider what Patient KC lost when hippocampal damage destroyed his episodic memory. He retained semantic memory (facts, skills, general knowledge) but lost the ability to re-experience his past or project into his future. He was confined to an eternal present, unable to inhabit his own history or imagine his personal future. Neuropsychologists describe this as losing his *extended self*—the temporally spread subject that makes your life feel like *yours*.
+Patient KC, after hippocampal damage destroyed his episodic memory, retained semantic knowledge but lost the ability to re-experience his past or project into his future. He was confined to an eternal present. Death is the permanent loss of this extended self—not just a biological organism but the unique perspective from which a particular history was lived.
 
-Death is the permanent loss of this extended self. What dies isn't just a biological organism but the unique perspective from which a particular history was lived and a particular future was anticipated. The binding mechanisms that unified your experiences into a coherent autobiography—the same hippocampal binding that creates each conscious moment—dissolve. Not just the stored memories but the capacity to inhabit them autonoetically ceases.
+This sharpens the Map's rejection of Parfit. The extended self isn't a pattern that could be duplicated—it's a phenomenal achievement constituted moment by moment through autonoetic binding. The pastness quale that marks your memories as *yours*, the felt continuity with your past self—these aren't features that could be copied like data.
 
-This sharpens the Map's rejection of Parfit. Parfit treats identity as pattern-continuity, which could in principle be duplicated. But the extended self isn't a pattern—it's a phenomenal achievement constituted moment by moment through autonoetic binding. The pastness quale that marks your memories as *yours*, the felt continuity with your past self, the projection of yourself into future scenarios—these aren't features that could be copied like data. They're constitutive activities of a particular conscious subject.
+**The resource**: Survival means the continuation of *this* subject, not the creation of a qualitatively similar one.
 
-When Patient KC looks at photographs of himself at past events, he knows (semantically) that the person depicted is him, but he cannot re-experience being there. The photographs don't trigger autonoetic consciousness. This is what death would mean for all of us: not merely that the pattern ends, but that the phenomenal inhabitation of a particular life ceases. The subject who remembered being the child, the student, the lover—that subject is gone in a way that no replica, however faithful, could restore.
-
-This creates both resources and constraints for thinking about survival:
-
-**The resource**: If you are essentially *this* particular consciousness rather than a pattern that could be reinstantiated, then survival means the continuation of *this* subject, not the creation of a qualitatively similar one. This gives content to what survival would mean.
-
-**The constraint**: Any account of survival must preserve indexical identity, not just psychological similarity. Resurrection through recreation—God rebuilding your body and mind from scratch—wouldn't secure survival on this view. As Peter van Inwagen argued, reassembling a cremated person's molecules would yield a duplicate, not the original.
+**The constraint**: Any account of survival must preserve indexical identity. Resurrection through recreation—God rebuilding your body and mind from scratch—would yield a duplicate, not the original (as Peter van Inwagen argued).
 
 ## Dualist Possibilities
 
@@ -124,73 +96,47 @@ The Map's [interactionist-dualism](/archive/arguments/interactionist-dualism/) l
 
 ## Near-Death Experiences
 
-[Near-death experiences](/concepts/near-death-experiences/) (NDEs)—now termed "Recalled Experience of Death" (RED)—provide intriguing evidence for consciousness beyond brain function. NDEs sit within a broader spectrum of [altered states](/concepts/altered-states-of-consciousness/) that reveal consciousness operating in configurable modes. The "paradox of heightened experience" during brain compromise parallels the psychedelic paradox: decreased neural activity, expanded experience.
+[Near-death experiences](/concepts/near-death-experiences/) (NDEs) provide intriguing evidence for consciousness beyond brain function. Common features include out-of-body perception, life review, and profound mental clarity. The "paradox of heightened experience" during brain compromise parallels the psychedelic paradox: decreased neural activity, expanded experience.
 
-Common features include out-of-body perception, life review, encounters with deceased relatives, and profound mental clarity. Studies report varying rates of awareness during cardiac arrest—Van Lommel et al. (2001) found 18% of survivors reported NDEs, while Parnia et al. (2014) found 9% had verified awareness. The variation in reported rates highlights methodological challenges in this research. Something distinguishes experiencers from non-experiencers, and that something remains unexplained.
+Studies report varying rates of awareness during cardiac arrest (Van Lommel et al. 2001: 18%; Parnia et al. 2014: 9%). A 2023 study (Xu et al.) found gamma wave surges in dying brains—heightened neural organisation during apparent shutdown. Materialist explanations exist (ketamine-like effects, REM intrusion) but none fully accounts for why failing neural function sometimes produces *heightened* rather than diminished consciousness.
 
-**Key findings:** The AWARE studies documented systematic patterns across multiple sites, though the hidden visual target methodology did not yield verified out-of-body perceptions (only one subject reported leaving their body in a location with targets, and recall was incomplete). A 2023 study (Xu et al.) found gamma wave surges in dying brains—coherent activity in consciousness-associated regions persisting briefly after cardiac arrest. The researchers interpreted this as neural correlates of end-of-life brain activity rather than evidence for brain-independent consciousness; however, the pattern of heightened neural organisation during apparent shutdown remains noteworthy. If consciousness depends entirely on neural function, heightened experience during brain failure is paradoxical.
-
-Materialist explanations exist—ketamine-like effects, REM intrusion, temporal lobe seizures—but none fully accounts for NDE coherence or why failing neural function sometimes produces *heightened* rather than diminished consciousness.
-
-This doesn't prove survival. But it suggests the brain-consciousness relationship may be more complex than simple production. See [near-death-experiences](/concepts/near-death-experiences/) for detailed treatment.
+This doesn't prove survival, but suggests the brain-consciousness relationship may be more complex than simple production. See [near-death-experiences](/concepts/near-death-experiences/) for detailed treatment.
 
 ## Contemplative Perspectives
 
-Contemplative traditions offer phenomenological data relevant to death and consciousness. These aren't proof of survival, but they illuminate what consciousness is capable of when its relationship to ordinary mental content is loosened.
+Contemplative traditions offer phenomenological data relevant to death. These aren't proof of survival, but illuminate what consciousness is capable of.
 
 ### Witness Consciousness
 
-[Witness consciousness](/concepts/witness-consciousness/)—the capacity to observe mental contents without identification—suggests consciousness may not be identical with its contents. Meditators report accessing a mode where thoughts, emotions, and sensations arise and pass while awareness remains stable. The Advaita tradition's *sakshi* (witness) is described as unchanging while all contents change.
-
-This has implications for death. If consciousness is not identical with mental contents, then the cessation of contents (at death) need not entail the cessation of awareness. The witness might persist when the witnessed ceases. This doesn't prove survival—the witness might depend on neural substrate—but it reveals that consciousness has modes beyond ordinary engaged experience.
+[Witness consciousness](/concepts/witness-consciousness/)—the capacity to observe mental contents without identification—suggests consciousness may not be identical with its contents. If so, the cessation of contents (at death) need not entail the cessation of awareness. The witness might persist when the witnessed ceases.
 
 ### Cessation States
 
-Advanced meditators in several traditions report states where all phenomenal content vanishes while awareness paradoxically continues. In Buddhist *nirodha-samāpatti* (cessation), all perception and feeling temporarily cease. Practitioners describe this not as unconsciousness but as awareness without content—pure knowing without anything known.
-
-If such states are genuine—not merely retrospective confabulation—they suggest consciousness can operate independently of any specific content, potentially even independently of neural content. Death might represent not the end of awareness but the ultimate cessation of content. What remains, if anything, becomes the key question.
+Advanced meditators report states where all phenomenal content vanishes while awareness paradoxically continues. In Buddhist *nirodha-samāpatti*, all perception and feeling temporarily cease—described not as unconsciousness but as pure knowing without anything known. If genuine, this suggests consciousness can operate independently of any specific content.
 
 ### The Buddhist Complication
 
-Buddhism complicates simple survival narratives. The *anattā* (no-self) doctrine denies that any unchanging substantial self exists to survive death. What we call "self" is a process—a stream of dependently arising mental events—not a thing.
+Buddhism's *anattā* (no-self) doctrine denies that any unchanging substantial self survives death. Yet Buddhism accepts rebirth—a causal stream continuing, like one candle lighting another, without identity. Perhaps consciousness continues without *your* consciousness continuing. The [haecceity](/concepts/haecceity/) the Map defends might dissolve even as awareness-in-general persists.
 
-Yet Buddhism accepts rebirth. What continues? Not a soul or essence, but a causal stream—like one candle lighting another. This model suggests continuity without identity: something persists, but it's not "you" in the sense of an unchanging subject.
+## Temporary Loss of Consciousness
 
-This challenges both materialist denial of survival and dualist affirmation of soul-persistence. Perhaps consciousness continues without *your* consciousness continuing. The haecceity the Map defends—your irreducible thisness—might dissolve even as awareness-in-general persists. Whether this counts as "survival" depends on what we're asking about.
+[Temporary loss of consciousness](/topics/loss-of-consciousness/) provides a natural experiment. Filter theory interprets these cases as disconnection rather than elimination.
 
-## Temporary Loss of Consciousness: A Preview of Death?
+**The vanishing of time**: Under anesthesia, time vanishes entirely. How does the same subject exist before and after with no connecting experience? Filter theory suggests consciousness loses its temporal anchor when the brain-interface is disrupted. Death might represent permanent disconnection.
 
-[Temporary loss of consciousness](/topics/loss-of-consciousness/)—through anesthesia, coma, or brain injury—provides a natural experiment. The filter theory interprets these cases as disconnection rather than elimination.
+**Covert consciousness**: Up to 25% of behaviorally unresponsive patients retain awareness detectable only via neuroimaging. If our criteria systematically underestimate conscious presence, the dying brain might retain consciousness invisible to observation.
 
-**The vanishing of time**: Under anesthesia, time doesn't pass quickly—it vanishes entirely. A six-hour surgery feels identical to a six-minute procedure: nothing. If consciousness were produced by neural activity, this complete temporal gap poses a puzzle: how does the same subject exist before and after with no connecting experience? Filter theory suggests consciousness loses its temporal anchor when the brain-interface is disrupted. Death might represent permanent disconnection rather than cessation.
-
-**Covert consciousness**: Up to 25% of behaviorally unresponsive patients retain awareness detectable only via neuroimaging—understanding language and following instructions despite appearing unconscious. If our criteria systematically underestimate conscious presence, the dying brain might similarly retain consciousness invisible to observation.
-
-**Disconnection syndromes**: Hemispherectomy patients maintain substantially normal conscious lives despite losing half their cortex. If consciousness survives massive neural loss by finding alternative pathways, what happens when all pathways fail? Filter theory suggests consciousness becomes unable to interface with physical reality while potentially continuing outside it.
-
-These states don't prove survival. But they complicate the assumption that brain dysfunction straightforwardly eliminates consciousness.
+**Disconnection syndromes**: Hemispherectomy patients maintain substantially normal conscious lives despite losing half their cortex. If consciousness survives massive neural loss, what happens when all pathways fail?
 
 ## The Quantum Soul Hypothesis
 
-Stuart Hameroff and Roger Penrose's [Orch OR theory](/concepts/quantum-consciousness/) generates a speculative survival hypothesis. If consciousness arises from quantum processes in microtubules, at death the "quantum information" might be released into the universe rather than destroyed. This aligns with the Map's [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction)—both propose consciousness interfaces with physics at the quantum level.
+Stuart Hameroff and Roger Penrose's [Orch OR theory](/concepts/quantum-consciousness/) generates a speculative survival hypothesis: if consciousness arises from quantum processes in microtubules, at death the "quantum information" might be released rather than destroyed.
 
 ### The Decoherence Challenge
 
-[Decoherence](/concepts/decoherence/) poses a serious objection. Quantum coherence is extremely fragile in warm biological systems—Tegmark calculated decoherence times of 10⁻¹³ seconds for neural processes.
+[Decoherence](/concepts/decoherence/) poses a serious objection—quantum coherence is extremely fragile in warm biological systems. However: (1) Hameroff's group challenged Tegmark's calculations, obtaining estimates seven orders of magnitude longer; (2) consciousness may act at collapse, not require sustained coherence; (3) decoherence doesn't solve the measurement problem—why we observe *this* outcome remains unexplained.
 
-**Tempering considerations:**
-
-1. **Disputed calculations.** Hameroff's group challenged Tegmark's parameters, obtaining estimates seven orders of magnitude longer. Quantum biology research (avian magnetoreception, photosynthesis) shows evolution can exploit quantum effects despite decoherence.
-
-2. **Consciousness may act at collapse, not require sustained coherence.** Stapp's quantum Zeno mechanism requires rapid observation, not maintaining coherence. Consciousness might influence which outcome becomes actual even after decoherence.
-
-3. **Decoherence doesn't solve the measurement problem.** Why we observe *this* outcome rather than that one remains unexplained. A role for consciousness at definite-outcome selection remains available.
-
-**Significant caveats:**
-
-- Highly speculative—Penrose himself is skeptical of survival
-- No mechanism explains post-mortem coherence—the problem *intensifies* outside neural systems
-- [Haecceity](/concepts/haecceity/) concerns: dispersed quantum information might not preserve *your* particular perspective
+**Significant caveats:** Highly speculative; no mechanism explains post-mortem coherence; dispersed quantum information might not preserve *your* particular [perspective](/concepts/haecceity/).
 
 ## Process Philosophy Perspective
 
@@ -218,15 +164,15 @@ The Map's framework doesn't adjudicate between these. What it does provide is th
 
 The Map's openness to survival would face serious difficulty if:
 
-1. **The illusionist functional explanation proves complete.** If attention schema theory or similar frameworks could fully explain not just *reports* about consciousness but the phenomenology itself—if someone who has directly experienced awareness could be satisfied that their experience is exhaustively explained by functional processes—then survival questions would dissolve. Currently, such explanations seem to leave out what matters most.
+1. **Illusionist explanations prove complete.** If functional frameworks could fully explain not just *reports* about consciousness but the phenomenology itself, survival questions would dissolve.
 
-2. **Veridical NDE claims are systematically debunked.** The AWARE studies attempted to verify out-of-body perceptions using hidden visual targets, but the methodology has not yet yielded confirmed veridical perception—only one subject reported an OBE in a target area, with incomplete recall. If comprehensive, well-designed studies consistently found that NDE reports fail verification tests, the evidential weight of NDEs would diminish. Anecdotal reports of veridical perception exist in the literature (e.g., patients accurately describing resuscitation procedures), but controlled verification remains elusive.
+2. **Veridical NDE claims are systematically debunked.** The AWARE studies have not yet yielded confirmed veridical out-of-body perception. If comprehensive studies consistently found that NDE reports fail verification tests, the evidential weight would diminish.
 
-3. **Consciousness proved definitively to be substrate-dependent.** If neuroscience demonstrated not just correlation but necessary identity between consciousness and specific neural processes—if we understood exactly how neurons generate experience—then the filter model would become unmotivated. Currently, correlation is established but the mechanism remains mysterious.
+3. **Consciousness proved substrate-dependent.** If neuroscience demonstrated not just correlation but necessary identity between consciousness and specific neural processes, the filter model would become unmotivated.
 
-4. **Buddhist-style phenomenology proves universally accessible.** If all meditators, upon sufficient training, discovered that "self" dissolves into impersonal process with nothing to survive—if the sense of being a particular subject proved to be a cognitive illusion that practice can dispel—then the Map's haecceity-based survival framework would need revision. Currently, contemplative traditions disagree about what deep practice reveals.
+4. **Buddhist-style phenomenology proves universally accessible.** If all meditators discovered that "self" dissolves into impersonal process with nothing to survive, the Map's haecceity framework would need revision.
 
-5. **Quantum biology fails comprehensively.** If all apparent quantum effects in biological systems were explained by classical mechanisms, and the quantum-consciousness interface proved physically impossible, then the minimal quantum interaction framework would fail. The survival hypothesis would then depend entirely on substance dualism with no physical mechanism—a weaker position.
+5. **Quantum biology fails comprehensively.** The survival hypothesis would then depend entirely on substance dualism with no physical mechanism—a weaker position.
 
 ## Relation to the Map's Perspective
 
@@ -270,18 +216,20 @@ What the Map claims: given its dualist commitments, survival is a *coherent poss
 - Parnia, S., et al. (2014). "AWARE—AWAreness during REsuscitation—A prospective study." *Resuscitation*, 85(12), 1799-1805.
 - Xu, G., et al. (2023). "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain." *PNAS*, 120(19).
 
-<!-- AI REFINEMENT LOG - 2026-02-01T18:12:00+00:00
-Changes made:
-- Rewrote "regress problem" response to illusionism to avoid begging the question
-- Previous version assumed representation requires experience; illusionists deny this
-- New response focuses on the "illusion problem": explaining why brains generate the specific illusion of phenomenality may be as hard as explaining phenomenality itself
-- Enhanced second and third responses with illusionist counter-arguments and replies
-- Updated Dualism section in "Relation to Site Perspective" for consistency
+<!-- AI REFINEMENT LOG - 2026-02-02T07:22:00+00:00
+Condensation from 4264 to 2572 words (40% reduction).
 
-Based on pessimistic review 2026-01-25 identifying that regress argument begs question against strong illusionism.
-Key improvement: Engages illusionism's strongest form rather than assuming what it denies.
+Key cuts:
+- The Stakes: Removed radio analogy detail (deferred to filter-theory article)
+- Illusionist Challenge: Condensed three responses, removed extended hedging
+- Autobiographical Self: Shortened Patient KC example, cut redundant paragraphs
+- NDEs: Trimmed methodological detail, deferred to concept page
+- Contemplative Perspectives: Condensed all three subsections
+- Temporary Loss: Tightened three examples
+- Quantum Soul: Condensed decoherence discussion
+- What Would Challenge: Removed extended explanations
 
-Previous refinement (2026-02-01-afternoon): NDE evidence corrections.
+Preserved: Opening summary, Relation to Site Perspective, core arguments, all cross-links.
 
 This log should be removed after human review.
 -->

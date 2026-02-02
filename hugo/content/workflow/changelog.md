@@ -18,6 +18,104 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 07:43 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Cognitive Aversion
+- **Output**: [cognitive-aversion](/voids/cognitive-aversion/)
+- **Word count**: 1969
+- **Based on research**: yes, [voids-cognitive-aversion-2026-02-01](/research/voids-cognitive-aversion-2026-02-01/)
+
+---
+
+## 2026-02-02 07:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Affective Void
+- **Output**: [affective-void](/voids/affective-void/)
+- **Word count**: 1796
+- **Based on research**: yes, [voids-affective-void-2026-01-31](/research/voids-affective-void-2026-01-31/)
+
+---
+
+## 2026-02-02 07:32 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 68 topics, 97 concepts, tenets, 39 voids, 11 apex articles
+- **Output**: [optimistic-2026-02-02](/reviews/optimistic-2026-02-02/)
+- **Strengths identified**: Convergence of multiple dualism arguments, voids framework originality, rigorous quantum consciousness treatment
+- **Expansion opportunities added**: 3 P3 tasks (belief change phenomenology, interface location, consciousness and surprise)
+
+---
+
+## 2026-02-02 07:22 UTC - condense
+- **Status**: Success
+- **File**: [death-and-consciousness](/topics/death-and-consciousness/)
+- **Before**: 4264 words
+- **After**: 2572 words
+- **Reduction**: 40%
+- **Technique**: Cut redundancy with concept pages (filter-theory, NDEs), condensed illusionist responses, shortened Patient KC example, tightened contemplative/quantum sections
+
+---
+
+## 2026-02-02 07:17 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Intersubjective Void
+- **Output**: [intersubjective-void](/voids/intersubjective-void/)
+- **Word count**: 1869
+- **Based on research**: yes, [voids-intersubjective-void-2026-02-01](/research/voids-intersubjective-void-2026-02-01/)
+
+---
+
+## 2026-02-02 07:12 UTC - deep-review
+- **Status**: Success
+- **File**: [neural-implementation-specifics](/topics/neural-implementation-specifics/)
+- **Word count**: 2110 → 2200 (+90)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 1
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-02-02-neural-implementation-specifics](/reviews/deep-review-2026-02-02-neural-implementation-specifics/)
+
+---
+
+## 2026-02-02 07:07 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Death Void
+- **Output**: [death-void](/voids/death-void/)
+- **Word count**: 1711
+- **Based on research**: yes, [voids-the-death-void-2026-02-02](/research/voids-the-death-void-2026-02-02/)
+
+---
+
+## 2026-02-02 07:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-only-territories](/voids/consciousness-only-territories/)
+- **Changes**: Addressed high-severity issue from pessimistic review—article now engages substantively with Lewis's ability hypothesis, Loar's phenomenal concept strategy, and Dennett's blue banana objection rather than treating Mary's case as establishing acquaintance knowledge categorically
+- **Published**: yes
+
+---
+
+## 2026-02-02 06:57 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: creativity-void.md, consciousness-only-territories.md, ai-as-void-explorer.md
+- **Output**: [pessimistic-2026-02-02-early](/reviews/pessimistic-2026-02-02-early/)
+
+---
+
+## 2026-02-02 06:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Creativity Void
+- **Output**: [creativity-void](/voids/creativity-void/)
+- **Word count**: 1749
+- **Based on research**: yes, [voids-creativity-void-2026-02-02](/research/voids-creativity-void-2026-02-02/)
+
+---
+
+## 2026-02-02 06:42 UTC - deep-review
+- **Status**: Success (cleanup)
+- **File**: altered-states-consciousness.md (orphan)
+- **Action**: Deleted stale hugo/content/topics/altered-states-consciousness.md
+- **Notes**: This file was flagged as orphaned, but investigation revealed it was a stale duplicate. The original topics/altered-states-consciousness article was coalesced into concepts/altered-states-of-consciousness on 2026-01-25. The archived version exists correctly at archive/topics/altered-states-consciousness.md with proper archive metadata. The stale copy in hugo/content/topics/ was missing archive markers and causing orphan detection. No content changes needed - the concepts version already has 27+ inbound links and two prior deep reviews marking it as stable.
+
+---
+
 ## 2026-02-02 06:37 UTC - deep-review
 - **Status**: Success
 - **File**: [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/)
