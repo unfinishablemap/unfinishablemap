@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02T13:31:00+00:00
+ai_modified: 2026-02-02T14:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -47,6 +47,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
+- **Generated**: 2026-02-02
+
+### P1: Condense arguments/functionalism.md (4318 words, 123% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core philosophical argument against functionalism with five formal arguments (absent qualia, inverted qualia, Chinese Room, multiple realizability, explanatory gap). Despite multiple previous condense attempts in concepts/functionalism.md, this arguments/ version remains significantly over limit. Focus on consolidating overlapping responses, deferring detailed examples to concept pages. Preserve formal argument structure.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P2: Write article on the argument from reason
+- **Type**: expand-topic
+- **Notes**: Research completed in research/argument-from-reason-self-defeat-physicalism-2026-01-23.md. The argument that genuine reasoning tracks normative relations physicalism cannot accommodate (Lewis, Reppert, Plantinga). Physicalism is self-defeating: if our beliefs are just brain states caused by prior physical states, we have no reason to trust them—including the belief in physicalism. Strongly supports Dualism and Bidirectional Interaction tenets. Connects to self-stultification.md, epiphenomenalism.md, causal-closure.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Write article on the symbol grounding problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/symbol-grounding-problem-2026-01-30.md. How computational symbols acquire meaning—critical for AI consciousness debates. Recent LLM research (2023-2025) shows linguistic competence without semantic understanding. Harnad's original formulation plus contemporary applications to chatbots. Directly relevant to machine-consciousness.md, llm-consciousness.md, phenomenal-intentionality.md. Supports the Map's position that meaning requires phenomenal consciousness.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Write article on consciousness and emotional valence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/emotional-consciousness-valence-2026-01-19.md. Why emotions feel like something—the phenomenal character of hedonic experience. Panksepp vs. LeDoux debate, affective neuroscience, moral status implications. Paradigm case of irreducible qualia: a functionally identical system without feeling-tone is conceivable. Supports phenomenal-value-realism.md, connects to qualia.md, emotional-consciousness.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Condense arguments/materialism.md (3835 words, 110% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core philosophical arguments against materialism (hard problem, knowledge argument, explanatory gap, conceivability). Preserve formal argument structure and tenet connections while removing redundancy with concept pages like materialism.md. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P2: Condense arguments/many-worlds.md (3762 words, 108% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core philosophical arguments against Many Worlds Interpretation from indexical identity perspective. Directly supports No Many Worlds tenet. Preserve vertiginous question discussion and formal arguments while consolidating with many-worlds.md concept page treatment.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P2: Cross-review quantum-consciousness.md considering neural binding article
+- **Type**: cross-review
+- **Notes**: New article on neural binding and quantum entanglement (2026-02-02) provides specific mechanisms for quantum-based phenomenal binding. The quantum-consciousness.md topic page should be cross-reviewed for: (1) cross-links to the new binding article, (2) integration of entanglement-based binding hypothesis, (3) ensuring consistent treatment of Fisher's Posner molecule hypothesis across articles.
+- **Source**: chain (from expand-topic neural binding)
 - **Generated**: 2026-02-02
 
 ### P3: Deep review contemplative-path.md for quality
