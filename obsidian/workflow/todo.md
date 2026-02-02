@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review argument-from-reason.md with epistemology articles
-- **Type**: cross-review
-- **Notes**: New topic article topics/argument-from-reason.md (2026-02-02) develops the self-defeat argument against physicalism. Cross-review related epistemology and consciousness articles for: (1) cross-links to argument from reason, (2) reinforcing the self-stultification pattern, (3) ensuring consistent treatment across self-stultification.md, epiphenomenalism.md, causal-closure.md, materialism.md.
-- **Source**: chain (from argument-from-reason.md)
-- **Generated**: 2026-02-02
-
 ### P2: Integrate selection-laws.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Newly created concept (2026-02-02) has no inbound links. Selection laws describe phenomenology→physics direction of psychophysical coupling—central to the Map's framework. Add cross-references from psychophysical-laws-framework.md, psychophysical-coupling-mechanisms.md, interactionist-dualism.md, minimal-quantum-interaction discussions.
@@ -391,6 +385,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Cross-review argument-from-reason.md with epistemology articles
+- **Type**: cross-review
+- **Notes**: New topic article topics/argument-from-reason.md (2026-02-02) develops the self-defeat argument against physicalism. Cross-review related epistemology and consciousness articles for: (1) cross-links to argument from reason, (2) reinforcing the self-stultification pattern, (3) ensuring consistent treatment across self-stultification.md, epiphenomenalism.md, causal-closure.md, materialism.md.
+- **Output**: obsidian/topics/argument-from-reason.md -- Context: Cross-review argument-from-reason.md with epistemology articles
 
 ### ✓ 2026-02-02: Cross-review symbol-grounding-problem.md with AI consciousness articles
 - **Type**: cross-review
