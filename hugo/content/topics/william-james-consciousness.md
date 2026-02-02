@@ -10,7 +10,7 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[introspection]]'
 - '[[attention-as-interface]]'
-- '[[voluntary-attention-control]]'
+- '[[voluntary-attention]]'
 - '[[mental-effort]]'
 - '[[interactionist-dualism]]'
 - '[[pragmatism]]'
@@ -185,7 +185,7 @@ James's philosophy aligns with all five tenets, though the alignment varies in d
 - [introspection](/concepts/introspection/) — Limits James identified, confirmed by contemporary research
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the mechanism of mind-matter interaction
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Contemporary quantum approach to James's attention theory
-- [voluntary-attention-control](/archive/concepts/voluntary-attention-control/) — The phenomenology of effortful attention
+- [voluntary-attention](/concepts/voluntary-attention/) — The phenomenology of effortful attention
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's development of Jamesian themes
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why maintaining dualism as live option is epistemically responsible
 - [tenets](/tenets/) — The Map's foundational commitments

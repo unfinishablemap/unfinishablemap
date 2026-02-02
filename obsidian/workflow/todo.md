@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate voluntary-attention-control.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-01-23) has no inbound links. Key piece on endogenous attention relevant to Stapp's quantum Zeno mechanism. Add cross-references from attention-as-interface.md, attention-interface-mechanisms.md, mental-effort.md, free-will.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Deep review machine-question.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Central topic on whether machines can be conscious—highly relevant to current AI discourse. Ensure arguments align with Map's tenets, check for unsupported claims, verify tenet connections are explicit.
@@ -257,6 +251,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate voluntary-attention-control.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-01-23) has no inbound links. Key piece on endogenous attention relevant to Stapp's quantum Zeno mechanism. Add cross-references from attention-as-interface.md, attention-interface-mechanisms.md, mental-effort.md, free-will.md.
+- **Output**: voluntary-attention-control.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Integrate baseline-cognition.md into site navigation
 - **Type**: integrate-orphan

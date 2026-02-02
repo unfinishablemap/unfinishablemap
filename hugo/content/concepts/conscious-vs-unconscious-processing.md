@@ -288,7 +288,7 @@ The specific functions—working memory maintenance, novel combinations, spontan
 
 ### Minimal Quantum Interaction
 
-If consciousness interfaces with cognition through attention (as GNWT suggests), the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet locates this interface at quantum indeterminacies in attention-related neural systems. [Voluntary attention control](/archive/concepts/voluntary-attention-control/) gates what enters the global workspace; quantum-level selection at attention mechanisms would propagate to determine which information gains conscious access.
+If consciousness interfaces with cognition through attention (as GNWT suggests), the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet locates this interface at quantum indeterminacies in attention-related neural systems. [Voluntary attention](/concepts/voluntary-attention/) gates what enters the global workspace; quantum-level selection at attention mechanisms would propagate to determine which information gains conscious access.
 
 The timing works: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) documents a hierarchy from femtosecond decoherence to the 280-300ms neural decision windows. The [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) doesn't require sustained coherence but operates through discrete observation events (~1000 per 300ms window), making the mechanism compatible with established neural timing.
 
