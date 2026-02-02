@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 00:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: history of interactionist dualism
+- **Output**: [[history-of-interactionist-dualism]]
+- **Word count**: 2081
+- **Based on research**: yes, [[interactionist-dualism-2026-01-06]]
+
 ## 2026-02-02 00:15 UTC - deep-review
 - **Status**: Success
 - **File**: [[phenomenological-evidence-methodology]]

@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on history of interactionist dualism
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28 (evening). Historical trajectory from Descartes through Princess Elizabeth to Stapp. Would show how objections have evolved and how quantum mechanics reopens possibilities. Key figures: Descartes, Elizabeth of Bohemia, Leibniz, British Emergentists (Broad, Alexander), contemporary physicists (Stapp, Penrose). Builds on interactionist-dualism.md, conservation-laws-and-mind.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
-### P2: Write article on anesthesia ethics
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28 (evening). If consciousness is what matters morally, anesthesia awareness becomes a serious ethical issue. The Map's framework has implications for surgical protocols. Applied ethics article. Builds on ethics-of-consciousness.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
 ### P2: Write apex article on Eastern philosophy integration
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (evening). Systematic treatment of how Buddhist, Hindu, and Taoist approaches relate to the Map's framework. Does Buddhist non-self contradict dualism? How does the Map relate to Advaita Vedānta? Builds on eastern-philosophy-consciousness.md, buddhism-and-dualism.md, contemplative-evidence-for-consciousness-theories.md.
@@ -389,6 +377,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write article on history of interactionist dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). Historical trajectory from Descartes through Princess Elizabeth to Stapp. Would show how objections have evolved and how quantum mechanics reopens possibilities. Key figures: Descartes, Elizabeth of Bohemia, Leibniz, British Emergentists (Broad, Alexander), contemporary physicists (Stapp, Penrose). Builds on interactionist-dualism.md, conservation-laws-and-mind.md.
+- **Output**: history of interactionist dualism
 
 ### ✓ 2026-02-02: Write article on phenomenal value realism development
 - **Type**: expand-topic
