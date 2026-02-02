@@ -4,7 +4,7 @@ description: "If consciousness is distinct from physics, psychophysical laws mus
 created: 2026-01-26
 modified: 2026-01-26
 human_modified:
-ai_modified: 2026-01-27T17:39:53+00:00
+ai_modified: 2026-02-02T18:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[psychophysical-laws]]"
   - "[[psychophysical-coupling]]"
   - "[[psychophysical-coupling]]"
+  - "[[selection-laws]]"
   - "[[mental-causation]]"
   - "[[quantum-consciousness]]"
   - "[[decoherence]]"
@@ -53,9 +54,9 @@ Three principles constrain supervenience laws:
 
 **Double-aspect information**: Information has both physical and phenomenal aspects. Where information is processed, some form of experience may be present. This approaches panpsychism through information theory rather than traditional metaphysics.
 
-### Selection Laws (Causal Laws)
+### [[selection-laws|Selection Laws]] (Causal Laws)
 
-Selection laws specify how conscious states influence which physical outcomes become actual. They answer the downward question: given this intention or attention state, how does it affect what happens in the brain?
+[[selection-laws|Selection laws]] specify how conscious states influence which physical outcomes become actual. They answer the downward question: given this intention or attention state, how does it affect what happens in the brain?
 
 The Map requires selection laws because the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet commits to downward causation. Consciousness doesn't merely accompany brain states—it participates in determining which of several physically possible outcomes actually occurs.
 
@@ -196,6 +197,7 @@ The psychophysical laws framework would face serious difficulty if:
 
 - [[chalmers-psychophysical-coupling]] — Chalmers' specific contributions, including his 2022 quantum development with McQueen
 - [[psychophysical-laws]] — The foundational concept in depth
+- [[selection-laws]] — The downward direction: how conscious states select physical outcomes
 - [[psychophysical-coupling]] — The selection law problem specifically
 - [[psychophysical-coupling]] — Five candidate mechanisms evaluated
 - [[interactionist-dualism]] — The philosophical position requiring bidirectional laws

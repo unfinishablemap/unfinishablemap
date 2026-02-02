@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-02-02T16:58:00+00:00
+ai_modified: 2026-02-02T18:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[decoherence]]"
   - "[[measurement-problem]]"
   - "[[mental-causation]]"
+  - "[[selection-laws]]"
   - "[[causal-closure]]"
   - "[[quantum-binding-and-phenomenal-unity]]"
   - "[[psychophysical-coupling]]"
@@ -178,7 +179,7 @@ The Map's tenets don't commit to any specific mechanism. They require:
 
 Both Orch OR and Stapp are compatible, along with the other mechanisms surveyed in [[quantum-neural-mechanisms]]. The Map remains agnostic about which (if any) is correct—what matters is that *some* such mechanism exists.
 
-The Map's position is strong emergentism that specifies its mechanism. Mental causation operates at quantum indeterminacies, where physics provides necessary but not sufficient causes. This transforms [[mental-causation|mental causation]] from philosophical puzzle into precise proposal: consciousness causes physical effects by determining what physics leaves undetermined.
+The Map's position is strong emergentism that specifies its mechanism. Mental causation operates at quantum indeterminacies, where physics provides necessary but not sufficient causes. This transforms [[mental-causation|mental causation]] from philosophical puzzle into precise proposal: consciousness causes physical effects by determining what physics leaves undetermined. The [[selection-laws|selection laws]] concept articulates what such downward determination must specify—which mental variables map to which physical parameters through what mechanisms.
 
 **A mysterian caveat**: Even if these mechanisms prove correct, we may face cognitive closure on *how* consciousness interfaces with quantum effects. [[mysterianism|Colin McGinn's cognitive closure thesis]] suggests human minds may be constitutionally incapable of understanding this connection—not because the problem is unanswerable, but because the answer lies outside our conceptual repertoire. The Map documents mechanisms constrained by physics while acknowledging the ultimate nature of the consciousness-quantum interface may exceed human comprehension.
 
@@ -194,6 +195,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 **Key concepts:**
 - [[quantum-decoherence-objection]] — Analysis of the decoherence challenge
 - [[psychophysical-coupling]] — What a coupling law must specify
+- [[selection-laws]] — The downward direction of psychophysical laws
 - [[interface-locality]] — Why consciousness selects only within its own brain
 - [[quantum-binding-and-phenomenal-unity]] — Entanglement and phenomenal unity
 - [[neural-binding-mechanisms]] — Classical vs. quantum binding mechanisms

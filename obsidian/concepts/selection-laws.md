@@ -4,7 +4,7 @@ description: "Fundamental principles specifying how conscious states influence w
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-02T18:12:00+00:00
+ai_modified: 2026-02-02T18:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated:
-last_deep_review: 2026-02-02T18:12:00+00:00
+last_deep_review: 2026-02-02T18:28:00+00:00
 ---
 
 Selection laws are fundamental principles specifying how conscious states influence which physical outcomes become actual. They constitute the *downward* direction of [[psychophysical-laws]]—the direction The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires. While supervenience laws run upward (physical states → experiences), selection laws run downward (conscious states → physical selections).

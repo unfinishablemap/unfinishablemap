@@ -4,7 +4,7 @@ description: "Higher-level properties can causally influence lower-level process
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-02-02T08:04:00+00:00
+ai_modified: 2026-02-02T18:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,6 +12,7 @@ topics:
 concepts:
   - "[[reductionism]]"
   - "[[mental-causation]]"
+  - "[[selection-laws]]"
   - "[[causal-closure]]"
   - "[[emergence]]"
   - "[[interactionist-dualism]]"
@@ -36,7 +37,7 @@ last_curated: null
 last_deep_review: 2026-01-26T19:17:19+00:00
 ---
 
-Downward causation is the thesis that higher-level properties can causally influence lower-level processes. When your decision to speak causes neurons to fire, this is downward causation—mental properties affecting physical events. This concept is central to defending The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet against Jaegwon Kim's exclusion argument. Kim contends that physical causes "screen off" higher-level causes, draining all causal efficacy to fundamental physics. The Map's quantum framework provides a response: consciousness causally influences physical outcomes at points where physics is genuinely incomplete. In the terminology of [[psychophysical-laws-framework|psychophysical laws]], downward causation requires *selection laws*—laws specifying how mental states influence which physical outcomes become actual—not merely the supervenience laws that map physical states to experiences.
+Downward causation is the thesis that higher-level properties can causally influence lower-level processes. When your decision to speak causes neurons to fire, this is downward causation—mental properties affecting physical events. This concept is central to defending The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet against Jaegwon Kim's exclusion argument. Kim contends that physical causes "screen off" higher-level causes, draining all causal efficacy to fundamental physics. The Map's quantum framework provides a response: consciousness causally influences physical outcomes at points where physics is genuinely incomplete. In the terminology of [[psychophysical-laws-framework|psychophysical laws]], downward causation requires *[[selection-laws|selection laws]]*—laws specifying how mental states influence which physical outcomes become actual—not merely the supervenience laws that map physical states to experiences.
 
 ## The Concept Distinguished
 
@@ -186,6 +187,7 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 ## Further Reading
 
 - [[mental-causation]] — The philosophical problem downward causation addresses
+- [[selection-laws]] — The downward direction of psychophysical laws
 - [[causal-closure]] — The principle downward causation challenges
 - [[emergence]] — Strong emergence requires downward causation
 - [[interactionist-dualism]] — the Map's framework defending downward causation

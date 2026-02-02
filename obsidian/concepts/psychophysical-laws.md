@@ -4,13 +4,14 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-27T22:30:00+00:00
+ai_modified: 2026-02-02T18:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[psychophysical-coupling]]"
   - "[[psychophysical-coupling]]"
+  - "[[selection-laws]]"
   - "[[interactionist-dualism]]"
   - "[[mental-causation]]"
   - "[[integrated-information-theory]]"
@@ -75,7 +76,7 @@ This leaves open whether the mental can causally influence the physical. Chalmer
 
 ### Causal Laws
 
-Causal laws (or "selection laws" in the Map's terminology) specify how mental states influence which physical states become actual. The mental is input; the physical is output.
+Causal laws (or "[[selection-laws|selection laws]]" in the Map's terminology) specify how mental states influence which physical states become actual. The mental is input; the physical is output.
 
 The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires causal laws—not merely supervenience laws. Consciousness doesn't just accompany brain states; it selects among physically underdetermined alternatives. The [[psychophysical-coupling]] page explores what such selection laws might look like.
 
@@ -236,6 +237,7 @@ The framework would face serious difficulty if: (1) the hard problem dissolves�
 - [[chalmers-psychophysical-coupling]] — Focused treatment of Chalmers' framework and the Map's divergences
 - [[psychophysical-laws-framework]] — Integrated overview connecting laws to mechanisms and tenets
 - [[psychophysical-coupling]] — Specific mechanism proposals (attention→observation, intention→probability, valence→motivation, qualia→basis, unity→entanglement)
+- [[selection-laws]] — The downward direction: how conscious states select physical outcomes
 - [[psychophysical-coupling]] — The Map's specific coupling law problem
 - [[interactionist-dualism]] — The framework requiring bidirectional laws
 - [[mental-causation]] — How consciousness causes physical effects
