@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 08:32 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/conscious-vs-unconscious-processing]]
+- **Word count**: 3423 → 3423 (unchanged, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (COGITATE citation volume/pages)
+- **Enhancements made**: 0 (article at 137% of soft threshold)
+- **Cross-references added**: 6 articles now link to this content (working-memory, blindsight, epiphenomenalism, global-workspace-theory, access-consciousness, attention)
+- **Output**: [[reviews/deep-review-2026-02-02-conscious-vs-unconscious-processing]]
+- **Notes**: Focus was orphan integration. Article had 6 content inbound links; now has 12.
+
+---
+
 ## 2026-02-02 08:26 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Mathematical Void

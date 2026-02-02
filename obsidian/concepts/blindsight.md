@@ -90,7 +90,7 @@ The [[baseline-cognition|baseline cognition]] hypothesis proposes that unconscio
 - Verbal report or explicit knowledge ("describe what's there")
 - Integration into episodic memory (patients don't remember "seeing" stimuli later)
 
-This mirrors the great ape baseline: procedural competence without metarepresentation. The blindsight patient's visual system can answer "which one?" but not "what is it?" or "am I correct?" The information influences behavior but doesn't enter the workspace for reasoning, planning, or explicit memory formation.
+This mirrors the great ape baseline: procedural competence without metarepresentation. The blindsight patient's visual system can answer "which one?" but not "what is it?" or "am I correct?" The information influences behavior but doesn't enter the workspace for reasoning, planning, or explicit memory formation. See [[conscious-vs-unconscious-processing]] for comprehensive analysis of the three consciousness-requiring functions that blindsight lacks: durable maintenance, novel combinations, and spontaneous intentional action.
 
 Global Workspace Theory formalizes this distinction. Unconscious processing operates in specialized modules (V2, V3, V5 for motion, ventral stream for object recognition) that can influence motor systems directly. Conscious processing broadcasts information globally, making it available to working memory, verbal report systems, and metacognitive monitoring. Blindsight preserves the former while losing the latter.
 

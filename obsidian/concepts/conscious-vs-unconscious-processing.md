@@ -4,7 +4,7 @@ description: "Consciousness enables specific functions unconscious processing ca
 created: 2026-01-23
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-01-30T09:40:00+00:00
+ai_modified: 2026-02-02T08:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated: null
-last_deep_review: 2026-01-30T09:40:00+00:00
+last_deep_review: 2026-02-02T08:32:00+00:00
 coalesced_from:
   - "/topics/conscious-vs-unconscious-processing/"
 ---
@@ -328,7 +328,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 - Kouider, S., Sackur, J., & de Gardelle, V. (2016). P3b, consciousness, and complex unconscious processing. *Consciousness and Cognition*, 36, 348-351.
 - Lamme, V. A. F. (2006). Towards a true neural stance on consciousness. *Trends in Cognitive Sciences*, 10(11), 494-501.
 - Lieberman, M. D. (2007). Social cognitive neuroscience: A review of core processes. *Annual Review of Psychology*, 58, 259-289.
-- Melloni, L., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
+- Melloni, L., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*, 642(8066), 133-142.
 - Overgaard, M., & Fazekas, P. (2022). The nature of blindsight: Implications for current theories of consciousness. *Neuroscience of Consciousness*, 2022(1), niab043.
 - Pitts, M. A., Metzler, S., & Hillyard, S. A. (2019). Recurrent processing theory versus global neuronal workspace theory. *Neuroscience of Consciousness*, 2019(1), niz005.
 - Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.

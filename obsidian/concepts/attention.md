@@ -55,7 +55,7 @@ A 2025 eLife study (Nartker et al.) strengthened the dissociation case: inattent
 
 ### Can You Attend Without Being Conscious?
 
-This direction is clearer. Blindsight patients orient toward stimuli in their "blind" field without conscious vision. Masked priming shows attention operating on stimuli that never reach awareness.
+This direction is clearer. Blindsight patients orient toward stimuli in their "blind" field without conscious vision. Masked priming shows attention operating on stimuli that never reach awareness. A 2025 meta-analysis reinforced the significance of attention as consciousness's gatekeeper: only 10% of claimed unconscious processing effects survive rigorous methodology, while consciousness enables durable maintenance, novel combinations, and spontaneous intentional action (see [[conscious-vs-unconscious-processing]]).
 
 If attention operates without consciousness and vice versa, they are distinct processes with different neural substrates: fronto-parietal networks for attention, temporo-parietal-occipital regions for phenomenal content (Koch & Tsuchiya).
 

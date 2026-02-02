@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate conscious-vs-unconscious-processing.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-01-23) has no inbound links. Covers the empirical evidence distinguishing conscious from unconscious cognitive processing—directly relevant to the Map's claims about what consciousness adds. Add cross-references from baseline-cognition.md, consciousness-as-amplifier.md, global-workspace-theory.md, access-consciousness.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Integrate phenomenal-binding.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Concepts article (2026-01-23) has no inbound links. Covers how disparate phenomenal features unite into single experiences—the binding problem from the phenomenal perspective. Add cross-references from binding-problem.md, unity-of-consciousness.md, global-workspace-theory.md, integrated-information-theory.md.
@@ -290,6 +284,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate conscious-vs-unconscious-processing.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-01-23) has no inbound links. Covers the empirical evidence distinguishing conscious from unconscious cognitive processing—directly relevant to the Map's claims about what consciousness adds. Add cross-references from baseline-cognition.md, consciousness-as-amplifier.md, global-workspace-theory.md, access-consciousness.md.
+- **Output**: obsidian/concepts/conscious-vs-unconscious-processing.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Write article on consciousness in simple organisms
 - **Type**: expand-topic
