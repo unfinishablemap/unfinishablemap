@@ -85,6 +85,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from introspective-opacity.md)
 - **Generated**: 2026-02-02
 
+### P2: Define "comprehension" in mathematical-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-02-02 (midday) identified high-severity issue: the article distinguishes "formal manipulation" from "genuine comprehension" but never defines what comprehension adds. The characterization ("intuitive grasp we have of three-dimensional geometry") is circular. Either provide explicit criteria for comprehension beyond formal manipulation, or acknowledge the distinction may be phenomenological rather than cognitive.
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-02
+
+### P2: Address self-undermining structure in volitional/introspective opacity articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-02-02 (midday) identified high-severity issue: introspective-opacity.md argues introspection systematically misreports cognitive processes, while volitional-opacity.md treats introspective reports about willing as revealing genuine features. Either restrict the introspective opacity thesis with principled criteria for which domains remain reliable, or acknowledge volitional phenomenology may also be constructed rather than revelatory.
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-02
+
 ### P3: Deep review process-and-consciousness.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on process philosophy's account of consciousness. Check philosophical accuracy, ensure alignment with Map's dualist framework, verify connections to temporal-consciousness.md.
