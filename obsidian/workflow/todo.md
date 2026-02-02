@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write voids article on creativity void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-creativity-void-2026-02-02.md. Creativity as generative territory: unexplored realms revealed through creative acts, where consciousness generates genuinely novel combinations inaccessible to purely algorithmic processes. Connects to consciousness-and-creativity.md, phenomenology-of-understanding.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
 ### P2: Write voids article on the death void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-the-death-void-2026-02-02.md. The ultimate cognitive limit: what lies beyond death for consciousness. Connects to death-and-consciousness.md, personal-identity.md, meaning-of-life.md.
@@ -269,6 +263,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write voids article on creativity void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-creativity-void-2026-02-02.md. Creativity as generative territory: unexplored realms revealed through creative acts, where consciousness generates genuinely novel combinations inaccessible to purely algorithmic processes. Connects to consciousness-and-creativity.md, phenomenology-of-understanding.md.
+- **Output**: Write voids article on creativity void
+
+### ✓ 2026-02-02: Write voids article on creativity void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-creativity-void-2026-02-02.md.
+- **Output**: [[creativity-void]]
 
 ### ✓ 2026-02-02: Integrate altered-states-consciousness.md into site navigation
 - **Type**: integrate-orphan
