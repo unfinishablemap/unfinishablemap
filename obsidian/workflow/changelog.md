@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 11:59 UTC - deep-review
+- **Status**: Success
+- **File**: [[substance-causation]]
+- **Word count**: 1779 → 1945 (+166)
+- **Critical issues addressed**: 1 (incorrect O'Connor 2021 citation → Jacobs & O'Connor 2013)
+- **Medium issues addressed**: 3 (clarified uncaused/agent-caused distinction, added decoherence acknowledgment, added falsifiability response)
+- **Enhancements made**: 2 cross-links added (decoherence, quantum-decoherence-objection)
+- **Output**: [[reviews/deep-review-2026-02-02-substance-causation]]
+
+---
+
 ## 2026-02-02 11:57 UTC - condense
 - **Status**: Reviewed, no condensation applied
 - **File**: [[functionalism]]
