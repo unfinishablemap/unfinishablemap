@@ -215,6 +215,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
 
+### P3: Write article on phenomenology of anticipation (protention)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (morning). Protention—the forward-directed aspect of experience—receives less attention than retention. How does anticipation differ phenomenologically from prediction? How does it relate to free will (anticipating one's own choices)? Builds on temporal-consciousness.md, phenomenology-of-understanding.md, specious-present.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on dream consciousness and the filter model
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (morning). Dreams demonstrate consciousness without external input—experience generated purely internally. What does this show about the consciousness-brain relationship? Dreams as evidence against the brain-as-generator model. Builds on dreams-and-consciousness.md, hard-problem-of-consciousness.md, filter-theory.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Create concept page for prehension
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (morning). Whitehead's term for experiential grasping appears in multiple articles (binding-problem.md, temporal-consciousness.md, phenomenology-of-understanding.md) but deserves dedicated treatment. Central to process philosophy's account of experience.
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
 ## Completed Tasks
 
 
