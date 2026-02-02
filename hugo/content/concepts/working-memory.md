@@ -56,7 +56,7 @@ Research from 2011-2025 reveals a crucial asymmetry in WM processing:
 
 This is supported by "activity-silent" WM research. Traditional theory assumed WM maintenance requires sustained neural firing. New evidence shows information can be maintained through short-term synaptic plasticity—residual calcium at synaptic terminals, rapid changes in synaptic weights—without sustained activity. These traces persist for roughly one second, spanning typical WM delays.
 
-**Manipulation requires consciousness.** The key finding: "Non-conscious, activity-silent maintenance is a genuine phenomenon but should be termed 'activity-silent short-term memory'; when *using* a memory, a reactivation, associated with conscious reportability, is necessary."
+**Manipulation requires consciousness.** The key finding: "Non-conscious, activity-silent maintenance is a genuine phenomenon but should be termed 'activity-silent short-term memory'; when *using* a memory, a reactivation, associated with conscious reportability, is necessary." This aligns with the broader evidence in [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) showing that consciousness enables specific functions—durable maintenance, novel combinations, and spontaneous intentional action—that unconscious processing cannot achieve.
 
 This maps onto the Map's framework precisely:
 - **Storage** might be purely neural—synaptic traces maintaining patterns without consciousness

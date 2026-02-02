@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-02 03:50:00+00:00
+ai_modified: 2026-02-02 07:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,7 +27,7 @@ last_curated: null
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[phenomenal-unity-and-the-binding-problem]]'
+- '[[binding-problem]]'
 - '[[meaning-of-life-theories-2026-01-08]]'
 title: Consciousness and Meaning Integration
 topics:
@@ -144,7 +144,7 @@ These conditions distinguish the phenomenal-integration view from alternatives w
 
 - [meaning-and-consciousness](/topics/meaning-and-consciousness/) — The phenomenal constitution thesis for semantic understanding
 - [meaning-of-life](/topics/meaning-of-life/) — Consciousness-grounded meaning and existential significance
-- [phenomenal-unity-and-the-binding-problem](/topics/phenomenal-unity-and-the-binding-problem/) — How perceptual unity relates to meaning unity
+- [binding-problem](/concepts/binding-problem/) — Comprehensive treatment of perceptual binding and its relation to meaning unity
 - [binding-problem](/concepts/binding-problem/) — Comprehensive treatment of computational vs. phenomenal binding
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The experiential character of thinking
 - narrative-identity — How life-narrative requires meaning integration

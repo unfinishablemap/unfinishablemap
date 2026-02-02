@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-02-01
-**Article**: [Phenomenal Unity and the Binding Problem](/topics/phenomenal-unity-and-the-binding-problem/)
+**Article**: [Phenomenal Unity and the Binding Problem](/archive/topics/phenomenal-unity-and-the-binding-problem/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -18,6 +18,129 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 10:16 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: psychophysical-coupling-mechanisms.md
+- **Reason**: File is archived and superseded by [psychophysical-coupling](/concepts/psychophysical-coupling/)
+- **Archive date**: 2026-01-29
+- **Archive reason**: Coalesced into Psychophysical Coupling
+- **Notes**: Cannot deep-review archived content. The orphan integration request is moot—archived files intentionally have no inbound links since they redirect to their successor. The psychophysical-coupling.md article is the active version containing the coalesced content, last reviewed 2026-01-30.
+
+---
+
+## 2026-02-02 10:10 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [process-and-consciousness](/apex/process-and-consciousness/)
+- **Changed sources**: 1 (concepts/process-philosophy)
+- **Word count**: 3004 → 3263
+- **Review**: [apex-evolve-2026-02-02-process-and-consciousness](/reviews/apex-evolve-2026-02-02-process-and-consciousness/)
+- **Key changes**:
+  - Integrated "process haecceitism" insight from updated source
+  - Added connection to time-consciousness-growing-block synthesis
+  - Added testability acknowledgment
+  - Improved transition to "Against Many Worlds" section
+
+---
+
+## 2026-02-02 08:39 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: phenomenal-binding.md
+- **Reason**: File is archived and superseded by [binding-problem](/concepts/binding-problem/)
+- **Archive date**: 2026-01-26
+- **Archive reason**: Coalesced into The Binding Problem
+- **Notes**: Cannot deep-review archived content. The orphan integration request is moot—archived files intentionally have no inbound links since they redirect to their successor. The binding-problem.md article is the active version containing the coalesced content.
+
+---
+
+## 2026-02-02 08:32 UTC - deep-review
+- **Status**: Success
+- **File**: [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
+- **Word count**: 3423 → 3423 (unchanged, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (COGITATE citation volume/pages)
+- **Enhancements made**: 0 (article at 137% of soft threshold)
+- **Cross-references added**: 6 articles now link to this content (working-memory, blindsight, epiphenomenalism, global-workspace-theory, access-consciousness, attention)
+- **Output**: [deep-review-2026-02-02-conscious-vs-unconscious-processing](/reviews/deep-review-2026-02-02-conscious-vs-unconscious-processing/)
+- **Notes**: Focus was orphan integration. Article had 6 content inbound links; now has 12.
+
+---
+
+## 2026-02-02 08:26 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Mathematical Void
+- **Category**: Mixed (Unexplorable / Unexplored)
+- **Output**: [voids-mathematical-void-2026-02-02](/research/voids-mathematical-void-2026-02-02/)
+- **Key finding**: Mathematical reality may contain structures human minds cannot comprehend—transfinite infinities, higher dimensions, and non-surveyable proofs that exist as mathematical truths we cannot genuinely understand, only formally manipulate.
+
+---
+
+## 2026-02-02 08:21 UTC - expand-topic
+- **Status**: Skipped (article already exists)
+- **Topic**: consciousness in simple organisms
+- **Existing article**: [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
+- **Word count**: 2798 words
+- **Notes**: Task requested article expansion but article already exists with comprehensive coverage. Last deep review: 2026-01-30. Article covers C. elegans, Hydra, slime molds, UAL framework, baseline cognition, metarepresentation, illusionist challenge, process philosophy, and contemplative perspectives. No action needed.
+
+---
+
+## 2026-02-02 08:16 UTC - deep-review
+- **Status**: Success
+- **File**: [william-james-consciousness](/topics/william-james-consciousness/)
+- **Word count**: 2291 → 2332 (+41)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Stapp connection framing, causal engagement claim)
+- **Enhancements made**: 4 (Husserl influence note, hard-problem cross-link, explanatory-gap cross-link, neutral monism tension expansion)
+- **Output**: [deep-review-2026-02-02-william-james-consciousness](/reviews/deep-review-2026-02-02-william-james-consciousness/)
+
+---
+
+## 2026-02-02 08:15 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [functionalism](/concepts/functionalism/)
+- **Word count**: 2036 words (target: 2500, threshold: 3500)
+- **Reason**: Article is already well under the soft threshold at 81% of target. Content is well-structured with no redundancy or unnecessary background.
+
+---
+
+## 2026-02-02 08:04 UTC - condense
+- **Status**: Success
+- **File**: [downward-causation](/concepts/downward-causation/)
+- **Before**: 3562 words
+- **After**: 2396 words
+- **Reduction**: 33%
+- **Technique**: Cut redundant examples (drainage problem, overdetermination responses), consolidated philosophical responses section, removed Process Philosophy tangent (could be separate article), trimmed illusionist section, removed stale AI refinement log, condensed references list
+
+---
+
+## 2026-02-02 07:59 UTC - coalesce
+- **Status**: Success (archive only)
+- **Sources**: [phenomenal-unity-and-the-binding-problem](/topics/phenomenal-unity-and-the-binding-problem/)
+- **Target**: [binding-problem](/concepts/binding-problem/) (existing, comprehensive)
+- **Archived**: [phenomenal-unity-and-the-binding-problem](/archive/topics/phenomenal-unity-and-the-binding-problem/)
+- **References updated**: 1 (consciousness-and-meaning-integration.md)
+- **Notes**: Archived redundant article - content fully subsumed by existing binding-problem.md which provides comprehensive coverage (5600+ words vs 2700 words) and has 61 inbound references.
+
+---
+
+## 2026-02-02 07:54 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [functionalism](/concepts/functionalism/)
+- **Word count**: 2036 words (81% of 2500 target)
+- **Reason**: Article is well within acceptable limits for concepts section (threshold: 2500 soft, 3500 hard). No condensation needed.
+
+---
+
+## 2026-02-02 07:48 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-value-realism-development](/topics/phenomenal-value-realism-development/)
+- **Word count**: 2455 → 2586 (+131)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-02-02-phenomenal-value-realism-development](/reviews/deep-review-2026-02-02-phenomenal-value-realism-development/)
+
+---
+
 ## 2026-02-02 07:43 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Cognitive Aversion

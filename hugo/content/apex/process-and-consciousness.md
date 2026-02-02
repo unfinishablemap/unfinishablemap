@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-01-31 04:42:00+00:00
+ai_modified: 2026-02-02 10:10:00+00:00
 ai_system: claude-opus-4-5-20251101
-apex_last_synthesis: 2026-01-31 04:42:00+00:00
+apex_last_synthesis: 2026-02-02 10:10:00+00:00
 apex_sources:
 - concepts/process-philosophy
 - concepts/duration
@@ -25,7 +25,7 @@ concepts:
 - '[[phenomenal-unity]]'
 - '[[agent-causation]]'
 created: 2026-01-31
-date: &id001 2026-01-31
+date: &id001 2026-02-02
 description: Reality as becoming, not being. Whitehead and Bergson's process frameworks
   illuminate the Map's five tenets—from irreducibility to temporal agency.
 draft: false
@@ -70,6 +70,8 @@ Where they differ: process philosophy dissolves the mind-matter distinction by h
 
 The philosophical tradeoff is clear. Process philosophy avoids the *interaction problem* (how do distinct substances causally connect?) but faces the *combination problem* (how do micro-experiences combine into unified consciousness?). Interactionist dualism faces the interaction problem but avoids combination—there's no need to explain how micro-experiences combine because matter lacks experience. The Map argues that quantum mechanics provides resources for interaction that make the dualist path tractable.
 
+Process philosophy also illuminates questions of personal identity. If haecceity (primitive "thisness") requires permanent substance, Buddhist no-self would conflict with indexical identity. But process philosophy suggests haecceity can apply to *processes*—to particular causal histories of arising and passing—without requiring unchanging substrates. The flame analogy captures this: tonight's flame is causally continuous with yesterday's without being the same flame. This "process haecceitism" grounds indexical particularity for impermanent experiential streams, reconciling the Map's commitment to [haecceity](/concepts/haecceity/) with process-friendly insights about impermanence.
+
 ## Minimal Interaction and Creative Novelty
 
 The Map's second tenet commits to minimal quantum interaction: if consciousness influences the physical world, it does so by biasing otherwise indeterminate quantum outcomes, without injecting energy or violating conservation laws.
@@ -77,6 +79,8 @@ The Map's second tenet commits to minimal quantum interaction: if consciousness 
 Process philosophy provides conceptual support for this picture, though it doesn't specify the mechanism. Whitehead's concrescence—how each actual occasion grows together from potentiality to actuality—resembles quantum collapse. The occasion inherits data from predecessors, synthesizes them through "subjective aim," and achieves definite form. Then it perishes, becoming datum for successor occasions.
 
 This rhythm of becoming-perishing-becoming parallels the transition from superposition to definite outcome in quantum measurement. Before concrescence completes, the occasion is open—multiple possibilities for how it might resolve. After concrescence, definiteness has been achieved, and the occasion becomes part of the settled past. The parallel is structural, not mechanistic: process philosophy describes metaphysics, not physics. But the resonance suggests that what physics describes mathematically (collapse of the wave function) and what process philosophy describes metaphysically (concrescence of actual occasions) may be two perspectives on the same underlying reality.
+
+The [Time, Consciousness, and the Growing Block](/apex/time-consciousness-growing-block/) synthesis develops this connection further. The mental pole's contribution to concrescence—introducing novelty through subjective aim—resembles consciousness's contribution to collapse. If consciousness participates in collapse, and collapse introduces time's arrow, then process philosophy provides vocabulary for what collapse-constituted time involves: prehension as inheritance from the settled past, concrescence as the moment of determination, creativity as the novel contribution consciousness makes.
 
 Henry Stapp has developed this connection most explicitly, arguing that quantum events are the modern physics counterpart to actual occasions. The "Heisenberg choice" (which observable to measure) and the "Dirac choice" (which outcome occurs) parallel Whitehead's subjective aim and satisfaction. This remains controversial, but it represents the most developed attempt to integrate process thought with quantum mechanics.
 
@@ -98,7 +102,7 @@ The combination of Whitehead's occasions and Bergson's duration offers a rich pi
 
 ## Against Many Worlds
 
-The Map's fourth tenet rejects the many-worlds interpretation of quantum mechanics. All quantum branches do not exist equally; collapse is real, and *you*—this particular conscious subject—experience the one outcome that becomes actual.
+If consciousness contributes to quantum collapse, one question becomes urgent: does collapse actually occur? The Map's fourth tenet rejects the many-worlds interpretation of quantum mechanics. All quantum branches do not exist equally; collapse is real, and *you*—this particular conscious subject—experience the one outcome that becomes actual. Process philosophy, though developed before quantum mechanics matured, strongly supports this rejection.
 
 Process philosophy aligns with this rejection, though Whitehead developed his framework before many-worlds was proposed. Each actual occasion achieves definite form through concrescence. The occasion doesn't split into parallel versions; it becomes one thing rather than remaining all possibilities. The multiplicity of potential outcomes resolves into actual singularity.
 
@@ -119,6 +123,8 @@ Bergson made a parallel point about spatialized time. Treating moments as points
 The [combination problem](/concepts/combination-problem/) that panpsychism faces is sometimes cited as a cost of the view's complexity. But critics should note: the hard problem that faces physicalism is structurally identical—we're asking how something (experience) arises from what lacks it (non-experiential matter or non-unified micro-experiences). Complexity at one point in the theory may be unavoidable given what we're trying to explain. The question is not which view is simplest but which view addresses the phenomena without explaining them away.
 
 Process philosophy's complexity reflects the complexity of what it describes. Consciousness is not simple; time is not simple; becoming is not simple. A framework that makes these phenomena tractable will itself be rich. The apparent simplicity of alternatives reflects selective attention to some phenomena at the expense of others.
+
+A note on testability: process philosophy is primarily a metaphysical framework rather than a scientific theory. Its core claims—that reality is processual, that experience is fundamental—don't generate distinctive empirical predictions. This isn't unique to process philosophy; the same applies to substance metaphysics. But it means process philosophy's value lies in conceptual clarification rather than experimental test. It offers a way of thinking about consciousness that avoids certain problems (emergence from the non-experiential) while facing others (combination). Whether that framework illuminates reality depends on philosophical argument, not laboratory confirmation.
 
 ## Synthesis: What Process Philosophy Offers the Map
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02 06:47:00+00:00
+ai_modified: 2026-02-02 08:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -48,18 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
-- **Generated**: 2026-02-02
-
-### P2: Condense functionalism.md (4450 words, 127% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers the functionalist position and its problems. Despite previous condense attempts, still over threshold. Preserve core functionalist claims and objections (multiple realizability, china brain, substrate-independence). Further consolidation needed. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
-### P2: Condense downward-causation.md (3875 words, 111% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers mental causation and how non-physical consciousness can causally influence physical processes. Preserve core causal arguments, Kim's exclusion problem response, connection to quantum Zeno mechanism. See /condense skill.
-- **Source**: length_analysis
 - **Generated**: 2026-02-02
 
 ### P3: Deep review contemplative-path.md for quality
@@ -285,6 +273,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate psychophysical-coupling-mechanisms.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (2026-01-23) has no inbound links. Covers the mechanisms by which phenomenal states couple to physical states—directly relevant to Minimal Quantum Interaction tenet. Add cross-references from psychophysical-laws-framework.md, quantum-consciousness.md, interactionist-dualism.md, selection-laws.md.
+- **Output**: psychophysical-coupling-mechanisms.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Integrate phenomenal-binding.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (2026-01-23) has no inbound links. Covers how disparate phenomenal features unite into single experiences—the binding problem from the phenomenal perspective. Add cross-references from binding-problem.md, unity-of-consciousness.md, global-workspace-theory.md, integrated-information-theory.md.
+- **Output**: phenomenal-binding.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Integrate conscious-vs-unconscious-processing.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-01-23) has no inbound links. Covers the empirical evidence distinguishing conscious from unconscious cognitive processing—directly relevant to the Map's claims about what consciousness adds. Add cross-references from baseline-cognition.md, consciousness-as-amplifier.md, global-workspace-theory.md, access-consciousness.md.
+- **Output**: obsidian/concepts/conscious-vs-unconscious-processing.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Write article on consciousness in simple organisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Covers C. elegans, Hydra, slime molds, and the Unlimited Associative Learning (UAL) framework for minimal consciousness markers. Important for extending the Map's consciousness claims beyond mammals. Connects to animal-consciousness.md, evolution-of-consciousness.md, panpsychism.md.
+- **Output**: consciousness in simple organisms
+
+### ✓ 2026-02-02: Write article on consciousness in simple organisms
+- **Type**: expand-topic
+- **Status**: Already exists
+- **Notes**: Article already exists at topics/consciousness-in-simple-organisms.md (2798 words). Comprehensive treatment including C. elegans, Hydra, slime molds, UAL framework, baseline cognition, metarepresentation, illusionist challenge, process philosophy, and contemplative perspectives. Last deep review: 2026-01-30.
+- **Output**: [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) (existing)
+
+### ✓ 2026-02-02: Condense functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article remains over 3500-word hard threshold despite multiple previous condense attempts. Core functionalist position and objections (multiple realizability, china brain, qualia objections) must be preserved. Consider: (1) removing redundant examples, (2) deferring detailed critique to linked articles, (3) consolidating overlapping arguments. The concept is central to AI consciousness debates so clarity is critical.
+- **Output**: obsidian/concepts/functionalism.md
+
+### ✓ 2026-02-02: Condense downward-causation.md (3875 words, 111% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers mental causation and how non-physical consciousness can causally influence physical processes. Preserve core causal arguments, Kim's exclusion problem response, connection to quantum Zeno mechanism. See /condense skill.
+- **Output**: obsidian/concepts/downward-causation.md
+
+### ✓ 2026-02-02: Condense functionalism.md (4450 words, 127% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers the functionalist position and its problems. Despite previous condense attempts, still over threshold. Preserve core functionalist claims and objections (multiple realizability, china brain, substrate-independence). Further consolidation needed. See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-02: Write voids article on cognitive aversion
 - **Type**: expand-topic

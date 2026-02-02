@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 00:10:00+00:00
+ai_modified: 2026-02-02 07:48:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: How consciousness-grounded value interacts with naturalistic metaet
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-02 07:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -112,7 +112,7 @@ The Map's [dualism](/tenets/#dualism) gives phenomenal value realism distinctive
 
 ### Value as Ontologically Fundamental
 
-If consciousness is irreducible—if there are genuine phenomenal properties not captured by physical description—then value (grounded in consciousness) inherits this irreducibility. Value isn't an overlay on physical reality or a projection onto it; it's built into what fundamentally exists.
+If consciousness is irreducible—if there are genuine phenomenal properties not captured by physical description—then value (grounded in consciousness) inherits this irreducibility. This isn't because value merely *supervenes* on consciousness as a higher-level property; rather, valence appears to be constitutive of phenomenal states themselves. Pain isn't a neutral quale with badness added as a separate property—the badness is intrinsic to what pain phenomenally is. Value isn't an overlay on physical reality or a projection onto it; it's built into what fundamentally exists.
 
 This addresses a persistent challenge for moral realism: where do objective values "fit" in the natural world? The physicalist has trouble locating them; the non-naturalist posits mysterious entities. The dualist who grounds value in consciousness can answer: values fit wherever consciousness fits. If consciousness is fundamental, so is value.
 
@@ -166,7 +166,7 @@ Phenomenal value realism would face pressure from:
 
 **1. Successful illusionism.** If phenomenal consciousness were shown to be thoroughly illusory—if there were no genuine "what it's like"—then grounding value in phenomenal properties would ground it in nothing. The Map's responses to [illusionism](/concepts/illusionism/) apply here: the seeming of significance must appear to something, and that something has phenomenal character.
 
-**2. Robust value-experience dissociation.** If subjects could genuinely experience intense pleasure while finding nothing good in it—not depression (reduced pleasure) or anhedonia, but pleasure-with-no-apparent-value—this would challenge the identity claim. Such cases haven't been documented.
+**2. Robust value-experience dissociation.** If subjects could genuinely experience intense pleasure while finding nothing good in it—not depression (reduced pleasure) or anhedonia, but pleasure-with-no-apparent-value—this would challenge the identity claim. Depersonalization disorder presents relevant cases: patients sometimes report experiences as "flat" or "meaningless" even when recognizing them as nominally pleasant. However, careful analysis suggests these cases involve altered phenomenal character (the pleasure *feels different*) rather than unchanged pleasure with detached value—supporting the identity claim rather than undermining it. Still, more phenomenological investigation of such states would strengthen the position.
 
 **3. Convergent rejection of the identity claim.** If careful phenomenological analysis revealed that pleasure and goodness are merely correlated—that the goodness can be separated from the pleasure even in direct experience—the metaphysical identity would fail. Contemplative traditions haven't reported this; meditators describe valence as intrinsic to experience, not attributed to it.
 
@@ -182,7 +182,7 @@ Phenomenal value realism interacts with all five tenets:
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Consciousness's causal efficacy makes value practically relevant. If suffering motivates escape, and the motivation is causally efficacious, then suffering's badness makes a difference. Epiphenomenal value would be practically inert; interactive value matters.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: If indexical identity is real, so is indexical value. *This* experience matters—not just experience-of-this-type. Many-worlds would distribute value across infinite branches, diluting the significance of any particular experience.
+**[No Many Worlds](/tenets/#no-many-worlds)**: If indexical identity is real, so is indexical value. *This* experience matters—not just experience-of-this-type. Many-worlds creates a problem not of "dilution" but of indexical incoherence: which branch am *I* on, and why does that branch's value apply to *me*? MWI proponents might respond that each branch has its own value, but this sidesteps the question of why *this* continuation matters to *this* subject.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Reductive metaethics—reducing value to fitness, preference, or social construction—may seem simpler. But simplicity isn't a reliable guide where we lack adequate concepts. If consciousness itself is complex, value grounded in consciousness may be equally complex.
 
