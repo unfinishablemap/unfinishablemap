@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02T10:43:00+00:00
+ai_modified: 2026-02-02T11:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Condense functionalism.md (4250 words, 121% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Multiple previous condense attempts have not sufficiently reduced length. This is a core philosophical concept critical for AI consciousness debates. Consider aggressive restructuring: move detailed objection-response pairs to the existing arguments/functionalism.md article, keep only the conceptual overview here. Preserve: core definition, relation to Map's tenets, key objections summary with links to detailed treatment.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P2: Review memory.md considering memory void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/memory-void.md (2026-02-02) explores structural gaps in phenomenal recollection—the impossibility of re-accessing past conscious states. The memory-related concept pages (episodic-memory.md, semantic-memory.md, working-memory.md) should be cross-reviewed for: (1) cross-links to memory void, (2) relationship between memory reliability and phenomenal access, (3) implications for personal identity arguments.
+- **Source**: chain (from memory-void.md)
+- **Generated**: 2026-02-02
+
+### P2: Review thoughts-that-slip-away.md considering introspective opacity
+- **Type**: cross-review
+- **Notes**: New voids article voids/introspective-opacity.md (2026-02-02) explores structural limits on consciousness observing itself. The thoughts-that-slip-away.md article covers related territory (fleeting thoughts, edge of awareness). Cross-review for: (1) cross-links between the two, (2) distinguishing the mechanisms (attention limits vs structural opacity), (3) consolidating overlapping insights.
+- **Source**: chain (from introspective-opacity.md)
+- **Generated**: 2026-02-02
+
+### P2: Deep review time-symmetric-physics.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers retrocausality and time-symmetric interpretations of QM—directly relevant to Minimal Quantum Interaction tenet. Check physics accuracy, ensure claims about retrocausality are properly hedged, verify connection to quantum-consciousness.md.
+- **Source**: staleness
+- **Generated**: 2026-02-02
+
+### P2: Deep review self-locating-beliefs.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers Perry/Lewis on indexical knowledge—foundational for the No Many Worlds tenet and haecceity arguments. Check philosophical accuracy, ensure semantic vs metaphysical claims are distinguished per pessimistic review feedback.
+- **Source**: staleness
+- **Generated**: 2026-02-02
+
+### P2: Condense materialism.md (3788 words, 108% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the materialist/physicalist position and objections. Preserve core materialist claims and primary objections (hard problem, knowledge argument, explanatory gap). Reduce redundancy with related articles like physicalism.md, reductionism.md.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
 
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
