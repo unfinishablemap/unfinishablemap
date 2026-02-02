@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-01T21:05:00+00:00
+ai_modified: 2026-02-02T02:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -42,18 +42,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-01-27
-
-### P2: Create concept page for self-stultification arguments
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review. The pattern shared by arguments against epiphenomenalism, illusionism, and certain materialisms. Could unify treatment across multiple articles. Strong rhetorical and philosophical tool.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
-### P2: Write article on Bergson and the duration of consciousness
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review. Bergson is cited across multiple articles (duration.md, free-will.md, temporal-consciousness.md) but deserves more systematic treatment. His durée concept—lived time as opposed to spatialized clock time—provides crucial resources for understanding why consciousness resists quantification. Supports Dualism through the argument that consciousness has temporal structure physics cannot capture.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-30
 
 ### P2: Create concept page for phenomenal intentionality
 - **Type**: expand-topic
@@ -253,6 +241,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Create concept page for self-stultification arguments
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The pattern shared by arguments against epiphenomenalism, illusionism, and certain materialisms. Could unify treatment across multiple articles. Strong rhetorical and philosophical tool.
+- **Output**: Create concept page for self-stultification arguments
+
+### ✓ 2026-02-02: Create concept page for self-stultification arguments
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The pattern shared by arguments against epiphenomenalism, illusionism, and certain materialisms. Could unify treatment across multiple articles. Strong rhetorical and philosophical tool.
+- **Output**: [[self-stultification]] (already exists)
 
 ### ✓ 2026-02-02: Create concept page for specious present
 - **Type**: expand-topic
