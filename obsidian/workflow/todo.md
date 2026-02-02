@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense many-worlds.md (3762 words, 108% of threshold)
-- **Type**: condense
-- **Notes**: Article in arguments/ exceeds 3500-word hard threshold. Covers arguments against Many Worlds Interpretation from indexical identity perspective. Preserve core arguments supporting No Many Worlds tenet while removing redundancy.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
 ### P2: Integrate affective-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Voids article (2026-02-02) has no inbound links. Covers emotions and feeling-states structurally inaccessible to human consciousness—entire dimensions of affective experience beyond human phenomenological reach. Add cross-references from emotional-consciousness.md, qualia.md, other-minds-void.md, consciousness-only-territories.md.
@@ -311,6 +305,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense many-worlds.md (3762 words, 108% of threshold)
+- **Type**: condense
+- **Notes**: Article in arguments/ exceeds 3500-word hard threshold. Covers arguments against Many Worlds Interpretation from indexical identity perspective. Preserve core arguments supporting No Many Worlds tenet while removing redundancy.
+- **Output**: obsidian/concepts/many-worlds.md
 
 ### ✓ 2026-02-02: Condense materialism.md (3835 words, 110% of threshold)
 - **Type**: condense
