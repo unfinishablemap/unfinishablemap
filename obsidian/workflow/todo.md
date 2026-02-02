@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense materialism.md (3835 words, 110% of threshold)
-- **Type**: condense
-- **Notes**: Article in arguments/ exceeds 3500-word hard threshold. Covers arguments against materialism. Previous condense attempt (2026-02-02) did not reduce sufficiently. Preserve core anti-materialist arguments while removing redundancy with related concept pages.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
 ### P2: Condense many-worlds.md (3762 words, 108% of threshold)
 - **Type**: condense
 - **Notes**: Article in arguments/ exceeds 3500-word hard threshold. Covers arguments against Many Worlds Interpretation from indexical identity perspective. Preserve core arguments supporting No Many Worlds tenet while removing redundancy.
@@ -317,6 +311,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense materialism.md (3835 words, 110% of threshold)
+- **Type**: condense
+- **Notes**: Article in arguments/ exceeds 3500-word hard threshold. Covers arguments against materialism. Previous condense attempt (2026-02-02) did not reduce sufficiently. Preserve core anti-materialist arguments while removing redundancy with related concept pages.
+- **Output**: obsidian/concepts/materialism.md
 
 ### ✓ 2026-02-02: Condense functionalism.md (4318 words, 123% of threshold)
 - **Type**: condense
