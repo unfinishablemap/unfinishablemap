@@ -49,18 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write voids article on dream consciousness void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-dream-consciousness-void-2026-02-02.md. State-dependent cognitive limits: mixed void combining unexplored (creative territories), unexplorable (dream logic inaccessible from waking), and occluded (memory fades). Builds on dreams-and-consciousness.md, lucid-dreaming-and-consciousness.md, three-kinds-of-void.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
-### P2: Write voids article on introspective opacity
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-introspective-opacity-2026-02-01.md. Structural limits on consciousness observing itself in real-time. Introspective opacity as a void within consciousness itself—the observer cannot fully observe its own observing. Builds on the-unobservable-self.md, thoughts-that-slip-away.md, phenomenology-of-the-edge.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
 ### P2: Integrate minds-without-words.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Apex article has no inbound links. Add cross-references from related articles (animal-consciousness.md, consciousness-simple-organisms.md, baseline-cognition.md, language-thought-boundary.md) or update apex index page to include navigation to this synthesis piece.
@@ -235,6 +223,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write voids article on dream consciousness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-dream-consciousness-void-2026-02-02.md. State-dependent cognitive limits: mixed void combining unexplored (creative territories), unexplorable (dream logic inaccessible from waking), and occluded (memory fades). Builds on dreams-and-consciousness.md, lucid-dreaming-and-consciousness.md, three-kinds-of-void.md.
+- **Output**: Write voids article on dream consciousness void
+
+### ✓ 2026-02-02: Write voids article on dream consciousness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-dream-consciousness-void-2026-02-02.md. State-dependent cognitive limits: mixed void combining unexplored (creative territories), unexplorable (dream logic inaccessible from waking), and occluded (memory fades).
+- **Output**: [[dream-consciousness-void]]
 
 ### ✓ 2026-02-02: Condense functionalism.md (4250 words, 106% of threshold)
 - **Type**: condense
