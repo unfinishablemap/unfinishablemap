@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review memory.md considering memory void insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/memory-void.md (2026-02-02) explores structural gaps in phenomenal recollection—the impossibility of re-accessing past conscious states. The memory-related concept pages (episodic-memory.md, semantic-memory.md, working-memory.md) should be cross-reviewed for: (1) cross-links to memory void, (2) relationship between memory reliability and phenomenal access, (3) implications for personal identity arguments.
-- **Source**: chain (from memory-void.md)
-- **Generated**: 2026-02-02
-
 ### P2: Review thoughts-that-slip-away.md considering introspective opacity
 - **Type**: cross-review
 - **Notes**: New voids article voids/introspective-opacity.md (2026-02-02) explores structural limits on consciousness observing itself. The thoughts-that-slip-away.md article covers related territory (fleeting thoughts, edge of awareness). Cross-review for: (1) cross-links between the two, (2) distinguishing the mechanisms (attention limits vs structural opacity), (3) consolidating overlapping insights.
@@ -317,6 +311,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Review memory.md considering memory void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/memory-void.md (2026-02-02) explores structural gaps in phenomenal recollection—the impossibility of re-accessing past conscious states. The memory-related concept pages (episodic-memory.md, semantic-memory.md, working-memory.md) should be cross-reviewed for: (1) cross-links to memory void, (2) relationship between memory reliability and phenomenal access, (3) implications for personal identity arguments.
+- **Output**: memory.md -- Context: Review memory.md considering memory void insights
 
 ### ✓ 2026-02-02: Condense functionalism.md (4250 words, 121% of threshold)
 - **Type**: condense
