@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 00:56 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[semantic-phenomenology]]
+- **Target**: [[cognitive-phenomenology]]
+- **Archived**: [[archive/concepts/semantic-phenomenology]]
+- **References to review**: none
+
 ## 2026-02-02 00:51 UTC - expand-topic
 - **Status**: Success
 - **Topic**: phenomenological evidence

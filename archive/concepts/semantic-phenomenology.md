@@ -2,9 +2,9 @@
 title: "Semantic Phenomenology"
 description: "The felt quality of meaning—what it's like to grasp concepts, understand propositions, and experience semantic content directly."
 created: 2026-02-01
-modified: 2026-02-01
+modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-01T19:07:00+00:00
+ai_modified: 2026-02-02T00:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,11 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated: null
+archived: true
+archived_date: 2026-02-02T00:56:00+00:00
+superseded_by: "/concepts/cognitive-phenomenology/"
+archive_reason: "Coalesced into Cognitive Phenomenology"
+original_path: "/concepts/semantic-phenomenology/"
 ---
 
 Semantic phenomenology is the felt quality of meaning—the distinctive experiential character that accompanies understanding concepts, grasping propositions, and engaging with semantic content. When you understand that Paris is in France, there is something it is like to grasp that meaning, over and above any accompanying mental imagery or inner speech. This phenomenal dimension of semantic content is what separates genuine understanding from mere information processing.
