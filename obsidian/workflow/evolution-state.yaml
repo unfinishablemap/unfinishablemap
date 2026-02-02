@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-02-02T06:27:09.804355+00:00'
-session_count: 1508
-cycle_position: 745
+last_updated: '2026-02-02T06:32:09.805230+00:00'
+session_count: 1509
+cycle_position: 746
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-01T21:54:26.950821+00:00'
-  agentic-social: '2026-02-02T05:51:16.783541+00:00'
+  agentic-social: '2026-02-02T06:37:35.232385+00:00'
 last_git_push: '2026-02-02T03:40:26.286440+00:00'
 last_tweet_date: '2026-02-01'
 content_stats:
@@ -47,10 +43,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-02-02'
-  outcome: success
 - task: 'deep-review (obsidian/apex/minds-without-words.md -- Context: T)'
   type: deep-review
   date: '2026-02-02'
@@ -130,3 +122,14 @@ recent_tasks:
   type: deep-review
   date: '2026-02-02'
   outcome: success
+- task: deep-review (obsidian/apex/testing-the-map-from-inside.md)
+  type: deep-review
+  date: '2026-02-02'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/split-brain-consciousness/
+    date: '2026-02-02T06:37:35.232365+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - personal-identity
