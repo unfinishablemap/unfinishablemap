@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on contemplative neuroscience integration
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-29. Integrate the neuroscience of meditation (DMN deactivation, gamma synchrony, neuroplasticity) with phenomenological reports. Strengthens bidirectional interaction case with empirical data. Builds on witness-consciousness.md, meditation-and-consciousness-modes.md, contemplative-evidence-for-consciousness-theories.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
-### P2: Write article on the unity of consciousness (comprehensive treatment)
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-29. Systematic treatment of how unified experience arises from distributed neural processing. Hasker's emergent dualism, quantum binding hypothesis, and the argument from unity. Builds on binding-problem references, phenomenal-unity.md, split-brain-consciousness.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
 ### P2: Write article on Eastern philosophy and haecceity tension
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29. Fuller treatment of tension between Buddhist anattā and the Map's haecceitistic identity. Can witness-consciousness be preserved without a witnessing substance? Builds on eastern-philosophy-consciousness.md, buddhism-and-dualism.md, witness-consciousness.md, haecceity.md.
@@ -349,6 +337,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write article on contemplative neuroscience integration
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. Integrate the neuroscience of meditation (DMN deactivation, gamma synchrony, neuroplasticity) with phenomenological reports. Strengthens bidirectional interaction case with empirical data. Builds on witness-consciousness.md, meditation-and-consciousness-modes.md, contemplative-evidence-for-consciousness-theories.md.
+- **Output**: contemplative neuroscience integration
 
 ### ✓ 2026-02-02: Create concept page for phenomenological evidence
 - **Type**: expand-topic

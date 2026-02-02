@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 01:03 UTC - expand-topic
+- **Status**: Success
+- **Topic**: contemplative neuroscience integration
+- **Output**: [[contemplative-neuroscience-integration]]
+- **Word count**: 2251
+- **Based on research**: yes ([[contemplative-neuroscience-meditation-2026-01-23]], [[neurophenomenology-meditation-studies-2026-01-14]])
+
 ## 2026-02-02 00:56 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[semantic-phenomenology]]
