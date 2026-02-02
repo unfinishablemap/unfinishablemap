@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02T20:12:00+00:00
+ai_modified: 2026-02-02T22:27:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -47,6 +47,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
+- **Generated**: 2026-02-02
+
+### P2: Write voids article on the normative void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-normative-void-2026-02-02.md. Are there moral truths we cannot access? Ethical concepts we cannot form? Explores cognitive limits on moral knowledge—the possibility that human minds are structurally incapable of grasping certain ethical facts. Covers Sharon Street's evolutionary debunking, Williams's tragic dilemmas, McGinn's mysterianism applied to ethics. Connects to meaning-of-life.md, phenomenal-value-realism.md, alien-minds-void-explorers.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Write voids article on the scale void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-scale-void-2026-02-02.md. Human consciousness operates within narrow "perceptual bandwidth" calibrated for survival. When confronted with cosmic distances, deep time, quantum phenomena, or large numbers, cognition fails qualitatively, not just quantitatively. Covers Kant's sublime, numeracy limits, evolutionary mismatch. Connects to mathematical-void.md, embodiment-cognitive-limits.md, phenomenology-of-the-edge.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Write voids article on the dreamless sleep void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-dreamless-sleep-void-2026-02-02.md. Where does consciousness go during dreamless sleep? This gap cannot be observed directly because observation requires the very consciousness whose absence is in question. Covers Advaita Vedanta's sushupti/turiya analysis, Metzinger's Minimal Phenomenal Experience project, questions of personal identity continuity. Connects to the-unobservable-self.md, memory-void.md, consciousness-only-territories.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Write article on retrocausal neural firing and presentiment
+- **Type**: expand-topic
+- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Explores whether quantum retrocausality could underlie presentiment phenomena—neural responses preceding stimuli. Controversial but relevant to the Map's Minimal Quantum Interaction tenet and time-symmetric physics discussions. Connects to time-symmetric-physics.md, quantum-consciousness.md, neural-correlates-of-consciousness.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Integrate time-symmetric-physics.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept article (deep-reviewed 2026-02-02) has no inbound links. Covers retrocausality and time-symmetric QM interpretations—directly relevant to Minimal Quantum Interaction tenet. Add cross-references from quantum-consciousness.md, quantum-interpretations.md, stapp-quantum-mind.md, measurement-problem.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Integrate leibnizs-mill-argument.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Leibniz's mill argument is a classic dualist thought experiment showing consciousness cannot arise from mechanical operations. Add cross-references from arguments-for-dualism.md, chinese-room.md, functionalism.md, machine-consciousness.md.
+- **Source**: orphan_integration
 - **Generated**: 2026-02-02
 
 ### P3: Deep review contemplative-path.md for quality
