@@ -4,7 +4,8 @@ description: "From Descartes through Princess Elizabeth to quantum mechanics: ho
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-02T00:21:00+00:00
+ai_modified: 2026-02-02T02:52:00+00:00
+last_deep_review: 2026-02-02T02:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -68,7 +69,7 @@ The twentieth century brought a convergence against dualism. Logical positivism 
 
 These approaches shared a common assumption: the physical world is causally closed. Every physical event has sufficient physical causes. If mental causation exists, it must be reducible to physical causation. There is no room for immaterial minds affecting material brains.
 
-The British emergentists—C.D. Broad, Samuel Alexander, Charlie Dunbar Broad—had offered a middle path in the 1920s. They proposed that consciousness genuinely emerges from physical organization, with novel causal powers irreducible to physics. But emergence fell from favor after quantum mechanics and molecular biology seemed to reduce previously "emergent" chemical properties to fundamental physics. Consciousness, too, would eventually yield to scientific explanation—or so most assumed.
+The British emergentists—C.D. Broad and Samuel Alexander—had offered a middle path in the 1920s. They proposed that consciousness genuinely emerges from physical organization, with novel causal powers irreducible to physics. But emergence fell from favor after quantum mechanics and molecular biology seemed to reduce previously "emergent" chemical properties to fundamental physics. Consciousness, too, would eventually yield to scientific explanation—or so most assumed.
 
 Jaegwon Kim's causal exclusion argument crystallized the problem for any view accepting non-physical mental causation:
 
@@ -107,13 +108,13 @@ See [[conservation-laws-and-mind]] for detailed treatment of why the conservatio
 
 Dualism's rehabilitation began with philosophical work in the 1980s–1990s:
 
-**David Chalmers** (1996) established the [[hard-problem-of-consciousness]]—why there is something it is like to be conscious—as distinct from "easy" problems about cognitive functions. His zombie argument showed that physical facts don't entail phenomenal facts: a being physically identical to a conscious human but lacking experience is conceivable, suggesting consciousness is not reducible to physics. Chalmers initially defended property dualism but later expressed preference for substance dualism.
+**David Chalmers** (1996) established the [[hard-problem-of-consciousness]]—why there is something it is like to be conscious—as distinct from "easy" problems about cognitive functions. His [[philosophical-zombies|zombie argument]] showed that physical facts don't entail phenomenal facts: a being physically identical to a conscious human but lacking experience is conceivable, suggesting consciousness is not reducible to physics. Chalmers argued for property dualism—the view that consciousness is an irreducible feature of physical systems—distinguishing this from the stronger substance dualism of Descartes.
 
 **Richard Swinburne** (2013) defended traditional substance dualism with new arguments for personal identity: what makes me *me* is not any qualitative property but the "thisness" of my soul.
 
 **William Hasker** (1999) developed emergent substance dualism: the soul emerges from brain function but is itself a non-physical substance with its own causal powers. This differs from Cartesian dualism in making souls spatially located and dependent on physical processes for their generation—while still being genuinely non-physical.
 
-The 2020 PhilPapers survey found 22% of professional philosophers accept or lean toward dualism—second only to physicalism at 51%. The view is no longer marginal.
+The 2020 PhilPapers survey found 22% of professional philosophers accept or lean toward dualism (including both property and substance dualism)—second only to physicalism at 51%. The view is no longer marginal.
 
 ## The Shape of Progress
 
@@ -144,6 +145,7 @@ The history shows that interactionism's fortunes track developments in physics m
 - [[interactionist-dualism]] — The full contemporary position
 - [[conservation-laws-and-mind]] — Why the conservation objection fails
 - [[stapp-quantum-mind]] — Contemporary quantum mechanism
+- [[measurement-problem]] — The unsolved puzzle at quantum mechanics' core
 - [[causal-closure]] — The principle and why it fails
 - [[objections-to-interactionism]] — Current challenges and responses
 - [[emergence]] — The British emergentist tradition

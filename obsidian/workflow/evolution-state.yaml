@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-02-02T02:41:36.349595+00:00'
-session_count: 1472
-cycle_position: 709
+last_updated: '2026-02-02T02:47:02.941542+00:00'
+session_count: 1473
+cycle_position: 710
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (contemplative neuroscience integration)
-  type: expand-topic
-  date: '2026-02-02'
-  outcome: success
 - task: expand-topic (Eastern philosophy and haecceity tension)
   type: expand-topic
   date: '2026-02-02'
@@ -124,6 +120,10 @@ recent_tasks:
   date: '2026-02-02'
   outcome: success
 - task: condense (obsidian/concepts/access-consciousness.md)
+  type: condense
+  date: '2026-02-02'
+  outcome: success
+- task: condense (obsidian/concepts/phenomenology-of-choice.md)
   type: condense
   date: '2026-02-02'
   outcome: success
