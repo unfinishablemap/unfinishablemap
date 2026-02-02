@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write voids article on memory void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-memory-void-2026-02-01.md. The memory void concerns phenomenal gaps in recollection—not forgetting (which is documented), but the structural impossibility of re-accessing past conscious states. Connects to past-self-void.md, temporal-asymmetry-remembering-anticipating.md, thoughts-that-slip-away.md, introspection.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
 ### P2: Integrate contemplative-neuroscience-integration.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Newly created topics article (2026-02-02) has no inbound links. Integrates neuroscience of meditation (DMN deactivation, gamma synchrony, neuroplasticity) with phenomenological reports. Add cross-references from meditation-and-consciousness-modes.md, witness-consciousness.md, neurophenomenology.md, bidirectional-interaction.md.
@@ -314,6 +308,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write voids article on memory void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-memory-void-2026-02-01.md. The memory void concerns phenomenal gaps in recollection—not forgetting (which is documented), but the structural impossibility of re-accessing past conscious states. Connects to past-self-void.md, temporal-asymmetry-remembering-anticipating.md, thoughts-that-slip-away.md, introspection.md.
+- **Output**: Write voids article on memory void
 
 ### ✓ 2026-02-02: Write voids article on volitional opacity
 - **Type**: expand-topic
