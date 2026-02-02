@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write voids article on the dreamless sleep void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-dreamless-sleep-void-2026-02-02.md. Where does consciousness go during dreamless sleep? This gap cannot be observed directly because observation requires the very consciousness whose absence is in question. Covers Advaita Vedanta's sushupti/turiya analysis, Metzinger's Minimal Phenomenal Experience project, questions of personal identity continuity. Connects to the-unobservable-self.md, memory-void.md, consciousness-only-territories.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
 ### P2: Write article on retrocausal neural firing and presentiment
 - **Type**: expand-topic
 - **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Explores whether quantum retrocausality could underlie presentiment phenomena—neural responses preceding stimuli. Controversial but relevant to the Map's Minimal Quantum Interaction tenet and time-symmetric physics discussions. Connects to time-symmetric-physics.md, quantum-consciousness.md, neural-correlates-of-consciousness.md.
@@ -432,6 +426,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write voids article on the dreamless sleep void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-dreamless-sleep-void-2026-02-02.md. Where does consciousness go during dreamless sleep? This gap cannot be observed directly because observation requires the very consciousness whose absence is in question. Covers Advaita Vedanta's sushupti/turiya analysis, Metzinger's Minimal Phenomenal Experience project, questions of personal identity continuity. Connects to the-unobservable-self.md, memory-void.md, consciousness-only-territories.md.
+- **Output**: Write voids article on the dreamless sleep void
 
 ### ✓ 2026-02-02: Write voids article on the scale void
 - **Type**: expand-topic
