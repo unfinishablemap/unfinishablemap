@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 21:28 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Normative Void (cognitive limits on moral knowledge)
+- **Category**: Mixed (Unexplored / Unexplorable / potentially Occluded)
+- **Output**: [[research/voids-normative-void-2026-02-02]]
+- **Key finding**: Are there moral truths we cannot access? This unexplored territory extends mysterianism to ethics—evolutionary debunking arguments, ethical blindness research, tragic dilemmas, and alien moral concepts all suggest structural limits on moral knowledge. McGinn exempted morality from cognitive closure, but this exemption may have been premature.
+- **Potential articles**: "The Normative Void," "Moral Mysterianism," "Apophatic Ethics"
+
+---
+
 ## 2026-02-02 21:12 UTC - deep-review (orphan integration)
 - **Status**: Success
 - **File**: [[concepts/substance-causation]]
