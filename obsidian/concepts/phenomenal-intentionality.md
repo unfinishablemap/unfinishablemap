@@ -4,7 +4,7 @@ description: "The thesis that genuine intentionality—the aboutness of mental s
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-02T13:15:00+00:00
+ai_modified: 2026-02-02T13:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated: null
-last_deep_review: 2026-02-02T13:15:00+00:00
+last_deep_review: 2026-02-02T13:26:00+00:00
 ---
 
 Phenomenal intentionality theory (PIT) holds that genuine [[intentionality]]—the "aboutness" or directedness of mental states—derives from phenomenal consciousness. What makes a thought truly *about* something is inseparable from what it's *like* to have that thought. This thesis, developed by philosophers including Horgan, Tienson, Kriegel, Loar, and Strawson, challenges attempts to naturalize intentionality and strengthens the case that consciousness is irreducible.

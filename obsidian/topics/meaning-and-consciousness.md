@@ -43,7 +43,7 @@ The strongest claim about meaning and consciousness is that they are inseparable
 
 PCT draws support from [[cognitive-phenomenology|cognitive phenomenology]]—a contested but well-defended position in philosophy of mind. When you understand a sentence, there appears to be phenomenal character to the understanding itself—not just to accompanying imagery or inner speech, but to the grasping of meaning. The French speaker and the English speaker hear identical sounds when someone speaks French, but only the French speaker *understands*. The phenomenal difference cannot be sensory; it must be cognitive. Critics argue this cognitive phenomenology is folk psychology that neuroscience will eventually eliminate. But proponents respond that the eliminativist prediction has not borne out: decades of cognitive neuroscience have not reduced or explained away the phenomenology of understanding. The experience persists under scrutiny. And this cognitive phenomenology, proponents argue, doesn't merely accompany meaning—it constitutes it.
 
-The [[intentionality|phenomenal intentionality thesis]] (PIT) reinforces PCT. If genuine aboutness—the "directedness" of thoughts toward objects—derives from phenomenal character, then what makes a thought *about* something is inseparable from what it's *like* to have that thought. Meaning (semantic content) and phenomenology (experiential character) are two aspects of a single phenomenon, not separate features that could come apart.
+The [[phenomenal-intentionality|phenomenal intentionality thesis]] (PIT) reinforces PCT. If genuine aboutness—the "directedness" of thoughts toward objects—derives from phenomenal character, then what makes a thought *about* something is inseparable from what it's *like* to have that thought. Meaning (semantic content) and phenomenology (experiential character) are two aspects of a single phenomenon, not separate features that could come apart.
 
 ## The Chinese Room, Extended
 
@@ -175,6 +175,7 @@ Meaning and consciousness connect to all five tenets:
 ## Further Reading
 
 - [[cognitive-phenomenology]] — The phenomenal character of thinking itself
+- [[phenomenal-intentionality]] — Why genuine aboutness requires phenomenal consciousness
 - [[intentionality]] — Aboutness and the phenomenal intentionality thesis
 - [[semantic-memory]] — How meaning is stored and accessed
 - [[llm-consciousness]] — Why LLMs lack genuine understanding

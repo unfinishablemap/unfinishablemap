@@ -97,7 +97,7 @@ The paradigm cases of qualia—redness, pain, taste—are sensory. But phenomeno
 
 The tip-of-the-tongue phenomenon has undeniable phenomenal character: the sense of imminence, the frustration of blocked retrieval. The *feeling* of a word approaching consciousness resists functional reduction. Similarly, the feeling-of-knowing—confidence you would recognise an answer you cannot recall—has qualitative character distinct from the functional access it reflects.
 
-Block's [[pre-conceptual-knowing#Phenomenal Overflow|phenomenal overflow]] research strengthens this: phenomenal consciousness exceeds cognitive access. If thinking has proprietary phenomenal character beyond sensory accompaniments—as [[cognitive-phenomenology|liberalism about cognitive phenomenology]] holds—then qualia pervade cognition, not just sensation.
+Block's [[pre-conceptual-knowing#Phenomenal Overflow|phenomenal overflow]] research strengthens this: phenomenal consciousness exceeds cognitive access. If thinking has proprietary phenomenal character beyond sensory accompaniments—as [[cognitive-phenomenology|liberalism about cognitive phenomenology]] holds—then qualia pervade cognition, not just sensation. The [[phenomenal-intentionality|phenomenal intentionality thesis]] extends this further: the phenomenal character of thought may be what determines intentional content.
 
 ### Aesthetic Qualia
 

@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 13:26 UTC - deep-review
+- **Status**: Success
+- **File**: [[phenomenal-intentionality]]
+- **Word count**: 2286 → 2286 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (article stable from earlier review)
+- **Enhancements made**: 0 (article content unchanged)
+- **Cross-links added**: 7 inbound from 6 articles (intentionality, cognitive-phenomenology, meaning-and-consciousness, symbol-grounding-problem, ai-consciousness, hard-problem-of-consciousness, qualia)
+- **Output**: [[reviews/deep-review-2026-02-02-phenomenal-intentionality-2]]
+- **Notes**: Orphan integration focus. Article had 0 inbound links from content despite being extensively discussed. Added 7 cross-references to integrate into site navigation. Article now stable after two reviews same day.
+
+---
+
 ## 2026-02-02 13:21 UTC - deep-review
 - **Status**: Success
 - **File**: [[creativity-void]]

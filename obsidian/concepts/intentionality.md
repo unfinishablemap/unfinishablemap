@@ -74,7 +74,7 @@ No naturalistic theory has achieved consensus. As the Internet Encyclopedia of P
 
 ## Phenomenal Intentionality Theory
 
-A growing movement in philosophy of mind argues that phenomenal consciousness is the source of intentionality. Phenomenal Intentionality Theory (PIT), developed by philosophers including Horgan, Tienson, Graham, Kriegel, and Loar, makes a strong claim: genuine intentionality derives from "what it's like" to be in a mental state.
+A growing movement in philosophy of mind argues that phenomenal consciousness is the source of intentionality. [[phenomenal-intentionality|Phenomenal Intentionality Theory (PIT)]], developed by philosophers including Horgan, Tienson, Graham, Kriegel, and Loar, makes a strong claim: genuine intentionality derives from "what it's like" to be in a mental state.
 
 The key argument concerns *content determinacy*. Physical facts alone underdetermine what a representation is about. When you think about rabbits, what makes your thought *about* rabbits rather than rabbit-parts or undetached-rabbit-stages? Purely physical description cannot distinguish these contents. But phenomenology can: there's something it's like to think about rabbits, and that phenomenal character determines the content.
 
@@ -211,6 +211,7 @@ Intentionality connects to all five foundational tenets:
 - [[meaning-and-consciousness]] — Why meaning is constitutively phenomenal (the Phenomenal Constitution Thesis)
 - [[semantic-memory]] — How meaning is stored, accessed, and experienced
 - [[phenomenology]] — The tradition that discovered and systematically investigates intentionality
+- [[phenomenal-intentionality]] — How consciousness grounds aboutness
 - [[cognitive-phenomenology]] — Does thinking itself have phenomenal character that grounds content?
 - [[hard-problem-of-consciousness]] — The explanatory gap that intentionality parallels
 - [[explanatory-gap]] — Why physical explanations leave consciousness unexplained

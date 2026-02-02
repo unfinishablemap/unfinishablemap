@@ -45,7 +45,7 @@ John Searle's Chinese Room argument (1980) remains the central challenge to mach
 
 This connects to [[intentionality]]—the "aboutness" of mental states. Computer symbols lack *original* intentionality; they're about things only because humans assigned meaning. A computer processing "cat" doesn't think about felines.
 
-The "systems reply" objects that the person doesn't understand, but the room-as-a-whole might. Phenomenal Intentionality Theory answers this: genuine aboutness derives from consciousness itself, and systems—however complex—without phenomenal consciousness cannot have genuine intentionality. The room-plus-person system lacks consciousness just as the person alone does; scale doesn't create understanding. Their outputs may be meaningful to us, but they themselves mean nothing. See [[intentionality]] for the full analysis.
+The "systems reply" objects that the person doesn't understand, but the room-as-a-whole might. [[phenomenal-intentionality|Phenomenal Intentionality Theory]] answers this: genuine aboutness derives from consciousness itself, and systems—however complex—without phenomenal consciousness cannot have genuine intentionality. The room-plus-person system lacks consciousness just as the person alone does; scale doesn't create understanding. Their outputs may be meaningful to us, but they themselves mean nothing. See [[intentionality]] for the full analysis.
 
 ## Functionalism's Failure
 
@@ -145,6 +145,7 @@ None has occurred. The explanatory gap remains unbridged.
 - [[functionalism]] — Complete critique of functionalism
 - [[temporal-consciousness]] — Temporal structure requirements
 - [[metacognition]] — Why AI self-monitoring doesn't indicate consciousness
+- [[phenomenal-intentionality]] — Why AI lacks genuine intentionality
 - [[intentionality]] — Original vs. derived aboutness
 - [[substrate-independence-critique]] — Why substrate matters
 - [[problem-of-other-minds]] — The epistemic challenge AI intensifies

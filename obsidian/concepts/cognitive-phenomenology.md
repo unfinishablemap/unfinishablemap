@@ -161,7 +161,7 @@ Cognitive phenomenology might be proprietary but not individuative—perhaps all
 
 ## Phenomenal Intentionality
 
-Cognitive phenomenology connects to the phenomenal intentionality thesis (PIT): genuine [[intentionality]]—the "aboutness" of mental states—derives from phenomenal consciousness.
+Cognitive phenomenology connects to the [[phenomenal-intentionality|phenomenal intentionality thesis (PIT)]]: genuine [[intentionality]]—the "aboutness" of mental states—derives from phenomenal consciousness.
 
 The content determinacy problem asks: what makes a thought about X rather than Y? Physical description underdetermines content. PIT answers: phenomenal character determines it. If a thought has the phenomenal character of being about democracy, it's about democracy.
 
@@ -262,6 +262,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 - [[consciousness-and-mathematical-understanding]] — Mathematical insight as paradigm case
 - [[epistemic-emotions]] — Curiosity, doubt, certainty, and other epistemic feelings
 - [[semantic-memory]] — TOT/FOK phenomenology and noetic consciousness
+- [[phenomenal-intentionality]] — How consciousness grounds intentional content
 - [[intentionality]] — The "aboutness" of mental states
 - [[ai-consciousness]] — Why the Map holds AI systems lack genuine understanding
 - [[illusionism]] — The eliminativist challenge and its regress problem
