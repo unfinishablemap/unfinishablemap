@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense downward-causation.md (3875 words, 111% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers mental causation and how non-physical consciousness can causally influence physical processes. Preserve core causal arguments, Kim's exclusion problem response, connection to quantum Zeno mechanism. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
 ### P3: Deep review contemplative-path.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on contemplative approaches to consciousness. Check phenomenological claims, ensure alignment with Map's framework, verify connections to witness-consciousness.md and meditation-and-consciousness-modes.md.
@@ -278,6 +272,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense downward-causation.md (3875 words, 111% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers mental causation and how non-physical consciousness can causally influence physical processes. Preserve core causal arguments, Kim's exclusion problem response, connection to quantum Zeno mechanism. See /condense skill.
+- **Output**: obsidian/concepts/downward-causation.md
 
 ### ✓ 2026-02-02: Condense functionalism.md (4450 words, 127% of threshold)
 - **Type**: condense

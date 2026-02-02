@@ -4,7 +4,7 @@ description: "Higher-level properties can causally influence lower-level process
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-02-02T05:05:00+00:00
+ai_modified: 2026-02-02T08:04:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,21 +40,9 @@ Downward causation is the thesis that higher-level properties can causally influ
 
 ## The Concept Distinguished
 
-Downward causation occurs when properties at one level of organization causally affect processes at lower levels. Examples abound:
+Downward causation occurs when properties at one level of organization causally affect processes at lower levels—your decision causing neurons to fire, gene networks controlling protein synthesis, economic pressures affecting individual choices. The term was introduced by Donald Campbell in 1974.
 
-- **Mental→physical**: Deciding to raise your arm causes neural firing patterns
-- **Biological→chemical**: Gene regulatory networks control when specific proteins are synthesized
-- **Social→individual**: Economic recessions affect individual spending decisions
-
-The term was introduced by Donald Campbell in 1974, though the idea traces to the British emergentists (Broad, Alexander, Morgan) who defended irreducible higher-level causation in the early twentieth century.
-
-Downward causation is distinct from, though related to, several adjacent concepts:
-
-**[[mental-causation|Mental causation]]** is a specific instance—the mind affecting the body. All mental causation is downward causation, but downward causation extends beyond the mental to include any higher-to-lower causal influence.
-
-**[[emergence|Strong emergence]]** implies downward causation. If higher-level properties possess genuinely novel causal powers, those powers must influence lower-level processes somehow. Conversely, if downward causation is impossible, strong emergence fails.
-
-**Supervenience** creates tension with downward causation. If higher-level properties supervene on lower-level properties—no higher-level difference without lower-level difference—then the lower level seems to do all the causal work.
+Key distinctions: [[mental-causation|Mental causation]] is a specific instance (mind affecting body). [[emergence|Strong emergence]] implies downward causation—if higher-level properties have novel causal powers, those powers must influence lower levels. Supervenience creates tension: if higher-level properties supervene on lower-level ones, the lower level seems to do all the causal work.
 
 ## Kim's Causal Exclusion Argument
 
@@ -73,66 +61,21 @@ Kim concludes that higher-level properties—including mental properties—are c
 
 ## The Drainage Problem
 
-Kim's argument implies that causal efficacy "drains" from higher levels to lower levels, eventually pooling at fundamental physics.
-
-Consider the causal chain when you decide to drink coffee:
-
-- Your desire for coffee (mental level)
-- Neural activity in motor cortex (neural level)
-- Ion channels opening and closing (molecular level)
-- Electromagnetic forces on charged particles (physical level)
-
-If each level has sufficient causes at the level below, the higher levels seem causally redundant. The molecular events have sufficient electromagnetic causes; the neural events have sufficient molecular causes; the mental events have sufficient neural causes. Causal efficacy drains downward.
-
-This drainage threatens not just mental causation but *all* higher-level causation. Does temperature cause anything, or just molecular motion? Does predator pressure cause evolutionary change, or just differential reproductive success? Kim acknowledged this generalisation undermines the plausibility of his conclusion—if nothing above fundamental physics causes anything, we should doubt the argument rather than accept the conclusion.
+Kim's argument implies causal efficacy "drains" to fundamental physics. If each level has sufficient causes at the level below, higher levels seem redundant. This threatens not just mental causation but *all* higher-level causation—Kim acknowledged this generalisation undermines his conclusion's plausibility.
 
 ## The Overdetermination Problem
 
-One response to exclusion: perhaps mental and physical causes both contribute. Both your desire for coffee *and* your neural states cause your arm to reach for the cup.
+Perhaps mental and physical causes both contribute? Kim argues this systematic overdetermination is untenable—two independent causal chains reliably converging would be an intolerable coincidence.
 
-Kim argues this systematic overdetermination is untenable. If *every* action were overdetermined by both mental and physical causes, two independent causal chains would need to reliably converge on identical effects—an intolerable coincidence.
-
-Responses to the overdetermination charge:
-
-**The dependence response**: Mental and physical causes aren't independent—mental properties depend on (supervene on) physical properties. The two "causes" are intimately related, making their convergence non-coincidental.
-
-**The proportionality response**: Stephen Yablo argues mental and physical properties relate as determinables to determinates (as "red" relates to "scarlet"). The mental property may be the more proportional cause—neither too specific nor too general for the effect. You reached for coffee because you wanted coffee, not because neurons 1742-1758 fired at 47 Hz.
-
-**The levels response**: Mental and physical descriptions capture the same causal process at different levels. It's not two causes but one cause under two descriptions—though this risks sliding toward the identity theory Kim's argument was meant to establish.
+Responses include: mental and physical causes aren't independent (they supervene); Yablo's proportionality argument that mental properties may be the more appropriate causal level; and the levels response that mental and physical descriptions capture one cause under two descriptions.
 
 ## Major Responses to the Exclusion Argument
 
-### Interventionism
+**Interventionism** (Woodward, Kroedel): If intervening on mental properties would change outcomes, mental properties are genuine causes. This replaces Kim's "building block" model with counterfactual dependencies, though critics question whether we can intervene on mental properties while holding neural properties fixed.
 
-James Woodward's interventionist theory defines causes as factors whose manipulation would change effects. On this view, mental properties can be genuine causes if intervening on them (while holding other factors fixed) would produce different outcomes.
+**Inheritance/Constitution**: Mental properties operate *through* physical realizers rather than competing with them. This defuses exclusion but risks reducing mental causation to physical causation under another description.
 
-Thomas Kroedel argues that interventionism vindicates downward causation. The exclusion argument assumes a "building block" model where causation flows upward from fundamental physics. Interventionism replaces this with a counterfactual model where causation can flow in any direction if the counterfactual dependencies hold.
-
-Critics respond that interventionism may not be applicable to mental causation—can we genuinely intervene on mental properties while holding neural properties fixed, given supervenience?
-
-### Inheritance and Constitution
-
-Mental properties might "inherit" causal powers from their physical realizers through intimate relations: constitution, grounding, or implementation. The mental isn't a rival to the physical but operates *through* it.
-
-On this view, saying "your desire caused your action" and "your neural state caused your action" aren't competing claims. The desire *is* constituted by the neural state and exercises its powers through that constitution. There's one causal process, not two.
-
-This defuses exclusion but risks losing the distinctiveness of mental causation. If mental causation just *is* physical causation under another description, what work does the mental do?
-
-### O'Connor-Wong: Structural Emergence with Novel Powers
-
-Timothy O'Connor and Hong Yu Wong develop a sophisticated defence of strong emergence with genuine downward causation. Their account holds that emergent properties possess "fundamentally novel" causal powers—powers not present in or derivable from component properties.
-
-Key elements:
-
-**Structural triggering conditions**: Emergent powers are latent until components organise appropriately. The power isn't in the parts but manifests when parts achieve the right configuration.
-
-**Novel causal powers**: Emergent properties do something new—they don't merely summarise or redescribe what components do. Consciousness, on this view, has causal powers neurons lack.
-
-**Denial of causal closure**: O'Connor and Wong accept that strong emergence requires rejecting causal closure. The physical story is *not* complete; higher-level organisation adds something new.
-
-Their view faces Kim's exclusion challenge directly. If the physical base is sufficient for the effect, emergent properties are screened off. O'Connor and Wong respond: the physical base is *not* sufficient. Organisation contributes something the parts alone cannot provide.
-
-The challenge: *how* does organisation contribute? What mechanism allows configurations to have powers their parts lack? O'Connor and Wong gesture toward "structural triggering conditions" but don't specify the mechanism. This leaves their position vulnerable—it names the problem more than solves it.
+**O'Connor-Wong Emergentism**: Emergent properties possess fundamentally novel causal powers that manifest when components achieve the right configuration. This explicitly denies causal closure—the physical story is incomplete. The challenge: they don't specify the mechanism by which organisation contributes novel powers. This leaves their position naming the problem more than solving it.
 
 ## The Quantum Opening
 
@@ -201,35 +144,16 @@ The Map specifies *where* downward causation operates (quantum indeterminacies i
 
 ## Weak vs. Strong Downward Causation
 
-Some philosophers distinguish weak from strong downward causation:
+*Weak* downward causation: higher-level contributions reduce to aggregate lower-level effects (compatible with physicalism). *Strong* downward causation: higher-level properties have genuinely novel, irreducible causal powers. Kim's exclusion targets strong downward causation specifically.
 
-**Weak downward causation**: Higher-level properties causally contribute by *organising* lower-level processes, but the higher level's causal contribution reduces to the aggregate effect of lower-level causes. Temperature affecting molecular behaviour would be weak downward causation—the temperature *is* the mean molecular kinetic energy, so its causal contribution reduces to molecular causation.
+The Map defends *strong* downward causation. The Dualism tenet holds consciousness is irreducible; Bidirectional Interaction holds it has genuine causal powers. This requires denying causal closure—which Minimal Quantum Interaction specifies where and how.
 
-**Strong downward causation**: Higher-level properties have genuinely novel causal powers irreducible to component-level causation. Consciousness affecting neurons would be strong downward causation if consciousness adds something beyond what neural aggregates provide.
-
-Kim's exclusion argument targets strong downward causation specifically. Weak downward causation is compatible with physicalism and causal closure—it's just shorthand for talking about aggregate physical effects. Strong downward causation requires either rejecting causal closure or accepting identity (reducing the higher level to the lower).
-
-The Map defends *strong* downward causation. The Dualism tenet holds that consciousness is irreducible; the Bidirectional Interaction tenet holds it has genuine causal powers. This requires denying causal closure—which the Minimal Quantum Interaction tenet specifies where and how.
-
-## Process Philosophy Alternative
-
-Alfred North Whitehead's process philosophy offers a complementary framework for understanding downward causation. His "actual occasions"—momentary experiential events—exercise what Whitehead called "self-determination" in constituting themselves from their causal inheritance.
-
-On this view, causation is inherently experiential: each moment of experience contributes something new through creative synthesis. The apparent opposition between physical and mental causation dissolves because *all* causation involves experiential self-determination at some level.
-
-This reframes downward causation as continuous with causation generally rather than metaphysically exceptional. If all causation involves experiential self-determination, human mental causation exemplifies what causation fundamentally is. The exclusion argument's assumption that causation is purely event-event regularities would be mistaken from the start.
-
-Process philosophy resonates with aspects of panpsychism but avoids the full [[combination-problem|combination problem]] by treating higher-level experiences as *novel* actual occasions rather than mere aggregates of micro-experiences. The organisation doesn't combine pre-existing experiences but creates conditions for new experiential events to occur.
 
 ## The Illusionist Challenge
 
-[[Illusionism]] poses a radical challenge to downward causation. If phenomenal consciousness is an illusion—if there are no genuine qualia, only representations *as if* there were—then there's nothing non-physical to exercise downward causation in the first place.
+[[Illusionism]] poses a radical challenge: if phenomenal consciousness is an illusion, there's nothing non-physical to exercise downward causation. But illusionism faces a regress—to be under an illusion that consciousness exists requires *something it is like* to have that mistaken representation. As Raymond Tallis notes: "Misrepresentation presupposes presentation."
 
-Dennett and Frankish argue that our reports about consciousness can be produced by sophisticated neural information processing without phenomenal causation. The brain models itself, generating "accurate" reports about experience without any non-physical properties doing causal work.
-
-But illusionism faces a regress problem. If the appearance of phenomenal consciousness is itself an illusion, something must be experiencing that illusion. To be under an illusion that consciousness exists requires there to be *something it is like* to have that mistaken representation. Raymond Tallis puts it sharply: "Misrepresentation presupposes presentation." All illusions presuppose experience.
-
-The illusionist trades the hard problem for an equally hard "illusion problem"—and the illusion problem seems to require downward causation just as much as the original. Whatever produces our "illusion" of phenomenal consciousness must influence our verbal reports and philosophical discussions. If that production is purely physical, the reports should be about neural states, not phenomenal properties. If something non-physical shapes the content of our reports, that's downward causation.
+The illusionist trades the hard problem for an equally hard "illusion problem." Whatever produces our "illusion" must influence our verbal reports. If that production is purely physical, reports should be about neural states, not phenomenal properties. If something non-physical shapes report content, that's downward causation.
 
 ## What Would Challenge This View?
 
@@ -249,17 +173,15 @@ Downward causation, as defended here, is falsifiable. Findings that would underm
 
 Downward causation is central to the Map's framework.
 
-**Bidirectional Interaction**: the Map's tenet that consciousness causally influences physical outcomes *just is* the affirmation of downward causation for mental properties. Every time you decide to act and your body moves, downward causation occurs.
+**Bidirectional Interaction**: The Map's tenet that consciousness causally influences physical outcomes *just is* the affirmation of downward causation for mental properties.
 
-**The Quantum Mechanism**: The Minimal Quantum Interaction tenet specifies *where* downward causation works: at quantum indeterminacies where physics is incomplete. This provides what classical defences of downward causation lacked—a framework that respects conservation laws while allowing genuine higher-level influence. The precise mechanism by which conscious intention translates into quantum-level effects is a research program with candidate proposals (quantum Zeno, Orch OR, nuclear spin), not a completed theory.
+**The Quantum Mechanism**: The Minimal Quantum Interaction tenet specifies *where* downward causation works: at quantum indeterminacies where physics is incomplete. This provides what classical defences lacked—a framework respecting conservation laws while allowing genuine higher-level influence. The precise mechanism translating conscious intention into quantum-level effects remains a research program with candidate proposals (quantum Zeno, Orch OR), not a completed theory.
 
-**Against Epiphenomenalism**: If downward causation fails, consciousness causes nothing—we'd have [[epiphenomenalism]]. But epiphenomenalism is self-undermining: if consciousness causes nothing, our reports about consciousness aren't caused by consciousness, our beliefs about experience are causally disconnected from actual experiences, and our reasoning about mental causation isn't influenced by mental evidence. Downward causation must occur or we lose epistemic access to our own minds.
+**Against Epiphenomenalism**: If downward causation fails, we have [[epiphenomenalism]]—but this is self-undermining. If consciousness causes nothing, our reports and beliefs about experience are causally disconnected from actual experiences. Downward causation must occur or we lose epistemic access to our own minds.
 
-**Strong Emergence**: the Map's position is strong [[emergence|emergentism]] with a mechanism. Consciousness emerges from neural organisation but possesses genuinely novel causal powers. The quantum framework specifies how those powers operate without violating physical law.
+**The Interface Mechanism**: [[Attention-as-interface|Attention]] is the proposed mechanism through which consciousness exercises downward causation. The phenomenology of [[mental-effort|mental effort]] is consistent with genuine downward causation at the neural level. How coarse-grained conscious intention (~10 bits/second) translates into fine-grained quantum observations remains an open question—see [[quantum-consciousness]].
 
-**The Interface Mechanism**: [[Attention-as-interface|Attention]] is the proposed mechanism through which consciousness exercises downward causation. When you direct attention to sustain a thought or maintain a perceptual focus, you may be exercising mental causation at quantum indeterminacies. The phenomenology of [[mental-effort|mental effort]]—the felt sense that attention requires work—is consistent with genuine downward causation at the neural level. How coarse-grained conscious intention (operating at ~10 bits/second) translates into whatever fine-grained observations quantum mechanisms require remains an open question—see [[quantum-consciousness]] for the current state of these proposals.
-
-Kim's exclusion argument remains the primary challenge to mental causation generally. But its key premise—causal closure—fails at quantum indeterminacies. Physics provides probabilities but not outcomes. The quantum framework identifies this as a genuine opening for downward causation, even if the precise bridging mechanism between conscious intention and quantum selection is not yet fully specified.
+Kim's exclusion argument remains the primary challenge to mental causation. But its key premise—causal closure—fails at quantum indeterminacies. Physics provides probabilities but not outcomes, creating a genuine opening for downward causation.
 
 ## Further Reading
 
@@ -283,27 +205,8 @@ Kim's exclusion argument remains the primary challenge to mental causation gener
 ## References
 
 - Campbell, D. T. (1974). "'Downward causation' in hierarchically organised biological systems." In F. J. Ayala & T. Dobzhansky (Eds.), *Studies in the Philosophy of Biology*. Macmillan.
-- Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 - Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 - O'Connor, T. & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-- Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- Woodward, J. (2003). *Making Things Happen*. Oxford University Press.
 - Yablo, S. (1992). Mental Causation. *Philosophical Review*, 101: 245-280.
-
-<!-- AI REFINEMENT LOG - 2026-02-02
-Changes made:
-- Rewrote "The Decoherence Challenge" section to explicitly acknowledge the timing gap between femtosecond decoherence and millisecond attention as an unsolved challenge
-- Added clearer explanation that discrete observation cycles (Stapp's Zeno mechanism) may sidestep sustained coherence requirements
-- Clarified that the bandwidth response (~10 bits/second) describes what consciousness selects (policies), which raises an open question about translation to quantum timescales
-- Updated comparison table to describe mechanisms as "candidate" rather than established
-- Revised "The Interface Mechanism" and "The Quantum Mechanism" sections to acknowledge that the precise bridging mechanism remains a research program, not a completed theory
-- Throughout: moderated overclaims about mechanism specificity while preserving the core argument that quantum indeterminacies provide an opening for downward causation
-
-Based on pessimistic review identifying high-severity issue: timing gap between decoherence and attention timescales, and bandwidth response undermining rather than supporting the quantum mechanism.
-
-This log should be removed after human review.
--->
