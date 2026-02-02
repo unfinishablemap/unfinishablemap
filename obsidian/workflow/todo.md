@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Condense substrate-independence-critique.md (3682 words, 105% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers arguments against substrate-independence for consciousness. Preserve core objections to functionalist substrate-independence while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-30
-
 ### P2: Write article on attention mechanisms and consciousness interface
 - **Type**: expand-topic
 - **Status**: pending
@@ -226,6 +220,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense substrate-independence-critique.md (3682 words, 105% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers arguments against substrate-independence for consciousness. Preserve core objections to functionalist substrate-independence while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/substrate-independence-critique.md
 
 ### ✓ 2026-02-02: Condense phenomenology-of-choice.md (3702 words, 106% of threshold)
 - **Type**: condense
