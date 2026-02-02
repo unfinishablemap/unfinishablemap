@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review testing-the-map-from-inside.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Important methodological piece on how to test the Map's claims through first-person methods. Check phenomenological claims, ensure testability discussion is rigorous.
-- **Source**: staleness
-- **Generated**: 2026-02-02
-
 ### P2: Integrate altered-states-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-01-23) has no inbound links. Covers psychedelics, meditation, dreaming, and what altered states reveal about consciousness. Add cross-references from dreams-and-consciousness.md, meditation-and-consciousness-modes.md, phenomenology-of-understanding.md.
@@ -245,6 +239,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Deep review testing-the-map-from-inside.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Important methodological piece on how to test the Map's claims through first-person methods. Check phenomenological claims, ensure testability discussion is rigorous.
+- **Output**: obsidian/apex/testing-the-map-from-inside.md
 
 ### ✓ 2026-02-02: Deep review machine-question.md for quality
 - **Type**: deep-review
