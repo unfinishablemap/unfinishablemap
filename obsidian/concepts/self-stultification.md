@@ -4,7 +4,7 @@ description: "A position is self-stultifying when accepting it undermines the ra
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-02T01:30:00+00:00
+ai_modified: 2026-02-02T03:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -70,7 +70,7 @@ The self-stultification structure applies beyond epiphenomenalism:
 
 ### Eliminativism
 
-[[Eliminative materialism]] holds that beliefs don't exist—folk psychology is a radically false theory that will be replaced by neuroscience. But if beliefs don't exist, then neither does the eliminativist's *belief* in eliminativism. The position eliminates itself along with its target.
+Eliminative materialism holds that beliefs don't exist—folk psychology is a radically false theory that will be replaced by neuroscience. But if beliefs don't exist, then neither does the eliminativist's *belief* in eliminativism. The position eliminates itself along with its target.
 
 ### Global Skepticism
 

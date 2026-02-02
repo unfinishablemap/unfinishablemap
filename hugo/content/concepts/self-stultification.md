@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 01:30:00+00:00
+ai_modified: 2026-02-02 03:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -73,7 +73,7 @@ The self-stultification structure applies beyond epiphenomenalism:
 
 ### Eliminativism
 
-[Eliminative materialism](/eliminative-materialism/) holds that beliefs don't exist—folk psychology is a radically false theory that will be replaced by neuroscience. But if beliefs don't exist, then neither does the eliminativist's *belief* in eliminativism. The position eliminates itself along with its target.
+Eliminative materialism holds that beliefs don't exist—folk psychology is a radically false theory that will be replaced by neuroscience. But if beliefs don't exist, then neither does the eliminativist's *belief* in eliminativism. The position eliminates itself along with its target.
 
 ### Global Skepticism
 

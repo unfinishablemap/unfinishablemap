@@ -4,7 +4,7 @@ description: "How consciousness weaves disparate meanings into unified understan
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T23:35:00+00:00
+ai_modified: 2026-02-02T03:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[semantic-memory]]"
   - "[[intentionality]]"
   - "[[working-memory]]"
-  - "[[narrative-identity]]"
+  - "narrative-identity"
   - "[[temporal-consciousness]]"
   - "[[autonoetic-consciousness]]"
   - "[[witness-consciousness]]"
@@ -74,7 +74,7 @@ If meaning integration is phenomenal, classical accounts face the same challenge
 
 ## Narrative Integration
 
-Life's meaning involves a distinctive form of integration. A meaningful life isn't a collection of meaningful moments—it's a life whose moments form a coherent whole. This requires [[narrative-identity|narrative integration]]: the capacity to grasp how disparate experiences, choices, and events fit together into a trajectory.
+Life's meaning involves a distinctive form of integration. A meaningful life isn't a collection of meaningful moments—it's a life whose moments form a coherent whole. This requires narrative integration: the capacity to grasp how disparate experiences, choices, and events fit together into a trajectory.
 
 Narrative integration differs from both memory and planning. Memory stores episodes; narrative integration sees their significance within a larger story. Planning projects future states; narrative integration grasps how the projected future relates to the lived past. The narrator stands in the midst of the story, integrating remembered past and anticipated future into meaningful present.
 
@@ -145,7 +145,7 @@ These conditions distinguish the phenomenal-integration view from alternatives w
 - [[phenomenal-unity-and-the-binding-problem]] — How perceptual unity relates to meaning unity
 - [[binding-problem]] — Comprehensive treatment of computational vs. phenomenal binding
 - [[cognitive-phenomenology]] — The experiential character of thinking
-- [[narrative-identity]] — How life-narrative requires meaning integration
+- narrative-identity — How life-narrative requires meaning integration
 - [[autonoetic-consciousness]] — Mental time travel and temporal integration
 - [[working-memory]] — Information maintenance vs. integrative comprehension
 - [[global-workspace-theory]] — Availability distinguished from integration

@@ -129,7 +129,7 @@ McGinn would recognize kindred commitments in:
 ### Medium Priority
 
 #### Quantum Mechanisms Comparative Analysis
-- **Builds on**: [[quantum-consciousness]], [[stapp-quantum-mind]], [[orch-or]]
+- **Builds on**: [[quantum-consciousness]], [[stapp-quantum-mind]]
 - **Would address**: Systematic comparison of mechanisms on key dimensions (decoherence timescales, testability, philosophical consequences)
 - **Estimated scope**: Long article with comparative table
 - **Tenet alignment**: Supports minimal quantum interaction by specifying mechanism options

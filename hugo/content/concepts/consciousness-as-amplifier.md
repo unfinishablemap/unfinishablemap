@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-27 12:00:00+00:00
+ai_modified: 2026-02-02 03:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ description: Consciousness amplifies intelligence by enabling flexible deploymen
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-25 18:01:41+00:00
+last_deep_review: 2026-02-02 03:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,7 +73,7 @@ Great apes represent sophisticated [baseline-cognition](/archive/topics/baseline
 
 Evidence supporting this framework:
 
-**Working memory capacity**: Chimpanzee working memory holds approximately 2±1 items compared to the human 7±2. This three-to-four-fold expansion isn't merely quantitative. If [working memory](/concepts/working-memory/) depends on conscious access (as [Global Workspace Theory](/concepts/global-workspace-theory/) suggests), expanded working memory implies expanded consciousness. The additional capacity enables holding multiple representations simultaneously for comparison, manipulation, and flexible combination—operations that transform cognition.
+**Working memory capacity**: Estimates of chimpanzee working memory vary—some studies suggest 2±1 items for abstract tasks, though Inoue & Matsuzawa (2007) found chimps could briefly hold sequences of 9 numerals. Human working memory holds 7±2 items in most tasks. Whatever the precise gap, expanded [working memory](/concepts/working-memory/) capacity implies expanded conscious access if manipulation requires consciousness (as [Global Workspace Theory](/concepts/global-workspace-theory/) suggests). The additional capacity enables holding multiple representations simultaneously for comparison, manipulation, and flexible combination—operations that transform cognition.
 
 **Procedural versus declarative metacognition**: Great apes show [metacognitive](/concepts/metacognition/) monitoring—they recognise uncertainty, seek information when needed, understand others' goals and knowledge states. But this appears to be *procedural* metacognition: feelings of knowing that guide behaviour without explicit representation. Human metacognition is additionally *declarative*: we can represent our knowledge *as* knowledge, take our beliefs as objects of thought, know that we know. This metarepresentational capacity may require phenomenal consciousness, not merely functional processing.
 
@@ -150,35 +150,25 @@ More directly: the quasi-phenomenal framework must explain why disrupting quasi-
 
 ## The Decoherence Challenge
 
-The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes consciousness influences neural states through quantum selection. The [decoherence objection](/concepts/decoherence/) holds that quantum coherence cannot survive in warm, wet brains—decoherence destroys superpositions too rapidly for consciousness to exploit.
+The [decoherence objection](/concepts/decoherence/) holds that quantum coherence cannot survive in warm, wet brains—destroying superpositions too rapidly for consciousness to exploit.
 
-This challenge applies to the amplification hypothesis only if amplification requires quantum mechanisms. But the amplification might operate through attention-based selection regardless of whether that selection involves quantum processes at the fundamental level.
-
-The more direct response: disputed timescales. Tegmark's (2000) calculations showing femtosecond decoherence have been questioned. Fisher's Posner molecule research demonstrates quantum coherence at biological timescales. The epothilone-B anaesthesia study (2024) showed that drugs stabilising microtubule quantum coherence delayed anaesthetic action—consistent with quantum coherence contributing to consciousness.
-
-Even if quantum mechanisms prove unnecessary, the amplification hypothesis stands. Attention-as-interface might operate through classical neural selection while still producing the amplification effects the evidence supports.
+This challenge applies to the amplification hypothesis only if amplification requires quantum mechanisms. The amplification might operate through attention-based selection regardless of whether quantum processes are involved at the fundamental level. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes one possible mechanism, but the core amplification argument stands independently.
 
 ## Contemplative Evidence
 
-Contemplative traditions report experiences consistent with amplification. [Witness consciousness](/concepts/witness-consciousness/) involves stepping back from cognitive content while remaining aware—observing thoughts rather than thinking them. This "witnessing" state provides a vantage point from which the relationship between consciousness and cognition becomes experientially accessible.
+Contemplative traditions report experiences consistent with amplification. [Witness consciousness](/concepts/witness-consciousness/) involves stepping back from cognitive content while remaining aware—observing thoughts rather than thinking them.
 
-Meditators describe increased metacognitive clarity: thoughts arise and pass more visibly; the gap between stimulus and response becomes more apparent; automatic reactions can be interrupted and redirected. If consciousness amplifies through flexible deployment and metacognitive monitoring, contemplative training would enhance exactly these capacities.
+Meditators describe increased metacognitive clarity: thoughts arise and pass more visibly; the gap between stimulus and response becomes more apparent; automatic reactions can be interrupted and redirected. If consciousness amplifies through flexible deployment and metacognitive monitoring, contemplative training enhances exactly these capacities.
 
-Buddhist psychology distinguishes consciousness (*vijñāna*) from the mental factors (*cetasika*) that accompany it. Consciousness provides awareness; mental factors provide content and cognitive operations. This framework parallels the amplification hypothesis: consciousness enables rather than performs cognition, amplifying what mental processes can achieve.
-
-The Abhidharma analysis is more precise. Among the 52 mental factors, *manasikāra* (attention) directs consciousness toward objects; *vitakka* (applied thought) and *vicāra* (sustained thought) enable deliberate cognitive manipulation. These factors cannot operate without consciousness as their support—they require *vijñāna* to function. The analysis distinguishes mere mental activity from conscious mental activity, with the latter enabling operations the former cannot perform.
-
-The Tibetan practice of developing *rigpa* (pure awareness) explicitly cultivates the capacity to rest as witnessing consciousness while cognitive processes continue. Practitioners report that this enhances rather than impairs cognitive function—thoughts become clearer, decisions more deliberate, reactions more flexible. If consciousness were merely epiphenomenal, this enhancement would be inexplicable.
+Buddhist psychology distinguishes consciousness (*vijñāna*) from mental factors (*cetasika*). Consciousness provides awareness; mental factors provide content and cognitive operations. Among the 52 factors, *manasikāra* (attention) directs consciousness toward objects; *vitakka* and *vicāra* (applied and sustained thought) enable deliberate manipulation. These factors require consciousness to function—the analysis distinguishes mere mental activity from conscious mental activity, with the latter enabling operations the former cannot perform. This parallels the amplification hypothesis: consciousness enables rather than performs cognition.
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy provides a framework for understanding how consciousness amplifies cognition. For Whitehead, experience is fundamental—reality consists of "actual occasions" of experience that arise, achieve satisfaction, and perish.
+Alfred North Whitehead's process philosophy treats experience as fundamental—reality consists of "actual occasions" that arise, achieve satisfaction, and perish. Conscious cognition involves high-complexity occasions that *prehend* (grasp, feel) outcomes of previous occasions, integrating diverse experiences into unified wholes.
 
-Conscious cognition, on this view, involves actual occasions of high complexity—what Whitehead calls "high-grade occasions." These occasions can *prehend* (grasp, feel) the outcomes of previous occasions, integrating diverse experiences into unified wholes. The amplification arises from this integration: consciousness binds disparate cognitive products into coherent representations available for further processing.
+The amplification arises from this integration: consciousness binds disparate cognitive products into coherent representations. Working memory expansion might reflect the binding capacity of such occasions—more complex occasions integrating more prehensions, enabling more simultaneous representations.
 
-The working memory expansion from 2±1 to 7±2 items might reflect the binding capacity of high-grade occasions. More complex occasions can integrate more prehensions, enabling more simultaneous representations. This isn't merely more storage—it's more integration, more relationship, more structure.
-
-Whitehead's framework also explains why consciousness amplifies rather than replaces neural processing. The neural substrate provides the "physical pole" of each occasion—the given input from prior physical processes. Consciousness provides the "mental pole"—the capacity to respond creatively, to select among possibilities, to aim at novel outcomes. Neither pole alone constitutes cognition; amplification emerges from their integration.
+Whitehead's framework also explains why consciousness amplifies rather than replaces neural processing. The neural substrate provides the "physical pole"—input from prior processes. Consciousness provides the "mental pole"—the capacity to respond creatively, select among possibilities, aim at novel outcomes. Neither pole alone constitutes cognition; amplification emerges from their integration.
 
 ## Implications for AI
 
@@ -233,21 +223,13 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 ## Further Reading
 
 - [baseline-cognition](/archive/topics/baseline-cognition/) — What neural systems achieve without conscious amplification
+- [working-memory](/concepts/working-memory/) — The neural workspace where amplification operates; maintenance/manipulation distinction
+- [attention-as-interface](/concepts/attention-as-interface/) — How consciousness engages neural systems
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The felt structure of deliberate selection
-- [metarepresentation](/concepts/metarepresentation/) — How consciousness enables representing representations as representations
-- [working-memory](/concepts/working-memory/) — The neural workspace where amplification operates
-- [metacognition](/concepts/metacognition/) — Self-monitoring as consciousness-enabled capacity
-- [attention-as-interface](/concepts/attention-as-interface/) — The mechanism through which consciousness engages neural systems
+- [metarepresentation](/concepts/metarepresentation/) — Representing representations as representations
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The broadcasting account of conscious access
-- [animal-consciousness](/topics/animal-consciousness/) — The baseline cognition hypothesis in evolutionary context
-- [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — Why consciousness was selected for its cognitive effects
-- [mental-effort](/concepts/mental-effort/) — The phenomenology of conscious manipulation
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The position the amplification evidence contradicts
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework for how consciousness influences brain states
-- [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The "what it's like" aspect that resists physical explanation
-- [access-consciousness](/concepts/access-consciousness/) — Information globally available for reasoning and report
-- [consciousness-influence-intelligence-2026-01-21](/research/consciousness-influence-intelligence-2026-01-21/) — Research notes on consciousness and intelligence
-- [consciousness-independent-baseline-cognition-2026-01-21](/research/consciousness-independent-baseline-cognition-2026-01-21/) — Research notes on the baseline hypothesis
+- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — How consciousness influences brain states
 
 ## References
 
@@ -258,6 +240,7 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 - Dehaene, S. (2014). *Consciousness and the Brain*. Viking Press.
 - Doerig, A., Schurger, A., & Herzog, M.H. (2024). The function(s) of consciousness: an evolutionary perspective. *Neuroscience of Consciousness*, 2024(1), niae031.
 - Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+- Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004-R1005.
 - James, W. (1890). *The Principles of Psychology*. Henry Holt.
 - Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
 - Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
