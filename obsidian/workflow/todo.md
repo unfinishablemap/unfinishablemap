@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Condense access-consciousness.md (3613 words, 145% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers Block's access/phenomenal distinction—information availability for reasoning and report. Preserve core distinction, connection to phenomenal-consciousness.md and global-workspace-theory.md. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-31
-
 ### P2: Condense phenomenology-of-choice.md (3702 words, 106% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers what choosing actually feels like phenomenologically—the experience of deliberation and decision. Preserve core phenomenological descriptions, connection to free-will.md and agent-causation.md. See /condense skill.
@@ -238,6 +232,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense access-consciousness.md (3613 words, 145% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers Block's access/phenomenal distinction—information availability for reasoning and report. Preserve core distinction, connection to phenomenal-consciousness.md and global-workspace-theory.md. See /condense skill.
+- **Output**: obsidian/concepts/access-consciousness.md
 
 ### ✓ 2026-02-02: Condense many-worlds.md (3704 words, 148% of threshold)
 - **Type**: condense
