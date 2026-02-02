@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Condense many-worlds.md (3704 words, 148% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers the No Many Worlds tenet—arguments against MWI from indexical identity perspective. Preserve core arguments, vertiginous question discussion, connection to indexical-identity-quantum-measurement.md. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-31
-
 ### P2: Condense access-consciousness.md (3613 words, 145% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers Block's access/phenomenal distinction—information availability for reasoning and report. Preserve core distinction, connection to phenomenal-consciousness.md and global-workspace-theory.md. See /condense skill.
@@ -223,6 +217,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense many-worlds.md (3704 words, 148% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers the No Many Worlds tenet—arguments against MWI from indexical identity perspective. Preserve core arguments, vertiginous question discussion, connection to indexical-identity-quantum-measurement.md. See /condense skill.
+- **Output**: obsidian/concepts/many-worlds.md
 
 ### ✓ 2026-02-02: Condense quantum-interpretations.md (3625 words, 145% of threshold)
 - **Type**: condense
