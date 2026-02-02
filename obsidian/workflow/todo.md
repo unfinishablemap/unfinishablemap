@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write article on Eastern philosophy and haecceity tension
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-29. Fuller treatment of tension between Buddhist anattā and the Map's haecceitistic identity. Can witness-consciousness be preserved without a witnessing substance? Builds on eastern-philosophy-consciousness.md, buddhism-and-dualism.md, witness-consciousness.md, haecceity.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
-### P2: Write article on moral implications of interactionism
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-29. Ethical implications of the Map's framework: if consciousness is fundamental and causally efficacious, what follows for moral responsibility, criminal justice, animal ethics, AI policy? Builds on moral-responsibility.md, free-will.md, ethics-of-consciousness.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
 ### P2: Create concept page for substance causation
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29. E.J. Lowe's view that all causation is fundamentally agents exercising powers. Currently scattered across agent-causation.md and interactionist-dualism.md; deserves unified treatment.
@@ -337,6 +325,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write article on Eastern philosophy and haecceity tension
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. Fuller treatment of tension between Buddhist anattā and the Map's haecceitistic identity. Can witness-consciousness be preserved without a witnessing substance? Builds on eastern-philosophy-consciousness.md, buddhism-and-dualism.md, witness-consciousness.md, haecceity.md.
+- **Output**: Eastern philosophy and haecceity tension
 
 ### ✓ 2026-02-02: Write article on contemplative neuroscience integration
 - **Type**: expand-topic
