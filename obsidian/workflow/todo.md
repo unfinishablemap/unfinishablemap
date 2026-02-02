@@ -49,18 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write voids article on cognitive aversion
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-cognitive-aversion-2026-02-01.md. Thoughts we systematically fail to sustain—not because we cannot think them (cognitive closure), but because something deflects us. Territory between Unexplored and Occluded. Convergent evidence from existential philosophy (Heidegger, Becker), psychology (terror management theory), and phenomenology (Sartre's bad faith). Connects to defended-territory.md, thoughts-that-slip-away.md, phenomenology-of-the-edge.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
-### P2: Write voids article on introspective opacity
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-introspective-opacity-2026-02-01.md. The structural limits on consciousness observing its own operations in real-time—the impossibility of catching thought in the act of thinking. James's "seizing a spinning top to catch its motion." Convergent evidence from phenomenology (Sartre, Husserl), cognitive psychology (Nisbett & Wilson, Carruthers). Connects to the-unobservable-self.md, thoughts-that-slip-away.md, self-reference-paradox.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
 ### P2: Condense functionalism.md (4450 words, 127% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers the functionalist position and its problems. Despite previous condense attempts, still over threshold. Preserve core functionalist claims and objections (multiple realizability, china brain, substrate-independence). Further consolidation needed. See /condense skill.
@@ -296,6 +284,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write voids article on cognitive aversion
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-cognitive-aversion-2026-02-01.md. Thoughts we systematically fail to sustain—not because we cannot think them (cognitive closure), but because something deflects us. Territory between Unexplored and Occluded. Convergent evidence from existential philosophy (Heidegger, Becker), psychology (terror management theory), and phenomenology (Sartre's bad faith). Connects to defended-territory.md, thoughts-that-slip-away.md, phenomenology-of-the-edge.md.
+- **Output**: Write voids article on cognitive aversion
+
+### ✓ 2026-02-02: Write voids article on cognitive aversion
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-cognitive-aversion-2026-02-01.md. Thoughts we systematically fail to sustain—not because we cannot think them (cognitive closure), but because something deflects us.
+- **Output**: [[cognitive-aversion]]
 
 ### ✓ 2026-02-02: Write voids article on affective void
 - **Type**: expand-topic

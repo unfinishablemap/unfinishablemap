@@ -2,9 +2,9 @@
 title: "Voids in the Map"
 description: "Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable, and potentially occluded territories where thought cannot go or is blocked from going."
 created: 2026-01-08
-modified: 2026-02-01
+modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-02-01T14:46:00+00:00
+ai_modified: 2026-02-02T07:43:00+00:00
 draft: false
 last_deep_review: 2026-02-01T14:46:00+00:00
 topics: []
@@ -77,6 +77,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Mechanisms of cognitive slippage
+- [[cognitive-aversion|Cognitive Aversion]] — Thoughts we systematically flee
 - [[attention-created-voids|Attention-Created Voids]] — What attention excludes by selecting
 - [[destabilizing-self-knowledge|Destabilizing Self-Knowledge]] — Knowledge that undermines its own conditions
 - [[phenomenology-of-error-recognition|The Phenomenology of Error Recognition]] — Detecting one's own mistakes

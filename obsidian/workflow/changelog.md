@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 07:43 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Cognitive Aversion
+- **Output**: [[voids/cognitive-aversion]]
+- **Word count**: 1969
+- **Based on research**: yes, [[research/voids-cognitive-aversion-2026-02-01]]
+
+---
+
 ## 2026-02-02 07:38 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Affective Void
