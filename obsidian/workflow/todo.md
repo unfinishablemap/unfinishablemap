@@ -233,6 +233,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
 
+### P3: Write article on phenomenal conservatism and introspective evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). Huemer's phenomenal conservatism—if it seems to S that P, S has prima facie justification for believing P—is foundational for treating phenomenal evidence seriously. How does the Map handle introspective reliability? When should phenomenal seemings be trusted? Builds on arguments-for-dualism.md, epistemic-advantages-of-dualism.md, introspection.md. See optimistic-2026-02-02-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on neural bandwidth constraints and the interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). The bandwidth response to decoherence (consciousness operates at ~40 bits/sec policy level) deserves dedicated treatment. What does slow conscious bandwidth mean for fast quantum processes? How does information get compressed? Builds on attention-interface-mechanisms.md, quantum-consciousness.md, voluntary-attention.md. See optimistic-2026-02-02-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on phenomenology of agency vs passivity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). Tension between active attention (Stapp's quantum Zeno) and passive witnessing (contemplative traditions). Both phenomenologically real. When does consciousness act vs merely witness? How do these modes relate? Builds on phenomenology-of-understanding.md, mental-effort.md, witness-consciousness.md. See optimistic-2026-02-02-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Create concept page for cognitive phenomenology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). The thesis that thinking itself has phenomenal character—not just accompanying sensations. Currently mentioned throughout but not given dedicated analysis. Central to extending hard problem beyond sensory qualia. See optimistic-2026-02-02-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
 ## Completed Tasks
 
 
