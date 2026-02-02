@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Condense quantum-interpretations.md (3625 words, 145% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers major QM interpretations and their implications for consciousness. Preserve: core interpretation summaries, evaluation criteria for consciousness relevance, connection to measurement-problem.md. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-01-31
-
 ### P2: Condense many-worlds.md (3704 words, 148% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers the No Many Worlds tenet—arguments against MWI from indexical identity perspective. Preserve core arguments, vertiginous question discussion, connection to indexical-identity-quantum-measurement.md. See /condense skill.
@@ -229,6 +223,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense quantum-interpretations.md (3625 words, 145% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers major QM interpretations and their implications for consciousness. Preserve: core interpretation summaries, evaluation criteria for consciousness relevance, connection to measurement-problem.md. See /condense skill.
+- **Output**: obsidian/concepts/quantum-interpretations.md
 
 ### ✓ 2026-02-02: Create concept page for phenomenal intentionality
 - **Type**: expand-topic

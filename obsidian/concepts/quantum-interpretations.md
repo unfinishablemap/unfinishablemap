@@ -4,7 +4,7 @@ description: "Survey of quantum interpretations and their consciousness implicat
 created: 2026-01-17
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-28T16:06:00+00:00
+ai_modified: 2026-02-02T02:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,16 +69,11 @@ Answers fall into three categories:
 **Core claims:**
 - Particles have definite positions at all times, guided by a "pilot wave"
 - The wave function evolves unitarily forever—no collapse
-- Fully deterministic: apparent randomness reflects ignorance of hidden variables (particle positions)
+- Fully deterministic: apparent randomness reflects ignorance of hidden variables
 
-**Consciousness role:** Minimal to none. Bohmian mechanics is designed to eliminate the observer. There is no collapse for consciousness to participate in. Outcomes are determined by the pilot wave.
+**Consciousness role:** None. Bohmian mechanics eliminates the observer—outcomes are determined by the pilot wave.
 
-**Site compatibility:** **Low.** If Bohmian mechanics is correct, the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet has no work to do. Consciousness cannot select outcomes because outcomes are determined. Free will would require a different mechanism entirely.
-
-**Why the Map rejects this:**
-1. **Determinism conflicts with free will phenomenology.** The phenomenology of effort and genuine choice would be illusory.
-2. **Hidden variables seem unparsimonious.** If consciousness solves the measurement problem, hidden variables are unnecessary.
-3. **Tension with relativity.** Pilot-wave guidance requires instantaneous non-local influences.
+**Site compatibility:** **Low.** Determinism leaves no room for consciousness-caused selection. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet would have no work to do.
 
 ### QBism (Quantum Bayesianism)
 
@@ -96,15 +91,12 @@ Answers fall into three categories:
 
 **Core claims:**
 - Physical properties exist only relative to observers
-- There is no absolute, observer-independent state
-- Different observers can consistently attribute different states
 - "Observer" means any physical system, not necessarily conscious
+- Different observers can consistently attribute different states
 
-**Consciousness role:** None. Rovelli is explicit: "There is nothing subjective, idealistic, or mentalistic, in RQM." The interpretation succeeds specifically by removing consciousness from measurement. Any physical system—a rock, a photon detector, a brain—is equally an "observer" whose interactions produce relative facts.
+**Consciousness role:** None. Rovelli is explicit: "There is nothing subjective, idealistic, or mentalistic, in RQM." Any physical system—a rock, a photon detector, a brain—is equally an "observer."
 
-**Why this matters:** RQM elegantly dissolves the [[multi-mind-collapse-problem]]—if facts are relative to each observer and need not agree until observers interact, there's no coordination paradox. But this elegance comes at the cost of mental causation. See [[relational-quantum-mechanics]] for detailed treatment.
-
-**Site compatibility:** **Low.** RQM explicitly removes consciousness's special role, directly conflicting with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. While RQM shares the Map's rejection of many-worlds, it provides no mechanism for consciousness to influence physical outcomes.
+**Site compatibility:** **Low.** RQM removes consciousness's special role, conflicting with [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. See [[relational-quantum-mechanics]] for detailed treatment.
 
 ### Transactional Interpretation (TI) and Two-State Vector Formalism (TSVF)
 
@@ -141,17 +133,11 @@ Answers fall into three categories:
 
 ## How Interpretations Handle Probability
 
-Each interpretation must account for the Born rule—the squared amplitude giving measurement probabilities. The [[quantum-probability-consciousness]] article examines this in depth, revealing how probability treatment exposes each interpretation's stance on consciousness.
+Each interpretation must account for the Born rule—the squared amplitude giving measurement probabilities. The [[quantum-probability-consciousness]] article examines this in depth.
 
-**The Standard View (Copenhagen, Collapse Theories):** Born probabilities are objective propensities—features of physical reality independent of any observer. The radioactive atom *has* a 50% chance of decaying. This works for statistics but struggles with single cases: what does "propensity" mean for *this* atom? And it leaves consciousness entirely outside the picture.
+The key insight: all standard views share a blind spot—they don't address what probability means *for this consciousness*. What does 50% mean for *you* about to measure spin? The first-person perspective is precisely what probability seems to be about, yet appears in none of these accounts.
 
-**QBism:** Probabilities are subjective Bayesian beliefs, not features of external reality. Collapse is just belief-updating. But [[qbism|QBism]] presupposes that agents have definite experiences to form beliefs about—the source of determinate experience is given rather than explained.
-
-**Many-Worlds:** All outcomes occur, so "probability" is reinterpreted as a measure on branches—a weighting for future selves. Deutsch-Wallace decision-theoretic derivations claim rational agents *must* weight branches by Born probabilities. Critics argue these derivations assume what they aim to prove. More fundamentally, if all outcomes occur, probability seems meaningless.
-
-**The Missing Piece:** All three views share a blind spot—they don't address what probability means *for this consciousness*. You're about to measure spin. What does 50% mean for *you*? The first-person perspective—the fact that *I* will experience *one* definite outcome—is precisely what probability seems to be about, yet appears in none of these standard accounts.
-
-The Map proposes that Born probabilities describe the objective structure of the consciousness-quantum interface. They are neither purely subjective beliefs (as QBism claims) nor features of physics independent of consciousness (as standard views assume). Rather, probability in quantum mechanics reflects the conditions under which consciousness actualises one possibility among many.
+The Map proposes that Born probabilities describe the objective structure of the consciousness-quantum interface—neither purely subjective beliefs (QBism) nor features independent of consciousness (standard views). Rather, probability reflects the conditions under which consciousness actualises one possibility among many.
 
 ## Comparison Table
 
@@ -184,19 +170,9 @@ If consciousness causes collapse at a moment, we face questions about which mome
 
 ## Why the Map Rejects MWI
 
-The [[many-worlds]] article presents five detailed arguments against MWI:
+The [[many-worlds]] article presents five detailed arguments: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and MWI's failure to explain consciousness.
 
-1. **Ontological extravagance**: MWI posits continuous branching—trillions of events per second, each creating new universes. MWI defenders (Deutsch, Wallace) appeal to parsimony of *laws*, but the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet reminds us that simplicity is unreliable when knowledge is incomplete.
-
-2. **Indexical identity problem**: Before measurement, one you; after, many equally real continuations. Yet you anticipate *one* future experience. This [[haecceity|haecceitistic]] fact—which branch is *yours*—has no answer on MWI. Defenders respond that this is no different from ordinary self-location uncertainty ("why am I this person rather than another?"). But the Map holds that indexical identity is precisely what requires explanation, not what explains things away.
-
-3. **Probability problem**: What do Born rule probabilities mean if all outcomes occur? Decision-theoretic derivations (Deutsch-Wallace) remain contested. The uncertainty framework seems inapplicable when all outcomes are equally real.
-
-4. **Preferred basis problem**: Decoherence selects branches only approximately and observer-relatively, making worlds less fundamental than MWI requires.
-
-5. **Consciousness unexplained**: MWI explains why measurement *appears* to collapse the wave function but provides no resources for explaining why conscious experience exists at all. The [[hard-problem-of-consciousness|hard problem]] is left entirely untouched.
-
-The deepest conflict: MWI explicitly denies that consciousness plays any role in physics. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds the opposite—consciousness causally influences physical outcomes. The [[tenets#^no-many-worlds|No Many Worlds]] tenet encodes this incompatibility.
+The deepest conflict: MWI explicitly denies that consciousness plays any role in physics. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds the opposite. The [[tenets#^no-many-worlds|No Many Worlds]] tenet encodes this incompatibility.
 
 ## Implications for the Map's Framework
 
@@ -206,101 +182,51 @@ Interpretations that eliminate consciousness (Bohmian mechanics, MWI) or treat i
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] might argue that the choice of quantum interpretation has no bearing on consciousness because consciousness itself is an illusion—there is no phenomenal experience requiring explanation, hence no special role for consciousness in physics.
+[[illusionism|Illusionists]] might argue that quantum interpretation has no bearing on consciousness because consciousness itself is an illusion. But for consciousness to be an illusion, *something* must be under the illusion—the question of its relationship to physical processes remains live.
 
-### The Regress Response
-
-This objection faces the standard regress: for consciousness to be an illusion, *something* must be under the illusion. An illusion of phenomenal redness still involves phenomenal seeming-redness. The illusionist might relocate phenomenality but cannot eliminate it. If phenomenal states exist at all—even as illusions—the question of their relationship to physical processes remains live.
-
-### The Interpretation-Independence Objection
-
-A subtler illusionist response: even granting phenomenal experience, its physics-relevance doesn't follow. Consciousness might supervene on physical processes without influencing them. The interpretive landscape is orthogonal to consciousness's causal status.
-
-This objection fails because the interpretive choice isn't orthogonal. If MWI is true, there is nowhere for consciousness-caused selection to occur—all outcomes happen. If Bohmian mechanics is true, determinism leaves no room for selection. The interpretation *determines* whether consciousness's causal participation is even coherent. To dismiss interpretations as irrelevant while maintaining epiphenomenalism is to implicitly assume that consciousness-excluding interpretations are correct—a substantive commitment, not neutral methodology.
-
-### Contemplative Reports and Interpretations
-
-Contemplative traditions report experiences that seem to involve *choice* at the phenomenal level—the deliberate direction of attention, the effortful selection among mental possibilities. These reports are consistent across cultures (Buddhist *vitarka*, Hindu *sankalpa*, Christian contemplative *discernment*). If attention phenomenology accurately reports a selection capacity, interpretations that allow consciousness-physics interaction (TI, TSVF, consciousness-integrated collapse) better accommodate the phenomenology than those that don't.
+A subtler objection: even granting phenomenal experience, its physics-relevance doesn't follow. But this objection fails because the interpretive choice *determines* whether consciousness's causal participation is coherent. If MWI is true, there's nowhere for selection to occur—all outcomes happen. If Bohmian mechanics is true, determinism leaves no room. To dismiss interpretations as irrelevant while maintaining epiphenomenalism is to implicitly assume consciousness-excluding interpretations are correct—a substantive commitment, not neutral methodology.
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy offers a framework for understanding why interpretation choice matters for consciousness.
+Alfred North Whitehead's process philosophy offers relevant parallels. His "actual occasions"—momentary events with both physical poles (receiving data) and mental poles (contributing novelty)—map onto quantum events: the wave function encodes possibilities, while collapse represents selection of one outcome.
 
-### Actual Occasions and Quantum Events
+Different interpretations engage this differently: MWI eliminates the mental pole (no selection, only branching); Bohmian mechanics makes it epiphenomenal (positions predetermined); time-symmetric interpretations make it efficacious (consciousness participates in which transactions complete).
 
-Whitehead held that reality consists of "actual occasions"—momentary events of experience that perish and give rise to new occasions. Each actual occasion has both a physical pole (receiving data from prior occasions) and a mental pole (contributing novelty through conceptual prehension). This structure maps naturally onto quantum events: the wave function encodes the physical pole (possibilities inherited from prior states), while collapse represents the mental pole's contribution—the selection of one outcome from many.
-
-Different interpretations engage this mapping differently:
-
-- **MWI** eliminates the mental pole entirely—no selection occurs, only branching
-- **Bohmian mechanics** makes the mental pole epiphenomenal—particle positions are already determined
-- **Time-symmetric interpretations** make the mental pole genuinely efficacious—consciousness participates in which transactions complete
-
-### Concrescence and Collapse
-
-Whitehead called the process by which an actual occasion achieves definiteness "concrescence." The occasion begins as a multiplicity of possibilities and ends as a single definite fact. This mirrors wave function collapse: superposition (multiplicity) → measurement → definite outcome (unity).
-
-The parallel suggests that collapse interpretations aren't adding something foreign to physics but recognizing what physics already contains. If Whitehead is right that all actualization involves a mental aspect, then consciousness-collapse interpretations simply acknowledge the mentality already implicit in physical process. Interpretations that eliminate selection (MWI) or render it deterministic (Bohm) deny mentality at the fundamental level—a metaphysically significant choice.
-
-### Why Process Philosophy Favors Collapse
-
-Process philosophy doesn't require any specific interpretation, but it coheres most naturally with interpretations that preserve genuine selection:
-
-1. **Novelty requires selection.** Whitehead held that each actual occasion contributes irreducible novelty. If all outcomes occur (MWI) or are predetermined (Bohm), novelty becomes illusory.
-2. **Experience requires definiteness.** An actual occasion must achieve unity—one outcome, not all. MWI's branching produces many definite outcomes but doesn't explain why *this* branch is experienced.
-3. **The mental pole must do work.** Process philosophy requires the mental pole to contribute, not merely accompany physical process. This favors interpretations where consciousness genuinely participates.
+Process philosophy coheres most naturally with collapse interpretations: novelty requires genuine selection, experience requires definiteness (one outcome, not all branches), and the mental pole must do actual work.
 
 ## Contemplative Evidence
 
-First-person contemplative traditions provide data relevant to interpretive choice, though this evidence is necessarily indirect.
+Contemplative traditions provide indirect but relevant data. Across traditions, practitioners report that attention can be voluntarily directed and mental content selected—the phenomenal character of willing, not merely believing in free will. If phenomenology is even approximately accurate, interpretations allowing consciousness-physics interaction accommodate this data better than those that don't.
 
-### The Phenomenology of Choice
+[[witness-consciousness|Witness consciousness]]—the capacity to observe mental events without identification—maps onto the distinction between quantum systems (in superposition) and observing consciousness (that for which collapse occurs). Time-symmetric interpretations make this mapping apt: the witness participates atemporally in which correlations hold, echoing the reported timelessness of witness states.
 
-Across contemplative traditions, practitioners report that attention can be voluntarily directed, mental content can be selected, and awareness itself can observe the process of selection. This is not merely believing in free will—it's the phenomenal character of willing, the "what it's like" to make an effortful choice.
-
-- **Vipassana**: Practitioners observe choices arising and distinguish between effortful and effortless mental events
-- **Samatha**: Concentrated attention feels like *holding* the object—continuous selection against distractions
-- **Zen koan practice**: The moment of breakthrough (*kensho*) is experienced as releasing grip on conceptual options
-
-These reports suggest consciousness has access to selection processes. If phenomenology is even approximately accurate—if we're not systematically wrong about the structure of experience—then interpretations allowing consciousness-physics interaction accommodate this data better than those that don't.
-
-### The Witness and Collapse
-
-[[witness-consciousness|Witness consciousness]]—the capacity to observe mental events without identification—appears relevant to interpretive choice. Practitioners describe the witness as that which remains constant while mental contents change. This maps onto the distinction between the quantum system (in superposition) and the observing consciousness (that for which collapse occurs).
-
-Time-symmetric interpretations make this mapping especially apt: the witness doesn't cause collapse at a moment but participates atemporally in which correlations hold. The timelessness of witness consciousness (a common contemplative report) echoes the atemporality of transaction selection in TI/TSVF.
-
-### Buddhist No-Self and Quantum Mechanics
-
-Buddhist [[buddhism-and-dualism|anattā]] (no-self) might seem to challenge consciousness-collapse views: if there's no substantial self, who collapses the wave function? But anattā denies a permanent, unchanging self—not experience moment-to-moment. Process philosophy's actual occasions (each achieving definiteness and perishing) align with Buddhist momentariness (*khaṇika-vāda*). The "observer" in consciousness-collapse needn't be an enduring self—it can be each moment of experience selecting its own outcome.
+Buddhist [[buddhism-and-dualism|anattā]] (no-self) doesn't challenge consciousness-collapse views—it denies a permanent self, not moment-to-moment experience. The "observer" in consciousness-collapse needn't be an enduring self; it can be each moment of experience selecting its own outcome.
 
 ## What Would Challenge This View?
 
 The Map's preference for consciousness-inclusive interpretations would face serious difficulties if:
 
-1. **MWI's probability problem is solved convincingly.** The most powerful objection to MWI is that probability becomes meaningless when all outcomes occur. If the Deutsch-Wallace decision-theoretic derivation gains wider acceptance, or if a new approach derives Born rule probabilities without self-defeating circularity, MWI would become more viable. The Map would need to reconsider whether indexical identity concerns are sufficient grounds for rejection.
+1. **MWI's probability problem is solved convincingly.** If Born rule probabilities can be derived without circularity when all outcomes occur, MWI becomes more viable.
 
-2. **Bohmian mechanics becomes empirically distinguishable.** Bohmian mechanics makes the same predictions as standard QM but posits hidden variables. If experiments ever detected these hidden variables (particle positions beyond wave function), determinism would be confirmed—eliminating the logical space for consciousness-caused selection. Current physics suggests this is impossible, but future physics might disagree.
+2. **Consciousness-physics interaction is experimentally refuted.** If well-designed experiments consistently found conscious observation produces identical results to unconscious measurement, the consciousness-collapse hypothesis would weaken.
 
-3. **Consciousness-physics interaction is experimentally refuted.** Proposals for testing consciousness-collapse (e.g., Kremnizer-Ranchin integrated information experiments) could in principle show no consciousness effect. If well-designed experiments consistently found that conscious observation produces identical results to unconscious measurement, the consciousness-collapse hypothesis would weaken significantly.
+3. **Decoherence timescales prove insurmountable.** If neural decoherence occurs at Tegmark's original timescales (10⁻¹³ seconds) rather than revised estimates (10⁻⁵ seconds), quantum effects relevant to consciousness would be ruled out. Current evidence ([[quantum-coherence-protection|quantum coherence protection]]) suggests revised estimates are more accurate.
 
-4. **Decoherence timescales prove insurmountable.** If decoherence in neural systems is confirmed to occur at Tegmark's originally calculated timescales (10⁻¹³ seconds) rather than the revised estimates (10⁻⁵ seconds), quantum effects relevant to consciousness would be ruled out. This would leave interpretive choice irrelevant to consciousness—no quantum-level consciousness interface would be possible. Current evidence ([[quantum-coherence-protection|quantum coherence protection mechanisms]]) suggests the revised estimates are more accurate, but future research could reverse this.
-
-5. **A new interpretation emerges that explains consciousness while eliminating selection.** Perhaps some future interpretation—neither collapse nor many-worlds—explains why consciousness exists without requiring it to participate in physical process. Such an interpretation would challenge the Map's framework by showing that consciousness-exclusion needn't mean consciousness-inexplicability.
+4. **A new interpretation emerges that explains consciousness while eliminating selection.** Such an interpretation would challenge the Map by showing consciousness-exclusion needn't mean consciousness-inexplicability.
 
 ## Relation to Site Perspective
 
 The choice of quantum interpretation bears directly on all five [[tenets]]:
 
-**[[tenets#^dualism|Dualism]]**: Interpretations that eliminate consciousness from physics (MWI, Bohmian mechanics) support physicalism by showing that physics is complete without mind. Interpretations that make consciousness essential to collapse (consciousness-collapse, TI/TSVF) support dualism by showing physics *requires* mind to achieve definiteness. The interpretive landscape is metaphysically loaded—choosing an interpretation is choosing a stance on the mind-body problem.
+**[[tenets#^dualism|Dualism]]**: Interpretations eliminating consciousness from physics (MWI, Bohmian mechanics) support physicalism; interpretations making consciousness essential to collapse support dualism. Choosing an interpretation is choosing a stance on the mind-body problem.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: This tenet requires that consciousness causally influence physical outcomes. MWI and Bohmian mechanics rule this out in principle. RQM eliminates consciousness's special status. Only collapse interpretations (especially consciousness-modulated versions) and time-symmetric interpretations provide mechanisms for bidirectional interaction. The Map's interpretive preferences follow directly from this tenet.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: This tenet requires consciousness to causally influence physical outcomes. MWI and Bohmian mechanics rule this out; RQM eliminates consciousness's special status. Only collapse and time-symmetric interpretations provide mechanisms for bidirectional interaction.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The tenet holds that if consciousness affects physics, it does so minimally—at quantum indeterminacies. This is coherent only under interpretations where indeterminacy is real (not hidden variables) and selection occurs (not all-branches actualization). Time-symmetric interpretations are especially congenial: consciousness selects which transaction completes, which correlations hold across time—the minimal intervention that nonetheless determines outcomes.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness affects physics, it does so minimally—at quantum indeterminacies. This is coherent only where indeterminacy is real and selection occurs. Time-symmetric interpretations are especially congenial: consciousness selects which transaction completes—minimal intervention that nonetheless determines outcomes.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The Map explicitly rejects MWI on five grounds detailed in [[many-worlds]]. This isn't merely an aesthetic preference but follows from the indexical identity concern: MWI cannot explain why *this* branch is mine, why *this* outcome is experienced. The haecceitistic question—why am I this one?—is meaningful on collapse interpretations and meaningless on MWI. Rejecting MWI is inseparable from taking indexical identity seriously.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The Map rejects MWI on five grounds (see [[many-worlds]]). The core concern: MWI cannot explain why *this* branch is mine. The [[haecceity|haecceitistic]] question—why am I this one?—is meaningful on collapse interpretations and meaningless on MWI.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: MWI defenders appeal to parsimony: one law (unitary evolution) is simpler than two (unitary evolution plus collapse). But this assumes we know what counts as simple. MWI's ontological extravagance—continuous world-branching at every quantum event—is only "parsimonious" if we value law-simplicity over entity-parsimony. The Map's tenet reminds us that simplicity preferences can mislead when understanding is incomplete. The interpretive landscape's genuine openness (no majority interpretation in 2025) suggests physics hasn't yet settled what "simple" means here.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: MWI's "parsimony" values law-simplicity over entity-parsimony. The interpretive landscape's genuine openness (no majority interpretation in 2025) suggests physics hasn't settled what "simple" means here.
 
 ## Further Reading
 
