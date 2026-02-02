@@ -4,7 +4,7 @@ description: "Candidate neural sites, timing constraints, and testable predictio
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-02T03:08:00+00:00
+ai_modified: 2026-02-02T04:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated:
+last_deep_review: 2026-02-02T04:52:00+00:00
 ---
 
 The [[attention-as-interface]] hypothesis proposes that attention mediates consciousness's influence on brain states. But *where* in the brain does this interface operate, and *how* might consciousness bias neural outcomes? This article examines the candidate mechanisms—the specific neural sites, timing constraints, and empirical predictions that could test whether attention really functions as the mind-matter bridge.
@@ -66,7 +67,7 @@ The Penrose-Hameroff orchestrated objective reduction (Orch OR) hypothesis locat
 
 **Evidence for:** 2025 research found room-temperature quantum effects in microtubules; anesthetics target microtubules and cause unconsciousness; coherence time estimates have been revised upward (from Tegmark's 10⁻¹³ seconds to 10⁻⁴ seconds in corrected models—seven orders of magnitude longer).
 
-**Challenges:** Even revised estimates remain controversial. Orch OR proposes a specific collapse mechanism (gravitational self-reduction) that differs from standard quantum mechanics and remains untested.
+**Challenges:** Even revised estimates remain controversial—Tegmark's original calculations are still defended by many physicists, and the corrected parameters Hameroff's group uses are contested. Orch OR proposes a specific collapse mechanism (gravitational self-reduction) that differs from standard quantum mechanics and remains untested.
 
 **Relation to attention:** Orch OR doesn't specifically address attention's role. One integration: attention might determine which microtubule ensembles undergo coordinated collapse—selecting the "orchestration" pattern.
 
@@ -110,7 +111,7 @@ Different timescales interact at the interface:
 | ~300 ms | Willed attention deployment (Bengson) | Full interface engagement |
 | Sustained | Maintained willed attention | Where Zeno effects accumulate |
 
-The convergence of ~280ms motor commitment and ~300ms willed attention deployment is striking. If attention and motor selection share a mechanism (as the premotor theory proposes), this shared timescale marks where consciousness engages.
+The convergence of ~280ms motor commitment and ~300ms willed attention deployment is striking. If attention and motor selection share a mechanism (as the premotor theory proposes), this shared timescale marks where consciousness engages. This timing window is directly relevant to [[free-will]] debates: it identifies when deliberation resolves into commitment—the locus where [[agent-causation]] could operate.
 
 For quantum mechanisms to work, decoherence must be slow enough to permit meaningful influence before quantum effects dissipate. Tegmark's original calculations ruled this out; revised estimates (supported by 2025 research on biological quantum effects) may permit it.
 
@@ -205,7 +206,7 @@ The interface hypothesis *is* the specification of how [[tenets#^bidirectional-i
 
 ### No Many Worlds
 
-All proposed mechanisms require genuine collapse. The quantum Zeno effect holds patterns by repeated observation that collapses wavefunctions. Orch OR requires gravitational self-collapse. Under [[tenets#^no-many-worlds|many-worlds]], there's nothing to select—all outcomes occur in different branches. Selection presupposes single-world quantum mechanics.
+All proposed mechanisms require genuine collapse. The quantum Zeno effect holds patterns by repeated observation that collapses wavefunctions. Orch OR requires gravitational self-collapse. Under [[tenets#^no-many-worlds|many-worlds]], all outcomes occur in different branches. MWI proponents argue that selection still occurs "within branches"—observers experience definite outcomes. The Map's response: if all branches actualize equally, then "selection" becomes mere self-location rather than genuine choice. The phenomenology of effort would be illusory—the sense that sustained attention accomplishes something would have no causal basis. Selection as the Map understands it presupposes single-world quantum mechanics where alternatives genuinely compete.
 
 ### Occam's Razor Has Limits
 
@@ -235,6 +236,8 @@ The Map doesn't commit to a specific mechanism. The commitment is to the framewo
 - [[structure-of-attention]] — Willed, instructed, and exogenous attention
 - [[attention-motor-quantum-interface]] — Unified attention-motor substrate
 - [[psychophysical-coupling]] — Constraints on what consciousness can influence
+- [[free-will]] — How the timing constraints relate to libertarian free will
+- [[agent-causation]] — The selection model as agent causation
 
 ## References
 
