@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02T11:54:00+00:00
+ai_modified: 2026-02-02T13:31:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -47,6 +47,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
+- **Generated**: 2026-02-02
+
+### P2: Write article on motor control and quantum Zeno mechanism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how voluntary motor control might utilize the quantum Zeno effect through attention—directly relevant to Minimal Quantum Interaction tenet. Connects to stapp-quantum-mind.md, voluntary-attention.md, attention-interface-mechanisms.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Write article on neural binding and quantum entanglement
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md. Investigates whether quantum entanglement could underlie the binding problem in consciousness. Directly relevant to Minimal Quantum Interaction tenet. Connects to binding-problem.md, quantum-consciousness.md, unity-of-consciousness.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Integrate substance-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created concept (2026-02-02) has no inbound links. E.J. Lowe's view that all causation is fundamentally agents exercising powers—central to agent-causation and libertarian free will. Add cross-references from agent-causation.md, interactionist-dualism.md, mental-causation.md, downward-causation.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Integrate phenomenological-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created concept (2026-02-02) has no inbound links. Methodological treatment of how first-person data functions as evidence—foundational for the Map's approach. Add cross-references from neurophenomenology.md, contemplative-evidence-for-consciousness-theories.md, introspection.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Condense functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for concepts/ by 70%. Despite multiple previous condense attempts, article remains severely over limit. Consider aggressive restructuring: extract detailed objection-response dialectic to separate article, keep only essential conceptual overview here. Preserve: core definition, relation to Map's substrate-dependence claims, key objections summary.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P3: Deep review contemplative-path.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on contemplative approaches to consciousness study. Check phenomenological claims, ensure alignment with Map's framework, verify connections to meditation-and-consciousness-modes.md, witness-consciousness.md.
+- **Source**: staleness
+- **Generated**: 2026-02-02
+
+### P3: Deep review reasons-responsiveness.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers reasons-responsive compatibilism—important for free will discussions. Check philosophical accuracy, ensure proper treatment of Fischer/Ravizza, verify connections to free-will.md, agent-causation.md.
+- **Source**: staleness
 - **Generated**: 2026-02-02
 
 ### P3: Deep review process-and-consciousness.md for quality
