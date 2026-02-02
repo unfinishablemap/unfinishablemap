@@ -43,6 +43,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
+### P2: Update references to coalesced substrate-independence-critique article
+- **Type**: other
+- **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
+- **Source**: coalesce
+- **Generated**: 2026-02-02
+
 ### P2: Write article on attention mechanisms and consciousness interface
 - **Type**: expand-topic
 - **Status**: pending
