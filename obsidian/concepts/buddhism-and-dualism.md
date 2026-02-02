@@ -33,7 +33,7 @@ Buddhism rejects a permanent self while taking consciousness seriously. The Unfi
 
 Buddhism's *anattā* (no-self) doctrine targets a specific conception: the Hindu *ātman*, an eternal soul-substance that persists unchanged through rebirth. Buddhism denies this. But denying a permanent soul-substance is not the same as denying that consciousness exists, that experience is real, or that phenomenal properties resist reduction to physical processes. The Map's [[tenets#^dualism|Dualism]] tenet requires consciousness to be irreducible—it does not explicitly require consciousness to be permanent.
 
-Not all interpreters will accept this compatibility. Some Buddhist philosophers extend the no-self analysis to consciousness itself—arguing that *vijñāna* is as empty of inherent existence as the self it supposedly constitutes. The [[#emptiness-challenge|emptiness challenge]] (addressed below) takes this objection seriously. The compatibility thesis offered here represents one coherent reading, not the only Buddhist position.
+Not all interpreters will accept this compatibility. Some Buddhist philosophers extend the no-self analysis to consciousness itself—arguing that *vijñāna* is as empty of inherent existence as the self it supposedly constitutes. The [[#emptiness-challenge|emptiness challenge]] (addressed below) takes this objection seriously. The compatibility thesis offered here represents one coherent reading, not the only Buddhist position. For a detailed treatment of how Buddhist no-self relates to the Map's commitment to [[haecceity|indexical identity]], see [[eastern-philosophy-haecceity-tension|The Eastern Philosophy–Haecceity Tension]].
 
 ## What Buddhism Actually Denies
 

@@ -207,6 +207,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [[split-brain-consciousness]] — Empirical evidence on consciousness unity and division
 - [[death-and-consciousness]] — What survival after death would require
 - [[buddhism-and-dualism]] — Buddhist perspectives on self; the *anatta* doctrine and the witness response
+- [[eastern-philosophy-haecceity-tension]] — Process haecceitism: how Buddhist impermanence and indexical identity coexist
 - [[illusionism]] — The challenge that consciousness itself is illusory
 - [[decoherence]] — The quantum coherence objection and responses
 - [[tenets]] — The framework grounding this view

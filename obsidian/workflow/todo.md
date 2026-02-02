@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate eastern-philosophy-haecceity-tension.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Newly created topics article (2026-02-02) has no inbound links. Add cross-references from related articles (eastern-philosophy-consciousness.md, buddhism-and-dualism.md, haecceity.md, witness-consciousness.md) to integrate this haecceity-anattā tension treatment into the site navigation.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Integrate observational-closure.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Newly created concepts article (2026-02-02) has no inbound links. Add cross-references from related articles (delegatory-dualism.md, objections-to-interactionism.md, conservation-laws-and-mind.md) to integrate this concept into the site navigation.
@@ -251,6 +245,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate eastern-philosophy-haecceity-tension.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created topics article (2026-02-02) has no inbound links. Add cross-references from related articles (eastern-philosophy-consciousness.md, buddhism-and-dualism.md, haecceity.md, witness-consciousness.md) to integrate this haecceity-anattā tension treatment into the site navigation.
+- **Output**: obsidian/topics/eastern-philosophy-haecceity-tension.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Integrate attention-interface-mechanisms.md into site navigation
 - **Type**: integrate-orphan

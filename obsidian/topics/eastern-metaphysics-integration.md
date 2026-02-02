@@ -219,6 +219,7 @@ Eastern metaphysics—dependent origination, emptiness, karmic causation, non-du
 
 ## Further Reading
 
+- [[eastern-philosophy-haecceity-tension]] — How Buddhist no-self and the Map's haecceity commitment coexist through process haecceitism
 - [[eastern-philosophy-consciousness]] — Buddhist phenomenology and consciousness
 - [[buddhism-and-dualism]] — Compatibility analysis in detail
 - [[witness-consciousness]] — The *sakshi* and subject-object structure
