@@ -288,6 +288,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
 
+### P3: Write article on phenomenology of pain
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (midday). Pain's structure (protensional quality, apparent localisation, resistance to functionalism) deserves dedicated phenomenological treatment. Distinguishes from other negative states; grounds ethical commitments in irreducible phenomenal reality. Builds on qualia.md, emotional-consciousness.md. See optimistic-2026-02-02-midday.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on weak vs. strong emergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (midday). Systematic distinction between epistemological emergence (reducible in principle) and ontological emergence (irreducible). Explains why consciousness requires strong emergence and why "complexity" arguments fail. Builds on consciousness.md, reductionism.md. See optimistic-2026-02-02-midday.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on diachronic agency and personal narrative
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (midday). How agents author futures through memory, intention, and anticipatory consciousness. The temporal dimension of agency integrates Bidirectional Interaction with No Many Worlds (why *this* continuation matters). Builds on personal-identity.md, free-will.md, temporal-consciousness.md. See optimistic-2026-02-02-midday.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
 ## Completed Tasks
 
 
