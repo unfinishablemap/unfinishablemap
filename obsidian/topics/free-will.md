@@ -130,7 +130,7 @@ Sartre's analysis of the *pour-soi* (being-for-itself) illuminates this structur
 
 The [[mental-effort|phenomenology of effort]] supports this picture. If choices were random fluctuations, there would be no phenomenology of effort. The felt cost of concentration reflects genuine causal engagement by the agent. The [[phenomenology-of-choice|phenomenology of choice]] details the experiential structure: felt openness during deliberation, resolution when alternatives collapse, and authorship that follows.
 
-[[consciousness-and-creativity|Creativity]] strengthens the case: consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the space of alternatives.
+[[consciousness-and-creativity|Creativity]] strengthens the case: consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the space of alternatives. Yet the generation process itself is opaque—the [[creativity-void|creativity void]] reveals that we cannot observe ourselves creating, only receive the products of creation.
 
 ## The Capacity to Suspend Selection
 

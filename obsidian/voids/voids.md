@@ -71,6 +71,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[affective-void|The Affective Void]] — Emotions we cannot feel—affects beyond human reach
 - [[memory-void|The Memory Void]] — Whether past qualia can be recovered or are lost forever
 - [[the-unobservable-self|The Unobservable Self]] — The subject that cannot be its own object
+- [[creativity-void|The Creativity Void]] — Where creative insight originates, inaccessible to introspection
 - [[self-reference-paradox|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper
 - [[past-self-void|The Past-Self Void]] — The discontinuity of personal identity over time
 - [[incompleteness-void|The Incompleteness Void]] — Gödel's shadow on self-knowledge

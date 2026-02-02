@@ -79,7 +79,7 @@ Consciousness might be such a mystery. The [[explanatory-gap]] persists despite 
 
 Jerry Fodor's [[conceptual-acquisition-limits|radical concept nativism]] complements McGinn: while McGinn argues we cannot *conceive* certain properties, Fodor argues we cannot *acquire* certain concepts at all. Learning requires already possessing the concept to formulate hypotheses—if it isn't built in, experience cannot produce it.
 
-McGinn's "property P" may be closed because we lack the primitive concepts required to build toward it. This convergence—Fodor on acquisition, McGinn on conception, Rescher's "agnoseology" on unknowability—suggests any mind powerful enough to think some thoughts is thereby prevented from thinking others.
+McGinn's "property P" may be closed because we lack the primitive concepts required to build toward it. This convergence—Fodor on acquisition, McGinn on conception, Rescher's "agnoseology" on unknowability—suggests any mind powerful enough to think some thoughts is thereby prevented from thinking others. The [[creativity-void|creativity void]] exemplifies this: genuine novelty may require conceptual primitives we cannot form, placing certain ideas outside the space of thinkable thoughts.
 
 ## The Intrinsic Nature Connection
 
