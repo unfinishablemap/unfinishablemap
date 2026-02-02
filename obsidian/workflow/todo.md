@@ -49,6 +49,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
+### P2: Write voids article on dream consciousness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-dream-consciousness-void-2026-02-02.md. State-dependent cognitive limits: mixed void combining unexplored (creative territories), unexplorable (dream logic inaccessible from waking), and occluded (memory fades). Builds on dreams-and-consciousness.md, lucid-dreaming-and-consciousness.md, three-kinds-of-void.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Write voids article on introspective opacity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-introspective-opacity-2026-02-01.md. Structural limits on consciousness observing itself in real-time. Introspective opacity as a void within consciousness itself—the observer cannot fully observe its own observing. Builds on the-unobservable-self.md, thoughts-that-slip-away.md, phenomenology-of-the-edge.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Integrate minds-without-words.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Apex article has no inbound links. Add cross-references from related articles (animal-consciousness.md, consciousness-simple-organisms.md, baseline-cognition.md, language-thought-boundary.md) or update apex index page to include navigation to this synthesis piece.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Integrate living-with-the-map.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Apex article has no inbound links. Add cross-references from related articles (meaning-of-life.md, phenomenal-value-realism.md, testing-the-map-from-inside.md) or update apex index page and site navigation to include this practical philosophy piece.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Condense materialism.md (3788 words, 108% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers the materialist position and objections. Preserve core materialist claims and primary objections (hard problem, knowledge argument, explanatory gap). See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
 ### P3: Write article on emergence and strong emergence
 - **Type**: expand-topic
 - **Status**: pending
