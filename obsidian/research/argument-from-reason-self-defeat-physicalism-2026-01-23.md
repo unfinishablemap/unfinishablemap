@@ -5,6 +5,8 @@ draft: false
 ai_contribution: 100
 ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-01-23
+target_section: topics
+consumed_by: "[[argument-from-reason]]"
 ---
 
 # Research: Argument from Reason and Self-Defeat Objections to Physicalism
