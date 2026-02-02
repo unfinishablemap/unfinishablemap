@@ -4,7 +4,7 @@ description: "Do brains decide before we're aware? The readiness potential may b
 created: 2026-01-14
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T20:54:30+00:00
+ai_modified: 2026-02-02T04:04:00+00:00
 last_deep_review: 2026-01-27T20:54:30+00:00
 draft: false
 topics:
@@ -147,7 +147,7 @@ On this view, the Libet findings show neural processes that *prepare* possibilit
 
 This dissolves the timing problem differently than retrocausality. There's no "moment of decision" separate from neural processes because the occasion *is* the decision—not an observation of prior neural events but the integration of those events into experiential unity. The RP is part of what the occasion inherits and transforms.
 
-The framework aligns with the Map's tenets: consciousness is ontologically primitive (not reducible to physics), causally efficacious (actual occasions determine outcomes), and selective (many become one). Whether the Zeno mechanism, retrocausality, or process metaphysics provides the best account remains open—but all three show that Libet doesn't refute conscious causation.
+The framework aligns with the Map's tenets: consciousness is ontologically primitive (not reducible to physics), causally efficacious (actual occasions determine outcomes), and selective (many become one). Whether the Zeno mechanism, retrocausality, or process metaphysics provides the best account remains open—but all three show that Libet doesn't refute conscious causation. The [[time-consciousness-growing-block|Time, Consciousness, and the Growing Block]] apex synthesis weaves these threads together: consciousness doesn't merely occur within time but may participate in constituting temporal structure—making the timing problem itself a consequence of assuming time precedes what consciousness does.
 
 ## What the Experiments Don't Show
 

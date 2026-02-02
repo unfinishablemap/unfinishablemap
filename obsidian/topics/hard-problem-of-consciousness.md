@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-01-31T05:23:00+00:00
+ai_modified: 2026-02-02T04:04:00+00:00
 draft: false
 topics: []
 concepts:
@@ -119,6 +119,8 @@ These features of experience resist assimilation into physical description. See 
 ## Temporal Phenomenology
 
 The hard problem extends beyond static qualia to the [[temporal-consciousness|temporal structure of experience]]. Consciousness *flows*—each moment contains retention of the immediate past, primal impression, and protention of what's coming. No neural description explains why this structure should feel like anything at all. The explanatory gap applies not just to *what* we experience but to *how* we experience.
+
+The [[time-consciousness-growing-block|Time, Consciousness, and the Growing Block]] apex synthesis deepens this temporal dimension: if consciousness constitutes time rather than merely occurring within it, the hard problem becomes even harder. Physical description presupposes time; if time's arrow emerges through consciousness-involving collapse, then physics presupposes what consciousness provides. The reduction would be circular.
 
 See [[temporal-consciousness]] for detailed analysis and [[collapse-and-time]] for the connection between consciousness and the arrow of time.
 

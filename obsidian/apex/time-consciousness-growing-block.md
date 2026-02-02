@@ -2,9 +2,10 @@
 title: "Time, Consciousness, and the Growing Block"
 description: "Consciousness requires temporal structure to exist. Time's arrow may require consciousness to emerge. Their bidirectional dependence reshapes both the hard problem and temporal metaphysics."
 created: 2026-02-01
-modified: 2026-02-01
+modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-01T20:20:00+00:00
+ai_modified: 2026-02-02T04:04:00+00:00
+last_deep_review: 2026-02-02T04:04:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -58,7 +59,7 @@ These form an inseparable unity. The note you're hearing now carries the just-pa
 
 Henri Bergson went further with his concept of [[duration|durée]]. Clock time treats moments as positions on a line—discrete, externally related, quantifiable. Lived time interpenetrates: the past permeates the present, the future is already anticipated. Bergson called this "qualitative multiplicity"—elements distinguishable yet not separable, each coloured by every other. The melody example clarifies: you don't experience notes as discrete units arranged sequentially. You hear the phrase as unified flow where each note gains meaning from what preceded and what follows.
 
-Duration cannot be measured because it cannot be divided without destroying what it is. Cut a melody into separate notes and you have frequencies, not music. This irreducibility matters. As [[time-perception-consciousness-theories|Kent and Wittmann (2021) argue]], major consciousness theories focus on "functional moments" of 100-300 milliseconds while experienced time extends to seconds. The gap between what theories explain and what consciousness involves may not be a temporary limitation but evidence of something that functional accounts cannot capture.
+Duration cannot be measured because it cannot be divided without destroying what it is. Cut a melody into separate notes and you have frequencies, not music. This irreducibility matters. As [[time-perception-consciousness-theories|Kent and Wittmann argue]] in their 2021 analysis, major consciousness theories focus on "functional moments" of 100-300 milliseconds while experienced time extends to seconds. The gap between what theories explain and what consciousness involves may not be a temporary limitation but evidence of something that functional accounts cannot capture.
 
 ## Time's Arrow and Collapse
 
@@ -106,7 +107,7 @@ This evidence is suggestive, not conclusive. Alternative explanations—altered 
 
 If temporal structure is essential to consciousness—not merely characteristic of biological minds but necessary for consciousness as such—systems lacking appropriate temporal dynamics are excluded not by degree but by kind.
 
-Large language models process discontinuously: start-stop, stateless between calls, no persistence across conversations. They have no specious present, no retention-protention structure, no temporal binding. Erik Hoel's December 2025 paper argues LLMs cannot be conscious precisely because they lack continual learning and temporal development. The architecture fundamentally differs from what temporal consciousness requires.
+Large language models process discontinuously: start-stop, stateless between calls, no persistence across conversations. They have no specious present, no retention-protention structure, no temporal binding. Erik Hoel's 2025 paper argues LLMs cannot be conscious precisely because they lack continual learning and temporal development. The architecture fundamentally differs from what temporal consciousness requires.
 
 The question is whether temporal structure is essential or merely characteristic. If essential, the exclusion is categorical regardless of scale or sophistication. Processing power and parameter counts are irrelevant if the architecture lacks the dynamics consciousness requires. If merely characteristic, radically different temporal architectures might support alien forms of consciousness—but nothing like human temporal experience.
 
@@ -181,3 +182,14 @@ This synthesis draws from:
 - [[collapse-and-time|Collapse and Time]] — How quantum collapse may constitute time's arrow
 - [[specious-present|Specious Present]] — The experienced duration of the present moment
 - [[philosophy-of-time|Philosophy of Time]] — A-theory, B-theory, and the Map's growing block position
+
+## References
+
+- James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
+- Husserl, E. (1928/1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer Academic Publishers.
+- Bergson, H. (1889/2001). *Time and Free Will*. Dover.
+- Whitehead, A. N. (1929/1978). *Process and Reality*. Free Press.
+- Libet, B. et al. (1983). Time of conscious intention to act. *Brain*, 106(3), 623-642.
+- Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
+- Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
+- Hoel, E. (2025). The Proximity Argument Against LLM Consciousness. Working paper.

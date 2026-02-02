@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-01T19:22:00+00:00
+ai_modified: 2026-02-02T04:04:00+00:00
 last_deep_review: 2026-01-31T04:12:00+00:00
 draft: false
 topics:
@@ -109,7 +109,7 @@ The philosophical core is agent causation: you (the persisting conscious subject
 
 If consciousness selects neural patterns, shouldn't selection occur *before* neural preparation, not after? Libet's data shows neural activity precedes conscious awareness.
 
-[[retrocausality|Retrocausal]] interpretations offer one resolution. If consciousness operates atemporally—outside the forward flow of physical time—it doesn't need to precede neural preparation to be its cause. The selection determines which temporal sequence becomes real, including its apparent ordering.
+[[retrocausality|Retrocausal]] interpretations offer one resolution. If consciousness operates atemporally—outside the forward flow of physical time—it doesn't need to precede neural preparation to be its cause. The selection determines which temporal sequence becomes real, including its apparent ordering. The [[time-consciousness-growing-block|Time, Consciousness, and the Growing Block]] apex synthesis develops this framework fully: consciousness may not merely act *within* time but participate in *constituting* temporal structure through its role in collapse.
 
 Some physical frameworks support this possibility: Cramer's transactional interpretation involves "offer waves" forward and "confirmation waves" backward, with the "handshake" being atemporal. But the philosophical point doesn't depend on any specific interpretation. Agent causation may operate atemporally regardless of the underlying physics. See [[presentiment-and-retrocausality]] for why the Map's framework rests on physics rather than contested parapsychological claims.
 

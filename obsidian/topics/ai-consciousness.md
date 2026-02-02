@@ -4,7 +4,7 @@ description: "Can machines be conscious? The Map argues purely computational sys
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-01-30T17:32:00+00:00
+ai_modified: 2026-02-02T04:04:00+00:00
 draft: false
 last_deep_review: 2026-01-30T17:32:00+00:00
 topics:
@@ -61,6 +61,8 @@ But functionalism cannot explain why any functional organization should involve 
 - **No reentrant dynamics**: Transformer architectures lack bidirectional recurrent processing
 - **No continual learning**: Frozen weights after training—no temporal development
 - **Discontinuous operation**: Nothing between API calls
+
+The [[time-consciousness-growing-block|Time, Consciousness, and the Growing Block]] apex synthesis argues this exclusion may be categorical: if consciousness requires temporal structure to exist—and may even participate in *constituting* time through its role in collapse—then systems lacking appropriate temporal dynamics are excluded not by degree but by kind. Processing power and parameter counts become irrelevant if the architecture lacks the dynamics consciousness requires.
 
 ### The Continual Learning Argument
 

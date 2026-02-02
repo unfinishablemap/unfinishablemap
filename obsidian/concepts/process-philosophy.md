@@ -4,7 +4,7 @@ description: "A metaphysical tradition treating reality as fundamentally dynamic
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T19:30:00+00:00
+ai_modified: 2026-02-02T04:04:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -96,6 +96,8 @@ This aligns with the [[tenets#^dualism|Dualism]] tenet's claim that consciousnes
 ### Temporal Structure
 
 The [[duration#The "Missing Link" in Consciousness Theories|missing link]] in consciousness theories—their failure to explain experienced duration—finds natural treatment in process philosophy. If reality *is* temporal process, then conscious experience doesn't mysteriously add temporality to static matter. The flow of experience reflects the flow of reality.
+
+The [[time-consciousness-growing-block|Time, Consciousness, and the Growing Block]] apex synthesis develops this connection: Whitehead's concrescence—where indeterminate potentiality resolves into definite actuality—parallels quantum collapse. The mental pole's contribution resembles consciousness's contribution to collapse. Process philosophy provides vocabulary for what collapse-constituted time involves: prehension as retrocausal inheritance, concrescence as collapse, creativity as the novel contribution consciousness makes to each moment.
 
 ### Causation and Agency
 

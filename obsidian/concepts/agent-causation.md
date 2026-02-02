@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly, not
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-31T10:08:00+00:00
+ai_modified: 2026-02-02T04:04:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -97,7 +97,7 @@ The Map satisfies both conditions for free will:
 - **Sourcehood**: Consciousness selects which quantum outcome becomes actual
 - **Alternative possibilities**: Multiple outcomes were genuinely possible until selection
 
-The [[retrocausality|retrocausal dimension]] deepens this: if selection is atemporal, determining which temporal history becomes real, the agent is "the cause of there being this chain at all."
+The [[retrocausality|retrocausal dimension]] deepens this: if selection is atemporal, determining which temporal history becomes real, the agent is "the cause of there being this chain at all." The [[time-consciousness-growing-block|Time, Consciousness, and the Growing Block]] apex synthesis develops the full implications: agents don't just act *within* time—they participate in time's constitution. If collapse creates temporal direction, and consciousness participates in collapse, then agent causation becomes participation in creating the temporal structure within which actions unfold.
 
 ## Skill Delegation and the Interface
 
