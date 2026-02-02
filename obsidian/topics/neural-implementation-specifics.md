@@ -4,7 +4,7 @@ description: "Evaluating quantum neural mechanism evidence. Radical pairs lead, 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T21:37:00+00:00
+ai_modified: 2026-02-02T07:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
+last_deep_review: 2026-02-02T07:12:00+00:00
 ---
 
 Five quantum mechanisms have been proposed for neural systems, but they differ dramatically in evidential support. Radical pair effects have the strongest experimental foundation—the quantum Zeno effect in cryptochrome has been directly demonstrated, and avian magnetoreception provides a working biological precedent. Microtubule coherence has gained recent support from anesthetic studies and room-temperature super-radiance demonstrations, though the Orch OR collapse mechanism remains unverified. Ion channel tunneling, SNARE protein tunneling, and Posner molecule entanglement remain primarily theoretical. Crucially, specific experiments could distinguish among these mechanisms: isotope substitution studies, targeted pharmacological interventions, and correlation of quantum signatures with consciousness level. The Unfinishable Map does not commit to any specific mechanism but tracks which proposals best satisfy empirical constraints.
@@ -57,7 +58,7 @@ Radical pair mechanisms have the firmest experimental foundation among quantum n
 
 **Established biological precedent.** Avian magnetoreception—how migratory birds navigate using Earth's magnetic field—operates through quantum spin coherence in cryptochrome proteins. Birds don't merely detect magnetic fields; they see them, overlaying directional information onto visual perception. This isn't theoretical; it's working biology.
 
-**Microsecond coherence times.** Spin-correlated radical pairs maintain coherence for microseconds (10⁻⁶ seconds), seven orders of magnitude longer than Tegmark's femtosecond estimates for ion channels. This brings quantum effects into the range of neural timescales.
+**Microsecond coherence times.** Spin-correlated radical pairs maintain coherence for microseconds (10⁻⁶ seconds), seven orders of magnitude longer than Tegmark's femtosecond estimates for ion channels. Importantly, Tegmark's objection concerned quantum *computation*—the maintenance of superpositions that affect neural processing—not quantum effects per se. Radical pairs demonstrate that biologically relevant quantum coherence can occur at neural timescales, though whether they participate in computation remains unestablished.
 
 **Experimental accessibility.** The mechanism is testable: magnetic field perturbations, light wavelength manipulation, and cryptochrome knockouts all produce predictable effects.
 
@@ -77,7 +78,7 @@ Microtubule-based proposals—particularly Penrose and Hameroff's [[quantum-cons
 
 **Epothilone B delays anesthesia (Li et al. 2024).** When rats receive epothilone B (a microtubule-binding drug that stabilises tubulin), anesthesia onset is delayed. The implication: strengthening microtubule structure increases resistance to consciousness loss.
 
-**Room-temperature super-radiance (Babcock et al. 2024).** Quantum super-radiance—collective quantum emission—demonstrated in tryptophan networks relevant to microtubule aromatic residue clusters. This establishes that room-temperature quantum coherence can occur in microtubule-relevant structures.
+**Room-temperature super-radiance.** According to Wiest's 2025 review, quantum super-radiance—collective quantum emission—has been demonstrated in tryptophan networks relevant to microtubule aromatic residue clusters. This suggests that room-temperature quantum coherence can occur in microtubule-relevant structures, though the evidence remains under evaluation.
 
 ### What Remains Unverified
 
@@ -209,6 +210,10 @@ The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Int
 
 The evidence hierarchy shows that not all quantum consciousness proposals are equally speculative. Radical pair mechanisms operate in biology *now*; microtubule effects gain experimental support; other mechanisms await basic verification. This matters for the Map's position: the case for quantum consciousness doesn't rest on a single speculative proposal but on a range of candidates with varying evidential support.
 
+**Connection to [[tenets#^dualism|Dualism]]:**
+
+These mechanisms matter because they provide potential loci for non-physical causation. If consciousness is irreducible to physical processes (as the Map's first tenet holds), it must interact with the physical world somewhere. Quantum indeterminacies offer the only known gap in physical causal closure—places where physics permits but does not determine outcomes. The mechanisms surveyed here identify where in neural tissue such gaps might exist and how consciousness might exploit them.
+
 **What distinguishes the Map's approach:**
 
 Many discussions of quantum consciousness conflate theoretical possibility with empirical support. By tracking which mechanisms have evidence and what experiments would test them, the Map maintains intellectual honesty about what we know and don't know. The radical pair mechanism proves that quantum effects can operate at neural-relevant timescales; whether they do so in ways relevant to consciousness remains the open question.
@@ -235,7 +240,6 @@ None of these has been demonstrated to be the *actual* mechanism of conscious in
 ## References
 
 - Atkins, C., et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 12456.
-- Babcock, N. S., et al. (2024). Super-radiance reveals infinite-range dipole interactions through a nanofiber. *Physical Review X*, 14(4), 041050.
 - Beck, F., & Eccles, J. C. (1992). Quantum aspects of brain activity and the role of consciousness. *PNAS*, 89(23), 11357-11361.
 - Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 - Georgiev, D. D. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*, 135, 16-29.
