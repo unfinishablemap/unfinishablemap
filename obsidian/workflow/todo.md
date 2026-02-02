@@ -371,6 +371,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
 
+### P3: Write article on phenomenology of surprise and prediction error
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (evening). How the felt quality of surprise relates to prediction error. If surprise triggers learning and is phenomenally real, consciousness does causal work. Builds on predictive-processing.md, phenomenology-of-understanding.md, epistemic-emotions.md. See optimistic-2026-02-02-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on modal structure of phenomenal properties
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (evening). Why phenomenal properties are conceivably absent (zombies) or inverted when physical properties aren't. Kripke's necessary a posteriori argument for identity and why it stumbles on phenomenal properties. Builds on qualia.md, philosophical-zombies.md, knowledge-argument.md. See optimistic-2026-02-02-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on phenomenology of returning attention
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (evening). What happens phenomenologically when attention wanders and returns? The "moment of return" has distinctive phenomenal character. Prime territory for attention-as-interface hypothesis. Builds on voluntary-attention.md, mental-effort.md, meditation-and-consciousness-modes.md. See optimistic-2026-02-02-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Create concept page for phenomenal transparency
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (evening). The property that experience seems to be directly about the world. Mentioned in several articles but not defined. Relevant to why naive realism seems intuitive. See optimistic-2026-02-02-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Create concept page for conceivability-possibility inference
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (evening). The logical move from "conceivable" to "possible" that grounds zombie and knowledge arguments. Currently discussed in context but deserves systematic treatment. See optimistic-2026-02-02-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
 ## Completed Tasks
 
 
