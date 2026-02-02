@@ -4,7 +4,7 @@ description: "How consciousness weaves disparate meanings into unified understan
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-02T07:59:00+00:00
+ai_modified: 2026-02-02T11:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,6 +32,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
+last_deep_review: 2026-02-02T11:02:00+00:00
 ---
 
 Consciousness doesn't just bind perceptual features into unified experience—it weaves meanings into coherent wholes. When you understand a complex argument, grasp a life's trajectory, or see how disparate ideas connect, something integrates semantic content into unified comprehension. This meaning integration is distinct from both the [[binding-problem|perceptual binding problem]] (how visual features combine) and the [[meaning-and-consciousness|phenomenal constitution thesis]] (whether understanding requires consciousness). It concerns how consciousness creates coherent meaningful wholes from disparate semantic elements. The Unfinishable Map holds that this integration is irreducibly phenomenal: the unity of understanding cannot be decomposed into separately grasped meanings that merely correlate.
@@ -59,6 +60,8 @@ Meaning integration inherits this difficulty and adds another layer. Semantic co
 [[global-workspace-theory|Global workspace theory]] proposes that conscious contents are those broadcast widely across cortical regions. This might explain how multiple meanings become simultaneously available. But availability isn't integration. Information can be globally broadcast without forming a coherent whole. The reader who remembers all the premises of an argument without seeing how they connect has availability without integration.
 
 [[working-memory|Working memory]] models face the same gap. They explain how multiple items can be maintained simultaneously. But maintaining three meanings isn't the same as grasping their unity. Phonological rehearsal keeps items accessible; it doesn't weave them into coherent understanding.
+
+A functionalist might object that coordination *is* integration—that availability just is unified understanding, functionally defined. But this response faces the same challenge as functionalism about phenomenal consciousness generally. You can functionally specify "information available for global report" without capturing what it is to *understand* that information. The person who can correctly repeat all the premises but doesn't see how they connect satisfies functional coordination conditions while lacking the integrated comprehension that understanding involves.
 
 The integration problem for meaning mirrors the binding problem for perception: coordinating separate processes doesn't explain why coordination produces unified comprehension.
 
@@ -120,7 +123,7 @@ The claim that meaning integration is irreducibly phenomenal makes predictions:
 
 **2. Phenomenal complexity scaling.** Integrating more meanings should involve more phenomenologically complex experience. Understanding a three-premise argument should feel different from understanding a twelve-premise argument, beyond just taking longer.
 
-**3. Integration-without-coordination impossibility.** If conscious integration is what unifies meanings, you should not be able to experience unified understanding when the semantic elements aren't actually coordinated. Unlike perceptual binding (where illusions occur), semantic integration should track actual semantic relations.
+**3. Integration-error phenomenology.** Semantic illusions do occur—we sometimes experience confident understanding that later proves mistaken. But the phenomenology of genuine integration should differ from illusory integration in ways introspection can detect. If no phenomenal distinction exists between genuine and spurious understanding, the phenomenal-integration view would be undermined. The prediction is not that semantic illusions are impossible, but that they differ phenomenally from genuine integration when examined closely.
 
 **4. Contemplative accessibility.** Trained introspectors should be able to observe meaning integration as it occurs—the process of separate considerations cohering into unified understanding. If integration were subpersonal, this observation should be impossible.
 
@@ -143,9 +146,7 @@ These conditions distinguish the phenomenal-integration view from alternatives w
 - [[meaning-and-consciousness]] — The phenomenal constitution thesis for semantic understanding
 - [[meaning-of-life]] — Consciousness-grounded meaning and existential significance
 - [[binding-problem]] — Comprehensive treatment of perceptual binding and its relation to meaning unity
-- [[binding-problem]] — Comprehensive treatment of computational vs. phenomenal binding
 - [[cognitive-phenomenology]] — The experiential character of thinking
-- narrative-identity — How life-narrative requires meaning integration
 - [[autonoetic-consciousness]] — Mental time travel and temporal integration
 - [[working-memory]] — Information maintenance vs. integrative comprehension
 - [[global-workspace-theory]] — Availability distinguished from integration
