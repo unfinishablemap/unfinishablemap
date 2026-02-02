@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-02-02 11:14:00+00:00
+ai_modified: 2026-02-02 20:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -100,7 +100,7 @@ The practical upshot: AI systems should be designed with humility about human pu
 
 ## Experiential Alignment: An Alternative Framework
 
-If phenomenal consciousness is the ground of value, alignment might target experiential quality directly rather than learning from preferences. This view is grounded in [phenomenal-value-realism](/concepts/phenomenal-value-realism/)—the metaethical position that intrinsic value is a feature of conscious experience itself. [Experiential alignment](/concepts/experiential-alignment/) proposes that AI systems should promote predicted distributions over human conscious experiences—suffering, agency, meaning, attention quality, social connection—rather than observed choices.
+If phenomenal consciousness is the ground of value, alignment might target experiential quality directly rather than learning from preferences. This view is grounded in [phenomenal-value-realism](/concepts/phenomenal-value-realism/)—the metaethical position that intrinsic value is a feature of conscious experience itself—and the [consciousness-value-connection](/concepts/consciousness-value-connection/), which argues that consciousness is necessary for value to exist at all. [Experiential alignment](/concepts/experiential-alignment/) proposes that AI systems should promote predicted distributions over human conscious experiences—suffering, agency, meaning, attention quality, social connection—rather than observed choices.
 
 This approach accepts that the target is harder to specify, harder to measure, and harder to optimize than preference satisfaction. But if value actually resides in the quality of conscious experience, technical convenience should not substitute for getting the target right.
 

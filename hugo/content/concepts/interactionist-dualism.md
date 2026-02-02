@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-02 11:07:00+00:00
+ai_modified: 2026-02-02 21:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -248,7 +248,7 @@ This remains an active empirical question. The Map takes no position on which qu
 
 ## Agent Causation: The Metaphysical Framework
 
-The quantum mechanisms describe *where* consciousness interfaces with physics. [Agent causation](/concepts/agent-causation/) provides the metaphysical framework for *what* is happening at that interface. The [causal interface](/voids/causal-interface/) itself remains systematically opaque—invisible from both first-person introspection and third-person observation—as predicted by minimal interaction.
+The quantum mechanisms describe *where* consciousness interfaces with physics. [Agent causation](/concepts/agent-causation/)—a specific application of [substance causation](/concepts/substance-causation/)—provides the metaphysical framework for *what* is happening at that interface. The [causal interface](/voids/causal-interface/) itself remains systematically opaque—invisible from both first-person introspection and third-person observation—as predicted by minimal interaction.
 
 Interactionist dualism requires the conscious subject—as a persisting substance—to directly cause physical outcomes (*agent causation*), not merely events causing events. Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). When I decide to speak, *I* cause the speaking.
 

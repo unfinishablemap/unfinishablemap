@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-02 11:14:00+00:00
+ai_modified: 2026-02-02 20:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -44,7 +44,7 @@ This article consolidates and extends the ethical themes scattered across [anima
 
 ## The Foundation: Why Consciousness Grounds Ethics
 
-Diverse philosophical traditions converge on consciousness as the foundation of moral status: Bentham's utilitarian criterion of suffering capacity, Kantian dignity requiring a conscious deliberator, virtue ethics' experiential conception of flourishing, Regan's rights-based "subjects of a life," and Buddhist *ahimsa* presupposing experiencers who suffer. This convergence across traditions that disagree about nearly everything else suggests consciousness is genuinely foundational.
+Diverse philosophical traditions converge on consciousness as the foundation of moral status: Bentham's utilitarian criterion of suffering capacity, Kantian dignity requiring a conscious deliberator, virtue ethics' experiential conception of flourishing, Regan's rights-based "subjects of a life," and Buddhist *ahimsa* presupposing experiencers who suffer. This convergence across traditions that disagree about nearly everything else suggests consciousness is genuinely foundational. The [consciousness-value-connection](/concepts/consciousness-value-connection/) explains why: without phenomenal experience—without there being something it is like to be something—nothing can possess intrinsic value.
 
 The Buddhist case deserves closer attention, as it poses a potential challenge. Buddhist philosophy holds that consciousness, like all phenomena, is empty (*śūnyatā*)—dependently arisen and lacking inherent existence. If consciousness has no substantial self-nature, how can it ground ethics? The response: emptiness doesn't mean nonexistence but rather that suffering arises interdependently within the flow of experience. Compassion (*karuṇā*) responds to this dependently-arisen suffering precisely because there is suffering that matters, even without a permanent self who suffers. The ethical imperative survives the metaphysical deflation.
 

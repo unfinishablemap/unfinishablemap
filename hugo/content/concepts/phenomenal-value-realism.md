@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-02 11:14:00+00:00
+ai_modified: 2026-02-02 20:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -39,7 +39,7 @@ topics:
 
 Phenomenal value realism is the metaethical view that intrinsic value is a feature of conscious experience itself. On this view, the positive quality of pleasure and the negative quality of suffering are not merely correlated with value or indicative of it—they *constitute* what value is. To experience pleasure just is to instantiate intrinsic goodness; to suffer just is to instantiate intrinsic badness.
 
-The Unfinishable Map is committed to a version of phenomenal value realism: consciousness grounds value, and without conscious experience, nothing has intrinsic worth.
+The Unfinishable Map is committed to a version of phenomenal value realism: consciousness grounds value, and without conscious experience, nothing has intrinsic worth. This commitment is developed in the [consciousness-value-connection](/concepts/consciousness-value-connection/) article, which argues that value requires mattering and mattering requires phenomenal experience.
 
 ## The Core Claim
 

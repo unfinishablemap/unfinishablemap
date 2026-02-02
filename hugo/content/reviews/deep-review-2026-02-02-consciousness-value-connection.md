@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 11:32:00+00:00
+ai_modified: 2026-02-02 20:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts: []
@@ -54,9 +54,19 @@ Six sympathetic philosopher personas (Property Dualist, Quantum Mind Theorist, P
 - Added cross-link to introspection when discussing direct phenomenal access
 - Added cross-link to free-will in bidirectional interaction section
 
-### Cross-links Added
+### Cross-links Added (Outbound)
 - [introspection](/concepts/introspection/)
 - [free-will](/topics/free-will/)
+
+### Cross-links Added (Inbound - Orphan Integration)
+The article was identified as orphaned (no inbound links). Added backlinks from:
+- [ethics-of-consciousness](/topics/ethics-of-consciousness/) — in "The Foundation: Why Consciousness Grounds Ethics" section
+- [meaning-of-life](/topics/meaning-of-life/) — in "Consciousness as Foundational" section
+- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — in opening section
+- [purpose-and-alignment](/topics/purpose-and-alignment/) — in "Experiential Alignment" section
+- [experiential-alignment](/concepts/experiential-alignment/) — in opening section
+- [animal-consciousness](/topics/animal-consciousness/) — in "The Scientific Consensus" section
+- [moral-responsibility](/concepts/moral-responsibility/) — in "The Role of Consciousness" section
 
 ## Remaining Items
 

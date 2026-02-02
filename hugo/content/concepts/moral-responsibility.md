@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-02 04:46:00+00:00
+ai_modified: 2026-02-02 20:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -77,7 +77,7 @@ Compatibilist desert is pragmatic: holding people responsible has good consequen
 
 ## The Role of Consciousness
 
-Moral responsibility requires consciousness. The agent that sources action is a conscious being with [mental causation](/concepts/mental-causation/).
+Moral responsibility requires consciousness. The agent that sources action is a conscious being with [mental causation](/concepts/mental-causation/). This connects to the [consciousness-value-connection](/concepts/consciousness-value-connection/): just as consciousness grounds moral patienthood (who can be harmed), it grounds moral agency (who can be responsible). Only a conscious being can genuinely author choices for which they deserve praise or blame.
 
 **Experience of alternatives**: Conscious choice involves experiencing alternatives as live options. Under agent causation, this phenomenology tracks reality—the alternatives were genuinely possible.
 

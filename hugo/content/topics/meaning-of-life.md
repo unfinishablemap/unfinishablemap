@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-02 11:14:00+00:00
+ai_modified: 2026-02-02 20:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -77,7 +77,7 @@ The Map's framework suggests a fifth option: meaning grounded in consciousness i
 
 The [Dualism](/tenets/#dualism) tenet holds that consciousness is not reducible to physical processes—it's a fundamental feature of reality, not an emergent byproduct. If consciousness is fundamental, it doesn't need external grounding.
 
-This avoids the supernaturalist's reliance on God while grounding meaning in something objective—the intrinsic nature of conscious experience. Meaning isn't invented by subjects (subjectivism) or grounded in abstract values floating free of reality. It's grounded in the reality of consciousness itself.
+This avoids the supernaturalist's reliance on God while grounding meaning in something objective—the intrinsic nature of conscious experience. Meaning isn't invented by subjects (subjectivism) or grounded in abstract values floating free of reality. It's grounded in the reality of consciousness itself. The [consciousness-value-connection](/concepts/consciousness-value-connection/) makes the case: value requires mattering, mattering requires experience, so consciousness is necessary for value to exist at all.
 
 ### Conscious Experience Has Intrinsic Value
 

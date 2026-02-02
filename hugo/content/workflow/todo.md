@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02 14:14:00+00:00
+ai_modified: 2026-02-02 22:27:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,24 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate dream-consciousness-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Newly created voids article (2026-02-02) has no inbound links. Covers state-dependent cognitive limits—the mixed void combining unexplored creative territories, unexplorable dream logic, and occluded fading memory. Add cross-references from dreams-and-consciousness.md, lucid-dreaming-and-consciousness.md, three-kinds-of-void.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
-### P2: Condense arguments/materialism.md (3788 words, 152% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core arguments against materialism (hard problem, knowledge argument, explanatory gap, conceivability). Previous condense on concepts/materialism.md succeeded but arguments/ version needs separate treatment. Preserve formal argument structure while deferring detailed engagement to concept pages.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
-### P2: Condense arguments/many-worlds.md (3704 words, 148% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core arguments against Many Worlds Interpretation from indexical identity perspective. Directly supports No Many Worlds tenet. Preserve vertiginous question discussion and formal arguments while consolidating with many-worlds.md concept page treatment.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -66,6 +48,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
+- **Generated**: 2026-02-02
+
+### P2: Write voids article on the scale void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-scale-void-2026-02-02.md. Human consciousness operates within narrow "perceptual bandwidth" calibrated for survival. When confronted with cosmic distances, deep time, quantum phenomena, or large numbers, cognition fails qualitatively, not just quantitatively. Covers Kant's sublime, numeracy limits, evolutionary mismatch. Connects to mathematical-void.md, embodiment-cognitive-limits.md, phenomenology-of-the-edge.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Write voids article on the dreamless sleep void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-dreamless-sleep-void-2026-02-02.md. Where does consciousness go during dreamless sleep? This gap cannot be observed directly because observation requires the very consciousness whose absence is in question. Covers Advaita Vedanta's sushupti/turiya analysis, Metzinger's Minimal Phenomenal Experience project, questions of personal identity continuity. Connects to the-unobservable-self.md, memory-void.md, consciousness-only-territories.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Write article on retrocausal neural firing and presentiment
+- **Type**: expand-topic
+- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Explores whether quantum retrocausality could underlie presentiment phenomena—neural responses preceding stimuli. Controversial but relevant to the Map's Minimal Quantum Interaction tenet and time-symmetric physics discussions. Connects to time-symmetric-physics.md, quantum-consciousness.md, neural-correlates-of-consciousness.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Integrate time-symmetric-physics.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept article (deep-reviewed 2026-02-02) has no inbound links. Covers retrocausality and time-symmetric QM interpretations—directly relevant to Minimal Quantum Interaction tenet. Add cross-references from quantum-consciousness.md, quantum-interpretations.md, stapp-quantum-mind.md, measurement-problem.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Integrate leibnizs-mill-argument.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Leibniz's mill argument is a classic dualist thought experiment showing consciousness cannot arise from mechanical operations. Add cross-references from arguments-for-dualism.md, chinese-room.md, functionalism.md, machine-consciousness.md.
+- **Source**: orphan_integration
 - **Generated**: 2026-02-02
 
 ### P3: Deep review contemplative-path.md for quality
@@ -90,6 +102,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Technical article on candidate neural sites for the consciousness-brain interface. Check empirical claims, ensure alignment with Map's framework, verify connections to attention-interface-mechanisms.md.
 - **Source**: staleness
+- **Generated**: 2026-02-02
+
+### P3: Deep review alien-minds-void-explorers.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores how non-human minds might serve as "void explorers" accessing cognitive territories inaccessible to humans. Check philosophical rigor, ensure alignment with Map's framework, verify connections to other-minds-void.md, consciousness-only-territories.md.
+- **Source**: staleness
+- **Generated**: 2026-02-02
+
+### P3: Deep review causal-interface.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Covers the void at the causal interface between consciousness and physics—what cannot be known about how the coupling actually works. Verify philosophical accuracy, check connections to psychophysical-coupling-mechanisms.md, minimal-quantum-interaction arguments.
+- **Source**: staleness
+- **Generated**: 2026-02-02
+
+### P3: Integrate phenomenology-of-understanding.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers the phenomenology of understanding—what it feels like to grasp something. Central to the Map's arguments about consciousness and meaning. Add cross-references from phenomenology-of-choice.md, consciousness-and-mathematical-understanding.md, epistemic-emotions.md.
+- **Source**: orphan_integration
 - **Generated**: 2026-02-02
 
 ### P3: Write article on emergence and strong emergence
@@ -372,8 +402,93 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
 
+### P3: Write article on phenomenology of surprise and prediction error
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (evening). How the felt quality of surprise relates to prediction error. If surprise triggers learning and is phenomenally real, consciousness does causal work. Builds on predictive-processing.md, phenomenology-of-understanding.md, epistemic-emotions.md. See optimistic-2026-02-02-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on modal structure of phenomenal properties
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (evening). Why phenomenal properties are conceivably absent (zombies) or inverted when physical properties aren't. Kripke's necessary a posteriori argument for identity and why it stumbles on phenomenal properties. Builds on qualia.md, philosophical-zombies.md, knowledge-argument.md. See optimistic-2026-02-02-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Write article on phenomenology of returning attention
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (evening). What happens phenomenologically when attention wanders and returns? The "moment of return" has distinctive phenomenal character. Prime territory for attention-as-interface hypothesis. Builds on voluntary-attention.md, mental-effort.md, meditation-and-consciousness-modes.md. See optimistic-2026-02-02-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Create concept page for phenomenal transparency
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (evening). The property that experience seems to be directly about the world. Mentioned in several articles but not defined. Relevant to why naive realism seems intuitive. See optimistic-2026-02-02-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
+### P3: Create concept page for conceivability-possibility inference
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-02 (evening). The logical move from "conceivable" to "possible" that grounds zombie and knowledge arguments. Currently discussed in context but deserves systematic treatment. See optimistic-2026-02-02-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-02
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write voids article on the normative void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-normative-void-2026-02-02.md. Are there moral truths we cannot access? Ethical concepts we cannot form? Explores cognitive limits on moral knowledge—the possibility that human minds are structurally incapable of grasping certain ethical facts. Covers Sharon Street's evolutionary debunking, Williams's tragic dilemmas, McGinn's mysterianism applied to ethics. Connects to meaning-of-life.md, phenomenal-value-realism.md, alien-minds-void-explorers.md.
+- **Output**: Write voids article on the normative void
+
+### ✓ 2026-02-02: Condense arguments/many-worlds.md (3704 words, 106% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core philosophical arguments against Many Worlds Interpretation from indexical identity perspective. Directly supports No Many Worlds tenet. Preserve vertiginous question discussion and formal arguments while consolidating with many-worlds.md concept page treatment.
+- **Output**: obsidian/concepts/many-worlds.md
+
+### ✓ 2026-02-02: Condense arguments/materialism.md (3788 words, 108% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers core philosophical arguments against materialism (hard problem, knowledge argument, explanatory gap, conceivability). Preserve formal argument structure and tenet connections while removing redundancy with concept pages like materialism.md.
+- **Output**: obsidian/concepts/materialism.md
+
+### ✓ 2026-02-02: Cross-review qualia.md considering emotional valence article
+- **Type**: cross-review
+- **Notes**: New topic article topics/emotional-consciousness.md (expanded 2026-02-02) develops the phenomenal character of hedonic experience. The qualia.md concept page should be cross-reviewed for: (1) cross-links to emotional consciousness treatment, (2) reinforcing valence as paradigm qualia, (3) ensuring consistent treatment of the felt quality problem across articles.
+- **Output**: obsidian/concepts/qualia.md -- Context: Cross-review qualia.md considering emotional valence article
+
+### ✓ 2026-02-02: Integrate substance-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created concept (2026-02-02) has no inbound links. Covers E.J. Lowe's view that all causation is fundamentally agents exercising powers—important for the Map's agent-causation arguments. Add cross-references from agent-causation.md, interactionist-dualism.md, mental-causation.md, downward-causation.md.
+- **Output**: obsidian/concepts/substance-causation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Integrate consciousness-value-connection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created concept (2026-02-02) has no inbound links. Covers how consciousness grounds value—the consciousness-value connection is central to the Map's meaning-of-life treatment. Add cross-references from meaning-of-life.md, phenomenal-value-realism.md, epistemic-advantages-of-dualism.md, emotional-consciousness.md.
+- **Output**: obsidian/concepts/consciousness-value-connection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Condense arguments/functionalism.md (4250 words, 121% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers the functionalist position and its problems. Despite multiple previous condense attempts, still over limit. Focus on: removing redundant examples, consolidating overlapping arguments, deferring detailed treatment to linked concept pages. Core arguments (absent qualia, inverted qualia, Chinese Room) must be preserved.
+- **Output**: obsidian/concepts/functionalism.md
+
+### ✓ 2026-02-02: Condense arguments/many-worlds.md (3704 words, 148% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core arguments against Many Worlds Interpretation from indexical identity perspective. Directly supports No Many Worlds tenet. Preserve vertiginous question discussion and formal arguments while consolidating with many-worlds.md concept page treatment.
+- **Output**: obsidian/concepts/many-worlds.md
+
+### ✓ 2026-02-02: Condense arguments/materialism.md (3788 words, 152% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core arguments against materialism (hard problem, knowledge argument, explanatory gap, conceivability). Previous condense on concepts/materialism.md succeeded but arguments/ version needs separate treatment. Preserve formal argument structure while deferring detailed engagement to concept pages.
+- **Output**: obsidian/concepts/materialism.md
+
+### ✓ 2026-02-02: Integrate dream-consciousness-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created voids article (2026-02-02) has no inbound links. Covers state-dependent cognitive limits—the mixed void combining unexplored creative territories, unexplorable dream logic, and occluded fading memory. Add cross-references from dreams-and-consciousness.md, lucid-dreaming-and-consciousness.md, three-kinds-of-void.md.
+- **Output**: obsidian/voids/dream-consciousness-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Integrate death-void.md into site navigation
 - **Type**: integrate-orphan

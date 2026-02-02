@@ -169,6 +169,7 @@ The Map's interpretation would face difficulty if:
 - [haecceity](/concepts/haecceity/) — Indexical identity through the sleep-wake gap
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Sleep within the broader taxonomy of ASCs
 - [sleep-memory-consolidation-consciousness-2026-01-18](/research/sleep-memory-consolidation-consciousness-2026-01-18/) — Detailed research notes
+- [The Dream Consciousness Void](/voids/dream-consciousness-void/) — Why waking cannot access dreaming and dreaming cannot access waking
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-02-02 13:59:00+00:00
+ai_modified: 2026-02-02 21:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -36,12 +36,13 @@ description: The intrinsic, subjective qualities of conscious experience—the r
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 19:00:00+00:00
+last_deep_review: 2026-02-02 21:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[materialism]]'
 - '[[functionalism]]'
+- '[[emotional-consciousness]]'
 title: Qualia
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -55,7 +56,7 @@ Qualia are closely related to [phenomenal-consciousness](/concepts/phenomenal-co
 
 ## Why Qualia Matter
 
-Qualia sit at the heart of the [hard problem of consciousness](/topics/hard-problem-of-consciousness/). We can explain the neurological processes that detect light wavelengths, but no amount of neurological detail tells us *why* there is something it is like to see red rather than nothing at all. The explanatory gap between physical description and subjective experience remains unbridged.
+Qualia sit at the heart of the [hard problem of consciousness](/topics/hard-problem-of-consciousness/). We can explain the neurological processes that detect light wavelengths, but no amount of neurological detail tells us *why* there is something it is like to see red rather than nothing at all. The explanatory gap between physical description and subjective experience remains unbridged. [Emotional valence](/archive/concepts/emotional-consciousness/)—the felt badness of pain and goodness of pleasure—provides perhaps the starkest case: pain asymbolia patients prove that functional pain processing without the felt quality loses its motivational force.
 
 Consider two scenarios:
 1. A neuroscientist gives a complete account of pain—nerve fibers, neurotransmitter release, brain regions activated
@@ -69,7 +70,7 @@ Philosophers have characterised qualia in various ways:
 
 ### Intrinsic
 
-Qualia are not relational—they are properties of experience itself, not of how experience relates to the world. The redness of red is intrinsic to the experience, not defined by what red things have in common.
+Qualia are not relational—they are properties of experience itself, not of how experience relates to the world. The redness of red is intrinsic to the experience, not defined by what red things have in common. Emotional valence exemplifies this: the badness of pain is not *about* anything external—it is a property of the pain itself.
 
 ### Private
 

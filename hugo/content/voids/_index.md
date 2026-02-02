@@ -79,6 +79,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
 - [The Past-Self Void](/voids/past-self-void/) — The discontinuity of personal identity over time
 - [The Incompleteness Void](/voids/incompleteness-void/) — Gödel's shadow on self-knowledge
+- [The Dream Consciousness Void](/voids/dream-consciousness-void/) — Bidirectional inaccessibility between waking and dreaming
 
 ### Phenomenology of Limits
 

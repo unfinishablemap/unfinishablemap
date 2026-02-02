@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-02-02 18:28:00+00:00
+ai_modified: 2026-02-02 21:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -196,7 +196,8 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — the Map's framework defending downward causation
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view denying downward causation
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The mechanism for consciousness-brain interaction
-- [agent-causation](/concepts/agent-causation/) — The metaphysical framework for substance causation
+- [agent-causation](/concepts/agent-causation/) — Agent causation as substance causation applied to free action
+- [substance-causation](/concepts/substance-causation/) — The metaphysical thesis that substances, not events, are fundamental causal agents
 - [many-worlds](/arguments/many-worlds/) — Why the Map rejects MWI (and why it matters for downward causation)
 - [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness exists
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening

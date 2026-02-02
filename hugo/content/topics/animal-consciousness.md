@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-02 04:39:00+00:00
+ai_modified: 2026-02-02 20:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -55,7 +55,7 @@ Animal consciousness presents the [problem-of-other-minds](/concepts/problem-of-
 
 Two major declarations mark growing agreement. The **Cambridge Declaration on Consciousness (2012)** concluded that mammals, birds, and octopuses "possess the neurological substrates that generate consciousness." The **New York Declaration on Animal Consciousness (2024)**, signed by over 500 scientists and philosophers, extended this to "a realistic possibility" for all vertebrates and many invertebrates including insects: "If there's 'a realistic possibility' of conscious experience in an animal, it is irresponsible to ignore that possibility."
 
-These declarations identify *correlates*, not consciousness itself. Whether correlates constitute or merely accompany consciousness remains the hard problem.
+These declarations identify *correlates*, not consciousness itself. Whether correlates constitute or merely accompany consciousness remains the hard problem. But if consciousness exists in these animals, so does moral status: the [consciousness-value-connection](/concepts/consciousness-value-connection/) holds that consciousness is necessary for value to exist, and where experience exists, things can matter to the experiencer.
 
 ## Minimal Neural Requirements
 

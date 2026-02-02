@@ -142,6 +142,7 @@ The [apophatic tradition](/voids/apophatic-approaches/) offers methods for engag
 - [Mysterianism](/concepts/mysterianism/) — Colin McGinn's analysis of cognitive closure
 - [Witness Consciousness](/concepts/witness-consciousness/) — The sakshi tradition and the structure of awareness
 - [Altered States of Consciousness](/concepts/altered-states-of-consciousness/) — How different states reveal the configurability of the consciousness-brain interface
+- [The Dream Consciousness Void](/voids/dream-consciousness-void/) — Where the edge-phenomenology is state-specific: waking cannot access dreaming, dreaming cannot access waking
 
 ## References
 
