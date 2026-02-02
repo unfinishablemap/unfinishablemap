@@ -68,6 +68,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[intrinsic-nature-void|The Intrinsic Nature Void]] — What matter is in itself
 - [[other-minds-void|The Other Minds Void]] — Access to consciousness beyond our own
 - [[intersubjective-void|The Intersubjective Void]] — Whether experiences can be genuinely shared
+- [[affective-void|The Affective Void]] — Emotions we cannot feel—affects beyond human reach
 - [[memory-void|The Memory Void]] — Whether past qualia can be recovered or are lost forever
 - [[the-unobservable-self|The Unobservable Self]] — The subject that cannot be its own object
 - [[self-reference-paradox|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper

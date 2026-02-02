@@ -216,6 +216,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[aesthetic-dimension-of-consciousness]] - Aesthetic qualia resistant to reduction
 - [[cognitive-phenomenology]] - Whether thinking has phenomenal character
 - [[minimal-consciousness]] - Qualia in simple organisms
+- [[affective-void]] - Emotions and affects beyond human phenomenological reach
 
 **Background:**
 - [[hard-problem-of-consciousness]] - The broader problem qualia exemplify

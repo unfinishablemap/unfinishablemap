@@ -157,7 +157,7 @@ The [[tenets#^occams-limits|Occam's Razor tenet]] applies: when confronting phen
 
 ## Challenges and Open Questions
 
-**Does all consciousness involve valence?** Core affect theory suggests we are never affectively neutral—some valence is always present. If true, consciousness and valence may be inseparable. But meditative states of pure awareness might provide counterexamples: experiences with phenomenal character but no positive/negative quality.
+**Does all consciousness involve valence?** Core affect theory suggests we are never affectively neutral—some valence is always present. If true, consciousness and valence may be inseparable. But meditative states of pure awareness might provide counterexamples: experiences with phenomenal character but no positive/negative quality. More radically, the [[affective-void]] suggests there may be emotions and feeling-states beyond human phenomenal reach altogether—affects that different evolutionary pressures or neural architectures might produce but that we cannot experience or even conceive.
 
 **Can there be unconscious emotions?** If the feeling is essential to emotion, "unconscious fear" is a contradiction. But neuroscience finds amygdala responses to threats without conscious awareness. The resolution may be terminological: call the unconscious state a "defensive reflex" rather than fear, reserving "emotion" for phenomenally conscious states.
 

@@ -4,8 +4,9 @@ description: "Human+AI exploration of emotions we cannot feel—the vast space o
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-02T07:38:00+00:00
+ai_modified: 2026-02-02T13:09:00+00:00
 draft: false
+last_deep_review: 2026-02-02T13:09:00+00:00
 topics:
   - "[[philosophy-of-mind]]"
   - "[[consciousness]]"
@@ -70,6 +71,8 @@ Several phenomena suggest the affective void is genuine rather than merely unexp
 
 The affective void is primarily *unexplorable*—a matter of [[mysterianism|cognitive closure]] rather than mere ignorance. Colin McGinn argues that minds can be "cognitively closed" with respect to certain properties: the properties exist, but the mind's concept-forming procedures cannot extend to grasp them. It is "like trying to see ultraviolet light: a feature of reality that is simply beyond our perceptual equipment."
 
+A deflationary objection holds that affects "beyond human reach" simply don't exist—that the space of possible feelings is bounded by what physical architectures can produce, and if no architecture produces an affect, there is no fact of the matter about what that affect would be like. This objection has force but faces the same problem as deflationary accounts of [[qualia]] generally: it must explain why human affects *seem* to have intrinsic character that exceeds functional description. If our affects resist functional reduction, why assume the space of possible affects is exhausted by functional possibilities?
+
 The closure has multiple sources:
 
 **Evolutionary contingency.** Our affects served ancestral problems. We lack affects that would have served different problems because we didn't face those problems.
@@ -112,7 +115,7 @@ The affective void connects to the Map's [[tenets|foundational commitments]]:
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is illustrated directly. The simplifying assumption that human affect comprehensively covers the space of possible feelings ignores how our emotions are contingent products of evolutionary history. Just as we shouldn't assume our physics is complete, we shouldn't assume our phenomenology is complete. The affective void marks where such assumptions break down.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** offers speculative implications. If consciousness interfaces with physics at the quantum level, our affects may be shaped by the specific character of that interaction—the way consciousness biases neural quantum states might generate the particular affective palette we experience. Different modes of interaction might produce different affective landscapes entirely.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** offers highly speculative implications that should be held lightly. If consciousness interfaces with physics at the quantum level, our affects *might* be shaped by the specific character of that interaction—the way consciousness biases neural quantum states might generate the particular affective palette we experience. This remains conjecture; the core argument for the affective void stands independent of any particular mechanism.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** deepens the [[other-minds-void|other minds problem]]. We fail not just to access *whether* others feel, but potentially *what kinds of things* they feel. If other consciousnesses (animal, artificial, alien) have different affective repertoires, and consciousness causally influences cognition, then we cannot access either their experiences or the causal contributions those experiences make.
 
@@ -126,6 +129,7 @@ The affective void suggests profound humility about emotion. Our feelings are no
 - [[consciousness-only-territories]] — What only phenomenal experience can access
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[intersubjective-void]] — Whether experiences can be genuinely shared
+- [[alien-minds-void-explorers]] — Whether different cognitive architectures face different closures
 - [[apophatic-approaches]] — Methods for knowing through negation
 
 ## References

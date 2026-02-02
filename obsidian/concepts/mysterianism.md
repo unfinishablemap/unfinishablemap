@@ -214,6 +214,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [[combination-problem]] — Panpsychism's version of the mystery
 - [[voids]] — The Map's framework for approaching cognitive limits
 - [[alien-minds-void-explorers]] — Whether different cognitive architectures face different closures
+- [[affective-void]] — Cognitive closure applied to the space of possible emotions
 
 ## References
 

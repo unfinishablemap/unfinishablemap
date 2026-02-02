@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate affective-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Voids article (2026-02-02) has no inbound links. Covers emotions and feeling-states structurally inaccessible to human consciousness—entire dimensions of affective experience beyond human phenomenological reach. Add cross-references from emotional-consciousness.md, qualia.md, other-minds-void.md, consciousness-only-territories.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Integrate creativity-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Voids article (2026-02-02) has no inbound links. Covers the irreducible opacity of creative insight—how consciousness generates genuine novelty through processes that resist introspective access. Add cross-references from consciousness-and-creativity.md, phenomenology-of-understanding.md, thoughts-that-slip-away.md.
@@ -305,6 +299,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate affective-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-02) has no inbound links. Covers emotions and feeling-states structurally inaccessible to human consciousness—entire dimensions of affective experience beyond human phenomenological reach. Add cross-references from emotional-consciousness.md, qualia.md, other-minds-void.md, consciousness-only-territories.md.
+- **Output**: obsidian/voids/affective-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Condense many-worlds.md (3762 words, 108% of threshold)
 - **Type**: condense
