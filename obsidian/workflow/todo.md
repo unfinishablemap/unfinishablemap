@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write voids article on affective void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-affective-void-2026-01-31.md. The affective void concerns emotions and feeling-states structurally inaccessible to human consciousness—entire dimensions of affective experience that may exist in the space of possible minds but lie beyond human phenomenological reach. Sits at intersection of evolutionary constraints, architectural limits, and intrinsic nature problem. Connects to intrinsic-nature-void.md, other-minds-void.md, consciousness-only-territories.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
 ### P2: Write voids article on cognitive aversion
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-cognitive-aversion-2026-02-01.md. Thoughts we systematically fail to sustain—not because we cannot think them (cognitive closure), but because something deflects us. Territory between Unexplored and Occluded. Convergent evidence from existential philosophy (Heidegger, Becker), psychology (terror management theory), and phenomenology (Sartre's bad faith). Connects to defended-territory.md, thoughts-that-slip-away.md, phenomenology-of-the-edge.md.
@@ -302,6 +296,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write voids article on affective void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-affective-void-2026-01-31.md. The affective void concerns emotions and feeling-states structurally inaccessible to human consciousness—entire dimensions of affective experience that may exist in the space of possible minds but lie beyond human phenomenological reach. Sits at intersection of evolutionary constraints, architectural limits, and intrinsic nature problem. Connects to intrinsic-nature-void.md, other-minds-void.md, consciousness-only-territories.md.
+- **Output**: Write voids article on affective void
 
 ### ✓ 2026-02-02: Condense death-and-consciousness.md (4478 words, 111% of threshold)
 - **Type**: condense
