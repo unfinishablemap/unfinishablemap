@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate psychophysical-coupling-mechanisms.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concepts article (2026-01-23) has no inbound links. Covers the mechanisms by which phenomenal states couple to physical states—directly relevant to Minimal Quantum Interaction tenet. Add cross-references from psychophysical-laws-framework.md, quantum-consciousness.md, interactionist-dualism.md, selection-laws.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -278,6 +272,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate psychophysical-coupling-mechanisms.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (2026-01-23) has no inbound links. Covers the mechanisms by which phenomenal states couple to physical states—directly relevant to Minimal Quantum Interaction tenet. Add cross-references from psychophysical-laws-framework.md, quantum-consciousness.md, interactionist-dualism.md, selection-laws.md.
+- **Output**: psychophysical-coupling-mechanisms.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Integrate phenomenal-binding.md into site navigation
 - **Type**: integrate-orphan

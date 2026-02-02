@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 10:16 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: psychophysical-coupling-mechanisms.md
+- **Reason**: File is archived and superseded by [[concepts/psychophysical-coupling]]
+- **Archive date**: 2026-01-29
+- **Archive reason**: Coalesced into Psychophysical Coupling
+- **Notes**: Cannot deep-review archived content. The orphan integration request is moot—archived files intentionally have no inbound links since they redirect to their successor. The psychophysical-coupling.md article is the active version containing the coalesced content, last reviewed 2026-01-30.
+
+---
+
 ## 2026-02-02 10:10 UTC - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/process-and-consciousness]]
