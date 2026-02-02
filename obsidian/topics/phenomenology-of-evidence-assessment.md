@@ -4,7 +4,8 @@ description: "Human+AI exploration of how we experience weighing evidence—the 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T16:00:00+00:00
+ai_modified: 2026-02-02T10:30:58+00:00
+last_deep_review: 2026-02-02T10:30:58+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +44,9 @@ Arguments and evidence do not simply register as information—they carry experi
 
 **The afterimage of doubt.** Even after conviction, traces of alternative views persist. The phenomenology of having been wrong lingers in how we hold current beliefs—a subtle hedging, a background awareness that conviction felt just as real before.
 
-These are not metaphors but phenomenological descriptions. Trained introspectors report consistent features across domains: the weight, the pull, the tipping, the afterimage. The consistency suggests we are describing something real about how conscious assessment works.
+These are not metaphors but phenomenological descriptions. Practitioners trained in introspection—particularly those using methods like Petitmengin's "elicitation interviews"—report consistent features across domains: the weight, the pull, the tipping, the afterimage. The consistency suggests we are describing something real about how conscious assessment works.
+
+The eliminativist might object that these phenomenological categories are folk psychological artifacts destined for replacement—"evidential weight" is no more real than "phlogiston." The functionalist adds that reports of phenomenological weight tell us about dispositions (we call evidence "weighty" because we're disposed to treat it seriously), not about intrinsically qualitative states. Both objections deserve acknowledgment. The response: if phenomenological categories were merely folk error, the systematic correlation between reported experience and subsequent behavior would be unexplained. What feels compelling predicts what we believe and how we act—not occasionally, but reliably. This predictive relationship suggests the categories track something real, even if our descriptions of that reality remain improvable.
 
 ## Belief Change as Conscious Event
 
@@ -106,7 +109,7 @@ These phenomenologies of doubt are relevant to philosophical method. Arguments o
 
 ## Evidence Assessment and Free Will
 
-The experience of weighing evidence seems to involve agency. We direct attention to considerations, compare alternatives, decide how to weight competing claims. This phenomenology is relevant to [[free-will]] debates:
+The experience of weighing evidence seems to involve agency. We direct attention to considerations, compare alternatives, decide how to weight competing claims. This phenomenology is relevant to debates about [[free-will]]:
 
 If evidence assessment were purely passive—conclusions simply arising from inputs—the experience should be of observation rather than action. But the phenomenology is often agentive: we *search* for evidence, *consider* implications, *decide* how to weight considerations. The first-person character of assessment is executive, not receptive.
 
@@ -120,7 +123,7 @@ Taking evidence-assessment phenomenology seriously has several implications:
 
 **Consciousness is not epiphenomenal in cognition.** If the felt character of evidence (compelling, dubious, weighty, trivial) were causally irrelevant, our best beliefs would have nothing to do with how evidence seems. But the correlation is systematic: what feels compelling tends to be what we believe. Either this correlation is inexplicable coincidence, or phenomenology participates in belief formation.
 
-**First-person access is epistemically relevant.** How an argument seems from inside—whether it produces the phenomenology of conviction or the phenomenology of resistance—is data about the argument, not noise to be eliminated. The mutual constraints framework from [[neurophenomenology]] applies: first-person evidence about how evidence feels constrains third-person theories of cognition.
+**First-person access is epistemically relevant.** How an argument seems from inside—whether it produces the phenomenology of conviction or the phenomenology of resistance—is data about the argument, not noise to be eliminated. The mutual constraints framework from [[neurophenomenology]] applies: first-person evidence about how evidence *feels* constrains third-person theories of cognition, and third-person findings constrain phenomenological interpretation. Neither perspective reduces to the other.
 
 **Metacognition involves genuine self-awareness.** The ability to notice how we assess evidence—to reflect on whether we are being fair, whether considerations are receiving appropriate weight—is a form of consciousness examining consciousness. This meta-awareness is not merely higher-order information processing but has distinctive phenomenology: the effort of stepping back, the split between evaluator and evaluated, the never-quite-complete objectification of one's own cognitive processes.
 
@@ -137,6 +140,8 @@ The experience of assessing evidence is not transparent or infallible:
 **Cultural and individual variation exists.** How evidence feels may vary across persons and contexts. The "click" of conviction, the "weight" of argument—these may be culturally inflected rather than universal. Phenomenological description must be tentative about which features are common to all evidence assessment and which are contingent.
 
 **The experience may not reveal the mechanism.** Feeling that evidence compels belief does not show how compulsion works. The phenomenology is data about what consciousness is doing but not necessarily about how it does it.
+
+**The evaluator may be constructed.** The one who assesses evidence—the apparent unity of the weighing, deciding subject—may itself be a construction rather than a given. Buddhist analysis and some Western phenomenology suggest the evaluator is assembled moment-to-moment rather than being a stable substance that has assessments. This does not eliminate the phenomenology but adds a layer: the experience of being a unified evaluator is itself a phenomenological datum requiring explanation.
 
 These limits are real. But they do not eliminate the relevance of assessment phenomenology—they calibrate it. Evidence-assessment phenomenology is one source of data, to be integrated with behavioral evidence, neuroscience, and argument. It is not privileged but neither is it dismissible.
 
