@@ -4,11 +4,12 @@ description: "Agent causation holds that persons originate actions directly, not
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-02T04:04:00+00:00
+ai_modified: 2026-02-02T21:12:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
 concepts:
+  - "[[substance-causation]]"
   - "[[interactionist-dualism]]"
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
@@ -58,7 +59,7 @@ Agent causation answers this. The agent is the source—an "uncaused cause" in t
 
 ## Major Defenders
 
-Key figures: **Chisholm** (1964) revived agent causation, distinguishing immanent from transeunt causation. **O'Connor** (2000, 2021) developed substance causation where all causation is fundamentally agents exercising powers. **Lowe** (2008) argued substances, not events, are the causal source of all change—agent causation isn't exceptional but paradigmatic. **Hasker** combines agent causation with emergent dualism: the soul emerges from brain complexity but remains ontologically distinct.
+Key figures: **Chisholm** (1964) revived agent causation, distinguishing immanent from transeunt causation. **O'Connor** (2000, 2021) developed [[substance-causation|substance causation]] where all causation is fundamentally agents exercising powers. **Lowe** (2008) argued substances, not events, are the causal source of all change—agent causation isn't exceptional but paradigmatic. **Hasker** combines agent causation with emergent dualism: the soul emerges from brain complexity but remains ontologically distinct.
 
 ## The Luck Objection
 
@@ -79,7 +80,7 @@ The agent's exercise of causal power is itself the explanation—a legitimate te
 
 ## Substance Causation and the Map's Framework
 
-If all causation is fundamentally substances exercising powers (Lowe, O'Connor), then consciousness causing physical events isn't metaphysically exceptional. This reframes the [[interactionist-dualism#The Causal Closure Argument|causal closure objection]]: physics describes regularities in what substances do; it doesn't prove substances are exclusively physical.
+[[substance-causation|Substance causation]] holds that substances—persisting things with causal powers—are the fundamental causal agents, and events are what substances do, not independent causal relata. If all causation is fundamentally substances exercising powers (Lowe, O'Connor), then consciousness causing physical events isn't metaphysically exceptional. This reframes the [[interactionist-dualism#The Causal Closure Argument|causal closure objection]]: physics describes regularities in what substances do; it doesn't prove substances are exclusively physical.
 
 The Map specifies *where* agent causation interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. The agent selects among quantum possibilities—exercising the same kind of causal power that all substances exercise.
 
@@ -171,6 +172,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main 
 - [[motor-selection]] — Motor control as supporting domain
 - [[attention-as-interface]] — Attention as causal pathway
 - [[implicit-memory]] — Skill delegation and choking phenomenon
+- [[substance-causation]] — The metaphysical framework: substances as fundamental causal agents
 - [[causal-interface]] — Why the mechanism of agent causation is systematically invisible
 - [[decoherence]] — The decoherence challenge
 - [[explanatory-gap]] — Why physical description leaves consciousness unexplained

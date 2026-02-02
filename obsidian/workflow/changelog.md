@@ -17,6 +17,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 21:12 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [[concepts/substance-causation]]
+- **Word count**: 1945 words (unchanged - no content modifications to main article)
+- **Context**: Article was orphaned (no inbound links). Previous review earlier today (11:59 UTC) found no critical issues and marked article as stable.
+- **This session focus**: Orphan integration - adding cross-references from related articles
+- **Inbound links added from**:
+  - [[concepts/agent-causation]] - Major Defenders section, Substance Causation section, Further Reading, concepts frontmatter
+  - [[concepts/mental-causation]] - Agent Causation section, Further Reading
+  - [[concepts/downward-causation]] - Further Reading
+  - [[apex/consciousness-and-agency]] - Agent Causation section
+  - [[concepts/interactionist-dualism]] - Agent Causation section
+  - [[topics/free-will]] - Further Reading
+- **Cross-references added**: 8 links across 6 files
+- **Output**: [[reviews/deep-review-2026-02-02-substance-causation-orphan-integration]]
+
+---
+
 ## 2026-02-02 20:57 UTC - deep-review
 - **Status**: Success (no changes needed)
 - **File**: [[concepts/explanatory-gap]]

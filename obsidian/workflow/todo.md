@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate substance-causation.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Newly created concept (2026-02-02) has no inbound links. Covers E.J. Lowe's view that all causation is fundamentally agents exercising powers—important for the Map's agent-causation arguments. Add cross-references from agent-causation.md, interactionist-dualism.md, mental-causation.md, downward-causation.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Cross-review qualia.md considering emotional valence article
 - **Type**: cross-review
 - **Notes**: New topic article topics/emotional-consciousness.md (expanded 2026-02-02) develops the phenomenal character of hedonic experience. The qualia.md concept page should be cross-reviewed for: (1) cross-links to emotional consciousness treatment, (2) reinforcing valence as paradigm qualia, (3) ensuring consistent treatment of the felt quality problem across articles.
@@ -432,6 +426,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate substance-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created concept (2026-02-02) has no inbound links. Covers E.J. Lowe's view that all causation is fundamentally agents exercising powers—important for the Map's agent-causation arguments. Add cross-references from agent-causation.md, interactionist-dualism.md, mental-causation.md, downward-causation.md.
+- **Output**: obsidian/concepts/substance-causation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Integrate consciousness-value-connection.md into site navigation
 - **Type**: integrate-orphan

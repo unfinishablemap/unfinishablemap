@@ -4,7 +4,7 @@ description: "Higher-level properties can causally influence lower-level process
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-02-02T18:28:00+00:00
+ai_modified: 2026-02-02T21:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -193,7 +193,8 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 - [[interactionist-dualism]] — the Map's framework defending downward causation
 - [[epiphenomenalism]] — The view denying downward causation
 - [[quantum-consciousness]] — The mechanism for consciousness-brain interaction
-- [[agent-causation]] — The metaphysical framework for substance causation
+- [[agent-causation]] — Agent causation as substance causation applied to free action
+- [[substance-causation]] — The metaphysical thesis that substances, not events, are fundamental causal agents
 - [[many-worlds]] — Why the Map rejects MWI (and why it matters for downward causation)
 - [[illusionism]] — The radical challenge that denies phenomenal consciousness exists
 - [[decoherence]] — The physics challenge and why it doesn't close the quantum opening

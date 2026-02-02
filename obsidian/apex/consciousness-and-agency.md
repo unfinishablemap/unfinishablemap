@@ -4,7 +4,7 @@ description: "How does consciousness author action in a physical world? Through 
 created: 2026-01-24
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-02-01T23:28:00+00:00
+ai_modified: 2026-02-02T21:12:00+00:00
 last_deep_review: 2026-01-30T14:14:00+00:00
 draft: false
 topics:
@@ -70,7 +70,7 @@ This matters crucially for authorship. Event-causal libertarianism—where menta
 
 Critics find this unsatisfying. "The agent caused it" seems to name the problem rather than solve it. What about the agent explains the choice? But this objection presupposes event-causal reduction—assumes that any genuine explanation must trace back to prior events. Agent causation rejects this assumption. Some explanations terminate in agents exercising irreducible powers. Physics doesn't explain why the universe exists; it takes existence as given. Similarly, agent causation takes the agent's power to select as primitive. Explanation must terminate somewhere; "the agent selected for reasons" is a legitimate terminus.
 
-E.J. Lowe and Timothy O'Connor argue that *all* causation is fundamentally substance causation—agents exercising powers. Event causation is shorthand for substances doing things. If they're right, agent causation isn't metaphysically exceptional; it's paradigmatic of how causation works. This reframes the challenge: the question isn't how mental causation could possibly occur, but why we thought physical causation excluded it.
+E.J. Lowe and Timothy O'Connor argue that *all* causation is fundamentally [[substance-causation|substance causation]]—agents exercising powers. Event causation is shorthand for substances doing things. If they're right, agent causation isn't metaphysically exceptional; it's paradigmatic of how causation works. This reframes the challenge: the question isn't how mental causation could possibly occur, but why we thought physical causation excluded it.
 
 ## Escaping the Luck Objection
 

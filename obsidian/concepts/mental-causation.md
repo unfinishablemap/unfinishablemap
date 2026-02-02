@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-02T18:28:00+00:00
+ai_modified: 2026-02-02T21:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -154,7 +154,7 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet isn't incidental to the fram
 
 The exclusion argument assumes event causation—events causing events according to laws. But [[agent-causation|agent causation]] offers a different model: substances (agents) causing events through exercise of causal powers.
 
-E.J. Lowe argued that all causation is fundamentally substance causation. The conscious subject causes actions not as one event producing another but as an agent exercising powers. If consciousness is a substance with genuine causal powers operating at quantum indeterminacies, the exclusion argument's framework doesn't apply.
+E.J. Lowe argued that all causation is fundamentally [[substance-causation|substance causation]]—substances, not events, are the causal source of all change. The conscious subject causes actions not as one event producing another but as an agent exercising powers. If consciousness is a substance with genuine causal powers operating at quantum indeterminacies, the exclusion argument's framework doesn't apply.
 
 The phenomenology of [[mental-effort|mental effort]] supports this: effort feels like *doing* something, not like observing events that happen to correlate with effort. Directing attention is experienced as agent causation, not event causation.
 
@@ -239,7 +239,8 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [[interactionist-dualism]] — The framework that accommodates mental causation
 - [[epiphenomenalism]] — The view denying mental causation
 - [[emergence]] — Mental causation as strong emergence with mechanism
-- [[agent-causation]] — The metaphysical framework for substance causation
+- [[agent-causation]] — Agent causation as substance causation applied to free action
+- [[substance-causation]] — The metaphysical thesis that substances, not events, are fundamental causal agents
 - [[quantum-consciousness]] — How consciousness interfaces with physics
 - [[decoherence]] — The physics challenge and why it doesn't close the quantum opening
 - [[interface-locality]] — Why consciousness affects only its own brain

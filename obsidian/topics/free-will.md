@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-02T11:22:00+00:00
+ai_modified: 2026-02-02T21:12:00+00:00
 last_deep_review: 2026-02-02T11:22:00+00:00
 draft: false
 topics:
@@ -213,6 +213,7 @@ Free will stands at the intersection of all five [[tenets]]:
 ## Further Reading
 
 - [[agent-causation]] — Why the Map's framework is agent-causal
+- [[substance-causation]] — The broader metaphysical framework: substances as fundamental causal agents
 - [[quantum-indeterminacy-free-will]] — How quantum mechanics supports libertarian free will
 - [[mental-causation]] — Essential for free will; how the framework addresses Kim's exclusion
 - [[phenomenology-of-choice]] — The experiential structure of deciding

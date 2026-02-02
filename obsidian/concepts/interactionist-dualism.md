@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-02-02T11:07:00+00:00
+ai_modified: 2026-02-02T21:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -246,7 +246,7 @@ This remains an active empirical question. The Map takes no position on which qu
 
 ## Agent Causation: The Metaphysical Framework
 
-The quantum mechanisms describe *where* consciousness interfaces with physics. [[agent-causation|Agent causation]] provides the metaphysical framework for *what* is happening at that interface. The [[causal-interface|causal interface]] itself remains systematically opaque—invisible from both first-person introspection and third-person observation—as predicted by minimal interaction.
+The quantum mechanisms describe *where* consciousness interfaces with physics. [[agent-causation|Agent causation]]—a specific application of [[substance-causation|substance causation]]—provides the metaphysical framework for *what* is happening at that interface. The [[causal-interface|causal interface]] itself remains systematically opaque—invisible from both first-person introspection and third-person observation—as predicted by minimal interaction.
 
 Interactionist dualism requires the conscious subject—as a persisting substance—to directly cause physical outcomes (*agent causation*), not merely events causing events. Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). When I decide to speak, *I* cause the speaking.
 
