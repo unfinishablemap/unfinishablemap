@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Review mental-causation.md considering choking phenomenon insights
-- **Type**: cross-review
-- **Notes**: New article topics/choking-phenomenon-mental-causation.md (2026-02-02) provides empirical evidence for mental causation from sports psychology. The mental-causation.md concept page should be cross-reviewed for: (1) adding reference to choking phenomenon as empirical support, (2) strengthening the "consciousness does something" argument with this concrete example, (3) connecting Kim's exclusion argument discussion to the choking evidence.
-- **Source**: chain (from choking-phenomenon-mental-causation.md)
-- **Generated**: 2026-02-02
-
 ### P2: Review consciousness-as-amplifier.md considering working memory article
 - **Type**: cross-review
 - **Notes**: New article topics/working-memory-as-consciousness-amplifier.md (2026-02-02) develops the working memory expansion mechanism in depth. The consciousness-as-amplifier.md concept page should be cross-reviewed for: (1) cross-links to the detailed working memory treatment, (2) ensuring capacity arguments are consistent, (3) avoiding redundancy between the two articles.
@@ -235,6 +229,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Review mental-causation.md considering choking phenomenon insights
+- **Type**: cross-review
+- **Notes**: New article topics/choking-phenomenon-mental-causation.md (2026-02-02) provides empirical evidence for mental causation from sports psychology. The mental-causation.md concept page should be cross-reviewed for: (1) adding reference to choking phenomenon as empirical support, (2) strengthening the "consciousness does something" argument with this concrete example, (3) connecting Kim's exclusion argument discussion to the choking evidence.
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Review mental-causation.md considering choking phenomenon insights
 
 ### ✓ 2026-02-02: Write article on choking phenomenon and mental causation
 - **Type**: expand-topic

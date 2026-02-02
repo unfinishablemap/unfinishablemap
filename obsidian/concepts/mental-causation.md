@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-30T20:16:00+00:00
+ai_modified: 2026-02-02T03:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-30T20:16:00+00:00
+last_deep_review: 2026-02-02T03:40:00+00:00
 ---
 
 Mental causation is the thesis that mental states cause physical effects. When you decide to raise your arm, your decision causes the arm to rise. When pain motivates you to avoid the fire, the pain causes the avoidance. This seems obvious from experience but faces a formidable philosophical challenge: Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. The Unfinishable Map's quantum framework provides a response: consciousness causes physical effects at points where physics is genuinely incomplete.
@@ -178,12 +178,9 @@ The strongest positive argument for mental causation is the self-stultification 
 
 If you can accurately report your conscious experiences—"I'm in pain," "I see red"—then your experiences must cause your reports. The pain causes the utterance about pain. Otherwise, why would the report be about the experience at all?
 
-If mental states cause nothing, then:
-- Your beliefs about consciousness aren't caused by consciousness
-- Your reports about experiences aren't caused by experiences
-- Your reasoning about mental causation isn't influenced by mental evidence
+If mental states cause nothing, then your beliefs about consciousness aren't caused by consciousness, your reports about experiences aren't caused by experiences, and your reasoning about mental causation isn't influenced by mental evidence. This makes denying mental causation epistemically self-defeating.
 
-This makes denying mental causation epistemically self-defeating. Any argument against mental causation must reach your beliefs through causally inert consciousness—which means it doesn't reach them at all.
+The [[choking-phenomenon-mental-causation|choking phenomenon]] provides complementary empirical evidence: when expert performers attend to automatized actions, performance degrades. If consciousness were epiphenomenal, it couldn't interfere with procedural execution. The interference demonstrates causation.
 
 ### The Illusionist Response
 
@@ -230,13 +227,12 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [[psychophysical-laws-framework]] — Integrated overview of the framework requiring selection laws for mental causation
 - [[psychophysical-coupling]] — Five candidate mechanisms specifying how mental causation might work at the neural interface
 - [[delegatory-dualism]] — Saad's 2025 response to exclusion: experiences preempt rather than overdetermine
+- [[choking-phenomenon-mental-causation]] — Empirical evidence: conscious interference with automatized skills demonstrates causation
 - [[bidirectional-interaction]] — The Map's foundational commitment to consciousness causally influencing the physical world
 - [[illusionism]] — The radical challenge that denies phenomenal consciousness exists
 - [[many-worlds]] — Why the Map rejects MWI (and why it matters for mental causation)
-- [[reductionism]] — Why the reductionist alternative to mental causation fails; Kim's exclusion argument and responses
 - [[arguments/epiphenomenalism]] — The cumulative case against epiphenomenalism (five arguments)
 - [[causal-closure]] — The principle mental causation challenges
-- [[downward-causation]] — How higher-level properties influence lower-level processes
 - [[interactionist-dualism]] — The framework that accommodates mental causation
 - [[epiphenomenalism]] — The view denying mental causation
 - [[emergence]] — Mental causation as strong emergence with mechanism
@@ -244,7 +240,6 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [[quantum-consciousness]] — How consciousness interfaces with physics
 - [[decoherence]] — The physics challenge and why it doesn't close the quantum opening
 - [[interface-locality]] — Why consciousness affects only its own brain
-- [[pairing-problem]] — What connects this mind to this body
 - [[attention-as-interface]] — How attention implements the consciousness-physics interface
 - [[free-will]] — The implications for agency
 
