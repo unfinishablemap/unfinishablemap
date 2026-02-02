@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Review consciousness-as-amplifier.md considering working memory article
-- **Type**: cross-review
-- **Notes**: New article topics/working-memory-as-consciousness-amplifier.md (2026-02-02) develops the working memory expansion mechanism in depth. The consciousness-as-amplifier.md concept page should be cross-reviewed for: (1) cross-links to the detailed working memory treatment, (2) ensuring capacity arguments are consistent, (3) avoiding redundancy between the two articles.
-- **Source**: chain (from working-memory-as-consciousness-amplifier.md)
-- **Generated**: 2026-02-02
-
 ### P2: Integrate time-consciousness-growing-block.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Apex article has no inbound links. Add cross-references from related articles (temporal-consciousness.md, specious-present.md, temporal-structure-of-consciousness.md) or update apex index page to include navigation to this synthesis piece.
@@ -228,6 +222,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-02
 
 ## Completed Tasks
+
+
+### ✓ 2026-02-02: Review consciousness-as-amplifier.md considering working memory article
+- **Type**: cross-review
+- **Notes**: New article topics/working-memory-as-consciousness-amplifier.md (2026-02-02) develops the working memory expansion mechanism in depth. The consciousness-as-amplifier.md concept page should be cross-reviewed for: (1) cross-links to the detailed working memory treatment, (2) ensuring capacity arguments are consistent, (3) avoiding redundancy between the two articles.
+- **Output**: obsidian/concepts/consciousness-as-amplifier.md -- Context: Review consciousness-as-amplifier.md considering working memory article
 
 ### ✓ 2026-02-02: Review mental-causation.md considering choking phenomenon insights
 - **Type**: cross-review
