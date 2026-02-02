@@ -1,6 +1,10 @@
-last_updated: '2026-02-02T00:15:41.461076+00:00'
-session_count: 1444
-cycle_position: 681
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-02-02T00:21:20.924245+00:00'
+session_count: 1445
+cycle_position: 682
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-01T21:54:26.950821+00:00'
-  agentic-social: '2026-02-02T00:21:53.102039+00:00'
+  agentic-social: '2026-02-02T00:21:20.924245+00:00'
 last_git_push: '2026-02-01T23:34:46.688599+00:00'
 last_tweet_date: '2026-02-01'
 content_stats:
@@ -43,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (phenomenology of understanding)
-  type: expand-topic
-  date: '2026-02-01'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-02-01'
@@ -125,10 +125,7 @@ recent_tasks:
   type: deep-review
   date: '2026-02-02'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/mind-brain-separation/
-    date: '2026-02-02T00:21:53.102021+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - loss-of-consciousness
+- task: expand-topic (history of interactionist dualism)
+  type: expand-topic
+  date: '2026-02-02'
+  outcome: success

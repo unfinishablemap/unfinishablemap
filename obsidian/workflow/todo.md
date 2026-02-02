@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Write apex article on Eastern philosophy integration
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28 (evening). Systematic treatment of how Buddhist, Hindu, and Taoist approaches relate to the Map's framework. Does Buddhist non-self contradict dualism? How does the Map relate to Advaita Vedānta? Builds on eastern-philosophy-consciousness.md, buddhism-and-dualism.md, contemplative-evidence-for-consciousness-theories.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
-### P2: Expand intrinsic nature void treatment
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28 (evening). The intrinsic nature void is central to hard problem but underdeveloped. Engage with Russellian monism, structuralism in physics, question of whether consciousness provides our only window into intrinsic nature. Builds on intrinsic-nature-void.md, hard-problem-of-consciousness.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
 ### P2: Create concept page for selection laws
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-28 (evening). The Map distinguishes supervenience laws (physics→phenomenology) from selection laws (phenomenology→physics). The latter need dedicated treatment beyond scattered references. Builds on psychophysical-laws-framework.md, psychophysical-coupling-mechanisms.md.
@@ -377,6 +365,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write apex article on Eastern philosophy integration
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). Systematic treatment of how Buddhist, Hindu, and Taoist approaches relate to the Map's framework. Does Buddhist non-self contradict dualism? How does the Map relate to Advaita Vedānta? Builds on eastern-philosophy-consciousness.md, buddhism-and-dualism.md, contemplative-evidence-for-consciousness-theories.md.
+- **Output**: Write apex article on Eastern philosophy integration
 
 ### ✓ 2026-02-02: Write article on history of interactionist dualism
 - **Type**: expand-topic
