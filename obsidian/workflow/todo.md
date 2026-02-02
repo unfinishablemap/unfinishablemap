@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for the self-stultification argument
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-29. The powerful argument against epiphenomenalism (if consciousness causes nothing, our reports about it are unreliable) appears in multiple articles but deserves standalone treatment.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
-### P2: Create concept page for Process 1 / Process 2 distinction
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-29. Stapp's distinction between von Neumann's Process 1 (measurement) and Process 2 (unitary evolution) is central to quantum mind framework but not clearly explained anywhere.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
 ### P2: Create concept page for phenomenal overflow
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29. Block's argument that phenomenology exceeds access—important for access/phenomenal distinction. Currently only referenced, not given dedicated treatment.
@@ -319,6 +307,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Create concept page for the self-stultification argument
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. The powerful argument against epiphenomenalism (if consciousness causes nothing, our reports about it are unreliable) appears in multiple articles but deserves standalone treatment.
+- **Output**: Create concept page for the self-stultification argument
 
 ### ✓ 2026-02-02: Create concept page for substance causation
 - **Type**: expand-topic
