@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review time-symmetric-physics.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers retrocausality and time-symmetric interpretations of QM—directly relevant to Minimal Quantum Interaction tenet. Check physics accuracy, ensure claims about retrocausality are properly hedged, verify connection to quantum-consciousness.md.
-- **Source**: staleness
-- **Generated**: 2026-02-02
-
 ### P2: Deep review self-locating-beliefs.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers Perry/Lewis on indexical knowledge—foundational for the No Many Worlds tenet and haecceity arguments. Check philosophical accuracy, ensure semantic vs metaphysical claims are distinguished per pessimistic review feedback.
@@ -305,6 +299,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Deep review time-symmetric-physics.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers retrocausality and time-symmetric interpretations of QM—directly relevant to Minimal Quantum Interaction tenet. Check physics accuracy, ensure claims about retrocausality are properly hedged, verify connection to quantum-consciousness.md.
+- **Output**: obsidian/concepts/time-symmetric-physics.md
 
 ### ✓ 2026-02-02: Review thoughts-that-slip-away.md considering introspective opacity
 - **Type**: cross-review

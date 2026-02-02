@@ -2,9 +2,9 @@
 title: "Time-Symmetric Physics"
 description: "Fundamental physics equations work equally well forward and backward in time. This symmetry grounds retrocausal interpretations of quantum mechanics relevant to consciousness."
 created: 2026-02-01
-modified: 2026-02-01
+modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-01T21:49:00+00:00
+ai_modified: 2026-02-02T12:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
+last_deep_review: 2026-02-02T12:23:00+00:00
 ---
 
 Time-symmetric physics refers to the property of fundamental physical laws working equally well when run backward in time. The Schrödinger equation, Maxwell's equations, and general relativity are all time-reversal invariant—given any solution, reversing the direction of time produces another valid solution. This symmetry has profound implications: if fundamental physics doesn't distinguish past from future, the apparent "arrow of time" we experience must emerge from something other than basic physical law.
@@ -106,6 +107,8 @@ TSVF makes [[retrocausality]] mathematically explicit rather than interpretively
 
 Philosopher Huw Price argues that if physics is time-symmetric and causal, retrocausality follows necessarily. We accept that past causes constrain future states. Time-symmetry means future states equally constrain past. Resistance to backward causation reflects cognitive bias—our evolved perspective as forward-moving agents—not physical principle.
 
+A common objection distinguishes mathematical symmetry from causal symmetry: equations may work equally well in both directions, but causation might be fundamentally forward-pointing. Price's response is that this asymmetric causation must then be justified—and physics provides no such justification. The causal arrow, if it exists, would be imposed on physics, not derived from it.
+
 Price's argument doesn't require accepting retrocausality in all contexts. It establishes that rejecting retrocausality requires either denying time-symmetry (which physics doesn't support) or denying that physics is causal in the relevant sense.
 
 ## Why Time-Symmetry Matters for Consciousness
@@ -144,9 +147,11 @@ Wheeler's delayed-choice experiments provide indirect support. Measurement choic
 
 ### "Decoherence Eliminates Quantum Effects"
 
-[[decoherence]] is often cited as ruling out quantum effects in warm biological systems. But decoherence doesn't solve the [[measurement-problem]]—it explains why we don't observe macroscopic superpositions while leaving unexplained why we observe *definite* outcomes. Something must still select which outcome becomes actual after decoherence has selected preferred bases.
+[[decoherence]] is often cited as ruling out quantum effects in warm biological systems—decoherence timescales at brain temperatures are femtoseconds, leaving no window for quantum coherence. But this objection misidentifies what time-symmetric theories require.
 
-Moreover, decoherence operates within unitary evolution, which is time-symmetric. If transaction completion occurs through constraint-satisfaction across time, decoherence participates in determining which bases are available without eliminating retrocausal structure.
+Time-symmetric interpretations don't need sustained coherence. The transactional interpretation, for instance, involves constraint-satisfaction between initial and final conditions—decoherence participates in this process by determining available bases, but the *transaction itself* is atemporal. The question is not whether the brain maintains coherent superpositions (it doesn't) but whether the selection of definite outcomes involves constraint-satisfaction across time.
+
+Moreover, decoherence doesn't solve the [[measurement-problem]]—it explains why we don't observe macroscopic superpositions while leaving unexplained why we observe *definite* outcomes. Something must still select which outcome becomes actual after decoherence has selected preferred bases. Decoherence operates within unitary evolution, which remains time-symmetric.
 
 ## Relation to Site Perspective
 
