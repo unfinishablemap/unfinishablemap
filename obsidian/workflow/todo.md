@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenal-binding.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concepts article (2026-01-23) has no inbound links. Covers how disparate phenomenal features unite into single experiences—the binding problem from the phenomenal perspective. Add cross-references from binding-problem.md, unity-of-consciousness.md, global-workspace-theory.md, integrated-information-theory.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Integrate psychophysical-coupling-mechanisms.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Concepts article (2026-01-23) has no inbound links. Covers the mechanisms by which phenomenal states couple to physical states—directly relevant to Minimal Quantum Interaction tenet. Add cross-references from psychophysical-laws-framework.md, quantum-consciousness.md, interactionist-dualism.md, selection-laws.md.
@@ -284,6 +278,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate phenomenal-binding.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (2026-01-23) has no inbound links. Covers how disparate phenomenal features unite into single experiences—the binding problem from the phenomenal perspective. Add cross-references from binding-problem.md, unity-of-consciousness.md, global-workspace-theory.md, integrated-information-theory.md.
+- **Output**: phenomenal-binding.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Integrate conscious-vs-unconscious-processing.md into site navigation
 - **Type**: integrate-orphan

@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 08:39 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: phenomenal-binding.md
+- **Reason**: File is archived and superseded by [[concepts/binding-problem]]
+- **Archive date**: 2026-01-26
+- **Archive reason**: Coalesced into The Binding Problem
+- **Notes**: Cannot deep-review archived content. The orphan integration request is moot—archived files intentionally have no inbound links since they redirect to their successor. The binding-problem.md article is the active version containing the coalesced content.
+
+---
+
 ## 2026-02-02 08:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/conscious-vs-unconscious-processing]]
