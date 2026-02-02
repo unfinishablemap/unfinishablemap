@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 20:18 UTC - coalesce
+- **Status**: No candidates found
+- **Candidates evaluated**:
+  - Temporal consciousness pair (concept + topic) — properly hierarchical, topic already coalesced
+  - Attention cluster (5 files) — well-organized hierarchy with distinct scopes
+  - Temporal voids cluster (3 files) — distinct perspectives on temporal inaccessibility
+  - Eastern philosophy pair — Buddhism-specific vs. three-tradition comparative
+  - Understanding/meaning cluster — prerequisite vs. integration problem, proper hierarchy
+- **Outcome**: Articles are well-differentiated and appropriately organized. Several files already have `coalesced_from` fields indicating prior consolidation. No strong merge candidates exist.
+- **Action**: None required
+
+---
+
 ## 2026-02-02 19:58 UTC - condense
 - **Status**: Reviewed, no condensation applied
 - **File**: [[concepts/many-worlds]]
