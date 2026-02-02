@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 10:33 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Introspective Opacity
+- **Output**: [[introspective-opacity]]
+- **Word count**: 1889
+- **Based on research**: yes, [[voids-introspective-opacity-2026-02-01]]
+
+---
+
 ## 2026-02-02 10:30 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-evidence-assessment]]

@@ -49,18 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write voids article on introspective opacity
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-introspective-opacity-2026-02-01.md. Structural limits on consciousness observing its own operations in real-time. The gap between consciousness and itself—impossibility of catching thought in the act. Convergent evidence from phenomenology (Sartre, Husserl), cognitive psychology (Nisbett & Wilson, Carruthers), William James. Connects to the-unobservable-self.md, thoughts-that-slip-away.md, phenomenology-of-the-edge.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
-### P2: Write voids article on the memory void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-memory-void-2026-02-01.md. Are past experiences genuinely recoverable, or fundamentally lost—with memory providing only reconstructions? Intersection of phenomenology (Husserl retention), cognitive psychology (reconstructive memory), philosophy of mind (simulation theory). Unlike past-self-void (personal identity) or temporal-asymmetry (structural differences), this asks whether original qualia can ever be accessed again. Connects to past-self-void.md, temporal-asymmetry-remembering-anticipating.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
 ### P2: Write voids article on volitional opacity
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-volitional-opacity-2026-02-01.md. The gap between willing and its neural/cognitive implementation. We experience intention but cannot observe how decisions are generated. Connects to free-will.md, agent-causation.md, phenomenology-of-choice.md, Libet experiments.
@@ -290,6 +278,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write voids article on introspective opacity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-introspective-opacity-2026-02-01.md. Structural limits on consciousness observing its own operations in real-time. The gap between consciousness and itself—impossibility of catching thought in the act. Convergent evidence from phenomenology (Sartre, Husserl), cognitive psychology (Nisbett & Wilson, Carruthers), William James. Connects to the-unobservable-self.md, thoughts-that-slip-away.md, phenomenology-of-the-edge.md.
+- **Output**: Write voids article on introspective opacity
+
+### ✓ 2026-02-02: Write voids article on introspective opacity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-introspective-opacity-2026-02-01.md. Structural limits on consciousness observing its own operations in real-time.
+- **Output**: [[introspective-opacity]]
 
 ### ✓ 2026-02-02: Write voids article on the mathematical void
 - **Type**: expand-topic
