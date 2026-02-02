@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 14:04 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[entanglement-binding-hypothesis]]
+- **Target**: [[quantum-binding-and-phenomenal-unity]]
+- **Archived**: [[archive/concepts/entanglement-binding-hypothesis]]
+- **References to review**: none (only changelog and research notes reference the archived article)
+- **Notes**: The newer article (created same day) overlapped significantly with existing topic article. Unique content ("Classical Mechanisms Remain Necessary" section) integrated into target before archiving.
+
+---
+
 ## 2026-02-02 13:59 UTC - deep-review
 - **Status**: Success
 - **File**: [[phenomenological-evidence]]

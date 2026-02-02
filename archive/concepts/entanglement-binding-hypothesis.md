@@ -28,6 +28,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated:
 last_deep_review:
+archived: true
+archived_date: 2026-02-02T14:04:00+00:00
+superseded_by: "/topics/quantum-binding-and-phenomenal-unity/"
+archive_reason: "Coalesced into Quantum Binding and Phenomenal Unity"
+original_path: "/concepts/entanglement-binding-hypothesis/"
 ---
 
 The entanglement binding hypothesis proposes that quantum entanglement—not classical neural coordination—underlies the unity of conscious experience. When you perceive a red apple falling, colour is processed in V4, shape in inferotemporal cortex, motion in MT/V5, yet you experience one unified object. Classical binding mechanisms (gamma synchrony, thalamocortical loops) coordinate these separate processes but cannot make them *one*. Entanglement provides what classical physics cannot: genuine holism where the whole is irreducible to its parts. Recent experimental evidence from 2024-2025 supports the hypothesis, though significant challenges remain.

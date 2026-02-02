@@ -4,7 +4,7 @@ description: "Quantum entanglement provides the only physical substrate structur
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-27T19:44:22+00:00
+ai_modified: 2026-02-02T14:04:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,6 +34,8 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-21
 last_curated: null
 last_deep_review: 2026-01-27T19:15:41+00:00
+coalesced_from:
+  - "/concepts/entanglement-binding-hypothesis/"
 ---
 
 Quantum entanglement may be the only physical phenomenon with structural features that *correspond to* [[phenomenal-unity|phenomenal unity]]—the fact that conscious experience comes as an integrated whole rather than a collection of separate parts. Classical binding mechanisms (gamma synchrony, thalamocortical loops, information integration) coordinate separate neural processes but cannot make them *one*. Entanglement provides something classical physics cannot: genuine ontological holism where the whole is prior to the parts. This structural correspondence does not by itself explain *how* physical holism produces phenomenal holism—that remains the hard problem—but it provides the right kind of physical substrate for unity, whereas classical mechanisms do not. Recent experimental evidence from 2024-2025 strengthens the empirical case, demonstrating that quantum effects in neural microtubules survive longer than critics calculated and correlate with consciousness in measurable ways.
@@ -114,7 +116,17 @@ This matches phenomenal unity's structure. Experience does not feel assembled fr
 
 If microtubules in neurons sustain entangled quantum superpositions, and each objective reduction (collapse) of that entangled state constitutes a moment of experience, then the phenomenal unity of that experience would *correspond to* the quantum unity of the underlying state—structure matching structure.
 
-### The Remaining Gap
+### Classical Mechanisms Remain Necessary
+
+The quantum binding hypothesis does not eliminate classical neural mechanisms. Rather, it proposes a division of labour:
+
+**Classical mechanisms (BP1)**: Gamma synchrony, thalamocortical loops, and global workspace dynamics correctly segregate and coordinate features. They ensure "red" binds with "apple" rather than "blue cube."
+
+**Quantum mechanism (BP2)**: Entanglement provides the ontological unity that makes coordinated information feel like one experience rather than parallel processes.
+
+Classical binding operates on the results of feature detection; quantum binding underlies the phenomenal unity of the final experience. Both are necessary; neither is sufficient alone.
+
+## The Remaining Gap
 
 This structural correspondence is significant but not explanatory in the sense that would dissolve the hard problem. Quantum holism is still *physical* holism—mathematical irreducibility in Hilbert space. The question of why *any* physical state, reducible or irreducible, produces phenomenal experience remains open. Classical binding mechanisms fail because they offer only correlation between separate elements; quantum entanglement succeeds in offering genuine physical unity. But the transition from "physically unified state" to "phenomenally unified experience" is not thereby explained—it is relocated.
 
