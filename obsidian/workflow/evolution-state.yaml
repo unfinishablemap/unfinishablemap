@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-02-02T14:09:34.482282+00:00'
-session_count: 1573
-cycle_position: 810
+last_updated: '2026-02-02T14:14:34.482629+00:00'
+session_count: 1574
+cycle_position: 811
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -45,26 +45,8 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 1
-  p2_tasks: 9
-  p3_tasks: 44
-  needs_replenishment: false
-  last_replenishment: '2026-02-02T14:14:00+00:00'
-  replenishment_source_counts:
-    unconsumed_research: 3
-    length_analysis: 3
-    chain: 1
-    gap_analysis: 0
-    staleness: 0
-    orphan_integration: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/voids/thoughts-that-slip-away.md -- Conte)
-  type: deep-review
-  date: '2026-02-02'
-  outcome: success
 - task: deep-review (obsidian/concepts/time-symmetric-physics.md)
   type: deep-review
   date: '2026-02-02'
@@ -135,6 +117,10 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-02-02'
+  outcome: success
+- task: condense (obsidian/concepts/functionalism.md)
+  type: condense
   date: '2026-02-02'
   outcome: success
 - task: condense (obsidian/concepts/functionalism.md)

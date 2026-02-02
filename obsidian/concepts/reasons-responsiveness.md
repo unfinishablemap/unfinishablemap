@@ -4,7 +4,8 @@ description: "Reasons-responsiveness is the capacity to track normative relation
 created: 2026-02-01
 modified: 2026-02-01
 human_modified: null
-ai_modified: 2026-02-01T20:05:00+00:00
+ai_modified: 2026-02-02T14:21:00+00:00
+last_deep_review: 2026-02-02T14:21:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -18,6 +19,7 @@ concepts:
   - "[[voluntary-attention]]"
   - "[[causal-closure]]"
   - "[[epiphenomenalism]]"
+  - "[[self-stultification]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -57,6 +59,8 @@ The agent-causal response gains traction through reasons-responsiveness. Pure ag
 
 Reasons-responsiveness has a distinctive phenomenology. Deliberation involves *attending* to considerations, *weighing* them against each other, *recognizing* when one consideration outweighs another. This weighing is not passive reception of causal outputs but active engagement with normative relationships.
 
+Crucially, reasons feel like they have *valence*—some considerations feel weightier than others, pulling toward one conclusion rather than another. This felt weight isn't reducible to having the thought "this consideration is important"; it's the experiential quality of the consideration *pressing* toward a conclusion. The difference between intellectual acknowledgment ("X is a reason for Y") and reasons-responsiveness proper is this felt directedness.
+
 The [[mental-effort|phenomenology of effort]] supports this. Hard choices feel hard because reasoning through difficult trade-offs requires sustained engagement. Random processes don't feel like work; grasping why one option is better does. The felt cost of concentration corresponds to genuine cognitive work—consciousness tracking normative relationships that wouldn't be tracked by automatic processing.
 
 The [[phenomenology-of-choice|phenomenology of choice]] reveals the reasons-responsive structure. Choosing feels like determining an outcome *for* reasons. The experience isn't "option A randomly emerged from noise" but "I selected A because considerations X and Y favoured it." This phenomenological datum requires explanation. Eliminativists deny it; illusionists reframe it as misrepresentation; the Map takes it as evidence that consciousness genuinely engages with normative relationships.
@@ -69,7 +73,7 @@ Physical systems can instantiate correlations: this neural pattern regularly co-
 
 This "seeing as" appears to require phenomenal consciousness: the subjective awareness of reasons *qua* reasons. An entirely unconscious system might implement reliable truth-tracking mechanisms—as a thermostat reliably tracks temperature—but it couldn't engage in rational inference as such. It couldn't appreciate *why* the conclusion follows, or recognize *good* reasons as good.
 
-The [[argument-from-reason|argument from reason]] develops this point systematically. If physicalism is true—if thoughts are fully explainable by nonrational physical causes—then no belief is rationally justified, including belief in physicalism itself. Rational inference requires tracking normative relationships, but physical causation operates via efficient causes that cannot instantiate normativity. The very possibility of justified belief requires something beyond physical description.
+The [[argument-from-reason|argument from reason]] develops this point systematically. If physicalism is true—if thoughts are fully explainable by nonrational physical causes—then no belief is rationally justified, including belief in physicalism itself. Rational inference requires tracking normative relationships, but physical causation operates via efficient causes that cannot instantiate normativity. The very possibility of justified belief requires something beyond physical description. The argument is [[self-stultification|self-stultifying]] for physicalism: accepting it undermines the rational grounds for accepting anything, including itself.
 
 ## Challenges to Reasons-Responsiveness
 
@@ -78,6 +82,8 @@ The [[argument-from-reason|argument from reason]] develops this point systematic
 Reliabilist epistemology (Goldman, Kornblith) defines justified belief as belief produced by a reliable process—one that regularly generates true beliefs. If evolution shaped cognitive faculties to track truth in survival-relevant domains, neural processes can be truth-tracking without conscious engagement with normativity.
 
 The Map's response: reliability is itself normative. What makes a process "reliable"? It produces mostly *true* beliefs. But truth is a norm—how beliefs *ought* to be. Defining reliability as statistical correlation between belief outputs and truth doesn't eliminate normativity; it presupposes it. The concept of "truth" grounding reliability is the very normative property physicalism struggles to accommodate.
+
+A functionalist might respond that "ought" can be naturalised—beliefs ought to track truth in the sense that organisms with truth-tracking faculties survive and reproduce. But this reduces epistemic norms to reproductive success, making true beliefs about abstract mathematics or metaphysics—domains irrelevant to reproduction—accidentally justified at best. The reliabilist needs *truth* as a norm, not *survival-conduciveness*.
 
 ### The Generality Problem
 
@@ -88,6 +94,8 @@ To assess whether a belief-forming process is reliable, we must specify *which t
 Large language models produce outputs matching valid reasoning. If these systems lack consciousness, do they provide counterexamples to claims that reasons-responsiveness requires consciousness?
 
 The Map's response distinguishes *generating outputs that match valid reasoning* from *being reasons-responsive*. LLMs manipulate symbols based on statistical patterns in training data; their outputs aren't constrained by sensitivity to logical necessity as normative constraint. A process can reliably produce outputs matching valid derivations without tracking the *normative* dimension—without being constrained by the fact that conclusions *ought* to follow from premises.
+
+The key test: does the system respond differently when confronted with *why* a conclusion follows versus merely *that* it follows? A reasons-responsive system grasps the explanatory structure—understanding that the conclusion *follows because* of the logical relationship, not merely that it *tends to appear* when the premises are present. Whether LLMs achieve this or merely simulate it is precisely the question of whether they're conscious in the relevant sense.
 
 Whether this distinction holds under scrutiny remains contested. LLMs represent a genuine challenge case where the boundaries of reasons-responsiveness are tested. The correlation between consciousness and reasons-responsive behaviour in biological systems remains robust, but whether consciousness is a constitutive requirement or merely one biological route to this capacity is an open question the Map acknowledges.
 
@@ -114,6 +122,7 @@ Reasons-responsiveness connects to multiple [[tenets]]:
 ## Further Reading
 
 - [[argument-from-reason]] — The self-defeat argument showing physicalism cannot account for reasons-responsiveness
+- [[self-stultification]] — How the argument from reason renders physicalism self-undermining
 - [[luck-objection]] — Why reasons-guidance distinguishes selection from luck
 - [[agent-causation]] — How agents exercise causal power through reasons-responsive selection
 - [[free-will]] — The broader framework connecting reasons-responsiveness to genuine choice
@@ -122,6 +131,7 @@ Reasons-responsiveness connects to multiple [[tenets]]:
 - [[mental-effort]] — Why reasoning feels effortful and what this suggests
 - [[voluntary-attention]] — The paradigm case of reasons-responsive selection in attention deployment
 - [[causal-closure]] — The physicalist principle that reasons-responsiveness challenges
+- [[process-and-consciousness]] — Process philosophy's support for reasons-responsiveness as experiential self-determination
 
 ## References
 
