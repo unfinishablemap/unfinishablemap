@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense arguments/materialism.md (3835 words, 110% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core philosophical arguments against materialism (hard problem, knowledge argument, explanatory gap, conceivability). Preserve formal argument structure and tenet connections while removing redundancy with concept pages like materialism.md. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
 ### P2: Condense arguments/many-worlds.md (3762 words, 108% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core philosophical arguments against Many Worlds Interpretation from indexical identity perspective. Directly supports No Many Worlds tenet. Preserve vertiginous question discussion and formal arguments while consolidating with many-worlds.md concept page treatment.
@@ -373,6 +367,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense arguments/materialism.md (3835 words, 110% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core philosophical arguments against materialism (hard problem, knowledge argument, explanatory gap, conceivability). Preserve formal argument structure and tenet connections while removing redundancy with concept pages like materialism.md. See /condense skill.
+- **Output**: obsidian/concepts/materialism.md
 
 ### ✓ 2026-02-02: Write article on consciousness and emotional valence
 - **Type**: expand-topic
