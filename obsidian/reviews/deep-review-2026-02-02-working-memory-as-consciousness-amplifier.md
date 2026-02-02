@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-02-02
-**Article**: [[working-memory-as-consciousness-amplifier|Working Memory as Consciousness Amplifier]]
+**Article**: [[working-memory-as-consciousness-amplifier|Working Memory as Consciousness Amplifier]] (now archived; content coalesced into [[working-memory]])
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -30,6 +30,11 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated:
+archived: true
+archived_date: 2026-02-02T11:42:00+00:00
+superseded_by: "/concepts/working-memory/"
+archive_reason: "Coalesced into Working Memory and Consciousness"
+original_path: "/topics/working-memory-as-consciousness-amplifier/"
 ---
 
 Working memory expansion is the primary mechanism through which consciousness amplifies human cognition. The jump from chimpanzee capacity (roughly 2±1 items) to human capacity (7±2 items) enables qualitatively different cognitive operations: recursive linguistic structure, counterfactual reasoning, and the cumulative culture that distinguishes human civilisation. This expansion isn't merely quantitative storage increase—it reflects expanded conscious access, enabling the manipulation operations that require consciousness to perform.
