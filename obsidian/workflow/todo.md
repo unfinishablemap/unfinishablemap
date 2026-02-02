@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for observational closure
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-29 (evening). Saad's distinction between universal causal closure and observational closure in delegatory dualism. Dualists need only respect the latter—no *observable* violations of physical patterns. Important for responding to the causal closure objection.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
-### P2: Create concept page for the regress objection to illusionism
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-29 (evening). The argument that misrepresentation presupposes presentation appears throughout the Map but deserves systematic development. Central to responding to illusionism—the strongest physicalist position.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
 ### P2: Write article on consciousness and creativity
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Builds on free-will, agent-causation, voluntary-attention. Addresses gap in how consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination. Creativity as paradigm case of Bidirectional Interaction.
@@ -289,6 +277,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Create concept page for observational closure
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29 (evening). Saad's distinction between universal causal closure and observational closure in delegatory dualism. Dualists need only respect the latter—no *observable* violations of physical patterns. Important for responding to the causal closure objection.
+- **Output**: Create concept page for observational closure
 
 ### ✓ 2026-02-02: Write article on the argument from reason
 - **Type**: expand-topic
