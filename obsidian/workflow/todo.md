@@ -49,6 +49,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
+### P2: Write voids article on affective void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-affective-void-2026-01-31.md. The affective void concerns emotions and feeling-states structurally inaccessible to human consciousness—entire dimensions of affective experience that may exist in the space of possible minds but lie beyond human phenomenological reach. Sits at intersection of evolutionary constraints, architectural limits, and intrinsic nature problem. Connects to intrinsic-nature-void.md, other-minds-void.md, consciousness-only-territories.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Write voids article on cognitive aversion
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-cognitive-aversion-2026-02-01.md. Thoughts we systematically fail to sustain—not because we cannot think them (cognitive closure), but because something deflects us. Territory between Unexplored and Occluded. Convergent evidence from existential philosophy (Heidegger, Becker), psychology (terror management theory), and phenomenology (Sartre's bad faith). Connects to defended-territory.md, thoughts-that-slip-away.md, phenomenology-of-the-edge.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Write voids article on introspective opacity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-introspective-opacity-2026-02-01.md. The structural limits on consciousness observing its own operations in real-time—the impossibility of catching thought in the act of thinking. James's "seizing a spinning top to catch its motion." Convergent evidence from phenomenology (Sartre, Husserl), cognitive psychology (Nisbett & Wilson, Carruthers). Connects to the-unobservable-self.md, thoughts-that-slip-away.md, self-reference-paradox.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-02
+
+### P2: Condense functionalism.md (4450 words, 127% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers the functionalist position and its problems. Despite previous condense attempts, still over threshold. Preserve core functionalist claims and objections (multiple realizability, china brain, substrate-independence). Further consolidation needed. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P2: Condense downward-causation.md (3875 words, 111% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers mental causation and how non-physical consciousness can causally influence physical processes. Preserve core causal arguments, Kim's exclusion problem response, connection to quantum Zeno mechanism. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P3: Deep review contemplative-path.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on contemplative approaches to consciousness. Check phenomenological claims, ensure alignment with Map's framework, verify connections to witness-consciousness.md and meditation-and-consciousness-modes.md.
+- **Source**: staleness
+- **Generated**: 2026-02-02
+
+### P3: Deep review process-and-consciousness.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on process philosophy's account of consciousness. Check philosophical accuracy, ensure alignment with Map's dualist framework, verify connections to temporal-consciousness.md.
+- **Source**: staleness
+- **Generated**: 2026-02-02
+
 ### P3: Deep review neural-implementation-specifics.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Technical article on candidate neural sites for the consciousness-brain interface. Check empirical claims, ensure alignment with Map's framework, verify connections to attention-interface-mechanisms.md.
