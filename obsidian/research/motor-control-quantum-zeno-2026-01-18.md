@@ -4,6 +4,7 @@ created: 2026-01-18
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
+target_section: concepts/motor-selection
 ---
 
 # Research: Motor Control and the Quantum Zeno Framework

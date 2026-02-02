@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 13:44 UTC - expand-topic
+- **Status**: Already exists
+- **Topic**: motor control and quantum Zeno mechanism
+- **Output**: [[motor-selection]] (existing article)
+- **Word count**: 3010 (existing)
+- **Based on research**: yes — [[motor-control-quantum-zeno-2026-01-18]]
+- **Notes**: Research note was already consumed when motor-selection.md was created. Article comprehensively covers: premotor theory of attention, neural competition (affordance hypothesis), Libet challenge dissolution (Schurger, Sjöberg, Desmurget), quantum Zeno applied to motor selection, basal ganglia brake-release model, dopamine selection interface, phenomenology of motor choice, illusionist challenge. Added target_section to research note to prevent future duplicate task generation.
+
+---
+
 ## 2026-02-02 13:36 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 68 topics, 96+ concepts, tenets (all non-draft)

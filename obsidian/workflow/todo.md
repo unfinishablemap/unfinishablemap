@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on motor control and quantum Zeno mechanism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how voluntary motor control might utilize the quantum Zeno effect through attention—directly relevant to Minimal Quantum Interaction tenet. Connects to stapp-quantum-mind.md, voluntary-attention.md, attention-interface-mechanisms.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
 ### P2: Write article on neural binding and quantum entanglement
 - **Type**: expand-topic
 - **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md. Investigates whether quantum entanglement could underlie the binding problem in consciousness. Directly relevant to Minimal Quantum Interaction tenet. Connects to binding-problem.md, quantum-consciousness.md, unity-of-consciousness.md.
@@ -385,6 +379,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write article on motor control and quantum Zeno mechanism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how voluntary motor control might utilize the quantum Zeno effect through attention—directly relevant to Minimal Quantum Interaction tenet. Connects to stapp-quantum-mind.md, voluntary-attention.md, attention-interface-mechanisms.md.
+- **Output**: motor control and quantum Zeno mechanism
+
+### ✓ 2026-02-02: Write article on motor control and quantum Zeno mechanism
+- **Type**: expand-topic
+- **Status**: Already exists
+- **Notes**: Article already exists at concepts/motor-selection.md (comprehensive treatment). Research note motor-control-quantum-zeno-2026-01-18.md was consumed when motor-selection.md was created. Article covers: premotor theory of attention, neural competition/affordance hypothesis, Libet challenge dissolution, quantum Zeno applied to motor control, basal ganglia brake-release model. Last deep review: 2026-01-26.
+- **Output**: [[motor-selection]] (existing)
 
 ### ✓ 2026-02-02: Integrate phenomenal-intentionality.md into site navigation
 - **Type**: integrate-orphan
