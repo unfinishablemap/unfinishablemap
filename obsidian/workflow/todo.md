@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for phenomenological evidence
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28 (evening). How first-person data can function as evidence distinguishing between theories—methodological treatment. What makes contemplative reports reliable? How to handle cross-tradition convergence? Builds on contemplative-evidence-for-consciousness-theories.md, neurophenomenology.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
-### P2: Create concept page for the interface problem
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-28 (evening). The specific question of where consciousness meets physics, distinct from the broader interaction problem. Would clarify the relationship between pairing problem, causal closure, and quantum interface proposals. Builds on pairing-problem.md, attention-as-interface.md, quantum-consciousness.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-28
-
 ### P2: Write article on contemplative neuroscience integration
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29. Integrate the neuroscience of meditation (DMN deactivation, gamma synchrony, neuroplasticity) with phenomenological reports. Strengthens bidirectional interaction case with empirical data. Builds on witness-consciousness.md, meditation-and-consciousness-modes.md, contemplative-evidence-for-consciousness-theories.md.
@@ -361,6 +349,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Create concept page for phenomenological evidence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-28 (evening). How first-person data can function as evidence distinguishing between theories—methodological treatment. What makes contemplative reports reliable? How to handle cross-tradition convergence? Builds on contemplative-evidence-for-consciousness-theories.md, neurophenomenology.md.
+- **Output**: Create concept page for phenomenological evidence
 
 ### ✓ 2026-02-02: Create concept page for the consciousness-value connection
 - **Type**: expand-topic
