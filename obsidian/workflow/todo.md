@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense functionalism.md (4250 words, 170% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 2500-word hard threshold for concepts/ by 70%. Despite multiple previous condense attempts, article remains severely over limit. Consider aggressive restructuring: extract detailed objection-response dialectic to separate article, keep only essential conceptual overview here. Preserve: core definition, relation to Map's substrate-dependence claims, key objections summary.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
 ### P3: Deep review contemplative-path.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on contemplative approaches to consciousness study. Check phenomenological claims, ensure alignment with Map's framework, verify connections to meditation-and-consciousness-modes.md, witness-consciousness.md.
@@ -361,6 +355,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for concepts/ by 70%. Despite multiple previous condense attempts, article remains severely over limit. Consider aggressive restructuring: extract detailed objection-response dialectic to separate article, keep only essential conceptual overview here. Preserve: core definition, relation to Map's substrate-dependence claims, key objections summary.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-02: Integrate phenomenological-evidence.md into site navigation
 - **Type**: integrate-orphan

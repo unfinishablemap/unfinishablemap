@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 14:10 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [[functionalism]]
+- **Word count**: 2036 words
+- **Threshold**: 2500 words (concepts section)
+- **Reason**: Article is already 19% below target threshold. No condensation needed.
+
+---
+
 ## 2026-02-02 14:04 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[entanglement-binding-hypothesis]]
