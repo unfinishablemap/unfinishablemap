@@ -4,7 +4,8 @@ description: "Working memory expansion is how consciousness amplifies cognition.
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-02T03:13:00+00:00
+ai_modified: 2026-02-02T03:18:00+00:00
+last_deep_review: 2026-02-02T03:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +21,7 @@ concepts:
   - "[[mental-effort]]"
   - "[[metarepresentation]]"
   - "[[counterfactual-reasoning]]"
+  - "[[phenomenology-of-choice]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-working-memory-2026-01-17]]"
@@ -36,7 +38,7 @@ The Unfinishable Map proposes that [[attention-as-interface|attention functions 
 
 ## The Capacity Gap
 
-Chimpanzee working memory holds approximately 2±1 items. Human working memory holds 7±2 items (Miller 1956). This three-to-four-fold expansion creates exponential increases in computational possibility.
+Chimpanzee working memory holds approximately 2±1 items (Inoue & Matsuzawa 2007 on numerical sequence tasks). Human working memory holds 7±2 items (Miller 1956). This three-to-four-fold expansion creates exponential increases in computational possibility.
 
 With 2 items, you can compare them. With 7 items, you can hold multiple comparisons simultaneously, track intermediate results, and manipulate nested structures. The difference isn't linear—it's combinatorial. Two items yield one comparison; seven items yield twenty-one pairwise comparisons plus the ability to hold several comparisons in mind while making further comparisons.
 
@@ -60,7 +62,7 @@ What makes manipulation specifically consciousness-requiring?
 
 Manipulation involves operating on representations as representations—taking working memory contents as objects of thought rather than merely having them present. When you compare two items, you must simultaneously hold both while attending to their relationship. When you transform an item (rotating a mental image, negating a proposition), you must track both the original and the transformation. When you combine items into novel structures, you must represent the combination as distinct from its parts.
 
-These operations have the structure of [[metarepresentation]]—representing representations. The research consensus is that metarepresentation requires conscious access. You cannot take something as an object of thought without being conscious of it; otherwise, it's not an object for you but merely a state you're in.
+These operations have the structure of [[metarepresentation]]—representing representations. The research consensus is that metarepresentation requires conscious access. You cannot take something as an object of thought without being conscious of it; otherwise, it's not an object for you but merely a state you're in. The [[phenomenology-of-choice|phenomenology of deliberate manipulation]]—holding alternatives, comparing them, settling on one—reflects this structure.
 
 [[Mental-effort|Mental effort]] tracks this distinction precisely. Passive maintenance feels effortless—phone numbers "held in mind" without active work. Active manipulation feels effortful—mental arithmetic, logical reasoning, creative recombination all involve phenomenal cost. The phenomenology of effort may mark exactly where consciousness engages with cognitive content.
 
@@ -80,7 +82,7 @@ Counterfactual reasoning—considering what might have been or could be—requir
 
 This is working memory manipulation par excellence. The actual situation occupies some capacity; the counterfactual variation occupies additional capacity; the relationship between them (what changed, what remained constant) requires yet more. With 2±1 capacity, simple counterfactuals exhaust available resources. With 7±2 capacity, complex hypothetical reasoning becomes possible.
 
-The Bischof-Köhler hypothesis proposes that non-human animals cannot act on drive states they don't currently experience—a sated animal won't store food for future hunger because it cannot represent that future state while currently sated. Human prospective cognition transcends this limitation through working memory manipulation: we can hold present states, simulate future states, and compare them to guide current action.
+The Bischof-Köhler hypothesis (Bischof-Köhler 1985) proposes that non-human animals cannot act on drive states they don't currently experience—a sated animal won't store food for future hunger because it cannot represent that future state while currently sated. Human prospective cognition transcends this limitation through working memory manipulation: we can hold present states, simulate future states, and compare them to guide current action.
 
 [[counterfactual-reasoning|Counterfactual thinking]] enables learning from hypothetical alternatives (not just actual outcomes), planning for unexperienced futures, and evaluating actions by their possible consequences. Each operation requires the manipulation capacity that expanded working memory provides.
 
@@ -124,7 +126,7 @@ The Unfinishable Map's [[tenets]] commit to consciousness as causally efficaciou
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Working memory operates at neural timescales (seconds), while quantum effects occur at much shorter timescales. The activity-silent hypothesis—information maintained through synaptic calcium traces lasting roughly one second—may bridge these scales. Whether quantum mechanisms are involved remains speculative; the core claim (consciousness participates in manipulation) doesn't depend on the mechanism.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Working memory manipulation presupposes determinate content. When you hold items and compare them, the comparison yields a determinate result—this is greater than that, these are similar, those conflict. If all comparison outcomes were equally realised across branches, the phenomenology of reaching conclusions would be illusory. But reaching conclusions is precisely what working memory manipulation enables.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Working memory manipulation presupposes determinate content. When you hold items and compare them, the comparison yields a determinate result—this is greater than that, these are similar, those conflict. In Many-Worlds interpretations, every manipulation outcome is realised across branches; the felt determinacy of reaching a conclusion is branch-relative. The Map finds this unsatisfying—the phenomenology of settling on an answer resists analysis as accessing one among equally real outcomes. This represents a philosophical standoff rather than decisive refutation; Many-Worlds proponents will analyse the phenomenology differently.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The simple hypothesis—working memory expansion is purely neural—doesn't explain why manipulation requires consciousness while maintenance doesn't. The phenomenon is real; explaining it requires positing consciousness as constitutive of manipulation. This adds ontological complexity but follows where the evidence leads.
 
@@ -143,6 +145,7 @@ The Unfinishable Map's [[tenets]] commit to consciousness as causally efficaciou
 ## References
 
 - Baddeley, A.D. & Hitch, G.J. (1974). Working memory. *Psychology of Learning and Motivation*, 8, 47-89.
+- Bischof-Köhler, D. (1985). Zur Phylogenese menschlicher Motivation [On the phylogeny of human motivation]. In L.H. Eckensberger & E.D. Lantermann (Eds.), *Emotion und Reflexivität* (pp. 3-47). Urban & Schwarzenberg.
 - Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004-R1005.
 - Lieberman, M.D. et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
 - Meister, M. (2024). The physical limits of perception. *Proceedings of the National Academy of Sciences*, 121(14), e2400258121.
