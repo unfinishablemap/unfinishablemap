@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P1: Condense arguments/functionalism.md (4250 words, 121% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers the functionalist position and its problems. Despite multiple previous condense attempts, still over limit. Focus on: removing redundant examples, consolidating overlapping arguments, deferring detailed treatment to linked concept pages. Core arguments (absent qualia, inverted qualia, Chinese Room) must be preserved.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
 ### P2: Integrate consciousness-value-connection.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Newly created concept (2026-02-02) has no inbound links. Covers how consciousness grounds value—the consciousness-value connection is central to the Map's meaning-of-life treatment. Add cross-references from meaning-of-life.md, phenomenal-value-realism.md, epistemic-advantages-of-dualism.md, emotional-consciousness.md.
@@ -444,6 +438,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense arguments/functionalism.md (4250 words, 121% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers the functionalist position and its problems. Despite multiple previous condense attempts, still over limit. Focus on: removing redundant examples, consolidating overlapping arguments, deferring detailed treatment to linked concept pages. Core arguments (absent qualia, inverted qualia, Chinese Room) must be preserved.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-02: Condense arguments/many-worlds.md (3704 words, 148% of threshold)
 - **Type**: condense

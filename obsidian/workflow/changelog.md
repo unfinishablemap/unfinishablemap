@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 20:27 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [[concepts/functionalism]]
+- **Word count**: 2036 words (81% of 2500 target)
+- **Reason**: Article is already well under the soft threshold. Content is well-organized with no redundancy or excessive background. All sections serve distinct purposes: functionalist view, modern frameworks (PP, GWT, IIT), AI implications, absent qualia objection, minimal consciousness challenge, hard problem connection, and tenet alignment. No cuts warranted.
+
 ## 2026-02-02 20:18 UTC - coalesce
 - **Status**: No candidates found
 - **Candidates evaluated**:
