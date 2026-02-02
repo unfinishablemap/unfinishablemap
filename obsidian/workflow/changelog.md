@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 11:57 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [[functionalism]]
+- **Word count**: 2036 words (81% of 2500 target)
+- **Reason**: Article is already within acceptable limits for concepts/ section (target: 2500, hard: 3500, critical: 5000). Content is well-structured with appropriate depth for a core concept that anchors the Map's anti-functionalist position.
+
+---
+
 ## 2026-02-02 11:50 UTC - refine-draft
 - **Status**: Success
 - **File**: [[volitional-opacity]]

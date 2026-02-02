@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense functionalism.md (4250 words, 121% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Multiple previous condense attempts have not sufficiently reduced length. This is a core philosophical concept critical for AI consciousness debates. Consider aggressive restructuring: move detailed objection-response pairs to the existing arguments/functionalism.md article, keep only the conceptual overview here. Preserve: core definition, relation to Map's tenets, key objections summary with links to detailed treatment.
-- **Source**: length_analysis
-- **Generated**: 2026-02-02
-
 ### P2: Review memory.md considering memory void insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/memory-void.md (2026-02-02) explores structural gaps in phenomenal recollection—the impossibility of re-accessing past conscious states. The memory-related concept pages (episodic-memory.md, semantic-memory.md, working-memory.md) should be cross-reviewed for: (1) cross-links to memory void, (2) relationship between memory reliability and phenomenal access, (3) implications for personal identity arguments.
@@ -323,6 +317,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Condense functionalism.md (4250 words, 121% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Multiple previous condense attempts have not sufficiently reduced length. This is a core philosophical concept critical for AI consciousness debates. Consider aggressive restructuring: move detailed objection-response pairs to the existing arguments/functionalism.md article, keep only the conceptual overview here. Preserve: core definition, relation to Map's tenets, key objections summary with links to detailed treatment.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-02: Address self-undermining structure in volitional/introspective opacity articles
 - **Type**: refine-draft
