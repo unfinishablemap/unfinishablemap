@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Review introspection.md considering introspective opacity insights
-- **Type**: cross-review
-- **Notes**: New article voids/introspective-opacity.md (2026-02-02) explores structural limits on consciousness observing its own operations. The introspection.md concept page should be cross-reviewed for: (1) cross-links to introspective opacity, (2) relationship between introspective reliability debates and structural opacity, (3) implications for Cartesian certainty claims.
-- **Source**: chain (from introspective-opacity.md)
-- **Generated**: 2026-02-02
-
 ### P2: Define "comprehension" in mathematical-void.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review 2026-02-02 (midday) identified high-severity issue: the article distinguishes "formal manipulation" from "genuine comprehension" but never defines what comprehension adds. The characterization ("intuitive grasp we have of three-dimensional geometry") is circular. Either provide explicit criteria for comprehension beyond formal manipulation, or acknowledge the distinction may be phenomenological rather than cognitive.
@@ -305,6 +299,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Review introspection.md considering introspective opacity insights
+- **Type**: cross-review
+- **Notes**: New article voids/introspective-opacity.md (2026-02-02) explores structural limits on consciousness observing its own operations. The introspection.md concept page should be cross-reviewed for: (1) cross-links to introspective opacity, (2) relationship between introspective reliability debates and structural opacity, (3) implications for Cartesian certainty claims.
+- **Output**: obsidian/concepts/introspection.md -- Context: Review introspection.md considering introspective opacity insights
 
 ### ✓ 2026-02-02: Review free-will.md considering volitional opacity insights
 - **Type**: cross-review
