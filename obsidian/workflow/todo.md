@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate phenomenal-value-realism-development.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Newly created topics article (2026-02-02) has no inbound links. Develops metaethical foundations for consciousness-grounded value. Add cross-references from meaning-of-life.md, phenomenal-value-realism.md, epistemic-advantages-of-dualism.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Review free-will.md considering volitional opacity insights
 - **Type**: cross-review
 - **Notes**: New article voids/volitional-opacity.md (2026-02-02) explores the gap between willing and its neural/cognitive implementation. The free-will.md article should be cross-reviewed for: (1) cross-links to volitional opacity, (2) how opacity of willing relates to libertarian free will arguments, (3) connection between Libet experiments and the experience of intending.
@@ -296,6 +290,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate phenomenal-value-realism-development.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created topics article (2026-02-02) has no inbound links. Develops metaethical foundations for consciousness-grounded value. Add cross-references from meaning-of-life.md, phenomenal-value-realism.md, epistemic-advantages-of-dualism.md.
+- **Output**: obsidian/topics/phenomenal-value-realism-development.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Integrate history-of-interactionist-dualism.md into site navigation
 - **Type**: integrate-orphan

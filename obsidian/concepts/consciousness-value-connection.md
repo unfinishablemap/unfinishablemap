@@ -4,7 +4,7 @@ description: "Why consciousness is necessary for value to exist. Without experie
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-02T00:41:00+00:00
+ai_modified: 2026-02-02T11:14:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -173,6 +173,7 @@ These conditions do not currently obtain. The connection stands.
 ## Further Reading
 
 - [[phenomenal-value-realism]] — The metaethical grounding: phenomenal properties constitute value
+- [[phenomenal-value-realism-development]] — How consciousness-grounded value addresses metaethical challenges and extends to pluralism
 - [[meaning-of-life]] — How consciousness-grounded value provides meaning
 - [[emotional-consciousness]] — Valence as the phenomenal dimension of good and bad
 - [[ethics-of-consciousness]] — Moral implications of the consciousness-value connection

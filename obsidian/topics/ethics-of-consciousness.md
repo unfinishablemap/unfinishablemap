@@ -4,7 +4,7 @@ description: "Consciousness creates moral status. Beings with subjective experie
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-02-02T04:46:00+00:00
+ai_modified: 2026-02-02T11:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -202,6 +202,7 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [[moral-responsibility]] — How agent causation grounds desert
 - [[experiential-alignment]] — Targeting experience rather than preferences
 - [[phenomenal-value-realism]] — The metaethical grounding for experiential value
+- [[phenomenal-value-realism-development]] — How phenomenal value pluralism extends beyond hedonism to address metaethical challenges
 - [[emotional-consciousness]] — The felt quality of emotion and its ethical implications
 - [[illusionism]] — The challenge from eliminativism about phenomenal consciousness
 - [[tenets]] — the Map's foundational commitments

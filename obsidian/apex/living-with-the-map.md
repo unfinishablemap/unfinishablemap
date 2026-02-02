@@ -4,7 +4,7 @@ description: "What consciousness-first philosophy means for daily life. The Map 
 created: 2026-01-31
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-02T04:46:00+00:00
+ai_modified: 2026-02-02T11:14:00+00:00
 last_deep_review: 2026-02-02T04:46:00+00:00
 draft: false
 topics:
@@ -181,6 +181,7 @@ This apex article synthesizes:
 - [[ethics-of-consciousness|Ethics of Consciousness]] — How consciousness creates moral status
 - [[purpose-and-alignment|Purpose and AI Alignment]] — Why AI alignment faces the meaning problem
 - [[phenomenal-value-realism|Phenomenal Value Realism]] — Value as a feature of experience
+- [[phenomenal-value-realism-development|Developing Phenomenal Value Realism]] — How value pluralism extends beyond hedonism
 - [[moral-responsibility|Moral Responsibility]] — How agent causation grounds desert
 - [[existentialism|Existentialism]] — Sartre's pour-soi and the structure of freedom
 - [[free-will|Free Will and Determinism]] — The Map's libertarian framework

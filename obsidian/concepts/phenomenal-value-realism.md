@@ -4,7 +4,7 @@ description: "The metaethical view that intrinsic value is a feature of consciou
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-02-02T04:46:00+00:00
+ai_modified: 2026-02-02T11:14:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -191,6 +191,7 @@ If value is grounded in consciousness: the [[hard-problem-of-consciousness|hard 
 
 ## Further Reading
 
+- [[phenomenal-value-realism-development]] — Developing the metaethical foundations: how the view addresses queerness objections, the is-ought gap, and extends to phenomenal value pluralism
 - [[experiential-alignment]] — The operationalization of phenomenal value realism for AI alignment
 - [[aesthetic-dimension-of-consciousness]] — Why experience has aesthetic quality, and why this resists reduction
 - [[meaning-of-life]] — The case that consciousness grounds meaning

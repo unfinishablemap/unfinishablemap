@@ -4,7 +4,7 @@ description: "What makes life meaningful? The Map suggests meaning is grounded i
 created: 2026-01-08
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-02T04:46:00+00:00
+ai_modified: 2026-02-02T11:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -253,6 +253,7 @@ The position takes seriously what we actually know: consciousness exists, it's r
 - [[nihilism]] — The case for meaninglessness and responses to it
 - [[existentialism]] — Sartre's pour-soi and the phenomenology of freedom support consciousness-grounded meaning
 - [[phenomenal-value-realism]] — The metaethical grounding for consciousness-based value
+- [[phenomenal-value-realism-development]] — Extending phenomenal value realism to address metaethical challenges and value pluralism
 - [[purpose-and-alignment]] — How AI alignment depends on unresolved questions about meaning
 
 ### Consciousness and Experience
