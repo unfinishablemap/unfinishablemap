@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02T14:14:00+00:00
+ai_modified: 2026-02-02T20:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -49,6 +49,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
+### P1: Condense arguments/functionalism.md (4250 words, 121% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers the functionalist position and its problems. Despite multiple previous condense attempts, still over limit. Focus on: removing redundant examples, consolidating overlapping arguments, deferring detailed treatment to linked concept pages. Core arguments (absent qualia, inverted qualia, Chinese Room) must be preserved.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P2: Integrate consciousness-value-connection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created concept (2026-02-02) has no inbound links. Covers how consciousness grounds value—the consciousness-value connection is central to the Map's meaning-of-life treatment. Add cross-references from meaning-of-life.md, phenomenal-value-realism.md, epistemic-advantages-of-dualism.md, emotional-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Integrate substance-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created concept (2026-02-02) has no inbound links. Covers E.J. Lowe's view that all causation is fundamentally agents exercising powers—important for the Map's agent-causation arguments. Add cross-references from agent-causation.md, interactionist-dualism.md, mental-causation.md, downward-causation.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-02
+
+### P2: Cross-review qualia.md considering emotional valence article
+- **Type**: cross-review
+- **Notes**: New topic article topics/emotional-consciousness.md (expanded 2026-02-02) develops the phenomenal character of hedonic experience. The qualia.md concept page should be cross-reviewed for: (1) cross-links to emotional consciousness treatment, (2) reinforcing valence as paradigm qualia, (3) ensuring consistent treatment of the felt quality problem across articles.
+- **Source**: chain (from emotional-consciousness expansion)
+- **Generated**: 2026-02-02
+
+### P2: Condense arguments/materialism.md (3788 words, 108% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Covers core philosophical arguments against materialism (hard problem, knowledge argument, explanatory gap, conceivability). Preserve formal argument structure and tenet connections while removing redundancy with concept pages like materialism.md.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
+### P2: Condense arguments/many-worlds.md (3704 words, 106% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Core philosophical arguments against Many Worlds Interpretation from indexical identity perspective. Directly supports No Many Worlds tenet. Preserve vertiginous question discussion and formal arguments while consolidating with many-worlds.md concept page treatment.
+- **Source**: length_analysis
+- **Generated**: 2026-02-02
+
 ### P3: Deep review contemplative-path.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on contemplative approaches to consciousness study. Check phenomenological claims, ensure alignment with Map's framework, verify connections to meditation-and-consciousness-modes.md, witness-consciousness.md.
@@ -71,6 +107,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Technical article on candidate neural sites for the consciousness-brain interface. Check empirical claims, ensure alignment with Map's framework, verify connections to attention-interface-mechanisms.md.
 - **Source**: staleness
+- **Generated**: 2026-02-02
+
+### P3: Deep review alien-minds-void-explorers.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores how non-human minds might serve as "void explorers" accessing cognitive territories inaccessible to humans. Check philosophical rigor, ensure alignment with Map's framework, verify connections to other-minds-void.md, consciousness-only-territories.md.
+- **Source**: staleness
+- **Generated**: 2026-02-02
+
+### P3: Deep review causal-interface.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Covers the void at the causal interface between consciousness and physics—what cannot be known about how the coupling actually works. Verify philosophical accuracy, check connections to psychophysical-coupling-mechanisms.md, minimal-quantum-interaction arguments.
+- **Source**: staleness
+- **Generated**: 2026-02-02
+
+### P3: Integrate phenomenology-of-understanding.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers the phenomenology of understanding—what it feels like to grasp something. Central to the Map's arguments about consciousness and meaning. Add cross-references from phenomenology-of-choice.md, consciousness-and-mathematical-understanding.md, epistemic-emotions.md.
+- **Source**: orphan_integration
 - **Generated**: 2026-02-02
 
 ### P3: Write article on emergence and strong emergence
