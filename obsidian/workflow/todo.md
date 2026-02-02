@@ -49,13 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on choking phenomenon and mental causation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Builds on implicit-memory, mental-causation, epiphenomenalism. Sports psychology evidence for consciousness's causal efficacy—when attention shifts to automatized skills, execution is disrupted. Directly supports Bidirectional Interaction with unexpected empirical evidence. See optimistic-2026-01-31.md
-- **Source**: optimistic-review
-- **Generated**: 2026-01-31
-
 ### P3: Write article on emergence and strong emergence
 - **Type**: expand-topic
 - **Status**: pending
@@ -212,6 +205,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write article on choking phenomenon and mental causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Builds on implicit-memory, mental-causation, epiphenomenalism. Sports psychology evidence for consciousness's causal efficacy—when attention shifts to automatized skills, execution is disrupted. Directly supports Bidirectional Interaction with unexpected empirical evidence. See optimistic-2026-01-31.md
+- **Output**: choking phenomenon and mental causation
 
 ### ✓ 2026-02-02: Write article on working memory as consciousness amplifier
 - **Type**: expand-topic
