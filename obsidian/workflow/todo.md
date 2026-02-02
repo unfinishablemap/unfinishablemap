@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on consciousness in simple organisms
-- **Type**: expand-topic
-- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Covers C. elegans, Hydra, slime molds, and the Unlimited Associative Learning (UAL) framework for minimal consciousness markers. Important for extending the Map's consciousness claims beyond mammals. Connects to animal-consciousness.md, evolution-of-consciousness.md, panpsychism.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
 ### P2: Integrate conscious-vs-unconscious-processing.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-01-23) has no inbound links. Covers the empirical evidence distinguishing conscious from unconscious cognitive processing—directly relevant to the Map's claims about what consciousness adds. Add cross-references from baseline-cognition.md, consciousness-as-amplifier.md, global-workspace-theory.md, access-consciousness.md.
@@ -296,6 +290,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write article on consciousness in simple organisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Covers C. elegans, Hydra, slime molds, and the Unlimited Associative Learning (UAL) framework for minimal consciousness markers. Important for extending the Map's consciousness claims beyond mammals. Connects to animal-consciousness.md, evolution-of-consciousness.md, panpsychism.md.
+- **Output**: consciousness in simple organisms
+
+### ✓ 2026-02-02: Write article on consciousness in simple organisms
+- **Type**: expand-topic
+- **Status**: Already exists
+- **Notes**: Article already exists at topics/consciousness-in-simple-organisms.md (2798 words). Comprehensive treatment including C. elegans, Hydra, slime molds, UAL framework, baseline cognition, metarepresentation, illusionist challenge, process philosophy, and contemplative perspectives. Last deep review: 2026-01-30.
+- **Output**: [[consciousness-in-simple-organisms]] (existing)
 
 ### ✓ 2026-02-02: Condense functionalism.md (4250 words, 170% of threshold)
 - **Type**: condense
