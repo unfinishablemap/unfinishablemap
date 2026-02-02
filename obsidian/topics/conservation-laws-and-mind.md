@@ -4,7 +4,7 @@ description: "Does mental causation violate energy conservation? No—conservati
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-01-29T10:30:00+00:00
+ai_modified: 2026-02-02T11:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ last_curated:
 last_deep_review: 2026-01-29T10:30:00+00:00
 ---
 
-The energy conservation objection to [[interactionist-dualism]] claims that if non-physical consciousness could move matter, energy would be created or destroyed—violating one of physics' most fundamental principles. This objection, pressed since Leibniz in the 1690s, has been revitalized by contemporary physicists like Sean Carroll who argue the Standard Model leaves no room for "soul particles." Yet recent work by philosophers of physics demonstrates that this objection rests on misunderstandings of how conservation laws actually work. Conservation is *local* and *conditional*—it holds given certain assumptions, and fails where those assumptions fail. More importantly, consciousness may influence brain states without injecting energy at all: by selecting among quantum-permitted outcomes rather than adding anything new to the physical domain.
+The energy conservation objection to [[interactionist-dualism]] claims that if non-physical consciousness could move matter, energy would be created or destroyed—violating one of physics' most fundamental principles. This objection, pressed since Leibniz in the 1690s (see [[history-of-interactionist-dualism]] for the full historical development), has been revitalized by contemporary physicists like Sean Carroll who argue the Standard Model leaves no room for "soul particles." Yet recent work by philosophers of physics demonstrates that this objection rests on misunderstandings of how conservation laws actually work. Conservation is *local* and *conditional*—it holds given certain assumptions, and fails where those assumptions fail. More importantly, consciousness may influence brain states without injecting energy at all: by selecting among quantum-permitted outcomes rather than adding anything new to the physical domain.
 
 ## The Objection Stated
 

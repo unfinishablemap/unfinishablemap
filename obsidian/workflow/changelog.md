@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 11:07 UTC - deep-review
+- **Status**: Success
+- **File**: [[history-of-interactionist-dualism]]
+- **Word count**: 2106 → 2106 (unchanged - content stable from earlier review)
+- **Focus**: Orphan integration (adding inbound links from related articles)
+- **Critical issues addressed**: 0 (none found - article stable)
+- **Medium issues addressed**: 0 (none found)
+- **Cross-links added**: 7 inbound links from related articles
+- **Files modified**: substance-property-dualism.md, interactionist-dualism.md, dualism.md, conservation-laws-and-mind.md, emergence.md, epiphenomenalism.md, leibnizs-mill-argument.md
+- **Output**: [[reviews/deep-review-2026-02-02b-history-of-interactionist-dualism]]
+
+---
+
 ## 2026-02-02 11:02 UTC - deep-review
 - **Status**: Success
 - **File**: [[consciousness-and-meaning-integration]]

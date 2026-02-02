@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate history-of-interactionist-dualism.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Newly created topics article (2026-02-02) has no inbound links. Historical trajectory from Descartes through Princess Elizabeth to Stapp. Add cross-references from interactionist-dualism.md, conservation-laws-and-mind.md, objections-to-interactionism.md, quantum-consciousness.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Integrate phenomenal-value-realism-development.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Newly created topics article (2026-02-02) has no inbound links. Develops metaethical foundations for consciousness-grounded value. Add cross-references from meaning-of-life.md, phenomenal-value-realism.md, epistemic-advantages-of-dualism.md.
@@ -302,6 +296,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Integrate history-of-interactionist-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created topics article (2026-02-02) has no inbound links. Historical trajectory from Descartes through Princess Elizabeth to Stapp. Add cross-references from interactionist-dualism.md, conservation-laws-and-mind.md, objections-to-interactionism.md, quantum-consciousness.md.
+- **Output**: obsidian/topics/history-of-interactionist-dualism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-02: Integrate contemplative-neuroscience-integration.md into site navigation
 - **Type**: integrate-orphan

@@ -4,7 +4,7 @@ description: "The view that consciousness is causally inert faces the self-stult
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-01-29T09:24:16+00:00
+ai_modified: 2026-02-02T11:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ As the foundational [[dualism]] article explains, dualists face a choice between
 
 ## The View
 
-Epiphenomenalism emerged in the 19th century as physiology revealed the brain's role in behavior. T.H. Huxley, in his 1874 essay "On the Hypothesis that Animals are Automata," argued that consciousness accompanies certain brain processes but does not cause anything. The brain does all the causal work; mind is just along for the ride.
+Epiphenomenalism emerged in the 19th century as physiology revealed the brain's role in behavior. T.H. Huxley, in his 1874 essay "On the Hypothesis that Animals are Automata," argued that consciousness accompanies certain brain processes but does not cause anything. The brain does all the causal work; mind is just along for the ride. This period—discussed in [[history-of-interactionist-dualism]]—saw interactionism enter eclipse as conservation laws seemed to rule out mental causation.
 
 The view has three components:
 

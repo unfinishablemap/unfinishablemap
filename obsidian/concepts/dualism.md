@@ -4,7 +4,7 @@ description: "Dualism holds that consciousness is distinct from physical matter.
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-02-02T11:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -109,7 +109,7 @@ The Map's framework commits to interactionism, with the [[tenets#^minimal-quantu
 
 ### The Interaction Problem
 
-If mind is non-physical, how can it causally affect the physical world? Classical objections (Princess Elizabeth to Descartes, Leibniz on conservation laws) seemed devastating when physics was deterministic. But quantum mechanics reopens possibilities: at quantum indeterminacies, physics specifies probabilities, not outcomes. Consciousness could select among possibilities without injecting energy.
+If mind is non-physical, how can it causally affect the physical world? Classical objections (Princess Elizabeth to Descartes, Leibniz on conservation laws) seemed devastating when physics was deterministic. But quantum mechanics reopens possibilities: at quantum indeterminacies, physics specifies probabilities, not outcomes. Consciousness could select among possibilities without injecting energy. The [[history-of-interactionist-dualism]] traces how these objections evolved and why they no longer rule out interaction.
 
 The leading candidate mechanism is [[stapp-quantum-mind|Stapp's quantum Zeno effect]]: repeated attention-driven observations bias superposition collapse toward particular outcomes without adding energy, only information. The objection that warm, noisy brains can't maintain quantum coherence misunderstands the proposal—consciousness doesn't require long-lived superposition but operates on the timescale where quantum processes influence neural firing (sub-millisecond). See [[objections-to-interactionism]] for detailed treatment.
 

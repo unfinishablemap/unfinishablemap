@@ -4,7 +4,7 @@ description: "Consciousness is the paradigm case of strong emergence: genuinely 
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-30T02:40:00+00:00
+ai_modified: 2026-02-02T11:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -97,7 +97,7 @@ Each of these features—unity, qualitative character, agency—is what strong e
 
 ## The Map's Position: Strong Emergence with a Mechanism
 
-Classical British emergentists like Broad and Alexander affirmed strong emergence but couldn't specify how it operated. They accepted it with "natural piety"—brute facts to be acknowledged rather than explained.
+Classical British emergentists like Broad and Alexander affirmed strong emergence but couldn't specify how it operated. They accepted it with "natural piety"—brute facts to be acknowledged rather than explained. The [[history-of-interactionist-dualism]] traces how this emergentist tradition developed in response to the materialist eclipse of the early twentieth century.
 
 The Map advances beyond this. The [[interactionist-dualism|quantum framework]] provides what classical emergentism lacked: a mechanism for how non-physical causation operates without violating conservation laws.
 

@@ -4,7 +4,7 @@ description: "Leibniz's 1714 thought experiment imagines walking through an enla
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T20:30:00+00:00
+ai_modified: 2026-02-02T11:07:00+00:00
 last_deep_review: 2026-02-01T20:30:00+00:00
 draft: false
 topics:
@@ -51,7 +51,7 @@ The power of the argument lies in its vividness. It doesn't merely assert that p
 
 ## From Mills to Brains
 
-Modern neuroscience has given us extraordinary detail about the brain's "mill." We can map neural circuits, track electrochemical signals, measure blood flow with millimeter precision. Yet the challenge Leibniz posed persists. Examining neurons—even at molecular or quantum scales—reveals only physical processes: ions crossing membranes, neurotransmitters binding receptors, action potentials propagating down axons.
+Modern neuroscience has given us extraordinary detail about the brain's "mill." We can map neural circuits, track electrochemical signals, measure blood flow with millimeter precision. Yet the challenge Leibniz posed persists. Examining neurons—even at molecular or quantum scales—reveals only physical processes: ions crossing membranes, neurotransmitters binding receptors, action potentials propagating down axons. The [[history-of-interactionist-dualism]] traces how Leibniz's arguments shaped subsequent debates and how quantum mechanics reopened questions he thought closed.
 
 What we do not find is the redness of red, the painfulness of pain, the felt quality of any experience. The [[explanatory-gap]] between neural mechanisms and conscious experience echoes Leibniz's observation that mechanical inspection reveals "never anything by which to explain a perception."
 

@@ -4,8 +4,8 @@ description: "From Descartes through Princess Elizabeth to quantum mechanics: ho
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-02T02:52:00+00:00
-last_deep_review: 2026-02-02T02:52:00+00:00
+ai_modified: 2026-02-02T11:07:00+00:00
+last_deep_review: 2026-02-02T11:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
