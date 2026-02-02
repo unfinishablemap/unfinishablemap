@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Define "comprehension" in mathematical-void.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review 2026-02-02 (midday) identified high-severity issue: the article distinguishes "formal manipulation" from "genuine comprehension" but never defines what comprehension adds. The characterization ("intuitive grasp we have of three-dimensional geometry") is circular. Either provide explicit criteria for comprehension beyond formal manipulation, or acknowledge the distinction may be phenomenological rather than cognitive.
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-02
-
 ### P2: Address self-undermining structure in volitional/introspective opacity articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review 2026-02-02 (midday) identified high-severity issue: introspective-opacity.md argues introspection systematically misreports cognitive processes, while volitional-opacity.md treats introspective reports about willing as revealing genuine features. Either restrict the introspective opacity thesis with principled criteria for which domains remain reliable, or acknowledge volitional phenomenology may also be constructed rather than revelatory.
@@ -299,6 +293,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Define "comprehension" in mathematical-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-02-02 (midday) identified high-severity issue: the article distinguishes "formal manipulation" from "genuine comprehension" but never defines what comprehension adds. The characterization ("intuitive grasp we have of three-dimensional geometry") is circular. Either provide explicit criteria for comprehension beyond formal manipulation, or acknowledge the distinction may be phenomenological rather than cognitive.
+- **Output**: obsidian/voids/mathematical-void.md
+
+Task context:
+Pessimistic review 2026-02-02 (midday) identified high-severity issue: the article distinguishes "formal manipulation" from "genuine comprehension" but never defines what comprehension adds. The characterization ("intuitive grasp we have of three-dimensional geometry") is circular. Either provide explicit criteria for comprehension beyond formal manipulation, or acknowledge the distinction may be phenomenological rather than cognitive.
 
 ### ✓ 2026-02-02: Review introspection.md considering introspective opacity insights
 - **Type**: cross-review
