@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for phenomenal intentionality
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review. Central to symbol grounding problem and meaning-and-consciousness—the thesis that original intentionality derives from phenomenal consciousness. Currently mentioned but not given dedicated analysis. Would strengthen the connection between SGP and consciousness studies.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-30
-
-### P2: Create concept page for bad faith (mauvaise foi)
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review. Sartre's concept mentioned in existentialism.md but deserves dedicated treatment. Bad faith demonstrates consciousness's irreducibility—materialist accounts struggle to explain self-deception without multiplying subjects. The pour-soi's self-distance provides the structure.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-30
-
 ### P2: Condense quantum-interpretations.md (3625 words, 145% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Covers major QM interpretations and their implications for consciousness. Preserve: core interpretation summaries, evaluation criteria for consciousness relevance, connection to measurement-problem.md. See /condense skill.
@@ -241,6 +229,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Create concept page for phenomenal intentionality
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Central to symbol grounding problem and meaning-and-consciousness—the thesis that original intentionality derives from phenomenal consciousness. Currently mentioned but not given dedicated analysis. Would strengthen the connection between SGP and consciousness studies.
+- **Output**: Create concept page for phenomenal intentionality
 
 ### ✓ 2026-02-02: Create concept page for self-stultification arguments
 - **Type**: expand-topic
