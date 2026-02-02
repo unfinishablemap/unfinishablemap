@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review machine-question.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Central topic on whether machines can be conscious—highly relevant to current AI discourse. Ensure arguments align with Map's tenets, check for unsupported claims, verify tenet connections are explicit.
-- **Source**: staleness
-- **Generated**: 2026-02-02
-
 ### P2: Deep review testing-the-map-from-inside.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Important methodological piece on how to test the Map's claims through first-person methods. Check phenomenological claims, ensure testability discussion is rigorous.
@@ -251,6 +245,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Deep review machine-question.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Central topic on whether machines can be conscious—highly relevant to current AI discourse. Ensure arguments align with Map's tenets, check for unsupported claims, verify tenet connections are explicit.
+- **Output**: obsidian/apex/machine-question.md
 
 ### ✓ 2026-02-02: Integrate voluntary-attention-control.md into site navigation
 - **Type**: integrate-orphan

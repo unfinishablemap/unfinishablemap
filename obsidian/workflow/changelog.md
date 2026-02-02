@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 06:27 UTC - deep-review
+- **Status**: Success
+- **File**: [[machine-question]]
+- **Word count**: 2798 → 2828 (+30)
+- **Critical issues addressed**: 1 (broken link to substrate-independence-critique)
+- **Medium issues addressed**: 2 (Harnad quote attribution, Searle response framing)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-02-02-machine-question]]
+- **Notes**: First review of this apex article. Fixed broken internal link, reframed uncertain quote attribution as paraphrase, softened claim about Searle's response while acknowledging ongoing debate. Article is well-constructed with thorough tenet connections.
+
+---
+
 ## 2026-02-02 06:22 UTC - deep-review (orphan cleanup)
 - **Status**: Cleanup - Orphan Removed
 - **File**: voluntary-attention-control.md
