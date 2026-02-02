@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 05:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[attention-interface-mechanisms]], [[attention-motor-quantum-selection]]
+- **Target**: [[attention-interface-mechanisms]]
+- **Archived**: [[archive/topics/attention-motor-quantum-selection]]
+- **References to review**: none (attention-motor-quantum-selection had no inbound links)
+- **Notes**: Merged two highly overlapping articles about the attention-consciousness interface. Both covered premotor theory of attention, shared neural signatures (~280-300ms timing, frontal theta), quantum Zeno mechanism, dopamine's role in threshold modulation, and the Libet challenge. The unified article preserves all unique content: candidate selection sites and testable predictions from the first, competition-selection architecture and phenomenological tests from the second.
+
+---
+
 ## 2026-02-02 05:32 UTC - deep-review (orphan integration)
 - **Status**: Success
 - **File**: [[eastern-philosophy-haecceity-tension]]

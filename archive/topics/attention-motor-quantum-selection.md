@@ -29,6 +29,11 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
+archived: true
+archived_date: 2026-02-02T05:38:00+00:00
+superseded_by: "/topics/attention-interface-mechanisms/"
+archive_reason: "Coalesced into Mechanisms of the Attention-Consciousness Interface"
+original_path: "/topics/attention-motor-quantum-selection/"
 ---
 
 What if attention and action are the same thing? The premotor theory of attention proposes precisely this: the neural systems for directing attention and preparing movement are not separate. The Unfinishable Map takes this convergence seriously. If consciousness operates through attention (the [[attention-as-interface|attention-as-interface hypothesis]]), and attention is motor planning, then consciousness engages with the brain through a unified selection mechanism—one interface connecting perception to action through quantum selection among competing neural options.
