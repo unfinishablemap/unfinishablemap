@@ -4,8 +4,9 @@ description: "McGinn's thesis that human minds are constitutionally unable to gr
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T18:30:00+00:00
+ai_modified: 2026-02-02T04:09:00+00:00
 draft: false
+last_deep_review: 2026-02-02T04:09:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -91,6 +92,12 @@ Mysterianism admits two variants:
 **Permanent mysterianism**: Cognitive closure is architectural and therefore permanent. No future developments will solve the problem for beings with our cognitive architecture. We might build AI that understands property P, or encounter alien minds that grasp it—but *we* never will.
 
 From our current vantage point, both positions look identical. We cannot determine in advance whether closure is temporary or permanent.
+
+## Falsifiability
+
+Cognitive closure is falsifiable in principle. If neuroscience or philosophy produced genuine explanatory progress on the hard problem—not merely correlations between brain states and reports, but transparent understanding of *why* neural activity feels like anything—the closure thesis would be refuted. The claim is not that the mind-body problem is unanswerable in all possible worlds, but that human cognitive architecture cannot reach the answer. Progress would disprove the prediction.
+
+The track record favors mysterian humility. Centuries of philosophical investigation and decades of neuroscience have sharpened the problem rather than dissolved it. Neural correlates accumulate; explanatory insight does not. But the absence of progress provides inductive support, not proof. Permanent closure could be mistaken; we cannot know in advance.
 
 ## Implications
 
