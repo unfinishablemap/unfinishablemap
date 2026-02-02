@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-01-27
 
-### P2: Create concept page for phenomenal overflow
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-29. Block's argument that phenomenology exceeds access—important for access/phenomenal distinction. Currently only referenced, not given dedicated treatment.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
-### P2: Write article on delegatory dualism and quantum interactionism integration
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-01-29 (evening). Delegation specifies causal structure while quantum interactionism specifies mechanism. A dedicated article could work out the integration: consciousness biases quantum outcomes (mechanism); this constitutes delegation (structure). Would strengthen both philosophical and scientific components of the Map's framework.
-- **Source**: optimistic-review
-- **Generated**: 2026-01-29
-
 ### P2: Write article on the argument from reason
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-01-29 (evening). The argument from reason—that genuine reasoning tracks normative relations that physical causation cannot instantiate—deserves fuller treatment. Currently scattered across multiple articles. Connects to AI consciousness debates: if reasoning requires phenomenal consciousness, current AI systems don't genuinely reason.
@@ -307,6 +295,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Create concept page for phenomenal overflow
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-29. Block's argument that phenomenology exceeds access—important for access/phenomenal distinction. Currently only referenced, not given dedicated treatment.
+- **Output**: Create concept page for phenomenal overflow
 
 ### ✓ 2026-02-02: Create concept page for the self-stultification argument
 - **Type**: expand-topic
