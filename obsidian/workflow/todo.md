@@ -49,18 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on neural binding and quantum entanglement
-- **Type**: expand-topic
-- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md. Investigates whether quantum entanglement could underlie the binding problem in consciousness. Directly relevant to Minimal Quantum Interaction tenet. Connects to binding-problem.md, quantum-consciousness.md, unity-of-consciousness.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
-### P2: Integrate substance-causation.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Newly created concept (2026-02-02) has no inbound links. E.J. Lowe's view that all causation is fundamentally agents exercising powers—central to agent-causation and libertarian free will. Add cross-references from agent-causation.md, interactionist-dualism.md, mental-causation.md, downward-causation.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P2: Integrate phenomenological-evidence.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Newly created concept (2026-02-02) has no inbound links. Methodological treatment of how first-person data functions as evidence—foundational for the Map's approach. Add cross-references from neurophenomenology.md, contemplative-evidence-for-consciousness-theories.md, introspection.md.
@@ -379,6 +367,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-02: Write article on neural binding and quantum entanglement
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md. Investigates whether quantum entanglement could underlie the binding problem in consciousness. Directly relevant to Minimal Quantum Interaction tenet. Connects to binding-problem.md, quantum-consciousness.md, unity-of-consciousness.md.
+- **Output**: neural binding and quantum entanglement
 
 ### ✓ 2026-02-02: Write article on motor control and quantum Zeno mechanism
 - **Type**: expand-topic

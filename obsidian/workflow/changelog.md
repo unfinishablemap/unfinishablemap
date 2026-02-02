@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-02 13:49 UTC - expand-topic
+- **Status**: Success
+- **Topic**: neural binding and quantum entanglement
+- **Output**: [[entanglement-binding-hypothesis]]
+- **Word count**: 1880
+- **Based on research**: yes — [[neural-binding-quantum-entanglement-2026-01-19]]
+
+---
+
 ## 2026-02-02 13:44 UTC - expand-topic
 - **Status**: Already exists
 - **Topic**: motor control and quantum Zeno mechanism
