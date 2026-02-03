@@ -4,7 +4,7 @@ description: "What connects a particular mind to a particular body? Kim's challe
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-02-03T12:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-01-20T19:45:00+00:00
+last_deep_review: 2026-02-03T12:22:00+00:00
 ---
 
 The pairing problem challenges substance dualism to explain what connects a particular mind to a particular body. Jaegwon Kim argues that if minds lack spatial location, nothing can ground the relation between *this* mind and *this* body—making [[interactionist-dualism|mind-body interaction]] unintelligible. This is distinct from the [[causal-closure]] objection and potentially more fundamental. The Unfinishable Map's [[interface-locality]] framework provides a principled response: consciousness is spatially located where its quantum interface operates, and the pairing is built through developmental co-construction with a particular brain.
@@ -93,9 +93,9 @@ The [[haecceity]] concept—primitive "thisness" that individuates things indepe
 
 Some philosophers argue that causation doesn't require spatial relations. Consider:
 
-**Abstract objects**: Numbers, propositions, and mathematical structures arguably enter into causal explanations (consider: "the number of wheels on the vehicle explains why it's called a bicycle"). If abstract objects can be causally relevant without spatial location, Kim's principle is too strong.
+**Abstract objects**: Numbers, propositions, and mathematical structures arguably enter into causal explanations (consider: "the number of wheels on the vehicle explains why it's called a bicycle"). If abstract objects can be causally relevant without spatial location, Kim's principle is too strong. However, many philosophers reject this—arguing that abstract objects feature in *explanations* without genuinely *causing* anything. The bicycle example explains a naming convention, not a physical effect. This response is therefore contested.
 
-**Laws of nature**: Natural laws causally explain physical events. But laws are not spatially located. If laws can be causes (or grounds of causes), not all causation is spatially mediated.
+**Laws of nature**: Natural laws causally explain physical events. But laws are not spatially located. If laws can be causes (or grounds of causes), not all causation is spatially mediated. Critics respond that laws describe regularities rather than cause them—though this too is debated.
 
 **Temporal but not spatial causation**: Some philosophers argue causation is fundamentally temporal (causes precede effects) rather than spatial. Spatial proximity is a useful heuristic for identifying causes, not a metaphysical requirement.
 
