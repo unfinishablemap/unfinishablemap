@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense materialism.md (3788 words, 152% of threshold)
-- **Type**: condense
-- **Notes**: Arguments article exceeds 3500-word hard threshold. Core philosophical arguments against materialism (hard problem, knowledge argument, explanatory gap). Previous condense attempts on this file have not sufficiently reduced length. Focus on: removing redundant examples, consolidating overlapping arguments with physicalism.md and reductionism.md concept pages. Preserve formal argument structure.
-- **Source**: length_analysis
-- **Generated**: 2026-02-03
-
 ### P2: Condense many-worlds.md (3704 words, 148% of threshold)
 - **Type**: condense
 - **Notes**: Arguments article exceeds 3500-word hard threshold. Core arguments against Many Worlds Interpretation from indexical identity perspective. Directly supports No Many Worlds tenet. Preserve vertiginous question discussion and formal arguments while removing redundancy with many-worlds.md concept page.
@@ -488,6 +482,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Condense materialism.md (3788 words, 152% of threshold)
+- **Type**: condense
+- **Notes**: Arguments article exceeds 3500-word hard threshold. Core philosophical arguments against materialism (hard problem, knowledge argument, explanatory gap). Previous condense attempts on this file have not sufficiently reduced length. Focus on: removing redundant examples, consolidating overlapping arguments with physicalism.md and reductionism.md concept pages. Preserve formal argument structure.
+- **Output**: obsidian/concepts/materialism.md
 
 ### ✓ 2026-02-03: Cross-review attentional-economics.md considering habituation void insights
 - **Type**: cross-review
