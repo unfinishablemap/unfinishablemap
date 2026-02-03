@@ -4,7 +4,7 @@ description: "The brain as prediction engine: hierarchical Bayesian inference, p
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-02-03T09:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-20T22:15:00+00:00
+last_deep_review: 2026-02-03T09:22:00+00:00
 ---
 
 Predictive processing (PP) proposes that the brain continuously generates predictions about incoming sensory information, comparing predictions against actual input. Perception becomes active inference—the brain's "best guess" about reality—rather than passive reception. This framework has become one of the most influential in cognitive science.
@@ -133,7 +133,7 @@ This explains several dream features:
 - **Narrative without logic**: Plot follows associative prediction chains rather than physical constraints
 - **Emotional intensity**: Precision weighting on affective predictions proceeds unchecked
 - **Immersive quality**: The predictions are taken as veridical—there's no competing sensory evidence
-- **Failure of reality testing**: Sartre noted that waking perception is "self-affirming, immune to doubt" while dreaming lacks this quality
+- **Failure of reality testing**: Sartre observed that waking perception carries an inherent self-certainty absent from dreams
 
 ### Implications for Consciousness Theory
 
