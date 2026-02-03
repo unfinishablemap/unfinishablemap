@@ -4,7 +4,7 @@ description: "Knowledge that shows in action without conscious recollection. Cho
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-02-03T21:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,12 +28,13 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[implicit-memory-consciousness-2026-01-18]]"
+  - "[[choking-phenomenon-mental-causation]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-01-20T21:15:00+00:00
+last_deep_review: 2026-02-03T21:18:00+00:00
 ---
 
 When you ride a bicycle, tie your shoes, or type on a keyboard, you act without reflective awareness. The skill executes smoothly; you don't observe yourself executing it. You don't mentally replay the lessons where you learned, nor do you consciously retrieve rules about pedal pressure or keystroke sequences. The knowledge is simply expressed in fluent action. This is implicit memory—knowledge that shows in performance rather than conscious recollection.
@@ -76,7 +77,7 @@ This withdrawal is not elimination. Consciousness delegates to procedural system
 
 ## Choking Under Pressure: Evidence for Bidirectional Interaction
 
-When skilled performers face high-pressure situations, a counterintuitive breakdown occurs: conscious attention to automatized skills *degrades* performance. The expert golfer thinking about their swing, the concert pianist monitoring their finger placement, the skilled speaker attending to their pronunciation—all perform worse than when acting without self-focus.
+When skilled performers face high-pressure situations, a counterintuitive breakdown occurs: conscious attention to automatized skills *degrades* performance. (For extended treatment, see [[choking-phenomenon-mental-causation|Choking Under Pressure as Evidence for Mental Causation]].) The expert golfer thinking about their swing, the concert pianist monitoring their finger placement, the skilled speaker attending to their pronunciation—all perform worse than when acting without self-focus.
 
 ### The Explicit Monitoring Theory
 
@@ -106,7 +107,7 @@ Embodied cognition theorists, following Merleau-Ponty, argue that body memory re
 
 ### The Apparent Challenge
 
-Merleau-Ponty wrote that body memory is "an impressive refutation of the dualism of pure consciousness and the physical body." The skilled pianist's fingers "know" the piece in a way irreducible to either mental representation or mere muscle movement. [[embodied-cognition|Embodied cognition]] theorists use such examples to argue that consciousness cannot be separated from bodily engagement.
+Merleau-Ponty argued that body memory refutes Cartesian dualism—the body has knowledge that cannot be reduced to either mental representation or physical mechanism. The skilled pianist's fingers "know" the piece in a way irreducible to either mental representation or mere muscle movement. [[embodied-cognition|Embodied cognition]] theorists use such examples to argue that consciousness cannot be separated from bodily engagement.
 
 ### The Interface Response
 
@@ -199,6 +200,7 @@ Eliminating consciousness from accounts of skill acquisition can't explain choki
 
 ## Further Reading
 
+- [[choking-phenomenon-mental-causation]] - Extended analysis of choking as evidence for mental causation
 - [[voluntary-attention]] - Why choking involves willed attention specifically, and the neural signatures distinguishing it from stimulus-driven capture
 - [[autonoetic-consciousness]] - The highest level of Tulving's hierarchy: self-knowing consciousness enabling mental time travel
 - [[semantic-memory]] - Noetic consciousness and the phenomenology of knowing without re-experiencing
