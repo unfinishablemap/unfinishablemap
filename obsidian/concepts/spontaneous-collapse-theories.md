@@ -4,9 +4,9 @@ description: "GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-01-27T19:45:00+00:00
+ai_modified: 2026-02-03T23:33:00+00:00
 draft: false
-last_deep_review: 2026-01-27T19:45:00+00:00
+last_deep_review: 2026-02-03T23:33:00+00:00
 topics: []
 concepts:
   - "[[measurement-problem]]"

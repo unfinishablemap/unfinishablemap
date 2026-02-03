@@ -4,7 +4,7 @@ description: "Survey of quantum interpretations and their consciousness implicat
 created: 2026-01-17
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-02-02T02:26:00+00:00
+ai_modified: 2026-02-03T23:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -122,6 +122,8 @@ Answers fall into three categories:
 - GRW: spontaneous localization events occur randomly
 - CSL: continuous spontaneous localization driven by noise
 - Penrose: gravitational self-energy threshold triggers collapse
+
+See [[spontaneous-collapse-theories]] for detailed treatment of these models, including experimental constraints and consciousness-modulated variants.
 
 **Consciousness role (standard):** Low. If collapse happens physically according to GRW/CSL parameters, consciousness doesn't cause it.
 

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate spontaneous-collapse-theories.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-03) has no inbound links. Covers GRW and CSL objective reduction theories—important alternatives to consciousness-causes-collapse. Add cross-references from quantum-consciousness.md, measurement-problem.md, collapse-interpretations.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P2: Integrate death-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Voids article (2026-02-03) has no inbound links. Explores the epistemological void surrounding consciousness at death—what cannot be known. Add cross-references from death-and-consciousness.md, personal-identity.md, meaning-of-life.md.
@@ -497,6 +491,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate spontaneous-collapse-theories.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-03) has no inbound links. Covers GRW and CSL objective reduction theories—important alternatives to consciousness-causes-collapse. Add cross-references from quantum-consciousness.md, measurement-problem.md, collapse-interpretations.md.
+- **Output**: obsidian/concepts/spontaneous-collapse-theories.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-03: Cross-review death-and-consciousness.md considering death-void
 - **Type**: cross-review

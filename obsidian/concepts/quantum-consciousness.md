@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-02-02T18:28:00+00:00
+ai_modified: 2026-02-03T23:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -135,7 +135,7 @@ The theories differ in which [[coupling-modes|coupling mode]] they emphasize: Or
 
 Two objections arise: What caused collapse before conscious observers existed? And whose consciousness counts when multiple observers are involved?
 
-The Map resolves both through **objective reduction with consciousness modulation**. Physical mechanisms (gravitational collapse, GRW spontaneous localization) provide baseline collapse—stars and chemistry didn't wait for minds. What consciousness adds is *local modulation* within its own neural interface. See [[prebiotic-collapse]] and [[multi-mind-collapse-problem]] for detailed treatment.
+The Map resolves both through **objective reduction with consciousness modulation**. Physical mechanisms (gravitational collapse, GRW spontaneous localization) provide baseline collapse—stars and chemistry didn't wait for minds. What consciousness adds is *local modulation* within its own neural interface. See [[spontaneous-collapse-theories]] for detailed treatment of GRW, CSL, and Penrose OR models, and [[prebiotic-collapse]] and [[multi-mind-collapse-problem]] for how the Map deploys them.
 
 ## Entanglement and the Binding Problem
 

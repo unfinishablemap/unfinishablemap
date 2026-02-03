@@ -4,7 +4,7 @@ description: "How quantum wave functions collapsed before conscious observers ex
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-29T13:53:56+00:00
+ai_modified: 2026-02-03T23:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -80,7 +80,7 @@ The cost is the [[combination-problem|combination problem]]: how do micro-experi
 
 Penrose and Hameroff propose inverting the relationship: collapse doesn't require consciousness—consciousness requires collapse. Quantum superpositions are objectively unstable. When mass is superposed in significantly different configurations, gravitational self-energy creates a threshold beyond which the geometry must resolve. This Penrose-Diosi objective reduction happens whether or not anyone observes.
 
-GRW (Ghirardi-Rimini-Weber) theories propose spontaneous localization—random collapses at a rate of approximately 10⁻¹⁶ per second per particle. CSL (Continuous Spontaneous Localization) adds continuous noise that becomes significant for larger systems. These are objective collapse theories—no observers required.
+GRW (Ghirardi-Rimini-Weber) theories propose spontaneous localization—random collapses at a rate of approximately 10⁻¹⁶ per second per particle. CSL (Continuous Spontaneous Localization) adds continuous noise that becomes significant for larger systems. These are objective collapse theories—no observers required. See [[spontaneous-collapse-theories]] for detailed treatment of these models, their experimental status, and how consciousness might modulate rather than cause collapse.
 
 Under this view, consciousness doesn't cause collapse; it *emerges from* or *interfaces with* collapse processes. Hameroff suggests "primitive protoconscious feelings may have occurred via Penrose OR in pi electron resonance clouds of micelle-like structures in the prebiotic primordial soup." Collapse came first; consciousness arose in systems where collapse dynamics reached sufficient complexity.
 

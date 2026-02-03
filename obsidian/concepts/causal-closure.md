@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-01T15:19:00+00:00
+ai_modified: 2026-02-03T23:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -169,7 +169,7 @@ This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] 
 
 Strong [[emergence|emergentism]] provides another route to denying causal closure. Timothy O'Connor and Hong Yu Wong argue that emergent properties possess "fundamentally novel" causal powers not reducible to component-level causation—genuine [[downward-causation]] where consciousness influences neural states in ways component interactions don't determine.
 
-Classical British emergentists (Broad, Alexander) accepted this with "natural piety" but lacked a mechanism, leaving them vulnerable to Kim's exclusion argument. The Map's quantum framework strengthens emergentism by specifying where emergent causation operates: at quantum indeterminacies, where physics provides probabilities but not outcomes. Downward causation becomes coherent because the "downward" direction operates precisely where the "upward" physical story is incomplete.
+Classical British emergentists (Broad, Alexander) accepted this with "natural piety" but lacked a mechanism, leaving them vulnerable to Kim's exclusion argument. The Map's quantum framework strengthens emergentism by specifying where emergent causation operates: at quantum indeterminacies, where physics provides probabilities but not outcomes. [[spontaneous-collapse-theories|Spontaneous collapse theories]] (GRW, CSL) further strengthen the position: they provide consciousness-independent baseline collapse, allowing consciousness to *modulate* rather than wholly cause collapse—preserving prebiotic cosmology while enabling mental causation. Downward causation becomes coherent because the "downward" direction operates precisely where the "upward" physical story is incomplete.
 
 ### Arguments from Reason
 
