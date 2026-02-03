@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03T20:03:00+00:00
+ai_modified: 2026-02-03T20:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate habituation-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-03) has no inbound links. Explores how familiarity erases experience from consciousness. Add cross-references from attention-as-interface.md, consciousness-selecting-neural-patterns.md, phenomenology-of-the-edge.md, or update voids/_index.md to include navigation.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
+
+### P2: Integrate altered-states-as-void-probes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-03) has no inbound links. Examines whether altered states reveal cognitive limits or simulate transcendence. Add cross-references from altered-states-of-consciousness.md, meditation-and-consciousness-modes.md, filter-theory.md, or consciousness-only-territories.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
+
+### P2: Integrate attention-motor-quantum-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers the unified attention-motor quantum selection mechanism. Add cross-references from attention-as-interface.md, motor-selection.md, attention-interface-mechanisms.md, or quantum-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
+
+### P2: Integrate semantic-phenomenology.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (2026-02-01) has no inbound links. Covers the felt quality of meaning and semantic content. Add cross-references from cognitive-phenomenology.md, phenomenology-of-understanding.md, consciousness-and-mathematical-understanding.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
 
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
