@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03T10:52:00+00:00
+ai_modified: 2026-02-03T22:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -15,6 +15,16 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-02-03 22:33 UTC - expand-topic
+- **Status**: Skipped (article already exists)
+- **Topic**: motor control and quantum Zeno effect
+- **Existing article**: [[concepts/motor-selection]]
+- **Word count**: 2841
+- **Based on research**: yes ([[motor-control-quantum-zeno-2026-01-18]])
+- **Notes**: Task requested expansion of research on motor control and quantum Zeno. Article `motor-selection.md` already exists (created 2026-01-18, same day as research) and comprehensively covers: premotor theory of attention (Rizzolatti), neural competition and affordance competition hypothesis (Cisek), basal ganglia brake-release model, dopamine and selection threshold, the Libet challenge and Schurger's stochastic reinterpretation, Desmurget's intention/execution dissociation, quantum Zeno mechanism applied to motor selection, decoherence considerations, phenomenology of motor choice, illusionist challenge, and full tenet alignment. Task removed from queue as already complete.
+
 ---
 
 ## 2026-02-03 22:18 UTC - expand-topic

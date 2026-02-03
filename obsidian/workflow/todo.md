@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on motor control and quantum Zeno effect
-- **Type**: expand-topic
-- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how Stapp's quantum Zeno mechanism might apply to motor selection—attention sustaining quantum states long enough for selection. Connects attention-interface-mechanisms.md with voluntary action.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-03
-
-### P2: Cross-review collapse-theories.md considering spontaneous-collapse-theories
-- **Type**: cross-review
-- **Notes**: New article topics/spontaneous-collapse-theories.md (2026-02-03) covers GRW and CSL objective reduction. Related articles about quantum collapse and consciousness should be cross-reviewed for: (1) cross-links to the new treatment, (2) contrasting spontaneous vs consciousness-induced collapse, (3) ensuring the Map's position on collapse is consistent.
-- **Source**: chain
-- **Generated**: 2026-02-03
-
 ### P2: Cross-review death-and-consciousness.md considering death-void
 - **Type**: cross-review
 - **Notes**: New voids article voids/death-void.md (2026-02-03) explores the fundamental epistemological void regarding consciousness at death. The death-and-consciousness.md topic page should be cross-reviewed for: (1) cross-links to death void, (2) how the void framework enriches the topic treatment, (3) consistent treatment of the unknowability claims.
@@ -515,6 +503,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Write article on motor control and quantum Zeno effect
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how Stapp's quantum Zeno mechanism might apply to motor selection—attention sustaining quantum states long enough for selection. Connects attention-interface-mechanisms.md with voluntary action.
+- **Output**: motor control and quantum Zeno effect
 
 ### ✓ 2026-02-03: Write article on collapse before minds (early universe)
 - **Type**: expand-topic
