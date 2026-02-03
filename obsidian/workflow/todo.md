@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense interactionist-dualism.md (3591 words, 103% of hard threshold)
-- **Type**: condense
-- **Notes**: Core concept article exceeds 3500-word hard threshold. This is a foundational article for the Map. Preserve essential arguments while removing redundancy. Check for content already covered in related articles like arguments-for-dualism.md, conservation-laws-and-mind.md.
-- **Source**: length_analysis
-- **Generated**: 2026-02-03
-
 ### P2: Condense embodied-cognition.md (3582 words, 102% of hard threshold)
 - **Type**: condense
 - **Notes**: Concept article exceeds 3500-word hard threshold for concepts/. Preserve treatment of body-mind relationship while removing redundancy. Check for content that could be deferred to brain-interface-boundary.md or other linked articles.
@@ -461,6 +455,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Condense interactionist-dualism.md (3591 words, 103% of hard threshold)
+- **Type**: condense
+- **Notes**: Core concept article exceeds 3500-word hard threshold. This is a foundational article for the Map. Preserve essential arguments while removing redundancy. Check for content already covered in related articles like arguments-for-dualism.md, conservation-laws-and-mind.md.
+- **Output**: obsidian/concepts/interactionist-dualism.md
 
 ### ✓ 2026-02-03: Condense epistemic-emotions.md (3601 words, 103% of hard threshold)
 - **Type**: condense
