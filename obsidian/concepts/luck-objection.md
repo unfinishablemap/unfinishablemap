@@ -4,7 +4,7 @@ description: "Why indeterminism seems to threaten free will as much as determini
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-02-03T13:52:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -32,7 +32,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-01-21T03:00:00+00:00
+last_deep_review: 2026-02-03T13:52:00+00:00
 ---
 
 The luck objection is the most persistent challenge to libertarian free will. While much philosophical debate focuses on whether determinism threatens freedom, a long line of philosophers argue that *indeterminism* is equally fatal. If choices aren't causally predetermined, they must be random—and random choices aren't more "free" than determined ones. They're just arbitrary.
@@ -114,13 +114,13 @@ The luck objection would succeed if: (1) consciousness doesn't actually select q
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] argue that "phenomenology of effort" is a functional representation, not evidence of non-physical causation. But the illusionist account faces a regress: saying the feeling of effort is a "representation" presupposes something experiencing it. That something cannot be another representation without infinite regress. As Tallis argues, "misrepresentation presupposes presentation."
+[[illusionism|Illusionists]] argue that "phenomenology of effort" is a functional representation, not evidence of non-physical causation. But the illusionist account faces a regress: saying the feeling of effort is a "representation" presupposes something experiencing it. That something cannot be another representation without infinite regress—misrepresentation presupposes presentation.
 
-The [[introspection|introspection literature]] identifies where reports fail (causal processes, decision justification) but also where they succeed (basic phenomenal states, effort). The convergence of phenomenological report with neural signature (frontal theta for willed attention, PCC deactivation during effortless awareness) suggests introspection tracks something real.
+The [[introspection|introspection literature]] identifies where reports fail (causal processes, decision justification) but also where they succeed (basic phenomenal states, effort). The convergence of phenomenological report with neural signature suggests introspection tracks something real.
 
 ## The Decoherence Challenge
 
-Warm neural tissue [[decoherence|decoheres]] quantum superpositions in femtoseconds, far too fast for the 300ms attention deployment to exploit. Three mitigations: (1) Decoherence doesn't solve the measurement problem—something must still select which outcome becomes actual. (2) The Zeno mechanism requires rapid observation events, not sustained coherence between them. (3) Quantum biology has revealed coherence effects in warm systems that Tegmark's calculations ruled out—photosynthesis, avian magnetoreception, and the 2024 epothilone B study showing microtubule-stabilizers extend time to anesthetic-induced unconsciousness. The categorical objection is refuted, though neural applications remain open.
+Warm neural tissue [[decoherence|decoheres]] quantum superpositions in femtoseconds, far too fast for the 300ms attention deployment to exploit. Three mitigations: (1) Decoherence doesn't solve the measurement problem—something must still select which outcome becomes actual. (2) The Zeno mechanism requires rapid observation events, not sustained coherence between them. (3) Quantum biology has revealed coherence effects in warm systems that Tegmark's calculations ruled out—photosynthesis, avian magnetoreception, and the 2024 epothilone B study showing microtubule-stabilizers extend time to anesthetic-induced unconsciousness. The categorical objection has been significantly weakened, though neural applications remain open.
 
 ## Contemplative Evidence
 
