@@ -49,6 +49,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
+### P2: Write voids article on altered states as void probes
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-altered-states-as-void-probes-2026-02-03.md. Explores whether altered states (psychedelics, meditation, NDEs) provide genuine epistemic access to cognitive limits or merely generate compelling illusions. Covers the "reducing valve" hypothesis (Bergson/Huxley), REBUS model, and epistemological status of mystical experiences. Directly extends the voids framework.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-03
+
+### P2: Integrate attention-disorders-and-quantum-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-01-26) has no inbound links. Covers how ADHD and other attention disorders might inform the quantum interface hypothesis—if attention is the interface, what do attention disorders reveal? Add cross-references from attention-interface-mechanisms.md, voluntary-attention.md, quantum-consciousness.md, minimal-quantum-interaction.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
+
+### P2: Integrate consciousness-and-language-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Covers how language relates to the consciousness interface—linguistic thought, inner speech, and conscious access. Add cross-references from language-recursion-and-consciousness.md, attention-as-interface.md, working-memory.md, metarepresentation.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
+
+### P2: Integrate william-james-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Covers William James's contributions to consciousness studies—stream of consciousness, radical empiricism, pragmatic approach. Historical context for the Map's framework. Add cross-references from consciousness.md, phenomenology.md, temporal-consciousness.md, introspection.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
+
 ### P3: Deep review reasons-responsiveness.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers reasons-responsive compatibilism—important for free will discussions. Check philosophical accuracy, ensure proper treatment of Fischer/Ravizza, verify connections to free-will.md, agent-causation.md.
