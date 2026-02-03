@@ -144,7 +144,7 @@ The [psychophysical-coupling](/concepts/psychophysical-coupling/) article survey
 
 5. **Unity → sustained entanglement**: Phenomenal binding might correspond to sustained quantum coherence. Correlation found but doesn't establish causation.
 
-Only the first two mechanisms meet basic adequacy standards—specifying which phenomenal property affects which physical parameter through what mechanism. Without such specification, mental causation risks unfalsifiability.
+Only the first two mechanisms meet basic adequacy standards—specifying which phenomenal property affects which physical parameter through what mechanism. These candidate couplings operate through different [coupling-modes](/concepts/coupling-modes/)—basis control (selecting the measurement question), timing control (selecting when collapse occurs), or probability control (reweighting outcome likelihoods)—with distinct implications for detectability. Without such specification, mental causation risks unfalsifiability.
 
 ### Why Not Many Worlds?
 
@@ -231,6 +231,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [psychophysical-laws-framework](/topics/psychophysical-laws-framework/) — Integrated overview of the framework requiring selection laws for mental causation
 - [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws: how mental states select physical outcomes
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — Five candidate mechanisms specifying how mental causation might work at the neural interface
+- [coupling-modes](/concepts/coupling-modes/) — Taxonomy of how consciousness couples: basis, timing, or probability control
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's 2025 response to exclusion: experiences preempt rather than overdetermine
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Empirical evidence: conscious interference with automatized skills demonstrates causation
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's foundational commitment to consciousness causally influencing the physical world

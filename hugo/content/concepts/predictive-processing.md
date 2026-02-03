@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-03 09:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: 'The brain as prediction engine: hierarchical Bayesian inference, p
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 22:15:00+00:00
+last_deep_review: 2026-02-03 09:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -135,7 +135,7 @@ This explains several dream features:
 - **Narrative without logic**: Plot follows associative prediction chains rather than physical constraints
 - **Emotional intensity**: Precision weighting on affective predictions proceeds unchecked
 - **Immersive quality**: The predictions are taken as veridical—there's no competing sensory evidence
-- **Failure of reality testing**: Sartre noted that waking perception is "self-affirming, immune to doubt" while dreaming lacks this quality
+- **Failure of reality testing**: Sartre observed that waking perception carries an inherent self-certainty absent from dreams
 
 ### Implications for Consciousness Theory
 

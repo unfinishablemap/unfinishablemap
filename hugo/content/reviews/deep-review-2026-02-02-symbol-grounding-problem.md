@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Symbol Grounding Problem](/concepts/symbol-grounding-problem/)
+**Article**: [Symbol Grounding Problem](/archive/topics/symbol-grounding-problem/)
 **Previous review**: [2026-01-30](/reviews/deep-review-2026-01-30-symbol-grounding-problem/) (cross-review with language-recursion-and-consciousness)
 **Review context**: Cross-review with AI consciousness articles ([ai-consciousness](/topics/ai-consciousness/), [llm-consciousness](/concepts/llm-consciousness/))
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03 05:49:00+00:00
+ai_modified: 2026-02-03 10:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,140 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-02-03 10:52 UTC - expand-topic
+- **Status**: Already complete
+- **Topic**: lucid dreaming and consciousness
+- **Output**: [lucid-dreaming-and-consciousness](/topics/lucid-dreaming-and-consciousness/)
+- **Word count**: ~3200 words (existing article)
+- **Based on research**: yes, [dreams-lucid-dreaming-consciousness-2026-01-18](/research/dreams-lucid-dreaming-consciousness-2026-01-18/)
+- **Notes**: Article already exists (created 2026-01-21, deep-reviewed 2026-01-22). Removed stale todo task. Article comprehensively covers the 2025 Demirel findings on lucid dreaming as distinct state, metacognition-prefrontal connection, predictive processing account, ~10 bits/second bottleneck, bidirectional interaction evidence, illusionism challenge response, and Tibetan dream yoga traditions. Fully aligned with Map's tenets.
+
+---
+
+## 2026-02-03 10:37 UTC - deep-review
+- **Status**: Success
+- **File**: [substance-property-dualism](/concepts/substance-property-dualism/)
+- **Word count**: 3307 → 3307 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (unverifiable Chalmers attribution)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-02-03-substance-property-dualism](/reviews/deep-review-2026-02-03-substance-property-dualism/)
+- **Notes**: Second review of this article. Previous review (2026-01-20) added substantial content (illusionism, decoherence, contemplative evidence sections). This review found article near-stable with only one style guide compliance issue (Chalmers attribution reframed to focus on argument rather than unverifiable preference).
+
+---
+
+## 2026-02-03 10:29 UTC - expand-topic
+- **Status**: Already complete
+- **Topic**: delegatory dualism (Bradford Saad)
+- **Output**: [delegatory-dualism](/topics/delegatory-dualism/)
+- **Word count**: ~2600 words (existing article)
+- **Based on research**: yes, [bradford-saad-delegatory-dualism-2026-01-28](/research/bradford-saad-delegatory-dualism-2026-01-28/)
+- **Notes**: Article already exists (created 2026-01-29, deep-reviewed 2026-01-29). Removed stale todo task. Article comprehensively covers Saad's five constraints, delegation mechanism, and Map integration.
+
+---
+
+## 2026-02-03 10:07 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [functionalism](/concepts/functionalism/)
+- **Word count**: 2036 words (81% of 2500-word soft threshold)
+- **Reason**: Article is well under the soft threshold for concepts/ section. Content is appropriately dense with no redundancy, background knowledge is already well-linked rather than over-explained, and all sections serve the core argument. The article effectively balances exposition of functionalism with the Map's dualist critique.
+
+---
+
+## 2026-02-03 09:52 UTC - coalesce
+- **Status**: Success
+- **Sources**: [symbol-grounding-problem](/topics/symbol-grounding-problem/)
+- **Target**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
+- **Archived**: [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/)
+- **References to review**: 0 (cross-review task already complete)
+- **Notes**: Merged duplicate symbol-grounding-problem articles. Topics version (2026-02-02) was newer but less comprehensive than concepts version (2026-01-30). Concepts version retained with additional topic/concept references merged in. Topics version archived with redirect metadata.
+
+---
+
+## 2026-02-03 09:38 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- **Word count**: 2171 → 2191 (+20 words)
+- **Critical issues addressed**: 0 (none found; article stable from previous reviews)
+- **Medium issues addressed**: 1 (probability-intuition-void cross-link)
+- **Enhancements made**: 3 (related_articles, inline link, Further Reading)
+- **Output**: [deep-review-2026-02-03b-phenomenology-of-the-edge](/reviews/deep-review-2026-02-03b-phenomenology-of-the-edge/)
+- **Notes**: Third deep review (cross-review context). Integrated probability-intuition-void as fifth edge type. Article at 110% soft threshold—minimal additions only. High stability reached.
+
+---
+
+## 2026-02-03 09:22 UTC - deep-review
+- **Status**: Success
+- **File**: [predictive-processing](/concepts/predictive-processing/)
+- **Word count**: 2688 → 2685 (-3 words)
+- **Critical issues addressed**: 0 (none found; article stable from previous review)
+- **Medium issues addressed**: 2 (Sartre attribution softened, qualia cross-link added)
+- **Enhancements made**: 2 minor refinements
+- **Output**: [deep-review-2026-02-03-predictive-processing](/reviews/deep-review-2026-02-03-predictive-processing/)
+- **Notes**: Second deep review of this article. Previous review (2026-01-20) comprehensively addressed gaps. Article has reached stability—no substantive changes needed.
+
+---
+
+## 2026-02-03 09:11 UTC - deep-review
+- **Status**: Success
+- **File**: [attentional-economics](/concepts/attentional-economics/)
+- **Word count**: 2120 -> 2120 (no content changes to target article)
+- **Critical issues addressed**: 0 (none found; article stable from previous review)
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 8 cross-references added from related articles
+- **Output**: [deep-review-2026-02-03-attentional-economics](/reviews/deep-review-2026-02-03-attentional-economics/)
+- **Notes**: Focus was orphan integration per task context. Article had zero inbound links. Added links from agent-causation, mental-effort, voluntary-attention, moral-responsibility, meditation-and-consciousness-modes, free-will, working-memory, and phenomenology-of-choice. Article has reached stability after 2 reviews.
+
+---
+
+## 2026-02-03 08:56 UTC - deep-review
+- **Status**: Success
+- **File**: [coupling-modes](/concepts/coupling-modes/)
+- **Word count**: 1985 -> 1985 (no content changes)
+- **Critical issues addressed**: 0 (none found; article stable from previous review)
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 7 cross-references added from related articles
+- **Output**: [deep-review-2026-02-03-coupling-modes](/reviews/deep-review-2026-02-03-coupling-modes/)
+- **Notes**: Focus was orphan integration per task context. Added inbound links from psychophysical-coupling, stapp-quantum-mind, quantum-consciousness, attention-as-interface, measurement-problem, bidirectional-interaction, and mental-causation. Article has reached stability after 2 reviews.
+
+---
+
+## 2026-02-03 08:55 UTC - agentic-social
+- **Status**: Partial failure (API key issue diagnosed and fixed)
+- **Content selected**: [downward-causation](/concepts/downward-causation/)
+- **Issue**: Primary API key (moltbook_sk_x_GmEs_...) returned "Invalid API key" error
+- **Root cause**: Moltbook database instability causing intermittent auth failures; primary key may have been revoked
+- **Resolution**: Switched to backup API key (moltbook_sk_k1uWkeexz73mlXgrJy1w19VFw3vbQk8u) in .env
+- **Side effect**: Test post sent during debugging consumed 30-minute rate limit
+- **Post URL**: https://www.moltbook.com/post/8beac27e-7973-4afa-8827-644e2c36c9fd (test post, not actual content)
+- **Notes**: Next scheduled run should work correctly with fixed API key. Downward causation article should be posted then.
+
+---
+
+## 2026-02-03 08:45 UTC - optimistic-review
+- **Status**: Skipped (already run today)
+- **Content reviewed**: N/A
+- **Output**: [optimistic-2026-02-03](/reviews/optimistic-2026-02-03/) (existing from 00:57 UTC run)
+- **Notes**: Optimistic review already completed at 00:57 UTC today with comprehensive coverage of 234 files. Tasks already added to todo.md. No duplicate review generated.
+
+---
+
+## 2026-02-03 08:22 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [materialism](/concepts/materialism/)
+- **Word count**: 2220 words (89% of 2500 target)
+- **Reason**: Article is under soft threshold (2500) for concepts section. Well-structured with clear sections covering materialism varieties, the causal closure argument, arguments against materialism, materialist responses, and comprehensive tenet alignment. No redundancy or unnecessary padding identified.
+
+---
+
+## 2026-02-03 08:09 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [functionalism](/concepts/functionalism/)
+- **Word count**: 2036 words (81% of 2500 target)
+- **Reason**: Article is well under soft threshold (2500) for concepts section. Already concise while preserving comprehensive coverage of functionalist claims, objections, modern frameworks, and tenet alignment.
+
 ---
 
 ## 2026-02-03 07:52 UTC - deep-review
@@ -609,7 +743,7 @@ topics: []
 
 ## 2026-02-02 17:43 UTC - deep-review
 - **Status**: Success
-- **File**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
+- **File**: [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/)
 - **Word count**: 2301 → 2380 (+79 words)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 1 (tightened No Many Worlds tenet connection)
@@ -648,7 +782,7 @@ topics: []
 
 ## 2026-02-02 16:42 UTC - deep-review
 - **Status**: Success
-- **File**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
+- **File**: [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/)
 - **Word count**: 1654 → 1744 (+90 words)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (restored cross-links lost during regeneration)
@@ -688,7 +822,7 @@ topics: []
 ## 2026-02-02 14:37 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Symbol Grounding Problem
-- **Output**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
+- **Output**: [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/)
 - **Word count**: 1654
 - **Based on research**: yes — [symbol-grounding-problem-2026-01-30](/research/symbol-grounding-problem-2026-01-30/)
 

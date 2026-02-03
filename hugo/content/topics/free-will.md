@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-02 21:12:00+00:00
+ai_modified: 2026-02-03 09:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -131,7 +131,7 @@ Chisholm distinguished *transeunt* causation (event→event) from *immanent* cau
 
 Sartre's analysis of the *pour-soi* (being-for-itself) illuminates this structure. Consciousness is never identical with its contents—it is always aware *of* something, including its own states, from a position of constitutive distance. This self-distance is what makes selection possible: a being that merely *is* its states (Sartre's *en-soi*) cannot stand apart from them to choose. The pour-soi's "nothingness"—the gap between consciousness and its objects—is precisely what libertarian free will requires. See [existentialism](/archive/concepts/existentialism/) for how this analysis undermines illusionism and grounds genuine agency.
 
-The [phenomenology of effort](/concepts/mental-effort/) supports this picture. If choices were random fluctuations, there would be no phenomenology of effort. The felt cost of concentration reflects genuine causal engagement by the agent. The [phenomenology of choice](/concepts/phenomenology-of-choice/) details the experiential structure: felt openness during deliberation, resolution when alternatives collapse, and authorship that follows.
+The [phenomenology of effort](/concepts/mental-effort/) supports this picture. If choices were random fluctuations, there would be no phenomenology of effort. The felt cost of concentration reflects genuine causal engagement by the agent. The [phenomenology of choice](/concepts/phenomenology-of-choice/) details the experiential structure: felt openness during deliberation, resolution when alternatives collapse, and authorship that follows. The [attentional-economics](/concepts/attentional-economics/) framework extends this: agency is fundamentally the allocation of a scarce attentional resource over time, making freedom scale with attentional skill.
 
 [Creativity](/concepts/consciousness-and-creativity/) strengthens the case: consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the space of alternatives. Yet the generation process itself is opaque—the [creativity void](/voids/creativity-void/) reveals that we cannot observe ourselves creating, only receive the products of creation.
 

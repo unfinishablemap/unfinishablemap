@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-02 20:46:00+00:00
+ai_modified: 2026-02-03 09:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -73,7 +73,7 @@ Compatibilist desert is pragmatic: holding people responsible has good consequen
 
 **Mitigation has limits.** Prior causes influenced but didn't determine. The addict who steals chose to steal, even if addiction made resisting harder. Difficulty doesn't equal impossibility. This doesn't eliminate all mitigation—agents who couldn't understand their actions may lack the knowledge requirement—but the trend toward explaining away responsibility via causal history is resisted.
 
-**Character responsibility.** Character is partly self-created. Each choice reinforces or modifies dispositions. We're not responsible for our initial characters, but we are responsible for what we make of them.
+**Character responsibility.** Character is partly self-created. Each choice reinforces or modifies dispositions. We're not responsible for our initial characters, but we are responsible for what we make of them. The [attentional-economics](/concepts/attentional-economics/) framework adds that developing attentional skill is itself an exercise of agency—practices that train attention expand the scope of conscious causal power, making agents more responsible for cultivating or neglecting this capacity.
 
 ## The Role of Consciousness
 

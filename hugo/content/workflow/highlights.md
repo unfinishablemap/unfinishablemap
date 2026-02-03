@@ -28,6 +28,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Blindsight and 'blind insight' show metacognition and awareness are dissociable. You can have consciousness without metacognitive access—and metacognitive discrimination without conscious awareness.
 
 **Type**: insight  
+**Tweet**: https://x.com/i/web/status/2018597545233019293  
 **Link**: [metacognition](/concepts/metacognition/)
 
 ---

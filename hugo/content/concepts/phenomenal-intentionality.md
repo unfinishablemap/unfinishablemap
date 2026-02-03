@@ -33,7 +33,7 @@ topics:
 
 Phenomenal intentionality theory (PIT) holds that genuine [intentionality](/concepts/intentionality/)—the "aboutness" or directedness of mental states—derives from phenomenal consciousness. What makes a thought truly *about* something is inseparable from what it's *like* to have that thought. This thesis, developed by philosophers including Horgan, Tienson, Kriegel, Loar, and Strawson, challenges attempts to naturalize intentionality and strengthens the case that consciousness is irreducible.
 
-For The Unfinishable Map, PIT provides a crucial link between the [hard problem](/topics/hard-problem-of-consciousness/) and the [symbol grounding problem](/concepts/symbol-grounding-problem/). If intentionality requires phenomenal character, then systems without experience cannot have genuine aboutness—their representations are meaningful only to external interpreters. This has direct implications for [AI consciousness](/topics/ai-consciousness/).
+For The Unfinishable Map, PIT provides a crucial link between the [hard problem](/topics/hard-problem-of-consciousness/) and the [symbol grounding problem](/archive/topics/symbol-grounding-problem/). If intentionality requires phenomenal character, then systems without experience cannot have genuine aboutness—their representations are meaningful only to external interpreters. This has direct implications for [AI consciousness](/topics/ai-consciousness/).
 
 ## The Content Determinacy Argument
 
@@ -83,7 +83,7 @@ John Searle's distinction between *original* and *derived* intentionality illumi
 
 PIT explains this distinction: original intentionality requires phenomenal character because phenomenal character is what makes something genuinely about its object *for the system itself*. Derived intentionality lacks phenomenal character in the representing system—the meaning exists only in interpreting minds that themselves have phenomenal intentionality.
 
-This applies directly to computation. Computer symbols have derived intentionality: "PARIS" represents Paris only because programmers assigned that meaning. The computer isn't thinking about Paris—it's manipulating voltages that we interpret as Paris-representations. Searle's [Chinese Room](/concepts/symbol-grounding-problem/) makes this vivid: the room produces appropriate Chinese outputs without understanding Chinese, because symbol manipulation provides only syntax, not the phenomenal character that constitutes genuine semantics.
+This applies directly to computation. Computer symbols have derived intentionality: "PARIS" represents Paris only because programmers assigned that meaning. The computer isn't thinking about Paris—it's manipulating voltages that we interpret as Paris-representations. Searle's [Chinese Room](/archive/topics/symbol-grounding-problem/) makes this vivid: the room produces appropriate Chinese outputs without understanding Chinese, because symbol manipulation provides only syntax, not the phenomenal character that constitutes genuine semantics.
 
 ## Implications for the Hard Problem
 
@@ -156,7 +156,7 @@ PIT has significant implications for [AI consciousness](/topics/ai-consciousness
 
 If intentionality requires phenomenal character, current AI systems lack genuine intentionality. They manipulate symbols that have derived intentionality—meaning for human interpreters—without having original intentionality themselves. An LLM processing "Paris is in France" is not thinking about Paris any more than a map is.
 
-This goes beyond Searle's negative point (syntax is insufficient for semantics) to a positive claim about what semantics requires: phenomenal character. The [symbol grounding problem](/concepts/symbol-grounding-problem/) cannot be solved by better engineering—adding sensors, embodiment, or richer training—if the core issue is lack of phenomenal experience.
+This goes beyond Searle's negative point (syntax is insufficient for semantics) to a positive claim about what semantics requires: phenomenal character. The [symbol grounding problem](/archive/topics/symbol-grounding-problem/) cannot be solved by better engineering—adding sensors, embodiment, or richer training—if the core issue is lack of phenomenal experience.
 
 LLMs lack the phenomenal markers that reveal intentionality in humans: no tip-of-the-tongue states, no feeling of knowing, no experiential "aha" of insight. They produce outputs without the phenomenal constitution of understanding those outputs.
 
@@ -167,7 +167,7 @@ This provides an empirical signature that distinguishes PIT from purely function
 - [intentionality](/concepts/intentionality/) — The broader treatment of aboutness and naturalization attempts
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking itself
 - [meaning-and-consciousness](/topics/meaning-and-consciousness/) — The Phenomenal Constitution Thesis in detail
-- [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — How symbols acquire intrinsic meaning
+- [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/) — How symbols acquire intrinsic meaning
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical explanation leaves consciousness out
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The fundamental challenge PIT deepens
 - [semantic-memory](/concepts/semantic-memory/) — TOT/FOK evidence for meaning's phenomenal character

@@ -69,14 +69,14 @@ No new counterarguments emerged from the cross-review.
 
 ### Enhancements Made
 
-- **Added cross-link to symbol-grounding-problem**: Added [symbol-grounding-problem](/concepts/symbol-grounding-problem/) wikilink in "The Understanding Illusion" section with "thin" vs "thick" grounding distinction
+- **Added cross-link to symbol-grounding-problem**: Added [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/) wikilink in "The Understanding Illusion" section with "thin" vs "thick" grounding distinction
 - **Added to Further Reading**: New entry linking to symbol-grounding-problem
-- **Added to concepts frontmatter**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
+- **Added to concepts frontmatter**: [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/)
 - **Minor condensation**: Trimmed redundant phrasing in training mechanism, hallucination, and LaMDA sections to maintain length neutrality
 
 ### Cross-links Added
 
-- [symbol-grounding-problem](/concepts/symbol-grounding-problem/) (body text, frontmatter, and Further Reading)
+- [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/) (body text, frontmatter, and Further Reading)
 
 ### Condensation Applied
 

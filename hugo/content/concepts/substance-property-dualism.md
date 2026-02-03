@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-02 11:07:00+00:00
+ai_modified: 2026-02-03 10:37:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: 'Two forms of dualism: separate mental substances versus irreducibl
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 22:10:00+00:00
+last_deep_review: 2026-02-03 10:37:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -211,7 +211,7 @@ The Map's tenets are deliberately neutral between substance and property dualism
 
 The choice between substance and property dualism affects how we think about personal identity, survival, and the metaphysics of mind. These are important questions, but they're downstream of the central commitment: consciousness is real, irreducible, and causally efficacious.
 
-The Map follows Chalmers's recent inclination toward substance dualism, partly because substance dualism avoids the combination problem and partly because property dualism tends to slide toward either panpsychism (where the combination problem bites) or epiphenomenalism (which the Bidirectional Interaction tenet rejects). But this is a philosophical preference, not a doctrinal requirement.
+The Map leans toward substance dualism for two reasons: substance dualism avoids the combination problem, and property dualism tends to slide toward either panpsychism (where the combination problem bites) or epiphenomenalism (which the Bidirectional Interaction tenet rejects). But this is a philosophical preference, not a doctrinal requirement.
 
 ## Relation to the Map's Perspective
 

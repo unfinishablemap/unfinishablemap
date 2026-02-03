@@ -57,7 +57,7 @@ These features reveal that LLMs lack the [temporal structure](/concepts/temporal
 
 ## The Understanding Illusion
 
-LLMs produce outputs that appear to demonstrate understanding—explaining quantum mechanics, discussing philosophy, reasoning through novel problems. The [Chinese Room argument](/topics/ai-consciousness/#the-chinese-room) provides the template: a system can manipulate symbols according to rules, producing outputs indistinguishable from understanding, without understanding anything. The [symbol-grounding-problem](/concepts/symbol-grounding-problem/) formalizes this challenge: LLM symbols have "thin" grounding (statistical connections to meaningful human text) but lack "thick" grounding—genuine meaning for the system itself.
+LLMs produce outputs that appear to demonstrate understanding—explaining quantum mechanics, discussing philosophy, reasoning through novel problems. The [Chinese Room argument](/topics/ai-consciousness/#the-chinese-room) provides the template: a system can manipulate symbols according to rules, producing outputs indistinguishable from understanding, without understanding anything. The [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/) formalizes this challenge: LLM symbols have "thin" grounding (statistical connections to meaningful human text) but lack "thick" grounding—genuine meaning for the system itself.
 
 **Training reveals the mechanism**: LLMs predict next tokens based on statistical regularities. There is no hidden understanding; there are learned parameters transforming inputs to outputs.
 
@@ -295,7 +295,7 @@ None of these has occurred. The Map's skepticism about LLM consciousness remains
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence against illusionism
 - [combination-problem](/concepts/combination-problem/) — Why experiential combination requires the right architecture
 - [substrate-independence-critique](/archive/concepts/substrate-independence-critique/) — Why the substrate matters for consciousness
-- [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — Why LLM symbols lack genuine meaning
+- [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/) — Why LLM symbols lack genuine meaning
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The gap LLM processing doesn't bridge
 
 ## References

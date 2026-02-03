@@ -74,7 +74,7 @@ No misattribution, dropped qualifiers, or source/Map conflation detected.
    - Notes 35 years of unsolved research
 
 ### Cross-links Added
-- [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
+- [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/)
 
 ## Changes Summary
 

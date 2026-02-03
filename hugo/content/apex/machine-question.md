@@ -200,7 +200,7 @@ This apex article synthesizes:
 
 ## Further Reading
 
-- [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — Why computational symbols lack intrinsic meaning
+- [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/) — Why computational symbols lack intrinsic meaning
 - [llm-consciousness](/concepts/llm-consciousness/) — Focused analysis of large language models
 - [continual-learning-argument](/concepts/continual-learning-argument/) — Formal framework for why static systems cannot be conscious
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Temporal structure requirements for consciousness

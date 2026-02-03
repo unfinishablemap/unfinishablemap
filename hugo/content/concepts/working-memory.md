@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-02-02 11:42:00+00:00
+ai_modified: 2026-02-03 09:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -136,7 +136,7 @@ The [attention-as-interface](/concepts/attention-as-interface/) hypothesis propo
 
 The bidirectional attention-working memory relationship is well-established: attention determines what enters working memory; working memory contents guide attention. This creates a feedback loop: conscious attention selects what to hold, and held contents direct subsequent attention.
 
-**Bandwidth constraint**: The Map's [coupling law research](/archive/concepts/psychophysical-coupling-law/) estimates consciousness's causal bandwidth at ~10 bits/second. This matches WM capacity limitations remarkably well—suggesting both may reflect the same fundamental constraint on consciousness-matter interaction.
+**Bandwidth constraint**: The Map's [coupling law research](/archive/concepts/psychophysical-coupling-law/) estimates consciousness's causal bandwidth at ~10 bits/second. This matches WM capacity limitations remarkably well—suggesting both may reflect the same fundamental constraint on consciousness-matter interaction. The [attentional-economics](/concepts/attentional-economics/) framework treats WM capacity as "attentional capital"—the liquid assets available for manipulation within any given moment.
 
 **Effort asymmetry**: The maintenance/manipulation distinction explains why some cognitive processes feel effortful and others don't. Mental effort corresponds to conscious manipulation through the interface; passive maintenance operates without consciousness and without effort.
 

@@ -131,7 +131,7 @@ Particles always have definite positions, guided by the wave function through a 
 
 Conscious observation precipitates collapse. Von Neumann's formalism permits placing collapse anywhere in the measurement chain, including at the observer's consciousness—a possibility Wigner explored in the 1960s.
 
-**Relation to site tenets:** Most aligned with [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction). The Map prefers Stapp's quantum Zeno approach over von Neumann-Wigner consciousness-collapse, since Zeno uses orthodox quantum mechanics without adding consciousness as a fundamental force—consciousness *selects* within physics rather than intervening from outside it.
+**Relation to site tenets:** Most aligned with [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction). The Map prefers Stapp's quantum Zeno approach over von Neumann-Wigner consciousness-collapse, since Zeno uses orthodox quantum mechanics without adding consciousness as a fundamental force—consciousness *selects* within physics rather than intervening from outside it. The specific [coupling mode](/concepts/coupling-modes/) matters: Stapp's framework emphasizes basis control (Process 1) and timing control (Zeno effect) rather than direct probability modification.
 
 #### Stapp's Quantum Zeno Framework
 
@@ -189,6 +189,7 @@ The measurement problem is central to the Map's framework. It creates the logica
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure
 - [many-worlds](/arguments/many-worlds/) — Arguments against MWI
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for mind-matter interaction
+- [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: how consciousness couples to physics
 - [decoherence](/concepts/decoherence/) — What decoherence does and doesn't explain
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and consciousness-modulated collapse
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The broader framework

@@ -51,13 +51,13 @@ N/A - This article is not based on a single source requiring attribution verific
 - Five falsifiability conditions show intellectual honesty
 
 ### Enhancements Made
-- Added cross-link to [symbol-grounding-problem](/concepts/symbol-grounding-problem/) in Further Reading
+- Added cross-link to [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/) in Further Reading
 - Integrated mention of symbol grounding and dictionary regress in naturalization section
 - Minor prose tightening in Process Philosophy section for length-neutrality
 - Minor prose tightening in AI Consciousness section for length-neutrality
 
 ### Cross-links Added
-- [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
+- [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/)
 
 ## Length Management
 

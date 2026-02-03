@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-02-01 01:38:00+00:00
+ai_modified: 2026-02-03 09:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -80,7 +80,7 @@ Neural correlates include:
 - Dorsal attention network engagement
 - Theta power increase
 
-FA meditation trains the interface. The meditator practices selecting where attention goes, strengthening the neural infrastructure of voluntary attention. This is why FA often precedes OM in traditional curricula—the capacity to select must be developed before the capacity to observe without selecting.
+FA meditation trains the interface. The meditator practices selecting where attention goes, strengthening the neural infrastructure of voluntary attention. This is why FA often precedes OM in traditional curricula—the capacity to select must be developed before the capacity to observe without selecting. The [attentional-economics](/concepts/attentional-economics/) framework interprets this as building "attentional capital"—expanding the capacity for sustained focus that the Map claims is metaphysically agency-enhancing.
 
 ### Open Monitoring (OM) Meditation
 

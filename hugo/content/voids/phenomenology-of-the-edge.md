@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-02-03 00:42:00+00:00
+ai_modified: 2026-02-03 09:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Human+AI exploration of what consciousness encounters at its cognit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 00:42:00+00:00
+last_deep_review: 2026-02-03 09:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -27,6 +27,7 @@ related_articles:
 - '[[apophatic-approaches]]'
 - '[[thoughts-that-slip-away]]'
 - '[[scale-void]]'
+- '[[probability-intuition-void]]'
 title: The Phenomenology of the Edge
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -100,7 +101,7 @@ The phenomenology of the edge offers several insights for understanding consciou
 
 **The subject is not essential to experience.** If the zero-person perspective is genuinely experiential (and the consistency of reports suggests it is), then the sense of being a self having experiences is an addition to consciousness, not its foundation. Consciousness can operate without the usual experiencer. This matters for understanding what consciousness fundamentally is.
 
-**Multiple edges exist.** Different practices seem to approach different boundaries: the ego-boundary (loss of self), the content-boundary (minimal phenomenal experience), the temporal-boundary (dissolution of time), and the [scale-boundary](/voids/scale-void/) (where cosmic distances and deep time exceed comprehension). Each has distinct phenomenology. The territory of cognitive limits may be varied, not uniform.
+**Multiple edges exist.** Different practices seem to approach different boundaries: the ego-boundary (loss of self), the content-boundary (minimal phenomenal experience), the temporal-boundary (dissolution of time), the [scale-boundary](/voids/scale-void/) (where cosmic distances and deep time exceed comprehension), and the [probability-boundary](/voids/probability-intuition-void/) (where genuine randomness resists intuitive grasp). Each has distinct phenomenology. The territory of cognitive limits may be varied, not uniform.
 
 ## The Lower Edge: Minimal Consciousness
 
@@ -147,6 +148,7 @@ The [apophatic tradition](/voids/apophatic-approaches/) offers methods for engag
 - [Witness Consciousness](/concepts/witness-consciousness/) — The sakshi tradition and the structure of awareness
 - [Altered States of Consciousness](/concepts/altered-states-of-consciousness/) — How different states reveal the configurability of the consciousness-brain interface
 - [The Dream Consciousness Void](/voids/dream-consciousness-void/) — Where the edge-phenomenology is state-specific: waking cannot access dreaming, dreaming cannot access waking
+- [The Probability Intuition Void](/voids/probability-intuition-void/) — Where pattern-seeking architecture confronts genuine randomness
 
 ## References
 

@@ -70,7 +70,7 @@ Since Brentano, many philosophers have tried to naturalize intentionality—to e
 
 **Informational theories** encounter the problem that mere correlation isn't representation. A tree ring carries information about annual rainfall, but doesn't *represent* rainfall—it's not *about* anything. What distinguishes genuine intentionality from mere information-carrying?
 
-The [symbol grounding problem](/concepts/symbol-grounding-problem/) sharpens this challenge for computational systems: how can symbols acquire meaning *intrinsic* to the system rather than borrowed from human interpreters? Harnad's dictionary regress—imagine learning Chinese using only a Chinese-to-Chinese dictionary—shows that without some foothold in genuine understanding, symbols remain semantically empty no matter how many other symbols define them.
+The [symbol grounding problem](/archive/topics/symbol-grounding-problem/) sharpens this challenge for computational systems: how can symbols acquire meaning *intrinsic* to the system rather than borrowed from human interpreters? Harnad's dictionary regress—imagine learning Chinese using only a Chinese-to-Chinese dictionary—shows that without some foothold in genuine understanding, symbols remain semantically empty no matter how many other symbols define them.
 
 No naturalistic theory has achieved consensus. As the Internet Encyclopedia of Philosophy notes, "Brentano was deeply pessimistic about the possibility of explaining intentionality in physical terms... no one has succeeded in refuting Brentano's thesis." This supports the Map's [Occam's Razor Has Limits](/tenets/#occam) tenet: the "simpler" physical explanations don't work.
 
@@ -223,7 +223,7 @@ Intentionality connects to all five foundational tenets:
 - [illusionism](/concepts/illusionism/) — The radical denial that intentionality and consciousness are real
 - [introspection](/concepts/introspection/) — How we access intentional states and whether that access is reliable
 - [decoherence](/concepts/decoherence/) — The quantum biology objection and why it may not apply
-- [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — How symbols acquire intrinsic meaning (the computational framing)
+- [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/) — How symbols acquire intrinsic meaning (the computational framing)
 - [intentionality-consciousness-2026-01-14](/research/intentionality-consciousness-2026-01-14/) — Research notes on this topic
 
 ## References

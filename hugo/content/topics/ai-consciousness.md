@@ -90,7 +90,7 @@ Several additional arguments reinforce skepticism:
 
 **The [decoherence](/concepts/decoherence/) challenge.** The Map's quantum framework suggests consciousness interfaces at quantum levels. Silicon computing is *designed* to suppress quantum effects—error correction and thermal management ensure transistors behave as deterministic switches. Current AI hardware provides no candidate quantum-consciousness interface.
 
-**The [symbol grounding problem](/concepts/symbol-grounding-problem/) remains unsolved.** [Embodied cognition](/concepts/embodied-cognition/) correctly emphasizes that understanding is shaped by bodily engagement. But embodied robots achieve only "thin" grounding—reliable causal connections between internal states and environmental features—not "thick" grounding where symbols mean something *for* the system. As Harnad himself concedes, "grounding is a functional matter; feeling is a felt matter." Thirty-five years of research has not bridged this gap. The body shapes how consciousness interfaces with the world; it doesn't produce consciousness or meaning.
+**The [symbol grounding problem](/archive/topics/symbol-grounding-problem/) remains unsolved.** [Embodied cognition](/concepts/embodied-cognition/) correctly emphasizes that understanding is shaped by bodily engagement. But embodied robots achieve only "thin" grounding—reliable causal connections between internal states and environmental features—not "thick" grounding where symbols mean something *for* the system. As Harnad himself concedes, "grounding is a functional matter; feeling is a felt matter." Thirty-five years of research has not bridged this gap. The body shapes how consciousness interfaces with the world; it doesn't produce consciousness or meaning.
 
 ## Relation to Site Perspective
 
@@ -141,7 +141,7 @@ None has occurred. The explanatory gap remains unbridged.
 ## Further Reading
 
 - [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — How consciousness and intelligence relate
-- [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — Why computational symbols lack intrinsic meaning
+- [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/) — Why computational symbols lack intrinsic meaning
 - [llm-consciousness](/concepts/llm-consciousness/) — Focused LLM analysis
 - [continual-learning-argument](/concepts/continual-learning-argument/) — Formal framework for why static systems cannot be conscious
 - [functionalism](/arguments/functionalism/) — Complete critique of functionalism

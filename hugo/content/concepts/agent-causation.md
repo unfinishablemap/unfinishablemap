@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-02 21:12:00+00:00
+ai_modified: 2026-02-03 09:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -112,7 +112,7 @@ Even during automatic performance, the agent persists in what Tulving called *an
 
 ## Voluntary Attention as Agent-Causal Paradigm
 
-[Voluntary attention](/concepts/attention-as-interface/)—choosing where to direct awareness—provides the paradigm case of agent causation. Neuroscience distinguishes "willed attention" (internally chosen) from "instructed attention" (externally cued), finding distinct neural signatures.
+[Voluntary attention](/concepts/attention-as-interface/)—choosing where to direct awareness—provides the paradigm case of agent causation. Neuroscience distinguishes "willed attention" (internally chosen) from "instructed attention" (externally cued), finding distinct neural signatures. The [attentional economics](/concepts/attentional-economics/) framework extends this: agency operates through the ongoing allocation of a finite attentional resource, making freedom scale with attentional skill.
 
 Endogenous attention takes ~300ms to deploy versus 100ms for automatic capture, with increased frontal theta and bidirectional frontoparietal coherence. The brain distinguishes between doing what you're told and doing what you choose.
 

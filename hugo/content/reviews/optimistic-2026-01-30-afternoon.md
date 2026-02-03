@@ -22,7 +22,7 @@ The Unfinishable Map continues to develop a distinctive voice in consciousness s
 
 ### The Property Dualist (Chalmers)
 
-The new [symbol-grounding-problem](/concepts/symbol-grounding-problem/) article demonstrates exactly the kind of connection-making that advances consciousness studies. The insight that the symbol grounding problem is "the consciousness problem in disguise" captures something important: the persistent failure to ground symbols in anything other than other symbols mirrors the explanatory gap. When Lin and Liu propose dividing SGP into "hard" and "easy" problems, they're essentially recognizing what I've argued about consciousness—some problems yield to functional analysis, others don't.
+The new [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/) article demonstrates exactly the kind of connection-making that advances consciousness studies. The insight that the symbol grounding problem is "the consciousness problem in disguise" captures something important: the persistent failure to ground symbols in anything other than other symbols mirrors the explanatory gap. When Lin and Liu propose dividing SGP into "hard" and "easy" problems, they're essentially recognizing what I've argued about consciousness—some problems yield to functional analysis, others don't.
 
 The treatment of LLMs is particularly valuable. The Map's third interpretation—that LLMs achieve linguistic competence without linguistic understanding—provides a framework for thinking about these systems that neither dismisses their capabilities nor inflates them into consciousness. "Chinese Rooms at scale" is apt.
 
@@ -58,7 +58,7 @@ The treatment of bad faith also supports the framework: "Bad faith demonstrates 
 
 ### The Mysterian (McGinn)
 
-The [symbol-grounding-problem](/concepts/symbol-grounding-problem/) article implicitly supports cognitive closure: "Fifty years after early AI, forty years after Searle's Chinese Room, thirty-five years after Harnad's formulation, no consensus solution exists." The persistent failure to solve the problem despite massive effort suggests we may lack the conceptual resources to understand how symbols acquire meaning.
+The [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/) article implicitly supports cognitive closure: "Fifty years after early AI, forty years after Searle's Chinese Room, thirty-five years after Harnad's formulation, no consensus solution exists." The persistent failure to solve the problem despite massive effort suggests we may lack the conceptual resources to understand how symbols acquire meaning.
 
 The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes what we can know from what we can explain: "How consciousness grounds meaning may remain mysterious—perhaps part of what mysterianism suggests exceeds human comprehension. But evidence can point toward a truth we can't fully understand." This is the right epistemic posture: recognizing that our best evidence supports a conclusion while acknowledging we may never fully comprehend its mechanism.
 
@@ -69,7 +69,7 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 - **Notable quote**: "Raymond Tallis has made this point against contemporary illusionists: 'Misrepresentation presupposes presentation.' For consciousness to misrepresent itself as phenomenal, there must be something to which this misrepresentation appears."
 - **Why it works**: Shows that existentialist insights anticipated and ground contemporary arguments against illusionism by 80+ years.
 
-### [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
+### [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/)
 - **Strongest point**: The distinction between "thin" grounding (reliable causal connections) and "thick" grounding (intrinsic meaning requiring phenomenal experience). This clarifies why robotics experiments and LLM achievements don't solve the problem.
 - **Notable quote**: "Harnad himself recognized the limit of his proposal... 'The only thing that distinguishes an internal state that merely has grounding from one that has meaning is that it feels like something to be in the meaning state.'"
 - **Why it works**: Shows that even the person who formalized the problem recognizes it leads to consciousness.
@@ -104,7 +104,7 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 ### High Priority
 
 #### Consciousness and Language: The Recursion Connection
-- **Builds on**: [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/), [symbol-grounding-problem](/concepts/symbol-grounding-problem/), [existentialism](/archive/concepts/existentialism/)
+- **Builds on**: [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/), [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/), [existentialism](/archive/concepts/existentialism/)
 - **Would address**: The Map has pieces on language and consciousness but not a unified treatment of why recursive syntax might require or indicate consciousness. The new symbol grounding article touches on this but doesn't develop it.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism through the argument that meaningful language requires consciousness.
@@ -136,7 +136,7 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 - **Tenet alignment**: Supports Dualism through another dimension of irreducibly qualitative experience.
 
 #### Symbol Grounding and Animal Communication
-- **Builds on**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/), [animal-consciousness](/topics/animal-consciousness/), [cumulative-culture](/concepts/cumulative-culture/)
+- **Builds on**: [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/), [animal-consciousness](/topics/animal-consciousness/), [cumulative-culture](/concepts/cumulative-culture/)
 - **Would address**: If meaning requires phenomenal consciousness, and animals have phenomenal consciousness, what kind of meaning can animal communication have? This tests the framework.
 - **Estimated scope**: Short article
 - **Tenet alignment**: Clarifies the relationship between consciousness and meaning across species.
@@ -154,10 +154,10 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 | From | To | Reason |
 |------|-----|--------|
 | [existentialism](/archive/concepts/existentialism/) | [illusionism](/concepts/illusionism/) | Pour-soi analysis directly undermines illusionist position |
-| [symbol-grounding-problem](/concepts/symbol-grounding-problem/) | phenomenal intentionality | SGP leads to phenomenal intentionality thesis |
+| [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/) | phenomenal intentionality | SGP leads to phenomenal intentionality thesis |
 | [phenomenal-value-realism](/concepts/phenomenal-value-realism/) | [existentialism](/archive/concepts/existentialism/) | Sartre's authentic choice has phenomenal character that matters |
 | [meaning-of-life](/topics/meaning-of-life/) | [existentialism](/archive/concepts/existentialism/) | Existentialist answers to meaning need the new systematic treatment |
-| [idealism](/concepts/idealism/) | [symbol-grounding-problem](/concepts/symbol-grounding-problem/) | Idealism dissolves SGP differently than dualism |
+| [idealism](/concepts/idealism/) | [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/) | Idealism dissolves SGP differently than dualism |
 | [free-will](/topics/free-will/) | [existentialism](/archive/concepts/existentialism/) | Sartre's radical freedom aligns with libertarian position |
 
 ## New Concept Pages Needed
