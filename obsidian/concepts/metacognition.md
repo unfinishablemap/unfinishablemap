@@ -4,7 +4,7 @@ description: "Thinking about thinking is not consciousness itself. Dissociation 
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-02-03T07:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-01-20T17:30:00+00:00
+last_deep_review: 2026-02-03T07:52:00+00:00
 ---
 
 Metacognition—thinking about thinking—is often conflated with consciousness itself. Higher-Order Thought (HOT) theories explicitly make this identification: a mental state becomes conscious when targeted by a metacognitive representation. But the conflation is a mistake. Metacognition and phenomenal consciousness are dissociable: blindsight patients demonstrate consciousness that cannot be metacognitively accessed, while "blind insight" reveals metacognitive discrimination without conscious awareness. The relationship is enabling rather than constitutive—consciousness makes metacognition possible without being reducible to it.
@@ -117,7 +117,7 @@ The [[consciousness-as-amplifier]] hypothesis situates metacognition centrally: 
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: HOT theorists achieve apparent simplicity by identifying consciousness with metacognitive function—but this dissolves the phenomenon requiring explanation. The empirical dissociations suggest genuine complexity that forced identity obscures.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Metacognition operates at the cognitive level—prefrontal computations tracking the *results* of any quantum selection, not the selection process itself. The aPFC operates at millisecond timescales through classical neural computation; consciousness may interface with quantum processes at sub-millisecond scales while metacognition operates classically on the *outcomes*.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Metacognition operates at the cognitive level—prefrontal computations tracking the *results* of any quantum selection, not the selection process itself. The aPFC operates at millisecond timescales through classical neural computation. If the Map's quantum interface hypothesis is correct, consciousness would interface with quantum processes at sub-millisecond scales while metacognition operates classically on the *outcomes*—but this remains speculative.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Metacognitive reports are uniformly of determinate, singular experiences—never superposed or branching states. If consciousness existed in quantum superposition, metacognition should sometimes report phenomenology of indeterminacy. It never does.
 
@@ -157,4 +157,5 @@ The Map's framework accommodates this: consciousness provides phenomenal content
 - Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 - Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach to understanding blindsight. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
 - Templer, V.L., & Hampton, R.R. (2021). Slow progress with the most widely used animal model. *Animal Behavior and Cognition*, 6(4), 273-287.
+- Schulz, K. (2010). *Being Wrong: Adventures in the Margin of Error*. HarperCollins.
 - Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
