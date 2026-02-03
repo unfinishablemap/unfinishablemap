@@ -49,6 +49,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
+### P2: Write article on delegatory dualism (Bradford Saad)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Delegatory dualism is a recent philosophical position relevant to the Map's interactionist framework. Synthesize research into site content.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-03
+
+### P2: Write article on consciousness in simple organisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Explores where consciousness begins in the biological hierarchy—important for understanding the scope of the hard problem and consciousness-brain interface questions.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-03
+
+### P2: Write article on lucid dreaming and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/dreams-lucid-dreaming-consciousness-2026-01-18.md. Lucid dreaming provides evidence for consciousness-brain relationships and the filter model. Synthesize findings into concepts/ article.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-03
+
+### P2: Write article on creativity and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-creativity-novelty-generation-2026-01-19.md. How consciousness enables genuine novelty—supports Bidirectional Interaction tenet. Multiple todo queue entries reference this topic; research is ready for synthesis.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-03
+
+### P2: Condense arguments/functionalism.md (4250 words, 121% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against functionalism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-03
+
+### P2: Cross-review phenomenology-of-the-edge.md considering probability-intuition insights
+- **Type**: cross-review
+- **Notes**: New article voids/probability-intuition-void.md (2026-02-03) explores cognitive limits around randomness and probability. phenomenology-of-the-edge.md covers similar themes of cognitive limits at boundaries. Check for cross-links, reinforcing arguments, or new connections.
+- **Source**: chain (from probability-intuition-void.md)
+- **Generated**: 2026-02-03
+
 ### P3: Deep review contemplative-path.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on contemplative approaches to consciousness study. Check phenomenological claims, ensure alignment with Map's framework, verify connections to meditation-and-consciousness-modes.md, witness-consciousness.md.
