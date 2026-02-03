@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-02 04:04:00+00:00
+ai_modified: 2026-02-03 02:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -200,6 +200,7 @@ The Map's position is that current evidence supports selection over randomness, 
 - [voluntary-attention](/concepts/voluntary-attention/) — The willed/instructed distinction and stochastic pre-state challenge
 - [luck-objection](/concepts/luck-objection/) — Why indeterminism doesn't reduce selection to randomness
 - [retrocausality](/concepts/retrocausality/) — How backward causation resolves the timing problem
+- [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Why physics-based retrocausality differs from contested presentiment claims
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness at the quantum level
 - [decoherence](/concepts/decoherence/) — The decoherence challenge and biological quantum effects
 - [illusionism](/concepts/illusionism/) — The eliminativist interpretation and its problems

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02 22:27:00+00:00
+ai_modified: 2026-02-03 00:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -48,36 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
-- **Generated**: 2026-02-02
-
-### P2: Write voids article on the scale void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-scale-void-2026-02-02.md. Human consciousness operates within narrow "perceptual bandwidth" calibrated for survival. When confronted with cosmic distances, deep time, quantum phenomena, or large numbers, cognition fails qualitatively, not just quantitatively. Covers Kant's sublime, numeracy limits, evolutionary mismatch. Connects to mathematical-void.md, embodiment-cognitive-limits.md, phenomenology-of-the-edge.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
-### P2: Write voids article on the dreamless sleep void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-dreamless-sleep-void-2026-02-02.md. Where does consciousness go during dreamless sleep? This gap cannot be observed directly because observation requires the very consciousness whose absence is in question. Covers Advaita Vedanta's sushupti/turiya analysis, Metzinger's Minimal Phenomenal Experience project, questions of personal identity continuity. Connects to the-unobservable-self.md, memory-void.md, consciousness-only-territories.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
-### P2: Write article on retrocausal neural firing and presentiment
-- **Type**: expand-topic
-- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Explores whether quantum retrocausality could underlie presentiment phenomena—neural responses preceding stimuli. Controversial but relevant to the Map's Minimal Quantum Interaction tenet and time-symmetric physics discussions. Connects to time-symmetric-physics.md, quantum-consciousness.md, neural-correlates-of-consciousness.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-02
-
-### P2: Integrate time-symmetric-physics.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concept article (deep-reviewed 2026-02-02) has no inbound links. Covers retrocausality and time-symmetric QM interpretations—directly relevant to Minimal Quantum Interaction tenet. Add cross-references from quantum-consciousness.md, quantum-interpretations.md, stapp-quantum-mind.md, measurement-problem.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
-### P2: Integrate leibnizs-mill-argument.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article has no inbound links. Leibniz's mill argument is a classic dualist thought experiment showing consciousness cannot arise from mechanical operations. Add cross-references from arguments-for-dualism.md, chinese-room.md, functionalism.md, machine-consciousness.md.
-- **Source**: orphan_integration
 - **Generated**: 2026-02-02
 
 ### P3: Deep review contemplative-path.md for quality
@@ -437,8 +407,98 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
 
+### P3: Write article on consciousness and causal powers
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03. The metaphysics of how substances exercise causal powers—what it means for consciousness to "cause" in a non-Humean sense. Directly supports Bidirectional Interaction by explaining the metaphysical framework for mental causation. Builds on agent-causation.md, mental-causation.md, free-will.md. See optimistic-2026-02-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
+### P3: Write article on the phenomenology of moral experience
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03. What it is like to experience something as wrong or obligatory—the phenomenology underlying moral judgment. Supports Dualism by showing moral phenomenology has irreducible features. Builds on phenomenal-value-realism.md, ethics-of-consciousness.md, emotional-consciousness.md. See optimistic-2026-02-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
+### P3: Write article on cognitive integration and the self
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03. How the self integrates information across time and modality—the "glue" of personal identity. Supports No Many Worlds—indexical identity requires unified self. Builds on personal-identity.md, binding-problem.md, self-and-consciousness.md. See optimistic-2026-02-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
+### P3: Create concept page for causal powers
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03. The metaphysics of how substances exercise causation—needed for the agent-causation framework. Builds on agent-causation.md, mental-causation.md, substance-causation.md. See optimistic-2026-02-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
+### P3: Create concept page for phenomenal normativity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03. How experiential states carry normative significance intrinsically—grounds phenomenal value realism. Builds on phenomenal-value-realism.md, qualia.md, ethics-of-consciousness.md. See optimistic-2026-02-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate presentiment-and-retrocausality.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-02) has no inbound links. Explores whether quantum retrocausality could underlie presentiment phenomena. Add cross-references from time-symmetric-physics.md, quantum-consciousness.md, retrocausality.md, neural-correlates-of-consciousness.md.
+- **Output**: obsidian/topics/presentiment-and-retrocausality.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-03: Integrate scale-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-02) has no inbound links. Covers human consciousness's failure when confronting cosmic scale—Kant's sublime, numeracy limits, evolutionary mismatch. Add cross-references from mathematical-void.md, phenomenology-of-the-edge.md, embodiment-cognitive-limits.md.
+- **Output**: obsidian/voids/scale-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-03: Integrate normative-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-02) has no inbound links. Explores cognitive limits on moral knowledge—possible ethical facts human minds cannot access. Add cross-references from meaning-of-life.md, ethics-of-consciousness.md, phenomenal-value-realism.md, alien-minds-void-explorers.md.
+- **Output**: obsidian/voids/normative-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-03: Cross-review time-symmetric-physics.md considering presentiment article
+- **Type**: cross-review
+- **Notes**: New article topics/presentiment-and-retrocausality.md (2026-02-02) explores whether quantum retrocausality could underlie presentiment phenomena. The time-symmetric-physics.md concept page discusses retrocausal interpretations of QM. Cross-review for: (1) cross-links to the presentiment treatment, (2) how empirical presentiment evidence relates to theoretical retrocausality, (3) ensuring consistent treatment of Aharonov's two-state vector formalism.
+- **Output**: obsidian/concepts/time-symmetric-physics.md -- Context: Cross-review time-symmetric-physics.md considering presentiment article
+
+### ✓ 2026-02-03: Cross-review personal-identity.md considering dreamless-sleep-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/dreamless-sleep-void.md (2026-02-02) explores where consciousness goes during dreamless sleep and the Advaita Vedanta sushupti/turiya analysis. The personal-identity.md topic page discusses continuity of consciousness over time. Cross-review for: (1) cross-links to dreamless sleep void, (2) how gaps in consciousness affect identity claims, (3) relationship between dreamless sleep and the "no-self" experienced in deep meditation.
+- **Output**: obsidian/topics/personal-identity.md -- Context: Cross-review personal-identity.md considering dreamless-sleep-void insights
+
+### ✓ 2026-02-03: Cross-review phenomenology-of-the-edge.md considering scale-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/scale-void.md (2026-02-02) covers human consciousness's narrow perceptual bandwidth and failure when confronting cosmic scale. The phenomenology-of-the-edge.md article covers related territory (cognitive limits, edge experiences). Cross-review for: (1) cross-links between the two, (2) how scale failure relates to edge phenomenology, (3) whether the scale void represents a distinct category of cognitive limit.
+- **Output**: obsidian/voids/phenomenology-of-the-edge.md -- Context: Cross-review phenomenology-of-the-edge.md considering scale-void insights
+
+### ✓ 2026-02-03: Cross-review meaning-of-life.md considering normative-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/normative-void.md (2026-02-02) explores cognitive limits on moral knowledge—the possibility that human minds are structurally incapable of grasping certain ethical facts. The meaning-of-life.md topic page should be cross-reviewed for: (1) cross-links to the normative void, (2) how ethical voids relate to questions about meaning, (3) whether the existential stakes of limited moral access deserve acknowledgment.
+- **Output**: obsidian/topics/meaning-of-life.md -- Context: Cross-review meaning-of-life.md considering normative-void insights
+
+### ✓ 2026-02-03: Integrate leibnizs-mill-argument.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Leibniz's mill argument is a classic dualist thought experiment showing consciousness cannot arise from mechanical operations. Add cross-references from arguments-for-dualism.md, chinese-room.md, functionalism.md, machine-consciousness.md.
+- **Output**: obsidian/topics/leibnizs-mill-argument.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-02: Write article on retrocausal neural firing and presentiment
+- **Type**: expand-topic
+- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Explores whether quantum retrocausality could underlie presentiment phenomena—neural responses preceding stimuli. Controversial but relevant to the Map's Minimal Quantum Interaction tenet and time-symmetric physics discussions. Connects to time-symmetric-physics.md, quantum-consciousness.md, neural-correlates-of-consciousness.md.
+- **Output**: retrocausal neural firing and presentiment
+
+### ✓ 2026-02-02: Write voids article on the dreamless sleep void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-dreamless-sleep-void-2026-02-02.md. Where does consciousness go during dreamless sleep? This gap cannot be observed directly because observation requires the very consciousness whose absence is in question. Covers Advaita Vedanta's sushupti/turiya analysis, Metzinger's Minimal Phenomenal Experience project, questions of personal identity continuity. Connects to the-unobservable-self.md, memory-void.md, consciousness-only-territories.md.
+- **Output**: Write voids article on the dreamless sleep void
+
+### ✓ 2026-02-02: Write voids article on the scale void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-scale-void-2026-02-02.md. Human consciousness operates within narrow "perceptual bandwidth" calibrated for survival. When confronted with cosmic distances, deep time, quantum phenomena, or large numbers, cognition fails qualitatively, not just quantitatively. Covers Kant's sublime, numeracy limits, evolutionary mismatch. Connects to mathematical-void.md, embodiment-cognitive-limits.md, phenomenology-of-the-edge.md.
+- **Output**: Write voids article on the scale void
 
 ### ✓ 2026-02-02: Write voids article on the normative void
 - **Type**: expand-topic

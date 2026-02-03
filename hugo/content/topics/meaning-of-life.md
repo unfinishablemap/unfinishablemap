@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-02 20:46:00+00:00
+ai_modified: 2026-02-03 00:28:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,6 +20,7 @@ concepts:
 - '[[decoherence]]'
 - '[[emotional-consciousness]]'
 - '[[duration]]'
+- '[[normative-void]]'
 created: 2026-01-08
 date: &id001 2026-01-21
 description: What makes life meaningful? The Map suggests meaning is grounded in the
@@ -27,7 +28,7 @@ description: What makes life meaningful? The Map suggests meaning is grounded in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-30 16:35:00+00:00
+last_deep_review: 2026-02-03 00:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -107,17 +108,15 @@ This connects to [personal-identity](/topics/personal-identity/). If Parfit were
 
 [Eastern traditions](/topics/eastern-philosophy-consciousness/), particularly Buddhism, suggest meaning may be neither cosmic fact nor arbitrary choice, but something revealed through transformation of consciousness itself.
 
-Buddhism's Four Noble Truths diagnose the human condition: suffering arises from craving and clinging. The craving for permanent significance is itself a source of suffering. Liberation comes not from finding the "right" meaning but from releasing the grip of craving while remaining fully engaged with life. This isn't nihilism—it's engagement without grasping.
+Buddhism's Four Noble Truths diagnose suffering as arising from craving—including the craving for permanent significance. Liberation comes not from finding the "right" meaning but from releasing the grip of craving while remaining fully engaged. This isn't nihilism—it's engagement without grasping.
 
-This resonates with the Map's position. Buddhism agrees that conscious experience is significant—meditation practices presuppose it. But Buddhism adds: clinging to significance perpetuates suffering, while experiencing it directly transforms both experience and experiencer. If meaning is grounded in consciousness, then mindfulness—direct phenomenological attention—may be the practice through which consciousness-grounded meaning is actually realized.
+This resonates with the Map's position. Buddhism presupposes that conscious experience is significant; meditation practices aim at transforming it. If meaning is grounded in consciousness, then mindfulness—direct phenomenological attention—may be the practice through which consciousness-grounded meaning is actually realized.
 
 ## The AI Alignment Connection
 
-Questions about meaning acquire unexpected urgency through [AI alignment research](/topics/purpose-and-alignment/). Ensuring AI serves human interests presupposes we know what those interests are. But if we cannot articulate human purpose clearly, AI systems cannot be properly aligned.
+Questions about meaning acquire urgency through [AI alignment research](/topics/purpose-and-alignment/). Ensuring AI serves human interests presupposes we know what those interests are. Standard alignment approaches learn from preferences, but preferences are thin representations of meaning—what I choose under decision fatigue reveals little about what would fulfil me on reflection.
 
-Standard alignment approaches learn from preferences, treating choices as revealing values. But preferences are thin representations of meaning. What I choose under decision fatigue reveals little about what would fulfil me on reflection. The alignment problem may be partly unsolvable because the meaning-of-life problem remains unsolved.
-
-The Map's framework illuminates why. If consciousness is fundamental, what matters about human life may be tied to features of experience that no behavioural analysis can capture. A preference-learning AI observes inputs and outputs but cannot grasp what it is like to live a human life. This suggests AI systems should support human inquiry into meaning rather than presume to have discovered it.
+If consciousness is fundamental, what matters about human life may be tied to features of experience that no behavioural analysis can capture. A preference-learning AI observes inputs and outputs but cannot grasp what it is like to live a human life. This suggests AI systems should support human inquiry into meaning rather than presume to have discovered it.
 
 ## Responding to Nihilism
 
@@ -135,6 +134,12 @@ Error theory holds that all value claims are false because there's nothing in th
 
 The Map's position is that intrinsic properties of experience—its qualitative character, its first-person givenness—constitute a kind of value error theory cannot coherently deny. The error theorist must assert their claim from *within* conscious experience, deploying meaning in the service of denying meaning—a performative tension.
 
+### Against Evolutionary Debunking
+
+[Evolutionary debunking arguments](/voids/normative-void/) suggest our moral intuitions are unreliable because natural selection shaped them for fitness, not truth. Does this extend to intuitions about consciousness-grounded value?
+
+The disanalogy is crucial. Moral intuitions are *about* external facts (what's right, what's obligatory). Our access to them is indirect. But the intrinsic value of conscious experience isn't an inference about external facts—it's given in the experience itself. We don't conclude that pain is bad by observing it from outside; the badness is phenomenologically present in the suffering. Evolution could distort our beliefs *about* consciousness, but the immediate givenness of experience isn't a belief to be distorted.
+
 ### Against the Infinity Requirement
 
 "Finite lives can't have permanent significance." But why should permanence be required? A beautiful moment doesn't become valueless because it ends. The value was in the moment itself. Each moment can have intrinsic value regardless of how many follow.
@@ -151,7 +156,7 @@ Sartre's analysis of the *pour-soi* (being-for-itself) anticipated this point: c
 
 ### The Contemplative Challenge
 
-[Introspection](/concepts/introspection/) research reveals trained contemplatives access experiential quality directly—not as attribution but as observed feature. If phenomenal states were illusory, contemplative training should dissolve the illusion. Instead, meditation traditions report that practice *refines* phenomenal access, revealing finer-grained distinctions. The convergence among skilled meditators would be surprising if phenomenal properties didn't exist—what would training be refining access to?
+[Introspection](/concepts/introspection/) research reveals trained contemplatives access experiential quality directly—not as attribution but as observed feature. If phenomenal states were illusory, contemplative training should dissolve the illusion. Instead, practice *refines* phenomenal access, revealing finer-grained distinctions. What would training be refining access to if phenomenal properties didn't exist?
 
 ### The Functional Asymmetry
 
@@ -159,7 +164,7 @@ Even granting illusionism, a practical asymmetry remains. If consciousness is re
 
 ## Contemplative Evidence
 
-Contemplative traditions have systematically investigated experience from the inside, providing support for consciousness-grounded meaning.
+Contemplative traditions have systematically investigated experience from the inside, providing qualified support for consciousness-grounded meaning. Contemplative reports are expressed in tradition-specific vocabularies, so claims about "convergence" must be treated carefully. Still, structural similarities emerge across traditions.
 
 ### Witness Consciousness and Meaning
 
@@ -207,7 +212,7 @@ The [Dualism](/tenets/#dualism) tenet grounds the entire framework. If conscious
 
 The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies *how* consciousness influences the physical world: by biasing otherwise indeterminate quantum outcomes. This addresses a puzzle for views that take conscious choice seriously: if physics is causally closed, how can mental decisions make a difference? Consciousness operates where physics leaves outcomes undetermined.
 
-The [decoherence](/concepts/decoherence/) objection—that quantum effects decohere too fast in warm biological systems—remains a genuine challenge. Some biological quantum effects have been demonstrated in controlled molecular contexts (photosynthesis, avian magnetoreception), but whether similar effects operate in neural tissue is contested.
+The [decoherence](/concepts/decoherence/) objection—that quantum effects decohere too fast in warm biological systems—remains a genuine challenge. Some biological quantum effects have been demonstrated in controlled molecular contexts (photosynthesis, avian magnetoreception), but whether similar effects operate in neural tissue is highly speculative.
 
 ### Bidirectional Interaction
 
@@ -225,7 +230,7 @@ The [haecceity](/concepts/haecceity/) of personal identity matters here. *You*�
 
 The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet explains why consciousness-grounded meaning shouldn't be dismissed for complexity. Simpler accounts—meaning as preference-satisfaction, meaning as adaptive fiction—may reflect conceptual poverty rather than insight. Consciousness is strange; meaning may be equally strange.
 
-[Mysterianism](/concepts/mysterianism/) takes this further: we may be cognitively closed with respect to exactly *how* consciousness grounds meaning. We can know that it does without fully understanding the mechanism.
+[Mysterianism](/concepts/mysterianism/) takes this further: we may be cognitively closed with respect to exactly *how* consciousness grounds meaning. We can know that it does without fully understanding the mechanism. The [normative-void](/voids/normative-void/) extends this analysis to ethics—some moral truths may be permanently beyond human cognitive reach.
 
 ## What Makes a Life Meaningful?
 
@@ -267,6 +272,7 @@ The position takes seriously what we actually know: consciousness exists, it's r
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Buddhist approaches to consciousness and meaning
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and responses
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding consciousness
+- [normative-void](/voids/normative-void/) — Extending mysterianism to ethics and evolutionary debunking of moral intuitions
 
 ### Research
 - [meaning-of-life-theories-2026-01-08](/research/meaning-of-life-theories-2026-01-08/) — Research on major philosophical positions

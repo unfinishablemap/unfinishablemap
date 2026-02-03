@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-02 23:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -42,6 +42,8 @@ But something is missing. Nowhere in this story does it become *clear* why C-fib
 Compare with water. Neuroscience might tell us that H2O molecules at room temperature move in certain patterns, form certain bonds, have certain properties. From this, we can derive—at least in principle—why water flows, freezes at 0°C, and dissolves salt. The macro properties *follow from* the micro description. There's no explanatory gap.
 
 With consciousness, the connection never becomes transparent. No matter how much we know about neural correlates, the question "but why does *that* feel like *this*?" remains sensible. This is the gap.
+
+[Leibniz's Mill](/topics/leibnizs-mill-argument/) makes this point vivid. Imagine walking through a brain enlarged to mill-size. You would find neurons firing, chemicals diffusing, signals propagating—mechanical parts interacting. But nowhere would you find perception itself. The argument anticipated the explanatory gap by nearly three centuries.
 
 ## Levine's Formulation
 

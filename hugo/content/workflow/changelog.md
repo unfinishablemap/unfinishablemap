@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02 10:38:00+00:00
+ai_modified: 2026-02-02 23:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,184 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-02-03 02:43 UTC - deep-review
+- **Status**: Success
+- **File**: [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/)
+- **Word count**: 1483 → 1483 (no change)
+- **Critical issues addressed**: 0 (none found, article stable from previous review)
+- **Medium issues addressed**: 0 (none new, previous review's issues remain addressed)
+- **Enhancements made**: 2 (added cross-links from libet-experiments.md and time-collapse-and-agency.md)
+- **Output**: [deep-review-2026-02-03-presentiment-and-retrocausality](/reviews/deep-review-2026-02-03-presentiment-and-retrocausality/)
+- **Notes**: Second deep review. Orphan integration focus per task context. Article already had 4 inbound links (retrocausality, time-symmetric-physics, free-will, time-symmetric-selection-mechanism). Added 2 more from libet-experiments and time-collapse-and-agency. Article is stable—no content changes needed.
+
+---
+
+## 2026-02-03 02:27 UTC - deep-review
+- **Status**: Success
+- **File**: [scale-void](/voids/scale-void/)
+- **Word count**: 1556 → 1630 (+74)
+- **Critical issues addressed**: 1 (added missing citation for Toomarian quote)
+- **Medium issues addressed**: 2 (explicit source connection for number-line claim, strengthened Many-Worlds tenet connection)
+- **Enhancements made**: 4 (added quantum-consciousness cross-link, added reference to Toomarian & Hubbard 2018)
+- **Output**: [deep-review-2026-02-03-scale-void](/reviews/deep-review-2026-02-03-scale-void/)
+- **Notes**: First deep review. Orphan integration focus: article had only 1 inbound link (from phenomenology-of-the-edge). Added inbound links from voids.md, three-kinds-of-void.md, mysterianism.md, and embodiment-cognitive-limits.md. Article now properly integrated into site navigation.
+
+---
+
+## 2026-02-03 02:12 UTC - coalesce
+- **Status**: No merge performed
+- **Candidates analyzed**:
+  - Sleep/dreams cluster: [dreams-and-consciousness](/concepts/dreams-and-consciousness/), [sleep-and-consciousness](/concepts/sleep-and-consciousness/), [lucid-dreaming-and-consciousness](/topics/lucid-dreaming-and-consciousness/)
+  - Personal identity cluster: [personal-identity](/topics/personal-identity/), [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
+  - Attention cluster: [attention](/concepts/attention/), [attention-as-interface](/concepts/attention-as-interface/), [voluntary-attention](/concepts/voluntary-attention/)
+  - Quantum coherence cluster: [decoherence](/concepts/decoherence/), [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/), [neural-quantum-coherence](/concepts/neural-quantum-coherence/), [quantum-coherence-protection](/concepts/quantum-coherence-protection/)
+- **Finding**: All candidate groups are well-differentiated. Each article serves a distinct purpose within its cluster and cross-references appropriately. No strong merge candidates found.
+- **Notes**: Sleep/dreams articles address different aspects (dreams as evidence, sleep gradations, lucid state). Personal identity articles cover distinct domains (philosophical identity vs quantum measurement). Attention articles form overview/hypothesis/mechanism hierarchy. Quantum articles form conceptual network with central hub (decoherence.md) and specialized treatments.
+
+---
+
+## 2026-02-03 02:00 UTC - deep-review
+- **Status**: Success
+- **File**: [normative-void](/voids/normative-void/)
+- **Word count**: 1961 → ~2100 (+139)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (reliability/accessibility conflation, strained MWI connection, missing falsifiability criteria)
+- **Enhancements made**: 5 (added falsifiability section, clarified evolutionary argument, improved MWI connection, softened conclusion, cross-link integration)
+- **Output**: [deep-review-2026-02-03-normative-void](/reviews/deep-review-2026-02-03-normative-void/)
+- **Notes**: First deep review. Orphan integration focus: added inbound links from voids.md, mysterianism.md, phenomenal-value-realism.md, ethics-of-consciousness.md, and affective-void.md. Article now connected to site navigation.
+
+---
+
+## 2026-02-03 01:42 UTC - deep-review
+- **Status**: Success
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Word count**: 1820 → ~1870 (+50)
+- **Critical issues addressed**: 0 (none found—article stable from 2026-01-21 review)
+- **Medium issues addressed**: 1 (falsifiability condition underspecified)
+- **Enhancements made**: 3 (sharpened explanatory closure condition with H₂O analogy, added free will connection in Bidirectional Interaction section, added cross-links to free-will and conscious-vs-unconscious-processing)
+- **Output**: [deep-review-2026-02-03-neural-correlates-of-consciousness](/reviews/deep-review-2026-02-03-neural-correlates-of-consciousness/)
+- **Notes**: Second deep review. Article approaching stability—comprehensive NCC coverage with illusionist engagement, filter theory, memory systems, and full tenet connections. Minor refinements to falsifiability and cross-linking only.
+
+---
+
+## 2026-02-03 01:27 UTC - deep-review
+- **Status**: Success
+- **File**: [time-symmetric-physics](/concepts/time-symmetric-physics/)
+- **Word count**: 1904 → 1915 (+11)
+- **Critical issues addressed**: 0 (none found—article stable from 2026-02-02 review)
+- **Medium issues addressed**: 0 (all resolved in previous review)
+- **Enhancements made**: Cross-link to presentiment-and-retrocausality added to Further Reading
+- **Output**: [deep-review-2026-02-03-time-symmetric-physics](/reviews/deep-review-2026-02-03-time-symmetric-physics/)
+- **Notes**: Cross-review considering presentiment-and-retrocausality article. The physics foundations support the presentiment article's distinction between physics-based and parapsychological retrocausality. Bidirectional cross-link completes the connection. Article at stability after second review.
+
+---
+
+## 2026-02-03 01:13 UTC - deep-review
+- **Status**: Success
+- **File**: [personal-identity](/topics/personal-identity/)
+- **Word count**: 3025 → 3061 (+36)
+- **Critical issues addressed**: 0 (none found—article stable)
+- **Medium issues addressed**: 2 (dreamless sleep gap, missing cross-link)
+- **Enhancements made**: New "Dreamless Sleep Challenge" subsection with Vedantic response, dreamless-sleep-void cross-links, prose tightening throughout
+- **Output**: [deep-review-2026-02-03-personal-identity](/reviews/deep-review-2026-02-03-personal-identity/)
+- **Notes**: Cross-review considering dreamless-sleep-void insights. Addresses Lockean puzzle of identity through sleep gaps. Article at stability after third review.
+
+---
+
+## 2026-02-03 00:57 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 234 non-draft files (69 topics, 164 concepts, 1 tenets)
+- **Output**: [optimistic-2026-02-03](/reviews/optimistic-2026-02-03/)
+- **Tasks added**: 6 P3 expansion opportunities (consciousness and causal powers, phenomenology of moral experience, cognitive integration and the self, causal powers concept, phenomenal normativity concept, conceivability-possibility inference)
+- **Cross-linking suggestions**: 8 proposed connections
+- **Notes**: Multi-perspective analysis from Chalmers, Stapp, Nagel, Whitehead, Kane, McGinn viewpoints. Key strengths: hard problem treatment, attention-interface hypothesis, argument from reason self-defeat structure, free will phenomenology-neuroscience integration.
+
+---
+
+## 2026-02-03 00:42 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- **Word count**: 2106 → 2133 (+27)
+- **Critical issues addressed**: 0 (none found—article stable from previous review)
+- **Medium issues addressed**: 2
+- **Enhancements made**: Scale-void cross-reference integration, Millière component clarification, description field added
+- **Output**: [deep-review-2026-02-03-phenomenology-of-the-edge](/reviews/deep-review-2026-02-03-phenomenology-of-the-edge/)
+- **Notes**: Cross-review considering scale-void.md. Added scale-boundary to "Multiple edges" insight, added scale-void to Further Reading. Article at stability after second review.
+
+---
+
+## 2026-02-03 00:28 UTC - deep-review
+- **Status**: Success
+- **File**: [meaning-of-life](/topics/meaning-of-life/)
+- **Word count**: 3071 → 3154 (+83)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+- **Enhancements made**: Cross-review integration with normative-void insights, evolutionary debunking response, theory-ladenness acknowledgment for contemplative evidence
+- **Output**: [deep-review-2026-02-03-meaning-of-life](/reviews/deep-review-2026-02-03-meaning-of-life/)
+- **Notes**: Cross-review considering normative-void.md. Added "Against Evolutionary Debunking" subsection, tightened quantum mechanism language, added normative-void cross-links. Article approaching stability after third review.
+
+---
+
+## 2026-02-03 00:18 UTC - deep-review
+- **Status**: Success
+- **File**: [mind-matter-interface](/concepts/mind-matter-interface/)
+- **Word count**: 3156 → 3181 (+25)
+- **Critical issues addressed**: 0 (none found—article stable from previous review)
+- **Medium issues addressed**: 3
+- **Enhancements made**: Nuanced psychedelic paradox, illusionism response, Buddhist cessation debate
+- **Output**: [deep-review-2026-02-03-mind-matter-interface](/reviews/deep-review-2026-02-03-mind-matter-interface/)
+- **Notes**: Second review. Article has reached stability. Remaining objections represent bedrock philosophical disagreements, not fixable flaws.
+
+---
+
+## 2026-02-02 23:57 UTC - deep-review
+- **Status**: Success
+- **File**: [leibnizs-mill-argument](/topics/leibnizs-mill-argument/)
+- **Word count**: 1727 → 1727 (unchanged)
+- **Critical issues addressed**: 0 (none found—article stable from previous review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 5 inbound cross-links added from related articles
+- **Output**: [deep-review-2026-02-02-leibnizs-mill-argument](/reviews/deep-review-2026-02-02-leibnizs-mill-argument/)
+- **Notes**: Orphan integration focus. Added links from phenomenal-unity, arguments-for-dualism, explanatory-gap, dualism, and history-of-interactionist-dualism. Article was previously orphaned with no inbound links.
+
+---
+
+## 2026-02-02 23:43 UTC - expand-topic
+- **Status**: Already exists
+- **Topic**: Retrocausal neural firing and presentiment
+- **Output**: [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) (existing article from 2026-01-27)
+- **Word count**: 1811
+- **Based on research**: Yes, [retrocausal-neural-firing-presentiment-2026-01-23](/research/retrocausal-neural-firing-presentiment-2026-01-23/)
+- **Notes**: Article already existed with comprehensive coverage (Option 4 from research: distinguish physics-based retrocausality from parapsychological evidence). Task removed from queue as duplicate.
+
+---
+
+## 2026-02-02 23:27 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: voids/normative-void.md, voids/scale-void.md, voids/dreamless-sleep-void.md
+- **Output**: [pessimistic-2026-02-02-night](/reviews/pessimistic-2026-02-02-night/)
+- **Key findings**: Cluster conflates difficulty with impossibility; evidence shows humans *struggle* with these domains but doesn't establish architectural closure. Selective application of McGinn's mysterianism. Circular tenet support. Uncritical treatment of Vedantic doctrine in dreamless sleep article.
+
+---
+
+## 2026-02-02 23:12 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Dreamless Sleep Void
+- **Output**: [dreamless-sleep-void](/voids/dreamless-sleep-void/)
+- **Word count**: 1591
+- **Based on research**: Yes, [voids-dreamless-sleep-void-2026-02-02](/research/voids-dreamless-sleep-void-2026-02-02/)
+
+---
+
+## 2026-02-02 22:58 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Scale Void
+- **Output**: [scale-void](/voids/scale-void/)
+- **Word count**: 1556
+- **Based on research**: Yes, [voids-scale-void-2026-02-02](/research/voids-scale-void-2026-02-02/)
+
 ---
 
 ## 2026-02-02 22:42 UTC - deep-review

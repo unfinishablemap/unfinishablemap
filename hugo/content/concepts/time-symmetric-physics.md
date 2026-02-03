@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-02 12:23:00+00:00
+ai_modified: 2026-02-03 01:27:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Fundamental physics equations work equally well forward and backwar
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 12:23:00+00:00
+last_deep_review: 2026-02-03 01:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -173,6 +173,7 @@ Time-symmetric physics connects to the Map's [tenets](/tenets/) in several ways:
 ## Further Reading
 
 - [retrocausality](/concepts/retrocausality/) — Backward causation and the Libet resolution
+- [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Distinguishing physics-based retrocausality from contested parapsychological claims
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — Consciousness selecting through atemporal constraint-satisfaction
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Survey including transactional and TSVF frameworks

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-02-02 11:07:00+00:00
+ai_modified: 2026-02-02 23:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -71,6 +71,8 @@ Multiple independent arguments support the dualist conclusion. Their convergence
 ### The Explanatory Gap
 
 Joseph Levine's [explanatory-gap](/concepts/explanatory-gap/) identifies a structural problem: physical explanations describe how parts relate and systems behave, but subjective experience has qualitative, intrinsic character. No relational or dispositional description entails what red *looks like*. The gap isn't epistemic (we just don't know enough) but conceptual—the kinds of concepts physical science employs (structural, functional, relational) cannot in principle capture subjective character. This isn't a matter of needing better equations or more complete neuroscience. The concepts are of different types: physical description characterizes structure and behavior, while phenomenal reality has intrinsic qualitative character.
+
+[Leibniz's Mill](/topics/leibnizs-mill-argument/) dramatises this gap. Walking through an enlarged brain, we would find only mechanical parts—neurons, chemicals, electrical signals—but never perception itself. The argument anticipated modern discussions of the explanatory gap by nearly three centuries.
 
 ### The Conceivability Argument
 

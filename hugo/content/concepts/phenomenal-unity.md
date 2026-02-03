@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-31 05:33:00+00:00
+ai_modified: 2026-02-02 23:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -86,7 +86,7 @@ The stronger response: unity may be a precondition for illusion. An illusion req
 
 ### Leibniz's Insight
 
-Leibniz raised this problem in his "mill" argument. Imagine walking through a brain enlarged to mill-size. You would see mechanical parts interacting—neurons firing, chemicals diffusing. But nowhere would you find a unified *experience*. The physical system consists of parts external to each other; experience is unified without parts in that sense.
+Leibniz raised this problem in his [mill argument](/topics/leibnizs-mill-argument/). Imagine walking through a brain enlarged to mill-size. You would see mechanical parts interacting—neurons firing, chemicals diffusing. But nowhere would you find a unified *experience*. The physical system consists of parts external to each other; experience is unified without parts in that sense.
 
 This is not merely the hard problem in disguise. The hard problem asks why any experience exists at all. The unity problem asks why experience, if it exists, is unified rather than fragmentary. Even granting that neurons somehow produce quale-like states, why would those states belong together rather than float as separate consciousnesses?
 

@@ -207,6 +207,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) — Mathematical insight as evidence for cognitive limits
 - [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Complete neural mapping yet unknowable experience
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What cognitive closure feels like from the inside
+- [scale-void](/voids/scale-void/) — Cognitive closure at work: why cosmic distances and deep time resist comprehension
 - [causal-interface](/voids/causal-interface/) — The void between intention and action as cognitive closure in action
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits reveal cognitive architecture
 - [whether-real](/voids/whether-real/) — Can we know if the voids are genuinely permanent?
@@ -217,6 +218,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [voids](/voids/) — The Map's framework for approaching cognitive limits
 - [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — Whether different cognitive architectures face different closures
 - [affective-void](/voids/affective-void/) — Cognitive closure applied to the space of possible emotions
+- [normative-void](/voids/normative-void/) — Extending mysterianism to ethics—moral truths beyond human reach
 
 ## References
 

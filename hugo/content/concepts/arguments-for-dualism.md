@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-27 12:30:00+00:00
+ai_modified: 2026-02-02 23:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -79,7 +79,7 @@ Jackson himself later abandoned dualism, but even he acknowledges the argument "
 
 [Qualia](/concepts/qualia/)—the qualitative, felt aspects of experience—generate multiple arguments for dualism:
 
-**The Explanatory Gap**: Joseph Levine observed that even complete physical knowledge leaves unexplained *why* particular neural processes are accompanied by particular qualitative experiences. Why does neural pattern A produce the taste of coffee rather than the smell of roses, or nothing at all? The gap isn't epistemic; it's explanatory. Physics has no resources to answer this question.
+**The Explanatory Gap**: Joseph Levine observed that even complete physical knowledge leaves unexplained *why* particular neural processes are accompanied by particular qualitative experiences. Why does neural pattern A produce the taste of coffee rather than the smell of roses, or nothing at all? The gap isn't epistemic; it's explanatory. Physics has no resources to answer this question. [Leibniz's Mill](/topics/leibnizs-mill-argument/) anticipated this point in 1714: walking through an enlarged brain, we would find only mechanical parts—never perception itself.
 
 **[Inverted Qualia](/concepts/inverted-qualia/)**: Two people could be functionally identical—same behaviors, same neural patterns—but differ in their qualia. Your red might look like my green. If qualia can vary independently of physical and functional facts, they are not reducible to those facts.
 

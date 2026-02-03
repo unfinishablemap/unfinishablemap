@@ -132,6 +132,7 @@ The affective void suggests profound humility about emotion. Our feelings are no
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
 - [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — Whether different cognitive architectures face different closures
+- [normative-void](/voids/normative-void/) — Moral truths beyond human cognitive reach—the ethics counterpart
 - [apophatic-approaches](/voids/apophatic-approaches/) — Methods for knowing through negation
 
 ## References

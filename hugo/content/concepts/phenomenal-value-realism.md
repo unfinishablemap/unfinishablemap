@@ -207,6 +207,7 @@ If value is grounded in consciousness: the [hard problem](/topics/hard-problem-o
 - [introspection](/concepts/introspection/) — First-person access to phenomenal states
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative access to valence
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on value and emptiness
+- [normative-void](/voids/normative-void/) — If consciousness grounds value, what moral truths lie beyond our cognitive reach?
 
 ## References
 

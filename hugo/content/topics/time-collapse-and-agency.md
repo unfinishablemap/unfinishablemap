@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-30 22:35:00+00:00
+ai_modified: 2026-02-03 02:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -232,6 +232,7 @@ This synthesis strengthens and deepens each of the five tenets:
 
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric physics and backward causation
+- [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Why physics-based retrocausality doesn't rest on contested parapsychology
 - [duration](/concepts/duration/) — Bergson's qualitative time and the phenomenology of flow
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Broader treatment of time in consciousness
 - [specious-present](/concepts/specious-present/) — The experienced duration of "now" and the extensionalism debate
