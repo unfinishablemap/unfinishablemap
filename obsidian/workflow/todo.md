@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03T06:22:00+00:00
+ai_modified: 2026-02-03T08:37:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -48,6 +48,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
+
+### P2: Integrate coupling-modes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept (2026-01-31) has no inbound links. Covers three ways consciousness might influence quantum outcomes (basis selection, timing control, probability reweighting)—central to the Map's Minimal Quantum Interaction mechanism options. Add cross-references from quantum-consciousness.md, stapp-quantum-mind.md, psychophysical-coupling-mechanisms.md, selection-laws.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
+
+### P2: Integrate attentional-economics.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept (2026-01-31) has no inbound links. Frames agency as attention allocation over time—freedom scales with attentional skill. Add cross-references from voluntary-attention.md, free-will.md, attention-as-interface.md, mental-effort.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
+
+### P2: Cross-review phenomenology-of-the-edge.md considering probability-intuition-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/probability-intuition-void.md (2026-02-03) explores human minds' architectural failure at probabilistic reasoning. The phenomenology-of-the-edge.md article covers cognitive limits and edge experiences. Cross-review for: (1) cross-links between the two, (2) how probability intuition failure relates to edge phenomenology, (3) whether this void represents a distinct category of cognitive limit.
+- **Source**: chain (from probability-intuition-void.md)
+- **Generated**: 2026-02-03
+
+### P2: Condense functionalism.md (4250 words, 170% of hard threshold)
+- **Type**: condense
+- **Notes**: Concept article severely exceeds 2500-word threshold despite multiple previous attempts. This is the worst length offender in concepts/. Consider aggressive restructuring: extract detailed objection-response pairs to separate philosophical arguments treatment, keep only essential conceptual overview here. Core definition and key objections must be preserved. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-03
 
 ### P3: Deep review contemplative-path.md for quality
 - **Type**: deep-review
