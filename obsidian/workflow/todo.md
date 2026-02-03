@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03T11:53:00+00:00
+ai_modified: 2026-02-03T13:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Condense functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article remains critically over 3500-word hard threshold for arguments/ despite multiple previous condense attempts. This is a persistent length violation requiring aggressive restructuring. Consider extracting detailed objection-response dialectic to separate article treatment, keeping only essential conceptual overview. Core definition, relation to Map's substrate-dependence claims, and key objections summary must be preserved. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-03
+
+### P2: Cross-review interactionist-dualism.md considering delegatory dualism insights
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (2026-02-03) covers Bradford Saad's 2025 dualist theory. The interactionist-dualism.md concept page should be cross-reviewed for: (1) cross-links to delegatory dualism treatment, (2) how Saad's framework relates to classical interactionism, (3) potential strengthening of interactionist arguments from Saad's work.
+- **Source**: chain (from delegatory-dualism.md)
+- **Generated**: 2026-02-03
+
+### P2: Cross-review dreams-and-consciousness.md considering lucid dreaming insights
+- **Type**: cross-review
+- **Notes**: New article topics/lucid-dreaming-and-consciousness.md (2026-02-03) explores lucid dreaming as evidence for consciousness's causal role. The dreams-and-consciousness.md concept page should be cross-reviewed for: (1) cross-links to lucid dreaming treatment, (2) how lucid state phenomenology strengthens filter model arguments, (3) ensuring consistent treatment of dream consciousness across articles.
+- **Source**: chain (from lucid-dreaming-and-consciousness.md)
+- **Generated**: 2026-02-03
+
+### P2: Integrate attention-motor-quantum-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Covers attention's role in motor selection through quantum interface mechanisms—central to the Map's Minimal Quantum Interaction implementation. Add cross-references from motor-selection.md, voluntary-attention.md, attention-interface-mechanisms.md, stapp-quantum-mind.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
+
+### P2: Integrate phenomenal-unity-and-the-binding-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Covers phenomenal unity's challenge to physicalism through the binding problem lens—directly supports Dualism tenet. Add cross-references from binding-problem.md, unity-of-consciousness.md, why-phenomenal-unity-resists-explanation.md, hard-problem-of-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
+
+### P2: Cross-review attentional-economics.md considering habituation void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/habituation-void.md (2026-02-03) explores why the familiar becomes invisible to consciousness. The attentional-economics.md concept should be cross-reviewed for: (1) cross-links to habituation void, (2) how habituation affects attentional budget allocation, (3) relationship between attentional habituation and agency limits.
+- **Source**: chain (from habituation-void.md)
+- **Generated**: 2026-02-03
 
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other

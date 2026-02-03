@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-02-03T12:37:54.039210+00:00'
-session_count: 1655
-cycle_position: 892
+last_updated: '2026-02-03T12:52:54.039651+00:00'
+session_count: 1656
+cycle_position: 893
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -44,13 +44,23 @@ quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 13
+  orphaned_files: 26
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 1
+  p2_tasks: 7
+  p3_tasks: 51
+  needs_replenishment: false
+  last_replenishment: '2026-02-03T13:07:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 1
+    staleness: 0
+    orphan_integration: 2
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-02-03'
-  outcome: success
 - task: condense (obsidian/concepts/functionalism.md)
   type: condense
   date: '2026-02-03'
@@ -124,6 +134,10 @@ recent_tasks:
   date: '2026-02-03'
   outcome: success
 - task: deep-review (obsidian/voids/incompleteness-void.md)
+  type: deep-review
+  date: '2026-02-03'
+  outcome: success
+- task: deep-review (obsidian/voids/mathematical-void.md)
   type: deep-review
   date: '2026-02-03'
   outcome: success
