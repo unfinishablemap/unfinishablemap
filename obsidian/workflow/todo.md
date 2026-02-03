@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03T10:52:00+00:00
+ai_modified: 2026-02-03T11:53:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -48,6 +48,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
+
+### P2: Write article on habituation void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-habituation-void-2026-02-03.md. Explores why the familiar becomes invisible to consciousness—cognitive limits on sustained attention to unchanging stimuli. The habituation void differs from attention limits in being architecturally deep rather than resource-based. Synthesize into voids/ article connecting to phenomenology-of-the-edge.md, attentional-economics.md, thoughts-that-slip-away.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-03
+
+### P2: Integrate quantum-measurement-and-definite-outcomes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Technical foundation for Tenet #2: Minimal Quantum Interaction. Explains the Born rule's specification of probabilities but not outcomes, creating causal closure loophole. High priority for integration—directly supports site's core argument. Add cross-references from tenets.md, measurement-problem.md, free-will.md, quantum-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
+
+### P2: Integrate phenomenology-of-intellectual-effort.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. First-person analysis of reasoning experience—foundational phenomenological evidence for Map's perspective. Distinguishes logical necessity from mere correlation. Add cross-references from argument-from-reason.md, mental-effort.md, phenomenological-evidence-methodology.md, free-will.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
+
+### P2: Deep review incompleteness-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores Gödel's incompleteness theorems as cognitive limit—truths formal systems cannot prove about themselves. Lucas-Penrose argument that Gödel implies minds aren't computational. Check philosophical accuracy, verify connection to consciousness-and-mathematical-understanding.md.
+- **Source**: staleness
+- **Generated**: 2026-02-03
+
+### P2: Deep review mathematical-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores mathematical structures beyond genuine human comprehension—where formal manipulation succeeds but phenomenal understanding fails. Check philosophical accuracy, verify connection to incompleteness-void.md, consciousness-and-mathematical-understanding.md.
+- **Source**: staleness
+- **Generated**: 2026-02-03
 
 ### P3: Deep review contemplative-path.md for quality
 - **Type**: deep-review
