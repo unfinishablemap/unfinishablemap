@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense functionalism.md (4250 words, 121% of hard threshold)
-- **Type**: condense
-- **Notes**: Arguments article exceeds 3500-word hard threshold for arguments/. Core critique of functionalism for the Map. Preserve essential arguments while removing redundancy. Check for content already covered in consciousness.md, substrate-independence.md, multiple-realizability.md.
-- **Source**: length_analysis
-- **Generated**: 2026-02-03
-
 ### P2: Condense materialism.md (3788 words, 108% of hard threshold)
 - **Type**: condense
 - **Notes**: Arguments article exceeds 3500-word hard threshold for arguments/. Core materialist position critique. Preserve essential arguments while removing redundancy. Check for content that could be deferred to physicalism.md, reductionism.md.
@@ -455,6 +449,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Condense functionalism.md (4250 words, 121% of hard threshold)
+- **Type**: condense
+- **Notes**: Arguments article exceeds 3500-word hard threshold for arguments/. Core critique of functionalism for the Map. Preserve essential arguments while removing redundancy. Check for content already covered in consciousness.md, substrate-independence.md, multiple-realizability.md.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-03: Integrate dream-consciousness-void.md into site navigation
 - **Type**: integrate-orphan

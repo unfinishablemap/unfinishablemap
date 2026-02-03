@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 08:09 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [[concepts/functionalism]]
+- **Word count**: 2036 words (81% of 2500 target)
+- **Reason**: Article is well under soft threshold (2500) for concepts section. Already concise while preserving comprehensive coverage of functionalist claims, objections, modern frameworks, and tenet alignment.
+
+---
+
 ## 2026-02-03 07:52 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/metacognition]]

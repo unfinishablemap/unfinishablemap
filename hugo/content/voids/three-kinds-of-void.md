@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-31
-ai_modified: 2026-01-31 00:00:00+00:00
+ai_modified: 2026-02-03 07:37:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -21,11 +21,12 @@ related_articles:
 - '[[hard-problem-of-consciousness]]'
 - '[[thoughts-that-slip-away]]'
 - '[[defended-territory]]'
+- '[[dream-consciousness-void]]'
 title: Three Kinds of Void
 topics: []
 ---
 
-The [voids framework](/voids/) distinguishes three kinds of cognitive dark space. Each has different implications for what we can hope to learn.
+The [voids framework](/voids/) distinguishes three kinds of cognitive dark space. Each has different implications for what we can hope to learn. Some voids, like the [dream consciousness void](/voids/dream-consciousness-void/), combine features of all three types—representing territory that is partly unexplored (dreams' neuroscience is incomplete), partly unexplorable (we cannot observe dreaming while awake), and partly occluded (dream memories fade systematically).
 
 ## The Unexplored
 

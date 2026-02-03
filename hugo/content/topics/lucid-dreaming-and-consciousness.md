@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-26 22:15:00+00:00
+ai_modified: 2026-02-03 07:37:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -118,6 +118,16 @@ This response faces three difficulties in the lucid dream context:
 
 **Phenomenology of seeming**: The very "seeming" that quasi-phenomenal properties invoke is itself phenomenal. There is something it is like for the lucidity transition to seem like a qualitative shift. Illusionism pushes the explanatory burden one level deeper without eliminating it.
 
+### Type-B Physicalism and the Lucidity Transition
+
+Type-B physicalists offer a different response. They accept that we cannot deduce what lucid dreaming is like from neural descriptions, but deny this explanatory gap reflects an ontological gap. On this view, the phenomenology of becoming lucid just *is* a certain neural transition—the gamma-power increase, the prefrontal reactivation, the connectivity changes documented by Demirel. The conceivability of a zombie undergoing these same neural changes without phenomenal lucidity reflects limitations in our concepts, not genuine metaphysical possibilities.
+
+The *phenomenal concepts strategy* supports this position. Our first-person concept of "becoming lucid" and our third-person concept of "prefrontal gamma reactivation during REM" may refer to the same event via cognitively independent routes. Just as "water" and "H₂O" co-refer despite conceptual distinctness, "the experience of lucidity" and "neural state N" might pick out the same property differently.
+
+The Map takes this challenge seriously but finds it inadequate for the lucid dreaming case specifically. The phenomenal concepts strategy explains why the identity between lucidity-experience and neural states is not a priori deducible. But lucid dreaming provides distinctive evidence that the experience *adds* something beyond neural activity: trained practitioners can *do* things during lucid dreams (signal with eye movements, execute pre-agreed tasks, exert control over dream content) that require phenomenal awareness to coordinate. If lucidity were merely a neural state with no phenomenal contribution, why would cultivating *awareness* of dreaming—rather than just inducing the neural correlates—be necessary for these capacities?
+
+Furthermore, the distinction between ordinary dreaming and lucid dreaming is not merely a difference in neural activity—it's a difference in *what the dreamer can access and do*. The added metacognitive capacity of lucid dreaming requires explanation. Type-B physicalists can describe the neural correlates of this capacity, but the *phenomenology of lucidity*—the felt recognition "I am dreaming"—appears constitutive of the capacity, not merely correlated with it. The Map holds that this constitutive role of phenomenology supports the view that consciousness is not reducible to the neural processes it accompanies, even if it is intimately related to them.
+
 ## Contemplative Connections
 
 Tibetan Buddhist traditions have cultivated lucid dreaming ("dream yoga") for centuries as a spiritual practice. The goal extends beyond recreational dream control to using the dream state for insight into the nature of mind.
@@ -173,6 +183,7 @@ The Map's interpretation of lucid dreaming would face difficulty if:
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer that persists across states
 - [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Broader treatment of dream phenomenology
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Consciousness across sleep stages
+- [dream-consciousness-void](/voids/dream-consciousness-void/) — The bidirectional inaccessibility between waking and dreaming cognition
 - [introspection](/concepts/introspection/) — First-person access to conscious states
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-brain interaction
 - [phenomenal-unity](/concepts/phenomenal-unity/) — Unity of experience during dreams

@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate dream-consciousness-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Voids article (2026-02-02) has no inbound links. Explores the void at the boundary between waking and dream consciousness—what cannot be known about dream phenomenology. Add cross-references from dreams-and-consciousness.md, dreamless-sleep-void.md, lucid-dreaming-and-consciousness.md, witness-consciousness.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P2: Condense functionalism.md (4250 words, 121% of hard threshold)
 - **Type**: condense
 - **Notes**: Arguments article exceeds 3500-word hard threshold for arguments/. Core critique of functionalism for the Map. Preserve essential arguments while removing redundancy. Check for content already covered in consciousness.md, substrate-independence.md, multiple-realizability.md.
@@ -462,6 +456,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate dream-consciousness-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-02) has no inbound links. Explores the void at the boundary between waking and dream consciousness—what cannot be known about dream phenomenology. Add cross-references from dreams-and-consciousness.md, dreamless-sleep-void.md, lucid-dreaming-and-consciousness.md, witness-consciousness.md.
+- **Output**: obsidian/voids/dream-consciousness-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-03: Strengthen engagement with Type-B physicalism across qualia articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-03) found that autonoetic-consciousness.md, aesthetic-dimension-of-consciousness.md, and lucid-dreaming-and-consciousness.md all use conceivability arguments without addressing Type-B physicalist responses or the phenomenal concepts strategy. These articles assume conceivability establishes metaphysical possibility without engaging the extensive literature disputing this. Add explicit engagement with physicalist responses to strengthen philosophical credibility. See pessimistic-2026-02-03.md.
+- **Output**: Task context:
+Pessimistic review (2026-02-03) found that autonoetic-consciousness.md, aesthetic-dimension-of-consciousness.md, and lucid-dreaming-and-consciousness.md all use conceivability arguments without addressing Type-B physicalist responses or the phenomenal concepts strategy. These articles assume conceivability establishes metaphysical possibility without engaging the extensive literature disputing this. Add explicit engagement with physicalist responses to strengthen philosophical credibility. See pessimistic-2026-02-03.md.
 
 ### ✓ 2026-02-03: Integrate cognitive-aversion.md into site navigation
 - **Type**: integrate-orphan

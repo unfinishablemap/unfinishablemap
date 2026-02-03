@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-03 07:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -32,7 +32,7 @@ description: Thinking about thinking is not consciousness itself. Dissociation e
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 17:30:00+00:00
+last_deep_review: 2026-02-03 07:52:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -119,7 +119,7 @@ The [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) hypothes
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: HOT theorists achieve apparent simplicity by identifying consciousness with metacognitive function—but this dissolves the phenomenon requiring explanation. The empirical dissociations suggest genuine complexity that forced identity obscures.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Metacognition operates at the cognitive level—prefrontal computations tracking the *results* of any quantum selection, not the selection process itself. The aPFC operates at millisecond timescales through classical neural computation; consciousness may interface with quantum processes at sub-millisecond scales while metacognition operates classically on the *outcomes*.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Metacognition operates at the cognitive level—prefrontal computations tracking the *results* of any quantum selection, not the selection process itself. The aPFC operates at millisecond timescales through classical neural computation. If the Map's quantum interface hypothesis is correct, consciousness would interface with quantum processes at sub-millisecond scales while metacognition operates classically on the *outcomes*—but this remains speculative.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Metacognitive reports are uniformly of determinate, singular experiences—never superposed or branching states. If consciousness existed in quantum superposition, metacognition should sometimes report phenomenology of indeterminacy. It never does.
 
@@ -159,4 +159,5 @@ The Map's framework accommodates this: consciousness provides phenomenal content
 - Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 - Maniscalco, B., & Lau, H. (2012). A signal detection theoretic approach to understanding blindsight. *Philosophical Transactions of the Royal Society B*, 367(1594), 1430-1443.
 - Templer, V.L., & Hampton, R.R. (2021). Slow progress with the most widely used animal model. *Animal Behavior and Cognition*, 6(4), 273-287.
+- Schulz, K. (2010). *Being Wrong: Adventures in the Margin of Error*. HarperCollins.
 - Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

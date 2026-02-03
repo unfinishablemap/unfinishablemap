@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 23:12:00+00:00
+ai_modified: 2026-02-03 07:37:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -129,6 +129,7 @@ None of these conditions has been met. The dreamless sleep void remains: a gap w
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy: unexplored, unexplorable, occluded
+- [dream-consciousness-void](/voids/dream-consciousness-void/) — The related void: bidirectional inaccessibility between waking and dreaming
 - [the-unobservable-self](/voids/the-unobservable-self/) — The subject that cannot be its own object
 - [memory-void](/voids/memory-void/) — Whether past qualia can be recovered or are lost forever
 - [death-void](/voids/death-void/) — The related void: consciousness cannot represent its own permanent cessation
