@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate attention-motor-quantum-selection.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article has no inbound links. Covers attention's role in motor selection through quantum interface mechanisms—central to the Map's Minimal Quantum Interaction implementation. Add cross-references from motor-selection.md, voluntary-attention.md, attention-interface-mechanisms.md, stapp-quantum-mind.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P2: Integrate phenomenal-unity-and-the-binding-problem.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article has no inbound links. Covers phenomenal unity's challenge to physicalism through the binding problem lens—directly supports Dualism tenet. Add cross-references from binding-problem.md, unity-of-consciousness.md, why-phenomenal-unity-resists-explanation.md, hard-problem-of-consciousness.md.
@@ -467,6 +461,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate attention-motor-quantum-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Covers attention's role in motor selection through quantum interface mechanisms—central to the Map's Minimal Quantum Interaction implementation. Add cross-references from motor-selection.md, voluntary-attention.md, attention-interface-mechanisms.md, stapp-quantum-mind.md.
+- **Output**: attention-motor-quantum-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-03: Cross-review dreams-and-consciousness.md considering lucid dreaming insights
 - **Type**: cross-review

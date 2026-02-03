@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 14:22 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: attention-motor-quantum-selection.md
+- **Notes**: File was archived on 2026-02-02 and superseded by [[topics/attention-interface-mechanisms]]. Archived articles should not be reviewed—their content now lives in the replacement article. The "orphan" status is expected for archived files.
+
+---
+
 ## 2026-02-03 14:08 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/dreams-and-consciousness]]
