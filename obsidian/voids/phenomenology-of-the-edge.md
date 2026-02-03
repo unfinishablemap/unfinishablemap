@@ -142,6 +142,7 @@ The [[apophatic-approaches|apophatic tradition]] offers methods for engaging wit
 - [[voids|Voids in the Map]] — The broader context of cognitive limits and what they reveal
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for engaging with what exceeds articulation
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — The phenomenology of slippage and dissolving insights
+- [[habituation-void|The Habituation Void]] — Where the edge is not approached but hidden by familiarity
 - [[mysterianism|Mysterianism]] — Colin McGinn's analysis of cognitive closure
 - [[witness-consciousness|Witness Consciousness]] — The sakshi tradition and the structure of awareness
 - [[altered-states-of-consciousness|Altered States of Consciousness]] — How different states reveal the configurability of the consciousness-brain interface

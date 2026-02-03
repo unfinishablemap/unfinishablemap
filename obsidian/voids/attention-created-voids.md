@@ -148,6 +148,7 @@ The claim that attention creates structural voids would face difficulty if:
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
+- [[habituation-void|The Habituation Void]] — A related void where familiarity, not attention, erases experience
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Related phenomenology of cognitive slippage
 - [[the-unobservable-self|The Unobservable Self]] — The observer who cannot observe itself observing
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive limits illuminate architecture

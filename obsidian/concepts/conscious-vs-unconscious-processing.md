@@ -301,6 +301,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 ## Further Reading
 
 - [[consciousness-and-intelligence]] — How consciousness enables human-level intelligence beyond baseline cognition
+- [[habituation-void]] — How the familiar drops out of conscious processing while remaining functional
 - [[quantum-neural-timing-constraints]] — How quantum mechanisms can operate within neural timescales
 - [[argument-from-reason]] — Why reasoning about consciousness requires consciousness to be causally efficacious
 - [[consciousness]] — The core concept and its varieties

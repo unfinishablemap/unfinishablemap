@@ -87,6 +87,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Mechanisms of cognitive slippage
 - [[cognitive-aversion|Cognitive Aversion]] — Thoughts we systematically flee
 - [[attention-created-voids|Attention-Created Voids]] — What attention excludes by selecting
+- [[habituation-void|The Habituation Void]] — How familiarity erases experience from consciousness
 - [[destabilizing-self-knowledge|Destabilizing Self-Knowledge]] — Knowledge that undermines its own conditions
 - [[phenomenology-of-error-recognition|The Phenomenology of Error Recognition]] — Detecting one's own mistakes
 

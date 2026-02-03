@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate habituation-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Voids article (2026-02-03) has no inbound links. Explores how familiarity erases experience from consciousness. Add cross-references from attention-as-interface.md, consciousness-selecting-neural-patterns.md, phenomenology-of-the-edge.md, or update voids/_index.md to include navigation.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P2: Integrate altered-states-as-void-probes.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Voids article (2026-02-03) has no inbound links. Examines whether altered states reveal cognitive limits or simulate transcendence. Add cross-references from altered-states-of-consciousness.md, meditation-and-consciousness-modes.md, filter-theory.md, or consciousness-only-territories.md.
@@ -494,6 +488,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate habituation-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-03) has no inbound links. Explores how familiarity erases experience from consciousness. Add cross-references from attention-as-interface.md, consciousness-selecting-neural-patterns.md, phenomenology-of-the-edge.md, or update voids/_index.md to include navigation.
+- **Output**: obsidian/voids/habituation-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-03: Write article on spontaneous collapse theories (GRW, CSL)
 - **Type**: expand-topic

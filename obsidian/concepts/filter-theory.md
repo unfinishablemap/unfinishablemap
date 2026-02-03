@@ -133,7 +133,7 @@ The [[minimal-consciousness]] literature raises a sharp question for filter theo
 
 *C. elegans* has exactly 302 neurons, a completely mapped connectome, and displays learning behaviors—yet we cannot determine whether it experiences anything. On filter theory, this organism may lack the structural complexity required for consciousness to interface effectively. The filter model doesn't require every neural system to provide an interface; it requires only that *some* physical structures serve this function better than others.
 
-The slime mold case is more puzzling. *Physarum polycephalum* solves mazes, optimizes networks, and displays habituation—all without neurons. If filter theory requires neural interfaces, slime mold cognition should be impossible. The resolution: cognition and consciousness may fully dissociate. Slime molds may process information without providing any interface for phenomenal experience. Their behaviors are adaptive responses, not conscious choices. This preserves filter theory while acknowledging that information processing doesn't require consciousness.
+The slime mold case is more puzzling. *Physarum polycephalum* solves mazes, optimizes networks, and displays [[habituation-void|habituation]]—all without neurons. If filter theory requires neural interfaces, slime mold cognition should be impossible. The resolution: cognition and consciousness may fully dissociate. Slime molds may process information without providing any interface for phenomenal experience. Their behaviors are adaptive responses, not conscious choices. This preserves filter theory while acknowledging that information processing doesn't require consciousness.
 
 This has implications for the [[brain-specialness]] question. Not just *any* complex system serves as a consciousness interface—the brain's specific properties (quantum sensitivity, representational structure, attention mechanisms) make it suitable. Slime molds, despite sophisticated computation, may lack whatever property makes the interface work.
 
@@ -237,6 +237,7 @@ The Buddhist framework offers something filter theory lacks: a detailed phenomen
 - [[neural-correlates-of-consciousness]] — Why correlates don't prove production
 - [[interactionist-dualism]] — The broader framework
 - [[quantum-consciousness]] — The proposed mechanism for mind-brain interface
+- [[habituation-void]] — Habituation as a filtering mechanism that screens out the familiar
 
 ## References
 

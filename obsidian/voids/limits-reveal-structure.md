@@ -146,6 +146,7 @@ The limits-reveal-structure thesis would be undermined if:
 - [[self-reference-paradox|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Phenomenology of cognitive slippage
+- [[habituation-void|The Habituation Void]] — How familiarity-limits reveal novelty-orientation in consciousness
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching cognitive limits feels like
 - [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
 - [[illusionism|Illusionism]] — The radical challenge that limits are misrepresentations (see Illusionist Challenge section)
