@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-27T07:10:34+00:00
+ai_modified: 2026-02-03T16:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-20T17:00:00+00:00
+last_deep_review: 2026-02-03T16:37:00+00:00
 ---
 
 A philosophical zombie is a being physically and functionally identical to a conscious human but lacking all subjective experience. The zombie has the same brain states, exhibits the same behaviors, and makes the same verbal reports—including "I am conscious" and "I experience redness"—yet there is nothing it is like to be the zombie. The lights are on, but nobody's home.
@@ -70,7 +70,7 @@ A more common response accepts that zombies are conceivable but denies this enta
 
 **The Analogy's Limits:** There's an important disanalogy. When we learned that water is H₂O, we discovered an empirical fact about what "water" refers to. We were ignorant of water's nature. But with consciousness, we have direct acquaintance with what we're talking about. The conceivability of zombies doesn't reflect ignorance of consciousness—it reflects our understanding that qualitative experience isn't the kind of thing structural descriptions capture.
 
-As Chalmers argues: "When we conceive of zombies, we are not merely failing to see a necessity due to ignorance. We are positively conceiving of a coherent scenario."
+As Chalmers argues, when we conceive of zombies, we are not merely failing to see some hidden necessity due to ignorance—we are positively grasping a coherent scenario.
 
 ### The Two-Dimensional Response
 
