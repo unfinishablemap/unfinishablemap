@@ -4,7 +4,7 @@ description: "Two modes of consciousness: active selection through attention and
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-01T01:38:00+00:00
+ai_modified: 2026-02-03T09:11:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -78,7 +78,7 @@ Neural correlates include:
 - Dorsal attention network engagement
 - Theta power increase
 
-FA meditation trains the interface. The meditator practices selecting where attention goes, strengthening the neural infrastructure of voluntary attention. This is why FA often precedes OM in traditional curricula—the capacity to select must be developed before the capacity to observe without selecting.
+FA meditation trains the interface. The meditator practices selecting where attention goes, strengthening the neural infrastructure of voluntary attention. This is why FA often precedes OM in traditional curricula—the capacity to select must be developed before the capacity to observe without selecting. The [[attentional-economics]] framework interprets this as building "attentional capital"—expanding the capacity for sustained focus that the Map claims is metaphysically agency-enhancing.
 
 ### Open Monitoring (OM) Meditation
 

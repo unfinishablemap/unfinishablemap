@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly, not
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-02T21:12:00+00:00
+ai_modified: 2026-02-03T09:11:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -110,7 +110,7 @@ Even during automatic performance, the agent persists in what Tulving called *an
 
 ## Voluntary Attention as Agent-Causal Paradigm
 
-[[attention-as-interface|Voluntary attention]]—choosing where to direct awareness—provides the paradigm case of agent causation. Neuroscience distinguishes "willed attention" (internally chosen) from "instructed attention" (externally cued), finding distinct neural signatures.
+[[attention-as-interface|Voluntary attention]]—choosing where to direct awareness—provides the paradigm case of agent causation. Neuroscience distinguishes "willed attention" (internally chosen) from "instructed attention" (externally cued), finding distinct neural signatures. The [[attentional-economics|attentional economics]] framework extends this: agency operates through the ongoing allocation of a finite attentional resource, making freedom scale with attentional skill.
 
 Endogenous attention takes ~300ms to deploy versus 100ms for automatic capture, with increased frontal theta and bidirectional frontoparietal coherence. The brain distinguishes between doing what you're told and doing what you choose.
 

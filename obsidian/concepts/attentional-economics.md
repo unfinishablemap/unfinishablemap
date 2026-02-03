@@ -4,7 +4,7 @@ description: "Agency is fundamentally the allocation of attention over time. Fre
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
-ai_modified: 2026-02-01T05:52:00+00:00
+ai_modified: 2026-02-03T09:11:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-31
 last_curated:
-last_deep_review: 2026-01-31T22:22:00+00:00
+last_deep_review: 2026-02-03T09:11:00+00:00
 ---
 
 If consciousness influences the physical world through attention—as The Unfinishable Map's [[attention-as-interface|attention-as-interface hypothesis]] proposes—then agency is fundamentally about how attention gets allocated over time. The deepest unit of will is not the discrete "decision" but the *sustained direction of attention*: what gets stabilised, what gets released, what gets held against competing claims. This is attentional economics—the budgeting and investment of a finite conscious resource that shapes which possibilities become actual.

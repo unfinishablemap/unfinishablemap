@@ -4,7 +4,7 @@ description: "Willed attention shows unique neural signatures: frontal theta, bi
 created: 2026-01-19
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-29T16:49:00+00:00
+ai_modified: 2026-02-03T09:11:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -111,7 +111,7 @@ The finding that brain states correlate with upcoming choices establishes that c
 
 ## The Temporal Profile and Quantum Zeno
 
-The ~300ms deployment time for voluntary attention matches the willed motor selection window and proposed Zeno freezing timescales. If the [[mental-effort|quantum Zeno effect]] operates through attention, this window reflects how long consciousness takes to engage the selection mechanism. Exogenous attention's faster (~100ms) and transient duration would be too brief for sustained Zeno freezing.
+The ~300ms deployment time for voluntary attention matches the willed motor selection window and proposed Zeno freezing timescales. If the [[mental-effort|quantum Zeno effect]] operates through attention, this window reflects how long consciousness takes to engage the selection mechanism. Exogenous attention's faster (~100ms) and transient duration would be too brief for sustained Zeno freezing. The [[attentional-economics]] framework interprets this deployment time as the cost of "investing" attentional capital—consciousness allocating its bandwidth-limited resource to hold specific neural patterns.
 
 | Feature | Voluntary Attention | Zeno Requirement |
 |---------|---------------------|------------------|

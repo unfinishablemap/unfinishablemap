@@ -4,7 +4,7 @@ description: "The experiential structure of deliberation and decision-making: fe
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-02T02:47:00+00:00
+ai_modified: 2026-02-03T09:11:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -89,7 +89,7 @@ The phenomenology of choice differs fundamentally from observation. When observi
 | Counterfactual status | Fixed at arrival | Open until selection |
 | Authorship | Absent | Present |
 
-This maps onto the neural distinction between willed and automatic processing. [[voluntary-attention|Willed attention]] shows different signatures (frontal theta, bidirectional frontoparietal coherence) than automatic attention capture.
+This maps onto the neural distinction between willed and automatic processing. [[voluntary-attention|Willed attention]] shows different signatures (frontal theta, bidirectional frontoparietal coherence) than automatic attention capture. The [[attentional-economics]] framework captures this: choosing involves ongoing allocation of a scarce conscious resource, explaining why decisions feel like investments rather than passive observations.
 
 The contrast is vivid in attention: being *pulled* by a loud noise versus *directing* focus on difficult text. The [[illusionism|illusionist]] holds this phenomenology is representational—the brain generates agency-sense without consciousness contributing. But why would accurate phenomenology of effort correlate with task difficulty if phenomenology has no functional role? Hard tasks feel hard; easy tasks feel easy. This correlation suggests phenomenology tracks real cognitive engagement.
 

@@ -4,7 +4,7 @@ description: "The phenomenology of effortful attention as evidence for conscious
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-02T05:22:00+00:00
+ai_modified: 2026-02-03T09:11:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -42,7 +42,7 @@ last_deep_review: 2026-01-29T21:15:00+00:00
 
 Controlling your attention takes effort. This simple phenomenological fact—that directing the mind feels effortful, that overriding impulses requires work—may be a clue to how consciousness influences matter. Henry Stapp proposes that mental effort operates through the quantum Zeno effect: rapid, repeated acts of attention "hold" desired neural patterns in place, preventing them from dissipating. The phenomenology matches the mechanism—sustained attention should feel like work if it genuinely requires continuous engagement.
 
-This article examines the phenomenology of mental effort, Stapp's quantum Zeno mechanism, and the empirical evidence from neuroplasticity research. The core insight: if effort is *real*—if it genuinely costs something to hold attention on a topic—then something is doing work. The question is what, and the quantum Zeno effect offers a compelling answer.
+This article examines the phenomenology of mental effort, Stapp's quantum Zeno mechanism, and the empirical evidence from neuroplasticity research. The core insight: if effort is *real*—if it genuinely costs something to hold attention on a topic—then something is doing work. The question is what, and the quantum Zeno effect offers a compelling answer. See [[attentional-economics]] for how this effort phenomenology fits within a broader framework where agency is fundamentally the allocation of scarce attentional resources.
 
 ## The Phenomenology of Effort
 
