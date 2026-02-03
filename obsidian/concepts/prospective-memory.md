@@ -4,7 +4,7 @@ description: "Remembering to act in the future: how intentions persist and episo
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-03T03:12:00+00:00
+ai_modified: 2026-02-03T06:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-01-20T22:30:00+00:00
+last_deep_review: 2026-02-03T06:28:00+00:00
 ---
 
 When you leave home intending to buy milk, something must hold that intention during your commute so it "pops" into awareness when you pass the shop. This is prospective memory (PM)—remembering to perform planned actions in the future. Unlike retrospective memory (remembering what happened), PM is about remembering what to do. The capacity to maintain intentions across time, simulate future scenarios, and execute delayed plans represents a distinctively conscious form of cognition that connects intimately to free will and agency.
@@ -75,7 +75,7 @@ Einstein and McDaniel (1990) identified two retrieval routes: resource-intensive
 
 ### Futuricity: The Temporal Quale
 
-When you imagine a future event, it carries a distinctive phenomenal character—**futuricity**, a felt sense of possibility and "not yet." Just as remembered events carry pastness, imagined future events carry this phenomenal marker of projected possibility.
+When you imagine a future event, it carries a distinctive phenomenal character—**futuricity** (our term for this temporal quale), a felt sense of possibility and "not yet." Just as remembered events carry pastness, imagined future events carry this phenomenal marker of projected possibility.
 
 Futuricity differs from pastness: memories represent what happened; future simulations represent what might happen. Both involve autonoetic consciousness, but the modal character differs—and this difference appears in phenomenology, not just propositional content.
 
@@ -107,7 +107,7 @@ This matters for [[agent-causation|agent causation]]. The libertarian needn't cl
 
 ### Future Simulation Influences Decisions
 
-EFT causally influences behaviour: vividly imagining future consequences reduces temporal discounting, decreases impulsive decision-making, and improves goal-directed behaviour. If conscious simulation of future scenarios shapes present decisions, consciousness participates in directing action exactly as the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet proposes.
+EFT causally influences behaviour: vividly imagining future consequences reduces temporal discounting, decreases impulsive decision-making, and improves goal-directed behaviour (Szpunar, Spreng, & Schacter, 2014). If conscious simulation of future scenarios shapes present decisions, consciousness participates in directing action exactly as the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet proposes.
 
 ## Working Memory and Future Simulation
 
