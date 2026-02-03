@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Strengthen engagement with Type-B physicalism across qualia articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-03) found that autonoetic-consciousness.md, aesthetic-dimension-of-consciousness.md, and lucid-dreaming-and-consciousness.md all use conceivability arguments without addressing Type-B physicalist responses or the phenomenal concepts strategy. These articles assume conceivability establishes metaphysical possibility without engaging the extensive literature disputing this. Add explicit engagement with physicalist responses to strengthen philosophical credibility. See pessimistic-2026-02-03.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-03
+
 ### P2: Integrate dream-consciousness-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Voids article (2026-02-02) has no inbound links. Explores the void at the boundary between waking and dream consciousness—what cannot be known about dream phenomenology. Add cross-references from dreams-and-consciousness.md, dreamless-sleep-void.md, lucid-dreaming-and-consciousness.md, witness-consciousness.md.
