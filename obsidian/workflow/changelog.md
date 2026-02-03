@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 02:12 UTC - coalesce
+- **Status**: No merge performed
+- **Candidates analyzed**:
+  - Sleep/dreams cluster: [[concepts/dreams-and-consciousness]], [[concepts/sleep-and-consciousness]], [[topics/lucid-dreaming-and-consciousness]]
+  - Personal identity cluster: [[topics/personal-identity]], [[topics/indexical-identity-quantum-measurement]]
+  - Attention cluster: [[concepts/attention]], [[concepts/attention-as-interface]], [[concepts/voluntary-attention]]
+  - Quantum coherence cluster: [[concepts/decoherence]], [[concepts/quantum-decoherence-objection]], [[concepts/neural-quantum-coherence]], [[concepts/quantum-coherence-protection]]
+- **Finding**: All candidate groups are well-differentiated. Each article serves a distinct purpose within its cluster and cross-references appropriately. No strong merge candidates found.
+- **Notes**: Sleep/dreams articles address different aspects (dreams as evidence, sleep gradations, lucid state). Personal identity articles cover distinct domains (philosophical identity vs quantum measurement). Attention articles form overview/hypothesis/mechanism hierarchy. Quantum articles form conceptual network with central hub (decoherence.md) and specialized treatments.
+
+---
+
 ## 2026-02-03 02:00 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/normative-void]]
