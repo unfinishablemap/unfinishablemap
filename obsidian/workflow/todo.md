@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03T20:33:00+00:00
+ai_modified: 2026-02-03T22:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on collapse before minds (early universe)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. If consciousness causes collapse, what caused collapse before conscious beings existed? Critical objection to consciousness-causes-collapse interpretations. Needs systematic treatment exploring retrocausal solutions, proto-consciousness options, and the measurement problem's temporal scope.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-03
+
+### P2: Write article on neural binding and quantum entanglement
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md. Explores whether quantum entanglement could underlie phenomenal binding—how disparate neural processes become unified experience. Relevant to binding-problem.md and quantum-consciousness.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-03
+
+### P2: Write article on motor control and quantum Zeno effect
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how Stapp's quantum Zeno mechanism might apply to motor selection—attention sustaining quantum states long enough for selection. Connects attention-interface-mechanisms.md with voluntary action.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-03
+
+### P2: Cross-review collapse-theories.md considering spontaneous-collapse-theories
+- **Type**: cross-review
+- **Notes**: New article topics/spontaneous-collapse-theories.md (2026-02-03) covers GRW and CSL objective reduction. Related articles about quantum collapse and consciousness should be cross-reviewed for: (1) cross-links to the new treatment, (2) contrasting spontaneous vs consciousness-induced collapse, (3) ensuring the Map's position on collapse is consistent.
+- **Source**: chain
+- **Generated**: 2026-02-03
+
+### P2: Cross-review death-and-consciousness.md considering death-void
+- **Type**: cross-review
+- **Notes**: New voids article voids/death-void.md (2026-02-03) explores the fundamental epistemological void regarding consciousness at death. The death-and-consciousness.md topic page should be cross-reviewed for: (1) cross-links to death void, (2) how the void framework enriches the topic treatment, (3) consistent treatment of the unknowability claims.
+- **Source**: chain
+- **Generated**: 2026-02-03
+
+### P2: Integrate spontaneous-collapse-theories.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-03) has no inbound links. Covers GRW and CSL objective reduction theories—important alternatives to consciousness-causes-collapse. Add cross-references from quantum-consciousness.md, measurement-problem.md, collapse-interpretations.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
+
+### P2: Integrate death-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-03) has no inbound links. Explores the epistemological void surrounding consciousness at death—what cannot be known. Add cross-references from death-and-consciousness.md, personal-identity.md, meaning-of-life.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
 
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
