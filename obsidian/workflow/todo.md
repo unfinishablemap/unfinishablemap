@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on probability-intuition-void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-probability-intuition-void-2026-02-03.md. Human minds systematically fail at probabilistic reasoning in architecturally deep ways. This void differs from scale-void in focusing on our relationship to chance and randomness. Key insight: we cannot truly *experience* genuine randomness, only represent it abstractly. Synthesize into voids/ article connecting to phenomenology-of-the-edge.md, scale-void.md, embodiment-cognitive-limits.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-03
-
-### P2: Integrate mathematical-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Voids article (2026-02-02) has no inbound links. Explores cognitive limits on mathematical understanding—truths that exceed human comprehension capacities. Add cross-references from scale-void.md, consciousness-and-mathematical-understanding.md, phenomenology-of-understanding.md, incompleteness-void.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P2: Integrate cognitive-aversion.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Voids article (2026-02-02) has no inbound links. Covers how minds actively avoid certain thoughts—cognitive territories we could access but don't. Add cross-references from defended-territory.md, phenomenology-of-the-edge.md, introspective-opacity.md, death-void.md.
@@ -479,6 +467,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Write article on probability-intuition-void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-probability-intuition-void-2026-02-03.md. Human minds systematically fail at probabilistic reasoning in architecturally deep ways. This void differs from scale-void in focusing on our relationship to chance and randomness. Key insight: we cannot truly *experience* genuine randomness, only represent it abstractly. Synthesize into voids/ article connecting to phenomenology-of-the-edge.md, scale-void.md, embodiment-cognitive-limits.md.
+- **Output**: probability-intuition-void
 
 ### ✓ 2026-02-03: Condense phenomenal-consciousness.md (3582 words, 102% of hard threshold)
 - **Type**: condense

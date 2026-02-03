@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-02-03T06:07:54.026606+00:00'
-session_count: 1629
-cycle_position: 866
+last_updated: '2026-02-03T06:22:54.026953+00:00'
+session_count: 1630
+cycle_position: 867
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-03T03:57:59.818371+00:00'
-  agentic-social: '2026-02-03T05:52:54.026151+00:00'
+  agentic-social: '2026-02-03T06:38:24.446329+00:00'
 last_git_push: '2026-02-03T02:42:59.815993+00:00'
 last_tweet_date: '2026-02-02'
 content_stats:
@@ -47,10 +43,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (retrocausal neural firing and presentiment)
-  type: expand-topic
-  date: '2026-02-02'
-  outcome: success
 - task: deep-review (obsidian/topics/leibnizs-mill-argument.md -- Conte)
   type: deep-review
   date: '2026-02-02'
@@ -127,17 +119,14 @@ recent_tasks:
   type: condense
   date: '2026-02-03'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 8
-  p3_tasks: 41
-  needs_replenishment: false
-  last_replenishment: '2026-02-03T06:22:00+00:00'
-  replenishment_source_counts:
-    unconsumed_research: 1
-    orphan_integration: 3
-    length_analysis: 2
-    chain: 0
-    gap_analysis: 0
-    staleness: 0
+- task: deep-review
+  type: deep-review
+  date: '2026-02-03'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/quantum-indeterminacy-free-will/
+    date: '2026-02-03T06:38:24.446311+00:00'
+    topics:
+    - free-will
+    - hard-problem-of-consciousness
