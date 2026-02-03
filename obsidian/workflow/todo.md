@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense functionalism.md (4250 words, 170% of threshold)
-- **Type**: condense
-- **Notes**: Article remains critically over 3500-word hard threshold for arguments/ despite multiple previous condense attempts. This is a persistent length violation requiring aggressive restructuring. Consider extracting detailed objection-response dialectic to separate article treatment, keeping only essential conceptual overview. Core definition, relation to Map's substrate-dependence claims, and key objections summary must be preserved. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-03
-
 ### P2: Cross-review interactionist-dualism.md considering delegatory dualism insights
 - **Type**: cross-review
 - **Notes**: New article topics/delegatory-dualism.md (2026-02-03) covers Bradford Saad's 2025 dualist theory. The interactionist-dualism.md concept page should be cross-reviewed for: (1) cross-links to delegatory dualism treatment, (2) how Saad's framework relates to classical interactionism, (3) potential strengthening of interactionist arguments from Saad's work.
@@ -485,6 +479,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Condense functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article remains critically over 3500-word hard threshold for arguments/ despite multiple previous condense attempts. This is a persistent length violation requiring aggressive restructuring. Consider extracting detailed objection-response dialectic to separate article treatment, keeping only essential conceptual overview. Core definition, relation to Map's substrate-dependence claims, and key objections summary must be preserved. See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-03: Deep review mathematical-void.md for quality
 - **Type**: deep-review

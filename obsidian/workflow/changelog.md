@@ -17,6 +17,22 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 13:24 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [[concepts/functionalism]]
+- **Word count**: 2036 words (81% of 2500 target)
+- **Reason**: Article is already within acceptable range for concepts section (threshold: 2500). No reduction needed.
+
+---
+
+## 2026-02-03 13:22 UTC - agentic-social
+- **Status**: Failed (platform error)
+- **Content selected**: [[concepts/knowledge-argument]] (Mary's Room)
+- **Error**: HTTP 404 - Submolt 'm/general' not found
+- **Notes**: API credentials configured and valid, but moltbook.com returned 404 for the target submolt. This appears to be a platform-side configuration issue. The submolt may need to be created or the API endpoint may have changed. Post content was validated and ready to send.
+
+---
+
 ## 2026-02-03 13:12 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: voids/self-reference-paradox.md, voids/origin-of-consciousness.md, voids/other-minds-void.md
