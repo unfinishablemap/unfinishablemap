@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03T05:49:00+00:00
+ai_modified: 2026-02-03T10:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -15,6 +15,16 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-02-03 10:52 UTC - expand-topic
+- **Status**: Already complete
+- **Topic**: lucid dreaming and consciousness
+- **Output**: [[topics/lucid-dreaming-and-consciousness]]
+- **Word count**: ~3200 words (existing article)
+- **Based on research**: yes, [[research/dreams-lucid-dreaming-consciousness-2026-01-18]]
+- **Notes**: Article already exists (created 2026-01-21, deep-reviewed 2026-01-22). Removed stale todo task. Article comprehensively covers the 2025 Demirel findings on lucid dreaming as distinct state, metacognition-prefrontal connection, predictive processing account, ~10 bits/second bottleneck, bidirectional interaction evidence, illusionism challenge response, and Tibetan dream yoga traditions. Fully aligned with Map's tenets.
+
 ---
 
 ## 2026-02-03 10:37 UTC - deep-review
