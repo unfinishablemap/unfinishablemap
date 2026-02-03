@@ -91,7 +91,7 @@ The Map's [Dualism tenet](/tenets/#dualism) finds philosophical grounding here. 
 
 Existentialism emphasises that existence is always *mine*—first-person, unrepeatable, non-transferable. Heidegger calls this *Jemeinigkeit* (mineness). Sartre expresses it through the pour-soi's radical particularity. Both converge on what the Map calls [haecceity](/concepts/haecceity/): the unrepeatable thisness of a particular conscious subject.
 
-Authentic existence means owning this particularity—choosing in full awareness that the choice is one's own, not determined by "what one does" (Heidegger's *das Man*). Inauthenticity means fleeing into the anonymous crowd, treating oneself as interchangeable with others.
+Authentic existence means owning this particularity—choosing in full awareness that the choice is one's own, not determined by "what one does" (Heidegger's *das Man*). Inauthenticity means fleeing into the anonymous crowd, treating oneself as interchangeable with others. Heidegger's analysis of fallenness—the structural determination that Dasein evades its own being-towards-death—connects directly to [cognitive aversion](/voids/cognitive-aversion/): the systematic deflection from mortality that Terror Management Theory documents empirically.
 
 This connects to the [No Many Worlds tenet](/tenets/#no-many-worlds). The Many-Worlds interpretation holds that every quantum measurement actualises all outcomes across branching universes. Every choice produces copies making every alternative. But existentialist authenticity presupposes that choices genuinely select—that when I choose, I am not simultaneously choosing every alternative in other branches.
 

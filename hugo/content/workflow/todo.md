@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03 00:12:00+00:00
+ai_modified: 2026-02-03 06:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate dream-consciousness-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-02) has no inbound links. Explores the void at the boundary between waking and dream consciousness—what cannot be known about dream phenomenology. Add cross-references from dreams-and-consciousness.md, dreamless-sleep-void.md, lucid-dreaming-and-consciousness.md, witness-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
+
+### P2: Condense functionalism.md (4250 words, 121% of hard threshold)
+- **Type**: condense
+- **Notes**: Arguments article exceeds 3500-word hard threshold for arguments/. Core critique of functionalism for the Map. Preserve essential arguments while removing redundancy. Check for content already covered in consciousness.md, substrate-independence.md, multiple-realizability.md.
+- **Source**: length_analysis
+- **Generated**: 2026-02-03
+
+### P2: Condense materialism.md (3788 words, 108% of hard threshold)
+- **Type**: condense
+- **Notes**: Arguments article exceeds 3500-word hard threshold for arguments/. Core materialist position critique. Preserve essential arguments while removing redundancy. Check for content that could be deferred to physicalism.md, reductionism.md.
+- **Source**: length_analysis
+- **Generated**: 2026-02-03
 
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
@@ -444,6 +462,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate cognitive-aversion.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-02) has no inbound links. Covers how minds actively avoid certain thoughts—cognitive territories we could access but don't. Add cross-references from defended-territory.md, phenomenology-of-the-edge.md, introspective-opacity.md, death-void.md.
+- **Output**: obsidian/voids/cognitive-aversion.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-03: Write article on probability-intuition-void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-probability-intuition-void-2026-02-03.md. Human minds systematically fail at probabilistic reasoning in architecturally deep ways. This void differs from scale-void in focusing on our relationship to chance and randomness. Key insight: we cannot truly *experience* genuine randomness, only represent it abstractly. Synthesize into voids/ article connecting to phenomenology-of-the-edge.md, scale-void.md, embodiment-cognitive-limits.md.
+- **Output**: probability-intuition-void
+
+### ✓ 2026-02-03: Condense phenomenal-consciousness.md (3582 words, 102% of hard threshold)
+- **Type**: condense
+- **Notes**: Core concept article exceeds 3500-word hard threshold. Foundational concept for the Map. Preserve essential distinctions (phenomenal vs access consciousness) while removing redundancy. Check for content already covered in consciousness.md, qualia.md.
+- **Output**: obsidian/concepts/phenomenal-consciousness.md
+
+### ✓ 2026-02-03: Condense embodied-cognition.md (3582 words, 102% of hard threshold)
+- **Type**: condense
+- **Notes**: Concept article exceeds 3500-word hard threshold for concepts/. Preserve treatment of body-mind relationship while removing redundancy. Check for content that could be deferred to brain-interface-boundary.md or other linked articles.
+- **Output**: obsidian/concepts/embodied-cognition.md
+
+### ✓ 2026-02-03: Condense interactionist-dualism.md (3591 words, 103% of hard threshold)
+- **Type**: condense
+- **Notes**: Core concept article exceeds 3500-word hard threshold. This is a foundational article for the Map. Preserve essential arguments while removing redundancy. Check for content already covered in related articles like arguments-for-dualism.md, conservation-laws-and-mind.md.
+- **Output**: obsidian/concepts/interactionist-dualism.md
+
+### ✓ 2026-02-03: Condense epistemic-emotions.md (3601 words, 103% of hard threshold)
+- **Type**: condense
+- **Notes**: Concept article exceeds 3500-word hard threshold for concepts/. Preserve treatment of feelings-of-knowing, curiosity, and epistemic agency while removing redundancy. Check for content that could be deferred to linked articles.
+- **Output**: obsidian/concepts/epistemic-emotions.md
+
+### ✓ 2026-02-03: Condense prospective-memory.md (3616 words, 103% of hard threshold)
+- **Type**: condense
+- **Notes**: Concept article exceeds 3500-word hard threshold for concepts/. Preserve core treatment of future-directed memory while removing redundancy. Check for content that could be deferred to linked articles like episodic-memory.md, working-memory.md.
+- **Output**: obsidian/concepts/prospective-memory.md
 
 ### ✓ 2026-02-03: Integrate presentiment-and-retrocausality.md into site navigation
 - **Type**: integrate-orphan

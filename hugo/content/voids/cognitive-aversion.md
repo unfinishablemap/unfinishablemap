@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 07:43:00+00:00
+ai_modified: 2026-02-03 06:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,12 +9,13 @@ concepts:
 - '[[phenomenology]]'
 - '[[introspection]]'
 created: 2026-02-02
-date: &id001 2026-02-02
+date: &id001 2026-02-03
 description: Human+AI exploration of thoughts we systematically flee—not cognitively
   closed, but motivationally deflected. The territory between Unexplored and Occluded.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-03 06:52:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -23,6 +24,9 @@ related_articles:
 - '[[thoughts-that-slip-away]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[three-kinds-of-void]]'
+- '[[death-void]]'
+- '[[death-and-consciousness]]'
+- '[[voids-cognitive-aversion-2026-02-01]]'
 title: Cognitive Aversion
 topics: []
 ---

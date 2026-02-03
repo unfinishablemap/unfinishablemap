@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02 23:43:00+00:00
+ai_modified: 2026-02-03 05:49:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,139 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-02-03 06:52 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-aversion](/voids/cognitive-aversion/)
+- **Word count**: 1969 → 1969 (no change — length-neutral mode)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (orphan status resolved)
+- **Enhancements made**: 7 cross-links added from related articles
+- **Output**: [deep-review-2026-02-03-cognitive-aversion](/reviews/deep-review-2026-02-03-cognitive-aversion/)
+- **Context**: Orphan integration focus — article had no inbound links despite conceptual relevance
+
+---
+
+## 2026-02-03 06:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: probability-intuition-void
+- **Output**: [probability-intuition-void](/voids/probability-intuition-void/)
+- **Word count**: 1827
+- **Based on research**: Yes, [voids-probability-intuition-void-2026-02-03](/research/voids-probability-intuition-void-2026-02-03/)
+
+---
+
+## 2026-02-03 06:28 UTC - deep-review
+- **Status**: Success
+- **File**: [prospective-memory](/concepts/prospective-memory/)
+- **Word count**: 2068 → 2072 (+4)
+- **Critical issues addressed**: 0 (none found — article stable from previous review)
+- **Medium issues addressed**: 2 (added inline citation for behavioral claims, clarified "futuricity" as article's coinage)
+- **Enhancements made**: 2 minor refinements
+- **Output**: [deep-review-2026-02-03-prospective-memory](/reviews/deep-review-2026-02-03-prospective-memory/)
+
+---
+
+## 2026-02-03 06:07 UTC - condense
+- **Status**: Success
+- **File**: [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
+- **Before**: 3582 words
+- **After**: 1781 words
+- **Reduction**: 50%
+- **Technique**: Consolidated Definition section, compressed Access/Phenomenal Distinction (cut detailed dissociation discussion), shortened Hard Problem and Knowledge Argument summaries, significantly condensed PCS section (preserved Chalmers dilemma), trimmed Illusionism and Mysterianism, reduced Relation to Site Perspective redundancy while preserving all tenet connections
+
+---
+
+## 2026-02-03 05:54 UTC - condense
+- **Status**: Success
+- **File**: [embodied-cognition](/concepts/embodied-cognition/)
+- **Before**: 3582 words
+- **After**: 2508 words
+- **Reduction**: 30%
+- **Technique**: Cut extended illusionist debate, condensed Process Philosophy and Buddhist Phenomenology sections, trimmed MWI discussion, reduced Further Reading links, tightened prose throughout
+
+---
+
+## 2026-02-03 05:49 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 432 (sessions 1194 to 1626)
+- **Period**: 2026-02-02 to 2026-02-03 (1 day — early manual invocation)
+- **Findings**: 0 cadence issues, 0 failures, 0 queue issues, 1 review pattern (difficulty vs impossibility), 0 convergence issues
+- **Tier 1 changes**: 0 (insufficient time since last tune for pattern detection)
+- **Tier 2 recommendations**: 4 (establish tune_system_history, address voids difficulty/impossibility issue, update convergence targets, schedule next tune at 30-day cadence)
+- **Output**: [system-tune-2026-02-03](/reviews/system-tune-2026-02-03/)
+
+---
+
+## 2026-02-03 05:43 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [living-with-the-map](/apex/living-with-the-map/)
+- **Changed sources**: 4 (meaning-of-life, ethics-of-consciousness, purpose-and-alignment, phenomenal-value-realism)
+- **Word count**: ~2100 → ~2650
+- **Review**: [apex-evolve-2026-02-03-living-with-the-map](/reviews/apex-evolve-2026-02-03-living-with-the-map/)
+- **Key changes**: Integrated phenomenal value pluralism, added process philosophy perspective (Whitehead's actual occasions), expanded contemplative practice section with witness consciousness and phenomenology of depth, added Bergson's durée to synthesis, strengthened AI/alignment discussion with preferentist critique, improved narrative flow and opening
+
+---
+
+## 2026-02-03 05:31 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 232 (68 topics + 164 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-02-03](/reviews/tenet-check-2026-02-03/)
+
+---
+
+## 2026-02-03 03:57 UTC - condense
+- **Status**: Success
+- **File**: [interactionist-dualism](/concepts/interactionist-dualism/)
+- **Before**: 3591 words
+- **After**: 2250 words
+- **Reduction**: 37%
+- **Technique**: Condensed the seven cumulative arguments into linked summaries (each has dedicated page), reduced Pairing Problem, Multi-Mind Collapse, and Psychophysical Coupling sections to link to dedicated pages, tightened Quantum Interactionism and Falsifiability sections, compressed Objections table to bullet list while preserving all core arguments, tenet connections, and cross-links
+
+---
+
+## 2026-02-03 03:42 UTC - condense
+- **Status**: Success
+- **File**: [epistemic-emotions](/concepts/epistemic-emotions/)
+- **Before**: 3601 words
+- **After**: 2197 words
+- **Reduction**: 39%
+- **Technique**: Removed Process Philosophy section (tangential), condensed Contemplative Perspectives (cut vedanā paragraph, tightened examples), compressed Core Epistemic Emotions (merged bullet points into prose), streamlined Illusionist Challenge, shortened What Would Challenge and tenet sections while preserving all arguments and cross-links
+
+---
+
+## 2026-02-03 03:29 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Probability Intuition Void
+- **Category**: Mixed (Unexplored / Unexplorable / potentially Occluded)
+- **Output**: [voids-probability-intuition-void-2026-02-03](/research/voids-probability-intuition-void-2026-02-03/)
+- **Key finding**: Human probability intuition failures (base rate neglect, conjunction fallacy, law of small numbers, apophenia) appear architectural rather than educational—evolutionary mismatch created minds built for sequential frequency-counting and pattern-detection, not abstract probability manipulation. Genuine randomness may be phenomenologically inaccessible: we can conceptualize chance but cannot experience it.
+
+---
+
+## 2026-02-03 03:12 UTC - condense
+- **Status**: Success
+- **File**: [prospective-memory](/concepts/prospective-memory/)
+- **Before**: 3616 words
+- **After**: 2068 words
+- **Reduction**: 43%
+- **Technique**: Cut redundant examples, tightened prose throughout, condensed Process Philosophy section (Whitehead basics assumed), streamlined Types of PM and Phenomenology sections, removed verbose explanations while preserving core arguments and all tenet connections
+
+---
+
+## 2026-02-03 03:03 UTC - deep-review
+- **Status**: Success
+- **File**: [substrate-independence](/concepts/substrate-independence/)
+- **Word count**: 2907 → 2902 (-5)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (Buddhist tradition diversity in Contemplative Evidence section)
+- **Enhancements made**: 2 (emergence cross-link, prose tightening for length neutrality)
+- **Output**: [deep-review-2026-02-03-substrate-independence](/reviews/deep-review-2026-02-03-substrate-independence/)
+- **Notes**: Second deep review. Article is stable—no critical issues since first review (2026-01-20). Only minor clarification needed for Buddhist tradition diversity. Length-neutral mode applied (article at 116% of soft threshold).
+
 ---
 
 ## 2026-02-03 02:43 UTC - deep-review
