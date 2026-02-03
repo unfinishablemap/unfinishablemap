@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate attention-motor-quantum-selection.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-01) has no inbound links. Covers the unified attention-motor quantum selection mechanism. Add cross-references from attention-as-interface.md, motor-selection.md, attention-interface-mechanisms.md, or quantum-consciousness.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P2: Integrate semantic-phenomenology.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Concepts article (2026-02-01) has no inbound links. Covers the felt quality of meaning and semantic content. Add cross-references from cognitive-phenomenology.md, phenomenology-of-understanding.md, consciousness-and-mathematical-understanding.md.
@@ -482,6 +476,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate attention-motor-quantum-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers the unified attention-motor quantum selection mechanism. Add cross-references from attention-as-interface.md, motor-selection.md, attention-interface-mechanisms.md, or quantum-consciousness.md.
+- **Output**: attention-motor-quantum-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-03: Integrate altered-states-as-void-probes.md into site navigation
 - **Type**: integrate-orphan

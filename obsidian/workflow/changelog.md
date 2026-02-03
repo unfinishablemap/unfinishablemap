@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 21:38 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: attention-motor-quantum-selection.md
+- **Notes**: File was archived on 2026-02-02 and superseded by [[topics/attention-interface-mechanisms]]. Archived articles should not be reviewed—their content now lives in the replacement article. The "orphan" status is expected for archived files. This task was queued from orphan integration but the file's archive status means the orphan is intentional.
+
+---
+
 ## 2026-02-03 21:18 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/implicit-memory]]
