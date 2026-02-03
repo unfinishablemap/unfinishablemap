@@ -2,9 +2,10 @@
 title: "The Contemplative Path"
 description: "First-person investigation reveals consciousness structures invisible to external observation. Two millennia of contemplative practice constitute empirical data."
 created: 2026-01-31
-modified: 2026-02-01
+modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-02-01T07:24:00+00:00
+ai_modified: 2026-02-03T17:22:00+00:00
+last_deep_review: 2026-02-03T17:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -137,7 +138,7 @@ The mutual constraints framework, developed through [[neurophenomenology|neuroph
 
 The five aggregates analysis (*skandhas*) treats consciousness as one process among five, constantly arising and passing. The doctrine of *anattā* (no-self) denies a permanent experiencer behind experience. This seems to conflict with dualism's commitment to something irreducible.
 
-The resolution: the Map's Dualism tenet says consciousness is not reducible to physical processes. It doesn't require a *permanent* conscious substance. Perhaps consciousness can be irreducible while still being impermanent—arising and passing moment to moment, but never reducible to physics at any moment. This would be property dualism without substance dualism.
+The resolution: the Map's Dualism tenet says consciousness is not reducible to physical processes. It doesn't require a *permanent* conscious substance. Perhaps consciousness can be irreducible while still being impermanent—arising and passing moment to moment, but never reducible to physics at any moment. This would be property dualism without substance dualism. Whether this reconciliation succeeds is contested—Madhyamaka philosophers might argue that "irreducible at each moment" still posits an essence that emptiness analysis deconstructs. The Map proposes this compatibility thesis while acknowledging the philosophical tension.
 
 The compatibility thesis: consciousness can be irreducible at each moment while impermanent across moments. Buddhist phenomenological precision—the detailed maps of mental states developed through millennia of practice—enriches rather than contradicts the Map's framework.
 
@@ -187,7 +188,7 @@ The contemplative path illuminates all five tenets.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Contemplative neuroscience demonstrates downward causation—conscious intention producing neuroplastic changes. The two-mode framework extends this: consciousness can both influence matter (through selection) and refrain from influencing (through witnessing). The capacity for bidirectional interaction includes the capacity to suspend it.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Buddhist practice presupposes that this moment's choices shape this practitioner's future—not that all outcomes occur in parallel. The phenomenology of witness mode includes felt singularity: *this* awareness, *this* moment, not a superposition. Many-worlds would make contemplative practice pointless; all possible meditation outcomes would occur across branches.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Buddhist practice presupposes that this moment's choices shape this practitioner's future—not that all outcomes occur in parallel. The phenomenology of witness mode includes felt singularity: *this* awareness, *this* moment, not a superposition. Many-worlds defenders argue that practice remains meaningful within each branch, but the Map holds that indexical identity—being *this* practitioner rather than a branching ensemble—matters for what contemplative traditions actually teach. The path is walked by someone in particular.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Two millennia of contemplative investigation represent data that dismissing as "merely subjective" reflects methodological blindness. The jhana sequence, the stages of insight, the phenomenology of cessation—these are systematic observations by trained observers. Eastern philosophy suggests the simplest metaphysics may miss genuine features of experience accessible only through disciplined investigation.
 

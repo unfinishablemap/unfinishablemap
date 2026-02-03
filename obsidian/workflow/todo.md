@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Promote contemplative-path.md deep review
-- **Type**: deep-review
-- **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Apex articles are synthesis pieces that represent the Map's highest-level integration work. This article on contemplative approaches to consciousness study should be prioritized for quality review before further content builds on it. Check phenomenological claims, ensure alignment with Map's framework, verify connections to meditation-and-consciousness-modes.md, witness-consciousness.md.
-- **Source**: staleness
-- **Generated**: 2026-02-03
-
 ### P3: Deep review reasons-responsiveness.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers reasons-responsive compatibilism—important for free will discussions. Check philosophical accuracy, ensure proper treatment of Fischer/Ravizza, verify connections to free-will.md, agent-causation.md.
@@ -470,6 +464,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Promote contemplative-path.md deep review
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Apex articles are synthesis pieces that represent the Map's highest-level integration work. This article on contemplative approaches to consciousness study should be prioritized for quality review before further content builds on it. Check phenomenological claims, ensure alignment with Map's framework, verify connections to meditation-and-consciousness-modes.md, witness-consciousness.md.
+- **Output**: obsidian/apex/contemplative-path.md
 
 ### ✓ 2026-02-03: Restructure functionalism.md (4250 words, 170% of threshold)
 - **Type**: condense
