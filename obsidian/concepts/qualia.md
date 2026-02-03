@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-02-02T21:42:00+00:00
+ai_modified: 2026-02-03T19:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -76,7 +76,7 @@ You cannot directly access my qualia, nor I yours. We can compare behaviour, poi
 
 ### Ineffable
 
-Qualia resist complete verbal description. How would you explain the taste of coffee to someone who has never tasted it? You might describe it as "bitter" or "rich," but these words don't convey the actual quale. The experience exceeds any description—a structural feature of [[pre-conceptual-knowing|conceptual thought itself]], which classifies by abstracting from particulars and thereby loses qualitative character.
+Qualia resist complete verbal description. How would you explain the taste of coffee to someone who has never tasted it? You might describe it as "bitter" or "rich," but these words don't convey the actual quale. The experience exceeds any description—a structural feature of [[pre-conceptual-knowing|conceptual thought itself]], which classifies by abstracting from particulars and thereby loses qualitative character. The [[consciousness-and-language-interface|consciousness-language interface]] analyses this systematically: language shapes conscious experience while conscious states generate pressure toward articulation, but both directions involve loss.
 
 ### Directly Apprehensible
 
@@ -214,6 +214,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[illusionism]] - The radical denial of phenomenal properties
 
 **Extensions:**
+- [[consciousness-and-language-interface]] - Why qualia resist linguistic capture (bidirectional lossy channel)
 - [[aesthetic-dimension-of-consciousness]] - Aesthetic qualia resistant to reduction
 - [[cognitive-phenomenology]] - Whether thinking has phenomenal character
 - [[minimal-consciousness]] - Qualia in simple organisms

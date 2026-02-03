@@ -4,7 +4,7 @@ description: "Recursive language structure may require phenomenal consciousness.
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-26T22:15:00+00:00
+ai_modified: 2026-02-03T19:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,6 +69,8 @@ Each level of embedding consumes WM slots. With 2±1 capacity, even depth-2 sent
 The [[consciousness-as-amplifier|consciousness-as-amplifier hypothesis]] treats WM expansion as a key mechanism through which consciousness transforms cognition. Recursion may be the paradigm case: the expansion from ape to human WM capacity enables recursive linguistic structure that would otherwise exceed cognitive bandwidth.
 
 ## The Consciousness Connection
+
+The [[consciousness-and-language-interface|consciousness-language interface]] operates bidirectionally here: language requires consciousness to process recursive structure, while conscious experience generates pressure toward linguistic articulation. This bidirectional relationship shapes both what can be consciously experienced and what can be expressed.
 
 ### Why Manipulation Requires Consciousness
 
@@ -247,6 +249,7 @@ Language, recursion, and consciousness connect to all five tenets:
 
 ## Further Reading
 
+- [[consciousness-and-language-interface]] — The bidirectional relationship between phenomenal experience and linguistic articulation
 - [[cognitive-phenomenology]] — The phenomenal character of thinking and understanding
 - [[working-memory]] — WM capacity, the maintenance/manipulation distinction, and consciousness
 - [[consciousness-as-amplifier]] — How expanded WM enables distinctively human cognition

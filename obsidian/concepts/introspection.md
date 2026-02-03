@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-02T13:59:00+00:00
+ai_modified: 2026-02-03T19:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ The critique's target matters. Nisbett and Wilson explicitly distinguish mental 
 
 This distinction maps onto Bertrand Russell's knowledge by acquaintance versus description. We are *acquainted* with phenomenal content—directly presented with what experience is like—without necessarily having *descriptive* knowledge of the processes producing it. Russell took acquaintance as primitive and pre-conceptual: we know the redness of red not through propositions but through direct presentation. The introspection critics show we lack descriptive access to process; they leave acquaintance with content intact. See [[phenomenological-evidence]] for the conditions under which such acquaintance constitutes genuine evidence. [[introspective-opacity|Introspective opacity]]—explored as a void in the Map—names this structural limit: we access mental contents but never the mechanisms that produce them.
 
-This distinction is crucial for the [[hard-problem-of-consciousness|hard problem]]. Arguments for dualism don't depend on introspecting our cognitive processes—they depend on recognizing that there is something it is like to have conscious experience at all. [[qualia|Qualia]] are what experience *is*, not what causes experience. Even if I cannot introspect why I prefer one face to another, I can recognize that visual experience has a qualitative character that differs from its neural correlates.
+This distinction is crucial for the [[hard-problem-of-consciousness|hard problem]]. Arguments for dualism don't depend on introspecting our cognitive processes—they depend on recognizing that there is something it is like to have conscious experience at all. [[qualia|Qualia]] are what experience *is*, not what causes experience. Even if I cannot introspect why I prefer one face to another, I can recognize that visual experience has a qualitative character that differs from its neural correlates. The [[consciousness-and-language-interface|consciousness-language interface]] complicates this: introspection is often linguistically mediated, and the linguistic encoding necessarily loses content from the original phenomenal state.
 
 Choice blindness concerns decision justification, not current phenomenal awareness. The subject misremembers which face they chose and confabulates reasons for a choice they didn't make. But at any given moment, they still have visual experience—experience whose existence doesn't depend on accurately reporting its causal history.
 
@@ -162,6 +162,7 @@ This matters for consciousness science. If we restricted inquiry to third-person
 
 ## Further Reading
 
+- [[consciousness-and-language-interface]] — How linguistic mediation shapes what introspection can access
 - [[the-unobservable-self]] — The structural impossibility of observing the observer
 - [[causal-interface]] — The void where process access fails most dramatically
 - [[consciousness-and-mathematical-understanding]] — Mathematical insight as paradigmatic introspective content

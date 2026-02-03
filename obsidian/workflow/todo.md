@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate consciousness-and-language-interface.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article has no inbound links. Covers how language relates to the consciousness interface—linguistic thought, inner speech, and conscious access. Add cross-references from language-recursion-and-consciousness.md, attention-as-interface.md, working-memory.md, metarepresentation.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P2: Integrate william-james-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article has no inbound links. Covers William James's contributions to consciousness studies—stream of consciousness, radical empiricism, pragmatic approach. Historical context for the Map's framework. Add cross-references from consciousness.md, phenomenology.md, temporal-consciousness.md, introspection.md.
@@ -476,6 +470,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate consciousness-and-language-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Covers how language relates to the consciousness interface—linguistic thought, inner speech, and conscious access. Add cross-references from language-recursion-and-consciousness.md, attention-as-interface.md, working-memory.md, metarepresentation.md.
+- **Output**: obsidian/topics/consciousness-and-language-interface.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-03: Write voids article on altered states as void probes
 - **Type**: expand-topic

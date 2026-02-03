@@ -4,7 +4,7 @@ description: "How consciousness and language interact bidirectionally: language 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T15:56:00+00:00
+ai_modified: 2026-02-03T19:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-02-01T15:56:00+00:00
+last_deep_review: 2026-02-03T19:18:00+00:00
 ---
 
 Consciousness and language meet at an interface that shapes both. Language is not a neutral medium for transmitting conscious content—it structures what can be experienced, remembered, and communicated. Conscious states, in turn, are not passive content waiting for linguistic capture—they press toward articulation and exceed what words can convey. This article explores the bidirectional relationship between phenomenal experience and linguistic articulation.

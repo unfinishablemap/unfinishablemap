@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-03T12:10:00+00:00
+ai_modified: 2026-02-03T19:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -58,7 +58,7 @@ When you understand a sentence, there's often inner speech (hearing the words in
 
 ### The Understanding Experience
 
-Galen Strawson's foreign language argument: A monolingual English speaker and a monolingual French speaker both hear news in French. Their auditory experiences are identical—same sounds. But only the French speaker *understands*. The phenomenal contrast between understanding and not understanding cannot be explained by sensory differences. The same acoustic input produces different phenomenal states. The best explanation: understanding has its own phenomenal character.
+Galen Strawson's foreign language argument: A monolingual English speaker and a monolingual French speaker both hear news in French. Their auditory experiences are identical—same sounds. But only the French speaker *understands*. The phenomenal contrast between understanding and not understanding cannot be explained by sensory differences. The same acoustic input produces different phenomenal states. The best explanation: understanding has its own phenomenal character. The [[consciousness-and-language-interface|consciousness-language interface]] explores this bidirectional relationship: language shapes what can be experienced while conscious states generate pressure toward articulation.
 
 ### Self-Knowledge
 
@@ -255,6 +255,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 
 ## Further Reading
 
+- [[consciousness-and-language-interface]] — The bidirectional, lossy interface between consciousness and language
 - [[temporal-structure-of-understanding]] — Understanding's temporal phenomenology
 - [[language-recursion-and-consciousness]] — Recursive language as evidence for consciousness-dependent cognition
 - [[language-thought-boundary]] — Where speakable and thinkable part ways
