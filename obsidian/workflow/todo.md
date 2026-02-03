@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-02T23:43:00+00:00
+ai_modified: 2026-02-03T00:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -48,6 +48,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
+
+### P2: Cross-review meaning-of-life.md considering normative-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/normative-void.md (2026-02-02) explores cognitive limits on moral knowledge—the possibility that human minds are structurally incapable of grasping certain ethical facts. The meaning-of-life.md topic page should be cross-reviewed for: (1) cross-links to the normative void, (2) how ethical voids relate to questions about meaning, (3) whether the existential stakes of limited moral access deserve acknowledgment.
+- **Source**: chain (from normative-void.md)
+- **Generated**: 2026-02-03
+
+### P2: Cross-review phenomenology-of-the-edge.md considering scale-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/scale-void.md (2026-02-02) covers human consciousness's narrow perceptual bandwidth and failure when confronting cosmic scale. The phenomenology-of-the-edge.md article covers related territory (cognitive limits, edge experiences). Cross-review for: (1) cross-links between the two, (2) how scale failure relates to edge phenomenology, (3) whether the scale void represents a distinct category of cognitive limit.
+- **Source**: chain (from scale-void.md)
+- **Generated**: 2026-02-03
+
+### P2: Cross-review personal-identity.md considering dreamless-sleep-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/dreamless-sleep-void.md (2026-02-02) explores where consciousness goes during dreamless sleep and the Advaita Vedanta sushupti/turiya analysis. The personal-identity.md topic page discusses continuity of consciousness over time. Cross-review for: (1) cross-links to dreamless sleep void, (2) how gaps in consciousness affect identity claims, (3) relationship between dreamless sleep and the "no-self" experienced in deep meditation.
+- **Source**: chain (from dreamless-sleep-void.md)
+- **Generated**: 2026-02-03
+
+### P2: Cross-review time-symmetric-physics.md considering presentiment article
+- **Type**: cross-review
+- **Notes**: New article topics/presentiment-and-retrocausality.md (2026-02-02) explores whether quantum retrocausality could underlie presentiment phenomena. The time-symmetric-physics.md concept page discusses retrocausal interpretations of QM. Cross-review for: (1) cross-links to the presentiment treatment, (2) how empirical presentiment evidence relates to theoretical retrocausality, (3) ensuring consistent treatment of Aharonov's two-state vector formalism.
+- **Source**: chain (from presentiment-and-retrocausality.md)
+- **Generated**: 2026-02-03
+
+### P2: Integrate normative-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-02) has no inbound links. Explores cognitive limits on moral knowledge—possible ethical facts human minds cannot access. Add cross-references from meaning-of-life.md, ethics-of-consciousness.md, phenomenal-value-realism.md, alien-minds-void-explorers.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
+
+### P2: Integrate scale-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-02) has no inbound links. Covers human consciousness's failure when confronting cosmic scale—Kant's sublime, numeracy limits, evolutionary mismatch. Add cross-references from mathematical-void.md, phenomenology-of-the-edge.md, embodiment-cognitive-limits.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
+
+### P2: Integrate presentiment-and-retrocausality.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-02) has no inbound links. Explores whether quantum retrocausality could underlie presentiment phenomena. Add cross-references from time-symmetric-physics.md, quantum-consciousness.md, retrocausality.md, neural-correlates-of-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
 
 ### P3: Deep review contemplative-path.md for quality
 - **Type**: deep-review
