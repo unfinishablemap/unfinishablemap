@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Restructure functionalism.md (4250 words, 170% of threshold)
-- **Type**: condense
-- **Notes**: Arguments article remains critically over threshold despite multiple previous condense attempts (10+ attempts logged). The content cannot be reduced further without losing essential arguments. Consider: (1) splitting into two articles (functionalism overview + detailed objection-response dialectic), (2) creating a separate "functionalist objections to dualism" article to house the extensive back-and-forth, (3) more aggressive deferral to linked concept pages. This is a persistent length violation requiring structural restructuring rather than incremental trimming.
-- **Source**: length_analysis
-- **Generated**: 2026-02-03
-
 ### P2: Promote contemplative-path.md deep review
 - **Type**: deep-review
 - **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Apex articles are synthesis pieces that represent the Map's highest-level integration work. This article on contemplative approaches to consciousness study should be prioritized for quality review before further content builds on it. Check phenomenological claims, ensure alignment with Map's framework, verify connections to meditation-and-consciousness-modes.md, witness-consciousness.md.
@@ -476,6 +470,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Restructure functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Arguments article remains critically over threshold despite multiple previous condense attempts (10+ attempts logged). The content cannot be reduced further without losing essential arguments. Consider: (1) splitting into two articles (functionalism overview + detailed objection-response dialectic), (2) creating a separate "functionalist objections to dualism" article to house the extensive back-and-forth, (3) more aggressive deferral to linked concept pages. This is a persistent length violation requiring structural restructuring rather than incremental trimming.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-03: Condense many-worlds.md (3704 words, 148% of threshold)
 - **Type**: condense

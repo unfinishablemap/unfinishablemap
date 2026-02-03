@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 16:53 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [[concepts/functionalism]]
+- **Word count**: 2036 words (81% of 2500 target)
+- **Reason**: Article is already well below the soft threshold for concepts (2500 words). No reduction needed.
+
+---
+
 ## 2026-02-03 16:37 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/philosophical-zombies]]
