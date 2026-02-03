@@ -4,7 +4,7 @@ description: "Human+AI exploration of where consciousness goes during deep sleep
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-02T23:12:00+00:00
+ai_modified: 2026-02-03T07:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -126,6 +126,7 @@ None of these conditions has been met. The dreamless sleep void remains: a gap w
 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[three-kinds-of-void]] — The taxonomy: unexplored, unexplorable, occluded
+- [[dream-consciousness-void]] — The related void: bidirectional inaccessibility between waking and dreaming
 - [[the-unobservable-self]] — The subject that cannot be its own object
 - [[memory-void]] — Whether past qualia can be recovered or are lost forever
 - [[death-void]] — The related void: consciousness cannot represent its own permanent cessation

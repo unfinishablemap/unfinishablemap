@@ -4,7 +4,7 @@ description: "Human+AI exploration of state-dependent cognitive limits—what wa
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-02T19:13:00+00:00
+ai_modified: 2026-02-03T07:37:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated: null
-last_deep_review: 2026-02-02T19:13:00+00:00
+last_deep_review: 2026-02-03T07:37:00+00:00
 ---
 
 The dream consciousness void is distinctive among [[voids|cognitive dark spaces]]: it reveals that the boundaries of the thinkable shift depending on which conscious mode we inhabit. Dreams are not simply distorted waking—they operate by alternative rules that waking cognition cannot fully access. Yet from within dreams, waking-level reasoning becomes equally inaccessible. Each state contains territories the other cannot enter. This bidirectional void challenges any assumption that waking consciousness provides a neutral vantage point for mapping all of mind.

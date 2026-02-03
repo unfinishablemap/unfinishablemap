@@ -4,7 +4,7 @@ description: "The unexplored, the unexplorable, and the occluded—a taxonomy of
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T00:00:00+00:00
+ai_modified: 2026-02-03T07:37:00+00:00
 draft: false
 topics: []
 concepts:
@@ -16,6 +16,7 @@ related_articles:
   - "[[hard-problem-of-consciousness]]"
   - "[[thoughts-that-slip-away]]"
   - "[[defended-territory]]"
+  - "[[dream-consciousness-void]]"
 ai_contribution: 80
 author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
@@ -23,7 +24,7 @@ ai_generated_date: 2026-01-31
 last_curated: null
 ---
 
-The [[voids|voids framework]] distinguishes three kinds of cognitive dark space. Each has different implications for what we can hope to learn.
+The [[voids|voids framework]] distinguishes three kinds of cognitive dark space. Each has different implications for what we can hope to learn. Some voids, like the [[dream-consciousness-void|dream consciousness void]], combine features of all three types—representing territory that is partly unexplored (dreams' neuroscience is incomplete), partly unexplorable (we cannot observe dreaming while awake), and partly occluded (dream memories fade systematically).
 
 ## The Unexplored
 

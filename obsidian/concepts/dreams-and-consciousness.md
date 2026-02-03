@@ -4,7 +4,7 @@ description: "Dreams show consciousness generating immersive experiential worlds
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-02-03T07:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -141,6 +141,7 @@ The filter theory interpretation would face difficulties if:
 
 - [[lucid-dreaming-and-consciousness]] — Lucid dreaming as distinct consciousness state
 - [[sleep-and-consciousness]] — Consciousness gradations during sleep
+- [[dream-consciousness-void]] — The bidirectional void: waking cannot access dreaming, dreaming cannot access waking
 - [[attention-as-interface]] — The interface hypothesis for dream states
 - [[filter-theory]] — The transmission model dream evidence supports
 - [[mind-brain-separation]] — Rendering engine analogy

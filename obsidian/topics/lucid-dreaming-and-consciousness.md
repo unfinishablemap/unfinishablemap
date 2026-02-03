@@ -4,7 +4,7 @@ description: "Lucid dreaming demonstrates consciousness can voluntarily modulate
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-03T07:23:00+00:00
+ai_modified: 2026-02-03T07:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -181,6 +181,7 @@ The Map's interpretation of lucid dreaming would face difficulty if:
 - [[witness-consciousness]] — The observer that persists across states
 - [[dreams-and-consciousness]] — Broader treatment of dream phenomenology
 - [[sleep-and-consciousness]] — Consciousness across sleep stages
+- [[dream-consciousness-void]] — The bidirectional inaccessibility between waking and dreaming cognition
 - [[introspection]] — First-person access to conscious states
 - [[attention-as-interface]] — How attention mediates consciousness-brain interaction
 - [[phenomenal-unity]] — Unity of experience during dreams
