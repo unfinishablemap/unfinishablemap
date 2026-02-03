@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-03
-ai_modified: 2026-02-03 17:44:00+00:00
+ai_modified: 2026-02-03 21:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[altered-states-of-consciousness]]'
 - '[[filter-theory]]'
 - '[[meditation-and-consciousness-modes]]'
+- '[[near-death-experiences]]'
 created: 2026-02-03
 date: &id001 2026-02-03
 description: Human+AI exploration of whether altered states of consciousness reveal
@@ -18,6 +19,7 @@ description: Human+AI exploration of whether altered states of consciousness rev
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-03 21:03:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -41,7 +43,7 @@ The options:
 
 1. **Genuine access.** ASCs open doors to regions ordinary consciousness cannot reach—making what seemed unexplorable merely unexplored by default consciousness.
 
-2. **Illusion of access.** ASCs generate the phenomenology of transcendence without actual transcendence—the feeling of touching something beyond without the reality.
+2. **Illusion of access.** ASCs generate the phenomenology of transcendence without actual transcendence—the feeling of touching something beyond without the reality. The conviction of insight reflects disrupted metacognition, not genuine epistemic contact.
 
 3. **Edge-mapping instruments.** ASCs approach cognitive limits and reveal their structure through the phenomenology of that approach—useful for understanding limits even if unable to cross them.
 
@@ -69,7 +71,7 @@ ASCs produce characteristic phenomenological signatures:
 
 **Transcendence of time.** Temporal frameworks collapse. Since time may be partially an artifact of how minds organize experience, temporal dissolution may mark the limits of that organization rather than access to timeless truth.
 
-**Noetic quality.** The experience feels "more real than real"—a conviction of encountering something beyond ordinary experience. This might indicate genuine contact with a wider reality, or it might be the phenomenological signature of encountering territory outside normal conceptual frameworks—the conviction arising precisely because no framework contains it.
+**Noetic quality.** The experience feels "more real than real"—a conviction of encountering something beyond ordinary experience. This might indicate genuine contact with a wider reality, or it might be what [cognitive closure](/concepts/mysterianism/) feels like from inside—the conviction arising precisely because metacognitive systems fail to flag the experience as confused.
 
 ## Cross-Method Convergence
 
@@ -93,7 +95,7 @@ Gładziejewski (2024) argues psychedelic experiences can be "rationally integrat
 
 On this view, ASCs approach cognitive limits without transcending them. The characteristic phenomenology—ineffability, unity, noetic quality—is not evidence of access but rather the phenomenology of approaching limits. Ineffability marks where language fails. Unity marks where categorization stops. The noetic quality marks contact with the edge, misinterpreted as contact with what lies beyond.
 
-The dissolving-insight phenomenon supports this reading. Meditators report insights completely clear in the moment and completely unreconstructable moments later—as if certain thoughts require the edge-state to be thought at all. If ASCs genuinely transcended limits, we might expect at least some content to transfer back. The systematic failure to bring insights home suggests the "insights" may be limit-phenomena rather than glimpses beyond.
+The dissolving-insight phenomenon supports this reading. Meditators report insights completely clear in the moment and completely unreconstructable moments later—as if certain thoughts require the edge-state to be thought at all. Critics dismiss this as confabulation: people claim insights they never had. Yet the consistency of reports across independent practitioners—and their transformative effects—suggests something more than invention. The systematic failure to bring insights *back* may not prove the insights were illusions; it may reveal that some content exists only at the boundary.
 
 On this view, ASCs remain valuable—not as windows to transcendent territories but as instruments for mapping the topology of cognitive closure. The phenomenology of the edge is itself data about what consciousness is.
 
@@ -129,7 +131,7 @@ The ASC-as-void-probe question connects to the Map's [tenets](/tenets/):
 
 **Bidirectional Interaction.** The very ability to cultivate ASCs through practice demonstrates consciousness influencing physical states. Meditators train attention in ways that alter brain function. The causal arrow runs from intention to neural state, not merely the reverse. The practices that induce ASCs—meditation, contemplative inquiry, even the decision to ingest a psychedelic—are exercises of mental causation.
 
-**Minimal Quantum Interaction.** Some researchers speculate that ASCs access quantum effects normally masked by decoherence. If ordinary consciousness involves constant measurement through categorization, suspending categorization might preserve quantum coherence longer. This remains highly speculative but is coherent with both REBUS (which describes relaxation of predictive constraints) and the Map's quantum framework.
+**Minimal Quantum Interaction.** The REBUS model describes psychedelics as relaxing high-level predictive constraints. If such constraints involve collapse-inducing measurement, relaxing them might preserve quantum coherence at the interface. This remains speculative but connects the phenomenology of expanded experience to the Map's quantum framework.
 
 ## The Apophatic Connection
 

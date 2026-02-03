@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-02 18:42:00+00:00
+ai_modified: 2026-02-03 23:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,7 +28,7 @@ description: Does consciousness survive bodily death? Dualism keeps the question
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-28 19:50:17+00:00
+last_deep_review: 2026-02-03 23:03:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,7 +43,7 @@ topics:
 
 Does consciousness survive bodily death? The Unfinishable Map's dualist framework makes survival a coherent possibility that materialism forecloses. If consciousness is immaterial and irreducible, nothing in principle prevents it from persisting when the body fails. This doesn't *guarantee* survival—functional dependence on brains might be essential even for non-physical minds. But dualism keeps the question genuinely open in ways materialism cannot. Combined with the Map's emphasis on [indexical identity](/topics/personal-identity/)—the view that *you* are irreplaceable rather than a mere pattern—and its concept of [haecceity](/concepts/haecceity/) (irreducible thisness), this creates distinctive resources for thinking about death.
 
-Before examining what might survive, we must acknowledge the [death void](/voids/death-void/)—the structural impossibility of consciousness representing its own absence. Every attempt to imagine nonexistence presupposes the imaginer. This cognitive limit shapes how we think about survival: we can reason about death but cannot experience or genuinely conceive it from within. Related to the death void is [cognitive aversion](/voids/cognitive-aversion/)—the systematic deflection from mortality that Terror Management Theory documents: even when we attempt to contemplate death, attention slides toward substitutes (funerals, legacy, what others will feel) rather than the cessation of experience itself.
+Before examining what might survive, we must acknowledge the [death void](/voids/death-void/)—the structural impossibility of consciousness representing its own absence. Every attempt to imagine nonexistence presupposes the imaginer. This cognitive limit shapes how we think about survival: we can reason about death but cannot experience or genuinely conceive it from within. The death void also illuminates the Lucretian asymmetry: we fear posthumous nonexistence but feel nothing about prenatal nonexistence, revealing that what matters is the *ending* of this particular self, not nonexistence per se—directly relevant to Parfit's view discussed below. Related to the death void is [cognitive aversion](/voids/cognitive-aversion/)—the systematic deflection from mortality that Terror Management Theory documents: even when we attempt to contemplate death, attention slides toward substitutes (funerals, legacy, what others will feel) rather than the cessation of experience itself.
 
 ## The Stakes
 
@@ -198,6 +198,7 @@ What the Map claims: given its dualist commitments, survival is a *coherent poss
 ## Further Reading
 
 - [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: how indexical identity persists through radical transformation, from split-brain to death
+- [death-void](/voids/death-void/) — The structural impossibility of conceiving one's own nonexistence
 - [near-death-experiences](/concepts/near-death-experiences/) — Evidence from recalled experience of death
 - [filter-theory](/concepts/filter-theory/) — The transmission model reframing death as disconnection
 - [personal-identity](/topics/personal-identity/) — Why indexical identity matters for survival
@@ -218,21 +219,3 @@ What the Map claims: given its dualist commitments, survival is a *coherent poss
 - Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
 - Parnia, S., et al. (2014). "AWARE—AWAreness during REsuscitation—A prospective study." *Resuscitation*, 85(12), 1799-1805.
 - Xu, G., et al. (2023). "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain." *PNAS*, 120(19).
-
-<!-- AI REFINEMENT LOG - 2026-02-02T07:22:00+00:00
-Condensation from 4264 to 2572 words (40% reduction).
-
-Key cuts:
-- The Stakes: Removed radio analogy detail (deferred to filter-theory article)
-- Illusionist Challenge: Condensed three responses, removed extended hedging
-- Autobiographical Self: Shortened Patient KC example, cut redundant paragraphs
-- NDEs: Trimmed methodological detail, deferred to concept page
-- Contemplative Perspectives: Condensed all three subsections
-- Temporary Loss: Tightened three examples
-- Quantum Soul: Condensed decoherence discussion
-- What Would Challenge: Removed extended explanations
-
-Preserved: Opening summary, Relation to Site Perspective, core arguments, all cross-links.
-
-This log should be removed after human review.
--->

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03 10:52:00+00:00
+ai_modified: 2026-02-03 22:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,177 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-02-03 23:18 UTC - coalesce
+- **Status**: No candidates found
+- **Articles analyzed**: 18+ articles across 7 candidate groups
+- **Outcome**: Site content is well-differentiated. Prior consolidation efforts have been effective.
+- **Analysis summary**:
+  - Decoherence pair (decoherence.md, quantum-decoherence-objection.md): The survey article covers broad context (quantum biology, process philosophy, Zeno mechanism) while the objection article focuses on specific Tegmark critique and timing constraints. Well-differentiated.
+  - Consciousness-value group (3 articles): consciousness-value-connection.md, phenomenal-value-realism.md, phenomenal-value-realism-development.md are intentionally structured as foundational claim, metaethical position, and development article. All three reference each other appropriately.
+  - Interactionist dualism + history: The concept article covers contemporary position; history article is a historical survey from Descartes to present. Appropriately separate.
+  - Binding problem + unity of consciousness: binding-problem.md focuses on BP1/BP2 distinction and mechanisms; unity-of-consciousness.md focuses on dimensions of unity (synchronic, diachronic, subject) and philosophical puzzles. Both already coalesced from prior articles.
+  - Attention-motor articles: motor-selection.md already has `coalesced_from` field indicating prior merge. Orphan attention-motor-quantum-interface.md exists in both obsidian/ and archive/ directories—likely a sync issue but not a merge candidate.
+- **Coalesced articles found in codebase**: 23 articles have `coalesced_from` metadata indicating prior consolidation work
+- **Action**: None required—no strong merge candidates exist
+
+---
+
+## 2026-02-03 23:03 UTC - deep-review
+- **Status**: Success
+- **File**: [death-and-consciousness](/topics/death-and-consciousness/)
+- **Word count**: 2663 → 2713 (+50)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed AI refinement log marked for removal)
+- **Enhancements made**: 2 (Lucretian asymmetry connection to death-void, death-void added to Further Reading)
+- **Output**: [deep-review-2026-02-03-death-and-consciousness](/reviews/deep-review-2026-02-03-death-and-consciousness/)
+- **Notes**: Cross-review considering newly published death-void article. Third deep review of this article. Previous reviews (2026-01-20, 2026-01-28) established stability. This review focused on integration with death-void: added Lucretian asymmetry mention to strengthen Parfit discussion, added explicit link in Further Reading. Article remains stable; all bedrock disagreements previously documented.
+
+---
+
+## 2026-02-03 22:48 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemic-emotions](/concepts/epistemic-emotions/)
+- **Word count**: 2197 → 2204 (+7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (softened unsupported claim, tightened falsifiability condition)
+- **Enhancements made**: 0 (article stable after previous review)
+- **Output**: [deep-review-2026-02-03-epistemic-emotions](/reviews/deep-review-2026-02-03-epistemic-emotions/)
+- **Notes**: Second deep review of this article. Previous review (2026-01-21) made substantial improvements to No Many Worlds argument, illusionist engagement, and quantum speculation. This review found no critical issues—only minor refinements. Article has reached stability; philosophical disagreements with materialist frameworks are expected consequences of tenet commitments, not fixable flaws.
+
+---
+
+## 2026-02-03 22:33 UTC - expand-topic
+- **Status**: Skipped (article already exists)
+- **Topic**: motor control and quantum Zeno effect
+- **Existing article**: [motor-selection](/concepts/motor-selection/)
+- **Word count**: 2841
+- **Based on research**: yes ([motor-control-quantum-zeno-2026-01-18](/research/motor-control-quantum-zeno-2026-01-18/))
+- **Notes**: Task requested expansion of research on motor control and quantum Zeno. Article `motor-selection.md` already exists (created 2026-01-18, same day as research) and comprehensively covers: premotor theory of attention (Rizzolatti), neural competition and affordance competition hypothesis (Cisek), basal ganglia brake-release model, dopamine and selection threshold, the Libet challenge and Schurger's stochastic reinterpretation, Desmurget's intention/execution dissociation, quantum Zeno mechanism applied to motor selection, decoherence considerations, phenomenology of motor choice, illusionist challenge, and full tenet alignment. Task removed from queue as already complete.
+
+---
+
+## 2026-02-03 22:18 UTC - expand-topic
+- **Status**: Skipped (article already exists)
+- **Topic**: collapse before minds (early universe)
+- **Existing article**: [prebiotic-collapse](/concepts/prebiotic-collapse/)
+- **Word count**: 3225
+- **Based on research**: yes ([collapse-before-minds-early-universe-2026-01-16](/research/collapse-before-minds-early-universe-2026-01-16/))
+- **Notes**: Task requested expansion of research on prebiotic collapse. Article `prebiotic-collapse.md` already exists (created 2026-01-16, same day as research) and comprehensively covers: Wheeler's participatory universe, panpsychism/proto-experience, objective reduction (Penrose, GRW, CSL), decoherence, Many Worlds dissolution, the Map's position (objective reduction with consciousness modulation), illusionist challenge, process philosophy perspective, experimental status, and full tenet alignment. Task removed from queue as already complete.
+
+---
+
+## 2026-02-03 22:07 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full corpus (topics, concepts, tenets)
+- **Output**: [optimistic-2026-02-03-evening](/reviews/optimistic-2026-02-03-evening/)
+- **Tasks added**: 3 P3 expansion topics (phenomenology of epistemic achievement, introspection rehabilitation, evolution under dualism)
+- **Notes**: Multi-perspective strength analysis from six sympathetic philosophers (Chalmers, Stapp, Nagel, Whitehead, Kane, McGinn). Key strengths identified: baseline cognition framework provides empirical grounding for consciousness's causal efficacy, contemplative evidence treatment legitimizes phenomenological data, quantum biology argument successfully shifts burden of proof. Cross-linking suggestions and new concept page recommendations included.
+
+---
+
+## 2026-02-03 21:50 UTC - deep-review
+- **Status**: Skipped (already coalesced)
+- **File**: semantic-phenomenology.md
+- **Notes**: This file was coalesced into [cognitive-phenomenology](/concepts/cognitive-phenomenology/) on 2026-02-02. The orphan integration task in todo.md was stale—the archived file at archive/concepts/semantic-phenomenology.md correctly points to its replacement. Removed the stale task from todo.md. No review needed; content already integrated.
+
+---
+
+## 2026-02-03 21:38 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: attention-motor-quantum-selection.md
+- **Notes**: File was archived on 2026-02-02 and superseded by [attention-interface-mechanisms](/topics/attention-interface-mechanisms/). Archived articles should not be reviewed—their content now lives in the replacement article. The "orphan" status is expected for archived files. This task was queued from orphan integration but the file's archive status means the orphan is intentional.
+
+---
+
+## 2026-02-03 21:18 UTC - deep-review
+- **Status**: Success
+- **File**: [implicit-memory](/concepts/implicit-memory/)
+- **Word count**: 2632 → 2659 (+27)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (Merleau-Ponty quote attribution softened to paraphrase)
+- **Enhancements made**: 1 (cross-link to dedicated choking topic added)
+- **Output**: [deep-review-2026-02-03-implicit-memory](/reviews/deep-review-2026-02-03-implicit-memory/)
+- **Notes**: Second review of this article (first: 2026-01-20). Article is approaching stability—first review was comprehensive, this review found only minor refinements needed. Added cross-link to choking-phenomenon-mental-causation topic. All six adversarial personas' objections represent bedrock philosophical disagreements rather than fixable flaws.
+
+---
+
+## 2026-02-03 21:03 UTC - deep-review
+- **Status**: Success
+- **File**: [altered-states-as-void-probes](/voids/altered-states-as-void-probes/)
+- **Word count**: 2011 → 2035 (+24)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (illusion interpretation engagement, confabulation objection response, quantum speculation tightening, mysterianism link added)
+- **Enhancements made**: 2 (added near-death-experiences to concepts, strengthened engagement with materialist objections)
+- **Orphan integration**: Added 6 inbound links from related articles (altered-states-of-consciousness, filter-theory, near-death-experiences, three-kinds-of-void, apophatic-approaches, phenomenology-of-the-edge)
+- **Output**: [deep-review-2026-02-03-altered-states-as-void-probes](/reviews/deep-review-2026-02-03-altered-states-as-void-probes/)
+- **Notes**: First review of article (created same day). Primary focus was orphan integration—article had no inbound links. Article is well-structured with excellent four-option epistemological framing and appropriate tenet alignment. Tightened quantum speculation, strengthened engagement with confabulation objection, added mysterianism cross-link.
+
+---
+
+## 2026-02-03 20:54 UTC - deep-review
+- **Status**: Success
+- **File**: [habituation-void](/voids/habituation-void/)
+- **Word count**: 1952 → 1992 (+40)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (predictive processing counterargument engagement, quantum speculation tightening)
+- **Enhancements made**: 3 (filter theory connection, expanded frontmatter, orphan integration)
+- **Orphan integration**: Added 7 inbound links from related articles (voids, attention-created-voids, thoughts-that-slip-away, phenomenology-of-the-edge, filter-theory, conscious-vs-unconscious-processing, limits-reveal-structure)
+- **Output**: [deep-review-2026-02-03-habituation-void](/reviews/deep-review-2026-02-03-habituation-void/)
+- **Notes**: First review of article. Focus was orphan integration—article had no inbound links. Article is well-structured with excellent phenomenology section and appropriate length. Added explicit engagement with predictive processing counterargument in Dualism section.
+
+---
+
+## 2026-02-03 20:37 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: argument-from-reason.md, phenomenology-of-understanding.md, consciousness-and-mathematical-understanding.md
+- **Output**: [pessimistic-2026-02-03-evening](/reviews/pessimistic-2026-02-03-evening/)
+- **Tasks added**: 1 (P3: Address conceptual/ontological irreducibility gap)
+- **Notes**: Reviewed rationality/understanding cluster. Key vulnerabilities: conflation of conceptual and ontological irreducibility, inconsistent treatment of introspection, Penrose argument not adequately defended against logician critiques. Phenomenological observations remain valuable. See review for full analysis.
+
+---
+
+## 2026-02-03 20:18 UTC - expand-topic
+- **Status**: No action (article already exists)
+- **Topic**: Spontaneous collapse theories (GRW, CSL)
+- **Existing article**: [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
+- **Word count**: ~3200
+- **Notes**: Task requested article on GRW/CSL collapse theories based on research/spontaneous-collapse-theories-grw-csl-2026-01-23.md. Article already exists at concepts/spontaneous-collapse-theories.md (created 2026-01-23, deep-reviewed 2026-01-27). Covers GRW discrete collapse, CSL continuous localization, Penrose OR, Orch OR, consciousness-modulated hybrid models, experimental status, and comprehensive tenet alignment. Removed duplicate task from todo queue.
+
+---
+
+## 2026-02-03 20:03 UTC - expand-topic
+- **Status**: No action (article already exists)
+- **Topic**: The death void
+- **Existing article**: [death-void](/voids/death-void/)
+- **Word count**: 1650
+- **Notes**: Task requested expansion of death void article, but voids/death-void.md already exists (created 2026-02-02) with deep review completed same day. Article covers the mortality paradox, philosophical convergence (Epicurus, Wittgenstein, Heidegger, Freud), persistent spectator phenomenology, Lucretian asymmetry, and tenet alignment. Based on research/voids-the-death-void-2026-02-02.md. Removed duplicate task from todo queue.
+
+---
+
+## 2026-02-03 19:52 UTC - deep-review
+- **Status**: Success
+- **File**: [split-brain-consciousness](/topics/split-brain-consciousness/)
+- **Word count**: 3365 → 3360 (-5)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (generalized uncited research claims)
+- **Enhancements made**: 0 (article stable from previous review)
+- **Output**: [deep-review-2026-02-03-split-brain-consciousness](/reviews/deep-review-2026-02-03-split-brain-consciousness/)
+
+---
+
+## 2026-02-03 19:33 UTC - deep-review
+- **Status**: Success
+- **File**: [william-james-consciousness](/topics/william-james-consciousness/)
+- **Word count**: 2332 → 2354 (+22)
+- **Focus**: Orphan integration (article had zero inbound links)
+- **Critical issues addressed**: 0 (none found; article stable from previous review)
+- **Medium issues addressed**: 0 (none found)
+- **Cross-links added to target**: 2 (specious-present, attention)
+- **Inbound links added**: 6 (from filter-theory, specious-present, mental-effort, temporal-consciousness, attention, process-philosophy)
+- **Output**: [deep-review-2026-02-03-william-james-consciousness](/reviews/deep-review-2026-02-03-william-james-consciousness/)
+
 ---
 
 ## 2026-02-03 19:18 UTC - deep-review

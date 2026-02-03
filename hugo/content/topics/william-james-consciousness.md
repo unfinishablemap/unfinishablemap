@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-02 08:16:00+00:00
+ai_modified: 2026-02-03 19:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: James's radical empiricism treats experience as fundamental reality
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 08:16:00+00:00
+last_deep_review: 2026-02-03 19:33:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +56,7 @@ James's most famous contribution to psychology is his description of consciousne
 
 > "Consciousness, then, does not appear to itself chopped up in bits. Such words as 'chain' or 'train' do not describe it fitly as it presents itself in the first instance. It is nothing jointed; it flows. A 'river' or a 'stream' are the metaphors by which it is most naturally described."
 
-This observation grounds [temporal phenomenology](/concepts/temporal-consciousness/). Consciousness isn't a sequence of separate moments strung together—it's a continuous movement in which past, present, and anticipated future interpenetrate. Each moment contains "fringes" that shade off into what just was and what is about to be.
+This observation grounds [temporal phenomenology](/concepts/temporal-consciousness/) and the concept of the [specious-present](/concepts/specious-present/)—the experienced duration of the present moment, which James helped develop. Consciousness isn't a sequence of separate moments strung together—it's a continuous movement in which past, present, and anticipated future interpenetrate. Each moment contains "fringes" that shade off into what just was and what is about to be.
 
 ### Substantive and Transitive Parts
 
@@ -76,7 +76,7 @@ The fringe explains how understanding works temporally. When you hear a sentence
 
 ## Attention and the Will
 
-James devoted substantial attention to attention itself. His analysis prefigures contemporary theories connecting consciousness to selective focus, including [Henry Stapp's quantum Zeno approach](/concepts/stapp-quantum-mind/).
+James devoted substantial [attention](/concepts/attention/) to attention itself. His analysis prefigures contemporary theories connecting consciousness to selective focus, including [Henry Stapp's quantum Zeno approach](/concepts/stapp-quantum-mind/).
 
 ### Attention as Selection
 

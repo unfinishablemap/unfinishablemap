@@ -34,7 +34,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by William James, Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain is interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to The Unfinishable Map's [interactionist dualism](/archive/arguments/interactionist-dualism/) and explains how [dualism](/tenets/#dualism) can accommodate the empirical findings that seem to support materialism.
+The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by [William James](/topics/william-james-consciousness/), Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain is interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to The Unfinishable Map's [interactionist dualism](/archive/arguments/interactionist-dualism/) and explains how [dualism](/tenets/#dualism) can accommodate the empirical findings that seem to support materialism.
 
 ## The Core Claim
 
@@ -87,7 +87,7 @@ A physicalist would object: different neural processing simply produces differen
 
 Filter theory interprets this pattern: the DMN normally constrains consciousness to a narrow band of self-referential processing (what the [default-mode-network](/concepts/default-mode-network/) article calls the "narrative filter"). Psychedelics disrupt this constraint while increasing global integration. The brain isn't producing *less* consciousness—it's filtering *less*. The enhanced between-network connectivity represents new channels opening as normal constraints dissolve.
 
-This interpretation aligns with Aldous Huxley's original proposal and with recent models like REBUS (Relaxed Beliefs Under Psychedelics): what's being relaxed is precisely the constraining function that normally restricts conscious experience to a biologically useful subset.
+This interpretation aligns with Aldous Huxley's original proposal and with recent models like REBUS (Relaxed Beliefs Under Psychedelics): what's being relaxed is precisely the constraining function that normally restricts conscious experience to a biologically useful subset. The [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) article examines whether such filter-loosening provides genuine epistemic access to new territories or merely reveals the topology of cognitive limits.
 
 ### The Anesthetic Divergence
 
@@ -135,7 +135,7 @@ The [minimal-consciousness](/archive/concepts/minimal-consciousness/) literature
 
 *C. elegans* has exactly 302 neurons, a completely mapped connectome, and displays learning behaviors—yet we cannot determine whether it experiences anything. On filter theory, this organism may lack the structural complexity required for consciousness to interface effectively. The filter model doesn't require every neural system to provide an interface; it requires only that *some* physical structures serve this function better than others.
 
-The slime mold case is more puzzling. *Physarum polycephalum* solves mazes, optimizes networks, and displays habituation—all without neurons. If filter theory requires neural interfaces, slime mold cognition should be impossible. The resolution: cognition and consciousness may fully dissociate. Slime molds may process information without providing any interface for phenomenal experience. Their behaviors are adaptive responses, not conscious choices. This preserves filter theory while acknowledging that information processing doesn't require consciousness.
+The slime mold case is more puzzling. *Physarum polycephalum* solves mazes, optimizes networks, and displays [habituation](/voids/habituation-void/)—all without neurons. If filter theory requires neural interfaces, slime mold cognition should be impossible. The resolution: cognition and consciousness may fully dissociate. Slime molds may process information without providing any interface for phenomenal experience. Their behaviors are adaptive responses, not conscious choices. This preserves filter theory while acknowledging that information processing doesn't require consciousness.
 
 This has implications for the [brain-specialness](/archive/concepts/brain-specialness/) question. Not just *any* complex system serves as a consciousness interface—the brain's specific properties (quantum sensitivity, representational structure, attention mechanisms) make it suitable. Slime molds, despite sophisticated computation, may lack whatever property makes the interface work.
 
@@ -239,6 +239,7 @@ The Buddhist framework offers something filter theory lacks: a detailed phenomen
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Why correlates don't prove production
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The broader framework
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The proposed mechanism for mind-brain interface
+- [habituation-void](/voids/habituation-void/) — Habituation as a filtering mechanism that screens out the familiar
 
 ## References
 

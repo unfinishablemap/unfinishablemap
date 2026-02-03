@@ -134,6 +134,7 @@ The evidence for content-specific slippage remains suggestive rather than conclu
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
+- [The Habituation Void](/voids/habituation-void/) — Where familiarity rather than forgetting erases experience
 - [Introspective Opacity](/voids/introspective-opacity/) — Why we cannot observe our own cognitive processes
 - [Apophatic Approaches](/voids/apophatic-approaches/) — Methods for knowing through negation
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries

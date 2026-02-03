@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-26 22:15:00+00:00
+ai_modified: 2026-02-03 19:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: When the corpus callosum is severed, does consciousness split? Rece
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-21 19:30:00+00:00
+last_deep_review: 2026-02-03 19:52:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -214,7 +214,7 @@ The resilience of unity—even with minimal connections—suggests consciousness
 
 The connection to the binding problem is relevant. If quantum coherence in neural microtubules explains phenomenal unity (as Penrose-Hameroff suggest), split-brain cases may show what happens when macro-level communication is disrupted while quantum-level coherence potentially persists within each hemisphere. The asymmetry between perceptual division and response unity could reflect different integration mechanisms operating at different scales.
 
-The [decoherence challenge](/concepts/decoherence/) applies here: can quantum coherence survive in warm neural tissue long enough to matter? Recent research complicates the simple "no" that dominated earlier discussion. The 2024 epothilone B studies show microtubule-stabilizing drugs affect consciousness, and tryptophan superradiance demonstrates quantum coherence at biological temperatures. If the quantum Zeno mechanism operates through attention (which is neurally implemented in each hemisphere semi-independently), split-brain cases might reveal quantum selection occurring in parallel within each hemisphere, united only through the minimal surviving connections.
+The [decoherence challenge](/concepts/decoherence/) applies here: can quantum coherence survive in warm neural tissue long enough to matter? Recent research complicates the simple "no" that dominated earlier discussion—studies on microtubule-stabilizing drugs and quantum coherence in biological molecules suggest the question remains open. If the quantum Zeno mechanism operates through attention (which is neurally implemented in each hemisphere semi-independently), split-brain cases might reveal quantum selection occurring in parallel within each hemisphere, united only through the minimal surviving connections.
 
 ### Occam's Razor Has Limits Tenet
 

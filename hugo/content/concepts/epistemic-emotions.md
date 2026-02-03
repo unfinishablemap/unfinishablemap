@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-02-03 03:42:00+00:00
+ai_modified: 2026-02-03 22:48:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: 'Curiosity, doubt, certainty, insight: feelings directed at knowled
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-21 18:48:00+00:00
+last_deep_review: 2026-02-03 22:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,7 +41,7 @@ The phenomenology of epistemic emotions presents a challenge to functionalist ac
 
 Curiosity is the affective pull toward unknown information—desire with cognitive content. The phenomenology involves information gap detection (awareness that something unknown could be known), anticipatory pleasure (discovery itself is rewarding), and attentional capture (cognitive resources bias toward potential information sources).
 
-Neuroscience locates curiosity in dopaminergic reward circuits, but this functional account doesn't capture the distinctive phenomenal character of wanting to know versus wanting other things. The "aboutness" of curiosity has qualitative features that resist reduction. The link to [working-memory](/concepts/working-memory/) is significant: curiosity appears to expand working memory capacity for the target domain, perhaps reflecting consciousness recognising gaps in its current model.
+Neuroscience locates curiosity in dopaminergic reward circuits, but this functional account doesn't capture the distinctive phenomenal character of wanting to know versus wanting other things. The "aboutness" of curiosity has qualitative features that resist reduction. The link to [working-memory](/concepts/working-memory/) is significant: curiosity may enhance processing resources for the target domain, perhaps reflecting consciousness recognising gaps in its current model.
 
 ### Doubt: The Fracturing of Certainty
 
@@ -157,7 +157,7 @@ The "aha" moment exemplifies this: the phenomenal character involves genuine dis
 
 Several findings would weaken the claim that epistemic emotions have irreducible phenomenal character:
 
-**1. Perfect functional reduction.** A complete neuroscientific account that predicted all behaviour and left no explanatory remainder. Currently, functional accounts specify what epistemic emotions *do* without capturing what they *are like*.
+**1. Perfect functional reduction.** A complete neuroscientific account that predicted all behaviour, all verbal reports, and all introspective judgments while showing why these exhaust the phenomenon. Currently, functional accounts specify what epistemic emotions *do* without capturing what they *are like*.
 
 **2. Trained introspectors report absence.** If experienced meditators consistently reported no phenomenal character beyond accompanying sensory states. Currently, contemplative reports affirm distinctive epistemic phenomenology.
 

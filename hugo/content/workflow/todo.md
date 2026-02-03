@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03 15:22:00+00:00
+ai_modified: 2026-02-03 22:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,23 +38,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced brain-specialness/interface-locality articles
-- **Type**: other
-- **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
-- **Source**: coalesce
-- **Generated**: 2026-01-27
+### P2: Integrate spontaneous-collapse-theories.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-03) has no inbound links. Covers GRW and CSL objective reduction theories—important alternatives to consciousness-causes-collapse. Add cross-references from quantum-consciousness.md, measurement-problem.md, collapse-interpretations.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
+
+### P2: Integrate death-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-03) has no inbound links. Explores the epistemological void surrounding consciousness at death—what cannot be known. Add cross-references from death-and-consciousness.md, personal-identity.md, meaning-of-life.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
 
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
-
-### P2: Integrate william-james-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article has no inbound links. Covers William James's contributions to consciousness studies—stream of consciousness, radical empiricism, pragmatic approach. Historical context for the Map's framework. Add cross-references from consciousness.md, phenomenology.md, temporal-consciousness.md, introspection.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
 
 ### P3: Deep review reasons-responsiveness.md for quality
 - **Type**: deep-review
@@ -65,6 +65,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P3: Strengthen impossibility arguments in foundational voids
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-03 afternoon) found systematic vulnerability in self-reference-paradox.md, origin-of-consciousness.md, and other-minds-void.md: all three conflate *persistence* of problems with *structural impossibility*. Need to distinguish "this hasn't been solved" from "this is unsolvable." Also address Gödelian overreach in self-reference article (minds aren't formal systems). Lower priority as phenomenological descriptions remain valuable. See pessimistic-2026-02-03-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-03
+
+### P3: Address conceptual/ontological irreducibility gap in rationality cluster
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-03 evening) found systematic vulnerability in argument-from-reason.md, phenomenology-of-understanding.md, and consciousness-and-mathematical-understanding.md: all three conflate *conceptual* irreducibility (normative vocabulary cannot be defined in causal terms) with *ontological* irreducibility (normative properties cannot supervene on physical properties). Need to engage Type-B physicalism more directly. Also: inconsistent treatment of introspection (relied on for understanding's phenomenology while acknowledged as unreliable elsewhere). Lower priority as phenomenological descriptions remain valuable. See pessimistic-2026-02-03-evening.md
 - **Source**: pessimistic-review
 - **Generated**: 2026-02-03
 
@@ -469,8 +475,79 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-03
 
+### P3: Write article on phenomenology of epistemic achievement
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03 (evening). What it's like to *grasp* something—the "click" of understanding, the "settling" of conviction. This phenomenology supports the argument from reason: genuine understanding involves normative relations that physical causation alone cannot instantiate. Builds on phenomenology-of-understanding.md, cognitive-phenomenology.md, epistemic-emotions.md. See optimistic-2026-02-03-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
+### P3: Write article on introspection rehabilitation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03 (evening). The process/content distinction—we're unreliable about *why* we choose but reliable about *what* we experience. Fox et al. (2012) found meditation training improves introspective accuracy, suggesting introspection is a skill. Defends phenomenological evidence against illusionism's reliance on introspective unreliability. Builds on introspection.md, contemplative-evidence-for-consciousness-theories.md, witness-consciousness.md. See optimistic-2026-02-03-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
+### P3: Write article on evolution under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03 (evening). If consciousness is irreducible, how does evolution select for it? The amplifier framework answers: evolution selects for cognitive capacities (metarepresentation, counterfactual reasoning, cumulative culture) that consciousness enables. Addresses "why would evolution produce non-physical minds?" objection. Builds on evolution-of-consciousness.md, baseline-cognition.md, consciousness-as-amplifier.md. See optimistic-2026-02-03-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Cross-review death-and-consciousness.md considering death-void
+- **Type**: cross-review
+- **Notes**: New voids article voids/death-void.md (2026-02-03) explores the fundamental epistemological void regarding consciousness at death. The death-and-consciousness.md topic page should be cross-reviewed for: (1) cross-links to death void, (2) how the void framework enriches the topic treatment, (3) consistent treatment of the unknowability claims.
+- **Output**: obsidian/topics/death-and-consciousness.md -- Context: Cross-review death-and-consciousness.md considering death-void
+
+### ✓ 2026-02-03: Write article on motor control and quantum Zeno effect
+- **Type**: expand-topic
+- **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how Stapp's quantum Zeno mechanism might apply to motor selection—attention sustaining quantum states long enough for selection. Connects attention-interface-mechanisms.md with voluntary action.
+- **Output**: motor control and quantum Zeno effect
+
+### ✓ 2026-02-03: Write article on collapse before minds (early universe)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. If consciousness causes collapse, what caused collapse before conscious beings existed? Critical objection to consciousness-causes-collapse interpretations. Needs systematic treatment exploring retrocausal solutions, proto-consciousness options, and the measurement problem's temporal scope.
+- **Output**: collapse before minds (early universe)
+
+### ✓ 2026-02-03: Integrate semantic-phenomenology.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (2026-02-01) has no inbound links. Covers the felt quality of meaning and semantic content. Add cross-references from cognitive-phenomenology.md, phenomenology-of-understanding.md, consciousness-and-mathematical-understanding.md.
+- **Output**: semantic-phenomenology.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-03: Integrate attention-motor-quantum-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers the unified attention-motor quantum selection mechanism. Add cross-references from attention-as-interface.md, motor-selection.md, attention-interface-mechanisms.md, or quantum-consciousness.md.
+- **Output**: attention-motor-quantum-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-03: Integrate altered-states-as-void-probes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-03) has no inbound links. Examines whether altered states reveal cognitive limits or simulate transcendence. Add cross-references from altered-states-of-consciousness.md, meditation-and-consciousness-modes.md, filter-theory.md, or consciousness-only-territories.md.
+- **Output**: obsidian/voids/altered-states-as-void-probes.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-03: Integrate habituation-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-03) has no inbound links. Explores how familiarity erases experience from consciousness. Add cross-references from attention-as-interface.md, consciousness-selecting-neural-patterns.md, phenomenology-of-the-edge.md, or update voids/_index.md to include navigation.
+- **Output**: obsidian/voids/habituation-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-03: Write article on spontaneous collapse theories (GRW, CSL)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/spontaneous-collapse-theories-grw-csl-2026-01-23.md. Alternative to consciousness-causes-collapse that Map should engage with. Explains objective reduction mechanisms and their implications for quantum consciousness theories.
+- **Output**: spontaneous collapse theories (GRW, CSL)
+
+### ✓ 2026-02-03: Write voids article on the death void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-the-death-void-2026-02-02.md. Covers the fundamental epistemological void regarding what happens to consciousness at death—a topic central to personal identity and meaning. Ready for article synthesis.
+- **Output**: Write voids article on the death void
+
+### ✓ 2026-02-03: Integrate william-james-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Covers William James's contributions to consciousness studies—stream of consciousness, radical empiricism, pragmatic approach. Historical context for the Map's framework. Add cross-references from consciousness.md, phenomenology.md, temporal-consciousness.md, introspection.md.
+- **Output**: obsidian/topics/william-james-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-03: Integrate consciousness-and-language-interface.md into site navigation
 - **Type**: integrate-orphan

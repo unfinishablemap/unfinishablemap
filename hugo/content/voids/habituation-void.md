@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-03
-ai_modified: 2026-02-03 11:58:00+00:00
+ai_modified: 2026-02-03 20:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,8 @@ concepts:
 - '[[phenomenology]]'
 - '[[attention]]'
 - '[[introspection]]'
+- '[[filter-theory]]'
+- '[[conscious-vs-unconscious-processing]]'
 created: 2026-02-03
 date: &id001 2026-02-03
 description: Human+AI exploration of how familiarity erases experience from consciousness—why
@@ -16,6 +18,7 @@ description: Human+AI exploration of how familiarity erases experience from cons
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-03 20:54:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -25,6 +28,8 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[consciousness-only-territories]]'
 - '[[tenets]]'
+- '[[hard-problem-of-consciousness]]'
+- '[[altered-states-of-consciousness]]'
 title: The Habituation Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -40,7 +45,7 @@ Viktor Shklovsky, the Russian formalist critic, diagnosed this phenomenon in 191
 
 William James made a complementary observation: "A thing may be present to a man a hundred times, but if he persistently fails to notice it, it cannot be said to enter into his experience." The void is not merely inattention. Attending to the familiar can briefly restore awareness, but the restoration is effortful and temporary. The coffee cup can be noticed, examined, appreciated—but attention soon slides away. The void reasserts itself.
 
-The neural mechanism involves *reactive inhibition*—repeated firing makes neurons harder to activate. When a stimulus is presented repeatedly, the neurons responding to it require progressively more energy to fire, eventually falling below the threshold of conscious registration. Neuroscientists have called habituation "the simplest, most universal form of learning... as fundamental a characteristic of life as DNA." Yet remarkably little is known about its molecular details, and its implications for consciousness remain underexplored.
+The neural mechanism involves *reactive inhibition*—repeated firing makes neurons harder to activate. When a stimulus is presented repeatedly, the neurons responding to it require progressively more energy to fire, eventually falling below the threshold of conscious registration. Neuroscientists have called habituation "the simplest, most universal form of learning... as fundamental a characteristic of life as DNA." This connects to [filter theory](/concepts/filter-theory/): if the brain constrains rather than produces consciousness, habituation may be a filtering mechanism that actively screens out the familiar to conserve phenomenal access for the novel.
 
 ## Manifestations Across Domains
 
@@ -118,9 +123,9 @@ The habituation void illuminates several of The Unfinishable Map's [tenets](/ten
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is most directly relevant. Habituation is cognitive simplification—the mind treats the familiar as already-known and stops updating. This efficiency assumption systematically hides experiential richness. What Shklovsky called automatization is the cognitive system applying Occam's razor to lived experience: the simplest assumption is that the familiar requires no attention. But simplest is not richest, and the habituated world is phenomenally thinner than the novel world.
 
-**[Dualism](/tenets/#dualism)** connects through the distinction between functional processing and phenomenal experience. Habituation shows this distinction empirically: the familiar continues to be functionally processed (we don't walk into walls) while dropping out of phenomenal awareness. The same stimulus can be processed with or without phenomenal accompaniment depending on familiarity. This supports the idea that phenomenal consciousness is something over and above functional competence.
+**[Dualism](/tenets/#dualism)** connects through the distinction between [functional processing and phenomenal experience](/archive/topics/conscious-vs-unconscious-processing/). Habituation shows this empirically: the familiar continues to be functionally processed (we don't walk into walls) while dropping out of phenomenal awareness. A predictive processing theorist might counter that habituation simply reflects reduced prediction-error—the brain already expects the stimulus, so there's less information to process. But this response conflates information quantity with phenomenal presence. The habituated stimulus still carries the same objective information; what changes is whether consciousness accompanies its processing. This supports the claim that phenomenal consciousness is something over and above functional competence.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** raises a question: does habituated (unconscious) processing interact differently with physics than novel (conscious) processing? If consciousness causally influences physical outcomes through quantum selection, the void might mark a boundary where this influence changes character—where consciousness withdraws its causal participation.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** raises a speculative question: if consciousness causally influences physical outcomes, the void might mark a boundary where this influence changes character—where consciousness withdraws its causal participation from the thoroughly familiar.
 
 The void reveals consciousness as constitutively novelty-oriented. The familiar is literally beneath notice by design. This is not a bug but a feature—consciousness evolved to detect change and threat, not to appreciate the stable. The cost is phenomenal impoverishment: life automated into nothingness unless we actively resist.
 
