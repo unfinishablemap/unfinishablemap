@@ -33,7 +33,7 @@ The [[voids]] framework distinguishes three types of cognitive limit: the Unexpl
 
 ### Psychological Defense Mechanisms
 
-The clearest evidence that minds can be blocked comes from psychology. Defence mechanisms—repression, denial, information avoidance—are well-documented. Repression blocks unacceptable thoughts before they reach consciousness; the content exists but cannot be retrieved. Denial refuses recognition of obvious realities—medical patients deny terminal diagnoses, addicts deny addiction. Information avoidance has been systematically documented: people deliberately avoid freely available information that might be undesirable.
+The clearest evidence that minds can be blocked comes from psychology. Defence mechanisms—repression, denial, information avoidance—are well-documented. Repression blocks unacceptable thoughts before they reach consciousness; the content exists but cannot be retrieved. Denial refuses recognition of obvious realities—medical patients deny terminal diagnoses, addicts deny addiction. Information avoidance has been systematically documented: people deliberately avoid freely available information that might be undesirable. [[cognitive-aversion|Cognitive aversion]] represents a related phenomenon: systematic deflection from threatening content (especially death and cosmic insignificance) that operates before conscious awareness.
 
 These mechanisms are well-established. Minds *can* be defended—and the defence is often invisible to the defended mind.
 

@@ -92,7 +92,7 @@ This connects to the distinction between what Uriah Kriegel calls "representatio
 
 The phenomenology of the edge offers several insights for understanding consciousness:
 
-**Cognitive limits have experiential signatures.** We do not simply fail to think certain thoughts. We have distinctive experiences when approaching what we cannot think. The void is not mere absence but has positive phenomenological features.
+**Cognitive limits have experiential signatures.** We do not simply fail to think certain thoughts. We have distinctive experiences when approaching what we cannot think. The void is not mere absence but has positive phenomenological features. [[cognitive-aversion|Cognitive aversion]] maps these signatures in detail: the slide (attention deflecting), the substitution (replacement thoughts appearing), the glaze (intellectual registration without emotional connection), the discomfort (phenomenological marker of approaching defended content), and the rationalization (justification arriving after flight).
 
 **Content obscures as much as it reveals.** The edge-clarity paradox suggests that ordinary conceptual processing may actively hide something. When concepts fall away, a different kind of seeing becomes possible—not better or worse, but different. The [[filter-theory|filter theory]] of consciousness—brain as receiver rather than producer—predicts exactly this: reduce the filtering, and a wider range of experience becomes accessible.
 

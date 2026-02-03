@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate cognitive-aversion.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Voids article (2026-02-02) has no inbound links. Covers how minds actively avoid certain thoughts—cognitive territories we could access but don't. Add cross-references from defended-territory.md, phenomenology-of-the-edge.md, introspective-opacity.md, death-void.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P2: Integrate dream-consciousness-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Voids article (2026-02-02) has no inbound links. Explores the void at the boundary between waking and dream consciousness—what cannot be known about dream phenomenology. Add cross-references from dreams-and-consciousness.md, dreamless-sleep-void.md, lucid-dreaming-and-consciousness.md, witness-consciousness.md.
@@ -467,6 +461,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate cognitive-aversion.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-02) has no inbound links. Covers how minds actively avoid certain thoughts—cognitive territories we could access but don't. Add cross-references from defended-territory.md, phenomenology-of-the-edge.md, introspective-opacity.md, death-void.md.
+- **Output**: obsidian/voids/cognitive-aversion.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-03: Write article on probability-intuition-void
 - **Type**: expand-topic

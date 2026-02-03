@@ -2,10 +2,11 @@
 title: "Cognitive Aversion"
 description: "Human+AI exploration of thoughts we systematically flee—not cognitively closed, but motivationally deflected. The territory between Unexplored and Occluded."
 created: 2026-02-02
-modified: 2026-02-02
+modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-02-02T07:43:00+00:00
+ai_modified: 2026-02-03T06:52:00+00:00
 draft: false
+last_deep_review: 2026-02-03T06:52:00+00:00
 topics: []
 concepts:
   - "[[mysterianism]]"
@@ -18,6 +19,9 @@ related_articles:
   - "[[thoughts-that-slip-away]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[three-kinds-of-void]]"
+  - "[[death-void]]"
+  - "[[death-and-consciousness]]"
+  - "[[voids-cognitive-aversion-2026-02-01]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

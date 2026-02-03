@@ -26,6 +26,7 @@ related_articles:
   - "[[past-self-void]]"
   - "[[consciousness-only-territories]]"
   - "[[death-and-consciousness]]"
+  - "[[cognitive-aversion]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -89,7 +90,7 @@ Several lines of evidence suggest the death void is genuinely unexplorable rathe
 
 **Developmental evidence**: Children naturally assume psychological continuity after death. Jesse Bering's research demonstrates that when asked what a dead mouse can and cannot do, children confidently deny physical processes (eating, moving) but continue to attribute mental states (missing its mother, knowing it is dead). The belief that mind continues appears cognitively default, not culturally acquired. The void is built into how minds represent themselves.
 
-**Psychological evidence**: Terror Management Theory, based on Ernest Becker's work, has generated thirty years of research showing humans systematically avoid, deny, and defend against death awareness. This reflects cognitive inability to process the concept directly, not mere preference.
+**Psychological evidence**: Terror Management Theory, based on Ernest Becker's work, has generated thirty years of research showing humans systematically avoid, deny, and defend against death awareness. This reflects [[cognitive-aversion|cognitive aversion]]—the systematic deflection of attention from mortality that precedes conscious awareness.
 
 **Logical structure**: The no-subject problem in philosophy of death reveals that harm requires a subject to be harmed, a harm to be suffered, and a time of suffering. Death provides none of these coherently. The difficulty is structural, not contingent.
 
