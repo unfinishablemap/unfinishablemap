@@ -4,7 +4,7 @@ description: "Curiosity, doubt, certainty, insight: feelings directed at knowled
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-03T03:42:00+00:00
+ai_modified: 2026-02-03T22:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-21
 last_curated: null
-last_deep_review: 2026-01-21T18:48:00+00:00
+last_deep_review: 2026-02-03T22:48:00+00:00
 ---
 
 Epistemic emotions are feelings directed at knowledge itself—curiosity about what we don't know, certainty about what we think we know, doubt when beliefs falter, confusion when understanding fails, and the distinctive satisfaction of insight. These emotions evaluate our own cognitive states: they are consciousness monitoring its relationship to truth. Unlike emotions directed at the external world (fear of a threat, joy at good news), epistemic emotions concern our position as knowers.
@@ -39,7 +39,7 @@ The phenomenology of epistemic emotions presents a challenge to functionalist ac
 
 Curiosity is the affective pull toward unknown information—desire with cognitive content. The phenomenology involves information gap detection (awareness that something unknown could be known), anticipatory pleasure (discovery itself is rewarding), and attentional capture (cognitive resources bias toward potential information sources).
 
-Neuroscience locates curiosity in dopaminergic reward circuits, but this functional account doesn't capture the distinctive phenomenal character of wanting to know versus wanting other things. The "aboutness" of curiosity has qualitative features that resist reduction. The link to [[working-memory]] is significant: curiosity appears to expand working memory capacity for the target domain, perhaps reflecting consciousness recognising gaps in its current model.
+Neuroscience locates curiosity in dopaminergic reward circuits, but this functional account doesn't capture the distinctive phenomenal character of wanting to know versus wanting other things. The "aboutness" of curiosity has qualitative features that resist reduction. The link to [[working-memory]] is significant: curiosity may enhance processing resources for the target domain, perhaps reflecting consciousness recognising gaps in its current model.
 
 ### Doubt: The Fracturing of Certainty
 
@@ -155,7 +155,7 @@ The "aha" moment exemplifies this: the phenomenal character involves genuine dis
 
 Several findings would weaken the claim that epistemic emotions have irreducible phenomenal character:
 
-**1. Perfect functional reduction.** A complete neuroscientific account that predicted all behaviour and left no explanatory remainder. Currently, functional accounts specify what epistemic emotions *do* without capturing what they *are like*.
+**1. Perfect functional reduction.** A complete neuroscientific account that predicted all behaviour, all verbal reports, and all introspective judgments while showing why these exhaust the phenomenon. Currently, functional accounts specify what epistemic emotions *do* without capturing what they *are like*.
 
 **2. Trained introspectors report absence.** If experienced meditators consistently reported no phenomenal character beyond accompanying sensory states. Currently, contemplative reports affirm distinctive epistemic phenomenology.
 
