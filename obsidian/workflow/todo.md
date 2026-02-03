@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Cross-review personal-identity.md considering dreamless-sleep-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/dreamless-sleep-void.md (2026-02-02) explores where consciousness goes during dreamless sleep and the Advaita Vedanta sushupti/turiya analysis. The personal-identity.md topic page discusses continuity of consciousness over time. Cross-review for: (1) cross-links to dreamless sleep void, (2) how gaps in consciousness affect identity claims, (3) relationship between dreamless sleep and the "no-self" experienced in deep meditation.
-- **Source**: chain (from dreamless-sleep-void.md)
-- **Generated**: 2026-02-03
-
 ### P2: Cross-review time-symmetric-physics.md considering presentiment article
 - **Type**: cross-review
 - **Notes**: New article topics/presentiment-and-retrocausality.md (2026-02-02) explores whether quantum retrocausality could underlie presentiment phenomena. The time-symmetric-physics.md concept page discusses retrocausal interpretations of QM. Cross-review for: (1) cross-links to the presentiment treatment, (2) how empirical presentiment evidence relates to theoretical retrocausality, (3) ensuring consistent treatment of Aharonov's two-state vector formalism.
@@ -473,6 +467,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Cross-review personal-identity.md considering dreamless-sleep-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/dreamless-sleep-void.md (2026-02-02) explores where consciousness goes during dreamless sleep and the Advaita Vedanta sushupti/turiya analysis. The personal-identity.md topic page discusses continuity of consciousness over time. Cross-review for: (1) cross-links to dreamless sleep void, (2) how gaps in consciousness affect identity claims, (3) relationship between dreamless sleep and the "no-self" experienced in deep meditation.
+- **Output**: obsidian/topics/personal-identity.md -- Context: Cross-review personal-identity.md considering dreamless-sleep-void insights
 
 ### ✓ 2026-02-03: Cross-review phenomenology-of-the-edge.md considering scale-void insights
 - **Type**: cross-review
