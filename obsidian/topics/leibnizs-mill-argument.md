@@ -4,8 +4,8 @@ description: "Leibniz's 1714 thought experiment imagines walking through an enla
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-02T11:07:00+00:00
-last_deep_review: 2026-02-01T20:30:00+00:00
+ai_modified: 2026-02-02T23:57:00+00:00
+last_deep_review: 2026-02-02T23:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

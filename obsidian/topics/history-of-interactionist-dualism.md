@@ -4,7 +4,7 @@ description: "From Descartes through Princess Elizabeth to quantum mechanics: ho
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-02T11:07:00+00:00
+ai_modified: 2026-02-02T23:57:00+00:00
 last_deep_review: 2026-02-02T11:07:00+00:00
 draft: false
 topics:
@@ -56,6 +56,8 @@ Descartes had no satisfying answer to either. Defenders of interactionism would 
 ## The Leibniz Closure (1690s)
 
 Gottfried Wilhelm Leibniz transformed the interaction problem from a conceptual puzzle into what appeared to be an empirical refutation. His argument from conservation of momentum: if the mind causes the body to move, it must add momentum to the physical world. But physics shows momentum is conserved—the total momentum of a closed system remains constant. Mental causation would violate this fundamental law.
+
+Leibniz also offered an independent argument against materialism itself: his famous [[leibnizs-mill-argument|mill argument]]. Walking through an enlarged brain, we would find only mechanical parts—never perception itself. This argument targets the reducibility of consciousness to mechanism, complementing his conservation objection to interaction.
 
 This argument seemed devastating. Unlike Elizabeth's conceptual worry, Leibniz pointed to a testable prediction: interactionism implies conservation violations that should be detectable. Since no such violations appear, interactionism is empirically refuted.
 

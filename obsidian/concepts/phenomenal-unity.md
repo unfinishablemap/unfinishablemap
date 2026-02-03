@@ -4,7 +4,7 @@ description: "Why conscious experiences come as integrated wholes rather than se
 created: 2026-01-19
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-31T05:33:00+00:00
+ai_modified: 2026-02-02T23:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -84,7 +84,7 @@ The stronger response: unity may be a precondition for illusion. An illusion req
 
 ### Leibniz's Insight
 
-Leibniz raised this problem in his "mill" argument. Imagine walking through a brain enlarged to mill-size. You would see mechanical parts interacting—neurons firing, chemicals diffusing. But nowhere would you find a unified *experience*. The physical system consists of parts external to each other; experience is unified without parts in that sense.
+Leibniz raised this problem in his [[leibnizs-mill-argument|mill argument]]. Imagine walking through a brain enlarged to mill-size. You would see mechanical parts interacting—neurons firing, chemicals diffusing. But nowhere would you find a unified *experience*. The physical system consists of parts external to each other; experience is unified without parts in that sense.
 
 This is not merely the hard problem in disguise. The hard problem asks why any experience exists at all. The unity problem asks why experience, if it exists, is unified rather than fragmentary. Even granting that neurons somehow produce quale-like states, why would those states belong together rather than float as separate consciousnesses?
 
