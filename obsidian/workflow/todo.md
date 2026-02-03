@@ -97,6 +97,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-02-02
 
+### P3: Strengthen impossibility arguments in foundational voids
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-03 afternoon) found systematic vulnerability in self-reference-paradox.md, origin-of-consciousness.md, and other-minds-void.md: all three conflate *persistence* of problems with *structural impossibility*. Need to distinguish "this hasn't been solved" from "this is unsolvable." Also address Gödelian overreach in self-reference article (minds aren't formal systems). Lower priority as phenomenological descriptions remain valuable. See pessimistic-2026-02-03-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-03
+
 ### P3: Deep review process-and-consciousness.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on process philosophy's account of consciousness. Check philosophical accuracy, ensure alignment with Map's dualist framework, verify connections to temporal-consciousness.md.
