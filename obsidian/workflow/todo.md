@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03T00:12:00+00:00
+ai_modified: 2026-02-03T02:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Condense prospective-memory.md (3616 words, 103% of hard threshold)
+- **Type**: condense
+- **Notes**: Concept article exceeds 3500-word hard threshold for concepts/. Preserve core treatment of future-directed memory while removing redundancy. Check for content that could be deferred to linked articles like episodic-memory.md, working-memory.md.
+- **Source**: length_analysis
+- **Generated**: 2026-02-03
+
+### P2: Condense epistemic-emotions.md (3601 words, 103% of hard threshold)
+- **Type**: condense
+- **Notes**: Concept article exceeds 3500-word hard threshold for concepts/. Preserve treatment of feelings-of-knowing, curiosity, and epistemic agency while removing redundancy. Check for content that could be deferred to linked articles.
+- **Source**: length_analysis
+- **Generated**: 2026-02-03
+
+### P2: Condense interactionist-dualism.md (3591 words, 103% of hard threshold)
+- **Type**: condense
+- **Notes**: Core concept article exceeds 3500-word hard threshold. This is a foundational article for the Map. Preserve essential arguments while removing redundancy. Check for content already covered in related articles like arguments-for-dualism.md, conservation-laws-and-mind.md.
+- **Source**: length_analysis
+- **Generated**: 2026-02-03
+
+### P2: Condense embodied-cognition.md (3582 words, 102% of hard threshold)
+- **Type**: condense
+- **Notes**: Concept article exceeds 3500-word hard threshold for concepts/. Preserve treatment of body-mind relationship while removing redundancy. Check for content that could be deferred to brain-interface-boundary.md or other linked articles.
+- **Source**: length_analysis
+- **Generated**: 2026-02-03
+
+### P2: Condense phenomenal-consciousness.md (3582 words, 102% of hard threshold)
+- **Type**: condense
+- **Notes**: Core concept article exceeds 3500-word hard threshold. Foundational concept for the Map. Preserve essential distinctions (phenomenal vs access consciousness) while removing redundancy. Check for content already covered in consciousness.md, qualia.md.
+- **Source**: length_analysis
+- **Generated**: 2026-02-03
 
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
