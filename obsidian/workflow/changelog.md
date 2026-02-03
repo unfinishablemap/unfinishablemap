@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 21:50 UTC - deep-review
+- **Status**: Skipped (already coalesced)
+- **File**: semantic-phenomenology.md
+- **Notes**: This file was coalesced into [[concepts/cognitive-phenomenology]] on 2026-02-02. The orphan integration task in todo.md was stale—the archived file at archive/concepts/semantic-phenomenology.md correctly points to its replacement. Removed the stale task from todo.md. No review needed; content already integrated.
+
+---
+
 ## 2026-02-03 21:38 UTC - deep-review
 - **Status**: Skipped (archived file)
 - **File**: attention-motor-quantum-selection.md

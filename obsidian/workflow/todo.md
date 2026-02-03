@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate semantic-phenomenology.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concepts article (2026-02-01) has no inbound links. Covers the felt quality of meaning and semantic content. Add cross-references from cognitive-phenomenology.md, phenomenology-of-understanding.md, consciousness-and-mathematical-understanding.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
-### P2: Update references to coalesced brain-specialness/interface-locality articles
-- **Type**: other
-- **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
-- **Source**: coalesce
-- **Generated**: 2026-01-27
-
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
@@ -476,6 +464,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate semantic-phenomenology.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (2026-02-01) has no inbound links. Covers the felt quality of meaning and semantic content. Add cross-references from cognitive-phenomenology.md, phenomenology-of-understanding.md, consciousness-and-mathematical-understanding.md.
+- **Output**: semantic-phenomenology.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-03: Integrate attention-motor-quantum-selection.md into site navigation
 - **Type**: integrate-orphan
