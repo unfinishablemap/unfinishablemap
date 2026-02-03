@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenal-unity-and-the-binding-problem.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article has no inbound links. Covers phenomenal unity's challenge to physicalism through the binding problem lens—directly supports Dualism tenet. Add cross-references from binding-problem.md, unity-of-consciousness.md, why-phenomenal-unity-resists-explanation.md, hard-problem-of-consciousness.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P2: Cross-review attentional-economics.md considering habituation void insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/habituation-void.md (2026-02-03) explores why the familiar becomes invisible to consciousness. The attentional-economics.md concept should be cross-reviewed for: (1) cross-links to habituation void, (2) how habituation affects attentional budget allocation, (3) relationship between attentional habituation and agency limits.
@@ -482,6 +476,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate phenomenal-unity-and-the-binding-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Covers phenomenal unity's challenge to physicalism through the binding problem lens—directly supports Dualism tenet. Add cross-references from binding-problem.md, unity-of-consciousness.md, why-phenomenal-unity-resists-explanation.md, hard-problem-of-consciousness.md.
+- **Output**: phenomenal-unity-and-the-binding-problem.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-03: Integrate attention-motor-quantum-selection.md into site navigation
 - **Type**: integrate-orphan

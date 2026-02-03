@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 14:53 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: phenomenal-unity-and-the-binding-problem.md
+- **Notes**: File was archived on 2026-02-02 and superseded by [[concepts/binding-problem]]. Archived articles should not be reviewed—their content now lives in the replacement article. The "orphan" status is expected for archived files.
+
+---
+
 ## 2026-02-03 14:37 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full corpus (68 topics, 100+ concepts, 1 tenets file)
