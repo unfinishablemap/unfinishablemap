@@ -4,7 +4,7 @@ description: "Free will, quantum collapse, and time's arrow interlink. If consci
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-30T22:35:00+00:00
+ai_modified: 2026-02-03T02:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -230,6 +230,7 @@ This synthesis strengthens and deepens each of the five tenets:
 
 - [[collapse-and-time]] — How collapse introduces temporal asymmetry
 - [[retrocausality]] — Time-symmetric physics and backward causation
+- [[presentiment-and-retrocausality]] — Why physics-based retrocausality doesn't rest on contested parapsychology
 - [[duration]] — Bergson's qualitative time and the phenomenology of flow
 - [[temporal-consciousness]] — Broader treatment of time in consciousness
 - [[specious-present]] — The experienced duration of "now" and the extensionalism debate
