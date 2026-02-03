@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 17:07 UTC - research-voids
+- **Status**: Success
+- **Topic**: Altered States as Void Probes
+- **Category**: Mixed (Unexplored / Unexplorable / Occluded)
+- **Output**: [[research/voids-altered-states-as-void-probes-2026-02-03]]
+- **Key finding**: ASCs (psychedelics, meditation, NDEs) may probe cognitive limits through the "reducing valve" mechanism (Bergson/Huxley), but whether they provide genuine epistemic access or merely generate the phenomenology of transcendence remains undetermined.
+
+---
+
 ## 2026-02-03 16:53 UTC - condense
 - **Status**: Reviewed, no condensation applied
 - **File**: [[concepts/functionalism]]
