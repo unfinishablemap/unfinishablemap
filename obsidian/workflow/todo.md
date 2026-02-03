@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review death-and-consciousness.md considering death-void
-- **Type**: cross-review
-- **Notes**: New voids article voids/death-void.md (2026-02-03) explores the fundamental epistemological void regarding consciousness at death. The death-and-consciousness.md topic page should be cross-reviewed for: (1) cross-links to death void, (2) how the void framework enriches the topic treatment, (3) consistent treatment of the unknowability claims.
-- **Source**: chain
-- **Generated**: 2026-02-03
-
 ### P2: Integrate spontaneous-collapse-theories.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-03) has no inbound links. Covers GRW and CSL objective reduction theories—important alternatives to consciousness-causes-collapse. Add cross-references from quantum-consciousness.md, measurement-problem.md, collapse-interpretations.md.
@@ -503,6 +497,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Cross-review death-and-consciousness.md considering death-void
+- **Type**: cross-review
+- **Notes**: New voids article voids/death-void.md (2026-02-03) explores the fundamental epistemological void regarding consciousness at death. The death-and-consciousness.md topic page should be cross-reviewed for: (1) cross-links to death void, (2) how the void framework enriches the topic treatment, (3) consistent treatment of the unknowability claims.
+- **Output**: obsidian/topics/death-and-consciousness.md -- Context: Cross-review death-and-consciousness.md considering death-void
 
 ### ✓ 2026-02-03: Write article on motor control and quantum Zeno effect
 - **Type**: expand-topic
