@@ -4,7 +4,7 @@ description: "The experiential structure of deliberation and decision-making: fe
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-03T09:11:00+00:00
+ai_modified: 2026-02-03T12:10:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -59,7 +59,7 @@ This settling can be gradual or sudden:
 - **Gradual resolution**: The preferred option emerges slowly, gaining felt momentum until its actualisation seems almost inevitable
 - **Sudden decision**: Alternatives remain equipoised until a discrete moment when one becomes actual—sometimes surprising even the chooser
 
-Both patterns share the same structure: genuine openness followed by determinate actualisation. Gradual decisions feel less effortful; sudden decisions often feel more *willed*, as though the agent intervened at the decisive moment. Yet in neither case can we observe *how* intention becomes action—the mechanism is phenomenologically invisible. This is the [[causal-interface|causal interface void]]: we experience ourselves as causes but cannot access the interface that makes causation possible.
+Both patterns share the same structure: genuine openness followed by determinate actualisation. Gradual decisions feel less effortful; sudden decisions often feel more *willed*, as though the agent intervened at the decisive moment. Yet in neither case can we observe *how* intention becomes action—the mechanism is phenomenologically invisible. This is the [[causal-interface|causal interface void]]: we experience ourselves as causes but cannot access the interface that makes causation possible. The [[phenomenology-of-intellectual-effort|phenomenology of intellectual effort]] examines a parallel case: the effort of reasoning, where consciousness works to hold premises together and trace implications, with similar opacity about how this effort translates into cognitive outcomes.
 
 The [[retrocausality|retrocausal]] dimension adds complexity. If selection operates atemporally—determining which history becomes real—the phenomenology of deciding "now" may be how atemporal selection manifests to time-bound consciousness.
 

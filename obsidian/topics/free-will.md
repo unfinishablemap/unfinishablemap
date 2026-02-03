@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-03T09:11:00+00:00
+ai_modified: 2026-02-03T12:10:00+00:00
 last_deep_review: 2026-02-02T11:22:00+00:00
 draft: false
 topics:
@@ -68,7 +68,7 @@ The Map's response is [[agent-causation|agent-causal]]: the agent *as persisting
 
 Three lines of evidence support genuine agent causation:
 
-1. **Phenomenology of effort**: Choosing feels effortful. If choices were random fluctuations, there would be no phenomenology of effort—nothing to explain why hard choices feel hard.
+1. **Phenomenology of effort**: Choosing feels effortful. If choices were random fluctuations, there would be no phenomenology of effort—nothing to explain why hard choices feel hard. The [[phenomenology-of-intellectual-effort|phenomenology of intellectual effort]] extends this to reasoning: the strain of holding premises, tracing implications, and resisting premature closure all have distinctive phenomenal character that tracks genuine cognitive work.
 2. **Reasons-guidance**: Selection responds to what matters to the agent. Reasons *influence* (though don't determine) which outcome actualizes.
 3. **Distinctive neural signatures**: Willed actions show frontal theta oscillations and bidirectional coherence that automatic processes lack. The subjective sense of authorship tracks genuine differences in neural organisation.
 

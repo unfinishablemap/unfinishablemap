@@ -4,7 +4,7 @@ description: "Thinking hard feels like work. The experience of reasoning—holdi
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T20:00:00+00:00
+ai_modified: 2026-02-03T12:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-02-01T20:00:00+00:00
+last_deep_review: 2026-02-03T12:10:00+00:00
 ---
 
 Reasoning is work. Following a complex argument, holding premises in mind while tracing implications, grasping *why* a conclusion follows from its grounds—these activities have distinctive phenomenology: the experience of intellectual effort. This is not merely the attentional effort of staying focused (covered in [[mental-effort]]). It is the specific work of thinking itself—the strain of logic, the reach for coherence, the weight of keeping inferential threads connected.

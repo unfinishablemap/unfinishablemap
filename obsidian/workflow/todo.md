@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate phenomenology-of-intellectual-effort.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-01) has no inbound links. First-person analysis of reasoning experience—foundational phenomenological evidence for Map's perspective. Distinguishes logical necessity from mere correlation. Add cross-references from argument-from-reason.md, mental-effort.md, phenomenological-evidence-methodology.md, free-will.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P2: Deep review incompleteness-void.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores Gödel's incompleteness theorems as cognitive limit—truths formal systems cannot prove about themselves. Lucas-Penrose argument that Gödel implies minds aren't computational. Check philosophical accuracy, verify connection to consciousness-and-mathematical-understanding.md.
@@ -461,6 +455,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate phenomenology-of-intellectual-effort.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. First-person analysis of reasoning experience—foundational phenomenological evidence for Map's perspective. Distinguishes logical necessity from mere correlation. Add cross-references from argument-from-reason.md, mental-effort.md, phenomenological-evidence-methodology.md, free-will.md.
+- **Output**: obsidian/topics/phenomenology-of-intellectual-effort.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-03: Write article on habituation void
 - **Type**: expand-topic

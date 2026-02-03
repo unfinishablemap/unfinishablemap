@@ -4,7 +4,7 @@ description: "Understanding has distinctive phenomenal character—the click of 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-02T04:14:00+00:00
+ai_modified: 2026-02-03T12:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -58,7 +58,7 @@ Not all understanding clicks. Complex texts reveal meaning gradually—understan
 
 **Anticipation.** Incomplete understanding carries forward-directed expectation—you sense where the argument is heading before it arrives.
 
-**Effort.** Holding incomplete structure is effortful—the felt work of keeping elements accessible while processing continues. This effort has qualitative character distinguishable from physical tiredness.
+**Effort.** Holding incomplete structure is effortful—the felt work of keeping elements accessible while processing continues. This effort has qualitative character distinguishable from physical tiredness. See [[phenomenology-of-intellectual-effort]] for detailed analysis of reasoning effort's distinctive phenomenology—the strain of logic, the grip of necessity, the work of integration.
 
 Bergson's concept of [[duration|durée]] illuminates gradual understanding. Lived time involves interpenetration: past, present, and future aren't separate moments but aspects of a unified experiential flow. Understanding a complex sentence involves durée—earlier words echo in present processing while anticipated completion shapes current comprehension. The meaning emerges from this temporal interpenetration, not from isolated snapshots combined mechanically.
 

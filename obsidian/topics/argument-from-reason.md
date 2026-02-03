@@ -4,7 +4,7 @@ description: "If thoughts are fully explained by physical causes, no belief is r
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-02-02T17:57:00+00:00
+ai_modified: 2026-02-03T12:10:00+00:00
 draft: false
 last_deep_review: 2026-02-02T17:57:00+00:00
 topics:
@@ -80,7 +80,7 @@ This "seeing as" requires [[phenomenal-consciousness]]: the subjective awareness
 
 This connects to Thomas Nagel's analysis in [[objectivity-and-consciousness]]: objective knowledge requires a subject capable of distinguishing how things appear from how they are. But that very distinction presupposes phenomenal consciousness—the capacity to recognize that appearances can mislead. The argument from reason shows this capacity has causal efficacy: our reasoning *about* the objective/subjective distinction influences what we believe. If consciousness were epiphenomenal, the coincidence between what's logically warranted and what we believe would be inexplicable.
 
-This connects the argument from reason to [[agent-causation]]: rational inference isn't just neural activity that happens to track truth; it's an agent recognizing logical relationships and *choosing* to affirm the conclusion *because* it follows. That "because" marks the irreducible contribution of consciousness to reasoning.
+This connects the argument from reason to [[agent-causation]]: rational inference isn't just neural activity that happens to track truth; it's an agent recognizing logical relationships and *choosing* to affirm the conclusion *because* it follows. That "because" marks the irreducible contribution of consciousness to reasoning. The [[phenomenology-of-intellectual-effort|phenomenology of intellectual effort]] provides the experiential evidence: the strain of holding premises together, the grip of logical necessity, the work of tracing implications—this is what tracking normative relationships *feels like* from inside.
 
 ## Plantinga's Evolutionary Argument: A Complementary Challenge
 
