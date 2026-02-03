@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-03 13:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: Why indeterminism seems to threaten free will as much as determinis
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-21 03:00:00+00:00
+last_deep_review: 2026-02-03 13:52:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -116,13 +116,13 @@ The luck objection would succeed if: (1) consciousness doesn't actually select q
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) argue that "phenomenology of effort" is a functional representation, not evidence of non-physical causation. But the illusionist account faces a regress: saying the feeling of effort is a "representation" presupposes something experiencing it. That something cannot be another representation without infinite regress. As Tallis argues, "misrepresentation presupposes presentation."
+[Illusionists](/concepts/illusionism/) argue that "phenomenology of effort" is a functional representation, not evidence of non-physical causation. But the illusionist account faces a regress: saying the feeling of effort is a "representation" presupposes something experiencing it. That something cannot be another representation without infinite regress—misrepresentation presupposes presentation.
 
-The [introspection literature](/concepts/introspection/) identifies where reports fail (causal processes, decision justification) but also where they succeed (basic phenomenal states, effort). The convergence of phenomenological report with neural signature (frontal theta for willed attention, PCC deactivation during effortless awareness) suggests introspection tracks something real.
+The [introspection literature](/concepts/introspection/) identifies where reports fail (causal processes, decision justification) but also where they succeed (basic phenomenal states, effort). The convergence of phenomenological report with neural signature suggests introspection tracks something real.
 
 ## The Decoherence Challenge
 
-Warm neural tissue [decoheres](/concepts/decoherence/) quantum superpositions in femtoseconds, far too fast for the 300ms attention deployment to exploit. Three mitigations: (1) Decoherence doesn't solve the measurement problem—something must still select which outcome becomes actual. (2) The Zeno mechanism requires rapid observation events, not sustained coherence between them. (3) Quantum biology has revealed coherence effects in warm systems that Tegmark's calculations ruled out—photosynthesis, avian magnetoreception, and the 2024 epothilone B study showing microtubule-stabilizers extend time to anesthetic-induced unconsciousness. The categorical objection is refuted, though neural applications remain open.
+Warm neural tissue [decoheres](/concepts/decoherence/) quantum superpositions in femtoseconds, far too fast for the 300ms attention deployment to exploit. Three mitigations: (1) Decoherence doesn't solve the measurement problem—something must still select which outcome becomes actual. (2) The Zeno mechanism requires rapid observation events, not sustained coherence between them. (3) Quantum biology has revealed coherence effects in warm systems that Tegmark's calculations ruled out—photosynthesis, avian magnetoreception, and the 2024 epothilone B study showing microtubule-stabilizers extend time to anesthetic-induced unconsciousness. The categorical objection has been significantly weakened, though neural applications remain open.
 
 ## Contemplative Evidence
 

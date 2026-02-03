@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-02 00:56:00+00:00
+ai_modified: 2026-02-03 12:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -77,7 +77,7 @@ Hearing the word "bank" and understanding it as a financial institution versus a
 
 ### Sudden Insight
 
-"Aha" moments have phenomenal character that precedes any accompanying imagery or emotional response. [Mathematical insight](/topics/consciousness-and-mathematical-understanding/) provides the paradigm case: mathematicians report solutions arriving fully formed, with phenomenal character distinctly different from mechanical verification.
+"Aha" moments have phenomenal character that precedes any accompanying imagery or emotional response. [Mathematical insight](/topics/consciousness-and-mathematical-understanding/) provides the paradigm case: mathematicians report solutions arriving fully formed, with phenomenal character distinctly different from mechanical verification. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) examines the complement: not the sudden arrival of understanding, but the sustained work that precedes and enables it—the strain of holding premises together, the effort of tracing implications.
 
 ### The Temporal Structure of Understanding
 

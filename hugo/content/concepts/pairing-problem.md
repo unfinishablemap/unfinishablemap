@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-03 12:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: What connects a particular mind to a particular body? Kim's challen
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 19:45:00+00:00
+last_deep_review: 2026-02-03 12:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -96,9 +96,9 @@ The [haecceity](/concepts/haecceity/) concept—primitive "thisness" that indivi
 
 Some philosophers argue that causation doesn't require spatial relations. Consider:
 
-**Abstract objects**: Numbers, propositions, and mathematical structures arguably enter into causal explanations (consider: "the number of wheels on the vehicle explains why it's called a bicycle"). If abstract objects can be causally relevant without spatial location, Kim's principle is too strong.
+**Abstract objects**: Numbers, propositions, and mathematical structures arguably enter into causal explanations (consider: "the number of wheels on the vehicle explains why it's called a bicycle"). If abstract objects can be causally relevant without spatial location, Kim's principle is too strong. However, many philosophers reject this—arguing that abstract objects feature in *explanations* without genuinely *causing* anything. The bicycle example explains a naming convention, not a physical effect. This response is therefore contested.
 
-**Laws of nature**: Natural laws causally explain physical events. But laws are not spatially located. If laws can be causes (or grounds of causes), not all causation is spatially mediated.
+**Laws of nature**: Natural laws causally explain physical events. But laws are not spatially located. If laws can be causes (or grounds of causes), not all causation is spatially mediated. Critics respond that laws describe regularities rather than cause them—though this too is debated.
 
 **Temporal but not spatial causation**: Some philosophers argue causation is fundamentally temporal (causes precede effects) rather than spatial. Spatial proximity is a useful heuristic for identifying causes, not a metaphysical requirement.
 

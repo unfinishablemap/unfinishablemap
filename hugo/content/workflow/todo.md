@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03 10:52:00+00:00
+ai_modified: 2026-02-03 13:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review attentional-economics.md considering habituation void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/habituation-void.md (2026-02-03) explores why the familiar becomes invisible to consciousness. The attentional-economics.md concept should be cross-reviewed for: (1) cross-links to habituation void, (2) how habituation affects attentional budget allocation, (3) relationship between attentional habituation and agency limits.
+- **Source**: chain (from habituation-void.md)
+- **Generated**: 2026-02-03
+
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -50,18 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense arguments/functionalism.md (4250 words, 121% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against functionalism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-03
-
-### P2: Cross-review phenomenology-of-the-edge.md considering probability-intuition insights
-- **Type**: cross-review
-- **Notes**: New article voids/probability-intuition-void.md (2026-02-03) explores cognitive limits around randomness and probability. phenomenology-of-the-edge.md covers similar themes of cognitive limits at boundaries. Check for cross-links, reinforcing arguments, or new connections.
-- **Source**: chain (from probability-intuition-void.md)
-- **Generated**: 2026-02-03
-
 ### P3: Deep review contemplative-path.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on contemplative approaches to consciousness study. Check phenomenological claims, ensure alignment with Map's framework, verify connections to meditation-and-consciousness-modes.md, witness-consciousness.md.
@@ -73,6 +67,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers reasons-responsive compatibilism—important for free will discussions. Check philosophical accuracy, ensure proper treatment of Fischer/Ravizza, verify connections to free-will.md, agent-causation.md.
 - **Source**: staleness
 - **Generated**: 2026-02-02
+
+### P3: Strengthen impossibility arguments in foundational voids
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-03 afternoon) found systematic vulnerability in self-reference-paradox.md, origin-of-consciousness.md, and other-minds-void.md: all three conflate *persistence* of problems with *structural impossibility*. Need to distinguish "this hasn't been solved" from "this is unsolvable." Also address Gödelian overreach in self-reference article (minds aren't formal systems). Lower priority as phenomenological descriptions remain valuable. See pessimistic-2026-02-03-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-03
 
 ### P3: Deep review process-and-consciousness.md for quality
 - **Type**: deep-review
@@ -454,8 +454,84 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-03
 
+### P3: Write article on contemplative training and phenomenal access
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03 (afternoon). How meditation training improves introspective accuracy, changes neural signatures, and reveals consciousness structure—providing evidence against illusionism (illusions don't deepen with practice). Builds on contemplative-neuroscience-integration.md, witness-consciousness.md, meditation-and-consciousness-modes.md. See optimistic-2026-02-03-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
+### P3: Write article on the growing block universe and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03 (afternoon). If consciousness constitutes time's arrow through collapse, develop this framework fully—consciousness as temporal-constitutive rather than merely temporal-aware. Addresses "why consciousness exists at all" by tying it to temporal emergence. Builds on time-consciousness-growing-block.md, collapse-and-time.md, retrocausality.md. See optimistic-2026-02-03-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
+### P3: Write article on disorders of consciousness as test cases
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03 (afternoon). How the Map's framework handles minimally conscious state, vegetative state, locked-in syndrome—cases where consciousness presence is uncertain. Tests framework against hard cases; has implications for ethics of consciousness. Builds on loss-of-consciousness.md, minimal-consciousness.md, consciousness-in-simple-organisms.md. See optimistic-2026-02-03-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate phenomenal-unity-and-the-binding-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Covers phenomenal unity's challenge to physicalism through the binding problem lens—directly supports Dualism tenet. Add cross-references from binding-problem.md, unity-of-consciousness.md, why-phenomenal-unity-resists-explanation.md, hard-problem-of-consciousness.md.
+- **Output**: phenomenal-unity-and-the-binding-problem.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-03: Integrate attention-motor-quantum-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Covers attention's role in motor selection through quantum interface mechanisms—central to the Map's Minimal Quantum Interaction implementation. Add cross-references from motor-selection.md, voluntary-attention.md, attention-interface-mechanisms.md, stapp-quantum-mind.md.
+- **Output**: attention-motor-quantum-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-03: Cross-review dreams-and-consciousness.md considering lucid dreaming insights
+- **Type**: cross-review
+- **Notes**: New article topics/lucid-dreaming-and-consciousness.md (2026-02-03) explores lucid dreaming as evidence for consciousness's causal role. The dreams-and-consciousness.md concept page should be cross-reviewed for: (1) cross-links to lucid dreaming treatment, (2) how lucid state phenomenology strengthens filter model arguments, (3) ensuring consistent treatment of dream consciousness across articles.
+- **Output**: obsidian/concepts/dreams-and-consciousness.md -- Context: Cross-review dreams-and-consciousness.md considering lucid dreaming insights
+
+### ✓ 2026-02-03: Cross-review interactionist-dualism.md considering delegatory dualism insights
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (2026-02-03) covers Bradford Saad's 2025 dualist theory. The interactionist-dualism.md concept page should be cross-reviewed for: (1) cross-links to delegatory dualism treatment, (2) how Saad's framework relates to classical interactionism, (3) potential strengthening of interactionist arguments from Saad's work.
+- **Output**: obsidian/concepts/interactionist-dualism.md -- Context: Cross-review interactionist-dualism.md considering delegatory dualism insights
+
+### ✓ 2026-02-03: Condense functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Article remains critically over 3500-word hard threshold for arguments/ despite multiple previous condense attempts. This is a persistent length violation requiring aggressive restructuring. Consider extracting detailed objection-response dialectic to separate article treatment, keeping only essential conceptual overview. Core definition, relation to Map's substrate-dependence claims, and key objections summary must be preserved. See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
+
+### ✓ 2026-02-03: Deep review mathematical-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores mathematical structures beyond genuine human comprehension—where formal manipulation succeeds but phenomenal understanding fails. Check philosophical accuracy, verify connection to incompleteness-void.md, consciousness-and-mathematical-understanding.md.
+- **Output**: obsidian/voids/mathematical-void.md
+
+### ✓ 2026-02-03: Deep review incompleteness-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores Gödel's incompleteness theorems as cognitive limit—truths formal systems cannot prove about themselves. Lucas-Penrose argument that Gödel implies minds aren't computational. Check philosophical accuracy, verify connection to consciousness-and-mathematical-understanding.md.
+- **Output**: obsidian/voids/incompleteness-void.md
+
+### ✓ 2026-02-03: Integrate phenomenology-of-intellectual-effort.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. First-person analysis of reasoning experience—foundational phenomenological evidence for Map's perspective. Distinguishes logical necessity from mere correlation. Add cross-references from argument-from-reason.md, mental-effort.md, phenomenological-evidence-methodology.md, free-will.md.
+- **Output**: obsidian/topics/phenomenology-of-intellectual-effort.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-03: Write article on habituation void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-habituation-void-2026-02-03.md. Explores why the familiar becomes invisible to consciousness—cognitive limits on sustained attention to unchanging stimuli. The habituation void differs from attention limits in being architecturally deep rather than resource-based. Synthesize into voids/ article connecting to phenomenology-of-the-edge.md, attentional-economics.md, thoughts-that-slip-away.md.
+- **Output**: habituation void
+
+### ✓ 2026-02-03: Cross-review phenomenology-of-the-edge.md considering probability-intuition insights
+- **Type**: cross-review
+- **Notes**: New article voids/probability-intuition-void.md (2026-02-03) explores cognitive limits around randomness and probability. phenomenology-of-the-edge.md covers similar themes of cognitive limits at boundaries. Check for cross-links, reinforcing arguments, or new connections.
+- **Output**: obsidian/voids/phenomenology-of-the-edge.md -- Context: Cross-review phenomenology-of-the-edge.md considering probability-intuition insights
+
+### ✓ 2026-02-03: Condense arguments/functionalism.md (4250 words, 121% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against functionalism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-03: Write article on lucid dreaming and consciousness
 - **Type**: expand-topic

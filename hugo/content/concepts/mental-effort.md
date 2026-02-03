@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-03 09:11:00+00:00
+ai_modified: 2026-02-03 12:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -50,7 +50,7 @@ This article examines the phenomenology of mental effort, Stapp's quantum Zeno m
 
 William James documented the phenomenology of mental effort in his 1890 *Principles of Psychology*: "Volition is nothing but attention" and "sustained voluntary attention is a repetition of successive efforts." Attention comes in two forms—passive (effortless, captured by stimuli) and active (effortful, directed by will). Active attention feels like work, wanders unless continuously renewed.
 
-This phenomenology is universal. Everyone knows the experience of trying to focus, feeling attention drift, and effortfully pulling it back. The question is whether this felt effort corresponds to anything real.
+This phenomenology is universal. Everyone knows the experience of trying to focus, feeling attention drift, and effortfully pulling it back. The question is whether this felt effort corresponds to anything real. See [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) for the related but distinct phenomenology of *reasoning* effort—the strain of logic and the work of inference—which goes beyond attentional maintenance to encompass the specific work of thinking itself.
 
 ### Attention as Interface
 
