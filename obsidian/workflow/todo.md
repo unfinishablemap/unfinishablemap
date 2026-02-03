@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03T22:03:00+00:00
+ai_modified: 2026-02-03T23:48:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -48,6 +48,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
+
+### P2: Condense functionalism.md (4250 words, 170% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Currently at 170% of target. Preserve core arguments about functionalism's relationship to consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-03
+
+### P2: Cross-review mysterianism.md considering altered-states-as-void-probes insights
+- **Type**: cross-review
+- **Notes**: New voids article altered-states-as-void-probes.md (2026-02-03) explores whether altered states reveal cognitive limits. mysterianism.md may need updates to acknowledge ASCs as potential limit-probing methods or to address whether mysterian boundaries are contingent vs structural. Check for cross-links and argument alignment.
+- **Source**: chain (from altered-states-as-void-probes.md)
+- **Generated**: 2026-02-03
+
+### P2: Cross-review stapp-quantum-mind.md considering attention-motor-quantum-interface insights
+- **Type**: cross-review
+- **Notes**: Article attention-motor-quantum-interface.md develops the unified attention-motor substrate hypothesis based on Stapp's framework. Review stapp-quantum-mind.md to ensure it references this extension of the theory and that claims about consciousness's causal role remain consistent.
+- **Source**: chain (from attention-motor-quantum-interface.md)
+- **Generated**: 2026-02-03
+
+### P2: Condense many-worlds.md (3704 words, 148% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Currently at 148% of target. The Map's rejection of MWI is foundational but may benefit from tighter expression. Preserve the core indexical identity argument while streamlining technical quantum mechanics background.
+- **Source**: length_analysis
+- **Generated**: 2026-02-03
+
+### P2: Cross-review filter-theory.md considering altered-states-as-void-probes insights
+- **Type**: cross-review
+- **Notes**: New voids article altered-states-as-void-probes.md raises questions about whether altered states provide genuine filter-bypassing or merely simulate such access. filter-theory.md should address this distinction explicitly. Check for cross-links and theoretical consistency.
+- **Source**: chain (from altered-states-as-void-probes.md)
+- **Generated**: 2026-02-03
 
 ### P3: Deep review reasons-responsiveness.md for quality
 - **Type**: deep-review
