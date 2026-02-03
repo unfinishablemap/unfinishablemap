@@ -85,6 +85,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-02-03
 
+### P3: Address conceptual/ontological irreducibility gap in rationality cluster
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-03 evening) found systematic vulnerability in argument-from-reason.md, phenomenology-of-understanding.md, and consciousness-and-mathematical-understanding.md: all three conflate *conceptual* irreducibility (normative vocabulary cannot be defined in causal terms) with *ontological* irreducibility (normative properties cannot supervene on physical properties). Need to engage Type-B physicalism more directly. Also: inconsistent treatment of introspection (relied on for understanding's phenomenology while acknowledged as unreliable elsewhere). Lower priority as phenomenological descriptions remain valuable. See pessimistic-2026-02-03-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-03
+
 ### P3: Deep review process-and-consciousness.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on process philosophy's account of consciousness. Check philosophical accuracy, ensure alignment with Map's dualist framework, verify connections to temporal-consciousness.md.
