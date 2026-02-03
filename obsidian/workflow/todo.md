@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense embodied-cognition.md (3582 words, 102% of hard threshold)
-- **Type**: condense
-- **Notes**: Concept article exceeds 3500-word hard threshold for concepts/. Preserve treatment of body-mind relationship while removing redundancy. Check for content that could be deferred to brain-interface-boundary.md or other linked articles.
-- **Source**: length_analysis
-- **Generated**: 2026-02-03
-
 ### P2: Condense phenomenal-consciousness.md (3582 words, 102% of hard threshold)
 - **Type**: condense
 - **Notes**: Core concept article exceeds 3500-word hard threshold. Foundational concept for the Map. Preserve essential distinctions (phenomenal vs access consciousness) while removing redundancy. Check for content already covered in consciousness.md, qualia.md.
@@ -455,6 +449,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Condense embodied-cognition.md (3582 words, 102% of hard threshold)
+- **Type**: condense
+- **Notes**: Concept article exceeds 3500-word hard threshold for concepts/. Preserve treatment of body-mind relationship while removing redundancy. Check for content that could be deferred to brain-interface-boundary.md or other linked articles.
+- **Output**: obsidian/concepts/embodied-cognition.md
 
 ### ✓ 2026-02-03: Condense interactionist-dualism.md (3591 words, 103% of hard threshold)
 - **Type**: condense
