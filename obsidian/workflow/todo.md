@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03T19:48:00+00:00
+ai_modified: 2026-02-03T20:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -48,18 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
-
-### P2: Write voids article on the death void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-the-death-void-2026-02-02.md. Covers the fundamental epistemological void regarding what happens to consciousness at death—a topic central to personal identity and meaning. Ready for article synthesis.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-03
-
-### P2: Write article on Bradford Saad's delegatory dualism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Novel dualist position where consciousness "delegates" certain tasks to neural mechanisms. Directly relevant to Map's interactionist framework and attention-as-interface hypothesis.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-03
 
 ### P2: Write article on spontaneous collapse theories (GRW, CSL)
 - **Type**: expand-topic
@@ -488,6 +476,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Write voids article on the death void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-the-death-void-2026-02-02.md. Covers the fundamental epistemological void regarding what happens to consciousness at death—a topic central to personal identity and meaning. Ready for article synthesis.
+- **Output**: Write voids article on the death void
 
 ### ✓ 2026-02-03: Integrate william-james-consciousness.md into site navigation
 - **Type**: integrate-orphan
