@@ -129,6 +129,8 @@ Despite differences, quantum consciousness theories agree:
 3. **No energy violation**—consciousness shapes outcomes without adding energy
 4. **Many Worlds is rejected**—collapse is real, outcomes genuinely selected
 
+The theories differ in which [[coupling-modes|coupling mode]] they emphasize: Orch OR implies probability control (collapse at mass threshold), Stapp emphasizes basis and timing control (Process 1 and Zeno effect), and Fisher's mechanism operates through entanglement structure rather than direct selection.
+
 ## The Prebiotic and Multi-Mind Problems
 
 Two objections arise: What caused collapse before conscious observers existed? And whose consciousness counts when multiple observers are involved?
@@ -195,6 +197,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 **Key concepts:**
 - [[quantum-decoherence-objection]] — Analysis of the decoherence challenge
 - [[psychophysical-coupling]] — What a coupling law must specify
+- [[coupling-modes]] — Basis, timing, and probability control: how consciousness might couple
 - [[selection-laws]] — The downward direction of psychophysical laws
 - [[interface-locality]] — Why consciousness selects only within its own brain
 - [[quantum-binding-and-phenomenal-unity]] — Entanglement and phenomenal unity

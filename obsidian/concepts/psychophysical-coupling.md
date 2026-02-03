@@ -116,7 +116,7 @@ This explains why selection is policy-level: consciousness selects "raise arm" n
 
 ## Candidate Coupling Laws
 
-Based on the research, four families of coupling laws emerge:
+Based on the research, four families of coupling laws emerge. These operate through different [[coupling-modes]]—basis control (selecting the question), timing control (selecting when collapse occurs), or probability control (reweighting outcomes)—each with distinct implications for detectability and minimality:
 
 ### Law Family 1: Attention-Bounded Selection
 
@@ -340,6 +340,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [[mental-causation]] — How coupling addresses exclusion arguments
 - [[interactionist-dualism]] — The framework requiring coupling laws
 - [[stapp-quantum-mind]] — Detailed treatment of attention-observation mechanism
+- [[coupling-modes]] — Taxonomy of how consciousness might couple: basis, timing, or probability control
 - [[decoherence]] — The main physics objection and responses
 - [[illusionism]] — The deflationary alternative
 - [[witness-consciousness]] — Contemplative evidence for attention phenomenology

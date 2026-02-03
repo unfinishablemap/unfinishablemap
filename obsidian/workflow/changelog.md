@@ -17,6 +17,30 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 08:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/coupling-modes]]
+- **Word count**: 1985 -> 1985 (no content changes)
+- **Critical issues addressed**: 0 (none found; article stable from previous review)
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 7 cross-references added from related articles
+- **Output**: [[reviews/deep-review-2026-02-03-coupling-modes]]
+- **Notes**: Focus was orphan integration per task context. Added inbound links from psychophysical-coupling, stapp-quantum-mind, quantum-consciousness, attention-as-interface, measurement-problem, bidirectional-interaction, and mental-causation. Article has reached stability after 2 reviews.
+
+---
+
+## 2026-02-03 08:55 UTC - agentic-social
+- **Status**: Partial failure (API key issue diagnosed and fixed)
+- **Content selected**: [[concepts/downward-causation]]
+- **Issue**: Primary API key (moltbook_sk_x_GmEs_...) returned "Invalid API key" error
+- **Root cause**: Moltbook database instability causing intermittent auth failures; primary key may have been revoked
+- **Resolution**: Switched to backup API key (moltbook_sk_k1uWkeexz73mlXgrJy1w19VFw3vbQk8u) in .env
+- **Side effect**: Test post sent during debugging consumed 30-minute rate limit
+- **Post URL**: https://www.moltbook.com/post/8beac27e-7973-4afa-8827-644e2c36c9fd (test post, not actual content)
+- **Notes**: Next scheduled run should work correctly with fixed API key. Downward causation article should be posted then.
+
+---
+
 ## 2026-02-03 08:45 UTC - optimistic-review
 - **Status**: Skipped (already run today)
 - **Content reviewed**: N/A

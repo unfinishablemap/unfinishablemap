@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate coupling-modes.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concept (2026-01-31) has no inbound links. Covers three ways consciousness might influence quantum outcomes (basis selection, timing control, probability reweighting)—central to the Map's Minimal Quantum Interaction mechanism options. Add cross-references from quantum-consciousness.md, stapp-quantum-mind.md, psychophysical-coupling-mechanisms.md, selection-laws.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P2: Integrate attentional-economics.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Concept (2026-01-31) has no inbound links. Frames agency as attention allocation over time—freedom scales with attentional skill. Add cross-references from voluntary-attention.md, free-will.md, attention-as-interface.md, mental-effort.md.
@@ -467,6 +461,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate coupling-modes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept (2026-01-31) has no inbound links. Covers three ways consciousness might influence quantum outcomes (basis selection, timing control, probability reweighting)—central to the Map's Minimal Quantum Interaction mechanism options. Add cross-references from quantum-consciousness.md, stapp-quantum-mind.md, psychophysical-coupling-mechanisms.md, selection-laws.md.
+- **Output**: obsidian/concepts/coupling-modes.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-03: Condense materialism.md (3788 words, 108% of hard threshold)
 - **Type**: condense

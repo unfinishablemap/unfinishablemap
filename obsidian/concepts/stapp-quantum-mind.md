@@ -54,7 +54,7 @@ Stapp proposes that neural firing patterns exist in superposition until "observe
 3. **Zeno freezing**: Rapid attention holds desired patterns, preventing decay into alternatives
 4. **Effort as observation rate**: Felt effort corresponds to observation rapidity
 
-The key insight: consciousness doesn't *generate* neural patterns—it *selects* among patterns the brain presents.
+The key insight: consciousness doesn't *generate* neural patterns—it *selects* among patterns the brain presents. This represents basis control (choosing which question to ask) combined with timing control (determining when observation occurs)—two of the three [[coupling-modes]] by which consciousness might influence quantum outcomes.
 
 Crucially, the mechanism satisfies conservation laws. Consciousness shapes which possibility actualises without adding energy. This addresses the classical objection to dualism: at quantum indeterminacies, physics leaves outcomes undetermined. Consciousness biases the outcome without competing with physical causes. The physical causes are *necessary but not sufficient*; consciousness provides the sufficiency.
 
@@ -166,6 +166,7 @@ The model generates falsifiable predictions:
 ## Further Reading
 
 - [[psychophysical-coupling]] — Comparative analysis; Stapp's model as most developed
+- [[coupling-modes]] — Basis, timing, and probability control: taxonomy of coupling mechanisms
 - [[voluntary-attention]] — Neural signatures of willed attention
 - [[attention-as-interface]] — Attention as the interface layer
 - [[decoherence]] — The decoherence objection and responses

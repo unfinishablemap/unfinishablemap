@@ -4,7 +4,7 @@ description: "Three ways consciousness might influence quantum outcomes: basis s
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
-ai_modified: 2026-01-31T17:18:00+00:00
+ai_modified: 2026-02-03T08:56:00+00:00
 draft: false
 topics:
   - "[[mental-causation]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-31
 last_curated:
-last_deep_review: 2026-01-31T17:18:00+00:00
+last_deep_review: 2026-02-03T08:56:00+00:00
 ---
 
 If consciousness influences physical outcomes, how does it do so? The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet demands the "smallest possible non-physical influence"—but "smallest" depends on what kind of influence we're considering. Three candidate coupling modes exist: **basis control** (selecting what question to ask), **timing control** (selecting when collapse occurs), and **probability control** (reweighting outcome likelihoods). These are not equally minimal, and distinguishing them clarifies what "consciousness selects" actually means.
