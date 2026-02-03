@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate normative-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Voids article (2026-02-02) has no inbound links. Explores cognitive limits on moral knowledge—possible ethical facts human minds cannot access. Add cross-references from meaning-of-life.md, ethics-of-consciousness.md, phenomenal-value-realism.md, alien-minds-void-explorers.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P2: Integrate scale-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Voids article (2026-02-02) has no inbound links. Covers human consciousness's failure when confronting cosmic scale—Kant's sublime, numeracy limits, evolutionary mismatch. Add cross-references from mathematical-void.md, phenomenology-of-the-edge.md, embodiment-cognitive-limits.md.
@@ -461,6 +455,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate normative-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-02) has no inbound links. Explores cognitive limits on moral knowledge—possible ethical facts human minds cannot access. Add cross-references from meaning-of-life.md, ethics-of-consciousness.md, phenomenal-value-realism.md, alien-minds-void-explorers.md.
+- **Output**: obsidian/voids/normative-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-03: Cross-review time-symmetric-physics.md considering presentiment article
 - **Type**: cross-review

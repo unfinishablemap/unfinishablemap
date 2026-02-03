@@ -4,7 +4,8 @@ description: "Human+AI exploration of moral truths beyond our reach—where evol
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-02T22:36:00+00:00
+ai_modified: 2026-02-03T02:00:00+00:00
+last_deep_review: 2026-02-03T02:00:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -22,6 +23,9 @@ related_articles:
   - "[[conceptual-impossibility]]"
   - "[[apophatic-approaches]]"
   - "[[affective-void]]"
+  - "[[phenomenal-value-realism]]"
+  - "[[moral-responsibility]]"
+  - "[[ethics-of-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -43,7 +47,7 @@ The connection between evolutionary advantage and moral truth is, at best, coinc
 
 Critics argue that organisms could evolve truth-tracking capabilities. But how would selection favour truth-tracking for *moral* facts specifically? Selection would favour fitness-enhancing beliefs, which might correlate with moral truth in some domains while diverging radically in others (in-group favouritism, status hierarchies, resource competition).
 
-The evolutionary argument doesn't prove moral facts are inaccessible—it suggests our intuitive access to them is systematically unreliable. The void here is not certain but probabilistic: even if moral truths exist, we have strong reason to doubt that evolution equipped us to find them.
+The evolutionary argument doesn't prove moral facts are inaccessible—it suggests our intuitive access to them is systematically unreliable. This distinction matters: unreliability concerns *accuracy*, not *accessibility*. The void here is not certain but probabilistic: even if moral truths exist, we have strong reason to doubt that evolution equipped us to find them reliably.
 
 ## Ethical Blindness
 
@@ -119,11 +123,25 @@ The normative void connects to the Map's [[tenets|foundational commitments]]:
 
 **[[tenets#^dualism|Dualism]]** connects through the relationship between consciousness and value. If the Map's implicit position is phenomenal value realism—value grounded in conscious experience—then the nature of consciousness constrains what can have value and what value we can perceive. Minds structured differently might perceive values we cannot.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** connects through moral indexicality. In tragic dilemmas, the question "what should I do?" has indexical force—this agent, this situation, this moment. Many-worlds interpretations dissolve this indexicality: all choices are made across branches. The normative void may be deeper on single-history interpretations where moral choice is determinate.
+**[[tenets#^no-many-worlds|No Many Worlds]]** connects through tragic dilemma phenomenology. When facing Agamemnon's choice, the agent experiences genuine undecidability—a felt absence of right answers. This phenomenology presupposes that choices have determinate outcomes; on many-worlds interpretations, all choices actualize somewhere, potentially dissolving the tragic weight.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** raises the question of whether consciousness affects moral facts. If consciousness influences physical outcomes, might conscious moral deliberation affect what becomes morally true, or does it merely track independently existing facts?
 
-The normative void suggests profound humility about moral knowledge. Our ethical intuitions are not privileged windows onto objective moral reality—they are one species' adaptive toolkit, shaped by contingent evolutionary history, filtered through cognitive architecture that sometimes fails to perceive ethics at all. McGinn was wrong to exempt morality from mysterianism. Some moral truths may be permanently beyond our reach.
+The normative void suggests profound humility about moral knowledge. Our ethical intuitions are not privileged windows onto objective moral reality—they are one species' adaptive toolkit, shaped by contingent evolutionary history, filtered through cognitive architecture that sometimes fails to perceive ethics at all. McGinn may have been premature to exempt morality from mysterianism. Some moral truths may be permanently beyond our reach.
+
+## What Would Challenge This View?
+
+The normative void hypothesis would face pressure if:
+
+1. **Moral progress proved unlimited**: If history showed unbounded expansion of moral knowledge without approaching any apparent limits—if every ethical disagreement eventually resolved through rational inquiry—the case for cognitive closure would weaken.
+
+2. **Evolutionary debunking arguments failed**: If selection for moral truth-tracking proved more plausible than currently assumed, the gap between evolved intuitions and moral facts would narrow.
+
+3. **Tragic dilemmas dissolved under analysis**: If apparent tragic dilemmas consistently resolved into ordinary dilemmas once correctly understood—if "no right answer" always reflected ignorance rather than genuine undecidability—the structural argument would fail.
+
+4. **Cross-cultural convergence deepened**: If isolated cultures independently converged on identical ethical conclusions about contested questions, this would suggest human cognitive architecture accesses moral truth more reliably than the void hypothesis predicts.
+
+5. **Phenomenal value realism proved false**: The void analysis assumes moral realism—that there are moral truths to be inaccessible to. If value proved entirely constructed or illusory, the normative void would collapse into the more general question of whether realism makes sense.
 
 ## Further Reading
 

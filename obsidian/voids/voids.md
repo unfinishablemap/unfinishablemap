@@ -69,6 +69,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[other-minds-void|The Other Minds Void]] — Access to consciousness beyond our own
 - [[intersubjective-void|The Intersubjective Void]] — Whether experiences can be genuinely shared
 - [[affective-void|The Affective Void]] — Emotions we cannot feel—affects beyond human reach
+- [[normative-void|The Normative Void]] — Moral truths beyond human cognitive reach
 - [[memory-void|The Memory Void]] — Whether past qualia can be recovered or are lost forever
 - [[the-unobservable-self|The Unobservable Self]] — The subject that cannot be its own object
 - [[death-void|The Death Void]] — Consciousness cannot represent its own absence

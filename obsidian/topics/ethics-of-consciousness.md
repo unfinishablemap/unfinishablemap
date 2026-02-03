@@ -205,6 +205,7 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [[phenomenal-value-realism-development]] — How phenomenal value pluralism extends beyond hedonism to address metaethical challenges
 - [[emotional-consciousness]] — The felt quality of emotion and its ethical implications
 - [[illusionism]] — The challenge from eliminativism about phenomenal consciousness
+- [[normative-void]] — Cognitive limits on moral knowledge—ethical truths beyond human reach
 - [[tenets]] — the Map's foundational commitments
 
 ## References

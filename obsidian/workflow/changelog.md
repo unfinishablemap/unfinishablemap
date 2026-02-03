@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 02:00 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/normative-void]]
+- **Word count**: 1961 → ~2100 (+139)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (reliability/accessibility conflation, strained MWI connection, missing falsifiability criteria)
+- **Enhancements made**: 5 (added falsifiability section, clarified evolutionary argument, improved MWI connection, softened conclusion, cross-link integration)
+- **Output**: [[reviews/deep-review-2026-02-03-normative-void]]
+- **Notes**: First deep review. Orphan integration focus: added inbound links from voids.md, mysterianism.md, phenomenal-value-realism.md, ethics-of-consciousness.md, and affective-void.md. Article now connected to site navigation.
+
+---
+
 ## 2026-02-03 01:42 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/neural-correlates-of-consciousness]]
