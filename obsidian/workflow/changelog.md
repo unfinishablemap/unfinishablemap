@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 03:29 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Probability Intuition Void
+- **Category**: Mixed (Unexplored / Unexplorable / potentially Occluded)
+- **Output**: [[research/voids-probability-intuition-void-2026-02-03]]
+- **Key finding**: Human probability intuition failures (base rate neglect, conjunction fallacy, law of small numbers, apophenia) appear architectural rather than educational—evolutionary mismatch created minds built for sequential frequency-counting and pattern-detection, not abstract probability manipulation. Genuine randomness may be phenomenologically inaccessible: we can conceptualize chance but cannot experience it.
+
+---
+
 ## 2026-02-03 03:12 UTC - condense
 - **Status**: Success
 - **File**: [[concepts/prospective-memory]]
