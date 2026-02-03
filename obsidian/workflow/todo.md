@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate scale-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Voids article (2026-02-02) has no inbound links. Covers human consciousness's failure when confronting cosmic scale—Kant's sublime, numeracy limits, evolutionary mismatch. Add cross-references from mathematical-void.md, phenomenology-of-the-edge.md, embodiment-cognitive-limits.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P2: Integrate presentiment-and-retrocausality.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-02) has no inbound links. Explores whether quantum retrocausality could underlie presentiment phenomena. Add cross-references from time-symmetric-physics.md, quantum-consciousness.md, retrocausality.md, neural-correlates-of-consciousness.md.
@@ -455,6 +449,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate scale-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-02) has no inbound links. Covers human consciousness's failure when confronting cosmic scale—Kant's sublime, numeracy limits, evolutionary mismatch. Add cross-references from mathematical-void.md, phenomenology-of-the-edge.md, embodiment-cognitive-limits.md.
+- **Output**: obsidian/voids/scale-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-03: Integrate normative-void.md into site navigation
 - **Type**: integrate-orphan

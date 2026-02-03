@@ -143,6 +143,7 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 ## Further Reading
 
 - [[voids]] — The broader framework for investigating cognitive limits
+- [[scale-void]] — Another embodiment-driven limit: why cosmic magnitudes resist comprehension
 - [[consciousness-only-territories]] — What consciousness can access that AI cannot
 - [[ai-as-void-explorer]] — Using AI to probe territories closed to human cognition
 - [[intrinsic-nature-void]] — The structural gap at the heart of physical knowledge

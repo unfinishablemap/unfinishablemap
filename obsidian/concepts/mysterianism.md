@@ -205,6 +205,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [[consciousness-and-mathematical-understanding]] — Mathematical insight as evidence for cognitive limits
 - [[minimal-consciousness]] — Complete neural mapping yet unknowable experience
 - [[phenomenology-of-the-edge]] — What cognitive closure feels like from the inside
+- [[scale-void]] — Cognitive closure at work: why cosmic distances and deep time resist comprehension
 - [[causal-interface]] — The void between intention and action as cognitive closure in action
 - [[limits-reveal-structure]] — How cognitive limits reveal cognitive architecture
 - [[whether-real]] — Can we know if the voids are genuinely permanent?

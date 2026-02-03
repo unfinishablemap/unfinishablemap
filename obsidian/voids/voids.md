@@ -64,6 +64,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 ### Specific Voids
 
+- [[scale-void|The Scale Void]] — Why cosmic distances, deep time, and large numbers resist comprehension
 - [[causal-interface|The Causal Interface Void]] — How consciousness interfaces with the physical
 - [[intrinsic-nature-void|The Intrinsic Nature Void]] — What matter is in itself
 - [[other-minds-void|The Other Minds Void]] — Access to consciousness beyond our own
