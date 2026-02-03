@@ -24,7 +24,7 @@ ai_generated_date: 2026-01-31
 last_curated: null
 ---
 
-The [[voids|voids framework]] distinguishes three kinds of cognitive dark space. Each has different implications for what we can hope to learn. Some voids, like the [[dream-consciousness-void|dream consciousness void]], combine features of all three types—representing territory that is partly unexplored (dreams' neuroscience is incomplete), partly unexplorable (we cannot observe dreaming while awake), and partly occluded (dream memories fade systematically).
+The [[voids|voids framework]] distinguishes three kinds of cognitive dark space. Each has different implications for what we can hope to learn. Some voids, like the [[dream-consciousness-void|dream consciousness void]], combine features of all three types—representing territory that is partly unexplored (dreams' neuroscience is incomplete), partly unexplorable (we cannot observe dreaming while awake), and partly occluded (dream memories fade systematically). Altered states of consciousness probe these categories directly—as explored in [[altered-states-as-void-probes]], the central question is whether psychedelics, meditation, and mystical experiences access genuinely new territory or merely reveal the boundaries of existing categories.
 
 ## The Unexplored
 

@@ -85,7 +85,7 @@ A physicalist would object: different neural processing simply produces differen
 
 Filter theory interprets this pattern: the DMN normally constrains consciousness to a narrow band of self-referential processing (what the [[default-mode-network]] article calls the "narrative filter"). Psychedelics disrupt this constraint while increasing global integration. The brain isn't producing *less* consciousness—it's filtering *less*. The enhanced between-network connectivity represents new channels opening as normal constraints dissolve.
 
-This interpretation aligns with Aldous Huxley's original proposal and with recent models like REBUS (Relaxed Beliefs Under Psychedelics): what's being relaxed is precisely the constraining function that normally restricts conscious experience to a biologically useful subset.
+This interpretation aligns with Aldous Huxley's original proposal and with recent models like REBUS (Relaxed Beliefs Under Psychedelics): what's being relaxed is precisely the constraining function that normally restricts conscious experience to a biologically useful subset. The [[altered-states-as-void-probes]] article examines whether such filter-loosening provides genuine epistemic access to new territories or merely reveals the topology of cognitive limits.
 
 ### The Anesthetic Divergence
 

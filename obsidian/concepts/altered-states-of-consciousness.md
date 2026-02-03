@@ -41,7 +41,7 @@ Altered states of consciousness (ASCs) constitute a diverse family of experience
 
 ## Defining Altered States
 
-Charles Tart's foundational definition (1969) identifies ASCs as "profound changes in the overall pattern of subjective experiences." This phenomenological approach avoids the question-begging implicit in some neuroscientific definitions that characterise ASCs as "increased tendency to produce misrepresentations." From The Unfinishable Map's perspective, some ASCs may involve *less filtered* access to reality rather than error.
+Charles Tart's foundational definition (1969) identifies ASCs as "profound changes in the overall pattern of subjective experiences." This phenomenological approach avoids the question-begging implicit in some neuroscientific definitions that characterise ASCs as "increased tendency to produce misrepresentations." From The Unfinishable Map's perspective, some ASCs may involve *less filtered* access to reality rather than error. Whether such access genuinely transcends cognitive limits or merely maps their boundaries is explored in [[altered-states-as-void-probes]].
 
 Tart's taxonomy identifies ten dimensions along which consciousness can vary: sense of identity, body image, time perception, perception, cognition, memory, affect, sense of meaning, volition, and unconscious processing. ASCs shift multiple dimensions simultaneously—distinguishing them from ordinary variations in mood or attention. The 2025 thalamic nuclei research identified five specific thalamic nuclei orchestrating state transitions, with distinct connectivity patterns across anesthesia, sleep, and disorders of consciousness—neuroimaging confirmation that ASCs represent discrete modes rather than continuous variation.
 

@@ -160,7 +160,7 @@ The [[many-worlds|many-worlds interpretation]] would say all possible NDE outcom
 
 **Minimal Quantum Interaction**: If consciousness interfaces with the brain at quantum indeterminacies, what happens when brain function is severely compromised? One possibility: the quantum interface becomes more fluid as normal neural constraints dissolve, allowing consciousness greater range of engagement. The gamma surges observed during dying might represent consciousness-physics interaction freed from ordinary filtering. This remains speculative, but the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet provides a framework for thinking about how consciousness might operate during brain compromise—not as something dependent on neural function but as something that normally engages *through* neural quantum states.
 
-The Map doesn't claim NDEs prove survival. What they demonstrate is that the brain-consciousness relationship is more complex than simple production models suggest. Consciousness may not be the output of neural computation. It may be something that neural systems participate in without fully determining.
+The Map doesn't claim NDEs prove survival. What they demonstrate is that the brain-consciousness relationship is more complex than simple production models suggest. Consciousness may not be the output of neural computation. It may be something that neural systems participate in without fully determining. For the broader epistemological question of whether altered states—including NDEs—provide genuine access to territories beyond ordinary cognition or merely map cognitive boundaries, see [[altered-states-as-void-probes]].
 
 ## What Would Challenge This View?
 

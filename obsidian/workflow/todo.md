@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate altered-states-as-void-probes.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Voids article (2026-02-03) has no inbound links. Examines whether altered states reveal cognitive limits or simulate transcendence. Add cross-references from altered-states-of-consciousness.md, meditation-and-consciousness-modes.md, filter-theory.md, or consciousness-only-territories.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P2: Integrate attention-motor-quantum-selection.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-01) has no inbound links. Covers the unified attention-motor quantum selection mechanism. Add cross-references from attention-as-interface.md, motor-selection.md, attention-interface-mechanisms.md, or quantum-consciousness.md.
@@ -488,6 +482,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate altered-states-as-void-probes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-03) has no inbound links. Examines whether altered states reveal cognitive limits or simulate transcendence. Add cross-references from altered-states-of-consciousness.md, meditation-and-consciousness-modes.md, filter-theory.md, or consciousness-only-territories.md.
+- **Output**: obsidian/voids/altered-states-as-void-probes.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-03: Integrate habituation-void.md into site navigation
 - **Type**: integrate-orphan
