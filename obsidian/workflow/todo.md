@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate death-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Voids article (2026-02-03) has no inbound links. Explores the epistemological void surrounding consciousness at death—what cannot be known. Add cross-references from death-and-consciousness.md, personal-identity.md, meaning-of-life.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
@@ -521,6 +515,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate death-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-03) has no inbound links. Explores the epistemological void surrounding consciousness at death—what cannot be known. Add cross-references from death-and-consciousness.md, personal-identity.md, meaning-of-life.md.
+- **Output**: obsidian/voids/death-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-03: Integrate spontaneous-collapse-theories.md into site navigation
 - **Type**: integrate-orphan
