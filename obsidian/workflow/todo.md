@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense prospective-memory.md (3616 words, 103% of hard threshold)
-- **Type**: condense
-- **Notes**: Concept article exceeds 3500-word hard threshold for concepts/. Preserve core treatment of future-directed memory while removing redundancy. Check for content that could be deferred to linked articles like episodic-memory.md, working-memory.md.
-- **Source**: length_analysis
-- **Generated**: 2026-02-03
-
 ### P2: Condense epistemic-emotions.md (3601 words, 103% of hard threshold)
 - **Type**: condense
 - **Notes**: Concept article exceeds 3500-word hard threshold for concepts/. Preserve treatment of feelings-of-knowing, curiosity, and epistemic agency while removing redundancy. Check for content that could be deferred to linked articles.
@@ -473,6 +467,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Condense prospective-memory.md (3616 words, 103% of hard threshold)
+- **Type**: condense
+- **Notes**: Concept article exceeds 3500-word hard threshold for concepts/. Preserve core treatment of future-directed memory while removing redundancy. Check for content that could be deferred to linked articles like episodic-memory.md, working-memory.md.
+- **Output**: obsidian/concepts/prospective-memory.md
 
 ### ✓ 2026-02-03: Integrate presentiment-and-retrocausality.md into site navigation
 - **Type**: integrate-orphan

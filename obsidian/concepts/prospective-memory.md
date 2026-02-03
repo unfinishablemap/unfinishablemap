@@ -4,7 +4,7 @@ description: "Remembering to act in the future: how intentions persist and episo
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-22T05:50:00+00:00
+ai_modified: 2026-02-03T03:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,15 +43,13 @@ Prospective memory matters for The Unfinishable Map's framework because it compl
 
 ## Types of Prospective Memory
 
-Prospective memory divides into three main types based on what triggers retrieval:
+Prospective memory divides into three types based on retrieval triggers:
 
-**Time-based PM**: Remembering to do X at time T. Taking medication at 3 PM, calling someone at noon, leaving for an appointment. This requires monitoring the passage of time and retrieving the intention when the target time arrives.
+**Time-based PM**: Remembering to act at a specific time (take medication at 3 PM). Requires internally generated monitoring.
 
-**Event-based PM**: Remembering to do X when cue Y occurs. Giving a message to a colleague when you see them, buying milk when you pass the shop, turning off the oven when the timer sounds. External events trigger intention retrieval.
+**Event-based PM**: Remembering to act when a cue occurs (give a message when you see the colleague). External events trigger retrieval.
 
-**Activity-based PM**: Remembering to do X after completing activity Y. Locking the door after leaving home, saving a document after finishing edits. Completion of one action triggers retrieval of the next.
-
-These types involve different cognitive demands. Time-based PM requires internally generated monitoring—you must periodically check the time and compare it against your target. Event-based PM can rely more on external cues, though attention must be allocated to detecting them. Activity-based PM depends on recognising completion states that may not have explicit markers.
+**Activity-based PM**: Remembering to act after completing another activity (lock the door after leaving). Depends on recognising completion states.
 
 ## Episodic Future Thinking
 
@@ -59,169 +57,113 @@ The most consciousness-intensive form of future-oriented cognition is **episodic
 
 ### The Constructive Simulation Hypothesis
 
-Schacter and Addis (2007) proposed that EFT and episodic memory share a common mechanism: flexible retrieval and recombination of past experience elements into novel representations. Both engage the same core brain network—the default mode regions including hippocampus, medial prefrontal cortex, and posterior cingulate.
+Schacter and Addis (2007) proposed that EFT and episodic memory share a common mechanism: flexible retrieval and recombination of past experience elements. Both engage the same brain network (hippocampus, medial prefrontal cortex, posterior cingulate), though the hippocampus shows *greater* activation during future simulation, reflecting additional constructive demands.
 
-The hippocampus shows *greater* activation during future simulation than past remembering, reflecting additional constructive demands. Remembering a past event involves reconstructing something that occurred; imagining a future event requires constructing something that never has.
-
-This shared mechanism has profound implications. The same neural and cognitive systems that enable you to re-experience your past enable you to pre-experience your future. Mental time travel is genuinely bidirectional—a unified capacity for temporal self-projection rather than separate remembering and imagining faculties.
+Mental time travel is genuinely bidirectional—a unified capacity for temporal self-projection rather than separate remembering and imagining faculties.
 
 ### Patient KC: The Double Deficit
 
-[[autonoetic-consciousness|Patient KC]] provided striking evidence for this unity. After brain damage affecting his hippocampus and related structures, KC couldn't remember events from his personal past. But he also couldn't imagine events in his personal future. When asked what he would do tomorrow, his mind was "blank."
-
-This double deficit confirms that pastward and futureward projection share a common foundation: autonoetic consciousness. Without the capacity for mental time travel, both directions fail. The self that remembers yesterday is the same self that imagines tomorrow—damage that destroys one capacity destroys both.
+[[autonoetic-consciousness|Patient KC]] couldn't remember events from his personal past *or* imagine events in his personal future—when asked what he would do tomorrow, his mind was "blank." This double deficit confirms that pastward and futureward projection share a common foundation: autonoetic consciousness. The self that remembers yesterday is the same self that imagines tomorrow.
 
 ## The Phenomenology of Futurity
 
-Prospective memory and future thinking have distinctive phenomenological features that parallel but differ from remembering.
-
 ### The "Pop" Phenomenon
 
-A striking feature of everyday PM is the **spontaneous "pop"** of intentions into awareness. You're walking home, thinking about something else entirely, and suddenly the thought "buy milk" appears. This isn't the result of conscious monitoring—it seems to arise unbidden, triggered by some cue (perhaps passing a shop) processed below awareness.
+A striking feature of everyday PM is the **spontaneous "pop"** of intentions into awareness. You're walking home thinking about something else, and suddenly "buy milk" appears—triggered by some cue processed below awareness.
 
-Einstein and McDaniel (1990) identified two retrieval routes for PM:
-
-1. **Monitoring**: Conscious attention to task demands. Resource-intensive—you must periodically check whether it's time to act.
-
-2. **Spontaneous retrieval**: Automatic, cue-triggered retrieval. Relatively effortless—intentions emerge without deliberate search.
-
-The pop phenomenon raises questions about the relationship between consciousness and intention. The intention was formed consciously (you decided to buy milk) and retrieves into consciousness (you become aware you need milk). But the retrieval itself happens without conscious effort. Consciousness bookends the process while something unconscious bridges the gap.
+Einstein and McDaniel (1990) identified two retrieval routes: resource-intensive conscious **monitoring** versus automatic **spontaneous retrieval**. The pop phenomenon highlights that consciousness bookends the process (forming the intention, receiving the retrieval) while something unconscious bridges the gap.
 
 ### Futuricity: The Temporal Quale
 
-When you imagine a future event, it has a distinctive phenomenal character—a felt sense of possibility, of "not yet," of projection toward what might occur. Just as remembered events carry a feeling of pastness (the temporal quale that marks them as having occurred), imagined future events carry what might be called **futuricity**—the phenomenal marker of projected possibility.
+When you imagine a future event, it carries a distinctive phenomenal character—**futuricity**, a felt sense of possibility and "not yet." Just as remembered events carry pastness, imagined future events carry this phenomenal marker of projected possibility.
 
-This futuricity differs from the pastness of memory in several ways:
-
-| Feature | Remembering | Future Simulation |
-|---------|-------------|-------------------|
-| Felt direction | Pastward | Futureward |
-| Modal status | Occurred (in normal cases) | May or may not occur |
-| Detail richness | Often vivid | Often schematic |
-| Emotional valence | Mixed | Tendency toward positive |
-| Constructive demand | Reconstructive | Fully constructive |
-
-Both involve autonoetic consciousness—the sense of oneself as the subject of the represented event. But the modal character differs. Memories (normally) represent what happened; future simulations represent what might happen. This difference appears in phenomenology, not just in propositional content.
+Futuricity differs from pastness: memories represent what happened; future simulations represent what might happen. Both involve autonoetic consciousness, but the modal character differs—and this difference appears in phenomenology, not just propositional content.
 
 ### The Impossibility of Anticipatory Qualia
 
 The [[temporal-asymmetry-remembering-anticipating|asymmetry between remembering and anticipating]] runs deeper than phenomenological difference—it may mark a conceptual impossibility. The pastness quale tracks *causal contact*: when you remember your wedding, the feeling of having-been-there arises because that event actually caused your present brain states. The future, having caused nothing yet, leaves no traces to contact.
 
-This explains why the "pop" of prospective retrieval differs from the re-experiencing of episodic memory. When an intention surfaces—"buy milk" appearing as you pass the shop—you become aware of a previously formed plan. But you don't *re-experience* forming that plan the way you might re-experience a vivid memory. The pop is a kind of reminding, not a kind of reliving. The intention was stored and now retrieves, but without the autonoetic texture of "I was there."
+This explains why the "pop" of prospective retrieval differs from episodic re-experiencing. When "buy milk" surfaces as you pass the shop, you don't *re-experience* forming that plan—it's reminding, not reliving.
 
-The asymmetry reveals something about how consciousness relates to time:
+Three implications follow:
 
-**Consciousness operates through traces.** We are aware of what has causally affected us. Episodic memory's pastness quale marks this causal contact. Future simulation, however sophisticated, manipulates elements derived from past traces—it cannot contact future reality because there is no future reality yet to contact.
+1. **Consciousness operates through traces.** Episodic memory's pastness quale marks causal contact; future simulation manipulates elements derived from past traces but cannot contact future reality.
 
-**Future simulation is imagination repurposed.** The constructive simulation hypothesis shows that memory and future thinking share neural substrate. But the shared machinery produces different phenomenal products because the *input* differs. Memory has actual past events as causal source; future simulation has only patterns abstracted from past experience.
+2. **Future simulation is imagination repurposed.** Memory and future thinking share neural substrate but produce different phenomenal products because memory has actual events as causal source while future simulation has only abstracted patterns.
 
-**The void is structural, not merely cognitive.** Pre-experience—genuinely re-experiencing events that haven't occurred—appears conceptually incoherent rather than merely difficult. Applying the pastness quale to future events would be like applying "having caused this brain state" to something that hasn't caused anything. The limitation reveals how consciousness is embedded in causal structure: minds can access what has touched them but cannot reach forward to what hasn't.
+3. **The void is structural.** Pre-experience—genuinely re-experiencing events that haven't occurred—is conceptually incoherent. Minds can access what has touched them but cannot reach forward to what hasn't.
 
 ### Pre-Made Thoughts
 
-Research suggests most spontaneous future thoughts are "pre-made"—re-iterations of previously constructed scenarios rather than novel constructions. When the thought of tomorrow's meeting pops into mind, you're likely replaying a scenario you've already simulated, not building a new one from scratch.
-
-This parallels the finding that involuntary memories are typically of previously rehearsed events. Mental time travel, in both directions, operates partly through cached simulations. The initial construction requires significant cognitive resources; subsequent retrievals can be more automatic.
+Most spontaneous future thoughts are "pre-made"—re-iterations of previously constructed scenarios rather than novel constructions. Mental time travel, in both directions, operates partly through cached simulations; initial construction requires significant resources while subsequent retrievals are more automatic.
 
 ## Intention Formation and Free Will
 
-Prospective memory connects to [[free-will|free will]] through the formation and maintenance of intentions.
-
 ### Distal vs. Proximal Intentions
 
-Libet's experiments raised questions about whether conscious will causes action. But Libet studied *proximal* intentions—the immediate decision to move now. Prospective memory involves *distal* intentions—decisions about future action.
+Libet's experiments studied *proximal* intentions—immediate decisions to move now. Prospective memory involves *distal* intentions—decisions about future action. Even if proximal intentions don't cause their actions, distal intentions may be causally efficacious: when you decide Monday to attend a meeting Friday, that distal intention causally contributes to your arrival.
 
-Even if proximal intentions don't cause their associated actions (as Libet's results might suggest), distal intentions may be causally efficacious. When you decide on Monday to attend a meeting on Friday, that distal intention causally contributes to your arriving at the meeting—regardless of what happens in the final moments before you walk through the door.
-
-This distinction matters for [[agent-causation|agent causation]]. The libertarian needn't claim that every proximal motor command involves conscious intervention. What matters is that conscious planning—the formation of distal intentions and the construction of future simulations—participates in shaping the trajectory of action. The agent causes behaviour through the intentions they consciously form, even if the final execution involves automatic processes.
+This matters for [[agent-causation|agent causation]]. The libertarian needn't claim every proximal motor command involves conscious intervention—what matters is that conscious planning participates in shaping the trajectory of action.
 
 ### Future Simulation Influences Decisions
 
-EFT isn't mere idle imagination—it causally influences behaviour. Research shows that vividly imagining future consequences:
-
-- Reduces temporal discounting (people value future rewards more highly)
-- Decreases impulsive decision-making
-- Improves goal-directed behaviour
-- Enhances delay of gratification
-
-If conscious simulation of future scenarios causally shapes present decisions, then consciousness participates in directing action in exactly the way the Map's framework proposes. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims consciousness causally influences the physical world. Future simulation provides a clear case: mental representations of possible futures alter behavioural trajectories in the present.
+EFT causally influences behaviour: vividly imagining future consequences reduces temporal discounting, decreases impulsive decision-making, and improves goal-directed behaviour. If conscious simulation of future scenarios shapes present decisions, consciousness participates in directing action exactly as the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet proposes.
 
 ## Working Memory and Future Simulation
 
-EFT requires [[working-memory|working memory]] resources:
+EFT requires [[working-memory|working memory]] for holding, manipulating, and binding elements into coherent simulated scenarios. The [[working-memory#The Maintenance/Manipulation Distinction|maintenance/manipulation asymmetry]] applies: storing an intention may be automatic, but actively simulating a future scenario requires conscious engagement. This explains why PM failures often involve retrieval rather than storage.
 
-- **Holding**: Maintaining the imagined scene in mind
-- **Manipulating**: Transforming elements to construct novel scenarios
-- **Binding**: Integrating disparate features (time, place, people, events) into coherent wholes
-- **Sustaining**: Maintaining the simulation against interference
-
-The [[working-memory#The Maintenance/Manipulation Distinction|maintenance/manipulation asymmetry]] applies here too. Storing an intention may be relatively automatic; actively simulating a future scenario requires conscious engagement. This explains why PM failures often involve retrieval rather than storage—the intention was encoded but never "popped" into consciousness at the appropriate moment.
-
-The [[specious-present|specious present]]—the experienced duration of "now" (roughly 100ms to 5 seconds)—may constrain future simulation. Just as working memory capacity limits how much can be held simultaneously, the specious present may limit the temporal scope of vivid simulation. The "extended present" that Conway et al. (2016) describe—including both recent past and near future—may reflect the boundaries of what working memory can sustain with phenomenal vividness.
+The [[specious-present|specious present]] may constrain future simulation's temporal scope, with the "extended present" (Conway et al. 2016) reflecting what working memory can sustain with phenomenal vividness.
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionism]] poses a radical challenge: perhaps the phenomenology of future simulation—the "futuricity" quale, the sense of possibility, the felt projection into what might occur—is introspective confabulation rather than genuine phenomenal experience. On this view, the brain generates representations that *report* future-oriented phenomenology without any actual "what it's like" occurring.
+[[illusionism|Illusionism]] challenges whether futuricity is genuine phenomenology or introspective confabulation. Three responses:
 
-Three responses defend the reality of prospective phenomenology:
+**The regress problem.** If futuricity is an illusion, something must experience this illusion—the seeming-to-project-forward must seem *to* something. Either that something has genuine experience, or it too merely seems to experience (generating a regress).
 
-**The regress problem.** If the feeling of futuricity is an illusion, something must experience this illusion. The seeming-to-project-forward must seem *to* something. Either that something has genuine experience (in which case phenomenology exists), or it too merely seems to experience (generating a regress). The illusion of anticipating tomorrow requires some experience in which the illusion occurs.
+**Introspective stability.** When you attend carefully to imagining a future event, the futuricity doesn't dissolve—it intensifies. Closer attention reveals rather than dissolves the phenomenon.
 
-**The phenomenology of [[introspection|introspection]].** When you attend carefully to imagining a future event, the futuricity doesn't dissolve—it becomes more vivid. The sense of "not yet," of possibility, of projection toward what might occur intensifies under examination rather than exposing itself as empty. This pattern—closer attention revealing rather than dissolving the phenomenon—suggests we're tracking something real.
-
-**The asymmetry argument.** Pastness and futuricity feel categorically different, not merely as temporal labels but as phenomenal characters. If these were mere cognitive tags without experiential reality, why would they feel so distinct? The same information (an event involving you) accessed through [[episodic-memory|episodic memory]] or future simulation has radically different phenomenal texture. The asymmetry tracks something beyond informational content.
+**The asymmetry argument.** Pastness and futuricity feel categorically different as phenomenal characters. If these were mere cognitive tags, why would the same information accessed through [[episodic-memory|episodic memory]] versus future simulation have radically different texture?
 
 ## Contemplative Evidence
 
-Contemplative traditions provide independent evidence for the phenomenological claims about prospective consciousness.
+**[[witness-consciousness|Witness consciousness]] and future thought.** Meditators report observing future simulations arise as contents within awareness—the anticipated scenario appears with its futuricity intact while the witness remains present. This capacity to observe the possibility-character of future thoughts suggests futuricity is a genuine phenomenal feature.
 
-**[[witness-consciousness|Witness consciousness]] and future thought.** In meditative states, practitioners report observing future simulations arise as contents within awareness—the anticipated scenario appears with its futuricity intact while the witness remains in the present. This capacity to observe the possibility-character of future thoughts (rather than being absorbed in planning) suggests futuricity is a genuine phenomenal feature that can be witnessed as such.
+**Intention and volition.** Advanced meditators report that intention formation has a distinctive phenomenology that survives contemplative scrutiny rather than dissolving under examination.
 
-**Intention and volition.** Advanced meditators report that intention formation has a distinctive phenomenology distinct from both memory retrieval and current perception. The sense of "setting" an intention—establishing what will be done later—has qualitative features that survive contemplative scrutiny. Rather than dissolving under examination, the phenomenology of prospective commitment becomes clearer.
-
-**The worry-obsession contrast.** Contemplative practice reveals that anxious future simulation (worry) differs phenomenologically from deliberate prospective planning. Both project into possible futures, but their qualitative character differs—worry has a "sticky," compulsive quality that relaxed future thinking lacks. This phenomenological discrimination supports the reality of what's being discriminated.
+**The worry-obsession contrast.** Contemplative practice reveals that anxious future simulation differs phenomenologically from deliberate prospective planning—worry has a "sticky," compulsive quality that relaxed future thinking lacks.
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy illuminates why prospective consciousness involves genuine phenomenology rather than mere information processing.
+Whitehead's process philosophy illuminates prospective consciousness. Each actual occasion has a "subjective aim"—inherent directedness toward its own completion involving selection among future possibilities. Prospective memory, on this view, is consciousness accessing its own future-directed character.
 
-**Subjective aim and future-directedness.** For Whitehead, each actual occasion has a "subjective aim"—an inherent directedness toward its own completion. This aim involves valuation and selection among possibilities for the future. Prospective memory, on this view, is consciousness accessing its own future-directed character—the subjective aim made explicit through simulation and planning.
-
-**Eternal objects and possibility.** Whitehead's "eternal objects" are pure potentials that can be instantiated in actual occasions. Future simulation involves prehending eternal objects not yet instantiated—grasping possibilities as possibilities. The futuricity quale marks this distinctive mode of prehension: relating to what might become rather than what has occurred.
-
-**Why the "pop" requires experience.** The spontaneous retrieval of intentions can be understood as the "ingression" of an eternal object at the appropriate moment—the possibility (buy milk) becoming relevant to the present occasion (passing the shop). This ingression has experiential character because all prehension is experiential for Whitehead. The pop isn't mechanical triggering but the occasion's felt reception of newly relevant possibilities.
-
-**Concrescence and intention.** Intention formation is a form of concrescence—the coming-together of elements into a novel actual occasion. When you decide to attend a meeting on Friday, you create a new occasion that prehends that future scenario and commits to its actualisation. The phenomenology of intention reflects this creative act: you're not merely storing information but constituting a new experiential fact that will influence subsequent occasions.
+Future simulation involves prehending "eternal objects" (pure potentials) not yet instantiated—the futuricity quale marks this distinctive mode of relating to what might become rather than what has occurred. The spontaneous "pop" of intentions isn't mechanical triggering but the occasion's felt reception of newly relevant possibilities. Intention formation is a form of concrescence—constituting a new experiential fact that will influence subsequent occasions.
 
 ## What Would Challenge This View?
 
-The phenomenological claims about prospective memory would be challenged by:
+1. **Futuricity dissolving under analysis.** If careful [[introspection]] revealed the "not yet" character to be entirely inferential rather than immediately given. Currently, attention intensifies rather than decomposes the phenomenon.
 
-1. **Futuricity dissolving under analysis.** If careful [[introspection]] revealed the sense of futurity to be constructed from simpler, non-phenomenal elements—if the "not yet" character proved entirely inferential rather than immediately given—this would support reductionism. Currently, attention intensifies rather than decomposes the phenomenon.
+2. **Memory-future indistinguishability.** If remembering and future simulation proved phenomenologically identical under controlled conditions. Current evidence shows they feel categorically different even when matched for content.
 
-2. **Memory-future indistinguishability.** If remembering and future simulation proved phenomenologically identical under controlled conditions—if the only difference were a cognitive label—the claim that futuricity is a genuine quale would weaken. Current evidence shows the experiences feel categorically different even when matched for content and vividness.
+3. **Contemplative traditions reporting dissolution.** If advanced meditators consistently reported that future-oriented phenomenology disappears upon close examination. Currently, contemplative evidence suggests the opposite.
 
-3. **Contemplative traditions reporting dissolution.** If advanced meditators consistently reported that future-oriented phenomenology disappears upon close examination (rather than becoming clearer as an observed feature), this would support illusionism. Currently, contemplative evidence suggests the opposite.
-
-4. **Successful artificial prospective memory.** If a computational system demonstrated genuine future simulation with futuricity phenomenology—not just behavioral reports but actual "what it's like" to anticipate—without consciousness, this would challenge the constitutive connection between prospective memory and conscious experience. Assessing this requires solving the problem of other minds for artificial systems.
-
-5. **EFT effects without phenomenology.** If the behavioral benefits of future simulation (reduced temporal discounting, improved goal pursuit) occurred equally when future scenarios were processed unconsciously, with no phenomenal component, this would undermine the claim that conscious simulation does causal work. Current evidence suggests conscious vividness predicts the magnitude of behavioral effects.
+4. **EFT effects without phenomenology.** If the behavioral benefits of future simulation occurred equally when processed unconsciously. Current evidence suggests conscious vividness predicts behavioral effects.
 
 ## Relation to Site Perspective
 
 Prospective memory and future-oriented consciousness support all five foundational commitments.
 
-**[[tenets#^dualism|Dualism]]**: The phenomenology of future simulation involves irreducible qualia. The felt sense of futuricity, the self projected forward, the possibility character of imagined events—these are phenomenal properties that physical description doesn't capture. Neural activity in prefrontal cortex and hippocampus correlates with future thinking, but the correlation doesn't explain why there is something it is like to imagine tomorrow. The gap between neural mechanism and phenomenal character persists in both temporal directions. The [[illusionism|illusionist]] response—that futuricity is mere introspective confabulation—faces the regress problem detailed above: the illusion of anticipating requires some experience in which to be illuded.
+**[[tenets#^dualism|Dualism]]**: The phenomenology of future simulation involves irreducible qualia—futuricity, the self projected forward, the possibility character of imagined events. Neural activity correlates with future thinking, but correlation doesn't explain why there is something it is like to imagine tomorrow. The [[illusionism|illusionist]] response faces the regress problem: the illusion of anticipating requires some experience in which to be illuded.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The formation and maintenance of intentions may involve the same [[attention-as-interface|attention-mediated quantum mechanisms]] proposed for other conscious selection. When you form a distal intention (decide now to act later), you establish a pattern that must persist across time and retrieve at the appropriate moment. If [[mental-effort|mental effort]] operates through quantum Zeno-type mechanisms, intention formation involves consciousness selecting among superposed neural patterns representing possible futures. The [[decoherence]] objection applies here, but the relevant timescales may be short enough for selection operations, and biological quantum effects (avian magnetoreception, photosynthesis) demonstrate that evolution can exploit quantum phenomena.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Intention formation may involve the same [[attention-as-interface|attention-mediated quantum mechanisms]] proposed for other conscious selection. If [[mental-effort|mental effort]] operates through quantum Zeno-type mechanisms, intention formation involves consciousness selecting among superposed neural patterns representing possible futures. The [[decoherence]] objection applies, but biological quantum effects demonstrate that evolution can exploit quantum phenomena.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If conscious future simulation causally influences present decisions, consciousness participates in shaping action. The evidence that EFT reduces temporal discounting and improves goal-directed behaviour suggests mental representations of possible futures alter behavioural trajectories. This is precisely the downward causation the Map's framework proposes. The distal/proximal intention distinction matters here: even if Libet-style challenges undermine proximal motor commands, distal intentions formed through conscious planning causally shape the trajectory of subsequent behaviour. When you consciously commit on Monday to attend a meeting Friday, that conscious planning participates in causing your Friday arrival—regardless of what happens in the final moments of proximal action initiation.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Evidence that EFT reduces temporal discounting and improves goal-directed behaviour suggests conscious simulation causally shapes action—precisely the downward causation the Map proposes. Even if Libet-style challenges undermine proximal motor commands, distal intentions formed through conscious planning causally shape subsequent behaviour trajectories.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Future simulation presupposes that only one future will actualise. When you imagine alternative futures and choose among them, the deliberation makes sense only if the alternatives are genuinely exclusive. A many-worlds framework where all possibilities branch would undermine the coherence of prospective planning—why deliberate if all options will occur? The phenomenology of intention formation, with its sense of selecting among genuine possibilities, presupposes a single-history metaphysics. This connects to [[haecceity]]: the future you're planning for is *your* future, the one *this* particular subject will inhabit. In branching scenarios, "your" future becomes indeterminate—which branch's events are being anticipated? The indexical character of prospective memory requires haecceitistic facts that many-worlds eliminates.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Future simulation presupposes that only one future will actualise. Deliberation makes sense only if alternatives are genuinely exclusive—why deliberate if all options will occur? The phenomenology of intention formation presupposes single-history metaphysics. This connects to [[haecceity]]: the future you're planning for is *your* future, and in branching scenarios "your" future becomes indeterminate.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The "simpler" computational account—prospective memory as information storage and goal-directed retrieval—fails to explain the phenomenological dimension. Futuricity is not merely a timestamp on retrieved information; it's an immediately given phenomenal character. The asymmetry between pastness and futuricity, though both are "temporal markers," demonstrates that something beyond information content is involved. Dismissing the phenomenology as "less parsimonious" assumes we understand prospective cognition well enough to judge what's essential. The evidence that conscious vividness of simulation predicts behavioral effects suggests the phenomenology isn't epiphenomenal decoration but causally relevant. Sometimes the richer explanation—prospective memory involves irreducible phenomenology—is more adequate to the data than the superficially parsimonious one.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The "simpler" computational account fails to explain futuricity as immediately given phenomenal character (not merely a timestamp). Evidence that conscious vividness predicts behavioral effects suggests phenomenology isn't epiphenomenal decoration but causally relevant.
 
-**Agent Causation**: The formation of intentions is paradigmatically what [[agent-causation|agent causation]] describes. You decide now what to do later. The intention persists, retrieves at the appropriate moment, and guides action. This causal chain, from conscious decision through maintained intention to executed behaviour, is exactly what libertarian free will requires. The details of neural implementation may involve automatic processes, but the overall trajectory is set by conscious planning. The [[motor-selection|motor selection]] research suggests that even the final motor execution may involve the same attention-mediated selection mechanisms operating in intention formation, unifying voluntary action under a single interface model.
+**Agent Causation**: Intention formation is paradigmatically what [[agent-causation|agent causation]] describes—deciding now what to do later, with the intention persisting, retrieving, and guiding action. This causal chain is exactly what libertarian free will requires. The [[motor-selection|motor selection]] research suggests even final motor execution may involve the same attention-mediated selection mechanisms, unifying voluntary action under a single interface model.
 
 ## Further Reading
 
