@@ -4,7 +4,7 @@ description: "Autonoetic consciousness enables mental time travel, re-experienci
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-02-03T07:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -124,6 +124,16 @@ The sense of being the same person rests on the immediate phenomenal quality of 
 The illusionist account faces a regress. If felt pastness is an illusion, what is the *experience* of having that illusion like? Quasi-phenomenal properties require actual properties to *seem* phenomenal—for there to be an appearance of pastness, there must be an appearing, which is experiential. Could a philosophical zombie have quasi-phenomenal representations? If yes, why does functional tagging generate even quasi-phenomenal seeming? If no, then quasi-phenomenal properties require genuine phenomenal grounding.
 
 The remember/know paradigm shows that subjects reliably distinguish autonoetic from noetic access to *the same information*. If pastness were only a functional marker, why would it be so reliably detectable as phenomenally distinct? The discrimination's robustness suggests it tracks a real phenomenal difference.
+
+### Type-B Physicalism and the Phenomenal Concepts Strategy
+
+A more sophisticated physicalist response comes from Type-B physicalism. This view accepts the explanatory gap—that phenomenal truths aren't a priori deducible from physical truths—while denying the ontological gap. On this account, autonoetic consciousness is metaphysically identical to certain neural processes even though we cannot deduce its phenomenal character from physical descriptions.
+
+The *phenomenal concepts strategy* provides Type-B physicalists their key move. Our concepts of phenomenal states (like felt pastness) are cognitively distinct from our concepts of the underlying physical processes, even when the referents are identical. Just as "water" and "H₂O" refer to the same substance via different conceptual routes, "felt pastness" and "hippocampal reactivation pattern X" might refer to the same property differently. The conceivability of zombies or inverted autonoetic qualia, on this view, reflects limitations in our concepts rather than genuine metaphysical possibilities.
+
+The Map acknowledges this challenge but finds it insufficient for autonoetic consciousness specifically. The remember/know distinction shows the *same information* can be accessed with or without autonoetic character—suggesting phenomenal quality is not simply a different way of representing what's functionally present. If phenomenal concepts merely tracked functional states under a different guise, we would expect information access and phenomenal character to be inseparable. The clinical dissociations (episodic memories "semanticising" over time while retaining content) suggest autonoetic phenomenology is a genuine addition, not merely a conceptual perspective on fixed functional facts.
+
+Furthermore, the Type-B physicalist must explain why the pastness quale is *this* particular quality rather than some other. If phenomenal pastness is identical to neural state N, what makes N the pastness-experience rather than some other experience? The phenomenal concepts strategy explains away our puzzlement at the identity but doesn't explain why this identity holds rather than another. The Map holds that such identities require explanation that physicalism cannot provide.
 
 ### Contemplative Evidence
 

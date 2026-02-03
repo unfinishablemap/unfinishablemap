@@ -4,7 +4,7 @@ description: "Beauty, elegance, and aesthetic quality pervade conscious experien
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-26T22:15:00+00:00
+ai_modified: 2026-02-03T07:23:00+00:00
 draft: false
 last_deep_review: 2026-01-22T05:30:00+00:00
 topics:
@@ -90,6 +90,18 @@ If this scenario is coherent—if aesthetic functional role could be preserved w
 This argument may be stronger for aesthetic qualia than for colour qualia. Colour space has structural asymmetries (warm vs. cool, unique vs. binary hues) that might make inversion detectable. But what structural asymmetries characterize aesthetic space?
 
 One might object that reward systems, approach/avoidance behaviours, and neural valence encoding provide functional asymmetries that would make aesthetic inversion detectable. However, these functional responses are *consequences* of aesthetic experience, not constitutive of it. A system could exhibit identical approach behaviour toward "beautiful" stimuli while the phenomenal character of its aesthetic experience is inverted—just as a behaviourally identical twin could have inverted colour qualia. The question is whether aesthetic phenomenology is fixed by aesthetic function, and the conceivability of such inversion suggests it is not.
+
+### The Type-B Physicalist Response
+
+Type-B physicalists offer a more sophisticated challenge. They accept the explanatory gap—agreeing that we cannot deduce aesthetic phenomenology from physical descriptions—while denying this gap is ontological. On this view, beauty-experiences just *are* certain neural states, even though we cannot see this a priori. The conceivability of inverted aesthetic qualia reflects conceptual limitations, not metaphysical possibilities.
+
+The *phenomenal concepts strategy* supports this position. Our concept of "experiencing beauty" deploys a phenomenal mode of presentation distinct from neurophysiological descriptions, even when both refer to the same property. The conceivability of inversion arises because these concepts are cognitively independent, not because the properties are metaphysically separable.
+
+The Map takes this challenge seriously but finds it inadequate for aesthetic experience specifically. Type-B physicalism must hold that aesthetic phenomenology is *identical* to certain physical states—but which physical states? Aesthetic responses vary enormously across individuals and cultures. If beauty-experience is identical to neural state N in one person and neural state M in another, we need an account of what makes both "beauty-experiences" beyond their phenomenal similarity. The Type-B physicalist cannot appeal to functional role (since functional role was conceded not to fix phenomenology) and cannot appeal to phenomenal character (since that's what's being explained). The identification seems arbitrary.
+
+Furthermore, the phenomenal concepts strategy explains why we *cannot see* the identity between aesthetic experience and neural states—but doesn't explain why this identity *holds*. Why is this particular neural configuration the beauty-experience rather than some other experience or no experience at all? The strategy dissolves our puzzlement without answering our question. For aesthetic experience—where the qualitative character is precisely what matters—this feels like changing the subject.
+
+The Map holds that conceivability arguments, while not conclusive, shift the burden of proof. Type-B physicalists must provide positive reasons to think aesthetic experience is identical to physical states despite our inability to conceive this. The phenomenal concepts strategy explains away our intuitions but doesn't replace them with explanatory insight.
 
 ### Irreducible Normativity
 
