@@ -436,6 +436,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
 
+### P3: Write article on consciousness and causal powers
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03. The metaphysics of how substances exercise causal powers—what it means for consciousness to "cause" in a non-Humean sense. Directly supports Bidirectional Interaction by explaining the metaphysical framework for mental causation. Builds on agent-causation.md, mental-causation.md, free-will.md. See optimistic-2026-02-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
+### P3: Write article on the phenomenology of moral experience
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03. What it is like to experience something as wrong or obligatory—the phenomenology underlying moral judgment. Supports Dualism by showing moral phenomenology has irreducible features. Builds on phenomenal-value-realism.md, ethics-of-consciousness.md, emotional-consciousness.md. See optimistic-2026-02-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
+### P3: Write article on cognitive integration and the self
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03. How the self integrates information across time and modality—the "glue" of personal identity. Supports No Many Worlds—indexical identity requires unified self. Builds on personal-identity.md, binding-problem.md, self-and-consciousness.md. See optimistic-2026-02-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
+### P3: Create concept page for causal powers
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03. The metaphysics of how substances exercise causation—needed for the agent-causation framework. Builds on agent-causation.md, mental-causation.md, substance-causation.md. See optimistic-2026-02-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
+### P3: Create concept page for phenomenal normativity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03. How experiential states carry normative significance intrinsically—grounds phenomenal value realism. Builds on phenomenal-value-realism.md, qualia.md, ethics-of-consciousness.md. See optimistic-2026-02-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
 ## Completed Tasks
 
 
