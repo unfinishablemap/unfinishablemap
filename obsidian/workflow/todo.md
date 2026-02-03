@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Cross-review phenomenology-of-the-edge.md considering probability-intuition-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/probability-intuition-void.md (2026-02-03) explores human minds' architectural failure at probabilistic reasoning. The phenomenology-of-the-edge.md article covers cognitive limits and edge experiences. Cross-review for: (1) cross-links between the two, (2) how probability intuition failure relates to edge phenomenology, (3) whether this void represents a distinct category of cognitive limit.
-- **Source**: chain (from probability-intuition-void.md)
-- **Generated**: 2026-02-03
-
 ### P2: Condense functionalism.md (4250 words, 170% of hard threshold)
 - **Type**: condense
 - **Notes**: Concept article severely exceeds 2500-word threshold despite multiple previous attempts. This is the worst length offender in concepts/. Consider aggressive restructuring: extract detailed objection-response pairs to separate philosophical arguments treatment, keep only essential conceptual overview here. Core definition and key objections must be preserved. See /condense skill.
@@ -455,6 +449,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Cross-review phenomenology-of-the-edge.md considering probability-intuition-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/probability-intuition-void.md (2026-02-03) explores human minds' architectural failure at probabilistic reasoning. The phenomenology-of-the-edge.md article covers cognitive limits and edge experiences. Cross-review for: (1) cross-links between the two, (2) how probability intuition failure relates to edge phenomenology, (3) whether this void represents a distinct category of cognitive limit.
+- **Output**: obsidian/voids/phenomenology-of-the-edge.md -- Context: Cross-review phenomenology-of-the-edge.md considering probability-intuition-void insights
 
 ### ✓ 2026-02-03: Integrate attentional-economics.md into site navigation
 - **Type**: integrate-orphan
