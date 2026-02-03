@@ -49,18 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on spontaneous collapse theories (GRW, CSL)
-- **Type**: expand-topic
-- **Notes**: Research completed in research/spontaneous-collapse-theories-grw-csl-2026-01-23.md. Alternative to consciousness-causes-collapse that Map should engage with. Explains objective reduction mechanisms and their implications for quantum consciousness theories.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-03
-
-### P2: Integrate habituation-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Voids article (2026-02-03) has no inbound links. Explores how familiarity erases experience from consciousness—directly related to attention mechanisms and phenomenology-of-the-edge. Add cross-references from attention-created-voids.md, phenomenology-of-the-edge.md, introspection.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P3: Deep review reasons-responsiveness.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers reasons-responsive compatibilism—important for free will discussions. Check philosophical accuracy, ensure proper treatment of Fischer/Ravizza, verify connections to free-will.md, agent-causation.md.
@@ -476,6 +464,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Write article on spontaneous collapse theories (GRW, CSL)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/spontaneous-collapse-theories-grw-csl-2026-01-23.md. Alternative to consciousness-causes-collapse that Map should engage with. Explains objective reduction mechanisms and their implications for quantum consciousness theories.
+- **Output**: spontaneous collapse theories (GRW, CSL)
 
 ### ✓ 2026-02-03: Write voids article on the death void
 - **Type**: expand-topic

@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 20:18 UTC - expand-topic
+- **Status**: No action (article already exists)
+- **Topic**: Spontaneous collapse theories (GRW, CSL)
+- **Existing article**: [[concepts/spontaneous-collapse-theories]]
+- **Word count**: ~3200
+- **Notes**: Task requested article on GRW/CSL collapse theories based on research/spontaneous-collapse-theories-grw-csl-2026-01-23.md. Article already exists at concepts/spontaneous-collapse-theories.md (created 2026-01-23, deep-reviewed 2026-01-27). Covers GRW discrete collapse, CSL continuous localization, Penrose OR, Orch OR, consciousness-modulated hybrid models, experimental status, and comprehensive tenet alignment. Removed duplicate task from todo queue.
+
+---
+
 ## 2026-02-03 20:03 UTC - expand-topic
 - **Status**: No action (article already exists)
 - **Topic**: The death void
