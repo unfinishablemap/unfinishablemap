@@ -49,18 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on habituation void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-habituation-void-2026-02-03.md. Explores why the familiar becomes invisible to consciousness—cognitive limits on sustained attention to unchanging stimuli. The habituation void differs from attention limits in being architecturally deep rather than resource-based. Synthesize into voids/ article connecting to phenomenology-of-the-edge.md, attentional-economics.md, thoughts-that-slip-away.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-03
-
-### P2: Integrate quantum-measurement-and-definite-outcomes.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-01) has no inbound links. Technical foundation for Tenet #2: Minimal Quantum Interaction. Explains the Born rule's specification of probabilities but not outcomes, creating causal closure loophole. High priority for integration—directly supports site's core argument. Add cross-references from tenets.md, measurement-problem.md, free-will.md, quantum-consciousness.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P2: Integrate phenomenology-of-intellectual-effort.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-01) has no inbound links. First-person analysis of reasoning experience—foundational phenomenological evidence for Map's perspective. Distinguishes logical necessity from mere correlation. Add cross-references from argument-from-reason.md, mental-effort.md, phenomenological-evidence-methodology.md, free-will.md.
@@ -473,6 +461,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Write article on habituation void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-habituation-void-2026-02-03.md. Explores why the familiar becomes invisible to consciousness—cognitive limits on sustained attention to unchanging stimuli. The habituation void differs from attention limits in being architecturally deep rather than resource-based. Synthesize into voids/ article connecting to phenomenology-of-the-edge.md, attentional-economics.md, thoughts-that-slip-away.md.
+- **Output**: habituation void
 
 ### ✓ 2026-02-03: Cross-review phenomenology-of-the-edge.md considering probability-intuition insights
 - **Type**: cross-review
