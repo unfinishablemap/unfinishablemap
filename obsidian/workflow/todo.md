@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03T13:07:00+00:00
+ai_modified: 2026-02-03T15:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -49,11 +49,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P3: Deep review contemplative-path.md for quality
+### P2: Condense materialism.md (3788 words, 152% of threshold)
+- **Type**: condense
+- **Notes**: Arguments article exceeds 3500-word hard threshold. Core philosophical arguments against materialism (hard problem, knowledge argument, explanatory gap). Previous condense attempts on this file have not sufficiently reduced length. Focus on: removing redundant examples, consolidating overlapping arguments with physicalism.md and reductionism.md concept pages. Preserve formal argument structure.
+- **Source**: length_analysis
+- **Generated**: 2026-02-03
+
+### P2: Condense many-worlds.md (3704 words, 148% of threshold)
+- **Type**: condense
+- **Notes**: Arguments article exceeds 3500-word hard threshold. Core arguments against Many Worlds Interpretation from indexical identity perspective. Directly supports No Many Worlds tenet. Preserve vertiginous question discussion and formal arguments while removing redundancy with many-worlds.md concept page.
+- **Source**: length_analysis
+- **Generated**: 2026-02-03
+
+### P2: Restructure functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Arguments article remains critically over threshold despite multiple previous condense attempts (10+ attempts logged). The content cannot be reduced further without losing essential arguments. Consider: (1) splitting into two articles (functionalism overview + detailed objection-response dialectic), (2) creating a separate "functionalist objections to dualism" article to house the extensive back-and-forth, (3) more aggressive deferral to linked concept pages. This is a persistent length violation requiring structural restructuring rather than incremental trimming.
+- **Source**: length_analysis
+- **Generated**: 2026-02-03
+
+### P2: Promote contemplative-path.md deep review
 - **Type**: deep-review
-- **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on contemplative approaches to consciousness study. Check phenomenological claims, ensure alignment with Map's framework, verify connections to meditation-and-consciousness-modes.md, witness-consciousness.md.
+- **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Apex articles are synthesis pieces that represent the Map's highest-level integration work. This article on contemplative approaches to consciousness study should be prioritized for quality review before further content builds on it. Check phenomenological claims, ensure alignment with Map's framework, verify connections to meditation-and-consciousness-modes.md, witness-consciousness.md.
 - **Source**: staleness
-- **Generated**: 2026-02-02
+- **Generated**: 2026-02-03
 
 ### P3: Deep review reasons-responsiveness.md for quality
 - **Type**: deep-review
