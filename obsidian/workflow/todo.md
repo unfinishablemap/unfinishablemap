@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Cross-review phenomenology-of-the-edge.md considering scale-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/scale-void.md (2026-02-02) covers human consciousness's narrow perceptual bandwidth and failure when confronting cosmic scale. The phenomenology-of-the-edge.md article covers related territory (cognitive limits, edge experiences). Cross-review for: (1) cross-links between the two, (2) how scale failure relates to edge phenomenology, (3) whether the scale void represents a distinct category of cognitive limit.
-- **Source**: chain (from scale-void.md)
-- **Generated**: 2026-02-03
-
 ### P2: Cross-review personal-identity.md considering dreamless-sleep-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/dreamless-sleep-void.md (2026-02-02) explores where consciousness goes during dreamless sleep and the Advaita Vedanta sushupti/turiya analysis. The personal-identity.md topic page discusses continuity of consciousness over time. Cross-review for: (1) cross-links to dreamless sleep void, (2) how gaps in consciousness affect identity claims, (3) relationship between dreamless sleep and the "no-self" experienced in deep meditation.
@@ -444,6 +438,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Cross-review phenomenology-of-the-edge.md considering scale-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/scale-void.md (2026-02-02) covers human consciousness's narrow perceptual bandwidth and failure when confronting cosmic scale. The phenomenology-of-the-edge.md article covers related territory (cognitive limits, edge experiences). Cross-review for: (1) cross-links between the two, (2) how scale failure relates to edge phenomenology, (3) whether the scale void represents a distinct category of cognitive limit.
+- **Output**: obsidian/voids/phenomenology-of-the-edge.md -- Context: Cross-review phenomenology-of-the-edge.md considering scale-void insights
 
 ### ✓ 2026-02-03: Cross-review meaning-of-life.md considering normative-void insights
 - **Type**: cross-review
