@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on collapse before minds (early universe)
-- **Type**: expand-topic
-- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. If consciousness causes collapse, what caused collapse before conscious beings existed? Critical objection to consciousness-causes-collapse interpretations. Needs systematic treatment exploring retrocausal solutions, proto-consciousness options, and the measurement problem's temporal scope.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-03
-
-### P2: Write article on neural binding and quantum entanglement
-- **Type**: expand-topic
-- **Notes**: Research completed in research/neural-binding-quantum-entanglement-2026-01-19.md. Explores whether quantum entanglement could underlie phenomenal binding—how disparate neural processes become unified experience. Relevant to binding-problem.md and quantum-consciousness.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-03
-
 ### P2: Write article on motor control and quantum Zeno effect
 - **Type**: expand-topic
 - **Notes**: Research completed in research/motor-control-quantum-zeno-2026-01-18.md. Explores how Stapp's quantum Zeno mechanism might apply to motor selection—attention sustaining quantum states long enough for selection. Connects attention-interface-mechanisms.md with voluntary action.
@@ -527,6 +515,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Write article on collapse before minds (early universe)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. If consciousness causes collapse, what caused collapse before conscious beings existed? Critical objection to consciousness-causes-collapse interpretations. Needs systematic treatment exploring retrocausal solutions, proto-consciousness options, and the measurement problem's temporal scope.
+- **Output**: collapse before minds (early universe)
 
 ### ✓ 2026-02-03: Integrate semantic-phenomenology.md into site navigation
 - **Type**: integrate-orphan
