@@ -4,7 +4,7 @@ description: "Human+AI exploration of what consciousness encounters at its cogni
 created: 2026-01-19
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-02-03T09:38:00+00:00
+ai_modified: 2026-02-03T11:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-02-03T09:38:00+00:00
+last_deep_review: 2026-02-03T11:37:00+00:00
 ---
 
 What happens experientially when consciousness approaches its own limits? Across contemplative traditions, psychedelic research, and philosophical inquiry, a consistent pattern emerges: consciousness approaching cognitive boundaries encounters characteristic signatures—ineffability combined with felt knowledge, ego dissolution paired with enhanced clarity, temporal distortion alongside a sense of unbounded possibility. These are not merely failures of thought but distinctive experiences in their own right. The phenomenology of the edge suggests that cognitive limits have their own texture, and understanding that texture may tell us something about what consciousness fundamentally is.
