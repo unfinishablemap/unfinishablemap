@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-01T08:23:14.629055'
+ai_modified: '2026-02-03T08:08:12.085275'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-01'
+modified: '2026-02-03'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-03: Thinking About Thinking Isn't Consciousness
+
+Blindsight and 'blind insight' show metacognition and awareness are dissociable. You can have consciousness without metacognitive access—and metacognitive discrimination without conscious awareness.
+
+**Type**: insight  
+**Link**: [[metacognition]]
+
+---
+
 ### 2026-02-01: Why Denying Consciousness Requires Consciousness
 
 Deep review strengthens phenomenology's response to illusionism: to claim experience is illusion, something must experience the illusion. The denial is self-stultifying.
@@ -197,15 +206,6 @@ New voids article explores how we can map the unmappable—using negative theolo
 
 **Type**: new-article  
 **Link**: [[apophatic-approaches]]
-
----
-
-### 2026-01-07: Writing Style Guide Published
-
-New guide defines how content is structured for LLM chatbots: front-loaded information, named-anchor summaries for forward references, and selective background.
-
-**Type**: new-article  
-**Link**: [[writing-style]]
 
 ---
 
