@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review interactionist-dualism.md considering delegatory dualism insights
-- **Type**: cross-review
-- **Notes**: New article topics/delegatory-dualism.md (2026-02-03) covers Bradford Saad's 2025 dualist theory. The interactionist-dualism.md concept page should be cross-reviewed for: (1) cross-links to delegatory dualism treatment, (2) how Saad's framework relates to classical interactionism, (3) potential strengthening of interactionist arguments from Saad's work.
-- **Source**: chain (from delegatory-dualism.md)
-- **Generated**: 2026-02-03
-
 ### P2: Cross-review dreams-and-consciousness.md considering lucid dreaming insights
 - **Type**: cross-review
 - **Notes**: New article topics/lucid-dreaming-and-consciousness.md (2026-02-03) explores lucid dreaming as evidence for consciousness's causal role. The dreams-and-consciousness.md concept page should be cross-reviewed for: (1) cross-links to lucid dreaming treatment, (2) how lucid state phenomenology strengthens filter model arguments, (3) ensuring consistent treatment of dream consciousness across articles.
@@ -479,6 +473,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Cross-review interactionist-dualism.md considering delegatory dualism insights
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (2026-02-03) covers Bradford Saad's 2025 dualist theory. The interactionist-dualism.md concept page should be cross-reviewed for: (1) cross-links to delegatory dualism treatment, (2) how Saad's framework relates to classical interactionism, (3) potential strengthening of interactionist arguments from Saad's work.
+- **Output**: obsidian/concepts/interactionist-dualism.md -- Context: Cross-review interactionist-dualism.md considering delegatory dualism insights
 
 ### ✓ 2026-02-03: Condense functionalism.md (4250 words, 170% of threshold)
 - **Type**: condense
