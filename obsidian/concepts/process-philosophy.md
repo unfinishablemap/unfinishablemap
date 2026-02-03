@@ -69,7 +69,7 @@ The traditions diverge on temporal atomism. Whitehead's actual occasions are dis
 
 ## The Combination Problem
 
-Process philosophy's panpsychist tendency inherits the [[combination-problem|combination problem]]: if fundamental events are experiential, how do many micro-experiences combine into unified consciousness? William James's objection—that conscious states seem "shut in their own skin"—applies as forcefully to Whiteheadian occasions as to particles.
+Process philosophy's panpsychist tendency inherits the [[combination-problem|combination problem]]: if fundamental events are experiential, how do many micro-experiences combine into unified consciousness? [[william-james-consciousness|William James's]] objection—that conscious states seem "shut in their own skin"—applies as forcefully to Whiteheadian occasions as to particles.
 
 Whitehead's answer involves the "personally ordered society"—a stream of occasions where each inherits from its predecessors with peculiar intimacy, creating the continuity we experience as a self. But critics argue this doesn't explain *why* inheritance feels unified rather than merely serial. Why does prehending my past occasion feel like being the same subject, rather than like reading someone else's diary?
 

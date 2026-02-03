@@ -38,7 +38,7 @@ last_deep_review: 2026-01-21T23:30:00+00:00
 
 The specious present is the experienced duration of the present moment—not the mathematical instant of physics but the lived interval within which succession and change appear unified. When you hear a melody, you don't experience isolated tones but phrases, progressions, resolutions. This temporal thickness of experience, ranging from roughly 100 milliseconds to 3 seconds depending on methodology, is fundamental to what consciousness is.
 
-The concept, named by E.R. Clay and developed by William James, became central to Husserl's [[phenomenology|phenomenology]] of time-consciousness and remains crucial for understanding why consciousness might resist computational replication. For The Unfinishable Map's framework, the specious present may be the phenomenological manifestation of consciousness's constitutive role in time—what quantum collapse feels like from within.
+The concept, named by E.R. Clay and developed by [[william-james-consciousness|William James]], became central to Husserl's [[phenomenology|phenomenology]] of time-consciousness and remains crucial for understanding why consciousness might resist computational replication. For The Unfinishable Map's framework, the specious present may be the phenomenological manifestation of consciousness's constitutive role in time—what quantum collapse feels like from within.
 
 ## The Concept
 

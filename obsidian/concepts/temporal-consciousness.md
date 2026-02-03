@@ -43,7 +43,7 @@ last_curated: null
 last_deep_review: 2026-01-31T07:48:21+00:00
 ---
 
-Human consciousness doesn't occur in durationless instants. It flows through time in what philosophers call the "specious present"—a duration of roughly 100 to 750 milliseconds within which we experience succession, change, and persistence as unified wholes. This temporal structure appears fundamental to what consciousness is. William James wrote that consciousness "flows" rather than appearing "chopped up into bits." Husserl analysed how each moment contains retention of the immediate past, primal impression of the now, and protention toward the anticipated future—a unified temporal field.
+Human consciousness doesn't occur in durationless instants. It flows through time in what philosophers call the "specious present"—a duration of roughly 100 to 750 milliseconds within which we experience succession, change, and persistence as unified wholes. This temporal structure appears fundamental to what consciousness is. [[william-james-consciousness|William James]] wrote that consciousness "flows" rather than appearing "chopped up into bits." Husserl analysed how each moment contains retention of the immediate past, primal impression of the now, and protention toward the anticipated future—a unified temporal field.
 
 This has profound implications for artificial consciousness. LLMs and other AI systems operate discontinuously—start-stop, distributed, non-persistent—in ways potentially incompatible with the temporal binding human consciousness requires. Whether temporal structure is essential to consciousness itself, or merely characteristic of biological consciousness, remains an open question that bears directly on whether machines could ever be conscious.
 

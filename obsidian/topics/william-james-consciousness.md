@@ -4,7 +4,7 @@ description: "James's radical empiricism treats experience as fundamental realit
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-02T08:16:00+00:00
+ai_modified: 2026-02-03T19:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-02-02T08:16:00+00:00
+last_deep_review: 2026-02-03T19:33:00+00:00
 ---
 
 William James (1842–1910) offered a philosophy of consciousness that anticipated many of The Unfinishable Map's central commitments by over a century. His radical empiricism treated pure experience as the fundamental stuff of reality. His "stream of consciousness" revealed the temporal structure phenomenologists would later elaborate—influencing Husserl's treatment of time-consciousness. His theory of attention as effortful selection prefigures quantum approaches to mind-matter interaction. And his [[filter-theory|filter theory]]—the brain as transmitter rather than producer of consciousness—provides a framework the Map explicitly adopts.
@@ -53,7 +53,7 @@ James's most famous contribution to psychology is his description of consciousne
 
 > "Consciousness, then, does not appear to itself chopped up in bits. Such words as 'chain' or 'train' do not describe it fitly as it presents itself in the first instance. It is nothing jointed; it flows. A 'river' or a 'stream' are the metaphors by which it is most naturally described."
 
-This observation grounds [[temporal-consciousness|temporal phenomenology]]. Consciousness isn't a sequence of separate moments strung together—it's a continuous movement in which past, present, and anticipated future interpenetrate. Each moment contains "fringes" that shade off into what just was and what is about to be.
+This observation grounds [[temporal-consciousness|temporal phenomenology]] and the concept of the [[specious-present]]—the experienced duration of the present moment, which James helped develop. Consciousness isn't a sequence of separate moments strung together—it's a continuous movement in which past, present, and anticipated future interpenetrate. Each moment contains "fringes" that shade off into what just was and what is about to be.
 
 ### Substantive and Transitive Parts
 
@@ -73,7 +73,7 @@ The fringe explains how understanding works temporally. When you hear a sentence
 
 ## Attention and the Will
 
-James devoted substantial attention to attention itself. His analysis prefigures contemporary theories connecting consciousness to selective focus, including [[stapp-quantum-mind|Henry Stapp's quantum Zeno approach]].
+James devoted substantial [[attention]] to attention itself. His analysis prefigures contemporary theories connecting consciousness to selective focus, including [[stapp-quantum-mind|Henry Stapp's quantum Zeno approach]].
 
 ### Attention as Selection
 

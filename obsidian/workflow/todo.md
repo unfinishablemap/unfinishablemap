@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate william-james-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article has no inbound links. Covers William James's contributions to consciousness studies—stream of consciousness, radical empiricism, pragmatic approach. Historical context for the Map's framework. Add cross-references from consciousness.md, phenomenology.md, temporal-consciousness.md, introspection.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P3: Deep review reasons-responsiveness.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers reasons-responsive compatibilism—important for free will discussions. Check philosophical accuracy, ensure proper treatment of Fischer/Ravizza, verify connections to free-will.md, agent-causation.md.
@@ -470,6 +464,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate william-james-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Covers William James's contributions to consciousness studies—stream of consciousness, radical empiricism, pragmatic approach. Historical context for the Map's framework. Add cross-references from consciousness.md, phenomenology.md, temporal-consciousness.md, introspection.md.
+- **Output**: obsidian/topics/william-james-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-03: Integrate consciousness-and-language-interface.md into site navigation
 - **Type**: integrate-orphan

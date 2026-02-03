@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 19:33 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/william-james-consciousness]]
+- **Word count**: 2332 → 2354 (+22)
+- **Focus**: Orphan integration (article had zero inbound links)
+- **Critical issues addressed**: 0 (none found; article stable from previous review)
+- **Medium issues addressed**: 0 (none found)
+- **Cross-links added to target**: 2 (specious-present, attention)
+- **Inbound links added**: 6 (from filter-theory, specious-present, mental-effort, temporal-consciousness, attention, process-philosophy)
+- **Output**: [[reviews/deep-review-2026-02-03-william-james-consciousness]]
+
+---
+
 ## 2026-02-03 19:18 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-language-interface]]
