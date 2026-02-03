@@ -17,6 +17,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 23:18 UTC - coalesce
+- **Status**: No candidates found
+- **Articles analyzed**: 18+ articles across 7 candidate groups
+- **Outcome**: Site content is well-differentiated. Prior consolidation efforts have been effective.
+- **Analysis summary**:
+  - Decoherence pair (decoherence.md, quantum-decoherence-objection.md): The survey article covers broad context (quantum biology, process philosophy, Zeno mechanism) while the objection article focuses on specific Tegmark critique and timing constraints. Well-differentiated.
+  - Consciousness-value group (3 articles): consciousness-value-connection.md, phenomenal-value-realism.md, phenomenal-value-realism-development.md are intentionally structured as foundational claim, metaethical position, and development article. All three reference each other appropriately.
+  - Interactionist dualism + history: The concept article covers contemporary position; history article is a historical survey from Descartes to present. Appropriately separate.
+  - Binding problem + unity of consciousness: binding-problem.md focuses on BP1/BP2 distinction and mechanisms; unity-of-consciousness.md focuses on dimensions of unity (synchronic, diachronic, subject) and philosophical puzzles. Both already coalesced from prior articles.
+  - Attention-motor articles: motor-selection.md already has `coalesced_from` field indicating prior merge. Orphan attention-motor-quantum-interface.md exists in both obsidian/ and archive/ directories—likely a sync issue but not a merge candidate.
+- **Coalesced articles found in codebase**: 23 articles have `coalesced_from` metadata indicating prior consolidation work
+- **Action**: None required—no strong merge candidates exist
+
+---
+
 ## 2026-02-03 23:03 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/death-and-consciousness]]
