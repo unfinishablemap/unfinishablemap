@@ -26,6 +26,11 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated: null
+archived: true
+archived_date: 2026-02-03T09:52:00+00:00
+superseded_by: "/concepts/symbol-grounding-problem/"
+archive_reason: "Coalesced into Symbol Grounding Problem (concepts version)"
+original_path: "/topics/symbol-grounding-problem/"
 ---
 
 The symbol grounding problem asks how symbols in a computational system can acquire meaning intrinsic to the system rather than parasitic on human interpretation. Stevan Harnad formalised this challenge in 1990: how can meanings be "grounded in anything but other meaningless symbols"? The problem strikes at the heart of symbolic AI and computational theories of mind, revealing that syntactic manipulation alone cannot generate genuine understanding. For The Unfinishable Map, the symbol grounding problem provides powerful support for dualism: if meaning requires something beyond computational process, that something may be [[phenomenal-intentionality|phenomenal consciousness]].

@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 09:52 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/symbol-grounding-problem]]
+- **Target**: [[concepts/symbol-grounding-problem]]
+- **Archived**: [[archive/topics/symbol-grounding-problem]]
+- **References to review**: 0 (cross-review task already complete)
+- **Notes**: Merged duplicate symbol-grounding-problem articles. Topics version (2026-02-02) was newer but less comprehensive than concepts version (2026-01-30). Concepts version retained with additional topic/concept references merged in. Topics version archived with redirect metadata.
+
+---
+
 ## 2026-02-03 09:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/phenomenology-of-the-edge]]

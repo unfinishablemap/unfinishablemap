@@ -4,13 +4,14 @@ description: "How symbols acquire meaning intrinsic to a system rather than para
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-02T17:43:00+00:00
+ai_modified: 2026-02-03T09:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
   - "[[meaning-and-consciousness]]"
   - "[[language-recursion-and-consciousness]]"
+  - "[[machine-consciousness]]"
 concepts:
   - "[[intentionality]]"
   - "[[functionalism]]"
@@ -20,6 +21,8 @@ concepts:
   - "[[working-memory]]"
   - "[[baseline-cognition]]"
   - "[[continual-learning-argument]]"
+  - "[[phenomenal-intentionality]]"
+  - "[[qualia]]"
 related_articles:
   - "[[tenets]]"
   - "[[symbol-grounding-problem-2026-01-30]]"
@@ -29,6 +32,8 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-30
 last_curated: null
 last_deep_review: 2026-02-02T17:43:00+00:00
+coalesced_from:
+  - "/topics/symbol-grounding-problem/"
 ---
 
 The symbol grounding problem asks how symbols in a computational system can acquire meaning *intrinsic* to that system rather than meaning borrowed from human interpreters. When you think about Paris, your thought is genuinely *about* Paris. When a computer processes the symbol "Paris," is that symbol about anything for the computer—or only for the humans who read its outputs?
