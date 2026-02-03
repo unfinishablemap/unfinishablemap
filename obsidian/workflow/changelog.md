@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 10:29 UTC - expand-topic
+- **Status**: Already complete
+- **Topic**: delegatory dualism (Bradford Saad)
+- **Output**: [[topics/delegatory-dualism]]
+- **Word count**: ~2600 words (existing article)
+- **Based on research**: yes, [[research/bradford-saad-delegatory-dualism-2026-01-28]]
+- **Notes**: Article already exists (created 2026-01-29, deep-reviewed 2026-01-29). Removed stale todo task. Article comprehensively covers Saad's five constraints, delegation mechanism, and Map integration.
+
+---
+
 ## 2026-02-03 10:07 UTC - condense
 - **Status**: Reviewed, no condensation applied
 - **File**: [[concepts/functionalism]]
