@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-02-03T09:37:54.033507+00:00'
-session_count: 1643
-cycle_position: 880
+last_updated: '2026-02-03T09:52:54.034454+00:00'
+session_count: 1644
+cycle_position: 881
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/concepts/prospective-memory.md)
-  type: condense
-  date: '2026-02-03'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-02-03'
@@ -127,5 +123,9 @@ recent_tasks:
   outcome: success
 - task: deep-review (obsidian/voids/phenomenology-of-the-edge.md -- Con)
   type: deep-review
+  date: '2026-02-03'
+  outcome: success
+- task: coalesce
+  type: coalesce
   date: '2026-02-03'
   outcome: success

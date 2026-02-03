@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 10:07 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [[concepts/functionalism]]
+- **Word count**: 2036 words (81% of 2500-word soft threshold)
+- **Reason**: Article is well under the soft threshold for concepts/ section. Content is appropriately dense with no redundancy, background knowledge is already well-linked rather than over-explained, and all sections serve the core argument. The article effectively balances exposition of functionalism with the Map's dualist critique.
+
+---
+
 ## 2026-02-03 09:52 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[topics/symbol-grounding-problem]]

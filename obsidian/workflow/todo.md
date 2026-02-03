@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense functionalism.md (4250 words, 170% of hard threshold)
-- **Type**: condense
-- **Notes**: Concept article severely exceeds 2500-word threshold despite multiple previous attempts. This is the worst length offender in concepts/. Consider aggressive restructuring: extract detailed objection-response pairs to separate philosophical arguments treatment, keep only essential conceptual overview here. Core definition and key objections must be preserved. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-03
-
 ### P3: Deep review contemplative-path.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on contemplative approaches to consciousness study. Check phenomenological claims, ensure alignment with Map's framework, verify connections to meditation-and-consciousness-modes.md, witness-consciousness.md.
@@ -449,6 +443,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Condense functionalism.md (4250 words, 170% of hard threshold)
+- **Type**: condense
+- **Notes**: Concept article severely exceeds 2500-word threshold despite multiple previous attempts. This is the worst length offender in concepts/. Consider aggressive restructuring: extract detailed objection-response pairs to separate philosophical arguments treatment, keep only essential conceptual overview here. Core definition and key objections must be preserved. See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-03: Cross-review phenomenology-of-the-edge.md considering probability-intuition-void insights
 - **Type**: cross-review
