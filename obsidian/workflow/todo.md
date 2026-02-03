@@ -504,6 +504,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-03
 
+### P3: Write article on phenomenology of epistemic achievement
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03 (evening). What it's like to *grasp* something—the "click" of understanding, the "settling" of conviction. This phenomenology supports the argument from reason: genuine understanding involves normative relations that physical causation alone cannot instantiate. Builds on phenomenology-of-understanding.md, cognitive-phenomenology.md, epistemic-emotions.md. See optimistic-2026-02-03-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
+### P3: Write article on introspection rehabilitation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03 (evening). The process/content distinction—we're unreliable about *why* we choose but reliable about *what* we experience. Fox et al. (2012) found meditation training improves introspective accuracy, suggesting introspection is a skill. Defends phenomenological evidence against illusionism's reliance on introspective unreliability. Builds on introspection.md, contemplative-evidence-for-consciousness-theories.md, witness-consciousness.md. See optimistic-2026-02-03-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
+### P3: Write article on evolution under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-03 (evening). If consciousness is irreducible, how does evolution select for it? The amplifier framework answers: evolution selects for cognitive capacities (metarepresentation, counterfactual reasoning, cumulative culture) that consciousness enables. Addresses "why would evolution produce non-physical minds?" objection. Builds on evolution-of-consciousness.md, baseline-cognition.md, consciousness-as-amplifier.md. See optimistic-2026-02-03-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-03
+
 ## Completed Tasks
 
 
