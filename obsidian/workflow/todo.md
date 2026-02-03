@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Cross-review time-symmetric-physics.md considering presentiment article
-- **Type**: cross-review
-- **Notes**: New article topics/presentiment-and-retrocausality.md (2026-02-02) explores whether quantum retrocausality could underlie presentiment phenomena. The time-symmetric-physics.md concept page discusses retrocausal interpretations of QM. Cross-review for: (1) cross-links to the presentiment treatment, (2) how empirical presentiment evidence relates to theoretical retrocausality, (3) ensuring consistent treatment of Aharonov's two-state vector formalism.
-- **Source**: chain (from presentiment-and-retrocausality.md)
-- **Generated**: 2026-02-03
-
 ### P2: Integrate normative-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Voids article (2026-02-02) has no inbound links. Explores cognitive limits on moral knowledge—possible ethical facts human minds cannot access. Add cross-references from meaning-of-life.md, ethics-of-consciousness.md, phenomenal-value-realism.md, alien-minds-void-explorers.md.
@@ -467,6 +461,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Cross-review time-symmetric-physics.md considering presentiment article
+- **Type**: cross-review
+- **Notes**: New article topics/presentiment-and-retrocausality.md (2026-02-02) explores whether quantum retrocausality could underlie presentiment phenomena. The time-symmetric-physics.md concept page discusses retrocausal interpretations of QM. Cross-review for: (1) cross-links to the presentiment treatment, (2) how empirical presentiment evidence relates to theoretical retrocausality, (3) ensuring consistent treatment of Aharonov's two-state vector formalism.
+- **Output**: obsidian/concepts/time-symmetric-physics.md -- Context: Cross-review time-symmetric-physics.md considering presentiment article
 
 ### ✓ 2026-02-03: Cross-review personal-identity.md considering dreamless-sleep-void insights
 - **Type**: cross-review
