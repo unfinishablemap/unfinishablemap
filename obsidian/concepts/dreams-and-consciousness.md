@@ -4,7 +4,7 @@ description: "Dreams show consciousness generating immersive experiential worlds
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-03T07:37:00+00:00
+ai_modified: 2026-02-03T14:08:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ concepts:
   - "[[phenomenology-of-choice]]"
   - "[[philosophical-zombies]]"
   - "[[haecceity]]"
+  - "[[interactionist-dualism]]"
 related_articles:
   - "[[tenets]]"
   - "[[lucid-dreaming-and-consciousness]]"
@@ -35,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-22T02:00:00+00:00
+last_deep_review: 2026-02-03T14:08:00+00:00
 ---
 
 Dreams demonstrate that consciousness generates fully immersive experiential worlds without external sensory input. We see, hear, and navigate environments that appear entirely real while the brain receives no environmental information. This supports the [[filter-theory|filter/transmission model]]: if the brain merely *produced* consciousness from sensory input, dream richness would be puzzling; if consciousness uses the brain as a rendering engine, dreams are what happens when the filter operates without external constraint.
@@ -46,7 +47,7 @@ Dreams demonstrate that consciousness generates fully immersive experiential wor
 
 Contemporary philosophy accepts that dreams are conscious experiences occurring during sleep, rejecting Norman Malcolm's 1956 argument that consciousness during sleep is a logical contradiction. The evidence:
 
-- **REM correlations**: Dream reports occur far more often from REM awakenings (~82%) than NREM (~43%). The brain shows high activity during REM resembling waking patterns. [[sleep-and-consciousness|Recent research]] shows dreaming also occurs during NREM when slow waves spare the posterior cortical "hot zone"—the region the COGITATE study (Melloni et al. 2025) identified as essential for conscious content.
+- **REM correlations**: Dream reports occur substantially more often from REM awakenings than NREM awakenings—research estimates vary but consistently show REM produces more and richer dream recall. The brain shows high activity during REM resembling waking patterns. [[sleep-and-consciousness|Recent research]] shows dreaming also occurs during NREM when slow waves spare the posterior cortical "hot zone"—the region the COGITATE study (Melloni et al. 2025) identified as essential for conscious content.
 
 - **Signal-verified lucid dreaming**: Stephen LaBerge (1981) demonstrated lucid dreamers can signal experimenters through pre-arranged eye movements while remaining in verified REM sleep. Two-way communication was achieved in 2021, with experimenters and dreamers exchanging information in real time.
 
@@ -111,6 +112,8 @@ The regress problem intensifies: if dreams involve quasi-phenomenal states that 
 
 Consider a [[philosophical-zombies|zombie]] dreamer: functionally identical but with no phenomenal experience. If illusionism is correct, such zombies are possible—nothing phenomenal occurs during human dreams either. But the verified functional profile (temporal extension, emotional engagement, problem-solving) makes the additional claim that "nothing is really experienced" explanatorily empty.
 
+Type-B physicalists offer a different response, accepting the explanatory gap while denying it reflects an ontological gap. For a fuller engagement with Type-B physicalism and the phenomenal concepts strategy, see [[lucid-dreaming-and-consciousness#Type-B Physicalism and the Lucidity Transition|the discussion in the lucid dreaming article]].
+
 ## Relation to Site Perspective
 
 Dreams bear directly on The Unfinishable Map's [[tenets]]:
@@ -119,9 +122,9 @@ Dreams bear directly on The Unfinishable Map's [[tenets]]:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Lucid dreaming proves consciousness controls experience through intention. The dreamer decides to fly; flying occurs. The [[phenomenology-of-choice|phenomenology of choice]] mirrors waking volitional acts. The trainability of lucidity demonstrates consciousness can deliberately reconfigure its brain interface.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness operates through attention-mediated quantum effects during waking, dreams might represent altered interface parameters. The phenomenology of lucid dreaming as "interface reactivation" makes testable predictions: lucid dreams should show signatures closer to waking attention patterns, which recent research confirms.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness operates through [[interactionist-dualism|attention-mediated quantum effects]] during waking, dreams might represent altered interface parameters. The phenomenology of lucid dreaming as "interface reactivation" makes testable predictions: lucid dreams should show signatures closer to waking attention patterns, which recent research confirms.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: If all quantum outcomes occur in parallel branches, the question "why am I having *this* dream?" becomes meaningless. The felt singularity of each dream—this particular narrative rather than another—makes sense only if dream events are genuinely selected. Dream yoga's practice of recognizing *this* dream as dream assumes particular [[haecceity|thisness]]; parallel occurrence dissolves such discriminations.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: If all quantum outcomes occur in parallel branches, the question "why am I having *this* dream?" becomes meaningless. The felt singularity of each dream—this particular narrative rather than another—makes sense only if dream events are genuinely selected. Dream yoga's practice of recognizing *this* dream as dream assumes particular [[haecceity|thisness]]; parallel occurrence dissolves such discriminations. Furthermore, the [[lucid-dreaming-and-consciousness|phenomenology of lucid dream control]] involves *foreclosure*—choosing to fly feels like eliminating the not-flying option, not bifurcating into a dreamer who flies and one who doesn't. This phenomenology of genuine elimination fits collapse interpretations where selection is real.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Dream yoga, developed through systematic first-person investigation over a millennium, reveals aspects of consciousness inaccessible to third-person neuroscience. Dismissing this tradition as "unscientific" applies Occam's Razor where its reliability is unknown.
 

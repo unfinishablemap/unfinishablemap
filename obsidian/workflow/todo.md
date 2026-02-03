@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review dreams-and-consciousness.md considering lucid dreaming insights
-- **Type**: cross-review
-- **Notes**: New article topics/lucid-dreaming-and-consciousness.md (2026-02-03) explores lucid dreaming as evidence for consciousness's causal role. The dreams-and-consciousness.md concept page should be cross-reviewed for: (1) cross-links to lucid dreaming treatment, (2) how lucid state phenomenology strengthens filter model arguments, (3) ensuring consistent treatment of dream consciousness across articles.
-- **Source**: chain (from lucid-dreaming-and-consciousness.md)
-- **Generated**: 2026-02-03
-
 ### P2: Integrate attention-motor-quantum-selection.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article has no inbound links. Covers attention's role in motor selection through quantum interface mechanisms—central to the Map's Minimal Quantum Interaction implementation. Add cross-references from motor-selection.md, voluntary-attention.md, attention-interface-mechanisms.md, stapp-quantum-mind.md.
@@ -473,6 +467,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Cross-review dreams-and-consciousness.md considering lucid dreaming insights
+- **Type**: cross-review
+- **Notes**: New article topics/lucid-dreaming-and-consciousness.md (2026-02-03) explores lucid dreaming as evidence for consciousness's causal role. The dreams-and-consciousness.md concept page should be cross-reviewed for: (1) cross-links to lucid dreaming treatment, (2) how lucid state phenomenology strengthens filter model arguments, (3) ensuring consistent treatment of dream consciousness across articles.
+- **Output**: obsidian/concepts/dreams-and-consciousness.md -- Context: Cross-review dreams-and-consciousness.md considering lucid dreaming insights
 
 ### ✓ 2026-02-03: Cross-review interactionist-dualism.md considering delegatory dualism insights
 - **Type**: cross-review
