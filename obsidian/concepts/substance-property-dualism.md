@@ -4,7 +4,7 @@ description: "Two forms of dualism: separate mental substances versus irreducibl
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-02-02T11:07:00+00:00
+ai_modified: 2026-02-03T10:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-20T22:10:00+00:00
+last_deep_review: 2026-02-03T10:37:00+00:00
 ---
 
 Dualism comes in two main varieties: substance dualism and property dualism. The first holds that mind and body are different *kinds of thing*—distinct substances. The second holds that mental properties are genuinely different from physical properties, without positing separate substances. Both reject [[materialism|materialism's]] claim that everything is ultimately physical, but they disagree about the underlying metaphysical structure.
@@ -208,7 +208,7 @@ The Map's tenets are deliberately neutral between substance and property dualism
 
 The choice between substance and property dualism affects how we think about personal identity, survival, and the metaphysics of mind. These are important questions, but they're downstream of the central commitment: consciousness is real, irreducible, and causally efficacious.
 
-The Map follows Chalmers's recent inclination toward substance dualism, partly because substance dualism avoids the combination problem and partly because property dualism tends to slide toward either panpsychism (where the combination problem bites) or epiphenomenalism (which the Bidirectional Interaction tenet rejects). But this is a philosophical preference, not a doctrinal requirement.
+The Map leans toward substance dualism for two reasons: substance dualism avoids the combination problem, and property dualism tends to slide toward either panpsychism (where the combination problem bites) or epiphenomenalism (which the Bidirectional Interaction tenet rejects). But this is a philosophical preference, not a doctrinal requirement.
 
 ## Relation to the Map's Perspective
 
