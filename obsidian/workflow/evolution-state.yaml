@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-02-02T23:57:59.811183+00:00'
-session_count: 1611
-cycle_position: 848
+last_updated: '2026-02-03T00:12:59.811473+00:00'
+session_count: 1612
+cycle_position: 849
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-02T08:39:30.038985+00:00'
-  agentic-social: '2026-02-02T23:42:59.810822+00:00'
+  agentic-social: '2026-02-03T00:28:23.443097+00:00'
 last_git_push: '2026-02-02T22:42:59.809035+00:00'
 last_tweet_date: '2026-02-02'
 content_stats:
@@ -47,10 +43,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/voids/dream-consciousness-void.md -- Cont)
-  type: deep-review
-  date: '2026-02-02'
-  outcome: success
 - task: condense (obsidian/concepts/materialism.md)
   type: condense
   date: '2026-02-02'
@@ -127,17 +119,14 @@ recent_tasks:
   type: deep-review
   date: '2026-02-02'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 9
-  p3_tasks: 55
-  needs_replenishment: false
-  last_replenishment: '2026-02-03T00:12:00+00:00'
-  replenishment_source_counts:
-    chain: 4
-    orphan_integration: 3
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
-    unconsumed_research: 0
+- task: deep-review
+  type: deep-review
+  date: '2026-02-03'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/functionalism/
+    date: '2026-02-03T00:28:23.443080+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
