@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-02-02 21:42:00+00:00
+ai_modified: 2026-02-03 19:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -78,7 +78,7 @@ You cannot directly access my qualia, nor I yours. We can compare behaviour, poi
 
 ### Ineffable
 
-Qualia resist complete verbal description. How would you explain the taste of coffee to someone who has never tasted it? You might describe it as "bitter" or "rich," but these words don't convey the actual quale. The experience exceeds any description—a structural feature of [conceptual thought itself](/voids/pre-conceptual-knowing/), which classifies by abstracting from particulars and thereby loses qualitative character.
+Qualia resist complete verbal description. How would you explain the taste of coffee to someone who has never tasted it? You might describe it as "bitter" or "rich," but these words don't convey the actual quale. The experience exceeds any description—a structural feature of [conceptual thought itself](/voids/pre-conceptual-knowing/), which classifies by abstracting from particulars and thereby loses qualitative character. The [consciousness-language interface](/topics/consciousness-and-language-interface/) analyses this systematically: language shapes conscious experience while conscious states generate pressure toward articulation, but both directions involve loss.
 
 ### Directly Apprehensible
 
@@ -216,6 +216,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [illusionism](/concepts/illusionism/) - The radical denial of phenomenal properties
 
 **Extensions:**
+- [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) - Why qualia resist linguistic capture (bidirectional lossy channel)
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) - Aesthetic qualia resistant to reduction
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - Whether thinking has phenomenal character
 - [minimal-consciousness](/archive/concepts/minimal-consciousness/) - Qualia in simple organisms

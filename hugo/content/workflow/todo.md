@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03 13:07:00+00:00
+ai_modified: 2026-02-03 15:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review attentional-economics.md considering habituation void insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/habituation-void.md (2026-02-03) explores why the familiar becomes invisible to consciousness. The attentional-economics.md concept should be cross-reviewed for: (1) cross-links to habituation void, (2) how habituation affects attentional budget allocation, (3) relationship between attentional habituation and agency limits.
-- **Source**: chain (from habituation-void.md)
-- **Generated**: 2026-02-03
-
 ### P2: Update references to coalesced brain-specialness/interface-locality articles
 - **Type**: other
 - **Notes**: Coalesce (2026-01-27) merged `brain-specialness.md` and `interface-locality.md` into `brain-interface-boundary.md`. 29 files in obsidian/ reference the archived articles and may need updating. Key files: locality.md, filter-theory.md, pairing-problem.md, embodied-cognition.md, multi-mind-collapse-problem.md, quantum-consciousness.md, attention-as-interface.md, interactionist-dualism.md, voluntary-attention.md, analytic-idealism.md, index.md. Update wikilinks to point to brain-interface-boundary or leave as-is if the link still works (archived articles display redirect notice).
@@ -56,11 +50,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P3: Deep review contemplative-path.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on contemplative approaches to consciousness study. Check phenomenological claims, ensure alignment with Map's framework, verify connections to meditation-and-consciousness-modes.md, witness-consciousness.md.
-- **Source**: staleness
-- **Generated**: 2026-02-02
+### P2: Integrate william-james-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Covers William James's contributions to consciousness studies—stream of consciousness, radical empiricism, pragmatic approach. Historical context for the Map's framework. Add cross-references from consciousness.md, phenomenology.md, temporal-consciousness.md, introspection.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-03
 
 ### P3: Deep review reasons-responsiveness.md for quality
 - **Type**: deep-review
@@ -477,6 +471,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-03: Integrate consciousness-and-language-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Covers how language relates to the consciousness interface—linguistic thought, inner speech, and conscious access. Add cross-references from language-recursion-and-consciousness.md, attention-as-interface.md, working-memory.md, metarepresentation.md.
+- **Output**: obsidian/topics/consciousness-and-language-interface.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-03: Write voids article on altered states as void probes
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-altered-states-as-void-probes-2026-02-03.md. Explores whether altered states (psychedelics, meditation, NDEs) provide genuine epistemic access to cognitive limits or merely generate compelling illusions. Covers the "reducing valve" hypothesis (Bergson/Huxley), REBUS model, and epistemological status of mystical experiences. Directly extends the voids framework.
+- **Output**: Write voids article on altered states as void probes
+
+### ✓ 2026-02-03: Promote contemplative-path.md deep review
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Apex articles are synthesis pieces that represent the Map's highest-level integration work. This article on contemplative approaches to consciousness study should be prioritized for quality review before further content builds on it. Check phenomenological claims, ensure alignment with Map's framework, verify connections to meditation-and-consciousness-modes.md, witness-consciousness.md.
+- **Output**: obsidian/apex/contemplative-path.md
+
+### ✓ 2026-02-03: Restructure functionalism.md (4250 words, 170% of threshold)
+- **Type**: condense
+- **Notes**: Arguments article remains critically over threshold despite multiple previous condense attempts (10+ attempts logged). The content cannot be reduced further without losing essential arguments. Consider: (1) splitting into two articles (functionalism overview + detailed objection-response dialectic), (2) creating a separate "functionalist objections to dualism" article to house the extensive back-and-forth, (3) more aggressive deferral to linked concept pages. This is a persistent length violation requiring structural restructuring rather than incremental trimming.
+- **Output**: obsidian/concepts/functionalism.md
+
+### ✓ 2026-02-03: Condense many-worlds.md (3704 words, 148% of threshold)
+- **Type**: condense
+- **Notes**: Arguments article exceeds 3500-word hard threshold. Core arguments against Many Worlds Interpretation from indexical identity perspective. Directly supports No Many Worlds tenet. Preserve vertiginous question discussion and formal arguments while removing redundancy with many-worlds.md concept page.
+- **Output**: obsidian/concepts/many-worlds.md
+
+### ✓ 2026-02-03: Condense materialism.md (3788 words, 152% of threshold)
+- **Type**: condense
+- **Notes**: Arguments article exceeds 3500-word hard threshold. Core philosophical arguments against materialism (hard problem, knowledge argument, explanatory gap). Previous condense attempts on this file have not sufficiently reduced length. Focus on: removing redundant examples, consolidating overlapping arguments with physicalism.md and reductionism.md concept pages. Preserve formal argument structure.
+- **Output**: obsidian/concepts/materialism.md
+
+### ✓ 2026-02-03: Cross-review attentional-economics.md considering habituation void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/habituation-void.md (2026-02-03) explores why the familiar becomes invisible to consciousness. The attentional-economics.md concept should be cross-reviewed for: (1) cross-links to habituation void, (2) how habituation affects attentional budget allocation, (3) relationship between attentional habituation and agency limits.
+- **Output**: obsidian/concepts/attentional-economics.md -- Context: Cross-review attentional-economics.md considering habituation void insights
 
 ### ✓ 2026-02-03: Integrate phenomenal-unity-and-the-binding-problem.md into site navigation
 - **Type**: integrate-orphan

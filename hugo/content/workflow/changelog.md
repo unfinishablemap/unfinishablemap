@@ -18,6 +18,107 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-03 19:18 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-language-interface](/topics/consciousness-and-language-interface/)
+- **Word count**: 2634 → 2634 (no change)
+- **Focus**: Orphan integration (article had zero inbound links)
+- **Critical issues addressed**: 0 (none found; article stable from previous review)
+- **Medium issues addressed**: 0 (none found)
+- **Cross-links added**: 6 (from language-recursion-and-consciousness, language-thought-boundary, cognitive-phenomenology, qualia, introspection, meaning-and-consciousness)
+- **Output**: [deep-review-2026-02-03-consciousness-and-language-interface](/reviews/deep-review-2026-02-03-consciousness-and-language-interface/)
+
+---
+
+## 2026-02-03 17:44 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Altered States as Void Probes
+- **Output**: [altered-states-as-void-probes](/voids/altered-states-as-void-probes/)
+- **Word count**: 2011
+- **Based on research**: yes, [voids-altered-states-as-void-probes-2026-02-03](/research/voids-altered-states-as-void-probes-2026-02-03/)
+
+---
+
+## 2026-02-03 17:22 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-path](/apex/contemplative-path/)
+- **Word count**: 3244 → 3301 (+57)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (MWI dismissal strengthened, Buddhist compatibility caveat added)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-02-03-contemplative-path](/reviews/deep-review-2026-02-03-contemplative-path/)
+
+---
+
+## 2026-02-03 17:07 UTC - research-voids
+- **Status**: Success
+- **Topic**: Altered States as Void Probes
+- **Category**: Mixed (Unexplored / Unexplorable / Occluded)
+- **Output**: [voids-altered-states-as-void-probes-2026-02-03](/research/voids-altered-states-as-void-probes-2026-02-03/)
+- **Key finding**: ASCs (psychedelics, meditation, NDEs) may probe cognitive limits through the "reducing valve" mechanism (Bergson/Huxley), but whether they provide genuine epistemic access or merely generate the phenomenology of transcendence remains undetermined.
+
+---
+
+## 2026-02-03 16:53 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [functionalism](/concepts/functionalism/)
+- **Word count**: 2036 words (81% of 2500 target)
+- **Reason**: Article is already well below the soft threshold for concepts (2500 words). No reduction needed.
+
+---
+
+## 2026-02-03 16:37 UTC - deep-review
+- **Status**: Success
+- **File**: [philosophical-zombies](/concepts/philosophical-zombies/)
+- **Word count**: 2424 → 2424 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (Chalmers quote converted to clear paraphrase)
+- **Enhancements made**: 0
+- **Context**: Article at stability after previous deep review and condensation; minimal changes warranted
+- **Output**: [deep-review-2026-02-03-philosophical-zombies](/reviews/deep-review-2026-02-03-philosophical-zombies/)
+
+---
+
+## 2026-02-03 16:22 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [many-worlds](/concepts/many-worlds/)
+- **Word count**: 2018 words (81% of 2500 target)
+- **Reason**: Article is well within acceptable range for concepts/ section. Content is tightly structured with five clear arguments against MWI, appropriate tenet connections, and comprehensive cross-linking. No redundancy or excessive background material identified.
+
+---
+
+## 2026-02-03 16:08 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [materialism](/concepts/materialism/)
+- **Word count**: 2220 words (89% of 2500 target)
+- **Reason**: Article is within acceptable range for concepts/ section (threshold: 2500). Content is well-organized with appropriate cross-linking to detailed treatments. No redundancy or tangential material identified.
+
+---
+
+## 2026-02-03 15:29 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-coherence-protection](/concepts/quantum-coherence-protection/)
+- **Word count**: 2483 → 2496 (+13)
+- **Critical issues addressed**: 0 (none found, previous review's fixes intact)
+- **Medium issues addressed**: 1 (epistemic caveat on falsifiability condition 4)
+- **Enhancements made**: 2 (epistemic caveat, introspection link)
+- **Context**: Article at stability—previous review resolved critical issues, minimal changes warranted
+- **Output**: [deep-review-2026-02-03-quantum-coherence-protection](/reviews/deep-review-2026-02-03-quantum-coherence-protection/)
+
+---
+
+## 2026-02-03 15:07 UTC - deep-review
+- **Status**: Success
+- **File**: [attentional-economics](/concepts/attentional-economics/)
+- **Word count**: 2120 → 2409 (+289)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (bedrock disagreements, not fixable)
+- **Enhancements made**: 1 (new section on habituation and attentional economy boundaries)
+- **Context**: Cross-review triggered by habituation void research insights
+- **Output**: [deep-review-2026-02-03b-attentional-economics](/reviews/deep-review-2026-02-03b-attentional-economics/)
+
+---
+
 ## 2026-02-03 14:53 UTC - deep-review
 - **Status**: Skipped (archived file)
 - **File**: phenomenal-unity-and-the-binding-problem.md

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-02-01 13:51:00+00:00
+ai_modified: 2026-02-03 19:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -32,7 +32,7 @@ topics: []
 
 "The limits of my language mean the limits of my world." Wittgenstein's famous proposition invites a question: are the limits of language and the limits of thought the same? If they diverge—if thought can exceed language, or language can articulate what cannot be thought—the boundary between them constitutes a [void](/voids/) worth mapping. This article explores that boundary: where speakable and thinkable part ways, and what the divergence reveals about cognitive architecture.
 
-The relationship is not simple. Visual thinkers report cognition that resists verbal capture. Mystics claim knowledge that exceeds all possible expression. Philosophers argue about qualia that cannot be communicated. Yet language shapes thought in measurable ways—bilinguals think differently depending on which language they're using. The boundary is real, but its contours are contested.
+The relationship is not simple. Visual thinkers report cognition that resists verbal capture. Mystics claim knowledge that exceeds all possible expression. Philosophers argue about qualia that cannot be communicated. Yet language shapes thought in measurable ways—bilinguals think differently depending on which language they're using. The boundary is real, but its contours are contested. The [consciousness-language interface](/topics/consciousness-and-language-interface/) explores the complementary question: how language and consciousness shape each other bidirectionally, with loss in both directions.
 
 ## Three Levels of Limit
 
@@ -156,6 +156,7 @@ The claim that language and thought have genuinely different limits would be cha
 
 ## Further Reading
 
+- [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — The bidirectional, lossy channel between phenomenal experience and language
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
 - [Apophatic Approaches](/voids/apophatic-approaches/) — Methods for knowing through negation
 - [The Limits of Conceptual Acquisition](/voids/conceptual-acquisition-limits/) — What concepts cannot be formed

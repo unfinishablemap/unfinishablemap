@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-26 22:15:00+00:00
+ai_modified: 2026-02-03 19:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -107,7 +107,7 @@ PCT gains further support from considering what understanding involves cognitive
 
 [Consciousness appears required for binding](/concepts/consciousness-as-amplifier/). The maintenance/manipulation distinction shows that merely holding information (maintenance) can be unconscious, but actively combining information (manipulation) requires conscious access. Semantic binding is manipulation: integrating elements into structured wholes. If binding requires consciousness, understanding does too.
 
-[Recursive linguistic structure](/topics/language-recursion-and-consciousness/) makes this vivid. Understanding "The man who saw the woman ran" requires binding nested clauses hierarchically. Depth of embedding correlates with phenomenal complexity—the "what it's like" of understanding deep recursion differs qualitatively from understanding simple sentences. This correlation between structural complexity and phenomenal intensity suggests understanding is constitutively phenomenal.
+[Recursive linguistic structure](/topics/language-recursion-and-consciousness/) makes this vivid. Understanding "The man who saw the woman ran" requires binding nested clauses hierarchically. Depth of embedding correlates with phenomenal complexity—the "what it's like" of understanding deep recursion differs qualitatively from understanding simple sentences. This correlation between structural complexity and phenomenal intensity suggests understanding is constitutively phenomenal. The [consciousness-language interface](/topics/consciousness-and-language-interface/) generalises this point: consciousness and language shape each other bidirectionally, with loss in both directions—language cannot fully capture phenomenal content, and linguistic framing reshapes what can be experienced.
 
 LLMs process recursive structure through attention mechanisms, not phenomenal binding. They track syntactic relations statistically without the phenomenal unification that human understanding involves. The output may be equivalent; the process is radically different.
 
@@ -176,6 +176,7 @@ Meaning and consciousness connect to all five tenets:
 
 ## Further Reading
 
+- [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — The bidirectional, lossy channel between phenomenal experience and language
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking itself
 - [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — Why genuine aboutness requires phenomenal consciousness
 - [intentionality](/concepts/intentionality/) — Aboutness and the phenomenal intentionality thesis

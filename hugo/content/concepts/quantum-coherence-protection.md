@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-03 15:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: 'Four mechanisms protecting quantum coherence in brains: hydrophobi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-21 12:21:00+00:00
+last_deep_review: 2026-02-03 15:29:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -128,7 +128,7 @@ Four responses:
 
 **The zombie reformulation**: Illusionism implies that philosophical zombies would be under the "same illusion" we are—they too would represent-as-experiencing without experiencing. But this makes the conceivability argument stronger, not weaker. The illusionist has specified precisely what zombies would be: systems with quasi-phenomenal properties but no phenomenal properties. If such systems are conceivable (as illusionism requires), then phenomenal properties are not identical to quasi-phenomenal ones.
 
-**Introspection survives debunking**: The illusionist claim that qualia are illusions depends on introspective reports about the character of experience. But if [introspection](/concepts/introspection/) is systematically unreliable about what experience is like, why trust the introspective reports that motivate illusionism in the first place? Introspection about experience remains evidence about experience.
+**[Introspection](/concepts/introspection/) survives debunking**: The illusionist claim that qualia are illusions depends on introspective reports about the character of experience. But if introspection is systematically unreliable about what experience is like, why trust the introspective reports that motivate illusionism in the first place? Introspection about experience remains evidence about experience.
 
 **Functional asymmetry**: Quantum selection mechanisms could explain why certain neural configurations produce reportable phenomenal states while functionally similar classical configurations do not. If consciousness selects among quantum possibilities, the physical signature of this selection—however subtle—distinguishes conscious from non-conscious processing in ways functional specification alone cannot capture.
 
@@ -163,7 +163,7 @@ The Map's position on quantum coherence protection would face serious challenge 
 1. **Direct measurement of sub-femtosecond coherence times** in living neural tissue despite all proposed protection mechanisms
 2. **Classical replication of consciousness-related phenomena** that Orch OR and related theories predict require quantum processes (the 613 THz signature, microtubule-consciousness correlations, etc.)
 3. **Demonstration that anaesthetic-microtubule effects operate through purely classical mechanisms** unrelated to quantum coherence
-4. **Successful artificial consciousness in purely classical systems** exhibiting genuine phenomenal properties indistinguishable from biological consciousness
+4. **Successful artificial consciousness in purely classical systems** exhibiting genuine phenomenal properties indistinguishable from biological consciousness (though verifying "genuine" phenomenal properties in any artificial system faces the other-minds problem)
 5. **Isotope substitution experiments** (Fisher's test) showing no cognitive effects from replacing phosphorus-31 with phosphorus-32
 
 These would not refute dualism or the claim that consciousness is irreducible, but they would undermine the specific mechanism by which the Map proposes consciousness interfaces with the physical world. The Map's framework is constrained by empirical findings even as it maintains philosophical commitments that empirical science cannot directly adjudicate.

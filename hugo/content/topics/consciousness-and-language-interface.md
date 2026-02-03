@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-01 15:56:00+00:00
+ai_modified: 2026-02-03 19:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: 'How consciousness and language interact bidirectionally: language 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-01 15:56:00+00:00
+last_deep_review: 2026-02-03 19:18:00+00:00
 modified: *id001
 related_articles:
 - '[[language-recursion-and-consciousness]]'

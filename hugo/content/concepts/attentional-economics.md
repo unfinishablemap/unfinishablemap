@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-03 09:11:00+00:00
+ai_modified: 2026-02-03 15:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Agency is fundamentally the allocation of attention over time. Free
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 09:11:00+00:00
+last_deep_review: 2026-02-03 15:07:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -152,6 +152,24 @@ The three-level structure emerges:
 3. **Choosing which mode to operate in** (meta-level agency)
 
 Each level represents a domain of attentional economics, and training can operate at each level.
+
+## Habituation and the Boundaries of the Attentional Economy
+
+The attentional economy has a structural limit that operates independently of bandwidth: *habituation*. When experiences become sufficiently familiar, they drop out of phenomenal awareness even while remaining functionally processed. You navigate your kitchen expertly without consciously attending to any of it. The familiar becomes invisible—what Viktor Shklovsky called "automatization."
+
+This creates a boundary condition for attentional economics. The options available for attentional allocation aren't fixed; they shrink as habituation removes contents from the phenomenal field. A narrower economy operates on what remains visible to consciousness.
+
+| Attentional Status | Economic Role |
+|-------------------|---------------|
+| Novel/salient | Available for allocation (full economy) |
+| Familiar but attendable | Available with effort (reduced liquidity) |
+| Fully habituated | Unavailable (outside the economy) |
+
+This has implications for agency. Habituation doesn't just reduce phenomenal richness—it *contracts* the scope of conscious influence. What has dropped out of awareness can no longer be the target of attentional selection. The meditator isn't just learning to focus more intensely; they're learning to *de-habituate*—to restore the familiar to the phenomenal field and thereby expand the attentional economy.
+
+"Beginner's mind" (*shoshin*) in Zen practice names this precisely: seeing the familiar as if for the first time. The practice doesn't create new contents; it restores contents that habituation had removed from conscious access. Each moment of successful de-habituation expands the set of options available for attentional investment.
+
+The habituation boundary also explains why attention training requires ongoing practice. Habituation is structural, not motivational—it reasserts itself automatically. Maintaining an expanded attentional economy requires continuous counteraction against the natural contraction that familiarity produces. This is why contemplative traditions emphasise *sustained practice* rather than one-time insight: the boundary keeps trying to close.
 
 ## Objections and Responses
 

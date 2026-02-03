@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-27 07:10:34+00:00
+ai_modified: 2026-02-03 16:37:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: 'The conceivability argument against physicalism: beings functional
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-20 17:00:00+00:00
+last_deep_review: 2026-02-03 16:37:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +72,7 @@ A more common response accepts that zombies are conceivable but denies this enta
 
 **The Analogy's Limits:** There's an important disanalogy. When we learned that water is H₂O, we discovered an empirical fact about what "water" refers to. We were ignorant of water's nature. But with consciousness, we have direct acquaintance with what we're talking about. The conceivability of zombies doesn't reflect ignorance of consciousness—it reflects our understanding that qualitative experience isn't the kind of thing structural descriptions capture.
 
-As Chalmers argues: "When we conceive of zombies, we are not merely failing to see a necessity due to ignorance. We are positively conceiving of a coherent scenario."
+As Chalmers argues, when we conceive of zombies, we are not merely failing to see some hidden necessity due to ignorance—we are positively grasping a coherent scenario.
 
 ### The Two-Dimensional Response
 
