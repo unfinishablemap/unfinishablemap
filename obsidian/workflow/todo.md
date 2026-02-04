@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate attention-disorders-and-quantum-interface.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-01) has no inbound links. Covers how attention disorders illuminate the consciousness-brain interface. Add cross-references from attention-as-interface.md, voluntary-attention.md, quantum-consciousness.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
-
 ### P2: Cross-review mysterianism.md considering epistemology-of-cognitive-limits
 - **Type**: cross-review
 - **Notes**: New voids article epistemology-of-cognitive-limits.md (2026-02-04) explores what we can know about what we cannot know. Check for cross-links, reinforcing arguments about cognitive closure and the limits of understanding consciousness.
@@ -545,6 +539,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Integrate attention-disorders-and-quantum-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers how attention disorders illuminate the consciousness-brain interface. Add cross-references from attention-as-interface.md, voluntary-attention.md, quantum-consciousness.md.
+- **Output**: obsidian/topics/attention-disorders-and-quantum-interface.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-04: Write article on experiential alignment objective
 - **Type**: expand-topic

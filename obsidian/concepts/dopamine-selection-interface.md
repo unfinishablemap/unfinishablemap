@@ -4,7 +4,7 @@ description: "Dopamine marks what is worth pursuing and sets action thresholds. 
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-27T21:50:00+00:00
+ai_modified: 2026-02-04T04:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -249,6 +249,7 @@ The quantum selection framework gains explanatory purchase where the simpler vie
 ## Further Reading
 
 - [[attention-motor-quantum-interface]] — The broader framework integrating attention and motor selection
+- [[attention-disorders-and-quantum-interface]] — ADHD as threshold dysregulation—concrete example of dopamine-interface dysfunction
 - [[motor-selection]] — Motor selection mechanisms in detail
 - [[quantum-consciousness]] — Quantum mechanisms for consciousness-brain interaction
 - [[interactionist-dualism]] — The philosophical framework

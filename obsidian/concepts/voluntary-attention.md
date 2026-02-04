@@ -4,7 +4,7 @@ description: "Willed attention shows unique neural signatures: frontal theta, bi
 created: 2026-01-19
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-02-03T09:11:00+00:00
+ai_modified: 2026-02-04T04:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -204,6 +204,7 @@ This neural distinctiveness matters philosophically. If consciousness contribute
 ## Further Reading
 
 - [[attention-as-interface]] — Attention as the causal bridge between consciousness and brain
+- [[attention-disorders-and-quantum-interface]] — ADHD selectively impairs willed attention while preserving captured attention
 - [[attention-motor-quantum-interface]] — How PMTA unifies attention and motor selection
 - [[quantum-neural-timing-constraints]] — The timing hierarchy from decoherence to neural decisions
 - [[motor-selection]] — Parallel evidence from voluntary motor control

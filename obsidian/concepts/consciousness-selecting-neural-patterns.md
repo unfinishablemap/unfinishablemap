@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-02-04T03:35:00+00:00
+ai_modified: 2026-02-04T04:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -238,6 +238,7 @@ The consciousness-selecting neural patterns framework would face serious difficu
 ## Further Reading
 
 - [[consciousness-and-creativity]] — How selection integrates with imagination's generative role
+- [[attention-disorders-and-quantum-interface]] — ADHD, OCD, and meditation deficits reveal selection interface dysfunction
 - [[psychophysical-coupling]] — The laws governing what selection can accomplish
 - [[quantum-consciousness]] — Major theories of how consciousness interfaces with quantum mechanics
 - [[mental-effort]] — The phenomenology of effort and Stapp's mechanism

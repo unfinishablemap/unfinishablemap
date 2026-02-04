@@ -4,7 +4,7 @@ description: "Two modes of consciousness: active selection through attention and
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-03T09:11:00+00:00
+ai_modified: 2026-02-04T04:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -263,6 +263,7 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 ## Further Reading
 
 - [[witness-consciousness]] — Dedicated treatment of the sakshi/witness concept
+- [[attention-disorders-and-quantum-interface]] — Meditation deficits reveal interface training requirements
 - [[default-mode-network]] — The brain network that quiets during meditation, with filter theory interpretation
 - [[contemplative-neuroscience]] — Neuroplasticity evidence from meditation training supporting bidirectional interaction
 - [[neurophenomenology]] — Varela's mutual constraints framework integrating first-person and third-person methods

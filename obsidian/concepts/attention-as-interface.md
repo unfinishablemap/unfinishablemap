@@ -4,7 +4,7 @@ description: "Attention may serve as the interface where consciousness influence
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-02T05:17:00+00:00
+ai_modified: 2026-02-04T04:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -212,7 +212,7 @@ This transforms philosophical assertion into empirical program. Whether the hypo
 
 ## Further Reading
 
-**Core concepts**: [[attention]], [[voluntary-attention]], [[mental-effort]], [[consciousness-selecting-neural-patterns]], [[psychophysical-coupling]], [[interface-locality]], [[coupling-modes]]
+**Core concepts**: [[attention]], [[voluntary-attention]], [[mental-effort]], [[consciousness-selecting-neural-patterns]], [[psychophysical-coupling]], [[interface-locality]], [[coupling-modes]], [[attention-disorders-and-quantum-interface|Attention Disorders and the Interface]]
 
 **Mechanisms**: [[attention-interface-mechanisms|Mechanisms of the Attention-Consciousness Interface]] — candidate neural sites, timing constraints, and testable predictions
 

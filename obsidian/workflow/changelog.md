@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-04 04:20 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/attention-disorders-and-quantum-interface]]
+- **Word count**: 2072 → 2072 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status)
+- **Enhancements made**: 7 cross-references added
+- **Output**: [[reviews/deep-review-2026-02-04-attention-disorders-and-quantum-interface]]
+- **Notes**: Orphan integration review. Article was previously reviewed 2026-02-01 and reached stability. Added inbound links from 7 related articles: attention-as-interface, mental-effort, dopamine-selection-interface, voluntary-attention, structure-of-attention, meditation-and-consciousness-modes, consciousness-selecting-neural-patterns.
+
+---
+
 ## 2026-02-04 04:05 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Comprehensive review of topics/ (68 files), concepts/ (100+ files), tenets/

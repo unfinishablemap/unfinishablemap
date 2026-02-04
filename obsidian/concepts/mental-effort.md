@@ -4,7 +4,7 @@ description: "The phenomenology of effortful attention as evidence for conscious
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-03T12:10:00+00:00
+ai_modified: 2026-02-04T04:20:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -158,6 +158,7 @@ The Map doesn't commit to Stapp's specific proposal over other quantum conscious
 
 - [[neuroplasticity]] — Empirical evidence for consciousness-driven brain change
 - [[stapp-quantum-mind]] — Comprehensive treatment of Stapp's quantum Zeno mechanism
+- [[attention-disorders-and-quantum-interface]] — How ADHD, fatigue, and meditation deficits reveal interface properties
 - [[attention-as-interface]] — Attention as the interface layer between consciousness and neural systems
 - [[attention-interface-mechanisms]] — Candidate neural sites, timing constraints, and testable predictions
 - [[voluntary-attention]] — The willed/instructed distinction and neural signatures
