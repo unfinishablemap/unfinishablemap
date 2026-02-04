@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-04 22:42 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Dopamine and the unified interface
+- **Output**: [[topics/dopamine-and-the-unified-interface]]
+- **Word count**: 1771
+- **Based on research**: Yes, [[dopamine-attention-motor-quantum-interface-2026-01-24]]
+- **Notes**: New topics article exploring what dopamine research reveals about the unified attention-motor-quantum interface. Complements existing concept article [[dopamine-selection-interface]] by taking a higher-level view of the philosophical implications. Covers salience bridge, threshold modulation, tonic/phasic distinction, theta oscillations, and Parkinson's as evidence for the unified interface hypothesis.
+
+---
+
 ## 2026-02-04 22:27 UTC - deep-review
 - **Status**: Success (stability confirmed)
 - **File**: [[concepts/neurophenomenology]]

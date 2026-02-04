@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on dopamine's role in attention-motor-quantum interface
-- **Type**: expand-topic
-- **Notes**: Research completed in research/dopamine-attention-motor-quantum-interface-2026-01-24.md. Explores how tonic vs phasic dopamine may modulate the decision threshold at which competing motor programs resolve, with consciousness determining which option crosses threshold. Supports Minimal Quantum Interaction and Bidirectional Interaction tenets. Builds on attention-motor-quantum-selection.md, voluntary-attention.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-04
-
 ### P2: Write article on quantum biology mechanisms in neural systems
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-biology-neural-mechanisms-2026-01-24.md. Covers five distinct quantum biological mechanisms (radical pairs, ion channel tunneling, microtubule coherence, SNARE quantum tunneling, Posner molecules) with 2024-2025 experimental evidence. Directly supports Minimal Quantum Interaction tenet by establishing empirical grounding.
@@ -599,6 +593,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Write article on dopamine's role in attention-motor-quantum interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/dopamine-attention-motor-quantum-interface-2026-01-24.md. Explores how tonic vs phasic dopamine may modulate the decision threshold at which competing motor programs resolve, with consciousness determining which option crosses threshold. Supports Minimal Quantum Interaction and Bidirectional Interaction tenets. Builds on attention-motor-quantum-selection.md, voluntary-attention.md.
+- **Output**: dopamine's role in attention-motor-quantum interface
 
 ### ✓ 2026-02-04: Integrate attention-motor-quantum-selection.md into site navigation
 - **Type**: integrate-orphan
