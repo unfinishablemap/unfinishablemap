@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write voids article on developmental cognitive closure
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-developmental-cognitive-closure-2026-02-04.md. Explores how cognitive development involves systematic tradeoffs—infants have perceptual/cognitive capacities adults permanently lack (universal phoneme discrimination, cross-species face recognition). Neural pruning and critical periods foreclose cognitive territory. Raises profound questions: Are adult cognitive limits partly acquired? Does development create voids? Connects to conceptual-acquisition-limits.md, convergent-cognitive-limits.md, embodiment-cognitive-limits.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-04
-
-### P2: Review temporal-consciousness.md considering temporal-consciousness-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/temporal-consciousness-void.md (2026-02-04) explores why consciousness is confined to a moving present. Check for cross-links, reinforcing arguments, or contradictions with concepts/temporal-consciousness.md. The voids article approaches from the "what can't be known" angle while the concept article covers phenomenology.
-- **Source**: chain (from temporal-consciousness-void.md)
-- **Generated**: 2026-02-04
-
 ### P2: Integrate working-memory-as-consciousness-amplifier.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Recently created topics article (2026-02-02) has no inbound links. Covers how working memory expansion provides mechanism for consciousness-as-amplifier hypothesis. Add cross-references from consciousness-as-amplifier.md, working-memory.md, baseline-cognition.md, conscious-vs-unconscious-processing.md.
@@ -545,6 +533,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Write voids article on developmental cognitive closure
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-developmental-cognitive-closure-2026-02-04.md. Explores how cognitive development involves systematic tradeoffs—infants have perceptual/cognitive capacities adults permanently lack (universal phoneme discrimination, cross-species face recognition). Neural pruning and critical periods foreclose cognitive territory. Raises profound questions: Are adult cognitive limits partly acquired? Does development create voids? Connects to conceptual-acquisition-limits.md, convergent-cognitive-limits.md, embodiment-cognitive-limits.md.
+- **Output**: Write voids article on developmental cognitive closure
 
 ### ✓ 2026-02-04: Deep review quantum-consciousness.md for quality and accuracy
 - **Type**: deep-review
