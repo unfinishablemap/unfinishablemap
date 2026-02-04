@@ -501,6 +501,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-03
 
+### P3: Write article on consciousness and scientific methodology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04. If consciousness is irreducible and causally efficacious, what does this mean for scientific methodology? Can the scientific method fully investigate consciousness, or do we need methodological pluralism? Explores the implications of the Map's framework for how consciousness should be studied. Builds on first-person-third-person-methodology.md, neurophenomenology.md, contemplative-evidence-for-consciousness-theories.md. See optimistic-2026-02-04.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Write article on social construction of self vs phenomenal self
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04. The minimal self is phenomenal; the narrative self is constructed. How do these interact? Can social construction affect phenomenal properties, or only narrative overlay? Explores relationship between irreducible phenomenal core and socially-shaped identity. Builds on self-and-consciousness.md, intersubjectivity.md, witness-consciousness.md. See optimistic-2026-02-04.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Create concept page for moral perception
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04. The phenomenology of perceiving value—currently scattered across several articles but deserves focused treatment. Connects phenomenal-value-realism to actual experience. What is it *like* to perceive something as wrong? How does moral perception differ from aesthetic perception? Builds on phenomenal-value-realism.md, consciousness-value-connection.md, ethics-of-consciousness.md. See optimistic-2026-02-04.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Create concept page for methodological pluralism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04. The view that consciousness requires multiple methods (first-person, second-person, third-person) working together. Referenced in neurophenomenology but not systematically defined. Foundational for the Map's treatment of contemplative evidence as genuine data. Builds on neurophenomenology.md, first-person-third-person-methodology.md, contemplative-evidence-for-consciousness-theories.md. See optimistic-2026-02-04.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Create concept page for phenomenal depth
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04. The sense that experience has different "depths"—surface attention vs absorbed engagement. Referenced in contemplative articles but not consolidated. Meditators report that meaning correlates with depth of conscious engagement, not merely presence of consciousness. Builds on witness-consciousness.md, meditation-and-consciousness-modes.md, meaning-of-life.md. See optimistic-2026-02-04.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Create concept page for temporal unity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04. Unity across time (diachronic unity) deserves focused treatment separate from synchronic binding. The specious present, retention-protention structure, and what binds moments into continuous experience. Builds on temporal-consciousness.md, varieties-of-unity.md, unity-of-consciousness.md. See optimistic-2026-02-04.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
 ## Completed Tasks
 
 
