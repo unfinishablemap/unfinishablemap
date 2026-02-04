@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on quantum biology mechanisms in neural systems
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-biology-neural-mechanisms-2026-01-24.md. Covers five distinct quantum biological mechanisms (radical pairs, ion channel tunneling, microtubule coherence, SNARE quantum tunneling, Posner molecules) with 2024-2025 experimental evidence. Directly supports Minimal Quantum Interaction tenet by establishing empirical grounding.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-04
-
 ### P2: Review quantum-consciousness.md considering consciousness-and-quantum-measurement insights
 - **Type**: cross-review
 - **Notes**: New article consciousness-and-quantum-measurement.md (2026-02-04) provides detailed treatment of measurement problem. Review quantum-consciousness.md for cross-links, complementary arguments, or redundancies. Ensure consistent treatment of collapse interpretations.
@@ -593,6 +587,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Write article on quantum biology mechanisms in neural systems
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-mechanisms-2026-01-24.md. Covers five distinct quantum biological mechanisms (radical pairs, ion channel tunneling, microtubule coherence, SNARE quantum tunneling, Posner molecules) with 2024-2025 experimental evidence. Directly supports Minimal Quantum Interaction tenet by establishing empirical grounding.
+- **Output**: quantum biology mechanisms in neural systems
 
 ### ✓ 2026-02-04: Write article on dopamine's role in attention-motor-quantum interface
 - **Type**: expand-topic
