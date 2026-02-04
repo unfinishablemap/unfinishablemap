@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-28T16:16:15+00:00
+ai_modified: 2026-02-04T02:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-28T16:16:15+00:00
+last_deep_review: 2026-02-04T02:50:00+00:00
 ---
 
 The measurement problem is the central foundational puzzle in quantum mechanics—and it creates the logical opening for consciousness to play a role in physics. Quantum systems evolve deterministically according to the Schrödinger equation, forming superpositions of all possible states. Yet measurement yields a single, definite outcome. What causes this transition? The mathematics doesn't say. As J.S. Bell framed it: "Either the wavefunction...is not everything, or it is not right."
@@ -103,13 +103,13 @@ The original pragmatic approach: collapse is a rule for predictions, not a physi
 
 All outcomes occur. The universe branches at every quantum event; all branches are equally real. There is no collapse—just the appearance of collapse from within each branch.
 
-**Relation to site tenets:** **Directly rejected** by [[tenets#^no-many-worlds|No Many Worlds]]. See [[many-worlds]] for detailed arguments. Key objections: (1) indexical—why am I *this* branch?; (2) probability—what does "70% probable" mean if all outcomes occur?; (3) incompatible with [[tenets#^bidirectional-interaction|Bidirectional Interaction]].
+**Relation to site tenets:** **Directly rejected** by [[tenets#^no-many-worlds|No Many Worlds]]. See [[many-worlds]] for detailed arguments. Key objections: (1) indexical—why am I *this* branch?; (2) probability—what does "70% probable" mean if all outcomes occur?; (3) eliminates [[mental-causation]] entirely—consciousness makes no causal difference if all outcomes occur regardless.
 
-MWI has sophisticated responses. Wallace derives Born probabilities from decision-theoretic coherence: rational agents must weight outcomes by squared amplitudes to avoid Dutch books. This derivation shows what rational betting requires, not what probabilities mean when all outcomes occur.
+MWI has sophisticated responses. Wallace derives Born probabilities from decision-theoretic coherence: rational agents must weight outcomes by squared amplitudes. This shows what rational betting requires, not what probabilities mean when all outcomes occur.
 
 Copenhagen's measurement postulate faces a parallel challenge—it postulates collapse without explaining it. The difference: Copenhagen admits an unexplained transition to single outcomes; MWI claims all outcomes are equally real while explaining why rational agents should act as if they aren't. Both have explanatory gaps, but MWI's gap concerns the relationship between equal-reality branches and subjective probability.
 
-On indexicals: MWI defenders argue there is no fact about "which branch I occupy"—all successors are equally me. The indexical question arises for *any* interpretation, but collapse theories posit a single actual outcome, making "this one" unambiguous even if unexplained. MWI posits equally real successors, each asking the same question—multiplying instances of the puzzle rather than dissolving it.
+On indexicals: MWI defenders argue all successors are equally me—no fact determines "which branch I occupy." But collapse theories posit a single actual outcome, making "this one" unambiguous even if unexplained. MWI posits equally real successors, each asking the same question—multiplying the puzzle rather than dissolving it.
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
@@ -117,7 +117,7 @@ The wave function undergoes real, physical collapse according to modified dynami
 
 **Relation to site tenets:** These theories solve the [[prebiotic-collapse|prebiotic collapse problem]]: wave functions collapsed for billions of years before consciousness evolved. GRW/CSL provide *baseline* collapse—objective reduction happens whether or not anyone observes. Consciousness then *modulates* this existing process in neural systems rather than initiating collapse universally.
 
-This supports [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]: consciousness nudges stochastic processes rather than generating them. McQueen's CSL-IIT hybrid—where integrated information (Φ) amplifies collapse strength—exemplifies this modulation framework. These theories make testable predictions not yet experimentally ruled out.
+This supports [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]: consciousness nudges stochastic processes rather than generating them. McQueen's CSL-IIT hybrid—where integrated information (Φ) amplifies collapse strength—exemplifies this modulation framework. See [[prebiotic-collapse]] for how objective collapse solves the cosmological timeline problem.
 
 ### Hidden Variables (Bohmian Mechanics)
 

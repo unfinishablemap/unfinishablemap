@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Cross-review measurement-problem.md considering prebiotic-collapse insights
-- **Type**: cross-review
-- **Notes**: New article concepts/prebiotic-collapse.md (2026-02-03) addresses quantum collapse before observers. The measurement-problem.md concept should be cross-reviewed for consistency with prebiotic collapse treatment, ensuring the measurement problem discussion acknowledges observer-independent collapse mechanisms.
-- **Source**: chain (from prebiotic-collapse.md)
-- **Generated**: 2026-02-04
-
 ### P2: Integrate mathematical-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Voids article (2026-02-02) has no inbound links. Explores mathematical structures beyond genuine human comprehension—where formal manipulation succeeds but phenomenal understanding fails. Add cross-references from consciousness-and-mathematical-understanding.md, incompleteness-void.md, scale-void.md, phenomenology-of-the-edge.md.
@@ -503,6 +497,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Cross-review measurement-problem.md considering prebiotic-collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/prebiotic-collapse.md (2026-02-03) addresses quantum collapse before observers. The measurement-problem.md concept should be cross-reviewed for consistency with prebiotic collapse treatment, ensuring the measurement problem discussion acknowledges observer-independent collapse mechanisms.
+- **Output**: obsidian/concepts/measurement-problem.md -- Context: Cross-review measurement-problem.md considering prebiotic-collapse insights
 
 ### ✓ 2026-02-04: Cross-review quantum-consciousness.md considering prebiotic-collapse insights
 - **Type**: cross-review
