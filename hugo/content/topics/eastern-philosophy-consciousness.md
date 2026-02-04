@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-02-02 10:57:00+00:00
+ai_modified: 2026-02-04 15:27:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: Buddhism takes consciousness seriously while denying permanent self
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-01 02:28:00+00:00
+last_deep_review: 2026-02-04 15:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -115,9 +115,7 @@ Recent research has begun validating this approach empirically:
 
 Thomas Metzinger's research on *minimal phenomenal experience* describes awareness without the usual subject-object structure—non-conceptual, atemporal, non-egoic, yet vividly present. If consciousness can operate stripped of all content, awareness is more fundamental than any particular form it takes. See [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) for detailed treatment.
 
-**Temporal microstructure**: Buddhist descriptions of *khanika* (momentariness)—experience arising and passing in rapid succession—align with Husserl's phenomenological analysis of time-consciousness. Contemplative training discloses transitions that ordinary awareness blurs.
-
-These findings demonstrate that contemplative traditions offer not just philosophical claims but empirical methods for investigating consciousness systematically.
+**Temporal microstructure**: Buddhist descriptions of *khanika* (momentariness)—experience arising and passing in rapid succession—align with Husserl's phenomenological analysis. Contemplative training discloses transitions that ordinary awareness blurs, demonstrating that these traditions offer empirical methods for investigating consciousness, not just philosophical claims.
 
 ### Dream Yoga: Consciousness in Sleep
 
@@ -187,9 +185,7 @@ But not all Buddhist schools are Yogācāra. Madhyamaka accepts conventional phy
 
 ### Liberation vs. Explanation
 
-Buddhism's ultimate goal is liberation (*nirvana*)—transformation of consciousness, not explanation of it. The Map's project is different: to understand consciousness and its place in nature. Buddhism might ask: why explain consciousness when you could transform it?
-
-This tension is productive. The Map acknowledges that understanding isn't the only worthwhile project; Buddhism can acknowledge that theoretical clarity might support practice.
+Buddhism aims at liberation (*nirvana*)—transforming consciousness rather than explaining it. This tension is productive: the Map seeks understanding, Buddhism seeks transformation, and theoretical clarity might support practice.
 
 ## Process Philosophy Perspective
 
@@ -217,15 +213,13 @@ The combination of Buddhist phenomenology and Whiteheadian metaphysics yields a 
 
 Buddhism's approach to the [meaning of life](/topics/meaning-of-life/) offers a distinctive alternative to both Western nihilism and Western theism.
 
-The Four Noble Truths diagnose the human condition:
-1. Life involves suffering (dukkha)
-2. Suffering arises from craving and clinging
-3. Suffering can cease
-4. The Eightfold Path leads to cessation
+The Four Noble Truths diagnose the human condition: life involves suffering (dukkha), suffering arises from craving, suffering can cease, and the Eightfold Path leads to cessation. This isn't nihilism—it says the *craving* for cosmic meaning perpetuates suffering. Liberation comes not from finding meaning but from releasing the grip of craving.
 
-This isn't nihilism—it doesn't say life is meaningless. It says that the *quest* for cosmic meaning, the craving for permanent significance, is itself a source of suffering. Liberation comes not from finding meaning but from releasing the grip of craving.
+Yet Mahayana Buddhism goes further: meaning emerges through compassionate engagement itself. The *bodhisattva* ideal—awakening not for oneself alone but for all sentient beings—transforms meaning from something sought into something enacted. *Bodhicitta* (the awakening mind) generates meaning through the very act of serving others. The Bodhisattva doesn't escape suffering but returns to it, finding significance in alleviating others' pain.
 
-Compare this with the Map's view that meaning is grounded in consciousness itself. Buddhism might agree that conscious experience is significant—but add that clinging to its significance perpetuates suffering. The middle way isn't to deny experience's value or to grasp it desperately, but to engage fully while holding lightly.
+This offers a third path between Western nihilism and cosmic teleology: meaning neither discovered in the universe nor merely invented by individuals, but *realised through relationship*. Consciousness matters because other conscious beings suffer; alleviating that suffering is intrinsically meaningful.
+
+Compare this with the Map's view that meaning is grounded in consciousness itself. Buddhism agrees that conscious experience is significant—and adds that this significance is fulfilled through compassionate engagement, not abstract recognition. The middle way isn't to deny experience's value or to grasp it desperately, but to engage fully while holding lightly.
 
 ## What the Map Can Learn
 

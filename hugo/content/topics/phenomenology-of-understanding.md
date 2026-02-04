@@ -28,7 +28,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-and-mathematical-understanding]]'
-- '[[meaning-and-consciousness]]'
+- '[[consciousness-and-semantic-understanding]]'
 title: The Phenomenology of Understanding
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -221,7 +221,7 @@ Several findings would weaken the claim that understanding has irreducible pheno
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — The temporal unfolding of comprehension
 - [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) — Mathematical insight as paradigm case
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge itself
-- [meaning-and-consciousness](/topics/meaning-and-consciousness/) — Whether meaning requires phenomenal experience
+- [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — Whether meaning requires phenomenal experience
 - [phenomenology](/concepts/phenomenology/) — The philosophical method of first-person investigation
 - [working-memory](/concepts/working-memory/) — The cognitive system supporting understanding
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enables rather than accompanies cognition

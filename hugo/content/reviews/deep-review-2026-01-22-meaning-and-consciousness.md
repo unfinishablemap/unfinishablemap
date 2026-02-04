@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-22
-**Article**: [Meaning and Consciousness](/topics/meaning-and-consciousness/)
+**Article**: [Meaning and Consciousness](/archive/topics/meaning-and-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -98,6 +98,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 ### Types of Cognitive Limits
 
 - [The Limits of Conceptual Acquisition](/voids/conceptual-acquisition-limits/) — What concepts can minds form?
+- [The Developmental Void](/voids/developmental-cognitive-closure/) — Voids we acquire through maturation
 - [Conceptual Impossibility](/voids/conceptual-impossibility/) — Thoughts that cannot be thought
 - [Computational Cognitive Limits](/voids/computational-cognitive-limits/) — Formal limits on any algorithmic mind
 - [The Mathematical Void](/voids/mathematical-void/) — Where formal manipulation succeeds but understanding fails

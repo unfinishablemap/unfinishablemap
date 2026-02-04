@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-02-02 23:57:00+00:00
+ai_modified: 2026-02-04 17:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,8 @@ concepts:
 - '[[philosophical-zombies]]'
 - '[[knowledge-argument]]'
 - '[[intuitive-dualism]]'
+- '[[buddhism-and-dualism]]'
+- '[[free-will]]'
 created: 2026-01-19
 date: &id001 2026-01-19
 description: Dualism holds that consciousness is distinct from physical matter. Multiple
@@ -25,7 +27,7 @@ description: Dualism holds that consciousness is distinct from physical matter. 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-22 20:46:31+00:00
+last_deep_review: 2026-02-04 17:12:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -116,7 +118,7 @@ The Map's framework commits to interactionism, with the [Minimal Quantum Interac
 
 If mind is non-physical, how can it causally affect the physical world? Classical objections (Princess Elizabeth to Descartes, Leibniz on conservation laws) seemed devastating when physics was deterministic. But quantum mechanics reopens possibilities: at quantum indeterminacies, physics specifies probabilities, not outcomes. Consciousness could select among possibilities without injecting energy. The [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) traces how these objections evolved and why they no longer rule out interaction.
 
-The leading candidate mechanism is [Stapp's quantum Zeno effect](/concepts/stapp-quantum-mind/): repeated attention-driven observations bias superposition collapse toward particular outcomes without adding energy, only information. The objection that warm, noisy brains can't maintain quantum coherence misunderstands the proposal—consciousness doesn't require long-lived superposition but operates on the timescale where quantum processes influence neural firing (sub-millisecond). See [objections-to-interactionism](/concepts/objections-to-interactionism/) for detailed treatment.
+The leading candidate mechanism is [Stapp's quantum Zeno effect](/concepts/stapp-quantum-mind/): repeated attention-driven observations bias superposition collapse toward particular outcomes without adding energy, only information. The objection that warm, noisy brains can't maintain quantum coherence misunderstands the proposal—consciousness doesn't require long-lived neural superposition. Stapp's model concerns synaptic vesicle release, where quantum uncertainty in neurotransmitter timing provides the interface point, not macroscopic brain-wide coherence. See [objections-to-interactionism](/concepts/objections-to-interactionism/) for detailed treatment.
 
 ### The Parsimony Objection
 
@@ -163,6 +165,8 @@ What would count as evidence against dualism? If future neuroscience provided a 
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room explained
 - [qualia](/concepts/qualia/) — The phenomenal properties dualism holds are irreducible
+- [free-will](/topics/free-will/) — Why interactionist dualism matters for genuine agency
+- [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — How Buddhist philosophy engages with dualist frameworks
 - [tenets](/tenets/) — the Map's five foundational commitments
 
 ## References

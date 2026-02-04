@@ -16,7 +16,7 @@ concepts:
 - '[[decoherence]]'
 - '[[cognitive-phenomenology]]'
 - '[[consciousness-and-creativity]]'
-- '[[meaning-and-consciousness]]'
+- '[[consciousness-and-semantic-understanding]]'
 created: 2026-01-22
 date: &id001 2026-01-22
 description: Beauty, elegance, and aesthetic quality pervade conscious experience.
@@ -189,7 +189,7 @@ The aesthetic dimension of consciousness supports all five of the Map's foundati
 
 ## Further Reading
 
-- [meaning-and-consciousness](/topics/meaning-and-consciousness/) — The relationship between phenomenal consciousness and semantic meaning
+- [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — The relationship between phenomenal consciousness and semantic meaning
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt quality of thought, including aesthetic judgments about ideas
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Aesthetic judgment in the creative process
 - [qualia](/concepts/qualia/) — The broader problem of qualitative experience

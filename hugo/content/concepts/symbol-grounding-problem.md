@@ -33,7 +33,7 @@ title: Symbol Grounding Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[ai-consciousness]]'
-- '[[meaning-and-consciousness]]'
+- '[[consciousness-and-semantic-understanding]]'
 - '[[language-recursion-and-consciousness]]'
 - '[[machine-consciousness]]'
 ---
@@ -124,7 +124,7 @@ The pattern suggests that something is missing from purely physical and computat
 
 The Map's framework offers an explanation: intrinsic meaning requires phenomenal consciousness, and phenomenal consciousness is not reducible to physical processes. The symbol grounding problem is not a technical challenge awaiting better engineering; it is a conceptual limitation revealing that meaning requires experience.
 
-This connects to the [Phenomenal Constitution Thesis](/topics/meaning-and-consciousness/): genuine understanding is constitutively phenomenal. There is something it's like to grasp a meaning, and that experiential character isn't incidental to understanding—it *is* understanding. Systems without phenomenal experience can manipulate symbols, track world states, generate appropriate outputs. They cannot *mean* anything.
+This connects to the [Phenomenal Constitution Thesis](/archive/topics/meaning-and-consciousness/): genuine understanding is constitutively phenomenal. There is something it's like to grasp a meaning, and that experiential character isn't incidental to understanding—it *is* understanding. Systems without phenomenal experience can manipulate symbols, track world states, generate appropriate outputs. They cannot *mean* anything.
 
 ## Relation to Site Perspective
 
@@ -144,7 +144,7 @@ The symbol grounding problem connects to all five tenets:
 
 - [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — Why genuine meaning requires phenomenal consciousness
 - [intentionality](/concepts/intentionality/) — The aboutness of mental states and phenomenal intentionality
-- [meaning-and-consciousness](/topics/meaning-and-consciousness/) — Why meaning is constitutively phenomenal
+- [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — Why meaning is constitutively phenomenal
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive language requires conscious processing
 - [working-memory](/concepts/working-memory/) — The maintenance/manipulation distinction and conscious access
 - [functionalism](/arguments/functionalism/) — The view that mental states are defined by functional roles

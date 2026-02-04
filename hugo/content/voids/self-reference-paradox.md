@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-27 18:30:00+00:00
+ai_modified: 2026-02-04 14:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -64,7 +64,7 @@ The problem of [intentionality](/concepts/intentionality/) sharpens this. When w
 
 ## Strange Loops
 
-Douglas Hofstadter's *I Am a Strange Loop* offers another perspective: the "I" is a self-referential loop with downward causation. The self cannot fully model itself because any complete model would need to include the model, ad infinitum.
+Douglas Hofstadter's *I Am a Strange Loop* offers another perspective: the "I" is a self-referential loop with downward causation. The self cannot fully model itself because any complete model would need to include the model, ad infinitum. The [phenomenology of recursive thought](/topics/phenomenology-of-recursive-thought/) explores what this strange loop feels like from the inside—the distinctive instability when thought takes thought as object, the temporal thickness of recursive awareness, and why higher levels of self-reference collapse rather than extending indefinitely.
 
 Hofstadter and Penrose agree on the void—consciousness cannot fully understand itself—but disagree on implications. Penrose takes Gödelian limits as evidence consciousness exceeds computation. Hofstadter takes them as features of any self-referential system. Perhaps this disagreement is itself undecidable.
 

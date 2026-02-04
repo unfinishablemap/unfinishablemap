@@ -129,7 +129,7 @@ The Map's honesty about what remains uncertain—whether specific quantum mechan
 ### Medium Priority
 
 #### The Argument from Beauty
-- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [qualia](/concepts/qualia/), [meaning-and-consciousness](/topics/meaning-and-consciousness/)
+- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [qualia](/concepts/qualia/), [meaning-and-consciousness](/archive/topics/meaning-and-consciousness/)
 - **Would address**: If aesthetic experience is irreducibly qualitative (as suggested in the qualia article's treatment of aesthetic qualia), this provides another argument for dualism distinct from Mary's Room.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Novel support for Dualism through aesthetic phenomenology.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-02-02 18:42:00+00:00
+ai_modified: 2026-02-04 14:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -42,7 +42,7 @@ This void differs from the [general self-reference problem](/voids/self-referenc
 
 Direct the attention inward. Observe your own observing. What happens?
 
-You become aware of... awareness. But now there are two layers: the awareness observed and the awareness observing it. Attempt to observe *that* awareness—the observer of the observer. A third layer forms. The regression has no natural endpoint. Each new observer requires yet another to observe it.
+You become aware of... awareness. But now there are two layers: the awareness observed and the awareness observing it. Attempt to observe *that* awareness—the observer of the observer. A third layer forms. The regression has no natural endpoint. Each new observer requires yet another to observe it. The [phenomenology of recursive thought](/topics/phenomenology-of-recursive-thought/) maps this layered structure—Level 0 perception, Level 1 thought, Level 2 recursive awareness—and reveals why higher levels become increasingly difficult to maintain, eventually collapsing back into lower levels rather than extending indefinitely.
 
 David Hume put the problem empirically: "I can never catch myself at any time without a perception." The self doing the catching produces a perception of catching—but the catcher remains uncaught. When we look for the looker, we find only more looking.
 

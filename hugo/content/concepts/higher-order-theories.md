@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-27 17:30:00+00:00
+ai_modified: 2026-02-04 14:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -173,7 +173,7 @@ HOT connects to the Map's [self-reference-paradox](/voids/self-reference-paradox
 
 2. **The Calibration Problem**: How can we evaluate our metacognition without using more metacognition? The tools of assessment are the very things being assessed.
 
-The eye that cannot see itself appears in a new form: the thought that cannot think itself without an infinite tower of meta-thoughts.
+The eye that cannot see itself appears in a new form: the thought that cannot think itself without an infinite tower of meta-thoughts. The [phenomenology of recursive thought](/topics/phenomenology-of-recursive-thought/) explores what this recursive structure actually feels like—the characteristic instability, temporal thickness, and self-implicating quality that distinguish recursive awareness from first-order thought about external objects.
 
 ## HOT and AI Consciousness
 

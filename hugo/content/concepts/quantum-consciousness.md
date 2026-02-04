@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-02-04 02:20:00+00:00
+ai_modified: 2026-02-04 17:27:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: 'How consciousness might interact with quantum mechanics: Orch OR m
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-04 02:20:00+00:00
+last_deep_review: 2026-02-04 17:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,7 +51,7 @@ The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) te
 
 The quantum opening addresses [mental causation](/concepts/mental-causation/). Kim's exclusion argument concludes that if physical events have sufficient physical causes, mental causes are excluded. But quantum mechanics provides an alternative.
 
-The [measurement problem](/concepts/measurement-problem/) asks: what causes superposition collapse? Physics leaves this open—"Decoherence does not tell how and why only one of these outcomes is measured" (2025 review). At quantum indeterminacies, [causal closure](/concepts/causal-closure/) fails: physical causes are necessary but not sufficient. If consciousness determines which outcome occurs, it causes physical events without competing with physical causes.
+The [measurement problem](/concepts/measurement-problem/) asks: what causes superposition collapse? Physics leaves this open—"Decoherence does not tell how and why only one of these outcomes is measured" (Tomaz et al. 2025). At quantum indeterminacies, [causal closure](/concepts/causal-closure/) fails: physical causes are necessary but not sufficient. If consciousness determines which outcome occurs, it causes physical events without competing with physical causes.
 
 The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the alternative where all outcomes occur in branching universes. See [many-worlds](/arguments/many-worlds/) for five arguments against MWI. The core objection: MWI makes consciousness epiphenomenal. If all outcomes occur, consciousness doesn't select anything—it merely finds itself in a branch. This conflicts with [Bidirectional Interaction](/tenets/#bidirectional-interaction).
 

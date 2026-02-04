@@ -45,7 +45,7 @@ This article focuses on *why* experience is unified—the explanatory challenge 
 
 ## The Phenomenon
 
-Phenomenal unity refers to the way conscious contents are bound together in experience. It has several dimensions (see [varieties-of-unity](/concepts/varieties-of-unity/) for detailed analysis). A parallel problem arises for *meaning*: [meaning integration](/topics/consciousness-and-meaning-integration/) asks how consciousness weaves disparate semantic elements into unified comprehension—the unity of understanding, not just perception.
+Phenomenal unity refers to the way conscious contents are bound together in experience. It has several dimensions (see [varieties-of-unity](/concepts/varieties-of-unity/) for detailed analysis). A parallel problem arises for *meaning*: [meaning integration](/archive/topics/consciousness-and-meaning-integration/) asks how consciousness weaves disparate semantic elements into unified comprehension—the unity of understanding, not just perception.
 
 **Synchronic unity**: At any moment, all your experiences belong to one consciousness. Visual perception, auditory sensation, emotional feeling, and cognitive thought are unified rather than isolated. There is something it is like to have *all of them together*.
 
@@ -217,7 +217,7 @@ Phenomenal unity illuminates why the Map's [tenets](/tenets/) take the positions
 
 - [process-and-consciousness](/apex/process-and-consciousness/) — Apex synthesis: how process philosophy (Whitehead, Bergson) illuminates phenomenal unity through its account of actual occasions
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Broader conceptual framing of what unity is and how it relates to binding, combination, and other problems
-- [consciousness-and-meaning-integration](/topics/consciousness-and-meaning-integration/) — The parallel problem for meaning: how semantic elements combine into unified understanding
+- [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — The parallel problem for meaning: how semantic elements combine into unified understanding
 - [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) — Detailed analysis of classical binding mechanisms (gamma synchrony, thalamocortical loops) and why quantum entanglement succeeds where they fail
 - [quantum-binding-experimental-evidence](/concepts/quantum-binding-experimental-evidence/) — Comprehensive analysis of 2022-2025 experimental support for quantum mechanisms underlying phenomenal unity
 - [varieties-of-unity](/concepts/varieties-of-unity/) — Taxonomy of synchronic, diachronic, and subject unity with evidence for dissociation

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-02-03 07:52:00+00:00
+ai_modified: 2026-02-04 14:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -74,7 +74,7 @@ Fox and colleagues (2012) found meditation experience predicts introspective acc
 
 If dissociation shows metacognition can fail, doesn't this undermine introspective reliability? The objection conflates *possibility* with *typicality*. Dissociation cases involve specific neurological damage (blindsight requires V1 lesions) or threshold stimuli designed to stress metacognitive systems. These demonstrate metacognition *can* fail—not that it typically does. The existence of visual agnosia doesn't undermine confidence in normal visual recognition.
 
-The dissociations actually support the Map's framework by showing metacognition is a real cognitive capacity with identifiable neural substrates—not epiphenomenal illusion—that can be cultivated through practice.
+The dissociations actually support the Map's framework by showing metacognition is a real cognitive capacity with identifiable neural substrates—not epiphenomenal illusion—that can be cultivated through practice. The [phenomenology of recursive thought](/topics/phenomenology-of-recursive-thought/) explores what happens experientially when metacognition operates—when thought takes thought as its object, generating distinctive phenomenal structures absent from object-directed cognition.
 
 ## Error-Blindness: A Structural Limit
 

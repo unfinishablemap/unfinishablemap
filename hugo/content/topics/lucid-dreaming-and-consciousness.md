@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-02-03 07:37:00+00:00
+ai_modified: 2026-02-04 15:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Lucid dreaming demonstrates consciousness can voluntarily modulate 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-22 10:30:00+00:00
+last_deep_review: 2026-02-04 15:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -124,7 +124,7 @@ Type-B physicalists offer a different response. They accept that we cannot deduc
 
 The *phenomenal concepts strategy* supports this position. Our first-person concept of "becoming lucid" and our third-person concept of "prefrontal gamma reactivation during REM" may refer to the same event via cognitively independent routes. Just as "water" and "H₂O" co-refer despite conceptual distinctness, "the experience of lucidity" and "neural state N" might pick out the same property differently.
 
-The Map takes this challenge seriously but finds it inadequate for the lucid dreaming case specifically. The phenomenal concepts strategy explains why the identity between lucidity-experience and neural states is not a priori deducible. But lucid dreaming provides distinctive evidence that the experience *adds* something beyond neural activity: trained practitioners can *do* things during lucid dreams (signal with eye movements, execute pre-agreed tasks, exert control over dream content) that require phenomenal awareness to coordinate. If lucidity were merely a neural state with no phenomenal contribution, why would cultivating *awareness* of dreaming—rather than just inducing the neural correlates—be necessary for these capacities?
+The Map takes this challenge seriously but finds it inadequate for the lucid dreaming case specifically. The phenomenal concepts strategy explains why the identity between lucidity-experience and neural states is not a priori deducible. But lucid dreaming provides distinctive evidence that the experience *adds* something beyond neural activity: trained practitioners can *do* things during lucid dreams (signal with eye movements, execute pre-agreed tasks, exert control over dream content) that require phenomenal awareness to coordinate. The evidence is instructive: laboratory protocols that merely induce the neural correlates of lucidity (through transcranial stimulation, for instance) produce inconsistent results, while techniques that cultivate *awareness* of dreaming—reality testing, mnemonic induction—succeed more reliably. This suggests phenomenal recognition, not just neural activation, is doing work. If lucidity were merely a neural state with no phenomenal contribution, why would cultivating *awareness* of dreaming—rather than just inducing the neural correlates—be necessary for these capacities?
 
 Furthermore, the distinction between ordinary dreaming and lucid dreaming is not merely a difference in neural activity—it's a difference in *what the dreamer can access and do*. The added metacognitive capacity of lucid dreaming requires explanation. Type-B physicalists can describe the neural correlates of this capacity, but the *phenomenology of lucidity*—the felt recognition "I am dreaming"—appears constitutive of the capacity, not merely correlated with it. The Map holds that this constitutive role of phenomenology supports the view that consciousness is not reducible to the neural processes it accompanies, even if it is intimately related to them.
 
@@ -168,7 +168,7 @@ The Map's interpretation of lucid dreaming would face difficulty if:
 
 **Dualism**: Lucid dreaming supports the [Dualism](/tenets/#dualism) tenet by demonstrating that consciousness can add capacities (metacognition, voluntary control) to an ongoing conscious state (the dream). The dream was conscious before lucidity; becoming lucid adds something further—proof that consciousness isn't simply identical to whatever brain activity happens to be occurring.
 
-**Minimal Quantum Interaction**: The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness influences physical processes through minimal intervention in quantum outcomes. Dream control might operate through mechanisms analogous to the [quantum Zeno effect](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp)—sustained attention stabilising certain neural patterns against decoherence while allowing others to dissipate. The dreamer's intention to fly, for instance, would bias which of many possible dream-trajectories becomes actual, not by overriding neural activity but by selecting among genuinely indeterminate alternatives at quantum branching points. The incomplete reliability of dream control fits this model: consciousness influences outcomes within the margin quantum indeterminacy allows, but cannot override the brain's bulk classical dynamics. When dream-generating machinery has strong momentum toward one narrative, minimal quantum intervention may be insufficient to redirect it.
+**Minimal Quantum Interaction**: The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness influences physical processes through minimal intervention in quantum outcomes. How this might work during lucid dreams remains speculative, but one possibility involves attention-mediated selection among quantum-indeterminate alternatives. The dreamer's intention to fly would not override neural activity but bias which of several genuinely indeterminate trajectories becomes actual. The incomplete reliability of dream control fits this picture: consciousness influences outcomes within the margin quantum indeterminacy allows, but cannot override the brain's bulk classical dynamics. When dream-generating machinery has strong momentum toward one narrative, minimal intervention may be insufficient to redirect it.
 
 **Bidirectional Interaction**: The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet receives direct support. Lucid dreamers exert causal influence over dream content through intention. This influence is demonstrable: dreamers can execute pre-agreed actions (eye signal patterns) while remaining asleep. Consciousness during lucid dreams is not epiphenomenal observation but causal participation.
 

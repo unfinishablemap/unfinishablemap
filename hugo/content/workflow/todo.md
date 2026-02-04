@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-04 10:28:00+00:00
+ai_modified: 2026-02-04 15:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,16 +44,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate phenomenology-of-recursive-thought.md into site navigation
+### P2: Integrate baseline-cognition.md into site navigation
 - **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-01) has no inbound links. Covers what it's like to think about thinking—the phenomenology of metarepresentation. Relevant to arguments about consciousness and self-reference. Add cross-references from metacognition.md, self-reference-paradox.md, argument-from-reason.md, language-recursion-and-consciousness.md.
+- **Notes**: Topics article on baseline cognition (cognitive functions that operate independently of consciousness) has no inbound links. Add cross-references from consciousness-as-amplifier.md, consciousness-and-intelligence.md, consciousness-independent-baseline-cognition.md, and related concepts that discuss what cognition can accomplish without conscious involvement.
 - **Source**: orphan_integration
 - **Generated**: 2026-02-04
 
-### P2: Cross-review eastern-philosophy-consciousness.md considering Buddhist perspectives on meaning
-- **Type**: cross-review
-- **Notes**: New article topics/buddhist-perspectives-on-meaning.md (2026-02-04) provides detailed treatment of Buddhist meaning frameworks. The eastern-philosophy-consciousness.md overview should be cross-reviewed for: (1) cross-links to the new Buddhist meaning treatment, (2) whether the overview adequately represents Buddhist approaches to meaning, (3) consistency in treatment of suffering, clinging, and liberation.
-- **Source**: chain (from buddhist-perspectives-on-meaning.md)
+### P2: Integrate consciousness-independent-baseline-cognition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article on consciousness-independent baseline cognition has no inbound links. Add cross-references from baseline-cognition.md, consciousness-as-amplifier.md, implicit-memory.md, and related articles that discuss unconscious cognitive processing and its relationship to conscious amplification.
+- **Source**: orphan_integration
 - **Generated**: 2026-02-04
 
 ### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
@@ -540,6 +540,56 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Review temporal-asymmetry-remembering-anticipating.md considering temporal-consciousness-void insights
+- **Type**: cross-review
+- **Notes**: New voids article temporal-consciousness-void.md (2026-02-04) explores why consciousness is confined to a moving present. Check temporal-asymmetry-remembering-anticipating.md for opportunities to add cross-links, discuss how temporal confinement relates to the asymmetry between memory and anticipation, and strengthen connections to Husserl's retention/protention analysis.
+- **Output**: obsidian/voids/temporal-asymmetry-remembering-anticipating.md -- Context: Review temporal-asymmetry-remembering-anticipating.md considering temporal-consciousness-void insights
+
+### ✓ 2026-02-04: Review conceptual-acquisition-limits.md considering developmental-cognitive-closure insights
+- **Type**: cross-review
+- **Notes**: New voids article developmental-cognitive-closure.md (2026-02-04) explores how cognitive maturation closes perceptual and conceptual territory—voids we acquire rather than inherit. Check conceptual-acquisition-limits.md for opportunities to add cross-links, discuss how developmental closure differs from innate conceptual limits, and ensure consistency in how both articles treat cognitive boundaries.
+- **Output**: obsidian/voids/conceptual-acquisition-limits.md -- Context: Review conceptual-acquisition-limits.md considering developmental-cognitive-closure insights
+
+### ✓ 2026-02-04: Integrate working-memory-as-consciousness-amplifier.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Recently created topics article (2026-02-02) has no inbound links. Covers how working memory expansion provides mechanism for consciousness-as-amplifier hypothesis. Add cross-references from consciousness-as-amplifier.md, working-memory.md, baseline-cognition.md, conscious-vs-unconscious-processing.md.
+- **Output**: working-memory-as-consciousness-amplifier.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-04: Write voids article on developmental cognitive closure
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-developmental-cognitive-closure-2026-02-04.md. Explores how cognitive development involves systematic tradeoffs—infants have perceptual/cognitive capacities adults permanently lack (universal phoneme discrimination, cross-species face recognition). Neural pruning and critical periods foreclose cognitive territory. Raises profound questions: Are adult cognitive limits partly acquired? Does development create voids? Connects to conceptual-acquisition-limits.md, convergent-cognitive-limits.md, embodiment-cognitive-limits.md.
+- **Output**: Write voids article on developmental cognitive closure
+
+### ✓ 2026-02-04: Deep review quantum-consciousness.md for quality and accuracy
+- **Type**: deep-review
+- **Notes**: Core concept page (ai_contribution: 100) has never been deep-reviewed. Central to Minimal Quantum Interaction tenet—covers Penrose-Hameroff, Stapp, Fisher mechanisms. Check empirical claims are current (recent coherence findings), ensure alignment with Map's framework, verify connections to neural-quantum-coherence.md, stapp-quantum-mind.md.
+- **Output**: obsidian/concepts/quantum-consciousness.md
+
+### ✓ 2026-02-04: Deep review dualism.md for quality and accuracy
+- **Type**: deep-review
+- **Notes**: Core concept page (ai_contribution: 100) has never been deep-reviewed. Central to the Map's framework—defines substance dualism, property dualism, and the Map's position. Check philosophical accuracy, ensure arguments are current, verify connections to interactionist-dualism.md and arguments-for-dualism.md.
+- **Output**: obsidian/concepts/dualism.md
+
+### ✓ 2026-02-04: Condense varieties-of-unity.md (3527 words, 101% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core taxonomy of unity types (subject unity, object unity, spatial, temporal, access unity) while tightening prose. Consider whether detailed examples can be condensed or moved to linked articles.
+- **Output**: obsidian/concepts/varieties-of-unity.md
+
+### ✓ 2026-02-04: Condense temporal-structure-of-consciousness.md (4029 words, 101% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about specious present, retention-protention structure, and temporal binding while removing redundancy. Consider deferring detailed subtopics to linked articles (specious-present.md, duration.md, phenomenology-of-time.md).
+- **Output**: obsidian/topics/temporal-structure-of-consciousness.md
+
+### ✓ 2026-02-04: Cross-review eastern-philosophy-consciousness.md considering Buddhist perspectives on meaning
+- **Type**: cross-review
+- **Notes**: New article topics/buddhist-perspectives-on-meaning.md (2026-02-04) provides detailed treatment of Buddhist meaning frameworks. The eastern-philosophy-consciousness.md overview should be cross-reviewed for: (1) cross-links to the new Buddhist meaning treatment, (2) whether the overview adequately represents Buddhist approaches to meaning, (3) consistency in treatment of suffering, clinging, and liberation.
+- **Output**: obsidian/topics/eastern-philosophy-consciousness.md -- Context: Cross-review eastern-philosophy-consciousness.md considering Buddhist perspectives on meaning
+
+### ✓ 2026-02-04: Integrate phenomenology-of-recursive-thought.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers what it's like to think about thinking—the phenomenology of metarepresentation. Relevant to arguments about consciousness and self-reference. Add cross-references from metacognition.md, self-reference-paradox.md, argument-from-reason.md, language-recursion-and-consciousness.md.
+- **Output**: obsidian/topics/phenomenology-of-recursive-thought.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-04: Integrate phenomenology-of-temporal-agency.md into site navigation
 - **Type**: integrate-orphan

@@ -67,7 +67,7 @@ topics: []
 
 ### Cross-links Added
 
-- [meaning-and-consciousness](/topics/meaning-and-consciousness/) (frontmatter and Further Reading)
+- [meaning-and-consciousness](/archive/topics/meaning-and-consciousness/) (frontmatter and Further Reading)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) (frontmatter and Further Reading)
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) (frontmatter and Further Reading)
 

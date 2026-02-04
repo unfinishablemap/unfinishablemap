@@ -188,7 +188,7 @@ The phenomenal constitution of meaning connects to all five tenets.
 ## Source Articles
 
 This apex article synthesizes:
-- [Meaning and Consciousness](/topics/meaning-and-consciousness/)
+- [Meaning and Consciousness](/archive/topics/meaning-and-consciousness/)
 - [Language, Recursion, and Consciousness](/topics/language-recursion-and-consciousness/)
 - [Consciousness as Intelligence Amplifier](/archive/topics/consciousness-as-intelligence-amplifier/)
 - [Baseline Cognition: What Neurons Can Do Without Consciousness](/archive/topics/baseline-cognition/)
