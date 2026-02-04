@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense temporal-structure-of-consciousness.md (4029 words, 101% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about specious present, retention-protention structure, and temporal binding while removing redundancy. Consider deferring detailed subtopics to linked articles (specious-present.md, duration.md, phenomenology-of-time.md).
-- **Source**: length_analysis
-- **Generated**: 2026-02-04
-
 ### P2: Condense varieties-of-unity.md (3527 words, 101% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core taxonomy of unity types (subject unity, object unity, spatial, temporal, access unity) while tightening prose. Consider whether detailed examples can be condensed or moved to linked articles.
@@ -557,6 +551,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Condense temporal-structure-of-consciousness.md (4029 words, 101% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about specious present, retention-protention structure, and temporal binding while removing redundancy. Consider deferring detailed subtopics to linked articles (specious-present.md, duration.md, phenomenology-of-time.md).
+- **Output**: obsidian/topics/temporal-structure-of-consciousness.md
 
 ### ✓ 2026-02-04: Cross-review eastern-philosophy-consciousness.md considering Buddhist perspectives on meaning
 - **Type**: cross-review
