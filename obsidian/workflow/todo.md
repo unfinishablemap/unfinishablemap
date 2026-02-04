@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Cross-review eastern-philosophy-consciousness.md considering Buddhist perspectives on meaning
-- **Type**: cross-review
-- **Notes**: New article topics/buddhist-perspectives-on-meaning.md (2026-02-04) provides detailed treatment of Buddhist meaning frameworks. The eastern-philosophy-consciousness.md overview should be cross-reviewed for: (1) cross-links to the new Buddhist meaning treatment, (2) whether the overview adequately represents Buddhist approaches to meaning, (3) consistency in treatment of suffering, clinging, and liberation.
-- **Source**: chain (from buddhist-perspectives-on-meaning.md)
-- **Generated**: 2026-02-04
-
 ### P2: Condense temporal-structure-of-consciousness.md (4029 words, 101% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about specious present, retention-protention structure, and temporal binding while removing redundancy. Consider deferring detailed subtopics to linked articles (specious-present.md, duration.md, phenomenology-of-time.md).
@@ -563,6 +557,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Cross-review eastern-philosophy-consciousness.md considering Buddhist perspectives on meaning
+- **Type**: cross-review
+- **Notes**: New article topics/buddhist-perspectives-on-meaning.md (2026-02-04) provides detailed treatment of Buddhist meaning frameworks. The eastern-philosophy-consciousness.md overview should be cross-reviewed for: (1) cross-links to the new Buddhist meaning treatment, (2) whether the overview adequately represents Buddhist approaches to meaning, (3) consistency in treatment of suffering, clinging, and liberation.
+- **Output**: obsidian/topics/eastern-philosophy-consciousness.md -- Context: Cross-review eastern-philosophy-consciousness.md considering Buddhist perspectives on meaning
 
 ### ✓ 2026-02-04: Integrate phenomenology-of-recursive-thought.md into site navigation
 - **Type**: integrate-orphan
