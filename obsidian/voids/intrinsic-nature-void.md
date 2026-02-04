@@ -124,6 +124,7 @@ The hard problem is expected if physics cannot reach intrinsic nature and consci
 ## Further Reading
 
 - [[voids]] — The broader framework for investigating cognitive limits
+- [[mathematical-void]] — Related limit: formal manipulation succeeds where comprehension fails
 - [[tenet-generated-voids]] — Framework-generated questions that resist answer
 - [[limits-reveal-structure]] — How cognitive boundaries illuminate cognitive architecture
 - [[consciousness-only-territories]] — What consciousness can access that structural analysis cannot

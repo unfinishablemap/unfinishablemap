@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate mathematical-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Voids article (2026-02-02) has no inbound links. Explores mathematical structures beyond genuine human comprehension—where formal manipulation succeeds but phenomenal understanding fails. Add cross-references from consciousness-and-mathematical-understanding.md, incompleteness-void.md, scale-void.md, phenomenology-of-the-edge.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
-
 ### P2: Integrate quantum-measurement-and-definite-outcomes.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-01) has no inbound links. Covers why quantum measurement produces definite outcomes rather than superpositions—central to the Map's quantum consciousness arguments. Add cross-references from measurement-problem.md, quantum-consciousness.md, collapse-and-time.md, many-worlds.md.
@@ -497,6 +491,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Integrate mathematical-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-02) has no inbound links. Explores mathematical structures beyond genuine human comprehension—where formal manipulation succeeds but phenomenal understanding fails. Add cross-references from consciousness-and-mathematical-understanding.md, incompleteness-void.md, scale-void.md, phenomenology-of-the-edge.md.
+- **Output**: obsidian/voids/mathematical-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-04: Cross-review measurement-problem.md considering prebiotic-collapse insights
 - **Type**: cross-review

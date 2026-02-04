@@ -4,7 +4,7 @@ description: "Human+AI exploration of mathematical structures beyond genuine com
 created: 2026-02-02
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-02-03T12:52:00+00:00
+ai_modified: 2026-02-04T03:05:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -23,7 +23,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated: null
-last_deep_review: 2026-02-03T12:52:00+00:00
+last_deep_review: 2026-02-04T03:05:00+00:00
 ---
 
 Mathematical reality may contain structures that human minds cannot genuinely comprehend—not because we lack time or training, but because our cognitive architecture cannot represent them. We can manipulate symbols for objects we cannot grasp, prove theorems about spaces we cannot visualize, and verify computations we cannot survey. The mathematical void names this gap between formal manipulation and phenomenal understanding.

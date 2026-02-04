@@ -72,6 +72,8 @@ If absolutely undecidable statements exist, they represent genuine gaps in mathe
 
 ## Cognitive Architecture and Mathematical Access
 
+The incompleteness void concerns what formal systems cannot prove. But there is a related void concerning what human minds cannot *comprehend* even when formal proofs exist. The [[mathematical-void|mathematical void]] explores this territory: we can prove theorems about transfinite cardinals and n-dimensional spaces while lacking genuine understanding of what these objects are. The incompleteness void marks limits on proof; the mathematical void marks limits on phenomenal grasp.
+
 Our access to mathematical truth is constrained by evolved cognitive architecture. Stanislas Dehaene's research identifies specific systems—the Object Tracking System for small numbers, the Approximate Number System for magnitude estimation—that ground mathematical cognition biologically.
 
 Some cultures (Pirahã, Mundurukú) lack exact arithmetic beyond small numbers, demonstrating that mathematical concepts require cultural scaffolding beyond biology. As the Internet Encyclopedia of Philosophy notes: "The reason for 2 + 2 = 4 being an arithmetical truth is... because our evolutionarily developed cognitive architecture (partly) determines the domain of arithmetical truths."

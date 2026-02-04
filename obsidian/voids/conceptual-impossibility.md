@@ -160,6 +160,7 @@ The claim that conceptual impossibilities mark genuine cognitive boundaries woul
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
+- [[mathematical-void|The Mathematical Void]] — A related limit: comprehension failing where formal manipulation succeeds
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at boundaries
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Related but distinct slippage phenomena

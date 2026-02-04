@@ -94,6 +94,8 @@ Property P may be the intrinsic categorical nature of matter—whatever underlie
 
 Two distinct types of limits converge here. [[computational-cognitive-limits|Computational limits]]—Gödel's incompleteness, the halting problem, Chaitin's constant—are *mathematically proven* and constrain any algorithmic process. McGinn's cognitive closure is a *hypothesis* about human biology: evolution shaped minds for survival, not for solving every problem. If human cognition is computational, both limits apply; if consciousness transcends computation (as Penrose suggests), we might escape formal limits while remaining subject to biological ones—or vice versa. The computational void is certain; cognitive closure is proposed. Both point toward the same conclusion: not all truths are accessible to all minds.
 
+A related phenomenon is the [[mathematical-void|mathematical void]]—the gap between formal manipulation and genuine comprehension. We can prove theorems about transfinite cardinals while lacking phenomenal access to what "different sizes of infinity" means. This is McGinn-style cognitive closure applied to mathematics: not inability to compute, but inability to *understand*.
+
 ## The Phenomenology of Cognitive Closure
 
 What does it feel like to approach a cognitive limit? The [[phenomenology-of-the-edge|voids article on edge-phenomenology]] maps this territory. When consciousness approaches limits through contemplative practice, psychedelics, or philosophical inquiry, consistent features appear: ineffability combined with felt knowledge, ego dissolution paired with enhanced clarity, temporal distortion alongside unbounded possibility.
