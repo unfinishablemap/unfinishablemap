@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-04T10:28:00+00:00
+ai_modified: 2026-02-04T15:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -47,6 +47,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: cross-review
 - **Notes**: New article topics/buddhist-perspectives-on-meaning.md (2026-02-04) provides detailed treatment of Buddhist meaning frameworks. The eastern-philosophy-consciousness.md overview should be cross-reviewed for: (1) cross-links to the new Buddhist meaning treatment, (2) whether the overview adequately represents Buddhist approaches to meaning, (3) consistency in treatment of suffering, clinging, and liberation.
 - **Source**: chain (from buddhist-perspectives-on-meaning.md)
+- **Generated**: 2026-02-04
+
+### P2: Condense temporal-structure-of-consciousness.md (4029 words, 101% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about specious present, retention-protention structure, and temporal binding while removing redundancy. Consider deferring detailed subtopics to linked articles (specious-present.md, duration.md, phenomenology-of-time.md).
+- **Source**: length_analysis
+- **Generated**: 2026-02-04
+
+### P2: Condense varieties-of-unity.md (3527 words, 101% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core taxonomy of unity types (subject unity, object unity, spatial, temporal, access unity) while tightening prose. Consider whether detailed examples can be condensed or moved to linked articles.
+- **Source**: length_analysis
+- **Generated**: 2026-02-04
+
+### P2: Deep review dualism.md for quality and accuracy
+- **Type**: deep-review
+- **Notes**: Core concept page (ai_contribution: 100) has never been deep-reviewed. Central to the Map's framework—defines substance dualism, property dualism, and the Map's position. Check philosophical accuracy, ensure arguments are current, verify connections to interactionist-dualism.md and arguments-for-dualism.md.
+- **Source**: staleness
+- **Generated**: 2026-02-04
+
+### P2: Deep review quantum-consciousness.md for quality and accuracy
+- **Type**: deep-review
+- **Notes**: Core concept page (ai_contribution: 100) has never been deep-reviewed. Central to Minimal Quantum Interaction tenet—covers Penrose-Hameroff, Stapp, Fisher mechanisms. Check empirical claims are current (recent coherence findings), ensure alignment with Map's framework, verify connections to neural-quantum-coherence.md, stapp-quantum-mind.md.
+- **Source**: staleness
+- **Generated**: 2026-02-04
+
+### P2: Integrate working-memory-as-consciousness-amplifier.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Recently created topics article (2026-02-02) has no inbound links. Covers how working memory expansion provides mechanism for consciousness-as-amplifier hypothesis. Add cross-references from consciousness-as-amplifier.md, working-memory.md, baseline-cognition.md, conscious-vs-unconscious-processing.md.
+- **Source**: orphan_integration
 - **Generated**: 2026-02-04
 
 ### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
