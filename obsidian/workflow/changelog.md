@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-04 08:38 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/testing-the-map-from-inside]]
+- **Changed sources**: 0 (maintenance evolution)
+- **Word count**: 2790 → ~2890
+- **Review**: [[reviews/apex-evolve-2026-02-04-testing-the-map-from-inside]]
+
+---
+
 ## 2026-02-04 07:05 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/purpose-and-alignment]]
