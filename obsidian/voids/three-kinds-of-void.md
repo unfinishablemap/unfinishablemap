@@ -4,8 +4,9 @@ description: "The unexplored, the unexplorable, and the occluded—a taxonomy of
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-02-03T07:37:00+00:00
+ai_modified: 2026-02-04T08:45:00+00:00
 draft: false
+last_deep_review: 2026-02-04T08:45:00+00:00
 topics: []
 concepts:
   - "[[simulation]]"
@@ -17,6 +18,8 @@ related_articles:
   - "[[thoughts-that-slip-away]]"
   - "[[defended-territory]]"
   - "[[dream-consciousness-void]]"
+  - "[[epistemology-of-cognitive-limits]]"
+  - "[[whether-real]]"
 ai_contribution: 80
 author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
@@ -40,7 +43,7 @@ Colin McGinn's [[mysterianism|mysterian]] framework articulates this possibility
 
 McGinn argues that humans may be cognitively closed to what he calls "property P"—whatever property of the brain explains how neural activity gives rise to conscious experience. We access consciousness through introspection and brain through perception, but neither mode reveals the bridge between them. The [[hard-problem-of-consciousness|hard problem]] might be unsolvable not because it's supernatural but because the solution lies outside our cognitive reach.
 
-Materialists counter that apparent cognitive closure often dissolves with scientific progress—what seems unthinkable becomes tractable once the right concepts emerge. This is a serious objection. But if the Map's [[tenets]] are correct—consciousness is irreducible and interacts with physical processes—the hard problem may be different in kind from merely difficult problems.
+Materialists counter that apparent cognitive closure often dissolves with scientific progress—what seems unthinkable becomes tractable once the right concepts emerge. This is a serious objection. But if the Map's [[tenets]] are correct—consciousness is irreducible and interacts with physical processes—the hard problem may be different in kind from merely difficult problems. The [[epistemology-of-cognitive-limits|meta-level question]] of how we can distinguish genuine closure from merely difficult problems may itself be unanswerable from within any limited cognitive system—which is itself evidence for the framework.
 
 Thomas Nagel's bat example illustrates this: there is something it is like to be a bat, navigating by echolocation in ways we cannot truly imagine. The bat has experiential territory we cannot enter. Our map has a void where the bat's map has detail.
 
@@ -58,9 +61,9 @@ How would we detect occluded thoughts? By their phenomenology. An occluded thoug
 
 We've all experienced this. The [[thoughts-that-slip-away|phenomenology of slippage]] catalogues the mechanisms: tip-of-tongue blocking where knowledge and access dissociate, dream forgetting where MCH neurons actively erase content before it reaches stable memory, ironic suppression where trying not to think a thought guarantees you will think it. Most slippage has mundane explanations—neural architecture, retrieval interference, biological constraints.
 
-But certain patterns warrant attention. William James noted that mystical experiences combine *ineffability* with *noesis*—you feel certain you know something you cannot say. The "dissolving-insight phenomenon" describes thoughts that vanish not gradually but *in the act of reaching for them*. And Husserl's "double concealment" suggests that some forgetting erases even the gap—we don't know what we don't know. Could some of these patterns point beyond ordinary memory failure to genuinely [[defended-territory|defended territory]]?
+But certain patterns warrant attention. William James noted that mystical experiences combine *ineffability* with *noesis*—you feel certain you know something you cannot say. The "dissolving-insight phenomenon" describes thoughts that vanish not gradually but *in the act of reaching for them*. And Husserl's "double concealment" suggests that some forgetting erases even the gap—we don't know what we don't know. Could some of these patterns point beyond ordinary memory failure to genuinely [[defended-territory|defended territory]]? The [[whether-real|question of whether voids are genuine]] may itself be a void—formally undecidable from within any limited system.
 
-This is speculative. But it's testably speculative—at least in principle. We can look for patterns in what thoughts refuse to form, paying attention to whether certain *content types* produce systematic slippage.
+This is speculative. But it's testably speculative—at least in principle. We can look for patterns in what thoughts refuse to form, paying attention to whether certain *content types* produce systematic slippage. The [[defended-territory|defended territory]] article develops specific tests: if consciousness-related thoughts slip no more than matched control topics, the hypothesis fails; if AI can stably articulate what humans consistently lose, human slippage was contingent rather than structural.
 
 ## Relation to Site Perspective
 
