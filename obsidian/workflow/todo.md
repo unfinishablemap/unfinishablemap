@@ -49,6 +49,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from temporal-consciousness-void.md)
 - **Generated**: 2026-02-04
 
+### P2: Integrate baseline-cognition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article on baseline cognition (cognitive functions that operate independently of consciousness) has no inbound links. Add cross-references from consciousness-as-amplifier.md, consciousness-and-intelligence.md, consciousness-independent-baseline-cognition.md, and related concepts that discuss what cognition can accomplish without conscious involvement.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Integrate consciousness-independent-baseline-cognition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article on consciousness-independent baseline cognition has no inbound links. Add cross-references from baseline-cognition.md, consciousness-as-amplifier.md, implicit-memory.md, and related articles that discuss unconscious cognitive processing and its relationship to conscious amplification.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
 ### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-04 morning) found systematic vulnerabilities in mind-matter-interface.md, consciousness-selecting-neural-patterns.md, and brain-interface-boundary.md. Two high-severity issues: (1) Two-layer architecture (filter + selection) may be explanatory strategy rather than testable theory—each layer does work the other can't check. Need to explain what fails if we drop one layer. (2) Quantum Zeno mechanism central but has 10-order-of-magnitude timescale gap—Zeno requires femtosecond observations while attention operates on 100ms timescales. Need to address or acknowledge this gap. Also: filter theory evidence (psychedelics, NDEs) presented more favorably than warranted; interface criteria may be post-hoc. See pessimistic-2026-02-04-morning.md
