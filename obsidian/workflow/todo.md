@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-04T09:13:00+00:00
+ai_modified: 2026-02-04T10:28:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -47,6 +47,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: integrate-orphan
 - **Notes**: Topics article has no inbound links. Covers how consciousness integrates meaning—central to the Map's position on meaning and consciousness. Add cross-references from meaning-of-life.md, meaning-and-consciousness.md, phenomenology-of-understanding.md.
 - **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Write voids article on temporal consciousness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-temporal-consciousness-void-2026-02-04.md. Explores the void in our understanding of how consciousness relates to temporal experience—why the "now" feels different from memory and anticipation in ways that resist physical description. Connects to temporal-consciousness.md, specious-present.md, phenomenology-of-the-edge.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-04
+
+### P2: Cross-review buddhism-and-dualism.md considering Buddhist perspectives on meaning
+- **Type**: cross-review
+- **Notes**: New article topics/buddhist-perspectives-on-meaning.md (2026-02-04) offers Buddhism's distinctive response to meaning. The buddhism-and-dualism.md article should be cross-reviewed for: (1) cross-links to the new meaning treatment, (2) how Buddhist approaches to meaning relate to the anattā-dualism tension, (3) whether the Map's meaning framework can accommodate Buddhist insights about craving and satisfaction.
+- **Source**: chain (from buddhist-perspectives-on-meaning.md)
+- **Generated**: 2026-02-04
+
+### P2: Integrate phenomenology-of-temporal-agency.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers the phenomenology of choosing across time—planning, commitment, temporal self-binding. Central to free will discussions. Add cross-references from free-will.md, temporal-consciousness.md, agent-causation.md, phenomenology-of-choice.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Integrate phenomenology-of-recursive-thought.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers what it's like to think about thinking—the phenomenology of metarepresentation. Relevant to arguments about consciousness and self-reference. Add cross-references from metacognition.md, self-reference-paradox.md, argument-from-reason.md, language-recursion-and-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Cross-review eastern-philosophy-consciousness.md considering Buddhist perspectives on meaning
+- **Type**: cross-review
+- **Notes**: New article topics/buddhist-perspectives-on-meaning.md (2026-02-04) provides detailed treatment of Buddhist meaning frameworks. The eastern-philosophy-consciousness.md overview should be cross-reviewed for: (1) cross-links to the new Buddhist meaning treatment, (2) whether the overview adequately represents Buddhist approaches to meaning, (3) consistency in treatment of suffering, clinging, and liberation.
+- **Source**: chain (from buddhist-perspectives-on-meaning.md)
 - **Generated**: 2026-02-04
 
 ### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
