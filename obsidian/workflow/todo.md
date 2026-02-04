@@ -543,6 +543,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-04
 
+### P3: Write article on phenomenology of normative properties
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04 (evening). What is it *like* to grasp a reason as compelling? How does the phenomenology of "seeing" that a conclusion follows differ from mere association? The Map argues normative properties are irreducible; this develops the phenomenological dimension of that claim. Builds on argument-from-reason.md, phenomenal-value-realism.md, consciousness-value-connection.md. See optimistic-2026-02-04-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Write article on contemplative methods as philosophical methodology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04 (evening). What is the epistemic status of contemplative evidence? How do trained meditators differ from naive introspectors? Can we develop reliability criteria for first-person reports? Grounds the Map's use of phenomenological evidence systematically. Builds on contemplative-evidence-for-consciousness-theories.md, neurophenomenology.md, phenomenological-evidence.md. See optimistic-2026-02-04-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Write article on consciousness and strong emergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04 (evening). The Map critiques emergence as consciousness explanation but could develop what kind of emergence, if any, is compatible with irreducibility. Strong emergence (novel causal powers) vs weak emergence (epistemological only). Why consciousness requires the former. Builds on emergence.md, downward-causation.md, reductionism.md. See optimistic-2026-02-04-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Create concept page for normative phenomenology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04 (evening). The study of what it's like to experience reasons, values, and oughts. Currently scattered across argument-from-reason.md and phenomenal-value-realism.md but deserves consolidation. Central to the Map's case that consciousness grounds normativity. See optimistic-2026-02-04-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Create concept page for contemplative reliability
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04 (evening). Criteria for when contemplative reports are epistemically trustworthy. Referenced in several articles but not systematically treated. Foundational for treating first-person evidence as genuine philosophical data. See optimistic-2026-02-04-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Create concept page for self-stultification
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04 (evening). The logical structure whereby a position undermines itself if true. Appears in argument-from-reason.md (physicalism undermines rational belief), mental-causation.md (epiphenomenalism undermines knowledge of consciousness). Deserves focused treatment as recurring argumentative structure. See optimistic-2026-02-04-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
 ## Completed Tasks
 
 
