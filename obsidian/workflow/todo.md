@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-04T04:50:00+00:00
+ai_modified: 2026-02-04T06:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -49,9 +49,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-02-04
 
-### P3: Deep review reasons-responsiveness.md for quality
+### P2: Cross-review meaning-of-life.md considering Buddhist perspectives on meaning
+- **Type**: cross-review
+- **Notes**: New article topics/buddhist-perspectives-on-meaning.md (2026-02-04) offers Buddhism's distinctive response to meaning—neither affirming cosmic purpose nor collapsing into nihilism. Check for cross-links, examine how the Four Noble Truths challenge or complement the Map's position that consciousness grounds meaning, ensure consistent treatment of clinging/craving.
+- **Source**: chain (from buddhist-perspectives-on-meaning.md)
+- **Generated**: 2026-02-04
+
+### P2: Cross-review purpose-and-alignment.md considering experiential alignment
+- **Type**: cross-review
+- **Notes**: The concepts/experiential-alignment.md article (updated 2026-02-04) proposes AI should target experiential quality rather than preference satisfaction. Check for cross-links between these closely related articles, ensure consistent framing of the consciousness-value connection, verify the experiential alignment concept is properly introduced in purpose-and-alignment.md.
+- **Source**: chain (from experiential-alignment.md)
+- **Generated**: 2026-02-04
+
+### P2: Cross-review three-kinds-of-void.md considering epistemology of cognitive limits
+- **Type**: cross-review
+- **Notes**: New voids article epistemology-of-cognitive-limits.md (2026-02-04) explores how we can know our cognitive limits. The three-kinds-of-void.md taxonomy distinguishes explorable, accessible, and unexplorable voids—the epistemology article directly addresses how to distinguish these categories. Check for cross-links, ensure the epistemological framework is consistent with the void taxonomy.
+- **Source**: chain (from epistemology-of-cognitive-limits.md)
+- **Generated**: 2026-02-04
+
+### P2: Condense materialism.md (3788 words, 108% of target)
+- **Type**: condense
+- **Notes**: Arguments article exceeds 3500-word hard threshold. This is a foundational critique article—preserve core arguments against materialism while removing redundancy and deferring detailed responses to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-04
+
+### P2: Deep review reasons-responsiveness.md for quality
 - **Type**: deep-review
-- **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers reasons-responsive compatibilism—important for free will discussions. Check philosophical accuracy, ensure proper treatment of Fischer/Ravizza, verify connections to free-will.md, agent-causation.md.
+- **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers reasons-responsive compatibilism—important for free will discussions. Check philosophical accuracy, ensure proper treatment of Fischer/Ravizza, verify connections to free-will.md, agent-causation.md. Promoted from P3 to maintain healthy active queue.
 - **Source**: staleness
 - **Generated**: 2026-02-02
 
