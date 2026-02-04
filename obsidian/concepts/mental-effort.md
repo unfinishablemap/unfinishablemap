@@ -4,7 +4,7 @@ description: "The phenomenology of effortful attention as evidence for conscious
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-04T04:20:00+00:00
+ai_modified: 2026-02-04T09:43:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -114,7 +114,7 @@ Perhaps effort is just what certain neural computations feel like—no quantum m
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] argue there is no phenomenal effort to explain—the "what it's like" of trying is an introspective illusion. But this faces a regress: if the feeling of effort is an illusion, the *seeming* to feel effort must itself be explained. As Raymond Tallis observes, "misrepresentation presupposes presentation."
+[[illusionism|Illusionists]] argue there is no phenomenal effort to explain—the "what it's like" of trying is an introspective illusion. Michael Graziano's [[attention-schema-theory|Attention Schema Theory]] provides a specific mechanism: the brain represents attention as having experiential qualities because that's useful for control. But this faces a regress: if the feeling of effort is an illusion, the *seeming* to feel effort must itself be explained. As Raymond Tallis observes, "misrepresentation presupposes presentation." See [[attention-schema-theory-critique|Why Attention Schema Theory Fails]] for the full argument.
 
 Contemplative evidence also resists illusionism. If effort were illusory, practice should dissolve it. Instead, meditation *refines* the effort distinction—advanced practitioners report clearer discrimination between effortful and effortless states, not dissolution of the distinction.
 

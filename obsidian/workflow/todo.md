@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate attention-schema-theory-critique.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article has no inbound links. Critiques Michael Graziano's attention schema theory from the Map's dualist perspective. Add cross-references from structure-of-attention.md, illusionism.md, consciousness-theories.md. High-value integration as it strengthens the Map's position against eliminativist approaches.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
-
 ### P2: Integrate comparative-consciousness-and-interface-differences.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article has no inbound links. Explores how different species might have different consciousness-brain interfaces. Add cross-references from animal-consciousness.md, consciousness-in-simple-organisms.md, evolution-of-consciousness.md, attention-interface-mechanisms.md.
@@ -539,6 +533,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Integrate attention-schema-theory-critique.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Critiques Michael Graziano's attention schema theory from the Map's dualist perspective. Add cross-references from structure-of-attention.md, illusionism.md, consciousness-theories.md. High-value integration as it strengthens the Map's position against eliminativist approaches.
+- **Output**: obsidian/topics/attention-schema-theory-critique.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-04: Deep review reasons-responsiveness.md for quality
 - **Type**: deep-review

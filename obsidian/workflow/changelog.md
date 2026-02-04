@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03T22:33:00+00:00
+ai_modified: 2026-02-04T09:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -15,6 +15,18 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-02-04 09:43 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/attention-schema-theory-critique]]
+- **Word count**: 2808 → 2808 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Cross-references added**: 5 (from related articles)
+- **Output**: [[reviews/deep-review-2026-02-04-attention-schema-theory-critique]]
+- **Note**: Orphan integration focus. Added inbound links from attention-schema-theory, illusionism, global-workspace-theory, heterophenomenology, attention-as-interface, and mental-effort. Article now well-integrated into site navigation.
+
 ---
 
 ## 2026-02-04 09:29 UTC - deep-review

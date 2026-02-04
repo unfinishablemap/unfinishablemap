@@ -4,7 +4,7 @@ description: "Graziano's theory proposes consciousness is the brain's model of i
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-29T20:40:00+00:00
+ai_modified: 2026-02-04T09:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ concepts:
   - "[[global-workspace-theory]]"
 related_articles:
   - "[[tenets]]"
+  - "[[attention-schema-theory-critique]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
