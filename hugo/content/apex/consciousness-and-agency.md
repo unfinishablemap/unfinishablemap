@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-02-02 21:12:00+00:00
+ai_modified: 2026-02-04 03:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 apex_last_synthesis: 2026-02-01 23:28:00+00:00
 apex_sources:
@@ -50,7 +50,7 @@ The classical picture of physics suggested a clockwork universe. Given initial c
 
 Three traditional responses emerge. Hard determinism accepts the implication: free will is an illusion, and our sense of authorship is merely what it feels like to be a complex deterministic system. Compatibilism redefines freedom: "could have done otherwise" means only "would have acted differently if desires had been different," and this is compatible with determinism. Sophisticated compatibilists argue this captures what matters practically—responsiveness to reasons, choices flowing from endorsed values—and that libertarian metaphysics is beside the point. Libertarianism insists on genuine alternatives—the agent really could have chosen differently—but then faces the challenge of explaining how undetermined choices avoid being merely random.
 
-The Map's framework is libertarian, but with a specific mechanism: consciousness selects among quantum possibilities. This requires not just indeterminacy but genuine deliberation—the capacity to represent alternative futures and evaluate what would follow from each. This requires unpacking. Quantum mechanics introduces genuine indeterminacy at the fundamental level—physics specifies probabilities but not which outcome occurs. Before measurement, particles exist in superposition; measurement collapses superposition to definite outcome, but *which* outcome is not determined by prior physical states. Here is a gap in the causal order that determinism cannot close.
+The Map's framework is libertarian, but with a specific mechanism: consciousness selects among quantum possibilities. This requires not just indeterminacy but genuine deliberation—the capacity to represent alternative futures and evaluate what would follow from each. This requires unpacking. Quantum mechanics introduces genuine indeterminacy at the fundamental level—physics specifies probabilities but not which outcome occurs. Before measurement, particles exist in superposition; measurement collapses superposition to definite outcome, but *which* outcome is not determined by prior physical states. This is the [definite outcomes problem](/topics/quantum-measurement-and-definite-outcomes/)—a gap in the causal order that determinism cannot close.
 
 But critics object: quantum randomness doesn't give us free will. A random choice is no more *mine* than a determined one. If the outcome is undetermined by prior states but also undetermined by me, it's just luck. This is the [luck objection](/concepts/agent-causation/#the-luck-objection)—the central challenge any libertarian position must answer.
 

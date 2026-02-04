@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-27 00:06:03+00:00
+ai_modified: 2026-02-04 03:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -60,7 +60,7 @@ The dominant view in contemporary physics treats apparent collapse as [decoheren
 
 Decoherence is technically reversible—it follows unitary evolution at the system-plus-environment level. The irreversibility is thermodynamic: like unscrambling an egg, reversal requires precise coordination of vastly many particles. The quantum "arrow" would then reduce to the entropic arrow, which traces to the Past Hypothesis (the universe's low-entropy initial state).
 
-But decoherence doesn't solve the [measurement problem](/concepts/measurement-problem/). It explains why we don't observe superpositions of macroscopic objects, but not why we observe definite outcomes rather than superpositions of *us* observing different outcomes. The selector problem remains—and consciousness remains a candidate selector.
+But decoherence doesn't solve the [measurement problem](/concepts/measurement-problem/). It explains why we don't observe superpositions of macroscopic objects, but not why we observe [definite outcomes](/topics/quantum-measurement-and-definite-outcomes/) rather than superpositions of *us* observing different outcomes. The selector problem remains—and consciousness remains a candidate selector.
 
 ### Time-Symmetric Interpretations: Atemporal Collapse
 

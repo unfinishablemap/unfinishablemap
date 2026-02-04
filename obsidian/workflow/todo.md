@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Cross-review three-kinds-of-void.md considering epistemology of cognitive limits
-- **Type**: cross-review
-- **Notes**: New voids article epistemology-of-cognitive-limits.md (2026-02-04) explores how we can know our cognitive limits. The three-kinds-of-void.md taxonomy distinguishes explorable, accessible, and unexplorable voids—the epistemology article directly addresses how to distinguish these categories. Check for cross-links, ensure the epistemological framework is consistent with the void taxonomy.
-- **Source**: chain (from epistemology-of-cognitive-limits.md)
-- **Generated**: 2026-02-04
-
 ### P2: Condense materialism.md (3788 words, 108% of target)
 - **Type**: condense
 - **Notes**: Arguments article exceeds 3500-word hard threshold. This is a foundational critique article—preserve core arguments against materialism while removing redundancy and deferring detailed responses to linked articles. See /condense skill.
@@ -539,6 +533,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Cross-review three-kinds-of-void.md considering epistemology of cognitive limits
+- **Type**: cross-review
+- **Notes**: New voids article epistemology-of-cognitive-limits.md (2026-02-04) explores how we can know our cognitive limits. The three-kinds-of-void.md taxonomy distinguishes explorable, accessible, and unexplorable voids—the epistemology article directly addresses how to distinguish these categories. Check for cross-links, ensure the epistemological framework is consistent with the void taxonomy.
+- **Output**: obsidian/voids/three-kinds-of-void.md -- Context: Cross-review three-kinds-of-void.md considering epistemology of cognitive limits
 
 ### ✓ 2026-02-04: Cross-review purpose-and-alignment.md considering experiential alignment
 - **Type**: cross-review

@@ -34,7 +34,7 @@ description: Autonoetic consciousness enables mental time travel, re-experiencin
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-21 19:33:00+00:00
+last_deep_review: 2026-02-04 04:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

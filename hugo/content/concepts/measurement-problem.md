@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-04 02:50:00+00:00
+ai_modified: 2026-02-04 03:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -185,6 +185,7 @@ The measurement problem is central to the Map's framework. It creates the logica
 
 ## Further Reading
 
+- [quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-and-definite-outcomes/) — Extended treatment of why definite outcomes occur and where consciousness might participate
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap all interpretations leave untreated
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure
 - [many-worlds](/arguments/many-worlds/) — Arguments against MWI

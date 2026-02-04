@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-02-02 05:17:00+00:00
+ai_modified: 2026-02-04 04:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -214,7 +214,7 @@ This transforms philosophical assertion into empirical program. Whether the hypo
 
 ## Further Reading
 
-**Core concepts**: [attention](/concepts/attention/), [voluntary-attention](/concepts/voluntary-attention/), [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/), [psychophysical-coupling](/concepts/psychophysical-coupling/), [interface-locality](/archive/concepts/interface-locality/), [coupling-modes](/concepts/coupling-modes/)
+**Core concepts**: [attention](/concepts/attention/), [voluntary-attention](/concepts/voluntary-attention/), [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/), [psychophysical-coupling](/concepts/psychophysical-coupling/), [interface-locality](/archive/concepts/interface-locality/), [coupling-modes](/concepts/coupling-modes/), [Attention Disorders and the Interface](/topics/attention-disorders-and-quantum-interface/)
 
 **Mechanisms**: [Mechanisms of the Attention-Consciousness Interface](/topics/attention-interface-mechanisms/) — candidate neural sites, timing constraints, and testable predictions
 

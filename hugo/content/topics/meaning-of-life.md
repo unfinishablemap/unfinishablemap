@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-03 00:28:00+00:00
+ai_modified: 2026-02-04 06:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,11 +28,12 @@ description: What makes life meaningful? The Map suggests meaning is grounded in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 00:28:00+00:00
+last_deep_review: 2026-02-04 06:50:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[meaning-of-life-theories-2026-01-08]]'
+- '[[buddhist-perspectives-on-meaning]]'
 title: The Meaning of Life
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -106,11 +107,11 @@ This connects to [personal-identity](/topics/personal-identity/). If Parfit were
 
 ## Eastern Perspectives
 
-[Eastern traditions](/topics/eastern-philosophy-consciousness/), particularly Buddhism, suggest meaning may be neither cosmic fact nor arbitrary choice, but something revealed through transformation of consciousness itself.
+[Eastern traditions](/topics/eastern-philosophy-consciousness/), particularly [Buddhism](/topics/buddhist-perspectives-on-meaning/), suggest meaning may be neither cosmic fact nor arbitrary choice, but something revealed through transformation of consciousness itself.
 
-Buddhism's Four Noble Truths diagnose suffering as arising from craving—including the craving for permanent significance. Liberation comes not from finding the "right" meaning but from releasing the grip of craving while remaining fully engaged. This isn't nihilism—it's engagement without grasping.
+Buddhism's Four Noble Truths diagnose suffering as arising from craving—including the craving for permanent significance. The doctrine of *anattā* (no-self) sharpens this challenge: if there's no permanent self, who lives the meaningful life? Buddhism relocates meaning from eternal substance to the quality of present experience and ethical action. Liberation comes not from finding the "right" meaning but from releasing the grip of craving.
 
-This resonates with the Map's position. Buddhism presupposes that conscious experience is significant; meditation practices aim at transforming it. If meaning is grounded in consciousness, then mindfulness—direct phenomenological attention—may be the practice through which consciousness-grounded meaning is actually realized.
+This challenges and clarifies the Map's position. Buddhism might ask: does grounding meaning in consciousness create another form of clinging? The Map's response: Buddhism presupposes that experience is significant—why pursue liberation unless suffering matters? Both positions share resistance to meaning-nihilism while differing on whether significance requires assertion or simply recognition.
 
 ## The AI Alignment Connection
 
@@ -180,11 +181,11 @@ Henri Bergson's *durée*—lived time as opposed to clock time—connects here. 
 
 Alfred North Whitehead's process philosophy illuminates why consciousness can ground meaning without external validation. For Whitehead, reality consists of "actual occasions"—momentary events of experience, each with intrinsic "subjective aim" toward the richest possible integration. Value isn't added from outside; it's constitutive of what experience *is*.
 
-If reality is fundamentally experiential—as process philosophy and the Map's framework both hold—then meaning doesn't need external grounding. Each moment of experience *is* a realization of value. The question "why does experience matter?" may be a pseudo-question, since value is built into what experience is.
+If reality is fundamentally experiential—as process philosophy and the Map's framework both hold—meaning doesn't need external grounding. Each moment of experience *is* a realization of value. The question "why does experience matter?" may be a pseudo-question, since value is built into what experience is.
 
-This addresses the existentialist concern about self-creation. Existentialists claim we must create meaning because none is given. Process philosophy suggests that meaning-creation is the fundamental nature of experience itself—each conscious moment inherently contributes novelty to reality. The question is not whether to create meaning (that's unavoidable) but what kind.
+This addresses the existentialist concern about self-creation. Existentialists claim we must create meaning because none is given. Process philosophy suggests that meaning-creation is the fundamental nature of experience itself—each conscious moment contributes novelty to reality. The question is not whether to create meaning but what kind.
 
-Can fleeting moments bear genuine significance? Process philosophy answers: not despite their transience, but *because* of it. Each occasion is a unique achievement of value—[haecceity](/concepts/haecceity/) at the level of experience. The moment can't be replaced or traded for a "better" version. Meaning is not diluted by transience but concentrated by it.
+Can fleeting moments bear genuine significance? Process philosophy answers: not despite their transience, but *because* of it. Each occasion is a unique achievement of value—[haecceity](/concepts/haecceity/) at the level of experience. Meaning is not diluted by transience but concentrated by it.
 
 ## What Would Challenge This View?
 
@@ -269,6 +270,7 @@ The position takes seriously what we actually know: consciousness exists, it's r
 - [haecceity](/concepts/haecceity/) — Indexical identity and the unrepeatability of conscious perspectives
 
 ### Perspectives and Limits
+- [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/) — Buddhism's distinctive response: releasing craving rather than grounding significance
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Buddhist approaches to consciousness and meaning
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and responses
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding consciousness

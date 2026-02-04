@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-02-03 09:11:00+00:00
+ai_modified: 2026-02-04 04:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -265,6 +265,7 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 ## Further Reading
 
 - [witness-consciousness](/concepts/witness-consciousness/) — Dedicated treatment of the sakshi/witness concept
+- [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — Meditation deficits reveal interface training requirements
 - [default-mode-network](/concepts/default-mode-network/) — The brain network that quiets during meditation, with filter theory interpretation
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Neuroplasticity evidence from meditation training supporting bidirectional interaction
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's mutual constraints framework integrating first-person and third-person methods

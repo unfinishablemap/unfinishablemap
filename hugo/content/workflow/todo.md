@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-04 03:20:00+00:00
+ai_modified: 2026-02-04 06:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,45 +44,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate quantum-measurement-and-definite-outcomes.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-01) has no inbound links. Covers why quantum measurement produces definite outcomes rather than superpositions—central to the Map's quantum consciousness arguments. Add cross-references from measurement-problem.md, quantum-consciousness.md, collapse-and-time.md, many-worlds.md.
-- **Source**: orphan_integration
+### P2: Condense materialism.md (3788 words, 108% of target)
+- **Type**: condense
+- **Notes**: Arguments article exceeds 3500-word hard threshold. This is a foundational critique article—preserve core arguments against materialism while removing redundancy and deferring detailed responses to linked articles. See /condense skill.
+- **Source**: length_analysis
 - **Generated**: 2026-02-04
 
-### P2: Write article on experiential alignment objective
-- **Type**: expand-topic
-- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. Proposes framing AI alignment in experiential terms (suffering, agency, meaning) rather than preference terms. Directly relevant to purpose-and-alignment.md and meaning-of-life.md. Supports site's phenomenological approach.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-04
-
-### P2: Integrate altered-states-as-void-probes.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Voids article (2026-02-03) has no inbound links. Explores how altered states of consciousness can probe cognitive limits and void territories. Add cross-references from altered-states.md, contemplative-evidence-for-consciousness-theories.md, consciousness-only-territories.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
-
-### P2: Integrate attention-disorders-and-quantum-interface.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-01) has no inbound links. Covers how attention disorders illuminate the consciousness-brain interface. Add cross-references from attention-as-interface.md, voluntary-attention.md, quantum-consciousness.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
-
-### P2: Cross-review mysterianism.md considering epistemology-of-cognitive-limits
-- **Type**: cross-review
-- **Notes**: New voids article epistemology-of-cognitive-limits.md (2026-02-04) explores what we can know about what we cannot know. Check for cross-links, reinforcing arguments about cognitive closure and the limits of understanding consciousness.
-- **Source**: chain (from epistemology-of-cognitive-limits.md)
-- **Generated**: 2026-02-04
-
-### P2: Cross-review consciousness-only-territories.md considering epistemology-of-cognitive-limits
-- **Type**: cross-review
-- **Notes**: New voids article epistemology-of-cognitive-limits.md (2026-02-04) explores cognitive limits epistemology. Check for cross-links, reinforcing arguments about territories accessible only through consciousness.
-- **Source**: chain (from epistemology-of-cognitive-limits.md)
-- **Generated**: 2026-02-04
-
-### P3: Deep review reasons-responsiveness.md for quality
+### P2: Deep review reasons-responsiveness.md for quality
 - **Type**: deep-review
-- **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers reasons-responsive compatibilism—important for free will discussions. Check philosophical accuracy, ensure proper treatment of Fischer/Ravizza, verify connections to free-will.md, agent-causation.md.
+- **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers reasons-responsive compatibilism—important for free will discussions. Check philosophical accuracy, ensure proper treatment of Fischer/Ravizza, verify connections to free-will.md, agent-causation.md. Promoted from P3 to maintain healthy active queue.
 - **Source**: staleness
 - **Generated**: 2026-02-02
 
@@ -520,8 +490,105 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-03
 
+### P3: Write article on consciousness and scientific methodology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04. If consciousness is irreducible and causally efficacious, what does this mean for scientific methodology? Can the scientific method fully investigate consciousness, or do we need methodological pluralism? Explores the implications of the Map's framework for how consciousness should be studied. Builds on first-person-third-person-methodology.md, neurophenomenology.md, contemplative-evidence-for-consciousness-theories.md. See optimistic-2026-02-04.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Write article on social construction of self vs phenomenal self
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04. The minimal self is phenomenal; the narrative self is constructed. How do these interact? Can social construction affect phenomenal properties, or only narrative overlay? Explores relationship between irreducible phenomenal core and socially-shaped identity. Builds on self-and-consciousness.md, intersubjectivity.md, witness-consciousness.md. See optimistic-2026-02-04.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Create concept page for moral perception
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04. The phenomenology of perceiving value—currently scattered across several articles but deserves focused treatment. Connects phenomenal-value-realism to actual experience. What is it *like* to perceive something as wrong? How does moral perception differ from aesthetic perception? Builds on phenomenal-value-realism.md, consciousness-value-connection.md, ethics-of-consciousness.md. See optimistic-2026-02-04.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Create concept page for methodological pluralism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04. The view that consciousness requires multiple methods (first-person, second-person, third-person) working together. Referenced in neurophenomenology but not systematically defined. Foundational for the Map's treatment of contemplative evidence as genuine data. Builds on neurophenomenology.md, first-person-third-person-methodology.md, contemplative-evidence-for-consciousness-theories.md. See optimistic-2026-02-04.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Create concept page for phenomenal depth
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04. The sense that experience has different "depths"—surface attention vs absorbed engagement. Referenced in contemplative articles but not consolidated. Meditators report that meaning correlates with depth of conscious engagement, not merely presence of consciousness. Builds on witness-consciousness.md, meditation-and-consciousness-modes.md, meaning-of-life.md. See optimistic-2026-02-04.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Create concept page for temporal unity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04. Unity across time (diachronic unity) deserves focused treatment separate from synchronic binding. The specious present, retention-protention structure, and what binds moments into continuous experience. Builds on temporal-consciousness.md, varieties-of-unity.md, unity-of-consciousness.md. See optimistic-2026-02-04.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Cross-review three-kinds-of-void.md considering epistemology of cognitive limits
+- **Type**: cross-review
+- **Notes**: New voids article epistemology-of-cognitive-limits.md (2026-02-04) explores how we can know our cognitive limits. The three-kinds-of-void.md taxonomy distinguishes explorable, accessible, and unexplorable voids—the epistemology article directly addresses how to distinguish these categories. Check for cross-links, ensure the epistemological framework is consistent with the void taxonomy.
+- **Output**: obsidian/voids/three-kinds-of-void.md -- Context: Cross-review three-kinds-of-void.md considering epistemology of cognitive limits
+
+### ✓ 2026-02-04: Cross-review purpose-and-alignment.md considering experiential alignment
+- **Type**: cross-review
+- **Notes**: The concepts/experiential-alignment.md article (updated 2026-02-04) proposes AI should target experiential quality rather than preference satisfaction. Check for cross-links between these closely related articles, ensure consistent framing of the consciousness-value connection, verify the experiential alignment concept is properly introduced in purpose-and-alignment.md.
+- **Output**: obsidian/topics/purpose-and-alignment.md -- Context: Cross-review purpose-and-alignment.md considering experiential alignment
+
+### ✓ 2026-02-04: Cross-review meaning-of-life.md considering Buddhist perspectives on meaning
+- **Type**: cross-review
+- **Notes**: New article topics/buddhist-perspectives-on-meaning.md (2026-02-04) offers Buddhism's distinctive response to meaning—neither affirming cosmic purpose nor collapsing into nihilism. Check for cross-links, examine how the Four Noble Truths challenge or complement the Map's position that consciousness grounds meaning, ensure consistent treatment of clinging/craving.
+- **Output**: obsidian/topics/meaning-of-life.md -- Context: Cross-review meaning-of-life.md considering Buddhist perspectives on meaning
+
+### ✓ 2026-02-04: Condense functionalism.md (4250 words, 121% of target)
+- **Type**: condense
+- **Notes**: Arguments article exceeds 3500-word hard threshold. Preserve core critiques of functionalism while removing redundancy. Defer detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
+
+### ✓ 2026-02-04: Integrate emotional-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (2026-01-19) has no inbound links. Covers the phenomenal character of emotions—hedonic valence, affective qualia. Central to consciousness-value-connection. Add cross-references from qualia.md, phenomenal-value-realism.md, consciousness-value-connection.md.
+- **Output**: obsidian/topics/emotional-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-04: Write article on Buddhist perspectives on meaning
+- **Type**: expand-topic
+- **Notes**: Research completed in research/buddhist-perspectives-meaning-2026-01-06.md. Oldest unconsumed research note (29 days). Buddhist frameworks for finding meaning without ultimate answers. Connects to meaning-of-life.md, buddhism-and-dualism.md.
+- **Output**: Buddhist perspectives on meaning
+
+### ✓ 2026-02-04: Cross-review consciousness-only-territories.md considering epistemology-of-cognitive-limits
+- **Type**: cross-review
+- **Notes**: New voids article epistemology-of-cognitive-limits.md (2026-02-04) explores cognitive limits epistemology. Check for cross-links, reinforcing arguments about territories accessible only through consciousness.
+- **Output**: obsidian/voids/consciousness-only-territories.md -- Context: Cross-review consciousness-only-territories.md considering epistemology-of-cognitive-limits
+
+### ✓ 2026-02-04: Cross-review mysterianism.md considering epistemology-of-cognitive-limits
+- **Type**: cross-review
+- **Notes**: New voids article epistemology-of-cognitive-limits.md (2026-02-04) explores what we can know about what we cannot know. Check for cross-links, reinforcing arguments about cognitive closure and the limits of understanding consciousness.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering epistemology-of-cognitive-limits
+
+### ✓ 2026-02-04: Integrate attention-disorders-and-quantum-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers how attention disorders illuminate the consciousness-brain interface. Add cross-references from attention-as-interface.md, voluntary-attention.md, quantum-consciousness.md.
+- **Output**: obsidian/topics/attention-disorders-and-quantum-interface.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-04: Write article on experiential alignment objective
+- **Type**: expand-topic
+- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. Proposes framing AI alignment in experiential terms (suffering, agency, meaning) rather than preference terms. Directly relevant to purpose-and-alignment.md and meaning-of-life.md. Supports site's phenomenological approach.
+- **Output**: experiential alignment objective
+
+### ✓ 2026-02-04: Integrate quantum-measurement-and-definite-outcomes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers why quantum measurement produces definite outcomes rather than superpositions—central to the Map's quantum consciousness arguments. Add cross-references from measurement-problem.md, quantum-consciousness.md, collapse-and-time.md, many-worlds.md.
+- **Output**: obsidian/topics/quantum-measurement-and-definite-outcomes.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-04: Integrate mathematical-void.md into site navigation
 - **Type**: integrate-orphan

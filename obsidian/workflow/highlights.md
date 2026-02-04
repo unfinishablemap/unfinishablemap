@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 AI alignment learns from preferences, but preferences miss what matters: the felt quality of conscious experience. Satisfying all preferences can still leave a life hollow.
 
 **Type**: insight  
+**Tweet**: https://x.com/i/web/status/2018969098353319943  
 **Link**: [[purpose-and-alignment]]
 
 ---

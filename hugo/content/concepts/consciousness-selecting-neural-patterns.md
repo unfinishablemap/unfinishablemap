@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-01-31 00:13:00+00:00
+ai_modified: 2026-02-04 04:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -62,7 +62,7 @@ These aren't mutually exclusive. Selection might operate at multiple levels: mic
 
 ### How Selection Works
 
-Selection operates through the [quantum measurement process](/concepts/measurement-problem/). Standard quantum mechanics describes particles in superposition until "measured," at which point superposition collapses to a definite outcome. Physics explains why collapse yields probabilistic distributions but not why any particular outcome occurs. Something must select.
+Selection operates through the [quantum measurement process](/concepts/measurement-problem/). Standard quantum mechanics describes particles in superposition until "measured," at which point superposition collapses to a definite outcome. Physics explains why collapse yields probabilistic distributions but not why any particular outcome occurs. Something must select. The [definite outcomes problem](/topics/quantum-measurement-and-definite-outcomes/) is precisely where this gap opens: physics determines the *distribution* of outcomes but not which individual outcome becomes actual.
 
 This is the opening for consciousness. At quantum indeterminacies, physical causes are necessary but not sufficient. [Causal closure](/concepts/causal-closure/)—the thesis that every physical event has a sufficient physical cause—fails precisely where collapse occurs. Consciousness operates at this gap, selecting outcomes without competing with or overriding physical causes.
 
@@ -241,6 +241,7 @@ The consciousness-selecting neural patterns framework would face serious difficu
 ## Further Reading
 
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How selection integrates with imagination's generative role
+- [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — ADHD, OCD, and meditation deficits reveal selection interface dysfunction
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — The laws governing what selection can accomplish
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Major theories of how consciousness interfaces with quantum mechanics
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and Stapp's mechanism

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-01 16:15:00+00:00
+ai_modified: 2026-02-04 04:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: What ADHD, attention fatigue, and meditation deficits reveal about 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-01 16:15:00+00:00
+last_deep_review: 2026-02-04 04:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

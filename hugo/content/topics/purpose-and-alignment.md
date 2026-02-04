@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-02-02 20:46:00+00:00
+ai_modified: 2026-02-04 07:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: AI alignment assumes human values can be learned from behavior. But
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-30 11:45:00+00:00
+last_deep_review: 2026-02-04 07:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -108,21 +108,11 @@ The experiential approach faces its own challenges: proxies for experience risk 
 
 ### The Special Weight of Valence
 
-[Emotional consciousness](/archive/concepts/emotional-consciousness/) research suggests experiential alignment should give special weight to **valence**—the felt positive or negative quality of experience. Valence is not one phenomenal dimension among many; it may be the dimension that matters most for alignment.
+[Emotional consciousness](/archive/concepts/emotional-consciousness/) research suggests experiential alignment should give special weight to **valence**—the felt positive or negative quality of experience. On the [hedonic account](/archive/concepts/emotional-consciousness/#valence), the badness of pain is what pain *is*, not something pain represents. A complete description of preferences, behaviours, and neural states leaves out precisely what matters—the felt goodness and badness that gives experience its significance.
 
-The [hedonic account](/archive/concepts/emotional-consciousness/#valence) holds that valence is an intrinsic property of experience: the badness of pain is what pain *is*, not something pain represents. If this is correct, then a complete description of preferences, behaviours, and neural states leaves out precisely what matters—the felt goodness and badness that gives experience its significance.
+This insight separates experiential alignment from preference learning: choices don't reliably track felt quality. Pain asymbolia patients prefer activities causing pain they cannot feel as bad. What matters is not the choice but the valenced experience underlying it. The [experiential-alignment](/concepts/experiential-alignment/) concept article develops the full framework—eight experiential dimensions, constraint conditions, and measurement protocols—but the core insight is that valence deserves special weight because suffering and enjoyment are not just features of experience but *what makes experience matter*.
 
-This has practical implications for experiential alignment:
-
-| Approach | What It Targets | The Problem |
-|----------|-----------------|-------------|
-| **Preference learning** | Revealed choices | Choices don't track felt quality; pain asymbolia patients prefer pain-causing activities |
-| **Broad experiential** | Any conscious features | Treats phenomenal unity and suffering as equivalent concerns |
-| **Valence-weighted** | Hedonic quality first | Accepts that suffering and enjoyment are not just features of experience but *what makes experience matter* |
-
-[Valence sentientism](/archive/concepts/emotional-consciousness/#emotional-consciousness-and-moral-status)—the view that moral status derives from capacity for suffering and enjoyment—provides the theoretical grounding. If only valenced experience creates interests worth protecting, then alignment systems should prioritise the valence dimension over other phenomenal features.
-
-The research on [core affect](/archive/concepts/emotional-consciousness/#core-affect-and-emotional-construction) adds nuance: humans are never affectively neutral. There is always a background felt quality of experience, varying in pleasantness and arousal. A truly aligned system would consider this continuous valenced character, not merely discrete episodes of pleasure and pain. The goal is not preference satisfaction, nor even a list of positive experiences, but supporting lives rich in positive valence across their temporal extent.
+The research on [core affect](/archive/concepts/emotional-consciousness/#core-affect-and-emotional-construction) adds nuance: humans are never affectively neutral. A truly aligned system would consider this continuous valenced character across the temporal extent of lives, not merely discrete episodes or revealed preferences.
 
 ## The Illusionist Challenge
 

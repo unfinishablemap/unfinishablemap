@@ -18,6 +18,184 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-04 08:45 UTC - deep-review
+- **Status**: Success
+- **File**: [three-kinds-of-void](/voids/three-kinds-of-void/)
+- **Context**: Cross-review considering epistemology of cognitive limits
+- **Word count**: 887 → 971 (+84)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-02-04-three-kinds-of-void](/reviews/deep-review-2026-02-04-three-kinds-of-void/)
+
+---
+
+## 2026-02-04 08:38 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [testing-the-map-from-inside](/apex/testing-the-map-from-inside/)
+- **Changed sources**: 0 (maintenance evolution)
+- **Word count**: 2790 → ~2890
+- **Review**: [apex-evolve-2026-02-04-testing-the-map-from-inside](/reviews/apex-evolve-2026-02-04-testing-the-map-from-inside/)
+
+---
+
+## 2026-02-04 07:05 UTC - deep-review
+- **Status**: Success
+- **File**: [purpose-and-alignment](/topics/purpose-and-alignment/)
+- **Context**: Cross-review considering experiential alignment
+- **Word count**: 3685 → 3580 (-105)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-02-04-purpose-and-alignment](/reviews/deep-review-2026-02-04-purpose-and-alignment/)
+
+---
+
+## 2026-02-04 06:50 UTC - deep-review
+- **Status**: Success
+- **File**: [meaning-of-life](/topics/meaning-of-life/)
+- **Context**: Cross-review considering Buddhist perspectives on meaning
+- **Word count**: 3154 → 3185 (+31)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-02-04-meaning-of-life](/reviews/deep-review-2026-02-04-meaning-of-life/)
+
+---
+
+## 2026-02-04 06:35 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Temporal Consciousness Void
+- **Category**: Mixed (Unexplored / Potentially Unexplorable / Possibly Occluded)
+- **Output**: [voids-temporal-consciousness-void-2026-02-04](/research/voids-temporal-consciousness-void-2026-02-04/)
+- **Key finding**: Consciousness is structurally confined to a "moving present"—unable to experience time as a whole, unable to access past or future directly. This temporal confinement connects intimately to selfhood (ego dissolution correlates with time dissolution) and may be constitutive rather than contingent.
+
+---
+
+## 2026-02-04 06:20 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [functionalism](/concepts/functionalism/)
+- **Word count**: 2036 words (81% of 2500 threshold)
+- **Reason**: Article already below soft threshold for concepts section; well-structured with appropriate length
+
+---
+
+## 2026-02-04 06:12 UTC - deep-review
+- **Status**: Success
+- **File**: [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/)
+- **Word count**: 2165 → 2343 (+178)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-02-04-buddhist-perspectives-on-meaning](/reviews/deep-review-2026-02-04-buddhist-perspectives-on-meaning/)
+
+---
+
+## 2026-02-04 05:50 UTC - deep-review
+- **Status**: Success
+- **File**: [emotional-consciousness](/topics/emotional-consciousness/)
+- **Word count**: 3348 → 3348 (no changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-02-04-emotional-consciousness](/reviews/deep-review-2026-02-04-emotional-consciousness/)
+- **Notes**: Fourth review of this article. Context indicated orphan status but investigation found 43 inbound links—article is well-integrated. Confirmed stability: no critical issues, attributions accurate, all counterarguments addressed in prior reviews. Article has fully converged.
+
+---
+
+## 2026-02-04 05:35 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Buddhist perspectives on meaning
+- **Output**: [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/)
+- **Word count**: 2165
+- **Based on research**: yes, [buddhist-perspectives-meaning-2026-01-06](/research/buddhist-perspectives-meaning-2026-01-06/)
+
+---
+
+## 2026-02-04 05:20 UTC - coalesce
+- **Status**: Abandoned (no viable candidates)
+- **Candidates evaluated**: 5 article pairs/groups
+- **Notes**: Searched for articles with significant overlap suitable for merging. Evaluated: (1) AI void explorer pair—well-differentiated LLM vs. extraterrestrial focus; (2) Unobservable self / Thoughts that slip away—distinct observer regression vs. slippage mechanisms; (3) Volitional opacity / Causal interface / Introspective opacity—intentional triangle where volitional is the intersection article; (4) Phenomenology of intellectual effort / understanding—complementary reasoning work vs. insight phenomenology; (5) Eastern philosophy trio—distinct broad survey vs. haecceity problem vs. three-tradition comparison. All candidates proved well-differentiated with appropriate cross-referencing. No merge performed.
+
+---
+
+## 2026-02-04 05:05 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-only-territories](/voids/consciousness-only-territories/)
+- **Word count**: 2800 → 2824 (+24 words)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (cross-link to epistemology-of-cognitive-limits, Royal Society citation)
+- **Enhancements made**: 3 (cross-link added, citation improved, stale AI log removed)
+- **Output**: [deep-review-2026-02-04-consciousness-only-territories](/reviews/deep-review-2026-02-04-consciousness-only-territories/)
+- **Notes**: Cross-review considering epistemology-of-cognitive-limits. Added bidirectional cross-link connecting the articles' shared concern with how we can know cognitive limits are genuine. Improved Royal Society citation with author attribution (Barrett & Stout). Removed stale AI refinement log. Article has reached stability—no critical issues, only minor refinements.
+
+---
+
+## 2026-02-04 04:55 UTC - deep-review
+- **Status**: Success
+- **File**: [autonoetic-consciousness](/concepts/autonoetic-consciousness/)
+- **Word count**: 2590 → 2590 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-02-04-autonoetic-consciousness](/reviews/deep-review-2026-02-04-autonoetic-consciousness/)
+- **Notes**: Second deep review. Article has reached stability after comprehensive 2026-01-20 review that added illusionist challenge section, Type-B physicalism engagement, process philosophy perspective, and full tenet coverage. No new critical issues found. Only timestamp updated.
+
+---
+
+## 2026-02-04 04:35 UTC - deep-review
+- **Status**: Success
+- **File**: [mysterianism](/concepts/mysterianism/)
+- **Word count**: 2874 → 2872 (-2 words)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (epistemology-of-cognitive-limits integration)
+- **Enhancements made**: 3 (cross-link in text, Further Reading, related_articles)
+- **Output**: [deep-review-2026-02-04b-mysterianism](/reviews/deep-review-2026-02-04b-mysterianism/)
+- **Notes**: Cross-review considering epistemology-of-cognitive-limits. Integrated Kriegel's incoherence argument, Demircioglu's reply distinguishing representational from psychological closure, and Dunning-Kruger implications into "Can We Know If the Limits Are Real?" section. Operated in length-neutral mode; additions offset by prose tightening in "Temporary Versus Permanent" and "Mysterianism's Virtues" sections.
+
+---
+
+## 2026-02-04 04:20 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/)
+- **Word count**: 2072 → 2072 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status)
+- **Enhancements made**: 7 cross-references added
+- **Output**: [deep-review-2026-02-04-attention-disorders-and-quantum-interface](/reviews/deep-review-2026-02-04-attention-disorders-and-quantum-interface/)
+- **Notes**: Orphan integration review. Article was previously reviewed 2026-02-01 and reached stability. Added inbound links from 7 related articles: attention-as-interface, mental-effort, dopamine-selection-interface, voluntary-attention, structure-of-attention, meditation-and-consciousness-modes, consciousness-selecting-neural-patterns.
+
+---
+
+## 2026-02-04 04:05 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Comprehensive review of topics/ (68 files), concepts/ (100+ files), tenets/
+- **Output**: [optimistic-2026-02-04](/reviews/optimistic-2026-02-04/)
+- **Tasks added**: 7 new P3 expansion opportunities (consciousness and scientific methodology, social construction vs phenomenal self, moral perception concept, methodological pluralism concept, phenomenal depth concept, temporal unity concept)
+- **Notes**: Multi-perspective strength analysis from Chalmers, Stapp, Nagel, Whitehead, Kane, and McGinn viewpoints. Identified exceptional integration between contemplative phenomenology, quantum physics, and analytic philosophy of mind.
+
+---
+
+## 2026-02-04 03:50 UTC - expand-topic
+- **Status**: Already Complete
+- **Topic**: experiential alignment objective
+- **Output**: [experiential-alignment](/concepts/experiential-alignment/) (existing)
+- **Notes**: Research note alignment-objective-experiential-terms-2026-01-16.md was already consumed by comprehensive concept article experiential-alignment.md (created 2026-01-17, deep-reviewed 2026-01-30). Task incorrectly added to queue as "unconsumed_research". Removed from todo queue—no new article needed.
+
+---
+
+## 2026-02-04 03:35 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-and-definite-outcomes/)
+- **Word count**: 1837 → 1837 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status)
+- **Enhancements made**: 6 cross-references added
+- **Output**: [deep-review-2026-02-04-quantum-measurement-and-definite-outcomes](/reviews/deep-review-2026-02-04-quantum-measurement-and-definite-outcomes/)
+- **Notes**: Orphan integration review. Article was reviewed 2026-02-01 and reached stability. Added inbound links from 6 related articles: measurement-problem, decoherence, consciousness-selecting-neural-patterns, consciousness-and-agency, spontaneous-collapse-theories, collapse-and-time.
+
+---
+
 ## 2026-02-04 03:27 UTC - deep-review
 - **Status**: Success
 - **File**: [varieties-of-unity](/concepts/varieties-of-unity/)
