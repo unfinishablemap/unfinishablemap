@@ -4,9 +4,9 @@ description: "Teaching requires knowing that you know and that others don't. Gre
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-02-04T21:17:00+00:00
 draft: false
-last_deep_review: 2026-01-22T14:30:00+00:00
+last_deep_review: 2026-02-04T21:17:00+00:00
 topics:
   - "[[animal-consciousness]]"
   - "[[ai-consciousness]]"
@@ -36,7 +36,7 @@ The teaching asymmetry provides concrete evidence for the [[tenets#^bidirectiona
 
 ## The Structure of Teaching
 
-Teaching involves at least four nested representational operations:
+Teaching involves at least five nested representational operations:
 
 1. **First-order knowledge**: Knowing something about the world (e.g., knowing how to crack nuts with a stone)
 2. **Second-order representation**: Representing your knowledge as knowledge (knowing that you know how to crack nuts)
