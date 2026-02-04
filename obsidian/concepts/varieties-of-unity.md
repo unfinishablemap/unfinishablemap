@@ -4,7 +4,7 @@ description: "Synchronic, diachronic, and subject unity are distinct phenomena t
 created: 2026-01-21
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-02-04T03:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-21
 last_curated: null
-last_deep_review: 2026-01-22T02:15:00+00:00
+last_deep_review: 2026-02-04T03:27:00+00:00
 ---
 
 Consciousness exhibits multiple kinds of unity that philosophers have often conflated. When we say experience is "unified," we might mean that features at a moment are bound together (synchronic unity), that experience flows continuously through time (diachronic unity), or that all experiences belong to a single subject (subject unity). These may seem like aspects of one phenomenon, but they can dissociate: split-brain patients retain some unities while losing others; dreamless sleep eliminates diachronic flow while raising questions about subject persistence. Understanding these varieties clarifies what any theory of consciousness must explain—and suggests that unity may not be one problem but several, possibly requiring different solutions.
@@ -43,7 +43,7 @@ Tim Bayne and David Chalmers (2003) distinguished several kinds of unity that co
 
 At any moment, your visual experience of a red apple, your auditory experience of music, your bodily sense of sitting, and your emotional feeling of calm are not isolated streams—they are unified into one moment of consciousness. You don't have four separate experiences that happen to coincide temporally; you have one experience with four aspects.
 
-This is the unity that the [[binding-problem|binding problem]] addresses. How do distributed neural processes—color in V4, shape in inferotemporal cortex, sound in auditory cortex—yield *one* experience rather than parallel processes? The classical binding proposals (gamma synchrony, workspace broadcasting, information integration) attempt to explain how features are correctly assigned and coordinated. But coordination among separates doesn't obviously produce genuine unity—it remains unclear why correlated neural events should *feel* like one thing.
+This is the unity that the [[binding-problem|binding problem]] addresses. How do distributed neural processes—color in V4, shape in inferotemporal cortex, sound in auditory cortex—yield *one* experience rather than parallel processes? The classical binding proposals (gamma synchrony, workspace broadcasting, information integration) attempt to explain how features are correctly assigned and coordinated. Some theorists, following Dennett's Multiple Drafts model, argue unified experience is constructed post-hoc from parallel streams. But whether unity is real-time or reconstructed, the core puzzle remains: coordination among separates doesn't obviously produce genuine unity—it remains unclear why correlated neural events should *feel* like one thing.
 
 ### Diachronic Unity
 
@@ -82,7 +82,7 @@ Split-brain cases suggest synchronic unity can partially divide while subject un
 
 ### Dreamless Sleep
 
-During dreamless NREM sleep, diachronic unity vanishes. Seven hours can pass with no temporal experience whatsoever. There is no sense of duration having elapsed—time doesn't feel compressed; it simply wasn't there. The interval between falling asleep and waking feels instantaneous because there was no one home to experience it.
+During dreamless NREM sleep, diachronic unity vanishes. Seven hours pass with no temporal experience—not compressed time, but absent time. The interval between sleep and waking feels instantaneous because no one was there to experience duration.
 
 But does subject unity persist during dreamless sleep? If the same subject goes to sleep and wakes up, subject unity was maintained even while diachronic unity was absent. This suggests the two are distinct: subject unity can persist across gaps where diachronic unity fails entirely.
 
