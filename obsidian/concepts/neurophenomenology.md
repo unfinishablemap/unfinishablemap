@@ -152,8 +152,7 @@ Meditation exhibits the structure of [[free-will|self-forming actions]]: the med
 
 ## Further Reading
 
-- [[contemplative-neuroscience]] — Empirical evidence from meditation research validating the mutual constraints framework
-- [[contemplative-neuroscience-integration]] — How meditation research bridges first-person phenomenology and third-person neuroscience
+- [[contemplative-neuroscience]] — Empirical evidence and integration framework bridging first-person phenomenology with third-person neuroscience
 - [[stapp-quantum-mind]] — Quantum Zeno mechanism connecting attention to quantum processes
 - [[introspection]] — The reliability debate and process/content distinction
 - [[phenomenology]] — The philosophical tradition grounding neurophenomenology

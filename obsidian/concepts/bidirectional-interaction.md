@@ -149,7 +149,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 - [[causal-closure]] — The closure objection and its limits
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism in detail
 - [[consciousness-as-amplifier]] — Evolutionary evidence for causal efficacy
-- [[contemplative-neuroscience-integration]] — How meditation research demonstrates bidirectional interaction in practice
+- [[contemplative-neuroscience]] — How meditation research demonstrates bidirectional interaction in practice
 - [[baseline-cognition]] — The great ape comparison
 - [[downward-causation]] — Top-down causation more generally
 - [[tenets]] — The Map's foundational commitments

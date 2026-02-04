@@ -2,9 +2,9 @@
 title: "Contemplative Neuroscience Integration"
 description: "How meditation research bridges first-person phenomenology and third-person neuroscience, demonstrating bidirectional interaction in practice."
 created: 2026-02-02
-modified: 2026-02-02
+modified: 2026-02-04
 human_modified:
-ai_modified: 2026-02-02T01:13:00+00:00
+ai_modified: 2026-02-04T21:42:00+00:00
 draft: false
 last_deep_review: 2026-02-02T01:13:00+00:00
 topics:
@@ -28,6 +28,11 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated:
+archived: true
+archived_date: 2026-02-04T21:42:00+00:00
+superseded_by: "/concepts/contemplative-neuroscience/"
+archive_reason: "Coalesced into Contemplative Neuroscience"
+original_path: "/topics/contemplative-neuroscience-integration/"
 ---
 
 Contemplative neuroscience has achieved what philosophers debated for centuries: a working integration of first-person phenomenology and third-person neuroscience. Meditation research demonstrates that trained subjective observation produces reliable, replicable data that correlates systematically with neural measurements. These correlations are empirically robust—they replicate across laboratories, distinguish experienced practitioners from novices, and predict clinical outcomes.

@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-04 21:42 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/contemplative-neuroscience-integration]]
+- **Target**: [[concepts/contemplative-neuroscience]]
+- **Archived**: [[archive/topics/contemplative-neuroscience-integration]]
+- **References updated**: 5 files (neuroplasticity, neurophenomenology, bidirectional-interaction, eastern-philosophy-consciousness, first-person-third-person-methodology)
+- **Notes**: Topic article covered ~60% redundant content with concept article. Unique sections (gamma synchrony, jhana states, cessation phenomena) integrated into unified concept article. Original URLs preserved via archive.
+
+---
+
 ## 2026-02-04 21:27 UTC - deep-review
 - **Status**: Success (stability confirmed)
 - **File**: [[concepts/working-memory]]
