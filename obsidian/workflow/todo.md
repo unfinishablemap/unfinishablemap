@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate working-memory-as-consciousness-amplifier.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concept article (2026-02-02) has no inbound links. Covers how working memory amplifies conscious experience—central to understanding consciousness's functional role. Add cross-references from baseline-cognition.md, consciousness-as-amplifier.md, attention-interface-mechanisms.md, and related cognitive architecture articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
-
 ### P2: Integrate time-symmetric-physics.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Concept article (2026-02-01) has no inbound links. Covers fundamental physics symmetry and retrocausality—critical background for understanding how quantum mechanics allows for consciousness-physics coupling. Add cross-references from quantum-consciousness.md, retrocausality.md, arrow-of-time.md, and related physics foundation articles.
@@ -587,6 +581,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Integrate working-memory-as-consciousness-amplifier.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept article (2026-02-02) has no inbound links. Covers how working memory amplifies conscious experience—central to understanding consciousness's functional role. Add cross-references from baseline-cognition.md, consciousness-as-amplifier.md, attention-interface-mechanisms.md, and related cognitive architecture articles.
+- **Output**: working-memory-as-consciousness-amplifier.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-04: Review quantum-measurement-and-definite-outcomes.md considering consciousness-and-quantum-measurement insights
 - **Type**: cross-review
