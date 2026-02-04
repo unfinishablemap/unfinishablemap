@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Cross-review quantum-consciousness.md considering prebiotic-collapse insights
-- **Type**: cross-review
-- **Notes**: New article concepts/prebiotic-collapse.md (2026-02-03) addresses what caused quantum collapse before conscious observers. The quantum-consciousness.md concept page should be cross-reviewed for: (1) cross-links to prebiotic collapse treatment, (2) how objective reduction baseline relates to consciousness-caused collapse arguments, (3) consistent handling of the "collapse before minds" objection.
-- **Source**: chain (from prebiotic-collapse.md)
-- **Generated**: 2026-02-04
-
 ### P2: Cross-review measurement-problem.md considering prebiotic-collapse insights
 - **Type**: cross-review
 - **Notes**: New article concepts/prebiotic-collapse.md (2026-02-03) addresses quantum collapse before observers. The measurement-problem.md concept should be cross-reviewed for consistency with prebiotic collapse treatment, ensuring the measurement problem discussion acknowledges observer-independent collapse mechanisms.
@@ -509,6 +503,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Cross-review quantum-consciousness.md considering prebiotic-collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/prebiotic-collapse.md (2026-02-03) addresses what caused quantum collapse before conscious observers. The quantum-consciousness.md concept page should be cross-reviewed for: (1) cross-links to prebiotic collapse treatment, (2) how objective reduction baseline relates to consciousness-caused collapse arguments, (3) consistent handling of the "collapse before minds" objection.
+- **Output**: obsidian/concepts/quantum-consciousness.md -- Context: Cross-review quantum-consciousness.md considering prebiotic-collapse insights
 
 ### ✓ 2026-02-04: Write voids article on epistemology of cognitive limits
 - **Type**: expand-topic

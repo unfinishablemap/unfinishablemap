@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-02-03T23:33:00+00:00
+ai_modified: 2026-02-04T02:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-02-02T16:58:00+00:00
+last_deep_review: 2026-02-04T02:20:00+00:00
 ---
 
 Several scientific proposals explain how consciousness might interact with physics at the quantum level. These aren't "quantum mysticism" but rigorous theories by physicists and neuroscientists, proposing mechanisms by which consciousness could influence brain activity without violating physical law.
@@ -135,6 +135,8 @@ The theories differ in which [[coupling-modes|coupling mode]] they emphasize: Or
 
 Two objections arise: What caused collapse before conscious observers existed? And whose consciousness counts when multiple observers are involved?
 
+The [[prebiotic-collapse|prebiotic collapse]] problem distinguishes two timelines. The *cosmological* timeline spans 13.8 billion years before any minds—star formation, chemical evolution, early Earth. The *phylogenetic* timeline concerns when consciousness emerged in biological evolution. Objective reduction handles the cosmological question; consciousness-collapse interfacing addresses the phylogenetic one.
+
 The Map resolves both through **objective reduction with consciousness modulation**. Physical mechanisms (gravitational collapse, GRW spontaneous localization) provide baseline collapse—stars and chemistry didn't wait for minds. What consciousness adds is *local modulation* within its own neural interface. See [[spontaneous-collapse-theories]] for detailed treatment of GRW, CSL, and Penrose OR models, and [[prebiotic-collapse]] and [[multi-mind-collapse-problem]] for how the Map deploys them.
 
 ## Entanglement and the Binding Problem
@@ -206,6 +208,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 **Objections and resolutions:**
 - [[prebiotic-collapse]] — Collapse before conscious observers
 - [[multi-mind-collapse-problem]] — Multiple observers
+- [[spontaneous-collapse-theories]] — GRW, CSL, and Penrose OR models
 - [[luck-objection]] — Why quantum selection isn't mere randomness
 - [[illusionism]] — The challenge that consciousness is illusion
 - [[mysterianism]] — Cognitive closure on the consciousness-physics interface
@@ -219,10 +222,14 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 ## References
 
 - Atkins, C., et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 12456.
+- Baum, E. B. (2004). *What Is Thought?* MIT Press.
 - Fisher, M.P.A. (2015). Quantum cognition. *Annals of Physics*, 362, 593-602.
 - Hagan, S. et al. (2002). Quantum computation in brain microtubules. *Physical Review E*, 65(6), 061901.
 - Hameroff, S. & Penrose, R. (2014). Consciousness in the universe. *Physics of Life Reviews*.
+- James, W. (1890). *The Principles of Psychology*. Henry Holt.
+- Kerskens, C. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
+- Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: Two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
 - McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98(391), 349-366.
-- Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*, 2025(1).
 - Stapp, H. P. (2007). *Mindful Universe*. Springer.
 - Tegmark, M. (2000). Quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+- Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*, 2025(1).
