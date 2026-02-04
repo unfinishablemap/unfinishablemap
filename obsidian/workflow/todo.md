@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-04T15:12:00+00:00
+ai_modified: 2026-02-04T19:27:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -47,6 +47,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: integrate-orphan
 - **Notes**: Concepts article on consciousness-independent baseline cognition has no inbound links. Add cross-references from baseline-cognition.md, consciousness-as-amplifier.md, implicit-memory.md, and related articles that discuss unconscious cognitive processing and its relationship to conscious amplification.
 - **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Write article on consciousness and quantum measurement
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-collapse-arrow-of-time-2026-01-14.md (oldest unconsumed research). Explores connection between consciousness-caused collapse and thermodynamic arrow of time. Central to No Many Worlds tenet—if consciousness collapses superpositions, this explains irreversibility. Synthesize findings into site content.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-04
+
+### P2: Write article on agent causation and libertarian free will
+- **Type**: expand-topic
+- **Notes**: Research completed in research/agent-causation-libertarian-free-will-2026-01-14.md (oldest unconsumed research). Agent causation is key metaphysical framework for Bidirectional Interaction—consciousness as genuine causal agent. Synthesize findings into concepts article.
+- **Source**: unconsumed_research
 - **Generated**: 2026-02-04
 
 ### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
