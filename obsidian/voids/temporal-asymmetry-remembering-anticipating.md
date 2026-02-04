@@ -3,7 +3,7 @@ title: "The Asymmetry Between Remembering and Anticipating"
 created: 2026-01-21
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-04T11:13:00+00:00
+ai_modified: 2026-02-04T18:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-21
 last_curated: null
-last_deep_review: 2026-02-04T11:13:00+00:00
+last_deep_review: 2026-02-04T18:47:00+00:00
 ---
 
 We can re-experience the past but only imagine the future. When you remember yesterday's conversation, you don't merely retrieve information—you inhabit the scene, feel its texture, re-live what happened. But when you think about tomorrow's meeting, however vividly, you construct a simulation that lacks something memories possess. This asymmetry is so familiar we barely notice it, yet it may mark a fundamental void in cognition. We can only directly know what has causally affected us. The future, by definition, has not.
@@ -122,7 +122,7 @@ Several findings would require revision: genuine pre-experience (the pastness qu
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
-- [[temporal-consciousness-void]] — Why consciousness is confined to a moving present
+- [[temporal-consciousness-void]] — Consciousness confined to the present; complements this article's focus on past/future asymmetry
 - [[autonoetic-consciousness]] — The self-knowing awareness that enables mental time travel
 - [[episodic-memory]] — The memory system that preserves experienced events
 - [[prospective-memory]] — Future-directed memory and its phenomenology
