@@ -4,7 +4,7 @@ description: "Varela's research program integrating first-person phenomenology w
 created: 2026-01-14
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-02T13:59:00+00:00
+ai_modified: 2026-02-04T22:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-22T21:34:22+00:00
+last_deep_review: 2026-02-04T22:27:00+00:00
 ---
 
 Neurophenomenology is Francisco Varela's research program integrating first-person phenomenological reports with third-person neuroscience. Neither perspective alone suffices for consciousness science. Contemplative traditions—particularly Buddhist meditation—provide systematic methods for refining first-person observation, revealing consciousness structures invisible to ordinary introspection.
@@ -127,7 +127,7 @@ For neurophenomenology's central claims:
 
 For the irreducibility claim:
 
-6. **Phenomenal prediction from structure alone**: predicting specific phenomenal qualities from neural patterns without first-person reports
+6. **Phenomenal prediction from structure alone**: predicting novel phenomenal qualities from neural patterns before subjects report them—e.g., successfully specifying what an unprecedented jhana state will feel like based only on brain scans
 7. **Successful heterophenomenology**: matching neurophenomenology's power while treating reports as mere behavior
 
 None demonstrated. Fox et al. shows robust training effects; cross-traditional studies find convergence; neural correlates track phenomenological distinctions but don't predict qualities from structure alone; illusionist explanations remain promissory.
