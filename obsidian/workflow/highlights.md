@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-03T08:08:12.085275'
+ai_modified: '2026-02-04T08:44:14.591269'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-03'
+modified: '2026-02-04'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-04: Why AI Can't Learn What Truly Matters
+
+AI alignment learns from preferences, but preferences miss what matters: the felt quality of conscious experience. Satisfying all preferences can still leave a life hollow.
+
+**Type**: insight  
+**Link**: [[purpose-and-alignment]]
+
+---
+
 ### 2026-02-03: Thinking About Thinking Isn't Consciousness
 
 Blindsight and 'blind insight' show metacognition and awareness are dissociable. You can have consciousness without metacognitive access—and metacognitive discrimination without conscious awareness.
@@ -198,15 +207,6 @@ New concept page covering how mind and body causally interact through quantum me
 
 **Type**: new-article  
 **Link**: [[interactionist-dualism]]
-
----
-
-### 2026-01-10: Knowing Through Negation: Apophatic Approaches
-
-New voids article explores how we can map the unmappable—using negative theology, learned ignorance, and cognitive closure to trace the boundaries of what exceeds human understanding.
-
-**Type**: new-article  
-**Link**: [[apophatic-approaches]]
 
 ---
 
