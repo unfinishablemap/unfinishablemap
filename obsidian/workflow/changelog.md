@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-04 05:20 UTC - coalesce
+- **Status**: Abandoned (no viable candidates)
+- **Candidates evaluated**: 5 article pairs/groups
+- **Notes**: Searched for articles with significant overlap suitable for merging. Evaluated: (1) AI void explorer pair—well-differentiated LLM vs. extraterrestrial focus; (2) Unobservable self / Thoughts that slip away—distinct observer regression vs. slippage mechanisms; (3) Volitional opacity / Causal interface / Introspective opacity—intentional triangle where volitional is the intersection article; (4) Phenomenology of intellectual effort / understanding—complementary reasoning work vs. insight phenomenology; (5) Eastern philosophy trio—distinct broad survey vs. haecceity problem vs. three-tradition comparison. All candidates proved well-differentiated with appropriate cross-referencing. No merge performed.
+
+---
+
 ## 2026-02-04 05:05 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/consciousness-only-territories]]
