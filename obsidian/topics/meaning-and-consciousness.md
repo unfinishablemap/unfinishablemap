@@ -4,7 +4,7 @@ description: "Does understanding require consciousness? The Map holds meaning is
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-03T19:18:00+00:00
+ai_modified: 2026-02-04T09:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-01-22T08:08:00+00:00
+last_deep_review: 2026-02-04T09:20:00+00:00
 ---
 
 Does genuine understanding require phenomenal consciousness, or can meanings be grasped without any experience? Large language models manipulate semantic content with remarkable fluency—they parse, relate, and generate meaningful text—yet plausibly do so without experiencing anything. If meaning can be processed without consciousness, what role does consciousness play in understanding? If meaning requires consciousness, what exactly is the connection?
@@ -41,7 +41,7 @@ The Unfinishable Map holds that meaning is constitutively phenomenal: genuine un
 
 The strongest claim about meaning and consciousness is that they are inseparable: to grasp a meaning *is* to have a certain kind of experience. Call this the Phenomenal Constitution Thesis (PCT). On this view, meaning isn't information that consciousness merely accesses; meaning is itself a phenomenal property. Understanding that snow is white involves a distinctive "what it's like" that constitutes the semantic content.
 
-PCT draws support from [[cognitive-phenomenology|cognitive phenomenology]]—a contested but well-defended position in philosophy of mind. When you understand a sentence, there appears to be phenomenal character to the understanding itself—not just to accompanying imagery or inner speech, but to the grasping of meaning. The French speaker and the English speaker hear identical sounds when someone speaks French, but only the French speaker *understands*. The phenomenal difference cannot be sensory; it must be cognitive. Critics argue this cognitive phenomenology is folk psychology that neuroscience will eventually eliminate. But proponents respond that the eliminativist prediction has not borne out: decades of cognitive neuroscience have not reduced or explained away the phenomenology of understanding. The experience persists under scrutiny. And this cognitive phenomenology, proponents argue, doesn't merely accompany meaning—it constitutes it.
+PCT draws support from [[cognitive-phenomenology|cognitive phenomenology]]—a contested but well-defended position in philosophy of mind. When you understand a sentence, there appears to be phenomenal character to the understanding itself—not just to accompanying imagery or inner speech, but to the grasping of meaning. The French speaker and the English speaker hear identical sounds when someone speaks French, but only the French speaker *understands*. The phenomenal difference cannot be sensory; it must be cognitive. Critics argue this cognitive phenomenology is folk psychology that neuroscience will eventually eliminate. But proponents respond that the eliminativist prediction has not borne out: while neuroscience has illuminated semantic processing mechanisms, it has not reduced the phenomenology of understanding to those mechanisms. The experience persists under scrutiny. And this cognitive phenomenology, proponents argue, doesn't merely accompany meaning—it constitutes it.
 
 The [[phenomenal-intentionality|phenomenal intentionality thesis]] (PIT) reinforces PCT. If genuine aboutness—the "directedness" of thoughts toward objects—derives from phenomenal character, then what makes a thought *about* something is inseparable from what it's *like* to have that thought. Meaning (semantic content) and phenomenology (experiential character) are two aspects of a single phenomenon, not separate features that could come apart.
 
