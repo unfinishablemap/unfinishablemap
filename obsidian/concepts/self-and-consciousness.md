@@ -4,7 +4,7 @@ description: "The minimal self is not added to consciousness but is its very for
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-31T00:40:00+00:00
+ai_modified: 2026-02-04T14:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -60,7 +60,7 @@ Children don't develop full autonoetic consciousness until age 4-5, explaining c
 
 [[Metacognition]] and the minimal self must be carefully distinguished. Metacognition monitors conscious content; the minimal self is the first-person perspective that makes there be content to monitor.
 
-Empirical evidence shows they can come apart. Blindsight patients have visual information guiding behavior without metacognitive access. These dissociations suggest the minimal self is more fundamental than metacognitive self-monitoring.
+Empirical evidence shows they can come apart. Blindsight patients have visual information guiding behavior without metacognitive access. These dissociations suggest the minimal self is more fundamental than metacognitive self-monitoring. The [[phenomenology-of-recursive-thought|phenomenology of recursive thought]] explores what happens when the minimal self takes its own awareness as object—generating a distinctive "doubled awareness" where one experiences being both observer and observed.
 
 | Layer | What It Is | Relation to Consciousness |
 |-------|-----------|---------------------------|

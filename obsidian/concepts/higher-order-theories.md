@@ -4,7 +4,7 @@ description: "Mental states become conscious when we become aware of them. HOT e
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-27T17:30:00+00:00
+ai_modified: 2026-02-04T14:57:00+00:00
 draft: false
 last_deep_review: 2026-01-27T17:30:00+00:00
 topics:
@@ -171,7 +171,7 @@ HOT connects to the Map's [[self-reference-paradox]] in interesting ways. The th
 
 2. **The Calibration Problem**: How can we evaluate our metacognition without using more metacognition? The tools of assessment are the very things being assessed.
 
-The eye that cannot see itself appears in a new form: the thought that cannot think itself without an infinite tower of meta-thoughts.
+The eye that cannot see itself appears in a new form: the thought that cannot think itself without an infinite tower of meta-thoughts. The [[phenomenology-of-recursive-thought|phenomenology of recursive thought]] explores what this recursive structure actually feels like—the characteristic instability, temporal thickness, and self-implicating quality that distinguish recursive awareness from first-order thought about external objects.
 
 ## HOT and AI Consciousness
 

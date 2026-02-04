@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-03T19:18:00+00:00
+ai_modified: 2026-02-04T14:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -130,7 +130,7 @@ The mathematical case sharpens the illusionist regress: when illusionists grasp 
 
 ## The Unobservable Self: Introspection's Deepest Limit
 
-[[the-unobservable-self|The unobservable self]] reveals a structural limit beyond reliability: the observer cannot observe itself observing. Direct attention inward. Observe your observing. What happens? You become aware of awareness—but now two layers exist. Attempt to observe *that* awareness—a third layer forms. The regression has no endpoint.
+[[the-unobservable-self|The unobservable self]] reveals a structural limit beyond reliability: the observer cannot observe itself observing. Direct attention inward. Observe your observing. What happens? You become aware of awareness—but now two layers exist. Attempt to observe *that* awareness—a third layer forms. The regression has no endpoint. The [[phenomenology-of-recursive-thought|phenomenology of recursive thought]] maps what this layered awareness feels like—the distinctive phenomenal qualities that emerge as consciousness folds back on itself through levels of self-reference.
 
 This differs from the process/content distinction. That distinction says we cannot introspect *why* we think but can introspect *what* we experience. The unobservable self reveals a limit even on content: the content that *is* current observing cannot be observed without transforming into past content.
 
