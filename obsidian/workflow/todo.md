@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-04T06:05:00+00:00
+ai_modified: 2026-02-04T09:13:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -48,6 +48,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers reasons-responsive compatibilism—important for free will discussions. Check philosophical accuracy, ensure proper treatment of Fischer/Ravizza, verify connections to free-will.md, agent-causation.md. Promoted from P3 to maintain healthy active queue.
 - **Source**: staleness
 - **Generated**: 2026-02-02
+
+### P2: Integrate attention-schema-theory-critique.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Critiques Michael Graziano's attention schema theory from the Map's dualist perspective. Add cross-references from structure-of-attention.md, illusionism.md, consciousness-theories.md. High-value integration as it strengthens the Map's position against eliminativist approaches.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Integrate comparative-consciousness-and-interface-differences.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Explores how different species might have different consciousness-brain interfaces. Add cross-references from animal-consciousness.md, consciousness-in-simple-organisms.md, evolution-of-consciousness.md, attention-interface-mechanisms.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Integrate consciousness-and-meaning-integration.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Covers how consciousness integrates meaning—central to the Map's position on meaning and consciousness. Add cross-references from meaning-of-life.md, meaning-and-consciousness.md, phenomenology-of-understanding.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
 
 ### P3: Strengthen impossibility arguments in foundational voids
 - **Type**: refine-draft
