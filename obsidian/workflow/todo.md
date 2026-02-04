@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Cross-review stapp-quantum-mind.md considering attention-motor-quantum-interface insights
-- **Type**: cross-review
-- **Notes**: Article attention-motor-quantum-interface.md develops the unified attention-motor substrate hypothesis based on Stapp's framework. Review stapp-quantum-mind.md to ensure it references this extension of the theory and that claims about consciousness's causal role remain consistent.
-- **Source**: chain (from attention-motor-quantum-interface.md)
-- **Generated**: 2026-02-03
-
 ### P2: Condense many-worlds.md (3704 words, 148% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Currently at 148% of target. The Map's rejection of MWI is foundational but may benefit from tighter expression. Preserve the core indexical identity argument while streamlining technical quantum mechanics background.
@@ -503,6 +497,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Cross-review stapp-quantum-mind.md considering attention-motor-quantum-interface insights
+- **Type**: cross-review
+- **Notes**: Article attention-motor-quantum-interface.md develops the unified attention-motor substrate hypothesis based on Stapp's framework. Review stapp-quantum-mind.md to ensure it references this extension of the theory and that claims about consciousness's causal role remain consistent.
+- **Output**: obsidian/concepts/stapp-quantum-mind.md -- Context: Cross-review stapp-quantum-mind.md considering attention-motor-quantum-interface insights
 
 ### ✓ 2026-02-04: Cross-review mysterianism.md considering altered-states-as-void-probes insights
 - **Type**: cross-review
