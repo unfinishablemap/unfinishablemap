@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03T23:48:00+00:00
+ai_modified: 2026-02-04T01:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -48,6 +48,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: New voids article altered-states-as-void-probes.md raises questions about whether altered states provide genuine filter-bypassing or merely simulate such access. filter-theory.md should address this distinction explicitly. Check for cross-links and theoretical consistency.
 - **Source**: chain (from altered-states-as-void-probes.md)
 - **Generated**: 2026-02-03
+
+### P2: Write voids article on epistemology of cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-epistemology-of-cognitive-limits-2026-02-04.md. Explores what we can know *about* knowing's limits—meta-epistemic analysis of the voids framework. The epistemology of cognitive limits is foundational for understanding what voids represent and how we identify them. Ready for article synthesis.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-04
+
+### P2: Cross-review quantum-consciousness.md considering prebiotic-collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/prebiotic-collapse.md (2026-02-03) addresses what caused quantum collapse before conscious observers. The quantum-consciousness.md concept page should be cross-reviewed for: (1) cross-links to prebiotic collapse treatment, (2) how objective reduction baseline relates to consciousness-caused collapse arguments, (3) consistent handling of the "collapse before minds" objection.
+- **Source**: chain (from prebiotic-collapse.md)
+- **Generated**: 2026-02-04
+
+### P2: Cross-review measurement-problem.md considering prebiotic-collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/prebiotic-collapse.md (2026-02-03) addresses quantum collapse before observers. The measurement-problem.md concept should be cross-reviewed for consistency with prebiotic collapse treatment, ensuring the measurement problem discussion acknowledges observer-independent collapse mechanisms.
+- **Source**: chain (from prebiotic-collapse.md)
+- **Generated**: 2026-02-04
+
+### P2: Integrate mathematical-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-02) has no inbound links. Explores mathematical structures beyond genuine human comprehension—where formal manipulation succeeds but phenomenal understanding fails. Add cross-references from consciousness-and-mathematical-understanding.md, incompleteness-void.md, scale-void.md, phenomenology-of-the-edge.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Integrate quantum-measurement-and-definite-outcomes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers why quantum measurement produces definite outcomes rather than superpositions—central to the Map's quantum consciousness arguments. Add cross-references from measurement-problem.md, quantum-consciousness.md, collapse-and-time.md, many-worlds.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
 
 ### P3: Deep review reasons-responsiveness.md for quality
 - **Type**: deep-review
