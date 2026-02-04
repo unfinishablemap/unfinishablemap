@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-04T01:35:00+00:00
+ai_modified: 2026-02-04T03:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -47,6 +47,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-01) has no inbound links. Covers why quantum measurement produces definite outcomes rather than superpositions—central to the Map's quantum consciousness arguments. Add cross-references from measurement-problem.md, quantum-consciousness.md, collapse-and-time.md, many-worlds.md.
 - **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Write article on experiential alignment objective
+- **Type**: expand-topic
+- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. Proposes framing AI alignment in experiential terms (suffering, agency, meaning) rather than preference terms. Directly relevant to purpose-and-alignment.md and meaning-of-life.md. Supports site's phenomenological approach.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-04
+
+### P2: Integrate altered-states-as-void-probes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-03) has no inbound links. Explores how altered states of consciousness can probe cognitive limits and void territories. Add cross-references from altered-states.md, contemplative-evidence-for-consciousness-theories.md, consciousness-only-territories.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Integrate attention-disorders-and-quantum-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers how attention disorders illuminate the consciousness-brain interface. Add cross-references from attention-as-interface.md, voluntary-attention.md, quantum-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Cross-review mysterianism.md considering epistemology-of-cognitive-limits
+- **Type**: cross-review
+- **Notes**: New voids article epistemology-of-cognitive-limits.md (2026-02-04) explores what we can know about what we cannot know. Check for cross-links, reinforcing arguments about cognitive closure and the limits of understanding consciousness.
+- **Source**: chain (from epistemology-of-cognitive-limits.md)
+- **Generated**: 2026-02-04
+
+### P2: Cross-review consciousness-only-territories.md considering epistemology-of-cognitive-limits
+- **Type**: cross-review
+- **Notes**: New voids article epistemology-of-cognitive-limits.md (2026-02-04) explores cognitive limits epistemology. Check for cross-links, reinforcing arguments about territories accessible only through consciousness.
+- **Source**: chain (from epistemology-of-cognitive-limits.md)
 - **Generated**: 2026-02-04
 
 ### P3: Deep review reasons-responsiveness.md for quality
