@@ -4,7 +4,7 @@ description: "A two-layer architecture unifying filter theory and quantum select
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-03T00:18:00+00:00
+ai_modified: 2026-02-04T10:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -293,6 +293,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 - [[filter-theory]] — The transmission model in detail (James, Bergson, Huxley)
 - [[quantum-consciousness]] — Quantum selection mechanisms (Stapp, Orch OR)
 - [[consciousness-selecting-neural-patterns]] — How selection operates concretely
+- [[comparative-consciousness-and-interface-differences]] — Does the interface vary across species and states?
 - [[mind-brain-separation]] — The rendering engine analogy
 - [[mental-causation]] — Why selection addresses the exclusion problem
 - [[interactionist-dualism]] — The philosophical framework

@@ -4,7 +4,7 @@ description: "From nematodes to slime molds: where does consciousness begin? The
 created: 2026-01-19
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-02T04:39:00+00:00
+ai_modified: 2026-02-04T10:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -240,6 +240,7 @@ The Map rejects MWI partly because it undermines the [[haecceity]]—the irreduc
 - [[consciousness-as-amplifier]] — The baseline cognition hypothesis and what consciousness adds
 - [[evolution-of-consciousness]] — When did consciousness first emerge?
 - [[animal-consciousness]] — Survey of consciousness across species
+- [[comparative-consciousness-and-interface-differences]] — Interface variation across species and states
 - [[panpsychism]] — The view that consciousness is fundamental
 - [[integrated-information-theory]] — IIT's approach to measuring consciousness
 - [[combination-problem]] — How do micro-experiences combine?

@@ -4,7 +4,7 @@ description: "Altered states reveal consciousness's range through meditation, ps
 created: 2026-01-18
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-02-04T10:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -138,6 +138,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [[quantum-consciousness]] — Potential mechanisms for mind-brain interface
 - [[near-death-experiences]] — Enhanced consciousness during brain compromise
 - [[dream-consciousness-void|The Dream Consciousness Void]] — The bidirectional inaccessibility between waking and dreaming states
+- [[comparative-consciousness-and-interface-differences]] — Does the interface vary across states and species?
 
 ## References
 

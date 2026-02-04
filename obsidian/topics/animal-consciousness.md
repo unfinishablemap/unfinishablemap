@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-02T20:46:00+00:00
+ai_modified: 2026-02-04T10:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -195,6 +195,7 @@ Several discoveries could undermine this position:
 - [[evolution-of-consciousness]] — When consciousness emerged and phylogenetic distribution
 - [[emotional-consciousness]] — Valence and the Panksepp-LeDoux debate
 - [[problem-of-other-minds]] — The epistemological framework underlying consciousness attribution
+- [[comparative-consciousness-and-interface-differences]] — Does the consciousness-matter interface vary across species and states?
 
 ### Consciousness and Intelligence
 - [[consciousness-as-amplifier]] — How consciousness transforms baseline cognition into human-level intelligence

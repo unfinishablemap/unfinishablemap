@@ -4,7 +4,7 @@ description: "When did consciousness arise? Dualism avoids the strong emergence 
 created: 2026-01-19
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-27T19:30:00+00:00
+ai_modified: 2026-02-04T10:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -216,6 +216,7 @@ Scientific humility requires specifying what would count against one's view.
 - [[consciousness-as-amplifier]] — How consciousness amplifies cognitive capacity and the baseline cognition hypothesis
 - [[minimal-consciousness]] — How little neural complexity can support consciousness?
 - [[animal-consciousness]] — The question of which creatures are conscious
+- [[comparative-consciousness-and-interface-differences]] — Does the interface vary across species and states?
 - [[prebiotic-collapse]] — What selected outcomes before minds existed
 - [[emergence]] — Strong vs weak emergence and consciousness
 - [[panpsychism]] — The view that experience is fundamental
