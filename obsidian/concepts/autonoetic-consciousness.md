@@ -38,7 +38,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-01-21T19:33:00+00:00
+last_deep_review: 2026-02-04T04:55:00+00:00
 ---
 
 When you remember your first kiss, your wedding day, or a moment of grief, you don't merely retrieve information. You *re-experience* the event. You are simultaneously here now and there then—present as the subject of this current moment of remembering while also phenomenally present as the protagonist in the remembered scene. This distinctive form of consciousness, which Endel Tulving called *autonoetic consciousness*, enables mental time travel and constitutes the phenomenal self across time.
