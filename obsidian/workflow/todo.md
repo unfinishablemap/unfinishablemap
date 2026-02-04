@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Deep review dualism.md for quality and accuracy
-- **Type**: deep-review
-- **Notes**: Core concept page (ai_contribution: 100) has never been deep-reviewed. Central to the Map's framework—defines substance dualism, property dualism, and the Map's position. Check philosophical accuracy, ensure arguments are current, verify connections to interactionist-dualism.md and arguments-for-dualism.md.
-- **Source**: staleness
-- **Generated**: 2026-02-04
-
 ### P2: Deep review quantum-consciousness.md for quality and accuracy
 - **Type**: deep-review
 - **Notes**: Core concept page (ai_contribution: 100) has never been deep-reviewed. Central to Minimal Quantum Interaction tenet—covers Penrose-Hameroff, Stapp, Fisher mechanisms. Check empirical claims are current (recent coherence findings), ensure alignment with Map's framework, verify connections to neural-quantum-coherence.md, stapp-quantum-mind.md.
@@ -545,6 +539,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Deep review dualism.md for quality and accuracy
+- **Type**: deep-review
+- **Notes**: Core concept page (ai_contribution: 100) has never been deep-reviewed. Central to the Map's framework—defines substance dualism, property dualism, and the Map's position. Check philosophical accuracy, ensure arguments are current, verify connections to interactionist-dualism.md and arguments-for-dualism.md.
+- **Output**: obsidian/concepts/dualism.md
 
 ### ✓ 2026-02-04: Condense varieties-of-unity.md (3527 words, 101% of hard threshold)
 - **Type**: condense
