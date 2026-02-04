@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-04 19:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: 'Filter theory''s division of faculties: qualia belong to mind, aut
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-21 18:45:00+00:00
+last_deep_review: 2026-02-04 19:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -222,3 +222,4 @@ The mind-brain separation framework would face serious difficulty if:
 5. Bergson, H. (1896). *Matter and Memory*.
 6. Huxley, A. (1954). *The Doors of Perception*.
 7. Leopold, D.A., et al. (2017). Blindsight and unconscious vision. *PMC*.
+8. Demirel, Ç., et al. (2025). Electrophysiological Correlates of Lucid Dreaming: Sensor and Source Level Signatures. *Journal of Neuroscience*.

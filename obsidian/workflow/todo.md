@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Review quantum-measurement-and-definite-outcomes.md considering consciousness-and-quantum-measurement insights
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-and-quantum-measurement.md (2026-02-04) explores the structural parallel between measurement and hard problems. Check quantum-measurement-and-definite-outcomes.md for cross-link opportunities, reinforcing arguments about why decoherence doesn't solve the measurement problem, or terminology consistency.
-- **Source**: chain (from consciousness-and-quantum-measurement.md)
-- **Generated**: 2026-02-04
-
 ### P2: Integrate consciousness-and-quantum-measurement.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: New article (2026-02-04) has no inbound links. Add cross-references from hard-problem-of-consciousness.md, quantum-consciousness.md, measurement-problem.md, and related quantum interpretation articles. Central to the Map's framework connecting consciousness to physics.
@@ -539,6 +533,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Review quantum-measurement-and-definite-outcomes.md considering consciousness-and-quantum-measurement insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-quantum-measurement.md (2026-02-04) explores the structural parallel between measurement and hard problems. Check quantum-measurement-and-definite-outcomes.md for cross-link opportunities, reinforcing arguments about why decoherence doesn't solve the measurement problem, or terminology consistency.
+- **Output**: obsidian/topics/quantum-measurement-and-definite-outcomes.md -- Context: Review quantum-measurement-and-definite-outcomes.md considering consciousness-and-quantum-measurement insights
 
 ### ✓ 2026-02-04: Write article on consciousness and quantum measurement
 - **Type**: expand-topic

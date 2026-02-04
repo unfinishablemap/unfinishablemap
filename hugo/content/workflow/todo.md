@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-04 15:12:00+00:00
+ai_modified: 2026-02-04 19:27:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
-
-### P2: Integrate baseline-cognition.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article on baseline cognition (cognitive functions that operate independently of consciousness) has no inbound links. Add cross-references from consciousness-as-amplifier.md, consciousness-and-intelligence.md, consciousness-independent-baseline-cognition.md, and related concepts that discuss what cognition can accomplish without conscious involvement.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
-
-### P2: Integrate consciousness-independent-baseline-cognition.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concepts article on consciousness-independent baseline cognition has no inbound links. Add cross-references from baseline-cognition.md, consciousness-as-amplifier.md, implicit-memory.md, and related articles that discuss unconscious cognitive processing and its relationship to conscious amplification.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
 
 ### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
 - **Type**: refine-draft
@@ -540,6 +528,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Write article on consciousness and quantum measurement
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-collapse-arrow-of-time-2026-01-14.md (oldest unconsumed research). Explores connection between consciousness-caused collapse and thermodynamic arrow of time. Central to No Many Worlds tenet—if consciousness collapses superpositions, this explains irreversibility. Synthesize findings into site content.
+- **Output**: consciousness and quantum measurement
+
+### ✓ 2026-02-04: Integrate consciousness-independent-baseline-cognition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article on consciousness-independent baseline cognition has no inbound links. Add cross-references from baseline-cognition.md, consciousness-as-amplifier.md, implicit-memory.md, and related articles that discuss unconscious cognitive processing and its relationship to conscious amplification.
+- **Output**: consciousness-independent-baseline-cognition.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-04: Integrate baseline-cognition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article on baseline cognition (cognitive functions that operate independently of consciousness) has no inbound links. Add cross-references from consciousness-as-amplifier.md, consciousness-and-intelligence.md, consciousness-independent-baseline-cognition.md, and related concepts that discuss what cognition can accomplish without conscious involvement.
+- **Output**: obsidian/concepts/baseline-cognition.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-04: Review temporal-asymmetry-remembering-anticipating.md considering temporal-consciousness-void insights
 - **Type**: cross-review

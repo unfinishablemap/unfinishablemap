@@ -4,8 +4,8 @@ description: "Physics describes probabilities for measurement outcomes but doesn
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-04T03:35:00+00:00
-last_deep_review: 2026-02-04T03:35:00+00:00
+ai_modified: 2026-02-04T20:17:00+00:00
+last_deep_review: 2026-02-04T20:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[mental-causation]]"
 related_articles:
   - "[[tenets]]"
+  - "[[consciousness-and-quantum-measurement]]"
   - "[[quantum-measurement-and-subjective-probability]]"
   - "[[quantum-measurement-interpretations-beyond-mwi]]"
   - "[[measurement-problem-quantum-mechanics-2026-01-14]]"
@@ -92,7 +93,7 @@ The strength: this explains why consciousness exists at all. If consciousness se
 
 Even granting that *some* outcome occurs, a deeper question remains: why does *this* consciousness experience *this* particular result?
 
-This [[indexical-identity-quantum-measurement|indexical gap]] connects the measurement problem to the [[hard-problem-of-consciousness]]. Both involve first-person facts that third-person descriptions fail to capture. Physics describes outcomes; it doesn't address *what it is like* to experience a particular outcome as a particular subject.
+This [[indexical-identity-quantum-measurement|indexical gap]] connects the measurement problem to the [[hard-problem-of-consciousness]]. Both involve first-person facts that third-person descriptions fail to capture. Physics describes outcomes; it doesn't address *what it is like* to experience a particular outcome as a particular subject. The [[consciousness-and-quantum-measurement|structural parallel between these problems]]—where first-person facts enter third-person descriptions—suggests they may be two aspects of the same underlying issue rather than separate puzzles.
 
 [[qbism|QBism]] dissolves the measurement problem by treating quantum states as subjective beliefs—collapse is merely belief updating. But QBism presupposes agents with determinate experiences. Where do those experiences come from? Treating consciousness as fundamental while refusing to explain it is philosophically modest, but it leaves the hard problem untouched.
 
@@ -126,6 +127,7 @@ The definite outcomes problem directly supports the Map's core commitments:
 
 ## Further Reading
 
+- [[consciousness-and-quantum-measurement]] — How the measurement problem and hard problem share structural features
 - [[measurement-problem]] — Comprehensive treatment of the problem and interpretations
 - [[decoherence]] — What decoherence does and doesn't explain
 - [[quantum-measurement-and-subjective-probability]] — Why subjective interpretations fail phenomenologically
