@@ -102,6 +102,8 @@ Answers fall into three categories:
 
 ### Transactional Interpretation (TI) and Two-State Vector Formalism (TSVF)
 
+These interpretations take seriously the [time-symmetry of fundamental physics](/concepts/time-symmetric-physics/)—the fact that equations work equally well forward or backward in time.
+
 **Core claims (TI):**
 - Quantum events involve "handshakes" between forward-in-time (retarded) and backward-in-time (advanced) waves
 - A "transaction" between emitter and absorber constitutes a measurement

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-02-04 19:57:00+00:00
+ai_modified: 2026-02-04 20:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,6 +19,7 @@ description: 'The measurement problem and hard problem share a deep structure: b
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-04 20:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +68,7 @@ Notice the parallel:
 
 Both problems concern where first-person facts—facts about *what it is like* for a particular subject—enter the picture. Physics describes processes; it doesn't capture the viewpoint from which those processes are experienced.
 
-The [knowledge argument](/concepts/knowledge-argument/) (Mary's Room) makes this vivid: Mary knows all physical facts about colour vision but learns something new when she first sees red. What she learns isn't a physical fact—it's what red looks like *to her*. Similarly, the measurement problem concerns what becomes actual *for this observer*, not merely which statistical outcome occurs in some ensemble.
+The [knowledge argument](/concepts/knowledge-argument/) makes this vivid: Mary knows all physical facts about colour vision but learns something new when she first sees red. What she learns isn't a physical fact—it's what red looks like *to her*. Similarly, the measurement problem concerns what becomes actual *for this observer*, not merely which statistical outcome occurs in some ensemble.
 
 This structural parallel suggests that the measurement problem and hard problem might not be independent puzzles requiring separate solutions, but two aspects of the same underlying issue: how first-person facts relate to third-person descriptions.
 
@@ -127,7 +128,7 @@ Even granting that definite outcomes occur, a deeper question remains: why does 
 
 This is the [indexical gap](/topics/indexical-identity-quantum-measurement/). Every interpretation of quantum mechanics leaves it untreated:
 
-- **[QBism](/concepts/qbism/)** treats quantum states as subjective beliefs but cannot explain why consciousness has determinate content to form beliefs about
+- **[QBism](/concepts/qbism/)** treats quantum states as subjective beliefs—"collapse" becomes belief-updating—but cannot explain why consciousness has determinate content to form beliefs about
 - **Consciousness-collapse** explains how collapse happens but not why *this* consciousness exists to trigger it
 - **Relational QM** treats any physical system as "observer," demoting consciousness from any privileged role
 - **Many-Worlds** makes every outcome equally real but requires a primitive fact about which branch "I" occupy
@@ -146,7 +147,7 @@ If consciousness participates in collapse, and collapse introduces time's arrow,
 
 **Time-symmetric interpretations suggest atemporal selection.** Frameworks like Aharonov's Two-State Vector Formalism describe quantum events as transactions between past and future boundary conditions. Consciousness's "selection" might operate atemporally, determining which transaction completes across time rather than at a moment.
 
-This resolves the Libet problem (neural activity preceding conscious awareness): if selection isn't temporally located, questions about temporal ordering dissolve. The relationship isn't sequential—it's constitutive.
+This resolves the [Libet problem](/concepts/libet-experiments/) (neural activity preceding conscious awareness): if selection isn't temporally located, questions about temporal ordering dissolve. The relationship isn't sequential—it's constitutive.
 
 ## What This Framework Cannot Do
 

@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate attention-motor-quantum-selection.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-01) has no inbound links. Covers attention-motor quantum selection mechanism—how attention might influence quantum outcomes at motor preparation sites. Central to the Map's Minimal Quantum Interaction tenet. Add cross-references from attention-as-interface.md, voluntary-attention.md, stapp-quantum-mind.md, and quantum-consciousness.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
-
 ### P2: Write article on dopamine's role in attention-motor-quantum interface
 - **Type**: expand-topic
 - **Notes**: Research completed in research/dopamine-attention-motor-quantum-interface-2026-01-24.md. Explores how tonic vs phasic dopamine may modulate the decision threshold at which competing motor programs resolve, with consciousness determining which option crosses threshold. Supports Minimal Quantum Interaction and Bidirectional Interaction tenets. Builds on attention-motor-quantum-selection.md, voluntary-attention.md.
@@ -605,6 +599,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Integrate attention-motor-quantum-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers attention-motor quantum selection mechanism—how attention might influence quantum outcomes at motor preparation sites. Central to the Map's Minimal Quantum Interaction tenet. Add cross-references from attention-as-interface.md, voluntary-attention.md, stapp-quantum-mind.md, and quantum-consciousness.md.
+- **Output**: attention-motor-quantum-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-04: Integrate time-symmetric-physics.md into site navigation
 - **Type**: integrate-orphan

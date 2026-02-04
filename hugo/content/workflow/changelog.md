@@ -18,6 +18,96 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-04 21:57 UTC - deep-review
+- **Status**: Success (orphan integration)
+- **File**: [time-symmetric-physics](/concepts/time-symmetric-physics/)
+- **Word count**: 1914 → 1914 (unchanged)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none remaining)
+- **Cross-links added**: 6 inbound links from related articles
+- **Output**: [deep-review-2026-02-04-time-symmetric-physics](/reviews/deep-review-2026-02-04-time-symmetric-physics/)
+- **Context**: Third deep review (prior: 2026-02-02, 2026-02-03). Article content is stable. Primary focus was orphan integration—article had no inbound links despite being foundational to many Map arguments. Added cross-references from retrocausality, collapse-and-time, philosophy-of-time, quantum-interpretations, libet-experiments, free-will, and time-collapse-and-agency.
+
+---
+
+## 2026-02-04 21:42 UTC - coalesce
+- **Status**: Success
+- **Sources**: [contemplative-neuroscience-integration](/topics/contemplative-neuroscience-integration/)
+- **Target**: [contemplative-neuroscience](/concepts/contemplative-neuroscience/)
+- **Archived**: [contemplative-neuroscience-integration](/archive/topics/contemplative-neuroscience-integration/)
+- **References updated**: 5 files (neuroplasticity, neurophenomenology, bidirectional-interaction, eastern-philosophy-consciousness, first-person-third-person-methodology)
+- **Notes**: Topic article covered ~60% redundant content with concept article. Unique sections (gamma synchrony, jhana states, cessation phenomena) integrated into unified concept article. Original URLs preserved via archive.
+
+---
+
+## 2026-02-04 21:27 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [working-memory](/concepts/working-memory/)
+- **Word count**: 2771 → 2803 (+32)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (added citation for Trübutschek et al. 2019 quote)
+- **Enhancements made**: 1 reference added
+- **Output**: [deep-review-2026-02-04-working-memory](/reviews/deep-review-2026-02-04-working-memory/)
+- **Context**: Task context claimed file is orphaned; investigation found this is incorrect—article has many inbound links from 16+ articles. Second deep review (first was 2026-02-02 prior to coalescence). Article is stable. All citations now attributed. Added Trübutschek et al. 2019 reference for key quote about activity-silent maintenance.
+
+---
+
+## 2026-02-04 21:17 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/)
+- **Word count**: 3016 → 3016 (unchanged, minor wording fix)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (numbered list said "four" but listed five items)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-02-04-teaching-as-metarepresentation](/reviews/deep-review-2026-02-04-teaching-as-metarepresentation/)
+- **Context**: Second deep review (first was 2026-01-22). Article has reached stability. All six pessimistic personas engaged; counterarguments represent bedrock philosophical disagreements rather than fixable flaws. No expansion due to length-neutral mode (121% of soft threshold). Future reviews should await new research on ape pedagogy or teaching development.
+
+---
+
+## 2026-02-04 20:57 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-and-definite-outcomes/)
+- **Word count**: 1875 → 1875 (unchanged)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-02-04-night-quantum-measurement-and-definite-outcomes](/reviews/deep-review-2026-02-04-night-quantum-measurement-and-definite-outcomes/)
+- **Context**: Fourth deep review. Verified integration with consciousness-and-quantum-measurement.md by reading both articles fully. Article is stable—no substantive changes needed. Cross-links already in place from previous evening review. Recommend removing from deep review rotation until content changes.
+
+---
+
+## 2026-02-04 20:42 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-quantum-measurement](/topics/consciousness-and-quantum-measurement/)
+- **Word count**: 2246 → 2250 (+4)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (QBism clarification, link improvements)
+- **Enhancements made**: 5 cross-references added FROM other articles (orphan integration focus)
+- **Output**: [deep-review-2026-02-04-consciousness-and-quantum-measurement](/reviews/deep-review-2026-02-04-consciousness-and-quantum-measurement/)
+- **Context**: First deep review. Article was orphaned with no inbound links. Added cross-references from hard-problem-of-consciousness, measurement-problem, quantum-consciousness, decoherence, and causal-closure to integrate this synthesis into site navigation.
+
+---
+
+## 2026-02-04 20:30 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Deep sampling of topics/, concepts/, tenets/ focusing on structural coherence and argumentative depth
+- **Output**: [optimistic-2026-02-04-evening](/reviews/optimistic-2026-02-04-evening/)
+- **Tasks added**: 7 expansion opportunities (phenomenology of normative properties, contemplative methodology, strong emergence, normative phenomenology concept, contemplative reliability concept, self-stultification concept)
+
+---
+
+## 2026-02-04 20:17 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-and-definite-outcomes/)
+- **Word count**: 1837 → 1875 (+38)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (cross-links to consciousness-and-quantum-measurement.md)
+- **Output**: [deep-review-2026-02-04-evening-quantum-measurement-and-definite-outcomes](/reviews/deep-review-2026-02-04-evening-quantum-measurement-and-definite-outcomes/)
+- **Context**: Third deep review. Triggered to integrate insights from newly created consciousness-and-quantum-measurement.md. Article is philosophically stable; only enhancement was adding cross-references to the new companion article which develops the measurement/hard problem structural parallel more thoroughly.
+
+---
+
 ## 2026-02-04 19:57 UTC - expand-topic
 - **Status**: Success
 - **Topic**: consciousness and quantum measurement
@@ -2353,7 +2443,7 @@ topics: []
 
 ## 2026-02-02 10:57 UTC - deep-review
 - **Status**: Success
-- **File**: [contemplative-neuroscience-integration](/topics/contemplative-neuroscience-integration/)
+- **File**: [contemplative-neuroscience-integration](/archive/topics/contemplative-neuroscience-integration/)
 - **Word count**: unchanged (content reviewed earlier today)
 - **Focus**: Link integration (orphan resolution)
 - **Cross-links added**: 6 inbound links from related articles
@@ -3226,7 +3316,7 @@ topics: []
 
 ## 2026-02-02 01:13 UTC - deep-review
 - **Status**: Success
-- **File**: [contemplative-neuroscience-integration](/topics/contemplative-neuroscience-integration/)
+- **File**: [contemplative-neuroscience-integration](/archive/topics/contemplative-neuroscience-integration/)
 - **Word count**: 2251 → 2398 (+147)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3
@@ -3247,7 +3337,7 @@ topics: []
 ## 2026-02-02 01:03 UTC - expand-topic
 - **Status**: Success
 - **Topic**: contemplative neuroscience integration
-- **Output**: [contemplative-neuroscience-integration](/topics/contemplative-neuroscience-integration/)
+- **Output**: [contemplative-neuroscience-integration](/archive/topics/contemplative-neuroscience-integration/)
 - **Word count**: 2251
 - **Based on research**: yes ([contemplative-neuroscience-meditation-2026-01-23](/research/contemplative-neuroscience-meditation-2026-01-23/), [neurophenomenology-meditation-studies-2026-01-14](/research/neurophenomenology-meditation-studies-2026-01-14/))
 

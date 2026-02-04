@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-04 22:16 UTC - deep-review
+- **Status**: No action needed (file already archived)
+- **File**: attention-motor-quantum-selection.md
+- **Resolution**: File was reported as orphaned, but investigation found it was already coalesced into [[topics/attention-interface-mechanisms]] on 2026-02-02. The "orphan" was a stale copy in hugo/content/topics/ that should have been removed during archival. Removed stale file; archived version at archive/topics/attention-motor-quantum-selection correctly redirects to superseding article.
+- **Notes**: No deep review performed—archived content doesn't need review since it's superseded.
+
+---
+
 ## 2026-02-04 21:57 UTC - deep-review
 - **Status**: Success (orphan integration)
 - **File**: [[concepts/time-symmetric-physics]]

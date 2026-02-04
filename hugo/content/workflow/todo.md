@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-04 19:27:00+00:00
+ai_modified: 2026-02-04 22:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -43,6 +43,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
+
+### P2: Integrate attention-motor-quantum-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers attention-motor quantum selection mechanism—how attention might influence quantum outcomes at motor preparation sites. Central to the Map's Minimal Quantum Interaction tenet. Add cross-references from attention-as-interface.md, voluntary-attention.md, stapp-quantum-mind.md, and quantum-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Write article on dopamine's role in attention-motor-quantum interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/dopamine-attention-motor-quantum-interface-2026-01-24.md. Explores how tonic vs phasic dopamine may modulate the decision threshold at which competing motor programs resolve, with consciousness determining which option crosses threshold. Supports Minimal Quantum Interaction and Bidirectional Interaction tenets. Builds on attention-motor-quantum-selection.md, voluntary-attention.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-04
+
+### P2: Write article on quantum biology mechanisms in neural systems
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-mechanisms-2026-01-24.md. Covers five distinct quantum biological mechanisms (radical pairs, ion channel tunneling, microtubule coherence, SNARE quantum tunneling, Posner molecules) with 2024-2025 experimental evidence. Directly supports Minimal Quantum Interaction tenet by establishing empirical grounding.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-04
+
+### P2: Review quantum-consciousness.md considering consciousness-and-quantum-measurement insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-quantum-measurement.md (2026-02-04) provides detailed treatment of measurement problem. Review quantum-consciousness.md for cross-links, complementary arguments, or redundancies. Ensure consistent treatment of collapse interpretations.
+- **Source**: chain (from consciousness-and-quantum-measurement.md)
+- **Generated**: 2026-02-04
+
+### P2: Integrate consciousness-and-quantum-measurement.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-04) has no inbound links. Covers consciousness and the quantum measurement problem—central to the Map's position on why consciousness might play a fundamental role in physics. Add cross-references from quantum-consciousness.md, measurement-problem.md, collapse-interpretations.md, observer-effect.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Integrate working-memory-as-consciousness-amplifier.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-02) has no inbound links. Covers how working memory amplifies consciousness—central to understanding the functional role of phenomenal experience. Add cross-references from working-memory.md, global-workspace-theory.md, attention-and-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
 
 ### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
 - **Type**: refine-draft
@@ -526,8 +562,75 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-04
 
+### P3: Write article on phenomenology of normative properties
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04 (evening). What is it *like* to grasp a reason as compelling? How does the phenomenology of "seeing" that a conclusion follows differ from mere association? The Map argues normative properties are irreducible; this develops the phenomenological dimension of that claim. Builds on argument-from-reason.md, phenomenal-value-realism.md, consciousness-value-connection.md. See optimistic-2026-02-04-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Write article on contemplative methods as philosophical methodology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04 (evening). What is the epistemic status of contemplative evidence? How do trained meditators differ from naive introspectors? Can we develop reliability criteria for first-person reports? Grounds the Map's use of phenomenological evidence systematically. Builds on contemplative-evidence-for-consciousness-theories.md, neurophenomenology.md, phenomenological-evidence.md. See optimistic-2026-02-04-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Write article on consciousness and strong emergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04 (evening). The Map critiques emergence as consciousness explanation but could develop what kind of emergence, if any, is compatible with irreducibility. Strong emergence (novel causal powers) vs weak emergence (epistemological only). Why consciousness requires the former. Builds on emergence.md, downward-causation.md, reductionism.md. See optimistic-2026-02-04-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Create concept page for normative phenomenology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04 (evening). The study of what it's like to experience reasons, values, and oughts. Currently scattered across argument-from-reason.md and phenomenal-value-realism.md but deserves consolidation. Central to the Map's case that consciousness grounds normativity. See optimistic-2026-02-04-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Create concept page for contemplative reliability
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04 (evening). Criteria for when contemplative reports are epistemically trustworthy. Referenced in several articles but not systematically treated. Foundational for treating first-person evidence as genuine philosophical data. See optimistic-2026-02-04-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
+### P3: Create concept page for self-stultification
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-04 (evening). The logical structure whereby a position undermines itself if true. Appears in argument-from-reason.md (physicalism undermines rational belief), mental-causation.md (epiphenomenalism undermines knowledge of consciousness). Deserves focused treatment as recurring argumentative structure. See optimistic-2026-02-04-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-04
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Integrate time-symmetric-physics.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept article (2026-02-01) has no inbound links. Covers fundamental physics symmetry and retrocausality—critical background for understanding how quantum mechanics allows for consciousness-physics coupling. Add cross-references from quantum-consciousness.md, retrocausality.md, arrow-of-time.md, and related physics foundation articles.
+- **Output**: obsidian/concepts/time-symmetric-physics.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-04: Integrate working-memory-as-consciousness-amplifier.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept article (2026-02-02) has no inbound links. Covers how working memory amplifies conscious experience—central to understanding consciousness's functional role. Add cross-references from baseline-cognition.md, consciousness-as-amplifier.md, attention-interface-mechanisms.md, and related cognitive architecture articles.
+- **Output**: working-memory-as-consciousness-amplifier.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-04: Review quantum-measurement-and-definite-outcomes.md considering consciousness-and-quantum-measurement insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-quantum-measurement.md (2026-02-04) explores the connection between measurement problem and hard problem. Check quantum-measurement-and-definite-outcomes.md for cross-link opportunities, reinforcing arguments, and ensure consistent terminology on the observer's role in collapse.
+- **Output**: obsidian/topics/quantum-measurement-and-definite-outcomes.md -- Context: Review quantum-measurement-and-definite-outcomes.md considering consciousness-and-quantum-measurement insights
+
+### ✓ 2026-02-04: Integrate consciousness-and-quantum-measurement.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: New article (2026-02-04) has no inbound links. Add cross-references from hard-problem-of-consciousness.md, quantum-consciousness.md, measurement-problem.md, and related quantum interpretation articles. Central to the Map's framework connecting consciousness to physics.
+- **Output**: obsidian/topics/consciousness-and-quantum-measurement.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-04: Review quantum-measurement-and-definite-outcomes.md considering consciousness-and-quantum-measurement insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-quantum-measurement.md (2026-02-04) explores the structural parallel between measurement and hard problems. Check quantum-measurement-and-definite-outcomes.md for cross-link opportunities, reinforcing arguments about why decoherence doesn't solve the measurement problem, or terminology consistency.
+- **Output**: obsidian/topics/quantum-measurement-and-definite-outcomes.md -- Context: Review quantum-measurement-and-definite-outcomes.md considering consciousness-and-quantum-measurement insights
 
 ### ✓ 2026-02-04: Write article on consciousness and quantum measurement
 - **Type**: expand-topic

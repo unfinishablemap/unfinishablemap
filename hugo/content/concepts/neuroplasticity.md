@@ -106,7 +106,7 @@ Neuroplasticity research extends beyond clinical populations to contemplative pr
 
 These findings replicate the pattern from Schwartz's OCD research: directed mental practice produces neural change. Contemplative traditions have long claimed that training attention transforms the mind; neuroscience now confirms the transformation is physical as well as phenomenological.
 
-See [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) for detailed treatment of how contemplative neuroscience bears on consciousness theories, and [contemplative-neuroscience-integration](/topics/contemplative-neuroscience-integration/) for how meditation research bridges first-person phenomenology and third-person neuroscience.
+See [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) for detailed treatment of how contemplative neuroscience bears on consciousness theories, and [contemplative-neuroscience](/concepts/contemplative-neuroscience/) for how meditation research bridges first-person phenomenology and third-person neuroscience.
 
 ## Attention as the Mechanism
 

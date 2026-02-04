@@ -55,7 +55,7 @@ The retrocausal response: temporal precedence does not establish causal priority
 
 Retrocausality has serious proponents and empirical grounding in physics.
 
-**Time-symmetric equations**: Quantum mechanics' fundamental equations work equally well forward or backward. The apparent "arrow of time" in measurement is an addition to the formalism. As Huw Price argues, if physics is time-symmetric and causal, retrocausality follows necessarily. See [collapse-and-time](/concepts/collapse-and-time/) for how collapse introduces temporal asymmetry.
+**Time-symmetric equations**: Quantum mechanics' fundamental equations work equally well forward or backward. The apparent "arrow of time" in measurement is an addition to the formalism. As Huw Price argues, if physics is time-symmetric and causal, retrocausality follows necessarily. See [time-symmetric-physics](/concepts/time-symmetric-physics/) for how T-symmetry operates across physics domains, and [collapse-and-time](/concepts/collapse-and-time/) for how collapse introduces temporal asymmetry.
 
 **Wheeler's delayed-choice**: Experiments confirm that measurement choices made *after* a particle passes through a double-slit can determine whether it behaved as wave or particle *earlier*. The 2017 satellite experiment extended this over thousands of kilometres.
 

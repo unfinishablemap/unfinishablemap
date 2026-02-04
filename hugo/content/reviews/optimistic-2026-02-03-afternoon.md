@@ -103,7 +103,7 @@ This combination of rigorous philosophical argument with humility about limits i
 ### High Priority
 
 #### Contemplative Training and Phenomenal Access
-- **Builds on**: [contemplative-neuroscience-integration](/topics/contemplative-neuroscience-integration/), [witness-consciousness](/concepts/witness-consciousness/), [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)
+- **Builds on**: [contemplative-neuroscience-integration](/archive/topics/contemplative-neuroscience-integration/), [witness-consciousness](/concepts/witness-consciousness/), [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)
 - **Would address**: How meditation training improves introspective accuracy, changes neural signatures, and reveals consciousness structure—providing evidence against illusionism (illusions don't deepen with practice)
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Bidirectional Interaction by showing conscious practice reshapes neural patterns; undermines illusionism by showing phenomenal access improves with training
@@ -155,7 +155,7 @@ This combination of rigorous philosophical argument with humility about limits i
 | [binding-problem](/concepts/binding-problem/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Binding operates across time in episodic memory, not just space |
 | [quantum-consciousness](/concepts/quantum-consciousness/) | [free-will](/topics/free-will/) | Both depend on quantum indeterminacy; deepen the connection |
 | [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | Great ape gap evidence supports amplifier framework |
-| [contemplative-neuroscience-integration](/topics/contemplative-neuroscience-integration/) | [illusionism](/concepts/illusionism/) | Meditation evidence undermines illusionism |
+| [contemplative-neuroscience-integration](/archive/topics/contemplative-neuroscience-integration/) | [illusionism](/concepts/illusionism/) | Meditation evidence undermines illusionism |
 | [filter-theory](/concepts/filter-theory/) | [evolution-of-consciousness](/concepts/evolution-of-consciousness/) | Evolution favours consciousness if it filters/configures neural activity |
 | [sleep-and-consciousness](/concepts/sleep-and-consciousness/) | [prebiotic-collapse](/concepts/prebiotic-collapse/) | Both show binding without consciousness; parallel cases |
 | [voluntary-attention](/concepts/voluntary-attention/) | [agent-causation](/concepts/agent-causation/) | Neural signatures make agent causation empirically tractable |

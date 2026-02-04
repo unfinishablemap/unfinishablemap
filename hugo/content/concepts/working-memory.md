@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-02-04 10:35:00+00:00
+ai_modified: 2026-02-04 21:27:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ description: Working memory manipulation requires consciousness while maintenanc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 11:42:00+00:00
+last_deep_review: 2026-02-04 21:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +64,7 @@ Research from 2011-2025 reveals a fundamental asymmetry in WM processing:
 
 This is supported by "activity-silent" WM research. Traditional theory assumed WM maintenance requires sustained neural firing. New evidence shows information can be maintained through short-term synaptic plasticity—residual calcium at synaptic terminals, rapid changes in synaptic weights—without sustained activity. These traces persist for roughly one second, spanning typical WM delays.
 
-**Manipulation requires consciousness.** The key finding: "Non-conscious, activity-silent maintenance is a genuine phenomenon but should be termed 'activity-silent short-term memory'; when *using* a memory, a reactivation, associated with conscious reportability, is necessary." This aligns with the broader evidence in [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) showing that consciousness enables specific functions—durable maintenance, novel combinations, and spontaneous intentional action—that unconscious processing cannot achieve.
+**Manipulation requires consciousness.** The key finding (Trübutschek et al. 2019): "Non-conscious, activity-silent maintenance is a genuine phenomenon but should be termed 'activity-silent short-term memory'; when *using* a memory, a reactivation, associated with conscious reportability, is necessary." This aligns with the broader evidence in [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) showing that consciousness enables specific functions—durable maintenance, novel combinations, and spontaneous intentional action—that unconscious processing cannot achieve.
 
 This maps onto the Map's framework:
 - **Storage** might be purely neural—synaptic traces maintaining patterns without consciousness
@@ -219,4 +219,5 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 - Soto, D., Mäntylä, T., & Silvanto, J. (2011). Working memory without consciousness. *Current Biology*, 21(22), R912-R913.
 - Stokes, M.G. (2015). 'Activity-silent' working memory in prefrontal cortex: A dynamic coding framework. *Trends in Cognitive Sciences*, 19(7), 394-405.
 - Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
+- Trübutschek, D., Marti, S., Ueberschär, H., & Dehaene, S. (2019). Probing the limits of activity-silent non-conscious working memory. *Proceedings of the National Academy of Sciences*, 116(28), 14358-14367.
 - Tulving, E. (2002). Episodic memory: From mind to brain. *Annual Review of Psychology*, 53, 1-25.

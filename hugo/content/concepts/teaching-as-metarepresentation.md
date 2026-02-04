@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-04 21:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Teaching requires knowing that you know and that others don't. Grea
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-22 14:30:00+00:00
+last_deep_review: 2026-02-04 21:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -38,7 +38,7 @@ The teaching asymmetry provides concrete evidence for the [Bidirectional Interac
 
 ## The Structure of Teaching
 
-Teaching involves at least four nested representational operations:
+Teaching involves at least five nested representational operations:
 
 1. **First-order knowledge**: Knowing something about the world (e.g., knowing how to crack nuts with a stone)
 2. **Second-order representation**: Representing your knowledge as knowledge (knowing that you know how to crack nuts)
