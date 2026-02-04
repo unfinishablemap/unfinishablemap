@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-04 08:58 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [[concepts/materialism]]
+- **Word count**: 2220 words (88% of 2500 threshold)
+- **Reason**: Article is already under the soft threshold for concepts (2500 words). No cuts needed.
+
+---
+
 ## 2026-02-04 08:45 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/three-kinds-of-void]]

@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense materialism.md (3788 words, 108% of target)
-- **Type**: condense
-- **Notes**: Arguments article exceeds 3500-word hard threshold. This is a foundational critique article—preserve core arguments against materialism while removing redundancy and deferring detailed responses to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-04
-
 ### P2: Deep review reasons-responsiveness.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers reasons-responsive compatibilism—important for free will discussions. Check philosophical accuracy, ensure proper treatment of Fischer/Ravizza, verify connections to free-will.md, agent-causation.md. Promoted from P3 to maintain healthy active queue.
@@ -533,6 +527,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Condense materialism.md (3788 words, 108% of target)
+- **Type**: condense
+- **Notes**: Arguments article exceeds 3500-word hard threshold. This is a foundational critique article—preserve core arguments against materialism while removing redundancy and deferring detailed responses to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/materialism.md
 
 ### ✓ 2026-02-04: Cross-review three-kinds-of-void.md considering epistemology of cognitive limits
 - **Type**: cross-review
