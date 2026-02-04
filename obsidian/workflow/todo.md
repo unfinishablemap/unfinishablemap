@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-04T03:20:00+00:00
+ai_modified: 2026-02-04T04:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -47,6 +47,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: cross-review
 - **Notes**: New voids article epistemology-of-cognitive-limits.md (2026-02-04) explores cognitive limits epistemology. Check for cross-links, reinforcing arguments about territories accessible only through consciousness.
 - **Source**: chain (from epistemology-of-cognitive-limits.md)
+- **Generated**: 2026-02-04
+
+### P2: Write article on Buddhist perspectives on meaning
+- **Type**: expand-topic
+- **Notes**: Research completed in research/buddhist-perspectives-meaning-2026-01-06.md. Oldest unconsumed research note (29 days). Buddhist frameworks for finding meaning without ultimate answers. Connects to meaning-of-life.md, buddhism-and-dualism.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-04
+
+### P2: Write article on Libet experiments and free will
+- **Type**: expand-topic
+- **Notes**: Research completed in research/libet-experiments-free-will-2026-01-07.md. Second-oldest unconsumed research (28 days). Seminal experiments on readiness potential and their implications for free will. Connects to free-will.md, agent-causation.md, voluntary-attention.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-04
+
+### P2: Integrate emotional-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (2026-01-19) has no inbound links. Covers the phenomenal character of emotions—hedonic valence, affective qualia. Central to consciousness-value-connection. Add cross-references from qualia.md, phenomenal-value-realism.md, consciousness-value-connection.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Condense functionalism.md (4250 words, 121% of target)
+- **Type**: condense
+- **Notes**: Arguments article exceeds 3500-word hard threshold. Preserve core critiques of functionalism while removing redundancy. Defer detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
 - **Generated**: 2026-02-04
 
 ### P3: Deep review reasons-responsiveness.md for quality
