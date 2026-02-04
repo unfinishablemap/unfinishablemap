@@ -236,7 +236,7 @@ The binding problem illuminates why the Map's [[tenets]] take the positions they
 - [[neural-binding-mechanisms]] — Focused treatment of classical and quantum binding mechanisms
 - [[unity-of-consciousness]] — The broader problem; binding is the synchronic dimension
 - [[phenomenal-unity]] — Phenomenal unity as metaphysical question
-- [[consciousness-and-meaning-integration]] — The binding problem extended to semantic content
+- [[consciousness-and-semantic-understanding]] — The binding problem extended to semantic content
 - [[combination-problem]] — How micro-experiences combine into macro-experience
 - [[quantum-binding-and-phenomenal-unity]] — Focused argument that entanglement explains unity
 - [[quantum-binding-experimental-evidence]] — Recent experimental evidence

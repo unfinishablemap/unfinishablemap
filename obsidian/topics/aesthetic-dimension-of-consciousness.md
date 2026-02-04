@@ -21,7 +21,7 @@ concepts:
   - "[[decoherence]]"
   - "[[cognitive-phenomenology]]"
   - "[[consciousness-and-creativity]]"
-  - "[[meaning-and-consciousness]]"
+  - "[[consciousness-and-semantic-understanding]]"
 related_articles:
   - "[[tenets]]"
   - "[[contemplative-evidence-for-consciousness-theories]]"
@@ -187,7 +187,7 @@ The aesthetic dimension of consciousness supports all five of the Map's foundati
 
 ## Further Reading
 
-- [[meaning-and-consciousness]] — The relationship between phenomenal consciousness and semantic meaning
+- [[consciousness-and-semantic-understanding]] — The relationship between phenomenal consciousness and semantic meaning
 - [[cognitive-phenomenology]] — The felt quality of thought, including aesthetic judgments about ideas
 - [[consciousness-and-creativity]] — Aesthetic judgment in the creative process
 - [[qualia]] — The broader problem of qualitative experience

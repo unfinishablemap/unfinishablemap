@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[meaning-and-consciousness]]"
+  - "[[consciousness-and-semantic-understanding]]"
   - "[[autonoetic-consciousness]]"
   - "[[cognitive-phenomenology]]"
   - "[[temporal-consciousness]]"
@@ -186,7 +186,7 @@ The Map adopts a qualified position: noetic consciousness involves genuine pheno
 
 ## Further Reading
 
-- [[meaning-and-consciousness]] — Why meaning may be constitutively phenomenal
+- [[consciousness-and-semantic-understanding]] — Why meaning may be constitutively phenomenal
 - [[intentionality]] — Aboutness and the phenomenal intentionality thesis
 - [[autonoetic-consciousness]] — Episodic memory's richer phenomenology
 - [[episodic-memory]] — The contrasting memory system with autonoetic character

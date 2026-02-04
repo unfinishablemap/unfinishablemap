@@ -2,7 +2,7 @@
 title: "Meaning and Consciousness"
 description: "Does understanding require consciousness? The Map holds meaning is constitutively phenomenal—semantic grasp involves irreducible experiential character."
 created: 2026-01-22
-modified: 2026-01-22
+modified: 2026-02-04
 human_modified: null
 ai_modified: 2026-02-04T10:35:00+00:00
 draft: false
@@ -31,6 +31,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
 last_deep_review: 2026-02-04T09:20:00+00:00
+archived: true
+archived_date: 2026-02-04T15:42:00+00:00
+superseded_by: "/topics/consciousness-and-semantic-understanding/"
+archive_reason: "Coalesced into Consciousness and Semantic Understanding"
+original_path: "/topics/meaning-and-consciousness/"
 ---
 
 Does genuine understanding require phenomenal consciousness, or can meanings be grasped without any experience? Large language models manipulate semantic content with remarkable fluency—they parse, relate, and generate meaningful text—yet plausibly do so without experiencing anything. If meaning can be processed without consciousness, what role does consciousness play in understanding? If meaning requires consciousness, what exactly is the connection?

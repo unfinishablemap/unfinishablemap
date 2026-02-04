@@ -23,7 +23,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-mathematical-understanding]]"
-  - "[[meaning-and-consciousness]]"
+  - "[[consciousness-and-semantic-understanding]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -218,7 +218,7 @@ Several findings would weaken the claim that understanding has irreducible pheno
 - [[temporal-structure-of-understanding]] — The temporal unfolding of comprehension
 - [[consciousness-and-mathematical-understanding]] — Mathematical insight as paradigm case
 - [[epistemic-emotions]] — Feelings directed at knowledge itself
-- [[meaning-and-consciousness]] — Whether meaning requires phenomenal experience
+- [[consciousness-and-semantic-understanding]] — Whether meaning requires phenomenal experience
 - [[phenomenology]] — The philosophical method of first-person investigation
 - [[working-memory]] — The cognitive system supporting understanding
 - [[consciousness-as-amplifier]] — How consciousness enables rather than accompanies cognition

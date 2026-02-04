@@ -28,7 +28,7 @@ concepts:
   - "[[working-memory]]"
   - "[[temporal-structure-of-understanding]]"
   - "[[specious-present]]"
-  - "[[meaning-and-consciousness]]"
+  - "[[consciousness-and-semantic-understanding]]"
 related_articles:
   - "[[tenets]]"
   - "[[cognitive-phenomenology-thinking-experience-2026-01-16]]"
@@ -255,7 +255,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 
 ## Further Reading
 
-- [[consciousness-and-meaning-integration]] — How consciousness weaves meanings into unified understanding
+- [[consciousness-and-semantic-understanding]] — How consciousness weaves meanings into unified understanding
 - [[consciousness-and-language-interface]] — The bidirectional, lossy interface between consciousness and language
 - [[temporal-structure-of-understanding]] — Understanding's temporal phenomenology
 - [[language-recursion-and-consciousness]] — Recursive language as evidence for consciousness-dependent cognition

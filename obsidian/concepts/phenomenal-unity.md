@@ -215,7 +215,7 @@ Phenomenal unity illuminates why the Map's [[tenets]] take the positions they do
 
 - [[process-and-consciousness]] — Apex synthesis: how process philosophy (Whitehead, Bergson) illuminates phenomenal unity through its account of actual occasions
 - [[unity-of-consciousness]] — Broader conceptual framing of what unity is and how it relates to binding, combination, and other problems
-- [[consciousness-and-meaning-integration]] — The parallel problem for meaning: how semantic elements combine into unified understanding
+- [[consciousness-and-semantic-understanding]] — The parallel problem for meaning: how semantic elements combine into unified understanding
 - [[neural-binding-mechanisms]] — Detailed analysis of classical binding mechanisms (gamma synchrony, thalamocortical loops) and why quantum entanglement succeeds where they fail
 - [[quantum-binding-experimental-evidence]] — Comprehensive analysis of 2022-2025 experimental support for quantum mechanisms underlying phenomenal unity
 - [[varieties-of-unity]] — Taxonomy of synchronic, diachronic, and subject unity with evidence for dissociation

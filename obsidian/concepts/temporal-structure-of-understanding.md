@@ -27,7 +27,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-mathematical-understanding]]"
-  - "[[meaning-and-consciousness]]"
+  - "[[consciousness-and-semantic-understanding]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -194,7 +194,7 @@ This doesn't prove AI cannot understand. It suggests that if AI does understand,
 - [[epistemic-emotions]] — Feelings of knowing, curiosity, and other understanding-related phenomenology
 - [[language-recursion-and-consciousness]] — How recursive structure processing reveals temporal phenomenology
 - [[duration]] — Bergson's concept of lived time as interpenetrating flow
-- [[meaning-and-consciousness]] — Related argument that meaning is constitutively phenomenal
+- [[consciousness-and-semantic-understanding]] — Related argument that meaning is constitutively phenomenal
 - [[phenomenology-of-choice]] — Parallels between the phenomenology of choosing and the phenomenology of understanding
 - [[agent-causation]] — Understanding as a case of conscious agency in cognition
 - [[decoherence]] — The quantum challenge to any consciousness-brain interface

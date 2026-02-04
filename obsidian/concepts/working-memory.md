@@ -187,7 +187,7 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 
 ## Further Reading
 
-- [[consciousness-and-meaning-integration]] — How multiple meanings are held and woven into unified understanding
+- [[consciousness-and-semantic-understanding]] — How multiple meanings are held and woven into unified understanding
 - [[consciousness-as-amplifier]] — How WM expansion enables cognitive amplification
 - [[language-recursion-and-consciousness]] — How recursive linguistic structure depends on expanded WM capacity
 - [[attention-as-interface]] — Attention as the causal bridge between consciousness and neural systems

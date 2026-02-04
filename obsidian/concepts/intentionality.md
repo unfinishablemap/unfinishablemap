@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
 concepts:
-  - "[[meaning-and-consciousness]]"
+  - "[[consciousness-and-semantic-understanding]]"
   - "[[qualia]]"
   - "[[functionalism]]"
   - "[[materialism]]"
@@ -90,7 +90,7 @@ This strengthens the case against naturalized intentionality. If intentionality 
 
 ### From Intentionality to Meaning
 
-The [[meaning-and-consciousness|Phenomenal Constitution Thesis]] (PCT) extends PIT to semantic content: meaning itself is constitutively phenomenal. To grasp a meaning *is* to have a certain kind of experience. Understanding that snow is white involves a distinctive "what it's like" that constitutes the semantic content—not merely accompanies it.
+The [[consciousness-and-semantic-understanding|Phenomenal Constitution Thesis]] (PCT) extends PIT to semantic content: meaning itself is constitutively phenomenal. To grasp a meaning *is* to have a certain kind of experience. Understanding that snow is white involves a distinctive "what it's like" that constitutes the semantic content—not merely accompanies it.
 
 PCT reinforces PIT with empirical evidence from [[semantic-memory|semantic memory]] research. The tip-of-the-tongue (TOT) state is particularly revealing: you have the meaning without the phonological form. The semantic content is phenomenally present—you know what you mean—but the word won't come. This dissociation shows meaning has phenomenal character independent of linguistic expression.
 
@@ -108,7 +108,7 @@ If PIT is correct, the implications are profound:
 
 ### Understanding as Phenomenal Binding
 
-Why does intentionality require phenomenal consciousness? The [[meaning-and-consciousness|meaning and consciousness]] analysis suggests a mechanistic answer: understanding complex content requires *binding* multiple elements into unified semantic representations. "The dog chased the cat" means something different from "The cat chased the dog" despite identical elements—the binding is structured.
+Why does intentionality require phenomenal consciousness? The [[consciousness-and-semantic-understanding|consciousness and semantic understanding]] analysis suggests a mechanistic answer: understanding complex content requires *binding* multiple elements into unified semantic representations. "The dog chased the cat" means something different from "The cat chased the dog" despite identical elements—the binding is structured.
 
 Consciousness appears required for such binding. The maintenance/manipulation distinction shows that merely holding information (maintenance) can be unconscious, but actively combining information into new structures (manipulation) requires conscious access. Semantic binding is manipulation—integrating elements into structured wholes. If binding requires consciousness, so does intentionality toward complex contents.
 
@@ -208,7 +208,7 @@ Intentionality connects to all five foundational tenets:
 
 ## Further Reading
 
-- [[meaning-and-consciousness]] — Why meaning is constitutively phenomenal (the Phenomenal Constitution Thesis)
+- [[consciousness-and-semantic-understanding]] — Why meaning is constitutively phenomenal (the Phenomenal Constitution Thesis)
 - [[semantic-memory]] — How meaning is stored, accessed, and experienced
 - [[phenomenology]] — The tradition that discovered and systematically investigates intentionality
 - [[phenomenal-intentionality]] — How consciousness grounds aboutness
