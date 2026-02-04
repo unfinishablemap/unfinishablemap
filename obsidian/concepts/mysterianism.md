@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-04T00:48:00+00:00
+ai_modified: 2026-02-04T04:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,12 +34,13 @@ related_articles:
   - "[[alien-minds-void-explorers]]"
   - "[[collective-cognitive-limits]]"
   - "[[altered-states-as-void-probes]]"
+  - "[[epistemology-of-cognitive-limits]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-02-04T00:48:00+00:00
+last_deep_review: 2026-02-04T04:35:00+00:00
 coalesced_from:
   - "/topics/mysterianism-cognitive-closure/"
 ---
@@ -110,33 +111,27 @@ This transforms mysterianism from pessimism into method. By mapping *where* thou
 
 ## Can We Know If the Limits Are Real?
 
-Can we determine if cognitive limits are genuine or merely apparent? The [[whether-real|voids article on this question]] reveals a peculiar epistemic situation: the question may be undecidable from within any limited system. We cannot step outside our faculties to check from a neutral position.
+Can we determine if cognitive limits are genuine or merely apparent? The [[whether-real|voids article on this question]] reveals a peculiar epistemic situation: the question may be undecidable from within any limited system. The [[epistemology-of-cognitive-limits|epistemology of cognitive limits]] explores this meta-level problem in depth, addressing Uriah Kriegel's challenge that if we can formulate a problem, we must possess conceptual resources to solve it—and Erhan Demircioglu's reply distinguishing *representational* closure (what we can frame) from *psychological* closure (what we can grasp). Metacognitive research complicates matters further: the Dunning-Kruger effect shows humans systematically miscalibrate about their own competencies, casting doubt on our confidence about what future understanding will achieve.
 
-Three positions emerge: **The Optimist** (Dennett) holds that cognitive closure remains undemonstrated—past mysteries dissolved when right concepts emerged. **The Pessimist** (McGinn, Chomsky) argues that any endowment providing scope also imposes limits; the hard problem's persistence across centuries suggests permanent closure. **The Suspended** position holds the question itself may be formally undecidable—a sufficiently deep cognitive closure would hide itself.
-
-Recognising that we cannot determine whether limits are permanent mandates epistemic humility.
+Three positions emerge: **The Optimist** holds that cognitive closure remains undemonstrated—past mysteries dissolved when right concepts emerged. **The Pessimist** argues that any endowment providing scope also imposes limits; the hard problem's persistence across centuries suggests permanent closure. **The Suspended** position holds the question itself may be formally undecidable—sufficiently deep cognitive closure would hide itself.
 
 ## Temporary Versus Permanent
 
-A key distinction within mysterianism:
+**Temporary mysterianism** holds that current science cannot explain consciousness, but future paradigm shifts might bridge the gap. The mystery is practical, not principled.
 
-**Temporary mysterianism** holds that current science cannot explain consciousness, but future paradigm shifts might bridge the gap. New concepts, new methods, new frameworks—something will eventually click. The mystery is practical, not principled.
+**Permanent mysterianism** holds that no amount of scientific progress will solve the problem for beings like us. We might build AIs that solve it, or encounter [[alien-minds-void-explorers|alien minds]] that understand it—but *we* never will. If cognitive closure is architecture-specific, different minds face different closures: where our map has void, theirs might have detail.
 
-**Permanent mysterianism** holds that cognitive closure is permanent. No amount of scientific progress will solve the problem for beings like us. We might build artificial intelligences that solve it, or encounter [[alien-minds-void-explorers|alien minds]] that understand it—but *we* never will. If cognitive closure is architecture-specific rather than universal, different minds face different closures: where our map has void, theirs might have detail.
-
-From our current perspective, both look identical—we cannot know in advance which problems are permanently closed.
+From our current perspective, both look identical—we cannot know which problems are permanently closed.
 
 ## Mysterianism's Virtues
 
-The position has several attractive features:
+**Takes consciousness seriously**. Unlike [[illusionism]] or eliminativism, mysterianism accepts phenomenal experience as real and genuinely puzzling.
 
-**Takes consciousness seriously**. Unlike [[illusionism]] or eliminativism, mysterianism accepts that phenomenal experience is real and genuinely puzzling. The failure is ours, not the phenomenon's.
+**Intellectually honest**. Acknowledges our ignorance rather than claiming to solve what remains unsolved.
 
-**Intellectually honest**. Mysterianism acknowledges our ignorance rather than claiming to solve what remains unsolved.
+**Explains the explanatory gap**. If we're cognitively closed to the property linking mind and brain, the [[explanatory-gap]] is exactly what we'd expect—we describe both sides without seeing the connection.
 
-**Explains the explanatory gap**. If we're cognitively closed to the property linking mind and brain, the [[explanatory-gap]] is exactly what we'd expect—we describe both sides without seeing the connection because it lies outside our conceptual reach.
-
-**Neutral on ontology**. Mysterianism doesn't require commitment to physicalism or dualism. The solution might be physicalist (some natural property P explains consciousness) or dualist (consciousness is irreducible) or something we can't conceive. All positions remain open.
+**Neutral on ontology**. Mysterianism doesn't require commitment to physicalism or dualism. The solution might be physicalist, dualist, or something we can't conceive.
 
 ## The Illusionist Challenge
 
@@ -209,6 +204,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [[minimal-consciousness]] — Complete neural mapping yet unknowable experience
 - [[phenomenology-of-the-edge]] — What cognitive closure feels like from the inside
 - [[altered-states-as-void-probes]] — Whether altered states can transcend cognitive closure or merely map its edges
+- [[epistemology-of-cognitive-limits]] — The meta-level question: how can we know our limits?
 - [[scale-void]] — Cognitive closure at work: why cosmic distances and deep time resist comprehension
 - [[causal-interface]] — The void between intention and action as cognitive closure in action
 - [[limits-reveal-structure]] — How cognitive limits reveal cognitive architecture
