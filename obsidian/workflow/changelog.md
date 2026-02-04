@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-04 16:57 UTC - research-voids
+- **Status**: Success
+- **Topic**: Developmental Cognitive Closure
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[research/voids-developmental-cognitive-closure-2026-02-04]]
+- **Key finding**: Development is not purely additive—cognitive maturation involves systematic tradeoffs where gaining abilities requires losing others (perceptual narrowing, critical period closure, synesthesia loss). Adult cognitive limits are partly *acquired* rather than innate.
+
+---
+
 ## 2026-02-04 16:12 UTC - condense
 - **Status**: Success
 - **File**: [[concepts/varieties-of-unity]]
