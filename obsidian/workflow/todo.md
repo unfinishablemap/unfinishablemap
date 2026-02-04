@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write voids article on epistemology of cognitive limits
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-epistemology-of-cognitive-limits-2026-02-04.md. Explores what we can know *about* knowing's limits—meta-epistemic analysis of the voids framework. The epistemology of cognitive limits is foundational for understanding what voids represent and how we identify them. Ready for article synthesis.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-04
-
 ### P2: Cross-review quantum-consciousness.md considering prebiotic-collapse insights
 - **Type**: cross-review
 - **Notes**: New article concepts/prebiotic-collapse.md (2026-02-03) addresses what caused quantum collapse before conscious observers. The quantum-consciousness.md concept page should be cross-reviewed for: (1) cross-links to prebiotic collapse treatment, (2) how objective reduction baseline relates to consciousness-caused collapse arguments, (3) consistent handling of the "collapse before minds" objection.
@@ -515,6 +509,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Write voids article on epistemology of cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-epistemology-of-cognitive-limits-2026-02-04.md. Explores what we can know *about* knowing's limits—meta-epistemic analysis of the voids framework. The epistemology of cognitive limits is foundational for understanding what voids represent and how we identify them. Ready for article synthesis.
+- **Output**: Write voids article on epistemology of cognitive limits
 
 ### ✓ 2026-02-04: Cross-review filter-theory.md considering altered-states-as-void-probes insights
 - **Type**: cross-review
