@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense many-worlds.md (3704 words, 148% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Currently at 148% of target. The Map's rejection of MWI is foundational but may benefit from tighter expression. Preserve the core indexical identity argument while streamlining technical quantum mechanics background.
-- **Source**: length_analysis
-- **Generated**: 2026-02-03
-
 ### P2: Cross-review filter-theory.md considering altered-states-as-void-probes insights
 - **Type**: cross-review
 - **Notes**: New voids article altered-states-as-void-probes.md raises questions about whether altered states provide genuine filter-bypassing or merely simulate such access. filter-theory.md should address this distinction explicitly. Check for cross-links and theoretical consistency.
@@ -497,6 +491,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Condense many-worlds.md (3704 words, 148% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Currently at 148% of target. The Map's rejection of MWI is foundational but may benefit from tighter expression. Preserve the core indexical identity argument while streamlining technical quantum mechanics background.
+- **Output**: obsidian/concepts/many-worlds.md
 
 ### ✓ 2026-02-04: Cross-review stapp-quantum-mind.md considering attention-motor-quantum-interface insights
 - **Type**: cross-review
