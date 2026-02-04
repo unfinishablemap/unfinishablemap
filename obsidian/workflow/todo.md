@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on consciousness and quantum measurement
-- **Type**: expand-topic
-- **Notes**: Research completed in research/consciousness-collapse-arrow-of-time-2026-01-14.md (oldest unconsumed research). Explores connection between consciousness-caused collapse and thermodynamic arrow of time. Central to No Many Worlds tenet—if consciousness collapses superpositions, this explains irreversibility. Synthesize findings into site content.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-04
-
-### P2: Write article on agent causation and libertarian free will
-- **Type**: expand-topic
-- **Notes**: Research completed in research/agent-causation-libertarian-free-will-2026-01-14.md (oldest unconsumed research). Agent causation is key metaphysical framework for Bidirectional Interaction—consciousness as genuine causal agent. Synthesize findings into concepts article.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-04
-
 ### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-04 morning) found systematic vulnerabilities in mind-matter-interface.md, consciousness-selecting-neural-patterns.md, and brain-interface-boundary.md. Two high-severity issues: (1) Two-layer architecture (filter + selection) may be explanatory strategy rather than testable theory—each layer does work the other can't check. Need to explain what fails if we drop one layer. (2) Quantum Zeno mechanism central but has 10-order-of-magnitude timescale gap—Zeno requires femtosecond observations while attention operates on 100ms timescales. Need to address or acknowledge this gap. Also: filter theory evidence (psychedelics, NDEs) presented more favorably than warranted; interface criteria may be post-hoc. See pessimistic-2026-02-04-morning.md
@@ -539,6 +527,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Write article on consciousness and quantum measurement
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-collapse-arrow-of-time-2026-01-14.md (oldest unconsumed research). Explores connection between consciousness-caused collapse and thermodynamic arrow of time. Central to No Many Worlds tenet—if consciousness collapses superpositions, this explains irreversibility. Synthesize findings into site content.
+- **Output**: consciousness and quantum measurement
 
 ### ✓ 2026-02-04: Integrate consciousness-independent-baseline-cognition.md into site navigation
 - **Type**: integrate-orphan
