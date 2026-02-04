@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Cross-review temporal-asymmetry-remembering-anticipating.md considering temporal consciousness void
-- **Type**: cross-review
-- **Notes**: New article voids/temporal-consciousness-void.md (2026-02-04) explores consciousness's confinement to the moving present. The temporal-asymmetry article should be cross-reviewed for: (1) cross-links to the new temporal void treatment, (2) whether the asymmetry between memory and anticipation is an aspect of the broader temporal confinement, (3) consistency in treatment of the specious present and Husserl's tripartite structure.
-- **Source**: chain (from temporal-consciousness-void.md)
-- **Generated**: 2026-02-04
-
 ### P2: Integrate phenomenology-of-temporal-agency.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-01) has no inbound links. Covers the phenomenology of choosing across time—planning, commitment, temporal self-binding. Central to free will discussions. Add cross-references from free-will.md, temporal-consciousness.md, agent-causation.md, phenomenology-of-choice.md.
@@ -551,6 +545,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Cross-review temporal-asymmetry-remembering-anticipating.md considering temporal consciousness void
+- **Type**: cross-review
+- **Notes**: New article voids/temporal-consciousness-void.md (2026-02-04) explores consciousness's confinement to the moving present. The temporal-asymmetry article should be cross-reviewed for: (1) cross-links to the new temporal void treatment, (2) whether the asymmetry between memory and anticipation is an aspect of the broader temporal confinement, (3) consistency in treatment of the specious present and Husserl's tripartite structure.
+- **Output**: obsidian/voids/temporal-asymmetry-remembering-anticipating.md -- Context: Cross-review temporal-asymmetry-remembering-anticipating.md considering temporal consciousness void
 
 ### ✓ 2026-02-04: Write voids article on temporal consciousness void
 - **Type**: expand-topic
