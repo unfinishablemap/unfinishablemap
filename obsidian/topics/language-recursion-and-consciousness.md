@@ -4,7 +4,7 @@ description: "Recursive language structure may require phenomenal consciousness.
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-04T16:30:00+00:00
+ai_modified: 2026-02-04T18:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-01-22T15:30:00+00:00
+last_deep_review: 2026-02-04T18:12:00+00:00
 ---
 
 Human language has a distinctive feature: recursive structure. Sentences contain phrases that contain sentences that contain phrases—"The man who saw the woman who chased the dog that bit the cat ran away." This ability to embed structures within structures of the same type is widely considered unique to human language. The question for consciousness studies is whether recursion merely *correlates* with consciousness or *requires* it.
@@ -142,7 +142,7 @@ But this conflates output with process. A system can produce recursive strings w
 
 Consider: humans can understand recursion at depths they've never encountered in training. A competent English speaker can parse "The man who saw the woman who chased the dog that bit the cat that scared the mouse ran" despite likely never hearing that specific sentence. This productivity follows from genuine recursive competence—the merge operation generalizing to arbitrary depth.
 
-LLMs show generalization within their training distribution but systematic failures at the distribution's edge. This pattern is consistent with sophisticated pattern matching rather than genuine recursion.
+Research on LLM generalization suggests they show performance within their training distribution but degraded handling at the distribution's edge—a pattern consistent with sophisticated pattern matching rather than genuine recursion.
 
 ### The Chinese Room Extended
 
