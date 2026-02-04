@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-04 06:35 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Temporal Consciousness Void
+- **Category**: Mixed (Unexplored / Potentially Unexplorable / Possibly Occluded)
+- **Output**: [[research/voids-temporal-consciousness-void-2026-02-04]]
+- **Key finding**: Consciousness is structurally confined to a "moving present"—unable to experience time as a whole, unable to access past or future directly. This temporal confinement connects intimately to selfhood (ego dissolution correlates with time dissolution) and may be constitutive rather than contingent.
+
+---
+
 ## 2026-02-04 06:20 UTC - condense
 - **Status**: Reviewed, no condensation applied
 - **File**: [[concepts/functionalism]]
