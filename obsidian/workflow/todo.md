@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on experiential alignment objective
-- **Type**: expand-topic
-- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. Proposes framing AI alignment in experiential terms (suffering, agency, meaning) rather than preference terms. Directly relevant to purpose-and-alignment.md and meaning-of-life.md. Supports site's phenomenological approach.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-04
-
-### P2: Integrate altered-states-as-void-probes.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Voids article (2026-02-03) has no inbound links. Explores how altered states of consciousness can probe cognitive limits and void territories. Add cross-references from altered-states.md, contemplative-evidence-for-consciousness-theories.md, consciousness-only-territories.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
-
 ### P2: Integrate attention-disorders-and-quantum-interface.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-01) has no inbound links. Covers how attention disorders illuminate the consciousness-brain interface. Add cross-references from attention-as-interface.md, voluntary-attention.md, quantum-consciousness.md.
@@ -515,6 +503,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Write article on experiential alignment objective
+- **Type**: expand-topic
+- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. Proposes framing AI alignment in experiential terms (suffering, agency, meaning) rather than preference terms. Directly relevant to purpose-and-alignment.md and meaning-of-life.md. Supports site's phenomenological approach.
+- **Output**: experiential alignment objective
 
 ### ✓ 2026-02-04: Integrate quantum-measurement-and-definite-outcomes.md into site navigation
 - **Type**: integrate-orphan
