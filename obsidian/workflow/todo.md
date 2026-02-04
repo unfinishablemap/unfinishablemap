@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-04T19:27:00+00:00
+ai_modified: 2026-02-04T20:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -42,6 +42,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
+
+### P2: Review quantum-measurement-and-definite-outcomes.md considering consciousness-and-quantum-measurement insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-quantum-measurement.md (2026-02-04) explores the structural parallel between measurement and hard problems. Check quantum-measurement-and-definite-outcomes.md for cross-link opportunities, reinforcing arguments about why decoherence doesn't solve the measurement problem, or terminology consistency.
+- **Source**: chain (from consciousness-and-quantum-measurement.md)
+- **Generated**: 2026-02-04
+
+### P2: Integrate consciousness-and-quantum-measurement.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: New article (2026-02-04) has no inbound links. Add cross-references from hard-problem-of-consciousness.md, quantum-consciousness.md, measurement-problem.md, and related quantum interpretation articles. Central to the Map's framework connecting consciousness to physics.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
 
 ### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
 - **Type**: refine-draft
