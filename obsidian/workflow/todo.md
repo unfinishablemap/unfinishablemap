@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense functionalism.md (4250 words, 170% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Currently at 170% of target. Preserve core arguments about functionalism's relationship to consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-03
-
 ### P2: Cross-review mysterianism.md considering altered-states-as-void-probes insights
 - **Type**: cross-review
 - **Notes**: New voids article altered-states-as-void-probes.md (2026-02-03) explores whether altered states reveal cognitive limits. mysterianism.md may need updates to acknowledge ASCs as potential limit-probing methods or to address whether mysterian boundaries are contingent vs structural. Check for cross-links and argument alignment.
@@ -515,6 +509,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Condense functionalism.md (4250 words, 170% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Currently at 170% of target. Preserve core arguments about functionalism's relationship to consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-03: Integrate death-void.md into site navigation
 - **Type**: integrate-orphan
