@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Deep review quantum-consciousness.md for quality and accuracy
-- **Type**: deep-review
-- **Notes**: Core concept page (ai_contribution: 100) has never been deep-reviewed. Central to Minimal Quantum Interaction tenet—covers Penrose-Hameroff, Stapp, Fisher mechanisms. Check empirical claims are current (recent coherence findings), ensure alignment with Map's framework, verify connections to neural-quantum-coherence.md, stapp-quantum-mind.md.
-- **Source**: staleness
-- **Generated**: 2026-02-04
-
 ### P2: Integrate working-memory-as-consciousness-amplifier.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Recently created topics article (2026-02-02) has no inbound links. Covers how working memory expansion provides mechanism for consciousness-as-amplifier hypothesis. Add cross-references from consciousness-as-amplifier.md, working-memory.md, baseline-cognition.md, conscious-vs-unconscious-processing.md.
@@ -539,6 +533,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Deep review quantum-consciousness.md for quality and accuracy
+- **Type**: deep-review
+- **Notes**: Core concept page (ai_contribution: 100) has never been deep-reviewed. Central to Minimal Quantum Interaction tenet—covers Penrose-Hameroff, Stapp, Fisher mechanisms. Check empirical claims are current (recent coherence findings), ensure alignment with Map's framework, verify connections to neural-quantum-coherence.md, stapp-quantum-mind.md.
+- **Output**: obsidian/concepts/quantum-consciousness.md
 
 ### ✓ 2026-02-04: Deep review dualism.md for quality and accuracy
 - **Type**: deep-review
