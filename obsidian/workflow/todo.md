@@ -49,6 +49,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-02-04
 
+### P2: Review conceptual-acquisition-limits.md considering developmental-cognitive-closure insights
+- **Type**: cross-review
+- **Notes**: New voids article developmental-cognitive-closure.md (2026-02-04) explores how cognitive maturation closes perceptual and conceptual territory—voids we acquire rather than inherit. Check conceptual-acquisition-limits.md for opportunities to add cross-links, discuss how developmental closure differs from innate conceptual limits, and ensure consistency in how both articles treat cognitive boundaries.
+- **Source**: chain (from developmental-cognitive-closure.md)
+- **Generated**: 2026-02-04
+
+### P2: Review temporal-asymmetry-remembering-anticipating.md considering temporal-consciousness-void insights
+- **Type**: cross-review
+- **Notes**: New voids article temporal-consciousness-void.md (2026-02-04) explores why consciousness is confined to a moving present. Check temporal-asymmetry-remembering-anticipating.md for opportunities to add cross-links, discuss how temporal confinement relates to the asymmetry between memory and anticipation, and strengthen connections to Husserl's retention/protention analysis.
+- **Source**: chain (from temporal-consciousness-void.md)
+- **Generated**: 2026-02-04
+
 ### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-04 morning) found systematic vulnerabilities in mind-matter-interface.md, consciousness-selecting-neural-patterns.md, and brain-interface-boundary.md. Two high-severity issues: (1) Two-layer architecture (filter + selection) may be explanatory strategy rather than testable theory—each layer does work the other can't check. Need to explain what fails if we drop one layer. (2) Quantum Zeno mechanism central but has 10-order-of-magnitude timescale gap—Zeno requires femtosecond observations while attention operates on 100ms timescales. Need to address or acknowledge this gap. Also: filter theory evidence (psychedelics, NDEs) presented more favorably than warranted; interface criteria may be post-hoc. See pessimistic-2026-02-04-morning.md
