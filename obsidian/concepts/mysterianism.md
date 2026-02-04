@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-01T15:06:00+00:00
+ai_modified: 2026-02-04T00:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,12 +33,13 @@ related_articles:
   - "[[causal-interface]]"
   - "[[alien-minds-void-explorers]]"
   - "[[collective-cognitive-limits]]"
+  - "[[altered-states-as-void-probes]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-02-01T15:06:00+00:00
+last_deep_review: 2026-02-04T00:48:00+00:00
 coalesced_from:
   - "/topics/mysterianism-cognitive-closure/"
 ---
@@ -97,7 +98,7 @@ Two distinct types of limits converge here. [[computational-cognitive-limits|Com
 
 What does it feel like to approach a cognitive limit? The [[phenomenology-of-the-edge|voids article on edge-phenomenology]] maps this territory. When consciousness approaches limits through contemplative practice, psychedelics, or philosophical inquiry, consistent features appear: ineffability combined with felt knowledge, ego dissolution paired with enhanced clarity, temporal distortion alongside unbounded possibility.
 
-Cross-method convergence matters epistemically—these aren't artifacts of particular methods but features of consciousness at its limits. McGinn argues theoretically that certain properties lie beyond our conceptual reach; edge-phenomenology suggests we can *experience* that boundary. The [[thoughts-that-slip-away|dissolving-insight phenomenon]]—thoughts that vanish completely upon return—may mark encounters with representationally closed territory. [[cognitive-aversion|Cognitive aversion]] offers a related hypothesis: some thoughts we now avert would, if sustained, reveal genuine closure—aversion might be the first phenomenological manifestation of approaching the architecturally closed. Cognitive closure has a phenomenology, and that phenomenology is data.
+Cross-method convergence matters epistemically—these aren't artifacts of particular methods but features of consciousness at its limits. McGinn argues theoretically that certain properties lie beyond our conceptual reach; edge-phenomenology suggests we can *experience* that boundary. [[altered-states-as-void-probes|Altered states research]] poses a sharp question: do psychedelics, meditation, and mystical experiences *transcend* cognitive closure or merely *approach* it? If ASCs consistently produce the phenomenology of transcendence without yielding communicable insight or cross-subject triangulation, this supports McGinn—even extraordinary consciousness cannot escape our limits. The [[thoughts-that-slip-away|dissolving-insight phenomenon]]—thoughts that vanish completely upon return—may mark encounters with representationally closed territory. [[cognitive-aversion|Cognitive aversion]] offers a related hypothesis: some thoughts we now avert would, if sustained, reveal genuine closure. Cognitive closure has a phenomenology, and that phenomenology is data.
 
 ## What the Limits Reveal
 
@@ -127,9 +128,9 @@ From our current perspective, both look identical—we cannot know in advance wh
 
 The position has several attractive features:
 
-**Takes consciousness seriously**. Unlike [[illusionism]] or eliminativism, mysterianism accepts that phenomenal experience is real and genuinely puzzling. Something needs explaining. The failure is ours, not the phenomenon's.
+**Takes consciousness seriously**. Unlike [[illusionism]] or eliminativism, mysterianism accepts that phenomenal experience is real and genuinely puzzling. The failure is ours, not the phenomenon's.
 
-**Intellectually honest**. Mysterianism acknowledges the depth of our ignorance rather than claiming to solve what remains unsolved.
+**Intellectually honest**. Mysterianism acknowledges our ignorance rather than claiming to solve what remains unsolved.
 
 **Explains the explanatory gap**. If we're cognitively closed to the property linking mind and brain, the [[explanatory-gap]] is exactly what we'd expect—we describe both sides without seeing the connection because it lies outside our conceptual reach.
 
@@ -163,21 +164,21 @@ After millennia of philosophical investigation and decades of neuroscience, the 
 
 ### The Defeatism Objection
 
-Daniel Dennett and the Churchlands argue that mysterianism discourages investigation. Declaring a problem unsolvable encourages giving up prematurely. We cannot know in advance what problems are unsolvable, so we should keep trying.
+Daniel Dennett and the Churchlands argue mysterianism discourages investigation—declaring a problem unsolvable encourages giving up prematurely.
 
-The mysterian response: we can continue investigating consciousness while acknowledging that success isn't guaranteed. Noting that centuries of effort have yielded little progress is observation, not surrender.
+The mysterian response: we can investigate while acknowledging success isn't guaranteed. Noting that centuries have yielded little progress is observation, not surrender.
 
 ### The Vitalism Analogy
 
 Critics note that "life" once seemed as mysterious as consciousness. Vitalists thought some *élan vital* explained living matter. But biology explained life through chemistry and physics—no mystery remained. Perhaps consciousness will follow.
 
-The mysterian response: consciousness differs from life. Life's "mystery" was explaining coordinated behavior and reproduction—functional properties that turned out to be mechanistically explicable. Consciousness's mystery is explaining why there's subjective experience at all. That's not a functional property; it's the existence of an inner perspective. The analogy fails.
+The mysterian response: consciousness differs from life. Life's "mystery" was explaining coordinated behavior and reproduction—functional properties that turned out to be mechanistically explicable. Consciousness's mystery is why there's subjective experience at all—not a functional property but the existence of an inner perspective. The analogy fails.
 
 ### The Squirrel Objection
 
 If McGinn's argument works, why doesn't it apply everywhere? Why think consciousness is specially closed when we successfully understand many things?
 
-The mysterian response: we succeed with properties that fall within our cognitive reach. Consciousness happens to fall outside it. This isn't surprising—some properties must fall outside any finite cognitive architecture. The question is which ones. The persistence of the hard problem suggests consciousness is among them.
+The mysterian response: we succeed with properties that fall within our cognitive reach; consciousness happens to fall outside. Some properties must fall outside any finite cognitive architecture—the question is which ones. The persistence of the hard problem suggests consciousness is among them.
 
 ## Relation to the Map's Perspective
 
@@ -205,6 +206,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [[consciousness-and-mathematical-understanding]] — Mathematical insight as evidence for cognitive limits
 - [[minimal-consciousness]] — Complete neural mapping yet unknowable experience
 - [[phenomenology-of-the-edge]] — What cognitive closure feels like from the inside
+- [[altered-states-as-void-probes]] — Whether altered states can transcend cognitive closure or merely map its edges
 - [[scale-void]] — Cognitive closure at work: why cosmic distances and deep time resist comprehension
 - [[causal-interface]] — The void between intention and action as cognitive closure in action
 - [[limits-reveal-structure]] — How cognitive limits reveal cognitive architecture
