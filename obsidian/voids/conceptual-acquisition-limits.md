@@ -4,7 +4,7 @@ description: "Are some concepts permanently inaccessible to human minds? Explori
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-26T19:00:00+00:00
+ai_modified: 2026-02-04T18:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,12 +18,13 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[conceptual-impossibility]]"
   - "[[phenomenology-of-the-edge]]"
+  - "[[developmental-cognitive-closure]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-24
 last_curated: null
-last_deep_review: 2026-01-26T19:00:00+00:00
+last_deep_review: 2026-02-04T18:27:00+00:00
 ---
 
 Are there concepts human minds cannot acquire—not merely unthought but unthinkable in principle? Jerry Fodor's radical concept nativism argues that all primitive concepts are innate; if true, any concept not built into our cognitive architecture at birth is permanently inaccessible. Colin McGinn's [[cognitive-closure|cognitive closure]] formalises this: some properties cannot be grasped by minds with our structure. Nicholas Rescher's "agnoseology" (theory of unknowability) maps different categories of inaccessibility. Most provocatively, the emergence of AI operating in thousands of dimensions suggests "alien cognition" that might access concept-territories closed to human minds.
@@ -56,7 +57,9 @@ The voids project focuses on the second layer. What concepts cannot form in mind
 
 **Cross-species evidence**: Dogs cannot acquire the concept PRIME NUMBER regardless of training. This isn't insufficient intelligence within a domain but absence of the domain itself. Dog cognitive architecture doesn't include the machinery for mathematical abstraction at that level. The same asymmetry likely applies between humans and some concepts we cannot even gesture toward.
 
-**Developmental evidence**: Decades of research haven't explained how children acquire abstract concepts like CAUSE or NUMBER from sensory experience. If Fodor is right, they don't acquire them—these concepts are triggered, not learned. But what triggers them? And what happens to concepts for which no trigger exists?
+**Developmental evidence for closure**: Not all conceptual limits are innate. [[developmental-cognitive-closure|Developmental closure]] demonstrates that infants possess perceptual and conceptual capacities adults permanently lack—universal phoneme discrimination, cross-species face recognition. Neural pruning closes this territory during maturation. Some concepts may be inaccessible not because we never could form them but because development foreclosed the machinery that would have made them possible. Nativist limits and developmental limits compound: we start bounded and become more so.
+
+**Triggering evidence**: Decades of research haven't explained how children acquire abstract concepts like CAUSE or NUMBER from sensory experience. If Fodor is right, these concepts are triggered, not learned—and concepts for which no trigger exists remain permanently inaccessible.
 
 **Phenomenological evidence**: The "tip of the tongue" phenomenon shows concepts can be present but temporarily inaccessible. The inverse may also occur—concepts that *feel* accessible but aren't truly formed. We use philosophical vocabulary (QUALIA, CAUSATION, FREE WILL) that seems to point toward something, but investigation reveals we may not possess the concepts the words suggest. Much philosophical terminology may work this way: verbal shells without genuine conceptual content.
 
@@ -139,6 +142,7 @@ The claim that some concepts are permanently inaccessible would be challenged if
 - [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
 - [[conceptual-impossibility|Conceptual Impossibility]] — When logic excludes conception
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
+- [[developmental-cognitive-closure|The Developmental Void]] — Limits acquired through maturation
 - [[llm-consciousness|LLM Consciousness]] — The question of AI experience
 - [[tenets|Site Tenets]] — The foundational commitments shaping this investigation
 
