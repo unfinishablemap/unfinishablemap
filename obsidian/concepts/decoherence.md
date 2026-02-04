@@ -4,7 +4,7 @@ description: "Decoherence challenges quantum consciousness theories, but biology
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-02-02T05:22:00+00:00
+ai_modified: 2026-02-04T03:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -59,7 +59,7 @@ Decoherence explains why we don't observe superpositions—interference effects 
 
 As the Stanford Encyclopedia of Philosophy states: "Decoherence as such does not provide a solution to the measurement problem, at least not unless it is combined with an appropriate foundational approach." The dedicated [[measurement-problem|measurement problem article]] explores the various interpretations (Copenhagen, Many-Worlds, GRW, Bohmian, consciousness-based) and why The Unfinishable Map rejects Many-Worlds while remaining open to consciousness-based approaches.
 
-This distinction—between **basis selection** (which basis becomes preferred) and **outcome selection** (which particular outcome actualizes)—is crucial and often missed. The [[quantum-decoherence-objection]] article emphasizes this point: decoherence explains why we observe position eigenstates rather than momentum eigenstates, for instance, but it does not explain why we observe *this particular position* rather than that one. The measurement problem persists after decoherence.
+This distinction—between **basis selection** (which basis becomes preferred) and **outcome selection** (which particular outcome actualizes)—is crucial and often missed. The [[quantum-decoherence-objection]] article emphasizes this point: decoherence explains why we observe position eigenstates rather than momentum eigenstates, for instance, but it does not explain why we observe *this particular position* rather than that one. The measurement problem persists after decoherence. See [[quantum-measurement-and-definite-outcomes]] for extended analysis of this gap and how consciousness might fill it.
 
 This matters for the Map's perspective. If decoherence fully explained measurements, consciousness would have no role. But decoherence merely establishes preferred bases—it doesn't collapse them. Something must select which outcome occurs. The [[tenets#^no-many-worlds|No Many Worlds]] tenet holds that outcomes are genuinely selected, not merely experienced in branching universes. Consciousness remains a candidate for what does the selecting.
 

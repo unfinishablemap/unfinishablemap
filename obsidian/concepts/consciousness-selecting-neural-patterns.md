@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-31T00:13:00+00:00
+ai_modified: 2026-02-04T03:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -59,7 +59,7 @@ These aren't mutually exclusive. Selection might operate at multiple levels: mic
 
 ### How Selection Works
 
-Selection operates through the [[measurement-problem|quantum measurement process]]. Standard quantum mechanics describes particles in superposition until "measured," at which point superposition collapses to a definite outcome. Physics explains why collapse yields probabilistic distributions but not why any particular outcome occurs. Something must select.
+Selection operates through the [[measurement-problem|quantum measurement process]]. Standard quantum mechanics describes particles in superposition until "measured," at which point superposition collapses to a definite outcome. Physics explains why collapse yields probabilistic distributions but not why any particular outcome occurs. Something must select. The [[quantum-measurement-and-definite-outcomes|definite outcomes problem]] is precisely where this gap opens: physics determines the *distribution* of outcomes but not which individual outcome becomes actual.
 
 This is the opening for consciousness. At quantum indeterminacies, physical causes are necessary but not sufficient. [[causal-closure|Causal closure]]—the thesis that every physical event has a sufficient physical cause—fails precisely where collapse occurs. Consciousness operates at this gap, selecting outcomes without competing with or overriding physical causes.
 

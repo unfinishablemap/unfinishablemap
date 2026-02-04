@@ -4,7 +4,7 @@ description: "GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-02-03T23:33:00+00:00
+ai_modified: 2026-02-04T03:35:00+00:00
 draft: false
 last_deep_review: 2026-02-03T23:33:00+00:00
 topics: []
@@ -142,7 +142,7 @@ This is not a defeat. Science routinely works with effective theories whose ulti
 - **Decoherence**: Environmental interaction destroys quantum coherence *in practice*, creating *appearance* of collapse. Wave function still exists in superposition; we just can't access it. No modification of quantum mechanics.
 - **Spontaneous collapse**: Wave function *actually collapses* as objective physical process. Modifies quantum mechanics with nonlinear/stochastic terms.
 
-Decoherence explains why macroscopic systems look classical but doesn't solve the [[measurement-problem|measurement problem]]—it doesn't select definite outcomes. Collapse theories do. Hybrid models are possible: decoherence rapidly narrows basis options (basis selection), then spontaneous collapse or consciousness selects the outcome (outcome selection). See [[quantum-decoherence-objection]] for detailed analysis.
+Decoherence explains why macroscopic systems look classical but doesn't solve the [[measurement-problem|measurement problem]]—it doesn't select [[quantum-measurement-and-definite-outcomes|definite outcomes]]. Collapse theories do. Hybrid models are possible: decoherence rapidly narrows basis options (basis selection), then spontaneous collapse or consciousness selects the outcome (outcome selection). See [[quantum-decoherence-objection]] for detailed analysis.
 
 ## Comparison of Major Theories
 

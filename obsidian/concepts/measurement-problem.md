@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-02-04T02:50:00+00:00
+ai_modified: 2026-02-04T03:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -183,6 +183,7 @@ The measurement problem is central to the Map's framework. It creates the logica
 
 ## Further Reading
 
+- [[quantum-measurement-and-definite-outcomes]] — Extended treatment of why definite outcomes occur and where consciousness might participate
 - [[indexical-identity-quantum-measurement]] — The indexical gap all interpretations leave untreated
 - [[quantum-probability-consciousness]] — Born probabilities as interface structure
 - [[many-worlds]] — Arguments against MWI

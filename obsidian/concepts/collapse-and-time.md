@@ -4,7 +4,7 @@ description: "Wavefunction collapse introduces temporal asymmetry into physics. 
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-27T00:06:03+00:00
+ai_modified: 2026-02-04T03:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,7 +57,7 @@ The dominant view in contemporary physics treats apparent collapse as [[decohere
 
 Decoherence is technically reversible—it follows unitary evolution at the system-plus-environment level. The irreversibility is thermodynamic: like unscrambling an egg, reversal requires precise coordination of vastly many particles. The quantum "arrow" would then reduce to the entropic arrow, which traces to the Past Hypothesis (the universe's low-entropy initial state).
 
-But decoherence doesn't solve the [[measurement-problem|measurement problem]]. It explains why we don't observe superpositions of macroscopic objects, but not why we observe definite outcomes rather than superpositions of *us* observing different outcomes. The selector problem remains—and consciousness remains a candidate selector.
+But decoherence doesn't solve the [[measurement-problem|measurement problem]]. It explains why we don't observe superpositions of macroscopic objects, but not why we observe [[quantum-measurement-and-definite-outcomes|definite outcomes]] rather than superpositions of *us* observing different outcomes. The selector problem remains—and consciousness remains a candidate selector.
 
 ### Time-Symmetric Interpretations: Atemporal Collapse
 
