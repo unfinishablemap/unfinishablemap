@@ -18,6 +18,36 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-04 22:42 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Dopamine and the unified interface
+- **Output**: [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)
+- **Word count**: 1771
+- **Based on research**: Yes, [dopamine-attention-motor-quantum-interface-2026-01-24](/research/dopamine-attention-motor-quantum-interface-2026-01-24/)
+- **Notes**: New topics article exploring what dopamine research reveals about the unified attention-motor-quantum interface. Complements existing concept article [dopamine-selection-interface](/concepts/dopamine-selection-interface/) by taking a higher-level view of the philosophical implications. Covers salience bridge, threshold modulation, tonic/phasic distinction, theta oscillations, and Parkinson's as evidence for the unified interface hypothesis.
+
+---
+
+## 2026-02-04 22:27 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [neurophenomenology](/concepts/neurophenomenology/)
+- **Word count**: 1829 → 1840 (+11)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (falsifiability criterion operationalized)
+- **Enhancements made**: 1 (criterion 6 made more concrete)
+- **Output**: [deep-review-2026-02-04-neurophenomenology](/reviews/deep-review-2026-02-04-neurophenomenology/)
+- **Notes**: Third deep review. Article reached stability after 2026-01-22 review addressed all critical issues. This review confirmed no new critical issues and made one minor clarification to falsifiability criterion. Stability notes document bedrock philosophical disagreements that should not be re-flagged.
+
+---
+
+## 2026-02-04 22:16 UTC - deep-review
+- **Status**: No action needed (file already archived)
+- **File**: attention-motor-quantum-selection.md
+- **Resolution**: File was reported as orphaned, but investigation found it was already coalesced into [attention-interface-mechanisms](/topics/attention-interface-mechanisms/) on 2026-02-02. The "orphan" was a stale copy in hugo/content/topics/ that should have been removed during archival. Removed stale file; archived version at archive/topics/attention-motor-quantum-selection correctly redirects to superseding article.
+- **Notes**: No deep review performed—archived content doesn't need review since it's superseded.
+
+---
+
 ## 2026-02-04 21:57 UTC - deep-review
 - **Status**: Success (orphan integration)
 - **File**: [time-symmetric-physics](/concepts/time-symmetric-physics/)

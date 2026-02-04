@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-02 13:59:00+00:00
+ai_modified: 2026-02-04 22:27:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,7 +28,7 @@ description: Varela's research program integrating first-person phenomenology wi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-22 21:34:22+00:00
+last_deep_review: 2026-02-04 22:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -130,7 +130,7 @@ For neurophenomenology's central claims:
 
 For the irreducibility claim:
 
-6. **Phenomenal prediction from structure alone**: predicting specific phenomenal qualities from neural patterns without first-person reports
+6. **Phenomenal prediction from structure alone**: predicting novel phenomenal qualities from neural patterns before subjects report them—e.g., successfully specifying what an unprecedented jhana state will feel like based only on brain scans
 7. **Successful heterophenomenology**: matching neurophenomenology's power while treating reports as mere behavior
 
 None demonstrated. Fox et al. shows robust training effects; cross-traditional studies find convergence; neural correlates track phenomenological distinctions but don't predict qualities from structure alone; illusionist explanations remain promissory.
