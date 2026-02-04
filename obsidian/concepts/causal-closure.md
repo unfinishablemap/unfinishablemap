@@ -163,7 +163,7 @@ See [[quantum-consciousness#The Decoherence Objection|the decoherence response]]
 
 This argument appears in formal premise-conclusion form in the [[interactionist-dualism|argument for interactionist dualism]]: the closure objection fails because physics does not exclude mental causation at quantum indeterminacies.
 
-This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness influences physical outcomes at quantum indeterminacies, where the physical story runs out.
+This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness influences physical outcomes at quantum indeterminacies, where the physical story runs out. The [[consciousness-and-quantum-measurement|connection between the measurement problem and the hard problem]] develops this further: both problems share a structure where third-person physical descriptions fail to capture first-person facts.
 
 ### The Emergentist Response
 

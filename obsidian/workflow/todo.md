@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate consciousness-and-quantum-measurement.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: New article (2026-02-04) has no inbound links. Add cross-references from hard-problem-of-consciousness.md, quantum-consciousness.md, measurement-problem.md, and related quantum interpretation articles. Central to the Map's framework connecting consciousness to physics.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
-
 ### P2: Review quantum-measurement-and-definite-outcomes.md considering consciousness-and-quantum-measurement insights
 - **Type**: cross-review
 - **Notes**: New article consciousness-and-quantum-measurement.md (2026-02-04) explores the connection between measurement problem and hard problem. Check quantum-measurement-and-definite-outcomes.md for cross-link opportunities, reinforcing arguments, and ensure consistent terminology on the observer's role in collapse.
@@ -587,6 +581,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Integrate consciousness-and-quantum-measurement.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: New article (2026-02-04) has no inbound links. Add cross-references from hard-problem-of-consciousness.md, quantum-consciousness.md, measurement-problem.md, and related quantum interpretation articles. Central to the Map's framework connecting consciousness to physics.
+- **Output**: obsidian/topics/consciousness-and-quantum-measurement.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-04: Review quantum-measurement-and-definite-outcomes.md considering consciousness-and-quantum-measurement insights
 - **Type**: cross-review

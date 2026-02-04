@@ -73,7 +73,7 @@ Three aspects make this problematic:
 
 The standard measurement problem asks: why does the quantum system exhibit a definite outcome rather than remaining in superposition? But even granting definite outcomes, a deeper question remains: why does *this* consciousness experience *this* particular result?
 
-This [[indexical-identity-quantum-measurement|indexical gap]] connects the measurement problem to the [[hard-problem-of-consciousness]]. Both share a structure: third-person descriptions fail to capture first-person facts—facts about *what it is like* to be a particular experiencing subject, the [[qualia|qualitative character]] that no functional or structural description can convey.
+This [[indexical-identity-quantum-measurement|indexical gap]] connects the measurement problem to the [[hard-problem-of-consciousness]]. Both share a structure: third-person descriptions fail to capture first-person facts—facts about *what it is like* to be a particular experiencing subject, the [[qualia|qualitative character]] that no functional or structural description can convey. See [[consciousness-and-quantum-measurement]] for extended treatment of this structural parallel and its implications for the Map's framework.
 
 Functionalists contest this, holding that "why am I this one?" confuses indexical reference with substantial identity—"I" picks out whoever is asking; no further fact remains. This analysis is correct for the *reference* of "I" but doesn't dissolve the phenomenon. When asking "why am I this one?", we note that *something it is like* to be this experiencer exists, and ask what makes that fact true.
 
