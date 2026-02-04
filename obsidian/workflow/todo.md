@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-04T20:27:00+00:00
+ai_modified: 2026-02-04T21:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -46,6 +46,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P2: Integrate working-memory-as-consciousness-amplifier.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Concept article (2026-02-02) has no inbound links. Covers how working memory amplifies conscious experience—central to understanding consciousness's functional role. Add cross-references from baseline-cognition.md, consciousness-as-amplifier.md, attention-interface-mechanisms.md, and related cognitive architecture articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Integrate time-symmetric-physics.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept article (2026-02-01) has no inbound links. Covers fundamental physics symmetry and retrocausality—critical background for understanding how quantum mechanics allows for consciousness-physics coupling. Add cross-references from quantum-consciousness.md, retrocausality.md, arrow-of-time.md, and related physics foundation articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Integrate attention-motor-quantum-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers attention-motor quantum selection mechanism—how attention might influence quantum outcomes at motor preparation sites. Central to the Map's Minimal Quantum Interaction tenet. Add cross-references from attention-as-interface.md, voluntary-attention.md, stapp-quantum-mind.md, and quantum-consciousness.md.
 - **Source**: orphan_integration
 - **Generated**: 2026-02-04
 
