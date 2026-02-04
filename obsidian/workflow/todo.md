@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-04T21:12:00+00:00
+ai_modified: 2026-02-04T22:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -46,6 +46,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P2: Integrate attention-motor-quantum-selection.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-01) has no inbound links. Covers attention-motor quantum selection mechanism—how attention might influence quantum outcomes at motor preparation sites. Central to the Map's Minimal Quantum Interaction tenet. Add cross-references from attention-as-interface.md, voluntary-attention.md, stapp-quantum-mind.md, and quantum-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Write article on dopamine's role in attention-motor-quantum interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/dopamine-attention-motor-quantum-interface-2026-01-24.md. Explores how tonic vs phasic dopamine may modulate the decision threshold at which competing motor programs resolve, with consciousness determining which option crosses threshold. Supports Minimal Quantum Interaction and Bidirectional Interaction tenets. Builds on attention-motor-quantum-selection.md, voluntary-attention.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-04
+
+### P2: Write article on quantum biology mechanisms in neural systems
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-mechanisms-2026-01-24.md. Covers five distinct quantum biological mechanisms (radical pairs, ion channel tunneling, microtubule coherence, SNARE quantum tunneling, Posner molecules) with 2024-2025 experimental evidence. Directly supports Minimal Quantum Interaction tenet by establishing empirical grounding.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-04
+
+### P2: Review quantum-consciousness.md considering consciousness-and-quantum-measurement insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-quantum-measurement.md (2026-02-04) provides detailed treatment of measurement problem. Review quantum-consciousness.md for cross-links, complementary arguments, or redundancies. Ensure consistent treatment of collapse interpretations.
+- **Source**: chain (from consciousness-and-quantum-measurement.md)
+- **Generated**: 2026-02-04
+
+### P2: Integrate consciousness-and-quantum-measurement.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-04) has no inbound links. Covers consciousness and the quantum measurement problem—central to the Map's position on why consciousness might play a fundamental role in physics. Add cross-references from quantum-consciousness.md, measurement-problem.md, collapse-interpretations.md, observer-effect.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Integrate working-memory-as-consciousness-amplifier.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-02) has no inbound links. Covers how working memory amplifies consciousness—central to understanding the functional role of phenomenal experience. Add cross-references from working-memory.md, global-workspace-theory.md, attention-and-consciousness.md.
 - **Source**: orphan_integration
 - **Generated**: 2026-02-04
 
