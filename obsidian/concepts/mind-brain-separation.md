@@ -4,7 +4,7 @@ description: "Filter theory's division of faculties: qualia belong to mind, auto
 created: 2026-01-14
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-02-04T19:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-01-21T18:45:00+00:00
+last_deep_review: 2026-02-04T19:42:00+00:00
 ---
 
 The mind-brain relationship can be clarified by examining which faculties appear intrinsic to consciousness itself versus those clearly implemented by neural processes. This analysis suggests a division: [[qualia]]—the qualitative character of experience—belong to mind; automatic functions like respiration belong to brain; and many faculties emerge from the interaction between them. The [[binding-problem|binding problem]] remains unsolved in purely neural terms, with researchers acknowledging "no plausible neural story" explains phenomenal unity. Brain lesions typically disconnect consciousness from specific functions rather than destroying those functions, supporting the filter/transmission theory over production models. Vision provides a particularly instructive case: the experienced 3D world with smooth motion seems to exceed what slow-firing neurons should produce, yet blurred vision from unfocused eyes affects even dreams, suggesting the brain provides computational constraints within which consciousness operates.
@@ -220,3 +220,4 @@ The mind-brain separation framework would face serious difficulty if:
 5. Bergson, H. (1896). *Matter and Memory*.
 6. Huxley, A. (1954). *The Doors of Perception*.
 7. Leopold, D.A., et al. (2017). Blindsight and unconscious vision. *PMC*.
+8. Demirel, Ç., et al. (2025). Electrophysiological Correlates of Lucid Dreaming: Sensor and Source Level Signatures. *Journal of Neuroscience*.
