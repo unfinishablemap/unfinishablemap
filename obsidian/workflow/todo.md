@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Cross-review filter-theory.md considering altered-states-as-void-probes insights
-- **Type**: cross-review
-- **Notes**: New voids article altered-states-as-void-probes.md raises questions about whether altered states provide genuine filter-bypassing or merely simulate such access. filter-theory.md should address this distinction explicitly. Check for cross-links and theoretical consistency.
-- **Source**: chain (from altered-states-as-void-probes.md)
-- **Generated**: 2026-02-03
-
 ### P2: Write voids article on epistemology of cognitive limits
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-epistemology-of-cognitive-limits-2026-02-04.md. Explores what we can know *about* knowing's limits—meta-epistemic analysis of the voids framework. The epistemology of cognitive limits is foundational for understanding what voids represent and how we identify them. Ready for article synthesis.
@@ -521,6 +515,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Cross-review filter-theory.md considering altered-states-as-void-probes insights
+- **Type**: cross-review
+- **Notes**: New voids article altered-states-as-void-probes.md raises questions about whether altered states provide genuine filter-bypassing or merely simulate such access. filter-theory.md should address this distinction explicitly. Check for cross-links and theoretical consistency.
+- **Output**: obsidian/concepts/filter-theory.md -- Context: Cross-review filter-theory.md considering altered-states-as-void-probes insights
 
 ### ✓ 2026-02-04: Condense many-worlds.md (3704 words, 148% of target)
 - **Type**: condense

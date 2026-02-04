@@ -4,12 +4,13 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-29T05:14:47+00:00
+ai_modified: 2026-02-04T01:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[altered-states-of-consciousness]]"
+  - "[[altered-states-as-void-probes]]"
   - "[[default-mode-network]]"
   - "[[meditation-and-consciousness-modes]]"
   - "[[minimal-consciousness]]"
@@ -29,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-29T05:14:47+00:00
+last_deep_review: 2026-02-04T01:41:00+00:00
 ---
 
 The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by [[william-james-consciousness|William James]], Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain is interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to The Unfinishable Map's [[interactionist-dualism|interactionist dualism]] and explains how [[tenets#^dualism|dualism]] can accommodate the empirical findings that seem to support materialism.
@@ -85,7 +86,9 @@ A physicalist would object: different neural processing simply produces differen
 
 Filter theory interprets this pattern: the DMN normally constrains consciousness to a narrow band of self-referential processing (what the [[default-mode-network]] article calls the "narrative filter"). Psychedelics disrupt this constraint while increasing global integration. The brain isn't producing *less* consciousness—it's filtering *less*. The enhanced between-network connectivity represents new channels opening as normal constraints dissolve.
 
-This interpretation aligns with Aldous Huxley's original proposal and with recent models like REBUS (Relaxed Beliefs Under Psychedelics): what's being relaxed is precisely the constraining function that normally restricts conscious experience to a biologically useful subset. The [[altered-states-as-void-probes]] article examines whether such filter-loosening provides genuine epistemic access to new territories or merely reveals the topology of cognitive limits.
+This interpretation aligns with Aldous Huxley's original proposal and with recent models like REBUS (Relaxed Beliefs Under Psychedelics): what's being relaxed is precisely the constraining function that normally restricts conscious experience to a biologically useful subset.
+
+The [[altered-states-as-void-probes]] article examines a crucial epistemological question: does filter-loosening provide genuine access to territories closed to ordinary consciousness, or does it merely generate compelling phenomenology of such access while mapping cognitive limits from inside? Filter theory commits to the former—that reduced filtering yields genuinely expanded experience. The alternative "edge-mapping" reading would interpret enhanced experience as the phenomenology of approaching cognitive boundaries rather than crossing them. Both readings are compatible with the neuroimaging data; they differ in what they claim about the epistemic status of ASC reports.
 
 ### The Anesthetic Divergence
 
@@ -107,7 +110,7 @@ The key difference: anaesthesia disrupts the filter from outside; cessation may 
 
 [[near-death-experiences|Near-death experiences]] present a similar pattern. During cardiac arrest, approximately 40% of survivors report vivid, coherent experiences—often described as "more real than real."
 
-Skeptics note that 60% report nothing, suggesting positive reports may reflect memory reconstruction during recovery. The filter theorist responds: the question is not whether *all* NDEs reflect genuine expanded consciousness but whether *any* enhanced experience during brain compromise is explicable on production models. The phenomenology of enhancement—when it occurs—fits filter theory: the materialist must explain why brain dysfunction would produce experiences described as clearer than normal waking life. The filter theorist has a ready answer: when the brain-interface is compromised, consciousness is *less constrained*.
+Skeptics note that 60% report nothing, suggesting positive reports may reflect memory reconstruction during recovery. But the question is whether *any* enhanced experience during brain compromise is explicable on production models. Materialists must explain why dysfunction would produce experiences described as clearer than normal waking life; filter theory has a ready answer: compromised interface, less constraint.
 
 ### Covert Consciousness
 
@@ -203,9 +206,9 @@ Buddhism offers a structurally parallel framework predating James and Bergson by
 
 A crucial disanalogy: Buddhism explicitly denies any permanent self or soul (*anātman*). Filter theory might seem to posit something like Ātman—a consciousness that exists independently to be filtered. Buddhist scholars would resist this implication. The parallel is structural (constituted-through vs. produced-by) rather than metaphysical.
 
-Despite this difference, Buddhist meditation can be understood as systematic reduction of mental constraints. Through sustained attention and the release of grasping, meditators report progressively less conditioned experience—the "[[witness-consciousness]]" that observes without identification. Advanced practitioners describe cessation events where even the filter of selfhood drops away.
+Despite this difference, Buddhist meditation can be understood as systematic reduction of mental constraints. Meditators report progressively less conditioned experience—the "[[witness-consciousness]]" that observes without identification—culminating in cessation events where even the filter of selfhood drops away.
 
-The Buddhist framework offers something filter theory lacks: a detailed phenomenology of what happens as constraints decrease. Stages of absorption (*jhāna*), the dissolution of the sense of self, the experience of luminous awareness—these map the terrain filter theory posits but doesn't explore. As [[mysterianism|Colin McGinn]] might note, we may never explain *why* the filter works, but Buddhism offers two millennia of investigation into *what happens* when it's reduced.
+The Buddhist framework offers something filter theory lacks: a detailed phenomenology of what happens as constraints decrease. Stages of absorption (*jhāna*), the dissolution of self, luminous awareness—these map the terrain filter theory posits but doesn't explore.
 
 ## What Filter Theory Does and Doesn't Claim
 
