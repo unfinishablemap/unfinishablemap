@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-02-02 05:22:00+00:00
+ai_modified: 2026-02-04 01:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,11 +28,12 @@ description: 'Mental effort operates through the quantum Zeno effect: rapid atte
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 15:30:00+00:00
+last_deep_review: 2026-02-04 01:03:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[stapp-mental-effort-mind-matter-2026-01-14]]'
+- '[[attention-motor-quantum-interface]]'
 title: Stapp's Quantum Mind Model
 topics:
 - '[[free-will]]'
@@ -82,11 +83,11 @@ The findings don't definitively prove the quantum Zeno mechanism—a materialist
 
 The [attention as interface hypothesis](/concepts/attention-as-interface/) extends Stapp's framework. The core claim: attention functions as the *interface layer* between consciousness and neural systems.
 
+**Unified attention-motor substrate**: Rizzolatti's premotor theory of attention (PMTA) demonstrates that attention and motor planning share neural substrates—there is no independent attention system. Preparing an eye movement to location X improves visual processing at X; attention *is* motor preparation. This unification matters: if Stapp's Zeno mechanism works for attention, it should work identically for motor selection. The [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) develops this convergence in detail, showing that willed attention and willed action share the same neural signatures (frontal theta, ~280-300ms deployment, bidirectional frontoparietal coherence).
+
 **Bandwidth limitation**: Conscious processing operates at ~10 bits/second versus the brain's ~10⁹ bits/second. This gap means consciousness operates at policy level (goals, strategies) rather than micromanaging neurons. The bandwidth constraint makes the model *more* plausible—operating at policy level matches phenomenology and neuroscience.
 
 **Interface locality**: Consciousness operates through attention, and attention operates through specific neural mechanisms. This explains why consciousness influences the brain but not distant objects—there are no attention channels to external quantum systems.
-
-The same mechanism appears in [motor control](/concepts/motor-selection/): willed movements show identical neural signatures to willed attention. See [attention-as-interface](/concepts/attention-as-interface/) for full treatment.
 
 ## Two Modes of Consciousness
 
@@ -178,6 +179,7 @@ The model generates falsifiable predictions:
 ## References
 
 - Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+- Denton, M.C.J., et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10760.
 - Georgiev, D. (2014). Mind efforts, quantum Zeno effect and environmental decoherence. *NeuroQuantology*, 12(3).
 - Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 - Hasenkamp, W., et al. (2013). Effortless awareness: Using real time neurofeedback to investigate correlates of posterior cingulate cortex activity in meditators' self-report. *Frontiers in Human Neuroscience*, 7.

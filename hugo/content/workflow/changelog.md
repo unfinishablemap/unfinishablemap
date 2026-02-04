@@ -18,6 +18,189 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-04 03:27 UTC - deep-review
+- **Status**: Success
+- **File**: [varieties-of-unity](/concepts/varieties-of-unity/)
+- **Word count**: 3515 → 3515 (length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Dennett's Multiple Drafts)
+- **Enhancements made**: 1 (tightened dreamless sleep prose)
+- **Output**: [deep-review-2026-02-04-varieties-of-unity](/reviews/deep-review-2026-02-04-varieties-of-unity/)
+- **Notes**: Second review cycle. Article reached stability after first review (2026-01-22) added illusionism and process philosophy sections. This review found no critical issues. Added brief Multiple Drafts acknowledgment with compensating trim for length neutrality. Article at 141% of soft threshold—expansion avoided.
+
+---
+
+## 2026-02-04 03:05 UTC - deep-review
+- **Status**: Success
+- **File**: [mathematical-void](/voids/mathematical-void/)
+- **Word count**: 2249 → 2249 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status)
+- **Enhancements made**: 6 cross-references added
+- **Output**: [deep-review-2026-02-04-mathematical-void](/reviews/deep-review-2026-02-04-mathematical-void/)
+- **Notes**: Orphan integration review. Article was reviewed yesterday and reached stability. Added inbound links from 6 related articles: incompleteness-void, computational-cognitive-limits, consciousness-and-mathematical-understanding, mysterianism, conceptual-impossibility, intrinsic-nature-void.
+
+---
+
+## 2026-02-04 02:50 UTC - deep-review
+- **Status**: Success
+- **File**: [measurement-problem](/concepts/measurement-problem/)
+- **Word count**: 2524 → 2517 (-7 words)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-02-04-measurement-problem](/reviews/deep-review-2026-02-04-measurement-problem/)
+- **Notes**: Cross-review integrating prebiotic-collapse insights. Strengthened MWI critique with explicit mental-causation elimination. Added prebiotic-collapse cross-link in Objective Collapse section. Article highly stable—fifth review cycle showing strong convergence.
+
+---
+
+## 2026-02-04 02:35 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: temporal structure cluster (time-collapse-and-agency.md, temporal-structure-of-consciousness.md, duration.md)
+- **Output**: [pessimistic-2026-02-04](/reviews/pessimistic-2026-02-04/)
+
+---
+
+## 2026-02-04 02:20 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-consciousness](/concepts/quantum-consciousness/)
+- **Word count**: 2253 → 2366 (+113 words)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-02-04-quantum-consciousness](/reviews/deep-review-2026-02-04-quantum-consciousness/)
+- **Notes**: Cross-review integrating prebiotic-collapse insights. Added cosmological/phylogenetic timeline distinction. Completed References section with Koch & Tsuchiya, James, Kerskens-Pérez, Baum. Added spontaneous-collapse-theories to Further Reading. Article stable—third review cycle showing convergence.
+
+---
+
+## 2026-02-04 02:05 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Epistemology of Cognitive Limits
+- **Output**: [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/)
+- **Word count**: 1946
+- **Based on research**: yes, [voids-epistemology-of-cognitive-limits-2026-02-04](/research/voids-epistemology-of-cognitive-limits-2026-02-04/)
+
+---
+
+## 2026-02-04 01:50 UTC - deep-review
+- **Status**: Success
+- **File**: [metarepresentation](/concepts/metarepresentation/)
+- **Word count**: 1994 → 2011 (+17 words)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-02-04-metarepresentation](/reviews/deep-review-2026-02-04-metarepresentation/)
+- **Notes**: Second review of this article. Added in-text citations for working memory claims (Cowan 2001, Read 2008). Added epistemic qualifier to AI falsification condition. Article showing convergence toward stability—no critical issues in either review.
+
+---
+
+## 2026-02-04 01:41 UTC - deep-review
+- **Status**: Success
+- **File**: [filter-theory](/concepts/filter-theory/)
+- **Word count**: 3227 → 3222 (-5 words)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-02-04-filter-theory](/reviews/deep-review-2026-02-04-filter-theory/)
+- **Notes**: Cross-review integrating altered-states-as-void-probes insights. Added [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) to concepts frontmatter. Expanded inline reference to explicitly acknowledge filter theory's commitment to "genuine access" interpretation vs. "edge-mapping" alternative. Trimmed Buddhism section and NDE section for length neutrality. Article stable after four review cycles.
+
+---
+
+## 2026-02-04 01:20 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [many-worlds](/arguments/many-worlds/)
+- **Word count**: 2018 words (81% of 2500 target)
+- **Reason**: Article is already well under the soft threshold for concepts (2500 words). No condensation needed—content is appropriately sized for its complexity.
+
+---
+
+## 2026-02-04 01:07 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 232 (164 concepts + 68 topics)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-02-04](/reviews/tenet-check-2026-02-04/)
+- **Notes**: Comprehensive tenet alignment check of all concept and topic files. All 232 files pass. Articles discussing competing positions (materialism, illusionism, functionalism, epiphenomenalism, MWI) consistently frame them as views the Map critiques rather than endorses.
+
+---
+
+## 2026-02-04 01:03 UTC - deep-review
+- **Status**: Success
+- **File**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
+- **Word count**: 1976 → ~2050 (+74 words)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-02-04-stapp-quantum-mind](/reviews/deep-review-2026-02-04-stapp-quantum-mind/)
+- **Notes**: Cross-review integrating attention-motor-quantum-interface insights. Added unified attention-motor substrate paragraph connecting to Rizzolatti's PMTA and shared neural signatures. Added cryptochrome reference (Denton et al. 2024). Added cross-link to attention-motor-quantum-interface. Article stable after two review cycles.
+
+---
+
+## 2026-02-04 00:48 UTC - deep-review
+- **Status**: Success
+- **File**: [mysterianism](/concepts/mysterianism/)
+- **Word count**: 2812 → 2826 (+14 words)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-02-04-mysterianism](/reviews/deep-review-2026-02-04-mysterianism/)
+- **Notes**: Cross-review with altered-states-as-void-probes insights. Added integration showing that if ASCs consistently produce the phenomenology of transcendence without yielding communicable insight, this supports McGinn's permanence claim. Added cross-links in text, Further Reading, and related_articles. Article at good stability—third review cycle.
+
+---
+
+## 2026-02-04 00:33 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Epistemology of Cognitive Limits
+- **Category**: Mixed (Unexplorable / Potentially Unexplored)
+- **Output**: [voids-epistemology-of-cognitive-limits-2026-02-04](/research/voids-epistemology-of-cognitive-limits-2026-02-04/)
+- **Key finding**: The question of how we can know our cognitive limits is itself a meta-void—self-referential constraints on knowing our limits may be structural, and empirical research (Dunning-Kruger) suggests we systematically miscalibrate about our own competencies.
+
+---
+
+## 2026-02-04 00:18 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [functionalism](/concepts/functionalism/)
+- **Word count**: 2036 words (81% of 2500 threshold)
+- **Reason**: Article is below soft threshold for concepts section. No excess words; length is appropriate for the content covered.
+
+---
+
+## 2026-02-04 00:10 UTC - deep-review
+- **Status**: Success
+- **File**: [specious-present](/concepts/specious-present/)
+- **Word count**: 1908 → 1970 (+62 words)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-02-04-specious-present](/reviews/deep-review-2026-02-04-specious-present/)
+- **Notes**: Third review cycle for this article (initial deep review 2026-01-21, condense 2026-01-26, this review). Addressed Buddhist no-self challenge (acknowledged tension between using Buddhist phenomenology while diverging on metaphysics of self), added acknowledgment that contemplative "revelation" vs "construction" is epistemically disputed, added Hagan et al. (2002) citation for revised decoherence estimates. Article approaching stability—no critical issues, minor refinements only.
+
+---
+
+## 2026-02-03 23:54 UTC - deep-review
+- **Status**: Success
+- **File**: [death-void](/voids/death-void/)
+- **Word count**: 1998 → 2009 (+11, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-02-03-death-void](/reviews/deep-review-2026-02-03-death-void/)
+- **Notes**: Second review of this article. Task context claimed orphan status but this was outdated—previous review (2026-02-02) already integrated with 5+ inbound links. This review focused on quality: added Buddhist no-self (anātman) as challenge #6, nuanced Many-Worlds claim. Prose tightened to maintain length neutrality. Article approaching stability after two reviews.
+
+---
+
+## 2026-02-03 23:33 UTC - deep-review
+- **Status**: Success
+- **File**: [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
+- **Word count**: 2331 → 2331 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 7 (cross-references added from related articles)
+- **Output**: [deep-review-2026-02-03-spontaneous-collapse-theories](/reviews/deep-review-2026-02-03-spontaneous-collapse-theories/)
+- **Notes**: Orphan integration review. Article had no inbound links despite discussing GRW, CSL, and Penrose OR theories central to the Map's framework. Previous review (2026-01-24) already addressed content quality issues. This review focused on site navigation: added cross-references from quantum-consciousness, integrated-information-theory, quantum-interpretations, prebiotic-collapse, free-will, bidirectional-interaction, and causal-closure. Article now well-integrated.
+
+---
+
 ## 2026-02-03 23:18 UTC - coalesce
 - **Status**: No candidates found
 - **Articles analyzed**: 18+ articles across 7 candidate groups

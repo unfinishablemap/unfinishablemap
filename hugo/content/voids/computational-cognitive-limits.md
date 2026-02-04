@@ -91,7 +91,7 @@ This void separates what rationality demands from what any finite mind can deliv
 
 ## Phenomenology of the Computational Edge
 
-Approaching these limits has a distinctive phenomenology—related to but distinct from the [contemplative and psychedelic edge-states](/voids/phenomenology-of-the-edge/) explored elsewhere in the voids framework:
+Approaching these limits has a distinctive phenomenology—related to but distinct from the [contemplative and psychedelic edge-states](/voids/phenomenology-of-the-edge/) explored elsewhere in the voids framework. The [mathematical void](/voids/mathematical-void/) explores a related phenomenon: the gap between formal manipulation and genuine comprehension. We can compute with transfinite cardinals, verify proofs in 200-terabyte files, and derive properties of n-dimensional spaces—while lacking phenomenal access to what these objects are. The computational void concerns what cannot be computed; the mathematical void concerns what cannot be *understood* even when computation succeeds.
 
 **Infinite regress.** Trying to verify a system's consistency requires a meta-system, which requires verification by a meta-meta-system. The tower never grounds itself. Minds experience this as the peculiar vertigo of self-validation—how can I trust my reasoning about whether my reasoning is trustworthy?
 

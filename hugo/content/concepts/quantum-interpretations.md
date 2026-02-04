@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-02-02 02:26:00+00:00
+ai_modified: 2026-02-03 23:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -124,6 +124,8 @@ Answers fall into three categories:
 - GRW: spontaneous localization events occur randomly
 - CSL: continuous spontaneous localization driven by noise
 - Penrose: gravitational self-energy threshold triggers collapse
+
+See [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) for detailed treatment of these models, including experimental constraints and consciousness-modulated variants.
 
 **Consciousness role (standard):** Low. If collapse happens physically according to GRW/CSL parameters, consciousness doesn't cause it.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03 22:03:00+00:00
+ai_modified: 2026-02-04 03:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,23 +38,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate spontaneous-collapse-theories.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-03) has no inbound links. Covers GRW and CSL objective reduction theories—important alternatives to consciousness-causes-collapse. Add cross-references from quantum-consciousness.md, measurement-problem.md, collapse-interpretations.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
-### P2: Integrate death-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Voids article (2026-02-03) has no inbound links. Explores the epistemological void surrounding consciousness at death—what cannot be known. Add cross-references from death-and-consciousness.md, personal-identity.md, meaning-of-life.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-03
-
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
+
+### P2: Integrate quantum-measurement-and-definite-outcomes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers why quantum measurement produces definite outcomes rather than superpositions—central to the Map's quantum consciousness arguments. Add cross-references from measurement-problem.md, quantum-consciousness.md, collapse-and-time.md, many-worlds.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Write article on experiential alignment objective
+- **Type**: expand-topic
+- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. Proposes framing AI alignment in experiential terms (suffering, agency, meaning) rather than preference terms. Directly relevant to purpose-and-alignment.md and meaning-of-life.md. Supports site's phenomenological approach.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-04
+
+### P2: Integrate altered-states-as-void-probes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-03) has no inbound links. Explores how altered states of consciousness can probe cognitive limits and void territories. Add cross-references from altered-states.md, contemplative-evidence-for-consciousness-theories.md, consciousness-only-territories.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Integrate attention-disorders-and-quantum-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers how attention disorders illuminate the consciousness-brain interface. Add cross-references from attention-as-interface.md, voluntary-attention.md, quantum-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-04
+
+### P2: Cross-review mysterianism.md considering epistemology-of-cognitive-limits
+- **Type**: cross-review
+- **Notes**: New voids article epistemology-of-cognitive-limits.md (2026-02-04) explores what we can know about what we cannot know. Check for cross-links, reinforcing arguments about cognitive closure and the limits of understanding consciousness.
+- **Source**: chain (from epistemology-of-cognitive-limits.md)
+- **Generated**: 2026-02-04
+
+### P2: Cross-review consciousness-only-territories.md considering epistemology-of-cognitive-limits
+- **Type**: cross-review
+- **Notes**: New voids article epistemology-of-cognitive-limits.md (2026-02-04) explores cognitive limits epistemology. Check for cross-links, reinforcing arguments about territories accessible only through consciousness.
+- **Source**: chain (from epistemology-of-cognitive-limits.md)
+- **Generated**: 2026-02-04
 
 ### P3: Deep review reasons-responsiveness.md for quality
 - **Type**: deep-review
@@ -498,6 +522,61 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Integrate mathematical-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-02) has no inbound links. Explores mathematical structures beyond genuine human comprehension—where formal manipulation succeeds but phenomenal understanding fails. Add cross-references from consciousness-and-mathematical-understanding.md, incompleteness-void.md, scale-void.md, phenomenology-of-the-edge.md.
+- **Output**: obsidian/voids/mathematical-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-04: Cross-review measurement-problem.md considering prebiotic-collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/prebiotic-collapse.md (2026-02-03) addresses quantum collapse before observers. The measurement-problem.md concept should be cross-reviewed for consistency with prebiotic collapse treatment, ensuring the measurement problem discussion acknowledges observer-independent collapse mechanisms.
+- **Output**: obsidian/concepts/measurement-problem.md -- Context: Cross-review measurement-problem.md considering prebiotic-collapse insights
+
+### ✓ 2026-02-04: Cross-review quantum-consciousness.md considering prebiotic-collapse insights
+- **Type**: cross-review
+- **Notes**: New article concepts/prebiotic-collapse.md (2026-02-03) addresses what caused quantum collapse before conscious observers. The quantum-consciousness.md concept page should be cross-reviewed for: (1) cross-links to prebiotic collapse treatment, (2) how objective reduction baseline relates to consciousness-caused collapse arguments, (3) consistent handling of the "collapse before minds" objection.
+- **Output**: obsidian/concepts/quantum-consciousness.md -- Context: Cross-review quantum-consciousness.md considering prebiotic-collapse insights
+
+### ✓ 2026-02-04: Write voids article on epistemology of cognitive limits
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-epistemology-of-cognitive-limits-2026-02-04.md. Explores what we can know *about* knowing's limits—meta-epistemic analysis of the voids framework. The epistemology of cognitive limits is foundational for understanding what voids represent and how we identify them. Ready for article synthesis.
+- **Output**: Write voids article on epistemology of cognitive limits
+
+### ✓ 2026-02-04: Cross-review filter-theory.md considering altered-states-as-void-probes insights
+- **Type**: cross-review
+- **Notes**: New voids article altered-states-as-void-probes.md raises questions about whether altered states provide genuine filter-bypassing or merely simulate such access. filter-theory.md should address this distinction explicitly. Check for cross-links and theoretical consistency.
+- **Output**: obsidian/concepts/filter-theory.md -- Context: Cross-review filter-theory.md considering altered-states-as-void-probes insights
+
+### ✓ 2026-02-04: Condense many-worlds.md (3704 words, 148% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Currently at 148% of target. The Map's rejection of MWI is foundational but may benefit from tighter expression. Preserve the core indexical identity argument while streamlining technical quantum mechanics background.
+- **Output**: obsidian/concepts/many-worlds.md
+
+### ✓ 2026-02-04: Cross-review stapp-quantum-mind.md considering attention-motor-quantum-interface insights
+- **Type**: cross-review
+- **Notes**: Article attention-motor-quantum-interface.md develops the unified attention-motor substrate hypothesis based on Stapp's framework. Review stapp-quantum-mind.md to ensure it references this extension of the theory and that claims about consciousness's causal role remain consistent.
+- **Output**: obsidian/concepts/stapp-quantum-mind.md -- Context: Cross-review stapp-quantum-mind.md considering attention-motor-quantum-interface insights
+
+### ✓ 2026-02-04: Cross-review mysterianism.md considering altered-states-as-void-probes insights
+- **Type**: cross-review
+- **Notes**: New voids article altered-states-as-void-probes.md (2026-02-03) explores whether altered states reveal cognitive limits. mysterianism.md may need updates to acknowledge ASCs as potential limit-probing methods or to address whether mysterian boundaries are contingent vs structural. Check for cross-links and argument alignment.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering altered-states-as-void-probes insights
+
+### ✓ 2026-02-04: Condense functionalism.md (4250 words, 170% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Currently at 170% of target. Preserve core arguments about functionalism's relationship to consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
+
+### ✓ 2026-02-03: Integrate death-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-03) has no inbound links. Explores the epistemological void surrounding consciousness at death—what cannot be known. Add cross-references from death-and-consciousness.md, personal-identity.md, meaning-of-life.md.
+- **Output**: obsidian/voids/death-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-03: Integrate spontaneous-collapse-theories.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-03) has no inbound links. Covers GRW and CSL objective reduction theories—important alternatives to consciousness-causes-collapse. Add cross-references from quantum-consciousness.md, measurement-problem.md, collapse-interpretations.md.
+- **Output**: obsidian/concepts/spontaneous-collapse-theories.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-03: Cross-review death-and-consciousness.md considering death-void
 - **Type**: cross-review

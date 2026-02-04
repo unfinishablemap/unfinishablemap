@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-01-31 04:58:00+00:00
+ai_modified: 2026-02-03 23:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -180,7 +180,7 @@ The difference: Whitehead's panexperientialism makes experience fundamental to a
 
 IIT doesn't require quantum mechanics. It works at the level of classical information and physical architecture. This neither supports nor contradicts the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet directly—IIT is simply silent on quantum effects.
 
-Some speculate that quantum coherence might be relevant to how integration occurs in biological systems—quantum entanglement provides exactly the kind of holistic, irreducible connections that IIT claims underlie consciousness. A 2022 MRI study by Kerskens & Pérez reported possible entanglement signatures in brain water protons—though this remains preliminary and disputed, it suggests potential links between quantum holism and neural integration. But this isn't part of standard IIT. The theory is designed to work without invoking quantum mysteries, treating consciousness as a feature of classical causal structure.
+Some speculate that quantum coherence might be relevant to how integration occurs in biological systems—quantum entanglement provides exactly the kind of holistic, irreducible connections that IIT claims underlie consciousness. A 2022 MRI study by Kerskens & Pérez reported possible entanglement signatures in brain water protons—though this remains preliminary and disputed, it suggests potential links between quantum holism and neural integration. McQueen has proposed hybrid CSL-IIT models where integrated information (Φ) modulates [spontaneous collapse](/concepts/spontaneous-collapse-theories/) parameters—the higher the integration, the stronger the collapse effect. But this isn't part of standard IIT. The theory is designed to work without invoking quantum mysteries, treating consciousness as a feature of classical causal structure.
 
 The Map's framework suggests IIT may be incomplete precisely because it ignores quantum mechanics. If consciousness influences physical outcomes via quantum selection (per Bidirectional Interaction), then IIT's purely observational stance—consciousness *is* integration but doesn't *do* anything—misses consciousness's causal role. Quantum approaches make consciousness active; IIT makes it passive.
 

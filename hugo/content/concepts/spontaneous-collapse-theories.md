@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-27 19:45:00+00:00
+ai_modified: 2026-02-03 23:33:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: 'GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 19:45:00+00:00
+last_deep_review: 2026-02-03 23:33:00+00:00
 modified: *id001
 related_articles:
 - '[[quantum-consciousness]]'

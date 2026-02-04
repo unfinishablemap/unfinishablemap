@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-04 00:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: 'The experienced duration of now: 100ms to 3 seconds within which s
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-21 23:30:00+00:00
+last_deep_review: 2026-02-04 00:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -117,11 +117,13 @@ The [haecceity](/concepts/haecceity/) connection matters: each actual occasion i
 
 ## Contemplative Evidence
 
-Buddhist *khanika-vada* (momentariness doctrine) holds that experience arises and passes in rapid succession. Advanced meditators perceive individual "mind-moments" that ordinary consciousness integrates into continuous flow—not denying the specious present but revealing its microstructure. Training reveals rather than constructs this structure.
+Buddhist *khanika-vada* (momentariness doctrine) holds that experience arises and passes in rapid succession. Advanced meditators perceive individual "mind-moments" that ordinary consciousness integrates into continuous flow—not denying the specious present but revealing its microstructure. Training reveals rather than constructs this structure, though critics argue the distinction is unclear—training might equally be constructing finer discriminations rather than uncovering pre-existing phenomenal facts.
 
 [Witness consciousness](/concepts/witness-consciousness/)—observing temporal flow without identification—suggests temporal experience can become an object for awareness itself, supporting its irreducibility.
 
 Cessation states (*nirodha samapatti*) provide strong evidence: practitioners report time simply wasn't—no flow, no succession, no "now." If the specious present were merely neural temporal processing, something should persist experientially. Its complete absence suggests dependence on something more than timekeeping—consistent with the consciousness-constitutes-time hypothesis.
+
+A tension remains: Buddhist traditions that report these phenomenological findings also challenge the very notion of a unified subject experiencing time. Nagarjuna's analysis questions whether there is a "self" to have a specious present. The Map uses Buddhist phenomenological data while diverging from Buddhist metaphysics on this point—a philosophically honest borrowing rather than a claim of full alignment.
 
 ## Relation to Site Perspective
 
@@ -183,6 +185,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet warns parsimony is 
 
 - Baddeley, A. (2000). The episodic buffer: a new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423.
 - Clay, E.R. (1882). *The Alternative*.
+- Hagan, S., Hameroff, S.R., & Tuszynski, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 - Dainton, B. (2008). "The Experience of Time and Change." *Philosophy Compass*, 3(4), 619-652.
 - Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.

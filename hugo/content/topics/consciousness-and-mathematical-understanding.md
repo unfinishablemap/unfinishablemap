@@ -57,7 +57,7 @@ Other critics argue mathematicians might be inconsistent themselves—we make er
 
 ## The Phenomenology of Mathematical Insight
 
-Beyond Penrose's formal argument, the experience of mathematical understanding provides evidence for [cognitive phenomenology](/concepts/cognitive-phenomenology/)—the view that thinking itself has phenomenal character distinct from sensory accompaniments.
+Beyond Penrose's formal argument, the experience of mathematical understanding provides evidence for [cognitive phenomenology](/concepts/cognitive-phenomenology/)—the view that thinking itself has phenomenal character distinct from sensory accompaniments. This phenomenology has a negative counterpart: the [mathematical void](/voids/mathematical-void/) documents what happens when understanding *fails*—when we can manipulate symbols for transfinite cardinals or n-dimensional spaces without genuinely grasping what they represent.
 
 Consider what happens when you understand a proof:
 

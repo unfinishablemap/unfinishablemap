@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-01 15:19:00+00:00
+ai_modified: 2026-02-03 23:33:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -171,7 +171,7 @@ This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) 
 
 Strong [emergentism](/concepts/emergence/) provides another route to denying causal closure. Timothy O'Connor and Hong Yu Wong argue that emergent properties possess "fundamentally novel" causal powers not reducible to component-level causation—genuine [downward-causation](/concepts/downward-causation/) where consciousness influences neural states in ways component interactions don't determine.
 
-Classical British emergentists (Broad, Alexander) accepted this with "natural piety" but lacked a mechanism, leaving them vulnerable to Kim's exclusion argument. The Map's quantum framework strengthens emergentism by specifying where emergent causation operates: at quantum indeterminacies, where physics provides probabilities but not outcomes. Downward causation becomes coherent because the "downward" direction operates precisely where the "upward" physical story is incomplete.
+Classical British emergentists (Broad, Alexander) accepted this with "natural piety" but lacked a mechanism, leaving them vulnerable to Kim's exclusion argument. The Map's quantum framework strengthens emergentism by specifying where emergent causation operates: at quantum indeterminacies, where physics provides probabilities but not outcomes. [Spontaneous collapse theories](/concepts/spontaneous-collapse-theories/) (GRW, CSL) further strengthen the position: they provide consciousness-independent baseline collapse, allowing consciousness to *modulate* rather than wholly cause collapse—preserving prebiotic cosmology while enabling mental causation. Downward causation becomes coherent because the "downward" direction operates precisely where the "upward" physical story is incomplete.
 
 ### Arguments from Reason
 

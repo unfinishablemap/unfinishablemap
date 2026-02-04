@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-03 12:10:00+00:00
+ai_modified: 2026-02-03 23:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -96,7 +96,7 @@ How does consciousness interface with the brain? Several possibilities exist wit
 - **Retrocausal influence**: Selection determining which temporal sequence becomes real (compatible with time-symmetric quantum mechanics)
 - **Unknown physics**: Mechanisms not yet discovered
 
-The Map doesn't commit to any single mechanism. What matters philosophically is that consciousness *can* influence physical outcomes without violating physical laws—that there's room in physics for mental causation. Quantum mechanics provides one such opening; others may exist. See [decoherence](/concepts/decoherence/) and [quantum-consciousness](/concepts/quantum-consciousness/) for analysis of the quantum approach, including its limitations, and [attention-interface-mechanisms](/topics/attention-interface-mechanisms/) for candidate neural sites and timing constraints.
+The Map doesn't commit to any single mechanism. What matters philosophically is that consciousness *can* influence physical outcomes without violating physical laws—that there's room in physics for mental causation. Quantum mechanics provides one such opening; others may exist. [Spontaneous collapse theories](/concepts/spontaneous-collapse-theories/) (GRW, CSL) solve the prebiotic problem by providing baseline collapse that consciousness modulates rather than causes. See [decoherence](/concepts/decoherence/) and [quantum-consciousness](/concepts/quantum-consciousness/) for analysis of the quantum approach, including its limitations, and [attention-interface-mechanisms](/topics/attention-interface-mechanisms/) for candidate neural sites and timing constraints.
 
 ## The Map's Position: Agent-Causal Selection
 

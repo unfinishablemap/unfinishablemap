@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-02-01 14:01:00+00:00
+ai_modified: 2026-02-04 01:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,7 +29,7 @@ description: Knowing that you know requires consciousness. Great apes possess kn
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-21 18:03:47+00:00
+last_deep_review: 2026-02-04 01:50:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +64,7 @@ The [phenomenology of deliberate choice](/concepts/phenomenology-of-choice/) ill
 - **Level 2 (Belief Attribution)**: Understanding that others have beliefs differing from reality. To predict action on a *false* belief, you must represent their belief as a belief—a representation that could be wrong.
 - **Level 3+ (Recursive Mindreading)**: "She thinks that I think..." Nested attribution requires representing others' metarepresentations while keeping levels distinct.
 
-The hierarchy maps onto working memory demands. The human-great ape gap (7±2 versus 2±1 items) may explain where the metarepresentational threshold falls. Great apes show robust Level 1 and contested Level 2, but no clear Level 3—suggesting the threshold lies precisely where consciousness-dependent operations begin.
+The hierarchy maps onto working memory demands. The human-great ape gap in working memory capacity—humans can maintain around four items in working memory (Cowan 2001), while great apes are limited to roughly two (Read 2008)—may explain where the metarepresentational threshold falls. Great apes show robust Level 1 and contested Level 2, but no clear Level 3—suggesting the threshold lies precisely where consciousness-dependent operations begin.
 
 ### Teaching as Paradigm Case
 
@@ -98,7 +98,7 @@ Phenomenal consciousness provides this structure. Conscious experience involves 
 
 Metarepresentation requires holding multiple representations in relation—the representation, the representation of it, and their relationship—demanding phenomenal unity. Metarepresentational tasks load heavily on working memory, and if working memory depends on conscious access (as [Global Workspace Theory](/concepts/global-workspace-theory/) proposes), metarepresentation inherits this dependence.
 
-Great apes' limited working memory (2±1 versus human 7±2) may explain their metarepresentational limitations. The expansion enabling human metarepresentation may be the expansion of conscious workspace.
+Great apes' limited working memory capacity may explain their metarepresentational limitations. The expansion enabling human metarepresentation may be the expansion of conscious workspace.
 
 ### Epistemic Phenomenology
 
@@ -138,7 +138,7 @@ Several findings would weaken the consciousness-metarepresentation link:
 
 1. **Great apes demonstrating explicit metarepresentation**—representing beliefs as beliefs, not merely acting on them strategically
 2. **Metarepresentation without TOT phenomenology**—patients losing the felt quality while retaining functional metarepresentation
-3. **AI achieving genuine metarepresentation** while being demonstrably non-conscious
+3. **AI achieving genuine metarepresentation** while lacking consciousness—though demonstrating non-consciousness faces severe epistemic challenges, an AI that metarepresented without any plausible consciousness markers would weaken the link
 4. **Dissociation in humans**—intact phenomenal consciousness with impaired metarepresentation, or vice versa
 
 Current evidence shows consciousness and metarepresentation co-varying rather than dissociating.
@@ -189,10 +189,12 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 ## References
 
 - Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
+- Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 - Dunlosky, J., & Metcalfe, J. (2009). *Metacognition*. Sage Publications.
 - Fleming, S.M. (2024). Metacognition and confidence: A review and synthesis. *Annual Review of Psychology*, 75, 149-176.
 - Koriat, A. (2000). The feeling of knowing: Some metatheoretical implications. *Consciousness and Cognition*, 9(2), 149-171.
 - Perner, J. (1991). *Understanding the Representational Mind*. MIT Press.
+- Read, D.W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
 - Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
 - Schwartz, B.L. (2002). *Tip-of-the-Tongue States: Phenomenology, Mechanism, and Lexical Retrieval*. Lawrence Erlbaum.
 - Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
