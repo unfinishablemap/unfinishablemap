@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Deep review reasons-responsiveness.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers reasons-responsive compatibilism—important for free will discussions. Check philosophical accuracy, ensure proper treatment of Fischer/Ravizza, verify connections to free-will.md, agent-causation.md. Promoted from P3 to maintain healthy active queue.
-- **Source**: staleness
-- **Generated**: 2026-02-02
-
 ### P2: Integrate attention-schema-theory-critique.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article has no inbound links. Critiques Michael Graziano's attention schema theory from the Map's dualist perspective. Add cross-references from structure-of-attention.md, illusionism.md, consciousness-theories.md. High-value integration as it strengthens the Map's position against eliminativist approaches.
@@ -545,6 +539,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Deep review reasons-responsiveness.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers reasons-responsive compatibilism—important for free will discussions. Check philosophical accuracy, ensure proper treatment of Fischer/Ravizza, verify connections to free-will.md, agent-causation.md. Promoted from P3 to maintain healthy active queue.
+- **Output**: obsidian/concepts/reasons-responsiveness.md
 
 ### ✓ 2026-02-04: Condense materialism.md (3788 words, 108% of target)
 - **Type**: condense

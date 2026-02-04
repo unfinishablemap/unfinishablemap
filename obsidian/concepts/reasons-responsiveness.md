@@ -4,8 +4,8 @@ description: "Reasons-responsiveness is the capacity to track normative relation
 created: 2026-02-01
 modified: 2026-02-01
 human_modified: null
-ai_modified: 2026-02-02T14:21:00+00:00
-last_deep_review: 2026-02-02T14:21:00+00:00
+ai_modified: 2026-02-04T09:29:00+00:00
+last_deep_review: 2026-02-04T09:29:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -20,6 +20,7 @@ concepts:
   - "[[causal-closure]]"
   - "[[epiphenomenalism]]"
   - "[[self-stultification]]"
+  - "[[phenomenal-consciousness]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -71,7 +72,7 @@ The [[phenomenology-of-choice|phenomenology of choice]] reveals the reasons-resp
 
 Physical systems can instantiate correlations: this neural pattern regularly co-occurs with that environmental feature. But correlation isn't representation, and co-occurrence isn't aboutness. For a system to be reasons-responsive, it must grasp logical relationships *as* logical—recognizing that the conclusion follows *because* the premises entail it, not merely that the conclusion regularly appears when the premises do.
 
-This "seeing as" appears to require phenomenal consciousness: the subjective awareness of reasons *qua* reasons. An entirely unconscious system might implement reliable truth-tracking mechanisms—as a thermostat reliably tracks temperature—but it couldn't engage in rational inference as such. It couldn't appreciate *why* the conclusion follows, or recognize *good* reasons as good.
+This "seeing as" appears to require [[phenomenal-consciousness]]: the subjective awareness of reasons *qua* reasons. An entirely unconscious system might implement reliable truth-tracking mechanisms—as a thermostat reliably tracks temperature—but it couldn't engage in rational inference as such. It couldn't appreciate *why* the conclusion follows, or recognize *good* reasons as good.
 
 The [[argument-from-reason|argument from reason]] develops this point systematically. If physicalism is true—if thoughts are fully explainable by nonrational physical causes—then no belief is rationally justified, including belief in physicalism itself. Rational inference requires tracking normative relationships, but physical causation operates via efficient causes that cannot instantiate normativity. The very possibility of justified belief requires something beyond physical description. The argument is [[self-stultification|self-stultifying]] for physicalism: accepting it undermines the rational grounds for accepting anything, including itself.
 
@@ -87,7 +88,7 @@ A functionalist might respond that "ought" can be naturalised—beliefs ought to
 
 ### The Generality Problem
 
-To assess whether a belief-forming process is reliable, we must specify *which type* of process produced it. But any belief-forming episode instantiates countless types: "visual perception," "visual perception in dim light," "visual perception when tired." Which type is the right one to evaluate? There is no non-normative answer—the choice presupposes judgments about epistemically relevant features.
+To assess whether a belief-forming process is reliable, we must specify *which type* of process produced it. But any belief-forming episode instantiates countless types: "visual perception," "visual perception in dim light," "visual perception when tired." Which type is the right one to evaluate? Consider a belief formed from seeing a red barn in barn façade country—is this an instance of reliable "visual perception" or unreliable "visual perception in regions with many fake barns"? There is no non-normative answer—the choice presupposes judgments about epistemically relevant features, smuggling in the very normativity reliabilism sought to naturalise.
 
 ### AI Systems and Pattern-Matching
 
@@ -135,7 +136,7 @@ Reasons-responsiveness connects to multiple [[tenets]]:
 
 ## References
 
-- Fischer, J.M., & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge University Press. (Develops reasons-responsiveness as the basis of moral responsibility.)
+- Fischer, J.M., & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge University Press. (Develops "moderate reasons-responsiveness"—the capacity to recognise and react to some range of reasons—as the basis of moral responsibility. Their framework distinguishes strong from weak reasons-responsiveness; only the moderate version is required for attributing responsibility.)
 - Goldman, A. (1979). "What Is Justified Belief?" In G. Pappas (Ed.), *Justification and Knowledge*. Reidel. (Classic reliabilist account.)
 - Sellars, W. (1956). "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, vol. 1. (Original formulation of the space of reasons.)
 - Wolf, S. (1990). *Freedom Within Reason*. Oxford University Press. (Connects reasons-responsiveness to free will and moral responsibility.)
