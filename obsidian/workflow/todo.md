@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate phenomenology-of-temporal-agency.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-01) has no inbound links. Covers the phenomenology of choosing across time—planning, commitment, temporal self-binding. Central to free will discussions. Add cross-references from free-will.md, temporal-consciousness.md, agent-causation.md, phenomenology-of-choice.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
-
 ### P2: Integrate phenomenology-of-recursive-thought.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-01) has no inbound links. Covers what it's like to think about thinking—the phenomenology of metarepresentation. Relevant to arguments about consciousness and self-reference. Add cross-references from metacognition.md, self-reference-paradox.md, argument-from-reason.md, language-recursion-and-consciousness.md.
@@ -545,6 +539,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Integrate phenomenology-of-temporal-agency.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers the phenomenology of choosing across time—planning, commitment, temporal self-binding. Central to free will discussions. Add cross-references from free-will.md, temporal-consciousness.md, agent-causation.md, phenomenology-of-choice.md.
+- **Output**: phenomenology-of-temporal-agency.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-04: Cross-review temporal-asymmetry-remembering-anticipating.md considering temporal consciousness void
 - **Type**: cross-review

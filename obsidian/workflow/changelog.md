@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-04 14:42 UTC - deep-review
+- **Status**: No action needed
+- **File**: phenomenology-of-temporal-agency.md
+- **Finding**: File was archived on 2026-02-01 (coalesced into [[topics/temporal-structure-of-consciousness]])
+- **Issue**: Stale duplicate existed at `hugo/content/topics/` without archive markers, causing orphan detection
+- **Action**: Removed stale duplicate file; archive version at `hugo/content/archive/topics/` is correct
+- **Note**: The "orphan" status was expected—archived stubs don't need inbound links since visitors are redirected to superseding content
+
+---
+
 ## 2026-02-04 11:13 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/temporal-asymmetry-remembering-anticipating]]
