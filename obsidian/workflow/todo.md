@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate emotional-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concepts article (2026-01-19) has no inbound links. Covers the phenomenal character of emotions—hedonic valence, affective qualia. Central to consciousness-value-connection. Add cross-references from qualia.md, phenomenal-value-realism.md, consciousness-value-connection.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
-
 ### P2: Condense functionalism.md (4250 words, 121% of target)
 - **Type**: condense
 - **Notes**: Arguments article exceeds 3500-word hard threshold. Preserve core critiques of functionalism while removing redundancy. Defer detailed subtopics to linked articles. See /condense skill.
@@ -539,6 +533,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Integrate emotional-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concepts article (2026-01-19) has no inbound links. Covers the phenomenal character of emotions—hedonic valence, affective qualia. Central to consciousness-value-connection. Add cross-references from qualia.md, phenomenal-value-realism.md, consciousness-value-connection.md.
+- **Output**: obsidian/topics/emotional-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-04: Write article on Buddhist perspectives on meaning
 - **Type**: expand-topic
