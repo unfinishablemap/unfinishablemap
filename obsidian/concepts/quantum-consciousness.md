@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-02-04T17:27:00+00:00
+ai_modified: 2026-02-04T23:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-02-04T17:27:00+00:00
+last_deep_review: 2026-02-04T23:27:00+00:00
 ---
 
 Several scientific proposals explain how consciousness might interact with physics at the quantum level. These aren't "quantum mysticism" but rigorous theories by physicists and neuroscientists, proposing mechanisms by which consciousness could influence brain activity without violating physical law.
@@ -197,6 +197,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [[attention-motor-quantum-interface]] — Unification of attention and motor selection
 
 **Key concepts:**
+- [[consciousness-and-quantum-measurement]] — The structural parallel between the measurement and hard problems
 - [[quantum-decoherence-objection]] — Analysis of the decoherence challenge
 - [[psychophysical-coupling]] — What a coupling law must specify
 - [[coupling-modes]] — Basis, timing, and probability control: how consciousness might couple

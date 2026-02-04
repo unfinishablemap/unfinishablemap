@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Review quantum-consciousness.md considering consciousness-and-quantum-measurement insights
-- **Type**: cross-review
-- **Notes**: New article consciousness-and-quantum-measurement.md (2026-02-04) provides detailed treatment of measurement problem. Review quantum-consciousness.md for cross-links, complementary arguments, or redundancies. Ensure consistent treatment of collapse interpretations.
-- **Source**: chain (from consciousness-and-quantum-measurement.md)
-- **Generated**: 2026-02-04
-
 ### P2: Integrate consciousness-and-quantum-measurement.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-04) has no inbound links. Covers consciousness and the quantum measurement problem—central to the Map's position on why consciousness might play a fundamental role in physics. Add cross-references from quantum-consciousness.md, measurement-problem.md, collapse-interpretations.md, observer-effect.md.
@@ -587,6 +581,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Review quantum-consciousness.md considering consciousness-and-quantum-measurement insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-quantum-measurement.md (2026-02-04) provides detailed treatment of measurement problem. Review quantum-consciousness.md for cross-links, complementary arguments, or redundancies. Ensure consistent treatment of collapse interpretations.
+- **Output**: obsidian/concepts/quantum-consciousness.md -- Context: Review quantum-consciousness.md considering consciousness-and-quantum-measurement insights
 
 ### ✓ 2026-02-04: Write article on quantum biology mechanisms in neural systems
 - **Type**: expand-topic
