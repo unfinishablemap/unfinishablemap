@@ -4,7 +4,7 @@ description: "Fundamental physics equations work equally well forward and backwa
 created: 2026-02-01
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-03T01:27:00+00:00
+ai_modified: 2026-02-04T21:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-02-03T01:27:00+00:00
+last_deep_review: 2026-02-04T21:57:00+00:00
 ---
 
 Time-symmetric physics refers to the property of fundamental physical laws working equally well when run backward in time. The Schrödinger equation, Maxwell's equations, and general relativity are all time-reversal invariant—given any solution, reversing the direction of time produces another valid solution. This symmetry has profound implications: if fundamental physics doesn't distinguish past from future, the apparent "arrow of time" we experience must emerge from something other than basic physical law.

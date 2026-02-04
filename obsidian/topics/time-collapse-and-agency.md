@@ -73,7 +73,7 @@ But even this needs refinement. If consciousness's selection is truly atemporal,
 
 ## Atemporal Selection and Emergent Time
 
-The transactional interpretation and related frameworks (Aharonov's Two-State Vector Formalism, Kastner's possibilist extension) describe quantum events as transactions between past boundary conditions and future absorbers. The "handshake" that completes a transaction isn't located at a time—it's the satisfaction of constraints across time.
+The transactional interpretation and related frameworks (Aharonov's Two-State Vector Formalism, Kastner's possibilist extension) describe quantum events as transactions between past boundary conditions and future absorbers—grounded in the [[time-symmetric-physics|fundamental time-symmetry of physical laws]]. The "handshake" that completes a transaction isn't located at a time—it's the satisfaction of constraints across time.
 
 Apply this to consciousness:
 

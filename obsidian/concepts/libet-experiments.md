@@ -105,7 +105,7 @@ Additionally, the [[luck-objection|luck objection]] literature shows that the re
 
 The timing problem—consciousness seeming to arrive "too late"—assumes linear causation. But if consciousness operates at the quantum level, and quantum mechanics permits [[retrocausality|retrocausal]] influences, the problem dissolves.
 
-**Time-symmetric physics**: Quantum mechanics is fundamentally time-symmetric. The equations work equally well run forward or backward. Physicists like Huw Price argue that if physics is time-symmetric and causal, some influences must run backward in time.
+**[[time-symmetric-physics|Time-symmetric physics]]**: Quantum mechanics is fundamentally time-symmetric. The equations work equally well run forward or backward. Physicists like Huw Price argue that if physics is time-symmetric and causal, some influences must run backward in time.
 
 **Cramer's transactional interpretation**: Quantum events involve "offer waves" propagating forward and "confirmation waves" propagating backward. The "handshake" between them—the transaction—is atemporal. It doesn't occur at a moment; it determines which moments become actual.
 

@@ -61,7 +61,7 @@ But decoherence doesn't solve the [[measurement-problem|measurement problem]]. I
 
 ### Time-Symmetric Interpretations: Atemporal Collapse
 
-A third approach preserves fundamental time-symmetry. Aharonov's Two-State Vector Formalism (TSVF), Cramer's transactional interpretation, and related frameworks describe quantum systems with boundary conditions at both past and future. Complete specification of a quantum state requires both a forward-evolving and backward-evolving wave.
+A third approach preserves fundamental [[time-symmetric-physics|time-symmetry]]. Aharonov's Two-State Vector Formalism (TSVF), Cramer's transactional interpretation, and related frameworks describe quantum systems with boundary conditions at both past and future. Complete specification of a quantum state requires both a forward-evolving and backward-evolving wave.
 
 In these views, "collapse" isn't a moment when superposition ends. It's the satisfaction of constraints across time—a transaction confirmed when future and past conditions align. The apparent arrow emerges perspectivally, from observers embedded within the temporal structure.
 

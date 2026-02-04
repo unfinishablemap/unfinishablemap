@@ -115,7 +115,7 @@ Quantum mechanics reintroduces temporal asymmetry. The Schrödinger equation is 
 
 **Decoherence**: Apparent collapse reduces to entanglement with environment. Irreversibility is thermodynamic (entropy increase), not fundamental. This supports B-theory—all times exist; we just can't access coherent superpositions at macroscopic scales.
 
-**Time-symmetric interpretations**: [[retrocausality|Retrocausal]] frameworks (transactional interpretation, TSVF) describe quantum events as transactions between past and future boundary conditions. This challenges both presentism (future must exist to send backward-propagating waves) and simple eternalism (the transaction "completes" in some sense).
+**Time-symmetric interpretations**: [[retrocausality|Retrocausal]] frameworks (transactional interpretation, TSVF) describe quantum events as transactions between past and future boundary conditions. See [[time-symmetric-physics]] for how fundamental physics is time-reversal invariant. This challenges both presentism (future must exist to send backward-propagating waves) and simple eternalism (the transaction "completes" in some sense).
 
 ## The Map's Position
 
