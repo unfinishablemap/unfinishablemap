@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense varieties-of-unity.md (3527 words, 101% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core taxonomy of unity types (subject unity, object unity, spatial, temporal, access unity) while tightening prose. Consider whether detailed examples can be condensed or moved to linked articles.
-- **Source**: length_analysis
-- **Generated**: 2026-02-04
-
 ### P2: Deep review dualism.md for quality and accuracy
 - **Type**: deep-review
 - **Notes**: Core concept page (ai_contribution: 100) has never been deep-reviewed. Central to the Map's framework—defines substance dualism, property dualism, and the Map's position. Check philosophical accuracy, ensure arguments are current, verify connections to interactionist-dualism.md and arguments-for-dualism.md.
@@ -551,6 +545,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Condense varieties-of-unity.md (3527 words, 101% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core taxonomy of unity types (subject unity, object unity, spatial, temporal, access unity) while tightening prose. Consider whether detailed examples can be condensed or moved to linked articles.
+- **Output**: obsidian/concepts/varieties-of-unity.md
 
 ### ✓ 2026-02-04: Condense temporal-structure-of-consciousness.md (4029 words, 101% of hard threshold)
 - **Type**: condense
