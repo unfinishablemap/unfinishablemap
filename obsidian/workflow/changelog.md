@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-04 00:33 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Epistemology of Cognitive Limits
+- **Category**: Mixed (Unexplorable / Potentially Unexplored)
+- **Output**: [[research/voids-epistemology-of-cognitive-limits-2026-02-04]]
+- **Key finding**: The question of how we can know our cognitive limits is itself a meta-void—self-referential constraints on knowing our limits may be structural, and empirical research (Dunning-Kruger) suggests we systematically miscalibrate about our own competencies.
+
+---
+
 ## 2026-02-04 00:18 UTC - condense
 - **Status**: Reviewed, no condensation applied
 - **File**: [[concepts/functionalism]]
