@@ -4,7 +4,7 @@ description: "Working memory manipulation requires consciousness while maintenan
 created: 2026-01-17
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-03T09:11:00+00:00
+ai_modified: 2026-02-04T10:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -187,6 +187,7 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 
 ## Further Reading
 
+- [[consciousness-and-meaning-integration]] — How multiple meanings are held and woven into unified understanding
 - [[consciousness-as-amplifier]] — How WM expansion enables cognitive amplification
 - [[language-recursion-and-consciousness]] — How recursive linguistic structure depends on expanded WM capacity
 - [[attention-as-interface]] — Attention as the causal bridge between consciousness and neural systems

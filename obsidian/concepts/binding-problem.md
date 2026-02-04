@@ -4,7 +4,7 @@ description: "How do distributed neural processes combine into unified experienc
 created: 2026-01-14
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-01-28T19:07:44+00:00
+ai_modified: 2026-02-04T10:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -135,7 +135,7 @@ Classical mechanisms operate during sleep; phenomenal unity doesn't follow. This
 
 ### Language and Cognitive Binding
 
-[[language-recursion-and-consciousness|Recursive language processing]] provides another binding case study. Processing "The man who saw the woman who chased the dog ran" requires binding elements encountered sequentially into unified hierarchical structure. The phenomenal "click" when a complex sentence coheres resembles perceptual binding.
+[[language-recursion-and-consciousness|Recursive language processing]] provides another binding case study. Processing "The man who saw the woman who chased the dog ran" requires binding elements encountered sequentially into unified hierarchical structure. The phenomenal "click" when a complex sentence coheres resembles perceptual binding. [[consciousness-and-meaning-integration|Meaning integration]] generalises this insight: understanding any complex argument requires binding semantic elements into unified comprehension—the unity of understanding parallels the unity of perception.
 
 Structural ambiguity exposes selection: "I saw the man with the telescope" has two parses depending on which elements bind. We experience selecting a parse—consciousness choosing a binding configuration. If binding involves quantum collapse, this experience might be the phenomenal correlate of genuine agent-causation (see [[free-will]]).
 
@@ -236,6 +236,7 @@ The binding problem illuminates why the Map's [[tenets]] take the positions they
 - [[neural-binding-mechanisms]] — Focused treatment of classical and quantum binding mechanisms
 - [[unity-of-consciousness]] — The broader problem; binding is the synchronic dimension
 - [[phenomenal-unity]] — Phenomenal unity as metaphysical question
+- [[consciousness-and-meaning-integration]] — The binding problem extended to semantic content
 - [[combination-problem]] — How micro-experiences combine into macro-experience
 - [[quantum-binding-and-phenomenal-unity]] — Focused argument that entanglement explains unity
 - [[quantum-binding-experimental-evidence]] — Recent experimental evidence

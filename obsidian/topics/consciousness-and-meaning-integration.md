@@ -4,7 +4,7 @@ description: "How consciousness weaves disparate meanings into unified understan
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-02T11:02:00+00:00
+ai_modified: 2026-02-04T10:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-02-02T11:02:00+00:00
+last_deep_review: 2026-02-04T10:35:00+00:00
 ---
 
 Consciousness doesn't just bind perceptual features into unified experience—it weaves meanings into coherent wholes. When you understand a complex argument, grasp a life's trajectory, or see how disparate ideas connect, something integrates semantic content into unified comprehension. This meaning integration is distinct from both the [[binding-problem|perceptual binding problem]] (how visual features combine) and the [[meaning-and-consciousness|phenomenal constitution thesis]] (whether understanding requires consciousness). It concerns how consciousness creates coherent meaningful wholes from disparate semantic elements. The Unfinishable Map holds that this integration is irreducibly phenomenal: the unity of understanding cannot be decomposed into separately grasped meanings that merely correlate.

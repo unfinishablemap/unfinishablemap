@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-03T19:18:00+00:00
+ai_modified: 2026-02-04T10:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -118,7 +118,7 @@ Traditional discussions of phenomenal consciousness focus on sensory [[qualia]]�
 
 ## The Phenomenal Constitution Thesis
 
-The strongest interpretation of cognitive phenomenology holds that meaning is *constituted* by phenomenal character—not merely accompanied by it. The [[meaning-and-consciousness|Phenomenal Constitution Thesis (PCT)]] claims that to grasp a meaning *is* to have a certain kind of experience. Meaning and phenomenology are not separate features that happen to co-occur; they are two aspects of a single phenomenon.
+The strongest interpretation of cognitive phenomenology holds that meaning is *constituted* by phenomenal character—not merely accompanied by it. The [[meaning-and-consciousness|Phenomenal Constitution Thesis (PCT)]] claims that to grasp a meaning *is* to have a certain kind of experience. Meaning and phenomenology are not separate features that happen to co-occur; they are two aspects of a single phenomenon. [[consciousness-and-meaning-integration|Meaning integration]] extends this analysis: understanding a complex argument requires binding multiple semantic elements into unified comprehension—a phenomenal achievement irreducible to separately grasped meanings.
 
 PCT explains several puzzles:
 
@@ -255,6 +255,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 
 ## Further Reading
 
+- [[consciousness-and-meaning-integration]] — How consciousness weaves meanings into unified understanding
 - [[consciousness-and-language-interface]] — The bidirectional, lossy interface between consciousness and language
 - [[temporal-structure-of-understanding]] — Understanding's temporal phenomenology
 - [[language-recursion-and-consciousness]] — Recursive language as evidence for consciousness-dependent cognition

@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate consciousness-and-meaning-integration.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article has no inbound links. Covers how consciousness integrates meaning—central to the Map's position on meaning and consciousness. Add cross-references from meaning-of-life.md, meaning-and-consciousness.md, phenomenology-of-understanding.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
-
 ### P2: Write voids article on temporal consciousness void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-temporal-consciousness-void-2026-02-04.md. Explores the void in our understanding of how consciousness relates to temporal experience—why the "now" feels different from memory and anticipation in ways that resist physical description. Connects to temporal-consciousness.md, specious-present.md, phenomenology-of-the-edge.md.
@@ -563,6 +557,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Integrate consciousness-and-meaning-integration.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Covers how consciousness integrates meaning—central to the Map's position on meaning and consciousness. Add cross-references from meaning-of-life.md, meaning-and-consciousness.md, phenomenology-of-understanding.md.
+- **Output**: obsidian/topics/consciousness-and-meaning-integration.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-04: Integrate comparative-consciousness-and-interface-differences.md into site navigation
 - **Type**: integrate-orphan

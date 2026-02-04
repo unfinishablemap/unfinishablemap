@@ -4,7 +4,7 @@ description: "Consciousness as global information broadcast. GWT explains when s
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-02-04T09:43:00+00:00
+ai_modified: 2026-02-04T10:35:00+00:00
 draft: false
 last_deep_review: 2026-01-29T16:45:00+00:00
 topics:
@@ -252,6 +252,7 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [[higher-order-theories]] — Competitor theory requiring higher-order representation
 - [[predictive-processing]] — Prediction-error framework integratable with GWT
 - [[attention-as-interface]] — Attention as the Map's proposed mind-matter interface
+- [[consciousness-and-meaning-integration]] — Why availability isn't integration: the unity of understanding
 - [[working-memory]] — The cognitive system implementing the workspace architecture
 - [[episodic-memory]] — Autonoetic consciousness requiring full workspace ignition
 - [[semantic-memory]] — Noetic consciousness with intermediate workspace access

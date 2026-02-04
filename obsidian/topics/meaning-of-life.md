@@ -4,7 +4,7 @@ description: "What makes life meaningful? The Map suggests meaning is grounded i
 created: 2026-01-08
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-04T06:50:00+00:00
+ai_modified: 2026-02-04T10:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -101,7 +101,7 @@ If MWI is false, choices have unique significance. You chose A, period. That's t
 
 ### Your Identity Is Unrepeatable
 
-This connects to [[personal-identity]]. If Parfit were right that you're interchangeable with any psychological replica, your particular existence would seem less significant. But if *you* are this unrepeatable conscious being, your existence has unique significance. No one else can live your life. The conscious experiences that constitute your life are *yours* in a way that can't be transferred—this particular conscious perspective, living this unrepeatable life.
+This connects to [[personal-identity]]. If Parfit were right that you're interchangeable with any psychological replica, your particular existence would seem less significant. But if *you* are this unrepeatable conscious being, your existence has unique significance. No one else can live your life. The conscious experiences that constitute your life are *yours* in a way that can't be transferred—this particular conscious perspective, living this unrepeatable life. [[consciousness-and-meaning-integration|Narrative integration]]—the capacity to grasp how disparate experiences fit into a meaningful trajectory—is part of what makes a life *unified* rather than a mere sequence of moments.
 
 ## Eastern Perspectives
 
@@ -256,6 +256,7 @@ The position takes seriously what we actually know: consciousness exists, it's r
 ## Further Reading
 
 ### Core Concepts
+- [[consciousness-and-meaning-integration]] — How consciousness weaves meanings into unified understanding and life trajectory
 - [[nihilism]] — The case for meaninglessness and responses to it
 - [[existentialism]] — Sartre's pour-soi and the phenomenology of freedom support consciousness-grounded meaning
 - [[phenomenal-value-realism]] — The metaethical grounding for consciousness-based value
