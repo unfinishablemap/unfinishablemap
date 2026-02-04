@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-04 18:03 UTC - deep-review
+- **Status**: Skipped (archived content)
+- **File**: working-memory-as-consciousness-amplifier.md
+- **Reason**: Article was archived on 2026-02-02 and coalesced into [[concepts/working-memory]]. Archived content should not be reviewed—the superseding article is the canonical version.
+- **Note**: If inbound links are needed, they should point to the working-memory concept page, not this archived article.
+
+---
+
 ## 2026-02-04 17:46 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Developmental Cognitive Closure
