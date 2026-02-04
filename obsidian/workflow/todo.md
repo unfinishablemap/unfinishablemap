@@ -55,6 +55,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-02-04
 
+### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-04 morning) found systematic vulnerabilities in mind-matter-interface.md, consciousness-selecting-neural-patterns.md, and brain-interface-boundary.md. Two high-severity issues: (1) Two-layer architecture (filter + selection) may be explanatory strategy rather than testable theory—each layer does work the other can't check. Need to explain what fails if we drop one layer. (2) Quantum Zeno mechanism central but has 10-order-of-magnitude timescale gap—Zeno requires femtosecond observations while attention operates on 100ms timescales. Need to address or acknowledge this gap. Also: filter theory evidence (psychedelics, NDEs) presented more favorably than warranted; interface criteria may be post-hoc. See pessimistic-2026-02-04-morning.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-04
+
 ### P3: Strengthen impossibility arguments in foundational voids
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-03 afternoon) found systematic vulnerability in self-reference-paradox.md, origin-of-consciousness.md, and other-minds-void.md: all three conflate *persistence* of problems with *structural impossibility*. Need to distinguish "this hasn't been solved" from "this is unsolvable." Also address Gödelian overreach in self-reference article (minds aren't formal systems). Lower priority as phenomenological descriptions remain valuable. See pessimistic-2026-02-03-afternoon.md
