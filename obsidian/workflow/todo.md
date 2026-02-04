@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate baseline-cognition.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article on baseline cognition (cognitive functions that operate independently of consciousness) has no inbound links. Add cross-references from consciousness-as-amplifier.md, consciousness-and-intelligence.md, consciousness-independent-baseline-cognition.md, and related concepts that discuss what cognition can accomplish without conscious involvement.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
-
 ### P2: Integrate consciousness-independent-baseline-cognition.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Concepts article on consciousness-independent baseline cognition has no inbound links. Add cross-references from baseline-cognition.md, consciousness-as-amplifier.md, implicit-memory.md, and related articles that discuss unconscious cognitive processing and its relationship to conscious amplification.
@@ -539,6 +533,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Integrate baseline-cognition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article on baseline cognition (cognitive functions that operate independently of consciousness) has no inbound links. Add cross-references from consciousness-as-amplifier.md, consciousness-and-intelligence.md, consciousness-independent-baseline-cognition.md, and related concepts that discuss what cognition can accomplish without conscious involvement.
+- **Output**: obsidian/concepts/baseline-cognition.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-04: Review temporal-asymmetry-remembering-anticipating.md considering temporal-consciousness-void insights
 - **Type**: cross-review
