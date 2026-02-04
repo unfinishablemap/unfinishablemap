@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-29 16:45:00+00:00
+ai_modified: 2026-02-04 10:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -120,7 +120,7 @@ GWT can be integrated with predictive processing: the global workspace might bro
 
 Michael Graziano's [Attention Schema Theory](/concepts/attention-schema-theory/) holds that consciousness is the brain's simplified model of its own attention processes. The brain represents attention (a real information-processing mechanism) via an internal schema (a simplified model), and this schema is what we call consciousness.
 
-AST complements GWT: the attention schema might determine *which* information enters the workspace. But AST faces the same hard problem objection—representing attention doesn't explain why that representation feels like something.
+AST complements GWT: the attention schema might determine *which* information enters the workspace. But AST faces the same hard problem objection—representing attention doesn't explain why that representation feels like something. See [Why Attention Schema Theory Fails](/topics/attention-schema-theory-critique/) for the Map's detailed analysis.
 
 ## GWT and AI Consciousness
 
@@ -254,6 +254,7 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [higher-order-theories](/concepts/higher-order-theories/) — Competitor theory requiring higher-order representation
 - [predictive-processing](/concepts/predictive-processing/) — Prediction-error framework integratable with GWT
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the Map's proposed mind-matter interface
+- [consciousness-and-meaning-integration](/topics/consciousness-and-meaning-integration/) — Why availability isn't integration: the unity of understanding
 - [working-memory](/concepts/working-memory/) — The cognitive system implementing the workspace architecture
 - [episodic-memory](/concepts/episodic-memory/) — Autonoetic consciousness requiring full workspace ignition
 - [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness with intermediate workspace access

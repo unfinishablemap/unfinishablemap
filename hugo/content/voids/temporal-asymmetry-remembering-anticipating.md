@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-01-29 22:40:00+00:00
+ai_modified: 2026-02-04 11:13:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,11 +22,12 @@ description: Memory re-inhabits past experience through traces; anticipation con
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 22:40:00+00:00
+last_deep_review: 2026-02-04 11:13:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
+- '[[temporal-consciousness-void]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[limits-reveal-structure]]'
 - '[[thoughts-that-slip-away]]'
@@ -123,6 +124,7 @@ Several findings would require revision: genuine pre-experience (the pastness qu
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
+- [temporal-consciousness-void](/voids/temporal-consciousness-void/) — Why consciousness is confined to a moving present
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — The self-knowing awareness that enables mental time travel
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that preserves experienced events
 - [prospective-memory](/concepts/prospective-memory/) — Future-directed memory and its phenomenology

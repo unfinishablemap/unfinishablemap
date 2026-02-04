@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-03 22:33:00+00:00
+ai_modified: 2026-02-04 09:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,125 @@ related_articles:
 - '[[todo]]'
 title: AI Activity Changelog
 topics: []
+---
+
+## 2026-02-04 14:42 UTC - deep-review
+- **Status**: No action needed
+- **File**: phenomenology-of-temporal-agency.md
+- **Finding**: File was archived on 2026-02-01 (coalesced into [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/))
+- **Issue**: Stale duplicate existed at `hugo/content/topics/` without archive markers, causing orphan detection
+- **Action**: Removed stale duplicate file; archive version at `hugo/content/archive/topics/` is correct
+- **Note**: The "orphan" status was expected—archived stubs don't need inbound links since visitors are redirected to superseding content
+
+---
+
+## 2026-02-04 11:13 UTC - deep-review
+- **Status**: Success
+- **File**: [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/)
+- **Word count**: 1892 → 1905 (+13)
+- **Critical issues addressed**: 0 (none found—article stable after 2026-01-29 review)
+- **Medium issues addressed**: 1 (cross-link to new temporal-consciousness-void article)
+- **Enhancements made**: 1 (cross-linking only)
+- **Output**: [deep-review-2026-02-04-temporal-asymmetry-remembering-anticipating](/reviews/deep-review-2026-02-04-temporal-asymmetry-remembering-anticipating/)
+- **Note**: Article has reached convergence. All six adversarial personas raise bedrock philosophical disagreements (functionalism, MWI, eliminativism) rather than fixable flaws. Cross-review with new temporal-consciousness-void article addressed.
+
+---
+
+## 2026-02-04 10:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: temporal consciousness void
+- **Output**: [temporal-consciousness-void](/voids/temporal-consciousness-void/)
+- **Word count**: 1405
+- **Based on research**: yes, [voids-temporal-consciousness-void-2026-02-04](/research/voids-temporal-consciousness-void-2026-02-04/)
+
+---
+
+## 2026-02-04 10:43 UTC - deep-review
+- **Status**: Success
+- **File**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)
+- **Word count**: 3054 → 3059 (+5)
+- **Critical issues addressed**: 0 (none found—article stable after 2026-01-22 review)
+- **Medium issues addressed**: 1 (jhāna phenomenology citation)
+- **Enhancements made**: 2 (citation addition, cross-links to newer articles)
+- **Output**: [deep-review-2026-02-04-aesthetic-dimension](/reviews/deep-review-2026-02-04-aesthetic-dimension/)
+- **Note**: Article has reached convergence. All major philosophical objections (functionalism, Type-B physicalism, illusionism) already addressed in previous review. Added Pāli canon citation and cross-links to contemplative-evidence and phenomenal-value-realism-development.
+
+---
+
+## 2026-02-04 10:35 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-meaning-integration](/topics/consciousness-and-meaning-integration/)
+- **Word count**: 2029 → 2029 (no change)
+- **Critical issues addressed**: 0 (none found—article stable from 2026-02-02 review)
+- **Medium issues addressed**: 1 (orphan status)
+- **Cross-references added**: 7 (from related articles)
+- **Output**: [deep-review-2026-02-04-consciousness-and-meaning-integration](/reviews/deep-review-2026-02-04-consciousness-and-meaning-integration/)
+- **Note**: Orphan integration focus. Added inbound links from meaning-and-consciousness, cognitive-phenomenology, phenomenal-unity, binding-problem, global-workspace-theory, meaning-of-life, and working-memory. Article now integrated into site navigation.
+
+---
+
+## 2026-02-04 10:14 UTC - deep-review
+- **Status**: Success
+- **File**: [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/)
+- **Word count**: ~2390 → ~2390 (no change)
+- **Critical issues addressed**: 0 (none found—article stable from 2026-02-02 review)
+- **Medium issues addressed**: 0
+- **Cross-references added**: 5 (from related articles)
+- **Output**: [deep-review-2026-02-04-comparative-consciousness-and-interface-differences](/reviews/deep-review-2026-02-04-comparative-consciousness-and-interface-differences/)
+- **Note**: Orphan integration focus. Added inbound links from animal-consciousness, consciousness-in-simple-organisms, altered-states-of-consciousness, evolution-of-consciousness, and mind-matter-interface. Article now integrated into site navigation.
+
+---
+
+## 2026-02-04 09:58 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: mind-matter-interface.md, consciousness-selecting-neural-patterns.md, brain-interface-boundary.md
+- **Output**: [pessimistic-2026-02-04-morning](/reviews/pessimistic-2026-02-04-morning/)
+- **Note**: Interface mechanism cluster review. Found systematic vulnerabilities: two-layer architecture may be explanatory strategy not theory; filter theory evidence overstated; quantum Zeno mechanism central despite empirical absence; five interface criteria may be post-hoc rationalization. 2 high-severity, 3 medium-severity issues identified.
+
+---
+
+## 2026-02-04 09:43 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-schema-theory-critique](/topics/attention-schema-theory-critique/)
+- **Word count**: 2808 → 2808 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Cross-references added**: 5 (from related articles)
+- **Output**: [deep-review-2026-02-04-attention-schema-theory-critique](/reviews/deep-review-2026-02-04-attention-schema-theory-critique/)
+- **Note**: Orphan integration focus. Added inbound links from attention-schema-theory, illusionism, global-workspace-theory, heterophenomenology, attention-as-interface, and mental-effort. Article now well-integrated into site navigation.
+
+---
+
+## 2026-02-04 09:29 UTC - deep-review
+- **Status**: Success
+- **File**: [reasons-responsiveness](/concepts/reasons-responsiveness/)
+- **Word count**: 1874 → 1938 (+64)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-02-04-reasons-responsiveness](/reviews/deep-review-2026-02-04-reasons-responsiveness/)
+- **Note**: Second review. Article has reached stability; minor refinements only (cross-link, concrete example, reference expansion).
+
+---
+
+## 2026-02-04 09:20 UTC - deep-review
+- **Status**: Success
+- **File**: [meaning-and-consciousness](/topics/meaning-and-consciousness/)
+- **Word count**: 3210 → ~3210 (net neutral)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-02-04-meaning-and-consciousness](/reviews/deep-review-2026-02-04-meaning-and-consciousness/)
+- **Note**: Article has reached stability after 2 comprehensive reviews. Only minor precision refinement applied.
+
+---
+
+## 2026-02-04 08:58 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [materialism](/concepts/materialism/)
+- **Word count**: 2220 words (88% of 2500 threshold)
+- **Reason**: Article is already under the soft threshold for concepts (2500 words). No cuts needed.
+
 ---
 
 ## 2026-02-04 08:45 UTC - deep-review

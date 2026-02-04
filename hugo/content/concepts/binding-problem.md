@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-01-28 19:07:44+00:00
+ai_modified: 2026-02-04 10:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -138,7 +138,7 @@ Classical mechanisms operate during sleep; phenomenal unity doesn't follow. This
 
 ### Language and Cognitive Binding
 
-[Recursive language processing](/topics/language-recursion-and-consciousness/) provides another binding case study. Processing "The man who saw the woman who chased the dog ran" requires binding elements encountered sequentially into unified hierarchical structure. The phenomenal "click" when a complex sentence coheres resembles perceptual binding.
+[Recursive language processing](/topics/language-recursion-and-consciousness/) provides another binding case study. Processing "The man who saw the woman who chased the dog ran" requires binding elements encountered sequentially into unified hierarchical structure. The phenomenal "click" when a complex sentence coheres resembles perceptual binding. [Meaning integration](/topics/consciousness-and-meaning-integration/) generalises this insight: understanding any complex argument requires binding semantic elements into unified comprehension—the unity of understanding parallels the unity of perception.
 
 Structural ambiguity exposes selection: "I saw the man with the telescope" has two parses depending on which elements bind. We experience selecting a parse—consciousness choosing a binding configuration. If binding involves quantum collapse, this experience might be the phenomenal correlate of genuine agent-causation (see [free-will](/topics/free-will/)).
 
@@ -239,6 +239,7 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 - [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) — Focused treatment of classical and quantum binding mechanisms
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The broader problem; binding is the synchronic dimension
 - [phenomenal-unity](/concepts/phenomenal-unity/) — Phenomenal unity as metaphysical question
+- [consciousness-and-meaning-integration](/topics/consciousness-and-meaning-integration/) — The binding problem extended to semantic content
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into macro-experience
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Focused argument that entanglement explains unity
 - [quantum-binding-experimental-evidence](/concepts/quantum-binding-experimental-evidence/) — Recent experimental evidence

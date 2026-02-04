@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-02-04 04:20:00+00:00
+ai_modified: 2026-02-04 09:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -170,7 +170,7 @@ The appearance of multiple interfaces reflects attention's domain-generality, no
 
 [Illusionists](/concepts/illusionism/) like Daniel Dennett and Keith Frankish argue there's no phenomenal consciousness requiring a special interface. If the "what it's like" of experience is an introspective illusion, the hard problem dissolves—and with it the motivation for attention as interface. The attention schema might simply *be* consciousness: not an interface to something else, but the whole story.
 
-**the Map's response**: Illusionism faces the infinite regress problem. If attention involves the illusion of phenomenal engagement, something must be experiencing that illusion. The seeming of effort—the felt cost of sustaining attention—must appear *to* something. Raymond Tallis's point applies: "Misrepresentation presupposes presentation." The attention schema theory explains why we *report* being conscious, not why there's anything it's like to direct attention.
+**the Map's response**: Illusionism faces the infinite regress problem. If attention involves the illusion of phenomenal engagement, something must be experiencing that illusion. The seeming of effort—the felt cost of sustaining attention—must appear *to* something. Raymond Tallis's point applies: "Misrepresentation presupposes presentation." The [attention schema theory](/concepts/attention-schema-theory/) explains why we *report* being conscious, not why there's anything it's like to direct attention. See [Why Attention Schema Theory Fails](/topics/attention-schema-theory-critique/) for the full critique.
 
 More directly: the phenomenology of effort resists deflationary analysis. When you maintain focus against distraction, the *cost* feels real. Illusionism must explain why this seeming of genuine work is so resistant to dissolution—why even philosophers who intellectually accept illusionism report that attention *still feels* effortful. The persistence of effort phenomenology, like the persistence of pain phenomenology, suggests something more than representation is at stake.
 

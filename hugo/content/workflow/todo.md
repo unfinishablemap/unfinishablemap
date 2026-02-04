@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-04 06:05:00+00:00
+ai_modified: 2026-02-04 10:28:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,17 +44,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense materialism.md (3788 words, 108% of target)
-- **Type**: condense
-- **Notes**: Arguments article exceeds 3500-word hard threshold. This is a foundational critique article—preserve core arguments against materialism while removing redundancy and deferring detailed responses to linked articles. See /condense skill.
-- **Source**: length_analysis
+### P2: Integrate phenomenology-of-recursive-thought.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers what it's like to think about thinking—the phenomenology of metarepresentation. Relevant to arguments about consciousness and self-reference. Add cross-references from metacognition.md, self-reference-paradox.md, argument-from-reason.md, language-recursion-and-consciousness.md.
+- **Source**: orphan_integration
 - **Generated**: 2026-02-04
 
-### P2: Deep review reasons-responsiveness.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers reasons-responsive compatibilism—important for free will discussions. Check philosophical accuracy, ensure proper treatment of Fischer/Ravizza, verify connections to free-will.md, agent-causation.md. Promoted from P3 to maintain healthy active queue.
-- **Source**: staleness
-- **Generated**: 2026-02-02
+### P2: Cross-review eastern-philosophy-consciousness.md considering Buddhist perspectives on meaning
+- **Type**: cross-review
+- **Notes**: New article topics/buddhist-perspectives-on-meaning.md (2026-02-04) provides detailed treatment of Buddhist meaning frameworks. The eastern-philosophy-consciousness.md overview should be cross-reviewed for: (1) cross-links to the new Buddhist meaning treatment, (2) whether the overview adequately represents Buddhist approaches to meaning, (3) consistency in treatment of suffering, clinging, and liberation.
+- **Source**: chain (from buddhist-perspectives-on-meaning.md)
+- **Generated**: 2026-02-04
+
+### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-04 morning) found systematic vulnerabilities in mind-matter-interface.md, consciousness-selecting-neural-patterns.md, and brain-interface-boundary.md. Two high-severity issues: (1) Two-layer architecture (filter + selection) may be explanatory strategy rather than testable theory—each layer does work the other can't check. Need to explain what fails if we drop one layer. (2) Quantum Zeno mechanism central but has 10-order-of-magnitude timescale gap—Zeno requires femtosecond observations while attention operates on 100ms timescales. Need to address or acknowledge this gap. Also: filter theory evidence (psychedelics, NDEs) presented more favorably than warranted; interface criteria may be post-hoc. See pessimistic-2026-02-04-morning.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-04
 
 ### P3: Strengthen impossibility arguments in foundational voids
 - **Type**: refine-draft
@@ -534,6 +540,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Integrate phenomenology-of-temporal-agency.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers the phenomenology of choosing across time—planning, commitment, temporal self-binding. Central to free will discussions. Add cross-references from free-will.md, temporal-consciousness.md, agent-causation.md, phenomenology-of-choice.md.
+- **Output**: phenomenology-of-temporal-agency.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-04: Cross-review temporal-asymmetry-remembering-anticipating.md considering temporal consciousness void
+- **Type**: cross-review
+- **Notes**: New article voids/temporal-consciousness-void.md (2026-02-04) explores consciousness's confinement to the moving present. The temporal-asymmetry article should be cross-reviewed for: (1) cross-links to the new temporal void treatment, (2) whether the asymmetry between memory and anticipation is an aspect of the broader temporal confinement, (3) consistency in treatment of the specious present and Husserl's tripartite structure.
+- **Output**: obsidian/voids/temporal-asymmetry-remembering-anticipating.md -- Context: Cross-review temporal-asymmetry-remembering-anticipating.md considering temporal consciousness void
+
+### ✓ 2026-02-04: Write voids article on temporal consciousness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-temporal-consciousness-void-2026-02-04.md. Explores the void in our understanding of how consciousness relates to temporal experience—why the "now" feels different from memory and anticipation in ways that resist physical description. Connects to temporal-consciousness.md, specious-present.md, phenomenology-of-the-edge.md.
+- **Output**: Write voids article on temporal consciousness void
+
+### ✓ 2026-02-04: Integrate consciousness-and-meaning-integration.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Covers how consciousness integrates meaning—central to the Map's position on meaning and consciousness. Add cross-references from meaning-of-life.md, meaning-and-consciousness.md, phenomenology-of-understanding.md.
+- **Output**: obsidian/topics/consciousness-and-meaning-integration.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-04: Integrate comparative-consciousness-and-interface-differences.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Explores how different species might have different consciousness-brain interfaces. Add cross-references from animal-consciousness.md, consciousness-in-simple-organisms.md, evolution-of-consciousness.md, attention-interface-mechanisms.md.
+- **Output**: obsidian/topics/comparative-consciousness-and-interface-differences.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-04: Integrate attention-schema-theory-critique.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Critiques Michael Graziano's attention schema theory from the Map's dualist perspective. Add cross-references from structure-of-attention.md, illusionism.md, consciousness-theories.md. High-value integration as it strengthens the Map's position against eliminativist approaches.
+- **Output**: obsidian/topics/attention-schema-theory-critique.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-04: Deep review reasons-responsiveness.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated concept (ai_contribution: 100) has never been deep-reviewed. Covers reasons-responsive compatibilism—important for free will discussions. Check philosophical accuracy, ensure proper treatment of Fischer/Ravizza, verify connections to free-will.md, agent-causation.md. Promoted from P3 to maintain healthy active queue.
+- **Output**: obsidian/concepts/reasons-responsiveness.md
+
+### ✓ 2026-02-04: Condense materialism.md (3788 words, 108% of target)
+- **Type**: condense
+- **Notes**: Arguments article exceeds 3500-word hard threshold. This is a foundational critique article—preserve core arguments against materialism while removing redundancy and deferring detailed responses to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/materialism.md
 
 ### ✓ 2026-02-04: Cross-review three-kinds-of-void.md considering epistemology of cognitive limits
 - **Type**: cross-review

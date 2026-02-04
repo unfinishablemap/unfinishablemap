@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-27 19:30:00+00:00
+ai_modified: 2026-02-04 10:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -218,6 +218,7 @@ Scientific humility requires specifying what would count against one's view.
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognitive capacity and the baseline cognition hypothesis
 - [minimal-consciousness](/archive/concepts/minimal-consciousness/) — How little neural complexity can support consciousness?
 - [animal-consciousness](/topics/animal-consciousness/) — The question of which creatures are conscious
+- [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Does the interface vary across species and states?
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What selected outcomes before minds existed
 - [emergence](/concepts/emergence/) — Strong vs weak emergence and consciousness
 - [panpsychism](/concepts/panpsychism/) — The view that experience is fundamental

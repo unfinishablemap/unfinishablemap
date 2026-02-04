@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-02-01 15:50:00+00:00
+ai_modified: 2026-02-04 09:43:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -101,7 +101,7 @@ The dilemma is sharp: either first-person reports about experience can ground me
 
 ## Connection to Illusionism
 
-Heterophenomenology naturally pairs with [illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an illusion. Keith Frankish, Michael Graziano, and other illusionists use heterophenomenology's framework: subjects report experiencing qualia, but these reports can be explained by cognitive mechanisms that involve no genuine phenomenal properties.
+Heterophenomenology naturally pairs with [illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an illusion. Keith Frankish, Michael Graziano, and other illusionists use heterophenomenology's framework: subjects report experiencing qualia, but these reports can be explained by cognitive mechanisms that involve no genuine phenomenal properties. Graziano's [Attention Schema Theory](/concepts/attention-schema-theory/) provides a specific mechanism; see [Why Attention Schema Theory Fails](/topics/attention-schema-theory-critique/) for the Map's response.
 
 The illusionist move: phenomenology is how cognition represents itself, not a genuine feature of reality. We seem to have phenomenal experiences because introspective mechanisms systematically misrepresent their own processes. Heterophenomenology provides the methodological scaffolding—first-person reports are data, but data about cognitive misrepresentation, not about real phenomenal properties.
 

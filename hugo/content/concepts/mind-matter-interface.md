@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-03 00:18:00+00:00
+ai_modified: 2026-02-04 10:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -295,6 +295,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 - [filter-theory](/concepts/filter-theory/) — The transmission model in detail (James, Bergson, Huxley)
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum selection mechanisms (Stapp, Orch OR)
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — How selection operates concretely
+- [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Does the interface vary across species and states?
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
 - [mental-causation](/concepts/mental-causation/) — Why selection addresses the exclusion problem
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The philosophical framework

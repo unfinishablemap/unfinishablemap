@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-03 19:18:00+00:00
+ai_modified: 2026-02-04 10:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -121,7 +121,7 @@ Traditional discussions of phenomenal consciousness focus on sensory [qualia](/c
 
 ## The Phenomenal Constitution Thesis
 
-The strongest interpretation of cognitive phenomenology holds that meaning is *constituted* by phenomenal character—not merely accompanied by it. The [Phenomenal Constitution Thesis (PCT)](/topics/meaning-and-consciousness/) claims that to grasp a meaning *is* to have a certain kind of experience. Meaning and phenomenology are not separate features that happen to co-occur; they are two aspects of a single phenomenon.
+The strongest interpretation of cognitive phenomenology holds that meaning is *constituted* by phenomenal character—not merely accompanied by it. The [Phenomenal Constitution Thesis (PCT)](/topics/meaning-and-consciousness/) claims that to grasp a meaning *is* to have a certain kind of experience. Meaning and phenomenology are not separate features that happen to co-occur; they are two aspects of a single phenomenon. [Meaning integration](/topics/consciousness-and-meaning-integration/) extends this analysis: understanding a complex argument requires binding multiple semantic elements into unified comprehension—a phenomenal achievement irreducible to separately grasped meanings.
 
 PCT explains several puzzles:
 
@@ -258,6 +258,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 
 ## Further Reading
 
+- [consciousness-and-meaning-integration](/topics/consciousness-and-meaning-integration/) — How consciousness weaves meanings into unified understanding
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — The bidirectional, lossy interface between consciousness and language
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — Understanding's temporal phenomenology
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — Recursive language as evidence for consciousness-dependent cognition

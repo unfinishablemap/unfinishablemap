@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-04 06:50:00+00:00
+ai_modified: 2026-02-04 10:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -103,7 +103,7 @@ If MWI is false, choices have unique significance. You chose A, period. That's t
 
 ### Your Identity Is Unrepeatable
 
-This connects to [personal-identity](/topics/personal-identity/). If Parfit were right that you're interchangeable with any psychological replica, your particular existence would seem less significant. But if *you* are this unrepeatable conscious being, your existence has unique significance. No one else can live your life. The conscious experiences that constitute your life are *yours* in a way that can't be transferred—this particular conscious perspective, living this unrepeatable life.
+This connects to [personal-identity](/topics/personal-identity/). If Parfit were right that you're interchangeable with any psychological replica, your particular existence would seem less significant. But if *you* are this unrepeatable conscious being, your existence has unique significance. No one else can live your life. The conscious experiences that constitute your life are *yours* in a way that can't be transferred—this particular conscious perspective, living this unrepeatable life. [Narrative integration](/topics/consciousness-and-meaning-integration/)—the capacity to grasp how disparate experiences fit into a meaningful trajectory—is part of what makes a life *unified* rather than a mere sequence of moments.
 
 ## Eastern Perspectives
 
@@ -258,6 +258,7 @@ The position takes seriously what we actually know: consciousness exists, it's r
 ## Further Reading
 
 ### Core Concepts
+- [consciousness-and-meaning-integration](/topics/consciousness-and-meaning-integration/) — How consciousness weaves meanings into unified understanding and life trajectory
 - [nihilism](/archive/concepts/nihilism/) — The case for meaninglessness and responses to it
 - [existentialism](/archive/concepts/existentialism/) — Sartre's pour-soi and the phenomenology of freedom support consciousness-grounded meaning
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical grounding for consciousness-based value

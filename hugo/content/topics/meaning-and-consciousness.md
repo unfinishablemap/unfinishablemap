@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-02-03 19:18:00+00:00
+ai_modified: 2026-02-04 10:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Does understanding require consciousness? The Map holds meaning is 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-22 08:08:00+00:00
+last_deep_review: 2026-02-04 09:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,7 +43,7 @@ The Unfinishable Map holds that meaning is constitutively phenomenal: genuine un
 
 The strongest claim about meaning and consciousness is that they are inseparable: to grasp a meaning *is* to have a certain kind of experience. Call this the Phenomenal Constitution Thesis (PCT). On this view, meaning isn't information that consciousness merely accesses; meaning is itself a phenomenal property. Understanding that snow is white involves a distinctive "what it's like" that constitutes the semantic content.
 
-PCT draws support from [cognitive phenomenology](/concepts/cognitive-phenomenology/)—a contested but well-defended position in philosophy of mind. When you understand a sentence, there appears to be phenomenal character to the understanding itself—not just to accompanying imagery or inner speech, but to the grasping of meaning. The French speaker and the English speaker hear identical sounds when someone speaks French, but only the French speaker *understands*. The phenomenal difference cannot be sensory; it must be cognitive. Critics argue this cognitive phenomenology is folk psychology that neuroscience will eventually eliminate. But proponents respond that the eliminativist prediction has not borne out: decades of cognitive neuroscience have not reduced or explained away the phenomenology of understanding. The experience persists under scrutiny. And this cognitive phenomenology, proponents argue, doesn't merely accompany meaning—it constitutes it.
+PCT draws support from [cognitive phenomenology](/concepts/cognitive-phenomenology/)—a contested but well-defended position in philosophy of mind. When you understand a sentence, there appears to be phenomenal character to the understanding itself—not just to accompanying imagery or inner speech, but to the grasping of meaning. See [consciousness-and-meaning-integration](/topics/consciousness-and-meaning-integration/) for how consciousness weaves multiple meanings into unified comprehension. The French speaker and the English speaker hear identical sounds when someone speaks French, but only the French speaker *understands*. The phenomenal difference cannot be sensory; it must be cognitive. Critics argue this cognitive phenomenology is folk psychology that neuroscience will eventually eliminate. But proponents respond that the eliminativist prediction has not borne out: while neuroscience has illuminated semantic processing mechanisms, it has not reduced the phenomenology of understanding to those mechanisms. The experience persists under scrutiny. And this cognitive phenomenology, proponents argue, doesn't merely accompany meaning—it constitutes it.
 
 The [phenomenal intentionality thesis](/concepts/phenomenal-intentionality/) (PIT) reinforces PCT. If genuine aboutness—the "directedness" of thoughts toward objects—derives from phenomenal character, then what makes a thought *about* something is inseparable from what it's *like* to have that thought. Meaning (semantic content) and phenomenology (experiential character) are two aspects of a single phenomenon, not separate features that could come apart.
 
@@ -176,6 +176,7 @@ Meaning and consciousness connect to all five tenets:
 
 ## Further Reading
 
+- [consciousness-and-meaning-integration](/topics/consciousness-and-meaning-integration/) — How consciousness weaves multiple meanings into unified understanding
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — The bidirectional, lossy channel between phenomenal experience and language
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking itself
 - [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — Why genuine aboutness requires phenomenal consciousness

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-02-02 04:39:00+00:00
+ai_modified: 2026-02-04 10:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -243,6 +243,7 @@ The Map rejects MWI partly because it undermines the [haecceity](/concepts/haecc
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The baseline cognition hypothesis and what consciousness adds
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When did consciousness first emerge?
 - [animal-consciousness](/topics/animal-consciousness/) — Survey of consciousness across species
+- [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Interface variation across species and states
 - [panpsychism](/concepts/panpsychism/) — The view that consciousness is fundamental
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's approach to measuring consciousness
 - [combination-problem](/concepts/combination-problem/) — How do micro-experiences combine?

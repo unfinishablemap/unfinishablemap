@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-02 20:46:00+00:00
+ai_modified: 2026-02-04 10:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -197,6 +197,7 @@ Several discoveries could undermine this position:
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged and phylogenetic distribution
 - [emotional-consciousness](/archive/concepts/emotional-consciousness/) — Valence and the Panksepp-LeDoux debate
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemological framework underlying consciousness attribution
+- [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Does the consciousness-matter interface vary across species and states?
 
 ### Consciousness and Intelligence
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness transforms baseline cognition into human-level intelligence

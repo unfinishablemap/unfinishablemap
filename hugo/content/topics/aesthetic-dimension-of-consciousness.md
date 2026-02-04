@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-02-03 07:23:00+00:00
+ai_modified: 2026-02-04 10:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,10 +24,12 @@ description: Beauty, elegance, and aesthetic quality pervade conscious experienc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-22 05:30:00+00:00
+last_deep_review: 2026-02-04 10:43:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[contemplative-evidence-for-consciousness-theories]]'
+- '[[phenomenal-value-realism-development]]'
 title: The Aesthetic Dimension of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -135,7 +137,7 @@ But this response faces a distinctive problem with aesthetics. Aesthetic experie
 
 The Buddhist concept of *samvega*—aesthetic shock at impermanence—suggests that aesthetic response can deepen with insight rather than dissolving. Indian aesthetic theory developed sophisticated accounts of *rasa* (aesthetic essence or "flavour")—the nine fundamental emotional flavours that art evokes. These are not mere hedonic states but irreducible aesthetic qualities: the erotic (*śṛṅgāra*), the heroic (*vīra*), the pathetic (*karuṇa*), and others. Importantly, even negative emotional content becomes aesthetically positive in artistic presentation—tragedy evokes *karuṇa* in a way that is aesthetically valued. This distinction between hedonic and aesthetic value, articulated across millennia of contemplative investigation, supports the claim that aesthetic qualities are irreducible phenomenal features.
 
-The jhāna states of Buddhist meditation exhibit characteristic aesthetic qualities—the first jhāna includes *pīti* (rapture) and *sukha* (happiness) not merely as hedonic tones but as specific aesthetic textures of concentrated experience. Meditators describe these not as judgments about the state but as immediate qualities of the experience itself. The aesthetic dimension of consciousness is not a superficial overlay to be seen through; it is a fundamental feature disclosed by careful attention.
+The jhāna states of Buddhist meditation exhibit characteristic aesthetic qualities—the first jhāna includes *pīti* (rapture) and *sukha* (happiness) not merely as hedonic tones but as specific aesthetic textures of concentrated experience. The Pāli suttas describe these qualities in phenomenological detail (see Majjhima Nikāya 119), and modern practitioners report them as immediate qualities of the experience, not judgments about it. The aesthetic dimension of consciousness is not a superficial overlay to be seen through; it is a fundamental feature disclosed by careful attention.
 
 ## Process Philosophy Perspective
 
