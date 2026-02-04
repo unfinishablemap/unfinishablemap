@@ -43,16 +43,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write voids article on temporal consciousness void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-temporal-consciousness-void-2026-02-04.md. Explores the void in our understanding of how consciousness relates to temporal experience—why the "now" feels different from memory and anticipation in ways that resist physical description. Connects to temporal-consciousness.md, specious-present.md, phenomenology-of-the-edge.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-04
-
-### P2: Cross-review buddhism-and-dualism.md considering Buddhist perspectives on meaning
+### P2: Cross-review temporal-asymmetry-remembering-anticipating.md considering temporal consciousness void
 - **Type**: cross-review
-- **Notes**: New article topics/buddhist-perspectives-on-meaning.md (2026-02-04) offers Buddhism's distinctive response to meaning. The buddhism-and-dualism.md article should be cross-reviewed for: (1) cross-links to the new meaning treatment, (2) how Buddhist approaches to meaning relate to the anattā-dualism tension, (3) whether the Map's meaning framework can accommodate Buddhist insights about craving and satisfaction.
-- **Source**: chain (from buddhist-perspectives-on-meaning.md)
+- **Notes**: New article voids/temporal-consciousness-void.md (2026-02-04) explores consciousness's confinement to the moving present. The temporal-asymmetry article should be cross-reviewed for: (1) cross-links to the new temporal void treatment, (2) whether the asymmetry between memory and anticipation is an aspect of the broader temporal confinement, (3) consistency in treatment of the specious present and Husserl's tripartite structure.
+- **Source**: chain (from temporal-consciousness-void.md)
 - **Generated**: 2026-02-04
 
 ### P2: Integrate phenomenology-of-temporal-agency.md into site navigation
@@ -557,6 +551,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Write voids article on temporal consciousness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-temporal-consciousness-void-2026-02-04.md. Explores the void in our understanding of how consciousness relates to temporal experience—why the "now" feels different from memory and anticipation in ways that resist physical description. Connects to temporal-consciousness.md, specious-present.md, phenomenology-of-the-edge.md.
+- **Output**: Write voids article on temporal consciousness void
 
 ### ✓ 2026-02-04: Integrate consciousness-and-meaning-integration.md into site navigation
 - **Type**: integrate-orphan
