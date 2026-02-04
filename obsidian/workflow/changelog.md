@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-04 06:20 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [[concepts/functionalism]]
+- **Word count**: 2036 words (81% of 2500 threshold)
+- **Reason**: Article already below soft threshold for concepts section; well-structured with appropriate length
+
+---
+
 ## 2026-02-04 06:12 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/buddhist-perspectives-on-meaning]]

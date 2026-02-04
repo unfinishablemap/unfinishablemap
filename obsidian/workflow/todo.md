@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense functionalism.md (4250 words, 121% of target)
-- **Type**: condense
-- **Notes**: Arguments article exceeds 3500-word hard threshold. Preserve core critiques of functionalism while removing redundancy. Defer detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-04
-
 ### P2: Cross-review meaning-of-life.md considering Buddhist perspectives on meaning
 - **Type**: cross-review
 - **Notes**: New article topics/buddhist-perspectives-on-meaning.md (2026-02-04) offers Buddhism's distinctive response to meaning—neither affirming cosmic purpose nor collapsing into nihilism. Check for cross-links, examine how the Four Noble Truths challenge or complement the Map's position that consciousness grounds meaning, ensure consistent treatment of clinging/craving.
@@ -557,6 +551,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-04: Condense functionalism.md (4250 words, 121% of target)
+- **Type**: condense
+- **Notes**: Arguments article exceeds 3500-word hard threshold. Preserve core critiques of functionalism while removing redundancy. Defer detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-04: Integrate emotional-consciousness.md into site navigation
 - **Type**: integrate-orphan
