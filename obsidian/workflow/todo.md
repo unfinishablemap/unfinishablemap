@@ -1949,6 +1949,27 @@ Pessimistic review (2026-02-02 morning) identified a high-severity issue: the ar
 - **Notes**: Pessimistic review 2026-02-01 (late) found that self-locating-beliefs.md and indexical-identity-quantum-measurement.md conflate two distinct claims: (1) indexical *knowledge* is irreducible to impersonal knowledge (semantic/epistemic thesis), and (2) indexical *facts* are irreducible to impersonal facts (metaphysical thesis). Perry/Lewis examples establish (1) but not clearly (2). Articles should explicitly distinguish these theses and provide independent argument for the metaphysical claim if asserting it.
 - **Output**: Task context:
 Pessimistic review 2026-02-01 (late) found that self-locating-beliefs.md and indexical-identity-quantum-measurement.md conflate two distinct claims: (1) indexical *knowledge* is irreducible to impersonal knowledge (semantic/epistemic thesis), and (2) indexical *facts* are irreducible to impersonal facts (metaphysical thesis). Perry/Lewis examples establish (1) but not clearly (2). Articles should explicitly distinguish these theses and provide independent argument for the metaphysical claim if asserting it.
+### P3: Write article on phenomenal binding and unity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05. How disparate neural processes produce unified conscious experience—central to the hard problem. The unity of consciousness resists physical explanation, supporting the Dualism tenet. Builds on binding-problem.md, multimodal-binding.md, phenomenal-unity.md. See optimistic-2026-02-05.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Write article on spontaneous action and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05. Systematic treatment of why spontaneous intentional action requires consciousness while stimulus-response can proceed unconsciously. Supports Bidirectional Interaction by showing consciousness enables action initiation. Builds on conscious-vs-unconscious-processing.md, baseline-cognition.md, voluntary-attention.md. See optimistic-2026-02-05.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Write article on interface locality principle
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05. Why consciousness interfaces only with its own brain—resolving the "why can't I collapse distant systems" objection. Constrains Minimal Quantum Interaction to neurally-instantiated attention. Builds on multi-mind-collapse-problem.md, attention-as-interface.md, brain-interface-boundary.md. See optimistic-2026-02-05.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.
