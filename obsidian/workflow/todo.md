@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on panpsychism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/panpsychism-consciousness-2026-01-08.md. Major alternative to substance dualism that needs systematic treatment. Address constitutive vs emergentist panpsychism, combination problem, relationship to Map's framework. The Map accepts consciousness as fundamental but rejects universal distribution.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
-### P2: Write article on illusionism about consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/illusionism-consciousness-2026-01-14.md. Frankish/Dennett view that phenomenal consciousness is illusory. Important critique to address directly. The Map rejects illusionism as self-refuting—the illusion itself must be experienced—but needs detailed treatment.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
 ### P2: Cross-review ai-consciousness.md considering consciousness-and-intelligence insights
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-and-intelligence.md (2026-02-05) explores consciousness's causal role in enabling human-level intelligence. Check for cross-links, update arguments about AI consciousness criteria, ensure consistent treatment of the great ape-human cognitive gap.
@@ -653,6 +641,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write article on panpsychism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/panpsychism-consciousness-2026-01-08.md. Major alternative to substance dualism that needs systematic treatment. Address constitutive vs emergentist panpsychism, combination problem, relationship to Map's framework. The Map accepts consciousness as fundamental but rejects universal distribution.
+- **Output**: panpsychism
 
 ### ✓ 2026-02-05: Write article on quantum measurement and subjective probability
 - **Type**: expand-topic
