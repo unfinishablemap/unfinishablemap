@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-05 06:24 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Recursion Void (metacognitive depth limits)
+- **Category**: Mixed (Unexplorable + Possibly Occluded)
+- **Output**: [[research/voids-recursion-void-2026-02-05]]
+- **Key finding**: Human mentalizing capacity reaches an asymptotic limit at approximately fifth-order intentionality; the recursion void explores why consciousness cannot fold back upon itself indefinitely and what this reveals about cognitive architecture.
+
+---
+
 ## 2026-02-05 06:09 UTC - condense
 - **Status**: Reviewed, no condensation applied
 - **File**: [[concepts/materialism]]
