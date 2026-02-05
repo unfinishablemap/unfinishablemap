@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-05 12:54:00+00:00
+ai_modified: 2026-02-05 13:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,40 +44,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on brain specialness boundary
-- **Type**: expand-topic
-- **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Addresses the "why not psychokinesis" problem: if consciousness can influence quantum outcomes in brains, what principled boundary prevents macro-PK? Key insight: interface locality—consciousness influences only quantum systems integrated into its control loop. Directly supports Minimal Quantum Interaction tenet. Critical for defending the Map's scientific respectability.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
-### P2: Write article on meditation observer-witness phenomenon
-- **Type**: expand-topic
-- **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. Covers the sakshi (witness) phenomenon in meditation—distinct neural signatures for effortful vs effortless attention. Maps to the Map's framework: passive witnessing as consciousness disengaging from selection, active attention as quantum Zeno mechanism. Connects contemplative traditions to neuroscience evidence.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
-### P2: Write article on conservation laws and mind-brain causation
-- **Type**: expand-topic
-- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. Addresses the conservation law objection to interactionism: does mental causation violate energy conservation? Key responses include quantum indeterminacy (no energy transfer needed), counterfactual causation, and information-theoretic approaches. Directly supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
-### P2: Write voids article on intentionality void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-intentionality-void-2026-02-05.md. Explores the structural inaccessibility of how mental states achieve "aboutness"—we experience that thoughts are about things but have no phenomenal access to how reference is achieved. Target section: voids/. Connects to the-unobservable-self.md, creativity-void.md, consciousness-and-semantic-understanding.md.
-- **Source**: chain (research-voids)
-- **Generated**: 2026-02-05
-
-### P2: Condense the-unobservable-self.md (3024 words, 101% of threshold)
+### P2: Condense functionalism.md (4250 words, 121% of threshold)
 - **Type**: condense
-- **Notes**: Voids article exceeds 3000-word hard threshold. Preserve core arguments about the observer's inability to observe itself while tightening prose. See /condense skill.
+- **Notes**: Concepts article significantly exceeds 3500-word hard threshold. Preserve core arguments against functionalism while reducing redundancy. Consider deferring historical details or objections to linked articles. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-02-05
 
-### P2: Condense binding-problem.md (3528 words, 101% of threshold)
-- **Type**: condense
-- **Notes**: Concepts article exceeds 3500-word hard threshold. Core arguments about the binding problem and phenomenal unity should be preserved. Consider deferring detailed examples to phenomenal-binding.md and related articles. See /condense skill.
-- **Source**: length_analysis
+### P2: Cross-review brain-interface-boundary.md considering brain-specialness insights
+- **Type**: cross-review
+- **Notes**: New article topics/brain-specialness-boundary.md (2026-02-05) addresses why consciousness doesn't enable psychokinesis. Check brain-interface-boundary.md for opportunities to add cross-links, reinforce arguments about interface locality, or note tensions.
+- **Source**: chain (from brain-specialness-boundary.md)
+- **Generated**: 2026-02-05
+
+### P3: Address phenomenology-to-metaphysics leap in introspection cluster
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-05 afternoon) found systematic vulnerability in intentionality-void.md, the-unobservable-self.md, and the-observer-witness-in-meditation.md. Key issues: (1) All three draw metaphysical conclusions (dualism, irreducibility) from phenomenological premises without bridging arguments—physicalist self-modeling theories explain the same phenomenology. (2) Buddhist phenomenology is cited as evidence while ignoring that Buddhist philosophy draws opposite conclusions (no-self, not uncatchable-self). (3) Introspection's reliability is questioned in the articles, yet introspective reports are treated as evidence. Lower priority as phenomenological descriptions are strong. See pessimistic-2026-02-05-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-05
+
+### P2: Integrate working-memory-as-consciousness-amplifier.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-02) has no inbound links. Covers how working memory amplifies conscious processing. Add cross-references from working-memory.md, consciousness-and-intelligence.md, attention-as-interface.md.
+- **Source**: orphan_integration
 - **Generated**: 2026-02-05
 
 ### P3: Deep review temporal-consciousness-void.md for quality
@@ -672,6 +660,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write article on consciousness and objectivity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/objectivity-consciousness-view-from-nowhere-2026-01-23.md. Explores the tension between consciousness as inherently perspectival and the ideal of objective knowledge. Key for Map's epistemological framework.
+- **Output**: consciousness and objectivity
+
+### ✓ 2026-02-05: Condense binding-problem.md (3528 words, 101% of threshold)
+- **Type**: condense
+- **Notes**: Concepts article exceeds 3500-word hard threshold. Core arguments about the binding problem and phenomenal unity should be preserved. Consider deferring detailed examples to phenomenal-binding.md and related articles. See /condense skill.
+- **Output**: obsidian/concepts/binding-problem.md
+
+### ✓ 2026-02-05: Condense the-unobservable-self.md (3024 words, 101% of threshold)
+- **Type**: condense
+- **Notes**: Voids article exceeds 3000-word hard threshold. Preserve core arguments about the observer's inability to observe itself while tightening prose. See /condense skill.
+- **Output**: obsidian/voids/the-unobservable-self.md
+
+### ✓ 2026-02-05: Write voids article on intentionality void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-intentionality-void-2026-02-05.md. Explores the structural inaccessibility of how mental states achieve "aboutness"—we experience that thoughts are about things but have no phenomenal access to how reference is achieved. Target section: voids/. Connects to the-unobservable-self.md, creativity-void.md, consciousness-and-semantic-understanding.md.
+- **Output**: Write voids article on intentionality void
+
+### ✓ 2026-02-05: Write article on meditation observer-witness phenomenon
+- **Type**: expand-topic
+- **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. Covers the sakshi (witness) phenomenon in meditation—distinct neural signatures for effortful vs effortless attention. Maps to the Map's framework: passive witnessing as consciousness disengaging from selection, active attention as quantum Zeno mechanism. Connects contemplative traditions to neuroscience evidence.
+- **Output**: meditation observer-witness phenomenon
+
+### ✓ 2026-02-05: Write article on brain specialness boundary
+- **Type**: expand-topic
+- **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Addresses the "why not psychokinesis" problem: if consciousness can influence quantum outcomes in brains, what principled boundary prevents macro-PK? Key insight: interface locality—consciousness influences only quantum systems integrated into its control loop. Directly supports Minimal Quantum Interaction tenet. Critical for defending the Map's scientific respectability.
+- **Output**: brain specialness boundary
 
 ### ✓ 2026-02-05: Condense machine-consciousness.md (4022 words, 101% of threshold)
 - **Type**: condense
