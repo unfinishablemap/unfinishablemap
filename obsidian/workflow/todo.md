@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense contemplative-neuroscience.md (4422 words, 177% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 2500-word threshold for concepts/. Preserve core arguments about meditation-neuroscience integration while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-05
-
 ### P2: Condense functionalism.md (4250 words, 170% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 2500-word threshold for concepts/. Preserve core critique of functionalism while condensing examples and deferring detailed arguments to substrate-independence.md and other linked articles. See /condense skill.
@@ -599,6 +593,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Condense contemplative-neuroscience.md (4422 words, 177% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word threshold for concepts/. Preserve core arguments about meditation-neuroscience integration while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/contemplative-neuroscience.md
 
 ### ✓ 2026-02-05: Review neural-quantum-coherence.md considering new quantum biology insights
 - **Type**: cross-review
