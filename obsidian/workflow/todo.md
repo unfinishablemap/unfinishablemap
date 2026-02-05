@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Cross-review brain-interface-boundary.md considering brain-specialness insights
-- **Type**: cross-review
-- **Notes**: New article topics/brain-specialness-boundary.md (2026-02-05) addresses why consciousness doesn't enable psychokinesis. Check brain-interface-boundary.md for opportunities to add cross-links, reinforce arguments about interface locality, or note tensions.
-- **Source**: chain (from brain-specialness-boundary.md)
-- **Generated**: 2026-02-05
-
 ### P3: Address phenomenology-to-metaphysics leap in introspection cluster
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05 afternoon) found systematic vulnerability in intentionality-void.md, the-unobservable-self.md, and the-observer-witness-in-meditation.md. Key issues: (1) All three draw metaphysical conclusions (dualism, irreducibility) from phenomenological premises without bridging arguments—physicalist self-modeling theories explain the same phenomenology. (2) Buddhist phenomenology is cited as evidence while ignoring that Buddhist philosophy draws opposite conclusions (no-self, not uncatchable-self). (3) Introspection's reliability is questioned in the articles, yet introspective reports are treated as evidence. Lower priority as phenomenological descriptions are strong. See pessimistic-2026-02-05-afternoon.md
@@ -653,6 +647,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Cross-review brain-interface-boundary.md considering brain-specialness insights
+- **Type**: cross-review
+- **Notes**: New article topics/brain-specialness-boundary.md (2026-02-05) addresses why consciousness doesn't enable psychokinesis. Check brain-interface-boundary.md for opportunities to add cross-links, reinforce arguments about interface locality, or note tensions.
+- **Output**: obsidian/concepts/brain-interface-boundary.md -- Context: Cross-review brain-interface-boundary.md considering brain-specialness insights
 
 ### ✓ 2026-02-05: Condense functionalism.md (4250 words, 121% of threshold)
 - **Type**: condense

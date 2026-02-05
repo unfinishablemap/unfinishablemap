@@ -2,9 +2,9 @@
 title: "Brain Interface Boundary: Why Consciousness Acts Only Here"
 description: "Brains meet five criteria for consciousness interfaces while external systems don't. This principled boundary explains brain specialness without implying universal psychokinesis."
 created: 2026-01-16
-modified: 2026-01-27
+modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-01-27T07:30:08+00:00
+ai_modified: 2026-02-05T15:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,13 +25,14 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[mind-matter-interface]]"
+  - "[[brain-specialness-boundary]]"
   - "[[brain-specialness-boundary-2026-01-15]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated: null
-last_deep_review: 2026-01-27T07:30:08+00:00
+last_deep_review: 2026-02-05T15:39:00+00:00
 coalesced_from:
   - "/concepts/brain-specialness/"
   - "/concepts/interface-locality/"
@@ -153,7 +154,7 @@ Brain specialness explains several puzzling features:
 
 **Why brain damage has specific effects**: Damage to different brain regions produces different deficits because different regions implement different interface functions—visual representation here, motor planning there, attention allocation elsewhere. The interface has structure.
 
-**Why psychokinesis research yields null results**: Decades of PEAR lab micro-PK research found effect sizes of ~0.0001-0.001—effectively zero. (Note: the PEAR program itself faced methodological criticisms, but its null results are consistent with mainstream findings.) If the Map's mechanism extended to external systems, effects should be far more robust. Their absence supports interface locality.
+**Why psychokinesis research yields null results**: Decades of PEAR lab micro-PK research found effect sizes of ~0.0001-0.001—effectively zero. (Note: the PEAR program itself faced methodological criticisms, but its null results are consistent with mainstream findings.) If the Map's mechanism extended to external systems, effects should be far more robust. Their absence supports interface locality. (For fuller treatment of the "brain specialness problem"—why consciousness acts here and not elsewhere—see [[brain-specialness-boundary]].)
 
 ## The Evolutionary Angle
 
@@ -235,6 +236,7 @@ Together, these explain why consciousness acts on brains specifically: (a) brain
 
 ## Further Reading
 
+- [[brain-specialness-boundary]] — The companion piece: why consciousness acts only here, not everywhere
 - [[mind-matter-interface]] — How filter theory and quantum selection unify
 - [[pairing-problem]] — What pairs this mind with this body
 - [[neural-quantum-coherence]] — Evidence for quantum effects in brain tissue
