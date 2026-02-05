@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on delegatory dualism (Bradford Saad)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Delegatory dualism is a contemporary variant of interactionist dualism where the non-physical mind delegates certain cognitive functions to the brain. Directly supports the Map's interactionist framework and provides a systematic account of how mind and brain might cooperate.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Review quantum-measurement-and-definite-outcomes.md considering new consciousness-quantum-measurement insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-quantum-measurement.md (2026-02-04) explores consciousness's role in quantum measurement. Check quantum-measurement-and-definite-outcomes.md for cross-links, reinforcing arguments, or potential tensions. Both articles address measurement problem from different angles.
+- **Source**: chain (from consciousness-and-quantum-measurement.md)
+- **Generated**: 2026-02-05
+
+### P2: Review neural-quantum-coherence.md considering new quantum biology insights
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-biology-and-the-consciousness-debate.md (2026-02-04) synthesizes recent evidence for quantum effects in neural systems. Check neural-quantum-coherence.md for cross-links, consistent terminology, and argument alignment.
+- **Source**: chain (from quantum-biology-and-the-consciousness-debate.md)
+- **Generated**: 2026-02-05
+
+### P2: Condense contemplative-neuroscience.md (4422 words, 177% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word threshold for concepts/. Preserve core arguments about meditation-neuroscience integration while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-05
+
+### P2: Condense functionalism.md (4250 words, 170% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word threshold for concepts/. Preserve core critique of functionalism while condensing examples and deferring detailed arguments to substrate-independence.md and other linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-05
+
+### P2: Integrate dopamine-and-the-unified-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-04) has no inbound links. Covers dopamine's role in consciousness-quantum interface—how dopamine modulates the attention-motor-quantum coupling. Add cross-references from attention-interface-mechanisms.md, voluntary-attention.md, neural-implementation-specifics.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-05
+
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
