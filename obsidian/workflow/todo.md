@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense functionalism.md (4250 words, 170% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 2500-word threshold for concepts/. Preserve core critique of functionalism while condensing examples and deferring detailed arguments to substrate-independence.md and other linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-05
-
 ### P2: Integrate dopamine-and-the-unified-interface.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-04) has no inbound links. Covers dopamine's role in consciousness-quantum interface—how dopamine modulates the attention-motor-quantum coupling. Add cross-references from attention-interface-mechanisms.md, voluntary-attention.md, neural-implementation-specifics.md.
@@ -593,6 +587,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Condense functionalism.md (4250 words, 170% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word threshold for concepts/. Preserve core critique of functionalism while condensing examples and deferring detailed arguments to substrate-independence.md and other linked articles. See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-05: Condense contemplative-neuroscience.md (4422 words, 177% of target)
 - **Type**: condense
