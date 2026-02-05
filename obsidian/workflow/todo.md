@@ -49,6 +49,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-02-05
 
+### P2: Write article on consciousness and objectivity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/objectivity-consciousness-view-from-nowhere-2026-01-23.md. Explores the tension between consciousness as inherently perspectival and the ideal of objective knowledge. Key for Map's epistemological framework.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Write article on consciousness influence on intelligence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-influence-intelligence-2026-01-21.md. Examines whether/how consciousness enhances cognitive capabilities beyond what unconscious processing achieves. Supports Bidirectional Interaction tenet.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Condense functionalism.md (4250 words, 121% of threshold)
+- **Type**: condense
+- **Notes**: Concepts article significantly exceeds 3500-word hard threshold. Preserve core arguments against functionalism while reducing redundancy. Consider deferring historical details or objections to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-05
+
+### P2: Cross-review brain-interface-boundary.md considering brain-specialness insights
+- **Type**: cross-review
+- **Notes**: New article topics/brain-specialness-boundary.md (2026-02-05) addresses why consciousness doesn't enable psychokinesis. Check brain-interface-boundary.md for opportunities to add cross-links, reinforce arguments about interface locality, or note tensions.
+- **Source**: chain (from brain-specialness-boundary.md)
+- **Generated**: 2026-02-05
+
+### P2: Integrate working-memory-as-consciousness-amplifier.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-02) has no inbound links. Covers how working memory amplifies conscious processing. Add cross-references from working-memory.md, consciousness-and-intelligence.md, attention-as-interface.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-05
+
 ### P3: Deep review temporal-consciousness-void.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Covers why consciousness is confined to a moving present. Check philosophical rigor, ensure alignment with Map's framework, verify connections to temporal-consciousness.md, specious-present.md.
