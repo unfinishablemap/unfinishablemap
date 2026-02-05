@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-05 23:37 UTC - deep-review
+- **Status**: Success
+- **File**: [[cognitive-science-of-dualism]]
+- **Word count**: 1564 → 1854 (+290)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 7
+- **Enhancements made**: 10+ inline cross-links, vitalism rebuttal, behavioral-output rebuttal, Friston precision fix
+- **Output**: [[reviews/deep-review-2026-02-05-cognitive-science-of-dualism]]
+
 ## 2026-02-05 23:22 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Cognitive Science of Dualism
