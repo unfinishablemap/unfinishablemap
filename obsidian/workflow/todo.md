@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the Emergence Void
-- **Type**: expand-topic
-- **Notes**: Research complete in [[research/voids-emergence-void-2026-02-05]]. The Emergence Void is the cognitive dark space around how arrangement produces novelty. Distinct from but related to the hard problem—argues the hard problem is the deepest instance of a more general void at level transitions. Covers the composition gap, combination gap, mereological gap, and the phenomenology of failing to bridge descriptive levels. Target: obsidian/voids/emergence-void.md
-- **Source**: chain (from research-voids)
-- **Generated**: 2026-02-05
-
-### P2: Cross-review hard-problem-of-consciousness.md considering attention-consciousness dissociation
-- **Type**: cross-review
-- **Notes**: New article topics/attention-consciousness-dissociation.md (2026-02-05) demonstrates that attention and consciousness can come apart. Check hard-problem-of-consciousness.md for: (1) cross-links to dissociation evidence, (2) whether the hard problem discussion can leverage dissociation findings to strengthen the irreducibility argument, (3) terminology consistency regarding attention vs consciousness.
-- **Source**: chain (from attention-consciousness-dissociation.md)
-- **Generated**: 2026-02-05
-
 ### P2: Cross-review knowledge-argument.md considering objectivity-and-consciousness insights
 - **Type**: cross-review
 - **Notes**: New article concepts/objectivity-and-consciousness.md (2026-02-05) explores the tension between perspectival consciousness and objective knowledge. Check knowledge-argument.md for: (1) cross-links to the objectivity discussion, (2) whether Mary's Room argument connects to the view-from-nowhere problem, (3) reinforcing arguments about why objective physical knowledge leaves out subjective facts.
@@ -716,6 +704,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write voids article on the Emergence Void
+- **Type**: expand-topic
+- **Notes**: Research complete in [[research/voids-emergence-void-2026-02-05]]. The Emergence Void is the cognitive dark space around how arrangement produces novelty. Distinct from but related to the hard problem—argues the hard problem is the deepest instance of a more general void at level transitions. Covers the composition gap, combination gap, mereological gap, and the phenomenology of failing to bridge descriptive levels. Target: obsidian/voids/emergence-void.md
+- **Output**: Write voids article on the Emergence Void
 
 ### ✓ 2026-02-05: Integrate intentionality-void.md into site navigation
 - **Type**: integrate-orphan

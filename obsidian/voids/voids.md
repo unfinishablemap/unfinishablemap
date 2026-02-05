@@ -67,6 +67,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[scale-void|The Scale Void]] — Why cosmic distances, deep time, and large numbers resist comprehension
 - [[causal-interface|The Causal Interface Void]] — How consciousness interfaces with the physical
 - [[intrinsic-nature-void|The Intrinsic Nature Void]] — What matter is in itself
+- [[emergence-void|The Emergence Void]] — How arrangement produces novelty—the gap at every level transition
 - [[other-minds-void|The Other Minds Void]] — Access to consciousness beyond our own
 - [[intersubjective-void|The Intersubjective Void]] — Whether experiences can be genuinely shared
 - [[affective-void|The Affective Void]] — Emotions we cannot feel—affects beyond human reach
