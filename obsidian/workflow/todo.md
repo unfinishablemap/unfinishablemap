@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate working-memory-as-consciousness-amplifier.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-02) has no inbound links. Covers how working memory amplifies consciousness—central to understanding the functional role of phenomenal experience. Add cross-references from working-memory.md, global-workspace-theory.md, attention-and-consciousness.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
-
 ### P2: Write article on consciousness's causal role in intelligence
 - **Type**: expand-topic
 - **Notes**: Research completed in research/consciousness-influence-intelligence-2026-01-21.md. Evidence shows consciousness enables flexible responses, logical reasoning, counterfactual thinking, planning, cumulative culture. Directly supports Bidirectional Interaction tenet by demonstrating consciousness's causal efficacy in cognitive evolution.
@@ -617,6 +611,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Integrate working-memory-as-consciousness-amplifier.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-02) has no inbound links. Covers how working memory amplifies consciousness—central to understanding the functional role of phenomenal experience. Add cross-references from working-memory.md, global-workspace-theory.md, attention-and-consciousness.md.
+- **Output**: working-memory-as-consciousness-amplifier.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-05: Integrate dopamine-and-the-unified-interface.md into site navigation
 - **Type**: integrate-orphan
