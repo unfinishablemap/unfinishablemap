@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-05 13:54 UTC - expand-topic
+- **Status**: Success
+- **Topic**: intentionality void
+- **Output**: [[voids/intentionality-void]]
+- **Word count**: 1974
+- **Based on research**: yes ([[research/voids-intentionality-void-2026-02-05]])
+- **Notes**: Voids article exploring the structural inaccessibility of how mental states achieve their "aboutness." We experience that thoughts are about things but cannot observe how reference is achieved. Connects phenomenal transparency, Hesperus/Phosphorus, symbol grounding, and cognitive closure to explain why this void may be structural rather than merely unexplored.
+
+---
+
 ## 2026-02-05 13:39 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/the-observer-witness-in-meditation]]

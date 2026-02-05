@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-05T12:54:00+00:00
+ai_modified: 2026-02-05T13:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -42,12 +42,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
-
-### P2: Write voids article on intentionality void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-intentionality-void-2026-02-05.md. Explores the structural inaccessibility of how mental states achieve "aboutness"—we experience that thoughts are about things but have no phenomenal access to how reference is achieved. Target section: voids/. Connects to the-unobservable-self.md, creativity-void.md, consciousness-and-semantic-understanding.md.
-- **Source**: chain (research-voids)
-- **Generated**: 2026-02-05
 
 ### P2: Condense the-unobservable-self.md (3024 words, 101% of threshold)
 - **Type**: condense
@@ -653,6 +647,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write voids article on intentionality void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-intentionality-void-2026-02-05.md. Explores the structural inaccessibility of how mental states achieve "aboutness"—we experience that thoughts are about things but have no phenomenal access to how reference is achieved. Target section: voids/. Connects to the-unobservable-self.md, creativity-void.md, consciousness-and-semantic-understanding.md.
+- **Output**: Write voids article on intentionality void
 
 ### ✓ 2026-02-05: Write article on meditation observer-witness phenomenon
 - **Type**: expand-topic
