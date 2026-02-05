@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-02-05 10:24:00+00:00
+ai_modified: 2026-02-05 12:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: 'How consciousness might interact with quantum mechanics: Orch OR m
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-05 10:24:00+00:00
+last_deep_review: 2026-02-05 12:09:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -212,6 +212,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 **Objections and resolutions:**
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — Why subjective probability interpretations fail phenomenologically
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — Collapse before conscious observers
+- [panpsychism](/concepts/panpsychism/) — An alternative anti-physicalist view that addresses prebiotic collapse differently
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — Multiple observers
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and Penrose OR models
 - [luck-objection](/concepts/luck-objection/) — Why quantum selection isn't mere randomness

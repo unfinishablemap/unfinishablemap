@@ -26,7 +26,7 @@ description: Advanced social cognition requires consciousness for recursive mind
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-23 00:00:00+00:00
+last_deep_review: 2026-02-05 11:54:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

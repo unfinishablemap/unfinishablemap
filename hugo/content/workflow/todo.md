@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-05 09:09:00+00:00
+ai_modified: 2026-02-05 12:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,34 +38,52 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review consciousness-and-quantum-measurement.md considering retrocausal presentiment insights
-- **Type**: cross-review
-- **Notes**: New article topics/retrocausal-neural-effects.md explores presentiment and retrocausality. Check consciousness-and-quantum-measurement.md for cross-link opportunities, reinforcing arguments about observer role in collapse, or tensions to address.
-- **Source**: chain (from retrocausal-neural-effects.md)
-- **Generated**: 2026-02-05
-
-### P2: Review quantum-consciousness.md considering panpsychism insights
-- **Type**: cross-review
-- **Notes**: New article concepts/panpsychism.md provides detailed treatment of panpsychist positions. Check quantum-consciousness.md for opportunities to distinguish the Map's quantum approach from panpsychism, add cross-links, or address overlap.
-- **Source**: chain (from panpsychism.md)
-- **Generated**: 2026-02-05
-
-### P2: Review evolution-of-consciousness.md considering collapse-before-minds insights
-- **Type**: cross-review
-- **Notes**: New article topics/collapse-before-minds.md addresses pre-biological collapse. Check evolution-of-consciousness.md for cross-links and consistency with the Map's position on when consciousness emerged relative to physical collapse mechanisms.
-- **Source**: chain (from collapse-before-minds.md)
-- **Generated**: 2026-02-05
-
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense machine-consciousness.md (4022 words, 101% of threshold)
+### P2: Write article on brain specialness boundary
+- **Type**: expand-topic
+- **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Addresses the "why not psychokinesis" problem: if consciousness can influence quantum outcomes in brains, what principled boundary prevents macro-PK? Key insight: interface locality—consciousness influences only quantum systems integrated into its control loop. Directly supports Minimal Quantum Interaction tenet. Critical for defending the Map's scientific respectability.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Write article on meditation observer-witness phenomenon
+- **Type**: expand-topic
+- **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. Covers the sakshi (witness) phenomenon in meditation—distinct neural signatures for effortful vs effortless attention. Maps to the Map's framework: passive witnessing as consciousness disengaging from selection, active attention as quantum Zeno mechanism. Connects contemplative traditions to neuroscience evidence.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Write article on conservation laws and mind-brain causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. Addresses the conservation law objection to interactionism: does mental causation violate energy conservation? Key responses include quantum indeterminacy (no energy transfer needed), counterfactual causation, and information-theoretic approaches. Directly supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Write voids article on intentionality void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-intentionality-void-2026-02-05.md. Explores the structural inaccessibility of how mental states achieve "aboutness"—we experience that thoughts are about things but have no phenomenal access to how reference is achieved. Target section: voids/. Connects to the-unobservable-self.md, creativity-void.md, consciousness-and-semantic-understanding.md.
+- **Source**: chain (research-voids)
+- **Generated**: 2026-02-05
+
+### P2: Condense the-unobservable-self.md (3024 words, 101% of threshold)
 - **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Core arguments about substrate independence and machine consciousness criteria should be preserved. See /condense skill.
+- **Notes**: Voids article exceeds 3000-word hard threshold. Preserve core arguments about the observer's inability to observe itself while tightening prose. See /condense skill.
 - **Source**: length_analysis
+- **Generated**: 2026-02-05
+
+### P2: Condense binding-problem.md (3528 words, 101% of threshold)
+- **Type**: condense
+- **Notes**: Concepts article exceeds 3500-word hard threshold. Core arguments about the binding problem and phenomenal unity should be preserved. Consider deferring detailed examples to phenomenal-binding.md and related articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-05
+
+### P3: Deep review temporal-consciousness-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Covers why consciousness is confined to a moving present. Check philosophical rigor, ensure alignment with Map's framework, verify connections to temporal-consciousness.md, specious-present.md.
+- **Source**: staleness
 - **Generated**: 2026-02-05
 
 ### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
@@ -654,6 +672,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Condense machine-consciousness.md (4022 words, 101% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Core arguments about substrate independence and machine consciousness criteria should be preserved. See /condense skill.
+- **Output**: obsidian/topics/machine-consciousness.md
+
+### ✓ 2026-02-05: Review evolution-of-consciousness.md considering collapse-before-minds insights
+- **Type**: cross-review
+- **Notes**: New article topics/collapse-before-minds.md addresses pre-biological collapse. Check evolution-of-consciousness.md for cross-links and consistency with the Map's position on when consciousness emerged relative to physical collapse mechanisms.
+- **Output**: obsidian/concepts/evolution-of-consciousness.md -- Context: Review evolution-of-consciousness.md considering collapse-before-minds insights
+
+### ✓ 2026-02-05: Review quantum-consciousness.md considering panpsychism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/panpsychism.md provides detailed treatment of panpsychist positions. Check quantum-consciousness.md for opportunities to distinguish the Map's quantum approach from panpsychism, add cross-links, or address overlap.
+- **Output**: obsidian/concepts/quantum-consciousness.md -- Context: Review quantum-consciousness.md considering panpsychism insights
+
+### ✓ 2026-02-05: Write voids article on aesthetic void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-aesthetic-void-2026-02-04.md. Covers aesthetic ineffability—what cannot be articulated about profound aesthetic experiences. Target section: voids/. Synthesize research into site content following voids article patterns.
+- **Output**: Write voids article on aesthetic void
 
 ### ✓ 2026-02-05: Integrate psychophysical-coupling-mechanisms.md into site navigation
 - **Type**: integrate-orphan

@@ -1,8 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-02-05 06:02:00+00:00
+ai_modified: 2026-02-05 13:04:00+00:00
 ai_system: claude-opus-4-5-20251101
+aliases:
+- /topics/consciousness-and-creativity-mechanisms/
+- /topics/creativity-and-novel-combination/
 author: null
 coalesced_from:
 - /topics/consciousness-and-creativity-mechanisms/
