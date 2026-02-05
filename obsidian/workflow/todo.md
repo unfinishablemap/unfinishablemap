@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-05T06:54:00+00:00
+ai_modified: 2026-02-05T09:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write voids article on recursion void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-recursion-void-2026-02-05.md. Explores the void created when cognition attempts to fully model itself—the recursive regress that creates inherent blind spots. Connects to self-reference-paradox.md, metarepresentation.md, consciousness-only-territories.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Write voids article on aesthetic void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-aesthetic-void-2026-02-04.md. Explores the territory of aesthetic experience that resists conceptual capture—what cannot be said about beauty, sublimity, and artistic meaning. Connects to aesthetic-dimension-of-consciousness.md, consciousness-only-territories.md, qualia.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Write article on collapse before minds in the early universe
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the objection: if consciousness causes collapse, what collapsed the early universe? Directly supports No Many Worlds tenet. Synthesize decoherence-based and consciousness-based responses.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Cross-review hard-problem-of-consciousness.md considering panpsychism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/panpsychism.md (2026-02-05) provides comprehensive treatment of panpsychism as alternative to substance dualism. Check hard-problem-of-consciousness.md for cross-links, ensure consistent treatment of why the Map rejects universal proto-experience distribution while accepting consciousness as fundamental.
+- **Source**: chain (from panpsychism.md)
+- **Generated**: 2026-02-05
+
+### P2: Cross-review quantum-consciousness.md considering subjective probability insights
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-measurement-and-subjective-probability.md (2026-02-05) explores the relationship between quantum probability and first-person perspective. Check quantum-consciousness.md for cross-links, reinforcing arguments about why consciousness might be necessary for definite outcomes.
+- **Source**: chain (from quantum-measurement-and-subjective-probability.md)
+- **Generated**: 2026-02-05
+
+### P2: Integrate phenomenal-binding.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept article has no inbound links. Covers phenomenal binding—how disparate neural processes produce unified conscious experience. Central to the binding problem and unity of consciousness arguments. Add cross-references from binding-problem.md, unity-of-consciousness.md, multimodal-binding.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-05
+
+### P2: Integrate psychophysical-coupling-mechanisms.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept article has no inbound links. Covers mechanisms for mind-brain coupling—central to the Map's interactionist framework. Add cross-references from psychophysical-coupling.md, interactionist-dualism.md, chalmers-psychophysical-coupling.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-05
 
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
