@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on consciousness and objectivity
-- **Type**: expand-topic
-- **Notes**: Research completed in research/objectivity-consciousness-view-from-nowhere-2026-01-23.md. Explores the tension between consciousness as inherently perspectival and the ideal of objective knowledge. Key for Map's epistemological framework.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
-### P2: Write article on consciousness influence on intelligence
-- **Type**: expand-topic
-- **Notes**: Research completed in research/consciousness-influence-intelligence-2026-01-21.md. Examines whether/how consciousness enhances cognitive capabilities beyond what unconscious processing achieves. Supports Bidirectional Interaction tenet.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
 ### P2: Condense functionalism.md (4250 words, 121% of threshold)
 - **Type**: condense
 - **Notes**: Concepts article significantly exceeds 3500-word hard threshold. Preserve core arguments against functionalism while reducing redundancy. Consider deferring historical details or objections to linked articles. See /condense skill.
@@ -671,6 +659,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write article on consciousness and objectivity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/objectivity-consciousness-view-from-nowhere-2026-01-23.md. Explores the tension between consciousness as inherently perspectival and the ideal of objective knowledge. Key for Map's epistemological framework.
+- **Output**: consciousness and objectivity
 
 ### ✓ 2026-02-05: Condense binding-problem.md (3528 words, 101% of threshold)
 - **Type**: condense
