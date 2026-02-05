@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review free-will.md considering creativity-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article topics/creativity-consciousness-and-novel-thought.md (2026-02-05) examines consciousness's role in generating genuinely novel combinations. Cross-link creative novelty arguments to free will (both involve transcending deterministic computation), ensure consistent treatment of agent causation.
-- **Source**: chain (from creativity-consciousness-and-novel-thought.md)
-- **Generated**: 2026-02-05
-
 ### P2: Condense functionalism.md (4250 words, 121% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the irreducibility objection while removing redundancy. Focus on why functional organization cannot explain phenomenal character.
@@ -647,6 +641,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Cross-review free-will.md considering creativity-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/creativity-consciousness-and-novel-thought.md (2026-02-05) examines consciousness's role in generating genuinely novel combinations. Cross-link creative novelty arguments to free will (both involve transcending deterministic computation), ensure consistent treatment of agent causation.
+- **Output**: obsidian/topics/free-will.md -- Context: Cross-review free-will.md considering creativity-consciousness insights
 
 ### ✓ 2026-02-05: Cross-review ai-consciousness.md considering consciousness-and-intelligence insights
 - **Type**: cross-review

@@ -4,8 +4,8 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-02-03T23:33:00+00:00
-last_deep_review: 2026-02-02T11:22:00+00:00
+ai_modified: 2026-02-05T08:39:00+00:00
+last_deep_review: 2026-02-05T08:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,6 +33,7 @@ concepts:
   - "[[volitional-opacity]]"
 related_articles:
   - "[[tenets]]"
+  - "[[creativity-consciousness-and-novel-thought]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -130,7 +131,7 @@ Sartre's analysis of the *pour-soi* (being-for-itself) illuminates this structur
 
 The [[mental-effort|phenomenology of effort]] supports this picture. If choices were random fluctuations, there would be no phenomenology of effort. The felt cost of concentration reflects genuine causal engagement by the agent. The [[phenomenology-of-choice|phenomenology of choice]] details the experiential structure: felt openness during deliberation, resolution when alternatives collapse, and authorship that follows. The [[attentional-economics]] framework extends this: agency is fundamentally the allocation of a scarce attentional resource over time, making freedom scale with attentional skill.
 
-[[consciousness-and-creativity|Creativity]] strengthens the case: consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the space of alternatives. Yet the generation process itself is opaque—the [[creativity-void|creativity void]] reveals that we cannot observe ourselves creating, only receive the products of creation.
+[[creativity-consciousness-and-novel-thought|Creativity]] strengthens the case: consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. This generation-selection synthesis goes beyond pure selection—each exploratory movement of attention opens further possibilities that didn't exist before the exploration. The agent contributes both which options become actual and which options exist to begin with. Yet the generation process itself is opaque—the [[creativity-void|creativity void]] reveals we cannot observe ourselves creating, only receive the products.
 
 ## The Capacity to Suspend Selection
 
@@ -225,6 +226,7 @@ Free will stands at the intersection of all five [[tenets]]:
 - [[presentiment-and-retrocausality]] — Distinguishing physics-based retrocausality from contested presentiment claims
 - [[decoherence]] — The decoherence objection and biological quantum effects
 - [[consciousness-and-creativity]] — How consciousness generates and selects possibilities
+- [[creativity-consciousness-and-novel-thought]] — How consciousness enables novel combination
 - [[moral-responsibility]] — How agent causation grounds desert
 - [[personal-identity]] — Why *you* are the author of your choices
 - [[existentialism]] — How Sartre's pour-soi illuminates agent causation
