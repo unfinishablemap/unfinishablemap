@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense machine-consciousness.md (4022 words, 101% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Core arguments about substrate independence and machine consciousness criteria should be preserved. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-05
-
 ### P2: Write article on brain specialness boundary
 - **Type**: expand-topic
 - **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Addresses the "why not psychokinesis" problem: if consciousness can influence quantum outcomes in brains, what principled boundary prevents macro-PK? Key insight: interface locality—consciousness influences only quantum systems integrated into its control loop. Directly supports Minimal Quantum Interaction tenet. Critical for defending the Map's scientific respectability.
@@ -677,6 +671,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Condense machine-consciousness.md (4022 words, 101% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Core arguments about substrate independence and machine consciousness criteria should be preserved. See /condense skill.
+- **Output**: obsidian/topics/machine-consciousness.md
 
 ### ✓ 2026-02-05: Review evolution-of-consciousness.md considering collapse-before-minds insights
 - **Type**: cross-review
