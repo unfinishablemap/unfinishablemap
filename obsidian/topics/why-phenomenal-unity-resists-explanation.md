@@ -4,7 +4,7 @@ description: "Classical mechanisms coordinate separate processes but cannot make
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T18:52:00+00:00
+ai_modified: 2026-02-05T07:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-02-01T18:52:00+00:00
+last_deep_review: 2026-02-05T07:01:00+00:00
 ---
 
 [[phenomenal-unity|Phenomenal unity]]—the fact that conscious experience comes as an integrated whole rather than separate parts—systematically resists physical explanation. Every classical approach shares a structural limitation: they describe how separate processes relate without explaining how they become *one* process. Synchronised firing consists of many neurons firing. Information integration occurs across distinct subsystems. Global broadcasting happens in multiple locations. No amount of coordination, correlation, or integration among separate things makes them literally one thing. This structural mismatch between physical relations and experiential unity is not merely a gap in current knowledge but may reflect a genuine ontological difference—consciousness involves something that physical description cannot capture.

@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate why-phenomenal-unity-resists-explanation.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-01) has no inbound links. Covers why the binding problem resists physicalist explanation—phenomenal unity is a stubborn fact that supports dualism. Add cross-references from binding-problem.md, unity-of-consciousness.md, hard-problem-of-consciousness.md, arguments-for-dualism.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-05
-
 ### P2: Write article on retrocausal neural effects and presentiment
 - **Type**: expand-topic
 - **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Controversial but rigorous topic—presentiment studies show anomalous anticipatory physiological responses. Connects to time-collapse-and-agency.md and supports No Many Worlds tenet by suggesting temporal directionality has experiential significance.
@@ -653,6 +647,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Integrate why-phenomenal-unity-resists-explanation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers why the binding problem resists physicalist explanation—phenomenal unity is a stubborn fact that supports dualism. Add cross-references from binding-problem.md, unity-of-consciousness.md, hard-problem-of-consciousness.md, arguments-for-dualism.md.
+- **Output**: obsidian/topics/why-phenomenal-unity-resists-explanation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-05: Integrate evolutionary-case-for-mental-causation.md into site navigation
 - **Type**: integrate-orphan

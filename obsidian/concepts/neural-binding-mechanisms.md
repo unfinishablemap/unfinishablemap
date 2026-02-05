@@ -4,7 +4,7 @@ description: "Classical neural binding (gamma synchrony, thalamocortical loops) 
 created: 2026-01-28
 modified: 2026-01-28
 human_modified:
-ai_modified: 2026-01-28T16:57:00+00:00
+ai_modified: 2026-02-05T07:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -76,6 +76,8 @@ Bell's theorem and loophole-free experiments confirm that non-local correlations
 **Responses and caveats:** Some propose thalamic pacemakers as a classical explanation—the thalamus could entrain distant regions to a common rhythm. This addresses some zero-lag cases, but entrainment typically produces *near*-zero lag (within a few milliseconds) rather than the sub-millisecond precision observed in gamma binding. The argument remains under debate and awaits peer-reviewed verification.
 
 ## Why Classical Mechanisms Fail at BP2
+
+For the full philosophical argument that classical mechanisms cannot produce phenomenal unity in principle—not merely as a gap in current knowledge—see [[why-phenomenal-unity-resists-explanation|Why Phenomenal Unity Resists Physical Explanation]].
 
 Classical physics describes reality as composed of fundamentally separate particles interacting through local forces. All large-scale phenomena reduce to arrangements of parts that interact—there are no genuine wholes, only coordinated pluralities.
 

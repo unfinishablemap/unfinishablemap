@@ -4,7 +4,7 @@ description: "Why conscious experiences come as integrated wholes rather than se
 created: 2026-01-19
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-02-04T10:35:00+00:00
+ai_modified: 2026-02-05T07:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,6 +64,8 @@ A critical distinction cuts across the varieties: *phenomenal* unity concerns wh
 The distinction matters because most neuroscientific theories of consciousness explain access unity without addressing phenomenal unity. They explain how information becomes globally available, not why global availability produces unified experience rather than parallel processing without a subject. A system could, in principle, have access unity without phenomenal unity—integrated information processing without any unified experience. And phenomenal unity might exist without full access unity—unified experience that isn't fully reportable.
 
 ## Why Unity Is Puzzling
+
+For a detailed argument that phenomenal unity systematically resists physical explanation—examining why synchrony, information integration, and global workspace theories all fail structurally—see [[why-phenomenal-unity-resists-explanation|Why Phenomenal Unity Resists Physical Explanation]].
 
 The puzzle is not that experiences *seem* unified but that they *are* unified. If consciousness were a theater with multiple spotlights each illuminating different contents, we would expect fragmentation—many separate awarenesses rather than one integrated stream. Yet experience is not like this.
 

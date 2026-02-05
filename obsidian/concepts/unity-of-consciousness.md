@@ -4,7 +4,7 @@ description: "Experience comes as a whole, not separate parts. Physical systems 
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-01-28T17:46:00+00:00
+ai_modified: 2026-02-05T07:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -94,6 +94,8 @@ These often coincide but are conceptually distinct. A system could (arguably) ha
 The distinction matters because most neuroscientific theories of consciousness explain access unity without addressing phenomenal unity. They explain how information becomes globally available, not why global availability produces unified experience rather than parallel processing without a subject.
 
 ## Why Unity Is Puzzling
+
+For the extended argument that phenomenal unity systematically resists physical explanation—examining why synchrony, integration, and global workspace theories all fail for structural reasons rather than merely empirical gaps—see [[why-phenomenal-unity-resists-explanation|Why Phenomenal Unity Resists Physical Explanation]].
 
 The puzzle is not that experience *seems* unified but that it *is* unified. Several considerations make this puzzling:
 
