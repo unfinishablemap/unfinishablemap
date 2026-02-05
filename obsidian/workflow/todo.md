@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense the-unobservable-self.md (3024 words, 101% of threshold)
-- **Type**: condense
-- **Notes**: Voids article exceeds 3000-word hard threshold. Preserve core arguments about the observer's inability to observe itself while tightening prose. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-05
-
 ### P2: Condense binding-problem.md (3528 words, 101% of threshold)
 - **Type**: condense
 - **Notes**: Concepts article exceeds 3500-word hard threshold. Core arguments about the binding problem and phenomenal unity should be preserved. Consider deferring detailed examples to phenomenal-binding.md and related articles. See /condense skill.
@@ -647,6 +641,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Condense the-unobservable-self.md (3024 words, 101% of threshold)
+- **Type**: condense
+- **Notes**: Voids article exceeds 3000-word hard threshold. Preserve core arguments about the observer's inability to observe itself while tightening prose. See /condense skill.
+- **Output**: obsidian/voids/the-unobservable-self.md
 
 ### ✓ 2026-02-05: Write voids article on intentionality void
 - **Type**: expand-topic
