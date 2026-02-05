@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review ai-consciousness.md considering consciousness-and-intelligence insights
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-and-intelligence.md (2026-02-05) explores consciousness's causal role in enabling human-level intelligence. Check for cross-links, update arguments about AI consciousness criteria, ensure consistent treatment of the great ape-human cognitive gap.
-- **Source**: chain (from consciousness-and-intelligence.md)
-- **Generated**: 2026-02-05
-
 ### P2: Cross-review free-will.md considering creativity-consciousness insights
 - **Type**: cross-review
 - **Notes**: New article topics/creativity-consciousness-and-novel-thought.md (2026-02-05) examines consciousness's role in generating genuinely novel combinations. Cross-link creative novelty arguments to free will (both involve transcending deterministic computation), ensure consistent treatment of agent causation.
@@ -641,6 +635,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Cross-review ai-consciousness.md considering consciousness-and-intelligence insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intelligence.md (2026-02-05) explores consciousness's causal role in enabling human-level intelligence. Check for cross-links, update arguments about AI consciousness criteria, ensure consistent treatment of the great ape-human cognitive gap.
+- **Output**: obsidian/topics/ai-consciousness.md -- Context: Cross-review ai-consciousness.md considering consciousness-and-intelligence insights
 
 ### ✓ 2026-02-05: Write article on panpsychism
 - **Type**: expand-topic

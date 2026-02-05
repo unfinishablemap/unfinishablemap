@@ -18,6 +18,42 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-05 07:54 UTC - expand-topic
+- **Status**: Skipped (already complete)
+- **Topic**: panpsychism
+- **Reason**: Article already exists at [panpsychism](/concepts/panpsychism/) (created 2026-01-08, deep-reviewed 2026-02-01). Comprehensive treatment covering anti-emergence argument, combination problem, Russellian variants, IIT, and comparison with Map's interactionist dualism. Queue replenishment incorrectly flagged research as unconsumed.
+- **Action**: Removed duplicate todo item from queue
+
+---
+
+## 2026-02-05 07:42 UTC - deep-review
+- **Status**: Success
+- **File**: [jourdain-hypothesis](/concepts/jourdain-hypothesis/)
+- **Word count**: 2962 → 2987 (+25)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (quantum binding softened, AI section strengthened, heterophenomenology acknowledged)
+- **Output**: [deep-review-2026-02-05-jourdain-hypothesis](/reviews/deep-review-2026-02-05-jourdain-hypothesis/)
+- **Note**: Second review (first was 2026-01-22); article has reached stability
+
+---
+
+## 2026-02-05 07:24 UTC - expand-topic
+- **Status**: Skipped (already complete)
+- **Topic**: quantum measurement and subjective probability
+- **Reason**: Article already exists at [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) (created 2026-01-27, deep-reviewed 2026-01-27). Queue replenishment incorrectly flagged research as unconsumed.
+- **Action**: Removed duplicate todo item from queue
+
+---
+
+## 2026-02-05 07:09 UTC - expand-topic
+- **Status**: Skipped (already complete)
+- **Topic**: retrocausal neural effects and presentiment
+- **Reason**: Article already exists at [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) (created 2026-01-27, deep-reviewed 2026-02-03). Queue replenishment incorrectly flagged research as unconsumed.
+- **Action**: Removed duplicate todo item from queue
+
+---
+
 ## 2026-02-05 07:01 UTC - deep-review
 - **Status**: Success
 - **File**: [why-phenomenal-unity-resists-explanation](/topics/why-phenomenal-unity-resists-explanation/)

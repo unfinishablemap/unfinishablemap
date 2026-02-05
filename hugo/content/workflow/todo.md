@@ -38,35 +38,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review ai-consciousness.md considering consciousness-and-intelligence insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intelligence.md (2026-02-05) explores consciousness's causal role in enabling human-level intelligence. Check for cross-links, update arguments about AI consciousness criteria, ensure consistent treatment of the great ape-human cognitive gap.
+- **Source**: chain (from consciousness-and-intelligence.md)
+- **Generated**: 2026-02-05
+
+### P2: Cross-review free-will.md considering creativity-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/creativity-consciousness-and-novel-thought.md (2026-02-05) examines consciousness's role in generating genuinely novel combinations. Cross-link creative novelty arguments to free will (both involve transcending deterministic computation), ensure consistent treatment of agent causation.
+- **Source**: chain (from creativity-consciousness-and-novel-thought.md)
+- **Generated**: 2026-02-05
+
+### P2: Condense functionalism.md (4250 words, 121% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the irreducibility objection while removing redundancy. Focus on why functional organization cannot explain phenomenal character.
+- **Source**: length_analysis
+- **Generated**: 2026-02-05
+
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
-
-### P2: Write article on retrocausal neural effects and presentiment
-- **Type**: expand-topic
-- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Controversial but rigorous topic—presentiment studies show anomalous anticipatory physiological responses. Connects to time-collapse-and-agency.md and supports No Many Worlds tenet by suggesting temporal directionality has experiential significance.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
-### P2: Write article on phenomenal binding and multimodal integration
-- **Type**: expand-topic
-- **Notes**: Research completed in research/phenomenal-binding-multimodal-integration-2026-01-23.md. How conscious experience unifies information across sensory modalities. Directly relevant to binding-problem.md and unity-of-consciousness.md. Supports Dualism tenet by showing binding resists physical explanation.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
-### P2: Write article on quantum measurement and subjective probability
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. Explores the relationship between quantum probability and first-person perspective. Supports Minimal Quantum Interaction and No Many Worlds tenets.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
-### P2: Condense attention-interface-mechanisms.md (4090 words, 102% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about attention as the consciousness-brain interface while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-05
 
 ### P2: Condense machine-consciousness.md (4022 words, 101% of threshold)
 - **Type**: condense
@@ -648,6 +642,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write article on panpsychism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/panpsychism-consciousness-2026-01-08.md. Major alternative to substance dualism that needs systematic treatment. Address constitutive vs emergentist panpsychism, combination problem, relationship to Map's framework. The Map accepts consciousness as fundamental but rejects universal distribution.
+- **Output**: panpsychism
+
+### ✓ 2026-02-05: Write article on quantum measurement and subjective probability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. Explores the relationship between quantum probability and first-person perspective. Supports Minimal Quantum Interaction and No Many Worlds tenets.
+- **Output**: quantum measurement and subjective probability
+
+### ✓ 2026-02-05: Write article on retrocausal neural effects and presentiment
+- **Type**: expand-topic
+- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Controversial but rigorous topic—presentiment studies show anomalous anticipatory physiological responses. Connects to time-collapse-and-agency.md and supports No Many Worlds tenet by suggesting temporal directionality has experiential significance.
+- **Output**: retrocausal neural effects and presentiment
 
 ### ✓ 2026-02-05: Integrate why-phenomenal-unity-resists-explanation.md into site navigation
 - **Type**: integrate-orphan
