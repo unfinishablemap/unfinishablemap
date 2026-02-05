@@ -75,7 +75,7 @@ Three aspects make this problematic:
 
 The standard measurement problem asks: why does the quantum system exhibit a definite outcome rather than remaining in superposition? But even granting definite outcomes, a deeper question remains: why does *this* consciousness experience *this* particular result?
 
-This [indexical gap](/topics/indexical-identity-quantum-measurement/) connects the measurement problem to the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/). Both share a structure: third-person descriptions fail to capture first-person facts—facts about *what it is like* to be a particular experiencing subject, the [qualitative character](/concepts/qualia/) that no functional or structural description can convey. See [consciousness-and-quantum-measurement](/topics/consciousness-and-quantum-measurement/) for extended treatment of this structural parallel and its implications for the Map's framework.
+This [indexical gap](/topics/indexical-identity-quantum-measurement/) connects the measurement problem to the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/). Both share a structure: third-person descriptions fail to capture first-person facts—facts about *what it is like* to be a particular experiencing subject, the [qualitative character](/concepts/qualia/) that no functional or structural description can convey. See [consciousness-and-quantum-measurement](/archive/topics/consciousness-and-quantum-measurement/) for extended treatment of this structural parallel and its implications for the Map's framework.
 
 Functionalists contest this, holding that "why am I this one?" confuses indexical reference with substantial identity—"I" picks out whoever is asking; no further fact remains. This analysis is correct for the *reference* of "I" but doesn't dissolve the phenomenon. When asking "why am I this one?", we note that *something it is like* to be this experiencer exists, and ask what makes that fact true.
 
@@ -185,7 +185,7 @@ The measurement problem is central to the Map's framework. It creates the logica
 
 ## Further Reading
 
-- [quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-and-definite-outcomes/) — Extended treatment of why definite outcomes occur and where consciousness might participate
+- [quantum-measurement-and-definite-outcomes](/archive/topics/quantum-measurement-and-definite-outcomes/) — Extended treatment of why definite outcomes occur and where consciousness might participate
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap all interpretations leave untreated
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure
 - [many-worlds](/arguments/many-worlds/) — Arguments against MWI

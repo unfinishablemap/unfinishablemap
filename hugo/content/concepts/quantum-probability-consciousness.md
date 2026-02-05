@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-01-27 23:00:00+00:00
+ai_modified: 2026-02-05 18:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -21,6 +21,7 @@ concepts:
 - '[[mind-matter-interface]]'
 - '[[stapp-quantum-mind]]'
 - '[[quantum-interpretations]]'
+- '[[prebiotic-collapse]]'
 created: 2026-01-23
 date: &id001 2026-01-27
 description: 'Born probabilities describe the consciousness-quantum interface: not
@@ -48,7 +49,7 @@ Max Born's 1926 insight connected the abstract wave function to empirical result
 
 Three aspects are puzzling:
 
-**What probability attaches to.** In classical physics, probability reflects ignorance—the coin is already heads or tails; we just don't know which. Quantum probability seems different. Before measurement, the outcome isn't merely unknown; according to most interpretations, it isn't determined. But then what is the probability a probability *of*?
+**What probability attaches to.** In classical physics, probability reflects ignorance—the coin is already heads or tails; we just don't know which. Quantum probability seems different. Before measurement, the outcome isn't determined. What is the probability a probability *of*?
 
 **Why this rule.** Why squared amplitudes rather than cubed? Why amplitudes at all? The Born rule's mathematical form seems arbitrary—it works, but nothing in the formalism explains why. Attempts to derive it from deeper principles (Gleason's theorem, decision-theoretic arguments) require assumptions critics find question-begging.
 
@@ -101,6 +102,8 @@ More fundamentally, MWI treats indexical identity as derivative from branch stru
 ## The Missing Piece: First-Person Probability
 
 All four views share a blind spot: they don't address what probability means *for this consciousness*.
+
+But this raises a historical question: if consciousness selects outcomes, what selected them during the 13.8 billion years before consciousness existed? See [prebiotic-collapse](/concepts/prebiotic-collapse/) for how the Map resolves this tension through objective reduction with consciousness modulation—collapse happens via physical mechanisms; consciousness interfaces with collapse specifically in neural systems.
 
 Consider: you're about to measure spin along some axis. Quantum mechanics predicts 50% spin-up, 50% spin-down. What does this mean for *you*?
 

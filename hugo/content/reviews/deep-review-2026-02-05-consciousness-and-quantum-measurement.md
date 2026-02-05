@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-05
-**Article**: [Consciousness and Quantum Measurement](/topics/consciousness-and-quantum-measurement/)
+**Article**: [Consciousness and Quantum Measurement](/archive/topics/consciousness-and-quantum-measurement/)
 **Previous review**: [2026-02-04](/reviews/deep-review-2026-02-04-consciousness-and-quantum-measurement/)
 **Context**: Task context indicated file was orphaned; verification showed prior review had already added 6+ inbound links.
 

@@ -62,7 +62,7 @@ These aren't mutually exclusive. Selection might operate at multiple levels: mic
 
 ### How Selection Works
 
-Selection operates through the [quantum measurement process](/concepts/measurement-problem/). Standard quantum mechanics describes particles in superposition until "measured," at which point superposition collapses to a definite outcome. Physics explains why collapse yields probabilistic distributions but not why any particular outcome occurs. Something must select. The [definite outcomes problem](/topics/quantum-measurement-and-definite-outcomes/) is precisely where this gap opens: physics determines the *distribution* of outcomes but not which individual outcome becomes actual.
+Selection operates through the [quantum measurement process](/concepts/measurement-problem/). Standard quantum mechanics describes particles in superposition until "measured," at which point superposition collapses to a definite outcome. Physics explains why collapse yields probabilistic distributions but not why any particular outcome occurs. Something must select. The [definite outcomes problem](/archive/topics/quantum-measurement-and-definite-outcomes/) is precisely where this gap opens: physics determines the *distribution* of outcomes but not which individual outcome becomes actual.
 
 This is the opening for consciousness. At quantum indeterminacies, physical causes are necessary but not sufficient. [Causal closure](/concepts/causal-closure/)—the thesis that every physical event has a sufficient physical cause—fails precisely where collapse occurs. Consciousness operates at this gap, selecting outcomes without competing with or overriding physical causes.
 

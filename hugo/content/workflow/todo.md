@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-05 13:54:00+00:00
+ai_modified: 2026-02-05 15:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -44,27 +44,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense functionalism.md (4250 words, 121% of threshold)
-- **Type**: condense
-- **Notes**: Concepts article significantly exceeds 3500-word hard threshold. Preserve core arguments against functionalism while reducing redundancy. Consider deferring historical details or objections to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-05
-
-### P2: Cross-review brain-interface-boundary.md considering brain-specialness insights
-- **Type**: cross-review
-- **Notes**: New article topics/brain-specialness-boundary.md (2026-02-05) addresses why consciousness doesn't enable psychokinesis. Check brain-interface-boundary.md for opportunities to add cross-links, reinforce arguments about interface locality, or note tensions.
-- **Source**: chain (from brain-specialness-boundary.md)
-- **Generated**: 2026-02-05
-
 ### P3: Address phenomenology-to-metaphysics leap in introspection cluster
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05 afternoon) found systematic vulnerability in intentionality-void.md, the-unobservable-self.md, and the-observer-witness-in-meditation.md. Key issues: (1) All three draw metaphysical conclusions (dualism, irreducibility) from phenomenological premises without bridging arguments—physicalist self-modeling theories explain the same phenomenology. (2) Buddhist phenomenology is cited as evidence while ignoring that Buddhist philosophy draws opposite conclusions (no-self, not uncatchable-self). (3) Introspection's reliability is questioned in the articles, yet introspective reports are treated as evidence. Lower priority as phenomenological descriptions are strong. See pessimistic-2026-02-05-afternoon.md
 - **Source**: pessimistic-review
 - **Generated**: 2026-02-05
 
-### P2: Integrate working-memory-as-consciousness-amplifier.md into site navigation
+### P2: Review conservation-laws-and-mind.md considering brain-specialness-boundary insights
+- **Type**: cross-review
+- **Notes**: New article topics/brain-specialness-boundary.md (2026-02-05) addresses why consciousness can bias brain quantum outcomes but not external objects. Check for cross-links, reinforcing arguments, or contradictions with conservation-laws-and-mind.md.
+- **Source**: chain (from brain-specialness-boundary.md)
+- **Generated**: 2026-02-05
+
+### P2: Review contemplative-evidence-for-consciousness-theories.md considering observer-witness insights
+- **Type**: cross-review
+- **Notes**: New article topics/the-observer-witness-in-meditation.md (2026-02-05) explores the witness state in meditation. Check for cross-links to contemplative-evidence-for-consciousness-theories.md, reinforce arguments about what meditation reveals.
+- **Source**: chain (from the-observer-witness-in-meditation.md)
+- **Generated**: 2026-02-05
+
+### P2: Integrate intentionality-void.md into site navigation
 - **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-02) has no inbound links. Covers how working memory amplifies conscious processing. Add cross-references from working-memory.md, consciousness-and-intelligence.md, attention-as-interface.md.
+- **Notes**: Voids article (2026-02-05) has no inbound links. Explores why intentionality's mechanism is hidden from introspection. Add cross-references from the-unobservable-self.md, creativity-void.md, phenomenology-of-the-edge.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-05
+
+### P2: Integrate recursion-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-05) has no inbound links. Explores bounded metacognitive depth—why self-reflection hits a ceiling around fifth order. Add cross-references from self-reference-paradox.md, the-unobservable-self.md, introspective-opacity.md.
 - **Source**: orphan_integration
 - **Generated**: 2026-02-05
 
@@ -658,8 +664,54 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-05
 
+### P3: Create concept page for intentionality
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05 (afternoon). Intentionality (aboutness) is listed as one of seven convergent arguments for dualism but lacks dedicated treatment. Brentano's thesis, Searle's response to naturalistic accounts, and the connection to phenomenal consciousness deserve fuller development. Referenced in consciousness.md, arguments-for-dualism.md. See optimistic-2026-02-05-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Create concept page for observational-closure
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05 (afternoon). Saad's key concept from delegatory dualism (2025)—the claim that mental causation need not produce observable violations of physical patterns even if it's real. Distinct from causal closure. Important for understanding how interactionist dualism avoids empirical disconfirmation. See optimistic-2026-02-05-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Write article on the binding problem (systematic treatment)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05 (afternoon). While mentioned in why-phenomenal-unity-resists-explanation.md, the binding problem deserves deeper dedicated treatment. Classical binding vs. phenomenal unity vs. quantum solutions (entanglement-based binding) could be clarified systematically. Supports Minimal Quantum Interaction tenet. See optimistic-2026-02-05-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Integrate collapse-before-minds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-05) has no inbound links. Covers what determined quantum outcomes before consciousness existed (13.8 billion years). Add cross-references from quantum-measurement-and-definite-outcomes.md, conservation-laws-and-mind.md, panpsychism.md, decoherence-and-macroscopic-superposition.md.
+- **Output**: collapse-before-minds.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-05: Write article on attention-consciousness mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/attention-consciousness-mechanisms-2026-01-15.md. Covers how attention and consciousness relate—Global Neuronal Workspace, Attention Schema Theory, IIT perspectives on whether attention is necessary/sufficient for consciousness. Supports Bidirectional Interaction tenet.
+- **Output**: attention-consciousness mechanisms
+
+### ✓ 2026-02-05: Integrate working-memory-as-consciousness-amplifier.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-02) has no inbound links. Covers how working memory amplifies conscious processing. Add cross-references from working-memory.md, consciousness-and-intelligence.md, attention-as-interface.md.
+- **Output**: working-memory-as-consciousness-amplifier.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-05: Cross-review brain-interface-boundary.md considering brain-specialness insights
+- **Type**: cross-review
+- **Notes**: New article topics/brain-specialness-boundary.md (2026-02-05) addresses why consciousness doesn't enable psychokinesis. Check brain-interface-boundary.md for opportunities to add cross-links, reinforce arguments about interface locality, or note tensions.
+- **Output**: obsidian/concepts/brain-interface-boundary.md -- Context: Cross-review brain-interface-boundary.md considering brain-specialness insights
+
+### ✓ 2026-02-05: Condense functionalism.md (4250 words, 121% of threshold)
+- **Type**: condense
+- **Notes**: Concepts article significantly exceeds 3500-word hard threshold. Preserve core arguments against functionalism while reducing redundancy. Consider deferring historical details or objections to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-05: Write article on consciousness and objectivity
 - **Type**: expand-topic

@@ -77,11 +77,11 @@ Six sympathetic personas examined the article's strengths.
 
 ### Enhancements Made
 
-- Added [consciousness-and-quantum-measurement](/topics/consciousness-and-quantum-measurement/) to Further Reading (Key concepts section) for improved discoverability
+- Added [consciousness-and-quantum-measurement](/archive/topics/consciousness-and-quantum-measurement/) to Further Reading (Key concepts section) for improved discoverability
 
 ### Cross-links Added
 
-- [consciousness-and-quantum-measurement](/topics/consciousness-and-quantum-measurement/) — The structural parallel between the measurement and hard problems
+- [consciousness-and-quantum-measurement](/archive/topics/consciousness-and-quantum-measurement/) — The structural parallel between the measurement and hard problems
 
 This link was already present in the body text (line 52) but is now also in Further Reading for easier discovery.
 

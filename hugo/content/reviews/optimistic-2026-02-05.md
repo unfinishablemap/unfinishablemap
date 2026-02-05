@@ -30,7 +30,7 @@ The Map correctly identifies that the zombie argument's force doesn't depend on 
 
 ### The Quantum Mind Theorist (Stapp)
 
-The Map has successfully threaded the needle between scientific credibility and openness to consciousness-physics interface. The treatment across [quantum-consciousness](/concepts/quantum-consciousness/), [consciousness-and-quantum-measurement](/topics/consciousness-and-quantum-measurement/), and [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) demonstrates sophisticated engagement with actual physics while avoiding the quantum mysticism trap.
+The Map has successfully threaded the needle between scientific credibility and openness to consciousness-physics interface. The treatment across [quantum-consciousness](/concepts/quantum-consciousness/), [consciousness-and-quantum-measurement](/archive/topics/consciousness-and-quantum-measurement/), and [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) demonstrates sophisticated engagement with actual physics while avoiding the quantum mysticism trap.
 
 The "selection not injection" framework is particularly valuable: consciousness biasing otherwise indeterminate outcomes without adding energy directly addresses the conservation law objection that has plagued interactionist positions since Princess Elizabeth's correspondence with Descartes. The Map takes Tegmark's decoherence critique seriously—acknowledging the 10^-13 second timescale—while presenting the Hagan et al. response and biological quantum effects as existence proofs that evolution can harness quantum phenomena in warm, wet systems.
 
@@ -182,7 +182,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article is genuinely inno
 | From | To | Reason |
 |------|-----|--------|
 | [collapse-before-minds](/archive/topics/collapse-before-minds/) | [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) | Direct treatment of the mechanisms |
-| [consciousness-and-quantum-measurement](/topics/consciousness-and-quantum-measurement/) | [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) | Both address first-person dimension |
+| [consciousness-and-quantum-measurement](/archive/topics/consciousness-and-quantum-measurement/) | [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) | Both address first-person dimension |
 | [free-will](/topics/free-will/) | [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) | Both involve consciousness generating possibilities |
 | [ai-consciousness](/topics/ai-consciousness/) | [continual-learning-argument](/concepts/continual-learning-argument/) | Core argument deserves prominent linking |
 | [meaning-of-life](/topics/meaning-of-life/) | [consciousness-value-connection](/concepts/consciousness-value-connection/) | Both ground value in consciousness |

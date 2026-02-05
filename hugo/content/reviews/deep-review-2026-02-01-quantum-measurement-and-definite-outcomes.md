@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-01
-**Article**: [Quantum Measurement and the Problem of Definite Outcomes](/topics/quantum-measurement-and-definite-outcomes/)
+**Article**: [Quantum Measurement and the Problem of Definite Outcomes](/archive/topics/quantum-measurement-and-definite-outcomes/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

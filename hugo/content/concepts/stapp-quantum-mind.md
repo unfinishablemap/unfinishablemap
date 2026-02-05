@@ -113,7 +113,7 @@ The most serious challenge: quantum coherence in warm brains should decay far to
 
 **Monte Carlo critique**: 2024 simulations challenged whether the Zeno mechanism remains robust for timescales longer than brain decoherence time, unless consciousness acts globally on brain-plus-environment. This remains an active area of investigation—the cryptochrome precedent shows Zeno can work in protected biological microenvironments, but whether neural tissue provides analogous protection is unconfirmed.
 
-Most importantly, decoherence doesn't solve the [measurement-problem](/concepts/measurement-problem/): it explains why superpositions appear classical but not why measurements yield *definite* outcomes. Consciousness could bias outcome selection *after* decoherence, at measurement collapse. The [structural parallel between the measurement problem and the hard problem of consciousness](/topics/consciousness-and-quantum-measurement/) suggests these aren't separate puzzles but two faces of the same interface. See [decoherence](/concepts/decoherence/) for detailed treatment.
+Most importantly, decoherence doesn't solve the [measurement-problem](/concepts/measurement-problem/): it explains why superpositions appear classical but not why measurements yield *definite* outcomes. Consciousness could bias outcome selection *after* decoherence, at measurement collapse. The [structural parallel between the measurement problem and the hard problem of consciousness](/archive/topics/consciousness-and-quantum-measurement/) suggests these aren't separate puzzles but two faces of the same interface. See [decoherence](/concepts/decoherence/) for detailed treatment.
 
 ### The Formalism Objection
 

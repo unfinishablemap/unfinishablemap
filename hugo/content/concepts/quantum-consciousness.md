@@ -51,7 +51,7 @@ The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) te
 
 The quantum opening addresses [mental causation](/concepts/mental-causation/). Kim's exclusion argument concludes that if physical events have sufficient physical causes, mental causes are excluded. But quantum mechanics provides an alternative.
 
-The [measurement problem](/concepts/measurement-problem/) asks: what causes superposition collapse? Physics leaves this open—"Decoherence does not tell how and why only one of these outcomes is measured" (Tomaz et al. 2025). At quantum indeterminacies, [causal closure](/concepts/causal-closure/) fails: physical causes are necessary but not sufficient. If consciousness determines which outcome occurs, it causes physical events without competing with physical causes. The [structural parallel between the measurement problem and the hard problem](/topics/consciousness-and-quantum-measurement/)—both concerning where first-person facts enter third-person descriptions—suggests these are not separate puzzles but two faces of the mind-matter interface.
+The [measurement problem](/concepts/measurement-problem/) asks: what causes superposition collapse? Physics leaves this open—"Decoherence does not tell how and why only one of these outcomes is measured" (Tomaz et al. 2025). At quantum indeterminacies, [causal closure](/concepts/causal-closure/) fails: physical causes are necessary but not sufficient. If consciousness determines which outcome occurs, it causes physical events without competing with physical causes. The [structural parallel between the measurement problem and the hard problem](/archive/topics/consciousness-and-quantum-measurement/)—both concerning where first-person facts enter third-person descriptions—suggests these are not separate puzzles but two faces of the mind-matter interface.
 
 The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the alternative where all outcomes occur in branching universes. See [many-worlds](/arguments/many-worlds/) for five arguments against MWI. The core objection: MWI makes consciousness epiphenomenal. If all outcomes occur, consciousness doesn't select anything—it merely finds itself in a branch. This conflicts with [Bidirectional Interaction](/tenets/#bidirectional-interaction).
 
@@ -199,7 +199,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) — Unification of attention and motor selection
 
 **Key concepts:**
-- [consciousness-and-quantum-measurement](/topics/consciousness-and-quantum-measurement/) — The structural parallel between the measurement and hard problems
+- [consciousness-and-quantum-measurement](/archive/topics/consciousness-and-quantum-measurement/) — The structural parallel between the measurement and hard problems
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure, not pure subjective belief
 - [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — Analysis of the decoherence challenge
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — What a coupling law must specify

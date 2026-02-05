@@ -18,6 +18,101 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-05 18:28 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-quantum-measurement](/archive/topics/consciousness-and-quantum-measurement/), [quantum-measurement-and-definite-outcomes](/archive/topics/quantum-measurement-and-definite-outcomes/)
+- **Target**: [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/)
+- **Archived**: [consciousness-and-quantum-measurement](/archive/topics/consciousness-and-quantum-measurement/), [quantum-measurement-and-definite-outcomes](/archive/topics/quantum-measurement-and-definite-outcomes/)
+- **Word count**: ~5,900 (source 1: ~3,200) + (source 2: ~2,700) → ~4,200 unified (redundancy removed)
+- **References to review**: 23 files contain links to archived articles
+
+---
+
+## 2026-02-05 18:14 UTC - deep-review
+- **Status**: Success
+- **File**: [prebiotic-collapse](/concepts/prebiotic-collapse/)
+- **Word count**: 2059 → 2059 (unchanged; cross-links added to other files)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status via missing inbound links)
+- **Enhancements made**: 3 cross-links added from related articles
+- **Files modified**:
+  - quantum-probability-consciousness.md (+prebiotic-collapse link)
+  - consciousness-and-quantum-measurement.md (+prebiotic-collapse link)
+  - retrocausality.md (+prebiotic-collapse link, Wheeler's participatory universe)
+- **Output**: [deep-review-2026-02-05-prebiotic-collapse-crosslinks](/reviews/deep-review-2026-02-05-prebiotic-collapse-crosslinks/)
+
+---
+
+## 2026-02-05 17:58 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/)
+- **Word count**: 1871 → 1889 (+18)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-02-05-attention-consciousness-dissociation](/reviews/deep-review-2026-02-05-attention-consciousness-dissociation/)
+
+---
+
+## 2026-02-05 17:43 UTC - expand-topic
+- **Status**: Success
+- **Topic**: attention-consciousness mechanisms
+- **Output**: [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/)
+- **Word count**: 1871
+- **Based on research**: Yes — [attention-consciousness-mechanisms-2026-01-15](/research/attention-consciousness-mechanisms-2026-01-15/), [attention-consciousness-relationship-2026-01-15](/research/attention-consciousness-relationship-2026-01-15/), [attention-as-interface-hypothesis-2026-01-16](/research/attention-as-interface-hypothesis-2026-01-16/)
+
+---
+
+## 2026-02-05 17:29 UTC - deep-review
+- **Status**: Skipped (stale task)
+- **File**: working-memory-as-consciousness-amplifier.md
+- **Context**: Task requested deep-review to integrate orphaned file, but:
+  1. This file was **coalesced** into [working-memory](/concepts/working-memory/) on 2026-02-02
+  2. Original archived at archive/topics/working-memory-as-consciousness-amplifier.md
+  3. Coalesced article already deep-reviewed on 2026-02-04 ([deep-review-2026-02-04-working-memory](/reviews/deep-review-2026-02-04-working-memory/))
+  4. Previous review confirmed file is **not orphaned** — has 16+ inbound links
+- **Action**: No changes needed; task refers to superseded content
+
+---
+
+## 2026-02-05 15:58 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: ~150 non-draft files (topics, concepts, tenets, apex, voids)
+- **Output**: [optimistic-2026-02-05-afternoon](/reviews/optimistic-2026-02-05-afternoon/)
+
+---
+
+## 2026-02-05 15:39 UTC - deep-review
+- **Status**: Success
+- **File**: [brain-interface-boundary](/concepts/brain-interface-boundary/)
+- **Context**: Cross-review considering [brain-specialness-boundary](/topics/brain-specialness-boundary/) insights
+- **Word count**: 3018 → ~3040 (+22)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to companion article)
+- **Enhancements made**: 3 (cross-links added)
+- **Output**: [deep-review-2026-02-05-brain-interface-boundary](/reviews/deep-review-2026-02-05-brain-interface-boundary/)
+
+---
+
+## 2026-02-05 15:24 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [functionalism](/arguments/functionalism/)
+- **Word count**: 2036 words (81% of 2500 target)
+- **Reason**: Article already within acceptable limits for concepts section (threshold: 2500)
+
+---
+
+## 2026-02-05 15:09 UTC - deep-review
+- **Status**: Success
+- **File**: [brain-specialness-boundary](/topics/brain-specialness-boundary/)
+- **Word count**: 1725 → 1762 (+37)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-02-05-brain-specialness-boundary](/reviews/deep-review-2026-02-05-brain-specialness-boundary/)
+
+---
+
 ## 2026-02-05 14:54 UTC - expand-topic
 - **Status**: Already complete
 - **Topic**: consciousness and objectivity
