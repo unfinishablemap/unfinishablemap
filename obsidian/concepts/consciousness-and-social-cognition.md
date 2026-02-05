@@ -32,7 +32,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-01-23T00:00:00+00:00
+last_deep_review: 2026-02-05T11:54:00+00:00
 ---
 
 Does advanced social cognition require phenomenal consciousness? Great apes possess impressive social abilities—tracking relationships, forming coalitions, anticipating others' behaviour based on goals and perceptions—yet lack the capacities that distinguish human social intelligence: shared intentionality, explicit theory of mind, recursive mindreading, and the cultural transmission of social knowledge. The Unfinishable Map argues that this gap tracks consciousness: phenomenal experience enables the metarepresentational operations that transform basic social cognition into the distinctively human capacity to represent minds *as* minds.
