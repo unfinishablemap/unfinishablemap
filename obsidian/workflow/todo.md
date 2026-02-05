@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-05T09:09:00+00:00
+ai_modified: 2026-02-05T12:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -47,6 +47,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: condense
 - **Notes**: Article exceeds 4000-word hard threshold for topics/. Core arguments about substrate independence and machine consciousness criteria should be preserved. See /condense skill.
 - **Source**: length_analysis
+- **Generated**: 2026-02-05
+
+### P2: Write article on brain specialness boundary
+- **Type**: expand-topic
+- **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Addresses the "why not psychokinesis" problem: if consciousness can influence quantum outcomes in brains, what principled boundary prevents macro-PK? Key insight: interface locality—consciousness influences only quantum systems integrated into its control loop. Directly supports Minimal Quantum Interaction tenet. Critical for defending the Map's scientific respectability.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Write article on meditation observer-witness phenomenon
+- **Type**: expand-topic
+- **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. Covers the sakshi (witness) phenomenon in meditation—distinct neural signatures for effortful vs effortless attention. Maps to the Map's framework: passive witnessing as consciousness disengaging from selection, active attention as quantum Zeno mechanism. Connects contemplative traditions to neuroscience evidence.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Write article on conservation laws and mind-brain causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. Addresses the conservation law objection to interactionism: does mental causation violate energy conservation? Key responses include quantum indeterminacy (no energy transfer needed), counterfactual causation, and information-theoretic approaches. Directly supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Write voids article on intentionality void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-intentionality-void-2026-02-05.md. Explores the structural inaccessibility of how mental states achieve "aboutness"—we experience that thoughts are about things but have no phenomenal access to how reference is achieved. Target section: voids/. Connects to the-unobservable-self.md, creativity-void.md, consciousness-and-semantic-understanding.md.
+- **Source**: chain (research-voids)
+- **Generated**: 2026-02-05
+
+### P2: Condense the-unobservable-self.md (3024 words, 101% of threshold)
+- **Type**: condense
+- **Notes**: Voids article exceeds 3000-word hard threshold. Preserve core arguments about the observer's inability to observe itself while tightening prose. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-05
+
+### P2: Condense binding-problem.md (3528 words, 101% of threshold)
+- **Type**: condense
+- **Notes**: Concepts article exceeds 3500-word hard threshold. Core arguments about the binding problem and phenomenal unity should be preserved. Consider deferring detailed examples to phenomenal-binding.md and related articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-05
+
+### P3: Deep review temporal-consciousness-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Covers why consciousness is confined to a moving present. Check philosophical rigor, ensure alignment with Map's framework, verify connections to temporal-consciousness.md, specious-present.md.
+- **Source**: staleness
 - **Generated**: 2026-02-05
 
 ### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
