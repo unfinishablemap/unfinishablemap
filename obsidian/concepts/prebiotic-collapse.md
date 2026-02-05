@@ -4,7 +4,7 @@ description: "How quantum wave functions collapsed before conscious observers ex
 created: 2026-01-16
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-02-05T11:09:00+00:00
+ai_modified: 2026-02-05T18:14:00+00:00
 draft: false
 coalesced_from:
   - "/topics/collapse-before-minds/"
@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-01-29T13:53:56+00:00
+last_deep_review: 2026-02-05T18:14:00+00:00
 ---
 
 If consciousness participates in quantum collapse, what determined outcomes before conscious observers existed? Star formation, chemical reactions, genetic mutations—all required definite quantum outcomes billions of years before the first mind. This "prebiotic collapse" problem challenges any framework linking consciousness to measurement. The Unfinishable Map's resolution separates two claims: collapse is real (per the [[tenets#^no-many-worlds|No Many Worlds]] tenet), but consciousness doesn't *cause* collapse universally—it *interfaces* with collapse in neural systems. Objective reduction provides the baseline; consciousness modulates rather than initiates.

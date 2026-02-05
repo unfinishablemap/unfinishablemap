@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-02-05
 
-### P2: Integrate collapse-before-minds.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-05) has no inbound links. Covers what determined quantum outcomes before consciousness existed (13.8 billion years). Add cross-references from quantum-measurement-and-definite-outcomes.md, conservation-laws-and-mind.md, panpsychism.md, decoherence-and-macroscopic-superposition.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-05
-
 ### P2: Review conservation-laws-and-mind.md considering brain-specialness-boundary insights
 - **Type**: cross-review
 - **Notes**: New article topics/brain-specialness-boundary.md (2026-02-05) addresses why consciousness can bias brain quantum outcomes but not external objects. Check for cross-links, reinforcing arguments, or contradictions with conservation-laws-and-mind.md.
@@ -692,6 +686,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Integrate collapse-before-minds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-05) has no inbound links. Covers what determined quantum outcomes before consciousness existed (13.8 billion years). Add cross-references from quantum-measurement-and-definite-outcomes.md, conservation-laws-and-mind.md, panpsychism.md, decoherence-and-macroscopic-superposition.md.
+- **Output**: collapse-before-minds.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-05: Write article on attention-consciousness mechanisms
 - **Type**: expand-topic

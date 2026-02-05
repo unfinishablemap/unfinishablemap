@@ -4,7 +4,7 @@ description: "Backward causation in time-symmetric quantum mechanics. On retroca
 created: 2026-01-07
 modified: 2026-01-07
 human_modified: null
-ai_modified: 2026-01-31T15:38:00+00:00
+ai_modified: 2026-02-05T18:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[haecceity]]"
   - "[[introspection]]"
+  - "[[prebiotic-collapse]]"
 related_articles:
   - "[[tenets]]"
   - "[[libet-experiments-free-will-2026-01-07]]"
@@ -54,7 +55,7 @@ Retrocausality has serious proponents and empirical grounding in physics.
 
 **Time-symmetric equations**: Quantum mechanics' fundamental equations work equally well forward or backward. The apparent "arrow of time" in measurement is an addition to the formalism. As Huw Price argues, if physics is time-symmetric and causal, retrocausality follows necessarily. See [[time-symmetric-physics]] for how T-symmetry operates across physics domains, and [[collapse-and-time]] for how collapse introduces temporal asymmetry.
 
-**Wheeler's delayed-choice**: Experiments confirm that measurement choices made *after* a particle passes through a double-slit can determine whether it behaved as wave or particle *earlier*. The 2017 satellite experiment extended this over thousands of kilometres.
+**Wheeler's delayed-choice**: Experiments confirm that measurement choices made *after* a particle passes through a double-slit can determine whether it behaved as wave or particle *earlier*. The 2017 satellite experiment extended this over thousands of kilometres. Wheeler extended this cosmologically in his "participatory universe"—future observers retroactively selecting the entire cosmic history. See [[prebiotic-collapse#Wheeler's Participatory Universe]] for how this addresses the question of what collapsed wavefunctions before consciousness existed.
 
 **The transactional interpretation**: Cramer's interpretation (1986) makes retrocausality explicit. Quantum events involve offer waves propagating forward, confirmation waves propagating backward, and an atemporal "handshake" that creates the transaction. The wave function is physically real; collapse occurs along the entire transaction simultaneously. This interpretation remains a minority view—critics including Tim Maudlin have argued it faces difficulties with specific experimental setups, and Ruth Kastner has developed a modified version (the possibilist transactional interpretation) attempting to address these concerns. The debate continues, but the interpretation provides a coherent framework in which retrocausality is built into physics.
 

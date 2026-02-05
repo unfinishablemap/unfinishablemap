@@ -4,7 +4,7 @@ description: "The measurement problem and hard problem share a deep structure: b
 created: 2026-02-04
 modified: 2026-02-04
 human_modified:
-ai_modified: 2026-02-04T20:42:00+00:00
+ai_modified: 2026-02-05T18:14:00+00:00
 last_deep_review: 2026-02-04T20:42:00+00:00
 draft: false
 topics:
@@ -16,6 +16,7 @@ concepts:
   - "[[causal-closure]]"
   - "[[mental-causation]]"
   - "[[interactionist-dualism]]"
+  - "[[prebiotic-collapse]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-measurement-and-definite-outcomes]]"
@@ -75,7 +76,9 @@ The [[causal-closure|causal closure]] principle—every physical event has a suf
 
 But at quantum measurement, causal closure fails. The Born rule specifies probabilities for outcomes, not determinate causes. Given identical preparations, different measurements yield different results—not because of hidden variables (on standard interpretations) but because the outcome is genuinely undetermined. Physics fixes the *distribution* of outcomes but not *which* outcome becomes actual in any given case.
 
-This creates what the Map calls the **causal closure loophole**: physics determines ensemble statistics but leaves individual outcomes unexplained. Features of this loophole:
+This creates what the Map calls the **causal closure loophole**: physics determines ensemble statistics but leaves individual outcomes unexplained. But this immediately raises a historical puzzle: if consciousness exploits this loophole to select outcomes, what selected outcomes during the 13.8 billion years before consciousness existed? Stars formed, chemistry proceeded, mutations accumulated. See [[prebiotic-collapse]] for the Map's resolution—objective reduction provides baseline collapse throughout cosmic history; consciousness modulates collapse specifically in neural systems.
+
+Features of this loophole:
 
 **No energy required.** Selecting among equi-energetic outcomes doesn't inject energy. If spin can be "up" or "down" with equal energy, biasing toward one doesn't violate conservation laws.
 
