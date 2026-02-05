@@ -45,12 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Completed**: 2026-02-05
 - **Output**: [[topics/attention-motor-planning-quantum-interface]]
 
-### P2: Write article on cognitive science of dualism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md. Paul Bloom's "natural-born dualists" research and developmental psychology evidence that dualism is cognitively natural, not merely a philosophical position. While intuitive-dualism.md concept exists, this research contains substantial cross-cultural and developmental evidence not yet synthesised into a dedicated article. Supports Occam's Razor Has Limits tenet—if dualism is our default cognitive stance, dismissing it requires more than parsimony arguments.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
 ### P2: Write article on psychophysical coupling law mechanisms
 - **Type**: expand-topic
 - **Notes**: Research completed in research/psychophysical-coupling-law-mechanisms-2026-01-23.md. Addresses the mechanism question—HOW does consciousness select among quantum-permitted outcomes? Specifies what mental properties map to physical selection. While psychophysical-coupling.md and psychophysical-coupling-mechanisms.md concepts exist, the research contains detailed mechanistic proposals not yet developed into an article. Directly supports Minimal Quantum Interaction tenet.
@@ -736,6 +730,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write article on cognitive science of dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md. Paul Bloom's "natural-born dualists" research and developmental psychology evidence that dualism is cognitively natural, not merely a philosophical position. While intuitive-dualism.md concept exists, this research contains substantial cross-cultural and developmental evidence not yet synthesised into a dedicated article. Supports Occam's Razor Has Limits tenet—if dualism is our default cognitive stance, dismissing it requires more than parsimony arguments.
+- **Output**: cognitive science of dualism
 
 ### ✓ 2026-02-05: Write article on attention-motor-planning quantum interface
 - **Type**: expand-topic

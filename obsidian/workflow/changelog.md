@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-05 23:22 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Cognitive Science of Dualism
+- **Output**: [[topics/cognitive-science-of-dualism]]
+- **Word count**: 1564
+- **Based on research**: yes — [[cognitive-science-dualism-2026-01-15]]
+
 ## 2026-02-05 23:17 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Attention-Motor Planning Quantum Interface
