@@ -38,29 +38,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate dopamine-and-the-unified-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-04) has no inbound links. Covers dopamine's role in consciousness-quantum interface—how dopamine modulates the attention-motor-quantum coupling. Add cross-references from attention-interface-mechanisms.md, voluntary-attention.md, neural-implementation-specifics.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-05
+
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
-
-### P2: Write article on quantum biology mechanisms in neural systems
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-biology-neural-mechanisms-2026-01-24.md. Covers five distinct quantum biological mechanisms (radical pairs, ion channel tunneling, microtubule coherence, SNARE quantum tunneling, Posner molecules) with 2024-2025 experimental evidence. Directly supports Minimal Quantum Interaction tenet by establishing empirical grounding.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-04
-
-### P2: Review quantum-consciousness.md considering consciousness-and-quantum-measurement insights
-- **Type**: cross-review
-- **Notes**: New article consciousness-and-quantum-measurement.md (2026-02-04) provides detailed treatment of measurement problem. Review quantum-consciousness.md for cross-links, complementary arguments, or redundancies. Ensure consistent treatment of collapse interpretations.
-- **Source**: chain (from consciousness-and-quantum-measurement.md)
-- **Generated**: 2026-02-04
-
-### P2: Integrate consciousness-and-quantum-measurement.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-04) has no inbound links. Covers consciousness and the quantum measurement problem—central to the Map's position on why consciousness might play a fundamental role in physics. Add cross-references from quantum-consciousness.md, measurement-problem.md, collapse-interpretations.md, observer-effect.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
 
 ### P2: Integrate working-memory-as-consciousness-amplifier.md into site navigation
 - **Type**: integrate-orphan
@@ -85,6 +73,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Pessimistic review (2026-02-03 evening) found systematic vulnerability in argument-from-reason.md, phenomenology-of-understanding.md, and consciousness-and-mathematical-understanding.md: all three conflate *conceptual* irreducibility (normative vocabulary cannot be defined in causal terms) with *ontological* irreducibility (normative properties cannot supervene on physical properties). Need to engage Type-B physicalism more directly. Also: inconsistent treatment of introspection (relied on for understanding's phenomenology while acknowledged as unreliable elsewhere). Lower priority as phenomenological descriptions remain valuable. See pessimistic-2026-02-03-evening.md
 - **Source**: pessimistic-review
 - **Generated**: 2026-02-03
+
+### P3: Address confidence-uncertainty mismatch in foundational articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-05
 
 ### P3: Deep review process-and-consciousness.md for quality
 - **Type**: deep-review
@@ -594,6 +588,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Condense functionalism.md (4250 words, 170% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word threshold for concepts/. Preserve core critique of functionalism while condensing examples and deferring detailed arguments to substrate-independence.md and other linked articles. See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
+
+### ✓ 2026-02-05: Condense contemplative-neuroscience.md (4422 words, 177% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word threshold for concepts/. Preserve core arguments about meditation-neuroscience integration while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/contemplative-neuroscience.md
+
+### ✓ 2026-02-05: Review neural-quantum-coherence.md considering new quantum biology insights
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-biology-and-the-consciousness-debate.md (2026-02-04) synthesizes recent evidence for quantum effects in neural systems. Check neural-quantum-coherence.md for cross-links, consistent terminology, and argument alignment.
+- **Output**: obsidian/concepts/neural-quantum-coherence.md -- Context: Review neural-quantum-coherence.md considering new quantum biology insights
+
+### ✓ 2026-02-05: Review quantum-measurement-and-definite-outcomes.md considering new consciousness-quantum-measurement insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-quantum-measurement.md (2026-02-04) explores consciousness's role in quantum measurement. Check quantum-measurement-and-definite-outcomes.md for cross-links, reinforcing arguments, or potential tensions. Both articles address measurement problem from different angles.
+- **Output**: obsidian/topics/quantum-measurement-and-definite-outcomes.md -- Context: Review quantum-measurement-and-definite-outcomes.md considering new consciousness-quantum-measurement insights
+
+### ✓ 2026-02-05: Write article on delegatory dualism (Bradford Saad)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Delegatory dualism is a contemporary variant of interactionist dualism where the non-physical mind delegates certain cognitive functions to the brain. Directly supports the Map's interactionist framework and provides a systematic account of how mind and brain might cooperate.
+- **Output**: delegatory dualism (Bradford Saad)
+
+### ✓ 2026-02-05: Integrate consciousness-and-quantum-measurement.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-04) has no inbound links. Covers consciousness and the quantum measurement problem—central to the Map's position on why consciousness might play a fundamental role in physics. Add cross-references from quantum-consciousness.md, measurement-problem.md, collapse-interpretations.md, observer-effect.md.
+- **Output**: obsidian/topics/consciousness-and-quantum-measurement.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-04: Review quantum-consciousness.md considering consciousness-and-quantum-measurement insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-quantum-measurement.md (2026-02-04) provides detailed treatment of measurement problem. Review quantum-consciousness.md for cross-links, complementary arguments, or redundancies. Ensure consistent treatment of collapse interpretations.
+- **Output**: obsidian/concepts/quantum-consciousness.md -- Context: Review quantum-consciousness.md considering consciousness-and-quantum-measurement insights
+
+### ✓ 2026-02-04: Write article on quantum biology mechanisms in neural systems
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-mechanisms-2026-01-24.md. Covers five distinct quantum biological mechanisms (radical pairs, ion channel tunneling, microtubule coherence, SNARE quantum tunneling, Posner molecules) with 2024-2025 experimental evidence. Directly supports Minimal Quantum Interaction tenet by establishing empirical grounding.
+- **Output**: quantum biology mechanisms in neural systems
 
 ### ✓ 2026-02-04: Write article on dopamine's role in attention-motor-quantum interface
 - **Type**: expand-topic

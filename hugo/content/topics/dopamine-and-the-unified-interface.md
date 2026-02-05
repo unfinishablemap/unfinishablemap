@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-02-04 22:42:00+00:00
+ai_modified: 2026-02-05 01:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Dopamine serves both attention and motor systems because these syst
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-05 01:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -30,15 +30,15 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Why does one molecule—dopamine—mediate both the anticipation of reward and the initiation of movement? The standard answer treats this as evolutionary convenience: wanting and pursuing typically go together, so coupling them is efficient. The Unfinishable Map proposes a deeper explanation: dopamine serves both functions because attention and motor planning are the same system. The [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) is where consciousness selects among possibilities, and dopamine sets the conditions for that selection.
+Why does one molecule—dopamine—mediate both the anticipation of reward and the initiation of movement? The standard answer treats this as evolutionary convenience: wanting and pursuing typically go together, so coupling them is efficient. The Unfinishable Map proposes a deeper explanation: dopamine serves both functions because attention and motor planning are the same system, and dopamine prepares this unified system for conscious selection rather than performing the selection itself.
 
-This article examines what dopamine research reveals about the unified interface hypothesis. The evidence suggests that dopamine does not cause selection but rather prepares the system for selection to occur—marking what matters, setting thresholds, and creating the neural conditions in which conscious choice can operate.
+The [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) is where consciousness may select among possibilities, with dopamine setting the conditions for that selection. This article examines what dopamine research reveals about the unified interface hypothesis. The evidence suggests that dopamine does not cause selection but rather prepares the system for selection to occur—marking what matters, setting thresholds, and creating the neural conditions in which conscious choice could operate.
 
 ## The Salience Bridge
 
 ### From Perception to Action
 
-Dopamine mediates *salience*—the process by which stimuli or internal states gain prominence and capture cognitive and behavioral resources. A 2024 review in PMC describes dopamine-deficient mice as "virtually unconscious behaviorally" despite being awake: they cannot attend to salient sensory information, integrate it with prior experience, or choose appropriate actions.
+Dopamine mediates *salience*—the process by which stimuli or internal states gain prominence and capture cognitive and behavioral resources. Research on dopamine-deficient animals reveals a striking dissociation: they remain awake and capable of movement when externally triggered, yet cannot spontaneously attend to salient information, integrate it with prior experience, or initiate appropriate actions. The behavioral profile resembles a system that can execute but cannot select.
 
 This is the salience bridge at work. Dopamine converts neutral stimuli into entities that pull for attention and action:
 
@@ -61,13 +61,13 @@ A 2023 *Nature Communications* study found that striatal dopamine regulates deci
 This dissociation is critical for understanding the interface:
 
 - **Dopamine sets threshold height**: Lower dopamine → higher threshold → harder to initiate
-- **Something determines which option crosses**: The selection among competing representations
+- **The selection question remains**: What determines which of the competing options crosses threshold?
 
-If dopamine determined the selection itself, lowering threshold would just produce random faster responses. But amphetamine preferentially speeds responses to previously rewarded options. The threshold effect is selective, favoring marked options—but the selection mechanism operates independently of threshold.
+If dopamine determined selection directly, lowering threshold would produce random faster responses. But amphetamine preferentially speeds responses to previously rewarded options. The threshold effect is selective, favoring marked options—yet the mechanism by which one marked option wins over another is not explained by threshold alone. The Map proposes that this residual selection may be where consciousness operates.
 
-### The Three-Layer Architecture
+### A Proposed Three-Layer Architecture
 
-This suggests a layered architecture:
+The Map proposes a layered architecture to interpret these findings:
 
 | Layer | Function | Dopamine Role |
 |-------|----------|---------------|
@@ -75,7 +75,7 @@ This suggests a layered architecture:
 | Threshold modulation | Determine what level of evidence triggers action | Primary |
 | Selection | Determine which option actualizes | None (operates on dopamine-prepared options) |
 
-The Map proposes consciousness operates at the third layer—selecting among options that dopamine has made selectable. This satisfies [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction): consciousness doesn't generate options or set thresholds; it only biases which threshold-ready option wins.
+On this model, consciousness operates at the third layer—selecting among options that dopamine has made selectable. This would satisfy [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction): consciousness doesn't generate options or set thresholds; it only biases which threshold-ready option wins. Critics may argue that the "selection layer" is simply further neural computation—noise, lateral inhibition, and winner-take-all dynamics. The Map's response is that such mechanisms explain *how* selection is implemented but not *why* it is accompanied by phenomenal experience, nor why volitional selection feels different from automatic processing.
 
 ## Tonic and Phasic: Two Modes of Preparation
 
@@ -99,7 +99,7 @@ This suggests different roles in the selection interface:
 
 **Tonic dopamine**: Ensures the system is operational. Sets baseline excitability. Without it, no selection can occur—the interface is offline. Parkinson's akinesia reflects this: the selection system has insufficient baseline activation.
 
-**Phasic dopamine**: Marks specific options at specific moments. Creates the salience landscape on which selection operates. The rapid timescale (~100ms bursts) aligns with the ~280-300ms timing window for motor commitment and willed attention deployment.
+**Phasic dopamine**: Marks specific options at specific moments. Creates the salience landscape on which selection operates. The rapid timescale (~100ms bursts) operates within the broader timing window in which motor commitment and willed attention deployment occur.
 
 Consciousness may interact primarily with phasic marking—choosing among options that rapid dopamine bursts have flagged as relevant—while tonic dopamine provides the necessary substrate.
 
@@ -124,9 +124,11 @@ The same neurotransmitter mediates both because the same system generates both e
 
 A 2025 *Frontiers in Cellular Neuroscience* review proposes the "learning primacy hypothesis": dopamine's primary function is reinforcement learning that shapes circuit architecture over time, not real-time modulation of selection.
 
-This challenges simple threshold models but remains compatible with the unified interface. If dopamine shapes the circuits through which selection occurs, it still serves the interface—just through learning rather than (or in addition to) moment-to-moment modulation.
+This challenges simple threshold models but remains compatible with the unified interface—indeed, it may strengthen the framework. If dopamine's primary role is shaping the circuits through which selection occurs rather than moment-to-moment threshold modulation, the selection mechanism becomes more clearly separable from dopamine function.
 
-The selection mechanism would then operate within dopamine-shaped constraints. Consciousness selects among options, but which options exist and how they compete has been shaped by dopamine-mediated learning across a lifetime.
+Consider the implications: dopamine-mediated learning determines which options exist, how they compete, and which have been marked as valuable through experience. The selection mechanism then operates on this learned landscape. Far from threatening the interface hypothesis, learning primacy clarifies the division of labor: dopamine builds and maintains the selection apparatus; something else—the Map proposes consciousness—performs the selection.
+
+The 2024 *Nature* study supports this interpretation: movement (selection execution) requires only tonic dopamine, while learning about what to select requires phasic signals. The selection capacity and the learning capacity are dissociable.
 
 ## Theta Oscillations: The Timing Substrate
 
@@ -147,7 +149,7 @@ Frontal theta oscillations mark willed attention (Bengson 2019) and motor prepar
 2. Dopamine promotes the theta state
 3. Both attention and motor selection occur within theta windows
 
-If consciousness selects through the [quantum Zeno mechanism](/concepts/stapp-quantum-mind/), theta cycles may provide the window in which attention "observes" competing neural patterns. Dopamine doesn't perform the observation—it creates the neural conditions (the theta state) in which observation can operate.
+If consciousness selects through something like the [quantum Zeno mechanism](/concepts/stapp-quantum-mind/)—one proposed but speculative model—theta cycles may provide the timing window in which attention "observes" competing neural patterns. Dopamine doesn't perform the observation; it creates the neural conditions (the theta state) in which observation could operate. Other mechanisms for consciousness-brain interaction remain possible; what matters here is that dopamine's role is preparatory rather than selective.
 
 ## What Parkinson's Reveals
 

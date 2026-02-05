@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-02-03 23:33:00+00:00
+ai_modified: 2026-02-05 01:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -239,6 +239,7 @@ The choice of quantum interpretation bears directly on all five [tenets](/tenets
 ### Interpretations and Physics
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — How each interpretation handles Born rule probabilities and the first-person gap
 - [measurement-problem](/concepts/measurement-problem/) — The problem all interpretations address
+- [consciousness-and-quantum-measurement](/topics/consciousness-and-quantum-measurement/) — Structural parallel between measurement problem and hard problem
 - [many-worlds](/arguments/many-worlds/) — Why the Map rejects MWI
 - [qbism](/concepts/qbism/) — Agent-centered interpretation that presupposes experience without explaining it
 - [relational-quantum-mechanics](/concepts/relational-quantum-mechanics/) — Rovelli's interpretation and why the Map rejects it

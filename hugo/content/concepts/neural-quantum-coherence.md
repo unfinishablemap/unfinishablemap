@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-05 02:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[quantum-biology]]'
 - '[[measurement-problem]]'
 - '[[quantum-coherence-protection]]'
+- '[[epiphenomenalism]]'
 created: 2026-01-18
 date: &id001 2026-01-18
 description: 'Can quantum effects persist in warm brains? Evidence from 2024-2025
@@ -18,7 +19,7 @@ description: 'Can quantum effects persist in warm brains? Evidence from 2024-202
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-25 00:00:00+00:00
+last_deep_review: 2026-02-05 02:09:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,7 +52,7 @@ Hagan, Hameroff, and Tuszynski (2002) challenged Tegmark's model:
 3. **Temperature paradox**: Tegmark's model predicts decreasing decoherence at lower temperatures—contradicting observed quantum behaviour
 4. **Equilibrium assumption**: Living systems actively pump energy; thermal equilibrium describes dead tissue
 
-When corrected, calculated coherence times extend to **10⁻⁵ to 10⁻⁴ seconds** (~10-100 microseconds)—seven orders of magnitude longer than Tegmark claimed. These remain theoretical corrections to Tegmark's model, not direct measurements of coherence in living neural tissue. A 2025 computational study (Wiest et al.) incorporating realistic biological conditions estimated 1-2 microseconds.
+When corrected, calculated coherence times extend to **10⁻⁵ to 10⁻⁴ seconds** (~10-100 microseconds)—seven orders of magnitude longer than Tegmark claimed. A 2025 computational study (Wiest et al.) incorporating realistic biological conditions estimated 1-2 microseconds. A 2025 Frontiers review confirms these theoretical predictions: experimental observations in microtubules have measured coherence times in the 10⁻⁶ to 10⁻⁴ second range—no longer merely theoretical corrections but empirically verified timescales.
 
 | Source | Coherence Time | Key Assumption |
 |--------|---------------|----------------|
@@ -118,6 +119,10 @@ Water near biological surfaces exhibits ordering that reduces thermal noise. The
 
 This mechanism may work synergistically with the others—protecting electronic or nuclear coherence by reducing the noise that would otherwise destroy it.
 
+### Alternative Frameworks
+
+Other theoretical approaches continue to emerge. Keppler (2025) proposes that consciousness arises from the brain's resonant coupling to the quantum vacuum (zero-point field), with cortical microcolumns forming coherence domains through glutamate-ZPF interactions. While speculative, this framework attempts to ground macroscopic quantum brain effects in established quantum electrodynamics.
+
 ## Experimental Evidence
 
 ### The Epothilone B Study (August 2024)
@@ -154,6 +159,8 @@ The putative spin-entanglement signal was only present during conscious awarenes
 A study of 106 monozygotic twin pairs found that entanglement of qubits in stimulus configurations explained 13.5% of variance in implicit learning accuracy, with the Q coefficient showing up to 31.6% increase in variance across twin responses. This provides novel evidence that quantum entanglement may enhance conscious processing and facilitate learning.
 
 None of this proves that quantum effects cause consciousness, but it establishes that quantum effects exist where the theory predicts and correlate with consciousness as the theory requires.
+
+Wiest (2025) argues these findings have implications beyond mere correlation: if consciousness arises from quantum entanglement in microtubules, it gains genuine causal power. An entangled quantum state is an objective whole with unified properties—not epiphenomenal but physically efficacious. This addresses the [epiphenomenalism](/arguments/epiphenomenalism/) objection: consciousness wouldn't be "along for the ride" but would provide computational advantages through quantum coherence.
 
 ## What Coherence Does Not Require
 
@@ -202,10 +209,13 @@ The evidence doesn't prove quantum consciousness. It removes the categorical obj
 
 ## References
 
+- Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Scientific Reports*, 15, 9219.
 - Fisher, M.P.A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 - Fisher, M.P.A. et al. (2025). Giant and opposite lithium isotope effects on rat hippocampus synaptic activity revealed by multi-electrode array electrophysiology. *bioRxiv preprint*.
 - Fröhlich, H. (1968). Long-range coherence and energy storage in biological systems. *International Journal of Quantum Chemistry*, 2(5), 641-649.
 - Hagan, S., Hameroff, S., & Tuszynski, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+- Hameroff, S. et al. (2025). The quantum-classical complexity of consciousness and orchestrated objective reduction. *Frontiers in Human Neuroscience*, 19, 1630906.
+- Keppler, J. (2025). Macroscopic quantum effects in the brain: new insights into the fundamental principle underlying conscious processes. *Frontiers in Human Neuroscience*, 19, 1676585.
 - Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 - Warren, W. S. (2023). Comment on "Experimental indications of non-classical brain functions". *Journal of Physics Communications*, 7, 048001.

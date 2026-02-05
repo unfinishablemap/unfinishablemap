@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-03 23:33:00+00:00
+ai_modified: 2026-02-05 01:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -90,7 +90,7 @@ Under this view, consciousness doesn't cause collapse; it *emerges from* or *int
 
 The mainstream physics response denies that collapse is a real process requiring explanation. [Decoherence](/concepts/decoherence/)—the spreading of quantum coherence into environmental degrees of freedom—explains why macroscopic objects don't exhibit superposition. Collapse is apparent, not fundamental.
 
-But decoherence alone doesn't solve the [measurement problem](/concepts/measurement-problem/). As a 2025 comprehensive review notes: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Decoherence paired with Many Worlds claims no selection happens—all outcomes occur. But the Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects this, leaving the question of what selects outcomes unanswered.
+But decoherence alone doesn't solve the [measurement problem](/concepts/measurement-problem/). As a 2025 comprehensive review notes: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Decoherence paired with Many Worlds claims no selection happens—all outcomes occur. But the Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects this, leaving the question of what selects outcomes unanswered. The [structural parallel between the measurement problem and the hard problem](/topics/consciousness-and-quantum-measurement/) suggests both problems share the same underlying difficulty: where first-person facts enter third-person descriptions.
 
 ### 5. The Many-Worlds Dissolution
 

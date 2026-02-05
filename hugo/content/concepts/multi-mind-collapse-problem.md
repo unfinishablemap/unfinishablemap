@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-02-01 15:14:00+00:00
+ai_modified: 2026-02-05 01:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -167,6 +167,7 @@ This resolution preserves the Map's commitment to consciousness as causally effi
 
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness can only select within its own brain
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What collapsed outcomes before minds existed
+- [consciousness-and-quantum-measurement](/topics/consciousness-and-quantum-measurement/) — How the measurement problem and hard problem share structural features
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-physics interaction
 - [decoherence](/concepts/decoherence/) — The coherence timescale objection and quantum biology responses
 - [haecceity](/concepts/haecceity/) — Why indexical identity matters for multi-mind questions
