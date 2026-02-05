@@ -37,11 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on attention-motor-planning quantum interface
+### ~~P2: Write article on attention-motor-planning quantum interface~~ ✅
 - **Type**: expand-topic
 - **Notes**: Research completed in research/attention-motor-planning-quantum-interface-2026-01-23.md. Explores how attention and motor planning converge at the quantum interface—consciousness may influence physical outcomes through the attention-motor coupling, providing a concrete mechanism for Minimal Quantum Interaction. No corresponding article exists. Directly supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
 - **Source**: unconsumed_research
 - **Generated**: 2026-02-05
+- **Completed**: 2026-02-05
+- **Output**: [[topics/attention-motor-planning-quantum-interface]]
 
 ### P2: Write article on cognitive science of dualism
 - **Type**: expand-topic
@@ -734,6 +736,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write article on attention-motor-planning quantum interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/attention-motor-planning-quantum-interface-2026-01-23.md. Explores how attention and motor planning converge at the quantum interface—consciousness may influence physical outcomes through the attention-motor coupling, providing a concrete mechanism for Minimal Quantum Interaction. No corresponding article exists. Directly supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
+- **Output**: attention-motor-planning quantum interface
 
 ### ✓ 2026-02-05: Cross-review knowledge-argument.md considering objectivity-and-consciousness insights
 - **Type**: cross-review
