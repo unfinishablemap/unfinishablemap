@@ -26,7 +26,7 @@ related_articles:
   - "[[phenomenology-of-the-edge]]"
   - "[[limits-reveal-structure]]"
   - "[[conceptual-acquisition-limits]]"
-  - "[[creativity-and-novel-combination]]"
+  - "[[creativity-consciousness-and-novel-thought]]"
   - "[[free-will]]"
   - "[[process-and-consciousness]]"
 ai_contribution: 100
@@ -131,7 +131,7 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects to the haecceity of
 ## Further Reading
 
 - [[consciousness-and-creativity]] — The generation-selection synthesis: how consciousness generates and selects creative possibilities
-- [[creativity-and-novel-combination]] — How consciousness enables novel combinations that escape baseline cognition
+- [[creativity-consciousness-and-novel-thought]] — How consciousness enables novel combinations that escape baseline cognition
 - [[voids|Voids in the Map]] — The framework for cognitive dark spaces
 - [[three-kinds-of-void|Three Kinds of Void]] — Unexplored, unexplorable, occluded
 - [[the-unobservable-self|The Unobservable Self]] — The observer that cannot observe itself

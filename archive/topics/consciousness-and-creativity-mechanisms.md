@@ -26,6 +26,11 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-05
 last_curated: null
+archived: true
+archived_date: 2026-02-05T05:09:00+00:00
+superseded_by: "/topics/creativity-consciousness-and-novel-thought/"
+archive_reason: "Coalesced into Creativity, Consciousness, and Novel Thought"
+original_path: "/topics/consciousness-and-creativity-mechanisms/"
 ---
 
 What mechanisms enable consciousness to contribute to creative thought? The Unfinishable Map's [[consciousness-and-creativity|generation-selection synthesis]] holds that consciousness both generates possibilities through imagination and selects among them through attention. But how does this work at the level of neural and quantum processes? This article examines candidate mechanisms—quantum selection, network switching, and imaginative expansion—and asks whether creativity's mechanisms require something beyond physical computation.
