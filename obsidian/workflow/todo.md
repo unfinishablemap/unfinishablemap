@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-05T03:39:00+00:00
+ai_modified: 2026-02-05T05:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -47,6 +47,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: condense
 - **Notes**: Article exceeds 2500-word soft threshold for concepts/. Currently 3788 words. Preserve core arguments against physicalist accounts of consciousness while removing redundancy. Focus on the most compelling arguments and defer detailed rebuttals to linked articles.
 - **Source**: length_analysis
+- **Generated**: 2026-02-05
+
+### P2: Integrate evolutionary-case-for-mental-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-05) has no inbound links. Covers evolutionary evidence for mental causation—how the correlation between phenomenology and behavior suggests consciousness has causal efficacy. Central to Bidirectional Interaction tenet. Add cross-references from consciousness-and-intelligence.md, evolution-of-consciousness.md, epiphenomenalism.md, baseline-cognition.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-05
+
+### P2: Integrate why-phenomenal-unity-resists-explanation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers why the binding problem resists physicalist explanation—phenomenal unity is a stubborn fact that supports dualism. Add cross-references from binding-problem.md, unity-of-consciousness.md, hard-problem-of-consciousness.md, arguments-for-dualism.md.
+- **Source**: orphan_integration
 - **Generated**: 2026-02-05
 
 ### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
