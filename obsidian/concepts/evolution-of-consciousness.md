@@ -4,7 +4,7 @@ description: "When did consciousness arise? Dualism avoids the strong emergence 
 created: 2026-01-19
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-05T06:42:00+00:00
+ai_modified: 2026-02-05T12:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-01-27T19:30:00+00:00
+last_deep_review: 2026-02-05T12:39:00+00:00
 ---
 
 When did consciousness first arise? Was there a moment in evolutionary history when experience flickered into existence where none had been before? These questions connect the [[hard-problem-of-consciousness|hard problem]] to evolutionary biology—and reveal that any answer carries deep metaphysical commitments. If consciousness gradually emerged from unconscious matter, we need an account of how this emergence works. If consciousness was present from the start, we face the [[combination-problem|combination problem]]. Either way, the evolution of consciousness forces choices about the nature of mind.
@@ -125,9 +125,9 @@ On this view, the evolution of consciousness is the evolution of *interfaces* be
 
 ### The Prebiotic Connection
 
-The [[prebiotic-collapse|prebiotic collapse problem]] constrains accounts of consciousness evolution. If consciousness participates in quantum measurement, what collapsed wavefunctions before any minds existed?
+The [[prebiotic-collapse|prebiotic collapse problem]] poses a distinct question from this article's focus. Prebiotic collapse concerns the *cosmological* timeline: what collapsed wavefunctions during the 13.8 billion years before any minds existed? The *phylogenetic* question—when consciousness emerged in the history of life—operates within an already-collapsing physics. The Map's framework separates these cleanly.
 
-The Map's answer: **objective reduction** (Penrose-style gravitational collapse or GRW spontaneous localization) provides baseline collapse throughout the universe, whether or not minds exist. Consciousness *modulates* collapse in systems with appropriate neural architecture but doesn't cause it universally. Stars, chemistry, and mutations all had definite outcomes via objective reduction—physical collapse mechanisms created the conditions for life. Once brains evolved sufficient complexity, consciousness could interface with neural quantum processes, creating the bidirectional interaction the Map affirms.
+The Map's answer to prebiotic collapse: **objective reduction** (Penrose-style gravitational collapse or GRW spontaneous localization) provides baseline collapse throughout the universe, whether or not minds exist. Consciousness *modulates* collapse in systems with appropriate neural architecture but doesn't cause it universally. Stars, chemistry, and mutations all had definite outcomes via objective reduction—physical collapse mechanisms created the conditions for life. Once brains evolved sufficient complexity, consciousness could interface with neural quantum processes, creating the bidirectional interaction the Map affirms.
 
 This dissolves the strong emergence problem. We don't need to explain how experience arises from non-experience—experience may be fundamental. We only need to explain how biological evolution produced systems where consciousness could express itself through matter. The evolutionary question shifts from "when did consciousness first appear?" to "when did neural architectures first support consciousness-collapse interfacing?"
 
@@ -191,7 +191,7 @@ The simplest evolutionary story treats consciousness as neural computation—no 
 
 If consciousness interfaces with matter through quantum processes, the [[decoherence|decoherence objection]] matters. Tegmark's 2000 calculation estimated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules.
 
-Three responses preserve the quantum-evolutionary connection: (1) **Revised timescales**—Tegmark assumed dead tissue; Hagan et al. (2002) corrected for microtubule interior conditions, yielding coherence times seven orders of magnitude longer; (2) **The Zeno sidestep**—Stapp's mechanism doesn't require sustained coherence between observations; rapid mental "observations" maintain states through repeated measurement; (3) **Biological precedents**—avian magnetoreception maintains spin coherence for microseconds; photosynthesis exploits quantum coherence. If evolution can optimise quantum effects for navigation and energy capture, it might optimise them for consciousness.
+Three responses preserve the quantum-evolutionary connection: (1) **Revised timescales**—Tegmark assumed dead tissue; Hagan et al. (2002) argued that correcting for microtubule interior conditions could yield coherence times several orders of magnitude longer, though this remains debated; (2) **The Zeno sidestep**—Stapp's mechanism doesn't require sustained coherence between observations; rapid mental "observations" maintain states through repeated measurement; (3) **Biological precedents**—avian magnetoreception maintains spin coherence for microseconds; photosynthesis exploits quantum coherence. If evolution can optimise quantum effects for navigation and energy capture, it might optimise them for consciousness.
 
 The evolutionary implication: what evolved was not merely neural complexity but neural architecture that maintains or exploits quantum effects. The 2024 epothilone B study (rats with stabilised microtubules taking longer to lose consciousness under anaesthesia) provides experimental support.
 

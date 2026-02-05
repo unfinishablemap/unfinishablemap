@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review evolution-of-consciousness.md considering collapse-before-minds insights
-- **Type**: cross-review
-- **Notes**: New article topics/collapse-before-minds.md addresses pre-biological collapse. Check evolution-of-consciousness.md for cross-links and consistency with the Map's position on when consciousness emerged relative to physical collapse mechanisms.
-- **Source**: chain (from collapse-before-minds.md)
-- **Generated**: 2026-02-05
-
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
@@ -641,6 +635,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Review evolution-of-consciousness.md considering collapse-before-minds insights
+- **Type**: cross-review
+- **Notes**: New article topics/collapse-before-minds.md addresses pre-biological collapse. Check evolution-of-consciousness.md for cross-links and consistency with the Map's position on when consciousness emerged relative to physical collapse mechanisms.
+- **Output**: obsidian/concepts/evolution-of-consciousness.md -- Context: Review evolution-of-consciousness.md considering collapse-before-minds insights
 
 ### ✓ 2026-02-05: Review quantum-consciousness.md considering panpsychism insights
 - **Type**: cross-review
