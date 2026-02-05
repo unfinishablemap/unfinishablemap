@@ -189,6 +189,7 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 - [[combination-problem]] — The central challenge facing panpsychism
 - [[russellian-monism]] — The most developed theoretical framework for panpsychism
 - [[process-philosophy]] — Whitehead's framework where experience is fundamental to actuality
+- [[idealism]] — Broader treatment of idealist positions and comparison with the Map's dualism
 - [[analytic-idealism]] — An alternative anti-physicalist view that claims to avoid the combination problem
 - [[buddhism-and-dualism]] — Buddhist no-self perspectives on subjects and experience
 - [[mysterianism]] — Whether the combination problem exceeds cognitive limits

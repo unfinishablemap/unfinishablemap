@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate idealism.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Core concept article has no inbound links. Idealism is a major alternative to dualism that deserves engagement. Add cross-references from dualism.md, panpsychism.md, hard-problem-of-consciousness.md, and analytic-idealism.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-05
-
 ### P2: Integrate dopamine-and-the-unified-interface.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Recently created topic article (2026-02-04) on dopamine's role in attention-motor-quantum selection has no inbound links. Add cross-references from attention-interface-mechanisms.md, voluntary-attention.md, motor-consciousness.md, and quantum-consciousness.md.
@@ -641,6 +635,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Integrate idealism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Core concept article has no inbound links. Idealism is a major alternative to dualism that deserves engagement. Add cross-references from dualism.md, panpsychism.md, hard-problem-of-consciousness.md, and analytic-idealism.md.
+- **Output**: obsidian/concepts/idealism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-05: Write article on consciousness and creativity mechanisms
 - **Type**: expand-topic

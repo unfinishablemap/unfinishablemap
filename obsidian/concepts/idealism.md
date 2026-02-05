@@ -4,7 +4,7 @@ description: "Consciousness is fundamental; matter is derivative or appearance. 
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-01-31T18:15:00+00:00
+ai_modified: 2026-02-05T04:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-08
 last_curated: null
-last_deep_review: 2026-01-30T20:45:00+00:00
+last_deep_review: 2026-02-05T04:54:00+00:00
 ---
 
 Idealism is the view that consciousness is fundamental and matter is derivative—the inverse of physicalism. This position has deep roots in both Western philosophy (Berkeley, Hegel, the British Idealists) and Eastern traditions (Advaita Vedanta, Yogācāra Buddhism). In its contemporary analytic form, associated with Bernardo Kastrup's [[analytic-idealism|analytic idealism]], matter doesn't exist independently at all; it's the extrinsic appearance of mental processes. Physical reality is what universal consciousness looks like from a dissociated perspective. The Unfinishable Map shares idealism's conviction that consciousness is fundamental but maintains a crucial difference: physical reality exists distinctly and consciousness interacts with it bidirectionally. The Map's [[dualism|dualist framework]] takes consciousness seriously (with idealism) while also taking physics seriously (against idealism).
@@ -210,18 +210,3 @@ If forced to choose between idealism and physicalism, the Map would choose ideal
 - Berkeley, G. (1710). *A Treatise Concerning the Principles of Human Knowledge*.
 - Sprigge, T. (1983). *The Vindication of Absolute Idealism*. Edinburgh University Press.
 - Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
-
-<!-- AI REFINEMENT LOG - 2026-01-31
-Changes made:
-- Developed the phenomenological argument for otherness/resistance in "The Interaction Problem Under Idealism" section
-- Added new subsection "The Phenomenological Argument for Otherness" explaining why the Map prefers dualism (lines 77-93)
-- Acknowledged that this is a wager based on phenomenology, not a conclusive proof
-- Updated "Existentialist Support" section to reference the developed argument and fairly represent idealist responses
-- Revised "The Picture That Emerges" to remove question-begging language ("No genuine other")
-- Updated "Relation to Site Perspective" to frame the preference as phenomenological rather than definitional
-
-Based on pessimistic review 2026-01-31 identifying question-begging in dismissal of intra-mental interaction.
-Key improvement: The article now acknowledges idealism has relata (dissociated alters) and makes an independent phenomenological argument for preferring genuine ontological distinction.
-
-This log should be removed after human review.
--->

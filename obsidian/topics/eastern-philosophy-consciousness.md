@@ -62,7 +62,7 @@ This provides empirical grounding for the Buddhist claim that rigorous observati
 
 ### Mind-Only: The Yogācāra School
 
-The Yogācāra ("Mind-Only") school argues that only consciousness is ultimately real. What appears as external world is mental construction; the "storehouse consciousness" (*ālaya-vijñāna*) contains the seeds of all experience. This resembles Western idealism—taking consciousness as fundamental (aligning with the Dualism tenet) but denying physical processes exist distinct from consciousness.
+The Yogācāra ("Mind-Only") school argues that only consciousness is ultimately real. What appears as external world is mental construction; the "storehouse consciousness" (*ālaya-vijñāna*) contains the seeds of all experience. This resembles Western [[idealism]]—taking consciousness as fundamental (aligning with the Dualism tenet) but denying physical processes exist distinct from consciousness.
 
 ### Emptiness: The Madhyamaka View
 
