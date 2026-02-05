@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-05 07:09 UTC - expand-topic
+- **Status**: Skipped (already complete)
+- **Topic**: retrocausal neural effects and presentiment
+- **Reason**: Article already exists at [[topics/presentiment-and-retrocausality]] (created 2026-01-27, deep-reviewed 2026-02-03). Queue replenishment incorrectly flagged research as unconsumed.
+- **Action**: Removed duplicate todo item from queue
+
+---
+
 ## 2026-02-05 07:01 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/why-phenomenal-unity-resists-explanation]]

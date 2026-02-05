@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on retrocausal neural effects and presentiment
-- **Type**: expand-topic
-- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Controversial but rigorous topic—presentiment studies show anomalous anticipatory physiological responses. Connects to time-collapse-and-agency.md and supports No Many Worlds tenet by suggesting temporal directionality has experiential significance.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
-### P2: Write article on phenomenal binding and multimodal integration
-- **Type**: expand-topic
-- **Notes**: Research completed in research/phenomenal-binding-multimodal-integration-2026-01-23.md. How conscious experience unifies information across sensory modalities. Directly relevant to binding-problem.md and unity-of-consciousness.md. Supports Dualism tenet by showing binding resists physical explanation.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
 ### P2: Write article on quantum measurement and subjective probability
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. Explores the relationship between quantum probability and first-person perspective. Supports Minimal Quantum Interaction and No Many Worlds tenets.
@@ -647,6 +635,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write article on retrocausal neural effects and presentiment
+- **Type**: expand-topic
+- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Controversial but rigorous topic—presentiment studies show anomalous anticipatory physiological responses. Connects to time-collapse-and-agency.md and supports No Many Worlds tenet by suggesting temporal directionality has experiential significance.
+- **Output**: retrocausal neural effects and presentiment
 
 ### ✓ 2026-02-05: Integrate why-phenomenal-unity-resists-explanation.md into site navigation
 - **Type**: integrate-orphan
