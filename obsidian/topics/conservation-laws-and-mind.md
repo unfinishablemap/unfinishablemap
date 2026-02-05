@@ -4,7 +4,7 @@ description: "Does mental causation violate energy conservation? No—conservati
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-02-02T11:07:00+00:00
+ai_modified: 2026-02-05T18:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,12 +25,14 @@ related_articles:
   - "[[measurement-problem]]"
   - "[[prebiotic-collapse]]"
   - "[[quantum-decoherence-objection]]"
+  - "[[brain-specialness-boundary]]"
+  - "[[mental-causation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated:
-last_deep_review: 2026-01-29T10:30:00+00:00
+last_deep_review: 2026-02-05T18:40:00+00:00
 ---
 
 The energy conservation objection to [[interactionist-dualism]] claims that if non-physical consciousness could move matter, energy would be created or destroyed—violating one of physics' most fundamental principles. This objection, pressed since Leibniz in the 1690s (see [[history-of-interactionist-dualism]] for the full historical development), has been revitalized by contemporary physicists like Sean Carroll who argue the Standard Model leaves no room for "soul particles." Yet recent work by philosophers of physics demonstrates that this objection rests on misunderstandings of how conservation laws actually work. Conservation is *local* and *conditional*—it holds given certain assumptions, and fails where those assumptions fail. More importantly, consciousness may influence brain states without injecting energy at all: by selecting among quantum-permitted outcomes rather than adding anything new to the physical domain.
@@ -90,6 +92,8 @@ The "selection not injection" framework proposes: consciousness selects among qu
 Henry Stapp's [[stapp-quantum-mind|quantum Zeno mechanism]] makes this concrete. Crucially, Stapp's approach uses orthodox quantum mechanics (von Neumann-Lüders projection)—no speculative new physics is required. In quantum mechanics, repeated observation of a system can prolong its state—the Zeno effect. Stapp proposes that mental attention acts like rapid observation, holding desired neural patterns against decoherence. The mind doesn't push neurons around; it selects which neural configurations persist.
 
 The key insight: selecting among energetically equivalent outcomes requires no energy transfer. If outcomes A, B, and C each have probability 1/3 and identical energy, then determining that A (rather than B or C) becomes actual doesn't violate conservation. All that's changed is *which* outcome occurs, not the system's total energy.
+
+This selection operates only within neural systems integrated into the subject's control loop—consciousness biases outcomes in its own brain, not in arbitrary physical systems. The mechanism requires neural representation of alternatives, attentional observation, and developmental integration. See [[brain-specialness-boundary]] for why this locality follows from the mechanism itself rather than being an ad hoc restriction.
 
 ### Causation Without Energy Transfer
 
@@ -162,7 +166,7 @@ This article shows the objection fails:
 - The objection begs the question by assuming no external influences exist
 - Quantum mechanics provides a framework where consciousness could select outcomes without injecting energy
 
-The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet—"the smallest possible non-physical influence on quantum outcomes"—aligns precisely with the selection-not-injection framework. Consciousness doesn't add force or energy; it biases which of the quantum-permitted outcomes becomes actual.
+The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet—"the smallest possible non-physical influence on quantum outcomes"—aligns precisely with the selection-not-injection framework. Consciousness doesn't add force or energy; it biases which of the quantum-permitted outcomes becomes actual. "Minimal" applies in two dimensions: minimal energy (none injected) and minimal scope (own brain only, as the [[brain-specialness-boundary]] explains). The interaction is doubly constrained.
 
 This doesn't prove consciousness acts at quantum indeterminacies. It shows that if consciousness does so act, physics provides no barrier. The positive case for interaction comes from philosophical arguments: the [[explanatory-gap]], the [[knowledge-argument]], the self-stultification of epiphenomenalism, and the [[baseline-cognition|empirical evidence]] that consciousness enables cognitive functions the unconscious baseline cannot achieve.
 
@@ -176,6 +180,9 @@ The selection framework also has implications for [[free-will]]. If consciousnes
 - [[quantum-consciousness]] — Overview of quantum approaches
 - [[measurement-problem]] — Why collapse remains unexplained
 - [[objections-to-interactionism]] — Other challenges to the interactionist position
+- [[brain-specialness-boundary]] — Why the selection mechanism operates only in brains
+- [[brain-interface-boundary]] — The positive criteria brains meet for consciousness interfaces
+- [[mental-causation]] — The broader philosophical framework for mental causation
 
 ## References
 

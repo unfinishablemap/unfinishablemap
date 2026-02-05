@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-02-05
 
-### P2: Review conservation-laws-and-mind.md considering brain-specialness-boundary insights
-- **Type**: cross-review
-- **Notes**: New article topics/brain-specialness-boundary.md (2026-02-05) addresses why consciousness can bias brain quantum outcomes but not external objects. Check for cross-links, reinforcing arguments, or contradictions with conservation-laws-and-mind.md.
-- **Source**: chain (from brain-specialness-boundary.md)
-- **Generated**: 2026-02-05
-
 ### P2: Review contemplative-evidence-for-consciousness-theories.md considering observer-witness insights
 - **Type**: cross-review
 - **Notes**: New article topics/the-observer-witness-in-meditation.md (2026-02-05) explores the witness state in meditation. Check for cross-links to contemplative-evidence-for-consciousness-theories.md, reinforce arguments about what meditation reveals.
@@ -686,6 +680,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Review conservation-laws-and-mind.md considering brain-specialness-boundary insights
+- **Type**: cross-review
+- **Notes**: New article topics/brain-specialness-boundary.md (2026-02-05) addresses why consciousness can bias brain quantum outcomes but not external objects. Check for cross-links, reinforcing arguments, or contradictions with conservation-laws-and-mind.md.
+- **Output**: obsidian/topics/conservation-laws-and-mind.md -- Context: Review conservation-laws-and-mind.md considering brain-specialness-boundary insights
 
 ### ✓ 2026-02-05: Integrate collapse-before-minds.md into site navigation
 - **Type**: integrate-orphan
