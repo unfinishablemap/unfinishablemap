@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum-consciousness.md considering subjective probability insights
-- **Type**: cross-review
-- **Notes**: New article topics/quantum-measurement-and-subjective-probability.md (2026-02-05) explores the relationship between quantum probability and first-person perspective. Check quantum-consciousness.md for cross-links, reinforcing arguments about why consciousness might be necessary for definite outcomes.
-- **Source**: chain (from quantum-measurement-and-subjective-probability.md)
-- **Generated**: 2026-02-05
-
 ### P2: Integrate phenomenal-binding.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Concept article has no inbound links. Covers phenomenal binding—how disparate neural processes produce unified conscious experience. Central to the binding problem and unity of consciousness arguments. Add cross-references from binding-problem.md, unity-of-consciousness.md, multimodal-binding.md.
@@ -653,6 +647,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Cross-review quantum-consciousness.md considering subjective probability insights
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-measurement-and-subjective-probability.md (2026-02-05) explores the relationship between quantum probability and first-person perspective. Check quantum-consciousness.md for cross-links, reinforcing arguments about why consciousness might be necessary for definite outcomes.
+- **Output**: obsidian/concepts/quantum-consciousness.md -- Context: Cross-review quantum-consciousness.md considering subjective probability insights
 
 ### ✓ 2026-02-05: Cross-review hard-problem-of-consciousness.md considering panpsychism insights
 - **Type**: cross-review
