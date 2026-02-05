@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-05 11:24 UTC - deep-review
+- **Status**: Skipped (archived content)
+- **File**: psychophysical-coupling-mechanisms.md
+- **Reason**: File was archived on 2026-01-29 and coalesced into [[concepts/psychophysical-coupling]]. The orphan integration task is not applicable—archived files deliberately have no inbound links since they redirect to the superseding article.
+- **Superseded by**: [[concepts/psychophysical-coupling]]
+
+---
+
 ## 2026-02-05 11:09 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[topics/collapse-before-minds]]

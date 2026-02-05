@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate psychophysical-coupling-mechanisms.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concept article has no inbound links. Covers mechanisms for mind-brain coupling—central to the Map's interactionist framework. Add cross-references from psychophysical-coupling.md, interactionist-dualism.md, chalmers-psychophysical-coupling.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-05
-
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
@@ -641,6 +635,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Integrate psychophysical-coupling-mechanisms.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept article has no inbound links. Covers mechanisms for mind-brain coupling—central to the Map's interactionist framework. Add cross-references from psychophysical-coupling.md, interactionist-dualism.md, chalmers-psychophysical-coupling.md.
+- **Output**: psychophysical-coupling-mechanisms.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-05: Integrate phenomenal-binding.md into site navigation
 - **Type**: integrate-orphan
