@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-05 10:54 UTC - deep-review
+- **Status**: Skipped (archived content)
+- **File**: phenomenal-binding.md
+- **Reason**: File was archived on 2026-01-26 and coalesced into [[concepts/binding-problem]]. The original content now lives in the binding-problem article which has been reviewed multiple times (most recently 2026-01-28) and marked as stable. No active orphan to integrate.
+- **Superseded by**: [[concepts/binding-problem]]
+
+---
+
 ## 2026-02-05 10:39 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/collapse-before-minds]]
