@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on meditation observer-witness phenomenon
-- **Type**: expand-topic
-- **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. Covers the sakshi (witness) phenomenon in meditation—distinct neural signatures for effortful vs effortless attention. Maps to the Map's framework: passive witnessing as consciousness disengaging from selection, active attention as quantum Zeno mechanism. Connects contemplative traditions to neuroscience evidence.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
-### P2: Write article on conservation laws and mind-brain causation
-- **Type**: expand-topic
-- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. Addresses the conservation law objection to interactionism: does mental causation violate energy conservation? Key responses include quantum indeterminacy (no energy transfer needed), counterfactual causation, and information-theoretic approaches. Directly supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
 ### P2: Write voids article on intentionality void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-intentionality-void-2026-02-05.md. Explores the structural inaccessibility of how mental states achieve "aboutness"—we experience that thoughts are about things but have no phenomenal access to how reference is achieved. Target section: voids/. Connects to the-unobservable-self.md, creativity-void.md, consciousness-and-semantic-understanding.md.
@@ -665,6 +653,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write article on meditation observer-witness phenomenon
+- **Type**: expand-topic
+- **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. Covers the sakshi (witness) phenomenon in meditation—distinct neural signatures for effortful vs effortless attention. Maps to the Map's framework: passive witnessing as consciousness disengaging from selection, active attention as quantum Zeno mechanism. Connects contemplative traditions to neuroscience evidence.
+- **Output**: meditation observer-witness phenomenon
 
 ### ✓ 2026-02-05: Write article on brain specialness boundary
 - **Type**: expand-topic
