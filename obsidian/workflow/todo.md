@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on delegatory dualism (Bradford Saad)
-- **Type**: expand-topic
-- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Delegatory dualism is a contemporary variant of interactionist dualism where the non-physical mind delegates certain cognitive functions to the brain. Directly supports the Map's interactionist framework and provides a systematic account of how mind and brain might cooperate.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
 ### P2: Review quantum-measurement-and-definite-outcomes.md considering new consciousness-quantum-measurement insights
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-and-quantum-measurement.md (2026-02-04) explores consciousness's role in quantum measurement. Check quantum-measurement-and-definite-outcomes.md for cross-links, reinforcing arguments, or potential tensions. Both articles address measurement problem from different angles.
@@ -611,6 +605,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write article on delegatory dualism (Bradford Saad)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Delegatory dualism is a contemporary variant of interactionist dualism where the non-physical mind delegates certain cognitive functions to the brain. Directly supports the Map's interactionist framework and provides a systematic account of how mind and brain might cooperate.
+- **Output**: delegatory dualism (Bradford Saad)
 
 ### ✓ 2026-02-05: Integrate consciousness-and-quantum-measurement.md into site navigation
 - **Type**: integrate-orphan
