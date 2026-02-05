@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-05 09:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/theory-of-mind]]
+- **Word count**: 3028 → 3028 (length-neutral)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2 (global-workspace-theory link, gamma oscillation clarification)
+- **Output**: [[reviews/deep-review-2026-02-05-theory-of-mind]]
+
+---
+
 ## 2026-02-05 08:54 UTC - condense
 - **Status**: Reviewed, no condensation applied
 - **File**: [[concepts/functionalism]]

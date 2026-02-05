@@ -4,7 +4,7 @@ description: "Attributing beliefs, desires, and intentions to others. Higher lev
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-02-05T09:12:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[jourdain-hypothesis]]"
   - "[[metacognition]]"
   - "[[working-memory]]"
+  - "[[global-workspace-theory]]"
   - "[[teaching-as-metarepresentation]]"
   - "[[intentionality]]"
   - "[[illusionism]]"
@@ -26,10 +27,10 @@ related_articles:
   - "[[consciousness-independent-baseline-cognition-2026-01-21]]"
 ai_contribution: 100
 author: null
-ai_system: claude-sonnet-4-5-20250929
+ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-01-22T21:41:25+00:00
+last_deep_review: 2026-02-05T09:12:00+00:00
 ---
 
 Theory of mind is the capacity to attribute mental states—beliefs, desires, intentions, knowledge—to others and to understand that these states may differ from one's own. The Unfinishable Map argues that theory of mind admits of levels, and that the higher levels require phenomenal consciousness. Great apes possess impressive social cognition at lower levels (tracking what others see, predicting behaviour from goals) but appear limited at higher levels (recursive mindreading, understanding false beliefs as mental representations). This gap tracks the consciousness-dependent capacity for [[metarepresentation]]—representing mental states *as* mental states rather than merely responding to behavioural cues.
@@ -74,7 +75,7 @@ Why should metarepresentation require consciousness?
 
 **The nested binding problem**: Recursive mindreading requires holding multiple representational levels in coordinated awareness. The representations must be bound together—you must experience the whole structure at once to compare levels and compute their relationships.
 
-The functionalist response: unconscious processing can implement recursive data structures; computers manipulate nested representations without consciousness. But functional recursion differs from phenomenal unity. A computer can tokenize "she thinks I think the food is hidden" without experiencing the nested structure as a unified whole. The difference matters because theory of mind requires *comparing* levels—distinguishing your belief from their belief about your belief—which requires simultaneous access to both. The phenomenal unity that binds nested levels into a single experiential content appears necessary for this operation. [[Working-memory]] research supports this: manipulating information (not just maintaining it) requires conscious access. The nested structure of Level 3+ theory of mind demands exactly this manipulative capacity.
+The functionalist response: unconscious processing can implement recursive data structures; computers manipulate nested representations without consciousness. But functional recursion differs from phenomenal unity. A computer can tokenize "she thinks I think the food is hidden" without experiencing the nested structure as a unified whole. The difference matters because theory of mind requires *comparing* levels—distinguishing your belief from their belief about your belief—which requires simultaneous access to both. The phenomenal unity that binds nested levels into a single experiential content appears necessary for this operation. [[Working-memory]] and [[global-workspace-theory]] research support this: manipulating information (not just maintaining it) requires conscious access. Level 3+ theory of mind demands exactly this manipulative capacity.
 
 **The metarepresentational criterion**: To represent a mental state *as* a mental state (rather than as a worldly fact), you must mark it as a representation that could be false, that an agent holds, that you can evaluate. This is what distinguishes belief attribution from behavior prediction. When you predict "she will look where she last saw food," you're tracking behavioral regularities. When you attribute "she believes the food is there," you're representing a representational state as a representational state—with all the properties that entails (truth-aptness, agent-relativity, potential falsity).
 
@@ -120,7 +121,7 @@ This network overlaps substantially with the "default mode network"—regions ac
 
 Notably, these regions are among the most phylogenetically recent in primate brain evolution and show the greatest expansion in humans relative to great apes. The neural substrate for higher-level theory of mind appears to have expanded alongside the cognitive capacities it enables.
 
-The binding of nested representations across this distributed network may require neural synchronization mechanisms. Gamma-band oscillations (30-100 Hz) are associated with feature binding and conscious perception; maintaining coherent representations across mPFC, TPJ, and pSTS while keeping levels distinct may depend on phase-locked oscillations. This requirement for long-range neural coordination connects to the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework: conscious attention maintaining quantum coherence could provide the integration mechanism enabling unified access to nested content.
+The binding of nested representations across this distributed network may require neural synchronization mechanisms. Gamma-band oscillations (30-100 Hz)—a classical electromagnetic phenomenon—are associated with feature binding and conscious perception; maintaining coherent representations across mPFC, TPJ, and pSTS while keeping levels distinct may depend on phase-locked oscillations. This requirement for long-range neural coordination connects to the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework: conscious attention maintaining quantum coherence could provide the integration mechanism enabling unified access to nested content.
 
 ## The Great Ape Evidence
 
