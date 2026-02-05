@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on panpsychism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/panpsychism-consciousness-2026-01-08.md. Major alternative to substance dualism that needs systematic treatment. Address constitutive vs emergentist panpsychism, combination problem, relationship to Map's framework. The Map accepts consciousness as fundamental but rejects universal distribution.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Write article on illusionism about consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/illusionism-consciousness-2026-01-14.md. Frankish/Dennett view that phenomenal consciousness is illusory. Important critique to address directly. The Map rejects illusionism as self-refuting—the illusion itself must be experienced—but needs detailed treatment.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Cross-review ai-consciousness.md considering consciousness-and-intelligence insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intelligence.md (2026-02-05) explores consciousness's causal role in enabling human-level intelligence. Check for cross-links, update arguments about AI consciousness criteria, ensure consistent treatment of the great ape-human cognitive gap.
+- **Source**: chain (from consciousness-and-intelligence.md)
+- **Generated**: 2026-02-05
+
+### P2: Cross-review free-will.md considering creativity-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/creativity-consciousness-and-novel-thought.md (2026-02-05) examines consciousness's role in generating genuinely novel combinations. Cross-link creative novelty arguments to free will (both involve transcending deterministic computation), ensure consistent treatment of agent causation.
+- **Source**: chain (from creativity-consciousness-and-novel-thought.md)
+- **Generated**: 2026-02-05
+
+### P2: Condense functionalism.md (4250 words, 121% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the irreducibility objection while removing redundancy. Focus on why functional organization cannot explain phenomenal character.
+- **Source**: length_analysis
+- **Generated**: 2026-02-05
+
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
