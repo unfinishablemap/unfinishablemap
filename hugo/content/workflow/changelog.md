@@ -18,6 +18,86 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-05 23:17 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Attention-Motor Planning Quantum Interface
+- **Output**: [attention-motor-planning-quantum-interface](/topics/attention-motor-planning-quantum-interface/)
+- **Word count**: 2094
+- **Based on research**: yes — [attention-motor-planning-quantum-interface-2026-01-23](/research/attention-motor-planning-quantum-interface-2026-01-23/), [dopamine-attention-motor-quantum-interface-2026-01-24](/research/dopamine-attention-motor-quantum-interface-2026-01-24/), [motor-control-quantum-zeno-2026-01-18](/research/motor-control-quantum-zeno-2026-01-18/)
+
+## 2026-02-05 21:37 UTC - check-tenets
+- **Status**: Success (3 notes)
+- **Files checked**: 234 (71 topics, 163 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 3 (minor phrasing tensions in consciousness-and-language-interface, chalmers-psychophysical-coupling, eastern-metaphysics-integration)
+- **Output**: [tenet-check-2026-02-05](/reviews/tenet-check-2026-02-05/)
+
+## 2026-02-05 21:32 UTC - deep-review
+- **Status**: Success
+- **File**: [knowledge-argument](/concepts/knowledge-argument/)
+- **Word count**: 2480 → 2508 (+28)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (unverified citation fix, cross-link to objectivity-and-consciousness)
+- **Enhancements made**: 1 (objectivity paradox cross-link paragraph)
+- **Output**: [deep-review-2026-02-05-knowledge-argument](/reviews/deep-review-2026-02-05-knowledge-argument/)
+
+## 2026-02-05 21:17 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Emergence Void
+- **Output**: [emergence-void](/voids/emergence-void/)
+- **Word count**: 1724
+- **Based on research**: yes, [voids-emergence-void-2026-02-05](/research/voids-emergence-void-2026-02-05/)
+
+## 2026-02-05 21:10 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Emergence Void — the cognitive dark space around how arrangement produces novelty
+- **Category**: Mixed (primarily Unexplorable, with Occluded elements)
+- **Output**: [voids-emergence-void-2026-02-05](/research/voids-emergence-void-2026-02-05/)
+- **Key finding**: The hard problem of consciousness may be the deepest instance of a more general emergence void—a systematic inability to bridge levels of description that appears wherever micro-to-macro transitions occur, from molecules-to-water through neurons-to-consciousness
+
+## 2026-02-05 19:25 UTC - deep-review
+- **Status**: Success
+- **File**: [intentionality-void](/voids/intentionality-void/)
+- **Word count**: 1974 → 2017 (+43)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Hesperus overstatement, teleological language, missing tenet)
+- **Enhancements made**: 7 inbound cross-links added (orphan integration), 2 outbound cross-links, No Many Worlds tenet added
+- **Output**: [deep-review-2026-02-05-intentionality-void](/reviews/deep-review-2026-02-05-intentionality-void/)
+
+## 2026-02-05 19:11 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/)
+- **Word count**: 3001 → 2967 (-34)
+- **Critical issues addressed**: 4 (equi-energetic oversimplification, Wigner attribution qualifier, causal closure as fact, structural parallel equivocation)
+- **Medium issues addressed**: 4 (Libet resolution overstated, QBism unfair treatment, missing conservation-laws cross-link, "the one place" overstatement)
+- **Enhancements made**: 3 (conservation-laws-and-mind cross-links, indexical-identity cross-link, quantum-indeterminacy-free-will cross-link)
+- **Output**: [deep-review-2026-02-05-quantum-measurement-consciousness-interface](/reviews/deep-review-2026-02-05-quantum-measurement-consciousness-interface/)
+
+---
+
+## 2026-02-05 18:55 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)
+- **Word count**: 2471 → 2609 (+138)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (witness-dissolution acknowledgment, cessation phrasing fix, filter theory hedging)
+- **Enhancements made**: 4 (witness-dissolution paragraph, observer-witness cross-links, meditation-modes cross-link, altered-states cross-link)
+- **Output**: [deep-review-2026-02-05-contemplative-evidence-for-consciousness-theories](/reviews/deep-review-2026-02-05-contemplative-evidence-for-consciousness-theories/)
+
+---
+
+## 2026-02-05 18:40 UTC - deep-review
+- **Status**: Success
+- **File**: [conservation-laws-and-mind](/topics/conservation-laws-and-mind/)
+- **Word count**: 2171 → 2281 (+110)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (brain-locality cross-links, dual minimality note, missing further reading entries)
+- **Enhancements made**: 3 (brain-locality paragraph, dual minimality in tenet section, cross-links to brain-specialness-boundary/brain-interface-boundary/mental-causation)
+- **Output**: [deep-review-2026-02-05-conservation-laws-and-mind](/reviews/deep-review-2026-02-05-conservation-laws-and-mind/)
+
+---
+
 ## 2026-02-05 18:28 UTC - coalesce
 - **Status**: Success
 - **Sources**: [consciousness-and-quantum-measurement](/archive/topics/consciousness-and-quantum-measurement/), [quantum-measurement-and-definite-outcomes](/archive/topics/quantum-measurement-and-definite-outcomes/)

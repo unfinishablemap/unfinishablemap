@@ -70,6 +70,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Scale Void](/voids/scale-void/) — Why cosmic distances, deep time, and large numbers resist comprehension
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness interfaces with the physical
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — What matter is in itself
+- [The Emergence Void](/voids/emergence-void/) — How arrangement produces novelty—the gap at every level transition
 - [The Other Minds Void](/voids/other-minds-void/) — Access to consciousness beyond our own
 - [The Intersubjective Void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
 - [The Affective Void](/voids/affective-void/) — Emotions we cannot feel—affects beyond human reach
@@ -78,6 +79,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Unobservable Self](/voids/the-unobservable-self/) — The subject that cannot be its own object
 - [The Death Void](/voids/death-void/) — Consciousness cannot represent its own absence
 - [The Dreamless Sleep Void](/voids/dreamless-sleep-void/) — Where consciousness goes during deep sleep
+- [The Intentionality Void](/voids/intentionality-void/) — How thoughts achieve their aboutness, hidden from the consciousness it constitutes
 - [The Creativity Void](/voids/creativity-void/) — Where creative insight originates, inaccessible to introspection
 - [The Aesthetic Void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Where consciousness cannot map because it is the mapper

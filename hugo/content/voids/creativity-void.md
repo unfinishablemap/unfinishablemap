@@ -98,7 +98,7 @@ If paradigm blindness generalizes, cultural and personal assumptions may occlude
 
 The [limits-reveal-structure](/voids/limits-reveal-structure/) principle suggests that the creativity void tells us something important about consciousness:
 
-**Creative processing is constitutively hidden.** Like the observer who cannot observe itself observing, the creator cannot create itself creating. The act vanishes into the product. This may be structural—not a limitation to overcome but a feature of how consciousness works.
+**Creative processing is constitutively hidden.** Like the observer who cannot observe itself observing, the creator cannot create itself creating. The act vanishes into the product. The [intentionality void](/voids/intentionality-void/) exhibits the same pattern: we cannot catch reference in formation, only thoughts already latched onto their objects. This may be structural—not a limitation to overcome but a feature of how consciousness works.
 
 **The space of thinkable thoughts may be bounded.** Not by logic but by the conceptual primitives available to minds like ours. If all thought is recombination, and certain ideas require primitives we cannot form, those ideas are structurally inaccessible—not difficult but impossible.
 

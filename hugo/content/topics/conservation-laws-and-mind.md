@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-02-02 11:07:00+00:00
+ai_modified: 2026-02-05 18:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,13 +22,15 @@ description: Does mental causation violate energy conservation? No—conservatio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 10:30:00+00:00
+last_deep_review: 2026-02-05 18:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[measurement-problem]]'
 - '[[prebiotic-collapse]]'
 - '[[quantum-decoherence-objection]]'
+- '[[brain-specialness-boundary]]'
+- '[[mental-causation]]'
 title: Conservation Laws and Mind-Brain Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -92,6 +94,8 @@ The "selection not injection" framework proposes: consciousness selects among qu
 Henry Stapp's [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) makes this concrete. Crucially, Stapp's approach uses orthodox quantum mechanics (von Neumann-Lüders projection)—no speculative new physics is required. In quantum mechanics, repeated observation of a system can prolong its state—the Zeno effect. Stapp proposes that mental attention acts like rapid observation, holding desired neural patterns against decoherence. The mind doesn't push neurons around; it selects which neural configurations persist.
 
 The key insight: selecting among energetically equivalent outcomes requires no energy transfer. If outcomes A, B, and C each have probability 1/3 and identical energy, then determining that A (rather than B or C) becomes actual doesn't violate conservation. All that's changed is *which* outcome occurs, not the system's total energy.
+
+This selection operates only within neural systems integrated into the subject's control loop—consciousness biases outcomes in its own brain, not in arbitrary physical systems. The mechanism requires neural representation of alternatives, attentional observation, and developmental integration. See [brain-specialness-boundary](/topics/brain-specialness-boundary/) for why this locality follows from the mechanism itself rather than being an ad hoc restriction.
 
 ### Causation Without Energy Transfer
 
@@ -164,7 +168,7 @@ This article shows the objection fails:
 - The objection begs the question by assuming no external influences exist
 - Quantum mechanics provides a framework where consciousness could select outcomes without injecting energy
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet—"the smallest possible non-physical influence on quantum outcomes"—aligns precisely with the selection-not-injection framework. Consciousness doesn't add force or energy; it biases which of the quantum-permitted outcomes becomes actual.
+The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet—"the smallest possible non-physical influence on quantum outcomes"—aligns precisely with the selection-not-injection framework. Consciousness doesn't add force or energy; it biases which of the quantum-permitted outcomes becomes actual. "Minimal" applies in two dimensions: minimal energy (none injected) and minimal scope (own brain only, as the [brain-specialness-boundary](/topics/brain-specialness-boundary/) explains). The interaction is doubly constrained.
 
 This doesn't prove consciousness acts at quantum indeterminacies. It shows that if consciousness does so act, physics provides no barrier. The positive case for interaction comes from philosophical arguments: the [explanatory-gap](/concepts/explanatory-gap/), the [knowledge-argument](/concepts/knowledge-argument/), the self-stultification of epiphenomenalism, and the [empirical evidence](/archive/topics/baseline-cognition/) that consciousness enables cognitive functions the unconscious baseline cannot achieve.
 
@@ -178,6 +182,9 @@ The selection framework also has implications for [free-will](/topics/free-will/
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum approaches
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse remains unexplained
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Other challenges to the interactionist position
+- [brain-specialness-boundary](/topics/brain-specialness-boundary/) — Why the selection mechanism operates only in brains
+- [brain-interface-boundary](/concepts/brain-interface-boundary/) — The positive criteria brains meet for consciousness interfaces
+- [mental-causation](/concepts/mental-causation/) — The broader philosophical framework for mental causation
 
 ## References
 

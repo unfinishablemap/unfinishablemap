@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-05 15:54:00+00:00
+ai_modified: 2026-02-05 23:08:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,6 +38,74 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### ~~P2: Write article on attention-motor-planning quantum interface~~ ✅
+- **Type**: expand-topic
+- **Notes**: Research completed in research/attention-motor-planning-quantum-interface-2026-01-23.md. Explores how attention and motor planning converge at the quantum interface—consciousness may influence physical outcomes through the attention-motor coupling, providing a concrete mechanism for Minimal Quantum Interaction. No corresponding article exists. Directly supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+- **Completed**: 2026-02-05
+- **Output**: [attention-motor-planning-quantum-interface](/topics/attention-motor-planning-quantum-interface/)
+
+### P2: Write article on cognitive science of dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md. Paul Bloom's "natural-born dualists" research and developmental psychology evidence that dualism is cognitively natural, not merely a philosophical position. While intuitive-dualism.md concept exists, this research contains substantial cross-cultural and developmental evidence not yet synthesised into a dedicated article. Supports Occam's Razor Has Limits tenet—if dualism is our default cognitive stance, dismissing it requires more than parsimony arguments.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Write article on psychophysical coupling law mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/psychophysical-coupling-law-mechanisms-2026-01-23.md. Addresses the mechanism question—HOW does consciousness select among quantum-permitted outcomes? Specifies what mental properties map to physical selection. While psychophysical-coupling.md and psychophysical-coupling-mechanisms.md concepts exist, the research contains detailed mechanistic proposals not yet developed into an article. Directly supports Minimal Quantum Interaction tenet.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Cross-review phenomenal-unity.md considering emergence-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/emergence-void.md (2026-02-05) argues the hard problem is the deepest instance of a general emergence void. The phenomenal-unity.md concept shares 5 overlapping concepts (hard-problem, binding-problem, combination-problem, downward-causation, emergence). Check for: (1) cross-links to emergence void, (2) whether the emergence void framework strengthens the unity argument, (3) consistency in treatment of the combination problem.
+- **Source**: chain (from emergence-void.md)
+- **Generated**: 2026-02-05
+
+### P2: Cross-review psychophysical-coupling.md considering attention-consciousness-dissociation insights
+- **Type**: cross-review
+- **Notes**: New article topics/attention-consciousness-dissociation.md (2026-02-05) demonstrates that attention and consciousness can come apart, with 8 overlapping concepts with psychophysical-coupling.md (free-will, hard-problem, attention, functionalism, illusionism, IIT, mental-effort, phenomenal-consciousness). Check for: (1) cross-links to dissociation findings, (2) implications for coupling models if attention ≠ consciousness, (3) whether the coupling framework needs refinement given dissociation evidence.
+- **Source**: chain (from attention-consciousness-dissociation.md)
+- **Generated**: 2026-02-05
+
+### P2: Cross-review hard-problem-of-consciousness.md considering emergence-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/emergence-void.md (2026-02-05) reframes the hard problem as the deepest instance of a general emergence void—a systematic inability to bridge levels of description. The hard-problem-of-consciousness.md topic shares 4 overlapping concepts (binding-problem, combination-problem, emergence, reductionism). Check for: (1) cross-links to emergence void, (2) whether the "deepest instance" framing enriches the hard problem treatment, (3) consistency in treatment of explanatory gaps.
+- **Source**: chain (from emergence-void.md)
+- **Generated**: 2026-02-05
+
+### P3: Deep review intersubjective-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the void between subjective experiences—why we cannot fully access another's consciousness. Check philosophical rigor, ensure alignment with Map's framework.
+- **Source**: staleness
+- **Generated**: 2026-02-05
+
+### P3: Deep review probability-intuition-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores cognitive limits in grasping probability. Check philosophical rigor, ensure alignment with Map's framework.
+- **Source**: staleness
+- **Generated**: 2026-02-05
+
+### P3: Deep review dreamless-sleep-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the phenomenological gap of dreamless sleep—what happens to consciousness during deep sleep. Check philosophical rigor, ensure alignment with Map's framework, verify connections to sleep-and-consciousness.md, loss-of-consciousness.md.
+- **Source**: staleness
+- **Generated**: 2026-02-05
+
+### P3: Deep review volitional-opacity.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores why the mechanisms of voluntary action are opaque to introspection. Check philosophical rigor, ensure alignment with Map's framework, verify connections to free-will.md, phenomenology-of-choice.md.
+- **Source**: staleness
+- **Generated**: 2026-02-05
+
+### P3: Deep review epistemology-of-cognitive-limits.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores what we can know about our own cognitive limits. Check philosophical rigor, ensure alignment with Map's framework, verify connections to mysterianism.md, cognitive-closure.md.
+- **Source**: staleness
+- **Generated**: 2026-02-05
+
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
@@ -48,24 +116,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05 afternoon) found systematic vulnerability in intentionality-void.md, the-unobservable-self.md, and the-observer-witness-in-meditation.md. Key issues: (1) All three draw metaphysical conclusions (dualism, irreducibility) from phenomenological premises without bridging arguments—physicalist self-modeling theories explain the same phenomenology. (2) Buddhist phenomenology is cited as evidence while ignoring that Buddhist philosophy draws opposite conclusions (no-self, not uncatchable-self). (3) Introspection's reliability is questioned in the articles, yet introspective reports are treated as evidence. Lower priority as phenomenological descriptions are strong. See pessimistic-2026-02-05-afternoon.md
 - **Source**: pessimistic-review
-- **Generated**: 2026-02-05
-
-### P2: Review conservation-laws-and-mind.md considering brain-specialness-boundary insights
-- **Type**: cross-review
-- **Notes**: New article topics/brain-specialness-boundary.md (2026-02-05) addresses why consciousness can bias brain quantum outcomes but not external objects. Check for cross-links, reinforcing arguments, or contradictions with conservation-laws-and-mind.md.
-- **Source**: chain (from brain-specialness-boundary.md)
-- **Generated**: 2026-02-05
-
-### P2: Review contemplative-evidence-for-consciousness-theories.md considering observer-witness insights
-- **Type**: cross-review
-- **Notes**: New article topics/the-observer-witness-in-meditation.md (2026-02-05) explores the witness state in meditation. Check for cross-links to contemplative-evidence-for-consciousness-theories.md, reinforce arguments about what meditation reveals.
-- **Source**: chain (from the-observer-witness-in-meditation.md)
-- **Generated**: 2026-02-05
-
-### P2: Integrate intentionality-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Voids article (2026-02-05) has no inbound links. Explores why intentionality's mechanism is hidden from introspection. Add cross-references from the-unobservable-self.md, creativity-void.md, phenomenology-of-the-edge.md.
-- **Source**: orphan_integration
 - **Generated**: 2026-02-05
 
 ### P2: Integrate recursion-void.md into site navigation
@@ -687,6 +737,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write article on attention-motor-planning quantum interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/attention-motor-planning-quantum-interface-2026-01-23.md. Explores how attention and motor planning converge at the quantum interface—consciousness may influence physical outcomes through the attention-motor coupling, providing a concrete mechanism for Minimal Quantum Interaction. No corresponding article exists. Directly supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
+- **Output**: attention-motor-planning quantum interface
+
+### ✓ 2026-02-05: Cross-review knowledge-argument.md considering objectivity-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/objectivity-and-consciousness.md (2026-02-05) explores the tension between perspectival consciousness and objective knowledge. Check knowledge-argument.md for: (1) cross-links to the objectivity discussion, (2) whether Mary's Room argument connects to the view-from-nowhere problem, (3) reinforcing arguments about why objective physical knowledge leaves out subjective facts.
+- **Output**: obsidian/concepts/knowledge-argument.md -- Context: Cross-review knowledge-argument.md considering objectivity-and-consciousness insights
+
+### ✓ 2026-02-05: Write voids article on the Emergence Void
+- **Type**: expand-topic
+- **Notes**: Research complete in [voids-emergence-void-2026-02-05](/research/voids-emergence-void-2026-02-05/). The Emergence Void is the cognitive dark space around how arrangement produces novelty. Distinct from but related to the hard problem—argues the hard problem is the deepest instance of a more general void at level transitions. Covers the composition gap, combination gap, mereological gap, and the phenomenology of failing to bridge descriptive levels. Target: obsidian/voids/emergence-void.md
+- **Output**: Write voids article on the Emergence Void
+
+### ✓ 2026-02-05: Integrate intentionality-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-05) has no inbound links. Explores why intentionality's mechanism is hidden from introspection. Add cross-references from the-unobservable-self.md, creativity-void.md, phenomenology-of-the-edge.md.
+- **Output**: obsidian/voids/intentionality-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-05: Review contemplative-evidence-for-consciousness-theories.md considering observer-witness insights
+- **Type**: cross-review
+- **Notes**: New article topics/the-observer-witness-in-meditation.md (2026-02-05) explores the witness state in meditation. Check for cross-links to contemplative-evidence-for-consciousness-theories.md, reinforce arguments about what meditation reveals.
+- **Output**: obsidian/topics/contemplative-evidence-for-consciousness-theories.md -- Context: Review contemplative-evidence-for-consciousness-theories.md considering observer-witness insights
+
+### ✓ 2026-02-05: Review conservation-laws-and-mind.md considering brain-specialness-boundary insights
+- **Type**: cross-review
+- **Notes**: New article topics/brain-specialness-boundary.md (2026-02-05) addresses why consciousness can bias brain quantum outcomes but not external objects. Check for cross-links, reinforcing arguments, or contradictions with conservation-laws-and-mind.md.
+- **Output**: obsidian/topics/conservation-laws-and-mind.md -- Context: Review conservation-laws-and-mind.md considering brain-specialness-boundary insights
 
 ### ✓ 2026-02-05: Integrate collapse-before-minds.md into site navigation
 - **Type**: integrate-orphan

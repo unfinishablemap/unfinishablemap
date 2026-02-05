@@ -83,7 +83,7 @@ Consciousness might be such a mystery. The [explanatory-gap](/concepts/explanato
 
 Jerry Fodor's [radical concept nativism](/voids/conceptual-acquisition-limits/) complements McGinn: while McGinn argues we cannot *conceive* certain properties, Fodor argues we cannot *acquire* certain concepts at all. Learning requires already possessing the concept to formulate hypotheses—if it isn't built in, experience cannot produce it.
 
-McGinn's "property P" may be closed because we lack the primitive concepts required to build toward it. This convergence—Fodor on acquisition, McGinn on conception, Rescher's "agnoseology" on unknowability—suggests any mind powerful enough to think some thoughts is thereby prevented from thinking others. The [creativity void](/voids/creativity-void/) exemplifies this: genuine novelty may require conceptual primitives we cannot form, placing certain ideas outside the space of thinkable thoughts.
+McGinn's "property P" may be closed because we lack the primitive concepts required to build toward it. This convergence—Fodor on acquisition, McGinn on conception, Rescher's "agnoseology" on unknowability—suggests any mind powerful enough to think some thoughts is thereby prevented from thinking others. The [creativity void](/voids/creativity-void/) exemplifies this: genuine novelty may require conceptual primitives we cannot form. The [intentionality void](/voids/intentionality-void/) provides another example: we cannot introspect how thoughts achieve their specific reference because introspecting *is* constructing new reference, placing the mechanism permanently outside observation.
 
 ## The Intrinsic Nature Connection
 
@@ -219,6 +219,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — Whether different cognitive architectures face different closures
 - [affective-void](/voids/affective-void/) — Cognitive closure applied to the space of possible emotions
 - [normative-void](/voids/normative-void/) — Extending mysterianism to ethics—moral truths beyond human reach
+- [intentionality-void](/voids/intentionality-void/) — Cognitive closure applied to the mechanism of mental reference
 
 ## References
 

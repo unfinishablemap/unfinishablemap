@@ -72,7 +72,7 @@ Since Brentano, many philosophers have tried to naturalize intentionality—to e
 
 The [symbol grounding problem](/archive/topics/symbol-grounding-problem/) sharpens this challenge for computational systems: how can symbols acquire meaning *intrinsic* to the system rather than borrowed from human interpreters? Harnad's dictionary regress—imagine learning Chinese using only a Chinese-to-Chinese dictionary—shows that without some foothold in genuine understanding, symbols remain semantically empty no matter how many other symbols define them.
 
-No naturalistic theory has achieved consensus. As the Internet Encyclopedia of Philosophy notes, "Brentano was deeply pessimistic about the possibility of explaining intentionality in physical terms... no one has succeeded in refuting Brentano's thesis." This supports the Map's [Occam's Razor Has Limits](/tenets/#occam) tenet: the "simpler" physical explanations don't work.
+No naturalistic theory has achieved consensus. As the Internet Encyclopedia of Philosophy notes, "Brentano was deeply pessimistic about the possibility of explaining intentionality in physical terms... no one has succeeded in refuting Brentano's thesis." The [intentionality void](/voids/intentionality-void/) explores why this failure may be structural: the mechanism of reference operates below the threshold of introspective access, hidden from the consciousness it constitutes. This supports the Map's [Occam's Razor Has Limits](/tenets/#occam) tenet: the "simpler" physical explanations don't work.
 
 ## Phenomenal Intentionality Theory
 
@@ -224,6 +224,7 @@ Intentionality connects to all five foundational tenets:
 - [introspection](/concepts/introspection/) — How we access intentional states and whether that access is reliable
 - [decoherence](/concepts/decoherence/) — The quantum biology objection and why it may not apply
 - [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/) — How symbols acquire intrinsic meaning (the computational framing)
+- [intentionality-void](/voids/intentionality-void/) — Why the mechanism of reference is structurally hidden from consciousness
 - [intentionality-consciousness-2026-01-14](/research/intentionality-consciousness-2026-01-14/) — Research notes on this topic
 
 ## References
