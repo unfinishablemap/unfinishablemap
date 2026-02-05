@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review quantum-consciousness.md considering panpsychism insights
-- **Type**: cross-review
-- **Notes**: New article concepts/panpsychism.md provides detailed treatment of panpsychist positions. Check quantum-consciousness.md for opportunities to distinguish the Map's quantum approach from panpsychism, add cross-links, or address overlap.
-- **Source**: chain (from panpsychism.md)
-- **Generated**: 2026-02-05
-
 ### P2: Review evolution-of-consciousness.md considering collapse-before-minds insights
 - **Type**: cross-review
 - **Notes**: New article topics/collapse-before-minds.md addresses pre-biological collapse. Check evolution-of-consciousness.md for cross-links and consistency with the Map's position on when consciousness emerged relative to physical collapse mechanisms.
@@ -647,6 +641,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Review quantum-consciousness.md considering panpsychism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/panpsychism.md provides detailed treatment of panpsychist positions. Check quantum-consciousness.md for opportunities to distinguish the Map's quantum approach from panpsychism, add cross-links, or address overlap.
+- **Output**: obsidian/concepts/quantum-consciousness.md -- Context: Review quantum-consciousness.md considering panpsychism insights
 
 ### ✓ 2026-02-05: Write voids article on aesthetic void
 - **Type**: expand-topic
