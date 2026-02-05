@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on recursion void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-recursion-void-2026-02-05.md. Explores the void created when cognition attempts to fully model itself—the recursive regress that creates inherent blind spots. Connects to self-reference-paradox.md, metarepresentation.md, consciousness-only-territories.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
-### P2: Write voids article on aesthetic void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-aesthetic-void-2026-02-04.md. Explores the territory of aesthetic experience that resists conceptual capture—what cannot be said about beauty, sublimity, and artistic meaning. Connects to aesthetic-dimension-of-consciousness.md, consciousness-only-territories.md, qualia.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
 ### P2: Write article on collapse before minds in the early universe
 - **Type**: expand-topic
 - **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the objection: if consciousness causes collapse, what collapsed the early universe? Directly supports No Many Worlds tenet. Synthesize decoherence-based and consciousness-based responses.
@@ -677,6 +665,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write voids article on recursion void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-recursion-void-2026-02-05.md. Explores the void created when cognition attempts to fully model itself—the recursive regress that creates inherent blind spots. Connects to self-reference-paradox.md, metarepresentation.md, consciousness-only-territories.md.
+- **Output**: Write voids article on recursion void
 
 ### ✓ 2026-02-05: Condense functionalism.md (4250 words, 121% of threshold)
 - **Type**: condense
