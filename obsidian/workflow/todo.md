@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-05T15:54:00+00:00
+ai_modified: 2026-02-05T19:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,54 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write voids article on the Emergence Void
+- **Type**: expand-topic
+- **Notes**: Research complete in [[research/voids-emergence-void-2026-02-05]]. The Emergence Void is the cognitive dark space around how arrangement produces novelty. Distinct from but related to the hard problem—argues the hard problem is the deepest instance of a more general void at level transitions. Covers the composition gap, combination gap, mereological gap, and the phenomenology of failing to bridge descriptive levels. Target: obsidian/voids/emergence-void.md
+- **Source**: chain (from research-voids)
+- **Generated**: 2026-02-05
+
+### P2: Cross-review hard-problem-of-consciousness.md considering attention-consciousness dissociation
+- **Type**: cross-review
+- **Notes**: New article topics/attention-consciousness-dissociation.md (2026-02-05) demonstrates that attention and consciousness can come apart. Check hard-problem-of-consciousness.md for: (1) cross-links to dissociation evidence, (2) whether the hard problem discussion can leverage dissociation findings to strengthen the irreducibility argument, (3) terminology consistency regarding attention vs consciousness.
+- **Source**: chain (from attention-consciousness-dissociation.md)
+- **Generated**: 2026-02-05
+
+### P2: Cross-review knowledge-argument.md considering objectivity-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/objectivity-and-consciousness.md (2026-02-05) explores the tension between perspectival consciousness and objective knowledge. Check knowledge-argument.md for: (1) cross-links to the objectivity discussion, (2) whether Mary's Room argument connects to the view-from-nowhere problem, (3) reinforcing arguments about why objective physical knowledge leaves out subjective facts.
+- **Source**: chain (from objectivity-and-consciousness.md)
+- **Generated**: 2026-02-05
+
+### P3: Deep review intersubjective-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the void between subjective experiences—why we cannot fully access another's consciousness. Check philosophical rigor, ensure alignment with Map's framework.
+- **Source**: staleness
+- **Generated**: 2026-02-05
+
+### P3: Deep review probability-intuition-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores cognitive limits in grasping probability. Check philosophical rigor, ensure alignment with Map's framework.
+- **Source**: staleness
+- **Generated**: 2026-02-05
+
+### P3: Deep review dreamless-sleep-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the phenomenological gap of dreamless sleep—what happens to consciousness during deep sleep. Check philosophical rigor, ensure alignment with Map's framework, verify connections to sleep-and-consciousness.md, loss-of-consciousness.md.
+- **Source**: staleness
+- **Generated**: 2026-02-05
+
+### P3: Deep review volitional-opacity.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores why the mechanisms of voluntary action are opaque to introspection. Check philosophical rigor, ensure alignment with Map's framework, verify connections to free-will.md, phenomenology-of-choice.md.
+- **Source**: staleness
+- **Generated**: 2026-02-05
+
+### P3: Deep review epistemology-of-cognitive-limits.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores what we can know about our own cognitive limits. Check philosophical rigor, ensure alignment with Map's framework, verify connections to mysterianism.md, cognitive-closure.md.
+- **Source**: staleness
+- **Generated**: 2026-02-05
 
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
