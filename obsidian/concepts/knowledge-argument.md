@@ -4,7 +4,7 @@ description: "Mary knows all physical facts about color but learns something new
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-27T16:45:00+00:00
+ai_modified: 2026-02-05T21:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +20,7 @@ concepts:
   - "[[philosophical-zombies]]"
   - "[[consciousness-only-territories]]"
   - "[[intrinsic-nature-void]]"
+  - "[[objectivity-and-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[knowledge-argument-marys-room-2026-01-14]]"
@@ -28,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-27T16:45:00+00:00
+last_deep_review: 2026-02-05T21:32:00+00:00
 ---
 
 The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the most influential arguments against [[materialism|physicalism]]. It uses a thought experiment—Mary's Room—to show that complete physical knowledge doesn't constitute complete knowledge. Mary, a brilliant scientist who knows every physical fact about color vision, learns something new when she first sees color. What she learns is *what it's like* to see red—a fact that physical knowledge alone could not provide. Therefore, non-physical facts exist, and physicalism is false.
@@ -99,7 +100,7 @@ Frank Jackson, the argument's creator, now rejects it. Beginning around 1995 and
 
 Jackson's current view combines representationalism (phenomenal properties are representational properties) with elements of the ability hypothesis.
 
-However, Jackson's rejection doesn't settle the debate. Arguments stand or fall on their logic, not their author's endorsement. In a 2023 interview, Jackson acknowledged the argument "should be addressed really seriously if you are a physicalist." Other philosophers—Chalmers, Nida-Rümelin, Alter—continue to defend it. If anything, Jackson's epiphenomenalism worry supports the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: consciousness must causally influence our beliefs about it, or we couldn't know about it at all.
+However, Jackson's rejection doesn't settle the debate. Arguments stand or fall on their logic, not their author's endorsement. Jackson himself has acknowledged the argument "should be addressed really seriously if you are a physicalist." Other philosophers—Chalmers, Nida-Rümelin, Alter—continue to defend it. If anything, Jackson's epiphenomenalism worry supports the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: consciousness must causally influence our beliefs about it, or we couldn't know about it at all.
 
 ## Connection to Related Arguments
 
@@ -111,9 +112,11 @@ The knowledge argument shares deep structure with other anti-physicalist argumen
 
 **What Is It Like to Be a Bat?**: Thomas Nagel's earlier argument (1974) anticipated Jackson. Nagel argued that knowing all physical facts about bat echolocation wouldn't tell us what it's *like* to be a bat. Mary's Room makes the same point with human consciousness, strengthening it by eliminating species differences.
 
-**Acquaintance Knowledge**: What Mary gains has been characterized as *acquaintance knowledge*—direct experiential familiarity with a phenomenal quality, distinct from propositional knowledge (knowing-that) or ability knowledge (knowing-how). This concept illuminates [[consciousness-only-territories|territories accessible only to conscious beings]]: regions of knowledge structurally inaccessible to systems lacking phenomenal experience. No amount of third-person description substitutes for first-person acquaintance.
+**Acquaintance Knowledge**: What Mary gains has been characterized as *acquaintance knowledge*—direct experiential familiarity with a phenomenal quality, distinct from propositional knowledge (knowing-that) or ability knowledge (knowing-how). This illuminates [[consciousness-only-territories|territories accessible only to conscious beings]]: regions of knowledge structurally inaccessible to systems lacking phenomenal experience.
 
-**The Convergence Argument**: The knowledge argument is not alone. It is one of seven major [[arguments-against-materialism|arguments against materialism]]—alongside the explanatory gap, zombie argument, inverted qualia, Kripke's modal argument, Nagel's subjectivity argument, and quantum mechanical considerations. These arguments proceed through different logical routes, exploit different features of consciousness, yet converge on the same conclusion. Their convergence provides cumulative support stronger than any individual argument could: when multiple independent witnesses tell the same story, the probability of collective error decreases.
+**The Objectivity Paradox**: Mary's case exemplifies the broader tension between [[objectivity-and-consciousness|objectivity and consciousness]]. Science aims for the "view from nowhere"—perspective-free description independent of any observer. But consciousness *is* perspective. Mary possessed the maximally objective description of color vision yet lacked the subjective reality it describes. Eliminating the observer eliminates the subject matter.
+
+**The Convergence Argument**: The knowledge argument is not alone. It is one of seven major [[arguments-against-materialism|arguments against materialism]]—alongside the explanatory gap, zombie argument, inverted qualia, Kripke's modal argument, Nagel's subjectivity argument, and quantum mechanical considerations. These arguments proceed through different logical routes, exploit different features of consciousness, yet converge on the same conclusion. Their convergence provides cumulative support stronger than any individual argument could.
 
 ## The Introspection Question
 
@@ -121,7 +124,7 @@ Mary's recognition that she learns something new depends on [[introspection]]—
 
 Critics of introspection argue we routinely confabulate about our mental states. But the relevant findings concern causal *processes*, not phenomenal *content*. Nisbett and Wilson's classic studies show that we lack insight into *why* we choose as we do—not that we misidentify *what* we experience. Mary doesn't need to know why red looks the way it does; she only needs to recognize that her experience has changed qualitatively.
 
-Moreover, contemplative training dramatically improves introspective accuracy. Fox et al. (2012) found that meditation experience predicts the ability to detect subtle phenomenal changes—exactly the skill Mary would employ. If introspection were fundamentally unreliable, no amount of practice should help. The fact that training improves accuracy suggests introspection is a skill that can be refined, not a systematically broken faculty.
+Moreover, contemplative training improves introspective accuracy. Fox et al. (2012) found that meditation experience predicts the ability to detect subtle phenomenal changes—exactly the skill Mary would employ. If introspection were fundamentally unreliable, no amount of practice should help. That training improves accuracy suggests introspection is a skill that can be refined, not a systematically broken faculty.
 
 The introspection objection thus fails on two fronts: it targets the wrong domain (processes, not contents) and it ignores evidence that phenomenal observation can be trained.
 
@@ -129,7 +132,7 @@ The introspection objection thus fails on two fronts: it targets the wrong domai
 
 Alfred North Whitehead's process philosophy offers an alternative framing. For Whitehead, reality consists of "actual occasions"—momentary experiential events that cannot be captured from outside. Physical descriptions characterize the *extensive* relationships between occasions—their spatial and temporal structure—but not their *intensive* reality, the subjective immediacy of each occasion.
 
-On this view, Mary's situation illustrates a general truth: structure never entails experience. Physical science describes patterns of relationship, but the intrinsic nature of what stands in those relationships—what Whitehead calls "subjective form"—remains inaccessible from outside. When Mary sees red, she gains access to the subjective form of a new type of occasion, something no external description could provide.
+On this view, Mary's situation illustrates a general truth: structure never entails experience. Physical science describes patterns of relationship, but the intrinsic nature of what stands in those relationships—what Whitehead calls "subjective form"—remains inaccessible from outside. When Mary sees red, she gains access to the subjective form of a new type of occasion.
 
 This resonates with Bertrand Russell's insight that physics describes structure without revealing intrinsic nature—the [[intrinsic-nature-void]] at the heart of physical science. [[russellian-monism|Russellian monism]] develops this idea—physical science tells us what things *do*, not what they *are*. Mary's Room dramatizes this void: she possessed complete structural knowledge yet lacked intrinsic knowledge of red. What she gains upon seeing color is precisely what physics structurally cannot provide.
 
@@ -147,7 +150,7 @@ The knowledge argument would be undermined by any of the following:
 
 5. **Illusionism is vindicated**: If we could explain why Mary *seems* to learn without invoking phenomenal properties, the argument would lose its force. But the "illusion problem" appears as difficult as the hard problem it replaces.
 
-The argument's resilience comes from its simplicity: it makes minimal assumptions (Mary knows physics, sees color, reports learning) and draws a modest conclusion (not all facts are physical). The burden falls on physicalists to explain away an intuition that even trained philosophers struggle to shake.
+The argument's resilience comes from its simplicity: minimal assumptions (Mary knows physics, sees color, reports learning) and a modest conclusion (not all facts are physical). The burden falls on physicalists to explain away an intuition that even trained philosophers struggle to shake.
 
 ## Relation to The Unfinishable Map's Perspective
 
@@ -159,6 +162,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 
 ## Further Reading
 
+- [[objectivity-and-consciousness]] — Why consciousness resists the objective methods that work for physical systems
 - [[intrinsic-nature-void]] — Why physics describes structure but not intrinsic nature—what Mary's case dramatizes
 - [[consciousness-only-territories]] — How acquaintance knowledge defines territories accessible only to conscious beings
 - [[arguments-against-materialism]] — The knowledge argument as one of seven converging anti-materialist arguments

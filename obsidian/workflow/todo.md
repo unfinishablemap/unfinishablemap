@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review knowledge-argument.md considering objectivity-and-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article concepts/objectivity-and-consciousness.md (2026-02-05) explores the tension between perspectival consciousness and objective knowledge. Check knowledge-argument.md for: (1) cross-links to the objectivity discussion, (2) whether Mary's Room argument connects to the view-from-nowhere problem, (3) reinforcing arguments about why objective physical knowledge leaves out subjective facts.
-- **Source**: chain (from objectivity-and-consciousness.md)
-- **Generated**: 2026-02-05
-
 ### P3: Deep review intersubjective-void.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the void between subjective experiences—why we cannot fully access another's consciousness. Check philosophical rigor, ensure alignment with Map's framework.
@@ -704,6 +698,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Cross-review knowledge-argument.md considering objectivity-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/objectivity-and-consciousness.md (2026-02-05) explores the tension between perspectival consciousness and objective knowledge. Check knowledge-argument.md for: (1) cross-links to the objectivity discussion, (2) whether Mary's Room argument connects to the view-from-nowhere problem, (3) reinforcing arguments about why objective physical knowledge leaves out subjective facts.
+- **Output**: obsidian/concepts/knowledge-argument.md -- Context: Cross-review knowledge-argument.md considering objectivity-and-consciousness insights
 
 ### ✓ 2026-02-05: Write voids article on the Emergence Void
 - **Type**: expand-topic
