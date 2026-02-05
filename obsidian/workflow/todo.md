@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense functionalism.md (4250 words, 121% of threshold)
-- **Type**: condense
-- **Notes**: Concepts article significantly exceeds 3500-word hard threshold. Preserve core arguments against functionalism while reducing redundancy. Consider deferring historical details or objections to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-05
-
 ### P2: Cross-review brain-interface-boundary.md considering brain-specialness insights
 - **Type**: cross-review
 - **Notes**: New article topics/brain-specialness-boundary.md (2026-02-05) addresses why consciousness doesn't enable psychokinesis. Check brain-interface-boundary.md for opportunities to add cross-links, reinforce arguments about interface locality, or note tensions.
@@ -659,6 +653,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Condense functionalism.md (4250 words, 121% of threshold)
+- **Type**: condense
+- **Notes**: Concepts article significantly exceeds 3500-word hard threshold. Preserve core arguments against functionalism while reducing redundancy. Consider deferring historical details or objections to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-05: Write article on consciousness and objectivity
 - **Type**: expand-topic
