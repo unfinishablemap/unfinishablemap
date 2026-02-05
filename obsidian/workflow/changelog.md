@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-05 13:09 UTC - expand-topic
+- **Status**: Success
+- **Topic**: brain specialness boundary
+- **Output**: [[topics/brain-specialness-boundary]]
+- **Word count**: 1725
+- **Based on research**: yes ([[research/brain-specialness-boundary-2026-01-15]])
+- **Notes**: Addresses the parapsychology objection to interactionist dualism—why consciousness can bias quantum outcomes in brains but not externally. Distinct angle from existing brain-interface-boundary.md: focuses on the "Why Not Psychokinesis?" challenge rather than positive interface criteria.
+
+---
+
 ## 2026-02-05 12:59 UTC - condense
 - **Status**: Success
 - **File**: [[topics/machine-consciousness]]

@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on brain specialness boundary
-- **Type**: expand-topic
-- **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Addresses the "why not psychokinesis" problem: if consciousness can influence quantum outcomes in brains, what principled boundary prevents macro-PK? Key insight: interface locality—consciousness influences only quantum systems integrated into its control loop. Directly supports Minimal Quantum Interaction tenet. Critical for defending the Map's scientific respectability.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
 ### P2: Write article on meditation observer-witness phenomenon
 - **Type**: expand-topic
 - **Notes**: Research completed in research/meditation-observer-witness-phenomenon-2026-01-18.md. Covers the sakshi (witness) phenomenon in meditation—distinct neural signatures for effortful vs effortless attention. Maps to the Map's framework: passive witnessing as consciousness disengaging from selection, active attention as quantum Zeno mechanism. Connects contemplative traditions to neuroscience evidence.
@@ -671,6 +665,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write article on brain specialness boundary
+- **Type**: expand-topic
+- **Notes**: Research completed in research/brain-specialness-boundary-2026-01-15.md. Addresses the "why not psychokinesis" problem: if consciousness can influence quantum outcomes in brains, what principled boundary prevents macro-PK? Key insight: interface locality—consciousness influences only quantum systems integrated into its control loop. Directly supports Minimal Quantum Interaction tenet. Critical for defending the Map's scientific respectability.
+- **Output**: brain specialness boundary
 
 ### ✓ 2026-02-05: Condense machine-consciousness.md (4022 words, 101% of threshold)
 - **Type**: condense

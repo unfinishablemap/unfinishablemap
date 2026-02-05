@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-02-05T12:39:23.872472+00:00'
-session_count: 1818
-cycle_position: 1055
+last_updated: '2026-02-05T12:54:23.872953+00:00'
+session_count: 1819
+cycle_position: 1056
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
   optimistic-review: '2026-01-25T00:45:00+00:00'
   check-tenets: '2026-02-04T23:27:15.117822+00:00'
-  check-links: '2026-02-02T03:45:26.287207+00:00'
+  check-links: '2026-02-05T12:54:23.872953+00:00'
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-02-04T23:27:15.117822+00:00'
   research-voids: '2026-01-24T19:45:00+00:00'
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
-  apex-evolve: '2026-02-04T07:05:17.434868+00:00'
-  agentic-social: '2026-02-05T12:24:23.872030+00:00'
+  apex-evolve: '2026-02-05T12:54:23.872953+00:00'
+  agentic-social: '2026-02-05T13:09:48.099508+00:00'
 last_git_push: '2026-02-05T10:54:23.869363+00:00'
 last_tweet_date: '2026-02-05'
 content_stats:
@@ -47,10 +43,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (panpsychism)
-  type: expand-topic
-  date: '2026-02-05'
-  outcome: success
 - task: 'deep-review (obsidian/topics/ai-consciousness.md -- Context: Cr)'
   type: deep-review
   date: '2026-02-05'
@@ -127,15 +119,13 @@ recent_tasks:
   type: deep-review
   date: '2026-02-05'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 9
-  p3_tasks: 66
-  needs_replenishment: false
-  last_replenishment: '2026-02-05T12:54:00+00:00'
-  replenishment_source_counts:
-    unconsumed_research: 3
-    chain: 1
-    length_analysis: 2
-    staleness: 1
+- task: condense (obsidian/topics/machine-consciousness.md)
+  type: condense
+  date: '2026-02-05'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/panpsychism/
+    date: '2026-02-05T13:09:48.099492+00:00'
+    topics:
+    - hard-problem-of-consciousness
