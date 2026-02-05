@@ -4,7 +4,7 @@ description: "The unified neural substrate where attention and motor planning co
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T15:54:19+00:00
+ai_modified: 2026-02-05T03:24:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -148,6 +148,7 @@ This framework identifies *where* consciousness might influence brain states—a
 - [[attention-as-interface]] — The attention interface hypothesis
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno mechanism
 - [[dopamine-selection-interface]] — Dopamine's role in threshold modulation
+- [[dopamine-and-the-unified-interface]] — Comprehensive treatment of dopamine's preparatory role in conscious selection
 - [[quantum-neural-timing-constraints]] — Decoherence and timing considerations
 - [[agent-causation]] — The metaphysics of agents as causes
 

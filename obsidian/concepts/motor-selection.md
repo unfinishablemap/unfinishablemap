@@ -4,7 +4,7 @@ description: "Motor control and attention share neural substrates, suggesting a 
 created: 2026-01-18
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T18:15:00+00:00
+ai_modified: 2026-02-05T03:24:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -193,6 +193,7 @@ This framework identifies *where* consciousness might influence motor selection�
 - [[voluntary-attention]] — Neural signatures of willed attention
 - [[attention-as-interface]] — The interface hypothesis foundation
 - [[dopamine-selection-interface]] — Dopamine's role in selection thresholds
+- [[dopamine-and-the-unified-interface]] — How dopamine prepares the unified attention-motor system for conscious selection
 - [[phenomenology-of-choice]] — The experiential structure of choosing
 - [[libet-experiments]] — Detailed analysis of readiness potential experiments
 - [[quantum-decoherence-objection]] — The decoherence challenge and responses

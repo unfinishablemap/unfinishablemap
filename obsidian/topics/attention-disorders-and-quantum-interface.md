@@ -4,7 +4,7 @@ description: "What ADHD, attention fatigue, and meditation deficits reveal about
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-04T04:20:00+00:00
+ai_modified: 2026-02-05T03:24:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -198,6 +198,7 @@ The materialist might argue that attention disorders show attention is "just" ne
 - [[voluntary-attention]] — Neural signatures distinguishing willed from automatic attention
 - [[mental-effort]] — Why attention feels effortful and what effort signifies
 - [[dopamine-selection-interface]] — Dopamine's role in threshold modulation
+- [[dopamine-and-the-unified-interface]] — Salience bridge, tonic/phasic modes, and what Parkinson's reveals about the interface
 - [[consciousness-selecting-neural-patterns]] — How consciousness might select among neural options
 
 ## References

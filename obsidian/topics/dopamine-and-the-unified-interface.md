@@ -4,7 +4,7 @@ description: "Dopamine serves both attention and motor systems because these sys
 created: 2026-02-04
 modified: 2026-02-04
 human_modified: null
-ai_modified: 2026-02-05T01:39:00+00:00
+ai_modified: 2026-02-05T03:24:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -25,7 +25,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-04
 last_curated: null
-last_deep_review: 2026-02-05T01:39:00+00:00
+last_deep_review: 2026-02-05T03:24:00+00:00
 ---
 
 Why does one molecule—dopamine—mediate both the anticipation of reward and the initiation of movement? The standard answer treats this as evolutionary convenience: wanting and pursuing typically go together, so coupling them is efficient. The Unfinishable Map proposes a deeper explanation: dopamine serves both functions because attention and motor planning are the same system, and dopamine prepares this unified system for conscious selection rather than performing the selection itself.
