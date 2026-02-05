@@ -18,6 +18,127 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-05 10:54 UTC - deep-review
+- **Status**: Skipped (archived content)
+- **File**: phenomenal-binding.md
+- **Reason**: File was archived on 2026-01-26 and coalesced into [binding-problem](/concepts/binding-problem/). The original content now lives in the binding-problem article which has been reviewed multiple times (most recently 2026-01-28) and marked as stable. No active orphan to integrate.
+- **Superseded by**: [binding-problem](/concepts/binding-problem/)
+
+---
+
+## 2026-02-05 10:39 UTC - deep-review
+- **Status**: Success
+- **File**: [collapse-before-minds](/topics/collapse-before-minds/)
+- **Word count**: 1833 → 2059 (+226 words, 69% of soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (decoherence objection, indexical argument, cross-links)
+- **Enhancements made**: 4 (decoherence section, haecceity link, mental-causation link, references)
+- **Output**: [deep-review-2026-02-05-collapse-before-minds](/reviews/deep-review-2026-02-05-collapse-before-minds/)
+
+---
+
+## 2026-02-05 10:24 UTC - deep-review
+- **Status**: Success (cross-links added)
+- **File**: [quantum-consciousness](/concepts/quantum-consciousness/)
+- **Word count**: 2410 → 2431 (+21 words, 97% of soft threshold)
+- **Context**: Cross-review considering subjective probability insights
+- **Critical issues addressed**: 0 (none found)
+- **Enhancements made**: 2 (cross-links to quantum-probability-consciousness and quantum-measurement-and-subjective-probability)
+- **Output**: [deep-review-2026-02-05-quantum-consciousness](/reviews/deep-review-2026-02-05-quantum-consciousness/)
+
+---
+
+## 2026-02-05 10:09 UTC - deep-review
+- **Status**: Stability confirmed (no changes)
+- **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Word count**: 3050 (unchanged)
+- **Context**: Cross-review considering panpsychism insights
+- **Critical issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article converged after 5 previous reviews)
+- **Output**: [deep-review-2026-02-05-hard-problem-of-consciousness](/reviews/deep-review-2026-02-05-hard-problem-of-consciousness/)
+
+---
+
+## 2026-02-05 09:54 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 70+ topics, 95+ concepts, 55+ voids, tenets
+- **Output**: [optimistic-2026-02-05](/reviews/optimistic-2026-02-05/)
+- **Tasks added**: 3 (phenomenal binding, spontaneous action, interface locality)
+
+---
+
+## 2026-02-05 09:39 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Collapse Before Minds: Early-Universe Quantum Selection
+- **Output**: [collapse-before-minds](/topics/collapse-before-minds/)
+- **Word count**: 1833
+- **Based on research**: yes, [collapse-before-minds-early-universe-2026-01-16](/research/collapse-before-minds-early-universe-2026-01-16/)
+
+---
+
+## 2026-02-05 09:24 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Recursion Void
+- **Output**: [recursion-void](/voids/recursion-void/)
+- **Word count**: 1816
+- **Based on research**: yes, [voids-recursion-void-2026-02-05](/research/voids-recursion-void-2026-02-05/)
+
+---
+
+## 2026-02-05 09:12 UTC - deep-review
+- **Status**: Success
+- **File**: [theory-of-mind](/concepts/theory-of-mind/)
+- **Word count**: 3028 → 3028 (length-neutral)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2 (global-workspace-theory link, gamma oscillation clarification)
+- **Output**: [deep-review-2026-02-05-theory-of-mind](/reviews/deep-review-2026-02-05-theory-of-mind/)
+
+---
+
+## 2026-02-05 08:54 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [functionalism](/concepts/functionalism/)
+- **Word count**: 2036 words (81% of 2500 target)
+- **Reason**: Article is already below soft threshold; no excess to trim
+
+---
+
+## 2026-02-05 08:39 UTC - deep-review
+- **Status**: Success
+- **File**: [free-will](/topics/free-will/)
+- **Word count**: 3047 → 3088 (+41)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (creativity-consciousness integration)
+- **Enhancements made**: 3 (generation-selection synthesis, cross-links added)
+- **Output**: [deep-review-2026-02-05-free-will](/reviews/deep-review-2026-02-05-free-will/)
+- **Context**: Cross-review considering creativity-consciousness insights
+- **Note**: Thirteenth review; article has reached high stability
+
+---
+
+## 2026-02-05 08:24 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: quantum-neural-timing-constraints.md, consciousness-and-social-cognition.md, identity-across-transformations.md
+- **Output**: [pessimistic-2026-02-05-morning](/reviews/pessimistic-2026-02-05-morning/)
+- **Issues found**: 6 critical/medium-high issues including post-decoherence selection unfalsifiability, haecceity explanatory gap, great ape capacities understated
+- **Tasks added**: 2 P3 refine tasks to todo.md
+
+---
+
+## 2026-02-05 08:10 UTC - deep-review
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Word count**: 1591 → 1647 (+56)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (decoherence asymmetry acknowledged)
+- **Enhancements made**: 2 (amplifier hypothesis link, consciousness-as-amplifier cross-link)
+- **Output**: [deep-review-2026-02-05-ai-consciousness](/reviews/deep-review-2026-02-05-ai-consciousness/)
+- **Context**: Cross-review considering consciousness-and-intelligence insights
+- **Note**: Fifth review; article has reached stability
+
+---
+
 ## 2026-02-05 07:54 UTC - expand-topic
 - **Status**: Skipped (already complete)
 - **Topic**: panpsychism

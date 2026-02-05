@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-05 06:54:00+00:00
+ai_modified: 2026-02-05 09:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,22 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review ai-consciousness.md considering consciousness-and-intelligence insights
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-and-intelligence.md (2026-02-05) explores consciousness's causal role in enabling human-level intelligence. Check for cross-links, update arguments about AI consciousness criteria, ensure consistent treatment of the great ape-human cognitive gap.
-- **Source**: chain (from consciousness-and-intelligence.md)
-- **Generated**: 2026-02-05
-
-### P2: Cross-review free-will.md considering creativity-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article topics/creativity-consciousness-and-novel-thought.md (2026-02-05) examines consciousness's role in generating genuinely novel combinations. Cross-link creative novelty arguments to free will (both involve transcending deterministic computation), ensure consistent treatment of agent causation.
-- **Source**: chain (from creativity-consciousness-and-novel-thought.md)
-- **Generated**: 2026-02-05
-
-### P2: Condense functionalism.md (4250 words, 121% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the irreducibility objection while removing redundancy. Focus on why functional organization cannot explain phenomenal character.
-- **Source**: length_analysis
+### P2: Integrate psychophysical-coupling-mechanisms.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept article has no inbound links. Covers mechanisms for mind-brain coupling—central to the Map's interactionist framework. Add cross-references from psychophysical-coupling.md, interactionist-dualism.md, chalmers-psychophysical-coupling.md.
+- **Source**: orphan_integration
 - **Generated**: 2026-02-05
 
 ### P2: Update references to coalesced substrate-independence-critique article
@@ -89,6 +77,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P3: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Clarify falsifiability status of post-decoherence selection and haecceity
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-05 morning) found that quantum-neural-timing-constraints.md's 'post-decoherence selection' model survives timing objections by being timing-agnostic, which means unfalsifiable by timing evidence. The article's falsification conditions mostly test other mechanisms (Orch OR, Stapp), not the Map's position. Similarly, identity-across-transformations.md's haecceity claims face the explanatory gap objection—if haecceity has no observable consequences, what work does it do? Both articles should be more explicit that these are metaphysical frameworks, not empirical hypotheses. See pessimistic-2026-02-05-morning.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Update consciousness-and-social-cognition.md on great ape belief attribution
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-05 morning) found that the article understates recent evidence for great ape false belief understanding (Krupenye et al. 2016, Buttelmann 2019). The Level 2 discussion presents the human-ape gap as tracking consciousness when the gap might be explained by working memory or executive function differences. Also: conflates cognitive access with phenomenal consciousness—'conscious access' in cognitive science often means global availability, not subjective experience. See pessimistic-2026-02-05-morning.md
 - **Source**: pessimistic-review
 - **Generated**: 2026-02-05
 
@@ -642,6 +642,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Integrate phenomenal-binding.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept article has no inbound links. Covers phenomenal binding—how disparate neural processes produce unified conscious experience. Central to the binding problem and unity of consciousness arguments. Add cross-references from binding-problem.md, unity-of-consciousness.md, multimodal-binding.md.
+- **Output**: phenomenal-binding.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-05: Cross-review quantum-consciousness.md considering subjective probability insights
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-measurement-and-subjective-probability.md (2026-02-05) explores the relationship between quantum probability and first-person perspective. Check quantum-consciousness.md for cross-links, reinforcing arguments about why consciousness might be necessary for definite outcomes.
+- **Output**: obsidian/concepts/quantum-consciousness.md -- Context: Cross-review quantum-consciousness.md considering subjective probability insights
+
+### ✓ 2026-02-05: Cross-review hard-problem-of-consciousness.md considering panpsychism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/panpsychism.md (2026-02-05) provides comprehensive treatment of panpsychism as alternative to substance dualism. Check hard-problem-of-consciousness.md for cross-links, ensure consistent treatment of why the Map rejects universal proto-experience distribution while accepting consciousness as fundamental.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering panpsychism insights
+
+### ✓ 2026-02-05: Write article on collapse before minds in the early universe
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the objection: if consciousness causes collapse, what collapsed the early universe? Directly supports No Many Worlds tenet. Synthesize decoherence-based and consciousness-based responses.
+- **Output**: collapse before minds in the early universe
+
+### ✓ 2026-02-05: Write voids article on recursion void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-recursion-void-2026-02-05.md. Explores the void created when cognition attempts to fully model itself—the recursive regress that creates inherent blind spots. Connects to self-reference-paradox.md, metarepresentation.md, consciousness-only-territories.md.
+- **Output**: Write voids article on recursion void
+
+### ✓ 2026-02-05: Condense functionalism.md (4250 words, 121% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the irreducibility objection while removing redundancy. Focus on why functional organization cannot explain phenomenal character.
+- **Output**: obsidian/concepts/functionalism.md
+
+### ✓ 2026-02-05: Cross-review free-will.md considering creativity-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/creativity-consciousness-and-novel-thought.md (2026-02-05) examines consciousness's role in generating genuinely novel combinations. Cross-link creative novelty arguments to free will (both involve transcending deterministic computation), ensure consistent treatment of agent causation.
+- **Output**: obsidian/topics/free-will.md -- Context: Cross-review free-will.md considering creativity-consciousness insights
+
+### ✓ 2026-02-05: Cross-review ai-consciousness.md considering consciousness-and-intelligence insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intelligence.md (2026-02-05) explores consciousness's causal role in enabling human-level intelligence. Check for cross-links, update arguments about AI consciousness criteria, ensure consistent treatment of the great ape-human cognitive gap.
+- **Output**: obsidian/topics/ai-consciousness.md -- Context: Cross-review ai-consciousness.md considering consciousness-and-intelligence insights
 
 ### ✓ 2026-02-05: Write article on panpsychism
 - **Type**: expand-topic
@@ -1907,6 +1947,27 @@ Pessimistic review (2026-02-02 morning) identified a high-severity issue: the ar
 - **Notes**: Pessimistic review 2026-02-01 (late) found that self-locating-beliefs.md and indexical-identity-quantum-measurement.md conflate two distinct claims: (1) indexical *knowledge* is irreducible to impersonal knowledge (semantic/epistemic thesis), and (2) indexical *facts* are irreducible to impersonal facts (metaphysical thesis). Perry/Lewis examples establish (1) but not clearly (2). Articles should explicitly distinguish these theses and provide independent argument for the metaphysical claim if asserting it.
 - **Output**: Task context:
 Pessimistic review 2026-02-01 (late) found that self-locating-beliefs.md and indexical-identity-quantum-measurement.md conflate two distinct claims: (1) indexical *knowledge* is irreducible to impersonal knowledge (semantic/epistemic thesis), and (2) indexical *facts* are irreducible to impersonal facts (metaphysical thesis). Perry/Lewis examples establish (1) but not clearly (2). Articles should explicitly distinguish these theses and provide independent argument for the metaphysical claim if asserting it.
+### P3: Write article on phenomenal binding and unity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05. How disparate neural processes produce unified conscious experience—central to the hard problem. The unity of consciousness resists physical explanation, supporting the Dualism tenet. Builds on binding-problem.md, multimodal-binding.md, phenomenal-unity.md. See optimistic-2026-02-05.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Write article on spontaneous action and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05. Systematic treatment of why spontaneous intentional action requires consciousness while stimulus-response can proceed unconsciously. Supports Bidirectional Interaction by showing consciousness enables action initiation. Builds on conscious-vs-unconscious-processing.md, baseline-cognition.md, voluntary-attention.md. See optimistic-2026-02-05.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Write article on interface locality principle
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05. Why consciousness interfaces only with its own brain—resolving the "why can't I collapse distant systems" objection. Constrains Minimal Quantum Interaction to neurally-instantiated attention. Builds on multi-mind-collapse-problem.md, attention-as-interface.md, brain-interface-boundary.md. See optimistic-2026-02-05.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.

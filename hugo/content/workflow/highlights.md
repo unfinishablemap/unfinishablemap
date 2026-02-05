@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-05T08:09:41.291050'
+ai_modified: '2026-02-05T09:30:52+00:00'
 ai_system: null
 author: null
 concepts: []
@@ -28,6 +28,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 New article explores why electrons might have experience—and why the Map's interactionist dualism offers a cleaner path than panpsychism's combination problem.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2019322677568094512  
 **Link**: [panpsychism](/concepts/panpsychism/)
 
 ---

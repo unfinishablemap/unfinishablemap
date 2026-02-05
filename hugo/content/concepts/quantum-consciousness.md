@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-02-04 23:27:00+00:00
+ai_modified: 2026-02-05 10:24:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: 'How consciousness might interact with quantum mechanics: Orch OR m
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-04 23:27:00+00:00
+last_deep_review: 2026-02-05 10:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -200,6 +200,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 
 **Key concepts:**
 - [consciousness-and-quantum-measurement](/topics/consciousness-and-quantum-measurement/) — The structural parallel between the measurement and hard problems
+- [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure, not pure subjective belief
 - [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — Analysis of the decoherence challenge
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — What a coupling law must specify
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: how consciousness might couple
@@ -209,6 +210,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) — Classical vs. quantum binding mechanisms
 
 **Objections and resolutions:**
+- [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — Why subjective probability interpretations fail phenomenologically
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — Collapse before conscious observers
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — Multiple observers
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and Penrose OR models
