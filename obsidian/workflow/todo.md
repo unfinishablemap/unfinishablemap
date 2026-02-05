@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on aesthetic void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-aesthetic-void-2026-02-04.md. Covers aesthetic ineffability—what cannot be articulated about profound aesthetic experiences. Target section: voids/. Synthesize research into site content following voids article patterns.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
-### P2: Review consciousness-and-quantum-measurement.md considering retrocausal presentiment insights
-- **Type**: cross-review
-- **Notes**: New article topics/retrocausal-neural-effects.md explores presentiment and retrocausality. Check consciousness-and-quantum-measurement.md for cross-link opportunities, reinforcing arguments about observer role in collapse, or tensions to address.
-- **Source**: chain (from retrocausal-neural-effects.md)
-- **Generated**: 2026-02-05
-
 ### P2: Review quantum-consciousness.md considering panpsychism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/panpsychism.md provides detailed treatment of panpsychist positions. Check quantum-consciousness.md for opportunities to distinguish the Map's quantum approach from panpsychism, add cross-links, or address overlap.
@@ -659,6 +647,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write voids article on aesthetic void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-aesthetic-void-2026-02-04.md. Covers aesthetic ineffability—what cannot be articulated about profound aesthetic experiences. Target section: voids/. Synthesize research into site content following voids article patterns.
+- **Output**: Write voids article on aesthetic void
 
 ### ✓ 2026-02-05: Integrate psychophysical-coupling-mechanisms.md into site navigation
 - **Type**: integrate-orphan

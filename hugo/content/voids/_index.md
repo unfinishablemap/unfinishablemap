@@ -79,6 +79,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Death Void](/voids/death-void/) — Consciousness cannot represent its own absence
 - [The Dreamless Sleep Void](/voids/dreamless-sleep-void/) — Where consciousness goes during deep sleep
 - [The Creativity Void](/voids/creativity-void/) — Where creative insight originates, inaccessible to introspection
+- [The Aesthetic Void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
 - [The Past-Self Void](/voids/past-self-void/) — The discontinuity of personal identity over time
 - [The Incompleteness Void](/voids/incompleteness-void/) — Gödel's shadow on self-knowledge

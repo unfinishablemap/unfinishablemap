@@ -38,10 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate psychophysical-coupling-mechanisms.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concept article has no inbound links. Covers mechanisms for mind-brain coupling—central to the Map's interactionist framework. Add cross-references from psychophysical-coupling.md, interactionist-dualism.md, chalmers-psychophysical-coupling.md.
-- **Source**: orphan_integration
+### P2: Review consciousness-and-quantum-measurement.md considering retrocausal presentiment insights
+- **Type**: cross-review
+- **Notes**: New article topics/retrocausal-neural-effects.md explores presentiment and retrocausality. Check consciousness-and-quantum-measurement.md for cross-link opportunities, reinforcing arguments about observer role in collapse, or tensions to address.
+- **Source**: chain (from retrocausal-neural-effects.md)
+- **Generated**: 2026-02-05
+
+### P2: Review quantum-consciousness.md considering panpsychism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/panpsychism.md provides detailed treatment of panpsychist positions. Check quantum-consciousness.md for opportunities to distinguish the Map's quantum approach from panpsychism, add cross-links, or address overlap.
+- **Source**: chain (from panpsychism.md)
+- **Generated**: 2026-02-05
+
+### P2: Review evolution-of-consciousness.md considering collapse-before-minds insights
+- **Type**: cross-review
+- **Notes**: New article topics/collapse-before-minds.md addresses pre-biological collapse. Check evolution-of-consciousness.md for cross-links and consistency with the Map's position on when consciousness emerged relative to physical collapse mechanisms.
+- **Source**: chain (from collapse-before-minds.md)
 - **Generated**: 2026-02-05
 
 ### P2: Update references to coalesced substrate-independence-critique article
@@ -642,6 +654,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Integrate psychophysical-coupling-mechanisms.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept article has no inbound links. Covers mechanisms for mind-brain coupling—central to the Map's interactionist framework. Add cross-references from psychophysical-coupling.md, interactionist-dualism.md, chalmers-psychophysical-coupling.md.
+- **Output**: psychophysical-coupling-mechanisms.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-05: Integrate phenomenal-binding.md into site navigation
 - **Type**: integrate-orphan

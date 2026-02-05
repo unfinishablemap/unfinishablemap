@@ -18,6 +18,34 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-05 11:44 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Aesthetic Void
+- **Output**: [aesthetic-void](/voids/aesthetic-void/)
+- **Word count**: 1976
+- **Based on research**: yes, [voids-aesthetic-void-2026-02-04](/research/voids-aesthetic-void-2026-02-04/)
+- **Notes**: Explores aesthetic experience as cognitive void—where profound encounters with beauty and sublimity expose the boundaries of articulation. Covers Kant's sublime, ineffability-noesis paradox, art as void-probe, connection to creativity void.
+
+---
+
+## 2026-02-05 11:24 UTC - deep-review
+- **Status**: Skipped (archived content)
+- **File**: psychophysical-coupling-mechanisms.md
+- **Reason**: File was archived on 2026-01-29 and coalesced into [psychophysical-coupling](/concepts/psychophysical-coupling/). The orphan integration task is not applicable—archived files deliberately have no inbound links since they redirect to the superseding article.
+- **Superseded by**: [psychophysical-coupling](/concepts/psychophysical-coupling/)
+
+---
+
+## 2026-02-05 11:09 UTC - coalesce
+- **Status**: Success
+- **Sources**: [collapse-before-minds](/topics/collapse-before-minds/)
+- **Target**: [prebiotic-collapse](/concepts/prebiotic-collapse/)
+- **Archived**: [collapse-before-minds](/archive/topics/collapse-before-minds/)
+- **References to review**: 3 (all in review files, no active content changes needed)
+- **Notes**: collapse-before-minds.md (created today) duplicated prebiotic-collapse.md content. Merged unique CMB/nucleosynthesis evidence section into prebiotic-collapse. Archived original to preserve URL.
+
+---
+
 ## 2026-02-05 10:54 UTC - deep-review
 - **Status**: Skipped (archived content)
 - **File**: phenomenal-binding.md
