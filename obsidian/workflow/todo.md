@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on consciousness and creativity mechanisms
-- **Type**: expand-topic
-- **Notes**: Research completed in research/consciousness-creativity-novelty-generation-2026-01-19.md. Distinct from existing creativity-and-novel-combination.md (covers results) and creativity-void.md (covers limits). This covers the mechanism: Bergson's creative duration, default mode network generation vs executive selection, how consciousness both generates and selects. Supports Bidirectional Interaction.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
 ### P2: Integrate idealism.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Core concept article has no inbound links. Idealism is a major alternative to dualism that deserves engagement. Add cross-references from dualism.md, panpsychism.md, hard-problem-of-consciousness.md, and analytic-idealism.md.
@@ -647,6 +641,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write article on consciousness and creativity mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-creativity-novelty-generation-2026-01-19.md. Distinct from existing creativity-and-novel-combination.md (covers results) and creativity-void.md (covers limits). This covers the mechanism: Bergson's creative duration, default mode network generation vs executive selection, how consciousness both generates and selects. Supports Bidirectional Interaction.
+- **Output**: consciousness and creativity mechanisms
 
 ### ✓ 2026-02-05: Write article on consciousness's causal role in intelligence
 - **Type**: expand-topic
