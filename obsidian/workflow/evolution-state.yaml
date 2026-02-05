@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-02-05T11:09:23.869747+00:00'
-session_count: 1812
-cycle_position: 1049
+last_updated: '2026-02-05T11:24:23.869968+00:00'
+session_count: 1813
+cycle_position: 1050
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-04T07:05:17.434868+00:00'
-  agentic-social: '2026-02-05T10:54:23.869363+00:00'
+  agentic-social: '2026-02-05T11:39:50.781809+00:00'
 last_git_push: '2026-02-05T10:54:23.869363+00:00'
 last_tweet_date: '2026-02-05'
 content_stats:
@@ -47,10 +43,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-02-05'
-  outcome: success
 - task: deep-review (obsidian/topics/evolutionary-case-for-mental-causa)
   type: deep-review
   date: '2026-02-05'
@@ -127,3 +119,28 @@ recent_tasks:
   type: coalesce
   date: '2026-02-05'
   outcome: success
+- task: 'deep-review (psychophysical-coupling-mechanisms.md -- Context: )'
+  type: deep-review
+  date: '2026-02-05'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/higher-order-theories/
+    date: '2026-02-05T11:39:50.781790+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 6
+  p3_tasks: 52
+  needs_replenishment: false
+  last_replenishment: '2026-02-05T11:39:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    unconsumed_research: 1
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
+    orphan_integration: 0
