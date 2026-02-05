@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Condense materialism.md (3788 words, 152% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 2500-word soft threshold for concepts/. Currently 3788 words. Preserve core arguments against physicalist accounts of consciousness while removing redundancy. Focus on the most compelling arguments and defer detailed rebuttals to linked articles.
-- **Source**: length_analysis
-- **Generated**: 2026-02-05
-
 ### P2: Integrate evolutionary-case-for-mental-causation.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-05) has no inbound links. Covers evolutionary evidence for mental causation—how the correlation between phenomenology and behavior suggests consciousness has causal efficacy. Central to Bidirectional Interaction tenet. Add cross-references from consciousness-and-intelligence.md, evolution-of-consciousness.md, epiphenomenalism.md, baseline-cognition.md.
@@ -635,6 +629,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Condense materialism.md (3788 words, 152% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word soft threshold for concepts/. Currently 3788 words. Preserve core arguments against physicalist accounts of consciousness while removing redundancy. Focus on the most compelling arguments and defer detailed rebuttals to linked articles.
+- **Output**: obsidian/concepts/materialism.md
 
 ### ✓ 2026-02-05: Cross-review attention-interface-mechanisms.md considering dopamine insights
 - **Type**: cross-review
