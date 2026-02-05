@@ -17,6 +17,17 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-05 10:39 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/collapse-before-minds]]
+- **Word count**: 1833 → 2059 (+226 words, 69% of soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (decoherence objection, indexical argument, cross-links)
+- **Enhancements made**: 4 (decoherence section, haecceity link, mental-causation link, references)
+- **Output**: [[reviews/deep-review-2026-02-05-collapse-before-minds]]
+
+---
+
 ## 2026-02-05 10:24 UTC - deep-review
 - **Status**: Success (cross-links added)
 - **File**: [[concepts/quantum-consciousness]]

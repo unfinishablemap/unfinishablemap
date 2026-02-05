@@ -4,7 +4,7 @@ description: "What determined quantum outcomes in the 13.8 billion years before 
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-02-05T09:39:00+00:00
+ai_modified: 2026-02-05T10:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,6 +16,9 @@ concepts:
   - "[[retrocausality]]"
   - "[[panpsychism]]"
   - "[[many-worlds]]"
+  - "[[decoherence]]"
+  - "[[haecceity]]"
+  - "[[mental-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[collapse-before-minds-early-universe-2026-01-16]]"
@@ -24,6 +27,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-05
 last_curated:
+last_deep_review: 2026-02-05T10:39:00+00:00
 ---
 
 Stars ignited, heavy elements formed in supernovae, chemistry produced the molecules of life—all through quantum processes that required definite outcomes. Yet according to some interpretations, quantum systems remain in superposition until observed by consciousness. The Unfinishable Map holds that [[tenets#^bidirectional-interaction|consciousness participates in collapse]] within neural systems. But the early universe poses a sharp question: what selected outcomes during 13.8 billion years before any mind existed?
@@ -115,6 +119,20 @@ This preserves what matters:
 - **Minimal interaction**: No cosmic consciousness required; modulation is local
 - **Real collapse**: One outcome becomes actual; [[many-worlds]] is rejected
 
+### The Decoherence Challenge
+
+If [[decoherence]] destroys quantum coherence in femtoseconds in warm biological systems, how can consciousness modulate collapse at neural sites? Tegmark's 2000 calculation estimated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules—far too fast for millisecond-scale neural processes.
+
+Three responses:
+
+1. **Revised timescales**: Tegmark's calculation assumed thermal equilibrium appropriate for dead tissue. When corrected for microtubule interior conditions (Hagan et al., 2002), coherence times extend to 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer.
+
+2. **The Zeno sidestep**: Stapp's quantum Zeno mechanism doesn't require sustained coherence between observations. Rapid mental "observations" maintain states through repeated measurement—operating faster than decoherence can act.
+
+3. **Quantum biology precedents**: Avian magnetoreception maintains spin coherence for microseconds in warm biological tissue—proof that evolution can optimise systems to exploit quantum effects despite thermal noise.
+
+The decoherence challenge constrains but doesn't eliminate the modulation hypothesis.
+
 ## What the Early Universe Reveals
 
 The first 380,000 years after the Big Bang left an observable record: the cosmic microwave background (CMB). Its pattern of temperature fluctuations—quantum fluctuations stretched to cosmic scales during inflation—shows definite structure. If these fluctuations had remained in superposition until conscious observation 13.8 billion years later, the CMB would be philosophically problematic: our present observations would be creating the early-universe conditions that produced us.
@@ -129,9 +147,9 @@ The [[many-worlds|Many-Worlds Interpretation]] claims to dissolve the prebiotic 
 
 This is not a solution but a different framework with its own difficulties:
 
-**Indexical identity**: Why am I *this* observer in *this* branch? If all branches are equally real, the question "why this outcome?" merely relocates to "why this me?" The explanatory burden shifts from physics to metaphysics without resolution.
+**[[haecceity|Indexical identity]]**: Why am I *this* observer in *this* branch? If all branches are equally real, the question "why this outcome?" merely relocates to "why this me?" MWI defenders dismiss indexical questions as pseudo-problems, but this seems to mistake physics for metaphysics. The question "which me?" isn't asking for a physical fact but for a first-person fact—and first-person facts don't reduce to third-person descriptions of branches. The explanatory burden shifts from physics to metaphysics without resolution.
 
-**Consciousness becomes epiphenomenal**: If all outcomes occur regardless of consciousness, consciousness doesn't select anything—it merely accompanies one branch among many. This conflicts with the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. We hold that consciousness causally participates in determining outcomes.
+**Consciousness becomes epiphenomenal**: If all outcomes occur regardless of consciousness, consciousness doesn't select anything—it merely accompanies one branch among many. This conflicts with the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. We hold that consciousness causally participates in determining outcomes—that [[mental-causation]] is real, not illusory.
 
 **Occam's Razor cuts both ways**: MWI seems parsimonious (no collapse mechanism needed), but it posits an infinity of unobservable universes. Whether this counts as simple depends on what simplicity means—and the Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet questions simplicity as a reliable guide to metaphysical truth.
 
@@ -173,7 +191,9 @@ The Map's commitment is to the *framework*—real collapse plus consciousness mo
 
 - Donadi, S. et al. (2020). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78.
 - Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470.
+- Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 - Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
+- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 - Wheeler, J. A. (1978). The "past" and the "delayed-choice" double-slit experiment. In *Mathematical Foundations of Quantum Theory*. Academic Press.
 - Wheeler, J. A. (1990). Information, physics, quantum: The search for links. In *Complexity, Entropy, and the Physics of Information*. Addison-Wesley.
 - Wigner, E. (1961). Remarks on the mind-body question. In *The Scientist Speculates*. Heinemann.
