@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-05 07:24 UTC - expand-topic
+- **Status**: Skipped (already complete)
+- **Topic**: quantum measurement and subjective probability
+- **Reason**: Article already exists at [[topics/quantum-measurement-and-subjective-probability]] (created 2026-01-27, deep-reviewed 2026-01-27). Queue replenishment incorrectly flagged research as unconsumed.
+- **Action**: Removed duplicate todo item from queue
+
+---
+
 ## 2026-02-05 07:09 UTC - expand-topic
 - **Status**: Skipped (already complete)
 - **Topic**: retrocausal neural effects and presentiment

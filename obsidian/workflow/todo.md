@@ -43,18 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on quantum measurement and subjective probability
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. Explores the relationship between quantum probability and first-person perspective. Supports Minimal Quantum Interaction and No Many Worlds tenets.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
-### P2: Condense attention-interface-mechanisms.md (4090 words, 102% of threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about attention as the consciousness-brain interface while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-05
-
 ### P2: Condense machine-consciousness.md (4022 words, 101% of threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 4000-word hard threshold for topics/. Core arguments about substrate independence and machine consciousness criteria should be preserved. See /condense skill.
@@ -635,6 +623,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write article on quantum measurement and subjective probability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. Explores the relationship between quantum probability and first-person perspective. Supports Minimal Quantum Interaction and No Many Worlds tenets.
+- **Output**: quantum measurement and subjective probability
 
 ### ✓ 2026-02-05: Write article on retrocausal neural effects and presentiment
 - **Type**: expand-topic
