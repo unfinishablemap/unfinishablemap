@@ -4,7 +4,7 @@ description: "If consciousness biases quantum outcomes in the brain, why can't i
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-02-05T13:09:00+00:00
+ai_modified: 2026-02-05T15:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-05
 last_curated:
+last_deep_review: 2026-02-05T15:09:00+00:00
 ---
 
 If consciousness can bias quantum outcomes in the brain—as The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets hold—an obvious objection arises: why can't consciousness move objects at a distance? Why can't minds bias external random number generators, influence other people's thoughts, or bend spoons? If mind affects matter in the brain, what stops it from affecting matter everywhere?
@@ -56,13 +57,15 @@ Consciousness can only influence quantum outcomes within neural systems that are
 
 A distant random number generator isn't connected to your brain. You have no neural pathway to it, no sensory feedback from it, no representation of its quantum state. The mechanism that works for motor cortex neurons—repeated attentional observation stabilising desired patterns—has no analogue for external systems.
 
+(The Zeno mechanism faces decoherence objections in warm biological tissue—see [[decoherence]] for the debate. But notably, external systems face *even more severe* decoherence challenges than neural tissue, plus they lack the integration requirements described below.)
+
 ### Control Loop Integration
 
 The quantum Zeno mechanism requires that consciousness see the alternatives before selecting among them. Motor planning presents alternatives: reach left or reach right, speak or stay silent. These alternatives are neurally represented before selection occurs.
 
 External random events have no such representation. When a radioactive atom decays, your brain has no advance representation of "decay now" versus "decay later." When an RNG generates a bit, your brain doesn't model the quantum superposition before collapse. Without representation of alternatives, there's nothing for consciousness to select among.
 
-Stapp emphasises this requirement: "Prior to the choice to act there must be a representation in the brain of the intended consequences." This representation exists for motor actions. It doesn't exist for arbitrary external quantum events.
+Stapp emphasises this requirement: "Prior to the choice to act there must be a representation in the brain of the intended consequences" (Stapp, 2007). This representation exists for motor actions. It doesn't exist for arbitrary external quantum events.
 
 ### Developmental Integration
 
