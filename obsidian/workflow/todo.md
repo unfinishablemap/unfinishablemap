@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review hard-problem-of-consciousness.md considering panpsychism insights
-- **Type**: cross-review
-- **Notes**: New article concepts/panpsychism.md (2026-02-05) provides comprehensive treatment of panpsychism as alternative to substance dualism. Check hard-problem-of-consciousness.md for cross-links, ensure consistent treatment of why the Map rejects universal proto-experience distribution while accepting consciousness as fundamental.
-- **Source**: chain (from panpsychism.md)
-- **Generated**: 2026-02-05
-
 ### P2: Cross-review quantum-consciousness.md considering subjective probability insights
 - **Type**: cross-review
 - **Notes**: New article topics/quantum-measurement-and-subjective-probability.md (2026-02-05) explores the relationship between quantum probability and first-person perspective. Check quantum-consciousness.md for cross-links, reinforcing arguments about why consciousness might be necessary for definite outcomes.
@@ -659,6 +653,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Cross-review hard-problem-of-consciousness.md considering panpsychism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/panpsychism.md (2026-02-05) provides comprehensive treatment of panpsychism as alternative to substance dualism. Check hard-problem-of-consciousness.md for cross-links, ensure consistent treatment of why the Map rejects universal proto-experience distribution while accepting consciousness as fundamental.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering panpsychism insights
 
 ### ✓ 2026-02-05: Write article on collapse before minds in the early universe
 - **Type**: expand-topic
