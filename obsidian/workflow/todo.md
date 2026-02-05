@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review quantum-measurement-and-definite-outcomes.md considering new consciousness-quantum-measurement insights
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-and-quantum-measurement.md (2026-02-04) explores consciousness's role in quantum measurement. Check quantum-measurement-and-definite-outcomes.md for cross-links, reinforcing arguments, or potential tensions. Both articles address measurement problem from different angles.
-- **Source**: chain (from consciousness-and-quantum-measurement.md)
-- **Generated**: 2026-02-05
-
 ### P2: Review neural-quantum-coherence.md considering new quantum biology insights
 - **Type**: cross-review
 - **Notes**: New article topics/quantum-biology-and-the-consciousness-debate.md (2026-02-04) synthesizes recent evidence for quantum effects in neural systems. Check neural-quantum-coherence.md for cross-links, consistent terminology, and argument alignment.
@@ -605,6 +599,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Review quantum-measurement-and-definite-outcomes.md considering new consciousness-quantum-measurement insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-quantum-measurement.md (2026-02-04) explores consciousness's role in quantum measurement. Check quantum-measurement-and-definite-outcomes.md for cross-links, reinforcing arguments, or potential tensions. Both articles address measurement problem from different angles.
+- **Output**: obsidian/topics/quantum-measurement-and-definite-outcomes.md -- Context: Review quantum-measurement-and-definite-outcomes.md considering new consciousness-quantum-measurement insights
 
 ### ✓ 2026-02-05: Write article on delegatory dualism (Bradford Saad)
 - **Type**: expand-topic
