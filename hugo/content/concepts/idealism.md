@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-01-31 18:15:00+00:00
+ai_modified: 2026-02-05 04:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Consciousness is fundamental; matter is derivative or appearance. T
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-30 20:45:00+00:00
+last_deep_review: 2026-02-05 04:54:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -213,18 +213,3 @@ If forced to choose between idealism and physicalism, the Map would choose ideal
 - Berkeley, G. (1710). *A Treatise Concerning the Principles of Human Knowledge*.
 - Sprigge, T. (1983). *The Vindication of Absolute Idealism*. Edinburgh University Press.
 - Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
-
-<!-- AI REFINEMENT LOG - 2026-01-31
-Changes made:
-- Developed the phenomenological argument for otherness/resistance in "The Interaction Problem Under Idealism" section
-- Added new subsection "The Phenomenological Argument for Otherness" explaining why the Map prefers dualism (lines 77-93)
-- Acknowledged that this is a wager based on phenomenology, not a conclusive proof
-- Updated "Existentialist Support" section to reference the developed argument and fairly represent idealist responses
-- Revised "The Picture That Emerges" to remove question-begging language ("No genuine other")
-- Updated "Relation to Site Perspective" to frame the preference as phenomenological rather than definitional
-
-Based on pessimistic review 2026-01-31 identifying question-begging in dismissal of intra-mental interaction.
-Key improvement: The article now acknowledges idealism has relata (dissociated alters) and makes an independent phenomenological argument for preferring genuine ontological distinction.
-
-This log should be removed after human review.
--->

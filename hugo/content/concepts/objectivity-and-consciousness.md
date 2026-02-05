@@ -120,7 +120,7 @@ If consciousness affects quantum outcomes (the Minimal Quantum Interaction tenet
 
 This doesn't prove idealism (that reality is purely mental). The Map accepts a mind-independent physical base layer. But it suggests the interface between consciousness and physics may be where objectivity reaches its limit. At quantum measurement, perspective may matter in ways that resist elimination.
 
-## Why Not Idealism?
+## Why Not [Idealism](/concepts/idealism/)?
 
 Berkeley's subjective idealism denies mind-independent reality entirely: "to be is to be perceived" (*esse est percipi*). Objectivity is regularity in perception, not material substance. All reality is ideas in minds (ultimately God's mind in Berkeley's theology).
 

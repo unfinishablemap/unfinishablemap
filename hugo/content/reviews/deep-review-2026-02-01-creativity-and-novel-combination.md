@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-01
-**Article**: [Creativity and Novel Combination](/topics/creativity-and-novel-combination/)
+**Article**: [Creativity and Novel Combination](/archive/topics/creativity-and-novel-combination/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

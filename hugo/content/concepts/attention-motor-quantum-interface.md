@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-01-29 15:54:19+00:00
+ai_modified: 2026-02-05 03:24:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -150,6 +150,7 @@ This framework identifies *where* consciousness might influence brain states—a
 - [attention-as-interface](/concepts/attention-as-interface/) — The attention interface hypothesis
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism
 - [dopamine-selection-interface](/concepts/dopamine-selection-interface/) — Dopamine's role in threshold modulation
+- [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Comprehensive treatment of dopamine's preparatory role in conscious selection
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Decoherence and timing considerations
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of agents as causes
 

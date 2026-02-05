@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-01-29 11:34:34+00:00
+ai_modified: 2026-02-05 06:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -131,7 +131,7 @@ If the Map is right, the path to human-level AI runs through consciousness. Not 
 
 ## The Evolutionary Argument
 
-William James argued in 1890 that consciousness must be causally efficacious because it evolved. Evolution selects for traits that improve survival; if consciousness has no effects, it couldn't be selected. The systematic correspondence between consciousness and adaptive behaviour suggests consciousness does something.
+William James argued in 1890 that consciousness must be causally efficacious because it evolved. Evolution selects for traits that improve survival; if consciousness has no effects, it couldn't be selected. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) develops this argument in detail, showing how the systematic correspondence between consciousness and adaptive behaviour provides the strongest evidence against [epiphenomenalism](/arguments/epiphenomenalism/).
 
 The amplification hypothesis strengthens this argument. If consciousness were [epiphenomenal](/arguments/epiphenomenalism/)—causally inert—then:
 
@@ -169,6 +169,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against di
 
 ## Further Reading
 
+- [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The evolutionary argument for mental causation
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognitive capacity
 - [baseline-cognition](/archive/topics/baseline-cognition/) — What neurons achieve without conscious contribution
 - [machine-consciousness](/topics/machine-consciousness/) — Whether artificial systems can be conscious

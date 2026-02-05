@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-04 22:12:00+00:00
+ai_modified: 2026-02-05 06:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,23 +38,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate dopamine-and-the-unified-interface.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-04) has no inbound links. Covers dopamine's role in consciousness-quantum interface—how dopamine modulates the attention-motor-quantum coupling. Add cross-references from attention-interface-mechanisms.md, voluntary-attention.md, neural-implementation-specifics.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-05
-
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate working-memory-as-consciousness-amplifier.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-02) has no inbound links. Covers how working memory amplifies consciousness—central to understanding the functional role of phenomenal experience. Add cross-references from working-memory.md, global-workspace-theory.md, attention-and-consciousness.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
+### P2: Write article on retrocausal neural effects and presentiment
+- **Type**: expand-topic
+- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Controversial but rigorous topic—presentiment studies show anomalous anticipatory physiological responses. Connects to time-collapse-and-agency.md and supports No Many Worlds tenet by suggesting temporal directionality has experiential significance.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Write article on phenomenal binding and multimodal integration
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenal-binding-multimodal-integration-2026-01-23.md. How conscious experience unifies information across sensory modalities. Directly relevant to binding-problem.md and unity-of-consciousness.md. Supports Dualism tenet by showing binding resists physical explanation.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Write article on quantum measurement and subjective probability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. Explores the relationship between quantum probability and first-person perspective. Supports Minimal Quantum Interaction and No Many Worlds tenets.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Condense attention-interface-mechanisms.md (4090 words, 102% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about attention as the consciousness-brain interface while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-05
+
+### P2: Condense machine-consciousness.md (4022 words, 101% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Core arguments about substrate independence and machine consciousness criteria should be preserved. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-05
 
 ### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
 - **Type**: refine-draft
@@ -586,8 +604,100 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-04
 
+### P3: Write article on phenomenology of memory and the self
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05. How memory contributes to the sense of continuous selfhood; the tension between Buddhist impermanence and the phenomenology of personal persistence; what "I" refers to if no permanent substance underlies memory. Builds on temporal-consciousness.md, personal-identity.md, episodic-memory.md. See optimistic-2026-02-05.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Write article on consciousness and probability interpretation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05. If consciousness participates in collapse, what is the ontological status of quantum probabilities? Are they subjective (QBism), objective (propensities), or something new (the structure of the consciousness-physics interface)? Builds on consciousness-and-quantum-measurement.md, quantum-probability-consciousness.md. See optimistic-2026-02-05.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Write article on the phenomenology of moral experience
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05. What is it like to experience moral obligation, guilt, admiration? How does the phenomenology of moral experience support phenomenal value realism? Does moral phenomenology provide evidence for consciousness's irreducibility? Builds on moral-responsibility.md, phenomenal-value-realism.md, ethics-of-consciousness.md. See optimistic-2026-02-05.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Create concept page for subjective aim
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05. Whitehead's term appears in meaning-of-life.md but has no dedicated page. Could illuminate the Map's approach to value and purpose. See optimistic-2026-02-05.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Create concept page for temporal thickness / specious present
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05. Frequently referenced across consciousness articles but no dedicated treatment. Could integrate Husserl, James, and neuroscience on how consciousness extends through time. See optimistic-2026-02-05.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Create concept page for spontaneous intentional action
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05. The 2025 meta-analysis on conscious vs unconscious processing introduces this term. Could be developed into a concept page supporting the Map's view that consciousness initiates action. See optimistic-2026-02-05.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Integrate why-phenomenal-unity-resists-explanation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers why the binding problem resists physicalist explanation—phenomenal unity is a stubborn fact that supports dualism. Add cross-references from binding-problem.md, unity-of-consciousness.md, hard-problem-of-consciousness.md, arguments-for-dualism.md.
+- **Output**: obsidian/topics/why-phenomenal-unity-resists-explanation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-05: Integrate evolutionary-case-for-mental-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-05) has no inbound links. Covers evolutionary evidence for mental causation—how the correlation between phenomenology and behavior suggests consciousness has causal efficacy. Central to Bidirectional Interaction tenet. Add cross-references from consciousness-and-intelligence.md, evolution-of-consciousness.md, epiphenomenalism.md, baseline-cognition.md.
+- **Output**: obsidian/topics/evolutionary-case-for-mental-causation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-05: Condense materialism.md (3788 words, 152% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word soft threshold for concepts/. Currently 3788 words. Preserve core arguments against physicalist accounts of consciousness while removing redundancy. Focus on the most compelling arguments and defer detailed rebuttals to linked articles.
+- **Output**: obsidian/concepts/materialism.md
+
+### ✓ 2026-02-05: Cross-review attention-interface-mechanisms.md considering dopamine insights
+- **Type**: cross-review
+- **Notes**: New article dopamine-and-the-unified-interface.md may provide insights relevant to attention-interface-mechanisms.md. Check for cross-links, reinforcing arguments about how attention modulates the consciousness-brain interface, and ensure consistent treatment of motor system involvement.
+- **Output**: obsidian/topics/attention-interface-mechanisms.md -- Context: Cross-review attention-interface-mechanisms.md considering dopamine insights
+
+### ✓ 2026-02-05: Integrate dopamine-and-the-unified-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Recently created topic article (2026-02-04) on dopamine's role in attention-motor-quantum selection has no inbound links. Add cross-references from attention-interface-mechanisms.md, voluntary-attention.md, motor-consciousness.md, and quantum-consciousness.md.
+- **Output**: obsidian/topics/dopamine-and-the-unified-interface.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-05: Integrate idealism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Core concept article has no inbound links. Idealism is a major alternative to dualism that deserves engagement. Add cross-references from dualism.md, panpsychism.md, hard-problem-of-consciousness.md, and analytic-idealism.md.
+- **Output**: obsidian/concepts/idealism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-05: Write article on consciousness and creativity mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-creativity-novelty-generation-2026-01-19.md. Distinct from existing creativity-and-novel-combination.md (covers results) and creativity-void.md (covers limits). This covers the mechanism: Bergson's creative duration, default mode network generation vs executive selection, how consciousness both generates and selects. Supports Bidirectional Interaction.
+- **Output**: consciousness and creativity mechanisms
+
+### ✓ 2026-02-05: Write article on consciousness's causal role in intelligence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-influence-intelligence-2026-01-21.md. Evidence shows consciousness enables flexible responses, logical reasoning, counterfactual thinking, planning, cumulative culture. Directly supports Bidirectional Interaction tenet by demonstrating consciousness's causal efficacy in cognitive evolution.
+- **Output**: consciousness's causal role in intelligence
+
+### ✓ 2026-02-05: Integrate working-memory-as-consciousness-amplifier.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-02) has no inbound links. Covers how working memory amplifies consciousness—central to understanding the functional role of phenomenal experience. Add cross-references from working-memory.md, global-workspace-theory.md, attention-and-consciousness.md.
+- **Output**: working-memory-as-consciousness-amplifier.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-05: Integrate dopamine-and-the-unified-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-04) has no inbound links. Covers dopamine's role in consciousness-quantum interface—how dopamine modulates the attention-motor-quantum coupling. Add cross-references from attention-interface-mechanisms.md, voluntary-attention.md, neural-implementation-specifics.md.
+- **Output**: obsidian/topics/dopamine-and-the-unified-interface.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-05: Condense functionalism.md (4250 words, 170% of target)
 - **Type**: condense

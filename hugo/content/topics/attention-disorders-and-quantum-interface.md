@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-04 04:20:00+00:00
+ai_modified: 2026-02-05 03:24:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -200,6 +200,7 @@ The materialist might argue that attention disorders show attention is "just" ne
 - [voluntary-attention](/concepts/voluntary-attention/) — Neural signatures distinguishing willed from automatic attention
 - [mental-effort](/concepts/mental-effort/) — Why attention feels effortful and what effort signifies
 - [dopamine-selection-interface](/concepts/dopamine-selection-interface/) — Dopamine's role in threshold modulation
+- [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Salience bridge, tonic/phasic modes, and what Parkinson's reveals about the interface
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — How consciousness might select among neural options
 
 ## References

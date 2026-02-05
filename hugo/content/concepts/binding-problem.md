@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-04 10:35:00+00:00
+ai_modified: 2026-02-05 07:01:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -101,6 +101,8 @@ Treisman's feature integration theory proposes that attention acts as the "glue"
 These theories address BP1 (computational binding) but not BP2 (phenomenal unity). Global availability is a functional property; phenomenal unity is experiential. Saying unity equals integration doesn't explain *why* integration produces unity—it relocates rather than solves the hard problem.
 
 ### Why BP2 Remains Unsolved
+
+For the structural argument that BP2 cannot be solved by classical mechanisms—and why the mismatch between physical relations and phenomenal unity may be principled rather than merely a gap in current knowledge—see [Why Phenomenal Unity Resists Physical Explanation](/topics/why-phenomenal-unity-resists-explanation/).
 
 Even perfect temporal synchrony doesn't explain phenomenal unity. Suppose we discover that neurons representing red, round, and moving all fire at exactly 40 Hz in phase when you see the bouncing ball. This tells us *when* they're coordinated, but not *why* coordination produces unified experience.
 

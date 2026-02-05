@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-02-04 04:20:00+00:00
+ai_modified: 2026-02-05 03:24:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -210,6 +210,7 @@ This neural distinctiveness matters philosophically. If consciousness contribute
 - [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) — How PMTA unifies attention and motor selection
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from decoherence to neural decisions
 - [motor-selection](/concepts/motor-selection/) — Parallel evidence from voluntary motor control
+- [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Why dopamine serves both attention and motor systems—because they are one
 - [mental-effort](/concepts/mental-effort/) — Phenomenology of effort and the quantum Zeno mechanism
 - [libet-experiments](/concepts/libet-experiments/) — Parallel challenges from readiness potential research
 - [decoherence](/concepts/decoherence/) — The challenge of quantum coherence in biological systems

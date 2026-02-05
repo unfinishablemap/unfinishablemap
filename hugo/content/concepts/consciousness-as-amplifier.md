@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-02-02 03:45:00+00:00
+ai_modified: 2026-02-05 06:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -111,7 +111,7 @@ The Bischof-Köhler hypothesis suggests animals cannot act on drive states they 
 
 ## The Evolutionary Argument
 
-William James argued in 1890 that consciousness must be causally efficacious to be selected by evolution. The amplification hypothesis strengthens this argument.
+William James argued in 1890 that consciousness must be causally efficacious to be selected by evolution. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) develops this argument formally; the amplification hypothesis strengthens it with empirical evidence.
 
 If consciousness were [epiphenomenal](/arguments/epiphenomenalism/)—causally inert—then:
 1. Human-level intelligence should be achievable through neural complexity alone
@@ -222,6 +222,7 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 
 ## Further Reading
 
+- [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The formal evolutionary argument for mental causation
 - [baseline-cognition](/archive/topics/baseline-cognition/) — What neural systems achieve without conscious amplification
 - [working-memory](/concepts/working-memory/) — The neural workspace where amplification operates; maintenance/manipulation distinction
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness engages neural systems

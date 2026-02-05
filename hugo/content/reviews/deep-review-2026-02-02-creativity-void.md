@@ -54,7 +54,7 @@ None. The article contains no factual errors, attribution errors, or internal co
 
 **Outbound links added to creativity-void.md:**
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — In concepts frontmatter and Further Reading
-- [creativity-and-novel-combination](/topics/creativity-and-novel-combination/) — In related_articles and Further Reading
+- [creativity-and-novel-combination](/archive/topics/creativity-and-novel-combination/) — In related_articles and Further Reading
 - [default-mode-network](/concepts/default-mode-network/) — Inline link in Process Void section
 - [agent-causation](/concepts/agent-causation/) — In concepts frontmatter and Further Reading
 - [free-will](/topics/free-will/) — In related_articles and Further Reading
@@ -62,7 +62,7 @@ None. The article contains no factual errors, attribution errors, or internal co
 
 **Inbound links added FROM other articles:**
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Added paragraph connecting to creativity void and Further Reading link
-- [creativity-and-novel-combination](/topics/creativity-and-novel-combination/) — Added inline link in Bergson section and Further Reading link
+- [creativity-and-novel-combination](/archive/topics/creativity-and-novel-combination/) — Added inline link in Bergson section and Further Reading link
 - [the-unobservable-self](/voids/the-unobservable-self/) — Added inline link noting structural parallel
 - [voids](/voids/) — Added to "Specific Voids" navigation section
 - [free-will](/topics/free-will/) — Added inline link in creativity section

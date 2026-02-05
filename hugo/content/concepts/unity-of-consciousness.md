@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-28 17:46:00+00:00
+ai_modified: 2026-02-05 07:01:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -96,6 +96,8 @@ These often coincide but are conceptually distinct. A system could (arguably) ha
 The distinction matters because most neuroscientific theories of consciousness explain access unity without addressing phenomenal unity. They explain how information becomes globally available, not why global availability produces unified experience rather than parallel processing without a subject.
 
 ## Why Unity Is Puzzling
+
+For the extended argument that phenomenal unity systematically resists physical explanation—examining why synchrony, integration, and global workspace theories all fail for structural reasons rather than merely empirical gaps—see [Why Phenomenal Unity Resists Physical Explanation](/topics/why-phenomenal-unity-resists-explanation/).
 
 The puzzle is not that experience *seems* unified but that it *is* unified. Several considerations make this puzzling:
 

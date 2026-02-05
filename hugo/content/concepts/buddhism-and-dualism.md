@@ -125,7 +125,7 @@ Several responses are available:
 
 **Madhyamaka resolution**: The Madhyamaka ("Middle Way") school denies inherent existence to both mind and matter without reducing either to the other. Mind and matter are empty of independent essence but conventionally real and distinct. Interaction between empty phenomena is unproblematic.
 
-**Restricted dualism**: the Map's dualism is between consciousness and *physical descriptions*. It claims phenomenal properties don't reduce to physical descriptions. This is compatible with both physical realism and idealism—either way, the gap between experience and physical description persists.
+**Restricted dualism**: the Map's dualism is between consciousness and *physical descriptions*. It claims phenomenal properties don't reduce to physical descriptions. This is compatible with both physical realism and [idealism](/concepts/idealism/)—either way, the gap between experience and physical description persists.
 
 ## Comparative Advantages
 

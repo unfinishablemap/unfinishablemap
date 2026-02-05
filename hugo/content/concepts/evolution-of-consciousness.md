@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-02-04 10:14:00+00:00
+ai_modified: 2026-02-05 06:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -71,7 +71,7 @@ If consciousness evolved, it presumably conferred adaptive advantages. But here 
 
 ### The Epiphenomenalist Challenge
 
-[Epiphenomenalism](/arguments/epiphenomenalism/) holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. If true, natural selection couldn't favour consciousness directly. Experience would be a free rider on neural complexity, evolving not because it helps but because the neural processes that produce it help.
+[Epiphenomenalism](/arguments/epiphenomenalism/) holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. If true, natural selection couldn't favour consciousness directly. Experience would be a free rider on neural complexity, evolving not because it helps but because the neural processes that produce it help. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) argues that this position is untenable: if consciousness evolved through selection, it must have had effects for selection to act on.
 
 This creates a puzzle. We have complex cognitive systems that *seem* designed to process phenomenal information: memory systems that store experiences, attention that selects based on felt salience, emotional systems whose felt valence guides behaviour. If consciousness does nothing, this apparent design is illusory.
 
@@ -215,6 +215,7 @@ Scientific humility requires specifying what would count against one's view.
 
 ## Further Reading
 
+- [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The argument that consciousness must be causally efficacious to be selected
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognitive capacity and the baseline cognition hypothesis
 - [minimal-consciousness](/archive/concepts/minimal-consciousness/) — How little neural complexity can support consciousness?
 - [animal-consciousness](/topics/animal-consciousness/) — The question of which creatures are conscious

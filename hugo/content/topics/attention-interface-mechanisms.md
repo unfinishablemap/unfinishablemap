@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 05:38:00+00:00
+ai_modified: 2026-02-05 05:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ description: The unified attention-motor substrate where consciousness selects a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 05:38:00+00:00
+last_deep_review: 2026-02-05 05:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -113,7 +113,7 @@ The Penrose-Hameroff orchestrated objective reduction (Orch OR) hypothesis locat
 
 **Challenges:** Even revised estimates remain controversial—Tegmark's original calculations are still defended by many physicists, and the corrected parameters Hameroff's group uses are contested. Orch OR proposes a specific collapse mechanism (gravitational self-reduction) that differs from standard quantum mechanics and remains untested.
 
-**Relation to attention:** Orch OR doesn't specifically address attention's role. One integration: attention might determine which microtubule ensembles undergo coordinated collapse—selecting the "orchestration" pattern.
+**Relation to attention:** Attention might determine which microtubule ensembles undergo coordinated collapse—selecting the "orchestration" pattern.
 
 ### The Posterior-Frontal Junction
 
@@ -148,7 +148,7 @@ If true, attention might determine which microcolumn coherence patterns are sust
 
 The brain doesn't compute single decisions serially. Research by Paul Cisek demonstrates that when faced with choices, the motor system represents multiple options simultaneously. In premotor cortex, 43% of task-related neurons fired for either of two potential reach targets—encoding both before selection occurred.
 
-This parallel representation is what makes selection meaningful. If the brain generated only one option at a time, there would be nothing to choose among. The existence of competing representations creates the space for selection—and raises the question of what does the selecting.
+This parallel representation creates the space for selection—and raises the question of what does the selecting.
 
 ### Threshold Crossing
 
@@ -168,7 +168,7 @@ If genuinely indeterminate, something must resolve the indeterminacy. Pure rando
 
 A 2024 *Nature* study reveals a striking dissociation. Dopamine-deficient mice retain motor capacity—the circuitry for movement is intact. But they lose goal-directed initiative. They "can move" but "won't move."
 
-This suggests dopamine functions not as motor fuel but as something that sets the threshold for selection. The mice can move if externally triggered; what they lack is the internal drive that makes movement happen.
+This suggests dopamine sets the threshold for selection rather than providing motor fuel. The mice can move if externally triggered; what they lack is the internal drive that makes movement happen.
 
 ### Three-Layer Architecture
 
@@ -178,16 +178,16 @@ The research suggests a three-layer model for motor selection:
 2. **Dopamine** sets the threshold sensitivity and marks options as salient—worth pursuing
 3. **Consciousness** (via quantum selection) determines which option crosses threshold
 
-Dopamine doesn't cause movement; it tags what matters. Consciousness doesn't generate options; it selects among tagged options. The architecture satisfies the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness doesn't inject energy—it biases which accumulating option wins.
+Dopamine doesn't cause movement; it tags what matters. Consciousness doesn't generate options; it selects among tagged options. A 2025 "learning primacy hypothesis" proposes that dopamine's primary role is shaping circuits over time rather than real-time modulation—which actually strengthens this division of labor: dopamine builds and maintains the selection apparatus; something else performs the selection. The architecture satisfies the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness doesn't inject energy—it biases which accumulating option wins.
 
 ### Tonic vs Phasic Signaling
 
-The 2024 research further distinguishes tonic (slow, background) from phasic (rapid, event-locked) dopamine:
+The 2024 research distinguishes tonic (slow, background) from phasic (rapid, event-locked) dopamine:
 
 - **Tonic dopamine** supports baseline motor capacity—the ability to move at all
 - **Phasic dopamine** drives motivation and reward-seeking—the desire to pursue
 
-This maps onto the selection architecture. Tonic dopamine maintains the general capacity for threshold-crossing. Phasic dopamine modulates which specific options are marked as worth pursuing. Consciousness operates at the level of phasic selection—choosing among options already tagged as salient.
+Tonic dopamine maintains the general capacity for threshold-crossing. Phasic dopamine modulates which options are marked as worth pursuing. A 2024 *Brain* study found that dopamine promotes theta rhythms (4-10 Hz)—the same frequency band associated with willed attention. This suggests dopamine prepares the neural timing substrate within which selection occurs. Consciousness operates at the level of phasic selection—choosing among options already tagged as salient, within theta-defined timing windows.
 
 ## Timing Constraints
 
@@ -227,7 +227,7 @@ If attention is motor planning, the Zeno mechanism applies directly to motor sel
 
 ### Why Effort Feels Effortful
 
-This framework explains the phenomenology. Sustaining motor intention feels effortful for the same reason sustaining attention feels effortful: both require continuous engagement to maintain Zeno freezing. The effort is real cognitive work—maintaining the observation rate that keeps the selected pattern from dissipating.
+This explains why sustaining motor intention feels effortful for the same reason sustaining attention does: both require continuous engagement to maintain Zeno freezing—real cognitive work maintaining the observation rate that keeps the selected pattern from dissipating.
 
 William James observed that "volition is nothing but attention" and "the free will question relates solely to the amount of effort of attention." Stapp's framework vindicates James: effort corresponds to observation rapidity.
 
@@ -248,7 +248,7 @@ This bandwidth constraint is consistent with all candidate mechanisms. Whether s
 
 Benjamin Libet's 1983 experiments found that the readiness potential (RP)—neural activity in motor cortex—begins ~550ms before movement, while conscious awareness of intention occurs only ~200ms before. This seemed to show the brain "decides" before we're aware.
 
-The challenge to free will appeared direct: if neural activity precedes conscious awareness, consciousness arrives too late to cause anything.
+If neural activity precedes conscious awareness, consciousness seems to arrive too late to cause anything.
 
 ### The Stochastic Reinterpretation
 
@@ -260,7 +260,7 @@ What appears to be "the brain deciding" may be neural noise accumulating until t
 
 Sjöberg (2024) provides surgical evidence: patients with resection of the supplementary motor area (SMA)—the region generating the RP—retain their sense of voluntary action. If the RP reflected genuine volition, removing it should impair the sense of willing. It doesn't. The findings, Sjöberg concludes, are "completely irrelevant to the neuroscientific discussion about free will."
 
-The Libet challenge has been substantially weakened. The space for conscious contribution remains open.
+The Libet challenge has been substantially weakened.
 
 ## The Intention-Execution Dissociation
 
@@ -384,6 +384,7 @@ The Map doesn't commit to a specific mechanism. The commitment is to the framewo
 
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis stated and developed
 - [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) — Detailed concept treatment of the unified interface
+- [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine's dual role in attention and motor planning
 - [motor-selection](/concepts/motor-selection/) — Motor selection and premotor theory in depth
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum approaches
@@ -414,18 +415,20 @@ The Map doesn't commit to a specific mechanism. The commitment is to the framewo
 
 8. Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Nature*, 642(8066), 133-142.
 
-9. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
+9. Neumann, W.J., et al. (2024). Dopamine and deep brain stimulation accelerate the neural dynamics of volitional action in Parkinson's disease. *Brain*, 147(9), 3087-3101.
 
-10. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
+10. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
 
-11. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
+11. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 
-12. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
+12. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 
-13. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+13. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
 
-14. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+14. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 
-15. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
+15. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 
-16. Wise, S.P., & Murray, E.A. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
+16. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
+
+17. Wise, S.P., & Murray, E.A. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.

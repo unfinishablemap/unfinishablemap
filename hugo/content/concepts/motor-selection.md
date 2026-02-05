@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-01-29 18:15:00+00:00
+ai_modified: 2026-02-05 03:24:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -196,6 +196,7 @@ This framework identifies *where* consciousness might influence motor selection�
 - [voluntary-attention](/concepts/voluntary-attention/) — Neural signatures of willed attention
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis foundation
 - [dopamine-selection-interface](/concepts/dopamine-selection-interface/) — Dopamine's role in selection thresholds
+- [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the unified attention-motor system for conscious selection
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of choosing
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis of readiness potential experiments
 - [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — The decoherence challenge and responses

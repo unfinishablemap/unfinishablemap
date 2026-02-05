@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-02 21:12:00+00:00
+ai_modified: 2026-02-05 06:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -172,7 +172,7 @@ If consciousness causes physical effects, why only in *this* brain? The [pairing
 
 ## The Self-Stultification Argument
 
-The strongest positive argument for mental causation is the self-stultification problem. The [formal argument against epiphenomenalism](/arguments/epiphenomenalism/) presents this in rigorous form:
+The strongest positive argument for mental causation is the self-stultification problem. The [evolutionary case](/topics/evolutionary-case-for-mental-causation/) provides complementary support: if consciousness evolved through natural selection, it must have had causal effects on behaviour—otherwise there would be nothing for selection to act on. The [formal argument against epiphenomenalism](/arguments/epiphenomenalism/) presents this in rigorous form:
 
 1. We discuss consciousness—we write about qualia, debate the hard problem, report our experiences
 2. If epiphenomenalism is true, these discussions are not caused by consciousness itself
@@ -228,6 +228,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 
 ## Further Reading
 
+- [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The evolutionary argument that consciousness must have causal effects to be selected
 - [psychophysical-laws-framework](/topics/psychophysical-laws-framework/) — Integrated overview of the framework requiring selection laws for mental causation
 - [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws: how mental states select physical outcomes
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — Five candidate mechanisms specifying how mental causation might work at the neural interface
