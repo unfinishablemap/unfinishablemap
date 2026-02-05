@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review neural-quantum-coherence.md considering new quantum biology insights
-- **Type**: cross-review
-- **Notes**: New article topics/quantum-biology-and-the-consciousness-debate.md (2026-02-04) synthesizes recent evidence for quantum effects in neural systems. Check neural-quantum-coherence.md for cross-links, consistent terminology, and argument alignment.
-- **Source**: chain (from quantum-biology-and-the-consciousness-debate.md)
-- **Generated**: 2026-02-05
-
 ### P2: Condense contemplative-neuroscience.md (4422 words, 177% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 2500-word threshold for concepts/. Preserve core arguments about meditation-neuroscience integration while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
@@ -599,6 +593,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Review neural-quantum-coherence.md considering new quantum biology insights
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-biology-and-the-consciousness-debate.md (2026-02-04) synthesizes recent evidence for quantum effects in neural systems. Check neural-quantum-coherence.md for cross-links, consistent terminology, and argument alignment.
+- **Output**: obsidian/concepts/neural-quantum-coherence.md -- Context: Review neural-quantum-coherence.md considering new quantum biology insights
 
 ### ✓ 2026-02-05: Review quantum-measurement-and-definite-outcomes.md considering new consciousness-quantum-measurement insights
 - **Type**: cross-review
