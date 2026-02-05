@@ -196,7 +196,7 @@ def post_tweet(
 
         response = client.create_tweet(text=tweet_text)
         tweet_id = response.data["id"]
-        tweet_url = f"https://x.com/i/web/status/{tweet_id}"
+        tweet_url = f"https://x.com/unfinishablemap/status/{tweet_id}"
 
         logger.info(f"Posted tweet: {tweet_url}")
         return TweetResult(

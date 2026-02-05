@@ -29,6 +29,11 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-04
 last_curated:
+archived: true
+archived_date: 2026-02-05T18:28:00+00:00
+superseded_by: "/topics/quantum-measurement-consciousness-interface/"
+archive_reason: "Coalesced into Quantum Measurement and the Consciousness Interface"
+original_path: "/topics/consciousness-and-quantum-measurement/"
 ---
 
 The [[measurement-problem|measurement problem]] and the [[hard-problem-of-consciousness|hard problem of consciousness]] share a deep structure: both concern the point where first-person facts enter third-person descriptions. Physics describes quantum systems evolving deterministically until measurement, when a single definite outcome appears—but doesn't explain why *this* outcome rather than another, or why there's a subject to observe it. The hard problem asks why physical processes are accompanied by experience at all. The Unfinishable Map proposes these aren't separate puzzles but two faces of the same interface where consciousness meets physical reality.

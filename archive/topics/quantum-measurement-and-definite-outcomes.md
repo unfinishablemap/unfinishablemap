@@ -27,6 +27,11 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
+archived: true
+archived_date: 2026-02-05T18:28:00+00:00
+superseded_by: "/topics/quantum-measurement-consciousness-interface/"
+archive_reason: "Coalesced into Quantum Measurement and the Consciousness Interface"
+original_path: "/topics/quantum-measurement-and-definite-outcomes/"
 ---
 
 Quantum mechanics accurately predicts the *probabilities* of measurement outcomes but offers no explanation for why exactly *one* outcome occurs. Before measurement, a quantum system exists in superposition—multiple possibilities coexisting. After measurement, we find a single definite result. What converts "and" to "or"? Physics doesn't say. This explanatory gap—the transition from statistical mixture to singular actuality—is precisely where consciousness might participate in determining physical reality.
