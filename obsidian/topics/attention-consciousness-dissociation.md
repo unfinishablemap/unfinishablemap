@@ -1,10 +1,10 @@
 ---
 title: "The Attention-Consciousness Dissociation"
-description: "Attention and consciousness can come apart—you can attend without awareness and be aware without attending. This split reveals consciousness as irreducible to any functional mechanism."
+description: "Attention and consciousness can come apart—you can attend without awareness and be aware without attending. This dissociation suggests consciousness is something over and above attentional mechanisms."
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-02-05T17:43:00+00:00
+ai_modified: 2026-02-05T17:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,7 +14,9 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[functionalism]]"
   - "[[illusionism]]"
+  - "[[heterophenomenology]]"
   - "[[integrated-information-theory]]"
+  - "[[mental-effort]]"
   - "[[qualia]]"
   - "[[phenomenal-consciousness]]"
 related_articles:
@@ -26,6 +28,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-05
 last_curated:
+last_deep_review: 2026-02-05T17:58:00+00:00
 ---
 
 Attention and consciousness can come apart. Blindsight patients orient toward stimuli they deny seeing—attention without awareness. Peripheral vision delivers conscious experience without focal attention—awareness without attending. This empirical dissociation carries philosophical weight: if consciousness were identical to attention, or if attention were necessary and sufficient for consciousness, these splits would be impossible. The dissociation evidence suggests consciousness is something over and above attentional mechanisms—supporting [[tenets#^dualism|dualist]] conclusions about the irreducibility of experience.
@@ -34,7 +37,7 @@ This article examines what the dissociation debate means for theories of conscio
 
 ## The Four Cases
 
-Koch and Tsuchiya's 2006 framework organises the evidence into four possibilities:
+Koch and Tsuchiya's 2007 framework organises the evidence into four possibilities:
 
 | Attention | Consciousness | Example |
 |-----------|---------------|---------|
@@ -131,7 +134,7 @@ Dissociation evidence challenges this. If consciousness can occur without the fu
 
 ### Against Illusionism
 
-[[Illusionism]] argues there's nothing it's like to have experiences—the "seeming" of phenomenal consciousness is itself just more functional processing.
+[[Illusionism]] argues there's nothing it's like to have experiences—the "seeming" of phenomenal consciousness is itself just more functional processing. On Dennett's [[heterophenomenology|heterophenomenological]] approach, we should treat consciousness reports as data without assuming they accurately describe inner states.
 
 But dissociation evidence reveals something that dissociates. If consciousness and attention were both just information processing, what distinguishes them? Why would two information-processing mechanisms come apart in the specific ways observed—with one (attention) operating on stimuli that lack the other (consciousness)?
 
@@ -145,7 +148,7 @@ This isn't proof of dualism—the evidence is compatible with various views—bu
 
 ## The Effort Question
 
-One phenomenon particularly resists deflationary analysis: the felt effort of attention.
+One phenomenon particularly resists deflationary analysis: the [[mental-effort|felt effort of attention]].
 
 When you sustain focus against distraction, something works. The experience of effortful attention—holding concentration, redirecting attention when it wanders—has a distinctive phenomenal character. Even philosophers who intellectually accept eliminativism about consciousness report that attention *still feels* effortful.
 
