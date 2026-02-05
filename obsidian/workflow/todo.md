@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-04T22:12:00+00:00
+ai_modified: 2026-02-05T03:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -48,6 +48,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Topics article (2026-02-02) has no inbound links. Covers how working memory amplifies consciousness—central to understanding the functional role of phenomenal experience. Add cross-references from working-memory.md, global-workspace-theory.md, attention-and-consciousness.md.
 - **Source**: orphan_integration
 - **Generated**: 2026-02-04
+
+### P2: Write article on consciousness's causal role in intelligence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-influence-intelligence-2026-01-21.md. Evidence shows consciousness enables flexible responses, logical reasoning, counterfactual thinking, planning, cumulative culture. Directly supports Bidirectional Interaction tenet by demonstrating consciousness's causal efficacy in cognitive evolution.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Write article on consciousness and creativity mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-creativity-novelty-generation-2026-01-19.md. Distinct from existing creativity-and-novel-combination.md (covers results) and creativity-void.md (covers limits). This covers the mechanism: Bergson's creative duration, default mode network generation vs executive selection, how consciousness both generates and selects. Supports Bidirectional Interaction.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Integrate idealism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Core concept article has no inbound links. Idealism is a major alternative to dualism that deserves engagement. Add cross-references from dualism.md, panpsychism.md, hard-problem-of-consciousness.md, and analytic-idealism.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-05
+
+### P2: Integrate dopamine-and-the-unified-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Recently created topic article (2026-02-04) on dopamine's role in attention-motor-quantum selection has no inbound links. Add cross-references from attention-interface-mechanisms.md, voluntary-attention.md, motor-consciousness.md, and quantum-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-05
+
+### P2: Cross-review attention-interface-mechanisms.md considering dopamine insights
+- **Type**: cross-review
+- **Notes**: New article dopamine-and-the-unified-interface.md may provide insights relevant to attention-interface-mechanisms.md. Check for cross-links, reinforcing arguments about how attention modulates the consciousness-brain interface, and ensure consistent treatment of motor system involvement.
+- **Source**: chain (from dopamine-and-the-unified-interface.md)
+- **Generated**: 2026-02-05
+
+### P2: Condense materialism.md (3788 words, 152% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word soft threshold for concepts/. Currently 3788 words. Preserve core arguments against physicalist accounts of consciousness while removing redundancy. Focus on the most compelling arguments and defer detailed rebuttals to linked articles.
+- **Source**: length_analysis
+- **Generated**: 2026-02-05
 
 ### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
 - **Type**: refine-draft
