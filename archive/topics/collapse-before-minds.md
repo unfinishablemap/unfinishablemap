@@ -28,6 +28,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-05
 last_curated:
 last_deep_review: 2026-02-05T10:39:00+00:00
+archived: true
+archived_date: 2026-02-05T11:09:00+00:00
+superseded_by: "/concepts/prebiotic-collapse/"
+archive_reason: "Coalesced into Prebiotic Collapse: What Selected Outcomes Before Minds?"
+original_path: "/topics/collapse-before-minds/"
 ---
 
 Stars ignited, heavy elements formed in supernovae, chemistry produced the molecules of life—all through quantum processes that required definite outcomes. Yet according to some interpretations, quantum systems remain in superposition until observed by consciousness. The Unfinishable Map holds that [[tenets#^bidirectional-interaction|consciousness participates in collapse]] within neural systems. But the early universe poses a sharp question: what selected outcomes during 13.8 billion years before any mind existed?

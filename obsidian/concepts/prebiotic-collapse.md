@@ -2,10 +2,12 @@
 title: "Prebiotic Collapse: What Selected Outcomes Before Minds?"
 description: "How quantum wave functions collapsed before conscious observers existed. Objective reduction provides baseline collapse; consciousness modulates."
 created: 2026-01-16
-modified: 2026-01-16
+modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-02-05T01:09:00+00:00
+ai_modified: 2026-02-05T11:09:00+00:00
 draft: false
+coalesced_from:
+  - "/topics/collapse-before-minds/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -97,6 +99,14 @@ The [[many-worlds|Many-Worlds Interpretation]] claims to dissolve the prebiotic 
 This is not a solution but a different problem. MWI trades the prebiotic collapse question for the [[haecceity|indexical identity question]]: why am I *this* observer in *this* branch? If all branches are equally real and all observers equally exist, the question of "which outcome" merely relocates to "which me." The explanatory burden shifts from physics to metaphysics without genuine progress.
 
 Moreover, MWI eliminates the causal role for consciousness entirely. The Map holds that consciousness participates in determining physical outcomes—that [[mental-causation]] is real. MWI explicitly denies this: outcomes occur regardless of consciousness; the appearance of selection is illusion. Far from solving the prebiotic problem, MWI dissolves the framework within which consciousness matters at all.
+
+## Cosmological Evidence for Early-Universe Collapse
+
+The first 380,000 years after the Big Bang left an observable record: the cosmic microwave background (CMB). Its pattern of temperature fluctuations—quantum fluctuations stretched to cosmic scales during inflation—shows definite structure. If these fluctuations had remained in superposition until conscious observation 13.8 billion years later, the CMB would be philosophically problematic: our present observations would be creating the early-universe conditions that produced us.
+
+Wheeler's framework could accommodate this—retrocausal selection of cosmic history. But the more conservative interpretation: these quantum fluctuations collapsed through objective processes, not through observation. The CMB's definiteness is evidence that collapse occurred long before minds.
+
+Similarly, stellar nucleosynthesis—the quantum processes that created carbon, oxygen, and heavier elements in stellar cores—required definite outcomes. Quantum tunneling rates in stellar fusion are measured, reproducible, classical. Something selected outcomes; it wasn't human consciousness.
 
 ## The Map's Position: Objective Reduction with Consciousness Modulation
 
