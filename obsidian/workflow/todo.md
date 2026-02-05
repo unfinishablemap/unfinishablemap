@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-05T05:54:00+00:00
+ai_modified: 2026-02-05T06:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -47,6 +47,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-01) has no inbound links. Covers why the binding problem resists physicalist explanation—phenomenal unity is a stubborn fact that supports dualism. Add cross-references from binding-problem.md, unity-of-consciousness.md, hard-problem-of-consciousness.md, arguments-for-dualism.md.
 - **Source**: orphan_integration
+- **Generated**: 2026-02-05
+
+### P2: Write article on retrocausal neural effects and presentiment
+- **Type**: expand-topic
+- **Notes**: Research completed in research/retrocausal-neural-firing-presentiment-2026-01-23.md. Controversial but rigorous topic—presentiment studies show anomalous anticipatory physiological responses. Connects to time-collapse-and-agency.md and supports No Many Worlds tenet by suggesting temporal directionality has experiential significance.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Write article on phenomenal binding and multimodal integration
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenal-binding-multimodal-integration-2026-01-23.md. How conscious experience unifies information across sensory modalities. Directly relevant to binding-problem.md and unity-of-consciousness.md. Supports Dualism tenet by showing binding resists physical explanation.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Write article on quantum measurement and subjective probability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. Explores the relationship between quantum probability and first-person perspective. Supports Minimal Quantum Interaction and No Many Worlds tenets.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Condense attention-interface-mechanisms.md (4090 words, 102% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about attention as the consciousness-brain interface while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-05
+
+### P2: Condense machine-consciousness.md (4022 words, 101% of threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Core arguments about substrate independence and machine consciousness criteria should be preserved. See /condense skill.
+- **Source**: length_analysis
 - **Generated**: 2026-02-05
 
 ### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
