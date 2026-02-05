@@ -609,6 +609,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-04
 
+### P3: Write article on phenomenology of memory and the self
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05. How memory contributes to the sense of continuous selfhood; the tension between Buddhist impermanence and the phenomenology of personal persistence; what "I" refers to if no permanent substance underlies memory. Builds on temporal-consciousness.md, personal-identity.md, episodic-memory.md. See optimistic-2026-02-05.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Write article on consciousness and probability interpretation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05. If consciousness participates in collapse, what is the ontological status of quantum probabilities? Are they subjective (QBism), objective (propensities), or something new (the structure of the consciousness-physics interface)? Builds on consciousness-and-quantum-measurement.md, quantum-probability-consciousness.md. See optimistic-2026-02-05.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Write article on the phenomenology of moral experience
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05. What is it like to experience moral obligation, guilt, admiration? How does the phenomenology of moral experience support phenomenal value realism? Does moral phenomenology provide evidence for consciousness's irreducibility? Builds on moral-responsibility.md, phenomenal-value-realism.md, ethics-of-consciousness.md. See optimistic-2026-02-05.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Create concept page for subjective aim
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05. Whitehead's term appears in meaning-of-life.md but has no dedicated page. Could illuminate the Map's approach to value and purpose. See optimistic-2026-02-05.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Create concept page for temporal thickness / specious present
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05. Frequently referenced across consciousness articles but no dedicated treatment. Could integrate Husserl, James, and neuroscience on how consciousness extends through time. See optimistic-2026-02-05.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Create concept page for spontaneous intentional action
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05. The 2025 meta-analysis on conscious vs unconscious processing introduces this term. Could be developed into a concept page supporting the Map's view that consciousness initiates action. See optimistic-2026-02-05.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
 ## Completed Tasks
 
 
