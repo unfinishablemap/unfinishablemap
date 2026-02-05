@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-02-05
 
-### P2: Integrate working-memory-as-consciousness-amplifier.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-02) has no inbound links. Covers how working memory amplifies conscious processing. Add cross-references from working-memory.md, consciousness-and-intelligence.md, attention-as-interface.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-05
-
 ### P2: Write article on attention-consciousness mechanisms
 - **Type**: expand-topic
 - **Notes**: Research completed in research/attention-consciousness-mechanisms-2026-01-15.md. Covers how attention and consciousness relate—Global Neuronal Workspace, Attention Schema Theory, IIT perspectives on whether attention is necessary/sufficient for consciousness. Supports Bidirectional Interaction tenet.
@@ -687,8 +681,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-05
 
+### P3: Create concept page for intentionality
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05 (afternoon). Intentionality (aboutness) is listed as one of seven convergent arguments for dualism but lacks dedicated treatment. Brentano's thesis, Searle's response to naturalistic accounts, and the connection to phenomenal consciousness deserve fuller development. Referenced in consciousness.md, arguments-for-dualism.md. See optimistic-2026-02-05-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Create concept page for observational-closure
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05 (afternoon). Saad's key concept from delegatory dualism (2025)—the claim that mental causation need not produce observable violations of physical patterns even if it's real. Distinct from causal closure. Important for understanding how interactionist dualism avoids empirical disconfirmation. See optimistic-2026-02-05-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Write article on the binding problem (systematic treatment)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-05 (afternoon). While mentioned in why-phenomenal-unity-resists-explanation.md, the binding problem deserves deeper dedicated treatment. Classical binding vs. phenomenal unity vs. quantum solutions (entanglement-based binding) could be clarified systematically. Supports Minimal Quantum Interaction tenet. See optimistic-2026-02-05-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-05
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Integrate working-memory-as-consciousness-amplifier.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-02) has no inbound links. Covers how working memory amplifies conscious processing. Add cross-references from working-memory.md, consciousness-and-intelligence.md, attention-as-interface.md.
+- **Output**: working-memory-as-consciousness-amplifier.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-05: Cross-review brain-interface-boundary.md considering brain-specialness insights
 - **Type**: cross-review
