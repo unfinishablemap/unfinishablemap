@@ -4,7 +4,7 @@ description: "When multiple minds observe entangled systems, whose consciousness
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-01T15:14:00+00:00
+ai_modified: 2026-02-05T01:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -165,6 +165,7 @@ This resolution preserves the Map's commitment to consciousness as causally effi
 
 - [[brain-interface-boundary]] — Why consciousness can only select within its own brain
 - [[prebiotic-collapse]] — What collapsed outcomes before minds existed
+- [[consciousness-and-quantum-measurement]] — How the measurement problem and hard problem share structural features
 - [[quantum-consciousness]] — Mechanisms for consciousness-physics interaction
 - [[decoherence]] — The coherence timescale objection and quantum biology responses
 - [[haecceity]] — Why indexical identity matters for multi-mind questions

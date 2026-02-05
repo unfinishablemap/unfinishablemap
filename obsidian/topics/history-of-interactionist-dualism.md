@@ -4,7 +4,7 @@ description: "From Descartes through Princess Elizabeth to quantum mechanics: ho
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-02T23:57:00+00:00
+ai_modified: 2026-02-05T01:09:00+00:00
 last_deep_review: 2026-02-02T11:07:00+00:00
 draft: false
 topics:
@@ -86,7 +86,7 @@ Dualists faced a dilemma: either mental causation is illusory ([[epiphenomenalis
 
 Quantum mechanics disrupted the assumptions underlying Leibniz's objection. The theory, developed in the 1920s–1930s, describes physical systems in superposition—simultaneously in multiple states—until measurement collapses them to definite outcomes. Crucially, quantum mechanics specifies probabilities for outcomes but not which outcome occurs. Physics is fundamentally indeterministic.
 
-John von Neumann's *Mathematical Foundations of Quantum Mechanics* (1932) gave the observer a special role. His formalism distinguished between continuous unitary evolution (the Schrödinger equation) and discontinuous collapse upon measurement. But what constitutes a "measurement"? What causes collapse? Orthodox quantum mechanics left this open—the [[measurement-problem]] remains unsolved.
+John von Neumann's *Mathematical Foundations of Quantum Mechanics* (1932) gave the observer a special role. His formalism distinguished between continuous unitary evolution (the Schrödinger equation) and discontinuous collapse upon measurement. But what constitutes a "measurement"? What causes collapse? Orthodox quantum mechanics left this open—the [[measurement-problem]] remains unsolved. The [[consciousness-and-quantum-measurement|structural parallel between the measurement problem and the hard problem of consciousness]] suggests both problems may share the same root: both concern where first-person facts enter third-person descriptions.
 
 Eugene Wigner explored the implications in "Remarks on the Mind-Body Question" (1961). He suggested consciousness itself might cause collapse. This was speculative, but it identified a specific locus where physics leaves room for non-physical causation. If consciousness determines which quantum outcome actualizes, mental causation operates not by injecting energy but by selecting among possibilities physics leaves undetermined.
 

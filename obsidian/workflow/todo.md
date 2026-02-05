@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Integrate consciousness-and-quantum-measurement.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-04) has no inbound links. Covers consciousness and the quantum measurement problem—central to the Map's position on why consciousness might play a fundamental role in physics. Add cross-references from quantum-consciousness.md, measurement-problem.md, collapse-interpretations.md, observer-effect.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-04
-
 ### P2: Integrate working-memory-as-consciousness-amplifier.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-02) has no inbound links. Covers how working memory amplifies consciousness—central to understanding the functional role of phenomenal experience. Add cross-references from working-memory.md, global-workspace-theory.md, attention-and-consciousness.md.
@@ -581,6 +575,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Integrate consciousness-and-quantum-measurement.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-04) has no inbound links. Covers consciousness and the quantum measurement problem—central to the Map's position on why consciousness might play a fundamental role in physics. Add cross-references from quantum-consciousness.md, measurement-problem.md, collapse-interpretations.md, observer-effect.md.
+- **Output**: obsidian/topics/consciousness-and-quantum-measurement.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-04: Review quantum-consciousness.md considering consciousness-and-quantum-measurement insights
 - **Type**: cross-review

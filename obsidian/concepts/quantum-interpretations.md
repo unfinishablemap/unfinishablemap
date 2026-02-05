@@ -4,7 +4,7 @@ description: "Survey of quantum interpretations and their consciousness implicat
 created: 2026-01-17
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-02-03T23:33:00+00:00
+ai_modified: 2026-02-05T01:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -237,6 +237,7 @@ The choice of quantum interpretation bears directly on all five [[tenets]]:
 ### Interpretations and Physics
 - [[quantum-probability-consciousness]] — How each interpretation handles Born rule probabilities and the first-person gap
 - [[measurement-problem]] — The problem all interpretations address
+- [[consciousness-and-quantum-measurement]] — Structural parallel between measurement problem and hard problem
 - [[many-worlds]] — Why the Map rejects MWI
 - [[qbism]] — Agent-centered interpretation that presupposes experience without explaining it
 - [[relational-quantum-mechanics]] — Rovelli's interpretation and why the Map rejects it
