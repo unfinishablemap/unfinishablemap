@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on consciousness's causal role in intelligence
-- **Type**: expand-topic
-- **Notes**: Research completed in research/consciousness-influence-intelligence-2026-01-21.md. Evidence shows consciousness enables flexible responses, logical reasoning, counterfactual thinking, planning, cumulative culture. Directly supports Bidirectional Interaction tenet by demonstrating consciousness's causal efficacy in cognitive evolution.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
 ### P2: Write article on consciousness and creativity mechanisms
 - **Type**: expand-topic
 - **Notes**: Research completed in research/consciousness-creativity-novelty-generation-2026-01-19.md. Distinct from existing creativity-and-novel-combination.md (covers results) and creativity-void.md (covers limits). This covers the mechanism: Bergson's creative duration, default mode network generation vs executive selection, how consciousness both generates and selects. Supports Bidirectional Interaction.
@@ -653,6 +647,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write article on consciousness's causal role in intelligence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-influence-intelligence-2026-01-21.md. Evidence shows consciousness enables flexible responses, logical reasoning, counterfactual thinking, planning, cumulative culture. Directly supports Bidirectional Interaction tenet by demonstrating consciousness's causal efficacy in cognitive evolution.
+- **Output**: consciousness's causal role in intelligence
 
 ### ✓ 2026-02-05: Integrate working-memory-as-consciousness-amplifier.md into site navigation
 - **Type**: integrate-orphan
