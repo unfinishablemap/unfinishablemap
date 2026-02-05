@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-05T19:40:00+00:00
+ai_modified: 2026-02-05T23:08:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on attention-motor-planning quantum interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/attention-motor-planning-quantum-interface-2026-01-23.md. Explores how attention and motor planning converge at the quantum interface—consciousness may influence physical outcomes through the attention-motor coupling, providing a concrete mechanism for Minimal Quantum Interaction. No corresponding article exists. Directly supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Write article on cognitive science of dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/cognitive-science-dualism-2026-01-15.md. Paul Bloom's "natural-born dualists" research and developmental psychology evidence that dualism is cognitively natural, not merely a philosophical position. While intuitive-dualism.md concept exists, this research contains substantial cross-cultural and developmental evidence not yet synthesised into a dedicated article. Supports Occam's Razor Has Limits tenet—if dualism is our default cognitive stance, dismissing it requires more than parsimony arguments.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Write article on psychophysical coupling law mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/psychophysical-coupling-law-mechanisms-2026-01-23.md. Addresses the mechanism question—HOW does consciousness select among quantum-permitted outcomes? Specifies what mental properties map to physical selection. While psychophysical-coupling.md and psychophysical-coupling-mechanisms.md concepts exist, the research contains detailed mechanistic proposals not yet developed into an article. Directly supports Minimal Quantum Interaction tenet.
+- **Source**: unconsumed_research
+- **Generated**: 2026-02-05
+
+### P2: Cross-review phenomenal-unity.md considering emergence-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/emergence-void.md (2026-02-05) argues the hard problem is the deepest instance of a general emergence void. The phenomenal-unity.md concept shares 5 overlapping concepts (hard-problem, binding-problem, combination-problem, downward-causation, emergence). Check for: (1) cross-links to emergence void, (2) whether the emergence void framework strengthens the unity argument, (3) consistency in treatment of the combination problem.
+- **Source**: chain (from emergence-void.md)
+- **Generated**: 2026-02-05
+
+### P2: Cross-review psychophysical-coupling.md considering attention-consciousness-dissociation insights
+- **Type**: cross-review
+- **Notes**: New article topics/attention-consciousness-dissociation.md (2026-02-05) demonstrates that attention and consciousness can come apart, with 8 overlapping concepts with psychophysical-coupling.md (free-will, hard-problem, attention, functionalism, illusionism, IIT, mental-effort, phenomenal-consciousness). Check for: (1) cross-links to dissociation findings, (2) implications for coupling models if attention ≠ consciousness, (3) whether the coupling framework needs refinement given dissociation evidence.
+- **Source**: chain (from attention-consciousness-dissociation.md)
+- **Generated**: 2026-02-05
+
+### P2: Cross-review hard-problem-of-consciousness.md considering emergence-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/emergence-void.md (2026-02-05) reframes the hard problem as the deepest instance of a general emergence void—a systematic inability to bridge levels of description. The hard-problem-of-consciousness.md topic shares 4 overlapping concepts (binding-problem, combination-problem, emergence, reductionism). Check for: (1) cross-links to emergence void, (2) whether the "deepest instance" framing enriches the hard problem treatment, (3) consistency in treatment of explanatory gaps.
+- **Source**: chain (from emergence-void.md)
+- **Generated**: 2026-02-05
 
 ### P3: Deep review intersubjective-void.md for quality
 - **Type**: deep-review
