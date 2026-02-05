@@ -75,6 +75,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[the-unobservable-self|The Unobservable Self]] — The subject that cannot be its own object
 - [[death-void|The Death Void]] — Consciousness cannot represent its own absence
 - [[dreamless-sleep-void|The Dreamless Sleep Void]] — Where consciousness goes during deep sleep
+- [[intentionality-void|The Intentionality Void]] — How thoughts achieve their aboutness, hidden from the consciousness it constitutes
 - [[creativity-void|The Creativity Void]] — Where creative insight originates, inaccessible to introspection
 - [[aesthetic-void|The Aesthetic Void]] — Where articulation fails at beauty and sublimity
 - [[self-reference-paradox|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper

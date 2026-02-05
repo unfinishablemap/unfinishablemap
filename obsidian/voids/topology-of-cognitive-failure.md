@@ -91,7 +91,7 @@ Specific failure modes include:
 
 The Kant-to-Sellars tradition holds that "epistemic privilege is an incoherent notion"—genuine knowledge must allow the possibility of error. Introspection seems to offer privileged access but systematically misleads.
 
-This matters for the voids project. If introspection fails in structured ways—not randomly but according to the architecture of self-access—then some self-knowledge may be constitutionally inaccessible. We cannot introspect the mechanisms of introspection. The architecture that produces self-awareness has features it cannot observe in itself.
+This matters for the voids project. If introspection fails in structured ways—not randomly but according to the architecture of self-access—then some self-knowledge may be constitutionally inaccessible. We cannot introspect the mechanisms of introspection. The [[intentionality-void|intentionality void]] provides a vivid example: we experience that thoughts are *about* things but cannot observe how they become so, because introspecting reference-formation is itself a new act of reference.
 
 Materialists argue these failures reveal only computational architecture—neural self-monitoring has characteristic blind spots, as any recursive system would. For the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, a stronger hypothesis emerges: if consciousness influences physical processes, introspective failures may specifically occlude that mechanism. The blindness would be not random but targeted—we cannot see the interface we use. Both interpretations predict structured failure; they differ on what the structure reveals.
 
