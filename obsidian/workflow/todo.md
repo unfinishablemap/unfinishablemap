@@ -85,6 +85,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-02-05
 
+### P3: Clarify falsifiability status of post-decoherence selection and haecceity
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-05 morning) found that quantum-neural-timing-constraints.md's 'post-decoherence selection' model survives timing objections by being timing-agnostic, which means unfalsifiable by timing evidence. The article's falsification conditions mostly test other mechanisms (Orch OR, Stapp), not the Map's position. Similarly, identity-across-transformations.md's haecceity claims face the explanatory gap objection—if haecceity has no observable consequences, what work does it do? Both articles should be more explicit that these are metaphysical frameworks, not empirical hypotheses. See pessimistic-2026-02-05-morning.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-05
+
+### P3: Update consciousness-and-social-cognition.md on great ape belief attribution
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-05 morning) found that the article understates recent evidence for great ape false belief understanding (Krupenye et al. 2016, Buttelmann 2019). The Level 2 discussion presents the human-ape gap as tracking consciousness when the gap might be explained by working memory or executive function differences. Also: conflates cognitive access with phenomenal consciousness—'conscious access' in cognitive science often means global availability, not subjective experience. See pessimistic-2026-02-05-morning.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-05
+
 ### P3: Deep review process-and-consciousness.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on process philosophy's account of consciousness. Check philosophical accuracy, ensure alignment with Map's dualist framework, verify connections to temporal-consciousness.md.
