@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-05 12:24 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Intentionality Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[research/voids-intentionality-void-2026-02-05]]
+- **Key finding**: The mechanism by which mental states achieve "aboutness" is structurally inaccessible to introspection—we experience that thoughts refer but cannot observe how reference is achieved. Phenomenal transparency means the construction process is hidden by design.
+
+---
+
 ## 2026-02-05 12:09 UTC - deep-review
 - **Status**: Success (stability confirmation)
 - **File**: [[concepts/quantum-consciousness]]
