@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on collapse before minds in the early universe
-- **Type**: expand-topic
-- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the objection: if consciousness causes collapse, what collapsed the early universe? Directly supports No Many Worlds tenet. Synthesize decoherence-based and consciousness-based responses.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
 ### P2: Cross-review hard-problem-of-consciousness.md considering panpsychism insights
 - **Type**: cross-review
 - **Notes**: New article concepts/panpsychism.md (2026-02-05) provides comprehensive treatment of panpsychism as alternative to substance dualism. Check hard-problem-of-consciousness.md for cross-links, ensure consistent treatment of why the Map rejects universal proto-experience distribution while accepting consciousness as fundamental.
@@ -665,6 +659,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write article on collapse before minds in the early universe
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. Addresses the objection: if consciousness causes collapse, what collapsed the early universe? Directly supports No Many Worlds tenet. Synthesize decoherence-based and consciousness-based responses.
+- **Output**: collapse before minds in the early universe
 
 ### ✓ 2026-02-05: Write voids article on recursion void
 - **Type**: expand-topic
