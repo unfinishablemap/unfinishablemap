@@ -4,7 +4,7 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-02-03T23:33:00+00:00
+ai_modified: 2026-02-05T06:42:00+00:00
 last_deep_review: 2026-01-24T07:15:00+00:00
 draft: false
 topics:
@@ -96,7 +96,7 @@ The [[baseline-cognition|baseline cognition hypothesis]] observes that great ape
 
 ### Evolutionary Convergence
 
-The [[consciousness-as-intelligence-amplifier|intelligence amplifier thesis]] notes that phenomenal consciousness systematically tracks adaptive significance. Pleasure accompanies beneficial stimuli, pain accompanies harmful ones, and subtle differences in phenomenal character track subtle differences in biological urgency. If consciousness were causally inert, this systematic correlation would be a remarkable coincidence—evolution would have produced costly neural complexity generating an experience that does nothing, yet happens to reliably indicate what matters for survival.
+The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] argues that if consciousness evolved through natural selection, it must have had causal effects on behaviour—otherwise selection would have nothing to act on. The [[consciousness-as-amplifier|intelligence amplifier thesis]] develops this by noting that phenomenal consciousness systematically tracks adaptive significance. Pleasure accompanies beneficial stimuli, pain accompanies harmful ones, and subtle differences in phenomenal character track subtle differences in biological urgency. If consciousness were causally inert, this systematic correlation would be a remarkable coincidence—evolution would have produced costly neural complexity generating an experience that does nothing, yet happens to reliably indicate what matters for survival.
 
 The interactionist alternative offers a simpler explanation: consciousness evolved *because* it influences behaviour. Evolution favoured organisms whose consciousness provided functional advantages.
 
@@ -148,6 +148,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 - [[mental-causation]] — The broader problem of how mind causes anything
 - [[causal-closure]] — The closure objection and its limits
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism in detail
+- [[evolutionary-case-for-mental-causation]] — The evolutionary argument for mental causation
 - [[consciousness-as-amplifier]] — Evolutionary evidence for causal efficacy
 - [[contemplative-neuroscience]] — How meditation research demonstrates bidirectional interaction in practice
 - [[baseline-cognition]] — The great ape comparison

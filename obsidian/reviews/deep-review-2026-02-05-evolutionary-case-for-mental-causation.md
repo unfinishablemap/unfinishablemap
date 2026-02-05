@@ -3,7 +3,7 @@ title: "Deep Review - The Evolutionary Case for Mental Causation"
 created: 2026-02-05
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-02-05T04:39:00+00:00
+ai_modified: 2026-02-05T06:42:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -17,24 +17,25 @@ last_curated: null
 
 **Date**: 2026-02-05
 **Article**: [[evolutionary-case-for-mental-causation|The Evolutionary Case for Mental Causation]]
-**Previous review**: Never
+**Previous review**: Earlier today (04:39 UTC) - first review pass
+
+## Review Context
+
+This is the second review pass, focusing on orphan integration. The first review (04:39 UTC) found no critical issues and addressed medium issues (strengthening the correlation argument). This review focuses on integrating the article into the site navigation through cross-references.
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-None. The article contains no factual errors, misattributions, or internal contradictions. All claims are appropriately sourced.
+None. Article remains factually accurate with properly attributed claims.
 
 ### Medium Issues Found
-- **Correlation argument needs strengthening**: The rebuttal to epiphenomenalism's "co-optimization" response was thin. **Resolution**: Added a paragraph explaining why phenomenal valence (why pain feels bad) tracking biological significance is difficult for epiphenomenalists to explain without mental causation.
+- **Orphan status**: Article had no inbound links. **Resolution**: Added cross-references from 6 related articles.
 
 ### Low Issues Found
-- Quantum mechanisms remain speculative (article already acknowledges this appropriately)
-- Binary framing of consciousness could be nuanced (accepted as inherent to evolutionary argument structure)
+None new. Previous review noted that quantum mechanisms remain speculative (article already acknowledges this appropriately).
 
 ### Counterarguments Considered
-- **Sophisticated epiphenomenalism (co-optimization)**: Addressed by strengthening the correlation argument—the specific character of experiences tracking biological significance requires explanation
-- **Eliminativist challenge (consciousness not unified)**: Acknowledged implicitly; the article's focus on phenomenal consciousness rather than access consciousness is appropriate for the argument
-- **MWI perspective**: Not addressed; appropriate given Map's rejection of MWI by tenet
+All major counterarguments were addressed in the first review pass. No new issues identified.
 
 ## Optimistic Analysis Summary
 
@@ -46,25 +47,35 @@ None. The article contains no factual errors, misattributions, or internal contr
 - Strong tenet connections in final section
 
 ### Enhancements Made
-- Strengthened the correlation argument against epiphenomenalism with additional paragraph on phenomenal valence
-- Enhanced illusionist response section with note about inheriting epiphenomenalist burdens
-- Added cross-link to [[philosophical-zombies]] in elaboration problem section
-- Added cross-link to [[global-workspace-theory]] in functions section
+Added cross-references from related articles to integrate this orphan:
 
-### Cross-links Added
-- [[philosophical-zombies]]
-- [[global-workspace-theory]]
+### Cross-links Added (from other articles to this one)
+- [[epiphenomenalism]] — Added link in "The Evolutionary Objection" section and Further Reading
+- [[mental-causation]] — Added link in "The Self-Stultification Argument" section and Further Reading
+- [[consciousness-and-intelligence]] — Added link in "The Evolutionary Argument" section and Further Reading
+- [[evolution-of-consciousness]] — Added link in "The Epiphenomenalist Challenge" section and Further Reading
+- [[consciousness-as-amplifier]] — Added link in "The Evolutionary Argument" section and Further Reading
+- [[bidirectional-interaction]] — Added link in "Evolutionary Convergence" section and Further Reading
 
 ## Remaining Items
-None. All identified issues were addressed in this review.
+None. Article is now well-integrated into the site navigation.
 
 ## Stability Notes
-The following represent fundamental philosophical disagreements, not fixable flaws:
+
+The following represent fundamental philosophical disagreements, not fixable flaws (unchanged from first review):
 - **Eliminativists** will always object that "consciousness" is not a natural kind—this is a bedrock disagreement about ontology
 - **MWI defenders** will resist the argument's implicit collapse framing—accepted given Map tenets
 - **Hard-line functionalists** may argue access consciousness is what matters, not phenomenal—the article's focus on phenomenal consciousness is a feature, not a bug
 
 ## Word Count
-Before: 2018 words
-After: 2165 words (+147, 7% increase)
+Before: 2165 words
+After: 2165 words (no changes to main article)
 Status: Well within soft threshold (72% of 3000)
+
+## Files Modified
+- obsidian/concepts/epiphenomenalism.md (added cross-references)
+- obsidian/concepts/mental-causation.md (added cross-references)
+- obsidian/topics/consciousness-and-intelligence.md (added cross-references)
+- obsidian/concepts/evolution-of-consciousness.md (added cross-references)
+- obsidian/concepts/consciousness-as-amplifier.md (added cross-references)
+- obsidian/concepts/bidirectional-interaction.md (added cross-references)

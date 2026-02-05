@@ -4,7 +4,7 @@ description: "The view that consciousness is causally inert faces the self-stult
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-02-02T11:07:00+00:00
+ai_modified: 2026-02-05T06:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -100,7 +100,7 @@ This makes epiphenomenalism epistemically self-undermining. Not logically contra
 
 ## The Evolutionary Objection
 
-William James raised a different objection: why would consciousness evolve if it does nothing?
+William James raised a different objection: why would consciousness evolve if it does nothing? The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] develops this argument fully.
 
 Evolution selects for traits that improve survival and reproduction. If consciousness has no effects, it cannot be selected for. So why do we have it?
 
@@ -181,7 +181,8 @@ The self-stultification problem remains the decisive objection. If epiphenomenal
 - [[contemplative-evidence-for-consciousness-theories]] — How meditation phenomenology and neuroplasticity distinguish between dualism, materialism, and epiphenomenalism; the most direct empirical challenge to epiphenomenalism
 - [[contemplative-neuroscience]] — Empirical evidence that conscious meditation practice produces measurable neuroplastic changes
 - [[bidirectional-interaction]] — The Map's tenet that consciousness and physics causally influence each other; the direct counter to epiphenomenalism
-- [[consciousness-as-amplifier]] — Empirical evidence that consciousness amplifies cognitive capacity; the strongest evolutionary argument against epiphenomenalism
+- [[evolutionary-case-for-mental-causation]] — The full evolutionary argument that consciousness must be causally efficacious
+- [[consciousness-as-amplifier]] — Empirical evidence that consciousness amplifies cognitive capacity
 - [[evolution-of-consciousness]] — Why consciousness appears distributed across species; challenges the "mere byproduct" response
 - [[agent-causation]] — The positive framework for mental causation that epiphenomenalism denies
 - [[luck-objection]] — Why genuine authorship requires more than passive reception of indeterminacy

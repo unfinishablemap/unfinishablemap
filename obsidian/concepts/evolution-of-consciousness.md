@@ -4,7 +4,7 @@ description: "When did consciousness arise? Dualism avoids the strong emergence 
 created: 2026-01-19
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-04T10:14:00+00:00
+ai_modified: 2026-02-05T06:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,7 +69,7 @@ If consciousness evolved, it presumably conferred adaptive advantages. But here 
 
 ### The Epiphenomenalist Challenge
 
-[[Epiphenomenalism]] holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. If true, natural selection couldn't favour consciousness directly. Experience would be a free rider on neural complexity, evolving not because it helps but because the neural processes that produce it help.
+[[Epiphenomenalism]] holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. If true, natural selection couldn't favour consciousness directly. Experience would be a free rider on neural complexity, evolving not because it helps but because the neural processes that produce it help. The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] argues that this position is untenable: if consciousness evolved through selection, it must have had effects for selection to act on.
 
 This creates a puzzle. We have complex cognitive systems that *seem* designed to process phenomenal information: memory systems that store experiences, attention that selects based on felt salience, emotional systems whose felt valence guides behaviour. If consciousness does nothing, this apparent design is illusory.
 
@@ -213,6 +213,7 @@ Scientific humility requires specifying what would count against one's view.
 
 ## Further Reading
 
+- [[evolutionary-case-for-mental-causation]] — The argument that consciousness must be causally efficacious to be selected
 - [[consciousness-as-amplifier]] — How consciousness amplifies cognitive capacity and the baseline cognition hypothesis
 - [[minimal-consciousness]] — How little neural complexity can support consciousness?
 - [[animal-consciousness]] — The question of which creatures are conscious
