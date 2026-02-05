@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Cross-review attention-interface-mechanisms.md considering dopamine insights
-- **Type**: cross-review
-- **Notes**: New article dopamine-and-the-unified-interface.md may provide insights relevant to attention-interface-mechanisms.md. Check for cross-links, reinforcing arguments about how attention modulates the consciousness-brain interface, and ensure consistent treatment of motor system involvement.
-- **Source**: chain (from dopamine-and-the-unified-interface.md)
-- **Generated**: 2026-02-05
-
 ### P2: Condense materialism.md (3788 words, 152% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 2500-word soft threshold for concepts/. Currently 3788 words. Preserve core arguments against physicalist accounts of consciousness while removing redundancy. Focus on the most compelling arguments and defer detailed rebuttals to linked articles.
@@ -629,6 +623,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Cross-review attention-interface-mechanisms.md considering dopamine insights
+- **Type**: cross-review
+- **Notes**: New article dopamine-and-the-unified-interface.md may provide insights relevant to attention-interface-mechanisms.md. Check for cross-links, reinforcing arguments about how attention modulates the consciousness-brain interface, and ensure consistent treatment of motor system involvement.
+- **Output**: obsidian/topics/attention-interface-mechanisms.md -- Context: Cross-review attention-interface-mechanisms.md considering dopamine insights
 
 ### ✓ 2026-02-05: Integrate dopamine-and-the-unified-interface.md into site navigation
 - **Type**: integrate-orphan
