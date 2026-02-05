@@ -49,18 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-02-05
 
-### P2: Write article on attention-consciousness mechanisms
-- **Type**: expand-topic
-- **Notes**: Research completed in research/attention-consciousness-mechanisms-2026-01-15.md. Covers how attention and consciousness relate—Global Neuronal Workspace, Attention Schema Theory, IIT perspectives on whether attention is necessary/sufficient for consciousness. Supports Bidirectional Interaction tenet.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
-### P2: Write article on consciousness and the measurement problem
-- **Type**: expand-topic
-- **Notes**: Research completed in research/consciousness-measurement-problem-2026-01-16.md. Covers the role of consciousness in quantum measurement—does observation require consciousness? Supports Minimal Quantum Interaction and No Many Worlds tenets.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-
 ### P2: Integrate collapse-before-minds.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-05) has no inbound links. Covers what determined quantum outcomes before consciousness existed (13.8 billion years). Add cross-references from quantum-measurement-and-definite-outcomes.md, conservation-laws-and-mind.md, panpsychism.md, decoherence-and-macroscopic-superposition.md.
@@ -704,6 +692,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write article on attention-consciousness mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/attention-consciousness-mechanisms-2026-01-15.md. Covers how attention and consciousness relate—Global Neuronal Workspace, Attention Schema Theory, IIT perspectives on whether attention is necessary/sufficient for consciousness. Supports Bidirectional Interaction tenet.
+- **Output**: attention-consciousness mechanisms
 
 ### ✓ 2026-02-05: Integrate working-memory-as-consciousness-amplifier.md into site navigation
 - **Type**: integrate-orphan
