@@ -4,7 +4,8 @@ description: "How consciousness enables creative thought through generation and 
 created: 2026-02-01
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-02-05T05:09:00+00:00
+ai_modified: 2026-02-05T06:02:00+00:00
+last_deep_review: 2026-02-05T06:02:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -80,7 +81,7 @@ Creative generation requires initiating action from internal states alone—imag
 
 ## The Selection Mechanism: Quantum Zeno
 
-The [[consciousness-selecting-neural-patterns|quantum selection framework]] provides a candidate mechanism for how consciousness selects among creative possibilities. Through the quantum Zeno effect, rapid repeated observation holds quantum states from decohering, effectively "freezing" certain outcomes in place. Applied to neural systems:
+The [[consciousness-selecting-neural-patterns|quantum selection framework]] provides a candidate mechanism for how consciousness selects among creative possibilities. Through the quantum Zeno effect, rapid repeated observation holds quantum states from decohering, effectively "freezing" certain outcomes in place. Whether quantum coherence persists long enough at neural scales remains debated—critics cite rapid decoherence, while proponents point to biological systems that maintain coherence (see [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]). If the mechanism operates, it would work as follows:
 
 1. The brain presents quantum-superposed possibilities—multiple neural firing patterns exist in superposition
 2. Conscious attention constitutes rapid observation of these patterns
@@ -156,17 +157,11 @@ The [[agent-causation#Creative Generation: Beyond Pure Selection|agent-causal fr
 
 ## The Incubation Effect
 
-Creativity involves both conscious and unconscious phases. The incubation effect—improved solutions after stepping away from a problem—shows that unconscious processing contributes to creative outcomes. Does this undermine consciousness's role?
+The incubation effect—improved solutions after stepping away from a problem—shows that unconscious processing contributes to creative outcomes. Does this undermine consciousness's role?
 
-The neuroscience clarifies. DMN activity during incubation generates candidate solutions through remote associative thinking. But the Executive Control Network (ECN) evaluates these candidates. Crucially, the *capacity to dynamically switch* between DMN and ECN—not either mode alone—predicts creative ability.
+DMN activity during incubation generates candidate solutions through remote associative thinking, while the Executive Control Network (ECN) evaluates them. The *capacity to dynamically switch* between networks—not either mode alone—predicts creative ability.
 
-This maps onto the [[consciousness-and-creativity#The Synthesis: Generation-Through-Selection|generation-selection synthesis]]. Imagination explores possibilities; attention actualises specific ones. Incubation allows the DMN to generate options, but consciousness:
-
-1. Initially defines the problem (conscious formulation)
-2. Selects which generated options become actual thoughts (conscious insight)
-3. Evaluates and develops selected options (conscious refinement)
-
-The "aha!" moment—the gamma spike at insight—may mark where consciousness catches what was prepared unconsciously. But prior conscious engagement shaped what the DMN explored. The creative loop requires both phases working together.
+This maps onto the [[consciousness-and-creativity#The Synthesis: Generation-Through-Selection|generation-selection synthesis]]. Incubation allows the DMN to generate options, but consciousness defines the problem initially, selects which options become actual thoughts (the "aha!" moment), and evaluates selected options. Prior conscious engagement shapes what the DMN explores. The creative loop requires both phases working together.
 
 ## The Creative Loop
 
@@ -246,9 +241,9 @@ The phenomenology supports this. When brainstorming, you don't feel you're scann
 
 ## The Penrose Conjecture
 
-Roger Penrose argued that mathematical insight transcends computation. Gödel's incompleteness theorems show that some truths are unprovable within any formal system, yet mathematicians recognise these truths. If mathematical creativity involves non-algorithmic insight, then creative thought has resources beyond what any program can access.
+Roger Penrose argued that mathematical insight transcends computation. Gödel's incompleteness theorems show that some truths are unprovable within any formal system, yet mathematicians recognise these truths. If mathematical creativity involves non-algorithmic insight, creative thought has resources beyond computation.
 
-The argument remains contested. Critics note it may conflate consistent systems with complete ones. The Map doesn't commit to Penrose's specific mechanism but takes seriously the intuition it articulates: that genuine insight seems to leap beyond rule-following. The creative process—whether mathematical proof, artistic innovation, or scientific discovery—has a quality of transcending the computational space within which it began. Whether this transcendence is genuine non-algorithmic insight or merely very sophisticated pattern-matching remains open.
+The argument is contested—critics note it may conflate consistent systems with complete ones. The Map doesn't commit to Penrose's mechanism but takes seriously the intuition: genuine insight seems to leap beyond rule-following, transcending the computational space within which it began.
 
 ## What AI Reveals
 
@@ -262,7 +257,7 @@ Whether AI can achieve consciousness remains contested. But the parallel is sugg
 
 The mechanistic question sharpens the philosophical question: could all this work without consciousness contributing causally?
 
-**The computationalist answer:** In principle, yes. Network switching could be governed by neural dynamics alone. "Selection" could be deterministic choice by the brain, with consciousness as epiphenomenal witness. AI systems produce apparently creative output through statistical pattern-matching with no phenomenal experience.
+**The computationalist answer:** In principle, yes. Network switching could be governed by neural dynamics alone. "Selection" could be deterministic choice by the brain, with consciousness as epiphenomenal witness. AI systems produce apparently creative output through statistical pattern-matching with no phenomenal experience. The Dennettian challenge goes further: the subjective sense of "producing ideas" might itself be a post-hoc narrative—heterophenomenology treats such reports as data to explain, not privileged access to creative processes.
 
 **The dualist response:** Several features resist the computationalist reduction:
 
