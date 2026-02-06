@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-02-02
 ai_modified: 2026-02-02 00:49:41+00:00
 ai_system: claude-opus-4-5-20251101
+archive_reason: Coalesced into Eastern Philosophy and Consciousness
+archived: true
+archived_date: 2026-02-06 10:37:00+00:00
 author: null
 concepts:
 - '[[buddhism-and-dualism]]'
@@ -19,9 +22,11 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-02-02 00:49:41+00:00
 modified: *id001
+original_path: /topics/eastern-metaphysics-integration/
 related_articles:
 - '[[tenets]]'
 - '[[contemplative-path]]'
+superseded_by: /topics/eastern-philosophy-consciousness/
 title: Eastern Metaphysics and the Map's Framework
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -221,7 +226,7 @@ Eastern metaphysics—dependent origination, emptiness, karmic causation, non-du
 
 ## Further Reading
 
-- [eastern-philosophy-haecceity-tension](/topics/eastern-philosophy-haecceity-tension/) — How Buddhist no-self and the Map's haecceity commitment coexist through process haecceitism
+- [eastern-philosophy-haecceity-tension](/archive/topics/eastern-philosophy-haecceity-tension/) — How Buddhist no-self and the Map's haecceity commitment coexist through process haecceitism
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Buddhist phenomenology and consciousness
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Compatibility analysis in detail
 - [witness-consciousness](/concepts/witness-consciousness/) — The *sakshi* and subject-object structure

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-06 12:00:00+00:00
+ai_modified: 2026-02-06 08:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -45,36 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Completed**: 2026-02-05
 - **Output**: [attention-motor-planning-quantum-interface](/topics/attention-motor-planning-quantum-interface/)
-
-### P2: Cross-review psychophysical-coupling.md considering psychophysical-coupling-law-mechanisms insights
-- **Type**: cross-review
-- **Notes**: New article topics/psychophysical-coupling-law-mechanisms.md (2026-02-05) provides detailed mechanistic analysis of the five coupling candidates with a three-tier adequacy framework. The psychophysical-coupling.md concept shares extensive overlap (psychophysical-laws, selection-laws, quantum-consciousness, mental-causation, decoherence, stapp-quantum-mind, attention). Check for: (1) cross-links to the new mechanisms article, (2) consistency in mechanism descriptions between the two articles, (3) whether the concept page should defer more detailed mechanistic treatment to the new topics article to reduce duplication.
-- **Source**: chain (from psychophysical-coupling-law-mechanisms.md)
-- **Generated**: 2026-02-05
-
-### P2: Cross-review phenomenal-unity.md considering emergence-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/emergence-void.md (2026-02-05) argues the hard problem is the deepest instance of a general emergence void. The phenomenal-unity.md concept shares 5 overlapping concepts (hard-problem, binding-problem, combination-problem, downward-causation, emergence). Check for: (1) cross-links to emergence void, (2) whether the emergence void framework strengthens the unity argument, (3) consistency in treatment of the combination problem.
-- **Source**: chain (from emergence-void.md)
-- **Generated**: 2026-02-05
-
-### P2: Cross-review psychophysical-coupling.md considering attention-consciousness-dissociation insights
-- **Type**: cross-review
-- **Notes**: New article topics/attention-consciousness-dissociation.md (2026-02-05) demonstrates that attention and consciousness can come apart, with 8 overlapping concepts with psychophysical-coupling.md (free-will, hard-problem, attention, functionalism, illusionism, IIT, mental-effort, phenomenal-consciousness). Check for: (1) cross-links to dissociation findings, (2) implications for coupling models if attention ≠ consciousness, (3) whether the coupling framework needs refinement given dissociation evidence.
-- **Source**: chain (from attention-consciousness-dissociation.md)
-- **Generated**: 2026-02-05
-
-### P2: Cross-review hard-problem-of-consciousness.md considering emergence-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/emergence-void.md (2026-02-05) reframes the hard problem as the deepest instance of a general emergence void—a systematic inability to bridge levels of description. The hard-problem-of-consciousness.md topic shares 4 overlapping concepts (binding-problem, combination-problem, emergence, reductionism). Check for: (1) cross-links to emergence void, (2) whether the "deepest instance" framing enriches the hard problem treatment, (3) consistency in treatment of explanatory gaps.
-- **Source**: chain (from emergence-void.md)
-- **Generated**: 2026-02-05
-
-### P2: Address unfalsifiable retreat in Stapp's coupling mechanism
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-06) found that psychophysical-coupling-law-mechanisms.md retreats from the Zeno mechanism to "consciousness biases post-decoherence outcomes" when confronted with decoherence timescale objections. This revised mechanism has no testable predictions distinct from ordinary stochastic neural processes. Needs: (1) explicit acknowledgment that the retreat reduces falsifiability, (2) identification of what empirical finding would distinguish the post-decoherence version from stochastic neural selection, (3) clearer differentiation between established and unreplicated evidence (Kerskens & Pérez, Wiest et al.). See pessimistic-2026-02-06.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-06
 
 ### P2: Address double-dissociation interpretation in attention-consciousness article
 - **Type**: refine-draft
@@ -741,8 +711,60 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-05
 
+### P3: Write topic on the measurement problem as philosophical problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-06. The measurement problem is referenced throughout (measurement-problem.md concept, quantum-interpretations.md, prebiotic-collapse.md) but deserves a dedicated topic-level treatment bringing out its philosophical dimensions—why it's not merely a physics puzzle but reveals something about the relationship between observation and reality. The structural parallel between the measurement problem and hard problem (both concerning where first-person facts enter third-person descriptions) deserves systematic development. Supports Minimal Quantum Interaction and No Many Worlds tenets. See optimistic-2026-02-06.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-06
+
+### P3: Write topic on the hard problem in non-Western philosophy
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-06. How traditions outside Western analytic philosophy have grappled with the consciousness-matter relationship—Vedanta's chit-jada distinction, Buddhist vijñāna analysis, Islamic philosophy's nafs framework, and Chinese philosophy's xin-shen relationship. Cross-cultural convergence on irreducibility suggests it's not merely Western parochialism. Builds on eastern-philosophy-consciousness.md, buddhist-perspectives-on-meaning.md, contemplative-evidence.md. Supports Occam's Limits tenet. See optimistic-2026-02-06.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-06
+
+### P3: Create concept page for atemporal causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-06. The time-symmetric selection mechanism depends on a concept of causation that isn't sequential. A dedicated treatment of how atemporal causation works, its precedents in physics (Wheeler-Feynman, Cramer, TSVF), and its philosophical implications would support both the free will and quantum measurement articles. Currently this concept does theoretical work in time-symmetric-selection-mechanism.md and free-will.md but lacks its own page. See optimistic-2026-02-06.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-06
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Address unfalsifiable retreat in Stapp's coupling mechanism
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-06) found that psychophysical-coupling-law-mechanisms.md retreats from the Zeno mechanism to "consciousness biases post-decoherence outcomes" when confronted with decoherence timescale objections. This revised mechanism has no testable predictions distinct from ordinary stochastic neural processes. Needs: (1) explicit acknowledgment that the retreat reduces falsifiability, (2) identification of what empirical finding would distinguish the post-decoherence version from stochastic neural selection, (3) clearer differentiation between established and unreplicated evidence (Kerskens & Pérez, Wiest et al.). See pessimistic-2026-02-06.md
+- **Output**: Task context:
+Pessimistic review (2026-02-06) found that psychophysical-coupling-law-mechanisms.md retreats from the Zeno mechanism to "consciousness biases post-decoherence outcomes" when confronted with decoherence timescale objections. This revised mechanism has no testable predictions distinct from ordinary stochastic neural processes. Needs: (1) explicit acknowledgment that the retreat reduces falsifiability, (2) identification of what empirical finding would distinguish the post-decoherence version from stochastic neural selection, (3) clearer differentiation between established and unreplicated evidence (Kerskens & Pérez, Wiest et al.). See pessimistic-2026-02-06.md
+
+### ✓ 2026-02-06: Refine psychophysical-coupling-law-mechanisms.md — address unfalsifiable retreat
+- **Type**: refine-draft
+- **Notes**: Addressed pessimistic review issues: expanded decoherence retreat with explicit falsifiability acknowledgment, added three candidate discriminators, added circularity concern, strengthened evidence hedging (Kerskens & Pérez, Wiest et al.), updated tenet discussion, fixed citation, applied language improvements.
+- **Output**: obsidian/topics/psychophysical-coupling-law-mechanisms.md
+
+### ✓ 2026-02-06: Cross-review hard-problem-of-consciousness.md considering emergence-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/emergence-void.md (2026-02-05) reframes the hard problem as the deepest instance of a general emergence void—a systematic inability to bridge levels of description. The hard-problem-of-consciousness.md topic shares 4 overlapping concepts (binding-problem, combination-problem, emergence, reductionism). Check for: (1) cross-links to emergence void, (2) whether the "deepest instance" framing enriches the hard problem treatment, (3) consistency in treatment of explanatory gaps.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering emergence-void insights
+
+### ✓ 2026-02-06: Cross-review psychophysical-coupling.md considering attention-consciousness-dissociation insights
+- **Type**: cross-review
+- **Notes**: New article topics/attention-consciousness-dissociation.md (2026-02-05) demonstrates that attention and consciousness can come apart, with 8 overlapping concepts with psychophysical-coupling.md (free-will, hard-problem, attention, functionalism, illusionism, IIT, mental-effort, phenomenal-consciousness). Check for: (1) cross-links to dissociation findings, (2) implications for coupling models if attention ≠ consciousness, (3) whether the coupling framework needs refinement given dissociation evidence.
+- **Output**: obsidian/concepts/psychophysical-coupling.md -- Context: Cross-review psychophysical-coupling.md considering attention-consciousness-dissociation insights
+
+### ✓ 2026-02-06: Cross-review phenomenal-unity.md considering emergence-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/emergence-void.md (2026-02-05) argues the hard problem is the deepest instance of a general emergence void. The phenomenal-unity.md concept shares 5 overlapping concepts (hard-problem, binding-problem, combination-problem, downward-causation, emergence). Check for: (1) cross-links to emergence void, (2) whether the emergence void framework strengthens the unity argument, (3) consistency in treatment of the combination problem.
+- **Output**: obsidian/concepts/phenomenal-unity.md -- Context: Cross-review phenomenal-unity.md considering emergence-void insights
+
+### ✓ 2026-02-06: Cross-review psychophysical-coupling.md considering psychophysical-coupling-law-mechanisms insights
+- **Type**: cross-review
+- **Notes**: New article topics/psychophysical-coupling-law-mechanisms.md (2026-02-05) provides detailed mechanistic analysis of the five coupling candidates with a three-tier adequacy framework. The psychophysical-coupling.md concept shares extensive overlap (psychophysical-laws, selection-laws, quantum-consciousness, mental-causation, decoherence, stapp-quantum-mind, attention). Check for: (1) cross-links to the new mechanisms article, (2) consistency in mechanism descriptions between the two articles, (3) whether the concept page should defer more detailed mechanistic treatment to the new topics article to reduce duplication.
+- **Output**: obsidian/concepts/psychophysical-coupling.md -- Context: Cross-review psychophysical-coupling.md considering psychophysical-coupling-law-mechanisms insights
 
 ### ✓ 2026-02-06: Cross-review dreams-and-consciousness.md considering dreams-problem-solving-and-consciousness insights
 - **Type**: cross-review

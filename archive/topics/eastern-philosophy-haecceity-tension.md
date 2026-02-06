@@ -6,6 +6,11 @@ modified: 2026-02-02
 human_modified:
 ai_modified: 2026-02-02T05:32:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-06T10:37:00+00:00
+superseded_by: "/topics/eastern-philosophy-consciousness/"
+archive_reason: "Coalesced into Eastern Philosophy and Consciousness"
+original_path: "/topics/eastern-philosophy-haecceity-tension/"
 topics:
   - "[[eastern-philosophy-consciousness]]"
   - "[[personal-identity]]"

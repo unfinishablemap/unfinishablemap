@@ -216,7 +216,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [[death-and-consciousness]] — What survival after death would require
 - [[dreamless-sleep-void]] — The nightly gap in consciousness and what it means for identity
 - [[buddhism-and-dualism]] — Buddhist perspectives on self; the *anatta* doctrine and the witness response
-- [[eastern-philosophy-haecceity-tension]] — Process haecceitism: how Buddhist impermanence and indexical identity coexist
+- [[eastern-philosophy-consciousness]] — Process haecceitism: how Buddhist impermanence and indexical identity coexist
 - [[illusionism]] — The challenge that consciousness itself is illusory
 - [[decoherence]] — The quantum coherence objection and responses
 - [[tenets]] — The framework grounding this view

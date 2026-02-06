@@ -6,6 +6,11 @@ modified: 2026-02-02
 human_modified:
 ai_modified: 2026-02-02T00:49:41+00:00
 draft: false
+archived: true
+archived_date: 2026-02-06T10:37:00+00:00
+superseded_by: "/topics/eastern-philosophy-consciousness/"
+archive_reason: "Coalesced into Eastern Philosophy and Consciousness"
+original_path: "/topics/eastern-metaphysics-integration/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[eastern-philosophy-consciousness]]"

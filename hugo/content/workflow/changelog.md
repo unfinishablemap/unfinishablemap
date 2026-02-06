@@ -18,6 +18,78 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 10:37 UTC - coalesce
+- **Status**: Success
+- **Sources**: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/), [eastern-metaphysics-integration](/archive/topics/eastern-metaphysics-integration/), [eastern-philosophy-haecceity-tension](/archive/topics/eastern-philosophy-haecceity-tension/)
+- **Target**: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
+- **Archived**: [eastern-metaphysics-integration](/archive/topics/eastern-metaphysics-integration/), [eastern-philosophy-haecceity-tension](/archive/topics/eastern-philosophy-haecceity-tension/)
+- **References to review**: 1 (personal-identity.md — updated)
+
+## 2026-02-06 10:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [psychophysical-coupling-law-mechanisms](/topics/psychophysical-coupling-law-mechanisms/)
+- **Changes**: Expanded decoherence retreat treatment with explicit falsifiability acknowledgment and three candidate discriminators; added circularity concern; strengthened epistemic hedging on unreplicated studies (Kerskens & Pérez, Wiest et al.); updated tenet discussion; fixed citation year; applied language improvements
+- **Published**: yes
+
+## 2026-02-06 10:06 UTC - deep-review
+- **Status**: Success
+- **File**: [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/)
+- **Word count**: 1996 → 2102 (+106)
+- **Critical issues addressed**: 2 (misattributed Dormio 43% claim, uncited Lacaux N1 finding)
+- **Medium issues addressed**: 2 (quantum speculation hedging, missing void cross-links)
+- **Enhancements made**: 4 (corrected attributions, added Lacaux citation, hedged quantum passages, added void links)
+- **Output**: [deep-review-2026-02-06-dreams-problem-solving-and-consciousness](/reviews/deep-review-2026-02-06-dreams-problem-solving-and-consciousness/)
+
+## 2026-02-06 09:52 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Word count**: 3050 → 3073 (+23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing emergence-void cross-link)
+- **Enhancements made**: 4 (emergence-void paragraph, frontmatter links, Further Reading entry, prose tightening)
+- **Output**: [deep-review-2026-02-06-hard-problem-of-consciousness](/reviews/deep-review-2026-02-06-hard-problem-of-consciousness/)
+
+## 2026-02-06 09:36 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [psychophysical-coupling](/concepts/psychophysical-coupling/)
+- **Word count**: 3311 → 3303 (-8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (attention-consciousness dissociation gap, missing cross-link)
+- **Enhancements made**: 3 (dissociation constraint paragraph, Chalmers compression, prose tightening)
+- **Output**: [deep-review-2026-02-06-psychophysical-coupling-cross](/reviews/deep-review-2026-02-06-psychophysical-coupling-cross/)
+
+## 2026-02-06 09:21 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 256 non-draft files across topics/, concepts/, tenets/ (30 read in depth)
+- **Output**: [optimistic-2026-02-06](/reviews/optimistic-2026-02-06/)
+
+## 2026-02-06 09:07 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [phenomenal-unity](/concepts/phenomenal-unity/)
+- **Word count**: 3383 → 3395 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (emergence-void cross-link, combination problem framing)
+- **Enhancements made**: 1 (emergence-void integration)
+- **Output**: [deep-review-2026-02-06-phenomenal-unity](/reviews/deep-review-2026-02-06-phenomenal-unity/)
+
+## 2026-02-06 08:56 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [psychophysical-coupling](/concepts/psychophysical-coupling/)
+- **Word count**: 3269 → 3311 (+42)
+- **Critical issues addressed**: 2 (misattributed citation Araujo→Georgiev, incorrect Zheng & Meister volume/issue)
+- **Medium issues addressed**: 4 (Schwartz evidence caveat, decoherence tension, post-decoherence testability cost, uncited reference removal)
+- **Enhancements made**: 2 (cross-link to sibling article, missing Schwartz reference added)
+- **Output**: [deep-review-2026-02-06-psychophysical-coupling](/reviews/deep-review-2026-02-06-psychophysical-coupling/)
+
+## 2026-02-06 08:36 UTC - deep-review
+- **Status**: Success
+- **File**: [psychophysical-coupling-law-mechanisms](/topics/psychophysical-coupling-law-mechanisms/)
+- **Word count**: 2427 → 2521 (+94)
+- **Critical issues addressed**: 2 (misattributed citation Araujo→Georgiev, incorrect Zheng & Meister volume/issue)
+- **Medium issues addressed**: 3 (Schwartz evidence overstated, decoherence retreat cost, Beck vs Popper attribution)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-02-06-psychophysical-coupling-law-mechanisms](/reviews/deep-review-2026-02-06-psychophysical-coupling-law-mechanisms/)
+
 ## 2026-02-06 08:18 UTC - deep-review
 - **Status**: Success
 - **File**: [dreams-and-consciousness](/concepts/dreams-and-consciousness/)
@@ -3728,13 +3800,13 @@ topics: []
 
 ## 2026-02-02 05:32 UTC - deep-review (orphan integration)
 - **Status**: Success
-- **File**: [eastern-philosophy-haecceity-tension](/topics/eastern-philosophy-haecceity-tension/)
+- **File**: [eastern-philosophy-haecceity-tension](/archive/topics/eastern-philosophy-haecceity-tension/)
 - **Word count**: 2753 → 2965 (+212)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 3 (electron analogy, Madhyamaka response, contemplative evidence claims)
 - **Cross-links added**: 6 articles now link to this content
   - [haecceity](/concepts/haecceity/), [buddhism-and-dualism](/concepts/buddhism-and-dualism/), [vertiginous-question](/topics/vertiginous-question/)
-  - [process-philosophy](/concepts/process-philosophy/), [personal-identity](/topics/personal-identity/), [eastern-metaphysics-integration](/topics/eastern-metaphysics-integration/)
+  - [process-philosophy](/concepts/process-philosophy/), [personal-identity](/topics/personal-identity/), [eastern-metaphysics-integration](/archive/topics/eastern-metaphysics-integration/)
 - **Output**: [deep-review-2026-02-02-eastern-philosophy-haecceity-tension](/reviews/deep-review-2026-02-02-eastern-philosophy-haecceity-tension/)
 - **Notes**: First review of this article. Primary focus was orphan integration—article had no inbound links. Strengthened Madhyamaka "useful fiction" response, added electron analogy limitations note, made contemplative evidence claims more epistemologically careful.
 
@@ -4203,7 +4275,7 @@ topics: []
 ## 2026-02-02 01:08 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Eastern philosophy and haecceity tension
-- **Output**: [eastern-philosophy-haecceity-tension](/topics/eastern-philosophy-haecceity-tension/)
+- **Output**: [eastern-philosophy-haecceity-tension](/archive/topics/eastern-philosophy-haecceity-tension/)
 - **Word count**: 2753
 - **Based on research**: yes ([indexical-identity-haecceity-thisness-2026-01-23](/research/indexical-identity-haecceity-thisness-2026-01-23/), [buddhist-perspectives-meaning-2026-01-06](/research/buddhist-perspectives-meaning-2026-01-06/))
 
@@ -4238,7 +4310,7 @@ topics: []
 
 ## 2026-02-02 00:49 UTC - deep-review
 - **Status**: Success
-- **File**: [eastern-metaphysics-integration](/topics/eastern-metaphysics-integration/)
+- **File**: [eastern-metaphysics-integration](/archive/topics/eastern-metaphysics-integration/)
 - **Word count**: 2509 → 2637 (+128)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3
@@ -4276,7 +4348,7 @@ topics: []
 ## 2026-02-02 00:26 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Eastern metaphysics integration
-- **Output**: [eastern-metaphysics-integration](/topics/eastern-metaphysics-integration/)
+- **Output**: [eastern-metaphysics-integration](/archive/topics/eastern-metaphysics-integration/)
 - **Word count**: 2509
 - **Based on research**: yes, [buddhist-perspectives-meaning-2026-01-06](/research/buddhist-perspectives-meaning-2026-01-06/)
 - **Note**: Task requested "apex article" but executed as topic per expand-topic skill. Contemplative Path apex already covers methodological synthesis; this article focuses on metaphysical integration of Hindu, Buddhist, and Taoist frameworks.

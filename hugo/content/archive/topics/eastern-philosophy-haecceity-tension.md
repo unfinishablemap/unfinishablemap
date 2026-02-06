@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-02-02
 ai_modified: 2026-02-02 05:32:00+00:00
 ai_system: claude-opus-4-5-20251101
+archive_reason: Coalesced into Eastern Philosophy and Consciousness
+archived: true
+archived_date: 2026-02-06 10:37:00+00:00
 author: null
 concepts:
 - '[[haecceity]]'
@@ -20,10 +23,12 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-02-02 05:32:00+00:00
 modified: *id001
+original_path: /topics/eastern-philosophy-haecceity-tension/
 related_articles:
 - '[[tenets]]'
 - '[[vertiginous-question]]'
 - '[[eastern-metaphysics-integration]]'
+superseded_by: /topics/eastern-philosophy-consciousness/
 title: The Eastern Philosophy–Haecceity Tension
 topics:
 - '[[eastern-philosophy-consciousness]]'
@@ -214,7 +219,7 @@ Process haecceitism is not the simplest view. Anti-haecceitism (identity superve
 - [vertiginous-question](/topics/vertiginous-question/) — Why am I *this* conscious being?
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Detailed compatibility analysis
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Buddhist phenomenology and consciousness
-- [eastern-metaphysics-integration](/topics/eastern-metaphysics-integration/) — Hindu, Buddhist, and Taoist frameworks
+- [eastern-metaphysics-integration](/archive/topics/eastern-metaphysics-integration/) — Hindu, Buddhist, and Taoist frameworks
 - [witness-consciousness](/concepts/witness-consciousness/) — The *sakshi* and subject-object structure
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework and Buddhist parallels
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal self vs. narrative self
