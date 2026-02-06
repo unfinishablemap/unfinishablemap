@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 08:36 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/psychophysical-coupling-law-mechanisms]]
+- **Word count**: 2427 → 2521 (+94)
+- **Critical issues addressed**: 2 (misattributed citation Araujo→Georgiev, incorrect Zheng & Meister volume/issue)
+- **Medium issues addressed**: 3 (Schwartz evidence overstated, decoherence retreat cost, Beck vs Popper attribution)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-02-06-psychophysical-coupling-law-mechanisms]]
+
 ## 2026-02-06 08:18 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/dreams-and-consciousness]]

@@ -4,7 +4,7 @@ description: "Examining how consciousness might physically couple to quantum pro
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-02-05T23:53:00+00:00
+ai_modified: 2026-02-06T08:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-05
 last_curated:
-last_deep_review:
+last_deep_review: 2026-02-06T08:36:00+00:00
 ---
 
 The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims consciousness causally influences physical outcomes. For this claim to be more than a philosophical posture, there must be a mechanism—a specifiable pathway from phenomenal states to physical selections. Five candidate mechanisms have been proposed, but they vary enormously in precision and testability. Only two (Stapp's attention-observation model and Eccles' intention-probability model) approach the specificity required for scientific engagement. This article examines what each mechanism actually proposes at the physical level, what makes a coupling mechanism adequate, and what the current mechanistic landscape reveals about the testability of interactionist dualism.
@@ -70,15 +70,15 @@ The quantum Zeno effect provides the amplification mechanism. Rapid repeated obs
 
 **The causal pathway**: Consciousness (phenomenal attention) → Process 1 actions (measurement events) → quantum Zeno effect → neural pattern stability → behaviour.
 
-**Testable predictions**: Jeffrey Schwartz's work with OCD patients provides indirect evidence. Patients who used mindful attention to resist compulsions (relabelling obsessive thoughts as "brain noise") showed measurable changes in caudate nucleus activation—changes attributable to directed mental effort rather than pharmacological intervention. Meditation research documents that sustained attention training changes neural connectivity in attention networks. Willed attention produces different frontal-parietal signatures than reflexive attention.
+**Testable predictions**: Jeffrey Schwartz's work with OCD patients provides indirect evidence. Patients who used mindful attention to resist compulsions (relabelling obsessive thoughts as "brain noise") showed measurable changes in caudate nucleus activation—changes produced through directed mental effort rather than pharmacological intervention. However, this evidence is compatible with physicalist neuroplasticity accounts: behavioral therapy changes the brain through neural mechanisms regardless of one's metaphysics. The findings are *consistent with* Stapp's model but not uniquely confirmatory. Willed attention produces different frontal-parietal signatures than reflexive attention, and meditation research documents neural connectivity changes from sustained attention training—patterns that fit Stapp's framework but do not require it.
 
-**The major objection** is the decoherence timescale problem. Monte Carlo simulations by Araujo et al. (2014) showed that the quantum Zeno effect "breaks down for timescales greater than the brain decoherence time." If neural quantum states decohere in femtoseconds while attention operates at millisecond timescales, the Zeno mechanism cannot bridge the gap.
+**The major objection** is the decoherence timescale problem. Monte Carlo simulations by Georgiev (2014) showed that the quantum Zeno effect "breaks down for timescales greater than the brain decoherence time." If neural quantum states decohere in femtoseconds while attention operates at millisecond timescales, the Zeno mechanism cannot bridge the gap.
 
-**Possible responses**: The mechanism might operate not on sustained superpositions but at the point of outcome determination after decoherence has already selected preferred bases. Decoherence selects which outcomes are possible; consciousness biases which possible outcome becomes actual. This shifts the mechanism from "freezing superpositions" to "selecting among decoherence-produced alternatives"—less exotic, but still a form of downward causation operating where physics leaves outcomes undetermined.
+**Possible responses**: The mechanism might operate not on sustained superpositions but at the point of outcome determination after decoherence has already selected preferred bases. Decoherence selects which outcomes are possible; consciousness biases which possible outcome becomes actual. This shifts the mechanism from "freezing superpositions" to "selecting among decoherence-produced alternatives"—less exotic, but still a form of downward causation operating where physics leaves outcomes undetermined. The cost of this retreat is real: the post-decoherence version generates fewer unique predictions, since "consciousness selects among physically possible outcomes" is harder to distinguish empirically from "outcomes are stochastic." The mechanism's testability weakens as it moves away from the original Zeno formulation.
 
 ### Eccles: Intention as Quantum Tunneling Probability
 
-John Eccles' psychon-dendron theory, developed in *How the Self Controls Its Brain* (1994) and earlier collaborative work with Karl Popper, proposes a different coupling point: neurotransmitter release at synaptic junctions.
+John Eccles' psychon-dendron theory, developed in *How the Self Controls Its Brain* (1994) with the quantum tunneling mechanism worked out in collaboration with physicist Friedrich Beck (1991-1992), proposes a different coupling point: neurotransmitter release at synaptic junctions.
 
 Eccles identifies each of approximately 40 million dendrons (fundamental neural units of the cerebral cortex) as coupled to a mental unit called a "psychon." In willed action, the psychon modulates the probability of neurotransmitter vesicle release from presynaptic terminals through quantum tunneling effects in synaptic exocytosis.
 
@@ -165,8 +165,8 @@ The mechanistic landscape has direct implications for the Map's tenets.
 3. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
 4. Chalmers, D.J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2(3), 200-219.
 5. Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
-6. Araujo, I.S. et al. (2014). "Monte Carlo Simulation of Quantum Zeno Effect in the Brain." *arXiv:1412.4741*.
-7. Zheng, J. & Meister, M. (2024). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 112(24).
+6. Georgiev, D.D. (2015). "Monte Carlo simulation of quantum Zeno effect in the brain." *International Journal of Modern Physics B* 29(7), 1550039. arXiv:1412.4741.
+7. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
 8. Kerskens, C.M. & Pérez, D.L. (2022). "Experimental indications of non-classical brain functions." *Journal of Physics Communications* 6(10).
 9. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
 10. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
