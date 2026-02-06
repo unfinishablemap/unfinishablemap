@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 10:06 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/dreams-problem-solving-and-consciousness]]
+- **Word count**: 1996 → 2102 (+106)
+- **Critical issues addressed**: 2 (misattributed Dormio 43% claim, uncited Lacaux N1 finding)
+- **Medium issues addressed**: 2 (quantum speculation hedging, missing void cross-links)
+- **Enhancements made**: 4 (corrected attributions, added Lacaux citation, hedged quantum passages, added void links)
+- **Output**: [[reviews/deep-review-2026-02-06-dreams-problem-solving-and-consciousness]]
+
 ## 2026-02-06 09:52 UTC - deep-review (cross-review)
 - **Status**: Success
 - **File**: [[topics/hard-problem-of-consciousness]]
