@@ -171,7 +171,7 @@ The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] te
 
 This research suggests three responses:
 
-**First**, decoherence doesn't solve the measurement problem. Even granting rapid decoherence, something must select outcomes. The role for consciousness at the point of collapse remains open.
+**First**, decoherence doesn't solve the measurement problem. Even granting rapid decoherence, something must select outcomes. The role for consciousness at the point of collapse remains open. The [[prebiotic-collapse|prebiotic collapse problem]] sharpens this: objective reduction must handle decoherence and outcome selection in the early universe, with consciousness modulating collapse only where neural architecture provides the interface.
 
 **Second**, biology has proven capable of exploiting quantum effects in warm conditions. Photosynthesis, magnetoreception, and enzyme catalysis all demonstrate that living systems can work with—not merely against—quantum mechanics. Neural systems might do likewise.
 

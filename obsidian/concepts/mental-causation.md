@@ -114,7 +114,7 @@ The Map's response: deny causal closure at quantum indeterminacies.
 
 Quantum mechanics specifies probabilities but not which outcome actualizes. When a radioactive atom decays, physics determines the probability but not the moment. The physical causes are genuinely insufficient. Causal closure fails.
 
-If consciousness acts at these indeterminacies—selecting among outcomes physics leaves undetermined—it causes physical events without competing with physical causes. No overdetermination occurs because physics provides necessary but not sufficient causes.
+If consciousness acts at these indeterminacies—selecting among outcomes physics leaves undetermined—it causes physical events without competing with physical causes. No overdetermination occurs because physics provides necessary but not sufficient causes. The [[prebiotic-collapse|prebiotic collapse problem]] shows this framework is cosmologically consistent: objective reduction handled collapse for 13.8 billion years before minds; consciousness modulates collapse only where neural architecture provides the interface.
 
 This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness biases quantum outcomes where the physical story runs out.
 

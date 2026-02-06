@@ -248,7 +248,7 @@ This creates a parallel across frameworks:
 | Idealism | Regularity problem: why does "appearance" follow law-like patterns? |
 | Dualism | Interaction problem: how do distinct substances causally connect? |
 
-The Map's interactionist framework addresses its challenge through quantum mechanics—consciousness selects among outcomes physics leaves undetermined. See [[combination-problem]] for detailed treatment.
+The Map's interactionist framework addresses its challenge through quantum mechanics—consciousness selects among outcomes physics leaves undetermined. The [[prebiotic-collapse|prebiotic collapse problem]] adds a temporal constraint: consciousness cannot have caused *all* collapse, since quantum outcomes were definite for 13.8 billion years before minds existed. See [[combination-problem]] for detailed treatment.
 
 ### Mysterianism
 

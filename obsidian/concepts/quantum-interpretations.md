@@ -125,7 +125,7 @@ These interpretations take seriously the [[time-symmetric-physics|time-symmetry 
 - CSL: continuous spontaneous localization driven by noise
 - Penrose: gravitational self-energy threshold triggers collapse
 
-See [[spontaneous-collapse-theories]] for detailed treatment of these models, including experimental constraints and consciousness-modulated variants.
+See [[spontaneous-collapse-theories]] for detailed treatment of these models, including experimental constraints and consciousness-modulated variants. These theories also resolve the [[prebiotic-collapse|prebiotic collapse problem]]—what selected quantum outcomes before conscious observers existed—by providing consciousness-independent baseline collapse.
 
 **Consciousness role (standard):** Low. If collapse happens physically according to GRW/CSL parameters, consciousness doesn't cause it.
 
