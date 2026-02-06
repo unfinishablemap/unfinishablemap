@@ -46,12 +46,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Completed**: 2026-02-05
 - **Output**: [attention-motor-planning-quantum-interface](/topics/attention-motor-planning-quantum-interface/)
 
-### P2: Address double-dissociation interpretation in attention-consciousness article
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-06) found that attention-consciousness-dissociation.md treats the attention-consciousness double dissociation as evidence for a non-physical entity, but double dissociations are the standard tool of physicalist cognitive neuroscience for identifying distinct neural circuits. The article needs: (1) a section explicitly addressing the physicalist interpretation of double dissociation, (2) an argument for why consciousness-attention dissociation is different from other double dissociations (e.g., face vs object recognition), or acknowledgment of interpretive ambiguity. See pessimistic-2026-02-06.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-06
-
 ### P3: Deep review intersubjective-void.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the void between subjective experiences—why we cannot fully access another's consciousness. Check philosophical rigor, ensure alignment with Map's framework.
@@ -734,6 +728,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Address double-dissociation interpretation in attention-consciousness article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-06) found that attention-consciousness-dissociation.md treats the attention-consciousness double dissociation as evidence for a non-physical entity, but double dissociations are the standard tool of physicalist cognitive neuroscience for identifying distinct neural circuits. The article needs: (1) a section explicitly addressing the physicalist interpretation of double dissociation, (2) an argument for why consciousness-attention dissociation is different from other double dissociations (e.g., face vs object recognition), or acknowledgment of interpretive ambiguity. See pessimistic-2026-02-06.md
+- **Output**: Task context:
+Pessimistic review (2026-02-06) found that attention-consciousness-dissociation.md treats the attention-consciousness double dissociation as evidence for a non-physical entity, but double dissociations are the standard tool of physicalist cognitive neuroscience for identifying distinct neural circuits. The article needs: (1) a section explicitly addressing the physicalist interpretation of double dissociation, (2) an argument for why consciousness-attention dissociation is different from other double dissociations (e.g., face vs object recognition), or acknowledgment of interpretive ambiguity. See pessimistic-2026-02-06.md
 
 ### ✓ 2026-02-06: Address unfalsifiable retreat in Stapp's coupling mechanism
 - **Type**: refine-draft

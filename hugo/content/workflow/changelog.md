@@ -18,6 +18,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 10:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/)
+- **Changes**: Added physicalist reading of double dissociation; argued why consciousness-attention case differs from other double dissociations (hard problem asymmetry); restructured "What Dissociation Reveals" into three subsections; acknowledged interpretive ambiguity throughout; updated opening, dualism subsection, and tenet connection
+- **Published**: yes
+
 ## 2026-02-06 10:37 UTC - coalesce
 - **Status**: Success
 - **Sources**: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/), [eastern-metaphysics-integration](/archive/topics/eastern-metaphysics-integration/), [eastern-philosophy-haecceity-tension](/archive/topics/eastern-philosophy-haecceity-tension/)
