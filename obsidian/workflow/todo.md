@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review arguments-for-dualism.md considering epistemological-limits-of-occams-razor insights
-- **Type**: cross-review
-- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md (2026-02-06) provides a comprehensive treatment of parsimony's failure for consciousness. The existing concepts/arguments-for-dualism.md has a brief "Parsimony Objection" section that should cross-reference this new dedicated treatment. Check for consistency and add links.
-- **Source**: chain (from epistemological-limits-of-occams-razor.md)
-- **Generated**: 2026-02-06
-
 ### P2: Review intuitive-dualism.md considering cognitive-science-of-dualism insights
 - **Type**: cross-review
 - **Notes**: New article topics/cognitive-science-of-dualism.md (2026-02-05) covers Paul Bloom's "natural-born dualists" research and developmental psychology evidence. The existing concepts/intuitive-dualism.md concept page should cross-reference this new work. Check for cross-links, reinforcing arguments from the developmental evidence, and consistency in treatment of innate dualist cognition.
@@ -769,6 +763,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Review arguments-for-dualism.md considering epistemological-limits-of-occams-razor insights
+- **Type**: cross-review
+- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md (2026-02-06) provides a comprehensive treatment of parsimony's failure for consciousness. The existing concepts/arguments-for-dualism.md has a brief "Parsimony Objection" section that should cross-reference this new dedicated treatment. Check for consistency and add links.
+- **Output**: obsidian/concepts/arguments-for-dualism.md -- Context: Review arguments-for-dualism.md considering epistemological-limits-of-occams-razor insights
 
 ### ✓ 2026-02-06: Write argument article on epistemological limits of Occam's Razor
 - **Type**: expand-topic
