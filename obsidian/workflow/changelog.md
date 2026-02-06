@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 19:09 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Nomic Void — cognitive limits imposed by physical laws themselves
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[research/voids-nomic-void-2026-02-06]]
+- **Key finding**: Physical laws (thermodynamic limits, computational ceilings, quantum mechanics) constitute a layer of cognitive constraint deeper than biological architecture — a void invisible because we have no experience of any alternative physics
+
 ## 2026-02-06 18:54 UTC - deep-review
 - **Status**: Success
 - **File**: phenomenal-binding.md (orphan resolution)
