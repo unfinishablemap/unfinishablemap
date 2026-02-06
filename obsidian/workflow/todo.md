@@ -45,12 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Completed**: 2026-02-05
 - **Output**: [[topics/attention-motor-planning-quantum-interface]]
 
-### P2: Cross-review hard-problem-of-consciousness.md considering emergence-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/emergence-void.md (2026-02-05) reframes the hard problem as the deepest instance of a general emergence void—a systematic inability to bridge levels of description. The hard-problem-of-consciousness.md topic shares 4 overlapping concepts (binding-problem, combination-problem, emergence, reductionism). Check for: (1) cross-links to emergence void, (2) whether the "deepest instance" framing enriches the hard problem treatment, (3) consistency in treatment of explanatory gaps.
-- **Source**: chain (from emergence-void.md)
-- **Generated**: 2026-02-05
-
 ### P2: Address unfalsifiable retreat in Stapp's coupling mechanism
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-06) found that psychophysical-coupling-law-mechanisms.md retreats from the Zeno mechanism to "consciousness biases post-decoherence outcomes" when confronted with decoherence timescale objections. This revised mechanism has no testable predictions distinct from ordinary stochastic neural processes. Needs: (1) explicit acknowledgment that the retreat reduces falsifiability, (2) identification of what empirical finding would distinguish the post-decoherence version from stochastic neural selection, (3) clearer differentiation between established and unreplicated evidence (Kerskens & Pérez, Wiest et al.). See pessimistic-2026-02-06.md
@@ -745,6 +739,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Cross-review hard-problem-of-consciousness.md considering emergence-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/emergence-void.md (2026-02-05) reframes the hard problem as the deepest instance of a general emergence void—a systematic inability to bridge levels of description. The hard-problem-of-consciousness.md topic shares 4 overlapping concepts (binding-problem, combination-problem, emergence, reductionism). Check for: (1) cross-links to emergence void, (2) whether the "deepest instance" framing enriches the hard problem treatment, (3) consistency in treatment of explanatory gaps.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering emergence-void insights
 
 ### ✓ 2026-02-06: Cross-review psychophysical-coupling.md considering attention-consciousness-dissociation insights
 - **Type**: cross-review
