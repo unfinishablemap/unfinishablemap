@@ -130,6 +130,7 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects to the haecceity of
 
 ## Further Reading
 
+- [[aesthetic-void]] — The companion void: where aesthetic content resists articulation
 - [[consciousness-and-creativity]] — The generation-selection synthesis: how consciousness generates and selects creative possibilities
 - [[creativity-consciousness-and-novel-thought]] — How consciousness enables novel combinations that escape baseline cognition
 - [[voids|Voids in the Map]] — The framework for cognitive dark spaces

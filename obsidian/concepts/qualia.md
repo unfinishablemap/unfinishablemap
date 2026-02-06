@@ -104,7 +104,7 @@ Block's [[pre-conceptual-knowing#Phenomenal Overflow|phenomenal overflow]] resea
 
 [[aesthetic-dimension-of-consciousness|Aesthetic experience]] provides perhaps the strongest case for qualia's resistance to reduction. Colours carry aesthetic character (*warm*, *serene*, *electric*) independent of what they represent. Some rooms feel oppressive; others inviting. Ideas have aesthetic character—Einstein reported general relativity "felt right" before he could prove it.
 
-Aesthetic qualia may resist reduction more than sensory qualia: the [[inverted-qualia|inverted spectrum]] argument faces the objection that colour space has structural asymmetries making inversion detectable. But aesthetic space lacks such asymmetries—someone whose aesthetic qualia are systematically inverted could behave identically to you. Aesthetic qualia also carry intrinsic normativity: beauty *calls for* attention. If qualia were purely functional, this felt imperative would be mysterious. See [[aesthetic-dimension-of-consciousness]] for detailed treatment.
+Aesthetic qualia may resist reduction more than sensory qualia: the [[inverted-qualia|inverted spectrum]] argument faces the objection that colour space has structural asymmetries making inversion detectable. But aesthetic space lacks such asymmetries—someone whose aesthetic qualia are systematically inverted could behave identically to you. Aesthetic qualia also carry intrinsic normativity: beauty *calls for* attention. If qualia were purely functional, this felt imperative would be mysterious. The [[aesthetic-void]] explores what this resistance to articulation reveals about cognitive limits. See [[aesthetic-dimension-of-consciousness]] for detailed treatment.
 
 ## Thought Experiments
 

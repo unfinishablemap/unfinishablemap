@@ -98,7 +98,7 @@ The asymmetry works in an interesting direction: AI might produce better *descri
 
 **The binding question.** AI achieves impressive pattern recognition without consciousness (assuming current AI lacks consciousness). Yet certain integrative phenomena—the unity of consciousness, the binding of experience into wholes, the felt coherence of a moment—resist computational explanation. These may constitute territory that consciousness doesn't merely *accompany* but *constitutes*.
 
-**The ineffability pattern.** Across cultures and traditions, certain experiences are reported as *ineffable*—real but inexpressible. If consciousness-only territories exist, ineffability makes sense: the content cannot be transferred linguistically because linguistic transfer is third-personal, and the content is accessible only first-personally.
+**The ineffability pattern.** Across cultures and traditions, certain experiences are reported as *ineffable*—real but inexpressible. The [[aesthetic-void]] maps this pattern in detail: profound aesthetic experience combines felt knowledge with structural inability to articulate. If consciousness-only territories exist, ineffability makes sense: the content cannot be transferred linguistically because linguistic transfer is third-personal, and the content is accessible only first-personally.
 
 ## What This Reveals About Consciousness
 

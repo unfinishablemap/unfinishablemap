@@ -65,6 +65,8 @@ Different practices approach cognitive limits through different routes, yet prod
 
 **Pharmacological intervention.** Psychedelics reliably produce ego dissolution and edge-experiences at sufficient doses. Neuroimaging consistently shows default mode network reduction correlating with these states—the brain's self-referential processing quiets while awareness continues. Whether these states constitute genuine access to new territories or merely approach cognitive limits is the central question of [[altered-states-as-void-probes]].
 
+**Aesthetic absorption.** Profound encounters with beauty—standing before a painting that stops thought, hearing music that seems to mean something inexpressible—produce the full edge-experience profile: ineffability with noesis, self-boundary dissolution, temporal distortion. The [[aesthetic-void]] maps this territory specifically, showing how aesthetic experience combines felt knowledge with structural inability to articulate that knowledge.
+
 **Philosophical inquiry.** When philosophical thought pushes to its limits—Cusanus contemplating infinity, Wittgenstein at the edge of what can be said, phenomenologists practising epoché—similar experiences emerge: the sense of approaching something that exceeds articulation yet feels significant.
 
 **Spontaneous experiences.** Mystical states arise unbidden in diverse individuals across cultures. The consistency of reports suggests a common structure to how consciousness operates near its boundaries.
