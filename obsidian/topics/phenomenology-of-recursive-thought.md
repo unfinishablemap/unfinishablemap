@@ -51,7 +51,7 @@ The transition from Level 1 to Level 2 involves a qualitative shift, not merely 
 
 Can we ascend further? Think about thinking about thinking. Level 3 consciousness is possible, and Level 4, and so on. But phenomenologically, something peculiar occurs: the tower doesn't extend indefinitely with equal clarity at each level. Higher levels become increasingly difficult to maintain, and at some point they collapse back into a lower level.
 
-This collapse isn't mere cognitive fatigue. It reveals something about the structure of recursive awareness: the system attempting to model itself cannot maintain an unlimited number of nested models. Each level requires a subject holding the prior levels as objects, but the subject cannot fully objectify itself—there is always a residue that escapes.
+This collapse isn't mere cognitive fatigue. It reveals something about the structure of recursive awareness: the system attempting to model itself cannot maintain an unlimited number of nested models. The [[recursion-void]] maps this boundary empirically—mentalizing capacity terminates around fifth-order intentionality, constrained by working memory and possibly by the architecture of consciousness itself. Each level requires a subject holding the prior levels as objects, but the subject cannot fully objectify itself—there is always a residue that escapes.
 
 ## The Asymmetry of Subject and Object
 

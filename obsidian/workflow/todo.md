@@ -79,12 +79,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-02-05
 
-### P2: Integrate recursion-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Voids article (2026-02-05) has no inbound links. Explores bounded metacognitive depth—why self-reflection hits a ceiling around fifth order. Add cross-references from self-reference-paradox.md, the-unobservable-self.md, introspective-opacity.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-05
-
 ### P3: Deep review temporal-consciousness-void.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Covers why consciousness is confined to a moving present. Check philosophical rigor, ensure alignment with Map's framework, verify connections to temporal-consciousness.md, specious-present.md.
@@ -733,6 +727,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Integrate recursion-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-05) has no inbound links. Explores bounded metacognitive depth—why self-reflection hits a ceiling around fifth order. Add cross-references from self-reference-paradox.md, the-unobservable-self.md, introspective-opacity.md.
+- **Output**: obsidian/voids/recursion-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-06: Condense many-worlds.md (3704 words, 148% of hard threshold)
 - **Type**: condense

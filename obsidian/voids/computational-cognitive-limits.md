@@ -90,7 +90,7 @@ This void separates what rationality demands from what any finite mind can deliv
 
 Approaching these limits has a distinctive phenomenology—related to but distinct from the [[phenomenology-of-the-edge|contemplative and psychedelic edge-states]] explored elsewhere in the voids framework. The [[mathematical-void|mathematical void]] explores a related phenomenon: the gap between formal manipulation and genuine comprehension. We can compute with transfinite cardinals, verify proofs in 200-terabyte files, and derive properties of n-dimensional spaces—while lacking phenomenal access to what these objects are. The computational void concerns what cannot be computed; the mathematical void concerns what cannot be *understood* even when computation succeeds.
 
-**Infinite regress.** Trying to verify a system's consistency requires a meta-system, which requires verification by a meta-meta-system. The tower never grounds itself. Minds experience this as the peculiar vertigo of self-validation—how can I trust my reasoning about whether my reasoning is trustworthy?
+**Infinite regress.** Trying to verify a system's consistency requires a meta-system, which requires verification by a meta-meta-system. The tower never grounds itself. Minds experience this as the peculiar vertigo of self-validation—how can I trust my reasoning about whether my reasoning is trustworthy? The [[recursion-void]] reveals a parallel limit in metacognition: the tower of "thinking about thinking about thinking..." collapses around fifth order.
 
 **Asymptotic approach.** We can compute more digits of Ω, prove more theorems, predict more steps—approaching the limit arbitrarily closely while the complete answer remains forever beyond reach. Progress without completion.
 
