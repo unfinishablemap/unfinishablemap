@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense materialism.md (3788 words, 152% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against materialism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-06
-
 ### P2: Condense many-worlds.md (3704 words, 148% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against Many Worlds Interpretation while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
@@ -745,6 +739,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Condense materialism.md (3788 words, 152% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against materialism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/materialism.md
 
 ### ✓ 2026-02-06: Integrate aesthetic-void.md into site navigation
 - **Type**: integrate-orphan
