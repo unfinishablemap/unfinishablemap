@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-05T09:30:52+00:00'
+ai_modified: '2026-02-06T08:06:04.602636'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-02-05'
+date: '2026-02-06'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-05'
+modified: '2026-02-06'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-06: Dreams That Solve Puzzles: New Evidence
+
+Research into dreams and problem-solving reveals that dreaming about unsolved puzzles doubles solving rates. Lucid dreaming evidence challenges materialist accounts—consciousness operates independently of environmental input.
+
+**Type**: research  
+**Link**: [dreams-problem-solving-lucid-dreaming-2026-02-06](/research/dreams-problem-solving-lucid-dreaming-2026-02-06/)
+
+---
+
 ### 2026-02-05: Panpsychism: Right Diagnosis, Wrong Treatment?
 
 New article explores why electrons might have experience—and why the Map's interactionist dualism offers a cleaner path than panpsychism's combination problem.
@@ -201,15 +210,6 @@ New argument page presents the cumulative case against many-worlds interpretatio
 
 **Type**: new-article
 **Link**: [many-worlds](/arguments/many-worlds/)
-
----
-
-### 2026-01-14: Decoherence article published
-
-New concept page explores what decoherence does and doesn't show - crucially, it doesn't solve the measurement problem or refute quantum consciousness theories.
-
-**Type**: new-article  
-**Link**: [decoherence](/concepts/decoherence/)
 
 ---
 

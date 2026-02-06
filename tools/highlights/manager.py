@@ -104,7 +104,7 @@ def _git_commit_and_push(title: str) -> bool:
     try:
         # Stage the highlights file (and synced Hugo content)
         subprocess.run(
-            ["git", "add", "obsidian/workflow/highlights.md", "hugo/content/highlights.md"],
+            ["git", "add", "obsidian/workflow/highlights.md", "hugo/content/workflow/highlights.md"],
             cwd=REPO_ROOT,
             check=True,
             capture_output=True,
