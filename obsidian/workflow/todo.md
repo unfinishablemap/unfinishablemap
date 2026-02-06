@@ -45,12 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Completed**: 2026-02-05
 - **Output**: [[topics/attention-motor-planning-quantum-interface]]
 
-### P2: Cross-review psychophysical-coupling.md considering psychophysical-coupling-law-mechanisms insights
-- **Type**: cross-review
-- **Notes**: New article topics/psychophysical-coupling-law-mechanisms.md (2026-02-05) provides detailed mechanistic analysis of the five coupling candidates with a three-tier adequacy framework. The psychophysical-coupling.md concept shares extensive overlap (psychophysical-laws, selection-laws, quantum-consciousness, mental-causation, decoherence, stapp-quantum-mind, attention). Check for: (1) cross-links to the new mechanisms article, (2) consistency in mechanism descriptions between the two articles, (3) whether the concept page should defer more detailed mechanistic treatment to the new topics article to reduce duplication.
-- **Source**: chain (from psychophysical-coupling-law-mechanisms.md)
-- **Generated**: 2026-02-05
-
 ### P2: Cross-review phenomenal-unity.md considering emergence-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/emergence-void.md (2026-02-05) argues the hard problem is the deepest instance of a general emergence void. The phenomenal-unity.md concept shares 5 overlapping concepts (hard-problem, binding-problem, combination-problem, downward-causation, emergence). Check for: (1) cross-links to emergence void, (2) whether the emergence void framework strengthens the unity argument, (3) consistency in treatment of the combination problem.
@@ -742,6 +736,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Cross-review psychophysical-coupling.md considering psychophysical-coupling-law-mechanisms insights
+- **Type**: cross-review
+- **Notes**: New article topics/psychophysical-coupling-law-mechanisms.md (2026-02-05) provides detailed mechanistic analysis of the five coupling candidates with a three-tier adequacy framework. The psychophysical-coupling.md concept shares extensive overlap (psychophysical-laws, selection-laws, quantum-consciousness, mental-causation, decoherence, stapp-quantum-mind, attention). Check for: (1) cross-links to the new mechanisms article, (2) consistency in mechanism descriptions between the two articles, (3) whether the concept page should defer more detailed mechanistic treatment to the new topics article to reduce duplication.
+- **Output**: obsidian/concepts/psychophysical-coupling.md -- Context: Cross-review psychophysical-coupling.md considering psychophysical-coupling-law-mechanisms insights
 
 ### ✓ 2026-02-06: Cross-review dreams-and-consciousness.md considering dreams-problem-solving-and-consciousness insights
 - **Type**: cross-review

@@ -4,7 +4,7 @@ description: "How conscious states map to quantum selections: the coupling laws 
 created: 2026-01-16
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-02-02T05:22:00+00:00
+ai_modified: 2026-02-06T08:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-29
 last_curated: null
-last_deep_review: 2026-01-30T07:40:00+00:00
+last_deep_review: 2026-02-06T08:56:00+00:00
 coalesced_from:
   - "/concepts/psychophysical-coupling-law/"
   - "/concepts/psychophysical-coupling-mechanisms/"
@@ -67,9 +67,9 @@ David Chalmers developed the most influential framework for [[psychophysical-law
 
 Chalmers proposes three psychophysical principles in "Facing Up to the Problem of Consciousness" (1995):
 
-**1. Structural Coherence**: The structure of conscious experience corresponds to the structure of cognitive awareness. The three-dimensional structure of color space maps onto three-dimensional wavelength analysis. This constrains but doesn't exhaust experience—inverted spectrum scenarios show structure alone doesn't determine phenomenal quality.
+**1. Structural Coherence**: The structure of conscious experience corresponds to the structure of cognitive awareness. This constrains but doesn't exhaust experience—inverted spectrum scenarios show structure alone doesn't determine phenomenal quality.
 
-**2. Organizational Invariance**: Any two systems with identical fine-grained functional organization have qualitatively identical experiences. Chalmers defends this through the "fading qualia" thought experiment: gradually replacing neurons with functionally identical silicon shouldn't fade experience without detection.
+**2. Organizational Invariance**: Any two systems with identical fine-grained functional organization have qualitatively identical experiences—defended via the "fading qualia" thought experiment.
 
 **3. Double-Aspect Information**: Information has both physical and phenomenal aspects. The phenomenal aspect is information's intrinsic nature; the physical aspect is its extrinsic, relational properties.
 
@@ -167,11 +167,11 @@ Henry Stapp's quantum Zeno model provides the most developed coupling mechanism.
 
 The quantum Zeno effect—experimentally verified—shows that rapid repeated observation can prevent quantum state evolution. Stapp connects this to James' phenomenology of "volitional effort": sustaining attention against distraction requires mental work because it requires maintaining high observation rates.
 
-**Testable predictions**: Meditation training should increase ability to sustain high observation rates. OCD patients using mindful attention to resist compulsions should show measurable changes in frontal activation (Schwartz et al. documented such changes). Willed attention should differ from instructed attention in neural signatures.
+**Testable predictions**: Meditation training should increase ability to sustain high observation rates. OCD patients using mindful attention to resist compulsions showed measurable changes in caudate nucleus activation (Schwartz et al., 1996)—though this evidence is compatible with physicalist neuroplasticity accounts and does not uniquely confirm Stapp's model. Willed attention should differ from instructed attention in neural signatures.
 
-**Major objection**: Decoherence timescale. Monte Carlo simulations (Araujo et al., 2014) showed the quantum Zeno effect breaks down for timescales exceeding brain decoherence time.
+**Major objection**: Decoherence timescale. Monte Carlo simulations by Georgiev (2015) showed the quantum Zeno effect breaks down for timescales exceeding brain decoherence time.
 
-**Possible response**: Consciousness could bias outcome selection *after* decoherence, at the point of definite-outcome emergence rather than during coherent evolution. This shifts the mechanism from "Zeno-freezing superpositions" to "selecting among decoherence-selected alternatives." The mechanism would then operate not on quantum superpositions but on the classical alternatives that decoherence produces—a less exotic but still causally efficacious form of selection.
+**Possible response**: Consciousness could bias outcome selection *after* decoherence, at the point where physics leaves the outcome undetermined. This shifts the mechanism from "Zeno-freezing superpositions" to "selecting among decoherence-produced alternatives"—less exotic but still causally efficacious. The cost is real: this post-decoherence version generates fewer unique predictions, since selecting among physically possible outcomes is harder to distinguish empirically from stochastic processes. See [[psychophysical-coupling-law-mechanisms]] for detailed analysis.
 
 ### 2. Intention as Probability Weighting {#intention}
 
@@ -249,7 +249,7 @@ Selection operates through attention, which is neurally implemented. The brain s
 
 ## Testing the Coupling Law
 
-**Random number generator experiments** have attempted to detect consciousness influencing external quantum outcomes. Results are mixed—some meta-analyses find small effects; others attribute these to publication bias. If the coupling law restricts selection to attention-controlled neural systems, RNG experiments should fail by design—the RNG is external.
+**Random number generator experiments** have attempted to detect consciousness influencing external quantum outcomes, with mixed results often attributed to publication bias. If the coupling law restricts selection to attention-controlled neural systems, RNG experiments should fail by design—the RNG is external.
 
 **A better test**: Measure whether conscious effort correlates with neural pattern stability in attention networks. If Stapp's Zeno mechanism is real, effort should map to pattern persistence.
 
@@ -263,7 +263,7 @@ Three considerations mitigate this:
 
 **1. Tegmark's timescales are disputed.** His calculations assumed thermal equilibrium in isolated systems. Hameroff and colleagues obtained coherence times seven orders of magnitude longer under biologically realistic conditions.
 
-**2. The Zeno mechanism operates faster than decoherence.** Stapp's model requires rapid repeated observations, not sustained superposition. If observation events occur at femtosecond scales, they can outpace decoherence.
+**2. The Zeno mechanism operates faster than decoherence.** Stapp's model requires rapid repeated observations, not sustained superposition. If observation events occur at femtosecond scales, they could outpace decoherence—though Georgiev's simulations challenge whether the Zeno effect actually achieves this in biologically realistic conditions.
 
 **3. Biological quantum effects exist.** Avian magnetoreception maintains spin coherence for microseconds in warm tissue. Photosynthesis exploits quantum coherence. If evolution optimized quantum effects for navigation and energy, it could optimize them for consciousness.
 
@@ -341,6 +341,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [[interactionist-dualism]] — The framework requiring coupling laws
 - [[stapp-quantum-mind]] — Detailed treatment of attention-observation mechanism
 - [[coupling-modes]] — Taxonomy of how consciousness might couple: basis, timing, or probability control
+- [[psychophysical-coupling-law-mechanisms]] — Detailed mechanistic analysis of the five candidate coupling mechanisms
 - [[decoherence]] — The main physics objection and responses
 - [[illusionism]] — The deflationary alternative
 - [[witness-consciousness]] — Contemplative evidence for attention phenomenology
@@ -355,11 +356,11 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 4. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 5. Stapp, H.P. "Quantum Interactive Dualism: An Alternative to Materialism." https://www-physics.lbl.gov/~stapp/QID.pdf
 6. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
-7. Zheng, J. & Meister, M. (2024). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 112(24).
+7. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
 8. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
 9. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews* 11(1), 39-78.
-10. Araujo et al. (2014). "Monte Carlo Simulation of Quantum Zeno Effect in the Brain." https://ar5iv.labs.arxiv.org/html/1412.4741
+10. Georgiev, D.D. (2015). "Monte Carlo simulation of quantum Zeno effect in the brain." *International Journal of Modern Physics B* 29(7), 1550039. arXiv:1412.4741.
 11. Kerskens, C.M. & Pérez, D.L. (2022). "Experimental indications of non-classical brain functions." *Journal of Physics Communications* 6(10).
 12. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
-13. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+13. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
 14. Stanford Encyclopedia of Philosophy. Quantum Approaches to Consciousness. https://plato.stanford.edu/entries/qt-consciousness/

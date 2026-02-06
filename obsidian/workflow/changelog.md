@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 08:56 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [[concepts/psychophysical-coupling]]
+- **Word count**: 3269 → 3311 (+42)
+- **Critical issues addressed**: 2 (misattributed citation Araujo→Georgiev, incorrect Zheng & Meister volume/issue)
+- **Medium issues addressed**: 4 (Schwartz evidence caveat, decoherence tension, post-decoherence testability cost, uncited reference removal)
+- **Enhancements made**: 2 (cross-link to sibling article, missing Schwartz reference added)
+- **Output**: [[reviews/deep-review-2026-02-06-psychophysical-coupling]]
+
 ## 2026-02-06 08:36 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/psychophysical-coupling-law-mechanisms]]
