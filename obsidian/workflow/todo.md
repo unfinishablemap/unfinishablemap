@@ -2308,6 +2308,27 @@ Pessimistic review 2026-02-01 (late) found that self-locating-beliefs.md and ind
 - **Source**: optimistic-review
 - **Generated**: 2026-02-05
 
+### P3: Write article on consciousness and moral status
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-06 (afternoon). The Map has strong metaethical position (phenomenal value realism) and discussions of animal and AI consciousness, but no article systematically connecting them. Which beings have moral status? If consciousness grounds value and requires quantum interface, what follows for animals, insects, LLMs? Builds on phenomenal-value-realism.md, ethics-of-consciousness.md, animal-consciousness.md. See optimistic-2026-02-06-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-06
+
+### P3: Write comparative analysis of neural quantum consciousness mechanisms
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-06 (afternoon). Multiple candidate sites for consciousness-brain interface (ion channels, microtubules, thalamic nuclei, cortical microcolumns, radical pairs) but no systematic comparison on key dimensions: decoherence timescales, biological plausibility, bandwidth constraints, empirical accessibility. Builds on quantum-biology-and-the-consciousness-debate.md, attention-as-interface.md, neural-implementation-specifics.md. See optimistic-2026-02-06-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-06
+
+### P3: Write article on the meta-problem of consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-06 (afternoon). Chalmers's 2018 challenge: why do we think there's a hard problem? Strong response would show meta-problem itself presupposes consciousness (need phenomenal awareness to notice explanatory gap), turning challenge into further evidence for irreducibility. Builds on hard-problem-of-consciousness.md, cognitive-science-of-dualism.md, illusionism.md. See optimistic-2026-02-06-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-06
+
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.
