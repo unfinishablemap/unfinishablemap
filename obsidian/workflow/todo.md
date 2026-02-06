@@ -728,6 +728,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-05
 
+### P3: Write topic on the measurement problem as philosophical problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-06. The measurement problem is referenced throughout (measurement-problem.md concept, quantum-interpretations.md, prebiotic-collapse.md) but deserves a dedicated topic-level treatment bringing out its philosophical dimensions—why it's not merely a physics puzzle but reveals something about the relationship between observation and reality. The structural parallel between the measurement problem and hard problem (both concerning where first-person facts enter third-person descriptions) deserves systematic development. Supports Minimal Quantum Interaction and No Many Worlds tenets. See optimistic-2026-02-06.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-06
+
+### P3: Write topic on the hard problem in non-Western philosophy
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-06. How traditions outside Western analytic philosophy have grappled with the consciousness-matter relationship—Vedanta's chit-jada distinction, Buddhist vijñāna analysis, Islamic philosophy's nafs framework, and Chinese philosophy's xin-shen relationship. Cross-cultural convergence on irreducibility suggests it's not merely Western parochialism. Builds on eastern-philosophy-consciousness.md, buddhist-perspectives-on-meaning.md, contemplative-evidence.md. Supports Occam's Limits tenet. See optimistic-2026-02-06.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-06
+
+### P3: Create concept page for atemporal causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-06. The time-symmetric selection mechanism depends on a concept of causation that isn't sequential. A dedicated treatment of how atemporal causation works, its precedents in physics (Wheeler-Feynman, Cramer, TSVF), and its philosophical implications would support both the free will and quantum measurement articles. Currently this concept does theoretical work in time-symmetric-selection-mechanism.md and free-will.md but lacks its own page. See optimistic-2026-02-06.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-06
+
 ## Completed Tasks
 
 
