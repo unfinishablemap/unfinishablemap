@@ -4,7 +4,7 @@ description: "How conscious states map to quantum selections: the coupling laws 
 created: 2026-01-16
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-02-06T08:56:00+00:00
+ai_modified: 2026-02-06T09:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[consciousness-selecting-neural-patterns]]"
   - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[functionalism]]"
   - "[[haecceity]]"
   - "[[integrated-information-theory]]"
@@ -38,7 +39,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-29
 last_curated: null
-last_deep_review: 2026-02-06T08:56:00+00:00
+last_deep_review: 2026-02-06T09:36:00+00:00
 coalesced_from:
   - "/concepts/psychophysical-coupling-law/"
   - "/concepts/psychophysical-coupling-mechanisms/"
@@ -65,13 +66,7 @@ David Chalmers developed the most influential framework for [[psychophysical-law
 
 ### The Three Principles
 
-Chalmers proposes three psychophysical principles in "Facing Up to the Problem of Consciousness" (1995):
-
-**1. Structural Coherence**: The structure of conscious experience corresponds to the structure of cognitive awareness. This constrains but doesn't exhaust experience—inverted spectrum scenarios show structure alone doesn't determine phenomenal quality.
-
-**2. Organizational Invariance**: Any two systems with identical fine-grained functional organization have qualitatively identical experiences—defended via the "fading qualia" thought experiment.
-
-**3. Double-Aspect Information**: Information has both physical and phenomenal aspects. The phenomenal aspect is information's intrinsic nature; the physical aspect is its extrinsic, relational properties.
+Chalmers proposes three psychophysical principles in "Facing Up to the Problem of Consciousness" (1995): **structural coherence** (experience mirrors cognitive structure, though structure alone doesn't determine phenomenal quality), **organizational invariance** (identical functional organization yields identical experience), and **double-aspect information** (information has both physical and phenomenal aspects).
 
 ### The Map's Divergence
 
@@ -98,11 +93,11 @@ In "Consciousness and the Collapse of the Wave Function" (2022), Chalmers and Mc
 
 The quantum framework addresses constraints (1) and (2) elegantly: consciousness causes collapse without violating closure, since collapse is physically underdetermined.
 
-**The Map's position on Chalmers-McQueen**: Their framework is sophisticated, but the Map prefers Stapp's attention-based mechanism over IIT-based measures for two reasons: (a) IIT's phi measure faces the "wrong results" objection (attributing high consciousness to systems that seem unconscious), and (b) attention provides a phenomenologically grounded variable that maps directly to what we experience as mental effort.
+**The Map's position on Chalmers-McQueen**: The Map prefers Stapp's attention-based mechanism over IIT-based measures because (a) IIT's phi measure faces the "wrong results" objection (attributing consciousness to systems that seem unconscious), and (b) attention provides a phenomenologically grounded variable mapping directly to experienced effort.
 
 ## The Bandwidth Constraint
 
-Research (Zheng & Meister 2024) found conscious thought operates at approximately 10 bits per second—five million times slower than unconscious sensory processing. This "trickle" reflects evolved design: brains focus selectively on what matters.
+Research (Zheng & Meister 2024) found conscious thought operates at approximately 10 bits per second—five million times slower than unconscious sensory processing.
 
 The bandwidth constraint sharply limits what selection can accomplish:
 
@@ -128,6 +123,8 @@ Based on the research, four families of coupling laws emerge. These operate thro
 The law: **Attention selects what it attends to.** The pattern of conscious attention determines which neural representation becomes actual among quantum-superposed alternatives.
 
 This is empirically constrained. Selection matches the measured bandwidth of conscious processing. It explains "brain specialness"—you can only select what you can attend to, and you can only attend to what your brain represents.
+
+**The dissociation constraint**: [[attention-consciousness-dissociation|Empirical evidence]] shows attention and consciousness can come apart—peripheral awareness delivers conscious content without focal attention. This means coupling operates specifically through *directed* attention (the [[attention-as-interface|interface]] through which consciousness engages matter), not through consciousness as such. Peripheral awareness is reception without selection; coupling requires active attentional engagement.
 
 ### Law Family 2: Policy-Level Selection
 
@@ -337,6 +334,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [[attention-interface-mechanisms]] — Candidate neural sites, timing constraints, and testable predictions
 - [[mental-effort]] — The phenomenology Stapp's mechanism requires
 - [[attention]] — The attention-consciousness relationship
+- [[attention-consciousness-dissociation]] — Evidence that attention and consciousness are separable processes
 - [[mental-causation]] — How coupling addresses exclusion arguments
 - [[interactionist-dualism]] — The framework requiring coupling laws
 - [[stapp-quantum-mind]] — Detailed treatment of attention-observation mechanism

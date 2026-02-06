@@ -45,12 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Completed**: 2026-02-05
 - **Output**: [[topics/attention-motor-planning-quantum-interface]]
 
-### P2: Cross-review psychophysical-coupling.md considering attention-consciousness-dissociation insights
-- **Type**: cross-review
-- **Notes**: New article topics/attention-consciousness-dissociation.md (2026-02-05) demonstrates that attention and consciousness can come apart, with 8 overlapping concepts with psychophysical-coupling.md (free-will, hard-problem, attention, functionalism, illusionism, IIT, mental-effort, phenomenal-consciousness). Check for: (1) cross-links to dissociation findings, (2) implications for coupling models if attention ≠ consciousness, (3) whether the coupling framework needs refinement given dissociation evidence.
-- **Source**: chain (from attention-consciousness-dissociation.md)
-- **Generated**: 2026-02-05
-
 ### P2: Cross-review hard-problem-of-consciousness.md considering emergence-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/emergence-void.md (2026-02-05) reframes the hard problem as the deepest instance of a general emergence void—a systematic inability to bridge levels of description. The hard-problem-of-consciousness.md topic shares 4 overlapping concepts (binding-problem, combination-problem, emergence, reductionism). Check for: (1) cross-links to emergence void, (2) whether the "deepest instance" framing enriches the hard problem treatment, (3) consistency in treatment of explanatory gaps.
@@ -751,6 +745,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Cross-review psychophysical-coupling.md considering attention-consciousness-dissociation insights
+- **Type**: cross-review
+- **Notes**: New article topics/attention-consciousness-dissociation.md (2026-02-05) demonstrates that attention and consciousness can come apart, with 8 overlapping concepts with psychophysical-coupling.md (free-will, hard-problem, attention, functionalism, illusionism, IIT, mental-effort, phenomenal-consciousness). Check for: (1) cross-links to dissociation findings, (2) implications for coupling models if attention ≠ consciousness, (3) whether the coupling framework needs refinement given dissociation evidence.
+- **Output**: obsidian/concepts/psychophysical-coupling.md -- Context: Cross-review psychophysical-coupling.md considering attention-consciousness-dissociation insights
 
 ### ✓ 2026-02-06: Cross-review phenomenal-unity.md considering emergence-void insights
 - **Type**: cross-review
