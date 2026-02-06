@@ -37,10 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Write argument article on epistemological limits of Occam's Razor
-- **Type**: expand-topic
-- **Notes**: Research completed in research/epistemological-limits-occams-razor-consciousness-2026-02-06.md. This fills a critical gap: only 4 of 5 target argument articles exist, and Tenet 5 (Occam's Razor Has Limits) is the least defended foundational commitment. Write a rigorous argument article examining why parsimony fails for consciousness—historical cases where simpler theories were wrong, the difference between ontological and methodological parsimony, and why consciousness's irreducibility makes simplicity an unreliable guide. Publish to arguments/ section.
-- **Source**: chain + unconsumed_research
+### P2: Review arguments-for-dualism.md considering epistemological-limits-of-occams-razor insights
+- **Type**: cross-review
+- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md (2026-02-06) provides a comprehensive treatment of parsimony's failure for consciousness. The existing concepts/arguments-for-dualism.md has a brief "Parsimony Objection" section that should cross-reference this new dedicated treatment. Check for consistency and add links.
+- **Source**: chain (from epistemological-limits-of-occams-razor.md)
 - **Generated**: 2026-02-06
 
 ### P2: Review intuitive-dualism.md considering cognitive-science-of-dualism insights
@@ -755,6 +755,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Write argument article on epistemological limits of Occam's Razor
+- **Type**: expand-topic
+- **Notes**: Research completed in research/epistemological-limits-occams-razor-consciousness-2026-02-06.md. This fills a critical gap: only 4 of 5 target argument articles exist, and Tenet 5 (Occam's Razor Has Limits) is the least defended foundational commitment. Write a rigorous argument article examining why parsimony fails for consciousness—historical cases where simpler theories were wrong, the difference between ontological and methodological parsimony, and why consciousness's irreducibility makes simplicity an unreliable guide. Publish to arguments/ section.
+- **Output**: Write argument article on epistemological limits of Occam's Razor
+
+### ✓ 2026-02-06: Write argument article on epistemological limits of Occam's Razor
+- **Type**: expand-topic
+- **Notes**: Published to arguments/epistemological-limits-of-occams-razor.md. Completes the 5th argument article defending Tenet 5 (Occam's Razor Has Limits). Based on epistemological-limits-occams-razor-consciousness-2026-02-06.md research.
+- **Output**: arguments/epistemological-limits-of-occams-razor.md
 
 ### ✓ 2026-02-06: Integrate collapse-before-minds.md into site navigation
 - **Type**: integrate-orphan
