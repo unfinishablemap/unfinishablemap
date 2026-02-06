@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-06 08:35:00+00:00
+ai_modified: 2026-02-06 11:06:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Condense functionalism.md (4250 words, 121% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against functionalism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-06
+
+### P2: Condense eastern-philosophy-consciousness.md (4416 words, 110% of hard threshold)
+- **Type**: condense
+- **Notes**: Recently coalesced article exceeds 4000-word hard threshold for topics/. Merging three articles naturally created excess length. Preserve core East-West synthesis while tightening prose and deferring detailed subtopics to linked concept pages. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-06
+
+### P2: Integrate collapse-before-minds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-05) has no inbound links. Explores what happened to quantum superpositions before conscious observers existed—directly relevant to the measurement problem and No Many Worlds tenet. Add cross-references from consciousness-and-quantum-measurement.md, prebiotic-collapse.md, measurement-problem.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-06
 
 ### ~~P2: Write article on attention-motor-planning quantum interface~~ ✅
 - **Type**: expand-topic
@@ -728,6 +746,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Review personal-identity.md considering eastern-philosophy-consciousness insights
+- **Type**: cross-review
+- **Notes**: Coalesced article topics/eastern-philosophy-consciousness.md (2026-02-06) merged three eastern philosophy pieces. Buddhist no-self doctrine, process haecceity, and Vedantic consciousness frameworks challenge Western personal identity assumptions. Check personal-identity.md for cross-links and ensure consistency with the Map's haecceity commitment in light of eastern perspectives.
+- **Output**: obsidian/topics/personal-identity.md -- Context: Review personal-identity.md considering eastern-philosophy-consciousness insights
+
+### ✓ 2026-02-06: Review attention-interface-mechanisms.md considering attention-motor-planning quantum interface
+- **Type**: cross-review
+- **Notes**: New article topics/attention-motor-planning-quantum-interface.md (2026-02-05) explores how attention and motor planning converge at the quantum interface. The existing attention-interface-mechanisms.md should cross-reference this new work. Check for opportunities to link, reinforce shared quantum Zeno arguments, or resolve any inconsistencies in the attention-as-interface framework.
+- **Output**: obsidian/topics/attention-interface-mechanisms.md -- Context: Review attention-interface-mechanisms.md considering attention-motor-planning quantum interface
+
+### ✓ 2026-02-06: Review free-will.md considering dreams-problem-solving insights
+- **Type**: cross-review
+- **Notes**: New article topics/dreams-problem-solving-and-consciousness.md (2026-02-06) provides empirical evidence for consciousness doing causal work during dreaming—lucid dream problem-solving, incubation effects, and dreams as evidence against epiphenomenalism. Check free-will.md for opportunities to cross-link, reinforce bidirectional interaction arguments, or address any tensions.
+- **Output**: obsidian/topics/free-will.md -- Context: Review free-will.md considering dreams-problem-solving insights
+
+### ✓ 2026-02-06: Research epistemological limits of Occam's Razor for consciousness
+- **Type**: research-topic
+- **Notes**: Tenet 5 (Occam's Razor Has Limits) is the least defended foundational commitment. The site needs a 5th argument article (currently 4 of 5 target). Research the philosophical literature on why parsimony fails for consciousness—historical cases where simpler theories were wrong (heliocentrism, atoms, quantum mechanics), the difference between ontological and methodological parsimony, and why consciousness's irreducibility makes simplicity an unreliable guide. This research will feed a future expand-topic for the 5th argument.
+- **Output**: epistemological limits of Occam's Razor for consciousness
 
 ### ✓ 2026-02-06: Address double-dissociation interpretation in attention-consciousness article
 - **Type**: refine-draft

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-05 08:39:00+00:00
+ai_modified: 2026-02-06 11:36:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -33,11 +33,12 @@ description: Can we genuinely author our choices? The Map defends agent-causal l
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-05 08:39:00+00:00
+last_deep_review: 2026-02-06 11:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[creativity-consciousness-and-novel-thought]]'
+- '[[dreams-problem-solving-and-consciousness]]'
 title: Free Will and Determinism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -86,7 +87,7 @@ The [phenomenology of choice](/concepts/phenomenology-of-choice/) provides direc
 
 Genuine choice requires [counterfactual reasoning](/concepts/counterfactual-reasoning/)—the capacity to imagine alternatives and evaluate what would follow from each. The Bischof-Köhler hypothesis proposes that animals cannot act on drive states they don't currently possess; a sated chimpanzee won't store food for future hunger because it cannot vividly represent that counterfactual state. Great apes show working memory capacity of roughly 2±1 items versus humans' 7±2, limiting their ability to hold actual situation, counterfactual premise, and counterfactual consequences simultaneously.
 
-This suggests that counterfactual reasoning—and therefore genuine deliberation—requires consciousness. The [baseline cognition](/archive/topics/baseline-cognition/) framework predicts exactly this: capacities requiring extensive working memory manipulation should be absent or severely limited in species with reduced conscious capacity. Empirical evidence supports this prediction: the [conscious vs unconscious processing](/archive/topics/conscious-vs-unconscious-processing/) literature shows that spontaneous intentional action—the spontaneous generation of goal-directed behavior without external triggers—requires consciousness; unconscious processing can respond to stimuli but cannot initiate action from internal states alone. Deliberating feels like holding multiple possibilities open, exploring their implications, and then settling on one. Without the capacity to represent "what would happen if I chose X," an agent is restricted to pattern-matching from prior experience rather than genuinely evaluating alternatives.
+This suggests that counterfactual reasoning—and therefore genuine deliberation—requires consciousness. The [baseline cognition](/archive/topics/baseline-cognition/) framework predicts this: capacities requiring extensive working memory should be absent or severely limited in species with reduced conscious capacity. The [conscious vs unconscious processing](/archive/topics/conscious-vs-unconscious-processing/) literature confirms it—spontaneous intentional action requires consciousness; unconscious processing can respond to stimuli but cannot initiate action from internal states alone. Without the capacity to represent "what would happen if I chose X," an agent is restricted to pattern-matching rather than genuinely evaluating alternatives.
 
 ### The Physical Mechanism Question
 
@@ -116,7 +117,7 @@ If consciousness selects neural patterns, shouldn't selection occur *before* neu
 
 [Retrocausal](/concepts/retrocausality/) interpretations offer one resolution. If consciousness operates atemporally—outside the forward flow of physical time—it doesn't need to precede neural preparation to be its cause. This possibility is grounded in [fundamental physics being time-reversal invariant](/concepts/time-symmetric-physics/): the equations work equally well forward or backward. The selection determines which temporal sequence becomes real, including its apparent ordering. The [Time, Consciousness, and the Growing Block](/apex/time-consciousness-growing-block/) apex synthesis develops this framework fully: consciousness may not merely act *within* time but participate in *constituting* temporal structure through its role in collapse.
 
-Some physical frameworks support this possibility: Cramer's transactional interpretation involves "offer waves" forward and "confirmation waves" backward, with the "handshake" being atemporal. But the philosophical point doesn't depend on any specific interpretation. Agent causation may operate atemporally regardless of the underlying physics. See [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) for why the Map's framework rests on physics rather than contested parapsychological claims.
+Cramer's transactional interpretation illustrates this: "offer waves" forward and "confirmation waves" backward, with the "handshake" being atemporal. But the philosophical point doesn't depend on any specific interpretation—agent causation may operate atemporally regardless. See [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) for why the Map's framework rests on physics rather than contested parapsychological claims.
 
 ## Mental Causation and Epiphenomenalism
 
@@ -128,13 +129,15 @@ Free will requires [mental-causation](/concepts/mental-causation/): when you dec
 
 The Map's framework is specifically [agent-causal](/concepts/agent-causation/): the agent as persisting substance directly causes actions, irreducible to prior mental events. Event-causal libertarianism (mental events causing actions nondeterministically) doesn't deliver genuine authorship—the causal chain still traces back to things outside the agent's control.
 
-Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). When you decide to raise your hand, *you* cause the raising—the agent is ontologically prior to the events. Agent-causal philosophy provides the framework for *what* free will is: substances exercising irreducible causal powers. How this interfaces with physics is a separate question—one the Map addresses through its Minimal Quantum Interaction tenet, while acknowledging the mechanism remains uncertain.
+Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). When you decide to raise your hand, *you* cause the raising—the agent is ontologically prior to the events. How this interfaces with physics is a separate question—one the Map addresses through its Minimal Quantum Interaction tenet, while acknowledging the mechanism remains uncertain.
 
 Sartre's analysis of the *pour-soi* (being-for-itself) illuminates this structure. Consciousness is never identical with its contents—it is always aware *of* something, including its own states, from a position of constitutive distance. This self-distance is what makes selection possible: a being that merely *is* its states (Sartre's *en-soi*) cannot stand apart from them to choose. The pour-soi's "nothingness"—the gap between consciousness and its objects—is precisely what libertarian free will requires. See [existentialism](/archive/concepts/existentialism/) for how this analysis undermines illusionism and grounds genuine agency.
 
 The [phenomenology of effort](/concepts/mental-effort/) supports this picture. If choices were random fluctuations, there would be no phenomenology of effort. The felt cost of concentration reflects genuine causal engagement by the agent. The [phenomenology of choice](/concepts/phenomenology-of-choice/) details the experiential structure: felt openness during deliberation, resolution when alternatives collapse, and authorship that follows. The [attentional-economics](/concepts/attentional-economics/) framework extends this: agency is fundamentally the allocation of a scarce attentional resource over time, making freedom scale with attentional skill.
 
 [Creativity](/topics/creativity-consciousness-and-novel-thought/) strengthens the case: consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. This generation-selection synthesis goes beyond pure selection—each exploratory movement of attention opens further possibilities that didn't exist before the exploration. The agent contributes both which options become actual and which options exist to begin with. Yet the generation process itself is opaque—the [creativity void](/voids/creativity-void/) reveals we cannot observe ourselves creating, only receive the products.
+
+[Dream problem-solving](/topics/dreams-problem-solving-and-consciousness/) provides independent evidence for this causal role. When researchers directed unsolved puzzles into dreamers' REM sleep, dream incorporation more than doubled solving rates—consciousness generated novel approaches in a phenomenally different mode (immersive, associative, unconstrained) that waking cognition could not access. If consciousness were epiphenomenal, the phenomenal character of dreaming should be irrelevant to problem-solving success. The agent-causal framework extends naturally: the same agent operates across waking and dreaming states, maintaining causal efficacy while shifting mode.
 
 ## The Capacity to Suspend Selection
 
@@ -230,6 +233,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [decoherence](/concepts/decoherence/) — The decoherence objection and biological quantum effects
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How consciousness generates and selects possibilities
 - [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — How consciousness enables novel combination
+- [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/) — Dream evidence for consciousness's causal role in problem-solving
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
 - [personal-identity](/topics/personal-identity/) — Why *you* are the author of your choices
 - [existentialism](/archive/concepts/existentialism/) — How Sartre's pour-soi illuminates agent causation

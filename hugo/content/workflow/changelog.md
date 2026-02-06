@@ -18,6 +18,55 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 12:21 UTC - deep-review
+- **Status**: Success
+- **File**: [personal-identity](/topics/personal-identity/)
+- **Word count**: 3061 → 3079 (+18)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (process haecceitism integration, Buddhist dreamless sleep perspective, sharpened falsification condition)
+- **Enhancements made**: 3 (eastern philosophy cross-links, prose tightening in fission/meaning sections)
+- **Output**: [deep-review-2026-02-06-personal-identity](/reviews/deep-review-2026-02-06-personal-identity/)
+
+## 2026-02-06 12:07 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-interface-mechanisms](/topics/attention-interface-mechanisms/)
+- **Word count**: 3991 → 3997 (+6)
+- **Critical issues addressed**: 2 (wrong author attribution for Rajan et al. 2019 theta paper; wrong first author for Cai et al. 2024 dopamine paper)
+- **Medium issues addressed**: 1 (missing cross-link to companion topic article)
+- **Enhancements made**: 1 (prose tightening for length neutrality)
+- **Output**: [deep-review-2026-02-06-attention-interface-mechanisms](/reviews/deep-review-2026-02-06-attention-interface-mechanisms/)
+
+## 2026-02-06 11:51 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Evidential Weight of Voids — whether the collective pattern of cognitive voids constitutes abductive evidence for dualism
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-evidential-weight-of-voids-2026-02-06](/research/voids-evidential-weight-of-voids-2026-02-06/)
+- **Key finding**: Multiple independent philosophical traditions converge on the observation that consciousness-related explanatory gaps are structurally unique and cluster at the mind-body interface — a pattern specifically predicted by dualism but not by physicalism, constituting defeasible abductive evidence
+
+## 2026-02-06 11:36 UTC - deep-review
+- **Status**: Success
+- **File**: [free-will](/topics/free-will/)
+- **Word count**: 3088 → 3118 (+30)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (dream-consciousness integration, cross-links to dream articles)
+- **Enhancements made**: 1 cross-link added (dreams-problem-solving-and-consciousness)
+- **Output**: [deep-review-2026-02-06-free-will](/reviews/deep-review-2026-02-06-free-will/)
+
+## 2026-02-06 11:22 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-motor-planning-quantum-interface](/topics/attention-motor-planning-quantum-interface/)
+- **Word count**: 2094 → 2298 (+204)
+- **Critical issues addressed**: 3 (Bengson misattribution, Sjöberg nuance dropped, 300ms timing misleading)
+- **Medium issues addressed**: 5 (PMTA qualifier, Kaeser authorship, phasic/tonic terminology, uncited bandwidth figure, QZE overemphasis)
+- **Enhancements made**: 3 cross-links added (libet-experiments, structure-of-attention, agent-causation)
+- **Output**: [deep-review-2026-02-06-attention-motor-planning-quantum-interface](/reviews/deep-review-2026-02-06-attention-motor-planning-quantum-interface/)
+
+## 2026-02-06 11:13 UTC - research-topic
+- **Status**: Success
+- **Topic**: Epistemological limits of Occam's Razor for consciousness
+- **Output**: [epistemological-limits-occams-razor-consciousness-2026-02-06](/research/epistemological-limits-occams-razor-consciousness-2026-02-06/)
+- **Sources consulted**: 12
+
 ## 2026-02-06 10:51 UTC - refine-draft
 - **Status**: Success
 - **File**: [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/)

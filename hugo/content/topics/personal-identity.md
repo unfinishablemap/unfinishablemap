@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-03 01:13:00+00:00
+ai_modified: 2026-02-06 12:21:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: What makes you *you* across time? The Map emphasizes indexical iden
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 01:13:00+00:00
+last_deep_review: 2026-02-06 12:21:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -98,6 +98,8 @@ Three considerations support the inference:
 
 This doesn't prove haecceity with certainty. But it shifts the burden: anti-haecceitists must explain why the phenomenological evidence misleads, not merely assert that it does.
 
+Crucially, haecceity does not require a permanent soul-substance. [Process haecceitism](/topics/eastern-philosophy-consciousness/) shows that particularity can apply to experiential *streams*—*this* series of conscious moments is distinct from *that* series, even without a permanent substrate underlying either. Buddhist contemplatives who deconstruct the self continue to experience as particular beings; the particularity survives the dissolution of substance.
+
 This connects to quantum selection. If consciousness influences which quantum outcomes occur, then *which* consciousness does the selecting matters. A teletransporter replica wouldn't be the consciousness that was making selections—even if psychologically identical. Many-worlds eliminates this role entirely: everything happens in some branch, so there's nothing for consciousness to select.
 
 ### The Dualism Connection
@@ -126,11 +128,9 @@ Psychological continuity matters, but as evidence of something deeper. Your memo
 
 ## The Fission Problem Revisited
 
-How does this handle fission? If your brain were split and each hemisphere continued separately, neither resulting person would be you on this view. Your consciousness—the particular conscious perspective that makes you you—cannot split. One or both of the resulting consciousnesses would be new, not continuations of yours.
+How does this handle fission? If your brain were split and each hemisphere continued separately, neither resulting person would be you. Your consciousness—the particular conscious perspective that makes you you—cannot split. One or both resulting consciousnesses would be new, not continuations of yours.
 
-This aligns with Parfit's conclusion (neither is you) but for different reasons. Parfit says neither is you because identity can't "branch"—it's a logical truth. The Map says neither is you because your consciousness is a particular that can't divide like physical stuff.
-
-The resulting people might have your memories and psychology. They might even believe they're you. But belief doesn't make it so. The unique conscious perspective that constituted you would have ended, replaced by two new ones.
+This aligns with Parfit's conclusion but for different reasons. Parfit says identity can't "branch"—a logical truth. The Map says your consciousness is a particular that can't divide like physical stuff. The resulting people might have your memories and believe they're you, but the unique conscious perspective that constituted you would have ended.
 
 ### Evidence from Split-Brain Cases
 
@@ -142,7 +142,7 @@ This supports the Map's view: if consciousness were merely brain processes, comp
 
 If consciousness constitutes personal identity and ceases during dreamless sleep, the person who wakes may not be the same person who slept. The [dreamless-sleep-void](/voids/dreamless-sleep-void/) explores this gap we enter nightly and cannot observe from within.
 
-The Map's response draws on the Vedantic analysis: consciousness may persist through deep sleep as witness-awareness stripped of content. We remember nothing not because consciousness was absent but because the ego that would claim the memory was not present to encode it. This aligns with the Map's dualism: if awareness is more fundamental than its contents, it could persist even when content ceases. The gap in memory need not imply a gap in consciousness—or in the conscious being whose identity is in question.
+The Map's response draws on two complementary insights. The Vedantic analysis holds that consciousness persists through deep sleep as [witness-awareness](/concepts/witness-consciousness/) stripped of content—we remember nothing not because consciousness was absent but because the ego that would encode memory was not present. The [Buddhist perspective](/topics/eastern-philosophy-consciousness/) makes the gap less threatening from a different angle: if identity is already process-based rather than substance-based, a gap doesn't destroy a substance but merely pauses a causal process that resumes through continuity. The gap in memory need not imply a gap in consciousness—or in the conscious being whose identity is in question.
 
 ## The Illusionist Challenge
 
@@ -180,15 +180,13 @@ These conclusions follow from taking consciousness seriously as non-reducible an
 
 Personal identity matters for life's meaning. The [meaning of life](/topics/meaning-of-life/) article argues that meaning is grounded in consciousness—in the intrinsic significance of conscious experience. But whose consciousness?
 
-If Parfit were right—if you're interchangeable with any replica sharing your psychology—then your particular existence seems less significant. It's the pattern that matters, and patterns are repeatable.
+If Parfit were right—if you're interchangeable with any replica sharing your psychology—then your particular existence seems less significant. Patterns are repeatable; you would be too.
 
-But if the Map is right—if *you* are this unrepeatable conscious being, not interchangeable with any replica—then your existence has unique significance. No one else can live your life. No replica could replace you. The conscious experiences that constitute your life are *yours* in a way that can't be transferred.
-
-This grounds a stronger sense of individual meaning. You're not just a pattern that could be instantiated anywhere. You're this particular conscious perspective, living this unrepeatable life.
+But if the Map is right—if *you* are this unrepeatable conscious being—then your existence has unique significance. No replica could replace you. The conscious experiences that constitute your life are *yours* in a way that can't be transferred. You're this particular conscious perspective, living this unrepeatable life.
 
 ## What Would Challenge This View?
 
-The Map's account would be challenged by: (1) a successful illusionist explanation of why we *seem* to be particular subjects without actual particularity; (2) a decision-theoretic vindication of many-worlds deriving the Born rule without presupposing indexical identity; (3) teleportation experiments where replicas report no experiential discontinuity; (4) contemplative reports of complete absence of witnessing awareness (current reports suggest the opposite); (5) a complete neural explanation of unified experience that accounts for split-brain unity.
+The Map's account would be challenged by: (1) a successful illusionist explanation of why we *seem* to be particular subjects without actual particularity; (2) a decision-theoretic vindication of many-worlds deriving the Born rule without presupposing indexical identity; (3) teleportation experiments where replicas report no experiential discontinuity; (4) contemplative reports of complete loss of particularity—not just loss of substantial selfhood, but loss of the sense of being *this* experiencer (current reports suggest particularity survives self-deconstruction); (5) a complete neural explanation of unified experience that accounts for split-brain unity.
 
 These challenges remain unmet, but articulating them clarifies what evidence would count against the view.
 
