@@ -1,10 +1,10 @@
 ---
-title: "Dreams, Problem-Solving, and Consciousness"
+title: "Lucid Dreams, Problem-Solving, and Consciousness"
 description: "Dreams actively solve problems we cannot crack while awake. The Konkoly 2026 study doubles puzzle-solving rates through dream incubation—evidence consciousness works, not merely watches."
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-02-06T08:14:00+00:00
+ai_modified: 2026-02-06T08:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
