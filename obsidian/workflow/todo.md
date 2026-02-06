@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review personal-identity.md considering eastern-philosophy-consciousness insights
-- **Type**: cross-review
-- **Notes**: Coalesced article topics/eastern-philosophy-consciousness.md (2026-02-06) merged three eastern philosophy pieces. Buddhist no-self doctrine, process haecceity, and Vedantic consciousness frameworks challenge Western personal identity assumptions. Check personal-identity.md for cross-links and ensure consistency with the Map's haecceity commitment in light of eastern perspectives.
-- **Source**: chain (from eastern-philosophy-consciousness.md)
-- **Generated**: 2026-02-06
-
 ### P2: Condense functionalism.md (4250 words, 121% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against functionalism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
@@ -751,6 +745,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Review personal-identity.md considering eastern-philosophy-consciousness insights
+- **Type**: cross-review
+- **Notes**: Coalesced article topics/eastern-philosophy-consciousness.md (2026-02-06) merged three eastern philosophy pieces. Buddhist no-self doctrine, process haecceity, and Vedantic consciousness frameworks challenge Western personal identity assumptions. Check personal-identity.md for cross-links and ensure consistency with the Map's haecceity commitment in light of eastern perspectives.
+- **Output**: obsidian/topics/personal-identity.md -- Context: Review personal-identity.md considering eastern-philosophy-consciousness insights
 
 ### ✓ 2026-02-06: Review attention-interface-mechanisms.md considering attention-motor-planning quantum interface
 - **Type**: cross-review
