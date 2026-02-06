@@ -4,7 +4,7 @@ description: "Cognitive science presupposes methodological materialism, yet its 
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-02-05T23:37:00+00:00
+ai_modified: 2026-02-06T16:08:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-05
 last_curated:
-last_deep_review: 2026-02-05T23:37:00+00:00
+last_deep_review: 2026-02-06T16:08:00+00:00
 ---
 
 Cognitive science operates under methodological materialism — it studies the mind by measuring brain activity, reaction times, and behavioural outputs. This makes it a powerful tool for mapping cognitive architecture, but it also creates a structural blind spot: the methods presuppose that mental phenomena are exhaustively captured by third-person measurement. When cognitive science investigates dualism, it tends to frame the question as whether people *believe* in dualism, not whether dualism is *true*. The Unfinishable Map argues that cognitive science's own findings — the irreducibility of first-person report, the variability of mind-body intuitions, and the persistent explanatory gap — actually complicate the materialist framework the field assumes.
@@ -98,7 +98,10 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] receives perhaps th
 
 - [[intuitive-dualism]] — Whether humans naturally think dualistically
 - [[first-person-third-person-methodology]] — The methodological gap in consciousness research
+- [[neural-correlates-of-consciousness]] — Why correlations between brain states and experience don't settle the metaphysics
+- [[predictive-processing]] — The brain as prediction engine and why it leaves consciousness unexplained
 - [[embodied-cognition]] — How bodily dependence reshapes but doesn't resolve the mind-body problem
+- [[neurophenomenology]] — Varela's integration of first-person and third-person methods
 - [[cognitive-closure]] — McGinn's thesis on constitutional limits of human cognition
 - [[hard-problem-of-consciousness]] — Why no amount of functional description explains experience
 - [[arguments-for-dualism]] — The philosophical case independent of cognitive science

@@ -51,7 +51,7 @@ McGinn argues that property P—the property linking consciousness to brain—is
 
 **The brain** is accessed through perception and scientific investigation. We observe neural activity, measure electrochemical signals, map synaptic connections. But perception reveals nothing about why this activity should feel like anything.
 
-Neither mode of access—introspection nor perception—reveals the *connection* between the two. We see both sides but not what joins them. If the connecting property is accessible only through some third mode of access that humans lack, we are cognitively closed with respect to it.
+Neither mode of access—introspection nor perception—reveals the *connection* between the two. We see both sides but not what joins them. If the connecting property is accessible only through some third mode of access that humans lack, we are cognitively closed with respect to it. This asymmetric access shapes how [[cognitive-science-of-dualism|cognitive science studies consciousness]]: the field's third-person methods capture neural correlates while depending on first-person report to know what those correlates are correlates *of*.
 
 McGinn's position is "transcendental naturalism": the solution is natural (no supernatural entities required) but transcends our cognitive capacities. Property P is presumably simple and elegant—we just can't form the concept.
 

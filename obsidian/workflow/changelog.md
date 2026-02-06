@@ -17,6 +17,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 16:08 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/cognitive-science-of-dualism]]
+- **Word count**: 1854 → 1892 (+38)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan integration, missing Further Reading entries)
+- **Enhancements made**: 9 inbound cross-references added from existing articles
+- **Output**: [[reviews/deep-review-2026-02-06-cognitive-science-of-dualism]]
+
+## 2026-02-06 14:37 UTC - deep-review
+- **Status**: Success
+- **File**: [[arguments/epistemological-limits-of-occams-razor]]
+- **Word count**: 1507 → 1633 (+126)
+- **Critical issues addressed**: 3 (IEP quote fabrication, Churchland misquotation, Holsinger/Sober misattribution)
+- **Medium issues addressed**: 2 (syntactic simplicity conflation, heliocentrism overstatement)
+- **Enhancements made**: 5 (cross-links to explanatory-gap, knowledge-argument, illusionism, causal-closure, intuitive-dualism)
+- **Output**: [[reviews/deep-review-2026-02-06-epistemological-limits-of-occams-razor]]
+
 ## 2026-02-06 14:22 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/intuitive-dualism]]

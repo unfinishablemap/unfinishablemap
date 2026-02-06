@@ -65,7 +65,7 @@ Phenomenology's central claim for consciousness studies: the first-person perspe
 Consider what happens when you perceive red. Neuroscience can identify which neurons fire, which brain regions activate, which wavelengths of light stimulate the retina. But none of this captures what phenomenology discloses: the *redness* of the experience, its qualitative character from within. The explanatory gap between physical description and phenomenological character is not a temporary limitation but a structural feature of consciousness.
 
 Gallagher and Zahavi (2025) argue in *Journal for the Theory of Social Behaviour* that "cognitive science needs phenomenology" because:
-- "Intuitive dualism"—the cognitive tendency to distinguish mental from physical—is empirically widespread
+- "Intuitive dualism"—the cognitive tendency to distinguish mental from physical—is [[cognitive-science-of-dualism|empirically widespread but culturally variable]]
 - First-person experience forms the data any consciousness science must explain
 - Physicalist frameworks systematically bracket the evidence most in need of explanation
 

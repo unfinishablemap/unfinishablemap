@@ -134,7 +134,7 @@ Yet even embodied robots struggle. They transfer poorly to novel situations; the
 
 The Map's [[mind-brain-separation]] article proposes that the brain filters or shapes consciousness rather than producing it. Embodied cognition can be accommodated within this framework:
 
-The body (including brain) provides the **interface** through which consciousness engages the world. Embodied skills and sensorimotor knowledge describe how consciousness **operates through** the body. The body constrains and shapes experience without necessarily generating it.
+The body (including brain) provides the **interface** through which consciousness engages the world. Embodied skills and sensorimotor knowledge describe how consciousness **operates through** the body. The body constrains and shapes experience without necessarily generating it. As the [[cognitive-science-of-dualism]] article argues, the more tightly embodied cognition integrates mind and body functionally, the more puzzling it becomes that phenomenal experience doesn't reduce to function.
 
 Consider an analogy: a radio antenna's shape affects what signals it receives without producing those signals. Similarly, bodily structure might shape how consciousness manifests without being consciousness's source. Brain damage damages the interface rather than destroying consciousness itself. This interpretation is compatible with embodied cognition's empirical findings while preserving room for consciousness's non-physical nature.
 

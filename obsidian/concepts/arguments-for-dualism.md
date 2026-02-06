@@ -119,7 +119,7 @@ What makes you *you* is not any qualitative property—not your memories, person
 
 ## The "Folk Error" Objection
 
-Some materialists argue that dualism is merely a cognitively natural "folk error" destined to be outgrown. Cognitive science complicates this picture. (For detailed treatment, see [[intuitive-dualism]].)
+Some materialists argue that dualism is merely a cognitively natural "folk error" destined to be outgrown. Cognitive science complicates this picture. (For detailed treatment, see [[intuitive-dualism]] and [[cognitive-science-of-dualism|Cognitive Science of Dualism]], which examines how the field's own methods and findings resist materialist closure.)
 
 Paul Bloom (2004) argued humans are "natural-born dualists." But Barrett et al. (2021), in the most comprehensive cross-cultural study, found that "most responses of most participants across all cultures were *not* dualist"—the default is closer to **intuitive materialism**. Barlev & Shtulman (2021) argue dualist conceptions are learned, not innate.
 

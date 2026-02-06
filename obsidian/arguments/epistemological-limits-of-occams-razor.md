@@ -4,7 +4,7 @@ description: "Occam's Razor fails as an argument against dualism. Human-AI explo
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-02-06T13:45:00+00:00
+ai_modified: 2026-02-06T14:37:00+00:00
 draft: false
 topics:
   - "[[materialism]]"
@@ -22,7 +22,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-06
 last_curated:
-last_deep_review:
+last_deep_review: 2026-02-06T14:37:00+00:00
 ---
 
 Occam's Razor—the principle that simpler explanations should be preferred—is the most common objection to [[interactionist-dualism|dualism]]. Physicalism posits one kind of substance; dualism posits two. Case closed? The Unfinishable Map argues no. Parsimony fails as a decisive principle in the consciousness debate for reasons that are well-established in the philosophical literature but rarely assembled together. The precondition for applying parsimony—that competing theories explain the data equally well—is unmet. Simplicity itself fragments into conflicting dimensions that yield contradictory verdicts. And the accounts of *why* parsimony works in empirical science do not extend to metaphysical theory choice.
@@ -31,11 +31,11 @@ Occam's Razor—the principle that simpler explanations should be preferred—is
 
 Occam's Razor applies when two theories explain the same data and one is simpler. This is critical: parsimony is a tie-breaker, not a first principle. It arbitrates between theories of *equal explanatory power*.
 
-Physicalism does not explain [[hard-problem-of-consciousness|phenomenal consciousness]]. It correlates neural states with experience. It predicts which brain regions activate during which tasks. But it does not explain *why there is something it is like* to undergo those processes. Joseph Levine's explanatory gap (1983) and David Chalmers' hard problem (1996) both identify the same deficit: physical descriptions, however complete, do not entail phenomenal facts.
+Physicalism does not explain [[hard-problem-of-consciousness|phenomenal consciousness]]. It correlates neural states with experience. It predicts which brain regions activate during which tasks. But it does not explain *why there is something it is like* to undergo those processes. Joseph Levine's [[explanatory-gap|explanatory gap]] (1983) and David Chalmers' hard problem (1996) both identify the same deficit: physical descriptions, however complete, do not entail phenomenal facts. The [[knowledge-argument]] reinforces this point—even complete physical knowledge fails to capture what it is like to have an experience.
 
-Weak reductionists who accept physicalism on parsimony grounds must posit what the *Internet Encyclopedia of Philosophy* calls "brute identity" between neural and phenomenal properties—an unexplained correlation elevated to metaphysical law. As the IEP puts it, physicalism achieves its simplicity "only by accepting an unexplained brute identity between distinct property types." A theory that purchases ontological economy by leaving its central explanandum unexplained has not earned the parsimony discount.
+Weak reductionists who accept physicalism on parsimony grounds must posit what amounts to a brute identity between neural and phenomenal properties—an unexplained correlation elevated to metaphysical law. As the *Internet Encyclopedia of Philosophy* notes in its discussion of identity theory, physicalists who treat mind-brain identity as a brute, unexplained fact face the objection that such identities are "unprecedented in our ontology." A theory that purchases ontological economy by leaving its central explanandum unexplained has not earned the parsimony discount.
 
-The point is not that physicalism fails entirely as a research programme. It is that physicalism and dualism do not explain consciousness equally well, which means the basic precondition for invoking parsimony is unmet. In Sober's terms, the cases where competing hypotheses genuinely explain a phenomenon equally well "are comparatively rare" (SEP, "Simplicity"). The consciousness debate is not one of them.
+The point is not that physicalism fails entirely as a research programme. It is that physicalism and dualism do not explain consciousness equally well, which means the basic precondition for invoking parsimony is unmet. As biologist Kent Holsinger observes, "cases where competing hypotheses explain a phenomenon equally well are comparatively rare" (quoted in Baker 2022, SEP "Simplicity"). The consciousness debate is not one of them.
 
 ## Simplicity Is Not One Thing
 
@@ -43,7 +43,7 @@ Even granting that parsimony has some epistemic value, which dimension of simpli
 
 **Ontological parsimony**: fewer kinds of entities. Physicalism scores well here—one substance type rather than two.
 
-**Syntactic simplicity**: fewer or simpler theoretical principles. Here physicalism fares worse. Accommodating consciousness within a physicalist framework requires elaborate moves—functionalism, higher-order theories, illusionism—each adding theoretical machinery to bridge the explanatory gap.
+**Syntactic simplicity**: fewer or simpler theoretical principles. Here physicalism fares worse. Accommodating consciousness within a physicalist framework requires elaborate theoretical moves—functionalism, higher-order theories, [[illusionism]]—each an alternative attempt to bridge the [[explanatory-gap|explanatory gap]], and each adding substantial theoretical machinery that the base physicalist ontology alone cannot supply.
 
 **Explanatory simplicity**: fewer unexplained brute facts. Dualism posits a non-physical aspect of reality but offers a straightforward account of why consciousness exists: because there is genuinely something non-physical going on. Physicalism must treat the existence of phenomenal experience as a brute fact about physical arrangements—something that just *happens* when matter is configured correctly, with no deeper explanation available.
 
@@ -65,7 +65,7 @@ The convergence is notable. Three independent philosophical investigations—Hue
 
 The history of science provides repeated cases where the simpler theory was wrong:
 
-**Heliocentrism** initially required more epicycles than Ptolemy's geocentric model. The "parsimonious" theory placed Earth at the centre. Copernicus was vindicated not by simplicity but by later theoretical developments (Kepler's ellipses, Newton's gravity) that reconceptualised what simplicity meant.
+**Heliocentrism** in its original Copernican form was arguably no simpler than Ptolemy's geocentric model—Copernicus still needed circular orbits and epicycles, and the system's comparative simplicity remains debated among historians of science. The "parsimonious" geocentric model held sway for centuries. Copernicus was vindicated not by simplicity but by later theoretical developments (Kepler's ellipses, Newton's gravity) that reconceptualised what simplicity meant.
 
 **Atomic theory** posited invisible, indivisible particles when continuous matter seemed the simpler hypothesis. Ernst Mach resisted atoms on parsimony grounds into the twentieth century. He was wrong.
 
@@ -79,7 +79,7 @@ These are not isolated exceptions. They cluster at moments when existing concept
 
 ## The Smart Retraction
 
-One historical episode is particularly instructive. J. J. C. Smart, in his influential 1959 paper "Sensations and Brain Processes," invoked Occam's Razor as a central argument for mind-brain identity theory. The argument attracted immediate criticism and Smart, to his credit, ultimately retracted his advocacy of parsimony as grounds for physicalism. Even Paul Churchland—no friend of dualism—concedes that Occam's Razor is "inconclusive regarding duality." When the philosopher who made the parsimony argument for physicalism famous abandons it, the argument's limitations are hard to deny.
+One historical episode is particularly instructive. J. J. C. Smart, in his influential 1959 paper "Sensations and Brain Processes," invoked Occam's Razor as a central argument for mind-brain identity theory. The argument attracted immediate criticism and Smart, to his credit, ultimately retracted his advocacy of parsimony as grounds for physicalism. Even Paul Churchland—no friend of dualism—concedes that the simplicity argument is "not a conclusive argument for materialism," since "neither dualism nor materialism can yet explain all the phenomena that need to be explained" (1984). When the philosopher who made the parsimony argument for physicalism famous abandons it, the argument's limitations are hard to deny.
 
 ## Relation to Site Perspective
 
@@ -96,6 +96,9 @@ The Map does not claim parsimony is useless. It remains a valuable heuristic in 
 - [[arguments-for-dualism]]
 - [[against-materialism]]
 - [[hard-problem-of-consciousness]]
+- [[explanatory-gap]]
+- [[causal-closure]]
+- [[intuitive-dualism]]
 - [[mysterianism]]
 - [[tenets]]
 
@@ -105,6 +108,7 @@ The Map does not claim parsimony is useless. It remains a valuable heuristic in 
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 - Churchland, P. (1984). *Matter and Consciousness*. MIT Press.
 - Crick, F. (1988). *What Mad Pursuit*. Basic Books.
+- Holsinger, K. (1980). "Comment on Laudan's 'Thomas Kuhn and the Demise of Methodology.'" *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association* 1980: 144-145.
 - Huemer, M. (2009). "When Is Parsimony a Virtue?" *The Philosophical Quarterly* 59(235): 216-236.
 - Krizek, G. (2017). "Ockham's Razor and the Interpretations of Quantum Mechanics." arXiv:1701.06564.
 - Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly* 64: 354-361.

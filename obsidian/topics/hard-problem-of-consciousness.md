@@ -266,7 +266,7 @@ If physical explanation cannot reach consciousness, the scientific worldview is 
 
 ## Relation to the Map's Perspective
 
-The hard problem is the foundation of the Map's [[tenets|Dualism tenet]]. The explanatory gap remains unbridged—no amount of neurological detail tells us *why* there is something it is like to be conscious. See [[dualism]] for the full treatment.
+The hard problem is the foundation of the Map's [[tenets|Dualism tenet]]. The explanatory gap remains unbridged—no amount of neurological detail tells us *why* there is something it is like to be conscious. [[cognitive-science-of-dualism|Cognitive science's own methodology]] reinforces this conclusion: the field depends on first-person report to ground its measurements, its findings on intuitive dualism are mixed, and neither predictive processing nor neural correlate research has closed the gap. See [[dualism]] for the full treatment.
 
 If consciousness is not reducible to physics, how might mind and matter interact? The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets sketch one possibility: consciousness influences physical outcomes at the quantum level, where physics leaves room for undetermined events. The hard problem demands we keep our ontology open—the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet acknowledges that the apparent simplicity of physicalism may reflect ignorance rather than insight.
 

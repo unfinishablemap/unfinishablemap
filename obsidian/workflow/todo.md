@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate cognitive-science-of-dualism.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-05) has no inbound links. Covers Paul Bloom's developmental psychology evidence that dualism is cognitively natural. Add cross-references from intuitive-dualism.md, arguments-for-dualism.md, consciousness.md, and other relevant articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-06
-
 ### P2: Integrate aesthetic-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Voids article (2026-02-05) has no inbound links. Explores the void at the intersection of consciousness and aesthetic experience—why beauty resists full articulation. Add cross-references from aesthetic-dimension-of-consciousness.md, qualia.md, and related phenomenology articles.
@@ -757,6 +751,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Integrate cognitive-science-of-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-05) has no inbound links. Covers Paul Bloom's developmental psychology evidence that dualism is cognitively natural. Add cross-references from intuitive-dualism.md, arguments-for-dualism.md, consciousness.md, and other relevant articles.
+- **Output**: obsidian/topics/cognitive-science-of-dualism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-06: Review intuitive-dualism.md considering cognitive-science-of-dualism insights
 - **Type**: cross-review
