@@ -1,10 +1,10 @@
 ---
 title: "The Attention-Consciousness Dissociation"
-description: "Attention and consciousness can come apart—you can attend without awareness and be aware without attending. This dissociation suggests consciousness is something over and above attentional mechanisms."
+description: "Attention and consciousness can come apart. Unlike other double dissociations, this one involves the hard problem—making it uniquely consequential for theories of consciousness."
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-02-05T17:58:00+00:00
+ai_modified: 2026-02-06T10:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,9 +31,7 @@ last_curated:
 last_deep_review: 2026-02-05T17:58:00+00:00
 ---
 
-Attention and consciousness can come apart. Blindsight patients orient toward stimuli they deny seeing—attention without awareness. Peripheral vision delivers conscious experience without focal attention—awareness without attending. This empirical dissociation carries philosophical weight: if consciousness were identical to attention, or if attention were necessary and sufficient for consciousness, these splits would be impossible. The dissociation evidence suggests consciousness is something over and above attentional mechanisms—supporting [[tenets#^dualism|dualist]] conclusions about the irreducibility of experience.
-
-This article examines what the dissociation debate means for theories of consciousness, why the "overflow" question matters, and how the evidence constrains what consciousness can be.
+Attention and consciousness can come apart. Blindsight patients orient toward stimuli they deny seeing—attention without awareness. Peripheral vision delivers conscious experience without focal attention—awareness without attending. This empirical dissociation carries philosophical weight: if consciousness were identical to attention, or if attention were necessary and sufficient for consciousness, these splits would be impossible. In standard cognitive neuroscience, double dissociations identify distinct physical processes—but the consciousness-attention case is uniquely significant because one side of the dissociation is the very phenomenon whose relationship to physical processes is in question. This article examines both the physicalist and dualist readings of the evidence, arguing that the [[hard-problem-of-consciousness|hard problem]] makes this dissociation more theoretically consequential than other double dissociations in cognitive science.
 
 ## The Four Cases
 
@@ -48,7 +46,7 @@ Koch and Tsuchiya's 2007 framework organises the evidence into four possibilitie
 
 Cases (c) and (d) are philosophically significant. If attention can operate on stimuli that never reach consciousness (blindsight), and consciousness can include content that isn't focally attended (peripheral awareness), then attention and consciousness are distinct processes with different neural substrates.
 
-The empirical case has strengthened since 2006. A 2025 eLife study (Nartker et al.) found that inattentionally blind participants retain visual sensitivity to stimuli they deny noticing—"the strongest evidence to date of significant residual visual sensitivity in IB." This challenges claims that inattentional blindness supports consciousness requiring attention.
+The empirical case has strengthened since 2006. A 2025 eLife study (Nartker et al.) found that inattentionally blind participants retain visual sensitivity to stimuli they deny noticing—what the authors describe as "the strongest evidence to date of significant residual visual sensitivity in IB." This challenges claims that inattentional blindness supports consciousness requiring attention.
 
 ## The Overflow Debate
 
@@ -82,21 +80,37 @@ The Stanford Encyclopedia notes that empirical debates about consciousness beyon
 
 ## What Dissociation Reveals
 
-Despite methodological limits, the existing evidence constrains theory. The dissociation findings suggest:
+Despite methodological limits, the existing evidence constrains theory.
 
-### Consciousness Is Not a Process
+### The Physicalist Reading
 
-If consciousness were identical to attention—a process that selects, filters, and broadcasts information—the dissociation cases would be incoherent. How could the selection process occur without the selection occurring? The fact that attention can operate unconsciously (blindsight) shows attention is a process consciousness can *use* without *being*.
+Double dissociation is the standard tool of cognitive neuroscience for identifying *distinct physical processes*. Face recognition and object recognition dissociate (prosopagnosia vs. visual agnosia); working memory and long-term memory dissociate; perception and action dissociate (optic ataxia vs. visual form agnosia). In every other case, the conclusion is that two distinct neural circuits are involved—not that one is non-physical.
 
-### Consciousness Is Not Access
+The physicalist reading of attention-consciousness dissociation follows the same logic: attention and phenomenal access are partially overlapping neural processes using different circuits. Blindsight shows degraded visual processing with residual unconscious capacities. Peripheral awareness shows neural activity reaching phenomenal processing without attentional selection. On this view, dissociation maps the wiring diagram, nothing more.
 
-Global Workspace Theory identifies consciousness with global broadcast—information becoming available to multiple brain systems. But peripheral awareness suggests conscious content that hasn't achieved global broadcast. If you're conscious of the coffee cup in your peripheral vision even as you focus on this text, consciousness includes content that isn't currently broadcast.
+This reading deserves serious engagement because it is parsimonious and consistent with how dissociation evidence is treated everywhere else in cognitive neuroscience.
 
-### The Hard Problem Persists
+### Why This Dissociation Is Different
 
-Dissociation evidence is awkward for both physicalist and eliminativist positions. Physicalists who identify consciousness with attention face the (c) and (d) cases. Eliminativists who deny phenomenal consciousness exists must explain what dissociates from what—if there's no phenomenal consciousness, what is attention dissociable *from*?
+The consciousness-attention case differs from face-object or perception-action dissociations in a way that matters philosophically. When face recognition and object recognition dissociate, both sides of the dissociation are third-person observable processes. We can characterise each by its inputs, outputs, and neural substrates without remainder.
 
-The evidence sits most comfortably with views that treat consciousness as something over and above functional mechanisms. Consciousness *uses* attention, *correlates* with neural processes, *involves* global broadcast—but isn't identical to any of these.
+Consciousness is not like that. The dissociation here is between a third-person process (attention—measurable by its effects on reaction times, neural activation, behavioural accuracy) and something that resists third-person characterisation (phenomenal experience—what it is like to see, hear, or feel). This asymmetry is what the [[hard-problem-of-consciousness|hard problem]] identifies: explaining why any physical process is accompanied by experience at all.
+
+When attention operates without consciousness (blindsight), the puzzle is not just "two circuits are separate"—it is that the circuit associated with phenomenal experience can go silent while the information-processing circuit continues. For every other double dissociation, both dissociating components are functional capacities describable in information-processing terms. Here, one component—consciousness—is the very thing whose relationship to information processing is in question.
+
+This does not *prove* consciousness is non-physical. A physicalist can maintain that phenomenal access is simply a poorly understood neural process that will eventually be characterised in third-person terms. But the dissociation evidence is *more* constraining for theories of consciousness than for theories of, say, face recognition, precisely because the hard problem makes the explanatory gap between the two sides of this dissociation qualitatively different from other cases.
+
+### Constraints on Theory
+
+The dissociation findings constrain what consciousness can be, regardless of one's metaphysical starting point:
+
+**Consciousness is not identical to attention.** If consciousness were the same process as attention, the (c) and (d) cases would be incoherent. Attention can operate unconsciously (blindsight), showing that attention is a process consciousness can *use* without *being*.
+
+**Consciousness is not identical to access.** Global Workspace Theory identifies consciousness with global broadcast—information becoming available to multiple brain systems. But peripheral awareness suggests conscious content that hasn't achieved global broadcast.
+
+**The explanatory gap remains.** Dissociation evidence is awkward for both physicalist and eliminativist positions. Physicalists who identify consciousness with attention face the (c) and (d) cases. Eliminativists who deny phenomenal consciousness exists must explain what dissociates from what—if there's no phenomenal consciousness, what is attention dissociable *from*?
+
+The evidence is particularly consonant with views that treat consciousness as something over and above functional mechanisms—consciousness *uses* attention, *correlates* with neural processes, *involves* global broadcast—but isn't identical to any of these. However, this consonance is not decisive. The same evidence is compatible with the view that consciousness is a distinct physical process not yet characterised, and intellectual honesty requires acknowledging this ambiguity.
 
 ## The 2025 Adversarial Testing
 
@@ -142,9 +156,9 @@ The illusionist response: "consciousness" is just what we call certain patterns 
 
 ### For Dualism
 
-The dissociation evidence fits naturally with [[interactionist-dualism|interactionist dualism]]. Consciousness is a non-physical subject that typically operates through attention mechanisms but isn't identical to them. The subject can receive content without actively engaging (peripheral awareness), and the mechanisms can operate without the subject (blindsight).
+The dissociation evidence fits naturally with [[interactionist-dualism|interactionist dualism]]. If consciousness is a non-physical subject that typically operates through attention mechanisms, dissociation is expected: the subject can receive content without actively engaging (peripheral awareness), and the mechanisms can operate without the subject (blindsight).
 
-This isn't proof of dualism—the evidence is compatible with various views—but the pattern of findings is what dualism predicts. A distinct consciousness *should* be separable from its mechanisms.
+As argued in the previous section, this dissociation is not proof of dualism. A physicalist can read the same evidence as showing two distinct neural processes. But the consciousness-attention case is uniquely relevant to the dualism debate because one side of the dissociation—consciousness—is precisely the phenomenon whose physical reducibility is in question. The pattern of findings is what dualism predicts, and the hard problem gives reason to think this particular dissociation may not reduce to circuit-mapping in the way that face-object dissociation does.
 
 ## The Effort Question
 
@@ -160,7 +174,7 @@ This connects dissociation to [[free-will]]. If attention can be effortful, and 
 
 The attention-consciousness dissociation illuminates The Unfinishable Map's framework:
 
-**[[tenets#^dualism|Dualism]]**: Dissociation evidence supports irreducibility. If consciousness were any functional mechanism, it couldn't dissociate from that mechanism's operation. The evidence suggests consciousness is something that *uses* mechanisms without *being* them.
+**[[tenets#^dualism|Dualism]]**: Dissociation evidence is consistent with irreducibility, though not decisive. Unlike other double dissociations in cognitive science, the consciousness-attention case involves the hard problem—one side of the dissociation is the very phenomenon whose physical reducibility is in question. If consciousness were any functional mechanism, it couldn't dissociate from that mechanism's operation. The evidence suggests consciousness *uses* mechanisms without *being* them, though a physicalist can read the same data as mapping distinct neural circuits.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The interface model locates interaction at attention—consciousness operates through attentional engagement, not through diffuse influence everywhere. Dissociation specifies where consciousness engages (attention) versus where it merely receives (peripheral awareness).
 
@@ -189,3 +203,21 @@ The attention-consciousness dissociation illuminates The Unfinishable Map's fram
 - Nartker, M. et al. (2025). Sensitivity to visual features in inattentional blindness. *eLife*.
 - Stanford Encyclopedia of Philosophy. Attention (Fall 2024 Edition).
 - van Boxtel, J.J.A., Tsuchiya, N., & Koch, C. (2010). Consciousness and attention: On sufficiency and necessity. *Frontiers in Psychology*, 1, 217.
+
+<!-- AI REFINEMENT LOG - 2026-02-06
+Changes made:
+- Added "The Physicalist Reading" subsection addressing how double dissociations are the standard tool of physicalist cognitive neuroscience for identifying distinct neural circuits
+- Added "Why This Dissociation Is Different" subsection arguing that the consciousness-attention case is uniquely significant because one side involves the hard problem (phenomenal experience resists third-person characterisation)
+- Restructured "What Dissociation Reveals" into three subsections: physicalist reading, why this case differs, and constraints on theory
+- Revised opening summary to acknowledge both physicalist and dualist readings rather than jumping to dualist conclusions
+- Updated "For Dualism" subsection to acknowledge interpretive ambiguity while explaining why the hard problem makes this dissociation uniquely relevant
+- Updated "Relation to Site Perspective" Dualism entry to be more measured
+- Fixed Nartker et al. quote attribution to clarify it's the authors' description
+- Removed redundant transitional paragraph after opening
+- Updated description to reflect the refined argument
+
+Based on pessimistic review (2026-02-06) Issue 2: double dissociation misinterpreted as evidence for non-physical entity.
+Key improvements: Explicitly engaging with physicalist reading, arguing the hard problem distinguishes this dissociation from others, acknowledging interpretive ambiguity throughout.
+
+This log should be removed after human review.
+-->
