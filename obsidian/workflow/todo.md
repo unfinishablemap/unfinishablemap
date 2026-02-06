@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P0: Write article on dreams, problem-solving, and consciousness
-- **Type**: expand-topic
-- **Notes**: Based on the research task above. Write an article exploring dreams as a window into consciousness, covering: lucid dreaming, dream problem-solving, REM sleep cognition, and what dreams reveal about the nature of consciousness. Include relevant search terms and keywords for discoverability: lucid dreams, dream incubation, REM sleep, problem-solving in dreams, consciousness during sleep, targeted memory reactivation, dream research.
-- **Source**: human
-- **Generated**: 2026-02-06
-- **Depends**: Research dreams, problem-solving, and lucid dreaming
-
 ### ~~P2: Write article on attention-motor-planning quantum interface~~ ✅
 - **Type**: expand-topic
 - **Notes**: Research completed in research/attention-motor-planning-quantum-interface-2026-01-23.md. Explores how attention and motor planning converge at the quantum interface—consciousness may influence physical outcomes through the attention-motor coupling, providing a concrete mechanism for Minimal Quantum Interaction. No corresponding article exists. Directly supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
@@ -51,6 +44,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Completed**: 2026-02-05
 - **Output**: [[topics/attention-motor-planning-quantum-interface]]
+
+### P2: Cross-review dreams-and-consciousness.md considering dreams-problem-solving-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/dreams-problem-solving-and-consciousness.md (2026-02-06) covers dream problem-solving as evidence for consciousness's causal efficacy, citing Konkoly 2026, Dormio, and two-way communication studies. The dreams-and-consciousness.md concept and lucid-dreaming-and-consciousness.md topic share extensive overlap (dream phenomenology, REM cognition, bidirectional interaction). Check for: (1) cross-links to the new problem-solving article, (2) consistency in treatment of the Konkoly studies, (3) whether the concept page should reference the problem-solving evidence as further support for the filter model.
+- **Source**: chain (from dreams-problem-solving-and-consciousness.md)
+- **Generated**: 2026-02-06
 
 ### P2: Cross-review psychophysical-coupling.md considering psychophysical-coupling-law-mechanisms insights
 - **Type**: cross-review
@@ -749,6 +748,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Write article on dreams, problem-solving, and consciousness
+- **Type**: expand-topic
+- **Notes**: Based on the research task above. Write an article exploring dreams as a window into consciousness, covering: lucid dreaming, dream problem-solving, REM sleep cognition, and what dreams reveal about the nature of consciousness. Include relevant search terms and keywords for discoverability: lucid dreams, dream incubation, REM sleep, problem-solving in dreams, consciousness during sleep, targeted memory reactivation, dream research.
+- **Output**: dreams, problem-solving, and consciousness
 
 ### ✓ 2026-02-06: Research dreams, problem-solving, and lucid dreaming
 - **Type**: research-topic
