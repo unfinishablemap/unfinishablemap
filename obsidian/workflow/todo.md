@@ -45,12 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Completed**: 2026-02-05
 - **Output**: [[topics/attention-motor-planning-quantum-interface]]
 
-### P2: Cross-review dreams-and-consciousness.md considering dreams-problem-solving-and-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article topics/dreams-problem-solving-and-consciousness.md (2026-02-06) covers dream problem-solving as evidence for consciousness's causal efficacy, citing Konkoly 2026, Dormio, and two-way communication studies. The dreams-and-consciousness.md concept and lucid-dreaming-and-consciousness.md topic share extensive overlap (dream phenomenology, REM cognition, bidirectional interaction). Check for: (1) cross-links to the new problem-solving article, (2) consistency in treatment of the Konkoly studies, (3) whether the concept page should reference the problem-solving evidence as further support for the filter model.
-- **Source**: chain (from dreams-problem-solving-and-consciousness.md)
-- **Generated**: 2026-02-06
-
 ### P2: Cross-review psychophysical-coupling.md considering psychophysical-coupling-law-mechanisms insights
 - **Type**: cross-review
 - **Notes**: New article topics/psychophysical-coupling-law-mechanisms.md (2026-02-05) provides detailed mechanistic analysis of the five coupling candidates with a three-tier adequacy framework. The psychophysical-coupling.md concept shares extensive overlap (psychophysical-laws, selection-laws, quantum-consciousness, mental-causation, decoherence, stapp-quantum-mind, attention). Check for: (1) cross-links to the new mechanisms article, (2) consistency in mechanism descriptions between the two articles, (3) whether the concept page should defer more detailed mechanistic treatment to the new topics article to reduce duplication.
@@ -748,6 +742,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Cross-review dreams-and-consciousness.md considering dreams-problem-solving-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/dreams-problem-solving-and-consciousness.md (2026-02-06) covers dream problem-solving as evidence for consciousness's causal efficacy, citing Konkoly 2026, Dormio, and two-way communication studies. The dreams-and-consciousness.md concept and lucid-dreaming-and-consciousness.md topic share extensive overlap (dream phenomenology, REM cognition, bidirectional interaction). Check for: (1) cross-links to the new problem-solving article, (2) consistency in treatment of the Konkoly studies, (3) whether the concept page should reference the problem-solving evidence as further support for the filter model.
+- **Output**: obsidian/concepts/dreams-and-consciousness.md -- Context: Cross-review dreams-and-consciousness.md considering dreams-problem-solving-and-consciousness insights
 
 ### ✓ 2026-02-06: Write article on dreams, problem-solving, and consciousness
 - **Type**: expand-topic
