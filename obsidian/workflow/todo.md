@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Research epistemological limits of Occam's Razor for consciousness
-- **Type**: research-topic
-- **Notes**: Tenet 5 (Occam's Razor Has Limits) is the least defended foundational commitment. The site needs a 5th argument article (currently 4 of 5 target). Research the philosophical literature on why parsimony fails for consciousness—historical cases where simpler theories were wrong (heliocentrism, atoms, quantum mechanics), the difference between ontological and methodological parsimony, and why consciousness's irreducibility makes simplicity an unreliable guide. This research will feed a future expand-topic for the 5th argument.
-- **Source**: gap_analysis
-- **Generated**: 2026-02-06
-
 ### P2: Review free-will.md considering dreams-problem-solving insights
 - **Type**: cross-review
 - **Notes**: New article topics/dreams-problem-solving-and-consciousness.md (2026-02-06) provides empirical evidence for consciousness doing causal work during dreaming—lucid dream problem-solving, incubation effects, and dreams as evidence against epiphenomenalism. Check free-will.md for opportunities to cross-link, reinforce bidirectional interaction arguments, or address any tensions.
@@ -769,6 +763,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Research epistemological limits of Occam's Razor for consciousness
+- **Type**: research-topic
+- **Notes**: Tenet 5 (Occam's Razor Has Limits) is the least defended foundational commitment. The site needs a 5th argument article (currently 4 of 5 target). Research the philosophical literature on why parsimony fails for consciousness—historical cases where simpler theories were wrong (heliocentrism, atoms, quantum mechanics), the difference between ontological and methodological parsimony, and why consciousness's irreducibility makes simplicity an unreliable guide. This research will feed a future expand-topic for the 5th argument.
+- **Output**: epistemological limits of Occam's Razor for consciousness
 
 ### ✓ 2026-02-06: Address double-dissociation interpretation in attention-consciousness article
 - **Type**: refine-draft
