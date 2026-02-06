@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 10:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/psychophysical-coupling-law-mechanisms]]
+- **Changes**: Expanded decoherence retreat treatment with explicit falsifiability acknowledgment and three candidate discriminators; added circularity concern; strengthened epistemic hedging on unreplicated studies (Kerskens & Pérez, Wiest et al.); updated tenet discussion; fixed citation year; applied language improvements
+- **Published**: yes
+
 ## 2026-02-06 10:06 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/dreams-problem-solving-and-consciousness]]

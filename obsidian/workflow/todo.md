@@ -45,12 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Completed**: 2026-02-05
 - **Output**: [[topics/attention-motor-planning-quantum-interface]]
 
-### P2: Address unfalsifiable retreat in Stapp's coupling mechanism
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-06) found that psychophysical-coupling-law-mechanisms.md retreats from the Zeno mechanism to "consciousness biases post-decoherence outcomes" when confronted with decoherence timescale objections. This revised mechanism has no testable predictions distinct from ordinary stochastic neural processes. Needs: (1) explicit acknowledgment that the retreat reduces falsifiability, (2) identification of what empirical finding would distinguish the post-decoherence version from stochastic neural selection, (3) clearer differentiation between established and unreplicated evidence (Kerskens & Pérez, Wiest et al.). See pessimistic-2026-02-06.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-06
-
 ### P2: Address double-dissociation interpretation in attention-consciousness article
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-06) found that attention-consciousness-dissociation.md treats the attention-consciousness double dissociation as evidence for a non-physical entity, but double dissociations are the standard tool of physicalist cognitive neuroscience for identifying distinct neural circuits. The article needs: (1) a section explicitly addressing the physicalist interpretation of double dissociation, (2) an argument for why consciousness-attention dissociation is different from other double dissociations (e.g., face vs object recognition), or acknowledgment of interpretive ambiguity. See pessimistic-2026-02-06.md
@@ -739,6 +733,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Address unfalsifiable retreat in Stapp's coupling mechanism
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-06) found that psychophysical-coupling-law-mechanisms.md retreats from the Zeno mechanism to "consciousness biases post-decoherence outcomes" when confronted with decoherence timescale objections. This revised mechanism has no testable predictions distinct from ordinary stochastic neural processes. Needs: (1) explicit acknowledgment that the retreat reduces falsifiability, (2) identification of what empirical finding would distinguish the post-decoherence version from stochastic neural selection, (3) clearer differentiation between established and unreplicated evidence (Kerskens & Pérez, Wiest et al.). See pessimistic-2026-02-06.md
+- **Output**: Task context:
+Pessimistic review (2026-02-06) found that psychophysical-coupling-law-mechanisms.md retreats from the Zeno mechanism to "consciousness biases post-decoherence outcomes" when confronted with decoherence timescale objections. This revised mechanism has no testable predictions distinct from ordinary stochastic neural processes. Needs: (1) explicit acknowledgment that the retreat reduces falsifiability, (2) identification of what empirical finding would distinguish the post-decoherence version from stochastic neural selection, (3) clearer differentiation between established and unreplicated evidence (Kerskens & Pérez, Wiest et al.). See pessimistic-2026-02-06.md
+
+### ✓ 2026-02-06: Refine psychophysical-coupling-law-mechanisms.md — address unfalsifiable retreat
+- **Type**: refine-draft
+- **Notes**: Addressed pessimistic review issues: expanded decoherence retreat with explicit falsifiability acknowledgment, added three candidate discriminators, added circularity concern, strengthened evidence hedging (Kerskens & Pérez, Wiest et al.), updated tenet discussion, fixed citation, applied language improvements.
+- **Output**: obsidian/topics/psychophysical-coupling-law-mechanisms.md
 
 ### ✓ 2026-02-06: Cross-review hard-problem-of-consciousness.md considering emergence-void insights
 - **Type**: cross-review
