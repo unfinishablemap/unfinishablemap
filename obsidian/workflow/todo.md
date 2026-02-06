@@ -753,6 +753,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-06
 
+### P2: Address equivocation between causal efficacy and non-physicality in evolutionary-case-for-mental-causation.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the article argues consciousness is causally efficacious (which physicalists accept) then slides into treating this as evidence for dualism. Missing engagement with non-reductive physicalism—the strongest competing view. Add section addressing physicalist mental causation and explain what additional arguments bridge from causal efficacy to non-physicality. See pessimistic-2026-02-06-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-06
+
+### P2: Reduce quantum overemphasis in binding-problem.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found quantum binding material dominates ~1/3 of the article and violates writing style guide warnings about quantum mechanism overemphasis. The claim "current evidence favours quantum binding" overstates the evidential situation. Reduce quantum section, strengthen alternative approaches, and recalibrate confidence language. See pessimistic-2026-02-06-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-06
+
 ## Completed Tasks
 
 
