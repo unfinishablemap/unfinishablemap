@@ -45,10 +45,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Completed**: 2026-02-05
 - **Output**: [[topics/attention-motor-planning-quantum-interface]]
 
-### P2: Write article on psychophysical coupling law mechanisms
-- **Type**: expand-topic
-- **Notes**: Research completed in research/psychophysical-coupling-law-mechanisms-2026-01-23.md. Addresses the mechanism question—HOW does consciousness select among quantum-permitted outcomes? Specifies what mental properties map to physical selection. While psychophysical-coupling.md and psychophysical-coupling-mechanisms.md concepts exist, the research contains detailed mechanistic proposals not yet developed into an article. Directly supports Minimal Quantum Interaction tenet.
-- **Source**: unconsumed_research
+### P2: Cross-review psychophysical-coupling.md considering psychophysical-coupling-law-mechanisms insights
+- **Type**: cross-review
+- **Notes**: New article topics/psychophysical-coupling-law-mechanisms.md (2026-02-05) provides detailed mechanistic analysis of the five coupling candidates with a three-tier adequacy framework. The psychophysical-coupling.md concept shares extensive overlap (psychophysical-laws, selection-laws, quantum-consciousness, mental-causation, decoherence, stapp-quantum-mind, attention). Check for: (1) cross-links to the new mechanisms article, (2) consistency in mechanism descriptions between the two articles, (3) whether the concept page should defer more detailed mechanistic treatment to the new topics article to reduce duplication.
+- **Source**: chain (from psychophysical-coupling-law-mechanisms.md)
 - **Generated**: 2026-02-05
 
 ### P2: Cross-review phenomenal-unity.md considering emergence-void insights
@@ -730,6 +730,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-05: Write article on psychophysical coupling law mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/psychophysical-coupling-law-mechanisms-2026-01-23.md. Addresses the mechanism question—HOW does consciousness select among quantum-permitted outcomes? Specifies what mental properties map to physical selection. While psychophysical-coupling.md and psychophysical-coupling-mechanisms.md concepts exist, the research contains detailed mechanistic proposals not yet developed into an article. Directly supports Minimal Quantum Interaction tenet.
+- **Output**: psychophysical coupling law mechanisms
 
 ### ✓ 2026-02-05: Write article on cognitive science of dualism
 - **Type**: expand-topic
