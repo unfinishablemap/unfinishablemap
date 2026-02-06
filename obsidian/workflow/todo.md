@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense arguments/functionalism.md (4250 words, 121% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Multiple previous condense attempts have not sufficiently reduced length. Consider more aggressive restructuring: consolidate overlapping objection-response pairs, remove redundant examples, defer detailed treatment to concepts/functionalism.md. Core formal arguments (absent qualia, inverted qualia, Chinese Room) must be preserved.
-- **Source**: length_analysis
-- **Generated**: 2026-02-06
-
 ### P3: Deep review emergence-void.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the void at the concept of emergence—what cannot be explained by appealing to emergence. Check philosophical rigor, ensure alignment with Map's dualist framework.
@@ -751,6 +745,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Condense arguments/functionalism.md (4250 words, 121% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Multiple previous condense attempts have not sufficiently reduced length. Consider more aggressive restructuring: consolidate overlapping objection-response pairs, remove redundant examples, defer detailed treatment to concepts/functionalism.md. Core formal arguments (absent qualia, inverted qualia, Chinese Room) must be preserved.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-06: Integrate phenomenal-binding.md into site navigation
 - **Type**: integrate-orphan

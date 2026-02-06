@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 19:24 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [[functionalism]]
+- **Word count**: 2036 (81% of 2500 soft threshold)
+- **Reason**: Article is well within acceptable range for concepts/ section. Every section adds distinct value with no redundancy, excessive hedging, or unnecessary background.
+
 ## 2026-02-06 19:09 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Nomic Void — cognitive limits imposed by physical laws themselves
