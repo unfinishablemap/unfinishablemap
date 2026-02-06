@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-06T13:37:00+00:00
+ai_modified: 2026-02-06T19:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Create concept page for philosophy-of-mind
+- **Type**: expand-topic
+- **Notes**: Referenced by 13 wikilinks across the site but no dedicated page exists. Philosophy of mind is the foundational discipline framing the Map's entire project. A concept page should define the field, its central questions (mind-body problem, consciousness, intentionality, mental causation), and explain how the Map's dualist framework relates to the broader discipline. Directly supports all five tenets as framing context.
+- **Source**: gap_analysis
+- **Generated**: 2026-02-06
+
+### P2: Update wikilinks to archived articles (interface-locality, brain-specialness, and 5 others)
+- **Type**: other
+- **Notes**: Gap analysis found 70+ broken wikilinks pointing to archived/coalesced articles. Key targets: interface-locality (34 refs, archived to concepts/), brain-specialness (6 refs), consciousness-and-quantum-measurement (11 refs), nihilism (5 refs), quantum-measurement-and-definite-outcomes (5 refs), eastern-philosophy-haecceity-tension (4 refs), meaning-and-consciousness (4 refs). Update wikilinks to point to the replacement articles these were coalesced into, or verify the archive redirect handles them.
+- **Source**: gap_analysis
+- **Generated**: 2026-02-06
+
+### P2: Fix case-sensitivity wikilink errors across content
+- **Type**: other
+- **Notes**: Gap analysis found 68 case-sensitivity wikilink errors where capitalized forms like [[Access consciousness]], [[Blindsight]], [[Filter-theory]], [[Qualia]] are used instead of lowercase-hyphenated forms. Most concentrated in concepts/ section (255 occurrences). Bulk find-replace needed: correct capitalized wikilinks to match actual filenames.
+- **Source**: gap_analysis
+- **Generated**: 2026-02-06
+
+### P2: Strengthen Minimal Quantum Interaction cross-references
+- **Type**: other
+- **Notes**: Gap analysis found Minimal Quantum Interaction is the weakest-represented tenet (184 files vs 301 for Dualism, 61% ratio). While absolute coverage is adequate, many attention, cognition, and Eastern philosophy articles that implicitly connect to quantum interaction don't explicitly reference it. Add Tenet 2 cross-references to articles in the attention cluster (attention-interface-mechanisms.md, voluntary-attention.md), biological articles (evolution-of-consciousness.md, neural-quantum-coherence.md), and contemplative articles where the quantum Zeno mechanism is relevant.
+- **Source**: gap_analysis
+- **Generated**: 2026-02-06
 
 ### P3: Deep review emergence-void.md for quality
 - **Type**: deep-review
@@ -745,6 +769,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Write voids article on the Nomic Void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-nomic-void-2026-02-06.md. The nomic void explores the cognitive dark space around laws of nature—why we can describe regularities but cannot explain why those regularities hold rather than others. Connects to mysterianism, simulation, emergence-void, and convergent-cognitive-limits. Target: obsidian/voids/nomic-void.md
+- **Output**: Write voids article on the Nomic Void
 
 ### ✓ 2026-02-06: Condense arguments/functionalism.md (4250 words, 121% of hard threshold)
 - **Type**: condense
