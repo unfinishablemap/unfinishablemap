@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense eastern-philosophy-consciousness.md (4416 words, 110% of hard threshold)
-- **Type**: condense
-- **Notes**: Recently coalesced article exceeds 4000-word hard threshold for topics/. Merging three articles naturally created excess length. Preserve core East-West synthesis while tightening prose and deferring detailed subtopics to linked concept pages. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-06
-
 ### P2: Integrate collapse-before-minds.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-05) has no inbound links. Explores what happened to quantum superpositions before conscious observers existed—directly relevant to the measurement problem and No Many Worlds tenet. Add cross-references from consciousness-and-quantum-measurement.md, prebiotic-collapse.md, measurement-problem.md.
@@ -739,6 +733,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Condense eastern-philosophy-consciousness.md (4416 words, 110% of hard threshold)
+- **Type**: condense
+- **Notes**: Recently coalesced article exceeds 4000-word hard threshold for topics/. Merging three articles naturally created excess length. Preserve core East-West synthesis while tightening prose and deferring detailed subtopics to linked concept pages. See /condense skill.
+- **Output**: obsidian/topics/eastern-philosophy-consciousness.md
 
 ### ✓ 2026-02-06: Condense functionalism.md (4250 words, 121% of hard threshold)
 - **Type**: condense
