@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review intuitive-dualism.md considering cognitive-science-of-dualism insights
-- **Type**: cross-review
-- **Notes**: New article topics/cognitive-science-of-dualism.md (2026-02-05) covers Paul Bloom's "natural-born dualists" research and developmental psychology evidence. The existing concepts/intuitive-dualism.md concept page should cross-reference this new work. Check for cross-links, reinforcing arguments from the developmental evidence, and consistency in treatment of innate dualist cognition.
-- **Source**: chain (from cognitive-science-of-dualism.md)
-- **Generated**: 2026-02-06
-
 ### P2: Integrate cognitive-science-of-dualism.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-05) has no inbound links. Covers Paul Bloom's developmental psychology evidence that dualism is cognitively natural. Add cross-references from intuitive-dualism.md, arguments-for-dualism.md, consciousness.md, and other relevant articles.
@@ -763,6 +757,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Review intuitive-dualism.md considering cognitive-science-of-dualism insights
+- **Type**: cross-review
+- **Notes**: New article topics/cognitive-science-of-dualism.md (2026-02-05) covers Paul Bloom's "natural-born dualists" research and developmental psychology evidence. The existing concepts/intuitive-dualism.md concept page should cross-reference this new work. Check for cross-links, reinforcing arguments from the developmental evidence, and consistency in treatment of innate dualist cognition.
+- **Output**: obsidian/concepts/intuitive-dualism.md -- Context: Review intuitive-dualism.md considering cognitive-science-of-dualism insights
 
 ### ✓ 2026-02-06: Review arguments-for-dualism.md considering epistemological-limits-of-occams-razor insights
 - **Type**: cross-review

@@ -3,7 +3,7 @@ title: "Deep Review - Intuitive Dualism"
 created: 2026-02-06
 modified: 2026-02-06
 human_modified: null
-ai_modified: 2026-02-06T13:07:00+00:00
+ai_modified: 2026-02-06T14:22:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -21,69 +21,62 @@ last_curated: null
 
 ## Pessimistic Analysis Summary
 
-Six adversarial personas applied. This is the third review of this article; it has stabilized well.
+Six adversarial personas applied. This is the fourth review of this article (second today); it has stabilized well. This pass focused on integration with the new [[cognitive-science-of-dualism]] topic article.
 
 ### Critical Issues Found
 - None
 
 ### Medium Issues Found
-- **Frontmatter miscategorization**: `first-person-third-person-methodology` and `quantum-neural-timing-constraints` were listed under `concepts:` but are actually topics. Moved to `topics:` list.
-  - Resolution: Fixed frontmatter categorization
-- **Broken related_article**: `mysterianism-cognitive-closure` listed in related_articles doesn't exist as an article (only as research notes). Removed; `mysterianism` already present.
-  - Resolution: Removed non-existent link
-- **Uncontextualized empirical claim**: "280-300ms neural decision windows" lacked inline attribution context.
-  - Resolution: Added "identified in Libet-type experiments" parenthetical
+- **Missing cross-link to cognitive-science-of-dualism topic**: The concept article referenced research notes (`cognitive-science-dualism-2026-01-15`) but not the full topic article that provides broader methodological context (methodological materialism, embodied cognition, predictive processing). Added to frontmatter topics and inline in Two-System View section.
+  - Resolution: Added `[[cognitive-science-of-dualism]]` to frontmatter and inline cross-link
+- **Missing cross-link to theory-of-mind**: Willard & Norenzayan (2013) mentalizing pathway discussed without linking to the dedicated theory-of-mind concept article.
+  - Resolution: Added `[[theory-of-mind]]` wikilink on "mentalizing" reference and to frontmatter concepts
+- **Missing cross-link to embodied-cognition**: Process philosophy section discusses embodiment without linking to the concept article that explores this in depth.
+  - Resolution: Added `[[embodied-cognition]]` inline in process philosophy section and to frontmatter concepts
 
 ### Counterarguments Considered
-- Eliminative materialist: "irreducibly mental elements" in Buddhist section assumes what it needs to prove — bedrock disagreement, not fixable
-- Dennett: determinacy challenge to Frankish could use citation — low priority, argument stands on its own
-- Buddhist (Nagarjuna): Madhyamaka would challenge "irreducibly mental elements" — noted in previous review as low priority, deferred again
+- All bedrock disagreements from previous reviews remain stable:
+  - Eliminative materialist: "irreducibly mental elements" in Buddhist section — bedrock disagreement
+  - Nagarjuna/Madhyamaka: same phrase challenged from opposite direction — bedrock disagreement
+  - Dennett: determinacy challenge to Frankish — low priority, argument stands independently
 
 ## Attribution Accuracy Check
 
-All attributions verified:
-- [x] Bloom (2004) — dual cognitive systems, "natural-born dualists"
-- [x] Barrett et al. (2021) — cross-cultural study, "intuitive materialism"
-- [x] Barlev & Shtulman (2021) — dualism is learned
-- [x] Bering (2002, 2006) — simulation constraints
-- [x] Berent et al. (2024) — LLM dualist representations
-- [x] Chudek et al. (2018) — cross-cultural children's intuitions
-- [x] Richert & Harris (2008) — dualism suppressed not eliminated
-- [x] Willard & Norenzayan (2013) — mentalizing pathway
-- [x] Fox et al. (2012) — meditation predicts introspective accuracy
-- [x] Frankish (2016) — quasi-phenomenal properties
-
-No misattributions, dropped qualifiers, overstated positions, or source/Map conflation found.
+All attributions verified in earlier 2026-02-06 review. No new content claims added — only cross-links. Clean.
 
 ## Optimistic Analysis Summary
 
 ### Strengths Preserved
-- Genetic fallacy argument: "Folk physics is largely accurate for everyday objects despite being wrong about quantum mechanics" — excellent analogy
-- Symmetric problem: "If cognitive naturalness disqualifies beliefs, intuitive materialism would also be suspect" — powerful rhetorical move
-- Process philosophy integration: insight that both intuitive camps correctly sense one pole — genuinely novel
+- Genetic fallacy argument — excellent analogy with folk physics
+- Symmetric problem — powerful rhetorical move
+- Process philosophy integration — genuinely novel synthesis
 - "Explaining the belief doesn't explain the explanandum" — concise and devastating
 - "What Would Challenge This View?" section — model of intellectual honesty
-- Contemplative evidence — adds empirical dimension most philosophy-of-mind articles lack
+- Contemplative evidence — empirical dimension most articles lack
 
 ### Enhancements Made
-- Frontmatter accuracy: corrected topic/concept categorization
-- Removed non-existent related_article link (mysterianism-cognitive-closure)
-- Added empirical context for 280-300ms timing claim
+- Added `[[cognitive-science-of-dualism]]` cross-link (topic article providing methodological framing)
+- Added `[[theory-of-mind]]` cross-link (mentalizing pathway)
+- Added `[[embodied-cognition]]` cross-link (process philosophy connection)
+- Updated Further Reading with two new entries
 
 ### Cross-links Added
-- None new (existing cross-links are comprehensive)
+- [[cognitive-science-of-dualism]] — broader methodological context for cognitive science findings
+- [[theory-of-mind]] — mentalizing as pathway to dualism (Willard & Norenzayan)
+- [[embodied-cognition]] — body-mind integration relevant to process philosophy section
 
 ## Remaining Items
 
-None. Article has reached stability after three reviews.
+None. Article remains stable. The cross-linking improvements connect it to the newer topic article that provides the broader methodological framing for the cognitive science evidence discussed here.
 
 ## Stability Notes
 
-This article has now been reviewed three times (2026-01-20, 2026-01-24, 2026-02-06). It has stabilized well:
+This article has now been reviewed four times (2026-01-20, 2026-01-24, 2026-02-06 x2). It is fully stable:
 
-- The core arguments (genetic fallacy, symmetric problem, hard problem persistence) are sound and well-expressed
+- Core arguments are sound and well-expressed
 - Attribution accuracy is clean across all 10 cited sources
-- The process philosophy section and contemplative evidence are distinctive strengths
-- Bedrock disagreements: Eliminative materialists will always object to "irreducibly mental elements" in the Buddhist section; Madhyamaka Buddhists would challenge the same phrase from the opposite direction. These are philosophical standoffs, not flaws to fix
-- The article is well below word count thresholds (1,783 words vs 2,500 soft limit) but feels complete — expansion would risk padding
-- Future reviews should focus on verifying new content hasn't been added that introduces problems, not re-examining stable sections
+- No critical issues found in any of the four reviews
+- Bedrock disagreements (eliminative materialist vs "irreducibly mental elements"; Madhyamaka vs same) are philosophical standoffs, not flaws
+- Article is 1,832 words (73% of 2,500 soft limit) — well-proportioned
+- The cognitive-science-of-dualism integration context has been addressed through cross-links rather than content duplication
+- Future reviews should only check for new content problems, not re-examine stable sections
