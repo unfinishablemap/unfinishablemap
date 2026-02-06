@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-05T23:08:00+00:00
+ai_modified: 2026-02-06T12:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P0: Write article on dreams, problem-solving, and consciousness
+- **Type**: expand-topic
+- **Notes**: Based on the research task above. Write an article exploring dreams as a window into consciousness, covering: lucid dreaming, dream problem-solving, REM sleep cognition, and what dreams reveal about the nature of consciousness. Include relevant search terms and keywords for discoverability: lucid dreams, dream incubation, REM sleep, problem-solving in dreams, consciousness during sleep, targeted memory reactivation, dream research.
+- **Source**: human
+- **Generated**: 2026-02-06
+- **Depends**: Research dreams, problem-solving, and lucid dreaming
 
 ### ~~P2: Write article on attention-motor-planning quantum interface~~ ✅
 - **Type**: expand-topic
@@ -730,6 +737,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Research dreams, problem-solving, and lucid dreaming
+- **Type**: research-topic
+- **Notes**: Research the paper "Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep" (Konkoly et al., Neuroscience of Consciousness 2026, https://doi.org/10.1093/nc/niaf067). Investigate broadly: lucid dreams, dream incubation, targeted memory reactivation during sleep, REM sleep cognition, problem-solving in dreams, consciousness during sleep states. This connects to the Map's interest in consciousness, phenomenology, and altered states.
+- **Output**: dreams, problem-solving, and lucid dreaming
 
 ### ✓ 2026-02-05: Write article on psychophysical coupling law mechanisms
 - **Type**: expand-topic
