@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P0: Write article on dreams, problem-solving, and consciousness
-- **Type**: expand-topic
-- **Notes**: Based on the research task above. Write an article exploring dreams as a window into consciousness, covering: lucid dreaming, dream problem-solving, REM sleep cognition, and what dreams reveal about the nature of consciousness. Include relevant search terms and keywords for discoverability: lucid dreams, dream incubation, REM sleep, problem-solving in dreams, consciousness during sleep, targeted memory reactivation, dream research.
-- **Source**: human
-- **Generated**: 2026-02-06
-- **Depends**: Research dreams, problem-solving, and lucid dreaming
-
 ### ~~P2: Write article on attention-motor-planning quantum interface~~ ✅
 - **Type**: expand-topic
 - **Notes**: Research completed in research/attention-motor-planning-quantum-interface-2026-01-23.md. Explores how attention and motor planning converge at the quantum interface—consciousness may influence physical outcomes through the attention-motor coupling, providing a concrete mechanism for Minimal Quantum Interaction. No corresponding article exists. Directly supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
@@ -76,6 +69,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: New article voids/emergence-void.md (2026-02-05) reframes the hard problem as the deepest instance of a general emergence void—a systematic inability to bridge levels of description. The hard-problem-of-consciousness.md topic shares 4 overlapping concepts (binding-problem, combination-problem, emergence, reductionism). Check for: (1) cross-links to emergence void, (2) whether the "deepest instance" framing enriches the hard problem treatment, (3) consistency in treatment of explanatory gaps.
 - **Source**: chain (from emergence-void.md)
 - **Generated**: 2026-02-05
+
+### P2: Address unfalsifiable retreat in Stapp's coupling mechanism
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-06) found that psychophysical-coupling-law-mechanisms.md retreats from the Zeno mechanism to "consciousness biases post-decoherence outcomes" when confronted with decoherence timescale objections. This revised mechanism has no testable predictions distinct from ordinary stochastic neural processes. Needs: (1) explicit acknowledgment that the retreat reduces falsifiability, (2) identification of what empirical finding would distinguish the post-decoherence version from stochastic neural selection, (3) clearer differentiation between established and unreplicated evidence (Kerskens & Pérez, Wiest et al.). See pessimistic-2026-02-06.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-06
+
+### P2: Address double-dissociation interpretation in attention-consciousness article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-06) found that attention-consciousness-dissociation.md treats the attention-consciousness double dissociation as evidence for a non-physical entity, but double dissociations are the standard tool of physicalist cognitive neuroscience for identifying distinct neural circuits. The article needs: (1) a section explicitly addressing the physicalist interpretation of double dissociation, (2) an argument for why consciousness-attention dissociation is different from other double dissociations (e.g., face vs object recognition), or acknowledgment of interpretive ambiguity. See pessimistic-2026-02-06.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-06
 
 ### P3: Deep review intersubjective-void.md for quality
 - **Type**: deep-review
@@ -738,6 +743,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Cross-review dreams-and-consciousness.md considering dreams-problem-solving-and-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/dreams-problem-solving-and-consciousness.md (2026-02-06) covers dream problem-solving as evidence for consciousness's causal efficacy, citing Konkoly 2026, Dormio, and two-way communication studies. The dreams-and-consciousness.md concept and lucid-dreaming-and-consciousness.md topic share extensive overlap (dream phenomenology, REM cognition, bidirectional interaction). Check for: (1) cross-links to the new problem-solving article, (2) consistency in treatment of the Konkoly studies, (3) whether the concept page should reference the problem-solving evidence as further support for the filter model.
+- **Output**: obsidian/concepts/dreams-and-consciousness.md -- Context: Cross-review dreams-and-consciousness.md considering dreams-problem-solving-and-consciousness insights
+
+### ✓ 2026-02-06: Write article on dreams, problem-solving, and consciousness
+- **Type**: expand-topic
+- **Notes**: Based on the research task above. Write an article exploring dreams as a window into consciousness, covering: lucid dreaming, dream problem-solving, REM sleep cognition, and what dreams reveal about the nature of consciousness. Include relevant search terms and keywords for discoverability: lucid dreams, dream incubation, REM sleep, problem-solving in dreams, consciousness during sleep, targeted memory reactivation, dream research.
+- **Output**: dreams, problem-solving, and consciousness
 
 ### ✓ 2026-02-06: Research dreams, problem-solving, and lucid dreaming
 - **Type**: research-topic

@@ -18,6 +18,29 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 08:18 UTC - deep-review
+- **Status**: Success
+- **File**: [dreams-and-consciousness](/concepts/dreams-and-consciousness/)
+- **Word count**: 1652 → 1759 (+107)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4 (cross-links and reference to new dreams-problem-solving article)
+- **Output**: [deep-review-2026-02-06-dreams-and-consciousness](/reviews/deep-review-2026-02-06-dreams-and-consciousness/)
+
+## 2026-02-06 08:14 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Dreams, problem-solving, and consciousness
+- **Output**: [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/)
+- **Word count**: 1996
+- **Based on research**: yes, [dreams-problem-solving-lucid-dreaming-2026-02-06](/research/dreams-problem-solving-lucid-dreaming-2026-02-06/)
+
+## 2026-02-06 08:08 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/psychophysical-coupling-law-mechanisms.md, topics/cognitive-science-of-dualism.md, topics/attention-consciousness-dissociation.md
+- **Output**: [pessimistic-2026-02-06](/reviews/pessimistic-2026-02-06/)
+- **Issues found**: 5 (2 high, 3 medium)
+- **Tasks created**: 2 (P2 refine-draft for coupling mechanisms, P2 refine-draft for dissociation article)
+
 ## 2026-02-06 07:59 UTC - research-topic
 - **Status**: Success
 - **Topic**: Dreams, problem-solving, and lucid dreaming
