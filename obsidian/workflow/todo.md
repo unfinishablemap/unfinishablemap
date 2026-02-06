@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review free-will.md considering dreams-problem-solving insights
-- **Type**: cross-review
-- **Notes**: New article topics/dreams-problem-solving-and-consciousness.md (2026-02-06) provides empirical evidence for consciousness doing causal work during dreaming—lucid dream problem-solving, incubation effects, and dreams as evidence against epiphenomenalism. Check free-will.md for opportunities to cross-link, reinforce bidirectional interaction arguments, or address any tensions.
-- **Source**: chain (from dreams-problem-solving-and-consciousness.md)
-- **Generated**: 2026-02-06
-
 ### P2: Review attention-interface-mechanisms.md considering attention-motor-planning quantum interface
 - **Type**: cross-review
 - **Notes**: New article topics/attention-motor-planning-quantum-interface.md (2026-02-05) explores how attention and motor planning converge at the quantum interface. The existing attention-interface-mechanisms.md should cross-reference this new work. Check for opportunities to link, reinforce shared quantum Zeno arguments, or resolve any inconsistencies in the attention-as-interface framework.
@@ -763,6 +757,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Review free-will.md considering dreams-problem-solving insights
+- **Type**: cross-review
+- **Notes**: New article topics/dreams-problem-solving-and-consciousness.md (2026-02-06) provides empirical evidence for consciousness doing causal work during dreaming—lucid dream problem-solving, incubation effects, and dreams as evidence against epiphenomenalism. Check free-will.md for opportunities to cross-link, reinforce bidirectional interaction arguments, or address any tensions.
+- **Output**: obsidian/topics/free-will.md -- Context: Review free-will.md considering dreams-problem-solving insights
 
 ### ✓ 2026-02-06: Research epistemological limits of Occam's Razor for consciousness
 - **Type**: research-topic
