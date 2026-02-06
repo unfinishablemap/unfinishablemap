@@ -4,7 +4,7 @@ description: "The aboutness of mental states: why thoughts are directed at objec
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-01-30T17:16:00+00:00
+ai_modified: 2026-02-06T18:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[decoherence]]"
   - "[[semantic-memory]]"
+  - "[[binding-problem]]"
 related_articles:
   - "[[tenets]]"
   - "[[intentionality-consciousness-2026-01-14]]"
@@ -108,7 +109,7 @@ If PIT is correct, the implications are profound:
 
 ### Understanding as Phenomenal Binding
 
-Why does intentionality require phenomenal consciousness? The [[consciousness-and-semantic-understanding|consciousness and semantic understanding]] analysis suggests a mechanistic answer: understanding complex content requires *binding* multiple elements into unified semantic representations. "The dog chased the cat" means something different from "The cat chased the dog" despite identical elements—the binding is structured.
+Why does intentionality require phenomenal consciousness? The [[consciousness-and-semantic-understanding|consciousness and semantic understanding]] analysis suggests a mechanistic answer: understanding complex content requires [[binding-problem|*binding*]] multiple elements into unified semantic representations. "The dog chased the cat" means something different from "The cat chased the dog" despite identical elements—the binding is structured.
 
 Consciousness appears required for such binding. The maintenance/manipulation distinction shows that merely holding information (maintenance) can be unconscious, but actively combining information into new structures (manipulation) requires conscious access. Semantic binding is manipulation—integrating elements into structured wholes. If binding requires consciousness, so does intentionality toward complex contents.
 
@@ -218,6 +219,7 @@ Intentionality connects to all five foundational tenets:
 - [[ai-consciousness]] — Why original intentionality matters for AI
 - [[functionalism]] — A view that PIT challenges
 - [[qualia]] — The phenomenal properties that may ground intentionality
+- [[binding-problem]] — How distributed processes combine into unified experience; the binding dimension of understanding
 - [[illusionism]] — The radical denial that intentionality and consciousness are real
 - [[introspection]] — How we access intentional states and whether that access is reliable
 - [[decoherence]] — The quantum biology objection and why it may not apply

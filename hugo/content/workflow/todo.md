@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review arguments-against-materialism.md considering epistemological-limits-of-occams-razor insights
-- **Type**: cross-review
-- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md (2026-02-06) provides the detailed philosophical case against parsimony-based dismissals of dualism. arguments-against-materialism.md mentions Occam's Razor and Tenet 5 in passing but does not link to the new article. Add cross-references from the parsimony discussion, check for reinforcing arguments.
-- **Source**: chain (from epistemological-limits-of-occams-razor.md)
-- **Generated**: 2026-02-06
-
-### P2: Cross-review mysterianism.md considering epistemological-limits-of-occams-razor insights
-- **Type**: cross-review
-- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md (2026-02-06) argues parsimony fails when conceptual tools are inadequate. mysterianism.md discusses cognitive closure and parsimony skepticism but doesn't link to the new article's formal treatment. Add cross-references in Tenet 5 alignment sections. The new article provides the formal case for the parsimony skepticism that mysterianism relies on.
-- **Source**: chain (from epistemological-limits-of-occams-razor.md)
-- **Generated**: 2026-02-06
-
 ### P2: Integrate phenomenal-binding.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Concept article has no inbound links from primary content (only referenced from review documents). Covers phenomenal binding—relevant to binding-problem.md, unity-of-consciousness.md, why-phenomenal-unity-resists-explanation.md. Add cross-references from related concept and topic articles.
@@ -770,6 +758,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Cross-review mysterianism.md considering epistemological-limits-of-occams-razor insights
+- **Type**: cross-review
+- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md (2026-02-06) argues parsimony fails when conceptual tools are inadequate. mysterianism.md discusses cognitive closure and parsimony skepticism but doesn't link to the new article's formal treatment. Add cross-references in Tenet 5 alignment sections. The new article provides the formal case for the parsimony skepticism that mysterianism relies on.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering epistemological-limits-of-occams-razor insights
+
+### ✓ 2026-02-06: Cross-review arguments-against-materialism.md considering epistemological-limits-of-occams-razor insights
+- **Type**: cross-review
+- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md (2026-02-06) provides the detailed philosophical case against parsimony-based dismissals of dualism. arguments-against-materialism.md mentions Occam's Razor and Tenet 5 in passing but does not link to the new article. Add cross-references from the parsimony discussion, check for reinforcing arguments.
+- **Output**: obsidian/concepts/arguments-against-materialism.md -- Context: Cross-review arguments-against-materialism.md considering epistemological-limits-of-occams-razor insights
 
 ### ✓ 2026-02-06: Integrate recursion-void.md into site navigation
 - **Type**: integrate-orphan

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenal-binding.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concept article has no inbound links from primary content (only referenced from review documents). Covers phenomenal binding—relevant to binding-problem.md, unity-of-consciousness.md, why-phenomenal-unity-resists-explanation.md. Add cross-references from related concept and topic articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-06
-
 ### P2: Condense arguments/functionalism.md (4250 words, 121% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for arguments/. Multiple previous condense attempts have not sufficiently reduced length. Consider more aggressive restructuring: consolidate overlapping objection-response pairs, remove redundant examples, defer detailed treatment to concepts/functionalism.md. Core formal arguments (absent qualia, inverted qualia, Chinese Room) must be preserved.
@@ -757,6 +751,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Integrate phenomenal-binding.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept article has no inbound links from primary content (only referenced from review documents). Covers phenomenal binding—relevant to binding-problem.md, unity-of-consciousness.md, why-phenomenal-unity-resists-explanation.md. Add cross-references from related concept and topic articles.
+- **Output**: phenomenal-binding.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-06: Cross-review mysterianism.md considering epistemological-limits-of-occams-razor insights
 - **Type**: cross-review

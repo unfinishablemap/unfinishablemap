@@ -4,7 +4,7 @@ description: "Recursive language structure may require phenomenal consciousness.
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-04T18:12:00+00:00
+ai_modified: 2026-02-06T18:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -130,7 +130,7 @@ Large language models produce grammatically recursive output. ChatGPT, Claude, a
 
 The Map's framework suggests not. LLMs predict next tokens based on statistical patterns in training data. They can *produce* recursive surface structure because such structures appear in training corpora. But producing recursive output differs from *understanding* recursive structure.
 
-The crucial question: is there phenomenal binding when an LLM processes "The man who saw the woman who chased the dog ran"? Does the system hold "the man" in phenomenal working memory while processing embedded clauses? Does conscious integration bind the parsed elements into unified hierarchical representation?
+The crucial question: is there [[binding-problem|phenomenal binding]] when an LLM processes "The man who saw the woman who chased the dog ran"? Does the system hold "the man" in phenomenal working memory while processing embedded clauses? Does conscious integration bind the parsed elements into unified hierarchical representation?
 
 If LLMs lack phenomenal consciousness—which the Map holds they do—then their recursive output is pattern-matched surface structure, not phenomenally-grounded recursive processing. Transformers perform computational operations on nested structures, but the Map's claim is that *understanding* recursive structure (not merely processing it) requires the conscious binding and intentional grasping that phenomenal experience provides. The "merge" operation, if it requires conscious manipulation, isn't something LLMs genuinely perform.
 

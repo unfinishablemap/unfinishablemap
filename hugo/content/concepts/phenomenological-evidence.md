@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-02-06 18:01:00+00:00
+ai_modified: 2026-02-06 18:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -19,20 +19,22 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[phenomenal-consciousness]]'
 - '[[contemplative-neuroscience]]'
+- '[[cognitive-phenomenology]]'
+- '[[altered-states-of-consciousness]]'
 created: 2026-02-01
 date: &id001 2026-02-06
-description: First-person reports of conscious experience constitute genuine evidence
-  for consciousness theories when gathered through rigorous methods including trained
-  observation, intersubjective convergence, and microphenomenological interview.
+description: First-person experience reports are genuine evidence for consciousness
+  theories when gathered through trained observation, convergence, and rigorous methods.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-06 18:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[contemplative-evidence-for-consciousness-theories]]'
 - '[[phenomenology-of-evidence-assessment]]'
+- '[[epistemological-limits-of-occams-razor]]'
 title: Phenomenological Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -84,7 +86,7 @@ Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) establish
 
 Varela's mutual constraint principle gives phenomenological evidence its scientific traction: phenomenological reports gain evidential weight when they predict neural correlates, and neural findings validate phenomenological distinctions. Neither domain dominates; both contribute evidence. This bidirectional constraint prevents phenomenology from floating free of physical reality while preventing neuroscience from ignoring the phenomena it aims to explain.
 
-Convergence across contemplative traditions further strengthens evidential claims. Buddhist vipassana, Hindu yoga, and secular mindfulness practitioners converge on similar descriptions—impermanence of mental contents, constructed nature of self, refined temporal awareness. This cross-traditional convergence suggests the structures discovered are features of consciousness itself, not artefacts of particular training methods.
+Convergence across contemplative traditions further strengthens evidential claims. Buddhist vipassana, Hindu dhyana (as systematised in Patanjali's Yoga Sutras), and secular mindfulness practitioners converge on similar descriptions—impermanence of mental contents, constructed nature of self, refined temporal awareness. This cross-traditional convergence—also documented in research on [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)—suggests the structures discovered are features of consciousness itself, not artefacts of particular training methods.
 
 ### Microphenomenology
 
@@ -123,7 +125,7 @@ Critics object that phenomenological evidence cannot be trusted. Nisbett and Wil
 The phenomenological response distinguishes two targets of introspection:
 
 - **Cognitive processes**: How we arrive at decisions, what causes our behaviour
-- **Phenomenal content**: What we are currently experiencing
+- **Phenomenal content**: What we are currently experiencing (see also [cognitive-phenomenology](/concepts/cognitive-phenomenology/) for the distinctive qualitative character of thought itself)
 
 Nisbett and Wilson's research targeted access to cognitive *processes*, not phenomenal *content*. The epoché asks "what is being experienced?" not "why?" The reliability critique clarifies rather than defeats phenomenological method: untrained observation of cognitive processes is unreliable, but trained observation of phenomenal content produces convergent evidence.
 
@@ -151,7 +153,7 @@ Phenomenological evidence directly supports the Map's [tenets](/tenets/):
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: [Neurophenomenology's](/concepts/neurophenomenology/) mutual constraint exemplifies bidirectional interaction. Phenomenology constrains which neuroscientific theories are adequate; neuroscience validates phenomenological distinctions. Neither domain dominates; both contribute evidence.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Dismissing phenomenological evidence as "merely subjective" is not parsimony—it is refusal to investigate. Contemplative traditions have developed systematic first-person methods over millennia. Materialist "simplicity" often reflects failure to look rather than absence of phenomena.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Dismissing phenomenological evidence as "merely subjective" is not parsimony—it is refusal to investigate. As the [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) argument develops, apparent simplicity can reflect ignorance rather than insight. Contemplative traditions have developed systematic first-person methods over millennia. Materialist "simplicity" often reflects failure to look rather than absence of phenomena.
 
 Phenomenological evidence provides the data that any adequate theory of consciousness must explain. Without it, we study correlates and functions while ignoring what consciousness actually is.
 

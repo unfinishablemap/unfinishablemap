@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 18:54 UTC - deep-review
+- **Status**: Success
+- **File**: phenomenal-binding.md (orphan resolution)
+- **Critical issues addressed**: 1 (stale Hugo artifact removed)
+- **Medium issues addressed**: 1 (4 articles missing cross-links to binding-problem.md)
+- **Enhancements made**: 4 cross-references added (psychophysical-coupling, baseline-cognition, intentionality, language-recursion-and-consciousness)
+- **Notes**: Discovered phenomenal-binding.md was coalesced into binding-problem.md on 2026-01-26 but a stale Hugo copy remained. Removed artifact and added missing [[binding-problem]] links across the site.
+- **Output**: [[reviews/deep-review-2026-02-06-phenomenal-binding]]
+
 ## 2026-02-06 18:39 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenological-evidence]]

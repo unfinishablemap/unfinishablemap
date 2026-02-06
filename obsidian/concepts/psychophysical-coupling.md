@@ -4,7 +4,7 @@ description: "How conscious states map to quantum selections: the coupling laws 
 created: 2026-01-16
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-02-06T09:36:00+00:00
+ai_modified: 2026-02-06T18:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ concepts:
   - "[[stapp-quantum-mind]]"
   - "[[phenomenal-unity]]"
   - "[[phenomenal-consciousness]]"
+  - "[[binding-problem]]"
 related_articles:
   - "[[tenets]]"
   - "[[psychophysical-coupling-problem-2026-01-15]]"
@@ -218,7 +219,7 @@ Kerskens and Pérez (2022) reported possible entanglement signatures in human br
 | **Intention→Probability** | Volition, willing | Vesicle release | Medium | Libet, SMA activation | Pairing problem |
 | **Valence→Motivation** | Pleasure/pain | Action selection | Low | Pain asymbolia | No quantum mechanism |
 | **Qualia→Basis** | Qualitative character | Measurement basis | Very low | None | Purely speculative |
-| **Unity→Entanglement** | Phenomenal binding | Sustained coherence | Low | Kerskens-Pérez MRI | Correlation≠causation |
+| **Unity→Entanglement** | [[binding-problem|Phenomenal binding]] | Sustained coherence | Low | Kerskens-Pérez MRI | Correlation≠causation |
 
 Stapp's attention mechanism provides the most developed account: clear phenomenal property (effort), clear physical parameter (observation rate), clear mechanism (Zeno effect), testable predictions, and experimental evidence (though contested).
 
@@ -344,6 +345,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [[illusionism]] — The deflationary alternative
 - [[witness-consciousness]] — Contemplative evidence for attention phenomenology
 - [[epiphenomenalism]] — The opposing view that phenomenal properties have no causal effects
+- [[binding-problem]] — How distributed neural processes combine into unified experience
 - [[tenets]] — The Map's foundational commitments
 
 ## References

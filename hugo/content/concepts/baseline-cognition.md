@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-02-02 06:17:00+00:00
+ai_modified: 2026-02-06 18:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -152,7 +152,7 @@ This connects to the third consciousness-requiring function: *spontaneous intent
 
 - **Level 3** (recursive mindreading): Clearly requires consciousness. "She thinks that I think the food is hidden" demands holding multiple nested representations simultaneously while manipulating them—precisely what baseline cognition cannot achieve.
 
-Shared intentionality provides another marker. Joint attention isn't merely two agents attending the same object—it involves recursive mutual awareness: I know you're attending, you know I'm attending, I know you know, and so on. This "common knowledge" structure requires the phenomenal binding that conscious integration provides. Great apes show limited evidence of joint attention in this rich sense; they track attention without sharing it.
+Shared intentionality provides another marker. Joint attention isn't merely two agents attending the same object—it involves recursive mutual awareness: I know you're attending, you know I'm attending, I know you know, and so on. This "common knowledge" structure requires the [phenomenal binding](/concepts/binding-problem/) that conscious integration provides. Great apes show limited evidence of joint attention in this rich sense; they track attention without sharing it.
 
 The empathy hierarchy shows similar stratification:
 

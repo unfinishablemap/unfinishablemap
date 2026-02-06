@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-02-06 09:36:00+00:00
+ai_modified: 2026-02-06 18:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -24,6 +24,7 @@ concepts:
 - '[[stapp-quantum-mind]]'
 - '[[phenomenal-unity]]'
 - '[[phenomenal-consciousness]]'
+- '[[binding-problem]]'
 created: 2026-01-16
 date: &id001 2026-01-29
 description: 'How conscious states map to quantum selections: the coupling laws and
@@ -220,7 +221,7 @@ Kerskens and Pérez (2022) reported possible entanglement signatures in human br
 | **Intention→Probability** | Volition, willing | Vesicle release | Medium | Libet, SMA activation | Pairing problem |
 | **Valence→Motivation** | Pleasure/pain | Action selection | Low | Pain asymbolia | No quantum mechanism |
 | **Qualia→Basis** | Qualitative character | Measurement basis | Very low | None | Purely speculative |
-| **Unity→Entanglement** | Phenomenal binding | Sustained coherence | Low | Kerskens-Pérez MRI | Correlation≠causation |
+| **Unity→Entanglement** | [Phenomenal binding](/concepts/binding-problem/) | Sustained coherence | Low | Kerskens-Pérez MRI | Correlation≠causation |
 
 Stapp's attention mechanism provides the most developed account: clear phenomenal property (effort), clear physical parameter (observation rate), clear mechanism (Zeno effect), testable predictions, and experimental evidence (though contested).
 
@@ -346,6 +347,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [illusionism](/concepts/illusionism/) — The deflationary alternative
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence for attention phenomenology
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The opposing view that phenomenal properties have no causal effects
+- [binding-problem](/concepts/binding-problem/) — How distributed neural processes combine into unified experience
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-04 04:35:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-02-06 18:25:00+00:00
+ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /topics/mysterianism-cognitive-closure/
@@ -27,7 +27,7 @@ description: 'McGinn''s cognitive closure thesis: human minds may be constitutio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-04 04:35:00+00:00
+last_deep_review: 2026-02-06 18:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,6 +42,7 @@ related_articles:
 - '[[collective-cognitive-limits]]'
 - '[[altered-states-as-void-probes]]'
 - '[[epistemology-of-cognitive-limits]]'
+- '[[epistemological-limits-of-occams-razor]]'
 title: Mysterianism and Cognitive Closure
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -51,15 +52,13 @@ Mysterianism is the view that the [hard problem of consciousness](/topics/hard-p
 
 This position occupies important middle ground. Unlike eliminativism, mysterianism takes consciousness seriously as a real phenomenon requiring explanation. Unlike confident physicalism or dualism, it acknowledges the depth of the problem. The position strongly supports the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet: our sense of which explanations are "simple" may reflect our cognitive limitations rather than reality.
 
-**The tool-extension objection**: Critics note that squirrels have no extensible cognitive tools, but humans do—mathematics, scientific instruments, computers. We transcend biological limits through technology. Why assume consciousness is different? McGinn's response is twofold. First, all our tools ultimately produce outputs for human understanding—we still need to *grasp* the solution, and if property P lies outside our conceptual reach, no tool can help us grasp it. Second, four centuries of tool-assisted inquiry have not closed the explanatory gap—if anything, neuroscience has sharpened it by revealing the gulf between neural activity and experience.
+**The tool-extension objection**: Critics note that humans transcend biological limits through mathematics, instruments, and computers—so why assume consciousness is different? McGinn's response: all tools ultimately produce outputs for human understanding, and if property P lies outside our conceptual reach, no tool can help us *grasp* it. Four centuries of tool-assisted inquiry have not closed the explanatory gap—if anything, neuroscience has sharpened it.
 
 ## Cognitive Closure
 
-McGinn's key concept is [cognitive closure](/concepts/cognitive-closure/). A type of mind M is cognitively closed with respect to a property P if M's concept-forming procedures cannot extend to a grasp of P. The property exists; M simply cannot conceive it.
+McGinn's key concept is [cognitive closure](/concepts/cognitive-closure/). A type of mind M is cognitively closed with respect to a property P if M's concept-forming procedures cannot extend to a grasp of P. The property exists; M simply cannot conceive it. This isn't about intelligence within a domain—it's about which domains are accessible at all.
 
-This isn't about intelligence within a domain—it's about which domains are accessible at all. No amount of rat intelligence grants access to differential equations. The conceptual apparatus isn't there.
-
-McGinn proposes that humans are cognitively closed with respect to property "P"—whatever property of the brain explains how neural activity gives rise to conscious experience. We access consciousness through introspection and brain through perception, but neither mode of access reveals how they connect. The solution might be natural, even simple—but closed to beings like us. McGinn's framework assumes our limits are *natural* features of finite minds; whether this assumption can even be tested is itself a [prior question](/voids/natural-vs-designed-limits/) the voids framework explores.
+We access consciousness through introspection and brain through perception, but neither mode of access reveals how they connect. The solution might be natural, even simple—but closed to beings like us. McGinn's framework assumes our limits are *natural* features of finite minds; whether this assumption can even be tested is itself a [prior question](/voids/natural-vs-designed-limits/) the voids framework explores.
 
 ## Nagel's Bat
 
@@ -139,7 +138,7 @@ From our current perspective, both look identical—we cannot know which problem
 
 [Illusionism](/concepts/illusionism/) offers a radical alternative: rather than accepting consciousness is real but inexplicable, illusionists deny phenomenal consciousness exists at all. Facing the explanatory gap, mysterians say "we cannot solve this problem"; illusionists say "there is no problem to solve."
 
-**The mysterian counter-argument**: Illusionism faces infinite regress—to be under an illusion that you're conscious, something must experience that illusion. More subtly, illusionism might itself be a symptom of cognitive closure: unable to see how consciousness relates to matter, we deny there's anything to explain. If McGinn is right, we should predict some thinkers would respond to closure this way.
+**The mysterian counter-argument**: Illusionism faces infinite regress—to be under an illusion that you're conscious, something must experience that illusion (Tallis 2024). More subtly, illusionism might itself be a symptom of cognitive closure: unable to see how consciousness relates to matter, we deny there's anything to explain. If McGinn is right, we should predict some thinkers would respond to closure this way.
 
 ## Process Philosophy Perspective
 
@@ -183,7 +182,7 @@ The mysterian response: we succeed with properties that fall within our cognitiv
 
 Mysterianism connects to all five tenets:
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Strongest alignment. McGinn's position exemplifies the tenet: our sense of which explanations are "simple" may reflect cognitive limitations rather than ontological facts. Mysterianism provides the conceptual foundation for epistemic humility about parsimony.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Strongest alignment. The [epistemological limits of parsimony](/arguments/epistemological-limits-of-occams-razor/) show that parsimony's precondition—equal explanatory power—is unmet for consciousness, and that none of the standard justifications for preferring simpler scientific theories extend to this metaphysical domain (Huemer 2009). Mysterianism explains *why* at a deeper level: if cognitive closure applies, our very sense of which explanations are "simple" is constrained by the same architecture that cannot grasp the mind-brain connection. We don't merely lack a good reason to prefer the "simpler" theory; we lack the capacity to know which theory is simpler where consciousness is concerned.
 
 **[Dualism](/tenets/#dualism)**: Officially neutral but compatible. Mysterians accept consciousness is real and requires explanation. The Map goes further, treating irreducibility as commitment rather than remaining agnostic.
 
@@ -211,14 +210,13 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [causal-interface](/voids/causal-interface/) — The void between intention and action as cognitive closure in action
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits reveal cognitive architecture
 - [whether-real](/voids/whether-real/) — Can we know if the voids are genuinely permanent?
+- [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) — Why parsimony cannot settle the consciousness debate
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem mysterians think is unsolvable
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap that may reflect cognitive closure
 - [illusionism](/concepts/illusionism/) — The rival view that consciousness isn't real
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's version of the mystery
 - [voids](/voids/) — The Map's framework for approaching cognitive limits
 - [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — Whether different cognitive architectures face different closures
-- [affective-void](/voids/affective-void/) — Cognitive closure applied to the space of possible emotions
-- [normative-void](/voids/normative-void/) — Extending mysterianism to ethics—moral truths beyond human reach
 - [intentionality-void](/voids/intentionality-void/) — Cognitive closure applied to the mechanism of mental reference
 
 ## References
@@ -226,8 +224,8 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - Chalmers, D. J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
 - Chomsky, N. (1976). *Reflections on Language*. Pantheon Books.
 - Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown and Company.
-- Flanagan, O. (1991). *The Science of the Mind*. MIT Press.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+- Huemer, M. (2009). "When Is Parsimony a Virtue?" *The Philosophical Quarterly*, 59(235), 216-236.
 - McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
 - McGinn, C. (1999). *The Mysterious Flame: Conscious Minds in a Material World*. Basic Books.
 - Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.

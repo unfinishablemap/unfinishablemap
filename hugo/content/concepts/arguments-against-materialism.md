@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-29 18:00:00+00:00
+ai_modified: 2026-02-06 18:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,24 +28,25 @@ description: The case against materialism includes the explanatory gap, zombie a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 18:00:00+00:00
+last_deep_review: 2026-02-06 18:09:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[arguments-for-dualism]]'
+- '[[epistemological-limits-of-occams-razor]]'
 - '[[arguments-against-materialism-2026-01-06]]'
 title: Arguments Against Materialism
 topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Multiple independent arguments converge on the same conclusion: [materialism](/arguments/materialism/)—the view that reality is fundamentally physical—cannot account for consciousness. These arguments share a common structure: they identify aspects of conscious experience that appear logically or metaphysically separable from physical facts, suggesting that consciousness cannot be reduced to or fully explained by physical processes. This page surveys the major arguments, their responses, and why the convergence of independent lines of reasoning provides strong cumulative support for the [Dualism tenet](/tenets/#dualism).
+Multiple independent arguments converge on the same conclusion: [materialism](/arguments/materialism/)—the view that reality is fundamentally physical—cannot account for consciousness. Each identifies aspects of conscious experience that appear logically or metaphysically separable from physical facts, suggesting that consciousness is not reducible to physical processes. This article surveys the major arguments, their responses, and why their convergence provides strong cumulative support for the [Dualism tenet](/tenets/#dualism).
 
 ## The Core Problem
 
 Materialism promises ontological simplicity: everything real is ultimately physical. Neuroscience describes brain states, physics describes particles and fields, and consciousness—on this view—is nothing more than what these descriptions capture.
 
-But consciousness resists. When we explain how neurons fire, how information propagates, how systems discriminate and report, we describe *structure* and *dynamics*. Yet conscious experience has a *qualitative character*—there is something it is like to see red, taste coffee, feel pain. This qualitative character doesn't follow logically from any structural description. No equation entails that C-fiber activation should *feel* like anything.
+But consciousness resists. Explanations of neural firing, information propagation, and system behaviour describe *structure* and *dynamics*. Yet conscious experience has a *qualitative character*—there is something it is like to see red, taste coffee, feel pain. This qualitative character doesn't follow logically from any structural description. No equation entails that C-fiber activation should *feel* like anything.
 
 The arguments below exploit this gap from different angles. Each provides independent evidence that the physical facts, however complete, do not determine the phenomenal facts.
 
@@ -160,11 +161,9 @@ Each response either denies the manifest reality of experience, fails to explain
 
 ## The Convergence Argument
 
-No single argument establishes dualism conclusively—each has responses, and philosophy rarely achieves knockdown proofs. But the convergence of independent lines of reasoning matters.
+No single argument establishes dualism conclusively—each has responses, and philosophy rarely achieves knockdown proofs. But convergence matters.
 
-The explanatory gap, knowledge argument, zombie argument, inverted qualia, modal arguments, and subjectivity considerations all point in the same direction. They exploit different features of consciousness and proceed through different logical routes. That they converge on the same conclusion—that consciousness is not reducible to physical processes—provides cumulative support stronger than any individual argument.
-
-When multiple independent witnesses tell the same story, the probability of error decreases. The anti-materialist arguments function similarly. Their convergence suggests they're tracking something real about the relationship between consciousness and the physical world.
+The explanatory gap, knowledge argument, zombie argument, inverted qualia, modal arguments, and subjectivity considerations exploit different features of consciousness and proceed through different logical routes, yet converge on the same conclusion: consciousness is not reducible to physical processes. When multiple independent lines of reasoning tell the same story, the probability of error decreases. Their convergence suggests they are tracking something real about the relationship between consciousness and the physical world.
 
 ### The Mysterian Alternative
 
@@ -206,7 +205,7 @@ The cumulative case against materialism would be undermined if:
 
 ## Relation to Site Perspective
 
-These arguments collectively support the [Dualism tenet](/tenets/#dualism): consciousness is not reducible to physical processes. The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) reminds us that materialism's apparent simplicity may reflect ignorance rather than insight—the "simpler" view may be wrong.
+These arguments collectively support the [Dualism tenet](/tenets/#dualism): consciousness is not reducible to physical processes. The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) finds detailed support in the Map's analysis of [parsimony's epistemological limits](/arguments/epistemological-limits-of-occams-razor/): the precondition for applying Occam's Razor—that competing theories explain the data equally well—is unmet in the consciousness debate, simplicity fragments into conflicting dimensions that yield contradictory verdicts, and the justifications for parsimony in empirical science do not transfer to metaphysical theory choice. Materialism's apparent simplicity may reflect ignorance rather than insight.
 
 The Unfinishable Map doesn't rest on dismissing materialist responses but on the accumulated weight of evidence. When the best physicalist accounts either deny the obvious (that experience exists) or concede they can't explain what they claim to identify (Type-B physicalism), the alternative deserves serious consideration.
 
@@ -227,6 +226,7 @@ Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction
 - [decoherence](/concepts/decoherence/) – The quantum objection and its limits
 - [many-worlds](/arguments/many-worlds/) – Why the Map rejects MWI
 - [arguments-for-dualism](/concepts/arguments-for-dualism/) – Positive case for the alternative
+- [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) – Why parsimony fails in the consciousness debate
 - [causal-closure](/concepts/causal-closure/) – The main objection to dualism and its limits
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) – The central challenge
 - [combination-problem](/concepts/combination-problem/) – Process philosophy's transformed problem
