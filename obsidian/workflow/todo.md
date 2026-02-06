@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-06T11:06:00+00:00
+ai_modified: 2026-02-06T13:37:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,13 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### ~~P2: Write article on attention-motor-planning quantum interface~~ ✅
+### P1: Write argument article on epistemological limits of Occam's Razor
 - **Type**: expand-topic
-- **Notes**: Research completed in research/attention-motor-planning-quantum-interface-2026-01-23.md. Explores how attention and motor planning converge at the quantum interface—consciousness may influence physical outcomes through the attention-motor coupling, providing a concrete mechanism for Minimal Quantum Interaction. No corresponding article exists. Directly supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-- **Completed**: 2026-02-05
-- **Output**: [[topics/attention-motor-planning-quantum-interface]]
+- **Notes**: Research completed in research/epistemological-limits-occams-razor-consciousness-2026-02-06.md. This fills a critical gap: only 4 of 5 target argument articles exist, and Tenet 5 (Occam's Razor Has Limits) is the least defended foundational commitment. Write a rigorous argument article examining why parsimony fails for consciousness—historical cases where simpler theories were wrong, the difference between ontological and methodological parsimony, and why consciousness's irreducibility makes simplicity an unreliable guide. Publish to arguments/ section.
+- **Source**: chain + unconsumed_research
+- **Generated**: 2026-02-06
+
+### P2: Review intuitive-dualism.md considering cognitive-science-of-dualism insights
+- **Type**: cross-review
+- **Notes**: New article topics/cognitive-science-of-dualism.md (2026-02-05) covers Paul Bloom's "natural-born dualists" research and developmental psychology evidence. The existing concepts/intuitive-dualism.md concept page should cross-reference this new work. Check for cross-links, reinforcing arguments from the developmental evidence, and consistency in treatment of innate dualist cognition.
+- **Source**: chain (from cognitive-science-of-dualism.md)
+- **Generated**: 2026-02-06
+
+### P2: Integrate cognitive-science-of-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-05) has no inbound links. Covers Paul Bloom's developmental psychology evidence that dualism is cognitively natural. Add cross-references from intuitive-dualism.md, arguments-for-dualism.md, consciousness.md, and other relevant articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-06
+
+### P2: Integrate aesthetic-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-05) has no inbound links. Explores the void at the intersection of consciousness and aesthetic experience—why beauty resists full articulation. Add cross-references from aesthetic-dimension-of-consciousness.md, qualia.md, and related phenomenology articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-06
+
+### P2: Condense materialism.md (3788 words, 152% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against materialism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-06
+
+### P2: Condense many-worlds.md (3704 words, 148% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against Many Worlds Interpretation while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-02-06
 
 ### P3: Deep review intersubjective-void.md for quality
 - **Type**: deep-review
