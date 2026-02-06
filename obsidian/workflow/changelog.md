@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 17:07 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [[many-worlds]]
+- **Word count**: 2062 words (82% of 2500 target)
+- **Reason**: Article is already well under the soft threshold for concepts (2500 words). Content is well-structured with no redundancy, and every section contributes distinct value to the Map's case against MWI.
+
 ## 2026-02-06 16:53 UTC - condense
 - **Status**: Reviewed, no condensation applied
 - **File**: [[materialism]]
