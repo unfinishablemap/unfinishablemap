@@ -18,6 +18,35 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 23:41 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Nomic Void
+- **Output**: [nomic-void](/voids/nomic-void/)
+- **Word count**: 1567
+- **Based on research**: yes, [voids-nomic-void-2026-02-06](/research/voids-nomic-void-2026-02-06/)
+
+## 2026-02-06 19:24 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [functionalism](/arguments/functionalism/)
+- **Word count**: 2036 (81% of 2500 soft threshold)
+- **Reason**: Article is well within acceptable range for concepts/ section. Every section adds distinct value with no redundancy, excessive hedging, or unnecessary background.
+
+## 2026-02-06 19:09 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Nomic Void — cognitive limits imposed by physical laws themselves
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-nomic-void-2026-02-06](/research/voids-nomic-void-2026-02-06/)
+- **Key finding**: Physical laws (thermodynamic limits, computational ceilings, quantum mechanics) constitute a layer of cognitive constraint deeper than biological architecture — a void invisible because we have no experience of any alternative physics
+
+## 2026-02-06 18:54 UTC - deep-review
+- **Status**: Success
+- **File**: phenomenal-binding.md (orphan resolution)
+- **Critical issues addressed**: 1 (stale Hugo artifact removed)
+- **Medium issues addressed**: 1 (4 articles missing cross-links to binding-problem.md)
+- **Enhancements made**: 4 cross-references added (psychophysical-coupling, baseline-cognition, intentionality, language-recursion-and-consciousness)
+- **Notes**: Discovered phenomenal-binding.md was coalesced into binding-problem.md on 2026-01-26 but a stale Hugo copy remained. Removed artifact and added missing [binding-problem](/concepts/binding-problem/) links across the site.
+- **Output**: [deep-review-2026-02-06-phenomenal-binding](/reviews/deep-review-2026-02-06-phenomenal-binding/)
+
 ## 2026-02-06 18:39 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenological-evidence](/concepts/phenomenological-evidence/)
