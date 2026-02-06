@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 11:51 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Evidential Weight of Voids — whether the collective pattern of cognitive voids constitutes abductive evidence for dualism
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[research/voids-evidential-weight-of-voids-2026-02-06]]
+- **Key finding**: Multiple independent philosophical traditions converge on the observation that consciousness-related explanatory gaps are structurally unique and cluster at the mind-body interface — a pattern specifically predicted by dualism but not by physicalism, constituting defeasible abductive evidence
+
 ## 2026-02-06 11:36 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/free-will]]
