@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense functionalism.md (4250 words, 121% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against functionalism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-02-06
-
 ### P2: Condense eastern-philosophy-consciousness.md (4416 words, 110% of hard threshold)
 - **Type**: condense
 - **Notes**: Recently coalesced article exceeds 4000-word hard threshold for topics/. Merging three articles naturally created excess length. Preserve core East-West synthesis while tightening prose and deferring detailed subtopics to linked concept pages. See /condense skill.
@@ -745,6 +739,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Condense functionalism.md (4250 words, 121% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against functionalism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-06: Review personal-identity.md considering eastern-philosophy-consciousness insights
 - **Type**: cross-review

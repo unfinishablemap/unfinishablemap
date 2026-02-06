@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 12:36 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [[concepts/functionalism]]
+- **Word count**: 2036 (81% of 2500 soft threshold)
+- **Reason**: Article is well under the concepts soft threshold (2500 words). Structure is tight with minimal redundancy, all sections add distinct value, and the article preserves the Map's distinctive voice and arguments.
+
 ## 2026-02-06 12:21 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/personal-identity]]
