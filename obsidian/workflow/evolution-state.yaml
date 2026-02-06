@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-02-06T17:37:29.928789+00:00'
-session_count: 1883
-cycle_position: 1120
+last_updated: '2026-02-06T17:52:29.929185+00:00'
+session_count: 1884
+cycle_position: 1121
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -44,13 +44,9 @@ quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 4
+  orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/topics/free-will.md -- Context: Review fr)'
-  type: deep-review
-  date: '2026-02-06'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-02-06'
@@ -127,17 +123,7 @@ recent_tasks:
   type: deep-review
   date: '2026-02-06'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 7
-  p3_tasks: 107
-  needs_replenishment: false
-  last_replenishment: '2026-02-06T17:52:00+00:00'
-  replenishment_source_counts:
-    chain: 2
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 1
-    staleness: 3
-    orphan_integration: 1
+- task: coalesce
+  type: coalesce
+  date: '2026-02-06'
+  outcome: success
