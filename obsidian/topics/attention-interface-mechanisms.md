@@ -4,7 +4,7 @@ description: "The unified attention-motor substrate where consciousness selects 
 created: 2026-02-01
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-05T05:40:00+00:00
+ai_modified: 2026-02-06T12:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ concepts:
   - "[[agent-causation]]"
 related_articles:
   - "[[tenets]]"
+  - "[[attention-motor-planning-quantum-interface]]"
   - "[[attention-as-interface-hypothesis-2026-01-16]]"
   - "[[attention-motor-planning-quantum-interface-2026-01-23]]"
   - "[[attention-consciousness-mechanisms-2026-01-15]]"
@@ -36,7 +37,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated:
-last_deep_review: 2026-02-05T05:40:00+00:00
+last_deep_review: 2026-02-06T12:07:00+00:00
 coalesced_from:
   - "/topics/attention-motor-quantum-selection/"
 ---
@@ -53,7 +54,7 @@ If consciousness influences matter through attention, three questions arise:
 2. **When?** What timescales are relevant—how fast must quantum effects operate to matter?
 3. **How?** What mechanism allows non-physical influence without violating conservation laws?
 
-Standard neuroscience describes attention in computational terms: precision weighting, gain modulation, competitive selection. These describe *what* attention does functionally but not *what* attention is. The interface hypothesis asks whether consciousness contributes something these descriptions miss.
+Standard neuroscience describes attention in computational terms: precision weighting, gain modulation, competitive selection. These describe *what* attention does functionally but not *what* attention is. The interface hypothesis asks whether consciousness contributes something these functional descriptions miss.
 
 ## The Convergence of Attention and Motor Planning
 
@@ -82,7 +83,7 @@ The convergence manifests in three neural signatures that distinguish willed fro
 
 | Signature | In Attention | In Motor Control |
 |-----------|--------------|------------------|
-| **Frontal theta** | Present for willed attention, absent for instructed (Bengson 2019) | Present for voluntary movement initiation |
+| **Frontal theta** | Present for willed attention, absent for instructed (Rajan et al. 2019) | Present for voluntary movement initiation |
 | **Bidirectional coherence** | Theta-band coherence between frontal and parietal regions during willed attention | Similar bidirectional flow during genuine motor deliberation |
 | **~280-300ms timing** | Willed attention takes ~300ms to deploy | Motor commitment occurs ~280ms before movement (Thura & Cisek 2014) |
 
@@ -94,7 +95,7 @@ Research identifies several neural loci where consciousness might bias outcomes:
 
 ### Ion Channels (Stapp)
 
-Henry Stapp proposes that consciousness interfaces with matter at ion channels in synaptic walls. At their narrowest points (<1 nanometre), ion channels are small enough that the quantum uncertainty principle governs ion behaviour. This makes them candidate sites for quantum-level influence.
+Henry Stapp proposes that consciousness interfaces with matter at ion channels in synaptic walls. At their narrowest points (<1 nanometre), the quantum uncertainty principle governs ion behaviour, making them candidate sites for quantum-level influence.
 
 The mechanism: mental effort acts as rapid observation, repeatedly "querying" ion channel states. Through the quantum Zeno effect, rapid observation prevents a system's evolution—holding desired neural patterns stable against their natural tendency to dissipate.
 
@@ -175,7 +176,7 @@ The research suggests a three-layer model for motor selection:
 2. **Dopamine** sets the threshold sensitivity and marks options as salient—worth pursuing
 3. **Consciousness** (via quantum selection) determines which option crosses threshold
 
-Dopamine doesn't cause movement; it tags what matters. Consciousness doesn't generate options; it selects among tagged options. A 2025 "learning primacy hypothesis" proposes that dopamine's primary role is shaping circuits over time rather than real-time modulation—which actually strengthens this division of labor: dopamine builds and maintains the selection apparatus; something else performs the selection. The architecture satisfies the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness doesn't inject energy—it biases which accumulating option wins.
+Dopamine doesn't cause movement; it tags what matters. Consciousness doesn't generate options; it selects among tagged options. A 2025 "learning primacy hypothesis" proposes that dopamine's primary role is shaping circuits over time rather than real-time modulation—which actually strengthens this division of labor: dopamine builds and maintains the selection apparatus; something else performs the selection. The architecture satisfies [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]: consciousness doesn't inject energy—it biases which accumulating option wins.
 
 ### Tonic vs Phasic Signaling
 
@@ -196,10 +197,10 @@ Different timescales interact at the interface:
 | 10⁻⁵–10⁻⁴ s | Revised decoherence estimates (Hameroff) | Potentially neurally relevant |
 | ~100 ms | Exogenous attention capture | Too transient for sustained influence? |
 | ~280 ms | Motor commitment point (Thura & Cisek) | Where deliberation resolves |
-| ~300 ms | Willed attention deployment (Bengson) | Full interface engagement |
+| ~300 ms | Willed attention deployment (Rajan et al.) | Full interface engagement |
 | Sustained | Maintained willed attention | Where Zeno effects accumulate |
 
-The convergence of ~280ms motor commitment and ~300ms willed attention deployment is striking. If attention and motor selection share a mechanism (as the premotor theory proposes), this shared timescale marks where consciousness engages. This timing window is directly relevant to [[free-will]] debates: it identifies when deliberation resolves into commitment—the locus where [[agent-causation]] could operate.
+The convergence of ~280ms motor commitment and ~300ms willed attention deployment is striking. If attention and motor selection share a mechanism, this shared timescale marks where consciousness engages. This timing window is directly relevant to [[free-will]] debates: it identifies when deliberation resolves into commitment—the locus where [[agent-causation]] could operate.
 
 For quantum mechanisms to work, decoherence must be slow enough to permit meaningful influence before quantum effects dissipate. Tegmark's original calculations ruled this out; revised estimates (supported by 2025 research on biological quantum effects) may permit it.
 
@@ -237,7 +238,7 @@ Implications for mechanism:
 - Effects accumulate through sustained attention; brief attention has minimal impact
 - The brain generates and evaluates options unconsciously; consciousness selects among results
 
-This bandwidth constraint is consistent with all candidate mechanisms. Whether selection occurs at ion channels, microtubules, or neural assemblies, it operates on aggregate patterns that fall within the ~10 bits/second window.
+This bandwidth constraint is consistent with all candidate mechanisms—whether selection occurs at ion channels, microtubules, or neural assemblies, it operates on aggregate patterns within the ~10 bits/second window.
 
 ## The Libet Challenge Revisited
 
@@ -380,6 +381,7 @@ The Map doesn't commit to a specific mechanism. The commitment is to the framewo
 ## Further Reading
 
 - [[attention-as-interface]] — The interface hypothesis stated and developed
+- [[attention-motor-planning-quantum-interface]] — Philosophical significance of the attention-motor convergence
 - [[attention-motor-quantum-interface]] — Detailed concept treatment of the unified interface
 - [[dopamine-and-the-unified-interface]] — Dopamine's dual role in attention and motor planning
 - [[motor-selection]] — Motor selection and premotor theory in depth
@@ -396,7 +398,7 @@ The Map doesn't commit to a specific mechanism. The commitment is to the framewo
 
 ## References
 
-1. Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 
 2. Cisek, P., & Kalaska, J.F. (2005). Neural correlates of reaching decisions in dorsal premotor cortex. *Neuron*, 45(5), 801-814.
 
@@ -404,7 +406,7 @@ The Map doesn't commit to a specific mechanism. The commitment is to the framewo
 
 4. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 
-5. Kaeser, P.A., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*. https://doi.org/10.1038/s41586-024-08038-z
+5. Cai, X., Liu, C., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635, 406-414. https://doi.org/10.1038/s41586-024-08038-z
 
 6. Keppler, J. (2025). Cortical microcolumns and the quantum zero-point field. *Frontiers in Human Neuroscience*.
 

@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 12:07 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/attention-interface-mechanisms]]
+- **Word count**: 3991 → 3997 (+6)
+- **Critical issues addressed**: 2 (wrong author attribution for Rajan et al. 2019 theta paper; wrong first author for Cai et al. 2024 dopamine paper)
+- **Medium issues addressed**: 1 (missing cross-link to companion topic article)
+- **Enhancements made**: 1 (prose tightening for length neutrality)
+- **Output**: [[reviews/deep-review-2026-02-06-attention-interface-mechanisms]]
+
 ## 2026-02-06 11:51 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Evidential Weight of Voids — whether the collective pattern of cognitive voids constitutes abductive evidence for dualism

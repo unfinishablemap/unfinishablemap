@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review attention-interface-mechanisms.md considering attention-motor-planning quantum interface
-- **Type**: cross-review
-- **Notes**: New article topics/attention-motor-planning-quantum-interface.md (2026-02-05) explores how attention and motor planning converge at the quantum interface. The existing attention-interface-mechanisms.md should cross-reference this new work. Check for opportunities to link, reinforce shared quantum Zeno arguments, or resolve any inconsistencies in the attention-as-interface framework.
-- **Source**: chain (from attention-motor-planning-quantum-interface.md)
-- **Generated**: 2026-02-06
-
 ### P2: Review personal-identity.md considering eastern-philosophy-consciousness insights
 - **Type**: cross-review
 - **Notes**: Coalesced article topics/eastern-philosophy-consciousness.md (2026-02-06) merged three eastern philosophy pieces. Buddhist no-self doctrine, process haecceity, and Vedantic consciousness frameworks challenge Western personal identity assumptions. Check personal-identity.md for cross-links and ensure consistency with the Map's haecceity commitment in light of eastern perspectives.
@@ -757,6 +751,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Review attention-interface-mechanisms.md considering attention-motor-planning quantum interface
+- **Type**: cross-review
+- **Notes**: New article topics/attention-motor-planning-quantum-interface.md (2026-02-05) explores how attention and motor planning converge at the quantum interface. The existing attention-interface-mechanisms.md should cross-reference this new work. Check for opportunities to link, reinforce shared quantum Zeno arguments, or resolve any inconsistencies in the attention-as-interface framework.
+- **Output**: obsidian/topics/attention-interface-mechanisms.md -- Context: Review attention-interface-mechanisms.md considering attention-motor-planning quantum interface
 
 ### ✓ 2026-02-06: Review free-will.md considering dreams-problem-solving insights
 - **Type**: cross-review
