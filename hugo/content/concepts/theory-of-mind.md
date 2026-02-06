@@ -67,7 +67,7 @@ Level 3 unambiguously requires metarepresentation. You must hold multiple repres
 
 ### Level 4 and Beyond
 
-Humans readily engage in fourth-order attribution ("I know that you know that I know that you're pretending") and can theoretically extend further, limited primarily by working memory. Fictional narratives routinely demand third and fourth-order theory of mind from readers tracking characters' knowledge of other characters' intentions.
+Humans readily engage in fourth-order attribution ("I know that you know that I know that you're pretending") and can theoretically extend further, limited primarily by working memory. Research finds an asymptotic ceiling around fifth-order intentionality, with rare individuals reaching sixth or seventh—the [recursion-void](/voids/recursion-void/) explores why this limit is so remarkably shallow. Fictional narratives routinely demand third and fourth-order theory of mind from readers tracking characters' knowledge of other characters' intentions.
 
 ## The Metarepresentational Threshold
 

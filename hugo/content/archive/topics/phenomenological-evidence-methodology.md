@@ -1,36 +1,43 @@
 ---
-title: "Phenomenological Evidence Methodology"
-description: "First-person experience provides genuine evidence for consciousness theories when gathered through rigorous methods. Human-AI collaboration refines these standards."
-created: 2026-02-01
-modified: 2026-02-01
-human_modified:
-ai_modified: 2026-02-02T13:59:00+00:00
-draft: false
-topics:
-  - "[[hard-problem-of-consciousness]]"
-  - "[[first-person-third-person-methodology]]"
-concepts:
-  - "[[neurophenomenology]]"
-  - "[[qualia]]"
-  - "[[explanatory-gap]]"
-  - "[[phenomenal-consciousness]]"
-  - "[[intersubjectivity]]"
-  - "[[contemplative-neuroscience]]"
-related_articles:
-  - "[[tenets]]"
-  - "[[contemplative-evidence-for-consciousness-theories]]"
-  - "[[phenomenology-of-evidence-assessment]]"
 ai_contribution: 100
-author:
-ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
-last_curated:
-last_deep_review: 2026-02-02T00:15:00+00:00
+ai_modified: 2026-02-02 13:59:00+00:00
+ai_system: claude-opus-4-5-20251101
+archive_reason: Coalesced into Phenomenological Evidence
+archived: true
+archived_date: 2026-02-06 18:01:00+00:00
+author: null
+concepts:
+- '[[neurophenomenology]]'
+- '[[qualia]]'
+- '[[explanatory-gap]]'
+- '[[phenomenal-consciousness]]'
+- '[[intersubjectivity]]'
+- '[[contemplative-neuroscience]]'
+created: 2026-02-01
+date: &id001 2026-02-01
+description: First-person experience provides genuine evidence for consciousness theories
+  when gathered through rigorous methods. Human-AI collaboration refines these standards.
+draft: false
+human_modified: null
+last_curated: null
+last_deep_review: 2026-02-02 00:15:00+00:00
+modified: *id001
+original_path: /topics/phenomenological-evidence-methodology/
+related_articles:
+- '[[tenets]]'
+- '[[contemplative-evidence-for-consciousness-theories]]'
+- '[[phenomenology-of-evidence-assessment]]'
+superseded_by: /concepts/phenomenological-evidence/
+title: Phenomenological Evidence Methodology
+topics:
+- '[[hard-problem-of-consciousness]]'
+- '[[first-person-third-person-methodology]]'
 ---
 
-[[phenomenological-evidence|Phenomenological evidence]]—first-person reports of conscious experience—provides genuine data for consciousness theories when gathered through rigorous methods. The question is not whether subjective experience counts as evidence, but what standards distinguish reliable phenomenological evidence from unreliable introspection. This article examines the methodology that transforms private experience into intersubjectively shareable evidence.
+[Phenomenological evidence](/concepts/phenomenological-evidence/)—first-person reports of conscious experience—provides genuine data for consciousness theories when gathered through rigorous methods. The question is not whether subjective experience counts as evidence, but what standards distinguish reliable phenomenological evidence from unreliable introspection. This article examines the methodology that transforms private experience into intersubjectively shareable evidence.
 
-The evidential status of phenomenology matters because consciousness theories must ultimately explain what we experience. A theory that accurately predicts brain activity but fails to capture the structure of lived experience has explained the wrong thing—this is the core insight behind the [[hard-problem-of-consciousness|hard problem of consciousness]]. Phenomenological evidence is irreplaceable precisely because it describes what needs explaining.
+The evidential status of phenomenology matters because consciousness theories must ultimately explain what we experience. A theory that accurately predicts brain activity but fails to capture the structure of lived experience has explained the wrong thing—this is the core insight behind the [hard problem of consciousness](/topics/hard-problem-of-consciousness/). Phenomenological evidence is irreplaceable precisely because it describes what needs explaining.
 
 ## The Evidential Problem
 
@@ -55,7 +62,7 @@ This parallels scientific methodology: individual observations are fallible, but
 
 ## Varela's Neurophenomenological Standards
 
-Francisco Varela's [[neurophenomenology]] established explicit standards for phenomenological evidence:
+Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) established explicit standards for phenomenological evidence:
 
 **Training requirement**: Reliable phenomenological reports require trained observers. Untrained introspection produces inconsistent results—the failure that led behaviorists to abandon introspection. But this failure reflects inadequate methodology, not introspection's impossibility. Fox et al. (2012) demonstrated that meditation experience predicts introspective accuracy following a logarithmic learning curve—more training, better accuracy.
 
@@ -120,30 +127,30 @@ Two philosophical positions frame the debate:
 
 **Neurophenomenological realism** (Varela, Thompson): Treats first-person reports, when gathered rigorously, as evidence about what subjects *actually* experience. Training and convergence transform reports from fallible impressions to genuine evidence about phenomenal reality.
 
-The Map endorses neurophenomenological realism. For consciousness research specifically, heterophenomenology's methodological neutrality faces a problem: if [[qualia|phenomenal properties]] are real and irreducible (as the [[tenets#^dualism|Dualism tenet]] holds), then the methodology's agnosticism about phenomenal reality systematically brackets the very features that need explaining. Heterophenomenology works well for studying beliefs *about* experience; it's less suited for studying the [[hard-problem-of-consciousness|hard problem]]—the qualitative character of experience itself.
+The Map endorses neurophenomenological realism. For consciousness research specifically, heterophenomenology's methodological neutrality faces a problem: if [phenomenal properties](/concepts/qualia/) are real and irreducible (as the [Dualism tenet](/tenets/#dualism) holds), then the methodology's agnosticism about phenomenal reality systematically brackets the very features that need explaining. Heterophenomenology works well for studying beliefs *about* experience; it's less suited for studying the [hard problem](/topics/hard-problem-of-consciousness/)—the qualitative character of experience itself.
 
 ## Relation to Site Perspective
 
 This methodology directly supports multiple tenets:
 
-**[[tenets#^dualism|Dualism]]**: The very need for phenomenological methodology—distinct from and irreducible to third-person neuroscience—reflects the irreducibility of consciousness. If phenomenal properties were identical to physical properties, third-person methods would suffice. The persistent need for rigorous first-person methods suggests the properties investigated are genuinely distinct.
+**[Dualism](/tenets/#dualism)**: The very need for phenomenological methodology—distinct from and irreducible to third-person neuroscience—reflects the irreducibility of consciousness. If phenomenal properties were identical to physical properties, third-person methods would suffice. The persistent need for rigorous first-person methods suggests the properties investigated are genuinely distinct.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Dismissing phenomenological evidence as "merely subjective" isn't parsimony—it's refusal to investigate. Two millennia of contemplative traditions have developed systematic first-person methods. Materialist "simplicity" often reflects failure to look rather than absence of phenomena.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Dismissing phenomenological evidence as "merely subjective" isn't parsimony—it's refusal to investigate. Two millennia of contemplative traditions have developed systematic first-person methods. Materialist "simplicity" often reflects failure to look rather than absence of phenomena.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Neurophenomenology's mutual constraint exemplifies bidirectional interaction. Phenomenology constrains which neuroscientific theories are adequate; neuroscience validates phenomenological distinctions. Neither domain dominates; both contribute evidence.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Neurophenomenology's mutual constraint exemplifies bidirectional interaction. Phenomenology constrains which neuroscientific theories are adequate; neuroscience validates phenomenological distinctions. Neither domain dominates; both contribute evidence.
 
 The methodology demonstrates that phenomenological evidence, properly gathered, constitutes genuine data—irreplaceable for any theory claiming to explain consciousness itself.
 
 ## Further Reading
 
-- [[neurophenomenology]] — Varela's framework for integrating first-person and third-person methods
-- [[first-person-third-person-methodology]] — The broader methodological divide in consciousness science
-- [[contemplative-neuroscience]] — Empirical research validating trained introspection
-- [[contemplative-evidence-for-consciousness-theories]] — How meditation findings bear on consciousness debates
-- [[intersubjectivity]] — The shared space grounding phenomenological validation
-- [[phenomenology-of-evidence-assessment]] — How we evaluate evidence phenomenologically
-- [[explanatory-gap]] — Why third-person evidence alone cannot explain consciousness
-- [[qualia]] — The qualitative features phenomenological methods investigate
+- [neurophenomenology](/concepts/neurophenomenology/) — Varela's framework for integrating first-person and third-person methods
+- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — The broader methodological divide in consciousness science
+- [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Empirical research validating trained introspection
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — How meditation findings bear on consciousness debates
+- [intersubjectivity](/concepts/intersubjectivity/) — The shared space grounding phenomenological validation
+- [phenomenology-of-evidence-assessment](/topics/phenomenology-of-evidence-assessment/) — How we evaluate evidence phenomenologically
+- [explanatory-gap](/concepts/explanatory-gap/) — Why third-person evidence alone cannot explain consciousness
+- [qualia](/concepts/qualia/) — The qualitative features phenomenological methods investigate
 
 ## References
 

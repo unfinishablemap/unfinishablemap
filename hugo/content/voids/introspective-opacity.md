@@ -61,7 +61,7 @@ Carruthers's Interpretive Sensory-Access (ISA) theory makes this explicit: self-
 
 Even when we attempt metacognition—thinking about thinking—we find descriptions but not mechanisms. I know that I solved the puzzle by "thinking about it from a different angle." What does that mean? I shifted something, somewhere, somehow. The description is real; the mechanism it describes remains opaque.
 
-Higher-order thought theories distinguish metacognition (assessing cognitive states) from higher-order awareness (being aware of mental states). One can be aware of a state without being able to assess how that state arose. The monitoring and the monitored are different systems with different access patterns.
+Higher-order thought theories distinguish metacognition (assessing cognitive states) from higher-order awareness (being aware of mental states). One can be aware of a state without being able to assess how that state arose. The monitoring and the monitored are different systems with different access patterns. The [recursion-void](/voids/recursion-void/) adds a depth dimension to this opacity: even when metacognitive access succeeds, it terminates around fifth-order—the nesting itself has a shallow ceiling.
 
 ### Ontological Opacity
 

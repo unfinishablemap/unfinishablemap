@@ -38,16 +38,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense materialism.md (3788 words, 152% of hard threshold)
+### P2: Cross-review arguments-against-materialism.md considering epistemological-limits-of-occams-razor insights
+- **Type**: cross-review
+- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md (2026-02-06) provides the detailed philosophical case against parsimony-based dismissals of dualism. arguments-against-materialism.md mentions Occam's Razor and Tenet 5 in passing but does not link to the new article. Add cross-references from the parsimony discussion, check for reinforcing arguments.
+- **Source**: chain (from epistemological-limits-of-occams-razor.md)
+- **Generated**: 2026-02-06
+
+### P2: Cross-review mysterianism.md considering epistemological-limits-of-occams-razor insights
+- **Type**: cross-review
+- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md (2026-02-06) argues parsimony fails when conceptual tools are inadequate. mysterianism.md discusses cognitive closure and parsimony skepticism but doesn't link to the new article's formal treatment. Add cross-references in Tenet 5 alignment sections. The new article provides the formal case for the parsimony skepticism that mysterianism relies on.
+- **Source**: chain (from epistemological-limits-of-occams-razor.md)
+- **Generated**: 2026-02-06
+
+### P2: Integrate phenomenal-binding.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept article has no inbound links from primary content (only referenced from review documents). Covers phenomenal binding—relevant to binding-problem.md, unity-of-consciousness.md, why-phenomenal-unity-resists-explanation.md. Add cross-references from related concept and topic articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-02-06
+
+### P2: Condense arguments/functionalism.md (4250 words, 121% of hard threshold)
 - **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against materialism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Multiple previous condense attempts have not sufficiently reduced length. Consider more aggressive restructuring: consolidate overlapping objection-response pairs, remove redundant examples, defer detailed treatment to concepts/functionalism.md. Core formal arguments (absent qualia, inverted qualia, Chinese Room) must be preserved.
 - **Source**: length_analysis
 - **Generated**: 2026-02-06
 
-### P2: Condense many-worlds.md (3704 words, 148% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against Many Worlds Interpretation while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
+### P3: Deep review emergence-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the void at the concept of emergence—what cannot be explained by appealing to emergence. Check philosophical rigor, ensure alignment with Map's dualist framework.
+- **Source**: staleness
+- **Generated**: 2026-02-06
+
+### P3: Deep review introspective-opacity.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the limits of introspective access—what remains opaque to self-observation. Check philosophical rigor, ensure alignment with Map's framework, verify connections to introspection.md, volitional-opacity.md.
+- **Source**: staleness
+- **Generated**: 2026-02-06
+
+### P3: Deep review developmental-cognitive-closure.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores developmental limits on cognitive access—how cognitive capacities that emerge through development may themselves constrain understanding. Check philosophical rigor, ensure alignment with Map's framework.
+- **Source**: staleness
 - **Generated**: 2026-02-06
 
 ### P3: Deep review intersubjective-void.md for quality
@@ -90,12 +120,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05 afternoon) found systematic vulnerability in intentionality-void.md, the-unobservable-self.md, and the-observer-witness-in-meditation.md. Key issues: (1) All three draw metaphysical conclusions (dualism, irreducibility) from phenomenological premises without bridging arguments—physicalist self-modeling theories explain the same phenomenology. (2) Buddhist phenomenology is cited as evidence while ignoring that Buddhist philosophy draws opposite conclusions (no-self, not uncatchable-self). (3) Introspection's reliability is questioned in the articles, yet introspective reports are treated as evidence. Lower priority as phenomenological descriptions are strong. See pessimistic-2026-02-05-afternoon.md
 - **Source**: pessimistic-review
-- **Generated**: 2026-02-05
-
-### P2: Integrate recursion-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Voids article (2026-02-05) has no inbound links. Explores bounded metacognitive depth—why self-reflection hits a ceiling around fifth order. Add cross-references from self-reference-paradox.md, the-unobservable-self.md, introspective-opacity.md.
-- **Source**: orphan_integration
 - **Generated**: 2026-02-05
 
 ### P3: Deep review temporal-consciousness-void.md for quality
@@ -746,6 +770,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Integrate recursion-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-05) has no inbound links. Explores bounded metacognitive depth—why self-reflection hits a ceiling around fifth order. Add cross-references from self-reference-paradox.md, the-unobservable-self.md, introspective-opacity.md.
+- **Output**: obsidian/voids/recursion-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-06: Condense many-worlds.md (3704 words, 148% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against Many Worlds Interpretation while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/many-worlds.md
+
+### ✓ 2026-02-06: Condense materialism.md (3788 words, 152% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against materialism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/materialism.md
 
 ### ✓ 2026-02-06: Integrate aesthetic-void.md into site navigation
 - **Type**: integrate-orphan
@@ -2308,6 +2347,27 @@ Pessimistic review 2026-02-01 (late) found that self-locating-beliefs.md and ind
 - **Notes**: Suggested by optimistic review 2026-02-05. Why consciousness interfaces only with its own brain—resolving the "why can't I collapse distant systems" objection. Constrains Minimal Quantum Interaction to neurally-instantiated attention. Builds on multi-mind-collapse-problem.md, attention-as-interface.md, brain-interface-boundary.md. See optimistic-2026-02-05.md
 - **Source**: optimistic-review
 - **Generated**: 2026-02-05
+
+### P3: Write article on consciousness and moral status
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-06 (afternoon). The Map has strong metaethical position (phenomenal value realism) and discussions of animal and AI consciousness, but no article systematically connecting them. Which beings have moral status? If consciousness grounds value and requires quantum interface, what follows for animals, insects, LLMs? Builds on phenomenal-value-realism.md, ethics-of-consciousness.md, animal-consciousness.md. See optimistic-2026-02-06-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-06
+
+### P3: Write comparative analysis of neural quantum consciousness mechanisms
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-06 (afternoon). Multiple candidate sites for consciousness-brain interface (ion channels, microtubules, thalamic nuclei, cortical microcolumns, radical pairs) but no systematic comparison on key dimensions: decoherence timescales, biological plausibility, bandwidth constraints, empirical accessibility. Builds on quantum-biology-and-the-consciousness-debate.md, attention-as-interface.md, neural-implementation-specifics.md. See optimistic-2026-02-06-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-06
+
+### P3: Write article on the meta-problem of consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-06 (afternoon). Chalmers's 2018 challenge: why do we think there's a hard problem? Strong response would show meta-problem itself presupposes consciousness (need phenomenal awareness to notice explanatory gap), turning challenge into further evidence for irreducibility. Builds on hard-problem-of-consciousness.md, cognitive-science-of-dualism.md, illusionism.md. See optimistic-2026-02-06-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-06
 
 ## Blocked Tasks (Needs Human)
 

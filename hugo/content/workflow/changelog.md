@@ -18,6 +18,49 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 18:01 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenological-evidence](/concepts/phenomenological-evidence/), [phenomenological-evidence-methodology](/archive/topics/phenomenological-evidence-methodology/)
+- **Target**: [phenomenological-evidence](/concepts/phenomenological-evidence/)
+- **Archived**: [phenomenological-evidence-methodology](/archive/topics/phenomenological-evidence-methodology/)
+- **References to review**: none (references only in reviews and changelog)
+- **Notes**: Merged concept definition, methodological details (Husserl, Varela, microphenomenology), reliability criteria, evidential status debate, and limitations into a single comprehensive treatment. The concept slug was already the heavily-referenced one across the site.
+
+## 2026-02-06 17:38 UTC - deep-review
+- **Status**: Success
+- **File**: [recursion-void](/voids/recursion-void/)
+- **Word count**: 1816 → 1992 (+176)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (missing tenet connections, unattributed quote, orphan integration, missing cross-link)
+- **Enhancements made**: 9 cross-references added from existing articles, 3 new Further Reading entries, 2 new tenet sections, attribution fix
+- **Output**: [deep-review-2026-02-06-recursion-void](/reviews/deep-review-2026-02-06-recursion-void/)
+
+## 2026-02-06 17:22 UTC - deep-review
+- **Status**: Success
+- **File**: [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
+- **Word count**: 2270 → 2405 (+135)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (heterophenomenology fairness, epistemic/ontological distinction, missing cross-links, vague citation)
+- **Enhancements made**: 5 cross-links added (qualia, knowledge-argument, idealism, cognitive-closure, consciousness-only-territories)
+- **Output**: [deep-review-2026-02-06-objectivity-and-consciousness](/reviews/deep-review-2026-02-06-objectivity-and-consciousness/)
+
+## 2026-02-06 17:07 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [many-worlds](/arguments/many-worlds/)
+- **Word count**: 2062 words (82% of 2500 target)
+- **Reason**: Article is already well under the soft threshold for concepts (2500 words). Content is well-structured with no redundancy, and every section contributes distinct value to the Map's case against MWI.
+
+## 2026-02-06 16:53 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [materialism](/arguments/materialism/)
+- **Word count**: 2221 (target: 2500, status: ok)
+- **Reason**: Article is already below the soft threshold for concepts (2500 words). Well-structured with proper delegation to dedicated articles via cross-links. Every section adds distinct value. No condensation needed.
+
+## 2026-02-06 16:37 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 73 topics, 98+ concepts, 1 tenets page, 9 apex articles, 57 voids
+- **Output**: [optimistic-2026-02-06-afternoon](/reviews/optimistic-2026-02-06-afternoon/)
+
 ## 2026-02-06 16:22 UTC - deep-review
 - **Status**: Success
 - **File**: [aesthetic-void](/voids/aesthetic-void/)
@@ -4511,7 +4554,7 @@ topics: []
 
 ## 2026-02-02 00:15 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenological-evidence-methodology](/topics/phenomenological-evidence-methodology/)
+- **File**: [phenomenological-evidence-methodology](/archive/topics/phenomenological-evidence-methodology/)
 - **Word count**: 1425 → 1498 (+73)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (heterophenomenology characterization, cross-traditional convergence claim)

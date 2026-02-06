@@ -103,7 +103,7 @@ The phenomenology of the edge offers several insights for understanding consciou
 
 **The subject is not essential to experience.** If the zero-person perspective is genuinely experiential (and the consistency of reports suggests it is), then the sense of being a self having experiences is an addition to consciousness, not its foundation. Consciousness can operate without the usual experiencer. This matters for understanding what consciousness fundamentally is.
 
-**Multiple edges exist.** Different practices seem to approach different boundaries: the ego-boundary (loss of self), the content-boundary (minimal phenomenal experience), the temporal-boundary (dissolution of time), the [scale-boundary](/voids/scale-void/) (where cosmic distances and deep time exceed comprehension), and the [probability-boundary](/voids/probability-intuition-void/) (where genuine randomness resists intuitive grasp). Each has distinct phenomenology. The territory of cognitive limits may be varied, not uniform.
+**Multiple edges exist.** Different practices seem to approach different boundaries: the ego-boundary (loss of self), the content-boundary (minimal phenomenal experience), the temporal-boundary (dissolution of time), the [scale-boundary](/voids/scale-void/) (where cosmic distances and deep time exceed comprehension), the [probability-boundary](/voids/probability-intuition-void/) (where genuine randomness resists intuitive grasp), and the [recursion-boundary](/voids/recursion-void/) (where metacognitive depth terminates around fifth order). Each has distinct phenomenology. The territory of cognitive limits may be varied, not uniform.
 
 ## The Lower Edge: Minimal Consciousness
 

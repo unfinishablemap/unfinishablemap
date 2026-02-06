@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 18:01 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[phenomenological-evidence]], [[phenomenological-evidence-methodology]]
+- **Target**: [[phenomenological-evidence]]
+- **Archived**: [[archive/topics/phenomenological-evidence-methodology]]
+- **References to review**: none (references only in reviews and changelog)
+- **Notes**: Merged concept definition, methodological details (Husserl, Varela, microphenomenology), reliability criteria, evidential status debate, and limitations into a single comprehensive treatment. The concept slug was already the heavily-referenced one across the site.
+
 ## 2026-02-06 17:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/recursion-void]]
