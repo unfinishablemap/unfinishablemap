@@ -4,7 +4,7 @@ description: "Attention and motor planning share neural substrates—a convergen
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-02-05T23:17:00+00:00
+ai_modified: 2026-02-06T11:22:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-05
 last_curated:
-last_deep_review:
+last_deep_review: 2026-02-06T11:22:00+00:00
 ---
 
 Neuroscience has discovered that attention and motor planning are not separate systems. The premotor theory of attention demonstrates they share neural substrates—directing attention *is* preparing to act. The Unfinishable Map argues this convergence transforms the mind-body problem. If consciousness influences matter through attention (the [[attention-as-interface|attention-as-interface hypothesis]]), and attention is motor planning, then a single interface connects mind to world. Consciousness selects what to perceive and what to do through the same mechanism, at the same neural sites, on the same timescale.
@@ -41,11 +41,11 @@ This article examines the philosophical significance of the convergence. The mec
 
 Three independent lines of evidence converge on a unified attention-motor substrate.
 
-**Shared neural circuits.** Rizzolatti's premotor theory of attention (PMTA) finds that spatial attention and motor preparation activate the same fronto-parietal networks. Preparing an eye movement to a location improves visual processing there—attention is the motor preparation. Wise and Murray (2022) extended this, arguing the entire prefrontal cortex is fundamentally premotor: "executive function" is action planning at increasing levels of abstraction. The question "what should I think about?" is motor preparation at its most abstract.
+**Shared neural circuits.** Rizzolatti's premotor theory of attention (PMTA) proposes that spatial attention and motor preparation activate the same fronto-parietal networks. Preparing an eye movement to a location improves visual processing there—on this account, attention *is* motor preparation. The strong form of PMTA remains debated, but the evidence for shared circuitry between attention and motor preparation is robust. Wise and Murray (2022) extended this, arguing the entire prefrontal cortex is fundamentally premotor: "executive function" is action planning at increasing levels of abstraction. The question "what should I think about?" is motor preparation at its most abstract.
 
-**Shared neural signatures.** Willed attention and willed motor action both produce frontal theta oscillations absent during automatic processing (Bengson et al. 2019). Both show bidirectional frontoparietal coherence—genuine deliberation rather than feedforward execution. Both recruit additional frontal resources beyond what instructed responses require. The same markers distinguish "you deciding" from "brain executing" in both domains.
+**Shared neural signatures.** Willed attention and willed motor action both produce frontal theta oscillations absent during automatic processing (Rajan et al. 2019). Both show bidirectional frontoparietal coherence—genuine deliberation rather than feedforward execution. Both recruit additional frontal resources beyond what instructed responses require. The same markers distinguish "you deciding" from "brain executing" in both domains.
 
-**Shared timing.** Motor commitment occurs approximately 280ms before movement (Thura & Cisek 2014). Willed attention deploys in approximately 300ms (Bengson et al. 2019). If these were independent systems with independent interfaces, this timing match would be coincidental. If they share a mechanism, the match is expected.
+**Shared timing.** Motor commitment occurs approximately 280ms before movement (Thura & Cisek 2014). The earliest distinctive signature of willed attention—an ERP component marking voluntary selection—appears at approximately 250-350ms (Rajan et al. 2019), though the full deployment process extends over a longer window. If attention and motor selection were independent systems, the overlap of these early commitment signals would be coincidental. If they share a mechanism, the overlap is expected.
 
 ## Why the Convergence Matters Philosophically
 
@@ -63,17 +63,17 @@ The brain generates options before consciousness selects among them. This archit
 
 - **Affordance competition.** Seeing a cup activates reaching, grasping, and ignoring options simultaneously. Neural populations in premotor cortex encode multiple potential actions, competing until one reaches threshold (Cisek 2007).
 - **Basal ganglia gating.** The basal ganglia tonically inhibit motor programs. Selection means releasing the brake on one option while maintaining inhibition on competitors.
-- **Dopamine as threshold modulator.** Dopamine-deficient mice retain motor capacity—the circuitry works—but lose goal-directed initiative. They "can move" but "won't move" (Kaeser et al. 2024). Dopamine marks what matters without determining what happens.
+- **Dopamine as threshold modulator.** Mice with disrupted fast dopamine signalling retain spontaneous motor capacity—the circuitry works—but lose reward-driven initiative (Cai et al. 2024). Dopamine marks what matters without determining what happens.
 
 This architecture raises a question that materialist accounts struggle with. If competition is deterministic, deliberation is theatre—the outcome was fixed before the process began. If competition involves genuine indeterminacy, something must resolve it. Pure randomness produces arbitrary outcomes, not choices. For selection to be both undetermined and meaningful, something beyond neural dynamics must contribute—biasing which option actualises in a direction that reflects what the agent intends.
 
-The Map proposes consciousness fills this role. Through the [[stapp-quantum-mind|quantum Zeno effect]], mental attention holds desired patterns stable, biasing which competing option reaches threshold. Consciousness doesn't inject energy or generate options—it selects among options the brain already provides. This satisfies the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: the smallest possible influence at the point of genuine indeterminacy.
+The Map proposes consciousness fills this role. One candidate mechanism is the [[stapp-quantum-mind|quantum Zeno effect]], through which mental attention could hold desired patterns stable, biasing which competing option reaches threshold. But the core claim does not depend on any specific mechanism: consciousness selects among options the brain already provides, without injecting energy or generating those options. Whatever the mechanism, this satisfies the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: the smallest possible influence at the point of genuine indeterminacy.
 
 ### What Effort Tells Us
 
 Sustaining voluntary attention feels effortful. Sustaining motor intention feels effortful in the same way. Novel movements feel harder than practised ones; complex sequences feel harder than simple actions. If the phenomenology tracks nothing real—if effort is epiphenomenal—its systematic correlation with task difficulty is unexplained.
 
-The quantum Zeno framework explains the correlation. More difficult selections require higher observation rates to stabilise the desired pattern against competing alternatives. William James observed that "volition is nothing but attention" and "the free will question relates solely to the amount of effort of attention." The convergence vindicates James: if attention and motor selection share a mechanism, then the felt effort of choosing what to do and the felt effort of choosing what to attend to have the same source.
+If consciousness contributes to selection, the correlation has a natural explanation: more difficult selections require greater conscious engagement to stabilise the desired pattern against competing alternatives. The [[stapp-quantum-mind|quantum Zeno framework]] offers one account of how this might work—higher observation rates holding a quantum state stable—though the phenomenological argument stands independently of any specific mechanism. William James observed that "volition is nothing but attention" and "the free will question relates solely to the amount of effort of attention." The convergence vindicates James: if attention and motor selection share a mechanism, then the felt effort of choosing what to do and the felt effort of choosing what to attend to have the same source.
 
 This parallel phenomenology also challenges illusionist accounts. If the sense of effort in motor selection is representational fiction unconnected to causal processes, its precise scaling with task difficulty—across two supposedly separate cognitive domains—is a remarkable coincidence.
 
@@ -81,7 +81,7 @@ This parallel phenomenology also challenges illusionist accounts. If the sense o
 
 Benjamin Libet's 1983 experiments appeared to show the brain "decides" before consciousness knows. The readiness potential (RP) begins ~550ms before movement; conscious awareness of intention occurs only ~200ms before. If neural activity precedes awareness, consciousness arrives too late to cause anything.
 
-The convergence framework, combined with subsequent research, dissolves this challenge. Schurger's 2012 stochastic accumulator model reinterprets the RP as averaged neural noise, not unconscious decision. Movement occurs when random fluctuations cross threshold; averaging across trials produces the RP shape. Sjöberg (2024) provides surgical confirmation: patients who have the SMA—the region generating the RP—resected retain their sense of voluntary action. If the RP reflected genuine volition, removing its source should impair the experience of willing. It does not.
+The convergence framework, combined with subsequent research, dissolves this challenge (see also [[libet-experiments]] for a fuller treatment). Schurger's 2012 stochastic accumulator model reinterprets the RP as averaged neural noise, not unconscious decision. Movement occurs when random fluctuations cross threshold; averaging across trials produces the RP shape. Sjöberg (2024) provides a revealing dissociation: patients who have the SMA—the region generating the RP—resected retain the subjective sense of willing (reporting "100% effort" to move) while losing the ability to execute voluntary movements (SMA syndrome). They can still move automatically—walking when positioned upright, reading aloud—but cannot voluntarily initiate novel actions. If the RP reflected the *conscious decision* to act, removing its source should impair the experience of willing. It does not—but the SMA is clearly necessary for translating conscious intention into voluntary execution, consistent with its role as motor preparation machinery rather than the seat of decision.
 
 What consciousness contributes, on the convergence model, is not initiation from nothing. Neural computation generates options and builds them toward threshold. Consciousness biases which option crosses first—selection, not creation. The RP tracks motor preparation; the selection event occurs at the commitment point approximately 280ms before movement, within the window where willed processing shows its distinctive signatures.
 
@@ -93,7 +93,7 @@ This dissociation maps directly onto the Map's framework. Intention—the consci
 
 ## The Dopamine Bridge
 
-Dopamine's dual role in motivation and movement illuminates the interface. The "wanting vs. liking" distinction (Berridge) shows dopamine mediates incentive salience—tagging stimuli as worth pursuing—rather than hedonic pleasure itself. A 2024 *Nature* study found that phasic dopamine drives motivation while tonic dopamine supports baseline motor capacity.
+Dopamine's dual role in motivation and movement illuminates the interface. The "wanting vs. liking" distinction (Berridge 2007) shows dopamine mediates incentive salience—tagging stimuli as worth pursuing—rather than hedonic pleasure itself. Cai et al. (2024) found that fast, action-potential-induced dopamine release drives reward-oriented behaviour while baseline dopamine levels fully support spontaneous movement.
 
 This creates a three-layer architecture:
 
@@ -113,7 +113,7 @@ The convergence supports the [[tenets#^dualism|Dualism]] tenet through three cha
 
 ### Minimal Quantum Interaction
 
-The selection architecture satisfies [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] precisely. Consciousness doesn't generate motor force—the brain does that. Consciousness doesn't create options—neural computation does that. What consciousness contributes is bias at the moment of resolution, operating within the ~10 bits/second bandwidth constraint that characterises conscious processing. Policy-level selection ("reach for the cup," "attend to the voice") rather than implementation-level control (individual neural firing patterns).
+The selection architecture satisfies [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] precisely. Consciousness doesn't generate motor force—the brain does that. Consciousness doesn't create options—neural computation does that. What consciousness contributes is bias at the moment of resolution, operating within the narrow bandwidth that characterises conscious processing. Policy-level selection ("reach for the cup," "attend to the voice") rather than implementation-level control (individual neural firing patterns).
 
 ### Bidirectional Interaction
 
@@ -141,15 +141,18 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 - [[motor-selection]] — Motor selection and the premotor theory in detail
 - [[attention-interface-mechanisms]] — Candidate sites, timing constraints, and predictions
 - [[attention-as-interface]] — The attention-as-interface hypothesis
+- [[structure-of-attention]] — Broader framework for understanding attention
 - [[dopamine-selection-interface]] — Dopamine's role in threshold modulation
 - [[dopamine-and-the-unified-interface]] — Dopamine's dual role in attention and motor planning
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno mechanism
 - [[voluntary-attention]] — Neural signatures of willed attention
+- [[libet-experiments]] — The Libet experiments and their interpretation
+- [[agent-causation]] — Agent causation and the metaphysics of selection
 - [[free-will]] — The mind-body problem applied to choice
 
 ## References
 
-1. Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 
 2. Berridge, K.C. (2007). The debate over dopamine's role in reward: the case for incentive salience. *Psychopharmacology*, 191(3), 391-431.
 
@@ -157,7 +160,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 
 4. Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
 
-5. Kaeser, P.A., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*. https://doi.org/10.1038/s41586-024-08038-z
+5. Cai, X., Liu, C., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635, 406-414. https://doi.org/10.1038/s41586-024-08038-z
 
 6. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
 
