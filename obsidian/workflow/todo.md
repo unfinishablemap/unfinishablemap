@@ -45,12 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Completed**: 2026-02-05
 - **Output**: [[topics/attention-motor-planning-quantum-interface]]
 
-### P2: Cross-review phenomenal-unity.md considering emergence-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/emergence-void.md (2026-02-05) argues the hard problem is the deepest instance of a general emergence void. The phenomenal-unity.md concept shares 5 overlapping concepts (hard-problem, binding-problem, combination-problem, downward-causation, emergence). Check for: (1) cross-links to emergence void, (2) whether the emergence void framework strengthens the unity argument, (3) consistency in treatment of the combination problem.
-- **Source**: chain (from emergence-void.md)
-- **Generated**: 2026-02-05
-
 ### P2: Cross-review psychophysical-coupling.md considering attention-consciousness-dissociation insights
 - **Type**: cross-review
 - **Notes**: New article topics/attention-consciousness-dissociation.md (2026-02-05) demonstrates that attention and consciousness can come apart, with 8 overlapping concepts with psychophysical-coupling.md (free-will, hard-problem, attention, functionalism, illusionism, IIT, mental-effort, phenomenal-consciousness). Check for: (1) cross-links to dissociation findings, (2) implications for coupling models if attention ≠ consciousness, (3) whether the coupling framework needs refinement given dissociation evidence.
@@ -736,6 +730,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Cross-review phenomenal-unity.md considering emergence-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/emergence-void.md (2026-02-05) argues the hard problem is the deepest instance of a general emergence void. The phenomenal-unity.md concept shares 5 overlapping concepts (hard-problem, binding-problem, combination-problem, downward-causation, emergence). Check for: (1) cross-links to emergence void, (2) whether the emergence void framework strengthens the unity argument, (3) consistency in treatment of the combination problem.
+- **Output**: obsidian/concepts/phenomenal-unity.md -- Context: Cross-review phenomenal-unity.md considering emergence-void insights
 
 ### ✓ 2026-02-06: Cross-review psychophysical-coupling.md considering psychophysical-coupling-law-mechanisms insights
 - **Type**: cross-review

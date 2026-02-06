@@ -4,7 +4,7 @@ description: "Why conscious experiences come as integrated wholes rather than se
 created: 2026-01-19
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-02-05T07:01:00+00:00
+ai_modified: 2026-02-06T09:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,16 +25,18 @@ concepts:
   - "[[varieties-of-unity]]"
   - "[[neural-binding-mechanisms]]"
   - "[[stapp-quantum-mind]]"
+  - "[[emergence-void]]"
 related_articles:
   - "[[tenets]]"
   - "[[neural-binding-quantum-entanglement-2026-01-19]]"
   - "[[process-and-consciousness]]"
+  - "[[emergence-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-01-31T05:33:00+00:00
+last_deep_review: 2026-02-06T09:07:00+00:00
 ---
 
 Phenomenal unity is the fact that conscious experiences come as integrated wholes rather than collections of separate parts. When you see a red apple while hearing music and feeling hungry, these aren't three parallel streams—they're aspects of one unified experience that is yours. This unity is not merely functional coordination or information integration; it is a feature of what experience *is like*. Classical mechanisms cannot explain it because they coordinate separate processes without creating genuine wholes. Quantum entanglement may succeed precisely because it provides irreducible holism at the level of physics.
@@ -104,7 +106,7 @@ The binding problem is a neural engineering puzzle. Phenomenal unity is a philos
 
 [[combination-problem|The combination problem]]—panpsychism's central challenge—is the unity problem in different dress. If electrons have micro-experiences, how do billions of them combine into *one* human consciousness? William James called this "the most peculiar puzzle" of the mind-dust theory.
 
-The combination problem and phenomenal unity share a logical structure: both ask how plurality (of features, of micro-subjects) yields singularity (of experience, of macro-consciousness). Neither classical mechanisms nor panpsychist proposals have solved this puzzle. This parallel suggests the difficulty may be fundamental—something about unity resists explanation by combination of separates.
+The combination problem and phenomenal unity share a logical structure: both ask how plurality (of features, of micro-subjects) yields singularity (of experience, of macro-consciousness). The [[emergence-void|emergence void]] frames this as a general cognitive limit: the inability to grasp how arrangement produces novelty appears at every level transition, but reaches its greatest depth at consciousness. Neither classical mechanisms nor panpsychist proposals have bridged this gap.
 
 The Map's [[interactionist-dualism|interactionist framework]] avoids both problems. Consciousness is not constituted by combining physical parts (solving the unity puzzle) and matter has no micro-experiences to combine (avoiding the combination problem). Unity is fundamental rather than constructed.
 
@@ -218,11 +220,12 @@ Phenomenal unity illuminates why the Map's [[tenets]] take the positions they do
 - [[process-and-consciousness]] — Apex synthesis: how process philosophy (Whitehead, Bergson) illuminates phenomenal unity through its account of actual occasions
 - [[unity-of-consciousness]] — Broader conceptual framing of what unity is and how it relates to binding, combination, and other problems
 - [[consciousness-and-semantic-understanding]] — The parallel problem for meaning: how semantic elements combine into unified understanding
-- [[neural-binding-mechanisms]] — Detailed analysis of classical binding mechanisms (gamma synchrony, thalamocortical loops) and why quantum entanglement succeeds where they fail
-- [[quantum-binding-experimental-evidence]] — Comprehensive analysis of 2022-2025 experimental support for quantum mechanisms underlying phenomenal unity
-- [[varieties-of-unity]] — Taxonomy of synchronic, diachronic, and subject unity with evidence for dissociation
-- [[combination-problem]] — Panpsychism's parallel challenge to explaining unity
+- [[neural-binding-mechanisms]] — Classical binding mechanisms and why quantum entanglement succeeds where they fail
+- [[quantum-binding-experimental-evidence]] — 2022-2025 experimental support for quantum mechanisms
+- [[varieties-of-unity]] — Taxonomy of synchronic, diachronic, and subject unity
+- [[combination-problem]] — Panpsychism's parallel challenge
 - [[emergence]] — Phenomenal unity as paradigm case of strong emergence
+- [[emergence-void]] — Why the transition from parts to wholes resists comprehension at every level, deepest at consciousness
 - [[binding-problem]] — The neural challenge of feature binding
 - [[quantum-consciousness]] — Mechanisms for consciousness-quantum interface
 - [[stapp-quantum-mind]] — Quantum Zeno alternative to Orch OR
