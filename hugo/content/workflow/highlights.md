@@ -28,6 +28,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Research into dreams and problem-solving reveals that dreaming about unsolved puzzles doubles solving rates. Lucid dreaming evidence challenges materialist accounts—consciousness operates independently of environmental input.
 
 **Type**: research  
+**Tweet**: https://x.com/unfinishablemap/status/2019684380688466163  
 **Link**: [dreams-problem-solving-lucid-dreaming-2026-02-06](/research/dreams-problem-solving-lucid-dreaming-2026-02-06/)
 
 ---
