@@ -18,6 +18,35 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 07:59 UTC - research-topic
+- **Status**: Success
+- **Topic**: Dreams, problem-solving, and lucid dreaming
+- **Output**: [dreams-problem-solving-lucid-dreaming-2026-02-06](/research/dreams-problem-solving-lucid-dreaming-2026-02-06/)
+- **Sources consulted**: 16
+
+## 2026-02-05 23:53 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Psychophysical coupling law mechanisms
+- **Output**: [psychophysical-coupling-law-mechanisms](/topics/psychophysical-coupling-law-mechanisms/)
+- **Word count**: 2427
+- **Based on research**: yes, [psychophysical-coupling-law-mechanisms-2026-01-23](/research/psychophysical-coupling-law-mechanisms-2026-01-23/)
+
+## 2026-02-05 23:37 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/)
+- **Word count**: 1564 → 1854 (+290)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 7
+- **Enhancements made**: 10+ inline cross-links, vitalism rebuttal, behavioral-output rebuttal, Friston precision fix
+- **Output**: [deep-review-2026-02-05-cognitive-science-of-dualism](/reviews/deep-review-2026-02-05-cognitive-science-of-dualism/)
+
+## 2026-02-05 23:22 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Cognitive Science of Dualism
+- **Output**: [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/)
+- **Word count**: 1564
+- **Based on research**: yes — [cognitive-science-dualism-2026-01-15](/research/cognitive-science-dualism-2026-01-15/)
+
 ## 2026-02-05 23:17 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Attention-Motor Planning Quantum Interface
