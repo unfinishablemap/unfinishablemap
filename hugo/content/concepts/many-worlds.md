@@ -123,6 +123,8 @@ These are genuine virtues. The Map rejects MWI not because it's obviously wrong 
 
 ## Viable Alternatives to MWI
 
+MWI also claims to dissolve the [prebiotic collapse problem](/concepts/prebiotic-collapse/)—what selected quantum outcomes during 13.8 billion years before consciousness. If all outcomes occur, nothing needed selecting. But the Map's alternative is more conservative: objective reduction handled prebiotic collapse; consciousness modulates collapse only in neural systems.
+
 The case against MWI only succeeds if scientifically respectable alternatives exist. They do. The [comprehensive survey of quantum interpretations](/topics/quantum-measurement-interpretations-beyond-mwi/) establishes five major alternatives: Copenhagen, Bohmian mechanics, QBism, transactional/time-symmetric approaches, and objective collapse theories.
 
 The interpretive landscape is genuinely open—a 2025 Nature Physics survey found only 24% of physicists are confident their preferred interpretation is correct. The Map favors interpretations where consciousness participates in collapse (transactional, consciousness-integrated CSL), as these explain both quantum measurement outcomes and phenomenal facts. Interpretations that eliminate consciousness or treat it as purely epistemic don't explain why consciousness exists at all. See the [full survey](/topics/quantum-measurement-interpretations-beyond-mwi/) for detailed analysis of each interpretation's compatibility with the Map's framework.

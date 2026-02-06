@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-02-05 23:37:00+00:00
+ai_modified: 2026-02-06 16:08:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Cognitive science presupposes methodological materialism, yet its o
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-05 23:37:00+00:00
+last_deep_review: 2026-02-06 16:08:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +101,10 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) receives perhaps th
 
 - [intuitive-dualism](/concepts/intuitive-dualism/) — Whether humans naturally think dualistically
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — The methodological gap in consciousness research
+- [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Why correlations between brain states and experience don't settle the metaphysics
+- [predictive-processing](/concepts/predictive-processing/) — The brain as prediction engine and why it leaves consciousness unexplained
 - [embodied-cognition](/concepts/embodied-cognition/) — How bodily dependence reshapes but doesn't resolve the mind-body problem
+- [neurophenomenology](/concepts/neurophenomenology/) — Varela's integration of first-person and third-person methods
 - [cognitive-closure](/concepts/cognitive-closure/) — McGinn's thesis on constitutional limits of human cognition
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why no amount of functional description explains experience
 - [arguments-for-dualism](/concepts/arguments-for-dualism/) — The philosophical case independent of cognitive science

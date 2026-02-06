@@ -18,6 +18,96 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-06 16:22 UTC - deep-review
+- **Status**: Success
+- **File**: [aesthetic-void](/voids/aesthetic-void/)
+- **Word count**: 1976 → 2015 (+39)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (state-dependent memory objection)
+- **Enhancements made**: 9 inbound cross-links added from existing articles (orphan integration focus)
+- **Output**: [deep-review-2026-02-06-aesthetic-void](/reviews/deep-review-2026-02-06-aesthetic-void/)
+
+## 2026-02-06 16:08 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/)
+- **Word count**: 1854 → 1892 (+38)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan integration, missing Further Reading entries)
+- **Enhancements made**: 9 inbound cross-references added from existing articles
+- **Output**: [deep-review-2026-02-06-cognitive-science-of-dualism](/reviews/deep-review-2026-02-06-cognitive-science-of-dualism/)
+
+## 2026-02-06 14:37 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
+- **Word count**: 1507 → 1633 (+126)
+- **Critical issues addressed**: 3 (IEP quote fabrication, Churchland misquotation, Holsinger/Sober misattribution)
+- **Medium issues addressed**: 2 (syntactic simplicity conflation, heliocentrism overstatement)
+- **Enhancements made**: 5 (cross-links to explanatory-gap, knowledge-argument, illusionism, causal-closure, intuitive-dualism)
+- **Output**: [deep-review-2026-02-06-epistemological-limits-of-occams-razor](/reviews/deep-review-2026-02-06-epistemological-limits-of-occams-razor/)
+
+## 2026-02-06 14:22 UTC - deep-review
+- **Status**: Success
+- **File**: [intuitive-dualism](/concepts/intuitive-dualism/)
+- **Word count**: 1787 → 1832 (+45)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing cross-links to cognitive-science-of-dualism, theory-of-mind, embodied-cognition)
+- **Enhancements made**: 3 (3 cross-links added inline and in frontmatter, 2 Further Reading entries added)
+- **Context**: Integration pass considering cognitive-science-of-dualism topic article insights
+- **Output**: [deep-review-2026-02-06-intuitive-dualism](/reviews/deep-review-2026-02-06-intuitive-dualism/)
+
+## 2026-02-06 14:07 UTC - deep-review
+- **Status**: Success
+- **File**: [arguments-for-dualism](/concepts/arguments-for-dualism/)
+- **Word count**: 3258 → 3407 (+149, mostly new references)
+- **Critical issues addressed**: 2 (broken tenet anchors, survey statistic conflation)
+- **Medium issues addressed**: 4 (cross-ref to new Occam's Razor article, style guide fixes, missing references)
+- **Enhancements made**: 3 (parsimony section upgraded with Huemer/Sober/Zanotti, 4 cross-links to epistemological-limits-of-occams-razor, 7 new references for citation integrity)
+- **Output**: [deep-review-2026-02-06-arguments-for-dualism](/reviews/deep-review-2026-02-06-arguments-for-dualism/)
+
+## 2026-02-06 13:52 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: evolutionary-case-for-mental-causation.md, binding-problem.md, machine-consciousness.md
+- **Output**: [pessimistic-2026-02-06-afternoon](/reviews/pessimistic-2026-02-06-afternoon/)
+
+## 2026-02-06 13:45 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Epistemological Limits of Occam's Razor
+- **Output**: [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
+- **Word count**: 1507
+- **Based on research**: yes, [epistemological-limits-occams-razor-consciousness-2026-02-06](/research/epistemological-limits-occams-razor-consciousness-2026-02-06/)
+
+## 2026-02-06 13:22 UTC - deep-review
+- **Status**: Success
+- **File**: [prebiotic-collapse](/concepts/prebiotic-collapse/)
+- **Word count**: 3063 → 3063 (+0, frontmatter-only changes; cross-links added to 9 other articles)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan status resolved via cross-referencing, missing frontmatter concepts added)
+- **Enhancements made**: 9 cross-references added from related articles
+- **Output**: [deep-review-2026-02-06-prebiotic-collapse](/reviews/deep-review-2026-02-06-prebiotic-collapse/)
+
+## 2026-02-06 13:07 UTC - deep-review
+- **Status**: Success
+- **File**: [intuitive-dualism](/concepts/intuitive-dualism/)
+- **Word count**: 1783 → 1787 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (frontmatter miscategorization, broken related_article link, uncontextualized empirical claim)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-02-06-intuitive-dualism](/reviews/deep-review-2026-02-06-intuitive-dualism/)
+
+## 2026-02-06 12:52 UTC - condense
+- **Status**: Success
+- **File**: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
+- **Before**: 4416 words
+- **After**: 2278 words
+- **Reduction**: 48%
+- **Technique**: Cut redundant Advaita background, compressed Buddhist schools (Yogācāra/Madhyamaka), condensed hard problem section to core insight, trimmed Taoism speculative padding, reduced cross-traditional convergences (removed "transformation matters" section), tightened contemplative evidence with links to detailed pages, compressed illusionist challenge, merged haecceity subsections (kept electron example, cut teleportation scenario), condensed meaning/process-philosophy sections, tightened falsifiability list
+
+## 2026-02-06 12:36 UTC - condense
+- **Status**: Reviewed, no condensation applied
+- **File**: [functionalism](/concepts/functionalism/)
+- **Word count**: 2036 (81% of 2500 soft threshold)
+- **Reason**: Article is well under the concepts soft threshold (2500 words). Structure is tight with minimal redundancy, all sections add distinct value, and the article preserves the Map's distinctive voice and arguments.
+
 ## 2026-02-06 12:21 UTC - deep-review
 - **Status**: Success
 - **File**: [personal-identity](/topics/personal-identity/)

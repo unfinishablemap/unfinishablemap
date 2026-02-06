@@ -189,6 +189,7 @@ The aesthetic dimension of consciousness supports all five of the Map's foundati
 
 ## Further Reading
 
+- [aesthetic-void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity—the cognitive boundary aesthetic experience reveals
 - [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — The relationship between phenomenal consciousness and semantic meaning
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt quality of thought, including aesthetic judgments about ideas
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Aesthetic judgment in the creative process

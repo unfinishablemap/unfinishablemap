@@ -164,7 +164,7 @@ Over 200 theories of consciousness exist. IIT and GNWT were both challenged by C
 
 NCC research marks a genuine advance in consciousness science. We know more than ever about which brain regions correlate with conscious experience. We have powerful methods for testing theories.
 
-Yet NCC cannot cross a certain boundary. It can map correlations with increasing precision. It cannot tell us what consciousness *is*, why it exists, or how—if at all—it relates to the physical world beyond correlation.
+Yet NCC cannot cross a certain boundary. It can map correlations with increasing precision. It cannot tell us what consciousness *is*, why it exists, or how—if at all—it relates to the physical world beyond correlation. As the [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) article argues, every NCC study presupposes first-person report as irreducible data—the experimenter trusts the subject's testimony about what they experience, smuggling in a first-person element the methodology cannot itself explain.
 
 These remain philosophical questions. The Map holds that consciousness is irreducible, that it interacts bidirectionally with physics, and that this interaction occurs at quantum indeterminacies. NCC findings are compatible with this framework. They would be equally compatible with materialism. The hard problem, the explanatory gap, and the metaphysics of mind-brain relations remain exactly where they were—though we now know better where in the brain to investigate them.
 

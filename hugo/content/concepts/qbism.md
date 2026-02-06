@@ -77,7 +77,7 @@ MWI defenders respond that the indexical question is no more mysterious than ask
 
 ### Versus Consciousness-Collapse
 
-Consciousness-collapse interpretations posit that conscious observation causes wave function collapse. QBism agrees that agents are central but denies there's any objective collapse to cause. Where consciousness-collapse gives consciousness a physical role, QBism gives it an epistemic role: consciousness doesn't collapse the wave function; it's what beliefs are *for*.
+Consciousness-collapse interpretations posit that conscious observation causes wave function collapse. QBism agrees that agents are central but denies there's any objective collapse to cause. Where consciousness-collapse gives consciousness a physical role, QBism gives it an epistemic role: consciousness doesn't collapse the wave function; it's what beliefs are *for*. QBism also sidesteps the [prebiotic collapse problem](/concepts/prebiotic-collapse/)—since wave functions are beliefs rather than reality, there's nothing to collapse before agents existed—but only by leaving unexplained why agents with experiences exist at all.
 
 ## Intersubjective Agreement
 

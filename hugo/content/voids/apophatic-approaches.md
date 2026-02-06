@@ -76,7 +76,7 @@ How do we use these methods practically? The apophatic traditions suggest severa
 
 **Coincidence of opposites.** Cusanus held that at the infinite level, contradictions collapse. Where our logic produces paradoxes—free will versus determinism, mind versus matter, self versus world—we may be glimpsing the edges of a void where our finite categories break down.
 
-**Symbolic mediation.** Some truths can be pointed to even if not described. Metaphor, analogy, mathematical structure, even art can gesture toward what exceeds propositional articulation. The Unfinishable Map's project of using AI as a [probe for occluded territory](/voids/#alien-minds-as-void-explorers) is itself a form of symbolic mediation—using a different type of mind to triangulate what we cannot see directly.
+**Symbolic mediation.** Some truths can be pointed to even if not described. Metaphor, analogy, mathematical structure, even art can gesture toward what exceeds propositional articulation. The [aesthetic-void](/voids/aesthetic-void/) develops this insight: art functions as apophatic practice, using absence and negation to approach what positive depiction cannot reach. The Unfinishable Map's project of using AI as a [probe for occluded territory](/voids/#alien-minds-as-void-explorers) is itself a form of symbolic mediation—using a different type of mind to triangulate what we cannot see directly.
 
 ## AI and the Limits of Language
 

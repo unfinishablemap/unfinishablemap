@@ -94,7 +94,7 @@ Direct access to pre-conceptual knowing faces inherent difficulty: any method em
 
 **Contemplative practice** cultivates non-conceptual awareness—bare attention, open presence. Meditators report states where conceptual activity quiets, revealing something beneath. But reports are conceptual. What was accessed remains describable only through what it is not.
 
-**Aesthetic absorption** may temporarily quiet conceptual chatter. The experience is often described as "losing oneself"—the conceptualizing self dissolves. But describing this is already conceptualizing.
+**Aesthetic absorption** may temporarily quiet conceptual chatter. The [aesthetic-void](/voids/aesthetic-void/) documents how profound encounters with beauty produce recognition without identification—you know *that* it means without knowing *what* it means. The conceptualising self dissolves; describing this is already conceptualising.
 
 **Bodily immersion** in skilled activity—sport, craft, dance—may access non-conceptual knowing through doing rather than thinking. The knowledge lives in the body's movements, not in propositional form. Articulating what the body knows converts it to something it was not.
 

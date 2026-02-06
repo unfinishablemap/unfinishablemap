@@ -1,7 +1,7 @@
 ---
 ai_contribution: 90
 ai_generated_date: null
-ai_modified: 2026-01-31 00:20:00+00:00
+ai_modified: 2026-02-06 13:45:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -83,6 +83,18 @@ Functionalism defines mental states by their functional roles—what they do rat
 
 **Discussion:** [functionalism](/arguments/functionalism/)
 
+### Occam's Razor Has Limits
+
+Occam's Razor—the principle that simpler explanations should be preferred—is the most common objection to dualism. This page presents the epistemological case that parsimony cannot settle the consciousness debate.
+
+**Key claims:**
+- The precondition for parsimony—equal explanatory power—is unmet because physicalism does not explain phenomenal consciousness
+- Simplicity fragments into conflicting dimensions (ontological, syntactic, explanatory) that yield contradictory verdicts
+- Accounts of why parsimony works in empirical science do not extend to metaphysical theory choice
+- History repeatedly shows parsimony pointing away from truth when conceptual tools are inadequate
+
+**Discussion:** [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
+
 ## Relation to Site Perspective
 
 These arguments directly support the Map's [foundational commitments](/tenets/):
@@ -91,5 +103,6 @@ These arguments directly support the Map's [foundational commitments](/tenets/):
 - **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The case against epiphenomenalism establishes that consciousness must be causally efficacious—we could not discuss qualia if qualia caused nothing.
 - **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The positive case for interactionist dualism identifies quantum indeterminacy as the interface where mind and matter meet.
 - **[No Many Worlds](/tenets/#no-many-worlds)**: The arguments against many-worlds show why the Map requires collapse to be real—consciousness selecting among outcomes that physics leaves undetermined.
+- **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The epistemological limits of parsimony remove the most common objection to dualism—that it is less "simple" than physicalism.
 
 The arguments form a cumulative case. Each strengthens the others: rejecting materialism motivates dualism; rejecting epiphenomenalism requires interaction; the mechanism for interaction requires collapse interpretations that reject many-worlds. Together they defend a coherent framework where consciousness is real, irreducible, and causally relevant.

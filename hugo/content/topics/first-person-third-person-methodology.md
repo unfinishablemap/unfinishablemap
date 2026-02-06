@@ -43,7 +43,7 @@ The persistence of this methodological gap despite decades of neuroscientific pr
 
 Consciousness has a "what it's like" character—there is something it's like to see red, taste chocolate, feel pain. This phenomenal aspect is directly accessible from the first-person perspective through introspection and phenomenological reflection. Yet neuroscience studies consciousness from the third-person perspective, observing neural correlates, measuring brain activity, tracking information processing.
 
-The central question: Can third-person objective methods capture first-person subjective phenomenology?
+The central question: Can third-person objective methods capture first-person subjective phenomenology? (See [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) for how cognitive science's dependence on first-person report creates a methodological circle it cannot close from within.)
 
 Three major methodological approaches have emerged, each with different ontological commitments:
 

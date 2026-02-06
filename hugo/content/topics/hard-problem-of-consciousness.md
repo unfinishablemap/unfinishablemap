@@ -250,7 +250,7 @@ This creates a parallel across frameworks:
 | Idealism | Regularity problem: why does "appearance" follow law-like patterns? |
 | Dualism | Interaction problem: how do distinct substances causally connect? |
 
-The Map's interactionist framework addresses its challenge through quantum mechanics—consciousness selects among outcomes physics leaves undetermined. See [combination-problem](/concepts/combination-problem/) for detailed treatment.
+The Map's interactionist framework addresses its challenge through quantum mechanics—consciousness selects among outcomes physics leaves undetermined. The [prebiotic collapse problem](/concepts/prebiotic-collapse/) adds a temporal constraint: consciousness cannot have caused *all* collapse, since quantum outcomes were definite for 13.8 billion years before minds existed. See [combination-problem](/concepts/combination-problem/) for detailed treatment.
 
 ### Mysterianism
 
@@ -268,7 +268,7 @@ If physical explanation cannot reach consciousness, the scientific worldview is 
 
 ## Relation to the Map's Perspective
 
-The hard problem is the foundation of the Map's [Dualism tenet](/tenets/). The explanatory gap remains unbridged—no amount of neurological detail tells us *why* there is something it is like to be conscious. See [dualism](/concepts/dualism/) for the full treatment.
+The hard problem is the foundation of the Map's [Dualism tenet](/tenets/). The explanatory gap remains unbridged—no amount of neurological detail tells us *why* there is something it is like to be conscious. [Cognitive science's own methodology](/topics/cognitive-science-of-dualism/) reinforces this conclusion: the field depends on first-person report to ground its measurements, its findings on intuitive dualism are mixed, and neither predictive processing nor neural correlate research has closed the gap. See [dualism](/concepts/dualism/) for the full treatment.
 
 If consciousness is not reducible to physics, how might mind and matter interact? The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets sketch one possibility: consciousness influences physical outcomes at the quantum level, where physics leaves room for undetermined events. The hard problem demands we keep our ontology open—the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet acknowledges that the apparent simplicity of physicalism may reflect ignorance rather than insight.
 

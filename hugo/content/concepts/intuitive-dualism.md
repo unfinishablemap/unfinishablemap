@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-02-01 13:46:00+00:00
+ai_modified: 2026-02-06 14:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,8 @@ concepts:
 - '[[mental-causation]]'
 - '[[stapp-quantum-mind]]'
 - '[[voluntary-attention]]'
-- '[[first-person-third-person-methodology]]'
+- '[[theory-of-mind]]'
+- '[[embodied-cognition]]'
 created: 2026-01-19
 date: &id001 2026-01-24
 description: Do humans naturally separate mind from body? Evidence is mixed—but cognitive
@@ -21,7 +22,7 @@ description: Do humans naturally separate mind from body? Evidence is mixed—bu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-24 07:30:00+00:00
+last_deep_review: 2026-02-06 14:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -29,11 +30,13 @@ related_articles:
 - '[[illusionism]]'
 - '[[introspection]]'
 - '[[phenomenology]]'
-- '[[quantum-neural-timing-constraints]]'
 - '[[mysterianism]]'
 title: Intuitive Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
+- '[[first-person-third-person-methodology]]'
+- '[[quantum-neural-timing-constraints]]'
+- '[[cognitive-science-of-dualism]]'
 ---
 
 Cognitive science has investigated whether humans naturally think of minds and bodies as distinct—and the evidence is more complex than either side of the dualism debate typically acknowledges. Paul Bloom argued we are "natural-born dualists," processing minds and bodies through separate cognitive systems from infancy. But cross-cultural research challenges this: Barrett et al. (2021) found most people across diverse cultures default to **intuitive materialism**, expecting mental states to cease at death. The debate illuminates human psychology without settling the metaphysical question—cognitive naturalness doesn't determine truth.
@@ -66,7 +69,7 @@ Barrett et al.'s cross-cultural data complicates this: if simulation constraints
 
 ## The Two-System View Refined
 
-A more nuanced framework: two cognitive systems (folk physics and folk psychology) do exist, but their *separability* doesn't automatically produce dualism. The systems can operate independently without generating intuitions that minds can exist without bodies. Willard and Norenzayan (2013) found that mentalizing leads to dualism as a *pathway*, not a universal default—some individuals traverse it more than others based on mentalizing tendencies.
+A more nuanced framework: two cognitive systems (folk physics and folk psychology) do exist, but their *separability* doesn't automatically produce dualism. The systems can operate independently without generating intuitions that minds can exist without bodies. Willard and Norenzayan (2013) found that [mentalizing](/concepts/theory-of-mind/) leads to dualism as a *pathway*, not a universal default—some individuals traverse it more than others based on mentalizing tendencies. See [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) for how these findings fit within the broader methodological landscape of consciousness research.
 
 ## Implications for Philosophy
 
@@ -96,7 +99,7 @@ Contemplative evidence also weighs against illusionism. Trained meditators repor
 
 ## Process Philosophy Perspective
 
-Whitehead's process philosophy reframes the debate. Each "actual occasion" has both a physical pole (receiving causal influences) and a mental pole (subjective response). Mind and body aren't separate substances—they're aspects of every event. This explains why neither intuitive dualism nor intuitive materialism wins cleanly: intuitive materialists correctly sense that mental states depend on embodiment; intuitive dualists correctly sense that experience has irreducible character. The cross-cultural variability may reflect which pole different cultures emphasize.
+Whitehead's process philosophy reframes the debate. Each "actual occasion" has both a physical pole (receiving causal influences) and a mental pole (subjective response). Mind and body aren't separate substances—they're aspects of every event. This explains why neither intuitive dualism nor intuitive materialism wins cleanly: intuitive materialists correctly sense that mental states depend on embodiment (a point the [embodied-cognition](/concepts/embodied-cognition/) programme reinforces); intuitive dualists correctly sense that experience has irreducible character. The cross-cultural variability may reflect which pole different cultures emphasize.
 
 ## Contemplative Perspectives
 
@@ -124,7 +127,7 @@ The [Dualism tenet](/tenets/#dualism) asserts consciousness is irreducible to ph
 
 ### Minimal Quantum Interaction
 
-The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) specifies *where* mind-body interaction occurs—at quantum indeterminacies. Evolution would produce intuitions tracking behaviorally relevant distinctions, not quantum-level mechanisms. The [280-300ms neural decision windows](/topics/quantum-neural-timing-constraints/) are behaviorally visible; the quantum events within them are causally efficacious without being introspectively accessible.
+The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) specifies *where* mind-body interaction occurs—at quantum indeterminacies. Evolution would produce intuitions tracking behaviorally relevant distinctions, not quantum-level mechanisms. The [280-300ms neural decision windows](/topics/quantum-neural-timing-constraints/) identified in Libet-type experiments are behaviorally visible; the quantum events within them are causally efficacious without being introspectively accessible.
 
 ### Bidirectional Interaction
 
@@ -140,9 +143,11 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) receives the most d
 
 ## Further Reading
 
+- [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) — How cognitive science's methods frame and limit the dualism debate
 - [arguments-for-dualism](/concepts/arguments-for-dualism/) — The philosophical case, including engagement with "folk error" objection
 - [illusionism](/concepts/illusionism/) — The radical view that phenomenal consciousness is itself illusion
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — Debates about introspective methodology
+- [theory-of-mind](/concepts/theory-of-mind/) — Mentalizing capacities and their connection to dualist thinking
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence for non-dual awareness
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — How neural timing windows relate to quantum mechanisms
 - [tenets](/tenets/) — the Map's foundational commitments

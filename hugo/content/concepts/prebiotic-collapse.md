@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-05 18:14:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-02-06 13:22:00+00:00
+ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /topics/collapse-before-minds/
@@ -17,6 +17,10 @@ concepts:
 - '[[decoherence]]'
 - '[[attention-as-interface]]'
 - '[[haecceity]]'
+- '[[spontaneous-collapse-theories]]'
+- '[[many-worlds]]'
+- '[[combination-problem]]'
+- '[[mental-causation]]'
 created: 2026-01-16
 date: &id001 2026-02-05
 description: How quantum wave functions collapsed before conscious observers existed.
@@ -24,7 +28,7 @@ description: How quantum wave functions collapsed before conscious observers exi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-05 18:14:00+00:00
+last_deep_review: 2026-02-06 13:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

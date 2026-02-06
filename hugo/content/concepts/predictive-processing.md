@@ -93,7 +93,7 @@ Clark, Friston, and Wilkinson address why we *think* consciousness is hard to ex
 
 ### The Functionalist Limitation
 
-PP offers a sophisticated [functionalist](/arguments/functionalism/) account. But like other functionalist theories, it faces the standard objection: why should any computational process, however complex, be accompanied by phenomenal experience?
+PP offers a sophisticated [functionalist](/arguments/functionalism/) account. But like other functionalist theories, it faces the standard objection: why should any computational process, however complex, be accompanied by phenomenal experience? (See [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) for how this limitation extends across cognitive science generally: the field's formalisms describe what the brain *computes* while remaining silent on what it *experiences*.)
 
 Critics note that "we seem to experience moderate-sized specimens of dry goods, not probability density distributions." Mathematical prediction error minimization doesn't obviously generate [qualia](/concepts/qualia/).
 

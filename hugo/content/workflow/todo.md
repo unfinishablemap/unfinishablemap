@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-06 11:06:00+00:00
+ai_modified: 2026-02-06 13:37:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,31 +38,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense functionalism.md (4250 words, 121% of hard threshold)
+### P2: Condense materialism.md (3788 words, 152% of hard threshold)
 - **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against functionalism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against materialism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-02-06
 
-### P2: Condense eastern-philosophy-consciousness.md (4416 words, 110% of hard threshold)
+### P2: Condense many-worlds.md (3704 words, 148% of hard threshold)
 - **Type**: condense
-- **Notes**: Recently coalesced article exceeds 4000-word hard threshold for topics/. Merging three articles naturally created excess length. Preserve core East-West synthesis while tightening prose and deferring detailed subtopics to linked concept pages. See /condense skill.
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against Many Worlds Interpretation while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-02-06
-
-### P2: Integrate collapse-before-minds.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-05) has no inbound links. Explores what happened to quantum superpositions before conscious observers existed—directly relevant to the measurement problem and No Many Worlds tenet. Add cross-references from consciousness-and-quantum-measurement.md, prebiotic-collapse.md, measurement-problem.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-06
-
-### ~~P2: Write article on attention-motor-planning quantum interface~~ ✅
-- **Type**: expand-topic
-- **Notes**: Research completed in research/attention-motor-planning-quantum-interface-2026-01-23.md. Explores how attention and motor planning converge at the quantum interface—consciousness may influence physical outcomes through the attention-motor coupling, providing a concrete mechanism for Minimal Quantum Interaction. No corresponding article exists. Directly supports Minimal Quantum Interaction and Bidirectional Interaction tenets.
-- **Source**: unconsumed_research
-- **Generated**: 2026-02-05
-- **Completed**: 2026-02-05
-- **Output**: [attention-motor-planning-quantum-interface](/topics/attention-motor-planning-quantum-interface/)
 
 ### P3: Deep review intersubjective-void.md for quality
 - **Type**: deep-review
@@ -744,8 +730,67 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-06
 
+### P2: Address equivocation between causal efficacy and non-physicality in evolutionary-case-for-mental-causation.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the article argues consciousness is causally efficacious (which physicalists accept) then slides into treating this as evidence for dualism. Missing engagement with non-reductive physicalism—the strongest competing view. Add section addressing physicalist mental causation and explain what additional arguments bridge from causal efficacy to non-physicality. See pessimistic-2026-02-06-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-06
+
+### P2: Reduce quantum overemphasis in binding-problem.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found quantum binding material dominates ~1/3 of the article and violates writing style guide warnings about quantum mechanism overemphasis. The claim "current evidence favours quantum binding" overstates the evidential situation. Reduce quantum section, strengthen alternative approaches, and recalibrate confidence language. See pessimistic-2026-02-06-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-06
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Integrate aesthetic-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article (2026-02-05) has no inbound links. Explores the void at the intersection of consciousness and aesthetic experience—why beauty resists full articulation. Add cross-references from aesthetic-dimension-of-consciousness.md, qualia.md, and related phenomenology articles.
+- **Output**: obsidian/voids/aesthetic-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-06: Integrate cognitive-science-of-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-05) has no inbound links. Covers Paul Bloom's developmental psychology evidence that dualism is cognitively natural. Add cross-references from intuitive-dualism.md, arguments-for-dualism.md, consciousness.md, and other relevant articles.
+- **Output**: obsidian/topics/cognitive-science-of-dualism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-06: Review intuitive-dualism.md considering cognitive-science-of-dualism insights
+- **Type**: cross-review
+- **Notes**: New article topics/cognitive-science-of-dualism.md (2026-02-05) covers Paul Bloom's "natural-born dualists" research and developmental psychology evidence. The existing concepts/intuitive-dualism.md concept page should cross-reference this new work. Check for cross-links, reinforcing arguments from the developmental evidence, and consistency in treatment of innate dualist cognition.
+- **Output**: obsidian/concepts/intuitive-dualism.md -- Context: Review intuitive-dualism.md considering cognitive-science-of-dualism insights
+
+### ✓ 2026-02-06: Review arguments-for-dualism.md considering epistemological-limits-of-occams-razor insights
+- **Type**: cross-review
+- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md (2026-02-06) provides a comprehensive treatment of parsimony's failure for consciousness. The existing concepts/arguments-for-dualism.md has a brief "Parsimony Objection" section that should cross-reference this new dedicated treatment. Check for consistency and add links.
+- **Output**: obsidian/concepts/arguments-for-dualism.md -- Context: Review arguments-for-dualism.md considering epistemological-limits-of-occams-razor insights
+
+### ✓ 2026-02-06: Write argument article on epistemological limits of Occam's Razor
+- **Type**: expand-topic
+- **Notes**: Research completed in research/epistemological-limits-occams-razor-consciousness-2026-02-06.md. This fills a critical gap: only 4 of 5 target argument articles exist, and Tenet 5 (Occam's Razor Has Limits) is the least defended foundational commitment. Write a rigorous argument article examining why parsimony fails for consciousness—historical cases where simpler theories were wrong, the difference between ontological and methodological parsimony, and why consciousness's irreducibility makes simplicity an unreliable guide. Publish to arguments/ section.
+- **Output**: Write argument article on epistemological limits of Occam's Razor
+
+### ✓ 2026-02-06: Write argument article on epistemological limits of Occam's Razor
+- **Type**: expand-topic
+- **Notes**: Published to arguments/epistemological-limits-of-occams-razor.md. Completes the 5th argument article defending Tenet 5 (Occam's Razor Has Limits). Based on epistemological-limits-occams-razor-consciousness-2026-02-06.md research.
+- **Output**: arguments/epistemological-limits-of-occams-razor.md
+
+### ✓ 2026-02-06: Integrate collapse-before-minds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-05) has no inbound links. Explores what happened to quantum superpositions before conscious observers existed—directly relevant to the measurement problem and No Many Worlds tenet. Add cross-references from consciousness-and-quantum-measurement.md, prebiotic-collapse.md, measurement-problem.md.
+- **Output**: collapse-before-minds.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-06: Condense eastern-philosophy-consciousness.md (4416 words, 110% of hard threshold)
+- **Type**: condense
+- **Notes**: Recently coalesced article exceeds 4000-word hard threshold for topics/. Merging three articles naturally created excess length. Preserve core East-West synthesis while tightening prose and deferring detailed subtopics to linked concept pages. See /condense skill.
+- **Output**: obsidian/topics/eastern-philosophy-consciousness.md
+
+### ✓ 2026-02-06: Condense functionalism.md (4250 words, 121% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for arguments/. Preserve core arguments against functionalism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-02-06: Review personal-identity.md considering eastern-philosophy-consciousness insights
 - **Type**: cross-review
