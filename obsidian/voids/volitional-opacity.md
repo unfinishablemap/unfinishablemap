@@ -4,8 +4,8 @@ description: "Human+AI exploration of why we cannot observe our own willing—th
 created: 2026-02-02
 modified: 2026-02-07
 human_modified:
-ai_modified: 2026-02-07T04:27:00+00:00
-last_deep_review: 2026-02-07T04:27:00+00:00
+ai_modified: 2026-02-07T06:14:00+00:00
+last_deep_review: 2026-02-07T06:14:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -44,7 +44,7 @@ Volitional opacity sits at the intersection of two related voids. [[introspectiv
 
 By the time we are aware of deciding, the decision has already been initiated. Benjamin Libet's experiments revealed that the "readiness potential"—brain activity preparing for voluntary movement—begins approximately 550 milliseconds before the action, while conscious awareness of the urge to move appears only around 200 milliseconds before. The volitional process is initiated unconsciously.
 
-In a 2008 study, Soon, Brass, Heinze and Haynes found that brain activity could predict decisions at above-chance rates up to seven seconds before conscious awareness—though prediction accuracy was modest (~60%), not deterministic. William James diagnosed the temporal gap phenomenologically: "The rush of thought... almost always brings us up at the conclusion before we can arrest it." Decisions seem to *arrive*—we experience them as accomplished, not as being accomplished.
+In a 2008 study, Soon, Brass, Heinze and Haynes found that brain activity could predict decisions at above-chance rates up to seven seconds before conscious awareness—though prediction accuracy was modest (~60%), not deterministic. William James diagnosed the temporal gap phenomenologically: "The rush of the thought is so headlong that it almost always brings us up at the conclusion before we can arrest it." Decisions seem to *arrive*—we experience them as accomplished, not as being accomplished.
 
 ### Process Opacity
 
@@ -164,3 +164,4 @@ None of these conditions has been met. Four centuries of philosophy, decades of 
 - Strawson, G. (1986). *Freedom and Belief*. Oxford University Press.
 - Soon, C. S., Brass, M., Heinze, H.-J., & Haynes, J.-D. (2008). "Unconscious determinants of free decisions in the human brain." *Nature Neuroscience*, 11(5), 543-545.
 - Johansson, P., et al. (2005). "Failure to detect mismatches between intention and outcome in a simple decision task." *Science*, 310(5745), 116-119.
+- Kriegel, U. (2015). *The Varieties of Consciousness*. Oxford University Press.
