@@ -4,7 +4,8 @@ description: "Human+AI exploration of whether experiences can be genuinely share
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-02T07:17:00+00:00
+ai_modified: 2026-02-07T02:11:00+00:00
+last_deep_review: 2026-02-07T02:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +48,7 @@ The other minds void admits practical resolution: we act confidently on the infe
 
 Three major positions emerge:
 
-**Strong Isolation.** Each consciousness is hermetically sealed. "Shared experience" is metaphor. When grief fills a room after loss, individuals grieve side by side; the room does not literally contain shared grief. What appears as sharing is actually coordination of private streams through communication and shared context. As the Internet Encyclopedia of Philosophy puts it: "Each of us is sealed in an impermeable prison cell of subjective awareness. Even our most intimate exchanges might as well be carried out via Zoom."
+**Strong Isolation.** Each consciousness is hermetically sealed. "Shared experience" is metaphor. When grief fills a room after loss, individuals grieve side by side; the room does not literally contain shared grief. What appears as sharing is actually coordination of private streams through communication and shared context. Each person works outward from the interiority of their own consciousness, with direct knowledge only of their own mental life.
 
 **Partial Bridging.** Some genuine sharing occurs—through empathy, collective intentionality, or unusual neural connections. The void is not absolute; it can be partially crossed. Evidence includes mirror-touch synesthesia (where observers literally feel what they see others feel), reports from conjoined twins sharing brain tissue, and the distinctive phenomenology of "we" experiences that resist description in purely individual terms.
 
@@ -63,9 +64,9 @@ Yet Husserl also saw intersubjectivity as transcendental: self and other are "co
 
 ## Evidence for the Void
 
-**The inverted spectrum problem.** Two people might share colour vocabulary and discriminations while having systematically different colour qualia. If your "red" phenomenally resembles my "green," how would we know? Functional equivalence doesn't guarantee phenomenal identity. As Hofstadter observes, the inverted spectrum entails a form of solipsism where we "can have no idea about what goes on in the minds of others."
+**The inverted spectrum problem.** Two people might share colour vocabulary and discriminations while having systematically different colour qualia. If your "red" phenomenally resembles my "green," how would we know? Functional equivalence doesn't guarantee phenomenal identity. Hofstadter explores the inverted spectrum in *I Am a Strange Loop* to expose its implications—arguing that if taken seriously, it leads to an untenable solipsism about other minds. His reductio highlights the void's force: either we accept that [[intersubjectivity|intersubjective]] access to [[qualia]] is structurally limited, or we reject the framework that generates the problem.
 
-**Empathy's structure.** Phenomenologically, empathy feels like accessing another's experience—yet it remains *my* experience of *their* state. Edith Stein's analysis is precise: "During authentic empathy the Other's primordial experience as such is not itself a primordial phenomenal datum at all, but remains veiled." Empathy reaches toward but does not enter the other's experience.
+**Empathy's structure.** [[phenomenology|Phenomenologically]], empathy feels like accessing another's experience—yet it remains *my* experience of *their* state. Edith Stein's analysis is precise: "During authentic empathy the Other's primordial experience as such is not itself a primordial phenomenal datum at all, but remains veiled." Empathy reaches toward but does not enter the other's experience.
 
 **Individuation through privacy.** Each consciousness individuates itself partly by what it cannot share. If the boundary could be crossed completely, would distinct subjects remain? The void may be not merely epistemological but constitutive—what makes there be multiple experiencers rather than one.
 
@@ -132,10 +133,9 @@ Finally, AI consciousness questions acquire new dimensions. Not just "is AI cons
 ## References
 
 1. "Edmund Husserl." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/husserl/
-2. "Solipsism and the Problem of Other Minds." *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/solipsis/
-3. "Edith Stein." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/stein/
-4. "Inverted Qualia." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/qualia-inverted/
-5. "Private language argument." *Wikipedia*. https://en.wikipedia.org/wiki/Private_language_argument
-6. "Mirror-touch synesthesia." *Wikipedia*. https://en.wikipedia.org/wiki/Mirror-touch_synesthesia
-7. Hofstadter, D. (2007). *I Am a Strange Loop*. Basic Books.
-8. Wittgenstein, L. (1953). *Philosophical Investigations*. Blackwell.
+2. "Edith Stein." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/stein/
+3. "Inverted Qualia." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/qualia-inverted/
+4. "Private language argument." *Wikipedia*. https://en.wikipedia.org/wiki/Private_language_argument
+5. "Mirror-touch synesthesia." *Wikipedia*. https://en.wikipedia.org/wiki/Mirror-touch_synesthesia
+6. Hofstadter, D. (2007). *I Am a Strange Loop*. Basic Books. Ch. 23.
+7. Wittgenstein, L. (1953). *Philosophical Investigations*. Blackwell.
