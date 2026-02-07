@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-02-04 17:46:00+00:00
+ai_modified: 2026-02-07 01:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,6 +13,7 @@ description: Human+AI exploration of how cognitive maturation closes perceptual 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-07 01:41:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -39,13 +40,13 @@ The evidence for infant perceptual superiority is robust across multiple domains
 
 **Cross-species and cross-race face recognition**: At three months, infants discriminate faces across all racial groups with equal facility. By nine months, recognition narrows to own-race faces—the "other-race effect" that persists into adulthood. Similarly, six-month-olds individuate both human and monkey faces; by nine months, they cannot distinguish individual monkey faces. The ability is lost, not merely suppressed—it does not return without intervention.
 
-**Synesthetic perception**: Evidence suggests all neonates may experience stimuli synesthetically, with cross-modal sensory integration adults lack. Sound has colour; shapes have taste. Children gradually lose these connections through selective pruning of synaptic pathways. Adult synesthetes may be those who "escape the pruning"—retaining access to perceptual territory most people lose.
+**Synesthetic perception**: The neonatal synesthesia hypothesis (Maurer & Mondloch, 2005) proposes that all newborns experience cross-modal sensory integration that adults lack—sound having colour, shapes having taste. The hypothesis remains contested (Deroy & Spence, 2013 argue the evidence is individually weak), but infant brains do show higher cross-sensory connectivity than adult brains, and children gradually lose cross-modal connections through selective pruning of synaptic pathways. Adult synesthetes may be those who "escape the pruning"—retaining access to perceptual territory most people lose.
 
 ## The Mechanism of Closure
 
 Critical periods in brain development explain how these closures occur. During infancy and early childhood, the brain exhibits extraordinary plasticity—connections form and reform based on environmental input. Then the windows close.
 
-The closure is physical, not merely functional. Perineuronal nets—extracellular structures—encapsulate neurons, stabilising mature circuits and preventing the plasticity that supported infant flexibility. Synaptic pruning eliminates up to 40% of excitatory synapses in prefrontal cortex between ages 10-30. The architecture that supported broader access is dismantled in favour of specialised efficiency.
+The closure is physical, not merely functional. Perineuronal nets—extracellular structures—encapsulate neurons, stabilising mature circuits and preventing the plasticity that supported infant flexibility. Synaptic pruning eliminates a substantial fraction of excitatory synapses in prefrontal cortex between ages 10-30—Petanjek et al. (2011) found spine density reductions of 50% or more during this period. The architecture that supported broader access is dismantled in favour of specialised efficiency.
 
 The closure serves purposes. Specialisation improves performance on frequently-encountered stimuli while sacrificing access to rare ones. An infant's brain is better at *learning*; an adult's brain is better at *doing*. Alison Gopnik characterises childhood as a solution to explore-exploit tensions: children search broadly through hypothesis spaces while adults optimise within narrowed domains.
 
@@ -75,13 +76,13 @@ Development into adulthood does not end the closure process. Expertise creates f
 
 The "curse of knowledge" demonstrates this: once information becomes internalised, you lose access to your former ignorant state. Experts lose memory traces of their cognitive processes due to automatisation. Teachers struggle to explain basics because they cannot recall what it was like not to know them. Financial incentives and explicit warnings fail to reduce the bias—the lost access is structural, not motivational.
 
-"In the beginner's mind there are many possibilities, but in the expert's mind there are few," wrote Suzuki Roshi. Participants made to feel like experts become more rigid and less willing to engage with alternative views. Every skill acquired is also a closure—a narrowing of the space of possible thoughts in exchange for fluency within a domain.
+"In the beginner's mind there are many possibilities, but in the expert's mind there are few," wrote Suzuki Roshi. Participants made to feel like experts become more rigid and less willing to engage with alternative views. Every skill acquired is also a closure—a narrowing of the space of possible thoughts in exchange for fluency within a domain. Unlike infant perceptual narrowing, expertise closure is not biologically mandated, yet it appears similarly irreversible once entrenched.
 
 Voids compound over development. The infant loses perceptual breadth. The child loses exploratory flexibility. The adult loses access to ignorance. The expert loses the ability to see alternatives. Each stage trades accessible territory for increased efficiency within remaining territory.
 
 ## Approaches to the Edge
 
-**Neural intervention**: In mice, injecting enzymes that dissolve perineuronal nets has reopened visual critical periods in adults. This suggests closure is not logically permanent but depends on physical substrate that could, in principle, be modified. Whether such interventions could work in humans, and what side effects they might have, remains unknown.
+**Neural intervention**: In rats, injecting enzymes that dissolve perineuronal nets has reopened visual critical periods in adults (Pizzorusso et al., 2002). This suggests closure is not logically permanent but depends on physical substrate that could, in principle, be modified. Whether such interventions could work in humans, and what side effects they might have, remains unknown.
 
 **Early prevention**: The other-race effect can be prevented (though not reversed) through early exposure to diverse faces. This is not recovery of adult capability but prevention of loss—maintaining territory before closure rather than reopening after.
 
@@ -97,7 +98,7 @@ The developmental void connects to all five [tenets](/tenets/), revealing how co
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** suggests the mechanism of consciousness-brain interaction might shift during development. Infant consciousness interacting with an unpruned, hyper-connected brain might have access to different interface points than adult consciousness. The *way* mind influences matter might change as the matter reorganises.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** makes indexical questions sharper here. "Why am I this adult mind rather than the infant mind I was?" involves discontinuity. If infant-you could access territory adult-you cannot, and these are "the same person," personal identity spans a developmental void. The question "which experiences are mine?" becomes stranger when the mind asking has lost access to experiences the earlier mind could have.
+**[No Many Worlds](/tenets/#no-many-worlds)** matters here because developmental closure is a one-way process. Under many-worlds, all developmental trajectories are realised—every possible pattern of pruning exists in some branch, and no territory is truly lost. But if collapse is real and branches are not, the infant's broader perceptual access is genuinely gone. The closure is permanent and singular, not distributed across parallel copies. This makes the developmental void a real loss, not an artefact of indexical perspective.
 
 ## What the Developmental Void Reveals
 
@@ -107,9 +108,9 @@ This has implications for the broader [voids project](/voids/). When cataloguing
 
 - **Architectural limits**: Fixed features of human cognitive design, present from birth
 - **Developmental limits**: Closures acquired through maturation, foreclosing territory once accessible
-- **Expertise limits**: Further closures accumulated through learning, trading breadth for depth
+- **Expertise limits**: Further closures accumulated through learning, trading breadth for depth—not consciously chosen but emergent from practice
 
-Each type has different implications for whether and how limits might be approached. Architectural limits may be fundamental. Developmental limits were once not there—and might, in principle, be preventable or reversible. Expertise limits are actively chosen (if not consciously) in exchange for valued competencies.
+Each type has different implications for whether and how limits might be approached. Architectural limits may be fundamental. Developmental limits were once not there—and might, in principle, be preventable or reversible. Expertise limits emerge from the accumulation of practice rather than conscious decision, yet the trade is real—depth for breadth.
 
 The developmental void is a reminder that the boundaries of thought are not static. They shift across the lifespan—and not always outward. The map has voids that adults did not start with but grew into.
 
@@ -130,7 +131,11 @@ The developmental void is a reminder that the boundaries of thought are not stat
 4. Werker, J. F., & Hensch, T. K. (2015). "Critical Periods in Speech Perception: New Directions." *Annual Review of Psychology*, 66, 173-196.
 5. Hensch, T. K. (2005). "Critical period plasticity in local cortical circuits." *Nature Reviews Neuroscience*, 6, 877-888.
 6. Kuhl, P. K. (2010). "Brain Mechanisms Underlying the Critical Period for Language." *Journal of Speech, Language, and Hearing Research*, 53, 1391-1409.
-7. Simner, J., et al. (2009). "Synaesthesia: The prevalence of atypical cross-modal experiences." *Perception*, 35, 1024-1033.
+7. Simner, J., et al. (2006). "Synaesthesia: The prevalence of atypical cross-modal experiences." *Perception*, 35, 1024-1033.
 8. Camerer, C., Loewenstein, G., & Weber, M. (1989). "The Curse of Knowledge in Economic Settings." *Journal of Political Economy*, 97(5), 1232-1254.
 9. Suzuki, S. (1970). *Zen Mind, Beginner's Mind*. Weatherhill.
 10. Hartshorne, J. K., Tenenbaum, J. B., & Pinker, S. (2018). "A critical period for second language acquisition." *Cognition*, 177, 263-277.
+11. Petanjek, Z., et al. (2011). "Extraordinary neoteny of synaptic spines in the human prefrontal cortex." *PNAS*, 108(32), 13281-13286.
+12. Pizzorusso, T., et al. (2002). "Reactivation of ocular dominance plasticity in the adult visual cortex." *Science*, 298(5596), 1248-1251.
+13. Maurer, D., & Mondloch, C. J. (2005). "Neonatal synesthesia: A re-evaluation." In L. C. Robertson & N. Sagiv (Eds.), *Synesthesia: Perspectives from Cognitive Neuroscience*. Oxford University Press.
+14. Deroy, O., & Spence, C. (2013). "Are we all born synaesthetic? Examining the neonatal synaesthesia hypothesis." *Neuroscience & Biobehavioral Reviews*, 37(7), 1240-1253.

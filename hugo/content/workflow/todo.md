@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for philosophy-of-mind
-- **Type**: expand-topic
-- **Notes**: Referenced by 13 wikilinks across the site but no dedicated page exists. Philosophy of mind is the foundational discipline framing the Map's entire project. A concept page should define the field, its central questions (mind-body problem, consciousness, intentionality, mental causation), and explain how the Map's dualist framework relates to the broader discipline. Directly supports all five tenets as framing context.
-- **Source**: gap_analysis
-- **Generated**: 2026-02-06
-
 ### P2: Update wikilinks to archived articles (interface-locality, brain-specialness, and 5 others)
 - **Type**: other
 - **Notes**: Gap analysis found 70+ broken wikilinks pointing to archived/coalesced articles. Key targets: interface-locality (34 refs, archived to concepts/), brain-specialness (6 refs), consciousness-and-quantum-measurement (11 refs), nihilism (5 refs), quantum-measurement-and-definite-outcomes (5 refs), eastern-philosophy-haecceity-tension (4 refs), meaning-and-consciousness (4 refs). Update wikilinks to point to the replacement articles these were coalesced into, or verify the archive redirect handles them.
@@ -62,42 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-02-06
 
-### P3: Deep review emergence-void.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the void at the concept of emergence—what cannot be explained by appealing to emergence. Check philosophical rigor, ensure alignment with Map's dualist framework.
-- **Source**: staleness
-- **Generated**: 2026-02-06
-
-### P3: Deep review introspective-opacity.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the limits of introspective access—what remains opaque to self-observation. Check philosophical rigor, ensure alignment with Map's framework, verify connections to introspection.md, volitional-opacity.md.
-- **Source**: staleness
-- **Generated**: 2026-02-06
-
-### P3: Deep review developmental-cognitive-closure.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores developmental limits on cognitive access—how cognitive capacities that emerge through development may themselves constrain understanding. Check philosophical rigor, ensure alignment with Map's framework.
-- **Source**: staleness
-- **Generated**: 2026-02-06
-
-### P3: Deep review intersubjective-void.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the void between subjective experiences—why we cannot fully access another's consciousness. Check philosophical rigor, ensure alignment with Map's framework.
-- **Source**: staleness
-- **Generated**: 2026-02-05
-
-### P3: Deep review probability-intuition-void.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores cognitive limits in grasping probability. Check philosophical rigor, ensure alignment with Map's framework.
-- **Source**: staleness
-- **Generated**: 2026-02-05
-
-### P3: Deep review dreamless-sleep-void.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the phenomenological gap of dreamless sleep—what happens to consciousness during deep sleep. Check philosophical rigor, ensure alignment with Map's framework, verify connections to sleep-and-consciousness.md, loss-of-consciousness.md.
-- **Source**: staleness
-- **Generated**: 2026-02-05
-
 ### P3: Deep review volitional-opacity.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores why the mechanisms of voluntary action are opaque to introspection. Check philosophical rigor, ensure alignment with Map's framework, verify connections to free-will.md, phenomenology-of-choice.md.
@@ -115,6 +73,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
+
+### P3: Address circularity and underrepresented physicalism in phenomenological-evidence.md and philosophy-of-mind.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two medium issues: (1) phenomenological-evidence.md validates first-person methods using first-person convergence—needs explicit circularity acknowledgment. (2) philosophy-of-mind.md as field overview underserves physicalism—eliminativism, higher-order theories, type-identity theory get minimal or no coverage. See pessimistic-2026-02-07.md
 
 ### P3: Address phenomenology-to-metaphysics leap in introspection cluster
 - **Type**: refine-draft
@@ -754,13 +717,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-06
 
-### P2: Address equivocation between causal efficacy and non-physicality in evolutionary-case-for-mental-causation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the article argues consciousness is causally efficacious (which physicalists accept) then slides into treating this as evidence for dualism. Missing engagement with non-reductive physicalism—the strongest competing view. Add section addressing physicalist mental causation and explain what additional arguments bridge from causal efficacy to non-physicality. See pessimistic-2026-02-06-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-06
-
 ### P2: Reduce quantum overemphasis in binding-problem.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -770,6 +726,57 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-07: Deep review dreamless-sleep-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the phenomenological gap of dreamless sleep—what happens to consciousness during deep sleep. Check philosophical rigor, ensure alignment with Map's framework, verify connections to sleep-and-consciousness.md, loss-of-consciousness.md.
+- **Output**: obsidian/voids/dreamless-sleep-void.md
+
+### ✓ 2026-02-07: Deep review probability-intuition-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores cognitive limits in grasping probability. Check philosophical rigor, ensure alignment with Map's framework.
+- **Output**: obsidian/voids/probability-intuition-void.md
+
+### ✓ 2026-02-07: Deep review intersubjective-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the void between subjective experiences—why we cannot fully access another's consciousness. Check philosophical rigor, ensure alignment with Map's framework.
+- **Output**: obsidian/voids/intersubjective-void.md
+
+### ✓ 2026-02-07: Deep review developmental-cognitive-closure.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores developmental limits on cognitive access—how cognitive capacities that emerge through development may themselves constrain understanding. Check philosophical rigor, ensure alignment with Map's framework.
+- **Output**: obsidian/voids/developmental-cognitive-closure.md
+
+### ✓ 2026-02-07: Soften evidentiary claims in dreams-problem-solving-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article overstates evidence from Konkoly 2026 (N=20). "Dreams solve problems" should be qualified; "proves" language should become "demonstrates"; the incorporation-solving correlation doesn't distinguish interactionist from epiphenomenalist readings. Also needs sample size context and replication caveats. High severity. See pessimistic-2026-02-07.md
+- **Output**: obsidian/topics/dreams-problem-solving-and-consciousness.md
+
+Task context:
+Pessimistic review found the article overstates evidence from Konkoly 2026 (N=20). "Dreams solve problems" should be qualified; "proves" language should become "demonstrates"; the incorporation-solving correlation doesn't distinguish interactionist from epiphenomenalist readings. Also needs sample size context and replication caveats. High severity. See pessimistic-2026-02-07.md
+
+### ✓ 2026-02-07: Deep review introspective-opacity.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the limits of introspective access—what remains opaque to self-observation. Check philosophical rigor, ensure alignment with Map's framework, verify connections to introspection.md, volitional-opacity.md.
+- **Output**: obsidian/voids/introspective-opacity.md
+
+### ✓ 2026-02-07: Deep review emergence-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the void at the concept of emergence—what cannot be explained by appealing to emergence. Check philosophical rigor, ensure alignment with Map's dualist framework.
+- **Output**: obsidian/voids/emergence-void.md
+
+### ✓ 2026-02-07: Address equivocation between causal efficacy and non-physicality in evolutionary-case-for-mental-causation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article argues consciousness is causally efficacious (which physicalists accept) then slides into treating this as evidence for dualism. Missing engagement with non-reductive physicalism—the strongest competing view. Add section addressing physicalist mental causation and explain what additional arguments bridge from causal efficacy to non-physicality. See pessimistic-2026-02-06-afternoon.md
+- **Output**: obsidian/topics/evolutionary-case-for-mental-causation.md
+
+Task context:
+Pessimistic review found the article argues consciousness is causally efficacious (which physicalists accept) then slides into treating this as evidence for dualism. Missing engagement with non-reductive physicalism—the strongest competing view. Add section addressing physicalist mental causation and explain what additional arguments bridge from causal efficacy to non-physicality. See pessimistic-2026-02-06-afternoon.md
+
+### ✓ 2026-02-06: Create concept page for philosophy-of-mind
+- **Type**: expand-topic
+- **Notes**: Referenced by 13 wikilinks across the site but no dedicated page exists. Philosophy of mind is the foundational discipline framing the Map's entire project. A concept page should define the field, its central questions (mind-body problem, consciousness, intentionality, mental causation), and explain how the Map's dualist framework relates to the broader discipline. Directly supports all five tenets as framing context.
+- **Output**: Create concept page for philosophy-of-mind
 
 ### ✓ 2026-02-06: Write voids article on the Nomic Void
 - **Type**: expand-topic
@@ -2393,6 +2400,27 @@ Pessimistic review 2026-02-01 (late) found that self-locating-beliefs.md and ind
 - **Notes**: Suggested by optimistic review 2026-02-06 (afternoon). Chalmers's 2018 challenge: why do we think there's a hard problem? Strong response would show meta-problem itself presupposes consciousness (need phenomenal awareness to notice explanatory gap), turning challenge into further evidence for irreducibility. Builds on hard-problem-of-consciousness.md, cognitive-science-of-dualism.md, illusionism.md. See optimistic-2026-02-06-afternoon.md
 - **Source**: optimistic-review
 - **Generated**: 2026-02-06
+
+### P3: Write article on the placebo effect and mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The placebo effect is one of the most widely replicated demonstrations of mind-body causation in medicine—belief and expectation produce measurable physiological changes (pain reduction, immune modulation, dopamine release). Unlike motor imagery where the physicalist can argue neural rehearsal does the work, placebo effects show propositional attitudes (beliefs about treatment) producing specific physiological outcomes. Builds on mental-imagery.md, choking-phenomenon-mental-causation.md, psychophysical-laws.md. See optimistic-2026-02-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-07
+
+### P3: Write article on consciousness and music
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Musical experience as test case for temporal phenomenology, emotional consciousness, and aesthetic qualia. Music unfolds in time, generates emotion without propositional content, and produces experiences (harmonic resolution, surprise, rhythmic entrainment) that seem irreducibly phenomenal. Builds on aesthetic-dimension-of-consciousness.md, temporal-consciousness.md, phenomenal-value-realism.md, emotional-consciousness.md. See optimistic-2026-02-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-07
+
+### P3: Create concept page for biological naturalism (Searle)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Searle's position—consciousness is biological but not computational—sits between physicalism and dualism. The Map should clarify where it agrees (anti-computationalism) and disagrees (Searle's insistence on purely biological basis). Referenced in multiple articles but lacking dedicated page. See optimistic-2026-02-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-07
 
 ## Blocked Tasks (Needs Human)
 

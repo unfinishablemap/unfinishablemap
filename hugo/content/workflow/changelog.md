@@ -18,6 +18,107 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-07 04:12 UTC - deep-review
+- **Status**: Success
+- **File**: [dreamless-sleep-void](/voids/dreamless-sleep-void/)
+- **Word count**: 1603 → 1735 (+132)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 6 (attribution fixes, cross-links, epistemic qualifier)
+- **Output**: [deep-review-2026-02-07-dreamless-sleep-void](/reviews/deep-review-2026-02-07-dreamless-sleep-void/)
+
+## 2026-02-07 02:42 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 73 topics, 180+ concepts, 1 tenets page, 9 apex articles, 57 voids
+- **Output**: [optimistic-2026-02-07](/reviews/optimistic-2026-02-07/)
+
+## 2026-02-07 02:26 UTC - deep-review
+- **Status**: Success
+- **File**: [probability-intuition-void](/voids/probability-intuition-void/)
+- **Word count**: 1827 → 1956 (+129)
+- **Critical issues addressed**: 3 (fabricated/misattributed Gigerenzer citation, fabricated DeYoung quote with wrong first author, fabricated T&K 1974 quote)
+- **Medium issues addressed**: 4 (truncated quote, outdated date, missing cross-links, unattributed claim)
+- **Enhancements made**: 5 (cross-links to cognitive-closure/qualia/hard-problem/convergent-limits/developmental-closure, error management theory reference added)
+- **Output**: [deep-review-2026-02-07-probability-intuition-void](/reviews/deep-review-2026-02-07-probability-intuition-void/)
+
+## 2026-02-07 02:11 UTC - deep-review
+- **Status**: Success
+- **File**: [intersubjective-void](/voids/intersubjective-void/)
+- **Word count**: 1869 → 1873 (+4)
+- **Critical issues addressed**: 1 (fabricated IEP quote removed)
+- **Medium issues addressed**: 2 (Hofstadter framing corrected, body cross-links added)
+- **Enhancements made**: 3 (cross-links to intersubjectivity, qualia, phenomenology)
+- **Output**: [deep-review-2026-02-07-intersubjective-void](/reviews/deep-review-2026-02-07-intersubjective-void/)
+
+## 2026-02-07 01:56 UTC - deep-review
+- **Status**: Success
+- **File**: [mental-imagery](/concepts/mental-imagery/)
+- **Word count**: 1443 → 1706 (+263)
+- **Critical issues addressed**: 4 (Bacon misquote, effect size misattribution, "same activation" overclaim, self-contradiction)
+- **Medium issues addressed**: 4 (weak physicalist rebuttal, uncited claims, missing cross-links, contested Nanay claim)
+- **Enhancements made**: 6 (cross-links to downward-causation/conscious-vs-unconscious-processing/evolutionary-case/motor-selection, cognitive phenomenology section connection, 2 new references)
+- **Output**: [deep-review-2026-02-07-mental-imagery](/reviews/deep-review-2026-02-07-mental-imagery/)
+
+## 2026-02-07 01:41 UTC - deep-review
+- **Status**: Success
+- **File**: [developmental-cognitive-closure](/voids/developmental-cognitive-closure/)
+- **Word count**: 1735 → 1906 (+171)
+- **Critical issues addressed**: 2 (species error in PNN experiment, Simner citation year)
+- **Medium issues addressed**: 4 (neonatal synesthesia hedging, pruning statistics, No Many Worlds tenet connection, expertise limits framing)
+- **Enhancements made**: 4 new references added, expertise closure section strengthened
+- **Output**: [deep-review-2026-02-07-developmental-cognitive-closure](/reviews/deep-review-2026-02-07-developmental-cognitive-closure/)
+
+## 2026-02-07 01:26 UTC - refine-draft
+- **Status**: Success
+- **File**: [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/)
+- **Changes**: Qualified "Dreams solve problems" → "Dreams may solve"; added N=20 sample size context and replication caveats; "proves" → "demonstrates"; expanded epiphenomenalist challenge to acknowledge incorporation correlation admits both readings; softened Relation to Site Perspective for consistency; updated description
+- **Published**: yes
+
+## 2026-02-07 01:11 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/eastern-philosophy-consciousness.md, topics/dreams-problem-solving-and-consciousness.md, concepts/phenomenological-evidence.md, concepts/philosophy-of-mind.md, voids/nomic-void.md
+- **Output**: [pessimistic-2026-02-07](/reviews/pessimistic-2026-02-07/)
+
+## 2026-02-07 00:56 UTC - deep-review
+- **Status**: Success
+- **File**: [introspective-opacity](/voids/introspective-opacity/)
+- **Word count**: 1913 → 1950 (+37)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 3 (Buddhist phenomenology expanded, dualism argument reframed, cross-link added)
+- **Output**: [deep-review-2026-02-07-introspective-opacity](/reviews/deep-review-2026-02-07-introspective-opacity/)
+
+## 2026-02-07 00:41 UTC - deep-review
+- **Status**: Success
+- **File**: [emergence-void](/voids/emergence-void/)
+- **Word count**: 1724 → 1915 (+191)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (weak emergence conflation tightened, persistence argument strengthened, missing cross-links added)
+- **Enhancements made**: 7 (explanatory-gap link, reductionism link, mysterianism connection, nomic-void cross-link, limits-reveal-structure cross-link, AI section sharpened, 3 new Further Reading entries)
+- **Output**: [deep-review-2026-02-07-emergence-void](/reviews/deep-review-2026-02-07-emergence-void/)
+
+## 2026-02-07 00:26 UTC - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-mind](/concepts/philosophy-of-mind/)
+- **Word count**: 1235 → 1448 (+213)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (unsupported claim, eliminativism gap, overpromised research programme, decoherence objection unaddressed, missing wikilinks)
+- **Enhancements made**: 8 (eliminativism addition, GWT/IIT mention, practical implications expansion, substance/property distinction, decoherence acknowledgement, research programme caveats, 15+ wikilinks, expanded Further Reading)
+- **Output**: [deep-review-2026-02-07-philosophy-of-mind](/reviews/deep-review-2026-02-07-philosophy-of-mind/)
+
+## 2026-02-07 00:11 UTC - refine-draft
+- **Status**: Success
+- **File**: [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)
+- **Changes**: Added section on non-reductive physicalism; fixed equivocation between causal efficacy and non-physicality; qualified Lieberman citation; softened overconfident claims; added pain asymbolia qualifier; revised Quantum Dimension and Relation to Site Perspective sections
+- **Published**: yes
+
+## 2026-02-06 23:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Philosophy of Mind
+- **Output**: [philosophy-of-mind](/concepts/philosophy-of-mind/)
+- **Word count**: 1235
+- **Based on research**: no
+
 ## 2026-02-06 23:41 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Nomic Void
