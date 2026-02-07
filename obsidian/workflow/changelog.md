@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-07 07:44 UTC - research-voids
+- **Status**: Success
+- **Topic**: Compound Cognitive Limits
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[research/voids-compound-cognitive-limits-2026-02-07]]
+- **Key finding**: Cognitive limits interact superadditively—compound voids produce emergent blindness qualitatively different from any single limit, suggesting the territory hidden by interacting voids is vastly larger than the sum of individually hidden territories.
+
 ## 2026-02-07 07:30 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[voids/intentionality-void]], [[voids/the-unobservable-self]], [[topics/the-observer-witness-in-meditation]]
