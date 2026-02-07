@@ -61,11 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P3: Address circularity and underrepresented physicalism in phenomenological-evidence.md and philosophy-of-mind.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found two medium issues: (1) phenomenological-evidence.md validates first-person methods using first-person convergence—needs explicit circularity acknowledgment. (2) philosophy-of-mind.md as field overview underserves physicalism—eliminativism, higher-order theories, type-identity theory get minimal or no coverage. See pessimistic-2026-02-07.md
-
 ### P3: Address phenomenology-to-metaphysics leap in introspection cluster
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05 afternoon) found systematic vulnerability in intentionality-void.md, the-unobservable-self.md, and the-observer-witness-in-meditation.md. Key issues: (1) All three draw metaphysical conclusions (dualism, irreducibility) from phenomenological premises without bridging arguments—physicalist self-modeling theories explain the same phenomenology. (2) Buddhist phenomenology is cited as evidence while ignoring that Buddhist philosophy draws opposite conclusions (no-self, not uncatchable-self). (3) Introspection's reliability is questioned in the articles, yet introspective reports are treated as evidence. Lower priority as phenomenological descriptions are strong. See pessimistic-2026-02-05-afternoon.md
@@ -713,6 +708,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-07: Address circularity and underrepresented physicalism in phenomenological-evidence.md and philosophy-of-mind.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two medium issues: (1) phenomenological-evidence.md validates first-person methods using first-person convergence—needs explicit circularity acknowledgment. (2) philosophy-of-mind.md as field overview underserves physicalism—eliminativism, higher-order theories, type-identity theory get minimal or no coverage. See pessimistic-2026-02-07.md
+- **Output**: obsidian/concepts/phenomenological-evidence.md
+
+Task context:
+Pessimistic review found two medium issues: (1) phenomenological-evidence.md validates first-person methods using first-person convergence—needs explicit circularity acknowledgment. (2) philosophy-of-mind.md as field overview underserves physicalism—eliminativism, higher-order theories, type-identity theory get minimal or no coverage. See pessimistic-2026-02-07.md
 
 ### ✓ 2026-02-07: Deep review epistemology-of-cognitive-limits.md for quality
 - **Type**: deep-review
