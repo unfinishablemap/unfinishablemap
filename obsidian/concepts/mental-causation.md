@@ -11,7 +11,7 @@ topics:
   - "[[free-will]]"
 concepts:
   - "[[psychophysical-coupling]]"
-  - "[[psychophysical-laws-framework]]"
+  - "[[psychophysical-laws-bridging-mind-and-matter]]"
   - "[[selection-laws]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
@@ -128,7 +128,7 @@ Consciousness could bias outcomes at the point of measurement even after decoher
 
 Even granting that quantum indeterminacy provides an opening for mental causation, a further challenge remains: *which* phenomenal properties map to *which* physical selections? This specification problem is distinct from overdetermination (whether mental causes compete with physical causes) and conservation (whether mental causation violates energy conservation). Specification asks: if consciousness biases quantum outcomes, how does it do so systematically?
 
-The [[psychophysical-laws-framework]] provides the conceptual structure for addressing this challenge. Chalmers distinguished *supervenience laws* (which physical states produce which experiences) from what the Map calls *[[selection-laws|selection laws]]* (which mental states influence which physical outcomes). Mental causation requires selection laws—not merely supervenience laws running upward from physics to phenomenology, but laws specifying how consciousness participates in determining physical outcomes.
+The [[psychophysical-laws-bridging-mind-and-matter]] provides the conceptual structure for addressing this challenge. Chalmers distinguished *supervenience laws* (which physical states produce which experiences) from what the Map calls *[[selection-laws|selection laws]]* (which mental states influence which physical outcomes). Mental causation requires selection laws—not merely supervenience laws running upward from physics to phenomenology, but laws specifying how consciousness participates in determining physical outcomes.
 
 The [[psychophysical-coupling]] article surveys five candidate mechanisms:
 
@@ -227,7 +227,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 ## Further Reading
 
 - [[evolutionary-case-for-mental-causation]] — The evolutionary argument that consciousness must have causal effects to be selected
-- [[psychophysical-laws-framework]] — Integrated overview of the framework requiring selection laws for mental causation
+- [[psychophysical-laws-bridging-mind-and-matter]] — Integrated overview of the framework requiring selection laws for mental causation
 - [[selection-laws]] — The downward direction of psychophysical laws: how mental states select physical outcomes
 - [[psychophysical-coupling]] — Five candidate mechanisms specifying how mental causation might work at the neural interface
 - [[coupling-modes]] — Taxonomy of how consciousness couples: basis, timing, or probability control

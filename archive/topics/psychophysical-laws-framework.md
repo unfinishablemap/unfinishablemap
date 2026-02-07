@@ -30,6 +30,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-26
 last_curated:
 last_deep_review: 2026-01-27T17:39:53+00:00
+archived: true
+archived_date: 2026-02-07T06:29:00+00:00
+superseded_by: "/topics/psychophysical-laws-bridging-mind-and-matter/"
+archive_reason: "Coalesced into Psychophysical Laws: Bridging Mind and Matter"
+original_path: "/topics/psychophysical-laws-framework/"
 ---
 
 If consciousness is ontologically distinct from physics—as The Unfinishable Map's [[tenets#^dualism|Dualism tenet]] holds—then the relationship between mind and matter requires specification through fundamental laws. These psychophysical laws bridge what physics describes (neurons, fields, particles) and what we experience (pain, colour, intention). Without such laws, dualism remains a bare assertion; with them, it becomes a research program with testable structure.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-26 22:20:00+00:00
+ai_modified: 2026-02-07 05:57:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -13,6 +13,8 @@ concepts:
 - '[[mysterianism]]'
 - '[[voluntary-attention]]'
 - '[[global-workspace-theory]]'
+- '[[higher-order-theories]]'
+- '[[philosophical-zombies]]'
 created: 2026-01-23
 date: &id001 2026-01-24
 description: Blindsight patients discriminate visual stimuli they cannot consciously
@@ -20,7 +22,7 @@ description: Blindsight patients discriminate visual stimuli they cannot conscio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-24 16:55:00+00:00
+last_deep_review: 2026-02-07 05:57:00+00:00
 modified: *id001
 related_articles:
 - '[[baseline-cognition]]'
@@ -32,25 +34,25 @@ title: Blindsight
 topics: []
 ---
 
-Blindsight patients have damage to primary visual cortex (V1) that eliminates conscious visual experience in portions of their visual field—they report seeing nothing. Yet when forced to guess about stimuli presented in the blind region, they perform significantly above chance on discrimination tasks: identifying location, motion direction, color, and even emotional expressions. The phenomenon demonstrates that sophisticated visual processing can proceed without phenomenal awareness, providing direct evidence for consciousness-processing dissociation.
+Blindsight patients have damage to primary visual cortex (V1) that eliminates conscious visual experience in portions of their visual field—they report seeing nothing. Yet when forced to guess about stimuli presented in the blind region, they perform significantly above chance on discrimination tasks: identifying location, motion direction, color, and even emotional expressions. The phenomenon demonstrates that sophisticated visual processing can proceed without phenomenal awareness, providing strong evidence for consciousness-processing dissociation.
 
 The discovery matters because it reveals what unconscious perception can and cannot do. Blindsight patients succeed at forced-choice discrimination (choosing between presented options) but perform poorly on detection (reporting whether anything appeared at all). The visual information guides action and influences decision-making but doesn't enter awareness for reasoning about. This pattern fits the [baseline cognition pattern](//#baseline-cognition-pattern) (explained below): unconscious systems handle procedural tasks reliably but cannot support flexible reasoning or explicit knowledge.
 
 ## The Discovery and Core Findings
 
-Lawrence Weiskrantz and colleagues first documented the phenomenon in patient D.B. in the 1970s. Following surgical removal of right V1 to control seizures, D.B. reported complete blindness in his left visual field. Yet when stimuli appeared in the blind region and experimenters asked him to guess, he correctly identified location (reaching accurately), motion direction, and orientation at rates far exceeding chance.
+Lawrence Weiskrantz and colleagues first documented the phenomenon in patient D.B. in the 1970s. Following surgical removal of a vascular malformation in his right occipital lobe—which destroyed the corresponding primary visual cortex—D.B. reported complete blindness in his left visual field. Yet when stimuli appeared in the blind region and experimenters asked him to guess, he correctly identified location (reaching accurately), motion direction, and orientation at rates far exceeding chance.
 
 Key characteristics of blindsight:
 
-- **Forced-choice success**: Patients discriminate between alternatives (left vs right, horizontal vs vertical) with accuracy significantly above chance. In Weiskrantz's original studies, patient D.B. achieved 80-90% accuracy on location discrimination and similar performance on motion direction (Weiskrantz et al., 1974; Weiskrantz, 1986).
+- **Forced-choice success**: Patients discriminate between alternatives (left vs right, horizontal vs vertical) with accuracy well above chance. In Weiskrantz's studies, patient D.B. showed accurate reaching toward targets and reliable discrimination of motion direction and orientation despite reporting no visual experience (Weiskrantz et al., 1974; Weiskrantz, 1986).
 - **Detection failure**: Asked whether anything appeared, patients respond at chance levels or deny seeing anything.
 - **Confidence dissociation**: Even when discrimination is accurate, patients report no confidence—they describe themselves as purely guessing.
 - **Emotional processing**: Some patients show above-chance discrimination of facial expressions in blind regions (de Gelder et al., 1999), suggesting unconscious affective processing pathways via the superior colliculus and amygdala.
 - **Action guidance**: Patients can reach accurately toward stimuli they claim not to see, though reaching may feel "strange" or guided by intuition rather than vision.
 
-The preserved abilities are not trivial. Discriminating motion direction, identifying emotional expressions, and guiding reaching all involve sophisticated computational analysis. What's missing is not processing power but phenomenal experience—the "what it's like" to see.
+What's missing is not processing power but phenomenal experience—the "what it's like" to see.
 
-## Alternative Interpretations {#baseline-cognition-pattern}
+## Alternative Interpretations
 
 Three competing interpretations explain the dissociation:
 
@@ -58,23 +60,21 @@ Three competing interpretations explain the dissociation:
 
 The standard view: blindsight demonstrates complete absence of phenomenal visual experience despite preserved visual processing. Consciousness and processing come apart entirely. Unconscious vision reaches decision systems, influences behavior, but produces no qualia.
 
-This interpretation supports property dualism. If identical neural processing (feature extraction, motion detection, emotional recognition) can occur with or without consciousness depending on which pathways are intact, then consciousness is not reducible to that processing. Something non-physical—phenomenal experience—is present in normal vision but absent in blindsight.
+This interpretation supports property dualism. If functionally similar visual processing (feature extraction, motion detection, emotional recognition) can occur with or without consciousness depending on which pathways are intact, then consciousness is not reducible to that processing. Something beyond the computational function—phenomenal experience—is present in normal vision but absent in blindsight.
 
 **2. Degraded or minimal consciousness with metacognitive failure**
 
-Some theorists propose that blindsight might involve some preserved visual consciousness but with metacognitive failure—the inability to form reliable confidence judgments about internal visual states. Lau and colleagues have developed signal detection frameworks distinguishing perceptual sensitivity from metacognitive sensitivity (Lau & Passingham, 2006; Persaud et al., 2011). On this view, patients might have faint, degraded visual qualia that their metacognitive systems cannot access or evaluate. The "guessing" experience reflects genuine uncertainty about internal states, not proof of absent consciousness.
+Some theorists propose that blindsight involves preserved but degraded visual consciousness rather than its complete absence. Lau and Passingham (2006) demonstrated "relative blindsight" in normal observers using metacontrast masking—showing that subjective awareness can vary even when objective discrimination is matched. Persaud et al. (2011) found awareness-related prefrontal and parietal activity in blindsight patient GY even when discrimination performance was controlled. These findings suggest the dissociation may be between levels of awareness rather than presence versus absence.
 
-Evidence: Type 2 blindsight patients (as opposed to Type 1) do report vague "feelings" or "awareness of something" without clear visual experience (Weiskrantz, 1998). Stimuli in blind regions sometimes trigger surprise or attention shifts, suggesting some form of detection that doesn't reach explicit awareness. The line between absent consciousness and present-but-inaccessible consciousness blurs.
+Phillips (2021) offers the strongest version of this challenge, arguing that blindsight patients have qualitatively degraded conscious vision and that their denials of seeing reflect conservative response criteria rather than absent phenomenology. On this view, patients set a high threshold for reporting "I see something" and their genuine but degraded visual experience falls below that threshold. Type 2 blindsight patients (as opposed to Type 1) do report vague "feelings" or "awareness of something" without clear visual experience (Weiskrantz, 1998), blurring the line between absent consciousness and present-but-inaccessible consciousness.
 
 **3. Residual islands of spared V1**
 
 Skeptics note that "blindsight" often correlates with spared V1 tissue—islands of surviving primary visual cortex that could mediate normal conscious vision in restricted locations. What appears to be unconscious processing in a blind field might actually be weak conscious processing in partially functional regions, with performance limited by degraded input quality rather than absent awareness.
 
-This challenges the dissociation interpretation. If all blindsight cases reflect residual normal vision rather than unconscious vision, the phenomenon doesn't demonstrate consciousness-processing separation.
-
 Counter-evidence: Some blindsight cases involve complete V1 removal with no residual tissue, yet discrimination persists. Alternative visual pathways (retina → superior colliculus → extrastriate cortex) bypass V1 entirely, explaining preserved discrimination without requiring conscious processing.
 
-## Fits the Baseline Cognition Pattern
+## Fits the Baseline Cognition Pattern {#baseline-cognition-pattern}
 
 The [baseline cognition](/archive/topics/baseline-cognition/) hypothesis proposes that unconscious neural processing achieves approximately great ape level cognition—sophisticated, reliable, but constrained. Blindsight exemplifies this pattern:
 
@@ -92,15 +92,15 @@ The [baseline cognition](/archive/topics/baseline-cognition/) hypothesis propose
 - Verbal report or explicit knowledge ("describe what's there")
 - Integration into episodic memory (patients don't remember "seeing" stimuli later)
 
-This mirrors the great ape baseline: procedural competence without metarepresentation. The blindsight patient's visual system can answer "which one?" but not "what is it?" or "am I correct?" The information influences behavior but doesn't enter the workspace for reasoning, planning, or explicit memory formation. See [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) for comprehensive analysis of the three consciousness-requiring functions that blindsight lacks: durable maintenance, novel combinations, and spontaneous intentional action.
+The blindsight patient's visual system can answer "which one?" but not "what is it?" or "am I correct?" The information influences behavior but doesn't enter the workspace for reasoning, planning, or explicit memory formation. See [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) for the three consciousness-requiring functions that blindsight lacks: durable maintenance, novel combinations, and spontaneous intentional action.
 
-Global Workspace Theory formalizes this distinction. Unconscious processing operates in specialized modules (V2, V3, V5 for motion, ventral stream for object recognition) that can influence motor systems directly. Conscious processing broadcasts information globally, making it available to working memory, verbal report systems, and metacognitive monitoring. Blindsight preserves the former while losing the latter.
+[Global Workspace Theory](/concepts/global-workspace-theory/)—one influential framework among several—formalizes this distinction. Unconscious processing operates in specialized modules (V2, V3, V5 for motion, ventral stream for object recognition) that can influence motor systems directly. Conscious processing broadcasts information globally, making it available to working memory, verbal report systems, and metacognitive monitoring. [Higher-order theories](/concepts/higher-order-theories/) offer an alternative explanation: blindsight patients lack the higher-order representations that constitute consciousness, while retaining first-order visual representations that support discrimination. Blindsight preserves modular processing while losing global broadcast or higher-order access.
 
 ## Double Dissociation: Blind Insight
 
-The inverse dissociation strengthens the case. In "blind insight" paradigms, subjects show metacognitive sensitivity—confidence tracks accuracy—even when first-order performance is at chance. They don't consciously identify stimuli but accurately judge their own reliability.
+The inverse dissociation strengthens the case. In "blind insight" paradigms, subjects show metacognitive sensitivity—confidence tracks accuracy—even when first-order performance is at chance (Scott et al., 2014). In the original demonstration, participants judging artificial grammar strings performed at chance on grammaticality but showed above-chance confidence calibration. Though this involves learning rather than perception, the conceptual mirror to blindsight is striking: metacognitive access without first-order success.
 
-The double dissociation (blindsight: discrimination without confidence; blind insight: confidence without discrimination) suggests three separable systems:
+The double dissociation (blindsight: discrimination without confidence; blind insight: confidence without discrimination) spans different domains and populations, which limits the inferential force somewhat. Still, it suggests three separable systems:
 1. **Unconscious processing** (feature extraction, object recognition)
 2. **Phenomenal consciousness** (qualia, "what it's like")
 3. **Metacognitive access** (monitoring, confidence judgments)
@@ -111,19 +111,19 @@ Blindsight shows system 1 without 2 or 3. Blind insight shows system 3 without c
 
 Blindsight is central to Ned Block's influential distinction between [access-consciousness](/concepts/access-consciousness/) and [phenomenal-consciousness](/concepts/phenomenal-consciousness/). Block argues that the two can dissociate—blindsight being the paradigm case of information reaching cognitive systems (partial access) without phenomenal awareness.
 
-On Block's analysis, blindsight patients retain some information that is "poised for global control"—it influences forced-choice responses and can guide reaching—but this information lacks the "something it is like" quality of normal vision. The information influences behavior without entering the phenomenal field.
+On Block's analysis, blindsight patients retain information "poised for global control"—it influences forced-choice responses and guides reaching—but lacks the "something it is like" quality of normal vision.
 
-The distinction matters for interpreting what blindsight shows:
+The interpretation depends on which dissociation is present:
 
-- If blindsight involves **access without phenomenology**, it supports the claim that access and phenomenology are distinct properties, not identical
-- If blindsight involves **degraded phenomenology with metacognitive failure**, the dissociation is less clean—both access and phenomenology are degraded together
-- If blindsight involves **neither access nor phenomenology** (with performance explained by residual V1 supporting both), the dissociation claim weakens
+- **Access without phenomenology** supports Block's claim that the two are distinct properties
+- **Degraded phenomenology with metacognitive failure** makes the dissociation less clean—both degrade together
+- **Neither access nor phenomenology** (residual V1 explains performance) weakens the dissociation claim entirely
 
-The empirical situation remains contested. But Block's conceptual framework clarifies what's at stake: whether blindsight demonstrates that sophisticated information processing can occur in the complete absence of phenomenal character, or merely that processing and phenomenology degrade together when V1 is damaged.
+Block's framework clarifies what's at stake: whether blindsight demonstrates information processing in the complete absence of phenomenal character, or merely that processing and phenomenology degrade together when V1 is damaged.
 
 ## Implications for Dualism
 
-Blindsight provides direct evidence for property dualism. If sophisticated visual discrimination (motion detection, emotional recognition, action guidance) can proceed without conscious experience, then conscious experience is not identical to that processing. The neural computations happen in both cases; the phenomenal character appears in one but not the other.
+Blindsight provides strong evidence for property dualism. If functionally similar visual discrimination (motion detection, emotional recognition, action guidance) can proceed without conscious experience, then conscious experience is not identical to that processing. The collicular and geniculostriate pathways use different architectures, but both achieve visual discrimination; the phenomenal character appears in one but not the other.
 
 Three responses remain available to physicalists:
 
@@ -143,29 +143,29 @@ Problem: Cases exist with complete V1 removal. Alternative pathways (superior co
 
 Perhaps visual consciousness requires V1 → higher cortex pathways specifically, not because V1 performs unique computations but because consciousness is a property of specific neural architectures. Blindsight shows processing without V1; it doesn't show processing without consciousness in general.
 
-This concedes property dualism: if identical computations produce consciousness via one pathway but not another, consciousness is not reducible to the computations. The functional role (influencing behavior, guiding action) is identical; the phenomenal character differs. That's precisely the dualist claim.
+This concedes property dualism: if functionally similar computations produce consciousness via one pathway but not another, consciousness is not reducible to the computational function. Both pathways guide behavior and influence action; the phenomenal character differs. That's precisely the dualist claim.
 
 ## The Illusionist Challenge
 
 [Illusionism](/concepts/illusionism/) offers a different interpretation. If phenomenal consciousness is an illusion—a systematic misrepresentation of our cognitive states—then blindsight shows what cognition looks like when the illusion-generating mechanism is damaged.
 
-On the illusionist view, V1 and its connections to prefrontal cortex don't generate genuine phenomenal properties; they generate *representations of having* phenomenal properties. Blindsight patients lack this representational machinery, so they don't represent themselves as seeing—but the visual information is processed regardless. The "something it is like" quality that's missing is, on this view, a cognitive representation that makes information seem phenomenal.
+On the illusionist view, V1 and its connections to prefrontal cortex generate *representations of having* phenomenal properties rather than genuine ones. Blindsight patients lack this representational machinery, so they don't represent themselves as seeing—but visual information is processed regardless.
 
-**Response from dualism**: The illusionist interpretation struggles to explain why we should care about the difference between blindsight and normal vision. If phenomenal consciousness is mere representation, the blindsight patient isn't missing anything real. But introspectively, the difference between seeing and "sensing without seeing" is profound. The patient's own reports—not just of absent visual experience but of the profound difference when vision is restored to some regions—suggest something genuinely experiential is at stake.
+**Response from dualism**: If phenomenal consciousness is mere representation, blindsight patients aren't missing anything real—yet the difference between seeing and "sensing without seeing" is introspectively profound. Patients report not just absent visual experience but a striking difference when vision is restored to some regions, suggesting something genuinely experiential is at stake.
 
-Moreover, illusionism must explain why the illusion-generating mechanism co-locates with V1 specifically. If phenomenal representation is a cognitive overlay, why does damage to primary visual cortex—an early processing stage—eliminate it? The localization suggests phenomenology tracks something about the processing pathway itself, not a late-stage representational add-on.
+Illusionism must also explain why the illusion-generating mechanism co-locates with V1—an early processing stage. If phenomenal representation is a cognitive overlay, damage to primary visual cortex should not eliminate it. The localization suggests phenomenology tracks the processing pathway itself, not a late-stage representational add-on.
 
 ## Relation to Site Perspective
 
-Blindsight demonstrates that [consciousness](/concepts/consciousness/) and cognitive processing are not identical, supporting [Interactionist Dualism](/archive/arguments/interactionist-dualism/) over reductive physicalism. The same visual information—sufficient to guide reaching, discriminate motion, and recognize expressions—exists in both normal vision and blindsight. What differs is phenomenal awareness. If processing were all that mattered, blindsight patients should report seeing. They don't.
+Blindsight demonstrates that [consciousness](/concepts/consciousness/) and cognitive processing are not identical, supporting [Interactionist Dualism](/archive/arguments/interactionist-dualism/) over reductive physicalism. The same visual information—sufficient to guide reaching, discriminate motion, and recognize expressions—exists in both cases. What differs is phenomenal awareness.
 
-The phenomenon also supports [Bidirectional Interaction](/concepts/bidirectional-interaction/). The baseline cognition pattern shows what unconscious processing achieves: reliable, procedural, but inflexible. Conscious processing enables detection, metacognition, verbal report, and integration across cognitive domains. If consciousness merely observed processing without influencing it ([epiphenomenalism](/arguments/epiphenomenalism/)), why would its presence or absence make this functional difference? The dissociation suggests consciousness causally contributes to cognitive capacities, not merely accompanies them.
+The phenomenon also supports [Bidirectional Interaction](/concepts/bidirectional-interaction/). The baseline cognition pattern shows what unconscious processing achieves: reliable, procedural, but inflexible. Conscious processing enables detection, metacognition, verbal report, and integration across cognitive domains. An epiphenomenalist can attribute these functional differences to the physical differences between the geniculostriate and collicular pathways rather than to consciousness itself. But the dualist observes that the functional capacities that track consciousness—flexible reasoning, novel integration, metacognitive access—are precisely those that resist explanation in purely mechanistic terms. The correlation between phenomenal presence and cognitive flexibility is better explained by [consciousness causally contributing to cognition](/concepts/bidirectional-interaction/) than by coincidental alignment between pathway architecture and an epiphenomenal byproduct.
 
 Blindsight also illuminates the difference between attended and unattended processing. The V1 pathway normally supports [voluntary-attention](/concepts/voluntary-attention/)—top-down selection of what enters awareness. The collicular pathway bypasses this attentional interface. If attention is the mechanism through which consciousness influences neural processing (as [Stapp's model](/concepts/stapp-quantum-mind/) proposes), blindsight shows what happens when that mechanism is circumvented: visual information reaches motor systems but doesn't enter the attended, globally broadcast workspace.
 
-Finally, blindsight connects to [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction). If consciousness is not reducible to neural processing patterns—if identical computations can occur with or without phenomenal awareness—then consciousness may involve non-physical properties. The quantum selection hypothesis offers one proposal: conscious states might influence which quantum outcomes become actual, biasing neural activity in ways that enable flexible reasoning and global integration. Unconscious processing would proceed via classical pathways. This remains highly speculative—there is no direct evidence that quantum effects play a role in the blindsight dissociation—but it illustrates how the framework might accommodate the findings.
+Blindsight also connects to [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction). If consciousness is not reducible to neural processing patterns, it may involve non-physical properties. The quantum selection hypothesis proposes that conscious states influence which quantum outcomes become actual, biasing neural activity toward flexible reasoning and global integration. Unconscious processing would proceed via classical pathways. This remains highly speculative—there is no direct evidence that quantum effects play a role in the blindsight dissociation—but it illustrates how the framework might accommodate the findings. Under [No Many Worlds](/tenets/#no-many-worlds), this selection is genuine rather than illusory: phenomenal presence or absence is a determinate fact about this world, not a perspectival artifact of branch location.
 
-The [No Many Worlds](/tenets/#no-many-worlds) tenet is also relevant here. If consciousness operates through quantum selection and MWI were true, the selection would be illusory—all outcomes would occur on different branches. Blindsight would then not demonstrate genuine absence of consciousness but merely that a particular branch's observer lacks phenomenal access. The Map rejects MWI partly to preserve the meaningfulness of cases like blindsight, where phenomenal presence or absence is a determinate fact about this world, not a perspectival artifact of branch location.
+Finally, [Occam's Razor Has Limits](/tenets/#occams-limits) bears on interpretive methodology. Physicalists invoke parsimony to prefer pathway-based explanations over dualist ones, but the simplest available explanation is not always correct in a domain where our conceptual tools may be fundamentally inadequate.
 
 ## Open Questions
 
@@ -187,6 +187,8 @@ Blindsight demonstrates that sophisticated visual processing can occur without c
 - [illusionism](/concepts/illusionism/) — The view that phenomenal consciousness is an illusion
 - [voluntary-attention](/concepts/voluntary-attention/) — Top-down selection and the V1 pathway
 - [mind-brain-separation](/concepts/mind-brain-separation/) — Evidence for consciousness-brain dissociation
+- [philosophical-zombies](/concepts/philosophical-zombies/) — Blindsight as an empirical partial-zombie case
+- [higher-order-theories](/concepts/higher-order-theories/) — Physicalist framework for the blindsight dissociation
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding consciousness
 
 ## References
@@ -204,6 +206,10 @@ Dehaene, S., & Naccache, L. (2001). Towards a cognitive neuroscience of consciou
 Lau, H. C., & Passingham, R. E. (2006). Relative blindsight in normal observers and the neural correlate of visual consciousness. *Proceedings of the National Academy of Sciences*, 103(49), 18763-18768.
 
 Persaud, N., Davidson, M., Maniscalco, B., Mobbs, D., Passingham, R. E., Cowey, A., & Lau, H. (2011). Awareness-related activity in prefrontal and parietal cortices in blindsight reflects more than superior visual performance. *NeuroImage*, 58(2), 605-611.
+
+Phillips, I. (2021). Blindsight is qualitatively degraded conscious vision. *Psychological Review*, 128(3), 558-584.
+
+Scott, R. B., Dienes, Z., Barrett, A. B., Bor, D., & Seth, A. K. (2014). Blind insight: Metacognitive discrimination despite chance task performance. *Psychological Science*, 25(12), 2199-2208.
 
 Stoerig, P., & Cowey, A. (1997). Blindsight in man and monkey. *Brain*, 120(3), 535-559.
 

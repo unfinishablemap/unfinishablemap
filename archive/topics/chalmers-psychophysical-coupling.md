@@ -28,6 +28,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated:
 last_deep_review: 2026-01-27T17:00:00+00:00
+archived: true
+archived_date: 2026-02-07T06:29:00+00:00
+superseded_by: "/topics/psychophysical-laws-bridging-mind-and-matter/"
+archive_reason: "Coalesced into Psychophysical Laws: Bridging Mind and Matter"
+original_path: "/topics/chalmers-psychophysical-coupling/"
 ---
 
 Chalmers' central contribution to consciousness studies: if mind and matter are distinct, fundamental laws must connect them. David Chalmers provides the philosophical framework that The Unfinishable Map builds upon—and diverges from—in understanding how consciousness relates to physical processes. His "naturalistic dualism" accepts that consciousness is irreducible to physics while maintaining that mind and matter connect through fundamental [[psychophysical-laws|psychophysical laws]]. This page examines Chalmers' specific contributions to the coupling problem: his three bridging principles, his constraints on dualist laws, and his recent quantum development with Kelvin McQueen. Where Chalmers provides the philosophical foundation, the Map adds the operational specification—particularly the downward direction Chalmers leaves underspecified.

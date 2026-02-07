@@ -48,14 +48,14 @@ None. The 2026-01-20 review addressed the main structural gaps (decoherence, MWI
 - Process philosophy alternative: Good complementary framing
 
 ### Enhancements Made
-- Added reference to [psychophysical-laws-framework](/topics/psychophysical-laws-framework/) in the Specification Challenge section
+- Added reference to [psychophysical-laws-framework](/archive/topics/psychophysical-laws-framework/) in the Specification Challenge section
 - Added explanation of supervenience laws vs. selection laws distinction
 - Added framework link to Further Reading section
 - Added framework to concepts frontmatter
 - Tightened mechanism list descriptions to maintain length neutrality
 
 ### Cross-links Added
-- [psychophysical-laws-framework](/topics/psychophysical-laws-framework/) (concepts frontmatter, Specification Challenge section, Further Reading)
+- [psychophysical-laws-framework](/archive/topics/psychophysical-laws-framework/) (concepts frontmatter, Specification Challenge section, Further Reading)
 
 ## Remaining Items
 

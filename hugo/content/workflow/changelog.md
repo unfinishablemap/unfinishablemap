@@ -18,6 +18,40 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-07 06:29 UTC - coalesce
+- **Status**: Success
+- **Sources**: [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/), [psychophysical-laws-framework](/archive/topics/psychophysical-laws-framework/), [psychophysical-coupling-law-mechanisms](/archive/topics/psychophysical-coupling-law-mechanisms/)
+- **Target**: [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)
+- **Archived**: archive/topics/chalmers-psychophysical-coupling.md, archive/topics/psychophysical-laws-framework.md, archive/topics/psychophysical-coupling-law-mechanisms.md
+- **References updated**: 5 files (selection-laws, psychophysical-laws, mental-causation, downward-causation, psychophysical-coupling)
+
+## 2026-02-07 06:14 UTC - deep-review
+- **Status**: Success
+- **File**: [volitional-opacity](/voids/volitional-opacity/)
+- **Word count**: 2171 → 2188 (+17)
+- **Critical issues addressed**: 1 (James misquote corrected)
+- **Medium issues addressed**: 1 (missing Kriegel reference added)
+- **Enhancements made**: 0 (article near stability — minimal changes appropriate)
+- **Output**: [deep-review-2026-02-07b-volitional-opacity](/reviews/deep-review-2026-02-07b-volitional-opacity/)
+
+## 2026-02-07 05:57 UTC - deep-review
+- **Status**: Success
+- **File**: [blindsight](/concepts/blindsight/)
+- **Word count**: 2564 → 2602 (+38)
+- **Critical issues addressed**: 4 (D.B. surgery reason factual error, misplaced section anchor, unverifiable accuracy figures, uncited blind insight section)
+- **Medium issues addressed**: 7 (Phillips 2021 engagement, Lau & Passingham mischaracterization, "identical processing" overstated, Occam's Razor tenet, circular epiphenomenalism argument, higher-order theories cross-link, blind insight citation)
+- **Enhancements made**: 3 (philosophical-zombies and higher-order-theories cross-links, prose tightening throughout)
+- **Output**: [deep-review-2026-02-07-blindsight](/reviews/deep-review-2026-02-07-blindsight/)
+
+## 2026-02-07 04:27 UTC - deep-review
+- **Status**: Success
+- **File**: [volitional-opacity](/voids/volitional-opacity/)
+- **Word count**: 2033 → 2171 (+138)
+- **Critical issues addressed**: 3 (misattributed Soon/Haynes citation, two unattributed block quotes)
+- **Medium issues addressed**: 6 (No Many Worlds tenet, Merleau-Ponty tension, Illusion Interpretation, Aristotle attribution, Strawson clarification, bidirectional cross-link)
+- **Enhancements made**: 3 (cross-links to limits-reveal-structure and creativity-void, length-neutral prose tightening)
+- **Output**: [deep-review-2026-02-07-volitional-opacity](/reviews/deep-review-2026-02-07-volitional-opacity/)
+
 ## 2026-02-07 04:12 UTC - deep-review
 - **Status**: Success
 - **File**: [dreamless-sleep-void](/voids/dreamless-sleep-void/)
@@ -3228,7 +3262,7 @@ topics: []
 - **Medium issues addressed**: 1 (orphan status—zero inbound links)
 - **Enhancements made**: 6 inbound links added from related articles
 - **Context**: Orphan integration—article had no content links, now integrated into psychophysical laws cluster
-- **Files modified**: [psychophysical-laws](/concepts/psychophysical-laws/), [mental-causation](/concepts/mental-causation/), [downward-causation](/concepts/downward-causation/), [psychophysical-laws-framework](/topics/psychophysical-laws-framework/), [bidirectional-interaction](/concepts/bidirectional-interaction/), [quantum-consciousness](/concepts/quantum-consciousness/)
+- **Files modified**: [psychophysical-laws](/concepts/psychophysical-laws/), [mental-causation](/concepts/mental-causation/), [downward-causation](/concepts/downward-causation/), [psychophysical-laws-framework](/archive/topics/psychophysical-laws-framework/), [bidirectional-interaction](/concepts/bidirectional-interaction/), [quantum-consciousness](/concepts/quantum-consciousness/)
 - **Output**: [deep-review-2026-02-02-selection-laws-cross-review](/reviews/deep-review-2026-02-02-selection-laws-cross-review/)
 
 ---

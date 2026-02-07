@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 11:50:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-02-07 06:14:00+00:00
+ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -10,12 +10,13 @@ concepts:
 - '[[introspection]]'
 - '[[agent-causation]]'
 created: 2026-02-02
-date: &id001 2026-02-02
+date: &id001 2026-02-07
 description: Human+AI exploration of why we cannot observe our own willing—the mechanism
   by which decisions become actions remains hidden from introspection.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-07 06:14:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -26,6 +27,8 @@ related_articles:
 - '[[thoughts-that-slip-away]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[three-kinds-of-void]]'
+- '[[limits-reveal-structure]]'
+- '[[creativity-void]]'
 title: Volitional Opacity
 topics:
 - '[[philosophy-of-mind]]'
@@ -43,7 +46,7 @@ Volitional opacity sits at the intersection of two related voids. [Introspective
 
 By the time we are aware of deciding, the decision has already been initiated. Benjamin Libet's experiments revealed that the "readiness potential"—brain activity preparing for voluntary movement—begins approximately 550 milliseconds before the action, while conscious awareness of the urge to move appears only around 200 milliseconds before. The volitional process is initiated unconsciously.
 
-More recent research found that brain activity predicts decisions up to seven seconds before conscious awareness. William James diagnosed this phenomenologically: "The rush of thought... almost always brings us up at the conclusion before we can arrest it." Decisions seem to *arrive*—we experience them as accomplished, not as being accomplished.
+In a 2008 study, Soon, Brass, Heinze and Haynes found that brain activity could predict decisions at above-chance rates up to seven seconds before conscious awareness—though prediction accuracy was modest (~60%), not deterministic. William James diagnosed the temporal gap phenomenologically: "The rush of the thought is so headlong that it almost always brings us up at the conclusion before we can arrest it." Decisions seem to *arrive*—we experience them as accomplished, not as being accomplished.
 
 ### Process Opacity
 
@@ -55,17 +58,17 @@ Choice blindness experiments confirm this construction. When experimenters secre
 
 ### Mechanistic Opacity
 
-For dualists, a deeper opacity remains: how can an immaterial mind affect a physical brain at all? Princess Elisabeth posed this challenge to Descartes in 1643, and no satisfying answer has emerged. "Since the mind is, on the Cartesian model, immaterial and unextended, it can have no size, shape, location, mass, motion or solidity. How then can minds act on bodies?"
+For dualists, a deeper opacity remains: how can an immaterial mind affect a physical brain at all? Princess Elisabeth posed this challenge to Descartes in 1643, and no satisfying answer has emerged. If the mind is immaterial and unextended—lacking size, shape, location, mass, motion, or solidity—how can it act on bodies?
 
-The question of how mental causation works "is problematic because in dualism 'the mind' is assumed to be non-physical and by definition outside the realm of science." Even if we accept that consciousness causes action, we cannot observe how. The mechanism of willing may be permanently beyond both introspective and scientific access—cognitively closed in Colin McGinn's sense.
+Mental causation is difficult to investigate precisely because dualism places the mind outside the domain of physical measurement. Even if we accept that consciousness causes action, we cannot observe how. The mechanism of willing may be permanently beyond both introspective and scientific access—cognitively closed in Colin McGinn's sense.
 
 ## The Phenomenology of Volitional Opacity
 
-What does this opacity feel like from the inside? A crucial caveat applies: [introspective opacity](/voids/introspective-opacity/) suggests that these phenomenological reports may themselves be constructed rather than revelatory. We cannot assume introspection reliably describes volitional experience any more than it reliably describes other cognitive processes. The phenomenology recorded here represents *what willing seems like*—which may differ from what willing actually is.
+What does this opacity feel like from the inside? A crucial caveat: [introspective opacity](/voids/introspective-opacity/) suggests these phenomenological reports may themselves be constructed rather than revelatory. The phenomenology recorded here represents *what willing seems like*—which may differ from what willing actually is.
 
-With this caveat, subjects report the following features:
+With this caveat:
 
-**The sense of authorship**: We experience ourselves as the origin of our actions. This feeling is vivid, immediate, and compelling. Galen Strawson describes an aspect of experience that is "profoundly libertarian," involving a sense of oneself as a "self-determining 'agent-self'" that is "separate from, and somehow irreducibly over and above, all its particular desires." But as Wegner's research shows, this rich phenomenology can occur even when our actions have other causes. The sense of authorship is a constructed experience, not a window onto causal reality.
+**The sense of authorship**: We experience ourselves as the origin of our actions. This feeling is vivid, immediate, and compelling. Galen Strawson describes an aspect of experience that is "profoundly libertarian," involving a sense of oneself as a "self-determining 'agent-self'" that is "separate from, and somehow irreducibly over and above, all its particular desires"—though Strawson himself argues this phenomenology does not ground genuine freedom. But as Wegner's research shows, this rich phenomenology can occur even when our actions have other causes. The sense of authorship is a constructed experience, not a window onto causal reality.
 
 **The gap at initiation**: When we try to catch the moment of deciding, we find it elusive. Decisions seem to *appear*—we experience having decided, not deciding. The initiation is always already past. Meditators across traditions report the same finding: sustained attention on the moment of decision reveals less and less. The intention seems to arise rather than be caused. Whether this elusiveness reflects genuine absence of conscious initiation, or merely introspection's inability to track rapid processes, cannot be determined from introspection itself.
 
@@ -73,13 +76,13 @@ With this caveat, subjects report the following features:
 
 **The transparency illusion**: Despite structural opacity, we *feel* transparent to ourselves as agents. We feel we know why we act, how we decide, what moves us. This felt transparency may be the mind's "best trick" (Wegner). The seamlessness of confabulation—fabricated explanations feel no different from veridical ones—creates confidence where none is warranted.
 
-**The akratic revelation**: In weakness of will, we watch ourselves act against our own judgment—aware of both the judgment and the contrary action. Aristotle affirmed akrasia as "a staple of commonsense and a common human experience." Akrasia reveals that "we" and "our will" are not identical—something acts that is not the judging self. The unity of the willing self dissolves under examination.
+**The akratic revelation**: In weakness of will, we watch ourselves act against our own judgment—aware of both the judgment and the contrary action. Aristotle recognized akrasia—acting against one's own better judgment—as a common human experience. Akrasia reveals that "we" and "our will" are not identical—something acts that is not the judging self. The unity of the willing self dissolves under examination.
 
 ## Three Interpretations of the Void
 
 Different frameworks interpret volitional opacity differently:
 
-**The Illusion Interpretation** (hard determinism, some eliminativists): The sense of willing is entirely illusory. Unconscious neural processes cause both our actions and our experience of willing. The "will" is a post-hoc narrative, not a cause. The void exists because there is no mechanism to find—"will" names a feeling, not a force.
+**The Illusion Interpretation** (hard determinism, some eliminativists): The sense of willing is entirely illusory. Unconscious neural processes cause both our actions and our experience of willing. The "will" is a post-hoc narrative, not a cause. The void exists because there is no mechanism to find—"will" names a feeling, not a force. The Map finds this insufficient: even illusionists must explain why evolution produced the illusion of agency, and an illusion that systematically tracks real-world outcomes (we feel we chose what we in fact did) demands a mechanism of its own.
 
 **The Partial Access Interpretation** (Libet, compatibilism): Volition is real but largely unconscious. We have limited access—enough to veto, monitor, and guide, but not enough to observe initiation. Libet proposed that while consciousness cannot initiate voluntary acts, it can veto them—"free won't" rather than free will. The void exists because consciousness accesses only the output of volitional processing.
 
@@ -89,17 +92,17 @@ Different frameworks interpret volitional opacity differently:
 
 Merleau-Ponty's account of embodied agency complicates the picture. Much of what we call willing operates pre-reflectively: "It is the body which 'understands.'" Motor intentionality acts without requiring conscious representation. The skilled pianist's fingers find the keys; the experienced driver's foot moves to the brake. Action happens through the body, and only afterward does consciousness claim authorship.
 
-This suggests volitional opacity is not a failure to observe something happening consciously elsewhere. The "willing" we seek may be distributed across processes that were never conscious to begin with. We are opaque to ourselves not because the light cannot reach inside, but because there is no unified "inside" for light to illuminate.
+This suggests a fourth interpretation of volitional opacity: the "willing" we seek may be distributed across processes that were never conscious to begin with. On this view, opacity is not a failure to observe something happening elsewhere but a category error in the search—there is no unified "inside" for light to illuminate. Whether this distributed account is compatible with dualism depends on whether the non-physical mind can operate *through* embodied processes rather than independently of them.
 
 ## Relation to Site Perspective
 
 ### Bidirectional Interaction
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is directly relevant. The Unfinishable Map holds that consciousness causally influences the physical world. Volitional opacity concerns whether we can observe this influence.
+The Unfinishable Map holds that consciousness causally influences the physical world ([Bidirectional Interaction](/tenets/#bidirectional-interaction)). Volitional opacity concerns whether we can observe this influence.
 
-Libet himself took "an explicitly dualistic view" of the veto process: "a purely conscious field could act on neural processing in the cortex to prevent the dispatch of a motor command." If consciousness can veto unconsciously-initiated impulses, this is bidirectional interaction in action. But we cannot observe *how* the veto works. The mechanism by which a "purely conscious field" could "act on neural processing" remains mysterious.
+Libet himself took "an explicitly dualistic view" of the veto process: "a purely conscious field could act on neural processing in the cortex to prevent the dispatch of a motor command." If consciousness can veto unconsciously-initiated impulses, this is bidirectional interaction in action—but we cannot observe *how* the veto works.
 
-The void doesn't deny bidirectional interaction—it holds that the mechanism is hidden. This is coherent: we would expect an interface between consciousness and physics to be precisely where both first-person and third-person access fail.
+The void doesn't deny bidirectional interaction—it holds that the mechanism is hidden. We would expect an interface between consciousness and physics to be precisely where both first-person and third-person access fail.
 
 ### Dualism
 
@@ -109,11 +112,15 @@ The [Dualism](/tenets/#dualism) tenet faces the interactionist problem directly.
 
 The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet suggests why the mechanism might be inaccessible. If consciousness's influence is minimal—affecting quantum probabilities at femtosecond timescales and molecular scales—the interaction would be too small, too fast, and too fundamental for introspection to track. The opacity would follow from the mechanism's nature.
 
+### No Many Worlds
+
+The [No Many Worlds](/tenets/#no-many-worlds) tenet preserves volitional opacity as a genuine puzzle. Under Many-Worlds, there is no collapse and no selection mechanism—all outcomes occur, and the experience of choosing is merely the experience of being in one branch. On that view, the "void" dissolves: there is nothing to observe because nothing is selected. By rejecting MWI, the Map insists that decisions involve genuine selection among possibilities, making the opacity of that selection process a substantive philosophical problem rather than an artefact of branching.
+
 ### Occam's Razor Has Limits
 
 The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is demonstrated by volitional opacity. The simplest assumption—that we directly observe ourselves causing our actions—is almost certainly wrong. Wegner shows the sense of agency is constructed; Libet shows decisions are initiated unconsciously; James shows we cannot catch willing in the act.
 
-Our confidence in self-knowledge of agency exemplifies how parsimony can mislead. The experience of transparency to ourselves as agents is compelling and universal. It is also unfounded. Some truths about agency may be irreducibly complex or cognitively inaccessible.
+Our confidence in self-knowledge of agency exemplifies how parsimony can mislead. The experience of transparency to ourselves as agents is compelling, universal, and unfounded. Some truths about agency may be irreducibly complex or cognitively inaccessible.
 
 ## The Causal Interface Void Extended Inward
 
@@ -145,6 +152,8 @@ None of these conditions has been met. Four centuries of philosophy, decades of 
 - [Free Will](/topics/free-will/) — The broader context for questions of agency
 - [Agent Causation](/concepts/agent-causation/) — The philosophical concept of the self as cause
 - [The Phenomenology of Choice](/concepts/phenomenology-of-choice/) — What choosing feels like
+- [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
+- [The Creativity Void](/voids/creativity-void/) — Parallel opacity: creative process hidden, product accessible
 
 ## References
 
@@ -155,18 +164,6 @@ None of these conditions has been met. Four centuries of philosophy, decades of 
 - McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 - Nisbett, R. E., & Wilson, T. D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231-259.
 - Strawson, G. (1986). *Freedom and Belief*. Oxford University Press.
-- Haynes, J.-D., et al. (2007). "Reading hidden intentions in the human brain." *Current Biology*, 17(4), 323-328.
+- Soon, C. S., Brass, M., Heinze, H.-J., & Haynes, J.-D. (2008). "Unconscious determinants of free decisions in the human brain." *Nature Neuroscience*, 11(5), 543-545.
 - Johansson, P., et al. (2005). "Failure to detect mismatches between intention and outcome in a simple decision task." *Science*, 310(5745), 116-119.
-
-<!-- AI REFINEMENT LOG - 2026-02-02
-Changes made:
-- Added explicit caveat at start of "Phenomenology of Volitional Opacity" section acknowledging that phenomenological reports may be constructed rather than revelatory
-- Revised "sense of authorship" paragraph to note that rich phenomenology can occur even when actions have other causes
-- Added epistemological humility to "gap at initiation" paragraph about whether elusiveness reflects genuine absence or introspective failure
-- Revised "effort phenomenon" to acknowledge even effort phenomenology may be retrospectively constructed
-
-Based on pessimistic review identifying tension with introspective-opacity.md.
-Key improvement: Resolved inconsistency where volitional-opacity treated introspective reports as revelatory while introspective-opacity argues they systematically misreport.
-
-This log should be removed after human review.
--->
+- Kriegel, U. (2015). *The Varieties of Consciousness*. Oxford University Press.

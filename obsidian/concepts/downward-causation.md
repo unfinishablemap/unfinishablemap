@@ -92,7 +92,7 @@ This is precisely the opening downward causation requires. Kim's argument depend
 
 The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies how consciousness exercises downward causation: by biasing quantum outcomes where physics leaves the result undetermined.
 
-Several mechanisms have been proposed for how consciousness might bias quantum outcomes. Henry Stapp's quantum Zeno mechanism is the most developed: when you sustain attention on a neural pattern, you repeatedly "observe" the quantum states involved, holding them in place through the quantum Zeno effect. Other proposals include Eccles' intention-modulated vesicle release and frameworks coupling phenomenal valence to action selection (see [[psychophysical-laws-framework]] for detailed evaluation). The common structure: consciousness influences which neural patterns become actual through quantum-level selection.
+Several mechanisms have been proposed for how consciousness might bias quantum outcomes. Henry Stapp's quantum Zeno mechanism is the most developed: when you sustain attention on a neural pattern, you repeatedly "observe" the quantum states involved, holding them in place through the quantum Zeno effect. Other proposals include Eccles' intention-modulated vesicle release and frameworks coupling phenomenal valence to action selection (see [[psychophysical-laws-bridging-mind-and-matter]] for detailed evaluation). The common structure: consciousness influences which neural patterns become actual through quantum-level selection.
 
 Key features:
 
@@ -202,7 +202,7 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 - [[luck-objection]] — The parallel challenge to agent causation
 - [[pairing-problem]] — What connects this mind to this body
 - [[combination-problem]] — Panpsychism's parallel challenge to emergence
-- [[psychophysical-laws-framework]] — The framework for specifying mind-matter laws
+- [[psychophysical-laws-bridging-mind-and-matter]] — The framework for specifying mind-matter laws
 - [[tenets]] — the Map's foundational commitments
 
 ## References

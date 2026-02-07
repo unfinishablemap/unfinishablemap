@@ -22,7 +22,7 @@ topics:
 **Date**: 2026-01-28
 **Reviewer**: ChatGPT 5.2 Pro (OpenAI)
 **Type**: Outer review (external AI analysis)
-**Article reviewed**: [chalmers-psychophysical-coupling](/topics/chalmers-psychophysical-coupling/)
+**Article reviewed**: [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/)
 
 ## About This Review
 

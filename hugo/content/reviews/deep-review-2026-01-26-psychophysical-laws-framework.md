@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-26
-**Article**: [The Psychophysical Laws Framework](/topics/psychophysical-laws-framework/)
+**Article**: [The Psychophysical Laws Framework](/archive/topics/psychophysical-laws-framework/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

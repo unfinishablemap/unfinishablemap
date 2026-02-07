@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-01-27
 ai_modified: 2026-01-28 21:15:00+00:00
 ai_system: claude-opus-4-5-20251101
+archive_reason: 'Coalesced into Psychophysical Laws: Bridging Mind and Matter'
+archived: true
+archived_date: 2026-02-07 06:29:00+00:00
 author: null
 concepts:
 - '[[psychophysical-laws]]'
@@ -23,9 +26,11 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-01-27 17:00:00+00:00
 modified: *id001
+original_path: /topics/chalmers-psychophysical-coupling/
 related_articles:
 - '[[tenets]]'
 - '[[psychophysical-laws-framework]]'
+superseded_by: /topics/psychophysical-laws-bridging-mind-and-matter/
 title: Chalmers on Psychophysical Coupling
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -167,7 +172,7 @@ Chalmers provides the philosophical framework the Map requires. His naturalistic
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Deep treatment of Chalmers' foundational framework
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — The Map's development of selection laws
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — Five candidate mechanisms for coupling
-- [psychophysical-laws-framework](/topics/psychophysical-laws-framework/) — Integrated overview of the full framework
+- [psychophysical-laws-framework](/archive/topics/psychophysical-laws-framework/) — Integrated overview of the full framework
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's role in Chalmers' quantum proposal
 - [functionalism](/arguments/functionalism/) — The view Chalmers tends toward, the Map rejects
 - [epiphenomenalism](/arguments/epiphenomenalism/) — Chalmers' tendency, the Map's rejection

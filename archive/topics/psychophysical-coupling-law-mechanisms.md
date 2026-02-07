@@ -1,44 +1,47 @@
 ---
-ai_contribution: 100
-ai_generated_date: 2026-02-05
-ai_modified: 2026-02-06 10:21:00+00:00
-ai_system: claude-opus-4-6
-author: null
-concepts:
-- '[[psychophysical-laws]]'
-- '[[psychophysical-coupling]]'
-- '[[selection-laws]]'
-- '[[quantum-consciousness]]'
-- '[[mental-causation]]'
-- '[[decoherence]]'
-- '[[stapp-quantum-mind]]'
-- '[[attention]]'
-- '[[mental-effort]]'
+title: "Psychophysical Coupling Law Mechanisms"
+description: "Examining how consciousness might physically couple to quantum processes—from Stapp's attention-observation model to speculative qualia-basis proposals."
 created: 2026-02-05
-date: &id001 2026-02-05
-description: Examining how consciousness might physically couple to quantum processes—from
-  Stapp's attention-observation model to speculative qualia-basis proposals.
+modified: 2026-02-05
+human_modified:
+ai_modified: 2026-02-06T10:21:00+00:00
 draft: false
-human_modified: null
-last_curated: null
-last_deep_review: 2026-02-06 08:36:00+00:00
-modified: *id001
-related_articles:
-- '[[tenets]]'
-- '[[psychophysical-laws-framework]]'
-- '[[chalmers-psychophysical-coupling]]'
-- '[[attention-interface-mechanisms]]'
-- '[[psychophysical-coupling-law-mechanisms-2026-01-23]]'
-title: Psychophysical Coupling Law Mechanisms
 topics:
-- '[[hard-problem-of-consciousness]]'
-- '[[interactionist-dualism]]'
-- '[[free-will]]'
+  - "[[hard-problem-of-consciousness]]"
+  - "[[interactionist-dualism]]"
+  - "[[free-will]]"
+concepts:
+  - "[[psychophysical-laws]]"
+  - "[[psychophysical-coupling]]"
+  - "[[selection-laws]]"
+  - "[[quantum-consciousness]]"
+  - "[[mental-causation]]"
+  - "[[decoherence]]"
+  - "[[stapp-quantum-mind]]"
+  - "[[attention]]"
+  - "[[mental-effort]]"
+related_articles:
+  - "[[tenets]]"
+  - "[[psychophysical-laws-framework]]"
+  - "[[chalmers-psychophysical-coupling]]"
+  - "[[attention-interface-mechanisms]]"
+  - "[[psychophysical-coupling-law-mechanisms-2026-01-23]]"
+ai_contribution: 100
+author:
+ai_system: claude-opus-4-6
+ai_generated_date: 2026-02-05
+last_curated:
+last_deep_review: 2026-02-06T08:36:00+00:00
+archived: true
+archived_date: 2026-02-07T06:29:00+00:00
+superseded_by: "/topics/psychophysical-laws-bridging-mind-and-matter/"
+archive_reason: "Coalesced into Psychophysical Laws: Bridging Mind and Matter"
+original_path: "/topics/psychophysical-coupling-law-mechanisms/"
 ---
 
-The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet claims consciousness causally influences physical outcomes. For this claim to have empirical traction, there must be a mechanism—a specifiable pathway from phenomenal states to physical selections. Five candidate mechanisms have been proposed, but they vary enormously in precision and testability. Only two (Stapp's attention-observation model and Eccles' intention-probability model) approach the specificity required for scientific engagement. This article examines what each mechanism actually proposes at the physical level, what makes a coupling mechanism adequate, and what the current mechanistic landscape reveals about the testability of interactionist dualism.
+The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims consciousness causally influences physical outcomes. For this claim to have empirical traction, there must be a mechanism—a specifiable pathway from phenomenal states to physical selections. Five candidate mechanisms have been proposed, but they vary enormously in precision and testability. Only two (Stapp's attention-observation model and Eccles' intention-probability model) approach the specificity required for scientific engagement. This article examines what each mechanism actually proposes at the physical level, what makes a coupling mechanism adequate, and what the current mechanistic landscape reveals about the testability of interactionist dualism.
 
-For the broader framework—why [psychophysical-laws](/concepts/psychophysical-laws/) are needed, how supervenience laws differ from [selection-laws](/concepts/selection-laws/), and the four families of coupling laws—see [psychophysical-coupling](/concepts/psychophysical-coupling/) and [psychophysical-laws-framework](/topics/psychophysical-laws-framework/).
+For the broader framework—why [[psychophysical-laws]] are needed, how supervenience laws differ from [[selection-laws]], and the four families of coupling laws—see [[psychophysical-coupling]] and [[psychophysical-laws-framework]].
 
 ## What Makes a Mechanism Adequate?
 
@@ -98,7 +101,7 @@ Eccles identifies each of approximately 40 million dendrons (fundamental neural 
 
 **Testable predictions**: Eccles cited Libet's timing experiments as supporting evidence. The intention to move precedes the movement by about 200ms, with preparatory neural activity (readiness potential) detectable even earlier. Voluntary and involuntary movements should show different patterns of vesicle release probability in motor cortex—a prediction that current neuroscience methods cannot directly test at the individual-synapse level but that future techniques might address.
 
-**The major objection** is the [pairing-problem](/concepts/pairing-problem/): how does an immaterial psychon locate a specific dendron? If mental entities lack spatial properties, they cannot stand in spatial relations to neural structures. Eccles' one-to-one psychon-dendron pairing assumes a spatial relationship the framework cannot justify. This is a version of the classical interaction problem that Descartes faced with the pineal gland—but relocated to 40 million synaptic interfaces rather than one anatomical structure.
+**The major objection** is the [[pairing-problem]]: how does an immaterial psychon locate a specific dendron? If mental entities lack spatial properties, they cannot stand in spatial relations to neural structures. Eccles' one-to-one psychon-dendron pairing assumes a spatial relationship the framework cannot justify. This is a version of the classical interaction problem that Descartes faced with the pineal gland—but relocated to 40 million synaptic interfaces rather than one anatomical structure.
 
 ## The Three Underdeveloped Candidates
 
@@ -138,7 +141,7 @@ This tiering matters for calibrating the Map's claims. When the Map claims consc
 
 Even if each candidate mechanism operates independently, a complete coupling law would need to explain how they relate. Consciousness doesn't deploy attention, intention, valence, and qualitative character through separate channels. Willing an action while attending to it while experiencing its felt quality is a unified phenomenon. Any adequate coupling law must eventually address this convergence—how multiple phenomenal dimensions couple to physical selection through a single conscious act.
 
-This convergence problem connects to [phenomenal-unity](/concepts/phenomenal-unity/): the unity of experience may not be decomposable into separate coupling channels. If so, the five-candidate analysis is a useful decomposition for research purposes but may not correspond to how coupling actually works. The coupling law might turn out to be a single principle operating across all phenomenal dimensions, with the five candidates representing different projections of one underlying mechanism.
+This convergence problem connects to [[phenomenal-unity]]: the unity of experience may not be decomposable into separate coupling channels. If so, the five-candidate analysis is a useful decomposition for research purposes but may not correspond to how coupling actually works. The coupling law might turn out to be a single principle operating across all phenomenal dimensions, with the five candidates representing different projections of one underlying mechanism.
 
 Such convergence would be theoretically satisfying—it would move toward the "t-shirt problem" solution Chalmers seeks, a compact systematisation rather than an ad hoc list. But it remains speculative. Current understanding permits only piecemeal analysis of separate channels.
 
@@ -146,25 +149,25 @@ Such convergence would be theoretically satisfying—it would move toward the "t
 
 The mechanistic landscape has direct implications for the Map's tenets.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** requires at least one adequate coupling mechanism. Stapp's attention-observation model currently best satisfies the specification threshold—it provides a phenomenal variable (attention/effort), a physical parameter (observation rate), a causal pathway (quantum Zeno effect), and testable predictions. However, the decoherence objection forces a difficult choice: the original Zeno version is specific and testable but may be physically impossible at neural timescales, while the post-decoherence fallback is physically more plausible but lacks discriminating predictions. The tenet's empirical credibility depends on whether future work can restore mechanistic specificity to the post-decoherence version—or develop an entirely different coupling pathway.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** requires at least one adequate coupling mechanism. Stapp's attention-observation model currently best satisfies the specification threshold—it provides a phenomenal variable (attention/effort), a physical parameter (observation rate), a causal pathway (quantum Zeno effect), and testable predictions. However, the decoherence objection forces a difficult choice: the original Zeno version is specific and testable but may be physically impossible at neural timescales, while the post-decoherence fallback is physically more plausible but lacks discriminating predictions. The tenet's empirical credibility depends on whether future work can restore mechanistic specificity to the post-decoherence version—or develop an entirely different coupling pathway.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is reflected in the character of all five candidates. Each proposes *biasing* quantum outcomes rather than overriding physical law. Stapp modulates observation frequency; Eccles modulates tunneling probability; none injects energy or violates conservation. The ~10 bits/second bandwidth constraint on conscious processing further enforces minimality—selection operates at the policy level, not the individual-neuron level.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** is reflected in the character of all five candidates. Each proposes *biasing* quantum outcomes rather than overriding physical law. Stapp modulates observation frequency; Eccles modulates tunneling probability; none injects energy or violates conservation. The ~10 bits/second bandwidth constraint on conscious processing further enforces minimality—selection operates at the policy level, not the individual-neuron level.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** makes selection mechanisms meaningful. If all quantum outcomes actualise in parallel branches (as MWI holds), coupling mechanisms have nothing to couple *to*—there's no selection because everything happens. The mechanisms described here assume genuine collapse: consciousness selects one outcome that becomes actual while alternatives are precluded. The debate between collapse interpretations and MWI is therefore not peripheral to the coupling question—it's foundational.
+**[[tenets#^no-many-worlds|No Many Worlds]]** makes selection mechanisms meaningful. If all quantum outcomes actualise in parallel branches (as MWI holds), coupling mechanisms have nothing to couple *to*—there's no selection because everything happens. The mechanisms described here assume genuine collapse: consciousness selects one outcome that becomes actual while alternatives are precluded. The debate between collapse interpretations and MWI is therefore not peripheral to the coupling question—it's foundational.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly to the t-shirt problem. The absence of a compact coupling law doesn't entail that no law exists. Physics took centuries to reach F=ma; consciousness science is younger. The specification problem may also reflect genuine cognitive limitations—perhaps psychophysical coupling involves concepts our minds aren't built to grasp, in which case the difficulty is epistemological rather than metaphysical.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies directly to the t-shirt problem. The absence of a compact coupling law doesn't entail that no law exists. Physics took centuries to reach F=ma; consciousness science is younger. The specification problem may also reflect genuine cognitive limitations—perhaps psychophysical coupling involves concepts our minds aren't built to grasp, in which case the difficulty is epistemological rather than metaphysical.
 
 ## Further Reading
 
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — The coupling law problem, candidate law families, and comparative analysis
-- [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws
-- [psychophysical-laws-framework](/topics/psychophysical-laws-framework/) — Integrated overview including supervenience and selection laws
-- [chalmers-psychophysical-coupling](/topics/chalmers-psychophysical-coupling/) — Chalmers' framework and his 2022 quantum development with McQueen
-- [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of Stapp's attention-observation mechanism
-- [attention-interface-mechanisms](/topics/attention-interface-mechanisms/) — Where in the brain coupling might occur
-- [decoherence](/concepts/decoherence/) — The physics objection and biological quantum effects
-- [mental-effort](/concepts/mental-effort/) — The phenomenology of effort central to Stapp's model
-- [tenets](/tenets/) — The Map's foundational commitments
+- [[psychophysical-coupling]] — The coupling law problem, candidate law families, and comparative analysis
+- [[selection-laws]] — The downward direction of psychophysical laws
+- [[psychophysical-laws-framework]] — Integrated overview including supervenience and selection laws
+- [[chalmers-psychophysical-coupling]] — Chalmers' framework and his 2022 quantum development with McQueen
+- [[stapp-quantum-mind]] — Detailed treatment of Stapp's attention-observation mechanism
+- [[attention-interface-mechanisms]] — Where in the brain coupling might occur
+- [[decoherence]] — The physics objection and biological quantum effects
+- [[mental-effort]] — The phenomenology of effort central to Stapp's model
+- [[tenets]] — The Map's foundational commitments
 
 ## References
 

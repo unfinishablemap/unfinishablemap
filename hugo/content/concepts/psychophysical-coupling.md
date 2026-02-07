@@ -171,7 +171,7 @@ The quantum Zeno effect—experimentally verified—shows that rapid repeated ob
 
 **Major objection**: Decoherence timescale. Monte Carlo simulations by Georgiev (2015) showed the quantum Zeno effect breaks down for timescales exceeding brain decoherence time.
 
-**Possible response**: Consciousness could bias outcome selection *after* decoherence, at the point where physics leaves the outcome undetermined. This shifts the mechanism from "Zeno-freezing superpositions" to "selecting among decoherence-produced alternatives"—less exotic but still causally efficacious. The cost is real: this post-decoherence version generates fewer unique predictions, since selecting among physically possible outcomes is harder to distinguish empirically from stochastic processes. See [psychophysical-coupling-law-mechanisms](/topics/psychophysical-coupling-law-mechanisms/) for detailed analysis.
+**Possible response**: Consciousness could bias outcome selection *after* decoherence, at the point where physics leaves the outcome undetermined. This shifts the mechanism from "Zeno-freezing superpositions" to "selecting among decoherence-produced alternatives"—less exotic but still causally efficacious. The cost is real: this post-decoherence version generates fewer unique predictions, since selecting among physically possible outcomes is harder to distinguish empirically from stochastic processes. See [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) for detailed analysis.
 
 ### 2. Intention as Probability Weighting {#intention}
 
@@ -342,7 +342,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework requiring coupling laws
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of attention-observation mechanism
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy of how consciousness might couple: basis, timing, or probability control
-- [psychophysical-coupling-law-mechanisms](/topics/psychophysical-coupling-law-mechanisms/) — Detailed mechanistic analysis of the five candidate coupling mechanisms
+- [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Detailed mechanistic analysis of the five candidate coupling mechanisms
 - [decoherence](/concepts/decoherence/) — The main physics objection and responses
 - [illusionism](/concepts/illusionism/) — The deflationary alternative
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence for attention phenomenology

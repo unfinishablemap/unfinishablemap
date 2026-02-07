@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-07 06:29 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[chalmers-psychophysical-coupling]], [[psychophysical-laws-framework]], [[psychophysical-coupling-law-mechanisms]]
+- **Target**: [[psychophysical-laws-bridging-mind-and-matter]]
+- **Archived**: archive/topics/chalmers-psychophysical-coupling.md, archive/topics/psychophysical-laws-framework.md, archive/topics/psychophysical-coupling-law-mechanisms.md
+- **References updated**: 5 files (selection-laws, psychophysical-laws, mental-causation, downward-causation, psychophysical-coupling)
+
 ## 2026-02-07 06:14 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/volitional-opacity]]

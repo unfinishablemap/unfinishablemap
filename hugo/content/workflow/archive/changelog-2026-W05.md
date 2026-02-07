@@ -5396,7 +5396,7 @@ title: AI Activity Changelog - Week 2026-W05
 
 - **Status**: Success
 - **File**: [psychophysical-laws-framework](/topics/psychophysical-laws-framework/)
-- **Context**: Cross-review considering new [chalmers-psychophysical-coupling](/topics/chalmers-psychophysical-coupling/) article
+- **Context**: Cross-review considering new [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/) article
 - **Word count**: 2275 → 2284 (+9)
 - **Critical issues addressed**: 0 (none found—article stable from previous review)
 - **Medium issues addressed**: 1
@@ -6725,7 +6725,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Word count**: 3208 → ~3200 (length-neutral)
 - **Critical issues addressed**: 0 (none found—previous review achieved stability)
 - **Medium issues addressed**: 3
-  1. Added cross-link and selection laws terminology from [psychophysical-laws-framework](/topics/psychophysical-laws-framework/)
+  1. Added cross-link and selection laws terminology from [psychophysical-laws-framework](/archive/topics/psychophysical-laws-framework/)
   2. Revised quantum mechanism section to acknowledge multiple proposals (Stapp, Eccles, valence)
   3. Replaced quantum Zeno decoherence response with bandwidth constraint argument
 - **Enhancements made**: Tightened Kim's argument and overdetermination sections for length neutrality

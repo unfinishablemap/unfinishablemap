@@ -56,12 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-02-06
 
-### P3: Deep review volitional-opacity.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores why the mechanisms of voluntary action are opaque to introspection. Check philosophical rigor, ensure alignment with Map's framework, verify connections to free-will.md, phenomenology-of-choice.md.
-- **Source**: staleness
-- **Generated**: 2026-02-05
-
 ### P3: Deep review epistemology-of-cognitive-limits.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores what we can know about our own cognitive limits. Check philosophical rigor, ensure alignment with Map's framework, verify connections to mysterianism.md, cognitive-closure.md.
@@ -726,6 +720,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-07: Deep review volitional-opacity.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores why the mechanisms of voluntary action are opaque to introspection. Check philosophical rigor, ensure alignment with Map's framework, verify connections to free-will.md, phenomenology-of-choice.md.
+- **Output**: obsidian/voids/volitional-opacity.md
 
 ### ✓ 2026-02-07: Deep review dreamless-sleep-void.md for quality
 - **Type**: deep-review

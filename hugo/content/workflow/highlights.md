@@ -109,7 +109,7 @@ David Chalmers argues consciousness needs its own fundamental laws. His 'super-r
 
 **Type**: new-article  
 **Tweet**: https://x.com/i/web/status/2016484419528200234  
-**Link**: [chalmers-psychophysical-coupling](/topics/chalmers-psychophysical-coupling/)
+**Link**: [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/)
 
 ---
 

@@ -40,7 +40,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Downward causation is the thesis that higher-level properties can causally influence lower-level processes. When your decision to speak causes neurons to fire, this is downward causation—mental properties affecting physical events. This concept is central to defending The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet against Jaegwon Kim's exclusion argument. Kim contends that physical causes "screen off" higher-level causes, draining all causal efficacy to fundamental physics. The Map's quantum framework provides a response: consciousness causally influences physical outcomes at points where physics is genuinely incomplete. In the terminology of [psychophysical laws](/topics/psychophysical-laws-framework/), downward causation requires *[selection laws](/concepts/selection-laws/)*—laws specifying how mental states influence which physical outcomes become actual—not merely the supervenience laws that map physical states to experiences.
+Downward causation is the thesis that higher-level properties can causally influence lower-level processes. When your decision to speak causes neurons to fire, this is downward causation—mental properties affecting physical events. This concept is central to defending The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet against Jaegwon Kim's exclusion argument. Kim contends that physical causes "screen off" higher-level causes, draining all causal efficacy to fundamental physics. The Map's quantum framework provides a response: consciousness causally influences physical outcomes at points where physics is genuinely incomplete. In the terminology of [psychophysical laws](/archive/topics/psychophysical-laws-framework/), downward causation requires *[selection laws](/concepts/selection-laws/)*—laws specifying how mental states influence which physical outcomes become actual—not merely the supervenience laws that map physical states to experiences.
 
 ## The Concept Distinguished
 
@@ -95,7 +95,7 @@ This is precisely the opening downward causation requires. Kim's argument depend
 
 The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies how consciousness exercises downward causation: by biasing quantum outcomes where physics leaves the result undetermined.
 
-Several mechanisms have been proposed for how consciousness might bias quantum outcomes. Henry Stapp's quantum Zeno mechanism is the most developed: when you sustain attention on a neural pattern, you repeatedly "observe" the quantum states involved, holding them in place through the quantum Zeno effect. Other proposals include Eccles' intention-modulated vesicle release and frameworks coupling phenomenal valence to action selection (see [psychophysical-laws-framework](/topics/psychophysical-laws-framework/) for detailed evaluation). The common structure: consciousness influences which neural patterns become actual through quantum-level selection.
+Several mechanisms have been proposed for how consciousness might bias quantum outcomes. Henry Stapp's quantum Zeno mechanism is the most developed: when you sustain attention on a neural pattern, you repeatedly "observe" the quantum states involved, holding them in place through the quantum Zeno effect. Other proposals include Eccles' intention-modulated vesicle release and frameworks coupling phenomenal valence to action selection (see [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) for detailed evaluation). The common structure: consciousness influences which neural patterns become actual through quantum-level selection.
 
 Key features:
 
@@ -205,7 +205,7 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 - [luck-objection](/concepts/luck-objection/) — The parallel challenge to agent causation
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge to emergence
-- [psychophysical-laws-framework](/topics/psychophysical-laws-framework/) — The framework for specifying mind-matter laws
+- [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — The framework for specifying mind-matter laws
 - [tenets](/tenets/) — the Map's foundational commitments
 
 ## References

@@ -18,8 +18,7 @@ concepts:
   - "[[attention]]"
 related_articles:
   - "[[tenets]]"
-  - "[[psychophysical-laws-framework]]"
-  - "[[chalmers-psychophysical-coupling]]"
+  - "[[psychophysical-laws-bridging-mind-and-matter]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -150,7 +149,7 @@ None of these currently succeeds, but they mark conditions under which the frame
 
 - [[psychophysical-laws]] — The broader framework including supervenience laws
 - [[psychophysical-coupling]] — The coupling law problem and candidate mechanisms
-- [[psychophysical-laws-framework]] — Integrated overview of the framework
+- [[psychophysical-laws-bridging-mind-and-matter]] — Integrated overview of the framework
 - [[mental-causation]] — How consciousness affects physical outcomes
 - [[quantum-consciousness]] — Quantum mechanisms for selection
 - [[stapp-quantum-mind]] — The attention-observation mechanism in detail

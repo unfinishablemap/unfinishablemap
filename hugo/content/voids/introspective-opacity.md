@@ -26,6 +26,7 @@ related_articles:
 - '[[thoughts-that-slip-away]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[self-reference-paradox]]'
+- '[[volitional-opacity]]'
 title: Introspective Opacity
 topics:
 - '[[philosophy-of-mind]]'

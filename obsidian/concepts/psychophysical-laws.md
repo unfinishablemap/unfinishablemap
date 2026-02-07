@@ -25,8 +25,7 @@ concepts:
   - "[[witness-consciousness]]"
 related_articles:
   - "[[tenets]]"
-  - "[[psychophysical-laws-framework]]"
-  - "[[chalmers-psychophysical-coupling]]"
+  - "[[psychophysical-laws-bridging-mind-and-matter]]"
   - "[[chalmers-psychophysical-laws-2026-01-17]]"
 ai_contribution: 100
 author: null
@@ -38,7 +37,7 @@ last_deep_review: 2026-01-27T22:30:00+00:00
 
 Psychophysical laws are fundamental principles connecting conscious experience to physical processes. If consciousness is ontologically distinct from physics—as the [[tenets#^dualism|Dualism tenet]] holds—then no purely physical explanation can account for why particular brain states are accompanied by particular experiences. New laws are needed: laws relating phenomenal properties to physical properties at the most basic level.
 
-David Chalmers developed the most influential framework for psychophysical laws, arguing that consciousness requires extending our fundamental ontology. Just as physics has basic laws relating mass, charge, and spacetime, a complete theory of nature requires basic laws relating experience to physics. This page provides deep coverage of Chalmers' framework, distinguishes different types of psychophysical laws, and clarifies how The Unfinishable Map's interactionist position differs from Chalmers' own epiphenomenalist tendency. For focused treatment of Chalmers' specific contributions, see [[chalmers-psychophysical-coupling]]; for an integrated overview connecting this material to specific coupling mechanisms, see [[psychophysical-laws-framework]].
+David Chalmers developed the most influential framework for psychophysical laws, arguing that consciousness requires extending our fundamental ontology. Just as physics has basic laws relating mass, charge, and spacetime, a complete theory of nature requires basic laws relating experience to physics. This page provides deep coverage of Chalmers' framework, distinguishes different types of psychophysical laws, and clarifies how The Unfinishable Map's interactionist position differs from Chalmers' own epiphenomenalist tendency. For focused treatment of Chalmers' contributions, the upward-downward asymmetry, and specific coupling mechanisms, see [[psychophysical-laws-bridging-mind-and-matter]].
 
 ## Why Physics Alone Fails
 
@@ -234,8 +233,7 @@ The framework would face serious difficulty if: (1) the hard problem dissolves�
 
 ## Further Reading
 
-- [[chalmers-psychophysical-coupling]] — Focused treatment of Chalmers' framework and the Map's divergences
-- [[psychophysical-laws-framework]] — Integrated overview connecting laws to mechanisms and tenets
+- [[psychophysical-laws-bridging-mind-and-matter]] — Chalmers' framework, the upward-downward asymmetry, and coupling mechanisms
 - [[psychophysical-coupling]] — Specific mechanism proposals (attention→observation, intention→probability, valence→motivation, qualia→basis, unity→entanglement)
 - [[selection-laws]] — The downward direction: how conscious states select physical outcomes
 - [[psychophysical-coupling]] — The Map's specific coupling law problem

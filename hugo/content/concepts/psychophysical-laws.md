@@ -30,8 +30,7 @@ last_deep_review: 2026-01-27 22:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[psychophysical-laws-framework]]'
-- '[[chalmers-psychophysical-coupling]]'
+- '[[psychophysical-laws-bridging-mind-and-matter]]'
 - '[[chalmers-psychophysical-laws-2026-01-17]]'
 title: Psychophysical Laws
 topics:
@@ -40,7 +39,7 @@ topics:
 
 Psychophysical laws are fundamental principles connecting conscious experience to physical processes. If consciousness is ontologically distinct from physics—as the [Dualism tenet](/tenets/#dualism) holds—then no purely physical explanation can account for why particular brain states are accompanied by particular experiences. New laws are needed: laws relating phenomenal properties to physical properties at the most basic level.
 
-David Chalmers developed the most influential framework for psychophysical laws, arguing that consciousness requires extending our fundamental ontology. Just as physics has basic laws relating mass, charge, and spacetime, a complete theory of nature requires basic laws relating experience to physics. This page provides deep coverage of Chalmers' framework, distinguishes different types of psychophysical laws, and clarifies how The Unfinishable Map's interactionist position differs from Chalmers' own epiphenomenalist tendency. For focused treatment of Chalmers' specific contributions, see [chalmers-psychophysical-coupling](/topics/chalmers-psychophysical-coupling/); for an integrated overview connecting this material to specific coupling mechanisms, see [psychophysical-laws-framework](/topics/psychophysical-laws-framework/).
+David Chalmers developed the most influential framework for psychophysical laws, arguing that consciousness requires extending our fundamental ontology. Just as physics has basic laws relating mass, charge, and spacetime, a complete theory of nature requires basic laws relating experience to physics. This page provides deep coverage of Chalmers' framework, distinguishes different types of psychophysical laws, and clarifies how The Unfinishable Map's interactionist position differs from Chalmers' own epiphenomenalist tendency. For focused treatment of Chalmers' contributions, the upward-downward asymmetry, and specific coupling mechanisms, see [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/).
 
 ## Why Physics Alone Fails
 
@@ -168,7 +167,7 @@ The Map incorporates the ~10 bits/second limitation on conscious processing. Wha
 
 ### Haecceity and Organizational Invariance
 
-The Map's rejection of organizational invariance connects to [haecceity](/concepts/haecceity/)—the primitive "thisness" of particular conscious subjects. Chalmers holds that functional duplicates have identical experiences; the Map holds that the particular subject matters. Two systems could share all functional properties yet differ in which consciousness accompanies them. Organizational invariance treats consciousness as a pattern; the Map treats it as a particular. See [chalmers-psychophysical-coupling](/topics/chalmers-psychophysical-coupling/#organizational-invariance) for the full argument.
+The Map's rejection of organizational invariance connects to [haecceity](/concepts/haecceity/)—the primitive "thisness" of particular conscious subjects. Chalmers holds that functional duplicates have identical experiences; the Map holds that the particular subject matters. Two systems could share all functional properties yet differ in which consciousness accompanies them. Organizational invariance treats consciousness as a pattern; the Map treats it as a particular. See [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/#organizational-invariance) for the full argument.
 
 ## The Illusionist Challenge
 
@@ -232,12 +231,11 @@ Chalmers provides the philosophical framework; the Map develops the operational 
 
 ## What Would Challenge This View?
 
-The framework would face serious difficulty if: (1) the hard problem dissolves—if neuroscience explains our *belief* in consciousness without invoking phenomenal properties; (2) quantum mechanisms prove unavailable at neural scales, removing the Map's proposed pathway for downward causation; (3) organizational invariance is demonstrated through successful consciousness uploading, undermining the Map's rejection of functionalism; (4) many-worlds interpretation is confirmed, reducing selection laws to indexical uncertainty; or (5) the ~10 bits/second bandwidth constraint proves incompatible with any quantum selection mechanism. See [psychophysical-laws-framework](/topics/psychophysical-laws-framework/#what-would-challenge-this-view) for extended discussion.
+The framework would face serious difficulty if: (1) the hard problem dissolves—if neuroscience explains our *belief* in consciousness without invoking phenomenal properties; (2) quantum mechanisms prove unavailable at neural scales, removing the Map's proposed pathway for downward causation; (3) organizational invariance is demonstrated through successful consciousness uploading, undermining the Map's rejection of functionalism; (4) many-worlds interpretation is confirmed, reducing selection laws to indexical uncertainty; or (5) the ~10 bits/second bandwidth constraint proves incompatible with any quantum selection mechanism. See [psychophysical-laws-framework](/archive/topics/psychophysical-laws-framework/#what-would-challenge-this-view) for extended discussion.
 
 ## Further Reading
 
-- [chalmers-psychophysical-coupling](/topics/chalmers-psychophysical-coupling/) — Focused treatment of Chalmers' framework and the Map's divergences
-- [psychophysical-laws-framework](/topics/psychophysical-laws-framework/) — Integrated overview connecting laws to mechanisms and tenets
+- [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Chalmers' framework, the upward-downward asymmetry, and coupling mechanisms
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — Specific mechanism proposals (attention→observation, intention→probability, valence→motivation, qualia→basis, unity→entanglement)
 - [selection-laws](/concepts/selection-laws/) — The downward direction: how conscious states select physical outcomes
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — The Map's specific coupling law problem
