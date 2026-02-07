@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-07 01:26 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/dreams-problem-solving-and-consciousness]]
+- **Changes**: Qualified "Dreams solve problems" → "Dreams may solve"; added N=20 sample size context and replication caveats; "proves" → "demonstrates"; expanded epiphenomenalist challenge to acknowledge incorporation correlation admits both readings; softened Relation to Site Perspective for consistency; updated description
+- **Published**: yes
+
 ## 2026-02-07 01:11 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/eastern-philosophy-consciousness.md, topics/dreams-problem-solving-and-consciousness.md, concepts/phenomenological-evidence.md, concepts/philosophy-of-mind.md, voids/nomic-void.md

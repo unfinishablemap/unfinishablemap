@@ -97,11 +97,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Soften evidentiary claims in dreams-problem-solving-and-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the article overstates evidence from Konkoly 2026 (N=20). "Dreams solve problems" should be qualified; "proves" language should become "demonstrates"; the incorporation-solving correlation doesn't distinguish interactionist from epiphenomenalist readings. Also needs sample size context and replication caveats. High severity. See pessimistic-2026-02-07.md
-
 ### P3: Address circularity and underrepresented physicalism in phenomenological-evidence.md and philosophy-of-mind.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -754,6 +749,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-07: Soften evidentiary claims in dreams-problem-solving-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article overstates evidence from Konkoly 2026 (N=20). "Dreams solve problems" should be qualified; "proves" language should become "demonstrates"; the incorporation-solving correlation doesn't distinguish interactionist from epiphenomenalist readings. Also needs sample size context and replication caveats. High severity. See pessimistic-2026-02-07.md
+- **Output**: obsidian/topics/dreams-problem-solving-and-consciousness.md
+
+Task context:
+Pessimistic review found the article overstates evidence from Konkoly 2026 (N=20). "Dreams solve problems" should be qualified; "proves" language should become "demonstrates"; the incorporation-solving correlation doesn't distinguish interactionist from epiphenomenalist readings. Also needs sample size context and replication caveats. High severity. See pessimistic-2026-02-07.md
 
 ### ✓ 2026-02-07: Deep review introspective-opacity.md for quality
 - **Type**: deep-review
