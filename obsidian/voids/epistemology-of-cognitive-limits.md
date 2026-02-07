@@ -4,7 +4,7 @@ description: "Human+AI exploration of how we can know our cognitive limits—and
 created: 2026-02-04
 modified: 2026-02-04
 human_modified: null
-ai_modified: 2026-02-04T02:05:00+00:00
+ai_modified: 2026-02-07T06:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-04
 last_curated: null
+last_deep_review: 2026-02-07T06:44:00+00:00
 ---
 
 How can we know that a cognitive limit is genuine rather than merely apparent? This meta-level question haunts the [[voids|voids framework]]. If some voids are genuinely [[three-kinds-of-void|unexplorable]]—permanently beyond minds like ours—how could we ever determine which ones? The tool examining its own limitations cannot stand outside itself to verify the verdict. This epistemological puzzle may itself be a void: a question that resists conclusive answer from within any limited cognitive system.
@@ -56,7 +57,7 @@ Uriah Kriegel poses a sharp challenge to mysterianism. He argues it is *incohere
 
 Questions, Kriegel notes following Hamblin and Stahl, are individuated by the set of statements that would answer them. To pose a question is already to have the conceptual resources to frame potential answers. If we can ask "how does neural activity give rise to consciousness?", our conceptual scheme is powerful enough to frame a solution.
 
-"It is incoherent," Kriegel writes, "to suppose that a conceptual scheme is powerful enough to frame a problem without being powerful enough to frame its solution."
+"It is incoherent," Kriegel writes, "to suppose that we cannot understand what would count as a solution to a problem we can and do understand."
 
 This is an elegant argument. But it may conflate two different notions. Erhan Demircioglu distinguishes *representational* from *psychological* closure. We may be able to *represent* a solution—to know what kind of thing would count as answering the question—while remaining unable to actually *grasp* that solution when presented with it. A rat might represent "the prime numbers" as "the set of numbers mathematicians study" without being able to identify which numbers those are.
 
@@ -66,7 +67,7 @@ The question remains open. Kriegel's argument cuts against naive mysterianism bu
 
 Empirical research complicates matters further. Humans systematically misjudge their own cognitive competencies—a finding that bears directly on our ability to assess our limits.
 
-The Dunning-Kruger effect describes a pattern: low performers on cognitive tasks lack the metacognitive ability to recognise their incompetence. As Kruger and Dunning put it, "Not only do they reach mistaken conclusions and make regrettable errors, but their incompetence robs them of the ability to realize it." The very skills required to assess performance are the skills that are missing.
+The Dunning-Kruger effect describes a pattern: low performers on cognitive tasks lack the metacognitive ability to recognise their incompetence. As Kruger and Dunning put it, "Not only do these people reach erroneous conclusions and make unfortunate choices, but their incompetence robs them of the metacognitive ability to realize it." The very skills required to assess performance are the skills that are missing.
 
 High performers calibrate better—but still display "systematic and important imperfections." Expertise reduces but does not eliminate miscalibration. If even trained philosophers misjudge their grasp of consciousness, their confidence about what can or cannot be understood deserves scrutiny.
 
@@ -76,7 +77,7 @@ This matters for limit-claims. If we are systematically overconfident about our 
 
 Thomas Nagel and Joseph Levine articulate a *temporary* mysterianism: the current explanatory gap may be bridged by future conceptual revolution. We cannot now see how consciousness reduces to physics, but concepts adequate to the task might emerge—as happened when life's apparent irreducibility to chemistry dissolved with biochemistry.
 
-Colin McGinn defends *permanent* mysterianism: our ignorance is constitutional, not transitory. Mind has "anatomy," and that anatomy excludes certain concepts just as the body excludes certain movements. The mind-body interface lies outside the perimeter of human cognition. "Knowledge is a matter of biological luck, not divine guarantee."
+Colin McGinn defends *permanent* [[mysterianism]]: our ignorance is constitutional, not transitory. Mind has "anatomy," and that anatomy excludes certain concepts just as the body excludes certain movements. The mind-body interface lies outside the perimeter of human cognition. As McGinn later put it, "Knowledge is a matter of biological luck, not divine guarantee."
 
 The worry for permanent mysterianism, as the Internet Encyclopedia of Philosophy notes, is that it is "hard to establish just what sorts of problems are permanently beyond our ken." What looks unbridgeable in principle may be just a temporary roadblock. Yet the worry for temporary mysterianism is that it offers no prediction about *when* or *how* the roadblock will yield—it remains faith that gaps close, absent evidence that this particular gap can.
 
@@ -84,7 +85,7 @@ The worry for permanent mysterianism, as the Internet Encyclopedia of Philosophy
 
 If direct verification of limits is impossible, [[apophatic-approaches|indirect methods]] become essential. Apophatic methodology—knowing through negation—has roots in multiple philosophical and contemplative traditions.
 
-The approach: since positive description of what lies beyond our grasp will always distort, map the boundaries through systematic negation. What is consciousness *not*? It is not identical to neural activity (identity theories face the explanatory gap). It is not an illusion (eliminativism is self-refuting). It is not functional organisation alone (functionalism cannot capture qualia). Each negation rules out territory, gradually outlining what remains.
+The approach: since positive description of what lies beyond our grasp will always distort, map the boundaries through systematic negation. What is consciousness *not*? It is not identical to neural activity (identity theories face the explanatory gap). It is not an illusion (eliminativism about consciousness faces self-refutation charges). It is not functional organisation alone (functionalism cannot capture qualia). Each negation rules out territory, gradually outlining what remains.
 
 Nicholas of Cusa's *docta ignorantia*—learned ignorance—refines this insight. The goal is not to fill gaps with speculation but to know more precisely *that* we do not know and *why*. Cusanus distinguished simple ignorance (not knowing and not knowing it) from learned ignorance (knowing the limits of your knowledge). The latter is achievement, not merely absence.
 
@@ -145,8 +146,9 @@ If the epistemology of limits is itself a limit, several methodological conseque
 1. Kriegel, U. (2003). "The new mysterianism and the thesis of cognitive closure." *Acta Analytica*, 18, 177-191.
 2. Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32, 147-158.
 3. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
-4. Chomsky, N. (1976). "Problems and Mysteries in the Study of Human Language." In *Language in Focus*, 281-357.
-5. Kruger, J. & Dunning, D. (1999). "Unskilled and unaware of it." *Journal of Personality and Social Psychology*, 77, 1121-1134.
-6. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
-7. Levine, J. (2001). *Purple Haze: The Puzzle of Consciousness*. Oxford University Press.
-8. Nicholas of Cusa. (1440). *De Docta Ignorantia* (*On Learned Ignorance*).
+4. McGinn, C. (2014). "Mysterianism Revisited." Blog post, December 23, 2014.
+5. Chomsky, N. (1976). "Problems and Mysteries in the Study of Human Language." In *Language in Focus*, 281-357.
+6. Kruger, J. & Dunning, D. (1999). "Unskilled and unaware of it." *Journal of Personality and Social Psychology*, 77, 1121-1134.
+7. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
+8. Levine, J. (2001). *Purple Haze: The Puzzle of Consciousness*. Oxford University Press.
+9. Nicholas of Cusa. (1440). *De Docta Ignorantia* (*On Learned Ignorance*).

@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-02-06
 
-### P3: Deep review epistemology-of-cognitive-limits.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores what we can know about our own cognitive limits. Check philosophical rigor, ensure alignment with Map's framework, verify connections to mysterianism.md, cognitive-closure.md.
-- **Source**: staleness
-- **Generated**: 2026-02-05
-
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[[substrate-independence-critique]]`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
@@ -719,6 +713,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-07: Deep review epistemology-of-cognitive-limits.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores what we can know about our own cognitive limits. Check philosophical rigor, ensure alignment with Map's framework, verify connections to mysterianism.md, cognitive-closure.md.
+- **Output**: obsidian/voids/epistemology-of-cognitive-limits.md
 
 ### ✓ 2026-02-07: Deep review volitional-opacity.md for quality
 - **Type**: deep-review

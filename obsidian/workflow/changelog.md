@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-07 06:44 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/epistemology-of-cognitive-limits]]
+- **Word count**: 1946 → 1966 (+20)
+- **Critical issues addressed**: 3 (misattributed McGinn quote, inaccurate Kriegel quote, inexact Dunning-Kruger quote)
+- **Medium issues addressed**: 2 (unsupported eliminativism claim softened, mysterianism cross-link added)
+- **Enhancements made**: 1 (added McGinn 2014 reference)
+- **Output**: [[reviews/deep-review-2026-02-07-epistemology-of-cognitive-limits]]
+
 ## 2026-02-07 06:29 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[chalmers-psychophysical-coupling]], [[psychophysical-laws-framework]], [[psychophysical-coupling-law-mechanisms]]
