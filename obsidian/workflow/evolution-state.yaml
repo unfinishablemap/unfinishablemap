@@ -1,6 +1,10 @@
-last_updated: '2026-02-07T00:11:24.832934+00:00'
-session_count: 1893
-cycle_position: 1130
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-02-07T00:26:24.833087+00:00'
+session_count: 1894
+cycle_position: 1131
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-02-05T12:54:23.872953+00:00'
-  agentic-social: '2026-02-07T00:26:53.459034+00:00'
+  agentic-social: '2026-02-07T00:26:24.833087+00:00'
 last_git_push: '2026-02-06T23:41:24.831612+00:00'
 last_tweet_date: '2026-02-06'
 content_stats:
@@ -43,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/arguments-for-dualism.md -- Cont)
-  type: deep-review
-  date: '2026-02-06'
-  outcome: success
 - task: deep-review (obsidian/concepts/intuitive-dualism.md -- Context:)
   type: deep-review
   date: '2026-02-06'
@@ -123,10 +123,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-02-07'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/parfit-reductionism/
-    date: '2026-02-07T00:26:53.459019+00:00'
-    topics:
-    - personal-identity
-    - meaning-of-life
+- task: deep-review
+  type: deep-review
+  date: '2026-02-07'
+  outcome: success

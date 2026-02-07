@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-02-06
 
-### P3: Deep review emergence-void.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the void at the concept of emergence—what cannot be explained by appealing to emergence. Check philosophical rigor, ensure alignment with Map's dualist framework.
-- **Source**: staleness
-- **Generated**: 2026-02-06
-
 ### P3: Deep review introspective-opacity.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the limits of introspective access—what remains opaque to self-observation. Check philosophical rigor, ensure alignment with Map's framework, verify connections to introspection.md, volitional-opacity.md.
@@ -756,6 +750,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-07: Deep review emergence-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the void at the concept of emergence—what cannot be explained by appealing to emergence. Check philosophical rigor, ensure alignment with Map's dualist framework.
+- **Output**: obsidian/voids/emergence-void.md
 
 ### ✓ 2026-02-07: Address equivocation between causal efficacy and non-physicality in evolutionary-case-for-mental-causation.md
 - **Type**: refine-draft
