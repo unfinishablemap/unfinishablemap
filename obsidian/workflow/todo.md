@@ -37,6 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P0: Research adaptive computational depth in universe simulation
+- **Type**: research-topic
+- **Notes**: Investigate the idea that the universe is 'adaptive' in the level of calculation it performs to provide our experience, analogous to adaptive rendering in video games (LOD, distance-based detail reduction). Distant cosmological features may be minimally calculated until inspected more closely—a kind of cosmic level-of-detail system. Key angles: (1) the universe can be understood and simulated at multiple levels—classical physics, quantum physics, the representation of objects that humans experience—and the simulation may only compute the level needed; (2) parallels with quantum mechanics where detailed states aren't determined until measured; (3) the computational economy argument—why calculate what no observer inspects?; (4) how this relates to simulation hypothesis, digital physics, and the Map's dualist framework where consciousness drives which calculations get performed.
+
 ### P2: Update wikilinks to archived articles (interface-locality, brain-specialness, and 5 others)
 - **Type**: other
 - **Notes**: Gap analysis found 70+ broken wikilinks pointing to archived/coalesced articles. Key targets: interface-locality (34 refs, archived to concepts/), brain-specialness (6 refs), consciousness-and-quantum-measurement (11 refs), nihilism (5 refs), quantum-measurement-and-definite-outcomes (5 refs), eastern-philosophy-haecceity-tension (4 refs), meaning-and-consciousness (4 refs). Update wikilinks to point to the replacement articles these were coalesced into, or verify the archive redirect handles them.
