@@ -56,40 +56,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-02-06
 
-### P3: Deep review epistemology-of-cognitive-limits.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores what we can know about our own cognitive limits. Check philosophical rigor, ensure alignment with Map's framework, verify connections to mysterianism.md, cognitive-closure.md.
-- **Source**: staleness
-- **Generated**: 2026-02-05
-
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
 - **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
-
-### P3: Address circularity and underrepresented physicalism in phenomenological-evidence.md and philosophy-of-mind.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found two medium issues: (1) phenomenological-evidence.md validates first-person methods using first-person convergence—needs explicit circularity acknowledgment. (2) philosophy-of-mind.md as field overview underserves physicalism—eliminativism, higher-order theories, type-identity theory get minimal or no coverage. See pessimistic-2026-02-07.md
-
-### P3: Address phenomenology-to-metaphysics leap in introspection cluster
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-05 afternoon) found systematic vulnerability in intentionality-void.md, the-unobservable-self.md, and the-observer-witness-in-meditation.md. Key issues: (1) All three draw metaphysical conclusions (dualism, irreducibility) from phenomenological premises without bridging arguments—physicalist self-modeling theories explain the same phenomenology. (2) Buddhist phenomenology is cited as evidence while ignoring that Buddhist philosophy draws opposite conclusions (no-self, not uncatchable-self). (3) Introspection's reliability is questioned in the articles, yet introspective reports are treated as evidence. Lower priority as phenomenological descriptions are strong. See pessimistic-2026-02-05-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-05
-
-### P3: Deep review temporal-consciousness-void.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Covers why consciousness is confined to a moving present. Check philosophical rigor, ensure alignment with Map's framework, verify connections to temporal-consciousness.md, specious-present.md.
-- **Source**: staleness
-- **Generated**: 2026-02-05
-
-### P3: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-04 morning) found systematic vulnerabilities in mind-matter-interface.md, consciousness-selecting-neural-patterns.md, and brain-interface-boundary.md. Two high-severity issues: (1) Two-layer architecture (filter + selection) may be explanatory strategy rather than testable theory—each layer does work the other can't check. Need to explain what fails if we drop one layer. (2) Quantum Zeno mechanism central but has 10-order-of-magnitude timescale gap—Zeno requires femtosecond observations while attention operates on 100ms timescales. Need to address or acknowledge this gap. Also: filter theory evidence (psychedelics, NDEs) presented more favorably than warranted; interface criteria may be post-hoc. See pessimistic-2026-02-04-morning.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-04
 
 ### P3: Strengthen impossibility arguments in foundational voids
 - **Type**: refine-draft
@@ -720,6 +691,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-07: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-04 morning) found systematic vulnerabilities in mind-matter-interface.md, consciousness-selecting-neural-patterns.md, and brain-interface-boundary.md. Two high-severity issues: (1) Two-layer architecture (filter + selection) may be explanatory strategy rather than testable theory—each layer does work the other can't check. Need to explain what fails if we drop one layer. (2) Quantum Zeno mechanism central but has 10-order-of-magnitude timescale gap—Zeno requires femtosecond observations while attention operates on 100ms timescales. Need to address or acknowledge this gap. Also: filter theory evidence (psychedelics, NDEs) presented more favorably than warranted; interface criteria may be post-hoc. See pessimistic-2026-02-04-morning.md
+- **Output**: Task context:
+Pessimistic review (2026-02-04 morning) found systematic vulnerabilities in mind-matter-interface.md, consciousness-selecting-neural-patterns.md, and brain-interface-boundary.md. Two high-severity issues: (1) Two-layer architecture (filter + selection) may be explanatory strategy rather than testable theory—each layer does work the other can't check. Need to explain what fails if we drop one layer. (2) Quantum Zeno mechanism central but has 10-order-of-magnitude timescale gap—Zeno requires femtosecond observations while attention operates on 100ms timescales. Need to address or acknowledge this gap. Also: filter theory evidence (psychedelics, NDEs) presented more favorably than warranted; interface criteria may be post-hoc. See pessimistic-2026-02-04-morning.md
+
+### ✓ 2026-02-07: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-04 morning) found systematic vulnerabilities in mind-matter-interface.md, consciousness-selecting-neural-patterns.md, and brain-interface-boundary.md. Two high-severity issues: (1) Two-layer architecture (filter + selection) may be explanatory strategy rather than testable theory—each layer does work the other can't check. Need to explain what fails if we drop one layer. (2) Quantum Zeno mechanism central but has 10-order-of-magnitude timescale gap—Zeno requires femtosecond observations while attention operates on 100ms timescales. Need to address or acknowledge this gap. Also: filter theory evidence (psychedelics, NDEs) presented more favorably than warranted; interface criteria may be post-hoc. See pessimistic-2026-02-04-morning.md
+- **Output**: obsidian/concepts/mind-matter-interface.md, obsidian/concepts/consciousness-selecting-neural-patterns.md, obsidian/concepts/brain-interface-boundary.md
+
+### ✓ 2026-02-07: Deep review temporal-consciousness-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Covers why consciousness is confined to a moving present. Check philosophical rigor, ensure alignment with Map's framework, verify connections to temporal-consciousness.md, specious-present.md.
+- **Output**: obsidian/voids/temporal-consciousness-void.md
+
+### ✓ 2026-02-07: Address phenomenology-to-metaphysics leap in introspection cluster
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-05 afternoon) found systematic vulnerability in intentionality-void.md, the-unobservable-self.md, and the-observer-witness-in-meditation.md. Key issues: (1) All three draw metaphysical conclusions (dualism, irreducibility) from phenomenological premises without bridging arguments—physicalist self-modeling theories explain the same phenomenology. (2) Buddhist phenomenology is cited as evidence while ignoring that Buddhist philosophy draws opposite conclusions (no-self, not uncatchable-self). (3) Introspection's reliability is questioned in the articles, yet introspective reports are treated as evidence. Lower priority as phenomenological descriptions are strong. See pessimistic-2026-02-05-afternoon.md
+- **Output**: Task context:
+Pessimistic review (2026-02-05 afternoon) found systematic vulnerability in intentionality-void.md, the-unobservable-self.md, and the-observer-witness-in-meditation.md. Key issues: (1) All three draw metaphysical conclusions (dualism, irreducibility) from phenomenological premises without bridging arguments—physicalist self-modeling theories explain the same phenomenology. (2) Buddhist phenomenology is cited as evidence while ignoring that Buddhist philosophy draws opposite conclusions (no-self, not uncatchable-self). (3) Introspection's reliability is questioned in the articles, yet introspective reports are treated as evidence. Lower priority as phenomenological descriptions are strong. See pessimistic-2026-02-05-afternoon.md
+
+### ✓ 2026-02-07: Address circularity and underrepresented physicalism in phenomenological-evidence.md and philosophy-of-mind.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two medium issues: (1) phenomenological-evidence.md validates first-person methods using first-person convergence—needs explicit circularity acknowledgment. (2) philosophy-of-mind.md as field overview underserves physicalism—eliminativism, higher-order theories, type-identity theory get minimal or no coverage. See pessimistic-2026-02-07.md
+- **Output**: obsidian/concepts/phenomenological-evidence.md
+
+Task context:
+Pessimistic review found two medium issues: (1) phenomenological-evidence.md validates first-person methods using first-person convergence—needs explicit circularity acknowledgment. (2) philosophy-of-mind.md as field overview underserves physicalism—eliminativism, higher-order theories, type-identity theory get minimal or no coverage. See pessimistic-2026-02-07.md
+
+### ✓ 2026-02-07: Deep review epistemology-of-cognitive-limits.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores what we can know about our own cognitive limits. Check philosophical rigor, ensure alignment with Map's framework, verify connections to mysterianism.md, cognitive-closure.md.
+- **Output**: obsidian/voids/epistemology-of-cognitive-limits.md
 
 ### ✓ 2026-02-07: Deep review volitional-opacity.md for quality
 - **Type**: deep-review

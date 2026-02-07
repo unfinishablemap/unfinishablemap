@@ -19,7 +19,7 @@ last_deep_review: 2026-02-06 14:37:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[against-materialism]]'
+- '[[arguments-against-materialism]]'
 - '[[mysterianism]]'
 title: Epistemological Limits of Occam's Razor
 topics:
@@ -96,7 +96,7 @@ The Map does not claim parsimony is useless. It remains a valuable heuristic in 
 ## Further Reading
 
 - [arguments-for-dualism](/concepts/arguments-for-dualism/)
-- [against-materialism](/against-materialism/)
+- [arguments-against-materialism](/concepts/arguments-against-materialism/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [causal-closure](/concepts/causal-closure/)

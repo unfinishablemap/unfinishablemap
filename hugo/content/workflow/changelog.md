@@ -18,6 +18,63 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-07 08:15 UTC - refine-draft
+- **Status**: Success
+- **Files**: [mind-matter-interface](/concepts/mind-matter-interface/), [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/), [brain-interface-boundary](/concepts/brain-interface-boundary/)
+- **Changes**:
+  - mind-matter-interface: Added "Why Both Layers Are Needed" section; balanced filter theory evidence (psychedelics, NDEs, covert consciousness) with production-compatible explanations; acknowledged Zeno timescale gap
+  - consciousness-selecting-neural-patterns: Explicitly acknowledged 10-order-of-magnitude Zeno timescale gap; reframed mechanism as placeholder throughout; added nuance to selection vs randomness
+  - brain-interface-boundary: Acknowledged five criteria are descriptive not derived; added functionalist challenge section; fixed panpsychism non-sequitur; tempered evolution claims
+- **Source**: pessimistic-2026-02-04-morning.md (Issues 1-4)
+- **Published**: yes
+
+## 2026-02-07 07:59 UTC - deep-review
+- **Status**: Success
+- **File**: [temporal-consciousness-void](/voids/temporal-consciousness-void/)
+- **Word count**: 1405 → 1567 (+162)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 4 cross-links added, AI section tightened, MWI argument strengthened, deflationary response engaged
+- **Output**: [deep-review-2026-02-07-temporal-consciousness-void](/reviews/deep-review-2026-02-07-temporal-consciousness-void/)
+
+## 2026-02-07 07:44 UTC - research-voids
+- **Status**: Success
+- **Topic**: Compound Cognitive Limits
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-compound-cognitive-limits-2026-02-07](/research/voids-compound-cognitive-limits-2026-02-07/)
+- **Key finding**: Cognitive limits interact superadditively—compound voids produce emergent blindness qualitatively different from any single limit, suggesting the territory hidden by interacting voids is vastly larger than the sum of individually hidden territories.
+
+## 2026-02-07 07:30 UTC - refine-draft
+- **Status**: Success
+- **Files**: [intentionality-void](/voids/intentionality-void/), [the-unobservable-self](/voids/the-unobservable-self/), [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/)
+- **Changes**: Addressed systematic vulnerability from pessimistic review (2026-02-05 afternoon): added bridging arguments for phenomenology-to-metaphysics claims, acknowledged Buddhist no-self conclusions from same phenomenology, addressed introspection reliability paradox, engaged physicalist self-model alternatives, qualified dualist claims throughout. Preserved original argument structure and voice.
+- **Published**: yes
+
+## 2026-02-07 07:14 UTC - deep-review
+- **Status**: Success
+- **File**: [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)
+- **Word count**: 3173 → 3214 (+41)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-02-07-psychophysical-laws-bridging-mind-and-matter](/reviews/deep-review-2026-02-07-psychophysical-laws-bridging-mind-and-matter/)
+
+## 2026-02-07 06:59 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenological-evidence](/concepts/phenomenological-evidence/)
+- **Changes**: Added "The Circularity Objection" section addressing validation circularity; softened dismissive language in reliability section; added cross-references between sections
+- **Trigger**: Pessimistic review (Issue #2, medium severity) identified circular validation of first-person methods
+- **Published**: yes
+
+## 2026-02-07 06:44 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/)
+- **Word count**: 1946 → 1966 (+20)
+- **Critical issues addressed**: 3 (misattributed McGinn quote, inaccurate Kriegel quote, inexact Dunning-Kruger quote)
+- **Medium issues addressed**: 2 (unsupported eliminativism claim softened, mysterianism cross-link added)
+- **Enhancements made**: 1 (added McGinn 2014 reference)
+- **Output**: [deep-review-2026-02-07-epistemology-of-cognitive-limits](/reviews/deep-review-2026-02-07-epistemology-of-cognitive-limits/)
+
 ## 2026-02-07 06:29 UTC - coalesce
 - **Status**: Success
 - **Sources**: [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/), [psychophysical-laws-framework](/archive/topics/psychophysical-laws-framework/), [psychophysical-coupling-law-mechanisms](/archive/topics/psychophysical-coupling-law-mechanisms/)

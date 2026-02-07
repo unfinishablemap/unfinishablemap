@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-07
-ai_modified: 2026-02-07 06:29:00+00:00
+ai_modified: 2026-02-07 07:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -13,6 +13,8 @@ concepts:
 - '[[psychophysical-coupling]]'
 - '[[selection-laws]]'
 - '[[mental-causation]]'
+- '[[downward-causation]]'
+- '[[coupling-modes]]'
 - '[[quantum-consciousness]]'
 - '[[decoherence]]'
 - '[[epiphenomenalism]]'
@@ -31,7 +33,7 @@ description: If consciousness is distinct from physics, fundamental laws must co
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-07 07:14:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,7 +86,7 @@ The Map is skeptical of constraint 5, preferring: "Ensure phenomenology superven
 
 Most philosophical development has focused on upward laws. Chalmers himself tends toward [epiphenomenalism](/arguments/epiphenomenalism/)—the view that consciousness accompanies physical processes without causally affecting them. His psychophysical laws are supervenience laws, not causal laws.
 
-The Map requires more. If consciousness makes a causal difference—if intention affects action, if effort affects outcome—then upward laws alone are incomplete. We need *downward* laws: laws specifying how mental states select among physical possibilities.
+The Map requires more. If consciousness makes a causal difference—if intention affects action, if effort affects outcome—then upward laws alone are incomplete. We need *downward* laws: laws specifying how mental states select among physical possibilities. This is the problem of [downward-causation](/concepts/downward-causation/).
 
 The asymmetry reflects different commitments:
 - **Chalmers**: Consciousness is real and irreducible, but may be causally inert
@@ -122,7 +124,7 @@ These requirements constitute the specification threshold. Below it, a proposal 
 
 ## Candidate Coupling Mechanisms
 
-Five proposals have been advanced, varying enormously in precision and testability. They fall into three tiers.
+Five proposals have been advanced, varying enormously in precision and testability. (For a taxonomy of [coupling-modes](/concepts/coupling-modes/)—basis selection, timing control, probability reweighting—see the dedicated concept page.) They fall into three tiers.
 
 ### Tier 1: Stapp's Attention as Quantum Observation Rate
 
@@ -130,7 +132,7 @@ The most developed proposal. Henry Stapp builds on von Neumann's formulation, wh
 
 The quantum Zeno effect provides amplification: rapid repeated observation prevents a quantum system from evolving away from its current state. Conscious attention corresponds to high-frequency Process 1 actions—attending to a neural pattern means repeatedly "asking" whether that pattern obtains, holding it in place against competing alternatives.
 
-**Phenomenal variable**: Intensity and focus of attention, experienced as mental effort. William James described volitional effort as "the essential phenomenon of will." Stapp identifies this phenomenology with the rapidity of Process 1 actions: effort feels like work because it *is* work—maintaining high observation frequency.
+**Phenomenal variable**: Intensity and focus of attention, experienced as mental effort. William James described volitional effort as "the essential phenomenon of will" (*The Principles of Psychology*, 1890). Stapp identifies this phenomenology with the rapidity of Process 1 actions: effort feels like work because it *is* work—maintaining high observation frequency.
 
 **Physical variable**: Rate of quantum observations on neural firing patterns.
 
@@ -164,7 +166,7 @@ John Eccles (1994), with quantum mechanics developed alongside Friedrich Beck, p
 
 Any quantum approach faces the objection that warm biological systems destroy quantum coherence in femtoseconds—far too fast for neural processes at millisecond timescales. Three considerations moderate this concern:
 
-**Disputed timescales.** Tegmark's (2000) influential calculations remain accepted by most physicists. However, Hameroff's group challenged specific assumptions—arguing Tegmark modelled the wrong physical system and used unrealistic thermal parameters. Under revised assumptions, they obtained coherence times several orders of magnitude longer. The debate is ongoing; categorical dismissal is premature.
+**Disputed timescales.** Tegmark's (2000) influential calculations remain accepted by most physicists. However, Hameroff's group challenged specific assumptions—arguing Tegmark modelled the wrong physical system and used unrealistic thermal parameters, obtaining coherence times several orders of magnitude longer. The debate is ongoing; categorical dismissal is premature.
 
 **Biological quantum effects exist.** Avian magnetoreception maintains spin coherence for microseconds in warm tissue. Photosynthesis exploits quantum coherence for energy transfer. Evolution has found ways to harness quantum effects in biology.
 
@@ -184,13 +186,13 @@ Three responses:
 
 **Piecemeal progress.** The framework may never achieve physics-like elegance while still providing testable constraints. Stapp's and Eccles' proposals offer specific predictions even without grand unification.
 
-What's not acceptable: using specification difficulty as license for unfalsifiable speculation. The existence of developed proposals with testable predictions demonstrates the framework isn't inherently untestable.
+What's not acceptable: using specification difficulty as license for unfalsifiable speculation. Developed proposals like Stapp's generate predictions that are testable in principle—the framework is not inherently unfalsifiable. But honesty requires acknowledging that no discriminating test currently exists (see the three candidate discriminators in Stapp's section). The gap between "testable in principle" and "currently testable" is real.
 
 ## The Convergence Problem
 
-Even if each candidate mechanism operates independently, a complete coupling law would need to explain how they relate. Consciousness doesn't deploy attention, intention, valence, and qualitative character through separate channels. Willing an action while attending to it while experiencing its felt quality is a unified phenomenon. Any adequate coupling law must eventually address how multiple phenomenal dimensions couple to physical selection through a single conscious act.
+Even if each candidate mechanism operates independently, a complete coupling law must explain how they relate. Consciousness doesn't deploy attention, intention, valence, and qualitative character through separate channels. Willing an action while attending to it while experiencing its felt quality is unified. Any adequate coupling law must address how multiple phenomenal dimensions couple to physical selection through a single conscious act.
 
-This connects to [phenomenal-unity](/concepts/phenomenal-unity/): the unity of experience may not be decomposable into separate coupling channels. The five-candidate analysis may be a useful decomposition for research that doesn't correspond to how coupling actually works. A single principle operating across all phenomenal dimensions—with the five candidates representing different projections—would be theoretically satisfying and would move toward the t-shirt problem's solution. But this remains speculative.
+This connects to [phenomenal-unity](/concepts/phenomenal-unity/): the unity of experience may not be decomposable into separate coupling channels. The five-candidate analysis may be a useful research decomposition that doesn't correspond to how coupling actually works. A single principle operating across all phenomenal dimensions—with the five candidates as different projections—would move toward the t-shirt problem's solution. But this remains speculative.
 
 ## Relation to Site Perspective
 

@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-06T08:06:04.602636'
+ai_modified: '2026-02-07T08:14:32.117541'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-02-06'
+date: '2026-02-07'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-06'
+modified: '2026-02-07'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-07: Why Consciousness Can't Escape the Present
+
+Deep review strengthens our analysis of the temporal void—why physics says all times exist equally, yet consciousness is imprisoned in a moving now it can never step outside.
+
+**Type**: insight  
+**Link**: [temporal-consciousness-void](/voids/temporal-consciousness-void/)
+
+---
+
 ### 2026-02-06: Dreams That Solve Puzzles: New Evidence
 
 Research into dreams and problem-solving reveals that dreaming about unsolved puzzles doubles solving rates. Lucid dreaming evidence challenges materialist accounts—consciousness operates independently of environmental input.
@@ -202,15 +211,6 @@ Unified filter theory and quantum selection into two-layer framework explaining 
 
 **Type**: new-article
 **Link**: [mind-matter-interface](/concepts/mind-matter-interface/)
-
----
-
-### 2026-01-15: Against Many-Worlds argument page
-
-New argument page presents the cumulative case against many-worlds interpretation: ontological extravagance, the indexical identity problem, probability and preferred basis challenges, and why consciousness requires definite outcomes.
-
-**Type**: new-article
-**Link**: [many-worlds](/arguments/many-worlds/)
 
 ---
 
