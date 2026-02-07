@@ -4,8 +4,8 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-02-05T06:42:00+00:00
-last_deep_review: 2026-01-24T07:15:00+00:00
+ai_modified: 2026-02-07T11:51:00+00:00
+last_deep_review: 2026-02-07T11:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[psychophysical-laws]]"
   - "[[downward-causation]]"
+  - "[[self-stultification]]"
 related_articles:
   - "[[tenets]]"
   - "[[stapp-quantum-mind]]"
@@ -70,7 +71,7 @@ The Map's answer: physics is *not* complete at quantum indeterminacies. The [[te
 
 Two concrete mechanisms have been proposed:
 
-**The quantum Zeno approach** ([[stapp-quantum-mind|Stapp]]): Mental attention acts like rapid observation on neural quantum states. Through the well-established Zeno effect, rapid repeated measurement "freezes" quantum systems. Consciousness holds desired neural patterns in place through sustained attention.
+**The quantum Zeno approach** ([[stapp-quantum-mind|Stapp]]): Mental attention acts like rapid observation on neural quantum states. Through the Zeno effect—well-established in physics laboratories—rapid repeated measurement "freezes" quantum systems. Consciousness holds desired neural patterns in place through sustained attention.
 
 **Orchestrated Objective Reduction** ([[quantum-consciousness#Orch OR (Penrose-Hameroff)|Penrose-Hameroff]]): Quantum computations in neural microtubules undergo gravitational self-collapse, and these collapse events constitute conscious experience while biasing which neural pattern becomes actual.
 
@@ -88,11 +89,11 @@ A persistent objection concerns timescales: Tegmark (2000) calculated quantum de
 
 ### The Consciousness-Reasoning Connection
 
-The conscious/unconscious processing literature reveals systematic asymmetries. The [[conscious-vs-unconscious-processing|2025 meta-analysis]] by Randeniya found that only 10% of claimed unconscious processing effects survive rigorous methodology—most purported demonstrations of "unconscious cognition" reflect weak stimuli or brief exposure, not genuine bypassing of consciousness. Bayne and Hohwy's experimental tests distinguish three functions requiring consciousness: durable maintenance (keeping information available beyond brief windows), novel combinations (creating new representations from existing elements), and spontaneous intentional action (initiating behavior without external triggers). If consciousness were epiphenomenal, it could not enable functions that unconscious processing cannot achieve.
+The conscious/unconscious processing literature reveals systematic asymmetries. [[conscious-vs-unconscious-processing|Randeniya's 2025 meta-analysis]] found that only 10% of claimed unconscious processing effects in fMRI studies survive rigorous methodology—most purported demonstrations of "unconscious cognition" reflect weak stimuli or brief exposure, not genuine bypassing of consciousness. Global Neuronal Workspace Theory (Dehaene, Changeux) identifies three cognitive functions requiring consciousness: durable maintenance (keeping information available beyond brief windows), novel combinations (creating new representations from existing elements), and spontaneous intentional action (initiating behavior without external triggers). If consciousness were epiphenomenal, it could not enable functions that unconscious processing cannot achieve.
 
 ### The Baseline Cognition Gap
 
-The [[baseline-cognition|baseline cognition hypothesis]] observes that great apes demonstrate sophisticated cognition—tool use, social learning, procedural skills—yet cannot perform logical reasoning, counterfactual thinking, or build cumulative culture (Tomasello 2014, 2019). Humans do all of these, and they appear to require conscious processing. If consciousness causes nothing, why do cognitive functions requiring consciousness systematically correlate with human distinctiveness?
+The [[baseline-cognition|baseline cognition hypothesis]] observes that great apes demonstrate sophisticated cognition—tool use, social learning, procedural skills—yet cannot perform logical reasoning, counterfactual thinking, or build cumulative culture (Tomasello 2014, 2019). Tomasello's framework attributes these gaps to social-cognitive differences, but the Map notes that the distinctive human capacities all appear to require conscious processing. If consciousness causes nothing, why do cognitive functions requiring consciousness systematically correlate with human distinctiveness?
 
 ### Evolutionary Convergence
 
@@ -151,15 +152,19 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 - [[evolutionary-case-for-mental-causation]] — The evolutionary argument for mental causation
 - [[consciousness-as-amplifier]] — Evolutionary evidence for causal efficacy
 - [[contemplative-neuroscience]] — How meditation research demonstrates bidirectional interaction in practice
+- [[choking-phenomenon-mental-causation]] — Negative evidence: when consciousness interferes with automaticity
+- [[self-stultification]] — The self-defeat argument against epiphenomenalism in detail
+- [[conservation-laws-and-mind]] — Whether mental causation violates energy conservation
+- [[agent-causation]] — How consciousness exercises causal powers
 - [[baseline-cognition]] — The great ape comparison
 - [[downward-causation]] — Top-down causation more generally
 - [[tenets]] — The Map's foundational commitments
 
 ## References
 
-- Bayne, T., & Hohwy, J. (2025). "Testing the functions of consciousness: Experimental criteria and interim findings." *Consciousness and Cognition*, 116, 103502.
+- Dehaene, S., Lau, H., & Kouider, S. (2017). "What is consciousness, and could machines have it?" *Science*, 358(6362), 486-492.
 - Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-- Randeniya, R. et al. (2025). "How much cognition occurs outside of awareness? A meta-analysis and systematic review." *Neuroscience & Biobehavioral Reviews*, 158, 105467.
+- Randeniya, R. (2025). "Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported?" *Neuroscience of Consciousness*, 2025(1), niaf042.
 - Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
 - Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
