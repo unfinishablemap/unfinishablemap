@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for philosophy-of-mind
-- **Type**: expand-topic
-- **Notes**: Referenced by 13 wikilinks across the site but no dedicated page exists. Philosophy of mind is the foundational discipline framing the Map's entire project. A concept page should define the field, its central questions (mind-body problem, consciousness, intentionality, mental causation), and explain how the Map's dualist framework relates to the broader discipline. Directly supports all five tenets as framing context.
-- **Source**: gap_analysis
-- **Generated**: 2026-02-06
-
 ### P2: Update wikilinks to archived articles (interface-locality, brain-specialness, and 5 others)
 - **Type**: other
 - **Notes**: Gap analysis found 70+ broken wikilinks pointing to archived/coalesced articles. Key targets: interface-locality (34 refs, archived to concepts/), brain-specialness (6 refs), consciousness-and-quantum-measurement (11 refs), nihilism (5 refs), quantum-measurement-and-definite-outcomes (5 refs), eastern-philosophy-haecceity-tension (4 refs), meaning-and-consciousness (4 refs). Update wikilinks to point to the replacement articles these were coalesced into, or verify the archive redirect handles them.
@@ -769,6 +763,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-06: Create concept page for philosophy-of-mind
+- **Type**: expand-topic
+- **Notes**: Referenced by 13 wikilinks across the site but no dedicated page exists. Philosophy of mind is the foundational discipline framing the Map's entire project. A concept page should define the field, its central questions (mind-body problem, consciousness, intentionality, mental causation), and explain how the Map's dualist framework relates to the broader discipline. Directly supports all five tenets as framing context.
+- **Output**: Create concept page for philosophy-of-mind
 
 ### ✓ 2026-02-06: Write voids article on the Nomic Void
 - **Type**: expand-topic
