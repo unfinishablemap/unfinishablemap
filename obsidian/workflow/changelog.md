@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-07 01:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/mental-imagery]]
+- **Word count**: 1443 → 1706 (+263)
+- **Critical issues addressed**: 4 (Bacon misquote, effect size misattribution, "same activation" overclaim, self-contradiction)
+- **Medium issues addressed**: 4 (weak physicalist rebuttal, uncited claims, missing cross-links, contested Nanay claim)
+- **Enhancements made**: 6 (cross-links to downward-causation/conscious-vs-unconscious-processing/evolutionary-case/motor-selection, cognitive phenomenology section connection, 2 new references)
+- **Output**: [[reviews/deep-review-2026-02-07-mental-imagery]]
+
 ## 2026-02-07 01:41 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/developmental-cognitive-closure]]
