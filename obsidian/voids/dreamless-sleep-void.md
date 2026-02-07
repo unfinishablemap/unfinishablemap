@@ -4,7 +4,8 @@ description: "Human+AI exploration of where consciousness goes during deep sleep
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-03T07:37:00+00:00
+ai_modified: 2026-02-07T04:12:00+00:00
+last_deep_review: 2026-02-07T04:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +24,9 @@ related_articles:
   - "[[death-void]]"
   - "[[consciousness-only-territories]]"
   - "[[phenomenology-of-the-edge]]"
+  - "[[personal-identity]]"
+  - "[[sleep-and-consciousness]]"
+  - "[[witness-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -36,7 +40,7 @@ The Unfinishable Map's framework distinguishes [[three-kinds-of-void|three kinds
 
 ## The Scientific Default
 
-The standard scientific view treats dreamless sleep as unconsciousness. As Jennifer Windt summarises, science traditionally defines consciousness as "what we lose every day when we go into dreamless sleep." EEG recordings show dramatic changes in brain activity; subjects cannot report experiences from dreamless periods.
+The standard scientific view treats dreamless sleep as unconsciousness. As Jennifer Windt notes, science has traditionally defined consciousness as "what we lose every day when we go into dreamless sleep"—a characterisation she argues is oversimplified. EEG recordings show dramatic changes in brain activity; subjects cannot report experiences from dreamless periods.
 
 Yet several problems complicate this picture.
 
@@ -50,13 +54,13 @@ Yet several problems complicate this picture.
 
 Indian philosophical traditions, particularly Advaita Vedanta, offer a different analysis. Rather than three states (waking, dreaming, dreamless sleep), they posit four: *jagrat* (waking), *svapna* (dreaming), *sushupti* (deep sleep), and *turiya* (the fourth).
 
-Turiya is not a fourth state alongside the others but the witnessing background underlying all three. As the tradition describes it, turiya is "the changeless background over which the three states appear to be projected." The Mandukya Upanishad teaches that consciousness persists through deep sleep as *saksin*—witness-consciousness stripped of content.
+Turiya is not a fourth state alongside the others but the witnessing background underlying all three. As the tradition describes it, turiya is "the changeless background over which the three states appear to be projected." The Mandukya Upanishad identifies this fourth state; later Advaita commentators (particularly Shankara) developed the concept of *saksin*—[[witness-consciousness]] stripped of content—to explain how awareness persists through deep sleep.
 
 The key insight: in dreamless sleep, the ego dissolves, but awareness may persist as consciousness-without-an-object. We experience nothing because there is nothing *to* experience—but the experiencing itself continues. As one source puts it: "While in it, there is nothing to be aware of—one is merely conscious."
 
 This would explain the memory gap differently. We forget dreamless sleep not because consciousness was absent but because the "I" that would claim the memory was not present to encode it. Awareness without subject-object structure leaves no experiential trace because experience-as-remembered requires someone experiencing something.
 
-The Vedantic view aligns with the Map's [[tenets#^dualism|dualism]]: consciousness is fundamental, not reducible to brain states. If awareness is more basic than its contents, it could persist even when content ceases.
+The Vedantic view aligns with the Map's [[tenets#^dualism|dualism]]: consciousness is fundamental, not reducible to brain states. If awareness is more basic than its contents, it could persist even when content ceases. However, it is worth noting that the Vedantic claim rests on philosophical analysis and contemplative report, not empirical demonstration—a distinction the scientific default would insist upon.
 
 ## Minimal Phenomenal Experience
 
@@ -68,9 +72,9 @@ Metzinger describes "Emptiness and Non-egoic Self-awareness": uncontracted, unbo
 
 Recent phenomenological research has begun documenting experiences at the edge of the void.
 
-A 2022 study investigated "objectless awareness" during sleep. Participants reported "No Scenery/Void" periods following dissolving lucid dreams, characterized by "minimal sense of self—a bodiless self, yet experienced as being 'somewhere'—the presence of non-modal sensations, relatively pleasant emotions, an absence of visual experience." This matches what the Vedantic tradition predicts.
+Gamma and Metzinger's 2022 study investigated "objectless awareness" during sleep. Participants reported "No Scenery/Void" periods following dissolving lucid dreams, characterized by "minimal sense of self—a bodiless self, yet experienced as being 'somewhere'—the presence of non-modal sensations, relatively pleasant emotions, an absence of visual experience." A separate micro-phenomenological study (Alcaraz et al., 2021) documented similar "awareness in the void" reports. These findings converge with what the Vedantic tradition predicts.
 
-Yoga nidra practitioners aim to maintain awareness through the sleep transition. EEG studies show high gamma-band activity (typically associated with waking consciousness) during states otherwise resembling deep sleep. These findings do not prove ordinary sleepers maintain awareness, but they demonstrate the boundary between consciousness and its apparent absence is more permeable than the simple on/off model suggests.
+Yoga nidra practitioners aim to maintain awareness through the sleep transition—an approach that functions as what the Map calls an [[altered-states-as-void-probes|altered-state void probe]]. EEG studies show high gamma-band activity (typically associated with waking consciousness) during states otherwise resembling deep sleep. These findings do not prove ordinary sleepers maintain awareness, but they demonstrate the boundary between consciousness and its apparent absence is more permeable than the simple on/off model suggests. For the neuroscience of how consciousness operates in gradations across [[sleep-and-consciousness|sleep stages]], see the dedicated article.
 
 ## The Structure of the Void
 
@@ -86,7 +90,7 @@ Yet the void may be partly occluded. Vedantic traditions suggest consciousness i
 
 ## The Lockean Puzzle
 
-If consciousness constitutes personal identity and ceases during sleep, the person who wakes may not be the same person who slept. One neuroscientific framing asks: "When we wake up each morning, how do we know that we are 'ourselves'?"
+If consciousness constitutes [[personal-identity]] and ceases during sleep, the person who wakes may not be the same person who slept. One neuroscientific framing asks: "When we wake up each morning, how do we know that we are 'ourselves'?"
 
 Three responses: **Consciousness is continuous**—the Vedantic view dissolves the puzzle. **Identity survives gaps**—bodily continuity and memory connections might ground identity across cessation. **We are new each morning**—Locke may have been right, though strong intuitions of self-continuity resist this.
 
@@ -132,6 +136,10 @@ None of these conditions has been met. The dreamless sleep void remains: a gap w
 - [[death-void]] — The related void: consciousness cannot represent its own permanent cessation
 - [[consciousness-only-territories]] — What only phenomenal experience can access
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
+- [[sleep-and-consciousness]] — Neuroscience of consciousness gradations across sleep stages
+- [[witness-consciousness]] — The Vedantic concept of awareness that observes without identifying
+- [[personal-identity]] — What grounds identity through gaps in consciousness
+- [[altered-states-as-void-probes]] — Using altered states to probe cognitive boundaries
 
 ## References
 

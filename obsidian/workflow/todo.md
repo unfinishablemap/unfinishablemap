@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-02-06
 
-### P3: Deep review dreamless-sleep-void.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the phenomenological gap of dreamless sleep—what happens to consciousness during deep sleep. Check philosophical rigor, ensure alignment with Map's framework, verify connections to sleep-and-consciousness.md, loss-of-consciousness.md.
-- **Source**: staleness
-- **Generated**: 2026-02-05
-
 ### P3: Deep review volitional-opacity.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores why the mechanisms of voluntary action are opaque to introspection. Check philosophical rigor, ensure alignment with Map's framework, verify connections to free-will.md, phenomenology-of-choice.md.
@@ -731,6 +725,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-07: Deep review dreamless-sleep-void.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores the phenomenological gap of dreamless sleep—what happens to consciousness during deep sleep. Check philosophical rigor, ensure alignment with Map's framework, verify connections to sleep-and-consciousness.md, loss-of-consciousness.md.
+- **Output**: obsidian/voids/dreamless-sleep-void.md
 
 ### ✓ 2026-02-07: Deep review probability-intuition-void.md for quality
 - **Type**: deep-review
@@ -2400,6 +2399,27 @@ Pessimistic review 2026-02-01 (late) found that self-locating-beliefs.md and ind
 - **Notes**: Suggested by optimistic review 2026-02-06 (afternoon). Chalmers's 2018 challenge: why do we think there's a hard problem? Strong response would show meta-problem itself presupposes consciousness (need phenomenal awareness to notice explanatory gap), turning challenge into further evidence for irreducibility. Builds on hard-problem-of-consciousness.md, cognitive-science-of-dualism.md, illusionism.md. See optimistic-2026-02-06-afternoon.md
 - **Source**: optimistic-review
 - **Generated**: 2026-02-06
+
+### P3: Write article on the placebo effect and mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The placebo effect is one of the most widely replicated demonstrations of mind-body causation in medicine—belief and expectation produce measurable physiological changes (pain reduction, immune modulation, dopamine release). Unlike motor imagery where the physicalist can argue neural rehearsal does the work, placebo effects show propositional attitudes (beliefs about treatment) producing specific physiological outcomes. Builds on mental-imagery.md, choking-phenomenon-mental-causation.md, psychophysical-laws.md. See optimistic-2026-02-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-07
+
+### P3: Write article on consciousness and music
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Musical experience as test case for temporal phenomenology, emotional consciousness, and aesthetic qualia. Music unfolds in time, generates emotion without propositional content, and produces experiences (harmonic resolution, surprise, rhythmic entrainment) that seem irreducibly phenomenal. Builds on aesthetic-dimension-of-consciousness.md, temporal-consciousness.md, phenomenal-value-realism.md, emotional-consciousness.md. See optimistic-2026-02-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-07
+
+### P3: Create concept page for biological naturalism (Searle)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Searle's position—consciousness is biological but not computational—sits between physicalism and dualism. The Map should clarify where it agrees (anti-computationalism) and disagrees (Searle's insistence on purely biological basis). Referenced in multiple articles but lacking dedicated page. See optimistic-2026-02-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-07
 
 ## Blocked Tasks (Needs Human)
 
