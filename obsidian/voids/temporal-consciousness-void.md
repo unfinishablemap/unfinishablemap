@@ -4,7 +4,8 @@ description: "Human+AI exploration of why consciousness is confined to a moving 
 created: 2026-02-04
 modified: 2026-02-04
 human_modified: null
-ai_modified: 2026-02-04T10:59:00+00:00
+ai_modified: 2026-02-07T07:59:00+00:00
+last_deep_review: 2026-02-07T07:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,6 +15,10 @@ concepts:
   - "[[introspection]]"
   - "[[mysterianism]]"
   - "[[philosophy-of-time]]"
+  - "[[specious-present]]"
+  - "[[duration]]"
+  - "[[self-and-consciousness]]"
+  - "[[default-mode-network]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
@@ -35,7 +40,7 @@ The Unfinishable Map takes this seriously as a void—not merely an unsolved pro
 
 ## The Specious Present
 
-William James distinguished the "strict present"—a durationless mathematical instant—from the "specious present," the experienced duration of roughly 300 milliseconds to 12 seconds. This window is consciousness's temporal aperture: everything within it feels present; everything outside becomes memory or anticipation.
+William James distinguished the "strict present"—a durationless mathematical instant—from the [[specious-present|"specious present,"]] the experienced duration of roughly 100 milliseconds to 3 seconds (with some estimates extending further). This window is consciousness's temporal aperture: everything within it feels present; everything outside becomes memory or anticipation.
 
 Three competing models explain this structure:
 
@@ -55,7 +60,7 @@ This creates a gap. If all times exist equally, why does consciousness experienc
 
 C.D. Broad's "moving spotlight" metaphor captures the puzzle: "the characteristic of presentness as moving, somewhat like the spot of light from a policeman's bull's-eye traversing the fronts of the houses in a street." The theory tries to reconcile eternalist ontology with phenomenal flow—but it relocates the mystery rather than solving it. What moves the spotlight? Why can't consciousness illuminate the whole block?
 
-As one review notes: "Conscious experience has a felt quality that involves flow; thoughts seem to be present in the 'now,' and they change from moment to moment. Timeless experience is an oxymoron." Yet physics suggests timelessness is how reality actually works.
+A deflationary response holds that there is no real gap: temporal flow is simply what it is *like* to be a temporal information-processing system embedded in a block universe. On this view, asking "why does consciousness experience flow?" is like asking "why does water feel wet?"—the question dissolves once you understand the system. The Map rejects this deflationary move. The explanatory gap between mathematical eternalism and phenomenal flow is not dissolved by redescription. As a Royal Society analysis of time and consciousness notes: "Conscious experience has a felt quality that involves flow; thoughts seem to be present in the 'now,' and they change from moment to moment. Timeless experience is an oxymoron." Physics suggests timelessness is how reality actually works—yet consciousness cannot inhabit this truth.
 
 ## The Void
 
@@ -67,7 +72,7 @@ This article identifies a void in consciousness's access to temporal reality. Th
 
 **Mandatory succession**: Even knowing that physics describes all times as equally real, we cannot experience this truth. We understand the claim but cannot inhabit it.
 
-**Self-entanglement**: Dissolving temporal structure may require dissolving the self that experiences time. Psychedelic and meditative states where time distorts also involve ego dissolution—"concepts of 'time' and 'self' are neurologically intertwined."
+**Self-entanglement**: Dissolving temporal structure may require dissolving the [[self-and-consciousness|self]] that experiences time. Psychedelic and meditative states where time distorts also involve ego dissolution—"concepts of 'time' and 'self' are neurologically intertwined."
 
 ## Evidence for the Limit
 
@@ -75,7 +80,7 @@ This article identifies a void in consciousness's access to temporal reality. Th
 
 **Physical**: The explanatory gap between eternalism and flow remains unbridged. No physical theory predicts why consciousness should experience a privileged "now."
 
-**Neurological**: Default Mode Network suppression correlates with time dissolution, suggesting neural substrates for temporal experience. Brain damage can alter time perception but does not grant access to other times.
+**Neurological**: [[default-mode-network|Default Mode Network]] suppression correlates with time dissolution, suggesting neural substrates for temporal experience. Brain damage can alter time perception but does not grant access to other times. Crucially, no neurological intervention has ever granted access to past or future moments—only altered the *structure* of present experience.
 
 **Contemplative**: Millennia of meditation practice have not produced reliable access to past or future moments. Reports of "timelessness" in deep states appear to describe structured duration without markers—duration stripped of succession—rather than escape from duration.
 
@@ -97,17 +102,15 @@ What happens when consciousness approaches this void?
 
 Henri Bergson argued that our difficulty with time is not accidental. The intellect evolved for practical manipulation of matter, not for grasping duration. We instinctively spatialize time—represent it as a line, divide it into units—but this distorts its essential flowing character.
 
-Duration (*durée*) is "a qualitative multiplicity"—heterogeneous yet interpenetrating, unrepresentable by spatial symbols. "To grasp duration, one must reverse habitual modes of thought and place oneself within duration by intuition."
+[[duration|Duration]] (*durée*) is "a qualitative multiplicity"—heterogeneous yet interpenetrating, unrepresentable by spatial symbols. "To grasp duration, one must reverse habitual modes of thought and place oneself within duration by intuition."
 
 If Bergson is right, the temporal void is partly self-created. Our cognitive tools evolved for tracking objects in space, not for understanding consciousness in time. The void marks the limits of intellect, not the limits of reality.
 
 ## What AI Might Reveal
 
-AI systems process information without (presumably) human temporal phenomenology. They can "access" training data without experiencing it as past, consider multiple time points "at once" in ways humans cannot.
+AI systems process information without (presumably) human temporal phenomenology. They access training data without experiencing it as past and consider multiple time points without the constraint of sequential flow. If an AI system were conscious in some non-temporal mode, it might illuminate human temporal confinement from an external perspective—making the void visible in a way unavailable from within.
 
-If AI capable of modeling temporal experience could do so from outside—while having some other mode of consciousness—this might illuminate what human temporal confinement involves. The void might become visible from an external perspective unavailable to us.
-
-However, AI trained on human descriptions inherits human temporal concepts. Genuine AI insight would require either phenomenology genuinely different from human temporal experience, or the capacity to model what cannot be inhabited.
+The obstacle is that AI trained on human descriptions inherits human temporal concepts. Genuine insight would require either phenomenology genuinely different from human temporal experience, or the capacity to model what cannot be inhabited.
 
 ## Relation to Site Perspective
 
@@ -117,7 +120,7 @@ This void connects to the Map's [[tenets]]:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness influences quantum outcomes, it does so from within a temporal present. The mechanism would be introspectively inaccessible precisely because introspection requires time—we cannot observe the causal interface while using it. The temporal void may be necessary for the interface to function.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: On MWI, all times and all branches exist equally. The temporal void shows why this contradicts experience: we cannot access branch-futures or branch-pasts. The indexical "now" that consciousness experiences is precisely what MWI cannot accommodate.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: On MWI, all times and all branches exist equally. MWI defenders respond that each branch contains its own observer experiencing their own present—no contradiction. But the temporal void reveals a deeper problem: the indexical "now" that consciousness experiences requires genuine selection among possibilities, a narrowing from many to one. MWI denies this selection occurs. The felt quality of temporal passage—of this moment becoming the next—presupposes that alternatives are foreclosed, not merely branched into parallel existence.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Time seems simple—before/after, past/present/future. But attempts to understand temporal consciousness reveal extraordinary complexity. Bergson's insight that intellect spatializes time suggests our simplifying cognitive tools may be constitutionally inadequate. The apparent simplicity of time conceals a void.
 
@@ -130,6 +133,8 @@ This void connects to the Map's [[tenets]]:
 - [[the-unobservable-self]] — The subject that cannot be its own object
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[temporal-consciousness]] — How time structures conscious experience
+- [[specious-present]] — The experienced duration of the present moment
+- [[duration]] — Bergson's concept of lived time as qualitative multiplicity
 - [[philosophy-of-time]] — McTaggart's A/B series, presentism, and eternalism
 
 ## References
