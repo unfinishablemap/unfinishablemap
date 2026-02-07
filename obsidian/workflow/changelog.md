@@ -17,6 +17,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-07 05:57 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/blindsight]]
+- **Word count**: 2564 → 2602 (+38)
+- **Critical issues addressed**: 4 (D.B. surgery reason factual error, misplaced section anchor, unverifiable accuracy figures, uncited blind insight section)
+- **Medium issues addressed**: 7 (Phillips 2021 engagement, Lau & Passingham mischaracterization, "identical processing" overstated, Occam's Razor tenet, circular epiphenomenalism argument, higher-order theories cross-link, blind insight citation)
+- **Enhancements made**: 3 (philosophical-zombies and higher-order-theories cross-links, prose tightening throughout)
+- **Output**: [[reviews/deep-review-2026-02-07-blindsight]]
+
+## 2026-02-07 04:27 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/volitional-opacity]]
+- **Word count**: 2033 → 2171 (+138)
+- **Critical issues addressed**: 3 (misattributed Soon/Haynes citation, two unattributed block quotes)
+- **Medium issues addressed**: 6 (No Many Worlds tenet, Merleau-Ponty tension, Illusion Interpretation, Aristotle attribution, Strawson clarification, bidirectional cross-link)
+- **Enhancements made**: 3 (cross-links to limits-reveal-structure and creativity-void, length-neutral prose tightening)
+- **Output**: [[reviews/deep-review-2026-02-07-volitional-opacity]]
+
 ## 2026-02-07 04:12 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/dreamless-sleep-void]]

@@ -23,6 +23,7 @@ related_articles:
   - "[[thoughts-that-slip-away]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[self-reference-paradox]]"
+  - "[[volitional-opacity]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
