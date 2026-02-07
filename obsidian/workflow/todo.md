@@ -747,13 +747,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-06
 
-### P2: Address equivocation between causal efficacy and non-physicality in evolutionary-case-for-mental-causation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the article argues consciousness is causally efficacious (which physicalists accept) then slides into treating this as evidence for dualism. Missing engagement with non-reductive physicalism—the strongest competing view. Add section addressing physicalist mental causation and explain what additional arguments bridge from causal efficacy to non-physicality. See pessimistic-2026-02-06-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-06
-
 ### P2: Reduce quantum overemphasis in binding-problem.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -763,6 +756,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-07: Address equivocation between causal efficacy and non-physicality in evolutionary-case-for-mental-causation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article argues consciousness is causally efficacious (which physicalists accept) then slides into treating this as evidence for dualism. Missing engagement with non-reductive physicalism—the strongest competing view. Add section addressing physicalist mental causation and explain what additional arguments bridge from causal efficacy to non-physicality. See pessimistic-2026-02-06-afternoon.md
+- **Output**: obsidian/topics/evolutionary-case-for-mental-causation.md
+
+Task context:
+Pessimistic review found the article argues consciousness is causally efficacious (which physicalists accept) then slides into treating this as evidence for dualism. Missing engagement with non-reductive physicalism—the strongest competing view. Add section addressing physicalist mental causation and explain what additional arguments bridge from causal efficacy to non-physicality. See pessimistic-2026-02-06-afternoon.md
 
 ### ✓ 2026-02-06: Create concept page for philosophy-of-mind
 - **Type**: expand-topic

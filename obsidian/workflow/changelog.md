@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-07 00:11 UTC - refine-draft
+- **Status**: Success
+- **File**: [[evolutionary-case-for-mental-causation]]
+- **Changes**: Added section on non-reductive physicalism; fixed equivocation between causal efficacy and non-physicality; qualified Lieberman citation; softened overconfident claims; added pain asymbolia qualifier; revised Quantum Dimension and Relation to Site Perspective sections
+- **Published**: yes
+
 ## 2026-02-06 23:56 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Philosophy of Mind
