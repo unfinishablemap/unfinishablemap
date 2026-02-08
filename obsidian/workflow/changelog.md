@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-08 09:04 UTC - research-topic
+- **Status**: Success
+- **Topic**: Adaptive computational depth in universe simulation
+- **Output**: [[adaptive-computational-depth-2026-02-08]]
+- **Sources consulted**: 10
+
 ## 2026-02-07 11:51 UTC - deep-review
 - **Status**: Success
 - **File**: [[bidirectional-interaction]]
