@@ -4,7 +4,7 @@ description: "Evaluating quantum neural mechanism evidence. Radical pairs lead, 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-02T07:12:00+00:00
+ai_modified: 2026-02-08T19:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,8 @@ concepts:
   - "[[quantum-decoherence-objection]]"
   - "[[quantum-neural-timing-constraints]]"
   - "[[measurement-problem]]"
+  - "[[causal-closure]]"
+  - "[[altered-states-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-biology-neural-mechanisms-2026-01-24]]"
@@ -25,10 +27,10 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-02-02T07:12:00+00:00
+last_deep_review: 2026-02-08T19:59:00+00:00
 ---
 
-Five quantum mechanisms have been proposed for neural systems, but they differ dramatically in evidential support. Radical pair effects have the strongest experimental foundation—the quantum Zeno effect in cryptochrome has been directly demonstrated, and avian magnetoreception provides a working biological precedent. Microtubule coherence has gained recent support from anesthetic studies and room-temperature super-radiance demonstrations, though the Orch OR collapse mechanism remains unverified. Ion channel tunneling, SNARE protein tunneling, and Posner molecule entanglement remain primarily theoretical. Crucially, specific experiments could distinguish among these mechanisms: isotope substitution studies, targeted pharmacological interventions, and correlation of quantum signatures with consciousness level. The Unfinishable Map does not commit to any specific mechanism but tracks which proposals best satisfy empirical constraints.
+Five quantum mechanisms have been proposed for neural systems, but they differ dramatically in evidential support. Radical pair effects have the strongest experimental foundation—the quantum Zeno effect in cryptochrome has been computationally demonstrated, and avian magnetoreception provides a working biological precedent. Microtubule coherence has gained recent support from anesthetic studies and room-temperature super-radiance demonstrations, though the Orch OR collapse mechanism remains unverified. Ion channel tunneling, SNARE protein tunneling, and Posner molecule entanglement remain primarily theoretical. Crucially, specific experiments could distinguish among these mechanisms: isotope substitution studies, targeted pharmacological interventions, and correlation of quantum signatures with consciousness level. The Unfinishable Map does not commit to any specific mechanism but tracks which proposals best satisfy empirical constraints.
 
 ## The Evidence Hierarchy
 
@@ -42,7 +44,7 @@ The five mechanisms can be ranked:
 
 | Mechanism | Theory | Evidence | Functional Relevance |
 |-----------|--------|----------|---------------------|
-| Radical pairs | Strong | Strong (2024 Zeno demo) | Moderate |
+| Radical pairs | Strong | Strong (2024 Zeno model) | Moderate |
 | Microtubules | Comprehensive | Growing (2024-2025) | Uncertain |
 | Ion tunneling | Mathematical | Indirect | Speculative |
 | SNARE tunneling | Specific | Minimal | Speculative |
@@ -52,7 +54,7 @@ This hierarchy reflects current evidence, not ultimate truth. A single well-desi
 
 ## Radical Pairs: The Current Leader
 
-Radical pair mechanisms have the firmest experimental foundation among quantum neural proposals. The 2024 demonstration by Atkins et al. in *Nature Communications* showed that the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—the first biological demonstration of Zeno-protected quantum states.
+Radical pair mechanisms have the firmest experimental foundation among quantum neural proposals. Denton et al. (2024) demonstrated in *Nature Communications* that the quantum Zeno effect enables magnetosensitivity in tightly bound cryptochrome radical pairs—showing computationally that Zeno-protected quantum states can operate in a biological context.
 
 ### What Makes Radical Pairs Compelling
 
@@ -74,9 +76,9 @@ Microtubule-based proposals—particularly Penrose and Hameroff's [[quantum-cons
 
 ### Recent Supporting Evidence
 
-**Anesthetic-microtubule correlation (Kalra et al. 2023).** Anesthetics dampen quantum optical effects in isolated microtubule preparations. If microtubules merely provided structural support, anesthetics shouldn't affect their quantum properties. The correlation suggests microtubule quantum states are related to consciousness.
+**Anesthetic-microtubule correlation (Kalra et al. 2023).** Anesthetics reduce electronic energy migration in isolated microtubule preparations. If microtubules merely provided structural support, anesthetics shouldn't affect their quantum properties. The correlation suggests microtubule quantum states are related to consciousness.
 
-**Epothilone B delays anesthesia (Li et al. 2024).** When rats receive epothilone B (a microtubule-binding drug that stabilises tubulin), anesthesia onset is delayed. The implication: strengthening microtubule structure increases resistance to consciousness loss.
+**Epothilone B delays anesthesia (Khan et al. 2024).** When rats receive epothilone B (a microtubule-binding drug that stabilises tubulin), anesthesia onset is delayed. The implication: strengthening microtubule structure increases resistance to consciousness loss.
 
 **Room-temperature super-radiance.** According to Wiest's 2025 review, quantum super-radiance—collective quantum emission—has been demonstrated in tryptophan networks relevant to microtubule aromatic residue clusters. This suggests that room-temperature quantum coherence can occur in microtubule-relevant structures, though the evidence remains under evaluation.
 
@@ -90,7 +92,7 @@ Microtubule-based proposals—particularly Penrose and Hameroff's [[quantum-cons
 
 ## Ion Channel Tunneling: Mathematically Sound, Experimentally Untested
 
-Qaswal's 2022 mathematical model shows that ions (Na⁺, K⁺, Ca²⁺) can tunnel through closed voltage-gated channels. The model predicts that sodium tunnels more readily than potassium (mass-dependent tunneling probability), explaining certain pathological phenomena (tinnitus, phantom limb pain, neuropathic pain).
+Qaswal et al.'s (2021) mathematical model shows that ions (Na⁺, K⁺, Ca²⁺) can tunnel through closed voltage-gated channels. The model predicts that sodium tunnels more readily than potassium (mass-dependent tunneling probability), explaining certain pathological phenomena (tinnitus, phantom limb pain, neuropathic pain).
 
 ### Why It Matters
 
@@ -104,7 +106,7 @@ No direct experimental measurement of ion tunneling in living neurons exists. Th
 
 ## SNARE Tunneling: A Specific Proposal Awaiting Tests
 
-The Beck-Eccles model (1992) proposed quantum tunneling triggers vesicle release at synapses. Georgiev (2017) upgraded this by identifying Davydov solitons—energy waves along SNARE protein α-helices—as the relevant quasi-particles.
+The Beck-Eccles model (1992) proposed quantum tunneling triggers vesicle release at synapses. Georgiev and Glazebrook (2018) upgraded this by identifying Davydov solitons—energy waves along SNARE protein α-helices—as the relevant quasi-particles.
 
 ### The Appeal
 
@@ -124,7 +126,7 @@ Fisher's 2015 proposal that phosphorus nuclear spins in Posner molecules (Ca₉(
 
 **Lithium isotope effects.** ⁶Li and ⁷Li have different nuclear spins, affecting entanglement. Lithium isotope substitution affects rat maternal behaviour—circumstantial evidence that nuclear spin states influence neural function.
 
-**Disputed coherence times.** Fisher proposed hours to days; Player and Hore estimate ~37 minutes. Even the shorter estimate vastly exceeds other mechanisms, but the discrepancy highlights theoretical uncertainty.
+**Disputed coherence times.** Fisher proposed hours to days; Player and Hore (2018) estimate ~37 minutes using spin dynamics modelling. Even the shorter estimate vastly exceeds other mechanisms, but the discrepancy highlights theoretical uncertainty.
 
 ### The Problem
 
@@ -166,7 +168,7 @@ Radical pair mechanisms predict magnetic field sensitivity. Test whether:
 
 ### Correlation of Quantum Signatures with Consciousness Level
 
-Wiest's 2025 proposal for MRI detection of macroscopic entangled states—if validated—would allow tracking quantum signatures across consciousness states:
+Wiest's 2025 proposal for MRI detection of macroscopic entangled states—if validated—would allow tracking quantum signatures across [[altered-states-of-consciousness|consciousness states]]:
 
 - Awake vs. anaesthetised
 - Various depths of sleep
@@ -212,7 +214,7 @@ The evidence hierarchy shows that not all quantum consciousness proposals are eq
 
 **Connection to [[tenets#^dualism|Dualism]]:**
 
-These mechanisms matter because they provide potential loci for non-physical causation. If consciousness is irreducible to physical processes (as the Map's first tenet holds), it must interact with the physical world somewhere. Quantum indeterminacies offer the only known gap in physical causal closure—places where physics permits but does not determine outcomes. The mechanisms surveyed here identify where in neural tissue such gaps might exist and how consciousness might exploit them.
+These mechanisms matter because they provide potential loci for non-physical causation. If consciousness is irreducible to physical processes (as the Map's first tenet holds), it must interact with the physical world somewhere. Quantum indeterminacies offer the only known gap in [[causal-closure|physical causal closure]]—places where the [[measurement-problem]] leaves physics permitting but not determining outcomes. The mechanisms surveyed here identify where in neural tissue such gaps might exist and how consciousness might exploit them.
 
 **What distinguishes the Map's approach:**
 
@@ -239,14 +241,14 @@ None of these has been demonstrated to be the *actual* mechanism of conscious in
 
 ## References
 
-- Atkins, C., et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 12456.
 - Beck, F., & Eccles, J. C. (1992). Quantum aspects of brain activity and the role of consciousness. *PNAS*, 89(23), 11357-11361.
+- Denton, M. C. J., et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 - Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
-- Georgiev, D. D. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*, 135, 16-29.
+- Georgiev, D. D., & Glazebrook, J. F. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*, 135, 16-29.
 - Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-- Kalra, A. P., et al. (2023). Anesthetic dampening of quantum optical effects in microtubules. *Anesthesiology*, 139(4), 468-479.
-- Li, X., et al. (2024). Microtubule-stabilising compounds delay anaesthesia onset in rodent models. *British Journal of Anaesthesia*, 132(3), 512-521.
-- Player, T. C., & Hore, P. J. (2019). Posner molecules: from atomic structure to nuclear spins. *Physical Chemistry Chemical Physics*, 21, 20329-20338.
-- Qaswal, A. B. (2022). Mathematical Modeling of Ion Quantum Tunneling Reveals Novel Properties of Voltage-Gated Channels. *Quantum Reports*, 4(1), 10.
+- Kalra, A. P., et al. (2023). Electronic energy migration in microtubules. *ACS Central Science*, 9(3), 352-361.
+- Khan, S., et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+- Player, T. C., & Hore, P. J. (2018). Posner qubits: spin dynamics of entangled Ca₉(PO₄)₆ molecules and their role in neural processing. *Journal of The Royal Society Interface*, 15(147), 20180494.
+- Qaswal, A. B., et al. (2021). Mathematical modeling of ion quantum tunneling reveals novel properties of voltage-gated channels and quantum aspects of their pathophysiology in excitability-related disorders. *Pathophysiology*, 28(1), 116-154.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 - Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
