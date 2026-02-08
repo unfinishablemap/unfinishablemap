@@ -1,10 +1,10 @@
 ---
 title: "Consciousness and Social Cognition"
-description: "Advanced social cognition requires consciousness for recursive mindreading and shared intentionality. Great apes track behaviour; humans represent minds as minds."
+description: "Does recursive mindreading require phenomenal consciousness or just enhanced working memory? Examines the human-ape gap with recent false belief evidence."
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-02-08T19:14:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -35,7 +35,7 @@ last_curated: null
 last_deep_review: 2026-02-05T11:54:00+00:00
 ---
 
-Does advanced social cognition require phenomenal consciousness? Great apes possess impressive social abilities—tracking relationships, forming coalitions, anticipating others' behaviour based on goals and perceptions—yet lack the capacities that distinguish human social intelligence: shared intentionality, explicit theory of mind, recursive mindreading, and the cultural transmission of social knowledge. The Unfinishable Map argues that this gap tracks consciousness: phenomenal experience enables the metarepresentational operations that transform basic social cognition into the distinctively human capacity to represent minds *as* minds.
+Does advanced social cognition require phenomenal consciousness? Great apes possess impressive social abilities—tracking relationships, forming coalitions, anticipating others' behaviour based on goals and perceptions—yet lack the full suite of capacities that distinguish human social intelligence: shared intentionality, recursive mindreading, and the cultural transmission of social knowledge. The gap is real, but its explanation is contested: it could reflect differences in working memory capacity, executive function, or phenomenal consciousness—or some combination. The Unfinishable Map argues that phenomenal experience plays an essential role, enabling the metarepresentational operations that transform basic social cognition into the distinctively human capacity to represent minds *as* minds. But this claim requires careful distinction between phenomenal consciousness (subjective experience) and cognitive access (global information availability), since the two are often conflated in the literature.
 
 ## The Scope of Social Cognition
 
@@ -71,13 +71,19 @@ Understanding what others perceive. "She sees the food" requires representing an
 
 ### Level 2: Belief Attribution
 
-Understanding that others have beliefs that may differ from reality—and from your own. The classic false belief test: does the subject understand that another agent will act on their (false) belief rather than reality? Great apes show mixed results here: some studies suggest understanding of false beliefs in competitive contexts, while others find only behaviour-reading without genuine belief attribution. The field remains actively debated, and methodological concerns—about training effects, alternative explanations, and the difficulty of ruling out behaviour-tracking—prevent confident conclusions.
+Understanding that others have beliefs that may differ from reality—and from your own. The classic false belief test: does the subject understand that another agent will act on their (false) belief rather than reality?
+
+Recent evidence has strengthened the case for some form of false belief understanding in great apes. Krupenye et al. (2016) used anticipatory looking measures to show that all three great ape species (chimpanzees, bonobos, and orangutans) anticipated that an agent would act according to a false belief. Buttelmann et al. (2017) found that chimpanzees used an agent's false belief to interpret their behaviour in an active helping paradigm. These studies suggest that apes may possess implicit belief tracking that goes beyond simple behaviour reading.
+
+The debate continues, however. Some researchers argue these results reflect genuine belief attribution; others maintain that behaviour-rule accounts can explain the data without positing belief representation (Heyes 2014, Povinelli & Vonk 2003). The difficulty of distinguishing implicit belief tracking from explicit belief representation—and the question of whether implicit tracking counts as "theory of mind"—remains unresolved. What is clear is that the evidence for ape false belief understanding is substantially stronger than earlier negative results suggested.
 
 ### Level 3: Recursive Mindreading
 
 Representing others' mental states about mental states. "She thinks that I think the food is hidden." This recursive nesting—beliefs about beliefs, intentions about intentions—enables strategic social reasoning, deception detection, and the coordination complexities of human social life.
 
-**The key claim**: Levels 0-1 may operate through [[baseline-cognition]] without requiring phenomenal consciousness. Level 2 is contested—perhaps achievable through sophisticated implicit tracking, perhaps requiring something more. Level 3 appears to require explicit metarepresentation—consciously representing mental states *as* mental states.
+**The key claim**: Levels 0-1 may operate through [[baseline-cognition]] without requiring phenomenal consciousness. Level 2 is contested—recent evidence suggests apes possess at least implicit belief tracking, and the question is whether this reflects genuine belief attribution or a sophisticated behaviour-reading mechanism. Level 3 appears to require explicit metarepresentation—representing mental states *as* mental states.
+
+**An important caveat**: The human-ape gap in social cognition does not straightforwardly track consciousness. Humans also differ from apes in working memory capacity, executive function, and language—any of which could contribute to the gap independently of phenomenal consciousness. The Map's claim is that phenomenal consciousness plays an essential role in the highest levels, but this must be argued rather than assumed from the comparative data alone.
 
 ## The Metarepresentational Threshold
 
@@ -96,7 +102,9 @@ This requires:
 4. Representing what I'm supposed to be ignorant of (her plan)
 5. Keeping all four levels distinct and manipulable
 
-[[Working-memory]] research suggests that manipulating information—not just maintaining it—requires conscious access. The nested structure of recursive mindreading demands exactly this: holding representations while actively working with them, comparing them, and computing their relationships.
+[[Working-memory]] research suggests that manipulating information—not just maintaining it—requires what cognitive scientists call "conscious access"—global availability of information across cognitive systems. The nested structure of recursive mindreading demands exactly this: holding representations while actively working with them, comparing them, and computing their relationships.
+
+A critical distinction applies here. "Conscious access" in cognitive science typically means global workspace availability—information broadcast widely for use by multiple cognitive processes. This is a *functional* property, not necessarily identical with *phenomenal* consciousness (subjective experience, what-it-is-like-ness). A functionalist could accept that recursive mindreading requires global access while denying it requires phenomenal experience. The Map's stronger claim—that phenomenal consciousness specifically is required—rests on the argument that the metarepresentational content of understanding another mind *as* a mind has irreducibly phenomenal character: grasping what a belief *means*, not just processing its functional role. This goes beyond what global access alone provides, but the argument is philosophical rather than empirically settled.
 
 ### The Jourdain Problem Applied
 
@@ -210,19 +218,21 @@ The process framework thus supports the view that phenomenal consciousness enabl
 
 The claim that consciousness enables advanced social cognition would be undermined if:
 
-1. **Great apes demonstrated recursive mindreading**: If chimpanzees or bonobos convincingly passed Level 3 theory of mind tests—reasoning about beliefs about beliefs—this would suggest metarepresentational social cognition without expanded consciousness. Current evidence is mixed; clear evidence would challenge the view.
+1. **Great apes demonstrated recursive mindreading**: If chimpanzees or bonobos convincingly passed Level 3 theory of mind tests—reasoning about beliefs about beliefs—this would suggest metarepresentational social cognition without expanded consciousness. Recent evidence already shows apes performing better on false belief tasks than previously thought (Krupenye et al. 2016, Buttelmann et al. 2017); clear evidence of recursive mindreading would seriously challenge the view.
 
 2. **AI developed genuine empathic concern**: If an artificial system showed unmistakable empathic concern—caring about others' welfare based on understanding their states—without phenomenal consciousness, this would challenge the consciousness requirement. The difficulty: distinguishing genuine concern from behaviour that mimics it.
 
 3. **Dissociations between consciousness and social cognition in humans**: If brain damage could eliminate phenomenal consciousness while preserving sophisticated social cognition (or vice versa), this would suggest independence. Current evidence suggests social cognition deficits accompany consciousness deficits, but cleaner dissociations would be informative.
 
-4. **Functional explanation of the recursive capacity**: If cognitive science fully explained recursive mindreading in purely information-processing terms, without appealing to phenomenal properties, the explanatory gap for social cognition would narrow. Currently, the highest levels of social cognition resist purely functional explanation.
+4. **Working memory alone explaining the gap**: If enhanced working memory and executive function—without phenomenal consciousness—were shown to be sufficient for recursive mindreading, the consciousness requirement would be undermined. Current evidence cannot cleanly separate these factors, since working memory enhancement and consciousness expansion co-occur in humans.
+
+5. **Functional explanation of the recursive capacity**: If cognitive science fully explained recursive mindreading in purely information-processing terms, without appealing to phenomenal properties, the explanatory gap for social cognition would narrow. Currently, the highest levels of social cognition resist purely functional explanation, but the argument from this resistance to a consciousness requirement involves philosophical commitments that not all researchers share.
 
 ## Relation to Site Perspective
 
 ### Bidirectional Interaction
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences behaviour. Social cognition provides strong evidence: human social abilities exceed what baseline cognition achieves, and the excess tracks capacities—recursive mindreading, shared intentionality, empathic concern—where consciousness appears required. If consciousness were epiphenomenal, the correlation between enhanced consciousness and enhanced social cognition would be coincidental. The systematic pattern—consciousness-dependent social capacities present in humans, absent in apes—suggests consciousness does causal work.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences behaviour. Social cognition provides suggestive (though not conclusive) evidence: human social abilities exceed what baseline cognition achieves, and the excess correlates with capacities—recursive mindreading, shared intentionality, empathic concern—where consciousness plausibly plays a role. If consciousness were epiphenomenal, this correlation would be coincidental. However, as noted throughout this article, the correlation also tracks enhanced working memory and executive function, so the evidence is consistent with multiple explanations. The Map's position is that consciousness does causal work in social cognition, but intellectual honesty requires acknowledging this remains an inference from converging evidence rather than a demonstrated fact.
 
 ### Dualism
 
@@ -260,10 +270,33 @@ The simpler hypothesis—social cognition is just sophisticated information proc
 
 - Apperly, I. A., & Butterfill, S. A. (2009). Do humans have two systems to track beliefs and belief-like states? *Psychological Review*, 116(4), 953-970.
 - Baron-Cohen, S. (1995). *Mindblindness: An Essay on Autism and Theory of Mind*. MIT Press.
+- Buttelmann, D., Buttelmann, F., Carpenter, M., Call, J., & Tomasello, M. (2017). Great apes distinguish true from false beliefs in an interactive helping task. *PLoS ONE*, 12(4), e0173793.
 - Call, J., & Tomasello, M. (2008). Does the chimpanzee have a theory of mind? 30 years later. *Trends in Cognitive Sciences*, 12(5), 187-192.
 - de Waal, F. B. M. (2008). Putting the altruism back into altruism: The evolution of empathy. *Annual Review of Psychology*, 59, 279-300.
 - Heyes, C. (2014). Submentalizing: I am not really reading your mind. *Perspectives on Psychological Science*, 9(2), 131-143.
+- Krupenye, C., Kano, F., Hirata, S., Call, J., & Tomasello, M. (2016). Great apes anticipate that other individuals will act according to false beliefs. *Science*, 354(6308), 110-114.
+- Povinelli, D. J., & Vonk, J. (2003). Chimpanzee minds: Suspiciously human? *Trends in Cognitive Sciences*, 7(4), 157-160.
 - Premack, D., & Woodruff, G. (1978). Does the chimpanzee have a theory of mind? *Behavioral and Brain Sciences*, 1(4), 515-526.
 - Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 - Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
 - Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+
+<!-- AI REFINEMENT LOG - 2026-02-08
+Changes made:
+- Updated opening to acknowledge working memory/executive function as alternative explanations for the human-ape gap, not just consciousness
+- Distinguished phenomenal consciousness from cognitive access (global workspace availability) throughout
+- Updated Level 2 (Belief Attribution) with Krupenye et al. 2016 and Buttelmann et al. 2017 evidence for great ape false belief understanding
+- Added caveat after the levels section noting the gap doesn't straightforwardly track consciousness
+- Expanded the nested structure problem section to explicitly distinguish "conscious access" (cognitive science term for global availability) from phenomenal consciousness
+- Added working memory challenge as a new falsification condition (#4)
+- Softened Bidirectional Interaction tenet section to acknowledge converging-evidence-not-proof status
+- Updated description for better accuracy
+- Added references: Krupenye et al. 2016, Buttelmann et al. 2017, Povinelli & Vonk 2003
+
+Based on pessimistic review (2026-02-05 morning) identifying three issues:
+1. Understated great ape false belief evidence
+2. Human-ape gap presented as tracking consciousness when working memory/executive function could explain it
+3. Conflation of cognitive access with phenomenal consciousness
+
+This log should be removed after human review.
+-->

@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-08 19:14 UTC - refine-draft
+- **Status**: Success
+- **File**: [[consciousness-and-social-cognition]]
+- **Changes**: Updated great ape false belief evidence (Krupenye 2016, Buttelmann 2017), distinguished phenomenal consciousness from cognitive access, acknowledged working memory/executive function as alternative explanations for the human-ape gap, added new falsification condition, softened tenet claims to match evidence strength
+- **Based on**: Pessimistic review 2026-02-05 morning (3 issues addressed)
+- **Published**: yes
+
 ## 2026-02-08 18:59 UTC - deep-review
 - **Status**: Success
 - **File**: [[quantum-neural-mechanisms]]
