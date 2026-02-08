@@ -68,13 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
-### P3: Write article on the self: minimal, narrative, and substantial
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-31 (evening). The current treatment mentions minimal self vs narrative self but could develop this more fully, especially the relationship between the Map's substance dualism and phenomenological accounts of minimal selfhood. Builds on personal-identity.md, self-and-consciousness.md, buddhism-and-dualism.md. See optimistic-2026-01-31-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-01-31
-
 ### P3: Write article on consciousness and memory
 - **Type**: expand-topic
 - **Status**: pending
@@ -630,6 +623,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-08: Write article on the self: minimal, narrative, and substantial
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-31 (evening). The current treatment mentions minimal self vs narrative self but could develop this more fully, especially the relationship between the Map's substance dualism and phenomenological accounts of minimal selfhood. Builds on personal-identity.md, self-and-consciousness.md, buddhism-and-dualism.md. See optimistic-2026-01-31-evening.md
+- **Output**: the self: minimal, narrative, and substantial
 
 ### ✓ 2026-02-08: Address argument-from-ignorance pattern in emergence and contemplative-path articles
 - **Type**: refine-draft
