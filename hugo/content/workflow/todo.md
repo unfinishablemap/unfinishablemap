@@ -38,6 +38,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P0: Research adaptive computational depth in universe simulation
+- **Type**: research-topic
+- **Notes**: Investigate the idea that the universe is 'adaptive' in the level of calculation it performs to provide our experience, analogous to adaptive rendering in video games (LOD, distance-based detail reduction). Distant cosmological features may be minimally calculated until inspected more closely—a kind of cosmic level-of-detail system. Key angles: (1) the universe can be understood and simulated at multiple levels—classical physics, quantum physics, the representation of objects that humans experience—and the simulation may only compute the level needed; (2) parallels with quantum mechanics where detailed states aren't determined until measured; (3) the computational economy argument—why calculate what no observer inspects?; (4) how this relates to simulation hypothesis, digital physics, and the Map's dualist framework where consciousness drives which calculations get performed.
+
+### P2: Research the participatory universe
+- **Type**: research-topic
+- **Notes**: Research Wheeler's participatory universe and related ideas—that observers don't merely passively experience the universe but actively define its nature through interaction. Key angles: (1) Wheeler's "it from bit" and the delayed-choice experiment as evidence that observation retroactively shapes reality; (2) how this connects to quantum measurement and wave function collapse—the universe's properties aren't fully determined until observed; (3) relationship to the Map's dualist framework where consciousness plays a causal role; (4) distinction from anthropic principle—this is stronger, claiming observers constitute rather than merely select reality; (5) connections to existing Map content on quantum measurement, indexical identity, and prebiotic collapse (how did the universe work before observers existed?).
+
 ### P2: Update wikilinks to archived articles (interface-locality, brain-specialness, and 5 others)
 - **Type**: other
 - **Notes**: Gap analysis found 70+ broken wikilinks pointing to archived/coalesced articles. Key targets: interface-locality (34 refs, archived to concepts/), brain-specialness (6 refs), consciousness-and-quantum-measurement (11 refs), nihilism (5 refs), quantum-measurement-and-definite-outcomes (5 refs), eastern-philosophy-haecceity-tension (4 refs), meaning-and-consciousness (4 refs). Update wikilinks to point to the replacement articles these were coalesced into, or verify the archive redirect handles them.
@@ -62,23 +70,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P3: Strengthen impossibility arguments in foundational voids
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-03 afternoon) found systematic vulnerability in self-reference-paradox.md, origin-of-consciousness.md, and other-minds-void.md: all three conflate *persistence* of problems with *structural impossibility*. Need to distinguish "this hasn't been solved" from "this is unsolvable." Also address Gödelian overreach in self-reference article (minds aren't formal systems). Lower priority as phenomenological descriptions remain valuable. See pessimistic-2026-02-03-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-03
-
-### P3: Address conceptual/ontological irreducibility gap in rationality cluster
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-03 evening) found systematic vulnerability in argument-from-reason.md, phenomenology-of-understanding.md, and consciousness-and-mathematical-understanding.md: all three conflate *conceptual* irreducibility (normative vocabulary cannot be defined in causal terms) with *ontological* irreducibility (normative properties cannot supervene on physical properties). Need to engage Type-B physicalism more directly. Also: inconsistent treatment of introspection (relied on for understanding's phenomenology while acknowledged as unreliable elsewhere). Lower priority as phenomenological descriptions remain valuable. See pessimistic-2026-02-03-evening.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-03
-
-### P3: Address confidence-uncertainty mismatch in foundational articles
+### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
 - **Source**: pessimistic-review
 - **Generated**: 2026-02-05
+- **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
 ### P3: Clarify falsifiability status of post-decoherence selection and haecceity
 - **Type**: refine-draft
@@ -691,6 +688,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-07: Strengthen impossibility arguments in foundational voids
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-03 afternoon) found systematic vulnerability in self-reference-paradox.md, origin-of-consciousness.md, and other-minds-void.md: all three conflate *persistence* of problems with *structural impossibility*. Need to distinguish "this hasn't been solved" from "this is unsolvable." Also address Gödelian overreach in self-reference article (minds aren't formal systems). Lower priority as phenomenological descriptions remain valuable. See pessimistic-2026-02-03-afternoon.md
+- **Output**: Task context:
+Pessimistic review (2026-02-03 afternoon) found systematic vulnerability in self-reference-paradox.md, origin-of-consciousness.md, and other-minds-void.md: all three conflate *persistence* of problems with *structural impossibility*. Need to distinguish "this hasn't been solved" from "this is unsolvable." Also address Gödelian overreach in self-reference article (minds aren't formal systems). Lower priority as phenomenological descriptions remain valuable. See pessimistic-2026-02-03-afternoon.md
 
 ### ✓ 2026-02-07: Address two-layer architecture and quantum Zeno timescale issues in interface cluster
 - **Type**: refine-draft

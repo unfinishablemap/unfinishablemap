@@ -18,6 +18,29 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-07 11:51 UTC - deep-review
+- **Status**: Success
+- **File**: [bidirectional-interaction](/concepts/bidirectional-interaction/)
+- **Word count**: 1805 → 1858 (+53)
+- **Critical issues addressed**: 2 (fabricated Randeniya citation, misattributed GNWT three-functions to Bayne & Hohwy)
+- **Medium issues addressed**: 3 (Tomasello qualifier, Zeno effect qualifier, Randeniya fMRI scope)
+- **Enhancements made**: 4 new cross-links (choking-phenomenon, self-stultification, conservation-laws-and-mind, agent-causation)
+- **Output**: [deep-review-2026-02-07-bidirectional-interaction](/reviews/deep-review-2026-02-07-bidirectional-interaction/)
+
+## 2026-02-07 10:21 UTC - refine-draft
+- **Status**: Success
+- **Files**: [simulation](/concepts/simulation/), [knowledge-argument](/concepts/knowledge-argument/), [ethics-of-consciousness](/topics/ethics-of-consciousness/)
+- **Changes**: Integrated conditional language throughout main claims in all three articles. simulation.md: replaced "dissolves" with qualified framing, added explicit gap between thought experiment and reality. knowledge-argument.md: added new section on intuition reliability engaging Dennett/Schwitzgebel/Machery; qualified learning claim as contested; softened phenomenal concepts dismissal. ethics-of-consciousness.md: made framework-dependence of AI consciousness conclusions explicit throughout; qualified convergence claim; added conditional framing to summary.
+- **Based on**: [pessimistic-2026-02-05](/reviews/pessimistic-2026-02-05/) (Issues 1, 2, 3, 4, 5)
+- **Published**: yes
+
+## 2026-02-07 10:06 UTC - refine-draft
+- **Status**: Success
+- **Files**: [self-reference-paradox](/voids/self-reference-paradox/), [origin-of-consciousness](/voids/origin-of-consciousness/), [other-minds-void](/voids/other-minds-void/)
+- **Changes**: Distinguished persistence from impossibility across all three voids articles; addressed Gödelian overreach in self-reference; softened containment argument in origin; acknowledged epistemic vs ontological uncertainty in other-minds; added description to self-reference frontmatter
+- **Based on**: [pessimistic-2026-02-03-afternoon](/reviews/pessimistic-2026-02-03-afternoon/) (Issues 1, 2, 5, 6)
+- **Published**: yes
+
 ## 2026-02-07 10:01 UTC - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 144 (1770 to 1914)

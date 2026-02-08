@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-01-31 16:45:00+00:00
+ai_modified: 2026-02-07 10:21:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,9 +19,9 @@ concepts:
 - '[[natural-vs-designed-limits]]'
 created: 2026-01-07
 date: &id001 2026-01-07
-description: If reality is computed, mind-matter interaction becomes unsurprising.
-  Locality dissolves, physical closure becomes contingent, and consciousness may interface
-  naturally.
+description: If reality were computed, familiar objections to mind-matter interaction
+  would rest on contingent assumptions. A thought experiment revealing what we tacitly
+  presuppose.
 draft: false
 human_modified: null
 last_curated: null
@@ -36,9 +36,9 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The simulation hypothesis proposes that our reality is a computed simulation running on some substrate. This speculative idea, popularised by Nick Bostrom's probability argument and science fiction, cannot be empirically tested—but it has philosophical relevance for mind-matter interaction. In simulated contexts, certain objections to consciousness influencing physics lose their force.
+The simulation hypothesis proposes that our reality is a computed simulation running on some substrate. This speculative idea, popularised by Nick Bostrom's probability argument and science fiction, cannot be empirically tested—but it has philosophical relevance for mind-matter interaction. If we take the hypothesis seriously as a thought experiment, certain objections to consciousness influencing physics turn out to rest on contingent assumptions rather than necessary truths.
 
-This page examines the simulation hypothesis and its implications for The Unfinishable Map's [tenets](/tenets/)—particularly bidirectional interaction and the [locality](/concepts/locality/) problem. The hypothesis is valuable as a tool for revealing hidden assumptions in our metaphysics, not as an empirical theory.
+This page examines the simulation hypothesis and its implications for The Unfinishable Map's [tenets](/tenets/)—particularly bidirectional interaction and the [locality](/concepts/locality/) problem. The hypothesis is valuable as a diagnostic tool for revealing hidden assumptions in our metaphysics, not as an empirical theory or a positive account of reality.
 
 ## The Hypothesis
 
@@ -57,13 +57,13 @@ If civilisations typically survive, develop computing power, and run simulations
 
 ## Why This Matters for Consciousness
 
-The simulation hypothesis reframes several hard problems, revealing them as contingent on assumptions that might be false:
+If the simulation hypothesis were true, several hard problems would be reframed—revealed as contingent on assumptions that might be false. Even as a thought experiment, it exposes which of our metaphysical commitments are necessary and which are merely assumed:
 
-### Locality Becomes Trivial
+### Locality Would Become Trivial
 
 In any simulation, spatial relationships are represented data, not fundamental constraints. The "distance" between two neurons is a number in memory—not a gap that information must cross.
 
-If consciousness operates at the simulation layer (or interfaces with it), engaging with distributed physical events requires no mysterious spanning of space. Every brain location is equally accessible because locations are just addresses. The [locality](/concepts/locality/) objection dissolves.
+If consciousness operated at the simulation layer (or interfaced with it), engaging with distributed physical events would require no mysterious spanning of space. Every brain location would be equally accessible because locations are just addresses. The [locality](/concepts/locality/) objection—how does consciousness coordinate across spatial distances?—would rest on an assumption (that space is fundamental) rather than a necessary truth. This doesn't answer the locality objection in our reality, but it reveals that the objection presupposes a specific metaphysical picture.
 
 ### Mind-Matter Interface Has Precedent
 
@@ -72,13 +72,13 @@ In simulations we create today, we routinely couple mental states to simulated p
 - A programmer's decision changes physical laws
 - Conscious choices determine simulated outcomes
 
-We don't find this mysterious because we understand the mechanism: the simulation layer accepts inputs that modify the physics engine. The analogy is imperfect—players exist *outside* the game with known causal interfaces, while we're supposedly *inside* the simulation. Yet the simulation framework shows that consciousness-physics coupling is architecturally possible; the question becomes whether our simulation includes such an interface, not whether such interfaces are conceivable.
+We don't find this mysterious because we understand the mechanism: the simulation layer accepts inputs that modify the physics engine. The analogy is imperfect—players exist *outside* the game with known causal interfaces, while we're supposedly *inside* the simulation. Yet the simulation framework suggests that consciousness-physics coupling is architecturally possible in at least some contexts. The question would shift to whether our reality includes such an interface—though the gap between "conceivable in principle" and "actual" remains substantial.
 
 ### Physical Laws Are Implementation Choices
 
 The fine-tuned constants of physics, the specific form of quantum mechanics, the apparent closure of physical causation—all become contingent facts about how this simulation was configured. Other configurations are possible.
 
-This suggests that apparent barriers to mind-matter interaction (like causal closure) may be features of our particular implementation, not necessary truths about reality.
+This would suggest that apparent barriers to mind-matter interaction (like causal closure) might be features of a particular implementation rather than necessary truths about reality. The simulation hypothesis doesn't show that closure *is* contingent—but it shows that the assumption of closure's necessity deserves scrutiny.
 
 ## Relation to Site Perspective
 
@@ -178,17 +178,17 @@ This objection deserves a direct answer. Empirically, the simulation hypothesis 
 
 #### What Simulation Provides That Physicalism Doesn't
 
-The simulation hypothesis does specific philosophical work:
+If the simulation hypothesis is coherent, it does specific philosophical work:
 
-1. **It renders mind-matter interaction conceivable.** Physicalism faces the causal closure problem: if physical effects have physical causes, where does consciousness enter? The simulation framework provides a coherent model where consciousness interfaces with a layer that isn't bound by the simulated physics. This doesn't prove interaction occurs, but it defeats the claim that interaction is inconceivable.
+1. **It provides a model where mind-matter interaction is conceivable.** Physicalism faces the causal closure problem: if physical effects have physical causes, where does consciousness enter? The simulation framework offers a model where consciousness interfaces with a layer that isn't bound by the simulated physics. This doesn't prove interaction occurs—or even that this model describes our reality—but it challenges the claim that interaction is inconceivable by providing a counterexample.
 
-2. **It reveals closure as contingent.** Physical causal closure—often treated as a necessary feature of any coherent physics—becomes a design choice. The simulator could have configured physics to be causally closed or not. This shifts the burden of proof: those who assert closure must now argue it's necessary, not merely assume it.
+2. **It suggests closure might be contingent.** Physical causal closure—often treated as a necessary feature of any coherent physics—would become a design choice in a simulated world. This doesn't demonstrate that closure *is* contingent in our reality, but it reveals that arguments for closure's necessity carry assumptions worth examining.
 
-3. **It explains why locality seems fundamental but might not be.** The [locality](/concepts/locality/) objection—how does distributed consciousness coordinate across spatial distances?—dissolves not through handwaving but through a specific mechanism: if space is represented rather than fundamental, "distance" is just data structure, not a barrier to information flow.
+3. **It reframes the locality concern.** The [locality](/concepts/locality/) objection—how does distributed consciousness coordinate across spatial distances?—would not arise if space were represented data rather than fundamental structure. This doesn't answer the objection as it applies within our experienced physics (where spatial constraints hold regardless of substrate), but it shows the objection presupposes that space is fundamental—an assumption, not a proven truth.
 
-4. **It offers a non-branching interpretation of quantum mechanics.** The simulation framework provides a principled reason for single outcomes: the simulator calculates one result per measurement. This is not just "consistent with" single outcomes—it explains them through computational economy without invoking many-worlds branching.
+4. **It offers one possible non-branching interpretation of quantum mechanics.** If a simulator calculates one outcome per measurement, single outcomes follow from computational economy. However, as noted in the caveats, this depends on whether quantum mechanics can be simulated without quantum computation—and if it requires quantum computation, MWI may relocate rather than disappear.
 
-These contributions are philosophical, not empirical. The simulation hypothesis doesn't predict anything different from physicalism, but it *permits* things physicalism appears to forbid. For a framework that takes consciousness seriously as causally efficacious, this permission is substantive.
+These contributions are philosophical, not empirical. The simulation hypothesis doesn't predict anything different from physicalism, but it *permits* things physicalism appears to forbid. For a framework that takes consciousness seriously as causally efficacious, this permission is worth noting—though the gap between "permitted by a thought experiment" and "true of our reality" remains large.
 
 #### What Simulation Cannot Do
 
@@ -258,14 +258,14 @@ The simulation hypothesis is speculative metaphysics, not established fact or em
 
 Its value for the Map is philosophical, not scientific:
 
-1. It defeats the claim that mind-matter interaction is inconceivable by providing a coherent model
-2. It reveals that causal closure is a contingent feature, not a necessary truth
-3. It dissolves the locality objection through a specific mechanism (space as data structure)
-4. It offers a principled single-outcome interpretation of quantum mechanics
+1. It challenges the claim that mind-matter interaction is inconceivable by providing a model where it works
+2. It suggests that causal closure may be contingent rather than necessary—an assumption worth scrutinising
+3. It reframes the locality concern by showing it presupposes the fundamentality of space
+4. It offers one possible non-branching interpretation of quantum mechanics (with caveats about quantum computation)
 
-The hypothesis functions as a tool for examining assumptions. Many objections to interactionist dualism presuppose a metaphysical picture that the simulation framework shows is not necessary. Revealing these assumptions as contingent is genuine philosophical work—even without empirical consequences.
+The hypothesis functions as a diagnostic tool for examining assumptions. Many objections to interactionist dualism presuppose a metaphysical picture that the simulation framework reveals as contingent. Showing that these assumptions are not necessary truths is genuine philosophical work—even without empirical consequences. But "revealing assumptions as contingent" is more modest than "answering objections." The objections may still hold within our experienced reality; the simulation hypothesis shows they are not logically necessary, not that they are false.
 
-Whether or not we are simulated, the *possibility* of simulation illuminates what's truly necessary versus merely assumed in our metaphysics. That illumination is the hypothesis's contribution to the Map.
+Whether or not we are simulated, the *possibility* of simulation illuminates what's truly necessary versus merely assumed in our metaphysics. That illumination—modest but genuine—is the hypothesis's contribution to the Map.
 
 ## Further Reading
 
@@ -273,7 +273,7 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability arguments and what they reveal about simulation
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How choice phenomenology aligns with simulation over many-worlds
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The interface between consciousness and neural processing
-- [locality](/concepts/locality/) — How simulation dissolves spatial coordination concerns
+- [locality](/concepts/locality/) — How simulation reframes spatial coordination concerns
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The broader question of quantum selection
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-physics interaction
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Why the Map favours single-outcome interpretations
@@ -291,18 +291,20 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 - Chalmers, D. (2022). *Reality+: Virtual Worlds and the Problems of Philosophy*. W.W. Norton.
 - Tegmark, M. (2014). *Our Mathematical Universe*. Knopf.
 
-<!-- AI REFINEMENT LOG - 2026-01-31
+<!-- AI REFINEMENT LOG - 2026-02-07
 Changes made:
-- Rewrote triviality objection section to honestly acknowledge empirical limitations
-- Added explicit statement that hypothesis is speculative metaphysics with no empirical tests
-- Articulated four specific things simulation provides that physicalism doesn't (making interaction conceivable, revealing closure as contingent, dissolving locality objection, offering single-outcome QM interpretation)
-- Added "What Simulation Cannot Do" subsection acknowledging limits
-- Updated Status section to match honest framing
-- Modified opening summary to include speculative nature and lack of empirical testability
-- Changed "transforms" to "reframes" for hard problems section
+- Replaced "dissolves" language throughout with conditional framing ("would dissolve", "reframes", "reveals as contingent")
+- Opening paragraph: "lose their force" → "rest on contingent assumptions rather than necessary truths"
+- "Locality Becomes Trivial" → "Locality Would Become Trivial" with explicit note that this doesn't answer the objection in our reality
+- Mind-matter interface section: qualified "shows coupling is possible" → "suggests coupling is possible in at least some contexts" with acknowledgment of conceivable/actual gap
+- Physical laws section: added explicit caveat that simulation doesn't show closure IS contingent, only that it deserves scrutiny
+- "What Simulation Provides" section: all four points rewritten with conditional framing; added closing note about gap between thought experiment and reality
+- Status section: "defeats" → "challenges"; "dissolves" → "reframes"; added explicit final sentence distinguishing "revealing assumptions as contingent" from "answering objections"
+- Description field: rewritten with conditional language
+- Further Reading: "dissolves" → "reframes"
 
-Based on pessimistic review finding that article conceded "reframes rather than answers" but didn't adequately address triviality objection.
-Key improvements: Honest acknowledgment of speculative status while articulating specific non-trivial philosophical value.
+Based on pessimistic review (2026-02-05) finding that strong claims in main text had uncertainty buried in caveats.
+Key improvements: Conditional language integrated throughout main text, not just in caveats.
 
 This log should be removed after human review.
 -->
