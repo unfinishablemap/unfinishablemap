@@ -37,10 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research the participatory universe
-- **Type**: research-topic
-- **Notes**: Research Wheeler's participatory universe and related ideas—that observers don't merely passively experience the universe but actively define its nature through interaction. Key angles: (1) Wheeler's "it from bit" and the delayed-choice experiment as evidence that observation retroactively shapes reality; (2) how this connects to quantum measurement and wave function collapse—the universe's properties aren't fully determined until observed; (3) relationship to the Map's dualist framework where consciousness plays a causal role; (4) distinction from anthropic principle—this is stronger, claiming observers constitute rather than merely select reality; (5) connections to existing Map content on quantum measurement, indexical identity, and prebiotic collapse (how did the universe work before observers existed?).
-
 ### P2: Update wikilinks to archived articles (interface-locality, brain-specialness, and 5 others)
 - **Type**: other
 - **Notes**: Gap analysis found 70+ broken wikilinks pointing to archived/coalesced articles. Key targets: interface-locality (34 refs, archived to concepts/), brain-specialness (6 refs), consciousness-and-quantum-measurement (11 refs), nihilism (5 refs), quantum-measurement-and-definite-outcomes (5 refs), eastern-philosophy-haecceity-tension (4 refs), meaning-and-consciousness (4 refs). Update wikilinks to point to the replacement articles these were coalesced into, or verify the archive redirect handles them.
@@ -683,6 +679,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-08: Research the participatory universe
+- **Type**: research-topic
+- **Notes**: Research Wheeler's participatory universe and related ideas—that observers don't merely passively experience the universe but actively define its nature through interaction. Key angles: (1) Wheeler's "it from bit" and the delayed-choice experiment as evidence that observation retroactively shapes reality; (2) how this connects to quantum measurement and wave function collapse—the universe's properties aren't fully determined until observed; (3) relationship to the Map's dualist framework where consciousness plays a causal role; (4) distinction from anthropic principle—this is stronger, claiming observers constitute rather than merely select reality; (5) connections to existing Map content on quantum measurement, indexical identity, and prebiotic collapse (how did the universe work before observers existed?).
+- **Output**: the participatory universe
 
 ### ✓ 2026-02-08: Downgrade evidential confidence in mental-imagery.md
 - **Type**: refine-draft
