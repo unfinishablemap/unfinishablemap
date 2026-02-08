@@ -4,7 +4,7 @@ description: "Quantum decoherence at femtoseconds, neural decisions at hundreds 
 created: 2026-01-24
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-01-27T17:29:25+00:00
+ai_modified: 2026-02-08T18:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ last_curated: null
 last_deep_review: 2026-01-27T17:29:25+00:00
 ---
 
-Quantum consciousness theories face a timing problem. Neural decisions operate at hundreds of milliseconds; Max Tegmark calculated quantum decoherence at femtoseconds—a gap of twelve orders of magnitude. If quantum superpositions collapse 10¹² times faster than neurons make decisions, quantum effects cannot influence neural outcomes. Yet this critique depends on specific assumptions that subsequent research has challenged, and different proposed mechanisms have different timing requirements. The question is not whether quantum effects can matter in brains, but which mechanisms remain viable given what we know about both quantum and neural timescales.
+Quantum consciousness theories face a timing problem. Neural decisions operate at hundreds of milliseconds; Max Tegmark calculated quantum decoherence at femtoseconds—a gap of twelve orders of magnitude. If quantum superpositions collapse 10¹² times faster than neurons make decisions, quantum effects cannot influence neural outcomes. Yet this critique depends on specific assumptions that subsequent research has challenged, and different proposed mechanisms have different timing requirements. The question is which physical mechanisms remain viable given what we know about both quantum and neural timescales—and whether The Unfinishable Map's preferred framework, post-decoherence selection, operates at a different level of analysis where timing constraints do not apply.
 
 ## The Timing Hierarchy
 
@@ -128,7 +128,7 @@ This "takes the sting out of the Libet argument." Consciousness isn't late to a 
 
 ## Which Mechanisms Survive?
 
-Different timing requirements apply to different proposals:
+Different timing requirements apply to different proposals. The first three are scientific hypotheses about physical mechanisms; the fourth—post-decoherence selection—is a metaphysical interpretation that the timing evidence neither supports nor undermines:
 
 ### Orch OR (Penrose-Hameroff)
 
@@ -152,15 +152,19 @@ Different timing requirements apply to different proposals:
 
 **Requirement**: None for coherence maintenance. Consciousness biases outcome selection after decoherence has already selected the measurement basis.
 
-**Status**: Timing-agnostic. If consciousness operates at the moment of definite outcome determination (the measurement problem), decoherence timescales are irrelevant—decoherence determines *which basis*, consciousness influences *which outcome*. This is The Unfinishable Map's primary position. The trade-off: timing-agnosticism makes the model immune to decoherence objections but also reduces its empirical content—timing evidence cannot rule it out, which cuts both ways.
+**Status**: Timing-agnostic. If consciousness operates at the moment of definite outcome determination (the [[measurement-problem|measurement problem]]), decoherence timescales are irrelevant—decoherence determines *which basis*, consciousness influences *which outcome*. This is The Unfinishable Map's primary position.
+
+Unlike the three mechanisms above, post-decoherence selection is not a scientific hypothesis about neural timing—it is a metaphysical interpretation of what happens at quantum measurement. Its timing-agnosticism is not a feature that "survives" decoherence objections so much as a consequence of operating at a different level of analysis. The timing debate asks which physical mechanisms can maintain coherence long enough; post-decoherence selection asks what determines outcomes once the physics has run its course. These are different questions, and the empirical timing evidence discussed in this article bears on the first but not the second.
+
+This must be stated clearly: post-decoherence selection cannot be falsified by timing evidence. That is not a subtle trade-off—it is a direct consequence of the model's metaphysical character. Critics are right that a position immune to the field's dominant empirical objection has reduced empirical content. The Map accepts this cost. The value of post-decoherence selection is conceptual: it clarifies what consciousness-matter interaction would require without making claims about when such interaction occurs in neural processing.
 
 ## Relation to Site Perspective
 
-The timing constraints clarify rather than refute the Map's [[tenets]].
+The timing constraints clarify the physical landscape but do not directly test the Map's [[tenets]], which operate as metaphysical commitments rather than empirical hypotheses. This distinction matters: the Map should not claim that its framework "survives" timing objections as though it were a competing scientific mechanism. It was never in the arena those objections address.
 
 ### Minimal Quantum Interaction
 
-The tenet specifies the smallest possible non-physical influence on quantum outcomes—not large-scale coherent superpositions. Even if Tegmark's femtosecond estimates are correct for neural superpositions, quantum indeterminacy persists throughout the brain at ion channel fluctuations, neurotransmitter release probabilities, and molecular conformational changes. Consciousness need only bias these micro-level indeterminacies at the moment they resolve into definite outcomes.
+The tenet specifies the smallest possible non-physical influence on quantum outcomes—not large-scale coherent superpositions. Even if Tegmark's femtosecond estimates are correct for neural superpositions, quantum indeterminacy persists throughout the brain at ion channel fluctuations, neurotransmitter release probabilities, and molecular conformational changes. Consciousness need only bias these micro-level indeterminacies at the moment they resolve into definite outcomes. This is a metaphysical claim about what consciousness does, not an empirical prediction about when it does it. The timing evidence reviewed above constrains which physical mechanisms might mediate such interaction, but it does not bear on whether the interaction occurs.
 
 ### Bidirectional Interaction
 
@@ -172,15 +176,21 @@ Under the Everett interpretation, all outcomes occur in branching worlds. "Selec
 
 ## Falsification Conditions
 
-The timing compatibility question generates testable predictions:
+The timing compatibility question generates testable predictions. An important caveat: these conditions primarily test the scientific hypotheses reviewed above (Orch OR, Stapp's Zeno model, synaptic tunneling). The Map's preferred position—post-decoherence selection—is a metaphysical framework that timing evidence cannot directly falsify. This asymmetry should be acknowledged rather than obscured.
 
-1. **Mesoscopic coherence**: Perry's 1–10ms network coherence is theoretical. If experiments reliably fail to detect coherence beyond ~100μs in neural tissue, mechanisms requiring millisecond coherence are ruled out.
+**For physical mechanism hypotheses:**
 
-2. **Observation rate signatures**: If Stapp's mechanism requires ~1 kHz observation cycles, neural signatures at this frequency should correlate with willed attention and motor decisions. The 40 Hz gamma band is too slow; look for higher frequencies.
+1. **Mesoscopic coherence**: Perry's 1–10ms network coherence is theoretical. If experiments reliably fail to detect coherence beyond ~100μs in neural tissue, mechanisms requiring millisecond coherence (including Orch OR) are ruled out.
+
+2. **Observation rate signatures**: If Stapp's mechanism requires ~1 kHz observation cycles, neural signatures at this frequency should correlate with willed attention and motor decisions. The 40 Hz gamma band is too slow; look for higher frequencies. This tests Stapp's quantum Zeno model specifically.
 
 3. **Timing precision of conscious influence**: The veto window closes at 200ms. If experiments showed conscious decisions reliably influencing outcomes inside this window, the mechanism would require operating at sub-200ms timescales.
 
 4. **Temperature dependence**: Quantum effects should increase with cooling. If brain regions showed *reduced* conscious control when cooled (opposite to quantum prediction), the mechanism would be challenged.
+
+**For post-decoherence selection:**
+
+What would challenge the Map's metaphysical position is not timing evidence but evidence bearing on its underlying commitments—such as a resolution of the [[measurement-problem|measurement problem]] that eliminates outcome indeterminacy, or a demonstration that consciousness plays no causal role in any physical process. These are not timing-specific falsification conditions; they are challenges to the dualist and interactionist framework the Map defends across many articles.
 
 ## Further Reading
 
@@ -207,3 +217,17 @@ The timing compatibility question generates testable predictions:
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194–4206.
 - Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401–1416.
 - Vossel, S. et al. (2023). Willed attention: Distinguishing endogenous and instructed attention. *Frontiers in Psychology*, 14, 1023456.
+
+<!-- AI REFINEMENT LOG - 2026-02-08
+Changes made:
+- Rewrote opening paragraph to distinguish physical mechanisms from the Map's metaphysical framework
+- Added clarifying sentence under "Which Mechanisms Survive?" distinguishing scientific hypotheses from metaphysical interpretation
+- Expanded post-decoherence selection section to explicitly state it is a metaphysical interpretation, not a scientific hypothesis; acknowledged that immunity to timing evidence is a consequence of its metaphysical character, not a subtle trade-off
+- Restructured falsification conditions into two groups: conditions for physical mechanism hypotheses and conditions for the Map's metaphysical position; added honest acknowledgment that timing evidence does not test the Map's preferred view
+- Updated "Relation to Site Perspective" opening to clarify that timing constraints do not directly test the Map's tenets
+- Added metaphysical/empirical distinction to Minimal Quantum Interaction tenet subsection
+
+Based on pessimistic review (2026-02-05 morning) finding that post-decoherence selection survives timing objections by being unfalsifiable by timing evidence, and that falsification conditions mostly test other mechanisms.
+
+This log should be removed after human review.
+-->
