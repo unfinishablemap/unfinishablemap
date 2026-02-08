@@ -68,12 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
-### P3: Deep review alien-minds-void-explorers.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores how non-human minds might serve as "void explorers" accessing cognitive territories inaccessible to humans. Check philosophical rigor, ensure alignment with Map's framework, verify connections to other-minds-void.md, consciousness-only-territories.md.
-- **Source**: staleness
-- **Generated**: 2026-02-02
-
 ### P3: Deep review causal-interface.md for quality
 - **Type**: deep-review
 - **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Covers the void at the causal interface between consciousness and physics—what cannot be known about how the coupling actually works. Verify philosophical accuracy, check connections to psychophysical-coupling-mechanisms.md, minimal-quantum-interaction arguments.
@@ -655,6 +649,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-08: Deep review alien-minds-void-explorers.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores how non-human minds might serve as "void explorers" accessing cognitive territories inaccessible to humans. Check philosophical rigor, ensure alignment with Map's framework, verify connections to other-minds-void.md, consciousness-only-territories.md.
+- **Output**: obsidian/voids/alien-minds-void-explorers.md
 
 ### ✓ 2026-02-08: Deep review neural-implementation-specifics.md for quality
 - **Type**: deep-review
