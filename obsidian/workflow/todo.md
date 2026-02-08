@@ -68,13 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
-### P3: Write article on emergence and strong emergence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-31 (evening). The Map critiques "mere complexity" explanations but could benefit from systematic treatment of emergence theories, distinguishing weak emergence (epistemological) from strong emergence (ontological) and explaining why the Map accepts the latter for consciousness. Builds on consciousness.md, dualism.md, quantum-consciousness.md. See optimistic-2026-01-31-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-01-31
-
 ### P3: Write article on the self: minimal, narrative, and substantial
 - **Type**: expand-topic
 - **Status**: pending
@@ -637,6 +630,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-08: Write article on emergence and strong emergence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-31 (evening). The Map critiques "mere complexity" explanations but could benefit from systematic treatment of emergence theories, distinguishing weak emergence (epistemological) from strong emergence (ontological) and explaining why the Map accepts the latter for consciousness. Builds on consciousness.md, dualism.md, quantum-consciousness.md. See optimistic-2026-01-31-evening.md
+- **Output**: emergence and strong emergence
 
 ### ✓ 2026-02-08: Integrate phenomenology-of-understanding.md into site navigation
 - **Type**: integrate-orphan
