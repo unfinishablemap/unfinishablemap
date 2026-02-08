@@ -70,10 +70,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Write article on phenomenal value realism
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: done
 - **Notes**: Suggested by optimistic review 2026-01-31 (evening). The metaethical position that experiential qualities have intrinsic normative significance—currently referenced but not systematically developed. Grounds normative facts in irreducible phenomenal facts. Builds on epistemic-advantages-of-dualism.md (mentions it), qualia.md, aesthetic-dimension-of-consciousness.md. See optimistic-2026-01-31-evening.md
 - **Source**: optimistic-review
 - **Generated**: 2026-01-31
+- **Output**: obsidian/topics/phenomenology-of-moral-experience.md
 
 ### P3: Write article on phenomenology of belief revision
 - **Type**: expand-topic
@@ -371,10 +372,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Write article on the phenomenology of moral experience
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: done
 - **Notes**: Suggested by optimistic review 2026-02-03. What it is like to experience something as wrong or obligatory—the phenomenology underlying moral judgment. Supports Dualism by showing moral phenomenology has irreducible features. Builds on phenomenal-value-realism.md, ethics-of-consciousness.md, emotional-consciousness.md. See optimistic-2026-02-03.md
 - **Source**: optimistic-review
 - **Generated**: 2026-02-03
+- **Output**: obsidian/topics/phenomenology-of-moral-experience.md
 
 ### P3: Write article on cognitive integration and the self
 - **Type**: expand-topic
@@ -539,10 +541,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Write article on the phenomenology of moral experience
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: done
 - **Notes**: Suggested by optimistic review 2026-02-05. What is it like to experience moral obligation, guilt, admiration? How does the phenomenology of moral experience support phenomenal value realism? Does moral phenomenology provide evidence for consciousness's irreducibility? Builds on moral-responsibility.md, phenomenal-value-realism.md, ethics-of-consciousness.md. See optimistic-2026-02-05.md
 - **Source**: optimistic-review
 - **Generated**: 2026-02-05
+- **Output**: obsidian/topics/phenomenology-of-moral-experience.md
 
 ### P3: Create concept page for subjective aim
 - **Type**: expand-topic
@@ -616,6 +619,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-08: Write article on phenomenal value realism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-31 (evening). The metaethical position that experiential qualities have intrinsic normative significance—currently referenced but not systematically developed. Grounds normative facts in irreducible phenomenal facts. Builds on epistemic-advantages-of-dualism.md (mentions it), qualia.md, aesthetic-dimension-of-consciousness.md. See optimistic-2026-01-31-evening.md
+- **Output**: phenomenal value realism
 
 ### ✓ 2026-02-08: Write article on consciousness and memory
 - **Type**: expand-topic
