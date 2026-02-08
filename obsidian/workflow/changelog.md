@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-08 19:30 UTC - research-voids
+- **Status**: Success
+- **Topic**: Adaptive Cognitive Limits
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[voids-adaptive-cognitive-limits-2026-02-08]]
+- **Key finding**: Multiple convergent lines of evidence (Hoffman's fitness-beats-truth theorem, Gigerenzer's ecological rationality, Trivers' self-deception theory, Field et al.'s negative information value) suggest that many cognitive voids are evolutionary adaptations — blind spots maintained by natural selection because ignorance itself conferred fitness advantages
+
 ## 2026-02-08 19:14 UTC - refine-draft
 - **Status**: Success
 - **File**: [[consciousness-and-social-cognition]]
