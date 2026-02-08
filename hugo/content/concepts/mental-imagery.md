@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-02-07 01:56:00+00:00
+ai_modified: 2026-02-08 09:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,8 +20,8 @@ concepts:
 - '[[conscious-vs-unconscious-processing]]'
 created: 2026-01-23
 date: &id001 2026-01-23
-description: Voluntary mental imagery provides paradigm evidence for consciousness's
-  causal efficacy. Motor imagery training improves physical performance measurably.
+description: Voluntary mental imagery is consistent with consciousness's causal efficacy.
+  Motor imagery training improves physical performance measurably.
 draft: false
 human_modified: null
 last_curated: null
@@ -37,7 +37,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Mental imagery—perceptual representation without direct sensory input—provides paradigm evidence for consciousness's causal efficacy. When you deliberately visualize your childhood home or mentally rehearse a difficult conversation, you engage neural mechanisms that can subsequently guide behaviour. Voluntary mental imagery requires conscious engagement and lateral prefrontal cortex activation (LPFC), distinguishing it from involuntary imagery like dreams or intrusive flashbacks. This voluntary/involuntary distinction maps onto the conscious/unconscious distinction, suggesting consciousness adds a control function beyond automatic processing. If [epiphenomenalism](/arguments/epiphenomenalism/) were true—if consciousness merely observed neural activity without influencing it—the phenomenology of effortful visualization would be deeply mysterious: we would feel ourselves *directing* imagery while actually directing nothing.
+Mental imagery—perceptual representation without direct sensory input—is consistent with consciousness's causal efficacy, though it does not uniquely establish it. When you deliberately visualize your childhood home or mentally rehearse a difficult conversation, you engage neural mechanisms that can subsequently guide behaviour. Voluntary mental imagery requires conscious engagement and lateral prefrontal cortex activation (LPFC), distinguishing it from involuntary imagery like dreams or intrusive flashbacks. This voluntary/involuntary distinction maps onto the conscious/unconscious distinction, suggesting consciousness adds a control function beyond automatic processing. If [epiphenomenalism](/arguments/epiphenomenalism/) were true—if consciousness merely observed neural activity without influencing it—the phenomenology of effortful visualization would be deeply mysterious: we would feel ourselves *directing* imagery while actually directing nothing.
 
 ## What Mental Imagery Is
 
@@ -87,9 +87,13 @@ This neural overlap has practical consequences:
 
 Motor simulation theory, developed by Marc Jeannerod, proposes that imagined movements serve as internal simulations that the motor system can later execute.[^jeannerod] Francis Bacon's observation that "imagination ever precedeth voluntary motion" captures this relationship: you imagine the movement, then you perform it. The imagination causally contributes to the action.
 
-If consciousness were epiphenomenal, this causal pathway would be mysterious. The phenomenology of deliberate motor imagery—the felt effort of visualizing a movement—would be causally disconnected from the subsequent improvement in performance. But the evidence suggests otherwise: conscious rehearsal produces physical results.
+If consciousness were epiphenomenal, this causal pathway would be puzzling. The phenomenology of deliberate motor imagery—the felt effort of visualizing a movement—would be causally disconnected from the subsequent improvement in performance. But the evidence suggests otherwise: conscious rehearsal produces physical results.
 
-The physicalist might respond that it's the *neural* rehearsal doing the work, with conscious experience as mere accompaniment. Yet the voluntary/involuntary dissociation complicates this response: if neural activity alone sufficed, why would LPFC-mediated voluntary imagery produce different outcomes than LPFC-independent involuntary imagery? The conscious component tracks the efficacious component. Moreover, the [self-stultification problem](/arguments/epiphenomenalism/) applies here: if the felt effort of motor imagery is causally inert, our reports about that effort—and the intentional direction of rehearsal—become accidentally correlated with neural events rather than causally connected to them. The physicalist must explain not just the correlation but why the specific *content* of conscious imagery (which movement is rehearsed) matches the specific improvement (that movement improves).
+The physicalist has a straightforward response: it's the *neural* rehearsal doing the work, with conscious experience as mere accompaniment. The voluntary/involuntary dissociation—where LPFC-mediated voluntary imagery produces different outcomes than LPFC-independent involuntary imagery—is equally well explained by the different neural circuits involved, without invoking consciousness as a causal agent. The LPFC engages top-down control mechanisms that happen to correlate with conscious experience; the causal work may be entirely neural.
+
+This is a genuine explanatory standoff. The motor imagery evidence is *consistent with* consciousness's causal efficacy but does not *uniquely establish* it. Both accounts predict that voluntary imagery (with its characteristic neural signature) produces measurable performance gains. The evidence underdetermines which interpretation is correct.
+
+However, two considerations favour keeping consciousness in the explanatory picture. First, the [self-stultification problem](/arguments/epiphenomenalism/) applies: if the felt effort of motor imagery is causally inert, our reports about that effort—and the intentional direction of rehearsal—become accidentally correlated with neural events rather than causally connected to them. The physicalist must explain not just the correlation but why the specific *content* of conscious imagery (which movement is rehearsed) matches the specific improvement (that movement improves). Second, a distinguishing prediction may be available: if consciousness is causally efficacious, then two individuals with identical LPFC activation patterns but different phenomenal vividness of motor imagery should show different performance gains. Preliminary aphantasia research hints at this—aphantasics report weaker benefits from mental practice despite intact prefrontal function[^zeman]—but the evidence is not yet decisive. This prediction, if confirmed, would break the explanatory standoff in favour of consciousness's causal role.
 
 ## Cognitive Phenomenology Without Imagery
 
@@ -103,9 +107,9 @@ Mental imagery supports [bidirectional-interaction](/concepts/bidirectional-inte
 
 **Voluntary imagery exemplifies conscious control.** The LPFC-mediated generation and manipulation of mental images requires conscious engagement. The effort you feel when visualizing something complex isn't epiphenomenal accompaniment—it reflects consciousness doing work, an instance of [downward-causation](/concepts/downward-causation/) from mental states to neural activity. This parallels findings from [contemplative-neuroscience](/concepts/contemplative-neuroscience/): deliberate meditative attention reshapes neural structure through similar top-down processes.
 
-**Motor imagery produces physical outcomes.** Athletes mentally rehearsing movements improve their actual performance. Consciousness (the deliberate imagery) causes physical changes (enhanced [motor execution](/concepts/motor-selection/)). The effect sizes are measurable and replicable—not mere correlation but a directional causal pathway from mental rehearsal to physical improvement. The [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) reinforces this: if imagery improved survival through motor rehearsal and planning, consciousness's role in imagery was selected for.
+**Motor imagery produces physical outcomes.** Athletes mentally rehearsing movements improve their actual performance. The effect sizes are measurable and replicable, consistent with a causal pathway from conscious rehearsal to physical improvement—though the physicalist can attribute these gains to the neural circuits engaged rather than to consciousness per se. Distinguishing these accounts may require evidence that phenomenal vividness predicts outcomes beyond what neural activation patterns predict. The [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) offers an independent line of argument: if imagery improved survival through motor rehearsal and planning, consciousness's role in imagery was plausibly selected for.
 
-**The voluntary/involuntary distinction tracks the conscious/unconscious distinction.** If consciousness added nothing, we'd expect no systematic difference between voluntary and involuntary imagery. But voluntary imagery requires different neural systems (LPFC), feels effortful, and can be directed at will—properties absent from automatic imagery like dreams. This parallels the broader pattern documented in [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/): consciousness systematically enables functions that unconscious processing cannot achieve.
+**The voluntary/involuntary distinction tracks the conscious/unconscious distinction.** Voluntary imagery requires different neural systems (LPFC), feels effortful, and can be directed at will—properties absent from automatic imagery like dreams. The physicalist can explain this dissociation through neural circuit differences alone, without assigning consciousness a causal role. The Map acknowledges this explanatory standoff but notes the pattern: consciousness consistently tracks the more flexible, goal-directed processing mode. This parallels findings in [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/), where consciousness correlates with functions that unconscious processing cannot achieve. Whether consciousness *causes* these functions or merely accompanies the neural circuits that do remains the core question the Map's [bidirectional-interaction](/concepts/bidirectional-interaction/) tenet addresses.
 
 **The explanatory gap manifests in imagery variation.** Hyperphantasics and aphantasics show overlapping visual cortex activation during imagery tasks, yet one group experiences vivid images while the other reports nothing. Research has identified differences in frontoparietal-visual connectivity between groups,[^zeman] but even where activation patterns overlap, phenomenal experience diverges. This phenomenal difference beyond what functional differences predict supports the [Dualism](/tenets/#dualism) tenet's claim that consciousness is irreducible.
 
@@ -142,3 +146,18 @@ The attention-imagery interface connects to the Map's broader framework. [Attent
 [^pascual-leone]: Pascual-Leone, A. et al. (1995). Modulation of muscle responses evoked by transcranial magnetic stimulation during the acquisition of new fine motor skills. *Journal of Neurophysiology*, 74(3), 1037-1045.
 
 [^lennon]: Lennon, P. (2023). Aphantasia and Conscious Thought. *PhilArchive*.
+
+<!-- AI REFINEMENT LOG - 2026-02-08
+Changes made:
+- Downgraded "paradigm evidence" to "consistent with" in opening summary and description (addressing pessimistic review Issue 3)
+- Acknowledged physicalist neural circuit explanation as equally viable in Motor Imagery section
+- Added "explanatory standoff" framing: motor imagery evidence underdetermines which interpretation is correct
+- Identified distinguishing prediction: phenomenal vividness vs neural activation as predictor of motor imagery gains
+- Updated Relation to Site Perspective to reflect calibrated confidence throughout
+- Preserved self-stultification argument and content-matching argument as considerations favouring the Map's position
+
+Based on pessimistic review 2026-02-08, Issue 3.
+Key improvement: Honest acknowledgment that evidence is consistent with but does not uniquely support consciousness's causal efficacy.
+
+This log should be removed after human review.
+-->

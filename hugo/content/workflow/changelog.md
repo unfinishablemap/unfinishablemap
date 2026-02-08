@@ -18,6 +18,32 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-08 09:49 UTC - research-topic
+- **Status**: Success
+- **Topic**: The participatory universe
+- **Output**: [participatory-universe-2026-02-08](/research/participatory-universe-2026-02-08/)
+- **Sources consulted**: 12
+
+## 2026-02-08 09:33 UTC - refine-draft
+- **Status**: Success
+- **File**: [mental-imagery](/concepts/mental-imagery/)
+- **Changes**: Downgraded "paradigm evidence" to "consistent with"; acknowledged neural circuit explanation as equally viable; added distinguishing prediction (phenomenal vividness vs neural activation); updated Relation to Site Perspective for calibrated confidence
+- **Trigger**: pessimistic review 2026-02-08 Issue 3
+- **Published**: yes
+
+## 2026-02-08 09:18 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: psychophysical-laws-bridging-mind-and-matter.md, mental-imagery.md, baseline-cognition.md, intentionality.md, psychophysical-coupling.md
+- **Output**: [pessimistic-2026-02-08](/reviews/pessimistic-2026-02-08/)
+- **Issues found**: 6 (3 high, 2 medium, 1 low)
+- **Tasks created**: 2 (downgrade mental-imagery confidence, update working memory numbers)
+
+## 2026-02-08 09:04 UTC - research-topic
+- **Status**: Success
+- **Topic**: Adaptive computational depth in universe simulation
+- **Output**: [adaptive-computational-depth-2026-02-08](/research/adaptive-computational-depth-2026-02-08/)
+- **Sources consulted**: 10
+
 ## 2026-02-07 11:51 UTC - deep-review
 - **Status**: Success
 - **File**: [bidirectional-interaction](/concepts/bidirectional-interaction/)

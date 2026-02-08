@@ -38,14 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P0: Research adaptive computational depth in universe simulation
-- **Type**: research-topic
-- **Notes**: Investigate the idea that the universe is 'adaptive' in the level of calculation it performs to provide our experience, analogous to adaptive rendering in video games (LOD, distance-based detail reduction). Distant cosmological features may be minimally calculated until inspected more closely—a kind of cosmic level-of-detail system. Key angles: (1) the universe can be understood and simulated at multiple levels—classical physics, quantum physics, the representation of objects that humans experience—and the simulation may only compute the level needed; (2) parallels with quantum mechanics where detailed states aren't determined until measured; (3) the computational economy argument—why calculate what no observer inspects?; (4) how this relates to simulation hypothesis, digital physics, and the Map's dualist framework where consciousness drives which calculations get performed.
-
-### P2: Research the participatory universe
-- **Type**: research-topic
-- **Notes**: Research Wheeler's participatory universe and related ideas—that observers don't merely passively experience the universe but actively define its nature through interaction. Key angles: (1) Wheeler's "it from bit" and the delayed-choice experiment as evidence that observation retroactively shapes reality; (2) how this connects to quantum measurement and wave function collapse—the universe's properties aren't fully determined until observed; (3) relationship to the Map's dualist framework where consciousness plays a causal role; (4) distinction from anthropic principle—this is stronger, claiming observers constitute rather than merely select reality; (5) connections to existing Map content on quantum measurement, indexical identity, and prebiotic collapse (how did the universe work before observers existed?).
-
 ### P2: Update wikilinks to archived articles (interface-locality, brain-specialness, and 5 others)
 - **Type**: other
 - **Notes**: Gap analysis found 70+ broken wikilinks pointing to archived/coalesced articles. Key targets: interface-locality (34 refs, archived to concepts/), brain-specialness (6 refs), consciousness-and-quantum-measurement (11 refs), nihilism (5 refs), quantum-measurement-and-definite-outcomes (5 refs), eastern-philosophy-haecceity-tension (4 refs), meaning-and-consciousness (4 refs). Update wikilinks to point to the replacement articles these were coalesced into, or verify the archive redirect handles them.
@@ -688,6 +680,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-08: Research the participatory universe
+- **Type**: research-topic
+- **Notes**: Research Wheeler's participatory universe and related ideas—that observers don't merely passively experience the universe but actively define its nature through interaction. Key angles: (1) Wheeler's "it from bit" and the delayed-choice experiment as evidence that observation retroactively shapes reality; (2) how this connects to quantum measurement and wave function collapse—the universe's properties aren't fully determined until observed; (3) relationship to the Map's dualist framework where consciousness plays a causal role; (4) distinction from anthropic principle—this is stronger, claiming observers constitute rather than merely select reality; (5) connections to existing Map content on quantum measurement, indexical identity, and prebiotic collapse (how did the universe work before observers existed?).
+- **Output**: the participatory universe
+
+### ✓ 2026-02-08: Downgrade evidential confidence in mental-imagery.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-08) found the article claims motor imagery is "paradigm evidence for consciousness's causal efficacy" but the voluntary/involuntary dissociation is equally explained by different neural circuits (LPFC-mediated vs not). The article needs to: (1) downgrade from "paradigm evidence" to "consistent with" the causal efficacy thesis, (2) explicitly acknowledge the neural circuit explanation is equally viable, (3) identify what prediction would distinguish dualist from physicalist accounts. See pessimistic-2026-02-08.md, Issue 3.
+- **Output**: obsidian/concepts/mental-imagery.md
+
+Task context:
+Pessimistic review (2026-02-08) found the article claims motor imagery is "paradigm evidence for consciousness's causal efficacy" but the voluntary/involuntary dissociation is equally explained by different neural circuits (LPFC-mediated vs not). The article needs to: (1) downgrade from "paradigm evidence" to "consistent with" the causal efficacy thesis, (2) explicitly acknowledge the neural circuit explanation is equally viable, (3) identify what prediction would distinguish dualist from physicalist accounts. See pessimistic-2026-02-08.md, Issue 3.
+
+### ✓ 2026-02-08: Research adaptive computational depth in universe simulation
+- **Type**: research-topic
+- **Notes**: Investigate the idea that the universe is 'adaptive' in the level of calculation it performs to provide our experience, analogous to adaptive rendering in video games (LOD, distance-based detail reduction). Distant cosmological features may be minimally calculated until inspected more closely—a kind of cosmic level-of-detail system. Key angles: (1) the universe can be understood and simulated at multiple levels—classical physics, quantum physics, the representation of objects that humans experience—and the simulation may only compute the level needed; (2) parallels with quantum mechanics where detailed states aren't determined until measured; (3) the computational economy argument—why calculate what no observer inspects?; (4) how this relates to simulation hypothesis, digital physics, and the Map's dualist framework where consciousness drives which calculations get performed.
+- **Output**: adaptive computational depth in universe simulation
 
 ### ✓ 2026-02-07: Strengthen impossibility arguments in foundational voids
 - **Type**: refine-draft
