@@ -69,12 +69,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
-### P3: Clarify falsifiability status of post-decoherence selection and haecceity
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-05 morning) found that quantum-neural-timing-constraints.md's 'post-decoherence selection' model survives timing objections by being timing-agnostic, which means unfalsifiable by timing evidence. The article's falsification conditions mostly test other mechanisms (Orch OR, Stapp), not the Map's position. Similarly, identity-across-transformations.md's haecceity claims face the explanatory gap objection—if haecceity has no observable consequences, what work does it do? Both articles should be more explicit that these are metaphysical frameworks, not empirical hypotheses. See pessimistic-2026-02-05-morning.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-05
-
 ### P3: Update consciousness-and-social-cognition.md on great ape belief attribution
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05 morning) found that the article understates recent evidence for great ape false belief understanding (Krupenye et al. 2016, Buttelmann 2019). The Level 2 discussion presents the human-ape gap as tracking consciousness when the gap might be explained by working memory or executive function differences. Also: conflates cognitive access with phenomenal consciousness—'conscious access' in cognitive science often means global availability, not subjective experience. See pessimistic-2026-02-05-morning.md
@@ -680,6 +674,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-08: Clarify falsifiability status of post-decoherence selection and haecceity
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-05 morning) found that quantum-neural-timing-constraints.md's 'post-decoherence selection' model survives timing objections by being timing-agnostic, which means unfalsifiable by timing evidence. The article's falsification conditions mostly test other mechanisms (Orch OR, Stapp), not the Map's position. Similarly, identity-across-transformations.md's haecceity claims face the explanatory gap objection—if haecceity has no observable consequences, what work does it do? Both articles should be more explicit that these are metaphysical frameworks, not empirical hypotheses. See pessimistic-2026-02-05-morning.md
+- **Output**: Task context:
+Pessimistic review (2026-02-05 morning) found that quantum-neural-timing-constraints.md's 'post-decoherence selection' model survives timing objections by being timing-agnostic, which means unfalsifiable by timing evidence. The article's falsification conditions mostly test other mechanisms (Orch OR, Stapp), not the Map's position. Similarly, identity-across-transformations.md's haecceity claims face the explanatory gap objection—if haecceity has no observable consequences, what work does it do? Both articles should be more explicit that these are metaphysical frameworks, not empirical hypotheses. See pessimistic-2026-02-05-morning.md
 
 ### ✓ 2026-02-08: Research the participatory universe
 - **Type**: research-topic

@@ -18,6 +18,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-08 18:45 UTC - refine-draft
+- **Status**: Success
+- **Files**: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [identity-across-transformations](/apex/identity-across-transformations/)
+- **Changes**: Calibrated evidential claims for metaphysical honesty. Quantum timing: explicitly distinguished post-decoherence selection as metaphysical interpretation (not scientific hypothesis); restructured falsification conditions to acknowledge they mostly test other mechanisms; updated opening, tenet section. Identity: engaged haecceity explanatory gap objection directly; acknowledged filter theory unfalsifiability; corrected Buddhist appropriation; explicitly framed haecceity as metaphysical thesis.
+- **Trigger**: pessimistic review 2026-02-05 morning (Issues 1, 3, 4)
+- **Published**: yes
+
 ## 2026-02-08 09:49 UTC - research-topic
 - **Status**: Success
 - **Topic**: The participatory universe
