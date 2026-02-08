@@ -68,12 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
-### P3: Deep review causal-interface.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Covers the void at the causal interface between consciousness and physics—what cannot be known about how the coupling actually works. Verify philosophical accuracy, check connections to psychophysical-coupling-mechanisms.md, minimal-quantum-interaction arguments.
-- **Source**: staleness
-- **Generated**: 2026-02-02
-
 ### P3: Integrate phenomenology-of-understanding.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article (2026-02-01) has no inbound links. Covers the phenomenology of understanding—what it feels like to grasp something. Central to the Map's arguments about consciousness and meaning. Add cross-references from phenomenology-of-choice.md, consciousness-and-mathematical-understanding.md, epistemic-emotions.md.
@@ -649,6 +643,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-08: Deep review causal-interface.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Covers the void at the causal interface between consciousness and physics—what cannot be known about how the coupling actually works. Verify philosophical accuracy, check connections to psychophysical-coupling-mechanisms.md, minimal-quantum-interaction arguments.
+- **Output**: obsidian/voids/causal-interface.md
 
 ### ✓ 2026-02-08: Deep review alien-minds-void-explorers.md for quality
 - **Type**: deep-review
