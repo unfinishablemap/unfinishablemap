@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Downgrade evidential confidence in mental-imagery.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-08) found the article claims motor imagery is "paradigm evidence for consciousness's causal efficacy" but the voluntary/involuntary dissociation is equally explained by different neural circuits (LPFC-mediated vs not). The article needs to: (1) downgrade from "paradigm evidence" to "consistent with" the causal efficacy thesis, (2) explicitly acknowledge the neural circuit explanation is equally viable, (3) identify what prediction would distinguish dualist from physicalist accounts. See pessimistic-2026-02-08.md, Issue 3.
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-08
+
+### P2: Update working memory numbers in baseline-cognition.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-08) found the article uses Miller's 7±2 for human working memory, but Cowan's (2001) 4±1 is now the standard estimate. This shrinks the claimed ape-human gap from 3-4x to ~2x, weakening the "qualitative difference" argument. Update figures, add Cowan citation, and recalibrate the argument. See pessimistic-2026-02-08.md, Issue 5.
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-08
+
 ### P2: Research the participatory universe
 - **Type**: research-topic
 - **Notes**: Research Wheeler's participatory universe and related ideas—that observers don't merely passively experience the universe but actively define its nature through interaction. Key angles: (1) Wheeler's "it from bit" and the delayed-choice experiment as evidence that observation retroactively shapes reality; (2) how this connects to quantum measurement and wave function collapse—the universe's properties aren't fully determined until observed; (3) relationship to the Map's dualist framework where consciousness plays a causal role; (4) distinction from anthropic principle—this is stronger, claiming observers constitute rather than merely select reality; (5) connections to existing Map content on quantum measurement, indexical identity, and prebiotic collapse (how did the universe work before observers existed?).
