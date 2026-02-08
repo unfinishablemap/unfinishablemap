@@ -68,12 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
-### P3: Integrate phenomenology-of-understanding.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-01) has no inbound links. Covers the phenomenology of understanding—what it feels like to grasp something. Central to the Map's arguments about consciousness and meaning. Add cross-references from phenomenology-of-choice.md, consciousness-and-mathematical-understanding.md, epistemic-emotions.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
 ### P3: Write article on emergence and strong emergence
 - **Type**: expand-topic
 - **Status**: pending
@@ -643,6 +637,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-08: Integrate phenomenology-of-understanding.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers the phenomenology of understanding—what it feels like to grasp something. Central to the Map's arguments about consciousness and meaning. Add cross-references from phenomenology-of-choice.md, consciousness-and-mathematical-understanding.md, epistemic-emotions.md.
+- **Output**: obsidian/topics/phenomenology-of-understanding.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-02-08: Deep review causal-interface.md for quality
 - **Type**: deep-review

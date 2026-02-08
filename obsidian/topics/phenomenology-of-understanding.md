@@ -4,7 +4,7 @@ description: "Understanding has distinctive phenomenal character—the click of 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-03T12:10:00+00:00
+ai_modified: 2026-02-08T21:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-02-02T04:14:00+00:00
+last_deep_review: 2026-02-08T21:00:00+00:00
 ---
 
 Understanding is not merely possessing information—it involves a distinctive phenomenal transition from confusion to clarity, from scattered pieces to integrated whole. The "click" when a proof resolves, the dawning comprehension when a difficult sentence yields its meaning, the sudden insight that arrives after incubation—each has qualitative character that resists reduction to information processing. The Unfinishable Map holds that this phenomenology of understanding provides evidence for [[cognitive-phenomenology]] and supports the view that consciousness cannot be eliminated or reduced to computation.
@@ -40,7 +40,7 @@ When you *understand* something, there is something it is like to understand it.
 
 ### The Click of Comprehension
 
-William James described a "click of comprehension"—the phenomenal moment when understanding crystallises. This click has characteristic features:
+William James explored the phenomenology of understanding—what he called "feelings of relation" that accompany cognitive transitions. The phenomenal moment when understanding crystallises has a characteristic structure. This click has characteristic features:
 
 **Suddenness.** Despite gradual preparation, understanding often arrives discretely. The transition from not-understanding to understanding is not continuous like turning up a dial; it's more like a switch flipping. One moment the proof is a sequence of steps; the next moment you *see* why it works.
 

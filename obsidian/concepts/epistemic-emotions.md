@@ -75,7 +75,7 @@ Predictive processing frameworks interpret surprise as the phenomenal correlate 
 
 ### Insight: The Aha Moment
 
-Insight—the "aha" experience—arrives suddenly with distinctive features: the solution appears whole, feels correct immediately (surprise coupled with certainty), is intrinsically pleasurable, and seems to come from "somewhere else." Kounios and Beeman's research identifies gamma-band activity in the right temporal lobe, distinct from analytical reasoning—yet the result appears in consciousness with distinctive phenomenal character.
+Insight—the "aha" experience—arrives suddenly with distinctive features: the solution appears whole, feels correct immediately (surprise coupled with certainty), is intrinsically pleasurable, and seems to come from "somewhere else." Kounios and Beeman's research identifies gamma-band activity in the right temporal lobe, distinct from analytical reasoning—yet the result appears in consciousness with distinctive phenomenal character. The [[phenomenology-of-understanding]] provides detailed analysis of insight's three modes: the sudden click, the gradual warmth of grasping, and the illumination of the aha moment.
 
 For the Map's framework, insight is significant. If consciousness participates in neural selection, insight may represent consciousness recognising and selecting a solution that unconscious processing has prepared. The "aha" quality may be the subjective correlate of this selection event.
 

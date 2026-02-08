@@ -58,7 +58,7 @@ When you understand a sentence, there's often inner speech (hearing the words in
 
 ### The Understanding Experience
 
-Galen Strawson's foreign language argument: A monolingual English speaker and a monolingual French speaker both hear news in French. Their auditory experiences are identical—same sounds. But only the French speaker *understands*. The phenomenal contrast between understanding and not understanding cannot be explained by sensory differences. The same acoustic input produces different phenomenal states. The best explanation: understanding has its own phenomenal character. The [[consciousness-and-language-interface|consciousness-language interface]] explores this bidirectional relationship: language shapes what can be experienced while conscious states generate pressure toward articulation.
+Galen Strawson's foreign language argument: A monolingual English speaker and a monolingual French speaker both hear news in French. Their auditory experiences are identical—same sounds. But only the French speaker *understands*. The phenomenal contrast between understanding and not understanding cannot be explained by sensory differences. The same acoustic input produces different phenomenal states. The best explanation: understanding has its own phenomenal character. The [[phenomenology-of-understanding|phenomenology of understanding]] examines this in depth—the "click" of comprehension, the warmth of gradual grasping, the light of sudden insight—each with distinctive qualitative character. The [[consciousness-and-language-interface|consciousness-language interface]] explores the bidirectional relationship: language shapes what can be experienced while conscious states generate pressure toward articulation.
 
 ### Self-Knowledge
 
