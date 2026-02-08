@@ -4,7 +4,7 @@ description: "Five neural quantum mechanisms: radical pairs, ion tunneling, micr
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-01-26T22:20:00+00:00
+ai_modified: 2026-02-08T18:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-24
 last_curated: null
-last_deep_review: 2026-01-24T17:30:00+00:00
+last_deep_review: 2026-02-08T18:59:00+00:00
 ---
 
 Five distinct quantum mechanisms have been proposed for neural systems: radical pair effects in cryptochromes, ion channel quantum tunneling, Fröhlich condensation in microtubules, synaptic vesicle release via SNARE protein tunneling, and phosphorus nuclear spin entanglement in Posner molecules. These mechanisms offer different pathways for consciousness to interface with quantum indeterminacy in the brain. Experimental evidence from 2024-2025 has strengthened the case for some mechanisms while leaving others speculative. The Unfinishable Map's interest in these proposals is not commitment to any specific mechanism but recognition that biological precedents for quantum effects—now well established—remove the categorical objection that brains are "too warm, wet, and noisy" for quantum consciousness.
@@ -66,7 +66,7 @@ Cryptochrome proteins, which enable avian magnetoreception through quantum effec
 ### Evidence Status (2024-2025)
 
 **Supporting:**
-- Atkins et al. (2024, *Nature Communications*): Quantum Zeno effect demonstrated in cryptochrome radical pairs. Tight binding between radicals preserves coherence, enabling magnetosensitivity—the first biological demonstration of Zeno-protected quantum states
+- Atkins et al. (2024, *Nature Communications*): Magnetosensitivity in cryptochrome radical pairs enabled by quantum Zeno effect. Tight binding between radicals preserves coherence—the first biological demonstration of Zeno-protected quantum states
 - QuantNeuro lab (University of Waterloo): Electrophysiological recordings show blue-light-dependent membrane depolarization enhanced by magnetic fields in cryptochrome-expressing neurons (conference presentations; peer-reviewed publication pending)
 - Craddock et al. (NIH QIS Interest Group, June 2025): Presented preliminary evidence for radical pair mechanisms affecting tubulin assembly (unpublished presentation)
 
@@ -127,7 +127,7 @@ Tubulin proteins within microtubules sustain quantum superposition states. In th
 ### Evidence Status (2024-2025)
 
 **Supporting:**
-- Babcock et al. (2024, *Physical Review X*): Room-temperature quantum super-radiance demonstrated in tryptophan networks—relevant to microtubule aromatic residue clusters
+- Babcock et al. (2024, *Physical Review X*): Room-temperature quantum super-radiance demonstrated in tryptophan networks—potentially relevant to microtubule aromatic residue clusters
 - Kalra et al. (2023, *Anesthesiology*): Anesthetics dampen quantum optical effects in isolated microtubule preparations—potentially explaining why anesthesia specifically affects consciousness
 - 2024 rat study (Li et al.): Epothilone B (microtubule-binding drug) delays anesthesia onset, suggesting microtubule involvement
 - Wiest (2025, *Neuroscience of Consciousness*): Proposes MRI methodology for detecting macroscopic entangled states, with preliminary correlations to consciousness level. The claimed entanglement detection awaits independent replication
@@ -150,7 +150,7 @@ Quantum tunneling triggers neurotransmitter vesicle release at synapses. Conscio
 
 1. SNARE protein complexes control vesicle fusion with the presynaptic membrane
 2. Beck-Eccles (1992): Unidentified quasi-particles tunnel to trigger exocytosis
-3. Georgiev (2017): Identifies quasi-particles as Davydov solitons—energy waves along SNARE protein α-helices
+3. Georgiev (2018): Identifies quasi-particles as Davydov solitons—energy waves along SNARE protein α-helices
 4. Helical zipping of SNARE proteins involves quantum tunneling
 5. Consciousness biases tunneling probabilities, influencing which synapses fire
 
@@ -166,7 +166,7 @@ Quantum tunneling triggers neurotransmitter vesicle release at synapses. Conscio
 - How consciousness would selectively target specific synapses
 - The relation between tunneling events and conscious timing (the 280-300ms decision window)
 
-**Tenet alignment:** Direct support for [[tenets#^bidirectional-interaction|Bidirectional Interaction]]—consciousness controls exocytosis via quantum selection.
+**Tenet alignment:** Direct support for [[tenets#^bidirectional-interaction|Bidirectional Interaction]]—consciousness could control exocytosis via quantum selection.
 
 ## Mechanism 5: Posner Molecule Entanglement (Fisher)
 
