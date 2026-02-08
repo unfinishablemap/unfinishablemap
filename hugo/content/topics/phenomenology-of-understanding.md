@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-03 12:10:00+00:00
+ai_modified: 2026-02-08 21:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Understanding has distinctive phenomenal character—the click of c
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 04:14:00+00:00
+last_deep_review: 2026-02-08 21:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,7 +43,7 @@ When you *understand* something, there is something it is like to understand it.
 
 ### The Click of Comprehension
 
-William James described a "click of comprehension"—the phenomenal moment when understanding crystallises. This click has characteristic features:
+William James explored the phenomenology of understanding—what he called "feelings of relation" that accompany cognitive transitions. The phenomenal moment when understanding crystallises has a characteristic structure. This click has characteristic features:
 
 **Suddenness.** Despite gradual preparation, understanding often arrives discretely. The transition from not-understanding to understanding is not continuous like turning up a dial; it's more like a switch flipping. One moment the proof is a sequence of steps; the next moment you *see* why it works.
 

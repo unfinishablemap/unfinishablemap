@@ -67,7 +67,7 @@ Consider what happens when you understand a proof:
 
 **The insight stage**: In creative mathematics, understanding sometimes arrives suddenly. The "aha" moment when a solution appears, often described as discovery rather than construction. Mathematicians report the sense that the truth was *there* and they found it.
 
-Each stage has distinctive phenomenology. The transition from mechanical verification to genuine understanding is phenomenally marked—you can often tell when you've crossed it. And the insight moment has a quality Galen Strawson calls "cognitive phenomenology proper": something it is like to grasp the necessity, beyond any accompanying imagery or emotion.
+Each stage has distinctive phenomenology. The transition from mechanical verification to genuine understanding is phenomenally marked—you can often tell when you've crossed it. And the insight moment has a quality Galen Strawson calls "cognitive phenomenology proper": something it is like to grasp the necessity, beyond any accompanying imagery or emotion. The [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) examines these transitions across domains—not just mathematics but language comprehension, problem-solving, and contemplative practice—finding the same phenomenal structure: the click, the warmth, the light.
 
 Henri Poincaré described mathematical insight arriving fully formed after periods of unconscious processing—solutions appearing while boarding buses or waking from sleep. The phenomenology suggests something more than computation: ideas being "given" rather than calculated. This isn't evidence for mysticism but for a process whose character differs from step-by-step algorithm execution.
 

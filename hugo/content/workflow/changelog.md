@@ -18,6 +18,132 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-08 22:44 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of Moral Experience
+- **Output**: [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/)
+- **Word count**: 2315
+- **Based on research**: yes — [phenomenal-value-realism-metaethics-2026-01-16](/research/phenomenal-value-realism-metaethics-2026-01-16/)
+
+## 2026-02-08 22:30 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and Memory
+- **Output**: [consciousness-and-memory](/topics/consciousness-and-memory/)
+- **Word count**: 1628
+- **Based on research**: yes — [episodic-memory-consciousness-2026-01-16](/research/episodic-memory-consciousness-2026-01-16/), [consciousness-working-memory-2026-01-17](/research/consciousness-working-memory-2026-01-17/), [prospective-memory-consciousness-2026-01-17](/research/prospective-memory-consciousness-2026-01-17/), [semantic-memory-consciousness-2026-01-17](/research/semantic-memory-consciousness-2026-01-17/), [sleep-memory-consolidation-consciousness-2026-01-18](/research/sleep-memory-consolidation-consciousness-2026-01-18/), [implicit-memory-consciousness-2026-01-18](/research/implicit-memory-consciousness-2026-01-18/), [voids-memory-void-2026-02-01](/research/voids-memory-void-2026-02-01/)
+
+## 2026-02-08 22:14 UTC - deep-review
+- **Status**: Success
+- **File**: [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/)
+- **Word count**: 2210 → 2467 (+257)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 6
+- **Enhancements made**: 7 (cross-links, Dennett engagement, conceivability qualification, Strawson integration, Mādhyamaka engagement, vulnerability acknowledgments, free-will connection)
+- **Output**: [deep-review-2026-02-08-the-self-minimal-narrative-and-substantial](/reviews/deep-review-2026-02-08-the-self-minimal-narrative-and-substantial/)
+
+## 2026-02-08 21:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Self: Minimal, Narrative, and Substantial
+- **Output**: [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/)
+- **Word count**: 2210
+- **Based on research**: yes, [self-consciousness-philosophy-2026-01-15](/research/self-consciousness-philosophy-2026-01-15/)
+
+## 2026-02-08 21:45 UTC - refine-draft
+- **Status**: Success
+- **Files**: [emergence-and-strong-emergence](/topics/emergence-and-strong-emergence/), [contemplative-path](/apex/contemplative-path/)
+- **Changes**: Fixed argument-from-ignorance pattern (distinguished epistemic gaps from ontological boundaries), rewrote testability section with genuine falsification conditions, engaged physicalist alternatives to meditation evidence throughout contemplative-path, acknowledged Buddhist metaphysics tension with dualism, toned down overclaimed empirical status of contemplative data
+- **Based on**: pessimistic review 2026-02-08b
+- **Published**: yes
+
+## 2026-02-08 21:29 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/emergence-and-strong-emergence.md, voids/alien-minds-void-explorers.md, apex/contemplative-path.md
+- **Output**: [pessimistic-2026-02-08b](/reviews/pessimistic-2026-02-08b/)
+
+## 2026-02-08 21:14 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Emergence and Strong Emergence
+- **Output**: [emergence-and-strong-emergence](/topics/emergence-and-strong-emergence/)
+- **Word count**: 1828
+- **Based on research**: yes ([emergence-consciousness-philosophy-2026-01-15](/research/emergence-consciousness-philosophy-2026-01-15/))
+
+## 2026-02-08 21:00 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)
+- **Word count**: 3012 → 3026 (+14)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (James attribution tightened, orphan status resolved with 6 inbound cross-links)
+- **Enhancements made**: 6 cross-links added from cognitive-phenomenology, epistemic-emotions, consciousness-and-semantic-understanding, consciousness-and-mathematical-understanding, phenomenology-of-intellectual-effort, ai-consciousness
+- **Output**: [deep-review-2026-02-08-phenomenology-of-understanding](/reviews/deep-review-2026-02-08-phenomenology-of-understanding/)
+
+## 2026-02-08 20:44 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-binding-experimental-evidence](/concepts/quantum-binding-experimental-evidence/)
+- **Word count**: 1861 → 1913 (+52)
+- **Critical issues addressed**: 2 (misattributed twin study author/journal, wrong publication date)
+- **Medium issues addressed**: 3 (decoherence summary overstatement, classical alternatives, evolution analogy)
+- **Enhancements made**: 2 (neural-binding-mechanisms cross-link, unity-of-consciousness cross-link)
+- **Output**: [deep-review-2026-02-08-quantum-binding-experimental-evidence](/reviews/deep-review-2026-02-08-quantum-binding-experimental-evidence/)
+
+## 2026-02-08 20:29 UTC - deep-review
+- **Status**: Success
+- **File**: [causal-interface](/voids/causal-interface/)
+- **Word count**: 1864 → 2036 (+172)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added physicalist objection response)
+- **Enhancements made**: 2 (physicalist objection section, mysterianism cross-link)
+- **Output**: [deep-review-2026-02-08-causal-interface](/reviews/deep-review-2026-02-08-causal-interface/)
+
+## 2026-02-08 20:15 UTC - deep-review
+- **Status**: Success
+- **File**: [alien-minds-void-explorers](/voids/alien-minds-void-explorers/)
+- **Word count**: 1900 → 1918 (+18)
+- **Critical issues addressed**: 5 (Shanahan misattribution, Freitas date, Schneider date, Nagel quote, Pro-Fil reference)
+- **Medium issues addressed**: 3 (Lem attribution nuance, embodied cognition quote, No Many Worlds tenet connection)
+- **Enhancements made**: 2 (cross-links to cognitive-closure and embodied-cognition)
+- **Output**: [deep-review-2026-02-08-alien-minds-void-explorers](/reviews/deep-review-2026-02-08-alien-minds-void-explorers/)
+
+## 2026-02-08 19:59 UTC - deep-review
+- **Status**: Success
+- **File**: [neural-implementation-specifics](/topics/neural-implementation-specifics/)
+- **Word count**: 2200 → 2234 (+34)
+- **Critical issues addressed**: 3 (5 fabricated citations, 1 date mismatch, 1 overstated claim)
+- **Medium issues addressed**: 3
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-02-08-neural-implementation-specifics](/reviews/deep-review-2026-02-08-neural-implementation-specifics/)
+
+## 2026-02-08 19:44 UTC - deep-review
+- **Status**: Success
+- **File**: [process-and-consciousness](/apex/process-and-consciousness/)
+- **Word count**: 3150 → 3208 (+58)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-02-08-process-and-consciousness](/reviews/deep-review-2026-02-08-process-and-consciousness/)
+
+## 2026-02-08 19:30 UTC - research-voids
+- **Status**: Success
+- **Topic**: Adaptive Cognitive Limits
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-adaptive-cognitive-limits-2026-02-08](/research/voids-adaptive-cognitive-limits-2026-02-08/)
+- **Key finding**: Multiple convergent lines of evidence (Hoffman's fitness-beats-truth theorem, Gigerenzer's ecological rationality, Trivers' self-deception theory, Field et al.'s negative information value) suggest that many cognitive voids are evolutionary adaptations — blind spots maintained by natural selection because ignorance itself conferred fitness advantages
+
+## 2026-02-08 19:14 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/)
+- **Changes**: Updated great ape false belief evidence (Krupenye 2016, Buttelmann 2017), distinguished phenomenal consciousness from cognitive access, acknowledged working memory/executive function as alternative explanations for the human-ape gap, added new falsification condition, softened tenet claims to match evidence strength
+- **Based on**: Pessimistic review 2026-02-05 morning (3 issues addressed)
+- **Published**: yes
+
+## 2026-02-08 18:59 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/)
+- **Word count**: 2604 → 2606 (+2)
+- **Critical issues addressed**: 1 (Georgiev date inconsistency)
+- **Medium issues addressed**: 3 (overstated claim, missing qualifier, imprecise description)
+- **Enhancements made**: 0 (article at stability—precision fixes only)
+- **Output**: [deep-review-2026-02-08-quantum-neural-mechanisms](/reviews/deep-review-2026-02-08-quantum-neural-mechanisms/)
+
 ## 2026-02-08 18:45 UTC - refine-draft
 - **Status**: Success
 - **Files**: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [identity-across-transformations](/apex/identity-across-transformations/)

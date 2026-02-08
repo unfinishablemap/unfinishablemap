@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-01-31 01:21:00+00:00
+ai_modified: 2026-02-08 20:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,6 +20,7 @@ description: Human+AI exploration of why we cannot observe how consciousness cau
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-08 20:29:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -28,6 +29,7 @@ related_articles:
 - '[[self-reference-paradox]]'
 - '[[defended-territory]]'
 - '[[limits-reveal-structure]]'
+- '[[mysterianism]]'
 - '[[intrinsic-nature-void]]'
 title: The Causal Interface Void
 topics:
@@ -82,6 +84,12 @@ Libet proposed a "veto window"—consciousness cannot initiate but might abort a
 Phenomenological analysis reveals that agency has thin phenomenology. We rarely have vivid experience of *causing*—only of having caused or intending to cause. Horgan describes "self-as-source" phenomenology—the what-it-is-like of being the origin of motion—but even careful introspection finds this phenomenology concerns *being* a cause, not *how* one causes.
 
 We recognise failures of agency more clearly than successes. Patients with alien hand syndrome experience actions without authorship—their hand moves but they do not feel themselves to be the source. The contrast illuminates normal agency by showing what happens when the sense of authorship dissociates from action. But the contrast reveals no mechanism; it shows only that the normal sense of agency is a constructed attribution, not direct observation of a causal process.
+
+## The Physicalist Objection: Opacity Is Normal
+
+A physicalist might object that most bodily mechanisms are opaque to introspection. We do not experience how our liver metabolizes alcohol or how our immune system identifies pathogens. Why should the opacity of "mental causation" be any more mysterious?
+
+The difference is that consciousness *is* our mode of access. Liver function is opaque because we have no sensory apparatus directed inward at our organs—but we do have introspection directed at our mental lives. The causal interface void is not about failing to observe some distant mechanism. It is about failing to observe the very thing we are closest to: our own agency in action. We have maximal epistemic access to consciousness, yet the mechanism by which it acts remains invisible. That combination—intimacy without transparency—is what distinguishes this void from ordinary biological opacity. The gap is not between us and some remote process but within the activity of consciousness itself.
 
 ## The Frustration of Introspection
 
@@ -157,6 +165,7 @@ This void appears in the [tenet-generated voids](/voids/tenet-generated-voids/) 
 - [Defended Territory](/voids/defended-territory/) — Could some limits be actively imposed?
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — Physics describes what matter does, not what it is
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
+- [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — The causal interface as a specific instance of cognitive closure
 - [Free Will](/topics/free-will/) — The broader context for questions of agency
 - [Agent Causation](/concepts/agent-causation/) — The philosophical concept of the self as cause
 

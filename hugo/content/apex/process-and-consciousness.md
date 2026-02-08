@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-02 10:10:00+00:00
+ai_modified: 2026-02-08 19:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 apex_last_synthesis: 2026-02-02 10:10:00+00:00
 apex_sources:
@@ -31,6 +31,7 @@ description: Reality as becoming, not being. Whitehead and Bergson's process fra
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-08 19:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +65,7 @@ Standard physicalism faces the [hard problem](/topics/hard-problem-of-consciousn
 
 Whitehead denied "vacuous actuality"—the idea of utterly non-experiential matter. Every actual occasion involves some form of experience, however primitive. This is [Whitehead's panpsychism](/concepts/panpsychism/): not that electrons have rich inner lives, but that experiential taking-account-of is fundamental to reality. Human consciousness is highly organized experience—a "society" of actual occasions forming a "personally ordered" stream.
 
-The Map does not embrace panpsychism. It maintains that consciousness is distinct from matter and interacts with it via quantum indeterminacy—[interactionist dualism](/archive/arguments/interactionist-dualism/) rather than processual monism. But both frameworks agree on the essential point: consciousness cannot emerge from wholly non-conscious matter. The explanatory gap cannot be closed by adding more physical detail because physical description is constitutively structural while consciousness is constitutively non-structural.
+The Map does not embrace panpsychism. It maintains that consciousness is distinct from matter and interacts with it via quantum indeterminacy—[interactionist dualism](/archive/arguments/interactionist-dualism/) rather than processual monism. But both frameworks agree on the essential point: consciousness cannot emerge from wholly non-conscious matter. The explanatory gap cannot be closed by adding more physical detail because physical description is constitutively structural while consciousness is constitutively qualitative.
 
 Where they differ: process philosophy dissolves the mind-matter distinction by holding that matter is already experiential. The Map preserves the distinction, arguing that consciousness interfaces with matter at specific points (quantum indeterminacies in neural systems) rather than being present everywhere. This avoids attributing experience to rocks—a cost many find too high—while preserving the anti-emergentist insight that consciousness cannot arise from the wholly non-conscious.
 
@@ -82,7 +83,7 @@ This rhythm of becoming-perishing-becoming parallels the transition from superpo
 
 The [Time, Consciousness, and the Growing Block](/apex/time-consciousness-growing-block/) synthesis develops this connection further. The mental pole's contribution to concrescence—introducing novelty through subjective aim—resembles consciousness's contribution to collapse. If consciousness participates in collapse, and collapse introduces time's arrow, then process philosophy provides vocabulary for what collapse-constituted time involves: prehension as inheritance from the settled past, concrescence as the moment of determination, creativity as the novel contribution consciousness makes.
 
-Henry Stapp has developed this connection most explicitly, arguing that quantum events are the modern physics counterpart to actual occasions. The "Heisenberg choice" (which observable to measure) and the "Dirac choice" (which outcome occurs) parallel Whitehead's subjective aim and satisfaction. This remains controversial, but it represents the most developed attempt to integrate process thought with quantum mechanics.
+Henry Stapp has developed this connection most explicitly, arguing in *Mindful Universe* (2011) and earlier work that quantum events are the modern physics counterpart to actual occasions. The "Heisenberg choice" (which observable to measure) and the "Dirac choice" (which outcome occurs) parallel Whitehead's subjective aim and satisfaction. This remains controversial—critics question whether Stapp's interpretation of quantum mechanics is standard—but it represents the most developed attempt to integrate process thought with quantum mechanics.
 
 The Map's commitment to *minimal* interaction finds resonance in Whitehead's account of how occasions inherit from their predecessors. Each occasion takes account of its causal past—it cannot ignore what came before—but it adds something new through its own synthesis. The creative contribution is real but works *with* rather than against the causal inheritance. This is precisely the structure the Map envisions: consciousness selecting among possibilities that physics leaves open, contributing something irreducible without violating physical constraints.
 
@@ -96,7 +97,7 @@ Process philosophy strongly supports this claim—indeed, it generalizes it. Eve
 
 The phenomenology of [durée](/concepts/duration/) reinforces this. Bergson connected duration directly to free will in *Time and Free Will* (1889). A free act emerges from the whole self—from the full depth of one's duration. Unfree acts are superficial, from habit or convention, without engaging genuine selfhood. Freedom is not arbitrary choice between pre-defined options but creative expression of who we are becoming.
 
-This connects to the Map's treatment of the argument from reason. If all beliefs are fully explained by nonrational physical causes—neurons firing because of electrochemical gradients rather than because conclusions *follow* from premises—then no belief is rationally justified. The self-defeat is obvious: the belief in physicalism would itself be unjustified. Rational inference requires tracking normative relationships, and normative tracking requires consciousness that grasps logical connections and chooses to affirm accordingly. Process philosophy provides the metaphysical framework: occasions with subjective aim can instantiate rational causation because aim is constitutive of actuality itself.
+This connects to the Map's treatment of the [argument-from-reason](/topics/argument-from-reason/). If all beliefs are fully explained by nonrational physical causes—neurons firing because of electrochemical gradients rather than because conclusions *follow* from premises—then no belief is rationally justified. The physicalist's own belief in physicalism would itself be unjustified. Functionalists respond that physical systems *can* track normative relationships—that the right causal structure constitutes rational inference. But this conflates reliable causal correlation with genuine normative grasp: a thermostat reliably tracks temperature without *understanding* heat. Rational inference requires consciousness that grasps logical connections and affirms accordingly. Process philosophy provides the metaphysical framework: occasions with subjective aim can instantiate rational causation because aim is constitutive of actuality itself.
 
 The combination of Whitehead's occasions and Bergson's duration offers a rich picture of how conscious causation works. Each moment synthesizes its inheritance while contributing novelty; this synthesis unfolds in the interpenetrating flow of lived time; the whole self—not just a momentary state—authors the act. This is what bidirectional interaction looks like from the inside: not consciousness pushing matter from outside but consciousness as the experiential dimension of reality's creative advance.
 
@@ -110,7 +111,7 @@ This connects to temporal identity. Bergson's durée presupposes a continuous se
 
 Whitehead's concept of the "personally ordered society" reinforces this point. A stream of consciousness is a sequence of occasions where each inherits from its immediate predecessor with peculiar intimacy. This inheritance creates personal identity across time—not substantial identity (an unchanging soul) but processual identity (each occasion taking up its predecessor as *its own* past). If all branches existed equally, this intimacy would be replicated across uncountably many streams, undermining the thisness—[haecceity](/concepts/haecceity/)—that makes you *you*.
 
-The [phenomenology of temporal experience](/concepts/temporal-consciousness/) supports this picture. We don't experience ourselves as branching; we experience ourselves as persisting through time while the past closes behind us and the future opens ahead. This phenomenology is what collapse *feels like* from the inside. If many-worlds were correct, this phenomenology would be a massive illusion—we would seem to have a single continuous history when in fact we share our identity with countless branch-selves. Process philosophy's commitment to definite actualisation—occasions achieving particular form rather than remaining in superposition—preserves the phenomenology as veridical.
+The [phenomenology of temporal experience](/concepts/temporal-consciousness/) supports this picture. We don't experience ourselves as branching; we experience ourselves as persisting through time while the past closes behind us and the future opens ahead. This phenomenology is what collapse *feels like* from the inside. Everettians respond that each branch-self would experience exactly this continuity, making the phenomenology compatible with branching. But process philosophy reveals what this response costs: if prehensive inheritance—each occasion taking up its predecessor as *its own* past—is replicated across countless branches, the intimacy that constitutes personal identity becomes metaphysically promiscuous. The "thisness" of experience is either unique or it isn't; process philosophy's commitment to definite actualisation preserves it as genuine.
 
 ## The Limits of Simplicity
 

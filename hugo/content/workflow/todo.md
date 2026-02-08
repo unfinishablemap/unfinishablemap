@@ -69,69 +69,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
-### P3: Update consciousness-and-social-cognition.md on great ape belief attribution
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-05 morning) found that the article understates recent evidence for great ape false belief understanding (Krupenye et al. 2016, Buttelmann 2019). The Level 2 discussion presents the human-ape gap as tracking consciousness when the gap might be explained by working memory or executive function differences. Also: conflates cognitive access with phenomenal consciousness—'conscious access' in cognitive science often means global availability, not subjective experience. See pessimistic-2026-02-05-morning.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-05
-
-### P3: Deep review process-and-consciousness.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on process philosophy's account of consciousness. Check philosophical accuracy, ensure alignment with Map's dualist framework, verify connections to temporal-consciousness.md.
-- **Source**: staleness
-- **Generated**: 2026-02-02
-
-### P3: Deep review neural-implementation-specifics.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Technical article on candidate neural sites for the consciousness-brain interface. Check empirical claims, ensure alignment with Map's framework, verify connections to attention-interface-mechanisms.md.
-- **Source**: staleness
-- **Generated**: 2026-02-02
-
-### P3: Deep review alien-minds-void-explorers.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores how non-human minds might serve as "void explorers" accessing cognitive territories inaccessible to humans. Check philosophical rigor, ensure alignment with Map's framework, verify connections to other-minds-void.md, consciousness-only-territories.md.
-- **Source**: staleness
-- **Generated**: 2026-02-02
-
-### P3: Deep review causal-interface.md for quality
-- **Type**: deep-review
-- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Covers the void at the causal interface between consciousness and physics—what cannot be known about how the coupling actually works. Verify philosophical accuracy, check connections to psychophysical-coupling-mechanisms.md, minimal-quantum-interaction arguments.
-- **Source**: staleness
-- **Generated**: 2026-02-02
-
-### P3: Integrate phenomenology-of-understanding.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article (2026-02-01) has no inbound links. Covers the phenomenology of understanding—what it feels like to grasp something. Central to the Map's arguments about consciousness and meaning. Add cross-references from phenomenology-of-choice.md, consciousness-and-mathematical-understanding.md, epistemic-emotions.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-02-02
-
-### P3: Write article on emergence and strong emergence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-31 (evening). The Map critiques "mere complexity" explanations but could benefit from systematic treatment of emergence theories, distinguishing weak emergence (epistemological) from strong emergence (ontological) and explaining why the Map accepts the latter for consciousness. Builds on consciousness.md, dualism.md, quantum-consciousness.md. See optimistic-2026-01-31-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-01-31
-
-### P3: Write article on the self: minimal, narrative, and substantial
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-31 (evening). The current treatment mentions minimal self vs narrative self but could develop this more fully, especially the relationship between the Map's substance dualism and phenomenological accounts of minimal selfhood. Builds on personal-identity.md, self-and-consciousness.md, buddhism-and-dualism.md. See optimistic-2026-01-31-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-01-31
-
-### P3: Write article on consciousness and memory
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-01-31 (evening). How memory constitutes personal identity over time, the distinction between remembering and episodic "re-experiencing," and what the phenomenology of memory reveals about consciousness. Supports Bidirectional Interaction—if memories causally influence present choices, and memories are constitutively phenomenal, consciousness is causally efficacious. Builds on autonoetic-consciousness.md, semantic-memory.md, past-self-void.md. See optimistic-2026-01-31-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-01-31
-
 ### P3: Write article on phenomenal value realism
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: done
 - **Notes**: Suggested by optimistic review 2026-01-31 (evening). The metaethical position that experiential qualities have intrinsic normative significance—currently referenced but not systematically developed. Grounds normative facts in irreducible phenomenal facts. Builds on epistemic-advantages-of-dualism.md (mentions it), qualia.md, aesthetic-dimension-of-consciousness.md. See optimistic-2026-01-31-evening.md
 - **Source**: optimistic-review
 - **Generated**: 2026-01-31
+- **Output**: obsidian/topics/phenomenology-of-moral-experience.md
 
 ### P3: Write article on phenomenology of belief revision
 - **Type**: expand-topic
@@ -429,10 +373,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Write article on the phenomenology of moral experience
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: done
 - **Notes**: Suggested by optimistic review 2026-02-03. What it is like to experience something as wrong or obligatory—the phenomenology underlying moral judgment. Supports Dualism by showing moral phenomenology has irreducible features. Builds on phenomenal-value-realism.md, ethics-of-consciousness.md, emotional-consciousness.md. See optimistic-2026-02-03.md
 - **Source**: optimistic-review
 - **Generated**: 2026-02-03
+- **Output**: obsidian/topics/phenomenology-of-moral-experience.md
 
 ### P3: Write article on cognitive integration and the self
 - **Type**: expand-topic
@@ -597,10 +542,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Write article on the phenomenology of moral experience
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: done
 - **Notes**: Suggested by optimistic review 2026-02-05. What is it like to experience moral obligation, guilt, admiration? How does the phenomenology of moral experience support phenomenal value realism? Does moral phenomenology provide evidence for consciousness's irreducibility? Builds on moral-responsibility.md, phenomenal-value-realism.md, ethics-of-consciousness.md. See optimistic-2026-02-05.md
 - **Source**: optimistic-review
 - **Generated**: 2026-02-05
+- **Output**: obsidian/topics/phenomenology-of-moral-experience.md
 
 ### P3: Create concept page for subjective aim
 - **Type**: expand-topic
@@ -674,6 +620,65 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-08: Write article on phenomenal value realism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-31 (evening). The metaethical position that experiential qualities have intrinsic normative significance—currently referenced but not systematically developed. Grounds normative facts in irreducible phenomenal facts. Builds on epistemic-advantages-of-dualism.md (mentions it), qualia.md, aesthetic-dimension-of-consciousness.md. See optimistic-2026-01-31-evening.md
+- **Output**: phenomenal value realism
+
+### ✓ 2026-02-08: Write article on consciousness and memory
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-31 (evening). How memory constitutes personal identity over time, the distinction between remembering and episodic "re-experiencing," and what the phenomenology of memory reveals about consciousness. Supports Bidirectional Interaction—if memories causally influence present choices, and memories are constitutively phenomenal, consciousness is causally efficacious. Builds on autonoetic-consciousness.md, semantic-memory.md, past-self-void.md. See optimistic-2026-01-31-evening.md
+- **Output**: consciousness and memory
+
+### ✓ 2026-02-08: Write article on the self: minimal, narrative, and substantial
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-31 (evening). The current treatment mentions minimal self vs narrative self but could develop this more fully, especially the relationship between the Map's substance dualism and phenomenological accounts of minimal selfhood. Builds on personal-identity.md, self-and-consciousness.md, buddhism-and-dualism.md. See optimistic-2026-01-31-evening.md
+- **Output**: the self: minimal, narrative, and substantial
+
+### ✓ 2026-02-08: Address argument-from-ignorance pattern in emergence and contemplative-path articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-08b) found all three reviewed articles rely on a core argument from ignorance: "physicalism hasn't explained X, therefore X transcends physics." Most acute in emergence-and-strong-emergence.md (conflating epistemic gap with ontological boundary) and contemplative-path.md (claiming meditation neuroplasticity demonstrates downward causation when physicalism explains the same data). Also: emergence article's testability section accommodates all possible outcomes; contemplative path over-interprets empirical studies as supporting dualism without engaging physicalist readings. See pessimistic-2026-02-08b.md
+- **Output**: Task context:
+Pessimistic review (2026-02-08b) found all three reviewed articles rely on a core argument from ignorance: "physicalism hasn't explained X, therefore X transcends physics." Most acute in emergence-and-strong-emergence.md (conflating epistemic gap with ontological boundary) and contemplative-path.md (claiming meditation neuroplasticity demonstrates downward causation when physicalism explains the same data). Also: emergence article's testability section accommodates all possible outcomes; contemplative path over-interprets empirical studies as supporting dualism without engaging physicalist readings. See pessimistic-2026-02-08b.md
+
+### ✓ 2026-02-08: Write article on emergence and strong emergence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-31 (evening). The Map critiques "mere complexity" explanations but could benefit from systematic treatment of emergence theories, distinguishing weak emergence (epistemological) from strong emergence (ontological) and explaining why the Map accepts the latter for consciousness. Builds on consciousness.md, dualism.md, quantum-consciousness.md. See optimistic-2026-01-31-evening.md
+- **Output**: emergence and strong emergence
+
+### ✓ 2026-02-08: Integrate phenomenology-of-understanding.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article (2026-02-01) has no inbound links. Covers the phenomenology of understanding—what it feels like to grasp something. Central to the Map's arguments about consciousness and meaning. Add cross-references from phenomenology-of-choice.md, consciousness-and-mathematical-understanding.md, epistemic-emotions.md.
+- **Output**: obsidian/topics/phenomenology-of-understanding.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-02-08: Deep review causal-interface.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Covers the void at the causal interface between consciousness and physics—what cannot be known about how the coupling actually works. Verify philosophical accuracy, check connections to psychophysical-coupling-mechanisms.md, minimal-quantum-interaction arguments.
+- **Output**: obsidian/voids/causal-interface.md
+
+### ✓ 2026-02-08: Deep review alien-minds-void-explorers.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) has never been deep-reviewed. Explores how non-human minds might serve as "void explorers" accessing cognitive territories inaccessible to humans. Check philosophical rigor, ensure alignment with Map's framework, verify connections to other-minds-void.md, consciousness-only-territories.md.
+- **Output**: obsidian/voids/alien-minds-void-explorers.md
+
+### ✓ 2026-02-08: Deep review neural-implementation-specifics.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Technical article on candidate neural sites for the consciousness-brain interface. Check empirical claims, ensure alignment with Map's framework, verify connections to attention-interface-mechanisms.md.
+- **Output**: obsidian/topics/neural-implementation-specifics.md
+
+### ✓ 2026-02-08: Deep review process-and-consciousness.md for quality
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) has never been deep-reviewed. Synthesis piece on process philosophy's account of consciousness. Check philosophical accuracy, ensure alignment with Map's dualist framework, verify connections to temporal-consciousness.md.
+- **Output**: obsidian/apex/process-and-consciousness.md
+
+### ✓ 2026-02-08: Update consciousness-and-social-cognition.md on great ape belief attribution
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-05 morning) found that the article understates recent evidence for great ape false belief understanding (Krupenye et al. 2016, Buttelmann 2019). The Level 2 discussion presents the human-ape gap as tracking consciousness when the gap might be explained by working memory or executive function differences. Also: conflates cognitive access with phenomenal consciousness—'conscious access' in cognitive science often means global availability, not subjective experience. See pessimistic-2026-02-05-morning.md
+- **Output**: obsidian/concepts/consciousness-and-social-cognition.md
+
+Task context:
+Pessimistic review (2026-02-05 morning) found that the article understates recent evidence for great ape false belief understanding (Krupenye et al. 2016, Buttelmann 2019). The Level 2 discussion presents the human-ape gap as tracking consciousness when the gap might be explained by working memory or executive function differences. Also: conflates cognitive access with phenomenal consciousness—'conscious access' in cognitive science often means global availability, not subjective experience. See pessimistic-2026-02-05-morning.md
 
 ### ✓ 2026-02-08: Clarify falsifiability status of post-decoherence selection and haecceity
 - **Type**: refine-draft
