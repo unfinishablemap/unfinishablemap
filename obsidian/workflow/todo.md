@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address argument-from-ignorance pattern in emergence and contemplative-path articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-08b) found all three reviewed articles rely on a core argument from ignorance: "physicalism hasn't explained X, therefore X transcends physics." Most acute in emergence-and-strong-emergence.md (conflating epistemic gap with ontological boundary) and contemplative-path.md (claiming meditation neuroplasticity demonstrates downward causation when physicalism explains the same data). Also: emergence article's testability section accommodates all possible outcomes; contemplative path over-interprets empirical studies as supporting dualism without engaging physicalist readings. See pessimistic-2026-02-08b.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-08
-
 ### P2: Update wikilinks to archived articles (interface-locality, brain-specialness, and 5 others)
 - **Type**: other
 - **Notes**: Gap analysis found 70+ broken wikilinks pointing to archived/coalesced articles. Key targets: interface-locality (34 refs, archived to concepts/), brain-specialness (6 refs), consciousness-and-quantum-measurement (11 refs), nihilism (5 refs), quantum-measurement-and-definite-outcomes (5 refs), eastern-philosophy-haecceity-tension (4 refs), meaning-and-consciousness (4 refs). Update wikilinks to point to the replacement articles these were coalesced into, or verify the archive redirect handles them.
@@ -637,6 +630,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-08: Address argument-from-ignorance pattern in emergence and contemplative-path articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-08b) found all three reviewed articles rely on a core argument from ignorance: "physicalism hasn't explained X, therefore X transcends physics." Most acute in emergence-and-strong-emergence.md (conflating epistemic gap with ontological boundary) and contemplative-path.md (claiming meditation neuroplasticity demonstrates downward causation when physicalism explains the same data). Also: emergence article's testability section accommodates all possible outcomes; contemplative path over-interprets empirical studies as supporting dualism without engaging physicalist readings. See pessimistic-2026-02-08b.md
+- **Output**: Task context:
+Pessimistic review (2026-02-08b) found all three reviewed articles rely on a core argument from ignorance: "physicalism hasn't explained X, therefore X transcends physics." Most acute in emergence-and-strong-emergence.md (conflating epistemic gap with ontological boundary) and contemplative-path.md (claiming meditation neuroplasticity demonstrates downward causation when physicalism explains the same data). Also: emergence article's testability section accommodates all possible outcomes; contemplative path over-interprets empirical studies as supporting dualism without engaging physicalist readings. See pessimistic-2026-02-08b.md
 
 ### ✓ 2026-02-08: Write article on emergence and strong emergence
 - **Type**: expand-topic
