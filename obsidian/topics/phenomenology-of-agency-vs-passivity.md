@@ -4,7 +4,7 @@ description: "The felt contrast between doing and undergoing reveals a fundament
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-02-09T12:05:00+00:00
+ai_modified: 2026-02-09T12:36:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -23,14 +23,20 @@ concepts:
   - "[[implicit-memory]]"
   - "[[embodied-cognition]]"
   - "[[attention-as-interface]]"
+  - "[[conscious-vs-unconscious-processing]]"
+  - "[[illusionism]]"
+  - "[[epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-agency]]"
+  - "[[lucid-dreaming-and-consciousness]]"
+  - "[[choking-phenomenon-mental-causation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
+last_deep_review: 2026-02-09T12:36:00+00:00
 ---
 
 Every moment of experience falls somewhere on an axis between doing and undergoing. Lifting your arm feels different from having it lifted. Directing attention to a problem feels different from being startled by a noise. Choosing your words feels different from hearing someone else speak. This phenomenological contrast—between agency and passivity—is among the most basic features of conscious life, yet it resists explanation by any account that treats consciousness as causally inert. The Unfinishable Map's framework, in which consciousness genuinely selects among physical possibilities, predicts exactly this contrast: agency feels different from passivity because agency *is* different—it involves conscious causal contribution that passivity lacks.
@@ -67,7 +73,7 @@ The poles are idealised. Most experience falls somewhere between pure agency and
 
 ### Habitual Action
 
-Typing these words, an experienced writer barely notices the finger movements. Each keystroke was once deliberate—early typing required conscious selection of each key. Through practice, the action shifted from the agentic pole toward passivity. It still feels like *doing* something (unlike pure perception), but the effort and authorship have diminished. The [[implicit-memory|automatisation process]] gradually withdraws conscious contribution while preserving behavioural output.
+Typing these words, an experienced writer barely notices the finger movements. Each keystroke was once deliberate—early typing required conscious selection of each key. Through practice, the action shifted from the agentic pole toward passivity. It still feels like *doing* something (unlike pure perception), but the effort and authorship have diminished. The [[implicit-memory|automatisation process]] gradually withdraws [[conscious-vs-unconscious-processing|conscious contribution]] while preserving behavioural output.
 
 The [[choking-phenomenon-mental-causation|choking phenomenon]] reveals what happens when consciousness re-engages with an automatised skill. A pianist performing from muscle memory suddenly attends to her fingers and stumbles. The return of agency disrupts the passivity that skilled performance requires. This is strong evidence for the Map's framework: if consciousness were causally inert, its re-engagement with a motor routine could not disrupt it.
 
@@ -77,19 +83,21 @@ Flow—total absorption in a challenging activity—is phenomenologically parado
 
 Flow suggests the agency-passivity axis is not a single dimension but involves at least two: *causal contribution* (whether consciousness is shaping outcomes) and *phenomenal effort* (whether the contribution feels like work). In flow, causal contribution may remain high while phenomenal effort drops. The [[voluntary-attention|attention interface]] operates smoothly, without the friction that generates effort phenomenology.
 
+This creates a genuine tension for the article's core argument. If phenomenal effort can dissociate from causal contribution, then the feeling of agency is not a perfectly reliable indicator of conscious causal engagement. The Map's response: effort phenomenology tracks the *difficulty* of selection, not its presence. Just as a well-oiled hinge still connects two surfaces even when it turns without friction, consciousness in flow still selects—it simply selects without resistance. The broader agency-passivity axis remains informative even if effort is not its only marker.
+
 ### Dreams
 
-Dreaming inverts normal phenomenology in instructive ways. In ordinary dreams, events happen to the dreamer—bizarre scenarios unfold without the dreamer questioning or directing them. Agency is minimal. Yet the dreamer *is* the protagonist, generating the entire scenario from their own mind. The production is active; the experience is passive. This dissociation between generation and experience of agency reveals that authorship phenomenology does not automatically accompany causal production.
+Dreaming inverts normal phenomenology in instructive ways. In ordinary dreams, events happen to the dreamer—bizarre scenarios unfold without the dreamer questioning or directing them. Agency is minimal. Yet the dreamer's brain generates the entire scenario, and the dreamer is the protagonist experiencing it. Neural production is active; conscious experience is passive. This dissociation between causal production and phenomenal authorship reveals that agency phenomenology does not automatically accompany the generation of experiential content—an important datum for any theory of consciousness.
 
-Lucid dreams restore the agency pole. The dreamer recognises they are dreaming and begins directing the dream. The transition from ordinary to lucid dreaming is phenomenologically vivid: passivity gives way to agency within the same experiential context, demonstrating that the contrast is real and not merely conceptual.
+[[lucid-dreaming-and-consciousness|Lucid dreams]] restore the agency pole. The dreamer recognises they are dreaming and begins directing the dream. The transition from ordinary to lucid dreaming is phenomenologically vivid: passivity gives way to agency within the same experiential context, demonstrating that the contrast is real and not merely conceptual.
 
 ### Hypnosis and Involuntary Movement
 
-Under hypnosis, subjects report that their arm rises "by itself." The motor output is present, but the sense of agency is absent. Conversely, patients with certain neurological conditions may experience a strong sense of willing a movement that never occurs (the Desmurget dissociation discussed under [[motor-selection|motor selection]]). These dissociations show that agency phenomenology can come apart from the physical movements it normally accompanies—exactly what dualism predicts. If the sense of agency were simply the brain's readout of its own motor commands, it could not be separated from them so cleanly.
+Under hypnosis, subjects report that their arm rises "by itself." The motor output is present, but the sense of agency is absent. Conversely, Desmurget et al. (2009) found that direct electrical stimulation of the parietal cortex during neurosurgery produced a vivid sense of intending to move—even a false belief of having moved—without any actual movement occurring. Premotor stimulation produced the reverse: real movement without awareness. These dissociations show that agency phenomenology can come apart from the physical movements it normally accompanies—exactly what dualism predicts. If the sense of agency were simply the brain's readout of its own motor commands, it could not be separated from them so cleanly.
 
 ### Ownership Without Agency
 
-Anarchic hand syndrome presents a further dissociation: patients recognise a hand as *theirs* (ownership) while denying that its actions are *theirs* (agency). The hand reaches for objects, manipulates tools, even interferes with the other hand—all without the patient's sense of authorship. Ownership and agency, normally bundled together, are phenomenologically and neurologically separable.
+Anarchic hand syndrome (Della Sala et al., 1991) presents a further dissociation: patients recognise a hand as *theirs* (ownership) while denying that its actions are *theirs* (agency). The hand reaches for objects, manipulates tools, even interferes with the other hand—all without the patient's sense of authorship. Ownership and agency, normally bundled together, are phenomenologically and neurologically separable.
 
 This matters because it reveals that the sense of agency is not simply body-ownership plus motor output. Something additional—the Map would say: genuine conscious selection—must be present for full agentic phenomenology.
 
@@ -97,13 +105,13 @@ This matters because it reveals that the sense of agency is not simply body-owne
 
 ### Against Epiphenomenalism
 
-If consciousness were [[epiphenomenalism|epiphenomenal]]—causally inert, merely along for the ride—the agency-passivity distinction should not exist. An epiphenomenal consciousness would be purely passive in every case. The fact that experience systematically distinguishes doing from undergoing, and that this distinction correlates with measurable neural differences ([[voluntary-attention|frontal theta]], bidirectional coherence), suggests consciousness tracks its own causal contribution.
+If consciousness were [[epiphenomenalism|epiphenomenal]]—causally inert, merely along for the ride—the agency-passivity distinction should not exist. An epiphenomenal consciousness would be purely passive in every case. The fact that experience systematically distinguishes doing from undergoing, and that this distinction correlates with measurable neural differences in [[voluntary-attention|willed versus automatic attention]], suggests consciousness tracks its own causal contribution.
 
-The epiphenomenalist can respond that the *appearance* of agency is itself generated by neural processes, with no actual conscious contribution. But this makes the correlation between felt difficulty and actual task complexity a cosmic coincidence. Why would a causally inert consciousness happen to represent exactly those situations where neural processing is genuinely demanding as "effortful"?
+The epiphenomenalist can respond that the *appearance* of agency is itself a neural product, with no actual conscious contribution. On this view, the phenomenal contrast merely *represents* a functional distinction in the brain rather than tracking genuine causal differences. But this faces a calibration problem: why would a causally inert consciousness so reliably represent exactly those situations where neural processing is genuinely demanding as "effortful"? The correlation between felt difficulty and actual task complexity—and between the [[voluntary-attention|willed attention signature]] (frontal theta in Bengson 2019) and subjective agency—would be a cosmic coincidence if consciousness contributed nothing to producing the states it tracks.
 
 ### Against Illusionism
 
-The [[illusionism|illusionist]] holds that the phenomenal contrast between agency and passivity is a functional distinction the brain represents, not a genuine difference in conscious contribution. But the contrast survives careful introspective scrutiny. Contemplative traditions, which refine phenomenological discrimination through sustained practice, report that the agency-passivity distinction becomes *sharper* with training, not less. Meditators distinguish ever finer gradations of agency and passivity—subtle intentions, micro-decisions about attention, passive reception during open awareness. If the contrast were illusory, extended scrutiny should erode it.
+The [[illusionism|illusionist]] holds that the phenomenal contrast between agency and passivity is a functional distinction the brain represents, not a genuine difference in conscious contribution. The contrast is "real" as a representation but does not track what it seems to track—actual causal efficacy. Yet the phenomenology resists this deflationary reading. Contemplative traditions in [[meditation-and-consciousness-modes|Buddhist samatha and vipassana practice]] refine phenomenological discrimination through sustained training, and experienced meditators report that the agency-passivity distinction becomes *sharper*, not less distinct (Lutz et al., 2008). Practitioners distinguish ever finer gradations—subtle intentions, micro-decisions about [[voluntary-attention|attention]], passive reception during open awareness. Unlike perceptual illusions that persist because we cannot access the underlying mechanism, agency phenomenology is refined precisely *by* attending to it more carefully. The deepening of the contrast under scrutiny is better explained by its tracking a real distinction than by its being an adaptive misrepresentation.
 
 ### For the Selection Framework
 
@@ -115,13 +123,13 @@ The [[witness-consciousness|witness mode]] in meditation demonstrates that consc
 
 Pathological cases illuminate the structure:
 
-- **Schizophrenia (thought insertion)**: Patients report thoughts that feel alien—present in consciousness but not authored by the self. The content is experienced passively despite originating internally. Agency phenomenology has been stripped from what should be an active process.
+- **Schizophrenia (thought insertion)**: Patients report thoughts that feel alien—present in consciousness but not authored by the self (Frith, 1992). The content is experienced passively despite originating internally. Agency phenomenology has been stripped from what should be an active process.
 
 - **Depersonalisation**: Actions feel automatic, as if performed by someone else. The entire experiential field shifts toward passivity. Patients describe watching themselves act without feeling like the actor.
 
 - **Utilisation behaviour**: Patients with frontal damage act on every object they encounter—seeing scissors, they cut; seeing a pen, they write. The stimuli drive action directly, bypassing the agentic deliberation that would normally intervene. Passivity in the face of affordances replaces active selection.
 
-Each disorder strips away a component normally bundled with agency, confirming that the phenomenology of doing involves multiple separable elements: authorship, effort, control, and ownership. The fact that these come apart under pathological conditions suggests they are genuine features of experience rather than a unified illusion.
+Each disorder strips away a component normally bundled with agency, suggesting that the phenomenology of doing involves multiple separable elements: authorship, effort, control, and ownership. A physicalist could read these dissociations as evidence that agency is constructed from separable neural modules. But the fact that each module carries a distinctive *phenomenal character*—not just a functional role—is harder for purely physical accounts to explain. Why does the loss of authorship *feel* different from the loss of control, if both are just changes in information processing?
 
 ## Relation to Site Perspective
 
@@ -132,6 +140,8 @@ Each disorder strips away a component normally bundled with agency, confirming t
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The spectrum from full agency through flow to passivity may correspond to degrees of consciousness's influence on quantum outcomes—from intensive selection (deliberate choice) through fluent selection (flow) to minimal or absent selection (passive observation).
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Agency phenomenology presupposes singular actualisation. When you choose, one option becomes real. Many-worlds would make every choice a branching without genuine selection—but the phenomenology of agency is precisely the experience of *making one outcome actual* while others become counterfactual.
+
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: A parsimony-based argument would dismiss the agency-passivity distinction as "just" a functional representation—the brain tracking its own motor-control modes—and deny any need for non-physical explanation. But simplicity is unreliable when the phenomenon in question (phenomenal character) is precisely what physical description leaves out. The apparent parsimony of reductive accounts comes at the cost of ignoring the data: the felt difference between doing and undergoing is among the most vivid features of experience, and treating it as explanatorily irrelevant is not economy but evasion.
 
 ## Further Reading
 
@@ -149,10 +159,13 @@ Each disorder strips away a component normally bundled with agency, confirming t
 ## References
 
 - Bayne, T. & Levy, N. (2006). The feeling of doing: Deconstructing the phenomenology of agency. In N. Sebanz & W. Prinz (Eds.), *Disorders of Volition*. MIT Press.
+- Della Sala, S., Marchetti, C. & Spinnler, H. (1991). Right-sided anarchic (alien) hand: A longitudinal study. *Neuropsychologia*, 29(11), 1113-1127.
 - Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
+- Frith, C.D. (1992). *The Cognitive Neuropsychology of Schizophrenia*. Lawrence Erlbaum Associates.
 - Gallagher, S. (2000). Philosophical conceptions of the self: Implications for cognitive science. *Trends in Cognitive Sciences*, 4(1), 14-21.
 - Haggard, P. (2017). Sense of agency in the human brain. *Nature Reviews Neuroscience*, 18(4), 196-207.
 - James, W. (1890). *The Principles of Psychology*. Chapter 26: Will.
 - Lhermitte, F. (1983). "Utilization behaviour" and its relation to lesions of the frontal lobes. *Brain*, 106(2), 237-255.
+- Lutz, A., Slagter, H.A., Dunne, J.D. & Davidson, R.J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163-169.
 - Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
