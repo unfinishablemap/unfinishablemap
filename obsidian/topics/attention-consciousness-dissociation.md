@@ -186,7 +186,7 @@ The attention-consciousness dissociation illuminates The Unfinishable Map's fram
 
 - [[attention]] — The concept article covering attention-consciousness mechanisms
 - [[attention-as-interface]] — The interface hypothesis in detail
-- [[attention-interface-mechanisms]] — Candidate sites and mechanisms
+- [[attention-as-selection-interface]] — The unified selection interface: convergence, mechanisms, and predictions
 - [[hard-problem-of-consciousness]] — Why explaining consciousness is hard
 - [[functionalism]] — The view dissociation evidence challenges
 - [[phenomenal-consciousness]] — What the overflow debate concerns

@@ -31,6 +31,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-05
 last_curated:
 last_deep_review: 2026-02-06T11:22:00+00:00
+archived: true
+archived_date: 2026-02-09T08:50:00+00:00
+superseded_by: "/topics/attention-as-selection-interface/"
+archive_reason: "Coalesced into Attention as the Selection Interface"
+original_path: "/topics/attention-motor-planning-quantum-interface/"
 ---
 
 Neuroscience has discovered that attention and motor planning are not separate systems. The premotor theory of attention demonstrates they share neural substrates—directing attention *is* preparing to act. The Unfinishable Map argues this convergence transforms the mind-body problem. If consciousness influences matter through attention (the [[attention-as-interface|attention-as-interface hypothesis]]), and attention is motor planning, then a single interface connects mind to world. Consciousness selects what to perceive and what to do through the same mechanism, at the same neural sites, on the same timescale.

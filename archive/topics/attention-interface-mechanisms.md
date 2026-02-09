@@ -40,6 +40,11 @@ last_curated:
 last_deep_review: 2026-02-06T12:07:00+00:00
 coalesced_from:
   - "/topics/attention-motor-quantum-selection/"
+archived: true
+archived_date: 2026-02-09T08:50:00+00:00
+superseded_by: "/topics/attention-as-selection-interface/"
+archive_reason: "Coalesced into Attention as the Selection Interface"
+original_path: "/topics/attention-interface-mechanisms/"
 ---
 
 The [[attention-as-interface]] hypothesis proposes that attention mediates consciousness's influence on brain states. But *where* in the brain does this interface operate, and *how* might consciousness bias neural outcomes? A key insight: attention and motor planning share neural substrates—the premotor theory of attention suggests these are not separate systems. If consciousness operates through attention, and attention is motor planning, then consciousness engages through a unified selection mechanism connecting perception to action.

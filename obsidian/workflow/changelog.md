@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-09 08:50 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[attention-motor-planning-quantum-interface]], [[attention-interface-mechanisms]]
+- **Target**: [[attention-as-selection-interface]]
+- **Archived**: archive/topics/attention-motor-planning-quantum-interface.md, archive/topics/attention-interface-mechanisms.md
+- **References to review**: 10 active content files reference archived articles (follow-up task created)
+
 ## 2026-02-09 08:36 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Contemplative Verification of Consciousness Theories
