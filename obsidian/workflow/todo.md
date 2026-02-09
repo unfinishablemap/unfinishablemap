@@ -74,13 +74,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
-### P3: Write article on dream consciousness and the filter model
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02 (morning). Dreams demonstrate consciousness without external input—experience generated purely internally. What does this show about the consciousness-brain relationship? Dreams as evidence against the brain-as-generator model. Builds on dreams-and-consciousness.md, hard-problem-of-consciousness.md, filter-theory.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
 ### P3: Create concept page for prehension
 - **Type**: expand-topic
 - **Status**: pending
@@ -548,6 +541,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Write article on dream consciousness and the filter model
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (morning). Dreams demonstrate consciousness without external input—experience generated purely internally. What does this show about the consciousness-brain relationship? Dreams as evidence against the brain-as-generator model. Builds on dreams-and-consciousness.md, hard-problem-of-consciousness.md, filter-theory.md.
+- **Output**: dream consciousness and the filter model
 
 ### ✓ 2026-02-09: Write article on phenomenology of anticipation (protention)
 - **Type**: expand-topic
