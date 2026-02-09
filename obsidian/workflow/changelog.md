@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-09 21:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of Deliberation Under Uncertainty
+- **Output**: [[topics/phenomenology-of-deliberation-under-uncertainty]]
+- **Word count**: 2135
+- **Based on research**: no
+
 ## 2026-02-09 19:01 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[topics/consciousness-and-memory]], [[topics/consciousness-and-memory-consolidation]]
