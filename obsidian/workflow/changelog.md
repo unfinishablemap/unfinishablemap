@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-09 01:29 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[phenomenal-value-realism]] (topic), [[phenomenal-value-realism-development]]
+- **Target**: [[phenomenal-value-realism]] (unified topic article)
+- **Archived**: [[archive/topics/phenomenal-value-realism-development]]
+- **References to review**: 0 (all updated)
+
 ## 2026-02-09 01:15 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Belief Revision

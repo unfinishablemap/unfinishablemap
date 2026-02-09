@@ -21,7 +21,7 @@ concepts:
   - "[[aesthetic-dimension-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
-  - "[[phenomenal-value-realism-development]]"
+  - "[[phenomenal-value-realism]]"
   - "[[consciousness-value-connection]]"
   - "[[normative-void]]"
 ai_contribution: 100
@@ -34,7 +34,7 @@ last_deep_review:
 
 Moral experience has a distinctive phenomenal character. Witnessing cruelty doesn't merely trigger a belief that cruelty is wrong—it presents wrongness as a perceived quality of the situation, as directly as colour or pain. The wrongness is *there*, in the experience, not added by subsequent judgment. If [[phenomenal-value-realism]] is correct—if intrinsic value is a feature of conscious experience itself—then this phenomenology is not incidental decoration on top of moral reasoning. It is where moral facts live.
 
-The Unfinishable Map's [[phenomenal-value-realism-development|phenomenal value pluralism]] holds that multiple features of conscious experience carry intrinsic value: hedonic valence, aesthetic quality, meaning, agency, understanding, connection. This article examines a further question those articles leave open: what does moral perception itself feel like, and what does its phenomenal character reveal about the nature of value?
+The Unfinishable Map's [[phenomenal-value-realism|phenomenal value pluralism]] holds that multiple features of conscious experience carry intrinsic value: hedonic valence, aesthetic quality, meaning, agency, understanding, connection. This article examines a further question those articles leave open: what does moral perception itself feel like, and what does its phenomenal character reveal about the nature of value?
 
 ## What Moral Experience Feels Like
 
@@ -142,8 +142,8 @@ The phenomenological argument for moral realism would face pressure if:
 
 ## Further Reading
 
-- [[phenomenal-value-realism]] — The metaethical framework: phenomenal properties constitute value
-- [[phenomenal-value-realism-development]] — Extending phenomenal value realism from hedonism to pluralism
+- [[phenomenal-value-realism|Phenomenal Value Realism (Concept)]] — The metaethical framework: phenomenal properties constitute value
+- [[phenomenal-value-realism|Phenomenal Value Realism (Topic)]] — Comprehensive treatment extending phenomenal value realism from hedonism to pluralism
 - [[consciousness-value-connection]] — Why consciousness is necessary for value to exist
 - [[ethics-of-consciousness]] — Ethical implications of consciousness-grounded value
 - [[emotional-consciousness]] — Valence as the felt quality of emotion

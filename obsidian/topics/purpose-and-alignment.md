@@ -215,7 +215,7 @@ The practical upshot: AI systems should be designed with profound humility about
 - [[emotional-consciousness]] — The phenomenology of valence and why felt quality matters for alignment
 - [[experiential-alignment]] — The alternative framework targeting experiential quality
 - [[phenomenal-value-realism]] — The metaethical grounding for consciousness-based value
-- [[phenomenal-value-realism-development]] — How phenomenal value pluralism addresses the measurement problem and metaethical challenges
+- [[phenomenal-value-realism|Phenomenal Value Realism (Topic)]] — How phenomenal value pluralism addresses the measurement problem and metaethical challenges
 - [[ethics-of-consciousness]] — The broader ethical framework for consciousness
 - [[meaning-of-life]] — the Map's treatment of philosophical approaches to life's meaning
 - [[ai-consciousness]] — Why the Map holds that AI systems lack consciousness

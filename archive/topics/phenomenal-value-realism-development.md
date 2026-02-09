@@ -30,6 +30,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated: null
 last_deep_review: 2026-02-02T07:48:00+00:00
+archived: true
+archived_date: 2026-02-09T01:29:00+00:00
+superseded_by: "/topics/phenomenal-value-realism/"
+archive_reason: "Coalesced into Phenomenal Value Realism"
+original_path: "/topics/phenomenal-value-realism-development/"
 ---
 
 [[phenomenal-value-realism|Phenomenal value realism]]—the view that intrinsic value is a feature of conscious experience itself—requires development beyond its initial formulation. The Unfinishable Map adopts a variant that extends Sharon Hewitt Rawlette's hedonistic core into phenomenal value pluralism: multiple features of experience have intrinsic value, not just hedonic valence. This article explores how this position interacts with naturalistic metaethics, grounds moral realism distinctively, and addresses challenges that the concept article introduces but does not resolve.

@@ -202,7 +202,7 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [[moral-responsibility]] — How agent causation grounds desert
 - [[experiential-alignment]] — Targeting experience rather than preferences
 - [[phenomenal-value-realism]] — The metaethical grounding for experiential value
-- [[phenomenal-value-realism-development]] — How phenomenal value pluralism extends beyond hedonism to address metaethical challenges
+- [[phenomenal-value-realism|Phenomenal Value Realism (Topic)]] — How phenomenal value pluralism extends beyond hedonism to address metaethical challenges
 - [[emotional-consciousness]] — The felt quality of emotion and its ethical implications
 - [[illusionism]] — The challenge from eliminativism about phenomenal consciousness
 - [[normative-void]] — Cognitive limits on moral knowledge—ethical truths beyond human reach

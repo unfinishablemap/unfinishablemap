@@ -25,7 +25,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[contemplative-evidence-for-consciousness-theories]]"
-  - "[[phenomenal-value-realism-development]]"
+  - "[[phenomenal-value-realism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
