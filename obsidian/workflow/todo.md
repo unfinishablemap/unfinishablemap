@@ -68,13 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
-### P3: Write article on consciousness-evolution problem
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-01 (night). How could non-physical consciousness evolve through natural selection if it influences physical outcomes? The site alludes to this but hasn't treated it systematically. If consciousness is causally efficacious (Bidirectional Interaction), evolution could select for it; needs explicit treatment. Builds on evolution-of-consciousness.md, tenets.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-02-01
-
 ### P3: Write article on Princess Elizabeth's challenge (historical deep dive)
 - **Type**: expand-topic
 - **Status**: pending
@@ -556,6 +549,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Write article on consciousness-evolution problem
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-01 (night). How could non-physical consciousness evolve through natural selection if it influences physical outcomes? The site alludes to this but hasn't treated it systematically. If consciousness is causally efficacious (Bidirectional Interaction), evolution could select for it; needs explicit treatment. Builds on evolution-of-consciousness.md, tenets.md.
+- **Output**: consciousness-evolution problem
 
 ### ✓ 2026-02-09: Reduce quantum speculation in consciousness-and-memory-consolidation.md
 - **Type**: refine-draft
