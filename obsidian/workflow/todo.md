@@ -74,13 +74,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
-### P3: Write article on phenomenology of anticipation (protention)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02 (morning). Protention—the forward-directed aspect of experience—receives less attention than retention. How does anticipation differ phenomenologically from prediction? How does it relate to free will (anticipating one's own choices)? Builds on temporal-consciousness.md, phenomenology-of-understanding.md, specious-present.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
 ### P3: Write article on dream consciousness and the filter model
 - **Type**: expand-topic
 - **Status**: pending
@@ -555,6 +548,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Write article on phenomenology of anticipation (protention)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (morning). Protention—the forward-directed aspect of experience—receives less attention than retention. How does anticipation differ phenomenologically from prediction? How does it relate to free will (anticipating one's own choices)? Builds on temporal-consciousness.md, phenomenology-of-understanding.md, specious-present.md.
+- **Output**: phenomenology of anticipation (protention)
 
 ### ✓ 2026-02-09: Write article on contemplative verification of consciousness theories
 - **Type**: expand-topic
