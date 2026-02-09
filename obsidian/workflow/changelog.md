@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-09 13:50 UTC - refine-draft
+- **Status**: Success
+- **File**: [[the-interface-location-problem]]
+- **Changes**: Fixed overstated epothilone B claim ("confirming" → "consistent with"), qualified contested decoherence estimates, strengthened Difficulties paragraph on timescale gap, corrected misplaced "seven orders of magnitude" claim, fixed two further instances of overstatement in agnosticism and resolution sections
+- **Published**: yes
+
 ## 2026-02-09 13:35 UTC - refine-draft
 - **Status**: Success
 - **File**: [[phenomenal-conservatism-and-introspective-evidence]]

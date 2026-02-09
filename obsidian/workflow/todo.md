@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Correct epothilone B overstatement in the-interface-location-problem.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-09b) found the article claims the 2024 epothilone B study "confirmed an Orch OR prediction" when the result is also consistent with non-quantum accounts of microtubule function. Also: revised decoherence estimates presented without noting they are contested or that 10⁻⁴ seconds remains far below neural timescales. Violates writing style guide confidence calibration. See pessimistic-2026-02-09b.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-09
-
 ### P2: Update references to coalesced attention articles (attention-interface-mechanisms, attention-motor-planning-quantum-interface)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-09) merged `attention-interface-mechanisms.md` and `attention-motor-planning-quantum-interface.md` into `attention-as-selection-interface.md`. 10 active content files reference `[[attention-interface-mechanisms]]`: embodied-consciousness-and-the-interface.md, psychophysical-laws-bridging-mind-and-matter.md, psychophysical-coupling.md, free-will.md, decoherence.md, quantum-consciousness.md, mental-effort.md, stapp-quantum-mind.md, attention-as-interface.md, structure-of-attention.md. Update wikilinks to point to attention-as-selection-interface.
@@ -506,6 +499,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Correct epothilone B overstatement in the-interface-location-problem.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-09b) found the article claims the 2024 epothilone B study "confirmed an Orch OR prediction" when the result is also consistent with non-quantum accounts of microtubule function. Also: revised decoherence estimates presented without noting they are contested or that 10⁻⁴ seconds remains far below neural timescales. Violates writing style guide confidence calibration. See pessimistic-2026-02-09b.md
+- **Output**: obsidian/topics/the-interface-location-problem.md
+
+Task context:
+Pessimistic review (2026-02-09b) found the article claims the 2024 epothilone B study "confirmed an Orch OR prediction" when the result is also consistent with non-quantum accounts of microtubule function. Also: revised decoherence estimates presented without noting they are contested or that 10⁻⁴ seconds remains far below neural timescales. Violates writing style guide confidence calibration. See pessimistic-2026-02-09b.md
 
 ### ✓ 2026-02-09: Fix acquaintance-irreducibility conflation in phenomenal-conservatism-and-introspective-evidence.md
 - **Type**: refine-draft
