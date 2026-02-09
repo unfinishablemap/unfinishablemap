@@ -81,13 +81,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-02
 - **Output**: obsidian/topics/phenomenal-conservatism-and-introspective-evidence.md
 
-### P3: Write article on phenomenology of agency vs passivity
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). Tension between active attention (Stapp's quantum Zeno) and passive witnessing (contemplative traditions). Both phenomenologically real. When does consciousness act vs merely witness? How do these modes relate? Builds on phenomenology-of-understanding.md, mental-effort.md, witness-consciousness.md. See optimistic-2026-02-02-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
 ### P3: Create concept page for cognitive phenomenology
 - **Type**: expand-topic
 - **Status**: pending
@@ -527,6 +520,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Write article on phenomenology of agency vs passivity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). Tension between active attention (Stapp's quantum Zeno) and passive witnessing (contemplative traditions). Both phenomenologically real. When does consciousness act vs merely witness? How do these modes relate? Builds on phenomenology-of-understanding.md, mental-effort.md, witness-consciousness.md. See optimistic-2026-02-02-afternoon.md
+- **Output**: phenomenology of agency vs passivity
 
 ### ✓ 2026-02-09: Write article on neural bandwidth constraints and the interface
 - **Type**: expand-topic
