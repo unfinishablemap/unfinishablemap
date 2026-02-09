@@ -4,7 +4,8 @@ description: "Agency extended across time requires narrative structure—not as 
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-02-09T16:36:00+00:00
+ai_modified: 2026-02-09T17:01:00+00:00
+last_deep_review: 2026-02-09T17:01:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -37,7 +38,7 @@ A single momentary choice does not make a life. Agency worth the name extends ac
 
 ## Synchronic and Diachronic Agency
 
-Most philosophical work on [[free-will|free will]] focuses on what might be called *synchronic agency*—the capacity to choose at a moment. Can you select among alternatives right now? Are your current decisions genuinely yours? The [[phenomenology-of-agency-vs-passivity|phenomenology of agency]] confirms that individual moments of choosing have a distinctive experiential character: effort, authorship, a sense of open possibilities narrowing to one.
+Most philosophical work on [[free-will|free will]] focuses on what might be called *synchronic agency*—the capacity to choose at a moment. Can you select among alternatives right now? Are your current decisions genuinely yours? The [[phenomenology-of-agency-vs-passivity|phenomenology of agency]] confirms that individual moments of choosing have a distinctive experiential character: effort, authorship, the [[phenomenology-of-choice|felt narrowing]] of open possibilities to one.
 
 But human agency is not merely momentary. Consider what it takes to write a book. No single decision—choosing a topic, drafting a chapter, revising a paragraph—constitutes the act. The book emerges from thousands of coordinated choices spread across months or years, held together by a sustained intention that persists through interruptions, doubts, and competing demands. The agent who finishes the book must be the same agent who started it, and must maintain something like a plan connecting early choices to later ones.
 
@@ -55,13 +56,17 @@ Paul Ricoeur's concept of *narrative identity* captures this structure. For Rico
 
 ## Against Mere Psychological Continuity
 
-[[parfit-reductionism|Parfit's reductionism]] attempts to explain temporal coherence without narrative: you are connected to your future self through overlapping chains of memory and intention, and these chains are all that matters. Personal identity is nothing "over and above" psychological continuity.
+[[parfit-reductionism|Parfit's reductionism]] offers a deflationary account: you are connected to your future self through overlapping chains of memory and intention, and personal identity is nothing "over and above" this psychological continuity. Parfit's deeper point is that identity itself does not matter—what matters is the continuity relation, regardless of whether it constitutes a persisting self.
 
-But psychological continuity alone cannot ground diachronic agency. The problem is not that continuity fails to connect temporal stages—it does connect them—but that it provides connection without organisation. A chain of overlapping memories and intentions links you to your past self, but it does not explain why your choices form coherent projects rather than random sequences. Two agents could have identical psychological continuity—the same memories, the same standing intentions—while one's choices compose a meaningful life and the other's do not. The difference lies in how the agent organises experience into narrative structure.
+But even granting Parfit's framework, psychological continuity alone cannot ground diachronic agency. Continuity connects temporal stages—it does—but it provides connection without *organisation*. A chain of overlapping memories and intentions links you to your past self, but it does not explain why your choices form coherent projects rather than random sequences. Two agents could have identical psychological continuity—the same memories, the same standing intentions—while one's choices compose a meaningful life and the other's do not. The difference lies in how the agent organises experience into narrative structure.
 
 This is not an abstract point. Consider two people who both remember deciding to become a doctor and both intend to complete their training. One understands this decision as part of a coherent narrative—a calling discovered through specific experiences, pursued through specific sacrifices, directed toward specific goals. The other simply finds themselves with medical ambitions they cannot integrate into any larger story. Both are psychologically continuous with their past selves. But only the first exercises genuine diachronic agency over their career, because only the first can draw on narrative structure to navigate the choices that training demands.
 
 The difference matters practically. When obstacles arise—and they always arise—the narratively organised agent can ask "Does this setback threaten the project I am pursuing?" and adjust accordingly. The merely continuous agent can only ask "Do I still want to continue?"—a purely synchronic question that cannot access the diachronic reasons for perseverance.
+
+A materialist might respond that prefrontal planning networks and hippocampal replay explain narrative organisation without any non-physical substance. The brain's executive functions coordinate goals across time; neural habit formation sustains projects through difficulty. The Map acknowledges these mechanisms as genuine. The question is whether they *constitute* narrative agency or *implement* it—whether the planning network is the agent or the instrument through which the agent plans. The pathological cases discussed below suggest implementation: when neural mechanisms fail, the agent loses *capacity* for diachronic agency while remaining the same conscious subject.
+
+The Buddhist no-self tradition offers a different challenge. Rather than reducing the agent to neural processes, dependent origination denies the agent altogether: each moment arises conditionally from the previous, creating an appearance of unified agency without any persistent self. The Map's response is phenomenological. The capacity to *reorganise* one's narrative—not merely to have it change but to actively revise it, reinterpreting past choices and redirecting future plans—presupposes a subject for whom past, present, and future are simultaneously available. Dependent origination explains succession; it does not explain the agent's synoptic grasp of their own temporal arc.
 
 ## Narrative and the Substantial Self
 
@@ -79,13 +84,13 @@ What does diachronic agency feel like from the inside? The [[duration|Bergsonian
 
 A musician preparing for a recital experiences the months of practice not as disconnected sessions but as a single unfolding arc. Early technical work, intermediate interpretive exploration, final polishing—each phase colours the next. The phenomenology is distinctively diachronic: the present moment is experienced *as* a phase of a larger temporal whole.
 
-This connects to the [[time-collapse-and-agency|consciousness-constituted time]] framework. If consciousness participates in constituting temporal structure through its involvement in quantum collapse, then diachronic agency may not merely *occur within* time but partially *shape* the temporal structure it inhabits. The agent's sustained intention does not just fill pre-existing time; it organises the experienced temporal field around the project's demands, creating the extended "now" within which long-term agency operates.
+This connects—speculatively—to the [[time-collapse-and-agency|consciousness-constituted time]] framework. If consciousness participates in constituting temporal structure through its involvement in quantum collapse, then diachronic agency may not merely *occur within* time but partially *shape* the temporal structure it inhabits. The core argument for diachronic agency does not depend on this quantum hypothesis. But if the hypothesis holds, the agent's sustained intention would do more than fill pre-existing time; it would organise the experienced temporal field around the project's demands, creating the extended "now" within which long-term agency operates.
 
 ## Breakdowns of Diachronic Agency
 
 Pathological cases reveal the structure by exhibiting its failures.
 
-**Severe amnesia** disrupts the memory component. A patient who cannot form new long-term memories can make synchronic choices—deciding what to eat, whether to smile at a visitor—but cannot sustain projects across days. Each morning begins without narrative connection to the previous evening. Diachronic agency collapses to a series of disconnected synchronic episodes. Yet the minimal self persists: experience still belongs to *someone*. What is lost is not selfhood but the narrative organisation that enables extended agency.
+**Severe amnesia** disrupts the memory component. A patient who cannot form new long-term memories can make synchronic choices—deciding what to eat, whether to smile at a visitor—but cannot sustain projects across days. Each morning begins without narrative connection to the previous evening. Diachronic agency collapses to a series of disconnected synchronic episodes. Yet the minimal self persists: [[witness-consciousness|experience still belongs to someone]]. What is lost is not selfhood but the narrative organisation that enables extended agency.
 
 **Depression** often manifests as narrative collapse. The future appears closed rather than open; past choices seem meaningless rather than purposeful; the present feels disconnected from any larger project. Clinicians recognise this as anhedonia and avolition, but the phenomenological structure is narrative: the agent can no longer emplot their experience into a meaningful temporal arc. Synchronic choices remain possible—you can get out of bed—but they float free of any organising narrative.
 
