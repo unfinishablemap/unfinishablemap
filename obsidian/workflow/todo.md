@@ -68,13 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
-### P3: Write article comparing quantum consciousness mechanisms
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02. Systematic comparative table of quantum consciousness mechanisms (Orch OR, Stapp, Fisher) on key dimensions: decoherence timescales, energy requirements, testability, biological plausibility, philosophical consequences. Recent evidence (Wiest et al. 2024, Atkins et al. 2025) challenges older calculations. Would strengthen scientific rigor of Minimal Quantum Interaction tenet. Builds on quantum-consciousness.md, stapp-quantum-mind.md, neural-quantum-coherence.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
 ### P3: Write article on contemplative verification of consciousness theories
 - **Type**: expand-topic
 - **Status**: pending
@@ -563,6 +556,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Write article comparing quantum consciousness mechanisms
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02. Systematic comparative table of quantum consciousness mechanisms (Orch OR, Stapp, Fisher) on key dimensions: decoherence timescales, energy requirements, testability, biological plausibility, philosophical consequences. Recent evidence (Wiest et al. 2024, Atkins et al. 2025) challenges older calculations. Would strengthen scientific rigor of Minimal Quantum Interaction tenet. Builds on quantum-consciousness.md, stapp-quantum-mind.md, neural-quantum-coherence.md.
+- **Output**: Write article comparing quantum consciousness mechanisms
 
 ### ✓ 2026-02-09: Write article on embodied consciousness and the interface
 - **Type**: expand-topic
