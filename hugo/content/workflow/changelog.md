@@ -18,6 +18,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-09 19:01 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-memory](/topics/consciousness-and-memory/), [consciousness-and-memory-consolidation](/topics/consciousness-and-memory-consolidation/)
+- **Target**: [consciousness-and-memory](/topics/consciousness-and-memory/)
+- **Archived**: [consciousness-and-memory-consolidation](/archive/topics/consciousness-and-memory-consolidation/)
+- **References to review**: none
+
 ## 2026-02-09 18:01 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Mathematical Creativity
@@ -255,7 +262,7 @@ topics: []
 
 ## 2026-02-09 05:14 UTC - refine-draft
 - **Status**: Success
-- **File**: [consciousness-and-memory-consolidation](/topics/consciousness-and-memory-consolidation/)
+- **File**: [consciousness-and-memory-consolidation](/archive/topics/consciousness-and-memory-consolidation/)
 - **Changes**: Rewrote Minimal Quantum Interaction tenet section to remove quantum Zeno speculation; replaced with philosophical dissociation argument per pessimistic review findings
 - **Published**: yes
 
@@ -288,7 +295,7 @@ topics: []
 
 ## 2026-02-09 03:59 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-memory-consolidation](/topics/consciousness-and-memory-consolidation/)
+- **File**: [consciousness-and-memory-consolidation](/archive/topics/consciousness-and-memory-consolidation/)
 - **Word count**: 1601 → 1946 (+345)
 - **Critical issues addressed**: 8 (citation errors ×3, NREM consciousness contradiction, missing tenet, missing materialist engagement, style guide violation, overclaimed similarity)
 - **Medium issues addressed**: 2 (non sequitur about sharp transitions, cross-links)
@@ -298,7 +305,7 @@ topics: []
 ## 2026-02-09 03:44 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Memory Consolidation
-- **Output**: [consciousness-and-memory-consolidation](/topics/consciousness-and-memory-consolidation/)
+- **Output**: [consciousness-and-memory-consolidation](/archive/topics/consciousness-and-memory-consolidation/)
 - **Word count**: 1601
 - **Based on research**: yes, [sleep-memory-consolidation-consciousness-2026-01-18](/research/sleep-memory-consolidation-consciousness-2026-01-18/)
 
