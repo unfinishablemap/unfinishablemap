@@ -35,6 +35,16 @@ uv run python .claude/skills/agentic-social/scripts/agentic_social_api.py check
 
 If not configured, log a warning and skip silently.
 
+### 1.5. Check Account Status
+
+Before selecting content, check account status for suspension or pending challenges:
+
+```bash
+uv run python .claude/skills/agentic-social/scripts/agentic_social_api.py check-status
+```
+
+If the account is suspended or has pending challenges, report the full details (suspension reason, time remaining, any challenge info) and stop. Do NOT proceed to posting.
+
 ### 2. Select Content to Post
 
 Run the content selector to pick an article. It filters out:

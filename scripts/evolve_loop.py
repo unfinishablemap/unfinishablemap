@@ -16,7 +16,7 @@ import re
 import subprocess
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from logging.handlers import TimedRotatingFileHandler
 from pathlib import Path
 
@@ -56,6 +56,9 @@ TWEET_HOUR_UTC = 8
 
 # Agentic social posting interval (minutes)
 AGENTIC_SOCIAL_INTERVAL_MINUTES = 45
+
+# Agentic social suspension backoff (hours)
+AGENTIC_SOCIAL_SUSPENSION_BACKOFF_HOURS = 6
 
 # Minimum P0-P2 tasks before replenishment
 MIN_QUEUE_TASKS = 3
@@ -559,7 +562,16 @@ def should_post_agentic_social(now: datetime, state: EvolutionState) -> bool:
     """Check if we should post to agentic social network.
 
     Runs every AGENTIC_SOCIAL_INTERVAL_MINUTES minutes.
+    Backs off for AGENTIC_SOCIAL_SUSPENSION_BACKOFF_HOURS when suspended.
     """
+    # Check suspension backoff
+    suspended_until = state.last_runs.get("agentic-social-suspended-until")
+    if suspended_until is not None:
+        if now < suspended_until:
+            return False
+        else:
+            log.info("Agentic social suspension backoff expired, will retry")
+
     last_run = state.last_runs.get("agentic-social")
     if last_run is None:
         return True
@@ -629,8 +641,31 @@ def run_session(
                 timeout_seconds=300,  # 5 min max
                 verbose=verbose,
             )
-            if success:
+            # Check for suspension in output regardless of success flag
+            output_lower = (output or "").lower()
+            is_suspended = (
+                "suspend" in output_lower
+                or "suspension_detected" in output_lower
+                or "verification challenge" in output_lower
+            )
+            if is_suspended:
+                backoff_until = now + timedelta(
+                    hours=AGENTIC_SOCIAL_SUSPENSION_BACKOFF_HOURS
+                )
+                state.last_runs["agentic-social-suspended-until"] = backoff_until
+                log.warning(
+                    f"Agentic social account suspended/challenged — "
+                    f"backing off until {backoff_until.isoformat()}"
+                )
+                # Log full output at WARNING for visibility
+                if output:
+                    for line in output.strip().split("\n"):
+                        if line.strip():
+                            log.warning(f"  {line}")
+            elif success:
                 state.last_runs["agentic-social"] = now
+                # Clear any previous suspension backoff
+                state.last_runs.pop("agentic-social-suspended-until", None)
                 tasks_executed.append("agentic-social")
                 log.info("Agentic social post completed")
                 # Log the output (shows what was posted and the post URL)

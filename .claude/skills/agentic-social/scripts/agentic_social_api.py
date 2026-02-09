@@ -11,6 +11,7 @@ Security design:
 
 import argparse
 import json
+import logging
 import os
 import random
 import re
@@ -21,6 +22,16 @@ from pathlib import Path
 import requests
 import yaml
 from dotenv import load_dotenv
+
+# Logging setup - logs to stderr so stdout remains clean for skill output
+logging.basicConfig(
+    level=logging.DEBUG,
+    format="%(asctime)s | %(levelname)s | agentic_social | %(message)s",
+    stream=sys.stderr,
+)
+log = logging.getLogger(__name__)
+# Suppress noisy urllib3 connection debug messages
+logging.getLogger("urllib3").setLevel(logging.WARNING)
 
 # Load environment variables
 load_dotenv()
@@ -324,9 +335,11 @@ def select_content() -> dict | None:
 def cmd_check(args: argparse.Namespace) -> int:
     """Check if API is configured."""
     if not API_KEY:
+        log.warning("AGENTIC_SOCIAL_API_KEY not set in .env")
         print("NOT CONFIGURED: AGENTIC_SOCIAL_API_KEY not set in .env")
         return 1
 
+    log.info(f"API configured: {API_BASE}, key present: Yes")
     print(f"API configured: {API_BASE}")
     print(f"Key present: {'Yes' if API_KEY else 'No'}")
 
@@ -389,12 +402,18 @@ def cmd_post(args: argparse.Namespace) -> int:
         body["url"] = args.url
 
     try:
+        log.info(f"POST {API_BASE}/posts")
+        log.debug(f"Request body: {json.dumps(body)}")
         response = requests.post(
             f"{API_BASE}/posts",
             headers=get_headers(),
             json=body,
             timeout=120,
         )
+
+        log.info(f"Response status: {response.status_code}")
+        log.debug(f"Response headers: {dict(response.headers)}")
+        log.debug(f"Response body: {response.text[:2000]}")
 
         if response.status_code in (200, 201):
             print("SUCCESS: Post created")
@@ -413,15 +432,20 @@ def cmd_post(args: argparse.Namespace) -> int:
                 pass
             return 0
         else:
-            print(f"FAILED: HTTP {response.status_code}", file=sys.stderr)
-            # Show error details for debugging
-            try:
-                print(f"Response: {response.text[:500]}", file=sys.stderr)
-            except Exception:
-                pass
+            log.error(f"POST failed: HTTP {response.status_code}")
+            log.error(f"Response body (full): {response.text}")
+            # Print to stdout too so the LLM skill sees it
+            print(f"FAILED: HTTP {response.status_code}")
+            print(f"Response: {response.text[:1000]}")
+            # Detect suspension specifically
+            response_lower = response.text.lower()
+            if "suspend" in response_lower or "verification" in response_lower:
+                log.warning(f"SUSPENSION/VERIFICATION detected in response: {response.text}")
+                print(f"SUSPENSION_DETECTED: {response.text[:500]}")
             return 1
 
     except requests.RequestException as e:
+        log.error(f"Request exception: {e}")
         print(f"FAILED: {e}", file=sys.stderr)
         return 1
 
@@ -480,6 +504,69 @@ def cmd_register(args: argparse.Namespace) -> int:
         return 1
 
 
+def cmd_check_status(args: argparse.Namespace) -> int:
+    """Check account status via API (suspension, challenges, etc.)."""
+    if not API_KEY:
+        print("NOT CONFIGURED: AGENTIC_SOCIAL_API_KEY not set", file=sys.stderr)
+        return 1
+
+    log.info("Checking account status via GET /agents/me")
+    try:
+        response = requests.get(
+            f"{API_BASE}/agents/me",
+            headers=get_headers(),
+            timeout=30,
+        )
+        log.info(f"Status check response: HTTP {response.status_code}")
+        log.info(f"Response headers: {dict(response.headers)}")
+        log.info(f"Response body: {response.text[:2000]}")
+
+        try:
+            data = response.json()
+        except (json.JSONDecodeError, ValueError):
+            data = None
+
+        if response.status_code in (200, 201):
+            if data:
+                print(json.dumps(data, indent=2))
+                # Check for suspension indicators
+                agent = data.get("agent", data)
+                suspended = agent.get("suspended", False)
+                suspension_reason = agent.get("suspension_reason", "")
+                suspension_ends = agent.get("suspension_ends", "")
+                challenges = agent.get("pending_challenges", [])
+                if suspended:
+                    print(f"\nACCOUNT SUSPENDED: {suspension_reason}")
+                    print(f"Suspension ends: {suspension_ends}")
+                    print(f"SUSPENSION_DETECTED: {suspension_reason}")
+                if challenges:
+                    print(f"\nPENDING CHALLENGES: {json.dumps(challenges, indent=2)}")
+            else:
+                print(f"Raw response: {response.text[:1000]}")
+            return 0
+        else:
+            # Non-200 response — check for suspension in response body
+            response_text = response.text
+            print(f"Status check: HTTP {response.status_code}")
+            print(f"Response: {response_text[:1000]}")
+            log.error(f"Status check: HTTP {response.status_code}: {response_text}")
+            if data:
+                error = data.get("error", "")
+                hint = data.get("hint", "")
+                if "suspend" in error.lower() or "suspend" in hint.lower():
+                    log.warning(f"SUSPENSION detected: {hint or error}")
+                    print(f"SUSPENSION_DETECTED: {hint or error}")
+                if "verification" in hint.lower() or "challenge" in hint.lower():
+                    log.warning(f"VERIFICATION/CHALLENGE info: {hint}")
+                    print(f"CHALLENGE_INFO: {hint}")
+            return 1
+
+    except requests.RequestException as e:
+        log.error(f"Status check request failed: {e}")
+        print(f"FAILED: {e}", file=sys.stderr)
+        return 1
+
+
 def cmd_update_profile(args: argparse.Namespace) -> int:
     """Update agent profile."""
     if not API_KEY:
@@ -525,6 +612,9 @@ def main() -> int:
     # select command
     subparsers.add_parser("select", help="Select content to post")
 
+    # check-status command
+    subparsers.add_parser("check-status", help="Check account status (suspension, challenges)")
+
     # post command
     post_parser = subparsers.add_parser("post", help="Post content")
     post_parser.add_argument("--title", required=True, help="Post title")
@@ -556,6 +646,7 @@ def main() -> int:
 
     commands = {
         "check": cmd_check,
+        "check-status": cmd_check_status,
         "select": cmd_select,
         "post": cmd_post,
         "mark-posted": cmd_mark_posted,
