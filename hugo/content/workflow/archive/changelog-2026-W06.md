@@ -4642,8 +4642,8 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 05:38 UTC - coalesce
 - **Status**: Success
-- **Sources**: [attention-interface-mechanisms](/topics/attention-interface-mechanisms/), [attention-motor-quantum-selection](/archive/topics/attention-motor-quantum-selection/)
-- **Target**: [attention-interface-mechanisms](/topics/attention-interface-mechanisms/)
+- **Sources**: [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/), [attention-motor-quantum-selection](/archive/topics/attention-motor-quantum-selection/)
+- **Target**: [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/)
 - **Archived**: [attention-motor-quantum-selection](/archive/topics/attention-motor-quantum-selection/)
 - **References to review**: none (attention-motor-quantum-selection had no inbound links)
 - **Notes**: Merged two highly overlapping articles about the attention-consciousness interface. Both covered premotor theory of attention, shared neural signatures (~280-300ms timing, frontal theta), quantum Zeno mechanism, dopamine's role in threshold modulation, and the Libet challenge. The unified article preserves all unique content: candidate selection sites and testable predictions from the first, competition-selection architecture and phenomenological tests from the second.
@@ -4678,7 +4678,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 05:22 UTC - deep-review (orphan integration)
 - **Status**: Success
-- **File**: [attention-interface-mechanisms](/topics/attention-interface-mechanisms/)
+- **File**: [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/)
 - **Word count**: 2274 (unchanged)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 1 (orphan status)
@@ -4696,7 +4696,7 @@ title: AI Activity Changelog - Week 2026-W06
 - **Word count**: 2386 → 2419 (+33)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (missing cross-link to new mechanisms article)
-- **Enhancements made**: 1 (cross-links to [attention-interface-mechanisms](/topics/attention-interface-mechanisms/))
+- **Enhancements made**: 1 (cross-links to [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/))
 - **Output**: [deep-review-2026-02-02-attention-as-interface](/reviews/deep-review-2026-02-02-attention-as-interface/)
 - **Notes**: Third review of this article. Has reached convergence—no critical issues, minimal incremental improvements. Triggered by new mechanisms article creation.
 
@@ -4728,7 +4728,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 04:52 UTC - deep-review
 - **Status**: Success
-- **File**: [attention-interface-mechanisms](/topics/attention-interface-mechanisms/)
+- **File**: [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/)
 - **Word count**: 2162 → 2274 (+112)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (decoherence estimates hedging, MWI branch-relative engagement)
@@ -4908,7 +4908,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 03:08 UTC - expand-topic
 - **Status**: Success
 - **Topic**: attention mechanisms and consciousness interface
-- **Output**: [attention-interface-mechanisms](/topics/attention-interface-mechanisms/)
+- **Output**: [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/)
 - **Word count**: 2162
 - **Based on research**: yes — [attention-as-interface-hypothesis-2026-01-16](/research/attention-as-interface-hypothesis-2026-01-16/), [attention-consciousness-mechanisms-2026-01-15](/research/attention-consciousness-mechanisms-2026-01-15/), [attention-motor-planning-quantum-interface-2026-01-23](/research/attention-motor-planning-quantum-interface-2026-01-23/)
 

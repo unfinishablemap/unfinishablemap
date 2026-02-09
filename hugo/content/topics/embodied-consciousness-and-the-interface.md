@@ -90,7 +90,7 @@ The interface reading explains the phenomenon precisely. Consciousness and proce
 
 ## The Attention-Motor Convergence
 
-The strongest evidence for the interface reading comes from the [convergence of attention and motor planning](/topics/attention-interface-mechanisms/). If attention is how consciousness engages with neural systems, and attention shares neural substrates with motor planning, then consciousness operates through a unified selection mechanism connecting perception to action.
+The strongest evidence for the interface reading comes from the [convergence of attention and motor planning](/archive/topics/attention-interface-mechanisms/). If attention is how consciousness engages with neural systems, and attention shares neural substrates with motor planning, then consciousness operates through a unified selection mechanism connecting perception to action.
 
 The premotor theory of attention shows that directing attention to a location prepares movement toward it. The prefrontal cortex—traditionally associated with abstract thought—is fundamentally premotor: an action abstraction hierarchy from concrete motor commands to abstract goals. Conscious deliberation, on this view, is high-level motor planning.
 
@@ -134,7 +134,7 @@ The interface reading of embodied cognition would face serious difficulty if:
 
 - [embodied-cognition](/concepts/embodied-cognition/) — The concept treatment: 4E cognition, Dreyfus model, choking evidence
 - [filter-theory](/concepts/filter-theory/) — The brain as transmitter rather than producer of consciousness
-- [attention-interface-mechanisms](/topics/attention-interface-mechanisms/) — Where and how the interface operates mechanistically
+- [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/) — Where and how the interface operates mechanistically
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy for mind-body relations
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the control surface for consciousness
 - [brain-specialness](/archive/concepts/brain-specialness/) — Why brains specifically serve as interfaces

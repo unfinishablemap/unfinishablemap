@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-05
-**Article**: [Mechanisms of the Attention-Consciousness Interface](/topics/attention-interface-mechanisms/)
+**Article**: [Mechanisms of the Attention-Consciousness Interface](/archive/topics/attention-interface-mechanisms/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-attention-interface-mechanisms/)
 **Context**: Cross-review considering dopamine insights from [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)
 

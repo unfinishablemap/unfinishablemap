@@ -166,7 +166,7 @@ The mechanistic landscape has direct implications for the Map's tenets.
 - [psychophysical-laws-framework](/archive/topics/psychophysical-laws-framework/) — Integrated overview including supervenience and selection laws
 - [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/) — Chalmers' framework and his 2022 quantum development with McQueen
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of Stapp's attention-observation mechanism
-- [attention-interface-mechanisms](/topics/attention-interface-mechanisms/) — Where in the brain coupling might occur
+- [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/) — Where in the brain coupling might occur
 - [decoherence](/concepts/decoherence/) — The physics objection and biological quantum effects
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort central to Stapp's model
 - [tenets](/tenets/) — The Map's foundational commitments

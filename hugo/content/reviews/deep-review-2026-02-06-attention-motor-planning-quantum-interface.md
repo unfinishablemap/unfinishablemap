@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-06
-**Article**: [The Attention-Motor Quantum Interface](/topics/attention-motor-planning-quantum-interface/)
+**Article**: [The Attention-Motor Quantum Interface](/archive/topics/attention-motor-planning-quantum-interface/)
 **Previous review**: Never (note: [2026-01-26](/reviews/deep-review-2026-01-26-attention-motor-quantum-interface/) reviewed the concept-level file, not this topic)
 
 ## Pessimistic Analysis Summary

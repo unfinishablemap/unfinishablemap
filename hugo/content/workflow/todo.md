@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced attention articles (attention-interface-mechanisms, attention-motor-planning-quantum-interface)
+- **Type**: other
+- **Notes**: Coalesce (2026-02-09) merged `attention-interface-mechanisms.md` and `attention-motor-planning-quantum-interface.md` into `attention-as-selection-interface.md`. 10 active content files reference `[attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/)`: embodied-consciousness-and-the-interface.md, psychophysical-laws-bridging-mind-and-matter.md, psychophysical-coupling.md, free-will.md, decoherence.md, quantum-consciousness.md, mental-effort.md, stapp-quantum-mind.md, attention-as-interface.md, structure-of-attention.md. Update wikilinks to point to attention-as-selection-interface.
+- **Source**: coalesce
+- **Generated**: 2026-02-09
+
 ### P2: Update wikilinks to archived articles (interface-locality, brain-specialness, and 5 others)
 - **Type**: other
 - **Notes**: Gap analysis found 70+ broken wikilinks pointing to archived/coalesced articles. Key targets: interface-locality (34 refs, archived to concepts/), brain-specialness (6 refs), consciousness-and-quantum-measurement (11 refs), nihilism (5 refs), quantum-measurement-and-definite-outcomes (5 refs), eastern-philosophy-haecceity-tension (4 refs), meaning-and-consciousness (4 refs). Update wikilinks to point to the replacement articles these were coalesced into, or verify the archive redirect handles them.
@@ -69,54 +75,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
-### P3: Write article comparing quantum consciousness mechanisms
+### ✓ 2026-02-09: Write article on phenomenal conservatism and introspective evidence
 - **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02. Systematic comparative table of quantum consciousness mechanisms (Orch OR, Stapp, Fisher) on key dimensions: decoherence timescales, energy requirements, testability, biological plausibility, philosophical consequences. Recent evidence (Wiest et al. 2024, Atkins et al. 2025) challenges older calculations. Would strengthen scientific rigor of Minimal Quantum Interaction tenet. Builds on quantum-consciousness.md, stapp-quantum-mind.md, neural-quantum-coherence.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
-### P3: Write article on contemplative verification of consciousness theories
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02. Develop detailed predictions about what meditation *should* reveal if various consciousness theories are true. If Stapp is right about quantum Zeno, what should meditators report about attention's effort structure? If consciousness is irreducible, what should happen to phenomenal access under sustained attention? Compare predictions to actual contemplative reports. Builds on contemplative-evidence-for-consciousness-theories.md, phenomenological-evidence-methodology.md, witness-consciousness.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
-### P3: Write article on phenomenology of anticipation (protention)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02 (morning). Protention—the forward-directed aspect of experience—receives less attention than retention. How does anticipation differ phenomenologically from prediction? How does it relate to free will (anticipating one's own choices)? Builds on temporal-consciousness.md, phenomenology-of-understanding.md, specious-present.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
-### P3: Write article on dream consciousness and the filter model
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02 (morning). Dreams demonstrate consciousness without external input—experience generated purely internally. What does this show about the consciousness-brain relationship? Dreams as evidence against the brain-as-generator model. Builds on dreams-and-consciousness.md, hard-problem-of-consciousness.md, filter-theory.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
-### P3: Create concept page for prehension
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02 (morning). Whitehead's term for experiential grasping appears in multiple articles (binding-problem.md, temporal-consciousness.md, phenomenology-of-understanding.md) but deserves dedicated treatment. Central to process philosophy's account of experience.
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
-### P3: Write article on phenomenal conservatism and introspective evidence
-- **Type**: expand-topic
-- **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). Huemer's phenomenal conservatism—if it seems to S that P, S has prima facie justification for believing P—is foundational for treating phenomenal evidence seriously. How does the Map handle introspective reliability? When should phenomenal seemings be trusted? Builds on arguments-for-dualism.md, epistemic-advantages-of-dualism.md, introspection.md. See optimistic-2026-02-02-afternoon.md
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
-
-### P3: Write article on neural bandwidth constraints and the interface
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). The bandwidth response to decoherence (consciousness operates at ~40 bits/sec policy level) deserves dedicated treatment. What does slow conscious bandwidth mean for fast quantum processes? How does information get compressed? Builds on attention-interface-mechanisms.md, quantum-consciousness.md, voluntary-attention.md. See optimistic-2026-02-02-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
+- **Output**: obsidian/topics/phenomenal-conservatism-and-introspective-evidence.md
 
 ### P3: Write article on phenomenology of agency vs passivity
 - **Type**: expand-topic
@@ -564,6 +528,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Write article on neural bandwidth constraints and the interface
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). The bandwidth response to decoherence (consciousness operates at ~40 bits/sec policy level) deserves dedicated treatment. What does slow conscious bandwidth mean for fast quantum processes? How does information get compressed? Builds on attention-interface-mechanisms.md, quantum-consciousness.md, voluntary-attention.md. See optimistic-2026-02-02-afternoon.md
+- **Output**: neural bandwidth constraints and the interface
+
+### ✓ 2026-02-09: Create concept page for prehension
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (morning). Whitehead's term for experiential grasping appears in multiple articles (binding-problem.md, temporal-consciousness.md, phenomenology-of-understanding.md) but deserves dedicated treatment. Central to process philosophy's account of experience.
+- **Output**: Create concept page for prehension
+
+### ✓ 2026-02-09: Write article on dream consciousness and the filter model
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (morning). Dreams demonstrate consciousness without external input—experience generated purely internally. What does this show about the consciousness-brain relationship? Dreams as evidence against the brain-as-generator model. Builds on dreams-and-consciousness.md, hard-problem-of-consciousness.md, filter-theory.md.
+- **Output**: dream consciousness and the filter model
+
+### ✓ 2026-02-09: Write article on phenomenology of anticipation (protention)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (morning). Protention—the forward-directed aspect of experience—receives less attention than retention. How does anticipation differ phenomenologically from prediction? How does it relate to free will (anticipating one's own choices)? Builds on temporal-consciousness.md, phenomenology-of-understanding.md, specious-present.md.
+- **Output**: phenomenology of anticipation (protention)
+
+### ✓ 2026-02-09: Write article on contemplative verification of consciousness theories
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02. Develop detailed predictions about what meditation *should* reveal if various consciousness theories are true. If Stapp is right about quantum Zeno, what should meditators report about attention's effort structure? If consciousness is irreducible, what should happen to phenomenal access under sustained attention? Compare predictions to actual contemplative reports. Builds on contemplative-evidence-for-consciousness-theories.md, phenomenological-evidence-methodology.md, witness-consciousness.md.
+- **Output**: contemplative verification of consciousness theories
+
+### ✓ 2026-02-09: Write article comparing quantum consciousness mechanisms
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02. Systematic comparative table of quantum consciousness mechanisms (Orch OR, Stapp, Fisher) on key dimensions: decoherence timescales, energy requirements, testability, biological plausibility, philosophical consequences. Recent evidence (Wiest et al. 2024, Atkins et al. 2025) challenges older calculations. Would strengthen scientific rigor of Minimal Quantum Interaction tenet. Builds on quantum-consciousness.md, stapp-quantum-mind.md, neural-quantum-coherence.md.
+- **Output**: Write article comparing quantum consciousness mechanisms
 
 ### ✓ 2026-02-09: Write article on embodied consciousness and the interface
 - **Type**: expand-topic

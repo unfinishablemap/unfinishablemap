@@ -87,7 +87,7 @@ Where in the brain does the interface operate? Research identifies several candi
 | **Cortical microcolumns** | ~100-neuron coherence domains | Coarse-grained selection matching ~10 bits/second bandwidth |
 | **Microtubules (Orch OR)** | 2025: room-temperature quantum effects, anesthetic targeting | Attention might select which ensembles undergo coordinated collapse |
 
-The 2025 COGITATE adversarial testing suggests attention networks (frontoparietal) may be distinct from consciousness networks (posterior hot zone). Selection might occur where these systems meet. For detailed analysis of each site including timing constraints and testable predictions, see [Mechanisms of the Attention-Consciousness Interface](/topics/attention-interface-mechanisms/).
+The 2025 COGITATE adversarial testing suggests attention networks (frontoparietal) may be distinct from consciousness networks (posterior hot zone). Selection might occur where these systems meet. For detailed analysis of each site including timing constraints and testable predictions, see [Mechanisms of the Attention-Consciousness Interface](/archive/topics/attention-interface-mechanisms/).
 
 ## The Bandwidth Constraint
 
@@ -216,7 +216,7 @@ This transforms philosophical assertion into empirical program. Whether the hypo
 
 **Core concepts**: [attention](/concepts/attention/), [voluntary-attention](/concepts/voluntary-attention/), [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/), [psychophysical-coupling](/concepts/psychophysical-coupling/), [interface-locality](/archive/concepts/interface-locality/), [coupling-modes](/concepts/coupling-modes/), [Attention Disorders and the Interface](/topics/attention-disorders-and-quantum-interface/)
 
-**Mechanisms**: [Mechanisms of the Attention-Consciousness Interface](/topics/attention-interface-mechanisms/) — candidate neural sites, timing constraints, and testable predictions
+**Mechanisms**: [Mechanisms of the Attention-Consciousness Interface](/archive/topics/attention-interface-mechanisms/) — candidate neural sites, timing constraints, and testable predictions
 
 **Quantum approaches**: [quantum-consciousness](/concepts/quantum-consciousness/), [decoherence](/concepts/decoherence/), [many-worlds](/arguments/many-worlds/)
 

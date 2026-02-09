@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-02-02
 **Article**: [Attention as Interface Hypothesis](/concepts/attention-as-interface/)
 **Previous review**: [2026-02-01](/reviews/deep-review-2026-02-01-attention-as-interface/)
-**Context**: Review triggered by new [attention-interface-mechanisms](/topics/attention-interface-mechanisms/) article creation
+**Context**: Review triggered by new [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/) article creation
 
 ## Pessimistic Analysis Summary
 
@@ -38,7 +38,7 @@ None. Article has reached stability through previous reviews. No factual errors,
 
 ### Medium Issues Found
 
-- **Missing cross-link to new mechanisms article**: The new [attention-interface-mechanisms](/topics/attention-interface-mechanisms/) article provides detailed treatment of candidate sites and timing constraints. **Resolved**: Added cross-link in Candidate Selection Sites section and Further Reading.
+- **Missing cross-link to new mechanisms article**: The new [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/) article provides detailed treatment of candidate sites and timing constraints. **Resolved**: Added cross-link in Candidate Selection Sites section and Further Reading.
 
 ### Counterarguments Considered
 
@@ -69,13 +69,13 @@ No attribution errors found.
 
 ### Enhancements Made
 
-1. Added cross-link to [attention-interface-mechanisms](/topics/attention-interface-mechanisms/) in Candidate Selection Sites section
+1. Added cross-link to [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/) in Candidate Selection Sites section
 2. Added mechanisms article to Further Reading with description
 3. Added to concepts frontmatter
 
 ### Cross-links Added
 
-- [attention-interface-mechanisms](/topics/attention-interface-mechanisms/) (new related content)
+- [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/) (new related content)
 
 ## Remaining Items
 
@@ -86,7 +86,7 @@ None. The article has reached stable state with good integration to the new mech
 - **Illusionism engagement**: Previous reviews established regress argument. Deeper AST engagement would be enhancement but not critical.
 - **Buddhist no-self**: Bedrock philosophical difference—the article's unified subject presupposition reflects the Map's dualist framework.
 - **MWI debate**: Self-locating uncertainty response is explicit; remaining disagreement is philosophical standoff.
-- **Quantum mechanism specifics**: Appropriately deferred to [attention-interface-mechanisms](/topics/attention-interface-mechanisms/) for detailed treatment.
+- **Quantum mechanism specifics**: Appropriately deferred to [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/) for detailed treatment.
 
 This article has now been reviewed three times (2026-01-20, 2026-02-01, 2026-02-02). It has reached convergence—no critical issues remain and incremental improvements are minimal. Future reviews should focus on other content unless significant new research or arguments emerge.
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Mechanisms of the Attention-Consciousness Interface](/topics/attention-interface-mechanisms/)
+**Article**: [Mechanisms of the Attention-Consciousness Interface](/archive/topics/attention-interface-mechanisms/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

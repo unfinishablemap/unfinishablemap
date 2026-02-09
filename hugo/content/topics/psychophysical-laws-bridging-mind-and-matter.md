@@ -229,7 +229,7 @@ The framework would face serious difficulty if:
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The foundational concept in depth
 - [selection-laws](/concepts/selection-laws/) — The downward direction: how conscious states select physical outcomes
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — The coupling law problem and candidate law families
-- [attention-interface-mechanisms](/topics/attention-interface-mechanisms/) — Where in the brain coupling might occur
+- [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/) — Where in the brain coupling might occur
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism in detail
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's role in Chalmers' quantum proposal
 - [functionalism](/arguments/functionalism/) — The view Chalmers tends toward, the Map rejects
