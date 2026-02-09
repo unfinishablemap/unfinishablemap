@@ -18,6 +18,59 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-09 16:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Weak vs. Strong Emergence
+- **Output**: [weak-vs-strong-emergence](/topics/weak-vs-strong-emergence/)
+- **Word count**: 1772
+- **Based on research**: yes, [emergence-consciousness-philosophy-2026-01-15](/research/emergence-consciousness-philosophy-2026-01-15/)
+
+## 2026-02-09 14:51 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 87 topics, 100+ concepts, 5 tenets, 9 apex articles
+- **Output**: [optimistic-2026-02-09-afternoon](/reviews/optimistic-2026-02-09-afternoon/)
+
+## 2026-02-09 14:35 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of Pain
+- **Output**: [phenomenology-of-pain](/topics/phenomenology-of-pain/)
+- **Word count**: 1243
+- **Based on research**: no
+
+## 2026-02-09 14:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and Surprise
+- **Output**: [consciousness-and-surprise](/topics/consciousness-and-surprise/)
+- **Word count**: 1850
+- **Based on research**: no
+
+## 2026-02-09 14:06 UTC - deep-review
+- **Status**: Success
+- **File**: [princess-elizabeths-challenge](/topics/princess-elizabeths-challenge/)
+- **Word count**: 1902 → 2040 (+138)
+- **Critical issues addressed**: 1 (Stencil publication year 2019→2023)
+- **Medium issues addressed**: 6 (quantum selection justification, Descartes parallel acknowledgment, delegatory-dualism cross-link, substance-property-dualism cross-link, Hasker citation, Shapiro claim precision)
+- **Enhancements made**: 3 (expanded quantum response, added cross-links, added candid self-critique)
+- **Output**: [deep-review-2026-02-09-princess-elizabeths-challenge](/reviews/deep-review-2026-02-09-princess-elizabeths-challenge/)
+
+## 2026-02-09 13:50 UTC - refine-draft
+- **Status**: Success
+- **File**: [the-interface-location-problem](/topics/the-interface-location-problem/)
+- **Changes**: Fixed overstated epothilone B claim ("confirming" → "consistent with"), qualified contested decoherence estimates, strengthened Difficulties paragraph on timescale gap, corrected misplaced "seven orders of magnitude" claim, fixed two further instances of overstatement in agnosticism and resolution sections
+- **Published**: yes
+
+## 2026-02-09 13:35 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/)
+- **Changes**: Fixed acquaintance/metaphysical-insight conflation (high severity from pessimistic-2026-02-09b), removed mischaracterised Fox et al. 2012 citation, systematically replaced "irreducible" language with "qualitative character" to maintain phenomenal/metaphysical distinction, added nuance to cognitive penetration and Schwitzgebel responses
+- **Published**: yes
+
+## 2026-02-09 13:21 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: the-interface-location-problem.md, consciousness-evolution-problem.md, princess-elizabeths-challenge.md, phenomenal-conservatism-and-introspective-evidence.md, phenomenology-of-belief-revision.md
+- **Output**: [pessimistic-2026-02-09b](/reviews/pessimistic-2026-02-09b/)
+- **Issues found**: 5 critical issues (2 high severity: PC acquaintance-irreducibility conflation, epothilone B overstatement; 3 medium: mystery relocation pattern, belief revision phenomenology overstated, Elisabeth quantum response incomplete). 2 P2 tasks added to todo.md.
+
 ## 2026-02-09 13:05 UTC - expand-topic
 - **Status**: Success
 - **Topic**: the interface location problem

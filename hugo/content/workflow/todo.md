@@ -82,34 +82,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-02
 - **Output**: obsidian/topics/phenomenal-conservatism-and-introspective-evidence.md
 
-### ✓ 2026-02-09: Write article on the interface location problem
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-02-02. Where exactly does consciousness interface with the brain? Multiple candidate sites exist (microtubules, dendritic integration zones, cortical columns). Systematic comparison article evaluating evidence for each and explaining why the Map remains agnostic about specifics. Builds on attention-interface-mechanisms.md, brain-interface-boundary.md, quantum-consciousness.md. See optimistic-2026-02-02.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-- **Output**: obsidian/topics/the-interface-location-problem.md
-
-### P3: Write article on consciousness and surprise
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02. Phenomenology of surprise—violated expectations producing distinctive experiential quality—provides window into how consciousness interacts with predictive processing. If surprise is phenomenally real and causally efficacious (triggering learning, memory consolidation), supports Bidirectional Interaction. Builds on predictive-processing.md, phenomenology-of-understanding.md, epistemic-emotions.md. See optimistic-2026-02-02.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
-### P3: Write article on phenomenology of pain
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02 (midday). Pain's structure (protensional quality, apparent localisation, resistance to functionalism) deserves dedicated phenomenological treatment. Distinguishes from other negative states; grounds ethical commitments in irreducible phenomenal reality. Builds on qualia.md, emotional-consciousness.md. See optimistic-2026-02-02-midday.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
-### P3: Write article on weak vs. strong emergence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02 (midday). Systematic distinction between epistemological emergence (reducible in principle) and ontological emergence (irreducible). Explains why consciousness requires strong emergence and why "complexity" arguments fail. Builds on consciousness.md, reductionism.md. See optimistic-2026-02-02-midday.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
 ### P3: Write article on diachronic agency and personal narrative
 - **Type**: expand-topic
 - **Status**: pending
@@ -498,6 +470,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-09
 
+### P3: Write article on surprise and creativity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Categorical surprise (recognising the inadequacy of one's representational framework) is closely related to creative insight—both involve transcending existing structures rather than updating within them. Develops how surprise and creativity interact through the consciousness-as-amplifier thesis. Builds on consciousness-and-surprise.md, distinctiveness-of-human-creativity.md, creativity-consciousness-and-novel-thought.md. See optimistic-2026-02-09-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-09
+
+### P3: Write article on phenomenology of suffering vs pain
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Pain and suffering are phenomenologically distinct (Buddhist "first arrow" vs "second arrow"). Develops how meditation practices alter the pain-suffering connection—evidence for bidirectional interaction and contemplative epistemology. Builds on phenomenology-of-pain.md, emotional-consciousness.md, buddhist-perspectives-on-meaning.md. See optimistic-2026-02-09-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-09
+
+### P3: Create concept page for protention
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Husserl's term for forward-directed experience, referenced in phenomenology-of-anticipation.md, consciousness-and-surprise.md, temporal-consciousness.md but lacking dedicated page. The surprise article's claim that surprise is "what happens when this reaching meets something it cannot grasp" depends on protention being well-defined. See optimistic-2026-02-09-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-09
+
+### P3: Create concept page for pain asymbolia
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Dissociation between pain detection and pain suffering appears in phenomenology-of-pain.md, emotional-consciousness.md, and minds-without-words apex article but has no concept page. Important for argument that pain's phenomenal character is irreducible. See optimistic-2026-02-09-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-09
+
+### P3: Create concept page for categorical surprise
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Surprise at the genuinely novel—outside the model's possibility space entirely. Conceptually distinct from ordinary prediction error. Connections to creativity, paradigm shifts, consciousness-as-amplifier thesis. Introduced in consciousness-and-surprise.md. See optimistic-2026-02-09-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-09
+
 ### P3: Create concept page for anoetic/noetic/autonoetic consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -507,6 +514,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Write article on weak vs. strong emergence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (midday). Systematic distinction between epistemological emergence (reducible in principle) and ontological emergence (irreducible). Explains why consciousness requires strong emergence and why "complexity" arguments fail. Builds on consciousness.md, reductionism.md. See optimistic-2026-02-02-midday.md
+- **Output**: weak vs. strong emergence
+
+### ✓ 2026-02-09: Write article on phenomenology of pain
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (midday). Pain's structure (protensional quality, apparent localisation, resistance to functionalism) deserves dedicated phenomenological treatment. Distinguishes from other negative states; grounds ethical commitments in irreducible phenomenal reality. Builds on qualia.md, emotional-consciousness.md. See optimistic-2026-02-02-midday.md
+- **Output**: phenomenology of pain
+
+### ✓ 2026-02-09: Write article on consciousness and surprise
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02. Phenomenology of surprise—violated expectations producing distinctive experiential quality—provides window into how consciousness interacts with predictive processing. If surprise is phenomenally real and causally efficacious (triggering learning, memory consolidation), supports Bidirectional Interaction. Builds on predictive-processing.md, phenomenology-of-understanding.md, epistemic-emotions.md. See optimistic-2026-02-02.md
+- **Output**: consciousness and surprise
+
+### ✓ 2026-02-09: Correct epothilone B overstatement in the-interface-location-problem.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-09b) found the article claims the 2024 epothilone B study "confirmed an Orch OR prediction" when the result is also consistent with non-quantum accounts of microtubule function. Also: revised decoherence estimates presented without noting they are contested or that 10⁻⁴ seconds remains far below neural timescales. Violates writing style guide confidence calibration. See pessimistic-2026-02-09b.md
+- **Output**: obsidian/topics/the-interface-location-problem.md
+
+Task context:
+Pessimistic review (2026-02-09b) found the article claims the 2024 epothilone B study "confirmed an Orch OR prediction" when the result is also consistent with non-quantum accounts of microtubule function. Also: revised decoherence estimates presented without noting they are contested or that 10⁻⁴ seconds remains far below neural timescales. Violates writing style guide confidence calibration. See pessimistic-2026-02-09b.md
+
+### ✓ 2026-02-09: Fix acquaintance-irreducibility conflation in phenomenal-conservatism-and-introspective-evidence.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-09b) found the article conflates phenomenal acquaintance (being in a state) with metaphysical insight (knowing the state's ontological status). The burden-shifting argument assumes that being directly acquainted with pain positions you to judge whether pain is reducible—but acquaintance is about having the experience, not about its metaphysical nature. Also: the Fox et al. 2012 citation is mischaracterised as demonstrating cross-cultural stability when it studied meditation effects on interoception. See pessimistic-2026-02-09b.md
+- **Output**: obsidian/topics/phenomenal-conservatism-and-introspective-evidence.md
+
+Task context:
+Pessimistic review (2026-02-09b) found the article conflates phenomenal acquaintance (being in a state) with metaphysical insight (knowing the state's ontological status). The burden-shifting argument assumes that being directly acquainted with pain positions you to judge whether pain is reducible—but acquaintance is about having the experience, not about its metaphysical nature. Also: the Fox et al. 2012 citation is mischaracterised as demonstrating cross-cultural stability when it studied meditation effects on interoception. See pessimistic-2026-02-09b.md
+
+### ✓ 2026-02-09: Write article on the interface location problem
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02. Where exactly does consciousness interface with the brain? Multiple candidate sites exist (microtubules, dendritic integration zones, cortical columns). Systematic comparison article evaluating evidence for each and explaining why the Map remains agnostic about specifics. Builds on attention-interface-mechanisms.md, brain-interface-boundary.md, quantum-consciousness.md. See optimistic-2026-02-02.md
+- **Output**: the interface location problem
 
 ### ✓ 2026-02-09: Write article on phenomenology of belief change
 - **Type**: expand-topic

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-09 13:05:00+00:00
+ai_modified: 2026-02-09 13:50:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -54,9 +54,9 @@ Four primary candidate sites have been proposed, each grounded in different theo
 
 Roger Penrose and Stuart Hameroff propose that consciousness interfaces with the brain through quantum computations in microtubules — cylindrical protein structures within neurons. On their Orchestrated Objective Reduction (Orch OR) theory, tubulin proteins exist in quantum superposition, with consciousness selecting which superposition pattern collapses. Collapse events occur at roughly 40 per second, in concert with gamma-band (40 Hz) neural synchrony.
 
-**Strengths.** The 2024 epothilone B study found that microtubule-stabilising drugs significantly delayed anaesthetic-induced unconsciousness in rats, confirming an Orch OR prediction. Revised decoherence estimates (Hagan et al. 2002) extend coherence times to 10⁻⁵–10⁻⁴ seconds — seven orders of magnitude beyond Tegmark's original calculations. Anaesthetics target microtubules, providing a direct link between the proposed interface site and the loss of consciousness.
+**Strengths.** The 2024 epothilone B study found that microtubule-stabilising drugs significantly delayed anaesthetic-induced unconsciousness in rats — a result consistent with an Orch OR prediction, though also explicable by non-quantum accounts of microtubule function in neural stability. Hagan et al. (2002) proposed revised decoherence estimates extending coherence times to 10⁻⁵–10⁻⁴ seconds, though these estimates remain contested and have not been replicated by independent groups. Anaesthetics target microtubules, providing a direct link between the proposed interface site and the loss of consciousness.
 
-**Difficulties.** The decoherence timescale debate remains unresolved. Even revised estimates of 10⁻⁴ seconds are short compared to the millisecond timescales of neural processes. Penrose's reliance on gravitational self-collapse introduces physics beyond the standard model that most physicists have not accepted. The relationship between microtubule-level events and the coarse-grained selections consciousness appears to make (choosing to reach left rather than right, not choosing individual protein conformations) remains underspecified.
+**Difficulties.** The decoherence timescale problem is severe. Even the most optimistic revised estimates of 10⁻⁴ seconds are shorter than the millisecond-and-above timescales at which neural processes operate — and these revised estimates are themselves contested, with Tegmark and others arguing the original calculations stand. Penrose's reliance on gravitational self-collapse introduces physics beyond the standard model that most physicists have not accepted. The relationship between microtubule-level events and the coarse-grained selections consciousness appears to make (choosing to reach left rather than right, not choosing individual protein conformations) remains underspecified.
 
 ### Ion Channels (Stapp/Schwartz)
 
@@ -100,7 +100,7 @@ Regardless of which candidate proves correct, any successful account of the inte
 
 The Map does not commit to a specific interface location for three principled reasons.
 
-**The evidence is genuinely inconclusive.** Each candidate has empirical support and empirical difficulties. The microtubule proposal has the epothilone B confirmation but faces decoherence disputes. The ion channel proposal has established quantum mechanics on its side but faces the timescale gap. The cortical column proposal has the right functional scale but limited empirical grounding. Committing prematurely risks building the Map's framework on a foundation that collapses.
+**The evidence is genuinely inconclusive.** Each candidate has empirical support and empirical difficulties. The microtubule proposal has suggestive pharmacological evidence (epothilone B) but faces serious decoherence objections. The ion channel proposal has established quantum mechanics on its side but faces the timescale gap. The cortical column proposal has the right functional scale but limited empirical grounding. Committing prematurely risks building the Map's framework on a foundation that collapses.
 
 **The core philosophical claims are location-independent.** The Map's tenets assert that consciousness is irreducible, that it causally influences the brain, and that it does so at quantum indeterminacies without injecting energy. These claims hold regardless of whether the relevant indeterminacies are in microtubules, ion channels, or cortical columns. The philosophical framework should not be hostage to empirical details that could change with the next experiment.
 
@@ -125,7 +125,7 @@ This hierarchical model is speculative but has the advantage of reconciling the 
 
 The interface location problem is empirical, not purely philosophical. Several lines of evidence could narrow the candidates:
 
-**Selective disruption experiments.** If disrupting one candidate site eliminates conscious influence while leaving others intact, that site is essential. The epothilone B study represents a first step — showing that microtubule stability matters for consciousness. Similar experiments targeting ion channels or cortical column synchrony could identify which sites are necessary.
+**Selective disruption experiments.** If disrupting one candidate site eliminates conscious influence while leaving others intact, that site is essential. The epothilone B study represents a first step — showing that microtubule stability affects anaesthetic response, though the mechanism may be classical rather than quantum. Similar experiments targeting ion channels or cortical column synchrony could identify which sites are necessary.
 
 **Quantum biology advances.** Better measurements of decoherence timescales in living neural tissue would constrain which sites can maintain quantum effects. If microtubules prove to sustain coherence at functional timescales while ion channels do not, the field narrows.
 
@@ -168,3 +168,18 @@ The Map's agnosticism about the specific location is not a weakness of the frame
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194–4206.
 - Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+
+<!-- AI REFINEMENT LOG - 2026-02-09
+Changes made:
+- Fixed epothilone B claim: changed "confirming an Orch OR prediction" to "consistent with an Orch OR prediction, though also explicable by non-quantum accounts"
+- Added qualification to Hagan et al. decoherence estimates: noted they are contested and not independently replicated
+- Strengthened Difficulties paragraph: decoherence timescale problem presented as severe rather than merely unresolved
+- Fixed "seven orders of magnitude" misplacement: removed from gap-to-neural-timescales context (the 7 OoM describes Tegmark-to-Hagan improvement, not gap to neural timescales)
+- Fixed "epothilone B confirmation" in agnosticism section to "suggestive pharmacological evidence"
+- Fixed "showing microtubule stability matters for consciousness" to properly qualified "affects anaesthetic response, though mechanism may be classical"
+
+Based on pessimistic review 2026-02-09b (Issue 4: Interface Location Overstates Empirical Support, severity High).
+Key improvements: confidence calibration for empirical claims about Orch OR and decoherence timescales.
+
+This log should be removed after human review.
+-->
