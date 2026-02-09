@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 New article evaluates Orch OR, Stapp's Zeno model, Fisher's nuclear spins, and CSL-IIT hybrids head-to-head on decoherence, phenomenology, and empirical status. No single mechanism wins—but the field narrows.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2020774832300830846  
 **Link**: [[comparing-quantum-consciousness-mechanisms]]
 
 ---
