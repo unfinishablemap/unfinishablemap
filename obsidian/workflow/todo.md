@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address introspective methodology gap in phenomenology-of-self-reference.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-02-09) found the article treats introspective reports as data without engaging methodological concerns. It cites Nisbett & Wilson (1977) in references but never addresses implications for its own methodology. Add section on introspective reliability, engage process/content distinction, address Schwitzgebel's critiques. See pessimistic-2026-02-09.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-09
+
+### P2: Reduce quantum speculation in consciousness-and-memory-consolidation.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-02-09) found the Minimal Quantum Interaction tenet section introduces quantum Zeno speculation with no evidence and no mechanism connecting femtosecond quantum coherence to seconds-long sleep oscillations. Violates writing style guide on quantum overemphasis. Reduce to brief mention; strengthen the purely philosophical dissociation argument. See pessimistic-2026-02-09.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-09
+
 ### P2: Update wikilinks to archived articles (interface-locality, brain-specialness, and 5 others)
 - **Type**: other
 - **Notes**: Gap analysis found 70+ broken wikilinks pointing to archived/coalesced articles. Key targets: interface-locality (34 refs, archived to concepts/), brain-specialness (6 refs), consciousness-and-quantum-measurement (11 refs), nihilism (5 refs), quantum-measurement-and-definite-outcomes (5 refs), eastern-philosophy-haecceity-tension (4 refs), meaning-and-consciousness (4 refs). Update wikilinks to point to the replacement articles these were coalesced into, or verify the archive redirect handles them.
