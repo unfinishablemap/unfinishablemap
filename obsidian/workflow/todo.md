@@ -81,13 +81,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-02
 - **Output**: obsidian/topics/phenomenal-conservatism-and-introspective-evidence.md
 
-### P3: Write article on the interface location problem
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02. Where exactly does consciousness interface with the brain? Multiple candidate sites exist (microtubules, dendritic integration zones, cortical columns). Systematic comparison article evaluating evidence for each and explaining why the Map remains agnostic about specifics. Builds on attention-interface-mechanisms.md, brain-interface-boundary.md, quantum-consciousness.md. See optimistic-2026-02-02.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
 ### P3: Write article on consciousness and surprise
 - **Type**: expand-topic
 - **Status**: pending
@@ -506,6 +499,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Write article on the interface location problem
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02. Where exactly does consciousness interface with the brain? Multiple candidate sites exist (microtubules, dendritic integration zones, cortical columns). Systematic comparison article evaluating evidence for each and explaining why the Map remains agnostic about specifics. Builds on attention-interface-mechanisms.md, brain-interface-boundary.md, quantum-consciousness.md. See optimistic-2026-02-02.md
+- **Output**: the interface location problem
 
 ### ✓ 2026-02-09: Write article on phenomenology of belief change
 - **Type**: expand-topic

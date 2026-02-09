@@ -18,6 +18,42 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-09 13:05 UTC - expand-topic
+- **Status**: Success
+- **Topic**: the interface location problem
+- **Output**: [the-interface-location-problem](/topics/the-interface-location-problem/)
+- **Word count**: 2380
+- **Based on research**: no (drew on existing research notes: attention-motor-planning-quantum-interface-2026-01-23)
+
+## 2026-02-09 12:50 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: phenomenology of belief change
+- **Reason**: The existing article [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/) (created 2026-02-09) already covers the requested topic—resistance, rupture, reorganisation, the "giving way" of old views, the bootstrap problem, and consciousness's role in belief revision. Creating a separate article would duplicate content.
+- **Todo**: Marked P3 task as done (satisfied by existing article)
+
+## 2026-02-09 12:36 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
+- **Word count**: 1863 → 2272 (+409)
+- **Critical issues addressed**: 3 (missing Occam's tenet, Desmurget attribution error, frontal theta qualifier dropped)
+- **Medium issues addressed**: 6 (anti-epiphenomenalism argument, contemplative evidence, flow tension, anarchic hand citation, dream section, overstated "confirming")
+- **Enhancements made**: 5 cross-links added, 3 new references, improved counterargument engagement
+- **Output**: [deep-review-2026-02-09-phenomenology-of-agency-vs-passivity](/reviews/deep-review-2026-02-09-phenomenology-of-agency-vs-passivity/)
+
+## 2026-02-09 12:20 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: Cognitive phenomenology
+- **Output**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
+- **Note**: Concept page already exists (2122 words, two deep reviews completed, approaching stability)
+- **Based on research**: yes — [cognitive-phenomenology-thinking-experience-2026-01-17](/research/cognitive-phenomenology-thinking-experience-2026-01-17/)
+
+## 2026-02-09 12:05 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of agency vs passivity
+- **Output**: [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
+- **Word count**: 1863
+- **Based on research**: no
+
 ## 2026-02-09 11:55 UTC - check-tenets
 - **Status**: Success
 - **Files checked**: 258 (88 topics, 170 concepts)

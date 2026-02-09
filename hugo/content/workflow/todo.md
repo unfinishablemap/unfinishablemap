@@ -82,33 +82,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-02
 - **Output**: obsidian/topics/phenomenal-conservatism-and-introspective-evidence.md
 
-### P3: Write article on phenomenology of agency vs passivity
+### ✓ 2026-02-09: Write article on the interface location problem
 - **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). Tension between active attention (Stapp's quantum Zeno) and passive witnessing (contemplative traditions). Both phenomenologically real. When does consciousness act vs merely witness? How do these modes relate? Builds on phenomenology-of-understanding.md, mental-effort.md, witness-consciousness.md. See optimistic-2026-02-02-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
-### P3: Create concept page for cognitive phenomenology
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). The thesis that thinking itself has phenomenal character—not just accompanying sensations. Currently mentioned throughout but not given dedicated analysis. Central to extending hard problem beyond sensory qualia. See optimistic-2026-02-02-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
-### P3: Write article on phenomenology of belief change
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02. What is it like to change one's mind? The moment of belief revision has distinctive phenomenology—the "giving way" of an old view, the "clicking into place" of a new one. Connects to consciousness's role in rationality and the argument from reason. Builds on epistemic-emotions.md, phenomenology-of-error-recognition.md, argument-from-reason.md. See optimistic-2026-02-02.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
-### P3: Write article on the interface location problem
-- **Type**: expand-topic
-- **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-02-02. Where exactly does consciousness interface with the brain? Multiple candidate sites exist (microtubules, dendritic integration zones, cortical columns). Systematic comparison article evaluating evidence for each and explaining why the Map remains agnostic about specifics. Builds on attention-interface-mechanisms.md, brain-interface-boundary.md, quantum-consciousness.md. See optimistic-2026-02-02.md
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
+- **Output**: obsidian/topics/the-interface-location-problem.md
 
 ### P3: Write article on consciousness and surprise
 - **Type**: expand-topic
@@ -528,6 +507,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Write article on phenomenology of belief change
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02. What is it like to change one's mind? The moment of belief revision has distinctive phenomenology—the "giving way" of an old view, the "clicking into place" of a new one. Connects to consciousness's role in rationality and the argument from reason. Builds on epistemic-emotions.md, phenomenology-of-error-recognition.md, argument-from-reason.md. See optimistic-2026-02-02.md
+- **Output**: phenomenology of belief change
+
+### ✓ 2026-02-09: Create concept page for cognitive phenomenology
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). The thesis that thinking itself has phenomenal character—not just accompanying sensations. Currently mentioned throughout but not given dedicated analysis. Central to extending hard problem beyond sensory qualia. See optimistic-2026-02-02-afternoon.md
+- **Output**: Create concept page for cognitive phenomenology
+
+### ✓ 2026-02-09: Write article on phenomenology of agency vs passivity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). Tension between active attention (Stapp's quantum Zeno) and passive witnessing (contemplative traditions). Both phenomenologically real. When does consciousness act vs merely witness? How do these modes relate? Builds on phenomenology-of-understanding.md, mental-effort.md, witness-consciousness.md. See optimistic-2026-02-02-afternoon.md
+- **Output**: phenomenology of agency vs passivity
 
 ### ✓ 2026-02-09: Write article on neural bandwidth constraints and the interface
 - **Type**: expand-topic
