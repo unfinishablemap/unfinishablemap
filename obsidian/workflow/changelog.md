@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-09 02:29 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Indexical Knowledge
+- **Output**: [[indexical-knowledge]]
+- **Word count**: 1680
+- **Based on research**: no (draws on existing indexical-identity-haecceity-thisness research and related concept pages)
+
 ## 2026-02-09 02:14 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-moral-experience]]
