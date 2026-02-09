@@ -4,7 +4,7 @@ description: "Memory consolidation during sleep proceeds without consciousness, 
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-02-09T03:59:00+00:00
+ai_modified: 2026-02-09T05:14:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -92,7 +92,7 @@ Memory consolidation during sleep speaks directly to the Map's [[tenets]].
 
 **[[tenets#^bidirectional-interaction|Bidirectional interaction]]** is evidenced by the role of attention in encoding. Consciousness does not merely observe encoding; it determines what gets encoded. The TMR literature confirms this causally: cued reactivation during sleep can enhance specific memories, but the initial attentional selection during waking determines which memories enter the system at all. Consciousness gates the input that the unconscious brain subsequently consolidates.
 
-**[[tenets#^minimal-quantum-interaction|Minimal quantum interaction]]** finds an interesting parallel. If consciousness operates through attention-mediated quantum selection, NREM sleep represents a state where this selection mechanism is disengaged. The brain processes memories through classical replay without quantum selection among alternatives. This would explain the shift from serial (conscious, selective) to parallel (unconscious, integrative) processing: without the quantum selection bottleneck, information flows through multiple channels simultaneously.
+**[[tenets#^minimal-quantum-interaction|Minimal quantum interaction]]** is consistent with the dissociation observed here. If consciousness influences the brain through a minimal interaction mechanism, NREM consolidation represents a state where that influence is withdrawn—the brain processes memories through endogenous replay without any non-physical contribution. The philosophical point matters more than any specific mechanism: whatever form the interaction takes, sleep consolidation demonstrates that the brain has a fully autonomous processing mode that does not require it.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** is implicitly at stake whenever the article invokes "selection" and "collapsing alternatives." On many-worlds, all alternatives are realised in parallel branches, and the serial/parallel distinction during sleep versus waking would reflect branch structure rather than collapse. The Map's framework requires genuine collapse—consciousness selecting one outcome from among genuinely open possibilities. The phenomenology of dreamless NREM, where temporal experience vanishes entirely, is consistent with a state where no indexical selection occurs: not because branches multiply silently, but because the selection mechanism is offline.
 
@@ -123,3 +123,15 @@ Memory consolidation during sleep speaks directly to the Map's [[tenets]].
 - Diekelmann, S. & Born, J. (2010). The memory function of sleep. *Nature Reviews Neuroscience*, 11(2), 114–126.
 - Siclari, F. et al. (2017). The neural correlates of dreaming. *Nature Neuroscience*, 20, 872–878.
 - Buzsáki, G. (2015). Hippocampal sharp wave-ripple: A cognitive biomarker for episodic memory and planning. *Hippocampus*, 25(10), 1073–1188.
+
+<!-- AI REFINEMENT LOG - 2026-02-09
+Changes made:
+- Rewrote Minimal Quantum Interaction tenet section to remove quantum Zeno/quantum selection speculation that lacked evidence and violated writing style guide on quantum overemphasis
+- Replaced mechanistic quantum explanation of serial/parallel processing shift with philosophical dissociation argument: the brain has a fully autonomous processing mode that doesn't require non-physical contribution
+- No other sections required changes; article otherwise complies with style guide
+
+Based on pessimistic review flagging quantum overemphasis in tenet section.
+Key improvements: Tenet section now makes a defensible philosophical point rather than speculative quantum mechanism claim.
+
+This log should be removed after human review.
+-->
