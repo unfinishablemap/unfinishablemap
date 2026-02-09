@@ -13,6 +13,7 @@ Two scheduling layers:
 import argparse
 import logging
 import re
+import signal
 import subprocess
 import sys
 import time
@@ -65,6 +66,24 @@ MIN_QUEUE_TASKS = 3
 
 # Agent author for automated commits
 AGENT_AUTHOR = "unfinishablemap.org Agent <agent@unfinishablemap.org>"
+
+# Track the currently running subprocess so we can terminate it on SIGINT
+_current_process: subprocess.Popen[str] | None = None
+_interrupted = False
+
+
+def _sigint_handler(signum: int, frame: object) -> None:
+    """Handle SIGINT by terminating any running subprocess, then raising KeyboardInterrupt."""
+    global _interrupted
+    _interrupted = True
+    proc = _current_process
+    if proc is not None and proc.poll() is None:
+        proc.terminate()
+        try:
+            proc.wait(timeout=5)
+        except subprocess.TimeoutExpired:
+            proc.kill()
+    raise KeyboardInterrupt
 
 
 class GitError(Exception):
@@ -347,22 +366,34 @@ def run_skill(
         cmd.append("--verbose")
     cmd.extend(["-p", prompt])
 
+    global _current_process
     try:
-        result = subprocess.run(
+        proc = subprocess.Popen(
             cmd,
-            capture_output=True,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
             text=True,
             cwd=REPO_ROOT,
-            timeout=timeout_seconds,
         )
-    except subprocess.TimeoutExpired:
-        raise SkillTimeoutError(invocation.skill, timeout_seconds)
+        _current_process = proc
+        try:
+            stdout, stderr = proc.communicate(timeout=timeout_seconds)
+        except subprocess.TimeoutExpired:
+            proc.kill()
+            proc.wait()
+            _current_process = None
+            raise SkillTimeoutError(invocation.skill, timeout_seconds)
+        finally:
+            _current_process = None
+    except KeyboardInterrupt:
+        _current_process = None
+        raise
 
-    output = result.stdout
-    if result.stderr:
-        output += "\n--- stderr ---\n" + result.stderr
+    output = stdout
+    if stderr:
+        output += "\n--- stderr ---\n" + stderr
 
-    success = result.returncode == 0
+    success = proc.returncode == 0
     return success, output
 
 
@@ -416,30 +447,42 @@ def run_agent_commit(
         cmd.append("--verbose")
     cmd.extend(["-p", prompt])
 
+    global _current_process
     try:
-        result = subprocess.run(
+        proc = subprocess.Popen(
             cmd,
-            capture_output=True,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
             text=True,
             cwd=REPO_ROOT,
-            timeout=timeout_seconds,
         )
-    except subprocess.TimeoutExpired:
-        duration = time.time() - start_time
-        log.warning(
-            f"agent-commit timed out after {timeout_seconds}s "
-            f"(elapsed: {format_duration(duration)})"
-        )
-        # Fall back to simple commit
-        return commit_as_agent(skill_name)
+        _current_process = proc
+        try:
+            stdout, stderr = proc.communicate(timeout=timeout_seconds)
+        except subprocess.TimeoutExpired:
+            proc.kill()
+            proc.wait()
+            _current_process = None
+            duration = time.time() - start_time
+            log.warning(
+                f"agent-commit timed out after {timeout_seconds}s "
+                f"(elapsed: {format_duration(duration)})"
+            )
+            # Fall back to simple commit
+            return commit_as_agent(skill_name)
+        finally:
+            _current_process = None
+    except KeyboardInterrupt:
+        _current_process = None
+        raise
 
     duration = time.time() - start_time
     end_ts = datetime.now(timezone.utc)
 
-    if result.returncode != 0:
+    if proc.returncode != 0:
         log.warning(
             f"[{end_ts.strftime('%Y-%m-%d %H:%M:%S')} UTC] "
-            f"agent-commit failed after {format_duration(duration)}: {result.stderr[:200]}"
+            f"agent-commit failed after {format_duration(duration)}: {stderr[:200]}"
         )
         # Fall back to simple commit
         return commit_as_agent(skill_name)
@@ -451,7 +494,7 @@ def run_agent_commit(
 
     # Extract commit hash from output (skill should output it)
     # Look for a short hash pattern in the output
-    hash_match = re.search(r"\b([0-9a-f]{7,8})\b", result.stdout)
+    hash_match = re.search(r"\b([0-9a-f]{7,8})\b", stdout)
     if hash_match:
         return hash_match.group(1)
 
@@ -933,6 +976,9 @@ Examples:
 
     # Load initial state
     state = load_state(STATE_PATH)
+
+    # Install SIGINT handler to cleanly terminate subprocesses on Ctrl+C
+    signal.signal(signal.SIGINT, _sigint_handler)
 
     log.info("=" * 60)
     log.info("Evolution Loop Started (Cycle-Based)")
