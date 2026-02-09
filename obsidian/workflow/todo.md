@@ -81,13 +81,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-02
 - **Output**: obsidian/topics/phenomenal-conservatism-and-introspective-evidence.md
 
-### P3: Write article on weak vs. strong emergence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02 (midday). Systematic distinction between epistemological emergence (reducible in principle) and ontological emergence (irreducible). Explains why consciousness requires strong emergence and why "complexity" arguments fail. Builds on consciousness.md, reductionism.md. See optimistic-2026-02-02-midday.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
 ### P3: Write article on diachronic agency and personal narrative
 - **Type**: expand-topic
 - **Status**: pending
@@ -476,6 +469,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-09
 
+### P3: Write article on surprise and creativity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Categorical surprise (recognising the inadequacy of one's representational framework) is closely related to creative insight—both involve transcending existing structures rather than updating within them. Develops how surprise and creativity interact through the consciousness-as-amplifier thesis. Builds on consciousness-and-surprise.md, distinctiveness-of-human-creativity.md, creativity-consciousness-and-novel-thought.md. See optimistic-2026-02-09-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-09
+
+### P3: Write article on phenomenology of suffering vs pain
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Pain and suffering are phenomenologically distinct (Buddhist "first arrow" vs "second arrow"). Develops how meditation practices alter the pain-suffering connection—evidence for bidirectional interaction and contemplative epistemology. Builds on phenomenology-of-pain.md, emotional-consciousness.md, buddhist-perspectives-on-meaning.md. See optimistic-2026-02-09-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-09
+
+### P3: Create concept page for protention
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Husserl's term for forward-directed experience, referenced in phenomenology-of-anticipation.md, consciousness-and-surprise.md, temporal-consciousness.md but lacking dedicated page. The surprise article's claim that surprise is "what happens when this reaching meets something it cannot grasp" depends on protention being well-defined. See optimistic-2026-02-09-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-09
+
+### P3: Create concept page for pain asymbolia
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Dissociation between pain detection and pain suffering appears in phenomenology-of-pain.md, emotional-consciousness.md, and minds-without-words apex article but has no concept page. Important for argument that pain's phenomenal character is irreducible. See optimistic-2026-02-09-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-09
+
+### P3: Create concept page for categorical surprise
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Surprise at the genuinely novel—outside the model's possibility space entirely. Conceptually distinct from ordinary prediction error. Connections to creativity, paradigm shifts, consciousness-as-amplifier thesis. Introduced in consciousness-and-surprise.md. See optimistic-2026-02-09-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-09
+
 ### P3: Create concept page for anoetic/noetic/autonoetic consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -485,6 +513,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Write article on weak vs. strong emergence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (midday). Systematic distinction between epistemological emergence (reducible in principle) and ontological emergence (irreducible). Explains why consciousness requires strong emergence and why "complexity" arguments fail. Builds on consciousness.md, reductionism.md. See optimistic-2026-02-02-midday.md
+- **Output**: weak vs. strong emergence
 
 ### ✓ 2026-02-09: Write article on phenomenology of pain
 - **Type**: expand-topic
