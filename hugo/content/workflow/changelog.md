@@ -18,6 +18,25 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-09 00:44 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal Value Realism
+- **Output**: [phenomenal-value-realism](/topics/phenomenal-value-realism/)
+- **Word count**: 1691
+- **Based on research**: yes, [phenomenal-value-realism-metaethics-2026-01-16](/research/phenomenal-value-realism-metaethics-2026-01-16/)
+
+## 2026-02-09 00:30 UTC - refine-draft
+- **Status**: Success
+- **File**: [binding-problem](/concepts/binding-problem/)
+- **Changes**: Reduced quantum section from ~600 words to ~200 words; strengthened Phenomenal Unity as Primitive section; recalibrated confidence language throughout; fixed overstatement "current evidence favours quantum binding"
+- **Based on**: pessimistic-2026-02-06-afternoon.md (Issues #2, #5)
+- **Published**: yes
+
+## 2026-02-08 22:59 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 73+ topics, 100+ concepts, tenets page, 9 apex articles
+- **Output**: [optimistic-2026-02-08](/reviews/optimistic-2026-02-08/)
+
 ## 2026-02-08 22:44 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Moral Experience

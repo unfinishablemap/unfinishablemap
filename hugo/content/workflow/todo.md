@@ -611,15 +611,37 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-06
 
-### P2: Reduce quantum overemphasis in binding-problem.md
-- **Type**: refine-draft
+### P3: Write apex article synthesising the attention cluster
+- **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Pessimistic review found quantum binding material dominates ~1/3 of the article and violates writing style guide warnings about quantum mechanism overemphasis. The claim "current evidence favours quantum binding" overstates the evidential situation. Reduce quantum section, strengthen alternative approaches, and recalibrate confidence language. See pessimistic-2026-02-06-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-06
+- **Notes**: Suggested by optimistic review. The attention cluster (attention-as-interface, attention-interface-mechanisms, voluntary-attention, structure-of-attention, attention-consciousness-dissociation, attention-motor-planning-quantum-interface) has grown to 6+ articles without a unifying apex synthesis. An apex article would show how attention serves as the Map's primary candidate for the consciousness-brain interface, connecting all five tenets. See optimistic-2026-02-08.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-08
+
+### P3: Write article on consciousness and social cognition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How consciousness enables understanding of other minds—theory of mind, empathy, joint attention—and what this reveals about consciousness's nature. The baseline cognition work suggests great apes have limited theory of mind; exploring why could strengthen the Map's case for bidirectional interaction. See optimistic-2026-02-08.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-08
+
+### P3: Create concept page for moral-phenomenology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The phenomenology-of-moral-experience article introduces moral perception, felt obligation, and moral admiration as distinct phenomenal states. A concept page defining moral phenomenology as a category would anchor cross-references from ethics-of-consciousness, meaning-of-life, and consciousness-value-connection. See optimistic-2026-02-08.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-08
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Reduce quantum overemphasis in binding-problem.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found quantum binding material dominates ~1/3 of the article and violates writing style guide warnings about quantum mechanism overemphasis. The claim "current evidence favours quantum binding" overstates the evidential situation. Reduce quantum section, strengthen alternative approaches, and recalibrate confidence language. See pessimistic-2026-02-06-afternoon.md
+- **Output**: obsidian/concepts/binding-problem.md
+
+Task context:
+Pessimistic review found quantum binding material dominates ~1/3 of the article and violates writing style guide warnings about quantum mechanism overemphasis. The claim "current evidence favours quantum binding" overstates the evidential situation. Reduce quantum section, strengthen alternative approaches, and recalibrate confidence language. See pessimistic-2026-02-06-afternoon.md
 
 ### ✓ 2026-02-08: Write article on phenomenal value realism
 - **Type**: expand-topic

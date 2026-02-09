@@ -68,14 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
-### P3: Write article on phenomenal value realism
-- **Type**: expand-topic
-- **Status**: done
-- **Notes**: Suggested by optimistic review 2026-01-31 (evening). The metaethical position that experiential qualities have intrinsic normative significance—currently referenced but not systematically developed. Grounds normative facts in irreducible phenomenal facts. Builds on epistemic-advantages-of-dualism.md (mentions it), qualia.md, aesthetic-dimension-of-consciousness.md. See optimistic-2026-01-31-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-01-31
-- **Output**: obsidian/topics/phenomenology-of-moral-experience.md
-
 ### P3: Write article on phenomenology of belief revision
 - **Type**: expand-topic
 - **Status**: pending
@@ -633,6 +625,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Write article on phenomenal value realism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-01-31 (evening). The metaethical position that experiential qualities have intrinsic normative significance—currently referenced but not systematically developed. Grounds normative facts in irreducible phenomenal facts. Builds on epistemic-advantages-of-dualism.md (mentions it), qualia.md, aesthetic-dimension-of-consciousness.md. See optimistic-2026-01-31-evening.md
+- **Output**: phenomenal value realism
 
 ### ✓ 2026-02-09: Reduce quantum overemphasis in binding-problem.md
 - **Type**: refine-draft
