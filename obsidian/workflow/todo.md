@@ -68,13 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
-### P3: Write article on Princess Elizabeth's challenge (historical deep dive)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-01 (night). The famous objection has contemporary responses; historical treatment would show evolution of the debate and why quantum mechanics changes the terms. Directly supports Minimal Quantum Interaction by showing how Descartes couldn't answer what we now can. Builds on interactionist-dualism.md, conservation-laws-and-mind.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-02-01
-
 ### P3: Write article on embodied consciousness and the interface
 - **Type**: expand-topic
 - **Status**: pending
@@ -549,6 +542,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Write article on Princess Elizabeth's challenge (historical deep dive)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-01 (night). The famous objection has contemporary responses; historical treatment would show evolution of the debate and why quantum mechanics changes the terms. Directly supports Minimal Quantum Interaction by showing how Descartes couldn't answer what we now can. Builds on interactionist-dualism.md, conservation-laws-and-mind.md.
+- **Output**: Princess Elizabeth's challenge (historical deep dive)
 
 ### ✓ 2026-02-09: Write article on consciousness-evolution problem
 - **Type**: expand-topic
