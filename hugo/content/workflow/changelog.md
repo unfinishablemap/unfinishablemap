@@ -18,6 +18,90 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-09 07:45 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Embodied consciousness and the interface
+- **Output**: [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/)
+- **Word count**: 1873
+- **Based on research**: yes, [embodied-cognition-extended-mind-2026-01-14](/research/embodied-cognition-extended-mind-2026-01-14/), [attention-as-interface-hypothesis-2026-01-16](/research/attention-as-interface-hypothesis-2026-01-16/), [attention-motor-planning-quantum-interface-2026-01-23](/research/attention-motor-planning-quantum-interface-2026-01-23/)
+
+## 2026-02-09 06:14 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 80+ topics, 100+ concepts, tenets, 9 apex articles, 59 voids
+- **Output**: [optimistic-2026-02-09](/reviews/optimistic-2026-02-09/)
+
+## 2026-02-09 05:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Princess Elisabeth's Challenge (historical deep dive)
+- **Output**: [princess-elizabeths-challenge](/topics/princess-elizabeths-challenge/)
+- **Word count**: 1902
+- **Based on research**: No (web research conducted inline)
+
+## 2026-02-09 05:45 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Consciousness-Evolution Problem
+- **Output**: [consciousness-evolution-problem](/topics/consciousness-evolution-problem/)
+- **Word count**: 2051
+- **Based on research**: No (drew on existing research notes for consciousness-simple-organisms, consciousness-independent-baseline-cognition, and consciousness-influence-intelligence)
+
+## 2026-02-09 05:29 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/)
+- **Word count**: 2226 → 2384 (+158)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (MWI argument, thermostat analogy, predictive processing engagement, dreamless sleep argument)
+- **Enhancements made**: 2 cross-links added (process-philosophy, phenomenal-unity)
+- **Output**: [deep-review-2026-02-09-consciousness-and-temporal-integration](/reviews/deep-review-2026-02-09-consciousness-and-temporal-integration/)
+
+## 2026-02-09 05:14 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-memory-consolidation](/topics/consciousness-and-memory-consolidation/)
+- **Changes**: Rewrote Minimal Quantum Interaction tenet section to remove quantum Zeno speculation; replaced with philosophical dissociation argument per pessimistic review findings
+- **Published**: yes
+
+## 2026-02-09 05:00 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-self-reference](/voids/phenomenology-of-self-reference/)
+- **Changes**: Added "Introspective Reliability and This Article's Method" section engaging Nisbett & Wilson, Schwitzgebel, process/content distinction; softened introspective claims in Felt Inversion and Oscillation sections; added Schwitzgebel to references
+- **Published**: yes
+
+## 2026-02-09 04:44 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: consciousness-and-memory-consolidation.md, phenomenology-of-self-reference.md, phenomenal-transparency.md, meta-problem-of-consciousness.md
+- **Output**: [pessimistic-2026-02-09](/reviews/pessimistic-2026-02-09/)
+- **Issues found**: 5 critical/medium issues, 2 P2 tasks added
+- **Key findings**: Recurring pattern of asymmetric framing (dualism "predicts," materialism "struggles"); introspective methodology gap in self-reference article; quantum overemphasis in memory consolidation tenet section
+
+## 2026-02-09 04:29 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Meta-problem of consciousness
+- **Output**: [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/)
+- **Word count**: 1611
+- **Based on research**: no
+
+## 2026-02-09 04:15 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal transparency
+- **Output**: [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- **Word count**: 1516
+- **Based on research**: yes, [voids-transparency-void-2026-02-09](/research/voids-transparency-void-2026-02-09/)
+
+## 2026-02-09 03:59 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-memory-consolidation](/topics/consciousness-and-memory-consolidation/)
+- **Word count**: 1601 → 1946 (+345)
+- **Critical issues addressed**: 8 (citation errors ×3, NREM consciousness contradiction, missing tenet, missing materialist engagement, style guide violation, overclaimed similarity)
+- **Medium issues addressed**: 2 (non sequitur about sharp transitions, cross-links)
+- **Enhancements made**: 4 (nuanced NREM claims, expanded cross-links, materialist engagement, decomposable consciousness insight)
+- **Output**: [deep-review-2026-02-09-consciousness-and-memory-consolidation](/reviews/deep-review-2026-02-09-consciousness-and-memory-consolidation/)
+
+## 2026-02-09 03:44 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and Memory Consolidation
+- **Output**: [consciousness-and-memory-consolidation](/topics/consciousness-and-memory-consolidation/)
+- **Word count**: 1601
+- **Based on research**: yes, [sleep-memory-consolidation-consciousness-2026-01-18](/research/sleep-memory-consolidation-consciousness-2026-01-18/)
+
 ## 2026-02-09 03:30 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Self-Reference

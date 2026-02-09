@@ -69,55 +69,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
-### P3: Write article on phenomenology of self-reference
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-01 (evening). What is it like to think about thinking? The peculiar phenomenology of self-reference, Hofstadter's strange loops, and why recursion might require consciousness. Builds on language-recursion-and-consciousness.md, metarepresentation.md, metacognition.md. See optimistic-2026-02-01-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-01
-
-### P3: Write article on consciousness and memory consolidation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-01 (evening). Does consciousness participate in memory consolidation during sleep? The quantum Zeno mechanism during REM. Why dreams feel conscious. Interface activity during non-waking states. Builds on episodic-memory.md, working-memory.md, dreams-and-consciousness.md. See optimistic-2026-02-01-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-01
-
-### P3: Create concept page for phenomenal transparency
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-01 (evening). The property that experience seems to be directly about the world rather than about neural states. Mentioned in several articles but not defined. Relevant to why physicalism seems intuitive despite being wrong. See optimistic-2026-02-01-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-01
-
-### P3: Create concept page for meta-problem of consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-01 (evening). Chalmers's 2018 proposal—why do we think there's a hard problem? The Map discusses the hard problem extensively but doesn't engage this reflexive challenge. See optimistic-2026-02-01-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-01
-
-### P3: Write article on consciousness-evolution problem
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-01 (night). How could non-physical consciousness evolve through natural selection if it influences physical outcomes? The site alludes to this but hasn't treated it systematically. If consciousness is causally efficacious (Bidirectional Interaction), evolution could select for it; needs explicit treatment. Builds on evolution-of-consciousness.md, tenets.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-02-01
-
-### P3: Write article on Princess Elizabeth's challenge (historical deep dive)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-01 (night). The famous objection has contemporary responses; historical treatment would show evolution of the debate and why quantum mechanics changes the terms. Directly supports Minimal Quantum Interaction by showing how Descartes couldn't answer what we now can. Builds on interactionist-dualism.md, conservation-laws-and-mind.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-02-01
-
-### P3: Write article on embodied consciousness and the interface
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-01 (night). How does the filter/interface model accommodate embodied cognition insights? The body shapes consciousness—is this compatible with dualism? Shows dualism can accommodate embodied insights without reducing to them. Builds on embodied-cognition.md, attention-as-interface.md, filter-theory.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-02-01
-
 ### P3: Write article comparing quantum consciousness mechanisms
 - **Type**: expand-topic
 - **Status**: pending
@@ -300,12 +251,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
 
-### P3: Create concept page for phenomenal transparency
+### ✓ 2026-02-09: Create concept page for phenomenal transparency
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: complete (duplicate of earlier task)
 - **Notes**: Suggested by optimistic review 2026-02-02 (evening). The property that experience seems to be directly about the world. Mentioned in several articles but not defined. Relevant to why naive realism seems intuitive. See optimistic-2026-02-02-evening.md
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
+- **Output**: [phenomenal-transparency](/concepts/phenomenal-transparency/)
 
 ### P3: Create concept page for conceivability-possibility inference
 - **Type**: expand-topic
@@ -582,8 +534,87 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-08
 
+### P3: Write article on the placebo effect and mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The placebo effect provides one of the most widely replicated demonstrations of mind-body causation. Unlike motor imagery (where physicalists can argue neural rehearsal does the work), placebos show that propositional attitudes—beliefs about treatment—produce specific physiological changes. Harder for epiphenomenalism to explain: semantic content determines which system responds. Builds on choking-phenomenon-mental-causation.md, mental-imagery.md, psychophysical-laws.md. See optimistic-2026-02-09.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-09
+
+### P3: Write article on Elisabeth's contemporaries and the interaction debate
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Elisabeth influenced and was influenced by Leibniz, Malebranche, Conway, and others. The early modern response to the interaction problem generated multiple solutions (pre-established harmony, occasionalism, Conway's monism) that map instructively onto contemporary options. Companion piece to princess-elizabeths-challenge.md. Builds on history-of-interactionist-dualism.md, conservation-laws-and-mind.md. See optimistic-2026-02-09.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-09
+
+### P3: Write article on consciousness and pain
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Pain as the paradigmatic hard problem case—pain asymbolia, phantom limb, congenital insensitivity, and placebo/nocebo effects demonstrate pain has phenomenal properties dissociable from neural correlates. The moral dimension (suffering as irreducible phenomenal reality) connects to phenomenal-value-realism.md. Builds on hard-problem-of-consciousness.md, emotional-consciousness.md, phenomenology-of-moral-experience.md. See optimistic-2026-02-09.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-09
+
+### P3: Create concept page for anoetic/noetic/autonoetic consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Tulving's hierarchy is now referenced in three articles (consciousness-and-memory, the-self, consciousness-and-memory-consolidation) but lacks its own concept page. Given its centrality to the Map's arguments about memory, temporal integration, and the self, a dedicated page would serve as reference point and prevent repetitive exposition. See optimistic-2026-02-09.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-09
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Write article on embodied consciousness and the interface
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-01 (night). How does the filter/interface model accommodate embodied cognition insights? The body shapes consciousness—is this compatible with dualism? Shows dualism can accommodate embodied insights without reducing to them. Builds on embodied-cognition.md, attention-as-interface.md, filter-theory.md.
+- **Output**: embodied consciousness and the interface
+
+### ✓ 2026-02-09: Write article on Princess Elizabeth's challenge (historical deep dive)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-01 (night). The famous objection has contemporary responses; historical treatment would show evolution of the debate and why quantum mechanics changes the terms. Directly supports Minimal Quantum Interaction by showing how Descartes couldn't answer what we now can. Builds on interactionist-dualism.md, conservation-laws-and-mind.md.
+- **Output**: Princess Elizabeth's challenge (historical deep dive)
+
+### ✓ 2026-02-09: Write article on consciousness-evolution problem
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-01 (night). How could non-physical consciousness evolve through natural selection if it influences physical outcomes? The site alludes to this but hasn't treated it systematically. If consciousness is causally efficacious (Bidirectional Interaction), evolution could select for it; needs explicit treatment. Builds on evolution-of-consciousness.md, tenets.md.
+- **Output**: consciousness-evolution problem
+
+### ✓ 2026-02-09: Reduce quantum speculation in consciousness-and-memory-consolidation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-09) found the Minimal Quantum Interaction tenet section introduces quantum Zeno speculation with no evidence and no mechanism connecting femtosecond quantum coherence to seconds-long sleep oscillations. Violates writing style guide on quantum overemphasis. Reduce to brief mention; strengthen the purely philosophical dissociation argument. See pessimistic-2026-02-09.md
+- **Output**: obsidian/topics/consciousness-and-memory-consolidation.md
+
+Task context:
+Pessimistic review (2026-02-09) found the Minimal Quantum Interaction tenet section introduces quantum Zeno speculation with no evidence and no mechanism connecting femtosecond quantum coherence to seconds-long sleep oscillations. Violates writing style guide on quantum overemphasis. Reduce to brief mention; strengthen the purely philosophical dissociation argument. See pessimistic-2026-02-09.md
+
+### ✓ 2026-02-09: Address introspective methodology gap in phenomenology-of-self-reference.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-09) found the article treats introspective reports as data without engaging methodological concerns. It cites Nisbett & Wilson (1977) in references but never addresses implications for its own methodology. Add section on introspective reliability, engage process/content distinction, address Schwitzgebel's critiques. See pessimistic-2026-02-09.md
+- **Output**: obsidian/voids/phenomenology-of-self-reference.md
+
+Task context:
+Pessimistic review (2026-02-09) found the article treats introspective reports as data without engaging methodological concerns. It cites Nisbett & Wilson (1977) in references but never addresses implications for its own methodology. Add section on introspective reliability, engage process/content distinction, address Schwitzgebel's critiques. See pessimistic-2026-02-09.md
+
+### ✓ 2026-02-09: Create concept page for meta-problem of consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-01 (evening). Chalmers's 2018 proposal—why do we think there's a hard problem? The Map discusses the hard problem extensively but doesn't engage this reflexive challenge. See optimistic-2026-02-01-evening.md
+- **Output**: Create concept page for meta-problem of consciousness
+
+### ✓ 2026-02-09: Create concept page for phenomenal transparency
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-01 (evening). The property that experience seems to be directly about the world rather than about neural states. Mentioned in several articles but not defined. Relevant to why physicalism seems intuitive despite being wrong. See optimistic-2026-02-01-evening.md
+- **Output**: Create concept page for phenomenal transparency
+
+### ✓ 2026-02-09: Write article on consciousness and memory consolidation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-01 (evening). Does consciousness participate in memory consolidation during sleep? The quantum Zeno mechanism during REM. Why dreams feel conscious. Interface activity during non-waking states. Builds on episodic-memory.md, working-memory.md, dreams-and-consciousness.md. See optimistic-2026-02-01-evening.md
+- **Output**: consciousness and memory consolidation
+
+### ✓ 2026-02-09: Write article on phenomenology of self-reference
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-01 (evening). What is it like to think about thinking? The peculiar phenomenology of self-reference, Hofstadter's strange loops, and why recursion might require consciousness. Builds on language-recursion-and-consciousness.md, metarepresentation.md, metacognition.md. See optimistic-2026-02-01-evening.md
+- **Output**: phenomenology of self-reference
 
 ### ✓ 2026-02-09: Write article on consciousness and emergence
 - **Type**: expand-topic

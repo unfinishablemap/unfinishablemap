@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-09 01:44:00+00:00
+ai_modified: 2026-02-09 05:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,6 +28,7 @@ description: How consciousness binds moments into unified temporal experience. S
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-09 05:29:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,7 +44,7 @@ topics:
 
 Consciousness faces two integration challenges that are often conflated but are structurally distinct. The Unfinishable Map's treatment of the [binding-problem](/concepts/binding-problem/) examines the first: how features distributed across brain regions unite into a single experience at a given moment. This article examines the second: how consciousness binds moments themselves into a unified temporal stream. Spatial binding asks why you experience a red ball rather than separate redness and roundness. Temporal integration asks why you experience a melody rather than isolated notes—why experience flows rather than stuttering through disconnected instants.
 
-Temporal integration is arguably the deeper problem. A system that solved spatial binding without temporal integration would produce isolated snapshots of unified experience—vivid but unconnected, like photographs without a narrative. What makes consciousness a *stream* rather than a slideshow is temporal integration: each moment inherits from its predecessors and anticipates its successors, constituting the continuity that makes experience coherent.
+Temporal integration is arguably the deeper problem. A system that solved spatial binding without temporal integration would produce isolated snapshots of unified experience—vivid but unconnected, like photographs without a narrative. What makes consciousness a *stream* rather than a slideshow is temporal integration: each moment inherits from its predecessors and anticipates its successors, constituting the [continuity](/concepts/phenomenal-unity/) that makes experience coherent.
 
 ## The Distinction from Spatial Binding
 
@@ -85,7 +86,7 @@ This creates a paradox that spatial binding avoids. How can experience contain w
 
 **The extensional answer**: Experience is genuinely temporally extended. It doesn't represent the past—it literally spans time, having temporal parts as spatial objects have spatial parts. The paradox evaporates because elements *do* co-exist: they're parts of a single extended experience. But this raises its own puzzle: what distinguishes an extended experience from a sequence of momentary ones?
 
-**The processual answer**: Drawing on [Whitehead](/concepts/process-philosophy/), each moment of experience ("actual occasion") *prehends* its predecessors—inheriting their actuality, not merely representing it. The past genuinely shapes the present not through representation but through causal inheritance. This avoids the representation problem but faces the [combination-problem](/concepts/combination-problem/): what makes inheritance feel like being the *same* subject rather than reading a predecessor's diary?
+**The processual answer**: Drawing on [Whitehead's process metaphysics](/concepts/process-philosophy/), each moment of experience ("actual occasion") *prehends* its predecessors—inheriting their actuality, not merely representing it. The past genuinely shapes the present not through representation but through causal inheritance. This avoids the representation problem but faces the [combination-problem](/concepts/combination-problem/): what makes inheritance feel like being the *same* subject rather than reading a predecessor's diary?
 
 ## The Missing Link Problem
 
@@ -93,9 +94,9 @@ Kent and Wittmann (2021) identify temporal integration as a critical gap in lead
 
 This gap is significant. A theory that explains only individual moments of consciousness without explaining their temporal integration is like a theory of language that explains individual words without explaining sentences. The combinatorial structure—how elements compose into larger wholes—is where meaning lives.
 
-The most sophisticated response invokes predictive processing: temporal integration emerges from prediction errors propagating through hierarchical neural systems. Each processing level predicts the next moment's input; mismatches propagate upward, creating a sense of temporal flow as predictions are continuously updated. This handles the functional side: it explains *when* integration occurs and *what content* gets integrated.
+The most sophisticated response invokes predictive processing: temporal integration emerges from prediction errors propagating through hierarchical neural systems. Each processing level predicts the next moment's input; mismatches propagate upward, creating a sense of temporal flow as predictions are continuously updated. This is a genuine advance—it explains *when* integration occurs, *what content* gets integrated, and why disruptions to predictive hierarchies (as in schizophrenia) correlate with temporal disintegration.
 
-But the phenomenological question persists: why does successful prediction feel like flow rather than simply producing correct outputs? A thermostat predicts and adjusts; it doesn't experience continuity. The [explanatory-gap](/concepts/explanatory-gap/) applies to temporal integration with particular force, because what needs explaining isn't a state but a process—not what experience *is* at a moment but how moments *become* a stream.
+But the phenomenological question persists. Predictive processing explains functional temporal tracking with impressive precision. What it doesn't explain is why successful prediction feels like flow rather than simply producing correct outputs. This isn't the naive objection that simple devices lack experience—a hierarchical predictive system is vastly more complex than a thermostat. The objection is that the explanatory resources of prediction error minimisation are *functional* resources, and temporal integration has a phenomenal character that functional description leaves out. The [explanatory-gap](/concepts/explanatory-gap/) applies to temporal integration with particular force, because what needs explaining isn't a state but a process—not what experience *is* at a moment but how moments *become* a stream.
 
 ## Temporal Integration and Collapse
 
@@ -115,7 +116,7 @@ Pathological cases illuminate temporal integration by showing what happens when 
 
 **Absorption states** (flow, deep meditation) report altered temporal integration: time seems to speed up, slow down, or lose its salience. These aren't temporal illusions in the usual sense—the clock hasn't changed—but alterations in how moments bind to each other. In deep absorption, each moment may be intensely vivid yet loosely connected to its neighbours, producing the paradox of "timelessness" within ongoing experience.
 
-**Dreamless sleep** eliminates temporal integration entirely. Hours pass with no experienced succession—not compressed or distorted, simply absent. If temporal integration were merely information processing, some residual temporal experience should persist during NREM sleep (the brain remains computationally active). Its complete absence supports the Map's view that computation and temporal experience are distinct.
+**Dreamless sleep** eliminates temporal integration entirely. Hours pass with no experienced succession—not compressed or distorted, simply absent. A physicalist can reply that NREM sleep dramatically reduces cortical complexity (as measured by the perturbational complexity index), so the loss of temporal integration tracks the loss of integrated neural processing. The Map's response: this correlation is expected on *any* theory. What matters is whether reduced complexity *explains* the disappearance of temporal experience or merely *correlates* with it. The brain during NREM still performs substantial computation—memory consolidation, synaptic homeostasis—yet temporal experience is entirely absent, not merely reduced.
 
 ## Implications for Artificial Consciousness
 
@@ -139,7 +140,7 @@ Temporal integration connects to the Map's [tenets](/tenets/) through a distinct
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Temporal integration provides the substrate for agency. Choosing requires retaining options considered and protending toward outcomes anticipated. Without temporal integration, there could be no deliberation—no holding possibilities open while moving toward resolution. The phenomenology of decision presupposes temporal integration.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Temporal integration requires a single temporal thread. In many-worlds, experience would branch at every quantum event, fragmenting temporal continuity across parallel timelines. The coherence of temporal integration—retention inheriting from a definite, singular past—suggests collapse produces one timeline rather than branching into many.
+**[No Many Worlds](/tenets/#no-many-worlds)**: An MWI defender will note that each branch-inhabitant experiences a single thread—branching is invisible from within. The challenge is subtler than fragmentation. In MWI, temporal integration must work identically in every branch, making it a purely physical process with no role for consciousness. If collapse plays no part in constituting temporal structure, temporal integration reduces to information processing—precisely the view the explanatory gap challenges. The coherence of temporal integration—retention inheriting from a definite, singular past—fits more naturally with collapse producing one timeline than with deterministic branching where the sense of openness in protention is illusory.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The "simpler" hypothesis—that temporal integration reduces to information processing across successive computational steps—hasn't been shown to work. Temporal integration has phenomenal richness (the qualitative difference between retention, impression, and protention; the felt asymmetry of past and future; the experience of flow) that resists simplification.
 
