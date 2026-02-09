@@ -17,6 +17,18 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-09 00:30 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/binding-problem]]
+- **Changes**: Reduced quantum section from ~600 words to ~200 words; strengthened Phenomenal Unity as Primitive section; recalibrated confidence language throughout; fixed overstatement "current evidence favours quantum binding"
+- **Based on**: pessimistic-2026-02-06-afternoon.md (Issues #2, #5)
+- **Published**: yes
+
+## 2026-02-08 22:59 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 73+ topics, 100+ concepts, tenets page, 9 apex articles
+- **Output**: [[reviews/optimistic-2026-02-08]]
+
 ## 2026-02-08 22:44 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Moral Experience
