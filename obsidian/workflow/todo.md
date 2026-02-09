@@ -68,13 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
-### P3: Write article on embodied consciousness and the interface
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-01 (night). How does the filter/interface model accommodate embodied cognition insights? The body shapes consciousness—is this compatible with dualism? Shows dualism can accommodate embodied insights without reducing to them. Builds on embodied-cognition.md, attention-as-interface.md, filter-theory.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-02-01
-
 ### P3: Write article comparing quantum consciousness mechanisms
 - **Type**: expand-topic
 - **Status**: pending
@@ -540,8 +533,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-08
 
+### P3: Write article on the placebo effect and mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The placebo effect provides one of the most widely replicated demonstrations of mind-body causation. Unlike motor imagery (where physicalists can argue neural rehearsal does the work), placebos show that propositional attitudes—beliefs about treatment—produce specific physiological changes. Harder for epiphenomenalism to explain: semantic content determines which system responds. Builds on choking-phenomenon-mental-causation.md, mental-imagery.md, psychophysical-laws.md. See optimistic-2026-02-09.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-09
+
+### P3: Write article on Elisabeth's contemporaries and the interaction debate
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Elisabeth influenced and was influenced by Leibniz, Malebranche, Conway, and others. The early modern response to the interaction problem generated multiple solutions (pre-established harmony, occasionalism, Conway's monism) that map instructively onto contemporary options. Companion piece to princess-elizabeths-challenge.md. Builds on history-of-interactionist-dualism.md, conservation-laws-and-mind.md. See optimistic-2026-02-09.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-09
+
+### P3: Write article on consciousness and pain
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Pain as the paradigmatic hard problem case—pain asymbolia, phantom limb, congenital insensitivity, and placebo/nocebo effects demonstrate pain has phenomenal properties dissociable from neural correlates. The moral dimension (suffering as irreducible phenomenal reality) connects to phenomenal-value-realism.md. Builds on hard-problem-of-consciousness.md, emotional-consciousness.md, phenomenology-of-moral-experience.md. See optimistic-2026-02-09.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-09
+
+### P3: Create concept page for anoetic/noetic/autonoetic consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Tulving's hierarchy is now referenced in three articles (consciousness-and-memory, the-self, consciousness-and-memory-consolidation) but lacks its own concept page. Given its centrality to the Map's arguments about memory, temporal integration, and the self, a dedicated page would serve as reference point and prevent repetitive exposition. See optimistic-2026-02-09.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-09
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Write article on embodied consciousness and the interface
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-01 (night). How does the filter/interface model accommodate embodied cognition insights? The body shapes consciousness—is this compatible with dualism? Shows dualism can accommodate embodied insights without reducing to them. Builds on embodied-cognition.md, attention-as-interface.md, filter-theory.md.
+- **Output**: embodied consciousness and the interface
 
 ### ✓ 2026-02-09: Write article on Princess Elizabeth's challenge (historical deep dive)
 - **Type**: expand-topic
