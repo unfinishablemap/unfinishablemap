@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address introspective methodology gap in phenomenology-of-self-reference.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-09) found the article treats introspective reports as data without engaging methodological concerns. It cites Nisbett & Wilson (1977) in references but never addresses implications for its own methodology. Add section on introspective reliability, engage process/content distinction, address Schwitzgebel's critiques. See pessimistic-2026-02-09.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-09
-
 ### P2: Reduce quantum speculation in consciousness-and-memory-consolidation.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -570,6 +563,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Address introspective methodology gap in phenomenology-of-self-reference.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-09) found the article treats introspective reports as data without engaging methodological concerns. It cites Nisbett & Wilson (1977) in references but never addresses implications for its own methodology. Add section on introspective reliability, engage process/content distinction, address Schwitzgebel's critiques. See pessimistic-2026-02-09.md
+- **Output**: obsidian/voids/phenomenology-of-self-reference.md
+
+Task context:
+Pessimistic review (2026-02-09) found the article treats introspective reports as data without engaging methodological concerns. It cites Nisbett & Wilson (1977) in references but never addresses implications for its own methodology. Add section on introspective reliability, engage process/content distinction, address Schwitzgebel's critiques. See pessimistic-2026-02-09.md
 
 ### ✓ 2026-02-09: Create concept page for meta-problem of consciousness
 - **Type**: expand-topic

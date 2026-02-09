@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-09 05:00 UTC - refine-draft
+- **Status**: Success
+- **File**: [[phenomenology-of-self-reference]]
+- **Changes**: Added "Introspective Reliability and This Article's Method" section engaging Nisbett & Wilson, Schwitzgebel, process/content distinction; softened introspective claims in Felt Inversion and Oscillation sections; added Schwitzgebel to references
+- **Published**: yes
+
 ## 2026-02-09 04:44 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: consciousness-and-memory-consolidation.md, phenomenology-of-self-reference.md, phenomenal-transparency.md, meta-problem-of-consciousness.md
