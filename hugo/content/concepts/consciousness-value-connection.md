@@ -180,7 +180,7 @@ These conditions do not currently obtain. The connection stands.
 ## Further Reading
 
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical grounding: phenomenal properties constitute value
-- [phenomenal-value-realism-development](/topics/phenomenal-value-realism-development/) — How consciousness-grounded value addresses metaethical challenges and extends to pluralism
+- [Phenomenal Value Realism (Topic)](/concepts/phenomenal-value-realism/) — How consciousness-grounded value addresses metaethical challenges and extends to pluralism
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness-grounded value provides meaning
 - [emotional-consciousness](/archive/concepts/emotional-consciousness/) — Valence as the phenomenal dimension of good and bad
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of the consciousness-value connection

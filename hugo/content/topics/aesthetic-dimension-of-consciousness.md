@@ -29,7 +29,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[contemplative-evidence-for-consciousness-theories]]'
-- '[[phenomenal-value-realism-development]]'
+- '[[phenomenal-value-realism]]'
 title: The Aesthetic Dimension of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
