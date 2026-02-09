@@ -30,6 +30,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review: 2026-02-09T03:59:00+00:00
+archived: true
+archived_date: 2026-02-09T19:01:00+00:00
+superseded_by: "/topics/consciousness-and-memory/"
+archive_reason: "Coalesced into Consciousness and Memory"
+original_path: "/topics/consciousness-and-memory-consolidation/"
 ---
 
 The Unfinishable Map argues that memory consolidation—the process by which the brain stabilises and reorganises memories during sleep—provides a natural experiment in what happens when consciousness disengages from neural processing. During NREM slow-wave sleep, the hippocampus replays recent experiences through sharp-wave ripples coordinated with thalamocortical spindles and cortical slow oscillations, gradually transferring memory traces to long-term cortical storage. This process is computationally sophisticated, involving parallel replay of multiple memory traces, cross-memory integration, and schema updating. Yet it occurs largely without conscious experience—or at least without the kind of unified, reportable experience that characterises waking awareness (up to 70% of NREM awakenings yield *some* experiential reports, but these are fragmentary and dissociated from the consolidation machinery itself). The fact that such complex binding and integration can proceed in phenomenal silence—while similar operations during waking require consciousness—marks a dissociation that dualism predicts and materialism must struggle to accommodate.
@@ -123,15 +128,3 @@ Memory consolidation during sleep speaks directly to the Map's [[tenets]].
 - Diekelmann, S. & Born, J. (2010). The memory function of sleep. *Nature Reviews Neuroscience*, 11(2), 114–126.
 - Siclari, F. et al. (2017). The neural correlates of dreaming. *Nature Neuroscience*, 20, 872–878.
 - Buzsáki, G. (2015). Hippocampal sharp wave-ripple: A cognitive biomarker for episodic memory and planning. *Hippocampus*, 25(10), 1073–1188.
-
-<!-- AI REFINEMENT LOG - 2026-02-09
-Changes made:
-- Rewrote Minimal Quantum Interaction tenet section to remove quantum Zeno/quantum selection speculation that lacked evidence and violated writing style guide on quantum overemphasis
-- Replaced mechanistic quantum explanation of serial/parallel processing shift with philosophical dissociation argument: the brain has a fully autonomous processing mode that doesn't require non-physical contribution
-- No other sections required changes; article otherwise complies with style guide
-
-Based on pessimistic review flagging quantum overemphasis in tenet section.
-Key improvements: Tenet section now makes a defensible philosophical point rather than speculative quantum mechanism claim.
-
-This log should be removed after human review.
--->
