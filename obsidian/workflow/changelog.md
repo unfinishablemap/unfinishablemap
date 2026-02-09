@@ -17,6 +17,20 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-09 11:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Neural bandwidth constraints and the interface
+- **Output**: [[neural-bandwidth-constraints-and-the-interface]]
+- **Word count**: 2117
+- **Based on research**: no
+
+## 2026-02-09 10:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal conservatism and introspective evidence
+- **Output**: [[phenomenal-conservatism-and-introspective-evidence]]
+- **Word count**: 1884
+- **Based on research**: yes, [[introspection-reliability-first-person-2026-01-15]]
+
 ## 2026-02-09 10:06 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Void as Ground of Meaning
