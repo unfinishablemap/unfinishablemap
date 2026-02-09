@@ -68,13 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
-### P3: Write article on consciousness and memory consolidation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-01 (evening). Does consciousness participate in memory consolidation during sleep? The quantum Zeno mechanism during REM. Why dreams feel conscious. Interface activity during non-waking states. Builds on episodic-memory.md, working-memory.md, dreams-and-consciousness.md. See optimistic-2026-02-01-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-01
-
 ### P3: Create concept page for phenomenal transparency
 - **Type**: expand-topic
 - **Status**: pending
@@ -576,6 +569,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Write article on consciousness and memory consolidation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-01 (evening). Does consciousness participate in memory consolidation during sleep? The quantum Zeno mechanism during REM. Why dreams feel conscious. Interface activity during non-waking states. Builds on episodic-memory.md, working-memory.md, dreams-and-consciousness.md. See optimistic-2026-02-01-evening.md
+- **Output**: consciousness and memory consolidation
 
 ### ✓ 2026-02-09: Write article on phenomenology of self-reference
 - **Type**: expand-topic
