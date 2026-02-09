@@ -68,13 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-05
 - **Output**: obsidian/concepts/simulation.md, obsidian/concepts/knowledge-argument.md, obsidian/topics/ethics-of-consciousness.md
 
-### P3: Write article on contemplative verification of consciousness theories
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02. Develop detailed predictions about what meditation *should* reveal if various consciousness theories are true. If Stapp is right about quantum Zeno, what should meditators report about attention's effort structure? If consciousness is irreducible, what should happen to phenomenal access under sustained attention? Compare predictions to actual contemplative reports. Builds on contemplative-evidence-for-consciousness-theories.md, phenomenological-evidence-methodology.md, witness-consciousness.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
 ### P3: Write article on phenomenology of anticipation (protention)
 - **Type**: expand-topic
 - **Status**: pending
@@ -556,6 +549,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Write article on contemplative verification of consciousness theories
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02. Develop detailed predictions about what meditation *should* reveal if various consciousness theories are true. If Stapp is right about quantum Zeno, what should meditators report about attention's effort structure? If consciousness is irreducible, what should happen to phenomenal access under sustained attention? Compare predictions to actual contemplative reports. Builds on contemplative-evidence-for-consciousness-theories.md, phenomenological-evidence-methodology.md, witness-consciousness.md.
+- **Output**: contemplative verification of consciousness theories
 
 ### ✓ 2026-02-09: Write article comparing quantum consciousness mechanisms
 - **Type**: expand-topic
