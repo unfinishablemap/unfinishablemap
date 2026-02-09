@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-09 13:35 UTC - refine-draft
+- **Status**: Success
+- **File**: [[phenomenal-conservatism-and-introspective-evidence]]
+- **Changes**: Fixed acquaintance/metaphysical-insight conflation (high severity from pessimistic-2026-02-09b), removed mischaracterised Fox et al. 2012 citation, systematically replaced "irreducible" language with "qualitative character" to maintain phenomenal/metaphysical distinction, added nuance to cognitive penetration and Schwitzgebel responses
+- **Published**: yes
+
 ## 2026-02-09 13:21 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: the-interface-location-problem.md, consciousness-evolution-problem.md, princess-elizabeths-challenge.md, phenomenal-conservatism-and-introspective-evidence.md, phenomenology-of-belief-revision.md

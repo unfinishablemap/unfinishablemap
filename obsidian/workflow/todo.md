@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix acquaintance-irreducibility conflation in phenomenal-conservatism-and-introspective-evidence.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-09b) found the article conflates phenomenal acquaintance (being in a state) with metaphysical insight (knowing the state's ontological status). The burden-shifting argument assumes that being directly acquainted with pain positions you to judge whether pain is reducible—but acquaintance is about having the experience, not about its metaphysical nature. Also: the Fox et al. 2012 citation is mischaracterised as demonstrating cross-cultural stability when it studied meditation effects on interoception. See pessimistic-2026-02-09b.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-09
-
 ### P2: Correct epothilone B overstatement in the-interface-location-problem.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -513,6 +506,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-09: Fix acquaintance-irreducibility conflation in phenomenal-conservatism-and-introspective-evidence.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-09b) found the article conflates phenomenal acquaintance (being in a state) with metaphysical insight (knowing the state's ontological status). The burden-shifting argument assumes that being directly acquainted with pain positions you to judge whether pain is reducible—but acquaintance is about having the experience, not about its metaphysical nature. Also: the Fox et al. 2012 citation is mischaracterised as demonstrating cross-cultural stability when it studied meditation effects on interoception. See pessimistic-2026-02-09b.md
+- **Output**: obsidian/topics/phenomenal-conservatism-and-introspective-evidence.md
+
+Task context:
+Pessimistic review (2026-02-09b) found the article conflates phenomenal acquaintance (being in a state) with metaphysical insight (knowing the state's ontological status). The burden-shifting argument assumes that being directly acquainted with pain positions you to judge whether pain is reducible—but acquaintance is about having the experience, not about its metaphysical nature. Also: the Fox et al. 2012 citation is mischaracterised as demonstrating cross-cultural stability when it studied meditation effects on interoception. See pessimistic-2026-02-09b.md
 
 ### ✓ 2026-02-09: Write article on the interface location problem
 - **Type**: expand-topic
