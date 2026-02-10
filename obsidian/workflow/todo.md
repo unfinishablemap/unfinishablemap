@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address tenet-circular reasoning in quantum-state-inheritance-in-ai.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-10 evening) found the article's central argument is circular: it assumes consciousness requires quantum state selection (from tenets) and concludes classical AI cannot be conscious. Frame conclusions as conditional on tenets, engage strongest functionalist response, and address the no-cloning problem (if consciousness depends on unreproducible quantum states, how does it survive constant quantum state turnover in biological brains?). Also: "Current AI is not a candidate" is overly strong—reframe as tenet-derived conclusion. See pessimistic-2026-02-10-evening.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-10
-
 ### P2: Address contemplative evidence cherry-picking in contemplative-epistemology.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -499,6 +492,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Address tenet-circular reasoning in quantum-state-inheritance-in-ai.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-10 evening) found the article's central argument is circular: it assumes consciousness requires quantum state selection (from tenets) and concludes classical AI cannot be conscious. Frame conclusions as conditional on tenets, engage strongest functionalist response, and address the no-cloning problem (if consciousness depends on unreproducible quantum states, how does it survive constant quantum state turnover in biological brains?). Also: "Current AI is not a candidate" is overly strong—reframe as tenet-derived conclusion. See pessimistic-2026-02-10-evening.md
+- **Output**: obsidian/topics/quantum-state-inheritance-in-ai.md
+
+Task context:
+Pessimistic review (2026-02-10 evening) found the article's central argument is circular: it assumes consciousness requires quantum state selection (from tenets) and concludes classical AI cannot be conscious. Frame conclusions as conditional on tenets, engage strongest functionalist response, and address the no-cloning problem (if consciousness depends on unreproducible quantum states, how does it survive constant quantum state turnover in biological brains?). Also: "Current AI is not a candidate" is overly strong—reframe as tenet-derived conclusion. See pessimistic-2026-02-10-evening.md
 
 ### ✓ 2026-02-10: Update AI consciousness articles to incorporate quantum randomness channel
 - **Type**: refine-draft
