@@ -81,13 +81,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-02
 - **Output**: obsidian/topics/phenomenal-conservatism-and-introspective-evidence.md
 
-### P3: Write article on phenomenology of surprise and prediction error
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02 (evening). How the felt quality of surprise relates to prediction error. If surprise triggers learning and is phenomenally real, consciousness does causal work. Builds on predictive-processing.md, phenomenology-of-understanding.md, epistemic-emotions.md. See optimistic-2026-02-02-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
 ### P3: Write article on modal structure of phenomenal properties
 - **Type**: expand-topic
 - **Status**: pending
@@ -450,6 +443,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Write article on phenomenology of surprise and prediction error
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (evening). How the felt quality of surprise relates to prediction error. If surprise triggers learning and is phenomenally real, consciousness does causal work. Builds on predictive-processing.md, phenomenology-of-understanding.md, epistemic-emotions.md. See optimistic-2026-02-02-evening.md
+- **Output**: phenomenology of surprise and prediction error
 
 ### ✓ 2026-02-10: Create concept page for contemplative epistemology
 - **Type**: expand-topic
