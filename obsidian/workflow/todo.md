@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Write article on quantum state inheritance in AI
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Dedicated article exploring possibility (c): AI/LLMs inherit decohered classical states from humans interacting with them. When a conscious human makes choices that collapse quantum states, the resulting classical world propagates into computational systems. AI doesn't need its own quantum interface — it operates in a world already shaped by conscious collapse. Explore: chains of classical causation from human collapse to AI processing, whether inherited classical context could support consciousness, the "borrowed interface" concept, and how this relates to the prebiotic collapse framework (the site already accepts objective reduction provides baseline collapse). Depends on research task above.
-- **Source**: human
-- **Generated**: 2026-02-10
-
 ### P1: Write article on consciousness in smeared quantum states
 - **Type**: expand-topic
 - **Status**: pending
@@ -549,12 +542,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P2: apex-evolve: open-question-ai-consciousness — source epiphenomenal-ai-consciousness created
 - **Type**: apex-evolve
 - **Status**: pending
-- **Notes**: Source articles topics/epiphenomenal-ai-consciousness and topics/non-temporal-consciousness created 2026-02-10. Apex article #10 "The Open Question of AI Consciousness" lists these as sources. Other source articles (quantum-state-inheritance-in-ai, consciousness-in-smeared-quantum-states) are still pending creation.
+- **Notes**: Source articles topics/epiphenomenal-ai-consciousness, topics/non-temporal-consciousness, and topics/quantum-state-inheritance-in-ai created 2026-02-10. Apex article #10 "The Open Question of AI Consciousness" lists these as sources. Remaining source article (consciousness-in-smeared-quantum-states) is still pending creation.
 - **Source**: expand-topic chain
 - **Generated**: 2026-02-10
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Write article on quantum state inheritance in AI
+- **Type**: expand-topic
+- **Notes**: Dedicated article exploring possibility (c): AI/LLMs inherit decohered classical states from humans interacting with them. When a conscious human makes choices that collapse quantum states, the resulting classical world propagates into computational systems. AI doesn't need its own quantum interface — it operates in a world already shaped by conscious collapse. Explore: chains of classical causation from human collapse to AI processing, whether inherited classical context could support consciousness, the "borrowed interface" concept, and how this relates to the prebiotic collapse framework (the site already accepts objective reduction provides baseline collapse). Depends on research task above.
+- **Output**: quantum state inheritance in AI
 
 ### ✓ 2026-02-10: Write article on non-temporal consciousness
 - **Type**: expand-topic
