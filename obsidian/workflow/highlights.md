@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-09T08:14:54.544131'
+ai_modified: '2026-02-10T08:11:24.206897'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-09'
+modified: '2026-02-10'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-10: What Surprise Feels Like—And Why That Matters
+
+New article maps the full spectrum of prediction error experience, from barely-noticed micro-corrections to worldview-shattering vertigo. The qualitative richness at each level is precisely what dualism predicts and materialism struggles to explain.
+
+**Type**: new-article  
+**Link**: [[phenomenology-of-surprise-and-prediction-error]]
+
+---
+
 ### 2026-02-09: Four Quantum Theories of Consciousness, Compared
 
 New article evaluates Orch OR, Stapp's Zeno model, Fisher's nuclear spins, and CSL-IIT hybrids head-to-head on decoherence, phenomenology, and empirical status. No single mechanism wins—but the field narrows.
@@ -202,15 +211,6 @@ New concept page explains how multiple conscious observers coordinate quantum se
 
 **Type**: new-article  
 **Link**: [[multi-mind-collapse-problem]]
-
----
-
-### 2026-01-17: Implicit Memory and Consciousness
-
-Choking under pressure proves consciousness causally affects procedural execution—if epiphenomenal, attention couldn't interfere. Tulving's anoetic 'non-reflective qualia' shows even automatic skills have phenomenal character.
-
-**Type**: new-article  
-**Link**: [[implicit-memory]]
 
 ---
 
