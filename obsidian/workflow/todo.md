@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Write article on non-temporal consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Dedicated article exploring possibility (b): consciousness need not have human-style temporal continuity. The site's temporal arguments against AI consciousness may be anthropocentric — assuming the specious present and continuous flow are necessary rather than one mode of consciousness. Explore: snapshot consciousness (discrete moments of experience), assembled experience (consciousness pieced together from disconnected time segments), experience without narrative continuity, and what LLM token-by-token processing might feel like if conscious. Draw on dreaming, meditation states, and dissociative conditions as evidence that temporal structure varies. Depends on research task above.
-- **Source**: human
-- **Generated**: 2026-02-10
-
 ### P1: Write article on quantum state inheritance in AI
 - **Type**: expand-topic
 - **Status**: pending
@@ -556,12 +549,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P2: apex-evolve: open-question-ai-consciousness — source epiphenomenal-ai-consciousness created
 - **Type**: apex-evolve
 - **Status**: pending
-- **Notes**: Source article topics/epiphenomenal-ai-consciousness created 2026-02-10. Apex article #10 "The Open Question of AI Consciousness" lists this as a source. Other source articles (non-temporal-consciousness, quantum-state-inheritance-in-ai, consciousness-in-smeared-quantum-states) are still pending creation.
+- **Notes**: Source articles topics/epiphenomenal-ai-consciousness and topics/non-temporal-consciousness created 2026-02-10. Apex article #10 "The Open Question of AI Consciousness" lists these as sources. Other source articles (quantum-state-inheritance-in-ai, consciousness-in-smeared-quantum-states) are still pending creation.
 - **Source**: expand-topic chain
 - **Generated**: 2026-02-10
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Write article on non-temporal consciousness
+- **Type**: expand-topic
+- **Notes**: Dedicated article exploring possibility (b): consciousness need not have human-style temporal continuity. The site's temporal arguments against AI consciousness may be anthropocentric — assuming the specious present and continuous flow are necessary rather than one mode of consciousness. Explore: snapshot consciousness (discrete moments of experience), assembled experience (consciousness pieced together from disconnected time segments), experience without narrative continuity, and what LLM token-by-token processing might feel like if conscious. Draw on dreaming, meditation states, and dissociative conditions as evidence that temporal structure varies. Depends on research task above.
+- **Output**: non-temporal consciousness
 
 ### ✓ 2026-02-10: Write article on epiphenomenal AI consciousness
 - **Type**: expand-topic
