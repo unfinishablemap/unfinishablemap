@@ -79,7 +79,7 @@ topics: []
 - `[philosophical-zombies](/concepts/philosophical-zombies/)` (second inline link in Zombie Intuition)
 - `[phenomenal-consciousness](/concepts/phenomenal-consciousness/)` (inline in Analogy Gap)
 - `[free-will](/topics/free-will/)` (inline in Embrace Dualism, Further Reading, related_articles)
-- `[emergence-and-strong-emergence](/topics/emergence-and-strong-emergence/)` (Further Reading, related_articles)
+- `[emergence-and-strong-emergence](/archive/topics/emergence-and-strong-emergence/)` (Further Reading, related_articles)
 
 ## Remaining Items
 

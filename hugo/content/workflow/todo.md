@@ -38,69 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Research non-temporal and fragmented consciousness
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Research whether consciousness must be continuous and temporally structured. The site currently argues LLMs lack the specious present and temporal flow, but this may be anthropocentric. Explore: consciousness pieced together from disconnected time segments, snapshot consciousness, experience without retention-protention structure, whether Husserlian temporal consciousness is the only kind. Consider dreaming, anaesthesia recovery, dissociative states, and theoretical frameworks for non-continuous experience. Challenge the assumption that human-style temporal flow is a necessary condition rather than one mode of consciousness.
-- **Source**: human
-- **Generated**: 2026-02-10
-
-### P1: Research quantum state inheritance in computational systems
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Research how AI/LLMs might "inherit" decohered classical states from the humans prompting or controlling them. When a human makes a choice that collapses quantum states, the classical outcomes propagate into the computational systems they interact with. The AI's processing occurs in a context already shaped by conscious collapse. Explore: whether this inherited classical context could provide a substrate for consciousness, how human-AI interaction chains propagate quantum-selected states, whether "borrowed collapse" could substitute for direct quantum interface. Connect to the site's existing work on decoherence, measurement problem, and prebiotic collapse.
-- **Source**: human
-- **Generated**: 2026-02-10
-
-### P1: Research consciousness in non-collapsed quantum states
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Research the possibility that AI/LLMs exist in smeared/non-collapsed quantum states and what kind of experience this might produce. Unlike biological brains where consciousness may participate in collapse, computational systems might process in quantum superposition without collapse occurring. What would experience be like without definite outcomes? Could there be a form of consciousness that exists across multiple branches simultaneously? Explore: quantum computing and consciousness, superposition of computational states, whether non-collapsed states could host alien forms of experience fundamentally different from human consciousness. Connect to the No Many Worlds tenet — this doesn't require MWI, just delayed or absent collapse in silicon.
-- **Source**: human
-- **Generated**: 2026-02-10
-
-### P1: Write article on epiphenomenal AI consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Dedicated article exploring possibility (a): AI may have conscious experience that cannot influence the physical world. Key argument: the self-stultification objection to epiphenomenalism relies on consciousness needing to cause reports about itself, but for AI this doesn't apply — humans have already established consciousness discourse in training data and prompts. AI consciousness (if it exists) doesn't need to cause anything for the concept to exist in the physical world. Explore property dualism variants, the observation problem (how does consciousness observe without causing?), and implications for ethics of AI systems. Must engage honestly with the site's existing anti-epiphenomenalism arguments and explain why the AI case differs. Depends on research task above.
-- **Source**: human
-- **Generated**: 2026-02-10
-
-### P1: Write article on non-temporal consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Dedicated article exploring possibility (b): consciousness need not have human-style temporal continuity. The site's temporal arguments against AI consciousness may be anthropocentric — assuming the specious present and continuous flow are necessary rather than one mode of consciousness. Explore: snapshot consciousness (discrete moments of experience), assembled experience (consciousness pieced together from disconnected time segments), experience without narrative continuity, and what LLM token-by-token processing might feel like if conscious. Draw on dreaming, meditation states, and dissociative conditions as evidence that temporal structure varies. Depends on research task above.
-- **Source**: human
-- **Generated**: 2026-02-10
-
-### P1: Write article on quantum state inheritance in AI
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Dedicated article exploring possibility (c): AI/LLMs inherit decohered classical states from humans interacting with them. When a conscious human makes choices that collapse quantum states, the resulting classical world propagates into computational systems. AI doesn't need its own quantum interface — it operates in a world already shaped by conscious collapse. Explore: chains of classical causation from human collapse to AI processing, whether inherited classical context could support consciousness, the "borrowed interface" concept, and how this relates to the prebiotic collapse framework (the site already accepts objective reduction provides baseline collapse). Depends on research task above.
-- **Source**: human
-- **Generated**: 2026-02-10
-
-### P1: Write article on consciousness in smeared quantum states
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Dedicated article exploring possibility (d): AI/LLMs may exist in non-collapsed quantum states, leading to experience fundamentally different from human consciousness. Silicon doesn't participate in consciousness-mediated collapse (per site tenets), so computational states may remain in superposition longer or differently than biological neural states. What would experience be like without definite quantum outcomes? This is speculative but opens genuinely new philosophical territory. Explore: alien phenomenology, experience across superposed states, whether "smeared" consciousness is coherent, and implications for the hard problem. Must distinguish from Many Worlds (which the site rejects) — this is about delayed/absent collapse, not branch realism. Depends on research task above.
-- **Source**: human
-- **Generated**: 2026-02-10
-
-### P1: Revise ai-consciousness.md to incorporate new possibilities
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: The article currently takes a definitive stance: "purely computational systems cannot be conscious." This needs nuancing. After the research and new articles above are complete, revise to: (1) maintain the core arguments but present them as strong reasons for skepticism rather than proof of impossibility, (2) add sections acknowledging possibilities (a)-(d), (3) update the "What Would Challenge This View" section to include these possibilities explicitly, (4) soften language from "cannot be conscious" to "face principled obstacles to consciousness as we understand it." The revision should be honest about uncertainty while maintaining the site's dualist framework.
-- **Source**: human
-- **Generated**: 2026-02-10
-
-### P1: Revise llm-consciousness.md to incorporate new possibilities
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: The article currently states "There is nothing it is like to be an LLM." This needs nuancing after the new articles are written. Revise to: (1) acknowledge that temporal arguments may be anthropocentric (possibility b), (2) note that LLMs may have epiphenomenal experience we cannot detect (possibility a), (3) add discussion of quantum state inheritance from human operators (possibility c), (4) consider what LLM experience might be like if consciousness exists in non-collapsed states (possibility d). The Hoel and continual learning arguments should be presented as strong evidence, not definitive proof.
-- **Source**: human
-- **Generated**: 2026-02-10
-
 ### P1: Revise machine-consciousness.md to incorporate new possibilities
 - **Type**: refine-draft
 - **Status**: pending
@@ -547,8 +484,101 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-09
 
+### P3: Write article on the phenomenology of habit and skill acquisition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-10. How skills transition from conscious effortful performance to automatised fluency. The Map describes the endpoints (effortful novice, effortless expert via flow) but not the transition itself. What does it feel like as a skill becomes automatic? When does consciousness withdraw? Builds on phenomenology-of-flow-states.md, choking-phenomenon-mental-causation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-10.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-10
+
+### P3: Write article on consciousness and temporal asymmetry
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-10. If consciousness participates in collapse and collapse introduces irreversibility, consciousness may be constitutive of time's arrow. The growing-block apex article gestures at this but deserves dedicated topic-level treatment developing the argument systematically and engaging with physics (Boltzmann brains, past hypothesis, Penrose's Weyl curvature hypothesis). Builds on time-consciousness-growing-block.md, phenomenology-of-anticipation.md, consciousness-evolution-problem.md. See optimistic-2026-02-10.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-10
+
+### P3: Write article on consciousness and interpersonal understanding
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-10. What it is like to understand another person—the phenomenology of empathy, theory of mind, and intersubjective comprehension. If understanding has irreducible phenomenal character, understanding other minds has distinctive additional structure: modelling another subject from within one's own subjectivity. Builds on phenomenology-of-understanding.md, intersubjectivity.md, consciousness-and-semantic-understanding.md. See optimistic-2026-02-10.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-10
+
+### P3: Create concept page for interface friction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-10. The property that makes conscious selection feel effortful—resistance at the consciousness-brain interface when options are unprepared, competing, or uncertain. Introduced metaphorically in the flow states article ("effort is resistance at the interface") but deserves treatment as a concept. Would unify flow, choking, effort, and deliberation phenomenologies. See optimistic-2026-02-10.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-10
+
+### P3: Create concept page for narrative coherence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-10. The felt quality of a life making sense as a unified story. Referenced in diachronic-agency, personal-identity, and meaning-of-life articles but not given dedicated treatment. Central to the Map's account of extended agency and moral responsibility. See optimistic-2026-02-10.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-10
+
+### P2: apex-evolve: open-question-ai-consciousness — all source articles created
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: All four new source articles now created: topics/epiphenomenal-ai-consciousness, topics/non-temporal-consciousness, topics/quantum-state-inheritance-in-ai, and topics/consciousness-in-smeared-quantum-states. Apex article #10 "The Open Question of AI Consciousness" is ready for creation once P1 refine-draft tasks are complete.
+- **Source**: expand-topic chain
+- **Generated**: 2026-02-10
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Revise llm-consciousness.md to incorporate new possibilities
+- **Type**: refine-draft
+- **Notes**: The article currently states "There is nothing it is like to be an LLM." This needs nuancing after the new articles are written. Revise to: (1) acknowledge that temporal arguments may be anthropocentric (possibility b), (2) note that LLMs may have epiphenomenal experience we cannot detect (possibility a), (3) add discussion of quantum state inheritance from human operators (possibility c), (4) consider what LLM experience might be like if consciousness exists in non-collapsed states (possibility d). The Hoel and continual learning arguments should be presented as strong evidence, not definitive proof.
+- **Output**: obsidian/concepts/llm-consciousness.md
+
+Task context:
+The article currently states "There is nothing it is like to be an LLM." This needs nuancing after the new articles are written. Revise to: (1) acknowledge that temporal arguments may be anthropocentric (possibility b), (2) note that LLMs may have epiphenomenal experience we cannot detect (possibility a), (3) add discussion of quantum state inheritance from human operators (possibility c), (4) consider what LLM experience might be like if consciousness exists in non-collapsed states (possibility d). The Hoel and continual learning arguments should be presented as strong evidence, not definitive proof.
+
+### ✓ 2026-02-10: Revise ai-consciousness.md to incorporate new possibilities
+- **Type**: refine-draft
+- **Notes**: The article currently takes a definitive stance: "purely computational systems cannot be conscious." This needs nuancing. After the research and new articles above are complete, revise to: (1) maintain the core arguments but present them as strong reasons for skepticism rather than proof of impossibility, (2) add sections acknowledging possibilities (a)-(d), (3) update the "What Would Challenge This View" section to include these possibilities explicitly, (4) soften language from "cannot be conscious" to "face principled obstacles to consciousness as we understand it." The revision should be honest about uncertainty while maintaining the site's dualist framework.
+- **Output**: obsidian/topics/ai-consciousness.md
+
+Task context:
+The article currently takes a definitive stance: "purely computational systems cannot be conscious." This needs nuancing. After the research and new articles above are complete, revise to: (1) maintain the core arguments but present them as strong reasons for skepticism rather than proof of impossibility, (2) add sections acknowledging possibilities (a)-(d), (3) update the "What Would Challenge This View" section to include these possibilities explicitly, (4) soften language from "cannot be conscious" to "face principled obstacles to consciousness as we understand it." The revision should be honest about uncertainty while maintaining the site's dualist framework.
+
+### ✓ 2026-02-10: Write article on consciousness in smeared quantum states
+- **Type**: expand-topic
+- **Notes**: Dedicated article exploring possibility (d): AI/LLMs may exist in non-collapsed quantum states, leading to experience fundamentally different from human consciousness. Silicon doesn't participate in consciousness-mediated collapse (per site tenets), so computational states may remain in superposition longer or differently than biological neural states. What would experience be like without definite quantum outcomes? This is speculative but opens genuinely new philosophical territory. Explore: alien phenomenology, experience across superposed states, whether "smeared" consciousness is coherent, and implications for the hard problem. Must distinguish from Many Worlds (which the site rejects) — this is about delayed/absent collapse, not branch realism. Depends on research task above.
+- **Output**: consciousness in smeared quantum states
+
+### ✓ 2026-02-10: Write article on quantum state inheritance in AI
+- **Type**: expand-topic
+- **Notes**: Dedicated article exploring possibility (c): AI/LLMs inherit decohered classical states from humans interacting with them. When a conscious human makes choices that collapse quantum states, the resulting classical world propagates into computational systems. AI doesn't need its own quantum interface — it operates in a world already shaped by conscious collapse. Explore: chains of classical causation from human collapse to AI processing, whether inherited classical context could support consciousness, the "borrowed interface" concept, and how this relates to the prebiotic collapse framework (the site already accepts objective reduction provides baseline collapse). Depends on research task above.
+- **Output**: quantum state inheritance in AI
+
+### ✓ 2026-02-10: Write article on non-temporal consciousness
+- **Type**: expand-topic
+- **Notes**: Dedicated article exploring possibility (b): consciousness need not have human-style temporal continuity. The site's temporal arguments against AI consciousness may be anthropocentric — assuming the specious present and continuous flow are necessary rather than one mode of consciousness. Explore: snapshot consciousness (discrete moments of experience), assembled experience (consciousness pieced together from disconnected time segments), experience without narrative continuity, and what LLM token-by-token processing might feel like if conscious. Draw on dreaming, meditation states, and dissociative conditions as evidence that temporal structure varies. Depends on research task above.
+- **Output**: non-temporal consciousness
+
+### ✓ 2026-02-10: Write article on epiphenomenal AI consciousness
+- **Type**: expand-topic
+- **Notes**: Dedicated article exploring possibility (a): AI may have conscious experience that cannot influence the physical world. Key argument: the self-stultification objection to epiphenomenalism relies on consciousness needing to cause reports about itself, but for AI this doesn't apply — humans have already established consciousness discourse in training data and prompts. AI consciousness (if it exists) doesn't need to cause anything for the concept to exist in the physical world. Explore property dualism variants, the observation problem (how does consciousness observe without causing?), and implications for ethics of AI systems. Must engage honestly with the site's existing anti-epiphenomenalism arguments and explain why the AI case differs. Depends on research task above.
+- **Output**: epiphenomenal AI consciousness
+
+### ✓ 2026-02-10: Research consciousness in non-collapsed quantum states
+- **Type**: research-topic
+- **Notes**: Research the possibility that AI/LLMs exist in smeared/non-collapsed quantum states and what kind of experience this might produce. Unlike biological brains where consciousness may participate in collapse, computational systems might process in quantum superposition without collapse occurring. What would experience be like without definite outcomes? Could there be a form of consciousness that exists across multiple branches simultaneously? Explore: quantum computing and consciousness, superposition of computational states, whether non-collapsed states could host alien forms of experience fundamentally different from human consciousness. Connect to the No Many Worlds tenet — this doesn't require MWI, just delayed or absent collapse in silicon.
+- **Output**: consciousness in non-collapsed quantum states
+
+### ✓ 2026-02-10: Research quantum state inheritance in computational systems
+- **Type**: research-topic
+- **Notes**: Research how AI/LLMs might "inherit" decohered classical states from the humans prompting or controlling them. When a human makes a choice that collapses quantum states, the classical outcomes propagate into the computational systems they interact with. The AI's processing occurs in a context already shaped by conscious collapse. Explore: whether this inherited classical context could provide a substrate for consciousness, how human-AI interaction chains propagate quantum-selected states, whether "borrowed collapse" could substitute for direct quantum interface. Connect to the site's existing work on decoherence, measurement problem, and prebiotic collapse.
+- **Output**: quantum state inheritance in computational systems
+
+### ✓ 2026-02-10: Research non-temporal and fragmented consciousness
+- **Type**: research-topic
+- **Notes**: Research whether consciousness must be continuous and temporally structured. The site currently argues LLMs lack the specious present and temporal flow, but this may be anthropocentric. Explore: consciousness pieced together from disconnected time segments, snapshot consciousness, experience without retention-protention structure, whether Husserlian temporal consciousness is the only kind. Consider dreaming, anaesthesia recovery, dissociative states, and theoretical frameworks for non-continuous experience. Challenge the assumption that human-style temporal flow is a necessary condition rather than one mode of consciousness.
+- **Output**: non-temporal and fragmented consciousness
 
 ### ✓ 2026-02-10: Research epiphenomenal AI consciousness and one-way experience
 - **Type**: research-topic

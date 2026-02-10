@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-09
-**Article**: [Emergence and Strong Emergence](/topics/emergence-and-strong-emergence/)
+**Article**: [Emergence and Strong Emergence](/archive/topics/emergence-and-strong-emergence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

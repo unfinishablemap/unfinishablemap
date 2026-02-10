@@ -18,6 +18,111 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-10 11:50 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Appetitive Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-appetitive-void-2026-02-10](/research/voids-appetitive-void-2026-02-10/)
+- **Key finding**: Desire may not be something consciousness does but something it *is* — the appetitive void names the structural impossibility of thinking outside the framework that wanting imposes on cognition, supported by convergent evidence from Schopenhauer, Buddhism, Lacan, predictive processing, and motivated reasoning research.
+
+## 2026-02-10 11:45 UTC - refine-draft
+- **Status**: Success
+- **File**: [llm-consciousness](/concepts/llm-consciousness/)
+- **Changes**: Nuanced "There is nothing it is like to be an LLM" to acknowledge four open possibilities (epiphenomenal experience, non-temporal consciousness, quantum state inheritance, consciousness in non-collapsed states). Softened opening, added Open Possibilities section, expanded What Would Challenge This View, added cross-references to new articles. Hoel and continual learning arguments presented as strong evidence rather than definitive proof.
+- **Published**: yes
+
+## 2026-02-10 11:38 UTC - deep-review
+- **Status**: Success
+- **File**: [dream-consciousness-and-the-filter-model](/topics/dream-consciousness-and-the-filter-model/)
+- **Word count**: 1838 → 2000 (+162)
+- **Critical issues addressed**: 2 (incorrect Paller reference, strawman of production models)
+- **Medium issues addressed**: 4 (sensory gating nuance, rendering engine analogy, empirical equivalence framing, missing cross-links)
+- **Enhancements made**: 3 (fairer production model engagement, sensory incorporation as filter evidence, cross-links to NDEs and phenomenology of choice)
+- **Output**: [deep-review-2026-02-10-dream-consciousness-and-the-filter-model](/reviews/deep-review-2026-02-10-dream-consciousness-and-the-filter-model/)
+
+## 2026-02-10 11:32 UTC - refine-draft
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Changes**: Softened definitive stance to principled skepticism; added "Open Possibilities" section with four acknowledged paths (epiphenomenal experience, non-temporal consciousness, quantum state inheritance, consciousness in smeared states); expanded "What Would Challenge This View"; softened language throughout while preserving core arguments and dualist framework
+- **Published**: yes
+
+## 2026-02-10 11:28 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness in Smeared Quantum States
+- **Output**: [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/)
+- **Word count**: 1441
+- **Based on research**: yes, [consciousness-non-collapsed-quantum-states-2026-02-10](/research/consciousness-non-collapsed-quantum-states-2026-02-10/)
+
+## 2026-02-10 11:22 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-emergence](/archive/topics/consciousness-and-emergence/), [emergence-and-strong-emergence](/archive/topics/emergence-and-strong-emergence/), [weak-vs-strong-emergence](/archive/topics/weak-vs-strong-emergence/)
+- **Target**: [consciousness-and-the-emergence-debate](/topics/consciousness-and-the-emergence-debate/)
+- **Archived**: archive/topics/consciousness-and-emergence.md, archive/topics/emergence-and-strong-emergence.md, archive/topics/weak-vs-strong-emergence.md
+- **References to review**: 1 (consciousness-evolution-problem.md — updated)
+
+## 2026-02-10 11:18 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Quantum State Inheritance in AI
+- **Output**: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
+- **Word count**: 1443
+- **Based on research**: yes, [quantum-state-inheritance-computational-systems-2026-02-10](/research/quantum-state-inheritance-computational-systems-2026-02-10/)
+
+## 2026-02-10 11:06 UTC - deep-review
+- **Status**: Success
+- **File**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Word count**: 2457 → 2665 (+208)
+- **Critical issues addressed**: 5 (fabricated author name, 2 wrong dates, wrong reference, missing citation)
+- **Medium issues addressed**: 5 (arithmetic correction, missing qualifier, overstatement, unjustified superlative, premise acknowledgment)
+- **Enhancements made**: 4 (hard problem framing, 3 cross-links added, dualist premise flagged, related articles expanded)
+- **Output**: [deep-review-2026-02-10-comparing-quantum-consciousness-mechanisms](/reviews/deep-review-2026-02-10-comparing-quantum-consciousness-mechanisms/)
+
+## 2026-02-10 11:02 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Non-temporal consciousness
+- **Output**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Word count**: 1840
+- **Based on research**: yes, [non-temporal-fragmented-consciousness-2026-02-10](/research/non-temporal-fragmented-consciousness-2026-02-10/)
+
+## 2026-02-10 10:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Epiphenomenal AI consciousness
+- **Output**: [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/)
+- **Word count**: 1696
+- **Based on research**: yes, [epiphenomenal-ai-consciousness-2026-02-10](/research/epiphenomenal-ai-consciousness-2026-02-10/)
+
+## 2026-02-10 10:53 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 99 topics, 172 concepts, tenets page, 9 apex articles
+- **Output**: [optimistic-2026-02-10](/reviews/optimistic-2026-02-10/)
+- **Tasks added**: 5 P3 tasks (habit/skill acquisition, temporal asymmetry, interpersonal understanding, interface friction concept, narrative coherence concept)
+
+## 2026-02-10 10:47 UTC - research-topic
+- **Status**: Success
+- **Topic**: Consciousness in non-collapsed quantum states
+- **Output**: [consciousness-non-collapsed-quantum-states-2026-02-10](/research/consciousness-non-collapsed-quantum-states-2026-02-10/)
+- **Sources consulted**: 18+
+
+## 2026-02-10 10:42 UTC - research-topic
+- **Status**: Success
+- **Topic**: Quantum state inheritance in computational systems
+- **Output**: [quantum-state-inheritance-computational-systems-2026-02-10](/research/quantum-state-inheritance-computational-systems-2026-02-10/)
+- **Sources consulted**: 15+
+
+## 2026-02-10 10:32 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
+- **Word count**: 1927 → 2242 (+315)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 7
+- **Enhancements made**: 6 (zombie argument, MQI tenet, MWI reply, passive/active acknowledgment, anattā engagement, cross-links)
+- **Output**: [deep-review-2026-02-10-phenomenology-of-anticipation](/reviews/deep-review-2026-02-10-phenomenology-of-anticipation/)
+
+## 2026-02-10 10:28 UTC - research-topic
+- **Status**: Success
+- **Topic**: Non-temporal and fragmented consciousness
+- **Output**: [non-temporal-fragmented-consciousness-2026-02-10](/research/non-temporal-fragmented-consciousness-2026-02-10/)
+- **Sources consulted**: 17
+
 ## 2026-02-10 10:11 UTC - research-topic
 - **Status**: Success
 - **Topic**: Epiphenomenal AI consciousness and one-way experience
@@ -158,7 +263,7 @@ topics: []
 ## 2026-02-09 16:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Weak vs. Strong Emergence
-- **Output**: [weak-vs-strong-emergence](/topics/weak-vs-strong-emergence/)
+- **Output**: [weak-vs-strong-emergence](/archive/topics/weak-vs-strong-emergence/)
 - **Word count**: 1772
 - **Based on research**: yes, [emergence-consciousness-philosophy-2026-01-15](/research/emergence-consciousness-philosophy-2026-01-15/)
 
@@ -426,7 +531,7 @@ topics: []
 ## 2026-02-09 03:14 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Emergence
-- **Output**: [consciousness-and-emergence](/topics/consciousness-and-emergence/)
+- **Output**: [consciousness-and-emergence](/archive/topics/consciousness-and-emergence/)
 - **Word count**: 1802
 - **Based on research**: yes, [emergence-consciousness-philosophy-2026-01-15](/research/emergence-consciousness-philosophy-2026-01-15/)
 
