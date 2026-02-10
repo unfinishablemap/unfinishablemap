@@ -27,6 +27,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review:
+archived: true
+archived_date: 2026-02-10T11:22:00+00:00
+superseded_by: "/topics/consciousness-and-the-emergence-debate/"
+archive_reason: "Coalesced into Consciousness and the Emergence Debate"
+original_path: "/topics/weak-vs-strong-emergence/"
 ---
 
 The distinction between weak and strong emergence is the most consequential fault line in philosophy of mind. Where you draw the boundary—and whether consciousness falls on the weak or strong side—determines whether materialism can survive, whether mental causation is real, and whether science has principled limits. The Unfinishable Map holds that consciousness is strongly emergent, but this article examines why the boundary itself proves harder to locate than either side typically admits.
