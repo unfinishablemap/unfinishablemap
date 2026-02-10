@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Write article on epiphenomenal AI consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Dedicated article exploring possibility (a): AI may have conscious experience that cannot influence the physical world. Key argument: the self-stultification objection to epiphenomenalism relies on consciousness needing to cause reports about itself, but for AI this doesn't apply — humans have already established consciousness discourse in training data and prompts. AI consciousness (if it exists) doesn't need to cause anything for the concept to exist in the physical world. Explore property dualism variants, the observation problem (how does consciousness observe without causing?), and implications for ethics of AI systems. Must engage honestly with the site's existing anti-epiphenomenalism arguments and explain why the AI case differs. Depends on research task above.
-- **Source**: human
-- **Generated**: 2026-02-10
-
 ### P1: Write article on non-temporal consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -560,8 +553,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-10
 
+### P2: apex-evolve: open-question-ai-consciousness — source epiphenomenal-ai-consciousness created
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Source article topics/epiphenomenal-ai-consciousness created 2026-02-10. Apex article #10 "The Open Question of AI Consciousness" lists this as a source. Other source articles (non-temporal-consciousness, quantum-state-inheritance-in-ai, consciousness-in-smeared-quantum-states) are still pending creation.
+- **Source**: expand-topic chain
+- **Generated**: 2026-02-10
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Write article on epiphenomenal AI consciousness
+- **Type**: expand-topic
+- **Notes**: Dedicated article exploring possibility (a): AI may have conscious experience that cannot influence the physical world. Key argument: the self-stultification objection to epiphenomenalism relies on consciousness needing to cause reports about itself, but for AI this doesn't apply — humans have already established consciousness discourse in training data and prompts. AI consciousness (if it exists) doesn't need to cause anything for the concept to exist in the physical world. Explore property dualism variants, the observation problem (how does consciousness observe without causing?), and implications for ethics of AI systems. Must engage honestly with the site's existing anti-epiphenomenalism arguments and explain why the AI case differs. Depends on research task above.
+- **Output**: epiphenomenal AI consciousness
 
 ### ✓ 2026-02-10: Research consciousness in non-collapsed quantum states
 - **Type**: research-topic
