@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Revise machine-question.md apex article after all other revisions
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: After all research, new articles, and revisions to source articles are complete, update "The Machine Question" apex synthesis to reflect the revised, more nuanced position. The thesis "the gap is principled, not practical" should be softened to acknowledge genuine open questions. The apex must synthesize possibilities (a)-(d) into the overall narrative. This should be the last P1 task executed, as it depends on all prior work.
-- **Source**: human
-- **Generated**: 2026-02-10
-
 ### P2: Address richness-to-dualism inference gap in phenomenology articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -513,6 +506,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Revise machine-question.md apex article after all other revisions
+- **Type**: refine-draft
+- **Notes**: After all research, new articles, and revisions to source articles are complete, update "The Machine Question" apex synthesis to reflect the revised, more nuanced position. The thesis "the gap is principled, not practical" should be softened to acknowledge genuine open questions. The apex must synthesize possibilities (a)-(d) into the overall narrative. This should be the last P1 task executed, as it depends on all prior work.
+- **Output**: obsidian/apex/machine-question.md
+
+Task context:
+After all research, new articles, and revisions to source articles are complete, update "The Machine Question" apex synthesis to reflect the revised, more nuanced position. The thesis "the gap is principled, not practical" should be softened to acknowledge genuine open questions. The apex must synthesize possibilities (a)-(d) into the overall narrative. This should be the last P1 task executed, as it depends on all prior work.
 
 ### ✓ 2026-02-10: Revise epiphenomenalism.md to address the AI exception
 - **Type**: refine-draft
