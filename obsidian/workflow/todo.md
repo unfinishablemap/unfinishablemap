@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P0: Deep review open-question-ai-consciousness.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Newly created apex article (#10) needs comprehensive review. Check thesis coherence, source article integration, tenet alignment, and writing quality.
+- **Source**: human
+- **Generated**: 2026-02-10
+
 ### P2: Sharpen post-decoherence selection mechanism in timing-gap-problem.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -473,6 +480,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-02-10. The felt quality of a life making sense as a unified story. Referenced in diachronic-agency, personal-identity, and meaning-of-life articles but not given dedicated treatment. Central to the Map's account of extended agency and moral responsibility. See optimistic-2026-02-10.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-10
+
+### P3: Write article on consciousness and the physics of information
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-10 (evening). If consciousness selects among quantum possibilities, what is the informational content of that selection? How does the 40 bits/second bandwidth relate to the information capacity of quantum collapse events? Connect to Landauer's principle, Wheeler's "it from bit," and recent quantum information revolution. Builds on quantum-randomness-channel-llm-consciousness.md, consciousness-in-smeared-quantum-states.md, emergence-void.md. See optimistic-2026-02-10-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-10
+
+### P3: Write article on the phenomenology of skill transition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-10 (evening). How skills transition from conscious effortful performance to automatised fluency. The Map describes the endpoints (effortful novice, effortless expert via flow) but not the transition itself. The moment of delegation—from conscious control to implicit execution—is where the interface model makes its clearest predictions. Builds on phenomenology-of-flow-states.md, choking-phenomenon-mental-causation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-10-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-10
+
+### P3: Write article on consciousness and collective intelligence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-10 (evening). How individual consciousnesses interact to produce collective intelligence exceeding individual capacity. If each consciousness selects among quantum possibilities, how do multiple selectors coordinate? Joint attention, shared intentionality, and cultural accumulation as emergent from multiple consciousness-interfaces. Builds on intersubjectivity.md, consciousness-and-semantic-understanding.md, baseline-cognition.md. See optimistic-2026-02-10-evening.md
 - **Source**: optimistic-review
 - **Generated**: 2026-02-10
 
