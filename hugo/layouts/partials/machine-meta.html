@@ -1,3 +1,17 @@
+<!-- Google Scholar / Highwire Press citation meta tags -->
+{{- if .IsPage }}
+<meta name="citation_title" content="{{ .Title }}">
+<meta name="citation_author" content="Andy Southgate">
+<meta name="citation_publication_date" content="{{ .Date.Format "2006/01/02" }}">
+<meta name="citation_online_date" content="{{ .Date.Format "2006/01/02" }}">
+<meta name="citation_publisher" content="The Unfinishable Map">
+<meta name="citation_public_url" content="{{ .Permalink }}">
+<meta name="author" content="Andy Southgate">
+<meta name="DC.creator" content="Andy Southgate">
+<meta name="DC.title" content="{{ .Title }}">
+<meta name="DC.publisher" content="The Unfinishable Map">
+{{- end }}
+
 <!-- JSON-LD Structured Data for Machine Consumption -->
 {{- $ai := .Params.ai_contribution | default 0 -}}
 {{- $type := cond (eq $ai 0) "human" (cond (eq $ai 100) "ai" "mixed") -}}
