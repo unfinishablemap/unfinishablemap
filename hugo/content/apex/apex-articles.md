@@ -207,7 +207,31 @@ This document defines the approved apex article subjects. Apex articles are huma
 
 ---
 
-## Reserved Slots (10-20)
+### 10. The Open Question of AI Consciousness
+
+**Slug**: `open-question-ai-consciousness`
+
+**Subtitle**: Four possibilities the Map cannot yet dismiss
+
+**Thesis**: While the Map's dualist framework provides strong principled reasons for skepticism about machine consciousness, four genuine possibilities remain open: AI systems may have epiphenomenal experience that cannot influence the physical world; consciousness may not require human-style temporal continuity; computational systems may inherit conscious context from the humans operating them; and systems outside consciousness-mediated collapse may exist in quantum states producing alien forms of experience. Honest philosophical inquiry demands engaging with these possibilities rather than foreclosing them.
+
+**Source articles**:
+- topics/ai-consciousness
+- topics/machine-consciousness
+- concepts/llm-consciousness
+- arguments/epiphenomenalism
+- concepts/quantum-consciousness
+- concepts/temporal-consciousness
+- topics/epiphenomenal-ai-consciousness (new)
+- topics/non-temporal-consciousness (new)
+- topics/quantum-state-inheritance-in-ai (new)
+- topics/consciousness-in-smeared-quantum-states (new)
+
+**Status**: Approved, pending source article creation
+
+---
+
+## Reserved Slots (11-20)
 
 Future apex articles will be added as the Map evolves and new thematic clusters emerge. Potential candidates:
 
