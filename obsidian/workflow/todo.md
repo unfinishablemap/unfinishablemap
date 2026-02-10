@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address richness-to-dualism inference gap in phenomenology articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-10) found that phenomenology-of-surprise-and-prediction-error.md and phenomenology-of-belief-revision.md both move from "X has rich phenomenal character" to "therefore X supports dualism" without adequately distinguishing between limitations of current models and limitations of physicalism as such. Need to engage type-B materialist response. See pessimistic-2026-02-10.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-10
-
 ### P2: Address contemplative evidence cherry-picking in contemplative-epistemology.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -506,6 +499,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Address richness-to-dualism inference gap in phenomenology articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-10) found that phenomenology-of-surprise-and-prediction-error.md and phenomenology-of-belief-revision.md both move from "X has rich phenomenal character" to "therefore X supports dualism" without adequately distinguishing between limitations of current models and limitations of physicalism as such. Need to engage type-B materialist response. See pessimistic-2026-02-10.md
+- **Output**: Task context:
+Pessimistic review (2026-02-10) found that phenomenology-of-surprise-and-prediction-error.md and phenomenology-of-belief-revision.md both move from "X has rich phenomenal character" to "therefore X supports dualism" without adequately distinguishing between limitations of current models and limitations of physicalism as such. Need to engage type-B materialist response. See pessimistic-2026-02-10.md
 
 ### ✓ 2026-02-10: Revise machine-question.md apex article after all other revisions
 - **Type**: refine-draft
