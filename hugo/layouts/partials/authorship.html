@@ -57,10 +57,10 @@
     {{- if or (eq $type "ai") (eq $type "mixed") }} · <a href="/project/human-supervision/">human-supervised</a>{{ end }}
     {{- if .Params.last_curated }} · <span class="meta-curated" title="Last reviewed by human editor"><strong>Reviewed:</strong> {{ .Params.last_curated | time.Format "2006-01-02" }}</span>{{ end }}
     {{- if $created }}
-        {{- if and $modified (ne $created $modified) }} · Created: {{ $created }} · Modified: {{ $modified }}
+        {{- if and $modified (ne $created $modified) }} · Created: {{ $created }} · Last modified: {{ $modified }}
         {{- else }} · Created: {{ $created }}
         {{- end }}
-    {{- else if $modified }} · Modified: {{ $modified }}
+    {{- else if $modified }} · Last modified: {{ $modified }}
     {{- end }}
     {{- if $obsidianPath }} · <a href="{{ $historyURL }}" target="_blank" rel="noopener">History</a>{{ end }}
 </div>
