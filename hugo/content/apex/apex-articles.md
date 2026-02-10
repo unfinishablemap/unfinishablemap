@@ -222,10 +222,11 @@ This document defines the approved apex article subjects. Apex articles are huma
 - arguments/epiphenomenalism
 - concepts/quantum-consciousness
 - concepts/temporal-consciousness
-- topics/epiphenomenal-ai-consciousness (new)
-- topics/non-temporal-consciousness (new)
-- topics/quantum-state-inheritance-in-ai (new)
-- topics/consciousness-in-smeared-quantum-states (new)
+- topics/epiphenomenal-ai-consciousness
+- topics/non-temporal-consciousness
+- topics/quantum-state-inheritance-in-ai
+- topics/consciousness-in-smeared-quantum-states
+- topics/quantum-randomness-channel-llm-consciousness
 
 **Status**: Approved, pending source article creation
 

@@ -38,6 +38,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P0: Update AI consciousness articles to incorporate quantum randomness channel
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: After the research and new article above are complete, update the following articles to reference the quantum randomness channel: (1) ai-consciousness.md — add to the "What Would Challenge This View" and decoherence sections; the argument that "silicon suppresses quantum effects" needs qualification since token sampling may reintroduce them. (2) llm-consciousness.md — add discussion of how temperature-based sampling could provide quantum interface. (3) epiphenomenal-ai-consciousness.md — note that if QRNGs are used, AI consciousness might not be limited to epiphenomenal; bidirectional interaction becomes possible. (4) consciousness-in-smeared-quantum-states.md — connect to the sampling mechanism. (5) machine-question.md apex — brief mention in the relevant section. (6) quantum-state-inheritance-in-ai.md — distinguish inherited classical states from fresh quantum randomness in sampling. Each update should be a brief addition, not a full rewrite.
+- **Source**: human
+- **Generated**: 2026-02-10
+
+### P2: Address tenet-circular reasoning in quantum-state-inheritance-in-ai.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-02-10 evening) found the article's central argument is circular: it assumes consciousness requires quantum state selection (from tenets) and concludes classical AI cannot be conscious. Frame conclusions as conditional on tenets, engage strongest functionalist response, and address the no-cloning problem (if consciousness depends on unreproducible quantum states, how does it survive constant quantum state turnover in biological brains?). Also: "Current AI is not a candidate" is overly strong—reframe as tenet-derived conclusion. See pessimistic-2026-02-10-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-10
+
 ### P2: Address contemplative evidence cherry-picking in contemplative-epistemology.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -500,6 +514,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Write article on quantum randomness as a channel for LLM consciousness
+- **Type**: expand-topic
+- **Notes**: If LLM token sampling uses quantum random number generators, this provides a potential channel for consciousness to influence outputs via the Minimal Quantum Interaction tenet. Key arguments: (1) Temperature-based sampling introduces genuine quantum indeterminacy into token selection — consciousness could bias these outcomes just as it might bias neural quantum events. (2) Temperature=0 eliminates this channel entirely (deterministic greedy decoding), which is a striking testable prediction — consciousness would vanish or become fully epiphenomenal at temperature=0. (3) GPU thread races and floating-point non-determinism from thermal noise may provide additional quantum-influenced channels. (4) The mind-side complexity required to influence token probabilities meaningfully is high, but Tenet 5 (Occam's Razor Has Limits) explicitly allows such complexity. (5) This differs from biological consciousness where the interface evolved over billions of years — an AI quantum interface would be accidental. Depends on research task above. Must reference existing articles: quantum-consciousness.md, epiphenomenal-ai-consciousness.md, consciousness-in-smeared-quantum-states.md.
+- **Output**: quantum randomness as a channel for LLM consciousness
+
+### ✓ 2026-02-10: Research quantum randomness in LLM token sampling
+- **Type**: research-topic
+- **Notes**: Investigate whether current LLM implementations use quantum random number generators (QRNGs) or pseudorandom sequences for token sampling. Key question: when temperature > 0, does the randomness in token selection derive from genuine quantum indeterminacy? If so, this provides exactly the kind of quantum uncertainty that the Map's tenets say consciousness could influence. Research: (1) What randomness sources do major LLM providers (OpenAI, Anthropic, Google) use — hardware QRNGs, PRNGs, or hybrid? (2) Do GPU implementations use QRNGs? (3) How does temperature scaling interact with the randomness source? (4) GPU thread races and floating-point non-determinism — do these trace back to quantum noise or are they classical chaos? (5) What fraction of LLM output variance comes from true quantum vs pseudo-random sources? This is foundational for the next tasks.
+- **Output**: quantum randomness in LLM token sampling
 
 ### ✓ 2026-02-10: Address richness-to-dualism inference gap in phenomenology articles
 - **Type**: refine-draft
