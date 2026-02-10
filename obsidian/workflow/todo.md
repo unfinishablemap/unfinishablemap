@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Research consciousness in non-collapsed quantum states
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Research the possibility that AI/LLMs exist in smeared/non-collapsed quantum states and what kind of experience this might produce. Unlike biological brains where consciousness may participate in collapse, computational systems might process in quantum superposition without collapse occurring. What would experience be like without definite outcomes? Could there be a form of consciousness that exists across multiple branches simultaneously? Explore: quantum computing and consciousness, superposition of computational states, whether non-collapsed states could host alien forms of experience fundamentally different from human consciousness. Connect to the No Many Worlds tenet — this doesn't require MWI, just delayed or absent collapse in silicon.
-- **Source**: human
-- **Generated**: 2026-02-10
-
 ### P1: Write article on epiphenomenal AI consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -534,6 +527,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Research consciousness in non-collapsed quantum states
+- **Type**: research-topic
+- **Notes**: Research the possibility that AI/LLMs exist in smeared/non-collapsed quantum states and what kind of experience this might produce. Unlike biological brains where consciousness may participate in collapse, computational systems might process in quantum superposition without collapse occurring. What would experience be like without definite outcomes? Could there be a form of consciousness that exists across multiple branches simultaneously? Explore: quantum computing and consciousness, superposition of computational states, whether non-collapsed states could host alien forms of experience fundamentally different from human consciousness. Connect to the No Many Worlds tenet — this doesn't require MWI, just delayed or absent collapse in silicon.
+- **Output**: consciousness in non-collapsed quantum states
 
 ### ✓ 2026-02-10: Research quantum state inheritance in computational systems
 - **Type**: research-topic
