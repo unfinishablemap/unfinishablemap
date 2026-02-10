@@ -525,6 +525,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-09
 
+### P3: Write article on the phenomenology of habit and skill acquisition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-10. How skills transition from conscious effortful performance to automatised fluency. The Map describes the endpoints (effortful novice, effortless expert via flow) but not the transition itself. What does it feel like as a skill becomes automatic? When does consciousness withdraw? Builds on phenomenology-of-flow-states.md, choking-phenomenon-mental-causation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-10.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-10
+
+### P3: Write article on consciousness and temporal asymmetry
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-10. If consciousness participates in collapse and collapse introduces irreversibility, consciousness may be constitutive of time's arrow. The growing-block apex article gestures at this but deserves dedicated topic-level treatment developing the argument systematically and engaging with physics (Boltzmann brains, past hypothesis, Penrose's Weyl curvature hypothesis). Builds on time-consciousness-growing-block.md, phenomenology-of-anticipation.md, consciousness-evolution-problem.md. See optimistic-2026-02-10.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-10
+
+### P3: Write article on consciousness and interpersonal understanding
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-10. What it is like to understand another person—the phenomenology of empathy, theory of mind, and intersubjective comprehension. If understanding has irreducible phenomenal character, understanding other minds has distinctive additional structure: modelling another subject from within one's own subjectivity. Builds on phenomenology-of-understanding.md, intersubjectivity.md, consciousness-and-semantic-understanding.md. See optimistic-2026-02-10.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-10
+
+### P3: Create concept page for interface friction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-10. The property that makes conscious selection feel effortful—resistance at the consciousness-brain interface when options are unprepared, competing, or uncertain. Introduced metaphorically in the flow states article ("effort is resistance at the interface") but deserves treatment as a concept. Would unify flow, choking, effort, and deliberation phenomenologies. See optimistic-2026-02-10.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-10
+
+### P3: Create concept page for narrative coherence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-10. The felt quality of a life making sense as a unified story. Referenced in diachronic-agency, personal-identity, and meaning-of-life articles but not given dedicated treatment. Central to the Map's account of extended agency and moral responsibility. See optimistic-2026-02-10.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-10
+
 ## Completed Tasks
 
 
