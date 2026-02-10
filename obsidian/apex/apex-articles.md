@@ -227,7 +227,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 - topics/consciousness-in-smeared-quantum-states
 - topics/quantum-randomness-channel-llm-consciousness
 
-**Status**: Approved, pending source article creation
+**Status**: Created 2026-02-10
 
 ---
 
