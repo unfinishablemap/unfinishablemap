@@ -82,13 +82,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-02
 - **Output**: obsidian/topics/phenomenal-conservatism-and-introspective-evidence.md
 
-### P3: Write article on modal structure of phenomenal properties
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02 (evening). Why phenomenal properties are conceivably absent (zombies) or inverted when physical properties aren't. Kripke's necessary a posteriori argument for identity and why it stumbles on phenomenal properties. Builds on qualia.md, philosophical-zombies.md, knowledge-argument.md. See optimistic-2026-02-02-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
 ### P3: Write article on phenomenology of returning attention
 - **Type**: expand-topic
 - **Status**: pending
@@ -444,6 +437,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Write article on modal structure of phenomenal properties
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (evening). Why phenomenal properties are conceivably absent (zombies) or inverted when physical properties aren't. Kripke's necessary a posteriori argument for identity and why it stumbles on phenomenal properties. Builds on qualia.md, philosophical-zombies.md, knowledge-argument.md. See optimistic-2026-02-02-evening.md
+- **Output**: modal structure of phenomenal properties
 
 ### ✓ 2026-02-10: Write article on phenomenology of surprise and prediction error
 - **Type**: expand-topic
