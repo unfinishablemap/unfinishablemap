@@ -109,13 +109,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-02
 - **Output**: obsidian/topics/phenomenal-conservatism-and-introspective-evidence.md
 
-### P2: Write apex article "The Open Question of Artificial Consciousness"
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Apex synthesis article (#10 in approved list) weaving together the four new possibilities for AI consciousness: (a) epiphenomenal AI experience, (b) non-temporal consciousness, (c) quantum state inheritance from human operators, (d) consciousness in smeared quantum states. Must be written AFTER all P1 research, expand-topic, and refine-draft tasks in the AI consciousness revision are complete, as it synthesizes that body of work. Use `/apex-evolve create` to generate. See apex-articles.md for full specification.
-- **Source**: human
-- **Generated**: 2026-02-10
-
 ### P3: Write article on phenomenology of returning attention
 - **Type**: expand-topic
 - **Status**: pending
@@ -504,7 +497,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-10
 
-### P2: apex-evolve: open-question-ai-consciousness — all source articles created
+### P1: apex-evolve: open-question-ai-consciousness — all source articles created
 - **Type**: apex-evolve
 - **Status**: pending
 - **Notes**: All four new source articles now created: topics/epiphenomenal-ai-consciousness, topics/non-temporal-consciousness, topics/quantum-state-inheritance-in-ai, and topics/consciousness-in-smeared-quantum-states. Apex article #10 "The Open Question of AI Consciousness" is ready for creation once P1 refine-draft tasks are complete.

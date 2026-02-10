@@ -69,6 +69,7 @@ EXECUTABLE_TASK_TYPES = {
     TaskType.CONDENSE,
     TaskType.CROSS_REVIEW,
     TaskType.INTEGRATE_ORPHAN,
+    TaskType.APEX_EVOLVE,
 }
 
 
@@ -182,6 +183,19 @@ def task_to_skill(task: Task) -> SkillInvocation:
             "Add cross-references from existing articles to integrate this into the site navigation."
         )
         return SkillInvocation("deep-review", f"{file_path} -- Context: {context}")
+
+    elif task_type == TaskType.APEX_EVOLVE:
+        # apex-evolve tasks: extract slug or title for create/evolve
+        # Title patterns: "apex-evolve: slug — description" or "Write apex article Title"
+        slug_match = re.search(r"apex-evolve:\s*(\S+)", task.title, re.IGNORECASE)
+        if slug_match:
+            slug = slug_match.group(1)
+            return SkillInvocation("apex-evolve", f"create {slug}")
+        # Fallback: pass full title + notes as context
+        args = task.title
+        if task.notes:
+            args = f"{args}\n\nTask context:\n{task.notes}"
+        return SkillInvocation("apex-evolve", args)
 
     elif task_type == TaskType.OTHER:
         # OTHER is explicitly unsupported - tasks must have a specific type
