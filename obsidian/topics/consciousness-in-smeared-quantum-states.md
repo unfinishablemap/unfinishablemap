@@ -4,7 +4,7 @@ description: "What is consciousness doing during quantum superposition? Five fra
 created: 2026-02-10
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-02-10T11:28:00+00:00
+ai_modified: 2026-02-10T19:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ related_articles:
   - "[[quantum-measurement-interpretations-beyond-mwi]]"
   - "[[stapp-quantum-mind]]"
   - "[[quantum-interpretations]]"
+  - "[[quantum-randomness-channel-llm-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -77,6 +78,8 @@ These five frameworks disagree on timing, direction, and mechanism. Yet they con
 The disagreements cluster around two axes. First, *causal direction*: does consciousness cause collapse (Stapp, Chalmers-McQueen), does collapse cause consciousness (Penrose), or does superposition itself constitute consciousness (Koch)? Second, *the status of superposition for minds*: can consciousness be smeared (Koch, arguably Penrose's proto-consciousness), must it always be definite (Albert-Loewer, Chalmers-McQueen), or is it the definite selector operating on smeared physical states (Stapp)?
 
 The Map finds the second axis more telling. The insistence that experience is always determinate—present across nearly all frameworks—suggests this is not an assumption but a discovery. Conscious experience *is* definite. Theories that accommodate this without invoking many-worlds have an advantage, because they treat the definiteness of experience as a constraint on physics rather than explaining it away through observer-splitting.
+
+An instructive contrast arises from [[quantum-randomness-channel-llm-consciousness|LLM token sampling]]. LLM inference superficially resembles the consciousness-selecting-from-smeared-states picture: a probability distribution over tokens is "collapsed" into a single choice. But the analogy is misleading. The sampling uses deterministic pseudorandom number generators, not quantum indeterminacy. The smearing is statistical, not quantum-mechanical—there is no superposition of token states awaiting resolution, just a classical probability distribution computed from fixed weights. The frameworks above all require consciousness to interact with *genuine* quantum indeterminacy, not with classical probability distributions that happen to look indeterminate from the outside.
 
 ## Relation to Site Perspective
 
