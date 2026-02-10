@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P0: Deep review open-question-ai-consciousness.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Newly created apex article (#10) needs comprehensive review. Check thesis coherence, source article integration, tenet alignment, and writing quality.
-- **Source**: human
-- **Generated**: 2026-02-10
-
-### P2: Sharpen post-decoherence selection mechanism in timing-gap-problem.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-10) found the post-decoherence selection framework is under-specified. After decoherence, the system is in a proper mixture—the article needs to clarify whether consciousness acts as a hidden variable, operates outside the quantum formalism, or requires a modified collapse theory. Also: incomplete citations for Perry 2025, Bandyopadhyay 2014, and Bengson et al. 2019. See pessimistic-2026-02-10.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-10
-
 ### P2: Update references to coalesced attention articles (attention-interface-mechanisms, attention-motor-planning-quantum-interface)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-09) merged `attention-interface-mechanisms.md` and `attention-motor-planning-quantum-interface.md` into `attention-as-selection-interface.md`. 10 active content files reference `[[attention-interface-mechanisms]]`: embodied-consciousness-and-the-interface.md, psychophysical-laws-bridging-mind-and-matter.md, psychophysical-coupling.md, free-will.md, decoherence.md, quantum-consciousness.md, mental-effort.md, stapp-quantum-mind.md, attention-as-interface.md, structure-of-attention.md. Update wikilinks to point to attention-as-selection-interface.
@@ -506,6 +492,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Deep review open-question-ai-consciousness.md
+- **Type**: deep-review
+- **Notes**: Newly created apex article (#10) needs comprehensive review. Check thesis coherence, source article integration, tenet alignment, and writing quality.
+- **Output**: obsidian/apex/open-question-ai-consciousness.md
+
+### ✓ 2026-02-10: Deep review open-question-ai-consciousness.md
+- **Type**: deep-review
+- **Notes**: Comprehensive review of apex article #10. No critical issues found. Addressed 4 medium issues: qualified Microsoft quantum claim, expanded Albert-Loewer many-minds discussion, added Metzinger framework context, clarified Map's own analytical contributions. Added cross-links to consciousness-and-agency and process-and-consciousness.
+- **Output**: [[reviews/deep-review-2026-02-10-open-question-ai-consciousness]]
 
 ### ✓ 2026-02-10: apex-evolve: open-question-ai-consciousness — all source articles created
 - **Type**: apex-evolve
