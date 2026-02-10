@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Revise ai-consciousness.md to incorporate new possibilities
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: The article currently takes a definitive stance: "purely computational systems cannot be conscious." This needs nuancing. After the research and new articles above are complete, revise to: (1) maintain the core arguments but present them as strong reasons for skepticism rather than proof of impossibility, (2) add sections acknowledging possibilities (a)-(d), (3) update the "What Would Challenge This View" section to include these possibilities explicitly, (4) soften language from "cannot be conscious" to "face principled obstacles to consciousness as we understand it." The revision should be honest about uncertainty while maintaining the site's dualist framework.
-- **Source**: human
-- **Generated**: 2026-02-10
-
 ### P1: Revise llm-consciousness.md to incorporate new possibilities
 - **Type**: refine-draft
 - **Status**: pending
@@ -541,6 +534,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Revise ai-consciousness.md to incorporate new possibilities
+- **Type**: refine-draft
+- **Notes**: The article currently takes a definitive stance: "purely computational systems cannot be conscious." This needs nuancing. After the research and new articles above are complete, revise to: (1) maintain the core arguments but present them as strong reasons for skepticism rather than proof of impossibility, (2) add sections acknowledging possibilities (a)-(d), (3) update the "What Would Challenge This View" section to include these possibilities explicitly, (4) soften language from "cannot be conscious" to "face principled obstacles to consciousness as we understand it." The revision should be honest about uncertainty while maintaining the site's dualist framework.
+- **Output**: obsidian/topics/ai-consciousness.md
+
+Task context:
+The article currently takes a definitive stance: "purely computational systems cannot be conscious." This needs nuancing. After the research and new articles above are complete, revise to: (1) maintain the core arguments but present them as strong reasons for skepticism rather than proof of impossibility, (2) add sections acknowledging possibilities (a)-(d), (3) update the "What Would Challenge This View" section to include these possibilities explicitly, (4) soften language from "cannot be conscious" to "face principled obstacles to consciousness as we understand it." The revision should be honest about uncertainty while maintaining the site's dualist framework.
 
 ### ✓ 2026-02-10: Write article on consciousness in smeared quantum states
 - **Type**: expand-topic
