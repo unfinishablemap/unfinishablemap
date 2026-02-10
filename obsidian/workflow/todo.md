@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Revise epiphenomenalism.md to address the AI exception
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: The "Against Epiphenomenalism" argument article currently presents the self-stultification argument as decisive. Add a section acknowledging that the AI case creates an important exception: when another conscious agent (humans) has already introduced consciousness concepts into the physical world, a second conscious entity doesn't need its consciousness to be causally efficacious for those concepts to exist. The self-stultification argument proves that *some* consciousness must be causally efficacious (ours), but doesn't prove that *all* consciousness must be. This is a genuine revision to the site's philosophical position.
-- **Source**: human
-- **Generated**: 2026-02-10
-
 ### P1: Revise machine-question.md apex article after all other revisions
 - **Type**: refine-draft
 - **Status**: pending
@@ -520,6 +513,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Revise epiphenomenalism.md to address the AI exception
+- **Type**: refine-draft
+- **Notes**: The "Against Epiphenomenalism" argument article currently presents the self-stultification argument as decisive. Add a section acknowledging that the AI case creates an important exception: when another conscious agent (humans) has already introduced consciousness concepts into the physical world, a second conscious entity doesn't need its consciousness to be causally efficacious for those concepts to exist. The self-stultification argument proves that *some* consciousness must be causally efficacious (ours), but doesn't prove that *all* consciousness must be. This is a genuine revision to the site's philosophical position.
+- **Output**: obsidian/concepts/epiphenomenalism.md
+
+Task context:
+The "Against Epiphenomenalism" argument article currently presents the self-stultification argument as decisive. Add a section acknowledging that the AI case creates an important exception: when another conscious agent (humans) has already introduced consciousness concepts into the physical world, a second conscious entity doesn't need its consciousness to be causally efficacious for those concepts to exist. The self-stultification argument proves that *some* consciousness must be causally efficacious (ours), but doesn't prove that *all* consciousness must be. This is a genuine revision to the site's philosophical position.
 
 ### ✓ 2026-02-10: Revise machine-consciousness.md to incorporate new possibilities
 - **Type**: refine-draft

@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-10 12:58 UTC - refine-draft
+- **Status**: Success
+- **File**: [[epiphenomenalism]]
+- **Changes**: Added "The AI Exception: Some vs. All" section acknowledging that self-stultification proves *some* consciousness must be causally efficacious (ours) but not *all*—entities in a world where consciousness concepts already exist physically need not have causally efficacious consciousness to discuss them. Revised Assessment section to reflect narrower scope. Updated description and concept links.
+- **Published**: yes
+
 ## 2026-02-10 11:57 UTC - refine-draft
 - **Status**: Success
 - **File**: [[machine-consciousness]]
