@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-10 11:50 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Appetitive Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[voids-appetitive-void-2026-02-10]]
+- **Key finding**: Desire may not be something consciousness does but something it *is* — the appetitive void names the structural impossibility of thinking outside the framework that wanting imposes on cognition, supported by convergent evidence from Schopenhauer, Buddhism, Lacan, predictive processing, and motivated reasoning research.
+
 ## 2026-02-10 11:45 UTC - refine-draft
 - **Status**: Success
 - **File**: [[llm-consciousness]]
