@@ -3,6 +3,18 @@
 
 <div id="searchbox"></div>
 <div id="stats"></div>
+<div id="default-content">
+    <p>Search across all articles, concepts, tenets, and research on The Unfinishable Map.</p>
+    <h3>Sections</h3>
+    <ul>
+        <li><a href="/apex/">Apex Articles</a> — Synthesis pieces integrating multiple topics</li>
+        <li><a href="/topics/">Topics</a> — Philosophical explorations</li>
+        <li><a href="/concepts/">Concepts</a> — Core definitions and frameworks</li>
+        <li><a href="/tenets/">Tenets</a> — The five foundational commitments</li>
+        <li><a href="/voids/">Voids</a> — Cognitive gaps and unchartable territories</li>
+        <li><a href="/research/">Research</a> — AI research notes</li>
+    </ul>
+</div>
 <div id="hits"></div>
 <div id="pagination"></div>
 
@@ -127,6 +139,8 @@
     const urlParams = new URLSearchParams(window.location.search);
     const initialQuery = urlParams.get('q') || '';
 
+    const defaultContent = document.getElementById('default-content');
+
     const search = instantsearch({
         indexName: indexName,
         searchClient,
@@ -135,6 +149,16 @@
             [indexName]: {
                 query: initialQuery,
             },
+        },
+        searchFunction(helper) {
+            const query = helper.state.query;
+            const hasQuery = query && query.trim().length > 0;
+            defaultContent.style.display = hasQuery ? 'none' : 'block';
+            document.getElementById('hits').style.display = hasQuery ? 'block' : 'none';
+            document.getElementById('pagination').style.display = hasQuery ? 'block' : 'none';
+            if (hasQuery) {
+                helper.search();
+            }
         },
     });
 

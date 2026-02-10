@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Build pipeline for The Unfinishable Map."""
 
+import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -137,6 +138,14 @@ def main(
             sys.exit(1)
 
         console.print(f"  [green]Done[/green] Built to {output}\n")
+
+        # Step 4: Post-build cleanup
+        # Hugo 0.153 generates a spurious /150/ page from summaryLength = 150.
+        # Remove it so it doesn't appear in search results or the sitemap.
+        spurious_dir = output / "150"
+        if spurious_dir.is_dir():
+            shutil.rmtree(spurious_dir)
+            console.print("  [yellow]Cleaned[/yellow] Removed spurious /150/ directory\n")
     else:
         console.print("[dim]Step 3: Skipped Hugo build[/dim]\n")
 
