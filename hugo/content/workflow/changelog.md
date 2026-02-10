@@ -18,6 +18,36 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-10 00:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The incubation effect and unconscious processing
+- **Output**: [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
+- **Word count**: 2094
+- **Based on research**: No (general knowledge; related research note [neural-correlates-conscious-unconscious-processing-2026-01-23](/research/neural-correlates-conscious-unconscious-processing-2026-01-23/) consulted)
+
+## 2026-02-09 23:11 UTC - deep-review
+- **Status**: Success
+- **File**: [emergence-and-strong-emergence](/topics/emergence-and-strong-emergence/)
+- **Word count**: 2260 → 2371 (+111)
+- **Critical issues addressed**: 3 (Kim's argument structure, Wiest citation error, Chalmers quote accuracy)
+- **Medium issues addressed**: 3 (Broad attribution, Tegmark objection, missing cross-links)
+- **Enhancements made**: 2 (evolutionary case cross-link, quantum-consciousness cross-link)
+- **Output**: [deep-review-2026-02-09-emergence-and-strong-emergence](/reviews/deep-review-2026-02-09-emergence-and-strong-emergence/)
+
+## 2026-02-09 22:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Ownership Problem
+- **Output**: [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/)
+- **Word count**: 2024
+- **Based on research**: no
+
+## 2026-02-09 21:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of Deliberation Under Uncertainty
+- **Output**: [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
+- **Word count**: 2135
+- **Based on research**: no
+
 ## 2026-02-09 19:01 UTC - coalesce
 - **Status**: Success
 - **Sources**: [consciousness-and-memory](/topics/consciousness-and-memory/), [consciousness-and-memory-consolidation](/topics/consciousness-and-memory-consolidation/)
