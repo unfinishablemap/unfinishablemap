@@ -81,13 +81,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-02
 - **Output**: obsidian/topics/phenomenal-conservatism-and-introspective-evidence.md
 
-### P3: Write article on phenomenology of returning attention
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02 (evening). What happens phenomenologically when attention wanders and returns? The "moment of return" has distinctive phenomenal character. Prime territory for attention-as-interface hypothesis. Builds on voluntary-attention.md, mental-effort.md, meditation-and-consciousness-modes.md. See optimistic-2026-02-02-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
 ### ✓ 2026-02-09: Create concept page for phenomenal transparency
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
@@ -492,6 +485,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Write article on phenomenology of returning attention
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (evening). What happens phenomenologically when attention wanders and returns? The "moment of return" has distinctive phenomenal character. Prime territory for attention-as-interface hypothesis. Builds on voluntary-attention.md, mental-effort.md, meditation-and-consciousness-modes.md. See optimistic-2026-02-02-evening.md
+- **Output**: phenomenology of returning attention
 
 ### ✓ 2026-02-10: Deep review open-question-ai-consciousness.md
 - **Type**: deep-review
