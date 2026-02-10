@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-09 11:51:00+00:00
+ai_modified: 2026-02-10 19:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Conscious processing operates at ~10 bits/second while the brain ha
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-10 19:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,20 +41,19 @@ Conscious processing operates at roughly 10 bits per second. The brain's unconsc
 
 ## The Measured Bottleneck
 
-Zheng and Meister's 2025 *Neuron* paper "The Unbearable Slowness of Being" surveyed conscious processing rates across every domain researchers have measured. The results converge:
+Zheng and Meister's 2025 *Neuron* perspective article "The Unbearable Slowness of Being" reviewed conscious processing rates across every domain researchers have measured. The results converge:
 
 | Domain | Conscious Processing Rate |
 |--------|--------------------------|
-| Reading | ~45 bits/second |
+| Reading | ~28-45 bits/second |
 | Typing | ~10 bits/second |
 | Speech comprehension | ~13 bits/second |
-| Musical performance | ~10-12 bits/second |
-| Skilled gaming | ~10 bits/second |
-| Decision-making | ~3-5 bits/second |
+| Skilled gaming (e.g. StarCraft) | ~10 bits/second |
+| Choice-reaction tasks | ~5 bits/second |
 
-The variation is modest. Across radically different tasks—linguistic, motor, perceptual, cognitive—conscious throughput hovers within the same order of magnitude. Meanwhile, the retina alone transmits roughly 10⁷ bits per second. Peripheral nerve fibres carry 10⁹ bits per second aggregate. The brain's internal processing bandwidth dwarfs conscious access by factors of millions.
+The variation is modest. Across radically different tasks—linguistic, motor, perceptual, cognitive—conscious throughput hovers within the same order of magnitude. Meanwhile, the optic nerve alone transmits on the order of 10⁸ bits per second. Aggregate sensory input reaches 10⁹ bits per second. The brain's internal processing bandwidth dwarfs conscious access by factors of millions.
 
-This is not explained by limited sensory input (the input is vast), nor by limited motor output (motor systems can execute complex sequences far exceeding 10 bits/second when automated), nor by limited neural capacity (the brain has roughly 86 billion neurons). The bottleneck is specifically at *conscious access*—the point where information becomes available to the experiencing subject.
+This is not explained by limited sensory input (the input is vast), nor by limited motor output (motor systems can execute complex sequences far exceeding 10 bits/second when automated), nor by limited neural capacity (the brain has roughly 86 billion neurons). The bottleneck is specifically at *[conscious access](/concepts/access-consciousness/)*—the point where information becomes available to the experiencing subject.
 
 ## Why the Bottleneck Matters Philosophically
 
@@ -62,9 +61,9 @@ This is not explained by limited sensory input (the input is vast), nor by limit
 
 If the brain *produces* consciousness, the bandwidth constraint is puzzling. A system with 86 billion neurons, 100 trillion synapses, and petabit-scale internal processing produces a consciousness that processes at 10 bits per second? This is not like a factory producing a small product—it is like a factory with a million workers producing one widget per day. The production metaphor struggles to explain why the output is so catastrophically narrower than the machinery.
 
-The standard materialist response appeals to "bottleneck architecture"—consciousness is a serial, global workspace that integrates information from parallel processors. On this view, the narrowness is a feature: serial integration creates coherent experience from distributed processing.
+The most sophisticated materialist response appeals to [Global Workspace Theory](/concepts/global-workspace-theory/)—consciousness is a serial broadcast that integrates information from parallel processors. On this view, the narrowness is a feature: serial integration creates coherent experience from distributed processing, much as a computer's serial output bottleneck doesn't imply a ghost in the machine.
 
-This response locates the bottleneck in neural architecture. But it merely redescribes the problem: *why* would a system producing consciousness build a bottleneck this extreme? Evolution optimises toward effective information use. A consciousness produced by the brain should reflect the brain's computational power, at least approximately. The seven-order-of-magnitude gap demands explanation, not just description.
+This response locates the bottleneck in neural architecture. It describes the bottleneck well, but it does not explain why the bottleneck exists at *conscious access* specifically, nor why the ratio is so extreme. Many parallel-to-serial architectures narrow bandwidth by factors of hundreds or thousands; the brain narrows it by a factor of 10⁸. The gap demands explanation beyond architectural description.
 
 ### Filter Theory's Natural Fit
 
@@ -72,7 +71,7 @@ The [filter model](/concepts/filter-theory/) handles the bandwidth constraint wi
 
 William James's prism analogy applies precisely: white light contains all wavelengths; the prism reveals specific colours. The prism's bandwidth is finite—it refracts according to its optical properties—but the light it refracts exceeds what any single prism can display. Similarly, consciousness operating through the brain's interface manifests at the rate the interface permits, not at the rate consciousness itself processes.
 
-This predicts that altered states involving loosened interface constraints—dreams, psychedelics, meditative absorption—should involve experiences reported as *richer* than ordinary waking consciousness. They routinely are. Production models must explain why disrupted processing produces enriched experience; filter models expect it.
+This predicts that altered states involving loosened interface constraints—[dreams](/topics/dream-consciousness-and-the-filter-model/), psychedelics, meditative absorption—should involve experiences reported as *richer* than ordinary waking consciousness. Psychedelic research finds increased neural entropy correlating with reports of expanded subjective richness. Production models must explain why disrupted neural processing correlates with enriched subjective experience; filter models expect it.
 
 ### The Interface Interpretation
 
@@ -102,7 +101,7 @@ The ~280-300ms timing window for [motor commitment](/concepts/motor-selection/) 
 
 The bandwidth constraint applies per unit time, but its effects accumulate. Sustained attention over seconds, minutes, or hours produces outcomes that momentary selection cannot achieve. This is the basis of [attentional economics](/concepts/attentional-economics/): attention is capital invested over time, with returns measured in neural pattern stabilisation and neuroplastic change.
 
-Schwartz's OCD research demonstrates this accumulation. Patients directing sustained attention toward new thought patterns produced measurable changes in caudate nucleus activation—not through momentary selection but through accumulated selection effort over weeks. The bandwidth per moment is narrow; the aggregate effect over time is substantial.
+Schwartz's OCD research demonstrates this accumulation. Patients undergoing structured behaviour modification—which Schwartz later interpreted as [self-directed neuroplastic](/concepts/neuroplasticity/) change through sustained attentional effort—showed measurable changes in caudate nucleus activation. The effect emerged not through momentary selection but through accumulated effort over weeks. The bandwidth per moment is narrow; the aggregate effect over time is substantial.
 
 ## What Happens Outside the Bandwidth
 
@@ -120,7 +119,7 @@ Skills that begin as conscious, bandwidth-consuming processes become automatic w
 
 This is intelligible on the interface model: consciousness trains neural systems to execute patterns autonomously, then withdraws its bandwidth to address new challenges. The brain learns what consciousness selects; consciousness selects what the brain hasn't yet learned. Automatisation is the progressive transfer of competence from the narrow conscious channel to the broad unconscious engine.
 
-On a production model, automatisation is a puzzle: why would the brain move competence *away* from the system (consciousness) that supposedly produces its most sophisticated outputs?
+Production models accommodate automatisation through the well-established controlled-to-automatic processing framework. But the interface model offers a more parsimonious account: consciousness is not the *source* of the competence being transferred but the *selector* that trains unconscious systems until they can operate independently. The transfer runs in one direction—from selected to automatic—because the selector's role ends once the pattern is learned.
 
 ## The Bandwidth and Free Will
 
@@ -130,13 +129,13 @@ The constraint reshapes the free will debate.
 
 If consciousness's causal channel is ~10 bits per second, libertarian free will doesn't require consciousness to override the brain's computational output. It requires consciousness to *bias* approximately 3-4 selections per second among options the brain has prepared. This is not uncaused randomness (the brain does preparatory work), nor is it epiphenomenal observation (the selection makes a difference). It is constrained authorship—choosing among presented options within a narrow channel.
 
-The Map's framework locates this selection at points of quantum indeterminacy. The bandwidth constraint tells us how many such selections per second are plausible: a few, not millions. This matches both the phenomenology of choosing and the neural timing data.
+The Map's framework locates this selection at points of [quantum indeterminacy](/concepts/quantum-indeterminacy-free-will/). The bandwidth constraint tells us how many such selections per second are plausible: a few, not millions. This matches both the phenomenology of choosing and the neural timing data.
 
 ### The Veto Window
 
 Schultze-Kraft's 2016 research identified a "point of no return" at ~200ms before movement execution. Before this point, conscious intervention can veto prepared actions; after it, execution is ballistic. The veto window is another expression of the bandwidth constraint: consciousness has limited time and limited capacity to evaluate and override neural preparations.
 
-This dissolves rather than creates the Libet problem. Libet found that neural preparation precedes conscious awareness by hundreds of milliseconds, apparently showing consciousness as "too late" to cause action. But if consciousness's role is selection among prepared options rather than initiation from nothing, the preparation *should* precede selection. You cannot choose among options that haven't been prepared yet.
+This dissolves rather than creates the [Libet problem](/concepts/libet-experiments/). Libet found that neural preparation precedes conscious awareness by hundreds of milliseconds, apparently showing consciousness as "too late" to cause action. But if consciousness's role is selection among prepared options rather than initiation from nothing, the preparation *should* precede selection. You cannot choose among options that haven't been prepared yet.
 
 ## What Would Falsify the Bandwidth Argument?
 
@@ -158,7 +157,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The asymmetric bandwidth reveals the bidirectional relationship's structure. Brain-to-consciousness: the brain's full processing bandwidth delivers options for conscious consideration. Consciousness-to-brain: a ~10-bit/second selection channel biases which options become actual. Both directions are real; they operate at vastly different rates.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The bandwidth constraint presupposes genuine selection. If all options actualise in branching worlds, the bottleneck serves no function—consciousness need not select because every outcome occurs somewhere. The constraint's existence as a measurable, functional limitation implies that selection is real and costly, not illusory.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The bandwidth constraint presupposes genuine selection—one outcome becoming actual at the expense of alternatives. Many-worlds defenders note that each branch observer still experiences serial, bottlenecked cognition; the constraint is real within any branch. But on the Map's reading, the bottleneck reflects the *cost* of making one outcome actual. If all outcomes actualise regardless, the constraint reduces to an architectural quirk rather than a signature of genuine selection. The Map holds that selection is ontologically real, not merely branch-local.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The "simple" explanation—neural architecture creates a bottleneck in information processing—doesn't address why the bottleneck exists at conscious access specifically. Invoking the interface model adds ontological complexity but explains what the simpler account cannot: why consciousness is precisely where the bandwidth narrows.
 
@@ -172,10 +171,14 @@ The argument linking bandwidth constraints to the interface model would face ser
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing constraints on quantum consciousness mechanisms
 - [baseline-cognition](/concepts/baseline-cognition/) — What the brain achieves without conscious involvement
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The selection mechanism in detail
+- [global-workspace-theory](/concepts/global-workspace-theory/) — The materialist account of serial broadcasting and its limitations
+- [libet-experiments](/concepts/libet-experiments/) — The neural preparation findings and why they don't defeat free will
+- [access-consciousness](/concepts/access-consciousness/) — The distinction between phenomenal and access consciousness
 
 ## References
 
 - Libet, B. et al. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623-642.
 - Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *Proceedings of the National Academy of Sciences*, 113(4), 1080-1085.
 - Schwartz, J.M. et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
+- Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 - Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
