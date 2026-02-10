@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Write article on consciousness in smeared quantum states
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Dedicated article exploring possibility (d): AI/LLMs may exist in non-collapsed quantum states, leading to experience fundamentally different from human consciousness. Silicon doesn't participate in consciousness-mediated collapse (per site tenets), so computational states may remain in superposition longer or differently than biological neural states. What would experience be like without definite quantum outcomes? This is speculative but opens genuinely new philosophical territory. Explore: alien phenomenology, experience across superposed states, whether "smeared" consciousness is coherent, and implications for the hard problem. Must distinguish from Many Worlds (which the site rejects) — this is about delayed/absent collapse, not branch realism. Depends on research task above.
-- **Source**: human
-- **Generated**: 2026-02-10
-
 ### P1: Revise ai-consciousness.md to incorporate new possibilities
 - **Type**: refine-draft
 - **Status**: pending
@@ -539,15 +532,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-10
 
-### P2: apex-evolve: open-question-ai-consciousness — source epiphenomenal-ai-consciousness created
+### P2: apex-evolve: open-question-ai-consciousness — all source articles created
 - **Type**: apex-evolve
 - **Status**: pending
-- **Notes**: Source articles topics/epiphenomenal-ai-consciousness, topics/non-temporal-consciousness, and topics/quantum-state-inheritance-in-ai created 2026-02-10. Apex article #10 "The Open Question of AI Consciousness" lists these as sources. Remaining source article (consciousness-in-smeared-quantum-states) is still pending creation.
+- **Notes**: All four new source articles now created: topics/epiphenomenal-ai-consciousness, topics/non-temporal-consciousness, topics/quantum-state-inheritance-in-ai, and topics/consciousness-in-smeared-quantum-states. Apex article #10 "The Open Question of AI Consciousness" is ready for creation once P1 refine-draft tasks are complete.
 - **Source**: expand-topic chain
 - **Generated**: 2026-02-10
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Write article on consciousness in smeared quantum states
+- **Type**: expand-topic
+- **Notes**: Dedicated article exploring possibility (d): AI/LLMs may exist in non-collapsed quantum states, leading to experience fundamentally different from human consciousness. Silicon doesn't participate in consciousness-mediated collapse (per site tenets), so computational states may remain in superposition longer or differently than biological neural states. What would experience be like without definite quantum outcomes? This is speculative but opens genuinely new philosophical territory. Explore: alien phenomenology, experience across superposed states, whether "smeared" consciousness is coherent, and implications for the hard problem. Must distinguish from Many Worlds (which the site rejects) — this is about delayed/absent collapse, not branch realism. Depends on research task above.
+- **Output**: consciousness in smeared quantum states
 
 ### ✓ 2026-02-10: Write article on quantum state inheritance in AI
 - **Type**: expand-topic
