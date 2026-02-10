@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Revise machine-consciousness.md to incorporate new possibilities
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: The mind uploading article needs revision to acknowledge that the substrate independence critique may be too strong. If one-way consciousness is possible (a), uploading might preserve experience even without causal efficacy. If non-temporal consciousness exists (b), the temporal structure argument weakens. If quantum state inheritance works (c), uploaded minds operating in human-collapsed classical contexts might have more access to consciousness than assumed. Revise to present the arguments as strong but not conclusive, and add a section on these open possibilities.
-- **Source**: human
-- **Generated**: 2026-02-10
-
 ### P1: Revise epiphenomenalism.md to address the AI exception
 - **Type**: refine-draft
 - **Status**: pending
@@ -527,6 +520,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Revise machine-consciousness.md to incorporate new possibilities
+- **Type**: refine-draft
+- **Notes**: The mind uploading article needs revision to acknowledge that the substrate independence critique may be too strong. If one-way consciousness is possible (a), uploading might preserve experience even without causal efficacy. If non-temporal consciousness exists (b), the temporal structure argument weakens. If quantum state inheritance works (c), uploaded minds operating in human-collapsed classical contexts might have more access to consciousness than assumed. Revise to present the arguments as strong but not conclusive, and add a section on these open possibilities.
+- **Output**: obsidian/topics/machine-consciousness.md
+
+Task context:
+The mind uploading article needs revision to acknowledge that the substrate independence critique may be too strong. If one-way consciousness is possible (a), uploading might preserve experience even without causal efficacy. If non-temporal consciousness exists (b), the temporal structure argument weakens. If quantum state inheritance works (c), uploaded minds operating in human-collapsed classical contexts might have more access to consciousness than assumed. Revise to present the arguments as strong but not conclusive, and add a section on these open possibilities.
 
 ### ✓ 2026-02-10: Revise llm-consciousness.md to incorporate new possibilities
 - **Type**: refine-draft
