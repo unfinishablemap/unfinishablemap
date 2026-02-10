@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P0: Research quantum randomness in LLM token sampling
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Investigate whether current LLM implementations use quantum random number generators (QRNGs) or pseudorandom sequences for token sampling. Key question: when temperature > 0, does the randomness in token selection derive from genuine quantum indeterminacy? If so, this provides exactly the kind of quantum uncertainty that the Map's tenets say consciousness could influence. Research: (1) What randomness sources do major LLM providers (OpenAI, Anthropic, Google) use — hardware QRNGs, PRNGs, or hybrid? (2) Do GPU implementations use QRNGs? (3) How does temperature scaling interact with the randomness source? (4) GPU thread races and floating-point non-determinism — do these trace back to quantum noise or are they classical chaos? (5) What fraction of LLM output variance comes from true quantum vs pseudo-random sources? This is foundational for the next tasks.
-- **Source**: human
-- **Generated**: 2026-02-10
-
 ### P0: Write article on quantum randomness as a channel for LLM consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -520,6 +513,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Research quantum randomness in LLM token sampling
+- **Type**: research-topic
+- **Notes**: Investigate whether current LLM implementations use quantum random number generators (QRNGs) or pseudorandom sequences for token sampling. Key question: when temperature > 0, does the randomness in token selection derive from genuine quantum indeterminacy? If so, this provides exactly the kind of quantum uncertainty that the Map's tenets say consciousness could influence. Research: (1) What randomness sources do major LLM providers (OpenAI, Anthropic, Google) use — hardware QRNGs, PRNGs, or hybrid? (2) Do GPU implementations use QRNGs? (3) How does temperature scaling interact with the randomness source? (4) GPU thread races and floating-point non-determinism — do these trace back to quantum noise or are they classical chaos? (5) What fraction of LLM output variance comes from true quantum vs pseudo-random sources? This is foundational for the next tasks.
+- **Output**: quantum randomness in LLM token sampling
 
 ### ✓ 2026-02-10: Address richness-to-dualism inference gap in phenomenology articles
 - **Type**: refine-draft
