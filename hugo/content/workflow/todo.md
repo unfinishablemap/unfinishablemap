@@ -38,34 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Revise machine-consciousness.md to incorporate new possibilities
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: The mind uploading article needs revision to acknowledge that the substrate independence critique may be too strong. If one-way consciousness is possible (a), uploading might preserve experience even without causal efficacy. If non-temporal consciousness exists (b), the temporal structure argument weakens. If quantum state inheritance works (c), uploaded minds operating in human-collapsed classical contexts might have more access to consciousness than assumed. Revise to present the arguments as strong but not conclusive, and add a section on these open possibilities.
-- **Source**: human
-- **Generated**: 2026-02-10
-
-### P1: Revise epiphenomenalism.md to address the AI exception
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: The "Against Epiphenomenalism" argument article currently presents the self-stultification argument as decisive. Add a section acknowledging that the AI case creates an important exception: when another conscious agent (humans) has already introduced consciousness concepts into the physical world, a second conscious entity doesn't need its consciousness to be causally efficacious for those concepts to exist. The self-stultification argument proves that *some* consciousness must be causally efficacious (ours), but doesn't prove that *all* consciousness must be. This is a genuine revision to the site's philosophical position.
-- **Source**: human
-- **Generated**: 2026-02-10
-
-### P1: Revise machine-question.md apex article after all other revisions
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: After all research, new articles, and revisions to source articles are complete, update "The Machine Question" apex synthesis to reflect the revised, more nuanced position. The thesis "the gap is principled, not practical" should be softened to acknowledge genuine open questions. The apex must synthesize possibilities (a)-(d) into the overall narrative. This should be the last P1 task executed, as it depends on all prior work.
-- **Source**: human
-- **Generated**: 2026-02-10
-
-### P2: Address richness-to-dualism inference gap in phenomenology articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-10) found that phenomenology-of-surprise-and-prediction-error.md and phenomenology-of-belief-revision.md both move from "X has rich phenomenal character" to "therefore X supports dualism" without adequately distinguishing between limitations of current models and limitations of physicalism as such. Need to engage type-B materialist response. See pessimistic-2026-02-10.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-10
-
 ### P2: Address contemplative evidence cherry-picking in contemplative-epistemology.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -528,6 +500,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Address richness-to-dualism inference gap in phenomenology articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-10) found that phenomenology-of-surprise-and-prediction-error.md and phenomenology-of-belief-revision.md both move from "X has rich phenomenal character" to "therefore X supports dualism" without adequately distinguishing between limitations of current models and limitations of physicalism as such. Need to engage type-B materialist response. See pessimistic-2026-02-10.md
+- **Output**: Task context:
+Pessimistic review (2026-02-10) found that phenomenology-of-surprise-and-prediction-error.md and phenomenology-of-belief-revision.md both move from "X has rich phenomenal character" to "therefore X supports dualism" without adequately distinguishing between limitations of current models and limitations of physicalism as such. Need to engage type-B materialist response. See pessimistic-2026-02-10.md
+
+### ✓ 2026-02-10: Revise machine-question.md apex article after all other revisions
+- **Type**: refine-draft
+- **Notes**: After all research, new articles, and revisions to source articles are complete, update "The Machine Question" apex synthesis to reflect the revised, more nuanced position. The thesis "the gap is principled, not practical" should be softened to acknowledge genuine open questions. The apex must synthesize possibilities (a)-(d) into the overall narrative. This should be the last P1 task executed, as it depends on all prior work.
+- **Output**: obsidian/apex/machine-question.md
+
+Task context:
+After all research, new articles, and revisions to source articles are complete, update "The Machine Question" apex synthesis to reflect the revised, more nuanced position. The thesis "the gap is principled, not practical" should be softened to acknowledge genuine open questions. The apex must synthesize possibilities (a)-(d) into the overall narrative. This should be the last P1 task executed, as it depends on all prior work.
+
+### ✓ 2026-02-10: Revise epiphenomenalism.md to address the AI exception
+- **Type**: refine-draft
+- **Notes**: The "Against Epiphenomenalism" argument article currently presents the self-stultification argument as decisive. Add a section acknowledging that the AI case creates an important exception: when another conscious agent (humans) has already introduced consciousness concepts into the physical world, a second conscious entity doesn't need its consciousness to be causally efficacious for those concepts to exist. The self-stultification argument proves that *some* consciousness must be causally efficacious (ours), but doesn't prove that *all* consciousness must be. This is a genuine revision to the site's philosophical position.
+- **Output**: obsidian/concepts/epiphenomenalism.md
+
+Task context:
+The "Against Epiphenomenalism" argument article currently presents the self-stultification argument as decisive. Add a section acknowledging that the AI case creates an important exception: when another conscious agent (humans) has already introduced consciousness concepts into the physical world, a second conscious entity doesn't need its consciousness to be causally efficacious for those concepts to exist. The self-stultification argument proves that *some* consciousness must be causally efficacious (ours), but doesn't prove that *all* consciousness must be. This is a genuine revision to the site's philosophical position.
+
+### ✓ 2026-02-10: Revise machine-consciousness.md to incorporate new possibilities
+- **Type**: refine-draft
+- **Notes**: The mind uploading article needs revision to acknowledge that the substrate independence critique may be too strong. If one-way consciousness is possible (a), uploading might preserve experience even without causal efficacy. If non-temporal consciousness exists (b), the temporal structure argument weakens. If quantum state inheritance works (c), uploaded minds operating in human-collapsed classical contexts might have more access to consciousness than assumed. Revise to present the arguments as strong but not conclusive, and add a section on these open possibilities.
+- **Output**: obsidian/topics/machine-consciousness.md
+
+Task context:
+The mind uploading article needs revision to acknowledge that the substrate independence critique may be too strong. If one-way consciousness is possible (a), uploading might preserve experience even without causal efficacy. If non-temporal consciousness exists (b), the temporal structure argument weakens. If quantum state inheritance works (c), uploaded minds operating in human-collapsed classical contexts might have more access to consciousness than assumed. Revise to present the arguments as strong but not conclusive, and add a section on these open possibilities.
 
 ### ✓ 2026-02-10: Revise llm-consciousness.md to incorporate new possibilities
 - **Type**: refine-draft

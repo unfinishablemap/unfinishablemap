@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-02-10 07:11:00+00:00
+ai_modified: 2026-02-10 14:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -35,7 +35,7 @@ topics:
 - '[[phenomenology-of-anticipation]]'
 ---
 
-Prediction error is one concept in computational neuroscience; surprise is a vast family of experiences. The Unfinishable Map argues that the phenomenological spectrum of prediction error—from the barely noticed micro-adjustment to the worldview-shattering revelation—reveals something that no computational account captures. Each point on this spectrum has distinctive qualitative character: the slight strangeness when a familiar face wears unfamiliar glasses, the shock when the floor isn't where your foot expects it, the slow vertigo of realising a trusted framework was wrong. [Predictive processing](/concepts/predictive-processing/) describes all of these as differences in error magnitude, precision weighting, and hierarchical level. But the lived experiences differ in *kind*, not just degree—and this qualitative richness is precisely what dualist accounts predict and materialist accounts struggle to explain.
+Prediction error is one concept in computational neuroscience; surprise is a vast family of experiences. The Unfinishable Map argues that the phenomenological spectrum of prediction error—from the barely noticed micro-adjustment to the worldview-shattering revelation—reveals something that no computational account captures. Each point on this spectrum has distinctive qualitative character: the slight strangeness when a familiar face wears unfamiliar glasses, the shock when the floor isn't where your foot expects it, the slow vertigo of realising a trusted framework was wrong. [Predictive processing](/concepts/predictive-processing/) describes all of these as differences in error magnitude, precision weighting, and hierarchical level. But the lived experiences differ in *kind*, not just degree. A physicalist can insist that this qualitative richness maps onto neural diversity and will eventually yield to physical explanation. The Map argues otherwise—not because current models are incomplete (they are), but because the relationship between computational description and felt quality has the character of a gap that no amount of physical detail narrows.
 
 ## The Spectrum of Prediction Error Experience
 
@@ -71,7 +71,9 @@ Consider precision weighting—the mechanism by which predictive processing dete
 
 Similarly, errors at different hierarchical levels produce qualitatively distinct experiences. A low-level perceptual error (the floor is one step lower than expected) produces a somatic jolt. A mid-level social error (a friend says something out of character) produces cognitive dissonance. A high-level framework error (a fundamental assumption turns out to be wrong) produces existential vertigo. These are not just quantitative differences scaled up from the same basic surprise-experience. They differ in their temporal profile, their affective tone, their bodily manifestation, and their relationship to the self. The somatic jolt is over in milliseconds and involves the body directly. The existential vertigo unfolds over days and involves identity.
 
-This qualitative diversity is exactly what dualist accounts would expect. If conscious experience is irreducible to its physical substrate, then the relationship between computational error signals and felt surprise should be rich and non-trivial—different aspects of the physical process should correlate with qualitatively distinct experiences that cannot be predicted from the physical description alone. Materialist accounts, by contrast, need to explain why a single type of computational event (prediction error) produces such a diverse phenomenological landscape.
+A type-B materialist—one who accepts the explanatory gap but denies the ontological gap—can grant all of this phenomenological description while insisting that each qualitative experience *is* its neural substrate, even if we cannot yet see why. On this view, the diversity of surprise experience maps onto the diversity of neural architectures that process different kinds of prediction error, and the felt difference between a somatic jolt and existential vertigo simply *is* the difference between the neural systems involved. The gap between computational description and felt quality is epistemic, not metaphysical.
+
+The Map takes this response seriously but finds it insufficient. The type-B materialist must hold that the specific qualitative character of each experience—why high-precision error feels like *sharp surprise* rather than *mild unease* or nothing at all—is identical to some physical property, even though no amount of physical description reveals this identity. This is not merely an unsolved problem awaiting better neuroscience; it is a claim that the identity holds as a brute fact, resistant to explanation in principle. The question is whether accepting brute psychophysical identities for every qualitative nuance across the prediction error spectrum is genuinely more parsimonious than acknowledging that phenomenal character involves something beyond the physical—or whether it merely relocates the mystery while claiming to have dissolved it.
 
 ## The Absence of Expected Surprise
 
@@ -79,7 +81,7 @@ One of the most revealing phenomena is the failure of surprise to appear when it
 
 Why does the mismatch between predicted and actual room temperature remain unconscious while the mismatch between predicted and actual tone of voice becomes a sharp social surprise? Precision weighting provides a functional answer: the social error gets higher precision because social prediction matters more for behaviour. But this functional explanation leaves the phenomenological question untouched. The high-precision social error doesn't just get processed more—it becomes *an experience*. There is something it is like to notice the wrong tone of voice, and nothing it is like (for the subject) to have room temperature corrected.
 
-The threshold between unconscious error correction and conscious surprise marks a transition from one ontological category to another—from information processing to experience. Predictive processing can describe where this threshold falls and what computational properties determine it. What it cannot describe is why crossing the threshold transforms a signal into a *felt quality*. This is the [explanatory gap](/concepts/explanatory-gap/) operating in real time within a single cognitive event.
+The threshold between unconscious error correction and conscious surprise marks what dualists interpret as a transition between ontological categories—from information processing to experience. A physicalist can describe this as a transition in functional complexity: when error signals recruit enough attentional and integrative resources, they become conscious. But this functional description, however accurate about *when* consciousness arises, does not address *why* functional complexity of this particular kind produces felt quality rather than more sophisticated information processing without experience. Predictive processing can describe where the threshold falls and what computational properties determine it. What remains unexplained—on any current physical account—is why crossing the threshold transforms a signal into a *felt quality*. The Map holds that this persistent explanatory gap is not merely a mark of current ignorance but reflects a genuine ontological distinction. The physicalist who insists otherwise must treat the emergence of felt quality from functional complexity as a brute fact—possible, but explanatorily unsatisfying in precisely the way that motivates dualism.
 
 ## Surprise as Self-Disclosure
 
@@ -95,7 +97,7 @@ This self-disclosing function is difficult to replicate computationally. A predi
 
 The phenomenology of surprise and prediction error connects to The Unfinishable Map's [tenets](/tenets/) at several points.
 
-**[Dualism](/tenets/#dualism)**: The qualitative richness of the prediction error spectrum—the way identical computational events produce phenomenally distinct experiences depending on their precision, hierarchical level, and personal significance—exemplifies the explanatory gap. Computational description captures the structure of prediction error but not its experiential texture. The felt difference between a perceptual jolt and existential vertigo is a phenomenal fact that physical description alone does not predict.
+**[Dualism](/tenets/#dualism)**: The qualitative richness of the prediction error spectrum—the way computational events at different levels produce phenomenally distinct experiences—exemplifies the explanatory gap. A type-B materialist can accept all the phenomenological descriptions in this article while maintaining that each felt quality *is* its neural correlate. The Map's dualist response is not that current models fail (they do, but that alone proves nothing) but that the *structure* of the failure is revealing: what remains unexplained is not a detail awaiting empirical discovery but the very relationship between physical description and felt quality. The accumulation of brute psychophysical identities needed to cover the full spectrum of surprise experience—from micro-correction to existential vertigo—makes the identity theory less an explanation than a catalogue of unexplained correspondences.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The reorientation phase of surprise—where consciousness actively restructures the experiential field in response to violated expectation—suggests that phenomenal states causally contribute to cognitive outcomes. The *way* attention is redirected depends on the qualitative character of the surprise: alarm directs attention differently from curiosity, and this difference in phenomenal flavour shapes the downstream cognitive response. If the phenomenal character were epiphenomenal, the precise correlation between type of felt surprise and type of cognitive response would be a systematic accident.
 
@@ -120,3 +122,16 @@ The phenomenology of surprise and prediction error connects to The Unfinishable 
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 - Seth, A. K. (2021). *Being You: A New Science of Consciousness*. Dutton.
 - Meyer, L.B. (1956). *Emotion and Meaning in Music*. University of Chicago Press.
+
+<!-- AI REFINEMENT LOG - 2026-02-10
+Changes made:
+- Opening paragraph: replaced "dualist accounts predict and materialist accounts struggle to explain" with engagement of physicalist counter — the Map's argument is about the structure of the gap, not just current model failure
+- "Why Qualitative Richness Matters" section: replaced direct richness→dualism inference with explicit engagement of type-B materialist response (phenomenal richness as neural diversity). Map's response: brute identities accumulate without explanatory principle
+- "Absence of Expected Surprise" section: qualified ontological category claim — acknowledged physicalist functional-complexity reading, then argued the emergence of felt quality from complexity is itself the unexplained gap
+- "Relation to Site Perspective" dualism paragraph: replaced "physical description alone does not predict" with nuanced argument that type-B materialist's catalogue of brute identities is less explanatory than dualism
+
+Based on pessimistic review (2026-02-10) Issue 1: "The Richness-to-Dualism Inference."
+Key improvement: Distinguishes between limitations of current models and limitations of physicalism as such. Engages type-B materialist response directly.
+
+This log should be removed after human review.
+-->

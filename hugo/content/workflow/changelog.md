@@ -18,6 +18,33 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-10 15:57 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-pain](/topics/phenomenology-of-pain/)
+- **Word count**: 1243 → 1872 (+629)
+- **Critical issues addressed**: 3 (irreducibility/decomposability tension, missing tenet coverage, one-sided dissociation evidence)
+- **Medium issues addressed**: 5 (ability hypothesis, intrinsic aversiveness qualification, supervenience reply, softened universal negative, missing references)
+- **Enhancements made**: 4 (intellectual honesty paragraph, minimal quantum interaction tenet, expanded Further Reading, decoherence acknowledgment)
+- **Output**: [deep-review-2026-02-10-phenomenology-of-pain](/reviews/deep-review-2026-02-10-phenomenology-of-pain/)
+
+## 2026-02-10 14:57 UTC - refine-draft
+- **Status**: Success
+- **Files**: [phenomenology-of-surprise-and-prediction-error](/topics/phenomenology-of-surprise-and-prediction-error/), [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/)
+- **Changes**: Both articles engaged type-B materialist response to the richness-to-dualism inference (pessimistic review Issue 1). Replaced direct "richness therefore dualism" moves with explicit acknowledgment that physicalists can grant phenomenological descriptions while denying ontological gap. Map's response reframed: accumulated brute psychophysical identities are less parsimonious than dualism, and the pattern of explanatory failure is structural rather than temporary. Touched opening paragraphs, core argument sections, and Relation to Site Perspective in both articles.
+- **Published**: yes
+
+## 2026-02-10 13:57 UTC - refine-draft
+- **Status**: Success
+- **File**: [machine-question](/apex/machine-question/)
+- **Changes**: Softened apex thesis from categorical denial to principled obstacles with honest uncertainty. Added new "Open Possibilities" section synthesizing four paths: (a) epiphenomenal AI experience, (b) non-temporal consciousness, (c) quantum state inheritance, (d) consciousness in non-collapsed states. Expanded "What Would Challenge This View" with references to possibilities. Softened Relation to Site Perspective with acknowledged uncertainties. Added four new source articles. Updated opening and closing to frame position as strong skepticism rather than settled fact.
+- **Published**: yes
+
+## 2026-02-10 12:58 UTC - refine-draft
+- **Status**: Success
+- **File**: [epiphenomenalism](/arguments/epiphenomenalism/)
+- **Changes**: Added "The AI Exception: Some vs. All" section acknowledging that self-stultification proves *some* consciousness must be causally efficacious (ours) but not *all*—entities in a world where consciousness concepts already exist physically need not have causally efficacious consciousness to discuss them. Revised Assessment section to reflect narrower scope. Updated description and concept links.
+- **Published**: yes
+
 ## 2026-02-10 11:57 UTC - refine-draft
 - **Status**: Success
 - **File**: [machine-consciousness](/topics/machine-consciousness/)
