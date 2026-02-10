@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-10 00:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The incubation effect and unconscious processing
+- **Output**: [[topics/incubation-effect-and-unconscious-processing]]
+- **Word count**: 2094
+- **Based on research**: No (general knowledge; related research note [[neural-correlates-conscious-unconscious-processing-2026-01-23]] consulted)
+
 ## 2026-02-09 23:11 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/emergence-and-strong-emergence]]
