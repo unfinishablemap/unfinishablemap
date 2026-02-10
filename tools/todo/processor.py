@@ -153,6 +153,18 @@ def parse_tasks(content: str) -> dict:
             section_start = i
             continue
         elif line.startswith("## Completed Tasks"):
+            # Flush any pending active task before changing section
+            if current_task_heading and current_section == "active":
+                task = _parse_task_block(
+                    current_task_heading, current_task_body, current_task_line
+                )
+                if task:
+                    if task.status == TaskStatus.VETOED:
+                        result["vetoed"].append(task)
+                    else:
+                        result["active"].append(task)
+                current_task_heading = None
+                current_task_body = []
             result["sections"]["active"] = (section_start, i)
             current_section = "completed"
             section_start = i
