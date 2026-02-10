@@ -209,7 +209,7 @@ The mind-brain separation framework would face serious difficulty if:
 - [binding-problem](/concepts/binding-problem/) — Why neural mechanisms fail to explain phenomenal unity
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Anesthesia, covert consciousness, and the interface interpretation
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced experience during brain compromise
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The broader framework this analysis supports
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework this analysis supports
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Why correlates don't establish production
 - [qualia](/concepts/qualia/) — The qualitative properties that appear intrinsically mental
 

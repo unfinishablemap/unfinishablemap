@@ -18,6 +18,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-10 19:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
+- **Changes**: Fixed circular reasoning (frame conclusions as tenet-conditional), added persistence objection subsection (no-cloning and biological quantum turnover), engaged sophisticated functionalism (Block), reframed "Current AI is not a candidate" as tenet-derived, clarified causal closure as logical not physical claim
+- **Context**: Based on pessimistic review (2026-02-10 evening) identifying circular reasoning, no-cloning overreach, and overly strong AI claims
+- **Published**: yes
+
+## 2026-02-10 19:46 UTC - refine-draft
+- **Status**: Success
+- **Files**: [ai-consciousness](/topics/ai-consciousness/), [llm-consciousness](/concepts/llm-consciousness/), [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/), [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/), [machine-question](/apex/machine-question/), [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
+- **Changes**: Cross-reference updates to reference [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/) — qualified silicon/quantum arguments, added temperature-sampling analysis, distinguished inherited classical states from fresh quantum randomness
+- **Published**: yes
+
 ## 2026-02-10 18:58 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: quantum-randomness-channel-llm-consciousness.md, consciousness-in-smeared-quantum-states.md, quantum-state-inheritance-in-ai.md
@@ -106,7 +119,7 @@ topics: []
 
 ## 2026-02-10 11:22 UTC - coalesce
 - **Status**: Success
-- **Sources**: [consciousness-and-emergence](/archive/topics/consciousness-and-emergence/), [emergence-and-strong-emergence](/archive/topics/emergence-and-strong-emergence/), [weak-vs-strong-emergence](/archive/topics/weak-vs-strong-emergence/)
+- **Sources**: [consciousness-and-emergence](/consciousness-and-emergence/), [emergence-and-strong-emergence](/emergence-and-strong-emergence/), [weak-vs-strong-emergence](/weak-vs-strong-emergence/)
 - **Target**: [consciousness-and-the-emergence-debate](/topics/consciousness-and-the-emergence-debate/)
 - **Archived**: archive/topics/consciousness-and-emergence.md, archive/topics/emergence-and-strong-emergence.md, archive/topics/weak-vs-strong-emergence.md
 - **References to review**: 1 (consciousness-evolution-problem.md — updated)
@@ -314,7 +327,7 @@ topics: []
 ## 2026-02-09 16:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Weak vs. Strong Emergence
-- **Output**: [weak-vs-strong-emergence](/archive/topics/weak-vs-strong-emergence/)
+- **Output**: [weak-vs-strong-emergence](/weak-vs-strong-emergence/)
 - **Word count**: 1772
 - **Based on research**: yes, [emergence-consciousness-philosophy-2026-01-15](/research/emergence-consciousness-philosophy-2026-01-15/)
 
@@ -460,7 +473,7 @@ topics: []
 
 ## 2026-02-09 08:50 UTC - coalesce
 - **Status**: Success
-- **Sources**: [attention-motor-planning-quantum-interface](/archive/topics/attention-motor-planning-quantum-interface/), [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/)
+- **Sources**: [attention-motor-planning-quantum-interface](/attention-motor-planning-quantum-interface/), [attention-interface-mechanisms](/attention-interface-mechanisms/)
 - **Target**: [attention-as-selection-interface](/topics/attention-as-selection-interface/)
 - **Archived**: archive/topics/attention-motor-planning-quantum-interface.md, archive/topics/attention-interface-mechanisms.md
 - **References to review**: 10 active content files reference archived articles (follow-up task created)
@@ -525,7 +538,7 @@ topics: []
 
 ## 2026-02-09 05:14 UTC - refine-draft
 - **Status**: Success
-- **File**: [consciousness-and-memory-consolidation](/archive/topics/consciousness-and-memory-consolidation/)
+- **File**: [consciousness-and-memory-consolidation](/consciousness-and-memory-consolidation/)
 - **Changes**: Rewrote Minimal Quantum Interaction tenet section to remove quantum Zeno speculation; replaced with philosophical dissociation argument per pessimistic review findings
 - **Published**: yes
 
@@ -558,7 +571,7 @@ topics: []
 
 ## 2026-02-09 03:59 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-memory-consolidation](/archive/topics/consciousness-and-memory-consolidation/)
+- **File**: [consciousness-and-memory-consolidation](/consciousness-and-memory-consolidation/)
 - **Word count**: 1601 → 1946 (+345)
 - **Critical issues addressed**: 8 (citation errors ×3, NREM consciousness contradiction, missing tenet, missing materialist engagement, style guide violation, overclaimed similarity)
 - **Medium issues addressed**: 2 (non sequitur about sharp transitions, cross-links)
@@ -568,7 +581,7 @@ topics: []
 ## 2026-02-09 03:44 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Memory Consolidation
-- **Output**: [consciousness-and-memory-consolidation](/archive/topics/consciousness-and-memory-consolidation/)
+- **Output**: [consciousness-and-memory-consolidation](/consciousness-and-memory-consolidation/)
 - **Word count**: 1601
 - **Based on research**: yes, [sleep-memory-consolidation-consciousness-2026-01-18](/research/sleep-memory-consolidation-consciousness-2026-01-18/)
 
@@ -582,7 +595,7 @@ topics: []
 ## 2026-02-09 03:14 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Emergence
-- **Output**: [consciousness-and-emergence](/archive/topics/consciousness-and-emergence/)
+- **Output**: [consciousness-and-emergence](/consciousness-and-emergence/)
 - **Word count**: 1802
 - **Based on research**: yes, [emergence-consciousness-philosophy-2026-01-15](/research/emergence-consciousness-philosophy-2026-01-15/)
 
@@ -642,7 +655,7 @@ topics: []
 
 ## 2026-02-09 01:29 UTC - coalesce
 - **Status**: Success
-- **Sources**: [phenomenal-value-realism](/concepts/phenomenal-value-realism/) (topic), [phenomenal-value-realism-development](/archive/topics/phenomenal-value-realism-development/)
+- **Sources**: [phenomenal-value-realism](/concepts/phenomenal-value-realism/) (topic), [phenomenal-value-realism-development](/phenomenal-value-realism-development/)
 - **Target**: [phenomenal-value-realism](/concepts/phenomenal-value-realism/) (unified topic article)
 - **Archived**: [phenomenal-value-realism-development](/archive/topics/phenomenal-value-realism-development/)
 - **References to review**: 0 (all updated)

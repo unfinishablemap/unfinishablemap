@@ -219,7 +219,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [metarepresentation](/concepts/metarepresentation/) — Representing your representations as representations
 - [cumulative-culture](/concepts/cumulative-culture/) — Why cultural ratcheting requires teaching
 - [metacognition](/concepts/metacognition/) — The enabling relation between consciousness and self-monitoring
-- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition achieves without metarepresentation
+- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without metarepresentation
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances cognitive capacity
 - [working-memory](/concepts/working-memory/) — The capacity constraints on teaching
 - [global-workspace-theory](/concepts/global-workspace-theory/) — How conscious access enables cognitive integration

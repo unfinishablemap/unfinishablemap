@@ -198,7 +198,7 @@ Phenomenal value realism interacts with all five tenets:
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Ethical implications of consciousness-grounded value
 - [experiential-alignment](/concepts/experiential-alignment/) — Operationalizing phenomenal value for AI alignment
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why aesthetic value resists hedonistic reduction
-- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — Valence as felt quality of emotion
+- [emotional-consciousness](/topics/emotional-consciousness/) — Valence as felt quality of emotion
 - [illusionism](/concepts/illusionism/) — The strongest challenge and responses
 - [haecceity](/concepts/haecceity/) — Why indexical identity matters for value
 

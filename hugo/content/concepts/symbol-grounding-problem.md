@@ -114,7 +114,7 @@ Empirical support is substantial. Comprehending action words activates motor cor
 
 But embodied cognition faces its own grounding challenges. A 2015 paper ("Three Symbol Ungrounding Problems") identifies reverse difficulties: how do embodied systems handle abstract concepts that resist sensorimotor grounding? Mathematical infinities, logical negation, counterfactual conditionals—these resist reduction to bodily experience.
 
-More fundamentally, embodiment might provide *necessary* but not *sufficient* conditions for meaning. A robot with perfect sensorimotor grounding might still lack genuine understanding if it lacks phenomenal consciousness. The [baseline-cognition](/archive/topics/baseline-cognition/) framework clarifies this: sophisticated information processing—including embodied, grounded processing—can occur without consciousness. The question is not whether cognition involves bodies—surely it does—but whether embodiment alone bridges the gap from grounding to meaning.
+More fundamentally, embodiment might provide *necessary* but not *sufficient* conditions for meaning. A robot with perfect sensorimotor grounding might still lack genuine understanding if it lacks phenomenal consciousness. The [baseline-cognition](/concepts/baseline-cognition/) framework clarifies this: sophisticated information processing—including embodied, grounded processing—can occur without consciousness. The question is not whether cognition involves bodies—surely it does—but whether embodiment alone bridges the gap from grounding to meaning.
 
 ## What the Problem Reveals
 
@@ -124,7 +124,7 @@ The pattern suggests that something is missing from purely physical and computat
 
 The Map's framework offers an explanation: intrinsic meaning requires phenomenal consciousness, and phenomenal consciousness is not reducible to physical processes. The symbol grounding problem is not a technical challenge awaiting better engineering; it is a conceptual limitation revealing that meaning requires experience.
 
-This connects to the [Phenomenal Constitution Thesis](/archive/topics/meaning-and-consciousness/): genuine understanding is constitutively phenomenal. There is something it's like to grasp a meaning, and that experiential character isn't incidental to understanding—it *is* understanding. Systems without phenomenal experience can manipulate symbols, track world states, generate appropriate outputs. They cannot *mean* anything.
+This connects to the [Phenomenal Constitution Thesis](/meaning-and-consciousness/): genuine understanding is constitutively phenomenal. There is something it's like to grasp a meaning, and that experiential character isn't incidental to understanding—it *is* understanding. Systems without phenomenal experience can manipulate symbols, track world states, generate appropriate outputs. They cannot *mean* anything.
 
 ## Relation to Site Perspective
 
@@ -149,7 +149,7 @@ The symbol grounding problem connects to all five tenets:
 - [working-memory](/concepts/working-memory/) — The maintenance/manipulation distinction and conscious access
 - [functionalism](/arguments/functionalism/) — The view that mental states are defined by functional roles
 - [embodied-cognition](/concepts/embodied-cognition/) — Cognition through bodily experience
-- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition achieves without consciousness
+- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
 - [continual-learning-argument](/concepts/continual-learning-argument/) — Why static systems cannot be conscious (and thus lack thick grounding)
 - [ai-consciousness](/topics/ai-consciousness/) — Why AI consciousness remains unlikely
 - [llm-consciousness](/concepts/llm-consciousness/) — Large language models and the question of understanding

@@ -70,7 +70,7 @@ Six sympathetic personas identified strengths:
 
 ### Cross-links Added
 
-- [existentialism](/archive/concepts/existentialism/) — Added to concepts frontmatter, in-text reference, and Further Reading
+- [existentialism](/concepts/existentialism/) — Added to concepts frontmatter, in-text reference, and Further Reading
 
 ## Remaining Items
 

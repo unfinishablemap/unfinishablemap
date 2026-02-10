@@ -71,7 +71,7 @@ Personas reviewed:
 ### Cross-links Present
 
 Extensive cross-linking already in place:
-- [agent-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation/), [interactionist-dualism](/archive/arguments/interactionist-dualism/)
+- [agent-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation/), [interactionist-dualism](/concepts/interactionist-dualism/)
 - [illusionism](/concepts/illusionism/), [introspection](/concepts/introspection/), [decoherence](/concepts/decoherence/)
 - [quantum-biology](/concepts/quantum-biology/), [measurement-problem](/concepts/measurement-problem/)
 - [witness-consciousness](/concepts/witness-consciousness/), [buddhism-and-dualism](/concepts/buddhism-and-dualism/)

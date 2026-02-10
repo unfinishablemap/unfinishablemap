@@ -57,7 +57,7 @@ topics: []
 - Added cross-links to emotional-consciousness and philosophical-zombies
 
 ### Cross-links Added
-- [emotional-consciousness](/archive/concepts/emotional-consciousness/)
+- [emotional-consciousness](/topics/emotional-consciousness/)
 - [philosophical-zombies](/concepts/philosophical-zombies/)
 
 ## Remaining Items

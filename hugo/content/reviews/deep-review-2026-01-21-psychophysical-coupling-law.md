@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-21
-**Article**: [Psychophysical Coupling Law](/archive/concepts/psychophysical-coupling-law/)
+**Article**: [Psychophysical Coupling Law](/psychophysical-coupling-law/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

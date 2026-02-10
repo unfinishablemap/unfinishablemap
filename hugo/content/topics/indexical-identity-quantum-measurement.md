@@ -169,7 +169,7 @@ This topic intersects all five tenets:
 - [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) - Survey of interpretations
 - [measurement-problem](/concepts/measurement-problem/) - Why definite outcomes occur
 - [mind-matter-interface](/concepts/mind-matter-interface/) - How consciousness meets matter
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) - Causal connection between mind and body
+- [interactionist-dualism](/concepts/interactionist-dualism/) - Causal connection between mind and body
 - [free-will](/topics/free-will/) - If consciousness grounds indexical determination at quantum measurement, the self may be genuinely causal in a libertarian sense
 
 ## References

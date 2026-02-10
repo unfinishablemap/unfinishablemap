@@ -115,7 +115,7 @@ The Map chooses interaction because epiphenomenalism—even the sophisticated ve
 
 - [integrated-information-theory](/concepts/integrated-information-theory/) — The concept page explaining IIT in detail
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The passive consciousness view IIT resembles
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The Map's alternative framework
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's alternative framework
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Why temporal consciousness matters
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle both IIT and the Map address
 - [tenets](/tenets/) — The Map's foundational commitments

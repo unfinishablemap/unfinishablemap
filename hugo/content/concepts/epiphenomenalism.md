@@ -40,7 +40,7 @@ topics:
 
 Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing, not even our reports about it. Your experience of pain does not cause you to wince; rather, the brain states that produce the wince also happen to produce pain experience as a side effect. Consciousness, on this view, is steam rising from a locomotive: produced by the engine but playing no role in moving the train.
 
-As the foundational [dualism](/concepts/dualism/) article explains, dualists face a choice between three positions on mind-body relation: [interactionism](/archive/arguments/interactionist-dualism/) (mind and body causally interact), epiphenomenalism (body affects mind but not vice versa), and parallelism (no causal connection). The Unfinishable Map's [tenets](/tenets/) explicitly reject epiphenomenalism. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. Understanding why epiphenomenalism is wrong—and why it remains tempting—clarifies what the Map affirms.
+As the foundational [dualism](/concepts/dualism/) article explains, dualists face a choice between three positions on mind-body relation: [interactionism](/concepts/interactionist-dualism/) (mind and body causally interact), epiphenomenalism (body affects mind but not vice versa), and parallelism (no causal connection). The Unfinishable Map's [tenets](/tenets/) explicitly reject epiphenomenalism. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. Understanding why epiphenomenalism is wrong—and why it remains tempting—clarifies what the Map affirms.
 
 ## The View
 
@@ -82,7 +82,7 @@ This reasoning is weak. We also don't understand how physical states produce con
 
 ## The Self-Stultification Problem
 
-The most powerful objection to epiphenomenalism is that it undermines itself. This argument appears in formal premise-conclusion form in the [argument for interactionist dualism](/archive/arguments/interactionist-dualism/), and is developed in detail in the [mental-causation](/concepts/mental-causation/) article.
+The most powerful objection to epiphenomenalism is that it undermines itself. This argument appears in formal premise-conclusion form in the [argument for interactionist dualism](/concepts/interactionist-dualism/), and is developed in detail in the [mental-causation](/concepts/mental-causation/) article.
 
 Consider: you're reading an argument for epiphenomenalism. You find it convincing. You form the belief that consciousness is causally inert.
 
@@ -123,9 +123,9 @@ Epiphenomenalists respond: the *brain states* that produce consciousness were se
 
 But this leaves unexplained why consciousness *tracks* adaptive features with such systematic precision. It would be quite a coincidence if causally inert consciousness just happened to accompany exactly those brain states that produce adaptive behaviour. The tracking is not random: pleasure accompanies beneficial stimuli (food, sex, warmth); pain accompanies harmful ones (injury, toxins, extreme temperatures). Subtle distinctions in phenomenal character track subtle distinctions in biological relevance—the discomfort of mild hunger differs qualitatively from the agony of severe injury, and these differences align with urgency of response.
 
-The [consciousness-as-intelligence-amplifier](/concepts/consciousness-as-amplifier/) article makes this point sharply: if the painfulness of pain is something beyond the neural state that produces pain behavior (as the [explanatory gap](/concepts/explanatory-gap/) suggests), then why would this causally inert phenomenal aspect systematically track biological significance? Empirical research now reinforces this challenge: a 2025 meta-analysis found that only 10% of claimed unconscious processing effects survive rigorous methodology (see [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/)), revealing that consciousness enables specific cognitive functions—durable maintenance, novel combinations, spontaneous intentional action—that unconscious processing cannot achieve. The neural state alone determines behavior; the phenomenal glow adds nothing. Yet this "nothing" reliably indicates what matters for survival. Without causal connection, why should pain feel bad rather than neutral or pleasant?
+The [consciousness-as-intelligence-amplifier](/concepts/consciousness-as-amplifier/) article makes this point sharply: if the painfulness of pain is something beyond the neural state that produces pain behavior (as the [explanatory gap](/concepts/explanatory-gap/) suggests), then why would this causally inert phenomenal aspect systematically track biological significance? Empirical research now reinforces this challenge: a 2025 meta-analysis found that only 10% of claimed unconscious processing effects survive rigorous methodology (see [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)), revealing that consciousness enables specific cognitive functions—durable maintenance, novel combinations, spontaneous intentional action—that unconscious processing cannot achieve. The neural state alone determines behavior; the phenomenal glow adds nothing. Yet this "nothing" reliably indicates what matters for survival. Without causal connection, why should pain feel bad rather than neutral or pleasant?
 
-The [phylogenetic evidence](/concepts/evolution-of-consciousness/) sharpens this problem. Consciousness appears widely distributed across the animal kingdom—mammals, birds, cephalopods, perhaps even [organisms with just a few hundred neurons](/archive/concepts/minimal-consciousness/). The tracking is remarkably precise: across vastly different lineages, consciousness accompanies exactly those neural structures associated with adaptive, flexible behaviour. The epiphenomenalist must explain this as cosmic coincidence. The interactionist explanation is simpler: consciousness is distributed where it is because it *does* something—it guides behaviour toward survival.
+The [phylogenetic evidence](/concepts/evolution-of-consciousness/) sharpens this problem. Consciousness appears widely distributed across the animal kingdom—mammals, birds, cephalopods, perhaps even [organisms with just a few hundred neurons](/concepts/minimal-consciousness/). The tracking is remarkably precise: across vastly different lineages, consciousness accompanies exactly those neural structures associated with adaptive, flexible behaviour. The epiphenomenalist must explain this as cosmic coincidence. The interactionist explanation is simpler: consciousness is distributed where it is because it *does* something—it guides behaviour toward survival.
 
 ### The Amplification Evidence
 
@@ -205,10 +205,10 @@ The self-stultification problem remains the strongest objection for human consci
 - [dualism](/concepts/dualism/) — The foundational framework; epiphenomenalism is one of three dualist positions on mind-body interaction
 - [mental-causation](/concepts/mental-causation/) — The problem epiphenomenalism claims to solve
 - [causal-closure](/concepts/causal-closure/) — The principle that motivates epiphenomenalism
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — the Map's alternative framework
+- [interactionist-dualism](/concepts/interactionist-dualism/) — the Map's alternative framework
 - [tenets](/tenets/) — the Map's foundational commitments against epiphenomenalism
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The context for debates about consciousness
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Evidence of consciousness in simple organisms; challenges the tracking coincidence
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Evidence of consciousness in simple organisms; challenges the tracking coincidence
 - [epiphenomenalism-2026-01-08](/research/epiphenomenalism-2026-01-08/) — Detailed research notes
 
 ## References

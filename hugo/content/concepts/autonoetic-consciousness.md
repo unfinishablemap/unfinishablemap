@@ -106,7 +106,7 @@ Autonoetic consciousness requires [working memory](/concepts/working-memory/) as
 
 The *remember/know paradigm* operationalizes the autonoetic/noetic contrast. **Remember responses** indicate autonoetic awareness: recollecting specific details from the original encounter. **Know responses** indicate noetic awareness: recognizing an item as familiar without re-experiencing the encoding. The same information can be accessed through either route, but the phenomenology differs fundamentally.
 
-The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/) illuminates this distinction. Great apes may *have* culture without *knowing* they have culture—engaging in practices without representing them as "our practices." Similarly, you can access information without representing the original experience *as* an experience. This suggests autonoetic consciousness requires the metarepresentational capacity that separates human cognition from [baseline cognition](/archive/topics/baseline-cognition/).
+The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/) illuminates this distinction. Great apes may *have* culture without *knowing* they have culture—engaging in practices without representing them as "our practices." Similarly, you can access information without representing the original experience *as* an experience. This suggests autonoetic consciousness requires the metarepresentational capacity that separates human cognition from [baseline cognition](/concepts/baseline-cognition/).
 
 Clinical dissociations support the distinction: amnesic patients may retain know responses while losing remember responses entirely. Over time, episodic memories can "semanticize"—losing autonoetic character while retaining content. If memories can shift from autonoetic to noetic while preserving content, consciousness constitutes the *kind* of memory you have, not just an accompaniment.
 
@@ -176,7 +176,7 @@ Whitehead's actual occasions parallel the Buddhist concept of *cittakkhana* (min
 
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why we can re-experience the past but not pre-experience the future
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — The procedural/declarative distinction illuminating remember/know
-- [baseline-cognition](/archive/topics/baseline-cognition/) — Cognition without autonoetic metarepresentation
+- [baseline-cognition](/concepts/baseline-cognition/) — Cognition without autonoetic metarepresentation
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Working memory manipulation and consciousness
 - [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness and the phenomenology of knowing
 - [working-memory](/concepts/working-memory/) — The cognitive workspace for mental time travel

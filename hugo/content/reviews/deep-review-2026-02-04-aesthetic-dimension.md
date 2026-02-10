@@ -65,7 +65,7 @@ The adversarial personas found no new gaps to address.
 ### Cross-links Added
 
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)
-- [phenomenal-value-realism-development](/archive/topics/phenomenal-value-realism-development/)
+- [phenomenal-value-realism-development](/phenomenal-value-realism-development/)
 
 ## Remaining Items
 

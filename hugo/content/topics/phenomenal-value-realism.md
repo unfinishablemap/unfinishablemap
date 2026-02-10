@@ -257,7 +257,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [free-will](/topics/free-will/) — Agency as intrinsically valuable phenomenal experience
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — What contemplative practice reveals about value and consciousness
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why aesthetic value resists hedonistic reduction
-- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — Valence as the felt quality of emotions
+- [emotional-consciousness](/topics/emotional-consciousness/) — Valence as the felt quality of emotions
 - [haecceity](/concepts/haecceity/) — Why *this* experience matters, not just experience-of-this-type
 - [illusionism](/concepts/illusionism/) — The strongest challenge to phenomenal consciousness
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge

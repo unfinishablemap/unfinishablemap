@@ -186,14 +186,14 @@ This topic is central to the Map's framework, connecting all five tenets:
 ## Further Reading
 
 - [measurement-problem](/concepts/measurement-problem/) — Technical treatment of the measurement problem
-- [quantum-measurement-and-definite-outcomes](/archive/topics/quantum-measurement-and-definite-outcomes/) — Why definite outcomes occur and where consciousness might participate
+- [quantum-measurement-and-definite-outcomes](/quantum-measurement-and-definite-outcomes/) — Why definite outcomes occur and where consciousness might participate
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The first-person dimension of measurement
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Full synthesis of time, collapse, and conscious agency
 - [decoherence](/concepts/decoherence/) — What environmental interaction does and doesn't explain
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-collapse interaction
 - [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The causal closure loophole
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — How mind and body interact
+- [interactionist-dualism](/concepts/interactionist-dualism/) — How mind and body interact
 - [many-worlds](/arguments/many-worlds/) — Arguments against MWI
 - [tenets](/tenets/) — The Map's foundational commitments
 

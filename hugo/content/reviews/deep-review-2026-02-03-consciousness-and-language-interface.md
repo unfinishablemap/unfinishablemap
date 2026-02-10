@@ -52,7 +52,7 @@ Six articles now link to consciousness-and-language-interface:
 3. **[cognitive-phenomenology](/concepts/cognitive-phenomenology/)**: Added inline link in "The Understanding Experience" section, plus Further Reading entry
 4. **[qualia](/concepts/qualia/)**: Added inline link in "Ineffable" section, plus Extensions entry
 5. **[introspection](/concepts/introspection/)**: Added inline link in process/content distinction section, plus Further Reading entry
-6. **[meaning-and-consciousness](/archive/topics/meaning-and-consciousness/)**: Added inline link in "Understanding as Phenomenal Binding" section, plus Further Reading entry
+6. **[meaning-and-consciousness](/meaning-and-consciousness/)**: Added inline link in "Understanding as Phenomenal Binding" section, plus Further Reading entry
 
 ## Remaining Items
 

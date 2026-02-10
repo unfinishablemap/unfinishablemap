@@ -42,7 +42,7 @@ This article first presents Saad's theory on its own terms, then explores how th
 
 ## The Problem Saad Addresses
 
-[Interactionist dualism](/archive/arguments/interactionist-dualism/) faces a coordination challenge. If every physical event has a sufficient physical cause ([causal closure](/concepts/causal-closure/)), and conscious experiences also cause physical effects ([mental-causation](/concepts/mental-causation/)), then physical effects seem overdetermined—they have two sufficient causes where one would do. Kim's exclusion argument concludes that mental properties must be either physical (reduction) or inert ([epiphenomenalism](/arguments/epiphenomenalism/)).
+[Interactionist dualism](/concepts/interactionist-dualism/) faces a coordination challenge. If every physical event has a sufficient physical cause ([causal closure](/concepts/causal-closure/)), and conscious experiences also cause physical effects ([mental-causation](/concepts/mental-causation/)), then physical effects seem overdetermined—they have two sufficient causes where one would do. Kim's exclusion argument concludes that mental properties must be either physical (reduction) or inert ([epiphenomenalism](/arguments/epiphenomenalism/)).
 
 Previous responses accepted one horn or the other:
 - **Epiphenomenalists** accept that experiences don't cause physical effects—they're merely along for the ride
@@ -236,7 +236,7 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 
 ## Further Reading
 
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The Map's core position on mind-body interaction
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's core position on mind-body interaction
 - [mental-causation](/concepts/mental-causation/) — How consciousness causes physical effects
 - [causal-closure](/concepts/causal-closure/) — The closure objection and responses
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view delegatory dualism rejects

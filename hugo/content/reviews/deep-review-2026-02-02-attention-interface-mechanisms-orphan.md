@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Mechanisms of the Attention-Consciousness Interface](/archive/topics/attention-interface-mechanisms/)
+**Article**: [Mechanisms of the Attention-Consciousness Interface](/attention-interface-mechanisms/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-attention-interface-mechanisms/) (earlier same day)
 **Focus**: Orphan integration (file had no inbound links)
 
@@ -46,7 +46,7 @@ All strengths identified in the earlier review remain intact:
 
 ### Cross-links Added
 
-The following articles now link to `[attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/)`:
+The following articles now link to `[attention-interface-mechanisms](/attention-interface-mechanisms/)`:
 
 1. **[stapp-quantum-mind](/concepts/stapp-quantum-mind/)** — Added contextual link in the opening section pointing to candidate sites and timing constraints
 2. **[quantum-consciousness](/concepts/quantum-consciousness/)** — Added to "Mechanisms and timing" Further Reading section

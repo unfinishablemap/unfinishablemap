@@ -71,7 +71,7 @@ Yet convergent evolution doesn't guarantee identical mechanisms. Birds and bats 
 
 Octopus consciousness presents the most striking case for potential interface heterogeneity. The octopus nervous system distributes two-thirds of its neurons in the arms, which exhibit semi-autonomous behaviour. An octopus arm can solve simple problems even when severed. This raises the question: does cephalopod consciousness have a distributed interface, with multiple localised coupling points rather than a single unified interface?
 
-For the Map, this connects to [interface-locality](/archive/concepts/interface-locality/)—the question of why consciousness selects only within its own brain. If the interface is spatially local, cephalopod architecture might support multiple interface points, each with partial phenomenal unity. Or the system might achieve centralised consciousness despite distributed processing, funnelling through a unified interface.
+For the Map, this connects to [interface-locality](/interface-locality/)—the question of why consciousness selects only within its own brain. If the interface is spatially local, cephalopod architecture might support multiple interface points, each with partial phenomenal unity. Or the system might achieve centralised consciousness despite distributed processing, funnelling through a unified interface.
 
 The phenomenology—what it is like to be an octopus—remains inaccessible. We cannot determine from behaviour alone whether cephalopod experience is unified or fragmented, let alone whether its interface differs from vertebrate consciousness.
 
@@ -116,7 +116,7 @@ Different anaesthetics may disrupt consciousness through different mechanisms: s
 
 ### Emotional vs. Cognitive Consciousness
 
-[Emotional consciousness](/archive/concepts/emotional-consciousness/) and cognitive consciousness may involve different interface mechanisms. Affective neuroscience suggests emotional experience arises from subcortical structures (Panksepp's primary emotional systems) while cognitive consciousness correlates with cortical processing.
+[Emotional consciousness](/topics/emotional-consciousness/) and cognitive consciousness may involve different interface mechanisms. Affective neuroscience suggests emotional experience arises from subcortical structures (Panksepp's primary emotional systems) while cognitive consciousness correlates with cortical processing.
 
 If these neuroanatomical distinctions map onto interface distinctions, emotional and cognitive consciousness might couple with matter through different quantum mechanisms or at different neural sites. The valenced character of emotion—its intrinsic goodness or badness—might reflect a distinctive interface property that cognitive consciousness lacks.
 
@@ -198,12 +198,12 @@ Several findings would constrain the interface heterogeneity question:
 ### Interface Mechanisms
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR, Stapp's Zeno effect, Fisher's hypothesis
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-matter coupling
-- [interface-locality](/archive/concepts/interface-locality/) — Why consciousness selects only within its own brain
+- [interface-locality](/interface-locality/) — Why consciousness selects only within its own brain
 
 ### Types of Consciousness
-- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — Valence and the Panksepp-LeDoux debate
+- [emotional-consciousness](/topics/emotional-consciousness/) — Valence and the Panksepp-LeDoux debate
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Meditation, psychedelics, sleep
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — The lower bound of phenomenal experience
+- [minimal-consciousness](/concepts/minimal-consciousness/) — The lower bound of phenomenal experience
 
 ### Theoretical Frameworks
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — What consciousness adds to baseline cognition

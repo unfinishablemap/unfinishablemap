@@ -30,11 +30,11 @@ The Map correctly identifies that the zombie argument's force doesn't depend on 
 
 ### The Quantum Mind Theorist (Stapp)
 
-The Map has successfully threaded the needle between scientific credibility and openness to consciousness-physics interface. The treatment across [quantum-consciousness](/concepts/quantum-consciousness/), [consciousness-and-quantum-measurement](/archive/topics/consciousness-and-quantum-measurement/), and [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) demonstrates sophisticated engagement with actual physics while avoiding the quantum mysticism trap.
+The Map has successfully threaded the needle between scientific credibility and openness to consciousness-physics interface. The treatment across [quantum-consciousness](/concepts/quantum-consciousness/), [consciousness-and-quantum-measurement](/consciousness-and-quantum-measurement/), and [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) demonstrates sophisticated engagement with actual physics while avoiding the quantum mysticism trap.
 
 The "selection not injection" framework is particularly valuable: consciousness biasing otherwise indeterminate outcomes without adding energy directly addresses the conservation law objection that has plagued interactionist positions since Princess Elizabeth's correspondence with Descartes. The Map takes Tegmark's decoherence critique seriously—acknowledging the 10^-13 second timescale—while presenting the Hagan et al. response and biological quantum effects as existence proofs that evolution can harness quantum phenomena in warm, wet systems.
 
-The new [collapse-before-minds](/archive/topics/collapse-before-minds/) article represents a significant advance. Rather than dodging the prebiotic collapse problem, it confronts it directly: objective reduction provides baseline collapse throughout the cosmos; consciousness modulates collapse specifically where neural architectures provide the interface. This preserves what matters for interactionism while avoiding the circularity that drove Wigner to abandon consciousness-causes-collapse.
+The new [collapse-before-minds](/collapse-before-minds/) article represents a significant advance. Rather than dodging the prebiotic collapse problem, it confronts it directly: objective reduction provides baseline collapse throughout the cosmos; consciousness modulates collapse specifically where neural architectures provide the interface. This preserves what matters for interactionism while avoiding the circularity that drove Wigner to abandon consciousness-causes-collapse.
 
 The structural parallel between the measurement problem and hard problem—both concerning where first-person facts enter third-person descriptions—is an insight that deserves wider recognition.
 
@@ -131,7 +131,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article is genuinely inno
 - **Tenet alignment**: The unity of consciousness resists physical explanation, supporting Dualism tenet
 
 #### Spontaneous Action and Consciousness
-- **Builds on**: [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/), [baseline-cognition](/archive/topics/baseline-cognition/), [voluntary-attention](/concepts/voluntary-attention/)
+- **Builds on**: [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), [baseline-cognition](/concepts/baseline-cognition/), [voluntary-attention](/concepts/voluntary-attention/)
 - **Would address**: Systematic treatment of why spontaneous intentional action requires consciousness while stimulus-response can proceed unconsciously
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Bidirectional Interaction by showing consciousness enables action initiation
@@ -181,14 +181,14 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article is genuinely inno
 
 | From | To | Reason |
 |------|-----|--------|
-| [collapse-before-minds](/archive/topics/collapse-before-minds/) | [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) | Direct treatment of the mechanisms |
-| [consciousness-and-quantum-measurement](/archive/topics/consciousness-and-quantum-measurement/) | [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) | Both address first-person dimension |
+| [collapse-before-minds](/collapse-before-minds/) | [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) | Direct treatment of the mechanisms |
+| [consciousness-and-quantum-measurement](/consciousness-and-quantum-measurement/) | [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) | Both address first-person dimension |
 | [free-will](/topics/free-will/) | [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) | Both involve consciousness generating possibilities |
 | [ai-consciousness](/topics/ai-consciousness/) | [continual-learning-argument](/concepts/continual-learning-argument/) | Core argument deserves prominent linking |
 | [meaning-of-life](/topics/meaning-of-life/) | [consciousness-value-connection](/concepts/consciousness-value-connection/) | Both ground value in consciousness |
 | [philosophical-zombies](/concepts/philosophical-zombies/) | [illusionism](/concepts/illusionism/) | Detailed treatment of the illusionist response |
 | [qualia](/concepts/qualia/) | [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) | Aesthetic qualia as resistant to reduction |
-| [interactionist-dualism](/archive/arguments/interactionist-dualism/) | [delegatory-dualism](/topics/delegatory-dualism/) | Saad 2025 as alternative to quantum response |
+| [interactionist-dualism](/concepts/interactionist-dualism/) | [delegatory-dualism](/topics/delegatory-dualism/) | Saad 2025 as alternative to quantum response |
 | [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Temporal dimension of the gap |
 | [free-will](/topics/free-will/) | [volitional-opacity](/voids/volitional-opacity/) | Why we can't observe our own willing |
 

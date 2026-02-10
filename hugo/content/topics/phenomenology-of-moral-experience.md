@@ -154,7 +154,7 @@ The phenomenological argument for moral realism would face pressure if:
 - [Phenomenal Value Realism (Topic)](/concepts/phenomenal-value-realism/) — Comprehensive treatment extending phenomenal value realism from hedonism to pluralism
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value to exist
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Ethical implications of consciousness-grounded value
-- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — Valence as the felt quality of emotion
+- [emotional-consciousness](/topics/emotional-consciousness/) — Valence as the felt quality of emotion
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why aesthetic experience resists reduction
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds moral desert

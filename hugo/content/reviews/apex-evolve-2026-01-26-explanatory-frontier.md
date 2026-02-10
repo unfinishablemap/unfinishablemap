@@ -20,7 +20,7 @@ topics: []
 # Apex Evolve Review: The Explanatory Frontier
 
 **Date**: 2026-01-26
-**Article**: [The Explanatory Frontier](/archive/apex/explanatory-frontier/)
+**Article**: [The Explanatory Frontier](/explanatory-frontier/)
 **Previous Synthesis**: 2026-01-24T12:00:00+00:00
 
 ## Changed Sources Identified

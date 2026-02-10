@@ -72,7 +72,7 @@ Some physicalists retreat to the [phenomenal-concepts-strategy](/concepts/phenom
 
 [Dualism](/concepts/dualism/) holds that consciousness is not reducible to physical processes. Something beyond matter — whether a separate substance, an irreducible property, or an additional aspect of reality — is required to account for experience. The distinction between [substance and property dualism](/concepts/substance-property-dualism/) matters for how this is spelled out, but what unites all dualist positions is irreducibility.
 
-The field's dominant objection to dualism has long been the *interaction problem*: if mind is non-physical, how does it causally engage with the body? This objection assumed [causal closure](/concepts/causal-closure/) — that every physical event has a sufficient physical cause. But causal closure is an assumption, not an empirical finding, and quantum mechanics undermines it. At quantum indeterminacies, physical law leaves outcomes undetermined. [Interactionist dualism](/archive/arguments/interactionist-dualism/) proposes that consciousness operates precisely at these gaps, selecting among physically possible outcomes without injecting energy or violating conservation laws. This proposal faces its own challenges — particularly whether quantum coherence can survive in warm biological tissue (the [decoherence objection](/concepts/quantum-decoherence-objection/)) and whether biasing quantum outcomes is consistent with the Born rule — but it offers a specific, constrained answer where earlier dualisms left the interface mysterious.
+The field's dominant objection to dualism has long been the *interaction problem*: if mind is non-physical, how does it causally engage with the body? This objection assumed [causal closure](/concepts/causal-closure/) — that every physical event has a sufficient physical cause. But causal closure is an assumption, not an empirical finding, and quantum mechanics undermines it. At quantum indeterminacies, physical law leaves outcomes undetermined. [Interactionist dualism](/concepts/interactionist-dualism/) proposes that consciousness operates precisely at these gaps, selecting among physically possible outcomes without injecting energy or violating conservation laws. This proposal faces its own challenges — particularly whether quantum coherence can survive in warm biological tissue (the [decoherence objection](/concepts/quantum-decoherence-objection/)) and whether biasing quantum outcomes is consistent with the Born rule — but it offers a specific, constrained answer where earlier dualisms left the interface mysterious.
 
 The [positive case for dualism](/concepts/arguments-for-dualism/) draws on multiple independent lines of evidence: the conceivability of zombies, the knowledge argument, the irreducibility of [qualia](/concepts/qualia/), the [unity of experience](/concepts/unity-of-consciousness/), and the [phenomenal grounding of intentionality](/concepts/phenomenal-intentionality/). These arguments converge from different starting points on the same conclusion.
 
@@ -98,7 +98,7 @@ Philosophy of mind draws on both armchair reasoning and empirical research, and 
 
 **[Phenomenological](/concepts/phenomenology/) and [contemplative methods](/concepts/phenomenological-evidence/)** provide first-person data about the structure of experience. [Introspection](/concepts/introspection/) has known limitations, but dismissing first-person evidence entirely would be self-defeating — consciousness *is* the first-person perspective.
 
-**Comparative and evolutionary approaches** — from [animal-consciousness](/topics/animal-consciousness/) to [minimal consciousness](/archive/concepts/minimal-consciousness/) in simple organisms to the [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — test theories against the range of conscious systems in nature. Theories that predict consciousness only in human-like brains must explain what is special about that neural architecture; theories that predict consciousness more broadly must explain where the boundary falls.
+**Comparative and evolutionary approaches** — from [animal-consciousness](/topics/animal-consciousness/) to [minimal consciousness](/concepts/minimal-consciousness/) in simple organisms to the [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — test theories against the range of conscious systems in nature. Theories that predict consciousness only in human-like brains must explain what is special about that neural architecture; theories that predict consciousness more broadly must explain where the boundary falls.
 
 ## Relation to Site Perspective
 
@@ -123,7 +123,7 @@ Together, these tenets do not merely select a position from the existing menu. T
 - [dualism](/concepts/dualism/)
 - [materialism](/arguments/materialism/)
 - [mental-causation](/concepts/mental-causation/)
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/)
+- [interactionist-dualism](/concepts/interactionist-dualism/)
 - [arguments-for-dualism](/concepts/arguments-for-dualism/)
 - [arguments-against-materialism](/concepts/arguments-against-materialism/)
 - [explanatory-gap](/concepts/explanatory-gap/)

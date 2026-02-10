@@ -32,7 +32,7 @@ topics:
 - '[[mental-causation]]'
 ---
 
-[Interactionist dualism](/archive/arguments/interactionist-dualism/) faces a specification problem: *which* phenomenal properties map to *which* physical selections with enough precision to generate falsifiable predictions? Five candidate coupling mechanisms exist—[attention as observation rate](//#attention), [intention as probability weighting](//#intention), [valence as motivational force](//#valence), [qualia as basis selection](//#qualia), and [unity as sustained entanglement](//#unity)—but only the first two have developed mechanisms. Without such specification, dualism risks becoming unfalsifiable.
+[Interactionist dualism](/concepts/interactionist-dualism/) faces a specification problem: *which* phenomenal properties map to *which* physical selections with enough precision to generate falsifiable predictions? Five candidate coupling mechanisms exist—[attention as observation rate](//#attention), [intention as probability weighting](//#intention), [valence as motivational force](//#valence), [qualia as basis selection](//#qualia), and [unity as sustained entanglement](//#unity)—but only the first two have developed mechanisms. Without such specification, dualism risks becoming unfalsifiable.
 
 Chalmers (1996) argued that a complete theory of consciousness requires "a set of psychophysical laws governing the relationship between consciousness and physical processes," seeking "simple underlying laws" that systematically connect phenomenal and physical domains. Yet three decades later, what Schaffer calls the "t-shirt problem"—the lack of a compact systematization of psychophysical correlations—remains unsolved. The challenge is not merely identifying *that* consciousness influences physical events, but specifying *how*: which phenomenal variables, which physical parameters, through what mechanism.
 
@@ -126,8 +126,8 @@ That said, the Map's framework doesn't get a free pass. If *no* coupling mechani
 
 ## Further Reading
 
-- [psychophysical-coupling-law](/archive/concepts/psychophysical-coupling-law/) — The broader framework requiring mechanism specification
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The philosophical position requiring these mechanisms
+- [psychophysical-coupling-law](/psychophysical-coupling-law/) — The broader framework requiring mechanism specification
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical position requiring these mechanisms
 - [mental-causation](/concepts/mental-causation/) — How mental states produce physical effects
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum frameworks providing coupling pathways
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of attention-observation mechanism

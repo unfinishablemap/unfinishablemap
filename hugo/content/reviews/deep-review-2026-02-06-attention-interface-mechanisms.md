@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-06
-**Article**: [Mechanisms of the Attention-Consciousness Interface](/archive/topics/attention-interface-mechanisms/)
+**Article**: [Mechanisms of the Attention-Consciousness Interface](/attention-interface-mechanisms/)
 **Previous review**: [2026-02-05](/reviews/deep-review-2026-02-05-attention-interface-mechanisms/)
 **Context**: Cross-review considering attention-motor-planning quantum interface article
 
@@ -31,7 +31,7 @@ topics: []
    - **Resolution**: Corrected to "Cai, X., Liu, C., et al. (2024)" with added volume/page info.
 
 ### Medium Issues Found
-1. **Missing cross-link to companion topic article**: The new [attention-motor-planning-quantum-interface](/archive/topics/attention-motor-planning-quantum-interface/) article explicitly references this article for "candidate sites, timing constraints, and predictions" but this article didn't link back.
+1. **Missing cross-link to companion topic article**: The new [attention-motor-planning-quantum-interface](/attention-motor-planning-quantum-interface/) article explicitly references this article for "candidate sites, timing constraints, and predictions" but this article didn't link back.
    - **Resolution**: Added to related_articles frontmatter and Further Reading section.
 
 ### Low Issues Noted
@@ -75,11 +75,11 @@ All six adversarial personas engaged:
 
 ### Enhancements Made
 1. Corrected two critical attribution errors (Rajan et al., Cai et al.)
-2. Added cross-link to companion topic article [attention-motor-planning-quantum-interface](/archive/topics/attention-motor-planning-quantum-interface/)
+2. Added cross-link to companion topic article [attention-motor-planning-quantum-interface](/attention-motor-planning-quantum-interface/)
 3. Minor prose tightening to maintain length neutrality
 
 ### Cross-links Added
-- [attention-motor-planning-quantum-interface](/archive/topics/attention-motor-planning-quantum-interface/) — in related_articles and Further Reading
+- [attention-motor-planning-quantum-interface](/attention-motor-planning-quantum-interface/) — in related_articles and Further Reading
 
 ## Length Analysis
 
@@ -103,5 +103,5 @@ From previous reviews (still applicable):
 New for this review:
 - The Rajan et al. 2019 citation is now correct and consistent with the companion article. Future reviews should not flag this.
 - The Cai et al. 2024 citation is now correct. Future reviews should not flag this.
-- Cross-link to [attention-motor-planning-quantum-interface](/archive/topics/attention-motor-planning-quantum-interface/) is established. Both articles now reference each other.
+- Cross-link to [attention-motor-planning-quantum-interface](/attention-motor-planning-quantum-interface/) is established. Both articles now reference each other.
 - The article has reached stability across 4 reviews (2026-02-02, 2026-02-02 orphan, 2026-02-05, 2026-02-06). Content improvements are marginal; future reviews should focus on attribution accuracy and cross-link maintenance rather than structural changes.

@@ -146,7 +146,7 @@ This explains the common phenomenology. Sustaining motor intention feels effortf
 
 ### Decoherence Considerations
 
-The [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) addresses the standard challenge—rapid decoherence in warm brains. Corrected calculations for biological conditions (Hameroff 2014) yield coherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer than Tegmark's estimates—allowing roughly 1000 quantum cycles within a single motor commitment event. Additionally, the [post-decoherence selection response](/archive/concepts/psychophysical-coupling-mechanisms/) proposes consciousness might bias outcome selection *after* decoherence, at measurement collapse.
+The [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) addresses the standard challenge—rapid decoherence in warm brains. Corrected calculations for biological conditions (Hameroff 2014) yield coherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer than Tegmark's estimates—allowing roughly 1000 quantum cycles within a single motor commitment event. Additionally, the [post-decoherence selection response](/psychophysical-coupling-mechanisms/) proposes consciousness might bias outcome selection *after* decoherence, at measurement collapse.
 
 ## The Phenomenology of Motor Choice
 

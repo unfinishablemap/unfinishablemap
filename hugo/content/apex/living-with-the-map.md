@@ -69,7 +69,7 @@ The Map's framework is not merely about what you are but about what you do. The 
 
 [Free will](/topics/free-will/), on this picture, operates through [agent causation](/concepts/agent-causation/). You—as a conscious being, not as a collection of prior causes—originate actions. When you choose kindness over cruelty, that choice isn't merely the output of deterministic neural processes; it's something you did. The Map proposes that consciousness operates where physics leaves outcomes undetermined—quantum indeterminacy being one candidate mechanism, though the physics remains speculative. But the philosophical point is what matters here: you are an author, not a spectator.
 
-This transforms how choices feel. The hesitation before a difficult decision, the sense of genuinely open alternatives, the resolution when you commit—these phenomenological features track something real. [Existentialist philosophy](/archive/concepts/existentialism/) captures this: Sartre's "condemned to be free" describes the structural fact that consciousness is always able to take a stance toward its situation. You cannot escape choosing. Even not-choosing is a choice.
+This transforms how choices feel. The hesitation before a difficult decision, the sense of genuinely open alternatives, the resolution when you commit—these phenomenological features track something real. [Existentialist philosophy](/concepts/existentialism/) captures this: Sartre's "condemned to be free" describes the structural fact that consciousness is always able to take a stance toward its situation. You cannot escape choosing. Even not-choosing is a choice.
 
 The practical implication: *take your choices seriously*. Not with paralysing anxiety, but with recognition that what you do genuinely matters. The addict who resists temptation, the bystander who intervenes, the ordinary person who extends kindness when indifference would be easier—these are real exercises of authorship. Difficulty doesn't equal impossibility. Prior causes influence but don't determine. What you do next is up to you in a way that mere randomness or mere determinism cannot capture.
 
@@ -203,5 +203,5 @@ This apex article synthesizes:
 - [Purpose and AI Alignment](/topics/purpose-and-alignment/) — Why AI alignment faces the meaning problem and requires human judgment
 - [Phenomenal Value Realism](/concepts/phenomenal-value-realism/) — Value as a feature of experience, extended to phenomenal value pluralism
 - [Moral Responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
-- [Existentialism](/archive/concepts/existentialism/) — Sartre's pour-soi and the structure of freedom
+- [Existentialism](/concepts/existentialism/) — Sartre's pour-soi and the structure of freedom
 - [Free Will and Determinism](/topics/free-will/) — The libertarian framework grounding genuine authorship

@@ -52,7 +52,7 @@ All strengths from previous review remain intact:
 
 Added `[dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)` to the Further Reading sections of:
 
-1. **[attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/)** — "Comprehensive treatment of dopamine's preparatory role in conscious selection"
+1. **[attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/)** — "Comprehensive treatment of dopamine's preparatory role in conscious selection"
 2. **[dopamine-selection-interface](/concepts/dopamine-selection-interface/)** — "Comprehensive topics treatment: salience bridge, tonic/phasic modes, theta oscillations"
 3. **[motor-selection](/concepts/motor-selection/)** — "How dopamine prepares the unified attention-motor system for conscious selection"
 4. **[attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/)** — "Salience bridge, tonic/phasic modes, and what Parkinson's reveals about the interface"

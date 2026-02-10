@@ -167,7 +167,7 @@ The Map incorporates the ~10 bits/second limitation on conscious processing. Wha
 
 ### Haecceity and Organizational Invariance
 
-The Map's rejection of organizational invariance connects to [haecceity](/concepts/haecceity/)—the primitive "thisness" of particular conscious subjects. Chalmers holds that functional duplicates have identical experiences; the Map holds that the particular subject matters. Two systems could share all functional properties yet differ in which consciousness accompanies them. Organizational invariance treats consciousness as a pattern; the Map treats it as a particular. See [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/#organizational-invariance) for the full argument.
+The Map's rejection of organizational invariance connects to [haecceity](/concepts/haecceity/)—the primitive "thisness" of particular conscious subjects. Chalmers holds that functional duplicates have identical experiences; the Map holds that the particular subject matters. Two systems could share all functional properties yet differ in which consciousness accompanies them. Organizational invariance treats consciousness as a pattern; the Map treats it as a particular. See [chalmers-psychophysical-coupling](/chalmers-psychophysical-coupling/#organizational-invariance) for the full argument.
 
 ## The Illusionist Challenge
 
@@ -231,7 +231,7 @@ Chalmers provides the philosophical framework; the Map develops the operational 
 
 ## What Would Challenge This View?
 
-The framework would face serious difficulty if: (1) the hard problem dissolves—if neuroscience explains our *belief* in consciousness without invoking phenomenal properties; (2) quantum mechanisms prove unavailable at neural scales, removing the Map's proposed pathway for downward causation; (3) organizational invariance is demonstrated through successful consciousness uploading, undermining the Map's rejection of functionalism; (4) many-worlds interpretation is confirmed, reducing selection laws to indexical uncertainty; or (5) the ~10 bits/second bandwidth constraint proves incompatible with any quantum selection mechanism. See [psychophysical-laws-framework](/archive/topics/psychophysical-laws-framework/#what-would-challenge-this-view) for extended discussion.
+The framework would face serious difficulty if: (1) the hard problem dissolves—if neuroscience explains our *belief* in consciousness without invoking phenomenal properties; (2) quantum mechanisms prove unavailable at neural scales, removing the Map's proposed pathway for downward causation; (3) organizational invariance is demonstrated through successful consciousness uploading, undermining the Map's rejection of functionalism; (4) many-worlds interpretation is confirmed, reducing selection laws to indexical uncertainty; or (5) the ~10 bits/second bandwidth constraint proves incompatible with any quantum selection mechanism. See [psychophysical-laws-framework](/psychophysical-laws-framework/#what-would-challenge-this-view) for extended discussion.
 
 ## Further Reading
 
@@ -239,7 +239,7 @@ The framework would face serious difficulty if: (1) the hard problem dissolves�
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — Specific mechanism proposals (attention→observation, intention→probability, valence→motivation, qualia→basis, unity→entanglement)
 - [selection-laws](/concepts/selection-laws/) — The downward direction: how conscious states select physical outcomes
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — The Map's specific coupling law problem
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework requiring bidirectional laws
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The framework requiring bidirectional laws
 - [mental-causation](/concepts/mental-causation/) — How consciousness causes physical effects
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific quantum mechanisms
 - [decoherence](/concepts/decoherence/) — The decoherence challenge and biological quantum effects

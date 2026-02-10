@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-25
-**Article**: [Subjective Probability Quantum Measurement](/archive/concepts/subjective-probability-quantum-measurement/)
+**Article**: [Subjective Probability Quantum Measurement](/subjective-probability-quantum-measurement/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

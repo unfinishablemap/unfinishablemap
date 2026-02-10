@@ -289,7 +289,7 @@ The Map's framework requires that quantum measurement is real—that definite ou
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence for singular unified awareness
 - [introspection](/concepts/introspection/) — First-person methods and their reliability
 - [tenets](/tenets/) — The Map's foundational commitments
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The positive case for the alternative
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The positive case for the alternative
 
 ## References
 

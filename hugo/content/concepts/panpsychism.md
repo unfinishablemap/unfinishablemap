@@ -90,7 +90,7 @@ The combination problem has several variants:
 
 **The evolutionary distribution question**: If all matter has experiential properties, why does consciousness apparently track neural complexity and behavioural flexibility? The panpsychist answer: what we recognise as "consciousness" is organised, integrated experience. Simple systems have only simple, fragmented experience; complex neural systems achieve the [phenomenal unity](/concepts/phenomenal-unity/) we associate with minds. Evolution didn't create experience—it created the integrating structures that amplify and unify pre-existing experiential properties (see [the emergence question](/concepts/evolution-of-consciousness/#the-emergence-question)).
 
-**Empirical boundary cases**: Research on [minimal consciousness](/archive/concepts/minimal-consciousness/) in simple organisms provides a testing ground for panpsychist continuity (see [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) for detailed treatment). Consider:
+**Empirical boundary cases**: Research on [minimal consciousness](/concepts/minimal-consciousness/) in simple organisms provides a testing ground for panpsychist continuity (see [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) for detailed treatment). Consider:
 
 - **C. elegans** (302 neurons): Shows habituation and associative learning yet fails trace conditioning—a key criterion for unlimited associative learning. If panpsychism is correct, even this minimal nervous system has some experiential quality, but cannot unite micro-experiences into integrated subjectivity.
 
@@ -186,7 +186,7 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 ## Further Reading
 
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Detailed analysis of C. elegans, Hydra, and slime molds and what they reveal about consciousness distribution
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Empirical cases (C. elegans, Hydra, slime molds) that test panpsychist predictions
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical cases (C. elegans, Hydra, slime molds) that test panpsychist predictions
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — How panpsychism addresses the evolutionary emergence question
 - [combination-problem](/concepts/combination-problem/) — The central challenge facing panpsychism
 - [russellian-monism](/concepts/russellian-monism/) — The most developed theoretical framework for panpsychism

@@ -49,7 +49,7 @@ This review focused on integrating an orphaned article into the site navigation.
 
 Added `[phenomenological-evidence](/concepts/phenomenological-evidence/)` links to:
 
-1. **[phenomenological-evidence-methodology](/archive/topics/phenomenological-evidence-methodology/)** — Opening sentence now links to the concept page for readers wanting the foundational definition before methodology details
+1. **[phenomenological-evidence-methodology](/phenomenological-evidence-methodology/)** — Opening sentence now links to the concept page for readers wanting the foundational definition before methodology details
 2. **[introspection](/concepts/introspection/)** — Process/content distinction section now points readers to the specific conditions making phenomenal content evidential
 3. **[phenomenology](/concepts/phenomenology/)** — Reliability objection section now connects to detailed evidence criteria
 4. **[neurophenomenology](/concepts/neurophenomenology/)** — Training/reliability section now connects to the evidence framework that justifies neurophenomenology's approach

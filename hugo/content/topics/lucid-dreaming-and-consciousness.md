@@ -189,7 +189,7 @@ The Map's interpretation of lucid dreaming would face difficulty if:
 - [phenomenal-unity](/concepts/phenomenal-unity/) — Unity of experience during dreams
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Self-referential awareness and mental time travel
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The qualitative character of voluntary selection
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — Quantum Zeno mechanism for consciousness-brain interaction
+- [interactionist-dualism](/concepts/interactionist-dualism/) — Quantum Zeno mechanism for consciousness-brain interaction
 
 ## References
 

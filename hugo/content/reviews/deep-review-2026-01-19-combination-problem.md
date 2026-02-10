@@ -66,7 +66,7 @@ None identified.
 
 - [phenomenal-unity](/concepts/phenomenal-unity/) — Why experience is unified (directly relevant to subject-summing)
 - [binding-problem](/concepts/binding-problem/) — Neural coordination challenge (related mechanism)
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Empirical testing ground (C. elegans, Hydra)
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical testing ground (C. elegans, Hydra)
 
 ## Remaining Items
 

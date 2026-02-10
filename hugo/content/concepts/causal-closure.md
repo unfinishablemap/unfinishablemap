@@ -38,7 +38,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Causal closure of the physical is the thesis that every physical event that has a cause has a *sufficient* physical cause. If true, nothing outside the physical realm ever makes a causal difference to what happens physically. This principle underlies the most influential contemporary argument against [interactionist-dualism](/archive/arguments/interactionist-dualism/)—and The Unfinishable Map's framework depends on its rejection.
+Causal closure of the physical is the thesis that every physical event that has a cause has a *sufficient* physical cause. If true, nothing outside the physical realm ever makes a causal difference to what happens physically. This principle underlies the most influential contemporary argument against [interactionist-dualism](/concepts/interactionist-dualism/)—and The Unfinishable Map's framework depends on its rejection.
 
 ## The Principle Stated
 
@@ -163,9 +163,9 @@ Third, the quantum Zeno effect may *sustain* coherence through repeated measurem
 
 See [the decoherence response](/concepts/quantum-consciousness/#the-decoherence-objection) for detailed treatment.
 
-This argument appears in formal premise-conclusion form in the [argument for interactionist dualism](/archive/arguments/interactionist-dualism/): the closure objection fails because physics does not exclude mental causation at quantum indeterminacies.
+This argument appears in formal premise-conclusion form in the [argument for interactionist dualism](/concepts/interactionist-dualism/): the closure objection fails because physics does not exclude mental causation at quantum indeterminacies.
 
-This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness influences physical outcomes at quantum indeterminacies, where the physical story runs out. The [connection between the measurement problem and the hard problem](/archive/topics/consciousness-and-quantum-measurement/) develops this further: both problems share a structure where third-person physical descriptions fail to capture first-person facts.
+This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness influences physical outcomes at quantum indeterminacies, where the physical story runs out. The [connection between the measurement problem and the hard problem](/consciousness-and-quantum-measurement/) develops this further: both problems share a structure where third-person physical descriptions fail to capture first-person facts.
 
 ### The Emergentist Response
 
@@ -229,7 +229,7 @@ This is not "god of the gaps" reasoning. It's recognition that physics *describe
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem causal closure creates
 - [downward-causation](/concepts/downward-causation/) — Higher-level causation that closure threatens
 - [emergence](/concepts/emergence/) — The emergentist response to causal closure
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The position that mental causation enables
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The position that mental causation enables
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-matter interaction; includes decoherence response
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view accepting closure forces
 - [free-will](/topics/free-will/) — Implications for agency

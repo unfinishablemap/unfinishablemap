@@ -23,14 +23,14 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Missing cross-links to recent articles**: Added [phenomenal-consciousness](/concepts/phenomenal-consciousness/), [access-consciousness](/concepts/access-consciousness/), [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/), [baseline-cognition](/archive/topics/baseline-cognition/) to frontmatter and Further Reading
+- **Missing cross-links to recent articles**: Added [phenomenal-consciousness](/concepts/phenomenal-consciousness/), [access-consciousness](/concepts/access-consciousness/), [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), [baseline-cognition](/concepts/baseline-cognition/) to frontmatter and Further Reading
 
 ### Medium Issues Found
 - **Access/phenomenal distinction underdeveloped**: Added paragraph after opening explaining qualia's relationship to phenomenal consciousness vs access consciousness
 - **Jackson's later retraction unmentioned**: Added note that Jackson recanted though the Map maintains the argument succeeds
 - **Unsourced claim (82% statistic)**: Softened to "surveys suggest most non-philosophers agree"
 - **Missing cross-link to [buddhism-and-dualism](/concepts/buddhism-and-dualism/)**: Added as new challenge condition and in Further Reading
-- **Missing cross-link to [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/)**: Added in Further Reading
+- **Missing cross-link to [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/)**: Added in Further Reading
 
 ### Counterarguments Considered
 - Eliminative materialist challenge to qualia's existence: Already addressed in illusionism section
@@ -54,9 +54,9 @@ topics: []
 ### Cross-links Added
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
 - [access-consciousness](/concepts/access-consciousness/)
-- [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/)
-- [baseline-cognition](/archive/topics/baseline-cognition/)
-- [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/)
+- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
+- [baseline-cognition](/concepts/baseline-cognition/)
+- [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/)
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
 
 ## Remaining Items

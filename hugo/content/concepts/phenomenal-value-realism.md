@@ -200,7 +200,7 @@ If value is grounded in consciousness: the [hard problem](/topics/hard-problem-o
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Ethical implications of consciousness-grounded value
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Why AI alignment should target experiential quality
 - [qualia](/concepts/qualia/) — The qualitative features of experience
-- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — Valence as the felt quality of emotions
+- [emotional-consciousness](/topics/emotional-consciousness/) — Valence as the felt quality of emotions
 - [tenets](/tenets/) — The foundational commitments that support this view
 - [haecceity](/concepts/haecceity/) — Why *this* experience matters, not just experience-of-this-type
 - [illusionism](/concepts/illusionism/) — The strongest challenge to phenomenal consciousness

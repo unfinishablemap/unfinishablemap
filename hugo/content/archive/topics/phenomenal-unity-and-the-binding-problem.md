@@ -114,7 +114,7 @@ Panpsychism faces a parallel challenge. If fundamental particles have proto-expe
 
 The [combination problem](/concepts/combination-problem/) and phenomenal binding share logical structure: both ask how plurality (of features, of micro-subjects) yields singularity (of experience, of consciousness). Neither classical mechanisms nor panpsychist proposals have solved this. The difficulty may be fundamental—something about unity resists explanation by combination of separates.
 
-The Map's [interactionist framework](/archive/arguments/interactionist-dualism/) addresses this differently. Consciousness is not constituted by combining physical parts (avoiding the binding puzzle) and matter has no micro-experiences to combine (avoiding the combination problem). Unity is fundamental rather than constructed.
+The Map's [interactionist framework](/concepts/interactionist-dualism/) addresses this differently. Consciousness is not constituted by combining physical parts (avoiding the binding puzzle) and matter has no micro-experiences to combine (avoiding the combination problem). Unity is fundamental rather than constructed.
 
 ## The Quantum Alternative
 

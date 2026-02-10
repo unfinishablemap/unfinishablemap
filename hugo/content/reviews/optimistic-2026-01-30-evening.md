@@ -104,7 +104,7 @@ The tripartite taxonomy (Unexplored, Unexplorable, Occluded) is philosophically 
 - **Tenet alignment**: Could explore how predictive processing either supports or challenges the dualist framework—the "controlled hallucination" framing has materialist implications worth engaging
 
 #### The Problem of Mental Causation (Dedicated Topic)
-- **Builds on**: [downward-causation](/concepts/downward-causation/), [interactionist-dualism](/archive/arguments/interactionist-dualism/), [delegatory-dualism](/topics/delegatory-dualism/)
+- **Builds on**: [downward-causation](/concepts/downward-causation/), [interactionist-dualism](/concepts/interactionist-dualism/), [delegatory-dualism](/topics/delegatory-dualism/)
 - **Would address**: Currently spread across multiple articles; deserves unified treatment
 - **Estimated scope**: Long article
 - **Tenet alignment**: Central to Bidirectional Interaction tenet; would consolidate scattered arguments

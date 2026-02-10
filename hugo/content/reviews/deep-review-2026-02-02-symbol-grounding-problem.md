@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Symbol Grounding Problem](/archive/topics/symbol-grounding-problem/)
+**Article**: [Symbol Grounding Problem](/concepts/symbol-grounding-problem/)
 **Previous review**: [2026-01-30](/reviews/deep-review-2026-01-30-symbol-grounding-problem/) (cross-review with language-recursion-and-consciousness)
 **Review context**: Cross-review with AI consciousness articles ([ai-consciousness](/topics/ai-consciousness/), [llm-consciousness](/concepts/llm-consciousness/))
 
@@ -64,14 +64,14 @@ Per previous reviews, these remain bedrock disagreements:
 
 ### Enhancements Made (This Review)
 1. Added `[continual-learning-argument](/concepts/continual-learning-argument/)` link in LLM section with explanation of proximity argument
-2. Added `[baseline-cognition](/archive/topics/baseline-cognition/)` reference in embodiment section
+2. Added `[baseline-cognition](/concepts/baseline-cognition/)` reference in embodiment section
 3. Tightened No Many Worlds tenet connection (clearer argument about indexical anchoring)
-4. Added `[baseline-cognition](/archive/topics/baseline-cognition/)` and `[continual-learning-argument](/concepts/continual-learning-argument/)` to frontmatter concepts
+4. Added `[baseline-cognition](/concepts/baseline-cognition/)` and `[continual-learning-argument](/concepts/continual-learning-argument/)` to frontmatter concepts
 5. Added two entries to Further Reading section
 
 ### Cross-links Added
 - [continual-learning-argument](/concepts/continual-learning-argument/) (frontmatter, body text, Further Reading)
-- [baseline-cognition](/archive/topics/baseline-cognition/) (frontmatter, body text, Further Reading)
+- [baseline-cognition](/concepts/baseline-cognition/) (frontmatter, body text, Further Reading)
 
 ## Word Count
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Brain Specialness](/archive/concepts/brain-specialness/)
+**Article**: [Brain Specialness](/brain-specialness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -116,7 +116,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively prop
 - **Tenet alignment**: Directly relevant to Minimal Quantum Interaction—Stapp's quantum Zeno mechanism operates through attention
 
 #### Working Memory as Consciousness Amplifier
-- **Builds on**: [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), [working-memory](/concepts/working-memory/), [baseline-cognition](/archive/topics/baseline-cognition/)
+- **Builds on**: [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), [working-memory](/concepts/working-memory/), [baseline-cognition](/concepts/baseline-cognition/)
 - **Would address**: Working memory capacity (human 7±2 vs ape 2±1) central to many arguments but scattered
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Bidirectional Interaction by showing what consciousness adds to cognition
@@ -167,15 +167,15 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively prop
 | From | To | Reason |
 |------|-----|--------|
 | [free-will](/topics/free-will/) | [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) | Meditation reveals capacity to refrain from selection |
-| [machine-consciousness](/topics/machine-consciousness/) | [baseline-cognition](/archive/topics/baseline-cognition/) | Consciousness as amplifier of baseline capacities |
+| [machine-consciousness](/topics/machine-consciousness/) | [baseline-cognition](/concepts/baseline-cognition/) | Consciousness as amplifier of baseline capacities |
 | [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) | [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) | Both involve non-decomposable understanding |
 | [personal-identity](/topics/personal-identity/) | [vertiginous-question](/topics/vertiginous-question/) | Both concerned with irreducible indexicality |
 | [death-and-consciousness](/topics/death-and-consciousness/) | [near-death-experiences](/concepts/near-death-experiences/) | Obvious pairing, currently mentioned but not cross-linked |
 | [implicit-memory](/concepts/implicit-memory/) | [voluntary-attention](/concepts/voluntary-attention/) | Choking shows attention's causal efficacy |
-| [blindsight](/concepts/blindsight/) | [baseline-cognition](/archive/topics/baseline-cognition/) | Blindsight demonstrates baseline visual processing |
+| [blindsight](/concepts/blindsight/) | [baseline-cognition](/concepts/baseline-cognition/) | Blindsight demonstrates baseline visual processing |
 | [epistemic-emotions](/concepts/epistemic-emotions/) | [metacognition](/concepts/metacognition/) | FOK/TOT as metarepresentational evidence |
 | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | [agent-causation](/concepts/agent-causation/) | Effort phenomenology grounds agent causation |
-| [cognitive-phenomenology](/concepts/cognitive-phenomenology/) | [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) | Understanding has phenomenal character processing lacks |
+| [cognitive-phenomenology](/concepts/cognitive-phenomenology/) | [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) | Understanding has phenomenal character processing lacks |
 
 ## New Concept Pages Needed
 

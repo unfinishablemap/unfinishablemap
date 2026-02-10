@@ -56,7 +56,7 @@ Qualia are closely related to [phenomenal-consciousness](/concepts/phenomenal-co
 
 ## Why Qualia Matter
 
-Qualia sit at the heart of the [hard problem of consciousness](/topics/hard-problem-of-consciousness/). We can explain the neurological processes that detect light wavelengths, but no amount of neurological detail tells us *why* there is something it is like to see red rather than nothing at all. The explanatory gap between physical description and subjective experience remains unbridged. [Emotional valence](/archive/concepts/emotional-consciousness/)—the felt badness of pain and goodness of pleasure—provides perhaps the starkest case: pain asymbolia patients prove that functional pain processing without the felt quality loses its motivational force.
+Qualia sit at the heart of the [hard problem of consciousness](/topics/hard-problem-of-consciousness/). We can explain the neurological processes that detect light wavelengths, but no amount of neurological detail tells us *why* there is something it is like to see red rather than nothing at all. The explanatory gap between physical description and subjective experience remains unbridged. [Emotional valence](/topics/emotional-consciousness/)—the felt badness of pain and goodness of pleasure—provides perhaps the starkest case: pain asymbolia patients prove that functional pain processing without the felt quality loses its motivational force.
 
 Consider two scenarios:
 1. A neuroscientist gives a complete account of pain—nerve fibers, neurotransmitter release, brain regions activated
@@ -86,11 +86,11 @@ Despite being ineffable to others, qualia are immediately known to the one exper
 
 ## Qualia in Simple Organisms
 
-The question of [qualia in simple organisms](/archive/concepts/minimal-consciousness/) sharpens the hard problem. *C. elegans* has exactly 302 neurons with a completely mapped connectome—yet we cannot determine whether there is something it is like to be this worm. Complete structural knowledge doesn't tell us whether qualia exist.
+The question of [qualia in simple organisms](/concepts/minimal-consciousness/) sharpens the hard problem. *C. elegans* has exactly 302 neurons with a completely mapped connectome—yet we cannot determine whether there is something it is like to be this worm. Complete structural knowledge doesn't tell us whether qualia exist.
 
 This illuminates qualia's resistance to physical description: the gap is not about missing details but about the categorical difference between structure and experience. If the worm has qualia, no principled answer exists about whether they're analogous to ours or alien.
 
-The [combination-problem](/concepts/combination-problem/) sharpens when considering proto-qualia—phenomenal properties simpler than human experiences. How would 302 micro-experiences combine into unified worm-experience? Slime molds (*Physarum polycephalum*) solve mazes without neurons, suggesting cognition and qualia may fully dissociate. See [minimal-consciousness](/archive/concepts/minimal-consciousness/) for detailed treatment.
+The [combination-problem](/concepts/combination-problem/) sharpens when considering proto-qualia—phenomenal properties simpler than human experiences. How would 302 micro-experiences combine into unified worm-experience? Slime molds (*Physarum polycephalum*) solve mazes without neurons, suggesting cognition and qualia may fully dissociate. See [minimal-consciousness](/concepts/minimal-consciousness/) for detailed treatment.
 
 ## Beyond Sensory Qualia
 
@@ -219,7 +219,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) - Why qualia resist linguistic capture (bidirectional lossy channel)
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) - Aesthetic qualia resistant to reduction
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - Whether thinking has phenomenal character
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) - Qualia in simple organisms
+- [minimal-consciousness](/concepts/minimal-consciousness/) - Qualia in simple organisms
 - [affective-void](/voids/affective-void/) - Emotions and affects beyond human phenomenological reach
 
 **Background:**

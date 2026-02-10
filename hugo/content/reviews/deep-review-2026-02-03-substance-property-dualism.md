@@ -66,7 +66,7 @@ None. The previous review addressed the major gaps (illusionism section, decoher
 ### Cross-links Already Present
 
 Extensive cross-linking from previous review:
-- [illusionism](/concepts/illusionism/), [decoherence](/concepts/decoherence/), [introspection](/concepts/introspection/), [witness-consciousness](/concepts/witness-consciousness/), [haecceity](/concepts/haecceity/), [causal-closure](/concepts/causal-closure/), [interactionist-dualism](/archive/arguments/interactionist-dualism/), [epiphenomenalism](/arguments/epiphenomenalism/), [qualia](/concepts/qualia/), [materialism](/arguments/materialism/), [russellian-monism](/concepts/russellian-monism/), [pairing-problem](/concepts/pairing-problem/), [quantum-consciousness](/concepts/quantum-consciousness/), [Buddhism-and-dualism](/concepts/buddhism-and-dualism/)
+- [illusionism](/concepts/illusionism/), [decoherence](/concepts/decoherence/), [introspection](/concepts/introspection/), [witness-consciousness](/concepts/witness-consciousness/), [haecceity](/concepts/haecceity/), [causal-closure](/concepts/causal-closure/), [interactionist-dualism](/concepts/interactionist-dualism/), [epiphenomenalism](/arguments/epiphenomenalism/), [qualia](/concepts/qualia/), [materialism](/arguments/materialism/), [russellian-monism](/concepts/russellian-monism/), [pairing-problem](/concepts/pairing-problem/), [quantum-consciousness](/concepts/quantum-consciousness/), [Buddhism-and-dualism](/concepts/buddhism-and-dualism/)
 
 ## Remaining Items
 

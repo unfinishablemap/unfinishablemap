@@ -229,14 +229,14 @@ The framework would face serious difficulty if:
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The foundational concept in depth
 - [selection-laws](/concepts/selection-laws/) — The downward direction: how conscious states select physical outcomes
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — The coupling law problem and candidate law families
-- [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/) — Where in the brain coupling might occur
+- [attention-interface-mechanisms](/attention-interface-mechanisms/) — Where in the brain coupling might occur
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism in detail
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's role in Chalmers' quantum proposal
 - [functionalism](/arguments/functionalism/) — The view Chalmers tends toward, the Map rejects
 - [epiphenomenalism](/arguments/epiphenomenalism/) — Chalmers' tendency, the Map's rejection
 - [haecceity](/concepts/haecceity/) — Why organizational invariance may fail
 - [mental-causation](/concepts/mental-causation/) — How consciousness affects physical outcomes
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The philosophical position requiring bidirectional laws
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical position requiring bidirectional laws
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum frameworks providing selection pathways
 - [decoherence](/concepts/decoherence/) — The physics objection and biological quantum effects
 - [mysterianism](/concepts/mysterianism/) — Whether consciousness may be cognitively closed to human understanding

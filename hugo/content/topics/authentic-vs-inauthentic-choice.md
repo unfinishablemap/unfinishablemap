@@ -101,7 +101,7 @@ Bad faith is self-deception about one's freedom. The waiter who performs "being 
 
 Bad faith has a paradoxical structure: the same person must be both deceiver and deceived. This differs from ordinary lying, where deceiver and deceived are distinct. In bad faith, I convince myself of something I simultaneously know to be false—that I have no choice, that my role determines me, that "I can't help it."
 
-This structure presupposes what Sartre calls the pour-soi (being-for-itself): consciousness's constitutive self-distance. Only a being that is never identical with its contents can deceive itself about what those contents mean. The very possibility of bad faith demonstrates consciousness's irreducibility—a point developed in the [existentialism](/archive/concepts/existentialism/) article.
+This structure presupposes what Sartre calls the pour-soi (being-for-itself): consciousness's constitutive self-distance. Only a being that is never identical with its contents can deceive itself about what those contents mean. The very possibility of bad faith demonstrates consciousness's irreducibility—a point developed in the [existentialism](/concepts/existentialism/) article.
 
 ### Forms of Bad Faith
 
@@ -220,7 +220,7 @@ The authentic-inauthentic framework would face difficulty if:
 ## Further Reading
 
 - [free-will](/topics/free-will/) — The broader framework for libertarian agency
-- [existentialism](/archive/concepts/existentialism/) — Sartre and Heidegger on consciousness and freedom
+- [existentialism](/concepts/existentialism/) — Sartre and Heidegger on consciousness and freedom
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of decision-making
 - [agent-causation](/concepts/agent-causation/) — Why genuine choice requires agent causation
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of cognitive engagement

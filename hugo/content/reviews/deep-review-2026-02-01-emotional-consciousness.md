@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-01
-**Article**: [Emotional Consciousness and Valence](/archive/concepts/emotional-consciousness/)
+**Article**: [Emotional Consciousness and Valence](/topics/emotional-consciousness/)
 **Previous review**: [2026-01-26](/reviews/deep-review-2026-01-26-emotional-consciousness/)
 
 ## Pessimistic Analysis Summary
@@ -72,7 +72,7 @@ None. Article is stable and at 105% of soft threshold (length-neutral mode). Cha
 
 ### Cross-links Present
 Article already has comprehensive cross-linking:
-- [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [qualia](/concepts/qualia/), [phenomenal-consciousness](/concepts/phenomenal-consciousness/), [phenomenal-value-realism](/concepts/phenomenal-value-realism/), [intentionality](/concepts/intentionality/), [higher-order-theories](/concepts/higher-order-theories/), [functionalism](/arguments/functionalism/), [minimal-consciousness](/archive/concepts/minimal-consciousness/), [agent-causation](/concepts/agent-causation/), [attention-as-interface](/concepts/attention-as-interface/), [self-and-consciousness](/concepts/self-and-consciousness/), [epiphenomenalism](/arguments/epiphenomenalism/), [problem-of-other-minds](/concepts/problem-of-other-minds/), [ai-consciousness](/topics/ai-consciousness/), [ethics-of-consciousness](/topics/ethics-of-consciousness/)
+- [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [qualia](/concepts/qualia/), [phenomenal-consciousness](/concepts/phenomenal-consciousness/), [phenomenal-value-realism](/concepts/phenomenal-value-realism/), [intentionality](/concepts/intentionality/), [higher-order-theories](/concepts/higher-order-theories/), [functionalism](/arguments/functionalism/), [minimal-consciousness](/concepts/minimal-consciousness/), [agent-causation](/concepts/agent-causation/), [attention-as-interface](/concepts/attention-as-interface/), [self-and-consciousness](/concepts/self-and-consciousness/), [epiphenomenalism](/arguments/epiphenomenalism/), [problem-of-other-minds](/concepts/problem-of-other-minds/), [ai-consciousness](/topics/ai-consciousness/), [ethics-of-consciousness](/topics/ethics-of-consciousness/)
 
 No missing cross-links identified.
 

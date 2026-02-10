@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Minimal Consciousness](/archive/concepts/minimal-consciousness/)
+**Article**: [Minimal Consciousness](/concepts/minimal-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

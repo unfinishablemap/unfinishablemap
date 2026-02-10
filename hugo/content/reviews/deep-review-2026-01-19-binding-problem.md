@@ -55,7 +55,7 @@ topics: []
 - Expanded references with proper citations
 
 ### Cross-links Added
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) (frontmatter and Further Reading)
+- [minimal-consciousness](/concepts/minimal-consciousness/) (frontmatter and Further Reading)
 - [global-workspace-theory](/concepts/global-workspace-theory/) (frontmatter and Further Reading)
 - [emergence](/concepts/emergence/) (frontmatter and Further Reading)
 - [neural-binding-quantum-entanglement-2026-01-19](/research/neural-binding-quantum-entanglement-2026-01-19/) (Further Reading)

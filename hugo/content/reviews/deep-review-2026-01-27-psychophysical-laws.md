@@ -56,7 +56,7 @@ Six sympathetic personas evaluated the article's strengths and cross-linking opp
 3. **Condensed haecceity section**: Reduced redundancy by linking to the new article's fuller treatment
 
 ### Cross-links Added
-- [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/) (opening paragraph, related_articles, Further Reading)
+- [chalmers-psychophysical-coupling](/chalmers-psychophysical-coupling/) (opening paragraph, related_articles, Further Reading)
 
 ## Remaining Items
 

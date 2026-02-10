@@ -121,7 +121,7 @@ Traditional discussions of phenomenal consciousness focus on sensory [qualia](/c
 
 ## The Phenomenal Constitution Thesis
 
-The strongest interpretation of cognitive phenomenology holds that meaning is *constituted* by phenomenal character—not merely accompanied by it. The [Phenomenal Constitution Thesis (PCT)](/archive/topics/meaning-and-consciousness/) claims that to grasp a meaning *is* to have a certain kind of experience. Meaning and phenomenology are not separate features that happen to co-occur; they are two aspects of a single phenomenon. [Meaning integration](/archive/topics/consciousness-and-meaning-integration/) extends this analysis: understanding a complex argument requires binding multiple semantic elements into unified comprehension—a phenomenal achievement irreducible to separately grasped meanings.
+The strongest interpretation of cognitive phenomenology holds that meaning is *constituted* by phenomenal character—not merely accompanied by it. The [Phenomenal Constitution Thesis (PCT)](/meaning-and-consciousness/) claims that to grasp a meaning *is* to have a certain kind of experience. Meaning and phenomenology are not separate features that happen to co-occur; they are two aspects of a single phenomenon. [Meaning integration](/consciousness-and-meaning-integration/) extends this analysis: understanding a complex argument requires binding multiple semantic elements into unified comprehension—a phenomenal achievement irreducible to separately grasped meanings.
 
 PCT explains several puzzles:
 
@@ -198,7 +198,7 @@ The Unfinishable Map's framework suggests the first option is closer to truth, b
 
 LLMs show no evidence of the dissociations that reveal human semantic phenomenology. They exhibit no tip-of-the-tongue states, no feeling of knowing, no phenomenology of insight. They produce outputs or fail to produce them, with no frustration at blocked retrieval, no metacognitive awareness of what they "know."
 
-The phenomenal markers humans use to recognise understanding—the "click" when comprehension arrives, the distinctive feel of grasping versus memorising—have no LLM counterpart. This absence is not merely technical limitation; it reflects the deeper fact that LLMs process patterns correlated with meaningful text while humans supply the meaning. If the [Phenomenal Constitution Thesis](/archive/topics/meaning-and-consciousness/) is correct and meaning requires phenomenal character, then LLM "representations" aren't genuinely *about* anything—they lack the phenomenal character that makes mental states point beyond themselves.
+The phenomenal markers humans use to recognise understanding—the "click" when comprehension arrives, the distinctive feel of grasping versus memorising—have no LLM counterpart. This absence is not merely technical limitation; it reflects the deeper fact that LLMs process patterns correlated with meaningful text while humans supply the meaning. If the [Phenomenal Constitution Thesis](/meaning-and-consciousness/) is correct and meaning requires phenomenal character, then LLM "representations" aren't genuinely *about* anything—they lack the phenomenal character that makes mental states point beyond themselves.
 
 ## Evidence from Semantic Memory
 

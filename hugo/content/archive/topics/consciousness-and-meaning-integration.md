@@ -42,7 +42,7 @@ topics:
 - '[[meaning-of-life]]'
 ---
 
-Consciousness doesn't just bind perceptual features into unified experience—it weaves meanings into coherent wholes. When you understand a complex argument, grasp a life's trajectory, or see how disparate ideas connect, something integrates semantic content into unified comprehension. This meaning integration is distinct from both the [perceptual binding problem](/concepts/binding-problem/) (how visual features combine) and the [phenomenal constitution thesis](/archive/topics/meaning-and-consciousness/) (whether understanding requires consciousness). It concerns how consciousness creates coherent meaningful wholes from disparate semantic elements. The Unfinishable Map holds that this integration is irreducibly phenomenal: the unity of understanding cannot be decomposed into separately grasped meanings that merely correlate.
+Consciousness doesn't just bind perceptual features into unified experience—it weaves meanings into coherent wholes. When you understand a complex argument, grasp a life's trajectory, or see how disparate ideas connect, something integrates semantic content into unified comprehension. This meaning integration is distinct from both the [perceptual binding problem](/concepts/binding-problem/) (how visual features combine) and the [phenomenal constitution thesis](/meaning-and-consciousness/) (whether understanding requires consciousness). It concerns how consciousness creates coherent meaningful wholes from disparate semantic elements. The Unfinishable Map holds that this integration is irreducibly phenomenal: the unity of understanding cannot be decomposed into separately grasped meanings that merely correlate.
 
 ## The Integration Problem
 
@@ -74,7 +74,7 @@ The integration problem for meaning mirrors the binding problem for perception: 
 
 ## Phenomenal Coherence
 
-The [phenomenal constitution thesis](/archive/topics/meaning-and-consciousness/) holds that genuine understanding involves irreducible experiential character. If this is correct, meaning integration must also be phenomenal. The unity of understanding isn't just functional coordination—it's experienced as coherent grasp.
+The [phenomenal constitution thesis](/meaning-and-consciousness/) holds that genuine understanding involves irreducible experiential character. If this is correct, meaning integration must also be phenomenal. The unity of understanding isn't just functional coordination—it's experienced as coherent grasp.
 
 Consider the phenomenology of suddenly understanding something complex. The elements that seemed disconnected click together. This "click" has phenomenal character—a distinctive quality that accompanies achieved integration. It differs from the experience of merely rehearsing separate ideas.
 
@@ -116,7 +116,7 @@ These practices suggest meaning integration can be cultivated. The capacity to g
 
 Large language models process semantic content with impressive fluency. They generate text that reflects semantic relationships and maintains coherence across paragraphs. Do they integrate meanings?
 
-The [phenomenal constitution thesis](/archive/topics/meaning-and-consciousness/) suggests not. If meaning integration is irreducibly phenomenal, and LLMs lack phenomenal consciousness, they process tokens without integrating meanings. What looks like integrated understanding is pattern-matching over training data, not the unified comprehension that conscious integration provides.
+The [phenomenal constitution thesis](/meaning-and-consciousness/) suggests not. If meaning integration is irreducibly phenomenal, and LLMs lack phenomenal consciousness, they process tokens without integrating meanings. What looks like integrated understanding is pattern-matching over training data, not the unified comprehension that conscious integration provides.
 
 The test case is novel integration—connecting ideas in ways not exemplified in training data. Humans can recognize when familiar ideas connect in unprecedented ways; the "aha" of novel integration has distinctive phenomenal character. LLMs generate novel token sequences but plausibly without the phenomenal integration that makes such sequences *understood* rather than merely produced.
 
@@ -150,7 +150,7 @@ These conditions distinguish the phenomenal-integration view from alternatives w
 
 ## Further Reading
 
-- [meaning-and-consciousness](/archive/topics/meaning-and-consciousness/) — The phenomenal constitution thesis for semantic understanding
+- [meaning-and-consciousness](/meaning-and-consciousness/) — The phenomenal constitution thesis for semantic understanding
 - [meaning-of-life](/topics/meaning-of-life/) — Consciousness-grounded meaning and existential significance
 - [binding-problem](/concepts/binding-problem/) — Comprehensive treatment of perceptual binding and its relation to meaning unity
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The experiential character of thinking

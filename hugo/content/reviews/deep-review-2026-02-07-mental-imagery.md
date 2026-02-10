@@ -72,14 +72,14 @@ topics: []
 
 - Strengthened physicalist rebuttal with self-stultification and content-matching arguments
 - Connected cognitive phenomenology section back to the central bidirectional interaction argument
-- Added cross-links to [downward-causation](/concepts/downward-causation/), [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/), [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/), [motor-selection](/concepts/motor-selection/)
+- Added cross-links to [downward-causation](/concepts/downward-causation/), [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/), [motor-selection](/concepts/motor-selection/)
 - Added 2 new references (Driskell et al. 1994, Pascual-Leone et al. 1995) for proper attribution
 - Qualified contested empirical claims about aphantasia visual cortex activation
 
 ### Cross-links Added
 
 - [downward-causation](/concepts/downward-causation/) — voluntary imagery as instance of top-down mental causation
-- [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) — broader pattern of conscious/unconscious differences
+- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — broader pattern of conscious/unconscious differences
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — evolutionary support for imagery's causal role
 - [motor-selection](/concepts/motor-selection/) — motor execution systems shaped by imagery rehearsal
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — inline link in cognitive phenomenology section

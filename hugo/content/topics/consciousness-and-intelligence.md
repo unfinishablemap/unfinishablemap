@@ -103,7 +103,7 @@ Conversely, intelligence shapes how consciousness can manifest. Richer cognitive
 
 ## The Great Ape Evidence
 
-The [consciousness-as-intelligence-amplifier](/concepts/consciousness-as-amplifier/) hypothesis draws on comparative cognition to argue that consciousness causally contributes to intelligence. Great apes represent what the Map calls [baseline-cognition](/archive/topics/baseline-cognition/)—sophisticated neural processing without the full conscious access that humans enjoy.
+The [consciousness-as-intelligence-amplifier](/concepts/consciousness-as-amplifier/) hypothesis draws on comparative cognition to argue that consciousness causally contributes to intelligence. Great apes represent what the Map calls [baseline-cognition](/concepts/baseline-cognition/)—sophisticated neural processing without the full conscious access that humans enjoy.
 
 **Working memory**: Chimpanzee working memory holds approximately 2±1 items; humans hold 7±2. This isn't merely more storage—it's the capacity to simultaneously manipulate multiple representations, enabling comparison, combination, and flexible reasoning.
 
@@ -171,7 +171,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against di
 
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The evolutionary argument for mental causation
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognitive capacity
-- [baseline-cognition](/archive/topics/baseline-cognition/) — What neurons achieve without conscious contribution
+- [baseline-cognition](/concepts/baseline-cognition/) — What neurons achieve without conscious contribution
 - [machine-consciousness](/topics/machine-consciousness/) — Whether artificial systems can be conscious
 - [ai-consciousness](/topics/ai-consciousness/) — Consciousness and AI prospects
 - [functionalism](/arguments/functionalism/) — The view that mental states are functional states

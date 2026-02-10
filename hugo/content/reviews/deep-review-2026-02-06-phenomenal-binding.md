@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-06
-**Article**: [Phenomenal Binding](/archive/concepts/phenomenal-binding/) (orphaned artifact)
+**Article**: [Phenomenal Binding](/phenomenal-binding/) (orphaned artifact)
 **Previous review**: [2026-01-24](/reviews/deep-review-2026-01-24-phenomenal-binding/)
 
 ## Context

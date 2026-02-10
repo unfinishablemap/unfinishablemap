@@ -72,7 +72,7 @@ None. The article is well-structured, cites its sources appropriately, has the r
 ### Cross-links Already Present
 - [mental-effort](/concepts/mental-effort/)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/)
+- [interactionist-dualism](/concepts/interactionist-dualism/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)
 - [epiphenomenalism](/arguments/epiphenomenalism/)

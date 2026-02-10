@@ -105,7 +105,7 @@ The [decoherence objection](/concepts/decoherence/)—that quantum coherence can
 
 ## The Baseline Cognition Framework
 
-The [baseline-cognition](/archive/topics/baseline-cognition/) concept—what cognition achieves without substantial conscious contribution—provides a useful framework for interpreting simple organism behaviour. Great apes demonstrate sophisticated cognitive capacities that appear to operate without the metarepresentational consciousness that distinguishes human cognition: tool use, social reasoning, procedural metacognition, cultural traditions—all within what Tomasello calls the "zone of latent solutions."
+The [baseline-cognition](/concepts/baseline-cognition/) concept—what cognition achieves without substantial conscious contribution—provides a useful framework for interpreting simple organism behaviour. Great apes demonstrate sophisticated cognitive capacities that appear to operate without the metarepresentational consciousness that distinguishes human cognition: tool use, social reasoning, procedural metacognition, cultural traditions—all within what Tomasello calls the "zone of latent solutions."
 
 Applied to simple organisms:
 
@@ -238,7 +238,7 @@ The Map rejects MWI partly because it undermines the [haecceity](/concepts/haecc
 ## Further Reading
 
 ### Core Concepts
-- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition achieves without consciousness and why great apes mark the boundary
+- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness and why great apes mark the boundary
 - [metarepresentation](/concepts/metarepresentation/) — Why representing representations may require consciousness
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The baseline cognition hypothesis and what consciousness adds
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When did consciousness first emerge?

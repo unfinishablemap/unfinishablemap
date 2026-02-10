@@ -29,7 +29,7 @@ None. The article has been through eight previous reviews and critical issues we
 ### Medium Issues Found
 
 1. **Missing counterfactual reasoning integration**: The counterfactual-reasoning.md article establishes that counterfactual reasoning requires consciousness (via working memory demands, great ape limitations) and is essential for genuine choice. The free-will.md article mentioned "representing alternatives" but didn't connect to the dedicated concept or baseline cognition evidence.
-   - **Resolution**: Added new "Counterfactual Reasoning" subsection after "The Phenomenology of Choice" integrating these insights, cross-linking to [counterfactual-reasoning](/concepts/counterfactual-reasoning/) and [baseline-cognition](/archive/topics/baseline-cognition/).
+   - **Resolution**: Added new "Counterfactual Reasoning" subsection after "The Phenomenology of Choice" integrating these insights, cross-linking to [counterfactual-reasoning](/concepts/counterfactual-reasoning/) and [baseline-cognition](/concepts/baseline-cognition/).
 
 ### Counterarguments Considered (Adversarial Personas)
 
@@ -61,7 +61,7 @@ None. The article has been through eight previous reviews and critical issues we
 ### Enhancements Made
 
 1. **Counterfactual Reasoning subsection**: Added new section explaining how counterfactual reasoning—the capacity to represent and evaluate alternatives—requires consciousness and undergirds genuine deliberation
-2. **Cross-links added**: [counterfactual-reasoning](/concepts/counterfactual-reasoning/), [baseline-cognition](/archive/topics/baseline-cognition/)
+2. **Cross-links added**: [counterfactual-reasoning](/concepts/counterfactual-reasoning/), [baseline-cognition](/concepts/baseline-cognition/)
 3. **Bischof-Köhler integration**: Connected great ape limitations to the consciousness requirement for genuine choice
 4. **Working memory evidence**: Cited 7±2 vs 2±1 capacity difference between humans and great apes
 5. **Updated concepts list**: Added [counterfactual-reasoning](/concepts/counterfactual-reasoning/) to frontmatter

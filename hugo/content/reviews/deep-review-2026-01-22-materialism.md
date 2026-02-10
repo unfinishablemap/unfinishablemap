@@ -59,9 +59,9 @@ topics: []
 
 ### Cross-links Added
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
-- [baseline-cognition](/archive/topics/baseline-cognition/)
+- [baseline-cognition](/concepts/baseline-cognition/)
 - [illusionism](/concepts/illusionism/)
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/)
+- [interactionist-dualism](/concepts/interactionist-dualism/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) (in Further Reading)
 - [quantum-consciousness](/concepts/quantum-consciousness/) (in Further Reading)
 

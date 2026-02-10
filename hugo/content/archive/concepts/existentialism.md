@@ -139,7 +139,7 @@ If consciousness is irreducible at each moment (as the [Dualism tenet](/tenets/#
 ## Further Reading
 
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — The compatibility thesis: irreducibility without permanence
-- [nihilism](/archive/concepts/nihilism/) — The challenge existentialism responds to
+- [nihilism](/nihilism/) — The challenge existentialism responds to
 - [meaning-of-life](/topics/meaning-of-life/) — How meaning can be grounded in consciousness
 - [free-will](/topics/free-will/) — The metaphysics of choice and agency
 - [personal-identity](/topics/personal-identity/) — What constitutes the self across time

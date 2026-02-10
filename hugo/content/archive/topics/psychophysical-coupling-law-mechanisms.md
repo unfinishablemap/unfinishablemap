@@ -43,7 +43,7 @@ topics:
 
 The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet claims consciousness causally influences physical outcomes. For this claim to have empirical traction, there must be a mechanism—a specifiable pathway from phenomenal states to physical selections. Five candidate mechanisms have been proposed, but they vary enormously in precision and testability. Only two (Stapp's attention-observation model and Eccles' intention-probability model) approach the specificity required for scientific engagement. This article examines what each mechanism actually proposes at the physical level, what makes a coupling mechanism adequate, and what the current mechanistic landscape reveals about the testability of interactionist dualism.
 
-For the broader framework—why [psychophysical-laws](/concepts/psychophysical-laws/) are needed, how supervenience laws differ from [selection-laws](/concepts/selection-laws/), and the four families of coupling laws—see [psychophysical-coupling](/concepts/psychophysical-coupling/) and [psychophysical-laws-framework](/archive/topics/psychophysical-laws-framework/).
+For the broader framework—why [psychophysical-laws](/concepts/psychophysical-laws/) are needed, how supervenience laws differ from [selection-laws](/concepts/selection-laws/), and the four families of coupling laws—see [psychophysical-coupling](/concepts/psychophysical-coupling/) and [psychophysical-laws-framework](/psychophysical-laws-framework/).
 
 ## What Makes a Mechanism Adequate?
 
@@ -163,10 +163,10 @@ The mechanistic landscape has direct implications for the Map's tenets.
 
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — The coupling law problem, candidate law families, and comparative analysis
 - [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws
-- [psychophysical-laws-framework](/archive/topics/psychophysical-laws-framework/) — Integrated overview including supervenience and selection laws
-- [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/) — Chalmers' framework and his 2022 quantum development with McQueen
+- [psychophysical-laws-framework](/psychophysical-laws-framework/) — Integrated overview including supervenience and selection laws
+- [chalmers-psychophysical-coupling](/chalmers-psychophysical-coupling/) — Chalmers' framework and his 2022 quantum development with McQueen
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of Stapp's attention-observation mechanism
-- [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/) — Where in the brain coupling might occur
+- [attention-interface-mechanisms](/attention-interface-mechanisms/) — Where in the brain coupling might occur
 - [decoherence](/concepts/decoherence/) — The physics objection and biological quantum effects
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort central to Stapp's model
 - [tenets](/tenets/) — The Map's foundational commitments

@@ -41,9 +41,9 @@ Some transhumanists view uploading as the path to immortality—copy the pattern
 
 ## Substrate Independence Revisited
 
-The [substrate independence thesis](/archive/concepts/substrate-independence-critique/) holds that consciousness depends only on functional organization, not implementation. If true, uploading is straightforward: preserve the pattern, consciousness transfers.
+The [substrate independence thesis](/substrate-independence-critique/) holds that consciousness depends only on functional organization, not implementation. If true, uploading is straightforward: preserve the pattern, consciousness transfers.
 
-But as [substrate-independence-critique](/archive/concepts/substrate-independence-critique/) argues, this thesis fails on multiple grounds:
+But as [substrate-independence-critique](/substrate-independence-critique/) argues, this thesis fails on multiple grounds:
 
 - **Absent qualia**: A functionally identical system might have no experience—Block's "China brain" implements neural structure without being conscious
 - **Explanatory gap**: Functional facts don't explain why they're accompanied by qualitative experience
@@ -212,14 +212,14 @@ The convergence across tenets is striking. Each independently gives reason to do
 
 ## Further Reading
 
-- [substrate-independence-critique](/archive/concepts/substrate-independence-critique/) — Why substrate matters for consciousness
+- [substrate-independence-critique](/substrate-independence-critique/) — Why substrate matters for consciousness
 - [ai-consciousness](/topics/ai-consciousness/) — The broader machine consciousness question
 - [functionalism](/arguments/functionalism/) — The view substrate independence depends on
 - [haecceity](/concepts/haecceity/) — The thisness that uploading threatens
 - [personal-identity](/topics/personal-identity/) — What makes a future consciousness count as you
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Candidate mechanisms for consciousness-matter interface
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why copying function doesn't preserve experience
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework underlying upload skepticism
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The framework underlying upload skepticism
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability of functional duplicates without consciousness
 
 ## References

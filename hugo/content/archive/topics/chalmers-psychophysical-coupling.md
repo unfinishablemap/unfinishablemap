@@ -172,7 +172,7 @@ Chalmers provides the philosophical framework the Map requires. His naturalistic
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Deep treatment of Chalmers' foundational framework
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — The Map's development of selection laws
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — Five candidate mechanisms for coupling
-- [psychophysical-laws-framework](/archive/topics/psychophysical-laws-framework/) — Integrated overview of the full framework
+- [psychophysical-laws-framework](/psychophysical-laws-framework/) — Integrated overview of the full framework
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's role in Chalmers' quantum proposal
 - [functionalism](/arguments/functionalism/) — The view Chalmers tends toward, the Map rejects
 - [epiphenomenalism](/arguments/epiphenomenalism/) — Chalmers' tendency, the Map's rejection

@@ -38,7 +38,7 @@ topics:
 - '[[animal-consciousness]]'
 ---
 
-Consciousness enables a form of creativity that escapes the constraints of [baseline cognition](/archive/topics/baseline-cognition/). Great apes innovate within what Tomasello calls the "zone of latent solutions"—recombinations accessible through trial-and-error exploration of existing cognitive resources. Humans generate genuinely novel combinations by explicitly representing problems, considering multiple approaches simultaneously, and systematically modifying existing methods. This creative leap requires the kind of global information integration that [only conscious processing provides](/archive/topics/conscious-vs-unconscious-processing/).
+Consciousness enables a form of creativity that escapes the constraints of [baseline cognition](/concepts/baseline-cognition/). Great apes innovate within what Tomasello calls the "zone of latent solutions"—recombinations accessible through trial-and-error exploration of existing cognitive resources. Humans generate genuinely novel combinations by explicitly representing problems, considering multiple approaches simultaneously, and systematically modifying existing methods. This creative leap requires the kind of global information integration that [only conscious processing provides](/concepts/conscious-vs-unconscious-processing/).
 
 The difference is not merely quantitative. Apes can discover uses for tools their species hasn't discovered before, but only when those uses are reachable by incremental exploration without transcending current representations. Human creativity changes the representation itself—what Margaret Boden calls "transformational creativity." This requires [metarepresentation](/concepts/metarepresentation/): taking your existing solutions as objects of thought to evaluate, critique, and fundamentally revise.
 
@@ -56,7 +56,7 @@ The zone has a ceiling. Ape innovations don't build on each other cumulatively b
 
 ## Escaping the Zone: Three Requirements
 
-Research on [conscious versus unconscious processing](/archive/topics/conscious-vs-unconscious-processing/) identifies three cognitive functions that require conscious access. Each corresponds to what baseline cognition lacks:
+Research on [conscious versus unconscious processing](/concepts/conscious-vs-unconscious-processing/) identifies three cognitive functions that require conscious access. Each corresponds to what baseline cognition lacks:
 
 ### Durable Information Maintenance
 
@@ -196,8 +196,8 @@ None of these conditions currently obtains.
 ## Further Reading
 
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis in consciousness studies
-- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition achieves without consciousness
-- [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
+- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
+- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
 - [metarepresentation](/concepts/metarepresentation/) — The capacity to represent representations
 - [cumulative-culture](/concepts/cumulative-culture/) — Cultural ratcheting and why it requires metarepresentation
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Imagining non-actual states

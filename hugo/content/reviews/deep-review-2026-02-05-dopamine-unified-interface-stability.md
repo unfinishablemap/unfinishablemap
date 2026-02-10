@@ -73,7 +73,7 @@ All strengths from previous reviews intact:
 ### Cross-links Status
 
 Verified 6 inbound links exist:
-1. [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/)
+1. [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/)
 2. [dopamine-selection-interface](/concepts/dopamine-selection-interface/)
 3. [motor-selection](/concepts/motor-selection/)
 4. [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/)

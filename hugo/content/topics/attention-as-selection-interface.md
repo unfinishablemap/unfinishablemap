@@ -250,7 +250,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis stated and developed
 - [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) — Evidence that attention and consciousness can come apart
-- [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) — Detailed concept treatment of the unified interface
+- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — Detailed concept treatment of the unified interface
 - [motor-selection](/concepts/motor-selection/) — Motor selection and premotor theory in depth
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine's dual role in attention and motor planning
 - [dopamine-selection-interface](/concepts/dopamine-selection-interface/) — Dopamine's role in threshold modulation

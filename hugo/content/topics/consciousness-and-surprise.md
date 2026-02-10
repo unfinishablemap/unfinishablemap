@@ -131,7 +131,7 @@ Surprise connects to The Unfinishable Map's [tenets](/tenets/) at multiple point
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view that consciousness doesn't cause anything
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why natural selection implies mental causation
 - [structure-of-attention](/topics/structure-of-attention/) — How attention allocates cognitive resources
-- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — The felt quality of affective states
+- [emotional-consciousness](/topics/emotional-consciousness/) — The felt quality of affective states
 
 ## References
 

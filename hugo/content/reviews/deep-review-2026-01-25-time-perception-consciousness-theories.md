@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-25
-**Article**: [Time Perception and Consciousness Theories](/archive/topics/time-perception-consciousness-theories/)
+**Article**: [Time Perception and Consciousness Theories](/time-perception-consciousness-theories/)
 **Previous review**: Never
 **Word count**: 2108 → 2722 (+614 words, +29%)
 

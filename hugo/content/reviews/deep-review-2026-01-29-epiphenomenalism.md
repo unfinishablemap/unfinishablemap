@@ -29,7 +29,7 @@ None. Article remains stable after fourth review.
 
 ### Medium Issues Found
 
-1. **Broken internal link**: `[...](/archive/topics/consciousness-as-intelligence-amplifier/)` should be `[...](/concepts/consciousness-as-amplifier/)`. The file is named `consciousness-as-amplifier.md`.
+1. **Broken internal link**: `[...](/consciousness-as-intelligence-amplifier/)` should be `[...](/concepts/consciousness-as-amplifier/)`. The file is named `consciousness-as-amplifier.md`.
    - **Resolution**: Fixed the wikilink to point to correct file.
 
 2. **Missing bidirectional cross-reference**: The new `consciousness-and-intelligence.md` article explicitly discusses epiphenomenalism as a rival position, but epiphenomenalism.md did not link back to it.

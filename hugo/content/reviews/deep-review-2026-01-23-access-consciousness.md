@@ -51,7 +51,7 @@ topics: []
 - Added Cohen & Dennett (2011) citation to References
 
 ### Cross-links Added
-- [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/) - in Dualism tenet section
+- [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/) - in Dualism tenet section
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) - in No Many Worlds section
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) - in Minimal Quantum Interaction section
 

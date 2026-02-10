@@ -191,7 +191,7 @@ From the Map's perspective, continual learning is likely a *consequence* of cons
 - [llm-consciousness](/concepts/llm-consciousness/) — The broader question of whether language models can be conscious
 - [functionalism](/arguments/functionalism/) — The philosophical view that consciousness is determined by functional organisation
 - [ai-consciousness](/topics/ai-consciousness/) — Consciousness in artificial systems generally
-- [substrate-independence-critique](/archive/concepts/substrate-independence-critique/) — Arguments that consciousness depends on physical implementation
+- [substrate-independence-critique](/substrate-independence-critique/) — Arguments that consciousness depends on physical implementation
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument against functionalism
 - [illusionism](/concepts/illusionism/) — The radical challenge that phenomenal consciousness is illusory
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative perspectives on the observing awareness

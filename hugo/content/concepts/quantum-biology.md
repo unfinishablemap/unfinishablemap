@@ -128,7 +128,7 @@ The Beck-Eccles model proposes that quantum tunneling triggers neurotransmitter 
 - Georgiev (2018) upgraded the model: Davydov solitons twist SNARE protein α-helices, triggering vesicle release via quantum tunneling
 - Provides a molecular mechanism for conscious influence on synaptic transmission
 
-This directly supports [Bidirectional Interaction](/archive/arguments/interactionist-dualism/)—consciousness would control whether a synapse fires by biasing quantum tunneling probabilities.
+This directly supports [Bidirectional Interaction](/concepts/interactionist-dualism/)—consciousness would control whether a synapse fires by biasing quantum tunneling probabilities.
 
 ### Posner Molecule Entanglement (Fisher)
 

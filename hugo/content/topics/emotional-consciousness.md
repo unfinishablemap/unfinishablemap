@@ -119,7 +119,7 @@ For [AI consciousness](/topics/ai-consciousness/), this matters critically. If f
 
 ### Simple Organisms and Valence
 
-The question of moral status becomes acute at consciousness boundaries. [Research on simple organisms](/archive/concepts/minimal-consciousness/) reveals that cognition and valence may dissociate: slime molds solve mazes and make trade-off decisions without neurons, but do they *feel* anything? C. elegans with 302 neurons displays habituation and avoidance behaviours, but is there valenced experience driving the avoidance, or only functional responsiveness?
+The question of moral status becomes acute at consciousness boundaries. [Research on simple organisms](/concepts/minimal-consciousness/) reveals that cognition and valence may dissociate: slime molds solve mazes and make trade-off decisions without neurons, but do they *feel* anything? C. elegans with 302 neurons displays habituation and avoidance behaviours, but is there valenced experience driving the avoidance, or only functional responsiveness?
 
 These cases matter for valence sentientism. If moral status requires felt suffering, not merely nociceptive behaviour, then the distribution of moral status depends on which organisms cross the valence threshold. A complete neural map (as exists for C. elegans) tells us nothing about whether damage *feels bad* to the organism—the explanatory gap persists even with perfect structural knowledge.
 
@@ -183,7 +183,7 @@ Emotional consciousness is not a puzzle awaiting functional solution. It is evid
 - [qualia](/concepts/qualia/) — Intrinsic properties of experience that resist functional reduction
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The subjective, felt aspect of mental states
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The view that phenomenal properties ground objective value
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Boundary cases testing where valenced experience begins
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Boundary cases testing where valenced experience begins
 - [self-and-consciousness](/concepts/self-and-consciousness/) — How selfhood relates to phenomenal experience
 - [agent-causation](/concepts/agent-causation/) — How consciousness exercises causal influence through valenced assessment
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention operates as the consciousness-brain interface

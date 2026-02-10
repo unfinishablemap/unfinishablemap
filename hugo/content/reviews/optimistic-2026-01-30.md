@@ -129,7 +129,7 @@ The Map's honesty about what remains uncertain—whether specific quantum mechan
 ### Medium Priority
 
 #### The Argument from Beauty
-- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [qualia](/concepts/qualia/), [meaning-and-consciousness](/archive/topics/meaning-and-consciousness/)
+- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [qualia](/concepts/qualia/), [meaning-and-consciousness](/meaning-and-consciousness/)
 - **Would address**: If aesthetic experience is irreducibly qualitative (as suggested in the qualia article's treatment of aesthetic qualia), this provides another argument for dualism distinct from Mary's Room.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Novel support for Dualism through aesthetic phenomenology.
@@ -141,7 +141,7 @@ The Map's honesty about what remains uncertain—whether specific quantum mechan
 - **Tenet alignment**: Empirical grounding for Minimal Quantum Interaction and Bidirectional Interaction.
 
 #### The Developmental Emergence of Consciousness
-- **Builds on**: [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/), [minimal-consciousness](/archive/concepts/minimal-consciousness/), [evolution-of-consciousness](/concepts/evolution-of-consciousness/)
+- **Builds on**: [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/), [minimal-consciousness](/concepts/minimal-consciousness/), [evolution-of-consciousness](/concepts/evolution-of-consciousness/)
 - **Would address**: When and how does consciousness emerge in human development? The baseline cognition framework compares adults; child development might reveal the emergence of metarepresentational capacities.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Could provide empirical constraints on when consciousness begins operating.

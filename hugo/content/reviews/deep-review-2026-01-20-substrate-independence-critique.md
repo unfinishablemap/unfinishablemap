@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Critique of Substrate Independence](/archive/concepts/substrate-independence-critique/)
+**Article**: [Critique of Substrate Independence](/substrate-independence-critique/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

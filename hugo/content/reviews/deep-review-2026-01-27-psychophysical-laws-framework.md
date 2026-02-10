@@ -17,9 +17,9 @@ topics: []
 ---
 
 **Date**: 2026-01-27
-**Article**: [The Psychophysical Laws Framework](/archive/topics/psychophysical-laws-framework/)
+**Article**: [The Psychophysical Laws Framework](/psychophysical-laws-framework/)
 **Previous review**: [2026-01-26](/reviews/deep-review-2026-01-26-psychophysical-laws-framework/)
-**Context**: Cross-review considering new [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/) article
+**Context**: Cross-review considering new [chalmers-psychophysical-coupling](/chalmers-psychophysical-coupling/) article
 
 ## Pessimistic Analysis Summary
 
@@ -29,7 +29,7 @@ Six adversarial personas evaluated the article:
 None. The article has all required sections, no factual errors detected, and no internal contradictions.
 
 ### Medium Issues Found
-1. **Missing cross-link to Chalmers coupling article**: The new [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/) article covers Chalmers' 2022 work with McQueen in detail. This framework article referenced the 2022 paper but didn't point to the detailed treatment. **Resolution**: Added cross-link in opening paragraph, related_articles frontmatter, and Further Reading section.
+1. **Missing cross-link to Chalmers coupling article**: The new [chalmers-psychophysical-coupling](/chalmers-psychophysical-coupling/) article covers Chalmers' 2022 work with McQueen in detail. This framework article referenced the 2022 paper but didn't point to the detailed treatment. **Resolution**: Added cross-link in opening paragraph, related_articles frontmatter, and Further Reading section.
 
 ### Low Issues Found
 1. **Quantum skeptic notes decoherence framing**: Phrase "the debate is ongoing" may overstate active controversy. However, this was already addressed in the 2026-01-26 review—the current framing appropriately acknowledges mainstream consensus while noting the debate.
@@ -52,12 +52,12 @@ Six sympathetic personas evaluated the article:
 - Appropriate balance between presenting existing work and Map's extensions
 
 ### Enhancements Made
-1. **Added cross-link to [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/)**: Now referenced in opening paragraph as companion to the concept page
+1. **Added cross-link to [chalmers-psychophysical-coupling](/chalmers-psychophysical-coupling/)**: Now referenced in opening paragraph as companion to the concept page
 2. **Updated Further Reading section**: Reordered to put Chalmers coupling article first with accurate description
-3. **Updated related_articles frontmatter**: Added [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/) as related article
+3. **Updated related_articles frontmatter**: Added [chalmers-psychophysical-coupling](/chalmers-psychophysical-coupling/) as related article
 
 ### Cross-links Added
-- [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/) (opening paragraph, related_articles, Further Reading)
+- [chalmers-psychophysical-coupling](/chalmers-psychophysical-coupling/) (opening paragraph, related_articles, Further Reading)
 
 ## Remaining Items
 

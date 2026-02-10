@@ -51,7 +51,7 @@ The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) te
 
 The quantum opening addresses [mental causation](/concepts/mental-causation/). Kim's exclusion argument concludes that if physical events have sufficient physical causes, mental causes are excluded. But quantum mechanics provides an alternative.
 
-The [measurement problem](/concepts/measurement-problem/) asks: what causes superposition collapse? Physics leaves this open—"Decoherence does not tell how and why only one of these outcomes is measured" (Tomaz et al. 2025). At quantum indeterminacies, [causal closure](/concepts/causal-closure/) fails: physical causes are necessary but not sufficient. If consciousness determines which outcome occurs, it causes physical events without competing with physical causes. The [structural parallel between the measurement problem and the hard problem](/archive/topics/consciousness-and-quantum-measurement/)—both concerning where first-person facts enter third-person descriptions—suggests these are not separate puzzles but two faces of the mind-matter interface.
+The [measurement problem](/concepts/measurement-problem/) asks: what causes superposition collapse? Physics leaves this open—"Decoherence does not tell how and why only one of these outcomes is measured" (Tomaz et al. 2025). At quantum indeterminacies, [causal closure](/concepts/causal-closure/) fails: physical causes are necessary but not sufficient. If consciousness determines which outcome occurs, it causes physical events without competing with physical causes. The [structural parallel between the measurement problem and the hard problem](/consciousness-and-quantum-measurement/)—both concerning where first-person facts enter third-person descriptions—suggests these are not separate puzzles but two faces of the mind-matter interface.
 
 The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the alternative where all outcomes occur in branching universes. See [many-worlds](/arguments/many-worlds/) for five arguments against MWI. The core objection: MWI makes consciousness epiphenomenal. If all outcomes occur, consciousness doesn't select anything—it merely finds itself in a branch. This conflicts with [Bidirectional Interaction](/tenets/#bidirectional-interaction).
 
@@ -83,7 +83,7 @@ Stapp uses orthodox quantum mechanics—no new physics required. The quantum Zen
 - **Phenomenological match**: James documented that "sustained voluntary attention is a repetition of successive efforts"—exactly what the Zeno mechanism predicts
 - **Biological precedent**: Atkins et al. (2024) demonstrated quantum Zeno protection in cryptochrome radical pairs—the first evidence that biological systems use this effect
 
-The [premotor theory of attention](/archive/concepts/attention-motor-quantum-interface/) unifies attention and motor control under this framework. Both show frontal theta oscillations, ~300ms deployment, distinct willed-vs-instructed signatures, and effortful phenomenology. Two domains with identical selection architecture strengthens the case.
+The [premotor theory of attention](/concepts/attention-motor-quantum-interface/) unifies attention and motor control under this framework. Both show frontal theta oscillations, ~300ms deployment, distinct willed-vs-instructed signatures, and effortful phenomenology. Two domains with identical selection architecture strengthens the case.
 
 The [luck objection](/concepts/luck-objection/)—that quantum indeterminacy is just randomness—fails because selection is not randomness. Random processes have no phenomenology; selection involves felt effort. Consciousness selects based on reasons, making choices contrastively explicable.
 
@@ -192,20 +192,20 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 ## Further Reading
 
 **Mechanisms and timing:**
-- [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions
+- [attention-interface-mechanisms](/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions
 - [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) — Five neural quantum mechanisms with evidence status
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Comprehensive treatment of the quantum Zeno mechanism
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing hierarchy from femtosecond to 300ms neural decisions
-- [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) — Unification of attention and motor selection
+- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — Unification of attention and motor selection
 
 **Key concepts:**
-- [consciousness-and-quantum-measurement](/archive/topics/consciousness-and-quantum-measurement/) — The structural parallel between the measurement and hard problems
+- [consciousness-and-quantum-measurement](/consciousness-and-quantum-measurement/) — The structural parallel between the measurement and hard problems
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure, not pure subjective belief
 - [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — Analysis of the decoherence challenge
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — What a coupling law must specify
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: how consciousness might couple
 - [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws
-- [interface-locality](/archive/concepts/interface-locality/) — Why consciousness selects only within its own brain
+- [interface-locality](/interface-locality/) — Why consciousness selects only within its own brain
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Entanglement and phenomenal unity
 - [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) — Classical vs. quantum binding mechanisms
 

@@ -82,7 +82,7 @@ But what other reasons? If the neural complexity produces exactly the same behav
 
 ### The Great Ape Evidence
 
-Comparative cognition provides specific evidence against epiphenomenalism. As the [baseline-cognition](/archive/topics/baseline-cognition/) article details, great apes possess sophisticated neural systems that produce complex behaviour without the full range of human cognitive capacities. The gap between human and great ape cognition tracks precisely those capacities associated with conscious processing: logical reasoning, metacognition, cumulative culture, counterfactual thinking.
+Comparative cognition provides specific evidence against epiphenomenalism. As the [baseline-cognition](/concepts/baseline-cognition/) article details, great apes possess sophisticated neural systems that produce complex behaviour without the full range of human cognitive capacities. The gap between human and great ape cognition tracks precisely those capacities associated with conscious processing: logical reasoning, metacognition, cumulative culture, counterfactual thinking.
 
 If consciousness is epiphenomenal, this pattern requires explanation. Why would the capacities distinguishing human from great ape intelligence be exactly the capacities that seem to require conscious access? The epiphenomenalist must argue that whatever neural machinery produces consciousness also independently produces these capacities—but the machinery, not the consciousness, does the cognitive work.
 
@@ -169,9 +169,9 @@ The evolutionary argument for mental causation supports multiple Map tenets.
 ## Further Reading
 
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognitive capacity
-- [baseline-cognition](/archive/topics/baseline-cognition/) — What neural systems achieve without conscious contribution
+- [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without conscious contribution
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The position the evolutionary argument challenges
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework where consciousness has causal power
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The framework where consciousness has causal power
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — How consciousness might have emerged and developed
 - [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — The broader relationship between the two
 

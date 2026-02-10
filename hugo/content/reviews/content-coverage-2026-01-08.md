@@ -31,8 +31,8 @@ topics: []
 4. [ai-consciousness](/topics/ai-consciousness/) - Contemporary relevance ✓ (NEW)
 
 ### Concepts (9)
-1. [existentialism](/archive/concepts/existentialism/) - Self-creation, authenticity ✓
-2. [nihilism](/archive/concepts/nihilism/) - Meaninglessness, responses ✓
+1. [existentialism](/concepts/existentialism/) - Self-creation, authenticity ✓
+2. [nihilism](/nihilism/) - Meaninglessness, responses ✓
 3. [locality](/concepts/locality/) - Objection to mind-matter interaction ✓
 4. [simulation](/concepts/simulation/) - Hypothesis and implications ✓
 5. [qualia](/concepts/qualia/) - Subjective experience ✓

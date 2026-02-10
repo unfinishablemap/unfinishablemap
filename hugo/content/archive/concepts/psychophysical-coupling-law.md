@@ -323,7 +323,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [mental-effort](/concepts/mental-effort/) — The phenomenology Stapp's mechanism requires
 - [attention](/concepts/attention/) — The attention-consciousness relationship
 - [mental-causation](/concepts/mental-causation/) — How coupling addresses exclusion arguments
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework requiring coupling laws
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The framework requiring coupling laws
 - [decoherence](/concepts/decoherence/) — The main physics objection and responses
 - [illusionism](/concepts/illusionism/) — The deflationary alternative
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence for attention phenomenology

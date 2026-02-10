@@ -329,7 +329,7 @@ The interface framework would face serious challenge if:
 
 4. **Many-worlds interpretation is confirmed.** If all quantum outcomes occur in different branches, "selection" is illusory—consciousness merely finds itself in branches rather than choosing them.
 
-5. **External random number generator effects replicate.** If consciousness reliably biases external quantum systems (not just neural ones), the [brain specialness](/archive/concepts/interface-locality/) claim fails.
+5. **External random number generator effects replicate.** If consciousness reliably biases external quantum systems (not just neural ones), the [brain specialness](/interface-locality/) claim fails.
 
 ## What Would Support the Hypothesis?
 
@@ -389,8 +389,8 @@ The Map doesn't commit to a specific mechanism. The commitment is to the framewo
 ## Further Reading
 
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis stated and developed
-- [attention-motor-planning-quantum-interface](/archive/topics/attention-motor-planning-quantum-interface/) — Philosophical significance of the attention-motor convergence
-- [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) — Detailed concept treatment of the unified interface
+- [attention-motor-planning-quantum-interface](/attention-motor-planning-quantum-interface/) — Philosophical significance of the attention-motor convergence
+- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — Detailed concept treatment of the unified interface
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine's dual role in attention and motor planning
 - [motor-selection](/concepts/motor-selection/) — Motor selection and premotor theory in depth
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism

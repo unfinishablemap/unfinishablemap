@@ -142,7 +142,7 @@ The argument also supports the [Occam's Razor Has Limits](/tenets/#occams-limits
 - [causal-closure](/concepts/causal-closure/) — The physicalist principle that motivates epiphenomenalism
 - [introspection](/concepts/introspection/) — Whether self-knowledge requires causal connection
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's tenet that consciousness causes things
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework that escapes self-stultification
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that escapes self-stultification
 - [free-will](/topics/free-will/) — Self-stultification extends to libertarian free will: choices disconnected from reasons aren't rationally authored
 - [arguments-for-dualism](/concepts/arguments-for-dualism/) — Multiple arguments converging on irreducibility
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Developing Phenomenal Value Realism](/archive/topics/phenomenal-value-realism-development/)
+**Article**: [Developing Phenomenal Value Realism](/phenomenal-value-realism-development/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-phenomenal-value-realism-development/) (same day, earlier)
 **Focus**: Orphan integration—adding inbound cross-links from related articles
 
@@ -40,7 +40,7 @@ All strengths identified in earlier review remain intact.
 
 ### Cross-links Added
 
-The following articles now link to [phenomenal-value-realism-development](/archive/topics/phenomenal-value-realism-development/):
+The following articles now link to [phenomenal-value-realism-development](/phenomenal-value-realism-development/):
 
 1. **[phenomenal-value-realism](/concepts/phenomenal-value-realism/)** (concept article)
    - Added to Further Reading section

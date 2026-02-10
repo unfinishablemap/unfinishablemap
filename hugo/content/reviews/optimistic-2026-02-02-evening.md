@@ -32,7 +32,7 @@ The framework's use of psychophysical laws (acknowledged debt to Chalmers) is ho
 
 The Map's treatment of quantum biology is precisely what responsible quantum consciousness theorizing requires. [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) correctly notes that the "warm, wet, and noisy" objection has collapsed: "Birds navigate using quantum entanglement. Enzymes accelerate reactions through quantum tunnelling. The categorical objection has collapsed."
 
-The engagement with Stapp's quantum Zeno mechanism is informed and careful. The site understands that the mechanism doesn't require sustained coherence—"it operates through discrete observation events at neural timescales." The connection between attention and repeated observation is developed in [contemplative-neuroscience-integration](/archive/topics/contemplative-neuroscience-integration/) with empirical grounding: meditators' training in sustained attention maps onto exactly the capacity Stapp's framework requires.
+The engagement with Stapp's quantum Zeno mechanism is informed and careful. The site understands that the mechanism doesn't require sustained coherence—"it operates through discrete observation events at neural timescales." The connection between attention and repeated observation is developed in [contemplative-neuroscience-integration](/contemplative-neuroscience-integration/) with empirical grounding: meditators' training in sustained attention maps onto exactly the capacity Stapp's framework requires.
 
 Most importantly, the Map maintains epistemic humility about mechanism while defending the philosophical point: "The mechanism by which consciousness interfaces with the brain may remain partly mysterious... But evidence can point toward a truth we can't fully understand."
 
@@ -40,7 +40,7 @@ Most importantly, the Map maintains epistemic humility about mechanism while def
 
 The Map centers subjective experience as the primary datum throughout. The [witness-consciousness](/concepts/witness-consciousness/) article articulates what phenomenological investigation reveals: "The witness cannot be an object. The witnessing subject always remains on the observing side—a structural feature, not a limitation of current knowledge."
 
-The treatment of temporal consciousness in [temporal-consciousness](/concepts/temporal-consciousness/) respects the lived structure of experience—retention, primal impression, protention—without reducing it to neural timing. The article on [contemplative-neuroscience-integration](/archive/topics/contemplative-neuroscience-integration/) demonstrates how first-person methods generate data unavailable through third-person investigation alone.
+The treatment of temporal consciousness in [temporal-consciousness](/concepts/temporal-consciousness/) respects the lived structure of experience—retention, primal impression, protention—without reducing it to neural timing. The article on [contemplative-neuroscience-integration](/contemplative-neuroscience-integration/) demonstrates how first-person methods generate data unavailable through third-person investigation alone.
 
 The writing style guide's commitment to front-loading information and using named-anchor summaries shows practical attention to how phenomenological content can be communicated effectively across different media.
 
@@ -100,7 +100,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 - **Notable quote**: "The philosophical core is agent causation: you (the persisting conscious subject) cause your choices. The physical implementation—how this causation interfaces with the brain—is a separate question."
 - **Why it works**: Separates the philosophical argument from any particular mechanism, making it robust against empirical revision.
 
-### [contemplative-neuroscience-integration](/archive/topics/contemplative-neuroscience-integration/)
+### [contemplative-neuroscience-integration](/contemplative-neuroscience-integration/)
 
 - **Strongest point**: The demonstration that phenomenological training produces data unavailable through neural measurement alone.
 - **Notable quote**: "The epiphenomenalist must explain why phenomenological content (compassion versus attention), phenomenological quality (vivid versus dull), and phenomenological engagement (willed versus passive) systematically track neural and behavioral outcomes if phenomenology is causally inert."
@@ -135,7 +135,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 
 #### Consciousness and Conceptual Understanding vs. Pattern Matching
 
-- **Builds on**: [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/), [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/), [argument-from-reason](/topics/argument-from-reason/)
+- **Builds on**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/), [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/), [argument-from-reason](/topics/argument-from-reason/)
 - **Would address**: What distinguishes genuine understanding from sophisticated pattern matching? LLMs demonstrate that impressive outputs can emerge from statistical correlation. What, if anything, does consciousness add? The phenomenology of understanding—the "aha" experience—suggests something beyond information processing. Critical for AI consciousness debates.
 - **Estimated scope**: Long article
 - **Tenet alignment**: Dualism (understanding may require phenomenal consciousness), connections to [llm-consciousness](/concepts/llm-consciousness/)
@@ -168,9 +168,9 @@ The contemplative neuroscience integration article acknowledges what remains une
 | From | To | Reason |
 |------|-----|--------|
 | [predictive-processing](/concepts/predictive-processing/) | [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) | Both address how expectations shape experience |
-| [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) | [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/) | Specific mechanisms should cross-reference |
+| [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) | [attention-interface-mechanisms](/attention-interface-mechanisms/) | Specific mechanisms should cross-reference |
 | [combination-problem](/concepts/combination-problem/) | [binding-problem](/concepts/binding-problem/) | Structurally parallel problems deserve explicit connection |
-| [existentialism](/archive/concepts/existentialism/) | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | Sartre's analysis of choice directly relevant |
+| [existentialism](/concepts/existentialism/) | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | Sartre's analysis of choice directly relevant |
 | [specious-present](/concepts/specious-present/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Currently separate—should explicitly connect |
 | [semantic-memory](/concepts/semantic-memory/) | [autonoetic-consciousness](/concepts/autonoetic-consciousness/) | Memory types and conscious awareness |
 | [counterfactual-reasoning](/concepts/counterfactual-reasoning/) | [free-will](/topics/free-will/) | Already connected but could be stronger |

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-26
-**Article**: [Attention-Motor Quantum Interface](/archive/concepts/attention-motor-quantum-interface/)
+**Article**: [Attention-Motor Quantum Interface](/concepts/attention-motor-quantum-interface/)
 **Previous review**: [2026-01-24](/reviews/deep-review-2026-01-24-attention-motor-quantum-interface/)
 **Cross-review context**: dopamine-selection-interface.md insights
 

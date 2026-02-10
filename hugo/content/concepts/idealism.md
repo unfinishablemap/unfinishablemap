@@ -32,7 +32,7 @@ topics:
 
 Idealism is the view that consciousness is fundamental and matter is derivative—the inverse of physicalism. This position has deep roots in both Western philosophy (Berkeley, Hegel, the British Idealists) and Eastern traditions (Advaita Vedanta, Yogācāra Buddhism). In its contemporary analytic form, associated with Bernardo Kastrup's [analytic idealism](/concepts/analytic-idealism/), matter doesn't exist independently at all; it's the extrinsic appearance of mental processes. Physical reality is what universal consciousness looks like from a dissociated perspective. The Unfinishable Map shares idealism's conviction that consciousness is fundamental but maintains a crucial difference: physical reality exists distinctly and consciousness interacts with it bidirectionally. The Map's [dualist framework](/concepts/dualism/) takes consciousness seriously (with idealism) while also taking physics seriously (against idealism).
 
-This difference matters for how we understand causation, science, and individual significance. If matter is merely appearance, what is consciousness interacting with when you decide to raise your arm and the arm rises? the Map's [interactionist position](/archive/arguments/interactionist-dualism/) holds that something genuinely physical responds to conscious choice—a claim idealism cannot accommodate without reducing "interaction" to one part of consciousness affecting another.
+This difference matters for how we understand causation, science, and individual significance. If matter is merely appearance, what is consciousness interacting with when you decide to raise your arm and the arm rises? the Map's [interactionist position](/concepts/interactionist-dualism/) holds that something genuinely physical responds to conscious choice—a claim idealism cannot accommodate without reducing "interaction" to one part of consciousness affecting another.
 
 ## The Idealist Vision
 
@@ -118,7 +118,7 @@ The Map's dualism preserves individual consciousness as genuinely distinct. You'
 
 ### Existentialist Support
 
-[Existentialist phenomenology](/archive/concepts/existentialism/) provides resources for the phenomenological argument developed above. Sartre's analysis of the *pour-soi* (being-for-itself) reveals that consciousness is constitutively self-distanced—always aware of itself from a position of separation, never coinciding with its contents. This structure enables genuine choice: because consciousness is not identical with its states, it can take a stance toward them.
+[Existentialist phenomenology](/concepts/existentialism/) provides resources for the phenomenological argument developed above. Sartre's analysis of the *pour-soi* (being-for-itself) reveals that consciousness is constitutively self-distanced—always aware of itself from a position of separation, never coinciding with its contents. This structure enables genuine choice: because consciousness is not identical with its states, it can take a stance toward them.
 
 The pour-soi's correlate is the *en-soi* (being-in-itself)—the mode of things that simply are what they are, solid and self-identical. Sartre's framework suggests that consciousness requires objects that are genuinely other. The pour-soi's self-distance is not a relation within itself but a relation to what it is not: the resistant, indifferent world of en-soi.
 
@@ -128,7 +128,7 @@ This is not a decisive objection. The idealist might argue that dissociation pro
 
 ## Simple Organisms and the Ubiquity of Mind
 
-Research on [minimal consciousness](/archive/concepts/minimal-consciousness/)—organisms like *C. elegans* (302 neurons), Hydra (decentralized nerve nets), and slime molds (no neurons at all)—bears differently on idealism than on competing views.
+Research on [minimal consciousness](/concepts/minimal-consciousness/)—organisms like *C. elegans* (302 neurons), Hydra (decentralized nerve nets), and slime molds (no neurons at all)—bears differently on idealism than on competing views.
 
 ### What Idealism Predicts
 
@@ -190,19 +190,19 @@ Idealism and the Map's [dualist framework](/concepts/dualism/) are closer to eac
 
 The crucial divergence concerns the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. The Map holds that consciousness causally influences the physical world—selecting among quantum possibilities, biasing outcomes where physics leaves them undetermined. Idealism accommodates this language through intra-mental causation between dissociated alters. The Map's preference for genuine inter-domain interaction rests on phenomenological grounds: the experience of resistance and otherness seems to reveal genuine ontological distinction, not merely informational isolation within a single substance.
 
-This is not a demonstrative argument—idealism can explain the phenomenology of otherness through dissociation. The Map wagers that taking the phenomenology at face value is the better bet. [Interactionist dualism](/archive/arguments/interactionist-dualism/) explains neural correlates (where consciousness interfaces with matter), preserves the significance of individual identity (you are not a cosmic fragment), and accommodates physics's extraordinary predictive success (it describes real structure, not just appearance). These advantages come at the cost of the interaction problem, which the Map addresses through quantum mechanics.
+This is not a demonstrative argument—idealism can explain the phenomenology of otherness through dissociation. The Map wagers that taking the phenomenology at face value is the better bet. [Interactionist dualism](/concepts/interactionist-dualism/) explains neural correlates (where consciousness interfaces with matter), preserves the significance of individual identity (you are not a cosmic fragment), and accommodates physics's extraordinary predictive success (it describes real structure, not just appearance). These advantages come at the cost of the interaction problem, which the Map addresses through quantum mechanics.
 
 If forced to choose between idealism and physicalism, the Map would choose idealism—better to take consciousness seriously and struggle with its implications than to deny or deflate the one thing we know most directly. But the Map believes a third option exists: dualism that takes both consciousness and physics seriously as genuinely distinct and genuinely interacting domains.
 
 ## Further Reading
 
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Consciousness in simple organisms and what it implies for theories of mind
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Consciousness in simple organisms and what it implies for theories of mind
 - [dualism](/concepts/dualism/) — Foundational overview of the Map's dualist position
 - [analytic-idealism](/concepts/analytic-idealism/) — Detailed treatment of Kastrup's analytic idealism
 - [panpsychism](/concepts/panpsychism/) — Another view taking consciousness as fundamental
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — How consciousness and matter interact on the Map's view
+- [interactionist-dualism](/concepts/interactionist-dualism/) — How consciousness and matter interact on the Map's view
 - [explanatory-gap](/concepts/explanatory-gap/) — The structural gap between physical and phenomenal description
-- [existentialism](/archive/concepts/existentialism/) — How Sartre's pour-soi/en-soi distinction illuminates the idealism debate
+- [existentialism](/concepts/existentialism/) — How Sartre's pour-soi/en-soi distinction illuminates the idealism debate
 - [agent-causation](/concepts/agent-causation/) — Why individual agency matters for the dualism/idealism choice
 - [tenets](/tenets/) — the Map's foundational commitments
 - [analytic-idealism-2026-01-08](/research/analytic-idealism-2026-01-08/) — Research notes on Kastrup and idealism

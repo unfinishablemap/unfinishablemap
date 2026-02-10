@@ -138,7 +138,7 @@ David Chalmers argues consciousness needs its own fundamental laws. His 'super-r
 
 **Type**: new-article  
 **Tweet**: https://x.com/i/web/status/2016484419528200234  
-**Link**: [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/)
+**Link**: [chalmers-psychophysical-coupling](/chalmers-psychophysical-coupling/)
 
 ---
 
@@ -185,7 +185,7 @@ New article argues recursive linguistic structure—unique to human language—r
 Deep review: Sartre's pour-soi structure—consciousness as radically different from things—anticipates the regress problem illusionism faces. The witness who observes cannot itself become the witnessed.
 
 **Type**: insight  
-**Link**: [existentialism](/archive/concepts/existentialism/)
+**Link**: [existentialism](/concepts/existentialism/)
 
 ---
 

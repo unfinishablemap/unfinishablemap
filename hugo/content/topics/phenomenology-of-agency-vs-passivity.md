@@ -76,7 +76,7 @@ The poles are idealised. Most experience falls somewhere between pure agency and
 
 ### Habitual Action
 
-Typing these words, an experienced writer barely notices the finger movements. Each keystroke was once deliberate—early typing required conscious selection of each key. Through practice, the action shifted from the agentic pole toward passivity. It still feels like *doing* something (unlike pure perception), but the effort and authorship have diminished. The [automatisation process](/concepts/implicit-memory/) gradually withdraws [conscious contribution](/archive/topics/conscious-vs-unconscious-processing/) while preserving behavioural output.
+Typing these words, an experienced writer barely notices the finger movements. Each keystroke was once deliberate—early typing required conscious selection of each key. Through practice, the action shifted from the agentic pole toward passivity. It still feels like *doing* something (unlike pure perception), but the effort and authorship have diminished. The [automatisation process](/concepts/implicit-memory/) gradually withdraws [conscious contribution](/concepts/conscious-vs-unconscious-processing/) while preserving behavioural output.
 
 The [choking phenomenon](/topics/choking-phenomenon-mental-causation/) reveals what happens when consciousness re-engages with an automatised skill. A pianist performing from muscle memory suddenly attends to her fingers and stumbles. The return of agency disrupts the passivity that skilled performance requires. This is strong evidence for the Map's framework: if consciousness were causally inert, its re-engagement with a motor routine could not disrupt it.
 

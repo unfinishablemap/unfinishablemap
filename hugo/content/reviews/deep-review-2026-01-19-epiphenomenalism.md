@@ -60,7 +60,7 @@ The article already handles the main counterarguments well:
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) (frontmatter + body + Further Reading)
 - [agent-causation](/concepts/agent-causation/) (frontmatter + body + Further Reading)
 - [luck-objection](/concepts/luck-objection/) (body + Further Reading)
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) (frontmatter + body + Further Reading)
+- [minimal-consciousness](/concepts/minimal-consciousness/) (frontmatter + body + Further Reading)
 
 ## Remaining Items
 

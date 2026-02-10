@@ -62,7 +62,7 @@ These aren't mutually exclusive. Selection might operate at multiple levels: mic
 
 ### How Selection Works
 
-Selection operates through the [quantum measurement process](/concepts/measurement-problem/). Standard quantum mechanics describes particles in superposition until "measured," at which point superposition collapses to a definite outcome. Physics explains why collapse yields probabilistic distributions but not why any particular outcome occurs. Something must select. The [definite outcomes problem](/archive/topics/quantum-measurement-and-definite-outcomes/) is precisely where this gap opens: physics determines the *distribution* of outcomes but not which individual outcome becomes actual.
+Selection operates through the [quantum measurement process](/concepts/measurement-problem/). Standard quantum mechanics describes particles in superposition until "measured," at which point superposition collapses to a definite outcome. Physics explains why collapse yields probabilistic distributions but not why any particular outcome occurs. Something must select. The [definite outcomes problem](/quantum-measurement-and-definite-outcomes/) is precisely where this gap opens: physics determines the *distribution* of outcomes but not which individual outcome becomes actual.
 
 This is the opening for consciousness. At quantum indeterminacies, physical causes are necessary but not sufficient. [Causal closure](/concepts/causal-closure/)—the thesis that every physical event has a sufficient physical cause—fails precisely where collapse occurs. Consciousness operates at this gap, selecting outcomes without competing with or overriding physical causes.
 
@@ -263,7 +263,7 @@ The consciousness-selecting neural patterns framework would face serious difficu
 - [introspection](/concepts/introspection/) — Evidence for the phenomenology of selection
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence for awareness selecting content
 - [haecceity](/concepts/haecceity/) — Why this outcome rather than another
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The philosophical framework selection implements
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework selection implements
 - [tenets](/tenets/) — the Map's foundational commitments
 
 ## References

@@ -244,7 +244,7 @@ All three articles front-load their main claims effectively. The panpsychism art
 
 ### Self-Containment Issues
 
-The idealism article references "[interactionist-dualism](/archive/arguments/interactionist-dualism/)" extensively without explaining what that article contains. A reader who doesn't follow the link won't fully understand the Map's alternative. Consider adding a brief summary of how interactionist dualism works.
+The idealism article references "[interactionist-dualism](/concepts/interactionist-dualism/)" extensively without explaining what that article contains. A reader who doesn't follow the link won't fully understand the Map's alternative. Consider adding a brief summary of how interactionist dualism works.
 
 The epiphenomenalism article references the "contemplative-neuroscience" article for evidence but provides enough detail inline that self-containment is preserved.
 

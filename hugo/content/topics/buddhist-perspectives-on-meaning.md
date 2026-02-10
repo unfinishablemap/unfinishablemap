@@ -86,7 +86,7 @@ Buddhism's response to apparent meaninglessness differs from both Western theism
 
 The middle way (*madhyama-pratipad*) applies here. Meaning is neither found in eternal substances nor absent from transient processes. The very distinction may be the problem.
 
-Compare this with Western [existentialism](/archive/concepts/existentialism/). Both Buddhism and existentialism reject given meaning—no cosmic purpose awaits discovery. Both emphasize transformation through practice. But where existentialism advocates creating meaning through authentic commitment, Buddhism is suspicious of this too: the very project of meaning-creation may be another form of clinging. The Buddhist practitioner doesn't create meaning; they release the grip that makes meaning's absence seem problematic.
+Compare this with Western [existentialism](/concepts/existentialism/). Both Buddhism and existentialism reject given meaning—no cosmic purpose awaits discovery. Both emphasize transformation through practice. But where existentialism advocates creating meaning through authentic commitment, Buddhism is suspicious of this too: the very project of meaning-creation may be another form of clinging. The Buddhist practitioner doesn't create meaning; they release the grip that makes meaning's absence seem problematic.
 
 ## Ethics Without Cosmic Guarantees
 

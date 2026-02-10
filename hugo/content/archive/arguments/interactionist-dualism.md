@@ -220,7 +220,7 @@ The arguments directly support the site's foundational [tenets](/tenets/):
 
 - [arguments-for-dualism](/concepts/arguments-for-dualism/) — Comprehensive concept treatment
 - [materialism](/arguments/materialism/) — The case against the main alternative
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The position defended here
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The position defended here
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room explained
 - [binding-problem](/concepts/binding-problem/) — Why unity is a problem for physicalism

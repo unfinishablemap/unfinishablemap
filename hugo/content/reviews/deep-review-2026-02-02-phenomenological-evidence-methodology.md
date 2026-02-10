@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Phenomenological Evidence Methodology](/archive/topics/phenomenological-evidence-methodology/)
+**Article**: [Phenomenological Evidence Methodology](/phenomenological-evidence-methodology/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

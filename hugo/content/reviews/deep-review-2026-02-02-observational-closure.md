@@ -58,7 +58,7 @@ The following articles now link TO observational-closure:
 - [delegatory-dualism](/topics/delegatory-dualism/) — Added two inline links and frontmatter concept
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Added inline link and frontmatter concept
 - [mental-causation](/concepts/mental-causation/) — Added inline link and frontmatter concept
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — Added inline link and frontmatter concept
+- [interactionist-dualism](/concepts/interactionist-dualism/) — Added inline link and frontmatter concept
 
 ## Remaining Items
 

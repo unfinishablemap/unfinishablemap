@@ -205,7 +205,7 @@ The Map's position is that current evidence supports selection over randomness, 
 - [decoherence](/concepts/decoherence/) — The decoherence challenge and biological quantum effects
 - [illusionism](/concepts/illusionism/) — The eliminativist interpretation and its problems
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view these experiments seem to support, and its problems
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework that makes conscious selection coherent
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that makes conscious selection coherent
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of conscious causation
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The reality of qualitative experience
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — Why subjective probability interpretations fail phenomenologically

@@ -104,7 +104,7 @@ For comprehensive treatment, see [arguments-for-dualism](/concepts/arguments-for
 
 A crucial question for dualism: if mind and matter are distinct, how do they relate? Three main answers:
 
-**[Interactionism](/archive/arguments/interactionist-dualism/)**: Mind and body causally interact. Consciousness influences physical outcomes, and physical events influence consciousness. This is the Map's position, specified in the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.
+**[Interactionism](/concepts/interactionist-dualism/)**: Mind and body causally interact. Consciousness influences physical outcomes, and physical events influence consciousness. This is the Map's position, specified in the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.
 
 **[Epiphenomenalism](/arguments/epiphenomenalism/)**: Body affects mind, but not vice versa. Consciousness is real but causally inert—along for the ride but not influencing outcomes. The Map rejects this because it is self-undermining: if consciousness causes nothing, we cannot trust our reports about consciousness.
 
@@ -126,7 +126,7 @@ Isn't materialism simpler? Why posit two kinds of thing when one might suffice? 
 
 ### The Neural Correlation Objection
 
-Doesn't neuroscience show that consciousness is just brain activity? Every mental state correlates with brain states. Drugs and damage alter experience predictably. But correlation is compatible with dualism. [Interactionism](/archive/arguments/interactionist-dualism/) predicts exactly these findings—if consciousness interfaces with the brain, we would expect tight correlations. The correlations show where consciousness interfaces with matter, not that consciousness is matter.
+Doesn't neuroscience show that consciousness is just brain activity? Every mental state correlates with brain states. Drugs and damage alter experience predictably. But correlation is compatible with dualism. [Interactionism](/concepts/interactionist-dualism/) predicts exactly these findings—if consciousness interfaces with the brain, we would expect tight correlations. The correlations show where consciousness interfaces with matter, not that consciousness is matter.
 
 ### The Cognitive Science Objection
 
@@ -144,7 +144,7 @@ Dualism is the Map's first foundational commitment—the [Dualism tenet](/tenets
 
 This commitment is not arbitrary but grounded in the convergence of arguments: the explanatory gap, conceivability arguments, the knowledge argument, and the intrinsic character of qualia all point the same direction. [Materialism](/arguments/materialism/) in all its forms—reductive physicalism, functionalism, eliminativism—fails to bridge the gap between physical description and subjective experience.
 
-Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, the Map holds [interactionist-dualism](/archive/arguments/interactionist-dualism/)—consciousness is distinct *and* causally efficacious. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies the interface: quantum indeterminacies where physics leaves outcomes undetermined. This combination preserves what matters for human agency and moral responsibility—our choices genuinely influence outcomes, not just in appearance but in reality.
+Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, the Map holds [interactionist-dualism](/concepts/interactionist-dualism/)—consciousness is distinct *and* causally efficacious. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies the interface: quantum indeterminacies where physics leaves outcomes undetermined. This combination preserves what matters for human agency and moral responsibility—our choices genuinely influence outcomes, not just in appearance but in reality.
 
 This framework is not a retreat to mystery. The interaction has a candidate mechanism ([Stapp's quantum Zeno effect](/concepts/stapp-quantum-mind/)). The empirical findings (neural correlates, the efficacy of attention, voluntary action) are predicted and explained. The position is coherent, parsimonious where parsimony matters (not positing unobserved forces), and takes seriously the one thing we know most directly: our own conscious experience.
 
@@ -153,7 +153,7 @@ What would count as evidence against dualism? If future neuroscience provided a 
 ## Further Reading
 
 - [argument-from-reason](/topics/argument-from-reason/) — Self-defeat argument showing physicalism undermines rational justification
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — the Map's position combining dualism with causal interaction
+- [interactionist-dualism](/concepts/interactionist-dualism/) — the Map's position combining dualism with causal interaction
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism as concrete proposal for mind-matter interaction
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The two main ontological frameworks for dualism
 - [arguments-for-dualism](/concepts/arguments-for-dualism/) — Comprehensive treatment of the positive case

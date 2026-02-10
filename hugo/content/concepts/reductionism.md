@@ -65,7 +65,7 @@ Compare: "Water is H2O" satisfies because we can see why H2O has water's propert
 
 Levine himself considered the gap merely epistemic—a limitation of our understanding rather than a feature of reality. David Chalmers extended the argument: the gap reveals that phenomenal properties are not entailed by physical facts. If complete physical knowledge doesn't explain why there is experience, consciousness isn't physical. The Map sides with Chalmers—the explanatory gap marks an ontological boundary, not merely a cognitive limitation.
 
-The [minimal consciousness](/archive/concepts/minimal-consciousness/) literature starkly illustrates this gap. *C. elegans*—the 302-neuron nematode—has a completely mapped connectome: every neuron, every synapse, every gap junction documented. Yet we cannot determine whether it experiences anything. Complete structural knowledge fails to bridge the gap to phenomenal facts. If reduction worked, complete physical description would settle the question; it doesn't.
+The [minimal consciousness](/concepts/minimal-consciousness/) literature starkly illustrates this gap. *C. elegans*—the 302-neuron nematode—has a completely mapped connectome: every neuron, every synapse, every gap junction documented. Yet we cannot determine whether it experiences anything. Complete structural knowledge fails to bridge the gap to phenomenal facts. If reduction worked, complete physical description would settle the question; it doesn't.
 
 ### The Hard Problem
 
@@ -124,7 +124,7 @@ Process philosophy provides another angle. The [Buddhist analysis](/concepts/bud
 
 ## Further Reading
 
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Complete physical knowledge of simple organisms fails to resolve phenomenal questions
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Complete physical knowledge of simple organisms fails to resolve phenomenal questions
 - [emergence](/concepts/emergence/) — The philosophical framework for non-reductive properties
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical explanations leave consciousness unexplained
 - [materialism](/arguments/materialism/) — The view that reductionism about consciousness underwrites

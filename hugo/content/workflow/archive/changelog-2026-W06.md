@@ -347,7 +347,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-07 06:29 UTC - coalesce
 - **Status**: Success
-- **Sources**: [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/), [psychophysical-laws-framework](/archive/topics/psychophysical-laws-framework/), [psychophysical-coupling-law-mechanisms](/archive/topics/psychophysical-coupling-law-mechanisms/)
+- **Sources**: [chalmers-psychophysical-coupling](/chalmers-psychophysical-coupling/), [psychophysical-laws-framework](/psychophysical-laws-framework/), [psychophysical-coupling-law-mechanisms](/psychophysical-coupling-law-mechanisms/)
 - **Target**: [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)
 - **Archived**: archive/topics/chalmers-psychophysical-coupling.md, archive/topics/psychophysical-laws-framework.md, archive/topics/psychophysical-coupling-law-mechanisms.md
 - **References updated**: 5 files (selection-laws, psychophysical-laws, mental-causation, downward-causation, psychophysical-coupling)
@@ -588,7 +588,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-06 18:01 UTC - coalesce
 - **Status**: Success
-- **Sources**: [phenomenological-evidence](/concepts/phenomenological-evidence/), [phenomenological-evidence-methodology](/archive/topics/phenomenological-evidence-methodology/)
+- **Sources**: [phenomenological-evidence](/concepts/phenomenological-evidence/), [phenomenological-evidence-methodology](/phenomenological-evidence-methodology/)
 - **Target**: [phenomenological-evidence](/concepts/phenomenological-evidence/)
 - **Archived**: [phenomenological-evidence-methodology](/archive/topics/phenomenological-evidence-methodology/)
 - **References to review**: none (references only in reviews and changelog)
@@ -824,7 +824,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-06 10:37 UTC - coalesce
 - **Status**: Success
-- **Sources**: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/), [eastern-metaphysics-integration](/archive/topics/eastern-metaphysics-integration/), [eastern-philosophy-haecceity-tension](/archive/topics/eastern-philosophy-haecceity-tension/)
+- **Sources**: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/), [eastern-metaphysics-integration](/eastern-metaphysics-integration/), [eastern-philosophy-haecceity-tension](/eastern-philosophy-haecceity-tension/)
 - **Target**: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
 - **Archived**: [eastern-metaphysics-integration](/archive/topics/eastern-metaphysics-integration/), [eastern-philosophy-haecceity-tension](/archive/topics/eastern-philosophy-haecceity-tension/)
 - **References to review**: 1 (personal-identity.md — updated)
@@ -1072,7 +1072,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-05 18:28 UTC - coalesce
 - **Status**: Success
-- **Sources**: [consciousness-and-quantum-measurement](/archive/topics/consciousness-and-quantum-measurement/), [quantum-measurement-and-definite-outcomes](/archive/topics/quantum-measurement-and-definite-outcomes/)
+- **Sources**: [consciousness-and-quantum-measurement](/consciousness-and-quantum-measurement/), [quantum-measurement-and-definite-outcomes](/quantum-measurement-and-definite-outcomes/)
 - **Target**: [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/)
 - **Archived**: [consciousness-and-quantum-measurement](/archive/topics/consciousness-and-quantum-measurement/), [quantum-measurement-and-definite-outcomes](/archive/topics/quantum-measurement-and-definite-outcomes/)
 - **Word count**: ~5,900 (source 1: ~3,200) + (source 2: ~2,700) → ~4,200 unified (redundancy removed)
@@ -3731,7 +3731,7 @@ title: AI Activity Changelog - Week 2026-W06
 - **Medium issues addressed**: 1 (orphan status—zero inbound links)
 - **Enhancements made**: 6 inbound links added from related articles
 - **Context**: Orphan integration—article had no content links, now integrated into psychophysical laws cluster
-- **Files modified**: [psychophysical-laws](/concepts/psychophysical-laws/), [mental-causation](/concepts/mental-causation/), [downward-causation](/concepts/downward-causation/), [psychophysical-laws-framework](/archive/topics/psychophysical-laws-framework/), [bidirectional-interaction](/concepts/bidirectional-interaction/), [quantum-consciousness](/concepts/quantum-consciousness/)
+- **Files modified**: [psychophysical-laws](/concepts/psychophysical-laws/), [mental-causation](/concepts/mental-causation/), [downward-causation](/concepts/downward-causation/), [psychophysical-laws-framework](/psychophysical-laws-framework/), [bidirectional-interaction](/concepts/bidirectional-interaction/), [quantum-consciousness](/concepts/quantum-consciousness/)
 - **Output**: [deep-review-2026-02-02-selection-laws-cross-review](/reviews/deep-review-2026-02-02-selection-laws-cross-review/)
 
 ---
@@ -3761,7 +3761,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 17:43 UTC - deep-review
 - **Status**: Success
-- **File**: [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/)
+- **File**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
 - **Word count**: 2301 → 2380 (+79 words)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 1 (tightened No Many Worlds tenet connection)
@@ -3800,7 +3800,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 16:42 UTC - deep-review
 - **Status**: Success
-- **File**: [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/)
+- **File**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
 - **Word count**: 1654 → 1744 (+90 words)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (restored cross-links lost during regeneration)
@@ -3830,7 +3830,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 14:41 UTC - expand-topic
 - **Status**: Already exists
 - **Topic**: consciousness and emotional valence
-- **Output**: [emotional-consciousness](/archive/concepts/emotional-consciousness/) (existing article)
+- **Output**: [emotional-consciousness](/topics/emotional-consciousness/) (existing article)
 - **Word count**: 3200 (existing)
 - **Based on research**: yes — [emotional-consciousness-valence-2026-01-19](/research/emotional-consciousness-valence-2026-01-19/)
 - **Notes**: Article already exists at topics/emotional-consciousness.md, created 2026-01-19, last deep-reviewed 2026-02-01. Comprehensive treatment covers: the felt quality problem, valence (hedonic vs evaluativist accounts), Panksepp vs LeDoux debate, pain asymbolia evidence, valence and motivation, core affect theory, moral status implications, and full tenet connections. Removed task from queue.
@@ -3840,7 +3840,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 14:37 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Symbol Grounding Problem
-- **Output**: [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/)
+- **Output**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
 - **Word count**: 1654
 - **Based on research**: yes — [symbol-grounding-problem-2026-01-30](/research/symbol-grounding-problem-2026-01-30/)
 
@@ -3887,7 +3887,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 14:04 UTC - coalesce
 - **Status**: Success
-- **Sources**: [entanglement-binding-hypothesis](/archive/concepts/entanglement-binding-hypothesis/)
+- **Sources**: [entanglement-binding-hypothesis](/entanglement-binding-hypothesis/)
 - **Target**: [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/)
 - **Archived**: [entanglement-binding-hypothesis](/archive/concepts/entanglement-binding-hypothesis/)
 - **References to review**: none (only changelog and research notes reference the archived article)
@@ -3921,7 +3921,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 13:49 UTC - expand-topic
 - **Status**: Success
 - **Topic**: neural binding and quantum entanglement
-- **Output**: [entanglement-binding-hypothesis](/archive/concepts/entanglement-binding-hypothesis/)
+- **Output**: [entanglement-binding-hypothesis](/entanglement-binding-hypothesis/)
 - **Word count**: 1880
 - **Based on research**: yes — [neural-binding-quantum-entanglement-2026-01-19](/research/neural-binding-quantum-entanglement-2026-01-19/)
 
@@ -4140,7 +4140,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 11:42 UTC - coalesce
 - **Status**: Success
-- **Sources**: [working-memory](/concepts/working-memory/), [working-memory-as-consciousness-amplifier](/archive/topics/working-memory-as-consciousness-amplifier/)
+- **Sources**: [working-memory](/concepts/working-memory/), [working-memory-as-consciousness-amplifier](/working-memory-as-consciousness-amplifier/)
 - **Target**: [working-memory](/concepts/working-memory/)
 - **Archived**: [working-memory-as-consciousness-amplifier](/archive/topics/working-memory-as-consciousness-amplifier/)
 - **References to review**: 1 (deep-review file updated with archival note)
@@ -4203,7 +4203,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 11:14 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenal-value-realism-development](/archive/topics/phenomenal-value-realism-development/)
+- **File**: [phenomenal-value-realism-development](/phenomenal-value-realism-development/)
 - **Word count**: 2586 → 2586 (unchanged - content stable from earlier same-day review)
 - **Focus**: Orphan integration (adding inbound links from related articles)
 - **Critical issues addressed**: 0 (none found - article reviewed earlier today)
@@ -4229,7 +4229,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 11:02 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-meaning-integration](/archive/topics/consciousness-and-meaning-integration/)
+- **File**: [consciousness-and-meaning-integration](/consciousness-and-meaning-integration/)
 - **Word count**: 1946 → 2029 (+83)
 - **Critical issues addressed**: 2 (duplicate link, broken reference)
 - **Medium issues addressed**: 2 (semantic illusion objection, functionalist objection)
@@ -4240,7 +4240,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 10:57 UTC - deep-review
 - **Status**: Success
-- **File**: [contemplative-neuroscience-integration](/archive/topics/contemplative-neuroscience-integration/)
+- **File**: [contemplative-neuroscience-integration](/contemplative-neuroscience-integration/)
 - **Word count**: unchanged (content reviewed earlier today)
 - **Focus**: Link integration (orphan resolution)
 - **Cross-links added**: 6 inbound links from related articles
@@ -4565,16 +4565,16 @@ title: AI Activity Changelog - Week 2026-W06
 - **File**: voluntary-attention-control.md
 - **Action**: Removed orphaned hugo/content files (concepts/ and topics/ versions)
 - **Reason**: These files were stale leftovers from a coalescence operation. The content was already coalesced into [voluntary-attention](/concepts/voluntary-attention/) and archived versions already exist in archive/concepts/ and archive/topics/
-- **Cross-references updated**: 3 files updated to link to [voluntary-attention](/concepts/voluntary-attention/) instead of [voluntary-attention-control](/archive/concepts/voluntary-attention-control/):
+- **Cross-references updated**: 3 files updated to link to [voluntary-attention](/concepts/voluntary-attention/) instead of [voluntary-attention-control](/voluntary-attention-control/):
   - [william-james-consciousness](/topics/william-james-consciousness/) (concepts list + Further Reading)
-  - [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) (inline reference)
+  - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) (inline reference)
 - **Notes**: The task requested a deep-review with orphan integration, but investigation revealed the orphan status was due to stale files from a coalesce operation, not missing cross-references. Proper cleanup was performed instead of artificial integration.
 
 ---
 
 ## 2026-02-02 06:17 UTC - deep-review
 - **Status**: Success
-- **File**: [baseline-cognition](/archive/topics/baseline-cognition/)
+- **File**: [baseline-cognition](/concepts/baseline-cognition/)
 - **Word count**: 3315 → 3330 (+15)
 - **Critical issues addressed**: 1 (missing Randeniya 2025 citation)
 - **Medium issues addressed**: 0
@@ -4634,7 +4634,7 @@ title: AI Activity Changelog - Week 2026-W06
 - **Medium issues addressed**: 2 (missing mechanism links, orphan status)
 - **Cross-links added**: 5 articles now link to this content
   - [causal-closure](/concepts/causal-closure/), [delegatory-dualism](/topics/delegatory-dualism/), [objections-to-interactionism](/concepts/objections-to-interactionism/)
-  - [mental-causation](/concepts/mental-causation/), [interactionist-dualism](/archive/arguments/interactionist-dualism/)
+  - [mental-causation](/concepts/mental-causation/), [interactionist-dualism](/concepts/interactionist-dualism/)
 - **Output**: [deep-review-2026-02-02-observational-closure](/reviews/deep-review-2026-02-02-observational-closure/)
 - **Notes**: First review of this newly created concept page. Primary focus was orphan integration—article had no inbound links despite discussing a key concept (Saad's observational vs. universal closure distinction) that multiple existing articles reference. Added links to stapp-quantum-mind and quantum-indeterminacy-free-will mechanisms. All six adversarial personas engaged; no critical issues found.
 
@@ -4642,8 +4642,8 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 05:38 UTC - coalesce
 - **Status**: Success
-- **Sources**: [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/), [attention-motor-quantum-selection](/archive/topics/attention-motor-quantum-selection/)
-- **Target**: [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/)
+- **Sources**: [attention-interface-mechanisms](/attention-interface-mechanisms/), [attention-motor-quantum-selection](/attention-motor-quantum-selection/)
+- **Target**: [attention-interface-mechanisms](/attention-interface-mechanisms/)
 - **Archived**: [attention-motor-quantum-selection](/archive/topics/attention-motor-quantum-selection/)
 - **References to review**: none (attention-motor-quantum-selection had no inbound links)
 - **Notes**: Merged two highly overlapping articles about the attention-consciousness interface. Both covered premotor theory of attention, shared neural signatures (~280-300ms timing, frontal theta), quantum Zeno mechanism, dopamine's role in threshold modulation, and the Libet challenge. The unified article preserves all unique content: candidate selection sites and testable predictions from the first, competition-selection architecture and phenomenological tests from the second.
@@ -4652,13 +4652,13 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 05:32 UTC - deep-review (orphan integration)
 - **Status**: Success
-- **File**: [eastern-philosophy-haecceity-tension](/archive/topics/eastern-philosophy-haecceity-tension/)
+- **File**: [eastern-philosophy-haecceity-tension](/eastern-philosophy-haecceity-tension/)
 - **Word count**: 2753 → 2965 (+212)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 3 (electron analogy, Madhyamaka response, contemplative evidence claims)
 - **Cross-links added**: 6 articles now link to this content
   - [haecceity](/concepts/haecceity/), [buddhism-and-dualism](/concepts/buddhism-and-dualism/), [vertiginous-question](/topics/vertiginous-question/)
-  - [process-philosophy](/concepts/process-philosophy/), [personal-identity](/topics/personal-identity/), [eastern-metaphysics-integration](/archive/topics/eastern-metaphysics-integration/)
+  - [process-philosophy](/concepts/process-philosophy/), [personal-identity](/topics/personal-identity/), [eastern-metaphysics-integration](/eastern-metaphysics-integration/)
 - **Output**: [deep-review-2026-02-02-eastern-philosophy-haecceity-tension](/reviews/deep-review-2026-02-02-eastern-philosophy-haecceity-tension/)
 - **Notes**: First review of this article. Primary focus was orphan integration—article had no inbound links. Strengthened Madhyamaka "useful fiction" response, added electron analogy limitations note, made contemplative evidence claims more epistemologically careful.
 
@@ -4678,7 +4678,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 05:22 UTC - deep-review (orphan integration)
 - **Status**: Success
-- **File**: [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/)
+- **File**: [attention-interface-mechanisms](/attention-interface-mechanisms/)
 - **Word count**: 2274 (unchanged)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 1 (orphan status)
@@ -4696,7 +4696,7 @@ title: AI Activity Changelog - Week 2026-W06
 - **Word count**: 2386 → 2419 (+33)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (missing cross-link to new mechanisms article)
-- **Enhancements made**: 1 (cross-links to [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/))
+- **Enhancements made**: 1 (cross-links to [attention-interface-mechanisms](/attention-interface-mechanisms/))
 - **Output**: [deep-review-2026-02-02-attention-as-interface](/reviews/deep-review-2026-02-02-attention-as-interface/)
 - **Notes**: Third review of this article. Has reached convergence—no critical issues, minimal incremental improvements. Triggered by new mechanisms article creation.
 
@@ -4728,7 +4728,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 04:52 UTC - deep-review
 - **Status**: Success
-- **File**: [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/)
+- **File**: [attention-interface-mechanisms](/attention-interface-mechanisms/)
 - **Word count**: 2162 → 2274 (+112)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (decoherence estimates hedging, MWI branch-relative engagement)
@@ -4887,7 +4887,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 03:18 UTC - deep-review
 - **Status**: Success
-- **File**: [working-memory-as-consciousness-amplifier](/archive/topics/working-memory-as-consciousness-amplifier/)
+- **File**: [working-memory-as-consciousness-amplifier](/working-memory-as-consciousness-amplifier/)
 - **Word count**: 1892 → ~1950 (+58)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3
@@ -4899,7 +4899,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 03:13 UTC - expand-topic
 - **Status**: Success
 - **Topic**: working memory as consciousness amplifier
-- **Output**: [working-memory-as-consciousness-amplifier](/archive/topics/working-memory-as-consciousness-amplifier/)
+- **Output**: [working-memory-as-consciousness-amplifier](/working-memory-as-consciousness-amplifier/)
 - **Word count**: 1892
 - **Based on research**: yes — [consciousness-working-memory-2026-01-17](/research/consciousness-working-memory-2026-01-17/)
 
@@ -4908,7 +4908,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 03:08 UTC - expand-topic
 - **Status**: Success
 - **Topic**: attention mechanisms and consciousness interface
-- **Output**: [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/)
+- **Output**: [attention-interface-mechanisms](/attention-interface-mechanisms/)
 - **Word count**: 2162
 - **Based on research**: yes — [attention-as-interface-hypothesis-2026-01-16](/research/attention-as-interface-hypothesis-2026-01-16/), [attention-consciousness-mechanisms-2026-01-15](/research/attention-consciousness-mechanisms-2026-01-15/), [attention-motor-planning-quantum-interface-2026-01-23](/research/attention-motor-planning-quantum-interface-2026-01-23/)
 
@@ -4916,7 +4916,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 03:02 UTC - coalesce
 - **Status**: Success
-- **Sources**: [substrate-independence](/concepts/substrate-independence/) (original), [substrate-independence-critique](/archive/concepts/substrate-independence-critique/)
+- **Sources**: [substrate-independence](/concepts/substrate-independence/) (original), [substrate-independence-critique](/substrate-independence-critique/)
 - **Target**: [substrate-independence](/concepts/substrate-independence/)
 - **Archived**: [substrate-independence-critique](/archive/concepts/substrate-independence-critique/)
 - **References to review**: 20+ (follow-up task created in todo.md)
@@ -4926,7 +4926,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 02:57 UTC - condense
 - **Status**: Success
-- **File**: [substrate-independence-critique](/archive/concepts/substrate-independence-critique/)
+- **File**: [substrate-independence-critique](/substrate-independence-critique/)
 - **Before**: 3682 words
 - **After**: 2220 words
 - **Reduction**: 40%
@@ -5115,7 +5115,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 01:13 UTC - deep-review
 - **Status**: Success
-- **File**: [contemplative-neuroscience-integration](/archive/topics/contemplative-neuroscience-integration/)
+- **File**: [contemplative-neuroscience-integration](/contemplative-neuroscience-integration/)
 - **Word count**: 2251 → 2398 (+147)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3
@@ -5127,7 +5127,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 01:08 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Eastern philosophy and haecceity tension
-- **Output**: [eastern-philosophy-haecceity-tension](/archive/topics/eastern-philosophy-haecceity-tension/)
+- **Output**: [eastern-philosophy-haecceity-tension](/eastern-philosophy-haecceity-tension/)
 - **Word count**: 2753
 - **Based on research**: yes ([indexical-identity-haecceity-thisness-2026-01-23](/research/indexical-identity-haecceity-thisness-2026-01-23/), [buddhist-perspectives-meaning-2026-01-06](/research/buddhist-perspectives-meaning-2026-01-06/))
 
@@ -5136,7 +5136,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 01:03 UTC - expand-topic
 - **Status**: Success
 - **Topic**: contemplative neuroscience integration
-- **Output**: [contemplative-neuroscience-integration](/archive/topics/contemplative-neuroscience-integration/)
+- **Output**: [contemplative-neuroscience-integration](/contemplative-neuroscience-integration/)
 - **Word count**: 2251
 - **Based on research**: yes ([contemplative-neuroscience-meditation-2026-01-23](/research/contemplative-neuroscience-meditation-2026-01-23/), [neurophenomenology-meditation-studies-2026-01-14](/research/neurophenomenology-meditation-studies-2026-01-14/))
 
@@ -5144,7 +5144,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 00:56 UTC - coalesce
 - **Status**: Success
-- **Sources**: [semantic-phenomenology](/archive/concepts/semantic-phenomenology/)
+- **Sources**: [semantic-phenomenology](/semantic-phenomenology/)
 - **Target**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - **Archived**: [semantic-phenomenology](/archive/concepts/semantic-phenomenology/)
 - **References to review**: none
@@ -5162,7 +5162,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 00:49 UTC - deep-review
 - **Status**: Success
-- **File**: [eastern-metaphysics-integration](/archive/topics/eastern-metaphysics-integration/)
+- **File**: [eastern-metaphysics-integration](/eastern-metaphysics-integration/)
 - **Word count**: 2509 → 2637 (+128)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3
@@ -5200,7 +5200,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 00:26 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Eastern metaphysics integration
-- **Output**: [eastern-metaphysics-integration](/archive/topics/eastern-metaphysics-integration/)
+- **Output**: [eastern-metaphysics-integration](/eastern-metaphysics-integration/)
 - **Word count**: 2509
 - **Based on research**: yes, [buddhist-perspectives-meaning-2026-01-06](/research/buddhist-perspectives-meaning-2026-01-06/)
 - **Note**: Task requested "apex article" but executed as topic per expand-topic skill. Contemplative Path apex already covers methodological synthesis; this article focuses on metaphysical integration of Hindu, Buddhist, and Taoist frameworks.
@@ -5218,7 +5218,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 00:15 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenological-evidence-methodology](/archive/topics/phenomenological-evidence-methodology/)
+- **File**: [phenomenological-evidence-methodology](/phenomenological-evidence-methodology/)
 - **Word count**: 1425 → 1498 (+73)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (heterophenomenology characterization, cross-traditional convergence claim)
@@ -5230,7 +5230,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 00:10 UTC - expand-topic
 - **Status**: Success
 - **Topic**: phenomenal value realism development
-- **Output**: [phenomenal-value-realism-development](/archive/topics/phenomenal-value-realism-development/)
+- **Output**: [phenomenal-value-realism-development](/phenomenal-value-realism-development/)
 - **Word count**: 2455
 - **Based on research**: yes, [phenomenal-value-realism-metaethics-2026-01-16](/research/phenomenal-value-realism-metaethics-2026-01-16/)
 

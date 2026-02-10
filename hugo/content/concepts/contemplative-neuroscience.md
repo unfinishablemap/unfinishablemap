@@ -93,7 +93,7 @@ DMN reduction provides neural signature for the experiential shift from discursi
 
 Focused attention meditation implicates default-mode, control (dlPFC, lateral parietal), and salience (ACC, insula) networks.[^dhond] The Shamatha Project found intensive practice improved perceptual discrimination, sustained attention, response inhibition, and reduced mind-wandering.[^shamatha]
 
-These are trainable skills. The fact that deliberate practice enhances attentional capacities demonstrates [attention](/concepts/attention/) isn't purely bottom-up. [Voluntary-attention-control](/archive/concepts/voluntary-attention-control/) can be systematically developed through conscious training.
+These are trainable skills. The fact that deliberate practice enhances attentional capacities demonstrates [attention](/concepts/attention/) isn't purely bottom-up. [Voluntary-attention-control](/voluntary-attention-control/) can be systematically developed through conscious training.
 
 Connection to [free-will](/topics/free-will/): If [phenomenal-consciousness](/concepts/phenomenal-consciousness/) were epiphenomenal, how would willed effort produce measurable improvements in attentional stability? The training paradigm assumes consciousness can causally influence its own processing.
 
@@ -103,7 +103,7 @@ Connection to [free-will](/topics/free-will/): If [phenomenal-consciousness](/co
 
 ### Compassion and Emotional Neuroplasticity
 
-Compassion meditation reshapes emotional response networks—brain changes that predict prosocial behavior.[^davidson] This connects to [emotional-consciousness](/archive/concepts/emotional-consciousness/): if phenomenal emotional qualities were causally inert, how could deliberate cultivation of compassion alter emotional responses and behavior?
+Compassion meditation reshapes emotional response networks—brain changes that predict prosocial behavior.[^davidson] This connects to [emotional-consciousness](/topics/emotional-consciousness/): if phenomenal emotional qualities were causally inert, how could deliberate cultivation of compassion alter emotional responses and behavior?
 
 The causal pathway runs: phenomenological intention → practice → neural change → behavioral outcome. [Phenomenal character](/concepts/qualia/) isn't epiphenomenal decoration.
 
@@ -197,10 +197,10 @@ The more sophisticated our phenomenological categories and neural correlates bec
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/): Why both perspectives are necessary
 - [mental-effort](/concepts/mental-effort/): The phenomenology of effort and Stapp's quantum Zeno mechanism, including Schwartz's OCD neuroplasticity evidence
 - [Witness-consciousness](/concepts/witness-consciousness/): Eastern contemplative traditions' phenomenological framework that meditation cultivates
-- [Voluntary-attention-control](/archive/concepts/voluntary-attention-control/): Neural mechanisms underlying willed vs. instructed vs. exogenous attention
+- [Voluntary-attention-control](/voluntary-attention-control/): Neural mechanisms underlying willed vs. instructed vs. exogenous attention
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/): The two modes: active selection and passive witnessing
 - [Free-will](/topics/free-will/): How meditation evidence connects to agent causation and libertarian accounts
-- [Emotional-consciousness](/archive/concepts/emotional-consciousness/): Phenomenal character of emotions and their role in consciousness
+- [Emotional-consciousness](/topics/emotional-consciousness/): Phenomenal character of emotions and their role in consciousness
 - [Epiphenomenalism](/arguments/epiphenomenalism/): Why contemplative neuroscience challenges the view that consciousness is causally inert
 - [Bidirectional-interaction](/concepts/bidirectional-interaction/): The central tenet that contemplative neuroscience supports empirically
 - [mysterianism](/concepts/mysterianism/): Why the explanatory gap persists even with refined phenomenological and neuroscientific methods

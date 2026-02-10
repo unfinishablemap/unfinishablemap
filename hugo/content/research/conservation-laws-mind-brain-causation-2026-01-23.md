@@ -288,7 +288,7 @@ The article should:
 6. **Connect to existing content**:
    - [measurement-problem](/concepts/measurement-problem/) — The causal gap at measurement
    - [causal-closure](/concepts/causal-closure/) — Why physics isn't causally closed
-   - [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The broader framework
+   - [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework
    - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms
    - [prebiotic-collapse](/concepts/prebiotic-collapse/) — Why consciousness doesn't cause all collapse
 

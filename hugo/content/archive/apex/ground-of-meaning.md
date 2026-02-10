@@ -71,7 +71,7 @@ Critics argue that cognitive phenomenology is folk psychology that neuroscience 
 
 ## What Neurons Can Do Without Consciousness
 
-How much of cognition proceeds without phenomenal experience? Great ape intelligence provides an answer. Chimpanzees and bonobos demonstrate remarkable cognitive abilities: tool use, social cognition, procedural metacognition, even basic forms of culture. Yet they cannot engage in cumulative culture, logical reasoning about abstract premises, or genuine counterfactual thinking. The pattern suggests a hypothesis: [great ape cognition represents what neurons can achieve alone](/archive/topics/baseline-cognition/), while distinctively human intelligence requires consciousness as amplifier.
+How much of cognition proceeds without phenomenal experience? Great ape intelligence provides an answer. Chimpanzees and bonobos demonstrate remarkable cognitive abilities: tool use, social cognition, procedural metacognition, even basic forms of culture. Yet they cannot engage in cumulative culture, logical reasoning about abstract premises, or genuine counterfactual thinking. The pattern suggests a hypothesis: [great ape cognition represents what neurons can achieve alone](/concepts/baseline-cognition/), while distinctively human intelligence requires consciousness as amplifier.
 
 The most striking quantitative difference is [working memory](/concepts/working-memory/) capacity: chimpanzees maintain approximately 2±1 items versus humans' 7±2. This gap enables qualitative differences. Complex logical reasoning requires holding multiple premises simultaneously—beyond the 2±1 limit. Counterfactual simulation demands maintaining both actual and imagined scenarios together. Recursive linguistic structure needs expanded capacity to hold incomplete constituents while processing embedded clauses.
 
@@ -87,7 +87,7 @@ If consciousness merely correlated with human intelligence—a byproduct with no
 
 A 2025 meta-analysis (Randeniya) dramatically revised the scope of unconscious processing: only 10% of claimed unconscious effects survive rigorous methodological scrutiny. This matters because the case for understanding without phenomenal consciousness grows weaker as we discover how limited unconscious processing actually is.
 
-[Global Workspace Theory research](/archive/topics/consciousness-as-intelligence-amplifier/) identifies three functions specifically requiring conscious access: *durable information maintenance* (beyond 500ms), *novel combinations of operations*, and *spontaneous intentional action*. (For empirical evidence supporting these distinctions, see [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/).) All three are essential to genuine understanding. Understanding persists—you don't grasp a sentence for half a second then lose it. Understanding combines—you integrate meanings from different sources. Understanding initiates—you spontaneously deploy what you know. If these operations require phenomenal consciousness, understanding does too.
+[Global Workspace Theory research](/consciousness-as-intelligence-amplifier/) identifies three functions specifically requiring conscious access: *durable information maintenance* (beyond 500ms), *novel combinations of operations*, and *spontaneous intentional action*. (For empirical evidence supporting these distinctions, see [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/).) All three are essential to genuine understanding. Understanding persists—you don't grasp a sentence for half a second then lose it. Understanding combines—you integrate meanings from different sources. Understanding initiates—you spontaneously deploy what you know. If these operations require phenomenal consciousness, understanding does too.
 
 The maintenance/manipulation distinction sharpens this point. Merely holding information can occur unconsciously through activity-silent synaptic traces. But using information—comparing, combining, restructuring—requires conscious reactivation. Semantic binding is manipulation: integrating elements into structured wholes. The 7±2 working memory capacity represents the expanded conscious workspace within which the active manipulation that constitutes understanding occurs.
 
@@ -188,9 +188,9 @@ The phenomenal constitution of meaning connects to all five tenets.
 ## Source Articles
 
 This apex article synthesizes:
-- [Meaning and Consciousness](/archive/topics/meaning-and-consciousness/)
+- [Meaning and Consciousness](/meaning-and-consciousness/)
 - [Language, Recursion, and Consciousness](/topics/language-recursion-and-consciousness/)
-- [Consciousness as Intelligence Amplifier](/archive/topics/consciousness-as-intelligence-amplifier/)
-- [Baseline Cognition: What Neurons Can Do Without Consciousness](/archive/topics/baseline-cognition/)
+- [Consciousness as Intelligence Amplifier](/consciousness-as-intelligence-amplifier/)
+- [Baseline Cognition: What Neurons Can Do Without Consciousness](/concepts/baseline-cognition/)
 - [AI Consciousness](/topics/ai-consciousness/)
 - [Cognitive Phenomenology](/concepts/cognitive-phenomenology/)

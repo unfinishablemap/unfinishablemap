@@ -76,7 +76,7 @@ Counter-evidence: Some blindsight cases involve complete V1 removal with no resi
 
 ## Fits the Baseline Cognition Pattern {#baseline-cognition-pattern}
 
-The [baseline cognition](/archive/topics/baseline-cognition/) hypothesis proposes that unconscious neural processing achieves approximately great ape level cognition—sophisticated, reliable, but constrained. Blindsight exemplifies this pattern:
+The [baseline cognition](/concepts/baseline-cognition/) hypothesis proposes that unconscious neural processing achieves approximately great ape level cognition—sophisticated, reliable, but constrained. Blindsight exemplifies this pattern:
 
 **What unconscious vision achieves:**
 - Forced-choice discrimination between presented options (left vs right, moving vs static)
@@ -92,7 +92,7 @@ The [baseline cognition](/archive/topics/baseline-cognition/) hypothesis propose
 - Verbal report or explicit knowledge ("describe what's there")
 - Integration into episodic memory (patients don't remember "seeing" stimuli later)
 
-The blindsight patient's visual system can answer "which one?" but not "what is it?" or "am I correct?" The information influences behavior but doesn't enter the workspace for reasoning, planning, or explicit memory formation. See [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) for the three consciousness-requiring functions that blindsight lacks: durable maintenance, novel combinations, and spontaneous intentional action.
+The blindsight patient's visual system can answer "which one?" but not "what is it?" or "am I correct?" The information influences behavior but doesn't enter the workspace for reasoning, planning, or explicit memory formation. See [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) for the three consciousness-requiring functions that blindsight lacks: durable maintenance, novel combinations, and spontaneous intentional action.
 
 [Global Workspace Theory](/concepts/global-workspace-theory/)—one influential framework among several—formalizes this distinction. Unconscious processing operates in specialized modules (V2, V3, V5 for motion, ventral stream for object recognition) that can influence motor systems directly. Conscious processing broadcasts information globally, making it available to working memory, verbal report systems, and metacognitive monitoring. [Higher-order theories](/concepts/higher-order-theories/) offer an alternative explanation: blindsight patients lack the higher-order representations that constitute consciousness, while retaining first-order visual representations that support discrimination. Blindsight preserves modular processing while losing global broadcast or higher-order access.
 
@@ -157,7 +157,7 @@ Illusionism must also explain why the illusion-generating mechanism co-locates w
 
 ## Relation to Site Perspective
 
-Blindsight demonstrates that [consciousness](/concepts/consciousness/) and cognitive processing are not identical, supporting [Interactionist Dualism](/archive/arguments/interactionist-dualism/) over reductive physicalism. The same visual information—sufficient to guide reaching, discriminate motion, and recognize expressions—exists in both cases. What differs is phenomenal awareness.
+Blindsight demonstrates that [consciousness](/concepts/consciousness/) and cognitive processing are not identical, supporting [Interactionist Dualism](/concepts/interactionist-dualism/) over reductive physicalism. The same visual information—sufficient to guide reaching, discriminate motion, and recognize expressions—exists in both cases. What differs is phenomenal awareness.
 
 The phenomenon also supports [Bidirectional Interaction](/concepts/bidirectional-interaction/). The baseline cognition pattern shows what unconscious processing achieves: reliable, procedural, but inflexible. Conscious processing enables detection, metacognition, verbal report, and integration across cognitive domains. An epiphenomenalist can attribute these functional differences to the physical differences between the geniculostriate and collicular pathways rather than to consciousness itself. But the dualist observes that the functional capacities that track consciousness—flexible reasoning, novel integration, metacognitive access—are precisely those that resist explanation in purely mechanistic terms. The correlation between phenomenal presence and cognitive flexibility is better explained by [consciousness causally contributing to cognition](/concepts/bidirectional-interaction/) than by coincidental alignment between pathway architecture and an epiphenomenal byproduct.
 
@@ -179,7 +179,7 @@ Blindsight demonstrates that sophisticated visual processing can occur without c
 
 ## Further Reading
 
-- [baseline-cognition](/archive/topics/baseline-cognition/) — What neural systems achieve without consciousness
+- [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without consciousness
 - [metacognition](/concepts/metacognition/) — Thinking about thinking
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The "what it's like" aspect of experience
 - [access-consciousness](/concepts/access-consciousness/) — Block's analysis of information availability for reasoning and report

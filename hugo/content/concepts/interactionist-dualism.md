@@ -102,7 +102,7 @@ Seven arguments converge on the interactionist conclusion. Each has its own dedi
 
 5. **[Intentionality](/concepts/intentionality/)**: Mental states are *about* things; physical states are not intrinsically about anything. No physical account successfully reduces aboutness.
 
-6. **Self-Stultification**: If consciousness is epiphenomenal, our discussions of consciousness are not caused by consciousness—undermining any reason to trust them. The [evolutionary evidence](/archive/topics/consciousness-as-intelligence-amplifier/) reinforces this: phenomenal valence tracks fitness too precisely to be causally inert.
+6. **Self-Stultification**: If consciousness is epiphenomenal, our discussions of consciousness are not caused by consciousness—undermining any reason to trust them. The [evolutionary evidence](/consciousness-as-intelligence-amplifier/) reinforces this: phenomenal valence tracks fitness too precisely to be causally inert.
 
 7. **Quantum Indeterminacy**: Classical physics was deterministic, leaving no room for mental causation. Quantum mechanics is indeterministic—collapse into definite outcomes remains unexplained. Consciousness selecting among undetermined outcomes requires no energy injection and directly addresses the conservation objection.
 
@@ -122,7 +122,7 @@ Kim asks: what pairs a particular mind with a particular body? If minds are non-
 
 ## The Multi-Mind Collapse Problem
 
-If consciousness causes quantum collapse, what happens when multiple minds observe the same system? The [solution](/concepts/multi-mind-collapse-problem/) combines [interface-locality](/archive/concepts/interface-locality/) with [prebiotic-collapse](/concepts/prebiotic-collapse/): each consciousness interfaces only with its own brain; external systems collapse through objective physical processes. Attention is neurally implemented—you cannot attend to distant quantum systems. No coordination is needed because each mind operates on its own substrate.
+If consciousness causes quantum collapse, what happens when multiple minds observe the same system? The [solution](/concepts/multi-mind-collapse-problem/) combines [interface-locality](/interface-locality/) with [prebiotic-collapse](/concepts/prebiotic-collapse/): each consciousness interfaces only with its own brain; external systems collapse through objective physical processes. Attention is neurally implemented—you cannot attend to distant quantum systems. No coordination is needed because each mind operates on its own substrate.
 
 ## Quantum Interactionism
 

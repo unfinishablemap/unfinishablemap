@@ -70,7 +70,7 @@ The "folk error" accusation receives careful treatment: "cognitive naturalness d
 
 ## Content Strengths
 
-### [baseline-cognition](/archive/topics/baseline-cognition/)
+### [baseline-cognition](/concepts/baseline-cognition/)
 - **Strongest point**: The systematic correspondence between consciousness-requiring capacities and the human-ape cognitive gap—a prediction of interactionist dualism that epiphenomenalism cannot explain
 - **Notable quote**: "If consciousness were epiphenomenal—causally inert, merely observing neural processing—the systematic correspondence between consciousness-requiring capacities and the human-ape gap would be coincidental. Why would causally inert consciousness track exactly those capacities that distinguish human from great ape cognition?"
 - **Why it works**: Transforms abstract philosophical debate into empirically testable predictions; the pattern *predicts* what we observe
@@ -120,7 +120,7 @@ The "folk error" accusation receives careful treatment: "cognitive naturalness d
 ### Medium Priority
 
 #### Evolution Under Dualism: How Natural Selection Could Favour Consciousness
-- **Builds on**: [evolution-of-consciousness](/concepts/evolution-of-consciousness/), [baseline-cognition](/archive/topics/baseline-cognition/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
+- **Builds on**: [evolution-of-consciousness](/concepts/evolution-of-consciousness/), [baseline-cognition](/concepts/baseline-cognition/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
 - **Would address**: If consciousness is irreducible, how does evolution select for it? The amplifier framework provides an answer: consciousness enables cognitive operations (metarepresentation, counterfactual reasoning, cumulative culture) that confer fitness advantages. Evolution doesn't select for consciousness directly but for the cognitive capacities consciousness enables
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Addresses the "why would evolution produce non-physical minds?" objection; strengthens Bidirectional Interaction
@@ -149,8 +149,8 @@ The "folk error" accusation receives careful treatment: "cognitive naturalness d
 
 | From | To | Reason |
 |------|-----|--------|
-| [baseline-cognition](/archive/topics/baseline-cognition/) | [vertiginous-question](/topics/vertiginous-question/) | Great apes may lack the indexical self-awareness that makes the vertiginous question arise |
-| [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) | [baseline-cognition](/archive/topics/baseline-cognition/) | Meditation training as evidence that consciousness does causal work—expanding beyond baseline |
+| [baseline-cognition](/concepts/baseline-cognition/) | [vertiginous-question](/topics/vertiginous-question/) | Great apes may lack the indexical self-awareness that makes the vertiginous question arise |
+| [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) | [baseline-cognition](/concepts/baseline-cognition/) | Meditation training as evidence that consciousness does causal work—expanding beyond baseline |
 | [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) | [binding-problem](/concepts/binding-problem/) | If quantum entanglement underlies neural binding, these articles should reinforce each other |
 | [knowledge-argument](/concepts/knowledge-argument/) | [consciousness-only-territories](/voids/consciousness-only-territories/) | Mary's learning illustrates territories accessible only through conscious experience |
 | [haecceity](/concepts/haecceity/) | [moral-responsibility](/concepts/moral-responsibility/) | Haecceity grounds desert—*this* agent did *this* action |

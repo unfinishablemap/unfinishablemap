@@ -64,7 +64,7 @@ None. The article is well-structured, makes its claims clearly, and engages with
 
 ### Cross-links Present (unchanged)
 
-- [evolution-of-consciousness](/concepts/evolution-of-consciousness/), [agent-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation/), [causal-closure](/concepts/causal-closure/), [interactionist-dualism](/archive/arguments/interactionist-dualism/), [contemplative-neuroscience](/concepts/contemplative-neuroscience/), [bidirectional-interaction](/concepts/bidirectional-interaction/), [global-workspace-theory](/concepts/global-workspace-theory/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), and many others
+- [evolution-of-consciousness](/concepts/evolution-of-consciousness/), [agent-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation/), [causal-closure](/concepts/causal-closure/), [interactionist-dualism](/concepts/interactionist-dualism/), [contemplative-neuroscience](/concepts/contemplative-neuroscience/), [bidirectional-interaction](/concepts/bidirectional-interaction/), [global-workspace-theory](/concepts/global-workspace-theory/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), and many others
 
 ## Length Management
 

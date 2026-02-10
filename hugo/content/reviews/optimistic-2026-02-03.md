@@ -34,7 +34,7 @@ The temporal phenomenology section extends the hard problem beyond static qualia
 
 Most impressively, the Map distinguishes between mechanisms requiring *sustained* coherence (where decoherence bites hardest) and mechanisms operating through *discrete* quantum events (where the timing gap becomes less problematic). This nuance often goes missing in both critiques and defenses of quantum consciousness.
 
-[attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/) is the technical heart—428 lines of careful argument connecting attention, motor planning, and quantum selection. The premotor theory integration is inspired: if attention *is* motor planning at high abstraction, then consciousness engaging through attention is consciousness engaging through a unified selection mechanism. The shared neural signatures (~280-300ms timing, frontal theta, bidirectional coherence) across attention and motor control strengthen the case for unified mechanism.
+[attention-interface-mechanisms](/attention-interface-mechanisms/) is the technical heart—428 lines of careful argument connecting attention, motor planning, and quantum selection. The premotor theory integration is inspired: if attention *is* motor planning at high abstraction, then consciousness engaging through attention is consciousness engaging through a unified selection mechanism. The shared neural signatures (~280-300ms timing, frontal theta, bidirectional coherence) across attention and motor control strengthen the case for unified mechanism.
 
 ### The Phenomenologist (Nagel)
 
@@ -75,7 +75,7 @@ This combination of philosophical rigor with appropriate humility about limits i
 - **Notable quote**: "The gap is not merely a current limitation. It seems structural—a consequence of what physical explanations *are*."
 - **Why it works**: Comprehensive yet opinionated—presents the terrain fairly while making clear where the Map stands. The comparative table of challenges (physicalism's hard problem, panpsychism's combination problem, idealism's regularity problem, dualism's interaction problem) shows intellectual honesty.
 
-### [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/)
+### [attention-interface-mechanisms](/attention-interface-mechanisms/)
 - **Strongest point**: Unification of attention and motor selection through premotor theory, with precise timing constraints and multiple candidate mechanisms
 - **Notable quote**: "The convergence of ~280ms motor commitment and ~300ms willed attention deployment is striking. If attention and motor selection share a mechanism... this shared timescale marks where consciousness engages."
 - **Why it works**: Transforms the abstract claim "consciousness influences matter" into concrete, testable proposals with specific neural sites, timing constraints, and falsification conditions.
@@ -111,7 +111,7 @@ This combination of philosophical rigor with appropriate humility about limits i
 - **Tenet alignment**: Directly supports Bidirectional Interaction by explaining the metaphysical framework for mental causation
 
 #### The Phenomenology of Moral Experience
-- **Builds on**: [phenomenal-value-realism](/concepts/phenomenal-value-realism/), [ethics-of-consciousness](/topics/ethics-of-consciousness/), [emotional-consciousness](/archive/concepts/emotional-consciousness/)
+- **Builds on**: [phenomenal-value-realism](/concepts/phenomenal-value-realism/), [ethics-of-consciousness](/topics/ethics-of-consciousness/), [emotional-consciousness](/topics/emotional-consciousness/)
 - **Would address**: What it is like to experience something as wrong or obligatory—the phenomenology underlying moral judgment
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism by showing moral phenomenology has irreducible features

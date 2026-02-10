@@ -64,7 +64,7 @@ Research from 2011-2025 reveals a fundamental asymmetry in WM processing:
 
 This is supported by "activity-silent" WM research. Traditional theory assumed WM maintenance requires sustained neural firing. New evidence shows information can be maintained through short-term synaptic plasticity—residual calcium at synaptic terminals, rapid changes in synaptic weights—without sustained activity. These traces persist for roughly one second, spanning typical WM delays.
 
-**Manipulation requires consciousness.** The key finding (Trübutschek et al. 2019): "Non-conscious, activity-silent maintenance is a genuine phenomenon but should be termed 'activity-silent short-term memory'; when *using* a memory, a reactivation, associated with conscious reportability, is necessary." This aligns with the broader evidence in [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) showing that consciousness enables specific functions—durable maintenance, novel combinations, and spontaneous intentional action—that unconscious processing cannot achieve.
+**Manipulation requires consciousness.** The key finding (Trübutschek et al. 2019): "Non-conscious, activity-silent maintenance is a genuine phenomenon but should be termed 'activity-silent short-term memory'; when *using* a memory, a reactivation, associated with conscious reportability, is necessary." This aligns with the broader evidence in [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) showing that consciousness enables specific functions—durable maintenance, novel combinations, and spontaneous intentional action—that unconscious processing cannot achieve.
 
 This maps onto the Map's framework:
 - **Storage** might be purely neural—synaptic traces maintaining patterns without consciousness
@@ -136,7 +136,7 @@ The [attention-as-interface](/concepts/attention-as-interface/) hypothesis propo
 
 The bidirectional attention-working memory relationship is well-established: attention determines what enters working memory; working memory contents guide attention. This creates a feedback loop: conscious attention selects what to hold, and held contents direct subsequent attention.
 
-**Bandwidth constraint**: The Map's [coupling law research](/archive/concepts/psychophysical-coupling-law/) estimates consciousness's causal bandwidth at ~10 bits/second. This matches WM capacity limitations remarkably well—suggesting both may reflect the same fundamental constraint on consciousness-matter interaction. The [attentional-economics](/concepts/attentional-economics/) framework treats WM capacity as "attentional capital"—the liquid assets available for manipulation within any given moment.
+**Bandwidth constraint**: The Map's [coupling law research](/psychophysical-coupling-law/) estimates consciousness's causal bandwidth at ~10 bits/second. This matches WM capacity limitations remarkably well—suggesting both may reflect the same fundamental constraint on consciousness-matter interaction. The [attentional-economics](/concepts/attentional-economics/) framework treats WM capacity as "attentional capital"—the liquid assets available for manipulation within any given moment.
 
 **Effort asymmetry**: The maintenance/manipulation distinction explains why some cognitive processes feel effortful and others don't. Mental effort corresponds to conscious manipulation through the interface; passive maintenance operates without consciousness and without effort.
 
@@ -199,7 +199,7 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 - [binding-problem](/concepts/binding-problem/) — The unity problem in both perception and memory
 - [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness and semantic retrieval
 - [metacognition](/concepts/metacognition/) — Self-monitoring as consciousness-enabled capacity
-- [baseline-cognition](/archive/topics/baseline-cognition/) — What neural systems achieve without conscious amplification
+- [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without conscious amplification
 - [metarepresentation](/concepts/metarepresentation/) — Representing representations as representations
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Thinking about what might have been
 - [consciousness-working-memory-2026-01-17](/research/consciousness-working-memory-2026-01-17/) — Detailed research notes

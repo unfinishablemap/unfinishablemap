@@ -17,9 +17,9 @@ topics: []
 ---
 
 **Date**: 2026-02-04 (evening)
-**Article**: [Quantum Measurement and the Problem of Definite Outcomes](/archive/topics/quantum-measurement-and-definite-outcomes/)
+**Article**: [Quantum Measurement and the Problem of Definite Outcomes](/quantum-measurement-and-definite-outcomes/)
 **Previous review**: [2026-02-04 (morning)](/reviews/deep-review-2026-02-04-quantum-measurement-and-definite-outcomes/)
-**Context**: Review triggered to integrate insights from newly created [consciousness-and-quantum-measurement](/archive/topics/consciousness-and-quantum-measurement/) article.
+**Context**: Review triggered to integrate insights from newly created [consciousness-and-quantum-measurement](/consciousness-and-quantum-measurement/) article.
 
 ## Pessimistic Analysis Summary
 
@@ -73,7 +73,7 @@ No misattributions, dropped qualifiers, or source/Map conflations detected.
 
 **Primary focus: Cross-linking to consciousness-and-quantum-measurement.md**
 
-The newly created companion article [consciousness-and-quantum-measurement](/archive/topics/consciousness-and-quantum-measurement/) develops the structural parallel between measurement problem and hard problem more thoroughly. Added cross-references:
+The newly created companion article [consciousness-and-quantum-measurement](/consciousness-and-quantum-measurement/) develops the structural parallel between measurement problem and hard problem more thoroughly. Added cross-references:
 
 1. **Frontmatter**: Added to `related_articles`
 2. **Inline link**: In Indexical Dimension section, linking the structural parallel observation to the new article
@@ -81,7 +81,7 @@ The newly created companion article [consciousness-and-quantum-measurement](/arc
 
 ### Cross-links Added
 
-- [consciousness-and-quantum-measurement](/archive/topics/consciousness-and-quantum-measurement/) — How the measurement problem and hard problem share structural features (added to frontmatter, body, and Further Reading)
+- [consciousness-and-quantum-measurement](/consciousness-and-quantum-measurement/) — How the measurement problem and hard problem share structural features (added to frontmatter, body, and Further Reading)
 
 ## Remaining Items
 

@@ -182,7 +182,7 @@ These conditions do not currently obtain. The connection stands.
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical grounding: phenomenal properties constitute value
 - [Phenomenal Value Realism (Topic)](/concepts/phenomenal-value-realism/) — How consciousness-grounded value addresses metaethical challenges and extends to pluralism
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness-grounded value provides meaning
-- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — Valence as the phenomenal dimension of good and bad
+- [emotional-consciousness](/topics/emotional-consciousness/) — Valence as the phenomenal dimension of good and bad
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of the consciousness-value connection
 - [experiential-alignment](/concepts/experiential-alignment/) — Operationalizing the connection for AI
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Why AI alignment depends on this view

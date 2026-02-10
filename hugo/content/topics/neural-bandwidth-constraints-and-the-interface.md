@@ -37,7 +37,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Conscious processing operates at roughly 10 bits per second. The brain's unconscious systems handle on the order of 10⁹ bits per second. This ratio—one to a hundred million—is perhaps the most revealing empirical fact about The Unfinishable Map's central question: how consciousness relates to the brain. The bandwidth constraint is not an incidental limitation. It defines the *shape* of the mind-brain interface, distinguishing what consciousness does from what the brain does, and exposing why production models of consciousness face a problem that [filter](/concepts/filter-theory/) and [interactionist](/archive/arguments/interactionist-dualism/) models handle naturally.
+Conscious processing operates at roughly 10 bits per second. The brain's unconscious systems handle on the order of 10⁹ bits per second. This ratio—one to a hundred million—is perhaps the most revealing empirical fact about The Unfinishable Map's central question: how consciousness relates to the brain. The bandwidth constraint is not an incidental limitation. It defines the *shape* of the mind-brain interface, distinguishing what consciousness does from what the brain does, and exposing why production models of consciousness face a problem that [filter](/concepts/filter-theory/) and [interactionist](/concepts/interactionist-dualism/) models handle naturally.
 
 ## The Measured Bottleneck
 
@@ -110,7 +110,7 @@ The brain processes vast amounts of information without conscious involvement. T
 
 ### The Baseline
 
-Great apes demonstrate sophisticated cognition without expanded conscious access. The [baseline cognition hypothesis](/archive/topics/baseline-cognition/) attributes to unconscious systems: tool use, social learning, procedural metacognition, spatial navigation, pattern recognition. These operate at the brain's full processing bandwidth.
+Great apes demonstrate sophisticated cognition without expanded conscious access. The [baseline cognition hypothesis](/concepts/baseline-cognition/) attributes to unconscious systems: tool use, social learning, procedural metacognition, spatial navigation, pattern recognition. These operate at the brain's full processing bandwidth.
 
 What requires expanded conscious bandwidth is manipulation rather than maintenance: logical reasoning, counterfactual thinking, recursive language processing. [Working memory](/concepts/working-memory/) research confirms this—maintenance can be unconscious, but manipulation requires conscious access. The bandwidth constraint determines what *kind* of cognitive operations consciousness enables.
 
@@ -170,7 +170,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model and the bandwidth as filter parameter
 - [working-memory](/concepts/working-memory/) — Working memory as the workspace where the interface operates
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing constraints on quantum consciousness mechanisms
-- [baseline-cognition](/archive/topics/baseline-cognition/) — What the brain achieves without conscious involvement
+- [baseline-cognition](/concepts/baseline-cognition/) — What the brain achieves without conscious involvement
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The selection mechanism in detail
 
 ## References

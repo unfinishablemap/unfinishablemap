@@ -70,11 +70,11 @@ Counterfactual reasoning places substantial demands on [working memory](/concept
 - The counterfactual scenario (what would follow)
 - The relationship between actual and counterfactual
 
-This multi-element maintenance and manipulation is precisely what human working memory (7±2 items) enables and great ape working memory (2±1 items) cannot support. The [baseline cognition](/archive/topics/baseline-cognition/) framework predicts exactly this pattern: capacities requiring extensive working memory manipulation should be absent or severely limited in species with reduced working memory capacity.
+This multi-element maintenance and manipulation is precisely what human working memory (7±2 items) enables and great ape working memory (2±1 items) cannot support. The [baseline cognition](/concepts/baseline-cognition/) framework predicts exactly this pattern: capacities requiring extensive working memory manipulation should be absent or severely limited in species with reduced working memory capacity.
 
 ### The Great Ape Gap
 
-The [baseline cognition hypothesis](/archive/topics/baseline-cognition/) observes that great apes demonstrate sophisticated cognition—tool use, social reasoning, procedural metacognition—yet show limited capacity for counterfactual thinking. They may anticipate immediate futures based on current perceptual information, but extended mental simulation of non-actual scenarios appears beyond their capacity.
+The [baseline cognition hypothesis](/concepts/baseline-cognition/) observes that great apes demonstrate sophisticated cognition—tool use, social reasoning, procedural metacognition—yet show limited capacity for counterfactual thinking. They may anticipate immediate futures based on current perceptual information, but extended mental simulation of non-actual scenarios appears beyond their capacity.
 
 The Bischof-Köhler hypothesis proposes that animals cannot act on drive states they don't currently possess. A sated chimpanzee won't store food for future hunger because it cannot consciously represent that future need-state. This limitation reflects restricted counterfactual capacity: the chimpanzee cannot imagine "being hungry tomorrow" with sufficient vividness to motivate present action. The evidence remains debated—some studies show great apes can delay gratification and prepare tools for future use—but even supportive evidence reveals limited temporal horizons compared to human prospection.
 
@@ -88,7 +88,7 @@ Counterfactual reasoning bears directly on [free will](/topics/free-will/). Libe
 2. **Evaluating alternatives**: You must assess the counterfactual scenarios against your values and goals
 3. **Selecting among alternatives**: You must determine which option to actualise
 
-Each step involves counterfactual reasoning. Without the capacity to represent "what would happen if I chose X," genuine deliberation becomes impossible. You would be restricted to what the [baseline cognition](/archive/topics/baseline-cognition/) framework calls the "zone of latent solutions"—recombining existing patterns without generating genuinely novel possibilities.
+Each step involves counterfactual reasoning. Without the capacity to represent "what would happen if I chose X," genuine deliberation becomes impossible. You would be restricted to what the [baseline cognition](/concepts/baseline-cognition/) framework calls the "zone of latent solutions"—recombining existing patterns without generating genuinely novel possibilities.
 
 The [phenomenology of choice](/concepts/phenomenology-of-choice/) reveals this counterfactual structure. Deliberating feels like holding multiple possibilities open, exploring their implications, and then settling on one. The felt sense of alternatives collapsing to actuality—one becoming real while others fade to mere counterfactuals—is central to the experience of choosing. This phenomenology supports *reasons-responsiveness*: we choose *for* reasons by evaluating how counterfactual outcomes align with what matters to us.
 
@@ -155,7 +155,7 @@ Some research suggests implicit counterfactual processing occurs without awarene
 
 The evidence distinguishes implicit counterfactual *reactions* from explicit counterfactual *reasoning*. Reacting with regret to a near-miss is different from deliberately constructing "what if" scenarios to inform future decisions. The former may be automatic; the latter appears to require conscious manipulation.
 
-The [conscious vs unconscious processing](/archive/topics/conscious-vs-unconscious-processing/) framework clarifies: counterfactual *reactions* operate within baseline cognition (emotional responses to near-misses), while counterfactual *reasoning* (systematic scenario construction and evaluation) requires conscious processing.
+The [conscious vs unconscious processing](/concepts/conscious-vs-unconscious-processing/) framework clarifies: counterfactual *reactions* operate within baseline cognition (emotional responses to near-misses), while counterfactual *reasoning* (systematic scenario construction and evaluation) requires conscious processing.
 
 ## Relation to Site Perspective
 
@@ -171,7 +171,7 @@ Counterfactual reasoning connects to multiple [tenets](/tenets/):
 
 ## Further Reading
 
-- [baseline-cognition](/archive/topics/baseline-cognition/) — The framework distinguishing consciousness-dependent from baseline cognition
+- [baseline-cognition](/concepts/baseline-cognition/) — The framework distinguishing consciousness-dependent from baseline cognition
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognitive capacity
 - [free-will](/topics/free-will/) — Counterfactual reasoning's role in genuine choice
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experience of deliberating among alternatives

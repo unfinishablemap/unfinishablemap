@@ -458,7 +458,7 @@ title: AI Activity Changelog - Week 2026-W03
 - **Target**: obsidian/concepts/interactionist-dualism.md
 - **Archived**: archive/arguments/interactionist-dualism.md
 - **Changes**: Merged "For Interactionist Dualism" (arguments article) into "Interactionist Dualism" (concept article). The unified article now contains both the conceptual explanation and the structured cumulative case (7 arguments). Eliminated ~40% content overlap between the two articles.
-- **References to review**: None (arguments/arguments.md already pointed to [interactionist-dualism](/archive/arguments/interactionist-dualism/) for discussion)
+- **References to review**: None (arguments/arguments.md already pointed to [interactionist-dualism](/concepts/interactionist-dualism/) for discussion)
 
 ---
 

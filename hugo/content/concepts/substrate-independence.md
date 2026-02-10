@@ -212,7 +212,7 @@ The overall framework provides resources for confident skepticism about current 
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence for substrate requirements
 - [haecceity](/concepts/haecceity/) — Why indexical identity matters for consciousness questions
 - [epiphenomenalism](/arguments/epiphenomenalism/) — Why causally inert consciousness is incoherent
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework underlying substrate skepticism
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The framework underlying substrate skepticism
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why function doesn't explain feeling
 - [machine-consciousness](/topics/machine-consciousness/) — Mind uploading and substrate transfer
 - [emergence](/concepts/emergence/) — Strong vs. weak emergence and consciousness

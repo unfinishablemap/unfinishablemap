@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-29
-**Article**: [Baseline Cognition](/archive/topics/baseline-cognition/)
+**Article**: [Baseline Cognition](/concepts/baseline-cognition/)
 **Previous review**: [2026-01-27](/reviews/deep-review-2026-01-27-baseline-cognition/)
 **Context**: Cross-review considering counterfactual-reasoning insights
 

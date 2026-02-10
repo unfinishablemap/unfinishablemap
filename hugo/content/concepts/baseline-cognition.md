@@ -84,15 +84,15 @@ Tomasello (2010) characterises ape innovation as occurring within the "zone of l
 
 Human innovation differs: we generate genuinely novel solutions by explicitly representing problems, considering multiple approaches, and systematically modifying existing methods. This requires metarepresentation—taking our existing solutions as objects of thought to evaluate and improve.
 
-This corresponds to the second consciousness-requiring function: *novel combinations of operations*. [Research on global workspace](/archive/topics/conscious-vs-unconscious-processing/) shows that conscious access enables information to be broadcast across distant brain regions, allowing multiple specialized processors to be chained in novel sequences. Great apes' restriction to the zone of latent solutions reflects their inability to flexibly recombine learned procedures—precisely what happens when information remains local to individual modules without the global broadcast that consciousness provides.
+This corresponds to the second consciousness-requiring function: *novel combinations of operations*. [Research on global workspace](/concepts/conscious-vs-unconscious-processing/) shows that conscious access enables information to be broadcast across distant brain regions, allowing multiple specialized processors to be chained in novel sequences. Great apes' restriction to the zone of latent solutions reflects their inability to flexibly recombine learned procedures—precisely what happens when information remains local to individual modules without the global broadcast that consciousness provides.
 
 ## What Baseline Cognition Cannot Achieve
 
 The human-ape intelligence gap isn't random. Great apes show systematic limitations in capacities tied to conscious processing.
 
-A 2025 meta-analysis (Randeniya) dramatically revised the scope of unconscious processing: only 10% of claimed unconscious effects survive rigorous methodological scrutiny. This matters because the "baseline cognition" hypothesis predicts exactly this pattern—if baseline cognition represents what neural processing achieves without consciousness, we should expect genuinely unconscious processing to be far more limited than previously assumed. The [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) evidence converges with comparative cognition: both approaches reveal consciousness is functionally necessary for specific operations.
+A 2025 meta-analysis (Randeniya) dramatically revised the scope of unconscious processing: only 10% of claimed unconscious effects survive rigorous methodological scrutiny. This matters because the "baseline cognition" hypothesis predicts exactly this pattern—if baseline cognition represents what neural processing achieves without consciousness, we should expect genuinely unconscious processing to be far more limited than previously assumed. The [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) evidence converges with comparative cognition: both approaches reveal consciousness is functionally necessary for specific operations.
 
-[Global Workspace Theory research](/archive/topics/conscious-vs-unconscious-processing/) identifies three functions specifically requiring conscious access: *durable information maintenance*, *novel combinations of operations*, and *spontaneous intentional action*. These three functions map precisely onto the great ape limitations below:
+[Global Workspace Theory research](/concepts/conscious-vs-unconscious-processing/) identifies three functions specifically requiring conscious access: *durable information maintenance*, *novel combinations of operations*, and *spontaneous intentional action*. These three functions map precisely onto the great ape limitations below:
 
 ### Working Memory Capacity (Durable Maintenance)
 
@@ -100,7 +100,7 @@ Chimpanzee working memory holds approximately 2±1 items compared to human 7±2 
 
 If [working-memory](/concepts/working-memory/) depends on conscious access (as [Global Workspace Theory](/concepts/global-workspace-theory/) proposes), the capacity expansion implies expanded consciousness. The additional slots aren't just storage—they're workspace for manipulation, comparison, and flexible combination.
 
-This connects to the first consciousness-requiring function identified in [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/): *durable information maintenance*. Subliminal priming effects decay within 500ms; consciously perceived information can be maintained for seconds to minutes. Great apes' limited working memory capacity reflects limited conscious maintenance—information fades rapidly, preventing the extended manipulation that human cognition requires.
+This connects to the first consciousness-requiring function identified in [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/): *durable information maintenance*. Subliminal priming effects decay within 500ms; consciously perceived information can be maintained for seconds to minutes. Great apes' limited working memory capacity reflects limited conscious maintenance—information fades rapidly, preventing the extended manipulation that human cognition requires.
 
 ### Declarative Metacognition
 
@@ -140,7 +140,7 @@ Humans uniquely imagine situations that don't exist—learning from hypothetical
 
 The Bischof-Köhler hypothesis proposes that animals cannot act on drive states they don't currently possess: a sated animal won't store food for future hunger because it cannot consciously represent that future need-state. Evidence for great ape foresight exists but remains limited—they may anticipate immediate futures but show little capacity for the extended mental simulation that characterises human planning.
 
-This connects to the third consciousness-requiring function: *spontaneous intentional action*—generating goal-directed behaviour from internal states rather than external triggers. [Blindsight patients](/archive/topics/conscious-vs-unconscious-processing/#blindsight-the-paradigm-case) cannot spontaneously use blind-field information to initiate self-directed action. Great apes show similar limitations—sophisticated reactive cognition without the self-initiated goal pursuit that requires maintaining future states while selecting appropriate actions.
+This connects to the third consciousness-requiring function: *spontaneous intentional action*—generating goal-directed behaviour from internal states rather than external triggers. [Blindsight patients](/concepts/conscious-vs-unconscious-processing/#blindsight-the-paradigm-case) cannot spontaneously use blind-field information to initiate self-directed action. Great apes show similar limitations—sophisticated reactive cognition without the self-initiated goal pursuit that requires maintaining future states while selecting appropriate actions.
 
 ### Social Cognition: Where the Gap Is Clearest
 
@@ -198,7 +198,7 @@ The baseline cognition hypothesis doesn't deny great ape consciousness. Great ap
 
 Great apes may possess access consciousness (information available for behaviour) without the full reflexive consciousness humans possess (consciousness that can take itself as object). They experience without necessarily experiencing that they experience—a distinction central to [introspective](/concepts/introspection/) capacity and the limits thereof.
 
-This connects to [minimal consciousness](/archive/concepts/minimal-consciousness/) research. Consciousness may admit of degrees and kinds. The question isn't "conscious or not?" but "what kind of consciousness, supporting what cognitive operations?"
+This connects to [minimal consciousness](/concepts/minimal-consciousness/) research. Consciousness may admit of degrees and kinds. The question isn't "conscious or not?" but "what kind of consciousness, supporting what cognitive operations?"
 
 ## Implications for AI
 
@@ -250,7 +250,7 @@ The baseline cognition hypothesis could be undermined by:
 
 ## Further Reading
 
-- [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) — Empirical evidence on what consciousness enables vs what unconscious processing achieves
+- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on what consciousness enables vs what unconscious processing achieves
 - [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/) — Social cognition as paradigm case of the baseline/conscious distinction
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The complementary article on consciousness's amplifying role
 - [working-memory](/concepts/working-memory/) — The neural workspace where amplification operates
@@ -258,7 +258,7 @@ The baseline cognition hypothesis could be undermined by:
 - [metarepresentation](/concepts/metarepresentation/) — The capacity to represent representations
 - [cumulative-culture](/concepts/cumulative-culture/) — The ratchet effect and why it requires metarepresentation
 - [animal-consciousness](/topics/animal-consciousness/) — The broader context including evolutionary evidence
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Model organisms and the boundaries of consciousness
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Model organisms and the boundaries of consciousness
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The broadcasting account of conscious access
 - [free-will](/topics/free-will/) — How conscious deliberation supports libertarian free will
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The capacity to imagine non-actual states, requiring consciousness

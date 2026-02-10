@@ -62,7 +62,7 @@ The zone has a ceiling. Ape innovations don't build on each other cumulatively b
 
 ## Escaping the Zone: Three Requirements
 
-Research on [conscious versus unconscious processing](/archive/topics/conscious-vs-unconscious-processing/) identifies three cognitive functions that require conscious access. Each corresponds to what baseline cognition lacks:
+Research on [conscious versus unconscious processing](/concepts/conscious-vs-unconscious-processing/) identifies three cognitive functions that require conscious access. Each corresponds to what baseline cognition lacks:
 
 ### Durable Information Maintenance
 
@@ -309,8 +309,8 @@ Current evidence doesn't support any of these conditions.
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis in conceptual overview
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention's role as the interface between consciousness and matter
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The quantum Zeno mechanism for selection
-- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition achieves without consciousness
-- [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
+- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
+- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
 - [metarepresentation](/concepts/metarepresentation/) — The capacity to represent representations
 - [cumulative-culture](/concepts/cumulative-culture/) — Cultural ratcheting and why it requires metarepresentation
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Imagining non-actual states

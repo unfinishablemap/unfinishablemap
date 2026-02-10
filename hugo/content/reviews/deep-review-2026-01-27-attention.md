@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken internal link**: `[Recent neuroscience](/archive/concepts/voluntary-attention-control/)` pointed to non-existent file. Resolved by correcting to `[Recent neuroscience](/concepts/voluntary-attention/)`.
+- **Broken internal link**: `[Recent neuroscience](/voluntary-attention-control/)` pointed to non-existent file. Resolved by correcting to `[Recent neuroscience](/concepts/voluntary-attention/)`.
 - **Duplicate frontmatter entry**: `[voluntary-attention](/concepts/voluntary-attention/)` appeared twice in concepts list. Resolved by removing duplicate.
 
 ### Medium Issues Found

@@ -75,11 +75,11 @@ Six sympathetic personas engaged with the content:
 
 ### Enhancements Made
 - Added `description` field: "How consciousness encounters the formally unthinkable—we can reference impossibilities but cannot grasp them, revealing cognitive architecture's limits."
-- Added cross-link to [interactionist-dualism](/archive/arguments/interactionist-dualism/) in bidirectional interaction section
-- Added [interactionist-dualism](/archive/arguments/interactionist-dualism/) to related_articles
+- Added cross-link to [interactionist-dualism](/concepts/interactionist-dualism/) in bidirectional interaction section
+- Added [interactionist-dualism](/concepts/interactionist-dualism/) to related_articles
 
 ### Cross-links Added
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) (in Bidirectional Interaction section and frontmatter)
+- [interactionist-dualism](/concepts/interactionist-dualism/) (in Bidirectional Interaction section and frontmatter)
 
 ## Word Count Changes
 - Before: 2735 words (137% of 2000 soft threshold)

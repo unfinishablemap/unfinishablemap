@@ -110,7 +110,7 @@ The result: stronger reasons to attribute consciousness to animals than to curre
 
 ## Consciousness and the Human-Ape Intelligence Gap
 
-Great apes share 98-99% of our DNA and display sophisticated cognition—tool use, social reasoning, emotional complexity. Yet humans alone produce [cumulative culture](/concepts/cumulative-culture/), abstract mathematics, and technological civilisation. The [baseline-cognition](/archive/topics/baseline-cognition/) hypothesis proposes that great ape cognition represents what neural processing achieves *without* substantial conscious contribution, while human-level cognition requires expanded conscious access. See [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) for a comprehensive treatment of how consciousness transforms baseline cognition into human-level intelligence.
+Great apes share 98-99% of our DNA and display sophisticated cognition—tool use, social reasoning, emotional complexity. Yet humans alone produce [cumulative culture](/concepts/cumulative-culture/), abstract mathematics, and technological civilisation. The [baseline-cognition](/concepts/baseline-cognition/) hypothesis proposes that great ape cognition represents what neural processing achieves *without* substantial conscious contribution, while human-level cognition requires expanded conscious access. See [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) for a comprehensive treatment of how consciousness transforms baseline cognition into human-level intelligence.
 
 The [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) thesis proposes that consciousness enables *flexible deployment* of cognitive resources—not computational power (neurons handle that), but metacognitive monitoring and counterfactual reasoning. Key evidence:
 
@@ -134,7 +134,7 @@ If consciousness is irreducible to physical processes, finding neural correlates
 
 Do animals experience the *badness* of pain, or merely detect tissue damage? Panksepp identified seven primary emotional systems arising from ancient subcortical structures. Key evidence: decorticate rats—cortex removed—still play, show distress, and display pleasure responses. If emotional consciousness required cortex, decortication should eliminate it. This suggests emotional consciousness is "an evolutionary birthright" extending to any creature with subcortical limbic structures.
 
-LeDoux disagrees, arguing conscious feelings require cortical higher-order representations. But evidence from [pain asymbolia](/archive/concepts/emotional-consciousness/#valence)—where patients feel pain but find it doesn't bother them—shows nociception and suffering are distinct. The question isn't whether animals have pain responses (they do), but whether they experience the *felt badness* that makes pain suffering.
+LeDoux disagrees, arguing conscious feelings require cortical higher-order representations. But evidence from [pain asymbolia](/topics/emotional-consciousness/#valence)—where patients feel pain but find it doesn't bother them—shows nociception and suffering are distinct. The question isn't whether animals have pain responses (they do), but whether they experience the *felt badness* that makes pain suffering.
 
 ## Moral Status
 
@@ -195,13 +195,13 @@ Several discoveries could undermine this position:
 ### Core Concepts
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — C. elegans, Hydra, slime molds, the UAL framework, and contemplative evidence for minimal consciousness
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged and phylogenetic distribution
-- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — Valence and the Panksepp-LeDoux debate
+- [emotional-consciousness](/topics/emotional-consciousness/) — Valence and the Panksepp-LeDoux debate
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemological framework underlying consciousness attribution
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Does the consciousness-matter interface vary across species and states?
 
 ### Consciousness and Intelligence
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness transforms baseline cognition into human-level intelligence
-- [baseline-cognition](/archive/topics/baseline-cognition/) — What neural systems achieve without consciousness
+- [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without consciousness
 - [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/) — Theory of mind levels and shared intentionality
 
 ### Related Topics

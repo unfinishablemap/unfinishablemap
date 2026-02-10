@@ -114,7 +114,7 @@ The same ~300ms window appears in motor selection. Thura & Cisek (2014) identifi
 
 If willed attention and willed action share a common mechanism, the ~300ms window marks where consciousness engages the selection interface. The timing is too slow for exogenous reflexes, too slow for automatic processing, but right for deliberate choice.
 
-For the Map's framework, this temporal structure is suggestive. If consciousness operates through something like quantum Zeno effects—rapid observation holding desired patterns stable—it would require time for sustained engagement. The ~300ms deployment window might provide that time. This remains speculative, but the timing is striking: exogenous attention's brief duration (~100ms) would be insufficient for sustained influence, while willed attention's sustained character fits what such a mechanism would require. See [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/) for candidate neural sites and timing constraints that could support this interface.
+For the Map's framework, this temporal structure is suggestive. If consciousness operates through something like quantum Zeno effects—rapid observation holding desired patterns stable—it would require time for sustained engagement. The ~300ms deployment window might provide that time. This remains speculative, but the timing is striking: exogenous attention's brief duration (~100ms) would be insufficient for sustained influence, while willed attention's sustained character fits what such a mechanism would require. See [attention-interface-mechanisms](/attention-interface-mechanisms/) for candidate neural sites and timing constraints that could support this interface.
 
 ## The Neural Architecture
 
@@ -246,7 +246,7 @@ For the Map's framework, this architecture illuminates the mind-matter interface
 - [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — ADHD, fatigue, and meditation deficits reveal interface components
 - [voluntary-attention](/concepts/voluntary-attention/) — Detailed treatment of willed attention mechanisms
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal bridge between consciousness and brain
-- [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions
+- [attention-interface-mechanisms](/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions
 - [mental-effort](/concepts/mental-effort/) — The phenomenology and potential mechanism of attentional effort
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Contemplative evidence on attention's structure
 - [motor-selection](/concepts/motor-selection/) — Parallel evidence from voluntary motor control

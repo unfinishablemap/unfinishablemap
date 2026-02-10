@@ -219,7 +219,7 @@ PCT makes testable predictions:
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How experience weaves through time
 - [semantic-memory](/concepts/semantic-memory/) — How meaning is stored and accessed
 - [llm-consciousness](/concepts/llm-consciousness/) — Why LLMs lack genuine understanding
-- [baseline-cognition](/archive/topics/baseline-cognition/) — Cognition without consciousness
+- [baseline-cognition](/concepts/baseline-cognition/) — Cognition without consciousness
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enables semantic binding
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — Recursive structure and phenomenal complexity
 - [illusionism](/concepts/illusionism/) — The challenge that cognitive phenomenology is illusory

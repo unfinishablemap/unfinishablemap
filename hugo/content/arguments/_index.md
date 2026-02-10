@@ -44,7 +44,7 @@ A cumulative case for interactionist dualism: consciousness is irreducible to ph
 - The self-stultification argument shows consciousness must be causally relevant
 - Quantum indeterminacy provides the mechanism for mental causation
 
-**Discussion:** [interactionist-dualism](/archive/arguments/interactionist-dualism/)
+**Discussion:** [interactionist-dualism](/concepts/interactionist-dualism/)
 
 ### Against Many-Worlds
 

@@ -55,7 +55,7 @@ The popular account of incubation says: the unconscious mind continues working o
 
 This interpretation faces several difficulties.
 
-**The scope of unconscious processing is far more limited than assumed.** A 2025 meta-analysis (Randeniya) reanalyzed 80 experimental conditions from 16 fMRI studies on unconscious processing. Only 10% provided genuine evidence for subliminal processing. The decades-long consensus that extensive cognitive work occurs unconsciously was methodologically inflated. If unconscious processing cannot reliably perform even basic integration tasks, attributing complex creative problem-solving to it requires extraordinary evidence. See [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) for detailed treatment.
+**The scope of unconscious processing is far more limited than assumed.** A 2025 meta-analysis (Randeniya) reanalyzed 80 experimental conditions from 16 fMRI studies on unconscious processing. Only 10% provided genuine evidence for subliminal processing. The decades-long consensus that extensive cognitive work occurs unconsciously was methodologically inflated. If unconscious processing cannot reliably perform even basic integration tasks, attributing complex creative problem-solving to it requires extraordinary evidence. See [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) for detailed treatment.
 
 **Incubation effects are inconsistent.** If a powerful unconscious problem-solver were reliably at work during breaks, the incubation effect should be robust and general. Instead, it is modest and task-specific, appearing mainly for associative problems and often failing to replicate for analytic ones. The inconsistency better fits a model where incubation benefits come from fixation release and altered conscious processing upon return, rather than from unconscious computation during the break.
 
@@ -69,9 +69,9 @@ The creative process involves at least three stages where consciousness plays di
 
 ### Problem Formulation (Conscious)
 
-Before incubation can help, consciousness must do the irreplaceable work of defining the problem. This involves the three functions that [require conscious access](/archive/topics/conscious-vs-unconscious-processing/): maintaining multiple problem elements in [working-memory](/concepts/working-memory/), combining them in novel ways to identify the difficulty, and generating intentional approaches to solving it. The preparation phase is not wasted effort — it is consciousness building the representational structure that subsequent processing will work within.
+Before incubation can help, consciousness must do the irreplaceable work of defining the problem. This involves the three functions that [require conscious access](/concepts/conscious-vs-unconscious-processing/): maintaining multiple problem elements in [working-memory](/concepts/working-memory/), combining them in novel ways to identify the difficulty, and generating intentional approaches to solving it. The preparation phase is not wasted effort — it is consciousness building the representational structure that subsequent processing will work within.
 
-Great apes, operating at [baseline cognition](/archive/topics/baseline-cognition/), cannot formulate problems in this sense. They encounter obstacles and respond. But formulating a mathematical problem, an engineering challenge, or a philosophical question requires representing the gap between current understanding and desired understanding — a metarepresentational act that consciousness enables.
+Great apes, operating at [baseline cognition](/concepts/baseline-cognition/), cannot formulate problems in this sense. They encounter obstacles and respond. But formulating a mathematical problem, an engineering challenge, or a philosophical question requires representing the gap between current understanding and desired understanding — a metarepresentational act that consciousness enables.
 
 ### Release and Restructuring (Shift in Processing Mode)
 
@@ -124,10 +124,10 @@ The Map's interpretation of incubation would face difficulty if:
 
 ## Further Reading
 
-- [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) — Empirical evidence that consciousness enables functions unconscious processing cannot achieve
+- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence that consciousness enables functions unconscious processing cannot achieve
 - [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — The creative loop integrating generation and selection
 - [dreams-problem-solving-and-consciousness](/topics/dreams-problem-solving-and-consciousness/) — Dream incubation and the sleep-wake creative cycle
-- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition achieves without consciousness
+- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
 - [mental-effort](/concepts/mental-effort/) — Why conscious engagement feels like work
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates the consciousness-brain interface
 

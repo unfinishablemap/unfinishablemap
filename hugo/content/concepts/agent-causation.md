@@ -82,7 +82,7 @@ The agent's exercise of causal power is itself the explanation—a legitimate te
 
 ## Substance Causation and the Map's Framework
 
-[Substance causation](/concepts/substance-causation/) holds that substances—persisting things with causal powers—are the fundamental causal agents, and events are what substances do, not independent causal relata. If all causation is fundamentally substances exercising powers (Lowe, O'Connor), then consciousness causing physical events isn't metaphysically exceptional. This reframes the [causal closure objection](/archive/arguments/interactionist-dualism/#the-causal-closure-argument): physics describes regularities in what substances do; it doesn't prove substances are exclusively physical.
+[Substance causation](/concepts/substance-causation/) holds that substances—persisting things with causal powers—are the fundamental causal agents, and events are what substances do, not independent causal relata. If all causation is fundamentally substances exercising powers (Lowe, O'Connor), then consciousness causing physical events isn't metaphysically exceptional. This reframes the [causal closure objection](/concepts/interactionist-dualism/#the-causal-closure-argument): physics describes regularities in what substances do; it doesn't prove substances are exclusively physical.
 
 The Map specifies *where* agent causation interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. The agent selects among quantum possibilities—exercising the same kind of causal power that all substances exercise.
 
@@ -168,7 +168,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main 
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — Deliberation, decision, authorship
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Generation beyond selection
 - [free-will](/topics/free-will/) — The broader question and Map's position
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — Mind-body interaction
+- [interactionist-dualism](/concepts/interactionist-dualism/) — Mind-body interaction
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-physics interface
 - [luck-objection](/concepts/luck-objection/) — Full response to the luck challenge
 - [motor-selection](/concepts/motor-selection/) — Motor control as supporting domain

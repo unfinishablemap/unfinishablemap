@@ -27,7 +27,7 @@ title: Locality and Mind-Matter Interaction
 topics: []
 ---
 
-The locality problem asks: if consciousness influences quantum events in the brain, where exactly does this happen? This seems to require consciousness to have spatial properties, coordinating across potentially billions of sites. The objection appears strong—until we consider what the universe already accomplishes, what [dualism](/archive/arguments/interactionist-dualism/) actually implies about the "mind side," and what computational contexts reveal about interaction.
+The locality problem asks: if consciousness influences quantum events in the brain, where exactly does this happen? This seems to require consciousness to have spatial properties, coordinating across potentially billions of sites. The objection appears strong—until we consider what the universe already accomplishes, what [dualism](/concepts/interactionist-dualism/) actually implies about the "mind side," and what computational contexts reveal about interaction.
 
 The concern rests on unstated assumptions about how non-physical causation must work. Examining these assumptions dissolves much of the apparent difficulty. For the more specific question of why consciousness acts on *this* brain rather than others, and what makes brains suitable interfaces at all, see [brain-interface-boundary](/concepts/brain-interface-boundary/).
 

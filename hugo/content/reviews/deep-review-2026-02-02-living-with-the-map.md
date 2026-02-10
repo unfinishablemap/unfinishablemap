@@ -58,7 +58,7 @@ Added inbound links from 5 articles to address orphan status:
 - [meaning-of-life](/topics/meaning-of-life/) — Added link in "What Makes a Life Meaningful?" section
 - [free-will](/topics/free-will/) — Added link in "The Picture That Emerges" section
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Added link in Summary section
-- [existentialism](/archive/concepts/existentialism/) — Added link in "No Many Worlds" connection section
+- [existentialism](/concepts/existentialism/) — Added link in "No Many Worlds" connection section
 - [moral-responsibility](/concepts/moral-responsibility/) — Added link in "Self-Understanding" section
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — Added link in Implications section
 

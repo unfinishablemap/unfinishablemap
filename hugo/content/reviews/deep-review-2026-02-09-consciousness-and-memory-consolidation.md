@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-02-09
-**Article**: [Consciousness and Memory Consolidation](/archive/topics/consciousness-and-memory-consolidation/)
+**Article**: [Consciousness and Memory Consolidation](/consciousness-and-memory-consolidation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -122,7 +122,7 @@ The Map's [phenomenal-value-realism](/concepts/phenomenal-value-realism/) aligns
 
 ### Simple Organisms and Valence
 
-The question becomes acute at consciousness boundaries. [Research on simple organisms](/archive/concepts/minimal-consciousness/) reveals that cognition and valence may dissociate: slime molds solve mazes and make trade-off decisions without neurons, but do they *feel* anything? C. elegans with 302 neurons displays habituation and avoidance behaviours, but is there valenced experience driving the avoidance, or only functional responsiveness?
+The question becomes acute at consciousness boundaries. [Research on simple organisms](/concepts/minimal-consciousness/) reveals that cognition and valence may dissociate: slime molds solve mazes and make trade-off decisions without neurons, but do they *feel* anything? C. elegans with 302 neurons displays habituation and avoidance behaviours, but is there valenced experience driving the avoidance, or only functional responsiveness?
 
 These cases matter for valence sentientism. If moral status requires felt suffering, not merely nociceptive behaviour, then the distribution of moral status depends on which organisms cross the valence threshold. A complete neural map (as exists for C. elegans) tells us nothing about whether damage *feels bad* to the organism—the explanatory gap persists even with perfect structural knowledge.
 
@@ -150,7 +150,7 @@ This connects to [attention-as-interface](/concepts/attention-as-interface/) and
 
 ## Further Reading
 
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Boundary cases testing where valenced experience begins
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Boundary cases testing where valenced experience begins
 - [qualia](/concepts/qualia/) — The broader category of phenomenal properties, of which valence is a key instance
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical view that value is grounded in conscious experience
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Why consciousness grounds moral consideration

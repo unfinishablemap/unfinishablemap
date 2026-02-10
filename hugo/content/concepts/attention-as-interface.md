@@ -56,7 +56,7 @@ Attention functions as the **interface layer** between consciousness and neural 
 |-------|-------------|
 | Attention is not identical to consciousness | Explains dissociation evidence (consciousness without attention, attention without consciousness) |
 | Attention mediates consciousness's causal influence | Specifies the downward direction of bidirectional interaction |
-| Consciousness can only influence what it attends to | Explains [brain specialness](/archive/concepts/interface-locality/)—why not psychokinesis |
+| Consciousness can only influence what it attends to | Explains [brain specialness](/interface-locality/)—why not psychokinesis |
 | Attention has bandwidth limits (~10 bits/second) | Constrains what consciousness can select |
 | The quantum Zeno effect is a candidate mechanism | Rapid observation holds desired neural patterns (alternative mechanisms possible) |
 
@@ -64,7 +64,7 @@ This gives attention a distinctive role: not mere information processing, but th
 
 ## Why Not Direct Causation?
 
-If consciousness can influence matter, why not everywhere? The [interface-locality](/archive/concepts/interface-locality/) article develops this in detail: attention requires neural infrastructure (you can only attend to what attention networks can target), the quantum Zeno effect requires rapid observation achievable only within neural systems, and [selection](/questions/consciousness-selecting-neural-patterns/) works by biasing ongoing neural competition that external systems aren't part of. Consciousness influences matter where attention can operate.
+If consciousness can influence matter, why not everywhere? The [interface-locality](/interface-locality/) article develops this in detail: attention requires neural infrastructure (you can only attend to what attention networks can target), the quantum Zeno effect requires rapid observation achievable only within neural systems, and [selection](/questions/consciousness-selecting-neural-patterns/) works by biasing ongoing neural competition that external systems aren't part of. Consciousness influences matter where attention can operate.
 
 ## Voluntary Attention Mechanisms
 
@@ -87,7 +87,7 @@ Where in the brain does the interface operate? Research identifies several candi
 | **Cortical microcolumns** | ~100-neuron coherence domains | Coarse-grained selection matching ~10 bits/second bandwidth |
 | **Microtubules (Orch OR)** | 2025: room-temperature quantum effects, anesthetic targeting | Attention might select which ensembles undergo coordinated collapse |
 
-The 2025 COGITATE adversarial testing suggests attention networks (frontoparietal) may be distinct from consciousness networks (posterior hot zone). Selection might occur where these systems meet. For detailed analysis of each site including timing constraints and testable predictions, see [Mechanisms of the Attention-Consciousness Interface](/archive/topics/attention-interface-mechanisms/).
+The 2025 COGITATE adversarial testing suggests attention networks (frontoparietal) may be distinct from consciousness networks (posterior hot zone). Selection might occur where these systems meet. For detailed analysis of each site including timing constraints and testable predictions, see [Mechanisms of the Attention-Consciousness Interface](/attention-interface-mechanisms/).
 
 ## The Bandwidth Constraint
 
@@ -156,7 +156,7 @@ No other cognitive process occupies this exact position. Emotion, perception, me
 
 Might emotion, volition, or imagination be separate interfaces? The unified view: **attention is the sole interface operating across multiple domains**.
 
-**Emotion** provides *input* to consciousness (valence signals) rather than being an interface itself. You can feel afraid but choose (through attention) to act bravely. Emotion provides reasons for selection; attention is *how* selection occurs. See [emotional-consciousness](/archive/concepts/emotional-consciousness/).
+**Emotion** provides *input* to consciousness (valence signals) rather than being an interface itself. You can feel afraid but choose (through attention) to act bravely. Emotion provides reasons for selection; attention is *how* selection occurs. See [emotional-consciousness](/topics/emotional-consciousness/).
 
 **Volition** shows striking convergence with attention: [motor-selection](/concepts/motor-selection/) research finds willed movement shares willed attention's neural signatures (frontal theta, ~300ms deployment, bidirectional frontoparietal coherence). Motor volition may *be* motor attention—the same interface applied to action rather than perception.
 
@@ -214,13 +214,13 @@ This transforms philosophical assertion into empirical program. Whether the hypo
 
 ## Further Reading
 
-**Core concepts**: [attention](/concepts/attention/), [voluntary-attention](/concepts/voluntary-attention/), [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/), [psychophysical-coupling](/concepts/psychophysical-coupling/), [interface-locality](/archive/concepts/interface-locality/), [coupling-modes](/concepts/coupling-modes/), [Attention Disorders and the Interface](/topics/attention-disorders-and-quantum-interface/)
+**Core concepts**: [attention](/concepts/attention/), [voluntary-attention](/concepts/voluntary-attention/), [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/), [psychophysical-coupling](/concepts/psychophysical-coupling/), [interface-locality](/interface-locality/), [coupling-modes](/concepts/coupling-modes/), [Attention Disorders and the Interface](/topics/attention-disorders-and-quantum-interface/)
 
-**Mechanisms**: [Mechanisms of the Attention-Consciousness Interface](/archive/topics/attention-interface-mechanisms/) — candidate neural sites, timing constraints, and testable predictions
+**Mechanisms**: [Mechanisms of the Attention-Consciousness Interface](/attention-interface-mechanisms/) — candidate neural sites, timing constraints, and testable predictions
 
 **Quantum approaches**: [quantum-consciousness](/concepts/quantum-consciousness/), [decoherence](/concepts/decoherence/), [many-worlds](/arguments/many-worlds/)
 
-**Related domains**: [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/), [emotional-consciousness](/archive/concepts/emotional-consciousness/), [motor-selection](/concepts/motor-selection/), [consciousness-and-creativity](/concepts/consciousness-and-creativity/)
+**Related domains**: [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/), [emotional-consciousness](/topics/emotional-consciousness/), [motor-selection](/concepts/motor-selection/), [consciousness-and-creativity](/concepts/consciousness-and-creativity/)
 
 **Alternative perspectives**: [illusionism](/concepts/illusionism/), [mysterianism](/concepts/mysterianism/), [haecceity](/concepts/haecceity/)
 

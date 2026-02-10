@@ -55,7 +55,7 @@ To affective-void.md:
 From other articles to affective-void.md (orphan integration):
 - [voids](/voids/) — Added to "Specific Voids" navigation section
 - [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — Added in "Space of Possible Minds" section
-- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — Added in "Challenges and Open Questions" section
+- [emotional-consciousness](/topics/emotional-consciousness/) — Added in "Challenges and Open Questions" section
 - [qualia](/concepts/qualia/) — Added in "Extensions" section of Further Reading
 - [mysterianism](/concepts/mysterianism/) — Added in Further Reading section
 

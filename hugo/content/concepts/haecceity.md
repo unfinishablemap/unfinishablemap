@@ -175,7 +175,7 @@ Buddhist philosophy, particularly Madhyamaka, argues that the self is *sunyata* 
 
 **Response**: The Buddhist analysis may be compatible with a refined haecceitism. The self can be empty of *qualitative* essence while still being *this* particular process. Consider: Buddhist philosophy doesn't deny that *this* person experiences *this* moment—it denies that there's a permanent, unchanging self underlying the experience. But haecceity doesn't require permanence; it requires particularity. *This* stream of experience, however impermanent and constructed, is still distinguishable from *that* stream. The indexical fact remains even if the referent is a process rather than a substance.
 
-This interpretation suggests haecceity may be more about the particularity of experiential processes than about substantial souls—a view potentially compatible with both [Buddhist insights](/concepts/buddhism-and-dualism/) and the Map's framework. The [Eastern Philosophy–Haecceity Tension](/archive/topics/eastern-philosophy-haecceity-tension/) article develops this compatibility in detail, arguing that "process haecceitism" can apply to impermanent streams of experience without requiring permanent souls.
+This interpretation suggests haecceity may be more about the particularity of experiential processes than about substantial souls—a view potentially compatible with both [Buddhist insights](/concepts/buddhism-and-dualism/) and the Map's framework. The [Eastern Philosophy–Haecceity Tension](/eastern-philosophy-haecceity-tension/) article develops this compatibility in detail, arguing that "process haecceitism" can apply to impermanent streams of experience without requiring permanent souls.
 
 ## Process Philosophy and Haecceity
 

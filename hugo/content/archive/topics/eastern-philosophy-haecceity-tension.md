@@ -219,7 +219,7 @@ Process haecceitism is not the simplest view. Anti-haecceitism (identity superve
 - [vertiginous-question](/topics/vertiginous-question/) — Why am I *this* conscious being?
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Detailed compatibility analysis
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Buddhist phenomenology and consciousness
-- [eastern-metaphysics-integration](/archive/topics/eastern-metaphysics-integration/) — Hindu, Buddhist, and Taoist frameworks
+- [eastern-metaphysics-integration](/eastern-metaphysics-integration/) — Hindu, Buddhist, and Taoist frameworks
 - [witness-consciousness](/concepts/witness-consciousness/) — The *sakshi* and subject-object structure
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework and Buddhist parallels
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal self vs. narrative self

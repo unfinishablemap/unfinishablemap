@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-27
-**Article**: [Consciousness As Intelligence Amplifier](/archive/topics/consciousness-as-intelligence-amplifier/)
+**Article**: [Consciousness As Intelligence Amplifier](/consciousness-as-intelligence-amplifier/)
 **Previous review**: [2026-01-25 (but article was substantially rewritten 2026-01-27)](/reviews/deep-review-2026-01-25-consciousness-as-intelligence-amplifier/)
 
 ## Context

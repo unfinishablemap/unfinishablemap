@@ -51,12 +51,12 @@ None
 - Added cross-reference to [binding-problem](/concepts/binding-problem/) for detailed evidence
 - Added [explanatory-gap](/concepts/explanatory-gap/) wikilink in explanatory gap discussion
 - Added [explanatory-gap](/concepts/explanatory-gap/) to concepts frontmatter
-- Added [interactionist-dualism](/archive/arguments/interactionist-dualism/) to related_articles frontmatter
+- Added [interactionist-dualism](/concepts/interactionist-dualism/) to related_articles frontmatter
 
 ### Cross-links Added
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [quantum-consciousness](/concepts/quantum-consciousness/)
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/)
+- [interactionist-dualism](/concepts/interactionist-dualism/)
 
 ## Remaining Items
 

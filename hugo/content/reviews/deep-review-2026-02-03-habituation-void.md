@@ -57,7 +57,7 @@ None.
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Listed in Further Reading
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Listed in Further Reading
 - [filter-theory](/concepts/filter-theory/) — Inline link in slime mold section + Further Reading entry
-- [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) — Listed in Further Reading
+- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Listed in Further Reading
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — Listed in Further Reading
 
 **Total inbound links created**: 7 (from 0)

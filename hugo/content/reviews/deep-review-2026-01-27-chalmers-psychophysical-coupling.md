@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-27
-**Article**: [Chalmers on Psychophysical Coupling](/archive/topics/chalmers-psychophysical-coupling/)
+**Article**: [Chalmers on Psychophysical Coupling](/chalmers-psychophysical-coupling/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

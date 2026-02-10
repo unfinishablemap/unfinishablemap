@@ -139,7 +139,7 @@ The Map's framework is best understood as *emergentist interactionism*: consciou
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem strong emergence addresses
 - [causal-closure](/concepts/causal-closure/) — The principle strong emergentism must deny
 - [reductionism](/concepts/reductionism/) — The three types and why consciousness resists each
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The Map's framework as strong emergentism with mechanism
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's framework as strong emergentism with mechanism
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge at the same boundary
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — How mind and matter might be lawfully connected
 

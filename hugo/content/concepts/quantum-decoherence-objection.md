@@ -155,7 +155,7 @@ The existence of quantum effects in avian magnetoreception demonstrates a crucia
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum approaches to consciousness
 - [decoherence](/concepts/decoherence/) — The physical process and its implications for measurement
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve collapse
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — How consciousness might influence physical outcomes
+- [interactionist-dualism](/concepts/interactionist-dualism/) — How consciousness might influence physical outcomes
 - [illusionism](/concepts/illusionism/) — The strongest physicalist challenge to taking consciousness seriously
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of human understanding
 - [free-will](/topics/free-will/) — How quantum indeterminacy might ground libertarian agency

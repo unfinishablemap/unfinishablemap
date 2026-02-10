@@ -103,7 +103,7 @@ If MWI is false, choices have unique significance. You chose A, period. That's t
 
 ### Your Identity Is Unrepeatable
 
-This connects to [personal-identity](/topics/personal-identity/). If Parfit were right that you're interchangeable with any psychological replica, your particular existence would seem less significant. But if *you* are this unrepeatable conscious being, your existence has unique significance. No one else can live your life. The conscious experiences that constitute your life are *yours* in a way that can't be transferred—this particular conscious perspective, living this unrepeatable life. [Narrative integration](/archive/topics/consciousness-and-meaning-integration/)—the capacity to grasp how disparate experiences fit into a meaningful trajectory—is part of what makes a life *unified* rather than a mere sequence of moments.
+This connects to [personal-identity](/topics/personal-identity/). If Parfit were right that you're interchangeable with any psychological replica, your particular existence would seem less significant. But if *you* are this unrepeatable conscious being, your existence has unique significance. No one else can live your life. The conscious experiences that constitute your life are *yours* in a way that can't be transferred—this particular conscious perspective, living this unrepeatable life. [Narrative integration](/consciousness-and-meaning-integration/)—the capacity to grasp how disparate experiences fit into a meaningful trajectory—is part of what makes a life *unified* rather than a mere sequence of moments.
 
 ## Eastern Perspectives
 
@@ -153,7 +153,7 @@ The disanalogy is crucial. Moral intuitions are *about* external facts (what's r
 
 The illusionist faces a fundamental problem: the *seeming* of meaning must appear *to* something. Raymond Tallis: "Misrepresentation presupposes presentation." If the felt significance of a sunset is an illusion, something must be experiencing that illusion. The regress terminates in genuine experience—either the appearance is phenomenal (so phenomenal states exist) or nothing explains why experiences *seem* significant.
 
-Sartre's analysis of the *pour-soi* (being-for-itself) anticipated this point: consciousness cannot be objectified—turned into a thing with properties—without ceasing to be consciousness. The attempt to explain away phenomenal experience treats the subject as if it were an object with potentially illusory features. But consciousness is the perspective from which features appear, not a thing that appears. See [existentialism](/archive/concepts/existentialism/) for the full analysis.
+Sartre's analysis of the *pour-soi* (being-for-itself) anticipated this point: consciousness cannot be objectified—turned into a thing with properties—without ceasing to be consciousness. The attempt to explain away phenomenal experience treats the subject as if it were an object with potentially illusory features. But consciousness is the perspective from which features appear, not a thing that appears. See [existentialism](/concepts/existentialism/) for the full analysis.
 
 ### The Contemplative Challenge
 
@@ -259,8 +259,8 @@ The position takes seriously what we actually know: consciousness exists, it's r
 
 ### Core Concepts
 - [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — How consciousness weaves meanings into unified understanding and life trajectory
-- [nihilism](/archive/concepts/nihilism/) — The case for meaninglessness and responses to it
-- [existentialism](/archive/concepts/existentialism/) — Sartre's pour-soi and the phenomenology of freedom support consciousness-grounded meaning
+- [nihilism](/nihilism/) — The case for meaninglessness and responses to it
+- [existentialism](/concepts/existentialism/) — Sartre's pour-soi and the phenomenology of freedom support consciousness-grounded meaning
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical grounding for consciousness-based value
 - [Phenomenal Value Realism (Topic)](/concepts/phenomenal-value-realism/) — Extending phenomenal value realism to address metaethical challenges and value pluralism
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — How AI alignment depends on unresolved questions about meaning

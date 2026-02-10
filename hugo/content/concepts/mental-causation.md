@@ -51,7 +51,7 @@ The basic puzzle: if physical events have sufficient physical causes, what room 
 
 Consider your decision to speak. Neuroscience traces the causal chain: motor cortex activation → nerve signals → muscle contraction → sound waves. Each physical event has a physical cause. Where does "your decision" enter?
 
-If the decision is just identical to some brain state, there's no special problem—it's physical causation all the way down. But if mental properties are distinct from physical properties (as [dualism](/archive/arguments/interactionist-dualism/) holds), they seem to be causally excluded by their physical realizers.
+If the decision is just identical to some brain state, there's no special problem—it's physical causation all the way down. But if mental properties are distinct from physical properties (as [dualism](/concepts/interactionist-dualism/) holds), they seem to be causally excluded by their physical realizers.
 
 This is the exclusion problem: mental causes seem to compete with physical causes for the same effects.
 
@@ -168,7 +168,7 @@ This reframes mental causation as continuous with causation generally rather tha
 
 ### The Interface Question
 
-If consciousness causes physical effects, why only in *this* brain? The [pairing problem](/concepts/pairing-problem/) asks what connects a particular mind to a particular body. The Map's response: consciousness is spatially located where it causally interfaces with the brain. [Interface-locality](/archive/concepts/interface-locality/) constrains mental causation to neural systems already integrated into the subject's control loop—consciousness can only influence quantum systems it can "observe" through the [attention mechanism](/concepts/attention-as-interface/).
+If consciousness causes physical effects, why only in *this* brain? The [pairing problem](/concepts/pairing-problem/) asks what connects a particular mind to a particular body. The Map's response: consciousness is spatially located where it causally interfaces with the brain. [Interface-locality](/interface-locality/) constrains mental causation to neural systems already integrated into the subject's control loop—consciousness can only influence quantum systems it can "observe" through the [attention mechanism](/concepts/attention-as-interface/).
 
 ## The Self-Stultification Argument
 
@@ -240,14 +240,14 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [many-worlds](/arguments/many-worlds/) — Why the Map rejects MWI (and why it matters for mental causation)
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The cumulative case against epiphenomenalism (five arguments)
 - [causal-closure](/concepts/causal-closure/) — The principle mental causation challenges
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework that accommodates mental causation
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that accommodates mental causation
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view denying mental causation
 - [emergence](/concepts/emergence/) — Mental causation as strong emergence with mechanism
 - [agent-causation](/concepts/agent-causation/) — Agent causation as substance causation applied to free action
 - [substance-causation](/concepts/substance-causation/) — The metaphysical thesis that substances, not events, are fundamental causal agents
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How consciousness interfaces with physics
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening
-- [interface-locality](/archive/concepts/interface-locality/) — Why consciousness affects only its own brain
+- [interface-locality](/interface-locality/) — Why consciousness affects only its own brain
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention implements the consciousness-physics interface
 - [free-will](/topics/free-will/) — The implications for agency
 

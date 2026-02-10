@@ -55,7 +55,7 @@ Neuroplasticity is uncontroversial as neuroscience. The philosophical question i
 
 The standard materialist account: neural states cause other neural states. Learning produces plasticity because one brain configuration leads to another through physical mechanisms. Consciousness accompanies these processes but doesn't contribute to them.
 
-The [interactionist](/archive/arguments/interactionist-dualism/) account: consciousness can initiate the causal chain. Mental effort—the deliberate direction of attention—shapes which neural patterns are reinforced. The brain presents options; consciousness selects; selection produces plasticity.
+The [interactionist](/concepts/interactionist-dualism/) account: consciousness can initiate the causal chain. Mental effort—the deliberate direction of attention—shapes which neural patterns are reinforced. The brain presents options; consciousness selects; selection produces plasticity.
 
 Neuroplasticity alone doesn't settle this question. Both accounts accommodate the data. What matters is *which* experiences produce *which* changes—and whether purely physical descriptions capture the causal structure.
 
@@ -153,7 +153,7 @@ Neuroplasticity provides empirical support for several of The Unfinishable Map's
 
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful attention and its connection to mind-matter interaction
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism and the Schwartz collaboration
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The philosophical framework for consciousness-matter causation
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework for consciousness-matter causation
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates between consciousness and neural systems
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — Meditation research as evidence for consciousness theories
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view that consciousness doesn't cause anything

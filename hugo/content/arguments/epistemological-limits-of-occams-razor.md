@@ -27,7 +27,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Occam's Razor—the principle that simpler explanations should be preferred—is the most common objection to [dualism](/archive/arguments/interactionist-dualism/). Physicalism posits one kind of substance; dualism posits two. Case closed? The Unfinishable Map argues no. Parsimony fails as a decisive principle in the consciousness debate for reasons that are well-established in the philosophical literature but rarely assembled together. The precondition for applying parsimony—that competing theories explain the data equally well—is unmet. Simplicity itself fragments into conflicting dimensions that yield contradictory verdicts. And the accounts of *why* parsimony works in empirical science do not extend to metaphysical theory choice.
+Occam's Razor—the principle that simpler explanations should be preferred—is the most common objection to [dualism](/concepts/interactionist-dualism/). Physicalism posits one kind of substance; dualism posits two. Case closed? The Unfinishable Map argues no. Parsimony fails as a decisive principle in the consciousness debate for reasons that are well-established in the philosophical literature but rarely assembled together. The precondition for applying parsimony—that competing theories explain the data equally well—is unmet. Simplicity itself fragments into conflicting dimensions that yield contradictory verdicts. And the accounts of *why* parsimony works in empirical science do not extend to metaphysical theory choice.
 
 ## The Precondition Parsimony Requires
 

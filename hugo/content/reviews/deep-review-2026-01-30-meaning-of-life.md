@@ -33,7 +33,7 @@ None. The previous review (2026-01-21) addressed all major structural gaps.
 
 2. **Decoherence claim too dismissive**: "Recent research finding biological quantum effects" was hand-waving without citation or nuance. Resolution: Revised to acknowledge the genuine challenge while noting the contested status of neural quantum effects.
 
-3. **Existentialism link underdeveloped**: The article had [existentialism](/archive/concepts/existentialism/) in frontmatter concepts but didn't integrate the new existentialism.md insights. Resolution: Added explicit cross-reference in illusionism section and enhanced Further Reading entry.
+3. **Existentialism link underdeveloped**: The article had [existentialism](/concepts/existentialism/) in frontmatter concepts but didn't integrate the new existentialism.md insights. Resolution: Added explicit cross-reference in illusionism section and enhanced Further Reading entry.
 
 ### Counterarguments Considered
 
@@ -66,7 +66,7 @@ None. The previous review (2026-01-21) addressed all major structural gaps.
 
 ### Cross-links Added
 
-- [existentialism](/archive/concepts/existentialism/) — now explicitly linked in body text with explanation
+- [existentialism](/concepts/existentialism/) — now explicitly linked in body text with explanation
 
 ### Length-Neutral Edits
 

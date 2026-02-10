@@ -324,7 +324,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Does the interface vary across species and states?
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
 - [mental-causation](/concepts/mental-causation/) — Why selection addresses the exclusion problem
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The philosophical framework
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework
 - [tenets](/tenets/) — the Map's foundational commitments
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge and biological exceptions
 - [illusionism](/concepts/illusionism/) — The radical physicalist challenge and its problems

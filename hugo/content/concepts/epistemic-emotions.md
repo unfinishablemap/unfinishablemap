@@ -169,7 +169,7 @@ None of these conditions currently obtains.
 
 ## Further Reading
 
-- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — The phenomenology of emotion more broadly
+- [emotional-consciousness](/topics/emotional-consciousness/) — The phenomenology of emotion more broadly
 - [metacognition](/concepts/metacognition/) — The cognitive capacity enabling epistemic self-monitoring
 - [introspection](/concepts/introspection/) — First-person access to epistemic states
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has phenomenal character

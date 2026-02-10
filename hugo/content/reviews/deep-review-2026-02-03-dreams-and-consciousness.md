@@ -59,14 +59,14 @@ None. The article has been reviewed twice previously and addresses counterargume
 - Appropriate quantum speculation hedging
 
 ### Enhancements Made
-1. Cross-link to [interactionist-dualism](/archive/arguments/interactionist-dualism/) added in Minimal Quantum Interaction tenet section (~5 words)
+1. Cross-link to [interactionist-dualism](/concepts/interactionist-dualism/) added in Minimal Quantum Interaction tenet section (~5 words)
 2. Type-B physicalism acknowledgment with cross-reference to lucid dreaming article (~40 words)
 3. Phenomenology of foreclosure insight added to No Many Worlds section (~50 words)
 4. REM/NREM claim softened to remove unsupported specific percentages (~5 words net change)
-5. [interactionist-dualism](/archive/arguments/interactionist-dualism/) added to frontmatter concepts
+5. [interactionist-dualism](/concepts/interactionist-dualism/) added to frontmatter concepts
 
 ### Cross-links Added
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) (frontmatter + body text)
+- [interactionist-dualism](/concepts/interactionist-dualism/) (frontmatter + body text)
 - [lucid-dreaming-and-consciousness](/topics/lucid-dreaming-and-consciousness/#type-b-physicalism-and-the-lucidity-transition) (new cross-reference)
 
 ## Remaining Items

@@ -28,7 +28,7 @@ topics: []
    - **Resolution**: Added new subsection "Frankish's Response and Its Limits" with three counter-arguments (explanatory relocation, zombie reformulation, phenomenology of seeming).
 
 2. **Quantum mechanism vague**: Minimal Quantum Interaction tenet section made analogy to quantum biasing without specifying mechanism.
-   - **Resolution**: Rewrote to reference quantum Zeno effect, added cross-link to [interactionist-dualism](/archive/arguments/interactionist-dualism/), explained how sustained attention could stabilise neural patterns at quantum branching points, and why variable control success fits minimal intervention model.
+   - **Resolution**: Rewrote to reference quantum Zeno effect, added cross-link to [interactionist-dualism](/concepts/interactionist-dualism/), explained how sustained attention could stabilise neural patterns at quantum branching points, and why variable control success fits minimal intervention model.
 
 3. **No Process Philosophy section**: Other Map articles include this perspective; this one lacked it entirely.
    - **Resolution**: Added new "Process Philosophy Perspective" section covering Whitehead's actual occasions, prehension of dream-as-dream, conceptual reversion, and mental/physical pole balance.
@@ -72,7 +72,7 @@ topics: []
 
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — in Metacognition section
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — in Voluntary Control section
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — in Relation to Site Perspective (Minimal Quantum Interaction)
+- [interactionist-dualism](/concepts/interactionist-dualism/) — in Relation to Site Perspective (Minimal Quantum Interaction)
 
 All three added to frontmatter concepts and Further Reading.
 

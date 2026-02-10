@@ -157,7 +157,7 @@ The bidirectional relationship between time and consciousness connects to all fi
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present, temporal binding, and AI implications
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, presentism, eternalism, growing block
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — The Map's full framework on time, collapse, and agency
-- [time-perception-consciousness-theories](/archive/topics/time-perception-consciousness-theories/) — How consciousness theories fail on temporal phenomenology
+- [time-perception-consciousness-theories](/time-perception-consciousness-theories/) — How consciousness theories fail on temporal phenomenology
 - [duration](/concepts/duration/) — Bergson's durée and qualitative lived time
 - [specious-present](/concepts/specious-present/) — The experienced duration of the present moment
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow

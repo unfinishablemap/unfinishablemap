@@ -148,7 +148,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [prospective-memory](/concepts/prospective-memory/)
 - [memory-void](/voids/memory-void/)
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
-- [consciousness-independent-baseline-cognition](/archive/concepts/consciousness-independent-baseline-cognition/)
+- [consciousness-independent-baseline-cognition](/consciousness-independent-baseline-cognition/)
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/)
 - [binding-problem](/concepts/binding-problem/)
 - [attention-as-interface](/concepts/attention-as-interface/)

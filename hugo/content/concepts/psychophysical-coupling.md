@@ -48,7 +48,7 @@ topics:
 - '[[mental-causation]]'
 ---
 
-If consciousness "selects" quantum outcomes—as The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds—there must be a psychophysical coupling law: a stable mapping from conscious contents to physical selections. Without specifying this law, "selection" remains a metaphor rather than a research program. [Interactionist dualism](/archive/arguments/interactionist-dualism/) faces a specification problem: *which* phenomenal properties map to *which* physical selections with enough precision to generate falsifiable predictions?
+If consciousness "selects" quantum outcomes—as The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds—there must be a psychophysical coupling law: a stable mapping from conscious contents to physical selections. Without specifying this law, "selection" remains a metaphor rather than a research program. [Interactionist dualism](/concepts/interactionist-dualism/) faces a specification problem: *which* phenomenal properties map to *which* physical selections with enough precision to generate falsifiable predictions?
 
 David Chalmers argued that consciousness requires new fundamental laws linking phenomenal and physical properties. The Map's framework requires a specific kind: laws specifying how mental states (intentions, attention, effort) map to which quantum outcomes become actual. This article articulates the problem, surveys candidate laws and mechanisms, and evaluates what would make a coupling specification scientifically adequate.
 
@@ -334,12 +334,12 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Chalmers' foundational framework
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The mechanism the coupling law governs
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Major theories of quantum-consciousness interface
-- [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions
+- [attention-interface-mechanisms](/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions
 - [mental-effort](/concepts/mental-effort/) — The phenomenology Stapp's mechanism requires
 - [attention](/concepts/attention/) — The attention-consciousness relationship
 - [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) — Evidence that attention and consciousness are separable processes
 - [mental-causation](/concepts/mental-causation/) — How coupling addresses exclusion arguments
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework requiring coupling laws
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The framework requiring coupling laws
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of attention-observation mechanism
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy of how consciousness might couple: basis, timing, or probability control
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Detailed mechanistic analysis of the five candidate coupling mechanisms

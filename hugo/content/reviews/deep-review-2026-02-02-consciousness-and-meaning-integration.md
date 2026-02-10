@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Consciousness and Meaning Integration](/archive/topics/consciousness-and-meaning-integration/)
+**Article**: [Consciousness and Meaning Integration](/consciousness-and-meaning-integration/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

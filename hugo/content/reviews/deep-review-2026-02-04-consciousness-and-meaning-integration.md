@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-04
-**Article**: [Consciousness and Meaning Integration](/archive/topics/consciousness-and-meaning-integration/)
+**Article**: [Consciousness and Meaning Integration](/consciousness-and-meaning-integration/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-consciousness-and-meaning-integration/)
 
 ## Context
@@ -55,7 +55,7 @@ None to the article itself—content was stable from previous review.
 
 Added inbound links from the following articles:
 
-1. **[meaning-and-consciousness](/archive/topics/meaning-and-consciousness/)** — Added inline reference in the PCT discussion and Further Reading link
+1. **[meaning-and-consciousness](/meaning-and-consciousness/)** — Added inline reference in the PCT discussion and Further Reading link
 2. **[cognitive-phenomenology](/concepts/cognitive-phenomenology/)** — Added inline reference in the PCT section and Further Reading link
 3. **[phenomenal-unity](/concepts/phenomenal-unity/)** — Added reference noting meaning integration as parallel problem to perceptual unity, and Further Reading link
 4. **[binding-problem](/concepts/binding-problem/)** — Added reference in the language/cognitive binding section and Further Reading link

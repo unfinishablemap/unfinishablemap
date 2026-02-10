@@ -62,7 +62,7 @@ Decoherence explains why we don't observe superpositions—interference effects 
 
 As the Stanford Encyclopedia of Philosophy states: "Decoherence as such does not provide a solution to the measurement problem, at least not unless it is combined with an appropriate foundational approach." The dedicated [measurement problem article](/concepts/measurement-problem/) explores the various interpretations (Copenhagen, Many-Worlds, GRW, Bohmian, consciousness-based) and why The Unfinishable Map rejects Many-Worlds while remaining open to consciousness-based approaches.
 
-This distinction—between **basis selection** (which basis becomes preferred) and **outcome selection** (which particular outcome actualizes)—is crucial and often missed. The [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) article emphasizes this point: decoherence explains why we observe position eigenstates rather than momentum eigenstates, for instance, but it does not explain why we observe *this particular position* rather than that one. The measurement problem persists after decoherence. See [quantum-measurement-and-definite-outcomes](/archive/topics/quantum-measurement-and-definite-outcomes/) for extended analysis of this gap and how consciousness might fill it. The [synthesis of the measurement problem and hard problem](/archive/topics/consciousness-and-quantum-measurement/) develops this further: both concern where first-person facts enter third-person descriptions.
+This distinction—between **basis selection** (which basis becomes preferred) and **outcome selection** (which particular outcome actualizes)—is crucial and often missed. The [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) article emphasizes this point: decoherence explains why we observe position eigenstates rather than momentum eigenstates, for instance, but it does not explain why we observe *this particular position* rather than that one. The measurement problem persists after decoherence. See [quantum-measurement-and-definite-outcomes](/quantum-measurement-and-definite-outcomes/) for extended analysis of this gap and how consciousness might fill it. The [synthesis of the measurement problem and hard problem](/consciousness-and-quantum-measurement/) develops this further: both concern where first-person facts enter third-person descriptions.
 
 This matters for the Map's perspective. If decoherence fully explained measurements, consciousness would have no role. But decoherence merely establishes preferred bases—it doesn't collapse them. Something must select which outcome occurs. The [No Many Worlds](/tenets/#no-many-worlds) tenet holds that outcomes are genuinely selected, not merely experienced in branching universes. Consciousness remains a candidate for what does the selecting.
 
@@ -186,7 +186,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is releva
 
 ## Further Reading
 
-- [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions for the interface
+- [attention-interface-mechanisms](/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions for the interface
 - [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — Detailed analysis of Tegmark's critique and responses
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve the measurement problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interaction
@@ -196,7 +196,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is releva
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention relates to the quantum Zeno mechanism
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge to consciousness studies
 - [many-worlds](/arguments/many-worlds/) — Arguments against the interpretation that dissolves the measurement problem differently
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The broader framework
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework
 - [tenets](/tenets/) — the Map's foundational commitments
 - [decoherence-macroscopic-superposition-2026-01-14](/research/decoherence-macroscopic-superposition-2026-01-14/) — Detailed research notes
 

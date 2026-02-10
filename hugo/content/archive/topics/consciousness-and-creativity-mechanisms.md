@@ -67,7 +67,7 @@ How might generation work mechanistically?
 
 **Constraint relaxation:** Margaret Boden's transformational creativity—changing the rules themselves—requires representing the current rule-system as an object of thought, then modifying it. The mechanism involves the brain's capacity for [metarepresentation](/concepts/metarepresentation/): representing representations. When you imagine a rule-change, you're attending to the rule (holding it in working memory), then attending to modifications of it (exploring the space of alternative rules).
 
-Does this generation require consciousness, or could unconscious processes do the same work? The evidence from [baseline-cognition](/archive/topics/baseline-cognition/) suggests consciousness matters: great apes innovate within the "zone of latent solutions" (recombinations reachable without transcending current representations) but don't achieve transformational creativity. The difference tracks precisely those cognitive functions that require conscious access.
+Does this generation require consciousness, or could unconscious processes do the same work? The evidence from [baseline-cognition](/concepts/baseline-cognition/) suggests consciousness matters: great apes innovate within the "zone of latent solutions" (recombinations reachable without transcending current representations) but don't achieve transformational creativity. The difference tracks precisely those cognitive functions that require conscious access.
 
 ## Network Switching as Mechanism
 
@@ -182,14 +182,14 @@ Current evidence doesn't support any of these conditions.
 ## Further Reading
 
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis in conceptual overview
-- [creativity-and-novel-combination](/archive/topics/creativity-and-novel-combination/) — How consciousness enables escaping the zone of latent solutions
+- [creativity-and-novel-combination](/creativity-and-novel-combination/) — How consciousness enables escaping the zone of latent solutions
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention's role as the interface between consciousness and matter
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The quantum Zeno mechanism for selection
 - [duration](/concepts/duration/) — Bergson's lived time as inherently creative
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for mental causation including creative generation
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and its neural correlates
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum approaches to consciousness including Orch OR
-- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition achieves without consciousness
+- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
 - [metarepresentation](/concepts/metarepresentation/) — The capacity to represent representations
 - [creativity-void](/voids/creativity-void/) — Why the creative source remains phenomenologically hidden
 

@@ -69,7 +69,7 @@ The amplification thesis applies differently to each:
 
 ## The Baseline Cognition Hypothesis
 
-Great apes represent sophisticated [baseline-cognition](/archive/topics/baseline-cognition/)—what neurons can achieve without substantial conscious contribution. The baseline cognition concept provides the complementary framework to amplification: it characterises the starting point from which consciousness amplifies, showing what domain-specific excellence looks like before metarepresentational capacities are added. This isn't to deny great ape consciousness; they likely have genuine phenomenal experience. But the hypothesis proposes their consciousness may differ qualitatively from human consciousness in ways that limit cognitive amplification.
+Great apes represent sophisticated [baseline-cognition](/concepts/baseline-cognition/)—what neurons can achieve without substantial conscious contribution. The baseline cognition concept provides the complementary framework to amplification: it characterises the starting point from which consciousness amplifies, showing what domain-specific excellence looks like before metarepresentational capacities are added. This isn't to deny great ape consciousness; they likely have genuine phenomenal experience. But the hypothesis proposes their consciousness may differ qualitatively from human consciousness in ways that limit cognitive amplification.
 
 Evidence supporting this framework:
 
@@ -198,7 +198,7 @@ Several findings would substantially weaken the consciousness-as-amplifier hypot
 
 The [Dualism](/tenets/#dualism) tenet holds consciousness is irreducible to physical processes. The amplification hypothesis supports this: if consciousness genuinely amplifies cognition—contributing something neural processing alone cannot achieve—then consciousness has causal powers not derivable from physics. The systematic correspondence between consciousness-requiring capacities and the human-ape gap suggests consciousness adds something genuine. If consciousness were "just" brain activity, why would specifically conscious brain activity produce such distinctive effects?
 
-The stronger case for [interactionist dualism](/archive/arguments/interactionist-dualism/) requires showing that phenomenal consciousness specifically—not just its functional or neural correlates—makes a causal difference. The evolutionary argument targets this: if phenomenal consciousness is ontologically distinct from neural activity (as the [explanatory gap](/concepts/explanatory-gap/) suggests), and if it evolved, then it plausibly provides functional advantages selection preserved.
+The stronger case for [interactionist dualism](/concepts/interactionist-dualism/) requires showing that phenomenal consciousness specifically—not just its functional or neural correlates—makes a causal difference. The evolutionary argument targets this: if phenomenal consciousness is ontologically distinct from neural activity (as the [explanatory gap](/concepts/explanatory-gap/) suggests), and if it evolved, then it plausibly provides functional advantages selection preserved.
 
 ### Bidirectional Interaction
 
@@ -223,14 +223,14 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 ## Further Reading
 
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The formal evolutionary argument for mental causation
-- [baseline-cognition](/archive/topics/baseline-cognition/) — What neural systems achieve without conscious amplification
+- [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without conscious amplification
 - [working-memory](/concepts/working-memory/) — The neural workspace where amplification operates; maintenance/manipulation distinction
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness engages neural systems
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The felt structure of deliberate selection
 - [metarepresentation](/concepts/metarepresentation/) — Representing representations as representations
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The broadcasting account of conscious access
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The position the amplification evidence contradicts
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — How consciousness influences brain states
+- [interactionist-dualism](/concepts/interactionist-dualism/) — How consciousness influences brain states
 
 ## References
 

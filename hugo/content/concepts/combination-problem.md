@@ -29,7 +29,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The combination problem is the central challenge facing [panpsychism](/concepts/panpsychism/)—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James called this "the most peculiar puzzle" of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [interactionist framework](/archive/arguments/interactionist-dualism/) avoids the problem entirely by denying that matter has micro-experiences in the first place.
+The combination problem is the central challenge facing [panpsychism](/concepts/panpsychism/)—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James called this "the most peculiar puzzle" of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [interactionist framework](/concepts/interactionist-dualism/) avoids the problem entirely by denying that matter has micro-experiences in the first place.
 
 ## The Problem Stated
 
@@ -125,7 +125,7 @@ The structurally similar challenge at a different level suggests that the gap be
 
 ## The Map's Alternative
 
-The Map's [interactionist framework](/archive/arguments/interactionist-dualism/) avoids the combination problem entirely.
+The Map's [interactionist framework](/concepts/interactionist-dualism/) avoids the combination problem entirely.
 
 On this view, matter does not have micro-experiences. Consciousness is not ubiquitous but *distinct*—a separate ontological category that interacts with matter rather than constituting it. There's no need to explain how micro-experiences combine because there are no micro-experiences.
 
@@ -148,7 +148,7 @@ Can we test which problem is more tractable? Several lines of evidence bear on t
 
 **Quantum coherence measurements**: If consciousness operates at quantum indeterminacies, we should find quantum effects correlated with consciousness in ways that survive decoherence objections. Recent work (Kerskens & Pérez 2022-2023) reports MRI signals suggesting entanglement that tracks waking consciousness. If confirmed, this supports the interactionist mechanism without providing any evidence for how micro-experiences combine.
 
-**Simple organism studies**: Research on [C. elegans and Hydra](/archive/concepts/minimal-consciousness/) tests panpsychist predictions. If [phenomenal unity](/concepts/phenomenal-unity/) requires the combination of micro-experiences, we should see gradients of unity tracking complexity. But the evidence is ambiguous—302-neuron nematodes show integrated information (positive Phi) yet fail behavioral markers of unified consciousness. The combination mechanism, if real, doesn't manifest in observable correlates.
+**Simple organism studies**: Research on [C. elegans and Hydra](/concepts/minimal-consciousness/) tests panpsychist predictions. If [phenomenal unity](/concepts/phenomenal-unity/) requires the combination of micro-experiences, we should see gradients of unity tracking complexity. But the evidence is ambiguous—302-neuron nematodes show integrated information (positive Phi) yet fail behavioral markers of unified consciousness. The combination mechanism, if real, doesn't manifest in observable correlates.
 
 **Anesthesia and microtubules**: Studies showing that microtubule-stabilizing drugs delay anesthetic-induced unconsciousness (Wiest et al. 2024) support quantum mechanisms for consciousness without implicating micro-experience combination.
 
@@ -184,8 +184,8 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - [russellian-monism](/concepts/russellian-monism/) — A related framework also facing combination
 - [phenomenal-unity](/concepts/phenomenal-unity/) — Why experience is unified in the first place
 - [binding-problem](/concepts/binding-problem/) — The neural coordination challenge (related but distinct)
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Empirical testing ground in simple organisms
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The alternative avoiding the problem
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical testing ground in simple organisms
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The alternative avoiding the problem
 - [free-will](/topics/free-will/) — Mental causation implications of the interaction alternative
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem panpsychism aimed to solve
 - [qualia](/concepts/qualia/) — What must combine (or not)

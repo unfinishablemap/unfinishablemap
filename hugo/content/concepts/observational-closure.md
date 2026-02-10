@@ -40,7 +40,7 @@ This reframes the debate about mental causation. The standard causal closure arg
 
 The distinction separates two claims often conflated:
 
-**Universal closure**: Every physical event has a sufficient physical cause. No exceptions anywhere—in laboratories, in brains, in galaxies, everywhere. This is the metaphysical thesis that [interactionist-dualism](/archive/arguments/interactionist-dualism/) denies.
+**Universal closure**: Every physical event has a sufficient physical cause. No exceptions anywhere—in laboratories, in brains, in galaxies, everywhere. This is the metaphysical thesis that [interactionist-dualism](/concepts/interactionist-dualism/) denies.
 
 **Observational closure**: There are no observable violations of closure. Laboratory experiments, neuroscience studies, and physics measurements all find sufficient physical causes for physical effects. This is the empirical regularity that science has established.
 
@@ -136,7 +136,7 @@ The distinction between observational and universal closure is a key dialectical
 
 - [causal-closure](/concepts/causal-closure/) — The principle observational closure weakens
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's full theory using observational closure
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The view observational closure makes defensible
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The view observational closure makes defensible
 - [mental-causation](/concepts/mental-causation/) — What observational closure allows
 - [quantum-consciousness](/concepts/quantum-consciousness/) — One mechanism satisfying observational closure
 - [cognitive-closure](/concepts/cognitive-closure/) — A distinct epistemic concept

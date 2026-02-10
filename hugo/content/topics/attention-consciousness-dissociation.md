@@ -159,7 +159,7 @@ The illusionist response: "consciousness" is just what we call certain patterns 
 
 ### For Dualism
 
-The dissociation evidence fits naturally with [interactionist dualism](/archive/arguments/interactionist-dualism/). If consciousness is a non-physical subject that typically operates through attention mechanisms, dissociation is expected: the subject can receive content without actively engaging (peripheral awareness), and the mechanisms can operate without the subject (blindsight).
+The dissociation evidence fits naturally with [interactionist dualism](/concepts/interactionist-dualism/). If consciousness is a non-physical subject that typically operates through attention mechanisms, dissociation is expected: the subject can receive content without actively engaging (peripheral awareness), and the mechanisms can operate without the subject (blindsight).
 
 As argued in the previous section, this dissociation is not proof of dualism. A physicalist can read the same evidence as showing two distinct neural processes. But the consciousness-attention case is uniquely relevant to the dualism debate because one side of the dissociation—consciousness—is precisely the phenomenon whose physical reducibility is in question. The pattern of findings is what dualism predicts, and the hard problem gives reason to think this particular dissociation may not reduce to circuit-mapping in the way that face-object dissociation does.
 

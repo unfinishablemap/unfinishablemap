@@ -184,7 +184,7 @@ The Map's [tenets](/tenets/) converge on loss of consciousness as a domain where
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Loss of consciousness as part of the broader ASC spectrum
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
 - [near-death-experiences](/concepts/near-death-experiences/)
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/)
+- [interactionist-dualism](/concepts/interactionist-dualism/)
 - [death-and-consciousness](/topics/death-and-consciousness/)
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — The evolved mechanism of consciousness reduction and its distinct neural dynamics
 - [episodic-memory](/concepts/episodic-memory/) — Autobiographical memory and its vulnerability to consciousness disruption

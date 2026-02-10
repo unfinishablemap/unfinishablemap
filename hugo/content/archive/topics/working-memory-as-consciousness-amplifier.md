@@ -145,7 +145,7 @@ The Unfinishable Map's [tenets](/tenets/) commit to consciousness as causally ef
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness operates through attention
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive structure depends on expanded capacity
 - [metacognition](/concepts/metacognition/) — Self-monitoring as consciousness-enabled capacity
-- [baseline-cognition](/archive/topics/baseline-cognition/) — What neural systems achieve without conscious amplification
+- [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without conscious amplification
 - [metarepresentation](/concepts/metarepresentation/) — Representing representations as representations
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Thinking about what might have been
 - [consciousness-working-memory-2026-01-17](/research/consciousness-working-memory-2026-01-17/) — Research notes on WM and consciousness

@@ -47,7 +47,7 @@ Existential nihilism holds that life has no intrinsic meaning or purpose. The un
 
 This is perhaps the most common form of nihilism in contemporary culture. It often follows from atheism: if there is no God, no designer, no cosmic plan, then human existence is not *meant* for anything.
 
-Existential nihilism does not necessarily entail despair. One can acknowledge the absence of cosmic meaning while still finding life worth living. The existentialists, discussed in [existentialism](/archive/concepts/existentialism/), largely accept existential nihilism as a starting point but reject despair as the appropriate response.
+Existential nihilism does not necessarily entail despair. One can acknowledge the absence of cosmic meaning while still finding life worth living. The existentialists, discussed in [existentialism](/concepts/existentialism/), largely accept existential nihilism as a starting point but reject despair as the appropriate response.
 
 ### Moral Nihilism
 
@@ -140,7 +140,7 @@ The [mysterian](/concepts/mysterianism/) position adds a note of humility here. 
 ## Further Reading
 
 - [meaning-of-life](/topics/meaning-of-life/) - The positive case for consciousness-grounded meaning
-- [existentialism](/archive/concepts/existentialism/) - The philosophical response to nihilism
+- [existentialism](/concepts/existentialism/) - The philosophical response to nihilism
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) - Buddhist approaches to meaning and consciousness
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) - Why conscious experience grounds objective value
 - [free-will](/topics/free-will/) - The metaphysics of choice and why choices matter

@@ -47,7 +47,7 @@ This article focuses on *why* experience is unified—the explanatory challenge 
 
 ## The Phenomenon
 
-Phenomenal unity refers to the way conscious contents are bound together in experience. It has several dimensions (see [varieties-of-unity](/concepts/varieties-of-unity/) for detailed analysis). A parallel problem arises for *meaning*: [meaning integration](/archive/topics/consciousness-and-meaning-integration/) asks how consciousness weaves disparate semantic elements into unified comprehension—the unity of understanding, not just perception.
+Phenomenal unity refers to the way conscious contents are bound together in experience. It has several dimensions (see [varieties-of-unity](/concepts/varieties-of-unity/) for detailed analysis). A parallel problem arises for *meaning*: [meaning integration](/consciousness-and-meaning-integration/) asks how consciousness weaves disparate semantic elements into unified comprehension—the unity of understanding, not just perception.
 
 **Synchronic unity**: At any moment, all your experiences belong to one consciousness. Visual perception, auditory sensation, emotional feeling, and cognitive thought are unified rather than isolated. There is something it is like to have *all of them together*.
 
@@ -110,7 +110,7 @@ The binding problem is a neural engineering puzzle. Phenomenal unity is a philos
 
 The combination problem and phenomenal unity share a logical structure: both ask how plurality (of features, of micro-subjects) yields singularity (of experience, of macro-consciousness). The [emergence void](/voids/emergence-void/) frames this as a general cognitive limit: the inability to grasp how arrangement produces novelty appears at every level transition, but reaches its greatest depth at consciousness. Neither classical mechanisms nor panpsychist proposals have bridged this gap.
 
-The Map's [interactionist framework](/archive/arguments/interactionist-dualism/) avoids both problems. Consciousness is not constituted by combining physical parts (solving the unity puzzle) and matter has no micro-experiences to combine (avoiding the combination problem). Unity is fundamental rather than constructed.
+The Map's [interactionist framework](/concepts/interactionist-dualism/) avoids both problems. Consciousness is not constituted by combining physical parts (solving the unity puzzle) and matter has no micro-experiences to combine (avoiding the combination problem). Unity is fundamental rather than constructed.
 
 ## Why Classical Mechanisms Fail
 
@@ -201,7 +201,7 @@ These cases dissociate computational binding from phenomenal binding. The brain 
 
 ### Simple Organisms: Testing the Limits of Unity
 
-Research on [organisms at consciousness boundaries](/archive/concepts/minimal-consciousness/) offers natural experiments. **Hydra** has ~900 neurons in a decentralized nerve net with no central processing—if it has experience, is it unified? **C. elegans** (302 neurons) shows positive Phi but fails trace-conditioning, suggesting integration and phenomenal unity may not perfectly track each other. **Slime molds** solve mazes without any neurons, demonstrating that information integration alone doesn't produce the structures quantum approaches identify with conscious unity.
+Research on [organisms at consciousness boundaries](/concepts/minimal-consciousness/) offers natural experiments. **Hydra** has ~900 neurons in a decentralized nerve net with no central processing—if it has experience, is it unified? **C. elegans** (302 neurons) shows positive Phi but fails trace-conditioning, suggesting integration and phenomenal unity may not perfectly track each other. **Slime molds** solve mazes without any neurons, demonstrating that information integration alone doesn't produce the structures quantum approaches identify with conscious unity.
 
 These cases suggest phenomenal unity may require quantum mechanisms: classical integration happens in distributed systems like Hydra and slime molds, yet neither shows behavioral markers of unified consciousness. If quantum entanglement provides genuine holism where classical coordination cannot, organisms lacking quantum-coherent neural structures would lack unity even while processing information.
 
@@ -235,7 +235,7 @@ Phenomenal unity illuminates why the Map's [tenets](/tenets/) take the positions
 - [agent-causation](/concepts/agent-causation/) — Unity as precondition for coherent agency
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's approach through integration
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on unity
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Boundary cases testing unity in simple organisms
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Boundary cases testing unity in simple organisms
 - [mind-brain-separation](/concepts/mind-brain-separation/) — Unity as intrinsically mental faculty
 - [self-and-consciousness](/concepts/self-and-consciousness/) — The subject who has unified experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why experience exists at all

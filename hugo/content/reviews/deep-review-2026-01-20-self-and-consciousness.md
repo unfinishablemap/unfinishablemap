@@ -55,7 +55,7 @@ None.
 6. Added minimal-consciousness connection in Binding section
 
 ### Cross-links Added
-- `[minimal-consciousness](/archive/concepts/minimal-consciousness/)` — in frontmatter and binding section
+- `[minimal-consciousness](/concepts/minimal-consciousness/)` — in frontmatter and binding section
 - `[haecceity](/concepts/haecceity/)` — in frontmatter and No Many Worlds section
 - `[witness-consciousness](/concepts/witness-consciousness/)` — inline reference in Buddhist section
 

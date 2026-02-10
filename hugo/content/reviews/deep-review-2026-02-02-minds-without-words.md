@@ -59,8 +59,8 @@ The primary focus of this review was integrating the orphaned apex article into 
 
 1. [animal-consciousness](/topics/animal-consciousness/) — "Apex Synthesis" subsection in Further Reading
 2. [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — "Apex Synthesis" subsection in Further Reading
-3. [baseline-cognition](/archive/topics/baseline-cognition/) — "Apex Synthesis" subsection in Further Reading
-4. [emotional-consciousness](/archive/concepts/emotional-consciousness/) — "Apex Synthesis" subsection in Further Reading
+3. [baseline-cognition](/concepts/baseline-cognition/) — "Apex Synthesis" subsection in Further Reading
+4. [emotional-consciousness](/topics/emotional-consciousness/) — "Apex Synthesis" subsection in Further Reading
 5. [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — "Apex Synthesis" subsection in Further Reading
 6. [problem-of-other-minds](/concepts/problem-of-other-minds/) — "Apex Synthesis" subsection in Further Reading
 

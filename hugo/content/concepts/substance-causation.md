@@ -63,7 +63,7 @@ E.J. Lowe developed the most systematic contemporary defence of substance causat
 
 ## Why Substance Causation Matters for Consciousness
 
-The standard objection to [interactionist dualism](/archive/arguments/interactionist-dualism/) is that consciousness causing physical events would be "metaphysically exceptional"—a mysterious relation unlike ordinary causation. If ordinary causation is event→event following laws, then consciousness→neurons seems anomalous.
+The standard objection to [interactionist dualism](/concepts/interactionist-dualism/) is that consciousness causing physical events would be "metaphysically exceptional"—a mysterious relation unlike ordinary causation. If ordinary causation is event→event following laws, then consciousness→neurons seems anomalous.
 
 Substance causation dissolves this objection. If *all* causation is substances exercising powers, then consciousness causing events is the same *type* of causation as anything else. The rock breaks the window because the rock exercises powers; consciousness affects neurons because consciousness exercises powers. Same metaphysical structure.
 
@@ -112,7 +112,7 @@ The Map's response: consciousness doesn't randomly select but genuinely *chooses
 
 If consciousness is a non-physical substance, how does it connect to *this* particular body? Why does my consciousness affect my neurons rather than yours? This is the [pairing problem](/concepts/pairing-problem/).
 
-Substance causation by itself doesn't answer this. But combined with the Map's [interface locality](/archive/concepts/interface-locality/) principle, it can: consciousness is spatially located where it causally interfaces with the brain. The pairing is spatial—consciousness affects the quantum systems it's positioned to "observe."
+Substance causation by itself doesn't answer this. But combined with the Map's [interface locality](/interface-locality/) principle, it can: consciousness is spatially located where it causally interfaces with the brain. The pairing is spatial—consciousness affects the quantum systems it's positioned to "observe."
 
 ## Historical Context
 
@@ -149,7 +149,7 @@ Substance causation provides the metaphysical foundation for the Map's position 
 - [agent-causation](/concepts/agent-causation/) — Substance causation applied to free will
 - [mental-causation](/concepts/mental-causation/) — The problem substance causation addresses
 - [downward-causation](/concepts/downward-causation/) — How higher-level substances influence lower-level processes
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework substance causation supports
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The framework substance causation supports
 - [causal-closure](/concepts/causal-closure/) — The principle substance causation challenges
 - [luck-objection](/concepts/luck-objection/) — The main challenge to agent causation
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body

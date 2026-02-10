@@ -57,7 +57,7 @@ The technical point: after decoherence, the density matrix becomes diagonal in t
 
 The definite outcomes gap is significant because it represents a genuine incompleteness in physical explanation—and incompleteness is where non-physical causation could operate without contradiction.
 
-Consider the causal closure principle: every physical event has a sufficient physical cause. This principle is often deployed against [interactionist-dualism](/archive/arguments/interactionist-dualism/)—if physics is causally closed, how could consciousness affect anything?
+Consider the causal closure principle: every physical event has a sufficient physical cause. This principle is often deployed against [interactionist-dualism](/concepts/interactionist-dualism/)—if physics is causally closed, how could consciousness affect anything?
 
 But at quantum measurement, on standard interpretations, causal closure fails. The Born rule fixes probabilities, not outcomes. Given identical initial conditions, different outcomes occur. This isn't hidden-variable indeterminacy (where outcomes are determined, just unknown). On the Copenhagen, objective collapse, and related interpretations, the indeterminacy is ontological—outcomes are genuinely undetermined until measurement. (Some philosophers argue that probabilistic physics is still "causally closed" in a weaker sense, but the relevant point is that individual outcomes are not entailed by prior physical states.)
 
@@ -101,7 +101,7 @@ The strength: this explains why consciousness exists at all. If consciousness se
 
 Even granting that *some* outcome occurs, a deeper question remains: why does *this* consciousness experience *this* particular result?
 
-This [indexical gap](/topics/indexical-identity-quantum-measurement/) connects the measurement problem to the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/). Both involve first-person facts that third-person descriptions fail to capture. Physics describes outcomes; it doesn't address *what it is like* to experience a particular outcome as a particular subject. The [structural parallel between these problems](/archive/topics/consciousness-and-quantum-measurement/)—where first-person facts enter third-person descriptions—suggests they may be two aspects of the same underlying issue rather than separate puzzles.
+This [indexical gap](/topics/indexical-identity-quantum-measurement/) connects the measurement problem to the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/). Both involve first-person facts that third-person descriptions fail to capture. Physics describes outcomes; it doesn't address *what it is like* to experience a particular outcome as a particular subject. The [structural parallel between these problems](/consciousness-and-quantum-measurement/)—where first-person facts enter third-person descriptions—suggests they may be two aspects of the same underlying issue rather than separate puzzles.
 
 [QBism](/concepts/qbism/) dissolves the measurement problem by treating quantum states as subjective beliefs—collapse is merely belief updating. But QBism presupposes agents with determinate experiences. Where do those experiences come from? Treating consciousness as fundamental while refusing to explain it is philosophically modest, but it leaves the hard problem untouched.
 
@@ -135,7 +135,7 @@ The definite outcomes problem directly supports the Map's core commitments:
 
 ## Further Reading
 
-- [consciousness-and-quantum-measurement](/archive/topics/consciousness-and-quantum-measurement/) — How the measurement problem and hard problem share structural features
+- [consciousness-and-quantum-measurement](/consciousness-and-quantum-measurement/) — How the measurement problem and hard problem share structural features
 - [measurement-problem](/concepts/measurement-problem/) — Comprehensive treatment of the problem and interpretations
 - [decoherence](/concepts/decoherence/) — What decoherence does and doesn't explain
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — Why subjective interpretations fail phenomenologically
@@ -146,7 +146,7 @@ The definite outcomes problem directly supports the Map's core commitments:
 - [free-will](/topics/free-will/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — The connection to agency
 - [consciousness-and-agency](/apex/consciousness-and-agency/) — Apex synthesis of consciousness and causal efficacy
 - [knowledge-argument](/concepts/knowledge-argument/) — Why physics doesn't capture phenomenal facts
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The broader framework
+- [interactionist-dualism](/concepts/interactionist-dualism/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The broader framework
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

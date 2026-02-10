@@ -112,7 +112,7 @@ Three responses:
 
 ## Why This Matters
 
-The brain specialness boundary isn't a minor technical point. It addresses a fundamental challenge to [interactionist-dualism](/archive/arguments/interactionist-dualism/):
+The brain specialness boundary isn't a minor technical point. It addresses a fundamental challenge to [interactionist-dualism](/concepts/interactionist-dualism/):
 
 If consciousness affects nothing, [epiphenomenalism](/arguments/epiphenomenalism/) follows—but epiphenomenalism is self-undermining (our discussions of consciousness couldn't be caused by consciousness).
 
@@ -151,7 +151,7 @@ None of these has occurred. The current framework remains consistent with availa
 ## Further Reading
 
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — The positive criteria brains meet for consciousness interfaces
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The Map's core position on mind-body interaction
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's core position on mind-body interaction
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for consciousness-brain interaction
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism in detail
 - [attention](/concepts/attention/) — How attention implements observation

@@ -104,7 +104,7 @@ The challenge: even an illusion requires a subject to whom things *seem* a certa
 
 ## The Minimal Consciousness Challenge
 
-Research on [simple organisms](/archive/concepts/minimal-consciousness/) poses a distinct challenge to functionalism. Consider *C. elegans*, the roundworm with exactly 302 neurons. We have its complete neural connectome—every synapse mapped. If functionalism were true, this should tell us whether the worm is conscious: does its functional organization implement the right causal roles?
+Research on [simple organisms](/concepts/minimal-consciousness/) poses a distinct challenge to functionalism. Consider *C. elegans*, the roundworm with exactly 302 neurons. We have its complete neural connectome—every synapse mapped. If functionalism were true, this should tell us whether the worm is conscious: does its functional organization implement the right causal roles?
 
 It doesn't. Despite complete structural knowledge, we cannot determine whether *C. elegans* experiences anything. The worm exhibits habituation, responds to anesthetics like vertebrates, and shows positive Phi (integrated information) in computational models. Yet it fails trace-conditioning tests that mark unlimited associative learning. Is there something it's like to be this worm? The functional description cannot answer.
 
@@ -138,7 +138,7 @@ If consciousness is merely functional organization, it can't "do" anything beyon
 
 Human consciousness flows through time in the [specious-present](/concepts/specious-present/)—retention of the immediate past and protention of what follows, held together in unified experience. Digital computation lacks this structure: sequential processing executes one instruction after another, each atemporal. Memory access is not retention; retrieving a stored value differs from experiencing the just-past within a unified now.
 
-If temporal experience is constitutive of consciousness, systems lacking this structure cannot be conscious regardless of functional organization. See [substrate-independence-critique](/archive/concepts/substrate-independence-critique/) for the full argument.
+If temporal experience is constitutive of consciousness, systems lacking this structure cannot be conscious regardless of functional organization. See [substrate-independence-critique](/substrate-independence-critique/) for the full argument.
 
 ### The AI Question
 
@@ -171,10 +171,10 @@ The Map's response: the substrate matters because consciousness involves somethi
 ## Further Reading
 
 - [arguments-against-materialism](/concepts/arguments-against-materialism/) — The convergence of arguments against physicalism
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Simple organisms reveal functionalism's limits
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Simple organisms reveal functionalism's limits
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — The emergence problem functionalism cannot solve
 - [functionalism](/arguments/functionalism/) — Five formal arguments against functionalism
-- [substrate-independence-critique](/archive/concepts/substrate-independence-critique/) — Why the substrate matters for consciousness
+- [substrate-independence-critique](/substrate-independence-critique/) — Why the substrate matters for consciousness
 - [ai-consciousness](/topics/ai-consciousness/) — The question of machine minds
 - [qualia](/concepts/qualia/) — What functionalism may leave out
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail

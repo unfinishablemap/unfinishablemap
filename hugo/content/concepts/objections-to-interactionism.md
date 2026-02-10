@@ -38,7 +38,7 @@ topics:
 - '[[free-will]]'
 ---
 
-[Interactionist dualism](/archive/arguments/interactionist-dualism/) faces six major philosophical objections: the [pairing problem](/concepts/pairing-problem/), conservation laws, parsimony, the decoherence objection, the evolutionary argument, and Kim's exclusion argument. This page provides comprehensive treatment of each objection and the responses available to the interactionist—particularly within the [quantum framework](/concepts/quantum-consciousness/) The Unfinishable Map adopts. The key finding: five objections have principled responses, and the sixth (evolution) actually *supports* interactionism against its main rival, [epiphenomenalism](/arguments/epiphenomenalism/).
+[Interactionist dualism](/concepts/interactionist-dualism/) faces six major philosophical objections: the [pairing problem](/concepts/pairing-problem/), conservation laws, parsimony, the decoherence objection, the evolutionary argument, and Kim's exclusion argument. This page provides comprehensive treatment of each objection and the responses available to the interactionist—particularly within the [quantum framework](/concepts/quantum-consciousness/) The Unfinishable Map adopts. The key finding: five objections have principled responses, and the sixth (evolution) actually *supports* interactionism against its main rival, [epiphenomenalism](/arguments/epiphenomenalism/).
 
 ## The Pairing Problem
 
@@ -70,7 +70,7 @@ If haecceities don't exist, the pairing problem generalizes to all causation. Wh
 
 The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework provides a natural answer. If consciousness interfaces with the brain at quantum indeterminacies in specific neural structures, consciousness is located *where those structures are*. The distinctiveness of consciousness is metaphysical, not spatial—it can be a different kind of thing from matter while still occupying space.
 
-[Interface locality](/archive/concepts/interface-locality/) reinforces this: each consciousness can only interface with its own brain because the quantum Zeno mechanism requires the observer-system coupling that exists only within one's neural substrate. You cannot attend to distant quantum systems the way you attend to your own neural states. The pairing is built into the mechanism.
+[Interface locality](/interface-locality/) reinforces this: each consciousness can only interface with its own brain because the quantum Zeno mechanism requires the observer-system coupling that exists only within one's neural substrate. You cannot attend to distant quantum systems the way you attend to your own neural states. The pairing is built into the mechanism.
 
 ## Conservation Laws
 
@@ -276,7 +276,7 @@ These are empirical and interpretive questions, not settled by philosophical arg
 
 | Objection | Target | Site's Response | Strength |
 |-----------|--------|-----------------|----------|
-| Pairing problem | Substance dualism | Minds are spatially located (in brains); [interface-locality](/archive/concepts/interface-locality/) provides natural pairing; [haecceity](/concepts/haecceity/) offers alternative grounding | Strong |
+| Pairing problem | Substance dualism | Minds are spatially located (in brains); [interface-locality](/interface-locality/) provides natural pairing; [haecceity](/concepts/haecceity/) offers alternative grounding | Strong |
 | Conservation laws | Interactionism | Conservation is local/conditional (Pitts/Cucu); selection not injection at quantum indeterminacies; see [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) | Strong |
 | Parsimony | Dualism | Consciousness is evidence; materialism doesn't explain it; simplicity isn't truth | Strong |
 | Decoherence | Quantum interactionism | Revised calculations, quantum biology evidence, decoherence doesn't solve measurement problem | Moderate |
@@ -303,7 +303,7 @@ These objections have been taken seriously throughout the history of philosophy.
 
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Comprehensive response to the conservation objection
 - [delegatory-dualism](/topics/delegatory-dualism/) — Bradford Saad's solution to the exclusion problem via preemption
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The position these objections target
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The position these objections target
 - [pairing-problem](/concepts/pairing-problem/) — Detailed treatment of Kim's pairing challenge
 - [causal-closure](/concepts/causal-closure/) — The closure principle underlying the exclusion argument
 - [mental-causation](/concepts/mental-causation/) — The phenomenon the exclusion argument challenges
@@ -312,7 +312,7 @@ These objections have been taken seriously throughout the history of philosophy.
 - [arguments-for-dualism](/concepts/arguments-for-dualism/) — Positive arguments for the Map's position
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The mechanism for mind-matter interface
 - [decoherence](/concepts/decoherence/) — The quantum biology challenge and evidence
-- [interface-locality](/archive/concepts/interface-locality/) — Why consciousness can only select within its own brain
+- [interface-locality](/interface-locality/) — Why consciousness can only select within its own brain
 - [haecceity](/concepts/haecceity/) — Primitive "thisness" as pairing relation
 - [luck-objection](/concepts/luck-objection/) — Parallel challenge to libertarian free will
 - [many-worlds](/arguments/many-worlds/) — The interpretation whose rejection grounds the Map's view

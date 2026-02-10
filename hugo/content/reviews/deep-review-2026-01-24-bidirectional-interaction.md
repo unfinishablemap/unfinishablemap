@@ -36,7 +36,7 @@ Six philosopher personas applied: Eliminative Materialist, Hard-Nosed Physicalis
 
 2. **Missing cross-links to recent content**: The article lacked connections to newly developed content on psychophysical coupling mechanisms, quantum neural timing constraints, and voluntary attention. **Resolution**: Added [psychophysical-coupling](/concepts/psychophysical-coupling/), [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [voluntary-attention](/concepts/voluntary-attention/), and [argument-from-reason](/topics/argument-from-reason/) to frontmatter and Further Reading.
 
-3. **Baseline cognition link broken**: The article linked to [consciousness-independent-baseline-cognition](/archive/concepts/consciousness-independent-baseline-cognition/) which is a research note, not the published article. **Resolution**: Corrected to [baseline-cognition](/archive/topics/baseline-cognition/) and added Tomasello citations.
+3. **Baseline cognition link broken**: The article linked to [consciousness-independent-baseline-cognition](/consciousness-independent-baseline-cognition/) which is a research note, not the published article. **Resolution**: Corrected to [baseline-cognition](/concepts/baseline-cognition/) and added Tomasello citations.
 
 ### Counterarguments Considered
 
@@ -76,8 +76,8 @@ Six philosopher personas applied: Property Dualist, Quantum Mind Theorist, Pheno
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
 - [voluntary-attention](/concepts/voluntary-attention/)
 - [argument-from-reason](/topics/argument-from-reason/)
-- [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/)
-- [baseline-cognition](/archive/topics/baseline-cognition/) (corrected from broken link)
+- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
+- [baseline-cognition](/concepts/baseline-cognition/) (corrected from broken link)
 
 ## Remaining Items
 

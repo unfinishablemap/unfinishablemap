@@ -279,7 +279,7 @@ The Map does not commit to substance over property dualism. Both support irreduc
 - [binding-problem](/concepts/binding-problem/), [explanatory-gap](/concepts/explanatory-gap/) — Why physicalism struggles
 
 **The Map's framework:**
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/), [quantum-consciousness](/concepts/quantum-consciousness/) — How mind and matter interact
+- [interactionist-dualism](/concepts/interactionist-dualism/), [quantum-consciousness](/concepts/quantum-consciousness/) — How mind and matter interact
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Comprehensive treatment of major challenges
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — The meta-level argument from epistemic humility
 - [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) — Why parsimony fails as an argument against dualism

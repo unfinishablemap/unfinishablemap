@@ -30,7 +30,7 @@ The sleep dissociation evidence is powerful: during NREM sleep, the brain perfor
 
 ### The Quantum Mind Theorist (Stapp)
 
-[interactionist-dualism](/archive/arguments/interactionist-dualism/) and [quantum-consciousness](/concepts/quantum-consciousness/) engage seriously with the physics-consciousness interface without falling into "quantum woo." The treatment of the decoherence objection is sophisticated: Tegmark's femtosecond calculations are presented, then challenged with Hagan et al.'s seven-orders-of-magnitude correction and the crucial insight that decoherence selects bases without explaining why *this particular* outcome occurs.
+[interactionist-dualism](/concepts/interactionist-dualism/) and [quantum-consciousness](/concepts/quantum-consciousness/) engage seriously with the physics-consciousness interface without falling into "quantum woo." The treatment of the decoherence objection is sophisticated: Tegmark's femtosecond calculations are presented, then challenged with Hagan et al.'s seven-orders-of-magnitude correction and the crucial insight that decoherence selects bases without explaining why *this particular* outcome occurs.
 
 The "selection not injection" framework is inspired. Classical objections asked how non-physical mind could *push* physical matter—adding energy, violating conservation. The Map's response: consciousness doesn't inject anything; it selects among equally-weighted quantum possibilities. "The brain prepares multiple possible action patterns. Consciousness—as an agent-causal power—selects which pattern becomes actual."
 
@@ -78,7 +78,7 @@ This combination of rigorous philosophical argument with humility about limits i
 - **Notable quote**: "Classical mechanisms operate during sleep; phenomenal unity doesn't follow. This supports the position that phenomenal unity isn't *produced by* binding operations but *added to them* by consciousness."
 - **Why it works**: Takes an abstract philosophical distinction and grounds it in empirical neuroscience, showing exactly where classical explanations fall short
 
-### [interactionist-dualism](/archive/arguments/interactionist-dualism/)
+### [interactionist-dualism](/concepts/interactionist-dualism/)
 - **Strongest point**: The seven-argument cumulative case demonstrating how independent lines of reasoning converge on dualism, plus the sophisticated treatment of causal closure via both quantum and delegatory responses
 - **Notable quote**: "Elizabeth of Bohemia's question—how can mind affect matter?—now has a candidate answer: at quantum indeterminacies. Whether correct is open; that it is *coherent* reopens possibilities that seemed closed for centuries."
 - **Why it works**: Transforms the interaction problem from fatal objection to tractable research program
@@ -103,7 +103,7 @@ This combination of rigorous philosophical argument with humility about limits i
 ### High Priority
 
 #### Contemplative Training and Phenomenal Access
-- **Builds on**: [contemplative-neuroscience-integration](/archive/topics/contemplative-neuroscience-integration/), [witness-consciousness](/concepts/witness-consciousness/), [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)
+- **Builds on**: [contemplative-neuroscience-integration](/contemplative-neuroscience-integration/), [witness-consciousness](/concepts/witness-consciousness/), [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)
 - **Would address**: How meditation training improves introspective accuracy, changes neural signatures, and reveals consciousness structure—providing evidence against illusionism (illusions don't deepen with practice)
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Bidirectional Interaction by showing conscious practice reshapes neural patterns; undermines illusionism by showing phenomenal access improves with training
@@ -129,7 +129,7 @@ This combination of rigorous philosophical argument with humility about limits i
 - **Tenet alignment**: Tests Minimal Quantum Interaction empirically; if classical explanations fail, supports quantum binding
 
 #### Disorders of Consciousness: Ambiguous Cases
-- **Builds on**: [loss-of-consciousness](/topics/loss-of-consciousness/), [minimal-consciousness](/archive/concepts/minimal-consciousness/), [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
+- **Builds on**: [loss-of-consciousness](/topics/loss-of-consciousness/), [minimal-consciousness](/concepts/minimal-consciousness/), [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
 - **Would address**: How the Map's framework handles minimally conscious state, vegetative state, locked-in syndrome—cases where consciousness presence is uncertain
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Tests framework against hard cases; has implications for ethics of consciousness
@@ -155,7 +155,7 @@ This combination of rigorous philosophical argument with humility about limits i
 | [binding-problem](/concepts/binding-problem/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Binding operates across time in episodic memory, not just space |
 | [quantum-consciousness](/concepts/quantum-consciousness/) | [free-will](/topics/free-will/) | Both depend on quantum indeterminacy; deepen the connection |
 | [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | Great ape gap evidence supports amplifier framework |
-| [contemplative-neuroscience-integration](/archive/topics/contemplative-neuroscience-integration/) | [illusionism](/concepts/illusionism/) | Meditation evidence undermines illusionism |
+| [contemplative-neuroscience-integration](/contemplative-neuroscience-integration/) | [illusionism](/concepts/illusionism/) | Meditation evidence undermines illusionism |
 | [filter-theory](/concepts/filter-theory/) | [evolution-of-consciousness](/concepts/evolution-of-consciousness/) | Evolution favours consciousness if it filters/configures neural activity |
 | [sleep-and-consciousness](/concepts/sleep-and-consciousness/) | [prebiotic-collapse](/concepts/prebiotic-collapse/) | Both show binding without consciousness; parallel cases |
 | [voluntary-attention](/concepts/voluntary-attention/) | [agent-causation](/concepts/agent-causation/) | Neural signatures make agent causation empirically tractable |

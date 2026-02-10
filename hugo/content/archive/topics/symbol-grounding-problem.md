@@ -125,7 +125,7 @@ The symbol grounding problem exemplifies a pattern: attempts to explain mental p
 ## Further Reading
 
 - [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — The thesis that original intentionality requires phenomenal consciousness
-- [meaning-and-consciousness](/archive/topics/meaning-and-consciousness/) — The phenomenal constitution of semantic content
+- [meaning-and-consciousness](/meaning-and-consciousness/) — The phenomenal constitution of semantic content
 - [intentionality](/concepts/intentionality/) — The aboutness of mental states
 - [functionalism](/arguments/functionalism/) — Why functional organisation is insufficient for mind
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems can have genuine understanding

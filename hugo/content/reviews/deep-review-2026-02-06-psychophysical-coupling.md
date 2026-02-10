@@ -20,7 +20,7 @@ topics: []
 **Date**: 2026-02-06
 **Article**: [Psychophysical Coupling](/concepts/psychophysical-coupling/)
 **Previous review**: [2026-01-21](/reviews/deep-review-2026-01-21-psychophysical-coupling-law/) (pre-coalescence)
-**Cross-review context**: [psychophysical-coupling-law-mechanisms](/archive/topics/psychophysical-coupling-law-mechanisms/) (reviewed same day)
+**Cross-review context**: [psychophysical-coupling-law-mechanisms](/psychophysical-coupling-law-mechanisms/) (reviewed same day)
 
 ## Pessimistic Analysis Summary
 
@@ -42,7 +42,7 @@ topics: []
 
 - **Missing Schwartz reference**: Body text cited "Schwartz et al., 1996" but no corresponding reference existed. **Resolution**: Added full citation.
 
-- **Missing cross-link to sibling article**: No link to [psychophysical-coupling-law-mechanisms](/archive/topics/psychophysical-coupling-law-mechanisms/) despite it being the detailed mechanistic companion piece. **Resolution**: Added to Further Reading.
+- **Missing cross-link to sibling article**: No link to [psychophysical-coupling-law-mechanisms](/psychophysical-coupling-law-mechanisms/) despite it being the detailed mechanistic companion piece. **Resolution**: Added to Further Reading.
 
 ### Counterarguments Considered
 
@@ -75,7 +75,7 @@ topics: []
 
 ### Cross-links Added
 
-- [psychophysical-coupling-law-mechanisms](/archive/topics/psychophysical-coupling-law-mechanisms/) (Further Reading)
+- [psychophysical-coupling-law-mechanisms](/psychophysical-coupling-law-mechanisms/) (Further Reading)
 
 ## Word Count
 

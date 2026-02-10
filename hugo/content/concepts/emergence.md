@@ -54,7 +54,7 @@ C.D. Broad established emergence as a distinct philosophical position in 1925. H
 
 Consciousness appears to be strongly emergent. No arrangement of neurons logically entails the presence of experience. This is the [hard problem](/topics/hard-problem-of-consciousness/)—the seeming impossibility of deriving phenomenal facts from physical facts.
 
-The [evolutionary emergence of consciousness](/concepts/evolution-of-consciousness/) provides a concrete test case. Three possibilities structure the debate: *panpsychist continuity* (experience was always present), *gradual emergence* (consciousness increased incrementally with neural complexity), and *threshold emergence* (consciousness appeared when organisational thresholds were crossed). Each faces distinct challenges—panpsychism must explain combination, gradualism must specify partial qualia, threshold views must justify the threshold. Research on [minimal consciousness](/archive/concepts/minimal-consciousness/) in simple organisms (insects, mollusks) provides empirical constraints on these options. The evolutionary question reveals that strong emergence isn't merely an abstract philosophical puzzle but a constraint on understanding life's history.
+The [evolutionary emergence of consciousness](/concepts/evolution-of-consciousness/) provides a concrete test case. Three possibilities structure the debate: *panpsychist continuity* (experience was always present), *gradual emergence* (consciousness increased incrementally with neural complexity), and *threshold emergence* (consciousness appeared when organisational thresholds were crossed). Each faces distinct challenges—panpsychism must explain combination, gradualism must specify partial qualia, threshold views must justify the threshold. Research on [minimal consciousness](/concepts/minimal-consciousness/) in simple organisms (insects, mollusks) provides empirical constraints on these options. The evolutionary question reveals that strong emergence isn't merely an abstract philosophical puzzle but a constraint on understanding life's history.
 
 The distinction matters because strong emergence denies [ontological reductionism](/concepts/reductionism/) while remaining compatible with [methodological reductionism](/concepts/reductionism/). Neuroscience studies the physical substrate; this doesn't commit one to claiming consciousness *is* that substrate.
 
@@ -101,7 +101,7 @@ Each of these features—unity, qualitative character, agency—is what strong e
 
 Classical British emergentists like Broad and Alexander affirmed strong emergence but couldn't specify how it operated. They accepted it with "natural piety"—brute facts to be acknowledged rather than explained. The [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) traces how this emergentist tradition developed in response to the materialist eclipse of the early twentieth century.
 
-The Map advances beyond this. The [quantum framework](/archive/arguments/interactionist-dualism/) provides what classical emergentism lacked: a mechanism for how non-physical causation operates without violating conservation laws.
+The Map advances beyond this. The [quantum framework](/concepts/interactionist-dualism/) provides what classical emergentism lacked: a mechanism for how non-physical causation operates without violating conservation laws.
 
 **The mechanism:** Consciousness selects among outcomes physics leaves undetermined. Quantum mechanics specifies probabilities but not which outcome actualizes. The Minimal Quantum Interaction tenet locates consciousness's influence here—biasing probabilities rather than injecting energy.
 
@@ -175,7 +175,7 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem strong emergence addresses
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged and what this reveals about emergence theory
 - [reductionism](/concepts/reductionism/) — The three types of reductionism and why consciousness resists each
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — the Map's framework as strong emergentism with mechanism
+- [interactionist-dualism](/concepts/interactionist-dualism/) — the Map's framework as strong emergentism with mechanism
 - [causal-closure](/concepts/causal-closure/) — The principle strong emergentism must deny
 - [downward-causation](/concepts/downward-causation/) — How emergent properties causally influence lower levels
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reduction
@@ -183,7 +183,7 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 - [binding-problem](/concepts/binding-problem/) — How distributed processes achieve phenomenal unity
 - [phenomenal-unity](/concepts/phenomenal-unity/) — The unity of conscious experience that binding must explain
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Empirical constraints from simple organisms
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical constraints from simple organisms
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The mechanism for downward causation
 - [tenets](/tenets/) — the Map's foundational commitments
 

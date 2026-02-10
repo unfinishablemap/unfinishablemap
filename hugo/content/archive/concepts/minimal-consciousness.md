@@ -112,7 +112,7 @@ The minimal consciousness literature reveals a crucial question: what is the rel
 
 ### The Baseline Cognition Hypothesis
 
-Research on great ape-human differences suggests a framework for understanding this relationship. Chimpanzees possess sophisticated cognition—tool use, social reasoning, basic metacognition, cultural traditions. Yet they lack cumulative culture, logical reasoning, and counterfactual thinking. The [baseline-cognition](/archive/topics/baseline-cognition/) hypothesis proposes that great ape cognition represents a baseline of what neural systems can achieve *without* substantial conscious contribution—the cognitive floor from which consciousness amplifies.
+Research on great ape-human differences suggests a framework for understanding this relationship. Chimpanzees possess sophisticated cognition—tool use, social reasoning, basic metacognition, cultural traditions. Yet they lack cumulative culture, logical reasoning, and counterfactual thinking. The [baseline-cognition](/concepts/baseline-cognition/) hypothesis proposes that great ape cognition represents a baseline of what neural systems can achieve *without* substantial conscious contribution—the cognitive floor from which consciousness amplifies.
 
 If this baseline hypothesis is correct, key findings illuminate what consciousness adds:
 
@@ -251,7 +251,7 @@ The Map's perspective on minimal consciousness would be undermined if:
 ## Further Reading
 
 ### Core Concepts
-- [baseline-cognition](/archive/topics/baseline-cognition/) — The full account of what neural systems achieve without consciousness, and why the human-ape gap tracks consciousness-dependent capacities
+- [baseline-cognition](/concepts/baseline-cognition/) — The full account of what neural systems achieve without consciousness, and why the human-ape gap tracks consciousness-dependent capacities
 - [metarepresentation](/concepts/metarepresentation/) — Why representing representations may require consciousness, and how the three-level framework applies to minimal consciousness
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The baseline cognition hypothesis and what consciousness adds to neural processing
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When did consciousness first emerge?

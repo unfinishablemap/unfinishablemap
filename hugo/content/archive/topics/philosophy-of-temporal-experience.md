@@ -147,7 +147,7 @@ The philosophy of temporal experience connects to the Map's framework at multipl
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The specious present's duration (~100-750ms) may reflect accumulated collapse events—each individually minimal but collectively constituting the experienced duration-block. The quantum Zeno mechanism (rapid observation holding neural patterns) provides a candidate mechanism for temporal binding without requiring sustained coherence.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Temporal experience provides the substrate for agency. Choice requires retention of options considered and protention toward outcomes anticipated. The [phenomenology of deliberation](/archive/topics/phenomenology-of-temporal-agency/)—holding possibilities open, then narrowing to decision—presupposes temporal structure. If consciousness merely observed predetermined outcomes, the temporal dynamics of choosing would be inexplicable.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Temporal experience provides the substrate for agency. Choice requires retention of options considered and protention toward outcomes anticipated. The [phenomenology of deliberation](/phenomenology-of-temporal-agency/)—holding possibilities open, then narrowing to decision—presupposes temporal structure. If consciousness merely observed predetermined outcomes, the temporal dynamics of choosing would be inexplicable.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The experience of succession—possibilities narrowing to actualities—assumes real collapse. In many-worlds, all possibilities are realized; we merely discover which branch we're on. But temporal experience doesn't feel like discovery; it feels like creation. The qualitative difference between open future and fixed past makes sense under collapse realism, not under eternal branching.
 
@@ -156,7 +156,7 @@ The philosophy of temporal experience connects to the Map's framework at multipl
 ## Further Reading
 
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and its implications for AI consciousness
-- [phenomenology-of-temporal-agency](/archive/topics/phenomenology-of-temporal-agency/) — What choosing feels like through time
+- [phenomenology-of-temporal-agency](/phenomenology-of-temporal-agency/) — What choosing feels like through time
 - [duration](/concepts/duration/) — Bergson's concept of lived time
 - [specious-present](/concepts/specious-present/) — The experienced duration of "now"
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the growing block

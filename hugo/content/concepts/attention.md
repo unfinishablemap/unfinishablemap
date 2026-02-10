@@ -57,7 +57,7 @@ A 2025 eLife study (Nartker et al.) strengthened the dissociation case: inattent
 
 ### Can You Attend Without Being Conscious?
 
-This direction is clearer. Blindsight patients orient toward stimuli in their "blind" field without conscious vision. Masked priming shows attention operating on stimuli that never reach awareness. A 2025 meta-analysis reinforced the significance of attention as consciousness's gatekeeper: only 10% of claimed unconscious processing effects survive rigorous methodology, while consciousness enables durable maintenance, novel combinations, and spontaneous intentional action (see [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/)).
+This direction is clearer. Blindsight patients orient toward stimuli in their "blind" field without conscious vision. Masked priming shows attention operating on stimuli that never reach awareness. A 2025 meta-analysis reinforced the significance of attention as consciousness's gatekeeper: only 10% of claimed unconscious processing effects survive rigorous methodology, while consciousness enables durable maintenance, novel combinations, and spontaneous intentional action (see [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)).
 
 If attention operates without consciousness and vice versa, they are distinct processes with different neural substrates: fronto-parietal networks for attention, temporo-parietal-occipital regions for phenomenal content (Koch & Tsuchiya).
 
@@ -127,7 +127,7 @@ Predictive processing describes attention as precision weighting—upweighting p
 
 ### Working Memory and the Interface
 
-Working memory and attention are deeply interlinked, strengthening the [interface hypothesis](/concepts/attention-as-interface/). The Map's [coupling law research](/archive/concepts/psychophysical-coupling-law/) notes a ~10 bits/second limit on conscious throughput—matching working memory capacity remarkably well.
+Working memory and attention are deeply interlinked, strengthening the [interface hypothesis](/concepts/attention-as-interface/). The Map's [coupling law research](/psychophysical-coupling-law/) notes a ~10 bits/second limit on conscious throughput—matching working memory capacity remarkably well.
 
 Recent research distinguishes working memory *storage* (which can be unconscious, maintained via synaptic calcium) from *manipulation* (which requires conscious reactivation). This maps onto the Map's framework: passive storage might be purely neural; active manipulation might require consciousness's participation. Working memory manipulation could be the interface in action.
 

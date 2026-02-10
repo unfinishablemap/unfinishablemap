@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-24
-**Article**: [Conscious Vs Unconscious Processing](/archive/topics/conscious-vs-unconscious-processing/)
+**Article**: [Conscious Vs Unconscious Processing](/concepts/conscious-vs-unconscious-processing/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -28,7 +28,7 @@ topics: []
 ### Medium Issues Found
 - **Missing timing constraint discussion**: The Minimal Quantum Interaction section mentioned quantum Zeno without addressing the timing objection (femtosecond decoherence vs. millisecond neural processes). **Resolution**: Added paragraph explaining timing hierarchy and how Stapp's mechanism operates through discrete observations rather than sustained coherence, with cross-link to [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/).
 
-- **Phenomenal overflow section lacked methodological depth**: Discussion didn't acknowledge the fundamental first-person/third-person methodological gap. **Resolution**: Added paragraph connecting to [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) and [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/) to note that the overflow question may be underdetermined by purely neural evidence.
+- **Phenomenal overflow section lacked methodological depth**: Discussion didn't acknowledge the fundamental first-person/third-person methodological gap. **Resolution**: Added paragraph connecting to [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) and [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/) to note that the overflow question may be underdetermined by purely neural evidence.
 
 ### Low Issues Found
 - **Buddhist perspective on consciousness gradations**: The article assumes a sharp conscious/unconscious binary. Contemplative traditions suggest gradations. **Status**: Not addressed in this review—article focuses on empirical neuroscience framework where binary is methodologically necessary. Could be addressed in future expansion.
@@ -57,7 +57,7 @@ topics: []
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — In frontmatter and Minimal Quantum Interaction section
 - [argument-from-reason](/topics/argument-from-reason/) — In frontmatter, "What the Evidence Shows" section, and Further Reading
 - [consciousness](/concepts/consciousness/) — In frontmatter and Further Reading
-- [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/) — In frontmatter and phenomenal overflow discussion
+- [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/) — In frontmatter and phenomenal overflow discussion
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — In frontmatter and phenomenal overflow discussion
 
 ## Changes Summary

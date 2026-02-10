@@ -59,7 +59,7 @@ None identified.
 - [mental-causation](/concepts/mental-causation/) to frontmatter and Further Reading
 - [phenomenal-unity](/concepts/phenomenal-unity/) to frontmatter and Further Reading
 - [binding-problem](/concepts/binding-problem/) to frontmatter and Further Reading (already mentioned in text)
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) to frontmatter and Further Reading
+- [minimal-consciousness](/concepts/minimal-consciousness/) to frontmatter and Further Reading
 - [arguments-against-materialism](/concepts/arguments-against-materialism/) to Further Reading
 
 ## Remaining Items

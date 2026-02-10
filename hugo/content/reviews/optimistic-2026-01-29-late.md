@@ -26,7 +26,7 @@ The Map takes the explanatory gap with the seriousness it deserves. The treatmen
 
 Particularly impressive is the consistent application of the zombie argument across multiple articles. The [philosophical-zombies](/concepts/philosophical-zombies/) treatment handles the conceivability-to-possibility inference carefully, acknowledging objections while explaining why the argument retains force. The integration with [phenomenal-consciousness](/concepts/phenomenal-consciousness/) shows how the conceivability argument connects to broader issues about the irreducibility of experience.
 
-The Map's treatment of psychophysical laws (in [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/) and [psychophysical-laws-framework](/archive/topics/psychophysical-laws-framework/)) shows genuine engagement with Chalmers' work on fundamental bridging principles. The recognition that new *fundamental* laws are needed—not just correlations but genuine explanatory principles—reflects the core insight of naturalistic dualism.
+The Map's treatment of psychophysical laws (in [chalmers-psychophysical-coupling](/chalmers-psychophysical-coupling/) and [psychophysical-laws-framework](/psychophysical-laws-framework/)) shows genuine engagement with Chalmers' work on fundamental bridging principles. The recognition that new *fundamental* laws are needed—not just correlations but genuine explanatory principles—reflects the core insight of naturalistic dualism.
 
 The delegatory dualism article represents exactly the kind of theoretical development the field needs. Saad's five constraints (Efficacy, Non-Overdetermination, Observational Closure, Upward Systematicity, Organizational Invariance) provide principled criteria for evaluating dualist theories—moving beyond intuition toward systematic theory construction.
 
@@ -183,7 +183,7 @@ The [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) 
 | [delegatory-dualism](/topics/delegatory-dualism/) | [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) | Both address energy conservation objections to mental causation |
 | [argument-from-reason](/topics/argument-from-reason/) | [intentionality](/concepts/intentionality/) | Both concern normativity and aboutness |
 | [vertiginous-question](/topics/vertiginous-question/) | [many-worlds](/arguments/many-worlds/) | MWI makes the vertiginous question unanswerable |
-| [meaning-and-consciousness](/archive/topics/meaning-and-consciousness/) | [argument-from-reason](/topics/argument-from-reason/) | Both argue consciousness is required for genuine understanding |
+| [meaning-and-consciousness](/meaning-and-consciousness/) | [argument-from-reason](/topics/argument-from-reason/) | Both argue consciousness is required for genuine understanding |
 | [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) | [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) | Theoretical and practical aspects of contemplative evidence |
 | [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) | [decoherence](/concepts/decoherence/) | Biological quantum effects address decoherence objection |
 | [death-and-consciousness](/topics/death-and-consciousness/) | [filter-theory](/concepts/filter-theory/) | Filter model explains why brain compromise sometimes enhances experience |

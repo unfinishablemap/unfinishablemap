@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-24
-**Article**: [Phenomenal Binding](/archive/concepts/phenomenal-binding/)
+**Article**: [Phenomenal Binding](/phenomenal-binding/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

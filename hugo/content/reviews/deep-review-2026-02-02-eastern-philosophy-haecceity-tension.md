@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [The Eastern Philosophy–Haecceity Tension](/archive/topics/eastern-philosophy-haecceity-tension/)
+**Article**: [The Eastern Philosophy–Haecceity Tension](/eastern-philosophy-haecceity-tension/)
 **Previous review**: Never
 
 ## Context
@@ -65,7 +65,7 @@ Added inbound links from:
 - [vertiginous-question](/topics/vertiginous-question/) — Buddhist no-self objection response now links here
 - [process-philosophy](/concepts/process-philosophy/) — Added new "Process Haecceitism" subsection linking here
 - [personal-identity](/topics/personal-identity/) — Further Reading section now includes this article
-- [eastern-metaphysics-integration](/archive/topics/eastern-metaphysics-integration/) — Further Reading now lists this article first
+- [eastern-metaphysics-integration](/eastern-metaphysics-integration/) — Further Reading now lists this article first
 
 ## Remaining Items
 

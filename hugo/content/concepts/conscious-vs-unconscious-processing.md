@@ -186,7 +186,7 @@ Change blindness and inattentional blindness demonstrate that even salient stimu
 
 ## Connection to Baseline Cognition
 
-The [baseline-cognition](/archive/topics/baseline-cognition/) framework illuminates these findings. Great apes demonstrate sophisticated cognition—tool use, social learning, procedural metacognition—without human-level consciousness. This "baseline" represents what unconscious and minimal-consciousness processing can achieve.
+The [baseline-cognition](/concepts/baseline-cognition/) framework illuminates these findings. Great apes demonstrate sophisticated cognition—tool use, social learning, procedural metacognition—without human-level consciousness. This "baseline" represents what unconscious and minimal-consciousness processing can achieve.
 
 What apes cannot do maps onto the three consciousness-requiring functions:
 - **Durable maintenance**: Apes struggle with delayed tasks requiring information maintenance over extended periods
@@ -250,7 +250,7 @@ If [phenomenal consciousness can exceed access consciousness](/concepts/phenomen
 
 No-report paradigms attempt to identify consciousness without requiring behavioral reports. Initial results suggest consciousness-related neural activity in posterior regions even without frontal access/report involvement. But whether this represents genuine phenomenal consciousness without access, or merely neural correlates that usually accompany consciousness, remains contested.
 
-This methodological impasse is itself philosophically significant. Third-person neuroscience cannot directly access first-person phenomenal facts. The overflow question may be underdetermined by purely neural evidence—but this unfalsifiability might itself be evidence: it's exactly what we'd expect if phenomenology genuinely transcends functional access. [Mysterian](/archive/topics/mysterianism-cognitive-closure/) positions suggest some consciousness questions may be cognitively closed to us.
+This methodological impasse is itself philosophically significant. Third-person neuroscience cannot directly access first-person phenomenal facts. The overflow question may be underdetermined by purely neural evidence—but this unfalsifiability might itself be evidence: it's exactly what we'd expect if phenomenology genuinely transcends functional access. [Mysterian](/mysterianism-cognitive-closure/) positions suggest some consciousness questions may be cognitively closed to us.
 
 ### Content vs Enabling NCCs
 
@@ -309,7 +309,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 - [consciousness](/concepts/consciousness/) — The core concept and its varieties
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Where consciousness correlates map in the brain
 - [blindsight](/concepts/blindsight/) — The paradigm case of perception without consciousness
-- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition looks like without full consciousness
+- [baseline-cognition](/concepts/baseline-cognition/) — What cognition looks like without full consciousness
 - [access-consciousness](/concepts/access-consciousness/) — Consciousness as availability for reasoning and report
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — Consciousness as subjective experience
 - [phenomenal-overflow](/concepts/phenomenal-overflow/) — The contested hypothesis that phenomenology exceeds access
@@ -319,7 +319,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The theoretical framework for consciousness as broadcast
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum mechanism for consciousness-attention interface
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view that consciousness is causally inert and why it fails
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The Map's position on mind-body causation
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's position on mind-body causation
 
 ## References
 

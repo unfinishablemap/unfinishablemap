@@ -66,7 +66,7 @@ None. The article has been through nine previous reviews and critical issues wer
 
 2. **Pour-soi paragraph in Agent Causation**: Added explanation of how Sartre's analysis illuminates agent causation—the pour-soi's constitutive self-distance is precisely what makes selection possible. A being that merely *is* its states cannot stand apart to choose.
 
-3. **Cross-links added**: [existentialism](/archive/concepts/existentialism/) in frontmatter concepts and Further Reading section
+3. **Cross-links added**: [existentialism](/concepts/existentialism/) in frontmatter concepts and Further Reading section
 
 ## Word Count
 

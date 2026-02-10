@@ -211,7 +211,7 @@ The Unfinishable Map doesn't rest on dismissing materialist responses but on the
 
 The [No Many Worlds tenet](/tenets/#no-many-worlds) connects directly to these arguments. MWI attempts to dissolve the measurement problem without collapse—but this trades one mystery for another. The indexical identity problem ("why am I this observer?") becomes unanswerable. If consciousness genuinely selects outcomes rather than merely observing all of them in parallel branches, then MWI's apparent simplicity masks a failure to explain what needs explaining.
 
-Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenets, these arguments point toward [interactionist-dualism](/archive/arguments/interactionist-dualism/)—consciousness is irreducible and causally efficacious, interfacing with physics at quantum indeterminacies.
+Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenets, these arguments point toward [interactionist-dualism](/concepts/interactionist-dualism/)—consciousness is irreducible and causally efficacious, interfacing with physics at quantum indeterminacies.
 
 ## Further Reading
 

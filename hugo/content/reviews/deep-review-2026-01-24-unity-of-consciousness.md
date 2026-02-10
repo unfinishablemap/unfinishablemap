@@ -63,7 +63,7 @@ topics: []
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) (frontmatter, body, Further Reading)
 - [consciousness](/concepts/consciousness/) (frontmatter, Further Reading)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) (frontmatter, body, Further Reading)
-- [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/) (frontmatter, body, Further Reading)
+- [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/) (frontmatter, body, Further Reading)
 - [voluntary-attention](/concepts/voluntary-attention/) (frontmatter, body, Further Reading)
 
 ### References Added

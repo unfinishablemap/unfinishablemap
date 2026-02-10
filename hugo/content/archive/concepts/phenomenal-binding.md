@@ -147,7 +147,7 @@ This doesn't license pessimism—it licenses humility. We can continue investiga
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for consciousness including Orch OR
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno approach to mind-brain interaction
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Neural account of information integration
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — How consciousness causally influences neural binding
+- [interactionist-dualism](/concepts/interactionist-dualism/) — How consciousness causally influences neural binding
 - [illusionism](/concepts/illusionism/) — The view that phenomenal unity is illusory (and why it fails)
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap between physical description and phenomenal facts

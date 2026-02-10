@@ -231,13 +231,13 @@ Interface locality answers why consciousness can select neural quantum outcomes 
 
 Consciousness influences what it can observe through attention, and attention's scope is limited to what the brain represents. The embarrassing implication—that mind-matter interaction implies telekinesis—dissolves once we recognize that the proposed mechanism is inherently brain-local.
 
-This article addresses why consciousness *doesn't* act externally. The complementary question—why brains specifically serve as interfaces while rocks don't—is addressed in [brain-specialness](/archive/concepts/brain-specialness/).
+This article addresses why consciousness *doesn't* act externally. The complementary question—why brains specifically serve as interfaces while rocks don't—is addressed in [brain-specialness](/brain-specialness/).
 
 ## Further Reading
 
-- [brain-specialness](/archive/concepts/brain-specialness/) - What makes neural systems suitable interfaces (the positive account)
+- [brain-specialness](/brain-specialness/) - What makes neural systems suitable interfaces (the positive account)
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) - The proposed mechanism for selection
-- [psychophysical-coupling-law](/archive/concepts/psychophysical-coupling-law/) - Constraints on the coupling between mind and brain
+- [psychophysical-coupling-law](/psychophysical-coupling-law/) - Constraints on the coupling between mind and brain
 - [attention](/concepts/attention/) - How attention implements quantum observation
 - [attention-as-interface](/concepts/attention-as-interface/) - Why attention specifically serves as the interface
 - [voluntary-attention](/concepts/voluntary-attention/) - Willed attention as the Map of conscious control

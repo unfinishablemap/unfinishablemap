@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-22
-**Article**: [Minimal Consciousness](/archive/concepts/minimal-consciousness/)
+**Article**: [Minimal Consciousness](/concepts/minimal-consciousness/)
 **Previous review**: [2026-01-20T06:20:00+00:00](/reviews/deep-review-2026-01-20-minimal-consciousness/)
 
 ## Task Context

@@ -41,8 +41,8 @@ topics: []
 None
 
 ### Medium Issues Found
-- The illusionism response section didn't reference Sartre's pour-soi as historical precedent for the regress argument → Resolution: Added Sartre citation with cross-link to [existentialism](/archive/concepts/existentialism/)
-- No cross-link to [existentialism](/archive/concepts/existentialism/) despite strong thematic overlap → Resolution: Added to concepts frontmatter and Further Reading
+- The illusionism response section didn't reference Sartre's pour-soi as historical precedent for the regress argument → Resolution: Added Sartre citation with cross-link to [existentialism](/concepts/existentialism/)
+- No cross-link to [existentialism](/concepts/existentialism/) despite strong thematic overlap → Resolution: Added to concepts frontmatter and Further Reading
 
 ## Optimistic Analysis Summary
 
@@ -54,11 +54,11 @@ None
 
 ### Enhancements Made
 - Added Sartre's pour-soi (1943) as anticipating the regress argument against illusionism
-- Added cross-link to [existentialism](/archive/concepts/existentialism/) with context about how pour-soi undermines illusionism
+- Added cross-link to [existentialism](/concepts/existentialism/) with context about how pour-soi undermines illusionism
 - Trimmed minor redundancy ("The bracketing is an experience. The decision to bracket is an act of consciousness." → combined into single sentence)
 
 ### Cross-links Added
-- [existentialism](/archive/concepts/existentialism/) (frontmatter concepts and Further Reading)
+- [existentialism](/concepts/existentialism/) (frontmatter concepts and Further Reading)
 
 ## Remaining Items
 

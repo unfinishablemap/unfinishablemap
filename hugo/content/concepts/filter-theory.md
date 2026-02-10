@@ -35,7 +35,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by [William James](/topics/william-james-consciousness/), Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain is interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to The Unfinishable Map's [interactionist dualism](/archive/arguments/interactionist-dualism/) and explains how [dualism](/tenets/#dualism) can accommodate the empirical findings that seem to support materialism.
+The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by [William James](/topics/william-james-consciousness/), Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain is interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to The Unfinishable Map's [interactionist dualism](/concepts/interactionist-dualism/) and explains how [dualism](/tenets/#dualism) can accommodate the empirical findings that seem to support materialism.
 
 ## The Core Claim
 
@@ -134,13 +134,13 @@ Filter theory explains this: consciousness is not located in neural tissue but i
 
 ### Simple Organisms and the Filter Boundary
 
-The [minimal-consciousness](/archive/concepts/minimal-consciousness/) literature raises a sharp question for filter theory: where does the filter begin? If consciousness interfaces with brains, what happens with organisms that have minimal or no neural tissue?
+The [minimal-consciousness](/concepts/minimal-consciousness/) literature raises a sharp question for filter theory: where does the filter begin? If consciousness interfaces with brains, what happens with organisms that have minimal or no neural tissue?
 
 *C. elegans* has exactly 302 neurons, a completely mapped connectome, and displays learning behaviors—yet we cannot determine whether it experiences anything. On filter theory, this organism may lack the structural complexity required for consciousness to interface effectively. The filter model doesn't require every neural system to provide an interface; it requires only that *some* physical structures serve this function better than others.
 
 The slime mold case is more puzzling. *Physarum polycephalum* solves mazes, optimizes networks, and displays [habituation](/voids/habituation-void/)—all without neurons. If filter theory requires neural interfaces, slime mold cognition should be impossible. The resolution: cognition and consciousness may fully dissociate. Slime molds may process information without providing any interface for phenomenal experience. Their behaviors are adaptive responses, not conscious choices. This preserves filter theory while acknowledging that information processing doesn't require consciousness.
 
-This has implications for the [brain-specialness](/archive/concepts/brain-specialness/) question. Not just *any* complex system serves as a consciousness interface—the brain's specific properties (quantum sensitivity, representational structure, attention mechanisms) make it suitable. Slime molds, despite sophisticated computation, may lack whatever property makes the interface work.
+This has implications for the [brain-specialness](/brain-specialness/) question. Not just *any* complex system serves as a consciousness interface—the brain's specific properties (quantum sensitivity, representational structure, attention mechanisms) make it suitable. Slime molds, despite sophisticated computation, may lack whatever property makes the interface work.
 
 ## The Rendering Engine Analogy
 
@@ -166,7 +166,7 @@ This is a fair challenge. How does non-physical consciousness interface with phy
 
 ### "Why brains specifically?"
 
-If consciousness transmits through physical interfaces, why are brains suitable interfaces while rocks are not? The [brain-specialness](/archive/concepts/brain-specialness/) article identifies five criteria that an interface requires: quantum sensitivity (functionally relevant quantum effects), representational structure (encoding alternatives), attention mechanisms (directed focus), feedback integration (outcome evaluation), and developmental history (co-construction). Brains evolved under selection pressure to meet all five criteria; most physical systems meet none. This explains the specificity of brain-consciousness correlation without reducing consciousness to brain activity.
+If consciousness transmits through physical interfaces, why are brains suitable interfaces while rocks are not? The [brain-specialness](/brain-specialness/) article identifies five criteria that an interface requires: quantum sensitivity (functionally relevant quantum effects), representational structure (encoding alternatives), attention mechanisms (directed focus), feedback integration (outcome evaluation), and developmental history (co-construction). Brains evolved under selection pressure to meet all five criteria; most physical systems meet none. This explains the specificity of brain-consciousness correlation without reducing consciousness to brain activity.
 
 ### "Isn't 'filtering' just a metaphor?"
 
@@ -230,17 +230,17 @@ The Buddhist framework offers something filter theory lacks: a detailed phenomen
 
 - [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: how filter theory explains identity persistence through anesthesia and death
 - [default-mode-network](/concepts/default-mode-network/) — The brain's self-referential system as a specific filter mechanism
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Filter theory and simple organisms
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Filter theory and simple organisms
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist parallels and meditation as filter reduction
 - [mysterianism](/concepts/mysterianism/) — Compatibility with cognitive closure
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Psychedelics, flow, and interface configurations
-- [brain-specialness](/archive/concepts/brain-specialness/) — Why brains specifically serve as interfaces
+- [brain-specialness](/brain-specialness/) — Why brains specifically serve as interfaces
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Anesthesia and covert consciousness
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced experience during brain compromise
 - [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Consciousness without sensory input
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Why correlates don't prove production
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The broader framework
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The proposed mechanism for mind-brain interface
 - [habituation-void](/voids/habituation-void/) — Habituation as a filtering mechanism that screens out the familiar
 

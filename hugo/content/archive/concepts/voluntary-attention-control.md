@@ -132,7 +132,7 @@ This mechanism explains several features of voluntary attention:
 
 ### Attention-Motor Unification
 
-The [premotor theory of attention](/archive/concepts/attention-motor-quantum-interface/) (PMTA) proposes that attention shifts *are* motor plans—attending to a location is preparing an orienting movement toward it. This unification has profound implications for voluntary attention control.
+The [premotor theory of attention](/concepts/attention-motor-quantum-interface/) (PMTA) proposes that attention shifts *are* motor plans—attending to a location is preparing an orienting movement toward it. This unification has profound implications for voluntary attention control.
 
 If attention is motor planning, then the willed attention findings above—frontal theta, ~300ms deployment, effortful phenomenology—describe a unified attention-motor selection mechanism. The ~300ms willed attention deployment matches the ~280ms motor commitment point identified by Thura and Cisek (2014). The frontal theta oscillations appear in both willed attention and willed motor preparation. The bidirectional frontoparietal coherence during willed attention mirrors motor preparation dynamics.
 
@@ -195,7 +195,7 @@ Against [epiphenomenalism](/arguments/epiphenomenalism/): if voluntary attention
 
 ## Further Reading
 
-- [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) - How PMTA unifies attention and motor selection under one quantum mechanism
+- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) - How PMTA unifies attention and motor selection under one quantum mechanism
 - [mental-effort](/concepts/mental-effort/) - The phenomenology of effortful attention and Stapp's mechanism
 - [attention](/concepts/attention/) - Broader treatment of attention-consciousness relationship
 - [attention-as-interface](/concepts/attention-as-interface/) - The interface hypothesis in detail

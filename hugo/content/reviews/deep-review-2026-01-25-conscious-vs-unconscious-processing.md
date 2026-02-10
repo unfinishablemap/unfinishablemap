@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-25
-**Article**: [Conscious Vs Unconscious Processing](/archive/topics/conscious-vs-unconscious-processing/)
+**Article**: [Conscious Vs Unconscious Processing](/concepts/conscious-vs-unconscious-processing/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Interface Locality](/archive/concepts/interface-locality/)
+**Article**: [Interface Locality](/interface-locality/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

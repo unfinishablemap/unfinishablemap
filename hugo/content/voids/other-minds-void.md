@@ -73,7 +73,7 @@ Certain moments pierce the ordinary invisibility:
 
 Philosophy has proposed several responses to the asymmetry, none fully satisfying:
 
-**Argument from analogy.** My body and behaviour correlate with my mental states; your body and behaviour are similar; therefore you likely have similar mental states. The problem: this generalises from a sample of one. And if [dualism](/archive/arguments/interactionist-dualism/) is correct—if mind and body have no necessary logical connection—the analogy becomes even more tenuous.
+**Argument from analogy.** My body and behaviour correlate with my mental states; your body and behaviour are similar; therefore you likely have similar mental states. The problem: this generalises from a sample of one. And if [dualism](/concepts/interactionist-dualism/) is correct—if mind and body have no necessary logical connection—the analogy becomes even more tenuous.
 
 **Inference to best explanation.** Other minds best explain observed behaviour. This is stronger than analogy—abductive rather than inductive—but still leaves the inference gap. Best explanation for what? For behaviour. But the void concerns experience, not behaviour.
 

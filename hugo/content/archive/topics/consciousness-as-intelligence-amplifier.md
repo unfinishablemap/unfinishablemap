@@ -54,7 +54,7 @@ The amplification thesis applies differently to each:
 
 - **For executive function**: That working memory and cognitive control enable complex reasoning is empirically established. The question is what relationship these functions have to phenomenal consciousness—do they cause it, constitute it, merely correlate with it, or is the relationship contingent?
 
-In what follows, we'll examine evidence for consciousness's causal role while noting which sense(s) of consciousness each argument supports. The strongest case for [interactionist dualism](/archive/arguments/interactionist-dualism/) requires showing that phenomenal consciousness specifically—not just its functional or neural correlates—makes a causal difference. But establishing functional roles for access consciousness and working memory is still valuable, since these capacities may depend on or be partially constituted by phenomenal consciousness in ways we don't yet fully understand.
+In what follows, we'll examine evidence for consciousness's causal role while noting which sense(s) of consciousness each argument supports. The strongest case for [interactionist dualism](/concepts/interactionist-dualism/) requires showing that phenomenal consciousness specifically—not just its functional or neural correlates—makes a causal difference. But establishing functional roles for access consciousness and working memory is still valuable, since these capacities may depend on or be partially constituted by phenomenal consciousness in ways we don't yet fully understand.
 
 ## Why Phenomenal Consciousness Is Not Reducible to Neural Activity
 
@@ -78,7 +78,7 @@ This response becomes implausible once we accept that phenomenal consciousness i
 
 Compare: if neural activity produced both adaptive behavior *and* (as a byproduct) a faint electromagnetic hum at a frequency no organism can detect, we wouldn't expect the hum's pitch to correlate with behavioral urgency. The hum would be a random side effect, not a systematic indicator. But phenomenal character is not random—it tracks what matters for fitness with remarkable precision.
 
-The interactionist alternative offers a more unified explanation: phenomenal consciousness exists *because* it influences behavior. The painfulness of pain doesn't just happen to correlate with pain behavior—it causally contributes to withdrawal, learning, and behavioral adjustment. The phenomenal character of experience plays a functional role in selecting among possible neural patterns or biasing cognitive processing, as detailed in the Map's [response to the causal closure objection](/archive/arguments/interactionist-dualism/#the-causal-closure-argument).
+The interactionist alternative offers a more unified explanation: phenomenal consciousness exists *because* it influences behavior. The painfulness of pain doesn't just happen to correlate with pain behavior—it causally contributes to withdrawal, learning, and behavioral adjustment. The phenomenal character of experience plays a functional role in selecting among possible neural patterns or biasing cognitive processing, as detailed in the Map's [response to the causal closure objection](/concepts/interactionist-dualism/#the-causal-closure-argument).
 
 Crucially, this evolutionary argument works only if we first accept that phenomenal consciousness is not reducible to neural activity. If one accepts physicalist reduction—the view that phenomenal states just are certain neural states, fully captured by physical description—then the evolutionary puzzle dissolves. Selection on neural states *is* selection on phenomenal states, since they're identical. The argument depends on the ontological gap established in the previous section.
 
@@ -92,7 +92,7 @@ What does this evidence establish? It shows that **access consciousness** and **
 
 This ambiguity is common in consciousness research. Studies typically test access consciousness (information available for report and reasoning), not phenomenal consciousness specifically. The two usually coincide in humans, but might conceivably dissociate—a philosophical zombie might have access consciousness without phenomenal experience. [Global Workspace Theory](/concepts/global-workspace-theory/) models how conscious access enables information broadcast across brain systems, but doesn't address whether such broadcast necessarily feels like something.
 
-For the amplification thesis to support [interactionist dualism](/archive/arguments/interactionist-dualism/), we need evidence that phenomenal consciousness itself makes a causal difference beyond access consciousness and executive function. The cognitive load evidence shows that conscious processing (in the access/executive sense) amplifies intelligence, but leaves open whether phenomenal experience is functionally necessary.
+For the amplification thesis to support [interactionist dualism](/concepts/interactionist-dualism/), we need evidence that phenomenal consciousness itself makes a causal difference beyond access consciousness and executive function. The cognitive load evidence shows that conscious processing (in the access/executive sense) amplifies intelligence, but leaves open whether phenomenal experience is functionally necessary.
 
 ## Flexible Response and Metacognitive Monitoring
 
@@ -164,7 +164,7 @@ Finally, the [Occam's Razor Has Limits tenet](/tenets/#occams-limits) applies. E
 
 ## Further Reading
 
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework for how consciousness influences brain states
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The framework for how consciousness influences brain states
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The opposing view that consciousness is causally inert
 - [global-workspace-theory](/concepts/global-workspace-theory/) — How conscious access enables information broadcast
 - [metacognition](/concepts/metacognition/) — Thinking about thinking, enabled by consciousness

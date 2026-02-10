@@ -54,12 +54,12 @@ None identified beyond scope of cross-review.
 ### Enhancements Made
 
 1. Added "Existentialist Support" subsection explaining how Sartre's pour-soi/en-soi distinction strengthens the case against idealism—the subject-object distinction idealism dissolves may be necessary for genuine agency
-2. Added [existentialism](/archive/concepts/existentialism/) to Further Reading with explanation
-3. Added [existentialism](/archive/concepts/existentialism/) to concepts frontmatter
+2. Added [existentialism](/concepts/existentialism/) to Further Reading with explanation
+3. Added [existentialism](/concepts/existentialism/) to concepts frontmatter
 
 ### Cross-links Added
 
-- [existentialism](/archive/concepts/existentialism/) — new connection explaining pour-soi/en-soi relevance
+- [existentialism](/concepts/existentialism/) — new connection explaining pour-soi/en-soi relevance
 
 ## Remaining Items
 

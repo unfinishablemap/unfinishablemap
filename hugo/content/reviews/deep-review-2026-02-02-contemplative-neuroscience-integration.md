@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Contemplative Neuroscience Integration](/archive/topics/contemplative-neuroscience-integration/)
+**Article**: [Contemplative Neuroscience Integration](/contemplative-neuroscience-integration/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

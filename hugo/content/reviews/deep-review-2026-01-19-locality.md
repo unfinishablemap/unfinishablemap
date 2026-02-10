@@ -53,12 +53,12 @@ topics: []
 - Added Kim's work to References
 
 ### Cross-links Added
-- [interface-locality](/archive/concepts/interface-locality/)
-- [brain-specialness](/archive/concepts/brain-specialness/)
+- [interface-locality](/interface-locality/)
+- [brain-specialness](/brain-specialness/)
 - [pairing-problem](/concepts/pairing-problem/)
 - [binding-problem](/concepts/binding-problem/)
 - [quantum-consciousness](/concepts/quantum-consciousness/)
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/)
+- [interactionist-dualism](/concepts/interactionist-dualism/)
 - [decoherence](/concepts/decoherence/)
 
 ## Remaining Items

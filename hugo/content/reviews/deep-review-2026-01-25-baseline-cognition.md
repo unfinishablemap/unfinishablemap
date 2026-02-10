@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-25
-**Article**: [Baseline Cognition](/archive/topics/baseline-cognition/)
+**Article**: [Baseline Cognition](/concepts/baseline-cognition/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -109,7 +109,7 @@ Six sympathetic personas reviewed the document:
 - [free-will](/topics/free-will/)
 - [agent-causation](/concepts/agent-causation/)
 - [voluntary-attention](/concepts/voluntary-attention/)
-- [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/)
+- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
 

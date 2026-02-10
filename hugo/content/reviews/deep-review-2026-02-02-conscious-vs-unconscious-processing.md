@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Conscious vs Unconscious Processing](/archive/topics/conscious-vs-unconscious-processing/)
+**Article**: [Conscious vs Unconscious Processing](/concepts/conscious-vs-unconscious-processing/)
 **Previous review**: [2026-01-24](/reviews/deep-review-2026-01-24-conscious-vs-unconscious-processing/)
 
 ## Context

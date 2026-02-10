@@ -95,7 +95,7 @@ It also preserves the intuition that consciousness is closely tied to brains. A 
 
 Both substance and property dualism share the central insight: [materialism](/arguments/materialism/) fails to account for consciousness. The knowledge argument (Mary's Room), conceivability arguments (zombies), and the intrinsic character of qualia all point toward something beyond physics. Whether you package this as separate substances or irreducible properties, you're affirming that the physical story leaves something out.
 
-Both views are compatible with [interactionism](/archive/arguments/interactionist-dualism/)—though historically, property dualists have sometimes been attracted to epiphenomenalism (mental properties are real but causally inert). The Map's framework requires causal efficacy, which either ontology can accommodate.
+Both views are compatible with [interactionism](/concepts/interactionist-dualism/)—though historically, property dualists have sometimes been attracted to epiphenomenalism (mental properties are real but causally inert). The Map's framework requires causal efficacy, which either ontology can accommodate.
 
 ### Where They Differ
 
@@ -230,7 +230,7 @@ The substance/property distinction matters less than it might seem for the Map's
 ## Further Reading
 
 - [russellian-monism](/concepts/russellian-monism/) — A sophisticated middle position that may be dualism under another name
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — the Map's position combining dualism with causal interaction
+- [interactionist-dualism](/concepts/interactionist-dualism/) — the Map's position combining dualism with causal interaction
 - [pairing-problem](/concepts/pairing-problem/) — Kim's challenge to substance dualism that property dualism avoids
 - [materialism](/arguments/materialism/) — The view both dualist positions reject
 - [epiphenomenalism](/arguments/epiphenomenalism/) — Property dualism's temptation that the Map refuses

@@ -51,7 +51,7 @@ Aesthetic experience is not confined to art galleries and concert halls. It suff
 
 **Abstract thought**: Ideas themselves have aesthetic character. A mathematical proof can be *elegant* or *clunky*. An argument can be *beautiful* or *ugly* independent of its validity. Einstein reported that general relativity "felt right" before he could prove it; mathematicians speak of proofs that are "too ugly to be true." The aesthetic dimension extends into pure cognition.
 
-**Emotional experience**: [Emotions](/archive/concepts/emotional-consciousness/) are not merely valenced (pleasant/unpleasant) but aesthetically textured. Joy can be *radiant* or *quiet*; sadness can be *poignant* or *heavy*; anger can be *sharp* or *simmering*. These aesthetic qualities are not reducible to hedonic tone.
+**Emotional experience**: [Emotions](/topics/emotional-consciousness/) are not merely valenced (pleasant/unpleasant) but aesthetically textured. Joy can be *radiant* or *quiet*; sadness can be *poignant* or *heavy*; anger can be *sharp* or *simmering*. These aesthetic qualities are not reducible to hedonic tone.
 
 ## The Structure of Aesthetic Quality
 
@@ -196,7 +196,7 @@ The aesthetic dimension of consciousness supports all five of the Map's foundati
 - [qualia](/concepts/qualia/) — The broader problem of qualitative experience
 - [phenomenology](/concepts/phenomenology/) — First-person investigation of experience
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — Value as intrinsic to experience
-- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — Affective qualities and valence
+- [emotional-consciousness](/topics/emotional-consciousness/) — Affective qualities and valence
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The aesthetic qualities of time
 - [illusionism](/concepts/illusionism/) — The challenge from eliminativism
 - [introspection](/concepts/introspection/) — First-person access to aesthetic qualities

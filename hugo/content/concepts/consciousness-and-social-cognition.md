@@ -47,7 +47,7 @@ The question is where consciousness enters. Some social capacities operate autom
 
 ### The Primate Baseline
 
-Great apes demonstrate sophisticated social cognition that operates within [baseline-cognition](/archive/topics/baseline-cognition/):
+Great apes demonstrate sophisticated social cognition that operates within [baseline-cognition](/concepts/baseline-cognition/):
 
 **Social tracking**: Chimpanzees monitor dominance hierarchies, track who saw what, remember past interactions, and adjust behaviour accordingly. They anticipate others' actions based on what those others have seen or experienced.
 
@@ -83,7 +83,7 @@ The debate continues, however. Some researchers argue these results reflect genu
 
 Representing others' mental states about mental states. "She thinks that I think the food is hidden." This recursive nesting—beliefs about beliefs, intentions about intentions—enables strategic social reasoning, deception detection, and the coordination complexities of human social life.
 
-**The key claim**: Levels 0-1 may operate through [baseline-cognition](/archive/topics/baseline-cognition/) without requiring phenomenal consciousness. Level 2 is contested—recent evidence suggests apes possess at least implicit belief tracking, and the question is whether this reflects genuine belief attribution or a sophisticated behaviour-reading mechanism. Level 3 appears to require explicit metarepresentation—representing mental states *as* mental states.
+**The key claim**: Levels 0-1 may operate through [baseline-cognition](/concepts/baseline-cognition/) without requiring phenomenal consciousness. Level 2 is contested—recent evidence suggests apes possess at least implicit belief tracking, and the question is whether this reflects genuine belief attribution or a sophisticated behaviour-reading mechanism. Level 3 appears to require explicit metarepresentation—representing mental states *as* mental states.
 
 **An important caveat**: The human-ape gap in social cognition does not straightforwardly track consciousness. Humans also differ from apes in working memory capacity, executive function, and language—any of which could contribute to the gap independently of phenomenal consciousness. The Map's claim is that phenomenal consciousness plays an essential role in the highest levels, but this must be argued rather than assumed from the comparative data alone.
 
@@ -154,7 +154,7 @@ Feeling for another because you understand their situation. This adds a normativ
 
 **The key question**: Does the progression from contagion to cognitive empathy to empathic concern track increasing involvement of phenomenal consciousness?
 
-The [emotional-consciousness](/archive/concepts/emotional-consciousness/) literature suggests that felt emotional states—the *phenomenal* character of emotions—may be required for empathic concern. You must feel something yourself to care about another's feeling in the way empathic concern involves. Understanding without feeling—pure cognitive empathy—might produce predictions of behaviour but not the motivation to help that characterises genuine concern.
+The [emotional-consciousness](/topics/emotional-consciousness/) literature suggests that felt emotional states—the *phenomenal* character of emotions—may be required for empathic concern. You must feel something yourself to care about another's feeling in the way empathic concern involves. Understanding without feeling—pure cognitive empathy—might produce predictions of behaviour but not the motivation to help that characterises genuine concern.
 
 This connects to the [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) thesis. Emotional contagion operates at the baseline level—automatic, unconscious, not requiring phenomenal awareness. Empathic concern requires the amplification consciousness provides: representing the other's state explicitly, feeling something in response, and being motivated by that feeling to act.
 
@@ -251,7 +251,7 @@ The simpler hypothesis—social cognition is just sophisticated information proc
 ## Further Reading
 
 ### Core Concepts
-- [baseline-cognition](/archive/topics/baseline-cognition/) — The cognitive floor from which consciousness amplifies social abilities
+- [baseline-cognition](/concepts/baseline-cognition/) — The cognitive floor from which consciousness amplifies social abilities
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them: the procedural/declarative distinction
 - [metarepresentation](/concepts/metarepresentation/) — Why representing minds *as* minds requires consciousness
 - [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/) — Social transmission as paradigm case of consciousness-dependent cognition
@@ -262,7 +262,7 @@ The simpler hypothesis—social cognition is just sophisticated information proc
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems could have genuine social understanding
 - [cumulative-culture](/concepts/cumulative-culture/) — How metarepresentational social cognition enables cultural ratcheting
 - [intentionality](/concepts/intentionality/) — The aboutness of mental states and its role in social understanding
-- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — The felt dimension of empathic concern
+- [emotional-consciousness](/topics/emotional-consciousness/) — The felt dimension of empathic concern
 
 ### Research Notes
 - [consciousness-influence-intelligence-2026-01-21](/research/consciousness-influence-intelligence-2026-01-21/) — Evidence that consciousness causally contributes to intelligence

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-26
-**Article**: [Emotional Consciousness and Valence](/archive/concepts/emotional-consciousness/)
+**Article**: [Emotional Consciousness and Valence](/topics/emotional-consciousness/)
 **Previous review**: [2026-01-19](/reviews/deep-review-2026-01-19-emotional-consciousness/)
 
 ## Pessimistic Analysis Summary

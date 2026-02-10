@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-02-02
 **Article**: [Qualia](/concepts/qualia/)
 **Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-qualia/)
-**Context**: Cross-review considering [emotional valence article](/archive/concepts/emotional-consciousness/)
+**Context**: Cross-review considering [emotional valence article](/topics/emotional-consciousness/)
 
 ## Pessimistic Analysis Summary
 
@@ -50,13 +50,13 @@ None
 - Front-loaded opening summary
 
 ### Enhancements Made
-1. Cross-link to [emotional-consciousness](/archive/concepts/emotional-consciousness/) in "Why Qualia Matter" section
+1. Cross-link to [emotional-consciousness](/topics/emotional-consciousness/) in "Why Qualia Matter" section
 2. Pain asymbolia reference demonstrating valence's causal efficacy
 3. Note on emotional valence as exemplifying intrinsicness
-4. Added [emotional-consciousness](/archive/concepts/emotional-consciousness/) to related_articles frontmatter
+4. Added [emotional-consciousness](/topics/emotional-consciousness/) to related_articles frontmatter
 
 ### Cross-links Added
-- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — Valence as paradigm qualia, pain asymbolia evidence
+- [emotional-consciousness](/topics/emotional-consciousness/) — Valence as paradigm qualia, pain asymbolia evidence
 
 ## Remaining Items
 

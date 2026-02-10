@@ -268,7 +268,7 @@ The arguments against epiphenomenalism directly support the Map's framework:
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view examined in detail
 - [mental-causation](/concepts/mental-causation/) — Kim's exclusion argument and responses
 - [causal-closure](/concepts/causal-closure/) — The principle motivating epiphenomenalism
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The positive case for interaction
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The positive case for interaction
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How mental causation could work
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The proposed mechanism for mental causation
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what it shows

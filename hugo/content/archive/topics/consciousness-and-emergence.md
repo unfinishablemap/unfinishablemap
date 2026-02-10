@@ -53,7 +53,7 @@ This position is [functionalism](/arguments/functionalism/) applied to the emerg
 
 The appeal is parsimony. Only physics exists; consciousness is physics doing something intricate. No new ontological categories, no mysterious interfaces, no violation of [causal closure](/concepts/causal-closure/). The cost is the [hard problem](/topics/hard-problem-of-consciousness/). If consciousness is derivable from physics, then a hypothetical being with complete knowledge of every particle's behaviour could deduce what red looks like, what pain feels like, what it is to wonder about emergence. No one has shown how such a derivation could work, or even what it would look like. The "derivation in principle" remains a promissory note.
 
-Weak emergence also entails [substrate independence](/archive/concepts/substrate-independence-critique/). If the computation is what matters, consciousness could run on anything—neurons, silicon, carefully arranged beer cans. The Map rejects this: if consciousness interfaces with matter through [quantum processes](/concepts/quantum-consciousness/), the physical substrate is not interchangeable.
+Weak emergence also entails [substrate independence](/substrate-independence-critique/). If the computation is what matters, consciousness could run on anything—neurons, silicon, carefully arranged beer cans. The Map rejects this: if consciousness interfaces with matter through [quantum processes](/concepts/quantum-consciousness/), the physical substrate is not interchangeable.
 
 ### Strong Emergence: Consciousness as Genuine Novelty
 
@@ -127,7 +127,7 @@ The Map treats the gap as ontological. The [hard problem](/topics/hard-problem-o
 
 ## Further Reading
 
-- [emergence-and-strong-emergence](/archive/topics/emergence-and-strong-emergence/) — Why consciousness forces acceptance of strong emergence
+- [emergence-and-strong-emergence](/emergence-and-strong-emergence/) — Why consciousness forces acceptance of strong emergence
 - [emergence](/concepts/emergence/) — The technical concept: weak vs. strong emergence, Kim's argument
 - [emergence-void](/voids/emergence-void/) — The cognitive limit: why no mind can fully grasp how arrangement produces novelty
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged and what this reveals
@@ -136,7 +136,7 @@ The Map treats the gap as ontological. The [hard problem](/topics/hard-problem-o
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem strong emergence addresses
 - [causal-closure](/concepts/causal-closure/) — The principle strong emergentism must deny
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge at the same boundary
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The Map's framework as strong emergentism with mechanism
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's framework as strong emergentism with mechanism
 
 ## References
 

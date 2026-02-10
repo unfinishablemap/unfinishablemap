@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-30
-**Article**: [Experiential Alignment Objective](/archive/concepts/experiential-alignment-objective/)
+**Article**: [Experiential Alignment Objective](/experiential-alignment-objective/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

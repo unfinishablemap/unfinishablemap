@@ -37,7 +37,7 @@ topics:
 - '[[free-will]]'
 ---
 
-The energy conservation objection to [interactionist-dualism](/archive/arguments/interactionist-dualism/) claims that if non-physical consciousness could move matter, energy would be created or destroyed—violating one of physics' most fundamental principles. This objection, pressed since Leibniz in the 1690s (see [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) for the full historical development), has been revitalized by contemporary physicists like Sean Carroll who argue the Standard Model leaves no room for "soul particles." Yet recent work by philosophers of physics demonstrates that this objection rests on misunderstandings of how conservation laws actually work. Conservation is *local* and *conditional*—it holds given certain assumptions, and fails where those assumptions fail. More importantly, consciousness may influence brain states without injecting energy at all: by selecting among quantum-permitted outcomes rather than adding anything new to the physical domain.
+The energy conservation objection to [interactionist-dualism](/concepts/interactionist-dualism/) claims that if non-physical consciousness could move matter, energy would be created or destroyed—violating one of physics' most fundamental principles. This objection, pressed since Leibniz in the 1690s (see [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) for the full historical development), has been revitalized by contemporary physicists like Sean Carroll who argue the Standard Model leaves no room for "soul particles." Yet recent work by philosophers of physics demonstrates that this objection rests on misunderstandings of how conservation laws actually work. Conservation is *local* and *conditional*—it holds given certain assumptions, and fails where those assumptions fail. More importantly, consciousness may influence brain states without injecting energy at all: by selecting among quantum-permitted outcomes rather than adding anything new to the physical domain.
 
 ## The Objection Stated
 
@@ -170,14 +170,14 @@ This article shows the objection fails:
 
 The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet—"the smallest possible non-physical influence on quantum outcomes"—aligns precisely with the selection-not-injection framework. Consciousness doesn't add force or energy; it biases which of the quantum-permitted outcomes becomes actual. "Minimal" applies in two dimensions: minimal energy (none injected) and minimal scope (own brain only, as the [brain-specialness-boundary](/topics/brain-specialness-boundary/) explains). The interaction is doubly constrained.
 
-This doesn't prove consciousness acts at quantum indeterminacies. It shows that if consciousness does so act, physics provides no barrier. The positive case for interaction comes from philosophical arguments: the [explanatory-gap](/concepts/explanatory-gap/), the [knowledge-argument](/concepts/knowledge-argument/), the self-stultification of epiphenomenalism, and the [empirical evidence](/archive/topics/baseline-cognition/) that consciousness enables cognitive functions the unconscious baseline cannot achieve.
+This doesn't prove consciousness acts at quantum indeterminacies. It shows that if consciousness does so act, physics provides no barrier. The positive case for interaction comes from philosophical arguments: the [explanatory-gap](/concepts/explanatory-gap/), the [knowledge-argument](/concepts/knowledge-argument/), the self-stultification of epiphenomenalism, and the [empirical evidence](/concepts/baseline-cognition/) that consciousness enables cognitive functions the unconscious baseline cannot achieve.
 
 The selection framework also has implications for [free-will](/topics/free-will/). If consciousness can select among quantum-permitted neural outcomes, this provides a mechanism for agent causation that libertarians about free will require—a locus where mind genuinely determines what happens rather than merely accompanying physical processes.
 
 ## Further Reading
 
 - [causal-closure](/concepts/causal-closure/) — The philosophical principle and why the Map rejects it
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The broader framework for mind-matter interaction
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework for mind-matter interaction
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Specific mechanism: quantum Zeno effect
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum approaches
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse remains unexplained

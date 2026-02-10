@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-22
-**Article**: [Baseline Cognition](/archive/topics/baseline-cognition/)
+**Article**: [Baseline Cognition](/concepts/baseline-cognition/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

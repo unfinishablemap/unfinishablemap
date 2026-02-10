@@ -90,7 +90,7 @@ The distinction matters because:
 
 Creature consciousness asks which beings are conscious—which things have *any* experiences. State consciousness asks which mental states of a conscious being are themselves conscious—when you're thinking about dinner while brushing your teeth, is the brushing conscious?
 
-Both questions connect to the Map's framework: creature consciousness relates to [evolution-of-consciousness](/concepts/evolution-of-consciousness/) and [minimal-consciousness](/archive/concepts/minimal-consciousness/); state consciousness relates to [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) and attention.
+Both questions connect to the Map's framework: creature consciousness relates to [evolution-of-consciousness](/concepts/evolution-of-consciousness/) and [minimal-consciousness](/concepts/minimal-consciousness/); state consciousness relates to [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) and attention.
 
 ## Theories of Consciousness {#theories}
 
@@ -110,7 +110,7 @@ The Map rejects illusionism but takes it seriously as the strongest physicalist 
 
 ### Dualist Theories
 
-**[Interactionist Dualism](/archive/arguments/interactionist-dualism/)** holds that consciousness is distinct from physical processes yet causally connected to them. This is the Map's position. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) specifies the interface: consciousness influences quantum indeterminacies without injecting energy.
+**[Interactionist Dualism](/concepts/interactionist-dualism/)** holds that consciousness is distinct from physical processes yet causally connected to them. This is the Map's position. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) specifies the interface: consciousness influences quantum indeterminacies without injecting energy.
 
 **[Epiphenomenalism](/arguments/epiphenomenalism/)** accepts dualism but denies causal efficacy—consciousness is a byproduct with no effects on the physical world. The Map rejects this: the very fact that we discuss consciousness shows that information about consciousness enters the physical domain, influencing speech and behaviour.
 
@@ -175,11 +175,11 @@ The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) holds 
 
 **Reports**: We discuss consciousness; this requires information about consciousness entering the physical domain to move mouths and type words.
 
-**Cognitive effects**: [Conscious processing](/archive/topics/conscious-vs-unconscious-processing/) enables functions unavailable to unconscious processing—durable maintenance, novel combinations, spontaneous intentional action. If consciousness were epiphenomenal, the [baseline cognition](/archive/topics/baseline-cognition/) hypothesis would make no sense.
+**Cognitive effects**: [Conscious processing](/concepts/conscious-vs-unconscious-processing/) enables functions unavailable to unconscious processing—durable maintenance, novel combinations, spontaneous intentional action. If consciousness were epiphenomenal, the [baseline cognition](/concepts/baseline-cognition/) hypothesis would make no sense.
 
 **Voluntary action**: We experience initiating actions. While [Libet experiments](/concepts/libet-experiments/) complicate this, they don't eliminate genuine conscious influence—they may show consciousness operating through different temporal dynamics than naive introspection suggests.
 
-The mechanism of mind-matter interaction remains speculative. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) proposes that consciousness biases quantum indeterminacies—influencing which of superposed neural states becomes actual without violating conservation laws. See [quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), and [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) for specific proposals.
+The mechanism of mind-matter interaction remains speculative. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) proposes that consciousness biases quantum indeterminacies—influencing which of superposed neural states becomes actual without violating conservation laws. See [quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), and [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) for specific proposals.
 
 ## Relation to Site Perspective
 
@@ -199,9 +199,9 @@ The Map's extensive coverage of consciousness includes:
 - Arguments against physicalism ([philosophical-zombies](/concepts/philosophical-zombies/), [knowledge-argument](/concepts/knowledge-argument/), [explanatory-gap](/concepts/explanatory-gap/), [inverted-qualia](/concepts/inverted-qualia/), [argument-from-reason](/topics/argument-from-reason/))
 - Phenomenological structure ([phenomenal-consciousness](/concepts/phenomenal-consciousness/), [qualia](/concepts/qualia/), [unity-of-consciousness](/concepts/unity-of-consciousness/), [temporal-consciousness](/concepts/temporal-consciousness/))
 - Neuroscientific interface ([neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/), [binding-problem](/concepts/binding-problem/), [global-workspace-theory](/concepts/global-workspace-theory/))
-- Functional contrasts ([access-consciousness](/concepts/access-consciousness/), [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/), [baseline-cognition](/archive/topics/baseline-cognition/))
-- Quantum mechanisms ([quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/))
-- Varieties of experience ([altered-states-of-consciousness](/concepts/altered-states-of-consciousness/), [dreams-and-consciousness](/concepts/dreams-and-consciousness/), [witness-consciousness](/concepts/witness-consciousness/), [minimal-consciousness](/archive/concepts/minimal-consciousness/))
+- Functional contrasts ([access-consciousness](/concepts/access-consciousness/), [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), [baseline-cognition](/concepts/baseline-cognition/))
+- Quantum mechanisms ([quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/))
+- Varieties of experience ([altered-states-of-consciousness](/concepts/altered-states-of-consciousness/), [dreams-and-consciousness](/concepts/dreams-and-consciousness/), [witness-consciousness](/concepts/witness-consciousness/), [minimal-consciousness](/concepts/minimal-consciousness/))
 
 ## Further Reading
 
@@ -214,11 +214,11 @@ The Map's extensive coverage of consciousness includes:
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — How diverse contents form unified experience
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability argument against physicalism
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and phenomenal knowledge
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The Map's position on mind-body relation
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's position on mind-body relation
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and limits of understanding consciousness
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Proposed mechanisms for mind-matter interaction
-- [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/) — What consciousness adds to cognition
-- [baseline-cognition](/archive/topics/baseline-cognition/) — Cognitive functions consciousness enables
+- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — What consciousness adds to cognition
+- [baseline-cognition](/concepts/baseline-cognition/) — Cognitive functions consciousness enables
 
 ## References
 

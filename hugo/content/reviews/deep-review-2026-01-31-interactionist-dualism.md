@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-31
-**Article**: [Interactionist Dualism](/archive/arguments/interactionist-dualism/)
+**Article**: [Interactionist Dualism](/concepts/interactionist-dualism/)
 **Previous review**: [2026-01-29](/reviews/deep-review-2026-01-29-interactionist-dualism/)
 **Review type**: Cross-review with causal-interface.md
 

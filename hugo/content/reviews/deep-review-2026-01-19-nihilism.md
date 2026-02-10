@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-19
-**Article**: [Nihilism](/archive/concepts/nihilism/)
+**Article**: [Nihilism](/nihilism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

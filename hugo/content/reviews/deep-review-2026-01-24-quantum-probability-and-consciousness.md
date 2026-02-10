@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-24
-**Article**: [Quantum Probability And Consciousness](/archive/concepts/quantum-probability-and-consciousness/)
+**Article**: [Quantum Probability And Consciousness](/quantum-probability-and-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

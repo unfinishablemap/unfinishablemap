@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Baseline Cognition](/archive/topics/baseline-cognition/)
+**Article**: [Baseline Cognition](/concepts/baseline-cognition/)
 **Previous review**: [2026-01-27](/reviews/deep-review-2026-01-27-baseline-cognition/)
 **Context**: Task flagged orphan integration, but article has 27 inbound links—well integrated.
 

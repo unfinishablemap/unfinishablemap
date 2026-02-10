@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-25
-**Article**: [Interactionist Dualism](/archive/arguments/interactionist-dualism/)
+**Article**: [Interactionist Dualism](/concepts/interactionist-dualism/)
 **Previous review**: [2026-01-19](/reviews/deep-review-2026-01-19-interactionist-dualism/)
 
 ## Pessimistic Analysis Summary

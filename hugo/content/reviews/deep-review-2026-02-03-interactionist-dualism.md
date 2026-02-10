@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-03
-**Article**: [Interactionist Dualism](/archive/arguments/interactionist-dualism/)
+**Article**: [Interactionist Dualism](/concepts/interactionist-dualism/)
 **Previous review**: [2026-01-31](/reviews/deep-review-2026-01-31-interactionist-dualism/)
 **Review type**: Cross-review considering delegatory dualism insights
 

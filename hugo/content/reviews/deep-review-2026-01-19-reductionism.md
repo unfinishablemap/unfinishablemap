@@ -52,7 +52,7 @@ None.
 5. **Process philosophy angle**: Added Buddhist/process philosophy perspective from buddhism-and-dualism.md challenging the rigid categories that make reduction seem possible.
 
 ### Cross-links Added
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — Added to concepts frontmatter and body text (C. elegans example)
+- [minimal-consciousness](/concepts/minimal-consciousness/) — Added to concepts frontmatter and body text (C. elegans example)
 - [mysterianism](/concepts/mysterianism/) — Added to concepts frontmatter and body (cognitive closure support)
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Added to concepts frontmatter and body (process philosophy angle)
 - Updated Further Reading section with all three new connections

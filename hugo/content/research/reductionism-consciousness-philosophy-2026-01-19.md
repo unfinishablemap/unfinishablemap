@@ -224,7 +224,7 @@ This research directly supports:
 - **[explanatory-gap](/concepts/explanatory-gap/)** — If exists, central to anti-reductionist case
 - **[downward-causation](/concepts/downward-causation/)** — What reductionism denies and the Map affirms
 - **[causal-closure](/concepts/causal-closure/)** — The principle reductionists defend and site denies at quantum level
-- **[interactionist-dualism](/archive/arguments/interactionist-dualism/)** — Site's positive alternative to reductionism
+- **[interactionist-dualism](/concepts/interactionist-dualism/)** — Site's positive alternative to reductionism
 
 Key integration opportunities:
 

@@ -109,7 +109,7 @@ The modern [causal-closure](/concepts/causal-closure/) argument is the further d
 
 ## Relation to Site Perspective
 
-The Unfinishable Map takes Elisabeth's challenge seriously precisely because its [tenets](/tenets/) commit to the position she questioned: [bidirectional mind-body causation](/archive/arguments/interactionist-dualism/). The Map cannot dismiss her objection; it must answer it.
+The Unfinishable Map takes Elisabeth's challenge seriously precisely because its [tenets](/tenets/) commit to the position she questioned: [bidirectional mind-body causation](/concepts/interactionist-dualism/). The Map cannot dismiss her objection; it must answer it.
 
 The Map's answer draws on resources unavailable to either Elisabeth or Descartes. The **Minimal Quantum Interaction** tenet proposes that consciousness biases otherwise indeterminate quantum outcomes—selecting among possibilities that physics leaves open rather than pushing matter through contact. This sidesteps the causal interface problem: consciousness need not make physical contact with neurons because it operates at the point where physics is already incomplete (the [measurement-problem](/concepts/measurement-problem/)). Selection among pre-existing physical possibilities differs from mechanical pushing because it requires no transfer of energy or momentum—it resolves an indeterminacy that physics itself leaves open. The Map's framework of [delegatory-dualism](/topics/delegatory-dualism/) develops this response in detail, treating consciousness as resolving quantum measurement outcomes within constraints that physics delegates.
 
@@ -124,7 +124,7 @@ Elisabeth identified the problem that any interactionist dualism must solve. Nea
 ## Further Reading
 
 - [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) — The broader arc from Descartes through quantum mechanics
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The contemporary position
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The contemporary position
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Leibniz's conservation objection and its failure
 - [pairing-problem](/concepts/pairing-problem/) — Kim's formalisation of Elisabeth's challenge
 - [causal-closure](/concepts/causal-closure/) — The modern descendant of the interaction problem

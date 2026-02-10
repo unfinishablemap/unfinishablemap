@@ -75,7 +75,7 @@ Godfrey-Smith argues that features of vertebrate brain architecture traditionall
 
 ## Baseline Cognition: What Neural Processing Achieves Without Consciousness
 
-The [baseline cognition hypothesis](/archive/topics/baseline-cognition/) provides a framework for understanding what distinguishes human intelligence from that of other sophisticated animals. Great apes—chimpanzees, bonobos, gorillas—share 98-99% of our DNA and display remarkable cognitive abilities: tool use, social reasoning, emotional complexity, cultural traditions, procedural metacognition. Yet humans alone produce cumulative culture, abstract mathematics, and technological civilisation.
+The [baseline cognition hypothesis](/concepts/baseline-cognition/) provides a framework for understanding what distinguishes human intelligence from that of other sophisticated animals. Great apes—chimpanzees, bonobos, gorillas—share 98-99% of our DNA and display remarkable cognitive abilities: tool use, social reasoning, emotional complexity, cultural traditions, procedural metacognition. Yet humans alone produce cumulative culture, abstract mathematics, and technological civilisation.
 
 The hypothesis proposes that great ape cognition represents what neural processing achieves *without* substantial conscious contribution, while human-level cognition requires expanded conscious access. This isn't a claim that great apes lack consciousness—they almost certainly have emotional and perceptual consciousness. The claim is that certain cognitive operations specifically require phenomenal consciousness to function.
 
@@ -176,9 +176,9 @@ This apex article draws on all five tenets:
 This apex article synthesises:
 - [Animal Consciousness](/topics/animal-consciousness/) — The comprehensive treatment of consciousness across species, from great apes to insects
 - [Consciousness in Simple Organisms](/topics/consciousness-in-simple-organisms/) — C. elegans, Hydra, slime moulds, and the boundaries of experience
-- [Baseline Cognition](/archive/topics/baseline-cognition/) — What neural systems achieve without consciousness and the human-ape intelligence gap
+- [Baseline Cognition](/concepts/baseline-cognition/) — What neural systems achieve without consciousness and the human-ape intelligence gap
 - [Phenomenal Consciousness](/concepts/phenomenal-consciousness/) — The subjective, felt quality of experience that defines consciousness
-- [Emotional Consciousness and Valence](/archive/concepts/emotional-consciousness/) — Why feelings feel the way they do, and why this matters morally
+- [Emotional Consciousness and Valence](/topics/emotional-consciousness/) — Why feelings feel the way they do, and why this matters morally
 
 ## Further Reading
 

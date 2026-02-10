@@ -76,7 +76,7 @@ Great apes rarely if ever teach in this sense. Despite sophisticated social lear
 
 Andrew Whiten (2015) articulates the Jourdain Hypothesis: great apes may have culture—tool-use traditions, grooming patterns—but not *know* they have culture, like Molière's character who discovered he had been speaking prose without knowing it.
 
-The [baseline-cognition](/archive/topics/baseline-cognition/) framework elaborates this. Great apes possess procedural metacognition (feelings that guide behaviour) without declarative metacognition (explicit knowledge of mental states). The difference between having mental states and representing oneself as having them marks the boundary between baseline and consciousness-amplified cognition.
+The [baseline-cognition](/concepts/baseline-cognition/) framework elaborates this. Great apes possess procedural metacognition (feelings that guide behaviour) without declarative metacognition (explicit knowledge of mental states). The difference between having mental states and representing oneself as having them marks the boundary between baseline and consciousness-amplified cognition.
 
 Cumulative culture requires metarepresentation. To improve a tool, you must represent the tool-making process *as a process* that could be done differently. Without this, cultural accumulation stalls—each generation learns what the previous knew, but cannot systematically improve upon it.
 
@@ -169,11 +169,11 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 
 - [theory-of-mind](/concepts/theory-of-mind/) — Levels 0-3+ and the metarepresentational threshold
 - [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/) — Teaching as the paradigm case of metarepresentation
-- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition achieves without metarepresentation, and why the difference matters
+- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without metarepresentation, and why the difference matters
 - [metacognition](/concepts/metacognition/) — The enabling relation between consciousness and self-monitoring
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances cognitive capacity
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — The baseline cognition hypothesis
+- [minimal-consciousness](/concepts/minimal-consciousness/) — The baseline cognition hypothesis
 - [higher-order-theories](/concepts/higher-order-theories/) — Theories that identify consciousness with metarepresentation
 - [introspection](/concepts/introspection/) — Access to one's own mental states
 - [animal-consciousness](/topics/animal-consciousness/) — The great ape comparison

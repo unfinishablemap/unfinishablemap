@@ -66,14 +66,14 @@ None. The article is well-structured and accurate.
 
 ### Enhancements Made
 
-1. Added Rizzolatti attribution for PMTA: "Giacomo Rizzolatti's [premotor theory of attention](/archive/concepts/attention-motor-quantum-interface/) (PMTA)"
+1. Added Rizzolatti attribution for PMTA: "Giacomo Rizzolatti's [premotor theory of attention](/concepts/attention-motor-quantum-interface/) (PMTA)"
 2. Added Thura & Cisek (2014) inline citation for motor commitment timing
 3. Added Desmurget et al. (2009) inline citation
 4. Added two new references to References section (Desmurget et al. 2009, Thura & Cisek 2014)
 
 ### Cross-links Verified
 
-- [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) already in frontmatter concepts and Further Reading
+- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) already in frontmatter concepts and Further Reading
 - Inline link to PMTA in body text with proper attribution
 
 ## Word Count

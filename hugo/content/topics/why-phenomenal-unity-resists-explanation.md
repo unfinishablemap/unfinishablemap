@@ -170,7 +170,7 @@ The failure of classical explanations illuminates why The Unfinishable Map takes
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gulf between physical and phenomenal
 - [emergence](/concepts/emergence/) — Weak vs strong emergence and consciousness
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why experience exists at all
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The framework within which unity finds its place
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The framework within which unity finds its place
 - [illusionism](/concepts/illusionism/) — The deflationary challenge (and why it fails)
 
 ## References

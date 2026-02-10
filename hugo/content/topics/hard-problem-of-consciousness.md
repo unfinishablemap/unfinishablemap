@@ -108,11 +108,11 @@ The [emergence-void](/voids/emergence-void/) suggests this gap may be the deepes
 
 ## The Gap Illustrated: Complete Knowledge of Simple Minds
 
-The explanatory gap gains sharpest focus when we consider [consciousness in simple organisms](/archive/concepts/minimal-consciousness/). The roundworm *C. elegans* is the most thoroughly mapped organism in neuroscience: exactly 302 neurons, 8,000 chemical synapses, 890 gap junctions. We know its complete neural connectome—every connection, every pathway. Yet we cannot determine whether *C. elegans* experiences anything.
+The explanatory gap gains sharpest focus when we consider [consciousness in simple organisms](/concepts/minimal-consciousness/). The roundworm *C. elegans* is the most thoroughly mapped organism in neuroscience: exactly 302 neurons, 8,000 chemical synapses, 890 gap junctions. We know its complete neural connectome—every connection, every pathway. Yet we cannot determine whether *C. elegans* experiences anything.
 
 This is the hard problem made empirically vivid. We *have* complete structural knowledge—and we still cannot say whether there is something it is like to be a worm. The organism exhibits behaviours suggestive of experience, yet no amount of additional structural data resolves the question.
 
-The gap is not about missing information. Complete physical description fails to tell us whether experience is present in even the simplest nervous systems we can fully characterise. See [minimal-consciousness](/archive/concepts/minimal-consciousness/) for extended analysis of boundary cases including Hydra and slime moulds.
+The gap is not about missing information. Complete physical description fails to tell us whether experience is present in even the simplest nervous systems we can fully characterise. See [minimal-consciousness](/concepts/minimal-consciousness/) for extended analysis of boundary cases including Hydra and slime moulds.
 
 ## Phenomenological Evidence: The Witness
 
@@ -140,7 +140,7 @@ The [binding problem](/concepts/binding-problem/) presents another dimension of 
 
 Classical approaches—neural synchrony, global workspace broadcasting—propose mechanisms where separate processes interact. But interaction doesn't explain unity. Synchronized firing is still firing in separate neurons. The phenomenal question remains: why does combination *feel* unified?
 
-This may be where [quantum approaches](/concepts/quantum-consciousness/) become relevant, since quantum entanglement produces genuine physical holism. The [structural parallel between the hard problem and the measurement problem](/archive/topics/consciousness-and-quantum-measurement/)—both concerning where first-person facts enter third-person descriptions—suggests these may be two faces of the same underlying issue. See [binding-problem](/concepts/binding-problem/) for detailed treatment and [decoherence](/concepts/decoherence/) for the quantum biology evidence.
+This may be where [quantum approaches](/concepts/quantum-consciousness/) become relevant, since quantum entanglement produces genuine physical holism. The [structural parallel between the hard problem and the measurement problem](/consciousness-and-quantum-measurement/)—both concerning where first-person facts enter third-person descriptions—suggests these may be two faces of the same underlying issue. See [binding-problem](/concepts/binding-problem/) for detailed treatment and [decoherence](/concepts/decoherence/) for the quantum biology evidence.
 
 ## The Pairing Problem: Why This Mind with This Body?
 
@@ -207,9 +207,9 @@ See [materialism](/arguments/materialism/) for detailed treatment of each positi
 
 ### Substrate Independence Fails
 
-If the explanatory gap is real, [substrate independence](/archive/concepts/substrate-independence-critique/) is false. Functional organization supervenes on physical arrangements—if physical facts don't explain phenomenal facts, neither does functional organization.
+If the explanatory gap is real, [substrate independence](/substrate-independence-critique/) is false. Functional organization supervenes on physical arrangements—if physical facts don't explain phenomenal facts, neither does functional organization.
 
-Block's China brain illustrates: the entire population implementing a brain's functional organization. Is China conscious? If implementing causal structure doesn't suffice for the China brain, why should it suffice for silicon? See [substrate-independence-critique](/archive/concepts/substrate-independence-critique/) for the full argument.
+Block's China brain illustrates: the entire population implementing a brain's functional organization. Is China conscious? If implementing causal structure doesn't suffice for the China brain, why should it suffice for silicon? See [substrate-independence-critique](/substrate-independence-critique/) for the full argument.
 
 ### Epiphenomenalism
 
@@ -278,7 +278,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [dualism](/concepts/dualism/) — Foundational overview: what dualism claims, main varieties, and converging arguments
 - [explanatory-gap](/concepts/explanatory-gap/) — Levine's formulation and physicalist responses
 - [materialism](/arguments/materialism/) — Why physicalist explanations fail
-- [substrate-independence-critique](/archive/concepts/substrate-independence-critique/) — Why the hard problem entails substrate skepticism
+- [substrate-independence-critique](/substrate-independence-critique/) — Why the hard problem entails substrate skepticism
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [mysterianism](/concepts/mysterianism/) — McGinn's cognitive closure thesis
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes only structure, leaving intrinsic nature unknowable

@@ -47,7 +47,7 @@ Comparing human creativity with animal innovation and AI generation reveals wher
 
 ### Animal Innovation
 
-Great apes demonstrate genuine innovation. Chimpanzees invent novel tool-use techniques, discover new food sources, and solve unfamiliar problems through insight-like behaviour. But as [baseline cognition](/archive/topics/baseline-cognition/) research shows, these innovations share a structural limitation: they remain within the zone of latent solutions—the space reachable through trial-and-error recombination of existing skills without representing those skills as objects of critique and revision.
+Great apes demonstrate genuine innovation. Chimpanzees invent novel tool-use techniques, discover new food sources, and solve unfamiliar problems through insight-like behaviour. But as [baseline cognition](/concepts/baseline-cognition/) research shows, these innovations share a structural limitation: they remain within the zone of latent solutions—the space reachable through trial-and-error recombination of existing skills without representing those skills as objects of critique and revision.
 
 A chimpanzee who discovers that a thin stick fishes termites more effectively than a thick one has innovated. But the chimpanzee does not represent "my previous approach" as a method with identifiable limitations, nor does it design an improvement by imagining alternatives. The innovation is real but unreflective—it happens *to* the ape rather than being *done by* the ape in the way human creativity involves deliberate authorship.
 
@@ -136,7 +136,7 @@ None of these conditions currently obtains. AI systems produce formally impressi
 - [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — How consciousness enables novel combinations that escape baseline cognition
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis
 - [creativity-void](/voids/creativity-void/) — Why the creative source remains phenomenologically hidden
-- [baseline-cognition](/archive/topics/baseline-cognition/) — What cognition achieves without consciousness
+- [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Aesthetic experience as irreducible phenomenal property
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems could possess phenomenal consciousness
 - [duration](/concepts/duration/) — Bergson's lived time as creative becoming

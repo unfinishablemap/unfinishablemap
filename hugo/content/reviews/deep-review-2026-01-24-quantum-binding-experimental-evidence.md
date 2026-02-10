@@ -34,7 +34,7 @@ topics: []
 
 - **Missing engagement with illusionism**: No response to the challenge that phenomenal unity might be illusory. Resolution: Added new section "The Illusionist Challenge" with regress argument response.
 
-- **Missing key cross-links**: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/), [illusionism](/concepts/illusionism/), [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/) were not linked. Resolution: Added all to frontmatter concepts and Further Reading.
+- **Missing key cross-links**: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/), [illusionism](/concepts/illusionism/), [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/) were not linked. Resolution: Added all to frontmatter concepts and Further Reading.
 
 ### Counterarguments Considered
 - **Eliminative materialist**: Why should neural coordination *not* produce unity? Response: The article's core argument addresses this—correlation is not identity, synchronized firing is still firing in separate neurons.
@@ -63,7 +63,7 @@ topics: []
 - [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) (frontmatter + body + Further Reading)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) (frontmatter + body + Further Reading)
 - [illusionism](/concepts/illusionism/) (frontmatter + body + Further Reading)
-- [mysterianism-cognitive-closure](/archive/topics/mysterianism-cognitive-closure/) (frontmatter + body + Further Reading)
+- [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/) (frontmatter + body + Further Reading)
 
 ## Remaining Items
 

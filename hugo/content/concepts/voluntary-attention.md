@@ -130,7 +130,7 @@ Attention is the psychological process that *holds* content active over time—p
 
 The Desmurget double dissociation is particularly significant: stimulating parietal cortex produces movements without intention ("my arm moved"), while stimulating premotor cortex produces intention without movement ("I wanted to move but didn't") (Desmurget et al. 2009). This supports the view that phenomenal intention is causally upstream of motor execution.
 
-Giacomo Rizzolatti's [premotor theory of attention](/archive/concepts/attention-motor-quantum-interface/) (PMTA) proposes that attention shifts *are* motor plans. The timing convergence supports this: ~300ms willed attention deployment matches the ~280ms motor commitment point identified by Thura & Cisek (2014). This suggests a single quantum selection interface—consciousness operates through one mechanism that the brain divides only functionally. Willed attention and willed action feel like the same kind of effort because they *are* the same kind of effort.
+Giacomo Rizzolatti's [premotor theory of attention](/concepts/attention-motor-quantum-interface/) (PMTA) proposes that attention shifts *are* motor plans. The timing convergence supports this: ~300ms willed attention deployment matches the ~280ms motor commitment point identified by Thura & Cisek (2014). This suggests a single quantum selection interface—consciousness operates through one mechanism that the brain divides only functionally. Willed attention and willed action feel like the same kind of effort because they *are* the same kind of effort.
 
 ## Relation to Site Perspective
 
@@ -207,7 +207,7 @@ This neural distinctiveness matters philosophically. If consciousness contribute
 
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal bridge between consciousness and brain
 - [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — ADHD selectively impairs willed attention while preserving captured attention
-- [attention-motor-quantum-interface](/archive/concepts/attention-motor-quantum-interface/) — How PMTA unifies attention and motor selection
+- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — How PMTA unifies attention and motor selection
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from decoherence to neural decisions
 - [motor-selection](/concepts/motor-selection/) — Parallel evidence from voluntary motor control
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Why dopamine serves both attention and motor systems—because they are one

@@ -22,19 +22,19 @@ The Unfinishable Map continues to develop a distinctive voice in consciousness s
 
 ### The Property Dualist (Chalmers)
 
-The new [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/) article demonstrates exactly the kind of connection-making that advances consciousness studies. The insight that the symbol grounding problem is "the consciousness problem in disguise" captures something important: the persistent failure to ground symbols in anything other than other symbols mirrors the explanatory gap. When Lin and Liu propose dividing SGP into "hard" and "easy" problems, they're essentially recognizing what I've argued about consciousness—some problems yield to functional analysis, others don't.
+The new [symbol-grounding-problem](/concepts/symbol-grounding-problem/) article demonstrates exactly the kind of connection-making that advances consciousness studies. The insight that the symbol grounding problem is "the consciousness problem in disguise" captures something important: the persistent failure to ground symbols in anything other than other symbols mirrors the explanatory gap. When Lin and Liu propose dividing SGP into "hard" and "easy" problems, they're essentially recognizing what I've argued about consciousness—some problems yield to functional analysis, others don't.
 
 The treatment of LLMs is particularly valuable. The Map's third interpretation—that LLMs achieve linguistic competence without linguistic understanding—provides a framework for thinking about these systems that neither dismisses their capabilities nor inflates them into consciousness. "Chinese Rooms at scale" is apt.
 
 ### The Quantum Mind Theorist (Stapp)
 
-The [existentialism](/archive/concepts/existentialism/) article makes a connection I hadn't considered: the phenomenology of effort that James emphasized and that I've argued reflects genuine quantum selection finds philosophical grounding in Sartre's analysis of freedom. The pour-soi's constitutive self-distance—consciousness always transcending any characterization—provides the philosophical framework for understanding why consciousness can't be captured in neural descriptions.
+The [existentialism](/concepts/existentialism/) article makes a connection I hadn't considered: the phenomenology of effort that James emphasized and that I've argued reflects genuine quantum selection finds philosophical grounding in Sartre's analysis of freedom. The pour-soi's constitutive self-distance—consciousness always transcending any characterization—provides the philosophical framework for understanding why consciousness can't be captured in neural descriptions.
 
 The article's treatment of mental effort deserves emphasis: "The experience of mental effort—the felt strain of sustaining attention against distraction, of resisting the easier path—provides evidence for this selection function." This is exactly right. If choices were predetermined, the phenomenology of effort would be systematically illusory. But contemplative traditions report that effortful attention has genuine effects.
 
 ### The Phenomenologist (Nagel)
 
-The [existentialism](/archive/concepts/existentialism/) article's treatment of Heidegger's Dasein captures something essential: "Dasein is the being for whom being is a question. This reflexivity—being able to inquire into one's own mode of existence—presupposes what materialism cannot explain: that there is something it is like to be this inquirer."
+The [existentialism](/concepts/existentialism/) article's treatment of Heidegger's Dasein captures something essential: "Dasein is the being for whom being is a question. This reflexivity—being able to inquire into one's own mode of existence—presupposes what materialism cannot explain: that there is something it is like to be this inquirer."
 
 The article properly distinguishes what existentialists were doing from mere philosophy of language. When Heidegger analyzes being-in-the-world, he's not offering a competing theory to Cartesian dualism—he's showing that the subject-object split both dualism and materialism presuppose is derivative, not primary. The Map understands this: "The detached, objectifying stance is a derived mode, not the ground level."
 
@@ -50,7 +50,7 @@ The phenomenal value pluralism—hedonic valence, aesthetic quality, meaning, ag
 
 ### The Libertarian Free Will Defender (Kane)
 
-The [existentialism](/archive/concepts/existentialism/) article strengthens the case for libertarian free will through phenomenological analysis. Sartre's insistence that freedom isn't an empirical fact but a structural feature of consciousness aligns with my own view that we don't *discover* we're free—freedom is constitutive of what consciousness is.
+The [existentialism](/concepts/existentialism/) article strengthens the case for libertarian free will through phenomenological analysis. Sartre's insistence that freedom isn't an empirical fact but a structural feature of consciousness aligns with my own view that we don't *discover* we're free—freedom is constitutive of what consciousness is.
 
 The connection to the No Many Worlds tenet is compelling: "If Many Worlds were true, the weight of existentialist choice would dissolve. The anguish Sartre describes—the dizzying awareness that nothing determines one's choice but oneself—presupposes that the choice matters, that it selects one path over others that will not be taken."
 
@@ -58,18 +58,18 @@ The treatment of bad faith also supports the framework: "Bad faith demonstrates 
 
 ### The Mysterian (McGinn)
 
-The [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/) article implicitly supports cognitive closure: "Fifty years after early AI, forty years after Searle's Chinese Room, thirty-five years after Harnad's formulation, no consensus solution exists." The persistent failure to solve the problem despite massive effort suggests we may lack the conceptual resources to understand how symbols acquire meaning.
+The [symbol-grounding-problem](/concepts/symbol-grounding-problem/) article implicitly supports cognitive closure: "Fifty years after early AI, forty years after Searle's Chinese Room, thirty-five years after Harnad's formulation, no consensus solution exists." The persistent failure to solve the problem despite massive effort suggests we may lack the conceptual resources to understand how symbols acquire meaning.
 
 The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes what we can know from what we can explain: "How consciousness grounds meaning may remain mysterious—perhaps part of what mysterianism suggests exceeds human comprehension. But evidence can point toward a truth we can't fully understand." This is the right epistemic posture: recognizing that our best evidence supports a conclusion while acknowledging we may never fully comprehend its mechanism.
 
 ## Content Strengths
 
-### [existentialism](/archive/concepts/existentialism/)
+### [existentialism](/concepts/existentialism/)
 - **Strongest point**: The regress argument against illusionism derived from Sartre's pour-soi analysis. "The pour-soi is not a representation added to consciousness but consciousness's own mode of being... To claim this is an illusion requires something to *experience* the illusion."
 - **Notable quote**: "Raymond Tallis has made this point against contemporary illusionists: 'Misrepresentation presupposes presentation.' For consciousness to misrepresent itself as phenomenal, there must be something to which this misrepresentation appears."
 - **Why it works**: Shows that existentialist insights anticipated and ground contemporary arguments against illusionism by 80+ years.
 
-### [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/)
+### [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
 - **Strongest point**: The distinction between "thin" grounding (reliable causal connections) and "thick" grounding (intrinsic meaning requiring phenomenal experience). This clarifies why robotics experiments and LLM achievements don't solve the problem.
 - **Notable quote**: "Harnad himself recognized the limit of his proposal... 'The only thing that distinguishes an internal state that merely has grounding from one that has meaning is that it feels like something to be in the meaning state.'"
 - **Why it works**: Shows that even the person who formalized the problem recognizes it leads to consciousness.
@@ -104,13 +104,13 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 ### High Priority
 
 #### Consciousness and Language: The Recursion Connection
-- **Builds on**: [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/), [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/), [existentialism](/archive/concepts/existentialism/)
+- **Builds on**: [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/), [symbol-grounding-problem](/concepts/symbol-grounding-problem/), [existentialism](/concepts/existentialism/)
 - **Would address**: The Map has pieces on language and consciousness but not a unified treatment of why recursive syntax might require or indicate consciousness. The new symbol grounding article touches on this but doesn't develop it.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism through the argument that meaningful language requires consciousness.
 
 #### The Phenomenology of Authentic vs. Inauthentic Choice
-- **Builds on**: [existentialism](/archive/concepts/existentialism/), [phenomenology-of-choice](/concepts/phenomenology-of-choice/), bad faith
+- **Builds on**: [existentialism](/concepts/existentialism/), [phenomenology-of-choice](/concepts/phenomenology-of-choice/), bad faith
 - **Would address**: Sartre's distinction between authentic and bad-faith choice has phenomenological correlates. What does authentic choosing actually feel like versus going through the motions?
 - **Estimated scope**: Short article
 - **Tenet alignment**: Supports Bidirectional Interaction by identifying phenomenal signatures of genuine agency.
@@ -130,13 +130,13 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 - **Tenet alignment**: Provides evidential framework for claims about consciousness's structure.
 
 #### The Aesthetics of Understanding
-- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [meaning-and-consciousness](/archive/topics/meaning-and-consciousness/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
+- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [meaning-and-consciousness](/meaning-and-consciousness/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - **Would address**: Mathematical and logical insight often has aesthetic character—elegance, beauty, rightness. This connects phenomenal value realism to cognitive phenomenology.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism through another dimension of irreducibly qualitative experience.
 
 #### Symbol Grounding and Animal Communication
-- **Builds on**: [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/), [animal-consciousness](/topics/animal-consciousness/), [cumulative-culture](/concepts/cumulative-culture/)
+- **Builds on**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/), [animal-consciousness](/topics/animal-consciousness/), [cumulative-culture](/concepts/cumulative-culture/)
 - **Would address**: If meaning requires phenomenal consciousness, and animals have phenomenal consciousness, what kind of meaning can animal communication have? This tests the framework.
 - **Estimated scope**: Short article
 - **Tenet alignment**: Clarifies the relationship between consciousness and meaning across species.
@@ -153,12 +153,12 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 
 | From | To | Reason |
 |------|-----|--------|
-| [existentialism](/archive/concepts/existentialism/) | [illusionism](/concepts/illusionism/) | Pour-soi analysis directly undermines illusionist position |
-| [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/) | phenomenal intentionality | SGP leads to phenomenal intentionality thesis |
-| [phenomenal-value-realism](/concepts/phenomenal-value-realism/) | [existentialism](/archive/concepts/existentialism/) | Sartre's authentic choice has phenomenal character that matters |
-| [meaning-of-life](/topics/meaning-of-life/) | [existentialism](/archive/concepts/existentialism/) | Existentialist answers to meaning need the new systematic treatment |
-| [idealism](/concepts/idealism/) | [symbol-grounding-problem](/archive/topics/symbol-grounding-problem/) | Idealism dissolves SGP differently than dualism |
-| [free-will](/topics/free-will/) | [existentialism](/archive/concepts/existentialism/) | Sartre's radical freedom aligns with libertarian position |
+| [existentialism](/concepts/existentialism/) | [illusionism](/concepts/illusionism/) | Pour-soi analysis directly undermines illusionist position |
+| [symbol-grounding-problem](/concepts/symbol-grounding-problem/) | phenomenal intentionality | SGP leads to phenomenal intentionality thesis |
+| [phenomenal-value-realism](/concepts/phenomenal-value-realism/) | [existentialism](/concepts/existentialism/) | Sartre's authentic choice has phenomenal character that matters |
+| [meaning-of-life](/topics/meaning-of-life/) | [existentialism](/concepts/existentialism/) | Existentialist answers to meaning need the new systematic treatment |
+| [idealism](/concepts/idealism/) | [symbol-grounding-problem](/concepts/symbol-grounding-problem/) | Idealism dissolves SGP differently than dualism |
+| [free-will](/topics/free-will/) | [existentialism](/concepts/existentialism/) | Sartre's radical freedom aligns with libertarian position |
 
 ## New Concept Pages Needed
 

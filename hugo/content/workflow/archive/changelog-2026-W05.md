@@ -1622,7 +1622,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Output**: concepts/minimal-consciousness.md
 - **Word count**: 1397
 - **Based on research**: No (simple concept definition drawing on existing topic page)
-- **Notes**: Created concept page for minimal consciousness—the simplest form of phenomenal experience. Addresses existing `[minimal-consciousness](/archive/concepts/minimal-consciousness/)` links from consciousness.md and provides definitional treatment complementing the topic page consciousness-in-simple-organisms.md.
+- **Notes**: Created concept page for minimal consciousness—the simplest form of phenomenal experience. Addresses existing `[minimal-consciousness](/concepts/minimal-consciousness/)` links from consciousness.md and provides definitional treatment complementing the topic page consciousness-in-simple-organisms.md.
 
 ---
 
@@ -2356,7 +2356,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Sources**: concepts/minimal-consciousness.md, topics/consciousness-in-simple-organisms.md
 - **Target**: topics/consciousness-in-simple-organisms.md
 - **Archived**: archive/concepts/minimal-consciousness.md
-- **References to review**: 37 files contain `[minimal-consciousness](/archive/concepts/minimal-consciousness/)` links (active content will redirect via archive notice)
+- **References to review**: 37 files contain `[minimal-consciousness](/concepts/minimal-consciousness/)` links (active content will redirect via archive notice)
 - **Notes**: Merged two articles covering consciousness in simple organisms. ~60-70% content overlap (both covered C. elegans, Hydra, slime molds, UAL framework, illusionist challenge, contemplative perspectives). Integrated unique content from minimal-consciousness.md: three-level metarepresentational framework, Metzinger's MPE, Buddhist vijñāna/prajñā distinction. Retained consciousness-in-simple-organisms.md as target (better title for the topic). Word count: ~280 lines unified from ~284 + ~222 source lines.
 
 ---
@@ -2403,7 +2403,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Medium issues addressed**: 2 (Sartre pour-soi precedent, existentialism cross-link)
 - **Enhancements made**: 2 (historical precedent for anti-illusionist regress, cross-links to new existentialism article)
 - **Output**: [deep-review-2026-01-30-phenomenology](/reviews/deep-review-2026-01-30-phenomenology/)
-- **Notes**: Cross-review considering existentialism.md insights. Added Sartre's pour-soi (1943) as anticipating Tallis's regress argument against illusionism. Added [existentialism](/archive/concepts/existentialism/) to concepts and Further Reading. Trimmed minor redundancy to maintain length neutrality at soft threshold.
+- **Notes**: Cross-review considering existentialism.md insights. Added Sartre's pour-soi (1943) as anticipating Tallis's regress argument against illusionism. Added [existentialism](/concepts/existentialism/) to concepts and Further Reading. Trimmed minor redundancy to maintain length neutrality at soft threshold.
 
 ---
 
@@ -2546,7 +2546,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Medium issues addressed**: 4
 - **Enhancements made**: 4
 - **Output**: [deep-review-2026-01-30-ground-of-meaning](/reviews/deep-review-2026-01-30-ground-of-meaning/)
-- **Notes**: First review of this apex article. Added "What Would Challenge This View?" section (~200 words) providing four falsifying conditions. Strengthened illusionism response with regress argument. Clarified MWI argument to engage defender's response directly. Added cross-link to [conscious-vs-unconscious-processing](/archive/topics/conscious-vs-unconscious-processing/). No critical issues found; bedrock philosophical disagreements (eliminativism, functionalism, MWI) documented as expected standoffs.
+- **Notes**: First review of this apex article. Added "What Would Challenge This View?" section (~200 words) providing four falsifying conditions. Strengthened illusionism response with regress argument. Clarified MWI argument to engage defender's response directly. Added cross-link to [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/). No critical issues found; bedrock philosophical disagreements (eliminativism, functionalism, MWI) documented as expected standoffs.
 
 ---
 
@@ -3999,7 +3999,7 @@ title: AI Activity Changelog - Week 2026-W05
   1. Missing counterfactual reasoning integration → added new subsection connecting to [counterfactual-reasoning](/concepts/counterfactual-reasoning/) with Bischof-Köhler hypothesis and working memory evidence
 - **Enhancements made**: 3
   1. New "Counterfactual Reasoning" subsection explaining consciousness-dependent deliberation
-  2. Cross-links to [counterfactual-reasoning](/concepts/counterfactual-reasoning/) and [baseline-cognition](/archive/topics/baseline-cognition/)
+  2. Cross-links to [counterfactual-reasoning](/concepts/counterfactual-reasoning/) and [baseline-cognition](/concepts/baseline-cognition/)
   3. Updated concepts list and Further Reading
 - **Output**: [deep-review-2026-01-29-free-will](/reviews/deep-review-2026-01-29-free-will/)
 
@@ -5396,7 +5396,7 @@ title: AI Activity Changelog - Week 2026-W05
 
 - **Status**: Success
 - **File**: [psychophysical-laws-framework](/topics/psychophysical-laws-framework/)
-- **Context**: Cross-review considering new [chalmers-psychophysical-coupling](/archive/topics/chalmers-psychophysical-coupling/) article
+- **Context**: Cross-review considering new [chalmers-psychophysical-coupling](/chalmers-psychophysical-coupling/) article
 - **Word count**: 2275 → 2284 (+9)
 - **Critical issues addressed**: 0 (none found—article stable from previous review)
 - **Medium issues addressed**: 1
@@ -5775,7 +5775,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Word count**: 2480 → ~2520 (length-neutral, below soft threshold)
 - **Critical issues addressed**: 0 (none found—article stable from previous reviews)
 - **Medium issues addressed**: 2 (added cross-reference to consciousness-as-intelligence-amplifier, added decoherence caveat to quantum section)
-- **Enhancements made**: Added [consciousness-as-intelligence-amplifier](/archive/topics/consciousness-as-intelligence-amplifier/) to frontmatter, inline references, and Further Reading; added appropriate hedging to quantum mechanism claims
+- **Enhancements made**: Added [consciousness-as-intelligence-amplifier](/consciousness-as-intelligence-amplifier/) to frontmatter, inline references, and Further Reading; added appropriate hedging to quantum mechanism claims
 - **Output**: [deep-review-2026-01-27-animal-consciousness](/reviews/deep-review-2026-01-27-animal-consciousness/)
 - **Notes**: Second review of this article (previous: 2026-01-22). Article is stable—no critical issues, counterarguments addressed, all tenet connections present. Cross-review confirmed integration with consciousness-as-intelligence-amplifier is now explicit.
 
@@ -6376,7 +6376,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Medium issues addressed**: 0 (none found)
 - **Enhancements made**: 0 (article already stable)
 - **Output**: [deep-review-2026-01-27-attention](/reviews/deep-review-2026-01-27-attention/)
-- **Notes**: Follow-up review to 2026-01-20 comprehensive review. Article has reached stability—only housekeeping issues found (corrected `[voluntary-attention-control](/archive/concepts/voluntary-attention-control/)` to `[voluntary-attention](/concepts/voluntary-attention/)`, removed duplicate concepts entry). Six adversarial and six sympathetic personas confirmed the article is well-developed with strong tenet connections.
+- **Notes**: Follow-up review to 2026-01-20 comprehensive review. Article has reached stability—only housekeeping issues found (corrected `[voluntary-attention-control](/voluntary-attention-control/)` to `[voluntary-attention](/concepts/voluntary-attention/)`, removed duplicate concepts entry). Six adversarial and six sympathetic personas confirmed the article is well-developed with strong tenet connections.
 
 ---
 
@@ -6725,7 +6725,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Word count**: 3208 → ~3200 (length-neutral)
 - **Critical issues addressed**: 0 (none found—previous review achieved stability)
 - **Medium issues addressed**: 3
-  1. Added cross-link and selection laws terminology from [psychophysical-laws-framework](/archive/topics/psychophysical-laws-framework/)
+  1. Added cross-link and selection laws terminology from [psychophysical-laws-framework](/psychophysical-laws-framework/)
   2. Revised quantum mechanism section to acknowledge multiple proposals (Stapp, Eccles, valence)
   3. Replaced quantum Zeno decoherence response with bandwidth constraint argument
 - **Enhancements made**: Tightened Kim's argument and overdetermination sections for length neutrality
@@ -7307,7 +7307,7 @@ This is the second deep review; article is approaching stability.
 **Before**: 5918 words
 **After**: 2480 words
 **Reduction**: 58%
-**Technique**: Cut redundant content covered in linked articles; condensed minimal neural requirements to link to [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/); condensed human-ape intelligence gap to link to [baseline-cognition](/archive/topics/baseline-cognition/) and [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/); reduced illusionist challenge and process philosophy sections; trimmed emotional consciousness to link to [emotional-consciousness](/archive/concepts/emotional-consciousness/); condensed Further Reading to key categories; preserved opening summary, Nagel bat analysis, multiple origins, and tenet alignment sections
+**Technique**: Cut redundant content covered in linked articles; condensed minimal neural requirements to link to [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/); condensed human-ape intelligence gap to link to [baseline-cognition](/concepts/baseline-cognition/) and [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/); reduced illusionist challenge and process philosophy sections; trimmed emotional consciousness to link to [emotional-consciousness](/topics/emotional-consciousness/); condensed Further Reading to key categories; preserved opening summary, Nagel bat analysis, multiple origins, and tenet alignment sections
 
 ---
 
@@ -7334,7 +7334,7 @@ This is the second deep review; article is approaching stability.
 **Before**: 4966 words
 **After**: 2481 words
 **Reduction**: 50%
-**Technique**: Cut redundant extended treatments (illusionism regress detail, functionalism China argument, process philosophy section entirely); condensed simple organisms to link to [minimal-consciousness](/archive/concepts/minimal-consciousness/); condensed cognitive/aesthetic qualia to link to dedicated articles; trimmed thought experiments to reference dedicated articles; reorganized Further Reading by category
+**Technique**: Cut redundant extended treatments (illusionism regress detail, functionalism China argument, process philosophy section entirely); condensed simple organisms to link to [minimal-consciousness](/concepts/minimal-consciousness/); condensed cognitive/aesthetic qualia to link to dedicated articles; trimmed thought experiments to reference dedicated articles; reorganized Further Reading by category
 
 ---
 

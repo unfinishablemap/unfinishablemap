@@ -102,7 +102,7 @@ The crucial point for phenomenology: effort *feels* different when you're genuin
 
 Contemplative evidence extends the pattern. Long-term meditators show structural brain changes (increased cortical thickness in attention-related regions) that track their practice. Even brief meditation training produces measurable neural effects. The phenomenology of sustained attention—effortful at first, gradually easing with mastery—corresponds to the neural trajectory.
 
-What neuroplasticity doesn't prove: the quantum Zeno mechanism specifically, that consciousness is non-physical, or that classical neural explanations are insufficient. A materialist could interpret the same data as complex neural self-modification. But what it does establish: mental effort has physical consequences. This is harder to square with [epiphenomenalism](/arguments/epiphenomenalism/) than with [interactionist-dualism](/archive/arguments/interactionist-dualism/).
+What neuroplasticity doesn't prove: the quantum Zeno mechanism specifically, that consciousness is non-physical, or that classical neural explanations are insufficient. A materialist could interpret the same data as complex neural self-modification. But what it does establish: mental effort has physical consequences. This is harder to square with [epiphenomenalism](/arguments/epiphenomenalism/) than with [interactionist-dualism](/concepts/interactionist-dualism/).
 
 ## Objections and Responses
 
@@ -163,13 +163,13 @@ The Map doesn't commit to Stapp's specific proposal over other quantum conscious
 - [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — How ADHD, fatigue, and meditation deficits reveal interface properties
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine prepares the selection interface; theta oscillations provide the timing substrate
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer between consciousness and neural systems
-- [attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions
+- [attention-interface-mechanisms](/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions
 - [voluntary-attention](/concepts/voluntary-attention/) — The willed/instructed distinction and neural signatures
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The choosing-observing distinction
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Selection vs witnessing modes
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum consciousness mechanisms
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The philosophical framework
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework
 
 ## References
 

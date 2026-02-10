@@ -37,7 +37,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Bidirectional interaction is the claim that consciousness and the physical world causally influence each other—that information flows both ways across the mind-body boundary. Physical brain states shape conscious experience, and conscious states shape physical brain states. This distinguishes [interactionist-dualism](/archive/arguments/interactionist-dualism/) from [epiphenomenalism](/arguments/epiphenomenalism/), which accepts dualism but denies that consciousness causes anything.
+Bidirectional interaction is the claim that consciousness and the physical world causally influence each other—that information flows both ways across the mind-body boundary. Physical brain states shape conscious experience, and conscious states shape physical brain states. This distinguishes [interactionist-dualism](/concepts/interactionist-dualism/) from [epiphenomenalism](/arguments/epiphenomenalism/), which accepts dualism but denies that consciousness causes anything.
 
 Bidirectional Interaction is one of The Unfinishable Map's five foundational [tenets](/tenets/). Combined with the [Dualism](/tenets/#dualism) tenet (consciousness is irreducible) and the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet (consciousness acts at quantum indeterminacies), it commits the Map to a specific form of interactionist dualism.
 
@@ -59,7 +59,7 @@ Consider the statement "phenomenal consciousness exists." If epiphenomenalism is
 
 This makes all introspective reports systematically unreliable—not occasionally wrong, but *accidentally right at best*. Yet the epiphenomenalist presumably trusts their own introspection enough to engage in the debate. The position is self-undermining.
 
-The [self-stultification argument](/archive/arguments/interactionist-dualism/#argument-6-self-stultification-of-epiphenomenalism) shows that epiphenomenalism cannot be rationally held by someone who arrived at it through reasoning about their own experience. If you take consciousness seriously as a topic worth discussing, you've already implicitly accepted that consciousness causally contributes to your discussions.
+The [self-stultification argument](/concepts/interactionist-dualism/#argument-6-self-stultification-of-epiphenomenalism) shows that epiphenomenalism cannot be rationally held by someone who arrived at it through reasoning about their own experience. If you take consciousness seriously as a topic worth discussing, you've already implicitly accepted that consciousness causally contributes to your discussions.
 
 A related self-defeat argument—the [argument-from-reason](/topics/argument-from-reason/)—extends this point to physicalism generally: if all beliefs are fully explained by nonrational physical causes, then no belief is rationally justified, including physicalism. Both arguments share the structure of showing a position undermines the rational credentials it needs to be credibly held.
 
@@ -91,11 +91,11 @@ A persistent objection concerns timescales: Tegmark (2000) calculated quantum de
 
 ### The Consciousness-Reasoning Connection
 
-The conscious/unconscious processing literature reveals systematic asymmetries. [Randeniya's 2025 meta-analysis](/archive/topics/conscious-vs-unconscious-processing/) found that only 10% of claimed unconscious processing effects in fMRI studies survive rigorous methodology—most purported demonstrations of "unconscious cognition" reflect weak stimuli or brief exposure, not genuine bypassing of consciousness. Global Neuronal Workspace Theory (Dehaene, Changeux) identifies three cognitive functions requiring consciousness: durable maintenance (keeping information available beyond brief windows), novel combinations (creating new representations from existing elements), and spontaneous intentional action (initiating behavior without external triggers). If consciousness were epiphenomenal, it could not enable functions that unconscious processing cannot achieve.
+The conscious/unconscious processing literature reveals systematic asymmetries. [Randeniya's 2025 meta-analysis](/concepts/conscious-vs-unconscious-processing/) found that only 10% of claimed unconscious processing effects in fMRI studies survive rigorous methodology—most purported demonstrations of "unconscious cognition" reflect weak stimuli or brief exposure, not genuine bypassing of consciousness. Global Neuronal Workspace Theory (Dehaene, Changeux) identifies three cognitive functions requiring consciousness: durable maintenance (keeping information available beyond brief windows), novel combinations (creating new representations from existing elements), and spontaneous intentional action (initiating behavior without external triggers). If consciousness were epiphenomenal, it could not enable functions that unconscious processing cannot achieve.
 
 ### The Baseline Cognition Gap
 
-The [baseline cognition hypothesis](/archive/topics/baseline-cognition/) observes that great apes demonstrate sophisticated cognition—tool use, social learning, procedural skills—yet cannot perform logical reasoning, counterfactual thinking, or build cumulative culture (Tomasello 2014, 2019). Tomasello's framework attributes these gaps to social-cognitive differences, but the Map notes that the distinctive human capacities all appear to require conscious processing. If consciousness causes nothing, why do cognitive functions requiring consciousness systematically correlate with human distinctiveness?
+The [baseline cognition hypothesis](/concepts/baseline-cognition/) observes that great apes demonstrate sophisticated cognition—tool use, social learning, procedural skills—yet cannot perform logical reasoning, counterfactual thinking, or build cumulative culture (Tomasello 2014, 2019). Tomasello's framework attributes these gaps to social-cognitive differences, but the Map notes that the distinctive human capacities all appear to require conscious processing. If consciousness causes nothing, why do cognitive functions requiring consciousness systematically correlate with human distinctiveness?
 
 ### Evolutionary Convergence
 
@@ -136,7 +136,7 @@ The quantum framework makes bidirectional interaction physically possible withou
 
 The evolutionary evidence provides positive support. Consciousness tracks adaptive significance too systematically to be causally inert.
 
-Together with Minimal Quantum Interaction, this tenet commits the Map to [interactionist-dualism](/archive/arguments/interactionist-dualism/)—the position that mind and body are distinct yet causally connected, with the connection occurring at quantum indeterminacies in neural systems.
+Together with Minimal Quantum Interaction, this tenet commits the Map to [interactionist-dualism](/concepts/interactionist-dualism/)—the position that mind and body are distinct yet causally connected, with the connection occurring at quantum indeterminacies in neural systems.
 
 ## Further Reading
 
@@ -146,7 +146,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from decoherence to neural decisions
 - [argument-from-reason](/topics/argument-from-reason/) — Complementary self-defeat argument targeting physicalism
 - [voluntary-attention](/concepts/voluntary-attention/) — The attention interface with neural evidence
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — Comprehensive treatment of the philosophical framework
+- [interactionist-dualism](/concepts/interactionist-dualism/) — Comprehensive treatment of the philosophical framework
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view this tenet rejects
 - [mental-causation](/concepts/mental-causation/) — The broader problem of how mind causes anything
 - [causal-closure](/concepts/causal-closure/) — The closure objection and its limits
@@ -158,7 +158,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 - [self-stultification](/concepts/self-stultification/) — The self-defeat argument against epiphenomenalism in detail
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Whether mental causation violates energy conservation
 - [agent-causation](/concepts/agent-causation/) — How consciousness exercises causal powers
-- [baseline-cognition](/archive/topics/baseline-cognition/) — The great ape comparison
+- [baseline-cognition](/concepts/baseline-cognition/) — The great ape comparison
 - [downward-causation](/concepts/downward-causation/) — Top-down causation more generally
 - [tenets](/tenets/) — The Map's foundational commitments
 

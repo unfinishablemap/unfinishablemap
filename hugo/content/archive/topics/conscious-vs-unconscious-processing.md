@@ -58,7 +58,7 @@ The neural signature: conscious access correlates with sustained recurrent proce
 
 Second: novel combinations of operations. Unconscious processing operates on rails—it can execute what has been learned but cannot improvise new sequences. Logical reasoning, counterfactual thinking, and creative problem-solving require consciousness. Lieberman et al. (2008) found that cognitive load on conscious processing specifically impairs logical reasoning in humans, while hampering unconscious systems has no effect.
 
-The [baseline cognition hypothesis](/archive/topics/baseline-cognition/) provides comparative evidence. Great apes demonstrate sophisticated unconscious cognition—tool use, social learning, procedural metacognition—yet cannot perform logical reasoning, engage in cumulative culture, or think counterfactually. Research in social cognitive neuroscience suggests that explicit reasoning processes (associated with conscious deliberation) are disrupted by cognitive load in ways that implicit processes are not. These findings support the view that consciousness enables combinations of representations in ways evolution has not pre-programmed.
+The [baseline cognition hypothesis](/concepts/baseline-cognition/) provides comparative evidence. Great apes demonstrate sophisticated unconscious cognition—tool use, social learning, procedural metacognition—yet cannot perform logical reasoning, engage in cumulative culture, or think counterfactually. Research in social cognitive neuroscience suggests that explicit reasoning processes (associated with conscious deliberation) are disrupted by cognitive load in ways that implicit processes are not. These findings support the view that consciousness enables combinations of representations in ways evolution has not pre-programmed.
 
 ### Voluntary Action Generation
 
@@ -120,11 +120,11 @@ Finally, the 2025 reanalysis showing that most claimed unconscious processing ef
 ## Further Reading
 
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — General overview of NCC research and methodology
-- [baseline-cognition](/archive/topics/baseline-cognition/) — Evidence from comparative cognition showing what neurons achieve without consciousness
+- [baseline-cognition](/concepts/baseline-cognition/) — Evidence from comparative cognition showing what neurons achieve without consciousness
 - [blindsight](/concepts/blindsight/) — Case study of unconscious visual processing and its functional limits
 - [access-consciousness](/concepts/access-consciousness/) — Ned Block's distinction between access and phenomenal consciousness
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view that consciousness is causally inert and why it fails
-- [interactionist-dualism](/archive/arguments/interactionist-dualism/) — The Map's position on mind-body causation
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's position on mind-body causation
 
 ## References
 

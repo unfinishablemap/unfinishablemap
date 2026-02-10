@@ -144,7 +144,7 @@ This is not a defeat. Science routinely works with effective theories whose ulti
 - **Decoherence**: Environmental interaction destroys quantum coherence *in practice*, creating *appearance* of collapse. Wave function still exists in superposition; we just can't access it. No modification of quantum mechanics.
 - **Spontaneous collapse**: Wave function *actually collapses* as objective physical process. Modifies quantum mechanics with nonlinear/stochastic terms.
 
-Decoherence explains why macroscopic systems look classical but doesn't solve the [measurement problem](/concepts/measurement-problem/)—it doesn't select [definite outcomes](/archive/topics/quantum-measurement-and-definite-outcomes/). Collapse theories do. Hybrid models are possible: decoherence rapidly narrows basis options (basis selection), then spontaneous collapse or consciousness selects the outcome (outcome selection). See [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) for detailed analysis.
+Decoherence explains why macroscopic systems look classical but doesn't solve the [measurement problem](/concepts/measurement-problem/)—it doesn't select [definite outcomes](/quantum-measurement-and-definite-outcomes/). Collapse theories do. Hybrid models are possible: decoherence rapidly narrows basis options (basis selection), then spontaneous collapse or consciousness selects the outcome (outcome selection). See [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) for detailed analysis.
 
 ## Comparison of Major Theories
 

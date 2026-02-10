@@ -65,7 +65,7 @@ All strengths from previous review remain intact:
 Seven articles now link to [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/):
 
 1. **[substance-property-dualism](/concepts/substance-property-dualism/)** — After the Elizabeth/Leibniz objection discussion
-2. **[interactionist-dualism](/archive/arguments/interactionist-dualism/)** — In "The Historical Problem" section
+2. **[interactionist-dualism](/concepts/interactionist-dualism/)** — In "The Historical Problem" section
 3. **[dualism](/concepts/dualism/)** — In "The Interaction Problem" section
 4. **[conservation-laws-and-mind](/topics/conservation-laws-and-mind/)** — In the opening paragraph mentioning Leibniz
 5. **[emergence](/concepts/emergence/)** — After the Broad/Alexander discussion

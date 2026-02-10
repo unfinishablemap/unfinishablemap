@@ -65,7 +65,7 @@ None requiring immediate resolution.
 ### Cross-links Added
 
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — Added to frontmatter and body (value implications)
-- [interface-locality](/archive/concepts/interface-locality/) — Added to frontmatter and new subsection
+- [interface-locality](/interface-locality/) — Added to frontmatter and new subsection
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — Added to frontmatter and new subsection
 - [filter-theory](/concepts/filter-theory/) — Added to frontmatter and new subsection
 - [witness-consciousness](/concepts/witness-consciousness/) — Added to frontmatter and new subsection

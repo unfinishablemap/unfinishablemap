@@ -182,7 +182,7 @@ A 2024 *Brain* study connects dopamine directly to this oscillatory substrate. B
 
 This creates a coherent picture: dopamine promotes the theta state that may provide the timing substrate for quantum selection events. The frontal theta signature observed in both willed attention (Bengson 2019) and motor preparation may be dopamine-facilitated, linking the neurotransmitter system to the quantum mechanism. If theta cycles provide windows for selection, and dopamine is required to enter theta, then dopamine gates access to the quantum interface without itself performing selection.
 
-Additionally, the [post-decoherence selection response](/archive/concepts/psychophysical-coupling-mechanisms/) applies: consciousness might bias outcome selection *after* decoherence, at the moment of measurement collapse. Decoherence determines which basis collapses into; consciousness could still influence which outcome within that basis becomes actual.
+Additionally, the [post-decoherence selection response](/psychophysical-coupling-mechanisms/) applies: consciousness might bias outcome selection *after* decoherence, at the moment of measurement collapse. Decoherence determines which basis collapses into; consciousness could still influence which outcome within that basis becomes actual.
 
 ## Empirical Predictions
 

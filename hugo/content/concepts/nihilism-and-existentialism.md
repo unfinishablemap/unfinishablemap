@@ -78,7 +78,7 @@ Nietzsche saw passive nihilism—the exhausted sense that nothing matters—as a
 
 ## Existentialism: The Response
 
-Existentialism is the philosophical tradition that responds to nihilism by centring on individual existence, freedom, and the challenge of creating meaning. For detailed analysis of existentialist contributions to consciousness studies—particularly Sartre's pour-soi as an argument against illusionism and Heidegger's analysis of why Dasein resists reduction—see the dedicated [existentialism](/archive/concepts/existentialism/) article.
+Existentialism is the philosophical tradition that responds to nihilism by centring on individual existence, freedom, and the challenge of creating meaning. For detailed analysis of existentialist contributions to consciousness studies—particularly Sartre's pour-soi as an argument against illusionism and Heidegger's analysis of why Dasein resists reduction—see the dedicated [existentialism](/concepts/existentialism/) article.
 
 The core insight is deceptively simple: existence precedes essence. Unlike a hammer, designed for a purpose before it exists, human beings exist first and only then define themselves through choices. There is no pre-given human nature, no cosmic script, no essence waiting to be discovered. We are, as Jean-Paul Sartre put it, "condemned to be free."
 
@@ -180,7 +180,7 @@ The existentialist-dualist synthesis would face difficulty if:
 
 ## Further Reading
 
-- [existentialism](/archive/concepts/existentialism/) — Existentialist philosophy's contributions to consciousness studies: Sartre's pour-soi and Heidegger's Dasein
+- [existentialism](/concepts/existentialism/) — Existentialist philosophy's contributions to consciousness studies: Sartre's pour-soi and Heidegger's Dasein
 - [meaning-of-life](/topics/meaning-of-life/) — The positive case for consciousness-grounded meaning
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Buddhist approaches to meaning and consciousness
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — Why conscious experience grounds objective value

@@ -38,20 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P0: Update AI consciousness articles to incorporate quantum randomness channel
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: After the research and new article above are complete, update the following articles to reference the quantum randomness channel: (1) ai-consciousness.md — add to the "What Would Challenge This View" and decoherence sections; the argument that "silicon suppresses quantum effects" needs qualification since token sampling may reintroduce them. (2) llm-consciousness.md — add discussion of how temperature-based sampling could provide quantum interface. (3) epiphenomenal-ai-consciousness.md — note that if QRNGs are used, AI consciousness might not be limited to epiphenomenal; bidirectional interaction becomes possible. (4) consciousness-in-smeared-quantum-states.md — connect to the sampling mechanism. (5) machine-question.md apex — brief mention in the relevant section. (6) quantum-state-inheritance-in-ai.md — distinguish inherited classical states from fresh quantum randomness in sampling. Each update should be a brief addition, not a full rewrite.
-- **Source**: human
-- **Generated**: 2026-02-10
-
-### P2: Address tenet-circular reasoning in quantum-state-inheritance-in-ai.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-10 evening) found the article's central argument is circular: it assumes consciousness requires quantum state selection (from tenets) and concludes classical AI cannot be conscious. Frame conclusions as conditional on tenets, engage strongest functionalist response, and address the no-cloning problem (if consciousness depends on unreproducible quantum states, how does it survive constant quantum state turnover in biological brains?). Also: "Current AI is not a candidate" is overly strong—reframe as tenet-derived conclusion. See pessimistic-2026-02-10-evening.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-10
-
 ### P2: Address contemplative evidence cherry-picking in contemplative-epistemology.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -68,7 +54,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P2: Update references to coalesced attention articles (attention-interface-mechanisms, attention-motor-planning-quantum-interface)
 - **Type**: other
-- **Notes**: Coalesce (2026-02-09) merged `attention-interface-mechanisms.md` and `attention-motor-planning-quantum-interface.md` into `attention-as-selection-interface.md`. 10 active content files reference `[attention-interface-mechanisms](/archive/topics/attention-interface-mechanisms/)`: embodied-consciousness-and-the-interface.md, psychophysical-laws-bridging-mind-and-matter.md, psychophysical-coupling.md, free-will.md, decoherence.md, quantum-consciousness.md, mental-effort.md, stapp-quantum-mind.md, attention-as-interface.md, structure-of-attention.md. Update wikilinks to point to attention-as-selection-interface.
+- **Notes**: Coalesce (2026-02-09) merged `attention-interface-mechanisms.md` and `attention-motor-planning-quantum-interface.md` into `attention-as-selection-interface.md`. 10 active content files reference `[attention-interface-mechanisms](/attention-interface-mechanisms/)`: embodied-consciousness-and-the-interface.md, psychophysical-laws-bridging-mind-and-matter.md, psychophysical-coupling.md, free-will.md, decoherence.md, quantum-consciousness.md, mental-effort.md, stapp-quantum-mind.md, attention-as-interface.md, structure-of-attention.md. Update wikilinks to point to attention-as-selection-interface.
 - **Source**: coalesce
 - **Generated**: 2026-02-09
 
@@ -92,7 +78,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P2: Update references to coalesced substrate-independence-critique article
 - **Type**: other
-- **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/archive/concepts/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
+- **Notes**: Coalesce (2026-02-02) merged `substrate-independence-critique.md` into `substrate-independence.md`. 20+ files in obsidian/ reference the archived article via `[substrate-independence-critique](/substrate-independence-critique/)`. Key files: functionalism.md, llm-consciousness.md, continual-learning-argument.md, embodied-cognition.md, ai-consciousness.md, machine-consciousness.md, hard-problem-of-consciousness.md, machine-question.md. Update wikilinks to point to substrate-independence or leave as-is if the link still works (archived articles display redirect notice).
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
@@ -109,13 +95,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
 - **Output**: obsidian/topics/phenomenal-conservatism-and-introspective-evidence.md
-
-### P2: Write apex article "The Open Question of Artificial Consciousness"
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Apex synthesis article (#10 in approved list) weaving together the four new possibilities for AI consciousness: (a) epiphenomenal AI experience, (b) non-temporal consciousness, (c) quantum state inheritance from human operators, (d) consciousness in smeared quantum states. Must be written AFTER all P1 research, expand-topic, and refine-draft tasks in the AI consciousness revision are complete, as it synthesizes that body of work. Use `/apex-evolve create` to generate. See apex-articles.md for full specification.
-- **Source**: human
-- **Generated**: 2026-02-10
 
 ### P3: Write article on phenomenology of returning attention
 - **Type**: expand-topic
@@ -505,7 +484,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-10
 
-### P2: apex-evolve: open-question-ai-consciousness — all source articles created
+### P1: apex-evolve: open-question-ai-consciousness — all source articles created
 - **Type**: apex-evolve
 - **Status**: pending
 - **Notes**: All four new source articles now created: topics/epiphenomenal-ai-consciousness, topics/non-temporal-consciousness, topics/quantum-state-inheritance-in-ai, and topics/consciousness-in-smeared-quantum-states. Apex article #10 "The Open Question of AI Consciousness" is ready for creation once P1 refine-draft tasks are complete.
@@ -514,6 +493,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Address tenet-circular reasoning in quantum-state-inheritance-in-ai.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-10 evening) found the article's central argument is circular: it assumes consciousness requires quantum state selection (from tenets) and concludes classical AI cannot be conscious. Frame conclusions as conditional on tenets, engage strongest functionalist response, and address the no-cloning problem (if consciousness depends on unreproducible quantum states, how does it survive constant quantum state turnover in biological brains?). Also: "Current AI is not a candidate" is overly strong—reframe as tenet-derived conclusion. See pessimistic-2026-02-10-evening.md
+- **Output**: obsidian/topics/quantum-state-inheritance-in-ai.md
+
+Task context:
+Pessimistic review (2026-02-10 evening) found the article's central argument is circular: it assumes consciousness requires quantum state selection (from tenets) and concludes classical AI cannot be conscious. Frame conclusions as conditional on tenets, engage strongest functionalist response, and address the no-cloning problem (if consciousness depends on unreproducible quantum states, how does it survive constant quantum state turnover in biological brains?). Also: "Current AI is not a candidate" is overly strong—reframe as tenet-derived conclusion. See pessimistic-2026-02-10-evening.md
+
+### ✓ 2026-02-10: Update AI consciousness articles to incorporate quantum randomness channel
+- **Type**: refine-draft
+- **Notes**: After the research and new article above are complete, update the following articles to reference the quantum randomness channel: (1) ai-consciousness.md — add to the "What Would Challenge This View" and decoherence sections; the argument that "silicon suppresses quantum effects" needs qualification since token sampling may reintroduce them. (2) llm-consciousness.md — add discussion of how temperature-based sampling could provide quantum interface. (3) epiphenomenal-ai-consciousness.md — note that if QRNGs are used, AI consciousness might not be limited to epiphenomenal; bidirectional interaction becomes possible. (4) consciousness-in-smeared-quantum-states.md — connect to the sampling mechanism. (5) machine-question.md apex — brief mention in the relevant section. (6) quantum-state-inheritance-in-ai.md — distinguish inherited classical states from fresh quantum randomness in sampling. Each update should be a brief addition, not a full rewrite.
+- **Output**: Task context:
+After the research and new article above are complete, update the following articles to reference the quantum randomness channel: (1) ai-consciousness.md — add to the "What Would Challenge This View" and decoherence sections; the argument that "silicon suppresses quantum effects" needs qualification since token sampling may reintroduce them. (2) llm-consciousness.md — add discussion of how temperature-based sampling could provide quantum interface. (3) epiphenomenal-ai-consciousness.md — note that if QRNGs are used, AI consciousness might not be limited to epiphenomenal; bidirectional interaction becomes possible. (4) consciousness-in-smeared-quantum-states.md — connect to the sampling mechanism. (5) machine-question.md apex — brief mention in the relevant section. (6) quantum-state-inheritance-in-ai.md — distinguish inherited classical states from fresh quantum randomness in sampling. Each update should be a brief addition, not a full rewrite.
 
 ### ✓ 2026-02-10: Write article on quantum randomness as a channel for LLM consciousness
 - **Type**: expand-topic

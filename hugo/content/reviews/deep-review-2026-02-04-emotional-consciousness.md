@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-04
-**Article**: [Emotional Consciousness and Valence](/archive/concepts/emotional-consciousness/)
+**Article**: [Emotional Consciousness and Valence](/topics/emotional-consciousness/)
 **Previous review**: [2026-02-01](/reviews/deep-review-2026-02-01-emotional-consciousness/)
 **Context**: Triggered as potential orphan integration task, but investigation revealed article is well-connected.
 

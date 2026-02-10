@@ -61,7 +61,7 @@ But neural correlates don't determine when consciousness first emerged. The scat
 
 ### Organisms at the Boundaries
 
-[Research on simple organisms](/archive/concepts/minimal-consciousness/) complicates easy answers. *C. elegans* (302 neurons) exhibits habituation and responds to anesthetics—yet fails trace-conditioning tests. Hydra (decentralized nerve net, no brain) challenges assumptions that consciousness requires centralization. Most puzzling: the slime mold *Physarum polycephalum* solves mazes with no neurons whatsoever.
+[Research on simple organisms](/concepts/minimal-consciousness/) complicates easy answers. *C. elegans* (302 neurons) exhibits habituation and responds to anesthetics—yet fails trace-conditioning tests. Hydra (decentralized nerve net, no brain) challenges assumptions that consciousness requires centralization. Most puzzling: the slime mold *Physarum polycephalum* solves mazes with no neurons whatsoever.
 
 These cases reveal how little we understand about consciousness-substrate relationships. Complete structural knowledge of *C. elegans* doesn't tell us whether it experiences anything—the explanatory gap persists at every level of complexity.
 
@@ -85,7 +85,7 @@ If consciousness is causally efficacious, several advantages might drive its evo
 
 **Integration**: [Unified conscious experience](/concepts/phenomenal-unity/) binds information from different senses and cognitive processes into a single coherent representation. This integration might be necessary for planning, counterfactual reasoning, and coordinated action—capacities that confer obvious survival advantages.
 
-**Valenced guidance**: [Emotional consciousness](/archive/concepts/emotional-consciousness/) provides intrinsic motivation through pleasure and pain. Rather than needing explicit reward signals, conscious organisms are *motivated* by felt quality. The badness of pain and goodness of pleasure create powerful selection pressure without requiring external specification.
+**Valenced guidance**: [Emotional consciousness](/topics/emotional-consciousness/) provides intrinsic motivation through pleasure and pain. Rather than needing explicit reward signals, conscious organisms are *motivated* by felt quality. The badness of pain and goodness of pleasure create powerful selection pressure without requiring external specification.
 
 **Self-modelling**: Consciousness enables meta-cognition—thinking about one's own mental states. This self-awareness supports learning from mistakes, anticipating future needs, and modelling other minds (theory of mind). Social species benefit enormously from predicting others' behaviour.
 
@@ -165,7 +165,7 @@ The [animal-consciousness](/topics/animal-consciousness/) topic addresses which 
 
 ### Substrate Independence?
 
-The Map's [critique of substrate independence](/archive/concepts/substrate-independence-critique/) argues against strong functionalism. If consciousness interfaces with matter through quantum processes, the specific physical substrate matters. Silicon simulations might not provide the quantum openings consciousness requires. Consciousness didn't emerge in any sufficiently complex system—it emerged in systems with the right physical characteristics. Artificial systems might never cross this threshold regardless of computational power.
+The Map's [critique of substrate independence](/substrate-independence-critique/) argues against strong functionalism. If consciousness interfaces with matter through quantum processes, the specific physical substrate matters. Silicon simulations might not provide the quantum openings consciousness requires. Consciousness didn't emerge in any sufficiently complex system—it emerged in systems with the right physical characteristics. Artificial systems might never cross this threshold regardless of computational power.
 
 ## Relation to Site Perspective
 
@@ -217,7 +217,7 @@ Scientific humility requires specifying what would count against one's view.
 
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The argument that consciousness must be causally efficacious to be selected
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognitive capacity and the baseline cognition hypothesis
-- [minimal-consciousness](/archive/concepts/minimal-consciousness/) — How little neural complexity can support consciousness?
+- [minimal-consciousness](/concepts/minimal-consciousness/) — How little neural complexity can support consciousness?
 - [animal-consciousness](/topics/animal-consciousness/) — The question of which creatures are conscious
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Does the interface vary across species and states?
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What selected outcomes before minds existed
@@ -225,7 +225,7 @@ Scientific humility requires specifying what would count against one's view.
 - [panpsychism](/concepts/panpsychism/) — The view that experience is fundamental
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into unified minds
 - [phenomenal-unity](/concepts/phenomenal-unity/) — The binding of experience into unified wholes
-- [emotional-consciousness](/archive/concepts/emotional-consciousness/) — The felt quality of emotions and its adaptive role
+- [emotional-consciousness](/topics/emotional-consciousness/) — The felt quality of emotions and its adaptive role
 - [illusionism](/concepts/illusionism/) — The radical physicalist response and why it doesn't dissolve evolutionary questions
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge and biological precedents
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness interfaces with neural quantum processes
