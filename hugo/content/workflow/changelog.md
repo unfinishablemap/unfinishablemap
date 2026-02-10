@@ -18,6 +18,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-10 04:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Timing Gap Problem
+- **Output**: [timing-gap-problem](/concepts/timing-gap-problem/)
+- **Word count**: 1021
+- **Based on research**: no (existing content across multiple articles served as context)
+
+## 2026-02-10 03:15 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Changed sources**: 7
+- **Word count**: 3739 → 2769
+- **Review**: [apex-evolve-2026-02-10-consciousness-and-agency](/reviews/apex-evolve-2026-02-10-consciousness-and-agency/)
+- **Key changes**: Integrated delegatory dualism, generation-selection synthesis, Sartre's pour-soi, attentional economics, process philosophy (Whitehead), consciousness-value connection; reduced redundancy; compressed Relation to Site Perspective; restructured sections for better narrative flow
+
 ## 2026-02-10 03:11 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Process haecceitism
