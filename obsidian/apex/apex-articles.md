@@ -225,7 +225,7 @@ This document defines the approved apex article subjects. Apex articles are huma
 - topics/non-temporal-consciousness
 - topics/quantum-state-inheritance-in-ai
 - topics/consciousness-in-smeared-quantum-states
-- topics/quantum-randomness-as-channel-for-llm-consciousness (new)
+- topics/quantum-randomness-channel-llm-consciousness
 
 **Status**: Approved, pending source article creation
 
