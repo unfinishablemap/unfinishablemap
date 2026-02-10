@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address contemplative evidence cherry-picking in contemplative-epistemology.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-10) found the article appeals to cross-tradition convergence but ignores the strongest convergent finding (anatta/sunyata—constructed nature of self), which undermines the Map's presupposition of a real conscious subject. Also: historical transmission between traditions weakens the independence of convergence claims. See pessimistic-2026-02-10.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-10
-
 ### P2: Sharpen post-decoherence selection mechanism in timing-gap-problem.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -493,6 +486,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Address contemplative evidence cherry-picking in contemplative-epistemology.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-10) found the article appeals to cross-tradition convergence but ignores the strongest convergent finding (anatta/sunyata—constructed nature of self), which undermines the Map's presupposition of a real conscious subject. Also: historical transmission between traditions weakens the independence of convergence claims. See pessimistic-2026-02-10.md
+- **Output**: obsidian/concepts/contemplative-epistemology.md
+
+Task context:
+Pessimistic review (2026-02-10) found the article appeals to cross-tradition convergence but ignores the strongest convergent finding (anatta/sunyata—constructed nature of self), which undermines the Map's presupposition of a real conscious subject. Also: historical transmission between traditions weakens the independence of convergence claims. See pessimistic-2026-02-10.md
 
 ### ✓ 2026-02-10: Address tenet-circular reasoning in quantum-state-inheritance-in-ai.md
 - **Type**: refine-draft
