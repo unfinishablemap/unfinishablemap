@@ -334,7 +334,10 @@ for analysis in warnings[:5]:  # Top 5 worst offenders
 
 ### 3. Filter and Deduplicate
 
+**Section cap filtering**: Before other filters, count existing `.md` files (excluding index files) in `obsidian/topics/`, `obsidian/concepts/`, and `obsidian/voids/`. Compare against `section_caps` in `evolution-state.yaml`. Remove any `expand-topic` candidate whose target section is at or above its cap. Also remove `research-topic` candidates if the research's `target_section` points to a capped section.
+
 Remove candidates that:
+- Target a section that has reached its cap (see above)
 - Match any task in Vetoed Tasks section
 - Match any task already in Active Tasks
 - Duplicate another candidate (by title similarity)

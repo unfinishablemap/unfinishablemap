@@ -208,6 +208,21 @@ The Map includes scheduled AI automation for content development. All AI-generat
 | `/apex-evolve` | Build and maintain apex articles—human-readable synthesis pieces. | Yes (creates, modifies) |
 | `/agent-commit` | Analyze changes and create a meaningful commit with agent authorship. Internal skill for evolve_loop. | Yes (git only) |
 
+### Section Caps
+
+Maximum article counts per section, configured in `evolution-state.yaml` under `section_caps`:
+
+| Section | Cap | Current |
+|---------|-----|---------|
+| `topics/` | 200 | ~103 |
+| `concepts/` | 200 | ~173 |
+| `voids/` | 100 | ~60 |
+
+When a section reaches its cap, automation stops creating new articles there and shifts to improving existing content (reviews, condensing, coalescing). Caps are enforced at:
+- `/expand-topic` — refuses to place articles in a full section
+- `/replenish-queue` — filters out expand-topic tasks targeting full sections
+- `/research-voids` — skips research when voids is at capacity
+
 ### Task Queue
 
 Tasks are managed in `obsidian/workflow/todo.md`:

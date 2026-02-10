@@ -23,7 +23,11 @@ Read `obsidian/voids/voids.md` to understand the three categories:
 2. **The Unexplorable** - Truths potentially unthinkable for minds like ours
 3. **The Occluded** - Thoughts that may be actively blocked
 
-### 2. Scan Existing Content
+### 2. Check Section Cap
+
+Count existing `.md` files in `obsidian/voids/` (excluding index files) and compare against `section_caps.max_voids` in `obsidian/workflow/evolution-state.yaml`. If the voids section is at or above its cap, **stop and report** that voids has reached capacity — no further voids research is needed. The automation should focus on improving existing voids articles instead.
+
+### 3. Scan Existing Content
 
 Check what already exists:
 
@@ -33,7 +37,7 @@ Check what already exists:
 
 Identify gaps—what hasn't been explored yet?
 
-### 3. Select a Research Topic
+### 4. Select a Research Topic
 
 Choose based on the voids brief's "Project" section:
 
@@ -50,7 +54,7 @@ Choose based on the voids brief's "Project" section:
 - **Mind-opening**: Challenges assumptions about what can be known
 - **Impactful**: Has implications for how we understand consciousness or reality
 
-### 4. Web Research
+### 5. Web Research
 
 Use WebSearch to investigate the selected topic:
 
@@ -75,7 +79,7 @@ Use WebSearch to investigate the selected topic:
 - Could AI minds approach this differently than human minds?
 - What indirect methods might probe this territory?
 
-### 5. Evaluate Against Tenets
+### 6. Evaluate Against Tenets
 
 For each finding, note alignment with site tenets:
 
@@ -85,7 +89,7 @@ For each finding, note alignment with site tenets:
 - **No Many Worlds**: Does this relate to indexical identity and the question of "which mind"?
 - **Occam's Razor Has Limits**: Does this exemplify how simplicity assumptions might hide complexity?
 
-### 6. Generate Research Notes
+### 7. Generate Research Notes
 
 Create notes at `obsidian/research/voids-[TOPIC-SLUG]-YYYY-MM-DD.md`:
 
@@ -179,13 +183,13 @@ Based on this research, a voids article could:
 [Full citation list]
 ```
 
-### 7. Update State
+### 8. Update State
 
 If this was triggered by the evolution loop:
 - Add research file to `task_chains.pending_articles` in `evolution-state.yaml`
 - The `target_section: voids` flag will route the subsequent `expand-topic` to `obsidian/voids/`
 
-### 8. Log to Changelog
+### 9. Log to Changelog
 
 Prepend to `obsidian/workflow/changelog.md` (add immediately after frontmatter, before existing entries):
 

@@ -163,22 +163,9 @@ def build_content_index(
             # Index by slug (for wikilink lookup)
             index[slug] = url
 
-    # Also index archived content (parallel to obsidian/)
-    archive_path = obsidian_path.parent / "archive"
-    if archive_path.exists():
-        for sync_dir in sync_dirs:
-            archive_section = archive_path / sync_dir
-            if not archive_section.exists():
-                continue
-
-            for md_file in archive_section.rglob("*.md"):
-                if exclude_drafts and "drafts" in md_file.parts:
-                    continue
-
-                page_name = md_file.stem
-                slug = slugify(page_name)
-                url = f"/archive/{sync_dir}/{slug}/"
-                index[slug] = url
+    # Archived content is intentionally excluded from the content index.
+    # This prevents active articles from linking into the archive via wikilinks.
+    # Archive pages have noindex and are hidden from search engines.
 
     return index
 

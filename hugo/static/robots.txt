@@ -2,10 +2,11 @@
 # this site welcomes all crawlers, including AI training and research bots.
 # Our content is designed for both human readers and language models.
 
-# Allow all crawlers full access
+# Allow all crawlers full access (except archive)
 User-agent: *
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Allow: /
+Disallow: /archive/
 
 # Explicitly welcome AI/LLM crawlers
 User-agent: GPTBot
@@ -51,4 +52,3 @@ Sitemap: https://unfinishablemap.org/sitemap.xml
 # /research/   - AI-generated research notes (public)
 # /project/    - About the site and methodology
 # /questions/  - Open philosophical questions
-# /archive/    - Archived content (preserved URLs, redirects to replacements)

@@ -19,6 +19,15 @@ class ContentStats:
 
 
 @dataclass
+class SectionCaps:
+    """Maximum article counts per section. Once reached, automation shifts to improvement."""
+
+    max_topics: int = 200
+    max_concepts: int = 200
+    max_voids: int = 100
+
+
+@dataclass
 class ConvergenceTargets:
     """What 'done' looks like."""
 
@@ -76,6 +85,7 @@ class EvolutionState:
     last_git_push: Optional[datetime]  # for rate-limiting pushes across processes
     last_tweet_date: Optional[str]  # ISO date of last tweet (for once-per-day check)
     content_stats: ContentStats
+    section_caps: SectionCaps
     convergence_targets: ConvergenceTargets
     progress: Progress
     quality: Quality
@@ -141,6 +151,7 @@ def load_state(path: Path) -> EvolutionState:
         last_git_push=last_git_push,
         last_tweet_date=data.get("last_tweet_date"),
         content_stats=ContentStats(**data.get("content_stats", {})),
+        section_caps=SectionCaps(**data.get("section_caps", {})),
         convergence_targets=ConvergenceTargets(**data.get("convergence_targets", {})),
         progress=Progress(**data.get("progress", {})),
         quality=Quality(**data.get("quality", {})),
@@ -190,6 +201,11 @@ def save_state(state: EvolutionState, path: Path) -> None:
             "published_files": state.content_stats.published_files,
             "draft_files": state.content_stats.draft_files,
             "placeholder_files": state.content_stats.placeholder_files,
+        },
+        "section_caps": {
+            "max_topics": state.section_caps.max_topics,
+            "max_concepts": state.section_caps.max_concepts,
+            "max_voids": state.section_caps.max_voids,
         },
         "convergence_targets": {
             "min_topics": state.convergence_targets.min_topics,

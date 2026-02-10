@@ -31,7 +31,7 @@ Verify all source files exist and target location is valid:
 - Target must be in a valid sync directory (topics/, concepts/, voids/, etc.)
 - Target should not already exist (or ask for confirmation to merge into existing)
 
-If arguments are not provided, search for articles that exhibit overlap and duplication, or are strong candidates for merging.  Choose the most promisng two or more for candidates merging,  If there are no good candidates, abandon the attempt and do not merge anything.
+If arguments are not provided, check `section_caps` in `obsidian/workflow/evolution-state.yaml` and count `.md` files (excluding index files) in `obsidian/topics/`, `obsidian/concepts/`, and `obsidian/voids/`. **Prioritize searching for merge candidates in the section closest to its cap** (by percentage filled). This ensures coalesce creates room where it's most needed. If no good candidates exist in the most-pressured section, try the next, then search globally. Choose the most promising two or more candidates for merging. If there are no good candidates, abandon the attempt and do not merge anything.
 
 ### 2. Analyze Source Content
 

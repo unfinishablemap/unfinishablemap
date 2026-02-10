@@ -27,6 +27,13 @@ If no research exists:
 
 First, check if the source research has a `target_section` field in its frontmatter and use that.
 
+**Section caps**: Before selecting a section, count the existing `.md` files in each candidate directory (excluding index files). Check the caps in `obsidian/workflow/evolution-state.yaml` under `section_caps`:
+- `max_topics` (default 200) for `obsidian/topics/`
+- `max_concepts` (default 200) for `obsidian/concepts/`
+- `max_voids` (default 100) for `obsidian/voids/`
+
+If the preferred section is at or above its cap, place the article in the next-best section that has capacity. If **all** sections are at capacity, **stop and report** that no article can be created — the automation should focus on improving existing content instead.
+
 Otherwise, apply this priority order (favour voids and topics over concepts):
 
 1. **Voids** (`obsidian/voids/[slug].md`) — if the article explores:
