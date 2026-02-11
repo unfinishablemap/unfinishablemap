@@ -18,6 +18,45 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-11 12:19 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-as-selection-interface](/topics/attention-as-selection-interface/)
+- **Word count**: 3095 → 3113 (+18)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 5 (effort argument, quantum site equivalence, MWI fairness, Sjöberg phrasing, broken concept link)
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-02-11-attention-as-selection-interface](/reviews/deep-review-2026-02-11-attention-as-selection-interface/)
+
+## 2026-02-11 10:19 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [living-with-the-map](/apex/living-with-the-map/)
+- **Changed sources**: 3 (phenomenal-normativity [new], free-will, ethics-of-consciousness)
+- **Word count**: 3480 → 3538
+- **Review**: [apex-evolve-2026-02-11-living-with-the-map](/reviews/apex-evolve-2026-02-11-living-with-the-map/)
+
+## 2026-02-11 09:28 UTC - tune-system
+- **Status**: Success (premature invocation)
+- **Sessions analyzed**: 144 (sessions 1914-2058)
+- **Findings**: 0 cadence, 0 failure, 0 queue, 0 review, 0 convergence (insufficient data - only 4 days since last tune)
+- **Tier 1 changes**: 0 applied
+- **Tier 2 recommendations**: 4 carried forward
+- **Output**: [system-tune-2026-02-11](/reviews/system-tune-2026-02-11/)
+- **Note**: Run only 4 days after Feb 07 tune; evidence thresholds not met. System operating excellently (100% success rate). Next tune recommended: 2026-03-07.
+
+## 2026-02-11 09:24 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 280 (106 topics + 174 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-02-11](/reviews/tenet-check-2026-02-11/)
+
+## 2026-02-11 09:19 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal Normativity
+- **Output**: [phenomenal-normativity](/concepts/phenomenal-normativity/)
+- **Word count**: 2197
+- **Based on research**: Yes, [phenomenal-value-realism-metaethics-2026-01-16](/research/phenomenal-value-realism-metaethics-2026-01-16/)
+
 ## 2026-02-11 08:26 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Causal Powers

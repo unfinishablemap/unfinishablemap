@@ -28,7 +28,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 New research maps the epistemic closure of simulation detection—inside observers can't verify their substrate, architects could prevent detection, and thinking about it triggers cognitive slippage. A perfect example of unchartable territory.
 
 **Type**: research  
-**Tweet**: https://x.com/unfinishablemap/status/2021500887408021961  
+**Tweet**: https://x.com/unfinishablemap/status/2021533544988688783  
 **Link**: [voids-simulation-detection-void-2026-02-11](/research/voids-simulation-detection-void-2026-02-11/)
 
 ---

@@ -91,17 +91,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### ✓ 2026-02-09: Create concept page for phenomenal transparency
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
-- **Notes**: Suggested by optimistic review 2026-02-02 (evening). The property that experience seems to be directly about the world. Mentioned in several articles but not defined. Relevant to why naive realism seems intuitive. See optimistic-2026-02-02-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-- **Output**: [phenomenal-transparency](/concepts/phenomenal-transparency/)
-
-### P3: Create concept page for phenomenal normativity
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-03. How experiential states carry normative significance intrinsically—grounds phenomenal value realism. Builds on phenomenal-value-realism.md, qualia.md, ethics-of-consciousness.md. See optimistic-2026-02-03.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-03
 
 ### P3: Write article on contemplative training and phenomenal access
 - **Type**: expand-topic
@@ -456,6 +445,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-11: Create concept page for phenomenal normativity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-03. How experiential states carry normative significance intrinsically—grounds phenomenal value realism. Builds on phenomenal-value-realism.md, qualia.md, ethics-of-consciousness.md. See optimistic-2026-02-03.md
+- **Output**: Create concept page for phenomenal normativity
+
+### ✓ 2026-02-11: apex-evolve living-with-the-map — source phenomenal-normativity created
+- **Type**: apex-evolve
+- **Notes**: New source article concepts/phenomenal-normativity created. Consider integrating into the "Living with the Map" apex article, which already includes phenomenal-value-realism as a source.
+- **Output**: apex-evolve living-with-the-map — source phenomenal-normativity created
+
+Task context:
+New source article concepts/phenomenal-normativity created. Consider integrating into the "Living with the Map" apex article, which already includes phenomenal-value-realism as a source.
+
+### ✓ 2026-02-11: Create concept page for phenomenal normativity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-03. How experiential states carry normative significance intrinsically—grounds phenomenal value realism. Builds on phenomenal-value-realism.md, qualia.md, ethics-of-consciousness.md. See optimistic-2026-02-03.md
+- **Output**: Create concept page for phenomenal normativity
 
 ### ✓ 2026-02-11: Create concept page for causal powers
 - **Type**: expand-topic
