@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-11 13:19 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Contemplative training and phenomenal access
+- **Output**: [[topics/contemplative-training-and-phenomenal-access]]
+- **Word count**: 2132
+- **Based on research**: yes (introspection-reliability-first-person-2026-01-15, neurophenomenology-meditation-studies-2026-01-14, contemplative-neuroscience-meditation-2026-01-23)
+
 ## 2026-02-11 12:19 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/attention-as-selection-interface]]

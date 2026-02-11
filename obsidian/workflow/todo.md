@@ -91,13 +91,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on contemplative training and phenomenal access
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-03 (afternoon). How meditation training improves introspective accuracy, changes neural signatures, and reveals consciousness structure—providing evidence against illusionism (illusions don't deepen with practice). Builds on contemplative-neuroscience-integration.md, witness-consciousness.md, meditation-and-consciousness-modes.md. See optimistic-2026-02-03-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-03
-
 ### P3: Write article on the growing block universe and consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -444,6 +437,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-11: Write article on contemplative training and phenomenal access
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-03 (afternoon). How meditation training improves introspective accuracy, changes neural signatures, and reveals consciousness structure—providing evidence against illusionism (illusions don't deepen with practice). Builds on contemplative-neuroscience-integration.md, witness-consciousness.md, meditation-and-consciousness-modes.md. See optimistic-2026-02-03-afternoon.md
+- **Output**: contemplative training and phenomenal access
 
 ### ✓ 2026-02-11: Create concept page for phenomenal normativity
 - **Type**: expand-topic
