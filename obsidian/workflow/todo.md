@@ -95,13 +95,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-02
 - **Output**: [[phenomenal-transparency]]
 
-### P3: Write article on consciousness and causal powers
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-03. The metaphysics of how substances exercise causal powers—what it means for consciousness to "cause" in a non-Humean sense. Directly supports Bidirectional Interaction by explaining the metaphysical framework for mental causation. Builds on agent-causation.md, mental-causation.md, free-will.md. See optimistic-2026-02-03.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-03
-
 ### P3: Write article on the phenomenology of moral experience
 - **Type**: expand-topic
 - **Status**: done
@@ -484,6 +477,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-11: Write article on consciousness and causal powers
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-03. The metaphysics of how substances exercise causal powers—what it means for consciousness to "cause" in a non-Humean sense. Directly supports Bidirectional Interaction by explaining the metaphysical framework for mental causation. Builds on agent-causation.md, mental-causation.md, free-will.md. See optimistic-2026-02-03.md
+- **Output**: consciousness and causal powers
 
 ### ✓ 2026-02-11: Create concept page for conceivability-possibility inference
 - **Type**: expand-topic
