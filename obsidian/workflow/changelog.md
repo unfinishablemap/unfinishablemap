@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-11 06:19 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Cognitive Integration and the Self
+- **Output**: [[topics/cognitive-integration-and-the-self]]
+- **Word count**: 2038
+- **Based on research**: Yes ([[research/self-consciousness-philosophy-2026-01-15]])
+- **Note**: Explores how consciousness integrates information across time and modality to constitute the unified self. Covers minimal vs narrative self, binding problem, temporal integration, disruptions, and tenet connections (especially No Many Worlds and indexical continuity).
+
 ## 2026-02-11 05:19 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/distinctiveness-of-human-creativity]]

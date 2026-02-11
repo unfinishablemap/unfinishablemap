@@ -95,13 +95,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-02
 - **Output**: [[phenomenal-transparency]]
 
-### P3: Write article on cognitive integration and the self
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-03. How the self integrates information across time and modality—the "glue" of personal identity. Supports No Many Worlds—indexical identity requires unified self. Builds on personal-identity.md, binding-problem.md, self-and-consciousness.md. See optimistic-2026-02-03.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-03
-
 ### P3: Create concept page for causal powers
 - **Type**: expand-topic
 - **Status**: pending
@@ -469,6 +462,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-11: Write article on cognitive integration and the self
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-03. How the self integrates information across time and modality—the "glue" of personal identity. Supports No Many Worlds—indexical identity requires unified self. Builds on personal-identity.md, binding-problem.md, self-and-consciousness.md. See optimistic-2026-02-03.md
+- **Output**: cognitive integration and the self
 
 ### ✓ 2026-02-11: Write article on the phenomenology of moral experience
 - **Type**: expand-topic
