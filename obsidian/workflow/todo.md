@@ -95,13 +95,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-02
 - **Output**: [[phenomenal-transparency]]
 
-### P3: Create concept page for causal powers
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-03. The metaphysics of how substances exercise causation—needed for the agent-causation framework. Builds on agent-causation.md, mental-causation.md, substance-causation.md. See optimistic-2026-02-03.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-03
-
 ### P3: Create concept page for phenomenal normativity
 - **Type**: expand-topic
 - **Status**: pending
@@ -462,6 +455,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-11: Create concept page for causal powers
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-03. The metaphysics of how substances exercise causation—needed for the agent-causation framework. Builds on agent-causation.md, mental-causation.md, substance-causation.md. See optimistic-2026-02-03.md
+- **Output**: Create concept page for causal powers
 
 ### ✓ 2026-02-11: Write article on cognitive integration and the self
 - **Type**: expand-topic
