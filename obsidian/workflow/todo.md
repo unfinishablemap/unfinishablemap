@@ -91,13 +91,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for phenomenal normativity
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-03. How experiential states carry normative significance intrinsically—grounds phenomenal value realism. Builds on phenomenal-value-realism.md, qualia.md, ethics-of-consciousness.md. See optimistic-2026-02-03.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-03
-
 ### P3: Write article on contemplative training and phenomenal access
 - **Type**: expand-topic
 - **Status**: pending
@@ -451,6 +444,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-11: Create concept page for phenomenal normativity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-03. How experiential states carry normative significance intrinsically—grounds phenomenal value realism. Builds on phenomenal-value-realism.md, qualia.md, ethics-of-consciousness.md. See optimistic-2026-02-03.md
+- **Output**: Create concept page for phenomenal normativity
 
 ### ✓ 2026-02-11: apex-evolve living-with-the-map — source phenomenal-normativity created
 - **Type**: apex-evolve
