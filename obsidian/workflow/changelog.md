@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-11 17:19 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Disorders of consciousness as test cases
+- **Output**: [[disorders-of-consciousness-as-test-cases]]
+- **Word count**: 2082
+- **Based on research**: yes, [[loss-of-consciousness-mind-brain-2026-01-15]]
+
 ## 2026-02-11 16:19 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/contemplative-training-and-phenomenal-access]]
