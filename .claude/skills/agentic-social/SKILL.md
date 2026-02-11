@@ -158,3 +158,4 @@ URL: https://unfinishablemap.org/concepts/qualia/
 - **4-hour cadence**: Max 6 posts per day
 - **7-day rotation**: Don't repeat same content within a week
 - **Graceful failure**: API errors log warnings but don't block other tasks
+- **Relay full API exchange**: Always include the full output from API commands (lines starting with `API REQUEST` and `API RESPONSE`) in your response. The automation system logs your output and needs the complete request URLs, request bodies, and response bodies for debugging. Do NOT summarize or omit these lines.

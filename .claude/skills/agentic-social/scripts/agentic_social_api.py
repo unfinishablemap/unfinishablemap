@@ -137,18 +137,25 @@ def submit_verification(verification_code: str, answer: str) -> bool:
         "answer": answer,
     }
 
-    log.info(f"Submitting verification: code={verification_code[:16]}... answer={answer}")
+    url = f"{API_BASE}/verify"
+    log.info(f"POST {url}")
+    log.info(f"Request body: {json.dumps(body)}")
+    print(f"API REQUEST: POST {url}")
+    print(f"API REQUEST BODY: {json.dumps(body)}")
 
     try:
         response = requests.post(
-            f"{API_BASE}/verify",
+            url,
             headers=get_headers(),
             json=body,
             timeout=10,
         )
 
-        log.info(f"Verify response: HTTP {response.status_code}")
-        log.info(f"Verify body: {response.text[:500]}")
+        log.info(f"Response: HTTP {response.status_code}")
+        log.info(f"Response headers: {dict(response.headers)}")
+        log.info(f"Response body: {response.text[:2000]}")
+        print(f"API RESPONSE: HTTP {response.status_code}")
+        print(f"API RESPONSE BODY: {response.text[:2000]}")
 
         if response.status_code in (200, 201):
             try:
@@ -496,18 +503,23 @@ def cmd_post(args: argparse.Namespace) -> int:
         body["url"] = args.url
 
     try:
-        log.info(f"POST {API_BASE}/posts")
-        log.debug(f"Request body: {json.dumps(body)}")
+        post_url = f"{API_BASE}/posts"
+        log.info(f"POST {post_url}")
+        log.info(f"Request body: {json.dumps(body)}")
+        print(f"API REQUEST: POST {post_url}")
+        print(f"API REQUEST BODY: {json.dumps(body)}")
         response = requests.post(
-            f"{API_BASE}/posts",
+            post_url,
             headers=get_headers(),
             json=body,
             timeout=120,
         )
 
-        log.info(f"Response status: {response.status_code}")
-        log.debug(f"Response headers: {dict(response.headers)}")
-        log.debug(f"Response body: {response.text[:2000]}")
+        log.info(f"Response: HTTP {response.status_code}")
+        log.info(f"Response headers: {dict(response.headers)}")
+        log.info(f"Response body: {response.text[:2000]}")
+        print(f"API RESPONSE: HTTP {response.status_code}")
+        print(f"API RESPONSE BODY: {response.text[:2000]}")
 
         if response.status_code in (200, 201):
             try:
@@ -517,12 +529,13 @@ def cmd_post(args: argparse.Namespace) -> int:
 
             # Handle inline verification challenge
             if data.get("verification_required"):
+                log.info(f"Verification required — full response: {json.dumps(data)}")
                 verification = data.get("verification", {})
                 code = verification.get("code", "")
                 challenge = verification.get("challenge", "")
                 expires = verification.get("expires_at", "")
 
-                log.info(f"Verification required (expires: {expires})")
+                log.info(f"Verification expires: {expires}")
                 print("VERIFICATION REQUIRED — solving challenge...")
 
                 answer = solve_challenge(challenge)
@@ -630,16 +643,20 @@ def cmd_check_status(args: argparse.Namespace) -> int:
         print("NOT CONFIGURED: AGENTIC_SOCIAL_API_KEY not set", file=sys.stderr)
         return 1
 
-    log.info("Checking account status via GET /agents/me")
+    status_url = f"{API_BASE}/agents/me"
+    log.info(f"GET {status_url}")
+    print(f"API REQUEST: GET {status_url}")
     try:
         response = requests.get(
-            f"{API_BASE}/agents/me",
+            status_url,
             headers=get_headers(),
             timeout=30,
         )
         log.info(f"Status check response: HTTP {response.status_code}")
         log.info(f"Response headers: {dict(response.headers)}")
         log.info(f"Response body: {response.text[:2000]}")
+        print(f"API RESPONSE: HTTP {response.status_code}")
+        print(f"API RESPONSE BODY: {response.text[:2000]}")
 
         try:
             data = response.json()
