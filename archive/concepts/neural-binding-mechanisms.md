@@ -6,6 +6,11 @@ modified: 2026-01-28
 human_modified:
 ai_modified: 2026-02-05T07:01:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-11T02:19:00+00:00
+superseded_by: "/concepts/phenomenal-binding-and-holism/"
+archive_reason: "Coalesced into Phenomenal Binding and Holism along with Phenomenal Unity and Multimodal Binding"
+original_path: "/concepts/neural-binding-mechanisms/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:

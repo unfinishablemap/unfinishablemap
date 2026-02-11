@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-11 02:19 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/phenomenal-unity]], [[concepts/neural-binding-mechanisms]], [[concepts/multimodal-binding]]
+- **Target**: [[concepts/phenomenal-binding-and-holism]]
+- **Archived**: [[archive/concepts/phenomenal-unity]], [[archive/concepts/neural-binding-mechanisms]], [[archive/concepts/multimodal-binding]]
+- **Word count**: Combined ~19,000 words → 8,700 unified words
+- **References to review**: 71 files reference phenomenal-unity, 21 reference neural-binding-mechanisms, 4 reference multimodal-binding
+- **Rationale**: Concepts section at 86.5% capacity (173/200). Three articles had massive overlap on phenomenal unity problem, classical mechanisms, quantum solutions, and experimental evidence. Unified article provides clearer narrative flow from phenomenon → classical mechanisms → why they fail → quantum alternative → evidence.
+
 ## 2026-02-11 01:10 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Conceivability-Possibility Inference

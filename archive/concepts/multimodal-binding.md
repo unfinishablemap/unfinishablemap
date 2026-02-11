@@ -6,6 +6,11 @@ modified: 2026-01-25
 human_modified:
 ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-11T02:19:00+00:00
+superseded_by: "/concepts/phenomenal-binding-and-holism/"
+archive_reason: "Coalesced into Phenomenal Binding and Holism along with Phenomenal Unity and Neural Binding Mechanisms"
+original_path: "/concepts/multimodal-binding/"
 topics: []
 concepts:
   - "[[binding-problem]]"
