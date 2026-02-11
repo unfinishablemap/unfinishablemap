@@ -95,14 +95,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-02-02
 - **Output**: [[phenomenal-transparency]]
 
-### P3: Write article on the phenomenology of moral experience
-- **Type**: expand-topic
-- **Status**: done
-- **Notes**: Suggested by optimistic review 2026-02-03. What it is like to experience something as wrong or obligatory—the phenomenology underlying moral judgment. Supports Dualism by showing moral phenomenology has irreducible features. Builds on phenomenal-value-realism.md, ethics-of-consciousness.md, emotional-consciousness.md. See optimistic-2026-02-03.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-03
-- **Output**: obsidian/topics/phenomenology-of-moral-experience.md
-
 ### P3: Write article on cognitive integration and the self
 - **Type**: expand-topic
 - **Status**: pending
@@ -477,6 +469,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-11: Write article on the phenomenology of moral experience
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-03. What it is like to experience something as wrong or obligatory—the phenomenology underlying moral judgment. Supports Dualism by showing moral phenomenology has irreducible features. Builds on phenomenal-value-realism.md, ethics-of-consciousness.md, emotional-consciousness.md. See optimistic-2026-02-03.md
+- **Output**: the phenomenology of moral experience
 
 ### ✓ 2026-02-11: Write article on consciousness and causal powers
 - **Type**: expand-topic
