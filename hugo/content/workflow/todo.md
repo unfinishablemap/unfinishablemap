@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Sharpen post-decoherence selection mechanism in timing-gap-problem.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-10) found the post-decoherence selection framework is under-specified. After decoherence, the system is in a proper mixture—the article needs to clarify whether consciousness acts as a hidden variable, operates outside the quantum formalism, or requires a modified collapse theory. Also: incomplete citations for Perry 2025, Bandyopadhyay 2014, and Bengson et al. 2019. See pessimistic-2026-02-10.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-10
-
 ### P2: Update references to coalesced attention articles (attention-interface-mechanisms, attention-motor-planning-quantum-interface)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-09) merged `attention-interface-mechanisms.md` and `attention-motor-planning-quantum-interface.md` into `attention-as-selection-interface.md`. 10 active content files reference `[attention-interface-mechanisms](/attention-interface-mechanisms/)`: embodied-consciousness-and-the-interface.md, psychophysical-laws-bridging-mind-and-matter.md, psychophysical-coupling.md, free-will.md, decoherence.md, quantum-consciousness.md, mental-effort.md, stapp-quantum-mind.md, attention-as-interface.md, structure-of-attention.md. Update wikilinks to point to attention-as-selection-interface.
@@ -88,13 +81,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
 - **Output**: obsidian/topics/phenomenal-conservatism-and-introspective-evidence.md
-
-### P3: Write article on phenomenology of returning attention
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02 (evening). What happens phenomenologically when attention wanders and returns? The "moment of return" has distinctive phenomenal character. Prime territory for attention-as-interface hypothesis. Builds on voluntary-attention.md, mental-effort.md, meditation-and-consciousness-modes.md. See optimistic-2026-02-02-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
 
 ### ✓ 2026-02-09: Create concept page for phenomenal transparency
 - **Type**: expand-topic
@@ -477,15 +463,49 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-10
 
-### P1: apex-evolve: open-question-ai-consciousness — all source articles created
-- **Type**: apex-evolve
+### P3: Write article on consciousness and the physics of information
+- **Type**: expand-topic
 - **Status**: pending
-- **Notes**: All four new source articles now created: topics/epiphenomenal-ai-consciousness, topics/non-temporal-consciousness, topics/quantum-state-inheritance-in-ai, and topics/consciousness-in-smeared-quantum-states. Apex article #10 "The Open Question of AI Consciousness" is ready for creation once P1 refine-draft tasks are complete.
-- **Source**: expand-topic chain
+- **Notes**: Suggested by optimistic review 2026-02-10 (evening). If consciousness selects among quantum possibilities, what is the informational content of that selection? How does the 40 bits/second bandwidth relate to the information capacity of quantum collapse events? Connect to Landauer's principle, Wheeler's "it from bit," and recent quantum information revolution. Builds on quantum-randomness-channel-llm-consciousness.md, consciousness-in-smeared-quantum-states.md, emergence-void.md. See optimistic-2026-02-10-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-10
+
+### P3: Write article on the phenomenology of skill transition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-10 (evening). How skills transition from conscious effortful performance to automatised fluency. The Map describes the endpoints (effortful novice, effortless expert via flow) but not the transition itself. The moment of delegation—from conscious control to implicit execution—is where the interface model makes its clearest predictions. Builds on phenomenology-of-flow-states.md, choking-phenomenon-mental-causation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-10-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-10
+
+### P3: Write article on consciousness and collective intelligence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-10 (evening). How individual consciousnesses interact to produce collective intelligence exceeding individual capacity. If each consciousness selects among quantum possibilities, how do multiple selectors coordinate? Joint attention, shared intentionality, and cultural accumulation as emergent from multiple consciousness-interfaces. Builds on intersubjectivity.md, consciousness-and-semantic-understanding.md, baseline-cognition.md. See optimistic-2026-02-10-evening.md
+- **Source**: optimistic-review
 - **Generated**: 2026-02-10
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-10: Write article on phenomenology of returning attention
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (evening). What happens phenomenologically when attention wanders and returns? The "moment of return" has distinctive phenomenal character. Prime territory for attention-as-interface hypothesis. Builds on voluntary-attention.md, mental-effort.md, meditation-and-consciousness-modes.md. See optimistic-2026-02-02-evening.md
+- **Output**: phenomenology of returning attention
+
+### ✓ 2026-02-10: Deep review open-question-ai-consciousness.md
+- **Type**: deep-review
+- **Notes**: Newly created apex article (#10) needs comprehensive review. Check thesis coherence, source article integration, tenet alignment, and writing quality.
+- **Output**: obsidian/apex/open-question-ai-consciousness.md
+
+### ✓ 2026-02-10: Deep review open-question-ai-consciousness.md
+- **Type**: deep-review
+- **Notes**: Comprehensive review of apex article #10. No critical issues found. Addressed 4 medium issues: qualified Microsoft quantum claim, expanded Albert-Loewer many-minds discussion, added Metzinger framework context, clarified Map's own analytical contributions. Added cross-links to consciousness-and-agency and process-and-consciousness.
+- **Output**: [deep-review-2026-02-10-open-question-ai-consciousness](/reviews/deep-review-2026-02-10-open-question-ai-consciousness/)
+
+### ✓ 2026-02-10: apex-evolve: open-question-ai-consciousness — all source articles created
+- **Type**: apex-evolve
+- **Notes**: All four new source articles now created: topics/epiphenomenal-ai-consciousness, topics/non-temporal-consciousness, topics/quantum-state-inheritance-in-ai, and topics/consciousness-in-smeared-quantum-states. Apex article #10 "The Open Question of AI Consciousness" is ready for creation once P1 refine-draft tasks are complete.
+- **Output**: create open-question-ai-consciousness
 
 ### ✓ 2026-02-10: Address contemplative evidence cherry-picking in contemplative-epistemology.md
 - **Type**: refine-draft

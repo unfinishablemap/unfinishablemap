@@ -18,6 +18,44 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-11 00:10 UTC - deep-review
+- **Status**: Success
+- **File**: [the-interface-location-problem](/topics/the-interface-location-problem/)
+- **Word count**: 2433 → 2702 (+269)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-02-11-the-interface-location-problem](/reviews/deep-review-2026-02-11-the-interface-location-problem/)
+
+## 2026-02-10 23:10 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of Returning Attention
+- **Output**: [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
+- **Word count**: 2027
+- **Based on research**: No (drew on existing attention/meditation research notes)
+
+## 2026-02-10 22:10 UTC - deep-review
+- **Status**: Success
+- **File**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
+- **Word count**: 3131 → 3307 (+176)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-02-10-open-question-ai-consciousness](/reviews/deep-review-2026-02-10-open-question-ai-consciousness/)
+
+## 2026-02-10 21:10 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content across topics/ (103), concepts/ (173), tenets/, apex/ (11), voids/ (60+)
+- **Output**: [optimistic-2026-02-10-evening](/reviews/optimistic-2026-02-10-evening/)
+
+## 2026-02-10 20:10 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
+- **Mode**: Create
+- **Sources**: 11 (ai-consciousness, machine-consciousness, llm-consciousness, epiphenomenalism, quantum-consciousness, temporal-consciousness, epiphenomenal-ai-consciousness, non-temporal-consciousness, quantum-state-inheritance-in-ai, consciousness-in-smeared-quantum-states, quantum-randomness-channel-llm-consciousness)
+- **Word count**: ~3500
+- **Notes**: Companion to The Machine Question apex — stress-tests the Map's AI consciousness skepticism from within by examining four genuine open possibilities (epiphenomenal experience, non-temporal consciousness, quantum state inheritance, consciousness in superposition)
+
 ## 2026-02-10 20:05 UTC - refine-draft
 - **Status**: Success
 - **File**: [contemplative-epistemology](/concepts/contemplative-epistemology/)

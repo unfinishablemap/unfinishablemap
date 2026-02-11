@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-09 13:50:00+00:00
+ai_modified: 2026-02-11 00:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,12 +15,13 @@ concepts:
 - '[[measurement-problem]]'
 - '[[psychophysical-coupling]]'
 created: 2026-02-09
-date: &id001 2026-02-09
+date: &id001 2026-02-11
 description: Where exactly does consciousness meet the brain? Multiple candidate sites
   exist. Systematic comparison reveals why the Map remains agnostic about specifics.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-11 00:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +63,7 @@ Roger Penrose and Stuart Hameroff propose that consciousness interfaces with the
 
 Henry Stapp proposes that consciousness operates through quantum effects at ion channels — the narrow protein pores (less than 1 nanometre at their narrowest) through which ions cross neural membranes. At this scale, quantum uncertainty applies: whether a particular channel opens or closes is not fully determined by classical physics. Schwartz, Stapp, and Beauregard (2005) argue that "owing to certain structural features of ion channels critical to synaptic function, contemporary physical theory must in principle be used when analysing human brain dynamics."
 
-**Strengths.** Ion channels are uncontroversially quantum-mechanical at their narrowest points. The proposal connects directly to synaptic function — whether a neuron fires depends on which channels open. Stapp's quantum Zeno mechanism provides a specific account of how consciousness might hold desired channel states through repeated observation. Schwartz's OCD neuroplasticity evidence demonstrates that directed mental effort (attention) can systematically reshape neural circuits.
+**Strengths.** Ion channels are uncontroversially quantum-mechanical at their narrowest points. The proposal connects directly to synaptic function — whether a neuron fires depends on which channels open. Stapp's quantum Zeno mechanism provides a specific account of how consciousness might hold desired channel states through repeated observation. Schwartz's OCD neuroplasticity evidence demonstrates that directed mental effort (attention) can systematically reshape neural circuits, though this evidence establishes only that attention affects neural structure, not that quantum mechanisms are involved — the neuroplasticity findings are compatible with classical neural dynamics.
 
 **Difficulties.** The Zeno mechanism requires observation rates at femtosecond timescales, while attention operates at ~100ms timescales — a gap of roughly ten orders of magnitude. Monte Carlo simulations (Litt et al. 2006) found the quantum Zeno effect breaks down for timescales exceeding decoherence time in simplified models, though Stapp contested their model as too simple. The mechanism for coordinating individual ion channel quantum events into coherent macroscopic decisions remains unspecified.
 
@@ -70,9 +71,9 @@ Henry Stapp proposes that consciousness operates through quantum effects at ion 
 
 A more recent proposal suggests that cortical microcolumns — ensembles of roughly 100 neurons — couple resonantly with the quantum electromagnetic zero-point field, forming macroscopic coherence domains. On this account, consciousness selects among patterns at the column level rather than at individual molecular sites.
 
-**Strengths.** The scale matches the [bandwidth constraint](/concepts/psychophysical-coupling/). If consciousness selects among column-level patterns rather than individual molecular states, the ~10 bits/second limit on conscious processing makes sense: you choose among a manageable number of macroscopic alternatives. The proposal connects to established neuroscience — cortical columns are well-characterised functional units. Column-scale selection would explain why conscious influence feels coarse-grained (you decide to act, not which synapses to fire).
+**Strengths.** The scale matches the [bandwidth constraint](/concepts/psychophysical-coupling/). If consciousness selects among column-level patterns rather than individual molecular states, the ~10 bits/second limit on conscious processing makes sense: you choose among a manageable number of macroscopic alternatives. The proposal connects to established neuroscience — cortical columns are well-characterised functional units. Column-scale selection would explain why conscious influence feels coarse-grained (you decide to act, not which synapses to fire). Note however that the quantum coherence mechanism remains highly speculative — zero-point field coupling at cortical scales has no established experimental support in neuroscience.
 
-**Difficulties.** The proposal is less developed than Orch OR or Stapp's ion channel account. The mechanism by which cortical columns achieve quantum coherence is speculative — zero-point field coupling remains a theoretical possibility rather than an experimentally demonstrated phenomenon. The proposal faces the same general decoherence objection as other candidates, amplified by the larger spatial scale.
+**Difficulties.** The proposal is less developed than Orch OR or Stapp's ion channel account. The mechanism by which cortical columns achieve quantum coherence is speculative. The proposal faces the same general decoherence objection as other candidates, amplified by the larger spatial scale.
 
 ### Attention Networks (Functional Level)
 
@@ -86,7 +87,7 @@ Rather than identifying a specific molecular site, some formulations locate the 
 
 Regardless of which candidate proves correct, any successful account of the interface location must address five constraints:
 
-**1. The decoherence constraint.** The proposed site must maintain quantum effects long enough for consciousness to influence outcomes. This means either: quantum coherence persisting on relevant timescales, or consciousness operating at the point of measurement even after decoherence has selected a preferred basis (since [decoherence](/concepts/decoherence/) doesn't solve the [measurement problem](/concepts/measurement-problem/)).
+**1. The decoherence constraint.** The proposed site must maintain quantum effects long enough for consciousness to influence outcomes. This means either: quantum coherence persisting on relevant timescales, or consciousness operating at the point of measurement even after decoherence has selected a preferred basis. The latter possibility remains viable because [decoherence](/concepts/decoherence/) only explains why quantum superpositions become unobservable at macroscopic scales — it doesn't explain which specific outcome becomes actual, which is what the [measurement problem](/concepts/measurement-problem/) asks. If consciousness selects the actual outcome from decoherence-narrowed alternatives, quantum coherence at neural timescales may not be required.
 
 **2. The bandwidth match.** The interface must explain why conscious selection operates at roughly 10 bits per second. A molecular-level interface selecting among billions of quantum states per second would need an account of why conscious experience reflects only a tiny fraction of those selections.
 
@@ -132,6 +133,16 @@ The interface location problem is empirical, not purely philosophical. Several l
 **Neural correlate refinement.** As the neural correlates of consciousness become more precisely mapped — particularly the distinction between attention networks and consciousness networks (COGITATE) — the interface location should emerge where these systems interact.
 
 **Computational modelling.** Simulations of quantum effects at each candidate site, connected to neural network models, could show which configurations reproduce the known features of conscious processing (bandwidth limits, attention effects, effort phenomenology).
+
+## What Would Falsify the Framework
+
+The interface location problem is resolvable because it makes testable predictions. But what if all candidates fail?
+
+If systematic experimental investigation rules out quantum effects at microtubules, ion channels, cortical columns, and attention networks — finding either that decoherence eliminates quantum indeterminacy at these sites or that disrupting them doesn't affect conscious influence — the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework would face serious difficulty.
+
+The hierarchical possibility (consciousness operating at multiple levels) provides some theoretical flexibility, but this flexibility is not unlimited. If no neural substrate can be found where (a) quantum indeterminacies persist on relevant timescales and (b) consciousness demonstrably selects among outcomes, the quantum interface hypothesis requires revision. The framework would need to either identify novel candidate sites with better empirical support, or acknowledge that consciousness interfaces with the brain through mechanisms other than quantum selection.
+
+This falsifiability constraint prevents the framework from becoming a "theory of everything" that accommodates any result. The candidates may be multiple, the interface may be hierarchical, but there must be *some* physical site where consciousness demonstrably acts on quantum indeterminacies — or the tenet fails.
 
 ## Relation to Site Perspective
 
