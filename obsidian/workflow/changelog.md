@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-11 07:19 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Simulation Detection Void
+- **Category**: Mixed (unexplored, unexplorable, occluded)
+- **Output**: [[research/voids-simulation-detection-void-2026-02-11]]
+- **Key finding**: Simulation detection uniquely combines all three void types—methods remain unexplored, the inside observer problem suggests fundamental epistemic closure, and simulation architects would have strong incentives to actively prevent detection. This represents a paradigmatic case of cognitive closure where embedded observers cannot verify their substrate.
+
 ## 2026-02-11 06:19 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Cognitive Integration and the Self
