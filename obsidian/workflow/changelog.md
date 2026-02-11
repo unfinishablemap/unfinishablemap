@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-11 09:19 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal Normativity
+- **Output**: [[concepts/phenomenal-normativity]]
+- **Word count**: 2197
+- **Based on research**: Yes, [[phenomenal-value-realism-metaethics-2026-01-16]]
+
 ## 2026-02-11 08:26 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Causal Powers

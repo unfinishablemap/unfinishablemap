@@ -37,6 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: apex-evolve living-with-the-map — source phenomenal-normativity created
+- **Type**: apex-evolve
+- **Notes**: New source article concepts/phenomenal-normativity created. Consider integrating into the "Living with the Map" apex article, which already includes phenomenal-value-realism as a source.
+- **Generated**: 2026-02-11
+
 ### P2: Update references to coalesced binding articles (phenomenal-unity, neural-binding-mechanisms, multimodal-binding)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-11) merged phenomenal-unity.md, neural-binding-mechanisms.md, and multimodal-binding.md into phenomenal-binding-and-holism.md. 37 active content files reference these archived articles. Key files include: binding-problem.md, quantum-consciousness.md, unity-of-consciousness.md, quantum-binding-and-phenomenal-unity.md, varieties-of-unity.md, why-phenomenal-unity-resists-explanation.md, split-brain-consciousness.md, hard-problem-of-consciousness.md, and many others. Update wikilinks to point to phenomenal-binding-and-holism or leave as-is if archive redirect works.
@@ -90,10 +95,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### ✓ 2026-02-09: Create concept page for phenomenal transparency
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
-- **Notes**: Suggested by optimistic review 2026-02-02 (evening). The property that experience seems to be directly about the world. Mentioned in several articles but not defined. Relevant to why naive realism seems intuitive. See optimistic-2026-02-02-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-- **Output**: [[phenomenal-transparency]]
 
 ### P3: Create concept page for phenomenal normativity
 - **Type**: expand-topic
@@ -455,6 +456,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-11: Create concept page for phenomenal normativity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-03. How experiential states carry normative significance intrinsically—grounds phenomenal value realism. Builds on phenomenal-value-realism.md, qualia.md, ethics-of-consciousness.md. See optimistic-2026-02-03.md
+- **Output**: Create concept page for phenomenal normativity
 
 ### ✓ 2026-02-11: Create concept page for causal powers
 - **Type**: expand-topic
