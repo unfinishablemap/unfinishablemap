@@ -18,6 +18,36 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-11 20:19 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Introspection Rehabilitation
+- **Output**: [introspection-rehabilitation](/topics/introspection-rehabilitation/)
+- **Word count**: 2095
+- **Based on research**: Yes — [introspection-reliability-first-person-2026-01-15](/research/introspection-reliability-first-person-2026-01-15/), [voids-introspective-opacity-2026-02-01](/research/voids-introspective-opacity-2026-02-01/)
+
+## 2026-02-11 19:19 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of Epistemic Achievement
+- **Output**: [phenomenology-of-epistemic-achievement](/topics/phenomenology-of-epistemic-achievement/)
+- **Word count**: 1663
+- **Based on research**: No (drew on existing research notes for cognitive phenomenology and error recognition)
+
+## 2026-02-11 18:19 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-surprise](/topics/consciousness-and-surprise/)
+- **Word count**: 1850 → 2297 (+447)
+- **Critical issues addressed**: 4 (banned opening pattern, Meyer attribution error, missing No-MWI tenet, missing `last_deep_review` field)
+- **Medium issues addressed**: 6 (protention undefined, GWT claim unqualified, precision weighting unaddressed, identity theory unaddressed, Bayesian model selection unaddressed, Kuhn attribution imprecise)
+- **Enhancements made**: 5 (new cross-links, expanded Further Reading, strengthened arguments, added concepts/related_articles metadata)
+- **Output**: [deep-review-2026-02-11-consciousness-and-surprise](/reviews/deep-review-2026-02-11-consciousness-and-surprise/)
+
+## 2026-02-11 17:19 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Disorders of consciousness as test cases
+- **Output**: [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/)
+- **Word count**: 2082
+- **Based on research**: yes, [loss-of-consciousness-mind-brain-2026-01-15](/research/loss-of-consciousness-mind-brain-2026-01-15/)
+
 ## 2026-02-11 16:19 UTC - refine-draft
 - **Status**: Success
 - **File**: [contemplative-training-and-phenomenal-access](/topics/contemplative-training-and-phenomenal-access/)

@@ -92,27 +92,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on disorders of consciousness as test cases
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-03 (afternoon). How the Map's framework handles minimally conscious state, vegetative state, locked-in syndrome—cases where consciousness presence is uncertain. Tests framework against hard cases; has implications for ethics of consciousness. Builds on loss-of-consciousness.md, minimal-consciousness.md, consciousness-in-simple-organisms.md. See optimistic-2026-02-03-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-03
-
-### P3: Write article on phenomenology of epistemic achievement
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-03 (evening). What it's like to *grasp* something—the "click" of understanding, the "settling" of conviction. This phenomenology supports the argument from reason: genuine understanding involves normative relations that physical causation alone cannot instantiate. Builds on phenomenology-of-understanding.md, cognitive-phenomenology.md, epistemic-emotions.md. See optimistic-2026-02-03-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-03
-
-### P3: Write article on introspection rehabilitation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-03 (evening). The process/content distinction—we're unreliable about *why* we choose but reliable about *what* we experience. Fox et al. (2012) found meditation training improves introspective accuracy, suggesting introspection is a skill. Defends phenomenological evidence against illusionism's reliance on introspective unreliability. Builds on introspection.md, contemplative-evidence-for-consciousness-theories.md, witness-consciousness.md. See optimistic-2026-02-03-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-03
-
 ### P3: Write article on evolution under dualism
 - **Type**: expand-topic
 - **Status**: pending
@@ -431,6 +410,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-11: Write article on introspection rehabilitation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-03 (evening). The process/content distinction—we're unreliable about *why* we choose but reliable about *what* we experience. Fox et al. (2012) found meditation training improves introspective accuracy, suggesting introspection is a skill. Defends phenomenological evidence against illusionism's reliance on introspective unreliability. Builds on introspection.md, contemplative-evidence-for-consciousness-theories.md, witness-consciousness.md. See optimistic-2026-02-03-evening.md
+- **Output**: introspection rehabilitation
+
+### ✓ 2026-02-11: Write article on phenomenology of epistemic achievement
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-03 (evening). What it's like to *grasp* something—the "click" of understanding, the "settling" of conviction. This phenomenology supports the argument from reason: genuine understanding involves normative relations that physical causation alone cannot instantiate. Builds on phenomenology-of-understanding.md, cognitive-phenomenology.md, epistemic-emotions.md. See optimistic-2026-02-03-evening.md
+- **Output**: phenomenology of epistemic achievement
+
+### ✓ 2026-02-11: Write article on disorders of consciousness as test cases
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-03 (afternoon). How the Map's framework handles minimally conscious state, vegetative state, locked-in syndrome—cases where consciousness presence is uncertain. Tests framework against hard cases; has implications for ethics of consciousness. Builds on loss-of-consciousness.md, minimal-consciousness.md, consciousness-in-simple-organisms.md. See optimistic-2026-02-03-afternoon.md
+- **Output**: disorders of consciousness as test cases
 
 ### ✓ 2026-02-11: Fix anti-illusionist mirage analogy in contemplative-training-and-phenomenal-access.md
 - **Type**: refine-draft
