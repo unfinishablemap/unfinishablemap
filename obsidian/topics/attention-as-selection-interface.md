@@ -4,7 +4,7 @@ description: "Attention and motor planning share neural substrates, creating a u
 created: 2026-02-01
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-02-09T08:50:00+00:00
+ai_modified: 2026-02-11T12:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,6 @@ concepts:
   - "[[decoherence]]"
   - "[[consciousness-selecting-neural-patterns]]"
   - "[[psychophysical-coupling]]"
-  - "[[interface-locality]]"
   - "[[interactionist-dualism]]"
   - "[[agent-causation]]"
   - "[[functionalism]]"
@@ -39,7 +38,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review:
+last_deep_review: 2026-02-11T12:19:00+00:00
 coalesced_from:
   - "/topics/attention-motor-planning-quantum-interface/"
   - "/topics/attention-interface-mechanisms/"
@@ -90,7 +89,7 @@ This parallel representation creates the space for selection—and raises the qu
 
 ### Threshold Crossing
 
-Neural competition resolves through threshold crossing. Competing representations accumulate support until one reaches threshold, triggering winner-take-all dynamics where the winning option executes while competitors are suppressed. The basal ganglia tonically inhibit motor programs; selection means releasing the brake on one option while maintaining inhibition on competitors.
+Neural competition resolves through threshold crossing. Competing representations accumulate support until one reaches threshold, triggering winner-take-all dynamics. The basal ganglia tonically inhibit motor programs; selection means releasing the brake on one option while maintaining inhibition on competitors.
 
 Either the competition is deterministic—one option was always going to win—or it involves genuine indeterminacy. If deterministic, deliberation is theatre. If genuinely indeterminate, something must resolve it. Pure randomness produces arbitrary outcomes, not choices. For selection to be both undetermined and meaningful, something beyond neural dynamics must contribute—biasing which option actualises in a direction that reflects what the agent intends.
 
@@ -110,7 +109,7 @@ Dopamine doesn't cause movement; it tags what matters. Consciousness doesn't gen
 
 The architecture illuminates clinical observations. Parkinson's patients can move when externally prompted but struggle with self-initiated movement. Dopamine depletion raises the selection threshold beyond what normal conscious engagement can overcome—the interface hardware is degraded, not the consciousness that uses it.
 
-The 2024 research also distinguishes tonic (slow, background) from phasic (rapid, event-locked) dopamine. Tonic dopamine supports baseline motor capacity; phasic dopamine drives motivation and reward-seeking. A 2024 *Brain* study found dopamine promotes theta rhythms (4-10 Hz)—the same frequency band associated with willed attention, suggesting dopamine prepares the neural timing substrate within which selection occurs.
+The 2024 research also distinguishes tonic (background) from phasic (event-locked) dopamine. A 2024 *Brain* study found dopamine promotes theta rhythms (4-10 Hz)—the same frequency band associated with willed attention, suggesting dopamine prepares the neural timing substrate within which selection occurs.
 
 ## What Effort Tells Us
 
@@ -118,7 +117,7 @@ Sustaining voluntary attention feels effortful. Sustaining motor intention feels
 
 If consciousness contributes to selection, the correlation has a natural explanation: more difficult selections require greater conscious engagement to stabilise the desired pattern against competing alternatives. William James observed that "volition is nothing but attention" and "the free will question relates solely to the amount of effort of attention." The convergence vindicates James: if attention and motor selection share a mechanism, then the felt effort of choosing what to do and the felt effort of choosing what to attend to have the same source.
 
-This parallel phenomenology also challenges illusionist accounts. If the sense of effort in motor selection is representational fiction unconnected to causal processes, its precise scaling with task difficulty—across two supposedly separate cognitive domains—is a remarkable coincidence.
+A physicalist might respond that the brain simply monitors its own resource allocation and represents it as "effort"—a metacognitive signal, not evidence of non-physical causation. But this only relocates the question: why does the monitoring system track task difficulty with the same phenomenal character across attention and motor selection, two domains only recognised as sharing a mechanism after decades of neuroscience research? A generic monitoring account predicts domain-specific effort phenomenology; what we observe is domain-unified.
 
 ## The Libet Challenge Dissolved
 
@@ -126,7 +125,7 @@ Benjamin Libet's 1983 experiments appeared to show the brain "decides" before co
 
 Schurger's 2012 stochastic accumulator model reinterprets the RP as averaged neural noise, not unconscious decision. Movement occurs when random fluctuations cross threshold; averaging across trials produces the RP shape.
 
-Sjöberg (2024) provides surgical evidence: patients with the supplementary motor area (SMA) resected retain the subjective sense of willing (reporting "100% effort" to move) while losing voluntary movement execution. They can still move automatically—walking when positioned upright, reading aloud—but cannot voluntarily initiate novel actions. If the RP reflected the *conscious decision* to act, removing its source should impair the experience of willing. It does not.
+Sjöberg (2024) provides surgical evidence: patients with the supplementary motor area (SMA) resected retain the subjective sense of willing—reporting maximal effort to move—while losing voluntary movement execution. They can still move automatically—walking when positioned upright, reading aloud—but cannot voluntarily initiate novel actions. If the RP reflected the *conscious decision* to act, removing its source should impair the experience of willing. It does not.
 
 On the convergence model, consciousness contributes selection, not initiation from nothing. Neural computation generates options and builds them toward threshold. Consciousness biases which option crosses first—at the commitment point approximately 280ms before movement, within the window where willed processing shows its distinctive signatures.
 
@@ -150,9 +149,9 @@ Henry Stapp proposes that consciousness interfaces with matter at ion channels i
 
 ### Microtubules (Orch OR)
 
-The Penrose-Hameroff orchestrated objective reduction (Orch OR) hypothesis locates quantum effects in microtubules—protein structures within neurons. 2025 research found room-temperature quantum effects in microtubules; anesthetics target microtubules and cause unconsciousness; coherence time estimates have been revised upward (from Tegmark's 10⁻¹³ seconds to 10⁻⁴ seconds in corrected models).
+The Penrose-Hameroff orchestrated objective reduction (Orch OR) hypothesis locates quantum effects in microtubules within neurons. 2025 research found room-temperature quantum effects in microtubules, and coherence time estimates have been revised upward (from Tegmark's 10⁻¹³ seconds to 10⁻⁴ seconds in corrected models).
 
-**Challenges:** Even revised estimates remain controversial. Orch OR proposes a specific collapse mechanism (gravitational self-reduction) that differs from standard quantum mechanics and remains untested.
+**Challenges:** Even revised estimates remain controversial. Orch OR proposes a specific collapse mechanism (gravitational self-reduction) that remains untested.
 
 ### The Posterior-Frontal Junction
 
@@ -162,9 +161,9 @@ The 2025 COGITATE adversarial testing found conscious content tracked better wit
 
 The thalamus relays ascending sensory signals while receiving descending voluntary signals from frontal cortex. Dynamic causal modelling identifies bidirectional traffic at thalamic sites during attention shifts—the thalamus actively selects, not merely relays.
 
-### Cortical Microcolumns
+### Other Proposals
 
-A 2025 study in *Frontiers in Human Neuroscience* proposes cortical microcolumns (~100 neurons each) couple resonantly with the quantum electromagnetic zero-point field. Highly speculative; the hypothesis lacks independent confirmation.
+More speculative candidates include cortical microcolumns coupling resonantly with the quantum zero-point field (Keppler 2025). These lack independent confirmation and should be treated as early-stage hypotheses, not comparably supported proposals.
 
 ## Timing Constraints
 
@@ -229,7 +228,7 @@ The epiphenomenalist position—that consciousness merely accompanies but never 
 
 ### No Many Worlds
 
-Under [[tenets#^no-many-worlds|many-worlds]], all competing motor programs execute in some branch. Selection is illusory—consciousness merely discovers which branch it occupies. The phenomenology of effort would be fiction: nothing is actually selected. The convergence model requires genuine collapse—real alternatives that genuinely compete, with consciousness genuinely determining which one becomes actual.
+Under [[tenets#^no-many-worlds|many-worlds]], all competing motor programs execute in some branch. Everettian decision theorists argue rational agents should still reason as if selection matters, but the phenomenology of effort—the feeling that sustaining a choice *costs* something—has no causal explanation if all options are equally actualised. The convergence model requires genuine collapse: real alternatives that genuinely compete, with consciousness genuinely determining which one becomes actual.
 
 ### Occam's Razor Has Limits
 
