@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix anti-illusionist mirage analogy in contemplative-training-and-phenomenal-access.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-11) found the central anti-illusionist argument relies on a flawed mirage analogy: investigating an illusion with the same mechanism that generates it (introspection) could deepen rather than dissolve it. The independence problem is unaddressed. Replace the mirage analogy as centrepiece with the stronger neurophenomenological argument (cross-modal confirmation via neural measurement). See pessimistic-2026-02-11.md Issue 1.
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-11
-
-### P2: Address circularity in growing-block-universe-and-consciousness.md epistemic solution
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-11) found the response to the Braddon-Mitchell epistemic objection is circular: the growing block needs consciousness-involving collapse to answer the epistemic problem, and consciousness needs the growing block to explain temporal phenomenology. Should be reframed as inference to the best explanation (holistic coherence) rather than a deductive chain. Also: the claim that consciousness "constitutes" temporal passage conflicts with the site's prebiotic collapse framework—should be weakened to "modulates." See pessimistic-2026-02-11.md Issue 2.
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-11
-
 ### P2: Update references to coalesced binding articles (phenomenal-unity, neural-binding-mechanisms, multimodal-binding)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-11) merged phenomenal-unity.md, neural-binding-mechanisms.md, and multimodal-binding.md into phenomenal-binding-and-holism.md. 37 active content files reference these archived articles. Key files include: binding-problem.md, quantum-consciousness.md, unity-of-consciousness.md, quantum-binding-and-phenomenal-unity.md, varieties-of-unity.md, why-phenomenal-unity-resists-explanation.md, split-brain-consciousness.md, hard-problem-of-consciousness.md, and many others. Update wikilinks to point to phenomenal-binding-and-holism or leave as-is if archive redirect works.
@@ -442,6 +430,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-11: Fix anti-illusionist mirage analogy in contemplative-training-and-phenomenal-access.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-11) found the central anti-illusionist argument relies on a flawed mirage analogy: investigating an illusion with the same mechanism that generates it (introspection) could deepen rather than dissolve it. The independence problem is unaddressed. Replace the mirage analogy as centrepiece with the stronger neurophenomenological argument (cross-modal confirmation via neural measurement). See pessimistic-2026-02-11.md Issue 1.
+- **Output**: obsidian/topics/contemplative-training-and-phenomenal-access.md
+
+Task context:
+Pessimistic review (2026-02-11) found the central anti-illusionist argument relies on a flawed mirage analogy: investigating an illusion with the same mechanism that generates it (introspection) could deepen rather than dissolve it. The independence problem is unaddressed. Replace the mirage analogy as centrepiece with the stronger neurophenomenological argument (cross-modal confirmation via neural measurement). See pessimistic-2026-02-11.md Issue 1.
 
 ### ✓ 2026-02-11: Write article on the growing block universe and consciousness
 - **Type**: expand-topic
