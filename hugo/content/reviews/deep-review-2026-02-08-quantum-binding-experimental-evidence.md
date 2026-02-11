@@ -53,7 +53,7 @@ topics: []
 - Corrected decoherence summary to match the nuanced treatment in the body text
 
 ### Cross-links Added
-- [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) (body text, gamma synchrony section + frontmatter)
+- [neural-binding-mechanisms](/neural-binding-mechanisms/) (body text, gamma synchrony section + frontmatter)
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) (body text, classical mechanisms section + frontmatter)
 
 ## Remaining Items

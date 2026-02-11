@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-25
-**Article**: [Multimodal Binding](/concepts/multimodal-binding/)
+**Article**: [Multimodal Binding](/multimodal-binding/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

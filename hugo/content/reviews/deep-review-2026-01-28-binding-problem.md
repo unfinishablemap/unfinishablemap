@@ -60,13 +60,13 @@ All six adversarial personas were applied:
 
 ### Enhancements Made
 
-1. **Added [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) cross-link**: In concepts frontmatter and Further Reading section with description. This new article provides focused mechanism treatment (gamma synchrony limitations, thalamocortical loops, zero-lag synchrony argument, Orch OR, Stapp) that complements binding-problem.md's broader coverage.
+1. **Added [neural-binding-mechanisms](/neural-binding-mechanisms/) cross-link**: In concepts frontmatter and Further Reading section with description. This new article provides focused mechanism treatment (gamma synchrony limitations, thalamocortical loops, zero-lag synchrony argument, Orch OR, Stapp) that complements binding-problem.md's broader coverage.
 
 2. **Removed AI refinement log**: Comment at document end removed as it requested.
 
 ### Cross-links Added
 
-- [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) — Focused treatment of classical and quantum binding mechanisms
+- [neural-binding-mechanisms](/neural-binding-mechanisms/) — Focused treatment of classical and quantum binding mechanisms
 
 ## Metrics
 

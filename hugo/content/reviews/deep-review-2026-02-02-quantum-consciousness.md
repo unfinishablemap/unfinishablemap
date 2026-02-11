@@ -33,7 +33,7 @@ None. The article has reached good stability through previous reviews.
 
 ### Medium Issues Found
 
-- **Missing cross-link to [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/)**: The neural-binding article provides detailed treatment of classical binding failures and the zero-lag synchrony argument, but quantum-consciousness had no reference. **Resolution**: Added to concepts frontmatter and Further Reading.
+- **Missing cross-link to [neural-binding-mechanisms](/neural-binding-mechanisms/)**: The neural-binding article provides detailed treatment of classical binding failures and the zero-lag synchrony argument, but quantum-consciousness had no reference. **Resolution**: Added to concepts frontmatter and Further Reading.
 
 - **Zero-lag synchrony argument missing**: Baum's quantum binding argument—that zero-lag gamma synchrony across distant cortical regions requires quantum non-locality—provides strong empirical support not present in the binding section. **Resolution**: Added to Entanglement and Binding Problem section.
 
@@ -70,7 +70,7 @@ Six sympathetic personas examined the article's strengths and opportunities from
 
 ### Cross-links Added
 
-- [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/)
+- [neural-binding-mechanisms](/neural-binding-mechanisms/)
 
 ## Remaining Items
 

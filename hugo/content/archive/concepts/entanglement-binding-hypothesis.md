@@ -61,7 +61,7 @@ In an entangled quantum state:
 
 Consider two entangled particles. Before measurement, neither particle has a definite spin state—only the *pair* has a definite relational state. This is not correlation between pre-existing properties; the particles lack individual states to be correlated. Unity is prior to parts.
 
-Hartmut Neven of Google Quantum AI argues this makes entanglement "the only true binding agent in physics." Classical physics can coordinate separate things but cannot make them literally one thing. If [phenomenal unity](/concepts/phenomenal-unity/) requires ontological unity at the physical level, only entanglement can provide it.
+Hartmut Neven of Google Quantum AI argues this makes entanglement "the only true binding agent in physics." Classical physics can coordinate separate things but cannot make them literally one thing. If [phenomenal unity](/phenomenal-unity/) requires ontological unity at the physical level, only entanglement can provide it.
 
 ## Structural Correspondence
 
@@ -194,10 +194,10 @@ The hypothesis makes specific predictions that distinguish it from classical alt
 ## Further Reading
 
 - [binding-problem](/concepts/binding-problem/) — The full binding problem including classical approaches
-- [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) — Classical vs quantum mechanisms in detail
+- [neural-binding-mechanisms](/neural-binding-mechanisms/) — Classical vs quantum mechanisms in detail
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Philosophical argument that entanglement matches unity
 - [quantum-binding-experimental-evidence](/concepts/quantum-binding-experimental-evidence/) — Detailed experimental support
-- [phenomenal-unity](/concepts/phenomenal-unity/) — What the binding problem aims to explain
+- [phenomenal-unity](/phenomenal-unity/) — What the binding problem aims to explain
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR and Stapp's quantum approaches
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno mechanism for attention
 - [decoherence](/concepts/decoherence/) — Why quantum effects might survive in biological systems

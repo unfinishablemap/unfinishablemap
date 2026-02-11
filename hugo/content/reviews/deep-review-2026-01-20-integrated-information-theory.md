@@ -57,7 +57,7 @@ topics: []
 - Added 4 new references (Kerskens & Pérez, Frankish, Whitehead, plus IEP)
 
 ### Cross-links Added
-- [phenomenal-unity](/concepts/phenomenal-unity/) (in axioms and Further Reading)
+- [phenomenal-unity](/phenomenal-unity/) (in axioms and Further Reading)
 - [binding-problem](/concepts/binding-problem/) (in substrate section and Further Reading)
 - [illusionism](/concepts/illusionism/) (new section and Further Reading)
 - [emergence](/concepts/emergence/) (Further Reading)

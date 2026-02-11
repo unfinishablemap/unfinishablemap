@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-28
-**Article**: [Neural Binding Mechanisms](/concepts/neural-binding-mechanisms/)
+**Article**: [Neural Binding Mechanisms](/neural-binding-mechanisms/)
 **Previous review**: [2026-01-28 (earlier today)](/reviews/deep-review-2026-01-28-neural-binding-mechanisms/)
 
 ## Review Context

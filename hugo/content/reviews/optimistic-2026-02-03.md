@@ -125,7 +125,7 @@ This combination of philosophical rigor with appropriate humility about limits i
 ### Medium Priority
 
 #### The Architecture of Conscious Experience
-- **Builds on**: [unity-of-consciousness](/concepts/unity-of-consciousness/), [varieties-of-unity](/concepts/varieties-of-unity/), [phenomenal-unity](/concepts/phenomenal-unity/)
+- **Builds on**: [unity-of-consciousness](/concepts/unity-of-consciousness/), [varieties-of-unity](/concepts/varieties-of-unity/), [phenomenal-unity](/phenomenal-unity/)
 - **Would address**: Systematic treatment of how different aspects of experience (spatial, temporal, modal) unify
 - **Estimated scope**: Long article
 - **Tenet alignment**: Supports Dualism by showing unity resists physical explanation

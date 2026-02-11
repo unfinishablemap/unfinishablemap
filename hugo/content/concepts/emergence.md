@@ -89,7 +89,7 @@ This is precisely what the Map's [Bidirectional Interaction](/tenets/#bidirectio
 
 Three features of consciousness resist reduction:
 
-**[Unified awareness](/concepts/phenomenal-unity/).** Physically separated neural networks somehow constitute a single conscious state. The [binding problem](/concepts/binding-problem/)—how distributed neural processes combine into unified experience—has proposed neural solutions (synchrony, global workspace broadcasting), but these explain coordination without explaining unity itself. Correlation between distinct processes isn't identity.
+**[Unified awareness](/phenomenal-unity/).** Physically separated neural networks somehow constitute a single conscious state. The [binding problem](/concepts/binding-problem/)—how distributed neural processes combine into unified experience—has proposed neural solutions (synchrony, global workspace broadcasting), but these explain coordination without explaining unity itself. Correlation between distinct processes isn't identity.
 
 **Qualia.** The qualitative character of experience seems "dimensionally mismatched" with neural complexity. Jackson's [knowledge argument](/concepts/knowledge-argument/) and Chalmers' zombie argument suggest phenomenal properties resist physical characterization. Putnam's [multiple realizability](/concepts/reductionism/#multiple-realizability) argument reinforces this—if the same quale can be realized by different physical substrates, qualia cannot be identified with any particular neural state.
 
@@ -181,7 +181,7 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reduction
 - [free-will](/topics/free-will/) — The debate over whether genuine choice exists and what it requires
 - [binding-problem](/concepts/binding-problem/) — How distributed processes achieve phenomenal unity
-- [phenomenal-unity](/concepts/phenomenal-unity/) — The unity of conscious experience that binding must explain
+- [phenomenal-unity](/phenomenal-unity/) — The unity of conscious experience that binding must explain
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical constraints from simple organisms
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The mechanism for downward causation

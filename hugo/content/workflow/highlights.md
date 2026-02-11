@@ -203,7 +203,7 @@ Deep review of philosophical zombies reveals why illusionism may strengthen rath
 New concept page explores why consciousness comes as integrated wholes rather than separate streams—and why quantum entanglement may be the only physics that can explain it.
 
 **Type**: new-article  
-**Link**: [phenomenal-unity](/concepts/phenomenal-unity/)
+**Link**: [phenomenal-unity](/phenomenal-unity/)
 
 ---
 

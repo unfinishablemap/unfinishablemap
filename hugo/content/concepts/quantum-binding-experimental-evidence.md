@@ -79,13 +79,13 @@ More fundamentally, decoherence does not solve the measurement problem. After de
 
 ## Classical Mechanisms Cannot Produce Unity
 
-[Gamma synchrony theories](/concepts/neural-binding-mechanisms/) (Singer, von der Malsburg, Crick & Koch) show that neurons firing together correlate with conscious perception. Attention increases neural synchrony. Synchronized activity accompanies object recognition.
+[Gamma synchrony theories](/neural-binding-mechanisms/) (Singer, von der Malsburg, Crick & Koch) show that neurons firing together correlate with conscious perception. Attention increases neural synchrony. Synchronized activity accompanies object recognition.
 
 But correlation is not identity. Separate neurons firing in sync remain separate neurons. The theory explains how the brain coordinates information about the apple's color, shape, and meaning. It does not explain why coordination *feels* unified.
 
 Llinás proposed thalamocortical resonance: 40 Hz oscillations coordinated by the thalamus provide temporal binding. The thalamus acts as a hub enabling cortical communication. These oscillations appear during wakefulness and dreaming, disappear in deep sleep.
 
-Again, this describes neural correlates without explaining [phenomenal unity](/concepts/phenomenal-unity/)—the [unity of consciousness](/concepts/unity-of-consciousness/) that makes experience whole. Why does temporal coordination produce a single experience rather than many simultaneous experiences? Classical physics provides no mechanism by which coordination becomes unity.
+Again, this describes neural correlates without explaining [phenomenal unity](/phenomenal-unity/)—the [unity of consciousness](/concepts/unity-of-consciousness/) that makes experience whole. Why does temporal coordination produce a single experience rather than many simultaneous experiences? Classical physics provides no mechanism by which coordination becomes unity.
 
 Baum (2024, PhilArchive preprint) formalized this objection: zero-lag gamma synchrony (40-100 Hz, <1ms precision) cannot arise classically without violating relativistic causality. Bell's theorem and loophole-free experiments confirm that non-local correlations are exclusively quantum. If Baum's analysis holds, conscious binding necessitates quantum non-locality. The argument remains speculative and has not yet undergone peer review, but it crystallizes the structural problem: classical mechanisms coordinate information without producing ontological unity.
 
@@ -127,7 +127,7 @@ A final caveat: the possibility remains that the consciousness-quantum connectio
 - [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — Comprehensive analysis of the decoherence objection and corrected calculations
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental effort and discrete observation
 - [binding-problem](/concepts/binding-problem/) — The philosophical puzzle this evidence addresses
-- [phenomenal-unity](/concepts/phenomenal-unity/) — What quantum binding aims to explain
+- [phenomenal-unity](/phenomenal-unity/) — What quantum binding aims to explain
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Penrose-Hameroff Orch OR and Stapp's quantum Zeno approach
 - [decoherence](/concepts/decoherence/) — Why quantum effects can survive in biological systems
 - [illusionism](/concepts/illusionism/) — The challenge that phenomenal unity might be illusory

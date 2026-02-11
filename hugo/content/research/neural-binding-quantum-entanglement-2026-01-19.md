@@ -204,7 +204,7 @@ This research examines the neural binding problem—how distributed brain proces
 ### Whether Unity Is Real or Illusory
 - **Sides**: Realists about unity (most philosophers, Bayne, Chalmers) vs. illusionists (Dennett)
 - **Core disagreement**: Is phenomenal unity a genuine feature of experience or an illusion created by parallel drafts?
-- **Current state**: Most philosophers reject Dennett's position. The Map's [phenomenal-unity](/concepts/phenomenal-unity/) article argues unity appears constitutive rather than contingent—not a feature added to experience but what makes something an experience at all.
+- **Current state**: Most philosophers reject Dennett's position. The Map's [phenomenal-unity](/phenomenal-unity/) article argues unity appears constitutive rather than contingent—not a feature added to experience but what makes something an experience at all.
 
 ## Historical Timeline
 
@@ -229,7 +229,7 @@ This research examines the neural binding problem—how distributed brain proces
 
 Based on this research, an article could:
 
-1. **Synthesize the quantum binding case** — the Map's [binding-problem](/concepts/binding-problem/) and [phenomenal-unity](/concepts/phenomenal-unity/) pages already make the quantum argument well. A new article could focus specifically on the *experimental evidence* accumulating since 2022: the Kerskens-Pérez MRI studies, the Wiest epothilone experiments, the twin studies. This would update the empirical support for positions the Map already holds philosophically. Aligns with Minimal Quantum Interaction and Bidirectional Interaction tenets.
+1. **Synthesize the quantum binding case** — the Map's [binding-problem](/concepts/binding-problem/) and [phenomenal-unity](/phenomenal-unity/) pages already make the quantum argument well. A new article could focus specifically on the *experimental evidence* accumulating since 2022: the Kerskens-Pérez MRI studies, the Wiest epothilone experiments, the twin studies. This would update the empirical support for positions the Map already holds philosophically. Aligns with Minimal Quantum Interaction and Bidirectional Interaction tenets.
 
 2. **Address classical mechanisms more fully** — While the Map critiques classical mechanisms for failing to explain phenomenal unity, it could develop fuller engagement with thalamocortical resonance (Llinás) specifically. The 40 Hz oscillation research is sophisticated; the Map could acknowledge its explanatory power for *correlation* while maintaining that phenomenal *unity* requires more. This would strengthen the argument by engaging the strongest classical alternative.
 

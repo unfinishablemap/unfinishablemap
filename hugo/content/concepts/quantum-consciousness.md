@@ -143,7 +143,7 @@ The Map resolves both through **objective reduction with consciousness modulatio
 
 ## Entanglement and the Binding Problem
 
-The [binding problem](/concepts/binding-problem/) has two components: BP1 asks how features are grouped (the segregation problem); BP2 asks why coordination produces *unity* rather than parallel processes that happen to be correlated (the combination problem). Classical mechanisms—gamma synchrony, thalamocortical resonance, global workspace—address BP1 but fail at BP2. Coordinating separate neurons doesn't make them one thing. See [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) for why classical approaches structurally cannot produce phenomenal unity.
+The [binding problem](/concepts/binding-problem/) has two components: BP1 asks how features are grouped (the segregation problem); BP2 asks why coordination produces *unity* rather than parallel processes that happen to be correlated (the combination problem). Classical mechanisms—gamma synchrony, thalamocortical resonance, global workspace—address BP1 but fail at BP2. Coordinating separate neurons doesn't make them one thing. See [neural-binding-mechanisms](/neural-binding-mechanisms/) for why classical approaches structurally cannot produce phenomenal unity.
 
 Quantum entanglement is different—entangled systems form genuinely unified wholes that cannot be decomposed into separate parts. If consciousness arises from entangled quantum states, phenomenal unity reflects physical unity at the quantum level. The structural match is precise: in entanglement, the whole has properties that the parts lack individually. This mirrors how experience comes unified from the ground up rather than assembled from separate quale-atoms.
 
@@ -207,7 +207,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws
 - [interface-locality](/interface-locality/) — Why consciousness selects only within its own brain
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Entanglement and phenomenal unity
-- [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) — Classical vs. quantum binding mechanisms
+- [neural-binding-mechanisms](/neural-binding-mechanisms/) — Classical vs. quantum binding mechanisms
 
 **Objections and resolutions:**
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — Why subjective probability interpretations fail phenomenologically

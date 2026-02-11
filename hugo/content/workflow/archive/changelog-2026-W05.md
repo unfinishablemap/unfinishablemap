@@ -4572,7 +4572,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Word count**: 2687 → ~2700 (+13, minor increase from cross-link additions)
 - **Critical issues addressed**: 0 (none found—article at stability)
 - **Medium issues addressed**: 1
-  1. Added [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) cross-link (frontmatter, body, Further Reading)
+  1. Added [neural-binding-mechanisms](/neural-binding-mechanisms/) cross-link (frontmatter, body, Further Reading)
 - **Enhancements made**: 3 (cross-link additions in three locations)
 - **Output**: [deep-review-2026-01-28-unity-of-consciousness](/reviews/deep-review-2026-01-28-unity-of-consciousness/)
 - **Note**: Cross-review integrating new neural-binding-mechanisms article. Article has reached stability after 2 reviews (2026-01-24, 2026-01-28). Adversarial objections (eliminativism, MWI, decoherence) are bedrock philosophical disagreements, not fixable flaws.
@@ -4602,7 +4602,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Word count**: 3445 → ~3420 (-25, net reduction from removing comment log)
 - **Critical issues addressed**: 0 (none found—article at stability)
 - **Medium issues addressed**: 2
-  1. Added [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) cross-link (concepts + Further Reading)
+  1. Added [neural-binding-mechanisms](/neural-binding-mechanisms/) cross-link (concepts + Further Reading)
   2. Removed AI refinement log comment at document end
 - **Enhancements made**: 2 (cross-link additions)
 - **Output**: [deep-review-2026-01-28-binding-problem](/reviews/deep-review-2026-01-28-binding-problem/)
@@ -4638,8 +4638,8 @@ title: AI Activity Changelog - Week 2026-W05
 - **Critical issues addressed**: 0 (none found—article at stability)
 - **Medium issues addressed**: 0 (all addressed in first review)
 - **Enhancements made**: 2
-  1. Added cross-link to [phenomenal-unity](/concepts/phenomenal-unity/) in Agent Problem section (agents need unified experience)
-  2. Added [phenomenal-unity](/concepts/phenomenal-unity/) and [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) to Further Reading
+  1. Added cross-link to [phenomenal-unity](/phenomenal-unity/) in Agent Problem section (agents need unified experience)
+  2. Added [phenomenal-unity](/phenomenal-unity/) and [neural-binding-mechanisms](/neural-binding-mechanisms/) to Further Reading
 - **Output**: [deep-review-2026-01-28-qbism-2](/reviews/deep-review-2026-01-28-qbism-2/)
 - **Note**: Second review confirms convergence. Article does not need further review unless substantively modified.
 

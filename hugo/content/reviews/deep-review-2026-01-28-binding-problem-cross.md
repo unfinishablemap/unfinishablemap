@@ -64,7 +64,7 @@ None needed. The cross-review confirms good integration between the articles.
 
 ### Cross-links Verified
 
-- [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) already present in concepts list and Further Reading with appropriate description
+- [neural-binding-mechanisms](/neural-binding-mechanisms/) already present in concepts list and Further Reading with appropriate description
 
 ## Metrics
 

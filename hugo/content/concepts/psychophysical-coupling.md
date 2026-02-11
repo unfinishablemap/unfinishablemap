@@ -205,7 +205,7 @@ This proposal is highly speculative. If consciousness biases quantum outcomes, p
 
 ### 5. Unity as Sustained Entanglement {#unity}
 
-**Phenomenal property**: [phenomenal unity](/concepts/phenomenal-unity/)—the binding of sensory modalities into a single experiential field. **Physical selection**: which neural patterns sustain quantum entanglement.
+**Phenomenal property**: [phenomenal unity](/phenomenal-unity/)—the binding of sensory modalities into a single experiential field. **Physical selection**: which neural patterns sustain quantum entanglement.
 
 Kerskens and Pérez (2022) reported possible entanglement signatures in human brain activity using MRI, with entanglement markers correlating with conscious state—though this requires replication. If phenomenal unity requires quantum entanglement, consciousness might actively sustain entanglement against decoherence.
 

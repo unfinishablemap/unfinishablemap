@@ -476,7 +476,7 @@ title: Completed Tasks - Week 2026-W04
 ### ✓ 2026-01-23: Cross-review binding-problem.md considering multimodal-binding article
 - **Type**: cross-review
 - **Notes**: New article concepts/multimodal-binding.md covers phenomenal integration across sensory modalities. The binding-problem.md topic page should be reviewed to: (1) add cross-link to multimodal-binding, (2) distinguish the general binding problem from specifically multimodal binding, (3) note how multimodal binding provides paradigm evidence for unity of consciousness.
-- **Result**: Added [multimodal-binding](/concepts/multimodal-binding/) to frontmatter concepts. Added new "Intra-Modal vs Cross-Modal Binding" subsection after the opening paragraph distinguishing the two levels of binding, explaining why multimodal binding provides paradigm evidence (different cortical regions, different processing speeds, different neural codes yet unified experience). Added multimodal-binding as first entry in Further Reading with description of cross-modal case.
+- **Result**: Added [multimodal-binding](/multimodal-binding/) to frontmatter concepts. Added new "Intra-Modal vs Cross-Modal Binding" subsection after the opening paragraph distinguishing the two levels of binding, explaining why multimodal binding provides paradigm evidence (different cortical regions, different processing speeds, different neural codes yet unified experience). Added multimodal-binding as first entry in Further Reading with description of cross-modal case.
 - **Output**: concepts/binding-problem.md
 
 ### ✓ 2026-01-23: Research introspective reliability and first-person access

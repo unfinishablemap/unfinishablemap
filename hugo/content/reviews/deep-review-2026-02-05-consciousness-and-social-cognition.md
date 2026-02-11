@@ -64,7 +64,7 @@ All attributions verified:
 - None (stability confirmation - no changes needed)
 
 ### Cross-links Verified
-- [phenomenal-unity](/concepts/phenomenal-unity/) - properly linked in frontmatter and inline discussion
+- [phenomenal-unity](/phenomenal-unity/) - properly linked in frontmatter and inline discussion
 - [baseline-cognition](/concepts/baseline-cognition/), [jourdain-hypothesis](/concepts/jourdain-hypothesis/), [metarepresentation](/concepts/metarepresentation/), etc. - all appropriate
 
 ## Remaining Items

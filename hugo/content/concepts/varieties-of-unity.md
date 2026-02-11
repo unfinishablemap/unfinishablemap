@@ -97,7 +97,7 @@ On this view, solving one unity problem doesn't automatically solve the others. 
 
 ### Derivation View
 
-One unity is fundamental; the others derive from it. **Subject unity** might be constitutive if consciousness is essentially first-personal—synchronic and diachronic unity would be modes in which the subject's experience is organized. Alternatively, **synchronic unity** might be fundamental if consciousness must be unified at each moment (see [phenomenal-unity](/concepts/phenomenal-unity/))—subject unity would follow from having unified experiences. Or **diachronic unity** might be primary if temporal becoming is constitutive of experience itself, with synchronic unity as cross-sections and subject unity as process continuity.
+One unity is fundamental; the others derive from it. **Subject unity** might be constitutive if consciousness is essentially first-personal—synchronic and diachronic unity would be modes in which the subject's experience is organized. Alternatively, **synchronic unity** might be fundamental if consciousness must be unified at each moment (see [phenomenal-unity](/phenomenal-unity/))—subject unity would follow from having unified experiences. Or **diachronic unity** might be primary if temporal becoming is constitutive of experience itself, with synchronic unity as cross-sections and subject unity as process continuity.
 
 ### Holism View
 
@@ -164,7 +164,7 @@ One might propose all three unities are "really" one thing for parsimony. But if
 ## Further Reading
 
 - [binding-problem](/concepts/binding-problem/) — The neural challenge of synchronic feature binding
-- [phenomenal-unity](/concepts/phenomenal-unity/) — Why experience comes as integrated wholes
+- [phenomenal-unity](/phenomenal-unity/) — Why experience comes as integrated wholes
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Diachronic structure and the specious present
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Subject unity and the minimal self
 - [personal-identity](/topics/personal-identity/) — How subjects persist across time

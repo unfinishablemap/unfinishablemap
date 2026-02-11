@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced binding articles (phenomenal-unity, neural-binding-mechanisms, multimodal-binding)
+- **Type**: other
+- **Notes**: Coalesce (2026-02-11) merged phenomenal-unity.md, neural-binding-mechanisms.md, and multimodal-binding.md into phenomenal-binding-and-holism.md. 37 active content files reference these archived articles. Key files include: binding-problem.md, quantum-consciousness.md, unity-of-consciousness.md, quantum-binding-and-phenomenal-unity.md, varieties-of-unity.md, why-phenomenal-unity-resists-explanation.md, split-brain-consciousness.md, hard-problem-of-consciousness.md, and many others. Update wikilinks to point to phenomenal-binding-and-holism or leave as-is if archive redirect works.
+- **Source**: coalesce
+- **Generated**: 2026-02-11
+
 ### P2: Update references to coalesced attention articles (attention-interface-mechanisms, attention-motor-planning-quantum-interface)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-09) merged `attention-interface-mechanisms.md` and `attention-motor-planning-quantum-interface.md` into `attention-as-selection-interface.md`. 10 active content files reference `[attention-interface-mechanisms](/attention-interface-mechanisms/)`: embodied-consciousness-and-the-interface.md, psychophysical-laws-bridging-mind-and-matter.md, psychophysical-coupling.md, free-will.md, decoherence.md, quantum-consciousness.md, mental-effort.md, stapp-quantum-mind.md, attention-as-interface.md, structure-of-attention.md. Update wikilinks to point to attention-as-selection-interface.
@@ -89,28 +95,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
 - **Output**: [phenomenal-transparency](/concepts/phenomenal-transparency/)
-
-### P3: Create concept page for conceivability-possibility inference
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-02 (evening). The logical move from "conceivable" to "possible" that grounds zombie and knowledge arguments. Currently discussed in context but deserves systematic treatment. See optimistic-2026-02-02-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-02
-
-### P3: Write article on consciousness and causal powers
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-03. The metaphysics of how substances exercise causal powers—what it means for consciousness to "cause" in a non-Humean sense. Directly supports Bidirectional Interaction by explaining the metaphysical framework for mental causation. Builds on agent-causation.md, mental-causation.md, free-will.md. See optimistic-2026-02-03.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-03
-
-### P3: Write article on the phenomenology of moral experience
-- **Type**: expand-topic
-- **Status**: done
-- **Notes**: Suggested by optimistic review 2026-02-03. What it is like to experience something as wrong or obligatory—the phenomenology underlying moral judgment. Supports Dualism by showing moral phenomenology has irreducible features. Builds on phenomenal-value-realism.md, ethics-of-consciousness.md, emotional-consciousness.md. See optimistic-2026-02-03.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-03
-- **Output**: obsidian/topics/phenomenology-of-moral-experience.md
 
 ### P3: Write article on cognitive integration and the self
 - **Type**: expand-topic
@@ -486,6 +470,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-11: Write article on the phenomenology of moral experience
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-03. What it is like to experience something as wrong or obligatory—the phenomenology underlying moral judgment. Supports Dualism by showing moral phenomenology has irreducible features. Builds on phenomenal-value-realism.md, ethics-of-consciousness.md, emotional-consciousness.md. See optimistic-2026-02-03.md
+- **Output**: the phenomenology of moral experience
+
+### ✓ 2026-02-11: Write article on consciousness and causal powers
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-03. The metaphysics of how substances exercise causal powers—what it means for consciousness to "cause" in a non-Humean sense. Directly supports Bidirectional Interaction by explaining the metaphysical framework for mental causation. Builds on agent-causation.md, mental-causation.md, free-will.md. See optimistic-2026-02-03.md
+- **Output**: consciousness and causal powers
+
+### ✓ 2026-02-11: Create concept page for conceivability-possibility inference
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-02 (evening). The logical move from "conceivable" to "possible" that grounds zombie and knowledge arguments. Currently discussed in context but deserves systematic treatment. See optimistic-2026-02-02-evening.md
+- **Output**: Create concept page for conceivability-possibility inference
 
 ### ✓ 2026-02-10: Write article on phenomenology of returning attention
 - **Type**: expand-topic

@@ -70,7 +70,7 @@ William James coined the "combination problem" in the 19th century: if conscious
 
 BP2 is the "hard" aspect of binding. As researchers note, "A unified conscious moment with several bits of information presents an apparent physical paradox since it implies that several spatially separate objects exert causal power simultaneously." The unity isn't just functional coordination; it's the subjective character of experiencing everything *together* within a single phenomenal field.
 
-**Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[Cross-modal binding](/concepts/multimodal-binding/)** concerns features from different senses. The multimodal case makes the explanatory gap maximally stark: neural mechanisms explain how the brain coordinates separate processing streams (BP1), but not why coordination produces phenomenal unity rather than just functional integration (BP2).
+**Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[Cross-modal binding](/multimodal-binding/)** concerns features from different senses. The multimodal case makes the explanatory gap maximally stark: neural mechanisms explain how the brain coordinates separate processing streams (BP1), but not why coordination produces phenomenal unity rather than just functional integration (BP2).
 
 ### The Illusionist Challenge
 
@@ -80,7 +80,7 @@ The Map rejects this. First, the illusionist faces infinite regress: to experien
 
 ## Classical Proposed Solutions
 
-Several mechanisms have been proposed for computational binding (BP1). See [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) for detailed treatment.
+Several mechanisms have been proposed for computational binding (BP1). See [neural-binding-mechanisms](/neural-binding-mechanisms/) for detailed treatment.
 
 **Binding by synchrony**: Features belonging to the same object bind through synchronized gamma-band oscillations (30-100 Hz). But synchronized firing consists of separate events in separate neurons. Why does correlation feel like unity? Classical coordination does not produce ontological holism—the whole remains reducible to coordinated parts.
 
@@ -188,9 +188,9 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 
 ## Further Reading
 
-- [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) — Classical and quantum binding mechanisms
+- [neural-binding-mechanisms](/neural-binding-mechanisms/) — Classical and quantum binding mechanisms
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The broader problem; binding is the synchronic dimension
-- [phenomenal-unity](/concepts/phenomenal-unity/) — Phenomenal unity as metaphysical question
+- [phenomenal-unity](/phenomenal-unity/) — Phenomenal unity as metaphysical question
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into macro-experience
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Entanglement as the basis for unity
 - [quantum-binding-experimental-evidence](/concepts/quantum-binding-experimental-evidence/) — Recent experimental evidence

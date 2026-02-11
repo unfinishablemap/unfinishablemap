@@ -282,7 +282,7 @@ The convergence of Kane's event-causal libertarianism (now incorporating agent-c
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and its self-undermining character
 - [decoherence](/concepts/decoherence/) — The decoherence objection and quantum biology responses
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body
-- [phenomenal-unity](/concepts/phenomenal-unity/) — Unified experience as evidence for non-reductive consciousness
+- [phenomenal-unity](/phenomenal-unity/) — Unified experience as evidence for non-reductive consciousness
 - [quantum-mechanics-free-will-2026-01-16](/research/quantum-mechanics-free-will-2026-01-16/) — Research notes underlying this article
 
 ## References

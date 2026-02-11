@@ -18,6 +18,37 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-11 04:19 UTC - expand-topic
+- **Status**: Already exists (created 2026-02-08, reviewed 2026-02-09)
+- **Topic**: The Phenomenology of Moral Experience
+- **Output**: [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/)
+- **Word count**: 2731 (within 2000-2500 target for topics)
+- **Based on research**: No (general philosophical knowledge)
+- **Note**: Article comprehensively covers moral phenomenology, including perception of wrongness, obligation, moral beauty, guilt, moral remainder, projectivism challenge, contemplative evidence, illusionist challenge, and tenet connections. No action needed.
+
+## 2026-02-11 03:19 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and Causal Powers
+- **Output**: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
+- **Word count**: 2057
+- **Based on research**: No (general knowledge synthesis focusing on the nature and scope of phenomenal causal influence)
+
+## 2026-02-11 02:19 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenal-unity](/concepts/phenomenal-unity/), [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/), [multimodal-binding](/concepts/multimodal-binding/)
+- **Target**: [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)
+- **Archived**: [phenomenal-unity](/archive/concepts/phenomenal-unity/), [neural-binding-mechanisms](/archive/concepts/neural-binding-mechanisms/), [multimodal-binding](/archive/concepts/multimodal-binding/)
+- **Word count**: Combined ~19,000 words → 8,700 unified words
+- **References to review**: 71 files reference phenomenal-unity, 21 reference neural-binding-mechanisms, 4 reference multimodal-binding
+- **Rationale**: Concepts section at 86.5% capacity (173/200). Three articles had massive overlap on phenomenal unity problem, classical mechanisms, quantum solutions, and experimental evidence. Unified article provides clearer narrative flow from phenomenon → classical mechanisms → why they fail → quantum alternative → evidence.
+
+## 2026-02-11 01:10 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Conceivability-Possibility Inference
+- **Output**: [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/)
+- **Word count**: 1382
+- **Based on research**: Partially (drew on voids-conceptual-impossibility research for the confabulation objection)
+
 ## 2026-02-11 00:10 UTC - deep-review
 - **Status**: Success
 - **File**: [the-interface-location-problem](/topics/the-interface-location-problem/)

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-27
-**Article**: [Phenomenal Unity](/concepts/phenomenal-unity/)
+**Article**: [Phenomenal Unity](/phenomenal-unity/)
 **Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-phenomenal-unity/)
 
 ## Pessimistic Analysis Summary

@@ -61,7 +61,7 @@ Aesthetic qualities exhibit characteristic structure that distinguishes them fro
 
 Aesthetic experience involves perceiving wholes that exceed their parts. A melody is not reducible to its individual notes—it has a shape, a movement, a character that emerges from the relations between notes but is experienced as a unified quality. A face is beautiful or plain as a whole; listing its features doesn't capture what we see.
 
-This gestalt character connects aesthetic experience to [phenomenal unity](/concepts/phenomenal-unity/). The binding that unifies visual experience into a coherent scene may be the same binding that allows us to perceive aesthetic wholes. If so, aesthetic experience is intimately connected to the unity problem—one of the deepest puzzles in consciousness studies.
+This gestalt character connects aesthetic experience to [phenomenal unity](/phenomenal-unity/). The binding that unifies visual experience into a coherent scene may be the same binding that allows us to perceive aesthetic wholes. If so, aesthetic experience is intimately connected to the unity problem—one of the deepest puzzles in consciousness studies.
 
 ### Contextual Dependence
 

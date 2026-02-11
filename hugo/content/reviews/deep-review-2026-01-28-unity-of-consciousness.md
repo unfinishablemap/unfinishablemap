@@ -52,12 +52,12 @@ None. The article was comprehensively reviewed on 2026-01-24, which addressed de
 - Decoherence response with Stapp's Quantum Zeno mechanism
 
 ### Enhancements Made
-- Added [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) to frontmatter concepts
+- Added [neural-binding-mechanisms](/neural-binding-mechanisms/) to frontmatter concepts
 - Added cross-reference to neural-binding-mechanisms in Quantum Binding section body text
-- Added [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) to Further Reading → Proposed Mechanisms (first position, as it provides comprehensive comparison)
+- Added [neural-binding-mechanisms](/neural-binding-mechanisms/) to Further Reading → Proposed Mechanisms (first position, as it provides comprehensive comparison)
 
 ### Cross-links Added
-- [neural-binding-mechanisms](/concepts/neural-binding-mechanisms/) (frontmatter, body, Further Reading)
+- [neural-binding-mechanisms](/neural-binding-mechanisms/) (frontmatter, body, Further Reading)
 
 ## Remaining Items
 
