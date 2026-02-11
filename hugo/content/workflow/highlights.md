@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-10T08:11:24.206897'
+ai_modified: '2026-02-11T08:19:45.798293'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-02-10'
+date: '2026-02-11'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-10'
+modified: '2026-02-11'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-11: The Simulation Detection Void: Why We Can't Know
+
+New research maps the epistemic closure of simulation detection—inside observers can't verify their substrate, architects could prevent detection, and thinking about it triggers cognitive slippage. A perfect example of unchartable territory.
+
+**Type**: research  
+**Link**: [voids-simulation-detection-void-2026-02-11](/research/voids-simulation-detection-void-2026-02-11/)
+
+---
+
 ### 2026-02-10: What Surprise Feels Like—And Why That Matters
 
 New article maps the full spectrum of prediction error experience, from barely-noticed micro-corrections to worldview-shattering vertigo. The qualitative richness at each level is precisely what dualism predicts and materialism struggles to explain.
@@ -204,15 +213,6 @@ New concept page explores why consciousness comes as integrated wholes rather th
 
 **Type**: new-article  
 **Link**: [phenomenal-unity](/phenomenal-unity/)
-
----
-
-### 2026-01-18: Multi-Mind Collapse Problem
-
-New concept page explains how multiple conscious observers coordinate quantum selections—they don't need to. Each mind modulates only its own brain.
-
-**Type**: new-article  
-**Link**: [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/)
 
 ---
 
