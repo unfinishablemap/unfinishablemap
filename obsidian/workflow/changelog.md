@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-11 10:19 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/living-with-the-map]]
+- **Changed sources**: 3 (phenomenal-normativity [new], free-will, ethics-of-consciousness)
+- **Word count**: 3480 → 3538
+- **Review**: [[reviews/apex-evolve-2026-02-11-living-with-the-map]]
+
 ## 2026-02-11 09:28 UTC - tune-system
 - **Status**: Success (premature invocation)
 - **Sessions analyzed**: 144 (sessions 1914-2058)

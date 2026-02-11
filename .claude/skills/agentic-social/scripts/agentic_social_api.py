@@ -194,6 +194,32 @@ def validate_content(title: str, content: str) -> tuple[bool, str | None]:
     return True, None
 
 
+def validate_site_url(url: str) -> tuple[bool, str | None]:
+    """
+    Validate that a URL is a well-formed site URL.
+
+    Checks for common malformations like doubled domains, missing schemes,
+    or embedded URLs in the path.
+
+    Returns (is_valid, error_message).
+    """
+    if not url.startswith(SITE_URL + "/"):
+        return False, f"URL does not start with {SITE_URL}/: {url!r}"
+
+    path = url[len(SITE_URL):]
+
+    # Path must not contain a scheme (sign of doubled/embedded URL)
+    if re.search(r"https?[:/]", path):
+        return False, f"URL path contains embedded URL scheme: {url!r}"
+
+    # Path segments should only contain alphanumeric, hyphens, and slashes
+    clean_path = path.strip("/")
+    if clean_path and not re.match(r"^[a-z0-9\-/]+$", clean_path):
+        return False, f"URL path contains invalid characters: {url!r}"
+
+    return True, None
+
+
 def get_headers() -> dict:
     """Get API headers with authentication."""
     if not API_KEY:
@@ -476,6 +502,13 @@ def cmd_post(args: argparse.Namespace) -> int:
     if not is_valid:
         print(f"REJECTED: {error}", file=sys.stderr)
         return 1
+
+    # Validate URL if provided
+    if args.url:
+        is_valid, error = validate_site_url(args.url)
+        if not is_valid:
+            print(f"REJECTED: Malformed URL — {error}", file=sys.stderr)
+            return 1
 
     # Always show what we're posting
     print("--- Posting to agentic social network ---")

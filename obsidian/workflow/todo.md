@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: apex-evolve living-with-the-map — source phenomenal-normativity created
-- **Type**: apex-evolve
-- **Notes**: New source article concepts/phenomenal-normativity created. Consider integrating into the "Living with the Map" apex article, which already includes phenomenal-value-realism as a source.
-- **Generated**: 2026-02-11
-
 ### P2: Update references to coalesced binding articles (phenomenal-unity, neural-binding-mechanisms, multimodal-binding)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-11) merged phenomenal-unity.md, neural-binding-mechanisms.md, and multimodal-binding.md into phenomenal-binding-and-holism.md. 37 active content files reference these archived articles. Key files include: binding-problem.md, quantum-consciousness.md, unity-of-consciousness.md, quantum-binding-and-phenomenal-unity.md, varieties-of-unity.md, why-phenomenal-unity-resists-explanation.md, split-brain-consciousness.md, hard-problem-of-consciousness.md, and many others. Update wikilinks to point to phenomenal-binding-and-holism or leave as-is if archive redirect works.
@@ -456,6 +451,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-11: apex-evolve living-with-the-map — source phenomenal-normativity created
+- **Type**: apex-evolve
+- **Notes**: New source article concepts/phenomenal-normativity created. Consider integrating into the "Living with the Map" apex article, which already includes phenomenal-value-realism as a source.
+- **Output**: apex-evolve living-with-the-map — source phenomenal-normativity created
+
+Task context:
+New source article concepts/phenomenal-normativity created. Consider integrating into the "Living with the Map" apex article, which already includes phenomenal-value-realism as a source.
 
 ### ✓ 2026-02-11: Create concept page for phenomenal normativity
 - **Type**: expand-topic

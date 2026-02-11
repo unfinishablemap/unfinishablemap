@@ -94,9 +94,21 @@ def wikilink_to_url(wikilink: str) -> str:
         [[concepts/qualia]] -> https://unfinishablemap.org/concepts/qualia/
         [[Article Name]] -> https://unfinishablemap.org/topics/article-name/
         [[article|display]] -> https://unfinishablemap.org/concepts/article/
+
+    Raises:
+        ValueError: If input is already a full URL (not a wikilink).
     """
+    stripped = wikilink.strip()
+
+    # Detect full URLs passed by mistake (e.g., https://unfinishablemap.org/concepts/foo/)
+    if re.match(r"https?://", stripped):
+        raise ValueError(
+            f"Expected a wikilink but received a full URL: {stripped!r}. "
+            f"Use a wikilink like [[article-name]] instead."
+        )
+
     # Remove [[ and ]] brackets
-    target = re.sub(r"^\[\[|\]\]$", "", wikilink.strip())
+    target = re.sub(r"^\[\[|\]\]$", "", stripped)
 
     # Handle display text: [[target|display]] -> target
     if "|" in target:
@@ -121,6 +133,43 @@ def wikilink_to_url(wikilink: str) -> str:
     # Fallback: use slug directly (may result in 404)
     logger.warning(f"Could not find content path for '{slug}', using slug directly")
     return f"{SITE_DOMAIN}/{slug}/"
+
+
+def validate_site_url(url: str) -> tuple[bool, str | None]:
+    """
+    Validate that a URL is a well-formed site URL.
+
+    Checks for common malformations like doubled domains, missing schemes,
+    or embedded URLs in the path.
+
+    Args:
+        url: The URL to validate.
+
+    Returns:
+        Tuple of (is_valid, error_message). error_message is None when valid.
+    """
+    # Must start with the canonical domain
+    if not url.startswith(SITE_DOMAIN + "/"):
+        return False, f"URL does not start with {SITE_DOMAIN}/: {url!r}"
+
+    # Path portion after the domain
+    path = url[len(SITE_DOMAIN):]
+
+    # Path must not contain a scheme (sign of doubled/embedded URL)
+    if re.search(r"https?[:/]", path):
+        return False, f"URL path contains embedded URL scheme: {url!r}"
+
+    # Path must not contain '..' or other suspicious patterns
+    if ".." in path:
+        return False, f"URL path contains '..': {url!r}"
+
+    # Path segments should only contain alphanumeric, hyphens, and slashes
+    # (strip leading/trailing slashes for the check)
+    clean_path = path.strip("/")
+    if clean_path and not re.match(r"^[a-z0-9\-/]+$", clean_path):
+        return False, f"URL path contains invalid characters: {url!r}"
+
+    return True, None
 
 
 def format_tweet(title: str, description: str, link: str | None = None) -> str:
@@ -165,6 +214,28 @@ def post_tweet(
     Returns:
         TweetResult with success status, tweet ID, and any error
     """
+    # Validate any URL before formatting the tweet
+    if link:
+        try:
+            url = wikilink_to_url(link)
+        except ValueError as e:
+            logger.error(f"Invalid link for tweet: {e}")
+            return TweetResult(
+                success=False,
+                tweet_id=None,
+                error=str(e),
+                url=None,
+            )
+        is_valid, error = validate_site_url(url)
+        if not is_valid:
+            logger.error(f"Malformed URL would be tweeted, aborting: {error}")
+            return TweetResult(
+                success=False,
+                tweet_id=None,
+                error=f"URL validation failed: {error}",
+                url=None,
+            )
+
     tweet_text = format_tweet(title, description, link)
 
     if dry_run:
