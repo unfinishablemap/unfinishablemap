@@ -18,6 +18,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-11 08:26 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Causal Powers
+- **Output**: [causal-powers](/concepts/causal-powers/)
+- **Word count**: 1189
+- **Based on research**: No
+
 ## 2026-02-11 07:19 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Simulation Detection Void
