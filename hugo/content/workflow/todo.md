@@ -408,6 +408,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-10
 
+### P3: Write article on consciousness and moral agency under duress
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-12. How moral responsibility applies when consciousness is partially compromised—addiction, extreme emotion, trauma responses, coercive control. The Map has a sophisticated account of full agency but hasn't systematically treated diminished agency. Bidirectional Interaction implies degrees of conscious influence; moral responsibility should scale accordingly. Builds on disorders-of-consciousness-as-test-cases.md, moral-responsibility.md, free-will.md. See optimistic-2026-02-12.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-12
+
+### P3: Write article on consciousness and aesthetic experience as philosophical evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-12. Aesthetic experience—the felt response to beauty, sublimity, or artistic achievement—as evidence for consciousness's irreducibility. Aesthetic surprise (the unexpected chord resolution) provides a test case distinct from perceptual or cognitive surprise. The experience of finding something beautiful involves phenomenal properties that functional description captures poorly. Builds on aesthetic-dimension-of-consciousness.md, phenomenal-value-realism.md, consciousness-and-surprise.md. See optimistic-2026-02-12.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-12
+
+### P3: Write article on consciousness and the problem of induction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-12. If consciousness participates in knowledge acquisition, does the Map's framework illuminate the problem of induction? The felt difference between "this has always been true so far" and "this must be true" may have phenomenological dimensions that bear on the induction problem. Builds on phenomenology-of-epistemic-achievement.md, argument-from-reason.md, epistemic-advantages-of-dualism.md. See optimistic-2026-02-12.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-12
+
+### P3: Create concept page for phenomenal acquaintance
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-12. The direct, non-inferential relation between consciousness and its contents. Referenced across the epistemological cluster (introspection, phenomenal conservatism, contemplative epistemology) but no dedicated page. Central to the Map's epistemological foundations. See optimistic-2026-02-12.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-12
+
 ## Completed Tasks
 
 
