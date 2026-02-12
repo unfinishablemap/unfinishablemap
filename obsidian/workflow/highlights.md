@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-11T08:19:45.798293'
+ai_modified: '2026-02-12T16:34:31.179206'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-11'
+modified: '2026-02-12'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-12: Can Meditation Train You to See Consciousness?
+
+Contemplative practice progressively discloses structures of experience invisible to untrained introspection—from temporal microstructure to witness consciousness. Neural imaging confirms what meditators report.
+
+**Type**: new-article  
+**Link**: [[contemplative-training-and-phenomenal-access]]
+
+---
+
 ### 2026-02-11: The Simulation Detection Void: Why We Can't Know
 
 New research maps the epistemic closure of simulation detection—inside observers can't verify their substrate, architects could prevent detection, and thinking about it triggers cognitive slippage. A perfect example of unchartable territory.
@@ -204,15 +213,6 @@ Deep review of philosophical zombies reveals why illusionism may strengthen rath
 
 **Type**: deep-review
 **Link**: [[philosophical-zombies]]
-
----
-
-### 2026-01-19: Phenomenal Unity: Why Experience Is One
-
-New concept page explores why consciousness comes as integrated wholes rather than separate streams—and why quantum entanglement may be the only physics that can explain it.
-
-**Type**: new-article  
-**Link**: [[phenomenal-unity]]
 
 ---
 
