@@ -18,6 +18,36 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-12 20:34 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Social Construction of Self vs Phenomenal Self
+- **Output**: [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/)
+- **Word count**: 1627
+- **Based on research**: No
+
+## 2026-02-12 19:34 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-memory](/topics/consciousness-and-memory/)
+- **Word count**: 2411 → 2562 (+151)
+- **Critical issues addressed**: 2 (Tulving five-system misattribution, futuricity internal contradiction)
+- **Medium issues addressed**: 8 (Geva-Sagiv qualifier, Zheng & Meister framing, Baddeley attribution, GWT engagement, choking materialist response, TMR qualifier, prospective memory coverage, missing cross-links)
+- **Enhancements made**: 7 new cross-links added
+- **Output**: [deep-review-2026-02-12-consciousness-and-memory](/reviews/deep-review-2026-02-12-consciousness-and-memory/)
+
+## 2026-02-12 18:34 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and Scientific Methodology
+- **Output**: [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
+- **Word count**: 1788
+- **Based on research**: No (informed by existing research on first-person/third-person methodology)
+
+## 2026-02-12 17:34 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Evolution Under Dualism
+- **Output**: [evolution-under-dualism](/topics/evolution-under-dualism/)
+- **Word count**: 1930
+- **Based on research**: No
+
 ## 2026-02-12 16:34 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 111 topics, 174 concepts, tenets, 10 apex articles (286 total published)

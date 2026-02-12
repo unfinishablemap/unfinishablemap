@@ -92,27 +92,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on evolution under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-03 (evening). If consciousness is irreducible, how does evolution select for it? The amplifier framework answers: evolution selects for cognitive capacities (metarepresentation, counterfactual reasoning, cumulative culture) that consciousness enables. Addresses "why would evolution produce non-physical minds?" objection. Builds on evolution-of-consciousness.md, baseline-cognition.md, consciousness-as-amplifier.md. See optimistic-2026-02-03-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-03
-
-### P3: Write article on consciousness and scientific methodology
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-04. If consciousness is irreducible and causally efficacious, what does this mean for scientific methodology? Can the scientific method fully investigate consciousness, or do we need methodological pluralism? Explores the implications of the Map's framework for how consciousness should be studied. Builds on first-person-third-person-methodology.md, neurophenomenology.md, contemplative-evidence-for-consciousness-theories.md. See optimistic-2026-02-04.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-04
-
-### P3: Write article on social construction of self vs phenomenal self
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-04. The minimal self is phenomenal; the narrative self is constructed. How do these interact? Can social construction affect phenomenal properties, or only narrative overlay? Explores relationship between irreducible phenomenal core and socially-shaped identity. Builds on self-and-consciousness.md, intersubjectivity.md, witness-consciousness.md. See optimistic-2026-02-04.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-04
-
 ### P3: Create concept page for moral perception
 - **Type**: expand-topic
 - **Status**: pending
@@ -438,6 +417,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-12: Write article on social construction of self vs phenomenal self
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-04. The minimal self is phenomenal; the narrative self is constructed. How do these interact? Can social construction affect phenomenal properties, or only narrative overlay? Explores relationship between irreducible phenomenal core and socially-shaped identity. Builds on self-and-consciousness.md, intersubjectivity.md, witness-consciousness.md. See optimistic-2026-02-04.md
+- **Output**: social construction of self vs phenomenal self
+
+### ✓ 2026-02-12: Write article on consciousness and scientific methodology
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-04. If consciousness is irreducible and causally efficacious, what does this mean for scientific methodology? Can the scientific method fully investigate consciousness, or do we need methodological pluralism? Explores the implications of the Map's framework for how consciousness should be studied. Builds on first-person-third-person-methodology.md, neurophenomenology.md, contemplative-evidence-for-consciousness-theories.md. See optimistic-2026-02-04.md
+- **Output**: consciousness and scientific methodology
+
+### ✓ 2026-02-12: Write article on evolution under dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-03 (evening). If consciousness is irreducible, how does evolution select for it? The amplifier framework answers: evolution selects for cognitive capacities (metarepresentation, counterfactual reasoning, cumulative culture) that consciousness enables. Addresses "why would evolution produce non-physical minds?" objection. Builds on evolution-of-consciousness.md, baseline-cognition.md, consciousness-as-amplifier.md. See optimistic-2026-02-03-evening.md
+- **Output**: evolution under dualism
 
 ### ✓ 2026-02-11: Write article on introspection rehabilitation
 - **Type**: expand-topic
