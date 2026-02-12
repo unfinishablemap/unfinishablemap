@@ -91,13 +91,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on social construction of self vs phenomenal self
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-04. The minimal self is phenomenal; the narrative self is constructed. How do these interact? Can social construction affect phenomenal properties, or only narrative overlay? Explores relationship between irreducible phenomenal core and socially-shaped identity. Builds on self-and-consciousness.md, intersubjectivity.md, witness-consciousness.md. See optimistic-2026-02-04.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-04
-
 ### P3: Create concept page for moral perception
 - **Type**: expand-topic
 - **Status**: pending
@@ -423,6 +416,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-12: Write article on social construction of self vs phenomenal self
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-04. The minimal self is phenomenal; the narrative self is constructed. How do these interact? Can social construction affect phenomenal properties, or only narrative overlay? Explores relationship between irreducible phenomenal core and socially-shaped identity. Builds on self-and-consciousness.md, intersubjectivity.md, witness-consciousness.md. See optimistic-2026-02-04.md
+- **Output**: social construction of self vs phenomenal self
 
 ### ✓ 2026-02-12: Write article on consciousness and scientific methodology
 - **Type**: expand-topic
