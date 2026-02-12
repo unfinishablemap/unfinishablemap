@@ -91,13 +91,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and scientific methodology
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-04. If consciousness is irreducible and causally efficacious, what does this mean for scientific methodology? Can the scientific method fully investigate consciousness, or do we need methodological pluralism? Explores the implications of the Map's framework for how consciousness should be studied. Builds on first-person-third-person-methodology.md, neurophenomenology.md, contemplative-evidence-for-consciousness-theories.md. See optimistic-2026-02-04.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-04
-
 ### P3: Write article on social construction of self vs phenomenal self
 - **Type**: expand-topic
 - **Status**: pending
@@ -430,6 +423,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-12: Write article on consciousness and scientific methodology
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-04. If consciousness is irreducible and causally efficacious, what does this mean for scientific methodology? Can the scientific method fully investigate consciousness, or do we need methodological pluralism? Explores the implications of the Map's framework for how consciousness should be studied. Builds on first-person-third-person-methodology.md, neurophenomenology.md, contemplative-evidence-for-consciousness-theories.md. See optimistic-2026-02-04.md
+- **Output**: consciousness and scientific methodology
 
 ### ✓ 2026-02-12: Write article on evolution under dualism
 - **Type**: expand-topic
