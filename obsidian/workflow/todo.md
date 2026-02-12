@@ -91,13 +91,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on evolution under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-03 (evening). If consciousness is irreducible, how does evolution select for it? The amplifier framework answers: evolution selects for cognitive capacities (metarepresentation, counterfactual reasoning, cumulative culture) that consciousness enables. Addresses "why would evolution produce non-physical minds?" objection. Builds on evolution-of-consciousness.md, baseline-cognition.md, consciousness-as-amplifier.md. See optimistic-2026-02-03-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-03
-
 ### P3: Write article on consciousness and scientific methodology
 - **Type**: expand-topic
 - **Status**: pending
@@ -437,6 +430,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-12: Write article on evolution under dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-03 (evening). If consciousness is irreducible, how does evolution select for it? The amplifier framework answers: evolution selects for cognitive capacities (metarepresentation, counterfactual reasoning, cumulative culture) that consciousness enables. Addresses "why would evolution produce non-physical minds?" objection. Builds on evolution-of-consciousness.md, baseline-cognition.md, consciousness-as-amplifier.md. See optimistic-2026-02-03-evening.md
+- **Output**: evolution under dualism
 
 ### ✓ 2026-02-11: Write article on introspection rehabilitation
 - **Type**: expand-topic
