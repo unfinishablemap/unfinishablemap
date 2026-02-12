@@ -102,7 +102,7 @@ The Map interprets this as bidirectional interaction: conscious intention (pheno
 
 **Integration significance**: These modes have distinct phenomenologies with distinct neural implementations. The contemplative traditions distinguished them for centuries on experiential grounds; neuroscience now shows they engage different brain systems. A purely phenomenological account would lack the neural distinctions; a purely neural account would lack the experiential meaning. Integration reveals that both perspectives describe the same phenomenon from different angles.
 
-The modes also demonstrate [voluntary control](/concepts/voluntary-attention/). The meditator can shift between focused attention and open monitoring through conscious intention. This shift has neural signature. The phenomenological distinction tracks a neural distinction, and both are brought about through willed mental action.
+The modes also demonstrate [voluntary control](/voluntary-attention/). The meditator can shift between focused attention and open monitoring through conscious intention. This shift has neural signature. The phenomenological distinction tracks a neural distinction, and both are brought about through willed mental action.
 
 ## Jhana States and Advanced Practice
 

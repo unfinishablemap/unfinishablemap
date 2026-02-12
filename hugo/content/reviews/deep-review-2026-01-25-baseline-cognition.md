@@ -108,7 +108,7 @@ Six sympathetic personas reviewed the document:
 - [mysterianism](/concepts/mysterianism/)
 - [free-will](/topics/free-will/)
 - [agent-causation](/concepts/agent-causation/)
-- [voluntary-attention](/concepts/voluntary-attention/)
+- [voluntary-attention](/voluntary-attention/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)

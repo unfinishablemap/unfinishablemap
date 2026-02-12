@@ -321,7 +321,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The mechanism the coupling law governs
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Major theories of quantum-consciousness interface
 - [mental-effort](/concepts/mental-effort/) — The phenomenology Stapp's mechanism requires
-- [attention](/concepts/attention/) — The attention-consciousness relationship
+- [attention](/attention/) — The attention-consciousness relationship
 - [mental-causation](/concepts/mental-causation/) — How coupling addresses exclusion arguments
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework requiring coupling laws
 - [decoherence](/concepts/decoherence/) — The main physics objection and responses

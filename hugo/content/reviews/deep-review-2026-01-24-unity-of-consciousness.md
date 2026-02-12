@@ -64,7 +64,7 @@ topics: []
 - [consciousness](/concepts/consciousness/) (frontmatter, Further Reading)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) (frontmatter, body, Further Reading)
 - [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/) (frontmatter, body, Further Reading)
-- [voluntary-attention](/concepts/voluntary-attention/) (frontmatter, body, Further Reading)
+- [voluntary-attention](/voluntary-attention/) (frontmatter, body, Further Reading)
 
 ### References Added
 - Frankish, K. (2016). Illusionism as a theory of consciousness.

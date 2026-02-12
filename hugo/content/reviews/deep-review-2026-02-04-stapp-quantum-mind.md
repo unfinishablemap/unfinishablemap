@@ -65,7 +65,7 @@ All six adversarial personas engaged:
 
 ### Cross-links Added
 
-- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) in related_articles and body text
+- [attention-motor-quantum-interface](/attention-motor-quantum-interface/) in related_articles and body text
 
 ## Remaining Items
 

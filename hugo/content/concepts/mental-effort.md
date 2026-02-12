@@ -54,13 +54,13 @@ This phenomenology is universal. Everyone knows the experience of trying to focu
 
 ### Attention as Interface
 
-The [attention as interface hypothesis](/concepts/attention-as-interface/) provides a framework. Attention functions as the *interface layer* between consciousness and neural systems—not identical to consciousness, but the causal bridge through which consciousness operates on matter. [Attention and consciousness are dissociable](/concepts/attention/): you can attend without being conscious (blindsight) and be conscious without focused attention (peripheral awareness). If consciousness is the *subject* that directs attention, and attention is the *mechanism* it deploys, then effort makes sense as the cost of engagement.
+The [attention as interface hypothesis](/concepts/attention-as-interface/) provides a framework. Attention functions as the *interface layer* between consciousness and neural systems—not identical to consciousness, but the causal bridge through which consciousness operates on matter. [Attention and consciousness are dissociable](/attention/): you can attend without being conscious (blindsight) and be conscious without focused attention (peripheral awareness). If consciousness is the *subject* that directs attention, and attention is the *mechanism* it deploys, then effort makes sense as the cost of engagement.
 
 The phenomenology of effort reflects the *real cost* of operating through this interface. Consciousness cannot influence neural patterns directly—it must work through attention mechanisms. The interface is bandwidth-limited (~10 bits/second) and requires active maintenance.
 
 ### The Willed-Instructed Distinction
 
-[Recent neuroscience](/concepts/voluntary-attention/) reveals that not all top-down attention is *willed* attention. The key distinction: when you follow instructions ("attend left"), you implement an externally provided goal. When you *freely choose* where to attend, different neural processes engage—frontal theta oscillations (~500ms post-decision), bidirectional frontoparietal coherence, and additional frontal recruitment.
+[Recent neuroscience](/voluntary-attention/) reveals that not all top-down attention is *willed* attention. The key distinction: when you follow instructions ("attend left"), you implement an externally provided goal. When you *freely choose* where to attend, different neural processes engage—frontal theta oscillations (~500ms post-decision), bidirectional frontoparietal coherence, and additional frontal recruitment.
 
 This neural distinction explains why effort tracks volition. Instructed attention feels less effortful because you merely implement. Willed attention feels more effortful because you must *generate* the decision. The phenomenology of effort marks the genuine work of deciding.
 
@@ -164,7 +164,7 @@ The Map doesn't commit to Stapp's specific proposal over other quantum conscious
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine prepares the selection interface; theta oscillations provide the timing substrate
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer between consciousness and neural systems
 - [attention-interface-mechanisms](/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions
-- [voluntary-attention](/concepts/voluntary-attention/) — The willed/instructed distinction and neural signatures
+- [voluntary-attention](/voluntary-attention/) — The willed/instructed distinction and neural signatures
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The choosing-observing distinction
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Selection vs witnessing modes
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge

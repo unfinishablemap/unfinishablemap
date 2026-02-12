@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-29
-**Article**: [Attention-Motor Quantum Interface](/concepts/attention-motor-quantum-interface/)
+**Article**: [Attention-Motor Quantum Interface](/attention-motor-quantum-interface/)
 **Previous review**: [2026-01-26 (of earlier version; article was recreated 2026-01-29 via expand-topic after coalesce)](/reviews/deep-review-2026-01-26-attention-motor-quantum-interface/)
 
 ## Context

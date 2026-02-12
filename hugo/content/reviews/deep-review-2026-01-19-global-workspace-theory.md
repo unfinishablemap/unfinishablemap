@@ -52,7 +52,7 @@ topics: []
 - [higher-order-theories](/concepts/higher-order-theories/) - Competitor theory comparison
 - [predictive-processing](/concepts/predictive-processing/) - Framework integration discussion
 - [attention-as-interface](/concepts/attention-as-interface/) - Mind-matter interface connection
-- [voluntary-attention](/concepts/voluntary-attention/) - Endogenous attention and workspace access
+- [voluntary-attention](/voluntary-attention/) - Endogenous attention and workspace access
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) - Explaining away phenomenal intuitions
 - [metacognition](/concepts/metacognition/) - Self-reflective processes
 

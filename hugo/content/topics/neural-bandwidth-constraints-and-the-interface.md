@@ -95,7 +95,7 @@ This matches the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interact
 
 At ~10 bits per second with typical binary-to-quaternary choice complexity, consciousness makes roughly 3-4 selections per second. This matches the phenomenology of deliberate decision-making. In rapid tasks, we experience choosing at about this rate; faster performance becomes automatic and drops out of conscious control.
 
-The ~280-300ms timing window for [motor commitment](/concepts/motor-selection/) and [willed attention deployment](/concepts/voluntary-attention/) aligns. If conscious selection operates at ~3 Hz, each selection takes approximately 300ms—precisely the window where neural signatures distinguish willed from automatic processing.
+The ~280-300ms timing window for [motor commitment](/concepts/motor-selection/) and [willed attention deployment](/voluntary-attention/) aligns. If conscious selection operates at ~3 Hz, each selection takes approximately 300ms—precisely the window where neural signatures distinguish willed from automatic processing.
 
 ### Cumulative Over Time
 

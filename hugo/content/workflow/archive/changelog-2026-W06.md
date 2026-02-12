@@ -4564,8 +4564,8 @@ title: AI Activity Changelog - Week 2026-W06
 - **Status**: Cleanup - Orphan Removed
 - **File**: voluntary-attention-control.md
 - **Action**: Removed orphaned hugo/content files (concepts/ and topics/ versions)
-- **Reason**: These files were stale leftovers from a coalescence operation. The content was already coalesced into [voluntary-attention](/concepts/voluntary-attention/) and archived versions already exist in archive/concepts/ and archive/topics/
-- **Cross-references updated**: 3 files updated to link to [voluntary-attention](/concepts/voluntary-attention/) instead of [voluntary-attention-control](/voluntary-attention-control/):
+- **Reason**: These files were stale leftovers from a coalescence operation. The content was already coalesced into [voluntary-attention](/voluntary-attention/) and archived versions already exist in archive/concepts/ and archive/topics/
+- **Cross-references updated**: 3 files updated to link to [voluntary-attention](/voluntary-attention/) instead of [voluntary-attention-control](/voluntary-attention-control/):
   - [william-james-consciousness](/topics/william-james-consciousness/) (concepts list + Further Reading)
   - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) (inline reference)
 - **Notes**: The task requested a deep-review with orphan integration, but investigation revealed the orphan status was due to stale files from a coalesce operation, not missing cross-references. Proper cleanup was performed instead of artificial integration.

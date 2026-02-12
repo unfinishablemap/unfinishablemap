@@ -69,7 +69,7 @@ The Map's key maneuver is: **Kim-style exclusion/casual closure pressure** is re
 
 ### C. Attention/effort are treated as the practical "control surface"
 
-A large portion of the mechanistic plausibility is routed through **attention** and **mental effort**, especially Stapp-style quantum Zeno framing: effort feels effortful because it is doing something repeatedly (see [attention](/concepts/attention/)).
+A large portion of the mechanistic plausibility is routed through **attention** and **mental effort**, especially Stapp-style quantum Zeno framing: effort feels effortful because it is doing something repeatedly (see [attention](/attention/)).
 
 ### D. Free will is "selection," not randomness, with retrocausal/atemporal repair for Libet timing
 
@@ -121,7 +121,7 @@ Minimal Quantum Interaction says mind biases indeterminate outcomes, while also 
 
 So the worldview implicitly needs an additional limiter, something like:
 
-* **Interface locality**: consciousness can only bias outcomes within the neural subspace that is already part of the subject's conscious control loop (attention/effort), not arbitrary external systems (see [attention](/concepts/attention/)).
+* **Interface locality**: consciousness can only bias outcomes within the neural subspace that is already part of the subject's conscious control loop (attention/effort), not arbitrary external systems (see [attention](/attention/)).
 
 The Map hints at this through "attention" as interface, but doesn't yet explicitly state (or defend) the needed boundary condition: **why brains, not RNGs**.
 

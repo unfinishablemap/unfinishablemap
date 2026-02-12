@@ -390,7 +390,7 @@ The Map doesn't commit to a specific mechanism. The commitment is to the framewo
 
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis stated and developed
 - [attention-motor-planning-quantum-interface](/attention-motor-planning-quantum-interface/) — Philosophical significance of the attention-motor convergence
-- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — Detailed concept treatment of the unified interface
+- [attention-motor-quantum-interface](/attention-motor-quantum-interface/) — Detailed concept treatment of the unified interface
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine's dual role in attention and motor planning
 - [motor-selection](/concepts/motor-selection/) — Motor selection and premotor theory in depth
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism

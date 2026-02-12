@@ -553,7 +553,7 @@ title: AI Activity Changelog - Week 2026-W04
 - Noted Libet experiments interpretation is contested
 - Added epistemic humility for Kerskens-Pérez MRI study
 **Medium issues addressed**: 3
-- Added cross-links to [pairing-problem](/concepts/pairing-problem/), [phenomenal-consciousness](/concepts/phenomenal-consciousness/), [phenomenal-unity](/phenomenal-unity/), [mysterianism](/concepts/mysterianism/), [measurement-problem](/concepts/measurement-problem/), [voluntary-attention](/concepts/voluntary-attention/), [libet-experiments](/concepts/libet-experiments/)
+- Added cross-links to [pairing-problem](/concepts/pairing-problem/), [phenomenal-consciousness](/concepts/phenomenal-consciousness/), [phenomenal-unity](/phenomenal-unity/), [mysterianism](/concepts/mysterianism/), [measurement-problem](/concepts/measurement-problem/), [voluntary-attention](/voluntary-attention/), [libet-experiments](/concepts/libet-experiments/)
 - Updated comparative table to note Stapp's model is "High (but challenged)"
 - Strengthened pairing problem discussion with cross-links
 **Enhancements made**: Better epistemic calibration throughout; cross-linking to related concepts
@@ -1769,7 +1769,7 @@ Comprehensive deep review of the unity-of-consciousness concept article. Applied
 ### Enhancements Made
 
 - Added [stapp-quantum-mind](/concepts/stapp-quantum-mind/) connection explaining Quantum Zeno mechanism for unified attention
-- Added [voluntary-attention](/concepts/voluntary-attention/) empirical case to Bidirectional Interaction section
+- Added [voluntary-attention](/voluntary-attention/) empirical case to Bidirectional Interaction section
 - Connected Leibniz's Mill section to [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/)
 - Added 5 new concept cross-links to frontmatter
 - Added 3 new references (Frankish 2016, Lloyd 2012, Pinto et al. 2025)
@@ -1876,7 +1876,7 @@ Comprehensive review applying pessimistic (6 personas) and optimistic (6 persona
 - [consciousness](/concepts/consciousness/) (new hub article)
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
-- [voluntary-attention](/concepts/voluntary-attention/)
+- [voluntary-attention](/voluntary-attention/)
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
 - [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/)
 
@@ -1915,7 +1915,7 @@ Comprehensive review applying pessimistic (6 personas) and optimistic (6 persona
 
 - [psychophysical-coupling-mechanisms](/psychophysical-coupling-mechanisms/) (first position)
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
-- [voluntary-attention](/concepts/voluntary-attention/)
+- [voluntary-attention](/voluntary-attention/)
 - [argument-from-reason](/topics/argument-from-reason/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
 
@@ -2321,7 +2321,7 @@ Reviewed concepts/quantum-consciousness.md in light of new attention-motor-quant
 
 ### Changes Made
 
-1. Added [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) to frontmatter concepts (first position)
+1. Added [attention-motor-quantum-interface](/attention-motor-quantum-interface/) to frontmatter concepts (first position)
 2. Added new "Attention-Motor Unification" subsection under "The Mechanism" explaining:
    - PMTA claim that attention and motor planning share substrates
    - ~280ms/~300ms timing convergence as evidence for common mechanism

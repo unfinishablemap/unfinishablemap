@@ -180,9 +180,9 @@ This functionality gap supports [Bidirectional Interaction](/tenets/#bidirection
 
 ## Attention as Gatekeeper
 
-[Attention](/concepts/attention/) gates conscious access. Without attention, information remains subliminal (insufficient signal strength) or preconscious (signal present but attention elsewhere, as in inattentional blindness). With attention, top-down amplification boosts sensory signals into global broadcast, enabling the three consciousness-requiring functions above.
+[Attention](/attention/) gates conscious access. Without attention, information remains subliminal (insufficient signal strength) or preconscious (signal present but attention elsewhere, as in inattentional blindness). With attention, top-down amplification boosts sensory signals into global broadcast, enabling the three consciousness-requiring functions above.
 
-Change blindness and inattentional blindness demonstrate that even salient stimuli fail to reach consciousness without attention. For the Map's framework, this connects to [voluntary-attention](/concepts/voluntary-attention/): voluntary control of attention becomes a mechanism for consciousness to influence which information enters the workspace. The [quantum Zeno hypothesis](/concepts/stapp-quantum-mind/) locates this control at the quantum level.
+Change blindness and inattentional blindness demonstrate that even salient stimuli fail to reach consciousness without attention. For the Map's framework, this connects to [voluntary-attention](/voluntary-attention/): voluntary control of attention becomes a mechanism for consciousness to influence which information enters the workspace. The [quantum Zeno hypothesis](/concepts/stapp-quantum-mind/) locates this control at the quantum level.
 
 ## Connection to Baseline Cognition
 
@@ -288,7 +288,7 @@ The specific functions—working memory maintenance, novel combinations, spontan
 
 ### Minimal Quantum Interaction
 
-If consciousness interfaces with cognition through attention (as GNWT suggests), the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet locates this interface at quantum indeterminacies in attention-related neural systems. [Voluntary attention](/concepts/voluntary-attention/) gates what enters the global workspace; quantum-level selection at attention mechanisms would propagate to determine which information gains conscious access.
+If consciousness interfaces with cognition through attention (as GNWT suggests), the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet locates this interface at quantum indeterminacies in attention-related neural systems. [Voluntary attention](/voluntary-attention/) gates what enters the global workspace; quantum-level selection at attention mechanisms would propagate to determine which information gains conscious access.
 
 The timing works: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) documents a hierarchy from femtosecond decoherence to the 280-300ms neural decision windows. The [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) doesn't require sustained coherence but operates through discrete observation events (~1000 per 300ms window), making the mechanism compatible with established neural timing.
 
@@ -314,8 +314,8 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — Consciousness as subjective experience
 - [phenomenal-overflow](/concepts/phenomenal-overflow/) — The contested hypothesis that phenomenology exceeds access
 - [working-memory](/concepts/working-memory/) — The maintenance function requiring consciousness
-- [attention](/concepts/attention/) — The gatekeeper for conscious access
-- [voluntary-attention](/concepts/voluntary-attention/) — How consciousness directs attention
+- [attention](/attention/) — The gatekeeper for conscious access
+- [voluntary-attention](/voluntary-attention/) — How consciousness directs attention
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The theoretical framework for consciousness as broadcast
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum mechanism for consciousness-attention interface
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view that consciousness is causally inert and why it fails

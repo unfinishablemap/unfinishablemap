@@ -135,7 +135,7 @@ The Map's honesty about what remains uncertain—whether specific quantum mechan
 - **Tenet alignment**: Novel support for Dualism through aesthetic phenomenology.
 
 #### Attention Disorders and the Quantum Interface
-- **Builds on**: [voluntary-attention](/concepts/voluntary-attention/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [attention-as-interface](/concepts/attention-as-interface/)
+- **Builds on**: [voluntary-attention](/voluntary-attention/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [attention-as-interface](/concepts/attention-as-interface/)
 - **Would address**: If attention is the mind-matter interface, attention disorders (ADHD, attention fatigue) might reveal something about that interface. The Schwartz OCD evidence is mentioned; systematic treatment would strengthen the framework.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Empirical grounding for Minimal Quantum Interaction and Bidirectional Interaction.
@@ -160,7 +160,7 @@ The Map's honesty about what remains uncertain—whether specific quantum mechan
 |------|-----|--------|
 | [phenomenal-consciousness](/concepts/phenomenal-consciousness/) | [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) | Aesthetic qualia as strongest case for irreducibility |
 | [free-will](/topics/free-will/) | [vertiginous-question](/topics/vertiginous-question/) | Indexical identity grounds personal authorship |
-| [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) | [voluntary-attention](/concepts/voluntary-attention/) | Cryptochrome Zeno effect parallels attention mechanism |
+| [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) | [voluntary-attention](/voluntary-attention/) | Cryptochrome Zeno effect parallels attention mechanism |
 | [machine-consciousness](/topics/machine-consciousness/) | [vertiginous-question](/topics/vertiginous-question/) | Haecceity problem central to upload skepticism |
 | [agent-causation](/concepts/agent-causation/) | [consciousness-and-creativity](/concepts/consciousness-and-creativity/) | Generation extends beyond pure selection |
 | [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) | [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) | Aesthetic qualia may resist reduction more than sensory |

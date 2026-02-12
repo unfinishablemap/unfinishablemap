@@ -119,7 +119,7 @@ The attention-imagery interface connects to the Map's broader framework. [Attent
 
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Parallel evidence that deliberate conscious practice reshapes neural structure
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The tenet that consciousness causally influences the physical
-- [attention](/concepts/attention/) — The potential interface between consciousness and neural processes
+- [attention](/attention/) — The potential interface between consciousness and neural processes
 - [working-memory](/concepts/working-memory/) — The cognitive workspace where imagery manipulation occurs
 - [introspection](/concepts/introspection/) — The reliability and limits of accessing one's own mental states
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view mental imagery evidence challenges

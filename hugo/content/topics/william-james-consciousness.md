@@ -76,7 +76,7 @@ The fringe explains how understanding works temporally. When you hear a sentence
 
 ## Attention and the Will
 
-James devoted substantial [attention](/concepts/attention/) to attention itself. His analysis prefigures contemporary theories connecting consciousness to selective focus, including [Henry Stapp's quantum Zeno approach](/concepts/stapp-quantum-mind/).
+James devoted substantial [attention](/attention/) to attention itself. His analysis prefigures contemporary theories connecting consciousness to selective focus, including [Henry Stapp's quantum Zeno approach](/concepts/stapp-quantum-mind/).
 
 ### Attention as Selection
 
@@ -186,7 +186,7 @@ James's philosophy aligns with all five tenets, though the alignment varies in d
 - [introspection](/concepts/introspection/) — Limits James identified, confirmed by contemporary research
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the mechanism of mind-matter interaction
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Contemporary quantum approach to James's attention theory
-- [voluntary-attention](/concepts/voluntary-attention/) — The phenomenology of effortful attention
+- [voluntary-attention](/voluntary-attention/) — The phenomenology of effortful attention
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's development of Jamesian themes
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why maintaining dualism as live option is epistemically responsible
 - [tenets](/tenets/) — The Map's foundational commitments

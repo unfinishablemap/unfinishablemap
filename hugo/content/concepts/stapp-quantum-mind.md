@@ -69,7 +69,7 @@ Stapp finds a kindred spirit in William James, who observed: "Volition is nothin
 
 Stapp's model answers: felt effort corresponds to observation rapidity. Sustained attention feels like work because it *is* work—continuous mental engagement to maintain the Zeno effect.
 
-Recent neuroscience supports a crucial distinction. Willed attention (internally generated) engages different neural mechanisms than instructed attention (externally cued): frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment. The neural distinction mirrors the phenomenal distinction. See [voluntary-attention](/concepts/voluntary-attention/) for comprehensive treatment.
+Recent neuroscience supports a crucial distinction. Willed attention (internally generated) engages different neural mechanisms than instructed attention (externally cued): frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment. The neural distinction mirrors the phenomenal distinction. See [voluntary-attention](/voluntary-attention/) for comprehensive treatment.
 
 ## Empirical Support: Neuroplasticity
 
@@ -83,7 +83,7 @@ The findings don't definitively prove the quantum Zeno mechanism—a materialist
 
 The [attention as interface hypothesis](/concepts/attention-as-interface/) extends Stapp's framework. The core claim: attention functions as the *interface layer* between consciousness and neural systems.
 
-**Unified attention-motor substrate**: Rizzolatti's premotor theory of attention (PMTA) demonstrates that attention and motor planning share neural substrates—there is no independent attention system. Preparing an eye movement to location X improves visual processing at X; attention *is* motor preparation. This unification matters: if Stapp's Zeno mechanism works for attention, it should work identically for motor selection. The [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) develops this convergence in detail, showing that willed attention and willed action share the same neural signatures (frontal theta, ~280-300ms deployment, bidirectional frontoparietal coherence).
+**Unified attention-motor substrate**: Rizzolatti's premotor theory of attention (PMTA) demonstrates that attention and motor planning share neural substrates—there is no independent attention system. Preparing an eye movement to location X improves visual processing at X; attention *is* motor preparation. This unification matters: if Stapp's Zeno mechanism works for attention, it should work identically for motor selection. The [attention-motor-quantum-interface](/attention-motor-quantum-interface/) develops this convergence in detail, showing that willed attention and willed action share the same neural signatures (frontal theta, ~280-300ms deployment, bidirectional frontoparietal coherence).
 
 **Bandwidth limitation**: Conscious processing operates at ~10 bits/second versus the brain's ~10⁹ bits/second. This gap means consciousness operates at policy level (goals, strategies) rather than micromanaging neurons. The bandwidth constraint makes the model *more* plausible—operating at policy level matches phenomenology and neuroscience.
 
@@ -170,7 +170,7 @@ The model generates falsifiable predictions:
 
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — Comparative analysis; Stapp's model as most developed
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: taxonomy of coupling mechanisms
-- [voluntary-attention](/concepts/voluntary-attention/) — Neural signatures of willed attention
+- [voluntary-attention](/voluntary-attention/) — Neural signatures of willed attention
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer
 - [decoherence](/concepts/decoherence/) — The decoherence objection and responses
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for conscious causation

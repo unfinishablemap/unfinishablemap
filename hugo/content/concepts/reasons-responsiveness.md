@@ -107,7 +107,7 @@ Whether this distinction holds under scrutiny remains contested. LLMs represent 
 
 If consciousness is reasons-responsive, how does this connect to neural activity? The Map proposes that consciousness operates at a selection level: the brain generates options; consciousness evaluates them through reasons-responsive deliberation; selection actualizes one option.
 
-Research on [voluntary attention](/concepts/voluntary-attention/) and [motor selection](/concepts/motor-selection/) identifies neural signatures of willed action: frontal theta oscillations, ~300ms deployment time, bidirectional frontoparietal coherence. These signatures distinguish genuinely chosen actions from automatic or merely instructed behaviour. The phenomenological asymmetry (effortful deliberation versus automatic response) corresponds to different neural circuits.
+Research on [voluntary attention](/voluntary-attention/) and [motor selection](/concepts/motor-selection/) identifies neural signatures of willed action: frontal theta oscillations, ~300ms deployment time, bidirectional frontoparietal coherence. These signatures distinguish genuinely chosen actions from automatic or merely instructed behaviour. The phenomenological asymmetry (effortful deliberation versus automatic response) corresponds to different neural circuits.
 
 The [agent-causal](/concepts/agent-causation/) framework situates reasons-responsiveness at the agent level: the agent exercises causal power guided by reasons. The [causal closure](/concepts/causal-closure/) principle that physicalism requires—every physical event having a sufficient physical cause—fails precisely where consciousness acts. Reasons-responsiveness operates where physics leaves outcomes undetermined; the agent's sensitivity to normative relationships guides which outcome actualizes.
 
@@ -133,7 +133,7 @@ Reasons-responsiveness connects to multiple [tenets](/tenets/):
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of reasons-responsive deliberation
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The representational capacity enabling evaluation of reasons
 - [mental-effort](/concepts/mental-effort/) — Why reasoning feels effortful and what this suggests
-- [voluntary-attention](/concepts/voluntary-attention/) — The paradigm case of reasons-responsive selection in attention deployment
+- [voluntary-attention](/voluntary-attention/) — The paradigm case of reasons-responsive selection in attention deployment
 - [causal-closure](/concepts/causal-closure/) — The physicalist principle that reasons-responsiveness challenges
 - [process-and-consciousness](/apex/process-and-consciousness/) — Process philosophy's support for reasons-responsiveness as experiential self-determination
 

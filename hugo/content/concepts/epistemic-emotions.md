@@ -178,7 +178,7 @@ None of these conditions currently obtains.
 - [working-memory](/concepts/working-memory/) — Where epistemic emotions interface with cognitive capacity
 - [illusionism](/concepts/illusionism/) — The challenge that epistemic phenomenology is illusion
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Why functional duplicates without experience pose problems
-- [attention](/concepts/attention/) — How epistemic emotions direct cognitive resources
+- [attention](/attention/) — How epistemic emotions direct cognitive resources
 - [witness-consciousness](/concepts/witness-consciousness/) — Observing epistemic emotions without identification
 
 ## References

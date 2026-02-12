@@ -69,7 +69,7 @@ Neural systems are representational engines, modelling motor plans before execut
 
 The system must include mechanisms for directed focus—the capacity to increase processing resources on specific contents while suppressing others.
 
-Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) requires repeated observation to hold quantum states stable. [Attention](/concepts/attention/) neurally implements this: frontoparietal networks increase gain on selected populations while inhibiting competitors. This repeated "looking at" attention targets is the neural correlate of observation in Stapp's model.
+Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) requires repeated observation to hold quantum states stable. [Attention](/attention/) neurally implements this: frontoparietal networks increase gain on selected populations while inhibiting competitors. This repeated "looking at" attention targets is the neural correlate of observation in Stapp's model.
 
 Systems without attention mechanisms cannot implement Zeno-style selection. A thermostat has no analogue of "focusing more intently" on one option. The brain's attention architecture provides the physical structure through which repeated observation occurs.
 
@@ -117,7 +117,7 @@ Evolution optimised the brain-consciousness interface over millions of years. Th
 
 Consciousness can only influence quantum outcomes within the scope of attention, where attention is neurally realised as frontoparietal network activation, increased gain on specific neural populations, and repeated observation in Stapp's sense.
 
-The quantum Zeno mechanism requires rapid repeated observation to hold a quantum state stable. [Voluntary attention](/concepts/voluntary-attention/) is the mechanism that implements such observation in neural systems. You can only attend to what's within your perceptual/motor systems—which means you can only perform quantum-Zeno holding on systems neurally represented to you.
+The quantum Zeno mechanism requires rapid repeated observation to hold a quantum state stable. [Voluntary attention](/voluntary-attention/) is the mechanism that implements such observation in neural systems. You can only attend to what's within your perceptual/motor systems—which means you can only perform quantum-Zeno holding on systems neurally represented to you.
 
 ## The Key Insight
 
@@ -255,9 +255,9 @@ Together, these explain why consciousness acts on brains specifically: (a) brain
 - [neural-quantum-coherence](/concepts/neural-quantum-coherence/) — Evidence for quantum effects in brain tissue
 - [filter-theory](/concepts/filter-theory/) — The transmission model of consciousness
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum selection mechanisms
-- [attention](/concepts/attention/) — How attention implements observation
+- [attention](/attention/) — How attention implements observation
 - [attention-as-interface](/concepts/attention-as-interface/) — The quantum Zeno mechanism for mind-body interaction
-- [voluntary-attention](/concepts/voluntary-attention/) — Willed attention as the locus of conscious control
+- [voluntary-attention](/voluntary-attention/) — Willed attention as the locus of conscious control
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The proposed mechanism for selection
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — Constraints on the coupling between mind and brain
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and the Map's response

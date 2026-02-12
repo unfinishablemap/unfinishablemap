@@ -221,7 +221,7 @@ What does it feel like to reason? It feels like work—meaningful, directed, con
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge: curiosity, certainty, doubt
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has experiential character
 - [working-memory](/concepts/working-memory/) — Where intellectual capacity meets consciousness
-- [voluntary-attention](/concepts/voluntary-attention/) — Neural signatures of willed cognitive engagement
+- [voluntary-attention](/voluntary-attention/) — Neural signatures of willed cognitive engagement
 
 ## References
 

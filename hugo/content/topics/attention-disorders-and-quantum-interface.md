@@ -195,9 +195,9 @@ The materialist might argue that attention disorders show attention is "just" ne
 ## Further Reading
 
 - [attention-as-interface](/concepts/attention-as-interface/) — The core hypothesis: attention as consciousness's bridge to matter
-- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — The unified attention-motor substrate for selection
+- [attention-motor-quantum-interface](/attention-motor-quantum-interface/) — The unified attention-motor substrate for selection
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno approach to mind-brain interaction
-- [voluntary-attention](/concepts/voluntary-attention/) — Neural signatures distinguishing willed from automatic attention
+- [voluntary-attention](/voluntary-attention/) — Neural signatures distinguishing willed from automatic attention
 - [mental-effort](/concepts/mental-effort/) — Why attention feels effortful and what effort signifies
 - [dopamine-selection-interface](/concepts/dopamine-selection-interface/) — Dopamine's role in threshold modulation
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Salience bridge, tonic/phasic modes, and what Parkinson's reveals about the interface

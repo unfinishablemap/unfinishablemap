@@ -130,7 +130,7 @@ The [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) 
 ### High Priority
 
 #### Consciousness and Creativity
-- **Builds on**: [free-will](/topics/free-will/), [agent-causation](/concepts/agent-causation/), [voluntary-attention](/concepts/voluntary-attention/)
+- **Builds on**: [free-will](/topics/free-will/), [agent-causation](/concepts/agent-causation/), [voluntary-attention](/voluntary-attention/)
 - **Would address**: The gap in treatment of how consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Bidirectional Interaction—creativity as paradigm case of consciousness contributing what physics doesn't determine
@@ -156,7 +156,7 @@ The [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) 
 - **Tenet alignment**: Dualism—unity as evidence for irreducibility
 
 #### Attention and Agency Integration
-- **Builds on**: [voluntary-attention](/concepts/voluntary-attention/), [attention-as-interface](/concepts/attention-as-interface/), [motor-selection](/concepts/motor-selection/)
+- **Builds on**: [voluntary-attention](/voluntary-attention/), [attention-as-interface](/concepts/attention-as-interface/), [motor-selection](/concepts/motor-selection/)
 - **Would address**: Synthesize the treatment of attention across selection, motor, and cognitive domains
 - **Estimated scope**: Medium article (could be apex)
 - **Tenet alignment**: Bidirectional Interaction—attention as the phenomenological correlate of quantum selection

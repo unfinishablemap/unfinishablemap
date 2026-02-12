@@ -137,7 +137,7 @@ This gives authenticity metaphysical significance: authentic choice is where con
 
 ### The Neural Evidence
 
-The neural signatures of [willed action](/concepts/voluntary-attention/)—frontal theta oscillations, bidirectional frontoparietal coherence (Botvinick et al., 2001; Cavanagh & Frank, 2014)—appear in voluntary, effortful choice but not in automatic or instructed behavior. If authentic choice is characteristically effortful and inauthentic choice characteristically automatic, this neural distinction may track the authenticity difference.
+The neural signatures of [willed action](/voluntary-attention/)—frontal theta oscillations, bidirectional frontoparietal coherence (Botvinick et al., 2001; Cavanagh & Frank, 2014)—appear in voluntary, effortful choice but not in automatic or instructed behavior. If authentic choice is characteristically effortful and inauthentic choice characteristically automatic, this neural distinction may track the authenticity difference.
 
 The [decision window](/concepts/motor-selection/) for willed movements (~300ms versus ~100ms for instructed movements; Haggard, 2008) suggests that genuine selection requires time for candidate neural patterns to develop and consciousness to engage. Scripted, automatic responses may bypass this deliberative interval.
 
@@ -224,7 +224,7 @@ The authentic-inauthentic framework would face difficulty if:
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of decision-making
 - [agent-causation](/concepts/agent-causation/) — Why genuine choice requires agent causation
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of cognitive engagement
-- [voluntary-attention](/concepts/voluntary-attention/) — Neural signatures of willed action
+- [voluntary-attention](/voluntary-attention/) — Neural signatures of willed action
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative cultivation of non-identified awareness
 - [personal-identity](/topics/personal-identity/) — What makes the "self" that authenticates choice
 - [haecceity](/concepts/haecceity/) — The unrepeatable thisness of the choosing subject

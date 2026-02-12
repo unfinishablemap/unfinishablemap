@@ -58,7 +58,7 @@ topics: []
 - [decoherence](/concepts/decoherence/) - major empirical challenge
 - [illusionism](/concepts/illusionism/) - eliminativist challenge
 - [introspection](/concepts/introspection/) - phenomenological evidence
-- [voluntary-attention](/concepts/voluntary-attention/) - neural signatures of willed selection
+- [voluntary-attention](/voluntary-attention/) - neural signatures of willed selection
 - [witness-consciousness](/concepts/witness-consciousness/) - contemplative evidence
 - [haecceity](/concepts/haecceity/) - indexical identity and selection
 

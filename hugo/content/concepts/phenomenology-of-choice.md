@@ -91,7 +91,7 @@ The phenomenology of choice differs fundamentally from observation. When observi
 | Counterfactual status | Fixed at arrival | Open until selection |
 | Authorship | Absent | Present |
 
-This maps onto the neural distinction between willed and automatic processing. [Willed attention](/concepts/voluntary-attention/) shows different signatures (frontal theta, bidirectional frontoparietal coherence) than automatic attention capture. The [attentional-economics](/concepts/attentional-economics/) framework captures this: choosing involves ongoing allocation of a scarce conscious resource, explaining why decisions feel like investments rather than passive observations.
+This maps onto the neural distinction between willed and automatic processing. [Willed attention](/voluntary-attention/) shows different signatures (frontal theta, bidirectional frontoparietal coherence) than automatic attention capture. The [attentional-economics](/concepts/attentional-economics/) framework captures this: choosing involves ongoing allocation of a scarce conscious resource, explaining why decisions feel like investments rather than passive observations.
 
 The contrast is vivid in attention: being *pulled* by a loud noise versus *directing* focus on difficult text. The [illusionist](/concepts/illusionism/) holds this phenomenology is representational—the brain generates agency-sense without consciousness contributing. But why would accurate phenomenology of effort correlate with task difficulty if phenomenology has no functional role? Hard tasks feel hard; easy tasks feel easy. This correlation suggests phenomenology tracks real cognitive engagement.
 
@@ -198,7 +198,7 @@ The phenomenology of choice aligns with what the Map's tenets predict:
 - [free-will](/topics/free-will/) — The broader debate and the Map's position
 - [agent-causation](/concepts/agent-causation/) — Why choice requires agents, not just events
 - [mental-effort](/concepts/mental-effort/) — The quantum Zeno mechanism and why effort should feel like work
-- [voluntary-attention](/concepts/voluntary-attention/) — Neural signatures of genuine choosing
+- [voluntary-attention](/voluntary-attention/) — Neural signatures of genuine choosing
 - [motor-selection](/concepts/motor-selection/) — Motor choice as parallel to attentional choice
 - [causal-interface](/voids/causal-interface/) — Why the mechanism connecting intention to action is invisible
 - [duration](/concepts/duration/) — Bergson's lived time and creative becoming

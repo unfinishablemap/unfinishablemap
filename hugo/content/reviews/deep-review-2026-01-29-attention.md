@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-29
-**Article**: [Attention and Consciousness](/concepts/attention/)
+**Article**: [Attention and Consciousness](/attention/)
 **Previous review**: [2026-01-27](/reviews/deep-review-2026-01-27-attention/)
 **Review type**: Cross-review considering attention-created-voids.md
 

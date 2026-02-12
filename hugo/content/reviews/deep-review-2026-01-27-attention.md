@@ -17,14 +17,14 @@ topics: []
 ---
 
 **Date**: 2026-01-27
-**Article**: [Attention and Consciousness](/concepts/attention/)
+**Article**: [Attention and Consciousness](/attention/)
 **Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-attention/)
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken internal link**: `[Recent neuroscience](/voluntary-attention-control/)` pointed to non-existent file. Resolved by correcting to `[Recent neuroscience](/concepts/voluntary-attention/)`.
-- **Duplicate frontmatter entry**: `[voluntary-attention](/concepts/voluntary-attention/)` appeared twice in concepts list. Resolved by removing duplicate.
+- **Broken internal link**: `[Recent neuroscience](/voluntary-attention-control/)` pointed to non-existent file. Resolved by correcting to `[Recent neuroscience](/voluntary-attention/)`.
+- **Duplicate frontmatter entry**: `[voluntary-attention](/voluntary-attention/)` appeared twice in concepts list. Resolved by removing duplicate.
 
 ### Medium Issues Found
 - None requiring changes. The decoherence treatment, while brief, already includes appropriate hedging ("The objection remains serious but not categorical") and links to the full treatment.
@@ -59,7 +59,7 @@ All cross-links from previous review remain functional:
 - [agent-causation](/concepts/agent-causation/)
 - [pairing-problem](/concepts/pairing-problem/)
 - [many-worlds](/arguments/many-worlds/)
-- [voluntary-attention](/concepts/voluntary-attention/)
+- [voluntary-attention](/voluntary-attention/)
 
 ## Remaining Items
 

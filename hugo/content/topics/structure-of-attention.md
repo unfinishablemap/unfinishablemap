@@ -242,9 +242,9 @@ For the Map's framework, this architecture illuminates the mind-matter interface
 
 ## Further Reading
 
-- [attention](/concepts/attention/) — The broad dissociation between attention and consciousness
+- [attention](/attention/) — The broad dissociation between attention and consciousness
 - [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — ADHD, fatigue, and meditation deficits reveal interface components
-- [voluntary-attention](/concepts/voluntary-attention/) — Detailed treatment of willed attention mechanisms
+- [voluntary-attention](/voluntary-attention/) — Detailed treatment of willed attention mechanisms
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal bridge between consciousness and brain
 - [attention-interface-mechanisms](/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions
 - [mental-effort](/concepts/mental-effort/) — The phenomenology and potential mechanism of attentional effort

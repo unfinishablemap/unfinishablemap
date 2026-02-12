@@ -111,7 +111,7 @@ The [Dualism](/tenets/#dualism) tenet gains support if metarepresentation—the 
 
 ### Minimal Quantum Interaction
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet suggests a mechanism: if consciousness biases quantum outcomes in neural systems, expanded working memory and flexible reasoning might reflect consciousness selecting among superposed neural patterns. [Voluntary attention control](/concepts/voluntary-attention/)—a distinctively human capacity—could be where this selection operates. The quantum Zeno effect, as developed by [Stapp](/concepts/stapp-quantum-mind/), proposes that mental attention acts like repeated observation, holding desired neural patterns in place. Ape brains may provide insufficient interface for this selection, limiting them to the baseline.
+The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet suggests a mechanism: if consciousness biases quantum outcomes in neural systems, expanded working memory and flexible reasoning might reflect consciousness selecting among superposed neural patterns. [Voluntary attention control](/voluntary-attention/)—a distinctively human capacity—could be where this selection operates. The quantum Zeno effect, as developed by [Stapp](/concepts/stapp-quantum-mind/), proposes that mental attention acts like repeated observation, holding desired neural patterns in place. Ape brains may provide insufficient interface for this selection, limiting them to the baseline.
 
 ### No Many Worlds
 
@@ -138,7 +138,7 @@ The hypothesis illustrates the [limits of Occam's Razor](/tenets/#occams-limits)
 - [illusionism](/concepts/illusionism/) — The radical physicalist view that phenomenal consciousness doesn't exist
 - [mysterianism](/concepts/mysterianism/) — Whether the consciousness-cognition link may be cognitively closed
 - [free-will](/topics/free-will/) — How deliberation and choice connect to conscious amplification
-- [voluntary-attention](/concepts/voluntary-attention/) — Attention control as the mechanism for conscious selection
+- [voluntary-attention](/voluntary-attention/) — Attention control as the mechanism for conscious selection
 
 ## References
 

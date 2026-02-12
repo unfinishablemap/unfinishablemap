@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-21
-**Article**: [Voluntary Attention](/concepts/voluntary-attention/)
+**Article**: [Voluntary Attention](/voluntary-attention/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -61,7 +61,7 @@ The phenomenology here is paradoxical. If consciousness was absorbed in wanderin
 
 After noticing, you deliberately bring attention back to the intended object. This phase feels effortful. It has the character of [agency](/topics/phenomenology-of-agency-vs-passivity/) — you are doing something, not merely undergoing it. The contrast with Phase Two is stark: noticing happened *to* you; returning is something *you do*.
 
-Neurally, this phase engages the dorsolateral prefrontal cortex and the dorsal attention network. The [frontal theta signature](/concepts/voluntary-attention/) of willed attention appears. The full machinery of executive control re-engages to override the wandering stream and redirect focus.
+Neurally, this phase engages the dorsolateral prefrontal cortex and the dorsal attention network. The [frontal theta signature](/voluntary-attention/) of willed attention appears. The full machinery of executive control re-engages to override the wandering stream and redirect focus.
 
 ## Why the Gap Matters
 
@@ -140,7 +140,7 @@ This has implications for the [contemplative epistemology](/concepts/contemplati
 
 ## Further Reading
 
-- [voluntary-attention](/concepts/voluntary-attention/) — Neural signatures distinguishing willed from automatic attention
+- [voluntary-attention](/voluntary-attention/) — Neural signatures distinguishing willed from automatic attention
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — The two modes of consciousness and their neural correlates
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt contrast between doing and undergoing
 - [attention-as-interface](/concepts/attention-as-interface/) — Why attention is the privileged interface between mind and brain

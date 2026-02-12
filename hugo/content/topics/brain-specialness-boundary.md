@@ -79,7 +79,7 @@ The interface with your brain exists because development and evolution built it.
 
 ### Attention Scope
 
-[Attention](/concepts/attention/) is neurally implemented through frontoparietal network activation, increased gain on specific neural populations, and inhibition of competitors. The quantum Zeno mechanism operates through attention—repeated observation stabilising quantum states.
+[Attention](/attention/) is neurally implemented through frontoparietal network activation, increased gain on specific neural populations, and inhibition of competitors. The quantum Zeno mechanism operates through attention—repeated observation stabilising quantum states.
 
 But attention has scope. You can attend to your motor planning, your perceptual representations, your inner speech. You cannot attend, in the neural sense, to a random number generator in another building. There's no neural pathway for such attention to travel.
 
@@ -154,7 +154,7 @@ None of these has occurred. The current framework remains consistent with availa
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's core position on mind-body interaction
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for consciousness-brain interaction
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism in detail
-- [attention](/concepts/attention/) — How attention implements observation
+- [attention](/attention/) — How attention implements observation
 - [filter-theory](/concepts/filter-theory/) — Consciousness as filtered through the brain
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Why consciousness doesn't violate conservation laws
 - [embodied-cognition](/concepts/embodied-cognition/) — The role of embodiment in consciousness

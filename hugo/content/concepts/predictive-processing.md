@@ -208,7 +208,7 @@ PP relates to The Unfinishable Map's [tenets](/tenets/) substantively:
 ### Site Content
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Another major cognitive framework
 - [functionalism](/arguments/functionalism/) — The philosophical tradition PP inherits
-- [attention](/concepts/attention/) — Central to precision weighting
+- [attention](/attention/) — Central to precision weighting
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-matter interaction
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — What PP doesn't directly address
 - [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Dreams as unconstrained prediction

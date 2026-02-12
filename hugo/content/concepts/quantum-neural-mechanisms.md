@@ -284,7 +284,7 @@ The Unfinishable Map's interest in quantum neural mechanisms connects to all fiv
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum approaches to consciousness
 - [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — The decoherence challenge in detail
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
-- [voluntary-attention](/concepts/voluntary-attention/) — The 300ms window for conscious attention deployment
+- [voluntary-attention](/voluntary-attention/) — The 300ms window for conscious attention deployment
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The causal efficacy of consciousness
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and objective collapse as consciousness-independent baseline
 - [illusionism](/concepts/illusionism/) — The challenge that phenomenal consciousness may be illusory

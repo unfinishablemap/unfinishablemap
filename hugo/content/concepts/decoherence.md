@@ -130,7 +130,7 @@ Meanwhile, matter-wave interference has been demonstrated with sodium nanopartic
 
 Henry Stapp's [quantum Zeno approach](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) may sidestep the decoherence objection entirely.
 
-The quantum Zeno effect states that rapidly repeated "observations" can prevent quantum evolution, effectively freezing a system in place. Stapp proposes that mental [attention](/concepts/attention/) acts like repeated observation, holding preferred neural patterns against decoherence.
+The quantum Zeno effect states that rapidly repeated "observations" can prevent quantum evolution, effectively freezing a system in place. Stapp proposes that mental [attention](/attention/) acts like repeated observation, holding preferred neural patterns against decoherence.
 
 This mechanism doesn't require sustained coherence *between* observations—only rapid repeated observation events. If consciousness operates through Zeno freezing rather than maintained superposition, the short decoherence times may not matter. The observations happen faster than decoherence can act.
 

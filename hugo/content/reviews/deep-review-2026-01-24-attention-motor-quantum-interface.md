@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-24
-**Article**: [Attention-Motor Quantum Interface](/concepts/attention-motor-quantum-interface/)
+**Article**: [Attention-Motor Quantum Interface](/attention-motor-quantum-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-01-14
 ai_modified: 2026-01-29 14:30:00+00:00
 ai_system: claude-opus-4-5-20251101
+archive_reason: Coalesced into Attention as Interface
+archived: true
+archived_date: 2026-02-12 21:34:00+00:00
 author: null
 concepts:
 - '[[voluntary-attention]]'
@@ -29,10 +32,12 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-01-29 14:30:00+00:00
 modified: *id001
+original_path: /concepts/attention/
 related_articles:
 - '[[tenets]]'
 - '[[attention-consciousness-relationship-2026-01-15]]'
 - '[[consciousness-working-memory-2026-01-17]]'
+superseded_by: /concepts/attention-as-interface/
 title: Attention and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -85,7 +90,7 @@ This matters for the interface hypothesis: if attention is how consciousness eng
 
 ### The Willed-Instructed-Exogenous Distinction
 
-[Recent neuroscience](/concepts/voluntary-attention/) distinguishes three attention types:
+[Recent neuroscience](/voluntary-attention/) distinguishes three attention types:
 
 | Mode | Trigger | Deployment Time | Effort |
 |------|---------|-----------------|--------|
@@ -198,7 +203,7 @@ The attention-consciousness relationship illuminates all five tenets:
 ## Further Reading
 
 - [attention-created-voids](/voids/attention-created-voids/) — How attention creates structural voids as a byproduct of selection
-- [voluntary-attention](/concepts/voluntary-attention/) — The willed-instructed-exogenous distinction
+- [voluntary-attention](/voluntary-attention/) — The willed-instructed-exogenous distinction
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention mediates consciousness's causal influence on matter
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — FA/OM meditation and selection vs witnessing modes
 - [mental-effort](/concepts/mental-effort/) — Phenomenology of effort and Stapp's mechanism

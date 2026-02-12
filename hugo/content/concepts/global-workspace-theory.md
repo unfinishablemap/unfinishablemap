@@ -204,7 +204,7 @@ The workspace may be the neural correlate of the interface between consciousness
 
 GWT is compatible with [Dualism](/tenets/#dualism) if read as describing neural correlates rather than constituting consciousness. Interactionist dualism predicts that consciousness will have reliable correlates—the physical interface where mind and brain meet. GWT may describe this interface without claiming to explain phenomenal consciousness.
 
-The Map's [attention article](/concepts/attention/) notes that attention serves as the "gateway" to the workspace. This connects with Stapp's proposal that attention is where consciousness influences physics through the quantum Zeno effect. GWT provides mainstream neuroscience context for this idea.
+The Map's [attention article](/attention/) notes that attention serves as the "gateway" to the workspace. This connects with Stapp's proposal that attention is where consciousness influences physics through the quantum Zeno effect. GWT provides mainstream neuroscience context for this idea.
 
 ### Tension
 
@@ -263,8 +263,8 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A rival theory tested alongside GNW
 - [integrated-information-theory-critique](/topics/integrated-information-theory-critique/) — The Map's critique of IIT, sharing some concerns about passive consciousness
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — The broader research program GWT contributes to
-- [attention](/concepts/attention/) — The gateway to the workspace
-- [voluntary-attention](/concepts/voluntary-attention/) — Endogenous attention control and workspace access
+- [attention](/attention/) — The gateway to the workspace
+- [voluntary-attention](/voluntary-attention/) — Endogenous attention control and workspace access
 - [functionalism](/arguments/functionalism/) — The philosophical framework underlying GWT
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Explaining away phenomenal intuitions
 - [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Dreaming without full workspace engagement

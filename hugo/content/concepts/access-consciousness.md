@@ -88,7 +88,7 @@ Can thoughts be A-conscious without phenomenal character? The thought "Paris is 
 
 ## The Role of Attention {#attention}
 
-[Attention](/concepts/attention/) is the mechanism that *selects* what enters the global workspace; A-consciousness is the state of being in the workspace. Attended information typically becomes A-conscious; inattentional blindness shows unattended information may not reach full access.
+[Attention](/attention/) is the mechanism that *selects* what enters the global workspace; A-consciousness is the state of being in the workspace. Attended information typically becomes A-conscious; inattentional blindness shows unattended information may not reach full access.
 
 If [overflow](/concepts/phenomenal-overflow/) is real, attention selects what becomes A-conscious from a richer phenomenal field—attention doesn't create P-consciousness but determines what reaches access-machinery. This fits the dualist view: phenomenal consciousness exists in parallel with functional access, and attention is the bridge.
 

@@ -92,7 +92,7 @@ Consciousness can only influence quantum outcomes within the scope of attention,
 - Increased gain on specific neural populations
 - Repeated "observation" in Stapp's sense
 
-**Why this follows from the mechanism**: The quantum Zeno mechanism requires rapid repeated observation to hold a quantum state stable. [Attention](/concepts/attention/) is the mechanism that implements such observation in neural systems. You can only attend to what's within your perceptual/motor systems—which means you can only perform quantum-Zeno holding on systems neurally represented to you.
+**Why this follows from the mechanism**: The quantum Zeno mechanism requires rapid repeated observation to hold a quantum state stable. [Attention](/attention/) is the mechanism that implements such observation in neural systems. You can only attend to what's within your perceptual/motor systems—which means you can only perform quantum-Zeno holding on systems neurally represented to you.
 
 ## The Key Insight
 
@@ -238,9 +238,9 @@ This article addresses why consciousness *doesn't* act externally. The complemen
 - [brain-specialness](/brain-specialness/) - What makes neural systems suitable interfaces (the positive account)
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) - The proposed mechanism for selection
 - [psychophysical-coupling-law](/psychophysical-coupling-law/) - Constraints on the coupling between mind and brain
-- [attention](/concepts/attention/) - How attention implements quantum observation
+- [attention](/attention/) - How attention implements quantum observation
 - [attention-as-interface](/concepts/attention-as-interface/) - Why attention specifically serves as the interface
-- [voluntary-attention](/concepts/voluntary-attention/) - Willed attention as the Map of conscious control
+- [voluntary-attention](/voluntary-attention/) - Willed attention as the Map of conscious control
 - [pairing-problem](/concepts/pairing-problem/) - Why this mind pairs with this body
 - [quantum-consciousness](/concepts/quantum-consciousness/) - The broader framework for mind-matter interaction
 - [decoherence](/concepts/decoherence/) - The decoherence objection and quantum biology responses

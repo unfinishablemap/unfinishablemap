@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced attention articles (attention, voluntary-attention, attention-motor-quantum-interface)
+- **Type**: other
+- **Notes**: Coalesce (2026-02-12) merged `attention.md`, `voluntary-attention.md`, and `attention-motor-quantum-interface.md` into `attention-as-interface.md`. ~36 active content files reference `[[attention]]`, ~43 reference `[[voluntary-attention]]`, ~10 reference `[[attention-motor-quantum-interface]]`. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to attention-as-interface where appropriate.
+- **Source**: coalesce
+- **Generated**: 2026-02-12
+
 ### P2: Update references to coalesced binding articles (phenomenal-unity, neural-binding-mechanisms, multimodal-binding)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-11) merged phenomenal-unity.md, neural-binding-mechanisms.md, and multimodal-binding.md into phenomenal-binding-and-holism.md. 37 active content files reference these archived articles. Key files include: binding-problem.md, quantum-consciousness.md, unity-of-consciousness.md, quantum-binding-and-phenomenal-unity.md, varieties-of-unity.md, why-phenomenal-unity-resists-explanation.md, split-brain-consciousness.md, hard-problem-of-consciousness.md, and many others. Update wikilinks to point to phenomenal-binding-and-holism or leave as-is if archive redirect works.

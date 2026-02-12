@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Attention and Consciousness](/concepts/attention/)
+**Article**: [Attention and Consciousness](/attention/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

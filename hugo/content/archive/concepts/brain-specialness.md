@@ -79,7 +79,7 @@ A rock encodes nothing. A thermostat encodes only temperature (one variable, no 
 
 The system must include mechanisms for directed focus—the capacity to increase processing resources on specific contents while suppressing others.
 
-Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) requires repeated observation to hold quantum states stable. [Attention](/concepts/attention/) neurally implements this: frontoparietal networks increase gain on selected populations while inhibiting competitors. This repeated "looking at" attention targets is the neural correlate of Process 2 (observation) in Stapp's model.
+Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) requires repeated observation to hold quantum states stable. [Attention](/attention/) neurally implements this: frontoparietal networks increase gain on selected populations while inhibiting competitors. This repeated "looking at" attention targets is the neural correlate of Process 2 (observation) in Stapp's model.
 
 Systems without attention mechanisms cannot implement Zeno-style selection. A thermostat has no analog of "focusing more intently" on one option. The brain's attention architecture provides the physical structure through which repeated observation occurs.
 
@@ -243,7 +243,7 @@ This complements [interface-locality](/interface-locality/), which explains why 
 - [neural-quantum-coherence](/concepts/neural-quantum-coherence/) — Evidence for quantum effects in brain tissue
 - [filter-theory](/concepts/filter-theory/) — The transmission model of consciousness
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum selection mechanisms
-- [attention](/concepts/attention/) — How attention implements observation
+- [attention](/attention/) — How attention implements observation
 - [attention-as-interface](/concepts/attention-as-interface/) — The quantum Zeno mechanism for mind-body interaction
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and the Map's response
 - [decoherence](/concepts/decoherence/) — The decoherence objection and why it doesn't solve the measurement problem

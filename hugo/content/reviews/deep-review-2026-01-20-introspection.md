@@ -79,7 +79,7 @@ topics: []
 ### Cross-links Added
 - [illusionism](/concepts/illusionism/) — in new challenge section and frontmatter
 - [witness-consciousness](/concepts/witness-consciousness/) — in introspection-of-introspection discussion
-- [voluntary-attention](/concepts/voluntary-attention/) — in frontmatter and Further Reading
+- [voluntary-attention](/voluntary-attention/) — in frontmatter and Further Reading
 - [decoherence](/concepts/decoherence/) — in frontmatter
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — in Further Reading
 

@@ -75,7 +75,7 @@ Further Reading additions:
 - [interface-locality](/interface-locality/)
 - [substrate-independence-critique](/substrate-independence-critique/)
 - [attention-as-interface](/concepts/attention-as-interface/)
-- [voluntary-attention](/concepts/voluntary-attention/)
+- [voluntary-attention](/voluntary-attention/)
 - [motor-selection](/concepts/motor-selection/)
 - [illusionism](/concepts/illusionism/)
 - [witness-consciousness](/concepts/witness-consciousness/)

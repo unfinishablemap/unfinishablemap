@@ -131,7 +131,7 @@ The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) sp
 
 ### Bidirectional Interaction
 
-The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) receives indirect support: if consciousness were epiphenomenal, why invest neural resources modeling something that doesn't affect behaviour? The existence of folk psychology suggests minds have causal efficacy worth tracking. The direct evidence comes from [voluntary-attention](/concepts/voluntary-attention/) and studies like Schwartz's OCD research showing mindful attention changing brain activity.
+The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) receives indirect support: if consciousness were epiphenomenal, why invest neural resources modeling something that doesn't affect behaviour? The existence of folk psychology suggests minds have causal efficacy worth tracking. The direct evidence comes from [voluntary-attention](/voluntary-attention/) and studies like Schwartz's OCD research showing mindful attention changing brain activity.
 
 ### No Many Worlds
 

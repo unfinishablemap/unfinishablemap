@@ -68,7 +68,7 @@ Graziano favors soft illusionism, arguing evolution wouldn't invest resources mo
 
 Graziano's [Attention Schema Theory](/concepts/attention-schema-theory/) (AST) provides the most developed neuroscientific implementation of illusionism. Where philosophical illusionists like Frankish and Dennett argue that introspection misrepresents experience, AST explains *how* the brain generates this misrepresentation.
 
-The proposal: just as the brain maintains a body schema to track limb position, it maintains an "attention schema" to track and control [attention](/concepts/attention/). This schema represents attention as having experiential qualities—intentionality, selfhood, phenomenality—because that's a useful simplification for managing attentional resources. The brain then mistakes its own model for reality, concluding it has a "non-physical essence of awareness."
+The proposal: just as the brain maintains a body schema to track limb position, it maintains an "attention schema" to track and control [attention](/attention/). This schema represents attention as having experiential qualities—intentionality, selfhood, phenomenality—because that's a useful simplification for managing attentional resources. The brain then mistakes its own model for reality, concluding it has a "non-physical essence of awareness."
 
 AST gains empirical traction from neuroimaging findings. A 2021 study from Graziano's Princeton lab found that the same brain regions (right temporoparietal junction and superior temporal sulcus) track both your own attention states and others' attention—exactly what AST predicts if consciousness is modeled the same way we model other minds.
 
@@ -168,7 +168,7 @@ The persistence of the illusion problem suggests illusionism doesn't escape the 
 
 ### Site Content
 - [attention-schema-theory](/concepts/attention-schema-theory/) — The neuroscientific mechanism for illusionism, and the Map's critique
-- [attention](/concepts/attention/) — What AST claims consciousness is a model of
+- [attention](/attention/) — What AST claims consciousness is a model of
 - [arguments-against-materialism](/concepts/arguments-against-materialism/) — Illusionism as the most radical physicalist response
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap illusionism claims doesn't need bridging
 - [introspection](/concepts/introspection/) — The reliability of phenomenal reports illusionism must challenge

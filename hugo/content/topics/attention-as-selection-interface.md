@@ -249,7 +249,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis stated and developed
 - [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) — Evidence that attention and consciousness can come apart
-- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — Detailed concept treatment of the unified interface
+- [attention-motor-quantum-interface](/attention-motor-quantum-interface/) — Detailed concept treatment of the unified interface
 - [motor-selection](/concepts/motor-selection/) — Motor selection and premotor theory in depth
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine's dual role in attention and motor planning
 - [dopamine-selection-interface](/concepts/dopamine-selection-interface/) — Dopamine's role in threshold modulation
@@ -258,7 +258,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 - [decoherence](/concepts/decoherence/) — The decoherence objection and responses
 - [mental-effort](/concepts/mental-effort/) — Phenomenology of attentional effort
 - [structure-of-attention](/topics/structure-of-attention/) — Willed, instructed, and exogenous attention
-- [voluntary-attention](/concepts/voluntary-attention/) — Neural signatures of willed attention
+- [voluntary-attention](/voluntary-attention/) — Neural signatures of willed attention
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — Constraints on what consciousness can influence
 - [free-will](/topics/free-will/) — How timing constraints relate to libertarian free will
 - [agent-causation](/concepts/agent-causation/) — The selection model as agent causation

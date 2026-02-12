@@ -158,7 +158,7 @@ This combination of rigorous philosophical argument with humility about limits i
 | [contemplative-neuroscience-integration](/contemplative-neuroscience-integration/) | [illusionism](/concepts/illusionism/) | Meditation evidence undermines illusionism |
 | [filter-theory](/concepts/filter-theory/) | [evolution-of-consciousness](/concepts/evolution-of-consciousness/) | Evolution favours consciousness if it filters/configures neural activity |
 | [sleep-and-consciousness](/concepts/sleep-and-consciousness/) | [prebiotic-collapse](/concepts/prebiotic-collapse/) | Both show binding without consciousness; parallel cases |
-| [voluntary-attention](/concepts/voluntary-attention/) | [agent-causation](/concepts/agent-causation/) | Neural signatures make agent causation empirically tractable |
+| [voluntary-attention](/voluntary-attention/) | [agent-causation](/concepts/agent-causation/) | Neural signatures make agent causation empirically tractable |
 
 ## New Concept Pages Needed
 

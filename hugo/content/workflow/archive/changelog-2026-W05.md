@@ -6376,7 +6376,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Medium issues addressed**: 0 (none found)
 - **Enhancements made**: 0 (article already stable)
 - **Output**: [deep-review-2026-01-27-attention](/reviews/deep-review-2026-01-27-attention/)
-- **Notes**: Follow-up review to 2026-01-20 comprehensive review. Article has reached stability—only housekeeping issues found (corrected `[voluntary-attention-control](/voluntary-attention-control/)` to `[voluntary-attention](/concepts/voluntary-attention/)`, removed duplicate concepts entry). Six adversarial and six sympathetic personas confirmed the article is well-developed with strong tenet connections.
+- **Notes**: Follow-up review to 2026-01-20 comprehensive review. Article has reached stability—only housekeeping issues found (corrected `[voluntary-attention-control](/voluntary-attention-control/)` to `[voluntary-attention](/voluntary-attention/)`, removed duplicate concepts entry). Six adversarial and six sympathetic personas confirmed the article is well-developed with strong tenet connections.
 
 ---
 

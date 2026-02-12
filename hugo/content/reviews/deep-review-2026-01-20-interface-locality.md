@@ -59,7 +59,7 @@ topics: []
 - [illusionism](/concepts/illusionism/)
 - [decoherence](/concepts/decoherence/)
 - [introspection](/concepts/introspection/)
-- [voluntary-attention](/concepts/voluntary-attention/)
+- [voluntary-attention](/voluntary-attention/)
 
 ## Remaining Items
 

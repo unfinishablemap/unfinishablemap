@@ -141,7 +141,7 @@ Key features supporting free will:
 
 **The [attention-consciousness relationship](/concepts/attention-as-interface/)**: Koch and Tsuchiya documented that attention and consciousness are dissociable—blindsight patients attend to stimuli they don't consciously see; peripheral awareness presents experiences without focused attention. This dissociation matters: attention is the *mechanism* consciousness uses, not consciousness itself. A non-physical subject (consciousness) deploys a physical mechanism (attention) to influence quantum outcomes.
 
-**Neuroimaging support**: Research shows willed attention has distinct neural signatures from instructed attention—frontal theta oscillations, bidirectional frontoparietal coherence, ~300ms deployment time. The brain distinguishes between doing what you're told and doing what you choose. See [voluntary attention research](/concepts/attention/) for details.
+**Neuroimaging support**: Research shows willed attention has distinct neural signatures from instructed attention—frontal theta oscillations, bidirectional frontoparietal coherence, ~300ms deployment time. The brain distinguishes between doing what you're told and doing what you choose. See [voluntary attention research](/attention/) for details.
 
 ## Two Domains: Attention and Motor Selection
 

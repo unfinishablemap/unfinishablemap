@@ -83,7 +83,7 @@ When skilled performers face high-pressure situations, a counterintuitive breakd
 
 ### The Explicit Monitoring Theory
 
-Baumeister and Beilock's explicit monitoring theory explains choking: pressure generates anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it. Crucially, this reinvestment involves [willed attention](/concepts/voluntary-attention/)—not mere stimulus-driven capture, but internally directed focus on one's own movements. The performer *decides* to attend to their execution, and this decision has causal consequences.
+Baumeister and Beilock's explicit monitoring theory explains choking: pressure generates anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it. Crucially, this reinvestment involves [willed attention](/voluntary-attention/)—not mere stimulus-driven capture, but internally directed focus on one's own movements. The performer *decides* to attend to their execution, and this decision has causal consequences.
 
 Research confirms this pattern:
 - Highly skilled performers choke more than moderately skilled ones (they have more to disrupt)
@@ -203,7 +203,7 @@ Eliminating consciousness from accounts of skill acquisition can't explain choki
 ## Further Reading
 
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) - Extended analysis of choking as evidence for mental causation
-- [voluntary-attention](/concepts/voluntary-attention/) - Why choking involves willed attention specifically, and the neural signatures distinguishing it from stimulus-driven capture
+- [voluntary-attention](/voluntary-attention/) - Why choking involves willed attention specifically, and the neural signatures distinguishing it from stimulus-driven capture
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) - The highest level of Tulving's hierarchy: self-knowing consciousness enabling mental time travel
 - [semantic-memory](/concepts/semantic-memory/) - Noetic consciousness and the phenomenology of knowing without re-experiencing
 - [episodic-memory](/concepts/episodic-memory/) - How episodic memory contrasts with implicit memory in Tulving's framework

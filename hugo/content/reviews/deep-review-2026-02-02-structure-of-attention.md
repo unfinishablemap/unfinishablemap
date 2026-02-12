@@ -69,8 +69,8 @@ topics: []
 ### Cross-links Preserved
 
 All existing cross-links maintained:
-- [attention](/concepts/attention/)
-- [voluntary-attention](/concepts/voluntary-attention/)
+- [attention](/attention/)
+- [voluntary-attention](/voluntary-attention/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [mental-effort](/concepts/mental-effort/)
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)

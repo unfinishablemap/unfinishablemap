@@ -232,7 +232,7 @@ This honest gap distinguishes the Map's position from eliminativism (which denie
 
 ## Further Reading
 
-- [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) — Detailed concept treatment of the unified interface
+- [attention-motor-quantum-interface](/attention-motor-quantum-interface/) — Detailed concept treatment of the unified interface
 - [motor-selection](/concepts/motor-selection/) — Motor selection and premotor theory in depth
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism
 - [structure-of-attention](/topics/structure-of-attention/) — The three-mode architecture of attention

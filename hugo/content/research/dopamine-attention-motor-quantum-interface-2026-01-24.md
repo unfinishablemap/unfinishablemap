@@ -163,7 +163,7 @@ The evolutionary question: why would one neurotransmitter mediate both reward/pl
 This supports the unified attention-motor interface: if attention is motor planning (PMTA), and dopamine marks salience for both perception and action, then a single dopaminergic system appropriately serves the unified interface.
 
 ### Phenomenological Connection
-The research notes in [attention-motor-quantum-interface](/concepts/attention-motor-quantum-interface/) observe that willed attention and willed action share phenomenology (both feel effortful). Dopamine research adds: both also share salience—what we attend to and what we act toward are unified by what matters to us.
+The research notes in [attention-motor-quantum-interface](/attention-motor-quantum-interface/) observe that willed attention and willed action share phenomenology (both feel effortful). Dopamine research adds: both also share salience—what we attend to and what we act toward are unified by what matters to us.
 
 The "effort" may be the conscious engagement with the selection process, experienced across both domains because the underlying mechanism is shared.
 

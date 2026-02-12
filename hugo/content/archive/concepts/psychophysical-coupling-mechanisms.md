@@ -46,7 +46,7 @@ The quantum Zeno effect—experimentally verified—shows that rapid repeated ob
 
 **Major objection**: Decoherence timescale. Monte Carlo simulations (Araujo et al., 2014) showed that the quantum Zeno effect breaks down for timescales exceeding brain decoherence time—potentially faster than neural processes require. Stapp's mechanism may fail at the boundary where quantum coherence gives way to classical dynamics.
 
-**Possible response**: Decoherence selects preferred bases without determining which outcome occurs—the [measurement problem](/concepts/measurement-problem/) remains open. Consciousness could bias outcome selection *after* decoherence, operating at the point of definite-outcome emergence rather than during coherent evolution. This shifts the mechanism from "Zeno-freezing superpositions" to "selecting among decoherence-selected alternatives"—a different and less developed proposal than Stapp's original formulation, but one that remains consistent with the phenomenology of [volitional effort](/concepts/voluntary-attention/).
+**Possible response**: Decoherence selects preferred bases without determining which outcome occurs—the [measurement problem](/concepts/measurement-problem/) remains open. Consciousness could bias outcome selection *after* decoherence, operating at the point of definite-outcome emergence rather than during coherent evolution. This shifts the mechanism from "Zeno-freezing superpositions" to "selecting among decoherence-selected alternatives"—a different and less developed proposal than Stapp's original formulation, but one that remains consistent with the phenomenology of [volitional effort](/voluntary-attention/).
 
 ## Intention as Probability Weighting {#intention}
 

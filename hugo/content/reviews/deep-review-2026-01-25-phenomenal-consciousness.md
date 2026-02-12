@@ -80,7 +80,7 @@ topics: []
 - [free-will](/topics/free-will/)
 - [agent-causation](/concepts/agent-causation/)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
-- [voluntary-attention](/concepts/voluntary-attention/)
+- [voluntary-attention](/voluntary-attention/)
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
 
 ### References Added

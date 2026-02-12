@@ -6,6 +6,11 @@ modified: 2026-01-14
 human_modified: null
 ai_modified: 2026-01-29T14:30:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-12T21:34:00+00:00
+superseded_by: "/concepts/attention-as-interface/"
+archive_reason: "Coalesced into Attention as Interface"
+original_path: "/concepts/attention/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"

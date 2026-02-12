@@ -253,8 +253,8 @@ The consciousness-selecting neural patterns framework would face serious difficu
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — The laws governing what selection can accomplish
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Major theories of how consciousness interfaces with quantum mechanics
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and Stapp's mechanism
-- [voluntary-attention](/concepts/voluntary-attention/) — The willed/instructed distinction and neural signatures of selection
-- [attention](/concepts/attention/) — The attention-consciousness dissociation
+- [voluntary-attention](/voluntary-attention/) — The willed/instructed distinction and neural signatures of selection
+- [attention](/attention/) — The attention-consciousness dissociation
 - [mental-causation](/concepts/mental-causation/) — Why selection addresses the exclusion problem
 - [causal-closure](/concepts/causal-closure/) — The principle selection challenges
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse creates logical space for consciousness

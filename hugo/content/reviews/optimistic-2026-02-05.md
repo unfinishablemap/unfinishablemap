@@ -131,7 +131,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article is genuinely inno
 - **Tenet alignment**: The unity of consciousness resists physical explanation, supporting Dualism tenet
 
 #### Spontaneous Action and Consciousness
-- **Builds on**: [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), [baseline-cognition](/concepts/baseline-cognition/), [voluntary-attention](/concepts/voluntary-attention/)
+- **Builds on**: [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), [baseline-cognition](/concepts/baseline-cognition/), [voluntary-attention](/voluntary-attention/)
 - **Would address**: Systematic treatment of why spontaneous intentional action requires consciousness while stimulus-response can proceed unconsciously
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Bidirectional Interaction by showing consciousness enables action initiation
@@ -163,7 +163,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article is genuinely inno
 - **Tenet alignment**: Supports consciousness's role in novel combination beyond recombination
 
 #### Attention Training and Neural Plasticity
-- **Builds on**: [voluntary-attention](/concepts/voluntary-attention/), [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/), [neural-implementation-specifics](/topics/neural-implementation-specifics/)
+- **Builds on**: [voluntary-attention](/voluntary-attention/), [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/), [neural-implementation-specifics](/topics/neural-implementation-specifics/)
 - **Would address**: Evidence that directed attention reshapes neural circuitry (OCD treatment, contemplative training)
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Empirical support for consciousness causing physical change (Bidirectional Interaction)

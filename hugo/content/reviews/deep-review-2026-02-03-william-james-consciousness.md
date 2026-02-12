@@ -51,11 +51,11 @@ All six adversarial personas were applied:
 
 ### Enhancements Made
 - Added cross-link to [specious-present](/concepts/specious-present/) (concept James helped develop)
-- Added cross-link to [attention](/concepts/attention/) concept page
+- Added cross-link to [attention](/attention/) concept page
 
 ### Cross-links Added to Target
 - [specious-present](/concepts/specious-present/)
-- [attention](/concepts/attention/)
+- [attention](/attention/)
 
 ### Inbound Links Added (Orphan Integration)
 Six articles now link to william-james-consciousness.md:
@@ -63,7 +63,7 @@ Six articles now link to william-james-consciousness.md:
 - [specious-present](/concepts/specious-present/) — Concept development attribution
 - [mental-effort](/concepts/mental-effort/) — Phenomenology of effort section
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Opening paragraph
-- [attention](/concepts/attention/) — Phenomenology of effort section
+- [attention](/attention/) — Phenomenology of effort section
 - [process-philosophy](/concepts/process-philosophy/) — Combination problem section
 
 ## Remaining Items

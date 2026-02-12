@@ -110,7 +110,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively prop
 ### High Priority
 
 #### Attention Mechanisms and Consciousness Interface
-- **Builds on**: [attention-as-interface](/concepts/attention-as-interface/), [quantum-consciousness](/concepts/quantum-consciousness/), [voluntary-attention](/concepts/voluntary-attention/)
+- **Builds on**: [attention-as-interface](/concepts/attention-as-interface/), [quantum-consciousness](/concepts/quantum-consciousness/), [voluntary-attention](/voluntary-attention/)
 - **Would address**: Attention frequently mentioned as the consciousness-brain interface but not systematically developed
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Directly relevant to Minimal Quantum Interaction—Stapp's quantum Zeno mechanism operates through attention
@@ -171,7 +171,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively prop
 | [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) | [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) | Both involve non-decomposable understanding |
 | [personal-identity](/topics/personal-identity/) | [vertiginous-question](/topics/vertiginous-question/) | Both concerned with irreducible indexicality |
 | [death-and-consciousness](/topics/death-and-consciousness/) | [near-death-experiences](/concepts/near-death-experiences/) | Obvious pairing, currently mentioned but not cross-linked |
-| [implicit-memory](/concepts/implicit-memory/) | [voluntary-attention](/concepts/voluntary-attention/) | Choking shows attention's causal efficacy |
+| [implicit-memory](/concepts/implicit-memory/) | [voluntary-attention](/voluntary-attention/) | Choking shows attention's causal efficacy |
 | [blindsight](/concepts/blindsight/) | [baseline-cognition](/concepts/baseline-cognition/) | Blindsight demonstrates baseline visual processing |
 | [epistemic-emotions](/concepts/epistemic-emotions/) | [metacognition](/concepts/metacognition/) | FOK/TOT as metarepresentational evidence |
 | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | [agent-causation](/concepts/agent-causation/) | Effort phenomenology grounds agent causation |

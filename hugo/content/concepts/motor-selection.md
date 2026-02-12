@@ -123,7 +123,7 @@ This maps directly onto the Map's framework. Consciousness contributes at the *s
 
 ## Neural Signatures of Motor Selection
 
-Research on [voluntary-attention](/concepts/voluntary-attention/) (Bengson 2019) found that willed attention engages distinct neural mechanisms: frontal theta oscillations and bidirectional frontoparietal coherence. Motor control shows the same pattern—willed action involves bidirectional information flow (genuine "deliberation") while instructed action is primarily feedforward.
+Research on [voluntary-attention](/voluntary-attention/) (Bengson 2019) found that willed attention engages distinct neural mechanisms: frontal theta oscillations and bidirectional frontoparietal coherence. Motor control shows the same pattern—willed action involves bidirectional information flow (genuine "deliberation") while instructed action is primarily feedforward.
 
 Both willed attention and willed motor action take approximately 300ms to deploy—versus ~100ms for automatic responses. This matching supports unified mechanism: if attention and motor selection were independent systems, why would they share the same timeline? In the quantum Zeno framework, 300ms reflects the time required for consciousness to engage through repeated observation and stabilize the selected pattern to threshold.
 
@@ -193,7 +193,7 @@ This framework identifies *where* consciousness might influence motor selection�
 ## Further Reading
 
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism in detail
-- [voluntary-attention](/concepts/voluntary-attention/) — Neural signatures of willed attention
+- [voluntary-attention](/voluntary-attention/) — Neural signatures of willed attention
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis foundation
 - [dopamine-selection-interface](/concepts/dopamine-selection-interface/) — Dopamine's role in selection thresholds
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the unified attention-motor system for conscious selection

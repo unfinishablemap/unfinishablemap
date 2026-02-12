@@ -178,7 +178,7 @@ This connects to [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)—the 
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)—the "what it's like" that may overflow
 - [global-workspace-theory](/concepts/global-workspace-theory/)—theory of access that may not capture full phenomenology
 - [introspection](/concepts/introspection/)—the method by which we access (and possibly miss) experience
-- [attention](/concepts/attention/)—the selective mechanism between phenomenal field and access
+- [attention](/attention/)—the selective mechanism between phenomenal field and access
 - [attention-as-interface](/concepts/attention-as-interface/)—how attention might mediate conscious selection
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)—a proposed mechanism for conscious selection from phenomenal overflow
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)—the broader void of experience beyond concepts

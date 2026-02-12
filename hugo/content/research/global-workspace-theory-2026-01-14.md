@@ -198,7 +198,7 @@ Based on this research, an article could:
 
 2. **Use GWT to sharpen site's position** - GWT's success with "easy problems" throws the hard problem into sharper relief. The more we explain access, the more mysterious phenomenal consciousness appears. This supports rather than undermines dualism.
 
-3. **Connect to attention article** - GWT places attention as "gateway to consciousness" via spotlight metaphor. Site's [attention](/concepts/attention/) article already discusses attention-consciousness relationship. GWT provides mainstream neuroscience context for Stapp's proposal that attention is where mind-matter interaction occurs.
+3. **Connect to attention article** - GWT places attention as "gateway to consciousness" via spotlight metaphor. Site's [attention](/attention/) article already discusses attention-consciousness relationship. GWT provides mainstream neuroscience context for Stapp's proposal that attention is where mind-matter interaction occurs.
 
 4. **Address COGITATE results** - Neither GNW nor IIT was fully supported. This suggests caution about any premature physicalist explanation. The science is not settled.
 

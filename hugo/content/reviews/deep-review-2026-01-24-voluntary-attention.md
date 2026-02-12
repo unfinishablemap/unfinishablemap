@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-24
-**Article**: [Voluntary Attention](/concepts/voluntary-attention/)
+**Article**: [Voluntary Attention](/voluntary-attention/)
 **Previous review**: [2026-01-21](/reviews/deep-review-2026-01-21-voluntary-attention/)
 
 ## Context

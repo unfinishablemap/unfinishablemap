@@ -155,7 +155,7 @@ Research reveals that willed action engages distinct neural mechanisms from auto
 | **Instructed** | External cues | Following directions |
 | **Willed** | Internal decision | Effortful, self-directed |
 
-Willed attention shows frontal theta oscillations and bidirectional frontoparietal coherence—signatures absent in merely instructed behaviour. The phenomenological asymmetry (effortful vs effortless) corresponds to different neural circuits. This supports agent causation: the subjective sense of authorship tracks genuine differences in how the brain organises voluntary versus automatic processing. See [voluntary-attention](/concepts/voluntary-attention/) for detailed analysis.
+Willed attention shows frontal theta oscillations and bidirectional frontoparietal coherence—signatures absent in merely instructed behaviour. The phenomenological asymmetry (effortful vs effortless) corresponds to different neural circuits. This supports agent causation: the subjective sense of authorship tracks genuine differences in how the brain organises voluntary versus automatic processing. See [voluntary-attention](/voluntary-attention/) for detailed analysis.
 
 ## Motor Selection
 
@@ -226,7 +226,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of deciding
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The consciousness-dependent capacity to imagine and evaluate alternatives
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis including retrocausal resolution
-- [voluntary-attention](/concepts/voluntary-attention/) — Paradigm case of consciousness selecting neural patterns
+- [voluntary-attention](/voluntary-attention/) — Paradigm case of consciousness selecting neural patterns
 - [motor-selection](/concepts/motor-selection/) — Second selection domain with parallel neural signatures
 - [retrocausality](/concepts/retrocausality/) — How backward causation resolves the timing problem
 - [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Distinguishing physics-based retrocausality from contested presentiment claims

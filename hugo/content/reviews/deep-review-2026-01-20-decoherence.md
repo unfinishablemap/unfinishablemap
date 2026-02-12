@@ -66,7 +66,7 @@ None - the document was well-structured and aligned with site tenets.
 - [neural-quantum-coherence](/concepts/neural-quantum-coherence/) — detailed neural evidence
 - [illusionism](/concepts/illusionism/) — eliminativist challenge
 - [attention-as-interface](/concepts/attention-as-interface/) — Zeno mechanism elaboration
-- [attention](/concepts/attention/) — connection to Stapp's framework
+- [attention](/attention/) — connection to Stapp's framework
 - [many-worlds](/arguments/many-worlds/) — contrasting interpretation
 
 ## Remaining Items

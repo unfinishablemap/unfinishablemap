@@ -58,7 +58,7 @@ The [free-will](/topics/free-will/) article provides the most philosophically ca
 
 The engagement with the luck objection is direct and serious. The response through agent causation—"The agent's exercise of causal power *is* the explanation"—respects the philosophical difficulty while providing a coherent framework.
 
-The phenomenology of effort provides evidential support: "If choices were random fluctuations, there would be no phenomenology of effort—nothing to explain why hard choices feel hard." The connection between attention and selection in [voluntary-attention](/concepts/voluntary-attention/) grounds libertarian free will in empirically tractable neural mechanisms while preserving irreducibility.
+The phenomenology of effort provides evidential support: "If choices were random fluctuations, there would be no phenomenology of effort—nothing to explain why hard choices feel hard." The connection between attention and selection in [voluntary-attention](/voluntary-attention/) grounds libertarian free will in empirically tractable neural mechanisms while preserving irreducibility.
 
 ### The Mysterian (McGinn)
 
@@ -126,7 +126,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 
 #### The Phenomenology of Returning Attention
 
-- **Builds on**: [voluntary-attention](/concepts/voluntary-attention/), [mental-effort](/concepts/mental-effort/), [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)
+- **Builds on**: [voluntary-attention](/voluntary-attention/), [mental-effort](/concepts/mental-effort/), [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)
 - **Would address**: What happens phenomenologically when attention wanders and returns? Meditators report distinctive structure to this process. The "moment of return" has its own phenomenal character—awareness of having been away. This is prime territory for the Map's attention-as-interface hypothesis: the return of attention is precisely where consciousness re-engages with the quantum interface.
 - **Estimated scope**: Short article
 - **Tenet alignment**: Minimal Quantum Interaction (attention as mechanism), Bidirectional Interaction (attention causes neural change)

@@ -183,7 +183,7 @@ When I report that all my experiences belong to one subject, I'm making a claim 
 
 [Bidirectional Interaction](/tenets/#bidirectional-interaction) requires a unified agent who can influence physical outcomes. If synchronic and diachronic unity existed but subject unity didn't—if there were only momentary unified experiences with no one across them—there would be no agent to act. The subject who selects among quantum possibilities must persist across the selection, unifying the moment of choice with its consequences. Unity is a precondition for agency.
 
-The empirical case is [willed attention deployment](/concepts/voluntary-attention/). When you deliberately shift attention, the ~300ms decision window involves a unified conscious state selecting among possible focus targets. The same timing constraints govern motor selection (~280ms). If consciousness were fragmented rather than unified, there would be no integrated agent to deploy attention or initiate action.
+The empirical case is [willed attention deployment](/voluntary-attention/). When you deliberately shift attention, the ~300ms decision window involves a unified conscious state selecting among possible focus targets. The same timing constraints govern motor selection (~280ms). If consciousness were fragmented rather than unified, there would be no integrated agent to deploy attention or initiate action.
 
 ### Occam's Razor Has Limits
 
@@ -215,7 +215,7 @@ The unity of consciousness illustrates why simplicity is not a reliable guide. T
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Access unity through global broadcast
 
 ### Broader Context
-- [voluntary-attention](/concepts/voluntary-attention/) — Unified conscious control in attention deployment
+- [voluntary-attention](/voluntary-attention/) — Unified conscious control in attention deployment
 - [personal-identity](/topics/personal-identity/) — How subjects persist across time
 - [access-consciousness](/concepts/access-consciousness/) — Functional integration vs phenomenal unity
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — What experience is like

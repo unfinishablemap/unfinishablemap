@@ -225,7 +225,7 @@ AST illustrates a recurring pattern in consciousness science: explaining the *fu
 
 ## Further Reading
 
-- [attention](/concepts/attention/) — The attention-consciousness relationship and dissociation evidence
+- [attention](/attention/) — The attention-consciousness relationship and dissociation evidence
 - [attention-as-interface](/concepts/attention-as-interface/) — the Map's alternative: attention as how consciousness interfaces with matter
 - [illusionism](/concepts/illusionism/) — The philosophical framework AST instantiates
 - [functionalism](/arguments/functionalism/) — The view that consciousness is functional role

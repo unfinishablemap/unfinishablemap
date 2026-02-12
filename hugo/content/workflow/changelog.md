@@ -18,6 +18,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-12 21:34 UTC - coalesce
+- **Status**: Success
+- **Sources**: [attention](/attention/), [voluntary-attention](/voluntary-attention/), [attention-motor-quantum-interface](/attention-motor-quantum-interface/)
+- **Target**: [attention-as-interface](/concepts/attention-as-interface/)
+- **Archived**: archive/concepts/attention.md, archive/concepts/voluntary-attention.md, archive/concepts/attention-motor-quantum-interface.md
+- **References to review**: ~79 files across concepts/ and topics/ reference archived slugs (archive pages will serve these URLs)
+
 ## 2026-02-12 20:34 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Social Construction of Self vs Phenomenal Self

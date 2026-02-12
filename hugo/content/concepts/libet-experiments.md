@@ -197,7 +197,7 @@ The Map's position is that current evidence supports selection over randomness, 
 
 - [free-will](/topics/free-will/) — The broader philosophical context
 - [motor-selection](/concepts/motor-selection/) — Extending the selection framework from attention to motor control
-- [voluntary-attention](/concepts/voluntary-attention/) — The willed/instructed distinction and stochastic pre-state challenge
+- [voluntary-attention](/voluntary-attention/) — The willed/instructed distinction and stochastic pre-state challenge
 - [luck-objection](/concepts/luck-objection/) — Why indeterminism doesn't reduce selection to randomness
 - [retrocausality](/concepts/retrocausality/) — How backward causation resolves the timing problem
 - [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Why physics-based retrocausality differs from contested presentiment claims

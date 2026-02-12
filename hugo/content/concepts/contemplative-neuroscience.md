@@ -93,13 +93,13 @@ DMN reduction provides neural signature for the experiential shift from discursi
 
 Focused attention meditation implicates default-mode, control (dlPFC, lateral parietal), and salience (ACC, insula) networks.[^dhond] The Shamatha Project found intensive practice improved perceptual discrimination, sustained attention, response inhibition, and reduced mind-wandering.[^shamatha]
 
-These are trainable skills. The fact that deliberate practice enhances attentional capacities demonstrates [attention](/concepts/attention/) isn't purely bottom-up. [Voluntary-attention-control](/voluntary-attention-control/) can be systematically developed through conscious training.
+These are trainable skills. The fact that deliberate practice enhances attentional capacities demonstrates [attention](/attention/) isn't purely bottom-up. [Voluntary-attention-control](/voluntary-attention-control/) can be systematically developed through conscious training.
 
 Connection to [free-will](/topics/free-will/): If [phenomenal-consciousness](/concepts/phenomenal-consciousness/) were epiphenomenal, how would willed effort produce measurable improvements in attentional stability? The training paradigm assumes consciousness can causally influence its own processing.
 
 ### The Meditation Modes Distinction
 
-[Two distinct modes](/concepts/meditation-and-consciousness-modes/) emerge from research: focused attention (active, effortful concentration) and open monitoring (receptive, non-directive awareness). Each has distinct phenomenology and distinct neural implementation. The meditator can shift between modes through conscious intention—this shift has neural signature, demonstrating [voluntary control](/concepts/voluntary-attention/).
+[Two distinct modes](/concepts/meditation-and-consciousness-modes/) emerge from research: focused attention (active, effortful concentration) and open monitoring (receptive, non-directive awareness). Each has distinct phenomenology and distinct neural implementation. The meditator can shift between modes through conscious intention—this shift has neural signature, demonstrating [voluntary control](/voluntary-attention/).
 
 ### Compassion and Emotional Neuroplasticity
 
@@ -123,7 +123,7 @@ Brain activity continues during cessation, reorganized but not silent. The duali
 
 Contemplative neuroscience provides empirical evidence against [epiphenomenalism](/arguments/epiphenomenalism/):
 
-1. Meditation involves conscious intention to direct [attention](/concepts/attention/) and cultivate specific mental states
+1. Meditation involves conscious intention to direct [attention](/attention/) and cultivate specific mental states
 2. Practice produces measurable neural changes
 3. These changes predict behavior (improved attention, prosocial action)
 4. The intervention is phenomenological—conscious practice, not merely physical motion
@@ -227,7 +227,7 @@ The more sophisticated our phenomenological categories and neural correlates bec
 
 [^demir]: Demir, U., Yang, W. F. Z., & Sacchet, M. D. (2025). "Advanced concentrative absorption meditation reorganizes functional connectivity gradients of the brain." Cerebral Cortex, 35(4), bhaf079.
 
-[^voluntary]: See [voluntary-attention](/concepts/voluntary-attention/) for detailed treatment of willed vs. instructed attention neural signatures.
+[^voluntary]: See [voluntary-attention](/voluntary-attention/) for detailed treatment of willed vs. instructed attention neural signatures.
 
 [^sharma]: Sharma, H. (2015). "Mindfulness-based stress reduction: a non-pharmacological approach for chronic illnesses." PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC3336928/
 

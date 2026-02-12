@@ -167,10 +167,10 @@ The taxonomy tightens the Map's framework by replacing vague "selection" languag
 - [measurement-problem](/concepts/measurement-problem/) — Why outcomes need explanation
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — What selection actually selects
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — How Born probabilities relate to consciousness
-- [attention](/concepts/attention/) — The phenomenal variable most tied to coupling
+- [attention](/attention/) — The phenomenal variable most tied to coupling
 - [mental-effort](/concepts/mental-effort/) — Effort as timing/observation rate control
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention functions as the mind-matter interface
-- [voluntary-attention](/concepts/voluntary-attention/) — Neural signatures distinguishing willed from instructed attention
+- [voluntary-attention](/voluntary-attention/) — Neural signatures distinguishing willed from instructed attention
 - [agent-causation](/concepts/agent-causation/) — The free will implications of conscious selection
 
 ## References

@@ -71,7 +71,7 @@ Six supportive philosopher personas identified:
 ### Cross-links Added
 
 - [measurement-problem](/concepts/measurement-problem/)
-- [voluntary-attention](/concepts/voluntary-attention/)
+- [voluntary-attention](/voluntary-attention/)
 - [libet-experiments](/concepts/libet-experiments/)
 - [pairing-problem](/concepts/pairing-problem/) (multiple instances)
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)

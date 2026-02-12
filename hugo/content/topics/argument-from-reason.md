@@ -92,7 +92,7 @@ Consider: I could survive by fleeing predators because I truly believe "that's a
 
 Plantinga concludes that the combination of naturalism and evolution gives us no reason to trust our cognitive faculties. If our faculties are products of blind selection for adaptive behavior, their reliability at producing *true* beliefs (especially about abstract matters like philosophy) is dubious. This provides a defeater for all beliefs produced by those faculties—including naturalism itself.
 
-The Map's framework addresses this challenge: if consciousness involves selection guided by phenomenal awareness of logical relationships, then rationality isn't merely a product of blind evolution. Consciousness provides a truth-tracking mechanism that evolution alone cannot. The [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) offers one candidate for how this might work—[attention](/concepts/voluntary-attention/) selects among neural states in ways sensitive to normative constraints—though the argument from reason stands independently of any particular mechanism.
+The Map's framework addresses this challenge: if consciousness involves selection guided by phenomenal awareness of logical relationships, then rationality isn't merely a product of blind evolution. Consciousness provides a truth-tracking mechanism that evolution alone cannot. The [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) offers one candidate for how this might work—[attention](/voluntary-attention/) selects among neural states in ways sensitive to normative constraints—though the argument from reason stands independently of any particular mechanism.
 
 ## Anscombe's Critique: Causes and Reasons Are Compatible
 
@@ -126,7 +126,7 @@ The argument from reason provides decisive support for three of the Map's five t
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Physicalism appears simpler—one ontological category instead of two. But this apparent simplicity is self-stultifying. A metaphysics that cannot account for rational justification cannot be *rationally accepted*. The simplicity is illusory when it eliminates the conditions for rational belief. This exemplifies how Occam's Razor misleads when knowledge is incomplete: the "simpler" theory undermines the very reasoning that might justify it.
 
-The argument doesn't directly support Minimal Quantum Interaction or No Many Worlds, but it complements the Map's framework by establishing that consciousness must have causal efficacy—which the [quantum interface](/concepts/stapp-quantum-mind/) explains *how* that efficacy operates without violating conservation laws. The [attention mechanism](/concepts/voluntary-attention/) provides the phenomenological correlate: what we experience as intellectual effort—focusing on an argument, tracing implications, evaluating evidence—may be the felt character of consciousness selecting among neural states in ways responsive to normative constraints.
+The argument doesn't directly support Minimal Quantum Interaction or No Many Worlds, but it complements the Map's framework by establishing that consciousness must have causal efficacy—which the [quantum interface](/concepts/stapp-quantum-mind/) explains *how* that efficacy operates without violating conservation laws. The [attention mechanism](/voluntary-attention/) provides the phenomenological correlate: what we experience as intellectual effort—focusing on an argument, tracing implications, evaluating evidence—may be the felt character of consciousness selecting among neural states in ways responsive to normative constraints.
 
 ## Objections and Responses
 
@@ -154,7 +154,7 @@ The physicalist might respond: "What's the difference? If the outputs match corr
 - [free-will](/topics/free-will/) - Rational choice as paradigm case of consciousness selecting among neural patterns
 - [interactionist-dualism](/concepts/interactionist-dualism/) - The Map's framework for mind-body causation
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) - A candidate mechanism for consciousness influencing neural states
-- [voluntary-attention](/concepts/voluntary-attention/) - The phenomenology of intellectual effort and its role in reasoning
+- [voluntary-attention](/voluntary-attention/) - The phenomenology of intellectual effort and its role in reasoning
 - [mysterianism](/concepts/mysterianism/) - Whether the mechanism of normative awareness may exceed our comprehension
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) - Nagel's analysis of how subjectivity enables objectivity
 - [introspection](/concepts/introspection/) - The reliability of self-knowledge and its connection to self-stultification
