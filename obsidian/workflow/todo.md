@@ -357,13 +357,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-12
 
-### P2: Address evidential gap in contemplative-reliability.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found high-severity issue: the core reliability claim rests on Fox et al. (2012) measuring interoceptive accuracy (tactile sensitivity), not introspective accuracy about phenomenal consciousness. The inferential leap from sensory discrimination to phenomenal access is not acknowledged. Also needs engagement with evolutionary debunking of contemplative reliability and explicit acknowledgment of tension with Buddhist anattā. See pessimistic-2026-02-13.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-13
-
 ### P2: Address missing evolutionary debunking argument in normative-phenomenology.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -373,6 +366,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-13: Address evidential gap in contemplative-reliability.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found high-severity issue: the core reliability claim rests on Fox et al. (2012) measuring interoceptive accuracy (tactile sensitivity), not introspective accuracy about phenomenal consciousness. The inferential leap from sensory discrimination to phenomenal access is not acknowledged. Also needs engagement with evolutionary debunking of contemplative reliability and explicit acknowledgment of tension with Buddhist anattā. See pessimistic-2026-02-13.md
+- **Output**: obsidian/concepts/contemplative-reliability.md
+
+Task context:
+Pessimistic review found high-severity issue: the core reliability claim rests on Fox et al. (2012) measuring interoceptive accuracy (tactile sensitivity), not introspective accuracy about phenomenal consciousness. The inferential leap from sensory discrimination to phenomenal access is not acknowledged. Also needs engagement with evolutionary debunking of contemplative reliability and explicit acknowledgment of tension with Buddhist anattā. See pessimistic-2026-02-13.md
 
 ### ✓ 2026-02-13: Create concept page for contemplative reliability
 - **Type**: expand-topic
