@@ -343,6 +343,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-12
 
+### P3: Write article on consciousness and aesthetic creation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-13. The Map treats aesthetic *experience* well but not aesthetic *creation*. How does consciousness's selection function manifest in artistic production? The interface hypothesis predicts specific differences between computational art generation and conscious artistic creation. Builds on aesthetic-dimension-of-consciousness.md, consciousness-and-creativity.md, distinctiveness-of-human-creativity.md. See optimistic-2026-02-13.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-13
+
+### P3: Write topic on measurement problem as hard problem parallel
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-13. The deep structural parallel between why there is a definite measurement outcome and why there is something it is like to be conscious. The Map references this connection but no single article develops the parallel fully as its central thesis. Central to tenets 1-4. See optimistic-2026-02-13.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-13
+
+### P3: Write article on childhood development and the interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-13. How the consciousness-matter interface develops in childhood. Piaget's stages, theory of mind development, and metacognition emergence offer developmental evidence about how consciousness increasingly engages with neural systems. The Map lacks developmental perspectives. Builds on consciousness-in-simple-organisms.md, comparative-consciousness-and-interface-differences.md, consciousness-and-intelligence.md. See optimistic-2026-02-13.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-13
+
+### P3: Create concept page for constructive memory
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-13. Schacter and Addis's constructive episodic simulation hypothesis is referenced in phenomenology-of-memory-and-the-self.md but has no concept page. Given the Map's interest in memory phenomenology, this deserves treatment connecting memory reconstruction to the past-self-void and the hard problem. See optimistic-2026-02-13.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-13
+
 ## Completed Tasks
 
 
