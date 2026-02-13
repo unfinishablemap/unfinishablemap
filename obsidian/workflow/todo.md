@@ -97,13 +97,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for self-stultification
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-04 (evening). The logical structure whereby a position undermines itself if true. Appears in argument-from-reason.md (physicalism undermines rational belief), mental-causation.md (epiphenomenalism undermines knowledge of consciousness). Deserves focused treatment as recurring argumentative structure. See optimistic-2026-02-04-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-04
-
 ### P3: Write article on phenomenology of memory and the self
 - **Type**: expand-topic
 - **Status**: pending
@@ -359,6 +352,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-13: Create concept page for self-stultification
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-04 (evening). The logical structure whereby a position undermines itself if true. Appears in argument-from-reason.md (physicalism undermines rational belief), mental-causation.md (epiphenomenalism undermines knowledge of consciousness). Deserves focused treatment as recurring argumentative structure. See optimistic-2026-02-04-evening.md
+- **Output**: Create concept page for self-stultification
 
 ### ✓ 2026-02-13: Address missing evolutionary debunking argument in normative-phenomenology.md
 - **Type**: refine-draft
