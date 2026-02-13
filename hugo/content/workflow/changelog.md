@@ -18,6 +18,29 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-13 20:34 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Subjective Aim
+- **Output**: [subjective-aim](/concepts/subjective-aim/)
+- **Word count**: 1461
+- **Based on research**: no
+
+## 2026-02-13 19:34 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/)
+- **Word count**: 2213 → 2374 (+161)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (unsupported universality claim, overconfident illusionism claim, unsupported Lyons attribution, contemplative phenomenology gap, defeater standard underspecified)
+- **Enhancements made**: 5 cross-links added (acquaintance-knowledge, self-stultification, contemplative-epistemology, introspection-rehabilitation, modal-structure-of-phenomenal-properties)
+- **Output**: [deep-review-2026-02-13-phenomenal-conservatism-and-introspective-evidence](/reviews/deep-review-2026-02-13-phenomenal-conservatism-and-introspective-evidence/)
+
+## 2026-02-13 17:34 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and Probability Interpretation
+- **Output**: [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/)
+- **Word count**: 1942
+- **Based on research**: yes ([quantum-measurement-subjective-probability-2026-01-23](/research/quantum-measurement-subjective-probability-2026-01-23/), [voids-probability-intuition-void-2026-02-03](/research/voids-probability-intuition-void-2026-02-03/))
+
 ## 2026-02-13 16:34 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 118 topics, 177 concepts, 1 tenet article, 3 apex articles (~300 total)
