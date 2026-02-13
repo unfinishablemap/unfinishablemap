@@ -97,13 +97,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for normative phenomenology
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-04 (evening). The study of what it's like to experience reasons, values, and oughts. Currently scattered across argument-from-reason.md and phenomenal-value-realism.md but deserves consolidation. Central to the Map's case that consciousness grounds normativity. See optimistic-2026-02-04-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-04
-
 ### P3: Create concept page for contemplative reliability
 - **Type**: expand-topic
 - **Status**: pending
@@ -373,6 +366,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-13: Create concept page for normative phenomenology
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-04 (evening). The study of what it's like to experience reasons, values, and oughts. Currently scattered across argument-from-reason.md and phenomenal-value-realism.md but deserves consolidation. Central to the Map's case that consciousness grounds normativity. See optimistic-2026-02-04-evening.md
+- **Output**: Create concept page for normative phenomenology
 
 ### ✓ 2026-02-13: Write article on consciousness and strong emergence
 - **Type**: expand-topic
