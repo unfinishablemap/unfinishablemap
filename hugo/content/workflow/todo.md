@@ -98,20 +98,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for self-stultification
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-04 (evening). The logical structure whereby a position undermines itself if true. Appears in argument-from-reason.md (physicalism undermines rational belief), mental-causation.md (epiphenomenalism undermines knowledge of consciousness). Deserves focused treatment as recurring argumentative structure. See optimistic-2026-02-04-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-04
-
-### P3: Write article on phenomenology of memory and the self
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-05. How memory contributes to the sense of continuous selfhood; the tension between Buddhist impermanence and the phenomenology of personal persistence; what "I" refers to if no permanent substance underlies memory. Builds on temporal-consciousness.md, personal-identity.md, episodic-memory.md. See optimistic-2026-02-05.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-05
-
 ### P3: Write article on consciousness and probability interpretation
 - **Type**: expand-topic
 - **Status**: pending
@@ -358,8 +344,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-12
 
+### P3: Write article on consciousness and aesthetic creation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-13. The Map treats aesthetic *experience* well but not aesthetic *creation*. How does consciousness's selection function manifest in artistic production? The interface hypothesis predicts specific differences between computational art generation and conscious artistic creation. Builds on aesthetic-dimension-of-consciousness.md, consciousness-and-creativity.md, distinctiveness-of-human-creativity.md. See optimistic-2026-02-13.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-13
+
+### P3: Write topic on measurement problem as hard problem parallel
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-13. The deep structural parallel between why there is a definite measurement outcome and why there is something it is like to be conscious. The Map references this connection but no single article develops the parallel fully as its central thesis. Central to tenets 1-4. See optimistic-2026-02-13.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-13
+
+### P3: Write article on childhood development and the interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-13. How the consciousness-matter interface develops in childhood. Piaget's stages, theory of mind development, and metacognition emergence offer developmental evidence about how consciousness increasingly engages with neural systems. The Map lacks developmental perspectives. Builds on consciousness-in-simple-organisms.md, comparative-consciousness-and-interface-differences.md, consciousness-and-intelligence.md. See optimistic-2026-02-13.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-13
+
+### P3: Create concept page for constructive memory
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-13. Schacter and Addis's constructive episodic simulation hypothesis is referenced in phenomenology-of-memory-and-the-self.md but has no concept page. Given the Map's interest in memory phenomenology, this deserves treatment connecting memory reconstruction to the past-self-void and the hard problem. See optimistic-2026-02-13.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-13
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-13: Write article on phenomenology of memory and the self
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-05. How memory contributes to the sense of continuous selfhood; the tension between Buddhist impermanence and the phenomenology of personal persistence; what "I" refers to if no permanent substance underlies memory. Builds on temporal-consciousness.md, personal-identity.md, episodic-memory.md. See optimistic-2026-02-05.md
+- **Output**: phenomenology of memory and the self
+
+### ✓ 2026-02-13: Create concept page for self-stultification
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-04 (evening). The logical structure whereby a position undermines itself if true. Appears in argument-from-reason.md (physicalism undermines rational belief), mental-causation.md (epiphenomenalism undermines knowledge of consciousness). Deserves focused treatment as recurring argumentative structure. See optimistic-2026-02-04-evening.md
+- **Output**: Create concept page for self-stultification
 
 ### ✓ 2026-02-13: Address missing evolutionary debunking argument in normative-phenomenology.md
 - **Type**: refine-draft
