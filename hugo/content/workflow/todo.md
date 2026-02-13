@@ -98,27 +98,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for phenomenal depth
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-04. The sense that experience has different "depths"—surface attention vs absorbed engagement. Referenced in contemplative articles but not consolidated. Meditators report that meaning correlates with depth of conscious engagement, not merely presence of consciousness. Builds on witness-consciousness.md, meditation-and-consciousness-modes.md, meaning-of-life.md. See optimistic-2026-02-04.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-04
-
-### P3: Create concept page for temporal unity
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-04. Unity across time (diachronic unity) deserves focused treatment separate from synchronic binding. The specious present, retention-protention structure, and what binds moments into continuous experience. Builds on temporal-consciousness.md, varieties-of-unity.md, unity-of-consciousness.md. See optimistic-2026-02-04.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-04
-
-### P3: Write article on phenomenology of normative properties
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-04 (evening). What is it *like* to grasp a reason as compelling? How does the phenomenology of "seeing" that a conclusion follows differ from mere association? The Map argues normative properties are irreducible; this develops the phenomenological dimension of that claim. Builds on argument-from-reason.md, phenomenal-value-realism.md, consciousness-value-connection.md. See optimistic-2026-02-04-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-04
-
 ### P3: Write article on contemplative methods as philosophical methodology
 - **Type**: expand-topic
 - **Status**: pending
@@ -409,6 +388,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-13: Write article on phenomenology of normative properties
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-04 (evening). What is it *like* to grasp a reason as compelling? How does the phenomenology of "seeing" that a conclusion follows differ from mere association? The Map argues normative properties are irreducible; this develops the phenomenological dimension of that claim. Builds on argument-from-reason.md, phenomenal-value-realism.md, consciousness-value-connection.md. See optimistic-2026-02-04-evening.md
+- **Output**: phenomenology of normative properties
+
+### ✓ 2026-02-13: Create concept page for temporal unity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-04. Unity across time (diachronic unity) deserves focused treatment separate from synchronic binding. The specious present, retention-protention structure, and what binds moments into continuous experience. Builds on temporal-consciousness.md, varieties-of-unity.md, unity-of-consciousness.md. See optimistic-2026-02-04.md
+- **Output**: Create concept page for temporal unity
+
+### ✓ 2026-02-13: Create concept page for phenomenal depth
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-04. The sense that experience has different "depths"—surface attention vs absorbed engagement. Referenced in contemplative articles but not consolidated. Meditators report that meaning correlates with depth of conscious engagement, not merely presence of consciousness. Builds on witness-consciousness.md, meditation-and-consciousness-modes.md, meaning-of-life.md. See optimistic-2026-02-04.md
+- **Output**: Create concept page for phenomenal depth
 
 ### ✓ 2026-02-12: Create concept page for methodological pluralism
 - **Type**: expand-topic
