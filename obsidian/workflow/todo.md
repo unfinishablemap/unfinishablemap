@@ -103,13 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for spontaneous intentional action
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-05. The 2025 meta-analysis on conscious vs unconscious processing introduces this term. Could be developed into a concept page supporting the Map's view that consciousness initiates action. See optimistic-2026-02-05.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-05
-
 ### P3: Create concept page for intentionality
 - **Type**: expand-topic
 - **Status**: pending
@@ -350,6 +343,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-13: Create concept page for spontaneous intentional action
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-05. The 2025 meta-analysis on conscious vs unconscious processing introduces this term. Could be developed into a concept page supporting the Map's view that consciousness initiates action. See optimistic-2026-02-05.md
+- **Output**: Create concept page for spontaneous intentional action
 
 ### ✓ 2026-02-13: Create concept page for temporal thickness / specious present
 - **Type**: expand-topic
