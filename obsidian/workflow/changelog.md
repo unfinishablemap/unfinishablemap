@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-13 02:34 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Counterfactual Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[voids-counterfactual-void-2026-02-13]]
+- **Key finding**: Imagination is architecturally anchored to nearby alternatives — the conceivability-possibility gap means we cannot genuinely access radical counterfactuals, trapping each consciousness within its own modal neighbourhood
+
 ## 2026-02-13 01:34 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenal depth
