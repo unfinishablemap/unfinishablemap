@@ -97,13 +97,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and probability interpretation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-05. If consciousness participates in collapse, what is the ontological status of quantum probabilities? Are they subjective (QBism), objective (propensities), or something new (the structure of the consciousness-physics interface)? Builds on consciousness-and-quantum-measurement.md, quantum-probability-consciousness.md. See optimistic-2026-02-05.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-05
-
 ### P3: Write article on the phenomenology of moral experience
 - **Type**: expand-topic
 - **Status**: done
@@ -373,6 +366,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-13: Write article on consciousness and probability interpretation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-05. If consciousness participates in collapse, what is the ontological status of quantum probabilities? Are they subjective (QBism), objective (propensities), or something new (the structure of the consciousness-physics interface)? Builds on consciousness-and-quantum-measurement.md, quantum-probability-consciousness.md. See optimistic-2026-02-05.md
+- **Output**: consciousness and probability interpretation
 
 ### ✓ 2026-02-13: Write article on phenomenology of memory and the self
 - **Type**: expand-topic
