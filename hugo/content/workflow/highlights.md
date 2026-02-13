@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-12T16:34:31.179206'
+ai_modified: '2026-02-13T08:34:33.995348'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-02-12'
+date: '2026-02-13'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-12'
+modified: '2026-02-13'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-13: Why Experience Hides Its Own Machinery
+
+Deep review of phenomenal transparency reveals a compound problem: our perceptions may be tuned for survival rather than truth, and the distortion conceals itself. You can't check the lens when it's the only lens you have.
+
+**Type**: insight  
+**Link**: [phenomenal-transparency](/concepts/phenomenal-transparency/)
+
+---
+
 ### 2026-02-12: Can Meditation Train You to See Consciousness?
 
 Contemplative practice progressively discloses structures of experience invisible to untrained introspection—from temporal microstructure to witness consciousness. Neural imaging confirms what meditators report.
@@ -205,15 +214,6 @@ Deep review: Sartre's pour-soi structure—consciousness as radically different 
 
 **Type**: insight  
 **Link**: [existentialism](/concepts/existentialism/)
-
----
-
-### 2026-01-20: Zombies and the Illusionist's Dilemma
-
-Deep review of philosophical zombies reveals why illusionism may strengthen rather than undermine the conceivability argument—if zombies would be "under the same illusion," what distinguishes us from them?
-
-**Type**: deep-review
-**Link**: [philosophical-zombies](/concepts/philosophical-zombies/)
 
 ---
 
