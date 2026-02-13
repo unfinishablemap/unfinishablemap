@@ -26,6 +26,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review:
+archived: true
+archived_date: 2026-02-13T21:34:00+00:00
+superseded_by: "/concepts/indexical-knowledge-and-identity/"
+archive_reason: "Coalesced into Indexical Knowledge and Identity"
+original_path: "/concepts/indexical-knowledge/"
 ---
 
 Indexical knowledge is knowledge that depends essentially on the knower's perspective—knowledge expressible only with terms like "I," "here," "now," and "this" whose reference shifts with context. Knowing that *I am in pain* differs from knowing that *a person at coordinates X is in a pain-state at time T*, even when both statements describe the same situation. The indexical version captures something the impersonal version misses: what it is to be the subject of that pain. This irreducibility has direct consequences for debates about [[phenomenal-consciousness]], the [[knowledge-argument]], and the [[vertiginous-question]].

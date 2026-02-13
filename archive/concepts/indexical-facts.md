@@ -24,6 +24,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated:
 last_deep_review: 2026-01-28T15:30:00+00:00
+archived: true
+archived_date: 2026-02-13T21:34:00+00:00
+superseded_by: "/concepts/indexical-knowledge-and-identity/"
+archive_reason: "Coalesced into Indexical Knowledge and Identity"
+original_path: "/concepts/indexical-facts/"
 ---
 
 Indexical facts are facts that can only be stated using indexical expressions—words like "I," "here," "now," "this," and "that" whose reference depends on the context of use. The fact that *I* am this person, that *this* is happening *now*, that the pain is *here*—these resist translation into impersonal, context-free language. Indexical facts pose deep challenges for physicalism and feature centrally in arguments about consciousness, personal identity, and the [[vertiginous-question|vertiginous question]].

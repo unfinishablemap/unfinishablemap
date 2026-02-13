@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-13 21:34 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/indexical-facts]], [[concepts/indexical-knowledge]], [[concepts/self-locating-beliefs]]
+- **Target**: [[concepts/indexical-knowledge-and-identity]]
+- **Archived**: [[archive/concepts/indexical-facts]], [[archive/concepts/indexical-knowledge]], [[archive/concepts/self-locating-beliefs]]
+- **References to review**: 5 active content files (haecceity, visual-consciousness, acquaintance-knowledge, phenomenology-of-belief-revision, indexical-identity-quantum-measurement)
+
 ## 2026-02-13 20:34 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Subjective Aim

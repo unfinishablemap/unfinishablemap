@@ -21,6 +21,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
 last_deep_review: 2026-02-02T12:30:00+00:00
+archived: true
+archived_date: 2026-02-13T21:34:00+00:00
+superseded_by: "/concepts/indexical-knowledge-and-identity/"
+archive_reason: "Coalesced into Indexical Knowledge and Identity"
+original_path: "/concepts/self-locating-beliefs/"
 ---
 
 Self-locating beliefs are beliefs about where or who you are in the world, as opposed to beliefs about what the world is like. You can know every impersonal fact about the universe—every particle's position, every causal relation, every event's timing—and still lack self-locating knowledge. This raises a crucial question: does self-locating knowledge merely represent ordinary facts in a special way, or does it track genuinely irreducible [[indexical-facts|indexical facts]]? The answer matters for consciousness: if indexical facts are ontologically real—not just a mode of knowing impersonal facts—then reality includes more than third-person description can capture.
