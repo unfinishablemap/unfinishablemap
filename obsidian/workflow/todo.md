@@ -97,13 +97,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for temporal unity
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-04. Unity across time (diachronic unity) deserves focused treatment separate from synchronic binding. The specious present, retention-protention structure, and what binds moments into continuous experience. Builds on temporal-consciousness.md, varieties-of-unity.md, unity-of-consciousness.md. See optimistic-2026-02-04.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-04
-
 ### P3: Write article on phenomenology of normative properties
 - **Type**: expand-topic
 - **Status**: pending
@@ -401,6 +394,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-13: Create concept page for temporal unity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-04. Unity across time (diachronic unity) deserves focused treatment separate from synchronic binding. The specious present, retention-protention structure, and what binds moments into continuous experience. Builds on temporal-consciousness.md, varieties-of-unity.md, unity-of-consciousness.md. See optimistic-2026-02-04.md
+- **Output**: Create concept page for temporal unity
 
 ### ✓ 2026-02-13: Create concept page for phenomenal depth
 - **Type**: expand-topic
