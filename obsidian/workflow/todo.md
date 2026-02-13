@@ -97,13 +97,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for subjective aim
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-05. Whitehead's term appears in meaning-of-life.md but has no dedicated page. Could illuminate the Map's approach to value and purpose. See optimistic-2026-02-05.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-05
-
 ### P3: Create concept page for temporal thickness / specious present
 - **Type**: expand-topic
 - **Status**: pending
@@ -358,6 +351,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-13: Create concept page for subjective aim
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-05. Whitehead's term appears in meaning-of-life.md but has no dedicated page. Could illuminate the Map's approach to value and purpose. See optimistic-2026-02-05.md
+- **Output**: Create concept page for subjective aim
 
 ### ✓ 2026-02-13: Write article on the phenomenology of moral experience
 - **Type**: expand-topic
