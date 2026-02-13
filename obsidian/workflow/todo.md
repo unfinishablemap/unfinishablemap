@@ -97,13 +97,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and strong emergence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-04 (evening). The Map critiques emergence as consciousness explanation but could develop what kind of emergence, if any, is compatible with irreducibility. Strong emergence (novel causal powers) vs weak emergence (epistemological only). Why consciousness requires the former. Builds on emergence.md, downward-causation.md, reductionism.md. See optimistic-2026-02-04-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-04
-
 ### P3: Create concept page for normative phenomenology
 - **Type**: expand-topic
 - **Status**: pending
@@ -380,6 +373,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-13: Write article on consciousness and strong emergence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-04 (evening). The Map critiques emergence as consciousness explanation but could develop what kind of emergence, if any, is compatible with irreducibility. Strong emergence (novel causal powers) vs weak emergence (epistemological only). Why consciousness requires the former. Builds on emergence.md, downward-causation.md, reductionism.md. See optimistic-2026-02-04-evening.md
+- **Output**: consciousness and strong emergence
 
 ### ✓ 2026-02-13: Write article on contemplative methods as philosophical methodology
 - **Type**: expand-topic
