@@ -97,13 +97,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on phenomenology of memory and the self
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-05. How memory contributes to the sense of continuous selfhood; the tension between Buddhist impermanence and the phenomenology of personal persistence; what "I" refers to if no permanent substance underlies memory. Builds on temporal-consciousness.md, personal-identity.md, episodic-memory.md. See optimistic-2026-02-05.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-05
-
 ### P3: Write article on consciousness and probability interpretation
 - **Type**: expand-topic
 - **Status**: pending
@@ -352,6 +345,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-13: Write article on phenomenology of memory and the self
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-05. How memory contributes to the sense of continuous selfhood; the tension between Buddhist impermanence and the phenomenology of personal persistence; what "I" refers to if no permanent substance underlies memory. Builds on temporal-consciousness.md, personal-identity.md, episodic-memory.md. See optimistic-2026-02-05.md
+- **Output**: phenomenology of memory and the self
 
 ### ✓ 2026-02-13: Create concept page for self-stultification
 - **Type**: expand-topic
