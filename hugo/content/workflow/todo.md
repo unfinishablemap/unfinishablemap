@@ -98,15 +98,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for contemplative reliability
-- **Type**: expand-topic
-- **Status**: complete
-- **Notes**: Suggested by optimistic review 2026-02-04 (evening). Criteria for when contemplative reports are epistemically trustworthy. Referenced in several articles but not systematically treated. Foundational for treating first-person evidence as genuine philosophical data. See optimistic-2026-02-04-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-04
-- **Output**: [contemplative-reliability](/concepts/contemplative-reliability/)
-- **Completed**: 2026-02-13
-
 ### P3: Create concept page for self-stultification
 - **Type**: expand-topic
 - **Status**: pending
@@ -367,8 +358,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-12
 
+### P2: Address missing evolutionary debunking argument in normative-phenomenology.md
+- **Type**: refine-draft
+- **Status**: done
+- **Notes**: Pessimistic review found high-severity issue: the article claims normative properties present themselves as independent of preferences but never engages the evolutionary debunking argument — that evolution would produce exactly this phenomenology of objectivity regardless of whether normativity is objective. Also needs citations for cross-cultural convergence claim (Buddhist dukkha / Confucian ren / Western obligation). See pessimistic-2026-02-13.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-13
+- **Completed**: 2026-02-13
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-13: Address evidential gap in contemplative-reliability.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found high-severity issue: the core reliability claim rests on Fox et al. (2012) measuring interoceptive accuracy (tactile sensitivity), not introspective accuracy about phenomenal consciousness. The inferential leap from sensory discrimination to phenomenal access is not acknowledged. Also needs engagement with evolutionary debunking of contemplative reliability and explicit acknowledgment of tension with Buddhist anattā. See pessimistic-2026-02-13.md
+- **Output**: obsidian/concepts/contemplative-reliability.md
+
+Task context:
+Pessimistic review found high-severity issue: the core reliability claim rests on Fox et al. (2012) measuring interoceptive accuracy (tactile sensitivity), not introspective accuracy about phenomenal consciousness. The inferential leap from sensory discrimination to phenomenal access is not acknowledged. Also needs engagement with evolutionary debunking of contemplative reliability and explicit acknowledgment of tension with Buddhist anattā. See pessimistic-2026-02-13.md
+
+### ✓ 2026-02-13: Create concept page for contemplative reliability
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-04 (evening). Criteria for when contemplative reports are epistemically trustworthy. Referenced in several articles but not systematically treated. Foundational for treating first-person evidence as genuine philosophical data. See optimistic-2026-02-04-evening.md
+- **Output**: Create concept page for contemplative reliability
 
 ### ✓ 2026-02-13: Create concept page for normative phenomenology
 - **Type**: expand-topic

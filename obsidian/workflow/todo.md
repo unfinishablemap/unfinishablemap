@@ -357,15 +357,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-12
 
-### P2: Address missing evolutionary debunking argument in normative-phenomenology.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found high-severity issue: the article claims normative properties present themselves as independent of preferences but never engages the evolutionary debunking argument — that evolution would produce exactly this phenomenology of objectivity regardless of whether normativity is objective. Also needs citations for cross-cultural convergence claim (Buddhist dukkha / Confucian ren / Western obligation). See pessimistic-2026-02-13.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-13
-
 ## Completed Tasks
 
+
+### ✓ 2026-02-13: Address missing evolutionary debunking argument in normative-phenomenology.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found high-severity issue: the article claims normative properties present themselves as independent of preferences but never engages the evolutionary debunking argument — that evolution would produce exactly this phenomenology of objectivity regardless of whether normativity is objective. Also needs citations for cross-cultural convergence claim (Buddhist dukkha / Confucian ren / Western obligation). See pessimistic-2026-02-13.md
+- **Output**: obsidian/concepts/normative-phenomenology.md
+
+Task context:
+Pessimistic review found high-severity issue: the article claims normative properties present themselves as independent of preferences but never engages the evolutionary debunking argument — that evolution would produce exactly this phenomenology of objectivity regardless of whether normativity is objective. Also needs citations for cross-cultural convergence claim (Buddhist dukkha / Confucian ren / Western obligation). See pessimistic-2026-02-13.md
 
 ### ✓ 2026-02-13: Address evidential gap in contemplative-reliability.md
 - **Type**: refine-draft

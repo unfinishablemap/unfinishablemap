@@ -18,6 +18,25 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-13 12:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [normative-phenomenology](/concepts/normative-phenomenology/)
+- **Changes**: Added evolutionary debunking challenge section (Street/Joyce), grounded cross-cultural convergence claim with citations (Gethin, Van Norden, Levinas), acknowledged Buddhist vedanā tension, added theory-ladenness qualification to demand character, softened opening claim, tempered contemplative convergence conclusion
+- **Published**: yes
+
+## 2026-02-13 11:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [contemplative-reliability](/concepts/contemplative-reliability/)
+- **Changes**: Fixed Fox et al. mischaracterization (interoceptive vs introspective accuracy), added evolutionary debunking limitation, acknowledged Buddhist anattā tension with dualism, tempered Bidirectional Interaction tenet connection, added 3 new references (Baird et al. 2014, Kok & Singer 2017, Milicevic et al. 2025), fixed incomplete Frontiers citation
+- **Published**: yes
+
+## 2026-02-13 10:34 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: contemplative-reliability.md, normative-phenomenology.md, consciousness-and-strong-emergence.md
+- **Output**: [pessimistic-2026-02-13](/reviews/pessimistic-2026-02-13/)
+- **Critical issues**: 5 (2 high, 3 medium)
+- **Tasks created**: 2 (refine-draft for contemplative-reliability, refine-draft for normative-phenomenology)
+
 ## 2026-02-13 09:34 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Contemplative Reliability
