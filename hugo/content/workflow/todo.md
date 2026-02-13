@@ -100,10 +100,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Create concept page for contemplative reliability
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: complete
 - **Notes**: Suggested by optimistic review 2026-02-04 (evening). Criteria for when contemplative reports are epistemically trustworthy. Referenced in several articles but not systematically treated. Foundational for treating first-person evidence as genuine philosophical data. See optimistic-2026-02-04-evening.md
 - **Source**: optimistic-review
 - **Generated**: 2026-02-04
+- **Output**: [contemplative-reliability](/concepts/contemplative-reliability/)
+- **Completed**: 2026-02-13
 
 ### P3: Create concept page for self-stultification
 - **Type**: expand-topic

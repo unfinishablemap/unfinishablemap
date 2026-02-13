@@ -18,6 +18,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-13 09:34 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Contemplative Reliability
+- **Output**: [contemplative-reliability](/concepts/contemplative-reliability/)
+- **Word count**: 1535
+- **Based on research**: Yes — [introspection-reliability-first-person-2026-01-15](/research/introspection-reliability-first-person-2026-01-15/), [contemplative-neuroscience-meditation-2026-01-23](/research/contemplative-neuroscience-meditation-2026-01-23/)
+
 ## 2026-02-13 08:34 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Normative Phenomenology
