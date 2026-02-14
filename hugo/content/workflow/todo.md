@@ -38,6 +38,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Acknowledge explanatory limits of atemporal causation in concepts/atemporal-causation.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found that the article trades one mystery for another without acknowledging this. It dissolves the timing objection but doesn't explain how a non-physical entity participates in quantum transactions. Add a section acknowledging the distinction between removing an objection and providing a positive mechanism. See pessimistic-2026-02-14.md
+
+### P2: Strengthen cross-cultural convergence argument in topics/the-hard-problem-in-non-western-philosophy.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found selection bias: traditions that agree with irreducibility are treated as evidence while Chinese philosophy is dismissed as "avoiding the question." Engage more seriously with the possibility that the hard problem is framework-dependent. Also fix unattributed quotation in Chinese Philosophy section and weaken the Sāṃkhya-quantum analogy. See pessimistic-2026-02-14.md
+
 ### P2: Update references to coalesced indexical articles (indexical-facts, indexical-knowledge, self-locating-beliefs)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-13) merged `indexical-facts.md`, `indexical-knowledge.md`, and `self-locating-beliefs.md` into `indexical-knowledge-and-identity.md`. 5 active content files reference archived articles: haecceity.md and visual-consciousness.md reference `[indexical-facts](/indexical-facts/)`, acquaintance-knowledge.md references `[indexical-knowledge](/indexical-knowledge/)`, phenomenology-of-belief-revision.md and indexical-identity-quantum-measurement.md reference `[self-locating-beliefs](/self-locating-beliefs/)`. Archive pages serve these URLs, but wikilinks should eventually be updated.
@@ -103,20 +113,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### ✓ 2026-02-09: Create concept page for phenomenal transparency
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
-
-### P3: Create concept page for atemporal causation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-06. The time-symmetric selection mechanism depends on a concept of causation that isn't sequential. A dedicated treatment of how atemporal causation works, its precedents in physics (Wheeler-Feynman, Cramer, TSVF), and its philosophical implications would support both the free will and quantum measurement articles. Currently this concept does theoretical work in time-symmetric-selection-mechanism.md and free-will.md but lacks its own page. See optimistic-2026-02-06.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-06
-
-### P3: Write apex article synthesising the attention cluster
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The attention cluster (attention-as-interface, attention-interface-mechanisms, voluntary-attention, structure-of-attention, attention-consciousness-dissociation, attention-motor-planning-quantum-interface) has grown to 6+ articles without a unifying apex synthesis. An apex article would show how attention serves as the Map's primary candidate for the consciousness-brain interface, connecting all five tenets. See optimistic-2026-02-08.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-08
 
 ### P3: Write article on consciousness and social cognition
 - **Type**: expand-topic
@@ -309,6 +305,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-14: Write apex article synthesising the attention cluster
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The attention cluster (attention-as-interface, attention-interface-mechanisms, voluntary-attention, structure-of-attention, attention-consciousness-dissociation, attention-motor-planning-quantum-interface) has grown to 6+ articles without a unifying apex synthesis. An apex article would show how attention serves as the Map's primary candidate for the consciousness-brain interface, connecting all five tenets. See optimistic-2026-02-08.md
+- **Output**: Write apex article synthesising the attention cluster
+
+### ✓ 2026-02-14: Create concept page for atemporal causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-06. The time-symmetric selection mechanism depends on a concept of causation that isn't sequential. A dedicated treatment of how atemporal causation works, its precedents in physics (Wheeler-Feynman, Cramer, TSVF), and its philosophical implications would support both the free will and quantum measurement articles. Currently this concept does theoretical work in time-symmetric-selection-mechanism.md and free-will.md but lacks its own page. See optimistic-2026-02-06.md
+- **Output**: Create concept page for atemporal causation
 
 ### ✓ 2026-02-14: Write topic on the hard problem in non-Western philosophy
 - **Type**: expand-topic
