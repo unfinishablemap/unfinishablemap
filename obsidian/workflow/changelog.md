@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-14 15:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Attention as the Causal Bridge (apex article)
+- **Output**: [[attention-as-causal-bridge]]
+- **Word count**: 2386
+- **Based on research**: No (synthesis of 11 existing articles in the attention cluster)
+
 ## 2026-02-14 14:59 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Atemporal Causation

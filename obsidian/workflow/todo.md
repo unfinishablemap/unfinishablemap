@@ -103,13 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write apex article synthesising the attention cluster
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The attention cluster (attention-as-interface, attention-interface-mechanisms, voluntary-attention, structure-of-attention, attention-consciousness-dissociation, attention-motor-planning-quantum-interface) has grown to 6+ articles without a unifying apex synthesis. An apex article would show how attention serves as the Map's primary candidate for the consciousness-brain interface, connecting all five tenets. See optimistic-2026-02-08.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-08
-
 ### P3: Write article on consciousness and social cognition
 - **Type**: expand-topic
 - **Status**: pending
@@ -301,6 +294,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-14: Write apex article synthesising the attention cluster
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The attention cluster (attention-as-interface, attention-interface-mechanisms, voluntary-attention, structure-of-attention, attention-consciousness-dissociation, attention-motor-planning-quantum-interface) has grown to 6+ articles without a unifying apex synthesis. An apex article would show how attention serves as the Map's primary candidate for the consciousness-brain interface, connecting all five tenets. See optimistic-2026-02-08.md
+- **Output**: Write apex article synthesising the attention cluster
 
 ### ✓ 2026-02-14: Create concept page for atemporal causation
 - **Type**: expand-topic

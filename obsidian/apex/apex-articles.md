@@ -231,7 +231,32 @@ This document defines the approved apex article subjects. Apex articles are huma
 
 ---
 
-## Reserved Slots (11-20)
+### 11. Attention as the Causal Bridge
+
+**Slug**: `attention-as-causal-bridge`
+
+**Subtitle**: How consciousness acts on matter through a bandwidth-limited selection interface
+
+**Thesis**: Attention is the causal bridge between consciousness and the physical world—a bandwidth-limited selection interface through which mind biases quantum indeterminacy in neural systems.
+
+**Source articles**:
+- concepts/attention-as-interface
+- concepts/mental-effort
+- concepts/attentional-economics
+- concepts/attention-schema-theory
+- topics/structure-of-attention
+- topics/attention-schema-theory-critique
+- topics/attention-disorders-and-quantum-interface
+- topics/attention-consciousness-dissociation
+- topics/attention-as-selection-interface
+- topics/phenomenology-of-returning-attention
+- voids/attention-created-voids
+
+**Status**: Created 2026-02-14
+
+---
+
+## Reserved Slots (12-20)
 
 Future apex articles will be added as the Map evolves and new thematic clusters emerge. Potential candidates:
 
