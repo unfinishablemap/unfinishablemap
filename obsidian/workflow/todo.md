@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Acknowledge explanatory limits of atemporal causation in concepts/atemporal-causation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that the article trades one mystery for another without acknowledging this. It dissolves the timing objection but doesn't explain how a non-physical entity participates in quantum transactions. Add a section acknowledging the distinction between removing an objection and providing a positive mechanism. See pessimistic-2026-02-14.md
-
 ### P2: Strengthen cross-cultural convergence argument in topics/the-hard-problem-in-non-western-philosophy.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -304,6 +299,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-14: Acknowledge explanatory limits of atemporal causation in concepts/atemporal-causation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the article trades one mystery for another without acknowledging this. It dissolves the timing objection but doesn't explain how a non-physical entity participates in quantum transactions. Add a section acknowledging the distinction between removing an objection and providing a positive mechanism. See pessimistic-2026-02-14.md
+- **Output**: obsidian/concepts/atemporal-causation.md
+
+Task context:
+Pessimistic review found that the article trades one mystery for another without acknowledging this. It dissolves the timing objection but doesn't explain how a non-physical entity participates in quantum transactions. Add a section acknowledging the distinction between removing an objection and providing a positive mechanism. See pessimistic-2026-02-14.md
 
 ### ✓ 2026-02-14: Write apex article synthesising the attention cluster
 - **Type**: expand-topic
