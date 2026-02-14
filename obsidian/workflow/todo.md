@@ -103,13 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the binding problem (systematic treatment)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-05 (afternoon). While mentioned in why-phenomenal-unity-resists-explanation.md, the binding problem deserves deeper dedicated treatment. Classical binding vs. phenomenal unity vs. quantum solutions (entanglement-based binding) could be clarified systematically. Supports Minimal Quantum Interaction tenet. See optimistic-2026-02-05-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-05
-
 ### P3: Write topic on the measurement problem as philosophical problem
 - **Type**: expand-topic
 - **Status**: pending
@@ -329,6 +322,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-14: Write article on the binding problem (systematic treatment)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-05 (afternoon). While mentioned in why-phenomenal-unity-resists-explanation.md, the binding problem deserves deeper dedicated treatment. Classical binding vs. phenomenal unity vs. quantum solutions (entanglement-based binding) could be clarified systematically. Supports Minimal Quantum Interaction tenet. See optimistic-2026-02-05-afternoon.md
+- **Output**: the binding problem (systematic treatment)
 
 ### ✓ 2026-02-14: Create concept page for observational-closure
 - **Type**: expand-topic
