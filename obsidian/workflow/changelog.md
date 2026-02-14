@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-14 01:34 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: intentionality
+- **Reason**: Comprehensive concept page already exists at [[intentionality]] (created 2026-01-14, last deep review 2026-01-30). Related articles also exist: [[phenomenal-intentionality]], [[intentionality-void]].
+
 ## 2026-02-14 00:34 UTC - deep-review
 - **Status**: Success
 - **File**: [[phenomenology-of-deliberation-under-uncertainty]]

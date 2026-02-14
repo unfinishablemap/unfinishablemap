@@ -103,13 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for intentionality
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-05 (afternoon). Intentionality (aboutness) is listed as one of seven convergent arguments for dualism but lacks dedicated treatment. Brentano's thesis, Searle's response to naturalistic accounts, and the connection to phenomenal consciousness deserve fuller development. Referenced in consciousness.md, arguments-for-dualism.md. See optimistic-2026-02-05-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-05
-
 ### P3: Create concept page for observational-closure
 - **Type**: expand-topic
 - **Status**: pending
@@ -343,6 +336,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-14: Create concept page for intentionality
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-05 (afternoon). Intentionality (aboutness) is listed as one of seven convergent arguments for dualism but lacks dedicated treatment. Brentano's thesis, Searle's response to naturalistic accounts, and the connection to phenomenal consciousness deserve fuller development. Referenced in consciousness.md, arguments-for-dualism.md. See optimistic-2026-02-05-afternoon.md
+- **Output**: Create concept page for intentionality
 
 ### ✓ 2026-02-13: Create concept page for spontaneous intentional action
 - **Type**: expand-topic
