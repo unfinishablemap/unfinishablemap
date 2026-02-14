@@ -37,6 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Acknowledge explanatory limits of atemporal causation in concepts/atemporal-causation.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found that the article trades one mystery for another without acknowledging this. It dissolves the timing objection but doesn't explain how a non-physical entity participates in quantum transactions. Add a section acknowledging the distinction between removing an objection and providing a positive mechanism. See pessimistic-2026-02-14.md
+
+### P2: Strengthen cross-cultural convergence argument in topics/the-hard-problem-in-non-western-philosophy.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found selection bias: traditions that agree with irreducibility are treated as evidence while Chinese philosophy is dismissed as "avoiding the question." Engage more seriously with the possibility that the hard problem is framework-dependent. Also fix unattributed quotation in Chinese Philosophy section and weaken the Sāṃkhya-quantum analogy. See pessimistic-2026-02-14.md
+
 ### P2: Update references to coalesced indexical articles (indexical-facts, indexical-knowledge, self-locating-beliefs)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-13) merged `indexical-facts.md`, `indexical-knowledge.md`, and `self-locating-beliefs.md` into `indexical-knowledge-and-identity.md`. 5 active content files reference archived articles: haecceity.md and visual-consciousness.md reference `[[indexical-facts]]`, acquaintance-knowledge.md references `[[indexical-knowledge]]`, phenomenology-of-belief-revision.md and indexical-identity-quantum-measurement.md reference `[[self-locating-beliefs]]`. Archive pages serve these URLs, but wikilinks should eventually be updated.
