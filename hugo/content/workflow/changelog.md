@@ -18,6 +18,38 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-14 04:38 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Changed sources**: 0 (quality improvement pass)
+- **Word count**: 2875 → 3062
+- **Review**: [apex-evolve-2026-02-14-consciousness-and-agency](/reviews/apex-evolve-2026-02-14-consciousness-and-agency/)
+
+## 2026-02-14 04:34 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Binding Problem: A Systematic Treatment
+- **Output**: [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)
+- **Word count**: 2659
+- **Based on research**: yes ([binding-problem-consciousness-2026-01-14](/research/binding-problem-consciousness-2026-01-14/), [phenomenal-binding-multimodal-integration-2026-01-23](/research/phenomenal-binding-multimodal-integration-2026-01-23/), [neural-binding-quantum-entanglement-2026-01-19](/research/neural-binding-quantum-entanglement-2026-01-19/))
+
+## 2026-02-14 03:34 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: observational-closure
+- **Output**: [observational-closure](/concepts/observational-closure/)
+- **Note**: Concept page already exists (created 2026-02-02, 1452 words, deep-reviewed). No action needed.
+
+## 2026-02-14 02:34 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Reality-Feeling Void
+- **Category**: Occluded / Mixed
+- **Output**: [voids-reality-feeling-void-2026-02-14](/research/voids-reality-feeling-void-2026-02-14/)
+- **Key finding**: The mechanism that stamps experience with its quality of "realness" is structurally inaccessible to introspection; depersonalization, dreams, and psychedelic states reveal reality-feeling as a variable rather than a constant, with implications for all five tenets
+
+## 2026-02-14 01:34 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: intentionality
+- **Reason**: Comprehensive concept page already exists at [intentionality](/concepts/intentionality/) (created 2026-01-14, last deep review 2026-01-30). Related articles also exist: [phenomenal-intentionality](/concepts/phenomenal-intentionality/), [intentionality-void](/voids/intentionality-void/).
+
 ## 2026-02-14 00:34 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
