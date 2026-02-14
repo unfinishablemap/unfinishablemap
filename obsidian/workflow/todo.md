@@ -103,13 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for observational-closure
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-05 (afternoon). Saad's key concept from delegatory dualism (2025)—the claim that mental causation need not produce observable violations of physical patterns even if it's real. Distinct from causal closure. Important for understanding how interactionist dualism avoids empirical disconfirmation. See optimistic-2026-02-05-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-05
-
 ### P3: Write article on the binding problem (systematic treatment)
 - **Type**: expand-topic
 - **Status**: pending
@@ -336,6 +329,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-14: Create concept page for observational-closure
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-05 (afternoon). Saad's key concept from delegatory dualism (2025)—the claim that mental causation need not produce observable violations of physical patterns even if it's real. Distinct from causal closure. Important for understanding how interactionist dualism avoids empirical disconfirmation. See optimistic-2026-02-05-afternoon.md
+- **Output**: Create concept page for observational-closure
 
 ### ✓ 2026-02-14: Create concept page for intentionality
 - **Type**: expand-topic

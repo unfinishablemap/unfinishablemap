@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-14 03:34 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: observational-closure
+- **Output**: [[concepts/observational-closure]]
+- **Note**: Concept page already exists (created 2026-02-02, 1452 words, deep-reviewed). No action needed.
+
 ## 2026-02-14 02:34 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Reality-Feeling Void
