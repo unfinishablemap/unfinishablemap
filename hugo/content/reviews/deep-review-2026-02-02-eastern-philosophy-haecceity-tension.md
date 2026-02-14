@@ -56,7 +56,7 @@ None.
 1. Added clarification on electron haecceity analogy limits
 2. Strengthened Madhyamaka response with "useful fiction" rebuttal
 3. Made contemplative evidence claims more epistemologically careful
-4. Added cross-link to [indexical-facts](/concepts/indexical-facts/) in Madhyamaka section
+4. Added cross-link to [indexical-facts](/indexical-facts/) in Madhyamaka section
 
 ### Cross-links Added (Orphan Integration)
 Added inbound links from:

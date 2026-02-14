@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-28
-**Article**: [Indexical Facts](/concepts/indexical-facts/)
+**Article**: [Indexical Facts](/indexical-facts/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

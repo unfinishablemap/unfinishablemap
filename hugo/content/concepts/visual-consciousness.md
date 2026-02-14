@@ -46,7 +46,7 @@ Visual consciousness has distinctive phenomenal structure that shapes how we exp
 
 Visual experience presents objects as arranged in three-dimensional space before you. Unlike auditory or olfactory experience, vision delivers a spatial field with objects at determinate locations and distances. This spatial phenomenology is immediate—you don't infer that the tree is farther than the fence; you see it that way.
 
-The visual field has egocentric structure: objects appear before you, to your left, above you. This perspectival character—being centred on *this* viewpoint—connects visual consciousness to questions of [indexical identity](/concepts/indexical-facts/). Why does the visual world appear from *here* rather than *there*?
+The visual field has egocentric structure: objects appear before you, to your left, above you. This perspectival character—being centred on *this* viewpoint—connects visual consciousness to questions of [indexical identity](/indexical-facts/). Why does the visual world appear from *here* rather than *there*?
 
 ### Colour Qualia
 

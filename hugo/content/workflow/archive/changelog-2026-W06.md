@@ -4049,7 +4049,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 12:30 UTC - deep-review
 - **Status**: Success
-- **File**: [self-locating-beliefs](/concepts/self-locating-beliefs/)
+- **File**: [self-locating-beliefs](/self-locating-beliefs/)
 - **Word count**: 2378 → 2425 (+47)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (acknowledged Everettian accounts of self-locating uncertainty, added functionalist response to felt definiteness)

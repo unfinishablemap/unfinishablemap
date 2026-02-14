@@ -42,7 +42,7 @@ No attribution errors found.
 
 ### Medium Issues Found
 
-- **Missing cross-link to indexical-facts.md**: The new indexical-facts.md concept page provides a fuller treatment of indexical facts. The haecceity article mentioned the concept but didn't link to it. **Resolution**: Added [indexical-facts](/concepts/indexical-facts/) to concepts frontmatter, added wikilink in body text where indexical facts are first defined, added to Further Reading.
+- **Missing cross-link to indexical-facts.md**: The new indexical-facts.md concept page provides a fuller treatment of indexical facts. The haecceity article mentioned the concept but didn't link to it. **Resolution**: Added [indexical-facts](/indexical-facts/) to concepts frontmatter, added wikilink in body text where indexical facts are first defined, added to Further Reading.
 
 - **Redundant Lewis "Two Gods" explanation**: Both articles explained this scenario; indexical-facts.md now provides the fuller treatment. **Resolution**: Condensed the explanation in haecceity.md with a link to indexical-facts.md.
 
@@ -74,14 +74,14 @@ These represent bedrock philosophical disagreements, not fixable flaws.
 
 ### Enhancements Made
 
-- Added [indexical-facts](/concepts/indexical-facts/) cross-link in concepts frontmatter
-- Added [indexical-facts](/concepts/indexical-facts/) wikilink in body text (indexical facts definition)
-- Added [indexical-facts](/concepts/indexical-facts/) to Further Reading (first position—most directly relevant for cross-review)
+- Added [indexical-facts](/indexical-facts/) cross-link in concepts frontmatter
+- Added [indexical-facts](/indexical-facts/) wikilink in body text (indexical facts definition)
+- Added [indexical-facts](/indexical-facts/) to Further Reading (first position—most directly relevant for cross-review)
 - Condensed Lewis "Two Gods" explanation with link to indexical-facts.md
 
 ### Cross-links Added
 
-- [indexical-facts](/concepts/indexical-facts/) — Three locations (frontmatter, body, Further Reading)
+- [indexical-facts](/indexical-facts/) — Three locations (frontmatter, body, Further Reading)
 
 ## Changes Summary
 

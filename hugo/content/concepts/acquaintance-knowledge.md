@@ -87,7 +87,7 @@ The grounding asymmetry is visible in everyday language. When someone who has gr
 
 ## Connection to Indexical Knowledge
 
-Acquaintance knowledge has an irreducibly [indexical](/concepts/indexical-knowledge/) dimension. Acquaintance with the redness of red is not acquaintance in the abstract—it is *this subject's* encounter with *this quality* at *this moment*. The phenomenal indexical knowledge discussed in the indexical knowledge article (the strongest grade, requiring both the right subject-position and the right experience) is acquaintance knowledge viewed through the lens of perspective-dependence.
+Acquaintance knowledge has an irreducibly [indexical](/indexical-knowledge/) dimension. Acquaintance with the redness of red is not acquaintance in the abstract—it is *this subject's* encounter with *this quality* at *this moment*. The phenomenal indexical knowledge discussed in the indexical knowledge article (the strongest grade, requiring both the right subject-position and the right experience) is acquaintance knowledge viewed through the lens of perspective-dependence.
 
 Mary's gap is indexical as well as qualitative: she lacks not just knowledge of what redness is like in general, but what it is like *for her* to see red. The two dimensions—qualitative character and first-person perspective—combine in acquaintance to produce knowledge that resists every form of third-person capture.
 
@@ -104,7 +104,7 @@ Mary's gap is indexical as well as qualitative: she lacks not just knowledge of 
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and the case against physicalism
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Epistemic territories requiring conscious experience
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — The pre-conceptual foundations of knowledge
-- [indexical-knowledge](/concepts/indexical-knowledge/) — Perspective-dependent knowledge irreducible to third-person description
+- [indexical-knowledge](/indexical-knowledge/) — Perspective-dependent knowledge irreducible to third-person description
 - [qualia](/concepts/qualia/) — The phenomenal properties acquaintance reveals
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes structure but not qualitative character
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap between physical and phenomenal

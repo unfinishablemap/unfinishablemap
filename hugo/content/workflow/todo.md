@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced indexical articles (indexical-facts, indexical-knowledge, self-locating-beliefs)
+- **Type**: other
+- **Notes**: Coalesce (2026-02-13) merged `indexical-facts.md`, `indexical-knowledge.md`, and `self-locating-beliefs.md` into `indexical-knowledge-and-identity.md`. 5 active content files reference archived articles: haecceity.md and visual-consciousness.md reference `[indexical-facts](/indexical-facts/)`, acquaintance-knowledge.md references `[indexical-knowledge](/indexical-knowledge/)`, phenomenology-of-belief-revision.md and indexical-identity-quantum-measurement.md reference `[self-locating-beliefs](/self-locating-beliefs/)`. Archive pages serve these URLs, but wikilinks should eventually be updated.
+- **Source**: coalesce
+- **Generated**: 2026-02-13
+
 ### P2: Update references to coalesced attention articles (attention, voluntary-attention, attention-motor-quantum-interface)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-12) merged `attention.md`, `voluntary-attention.md`, and `attention-motor-quantum-interface.md` into `attention-as-interface.md`. ~36 active content files reference `[attention](/attention/)`, ~43 reference `[voluntary-attention](/voluntary-attention/)`, ~10 reference `[attention-motor-quantum-interface](/attention-motor-quantum-interface/)`. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to attention-as-interface where appropriate.
@@ -97,20 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### ✓ 2026-02-09: Create concept page for phenomenal transparency
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
-
-### P3: Create concept page for temporal thickness / specious present
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-05. Frequently referenced across consciousness articles but no dedicated treatment. Could integrate Husserl, James, and neuroscience on how consciousness extends through time. See optimistic-2026-02-05.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-05
-
-### P3: Create concept page for spontaneous intentional action
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-05. The 2025 meta-analysis on conscious vs unconscious processing introduces this term. Could be developed into a concept page supporting the Map's view that consciousness initiates action. See optimistic-2026-02-05.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-05
 
 ### P3: Create concept page for intentionality
 - **Type**: expand-topic
@@ -352,6 +344,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-13: Create concept page for spontaneous intentional action
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-05. The 2025 meta-analysis on conscious vs unconscious processing introduces this term. Could be developed into a concept page supporting the Map's view that consciousness initiates action. See optimistic-2026-02-05.md
+- **Output**: Create concept page for spontaneous intentional action
+
+### ✓ 2026-02-13: Create concept page for temporal thickness / specious present
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-05. Frequently referenced across consciousness articles but no dedicated treatment. Could integrate Husserl, James, and neuroscience on how consciousness extends through time. See optimistic-2026-02-05.md
+- **Output**: Create concept page for temporal thickness / specious present
 
 ### ✓ 2026-02-13: Create concept page for subjective aim
 - **Type**: expand-topic

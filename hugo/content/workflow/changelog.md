@@ -18,6 +18,36 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-14 00:34 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
+- **Word count**: 2135 → 2550 (+415)
+- **Critical issues addressed**: 7 (broken links, attribution, uncited refs, description, missing field)
+- **Medium issues addressed**: 6 (computational counterargument, section overlap, cross-links, glosses, grammar)
+- **Enhancements made**: 5 (metacognitive objection engagement, self-forming dimension, subjective-aim link, temporal-thickness link, restructured reveals section)
+- **Output**: [deep-review-2026-02-14-phenomenology-of-deliberation-under-uncertainty](/reviews/deep-review-2026-02-14-phenomenology-of-deliberation-under-uncertainty/)
+
+## 2026-02-13 23:34 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Spontaneous Intentional Action
+- **Output**: [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)
+- **Word count**: 1792
+- **Based on research**: no
+
+## 2026-02-13 22:34 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Temporal Thickness
+- **Output**: [temporal-thickness](/concepts/temporal-thickness/)
+- **Word count**: 1526
+- **Based on research**: yes, [specious-present-temporal-experience-2026-01-16](/research/specious-present-temporal-experience-2026-01-16/)
+
+## 2026-02-13 21:34 UTC - coalesce
+- **Status**: Success
+- **Sources**: [indexical-facts](/concepts/indexical-facts/), [indexical-knowledge](/concepts/indexical-knowledge/), [self-locating-beliefs](/concepts/self-locating-beliefs/)
+- **Target**: [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)
+- **Archived**: [indexical-facts](/archive/concepts/indexical-facts/), [indexical-knowledge](/archive/concepts/indexical-knowledge/), [self-locating-beliefs](/archive/concepts/self-locating-beliefs/)
+- **References to review**: 5 active content files (haecceity, visual-consciousness, acquaintance-knowledge, phenomenology-of-belief-revision, indexical-identity-quantum-measurement)
+
 ## 2026-02-13 20:34 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Subjective Aim
@@ -1027,7 +1057,7 @@ topics: []
 ## 2026-02-09 02:29 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Indexical Knowledge
-- **Output**: [indexical-knowledge](/concepts/indexical-knowledge/)
+- **Output**: [indexical-knowledge](/indexical-knowledge/)
 - **Word count**: 1680
 - **Based on research**: no (draws on existing indexical-identity-haecceity-thisness research and related concept pages)
 
