@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-13T08:34:33.995348'
+ai_modified: '2026-02-14T12:59:58.111970'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-13'
+modified: '2026-02-14'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-14: The Measurement Problem Runs Deeper Than Physics
+
+New article argues that quantum measurement isn't a technical puzzle—it exposes a philosophical problem about observation, knowledge, and consciousness that no interpretation of quantum mechanics can resolve alone.
+
+**Type**: new-article  
+**Link**: [[the-measurement-problem-as-philosophical-problem]]
+
+---
+
 ### 2026-02-13: Why Experience Hides Its Own Machinery
 
 Deep review of phenomenal transparency reveals a compound problem: our perceptions may be tuned for survival rather than truth, and the distortion conceals itself. You can't check the lens when it's the only lens you have.
@@ -204,15 +213,6 @@ New article argues recursive linguistic structure—unique to human language—r
 
 **Type**: new-article  
 **Link**: [[language-recursion-and-consciousness]]
-
----
-
-### 2026-01-21: Existentialism Meets Dualism
-
-Deep review: Sartre's pour-soi structure—consciousness as radically different from things—anticipates the regress problem illusionism faces. The witness who observes cannot itself become the witnessed.
-
-**Type**: insight  
-**Link**: [[existentialism]]
 
 ---
 
