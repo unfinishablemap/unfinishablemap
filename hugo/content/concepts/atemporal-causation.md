@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-02-14 14:59:00+00:00
+ai_modified: 2026-02-14 17:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -86,6 +86,16 @@ The readiness potential that [Libet](/concepts/libet-experiments/) detected isn'
 
 This aligns with the phenomenology of decision. Deliberation feels like weighing genuine alternatives, not receiving pre-made outcomes. Resolution feels like crystallisation — one option becoming actual while others fade. These experiences match atemporal constraint satisfaction better than sequential causation, where the cause must precede the effect and the "deciding" would have to happen before the neural preparation it supposedly governs.
 
+## Removing an Objection Is Not Providing a Mechanism
+
+Atemporal causation dissolves the timing objection — if the cause isn't located in time, it cannot be "too late." But dissolving an objection is not the same as explaining how the thing actually works. The timing problem is gone; the interaction problem remains.
+
+Specifically: how does a non-physical entity participate in quantum constraint satisfaction? The transactional interpretation describes offer waves and confirmation waves reaching a handshake. The TSVF describes boundary conditions jointly determining intermediate states. Both frameworks are mathematical descriptions of physical processes. Saying consciousness "participates in determining which transaction completes" identifies a role without explaining how that role is filled. What is the coupling between a non-physical mind and a physical quantum system that allows one to constrain the other?
+
+This is a genuine explanatory gap, and the Map does not claim to have closed it. The contribution of atemporal causation is narrower: it shows that one prominent objection to interactionist dualism — the timing argument from Libet — rests on an assumption (temporal ordering of all causes) that physics itself does not require. Removing a bad argument against a position is progress, but it does not constitute a positive theory of consciousness–matter interaction.
+
+The gap is not unique to the Map's framework. Every account of consciousness that posits causal influence on the physical world faces a version of it: epiphenomenalism avoids it by denying the influence, eliminativism avoids it by denying consciousness, and physicalism avoids it by identifying consciousness with physical processes. The Map accepts the gap as the cost of taking both consciousness and its causal efficacy seriously. Atemporal causation is the *where* (outside temporal sequence) and the *what* (constraint satisfaction on quantum indeterminacies), but the *how* of non-physical participation remains an open question — one that the [measurement problem](/concepts/measurement-problem/) itself has not resolved for any interpretation.
+
 ## Philosophical Precedents
 
 Atemporal causation is not a new idea. Several philosophical traditions converge on it.
@@ -112,7 +122,7 @@ Atemporal causation connects to each of the Map's tenets:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Atemporal constraint satisfaction is maximally minimal. Consciousness doesn't inject energy, override laws, or cause events at moments. It satisfies constraints that physics leaves underdetermined. This is less than traditional efficient causation — it is the resolution of indeterminacy, not the production of effects.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Atemporal causation makes bidirectional interaction coherent. The objection that consciousness "arrives too late" to cause neural activity presupposes that causes must be temporally prior to effects. Remove this presupposition and the timing problem vanishes. Consciousness can genuinely select outcomes even when its awareness follows neural preparation in the temporal sequence.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Atemporal causation makes bidirectional interaction coherent by removing the timing objection — the claim that consciousness "arrives too late" presupposes that causes must be temporally prior to effects. This clears the path for genuine causal influence, though the positive mechanism of non-physical participation in quantum transactions remains an open problem (see the section on explanatory limits above).
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Atemporal selection requires collapse to be real. On the Many-Worlds Interpretation, all outcomes occur — there is nothing for atemporal causation to select. The framework presupposes that one possibility becomes actual and others are genuinely eliminated.
 
@@ -137,3 +147,14 @@ Atemporal causation connects to each of the Map's tenets:
 - Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 - Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
 - Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+
+<!-- AI REFINEMENT LOG - 2026-02-14
+Changes made:
+- Added "Removing an Objection Is Not Providing a Mechanism" section acknowledging the distinction between dissolving the timing objection and providing a positive mechanism for non-physical participation in quantum transactions
+- Updated Bidirectional Interaction tenet paragraph to cross-reference the new explanatory limits section instead of claiming the timing problem simply "vanishes"
+
+Based on pessimistic review findings that the article trades one mystery for another without acknowledgment.
+Key improvements: Intellectual honesty about the explanatory gap between removing an objection and providing a positive mechanism.
+
+This log should be removed after human review.
+-->
