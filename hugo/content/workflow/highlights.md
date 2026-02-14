@@ -28,6 +28,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 New article argues that quantum measurement isn't a technical puzzle—it exposes a philosophical problem about observation, knowledge, and consciousness that no interpretation of quantum mechanics can resolve alone.
 
 **Type**: new-article  
+**Tweet**: https://x.com/unfinishablemap/status/2022658663844860103  
 **Link**: [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)
 
 ---
