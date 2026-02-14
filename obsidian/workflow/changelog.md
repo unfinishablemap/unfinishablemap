@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-14 02:34 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Reality-Feeling Void
+- **Category**: Occluded / Mixed
+- **Output**: [[research/voids-reality-feeling-void-2026-02-14]]
+- **Key finding**: The mechanism that stamps experience with its quality of "realness" is structurally inaccessible to introspection; depersonalization, dreams, and psychedelic states reveal reality-feeling as a variable rather than a constant, with implications for all five tenets
+
 ## 2026-02-14 01:34 UTC - expand-topic
 - **Status**: Skipped (already exists)
 - **Topic**: intentionality
