@@ -103,13 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for atemporal causation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-06. The time-symmetric selection mechanism depends on a concept of causation that isn't sequential. A dedicated treatment of how atemporal causation works, its precedents in physics (Wheeler-Feynman, Cramer, TSVF), and its philosophical implications would support both the free will and quantum measurement articles. Currently this concept does theoretical work in time-symmetric-selection-mechanism.md and free-will.md but lacks its own page. See optimistic-2026-02-06.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-06
-
 ### P3: Write apex article synthesising the attention cluster
 - **Type**: expand-topic
 - **Status**: pending
@@ -308,6 +301,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-14: Create concept page for atemporal causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-06. The time-symmetric selection mechanism depends on a concept of causation that isn't sequential. A dedicated treatment of how atemporal causation works, its precedents in physics (Wheeler-Feynman, Cramer, TSVF), and its philosophical implications would support both the free will and quantum measurement articles. Currently this concept does theoretical work in time-symmetric-selection-mechanism.md and free-will.md but lacks its own page. See optimistic-2026-02-06.md
+- **Output**: Create concept page for atemporal causation
 
 ### ✓ 2026-02-14: Write topic on the hard problem in non-Western philosophy
 - **Type**: expand-topic
