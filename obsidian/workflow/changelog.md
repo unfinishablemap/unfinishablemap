@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-14 00:34 UTC - deep-review
+- **Status**: Success
+- **File**: [[phenomenology-of-deliberation-under-uncertainty]]
+- **Word count**: 2135 → 2550 (+415)
+- **Critical issues addressed**: 7 (broken links, attribution, uncited refs, description, missing field)
+- **Medium issues addressed**: 6 (computational counterargument, section overlap, cross-links, glosses, grammar)
+- **Enhancements made**: 5 (metacognitive objection engagement, self-forming dimension, subjective-aim link, temporal-thickness link, restructured reveals section)
+- **Output**: [[reviews/deep-review-2026-02-14-phenomenology-of-deliberation-under-uncertainty]]
+
 ## 2026-02-13 23:34 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Spontaneous Intentional Action
