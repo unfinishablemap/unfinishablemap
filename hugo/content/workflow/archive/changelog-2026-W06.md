@@ -4112,7 +4112,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 11:59 UTC - deep-review
 - **Status**: Success
-- **File**: [substance-causation](/concepts/substance-causation/)
+- **File**: [substance-causation](/substance-causation/)
 - **Word count**: 1779 → 1945 (+166)
 - **Critical issues addressed**: 1 (incorrect O'Connor 2021 citation → Jacobs & O'Connor 2013)
 - **Medium issues addressed**: 3 (clarified uncaused/agent-caused distinction, added decoherence acknowledgment, added falsifiability response)
@@ -5107,7 +5107,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 01:18 UTC - expand-topic
 - **Status**: Success
 - **Topic**: substance causation
-- **Output**: [substance-causation](/concepts/substance-causation/)
+- **Output**: [substance-causation](/substance-causation/)
 - **Word count**: 1779
 - **Based on research**: yes ([agent-causation-libertarian-free-will-2026-01-14](/research/agent-causation-libertarian-free-will-2026-01-14/))
 

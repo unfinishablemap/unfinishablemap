@@ -56,7 +56,7 @@ This matters for the Map's framework because it shows the consciousness-brain in
 
 ## Metacognition and Prefrontal Structure
 
-Lucid dreaming is essentially metacognition within a dream—recognising "I am dreaming" while remaining immersed in the dream experience. This involves a form of [autonoetic awareness](/concepts/autonoetic-consciousness/): the dreamer becomes aware not just of dream content but of themselves *as the one dreaming*. This metacognitive capacity has structural neural correlates.
+Lucid dreaming is essentially metacognition within a dream—recognising "I am dreaming" while remaining immersed in the dream experience. This involves a form of [autonoetic awareness](/autonoetic-consciousness/): the dreamer becomes aware not just of dream content but of themselves *as the one dreaming*. This metacognitive capacity has structural neural correlates.
 
 Researchers at the Max Planck Institutes found that frequent lucid dreamers have **larger anterior prefrontal cortex volume** than non-lucid dreamers. The anterior prefrontal cortex (aPFC) is associated with self-reflection, conscious cognitive processes, and metacognitive accuracy generally. Frequent lucid dreamers also show **increased functional connectivity** between aPFC and temporoparietal regions—the same connectivity pattern associated with waking metacognition and cognitive control.
 
@@ -187,7 +187,7 @@ The Map's interpretation of lucid dreaming would face difficulty if:
 - [introspection](/concepts/introspection/) — First-person access to conscious states
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-brain interaction
 - [phenomenal-unity](/phenomenal-unity/) — Unity of experience during dreams
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Self-referential awareness and mental time travel
+- [autonoetic-consciousness](/autonoetic-consciousness/) — Self-referential awareness and mental time travel
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The qualitative character of voluntary selection
 - [interactionist-dualism](/concepts/interactionist-dualism/) — Quantum Zeno mechanism for consciousness-brain interaction
 

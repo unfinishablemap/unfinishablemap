@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-14T12:59:58.111970'
+ai_modified: '2026-02-15T08:01:43.307966'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-02-14'
+date: '2026-02-15'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-14'
+modified: '2026-02-15'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-15: Four Roads to the Same Destination
+
+Deep review sharpens the convergence argument: zombies, inverted qualia, Mary's Room, and Kripke's asymmetry each target a different dimension of consciousness—yet all reveal the same modal independence from physics.
+
+**Type**: insight  
+**Link**: [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)
+
+---
+
 ### 2026-02-14: The Measurement Problem Runs Deeper Than Physics
 
 New article argues that quantum measurement isn't a technical puzzle—it exposes a philosophical problem about observation, knowledge, and consciousness that no interpretation of quantum mechanics can resolve alone.
@@ -206,15 +215,6 @@ New article surveys 5 major QM interpretations (Copenhagen, Bohmian, QBism, Tran
 
 **Type**: new-article  
 **Link**: [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/)
-
----
-
-### 2026-01-22: Language, Recursion, and Consciousness
-
-New article argues recursive linguistic structure—unique to human language—requires phenomenal consciousness. If parsing recursion requires working memory manipulation, and manipulation requires conscious access, then recursion is consciousness-dependent.
-
-**Type**: new-article  
-**Link**: [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/)
 
 ---
 

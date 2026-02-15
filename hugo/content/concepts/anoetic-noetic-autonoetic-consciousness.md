@@ -52,7 +52,7 @@ Noetic consciousness introduces a reflexive dimension absent from anoetic awaren
 
 *Autonoetic* (Greek: *autos* "self" + *noein* "to know") consciousness accompanies [episodic memory](/concepts/episodic-memory/) and enables mental time travel. When remembering a past event, the autonoetic subject is simultaneously present as the rememberer *here now* and as the protagonist *there then*. This double presence of self, the felt sense of pastness, and the qualitative character of re-living distinguish autonoetic from noetic awareness.
 
-Tulving defined autonoetic consciousness as "the capacity that allows adult humans to mentally represent and to become aware of their protracted existence across subjective time." The same capacity enables future-directed simulation: imagining a forthcoming conversation involves first-person projection, not abstract representation. See [autonoetic-consciousness](/concepts/autonoetic-consciousness/) for the full treatment, including clinical evidence, the remember/know paradigm, and implications for personal identity.
+Tulving defined autonoetic consciousness as "the capacity that allows adult humans to mentally represent and to become aware of their protracted existence across subjective time." The same capacity enables future-directed simulation: imagining a forthcoming conversation involves first-person projection, not abstract representation. See [autonoetic-consciousness](/autonoetic-consciousness/) for the full treatment, including clinical evidence, the remember/know paradigm, and implications for personal identity.
 
 ## The Hierarchy as Evidence
 
@@ -102,7 +102,7 @@ The comparative column is approximate. Whether any non-human animals achieve gen
 
 ## Further Reading
 
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Full treatment of mental time travel and the phenomenology of re-experiencing
+- [autonoetic-consciousness](/autonoetic-consciousness/) — Full treatment of mental time travel and the phenomenology of re-experiencing
 - [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness and the phenomenology of factual knowledge
 - [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness and procedural skill
 - [episodic-memory](/concepts/episodic-memory/) — The memory system autonoetic consciousness accompanies

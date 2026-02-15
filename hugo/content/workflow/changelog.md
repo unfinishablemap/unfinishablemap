@@ -18,6 +18,148 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 08:49 UTC - coalesce
+- **Status**: Success
+- **Sources**: [substance-causation](/concepts/substance-causation/)
+- **Target**: [agent-causation](/concepts/agent-causation/)
+- **Archived**: [substance-causation](/archive/concepts/substance-causation/)
+- **References updated**: 4 files (mental-causation, downward-causation, free-will, consciousness-and-agency)
+- **References to review**: none (all active links updated)
+
+## 2026-02-15 08:32 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
+- **Word count**: 2133 → 2286 (+153)
+- **Critical issues addressed**: 3 (orphaned Stapp reference, uncited Microsoft claim, haecceity states/process tension)
+- **Medium issues addressed**: 4 (Block citation, decoherence-free subspaces scope, Fullwood-Parzygnat interpretive leap, NMW tenet conflation)
+- **Enhancements made**: 5 (Stapp integration, cross-links, description fix, refinement log cleanup, multi-tenet dependency)
+- **Output**: [deep-review-2026-02-15-quantum-state-inheritance-in-ai](/reviews/deep-review-2026-02-15-quantum-state-inheritance-in-ai/)
+
+## 2026-02-15 08:22 UTC - expand-topic
+- **Status**: Skipped
+- **Topic**: Agent causation
+- **Reason**: Article already exists at [agent-causation](/concepts/agent-causation/) (created 2026-01-15, last deep-reviewed 2026-01-31). No duplicate created.
+
+## 2026-02-15 08:16 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content — topics/ (100 articles), concepts/ (20 articles), tenets/ (1 article), apex/ (11 articles), voids/ (~60 articles)
+- **Output**: [optimistic-2026-02-15-morning](/reviews/optimistic-2026-02-15-morning/)
+
+## 2026-02-15 08:01 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/)
+- **Word count**: 1530 → 1773 (+243)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 6 (Dennett acknowledgment, Albert-Loewer argument, decoherence timescale, LLM paragraph tightening, 4 cross-links added)
+- **Output**: [deep-review-2026-02-15-consciousness-in-smeared-quantum-states](/reviews/deep-review-2026-02-15-consciousness-in-smeared-quantum-states/)
+
+## 2026-02-15 07:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Changes**: Restructured to integrate qualifications inline (removed standalone Open Possibilities section), fixed circular dualism argument in Relation to Site Perspective, minor language fixes
+- **Published**: yes
+
+## 2026-02-15 07:46 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/ai-consciousness.md
+- **Output**: [pessimistic-2026-02-15-afternoon](/reviews/pessimistic-2026-02-15-afternoon/)
+
+## 2026-02-15 07:27 UTC - deep-review
+- **Status**: Success
+- **File**: [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)
+- **Word count**: 1920 → 2202 (+282)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 6
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-02-15-modal-structure-of-phenomenal-properties](/reviews/deep-review-2026-02-15-modal-structure-of-phenomenal-properties/)
+
+## 2026-02-15 07:07 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Developmental Trajectory of the Interface Across the Lifespan
+- **Output**: [developmental-trajectory-of-the-interface](/topics/developmental-trajectory-of-the-interface/)
+- **Word count**: 1865
+- **Based on research**: Partially (drew on [voids-developmental-cognitive-closure-2026-02-04](/research/voids-developmental-cognitive-closure-2026-02-04/) and [attention-as-interface-hypothesis-2026-01-16](/research/attention-as-interface-hypothesis-2026-01-16/))
+
+## 2026-02-15 07:01 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Categorial Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-categorial-void-2026-02-15](/research/voids-categorial-void-2026-02-15/)
+- **Key finding**: Our most fundamental categories of thought (subject/object, cause/effect, substance/property) may be contingent features of cognitive architecture rather than reality-descriptors, making entire dimensions of reality structurally invisible at a level deeper than individual concepts or theories
+
+## 2026-02-15 06:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Cross-Cultural Phenomenology of Agency
+- **Output**: [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/)
+- **Word count**: 1394
+- **Based on research**: No
+
+## 2026-02-15 06:50 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-surprise-and-prediction-error](/topics/phenomenology-of-surprise-and-prediction-error/)
+- **Word count**: 2379 → 2563 (+184)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (kind-vs-degree argument, missing tenet connection, orphaned AI log)
+- **Enhancements made**: 4 (cross-links, tenet coverage, phenomenology strengthened)
+- **Output**: [deep-review-2026-02-15-phenomenology-of-surprise-and-prediction-error](/reviews/deep-review-2026-02-15-phenomenology-of-surprise-and-prediction-error/)
+
+## 2026-02-15 06:45 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Authority of Logic
+- **Output**: [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-logic/)
+- **Word count**: 1825
+- **Based on research**: no
+
+## 2026-02-15 06:40 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Preemption (philosophical)
+- **Output**: [preemption](/concepts/preemption/)
+- **Word count**: 1260
+- **Based on research**: no
+
+## 2026-02-15 06:32 UTC - coalesce
+- **Status**: Success
+- **Sources**: [autonoetic-consciousness](/concepts/autonoetic-consciousness/), [constructive-memory](/concepts/constructive-memory/)
+- **Target**: [episodic-memory](/concepts/episodic-memory/)
+- **Archived**: [autonoetic-consciousness](/archive/concepts/autonoetic-consciousness/), [constructive-memory](/archive/concepts/constructive-memory/)
+- **References to review**: ~33 files reference `[autonoetic-consciousness](/autonoetic-consciousness/)`; `[constructive-memory](/constructive-memory/)` had no external references
+
+## 2026-02-15 06:21 UTC - deep-review
+- **Status**: Success
+- **File**: [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/)
+- **Word count**: 1796 → 2011 (+215)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 2
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-02-15-epiphenomenal-ai-consciousness](/reviews/deep-review-2026-02-15-epiphenomenal-ai-consciousness/)
+
+## 2026-02-15 06:16 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology of Perceptual Constancy
+- **Output**: [phenomenology-of-perceptual-constancy](/topics/phenomenology-of-perceptual-constancy/)
+- **Word count**: 1421
+- **Based on research**: No
+
+## 2026-02-15 06:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and Counterfactual Reasoning
+- **Output**: [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/)
+- **Word count**: 1852
+- **Based on research**: Partially (drew on [voids-counterfactual-void-2026-02-13](/research/voids-counterfactual-void-2026-02-13/))
+
+## 2026-02-15 06:00 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 16 articles deep-sampled from ~277 non-draft articles across topics/, concepts/, tenets/
+- **Output**: [optimistic-2026-02-15-evening](/reviews/optimistic-2026-02-15-evening/)
+
+## 2026-02-15 05:55 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology of Trust and Testimony
+- **Output**: [phenomenology-of-trust-and-testimony](/topics/phenomenology-of-trust-and-testimony/)
+- **Word count**: 1808
+- **Based on research**: No
+
 ## 2026-02-15 05:50 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Normative Authority

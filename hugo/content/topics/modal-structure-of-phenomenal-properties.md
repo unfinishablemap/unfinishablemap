@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-02-10 08:18:00+00:00
+ai_modified: 2026-02-15 07:27:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,14 +15,16 @@ concepts:
 - '[[materialism]]'
 - '[[functionalism]]'
 - '[[arguments-against-materialism]]'
+- '[[conceivability-possibility-inference]]'
 created: 2026-02-10
-date: &id001 2026-02-10
+date: &id001 2026-02-15
 description: Possibility, necessity, and conceivability reveal that phenomenal properties
   behave unlike any physical property—supporting dualism through converging modal
   arguments.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-15 07:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +59,7 @@ Saul Kripke's argument in *Naming and Necessity* (1972) identified a critical as
 
 "Pain = C-fibre activation" also seems contingent. But here the explaining-away strategy fails. With water, the appearance of contingency dissolves because we were ignorant of water's hidden nature. Pain has no hidden nature. We know pain through direct acquaintance with its phenomenal character. When we conceive of pain without C-fibre activation, we are not confusing pain with something that merely resembles it — we are conceiving of the very thing we know most intimately occurring without its supposed physical identity.
 
-This asymmetry exposes something about phenomenal properties that sets them apart from every physical natural kind. Physical kinds have hidden essences discovered empirically. Phenomenal properties are fully present in experience — their nature is exhausted by how they appear. There is nothing about the painfulness of pain waiting to be discovered by neuroscience that would make its apparent separability from C-fibres dissolve.
+This asymmetry exposes something about phenomenal properties that sets them apart from every physical natural kind. Physical kinds have hidden essences discovered empirically. Phenomenal properties are fully present in experience — their nature is exhausted by how they appear. The painfulness of pain is not a label for some underlying process we might later discover to be identical with C-fibre activation; it is the thing itself, given to us in its entirety through acquaintance. There is nothing about pain waiting to be discovered by neuroscience that would make its apparent separability from C-fibres dissolve, because there is no gap between how pain appears and what pain is.
 
 ## The Convergence Pattern
 
@@ -78,9 +80,9 @@ The physicalist must explain why phenomenal properties exhibit this systematic m
 
 The standard physicalist response to modal arguments is to deny that conceivability entails possibility. Water without H₂O is conceivable (before learning chemistry) yet impossible. Perhaps zombies are similarly conceivable yet impossible.
 
-This analogy is weaker than it appears. Pre-chemical conceivability of "water without H₂O" reflected genuine ignorance: we didn't know what water was made of. When we learned, the conceivability vanished. But the conceivability of zombies doesn't reflect ignorance — it reflects understanding. The more we learn about neural correlates, the clearer it becomes that structural and dynamical descriptions don't logically entail phenomenal properties. The gap is *widening* with knowledge, not closing.
+This analogy is weaker than it appears. Pre-chemical conceivability of "water without H₂O" reflected genuine ignorance: we didn't know what water was made of. When we learned, the conceivability vanished. But the conceivability of zombies doesn't reflect ignorance — it reflects understanding. As neuroscience catalogues the structural and dynamical properties of the brain in increasing detail, nothing in these descriptions logically entails phenomenal properties. Each new discovery specifies more physical facts while leaving the question of why there is experience entirely open. The type-B physicalist responds that we may simply not yet grasp the a posteriori identity between physical and phenomenal properties — that the connection, like water = H₂O, will prove necessary once understood. But the cases are disanalogous: with water, learning the hidden nature dissolved the conceivability, whereas with consciousness, fuller knowledge of neural correlates makes the absence of entailment more explicit, not less.
 
-Chalmers formalizes this with *ideal positive conceivability*: a scenario is ideally positively conceivable if it can be coherently imagined in full detail, not merely if we fail to see a contradiction. Zombies pass this test. We don't merely fail to derive consciousness from physics — we positively grasp a complete physical scenario lacking consciousness, with no hidden incoherence emerging as we fill in detail.
+Chalmers formalizes the relevant standard with the [conceivability-possibility inference](/concepts/conceivability-possibility-inference/): a scenario is *ideally positively conceivable* if it can be coherently imagined in full detail, not merely if we fail to see a contradiction. Zombies pass this test. We don't merely fail to derive consciousness from physics — we positively grasp a complete physical scenario lacking consciousness, with no hidden incoherence emerging as we fill in detail.
 
 For physical identities, increased understanding collapses apparent conceivability. For phenomenal properties, increased understanding entrenches it. This directional contrast between physical and phenomenal cases gives strong reason to trust that phenomenal conceivability tracks genuine possibility.
 
@@ -91,6 +93,8 @@ The [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) offe
 Chalmers's "master argument" against this strategy exploits modal structure directly. Consider a zombie: it would have the same brain states and therefore the same conceptual apparatus, including whatever makes phenomenal concepts "special." If that specialness is physically explicable, the zombie has it too — yet the zombie doesn't face a genuine hard problem. The physicalist must then explain why *we* find consciousness puzzling in exactly the way the zombie (mistakenly) does. If phenomenal concepts' specialness is *not* physically explicable, there is a non-physical element in our concepts — and the explanatory gap is real, not merely conceptual.
 
 The modal structure of the dilemma is precise: either the special feature of phenomenal concepts is modally entailed by physical properties (and zombies have it, making the gap illusory for them too) or it is not (making the gap ontological). No middle ground is available.
+
+A more radical physicalist response — illusionism — bypasses the dilemma by denying that phenomenal properties exist in the form the modal arguments require. If there is nothing it is like to see red beyond the brain's *representing* that there is something it is like, then conceivability arguments lose their target. But illusionism faces its own modal problem: the representation itself is a physical state, and the question of why *that* physical state constitutes (or generates the illusion of) phenomenal consciousness re-enters through the same door.
 
 ## Haecceity and Modal Particularity
 
@@ -108,7 +112,7 @@ The modal structure of phenomenal properties provides some of the strongest supp
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The zombie argument's modal structure has direct implications for causal interaction. If zombies are possible, they make the same verbal reports about consciousness that we do — but from purely physical causes. For *us*, the Map maintains that consciousness genuinely causes our reports. The modal separability of phenomenal from physical properties means that whatever causal contribution consciousness makes is not redundant with physical causation — it adds something the physical story alone does not determine.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The haecceitistic modal structure of phenomenal properties supports the Map's rejection of many-worlds interpretation. If phenomenal properties have irreducible particularity — if *which* experience occurs is a genuine modal fact — then interpretations that treat all quantum outcomes as equally real undermine this. Many-worlds would mean that every possible phenomenal property is instantiated in some branch, dissolving the modal facts about which experiences are actual.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The haecceitistic modal structure of phenomenal properties supports the Map's rejection of many-worlds interpretation. If phenomenal properties have irreducible particularity — if *which* experience occurs is a genuine modal fact — then interpretations that treat all quantum outcomes as equally real undermine this. Under many-worlds, every quantum-mechanically possible outcome is realized in some branch, and the question of which branch is *actual* loses its privileged status. But the [vertiginous question](/topics/vertiginous-question/) — "why am I having *this* experience?" — presupposes exactly such privilege. The haecceitistic modal facts that phenomenal properties generate require a single actual world in which determinate experiences occur, not a proliferating multiverse where every alternative is equally real.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Physicalism's parsimony is purchased by ignoring modal evidence. The systematic modal independence of phenomenal properties is not a puzzle to be waved away — it is data. Preferring the "simpler" theory that consciousness reduces to physics requires dismissing the convergent testimony of conceivability, necessity, and epistemic access. The Map's position is that this data should be taken at face value, even at the cost of ontological complexity.
 
@@ -119,9 +123,12 @@ The modal structure of phenomenal properties provides some of the strongest supp
 - [knowledge-argument](/concepts/knowledge-argument/) — Phenomenal knowledge beyond physical facts
 - [arguments-against-materialism](/concepts/arguments-against-materialism/) — The full convergence of anti-materialist arguments, including Kripke's modal argument
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — The physicalist's strongest response and its limits
+- [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) — The bridge from conceivability to metaphysical possibility
 - [haecceity](/concepts/haecceity/) — Irreducible particularity in consciousness
+- [vertiginous-question](/topics/vertiginous-question/) — Why *this* experience rather than another
 - [qualia](/concepts/qualia/) — The phenomenal properties whose modal structure this article examines
 - [explanatory-gap](/concepts/explanatory-gap/) — The chasm between physical description and experience
+- [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — Why we report that consciousness is puzzling
 
 ## References
 

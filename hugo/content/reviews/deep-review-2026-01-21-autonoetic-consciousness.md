@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-21
-**Article**: [Autonoetic Consciousness](/concepts/autonoetic-consciousness/)
+**Article**: [Autonoetic Consciousness](/autonoetic-consciousness/)
 **Previous review**: [2026-01-20 (partial)](/reviews/deep-review-2026-01-20-autonoetic-consciousness/)
 
 ## Pessimistic Analysis Summary

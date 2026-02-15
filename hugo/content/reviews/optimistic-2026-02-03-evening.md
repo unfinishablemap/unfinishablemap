@@ -106,7 +106,7 @@ The "folk error" accusation receives careful treatment: "cognitive naturalness d
 - **Tenet alignment**: Supports Dualism by showing that understanding has irreducible phenomenal character that functional description cannot capture
 
 #### Consciousness and Causal Powers: A Metaphysical Framework
-- **Builds on**: [agent-causation](/concepts/agent-causation/), [substance-causation](/concepts/substance-causation/), [mental-causation](/concepts/mental-causation/)
+- **Builds on**: [agent-causation](/concepts/agent-causation/), [substance-causation](/substance-causation/), [mental-causation](/concepts/mental-causation/)
 - **Would address**: The metaphysics of how substances exercise causal powers. The Map's framework requires that consciousness *does* something, but the metaphysics of "doing" needs systematic treatment. How do agent-causal powers relate to physical causation? What does "selection" mean metaphysically?
 - **Estimated scope**: Long article
 - **Tenet alignment**: Grounds Bidirectional Interaction in rigorous metaphysics

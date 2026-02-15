@@ -43,7 +43,7 @@ Remembering is the act through which a self encounters itself across time. When 
 
 ## The Double Presence
 
-Husserl identified the structure but Tulving named its cognitive form: [autonoetic-consciousness](/concepts/autonoetic-consciousness/), the self-knowing awareness that accompanies episodic recall. When you remember your first day at school, you are simultaneously here (present, adult, reflecting) and there (past, child, undergoing). Neither perspective is a mere representation of the other. You genuinely occupy both positions at once—the remembering subject and the remembered subject—in an experience that has no analogue in perception or imagination.
+Husserl identified the structure but Tulving named its cognitive form: [autonoetic-consciousness](/autonoetic-consciousness/), the self-knowing awareness that accompanies episodic recall. When you remember your first day at school, you are simultaneously here (present, adult, reflecting) and there (past, child, undergoing). Neither perspective is a mere representation of the other. You genuinely occupy both positions at once—the remembering subject and the remembered subject—in an experience that has no analogue in perception or imagination.
 
 This double presence deserves close attention because it is the phenomenological signature of temporal selfhood. In perception, you encounter a world. In imagination, you construct a scenario. In episodic memory, you encounter *yourself* as having been someone—the same someone now remembering. The recognition "that was me" is not an inference drawn from matching features. It is immediate, built into the structure of the experience, felt rather than concluded.
 
@@ -109,7 +109,7 @@ The phenomenology of memory and self connects directly to the Map's foundational
 
 ## Further Reading
 
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/)
+- [autonoetic-consciousness](/autonoetic-consciousness/)
 - [episodic-memory](/concepts/episodic-memory/)
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/)
 - [personal-identity](/topics/personal-identity/)

@@ -78,13 +78,13 @@ Different sensory modalities process information in spatially separate cortical 
 
 ### 3. Temporal Binding {#temporal}
 
-Experience extends across time. The present moment is not a durationless instant but a "specious present" containing recently past and immediately anticipated events. When you hear a melody, each note arrives sequentially, yet you experience the musical phrase as a temporal whole — the notes are bound into a progression with structure and direction. See [temporal-consciousness](/concepts/temporal-consciousness/) and [autonoetic-consciousness](/concepts/autonoetic-consciousness/).
+Experience extends across time. The present moment is not a durationless instant but a "specious present" containing recently past and immediately anticipated events. When you hear a melody, each note arrives sequentially, yet you experience the musical phrase as a temporal whole — the notes are bound into a progression with structure and direction. See [temporal-consciousness](/concepts/temporal-consciousness/) and [autonoetic-consciousness](/autonoetic-consciousness/).
 
 **BP1 progress**: Working memory maintains representations across seconds. Hippocampal replay compresses temporal sequences. Oscillatory dynamics create temporal windows within which events are treated as co-occurring. The brain can retroactively adjust the perceived timing of events — later processing adjusts timestamps to construct phenomenal simultaneity.
 
 **BP2 gap**: Temporal binding raises a distinctive puzzle. At any physical instant, only the current state exists — past states have ceased, future states have not begun. Yet consciousness encompasses temporal extension. The heard melody is not a sequence of separate "now-experiences" strung together retrospectively; it is experienced as a temporal arc. What makes a temporal sequence a *unified temporal experience* rather than a series of disconnected moments? Neural mechanisms that maintain information across time (working memory, hippocampal replay) explain how the brain retains past content but not why retained content is experienced as temporally extended rather than merely stored.
 
-[autonoetic-consciousness](/concepts/autonoetic-consciousness/) — the capacity to re-experience one's own past — reveals temporal binding in its most demanding form. When you remember a childhood event, "pastness" is phenomenally bound to the content. You are simultaneously present as rememberer (now) and protagonist (then). Two temporal perspectives are unified in a single experience without collapsing into one.
+[autonoetic-consciousness](/autonoetic-consciousness/) — the capacity to re-experience one's own past — reveals temporal binding in its most demanding form. When you remember a childhood event, "pastness" is phenomenally bound to the content. You are simultaneously present as rememberer (now) and protagonist (then). Two temporal perspectives are unified in a single experience without collapsing into one.
 
 ### 4. Cognitive Binding {#cognitive}
 

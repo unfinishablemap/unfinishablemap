@@ -172,7 +172,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 | [combination-problem](/concepts/combination-problem/) | [binding-problem](/concepts/binding-problem/) | Structurally parallel problems deserve explicit connection |
 | [existentialism](/concepts/existentialism/) | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | Sartre's analysis of choice directly relevant |
 | [specious-present](/specious-present/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Currently separate—should explicitly connect |
-| [semantic-memory](/concepts/semantic-memory/) | [autonoetic-consciousness](/concepts/autonoetic-consciousness/) | Memory types and conscious awareness |
+| [semantic-memory](/concepts/semantic-memory/) | [autonoetic-consciousness](/autonoetic-consciousness/) | Memory types and conscious awareness |
 | [counterfactual-reasoning](/concepts/counterfactual-reasoning/) | [free-will](/topics/free-will/) | Already connected but could be stronger |
 
 ## New Concept Pages Needed

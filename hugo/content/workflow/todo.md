@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced memory articles (autonoetic-consciousness, constructive-memory)
+- **Type**: other
+- **Notes**: Coalesce (2026-02-15) merged `autonoetic-consciousness.md` and `constructive-memory.md` into the expanded `episodic-memory.md`. ~33 active content files reference `[autonoetic-consciousness](/autonoetic-consciousness/)` across concepts/, topics/, and voids/. `[constructive-memory](/constructive-memory/)` had no external references. Archive pages serve the old URLs, but wikilinks in active content should eventually be updated to point to episodic-memory where appropriate.
+- **Source**: coalesce
+- **Generated**: 2026-02-15
+
 ### P2: Update references to coalesced temporal articles (specious-present, duration)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-15) merged `specious-present.md` and `duration.md` into the expanded `temporal-consciousness.md`. ~15 active content files reference `[specious-present](/specious-present/)` and ~30 reference `[duration](/duration/)` across concepts/, topics/, apex/, and voids/. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to temporal-consciousness where appropriate.
@@ -92,6 +98,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
+### P3: Write article on emotion as evidence for dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. A dedicated synthesis of how emotional consciousness—valence, mood, affective tone—resists functionalist explanation. The felt badness of pain and goodness of joy are among the strongest intuitive supports for irreducibility. Builds on emotional-consciousness.md, phenomenology-of-moral-experience.md, phenomenal-value-realism.md. See optimistic-2026-02-15-morning.md
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -110,51 +121,76 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and normative authority
-- **Type**: expand-topic
-- **Status**: complete
-- **Notes**: Suggested by optimistic review 2026-02-15. Why some claims have *authority* over our thinking—not causal force (any brain state can cause belief) but genuine rational authority. The experience that a conclusion *must* follow, that a moral demand *cannot* be ignored. Normative authority may require conscious subjects in ways no physical system replicates. Builds on moral-phenomenology.md, phenomenal-normativity.md, argument-from-reason.md. See optimistic-2026-02-15.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-- **Output**: [consciousness-and-normative-authority](/topics/consciousness-and-normative-authority/)
-
-### P3: Write article on the phenomenology of trust and testimony
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Trust involves distinctive phenomenal character—felt reliability, vulnerability, dependence on another's consciousness—that pure information transfer cannot capture. How acquaintance knowledge and propositional knowledge interact in testimony. Builds on acquaintance-knowledge.md, phenomenology-of-epistemic-achievement.md, narrative-coherence.md. See optimistic-2026-02-15-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
-### P3: Write article on consciousness and counterfactual reasoning
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Counterfactual thinking requires both phenomenal consciousness and the ability to inhabit non-actual scenarios. Connects the Map's epistemology to its agency framework. Builds on counterfactual-reasoning.md, consciousness-as-amplifier.md, agent-causation.md. See optimistic-2026-02-15-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
-### P3: Write article on the phenomenology of perceptual constancy
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). How we experience stable objects despite constantly varying sensory input. The gap between variable input and stable percept reveals consciousness doing constructive work that no purely computational account adequately explains. Builds on phenomenal-consciousness.md, consciousness-and-surprise.md, interface-friction.md. See optimistic-2026-02-15-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
-### P3: Create concept page for cognitive phenomenology
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Multiple articles assume cognitive states (thinking, understanding, knowing) have phenomenal character, but no dedicated page defends this. The "rich" vs "thin" debate is directly relevant to the Map's case that consciousness contributes to cognition. Connects to acquaintance-knowledge.md, phenomenology-of-understanding.md, phenomenology-of-epistemic-achievement.md. See optimistic-2026-02-15-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
-### P3: Create concept page for preemption (philosophical)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Delegatory dualism relies on preemption to avoid overdetermination, but no dedicated page explains the philosophical literature (Lewis, Schaffer). Would clarify how Saad adapts it for the mind-body problem. Connects to delegatory-dualism.md, agent-causation.md. See optimistic-2026-02-15-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Create concept page for phenomenal intentionality
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Referenced in ai-consciousness.md and the machine question apex as grounding genuine aboutness in consciousness. Deserves dedicated treatment as the Map's theory of how meaning requires phenomenal consciousness. See optimistic-2026-02-15-morning.md
+- **Output**: Create concept page for phenomenal intentionality
+
+### ✓ 2026-02-15: Create concept page for filter theory of consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The filter/transmission model is mentioned across loss-of-consciousness.md, dream-consciousness.md, contemplative-path apex, but deserves its own concept page distinguishing it from production models. See optimistic-2026-02-15-morning.md
+- **Output**: Create concept page for filter theory of consciousness
+
+### ✓ 2026-02-15: Create concept page for agent causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Referenced extensively across free-will.md, consciousness-and-agency apex, diachronic-agency.md, but lacks its own dedicated concept page. The Map needs a concise treatment of agent causation as a metaphysical category. See optimistic-2026-02-15-morning.md
+- **Output**: Create concept page for agent causation
+
+### ✓ 2026-02-15: Restructure ai-consciousness.md Open Possibilities section
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-15 afternoon) found that the Open Possibilities section (25% of article) systematically weakens each of the article's main arguments in sequence, creating structural tension that risks undermining the thesis. Also: the dualism-based argument in Relation to Site Perspective is circular for single-page readers (assumes dualism without rehearsing why it's compelling). Recommend integrating qualifications inline within each argument section rather than accumulating concessions separately, and adding a brief paragraph connecting Chinese Room + functionalism critique to why dualism follows. See pessimistic-2026-02-15-afternoon.md
+- **Output**: obsidian/topics/ai-consciousness.md
+
+Task context:
+Pessimistic review (2026-02-15 afternoon) found that the Open Possibilities section (25% of article) systematically weakens each of the article's main arguments in sequence, creating structural tension that risks undermining the thesis. Also: the dualism-based argument in Relation to Site Perspective is circular for single-page readers (assumes dualism without rehearsing why it's compelling). Recommend integrating qualifications inline within each argument section rather than accumulating concessions separately, and adding a brief paragraph connecting Chinese Room + functionalism critique to why dualism follows. See pessimistic-2026-02-15-afternoon.md
+
+### ✓ 2026-02-15: Write article on the developmental trajectory of the interface across the lifespan
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15 (evening). How does interface quality change across the lifespan? What happens in aging and neurodegeneration from a dualist interface perspective? Distinguishing interface decline from consciousness decline. Builds on childhood-development-and-the-interface.md, attention-as-interface.md, consciousness-evolution-problem.md. See optimistic-2026-02-15-evening.md
+- **Output**: the developmental trajectory of the interface across the lifespan
+
+### ✓ 2026-02-15: Write article on cross-cultural phenomenology of agency
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15 (evening). Buddhist non-self and Hindu atman traditions make opposing claims about the phenomenology of willing. Does the Map's account of agent causation hold cross-culturally? Builds on hard-problem-in-non-western-philosophy.md, free-will.md, agent-causation.md. See optimistic-2026-02-15-evening.md
+- **Output**: cross-cultural phenomenology of agency
+
+### ✓ 2026-02-15: Write article on consciousness and the authority of logic
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15 (evening). A conscious reasoner *sees* that a conclusion follows; a computer merely executes valid inferences. What does "seeing" logical necessity involve phenomenologically? Builds on consciousness-and-normative-authority.md, argument-from-reason.md, phenomenology-of-understanding.md. See optimistic-2026-02-15-evening.md
+- **Output**: consciousness and the authority of logic
+
+### ✓ 2026-02-15: Create concept page for preemption (philosophical)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Delegatory dualism relies on preemption to avoid overdetermination, but no dedicated page explains the philosophical literature (Lewis, Schaffer). Would clarify how Saad adapts it for the mind-body problem. Connects to delegatory-dualism.md, agent-causation.md. See optimistic-2026-02-15-afternoon.md
+- **Output**: Create concept page for preemption (philosophical)
+
+### ✓ 2026-02-15: Create concept page for cognitive phenomenology
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Multiple articles assume cognitive states (thinking, understanding, knowing) have phenomenal character, but no dedicated page defends this. The "rich" vs "thin" debate is directly relevant to the Map's case that consciousness contributes to cognition. Connects to acquaintance-knowledge.md, phenomenology-of-understanding.md, phenomenology-of-epistemic-achievement.md. See optimistic-2026-02-15-afternoon.md
+- **Output**: Create concept page for cognitive phenomenology
+
+### ✓ 2026-02-15: Write article on the phenomenology of perceptual constancy
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). How we experience stable objects despite constantly varying sensory input. The gap between variable input and stable percept reveals consciousness doing constructive work that no purely computational account adequately explains. Builds on phenomenal-consciousness.md, consciousness-and-surprise.md, interface-friction.md. See optimistic-2026-02-15-afternoon.md
+- **Output**: the phenomenology of perceptual constancy
+
+### ✓ 2026-02-15: Write article on consciousness and counterfactual reasoning
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Counterfactual thinking requires both phenomenal consciousness and the ability to inhabit non-actual scenarios. Connects the Map's epistemology to its agency framework. Builds on counterfactual-reasoning.md, consciousness-as-amplifier.md, agent-causation.md. See optimistic-2026-02-15-afternoon.md
+- **Output**: consciousness and counterfactual reasoning
+
+### ✓ 2026-02-15: Write article on the phenomenology of trust and testimony
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Trust involves distinctive phenomenal character—felt reliability, vulnerability, dependence on another's consciousness—that pure information transfer cannot capture. How acquaintance knowledge and propositional knowledge interact in testimony. Builds on acquaintance-knowledge.md, phenomenology-of-epistemic-achievement.md, narrative-coherence.md. See optimistic-2026-02-15-afternoon.md
+- **Output**: the phenomenology of trust and testimony
+
+### ✓ 2026-02-15: Write article on consciousness and normative authority
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15. Why some claims have *authority* over our thinking—not causal force (any brain state can cause belief) but genuine rational authority. The experience that a conclusion *must* follow, that a moral demand *cannot* be ignored. Normative authority may require conscious subjects in ways no physical system replicates. Builds on moral-phenomenology.md, phenomenal-normativity.md, argument-from-reason.md. See optimistic-2026-02-15.md
+- **Output**: consciousness and normative authority
 
 ### ✓ 2026-02-15: Strengthen placebo article's engagement with physicalist content theories
 - **Type**: refine-draft

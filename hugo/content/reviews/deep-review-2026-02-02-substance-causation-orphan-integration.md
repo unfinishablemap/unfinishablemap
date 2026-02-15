@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Substance Causation](/concepts/substance-causation/)
+**Article**: [Substance Causation](/substance-causation/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-substance-causation/) (earlier today)
 **Focus**: Orphan integration - adding inbound links from related articles
 
@@ -35,7 +35,7 @@ Searched for articles mentioning:
 - "event causation" (contrasting concept)
 - "unmoved mover" (related terminology)
 
-Found 6 content articles discussing substance causation concepts without linking to `[substance-causation](/concepts/substance-causation/)`:
+Found 6 content articles discussing substance causation concepts without linking to `[substance-causation](/substance-causation/)`:
 
 1. **agent-causation.md** - Extensively discusses Lowe's substance causation framework
 2. **mental-causation.md** - References Lowe's argument that all causation is substance causation
@@ -47,26 +47,26 @@ Found 6 content articles discussing substance causation concepts without linking
 ## Cross-References Added
 
 ### agent-causation.md
-- Added `[substance-causation](/concepts/substance-causation/)` to concepts frontmatter
-- Added link in "Major Defenders" section: "O'Connor (2000, 2021) developed [substance causation](/concepts/substance-causation/)..."
+- Added `[substance-causation](/substance-causation/)` to concepts frontmatter
+- Added link in "Major Defenders" section: "O'Connor (2000, 2021) developed [substance causation](/substance-causation/)..."
 - Added explanatory sentence in "Substance Causation and the Map's Framework" section
-- Added to Further Reading: "[substance-causation](/concepts/substance-causation/) — The metaphysical framework: substances as fundamental causal agents"
+- Added to Further Reading: "[substance-causation](/substance-causation/) — The metaphysical framework: substances as fundamental causal agents"
 
 ### mental-causation.md
-- Added link: "all causation is fundamentally [substance causation](/concepts/substance-causation/)"
+- Added link: "all causation is fundamentally [substance causation](/substance-causation/)"
 - Added to Further Reading with description distinguishing it from agent-causation entry
 
 ### downward-causation.md
-- Added to Further Reading: "[substance-causation](/concepts/substance-causation/) — The metaphysical thesis that substances, not events, are fundamental causal agents"
+- Added to Further Reading: "[substance-causation](/substance-causation/) — The metaphysical thesis that substances, not events, are fundamental causal agents"
 
 ### consciousness-and-agency.md (apex)
-- Added link: "all causation is fundamentally [substance causation](/concepts/substance-causation/)"
+- Added link: "all causation is fundamentally [substance causation](/substance-causation/)"
 
 ### interactionist-dualism.md
-- Added link in Agent Causation section: "[Agent causation](/concepts/agent-causation/)—a specific application of [substance causation](/concepts/substance-causation/)—provides..."
+- Added link in Agent Causation section: "[Agent causation](/concepts/agent-causation/)—a specific application of [substance causation](/substance-causation/)—provides..."
 
 ### free-will.md
-- Added to Further Reading: "[substance-causation](/concepts/substance-causation/) — The broader metaphysical framework: substances as fundamental causal agents"
+- Added to Further Reading: "[substance-causation](/substance-causation/) — The broader metaphysical framework: substances as fundamental causal agents"
 
 ## Summary
 

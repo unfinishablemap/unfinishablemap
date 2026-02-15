@@ -84,7 +84,7 @@ Bergson's concept of [durée](/duration/) captures this phenomenological side. L
 
 Consciousness doesn't merely register that time passes. It experiences a structured asymmetry between temporal directions with specific phenomenal characteristics.
 
-**The settledness of the past.** Remembered events feel *actual* — they happened, and this happening has a distinctive phenomenal quality. Tulving's [autonoetic-consciousness](/concepts/autonoetic-consciousness/) describes this as self-knowing awareness: when remembering, you know yourself as having been present. The past's settledness isn't inferred from evidence but immediately given in the texture of memory.
+**The settledness of the past.** Remembered events feel *actual* — they happened, and this happening has a distinctive phenomenal quality. Tulving's [autonoetic-consciousness](/autonoetic-consciousness/) describes this as self-knowing awareness: when remembering, you know yourself as having been present. The past's settledness isn't inferred from evidence but immediately given in the texture of memory.
 
 **The openness of the future.** Anticipated events feel *possible* rather than actual. Even highly confident predictions lack the settledness of memory. You know you will eat breakfast tomorrow, but this knowledge has a modal character — it could fail to obtain — that yesterday's breakfast lacks. The future's openness is phenomenally available, not merely believed.
 

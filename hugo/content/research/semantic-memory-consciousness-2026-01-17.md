@@ -144,7 +144,7 @@ If noetic consciousness involves irreducible phenomenology (TOT feels like somet
 ### Relation to Autonoetic Coverage
 
 The Map now covers:
-- **Autonoetic** (episodic): [autonoetic-consciousness](/concepts/autonoetic-consciousness/)
+- **Autonoetic** (episodic): [autonoetic-consciousness](/autonoetic-consciousness/)
 - **Prospective**: [prospective-memory](/concepts/prospective-memory/)
 - **Working memory**: [working-memory](/concepts/working-memory/)
 

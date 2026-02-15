@@ -132,7 +132,7 @@ The specious present may be what working memory *feels like from inside*.
 
 ## Mental Time Travel and the Extended Self
 
-[Autonoetic consciousness](/concepts/autonoetic-consciousness/) extends temporal phenomenology beyond the specious present across the lifespan. When you remember your wedding, you don't merely access information—you *inhabit* it from a first-person perspective, simultaneously here-now-remembering and there-then-experiencing.
+[Autonoetic consciousness](/autonoetic-consciousness/) extends temporal phenomenology beyond the specious present across the lifespan. When you remember your wedding, you don't merely access information—you *inhabit* it from a first-person perspective, simultaneously here-now-remembering and there-then-experiencing.
 
 This inhabitation is asymmetric. Memory carries a "feeling of pastness"—a genuine temporal quale marking the event as having-happened. Future simulation lacks equivalent phenomenal weight. This [asymmetry](/voids/temporal-asymmetry-remembering-anticipating/) may be conceptually necessary: pre-experience would require the pastness quale applied to something that hasn't happened—a category error.
 
@@ -248,7 +248,7 @@ Temporal consciousness connects to all five tenets:
 
 ## Further Reading
 
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporal self
+- [autonoetic-consciousness](/autonoetic-consciousness/) — Mental time travel and the temporal self
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why we can re-experience the past but only imagine the future
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series and the Map's growing block position
 - [collapse-and-time](/concepts/collapse-and-time/) — How consciousness may participate in time's arrow via quantum collapse

@@ -53,7 +53,7 @@ Experience flows through time. When you hear a melody, successive notes unify in
 
 [Husserl's analysis](/concepts/temporal-consciousness/) identifies retention (the immediate past echoing in awareness), primal impression (the present moment), and protention (anticipation of what's coming). These form an indivisible whole within the [specious present](/specious-present/)—roughly 100 to 750 milliseconds within which succession is experienced as unified.
 
-At larger scales, [autonoetic consciousness](/concepts/autonoetic-consciousness/) extends diachronic unity across a lifetime, allowing mental time travel while maintaining first-person perspective throughout.
+At larger scales, [autonoetic consciousness](/autonoetic-consciousness/) extends diachronic unity across a lifetime, allowing mental time travel while maintaining first-person perspective throughout.
 
 ### Subject Unity
 
@@ -168,7 +168,7 @@ One might propose all three unities are "really" one thing for parsimony. But if
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Diachronic structure and the specious present
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Subject unity and the minimal self
 - [personal-identity](/topics/personal-identity/) — How subjects persist across time
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporal self
+- [autonoetic-consciousness](/autonoetic-consciousness/) — Mental time travel and the temporal self
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on unity dissociation
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's version of the unity puzzle
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Quantum entanglement as binding mechanism

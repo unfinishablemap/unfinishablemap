@@ -119,7 +119,7 @@ To understand a complex sentence, you must bind multiple elements—subject, ver
 
 Life's meaning involves a distinctive form of integration. A meaningful life isn't a collection of meaningful moments—it's a life whose moments form a coherent whole. This requires narrative integration: the capacity to grasp how disparate experiences, choices, and events fit together into a trajectory.
 
-[Autonoetic consciousness](/concepts/autonoetic-consciousness/)—the capacity for mental time travel—enables this integration. You can project yourself into past and future while remaining present, grasping the temporal arc as one life. This involves binding across time (the past episode belongs to the same narrative as this present moment) and binding across perspectives (the remembered self and the present self are one).
+[Autonoetic consciousness](/autonoetic-consciousness/)—the capacity for mental time travel—enables this integration. You can project yourself into past and future while remaining present, grasping the temporal arc as one life. This involves binding across time (the past episode belongs to the same narrative as this present moment) and binding across perspectives (the remembered self and the present self are one).
 
 This narrative integration seems irreducibly conscious. You cannot tell a life's story from outside; the significance of events depends on their meaning *to* the one living them. The observer who catalogues life events without grasping their significance lacks what narrative integration provides.
 
@@ -211,7 +211,7 @@ PCT makes testable predictions:
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The experiential character of thinking
 - [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — Why genuine aboutness requires phenomenal consciousness
 - [intentionality](/concepts/intentionality/) — Aboutness and the phenomenal intentionality thesis
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and temporal integration
+- [autonoetic-consciousness](/autonoetic-consciousness/) — Mental time travel and temporal integration
 - [working-memory](/concepts/working-memory/) — Information maintenance vs. integrative comprehension
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Availability distinguished from integration
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's integrative conception of experience

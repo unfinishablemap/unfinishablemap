@@ -42,7 +42,7 @@ Narrative coherence has three distinguishing features.
 
 **Temporal binding of meaning.** Isolated events acquire significance through their position in a larger arc. A year of gruelling study means something different as part of a medical career than as an aimless period of one's twenties. The events are identical; the coherence relation transforms their significance. This goes beyond [temporal-unity](/concepts/temporal-unity/)—the binding of moments into a continuous experiential stream. Temporal unity ensures you experience *flow*; narrative coherence ensures you experience *direction*.
 
-**Intelligibility from the inside.** Narrative coherence is first-personal. An external observer might judge a life coherent or incoherent, but the phenomenon that matters is whether *you* experience your life as making sense. A biographer's narrative about you is not the same as the narrative coherence you live through. This connects to [autonoetic-consciousness](/concepts/autonoetic-consciousness/): the capacity to mentally re-inhabit past decisions and project into future consequences is the cognitive machinery through which narrative coherence operates.
+**Intelligibility from the inside.** Narrative coherence is first-personal. An external observer might judge a life coherent or incoherent, but the phenomenon that matters is whether *you* experience your life as making sense. A biographer's narrative about you is not the same as the narrative coherence you live through. This connects to [autonoetic-consciousness](/autonoetic-consciousness/): the capacity to mentally re-inhabit past decisions and project into future consequences is the cognitive machinery through which narrative coherence operates.
 
 **Revisability without collapse.** A coherent life narrative is not rigid. People reinterpret their pasts, revise their commitments, and redirect their futures—sometimes radically. What matters is that these revisions produce a new coherent whole rather than fragmenting into disconnected episodes. A career change can *strengthen* narrative coherence if it is experienced as correcting an earlier mistake or discovering a deeper calling. The capacity for coherent revision—not mere change but reorganisation that preserves intelligibility—is one of the features that distinguishes narrative coherence from mere causal continuity.
 
@@ -87,7 +87,7 @@ Narrative coherence connects to the Map's foundational commitments through its d
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/) — How narrative coherence grounds extended agency
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three layers of selfhood and where narrative fits
 - [personal-identity](/topics/personal-identity/) — Why indexical identity matters for the coherent subject
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — The cognitive machinery of temporal self-projection
+- [autonoetic-consciousness](/autonoetic-consciousness/) — The cognitive machinery of temporal self-projection
 - [temporal-unity](/concepts/temporal-unity/) — Experiential flow across time, which narrative coherence builds upon
 - [parfit-reductionism](/concepts/parfit-reductionism/) — Why psychological continuity alone is insufficient
 - [moral-responsibility](/concepts/moral-responsibility/) — How coherence enables responsibility across time

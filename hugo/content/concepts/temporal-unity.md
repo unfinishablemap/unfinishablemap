@@ -57,7 +57,7 @@ The Map's content addresses several phenomena in the neighbourhood of temporal u
 
 **[The binding problem](/concepts/binding-problem/)** typically concerns spatial or feature binding: how colour and shape unite at a moment. Temporal unity is binding's temporal counterpart—how the note just heard and the note now sounding unite into a phrase. The mechanisms may differ: gamma synchrony addresses spatial binding, while retention-protention structure addresses temporal binding.
 
-**Experiential continuity** at longer timescales extends beyond the specious present. The Map's treatment of [temporal integration](/topics/consciousness-and-temporal-integration/) distinguishes micro-integration (within the specious present), meso-integration (across successive specious presents), and macro-integration (the [temporal self](/concepts/autonoetic-consciousness/) spanning a lifetime). Temporal unity in its strict sense concerns micro- and meso-integration. Macro-integration involves additional capacities—episodic memory, narrative identity—that go beyond temporal unity proper.
+**Experiential continuity** at longer timescales extends beyond the specious present. The Map's treatment of [temporal integration](/topics/consciousness-and-temporal-integration/) distinguishes micro-integration (within the specious present), meso-integration (across successive specious presents), and macro-integration (the [temporal self](/autonoetic-consciousness/) spanning a lifetime). Temporal unity in its strict sense concerns micro- and meso-integration. Macro-integration involves additional capacities—episodic memory, narrative identity—that go beyond temporal unity proper.
 
 ## Why Temporal Unity Is Philosophically Significant
 
@@ -107,7 +107,7 @@ These dissociations confirm that temporal unity is a distinct phenomenal propert
 - [duration](/duration/) — Bergson's qualitative lived time
 - [binding-problem](/concepts/binding-problem/) — Spatial/feature binding as temporal unity's counterpart
 - [collapse-and-time](/concepts/collapse-and-time/) — How consciousness may participate in constituting time's arrow
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporal self
+- [autonoetic-consciousness](/autonoetic-consciousness/) — Mental time travel and the temporal self
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework where experiential inheritance grounds continuity
 
 ## References

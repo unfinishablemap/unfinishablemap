@@ -102,7 +102,7 @@ A puzzle: if consciousness selects collapse outcomes, doesn't selection happen a
 
 ### The Felt Asymmetry of Past and Future
 
-Consider yesterday versus tomorrow. The phenomenological difference is striking. Yesterday has settledness—fixed, rememberable, unchangeable. Tomorrow has openness—responsive to what you do now. This asymmetry appears in [mental time travel](/concepts/autonoetic-consciousness/): remembering your graduation involves *inhabiting* the memory with a "feeling of pastness," while imagining next year's holiday feels provisional.
+Consider yesterday versus tomorrow. The phenomenological difference is striking. Yesterday has settledness—fixed, rememberable, unchangeable. Tomorrow has openness—responsive to what you do now. This asymmetry appears in [mental time travel](/autonoetic-consciousness/): remembering your graduation involves *inhabiting* the memory with a "feeling of pastness," while imagining next year's holiday feels provisional.
 
 If consciousness participates in collapse, and collapse creates irreversible facts, then this asymmetry isn't merely epistemic—it's about what exists. The past is settled because collapse has occurred; the future is open because it hasn't.
 

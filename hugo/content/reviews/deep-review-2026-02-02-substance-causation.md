@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Substance Causation](/concepts/substance-causation/)
+**Article**: [Substance Causation](/substance-causation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

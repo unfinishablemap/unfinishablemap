@@ -88,7 +88,7 @@ Life's meaning involves a distinctive form of integration. A meaningful life isn
 
 Narrative integration differs from both memory and planning. Memory stores episodes; narrative integration sees their significance within a larger story. Planning projects future states; narrative integration grasps how the projected future relates to the lived past. The narrator stands in the midst of the story, integrating remembered past and anticipated future into meaningful present.
 
-[Autonoetic consciousness](/concepts/autonoetic-consciousness/)—the capacity for mental time travel—enables this integration. You can project yourself into past and future while remaining present, grasping the temporal arc as one life. This involves binding across time (the past episode belongs to the same narrative as this present moment) and binding across perspectives (the remembered self and the present self are one).
+[Autonoetic consciousness](/autonoetic-consciousness/)—the capacity for mental time travel—enables this integration. You can project yourself into past and future while remaining present, grasping the temporal arc as one life. This involves binding across time (the past episode belongs to the same narrative as this present moment) and binding across perspectives (the remembered self and the present self are one).
 
 This narrative integration seems irreducibly conscious. You cannot tell a life's story from outside; the significance of events depends on their meaning *to* the one living them. The observer who catalogs life events without grasping their significance lacks what narrative integration provides.
 
@@ -154,7 +154,7 @@ These conditions distinguish the phenomenal-integration view from alternatives w
 - [meaning-of-life](/topics/meaning-of-life/) — Consciousness-grounded meaning and existential significance
 - [binding-problem](/concepts/binding-problem/) — Comprehensive treatment of perceptual binding and its relation to meaning unity
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The experiential character of thinking
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and temporal integration
+- [autonoetic-consciousness](/autonoetic-consciousness/) — Mental time travel and temporal integration
 - [working-memory](/concepts/working-memory/) — Information maintenance vs. integrative comprehension
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Availability distinguished from integration
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's integrative conception of experience

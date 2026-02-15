@@ -51,7 +51,7 @@ Close your eyes and consider yesterday. Then consider tomorrow. The phenomenolog
 
 This asymmetry pervades agentive experience. You deliberate about futures, not pasts. You regret past choices but can only act on future ones. You feel responsible for what you're about to do in a way that differs from how you feel about what you've already done.
 
-The asymmetry appears in [mental time travel](/concepts/autonoetic-consciousness/). When you remember attending your graduation, you don't merely access information—you *inhabit* the memory from a first-person perspective. The "feeling of pastness" marks the event as having-happened. When you imagine next year's holiday, you construct a possible future but lack the pastness quale. The imagination feels provisional in a way memory does not.
+The asymmetry appears in [mental time travel](/autonoetic-consciousness/). When you remember attending your graduation, you don't merely access information—you *inhabit* the memory from a first-person perspective. The "feeling of pastness" marks the event as having-happened. When you imagine next year's holiday, you construct a possible future but lack the pastness quale. The imagination feels provisional in a way memory does not.
 
 ### Is the Asymmetry Merely Epistemic?
 
@@ -187,7 +187,7 @@ The phenomenology of temporal agency connects to all five tenets:
 - [specious-present](/specious-present/) — The experienced duration of the present moment
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of cognitive effort and possible mechanisms
 - [witness-consciousness](/concepts/witness-consciousness/) — Non-agentive modes of conscious presence
-- [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporal self
+- [autonoetic-consciousness](/autonoetic-consciousness/) — Mental time travel and the temporal self
 - [retrocausality](/concepts/retrocausality/) — How time-symmetric physics relates to agency
 
 ## References

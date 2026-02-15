@@ -220,7 +220,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 ## Further Reading
 
 - [agent-causation](/concepts/agent-causation/) — Why the Map's framework is agent-causal
-- [substance-causation](/concepts/substance-causation/) — The broader metaphysical framework: substances as fundamental causal agents
+- [Substance causation](/concepts/agent-causation/#the-metaphysical-foundation-substance-causation) — The broader metaphysical framework: substances as fundamental causal agents
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum mechanics supports libertarian free will
 - [mental-causation](/concepts/mental-causation/) — Essential for free will; how the framework addresses Kim's exclusion
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of deciding
