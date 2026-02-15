@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 04:41 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Contrast-Dependence Void
+- **Category**: Mixed (Unexplorable / Unexplored)
+- **Output**: [[research/voids-contrast-dependence-void-2026-02-15]]
+- **Key finding**: Consciousness fundamentally requires difference/contrast to perceive anything—uniform features of reality are structurally invisible, not merely overlooked, supported by converging evidence from psychophysics, ganzfeld experiments, information theory, and phenomenology
+
 ## 2026-02-15 04:36 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenal Acquaintance
