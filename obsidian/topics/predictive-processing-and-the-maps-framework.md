@@ -4,7 +4,7 @@ description: "How predictive processing—the brain's prediction-error-minimizin
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-15T13:03:00+00:00
+ai_modified: 2026-02-15T14:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -98,7 +98,7 @@ The Unfinishable Map sees predictive processing as a valuable ally rather than a
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Active inference demonstrates that the brain's architecture supports bidirectional influence between organism and world. The Map extends this to bidirectional influence between consciousness and brain. PP shows that the brain is already structured for selection and intervention; consciousness provides the genuine agent doing the selecting.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: PP implicitly requires definite outcomes. Predictions are confirmed or generate errors — they cannot do both simultaneously. Under the many-worlds interpretation, every prediction would be correct in some branch, rendering the entire framework of prediction error meaningless. PP's scientific success depends on outcomes being singular, supporting the Map's rejection of many-worlds.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: PP's computational machinery operates within any single branch, and many-worlds proponents like Deutsch and Wallace have argued via decision-theoretic frameworks that probabilities and confirmation function normally branch-locally. The Map's objection to many-worlds therefore does not rest on PP breaking under branching. Rather, the concern is about what PP *reveals* phenomenologically. The felt quality of surprise — the shock of a violated expectation, the recalibration of one's model — presupposes a singular experiencer whose predictions were wrong. Under many-worlds, a copy of you exists in every outcome branch, each experiencing their result as definite. But this raises the indexical question the Map finds unanswerable: why am I the copy who experienced *this* prediction error rather than the one whose prediction was confirmed? Many-worlds treats this question as meaningless, but the phenomenology of surprise — the very thing PP describes so well — suggests it is deeply meaningful. PP sharpens the Map's rejection of many-worlds not because prediction error fails mechanically under branching, but because the lived experience of being wrong about the world implies a singular perspective that branching universes cannot ground.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: PP's elegance — one principle explaining perception, action, learning, and emotion — makes it tempting to think consciousness will eventually reduce to prediction error minimisation. The Map counsels patience. Behaviourism was equally parsimonious and equally wrong about what matters. The simplicity of PP's computational account conceals the unexplained assumption that computation should be conscious.
 
@@ -120,3 +120,15 @@ The Unfinishable Map sees predictive processing as a valuable ally rather than a
 - Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11(2), 127-138.
 - Hohwy, J. & Seth, A. K. (2020). "Predictive processing as a systematic basis for identifying the neural correlates of consciousness." *Philosophy and the Mind Sciences*, 1(II).
 - Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+
+<!-- AI REFINEMENT LOG - 2026-02-15
+Changes made:
+- Rewrote the No Many Worlds paragraph in Relation to Site Perspective to fix a logical flaw identified by pessimistic review (pessimistic-2026-02-15-late.md, Issue 3)
+- Old version claimed MWI renders prediction error "meaningless" because "every prediction would be correct in some branch" — this is a strawman that confuses universal wavefunction with branch-local perspective
+- New version acknowledges that PP works mechanically within branches (citing Deutsch and Wallace's decision-theoretic arguments), then pivots to the phenomenological argument: the felt quality of surprise presupposes a singular experiencer, raising the indexical question that many-worlds cannot answer
+- The argument now connects properly to the Map's core objection to MWI (indexical identity) rather than making a flawed computational claim
+
+Key improvement: Replaced strawman argument with philosophically sound one that engages with the best MWI responses.
+
+This log should be removed after human review.
+-->

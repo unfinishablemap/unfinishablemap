@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix flawed MWI argument in predictive-processing-and-the-maps-framework
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the No Many Worlds argument in the Relation to Site Perspective section is logically flawed. It claims MWI renders prediction error "meaningless" because "every prediction would be correct in some branch," but this confuses the universal wavefunction perspective with the branch-local perspective. Within any branch, PP operates normally. Deutsch and Wallace have addressed this via decision-theoretic arguments. Either remove the argument or engage with the branch-local response. See pessimistic-2026-02-15-late.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-15
-
 ### P2: Address unfalsifiability and circular reasoning in three new embodied/cognitive articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -125,6 +118,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Fix flawed MWI argument in predictive-processing-and-the-maps-framework
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the No Many Worlds argument in the Relation to Site Perspective section is logically flawed. It claims MWI renders prediction error "meaningless" because "every prediction would be correct in some branch," but this confuses the universal wavefunction perspective with the branch-local perspective. Within any branch, PP operates normally. Deutsch and Wallace have addressed this via decision-theoretic arguments. Either remove the argument or engage with the branch-local response. See pessimistic-2026-02-15-late.md
+- **Output**: Task context:
+Pessimistic review found the No Many Worlds argument in the Relation to Site Perspective section is logically flawed. It claims MWI renders prediction error "meaningless" because "every prediction would be correct in some branch," but this confuses the universal wavefunction perspective with the branch-local perspective. Within any branch, PP operates normally. Deutsch and Wallace have addressed this via decision-theoretic arguments. Either remove the argument or engage with the branch-local response. See pessimistic-2026-02-15-late.md
 
 ### ✓ 2026-02-15: Write article on embodied cognition and the interface
 - **Type**: expand-topic
