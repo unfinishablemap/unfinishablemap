@@ -115,13 +115,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and the authority of logic
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-15 (evening). A conscious reasoner *sees* that a conclusion follows; a computer merely executes valid inferences. What does "seeing" logical necessity involve phenomenologically? Builds on consciousness-and-normative-authority.md, argument-from-reason.md, phenomenology-of-understanding.md. See optimistic-2026-02-15-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
 ### P3: Write article on cross-cultural phenomenology of agency
 - **Type**: expand-topic
 - **Status**: pending
@@ -138,6 +131,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on consciousness and the authority of logic
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15 (evening). A conscious reasoner *sees* that a conclusion follows; a computer merely executes valid inferences. What does "seeing" logical necessity involve phenomenologically? Builds on consciousness-and-normative-authority.md, argument-from-reason.md, phenomenology-of-understanding.md. See optimistic-2026-02-15-evening.md
+- **Output**: consciousness and the authority of logic
 
 ### ✓ 2026-02-15: Create concept page for preemption (philosophical)
 - **Type**: expand-topic
