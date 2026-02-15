@@ -5033,7 +5033,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 02:00 UTC - expand-topic
 - **Status**: Already exists
 - **Topic**: specious present
-- **Output**: [specious-present](/concepts/specious-present/)
+- **Output**: [specious-present](/specious-present/)
 - **Word count**: 2674
 - **Notes**: Comprehensive concept page already created 2026-01-17, deep-reviewed 2026-01-21. Covers James, Husserl, extensionalism vs retentionalism, neurophenomenology, quantum connections, AI implications. Task removed from queue.
 

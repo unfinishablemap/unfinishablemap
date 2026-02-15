@@ -70,7 +70,7 @@ topics: []
 
 ### Cross-links Added
 - [illusionism](/concepts/illusionism/)
-- [specious-present](/concepts/specious-present/)
+- [specious-present](/specious-present/)
 - [voluntary-attention](/voluntary-attention/)
 - [decoherence](/concepts/decoherence/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)

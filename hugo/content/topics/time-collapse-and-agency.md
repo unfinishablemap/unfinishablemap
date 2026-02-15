@@ -84,7 +84,7 @@ Apply this to consciousness:
 3. Consciousness participates in determining which transaction completes.
 4. This participation is atemporal—it fixes which correlations hold between past and future, not which event occurs at which moment.
 
-On this picture, consciousness doesn't act *in* time; it acts to *constitute* time's structure. What we experience as temporal flow—the specious present described by James, the [durée](/concepts/duration/) analyzed by Bergson—is the phenomenal character of this constitutive activity viewed from within.
+On this picture, consciousness doesn't act *in* time; it acts to *constitute* time's structure. What we experience as temporal flow—the specious present described by James, the [durée](/duration/) analyzed by Bergson—is the phenomenal character of this constitutive activity viewed from within.
 
 Time's arrow doesn't precede consciousness; consciousness-involving collapse creates time's arrow. The irreversibility of collapse is why time has a direction. Without collapse, physics is time-symmetric; with it, past and future differ.
 
@@ -104,7 +104,7 @@ This dissolves the apparent paradox. Retrocausality operates within the physics 
 
 If consciousness constitutes time through collapse, what should this feel like? the Map's framework predicts:
 
-**The [specious present](/concepts/specious-present/)**: [Temporal experience](/concepts/temporal-consciousness/) has duration—roughly 100 milliseconds to 3 seconds depending on methodology—within which we experience succession as unified. This isn't clock-time (which has durationless instants) but lived time.
+**The [specious present](/specious-present/)**: [Temporal experience](/concepts/temporal-consciousness/) has duration—roughly 100 milliseconds to 3 seconds depending on methodology—within which we experience succession as unified. This isn't clock-time (which has durationless instants) but lived time.
 
 The debate between extensionalists (Dainton, Foster) and retentionalists (Husserl, Broad) about the specious present bears directly on the framework. Extensionalists hold that experience is genuinely temporally extended—has parts at different times. Retentionalists hold that each moment is instantaneous but contains the past as intentional content (retention) and anticipates the future (protention).
 
@@ -116,7 +116,7 @@ If consciousness is actively constituting temporal structure, the specious prese
 
 **The [phenomenology of effort](/concepts/mental-effort/)**: Sustaining attention feels costly. Stapp's quantum Zeno mechanism proposes that mental effort prolongs neural patterns through repeated observation. This fits: constitutive activity should be effortful; passive experience need not be.
 
-**Bergson's [durée](/concepts/duration/)**: Time as qualitatively flowing, with the past permeating the present and the future anticipated. If consciousness doesn't merely observe time but constitutes it, this interpenetrating quality makes sense. Each moment isn't a slice but an activity, colored by what it's selecting among.
+**Bergson's [durée](/duration/)**: Time as qualitatively flowing, with the past permeating the present and the future anticipated. If consciousness doesn't merely observe time but constitutes it, this interpenetrating quality makes sense. Each moment isn't a slice but an activity, colored by what it's selecting among.
 
 **Retrocausal insensitivity**: We don't experience backward causation as strange. The Libet data doesn't feel like our choices precede our awareness. This is because the selection isn't temporal—it determines which temporal ordering becomes real. The neural activity "preceding" awareness is part of the selected transaction, not evidence against conscious causation.
 
@@ -168,7 +168,7 @@ Each actual occasion has both a *physical pole* (receiving causal influences fro
 
 *Atemporal selection as creative synthesis.* For Whitehead, each actual occasion synthesises its inputs from a standpoint that isn't "in" time but constitutes time. The occasion's subjective aim guides synthesis toward particular outcomes. This matches the framework's claim that consciousness selects atemporally, constituting which temporal sequence becomes actual.
 
-*Duration as experiential extension.* Whitehead's actual occasions have "extensive" character—they aren't durationless instants but experiential quanta with internal structure. This resonates with Bergson's [durée](/concepts/duration/) and the framework's treatment of the specious present as constitutive activity, not passive observation.
+*Duration as experiential extension.* Whitehead's actual occasions have "extensive" character—they aren't durationless instants but experiential quanta with internal structure. This resonates with Bergson's [durée](/duration/) and the framework's treatment of the specious present as constitutive activity, not passive observation.
 
 *Haecceity and indexical identity.* Each actual occasion has a [haecceity](/concepts/haecceity/)—a primitive thisness that makes it *this* occasion rather than any other. This grounds the framework's emphasis on indexical identity: *this* consciousness making *this* selection creates *this* temporal structure. The particularity cannot be eliminated without losing what selection explains.
 
@@ -233,9 +233,9 @@ This synthesis strengthens and deepens each of the five tenets:
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric physics and backward causation
 - [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Why physics-based retrocausality doesn't rest on contested parapsychology
-- [duration](/concepts/duration/) — Bergson's qualitative time and the phenomenology of flow
+- [duration](/duration/) — Bergson's qualitative time and the phenomenology of flow
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Broader treatment of time in consciousness
-- [specious-present](/concepts/specious-present/) — The experienced duration of "now" and the extensionalism debate
+- [specious-present](/specious-present/) — The experienced duration of "now" and the extensionalism debate
 - [free-will](/topics/free-will/) — the Map's account of libertarian agency
 - [agent-causation](/concepts/agent-causation/) — The agent as ultimate source of action
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse remains unexplained

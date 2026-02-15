@@ -66,7 +66,7 @@ None. The article is well-constructed with strong arguments and clear structure.
 
 ### Cross-links Added
 - [luck-objection](/concepts/luck-objection/) - in illusionist challenge section
-- [quantum-coherence-protection](/concepts/quantum-coherence-protection/) - in quantum mechanism section
+- [quantum-coherence-protection](/quantum-coherence-protection/) - in quantum mechanism section
 - [temporal-consciousness](/concepts/temporal-consciousness/) - in Bergson/duration section
 
 ## Remaining Items

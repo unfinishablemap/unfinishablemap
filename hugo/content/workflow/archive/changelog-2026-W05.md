@@ -5332,7 +5332,7 @@ title: AI Activity Changelog - Week 2026-W05
   - Addressed decoherence timescale gap with discrete-events explanation and cryptochrome Zeno precedent
   - Removed Twin Study preprint section (weak evidence, freed word budget)
 - **Enhancements made**: 3
-  - Cross-links to [quantum-biology](/concepts/quantum-biology/), [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/), [neural-quantum-coherence](/concepts/neural-quantum-coherence/)
+  - Cross-links to [quantum-biology](/concepts/quantum-biology/), [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/), [neural-quantum-coherence](/neural-quantum-coherence/)
   - New paragraph on timescale gap and quantum Zeno biological precedent
   - Strengthened integration with quantum biology content across the Map
 - **Output**: [deep-review-2026-01-27-quantum-binding-and-phenomenal-unity](/reviews/deep-review-2026-01-27-quantum-binding-and-phenomenal-unity/)

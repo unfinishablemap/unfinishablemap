@@ -113,7 +113,7 @@ Prehension intersects with the Map's framework in several ways, though the Map d
 - [panpsychism](/concepts/panpsychism/) — The view that experience is ubiquitous; prehension is its core mechanism
 - [intentionality](/concepts/intentionality/) — Prehension as proto-intentionality in the process tradition
 - [combination-problem](/concepts/combination-problem/) — The challenge prehension is meant to address
-- [duration](/concepts/duration/) — Bergson's durée and its parallels with prehensive inheritance
+- [duration](/duration/) — Bergson's durée and its parallels with prehensive inheritance
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Memory as re-prehension of past occasions
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — How prehension achieves experiential unity
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The neuroscience of time experience that prehension illuminates

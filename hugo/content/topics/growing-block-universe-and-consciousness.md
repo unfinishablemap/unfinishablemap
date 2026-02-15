@@ -47,7 +47,7 @@ Eternalism faces a distinctive difficulty when confronting consciousness. If all
 
 But spatial indexicality and temporal indexicality are not symmetric. "Here" doesn't feel ontologically privileged—few people believe their location is metaphysically special. "Now" does feel privileged. Conscious experience seems to *happen*—to have a dynamic, present-tense character that passive existence lacks. The eternalist must either deny this phenomenology or explain it as a universal cognitive error.
 
-The challenge deepens with [temporal consciousness](/concepts/temporal-consciousness/). Experience doesn't consist of frozen snapshots arranged along a timeline. It flows. The [specious-present](/concepts/specious-present/) has [duration](/concepts/duration/)—roughly 100 to 750 milliseconds of felt temporal extent. Within this window, change is directly experienced, not inferred from comparison of static states. Husserl's retention-protention structure reveals that each moment of consciousness carries the immediate past and anticipates the near future as intrinsic features, not external relations.
+The challenge deepens with [temporal consciousness](/concepts/temporal-consciousness/). Experience doesn't consist of frozen snapshots arranged along a timeline. It flows. The [specious-present](/specious-present/) has [duration](/duration/)—roughly 100 to 750 milliseconds of felt temporal extent. Within this window, change is directly experienced, not inferred from comparison of static states. Husserl's retention-protention structure reveals that each moment of consciousness carries the immediate past and anticipates the near future as intrinsic features, not external relations.
 
 Eternalism can accommodate this by treating temporal experience as the content of time-slices—each slice encodes the *representation* of flow without flow actually occurring. But this makes the most intimate feature of consciousness—its dynamic, present-tense character—a systematic misrepresentation. The hard problem already asks why physical processes should give rise to experience at all. Adding that the experience fundamentally misrepresents reality's temporal character compounds the difficulty.
 
@@ -85,7 +85,7 @@ A second objection asks: at what rate does the block grow? "One second per secon
 
 But this objection may assume what it targets. If growth *is* temporal passage rather than something occurring within time, asking for its rate commits a category error—like asking how fast space extends spatially. The growth of the block and the passage of time are the same phenomenon, not one occurring within the other.
 
-Bergson's [durée](/concepts/duration/) offers a complementary response. Lived time has no rate because it isn't measured against an external standard. Duration is qualitative, not quantitative. Asking "how fast does time pass?" spatialises time—treats it as movement through a container—which is precisely what the growing block denies. Time doesn't pass through anything. Reality simply accumulates.
+Bergson's [durée](/duration/) offers a complementary response. Lived time has no rate because it isn't measured against an external standard. Duration is qualitative, not quantitative. Asking "how fast does time pass?" spatialises time—treats it as movement through a container—which is precisely what the growing block denies. Time doesn't pass through anything. Reality simply accumulates.
 
 ## The Map's Modified Growing Block
 
@@ -117,8 +117,8 @@ The growing block connects to all five of the Map's [tenets](/tenets/):
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may introduce time's arrow
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Why consciousness requires temporal structure
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Connecting collapse, time, and free will
-- [specious-present](/concepts/specious-present/) — The experienced duration of the present moment
-- [duration](/concepts/duration/) — Bergson's qualitative lived time
+- [specious-present](/specious-present/) — The experienced duration of the present moment
+- [duration](/duration/) — Bergson's qualitative lived time
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's actual occasions and concrescence
 
 ## References

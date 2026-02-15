@@ -55,7 +55,7 @@ This bidirectional flow distinguishes contemplative neuroscience from both pure 
 
 One of the most striking integration findings involves gamma-band neural oscillations (30-70 Hz). Long-term meditators show dramatically increased gamma power and gamma coherence across brain regions during meditation—and even at baseline rest compared to controls.
 
-**The phenomenological observation**: Contemplative traditions describe a unification of experience during concentrated attention—disparate perceptions coalesce into a seamless present moment. The [specious-present](/concepts/specious-present/) contracts and intensifies. Attention becomes unified rather than fragmented.
+**The phenomenological observation**: Contemplative traditions describe a unification of experience during concentrated attention—disparate perceptions coalesce into a seamless present moment. The [specious-present](/specious-present/) contracts and intensifies. Attention becomes unified rather than fragmented.
 
 **The neural observation**: Gamma synchrony provides a mechanism for neural binding—distant brain regions firing in coordination, potentially enabling unified conscious experience from distributed processing. Increased gamma coherence during meditation correlates with reports of experiential unification.
 

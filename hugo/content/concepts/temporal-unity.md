@@ -45,7 +45,7 @@ Temporal unity—also called diachronic unity—is the binding of experience acr
 
 **Retention and protention.** Husserl's analysis identifies the internal structure of temporal unity. Each moment of experience contains *retention* (the just-past echoing in awareness with a distinctive "just-gone" character), *primal impression* (the present), and *protention* (anticipation of the about-to-arrive). These are not three separate experiences glued together but aspects of one unified temporal field. Retention differs from both perception and memory—it has its own phenomenal character, a kind of fading presence that standard accounts of information storage cannot capture.
 
-**The [specious present](/concepts/specious-present/) as its domain.** Temporal unity operates primarily within the specious present—the window of roughly 100 to 750 milliseconds within which succession appears as a unified whole. This window is not a computational artefact but the span across which temporal unity constitutively operates. Events within the specious present are temporally unified; events outside it are remembered, which is a different relation entirely.
+**The [specious present](/specious-present/) as its domain.** Temporal unity operates primarily within the specious present—the window of roughly 100 to 750 milliseconds within which succession appears as a unified whole. This window is not a computational artefact but the span across which temporal unity constitutively operates. Events within the specious present are temporally unified; events outside it are remembered, which is a different relation entirely.
 
 ## Temporal Unity vs. Related Concepts
 
@@ -53,7 +53,7 @@ The Map's content addresses several phenomena in the neighbourhood of temporal u
 
 **[Unity of consciousness](/concepts/unity-of-consciousness/)** is the broader category. Temporal unity is one dimension—alongside synchronic unity and subject unity—of the overall unity that experience exhibits. The unity of consciousness article treats all three; this article focuses on the temporal dimension alone.
 
-**[Temporal consciousness](/concepts/temporal-consciousness/)** concerns the full range of ways consciousness relates to time: the specious present, Bergson's [durée](/concepts/duration/), temporal binding in the brain, AI implications, and the metaphysics of time. Temporal unity is a specific property within this broader territory—the property of being unified across time rather than fragmented.
+**[Temporal consciousness](/concepts/temporal-consciousness/)** concerns the full range of ways consciousness relates to time: the specious present, Bergson's [durée](/duration/), temporal binding in the brain, AI implications, and the metaphysics of time. Temporal unity is a specific property within this broader territory—the property of being unified across time rather than fragmented.
 
 **[The binding problem](/concepts/binding-problem/)** typically concerns spatial or feature binding: how colour and shape unite at a moment. Temporal unity is binding's temporal counterpart—how the note just heard and the note now sounding unite into a phrase. The mechanisms may differ: gamma synchrony addresses spatial binding, while retention-protention structure addresses temporal binding.
 
@@ -103,8 +103,8 @@ These dissociations confirm that temporal unity is a distinct phenomenal propert
 - [varieties-of-unity](/concepts/varieties-of-unity/) — Taxonomy: synchronic, diachronic, and subject unity
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Consciousness and time: specious present, durée, AI implications
 - [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/) — How moments bind into a temporal stream
-- [specious-present](/concepts/specious-present/) — The experienced duration of the present moment
-- [duration](/concepts/duration/) — Bergson's qualitative lived time
+- [specious-present](/specious-present/) — The experienced duration of the present moment
+- [duration](/duration/) — Bergson's qualitative lived time
 - [binding-problem](/concepts/binding-problem/) — Spatial/feature binding as temporal unity's counterpart
 - [collapse-and-time](/concepts/collapse-and-time/) — How consciousness may participate in constituting time's arrow
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporal self

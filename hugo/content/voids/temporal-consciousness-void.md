@@ -42,7 +42,7 @@ The Unfinishable Map takes this seriously as a void—not merely an unsolved pro
 
 ## The Specious Present
 
-William James distinguished the "strict present"—a durationless mathematical instant—from the ["specious present,"](/concepts/specious-present/) the experienced duration of roughly 100 milliseconds to 3 seconds (with some estimates extending further). This window is consciousness's temporal aperture: everything within it feels present; everything outside becomes memory or anticipation.
+William James distinguished the "strict present"—a durationless mathematical instant—from the ["specious present,"](/specious-present/) the experienced duration of roughly 100 milliseconds to 3 seconds (with some estimates extending further). This window is consciousness's temporal aperture: everything within it feels present; everything outside becomes memory or anticipation.
 
 Three competing models explain this structure:
 
@@ -104,7 +104,7 @@ What happens when consciousness approaches this void?
 
 Henri Bergson argued that our difficulty with time is not accidental. The intellect evolved for practical manipulation of matter, not for grasping duration. We instinctively spatialize time—represent it as a line, divide it into units—but this distorts its essential flowing character.
 
-[Duration](/concepts/duration/) (*durée*) is "a qualitative multiplicity"—heterogeneous yet interpenetrating, unrepresentable by spatial symbols. "To grasp duration, one must reverse habitual modes of thought and place oneself within duration by intuition."
+[Duration](/duration/) (*durée*) is "a qualitative multiplicity"—heterogeneous yet interpenetrating, unrepresentable by spatial symbols. "To grasp duration, one must reverse habitual modes of thought and place oneself within duration by intuition."
 
 If Bergson is right, the temporal void is partly self-created. Our cognitive tools evolved for tracking objects in space, not for understanding consciousness in time. The void marks the limits of intellect, not the limits of reality.
 
@@ -135,8 +135,8 @@ This void connects to the Map's [tenets](/tenets/):
 - [the-unobservable-self](/voids/the-unobservable-self/) — The subject that cannot be its own object
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How time structures conscious experience
-- [specious-present](/concepts/specious-present/) — The experienced duration of the present moment
-- [duration](/concepts/duration/) — Bergson's concept of lived time as qualitative multiplicity
+- [specious-present](/specious-present/) — The experienced duration of the present moment
+- [duration](/duration/) — Bergson's concept of lived time as qualitative multiplicity
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series, presentism, and eternalism
 
 ## References

@@ -171,7 +171,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 | [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) | [attention-interface-mechanisms](/attention-interface-mechanisms/) | Specific mechanisms should cross-reference |
 | [combination-problem](/concepts/combination-problem/) | [binding-problem](/concepts/binding-problem/) | Structurally parallel problems deserve explicit connection |
 | [existentialism](/concepts/existentialism/) | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | Sartre's analysis of choice directly relevant |
-| [specious-present](/concepts/specious-present/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Currently separate—should explicitly connect |
+| [specious-present](/specious-present/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Currently separate—should explicitly connect |
 | [semantic-memory](/concepts/semantic-memory/) | [autonoetic-consciousness](/concepts/autonoetic-consciousness/) | Memory types and conscious awareness |
 | [counterfactual-reasoning](/concepts/counterfactual-reasoning/) | [free-will](/topics/free-will/) | Already connected but could be stronger |
 

@@ -72,7 +72,7 @@ All six pessimistic personas were applied:
 1. **Added quantum biology cross-references** (~30 words gained through rewording):
    - [quantum-biology](/concepts/quantum-biology/) to concepts frontmatter
    - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) to related_articles
-   - [neural-quantum-coherence](/concepts/neural-quantum-coherence/) to concepts frontmatter
+   - [neural-quantum-coherence](/neural-quantum-coherence/) to concepts frontmatter
    - Three new entries in Further Reading section
 
 2. **Added decoherence timescale gap paragraph** (~100 words):
@@ -90,7 +90,7 @@ All six pessimistic personas were applied:
 ### Cross-links Added
 - [quantum-biology](/concepts/quantum-biology/)
 - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/)
-- [neural-quantum-coherence](/concepts/neural-quantum-coherence/)
+- [neural-quantum-coherence](/neural-quantum-coherence/)
 
 ## Word Count
 

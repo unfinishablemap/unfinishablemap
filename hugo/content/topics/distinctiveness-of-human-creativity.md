@@ -82,7 +82,7 @@ Meaning-sensitivity explains why creative work bears the marks of its creator's 
 
 ### Temporal Stakes
 
-Human creativity occurs within [durée](/concepts/duration/)—Bergson's lived time, where each moment integrates the entire past and faces an open future. Creative work is done by beings who know they are mortal, who experience time as running out, who feel the weight of what they have not yet accomplished. This temporal situatedness shapes creative urgency in ways unavailable to systems operating outside phenomenal time.
+Human creativity occurs within [durée](/duration/)—Bergson's lived time, where each moment integrates the entire past and faces an open future. Creative work is done by beings who know they are mortal, who experience time as running out, who feel the weight of what they have not yet accomplished. This temporal situatedness shapes creative urgency in ways unavailable to systems operating outside phenomenal time.
 
 The artist working on what they suspect will be their final painting does not merely produce an output. They create under conditions of existential pressure that shapes what they attempt, how they attempt it, and what standards they hold themselves to. Beethoven composing while going deaf, Frida Kahlo painting through chronic pain—the creative act is inseparable from the phenomenal conditions under which it occurs.
 
@@ -152,7 +152,7 @@ None of these conditions currently obtains. AI systems produce formally impressi
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Aesthetic experience as irreducible phenomenal property
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems could possess phenomenal consciousness
-- [duration](/concepts/duration/) — Bergson's lived time as creative becoming
+- [duration](/duration/) — Bergson's lived time as creative becoming
 - [metarepresentation](/concepts/metarepresentation/) — Representing representations as objects of thought
 - [cumulative-culture](/concepts/cumulative-culture/) — Why cultural ratcheting requires conscious authorship
 - [free-will](/topics/free-will/) — Creative agency and libertarian free will

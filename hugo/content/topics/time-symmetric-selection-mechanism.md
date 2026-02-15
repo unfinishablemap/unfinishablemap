@@ -219,7 +219,7 @@ Time-symmetric selection connects tightly to the Map's tenets:
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Survey of interpretations and consciousness implications
 - [libet-experiments](/concepts/libet-experiments/) — The timing experiments and Schurger's critique
 - [agent-causation](/concepts/agent-causation/) — How agents serve as ultimate sources
-- [specious-present](/concepts/specious-present/) — The temporal thickness of conscious experience
+- [specious-present](/specious-present/) — The temporal thickness of conscious experience
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Broader treatment of time in consciousness
 - [tenets](/tenets/) — The Map's foundational commitments
 

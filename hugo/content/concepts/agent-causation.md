@@ -136,7 +136,7 @@ Agent causation traditionally focuses on selection, but [recent work](/concepts/
 
 This strengthens agent causation against the critic who asks what about the agent explains the choice. If agents generate the options through imagination, the agent explains the outcome because they constituted the very options available.
 
-Hausman's *L-creativity* requires "metaphysical novelty"—what genuinely didn't exist before—mapping directly onto sourcehood. Bergson's [duration](/concepts/duration/) develops this: conscious experience brings genuine novelty through memory's integration with the present. The agent isn't source just at choice but throughout the creative process.
+Hausman's *L-creativity* requires "metaphysical novelty"—what genuinely didn't exist before—mapping directly onto sourcehood. Bergson's [duration](/duration/) develops this: conscious experience brings genuine novelty through memory's integration with the present. The agent isn't source just at choice but throughout the creative process.
 
 Whitehead's [process philosophy](/concepts/process-philosophy/) offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally rather than metaphysically exceptional. This reframes the objection: the question is not "How can consciousness possibly cause anything?" but "Why did we think it couldn't?" The [Process and Consciousness](/apex/process-and-consciousness/) apex develops this connection in depth.
 

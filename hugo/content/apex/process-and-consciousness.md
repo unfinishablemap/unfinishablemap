@@ -53,7 +53,7 @@ Traditional metaphysics, from Aristotle through Descartes, treats reality as com
 
 This shift matters for consciousness. If reality is fundamentally processual, experience is no longer an anomaly requiring special explanation. A melody doesn't mysteriously "emerge" from the individual notes; it *is* the notes in their temporal flow. Similarly, consciousness doesn't emerge from matter because both are modes of process. The experiential and the physical are different aspects of underlying becoming.
 
-Bergson's [durée](/concepts/duration/) captures what process philosophy describes from a different angle. Clock time spatializes—treating moments as points on a line, discrete and interchangeable. Lived duration interpenetrates—each moment permeated by the past and reaching toward the future. When you hear a melody, you don't experience a sequence of separate tones; you experience the phrase as a whole, with each note colored by what came before and what is anticipated. This is qualitative multiplicity: unity-in-difference without juxtaposition.
+Bergson's [durée](/duration/) captures what process philosophy describes from a different angle. Clock time spatializes—treating moments as points on a line, discrete and interchangeable. Lived duration interpenetrates—each moment permeated by the past and reaching toward the future. When you hear a melody, you don't experience a sequence of separate tones; you experience the phrase as a whole, with each note colored by what came before and what is anticipated. This is qualitative multiplicity: unity-in-difference without juxtaposition.
 
 Both thinkers reject the view that time is a container in which static states are arranged. Time is creative, bringing genuine novelty. Bergson: "Time is invention or it is nothing at all." Whitehead: creativity is "the ultimate category"—each moment adds something to reality that did not exist before. This creativity is not random but structured: each actual occasion inherits from its predecessors while contributing its own synthesis.
 
@@ -95,7 +95,7 @@ The Map's third tenet holds that consciousness causally influences the physical 
 
 Process philosophy strongly supports this claim—indeed, it generalizes it. Every actual occasion has "subjective aim"—each steers its own becoming toward satisfaction. This provides resources for [agent causation](/concepts/agent-causation/) without making it exceptional. Free acts aren't anomalies requiring special pleading but instances of the goal-directedness inherent in all actuality. The question is not "How can consciousness possibly cause anything?" but "Why did we think it couldn't?"
 
-The phenomenology of [durée](/concepts/duration/) reinforces this. Bergson connected duration directly to free will in *Time and Free Will* (1889). A free act emerges from the whole self—from the full depth of one's duration. Unfree acts are superficial, from habit or convention, without engaging genuine selfhood. Freedom is not arbitrary choice between pre-defined options but creative expression of who we are becoming.
+The phenomenology of [durée](/duration/) reinforces this. Bergson connected duration directly to free will in *Time and Free Will* (1889). A free act emerges from the whole self—from the full depth of one's duration. Unfree acts are superficial, from habit or convention, without engaging genuine selfhood. Freedom is not arbitrary choice between pre-defined options but creative expression of who we are becoming.
 
 This connects to the Map's treatment of the [argument-from-reason](/topics/argument-from-reason/). If all beliefs are fully explained by nonrational physical causes—neurons firing because of electrochemical gradients rather than because conclusions *follow* from premises—then no belief is rationally justified. The physicalist's own belief in physicalism would itself be unjustified. Functionalists respond that physical systems *can* track normative relationships—that the right causal structure constitutes rational inference. But this conflates reliable causal correlation with genuine normative grasp: a thermostat reliably tracks temperature without *understanding* heat. Rational inference requires consciousness that grasps logical connections and affirms accordingly. Process philosophy provides the metaphysical framework: occasions with subjective aim can instantiate rational causation because aim is constitutive of actuality itself.
 
@@ -129,7 +129,7 @@ A note on testability: process philosophy is primarily a metaphysical framework 
 
 ## Synthesis: What Process Philosophy Offers the Map
 
-Individual source articles establish separate components: [process-philosophy](/concepts/process-philosophy/) explains Whitehead's framework; [duration](/concepts/duration/) presents Bergson's account of lived time; [temporal-consciousness](/concepts/temporal-consciousness/) examines the neuroscience and phenomenology of time experience; [panpsychism](/concepts/panpsychism/) explores the view that experience is ubiquitous. What emerges from synthesis is a unified perspective that individual treatments cannot provide.
+Individual source articles establish separate components: [process-philosophy](/concepts/process-philosophy/) explains Whitehead's framework; [duration](/duration/) presents Bergson's account of lived time; [temporal-consciousness](/concepts/temporal-consciousness/) examines the neuroscience and phenomenology of time experience; [panpsychism](/concepts/panpsychism/) explores the view that experience is ubiquitous. What emerges from synthesis is a unified perspective that individual treatments cannot provide.
 
 Process philosophy offers the Map conceptual resources without ontological commitment. The Map need not say that rocks have experience (as panpsychism claims) to benefit from Whitehead's account of how experience relates to time, creativity, and causation. The Map need not accept that reality is *only* process to draw on Bergson's demonstration that lived duration cannot be reduced to sequences of static states.
 
@@ -167,7 +167,7 @@ This apex article draws on all five tenets:
 
 This apex article synthesizes:
 - [Process Philosophy](/concepts/process-philosophy/) — Whitehead's framework of actual occasions, prehension, and concrescence
-- [Duration (Durée)](/concepts/duration/) — Bergson's account of qualitative, interpenetrating lived time
+- [Duration (Durée)](/duration/) — Bergson's account of qualitative, interpenetrating lived time
 - [Temporal Consciousness](/concepts/temporal-consciousness/) — The specious present, neural binding, and contemplative access
 - [Panpsychism](/concepts/panpsychism/) — The view that experience is ubiquitous, and its combination problem
 - [The Combination Problem](/concepts/combination-problem/) — How micro-experiences might combine into unified consciousness

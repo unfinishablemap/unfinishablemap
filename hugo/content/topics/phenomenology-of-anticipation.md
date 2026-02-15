@@ -88,9 +88,9 @@ This asymmetry connects to the deeper [impossibility of pre-experience](/voids/t
 
 ## Protention and the Specious Present
 
-The [specious present](/concepts/specious-present/)—the experienced duration of "now"—depends on protention as much as retention. Without forward-directedness, the specious present would be a trailing smear of fading past, constantly arriving at endings. Protention gives the specious present its forward momentum, its sense of going somewhere rather than merely trailing behind.
+The [specious present](/specious-present/)—the experienced duration of "now"—depends on protention as much as retention. Without forward-directedness, the specious present would be a trailing smear of fading past, constantly arriving at endings. Protention gives the specious present its forward momentum, its sense of going somewhere rather than merely trailing behind.
 
-Bergson captured this in his account of [durée](/concepts/duration/): lived time isn't a series of nows strung together but an interpenetrating flow where each phase contains both its past and its anticipated continuation. The forward lean of experience is part of what makes time feel like *flowing* rather than *accumulating*—duration moves because protention gives each moment a futureward orientation.
+Bergson captured this in his account of [durée](/duration/): lived time isn't a series of nows strung together but an interpenetrating flow where each phase contains both its past and its anticipated continuation. The forward lean of experience is part of what makes time feel like *flowing* rather than *accumulating*—duration moves because protention gives each moment a futureward orientation.
 
 Varela's [neurophenomenological](/concepts/neurophenomenology/) research suggests that contemplative practices can reveal protentional structure with unusual clarity. Meditators attending closely to the arising of experience report noticing a directional quality—each moment seems to "point" toward its successor. This is protention made visible through sustained phenomenological attention. A tension emerges here: the Buddhist contemplative traditions that generate these reports also challenge the notion of a unified subject doing the anticipating. If *anattā* (no-self) holds, protention may be a process without an agent—forward-directedness with no one reaching forward. The Map acknowledges this challenge while maintaining that the irreducibility of the protentional experience itself persists regardless of how the experiencing subject is characterised.
 
@@ -138,8 +138,8 @@ Protention supports and illuminates several of the Map's foundational commitment
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — How consciousness and time depend on each other
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why protention and retention differ in phenomenal weight
 - [prospective-memory](/concepts/prospective-memory/) — Deliberate future simulation and episodic future thinking
-- [specious-present](/concepts/specious-present/) — The experienced duration of "now"
-- [duration](/concepts/duration/) — Bergson's durée and the interpenetration of temporal phases
+- [specious-present](/specious-present/) — The experienced duration of "now"
+- [duration](/duration/) — Bergson's durée and the interpenetration of temporal phases
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How anticipatory consciousness enables deliberation
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's subjective aim and processual experience
 - [phenomenology](/concepts/phenomenology/) — Husserl's method for investigating temporal structure

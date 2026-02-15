@@ -34,7 +34,7 @@ topics:
 - '[[authentic-vs-inauthentic-choice]]'
 ---
 
-Temporal thickness names the qualitative depth of experienced moments — the difference between a present that feels thin and reactive and one that feels dense with meaning, layered with retention and anticipation. The Unfinishable Map uses this concept across its treatment of consciousness, choice, and temporal phenomenology because it captures something the [specious-present](/concepts/specious-present/) alone does not: moments have not just duration but *density*, and this density varies with attention, engagement, and the kind of consciousness at work.
+Temporal thickness names the qualitative depth of experienced moments — the difference between a present that feels thin and reactive and one that feels dense with meaning, layered with retention and anticipation. The Unfinishable Map uses this concept across its treatment of consciousness, choice, and temporal phenomenology because it captures something the [specious-present](/specious-present/) alone does not: moments have not just duration but *density*, and this density varies with attention, engagement, and the kind of consciousness at work.
 
 When you make a difficult decision that draws on years of accumulated experience, the present moment feels thick — saturated with significance, resonant with your past, reaching toward possible futures. When you tap your phone screen out of habit, the present feels thin — compressed, automatic, barely there. Both moments occupy roughly the same clock time. Their temporal thickness differs enormously.
 
@@ -50,7 +50,7 @@ This divergence is not merely a matter of "paying more attention." It reflects d
 - **Protentional reach**: How far anticipated futures extend into and shape the now
 - **Interpenetration**: The degree to which past, present, and future permeate each other rather than standing as discrete phases
 
-Bergson's [duration](/concepts/duration/) captures this interpenetration — mental states that don't sit beside each other like objects in space but flow into and through one another. Temporal thickness measures how fully this interpenetration is realised in any given moment.
+Bergson's [duration](/duration/) captures this interpenetration — mental states that don't sit beside each other like objects in space but flow into and through one another. Temporal thickness measures how fully this interpenetration is realised in any given moment.
 
 ## Husserl's Layers
 
@@ -110,8 +110,8 @@ Temporal thickness connects to the Map's [tenets](/tenets/) at several points.
 
 ## Further Reading
 
-- [specious-present](/concepts/specious-present/) — The duration of the experienced present
-- [duration](/concepts/duration/) — Bergson's concept of qualitative lived time
+- [specious-present](/specious-present/) — The duration of the experienced present
+- [duration](/duration/) — Bergson's concept of qualitative lived time
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Broader treatment of time in consciousness
 - [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/) — How self-referential thinking creates temporal depth
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — How temporal thickness distinguishes genuine from automatic choice

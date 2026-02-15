@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-09 02:59:00+00:00
+ai_modified: 2026-02-15 03:20:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[indexical-knowledge]]'
 - '[[introspection]]'
 - '[[explanatory-gap]]'
+- '[[symbol-grounding]]'
 created: 2026-02-09
 date: &id001 2026-02-09
 description: Knowledge by acquaintance—direct experiential contact with phenomenal
@@ -19,7 +20,7 @@ description: Knowledge by acquaintance—direct experiential contact with phenom
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-15 03:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,9 +68,9 @@ The physicalist responses each target a different aspect of this claim:
 
 **Loar's phenomenal concept strategy** grants that Mary gains a new concept but denies a new property. She now grasps redness under a phenomenal concept rather than a physical concept. The difficulty: as Chalmers argues, either phenomenal concepts are characterised in purely functional terms (making them too weak to explain their distinctive first-person character) or they require consciousness (conceding something beyond the physical).
 
-**Dennett's objection** denies the thought experiment's coherence: a truly omniscient Mary would predict her response. The difficulty: prediction and acquaintance differ. A neurologist might predict exactly which neurons will fire when she tastes her first mango while lacking acquaintance with the taste itself.
+**Dennett's objection** challenges the thought experiment's coherence: either Mary doesn't truly know all physical facts (the scenario is misdescribed), or if she does, she already knows what seeing red is like. The difficulty: this conflates knowledge *about* an experience with acquaintance *with* it. A neurologist might predict exactly which neurons will fire when she tastes her first mango—possessing complete physical knowledge of the event—while lacking acquaintance with the taste itself. Predictive completeness and experiential acquaintance come apart.
 
-Each response has force. None has achieved consensus. The persistence of the debate across four decades suggests acquaintance knowledge resists dissolution into more familiar epistemic categories.
+Each response has force. None has achieved consensus. The difficulty is structural: every reductive strategy must either deny that Mary learns anything (contradicting strong intuition) or redefine "learning" to exclude the very phenomenon in question.
 
 ## Acquaintance as Pre-Conceptual
 
@@ -81,7 +82,7 @@ If acquaintance is genuinely pre-conceptual, it explains why propositional knowl
 
 ## The Grounding Role
 
-Acquaintance grounds meaning. The word "pain" in a medical textbook connects to other words—"nociception," "tissue damage," "suffering." For a being who has experienced pain, the word also connects to something beyond language: the felt quality of hurting. This experiential grounding breaks the circle of symbol-to-symbol reference that Roman Yampolskiy identifies as the symbol grounding problem.
+Acquaintance grounds meaning. The word "pain" in a medical textbook connects to other words—"nociception," "tissue damage," "suffering." For a being who has experienced pain, the word also connects to something beyond language: the felt quality of hurting. This experiential grounding breaks the circle of symbol-to-symbol reference that Stevan Harnad identifies as the symbol grounding problem.
 
 The grounding asymmetry is visible in everyday language. When someone who has grieved uses the word "grief," the word anchors to acquaintance. When a system that has never grieved uses the same word, it anchors only to usage patterns and co-occurrence statistics. The outputs can be indistinguishable while the grounding differs categorically. This asymmetry is what makes [consciousness-only-territories](/voids/consciousness-only-territories/) territory rather than mere description—acquaintance provides access that information processing alone cannot replicate.
 
@@ -113,7 +114,9 @@ Mary's gap is indexical as well as qualitative: she lacks not just knowledge of 
 
 - Russell, B. (1910). "Knowledge by Acquaintance and Knowledge by Description." *Proceedings of the Aristotelian Society*, 11, 108-128.
 - Russell, B. (1912). *The Problems of Philosophy*. Williams and Norgate.
+- Harnad, S. (1990). "The Symbol Grounding Problem." *Physica D: Nonlinear Phenomena*, 42(1-3), 335-346.
 - Conee, E. (1994). "Phenomenal Knowledge." *Australasian Journal of Philosophy*, 72(2), 136-150.
+- McDowell, J. (1994). *Mind and World*. Harvard University Press.
 - Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
 - Lewis, D. (1988). "What Experience Teaches." *Proceedings of the Russellian Society*, 13, 29-57.
 - Nemirow, L. (1990). "Physicalism and the Cognitive Role of Acquaintance." In W. Lycan (ed.), *Mind and Cognition*.

@@ -57,7 +57,7 @@ If consciousness can shed temporal structure while remaining alert, this reveals
 
 ## Bergson's Challenge: Consciousness as Essentially Temporal
 
-Henri Bergson offers the strongest counterpoint. For Bergson, consciousness *is* duration — [durée](/concepts/duration/), the qualitative flow of lived time where the past permeates the present and each moment gains meaning from its predecessors. Strip away temporality and you strip away consciousness itself.
+Henri Bergson offers the strongest counterpoint. For Bergson, consciousness *is* duration — [durée](/duration/), the qualitative flow of lived time where the past permeates the present and each moment gains meaning from its predecessors. Strip away temporality and you strip away consciousness itself.
 
 Bergson's critique of spatialized time anticipates some of the Map's own concerns with physicalist reduction. Scientific time "does not endure" — it is abstract, spatialized, carved into discrete moments that lack the interpenetrating quality of lived experience. Where Bergson parts company with the non-temporal thesis is his insistence that the alternative to spatialized time is not *no* time but *lived* time. Duration is irreducible, qualitative, and inherently temporal.
 

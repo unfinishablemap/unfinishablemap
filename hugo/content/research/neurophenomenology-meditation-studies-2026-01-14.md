@@ -173,7 +173,7 @@ Long-term meditators report refined access to:
 - Micro-moments of experience (Buddhist khanika/momentariness)
 - The arising and passing of mental events in real-time
 
-This supports site's [temporal-consciousness](/concepts/temporal-consciousness/) and [duration](/concepts/duration/) articles: experienced time has intricate structure invisible to third-person methods.
+This supports site's [temporal-consciousness](/concepts/temporal-consciousness/) and [duration](/duration/) articles: experienced time has intricate structure invisible to third-person methods.
 
 ### The Constructed Self
 Advanced meditation reveals:

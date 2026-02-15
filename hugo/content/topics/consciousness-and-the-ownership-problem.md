@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-09 22:11:00+00:00
+ai_modified: 2026-02-15 00:48:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[qualia]]'
 - '[[binding-problem]]'
-- '[[phenomenal-unity]]'
+- '[[why-phenomenal-unity-resists-explanation]]'
 - '[[philosophical-zombies]]'
 - '[[illusionism]]'
 - '[[parfit-reductionism]]'
@@ -23,6 +23,7 @@ description: Why does experience belong to anyone? The ownership problem asks wh
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-15 00:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -59,7 +60,7 @@ Physicalist accounts of consciousness face a particular difficulty with ownershi
 
 Three physicalist strategies attempt to address this, and each falls short.
 
-**Functionalism locates ownership in causal role.** On this view, a mental state belongs to a system if it plays the right functional role within that system—receiving inputs from those sensors, producing outputs through those effectors. But functional roles are multiply realisable. Two systems could instantiate identical functional architectures, yet the ownership question persists: why does *this* system's functional state belong to *this* subject rather than generating experience for no one?
+**Functionalism locates ownership in causal role.** On this view, a mental state belongs to a system if it plays the right functional role within that system—receiving inputs from those sensors, producing outputs through those effectors. The functionalist might claim that ownership just *is* occupying the right causal role, and there is no further fact to explain. But this conflates the question of which system a state belongs to with the question of who experiences it. Two systems could instantiate identical functional architectures. Functionalism can distinguish them by pointing to their distinct causal histories—but it cannot explain why one of them is *me*, why its states are accompanied by first-person experience for a particular subject, rather than merely functioning without anyone home.
 
 **Higher-order theories locate ownership in self-representation.** A mental state is conscious (and owned) when another mental state represents it. But this merely relocates the problem. The higher-order state itself must belong to someone—and if ownership requires yet another representing state, a regress threatens. At some point, ownership must be basic rather than representational.
 
@@ -89,9 +90,9 @@ The dualist has a cleaner answer. Ownership is grounded in the non-physical subj
 
 Buddhist philosophy challenges ownership from a different direction. The *anattā* doctrine denies a permanent, unchanging self. If there is no enduring self, who owns experience?
 
-The Buddhist answer is nuanced. Experience arises in a causally connected stream—each moment conditions the next—but no unchanging entity persists through the stream. Ownership is real at each moment (this experience belongs to this stream) but does not require a substantial owner persisting beneath the flow.
+The Buddhist answer is more radical than it first appears. It is not merely that the self is impermanent while ownership remains real at each moment. Rather, the Buddhist analysis distinguishes between conventional and ultimate truth. Conventionally, "my experience" is a useful designation—it tracks causal streams, organises practical life, and grounds moral responsibility. Ultimately, however, ownership is as empty as the self it presupposes. Experience arises dependently, conditioned by prior moments, and the attribution of ownership is itself a conventional construction, not a primitive metaphysical fact.
 
-The Map acknowledges the force of this view but draws a different conclusion. The ownership problem is harder than the Buddhist analysis suggests. Even granting that the self is impermanent and process-like, ownership still requires a subject *at each moment*. The question "Why does this momentary experience belong to this momentary subject rather than to no one?" remains. Impermanence does not dissolve ownership—it distributes it across moments, each of which still demands a bearer.
+The Map acknowledges the depth of this challenge but draws a different conclusion. Even granting that the self is impermanent and process-like, the conventional/ultimate distinction does not dissolve the ownership problem—it relocates it. At the conventional level, the Buddhist grants that experience belongs to streams. But what makes *this* stream a locus of experience rather than a mere causal sequence? The question "Why does this momentary experience belong to this momentary subject rather than to no one?" arises at whatever level of analysis one adopts. The Map's view is that the Buddhist framework correctly strips away narrative and substance but encounters the same irreducible residue the phenomenologists identify: experience occurs *as owned*, and this is not a further conventional designation but the very character of consciousness.
 
 The [substantial self](/topics/the-self-minimal-narrative-and-substantial/) article argues that what contemplative practice reveals is not the absence of a bearer but the bearer stripped of narrative—[witness-awareness](/concepts/witness-consciousness/) that retains its first-person character even when everything else falls away. This witness is the owner, however impermanent.
 
@@ -117,7 +118,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Causal efficacy requires owned experience. Unowned consciousness—if such a thing were coherent—could not act, choose, or influence outcomes, because there would be no agent to do the acting. The ownership problem explains why the Map requires a genuine subject behind every conscious choice: without ownership, bidirectional interaction has no anchor.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Many-worlds threatens ownership by multiplying owners. After a quantum measurement, both branches contain a being who takes themselves to own the pre-measurement experiences. But ownership cannot branch—if these experiences were mine, they cannot become both mine-in-branch-A and mine-in-branch-B. The Map's rejection of many-worlds preserves the coherence of ownership by ensuring each experience has exactly one owner.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Many-worlds threatens ownership by multiplying owners. After a quantum measurement, both branches contain a being who takes themselves to own the pre-measurement experiences. The MWI defender might reply that branching creates genuinely distinct subjects—there is no "both," only two separate owners in separate branches. But this response concedes the problem rather than solving it. If ownership is fixed by physical facts, and the pre-measurement physical state was singular, what determines which post-branching subject *I* become? The MWI answer—that I become both, or rather that there is no fact of the matter—abandons the determinacy of ownership that experience seems to demand. The Map's rejection of many-worlds preserves the coherence of ownership by ensuring each experience has exactly one owner with a determinate identity.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Treating ownership as primitive may seem ontologically profligate—a simpler theory would derive it from something else. But the failure of every derivation attempt suggests that ownership is genuinely basic. Parsimony should not lead us to deny what experience most directly discloses: that it belongs to someone.
 

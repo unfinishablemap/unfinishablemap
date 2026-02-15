@@ -48,7 +48,7 @@ Authentic choice has a distinctive experiential signature. Several features char
 
 **Ownership of outcome.** After authentic choice, there is strong authorship: "I chose this." The decision is yours to own, including its consequences. This contrasts with the distancing that accompanies inauthentic choice: "I had to," "Everyone does this," "What else could I do?"
 
-**Temporal thickness.** Authentic decisions unfold in what Bergson calls [duration](/concepts/duration/)—lived time where past and present interpenetrate. The choice emerges from your whole history, not as mechanical causation but as creative expression of accumulated experience.
+**Temporal thickness.** Authentic decisions unfold in what Bergson calls [duration](/duration/)—lived time where past and present interpenetrate. The choice emerges from your whole history, not as mechanical causation but as creative expression of accumulated experience.
 
 ## The Phenomenology of Inauthentic Choice
 

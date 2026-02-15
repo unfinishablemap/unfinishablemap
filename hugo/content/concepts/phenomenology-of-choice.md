@@ -19,7 +19,7 @@ concepts:
 - '[[haecceity]]'
 - '[[decoherence]]'
 - '[[quantum-indeterminacy-free-will]]'
-- '[[quantum-coherence-protection]]'
+- '[[quantum-coherence-in-neural-systems]]'
 - '[[temporal-consciousness]]'
 - '[[luck-objection]]'
 - '[[causal-interface]]'
@@ -65,7 +65,7 @@ Both patterns share the same structure: genuine openness followed by determinate
 
 The [retrocausal](/concepts/retrocausality/) dimension adds complexity. If selection operates atemporally—determining which history becomes real—the phenomenology of deciding "now" may be how atemporal selection manifests to time-bound consciousness.
 
-The [decoherence objection](/concepts/decoherence/)—that quantum coherence cannot survive in warm neural tissue—is addressed through [protection mechanisms](/concepts/quantum-coherence-protection/) that may shield relevant superpositions. More fundamentally, consciousness may operate at the point of *outcome selection* after decoherence has selected the measurement basis, biasing which eigenstate becomes actual without requiring sustained coherence.
+The [decoherence objection](/concepts/decoherence/)—that quantum coherence cannot survive in warm neural tissue—is addressed through [protection mechanisms](/concepts/quantum-coherence-in-neural-systems/) that may shield relevant superpositions. More fundamentally, consciousness may operate at the point of *outcome selection* after decoherence has selected the measurement basis, biasing which eigenstate becomes actual without requiring sustained coherence.
 
 ### Authorship: The Sense of Agency
 
@@ -119,7 +119,7 @@ When choice feels effortful, frontal theta increases. When choice feels automati
 
 ## Deliberation and Duration
 
-Henri Bergson's concept of [durée](/concepts/duration/) illuminates deliberation. Choosing unfolds in lived time—qualitative duration where past and present interpenetrate—not spatialized clock-time. See [temporal-consciousness](/concepts/temporal-consciousness/) for how time-experience shapes what consciousness can do.
+Henri Bergson's concept of [durée](/duration/) illuminates deliberation. Choosing unfolds in lived time—qualitative duration where past and present interpenetrate—not spatialized clock-time. See [temporal-consciousness](/concepts/temporal-consciousness/) for how time-experience shapes what consciousness can do.
 
 Bergson argued that determinism treats mental states as discrete units causing each other mechanically. But in lived duration, mental states interpenetrate. Options don't sit statically waiting to be picked; they evolve through deliberation. What "option A" means changes as you consider option B. A free act emerges from the whole self—the full depth of one's lived duration—not from a chain of discrete events.
 
@@ -201,7 +201,7 @@ The phenomenology of choice aligns with what the Map's tenets predict:
 - [voluntary-attention](/voluntary-attention/) — Neural signatures of genuine choosing
 - [motor-selection](/concepts/motor-selection/) — Motor choice as parallel to attentional choice
 - [causal-interface](/voids/causal-interface/) — Why the mechanism connecting intention to action is invisible
-- [duration](/concepts/duration/) — Bergson's lived time and creative becoming
+- [duration](/duration/) — Bergson's lived time and creative becoming
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How consciousness generates options, not just selects
 - [introspection](/concepts/introspection/) — First-person methods for investigating choice
 - [witness-consciousness](/concepts/witness-consciousness/) — The contrast case of choiceless awareness

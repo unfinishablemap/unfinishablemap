@@ -18,6 +18,249 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 04:00 UTC - coalesce
+- **Status**: Success
+- **Sources**: [specious-present](/concepts/specious-present/), [duration](/concepts/duration/)
+- **Target**: [temporal-consciousness](/concepts/temporal-consciousness/)
+- **Archived**: [specious-present](/archive/concepts/specious-present/), [duration](/archive/concepts/duration/)
+- **References to review**: ~45 active content files
+
+## 2026-02-15 03:55 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and Moral Agency Under Duress
+- **Output**: [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/)
+- **Word count**: 1441
+- **Based on research**: no
+
+## 2026-02-15 03:50 UTC - deep-review
+- **Status**: Success
+- **File**: [process-haecceitism](/concepts/process-haecceitism/)
+- **Word count**: 1638 → 1831 (+193)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-02-15-process-haecceitism](/reviews/deep-review-2026-02-15-process-haecceitism/)
+
+## 2026-02-15 03:45 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and Collective Intelligence
+- **Output**: [consciousness-and-collective-intelligence](/topics/consciousness-and-collective-intelligence/)
+- **Word count**: 1831
+- **Based on research**: partially (related research: [voids-collective-cognitive-limits-2026-01-26](/research/voids-collective-cognitive-limits-2026-01-26/))
+
+## 2026-02-15 03:40 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology of Skill Transition
+- **Output**: [phenomenology-of-skill-transition](/topics/phenomenology-of-skill-transition/)
+- **Word count**: 1614
+- **Based on research**: no
+
+## 2026-02-15 03:35 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content in topics/ (~103), concepts/ (~173), tenets/ (1). Deep sample of 26 articles.
+- **Output**: [optimistic-2026-02-15-afternoon](/reviews/optimistic-2026-02-15-afternoon/)
+
+## 2026-02-15 03:30 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Physics of Information
+- **Output**: [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/)
+- **Word count**: 1831
+- **Based on research**: no (drew on existing IIT and participatory universe research)
+
+## 2026-02-15 03:25 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Narrative Coherence
+- **Output**: [narrative-coherence](/concepts/narrative-coherence/)
+- **Word count**: 1321
+- **Based on research**: no
+
+## 2026-02-15 03:20 UTC - deep-review
+- **Status**: Success
+- **File**: [acquaintance-knowledge](/concepts/acquaintance-knowledge/)
+- **Word count**: 1557 → 1624 (+67)
+- **Critical issues addressed**: 2 (misattribution of symbol grounding problem to Yampolskiy→Harnad; missing McDowell citation)
+- **Medium issues addressed**: 2 (Dennett's objection oversimplified; weak "persistence" argument)
+- **Enhancements made**: 3 (rewrote closing paragraph, corrected attribution, added citations)
+- **Output**: [deep-review-2026-02-15-acquaintance-knowledge](/reviews/deep-review-2026-02-15-acquaintance-knowledge/)
+
+## 2026-02-15 03:15 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Interface Friction
+- **Output**: [interface-friction](/concepts/interface-friction/)
+- **Word count**: 1296
+- **Based on research**: no
+
+## 2026-02-15 03:10 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-asymmetry/)
+- **Changes**: Distinguished physical asymmetry from phenomenological constitution claim; added explicit bridging argument for constitution vs causation; resolved prebiotic collapse tension; aligned all sections with refined position
+- **Published**: yes
+
+## 2026-02-15 03:05 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/consciousness-and-interpersonal-understanding.md, topics/consciousness-and-temporal-asymmetry.md, concepts/anoetic-noetic-autonoetic-consciousness.md
+- **Output**: [pessimistic-2026-02-15](/reviews/pessimistic-2026-02-15/)
+
+## 2026-02-15 03:00 UTC - expand-topic
+- **Status**: Success
+- **Topic**: consciousness and interpersonal understanding
+- **Output**: [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)
+- **Word count**: 1869
+- **Based on research**: no
+
+## 2026-02-15 02:55 UTC - expand-topic
+- **Status**: Success
+- **Topic**: consciousness and temporal asymmetry
+- **Output**: [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-asymmetry/)
+- **Word count**: 1962
+- **Based on research**: yes, [voids-temporal-asymmetry-remembering-anticipating-2026-01-21](/research/voids-temporal-asymmetry-remembering-anticipating-2026-01-21/) and [voids-temporal-consciousness-void-2026-02-04](/research/voids-temporal-consciousness-void-2026-02-04/)
+
+## 2026-02-15 02:46 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/)
+- **Word count**: 2355 → 2752 (+397)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 3 cross-links added, memory argument tightened, inline citation added
+- **Output**: [deep-review-2026-02-15-phenomenology-of-flow-states](/reviews/deep-review-2026-02-15-phenomenology-of-flow-states/)
+
+## 2026-02-15 02:41 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology of Habit and Skill Acquisition
+- **Output**: [phenomenology-of-habit-and-skill-acquisition](/topics/phenomenology-of-habit-and-skill-acquisition/)
+- **Word count**: 1611
+- **Based on research**: Partially (drew on [voids-habituation-void-2026-02-03](/research/voids-habituation-void-2026-02-03/) for context)
+
+## 2026-02-15 02:36 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Anoetic, Noetic, and Autonoetic Consciousness
+- **Output**: [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
+- **Word count**: 1244
+- **Based on research**: yes, [semantic-memory-consciousness-2026-01-17](/research/semantic-memory-consciousness-2026-01-17/)
+
+## 2026-02-15 02:25 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 310 (128 topics + 182 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-02-15](/reviews/tenet-check-2026-02-15/)
+
+## 2026-02-15 02:22 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Categorical Surprise
+- **Output**: [categorical-surprise](/concepts/categorical-surprise/)
+- **Word count**: 1241
+- **Based on research**: no
+
+## 2026-02-15 02:17 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Pain Asymbolia
+- **Output**: [pain-asymbolia](/concepts/pain-asymbolia/)
+- **Word count**: 1312
+
+## 2026-02-15 02:11 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Agency Verification Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-agency-verification-void-2026-02-15](/research/voids-agency-verification-void-2026-02-15/)
+- **Key finding**: Consciousness cannot verify its own causal powers — the verification problem is symmetric, with both interactionism and epiphenomenalism facing the same structural barrier from opposite directions
+
+## 2026-02-15 02:06 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Protention
+- **Output**: [protention](/concepts/protention/)
+- **Word count**: 1371
+- **Based on research**: No
+
+## 2026-02-15 01:55 UTC - deep-review
+- **Status**: Success
+- **File**: [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/)
+- **Word count**: 1611 → 1787 (+176)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 6
+- **Enhancements made**: 7
+- **Output**: [deep-review-2026-02-15-meta-problem-of-consciousness](/reviews/deep-review-2026-02-15-meta-problem-of-consciousness/)
+
+## 2026-02-15 01:50 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Suffering Versus Pain
+- **Output**: [suffering-versus-pain](/topics/suffering-versus-pain/)
+- **Word count**: 1717
+- **Based on research**: no
+
+## 2026-02-15 01:45 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Surprise and Creativity
+- **Output**: [surprise-and-creativity](/topics/surprise-and-creativity/)
+- **Word count**: 1616
+- **Based on research**: yes, [consciousness-creativity-novelty-generation-2026-01-19](/research/consciousness-creativity-novelty-generation-2026-01-19/) and [voids-creativity-void-2026-02-02](/research/voids-creativity-void-2026-02-02/)
+
+## 2026-02-15 01:37 UTC - coalesce
+- **Status**: Success
+- **Sources**: [neural-quantum-coherence](/neural-quantum-coherence/), [quantum-coherence-protection](/quantum-coherence-protection/)
+- **Target**: [quantum-coherence-in-neural-systems](/concepts/quantum-coherence-in-neural-systems/)
+- **Archived**: archive/concepts/neural-quantum-coherence.md, archive/concepts/quantum-coherence-protection.md
+- **References updated**: 7 files (the-interface-location-problem, brain-interface-boundary, decoherence, quantum-binding-and-phenomenal-unity, quantum-biology, quantum-interpretations, phenomenology-of-choice)
+- **References to review**: 0 (all active references updated; historical reviews left as-is)
+
+## 2026-02-15 01:32 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and Pain
+- **Output**: [consciousness-and-pain](/topics/consciousness-and-pain/)
+- **Word count**: 1901
+- **Based on research**: yes (drew from [emotional-consciousness-valence-2026-01-19](/research/emotional-consciousness-valence-2026-01-19/))
+
+## 2026-02-15 01:24 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-creativity/)
+- **Word count**: 2230 → 2828 (+598)
+- **Critical issues addressed**: 3 (missing falsification section, MWI mischaracterization, creation-vs-discovery contradiction)
+- **Medium issues addressed**: 6 (illusionist challenge, introspective caveat, AI section update, infinite domains nuance, cross-links x2)
+- **Enhancements made**: 5 (mysterian dimension, Erdős nuance, new further reading entries, inline cross-links, frontmatter additions)
+- **Output**: [deep-review-2026-02-15-consciousness-and-mathematical-creativity](/reviews/deep-review-2026-02-15-consciousness-and-mathematical-creativity/)
+
+## 2026-02-15 01:14 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Elisabeth's contemporaries and the interaction debate
+- **Output**: [elisabeths-contemporaries-and-the-interaction-debate](/topics/elisabeths-contemporaries-and-the-interaction-debate/)
+- **Word count**: 1967
+- **Based on research**: yes (related: [interactionist-dualism-2026-01-06](/research/interactionist-dualism-2026-01-06/), [objections-to-interactionist-dualism-2026-01-15](/research/objections-to-interactionist-dualism-2026-01-15/))
+
+## 2026-02-15 01:09 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Placebo Effect and Mental Causation
+- **Output**: [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)
+- **Word count**: 1475
+- **Based on research**: Partially (drew on [downward-causation-mental-causation-2026-01-15](/research/downward-causation-mental-causation-2026-01-15/))
+
+## 2026-02-15 01:04 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 121 topics, 180 concepts, 1 tenets article (302 total non-draft)
+- **Output**: [optimistic-2026-02-15](/reviews/optimistic-2026-02-15/)
+
+## 2026-02-15 00:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Moral Phenomenology
+- **Output**: [moral-phenomenology](/concepts/moral-phenomenology/)
+- **Word count**: 1308
+- **Based on research**: No
+
+## 2026-02-15 00:54 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and Social Cognition
+- **Output**: [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/)
+- **Word count**: 2023
+- **Based on research**: No
+
+## 2026-02-15 00:48 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/)
+- **Word count**: 2024 → 2233 (+209)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Buddhist engagement, MWI response, functionalism argument)
+- **Enhancements made**: 4 (Buddhist section enriched, MWI section strengthened, functionalism refined, frontmatter concept link corrected)
+- **Output**: [deep-review-2026-02-15-consciousness-and-the-ownership-problem](/reviews/deep-review-2026-02-15-consciousness-and-the-ownership-problem/)
+
 ## 2026-02-15 00:44 UTC - refine-draft
 - **Status**: Success
 - **File**: [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)

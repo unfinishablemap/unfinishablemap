@@ -9,7 +9,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[locality]]'
 - '[[measurement-problem]]'
-- '[[neural-quantum-coherence]]'
+- '[[quantum-coherence-in-neural-systems]]'
 - '[[illusionism]]'
 - '[[attention]]'
 - '[[attention-as-interface]]'
@@ -31,7 +31,6 @@ related_articles:
 - '[[decoherence-macroscopic-superposition-2026-01-14]]'
 - '[[quantum-biology]]'
 - '[[quantum-superposition-brain-consciousness-2026-01-18]]'
-- '[[quantum-coherence-protection]]'
 title: Decoherence and Quantum Biology
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -70,7 +69,7 @@ This matters for the Map's perspective. If decoherence fully explained measureme
 
 In 2000, physicist Max Tegmark published an influential calculation claiming that quantum coherence in brain microtubules would decay in about 10⁻¹³ seconds—far too fast for neural processes that operate on millisecond timescales. This became the standard objection to Penrose-Hameroff [Orch OR theory](/concepts/quantum-consciousness/). The [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) article provides a detailed analysis of this challenge and responses.
 
-Hameroff and colleagues responded that Tegmark's calculation was based on an incorrect model. Tegmark assumed thermal equilibrium—appropriate for dead tissue, not living systems—and separation distances far larger than Orch OR actually proposes. When corrected, the calculated coherence times increase by seven orders of magnitude, reaching 10⁻⁵ to 10⁻⁴ seconds. The [four proposed protection mechanisms](/concepts/quantum-coherence-protection/)—hydrophobic microtubule interior, Fröhlich coherence, ordered water, and nuclear spin isolation—may work cumulatively to extend coherence times even further.
+Hameroff and colleagues responded that Tegmark's calculation was based on an incorrect model. Tegmark assumed thermal equilibrium—appropriate for dead tissue, not living systems—and separation distances far larger than Orch OR actually proposes. When corrected, the calculated coherence times increase by seven orders of magnitude, reaching 10⁻⁵ to 10⁻⁴ seconds. The [four proposed protection mechanisms](/concepts/quantum-coherence-in-neural-systems/)—hydrophobic microtubule interior, Fröhlich coherence, ordered water, and nuclear spin isolation—may work cumulatively to extend coherence times even further.
 
 ### 2024-2025 Experimental Developments
 
@@ -190,9 +189,8 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is releva
 - [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — Detailed analysis of Tegmark's critique and responses
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve the measurement problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interaction
-- [quantum-coherence-protection](/concepts/quantum-coherence-protection/) — Four protection mechanisms and cumulative effects
+- [quantum-coherence-in-neural-systems](/concepts/quantum-coherence-in-neural-systems/) — Protection mechanisms, coherence evidence, and cumulative effects
 - [quantum-biology](/concepts/quantum-biology/) — Comprehensive coverage of biological quantum effects
-- [neural-quantum-coherence](/concepts/neural-quantum-coherence/) — Detailed treatment of neural coherence evidence
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention relates to the quantum Zeno mechanism
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge to consciousness studies
 - [many-worlds](/arguments/many-worlds/) — Arguments against the interpretation that dissolves the measurement problem differently

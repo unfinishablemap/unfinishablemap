@@ -120,7 +120,7 @@ With 2±1 working memory capacity, representing current practice and possible mo
 
 ## Working Memory and the Specious Present
 
-The 100ms–5s "experienced moment" in temporal perception corresponds precisely to WM maintenance capacity. WM may provide the temporal bridge creating the [specious present](/concepts/specious-present/)—the experienced duration of "now" that extends beyond the mathematical instant. What we experience as "now" may be what working memory feels like from inside.
+The 100ms–5s "experienced moment" in temporal perception corresponds precisely to WM maintenance capacity. WM may provide the temporal bridge creating the [specious present](/specious-present/)—the experienced duration of "now" that extends beyond the mathematical instant. What we experience as "now" may be what working memory feels like from inside.
 
 ## Working Memory and Global Workspace Theory
 
@@ -195,7 +195,7 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive linguistic structure depends on expanded WM capacity
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal bridge between consciousness and neural systems
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful cognition
-- [specious-present](/concepts/specious-present/) — The experienced duration of "now" and WM's role
+- [specious-present](/specious-present/) — The experienced duration of "now" and WM's role
 - [binding-problem](/concepts/binding-problem/) — The unity problem in both perception and memory
 - [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness and semantic retrieval
 - [metacognition](/concepts/metacognition/) — Self-monitoring as consciousness-enabled capacity

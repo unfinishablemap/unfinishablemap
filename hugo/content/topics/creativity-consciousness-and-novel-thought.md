@@ -238,7 +238,7 @@ Each requires explicitly representing non-actual states while manipulating those
 
 ## The Bergson Connection
 
-Henri Bergson argued that consciousness is constitutively creative. For Bergson, [durée](/concepts/duration/)—lived time—generates genuine novelty through each moment's integration of memory with present perception. "For a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."
+Henri Bergson argued that consciousness is constitutively creative. For Bergson, [durée](/duration/)—lived time—generates genuine novelty through each moment's integration of memory with present perception. "For a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."
 
 This framework suggests that the options consciousness "combines" don't fully pre-exist the combination. Imagination actively constitutes what's possible by exploring it. The zone of latent solutions appears as a boundary from outside—from where consciousness can represent the zone as a zone and ask what lies beyond.
 
@@ -272,7 +272,7 @@ The mechanistic question sharpens the philosophical question: could all this wor
 
 3. **The bandwidth match:** Conscious processing's 10 bits/second matches the grain at which creative selection operates. If consciousness were epiphenomenal, why this precise correspondence?
 
-4. **Bergson's insight:** Each moment of [durée](/concepts/duration/) brings genuine novelty through memory's progressive integration. If lived time creates rather than merely rearranges, then consciousness has generative capacity that physical description cannot capture.
+4. **Bergson's insight:** Each moment of [durée](/duration/) brings genuine novelty through memory's progressive integration. If lived time creates rather than merely rearranges, then consciousness has generative capacity that physical description cannot capture.
 
 None of these settles the question conclusively. But the Map's position is that creativity provides one of consciousness's clearest test cases. If anywhere, mental causation should be visible here.
 
@@ -316,7 +316,7 @@ Current evidence doesn't support any of these conditions.
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Imagining non-actual states
 - [working-memory](/concepts/working-memory/) — The workspace where combination occurs
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Broadcasting account of conscious access
-- [duration](/concepts/duration/) — Bergson's lived time as creative becoming
+- [duration](/duration/) — Bergson's lived time as creative becoming
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for mental causation including creative generation
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and its neural correlates
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum approaches to consciousness including Orch OR

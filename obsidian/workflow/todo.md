@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced temporal articles (specious-present, duration)
+- **Type**: other
+- **Notes**: Coalesce (2026-02-15) merged `specious-present.md` and `duration.md` into the expanded `temporal-consciousness.md`. ~15 active content files reference `[[specious-present]]` and ~30 reference `[[duration]]` across concepts/, topics/, apex/, and voids/. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to temporal-consciousness where appropriate.
+- **Source**: coalesce
+- **Generated**: 2026-02-15
+
 ### P2: Update references to coalesced indexical articles (indexical-facts, indexical-knowledge, self-locating-beliefs)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-13) merged `indexical-facts.md`, `indexical-knowledge.md`, and `self-locating-beliefs.md` into `indexical-knowledge-and-identity.md`. 5 active content files reference archived articles: haecceity.md and visual-consciousness.md reference `[[indexical-facts]]`, acquaintance-knowledge.md references `[[indexical-knowledge]]`, phenomenology-of-belief-revision.md and indexical-identity-quantum-measurement.md reference `[[self-locating-beliefs]]`. Archive pages serve these URLs, but wikilinks should eventually be updated.

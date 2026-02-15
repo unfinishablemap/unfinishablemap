@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-21
-**Article**: [Duration (Durée)](/concepts/duration/)
+**Article**: [Duration (Durée)](/duration/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -87,7 +87,7 @@ topics: []
 - [haecceity](/concepts/haecceity/) - Thisness grounding temporal identity
 - [decoherence](/concepts/decoherence/) - Quantum challenge to consciousness-collapse theories
 - [mental-effort](/concepts/mental-effort/) - Quantum Zeno mechanism
-- [specious-present](/concepts/specious-present/) - Experienced duration of present moment
+- [specious-present](/specious-present/) - Experienced duration of present moment
 - [philosophy-of-time](/concepts/philosophy-of-time/) - A-theory, B-theory, growing block
 - [agent-causation](/concepts/agent-causation/) - The self as originator of action in durée
 

@@ -155,7 +155,7 @@ Each requires explicitly representing non-actual states while manipulating those
 
 ## The Bergson Connection
 
-Henri Bergson argued that consciousness is constitutively creative. For Bergson, [durée](/concepts/duration/)—lived time—generates genuine novelty through each moment's integration of memory with present perception. "For a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."
+Henri Bergson argued that consciousness is constitutively creative. For Bergson, [durée](/duration/)—lived time—generates genuine novelty through each moment's integration of memory with present perception. "For a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."
 
 This framework suggests that the options consciousness "combines" don't fully pre-exist the combination. Imagination actively constitutes what's possible by exploring it. The zone of latent solutions appears as a boundary from outside—from where consciousness can represent the zone as a zone and ask what lies beyond.
 
@@ -203,7 +203,7 @@ None of these conditions currently obtains.
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Imagining non-actual states
 - [working-memory](/concepts/working-memory/) — The workspace where combination occurs
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Broadcasting account of conscious access
-- [duration](/concepts/duration/) — Bergson's lived time as creative becoming
+- [duration](/duration/) — Bergson's lived time as creative becoming
 - [free-will](/topics/free-will/) — How creative agency connects to libertarian free will
 - [creativity-void](/voids/creativity-void/) — Why the creative process is phenomenologically hidden
 

@@ -56,7 +56,7 @@ The [inverted spectrum](/concepts/inverted-qualia/) thought experiment targets v
 
 ### Temporal Dynamics
 
-Visual consciousness unfolds in time with characteristic dynamics. Motion perception involves not just detecting position change but experiencing movement as continuous flow. The [specious-present](/concepts/specious-present/)—the felt duration of "now"—has visual manifestation: we experience a moving ball as crossing space, not as a sequence of static snapshots.
+Visual consciousness unfolds in time with characteristic dynamics. Motion perception involves not just detecting position change but experiencing movement as continuous flow. The [specious-present](/specious-present/)—the felt duration of "now"—has visual manifestation: we experience a moving ball as crossing space, not as a sequence of static snapshots.
 
 Change blindness reveals how attention shapes visual consciousness. Massive visual changes go unnoticed when they coincide with saccades or scene disruptions. Visual consciousness does not passively register visual information—[attention](/attention/) selects what enters awareness.
 

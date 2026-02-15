@@ -57,7 +57,7 @@ The [agency-passivity spectrum](/topics/phenomenology-of-agency-vs-passivity/) h
 
 **Authorship without effort.** The sense of "I did this" is present, but the [phenomenology of effort](/concepts/mental-effort/) is absent or minimal. This dissociation is philosophically important. If effort tracked agency itself (rather than the difficulty of selection), spontaneous intentional actions would feel passive. They do not. You own the spontaneous kind word; it feels like something you did, not something that happened to you.
 
-**Compressed temporality.** Deliberate choice unfolds in Bergson's [durée](/concepts/duration/)—options interpenetrate, evolve, and eventually resolve. Spontaneous intentional action compresses this arc. The intention and the action arise together or nearly so. There may be no experiential gap between wanting and doing—yet the action is not automatic either. It carries the mark of intelligent sensitivity to the situation.
+**Compressed temporality.** Deliberate choice unfolds in Bergson's [durée](/duration/)—options interpenetrate, evolve, and eventually resolve. Spontaneous intentional action compresses this arc. The intention and the action arise together or nearly so. There may be no experiential gap between wanting and doing—yet the action is not automatic either. It carries the mark of intelligent sensitivity to the situation.
 
 **Retrospective recognition.** Often the intentional character of a spontaneous action becomes fully clear only after the fact. You realise you stopped for the hawk because something in you recognised its importance. The action was intelligent from the start, but its intelligence becomes articulable only in retrospect. This connects to [volitional opacity](/voids/volitional-opacity/): the mechanism of initiation is hidden, yet the action is clearly authored.
 
@@ -83,7 +83,7 @@ This explains the [phenomenological profile](/topics/phenomenology-of-agency-vs-
 
 Spontaneous intentional action is closely linked to [creative generation](/concepts/consciousness-and-creativity/). In creative work, the most valued moments are often those where the right idea arrives without being sought—the phrase that writes itself, the brush stroke that finds its own path, the solution that appears in the shower. These are spontaneous intentional actions in the cognitive domain: novel, contextually appropriate, owned, and undeliberated.
 
-Bergson's account of [durée](/concepts/duration/) illuminates why. In lived duration, the whole of one's accumulated experience interpenetrates with the present moment. Spontaneous action draws on this entire depth without needing to make it explicit. The musician's improvisation expresses years of training, emotional memory, and situational sensitivity in a single gesture. The action is intelligent because it is *deep*—rooted in the full thickness of lived experience—even though its surface is instantaneous.
+Bergson's account of [durée](/duration/) illuminates why. In lived duration, the whole of one's accumulated experience interpenetrates with the present moment. Spontaneous action draws on this entire depth without needing to make it explicit. The musician's improvisation expresses years of training, emotional memory, and situational sensitivity in a single gesture. The action is intelligent because it is *deep*—rooted in the full thickness of lived experience—even though its surface is instantaneous.
 
 ## Contemplative Perspectives
 
@@ -128,7 +128,7 @@ The account of spontaneous intentional action offered here would face difficulty
 - [mental-effort](/concepts/mental-effort/) — Why effort tracks difficulty of selection, not presence of selection
 - [implicit-memory](/concepts/implicit-memory/) — Skill delegation and the boundary with spontaneous action
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Creative generation as spontaneous intentional action in the cognitive domain
-- [duration](/concepts/duration/) — Bergson's lived time and the depth behind spontaneous action
+- [duration](/duration/) — Bergson's lived time and the depth behind spontaneous action
 - [volitional-opacity](/voids/volitional-opacity/) — Why the mechanism of spontaneous initiation is hidden
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Why spontaneous actions often feel more genuinely ours
 

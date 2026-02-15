@@ -57,7 +57,7 @@ Classical physics suggested determinism: given initial conditions and physical l
 
 **Compatibilism**: Free will means acting from endorsed desires without external coercion. Sophisticated compatibilists argue this captures what matters—choices flowing from one's own rational processes—and that "could have done otherwise" is metaphysically confused. Yet for those who take the phenomenology of deliberation seriously, compatibilism redescribes rather than explains: why does choosing *feel* like determining an open outcome if the outcome was always fixed?
 
-Bergson's [durée](/concepts/duration/) offers additional resources: if mental states interpenetrate rather than causing each other like discrete billiard balls, the deterministic model fails at its foundations.
+Bergson's [durée](/duration/) offers additional resources: if mental states interpenetrate rather than causing each other like discrete billiard balls, the deterministic model fails at its foundations.
 
 ## The Neuroscientific Challenge
 

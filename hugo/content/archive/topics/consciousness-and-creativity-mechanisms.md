@@ -141,7 +141,7 @@ The mechanistic question sharpens the philosophical question: could all this wor
 
 3. **The bandwidth match:** Conscious processing's 10 bits/second matches the grain at which creative selection operates. If consciousness were epiphenomenal, why this precise correspondence?
 
-4. **Bergson's insight:** Each moment of [durée](/concepts/duration/) brings genuine novelty through memory's progressive integration. If lived time creates rather than merely rearranges, then consciousness has generative capacity that physical description cannot capture.
+4. **Bergson's insight:** Each moment of [durée](/duration/) brings genuine novelty through memory's progressive integration. If lived time creates rather than merely rearranges, then consciousness has generative capacity that physical description cannot capture.
 
 None of these settles the question conclusively. But the Map's position is that creativity provides one of consciousness's clearest test cases. If anywhere, mental causation should be visible here.
 
@@ -185,7 +185,7 @@ Current evidence doesn't support any of these conditions.
 - [creativity-and-novel-combination](/creativity-and-novel-combination/) — How consciousness enables escaping the zone of latent solutions
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention's role as the interface between consciousness and matter
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The quantum Zeno mechanism for selection
-- [duration](/concepts/duration/) — Bergson's lived time as inherently creative
+- [duration](/duration/) — Bergson's lived time as inherently creative
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for mental causation including creative generation
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and its neural correlates
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum approaches to consciousness including Orch OR

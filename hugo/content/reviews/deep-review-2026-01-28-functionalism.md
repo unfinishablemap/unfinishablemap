@@ -34,7 +34,7 @@ None. The previous review (2026-01-20) addressed major gaps including:
 1. **Missing cross-link to [heterophenomenology](/concepts/heterophenomenology/)**: Dennett's methodological approach is directly relevant to the Chinese Room discussion.
    - **Resolution**: Added heterophenomenology mention and link in the Chinese Room section.
 
-2. **Missing cross-links to related concept pages**: [explanatory-gap](/concepts/explanatory-gap/), [specious-present](/concepts/specious-present/), and [mysterianism](/concepts/mysterianism/) were discussed but not linked despite having dedicated pages.
+2. **Missing cross-links to related concept pages**: [explanatory-gap](/concepts/explanatory-gap/), [specious-present](/specious-present/), and [mysterianism](/concepts/mysterianism/) were discussed but not linked despite having dedicated pages.
    - **Resolution**: Added all four concepts to frontmatter and inline links where discussed.
 
 ### Counterarguments Considered
@@ -57,7 +57,7 @@ None. The previous review (2026-01-20) addressed major gaps including:
 
 1. **Added heterophenomenology engagement**: Brief mention of Dennett's methodological approach in Chinese Room section
 2. **Added cross-link to [explanatory-gap](/concepts/explanatory-gap/)**: In Hard Problem section
-3. **Added cross-link to [specious-present](/concepts/specious-present/)**: In Temporal Structure section
+3. **Added cross-link to [specious-present](/specious-present/)**: In Temporal Structure section
 4. **Added cross-link to [mysterianism](/concepts/mysterianism/)**: In Hard Problem section noting epistemic limits
 5. **Tightened "Core Claim" section**: Removed redundancy with opening paragraph
 6. **Tightened "Functionalism's Appeal" section**: Reduced wordiness while preserving content
@@ -66,7 +66,7 @@ None. The previous review (2026-01-20) addressed major gaps including:
 
 - [heterophenomenology](/concepts/heterophenomenology/) - Dennett's methodological approach
 - [explanatory-gap](/concepts/explanatory-gap/) - The gap between functional and phenomenal description
-- [specious-present](/concepts/specious-present/) - Temporal structure of consciousness
+- [specious-present](/specious-present/) - Temporal structure of consciousness
 - [mysterianism](/concepts/mysterianism/) - Epistemic limits on understanding consciousness
 
 ## Remaining Items

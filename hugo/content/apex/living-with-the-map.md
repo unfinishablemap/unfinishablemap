@@ -141,7 +141,7 @@ What does this add up to? Not a prescription but a shape—a way of orienting to
 
 *Ground yourself in experience.* The quality of your conscious life is what ultimately matters. Attend to it in its full dimensionality—not just pleasure, but beauty, meaning, agency, understanding, connection. Don't sacrifice experiential depth for external markers of success. A life looks very different when measured by what it feels like from inside rather than what it looks like from outside.
 
-*Inhabit time richly.* Henri Bergson's [durée](/concepts/duration/)—lived time as opposed to clock time—captures something essential. Each present moment has qualitative depth. The richness of lived duration, where past and future interpenetrate in the present, is where meaning actually resides. Rushing through moments to reach destinations misses the point; the moments themselves are the substance of life.
+*Inhabit time richly.* Henri Bergson's [durée](/duration/)—lived time as opposed to clock time—captures something essential. Each present moment has qualitative depth. The richness of lived duration, where past and future interpenetrate in the present, is where meaning actually resides. Rushing through moments to reach destinations misses the point; the moments themselves are the substance of life.
 
 *Take choices seriously.* You author your life through what you decide. The [No Many Worlds tenet](/tenets/#no-many-worlds) gives this weight: you chose *this*, and the alternatives were genuinely rejected, not routed elsewhere. Difficulty doesn't exempt you from responsibility. What you do next is genuinely up to you.
 

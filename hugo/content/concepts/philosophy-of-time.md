@@ -183,7 +183,7 @@ Whatever the correct metaphysics, temporal *experience* has distinctive features
 
 **Asymmetric access**: We remember the past, not the future. We can affect the future, not the past (or so it seems).
 
-**[Durée](/concepts/duration/)**: Bergson's "lived time" is qualitative, interpenetrating—not a sequence of instants but continuous creative advance. Clock time abstracts from this.
+**[Durée](/duration/)**: Bergson's "lived time" is qualitative, interpenetrating—not a sequence of instants but continuous creative advance. Clock time abstracts from this.
 
 These phenomenological features don't decisively settle metaphysics (B-theorists explain them as illusions or indexical effects), but they constrain adequate theories. A metaphysics that dismisses temporal phenomenology as mere confusion must explain why the confusion is so systematic and universal.
 
@@ -235,8 +235,8 @@ Philosophy of time connects to all five tenets, with the connection running deep
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric physics and backward causation
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and phenomenology of time
-- [specious-present](/concepts/specious-present/) — The experienced duration of "now"
-- [duration](/concepts/duration/) — Bergson's qualitative lived time
+- [specious-present](/specious-present/) — The experienced duration of "now"
+- [duration](/duration/) — Bergson's qualitative lived time
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse remains unexplained
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and the Map's response
 - [introspection](/concepts/introspection/) — First-person methods and their epistemic status

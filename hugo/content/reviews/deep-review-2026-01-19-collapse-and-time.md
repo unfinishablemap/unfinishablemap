@@ -64,8 +64,8 @@ topics: []
 
 ### Cross-links Added
 
-- [specious-present](/concepts/specious-present/) (frontmatter and inline)
-- [duration](/concepts/duration/) (frontmatter and Further Reading)
+- [specious-present](/specious-present/) (frontmatter and inline)
+- [duration](/duration/) (frontmatter and Further Reading)
 - [agent-causation](/concepts/agent-causation/) (frontmatter and Further Reading)
 - [temporal-consciousness](/concepts/temporal-consciousness/) (frontmatter and Further Reading)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) (Further Reading, inline)

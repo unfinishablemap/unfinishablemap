@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-25
-**Article**: [Neural Quantum Coherence](/concepts/neural-quantum-coherence/)
+**Article**: [Neural Quantum Coherence](/neural-quantum-coherence/)
 **Previous review**: [2026-01-19](/reviews/deep-review-2026-01-19-neural-quantum-coherence/)
 
 ## Pessimistic Analysis Summary
@@ -54,7 +54,7 @@ topics: []
 - Added Fisher et al. (2025) to References section
 
 ### Cross-links Present
-- [binding-problem](/concepts/binding-problem/), [quantum-consciousness](/concepts/quantum-consciousness/), [decoherence](/concepts/decoherence/), [quantum-biology](/concepts/quantum-biology/), [measurement-problem](/concepts/measurement-problem/), [quantum-coherence-protection](/concepts/quantum-coherence-protection/), [tenets](/tenets/), research notes
+- [binding-problem](/concepts/binding-problem/), [quantum-consciousness](/concepts/quantum-consciousness/), [decoherence](/concepts/decoherence/), [quantum-biology](/concepts/quantum-biology/), [measurement-problem](/concepts/measurement-problem/), [quantum-coherence-protection](/quantum-coherence-protection/), [tenets](/tenets/), research notes
 
 ## Remaining Items
 

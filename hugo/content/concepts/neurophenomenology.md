@@ -57,7 +57,7 @@ Varela (1946-2001) proposed neurophenomenology as "a methodological remedy for t
 
 Buddhist meditation offers protocols for observing mental processes with precision unavailable to untrained introspection.
 
-**Temporal microstructure**: Long-term meditators access the [specious present](/concepts/specious-present/)—the experienced duration of "now" (100ms to 3 seconds). Buddhist traditions describe *khanika* (momentariness): experience arising and passing in rapid succession. Ordinary awareness blurs these transitions; contemplative training discloses them. The Map adopts modified extensionalism: experience is genuinely temporally extended, with extension constituted through quantum collapse. Gamma-range synchronies (30-70 Hz, ~25-35ms cycles) may implement temporal binding at exactly this scale.
+**Temporal microstructure**: Long-term meditators access the [specious present](/specious-present/)—the experienced duration of "now" (100ms to 3 seconds). Buddhist traditions describe *khanika* (momentariness): experience arising and passing in rapid succession. Ordinary awareness blurs these transitions; contemplative training discloses them. The Map adopts modified extensionalism: experience is genuinely temporally extended, with extension constituted through quantum collapse. Gamma-range synchronies (30-70 Hz, ~25-35ms cycles) may implement temporal binding at exactly this scale.
 
 **The constructed self**: Advanced meditation reveals the self as dynamic process rather than fixed entity. Moments of "selfless" awareness occur where the usual subject-object structure dissolves—phenomenological data invisible to third-person methods.
 
@@ -163,8 +163,8 @@ Meditation exhibits the structure of [self-forming actions](/topics/free-will/):
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer phenomenon in contemplative traditions
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention serves as consciousness's interface with matter
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How contemplative observation reveals time's structure
-- [specious-present](/concepts/specious-present/) — The experienced duration of "now" and the extensionalism debate
-- [duration](/concepts/duration/) — Bergson's analysis of lived time, convergent with contemplative reports
+- [specious-present](/specious-present/) — The experienced duration of "now" and the extensionalism debate
+- [duration](/duration/) — Bergson's analysis of lived time, convergent with contemplative reports
 - [qualia](/concepts/qualia/) — The qualitative features that contemplative training discloses
 - [illusionism](/concepts/illusionism/) — The challenge that phenomenal consciousness is an illusion
 - [decoherence](/concepts/decoherence/) — The quantum objection and biological responses

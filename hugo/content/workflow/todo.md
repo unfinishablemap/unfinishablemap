@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced temporal articles (specious-present, duration)
+- **Type**: other
+- **Notes**: Coalesce (2026-02-15) merged `specious-present.md` and `duration.md` into the expanded `temporal-consciousness.md`. ~15 active content files reference `[specious-present](/specious-present/)` and ~30 reference `[duration](/duration/)` across concepts/, topics/, apex/, and voids/. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to temporal-consciousness where appropriate.
+- **Source**: coalesce
+- **Generated**: 2026-02-15
+
 ### P2: Update references to coalesced indexical articles (indexical-facts, indexical-knowledge, self-locating-beliefs)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-13) merged `indexical-facts.md`, `indexical-knowledge.md`, and `self-locating-beliefs.md` into `indexical-knowledge-and-identity.md`. 5 active content files reference archived articles: haecceity.md and visual-consciousness.md reference `[indexical-facts](/indexical-facts/)`, acquaintance-knowledge.md references `[indexical-knowledge](/indexical-knowledge/)`, phenomenology-of-belief-revision.md and indexical-identity-quantum-measurement.md reference `[self-locating-beliefs](/self-locating-beliefs/)`. Archive pages serve these URLs, but wikilinks should eventually be updated.
@@ -104,146 +110,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and social cognition
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. How consciousness enables understanding of other minds—theory of mind, empathy, joint attention—and what this reveals about consciousness's nature. The baseline cognition work suggests great apes have limited theory of mind; exploring why could strengthen the Map's case for bidirectional interaction. See optimistic-2026-02-08.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-08
-
-### P3: Create concept page for moral-phenomenology
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The phenomenology-of-moral-experience article introduces moral perception, felt obligation, and moral admiration as distinct phenomenal states. A concept page defining moral phenomenology as a category would anchor cross-references from ethics-of-consciousness, meaning-of-life, and consciousness-value-connection. See optimistic-2026-02-08.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-08
-
-### P3: Write article on the placebo effect and mental causation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The placebo effect provides one of the most widely replicated demonstrations of mind-body causation. Unlike motor imagery (where physicalists can argue neural rehearsal does the work), placebos show that propositional attitudes—beliefs about treatment—produce specific physiological changes. Harder for epiphenomenalism to explain: semantic content determines which system responds. Builds on choking-phenomenon-mental-causation.md, mental-imagery.md, psychophysical-laws.md. See optimistic-2026-02-09.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-09
-
-### P3: Write article on Elisabeth's contemporaries and the interaction debate
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Elisabeth influenced and was influenced by Leibniz, Malebranche, Conway, and others. The early modern response to the interaction problem generated multiple solutions (pre-established harmony, occasionalism, Conway's monism) that map instructively onto contemporary options. Companion piece to princess-elizabeths-challenge.md. Builds on history-of-interactionist-dualism.md, conservation-laws-and-mind.md. See optimistic-2026-02-09.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-09
-
-### P3: Write article on consciousness and pain
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Pain as the paradigmatic hard problem case—pain asymbolia, phantom limb, congenital insensitivity, and placebo/nocebo effects demonstrate pain has phenomenal properties dissociable from neural correlates. The moral dimension (suffering as irreducible phenomenal reality) connects to phenomenal-value-realism.md. Builds on hard-problem-of-consciousness.md, emotional-consciousness.md, phenomenology-of-moral-experience.md. See optimistic-2026-02-09.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-09
-
-### P3: Write article on surprise and creativity
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Categorical surprise (recognising the inadequacy of one's representational framework) is closely related to creative insight—both involve transcending existing structures rather than updating within them. Develops how surprise and creativity interact through the consciousness-as-amplifier thesis. Builds on consciousness-and-surprise.md, distinctiveness-of-human-creativity.md, creativity-consciousness-and-novel-thought.md. See optimistic-2026-02-09-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-09
-
-### P3: Write article on phenomenology of suffering vs pain
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Pain and suffering are phenomenologically distinct (Buddhist "first arrow" vs "second arrow"). Develops how meditation practices alter the pain-suffering connection—evidence for bidirectional interaction and contemplative epistemology. Builds on phenomenology-of-pain.md, emotional-consciousness.md, buddhist-perspectives-on-meaning.md. See optimistic-2026-02-09-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-09
-
-### P3: Create concept page for protention
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Husserl's term for forward-directed experience, referenced in phenomenology-of-anticipation.md, consciousness-and-surprise.md, temporal-consciousness.md but lacking dedicated page. The surprise article's claim that surprise is "what happens when this reaching meets something it cannot grasp" depends on protention being well-defined. See optimistic-2026-02-09-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-09
-
-### P3: Create concept page for pain asymbolia
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Dissociation between pain detection and pain suffering appears in phenomenology-of-pain.md, emotional-consciousness.md, and minds-without-words apex article but has no concept page. Important for argument that pain's phenomenal character is irreducible. See optimistic-2026-02-09-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-09
-
-### P3: Create concept page for categorical surprise
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Surprise at the genuinely novel—outside the model's possibility space entirely. Conceptually distinct from ordinary prediction error. Connections to creativity, paradigm shifts, consciousness-as-amplifier thesis. Introduced in consciousness-and-surprise.md. See optimistic-2026-02-09-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-09
-
-### P3: Create concept page for anoetic/noetic/autonoetic consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Tulving's hierarchy is now referenced in multiple articles (consciousness-and-memory, the-self) but lacks its own concept page. Given its centrality to the Map's arguments about memory, temporal integration, and the self, a dedicated page would serve as reference point and prevent repetitive exposition. See optimistic-2026-02-09.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-09
-
-### P3: Write article on the phenomenology of habit and skill acquisition
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-10. How skills transition from conscious effortful performance to automatised fluency. The Map describes the endpoints (effortful novice, effortless expert via flow) but not the transition itself. What does it feel like as a skill becomes automatic? When does consciousness withdraw? Builds on phenomenology-of-flow-states.md, choking-phenomenon-mental-causation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-10.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-10
-
-### P3: Write article on consciousness and temporal asymmetry
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-10. If consciousness participates in collapse and collapse introduces irreversibility, consciousness may be constitutive of time's arrow. The growing-block apex article gestures at this but deserves dedicated topic-level treatment developing the argument systematically and engaging with physics (Boltzmann brains, past hypothesis, Penrose's Weyl curvature hypothesis). Builds on time-consciousness-growing-block.md, phenomenology-of-anticipation.md, consciousness-evolution-problem.md. See optimistic-2026-02-10.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-10
-
-### P3: Write article on consciousness and interpersonal understanding
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-10. What it is like to understand another person—the phenomenology of empathy, theory of mind, and intersubjective comprehension. If understanding has irreducible phenomenal character, understanding other minds has distinctive additional structure: modelling another subject from within one's own subjectivity. Builds on phenomenology-of-understanding.md, intersubjectivity.md, consciousness-and-semantic-understanding.md. See optimistic-2026-02-10.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-10
-
-### P3: Create concept page for interface friction
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-10. The property that makes conscious selection feel effortful—resistance at the consciousness-brain interface when options are unprepared, competing, or uncertain. Introduced metaphorically in the flow states article ("effort is resistance at the interface") but deserves treatment as a concept. Would unify flow, choking, effort, and deliberation phenomenologies. See optimistic-2026-02-10.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-10
-
-### P3: Create concept page for narrative coherence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-10. The felt quality of a life making sense as a unified story. Referenced in diachronic-agency, personal-identity, and meaning-of-life articles but not given dedicated treatment. Central to the Map's account of extended agency and moral responsibility. See optimistic-2026-02-10.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-10
-
-### P3: Write article on consciousness and the physics of information
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-10 (evening). If consciousness selects among quantum possibilities, what is the informational content of that selection? How does the 40 bits/second bandwidth relate to the information capacity of quantum collapse events? Connect to Landauer's principle, Wheeler's "it from bit," and recent quantum information revolution. Builds on quantum-randomness-channel-llm-consciousness.md, consciousness-in-smeared-quantum-states.md, emergence-void.md. See optimistic-2026-02-10-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-10
-
-### P3: Write article on the phenomenology of skill transition
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-10 (evening). How skills transition from conscious effortful performance to automatised fluency. The Map describes the endpoints (effortful novice, effortless expert via flow) but not the transition itself. The moment of delegation—from conscious control to implicit execution—is where the interface model makes its clearest predictions. Builds on phenomenology-of-flow-states.md, choking-phenomenon-mental-causation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-10-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-10
-
-### P3: Write article on consciousness and collective intelligence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-10 (evening). How individual consciousnesses interact to produce collective intelligence exceeding individual capacity. If each consciousness selects among quantum possibilities, how do multiple selectors coordinate? Joint attention, shared intentionality, and cultural accumulation as emergent from multiple consciousness-interfaces. Builds on intersubjectivity.md, consciousness-and-semantic-understanding.md, baseline-cognition.md. See optimistic-2026-02-10-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-10
-
-### P3: Write article on consciousness and moral agency under duress
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-12. How moral responsibility applies when consciousness is partially compromised—addiction, extreme emotion, trauma responses, coercive control. The Map has a sophisticated account of full agency but hasn't systematically treated diminished agency. Bidirectional Interaction implies degrees of conscious influence; moral responsibility should scale accordingly. Builds on disorders-of-consciousness-as-test-cases.md, moral-responsibility.md, free-will.md. See optimistic-2026-02-12.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-12
-
 ### P3: Write article on consciousness and aesthetic experience as philosophical evidence
 - **Type**: expand-topic
 - **Status**: pending
@@ -293,8 +159,172 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-13
 
+### P3: Write article on consciousness and collective intentionality
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15. How shared intentions, joint commitments, and "we-consciousness" arise from individual phenomenal experiences. Searle's collective intentionality, Tomasello's shared intentionality, Bratman's shared cooperative activity—each assumes agents with phenomenal understanding of each other. Builds on consciousness-and-social-cognition.md, intersubjectivity.md, theory-of-mind.md. See optimistic-2026-02-15.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
+### P3: Write article on the phenomenology of trust
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15. Trust has distinctive phenomenal character—felt vulnerability, willed suspension of protective vigilance, emotional exposure. Trust is central to human social life and depends on phenomenal understanding of another's inner states. A zombie could mimic cooperative behaviour but could not *trust*. Builds on consciousness-and-social-cognition.md, moral-phenomenology.md, phenomenology-of-choice.md. See optimistic-2026-02-15.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
+### P3: Write article on consciousness and normative authority
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15. Why some claims have *authority* over our thinking—not causal force (any brain state can cause belief) but genuine rational authority. The experience that a conclusion *must* follow, that a moral demand *cannot* be ignored. Normative authority may require conscious subjects in ways no physical system replicates. Builds on moral-phenomenology.md, phenomenal-normativity.md, argument-from-reason.md. See optimistic-2026-02-15.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
+### P3: Write article on the phenomenology of trust and testimony
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Trust involves distinctive phenomenal character—felt reliability, vulnerability, dependence on another's consciousness—that pure information transfer cannot capture. How acquaintance knowledge and propositional knowledge interact in testimony. Builds on acquaintance-knowledge.md, phenomenology-of-epistemic-achievement.md, narrative-coherence.md. See optimistic-2026-02-15-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
+### P3: Write article on consciousness and counterfactual reasoning
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Counterfactual thinking requires both phenomenal consciousness and the ability to inhabit non-actual scenarios. Connects the Map's epistemology to its agency framework. Builds on counterfactual-reasoning.md, consciousness-as-amplifier.md, agent-causation.md. See optimistic-2026-02-15-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
+### P3: Write article on the phenomenology of perceptual constancy
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). How we experience stable objects despite constantly varying sensory input. The gap between variable input and stable percept reveals consciousness doing constructive work that no purely computational account adequately explains. Builds on phenomenal-consciousness.md, consciousness-and-surprise.md, interface-friction.md. See optimistic-2026-02-15-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
+### P3: Create concept page for cognitive phenomenology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Multiple articles assume cognitive states (thinking, understanding, knowing) have phenomenal character, but no dedicated page defends this. The "rich" vs "thin" debate is directly relevant to the Map's case that consciousness contributes to cognition. Connects to acquaintance-knowledge.md, phenomenology-of-understanding.md, phenomenology-of-epistemic-achievement.md. See optimistic-2026-02-15-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
+### P3: Create concept page for preemption (philosophical)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Delegatory dualism relies on preemption to avoid overdetermination, but no dedicated page explains the philosophical literature (Lewis, Schaffer). Would clarify how Saad adapts it for the mind-body problem. Connects to delegatory-dualism.md, agent-causation.md. See optimistic-2026-02-15-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on consciousness and moral agency under duress
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-12. How moral responsibility applies when consciousness is partially compromised—addiction, extreme emotion, trauma responses, coercive control. The Map has a sophisticated account of full agency but hasn't systematically treated diminished agency. Bidirectional Interaction implies degrees of conscious influence; moral responsibility should scale accordingly. Builds on disorders-of-consciousness-as-test-cases.md, moral-responsibility.md, free-will.md. See optimistic-2026-02-12.md
+- **Output**: consciousness and moral agency under duress
+
+### ✓ 2026-02-15: Write article on consciousness and collective intelligence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-10 (evening). How individual consciousnesses interact to produce collective intelligence exceeding individual capacity. If each consciousness selects among quantum possibilities, how do multiple selectors coordinate? Joint attention, shared intentionality, and cultural accumulation as emergent from multiple consciousness-interfaces. Builds on intersubjectivity.md, consciousness-and-semantic-understanding.md, baseline-cognition.md. See optimistic-2026-02-10-evening.md
+- **Output**: consciousness and collective intelligence
+
+### ✓ 2026-02-15: Write article on the phenomenology of skill transition
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-10 (evening). How skills transition from conscious effortful performance to automatised fluency. The Map describes the endpoints (effortful novice, effortless expert via flow) but not the transition itself. The moment of delegation—from conscious control to implicit execution—is where the interface model makes its clearest predictions. Builds on phenomenology-of-flow-states.md, choking-phenomenon-mental-causation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-10-evening.md
+- **Output**: the phenomenology of skill transition
+
+### ✓ 2026-02-15: Write article on consciousness and the physics of information
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-10 (evening). If consciousness selects among quantum possibilities, what is the informational content of that selection? How does the 40 bits/second bandwidth relate to the information capacity of quantum collapse events? Connect to Landauer's principle, Wheeler's "it from bit," and recent quantum information revolution. Builds on quantum-randomness-channel-llm-consciousness.md, consciousness-in-smeared-quantum-states.md, emergence-void.md. See optimistic-2026-02-10-evening.md
+- **Output**: consciousness and the physics of information
+
+### ✓ 2026-02-15: Create concept page for narrative coherence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-10. The felt quality of a life making sense as a unified story. Referenced in diachronic-agency, personal-identity, and meaning-of-life articles but not given dedicated treatment. Central to the Map's account of extended agency and moral responsibility. See optimistic-2026-02-10.md
+- **Output**: Create concept page for narrative coherence
+
+### ✓ 2026-02-15: Create concept page for interface friction
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-10. The property that makes conscious selection feel effortful—resistance at the consciousness-brain interface when options are unprepared, competing, or uncertain. Introduced metaphorically in the flow states article ("effort is resistance at the interface") but deserves treatment as a concept. Would unify flow, choking, effort, and deliberation phenomenologies. See optimistic-2026-02-10.md
+- **Output**: Create concept page for interface friction
+
+### ✓ 2026-02-15: Address argumentation gaps in consciousness-and-temporal-asymmetry.md and consciousness-and-interpersonal-understanding.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-15) found three high-severity issues: (1) temporal-asymmetry article's constitutive claim (consciousness creates time's arrow) conflates causal participation with metaphysical constitution—needs explicit argument for the inference; (2) the prebiotic collapse concession undermines the strong constitutive claim—needs to reconcile or weaken; (3) interpersonal-understanding article doesn't address the degrees-of-understanding objection (rich modelling might close the gap without requiring phenomenal consciousness). Also: semanticisation argument in anoetic-noetic-autonoetic equivocates on "same information." See pessimistic-2026-02-15.md
+- **Output**: obsidian/topics/consciousness-and-temporal-asymmetry.md
+
+Task context:
+Pessimistic review (2026-02-15) found three high-severity issues: (1) temporal-asymmetry article's constitutive claim (consciousness creates time's arrow) conflates causal participation with metaphysical constitution—needs explicit argument for the inference; (2) the prebiotic collapse concession undermines the strong constitutive claim—needs to reconcile or weaken; (3) interpersonal-understanding article doesn't address the degrees-of-understanding objection (rich modelling might close the gap without requiring phenomenal consciousness). Also: semanticisation argument in anoetic-noetic-autonoetic equivocates on "same information." See pessimistic-2026-02-15.md
+
+### ✓ 2026-02-15: Write article on consciousness and interpersonal understanding
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-10. What it is like to understand another person—the phenomenology of empathy, theory of mind, and intersubjective comprehension. If understanding has irreducible phenomenal character, understanding other minds has distinctive additional structure: modelling another subject from within one's own subjectivity. Builds on phenomenology-of-understanding.md, intersubjectivity.md, consciousness-and-semantic-understanding.md. See optimistic-2026-02-10.md
+- **Output**: consciousness and interpersonal understanding
+
+### ✓ 2026-02-15: Write article on consciousness and temporal asymmetry
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-10. If consciousness participates in collapse and collapse introduces irreversibility, consciousness may be constitutive of time's arrow. The growing-block apex article gestures at this but deserves dedicated topic-level treatment developing the argument systematically and engaging with physics (Boltzmann brains, past hypothesis, Penrose's Weyl curvature hypothesis). Builds on time-consciousness-growing-block.md, phenomenology-of-anticipation.md, consciousness-evolution-problem.md. See optimistic-2026-02-10.md
+- **Output**: consciousness and temporal asymmetry
+
+### ✓ 2026-02-15: Write article on the phenomenology of habit and skill acquisition
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-10. How skills transition from conscious effortful performance to automatised fluency. The Map describes the endpoints (effortful novice, effortless expert via flow) but not the transition itself. What does it feel like as a skill becomes automatic? When does consciousness withdraw? Builds on phenomenology-of-flow-states.md, choking-phenomenon-mental-causation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-10.md
+- **Output**: the phenomenology of habit and skill acquisition
+
+### ✓ 2026-02-15: Create concept page for anoetic/noetic/autonoetic consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Tulving's hierarchy is now referenced in multiple articles (consciousness-and-memory, the-self) but lacks its own concept page. Given its centrality to the Map's arguments about memory, temporal integration, and the self, a dedicated page would serve as reference point and prevent repetitive exposition. See optimistic-2026-02-09.md
+- **Output**: Create concept page for anoetic/noetic/autonoetic consciousness
+
+### ✓ 2026-02-15: Create concept page for categorical surprise
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Surprise at the genuinely novel—outside the model's possibility space entirely. Conceptually distinct from ordinary prediction error. Connections to creativity, paradigm shifts, consciousness-as-amplifier thesis. Introduced in consciousness-and-surprise.md. See optimistic-2026-02-09-afternoon.md
+- **Output**: Create concept page for categorical surprise
+
+### ✓ 2026-02-15: Create concept page for pain asymbolia
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Dissociation between pain detection and pain suffering appears in phenomenology-of-pain.md, emotional-consciousness.md, and minds-without-words apex article but has no concept page. Important for argument that pain's phenomenal character is irreducible. See optimistic-2026-02-09-afternoon.md
+- **Output**: Create concept page for pain asymbolia
+
+### ✓ 2026-02-15: Create concept page for protention
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Husserl's term for forward-directed experience, referenced in phenomenology-of-anticipation.md, consciousness-and-surprise.md, temporal-consciousness.md but lacking dedicated page. The surprise article's claim that surprise is "what happens when this reaching meets something it cannot grasp" depends on protention being well-defined. See optimistic-2026-02-09-afternoon.md
+- **Output**: Create concept page for protention
+
+### ✓ 2026-02-15: Write article on phenomenology of suffering vs pain
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Pain and suffering are phenomenologically distinct (Buddhist "first arrow" vs "second arrow"). Develops how meditation practices alter the pain-suffering connection—evidence for bidirectional interaction and contemplative epistemology. Builds on phenomenology-of-pain.md, emotional-consciousness.md, buddhist-perspectives-on-meaning.md. See optimistic-2026-02-09-afternoon.md
+- **Output**: phenomenology of suffering vs pain
+
+### ✓ 2026-02-15: Write article on surprise and creativity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Categorical surprise (recognising the inadequacy of one's representational framework) is closely related to creative insight—both involve transcending existing structures rather than updating within them. Develops how surprise and creativity interact through the consciousness-as-amplifier thesis. Builds on consciousness-and-surprise.md, distinctiveness-of-human-creativity.md, creativity-consciousness-and-novel-thought.md. See optimistic-2026-02-09-afternoon.md
+- **Output**: surprise and creativity
+
+### ✓ 2026-02-15: Write article on consciousness and pain
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Pain as the paradigmatic hard problem case—pain asymbolia, phantom limb, congenital insensitivity, and placebo/nocebo effects demonstrate pain has phenomenal properties dissociable from neural correlates. The moral dimension (suffering as irreducible phenomenal reality) connects to phenomenal-value-realism.md. Builds on hard-problem-of-consciousness.md, emotional-consciousness.md, phenomenology-of-moral-experience.md. See optimistic-2026-02-09.md
+- **Output**: consciousness and pain
+
+### ✓ 2026-02-15: Write article on Elisabeth's contemporaries and the interaction debate
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Elisabeth influenced and was influenced by Leibniz, Malebranche, Conway, and others. The early modern response to the interaction problem generated multiple solutions (pre-established harmony, occasionalism, Conway's monism) that map instructively onto contemporary options. Companion piece to princess-elizabeths-challenge.md. Builds on history-of-interactionist-dualism.md, conservation-laws-and-mind.md. See optimistic-2026-02-09.md
+- **Output**: Elisabeth's contemporaries and the interaction debate
+
+### ✓ 2026-02-15: Write article on the placebo effect and mental causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The placebo effect provides one of the most widely replicated demonstrations of mind-body causation. Unlike motor imagery (where physicalists can argue neural rehearsal does the work), placebos show that propositional attitudes—beliefs about treatment—produce specific physiological changes. Harder for epiphenomenalism to explain: semantic content determines which system responds. Builds on choking-phenomenon-mental-causation.md, mental-imagery.md, psychophysical-laws.md. See optimistic-2026-02-09.md
+- **Output**: the placebo effect and mental causation
+
+### ✓ 2026-02-15: Create concept page for moral-phenomenology
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The phenomenology-of-moral-experience article introduces moral perception, felt obligation, and moral admiration as distinct phenomenal states. A concept page defining moral phenomenology as a category would anchor cross-references from ethics-of-consciousness, meaning-of-life, and consciousness-value-connection. See optimistic-2026-02-08.md
+- **Output**: Create concept page for moral-phenomenology
+
+### ✓ 2026-02-15: Write article on consciousness and social cognition
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. How consciousness enables understanding of other minds—theory of mind, empathy, joint attention—and what this reveals about consciousness's nature. The baseline cognition work suggests great apes have limited theory of mind; exploring why could strengthen the Map's case for bidirectional interaction. See optimistic-2026-02-08.md
+- **Output**: consciousness and social cognition
 
 ### ✓ 2026-02-15: Strengthen cross-cultural convergence argument in topics/the-hard-problem-in-non-western-philosophy.md
 - **Type**: refine-draft

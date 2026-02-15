@@ -51,7 +51,7 @@ This is the unity the [binding problem](/concepts/binding-problem/) addresses. H
 
 Experience flows through time. When you hear a melody, successive notes unify into phrases; when you read a sentence, words accumulate into meaning. This requires more than synchronic binding at each instant—it requires connection *across* instants.
 
-[Husserl's analysis](/concepts/temporal-consciousness/) identifies retention (the immediate past echoing in awareness), primal impression (the present moment), and protention (anticipation of what's coming). These form an indivisible whole within the [specious present](/concepts/specious-present/)—roughly 100 to 750 milliseconds within which succession is experienced as unified.
+[Husserl's analysis](/concepts/temporal-consciousness/) identifies retention (the immediate past echoing in awareness), primal impression (the present moment), and protention (anticipation of what's coming). These form an indivisible whole within the [specious present](/specious-present/)—roughly 100 to 750 milliseconds within which succession is experienced as unified.
 
 At larger scales, [autonoetic consciousness](/concepts/autonoetic-consciousness/) extends diachronic unity across a lifetime, allowing mental time travel while maintaining first-person perspective throughout.
 

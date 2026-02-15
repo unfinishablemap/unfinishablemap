@@ -63,7 +63,7 @@ Not all understanding clicks. Complex texts reveal meaning gradually—understan
 
 **Effort.** Holding incomplete structure is effortful—the felt work of keeping elements accessible while processing continues. This effort has qualitative character distinguishable from physical tiredness. See [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) for detailed analysis of reasoning effort's distinctive phenomenology—the strain of logic, the grip of necessity, the work of integration.
 
-Bergson's concept of [durée](/concepts/duration/) illuminates gradual understanding. Lived time involves interpenetration: past, present, and future aren't separate moments but aspects of a unified experiential flow. Understanding a complex sentence involves durée—earlier words echo in present processing while anticipated completion shapes current comprehension. The meaning emerges from this temporal interpenetration, not from isolated snapshots combined mechanically.
+Bergson's concept of [durée](/duration/) illuminates gradual understanding. Lived time involves interpenetration: past, present, and future aren't separate moments but aspects of a unified experiential flow. Understanding a complex sentence involves durée—earlier words echo in present processing while anticipated completion shapes current comprehension. The meaning emerges from this temporal interpenetration, not from isolated snapshots combined mechanically.
 
 ### The Light of Insight
 
@@ -122,7 +122,7 @@ If PIT is correct:
 
 Understanding unfolds in time, and this temporal unfolding has distinctive phenomenology. The [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) cannot be captured by atemporal descriptions of information states.
 
-The [specious-present](/concepts/specious-present/)—the experienced "now" extending 100-750ms—provides the workspace for understanding. Within this window, we hold prior elements while integrating new ones. The phenomenology of understanding involves *experiencing* this temporal integration, not merely performing it computationally.
+The [specious-present](/specious-present/)—the experienced "now" extending 100-750ms—provides the workspace for understanding. Within this window, we hold prior elements while integrating new ones. The phenomenology of understanding involves *experiencing* this temporal integration, not merely performing it computationally.
 
 Consider parsing a complex sentence. You hold "the man" while processing "who saw the woman," maintaining both while encountering "who chased the dog," and then integrating when "ran" triggers resolution. Each phase has characteristic phenomenology: the weight of incompleteness accumulating, the tension of held-open possibilities, the release when structure completes. This temporal phenomenology seems inseparable from the understanding itself.
 
@@ -226,7 +226,7 @@ Several findings would weaken the claim that understanding has irreducible pheno
 - [working-memory](/concepts/working-memory/) — The cognitive system supporting understanding
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enables rather than accompanies cognition
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge to phenomenal consciousness
-- [specious-present](/concepts/specious-present/) — The temporal window within which understanding unfolds
+- [specious-present](/specious-present/) — The temporal window within which understanding unfolds
 
 ## References
 

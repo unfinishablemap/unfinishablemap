@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-21
-**Article**: [The Specious Present](/concepts/specious-present/)
+**Article**: [The Specious Present](/specious-present/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

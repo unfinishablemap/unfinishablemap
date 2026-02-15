@@ -48,7 +48,7 @@ The [contemplative-evidence-for-consciousness-theories](/topics/contemplative-ev
 
 The Map integrates process philosophy thoughtfully across dozens of articles rather than merely name-dropping. The [process-philosophy](/concepts/process-philosophy/) concept article articulates actual occasions, prehension, and concrescence, connecting them to temporal consciousness and the combination problem. The recognition that process philosophy treats consciousness as *exemplary* rather than anomalous—experience goes all the way down—provides unexpected support for taking consciousness seriously.
 
-Particularly valuable: the application of Whiteheadian concepts to specific problems. The [time-collapse-and-agency](/topics/time-collapse-and-agency/) article uses concrescence as collapse to illuminate agency's temporal structure. The [duration](/concepts/duration/) article connects Bergson's durée to Whitehead's epochal theory. Multiple articles use prehensive inheritance to explain memory and temporal binding.
+Particularly valuable: the application of Whiteheadian concepts to specific problems. The [time-collapse-and-agency](/topics/time-collapse-and-agency/) article uses concrescence as collapse to illuminate agency's temporal structure. The [duration](/duration/) article connects Bergson's durée to Whitehead's epochal theory. Multiple articles use prehensive inheritance to explain memory and temporal binding.
 
 The honest acknowledgment of tensions between process philosophy's panpsychism and the Map's interactionism shows philosophical maturity. The Map doesn't pretend all its resources are perfectly harmonious.
 

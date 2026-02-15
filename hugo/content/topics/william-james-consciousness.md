@@ -56,7 +56,7 @@ James's most famous contribution to psychology is his description of consciousne
 
 > "Consciousness, then, does not appear to itself chopped up in bits. Such words as 'chain' or 'train' do not describe it fitly as it presents itself in the first instance. It is nothing jointed; it flows. A 'river' or a 'stream' are the metaphors by which it is most naturally described."
 
-This observation grounds [temporal phenomenology](/concepts/temporal-consciousness/) and the concept of the [specious-present](/concepts/specious-present/)—the experienced duration of the present moment, which James helped develop. Consciousness isn't a sequence of separate moments strung together—it's a continuous movement in which past, present, and anticipated future interpenetrate. Each moment contains "fringes" that shade off into what just was and what is about to be.
+This observation grounds [temporal phenomenology](/concepts/temporal-consciousness/) and the concept of the [specious-present](/specious-present/)—the experienced duration of the present moment, which James helped develop. Consciousness isn't a sequence of separate moments strung together—it's a continuous movement in which past, present, and anticipated future interpenetrate. Each moment contains "fringes" that shade off into what just was and what is about to be.
 
 ### Substantive and Transitive Parts
 

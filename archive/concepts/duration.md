@@ -35,6 +35,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-01-31T07:36:00+00:00
+archived: true
+archived_date: 2026-02-15T04:00:00+00:00
+superseded_by: "/concepts/temporal-consciousness/"
+archive_reason: "Coalesced into Temporal Consciousness"
+original_path: "/concepts/duration/"
 ---
 
 Henri Bergson's concept of *durée* (duration) names the qualitative experience of time as consciousness lives it—fundamentally different from clock time or the spatialized time of physics. When you listen to a melody, you don't experience a succession of separate notes arranged along a timeline. You experience the melody *as a whole*, with each note permeated by the ones before and reaching toward those to come. This flowing, interpenetrating, qualitative time is durée.

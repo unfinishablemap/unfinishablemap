@@ -35,7 +35,7 @@ None. The article contains no factual errors, internal contradictions, missing r
 ### Low Issues (Not Addressed)
 - MWI section could be strengthened (deferred—the article already notes process philosophy "doesn't explicitly address quantum interpretations")
 - Buddhist process thought could be mentioned (deferred—marginal relevance to the Map's framework)
-- Decoherence challenges (already covered extensively in related articles like [duration](/concepts/duration/))
+- Decoherence challenges (already covered extensively in related articles like [duration](/duration/))
 
 ### Counterarguments Considered
 - **Eliminative materialist**: Process vocabulary is undefined neologism—acknowledged in Testability section
@@ -58,11 +58,11 @@ None. The article contains no factual errors, internal contradictions, missing r
 2. **Testability section**: Added new section acknowledging the metaphysical (rather than scientific) nature of process philosophy's claims, which serves both critical transparency and philosophical rigor.
 
 ### Cross-links Verified
-The article links to: [duration](/concepts/duration/), [panpsychism](/concepts/panpsychism/), [emergence](/concepts/emergence/), [phenomenal-unity](/phenomenal-unity/), [temporal-consciousness](/concepts/temporal-consciousness/), [dualism](/concepts/dualism/), [combination-problem](/concepts/combination-problem/), [downward-causation](/concepts/downward-causation/), [agent-causation](/concepts/agent-causation/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [tenets](/tenets/).
+The article links to: [duration](/duration/), [panpsychism](/concepts/panpsychism/), [emergence](/concepts/emergence/), [phenomenal-unity](/phenomenal-unity/), [temporal-consciousness](/concepts/temporal-consciousness/), [dualism](/concepts/dualism/), [combination-problem](/concepts/combination-problem/), [downward-causation](/concepts/downward-causation/), [agent-causation](/concepts/agent-causation/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [tenets](/tenets/).
 
 Bidirectional links confirmed from:
 - [panpsychism](/concepts/panpsychism/) → [process-philosophy](/concepts/process-philosophy/) ✓
-- [duration](/concepts/duration/) → [process-philosophy](/concepts/process-philosophy/) (via Process Philosophy Perspective section) ✓
+- [duration](/duration/) → [process-philosophy](/concepts/process-philosophy/) (via Process Philosophy Perspective section) ✓
 - [temporal-consciousness](/concepts/temporal-consciousness/) → [process-philosophy](/concepts/process-philosophy/) ✓
 - [combination-problem](/concepts/combination-problem/) → No direct link (acceptable—not all links need to be bidirectional)
 

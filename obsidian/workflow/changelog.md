@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 04:00 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/specious-present]], [[concepts/duration]]
+- **Target**: [[concepts/temporal-consciousness]]
+- **Archived**: [[archive/concepts/specious-present]], [[archive/concepts/duration]]
+- **References to review**: ~45 active content files
+
 ## 2026-02-15 03:55 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Moral Agency Under Duress

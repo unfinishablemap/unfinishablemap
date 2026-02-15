@@ -61,7 +61,7 @@ Edmund Husserl's phenomenological analysis revealed the structure underlying thi
 
 These form an inseparable unity. The note you're hearing now carries the just-passed notes in retention while already reaching toward the next. This tripartite structure makes meaning possible: you can't understand a sentence if each word evaporates before the next arrives.
 
-Henri Bergson went further with his concept of [durée](/concepts/duration/). Clock time treats moments as positions on a line—discrete, externally related, quantifiable. Lived time interpenetrates: the past permeates the present, the future is already anticipated. Bergson called this "qualitative multiplicity"—elements distinguishable yet not separable, each coloured by every other. The melody example clarifies: you don't experience notes as discrete units arranged sequentially. You hear the phrase as unified flow where each note gains meaning from what preceded and what follows.
+Henri Bergson went further with his concept of [durée](/duration/). Clock time treats moments as positions on a line—discrete, externally related, quantifiable. Lived time interpenetrates: the past permeates the present, the future is already anticipated. Bergson called this "qualitative multiplicity"—elements distinguishable yet not separable, each coloured by every other. The melody example clarifies: you don't experience notes as discrete units arranged sequentially. You hear the phrase as unified flow where each note gains meaning from what preceded and what follows.
 
 Duration cannot be measured because it cannot be divided without destroying what it is. Cut a melody into separate notes and you have frequencies, not music. This irreducibility matters. As [Kent and Wittmann argue](/time-perception-consciousness-theories/) in their 2021 analysis, major consciousness theories focus on "functional moments" of 100-300 milliseconds while experienced time extends to seconds. The gap between what theories explain and what consciousness involves may not be a temporary limitation but evidence of something that functional accounts cannot capture.
 
@@ -182,9 +182,9 @@ This synthesis draws from:
 - [Time Perception and Consciousness Theories](/time-perception-consciousness-theories/) — The gap between functional moments and experienced duration
 - [Time-Symmetric Selection Mechanism](/topics/time-symmetric-selection-mechanism/) — How atemporal selection resolves the Libet problem
 - [Temporal Consciousness](/concepts/temporal-consciousness/) — The specious present, temporal binding, and AI implications
-- [Duration (Durée)](/concepts/duration/) — Bergson's qualitative time and its irreducibility
+- [Duration (Durée)](/duration/) — Bergson's qualitative time and its irreducibility
 - [Collapse and Time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
-- [Specious Present](/concepts/specious-present/) — The experienced duration of the present moment
+- [Specious Present](/specious-present/) — The experienced duration of the present moment
 - [Philosophy of Time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the Map's growing block position
 
 ## References

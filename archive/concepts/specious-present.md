@@ -34,6 +34,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
 last_deep_review: 2026-02-04T00:10:00+00:00
+archived: true
+archived_date: 2026-02-15T04:00:00+00:00
+superseded_by: "/concepts/temporal-consciousness/"
+archive_reason: "Coalesced into Temporal Consciousness"
+original_path: "/concepts/specious-present/"
 ---
 
 The specious present is the experienced duration of the present moment—not the mathematical instant of physics but the lived interval within which succession and change appear unified. When you hear a melody, you don't experience isolated tones but phrases, progressions, resolutions. This temporal thickness of experience, ranging from roughly 100 milliseconds to 3 seconds depending on methodology, is fundamental to what consciousness is.

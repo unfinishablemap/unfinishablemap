@@ -52,7 +52,7 @@ The [binding problem](/concepts/binding-problem/) in its standard formulation co
 
 The difference is structural. Spatial binding concerns simultaneous features: redness and roundness co-present in the same experiential moment. Temporal integration concerns successive moments: the note just heard and the note now sounding held together in a single awareness. Spatial binding operates within the boundaries of a moment; temporal integration constitutes those boundaries—it determines what counts as "a moment" in the first place.
 
-This distinction maps onto the [specious-present](/concepts/specious-present/). The specious present isn't a durationless instant but a window (~100ms to 3 seconds) within which succession appears unified. Something must *make* this window—must determine that events within it belong together while events outside it are merely remembered. That something is temporal integration.
+This distinction maps onto the [specious-present](/specious-present/). The specious present isn't a durationless instant but a window (~100ms to 3 seconds) within which succession appears unified. Something must *make* this window—must determine that events within it belong together while events outside it are merely remembered. That something is temporal integration.
 
 ## Three Levels of Temporal Integration
 
@@ -149,8 +149,8 @@ Temporal integration connects to the Map's [tenets](/tenets/) through a distinct
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Comprehensive treatment of time and consciousness
 - [binding-problem](/concepts/binding-problem/) — The spatial/feature binding problem
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Temporal binding, specious present, and AI implications
-- [specious-present](/concepts/specious-present/) — The experienced duration of the present moment
-- [duration](/concepts/duration/) — Bergson's durée and qualitative lived time
+- [specious-present](/specious-present/) — The experienced duration of the present moment
+- [duration](/duration/) — Bergson's durée and qualitative lived time
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Time, collapse, and conscious agency
 - [autonoetic-consciousness](/concepts/autonoetic-consciousness/) — Mental time travel and the temporal self

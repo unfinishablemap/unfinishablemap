@@ -115,7 +115,7 @@ EFT causally influences behaviour: vividly imagining future consequences reduces
 
 EFT requires [working memory](/concepts/working-memory/) for holding, manipulating, and binding elements into coherent simulated scenarios. The [maintenance/manipulation asymmetry](/concepts/working-memory/#the-maintenancemanipulation-distinction) applies: storing an intention may be automatic, but actively simulating a future scenario requires conscious engagement. This explains why PM failures often involve retrieval rather than storage.
 
-The [specious present](/concepts/specious-present/) may constrain future simulation's temporal scope, with the "extended present" (Conway et al. 2016) reflecting what working memory can sustain with phenomenal vividness.
+The [specious present](/specious-present/) may constrain future simulation's temporal scope, with the "extended present" (Conway et al. 2016) reflecting what working memory can sustain with phenomenal vividness.
 
 ## The Illusionist Challenge
 
@@ -174,7 +174,7 @@ Prospective memory and future-oriented consciousness support all five foundation
 - [episodic-memory](/concepts/episodic-memory/) — Pastward mental time travel and the pastness quale
 - [working-memory](/concepts/working-memory/) — The cognitive workspace for future simulation
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and temporal structure
-- [specious-present](/concepts/specious-present/) — The experienced duration of "now"
+- [specious-present](/specious-present/) — The experienced duration of "now"
 - [free-will](/topics/free-will/) — How consciousness shapes action
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of intention formation
 - [motor-selection](/concepts/motor-selection/) — Willed movement and the attention-selection interface

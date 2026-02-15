@@ -56,7 +56,7 @@ Comprehensive deep review of the quantum interpretations concept page. The artic
 - [witness-consciousness](/concepts/witness-consciousness/)
 - [introspection](/concepts/introspection/)
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
-- [quantum-coherence-protection](/concepts/quantum-coherence-protection/)
+- [quantum-coherence-protection](/quantum-coherence-protection/)
 - [decoherence](/concepts/decoherence/)
 - [haecceity](/concepts/haecceity/)
 
