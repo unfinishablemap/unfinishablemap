@@ -103,13 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for protention
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Husserl's term for forward-directed experience, referenced in phenomenology-of-anticipation.md, consciousness-and-surprise.md, temporal-consciousness.md but lacking dedicated page. The surprise article's claim that surprise is "what happens when this reaching meets something it cannot grasp" depends on protention being well-defined. See optimistic-2026-02-09-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-09
-
 ### P3: Create concept page for pain asymbolia
 - **Type**: expand-topic
 - **Status**: pending
@@ -266,6 +259,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Create concept page for protention
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Husserl's term for forward-directed experience, referenced in phenomenology-of-anticipation.md, consciousness-and-surprise.md, temporal-consciousness.md but lacking dedicated page. The surprise article's claim that surprise is "what happens when this reaching meets something it cannot grasp" depends on protention being well-defined. See optimistic-2026-02-09-afternoon.md
+- **Output**: Create concept page for protention
 
 ### ✓ 2026-02-15: Write article on phenomenology of suffering vs pain
 - **Type**: expand-topic
