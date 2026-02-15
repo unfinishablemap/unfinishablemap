@@ -109,13 +109,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for phenomenal acquaintance
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-12. The direct, non-inferential relation between consciousness and its contents. Referenced across the epistemological cluster (introspection, phenomenal conservatism, contemplative epistemology) but no dedicated page. Central to the Map's epistemological foundations. See optimistic-2026-02-12.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-12
-
 ### P3: Write article on consciousness and aesthetic creation
 - **Type**: expand-topic
 - **Status**: pending
@@ -202,6 +195,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Create concept page for phenomenal acquaintance
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-12. The direct, non-inferential relation between consciousness and its contents. Referenced across the epistemological cluster (introspection, phenomenal conservatism, contemplative epistemology) but no dedicated page. Central to the Map's epistemological foundations. See optimistic-2026-02-12.md
+- **Output**: Create concept page for phenomenal acquaintance
 
 ### ✓ 2026-02-15: Write article on consciousness and the problem of induction
 - **Type**: expand-topic
