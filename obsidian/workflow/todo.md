@@ -109,13 +109,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and counterfactual reasoning
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Counterfactual thinking requires both phenomenal consciousness and the ability to inhabit non-actual scenarios. Connects the Map's epistemology to its agency framework. Builds on counterfactual-reasoning.md, consciousness-as-amplifier.md, agent-causation.md. See optimistic-2026-02-15-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
 ### P3: Write article on the phenomenology of perceptual constancy
 - **Type**: expand-topic
 - **Status**: pending
@@ -160,6 +153,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on consciousness and counterfactual reasoning
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Counterfactual thinking requires both phenomenal consciousness and the ability to inhabit non-actual scenarios. Connects the Map's epistemology to its agency framework. Builds on counterfactual-reasoning.md, consciousness-as-amplifier.md, agent-causation.md. See optimistic-2026-02-15-afternoon.md
+- **Output**: consciousness and counterfactual reasoning
 
 ### ✓ 2026-02-15: Write article on the phenomenology of trust and testimony
 - **Type**: expand-topic
