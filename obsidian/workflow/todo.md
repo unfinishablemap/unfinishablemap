@@ -103,13 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for narrative coherence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-10. The felt quality of a life making sense as a unified story. Referenced in diachronic-agency, personal-identity, and meaning-of-life articles but not given dedicated treatment. Central to the Map's account of extended agency and moral responsibility. See optimistic-2026-02-10.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-10
-
 ### P3: Write article on consciousness and the physics of information
 - **Type**: expand-topic
 - **Status**: pending
@@ -210,6 +203,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Create concept page for narrative coherence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-10. The felt quality of a life making sense as a unified story. Referenced in diachronic-agency, personal-identity, and meaning-of-life articles but not given dedicated treatment. Central to the Map's account of extended agency and moral responsibility. See optimistic-2026-02-10.md
+- **Output**: Create concept page for narrative coherence
 
 ### ✓ 2026-02-15: Create concept page for interface friction
 - **Type**: expand-topic
