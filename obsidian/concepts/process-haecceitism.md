@@ -2,9 +2,10 @@
 title: "Process Haecceitism"
 description: "Particularity without permanence: haecceity applies to experiential processes rather than enduring substances, reconciling Buddhist impermanence with indexical identity."
 created: 2026-02-10
-modified: 2026-02-10
+modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-10T03:11:00+00:00
+ai_modified: 2026-02-15T03:50:00+00:00
+last_deep_review: 2026-02-15T03:50:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -50,9 +51,9 @@ Substance views bundle these together. Process haecceitism unbundles them. Parti
 
 ## Physical Precedent
 
-Physics already relies on haecceity without permanence. Two electrons share all qualitative properties—mass, charge, spin quantum numbers—yet remain numerically distinct. They are not persisting substances but excitations of quantum fields: processes, not things. If haecceity applies to electrons without requiring substantial permanence, it can apply to conscious subjects without requiring souls.
+Physics offers a suggestive precedent. Two electrons share all qualitative properties—mass, charge, spin quantum numbers—yet remain numerically distinct. They are not persisting substances but excitations of quantum fields: processes, not things. If haecceity applies to electrons without requiring substantial permanence, it can apply to conscious subjects without requiring souls.
 
-The quantum case is especially telling because it involves entities that are genuinely indistinguishable by any qualitative measurement, yet the Pauli exclusion principle requires them to be numerically distinct. The distinctness is primitive—it cannot be reduced to qualitative differences because there are none.
+The interpretation of this precedent matters. The Pauli exclusion principle prevents two fermions from occupying the same quantum state, which some philosophers read as evidence for primitive numerical distinctness. Others argue that the formalism merely tracks state-labels, not genuine haecceity. The analogy is therefore suggestive rather than conclusive—but it demonstrates that physics can accommodate individuality without permanence, which is the narrower point process haecceitism needs.
 
 ## Whitehead's Framework
 
@@ -94,7 +95,7 @@ Process haecceitism grounds the Map's position on [[personal-identity]] without 
 
 **Teletransportation**: When a body is scanned, destroyed, and reconstructed, the experiential process is interrupted. The replica begins a new causal chain—a new process with its own haecceity. Even if qualitatively identical to the original, it is not *this* process continued. Identity is causal-historical, not pattern-based.
 
-**Fission**: If a brain splits, the original process cannot continue as two. At most one resulting process continues the original causal chain; more likely, both are new. Process haecceity cannot divide because a process's causal history is singular.
+**Fission**: If a brain splits, the original process cannot continue as two. Each resulting process begins its own causal chain from the point of divergence: neither can claim the original's singular causal history, because that history now has two continuations and the haecceitistic fact—*which one is this process?*—has no determinate answer. The original process ceases; two new ones begin.
 
 **Sleep**: Temporary cessation of conscious experience need not destroy the process if causal continuity is maintained at a level that supports resumption. The flame analogy accommodates this—a flame briefly sheltered from wind doesn't become a different flame.
 
@@ -109,6 +110,10 @@ Process haecceitism grounds the Map's position on [[personal-identity]] without 
 **"Without substance, there's nothing to bear the haecceity"**: Properties need bearers. If the process is just a series of events, what has the property of being *this* particular process?
 
 *Response*: The process itself is the bearer. This isn't circular—it parallels how events bear temporal properties. The Battle of Hastings has the property of occurring in 1066 without needing a substance that "has" the battle. Processes are ontologically respectable entities that can bear properties, including the property of being *this* process.
+
+**"Primitive thisness is inherent existence in disguise"**: Nagarjuna's Madhyamaka philosophy holds that nothing has *svabhāva* (inherent existence)—everything is empty (*śūnya*), existing only in dependence on other things. If process haecceitism posits *primitive* thisness that cannot be reduced to anything else, it appears to smuggle *svabhāva* back in under a new name.
+
+*Response*: The concern is serious but rests on equating "primitive" with "inherently existent." In Madhyamaka terms, the particularity of *this* experiential process can be *dependently arisen*—arising from its specific causal history, its relationships, its conditions—while still being irreducible to any qualitative description of those dependencies. A flame's particularity depends on its causes and conditions (wick, wax, air), yet no list of those conditions tells you *which* flame it is. Process haecceitism claims that the indexical fact is not eliminable, not that it exists independently of all conditions. This is closer to Madhyamaka's "conventional reality" than to the inherent existence it rejects.
 
 **"Meditators who lose the sense of self lose haecceity too"**: If the sense of being a particular subject is deconstructed through contemplative practice, process haecceity may be an illusion.
 
