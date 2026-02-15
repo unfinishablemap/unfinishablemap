@@ -109,13 +109,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and the authority of testimony
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. How epistemic reliance on testimony depends on attributing consciousness to speakers, and what AI-generated testimony means for this practice. Builds on phenomenal-intentionality.md, problem-of-other-minds.md. See optimistic-2026-02-15-night.md
-
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on consciousness and the authority of testimony
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. How epistemic reliance on testimony depends on attributing consciousness to speakers, and what AI-generated testimony means for this practice. Builds on phenomenal-intentionality.md, problem-of-other-minds.md. See optimistic-2026-02-15-night.md
+- **Output**: consciousness and the authority of testimony
 
 ### ✓ 2026-02-15: Write article on the paradox of effortless mastery
 - **Type**: expand-topic

@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 11:03 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Authority of Testimony
+- **Output**: [[consciousness-and-the-authority-of-testimony]]
+- **Word count**: 1786
+- **Based on research**: no
+
 ## 2026-02-15 10:53 UTC - deep-review
 - **Status**: Success
 - **File**: [[consciousness-and-the-emergence-debate]]
