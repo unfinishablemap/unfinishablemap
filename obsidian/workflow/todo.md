@@ -115,13 +115,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on cross-cultural phenomenology of agency
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-15 (evening). Buddhist non-self and Hindu atman traditions make opposing claims about the phenomenology of willing. Does the Map's account of agent causation hold cross-culturally? Builds on hard-problem-in-non-western-philosophy.md, free-will.md, agent-causation.md. See optimistic-2026-02-15-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
 ### P3: Write article on the developmental trajectory of the interface across the lifespan
 - **Type**: expand-topic
 - **Status**: pending
@@ -131,6 +124,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on cross-cultural phenomenology of agency
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15 (evening). Buddhist non-self and Hindu atman traditions make opposing claims about the phenomenology of willing. Does the Map's account of agent causation hold cross-culturally? Builds on hard-problem-in-non-western-philosophy.md, free-will.md, agent-causation.md. See optimistic-2026-02-15-evening.md
+- **Output**: cross-cultural phenomenology of agency
 
 ### ✓ 2026-02-15: Write article on consciousness and the authority of logic
 - **Type**: expand-topic
