@@ -23,7 +23,7 @@ concepts:
   - "[[haecceity]]"
   - "[[decoherence]]"
   - "[[quantum-indeterminacy-free-will]]"
-  - "[[quantum-coherence-protection]]"
+  - "[[quantum-coherence-in-neural-systems]]"
   - "[[temporal-consciousness]]"
   - "[[luck-objection]]"
   - "[[causal-interface]]"
@@ -63,7 +63,7 @@ Both patterns share the same structure: genuine openness followed by determinate
 
 The [[retrocausality|retrocausal]] dimension adds complexity. If selection operates atemporally—determining which history becomes real—the phenomenology of deciding "now" may be how atemporal selection manifests to time-bound consciousness.
 
-The [[decoherence|decoherence objection]]—that quantum coherence cannot survive in warm neural tissue—is addressed through [[quantum-coherence-protection|protection mechanisms]] that may shield relevant superpositions. More fundamentally, consciousness may operate at the point of *outcome selection* after decoherence has selected the measurement basis, biasing which eigenstate becomes actual without requiring sustained coherence.
+The [[decoherence|decoherence objection]]—that quantum coherence cannot survive in warm neural tissue—is addressed through [[quantum-coherence-in-neural-systems|protection mechanisms]] that may shield relevant superpositions. More fundamentally, consciousness may operate at the point of *outcome selection* after decoherence has selected the measurement basis, biasing which eigenstate becomes actual without requiring sustained coherence.
 
 ### Authorship: The Sense of Agency
 

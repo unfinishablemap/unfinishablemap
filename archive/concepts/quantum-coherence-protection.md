@@ -29,6 +29,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-21
 last_curated: null
 last_deep_review: 2026-02-03T15:29:00+00:00
+archived: true
+archived_date: 2026-02-15T01:37:00+00:00
+superseded_by: "/concepts/quantum-coherence-in-neural-systems/"
+archive_reason: "Coalesced into Quantum Coherence in Neural Systems"
+original_path: "/concepts/quantum-coherence-protection/"
 ---
 
 Four distinct mechanisms have been proposed for protecting quantum coherence in biological systems long enough for consciousness to operate: hydrophobic shielding in microtubule interiors, metabolic energy pumping (Fröhlich coherence), nuclear spin isolation in Posner molecules, and ordered water structures. Recent experimental evidence (2024-2025) has strengthened the case for biologically relevant quantum effects, with revised decoherence calculations extending coherence times by seven orders of magnitude beyond early estimates. The question has shifted from *whether* quantum effects can survive in warm biology to *how* they are protected.

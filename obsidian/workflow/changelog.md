@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 01:37 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[neural-quantum-coherence]], [[quantum-coherence-protection]]
+- **Target**: [[quantum-coherence-in-neural-systems]]
+- **Archived**: archive/concepts/neural-quantum-coherence.md, archive/concepts/quantum-coherence-protection.md
+- **References updated**: 7 files (the-interface-location-problem, brain-interface-boundary, decoherence, quantum-binding-and-phenomenal-unity, quantum-biology, quantum-interpretations, phenomenology-of-choice)
+- **References to review**: 0 (all active references updated; historical reviews left as-is)
+
 ## 2026-02-15 01:32 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Pain

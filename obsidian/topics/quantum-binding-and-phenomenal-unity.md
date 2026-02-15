@@ -23,7 +23,7 @@ concepts:
   - "[[phenomenology-of-choice]]"
   - "[[consciousness-as-amplifier]]"
   - "[[quantum-biology]]"
-  - "[[neural-quantum-coherence]]"
+  - "[[quantum-coherence-in-neural-systems]]"
 related_articles:
   - "[[tenets]]"
   - "[[neural-binding-quantum-entanglement-2026-01-19]]"
@@ -223,7 +223,7 @@ Classical binding approaches appear simpler—no quantum effects in warm biologi
 - [[quantum-consciousness]] — Orch OR and other quantum consciousness theories
 - [[quantum-biology]] — Established quantum effects in living systems
 - [[quantum-biology-and-the-consciousness-debate]] — Why quantum biology shifts the burden of proof
-- [[neural-quantum-coherence]] — Detailed treatment of neural coherence evidence
+- [[quantum-coherence-in-neural-systems]] — Detailed treatment of neural coherence evidence
 - [[decoherence]] — Why quantum effects might persist in biological systems
 - [[integrated-information-theory]] — IIT's alternative approach to unity
 - [[split-brain-consciousness]] — Natural experiments on when binding fails

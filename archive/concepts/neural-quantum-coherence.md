@@ -26,6 +26,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
 last_deep_review: 2026-02-05T02:09:00+00:00
+archived: true
+archived_date: 2026-02-15T01:37:00+00:00
+superseded_by: "/concepts/quantum-coherence-in-neural-systems/"
+archive_reason: "Coalesced into Quantum Coherence in Neural Systems"
+original_path: "/concepts/neural-quantum-coherence/"
 ---
 
 Can quantum superposition persist in neural tissue long enough to matter for consciousness? Recent experimental evidence (2024-2025) answers with qualified optimism: microtubule-stabilising drugs delay anaesthetic-induced unconsciousness, revised decoherence estimates extend coherence times by seven orders of magnitude beyond initial calculations, MRI studies detect entanglement signatures correlating with consciousness, and multiple protective mechanisms have been identified. The debate has shifted from "whether" to "how"—from categorical dismissal to empirical investigation. This matters for the [[binding-problem|binding problem]]: if quantum entanglement provides genuine physical holism—where the whole is irreducible to parts—it may explain how distributed neural processes combine into unified experience.
