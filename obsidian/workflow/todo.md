@@ -137,6 +137,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-15
 
+### P3: Write article on consciousness and the authority of logic
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15 (evening). A conscious reasoner *sees* that a conclusion follows; a computer merely executes valid inferences. What does "seeing" logical necessity involve phenomenologically? Builds on consciousness-and-normative-authority.md, argument-from-reason.md, phenomenology-of-understanding.md. See optimistic-2026-02-15-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
+### P3: Write article on cross-cultural phenomenology of agency
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15 (evening). Buddhist non-self and Hindu atman traditions make opposing claims about the phenomenology of willing. Does the Map's account of agent causation hold cross-culturally? Builds on hard-problem-in-non-western-philosophy.md, free-will.md, agent-causation.md. See optimistic-2026-02-15-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
+### P3: Write article on the developmental trajectory of the interface across the lifespan
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15 (evening). How does interface quality change across the lifespan? What happens in aging and neurodegeneration from a dualist interface perspective? Distinguishing interface decline from consciousness decline. Builds on childhood-development-and-the-interface.md, attention-as-interface.md, consciousness-evolution-problem.md. See optimistic-2026-02-15-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
 ## Completed Tasks
 
 
