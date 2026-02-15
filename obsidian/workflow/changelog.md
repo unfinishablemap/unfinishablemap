@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 10:19 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/cognitive-integration-and-the-self]]
+- **Word count**: 1966 → 2346 (+380)
+- **Critical issues addressed**: 4 (broken wikilinks, unverifiable quotes, specious present overstatement, missing frontmatter field)
+- **Medium issues addressed**: 6 (physicalist engagement, split-brain tension, orphan reference, Occam's Razor tenet, cross-links, Gallagher title)
+- **Enhancements made**: 6 (expanded sections, new cross-links, new references, new tenet subsection)
+- **Output**: [[reviews/deep-review-2026-02-15-cognitive-integration-and-the-self]]
+
 ## 2026-02-15 10:09 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/epistemic-advantages-of-dualism]]
