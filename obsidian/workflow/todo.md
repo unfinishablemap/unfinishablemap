@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address unfalsifiability in phenomenology-of-trust.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the trust article lacks a "What Would Challenge This View?" section and its core claim (trust requires phenomenal consciousness) is unfalsifiable as stated. Also: opening line uses "This is not X" pattern the style guide warns against; the observation that habitual trust recedes from awareness actually undermines the article's central claim and should be addressed. See pessimistic-2026-02-15-morning.md
-
 ### P2: Strengthen placebo article's engagement with physicalist content theories
 - **Type**: refine-draft
 - **Status**: pending
@@ -168,6 +163,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Address unfalsifiability in phenomenology-of-trust.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the trust article lacks a "What Would Challenge This View?" section and its core claim (trust requires phenomenal consciousness) is unfalsifiable as stated. Also: opening line uses "This is not X" pattern the style guide warns against; the observation that habitual trust recedes from awareness actually undermines the article's central claim and should be addressed. See pessimistic-2026-02-15-morning.md
+- **Output**: obsidian/topics/phenomenology-of-trust.md
+
+Task context:
+Pessimistic review found the trust article lacks a "What Would Challenge This View?" section and its core claim (trust requires phenomenal consciousness) is unfalsifiable as stated. Also: opening line uses "This is not X" pattern the style guide warns against; the observation that habitual trust recedes from awareness actually undermines the article's central claim and should be addressed. See pessimistic-2026-02-15-morning.md
 
 ### ✓ 2026-02-15: Write article on the phenomenology of trust
 - **Type**: expand-topic
