@@ -4,7 +4,7 @@ description: "Why the growing block theory of time—where past and present exis
 created: 2026-02-11
 modified: 2026-02-11
 human_modified:
-ai_modified: 2026-02-11T14:19:00+00:00
+ai_modified: 2026-02-15T14:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,12 +20,13 @@ related_articles:
   - "[[tenets]]"
   - "[[time-collapse-and-agency]]"
   - "[[temporal-structure-of-consciousness]]"
+  - "[[consciousness-and-temporal-asymmetry]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-11
 last_curated:
-last_deep_review:
+last_deep_review: 2026-02-15T14:24:00+00:00
 ---
 
 The growing block theory of time holds that past and present exist but the future does not yet. Unlike eternalism's frozen four-dimensional block where all moments are equally real, and unlike presentism's razor-thin slice of existence, the growing block accumulates reality as time passes. C.D. Broad introduced this view in 1923, and it has a distinctive virtue for The Unfinishable Map's concerns: it takes consciousness seriously as marking something ontologically significant about the present moment. The growing block is the temporal ontology most naturally aligned with the reality of conscious experience—and consciousness, in turn, may provide the growing block with exactly what it needs to answer its deepest objections.
@@ -72,7 +73,7 @@ This isn't merely a matter of phenomenological comfort. The growing block provid
 
 The growing block faces a serious challenge: if past moments exist and contain observers with experiences, how do those past observers know they aren't at the leading edge? Every past time-slice looks, from the inside, exactly like the present. A person in 1923 experienced "now" just as vividly as someone in 2026. The growing block says the 1923 person exists (as past) but isn't at the leading edge. Yet that person has no way to detect this.
 
-Peter Braddon-Mitchell (2004) pressed this into a formal objection: growing block residents cannot know they are present rather than past. Since past and present observers have identical epistemic access, the growing block makes temporal knowledge impossible. We could all be deep in the block's past, with reality having grown far beyond us.
+David Braddon-Mitchell (2004) pressed this into a formal objection: growing block residents cannot know they are present rather than past. Since past and present observers have identical epistemic access, the growing block makes temporal knowledge impossible. We could all be deep in the block's past, with reality having grown far beyond us.
 
 This is where consciousness becomes not just a beneficiary of the growing block but a potential resource for defending it. If the present is distinguished not merely by being the latest time-slice but by the occurrence of some ontologically distinctive process—like [[collapse-and-time|quantum collapse]]—then present observers have something past observers lack: active collapse, active becoming. The past is settled; the present is where settlement occurs. Consciousness, on the Map's framework, participates in this settlement. If the phenomenology of the present reflects active participation in collapse—the dynamic, forward-driving quality of experience—then present observers have epistemic access past observers don't: not because they represent themselves as present, but because they are actively constituting reality in a way that past (settled) states no longer do.
 
@@ -117,11 +118,13 @@ The growing block connects to all five of the Map's [[tenets]]:
 - [[specious-present]] — The experienced duration of the present moment
 - [[duration]] — Bergson's qualitative lived time
 - [[process-philosophy]] — Whitehead's actual occasions and concrescence
+- [[consciousness-and-temporal-asymmetry]] — Why consciousness constitutes time's felt direction
+- [[retrocausality]] — How consciousness might select outcomes atemporally at collapse
+- [[time-consciousness-growing-block]] — Apex synthesis of time and consciousness
 
 ## References
 
 - Broad, C.D. (1923). *Scientific Thought*. Kegan Paul.
-- Tooley, M. (1997). *Time, Tense, and Causation*. Clarendon Press.
 - Braddon-Mitchell, D. (2004). How do we know it is now now? *Analysis*, 64(3), 199-203.
 - Forrest, P. (2004). The real but dead past: A reply to Braddon-Mitchell. *Analysis*, 64(4), 358-362.
 - Bergson, H. (1889/2001). *Time and Free Will*. Dover.
