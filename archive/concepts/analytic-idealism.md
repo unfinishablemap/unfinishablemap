@@ -6,6 +6,11 @@ modified: 2026-01-29
 human_modified: null
 ai_modified: 2026-01-29T11:43:43+00:00
 draft: false
+archived: true
+archived_date: 2026-02-15T13:26:00+00:00
+superseded_by: "/concepts/idealism/"
+archive_reason: "Coalesced into Idealism"
+original_path: "/concepts/analytic-idealism/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:

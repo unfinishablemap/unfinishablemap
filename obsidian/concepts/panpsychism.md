@@ -14,7 +14,7 @@ concepts:
   - "[[qualia]]"
   - "[[russellian-monism]]"
   - "[[combination-problem]]"
-  - "[[analytic-idealism]]"
+  - "[[idealism]]"
   - "[[buddhism-and-dualism]]"
   - "[[mysterianism]]"
   - "[[intrinsic-nature-void]]"
@@ -137,7 +137,7 @@ The disagreement is about *how* consciousness is fundamental—as the intrinsic 
 
 ## Analytic Idealism: An Alternative to Panpsychism
 
-[[analytic-idealism|Analytic idealism]], developed by Bernardo Kastrup, offers another anti-physicalist alternative that shares panpsychism's rejection of emergence but reaches a different conclusion. Where panpsychism says every particle has micro-experience, idealism says there is one universal consciousness and individual minds (including particle-experiences) are dissociated fragments of it.
+[[idealism|Analytic idealism]], developed by Bernardo Kastrup, offers another anti-physicalist alternative that shares panpsychism's rejection of emergence but reaches a different conclusion. Where panpsychism says every particle has micro-experience, idealism says there is one universal consciousness and individual minds (including particle-experiences) are dissociated fragments of it.
 
 Idealism claims to solve the combination problem by inverting it. Rather than asking how many micro-experiences combine into unified consciousness, idealism asks how unified consciousness *divides* into separate experiences. Kastrup argues this dissociation problem is easier than the combination problem: we have an empirical model (dissociative identity disorder) for how unity becomes apparent plurality, but no model for how plurality becomes genuine unity.
 
@@ -190,7 +190,7 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 - [[russellian-monism]] — The most developed theoretical framework for panpsychism
 - [[process-philosophy]] — Whitehead's framework where experience is fundamental to actuality
 - [[idealism]] — Broader treatment of idealist positions and comparison with the Map's dualism
-- [[analytic-idealism]] — An alternative anti-physicalist view that claims to avoid the combination problem
+- [[idealism]] — An alternative anti-physicalist view that claims to avoid the combination problem
 - [[buddhism-and-dualism]] — Buddhist no-self perspectives on subjects and experience
 - [[mysterianism]] — Whether the combination problem exceeds cognitive limits
 - [[intrinsic-nature-void]] — The structural gap panpsychism proposes to fill

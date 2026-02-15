@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 13:26 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[idealism]], [[analytic-idealism]]
+- **Target**: [[idealism]]
+- **Archived**: archive/concepts/analytic-idealism.md
+- **References updated**: 5 files (materialism, philosophy-of-mind, panpsychism, hard-problem-of-consciousness, panpsychisms-combination-problem)
+- **References to review**: 0 (3 review files left as historical records)
+
 ## 2026-02-15 13:20 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Sensorimotor Contingencies and the Interface

@@ -33,7 +33,7 @@ concepts:
   - "[[combination-problem]]"
   - "[[panpsychism]]"
   - "[[emergence]]"
-  - "[[analytic-idealism]]"
+  - "[[idealism]]"
   - "[[pairing-problem]]"
   - "[[psychophysical-coupling]]"
   - "[[semantic-memory]]"
@@ -231,9 +231,9 @@ Chalmers proposes that consciousness requires new *fundamental laws*—psychophy
 
 ### Analytic Idealism
 
-[[analytic-idealism|Analytic idealism]] denies that matter is fundamental: consciousness is the sole ontological primitive, and matter is how consciousness appears to itself. This dissolves the hard problem—there's no non-experiential substrate generating experience.
+[[idealism|Analytic idealism]] denies that matter is fundamental: consciousness is the sole ontological primitive, and matter is how consciousness appears to itself. This dissolves the hard problem—there's no non-experiential substrate generating experience.
 
-But idealism trades the hard problem for another: why does "appearance" follow regular laws? If matter is just how consciousness appears, why must fire burn and gravity attract? The Map maintains physical reality exists distinctly from consciousness, making the regularity of physical law less puzzling. See [[analytic-idealism]] for detailed treatment.
+But idealism trades the hard problem for another: why does "appearance" follow regular laws? If matter is just how consciousness appears, why must fire burn and gravity attract? The Map maintains physical reality exists distinctly from consciousness, making the regularity of physical law less puzzling. See [[idealism]] for detailed treatment.
 
 ### The Combination Problem
 

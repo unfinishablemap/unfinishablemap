@@ -19,7 +19,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[emergence]]"
   - "[[qualia]]"
-  - "[[analytic-idealism]]"
+  - "[[idealism]]"
   - "[[process-philosophy]]"
 related_articles:
   - "[[tenets]]"
@@ -132,7 +132,7 @@ The Map recognises what panpsychism gets right: consciousness is fundamental, em
 - [[russellian-monism]] — The most developed framework for contemporary panpsychism
 - [[why-phenomenal-unity-resists-explanation]] — Why unity cannot be functionally explained
 - [[consciousness-and-strong-emergence]] — Emergence and its limits
-- [[analytic-idealism]] — An alternative that claims to invert the combination problem
+- [[idealism]] — An alternative that claims to invert the combination problem
 - [[process-philosophy]] — Whitehead's experiential framework
 - [[interactionist-dualism]] — The Map's alternative framework
 

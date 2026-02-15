@@ -81,7 +81,7 @@ Between strict physicalism and dualism sit several intermediate positions:
 
 - **[[russellian-monism]]** proposes that physics describes only relational structure while consciousness is the intrinsic nature of matter. It splits the difference between physicalism and dualism, though it inherits challenges from both.
 
-- **[[analytic-idealism]]** inverts physicalism entirely: consciousness is fundamental and matter is how consciousness appears from the outside. This dissolves the hard problem but must explain the regularity and apparent independence of the physical world.
+- **[[idealism|Analytic idealism]]** inverts physicalism entirely: consciousness is fundamental and matter is how consciousness appears from the outside. This dissolves the hard problem but must explain the regularity and apparent independence of the physical world.
 
 Each of these frameworks addresses real shortcomings in physicalism. None has yet achieved the explanatory success that would settle the debate.
 
