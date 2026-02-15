@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 15:32 UTC - deep-review
+- **Status**: Success
+- **File**: [[disorders-of-consciousness-as-test-cases]]
+- **Word count**: 2082 → 2270 (+188)
+- **Critical issues addressed**: 5 (COGITATE mischaracterization, incorrect CMD statistic, broken link, wrong first author, frontmatter misclassification)
+- **Medium issues addressed**: 3 (functionalism strawman, hemispherectomy strawman, CMD/dualism overstatement)
+- **Enhancements made**: 3 (stronger counterargument engagement, additional cross-links, corrected references with volume/pages)
+- **Output**: [[reviews/deep-review-2026-02-15-disorders-of-consciousness-as-test-cases]]
+
 ## 2026-02-15 15:15 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 45+ articles sampled across topics (155), concepts (180), apex (12), voids (59), tenets (1)
