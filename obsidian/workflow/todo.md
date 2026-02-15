@@ -109,13 +109,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the phenomenology of perceptual constancy
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). How we experience stable objects despite constantly varying sensory input. The gap between variable input and stable percept reveals consciousness doing constructive work that no purely computational account adequately explains. Builds on phenomenal-consciousness.md, consciousness-and-surprise.md, interface-friction.md. See optimistic-2026-02-15-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
 ### P3: Create concept page for cognitive phenomenology
 - **Type**: expand-topic
 - **Status**: pending
@@ -153,6 +146,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on the phenomenology of perceptual constancy
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). How we experience stable objects despite constantly varying sensory input. The gap between variable input and stable percept reveals consciousness doing constructive work that no purely computational account adequately explains. Builds on phenomenal-consciousness.md, consciousness-and-surprise.md, interface-friction.md. See optimistic-2026-02-15-afternoon.md
+- **Output**: the phenomenology of perceptual constancy
 
 ### ✓ 2026-02-15: Write article on consciousness and counterfactual reasoning
 - **Type**: expand-topic
