@@ -4,7 +4,7 @@ description: "How predictive processing—the brain's prediction-error-minimizin
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-15T14:45:00+00:00
+ai_modified: 2026-02-15T14:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,9 +54,11 @@ The Map's most productive integration with PP concerns precision weighting and i
 
 PP treats precision as a mathematical parameter — the inverse variance of a probability distribution. High-precision prediction errors receive more weight; low-precision ones are suppressed. This mechanism governs what reaches awareness and what remains background processing. But PP does not explain *how* precision values are set. The framework describes precision as itself predicted — the brain learns which signals to trust — but this pushes the question back without answering it: what determines the predictions about precision?
 
-The Map's answer: consciousness sets precision through quantum selection. When you deliberately attend to something — concentrating on a conversation in a noisy room, focusing on a philosophical argument, noticing a change in a familiar environment — you are adjusting precision weights. PP captures the computational description of this adjustment. The [[attention-as-interface|attention as interface]] framework proposes the mechanism: consciousness biases indeterminate quantum outcomes in neural systems, holding certain patterns through sustained attention (via the quantum Zeno mechanism described by Stapp) and thereby amplifying the precision of the corresponding prediction errors.
+Computational accounts within PP offer a response: precision is itself predicted from environmental statistics — the brain learns which signals to trust based on past reliability (Feldman & Friston, 2010). This is hierarchical prediction applied to reliability estimation. The Map acknowledges this account but finds it incomplete for a specific reason: it explains how precision *is* set computationally but not why the setting process is *experienced* — why attending to the conversation feels like something rather than being mere signal gain adjustment. The computational account works perfectly as engineering; the Map's question is whether engineering is all there is.
 
-This integration preserves everything PP gets right about cognitive architecture while providing a deeper account of the selection process that precision weighting describes but does not explain. The brain generates predictions; consciousness determines which predictions matter.
+The Map's proposed answer: consciousness influences precision through the [[attention-as-interface|attention as interface]] mechanism. When you deliberately attend — concentrating on a conversation in a noisy room, focusing on a philosophical argument, noticing a change in a familiar environment — you are adjusting precision weights. PP captures the computational description of this adjustment. One speculative proposal for how consciousness achieves this influence invokes quantum-level effects (such as the quantum Zeno mechanism described by Stapp), but the Map's argument that consciousness plays a role in precision setting does not depend on any particular physical mechanism. The core claim is that phenomenal attention is not reducible to computational precision adjustment, however the causal linkage works.
+
+This integration preserves everything PP gets right about cognitive architecture while proposing a deeper account of the selection process. The brain generates predictions; the Map argues consciousness plays a genuine role in determining which predictions matter.
 
 ## Active Inference and Bidirectional Interaction
 
@@ -64,9 +66,9 @@ PP's concept of active inference — organisms act on the world to bring sensory
 
 In active inference, the organism doesn't simply observe; it intervenes. When prediction errors are too large to resolve by updating the model, the system acts to change the world instead. You feel cold, so you put on a jacket. The prediction ("I will be warm") is enacted rather than revised.
 
-The Map treats this as a surface manifestation of a deeper truth. Consciousness doesn't just act on the external world through bodily movement; it acts on the brain itself through quantum selection. Bodily action is downstream of neural selection — the organism moves because consciousness has already selected among competing neural firing patterns. Active inference describes the behavioural output; the Map's framework describes how consciousness initiates it at the neural level.
+The Map treats this as a surface manifestation of a deeper truth. Consciousness doesn't just act on the external world through bodily movement; it acts on the brain itself by influencing which neural possibilities are realised. Bodily action is downstream of neural selection — the organism moves because consciousness has already influenced selection among competing neural firing patterns. Active inference describes the behavioural output; the Map's framework proposes how consciousness initiates it at the neural level.
 
-This inversion matters. PP treats the organism's actions as themselves predicted and optimised — just more prediction error minimisation. The Map argues that genuine agency requires something outside the predictive loop to break symmetries and select among options. Without consciousness as a genuine selector, PP reduces agency to sophisticated automation — prediction all the way down, with no one doing the predicting.
+This inversion matters. PP treats the organism's actions as themselves predicted and optimised — just more prediction error minimisation. The Map argues that genuine agency requires something outside the predictive loop to break symmetries and select among options. Compatibilist accounts of agency may dispute this — one can argue that computational selection *is* genuine agency without requiring a non-physical selector. The Map's response is that compatibilism explains agency-*talk* but not the phenomenology of deciding: the felt difference between choosing and being moved.
 
 ## What PP Gets Right
 
@@ -118,17 +120,21 @@ The Unfinishable Map sees predictive processing as a valuable ally rather than a
 - Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
 - Seth, A. K. (2021). *Being You: A New Science of Consciousness*. Dutton.
 - Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11(2), 127-138.
+- Feldman, H. & Friston, K. (2010). "Attention, uncertainty, and free-energy." *Frontiers in Human Neuroscience*, 4, 215.
 - Hohwy, J. & Seth, A. K. (2020). "Predictive processing as a systematic basis for identifying the neural correlates of consciousness." *Philosophy and the Mind Sciences*, 1(II).
 - Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 
 <!-- AI REFINEMENT LOG - 2026-02-15
-Changes made:
-- Rewrote the No Many Worlds paragraph in Relation to Site Perspective to fix a logical flaw identified by pessimistic review (pessimistic-2026-02-15-late.md, Issue 3)
-- Old version claimed MWI renders prediction error "meaningless" because "every prediction would be correct in some branch" — this is a strawman that confuses universal wavefunction with branch-local perspective
-- New version acknowledges that PP works mechanically within branches (citing Deutsch and Wallace's decision-theoretic arguments), then pivots to the phenomenological argument: the felt quality of surprise presupposes a singular experiencer, raising the indexical question that many-worlds cannot answer
-- The argument now connects properly to the Map's core objection to MWI (indexical identity) rather than making a flawed computational claim
+Changes made (first pass — MWI fix from earlier session):
+- Rewrote the No Many Worlds paragraph to fix logical flaw (Issue 3): old version claimed MWI renders prediction error "meaningless" — replaced with phenomenological argument about indexical identity that engages with Deutsch/Wallace decision-theoretic responses
 
-Key improvement: Replaced strawman argument with philosophically sound one that engages with the best MWI responses.
+Changes made (second pass — pessimistic review refinement):
+- Softened quantum selection language throughout: removed definitive "consciousness sets precision through quantum selection," replaced with speculative framing. Core argument no longer depends on any particular physical mechanism.
+- Added engagement with Feldman & Friston (2010) computational account of precision setting — Map now acknowledges the computational answer and explains why it finds it incomplete (engineering vs. phenomenology), rather than dismissing it.
+- Softened agency claim: replaced "PP reduces agency to sophisticated automation" with engagement with compatibilist responses. Map now argues for phenomenological insufficiency rather than dismissing computational agency wholesale.
+- Added Feldman & Friston (2010) to References.
+
+Based on pessimistic review (pessimistic-2026-02-15-late.md), Issues 2, 3, 5, and Counterarguments 2 and 3.
 
 This log should be removed after human review.
 -->

@@ -4,7 +4,7 @@ description: "Perception depends on lawful patterns between movement and sensati
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-15T13:20:00+00:00
+ai_modified: 2026-02-15T14:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -59,7 +59,9 @@ The most striking evidence from sensorimotor research concerns the interface's p
 
 Paul Bach-y-Rita's tactile-visual substitution system translates camera images into patterns of vibration on the skin. After training, users report experiencing the world as spatially structured — not as patterns of vibration on their back, but as objects *out there* in three-dimensional space. They duck when objects approach. They perceive depth.
 
-This is remarkable on any account. On a materialist reading, the brain's plasticity allows it to extract spatial information from any sensory channel. On the Map's interface reading, something more specific is happening: consciousness adapts to a new interface. The sensorimotor contingencies governing the tactile-visual system differ from those governing ordinary vision — different resolution, different update rates, different geometric laws. Yet consciousness achieves spatial engagement through either interface. What remains constant is not the sensory channel but the subject's engagement with a spatially structured world.
+This is remarkable on any account. On a materialist reading, the brain's plasticity allows it to extract spatial information from any sensory channel — the neural plasticity story is complete in its own terms. On the Map's interface reading, something more specific is happening: consciousness adapts to a new interface. The sensorimotor contingencies governing the tactile-visual system differ from those governing ordinary vision — different resolution, different update rates, different geometric laws. Yet consciousness achieves spatial engagement through either interface. What remains constant is not the sensory channel but the subject's engagement with a spatially structured world.
+
+A fair assessment must note that sensory substitution data is *compatible with* the interface reading, not uniquely predicted by it. The neural plasticity account and the interface account make the same empirical predictions about what subjects will experience. The Map prefers the interface reading because it answers a question the plasticity account leaves open — why reorganised neural activity is accompanied by spatial *experience* rather than just spatial *processing* — but this preference is philosophical, not empirically forced.
 
 Bach-y-Rita himself noted that subjects "do not experience the images on their back, but out in front of them." The phenomenology tracks the sensorimotor contingencies, not the receptor surface. The experience moves to where the interface points, not where the stimulation occurs. This is what the Map would predict if consciousness engages the world *through* the interface rather than being *produced by* the sensory apparatus.
 
@@ -81,7 +83,7 @@ The Map's answer: embodied engagement provides the interface structure, but cons
 
 Sensorimotor contingencies function as the interface's grammar — the structural rules governing how consciousness can engage with the physical world at any given moment.
 
-Consider an analogy. A language's grammar constrains what can be expressed and how. Different languages impose different grammatees — some require explicit marking of aspect, others of evidentiality, others of spatial relations. A fluent speaker masters these constraints without representing them explicitly. The grammar shapes expression without producing meaning.
+Consider an analogy. A language's grammar constrains what can be expressed and how. Different languages impose different grammars — some require explicit marking of aspect, others of evidentiality, others of spatial relations. A fluent speaker masters these constraints without representing them explicitly. The grammar shapes expression without producing meaning.
 
 Similarly, sensorimotor contingencies constrain how consciousness can perceive and act. The eye's apparatus-dependent contingencies impose a grammar of foveal attention — consciousness must direct gaze to achieve high-resolution engagement. The hand's haptic contingencies impose a grammar of exploratory procedures — different object properties require different movements to detect (Lederman & Klatzky, 1987). Roughness requires lateral motion; hardness requires pressure; temperature requires static contact.
 
@@ -101,11 +103,11 @@ The distinction matters because it predicts different things about the interface
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: Sensorimotor contingency theory is typically presented as anti-dualist — perception is bodily action, not the reception of sense data by an immaterial mind. The Map agrees that Cartesian substance dualism gets the phenomenology wrong. But property dualism survives: even granting that perception *is* skilled bodily engagement, the question remains why engagement is accompanied by phenomenal character. Sensorimotor mastery specifies which qualities experience has; it does not explain why there are qualities at all. The interface reading preserves what sensorimotor theory gets right — the body's constitutive role in perceptual experience — while maintaining that the subject of that experience is not exhausted by the bodily engagement.
+**[[tenets#^dualism|Dualism]]**: Sensorimotor contingency theory is typically presented as anti-dualist — perception is bodily action, not the reception of sense data by an immaterial mind. O'Regan, Noë, and the enactivist tradition explicitly reject the idea of consciousness engaging the world "through" an interface; their core claim is that consciousness *is* the engagement, not something separate that uses it as a channel. The Map disagrees with enactivism's ontological conclusion while accepting its phenomenological descriptions. The Map agrees that Cartesian substance dualism gets the phenomenology wrong. But property dualism survives: even granting that perception *is* skilled bodily engagement, the question remains why engagement is accompanied by phenomenal character. Sensorimotor mastery specifies which qualities experience has; it does not explain why there are qualities at all. The interface reading preserves what sensorimotor theory gets right — the body's constitutive role in perceptual experience — while maintaining that the subject of that experience is not exhausted by the bodily engagement.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Sensorimotor contingencies are inherently bidirectional. Perception requires action; action is guided by perception. The perceiver is not a passive recipient but an active explorer. The Map interprets this bidirectionality as reflecting the interface's fundamental character: consciousness acts on the body (directing exploration), and the body constrains consciousness (sensorimotor laws determine what exploration reveals). The interface does not transmit in one direction. It mediates ongoing mutual influence.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Sensorimotor contingency theory locates the interface at the level of whole-body engagement rather than individual neurons. This does not conflict with quantum interaction but specifies the context within which it operates. [[attention-as-interface|Attention]] selects which sensorimotor contingencies to exercise — where to look, what to explore, which contingencies to activate. If attention operates through quantum mechanisms at ion channels or microtubules, sensorimotor contingencies describe the *macro-level structure* within which quantum selection produces its effects. The interface has both a grammatical structure (sensorimotor contingencies) and a physical implementation (neural substrates where selection occurs).
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Sensorimotor contingency theory locates the interface at the level of whole-body engagement rather than individual neurons. This does not conflict with quantum interaction but specifies the context within which it operates. [[attention-as-interface|Attention]] selects which sensorimotor contingencies to exercise — where to look, what to explore, which contingencies to activate. If attention operates through some form of quantum-level influence on neural processes — a possibility that remains speculative — sensorimotor contingencies describe the *macro-level structure* within which such selection would produce its effects. The interface has both a grammatical structure (sensorimotor contingencies) and a physical implementation (neural substrates where selection occurs). The Map's core argument here does not depend on any particular physical mechanism for how consciousness influences the brain.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The apparent parsimony of sensorimotor contingency theory — it explains qualitative character without invoking anything beyond bodily engagement — dissolves when the hard problem is taken seriously. Merleau-Ponty himself rejected reductive materialism as firmly as he rejected Cartesian dualism. The phenomenological tradition that grounds sensorimotor theory treats first-person experience as irreducible data, not as an illusion to be explained away. Reducing perceptual experience to sensorimotor mastery only appears simple if one ignores the question of why mastery feels like anything.
 
@@ -128,3 +130,15 @@ The distinction matters because it predicts different things about the interface
 - Noë, A. (2009). *Out of Our Heads: Why You Are Not Your Brain*. Hill and Wang.
 - O'Regan, J. K., & Noë, A. (2001). A sensorimotor account of vision and visual consciousness. *Behavioral and Brain Sciences*, 24(5), 939-973.
 - Ramachandran, V. S., & Rogers-Ramachandran, D. (1996). Synaesthesia in phantom limbs induced with mirrors. *Proceedings of the Royal Society of London B*, 263(1369), 377-386.
+
+<!-- AI REFINEMENT LOG - 2026-02-15
+Changes made:
+- Fixed "grammatees" typo to "grammars" in The Interface's Grammar section
+- Softened quantum mechanism language: removed specific "ion channels or microtubules" reference, replaced with speculative framing per writing style guide's Subjects Requiring Restraint section. Added note that core argument doesn't depend on particular physical mechanism.
+- Added paragraph in sensory substitution section acknowledging neural plasticity explains the same data — interface reading is compatible with but not uniquely predicted by the evidence. The Map's preference is philosophical, not empirically forced.
+- Added explicit acknowledgment of tension with enactivism in Dualism tenet section: O'Regan/Noë reject the interface concept; the Map disagrees with their ontological conclusion while accepting their phenomenological descriptions.
+
+Based on pessimistic review (pessimistic-2026-02-15-late.md), Issues 2, 4, 5, and Counterargument 1.
+
+This log should be removed after human review.
+-->
