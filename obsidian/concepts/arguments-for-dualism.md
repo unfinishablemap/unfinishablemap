@@ -4,7 +4,7 @@ description: "Positive arguments for dualism span metaphysics, epistemology, and
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-06T14:07:00+00:00
+ai_modified: 2026-02-15T17:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ last_deep_review: 2026-02-06T14:07:00+00:00
 
 [[Dualism]]—the view that consciousness is not reducible to physical processes—can be defended not just by arguing against materialism but by arguing *for* something distinctive about the mental. (See [[dualism|the dualism overview]] for what dualism claims and its main varieties; this article focuses on the detailed *arguments*.) Contemporary philosophers have developed several powerful positive arguments. These converge on a single conclusion: there is something about consciousness that physical description cannot capture, and this something is irreducible.
 
-The 2020 PhilPapers survey found that 22% of professional philosophers accept or lean toward dualism on the consciousness question—second only to functionalism (33%). This is no fringe position. And the arguments sustaining it have only grown stronger as the problems with physicalism have become clearer.
+The 2020 PhilPapers survey found that 22% of professional philosophers accept or lean toward dualism on the consciousness question—second only to functionalism (33%). The arguments sustaining it have become more developed as the problems with physicalism have become clearer.
 
 ## The Conceivability Argument
 
@@ -58,6 +58,8 @@ The key notion is the [[philosophical-zombies|philosophical zombie]]—a being p
 4. Therefore, some form of dualism is true
 
 The critical move is premise 2. Why should conceivability entail possibility? Chalmers argues that for phenomenal concepts—concepts of conscious experience—there is no gap between what we can coherently conceive and what is possible. Unlike "water" (which conceivably could have been other than H2O but isn't), phenomenal concepts directly reveal their referents. What we conceive when we conceive of consciousness *is* consciousness.
+
+This defense faces a circularity charge. The claim that phenomenal concepts are epistemically transparent—that they "directly reveal their referents"—presupposes that those referents are non-physical. A physicalist (Type-B) can accept that zombies are conceivable while denying they are possible, arguing that consciousness is necessarily physical even though we cannot see why from the armchair. The conceivability-possibility link for phenomenal concepts is itself a philosophical commitment, not an established fact. This is the most serious challenge to the conceivability argument, and the Map acknowledges it as unresolved.
 
 Philosophers remain divided: the 2020 survey found 37% think zombies are "conceivable but impossible," 24% think they are possible, 16% find them inconceivable. But even skeptics must explain why consciousness *seems* separable from physics in a way that, say, temperature doesn't seem separable from molecular motion.
 
@@ -198,13 +200,17 @@ A fair assessment of dualism must engage the strongest objections. Five major ch
 
 Jaegwon Kim asks: if minds are non-spatial, what pairs *this* mind with *this* body? Physical causation relies on spatial relations (billiard ball A strikes B because they're adjacent). Without spatial location, how can a particular mind cause events in a particular brain?
 
-**Response**: the Map's interactionism locates minds spatially—in the brain regions where quantum effects occur. This isn't to reduce mind to brain but to acknowledge that the non-physical subject has spatial location while remaining ontologically distinct. Hasker's emergent dualism (see the Unity of Consciousness section) explicitly accepts this: the soul occupies the brain region.
+**Response**: the Map's interactionism locates minds spatially—in the brain regions where quantum effects occur. Hasker's emergent dualism (see the Unity of Consciousness section) explicitly accepts this: the soul occupies the brain region while remaining ontologically distinct.
+
+This response works but involves a genuine concession: granting spatial location to the non-physical subject narrows the gap between dualist and materialist ontologies. The dualist must explain what "ontologically distinct but spatially located" amounts to—why this isn't simply a physical property with unusual features. The pairing problem remains one of the harder challenges for interactionist dualism.
 
 ### Conservation Laws
 
 If consciousness influences physical outcomes, must it inject energy into the physical system, violating conservation laws?
 
-**Response**: No. At [[quantum-consciousness|quantum indeterminacies]], consciousness selects among equi-energetic outcomes physics leaves undetermined. Consciousness determines *which* possibility actualizes, not whether energy appears from nowhere.
+**Response**: At [[quantum-consciousness|quantum indeterminacies]], consciousness selects among equi-energetic outcomes physics leaves undetermined. Consciousness determines *which* possibility actualizes, not whether energy appears from nowhere.
+
+This response depends on contested physics. Whether quantum indeterminacy genuinely permits probability-biasing without violating conservation principles is debated. Some physicists argue that systematically biasing Born-rule probabilities would itself constitute a detectable deviation from quantum mechanics. The response is promising but awaits both theoretical clarification and empirical investigation of whether such biasing is physically coherent.
 
 ### The Exclusion Argument
 
@@ -220,15 +226,15 @@ William James observed that pleasures correlate precisely with survival benefits
 
 ### Summary
 
-| Objection | Response | Strength |
-|-----------|----------|----------|
-| Pairing problem | Minds spatially located in brains; interface locality provides natural pairing | Strong |
-| Conservation laws | Quantum selection without energy injection; all outcomes equi-energetic | Strong |
+| Objection | Response | Assessment |
+|-----------|----------|------------|
+| Pairing problem | Minds spatially located in brains; interface locality provides natural pairing | Partial — concedes spatial location, narrowing the dualist-materialist gap |
+| Conservation laws | Quantum selection without energy injection; all outcomes equi-energetic | Promising but contested — depends on whether probability-biasing is physically coherent |
 | Parsimony | Consciousness is evidence; materialism doesn't explain it; Occam's limits tenet | Strong |
-| Causal exclusion | Physics insufficient at indeterminacies; no sufficient cause to exclude | Strong |
-| Evolutionary argument | *Supports* interactionism against epiphenomenalism | N/A |
+| Causal exclusion | Physics insufficient at indeterminacies; no sufficient cause to exclude | Strong — if quantum indeterminacy premise holds |
+| Evolutionary argument | *Supports* interactionism against epiphenomenalism | N/A — favours interactionism |
 
-The Map's quantum framework provides principled answers that purely Cartesian dualism lacked. Notably, the evolutionary argument—often presented as an objection to dualism—actually targets only [[epiphenomenalism]] and *supports* the Map's interactionist position.
+The Map's quantum framework provides principled answers that purely Cartesian dualism lacked. The parsimony and causal exclusion responses are the strongest; the pairing problem and conservation law responses, while promising, require further philosophical and empirical development. Notably, the evolutionary argument—often presented as an objection to dualism—actually targets only [[epiphenomenalism]] and *supports* the Map's interactionist position.
 
 ## Process Philosophy Perspective
 
@@ -306,3 +312,18 @@ The Map does not commit to substance over property dualism. Both support irreduc
 - Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 - Zanotti, G. (2021). Physicalism and the burden of parsimony. *Synthese*, 199, 11109-11132.
+
+<!-- AI REFINEMENT LOG - 2026-02-15
+Changes made:
+- Differentiated summary table ratings: replaced uniform "Strong" with "Partial," "Promising but contested," and "Strong — if quantum indeterminacy premise holds" where appropriate
+- Expanded Pairing Problem response to acknowledge that granting spatial location narrows the dualist-materialist gap
+- Expanded Conservation Laws response to acknowledge dependence on contested physics (Born-rule probability biasing)
+- Added paragraph after summary table noting which responses are strongest and which need development
+- Added circularity acknowledgment to conceivability argument: Type-B physicalism challenge and transparency presupposition
+- Removed defensive "This is no fringe position" and softened "only grown stronger" to "become more developed"
+
+Based on pessimistic-2026-02-15-night.md Issue 1 (systematic overclaiming) and Issue 5 (conceivability circularity).
+Key improvements: intellectual honesty through differentiated self-assessment of response quality.
+
+This log should be removed after human review.
+-->
