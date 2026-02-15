@@ -18,6 +18,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 00:44 UTC - refine-draft
+- **Status**: Success
+- **File**: [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)
+- **Changes**: Fixed selection bias in convergence argument (engaged seriously with Chinese counter-example); removed unattributed quotation; weakened Sāṃkhya-quantum analogy; toned down overclaiming language; expanded challenges section
+- **Published**: yes
+
 ## 2026-02-14 17:59 UTC - refine-draft
 - **Status**: Success
 - **File**: [atemporal-causation](/concepts/atemporal-causation/)
