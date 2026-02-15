@@ -4,7 +4,7 @@ description: "The view that phenomenal experiences carry intrinsic normative for
 created: 2026-02-11
 modified: 2026-02-11
 human_modified:
-ai_modified: 2026-02-11T09:19:00+00:00
+ai_modified: 2026-02-15T13:45:00+00:00
 draft: false
 topics: []
 concepts:
@@ -13,11 +13,16 @@ concepts:
   - "[[emotional-consciousness]]"
   - "[[introspection]]"
   - "[[illusionism]]"
+  - "[[hard-problem]]"
+  - "[[moral-realism]]"
+  - "[[causal-powers]]"
 related_articles:
   - "[[consciousness-value-connection]]"
   - "[[meaning-of-life]]"
   - "[[ethics-of-consciousness]]"
+  - "[[philosophical-zombies]]"
 ai_contribution: 100
+last_deep_review: 2026-02-15T13:45:00+00:00
 author:
 ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-02-11
@@ -80,6 +85,8 @@ This differs from other evaluative questions. "Is *this* act wrong?" admits genu
 
 Advanced meditators can attend to valence while suspending evaluative judgment about whether they should pursue or avoid states. They report that valence persists even when meta-attitudes are suspended. This supports that normativity is in the experience, not in reactions to experience.
 
+The evidence is not univocal. Buddhist philosophy treats vedanā as conditioned through dependent origination—arising from contact, not intrinsic to consciousness itself. Some contemplative traditions interpret advanced practice as revealing valence's constructed nature rather than its irreducibility. The phenomenal normativity theorist can respond that conditioned arising describes valence's *causal history* without undermining its *intrinsic character*—just as pain's evolutionary origins don't make its badness less real.
+
 ## Challenges and Objections
 
 ### The Illusionist Challenge
@@ -88,13 +95,13 @@ Advanced meditators can attend to valence while suspending evaluative judgment a
 
 **Response**: Illusionism faces the regress problem. Something must *seem* a certain way for the illusion to occur. If the seeming itself has no phenomenal character, there's no one to be deceived. If it does have phenomenal character, that character includes the normative seeming—which is what phenomenal normativity claims.
 
-The badness of suffering is directly present in suffering itself, not mediated by introspective judgment. Illusionists can question whether pain has all properties we attribute (e.g., irreducibility, privacy), but the bare negative state—that pain feels bad—is harder to dismiss.
+The badness of suffering is directly present in suffering itself, not mediated by introspective judgment. Illusionists can question whether pain has all properties we attribute (e.g., irreducibility, privacy), but valence is harder to dismiss than other phenomenal properties because it constitutes what needs explaining. Illusionism about colour can point to physical wavelengths as the underlying reality—but illusionism about valence must explain what suffering *really is* without the badness, and this explanatory demand has no obvious answer.
 
 ### The Projection Objection
 
 Perhaps normativity is projected onto phenomenal states rather than constitutive of them. Evolution selected for treating pain as bad, creating the illusion that badness is intrinsic.
 
-**Response**: Projection theories face the [[explanatory-gap]]. Why does pain's phenomenal character make it suitable for negative projection while pleasure receives positive projection? The projection must track some feature of the experience. If that feature is valence, the question becomes: what *is* valence, stripped of normativity? The phenomenal normativity theorist argues there's no residue—valence just is phenomenal normativity.
+**Response**: Projection theories must identify what the projection latches onto. If evolution causes us to *treat* pain as bad, there must be some feature of pain that makes it apt for negative treatment while pleasure receives positive treatment. The projection theorist can appeal to functional role—pain motivates avoidance. But this merely relocates the question: why does *this* functional state have *this* phenomenal character (aversive) rather than some other? The [[explanatory-gap]] reappears. The phenomenal normativity theorist argues that no non-normative description of valence captures what we're acquainted with—valence just is phenomenal normativity, and projection theories tacitly rely on the very feature they claim to explain away.
 
 ### The Cultural Variation Objection
 
@@ -104,11 +111,17 @@ Some meditative traditions aim to cultivate equanimity toward pain—suggesting 
 
 Buddhist philosophy's claim that suffering stems from craving—not pain itself—is compatible with phenomenal normativity. The craving is a response to pain's intrinsic badness. What contemplative practice reveals is that you can be aware of that badness without the meta-level identification that creates suffering.
 
+### The Genealogical Debunking Challenge
+
+If evolution fully explains why we believe pain is bad—organisms that avoided tissue damage survived—then parsimony may favour the deflationary explanation. We don't need pain to *actually be* bad to explain our conviction that it is.
+
+**Response**: Genealogical debunking arguments prove too much. Evolution also explains why we believe fire is hot and cliffs are dangerous, but we don't conclude fire isn't really hot. The evolutionary explanation accounts for why we *track* pain's badness, not for why badness is there to be tracked. Moreover, the phenomenological argument is not an inference from belief to reality—it's direct acquaintance with a property. Debunking works against inferred beliefs, not against properties encountered in experience.
+
 ## Relation to Dualism
 
 The Map's [[tenets#^dualism|dualism]] gives phenomenal normativity distinctive force. If consciousness is irreducible to physical processes, and normativity is built into consciousness, then normativity is equally irreducible.
 
-On materialist accounts, normativity must be either eliminated (error theory), reduced to natural properties (evolutionary fitness, preference satisfaction), or treated as non-natural (Moorean non-naturalism requiring mysterious supervenience). Phenomenal normativity on a dualist foundation faces none of these pressures: normativity exists in the non-physical domain of consciousness.
+On materialist accounts, normativity must be either eliminated (error theory), reduced to natural properties (evolutionary fitness, preference satisfaction), or treated as non-natural (Moorean non-naturalism requiring mysterious supervenience). Phenomenal normativity on a dualist foundation faces none of these pressures: normativity exists in the non-physical domain of consciousness, and conscious states possess genuine [[causal-powers]] through the Map's bidirectional interaction framework.
 
 This doesn't prove phenomenal normativity—materialists can still be phenomenal normativity theorists by holding that normative phenomenal properties are natural properties. But it removes one class of objections: the worry that normativity is "queer" (Mackie) because it doesn't fit the natural order. If consciousness doesn't fit the natural order, normative consciousness is no queerer.
 
@@ -124,11 +137,11 @@ If phenomenal normativity is correct, several metaethical positions face pressur
 
 **Constructivism** (value is constructed through reason or social practice) must deny that pain was bad before humans developed moral frameworks.
 
-Each faces the challenge: explain how "pain is bad" could be false, non-factual, or constructed when badness appears constitutive of pain's phenomenal character.
+Each faces the challenge: explain how "pain is bad" could be false, non-factual, or constructed when badness appears constitutive of pain's phenomenal character. If phenomenal normativity is correct, it provides one of the strongest foundations for [[moral-realism]]—at minimum, hedonic value facts are directly accessible rather than constructed or projected.
 
 ### For AI Alignment
 
-If value is grounded in phenomenal normativity, current AI systems (lacking [[ai-consciousness|phenomenal consciousness]]) lack the ground of value. This supports the [[experiential-alignment]] thesis: AI alignment should target the quality of conscious experience, not preference satisfaction.
+If value is grounded in phenomenal normativity, current AI systems (lacking [[ai-consciousness|phenomenal consciousness]]) lack the ground of value—they are functionally sophisticated but normatively vacant, like [[philosophical-zombies]] with respect to value. This supports the [[experiential-alignment]] thesis: AI alignment should target the quality of conscious experience, not preference satisfaction.
 
 The [[purpose-and-alignment]] article argues that preferences are "unreliable guides to our own good" because evolution shaped preferences for survival, not flourishing. Phenomenal normativity provides the alternative foundation: what matters is experiential quality—the features of consciousness that carry intrinsic normative weight.
 
@@ -142,7 +155,7 @@ This grounds animal ethics: if animals have phenomenal consciousness with hedoni
 
 Phenomenal normativity connects to each of the Map's five tenets:
 
-**[[tenets#^dualism|Dualism]]**: If consciousness is irreducible and normativity is built into consciousness, normativity is equally irreducible. The [[explanatory-gap]] between physical description and phenomenal quality extends to the gap between physical description and normative properties.
+**[[tenets#^dualism|Dualism]]**: If consciousness is irreducible and normativity is built into consciousness, normativity is equally irreducible. The [[explanatory-gap]] between physical description and phenomenal quality—the core of the [[hard-problem]]—extends to the gap between physical description and normative properties.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness can bias quantum outcomes and consciousness carries normative force, value-laden choices can influence physical outcomes. Moral agency becomes metaphysically robust, not epiphenomenal.
 
@@ -175,6 +188,10 @@ Phenomenal normativity would face pressure if:
 - [[experiential-alignment]] — Operationalizing phenomenal normativity for AI alignment
 - [[introspection]] — First-person access to phenomenal states
 - [[witness-consciousness]] — Contemplative access to valence
+- [[hard-problem]] — The explanatory gap's normative dimension
+- [[moral-realism]] — Phenomenal normativity as foundation for moral realism
+- [[causal-powers]] — How normative consciousness exercises causal influence
+- [[philosophical-zombies]] — Why normativity requires phenomenal consciousness, not function
 - [[illusionism]] — The challenge that phenomenal consciousness is illusory
 - [[knowledge-argument]] — Phenomenal knowledge exceeds physical description
 - [[explanatory-gap]] — The gap between physical description and phenomenal quality
@@ -186,4 +203,3 @@ Phenomenal normativity would face pressure if:
 - Hume, D. (1739/1978). *A Treatise of Human Nature*. Oxford University Press.
 - Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
 - Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*. Penguin.
-- Nozick, R. (1974). *Anarchy, State, and Utopia*. Basic Books.
