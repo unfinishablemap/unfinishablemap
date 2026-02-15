@@ -38,9 +38,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced memory articles (autonoetic-consciousness, constructive-memory)
+### P2: Update references to coalesced dopamine-selection-interface
 - **Type**: other
-- **Notes**: Coalesce (2026-02-15) merged `autonoetic-consciousness.md` and `constructive-memory.md` into the expanded `episodic-memory.md`. ~33 active content files reference `[autonoetic-consciousness](/autonoetic-consciousness/)` across concepts/, topics/, and voids/. `[constructive-memory](/constructive-memory/)` had no external references. Archive pages serve the old URLs, but wikilinks in active content should eventually be updated to point to episodic-memory where appropriate.
+- **Notes**: Coalesce (2026-02-15) merged `dopamine-selection-interface.md` into the expanded `motor-selection.md`. 5 active content files reference `[dopamine-selection-interface](/dopamine-selection-interface/)`: attention-as-interface.md, attention-as-selection-interface.md, attention-disorders-and-quantum-interface.md, dopamine-and-the-unified-interface.md, childhood-development-and-the-interface.md. Archive page serves the URL, but wikilinks in active content should eventually be updated to point to motor-selection where appropriate.
 - **Source**: coalesce
 - **Generated**: 2026-02-15
 
@@ -98,11 +98,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P3: Write article on emotion as evidence for dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. A dedicated synthesis of how emotional consciousness—valence, mood, affective tone—resists functionalist explanation. The felt badness of pain and goodness of joy are among the strongest intuitive supports for irreducibility. Builds on emotional-consciousness.md, phenomenology-of-moral-experience.md, phenomenal-value-realism.md. See optimistic-2026-02-15-morning.md
-
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -123,6 +118,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on consciousness and the authority of testimony
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. How epistemic reliance on testimony depends on attributing consciousness to speakers, and what AI-generated testimony means for this practice. Builds on phenomenal-intentionality.md, problem-of-other-minds.md. See optimistic-2026-02-15-night.md
+- **Output**: consciousness and the authority of testimony
+
+### ✓ 2026-02-15: Write article on the paradox of effortless mastery
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The spectrum from novice effort → expert flow → choking disruption reveals different modes of consciousness's causal contribution. Builds on choking-phenomenon-mental-causation.md, phenomenology-of-agency-vs-passivity.md. See optimistic-2026-02-15-night.md
+- **Output**: the paradox of effortless mastery
+
+### ✓ 2026-02-15: Write article on the phenomenology of temporal attention
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. How attention operates across temporal scales—micro (returning attention), meso (sustained focus), macro (life projects). Builds on phenomenology-of-returning-attention.md, temporal-consciousness.md, structure-of-attention.md. See optimistic-2026-02-15-night.md
+- **Output**: the phenomenology of temporal attention
+
+### ✓ 2026-02-15: Address asymmetric cost argument and contemplative evidence gaps in epistemic-advantages-of-dualism
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) the asymmetric cost argument has Pascal's Wager structure and understates costs of dualist error; (2) Buddhist contemplative evidence is appropriated while ignoring Buddhist anti-dualist conclusions. See pessimistic-2026-02-15-midday.md
+- **Output**: Task context:
+Pessimistic review found two high-severity issues: (1) the asymmetric cost argument has Pascal's Wager structure and understates costs of dualist error; (2) Buddhist contemplative evidence is appropriated while ignoring Buddhist anti-dualist conclusions. See pessimistic-2026-02-15-midday.md
+
+### ✓ 2026-02-15: Write article on emotion as evidence for dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. A dedicated synthesis of how emotional consciousness—valence, mood, affective tone—resists functionalist explanation. The felt badness of pain and goodness of joy are among the strongest intuitive supports for irreducibility. Builds on emotional-consciousness.md, phenomenology-of-moral-experience.md, phenomenal-value-realism.md. See optimistic-2026-02-15-morning.md
+- **Output**: emotion as evidence for dualism
 
 ### ✓ 2026-02-15: Create concept page for phenomenal intentionality
 - **Type**: expand-topic

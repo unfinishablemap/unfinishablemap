@@ -63,7 +63,7 @@ The asymmetry is not absolute. Adult neuroplasticity exists, and contemplative p
 
 The Map's interface model posits a bandwidth constraint of roughly 10 bits per second — consciousness selects coarse-grained policies rather than individual neural events. This constraint likely develops alongside the interface itself.
 
-Infant attention is driven largely by salience and novelty. The [dopamine system](/concepts/dopamine-selection-interface/) that tags events for attentional priority is immature, producing an interface that responds to stimuli rather than directing them. As frontoparietal networks mature through childhood, the bandwidth available for deliberate selection grows. The child gains increasing capacity to override salience-driven attention with goal-directed focus.
+Infant attention is driven largely by salience and novelty. The [dopamine system](/dopamine-selection-interface/) that tags events for attentional priority is immature, producing an interface that responds to stimuli rather than directing them. As frontoparietal networks mature through childhood, the bandwidth available for deliberate selection grows. The child gains increasing capacity to override salience-driven attention with goal-directed focus.
 
 This developmental trajectory maps onto the progression from reactive to deliberate consciousness. An infant is conscious but largely at the mercy of the interface's salience tagging. A child gradually gains the capacity to select *against* salience — to attend to the boring but important, to inhibit the distracting but irrelevant. This capacity, which reaches reasonable maturity only in the mid-twenties when prefrontal cortex myelination completes, represents the interface achieving its adult configuration.
 

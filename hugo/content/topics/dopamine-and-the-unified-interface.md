@@ -207,7 +207,7 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 ## Further Reading
 
 - [attention-motor-quantum-interface](/attention-motor-quantum-interface/) — The broader framework for the unified interface
-- [dopamine-selection-interface](/concepts/dopamine-selection-interface/) — Technical details on dopamine's role in selection
+- [dopamine-selection-interface](/dopamine-selection-interface/) — Technical details on dopamine's role in selection
 - [motor-selection](/concepts/motor-selection/) — Motor selection mechanisms
 - [voluntary-attention](/voluntary-attention/) — The neural basis of willed attention
 - [free-will](/topics/free-will/) — The broader philosophical question

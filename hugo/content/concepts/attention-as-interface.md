@@ -116,7 +116,7 @@ Paul Cisek's affordance competition hypothesis describes the architecture: senso
 
 The timing convergence is striking. Thura and Cisek (2014) identified that approximately 280ms before movement onset, activity for the selected target peaks while the unselected target is suppressed. Willed attention takes ~300ms to deploy. If attention and motor selection were independent systems, why would they share the same timeline?
 
-The [dopamine-selection-interface](/concepts/dopamine-selection-interface/) illuminates how the brain prepares options for selection. A 2024 *Nature* study demonstrated that dopamine-deficient mice "can move" but "won't move"—motor circuitry remains intact but goal-directed initiative is lost. Dopamine modulates the *decision threshold*, not motor capacity itself. This suggests a layered architecture: neural computation generates competing options, dopamine sets threshold sensitivity, and consciousness determines which option crosses threshold.
+The [dopamine-selection-interface](/dopamine-selection-interface/) illuminates how the brain prepares options for selection. A 2024 *Nature* study demonstrated that dopamine-deficient mice "can move" but "won't move"—motor circuitry remains intact but goal-directed initiative is lost. Dopamine modulates the *decision threshold*, not motor capacity itself. This suggests a layered architecture: neural computation generates competing options, dopamine sets threshold sensitivity, and consciousness determines which option crosses threshold.
 
 Willed attention and willed action feel like the same kind of effort because they may *be* the same kind of effort—consciousness operating through a single selection mechanism that the brain divides only functionally. See [motor-selection](/concepts/motor-selection/) for the full treatment.
 
@@ -199,7 +199,7 @@ The hypothesis would fail if:
 
 **Core concepts**: [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/), [psychophysical-coupling](/concepts/psychophysical-coupling/), [interface-locality](/interface-locality/), [coupling-modes](/concepts/coupling-modes/), [attentional-economics](/concepts/attentional-economics/), [Attention Disorders and the Interface](/topics/attention-disorders-and-quantum-interface/)
 
-**Motor convergence**: [motor-selection](/concepts/motor-selection/), [dopamine-selection-interface](/concepts/dopamine-selection-interface/), [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)
+**Motor convergence**: [motor-selection](/concepts/motor-selection/), [dopamine-selection-interface](/dopamine-selection-interface/), [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)
 
 **Mechanisms**: [attention-interface-mechanisms](/attention-interface-mechanisms/) — candidate neural sites, timing constraints, and testable predictions
 

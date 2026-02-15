@@ -26,6 +26,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-26
 last_curated: null
 last_deep_review: 2026-01-26T12:27:42+00:00
+archived: true
+archived_date: 2026-02-15T11:08:00+00:00
+superseded_by: "/concepts/motor-selection/"
+archive_reason: "Coalesced into Motor Selection and the Attention-Motor Interface"
+original_path: "/concepts/dopamine-selection-interface/"
 ---
 
 Dopamine doesn't cause movement—it marks what's worth moving toward. A landmark 2024 *Nature* study reveals that dopamine-deficient mice "can move" but "won't move": their motor circuitry remains intact while goal-directed initiative vanishes. This dissociation illuminates dopamine's role in the [[attention-motor-quantum-interface|quantum selection interface]]: dopamine sets the threshold and marks salience, while consciousness determines which salient option crosses threshold first.

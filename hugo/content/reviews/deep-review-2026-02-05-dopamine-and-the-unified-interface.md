@@ -78,7 +78,7 @@ Six sympathetic personas (Property Dualist, Quantum Mind Theorist, Phenomenologi
 
 ### Cross-links Added
 
-No new cross-links added; existing links to [attention-motor-quantum-interface](/attention-motor-quantum-interface/), [dopamine-selection-interface](/concepts/dopamine-selection-interface/), [motor-selection](/concepts/motor-selection/), [voluntary-attention](/voluntary-attention/), [free-will](/topics/free-will/), [mental-effort](/concepts/mental-effort/), [quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), and tenets are comprehensive.
+No new cross-links added; existing links to [attention-motor-quantum-interface](/attention-motor-quantum-interface/), [dopamine-selection-interface](/dopamine-selection-interface/), [motor-selection](/concepts/motor-selection/), [voluntary-attention](/voluntary-attention/), [free-will](/topics/free-will/), [mental-effort](/concepts/mental-effort/), [quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), and tenets are comprehensive.
 
 ## Word Count
 

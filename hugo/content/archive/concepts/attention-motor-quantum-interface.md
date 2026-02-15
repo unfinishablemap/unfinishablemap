@@ -83,7 +83,7 @@ This timing match supports unified mechanism. If attention and motor selection w
 
 ### Dopamine and Threshold Modulation
 
-The [dopamine-selection-interface](/concepts/dopamine-selection-interface/) illuminates how the brain prepares options for selection. A 2024 *Nature* study demonstrated that dopamine-deficient mice "can move" but "won't move"—motor circuitry remains intact but goal-directed initiative is lost. Dopamine modulates the *decision threshold* at which competing options resolve, not motor capacity itself.
+The [dopamine-selection-interface](/dopamine-selection-interface/) illuminates how the brain prepares options for selection. A 2024 *Nature* study demonstrated that dopamine-deficient mice "can move" but "won't move"—motor circuitry remains intact but goal-directed initiative is lost. Dopamine modulates the *decision threshold* at which competing options resolve, not motor capacity itself.
 
 This suggests a three-layer architecture:
 
@@ -154,7 +154,7 @@ This framework identifies *where* consciousness might influence brain states—a
 - [voluntary-attention](/voluntary-attention/) — Neural signatures of willed attention
 - [attention-as-interface](/concepts/attention-as-interface/) — The attention interface hypothesis
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism
-- [dopamine-selection-interface](/concepts/dopamine-selection-interface/) — Dopamine's role in threshold modulation
+- [dopamine-selection-interface](/dopamine-selection-interface/) — Dopamine's role in threshold modulation
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Comprehensive treatment of dopamine's preparatory role in conscious selection
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Decoherence and timing considerations
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of agents as causes

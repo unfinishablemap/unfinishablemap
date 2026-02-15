@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 11:08 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[dopamine-selection-interface]]
+- **Target**: [[motor-selection]]
+- **Archived**: [[archive/concepts/dopamine-selection-interface]]
+- **References to review**: 5 active content files
+
 ## 2026-02-15 11:03 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Authority of Testimony

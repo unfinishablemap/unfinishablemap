@@ -74,7 +74,7 @@ All strengths from previous reviews intact:
 
 Verified 6 inbound links exist:
 1. [attention-motor-quantum-interface](/attention-motor-quantum-interface/)
-2. [dopamine-selection-interface](/concepts/dopamine-selection-interface/)
+2. [dopamine-selection-interface](/dopamine-selection-interface/)
 3. [motor-selection](/concepts/motor-selection/)
 4. [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/)
 5. [voluntary-attention](/voluntary-attention/)

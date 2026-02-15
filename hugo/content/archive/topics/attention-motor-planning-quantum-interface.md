@@ -150,7 +150,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 - [attention-interface-mechanisms](/attention-interface-mechanisms/) — Candidate sites, timing constraints, and predictions
 - [attention-as-interface](/concepts/attention-as-interface/) — The attention-as-interface hypothesis
 - [structure-of-attention](/topics/structure-of-attention/) — Broader framework for understanding attention
-- [dopamine-selection-interface](/concepts/dopamine-selection-interface/) — Dopamine's role in threshold modulation
+- [dopamine-selection-interface](/dopamine-selection-interface/) — Dopamine's role in threshold modulation
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine's dual role in attention and motor planning
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism
 - [voluntary-attention](/voluntary-attention/) — Neural signatures of willed attention

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-26
-**Article**: [Dopamine and the Selection Interface](/concepts/dopamine-selection-interface/)
+**Article**: [Dopamine and the Selection Interface](/dopamine-selection-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

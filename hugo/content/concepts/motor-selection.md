@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-02-05 03:24:00+00:00
+ai_modified: 2026-02-15 11:08:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
 - /concepts/motor-selection/
 - /concepts/attention-motor-quantum-interface/
+- /concepts/dopamine-selection-interface/
 concepts:
 - '[[stapp-quantum-mind]]'
 - '[[quantum-consciousness]]'
@@ -19,14 +20,14 @@ concepts:
 - '[[libet-experiments]]'
 - '[[quantum-neural-timing-constraints]]'
 - '[[quantum-decoherence-objection]]'
-- '[[dopamine-selection-interface]]'
 - '[[consciousness-as-amplifier]]'
 - '[[illusionism]]'
+- '[[downward-causation]]'
 created: 2026-01-18
-date: &id001 2026-01-29
-description: Motor control and attention share neural substrates, suggesting a unified
-  selection mechanism where consciousness chooses among competing actions through
-  quantum Zeno stabilization.
+date: &id001 2026-02-15
+description: Motor control and attention share neural substrates. Dopamine marks salience
+  and sets thresholds; consciousness selects among competing actions through quantum
+  Zeno stabilization.
 draft: false
 human_modified: null
 last_curated: null
@@ -96,14 +97,44 @@ Thura and Cisek (2014) identified that approximately 280ms before movement onset
 
 The basal ganglia implement a brake-release model: tonic inhibition of motor programs (brake on), with D1-receptor striatal neurons releasing the brake on selected actions and D2-receptor neurons maintaining inhibition on competitors. The cortex generates ensembles of possible actions; the striatum selects—precisely the architecture the Map's framework requires: generation of options followed by selection among them.
 
-### Dopamine and the Selection Threshold
+## Dopamine and the Selection Interface
 
-The [dopamine-selection-interface](/concepts/dopamine-selection-interface/) provides detailed analysis. The key finding: dopamine-deficient mice "can move" but "won't move"—motor circuitry remains intact but goal-directed initiative is lost. Dopamine modulates the **decision threshold** at which competing motor programs resolve, not the motor capacity itself.
+### The "Can Move / Won't Move" Distinction
 
-The three-layer model:
-1. **Neural computation** generates competing motor options (unaffected by dopamine loss)
-2. **Dopamine** sets the threshold for selection and marks options as salient
-3. **Consciousness** (via quantum selection) determines which salient option crosses threshold first
+Dopamine doesn't cause movement—it marks what's worth moving toward. Palmiter's dopamine-deficient mice demonstrate a clean dissociation: without dopamine, motor neurons fire normally, reflexes work, and mice can be made to run on a treadmill with external stimulation. Motor *capacity* is preserved. What's missing is spontaneous movement, goal-directed behaviour, the initiative to engage the intact motor system.
+
+This pattern recurs in Parkinson's disease. Akinesia and bradykinesia are cardinal symptoms, yet patients can perform rapid movements when externally triggered—caught off guard, they may catch a ball with normal reflexes. The motor system works; something upstream in selection is compromised. Parkinson's "freezing of gait" sharpens the point: patients stop mid-stride, unable to continue, yet can step over a visual obstacle or follow a rhythmic cue. External cues bypass the impaired selection mechanism.
+
+The capacity/initiation dissociation maps onto a three-layer model:
+1. **Neural computation** generates competing motor options (intact without dopamine)
+2. **Dopamine** marks options as worth pursuing and modulates the selection threshold
+3. **Consciousness** (via quantum selection) determines which marked option actualizes
+
+If dopamine caused movement directly, dopamine-deficient animals couldn't move at all. If consciousness alone initiated movement, dopamine loss wouldn't affect initiative. The actual pattern—preserved capacity, lost initiative—places dopamine between option-generation and conscious selection.
+
+### Wanting vs. Liking
+
+Kent Berridge and Terry Robinson's research distinguishes two components of reward: *wanting* (incentive salience, mediated by mesolimbic dopamine) and *liking* (consummatory pleasure, mediated by opioid hedonic hotspots). Dopamine mediates the "pull" toward valued options, not the pleasure of attaining them.
+
+Parkinson's patients with extensive dopamine depletion show the dissociation clearly: normal hedonic ratings for sweet tastes (liking intact) but reduced motivation to pursue rewards (wanting impaired). Conversely, dopamine-replacement therapy occasionally produces pathological wanting—compulsive gambling, shopping, or sexual behaviour—excessive pursuit without proportionate enjoyment.
+
+This clarifies dopamine's role in selection: it tags options as **worth considering**, gives them motivational pull. It doesn't determine whether consideration succeeds. Consciousness chooses among options that dopamine has marked as mattering—satisfying [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction), since consciousness doesn't generate the "pull" of wanting but selects among options that already have pull.
+
+### Tonic and Phasic Signalling
+
+Dopamine neurons operate in two modes. *Tonic* dopamine—slow, irregular baseline activity—establishes background levels over seconds to minutes, determining overall system readiness. *Phasic* dopamine—rapid bursts encoding reward prediction errors—operates with sub-second precision.
+
+A 2024 *Nature* study used optogenetics to selectively disrupt phasic dopamine while preserving tonic levels. Movement remained normal (tonic suffices), but reward-guided motivation and learning were impaired (phasic required). This suggests tonic dopamine ensures the selection system is "online"—permitting selection to occur—while phasic dopamine marks specific options at specific moments, creating the salience that quantum selection operates upon.
+
+### Decision Threshold Modulation
+
+A 2023 *Nature Communications* study found that striatal dopamine regulates decision thresholds in action selection. In drift-diffusion models of decision-making, evidence for competing options accumulates until one crosses threshold. Dopamine modulates how much evidence is needed—not which option is correct.
+
+If dopamine simply lowered threshold uniformly, faster responses would be random. But amphetamine improves performance on rewarding trials—the threshold reduction is selective, favouring previously rewarded options. This leaves room for conscious contribution: dopamine sets the "stakes" (how much is needed to act), while consciousness biases which accumulating option wins the race.
+
+### Dopamine and Theta Oscillations
+
+A 2024 *Brain* study found that both dopamine and deep brain stimulation shorten the latency between motor intention and execution by shifting oscillatory dynamics from antikinetic beta rhythms (13-35 Hz) to prokinetic theta rhythms (4-10 Hz). Frontal theta oscillations mark both willed attention (Bengson 2019) and motor preparation. Dopamine facilitates the theta state—the same timing substrate where both attentional and motor selection events occur.
 
 This architecture satisfies Minimal Quantum Interaction: consciousness doesn't inject energy—it biases which accumulating option wins the threshold race.
 
@@ -195,8 +226,8 @@ This framework identifies *where* consciousness might influence motor selection�
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism in detail
 - [voluntary-attention](/voluntary-attention/) — Neural signatures of willed attention
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis foundation
-- [dopamine-selection-interface](/concepts/dopamine-selection-interface/) — Dopamine's role in selection thresholds
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the unified attention-motor system for conscious selection
+- [downward-causation](/concepts/downward-causation/) — How consciousness affects neural processes
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of choosing
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis of readiness potential experiments
 - [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — The decoherence challenge and responses
@@ -241,3 +272,7 @@ This framework identifies *where* consciousness might influence motor selection�
 18. Westbrook, A., et al. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5340.
 
 19. Wise, S.P., & Murray, E.A. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
+
+20. Berridge, K.C. (2007). The debate over dopamine's role in reward: the case for incentive salience. *Psychopharmacology*, 191(3), 391-431.
+
+21. Palmiter, R.D. (2008). Dopamine signaling in the dorsal striatum is essential for motivated behaviors: Lessons from dopamine-deficient mice. *Annals of the New York Academy of Sciences*, 1129, 35-46.

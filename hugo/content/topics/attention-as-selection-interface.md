@@ -252,7 +252,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 - [attention-motor-quantum-interface](/attention-motor-quantum-interface/) — Detailed concept treatment of the unified interface
 - [motor-selection](/concepts/motor-selection/) — Motor selection and premotor theory in depth
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine's dual role in attention and motor planning
-- [dopamine-selection-interface](/concepts/dopamine-selection-interface/) — Dopamine's role in threshold modulation
+- [dopamine-selection-interface](/dopamine-selection-interface/) — Dopamine's role in threshold modulation
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum approaches
 - [decoherence](/concepts/decoherence/) — The decoherence objection and responses

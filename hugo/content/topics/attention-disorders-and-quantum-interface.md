@@ -199,7 +199,7 @@ The materialist might argue that attention disorders show attention is "just" ne
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno approach to mind-brain interaction
 - [voluntary-attention](/voluntary-attention/) — Neural signatures distinguishing willed from automatic attention
 - [mental-effort](/concepts/mental-effort/) — Why attention feels effortful and what effort signifies
-- [dopamine-selection-interface](/concepts/dopamine-selection-interface/) — Dopamine's role in threshold modulation
+- [dopamine-selection-interface](/dopamine-selection-interface/) — Dopamine's role in threshold modulation
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Salience bridge, tonic/phasic modes, and what Parkinson's reveals about the interface
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — How consciousness might select among neural options
 

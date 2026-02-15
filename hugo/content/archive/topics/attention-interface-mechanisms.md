@@ -398,7 +398,7 @@ The Map doesn't commit to a specific mechanism. The commitment is to the framewo
 - [decoherence](/concepts/decoherence/) — The decoherence objection and responses
 - [mental-effort](/concepts/mental-effort/) — Phenomenology of attentional effort
 - [structure-of-attention](/topics/structure-of-attention/) — Willed, instructed, and exogenous attention
-- [dopamine-selection-interface](/concepts/dopamine-selection-interface/) — Dopamine's role in threshold modulation
+- [dopamine-selection-interface](/dopamine-selection-interface/) — Dopamine's role in threshold modulation
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — Constraints on what consciousness can influence
 - [free-will](/topics/free-will/) — How the timing constraints relate to libertarian free will
 - [agent-causation](/concepts/agent-causation/) — The selection model as agent causation

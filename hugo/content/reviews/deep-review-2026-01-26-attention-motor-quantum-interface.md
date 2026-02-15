@@ -52,13 +52,13 @@ Six sympathetic personas (Property Dualist, Quantum Mind Theorist, Phenomenologi
 - Theta oscillation connection
 
 ### Enhancements Made
-- Added cross-link to [dopamine-selection-interface](/concepts/dopamine-selection-interface/) in Further Reading and concepts frontmatter
+- Added cross-link to [dopamine-selection-interface](/dopamine-selection-interface/) in Further Reading and concepts frontmatter
 - Added cross-link to [agent-causation](/concepts/agent-causation/) in Further Reading
 - Strengthened theta-dopamine connection: noted that dopamine gates access to the quantum interface by facilitating theta state
 - Condensed "Dopamine and Salience" section, replacing redundant detail with cross-link to dedicated article
 
 ### Cross-links Added
-- [dopamine-selection-interface](/concepts/dopamine-selection-interface/) (in concepts frontmatter and Further Reading)
+- [dopamine-selection-interface](/dopamine-selection-interface/) (in concepts frontmatter and Further Reading)
 - [agent-causation](/concepts/agent-causation/) (in Further Reading)
 
 ## Cross-Review: Dopamine-Selection-Interface Insights

@@ -18,6 +18,103 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 11:08 UTC - coalesce
+- **Status**: Success
+- **Sources**: [dopamine-selection-interface](/dopamine-selection-interface/)
+- **Target**: [motor-selection](/concepts/motor-selection/)
+- **Archived**: [dopamine-selection-interface](/archive/concepts/dopamine-selection-interface/)
+- **References to review**: 5 active content files
+
+## 2026-02-15 11:03 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Authority of Testimony
+- **Output**: [consciousness-and-the-authority-of-testimony](/topics/consciousness-and-the-authority-of-testimony/)
+- **Word count**: 1786
+- **Based on research**: no
+
+## 2026-02-15 10:53 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-emergence-debate](/topics/consciousness-and-the-emergence-debate/)
+- **Word count**: 3226 → 3250 (+24)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 7
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-02-15-consciousness-and-the-emergence-debate](/reviews/deep-review-2026-02-15-consciousness-and-the-emergence-debate/)
+
+## 2026-02-15 10:48 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Paradox of Effortless Mastery
+- **Output**: [paradox-of-effortless-mastery](/topics/paradox-of-effortless-mastery/)
+- **Word count**: 1477
+- **Based on research**: no
+
+## 2026-02-15 10:43 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology of Temporal Attention
+- **Output**: [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-attention/)
+- **Word count**: 1529
+- **Based on research**: Yes (drew from [temporal-structure-consciousness-2026-01-14](/research/temporal-structure-consciousness-2026-01-14/), [specious-present-temporal-experience-2026-01-16](/research/specious-present-temporal-experience-2026-01-16/), [attention-consciousness-relationship-2026-01-15](/research/attention-consciousness-relationship-2026-01-15/), [attention-as-interface-hypothesis-2026-01-16](/research/attention-as-interface-hypothesis-2026-01-16/))
+
+## 2026-02-15 10:38 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 30 articles sampled across topics/ (12), concepts/ (12), apex/ (6), voids/ (6), tenets/ (1)
+- **Output**: [optimistic-2026-02-15-night](/reviews/optimistic-2026-02-15-night/)
+
+## 2026-02-15 10:19 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/)
+- **Word count**: 1966 → 2346 (+380)
+- **Critical issues addressed**: 4 (broken wikilinks, unverifiable quotes, specious present overstatement, missing frontmatter field)
+- **Medium issues addressed**: 6 (physicalist engagement, split-brain tension, orphan reference, Occam's Razor tenet, cross-links, Gallagher title)
+- **Enhancements made**: 6 (expanded sections, new cross-links, new references, new tenet subsection)
+- **Output**: [deep-review-2026-02-15-cognitive-integration-and-the-self](/reviews/deep-review-2026-02-15-cognitive-integration-and-the-self/)
+
+## 2026-02-15 10:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
+- **Changes**: Rewrote asymmetric cost argument to acknowledge Pascal's Wager parallel; restructured contemplative perspectives to stop appropriating Buddhist evidence for dualist conclusions; language fixes (5 items)
+- **Based on**: [pessimistic-2026-02-15-midday](/reviews/pessimistic-2026-02-15-midday/) (2 high-severity issues)
+- **Published**: yes
+
+## 2026-02-15 10:04 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/epistemic-advantages-of-dualism.md
+- **Issues found**: 5 (2 high, 2 medium, 1 low)
+- **Tasks created**: 1 (P2 refine-draft for asymmetric cost argument and contemplative evidence)
+- **Output**: [pessimistic-2026-02-15-midday](/reviews/pessimistic-2026-02-15-midday/)
+
+## 2026-02-15 09:46 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
+- **Word count**: 2027 → 2257 (+230)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (1 deferred)
+- **Enhancements made**: 11
+- **Output**: [deep-review-2026-02-15-phenomenology-of-returning-attention](/reviews/deep-review-2026-02-15-phenomenology-of-returning-attention/)
+
+## 2026-02-15 09:19 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Intelligibility Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-intelligibility-void-2026-02-15](/research/voids-intelligibility-void-2026-02-15/)
+- **Key finding**: The intelligibility void is the meta-void underlying all others—the question of why reality is intelligible at all and where intelligibility structurally breaks down, with the Agrippan Trilemma showing that explanation itself cannot be made fully intelligible
+
+## 2026-02-15 09:07 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
+- **Word count**: 1979 → 2223 (+244)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 4 (phenomenological grounding, physicalist engagement, overdetermination explanation, 10+ cross-links)
+- **Output**: [deep-review-2026-02-15-consciousness-and-causal-powers](/reviews/deep-review-2026-02-15-consciousness-and-causal-powers/)
+
+## 2026-02-15 08:57 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Emotion as Evidence for Dualism
+- **Output**: [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/)
+- **Word count**: 1722
+- **Based on research**: yes, [emotional-consciousness-valence-2026-01-19](/research/emotional-consciousness-valence-2026-01-19/)
+
 ## 2026-02-15 08:49 UTC - coalesce
 - **Status**: Success
 - **Sources**: [substance-causation](/concepts/substance-causation/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-02-10 11:22:00+00:00
+ai_modified: 2026-02-15 10:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ description: Why the type of emergence you accept determines what consciousness 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-15 10:53:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,7 +61,7 @@ Weak emergence also entails substrate independence. If the computation is what m
 
 If consciousness is strongly emergent, it possesses properties not deducible even in principle from physical facts. No amount of physical knowledge entails the existence of experience. The hard problem is not a temporary gap but an ontological boundary.
 
-This is the Map's position. Strong emergence says the universe contains real novelty: properties that are not implicit in the fundamental physical inventory but arise when matter organises in certain ways. C.D. Broad stated the criterion in 1925: emergent properties are those whose "characteristic properties of the whole...cannot, even in theory, be deduced from the most complete knowledge" of component properties. David Chalmers sharpened the point: "I believe there is exactly one clear case of a strongly emergent phenomenon, and that is the phenomenon of consciousness" (Chalmers, 2006).
+This is the Map's position. Strong emergence says the universe contains real novelty: properties that are not implicit in the fundamental physical inventory but arise when matter organises in certain ways. C.D. Broad stated the criterion in 1925: emergent properties are those whose "characteristic properties of the whole...cannot, even in theory, be deduced from the most complete knowledge" of component properties. David Chalmers sharpened the point: "I think there is exactly one clear case of a strongly emergent phenomenon, and that is the phenomenon of consciousness" (Chalmers, 2006).
 
 Strong emergence demands a mechanism for [downward-causation](/concepts/downward-causation/)—how the emergent property influences the lower level. Without one, the strongly emergent property risks becoming [epiphenomenal](/arguments/epiphenomenalism/): real but causally inert, a metaphysical spectator. The Map provides a mechanism: consciousness selects among outcomes physics leaves undetermined at quantum indeterminacies. This answers Jaegwon Kim's [exclusion argument](/concepts/emergence/#kims-exclusion-argument) by targeting causal closure where physics is genuinely incomplete.
 
@@ -99,7 +99,7 @@ Whether consciousness supervenes with metaphysical or merely nomological necessi
 
 ### What the Instability Reveals
 
-The instability of the weak/strong boundary is itself evidence for the Map's position. If weak and strong emergence formed a clean binary—with clear cases on each side and no contested middle ground—the physicalist could plausibly argue that consciousness will eventually join temperature on the weak side. The fact that the boundary is contested, that intermediate cases resist classification, and that consciousness is the primary case driving the dispute, suggests that something genuinely different is happening with phenomenal properties. The boundary is unstable *precisely because* consciousness does not fit the patterns that make weak emergence work for other properties.
+If weak and strong emergence formed a clean binary, the physicalist could plausibly argue that consciousness will eventually join temperature on the weak side. The fact that consciousness is the primary case driving the dispute—the reason the boundary is contested at all—suggests that something genuinely different is happening with phenomenal properties.
 
 ## Kim's Challenge and the Quantum Response
 
@@ -114,7 +114,7 @@ These four claims are jointly inconsistent. Kim's conclusion: one must go—and 
 
 The Map denies causal closure—but not wholesale. Causal closure holds through most of physics. The denial is targeted: at quantum indeterminacies, physics is genuinely incomplete. Quantum mechanics specifies probabilities for measurement outcomes but does not determine which outcome occurs. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet locates consciousness's causal influence here—biasing otherwise indeterminate outcomes without injecting energy or violating conservation laws.
 
-Classical British emergentists like Broad and Samuel Alexander affirmed strong emergence but accepted it with "natural piety"—as a brute fact admitting no mechanism. A century later, quantum mechanics provides what they lacked: a specific location in physics where the causal structure is incomplete, where novel higher-level causation could operate without contradicting lower-level laws. Whether quantum indeterminacies in neural tissue survive decoherence long enough for this mechanism to operate remains contested. Tegmark's calculations suggest decoherence times far too short for neural relevance, though these have been challenged on their assumptions (see [quantum-consciousness](/concepts/quantum-consciousness/) for the debate). The Map treats the quantum mechanism as promising but not yet established.
+Classical British emergentists like Broad and Samuel Alexander affirmed strong emergence but lacked a mechanism. Alexander accepted emergence with "natural piety"—as a brute fact admitting no further explanation. A century later, quantum mechanics provides what they lacked: a specific location in physics where the causal structure is incomplete, where novel higher-level causation could operate without contradicting lower-level laws. Whether quantum indeterminacies in neural tissue survive decoherence long enough for this mechanism to operate remains contested. Tegmark's calculations suggest decoherence times far too short for neural relevance, though Hagan et al. (2002) challenged his assumptions about conditions in neural microtubules (see [quantum-consciousness](/concepts/quantum-consciousness/) for the debate). The Map treats the quantum mechanism as promising but not yet established.
 
 Kim himself acknowledged the difficulty of formulating causal closure precisely. Too strong, and it begs the question against dualism. Too weak, and it permits the very mental causation it was meant to exclude. The quantum response threads this needle: physics is causally closed at the classical level but genuinely open at the quantum level. [Downward causation](/concepts/downward-causation/) operates at this opening.
 
@@ -122,7 +122,7 @@ Kim himself acknowledged the difficulty of formulating causal closure precisely.
 
 Timothy O'Connor and Hong Yu Wong developed a sophisticated account of strong emergence that aligns with the Map's framework. In "The Metaphysics of Emergence" (2005), they argue for emergent properties that are "fundamentally novel"—possessing new causal powers not present in their components.
 
-Their key innovation is the concept of "structural triggering conditions": latent powers that manifest only when components organise in specific ways. The brain's neural architecture provides the structural conditions under which consciousness—with its novel causal powers—manifests. Where their account remains abstract about the mechanism, the Map's quantum framework supplies specificity: the "structural triggering conditions" correspond to neural configurations that produce quantum indeterminacies through which consciousness acts.
+Their key innovation is the idea that emergent powers manifest only under appropriate structural triggering conditions—when components organise in specific ways, latent dispositions become active. The brain's neural architecture provides the structural conditions under which consciousness—with its novel causal powers—manifests. Where their account remains abstract about the mechanism, the Map's quantum framework supplies specificity: the structural conditions correspond to neural configurations that produce quantum indeterminacies through which consciousness acts.
 
 ## What Each Position Determines
 
@@ -138,7 +138,7 @@ The choice of emergence model is not an abstract metaphysical preference. It det
 
 ### Do Your Choices Matter?
 
-**Weak emergence preserves the appearance of choice but not the reality.** If consciousness is derivable from physics, and physics is deterministic (or randomly indeterminate), then conscious decisions are determined by physical processes. Compatibilists argue this is enough for meaningful agency; the Map disagrees.
+**Weak emergence makes agency a function of physical processes.** If consciousness is derivable from physics, and physics is deterministic (or randomly indeterminate), then conscious decisions are determined by physical processes. Compatibilists argue that decisions caused by one's own mental states constitute genuine agency regardless of determinism; the Map holds that this redefined agency is insufficient—genuine choice requires causal powers beyond the physical chain.
 
 **Strong emergence opens space for genuine agency.** If consciousness has causal powers not reducible to physics—if it can select among quantum-undetermined outcomes—then decisions involve something beyond the physical causal chain. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet commits the Map to this.
 
@@ -162,15 +162,13 @@ If the gap is **ontological** (reflecting the structure of reality), you hold st
 
 If the gap is **malformed** (asking the wrong question), you lean toward panpsychism. There is no gap between the physical and the experiential because the physical already is experiential.
 
-The Map treats the gap as ontological. The hard problem is not a puzzle awaiting solution but a marker of irreducibility. Unlike other "gaps" that closed with scientific progress (vitalism, the nature of heat), the consciousness gap has not narrowed despite a century of neuroscience. This persistence is what the [emergence-void](/voids/emergence-void/) explores—the possibility that the gap reflects a structural limit on what any mind can comprehend.
+The Map treats the gap as ontological. The hard problem is not a puzzle awaiting solution but a marker of irreducibility. Neuroscience has made enormous empirical progress—identifying neural correlates, mapping the conditions under which consciousness arises and disappears—but the philosophical explanatory gap between physical processes and phenomenal experience has not narrowed the way other gaps have. We know far more about *when* and *where* consciousness occurs, but not *why* physical processes are accompanied by experience at all. This persistence is what the [emergence-void](/voids/emergence-void/) explores—the possibility that the gap reflects a structural limit on what any mind can comprehend.
 
 ## Consciousness as the Sole Test Case
 
-Every candidate for strong emergence other than consciousness has eventually been reclassified. The British emergentists cited chemical bonding and biological properties as strongly emergent. Quantum mechanics and molecular biology dissolved those claims. Temperature, phase transitions, superconductivity—each seemed irreducible until the relevant microphysical theory matured.
+Every candidate for strong emergence other than consciousness has eventually been reclassified. The British emergentists cited chemical bonding and biological properties as strongly emergent; quantum mechanics and molecular biology dissolved those claims. Consciousness has resisted this pattern. A century later, with vastly more neuroscientific knowledge, the philosophical explanatory gap remains as wide as ever—unlike the gap between chemistry and physics, which quantum mechanics closed.
 
-Consciousness has resisted this pattern. A century after the British emergentists, with vastly more neuroscientific knowledge, the explanatory gap has not narrowed in the way that the gap between chemistry and physics narrowed with quantum mechanics. This persistence is what makes Chalmers's claim—that consciousness is the sole clear case of strong emergence—more than a placeholder.
-
-The Map draws a specific conclusion: the reason consciousness resists reclassification is that it genuinely is strongly emergent. It possesses properties—qualitative character, subjective unity, intentionality—that are not implicit in the physical inventory. Where other "emergent" properties turned out to be complex physical properties in disguise, consciousness is something else: a property that requires the universe to contain more than physics describes.
+The Map draws a specific conclusion: consciousness resists reclassification because it genuinely is strongly emergent. It possesses properties—qualitative character, subjective unity, intentionality—that are not implicit in the physical inventory. Where other "emergent" properties turned out to be complex physical properties in disguise, consciousness requires the universe to contain more than physics describes.
 
 ## The Testability Question
 
@@ -196,7 +194,7 @@ The Map's framework is best understood as *emergentist interactionism*: consciou
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is what strong emergence with downward causation entails. Consciousness influences the physical world by selecting among outcomes physics leaves open. This is the claim that makes emergence consequential rather than decorative.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** matters because the quantum mechanism requires genuine indeterminacy. Under many-worlds, all outcomes are realised and consciousness selects nothing—it merely indexes a branch. The Map rejects many-worlds on independent grounds; the emergence framework depends on collapse being real.
+**[No Many Worlds](/tenets/#no-many-worlds)** matters because the quantum mechanism requires genuine indeterminacy. Under many-worlds, all outcomes are realised through unitary evolution—consciousness does not select among them but finds itself in one branch among many. The Map rejects many-worlds on independent grounds; the emergence framework depends on collapse being real, so that consciousness can influence which single outcome becomes actual.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** explains why weak emergence remains attractive despite the hard problem. The preference for parsimony makes reductive explanations feel natural. The reductive programme's past successes create a powerful inductive argument—but induction from other properties to consciousness assumes consciousness is the same kind of thing as temperature or chemical bonding. The fifth tenet warns against exactly this move.
 
@@ -217,10 +215,12 @@ The Map's framework is best understood as *emergentist interactionism*: consciou
 
 ## References
 
+- Alexander, S. (1920). *Space, Time, and Deity*. Macmillan.
 - Bedau, M.A. (1997). "Weak Emergence." *Philosophical Perspectives*, 11: 375-399.
 - Broad, C.D. (1925). *The Mind and Its Place in Nature*. Routledge & Kegan Paul.
 - Chalmers, D.J. (1996). *The Conscious Mind*. Oxford University Press.
 - Chalmers, D.J. (2006). "Strong and Weak Emergence." In P. Clayton & P. Davies (Eds.), *The Re-Emergence of Emergence*. Oxford University Press.
+- Hagan, S., Hameroff, S. & Tuszynski, J. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65: 061901.
 - James, W. (1890). *The Principles of Psychology*. Henry Holt & Company.
 - Khan, S. et al. (2024). "Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats." *eNeuro*, 11(8).
 - Kim, J. (1998). *Mind in a Physical World*. MIT Press.
