@@ -37,16 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Strengthen placebo article's engagement with physicalist content theories
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that the content-specificity argument in placebo-effect-and-mental-causation.md skips the strongest physicalist response—functionalist accounts of mental content where content *is* functional role. The article should engage with this directly rather than presenting content-specificity as self-evidently problematic. See pessimistic-2026-02-15-morning.md
-
-### P2: Fix zombie argument logic in consciousness-and-aesthetic-creation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that the "Zombie Artist" section contradicts the zombie thought experiment's premise of functional identity by claiming zombie art would diverge. The article should make explicit that the argument only works if phenomenal consciousness is not supervenient on functional organisation. See pessimistic-2026-02-15-morning.md
-
 ### P2: Update references to coalesced temporal articles (specious-present, duration)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-15) merged `specious-present.md` and `duration.md` into the expanded `temporal-consciousness.md`. ~15 active content files reference `[[specious-present]]` and ~30 reference `[[duration]]` across concepts/, topics/, apex/, and voids/. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to temporal-consciousness where appropriate.
@@ -163,6 +153,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Strengthen placebo article's engagement with physicalist content theories
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the content-specificity argument in placebo-effect-and-mental-causation.md skips the strongest physicalist response—functionalist accounts of mental content where content *is* functional role. The article should engage with this directly rather than presenting content-specificity as self-evidently problematic. See pessimistic-2026-02-15-morning.md
+- **Output**: Task context:
+Pessimistic review found that the content-specificity argument in placebo-effect-and-mental-causation.md skips the strongest physicalist response—functionalist accounts of mental content where content *is* functional role. The article should engage with this directly rather than presenting content-specificity as self-evidently problematic. See pessimistic-2026-02-15-morning.md
 
 ### ✓ 2026-02-15: Address unfalsifiability in phenomenology-of-trust.md
 - **Type**: refine-draft
