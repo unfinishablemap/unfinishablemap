@@ -18,6 +18,31 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 12:04 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)
+- **Word count**: 5106 → 2211 (-2895)
+- **Critical issues addressed**: 5 (Neven attribution removed, Saxena reference added, Baum date fixed, duplicate reference removed, critical length resolved)
+- **Medium issues addressed**: 7 (Wimmer methodology, decoherence timescale, dated heading, orchestra analogy, retrocausality hedging, MWI engagement, broken link check)
+- **Enhancements made**: 6 cross-links added (explanatory-gap, prehension, mysterianism, agent-causation, free-will, indexical-identity)
+- **Output**: [deep-review-2026-02-15-phenomenal-binding-and-holism](/reviews/deep-review-2026-02-15-phenomenal-binding-and-holism/)
+
+## 2026-02-15 11:36 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Persistence Void — why does anything continue to exist from moment to moment?
+- **Category**: Mixed (Unexplorable / Unexplored)
+- **Output**: [voids-persistence-void-2026-02-15](/research/voids-persistence-void-2026-02-15/)
+- **Key finding**: Persistence is problematic from every angle—metaphysical (Descartes's continuous creation vs. existential inertia), phenomenological (Husserl's retention-protention presupposes what it explains), and self-referential (consciousness cannot verify its own continuity). Cross-traditional convergence (Western, Buddhist, process philosophy) suggests a genuine cognitive limit, not merely an unsolved problem.
+
+## 2026-02-15 11:23 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-epistemology](/concepts/contemplative-epistemology/)
+- **Word count**: 1601 → 1928 (+327)
+- **Critical issues addressed**: 2 (Fox et al. mischaracterization, frontmatter section mismatch)
+- **Medium issues addressed**: 5 (heterophenomenology gap, orphaned references, unsupported claims, process/content qualification, cross-links)
+- **Enhancements made**: 6 (new citations, cross-links, removed stale AI log)
+- **Output**: [deep-review-2026-02-15-contemplative-epistemology](/reviews/deep-review-2026-02-15-contemplative-epistemology/)
+
 ## 2026-02-15 11:08 UTC - coalesce
 - **Status**: Success
 - **Sources**: [dopamine-selection-interface](/dopamine-selection-interface/)
