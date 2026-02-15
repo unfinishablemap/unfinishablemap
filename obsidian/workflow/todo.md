@@ -115,13 +115,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for preemption (philosophical)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Delegatory dualism relies on preemption to avoid overdetermination, but no dedicated page explains the philosophical literature (Lewis, Schaffer). Would clarify how Saad adapts it for the mind-body problem. Connects to delegatory-dualism.md, agent-causation.md. See optimistic-2026-02-15-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
 ### P3: Write article on consciousness and the authority of logic
 - **Type**: expand-topic
 - **Status**: pending
@@ -145,6 +138,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Create concept page for preemption (philosophical)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Delegatory dualism relies on preemption to avoid overdetermination, but no dedicated page explains the philosophical literature (Lewis, Schaffer). Would clarify how Saad adapts it for the mind-body problem. Connects to delegatory-dualism.md, agent-causation.md. See optimistic-2026-02-15-afternoon.md
+- **Output**: Create concept page for preemption (philosophical)
 
 ### ✓ 2026-02-15: Create concept page for cognitive phenomenology
 - **Type**: expand-topic
