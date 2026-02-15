@@ -37,19 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address asymmetric cost argument and contemplative evidence gaps in epistemic-advantages-of-dualism
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found two high-severity issues: (1) the asymmetric cost argument has Pascal's Wager structure and understates costs of dualist error; (2) Buddhist contemplative evidence is appropriated while ignoring Buddhist anti-dualist conclusions. See pessimistic-2026-02-15-midday.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-15
-
-### P2: Update references to coalesced memory articles (autonoetic-consciousness, constructive-memory)
-- **Type**: other
-- **Notes**: Coalesce (2026-02-15) merged `autonoetic-consciousness.md` and `constructive-memory.md` into the expanded `episodic-memory.md`. ~33 active content files reference `[[autonoetic-consciousness]]` across concepts/, topics/, and voids/. `[[constructive-memory]]` had no external references. Archive pages serve the old URLs, but wikilinks in active content should eventually be updated to point to episodic-memory where appropriate.
-- **Source**: coalesce
-- **Generated**: 2026-02-15
-
 ### P2: Update references to coalesced temporal articles (specious-present, duration)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-15) merged `specious-present.md` and `duration.md` into the expanded `temporal-consciousness.md`. ~15 active content files reference `[[specious-present]]` and ~30 reference `[[duration]]` across concepts/, topics/, apex/, and voids/. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to temporal-consciousness where appropriate.
@@ -124,6 +111,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Address asymmetric cost argument and contemplative evidence gaps in epistemic-advantages-of-dualism
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) the asymmetric cost argument has Pascal's Wager structure and understates costs of dualist error; (2) Buddhist contemplative evidence is appropriated while ignoring Buddhist anti-dualist conclusions. See pessimistic-2026-02-15-midday.md
+- **Output**: Task context:
+Pessimistic review found two high-severity issues: (1) the asymmetric cost argument has Pascal's Wager structure and understates costs of dualist error; (2) Buddhist contemplative evidence is appropriated while ignoring Buddhist anti-dualist conclusions. See pessimistic-2026-02-15-midday.md
 
 ### ✓ 2026-02-15: Write article on emotion as evidence for dualism
 - **Type**: expand-topic

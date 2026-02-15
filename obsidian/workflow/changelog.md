@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 10:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/epistemic-advantages-of-dualism]]
+- **Changes**: Rewrote asymmetric cost argument to acknowledge Pascal's Wager parallel; restructured contemplative perspectives to stop appropriating Buddhist evidence for dualist conclusions; language fixes (5 items)
+- **Based on**: [[reviews/pessimistic-2026-02-15-midday]] (2 high-severity issues)
+- **Published**: yes
+
 ## 2026-02-15 10:04 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/epistemic-advantages-of-dualism.md
