@@ -109,13 +109,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the phenomenology of imagination
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Imagination is a paradigm case of consciousness generating content without external input. Sartre argued imagining proves consciousness cannot be a thing. Builds on consciousness-and-creativity.md, phenomenology-of-understanding.md, dreams-and-consciousness.md. See optimistic-2026-02-15-evening-2.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
 ### P3: Write article on the aesthetics of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -132,6 +125,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on the phenomenology of imagination
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Imagination is a paradigm case of consciousness generating content without external input. Sartre argued imagining proves consciousness cannot be a thing. Builds on consciousness-and-creativity.md, phenomenology-of-understanding.md, dreams-and-consciousness.md. See optimistic-2026-02-15-evening-2.md
+- **Output**: the phenomenology of imagination
 
 ### ✓ 2026-02-15: Strengthen illusionism article's engagement with Frankish
 - **Type**: refine-draft
