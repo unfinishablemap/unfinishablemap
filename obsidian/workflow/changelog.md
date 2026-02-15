@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 13:13 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/causal-powers]]
+- **Word count**: 1189 → 1424 (+235)
+- **Critical issues addressed**: 3 (broken wikilinks ×2, missing site name introduction)
+- **Medium issues addressed**: 5 (attribution fix, Molière objection, decoherence flag, neutral monism engagement, empirical grounding)
+- **Enhancements made**: 4 (expanded cross-linking, Lewis citation, agent-causation connection, description rewrite)
+- **Output**: [[reviews/deep-review-2026-02-15-causal-powers]]
+
 ## 2026-02-15 13:08 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Panpsychism's Combination Problem in Depth
