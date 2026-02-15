@@ -194,7 +194,7 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 - [[epiphenomenalism]] — The view denying downward causation
 - [[quantum-consciousness]] — The mechanism for consciousness-brain interaction
 - [[agent-causation]] — Agent causation as substance causation applied to free action
-- [[substance-causation]] — The metaphysical thesis that substances, not events, are fundamental causal agents
+- [[agent-causation#The Metaphysical Foundation: Substance Causation|Substance causation]] — The metaphysical thesis that substances, not events, are fundamental causal agents
 - [[many-worlds]] — Why the Map rejects MWI (and why it matters for downward causation)
 - [[illusionism]] — The radical challenge that denies phenomenal consciousness exists
 - [[decoherence]] — The physics challenge and why it doesn't close the quantum opening

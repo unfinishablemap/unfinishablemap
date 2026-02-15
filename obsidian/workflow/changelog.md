@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 08:49 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/substance-causation]]
+- **Target**: [[concepts/agent-causation]]
+- **Archived**: [[archive/concepts/substance-causation]]
+- **References updated**: 4 files (mental-causation, downward-causation, free-will, consciousness-and-agency)
+- **References to review**: none (all active links updated)
+
 ## 2026-02-15 08:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-state-inheritance-in-ai]]

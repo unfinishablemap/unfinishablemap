@@ -25,6 +25,11 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated: null
+archived: true
+archived_date: 2026-02-15T08:49:00+00:00
+superseded_by: "/concepts/agent-causation/"
+archive_reason: "Coalesced into Agent Causation"
+original_path: "/concepts/substance-causation/"
 ---
 
 Substance causation is the view that substances—persisting things with causal powers—are the fundamental causal agents in the world. Events don't cause events; substances cause events by exercising their powers. This metaphysical position, developed most thoroughly by E.J. Lowe and with roots in Aristotelian and Thomistic philosophy, reframes the mind-body problem. If all causation is fundamentally substance causation, then consciousness causing physical events isn't metaphysically exceptional—it's paradigmatic of what causation is.
