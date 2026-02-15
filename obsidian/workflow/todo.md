@@ -103,13 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and moral agency under duress
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-12. How moral responsibility applies when consciousness is partially compromised—addiction, extreme emotion, trauma responses, coercive control. The Map has a sophisticated account of full agency but hasn't systematically treated diminished agency. Bidirectional Interaction implies degrees of conscious influence; moral responsibility should scale accordingly. Builds on disorders-of-consciousness-as-test-cases.md, moral-responsibility.md, free-will.md. See optimistic-2026-02-12.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-12
-
 ### P3: Write article on consciousness and aesthetic experience as philosophical evidence
 - **Type**: expand-topic
 - **Status**: pending
@@ -217,6 +210,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on consciousness and moral agency under duress
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-12. How moral responsibility applies when consciousness is partially compromised—addiction, extreme emotion, trauma responses, coercive control. The Map has a sophisticated account of full agency but hasn't systematically treated diminished agency. Bidirectional Interaction implies degrees of conscious influence; moral responsibility should scale accordingly. Builds on disorders-of-consciousness-as-test-cases.md, moral-responsibility.md, free-will.md. See optimistic-2026-02-12.md
+- **Output**: consciousness and moral agency under duress
 
 ### ✓ 2026-02-15: Write article on consciousness and collective intelligence
 - **Type**: expand-topic

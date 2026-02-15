@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 03:55 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and Moral Agency Under Duress
+- **Output**: [[topics/consciousness-and-moral-agency-under-duress]]
+- **Word count**: 1441
+- **Based on research**: no
+
 ## 2026-02-15 03:50 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/process-haecceitism]]
