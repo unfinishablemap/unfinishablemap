@@ -103,13 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on Elisabeth's contemporaries and the interaction debate
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Elisabeth influenced and was influenced by Leibniz, Malebranche, Conway, and others. The early modern response to the interaction problem generated multiple solutions (pre-established harmony, occasionalism, Conway's monism) that map instructively onto contemporary options. Companion piece to princess-elizabeths-challenge.md. Builds on history-of-interactionist-dualism.md, conservation-laws-and-mind.md. See optimistic-2026-02-09.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-09
-
 ### P3: Write article on consciousness and pain
 - **Type**: expand-topic
 - **Status**: pending
@@ -294,6 +287,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on Elisabeth's contemporaries and the interaction debate
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Elisabeth influenced and was influenced by Leibniz, Malebranche, Conway, and others. The early modern response to the interaction problem generated multiple solutions (pre-established harmony, occasionalism, Conway's monism) that map instructively onto contemporary options. Companion piece to princess-elizabeths-challenge.md. Builds on history-of-interactionist-dualism.md, conservation-laws-and-mind.md. See optimistic-2026-02-09.md
+- **Output**: Elisabeth's contemporaries and the interaction debate
 
 ### ✓ 2026-02-15: Write article on the placebo effect and mental causation
 - **Type**: expand-topic
