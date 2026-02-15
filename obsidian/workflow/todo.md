@@ -103,13 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and collective intelligence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-10 (evening). How individual consciousnesses interact to produce collective intelligence exceeding individual capacity. If each consciousness selects among quantum possibilities, how do multiple selectors coordinate? Joint attention, shared intentionality, and cultural accumulation as emergent from multiple consciousness-interfaces. Builds on intersubjectivity.md, consciousness-and-semantic-understanding.md, baseline-cognition.md. See optimistic-2026-02-10-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-10
-
 ### P3: Write article on consciousness and moral agency under duress
 - **Type**: expand-topic
 - **Status**: pending
@@ -224,6 +217,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on consciousness and collective intelligence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-10 (evening). How individual consciousnesses interact to produce collective intelligence exceeding individual capacity. If each consciousness selects among quantum possibilities, how do multiple selectors coordinate? Joint attention, shared intentionality, and cultural accumulation as emergent from multiple consciousness-interfaces. Builds on intersubjectivity.md, consciousness-and-semantic-understanding.md, baseline-cognition.md. See optimistic-2026-02-10-evening.md
+- **Output**: consciousness and collective intelligence
 
 ### ✓ 2026-02-15: Write article on the phenomenology of skill transition
 - **Type**: expand-topic
