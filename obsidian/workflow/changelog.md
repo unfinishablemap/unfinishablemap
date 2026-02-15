@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 12:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-authority-of-testimony]]
+- **Changes**: Added epistemic-ontological bridging argument, Jackson recantation note, qualified absolute claims about override-proof testimony, added No Many Worlds and Minimal Quantum Interaction tenet connections, softened language per review
+- **Published**: yes
+
 ## 2026-02-15 12:24 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/consciousness-and-the-authority-of-testimony.md

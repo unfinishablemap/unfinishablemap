@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address epistemic-ontological conflation in consciousness-and-the-authority-of-testimony
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the article slides from epistemic observation (privileged access) to ontological conclusion (non-physical consciousness) without bridging argument. Also needs: Jackson recantation note, qualification of absolute claims about override-proof testimony, missing No Many Worlds tenet connection. See pessimistic-2026-02-15-evening.md
-
-### P2: Update references to coalesced dopamine-selection-interface
-- **Type**: other
-- **Notes**: Coalesce (2026-02-15) merged `dopamine-selection-interface.md` into the expanded `motor-selection.md`. 5 active content files reference `[[dopamine-selection-interface]]`: attention-as-interface.md, attention-as-selection-interface.md, attention-disorders-and-quantum-interface.md, dopamine-and-the-unified-interface.md, childhood-development-and-the-interface.md. Archive page serves the URL, but wikilinks in active content should eventually be updated to point to motor-selection where appropriate.
-- **Source**: coalesce
-- **Generated**: 2026-02-15
-
 ### P2: Update references to coalesced temporal articles (specious-present, duration)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-15) merged `specious-present.md` and `duration.md` into the expanded `temporal-consciousness.md`. ~15 active content files reference `[[specious-present]]` and ~30 reference `[[duration]]` across concepts/, topics/, apex/, and voids/. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to temporal-consciousness where appropriate.
@@ -122,6 +111,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Address epistemic-ontological conflation in consciousness-and-the-authority-of-testimony
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article slides from epistemic observation (privileged access) to ontological conclusion (non-physical consciousness) without bridging argument. Also needs: Jackson recantation note, qualification of absolute claims about override-proof testimony, missing No Many Worlds tenet connection. See pessimistic-2026-02-15-evening.md
+- **Output**: Task context:
+Pessimistic review found the article slides from epistemic observation (privileged access) to ontological conclusion (non-physical consciousness) without bridging argument. Also needs: Jackson recantation note, qualification of absolute claims about override-proof testimony, missing No Many Worlds tenet connection. See pessimistic-2026-02-15-evening.md
 
 ### ✓ 2026-02-15: Write article on consciousness and the authority of testimony
 - **Type**: expand-topic
