@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced observational-closure article
+- **Type**: other
+- **Notes**: Coalesce (2026-02-15) merged `observational-closure.md` into the expanded `causal-closure.md`. 8 active content files reference `[observational-closure](/observational-closure/)`: preemption.md (concepts list + body), contemplative-epistemology.md (concepts list), objections-to-interactionism.md (concepts list + body), interactionist-dualism.md (concepts list + body), mental-causation.md (concepts list + body), consciousness-and-agency.md (body), delegatory-dualism.md (concepts list + body x2). Archive page serves the URL, but wikilinks in active content should eventually be updated to point to `[causal-closure](/concepts/causal-closure/)` where appropriate.
+- **Source**: coalesce
+- **Generated**: 2026-02-15
+
 ### P2: Update references to coalesced temporal articles (specious-present, duration)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-15) merged `specious-present.md` and `duration.md` into the expanded `temporal-consciousness.md`. ~15 active content files reference `[specious-present](/specious-present/)` and ~30 reference `[duration](/duration/)` across concepts/, topics/, apex/, and voids/. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to temporal-consciousness where appropriate.
@@ -1012,6 +1018,21 @@ Pessimistic review (2026-02-09) found the article treats introspective reports a
 
 Task context:
 Pessimistic review found quantum binding material dominates ~1/3 of the article and violates writing style guide warnings about quantum mechanism overemphasis. The claim "current evidence favours quantum binding" overstates the evidential situation. Reduce quantum section, strengthen alternative approaches, and recalibrate confidence language. See pessimistic-2026-02-06-afternoon.md
+### P3: Write article on philosophy of perception and the interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How the Map's interface model handles specific perceptual phenomena (colour constancy, perceptual adaptation, change blindness). Builds on attention-as-selection-interface, filter-theory, neural-bandwidth-constraints. See optimistic-2026-02-15-late-afternoon.md
+
+### P3: Write article on sleep-wake transition as interface evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The phenomenology and neuroscience of falling asleep and waking up as windows into interface engagement/disengagement. Builds on sleep-and-consciousness, consciousness-and-memory, disorders-of-consciousness-as-test-cases. See optimistic-2026-02-15-late-afternoon.md
+
+### P3: Write article on emotional qualia and the hard problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Why emotional experience—the felt badness of pain, the felt goodness of joy—provides strong evidence for irreducibility. Builds on phenomenology-of-moral-experience, emotional-consciousness, phenomenal-consciousness. See optimistic-2026-02-15-late-afternoon.md
+
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.

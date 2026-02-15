@@ -1,34 +1,41 @@
 ---
-title: "Observational Closure"
-description: "Saad's distinction: physics appears complete in laboratories without being complete everywhere. Dualists need only respect empirical constraints."
-created: 2026-02-02
-modified: 2026-02-02
-human_modified:
-ai_modified: 2026-02-02T05:45:00+00:00
-draft: false
-topics:
-  - "[[hard-problem-of-consciousness]]"
-concepts:
-  - "[[causal-closure]]"
-  - "[[interactionist-dualism]]"
-  - "[[delegatory-dualism]]"
-  - "[[mental-causation]]"
-  - "[[epiphenomenalism]]"
-  - "[[quantum-consciousness]]"
-  - "[[stapp-quantum-mind]]"
-  - "[[quantum-indeterminacy-free-will]]"
-related_articles:
-  - "[[tenets]]"
-  - "[[bradford-saad-delegatory-dualism-2026-01-28]]"
 ai_contribution: 100
-author:
-ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
-last_curated:
-last_deep_review: 2026-02-02T05:45:00+00:00
+ai_modified: 2026-02-02 05:45:00+00:00
+ai_system: claude-opus-4-5-20251101
+archive_reason: Coalesced into Causal Closure of the Physical
+archived: true
+archived_date: 2026-02-15 15:44:00+00:00
+author: null
+concepts:
+- '[[causal-closure]]'
+- '[[interactionist-dualism]]'
+- '[[delegatory-dualism]]'
+- '[[mental-causation]]'
+- '[[epiphenomenalism]]'
+- '[[quantum-consciousness]]'
+- '[[stapp-quantum-mind]]'
+- '[[quantum-indeterminacy-free-will]]'
+created: 2026-02-02
+date: &id001 2026-02-02
+description: 'Saad''s distinction: physics appears complete in laboratories without
+  being complete everywhere. Dualists need only respect empirical constraints.'
+draft: false
+human_modified: null
+last_curated: null
+last_deep_review: 2026-02-02 05:45:00+00:00
+modified: *id001
+original_path: /concepts/observational-closure/
+related_articles:
+- '[[tenets]]'
+- '[[bradford-saad-delegatory-dualism-2026-01-28]]'
+superseded_by: /concepts/causal-closure/
+title: Observational Closure
+topics:
+- '[[hard-problem-of-consciousness]]'
 ---
 
-Observational closure is the thesis that there are no *observable* violations of causal closure—no violations detectable by physics or neuroscience experiments. Bradford Saad introduced this distinction in 2025 to show that the empirical evidence for [[causal-closure|causal closure]] is weaker than commonly assumed. Dualists need only respect observational closure, not the stronger claim that physics is complete everywhere.
+Observational closure is the thesis that there are no *observable* violations of causal closure—no violations detectable by physics or neuroscience experiments. Bradford Saad introduced this distinction in 2025 to show that the empirical evidence for [causal closure](/concepts/causal-closure/) is weaker than commonly assumed. Dualists need only respect observational closure, not the stronger claim that physics is complete everywhere.
 
 > **Observational Closure**: "There are no observable violations of Closure." An observable violation is "a violation of Closure that would be recognized as such by an experiment of the sort performed in physics or neuroscience that lies within the realm of nomic possibility." (Saad 2025)
 
@@ -38,7 +45,7 @@ This reframes the debate about mental causation. The standard causal closure arg
 
 The distinction separates two claims often conflated:
 
-**Universal closure**: Every physical event has a sufficient physical cause. No exceptions anywhere—in laboratories, in brains, in galaxies, everywhere. This is the metaphysical thesis that [[interactionist-dualism]] denies.
+**Universal closure**: Every physical event has a sufficient physical cause. No exceptions anywhere—in laboratories, in brains, in galaxies, everywhere. This is the metaphysical thesis that [interactionist-dualism](/concepts/interactionist-dualism/) denies.
 
 **Observational closure**: There are no observable violations of closure. Laboratory experiments, neuroscience studies, and physics measurements all find sufficient physical causes for physical effects. This is the empirical regularity that science has established.
 
@@ -48,13 +55,13 @@ The success of physics—the fact that physical investigations reliably find phy
 
 ## Why the Distinction Matters
 
-The causal closure argument against [[mental-causation]] runs:
+The causal closure argument against [mental-causation](/concepts/mental-causation/) runs:
 
 1. Every physical event has a sufficient physical cause (causal closure)
 2. Therefore, mental events cannot add anything—physical causes already suffice
 3. Therefore, if mental events cause physical effects, they overdetermine outcomes already physically determined
 
-If this argument worked, interactionist dualism would require either accepting [[epiphenomenalism]] (consciousness causes nothing) or accepting systematic overdetermination (two sufficient causes for every conscious action).
+If this argument worked, interactionist dualism would require either accepting [epiphenomenalism](/arguments/epiphenomenalism/) (consciousness causes nothing) or accepting systematic overdetermination (two sufficient causes for every conscious action).
 
 The observational/universal distinction reveals a gap in the argument. Premise (1) claims universal closure, but the evidence only supports observational closure. The argument equivocates between what physics has established empirically (no observable violations) and what the argument requires metaphysically (no violations anywhere).
 
@@ -66,19 +73,19 @@ How can mental causation be real without producing observable violations? Severa
 
 ### Statistical Invisibility
 
-If consciousness influences quantum outcomes at neural indeterminacies, and if these influences aggregate to match Born-rule statistics, no experiment detects the difference. The statistics look exactly as physics predicts. Only the *particular* outcomes differ from what would have occurred without mental influence—and physics doesn't predict particular outcomes, only probabilities. [[stapp-quantum-mind|Henry Stapp's quantum Zeno framework]] develops the most detailed account of this mechanism.
+If consciousness influences quantum outcomes at neural indeterminacies, and if these influences aggregate to match Born-rule statistics, no experiment detects the difference. The statistics look exactly as physics predicts. Only the *particular* outcomes differ from what would have occurred without mental influence—and physics doesn't predict particular outcomes, only probabilities. [Henry Stapp's quantum Zeno framework](/concepts/stapp-quantum-mind/) develops the most detailed account of this mechanism.
 
-The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet embodies this: consciousness influences outcomes "without injecting energy or violating conservation laws" and in ways that are not "empirically detectable under current experimental precision."
+The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet embodies this: consciousness influences outcomes "without injecting energy or violating conservation laws" and in ways that are not "empirically detectable under current experimental precision."
 
 ### Causal Profile Matching
 
-Saad's [[delegatory-dualism]] achieves observational closure through a different mechanism. Physical states delegate their causal responsibilities to conscious experiences that share their causal profiles. The experience causes exactly what the physical state would have caused. No anomaly is detectable because the pattern of effects remains unchanged.
+Saad's [delegatory-dualism](/topics/delegatory-dualism/) achieves observational closure through a different mechanism. Physical states delegate their causal responsibilities to conscious experiences that share their causal profiles. The experience causes exactly what the physical state would have caused. No anomaly is detectable because the pattern of effects remains unchanged.
 
 When pain causes wincing, the delegated causal pathway produces the same wince that the physical pathway would have produced. Experiments measuring wincing find nothing unusual. The difference is *which* cause operates, not *what* effects occur.
 
 ### Domain Specificity
 
-Mental causation might operate only where physics is fundamentally incomplete—at measurement outcomes in quantum mechanics, where physics provides probabilities without determining which possibility becomes actual. In this domain, there is nothing for observation to compare against. Physics predicts a distribution; consciousness selects from within it. The selection is invisible because physics makes no prediction about individual selections. This connects directly to debates about [[quantum-indeterminacy-free-will|quantum indeterminacy and free will]]—the same quantum openings that permit consciousness to influence brain states provide metaphysical room for genuine agency.
+Mental causation might operate only where physics is fundamentally incomplete—at measurement outcomes in quantum mechanics, where physics provides probabilities without determining which possibility becomes actual. In this domain, there is nothing for observation to compare against. Physics predicts a distribution; consciousness selects from within it. The selection is invisible because physics makes no prediction about individual selections. This connects directly to debates about [quantum indeterminacy and free will](/concepts/quantum-indeterminacy-free-will/)—the same quantum openings that permit consciousness to influence brain states provide metaphysical room for genuine agency.
 
 ## Objections and Responses
 
@@ -112,7 +119,7 @@ Observational closure delineates the domain where causal closure applies (observ
 
 ## Relation to Cognitive Closure
 
-[[cognitive-closure|Cognitive closure]] (McGinn) is a distinct concept: the thesis that certain properties lie permanently beyond human conceptual reach. McGinn's closure is *epistemic*—about what we can know or conceive. Saad's observational closure is *methodological*—about what experiments can detect.
+[Cognitive closure](/concepts/cognitive-closure/) (McGinn) is a distinct concept: the thesis that certain properties lie permanently beyond human conceptual reach. McGinn's closure is *epistemic*—about what we can know or conceive. Saad's observational closure is *methodological*—about what experiments can detect.
 
 The two closures may interact. If consciousness-physics interface involves properties we are cognitively closed to (McGinn's property P), we might be unable even to formulate tests that would reveal observational violations. Our experimental paradigms might be structured by our cognitive limitations in ways that preclude detecting mental causation.
 
@@ -132,13 +139,13 @@ The distinction between observational and universal closure is a key dialectical
 
 ## Further Reading
 
-- [[causal-closure]] — The principle observational closure weakens
-- [[delegatory-dualism]] — Saad's full theory using observational closure
-- [[interactionist-dualism]] — The view observational closure makes defensible
-- [[mental-causation]] — What observational closure allows
-- [[quantum-consciousness]] — One mechanism satisfying observational closure
-- [[cognitive-closure]] — A distinct epistemic concept
-- [[epiphenomenalism]] — The view observational closure is not
+- [causal-closure](/concepts/causal-closure/) — The principle observational closure weakens
+- [delegatory-dualism](/topics/delegatory-dualism/) — Saad's full theory using observational closure
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The view observational closure makes defensible
+- [mental-causation](/concepts/mental-causation/) — What observational closure allows
+- [quantum-consciousness](/concepts/quantum-consciousness/) — One mechanism satisfying observational closure
+- [cognitive-closure](/concepts/cognitive-closure/) — A distinct epistemic concept
+- [epiphenomenalism](/arguments/epiphenomenalism/) — The view observational closure is not
 
 ## References
 

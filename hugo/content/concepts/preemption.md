@@ -94,14 +94,14 @@ Preemption connects to The Unfinishable Map's framework at multiple points.
 
 **Agent Causation**: The [agent-causal](/concepts/agent-causation/) tradition holds that substances originate actions directly. Preemption specifies how this origination relates to the physical causal structure—the agent's exercise of causal power preempts the physical state's default contribution, providing the structural detail that agent-causal theories sometimes lack.
 
-**Observational Closure**: Saad's model satisfies [observational-closure](/concepts/observational-closure/)—no observable violations of physical causal patterns. Preemption produces exactly the effects the physical state would have produced by default. Experiments detect no anomalies, because the causal outcome is identical whether the experience or the physical state does the work. This aligns with the Map's commitment that mental causation should not produce empirically detectable anomalies.
+**Observational Closure**: Saad's model satisfies [observational-closure](/observational-closure/)—no observable violations of physical causal patterns. Preemption produces exactly the effects the physical state would have produced by default. Experiments detect no anomalies, because the causal outcome is identical whether the experience or the physical state does the work. This aligns with the Map's commitment that mental causation should not produce empirically detectable anomalies.
 
 ## Further Reading
 
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's full framework applying preemption to mental causation
 - [mental-causation](/concepts/mental-causation/) — The broader problem of how consciousness causes physical effects
 - [causal-closure](/concepts/causal-closure/) — The principle that preemption-based dualism challenges
-- [observational-closure](/concepts/observational-closure/) — Why preemption leaves no empirical trace
+- [observational-closure](/observational-closure/) — Why preemption leaves no empirical trace
 - [agent-causation](/concepts/agent-causation/) — The metaphysical framework for conscious agents as causal originators
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Other responses to the exclusion problem
 

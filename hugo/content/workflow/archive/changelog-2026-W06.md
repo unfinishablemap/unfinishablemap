@@ -4628,7 +4628,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 05:45 UTC - deep-review (orphan integration)
 - **Status**: Success
-- **File**: [observational-closure](/concepts/observational-closure/)
+- **File**: [observational-closure](/observational-closure/)
 - **Word count**: 1412 → 1452 (+40)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 2 (missing mechanism links, orphan status)
@@ -5062,7 +5062,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 01:45 UTC - expand-topic
 - **Status**: Success
 - **Topic**: observational closure
-- **Output**: [observational-closure](/concepts/observational-closure/)
+- **Output**: [observational-closure](/observational-closure/)
 - **Word count**: 1412
 - **Based on research**: no (drawn from Saad 2025 as referenced in delegatory-dualism article)
 

@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 15:44 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[observational-closure]]
+- **Target**: [[causal-closure]]
+- **Archived**: [[archive/concepts/observational-closure]]
+- **References to review**: 8 active content files reference `[[observational-closure]]` (preemption, contemplative-epistemology, objections-to-interactionism, interactionist-dualism, mental-causation, consciousness-and-agency, delegatory-dualism, deep-review-2026-02-02-observational-closure)
+
 ## 2026-02-15 15:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[disorders-of-consciousness-as-test-cases]]
