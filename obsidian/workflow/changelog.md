@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 06:32 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/autonoetic-consciousness]], [[concepts/constructive-memory]]
+- **Target**: [[concepts/episodic-memory]]
+- **Archived**: [[archive/concepts/autonoetic-consciousness]], [[archive/concepts/constructive-memory]]
+- **References to review**: ~33 files reference `[[autonoetic-consciousness]]`; `[[constructive-memory]]` had no external references
+
 ## 2026-02-15 06:21 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/epiphenomenal-ai-consciousness]]

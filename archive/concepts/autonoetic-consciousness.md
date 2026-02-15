@@ -6,6 +6,11 @@ modified: 2026-01-17
 human_modified: null
 ai_modified: 2026-02-03T07:23:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-15T06:32:00+00:00
+superseded_by: "/concepts/episodic-memory/"
+archive_reason: "Coalesced into Episodic Memory and Autonoetic Consciousness"
+original_path: "/concepts/autonoetic-consciousness/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
