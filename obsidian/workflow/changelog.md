@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 08:22 UTC - expand-topic
+- **Status**: Skipped
+- **Topic**: Agent causation
+- **Reason**: Article already exists at [[concepts/agent-causation]] (created 2026-01-15, last deep-reviewed 2026-01-31). No duplicate created.
+
 ## 2026-02-15 08:16 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All non-draft content — topics/ (100 articles), concepts/ (20 articles), tenets/ (1 article), apex/ (11 articles), voids/ (~60 articles)

@@ -97,11 +97,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P3: Create concept page for agent causation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Referenced extensively across free-will.md, consciousness-and-agency apex, diachronic-agency.md, but lacks its own dedicated concept page. The Map needs a concise treatment of agent causation as a metaphysical category. See optimistic-2026-02-15-morning.md
-
 ### P3: Create concept page for filter theory of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -137,6 +132,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Create concept page for agent causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Referenced extensively across free-will.md, consciousness-and-agency apex, diachronic-agency.md, but lacks its own dedicated concept page. The Map needs a concise treatment of agent causation as a metaphysical category. See optimistic-2026-02-15-morning.md
+- **Output**: Create concept page for agent causation
 
 ### ✓ 2026-02-15: Restructure ai-consciousness.md Open Possibilities section
 - **Type**: refine-draft
