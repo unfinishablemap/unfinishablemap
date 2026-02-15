@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 07:01 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Categorial Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[research/voids-categorial-void-2026-02-15]]
+- **Key finding**: Our most fundamental categories of thought (subject/object, cause/effect, substance/property) may be contingent features of cognitive architecture rather than reality-descriptors, making entire dimensions of reality structurally invisible at a level deeper than individual concepts or theories
+
 ## 2026-02-15 06:56 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Cross-Cultural Phenomenology of Agency
