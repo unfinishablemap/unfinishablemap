@@ -18,6 +18,26 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 12:39 UTC - deep-review
+- **Status**: Success
+- **File**: [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/)
+- **Word count**: 1322 → 1938 (+616)
+- **Critical issues addressed**: 2 (strength-mismatch examples corrected, two-dimensional objection expanded)
+- **Medium issues addressed**: 6 (front-loaded Map position, added Bidirectional Interaction tenet, populated topics field, softened unsupported claim, added references, added cross-links)
+- **Enhancements made**: 4 (cognitive closure objection added, first-person acquaintance point, expanded Further Reading, added Block/Stalnaker and Yablo references)
+- **Output**: [deep-review-2026-02-15-conceivability-possibility-inference](/reviews/deep-review-2026-02-15-conceivability-possibility-inference/)
+
+## 2026-02-15 12:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-authority-of-testimony](/topics/consciousness-and-the-authority-of-testimony/)
+- **Changes**: Added epistemic-ontological bridging argument, Jackson recantation note, qualified absolute claims about override-proof testimony, added No Many Worlds and Minimal Quantum Interaction tenet connections, softened language per review
+- **Published**: yes
+
+## 2026-02-15 12:24 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/consciousness-and-the-authority-of-testimony.md
+- **Output**: [pessimistic-2026-02-15-evening](/reviews/pessimistic-2026-02-15-evening/)
+
 ## 2026-02-15 12:04 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)

@@ -1,13 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-02-11 01:10:00+00:00
+ai_modified: 2026-02-15 12:39:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
 - '[[philosophical-zombies]]'
 - '[[knowledge-argument]]'
 - '[[arguments-for-dualism]]'
+- '[[explanatory-gap]]'
+- '[[phenomenal-concepts-strategy]]'
 created: 2026-02-11
 date: &id001 2026-02-11
 description: Examining when what we can imagine reveals what could be real, and the
@@ -16,14 +18,18 @@ description: Examining when what we can imagine reveals what could be real, and 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-15 12:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 title: Conceivability-Possibility Inference
-topics: []
+topics:
+- '[[hard-problem-of-consciousness]]'
 ---
 
 The conceivability-possibility inference is the principle that if something can be coherently conceived, it is at least metaphysically possible. This seemingly innocent bridge from imagination to reality powers some of philosophy's most contested arguments—particularly in philosophy of mind, where [zombie arguments](/concepts/philosophical-zombies/) and the [knowledge argument](/concepts/knowledge-argument/) depend on inferring genuine metaphysical possibilities from acts of conceiving.
+
+The Unfinishable Map endorses this inference in its strongest form—ideal positive conceivability of fundamental conceptual separations—as evidentially significant for dualism. When sustained reflection reveals that consciousness can be coherently separated from physical structure, this gap is not a trick of imagination but genuine evidence about reality's structure.
 
 The inference matters because conceivability is epistemically accessible—we can investigate what we can and cannot imagine—while metaphysical possibility concerns the structure of reality itself, which may be hidden from direct inspection. If conceivability reliably tracks possibility, we gain an investigative tool. If it doesn't, major arguments collapse.
 
@@ -88,13 +94,25 @@ Could zombie conceivability be similar? We *think* we're conceiving of physical 
 
 **Response:** Chalmers' two-dimensional semantics is designed to address this. He distinguishes primary intensions (how terms pick out referents given incomplete information) from secondary intensions (how terms pick out referents given the actual world). Zombie conceivability operates at the primary level—and if consciousness is not part of the primary intension of "physical," then physicalism fails.
 
+This response is contested. Block and Stalnaker argue that two-dimensional semantics does not apply to phenomenal concepts the way Chalmers claims—that the primary intension of "consciousness" may itself be physically constituted, making the framework question-begging. The [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) represents physicalism's most sophisticated attempt to break the conceivability-possibility link specifically for phenomenal claims. Whether these responses succeed remains an active area of debate, though Chalmers' "master argument" (that any physicalist account of phenomenal concepts either relocates the [explanatory-gap](/concepts/explanatory-gap/) or fails to explain its persistence) poses a serious challenge to them.
+
 ### The Strength-Mismatch Objection
 
 **Problem:** Even if conceivability provides *some* evidence for possibility, it might not be strong enough to bear the argumentative weight placed on it.
 
-Philosophers have conceived many scenarios later proven impossible: Euclidean geometry in all scales (contradicted by relativity), deterministic physics (contradicted by quantum mechanics), absolute simultaneity (contradicted by special relativity). If expert conceivability has failed repeatedly in physics, why trust it in metaphysics?
+The history of science contains cases where expert conceivability proved misleading. For centuries, it seemed inconceivable that space could be non-Euclidean, that effects could precede causes at the quantum level, or that simultaneity could be relative. If sustained rational reflection has failed repeatedly for physical claims, why trust it for metaphysical ones?
 
-**Response:** Physics cases involve nomological possibility (what laws of nature allow), not metaphysical possibility (what reality's fundamental structure allows). The conceivability-possibility inference is most reliable when dealing with conceptual necessities—claims about whether one type of fact entails another—rather than empirical laws.
+**Response:** These cases require care. Some (non-Euclidean space, indeterministic physics) are scenarios that were initially *inconceivable* but turned out to be actual—conceivability failures that underestimated what is possible, not overestimated it. The zombie argument runs the other direction: it claims something *is* conceivable and therefore possible. The more relevant concern is cases where something seemed conceivable but proved impossible—and these are harder to find outside mathematics and logic.
+
+More fundamentally, the physics cases concern empirical discoveries about contingent laws of nature, not conceptual necessities about whether one type of fact entails another. The conceivability-possibility inference is most reliable when dealing with constitutive relationships—whether physical facts *constitute* or *entail* phenomenal facts—rather than with which empirical laws happen to hold.
+
+### The Cognitive Closure Objection
+
+**Problem:** Perhaps our conceivability faculties are reliable in general but *locally unreliable* for the mind-body case specifically. If [cognitive closure](/concepts/mysterianism/) prevents us from grasping the properties that connect consciousness to physical structure, we might conceive of zombies not because they are genuinely possible but because we lack the concepts needed to see *why they are impossible*.
+
+This is more targeted than general empiricist skepticism. It grants that conceivability-possibility reasoning works for mathematics, logic, and many metaphysical questions—but claims it fails precisely where consciousness meets physics, because that connection involves properties our cognitive architecture cannot represent.
+
+**Response:** The cognitive closure objection faces a dilemma. If we cannot represent the relevant properties at all, then we also cannot determine whether zombie conceivability fails—the objection becomes unfalsifiable. And if the objection applies specifically to consciousness, one needs an explanation of *why* consciousness is the exception. The most natural explanation—that consciousness involves something beyond physical structure—is precisely what the dualist claims. Still, cognitive closure remains a genuinely open possibility, and the Map acknowledges it as such.
 
 ## Modal Rationalism and Its Limits
 
@@ -104,7 +122,9 @@ The conceivability-possibility inference embodies a form of *modal rationalism*�
 
 **The empiricist skepticism:** Imagination is a cognitive capacity shaped by evolution and development. Why think it accurately maps metaphysical possibility rather than merely tracking what's familiar, useful, or psychologically accessible?
 
-This debate is unresolvable without begging the question. Modal rationalists point to successful cases (mathematical and logical necessity discovered through pure reason); empiricists point to failures (geometrical and physical necessities that intuition got wrong).
+Modal rationalists point to successful cases (mathematical and logical necessity discovered through pure reason); empiricists point to failures (physical necessities that intuition missed). Neither side can resolve the dispute without presupposing something about the reliability of rational reflection.
+
+However, consciousness conceivability may have special epistemic status. Unlike conceiving of non-Euclidean geometry or faster-than-light travel—where we lack direct access to the subject matter—we have first-person acquaintance with what consciousness *is*. When we conceive of a physical duplicate lacking consciousness, we are not manipulating abstract symbols but imagining the absence of something we know intimately through [introspection](/concepts/introspection/). This gives zombie conceivability a different evidential weight from conceivability claims about domains we understand only theoretically. As the [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) highlights, the very persistence and universality of the conceivability intuition is itself a datum requiring explanation.
 
 ## Relation to Site Perspective
 
@@ -113,6 +133,8 @@ The Unfinishable Map's [first tenet](/tenets/)—[Dualism](/tenets/#dualism)—d
 If this inference is fundamentally unreliable, dualist arguments lose significant support. The Map's position thus requires at least *qualified* defense of the inference.
 
 **The qualification:** The Map endorses the inference for *ideal positive conceivability* of fundamental conceptual separations, not for all conceivable scenarios. When we can coherently and completely imagine consciousness coming apart from physical structure, this reveals that consciousness is not conceptually entailed by physics—which is precisely what dualism claims.
+
+The inference also supports the Map's [Bidirectional Interaction](/tenets/#bidirectional) tenet. If consciousness can be coherently conceived as separate from physical structure, this creates conceptual room for it to be causally efficacious rather than merely epiphenomenal—the conceivability of [interactionist-dualism](/concepts/interactionist-dualism/) is a prerequisite for taking it seriously as a metaphysical option.
 
 This aligns with the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet. The parsimony objection to dualism often assumes that conceivability arguments are mere "intuitions" to be overridden by simplicity. But if conceivability provides genuine epistemic access to modal structure, then the apparent simplicity of physicalism might reflect ignorance rather than insight—we fail to grasp the additional facts about consciousness because we're looking only at physical structure.
 
@@ -125,12 +147,19 @@ Both moves carry costs. The first requires demonstrating where zombie conceiving
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The most famous application of conceivability-possibility reasoning
 - [knowledge-argument](/concepts/knowledge-argument/) — Another argument exploiting conceivability of phenomenal-physical separation
 - [arguments-for-dualism](/concepts/arguments-for-dualism/) — How conceivability arguments fit into the broader case for dualism
+- [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience that conceivability arguments exploit
+- [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Physicalism's most sophisticated response to conceivability-based arguments
+- [mysterianism](/concepts/mysterianism/) — Cognitive closure as a targeted challenge to conceivability reasoning about consciousness
 - [tenets](/tenets/) — The foundational commitments that conceivability arguments support
 
 ## References
 
-Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In T. Gendler & J. Hawthorne (eds.), *Conceivability and Possibility*. Oxford University Press.
+Block, N. & Stalnaker, R. (1999). "Conceptual Analysis, Dualism, and the Explanatory Gap." *Philosophical Review*, 108(1), 1-46.
 
 Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 
+Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In T. Gendler & J. Hawthorne (eds.), *Conceivability and Possibility*. Oxford University Press.
+
 Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
+
+Yablo, S. (1993). "Is Conceivability a Guide to Possibility?" *Philosophy and Phenomenological Research*, 53(1), 1-42.
