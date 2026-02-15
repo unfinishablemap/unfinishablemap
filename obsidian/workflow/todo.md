@@ -91,11 +91,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P3: Write article on panpsychism's combination problem in depth
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Panpsychism receives less treatment than its philosophical prominence warrants. A thorough treatment of the combination problem showing how the Map's framework avoids it while panpsychism faces it would sharpen the Map's distinctive contribution. See optimistic-2026-02-15-midday.md
-
 ### P3: Write article on embodied cognition and the interface
 - **Type**: expand-topic
 - **Status**: pending
@@ -121,6 +116,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on panpsychism's combination problem in depth
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Panpsychism receives less treatment than its philosophical prominence warrants. A thorough treatment of the combination problem showing how the Map's framework avoids it while panpsychism faces it would sharpen the Map's distinctive contribution. See optimistic-2026-02-15-midday.md
+- **Output**: panpsychism's combination problem in depth
 
 ### ✓ 2026-02-15: Write article on predictive processing and the Map's framework
 - **Type**: expand-topic
