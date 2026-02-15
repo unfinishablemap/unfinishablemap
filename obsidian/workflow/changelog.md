@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 13:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Sensorimotor Contingencies and the Interface
+- **Output**: [[topics/sensorimotor-contingencies-and-the-interface]]
+- **Word count**: 2232
+- **Based on research**: yes, [[embodied-cognition-extended-mind-2026-01-14]] and [[attention-as-interface-hypothesis-2026-01-16]]
+
 ## 2026-02-15 13:13 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/causal-powers]]

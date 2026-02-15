@@ -91,11 +91,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P3: Write article on embodied cognition and the interface
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Merleau-Ponty's body-subject, sensorimotor contingencies, and the lived body challenge both computationalism and substance dualism. The Map should engage more thoroughly with embodied cognition's implications for the interface model. See optimistic-2026-02-15-midday.md
-
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -116,6 +111,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on embodied cognition and the interface
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Merleau-Ponty's body-subject, sensorimotor contingencies, and the lived body challenge both computationalism and substance dualism. The Map should engage more thoroughly with embodied cognition's implications for the interface model. See optimistic-2026-02-15-midday.md
+- **Output**: embodied cognition and the interface
 
 ### ✓ 2026-02-15: Write article on panpsychism's combination problem in depth
 - **Type**: expand-topic
