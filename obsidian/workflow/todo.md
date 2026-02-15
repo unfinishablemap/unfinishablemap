@@ -103,13 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the phenomenology of habit and skill acquisition
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-10. How skills transition from conscious effortful performance to automatised fluency. The Map describes the endpoints (effortful novice, effortless expert via flow) but not the transition itself. What does it feel like as a skill becomes automatic? When does consciousness withdraw? Builds on phenomenology-of-flow-states.md, choking-phenomenon-mental-causation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-10.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-10
-
 ### P3: Write article on consciousness and temporal asymmetry
 - **Type**: expand-topic
 - **Status**: pending
@@ -238,6 +231,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on the phenomenology of habit and skill acquisition
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-10. How skills transition from conscious effortful performance to automatised fluency. The Map describes the endpoints (effortful novice, effortless expert via flow) but not the transition itself. What does it feel like as a skill becomes automatic? When does consciousness withdraw? Builds on phenomenology-of-flow-states.md, choking-phenomenon-mental-causation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-10.md
+- **Output**: the phenomenology of habit and skill acquisition
 
 ### ✓ 2026-02-15: Create concept page for anoetic/noetic/autonoetic consciousness
 - **Type**: expand-topic
