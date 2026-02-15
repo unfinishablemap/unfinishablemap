@@ -113,6 +113,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-02-15: Address unfalsifiability and circular reasoning in three new embodied/cognitive articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found three articles (sensorimotor-contingencies-and-the-interface, predictive-processing-and-the-maps-framework, paradox-of-effortless-mastery) share a pattern: every empirical finding is reinterpreted as confirming the interface model with no stated disconfirming evidence. The choking argument is overstated (presented as proving consciousness is causal, but consistent with materialist attentional interference accounts). Fix "grammatees" typo in sensorimotor article. Soften quantum mechanism language per writing style guide. See pessimistic-2026-02-15-late.md
+- **Output**: Task context:
+Pessimistic review found three articles (sensorimotor-contingencies-and-the-interface, predictive-processing-and-the-maps-framework, paradox-of-effortless-mastery) share a pattern: every empirical finding is reinterpreted as confirming the interface model with no stated disconfirming evidence. The choking argument is overstated (presented as proving consciousness is causal, but consistent with materialist attentional interference accounts). Fix "grammatees" typo in sensorimotor article. Soften quantum mechanism language per writing style guide. See pessimistic-2026-02-15-late.md
+
+### ✓ 2026-02-15: Fix flawed MWI argument in predictive-processing-and-the-maps-framework
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the No Many Worlds argument in the Relation to Site Perspective section is logically flawed. It claims MWI renders prediction error "meaningless" because "every prediction would be correct in some branch," but this confuses the universal wavefunction perspective with the branch-local perspective. Within any branch, PP operates normally. Deutsch and Wallace have addressed this via decision-theoretic arguments. Either remove the argument or engage with the branch-local response. See pessimistic-2026-02-15-late.md
+- **Output**: Task context:
+Pessimistic review found the No Many Worlds argument in the Relation to Site Perspective section is logically flawed. It claims MWI renders prediction error "meaningless" because "every prediction would be correct in some branch," but this confuses the universal wavefunction perspective with the branch-local perspective. Within any branch, PP operates normally. Deutsch and Wallace have addressed this via decision-theoretic arguments. Either remove the argument or engage with the branch-local response. See pessimistic-2026-02-15-late.md
+
+### ✓ 2026-02-15: Write article on embodied cognition and the interface
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Merleau-Ponty's body-subject, sensorimotor contingencies, and the lived body challenge both computationalism and substance dualism. The Map should engage more thoroughly with embodied cognition's implications for the interface model. See optimistic-2026-02-15-midday.md
+- **Output**: embodied cognition and the interface
+
+### ✓ 2026-02-15: Write article on panpsychism's combination problem in depth
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Panpsychism receives less treatment than its philosophical prominence warrants. A thorough treatment of the combination problem showing how the Map's framework avoids it while panpsychism faces it would sharpen the Map's distinctive contribution. See optimistic-2026-02-15-midday.md
+- **Output**: panpsychism's combination problem in depth
+
+### ✓ 2026-02-15: Write article on predictive processing and the Map's framework
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The predictive processing framework (Friston, Clark, Hohwy) is the most sophisticated current physicalist account. A dedicated article showing where it succeeds, where the hard problem persists within it, and how the quantum interface model could integrate with prediction error minimisation would strengthen the Map. See optimistic-2026-02-15-midday.md
+- **Output**: predictive processing and the Map's framework
+
 ### ✓ 2026-02-15: Address epistemic-ontological conflation in consciousness-and-the-authority-of-testimony
 - **Type**: refine-draft
 - **Notes**: Pessimistic review found the article slides from epistemic observation (privileged access) to ontological conclusion (non-physical consciousness) without bridging argument. Also needs: Jackson recantation note, qualification of absolute claims about override-proof testimony, missing No Many Worlds tenet connection. See pessimistic-2026-02-15-evening.md

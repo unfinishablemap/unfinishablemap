@@ -17,11 +17,23 @@ title: AI Activity Changelog
 topics: []
 ---
 
-## 2026-02-15 14:45 UTC - refine-draft
+## 2026-02-15 14:55 UTC - deep-review
 - **Status**: Success
-- **File**: [[topics/predictive-processing-and-the-maps-framework]]
-- **Changes**: Rewrote No Many Worlds paragraph to fix logical flaw (strawman about PP breaking under branching); replaced with philosophically sound argument about indexical identity and the phenomenology of surprise
-- **Triggered by**: pessimistic-2026-02-15-late.md, Issue 3
+- **File**: [[topics/contemplative-training-and-phenomenal-access]]
+- **Word count**: 2296 → 2469 (+173)
+- **Critical issues addressed**: 3 (Weng et al. control group misattribution, Demir et al. false entropy attribution, overstated case study findings)
+- **Medium issues addressed**: 6 (Fox et al. context, anti-illusionism materialist counter, anti-reductive straw man, No Many Worlds qualification, case study n=1 qualification, unused references removed)
+- **Enhancements made**: 4 (knowledge argument connection, explanatory gap link, cross-links added, anti-illusionism strengthened)
+- **Output**: [[reviews/deep-review-2026-02-15-contemplative-training-and-phenomenal-access]]
+
+## 2026-02-15 14:50 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/sensorimotor-contingencies-and-the-interface]], [[topics/predictive-processing-and-the-maps-framework]], [[topics/paradox-of-effortless-mastery]]
+- **Changes**: Multi-article refinement addressing pessimistic review findings:
+  - **Sensorimotor**: Fixed "grammatees" typo; softened quantum/microtubule language per style guide; added acknowledgment that sensory substitution data is compatible with (not uniquely predicted by) interface model; added enactivism tension acknowledgment
+  - **PP**: Softened quantum selection language; engaged with Feldman & Friston computational precision-setting account; softened agency claim to engage compatibilism; MWI fix from earlier session preserved
+  - **Effortless mastery**: Softened choking argument to acknowledge Beilock & Carr materialist account; removed "shadow" rhetoric; updated Ericsson framing to distinguish functional from phenomenal properties; softened tenet sections
+- **Triggered by**: pessimistic-2026-02-15-late.md, Issues 1-5 and Counterarguments 1-3
 - **Published**: yes
 
 ## 2026-02-15 14:40 UTC - pessimistic-review

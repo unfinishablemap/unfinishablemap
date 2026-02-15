@@ -18,6 +18,98 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 14:55 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-training-and-phenomenal-access](/topics/contemplative-training-and-phenomenal-access/)
+- **Word count**: 2296 → 2469 (+173)
+- **Critical issues addressed**: 3 (Weng et al. control group misattribution, Demir et al. false entropy attribution, overstated case study findings)
+- **Medium issues addressed**: 6 (Fox et al. context, anti-illusionism materialist counter, anti-reductive straw man, No Many Worlds qualification, case study n=1 qualification, unused references removed)
+- **Enhancements made**: 4 (knowledge argument connection, explanatory gap link, cross-links added, anti-illusionism strengthened)
+- **Output**: [deep-review-2026-02-15-contemplative-training-and-phenomenal-access](/reviews/deep-review-2026-02-15-contemplative-training-and-phenomenal-access/)
+
+## 2026-02-15 14:50 UTC - refine-draft
+- **Status**: Success
+- **Files**: [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/), [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/), [paradox-of-effortless-mastery](/topics/paradox-of-effortless-mastery/)
+- **Changes**: Multi-article refinement addressing pessimistic review findings:
+  - **Sensorimotor**: Fixed "grammatees" typo; softened quantum/microtubule language per style guide; added acknowledgment that sensory substitution data is compatible with (not uniquely predicted by) interface model; added enactivism tension acknowledgment
+  - **PP**: Softened quantum selection language; engaged with Feldman & Friston computational precision-setting account; softened agency claim to engage compatibilism; MWI fix from earlier session preserved
+  - **Effortless mastery**: Softened choking argument to acknowledge Beilock & Carr materialist account; removed "shadow" rhetoric; updated Ericsson framing to distinguish functional from phenomenal properties; softened tenet sections
+- **Triggered by**: pessimistic-2026-02-15-late.md, Issues 1-5 and Counterarguments 1-3
+- **Published**: yes
+
+## 2026-02-15 14:40 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: sensorimotor-contingencies-and-the-interface.md, predictive-processing-and-the-maps-framework.md, paradox-of-effortless-mastery.md
+- **Output**: [pessimistic-2026-02-15-late](/reviews/pessimistic-2026-02-15-late/)
+
+## 2026-02-15 14:24 UTC - deep-review
+- **Status**: Success
+- **File**: [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/)
+- **Word count**: 1940 → 1959 (+19)
+- **Critical issues addressed**: 1 (misattributed author name: Peter → David Braddon-Mitchell)
+- **Medium issues addressed**: 2 (removed unused reference, added cross-links)
+- **Enhancements made**: 3 (cross-links to consciousness-and-temporal-asymmetry, retrocausality, apex synthesis)
+- **Output**: [deep-review-2026-02-15-growing-block-universe-and-consciousness](/reviews/deep-review-2026-02-15-growing-block-universe-and-consciousness/)
+
+## 2026-02-15 13:58 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Binding Void (unity of consciousness)
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-binding-void-2026-02-15](/research/voids-binding-void-2026-02-15/)
+- **Key finding**: Phenomenal unity is introspectively transparent in its existence but completely opaque in its mechanism — multiple independent philosophical analyses converge on treating co-consciousness as primitive and unanalysable, suggesting a genuine cognitive boundary rather than merely an unsolved problem.
+
+## 2026-02-15 13:45 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-normativity](/concepts/phenomenal-normativity/)
+- **Word count**: 2131 → 2476 (+345)
+- **Critical issues addressed**: 3 (unsupported asymmetry claim, circular projection response, unused reference)
+- **Medium issues addressed**: 3 (oversimplified Buddhist phenomenology, missing genealogical debunking, missing cross-links)
+- **Enhancements made**: 4 new cross-links, balanced contemplative evidence, new objection/response section
+- **Output**: [deep-review-2026-02-15-phenomenal-normativity](/reviews/deep-review-2026-02-15-phenomenal-normativity/)
+
+## 2026-02-15 13:26 UTC - coalesce
+- **Status**: Success
+- **Sources**: [idealism](/concepts/idealism/), [analytic-idealism](/analytic-idealism/)
+- **Target**: [idealism](/concepts/idealism/)
+- **Archived**: archive/concepts/analytic-idealism.md
+- **References updated**: 5 files (materialism, philosophy-of-mind, panpsychism, hard-problem-of-consciousness, panpsychisms-combination-problem)
+- **References to review**: 0 (3 review files left as historical records)
+
+## 2026-02-15 13:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Sensorimotor Contingencies and the Interface
+- **Output**: [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
+- **Word count**: 2232
+- **Based on research**: yes, [embodied-cognition-extended-mind-2026-01-14](/research/embodied-cognition-extended-mind-2026-01-14/) and [attention-as-interface-hypothesis-2026-01-16](/research/attention-as-interface-hypothesis-2026-01-16/)
+
+## 2026-02-15 13:13 UTC - deep-review
+- **Status**: Success
+- **File**: [causal-powers](/concepts/causal-powers/)
+- **Word count**: 1189 → 1424 (+235)
+- **Critical issues addressed**: 3 (broken wikilinks ×2, missing site name introduction)
+- **Medium issues addressed**: 5 (attribution fix, Molière objection, decoherence flag, neutral monism engagement, empirical grounding)
+- **Enhancements made**: 4 (expanded cross-linking, Lewis citation, agent-causation connection, description rewrite)
+- **Output**: [deep-review-2026-02-15-causal-powers](/reviews/deep-review-2026-02-15-causal-powers/)
+
+## 2026-02-15 13:08 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Panpsychism's Combination Problem in Depth
+- **Output**: [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/)
+- **Word count**: 2055
+- **Based on research**: yes, [panpsychism-consciousness-2026-01-08](/research/panpsychism-consciousness-2026-01-08/)
+
+## 2026-02-15 13:03 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Predictive Processing and the Map's Framework
+- **Output**: [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)
+- **Word count**: 1750
+- **Based on research**: yes, [predictive-processing-consciousness-2026-01-14](/research/predictive-processing-consciousness-2026-01-14/)
+
+## 2026-02-15 12:57 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full site — 152 topics, 181 concepts, 1 tenets page, apex articles, voids articles
+- **Output**: [optimistic-2026-02-15-midday](/reviews/optimistic-2026-02-15-midday/)
+
 ## 2026-02-15 12:39 UTC - deep-review
 - **Status**: Success
 - **File**: [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/)

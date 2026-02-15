@@ -1,24 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-02-11 08:26:00+00:00
+ai_modified: 2026-02-15 13:13:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
 - '[[mental-causation]]'
-- '[[dispositions]]'
-- '[[powers-metaphysics]]'
+- '[[causal-closure]]'
+- '[[agent-causation]]'
 created: 2026-02-11
-date: &id001 2026-02-11
-description: Exploring the metaphysical nature of causal powers through rigorous philosophical
-  analysis, iterative refinement, and collaborative human-AI dialogue.
+date: &id001 2026-02-15
+description: Causal powers are intrinsic capacities of properties to produce effects.
+  Powers realism grounds the Map's claim that consciousness genuinely influences physical
+  processes.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-15 13:13:00+00:00
 modified: *id001
 related_articles:
 - '[[interactionist-dualism]]'
 - '[[downward-causation]]'
+- '[[objections-to-interactionism]]'
+- '[[free-will]]'
 title: Causal Powers
 topics:
 - '[[consciousness-and-causal-powers]]'
@@ -36,17 +40,17 @@ One central debate distinguishes two kinds of properties:
 
 **Causal powers** (or dispositional properties) are essentially directed toward their manifestations. Fragility isn't just "whatever breaks under pressure"—it's the intrinsic tendency *to* break under pressure. The power contains reference to its effect within its nature. Solubility is the disposition to dissolve in water; charge is the power to attract or repel other charged objects.
 
-**Powers realism** holds that at least some fundamental properties are dispositional—causal powers all the way down. **Categoricalism** holds that fundamental properties are categorical, with causal structure imposed by laws. **Neutral monism about properties** holds that fundamental properties are neither purely categorical nor purely dispositional but have both aspects.
+**Powers realism** holds that at least some fundamental properties are dispositional—causal powers all the way down. **Categoricalism** holds that fundamental properties are categorical, with causal structure imposed by laws. **Neutral monism about properties** (or the identity theory of properties) holds that fundamental properties are neither purely categorical nor purely dispositional but have both aspects—a qualitative nature and a causal role simultaneously. While this view has appeal, the Map favours powers realism because the mind-body problem requires that phenomenal properties make a genuine causal contribution: the question is not whether consciousness has a qualitative character (it obviously does) but whether that character comes with irreducible causal power.
 
-This debate matters for the mind-body problem. If consciousness has causal powers, are those powers fundamental dispositions (irreducible capacities to affect neural processes) or derivative patterns grounded in more basic categorical facts? The Map's commitment to [interactionist-dualism](/concepts/interactionist-dualism/) suggests treating phenomenal states as possessing genuine causal powers rather than merely accompanying physical dispositions.
+This debate matters for the mind-body problem. If consciousness has causal powers, are those powers fundamental dispositions (irreducible capacities to affect neural processes) or derivative patterns grounded in more basic categorical facts? The Unfinishable Map's commitment to [interactionist-dualism](/concepts/interactionist-dualism/) suggests treating phenomenal states as possessing genuine causal powers rather than merely accompanying physical dispositions.
 
 ## Manifestation and Triggering Conditions
 
 Causal powers typically require **triggering conditions** to manifest their effects. Salt is soluble—it has the power to dissolve—but this power manifests only when salt is placed in water. The power exists even when unmanifested; it's a standing capacity, not a one-time event.
 
-This distinguishes powers from **occurrent events**. The actual dissolving is an event; the solubility is a power. Consciousness might possess the power to bias quantum outcomes even when not actively exercising that power—the capacity is present as a feature of phenomenal states, manifesting when neural systems reach quantum branch points.
+This distinguishes powers from **occurrent events**. The actual dissolving is an event; the solubility is a power. Consciousness might possess the power to bias quantum outcomes even when not actively exercising that power—the capacity is present as a feature of phenomenal states, manifesting when neural systems reach quantum branch points. Whether such branch points are available in warm biological systems is contested (see [objections-to-interactionism](/concepts/objections-to-interactionism/) on the decoherence objection), but the conceptual point stands: powers can exist unmanifested, awaiting appropriate conditions.
 
-**Conditional analyses** attempt to reduce powers to counterfactual conditionals: "x is soluble" means "if x were placed in water, x would dissolve." But such analyses face the **finkish disposition problem**: imagine a sorcerer who removes salt's solubility just before it would manifest (Martin 1994). The conditional is false (the salt wouldn't dissolve), yet the power seems present until the moment of removal. Powers realists conclude that dispositions are not reducible to conditionals—they're categorical facts about what properties *can* do, not just summaries of what *would* happen.
+**Conditional analyses** attempt to reduce powers to counterfactual conditionals: "x is soluble" means "if x were placed in water, x would dissolve." But such analyses face what Lewis (1997) called the **finkish disposition problem**: imagine a sorcerer who removes salt's solubility just before it would manifest (Martin 1994 introduced the counterexample). The conditional is false (the salt wouldn't dissolve), yet the power seems present until the moment of removal. Powers realists conclude that dispositions are not reducible to conditionals—they're categorical facts about what properties *can* do, not just summaries of what *would* happen.
 
 ## Powers and Laws of Nature
 
@@ -76,20 +80,26 @@ The [minimal quantum interaction tenet](/tenets/#minimal-quantum-interaction) sp
 
 The dispositional essentialist framework fits the Map's approach: if phenomenal properties have essential dispositional natures, then consciousness necessarily possesses certain causal powers. The [psychophysical-laws](/concepts/psychophysical-laws/) governing mental-physical interaction would express the essential natures of phenomenal properties rather than being contingent add-ons. This grounds the causal efficacy of consciousness in the intrinsic nature of experience itself.
 
-For application of causal powers to consciousness specifically, see [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/). For the broader question of mental causation, see [mental-causation](/concepts/mental-causation/) and [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/).
+A fair objection: does attributing "causal powers" to consciousness genuinely explain anything, or merely redescribe the claim that consciousness affects the brain? For physical properties like charge, powers talk is substantive because the powers are empirically characterised—Coulomb's law specifies exactly how charge behaves. Consciousness's powers lack this precision. The Map acknowledges this gap. The powers framework does not by itself explain *how* consciousness biases quantum outcomes; it provides the metaphysical category under which such influence falls (see [causal-closure](/concepts/causal-closure/) on how quantum indeterminacy makes room for this). The empirical characterisation of mental causal powers remains an open challenge—one that the Map addresses through the constraints developed in [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/).
+
+For the broader question of mental causation, see [mental-causation](/concepts/mental-causation/) and [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/). For how causal powers ground agent-causal accounts, see [agent-causation](/concepts/agent-causation/).
 
 ## Further Reading
 
-- [dispositions](/dispositions/) — Properties defined by what they would do under certain conditions
-- [powers-metaphysics](/powers-metaphysics/) — The metaphysical framework treating powers as fundamental
+- [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — How consciousness exercises its causal powers, with constraints and examples
 - [mental-causation](/concepts/mental-causation/) — How mental states cause physical events
 - [downward-causation](/concepts/downward-causation/) — Causal influence from higher to lower levels
+- [causal-closure](/concepts/causal-closure/) — Why physical causal closure is not absolute at quantum indeterminacies
+- [agent-causation](/concepts/agent-causation/) — Substance causation and the metaphysical foundation for free will
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The view that mind and body causally interact
+- [objections-to-interactionism](/concepts/objections-to-interactionism/) — Challenges to interactionism and responses
 
 ## References
 
 Bird, A. (2007). *Nature's Metaphysics: Laws and Properties*. Oxford University Press.
 
 Ellis, B. (2001). *Scientific Essentialism*. Cambridge University Press.
+
+Lewis, D. (1997). "Finkish Dispositions." *The Philosophical Quarterly* 47(187): 143-158.
 
 Martin, C.B. (1994). "Dispositions and Conditionals." *The Philosophical Quarterly* 44(174): 1-8.

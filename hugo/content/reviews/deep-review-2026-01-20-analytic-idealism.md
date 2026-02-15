@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Analytic Idealism](/concepts/analytic-idealism/)
+**Article**: [Analytic Idealism](/analytic-idealism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
