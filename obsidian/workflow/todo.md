@@ -103,13 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the placebo effect and mental causation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The placebo effect provides one of the most widely replicated demonstrations of mind-body causation. Unlike motor imagery (where physicalists can argue neural rehearsal does the work), placebos show that propositional attitudes—beliefs about treatment—produce specific physiological changes. Harder for epiphenomenalism to explain: semantic content determines which system responds. Builds on choking-phenomenon-mental-causation.md, mental-imagery.md, psychophysical-laws.md. See optimistic-2026-02-09.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-09
-
 ### P3: Write article on Elisabeth's contemporaries and the interaction debate
 - **Type**: expand-topic
 - **Status**: pending
@@ -301,6 +294,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on the placebo effect and mental causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The placebo effect provides one of the most widely replicated demonstrations of mind-body causation. Unlike motor imagery (where physicalists can argue neural rehearsal does the work), placebos show that propositional attitudes—beliefs about treatment—produce specific physiological changes. Harder for epiphenomenalism to explain: semantic content determines which system responds. Builds on choking-phenomenon-mental-causation.md, mental-imagery.md, psychophysical-laws.md. See optimistic-2026-02-09.md
+- **Output**: the placebo effect and mental causation
 
 ### ✓ 2026-02-15: Create concept page for moral-phenomenology
 - **Type**: expand-topic
