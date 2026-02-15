@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 03:20 UTC - deep-review
+- **Status**: Success
+- **File**: [[acquaintance-knowledge]]
+- **Word count**: 1557 → 1624 (+67)
+- **Critical issues addressed**: 2 (misattribution of symbol grounding problem to Yampolskiy→Harnad; missing McDowell citation)
+- **Medium issues addressed**: 2 (Dennett's objection oversimplified; weak "persistence" argument)
+- **Enhancements made**: 3 (rewrote closing paragraph, corrected attribution, added citations)
+- **Output**: [[reviews/deep-review-2026-02-15-acquaintance-knowledge]]
+
 ## 2026-02-15 03:15 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Interface Friction
