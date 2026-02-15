@@ -115,15 +115,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the developmental trajectory of the interface across the lifespan
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-15 (evening). How does interface quality change across the lifespan? What happens in aging and neurodegeneration from a dualist interface perspective? Distinguishing interface decline from consciousness decline. Builds on childhood-development-and-the-interface.md, attention-as-interface.md, consciousness-evolution-problem.md. See optimistic-2026-02-15-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on the developmental trajectory of the interface across the lifespan
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15 (evening). How does interface quality change across the lifespan? What happens in aging and neurodegeneration from a dualist interface perspective? Distinguishing interface decline from consciousness decline. Builds on childhood-development-and-the-interface.md, attention-as-interface.md, consciousness-evolution-problem.md. See optimistic-2026-02-15-evening.md
+- **Output**: the developmental trajectory of the interface across the lifespan
 
 ### ✓ 2026-02-15: Write article on cross-cultural phenomenology of agency
 - **Type**: expand-topic
