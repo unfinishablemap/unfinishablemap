@@ -97,11 +97,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P3: Write article on emotion as evidence for dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. A dedicated synthesis of how emotional consciousness—valence, mood, affective tone—resists functionalist explanation. The felt badness of pain and goodness of joy are among the strongest intuitive supports for irreducibility. Builds on emotional-consciousness.md, phenomenology-of-moral-experience.md, phenomenal-value-realism.md. See optimistic-2026-02-15-morning.md
-
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -122,6 +117,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on emotion as evidence for dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. A dedicated synthesis of how emotional consciousness—valence, mood, affective tone—resists functionalist explanation. The felt badness of pain and goodness of joy are among the strongest intuitive supports for irreducibility. Builds on emotional-consciousness.md, phenomenology-of-moral-experience.md, phenomenal-value-realism.md. See optimistic-2026-02-15-morning.md
+- **Output**: emotion as evidence for dualism
 
 ### ✓ 2026-02-15: Create concept page for phenomenal intentionality
 - **Type**: expand-topic
