@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 02:11 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Agency Verification Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[research/voids-agency-verification-void-2026-02-15]]
+- **Key finding**: Consciousness cannot verify its own causal powers — the verification problem is symmetric, with both interactionism and epiphenomenalism facing the same structural barrier from opposite directions
+
 ## 2026-02-15 02:06 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Protention
