@@ -103,13 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and social cognition
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. How consciousness enables understanding of other minds—theory of mind, empathy, joint attention—and what this reveals about consciousness's nature. The baseline cognition work suggests great apes have limited theory of mind; exploring why could strengthen the Map's case for bidirectional interaction. See optimistic-2026-02-08.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-08
-
 ### P3: Create concept page for moral-phenomenology
 - **Type**: expand-topic
 - **Status**: pending
@@ -294,6 +287,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on consciousness and social cognition
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. How consciousness enables understanding of other minds—theory of mind, empathy, joint attention—and what this reveals about consciousness's nature. The baseline cognition work suggests great apes have limited theory of mind; exploring why could strengthen the Map's case for bidirectional interaction. See optimistic-2026-02-08.md
+- **Output**: consciousness and social cognition
 
 ### ✓ 2026-02-15: Strengthen cross-cultural convergence argument in topics/the-hard-problem-in-non-western-philosophy.md
 - **Type**: refine-draft
