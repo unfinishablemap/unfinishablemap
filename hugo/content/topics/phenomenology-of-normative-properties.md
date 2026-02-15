@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-02-13 04:34:00+00:00
+ai_modified: 2026-02-15 18:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,13 +13,13 @@ concepts:
 - '[[cognitive-phenomenology]]'
 - '[[introspection]]'
 created: 2026-02-13
-date: &id001 2026-02-13
-description: How normative properties—moral, epistemic, aesthetic, prudential—present
-  themselves in conscious experience, and what their shared phenomenal structure reveals
-  about consciousness and value.
+date: &id001 2026-02-15
+description: The shared phenomenal structure of moral, epistemic, aesthetic, and prudential
+  demands reveals normativity as intrinsic to consciousness.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-15 18:31:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -28,6 +28,8 @@ related_articles:
 - '[[phenomenal-depth]]'
 - '[[contemplative-evidence-for-consciousness-theories]]'
 - '[[aesthetic-dimension-of-consciousness]]'
+- '[[consciousness-and-normative-authority]]'
+- '[[free-will]]'
 title: The Phenomenology of Normative Properties
 topics:
 - '[[phenomenology-of-moral-experience]]'
@@ -42,7 +44,7 @@ Normative properties—wrongness, rational compellingness, beauty, prudential we
 
 [Moral phenomenology](/topics/phenomenology-of-moral-experience/) has received the most attention. Witnessing cruelty presents wrongness as a feature of the situation—immediate, unbidden, with motivational force. The experience carries urgency: wrongness demands response. Guilt, obligation, and moral admiration each have their own phenomenal textures, explored in detail elsewhere on the Map.
 
-What matters here is that moral normativity occupies a specific region of phenomenal space. It has characteristic warmth or heat—moral outrage burns, compassion warms, guilt gnaws. It is typically other-directed: moral demands concern what one owes to others or what is owed to one. And it carries a particular weight that resists being traded against non-moral considerations. The person who says "I know it's wrong, but it's convenient" acknowledges the moral demand even while overriding it.
+What matters here is that moral normativity occupies a specific region of phenomenal space. It has characteristic warmth or heat—its [hedonic valence](/concepts/valence/) is distinctive among normative experiences. Moral outrage burns, compassion warms, guilt gnaws. It is typically other-directed: moral demands concern what one owes to others or what is owed to one. And it carries a particular weight that resists being traded against non-moral considerations. The person who says "I know it's wrong, but it's convenient" acknowledges the moral demand even while overriding it.
 
 ### Epistemic Normativity
 
@@ -64,7 +66,7 @@ Aesthetic experience also displays what Kant called disinterestedness—a qualit
 
 Prudential normativity—the demands of one's own wellbeing—is phenomenologically distinct from the other three. The pull of self-interest has a gravitational quality: familiar, constant, pulling toward comfort and away from threat. It lacks the urgency of moral demands, the rigidity of epistemic demands, and the invitational quality of aesthetic demands.
 
-What prudential normativity has instead is intimacy. It concerns *this* body, *this* life, *this* future. Its phenomenal character is suffused with indexicality—the felt sense that one's own wellbeing matters because it is *one's own*. When moral and prudential demands conflict (risking safety to help a stranger), the conflict registers as a pull between two phenomenally distinct normative forces: the moral demand outward and the prudential demand inward.
+What prudential normativity has instead is intimacy. It concerns *this* body, *this* life, *this* future. Its phenomenal character is suffused with indexicality—the felt sense that one's own wellbeing matters because it is *one's own*. When moral and prudential demands conflict (risking safety to help a stranger), the conflict registers as a pull between two phenomenally distinct normative forces: the moral demand outward and the prudential demand inward. Such conflicts—where the agent must resolve competing normative demands through effort—are central to the [phenomenology of choice](/concepts/phenomenology-of-choice/) and to accounts of [free will](/topics/free-will/) that take genuine normative conflict as the site of self-forming action.
 
 ## The Shared Phenomenal Structure
 
@@ -90,7 +92,7 @@ Normative properties present themselves as admitting of degrees. Some wrongs are
 
 ### Against Domain-Specific Accounts
 
-If normativity were merely projected onto experience, one would expect each domain to feel normative for different reasons—moral norms because of emotional conditioning, epistemic norms because of cognitive habits, aesthetic norms because of cultural training. The shared phenomenal architecture is surprising on projectivist accounts. Why would independent projection mechanisms converge on the same demand-character, the same resistance to preference, the same gradedness?
+If normativity were merely projected onto experience, one would expect each domain to feel normative for different reasons—moral norms because of emotional conditioning, epistemic norms because of cognitive habits, aesthetic norms because of cultural training. Sentimentalists like Prinz (2007) argue that moral emotions are culturally constructed projections, and functionalists hold that "demand character" is simply the functional role of certain mental states in guiding behaviour rather than an irreducible phenomenal property. But the shared phenomenal architecture is surprising on both accounts. Why would independent projection mechanisms—or independent functional circuits—converge on the same demand-character, the same resistance to preference, the same gradedness across four domains with different evolutionary histories and cultural contexts?
 
 [Phenomenal normativity](/concepts/phenomenal-normativity/) offers a simpler explanation: normativity is built into the structure of consciousness itself. Different normative domains tap into a single underlying feature—the capacity of experience to present its objects as mattering. Moral, epistemic, aesthetic, and prudential normativity are variations on this theme, differing in content and affective tone but sharing a fundamental phenomenal structure.
 
@@ -104,15 +106,15 @@ This parallels the argument from [phenomenal-consciousness](/concepts/phenomenal
 
 If normativity is intrinsic to consciousness, and consciousness is irreducible to physical processes, then normativity is equally irreducible. Physical descriptions of brain states can capture correlates of normative experience—neural activation patterns during moral judgement, for instance—but they cannot capture the demand character itself. No description of neural firing patterns contains within it the felt pull of obligation or the phenomenal compellingness of valid inference.
 
-This extends the [explanatory-gap](/concepts/explanatory-gap/) from phenomenal consciousness to normative consciousness. Just as explaining *why* there is something it is like to see red remains beyond physical description, explaining *why* valid arguments feel compelling or injustice feels wrong lies beyond what neural description can deliver.
+This extends the [explanatory gap](/concepts/explanatory-gap/) from phenomenal consciousness to normative consciousness. Just as explaining *why* there is something it is like to see red remains beyond physical description, explaining *why* valid arguments feel compelling or injustice feels wrong lies beyond what neural description can deliver.
 
 ## Normative Perception and Its Limits
 
 If normative properties have genuine phenomenal character, they can be perceived—and perception can fail. The [normative-void](/voids/normative-void/) explores the outer limits: entire domains of normative truth that may be structurally inaccessible to human minds. But failure can also be local and partial.
 
-Ethical blindness—the temporary inability to perceive moral dimensions of a situation—has been documented empirically. The Map suggests parallel forms of normative blindness across domains: epistemic blindness (failing to perceive the evidential weight of information), aesthetic blindness (failing to register beauty or ugliness), and prudential blindness (failing to perceive risks to one's own wellbeing). Each involves a specific failure of normative perception, not merely a failure of reasoning.
+Ethical blindness—the temporary inability to perceive moral dimensions of a situation—has been documented in organisational psychology research (Palazzo, Krings & Hoffrage 2012). The Map suggests parallel forms of normative blindness across domains: epistemic blindness (failing to perceive the evidential weight of information), aesthetic blindness (failing to register beauty or ugliness), and prudential blindness (failing to perceive risks to one's own wellbeing). Each involves a specific failure of normative perception, not merely a failure of reasoning.
 
-If normative properties are perceived rather than inferred, then normative education is perceptual training. Learning to see what is morally relevant in a situation, to feel the force of evidence, to notice beauty—these are expansions of perceptual capacity. [Contemplative traditions](/topics/contemplative-evidence-for-consciousness-theories/) have long held that sustained practice deepens normative perception. Buddhist *vipassanā* sharpens awareness of suffering; Kantian *Bildung* cultivates rational sensitivity; artistic training develops aesthetic perception. Each tradition trains the capacity to perceive normative properties that were always there but unnoticed.
+If normative properties are perceived rather than inferred, then normative education is perceptual training. Learning to see what is morally relevant in a situation, to feel the force of evidence, to notice beauty—these are expansions of perceptual capacity. [Contemplative traditions](/topics/contemplative-evidence-for-consciousness-theories/) have long held that sustained practice deepens normative perception. Buddhist *vipassanā* sharpens awareness of the three marks of existence—impermanence, suffering, and non-self—though notably Buddhist philosophy uses this sharpened perception to question the inherent reality of the normative properties themselves, a tension the Map acknowledges. The German *Bildung* tradition cultivates rational and moral sensitivity; artistic training develops aesthetic perception. Each tradition trains the capacity to perceive normative features that were previously unnoticed.
 
 ## Relation to Site Perspective
 
@@ -138,6 +140,9 @@ The phenomenology of normative properties connects to the Map's [foundational co
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — Contemplative deepening of normative perception
 - [phenomenal-depth](/concepts/phenomenal-depth/) — Layers of phenomenal experience accessible through attention
+- [consciousness-and-normative-authority](/topics/consciousness-and-normative-authority/) — How consciousness grounds normative authority
+- [free-will](/topics/free-will/) — Normative conflict as the site of genuine choice
+- [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience
 
 ## References
 
@@ -148,3 +153,4 @@ The phenomenology of normative properties connects to the Map's [foundational co
 - Kriegel, U. (2015). *The Varieties of Consciousness*. Oxford University Press.
 - Kant, I. (1790/2000). *Critique of the Power of Judgment*. Cambridge University Press.
 - McDowell, J. (1979). "Virtue and Reason." *The Monist*, 62(3), 331-350.
+- Palazzo, G., Krings, F., & Hoffrage, U. (2012). "Ethical Blindness." *Journal of Business Ethics*, 109(3), 323-338.
