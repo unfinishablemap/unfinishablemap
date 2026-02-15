@@ -278,6 +278,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-13
 
+### P3: Write article on consciousness and collective intentionality
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15. How shared intentions, joint commitments, and "we-consciousness" arise from individual phenomenal experiences. Searle's collective intentionality, Tomasello's shared intentionality, Bratman's shared cooperative activity—each assumes agents with phenomenal understanding of each other. Builds on consciousness-and-social-cognition.md, intersubjectivity.md, theory-of-mind.md. See optimistic-2026-02-15.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
+### P3: Write article on the phenomenology of trust
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15. Trust has distinctive phenomenal character—felt vulnerability, willed suspension of protective vigilance, emotional exposure. Trust is central to human social life and depends on phenomenal understanding of another's inner states. A zombie could mimic cooperative behaviour but could not *trust*. Builds on consciousness-and-social-cognition.md, moral-phenomenology.md, phenomenology-of-choice.md. See optimistic-2026-02-15.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
+### P3: Write article on consciousness and normative authority
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15. Why some claims have *authority* over our thinking—not causal force (any brain state can cause belief) but genuine rational authority. The experience that a conclusion *must* follow, that a moral demand *cannot* be ignored. Normative authority may require conscious subjects in ways no physical system replicates. Builds on moral-phenomenology.md, phenomenal-normativity.md, argument-from-reason.md. See optimistic-2026-02-15.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
 ## Completed Tasks
 
 
