@@ -76,7 +76,7 @@ topics: []
 
 ### Cross-links Added
 
-- [quantum-binding-experimental-evidence](/concepts/quantum-binding-experimental-evidence/) (new article supporting quantum mechanisms)
+- [quantum-binding-experimental-evidence](/quantum-binding-experimental-evidence/) (new article supporting quantum mechanisms)
 - [phenomenal-unity](/phenomenal-unity/) (relevant to simultaneous awareness requirement)
 
 Added these to frontmatter concepts list as well.

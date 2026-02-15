@@ -19,7 +19,7 @@ concepts:
   - "[[illusionism]]"
   - "[[cognitive-phenomenology]]"
   - "[[consciousness-and-social-cognition]]"
-  - "[[quantum-binding-experimental-evidence]]"
+  - "[[quantum-coherence-and-binding-evidence]]"
   - "[[phenomenal-unity]]"
 related_articles:
   - "[[tenets]]"
@@ -88,7 +88,7 @@ Great apes understand that others have goals, perceptions, and some knowledge st
 
 **Level 3**—representing another's beliefs about your beliefs about their intentions—requires holding nested representations simultaneously in [[working-memory]] while manipulating their relationships. This is the cognitive operation the Jourdain transition describes: not just having representations, but representing them *as* representations subject to deliberate comparison and inference.
 
-Metarepresentation requires holding a mental state and a representation of that state in unified awareness—experiencing both simultaneously as aspects of a single "this is how my mind is" thought. This dual-structure phenomenology connects to [[phenomenal-unity|phenomenal unity]]: the capacity to experience multiple mental contents as aspects of one conscious state. Whether [[quantum-binding-experimental-evidence|quantum binding]] provides the physical mechanism for such unity remains speculative, but if it does, quantum effects might bear on the Jourdain transition itself—a connection to the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet worth noting, though not established.
+Metarepresentation requires holding a mental state and a representation of that state in unified awareness—experiencing both simultaneously as aspects of a single "this is how my mind is" thought. This dual-structure phenomenology connects to [[phenomenal-unity|phenomenal unity]]: the capacity to experience multiple mental contents as aspects of one conscious state. Whether [[quantum-coherence-and-binding-evidence|quantum binding]] provides the physical mechanism for such unity remains speculative, but if it does, quantum effects might bear on the Jourdain transition itself—a connection to the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet worth noting, though not established.
 
 ### Shared Intentionality
 

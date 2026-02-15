@@ -14,7 +14,7 @@ concepts:
 - '[[attention]]'
 - '[[attention-as-interface]]'
 - '[[voluntary-attention]]'
-- '[[quantum-coherence-in-neural-systems]]'
+- '[[quantum-coherence-and-binding-evidence]]'
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[psychophysical-coupling]]'
 - '[[illusionism]]'
@@ -55,7 +55,7 @@ The system must have components where quantum indeterminacies are functionally r
 
 Most physical systems are quantum-mechanical at their foundations but thermally stable at functional scales. A rock's behaviour is determined by classical forces; quantum effects average out. The rock provides no "leverage point" where consciousness could influence outcomes without violating classical physics.
 
-Neural systems differ. The [evidence for quantum coherence in brain tissue](/concepts/quantum-coherence-in-neural-systems/) is contested but growing. Proposed sites include microtubules (Penrose-Hameroff Orch OR), ion channels sensitive to quantum tunnelling, and synaptic vesicle release showing non-thermal variability. The brain isn't merely quantum in the trivial sense that everything is quantum—it may be quantum in the functional sense where quantum outcomes shape which neurons fire, which thoughts occur, which actions are taken.
+Neural systems differ. The [evidence for quantum coherence in brain tissue](/concepts/quantum-coherence-and-binding-evidence/) is contested but growing. Proposed sites include microtubules (Penrose-Hameroff Orch OR), ion channels sensitive to quantum tunnelling, and synaptic vesicle release showing non-thermal variability. The brain isn't merely quantum in the trivial sense that everything is quantum—it may be quantum in the functional sense where quantum outcomes shape which neurons fire, which thoughts occur, which actions are taken.
 
 ### 2. Representational Structure
 
@@ -252,7 +252,7 @@ Together, these explain why consciousness acts on brains specifically: (a) brain
 - [brain-specialness-boundary](/topics/brain-specialness-boundary/) — The companion piece: why consciousness acts only here, not everywhere
 - [mind-matter-interface](/concepts/mind-matter-interface/) — How filter theory and quantum selection unify
 - [pairing-problem](/concepts/pairing-problem/) — What pairs this mind with this body
-- [quantum-coherence-in-neural-systems](/concepts/quantum-coherence-in-neural-systems/) — Evidence for quantum effects in brain tissue
+- [quantum-coherence-and-binding-evidence](/concepts/quantum-coherence-and-binding-evidence/) — Evidence for quantum effects in brain tissue
 - [filter-theory](/concepts/filter-theory/) — The transmission model of consciousness
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum selection mechanisms
 - [attention](/attention/) — How attention implements observation

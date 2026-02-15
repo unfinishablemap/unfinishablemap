@@ -118,7 +118,7 @@ Recent experiments support the quantum binding hypothesis:
 
 **Decoherence calculations revised:** Tegmark (2000) claimed quantum coherence in microtubules would decohere in 10⁻¹³ to 10⁻²⁰ seconds. Hagan et al. (2002) identified flawed assumptions; corrected estimates yield 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer. Biological quantum effects (avian magnetoreception, photosynthesis) demonstrate evolution can harness quantum coherence.
 
-See [quantum-binding-experimental-evidence](/concepts/quantum-binding-experimental-evidence/) for comprehensive treatment.
+See [quantum-binding-experimental-evidence](/quantum-binding-experimental-evidence/) for comprehensive treatment.
 
 ## The Structural Match
 
@@ -150,7 +150,7 @@ This matches phenomenal unity's structure. Experience does not feel assembled fr
 - [phenomenal-unity](/phenomenal-unity/) — What binding mechanisms aim to explain
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The experiential character that binding must produce
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Extended argument for quantum binding
-- [quantum-binding-experimental-evidence](/concepts/quantum-binding-experimental-evidence/) — Detailed experimental support
+- [quantum-binding-experimental-evidence](/quantum-binding-experimental-evidence/) — Detailed experimental support
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR and quantum Zeno approaches
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno mechanism for mental effort
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse is philosophically contentious

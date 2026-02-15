@@ -21,7 +21,7 @@ concepts:
 - '[[phenomenology-of-choice]]'
 - '[[consciousness-as-amplifier]]'
 - '[[quantum-biology]]'
-- '[[quantum-coherence-in-neural-systems]]'
+- '[[quantum-coherence-and-binding-evidence]]'
 created: 2026-01-21
 date: &id001 2026-01-21
 description: Quantum entanglement provides the only physical substrate structurally
@@ -226,7 +226,7 @@ Classical binding approaches appear simpler—no quantum effects in warm biologi
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR and other quantum consciousness theories
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
 - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) — Why quantum biology shifts the burden of proof
-- [quantum-coherence-in-neural-systems](/concepts/quantum-coherence-in-neural-systems/) — Detailed treatment of neural coherence evidence
+- [quantum-coherence-and-binding-evidence](/concepts/quantum-coherence-and-binding-evidence/) — Detailed treatment of neural coherence evidence
 - [decoherence](/concepts/decoherence/) — Why quantum effects might persist in biological systems
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's alternative approach to unity
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on when binding fails

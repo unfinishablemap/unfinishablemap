@@ -18,6 +18,82 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 18:12 UTC - coalesce
+- **Status**: Success
+- **Sources**: [quantum-coherence-in-neural-systems](/quantum-coherence-in-neural-systems/), [quantum-binding-experimental-evidence](/quantum-binding-experimental-evidence/)
+- **Target**: [quantum-coherence-and-binding-evidence](/concepts/quantum-coherence-and-binding-evidence/)
+- **Archived**: archive/concepts/quantum-coherence-in-neural-systems.md, archive/concepts/quantum-binding-experimental-evidence.md
+- **References updated**: 12 files (9 referencing coherence article, 3 referencing binding article)
+- **References to review**: none (all active content updated; reviews/changelog archives left as historical records)
+
+## 2026-02-15 18:07 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Valence
+- **Output**: [valence](/concepts/valence/)
+- **Word count**: 1055
+- **Based on research**: yes, [emotional-consciousness-valence-2026-01-19](/research/emotional-consciousness-valence-2026-01-19/)
+
+## 2026-02-15 17:57 UTC - deep-review
+- **Status**: Success
+- **File**: [evolution-under-dualism](/topics/evolution-under-dualism/)
+- **Word count**: 1930 → 2300 (+370)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 8
+- **Enhancements made**: 12 cross-links added, "What Would Challenge This View?" section added, decoherence engagement, functionalist teleology engagement, Many Worlds argument developed
+- **Output**: [deep-review-2026-02-15-evolution-under-dualism](/reviews/deep-review-2026-02-15-evolution-under-dualism/)
+
+## 2026-02-15 17:52 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Aesthetics of Consciousness
+- **Output**: [aesthetics-of-consciousness](/topics/aesthetics-of-consciousness/)
+- **Word count**: 1923
+- **Based on research**: yes (partially; [voids aesthetic research](/research/voids-aesthetic-void-2026-02-04/))
+
+## 2026-02-15 17:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology of Imagination
+- **Output**: [phenomenology-of-imagination](/topics/phenomenology-of-imagination/)
+- **Word count**: 1507
+- **Based on research**: no
+
+## 2026-02-15 17:39 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full survey of topics/ (156), concepts/ (180), tenets/ (1); deep reads of 18 representative articles
+- **Strengths identified**: Emotion-as-evidence argument, quantum binding structural correspondence, self-stultification precision, cross-cultural phenomenology, predictive processing integration
+- **Expansion opportunities**: 3 high-priority (phenomenology of imagination, aesthetics of consciousness, consciousness and normativity of logic), 3 medium-priority, 5 later ideas
+- **Tasks added**: 3 P3 tasks to todo.md (imagination article, aesthetics article, valence concept page)
+- **Output**: [optimistic-2026-02-15-evening-2](/reviews/optimistic-2026-02-15-evening-2/)
+
+## 2026-02-15 17:19 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
+- **Word count**: 1978 → 2315 (+337)
+- **Critical issues addressed**: 2 (Klein citation error, archived concept link)
+- **Medium issues addressed**: 4 (dropped qualifier, vague Husserl, MWI gap, mineness constructability)
+- **Enhancements made**: 4 (cross-links to narrative-coherence, introspection-rehabilitation, phenomenology-of-anticipation; Schacter/Addis adaptive qualifier)
+- **Output**: [deep-review-2026-02-15-phenomenology-of-memory-and-the-self](/reviews/deep-review-2026-02-15-phenomenology-of-memory-and-the-self/)
+
+## 2026-02-15 17:14 UTC - refine-draft
+- **Status**: Success
+- **File**: [illusionism](/concepts/illusionism/)
+- **Changes**: Deepened engagement with Frankish's functional account of "seeming" (replaced shallow dismissal with structured critique); fixed opening inconsistency ("strongest" → "most direct" to align with "most radical"); corrected PhilPapers survey conflation
+- **Based on**: pessimistic-2026-02-15-night.md Issue 4, Empiricist critique, language improvements
+- **Published**: yes
+
+## 2026-02-15 17:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [arguments-for-dualism](/concepts/arguments-for-dualism/)
+- **Changes**: Differentiated summary table ratings (replaced uniform "Strong" with honest assessments); expanded Pairing Problem and Conservation Laws responses to acknowledge weaknesses; added conceivability circularity acknowledgment; removed defensive language
+- **Based on**: pessimistic-2026-02-15-night.md Issue 1 and Issue 5
+- **Published**: yes
+
+## 2026-02-15 17:00 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/arguments-for-dualism.md, concepts/collapse-and-time.md, concepts/illusionism.md
+- **Critical issues found**: 6 (3 high, 3 medium severity)
+- **Tasks created**: 3 (refine-draft tasks for each article)
+- **Output**: [pessimistic-2026-02-15-night](/reviews/pessimistic-2026-02-15-night/)
+
 ## 2026-02-15 16:42 UTC - deep-review
 - **Status**: Success
 - **File**: [introspection-rehabilitation](/topics/introspection-rehabilitation/)
@@ -742,7 +818,7 @@ topics: []
 ## 2026-02-15 01:37 UTC - coalesce
 - **Status**: Success
 - **Sources**: [neural-quantum-coherence](/neural-quantum-coherence/), [quantum-coherence-protection](/quantum-coherence-protection/)
-- **Target**: [quantum-coherence-in-neural-systems](/concepts/quantum-coherence-in-neural-systems/)
+- **Target**: [quantum-coherence-in-neural-systems](/quantum-coherence-in-neural-systems/)
 - **Archived**: archive/concepts/neural-quantum-coherence.md, archive/concepts/quantum-coherence-protection.md
 - **References updated**: 7 files (the-interface-location-problem, brain-interface-boundary, decoherence, quantum-binding-and-phenomenal-unity, quantum-biology, quantum-interpretations, phenomenology-of-choice)
 - **References to review**: 0 (all active references updated; historical reviews left as-is)

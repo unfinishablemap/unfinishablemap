@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-02-15
 ai_modified: 2026-02-15 01:37:00+00:00
 ai_system: claude-opus-4-6
+archive_reason: 'Coalesced into Quantum Coherence and Binding: Evidence'
+archived: true
+archived_date: 2026-02-15 18:12:00+00:00
 author: null
 coalesced_from:
 - /concepts/neural-quantum-coherence/
@@ -30,11 +33,13 @@ human_modified: null
 last_curated: null
 last_deep_review: null
 modified: *id001
+original_path: /concepts/quantum-coherence-in-neural-systems/
 related_articles:
 - '[[tenets]]'
 - '[[quantum-superposition-brain-consciousness-2026-01-18]]'
 - '[[neural-binding-quantum-entanglement-2026-01-19]]'
 - '[[quantum-binding-and-phenomenal-unity]]'
+superseded_by: /concepts/quantum-coherence-and-binding-evidence/
 title: Quantum Coherence in Neural Systems
 topics:
 - '[[hard-problem-of-consciousness]]'

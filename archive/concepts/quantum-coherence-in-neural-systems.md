@@ -35,6 +35,11 @@ last_deep_review: null
 coalesced_from:
   - "/concepts/neural-quantum-coherence/"
   - "/concepts/quantum-coherence-protection/"
+archived: true
+archived_date: 2026-02-15T18:12:00+00:00
+superseded_by: "/concepts/quantum-coherence-and-binding-evidence/"
+archive_reason: "Coalesced into Quantum Coherence and Binding: Evidence"
+original_path: "/concepts/quantum-coherence-in-neural-systems/"
 ---
 
 Can quantum superposition persist in neural tissue long enough to matter for consciousness? Recent experimental evidence (2024-2025) answers with qualified optimism. Revised decoherence estimates extend coherence times by seven orders of magnitude beyond initial calculations, four distinct protection mechanisms have been identified, and multiple experiments now detect quantum effects correlating with consciousness. The debate has shifted from "whether" to "how"—from categorical dismissal to empirical investigation. This matters for the [[binding-problem|binding problem]]: if quantum entanglement provides genuine physical holism—where the whole is irreducible to parts—it may explain how distributed neural processes combine into unified experience.

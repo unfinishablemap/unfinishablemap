@@ -16,7 +16,7 @@ concepts:
   - "[[consciousness-selecting-neural-patterns]]"
   - "[[brain-interface-boundary]]"
   - "[[decoherence]]"
-  - "[[quantum-coherence-in-neural-systems]]"
+  - "[[quantum-coherence-and-binding-evidence]]"
   - "[[attention]]"
   - "[[measurement-problem]]"
   - "[[psychophysical-coupling]]"
@@ -162,7 +162,7 @@ The Map's agnosticism about the specific location is not a weakness of the frame
 - [[attention-as-interface]] — Attention as the bridge between consciousness and brain
 - [[quantum-consciousness]] — Quantum selection mechanisms (Stapp, Orch OR)
 - [[decoherence]] — The quantum coherence challenge in biological systems
-- [[quantum-coherence-in-neural-systems]] — Evidence for quantum effects in brain tissue
+- [[quantum-coherence-and-binding-evidence]] — Evidence for quantum effects in brain tissue
 - [[psychophysical-coupling]] — Bandwidth constraints on the mind-brain connection
 - [[measurement-problem]] — Why decoherence doesn't solve collapse
 

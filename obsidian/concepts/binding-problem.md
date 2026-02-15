@@ -133,7 +133,7 @@ Classical approaches propose mechanisms where separate processes *interact* or *
 
 Several quantum binding theories exist. The [[quantum-consciousness|Orch OR theory]] proposes microtubule quantum coherence across neurons; [[stapp-quantum-mind|Stapp's quantum Zeno approach]] proposes conscious attention holds neural patterns through repeated measurement. Both propose consciousness selecting among superposed states, differing on substrate. For detailed treatment, see [[quantum-binding-and-phenomenal-unity]].
 
-Early experimental results are suggestive but preliminary. Microtubule-stabilising drugs delayed anesthetic-induced unconsciousness in rats (Wiest et al., 2024), and MRI signals consistent with entanglement correlated with waking consciousness (Kerskens & Pérez, 2022). However, both findings have alternative classical explanations, and the Kerskens-Pérez result awaits independent replication. The standard [[decoherence]] objection—that quantum effects are destroyed too fast in warm biological systems—remains contested, with estimates varying by orders of magnitude. See [[quantum-binding-experimental-evidence]] for comprehensive treatment.
+Early experimental results are suggestive but preliminary. Microtubule-stabilising drugs delayed anesthetic-induced unconsciousness in rats (Wiest et al., 2024), and MRI signals consistent with entanglement correlated with waking consciousness (Kerskens & Pérez, 2022). However, both findings have alternative classical explanations, and the Kerskens-Pérez result awaits independent replication. The standard [[decoherence]] objection—that quantum effects are destroyed too fast in warm biological systems—remains contested, with estimates varying by orders of magnitude. See [[quantum-coherence-and-binding-evidence]] for comprehensive treatment.
 
 The quantum hypothesis is the Map's preferred approach to BP2 because it offers genuine physical holism rather than mere coordination. But it remains speculative, and the Map's core claim—that BP2 is not solved by classical mechanisms—does not depend on any particular quantum theory being correct.
 
@@ -190,7 +190,7 @@ The binding problem illuminates why the Map's [[tenets]] take the positions they
 - [[phenomenal-unity]] — Phenomenal unity as metaphysical question
 - [[combination-problem]] — How micro-experiences combine into macro-experience
 - [[quantum-binding-and-phenomenal-unity]] — Entanglement as the basis for unity
-- [[quantum-binding-experimental-evidence]] — Recent experimental evidence
+- [[quantum-coherence-and-binding-evidence]] — Recent experimental evidence
 - [[split-brain-consciousness]] — Natural experiments on when binding fails
 - [[sleep-and-consciousness]] — Sleep as dissociation between BP1 and BP2
 - [[illusionism]] — The view that phenomenal unity is illusory

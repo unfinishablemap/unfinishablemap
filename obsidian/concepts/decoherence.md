@@ -13,7 +13,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[locality]]"
   - "[[measurement-problem]]"
-  - "[[quantum-coherence-in-neural-systems]]"
+  - "[[quantum-coherence-and-binding-evidence]]"
   - "[[illusionism]]"
   - "[[attention]]"
   - "[[attention-as-interface]]"
@@ -66,7 +66,7 @@ This matters for the Map's perspective. If decoherence fully explained measureme
 
 In 2000, physicist Max Tegmark published an influential calculation claiming that quantum coherence in brain microtubules would decay in about 10⁻¹³ seconds—far too fast for neural processes that operate on millisecond timescales. This became the standard objection to Penrose-Hameroff [[quantum-consciousness|Orch OR theory]]. The [[quantum-decoherence-objection]] article provides a detailed analysis of this challenge and responses.
 
-Hameroff and colleagues responded that Tegmark's calculation was based on an incorrect model. Tegmark assumed thermal equilibrium—appropriate for dead tissue, not living systems—and separation distances far larger than Orch OR actually proposes. When corrected, the calculated coherence times increase by seven orders of magnitude, reaching 10⁻⁵ to 10⁻⁴ seconds. The [[quantum-coherence-in-neural-systems|four proposed protection mechanisms]]—hydrophobic microtubule interior, Fröhlich coherence, ordered water, and nuclear spin isolation—may work cumulatively to extend coherence times even further.
+Hameroff and colleagues responded that Tegmark's calculation was based on an incorrect model. Tegmark assumed thermal equilibrium—appropriate for dead tissue, not living systems—and separation distances far larger than Orch OR actually proposes. When corrected, the calculated coherence times increase by seven orders of magnitude, reaching 10⁻⁵ to 10⁻⁴ seconds. The [[quantum-coherence-and-binding-evidence|four proposed protection mechanisms]]—hydrophobic microtubule interior, Fröhlich coherence, ordered water, and nuclear spin isolation—may work cumulatively to extend coherence times even further.
 
 ### 2024-2025 Experimental Developments
 
@@ -186,7 +186,7 @@ The [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] tenet is releva
 - [[quantum-decoherence-objection]] — Detailed analysis of Tegmark's critique and responses
 - [[measurement-problem]] — Why decoherence doesn't solve the measurement problem
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interaction
-- [[quantum-coherence-in-neural-systems]] — Protection mechanisms, coherence evidence, and cumulative effects
+- [[quantum-coherence-and-binding-evidence]] — Protection mechanisms, coherence evidence, and cumulative effects
 - [[quantum-biology]] — Comprehensive coverage of biological quantum effects
 - [[attention-as-interface]] — How attention relates to the quantum Zeno mechanism
 - [[illusionism]] — The eliminativist challenge to consciousness studies

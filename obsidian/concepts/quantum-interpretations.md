@@ -22,7 +22,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[introspection]]"
   - "[[buddhism-and-dualism]]"
-  - "[[quantum-coherence-in-neural-systems]]"
+  - "[[quantum-coherence-and-binding-evidence]]"
   - "[[decoherence]]"
   - "[[qbism]]"
   - "[[quantum-probability-consciousness]]"
@@ -214,7 +214,7 @@ The Map's preference for consciousness-inclusive interpretations would face seri
 
 2. **Consciousness-physics interaction is experimentally refuted.** If well-designed experiments consistently found conscious observation produces identical results to unconscious measurement, the consciousness-collapse hypothesis would weaken.
 
-3. **Decoherence timescales prove insurmountable.** If neural decoherence occurs at Tegmark's original timescales (10⁻¹³ seconds) rather than revised estimates (10⁻⁵ seconds), quantum effects relevant to consciousness would be ruled out. Current evidence ([[quantum-coherence-in-neural-systems|quantum coherence protection]]) suggests revised estimates are more accurate.
+3. **Decoherence timescales prove insurmountable.** If neural decoherence occurs at Tegmark's original timescales (10⁻¹³ seconds) rather than revised estimates (10⁻⁵ seconds), quantum effects relevant to consciousness would be ruled out. Current evidence ([[quantum-coherence-and-binding-evidence|quantum coherence protection]]) suggests revised estimates are more accurate.
 
 4. **A new interpretation emerges that explains consciousness while eliminating selection.** Such an interpretation would challenge the Map by showing consciousness-exclusion needn't mean consciousness-inexplicability.
 
@@ -246,7 +246,7 @@ The choice of quantum interpretation bears directly on all five [[tenets]]:
 
 ### Consciousness-Physics Interface
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interface
-- [[quantum-coherence-in-neural-systems]] — How quantum effects may survive in warm biology
+- [[quantum-coherence-and-binding-evidence]] — How quantum effects may survive in warm biology
 - [[retrocausality]] — Time-symmetric causation and free will
 - [[collapse-and-time]] — How collapse relates to temporal experience
 

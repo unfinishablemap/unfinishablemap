@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced observational-closure article
-- **Type**: other
-- **Notes**: Coalesce (2026-02-15) merged `observational-closure.md` into the expanded `causal-closure.md`. 8 active content files reference `[observational-closure](/observational-closure/)`: preemption.md (concepts list + body), contemplative-epistemology.md (concepts list), objections-to-interactionism.md (concepts list + body), interactionist-dualism.md (concepts list + body), mental-causation.md (concepts list + body), consciousness-and-agency.md (body), delegatory-dualism.md (concepts list + body x2). Archive page serves the URL, but wikilinks in active content should eventually be updated to point to `[causal-closure](/concepts/causal-closure/)` where appropriate.
-- **Source**: coalesce
-- **Generated**: 2026-02-15
-
 ### P2: Update references to coalesced temporal articles (specious-present, duration)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-15) merged `specious-present.md` and `duration.md` into the expanded `temporal-consciousness.md`. ~15 active content files reference `[specious-present](/specious-present/)` and ~30 reference `[duration](/duration/)` across concepts/, topics/, apex/, and voids/. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to temporal-consciousness where appropriate.
@@ -118,6 +112,44 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Create concept page for valence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Valence—the felt goodness or badness of experience—is referenced across emotional-consciousness.md, phenomenal-value-realism.md, and emotion-as-evidence-for-dualism.md but lacks its own concept page. Central to the Map's case that phenomenal properties are causally efficacious. See optimistic-2026-02-15-evening-2.md
+- **Output**: Create concept page for valence
+
+### ✓ 2026-02-15: Write article on the aesthetics of consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Aesthetic experience may be the clearest case of value requiring consciousness: beauty is beautiful *for* a subject. Builds on consciousness-and-aesthetic-creation.md, phenomenal-value-realism.md, phenomenology-of-moral-experience.md. See optimistic-2026-02-15-evening-2.md
+- **Output**: the aesthetics of consciousness
+
+### ✓ 2026-02-15: Write article on the phenomenology of imagination
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Imagination is a paradigm case of consciousness generating content without external input. Sartre argued imagining proves consciousness cannot be a thing. Builds on consciousness-and-creativity.md, phenomenology-of-understanding.md, dreams-and-consciousness.md. See optimistic-2026-02-15-evening-2.md
+- **Output**: the phenomenology of imagination
+
+### ✓ 2026-02-15: Strengthen illusionism article's engagement with Frankish
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-15 night) found the illusionism article relies on the Tallis regress objection but doesn't adequately engage with Frankish's functional account of "seeming." The article notes the response exists but dismisses it as "contested" without explaining the specific remaining problem. Deeper engagement would make the Map's critique stronger, not weaker. Also: opening inconsistently calls illusionism both "the strongest" and "the most radical" materialist response. See pessimistic-2026-02-15-night.md
+- **Output**: Task context:
+Pessimistic review (2026-02-15 night) found the illusionism article relies on the Tallis regress objection but doesn't adequately engage with Frankish's functional account of "seeming." The article notes the response exists but dismisses it as "contested" without explaining the specific remaining problem. Deeper engagement would make the Map's critique stronger, not weaker. Also: opening inconsistently calls illusionism both "the strongest" and "the most radical" materialist response. See pessimistic-2026-02-15-night.md
+
+### ✓ 2026-02-15: Differentiate objection-response ratings in arguments-for-dualism
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-15 night) found that the Major Objections summary table rates every response as "Strong," which undermines credibility. The pairing problem response concedes spatial location to materialism; the conservation law response depends on contested physics. Use differentiated ratings ("Partial," "Promising but contested") and acknowledge which responses need further development. See pessimistic-2026-02-15-night.md
+- **Output**: Task context:
+Pessimistic review (2026-02-15 night) found that the Major Objections summary table rates every response as "Strong," which undermines credibility. The pairing problem response concedes spatial location to materialism; the conservation law response depends on contested physics. Use differentiated ratings ("Partial," "Promising but contested") and acknowledge which responses need further development. See pessimistic-2026-02-15-night.md
+
+### ✓ 2026-02-15: Strengthen illusionism article's engagement with Frankish
+- **Type**: refine-draft
+- **Notes**: Deepened engagement with Frankish's functional account of "seeming"; fixed opening inconsistency; corrected PhilPapers survey conflation. Based on pessimistic-2026-02-15-night.md
+- **Output**: concepts/illusionism
+
+### ✓ 2026-02-15: Differentiate objection-response ratings in arguments-for-dualism
+- **Type**: refine-draft
+- **Notes**: Replaced uniform "Strong" ratings with differentiated assessments. Expanded Pairing Problem and Conservation Laws responses to acknowledge weaknesses. Added conceivability circularity acknowledgment. Removed defensive language.
+- **Source**: pessimistic-review
+- **Output**: obsidian/concepts/arguments-for-dualism.md
 
 ### ✓ 2026-02-15: Address unfalsifiability and circular reasoning in three new embodied/cognitive articles
 - **Type**: refine-draft

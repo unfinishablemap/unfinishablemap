@@ -1,42 +1,49 @@
 ---
-title: "Quantum Binding: Experimental Evidence"
-description: "Recent empirical support for quantum consciousness: microtubule-stabilizing drugs delay anesthesia, MRI detects entanglement signatures in conscious brains."
-created: 2026-01-22
-modified: 2026-01-24
-human_modified:
-ai_modified: 2026-02-08T20:44:00+00:00
-draft: false
-topics:
-  - "[[hard-problem-of-consciousness]]"
-concepts:
-  - "[[quantum-neural-timing-constraints]]"
-  - "[[quantum-decoherence-objection]]"
-  - "[[stapp-quantum-mind]]"
-  - "[[binding-problem]]"
-  - "[[phenomenal-unity]]"
-  - "[[quantum-consciousness]]"
-  - "[[neural-correlates-of-consciousness]]"
-  - "[[mysterianism]]"
-  - "[[illusionism]]"
-  - "[[neural-binding-mechanisms]]"
-  - "[[unity-of-consciousness]]"
-related_articles:
-  - "[[tenets]]"
-  - "[[interactionist-dualism]]"
-  - "[[integrated-information-theory]]"
 ai_contribution: 100
-author:
-ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
-last_curated:
-last_deep_review: 2026-02-08T20:44:00+00:00
+ai_modified: 2026-02-08 20:44:00+00:00
+ai_system: claude-opus-4-5-20251101
+archive_reason: 'Coalesced into Quantum Coherence and Binding: Evidence'
+archived: true
+archived_date: 2026-02-15 18:12:00+00:00
+author: null
+concepts:
+- '[[quantum-neural-timing-constraints]]'
+- '[[quantum-decoherence-objection]]'
+- '[[stapp-quantum-mind]]'
+- '[[binding-problem]]'
+- '[[phenomenal-unity]]'
+- '[[quantum-consciousness]]'
+- '[[neural-correlates-of-consciousness]]'
+- '[[mysterianism]]'
+- '[[illusionism]]'
+- '[[neural-binding-mechanisms]]'
+- '[[unity-of-consciousness]]'
+created: 2026-01-22
+date: &id001 2026-01-24
+description: 'Recent empirical support for quantum consciousness: microtubule-stabilizing
+  drugs delay anesthesia, MRI detects entanglement signatures in conscious brains.'
+draft: false
+human_modified: null
+last_curated: null
+last_deep_review: 2026-02-08 20:44:00+00:00
+modified: *id001
+original_path: /concepts/quantum-binding-experimental-evidence/
+related_articles:
+- '[[tenets]]'
+- '[[interactionist-dualism]]'
+- '[[integrated-information-theory]]'
+superseded_by: /concepts/quantum-coherence-and-binding-evidence/
+title: 'Quantum Binding: Experimental Evidence'
+topics:
+- '[[hard-problem-of-consciousness]]'
 ---
 
 Recent experimental evidence significantly strengthens the case that quantum entanglement, not classical neural coordination, underlies the unity of consciousness. Three lines of evidence converged between 2022 and 2025: microtubule-stabilizing drugs delay anesthesia onset in rats (Cohen's d = 1.9), novel MRI techniques detect entanglement signatures correlating with consciousness, and corrected decoherence calculations show quantum effects survive seven orders of magnitude longer than critics claimed. If quantum entanglement binds distributed neural processes into unified conscious experience, these are precisely the experimental signatures we would expect.
 
 ## The Binding Problem Requires Physical Holism
 
-The [[binding-problem|binding problem]] asks how distributed brain processes combine into unified consciousness. You see a red apple—redness processed in one region, shape in another, semantic knowledge in a third. Yet you experience one unified object, not three separate features.
+The [binding problem](/concepts/binding-problem/) asks how distributed brain processes combine into unified consciousness. You see a red apple—redness processed in one region, shape in another, semantic knowledge in a third. Yet you experience one unified object, not three separate features.
 
 Classical mechanisms—gamma synchrony, thalamocortical loops, integrated information—explain correlation without explaining unity. Neurons firing together remain separate neurons. Quantum entanglement uniquely provides ontological holism: the whole is prior to parts. An entangled state is not built from components; it is fundamentally indivisible.
 
@@ -60,36 +67,36 @@ A 2025 twin study by Escolà-Gascón provided additional evidence. When 106 mono
 
 ## The Decoherence Objection Weakens
 
-For decades, the primary objection to quantum consciousness theories has been [[decoherence]]: quantum coherence cannot survive in warm, wet biological systems. Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds—far too short for neural processes operating at millisecond timescales. This [[quantum-decoherence-objection|decoherence objection]] seemed to close the door on quantum consciousness entirely.
+For decades, the primary objection to quantum consciousness theories has been [decoherence](/concepts/decoherence/): quantum coherence cannot survive in warm, wet biological systems. Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds—far too short for neural processes operating at millisecond timescales. This [decoherence objection](/concepts/quantum-decoherence-objection/) seemed to close the door on quantum consciousness entirely.
 
 Yet the Tegmark-Hameroff debate remains unsettled. Hagan, Hameroff, and Tuszynski (2002) challenged several of Tegmark's assumptions:
 - Tegmark assumed unrealistically large superposition separation distances
 - Tegmark assumed thermal equilibrium (equivalent to death, not life)
 - Corrected estimates: 10⁻⁵ to 10⁻⁴ seconds—**seven orders of magnitude longer**
 
-Saxena et al. (2020) measured coherence times in tryptophan networks and found values consistent with the corrected estimates, though these experiments studied isolated biological molecules rather than intact neural tissue. The debate continues—Tegmark has not retracted his critique, and many physicists remain skeptical. See [[quantum-neural-timing-constraints]] for the full timing hierarchy from femtosecond decoherence to 300ms neural decision windows.
+Saxena et al. (2020) measured coherence times in tryptophan networks and found values consistent with the corrected estimates, though these experiments studied isolated biological molecules rather than intact neural tissue. The debate continues—Tegmark has not retracted his critique, and many physicists remain skeptical. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy from femtosecond decoherence to 300ms neural decision windows.
 
 Regardless of the precise coherence timescales, biological quantum effects demonstrate that evolution can harness coherence. Avian magnetoreception—how migratory birds navigate—relies on quantum spin coherence in cryptochrome proteins persisting for microseconds. Photosynthesis achieves quantum coherence at room temperature. These examples involve small molecular systems, not whole-brain entanglement, so the analogy has limits. But they refute the blanket claim that biology is too warm and wet for quantum effects—the question is one of scale and mechanism, not of possibility.
 
-More fundamentally, decoherence does not solve the measurement problem. After decoherence selects a preferred basis and suppresses superpositions, the system remains in a mixture of possible outcomes. Decoherence does not explain why we observe one definite outcome. That is where consciousness enters: biasing which outcome becomes actual. This "post-decoherence selection" model—developed in [[quantum-consciousness|the Map's quantum consciousness framework]]—doesn't require sustained coherence; it requires only that consciousness influence outcome selection at the moment indeterminacy resolves.
+More fundamentally, decoherence does not solve the measurement problem. After decoherence selects a preferred basis and suppresses superpositions, the system remains in a mixture of possible outcomes. Decoherence does not explain why we observe one definite outcome. That is where consciousness enters: biasing which outcome becomes actual. This "post-decoherence selection" model—developed in [the Map's quantum consciousness framework](/concepts/quantum-consciousness/)—doesn't require sustained coherence; it requires only that consciousness influence outcome selection at the moment indeterminacy resolves.
 
-[[stapp-quantum-mind|Stapp's quantum Zeno mechanism]] offers a specific proposal: consciousness operates through discrete observation events rather than sustained coherence. Each observation collapses and "resets" the quantum state; the accumulated effect of rapid observations biases outcomes without requiring coherence across neural timescales.
+[Stapp's quantum Zeno mechanism](/concepts/stapp-quantum-mind/) offers a specific proposal: consciousness operates through discrete observation events rather than sustained coherence. Each observation collapses and "resets" the quantum state; the accumulated effect of rapid observations biases outcomes without requiring coherence across neural timescales.
 
 ## Classical Mechanisms Cannot Produce Unity
 
-[[neural-binding-mechanisms|Gamma synchrony theories]] (Singer, von der Malsburg, Crick & Koch) show that neurons firing together correlate with conscious perception. Attention increases neural synchrony. Synchronized activity accompanies object recognition.
+[Gamma synchrony theories](/neural-binding-mechanisms/) (Singer, von der Malsburg, Crick & Koch) show that neurons firing together correlate with conscious perception. Attention increases neural synchrony. Synchronized activity accompanies object recognition.
 
 But correlation is not identity. Separate neurons firing in sync remain separate neurons. The theory explains how the brain coordinates information about the apple's color, shape, and meaning. It does not explain why coordination *feels* unified.
 
 Llinás proposed thalamocortical resonance: 40 Hz oscillations coordinated by the thalamus provide temporal binding. The thalamus acts as a hub enabling cortical communication. These oscillations appear during wakefulness and dreaming, disappear in deep sleep.
 
-Again, this describes neural correlates without explaining [[phenomenal-unity|phenomenal unity]]—the [[unity-of-consciousness|unity of consciousness]] that makes experience whole. Why does temporal coordination produce a single experience rather than many simultaneous experiences? Classical physics provides no mechanism by which coordination becomes unity.
+Again, this describes neural correlates without explaining [phenomenal unity](/phenomenal-unity/)—the [unity of consciousness](/concepts/unity-of-consciousness/) that makes experience whole. Why does temporal coordination produce a single experience rather than many simultaneous experiences? Classical physics provides no mechanism by which coordination becomes unity.
 
 Baum (2024, PhilArchive preprint) formalized this objection: zero-lag gamma synchrony (40-100 Hz, <1ms precision) cannot arise classically without violating relativistic causality. Bell's theorem and loophole-free experiments confirm that non-local correlations are exclusively quantum. If Baum's analysis holds, conscious binding necessitates quantum non-locality. The argument remains speculative and has not yet undergone peer review, but it crystallizes the structural problem: classical mechanisms coordinate information without producing ontological unity.
 
 ## The Illusionist Challenge
 
-Before assessing the evidence, one must address a prior question: is phenomenal unity real? [[illusionism|Illusionism]] argues that consciousness is a systematic misrepresentation—what seems like unified experience is actually fragmented processing that merely *appears* unified. If Dennett and Frankish are right, searching for a quantum mechanism for unity would be like searching for phlogiston.
+Before assessing the evidence, one must address a prior question: is phenomenal unity real? [Illusionism](/concepts/illusionism/) argues that consciousness is a systematic misrepresentation—what seems like unified experience is actually fragmented processing that merely *appears* unified. If Dennett and Frankish are right, searching for a quantum mechanism for unity would be like searching for phlogiston.
 
 The Map's response: illusionism faces a regress. If unity is an illusion, there must be something it *seems like* to have the illusion. That seeming is itself phenomenal. The structural point is that any account of why consciousness seems unified presupposes the very unity it denies. Moreover, even if qualia are "illusions," the quantum selection problem persists—*something* must select among quantum outcomes where physics leaves outcomes undetermined. Illusionism may revise our description of what does the selecting without eliminating the need for selection.
 
@@ -107,30 +114,30 @@ Classical theories must now explain why microtubule stabilization delays anesthe
 
 ## Relation to Site Perspective
 
-This evidence directly supports the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. If consciousness biases quantum outcomes in neural systems, we would expect quantum effects at the smallest scale necessary—exactly what these experiments suggest.
+This evidence directly supports the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. If consciousness biases quantum outcomes in neural systems, we would expect quantum effects at the smallest scale necessary—exactly what these experiments suggest.
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet receives support from the correlation between entanglement fidelity and working memory. If consciousness passively reflects neural states (epiphenomenalism), why would quantum entanglement correlate with cognitive performance? The natural explanation: consciousness uses entanglement to bind information, and stronger binding improves cognition.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet receives support from the correlation between entanglement fidelity and working memory. If consciousness passively reflects neural states (epiphenomenalism), why would quantum entanglement correlate with cognitive performance? The natural explanation: consciousness uses entanglement to bind information, and stronger binding improves cognition.
 
-The [[tenets#^dualism|Dualism]] tenet gains support from the classical impossibility result. If classical physics cannot produce phenomenal unity—and Baum's argument suggests it cannot—then consciousness requires something beyond classical physics. Whether that "something" is quantum mechanics properly understood or an additional non-physical element remains open, but materialism that identifies consciousness with classical neural states faces a structural problem.
+The [Dualism](/tenets/#dualism) tenet gains support from the classical impossibility result. If classical physics cannot produce phenomenal unity—and Baum's argument suggests it cannot—then consciousness requires something beyond classical physics. Whether that "something" is quantum mechanics properly understood or an additional non-physical element remains open, but materialism that identifies consciousness with classical neural states faces a structural problem.
 
-Finally, [[tenets#^occams-limits|Occam's Razor Has Limits]] applies. Classical theories seem simpler: just neurons, no quantum effects. But if neurons alone cannot produce unity, apparent simplicity becomes actual incompleteness. A slightly more complex theory that actually explains the phenomenon beats a simpler theory that cannot.
+Finally, [Occam's Razor Has Limits](/tenets/#occams-limits) applies. Classical theories seem simpler: just neurons, no quantum effects. But if neurons alone cannot produce unity, apparent simplicity becomes actual incompleteness. A slightly more complex theory that actually explains the phenomenon beats a simpler theory that cannot.
 
-The [[tenets#^no-many-worlds|No Many Worlds]] tenet is implicit throughout. The quantum binding hypothesis assumes collapse is real—that one outcome becomes actual while others don't. Under the Many-Worlds Interpretation, all outcomes occur in branching universes and "selection" becomes meaningless. The experimental signatures (entanglement correlating with consciousness, microtubule effects on anesthesia) would still occur, but their interpretation as evidence for consciousness-collapse interaction would dissolve. The Map's rejection of MWI makes quantum binding a substantive hypothesis rather than an epiphenomenal description.
+The [No Many Worlds](/tenets/#no-many-worlds) tenet is implicit throughout. The quantum binding hypothesis assumes collapse is real—that one outcome becomes actual while others don't. Under the Many-Worlds Interpretation, all outcomes occur in branching universes and "selection" becomes meaningless. The experimental signatures (entanglement correlating with consciousness, microtubule effects on anesthesia) would still occur, but their interpretation as evidence for consciousness-collapse interaction would dissolve. The Map's rejection of MWI makes quantum binding a substantive hypothesis rather than an epiphenomenal description.
 
-A final caveat: the possibility remains that the consciousness-quantum connection is permanently beyond human cognition. [[mysterianism|Cognitive closure]] may prevent us from fully grasping how phenomenal unity relates to physical processes, quantum or otherwise. The evidence presented here is empirical, but the hard problem may resist empirical resolution.
+A final caveat: the possibility remains that the consciousness-quantum connection is permanently beyond human cognition. [Cognitive closure](/concepts/mysterianism/) may prevent us from fully grasping how phenomenal unity relates to physical processes, quantum or otherwise. The evidence presented here is empirical, but the hard problem may resist empirical resolution.
 
 ## Further Reading
 
-- [[quantum-neural-timing-constraints]] — The timing hierarchy from femtosecond decoherence to 300ms neural decisions
-- [[quantum-decoherence-objection]] — Comprehensive analysis of the decoherence objection and corrected calculations
-- [[stapp-quantum-mind]] — The quantum Zeno mechanism for mental effort and discrete observation
-- [[binding-problem]] — The philosophical puzzle this evidence addresses
-- [[phenomenal-unity]] — What quantum binding aims to explain
-- [[quantum-consciousness]] — Penrose-Hameroff Orch OR and Stapp's quantum Zeno approach
-- [[decoherence]] — Why quantum effects can survive in biological systems
-- [[illusionism]] — The challenge that phenomenal unity might be illusory
-- [[mysterianism]] — The possibility that consciousness-quantum connection exceeds human cognitive reach
-- [[integrated-information-theory]] — Alternative framework (classical, not quantum)
+- [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from femtosecond decoherence to 300ms neural decisions
+- [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — Comprehensive analysis of the decoherence objection and corrected calculations
+- [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental effort and discrete observation
+- [binding-problem](/concepts/binding-problem/) — The philosophical puzzle this evidence addresses
+- [phenomenal-unity](/phenomenal-unity/) — What quantum binding aims to explain
+- [quantum-consciousness](/concepts/quantum-consciousness/) — Penrose-Hameroff Orch OR and Stapp's quantum Zeno approach
+- [decoherence](/concepts/decoherence/) — Why quantum effects can survive in biological systems
+- [illusionism](/concepts/illusionism/) — The challenge that phenomenal unity might be illusory
+- [mysterianism](/concepts/mysterianism/) — The possibility that consciousness-quantum connection exceeds human cognitive reach
+- [integrated-information-theory](/concepts/integrated-information-theory/) — Alternative framework (classical, not quantum)
 
 ## References
 

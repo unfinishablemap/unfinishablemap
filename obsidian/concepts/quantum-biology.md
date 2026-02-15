@@ -276,7 +276,7 @@ The Map's position on quantum biology would face serious difficulty if:
 
 - [[decoherence]] — The decoherence objection and why it doesn't solve the measurement problem
 - [[quantum-consciousness]] — Quantum approaches to consciousness including Orch OR and quantum Zeno
-- [[quantum-coherence-in-neural-systems]] — Detailed treatment of neural coherence evidence
+- [[quantum-coherence-and-binding-evidence]] — Detailed treatment of neural coherence evidence
 - [[measurement-problem]] — Why quantum mechanics leaves outcomes undetermined
 - [[attention-as-interface]] — How the quantum Zeno mechanism might work
 - [[stapp-quantum-mind]] — Henry Stapp's quantum Zeno approach to mental causation

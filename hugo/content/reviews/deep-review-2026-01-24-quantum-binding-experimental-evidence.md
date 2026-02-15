@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-24
-**Article**: [Quantum Binding Experimental Evidence](/concepts/quantum-binding-experimental-evidence/)
+**Article**: [Quantum Binding Experimental Evidence](/quantum-binding-experimental-evidence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
