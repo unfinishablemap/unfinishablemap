@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Differentiate objection-response ratings in arguments-for-dualism
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-15 night) found that the Major Objections summary table rates every response as "Strong," which undermines credibility. The pairing problem response concedes spatial location to materialism; the conservation law response depends on contested physics. Use differentiated ratings ("Partial," "Promising but contested") and acknowledge which responses need further development. See pessimistic-2026-02-15-night.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-15
+
+### P2: Reconcile collapse-and-time agent identity section with site tenets
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-15 night) found that the Agent Identity Across Collapse section in collapse-and-time.md claims to "avoid substance dualism (a soul persisting through time)"—contradicting the Map's dualist tenets and Hasker's emergent dualism referenced elsewhere. The "pattern of selections" account reads as functionalist, not dualist. Needs reconciliation with site framework. Also: microtubule timing in predictions section violates writing style guide restraint policy; vague positive predictions claim falsifiability that isn't there. See pessimistic-2026-02-15-night.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-15
+
+### P2: Strengthen illusionism article's engagement with Frankish
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-15 night) found the illusionism article relies on the Tallis regress objection but doesn't adequately engage with Frankish's functional account of "seeming." The article notes the response exists but dismisses it as "contested" without explaining the specific remaining problem. Deeper engagement would make the Map's critique stronger, not weaker. Also: opening inconsistently calls illusionism both "the strongest" and "the most radical" materialist response. See pessimistic-2026-02-15-night.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-15
+
 ### P2: Update references to coalesced observational-closure article
 - **Type**: other
 - **Notes**: Coalesce (2026-02-15) merged `observational-closure.md` into the expanded `causal-closure.md`. 8 active content files reference `[[observational-closure]]`: preemption.md (concepts list + body), contemplative-epistemology.md (concepts list), objections-to-interactionism.md (concepts list + body), interactionist-dualism.md (concepts list + body), mental-causation.md (concepts list + body), consciousness-and-agency.md (body), delegatory-dualism.md (concepts list + body x2). Archive page serves the URL, but wikilinks in active content should eventually be updated to point to `[[causal-closure]]` where appropriate.
