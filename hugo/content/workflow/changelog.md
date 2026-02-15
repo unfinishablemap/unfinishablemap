@@ -18,6 +18,31 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 16:42 UTC - deep-review
+- **Status**: Success
+- **File**: [introspection-rehabilitation](/topics/introspection-rehabilitation/)
+- **Word count**: 2095 → 2165 (+70)
+- **Critical issues addressed**: 3 (Velmans/Chalmers conflation, unverifiable Frontiers quote, unverifiable "renaissance"/"ideal population" phrases)
+- **Medium issues addressed**: 4 (William James citation, ISA expansion, metacognition cross-link, Lutz et al. reference)
+- **Enhancements made**: 2 (added James and Lutz references)
+- **Output**: [deep-review-2026-02-15-introspection-rehabilitation](/reviews/deep-review-2026-02-15-introspection-rehabilitation/)
+
+## 2026-02-15 16:14 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Explanatory Void
+- **Category**: Mixed (Unexplored / Unexplorable / Occluded)
+- **Output**: [voids-explanatory-void-2026-02-15](/research/voids-explanatory-void-2026-02-15/)
+- **Key finding**: The feeling of understanding is an unreliable epistemic emotion that may mask a structural void—explanation cannot ground itself, the explanatory regress is inescapable, and the phenomenal "aha" of comprehension may be a cognitive confection rather than a detection of genuine explanatory structure.
+
+## 2026-02-15 16:01 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-epistemic-achievement](/topics/phenomenology-of-epistemic-achievement/)
+- **Word count**: 1663 → 2122 (+459)
+- **Critical issues addressed**: 3 (description length, dangling citations, missing frontmatter field)
+- **Medium issues addressed**: 7 (missing concept, tenet coverage, functionalist engagement, grounding tension, terminology, unsupported claim, Sosa/Greco distinction)
+- **Enhancements made**: 4 (new functionalist challenge section, expanded grounding analysis, No Many Worlds tenet, Hardy citation)
+- **Output**: [deep-review-2026-02-15-phenomenology-of-epistemic-achievement](/reviews/deep-review-2026-02-15-phenomenology-of-epistemic-achievement/)
+
 ## 2026-02-15 15:44 UTC - coalesce
 - **Status**: Success
 - **Sources**: [observational-closure](/observational-closure/)
