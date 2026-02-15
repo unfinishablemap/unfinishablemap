@@ -109,11 +109,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the phenomenology of temporal attention
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. How attention operates across temporal scales—micro (returning attention), meso (sustained focus), macro (life projects). Builds on phenomenology-of-returning-attention.md, temporal-consciousness.md, structure-of-attention.md. See optimistic-2026-02-15-night.md
-
 ### P3: Write article on the paradox of effortless mastery
 - **Type**: expand-topic
 - **Status**: pending
@@ -126,6 +121,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on the phenomenology of temporal attention
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. How attention operates across temporal scales—micro (returning attention), meso (sustained focus), macro (life projects). Builds on phenomenology-of-returning-attention.md, temporal-consciousness.md, structure-of-attention.md. See optimistic-2026-02-15-night.md
+- **Output**: the phenomenology of temporal attention
 
 ### ✓ 2026-02-15: Address asymmetric cost argument and contemplative evidence gaps in epistemic-advantages-of-dualism
 - **Type**: refine-draft
