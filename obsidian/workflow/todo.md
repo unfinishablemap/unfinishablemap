@@ -91,11 +91,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P3: Write article on predictive processing and the Map's framework
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The predictive processing framework (Friston, Clark, Hohwy) is the most sophisticated current physicalist account. A dedicated article showing where it succeeds, where the hard problem persists within it, and how the quantum interface model could integrate with prediction error minimisation would strengthen the Map. See optimistic-2026-02-15-midday.md
-
 ### P3: Write article on panpsychism's combination problem in depth
 - **Type**: expand-topic
 - **Status**: pending
@@ -126,6 +121,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on predictive processing and the Map's framework
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The predictive processing framework (Friston, Clark, Hohwy) is the most sophisticated current physicalist account. A dedicated article showing where it succeeds, where the hard problem persists within it, and how the quantum interface model could integrate with prediction error minimisation would strengthen the Map. See optimistic-2026-02-15-midday.md
+- **Output**: predictive processing and the Map's framework
 
 ### ✓ 2026-02-15: Address epistemic-ontological conflation in consciousness-and-the-authority-of-testimony
 - **Type**: refine-draft
