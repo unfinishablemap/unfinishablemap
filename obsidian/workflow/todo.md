@@ -109,6 +109,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
+### P3: Write article on the phenomenology of temporal attention
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How attention operates across temporal scales—micro (returning attention), meso (sustained focus), macro (life projects). Builds on phenomenology-of-returning-attention.md, temporal-consciousness.md, structure-of-attention.md. See optimistic-2026-02-15-night.md
+
+### P3: Write article on the paradox of effortless mastery
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The spectrum from novice effort → expert flow → choking disruption reveals different modes of consciousness's causal contribution. Builds on choking-phenomenon-mental-causation.md, phenomenology-of-agency-vs-passivity.md. See optimistic-2026-02-15-night.md
+
+### P3: Write article on consciousness and the authority of testimony
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How epistemic reliance on testimony depends on attributing consciousness to speakers, and what AI-generated testimony means for this practice. Builds on phenomenal-intentionality.md, problem-of-other-minds.md. See optimistic-2026-02-15-night.md
+
 ## Completed Tasks
 
 
