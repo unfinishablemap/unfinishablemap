@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 17:14 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/illusionism]]
+- **Changes**: Deepened engagement with Frankish's functional account of "seeming" (replaced shallow dismissal with structured critique); fixed opening inconsistency ("strongest" → "most direct" to align with "most radical"); corrected PhilPapers survey conflation
+- **Based on**: pessimistic-2026-02-15-night.md Issue 4, Empiricist critique, language improvements
+- **Published**: yes
+
 ## 2026-02-15 17:09 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/arguments-for-dualism]]

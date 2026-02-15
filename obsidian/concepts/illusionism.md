@@ -4,7 +4,7 @@ description: "The radical claim that phenomenal consciousness is an introspectiv
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-04T09:43:00+00:00
+ai_modified: 2026-02-15T17:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ last_deep_review: 2026-01-31T01:46:00+00:00
 
 Illusionism is the most radical physicalist response to the [[hard-problem-of-consciousness|hard problem]]. Rather than explaining how phenomenal consciousness arises from physical processes, illusionists deny that phenomenal consciousness exists at all. The "what it's like" aspect of experience—the redness of red, the painfulness of pain—is, on this view, an introspective illusion.
 
-This matters for The Unfinishable Map's framework because illusionism represents the strongest challenge to taking consciousness seriously. If illusionists are right, there is no [[explanatory-gap]] because there's nothing non-physical to explain. The [[tenets#^dualism|Dualism]] tenet would be defending something that doesn't exist.
+This matters for The Unfinishable Map's framework because illusionism represents the most direct challenge to taking consciousness seriously. If illusionists are right, there is no [[explanatory-gap]] because there's nothing non-physical to explain. The [[tenets#^dualism|Dualism]] tenet would be defending something that doesn't exist.
 
 ## The Core Claim
 
@@ -100,9 +100,13 @@ Even if illusionism relocates the hard problem to a "meta-problem"—explaining 
 
 Frankish argues critics misunderstand the position. Illusions need not be *phenomenal* illusions—they can be cognitive or theoretical errors. Just as pre-scientific cultures were wrong about heat or life without having phenomenal illusions, we can be wrong about experience.
 
-The seeming of phenomenal properties can be explained in representational terms. Our introspective systems represent experiences as having properties they don't have—but this representation is itself just functional information processing, not a phenomenal experience of an illusion.
+Frankish's positive account deserves careful engagement. He defines "seeming" in purely functional terms: to *seem* to have phenomenal properties is to be in a state that disposes one to judge, report, and react *as if* one has them. No phenomenal experience of the illusion is required—only a functional state that generates the relevant judgments. On this view, introspection is just another information-processing system, and its outputs (beliefs about qualia) can be wrong in the same way any representational system can misrepresent.
 
-Whether this response succeeds remains contested. The challenge is explaining how *seeming* works without invoking something phenomenal. The [[introspection|introspection literature]] identifies conditions where introspective reports fail (causal processes, decision justification) while succeeding for others (basic phenomenal states). Illusionism requires that even this latter domain—where we seem most reliable—be systematically mistaken.
+This is a serious move, but it faces a specific structural problem. Ordinary misrepresentation works because we can identify the gap between what seems to be the case and what is the case—optical illusions seem one way while the measured world is another. In the illusionist case, there is no independent vantage point. The "seeming" of phenomenal consciousness cannot be contrasted with how things really are from within, because all we have access to is the seeming itself. This makes illusionist "seeming" unlike any ordinary case of misrepresentation.
+
+More pointedly: if the functional account strips all experiential character from "seeming," it risks changing the subject. What makes a functional disposition to judge that one is in pain *a seeming* rather than mere information processing? The word "seeming" implies something that it is like to undergo the state—a perspective from which things appear a certain way. If Frankish's account retains this experiential dimension, the regress reasserts itself. If it eliminates it entirely, the account no longer explains what needed explaining: why phenomenal consciousness strikes us as so overwhelmingly real. The functional story would explain why we produce the *reports* we do, but reports are not the phenomenon that makes the hard problem hard.
+
+The [[introspection|introspection literature]] sharpens this point. Introspective reports fail in well-understood ways for causal processes and decision justification, but succeed reliably for basic phenomenal states—the presence of pain, the experience of colour. Illusionism requires that this latter domain, where introspection is most reliable, be systematically mistaken. The asymmetry between domains that fail (complex causal reasoning) and domains that would need to fail (basic phenomenal awareness) remains unexplained.
 
 ## The Mysterian Alternative
 
@@ -142,7 +146,7 @@ Illusionism would be undermined if:
 
 ## Current State of the Debate
 
-Illusionism remains a minority position. The 2020 PhilPapers survey found that 62% of philosophers consider the hard problem genuine; only a small fraction endorse eliminativism about phenomenal consciousness. However, illusionism has gained attention as physicalism's "scorched earth" option—the fallback when other strategies fail.
+Illusionism remains a minority position. The 2020 PhilPapers survey found that only a small fraction of philosophers endorse eliminativism about phenomenal consciousness. (The survey's finding that 62% consider the hard problem genuine is less telling—many physicalists consider it genuine but solvable, which is different from accepting illusionism's dissolution of it.) Illusionism has nonetheless gained attention as physicalism's most uncompromising option—the fallback when other strategies fail.
 
 Recent work has focused on several questions:
 - Whether illusionism can be empirically distinguished from ordinary [[materialism]]
@@ -186,3 +190,15 @@ The persistence of the illusion problem suggests illusionism doesn't escape the 
 - Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
 - McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 - Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+
+<!-- AI REFINEMENT LOG - 2026-02-15
+Changes made:
+- Fixed opening inconsistency: changed "strongest challenge" to "most direct challenge" to align with "most radical" framing
+- Expanded Illusionist Response section: replaced shallow dismissal of Frankish's functional account with detailed engagement explaining (a) the structural disanalogy with ordinary misrepresentation, (b) the dilemma between retaining experiential "seeming" (regress) and eliminating it (changing the subject), (c) the introspective asymmetry problem
+- Fixed PhilPapers survey conflation: reordered to lead with eliminativism minority status; added parenthetical noting that "hard problem is genuine" doesn't equate to rejecting illusionism
+
+Based on pessimistic-2026-02-15-night.md review (Issues #4, Empiricist critique, Illusionism's Scope counterargument).
+Key improvements: The Map's critique of illusionism is now stronger because it engages with Frankish's best response rather than dismissing it.
+
+This log should be removed after human review.
+-->
