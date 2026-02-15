@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-15 04:52 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Measurement Problem as Hard Problem
+- **Output**: [[topics/measurement-problem-as-hard-problem]]
+- **Word count**: 1757
+- **Based on research**: Yes ([[consciousness-measurement-problem-2026-01-16]], [[measurement-problem-quantum-mechanics-2026-01-14]], [[quantum-measurement-subjective-probability-2026-01-23]])
+
 ## 2026-02-15 04:47 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Aesthetic Creation
