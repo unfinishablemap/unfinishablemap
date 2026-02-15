@@ -109,15 +109,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for valence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Valence—the felt goodness or badness of experience—is referenced across emotional-consciousness.md, phenomenal-value-realism.md, and emotion-as-evidence-for-dualism.md but lacks its own concept page. Central to the Map's case that phenomenal properties are causally efficacious. See optimistic-2026-02-15-evening-2.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Create concept page for valence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Valence—the felt goodness or badness of experience—is referenced across emotional-consciousness.md, phenomenal-value-realism.md, and emotion-as-evidence-for-dualism.md but lacks its own concept page. Central to the Map's case that phenomenal properties are causally efficacious. See optimistic-2026-02-15-evening-2.md
+- **Output**: Create concept page for valence
 
 ### ✓ 2026-02-15: Write article on the aesthetics of consciousness
 - **Type**: expand-topic
