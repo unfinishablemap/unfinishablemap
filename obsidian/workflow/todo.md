@@ -103,13 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for anoetic/noetic/autonoetic consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Tulving's hierarchy is now referenced in multiple articles (consciousness-and-memory, the-self) but lacks its own concept page. Given its centrality to the Map's arguments about memory, temporal integration, and the self, a dedicated page would serve as reference point and prevent repetitive exposition. See optimistic-2026-02-09.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-09
-
 ### P3: Write article on the phenomenology of habit and skill acquisition
 - **Type**: expand-topic
 - **Status**: pending
@@ -245,6 +238,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Create concept page for anoetic/noetic/autonoetic consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Tulving's hierarchy is now referenced in multiple articles (consciousness-and-memory, the-self) but lacks its own concept page. Given its centrality to the Map's arguments about memory, temporal integration, and the self, a dedicated page would serve as reference point and prevent repetitive exposition. See optimistic-2026-02-09.md
+- **Output**: Create concept page for anoetic/noetic/autonoetic consciousness
 
 ### ✓ 2026-02-15: Create concept page for categorical surprise
 - **Type**: expand-topic
