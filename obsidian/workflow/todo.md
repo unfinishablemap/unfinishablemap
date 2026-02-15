@@ -103,13 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for moral-phenomenology
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The phenomenology-of-moral-experience article introduces moral perception, felt obligation, and moral admiration as distinct phenomenal states. A concept page defining moral phenomenology as a category would anchor cross-references from ethics-of-consciousness, meaning-of-life, and consciousness-value-connection. See optimistic-2026-02-08.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-08
-
 ### P3: Write article on the placebo effect and mental causation
 - **Type**: expand-topic
 - **Status**: pending
@@ -287,6 +280,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Create concept page for moral-phenomenology
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The phenomenology-of-moral-experience article introduces moral perception, felt obligation, and moral admiration as distinct phenomenal states. A concept page defining moral phenomenology as a category would anchor cross-references from ethics-of-consciousness, meaning-of-life, and consciousness-value-connection. See optimistic-2026-02-08.md
+- **Output**: Create concept page for moral-phenomenology
 
 ### ✓ 2026-02-15: Write article on consciousness and social cognition
 - **Type**: expand-topic
