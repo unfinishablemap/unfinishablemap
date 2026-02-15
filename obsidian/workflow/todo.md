@@ -1011,6 +1011,21 @@ Pessimistic review (2026-02-09) found the article treats introspective reports a
 
 Task context:
 Pessimistic review found quantum binding material dominates ~1/3 of the article and violates writing style guide warnings about quantum mechanism overemphasis. The claim "current evidence favours quantum binding" overstates the evidential situation. Reduce quantum section, strengthen alternative approaches, and recalibrate confidence language. See pessimistic-2026-02-06-afternoon.md
+### P3: Write article on philosophy of perception and the interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How the Map's interface model handles specific perceptual phenomena (colour constancy, perceptual adaptation, change blindness). Builds on attention-as-selection-interface, filter-theory, neural-bandwidth-constraints. See optimistic-2026-02-15-late-afternoon.md
+
+### P3: Write article on sleep-wake transition as interface evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The phenomenology and neuroscience of falling asleep and waking up as windows into interface engagement/disengagement. Builds on sleep-and-consciousness, consciousness-and-memory, disorders-of-consciousness-as-test-cases. See optimistic-2026-02-15-late-afternoon.md
+
+### P3: Write article on emotional qualia and the hard problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Why emotional experience—the felt badness of pain, the felt goodness of joy—provides strong evidence for irreducibility. Builds on phenomenology-of-moral-experience, emotional-consciousness, phenomenal-consciousness. See optimistic-2026-02-15-late-afternoon.md
+
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.
