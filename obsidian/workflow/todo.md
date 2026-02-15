@@ -194,6 +194,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-02-15
 
+### P3: Write article on the phenomenology of trust and testimony
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Trust involves distinctive phenomenal character—felt reliability, vulnerability, dependence on another's consciousness—that pure information transfer cannot capture. How acquaintance knowledge and propositional knowledge interact in testimony. Builds on acquaintance-knowledge.md, phenomenology-of-epistemic-achievement.md, narrative-coherence.md. See optimistic-2026-02-15-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
+### P3: Write article on consciousness and counterfactual reasoning
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Counterfactual thinking requires both phenomenal consciousness and the ability to inhabit non-actual scenarios. Connects the Map's epistemology to its agency framework. Builds on counterfactual-reasoning.md, consciousness-as-amplifier.md, agent-causation.md. See optimistic-2026-02-15-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
+### P3: Write article on the phenomenology of perceptual constancy
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). How we experience stable objects despite constantly varying sensory input. The gap between variable input and stable percept reveals consciousness doing constructive work that no purely computational account adequately explains. Builds on phenomenal-consciousness.md, consciousness-and-surprise.md, interface-friction.md. See optimistic-2026-02-15-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
+### P3: Create concept page for cognitive phenomenology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Multiple articles assume cognitive states (thinking, understanding, knowing) have phenomenal character, but no dedicated page defends this. The "rich" vs "thin" debate is directly relevant to the Map's case that consciousness contributes to cognition. Connects to acquaintance-knowledge.md, phenomenology-of-understanding.md, phenomenology-of-epistemic-achievement.md. See optimistic-2026-02-15-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
+### P3: Create concept page for preemption (philosophical)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Delegatory dualism relies on preemption to avoid overdetermination, but no dedicated page explains the philosophical literature (Lewis, Schaffer). Would clarify how Saad adapts it for the mind-body problem. Connects to delegatory-dualism.md, agent-causation.md. See optimistic-2026-02-15-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-15
+
 ## Completed Tasks
 
 
