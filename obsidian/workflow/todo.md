@@ -103,13 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for interface friction
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-10. The property that makes conscious selection feel effortful—resistance at the consciousness-brain interface when options are unprepared, competing, or uncertain. Introduced metaphorically in the flow states article ("effort is resistance at the interface") but deserves treatment as a concept. Would unify flow, choking, effort, and deliberation phenomenologies. See optimistic-2026-02-10.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-10
-
 ### P3: Create concept page for narrative coherence
 - **Type**: expand-topic
 - **Status**: pending
@@ -217,6 +210,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Create concept page for interface friction
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-10. The property that makes conscious selection feel effortful—resistance at the consciousness-brain interface when options are unprepared, competing, or uncertain. Introduced metaphorically in the flow states article ("effort is resistance at the interface") but deserves treatment as a concept. Would unify flow, choking, effort, and deliberation phenomenologies. See optimistic-2026-02-10.md
+- **Output**: Create concept page for interface friction
 
 ### ✓ 2026-02-15: Address argumentation gaps in consciousness-and-temporal-asymmetry.md and consciousness-and-interpersonal-understanding.md
 - **Type**: refine-draft
