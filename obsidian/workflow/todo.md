@@ -103,13 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the phenomenology of skill transition
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-10 (evening). How skills transition from conscious effortful performance to automatised fluency. The Map describes the endpoints (effortful novice, effortless expert via flow) but not the transition itself. The moment of delegation—from conscious control to implicit execution—is where the interface model makes its clearest predictions. Builds on phenomenology-of-flow-states.md, choking-phenomenon-mental-causation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-10-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-10
-
 ### P3: Write article on consciousness and collective intelligence
 - **Type**: expand-topic
 - **Status**: pending
@@ -231,6 +224,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on the phenomenology of skill transition
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-10 (evening). How skills transition from conscious effortful performance to automatised fluency. The Map describes the endpoints (effortful novice, effortless expert via flow) but not the transition itself. The moment of delegation—from conscious control to implicit execution—is where the interface model makes its clearest predictions. Builds on phenomenology-of-flow-states.md, choking-phenomenon-mental-causation.md, incubation-effect-and-unconscious-processing.md. See optimistic-2026-02-10-evening.md
+- **Output**: the phenomenology of skill transition
 
 ### ✓ 2026-02-15: Write article on consciousness and the physics of information
 - **Type**: expand-topic
