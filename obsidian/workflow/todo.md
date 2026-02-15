@@ -109,13 +109,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for cognitive phenomenology
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Multiple articles assume cognitive states (thinking, understanding, knowing) have phenomenal character, but no dedicated page defends this. The "rich" vs "thin" debate is directly relevant to the Map's case that consciousness contributes to cognition. Connects to acquaintance-knowledge.md, phenomenology-of-understanding.md, phenomenology-of-epistemic-achievement.md. See optimistic-2026-02-15-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
 ### P3: Create concept page for preemption (philosophical)
 - **Type**: expand-topic
 - **Status**: pending
@@ -146,6 +139,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Create concept page for cognitive phenomenology
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Multiple articles assume cognitive states (thinking, understanding, knowing) have phenomenal character, but no dedicated page defends this. The "rich" vs "thin" debate is directly relevant to the Map's case that consciousness contributes to cognition. Connects to acquaintance-knowledge.md, phenomenology-of-understanding.md, phenomenology-of-epistemic-achievement.md. See optimistic-2026-02-15-afternoon.md
+- **Output**: Create concept page for cognitive phenomenology
 
 ### ✓ 2026-02-15: Write article on the phenomenology of perceptual constancy
 - **Type**: expand-topic
