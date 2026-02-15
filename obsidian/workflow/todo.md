@@ -109,13 +109,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and collective intentionality
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-15. How shared intentions, joint commitments, and "we-consciousness" arise from individual phenomenal experiences. Searle's collective intentionality, Tomasello's shared intentionality, Bratman's shared cooperative activity—each assumes agents with phenomenal understanding of each other. Builds on consciousness-and-social-cognition.md, intersubjectivity.md, theory-of-mind.md. See optimistic-2026-02-15.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
 ### P3: Write article on the phenomenology of trust
 - **Type**: expand-topic
 - **Status**: pending
@@ -167,6 +160,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on consciousness and collective intentionality
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15. How shared intentions, joint commitments, and "we-consciousness" arise from individual phenomenal experiences. Searle's collective intentionality, Tomasello's shared intentionality, Bratman's shared cooperative activity—each assumes agents with phenomenal understanding of each other. Builds on consciousness-and-social-cognition.md, intersubjectivity.md, theory-of-mind.md. See optimistic-2026-02-15.md
+- **Output**: consciousness and collective intentionality
 
 ### ✓ 2026-02-15: Create concept page for constructive memory
 - **Type**: expand-topic
