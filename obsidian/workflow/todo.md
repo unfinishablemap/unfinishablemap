@@ -109,13 +109,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the phenomenology of trust and testimony
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Trust involves distinctive phenomenal character—felt reliability, vulnerability, dependence on another's consciousness—that pure information transfer cannot capture. How acquaintance knowledge and propositional knowledge interact in testimony. Builds on acquaintance-knowledge.md, phenomenology-of-epistemic-achievement.md, narrative-coherence.md. See optimistic-2026-02-15-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
 ### P3: Write article on consciousness and counterfactual reasoning
 - **Type**: expand-topic
 - **Status**: pending
@@ -146,6 +139,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on the phenomenology of trust and testimony
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15 (afternoon). Trust involves distinctive phenomenal character—felt reliability, vulnerability, dependence on another's consciousness—that pure information transfer cannot capture. How acquaintance knowledge and propositional knowledge interact in testimony. Builds on acquaintance-knowledge.md, phenomenology-of-epistemic-achievement.md, narrative-coherence.md. See optimistic-2026-02-15-afternoon.md
+- **Output**: the phenomenology of trust and testimony
 
 ### ✓ 2026-02-15: Write article on consciousness and normative authority
 - **Type**: expand-topic
