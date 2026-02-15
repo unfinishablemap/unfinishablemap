@@ -109,13 +109,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and normative authority
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-15. Why some claims have *authority* over our thinking—not causal force (any brain state can cause belief) but genuine rational authority. The experience that a conclusion *must* follow, that a moral demand *cannot* be ignored. Normative authority may require conscious subjects in ways no physical system replicates. Builds on moral-phenomenology.md, phenomenal-normativity.md, argument-from-reason.md. See optimistic-2026-02-15.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
 ### P3: Write article on the phenomenology of trust and testimony
 - **Type**: expand-topic
 - **Status**: pending
@@ -153,6 +146,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on consciousness and normative authority
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15. Why some claims have *authority* over our thinking—not causal force (any brain state can cause belief) but genuine rational authority. The experience that a conclusion *must* follow, that a moral demand *cannot* be ignored. Normative authority may require conscious subjects in ways no physical system replicates. Builds on moral-phenomenology.md, phenomenal-normativity.md, argument-from-reason.md. See optimistic-2026-02-15.md
+- **Output**: consciousness and normative authority
 
 ### ✓ 2026-02-15: Strengthen placebo article's engagement with physicalist content theories
 - **Type**: refine-draft

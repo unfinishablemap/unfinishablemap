@@ -110,40 +110,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on childhood development and the interface
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-13. How the consciousness-matter interface develops in childhood. Piaget's stages, theory of mind development, and metacognition emergence offer developmental evidence about how consciousness increasingly engages with neural systems. The Map lacks developmental perspectives. Builds on consciousness-in-simple-organisms.md, comparative-consciousness-and-interface-differences.md, consciousness-and-intelligence.md. See optimistic-2026-02-13.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-13
-
-### P3: Create concept page for constructive memory
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-13. Schacter and Addis's constructive episodic simulation hypothesis is referenced in phenomenology-of-memory-and-the-self.md but has no concept page. Given the Map's interest in memory phenomenology, this deserves treatment connecting memory reconstruction to the past-self-void and the hard problem. See optimistic-2026-02-13.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-13
-
-### P3: Write article on consciousness and collective intentionality
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-15. How shared intentions, joint commitments, and "we-consciousness" arise from individual phenomenal experiences. Searle's collective intentionality, Tomasello's shared intentionality, Bratman's shared cooperative activity—each assumes agents with phenomenal understanding of each other. Builds on consciousness-and-social-cognition.md, intersubjectivity.md, theory-of-mind.md. See optimistic-2026-02-15.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
-### P3: Write article on the phenomenology of trust
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-15. Trust has distinctive phenomenal character—felt vulnerability, willed suspension of protective vigilance, emotional exposure. Trust is central to human social life and depends on phenomenal understanding of another's inner states. A zombie could mimic cooperative behaviour but could not *trust*. Builds on consciousness-and-social-cognition.md, moral-phenomenology.md, phenomenology-of-choice.md. See optimistic-2026-02-15.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
 ### P3: Write article on consciousness and normative authority
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: complete
 - **Notes**: Suggested by optimistic review 2026-02-15. Why some claims have *authority* over our thinking—not causal force (any brain state can cause belief) but genuine rational authority. The experience that a conclusion *must* follow, that a moral demand *cannot* be ignored. Normative authority may require conscious subjects in ways no physical system replicates. Builds on moral-phenomenology.md, phenomenal-normativity.md, argument-from-reason.md. See optimistic-2026-02-15.md
 - **Source**: optimistic-review
 - **Generated**: 2026-02-15
+- **Output**: [consciousness-and-normative-authority](/topics/consciousness-and-normative-authority/)
 
 ### P3: Write article on the phenomenology of trust and testimony
 - **Type**: expand-topic
@@ -182,6 +155,40 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Strengthen placebo article's engagement with physicalist content theories
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the content-specificity argument in placebo-effect-and-mental-causation.md skips the strongest physicalist response—functionalist accounts of mental content where content *is* functional role. The article should engage with this directly rather than presenting content-specificity as self-evidently problematic. See pessimistic-2026-02-15-morning.md
+- **Output**: Task context:
+Pessimistic review found that the content-specificity argument in placebo-effect-and-mental-causation.md skips the strongest physicalist response—functionalist accounts of mental content where content *is* functional role. The article should engage with this directly rather than presenting content-specificity as self-evidently problematic. See pessimistic-2026-02-15-morning.md
+
+### ✓ 2026-02-15: Address unfalsifiability in phenomenology-of-trust.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the trust article lacks a "What Would Challenge This View?" section and its core claim (trust requires phenomenal consciousness) is unfalsifiable as stated. Also: opening line uses "This is not X" pattern the style guide warns against; the observation that habitual trust recedes from awareness actually undermines the article's central claim and should be addressed. See pessimistic-2026-02-15-morning.md
+- **Output**: obsidian/topics/phenomenology-of-trust.md
+
+Task context:
+Pessimistic review found the trust article lacks a "What Would Challenge This View?" section and its core claim (trust requires phenomenal consciousness) is unfalsifiable as stated. Also: opening line uses "This is not X" pattern the style guide warns against; the observation that habitual trust recedes from awareness actually undermines the article's central claim and should be addressed. See pessimistic-2026-02-15-morning.md
+
+### ✓ 2026-02-15: Write article on the phenomenology of trust
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15. Trust has distinctive phenomenal character—felt vulnerability, willed suspension of protective vigilance, emotional exposure. Trust is central to human social life and depends on phenomenal understanding of another's inner states. A zombie could mimic cooperative behaviour but could not *trust*. Builds on consciousness-and-social-cognition.md, moral-phenomenology.md, phenomenology-of-choice.md. See optimistic-2026-02-15.md
+- **Output**: the phenomenology of trust
+
+### ✓ 2026-02-15: Write article on consciousness and collective intentionality
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15. How shared intentions, joint commitments, and "we-consciousness" arise from individual phenomenal experiences. Searle's collective intentionality, Tomasello's shared intentionality, Bratman's shared cooperative activity—each assumes agents with phenomenal understanding of each other. Builds on consciousness-and-social-cognition.md, intersubjectivity.md, theory-of-mind.md. See optimistic-2026-02-15.md
+- **Output**: consciousness and collective intentionality
+
+### ✓ 2026-02-15: Create concept page for constructive memory
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-13. Schacter and Addis's constructive episodic simulation hypothesis is referenced in phenomenology-of-memory-and-the-self.md but has no concept page. Given the Map's interest in memory phenomenology, this deserves treatment connecting memory reconstruction to the past-self-void and the hard problem. See optimistic-2026-02-13.md
+- **Output**: Create concept page for constructive memory
+
+### ✓ 2026-02-15: Write article on childhood development and the interface
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-13. How the consciousness-matter interface develops in childhood. Piaget's stages, theory of mind development, and metacognition emergence offer developmental evidence about how consciousness increasingly engages with neural systems. The Map lacks developmental perspectives. Builds on consciousness-in-simple-organisms.md, comparative-consciousness-and-interface-differences.md, consciousness-and-intelligence.md. See optimistic-2026-02-13.md
+- **Output**: childhood development and the interface
 
 ### ✓ 2026-02-15: Write topic on measurement problem as hard problem parallel
 - **Type**: expand-topic
