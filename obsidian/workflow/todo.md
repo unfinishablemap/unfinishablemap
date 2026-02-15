@@ -109,13 +109,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the phenomenology of trust
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-15. Trust has distinctive phenomenal character—felt vulnerability, willed suspension of protective vigilance, emotional exposure. Trust is central to human social life and depends on phenomenal understanding of another's inner states. A zombie could mimic cooperative behaviour but could not *trust*. Builds on consciousness-and-social-cognition.md, moral-phenomenology.md, phenomenology-of-choice.md. See optimistic-2026-02-15.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-15
-
 ### P3: Write article on consciousness and normative authority
 - **Type**: expand-topic
 - **Status**: pending
@@ -160,6 +153,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-02-15: Write article on the phenomenology of trust
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-15. Trust has distinctive phenomenal character—felt vulnerability, willed suspension of protective vigilance, emotional exposure. Trust is central to human social life and depends on phenomenal understanding of another's inner states. A zombie could mimic cooperative behaviour but could not *trust*. Builds on consciousness-and-social-cognition.md, moral-phenomenology.md, phenomenology-of-choice.md. See optimistic-2026-02-15.md
+- **Output**: the phenomenology of trust
 
 ### ✓ 2026-02-15: Write article on consciousness and collective intentionality
 - **Type**: expand-topic
