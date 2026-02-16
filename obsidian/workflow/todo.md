@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Write article on phenomenology of moral perception
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. How moral wrongness presents itself phenomenologically. Pain asymbolia evidence shows phenomenal valence drives moral motivation. Builds on consciousness-and-normative-authority.md, emotional-consciousness.md, phenomenal-conservatism-and-introspective-evidence.md. See optimistic-2026-02-16-evening.md
-
 ### P3: Write article on the interface specification problem
 - **Type**: expand-topic
 - **Status**: pending
@@ -145,6 +140,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-16: Write article on phenomenology of moral perception
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. How moral wrongness presents itself phenomenologically. Pain asymbolia evidence shows phenomenal valence drives moral motivation. Builds on consciousness-and-normative-authority.md, emotional-consciousness.md, phenomenal-conservatism-and-introspective-evidence.md. See optimistic-2026-02-16-evening.md
+- **Output**: phenomenology of moral perception
 
 ### ✓ 2026-02-16: Downgrade choking-as-proof-of-dualism in embodied-cognition.md
 - **Type**: refine-draft
