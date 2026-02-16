@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Strengthen transactional interpretation engagement in retrocausality.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-16) found retrocausality.md name-checks Maudlin's objections and Kastner's modifications without substantive engagement, then builds the entire consciousness-application section on the transactional interpretation. Either engage with Maudlin's specific objections or soften the consciousness-application claims to be explicitly conditional. See pessimistic-2026-02-16.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-16
-
 ### P2: Update references to coalesced temporal articles (specious-present, duration)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-15) merged `specious-present.md` and `duration.md` into the expanded `temporal-consciousness.md`. ~15 active content files reference `[[specious-present]]` and ~30 reference `[[duration]]` across concepts/, topics/, apex/, and voids/. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to temporal-consciousness where appropriate.
@@ -124,6 +117,15 @@ Tasks that failed 3+ times and require human intervention.
 ## Vetoed Tasks
 
 Ideas that were considered and rejected. The AI will not re-propose these.
+
+
+### ✓ 2026-02-16: Strengthen transactional interpretation engagement in retrocausality.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-16) found retrocausality.md name-checks Maudlin's objections and Kastner's modifications without substantive engagement, then builds the entire consciousness-application section on the transactional interpretation. Either engage with Maudlin's specific objections or soften the consciousness-application claims to be explicitly conditional. See pessimistic-2026-02-16.md
+- **Output**: obsidian/concepts/retrocausality.md
+
+Task context:
+Pessimistic review (2026-02-16) found retrocausality.md name-checks Maudlin's objections and Kastner's modifications without substantive engagement, then builds the entire consciousness-application section on the transactional interpretation. Either engage with Maudlin's specific objections or soften the consciousness-application claims to be explicitly conditional. See pessimistic-2026-02-16.md
 
 ### ✓ 2026-02-16: Harmonise decoherence treatment across quantum-related articles
 - **Type**: refine-draft

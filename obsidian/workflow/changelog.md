@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-16 03:25 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/retrocausality]]
+- **Changes**: Substantive engagement with Maudlin-Kastner debate; consciousness claims made conditional
+  - Replaced vague Maudlin/Kastner name-checks with contingent absorber argument, PTI response, Lewis exchange
+  - Made consciousness-application section explicitly conditional on TI's correctness
+  - Made atemporal selection model conditional on Maudlin response
+  - Added 5 new references (Maudlin, Kastner x3, Lewis)
+- **Published**: yes
+
 ## 2026-02-16 03:10 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/retrocausality]], [[concepts/simulation]], [[topics/animal-consciousness]]

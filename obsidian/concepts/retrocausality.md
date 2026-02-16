@@ -4,7 +4,7 @@ description: "Backward causation in time-symmetric quantum mechanics. On retroca
 created: 2026-01-07
 modified: 2026-01-07
 human_modified: null
-ai_modified: 2026-02-16T03:10:00+00:00
+ai_modified: 2026-02-16T03:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,24 +57,32 @@ Retrocausality has serious proponents and empirical grounding in physics.
 
 **Wheeler's delayed-choice**: Experiments confirm that measurement choices made *after* a particle passes through a double-slit can determine whether it behaved as wave or particle *earlier*. The 2017 satellite experiment extended this over thousands of kilometres. Wheeler extended this cosmologically in his "participatory universe"—future observers retroactively selecting the entire cosmic history. See [[prebiotic-collapse#Wheeler's Participatory Universe]] for how this addresses the question of what collapsed wavefunctions before consciousness existed.
 
-**The transactional interpretation**: Cramer's interpretation (1986) makes retrocausality explicit. Quantum events involve offer waves propagating forward, confirmation waves propagating backward, and an atemporal "handshake" that creates the transaction. The wave function is physically real; collapse occurs along the entire transaction simultaneously. This interpretation remains a minority view—critics including Tim Maudlin have argued it faces difficulties with specific experimental setups, and Ruth Kastner has developed a modified version (the possibilist transactional interpretation) attempting to address these concerns. The debate continues, but the interpretation provides a coherent framework in which retrocausality is built into physics.
+**The transactional interpretation**: Cramer's interpretation (1986) makes retrocausality explicit. Quantum events involve offer waves propagating forward, confirmation waves propagating backward, and an atemporal "handshake" that creates the transaction. The wave function is physically real; collapse occurs along the entire transaction simultaneously.
+
+Tim Maudlin (2011) mounted the most influential challenge. His "contingent absorber" thought experiment places an absorber whose position depends on whether a particle has already been detected elsewhere. The confirmation wave from the contingent absorber presupposes the outcome it is supposed to help determine, creating a causal loop in which the probabilities become either inconsistent or undefined. This is a genuine problem for Cramer's original formulation.
+
+Ruth Kastner's possibilist transactional interpretation (PTI) responds by relocating offer and confirmation waves to a pre-spacetime realm of possibilities rather than actual spacetime (Kastner 2012). On PTI, the contingent absorber setup cannot be constructed as described—macroscopic absorber positions are already determined by prior transactions. Kastner (2016) further argues that extending TI to the relativistic domain eliminates the Maudlin challenge entirely, since composite systems like atoms cannot serve as the slow-moving quantum objects Maudlin's setup requires. Peter Lewis (2013) contested the adequacy of these responses; Kastner (2014) replied. The debate has reached a stable impasse rather than resolution—typical of quantum interpretation disputes, where empirical tests cannot currently distinguish the candidates.
+
+The transactional interpretation thus remains contested but not refuted. The Map's use of TI as a framework for retrocausal consciousness should be understood accordingly: it is a coherent option, not an established fact.
 
 **Bell tests**: Retrocausal models offer an alternative to nonlocality for explaining entanglement correlations—later measurements retroactively influence earlier states, preserving locality at the cost of temporal direction.
 
 ## Application to Consciousness
 
-The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets propose that consciousness selects among superposed neural states. If this selection operates retrocausally—as would be natural on the transactional interpretation—then:
+The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets propose that consciousness selects among superposed neural states. If the transactional interpretation (or something like it) is correct, and if this selection operates retrocausally, then:
 
 1. The brain prepares multiple possible action patterns (superposition)
 2. Consciousness "selects" which pattern becomes actual
 3. This selection propagates backward, determining which neural history becomes real
 4. The readiness potential is part of the selected package, not a prior cause
 
+This application is conditional: it requires both a retrocausal interpretation of quantum mechanics and a quantum account of consciousness. Neither is established. But retrocausality is not the only route to dissolving the Libet problem—the Schurger neural-noise reinterpretation and classical models of temporally extended decision-making also offer resolutions. Retrocausality provides the most radical dissolution, while the alternatives chip away at the premises.
+
 The [[quantum-indeterminacy-free-will|systematic treatment of quantum indeterminacy and free will]] develops this in detail.
 
 ### The Atemporal Selection Model
 
-On the transactional interpretation, if consciousness operates at the level of the quantum handshake, asking "when does consciousness make the decision?" may be the wrong question. The decision isn't made *at* a time; it determines *which* times become real. See [[collapse-and-time]] for the implications. This model requires accepting both the transactional interpretation and the claim that consciousness interfaces with quantum transactions—a coherent package, though each element is contested.
+If the transactional interpretation is correct and consciousness operates at the level of the quantum handshake, asking "when does consciousness make the decision?" may be the wrong question. The decision isn't made *at* a time; it determines *which* times become real. See [[collapse-and-time]] for the implications. This model requires accepting both the transactional interpretation—including a satisfactory response to Maudlin's contingent absorber challenge—and the claim that consciousness interfaces with quantum transactions. Each element is contested; the package is coherent but speculative.
 
 ### Addressing Objections
 
@@ -169,7 +177,12 @@ The Libet experiments don't refute conscious causation—provided one accepts an
 ## References
 
 - Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
+- Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
+- Kastner, R. E. (2014). Maudlin's challenge refuted: A reply to Lewis. *Studies in History and Philosophy of Modern Physics*, 47, 15-20.
+- Kastner, R. E. (2016). The relativistic transactional interpretation: Immune to the Maudlin challenge. *Foundations of Physics*, 46, 1-16.
+- Lewis, P. J. (2013). Retrocausal quantum mechanics: Maudlin's challenge revisited. *Studies in History and Philosophy of Modern Physics*, 44, 442-449.
 - Libet, B. et al. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623-642.
+- Maudlin, T. (2011). *Quantum Non-Locality and Relativity* (3rd ed.). Wiley-Blackwell.
 - Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
 - Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 - Sjöberg, R. L. (2024). SMA lesions and voluntary action. *Journal of Cognitive Neuroscience*.
@@ -177,16 +190,15 @@ The Libet experiments don't refute conscious causation—provided one accepts an
 
 <!-- AI REFINEMENT LOG - 2026-02-16
 Changes made:
-- Expanded decoherence section from a brief dismissal to a substantive treatment with three numbered responses
-- Added measurement problem argument: decoherence selects bases, not outcomes
-- Added specific citation for Hagan et al. (2002) instead of vague "Hameroff's group"
-- Acknowledged the Tegmark-Hameroff debate remains empirically unresolved
-- Added cross-reference to the dedicated decoherence article
-- Noted that decoherence challenge applies to any quantum consciousness mechanism retrocausality is paired with
-- Softened "dissolves this threat completely" to "would dissolve this threat—if the retrocausal interpretation is correct"
+- Replaced vague Maudlin/Kastner name-checks with substantive engagement: Maudlin's contingent absorber argument, the causal loop problem, and why it challenges Cramer's original TI
+- Added Kastner's PTI response (pre-spacetime possibilities), her relativistic argument (2016), and the Lewis (2013)/Kastner (2014) exchange
+- Made consciousness-application section explicitly conditional: "If the transactional interpretation (or something like it) is correct, and if this selection operates retrocausally"
+- Added paragraph noting retrocausality is not the only Libet dissolution (Schurger, classical models)
+- Made atemporal selection model conditional on satisfactory response to Maudlin's challenge
+- Added references: Maudlin 2011, Kastner 2012/2014/2016, Lewis 2013
 
-Based on pessimistic review 2026-02-16 identifying inconsistent treatment of decoherence across retrocausality, simulation, and animal-consciousness articles.
-Key improvements: Consistent decoherence position acknowledging it as a serious open challenge with specific responses.
+Based on pessimistic review 2026-02-16 identifying that article name-checks Maudlin and Kastner without substantive engagement, then builds consciousness-application on TI unconditionally.
+Key improvements: Genuine engagement with the Maudlin debate; consciousness claims now explicitly conditional on TI's correctness.
 
 This log should be removed after human review.
 -->
