@@ -28,6 +28,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 New research explores consciousness's deepest confinement—not to a place or moment, but to one mode of being. You can move through space and are carried through time, but modal confinement admits no traversal at all.
 
 **Type**: research  
+**Tweet**: https://x.com/unfinishablemap/status/2023310955828990271  
 **Link**: [voids-modal-void-2026-02-16](/research/voids-modal-void-2026-02-16/)
 
 ---
