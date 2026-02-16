@@ -18,6 +18,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-16 20:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Interface Specification Problem
+- **Output**: [the-interface-specification-problem](/topics/the-interface-specification-problem/)
+- **Word count**: 2290
+- **Based on research**: No
+
 ## 2026-02-16 20:43 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Moral Perception
