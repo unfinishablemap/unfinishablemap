@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-03 05:54:00+00:00
+ai_modified: 2026-02-16 19:13:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -75,7 +75,7 @@ The key phenomenological transition occurs between competent and expert performa
 
 This withdrawal is not elimination. Consciousness *delegates* to procedural systems but retains the ability to re-engage—and this re-engagement capacity has revealing consequences.
 
-### Choking Under Pressure: The Bidirectional Evidence
+### Choking Under Pressure
 
 When skilled performers face high-pressure situations, a counterintuitive breakdown occurs: conscious attention to automatized skills *degrades* performance. The expert golfer thinking about their swing, the concert pianist monitoring their finger placement—all perform worse than when acting without self-focus.
 
@@ -86,15 +86,17 @@ Baumeister and Beilock's *explicit monitoring theory* explains the mechanism: pr
 - Dual-task conditions that occupy conscious attention can *improve* skilled performance
 - Instructions to focus on outcomes rather than mechanics reduce choking
 
-This provides direct evidence for [bidirectional interaction](/concepts/mental-causation/). Consider the causal chain: (1) conscious attention shifts to procedural execution, (2) procedural execution is disrupted, (3) performance degrades. If consciousness were epiphenomenal—a mere byproduct—step 2 couldn't follow from step 1. The fact that *attending to skills interferes with them* shows consciousness isn't causally inert.
+This is consistent with [bidirectional interaction](/concepts/mental-causation/). Consider the causal chain: (1) conscious attention shifts to procedural execution, (2) procedural execution is disrupted, (3) performance degrades. If consciousness were epiphenomenal—a mere byproduct—step 2 couldn't follow from step 1.
 
-The evidence is particularly strong because the effect is *negative*. Why would a causally inert consciousness generate systematic *interference*? Choking requires that conscious attention genuinely does something. Embodied cognition reveals *where* consciousness interfaces with bodily systems; choking reveals that the interface operates bidirectionally.
+The standard neuroscience interpretation, however, explains choking without invoking non-physical causation: conscious monitoring is itself a neural process that competes with automated motor routines for shared resources. On this reading, "attention disrupting performance" is one neural process interfering with another—no dualist mechanism required. Baumeister and Beilock's own explanations are framed in these neural-functional terms.
+
+The dualist reading requires additional philosophical commitments—specifically, that the phenomenological categories tracking these effects (absorbed versus self-reflective, outcome-focused versus mechanics-focused) reflect genuine mental causation rather than folk descriptions of neural processing modes. Both readings accommodate the data; the choice between them depends on broader commitments about consciousness.
 
 ### The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) attempts to explain choking without genuine mental causation—"attention" disrupting performance is just brain state interfering with brain state. But this still requires that *something* does the seeming. The phenomenology of effortful monitoring must appear *to* something.
+[Illusionism](/concepts/illusionism/) attempts to explain choking without genuine mental causation—"attention" disrupting performance is just brain state interfering with brain state. The illusionist account is parsimonious and consistent with the neuroscience. The dualist response is that it still requires *something* to which the phenomenology of effortful monitoring appears—the seeming must be someone's seeming.
 
-Crucially, the choking literature shows that phenomenological categories—outcome-focused versus mechanics-focused, absorbed versus self-reflective—predict performance. Subjects told to focus on outcomes versus mechanics show different results. If these were merely folk artifacts, such manipulations shouldn't work systematically. The phenomenological vocabulary tracks something real, even if it eventually receives different description.
+The choking literature does show that phenomenological categories—outcome-focused versus mechanics-focused, absorbed versus self-reflective—predict performance. Subjects told to focus on outcomes versus mechanics show different results. Whether these phenomenological variables track genuine mental causation or function as folk descriptions of neural processing modes remains the central dispute. The Map reads the data as supporting bidirectional interaction, while acknowledging the physicalist reading is mainstream (see the [illusionism](/concepts/illusionism/) article for the full debate).
 
 This phenomenological heritage matters. Merleau-Ponty treated lived experience as irreducible, rejecting both Cartesian dualism and reductive materialism. The lived body is a third term—leaving space for property dualism while rejecting substance dualism.
 
@@ -156,7 +158,7 @@ The *jhāna* (meditative absorption) literature maps skill acquisition: early jh
 
 The compatibility between embodied cognition and dualism would be undermined if:
 
-1. **Choking proves fully explicable by neural interference alone.** If future neuroscience can predict exactly when choking occurs purely from neural states—without reference to phenomenological categories like "absorbed" versus "self-monitoring"—this would support the illusionist reading. Currently, the best predictors involve phenomenological variables.
+1. **Choking proves fully explicable by neural interference alone.** The standard neuroscience reading already explains choking through neural resource competition. If future research shows that phenomenological categories like "absorbed" versus "self-monitoring" add no predictive power beyond their neural correlates, the case for reading choking as evidence of bidirectional interaction would weaken further.
 
 2. **Expertise eliminates consciousness entirely.** The Dreyfus model claims experts act without self-observation, not without experience. But if advanced brain imaging revealed that expert performance correlates with neural patterns identical to dreamless sleep or anaesthesia, the claim that expertise involves a different *mode* of consciousness would need revision.
 
@@ -172,13 +174,13 @@ Embodied cognition's relationship to the Map's tenets requires careful analysis:
 
 **[Dualism](/tenets/#dualism)**: Embodied cognition explicitly opposes Cartesian substance dualism—the view that mind is an entirely separate substance from body. However, property dualism—the view that phenomenal properties are irreducible even if mind depends on body—remains untouched. The phenomenological tradition embedded in enactivism actually supports irreducibility of experience. Merleau-Ponty rejected eliminativism as firmly as he rejected Cartesian dualism.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Enactivism's emphasis on autonomous agency fits bidirectional interaction. Consciousness acts through the body; the body constrains consciousness. The "enacted" world arises through ongoing mutual influence. If consciousness merely accompanied physical processes, this constitutive role would be inexplicable.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Enactivism's emphasis on autonomous agency is compatible with bidirectional interaction. Consciousness acts through the body; the body constrains consciousness. The "enacted" world arises through ongoing mutual influence. The choking evidence is consistent with this picture—conscious attention appears to genuinely affect motor performance—though the standard neuroscience interpretation frames this as neural resource competition rather than non-physical causation.
 
 **[Occam's Razor Has Limits](/tenets/#occam)**: The phenomenological emphasis on first-person investigation supports this tenet. Embodied cognitivists in the enactive tradition insist that consciousness cannot be understood through third-person description alone. Bracketing first-person data doesn't achieve simplicity—it ignores the most fundamental evidence.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum)**: The [attention-as-interface](/concepts/attention-as-interface/) model proposes consciousness influences neural activity through the quantum Zeno effect. The Dreyfus distinction between absorbed and reflective attention may map onto this: absorbed flow allows procedural systems to operate without Zeno stabilisation, while self-monitoring activates the mechanism inappropriately. This remains speculative, but embodied cognition reveals *where* consciousness interfaces with motor systems regardless of whether the mechanism is quantum or classical.
 
-**[No Many Worlds](/tenets/#no-mwi)**: The choking evidence challenges Many-Worlds interpretations. If all branches occur, "choking" would be mere indexical bad luck. But the phenomenon's systematic structure—predictable by phenomenological variables, trainable through attention management—suggests genuine selection. If outcomes were merely revealed rather than selected, why would attention training reduce choking rates? Training works because consciousness does something specific.
+**[No Many Worlds](/tenets/#no-mwi)**: The Map reads the choking evidence as more naturally accommodated by collapse interpretations than by Many-Worlds. However, MWI proponents would note that attention training changes the brain's physical state, thereby changing branching ratios—systematic, trainable effects on performance are compatible with MWI. The stronger anti-MWI argument comes from elsewhere: the phenomenology of singular determination in effortful selection (see [mental-effort](/concepts/mental-effort/)).
 
 The key point: embodied cognition challenges a specific historical position (Cartesian substance dualism) without refuting dualism as such. Showing that cognition is embodied doesn't show that consciousness is purely physical. The hard problem persists: explaining how bodily interaction produces subjective experience is just as difficult as explaining how brain computation does.
 
@@ -209,3 +211,19 @@ The key point: embodied cognition challenges a specific historical position (Car
 - Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 - Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
 - Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+
+<!-- AI REFINEMENT LOG - 2026-02-16
+Changes made:
+- Downgraded choking-under-pressure from "direct evidence for bidirectional interaction" to "consistent with" bidirectional interaction
+- Added explicit acknowledgment that the standard neuroscience reading (neural resource competition) is mainstream
+- Renamed section from "Choking Under Pressure: The Bidirectional Evidence" to "Choking Under Pressure"
+- Revised illusionist challenge section to acknowledge physicalist reading rather than dismissing it
+- Fixed Bidirectional Interaction tenet section to present choking as "consistent with" rather than proof
+- Fixed No Many Worlds tenet section: acknowledged MWI can accommodate trainable choking effects
+- Updated "What Would Challenge This View?" to acknowledge existing physicalist explanations
+
+Based on pessimistic-2026-02-16-evening.md review (Issue 2).
+Key improvements: Epistemic honesty about the physicalist mainstream reading of choking data.
+
+This log should be removed after human review.
+-->

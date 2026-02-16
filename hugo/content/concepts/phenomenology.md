@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-02 13:59:00+00:00
+ai_modified: 2026-02-16 19:13:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -105,7 +105,7 @@ If consciousness is essentially first-person, how can phenomenological findings 
 
 This convergence is not explained by shared concepts alone. Meditators in different traditions identify the same experiential landmarks. Husserl's time-consciousness, Merleau-Ponty's motor intentionality, and Buddhist accounts of *citta* describe recognizably similar phenomena—suggesting genuine access to experiential structure.
 
-This distinguishes phenomenology from [heterophenomenology](/concepts/heterophenomenology/)—Dennett's approach that treats reports as behavioral data without committing to phenomenal reality. Heterophenomenology eliminates subjectivity; phenomenology preserves it through intersubjective encounter. First-person access can be shared while remaining irreducibly first-person.
+This distinguishes phenomenology from [heterophenomenology](/concepts/heterophenomenology/)—Dennett's approach that treats subjective reports as data while remaining agnostic about whether those reports accurately describe inner phenomenal states. Dennett's point is not that subjectivity is eliminated but that first-person reports can be taken seriously as behavioral evidence without metaphysical commitment to their phenomenal accuracy. The phenomenological tradition objects that this agnosticism is inadequate: by bracketing the question of whether reports reflect genuine phenomenal properties, heterophenomenology loses access to the very datum—lived experience—that consciousness science most needs to explain. First-person access can be shared through intersubjective encounter while remaining irreducibly first-person.
 
 ## Eastern Precedents
 
@@ -161,7 +161,7 @@ Phenomenology's claims about first-person irreducibility could be undermined if:
 
 Phenomenology supports all five of the Map's foundational commitments:
 
-**[Dualism](/tenets/#dualism)**: Phenomenology provides systematic evidence that consciousness has irreducible first-person features. Intentionality cannot be naturalized (Brentano's thesis remains unrefuted). The temporal structure of experience differs from physical time. The qualitative character of perception is disclosed only to the subject. These features resist capture in physical terms. The [illusionist](/concepts/illusionism/) attempt to explain this away founders on self-stultification: denying phenomenal consciousness requires invoking phenomenal consciousness.
+**[Dualism](/tenets/#dualism)**: Phenomenology provides systematic evidence that consciousness has irreducible first-person features. Brentano's thesis—that intentionality is "the mark of the mental"—has resisted full naturalization despite sustained attempts (Millikan's teleosemantics, Dretske's information-theoretic semantics, Fodor's asymmetric dependence theory). Whether these programmes succeed remains actively contested, but they have not achieved consensus that intentionality reduces to non-mental terms. The temporal structure of experience differs from physical time. The qualitative character of perception is disclosed only to the subject. These features resist capture in physical terms. The [illusionist](/concepts/illusionism/) attempt to explain this away founders on self-stultification: denying phenomenal consciousness requires invoking phenomenal consciousness.
 
 **[Occam's Razor Has Limits](/tenets/#occam)**: Phenomenology demonstrates that simplicity arguments against dualism may reflect ignorance. Materialist accounts achieve "simplicity" by bracketing the very data—first-person experience—that need explaining. Husserl's rigorous method reveals consciousness's complexity invisible to third-person science. The apparent parsimony of physicalism comes at the cost of ignoring the most fundamental evidence.
 
@@ -208,3 +208,14 @@ Phenomenology doesn't definitively prove dualism. But it provides methodological
 - Varela, F. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 - Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+
+<!-- AI REFINEMENT LOG - 2026-02-16
+Changes made:
+- Replaced "Brentano's thesis remains unrefuted" with nuanced acknowledgment of major naturalization programmes (Millikan, Dretske, Fodor) and their contested status
+- Fixed heterophenomenology mischaracterization: changed "eliminates subjectivity" to accurate description of Dennett's agnosticism about phenomenal accuracy, with the genuine disagreement being about whether that agnosticism is adequate
+
+Based on pessimistic-2026-02-16-evening.md review (Issues 3, 5).
+Key improvements: Fair treatment of opposing positions; accurate representation of Dennett's heterophenomenology.
+
+This log should be removed after human review.
+-->

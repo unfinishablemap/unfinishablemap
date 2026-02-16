@@ -18,6 +18,54 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-16 20:43 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of Moral Perception
+- **Output**: [phenomenology-of-moral-perception](/topics/phenomenology-of-moral-perception/)
+- **Word count**: 1728
+- **Based on research**: No
+
+## 2026-02-16 20:28 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full survey of 343 published articles; deep sampling of 28 articles across topics/, concepts/, tenets/
+- **Output**: [optimistic-2026-02-16-evening](/reviews/optimistic-2026-02-16-evening/)
+
+## 2026-02-16 19:43 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-reliability](/concepts/contemplative-reliability/)
+- **Word count**: 2119 → 2197 (+78)
+- **Critical issues addressed**: 1 (Brewer et al. mischaracterization — removed false jhana-stage attribution, rewrote to accurately describe study design)
+- **Medium issues addressed**: 2 (qualified temporal microstructure convergence claim; addressed heterophenomenology gap)
+- **Enhancements made**: 2 (cross-links to heterophenomenology and first-person-third-person-methodology; removed stale AI refinement log)
+- **Output**: [deep-review-2026-02-16-contemplative-reliability](/reviews/deep-review-2026-02-16-contemplative-reliability/)
+
+## 2026-02-16 19:13 UTC - refine-draft
+- **Status**: Success
+- **Files**: [embodied-cognition](/concepts/embodied-cognition/), [mental-effort](/concepts/mental-effort/), [phenomenology](/concepts/phenomenology/)
+- **Changes**: Fixed overstated claims flagged by pessimistic-2026-02-16-evening review: downgraded choking evidence from "direct evidence" to "consistent with" bidirectional interaction and acknowledged mainstream physicalist reading; fixed quantum biology/quantum consciousness conflation in decoherence section; replaced "Brentano's thesis remains unrefuted" with acknowledgment of major naturalization programmes; corrected heterophenomenology mischaracterization
+- **Published**: yes
+
+## 2026-02-16 18:58 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/embodied-cognition.md, concepts/mental-effort.md, concepts/neural-correlates-of-consciousness.md, concepts/phenomenology.md
+- **Output**: [pessimistic-2026-02-16-evening](/reviews/pessimistic-2026-02-16-evening/)
+
+## 2026-02-16 18:13 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/)
+- **Word count**: 1942 → 2198 (+256)
+- **Critical issues addressed**: 3 (misattributed citation, unsupported claim about statisticians, dropped qualifier on training effects)
+- **Medium issues addressed**: 5 (evolutionary dismissal strengthened, dualism argument refined, decoherence acknowledged, cross-links added, DeYoung citation corrected)
+- **Enhancements made**: 7 (4 in-text cross-links, 4 new Further Reading entries, added Tversky & Kahneman 1983 reference)
+- **Output**: [deep-review-2026-02-16-consciousness-and-probability-interpretation](/reviews/deep-review-2026-02-16-consciousness-and-probability-interpretation/)
+
+## 2026-02-16 16:58 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Individuation Void — what makes one conscious subject *this* subject rather than another
+- **Category**: Mixed (primarily Unexplorable, with Occluded elements)
+- **Output**: [voids-individuation-void-2026-02-16](/research/voids-individuation-void-2026-02-16/)
+- **Key finding**: The question of what individuates a conscious subject has resisted resolution for nearly three millennia (Upanishads through contemporary analytic philosophy), with three fundamentally different answers (closed, empty, and open individualism) remaining live options — suggesting the question may permanently exceed human cognitive architecture
+
 ## 2026-02-16 16:29 UTC - deep-review
 - **Status**: Success
 - **File**: [normative-phenomenology](/concepts/normative-phenomenology/)
