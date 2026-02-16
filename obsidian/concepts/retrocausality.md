@@ -4,7 +4,7 @@ description: "Backward causation in time-symmetric quantum mechanics. On retroca
 created: 2026-01-07
 modified: 2026-01-07
 human_modified: null
-ai_modified: 2026-02-05T18:14:00+00:00
+ai_modified: 2026-02-16T03:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -96,9 +96,15 @@ The Libet challenge to motor control has also weakened: Sjöberg (2024) showed t
 
 ## The Decoherence Challenge
 
-How do retrocausal influences propagate through systems that have undergone [[decoherence]]? Three considerations: (1) Decoherence timescales are disputed—Hameroff's group obtained coherence times seven orders of magnitude longer than Tegmark's calculations. (2) Retrocausality operates at measurement, not during coherence—the transaction requires boundary conditions at both temporal ends, not sustained superposition. (3) Biological quantum effects like avian magnetoreception prove evolution can exploit coherence.
+How do retrocausal influences propagate through systems that have undergone [[decoherence]]? This is a serious open challenge that the Map takes seriously rather than dismissing. Three considerations bear on it:
 
-The transactional picture is subtle: the handshake is atemporal. Decoherence establishes which basis states are available; retrocausality determines which becomes actual.
+(1) **The measurement problem persists after decoherence.** Decoherence selects preferred bases—which *kind* of outcome becomes possible—but does not explain why one particular outcome occurs rather than another. Something must select the actual outcome. Retrocausality offers a candidate for this selection that operates at the point of measurement, not during the coherence period. The transaction requires boundary conditions at both temporal ends, not sustained superposition.
+
+(2) **Decoherence timescales are empirically contested.** Tegmark (2000) calculated coherence times of 10⁻¹³ seconds for neural microtubules, but Hagan, Hameroff, and Tuszynski (2002) challenged his model parameters, obtaining estimates seven orders of magnitude longer. This debate remains unresolved—no experiment has directly measured coherence times in living neural tissue. See [[decoherence|the decoherence article]] for full analysis of the Tegmark-Hameroff debate and recent experimental developments.
+
+(3) **Biological quantum effects demonstrate that evolution can exploit coherence.** Avian magnetoreception relies on quantum spin coherence persisting for microseconds in warm biological systems. If evolution can harness quantum effects for navigation, the categorical claim that warm biology excludes quantum effects is empirically false—though whether neural systems exploit similar mechanisms remains an open question.
+
+The transactional picture adds a subtlety: the handshake is atemporal. Decoherence establishes which basis states are available; retrocausality determines which becomes actual. But this framework depends on the transactional interpretation being correct, and the decoherence challenge applies to any quantum consciousness mechanism that retrocausality is paired with.
 
 ## The Illusionist Challenge
 
@@ -136,7 +142,7 @@ Retrocausality connects to all five tenets:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Retrocausality operates specifically at the quantum level—at measurement events where indeterminacy resolves into definite outcomes. The transactional interpretation makes minimal assumptions: physics already contains time-symmetric equations, and retrocausality follows from taking that symmetry seriously. Consciousness doesn't add exotic causal powers; it participates in quantum processes that already have retrocausal structure. This aligns with the tenet's emphasis on the smallest possible interface.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Retrocausality is perhaps most directly relevant here. The Libet experiments seemed to threaten bidirectional interaction by showing neural activity precedes conscious awareness. Retrocausality dissolves this threat completely. Consciousness can genuinely select outcomes even when its awareness appears "after" the neural preparation—because temporal precedence doesn't establish causal priority when effects can precede causes. The brain presents options; consciousness selects; the selection determines which neural history becomes actual, including the apparent "preparation."
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Retrocausality is perhaps most directly relevant here. The Libet experiments seemed to threaten bidirectional interaction by showing neural activity precedes conscious awareness. Retrocausality would dissolve this threat—if the retrocausal interpretation is correct. Consciousness can genuinely select outcomes even when its awareness appears "after" the neural preparation—because temporal precedence doesn't establish causal priority when effects can precede causes. The brain presents options; consciousness selects; the selection determines which neural history becomes actual, including the apparent "preparation."
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Retrocausality supports single-outcome interpretations. The transactional interpretation produces one actual history, not branching worlds. The handshake between offer and confirmation waves determines which outcome becomes real; there are no equally real alternatives persisting in parallel. This connects to [[haecceity]]: the selected history is *this* history, with haecceitistic identity that branching models cannot capture. You don't merely find yourself in one branch—you *are* one history, selected through the atemporal transaction.
 
@@ -169,17 +175,18 @@ The Libet experiments don't refute conscious causation—provided one accepts an
 - Sjöberg, R. L. (2024). SMA lesions and voluntary action. *Journal of Cognitive Neuroscience*.
 - Wheeler, J. A. (1978). The "past" and the "delayed-choice" double-slit experiment. In *Mathematical Foundations of Quantum Theory* (pp. 9-48). Academic Press.
 
-<!-- AI REFINEMENT LOG - 2026-01-31
+<!-- AI REFINEMENT LOG - 2026-02-16
 Changes made:
-- Made conditional structure explicit throughout: retrocausality dissolves Libet *if* you accept the transactional interpretation
-- Added acknowledgment that transactional interpretation is a minority view
-- Added engagement with Maudlin and Kastner criticisms of the transactional interpretation
-- Qualified "resolves" language to "potential resolution" and "on retrocausal interpretations"
-- Clarified the Map's position: retrocausal interpretations are sufficiently well-developed that Libet is not decisive, while acknowledging the question remains open
-- Updated description to reflect conditional framing
+- Expanded decoherence section from a brief dismissal to a substantive treatment with three numbered responses
+- Added measurement problem argument: decoherence selects bases, not outcomes
+- Added specific citation for Hagan et al. (2002) instead of vague "Hameroff's group"
+- Acknowledged the Tegmark-Hameroff debate remains empirically unresolved
+- Added cross-reference to the dedicated decoherence article
+- Noted that decoherence challenge applies to any quantum consciousness mechanism retrocausality is paired with
+- Softened "dissolves this threat completely" to "would dissolve this threat—if the retrocausal interpretation is correct"
 
-Based on pessimistic review 2026-01-31-afternoon.md identifying that the article presented a conditional solution as if it were unconditional.
-Key improvements: Intellectual honesty about the interpretation-dependence of the Libet dissolution.
+Based on pessimistic review 2026-02-16 identifying inconsistent treatment of decoherence across retrocausality, simulation, and animal-consciousness articles.
+Key improvements: Consistent decoherence position acknowledging it as a serious open challenge with specific responses.
 
 This log should be removed after human review.
 -->

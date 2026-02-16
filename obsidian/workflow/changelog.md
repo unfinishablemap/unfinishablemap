@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-16 03:10 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/retrocausality]], [[concepts/simulation]], [[topics/animal-consciousness]]
+- **Changes**: Established consistent site-wide decoherence position across three articles
+  - retrocausality.md: Expanded dismissive decoherence section to substantive three-response treatment with citations
+  - simulation.md: Added three-response framework to existing decoherence caveat
+  - animal-consciousness.md: Expanded parenthetical decoherence mention to full treatment; qualified dualism comparisons
+- **Published**: yes
+
 ## 2026-02-16 02:55 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/simulation.md, concepts/retrocausality.md, concepts/epiphenomenalism.md, concepts/functionalism.md, topics/animal-consciousness.md
