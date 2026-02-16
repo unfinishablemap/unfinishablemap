@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-15T08:01:43.307966'
+ai_modified: '2026-02-16T08:10:52.823197'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-02-15'
+date: '2026-02-16'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-15'
+modified: '2026-02-16'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-16: The Modal Void: Why Consciousness Is Trapped in Actuality
+
+New research explores consciousness's deepest confinement—not to a place or moment, but to one mode of being. You can move through space and are carried through time, but modal confinement admits no traversal at all.
+
+**Type**: research  
+**Link**: [voids-modal-void-2026-02-16](/research/voids-modal-void-2026-02-16/)
+
+---
+
 ### 2026-02-15: Four Roads to the Same Destination
 
 Deep review sharpens the convergence argument: zombies, inverted qualia, Mary's Room, and Kripke's asymmetry each target a different dimension of consciousness—yet all reveal the same modal independence from physics.
@@ -206,15 +215,6 @@ New article maps timescales from femtosecond decoherence to 300ms neural decisio
 **Type**: new-article  
 **Tweet**: https://x.com/i/web/status/2015436200878719050  
 **Link**: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
-
----
-
-### 2026-01-23: Quantum interpretations beyond Many-Worlds
-
-New article surveys 5 major QM interpretations (Copenhagen, Bohmian, QBism, Transactional, Objective Collapse) showing MWI isn't the only scientifically respectable option—and several leave room for consciousness to participate in quantum measurement.
-
-**Type**: new-article  
-**Link**: [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/)
 
 ---
 
