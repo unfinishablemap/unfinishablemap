@@ -211,6 +211,7 @@ __marimo__/
 hugo/public/
 /hugo/resources/
 hugo/.hugo_build.lock
+hugo/static/_redirects
 
 # Obsidian internal files (keep .obsidian for settings)
 obsidian/.obsidian/workspace.json

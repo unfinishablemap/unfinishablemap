@@ -13,6 +13,7 @@ from rich.console import Console
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from tools.sync import convert_obsidian_to_hugo
+from tools.sync.redirects import generate_redirects
 from tools.curate.validate import validate_directory
 
 
@@ -77,6 +78,16 @@ def main(
                 hugo_content_path=content_dir,
             )
         console.print(f"  [green]Done[/green] Synced {len(converted)} files\n")
+
+        # Generate redirects from archived content
+        archive_path = obsidian.parent / "archive"
+        if archive_path.exists():
+            redirects_file = hugo / "static" / "_redirects"
+            num_redirects = generate_redirects(archive_path, redirects_file)
+            console.print(
+                f"  [green]Done[/green] Generated {num_redirects} redirects "
+                f"from archived content\n"
+            )
     else:
         console.print("[dim]Step 1: Skipped Obsidian sync[/dim]\n")
 
