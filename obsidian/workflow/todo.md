@@ -109,11 +109,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on philosophy of perception under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-16. How does the Map handle the relationship between perception and reality if consciousness is irreducible? Direct realism, representationalism, and naive realism each have different implications for dualist interactionism. The Galilean exclusion creates pressure: if secondary qualities were excluded from physics, are they real features of the world or of consciousness? Builds on consciousness-and-scientific-methodology.md, phenomenology-of-perceptual-constancy.md, phenomenal-transparency.md. See optimistic-2026-02-16.md
-
 ### P3: Write article on consciousness and the authority of mathematics
 - **Type**: expand-topic
 - **Status**: pending
@@ -138,6 +133,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-16: Write article on philosophy of perception under dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-16. How does the Map handle the relationship between perception and reality if consciousness is irreducible? Direct realism, representationalism, and naive realism each have different implications for dualist interactionism. The Galilean exclusion creates pressure: if secondary qualities were excluded from physics, are they real features of the world or of consciousness? Builds on consciousness-and-scientific-methodology.md, phenomenology-of-perceptual-constancy.md, phenomenal-transparency.md. See optimistic-2026-02-16.md
+- **Output**: philosophy of perception under dualism
 
 ### ✓ 2026-02-16: Strengthen transactional interpretation engagement in retrocausality.md
 - **Type**: refine-draft
