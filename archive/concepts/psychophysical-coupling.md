@@ -6,6 +6,11 @@ modified: 2026-01-29
 human_modified: null
 ai_modified: 2026-02-06T18:54:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-16T15:44:00+00:00
+superseded_by: "/concepts/psychophysical-laws/"
+archive_reason: "Coalesced into Psychophysical Laws"
+original_path: "/concepts/psychophysical-coupling/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"

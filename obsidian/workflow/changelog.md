@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-16 15:44 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[psychophysical-laws]], [[psychophysical-coupling]]
+- **Target**: [[psychophysical-laws]]
+- **Archived**: [[archive/concepts/psychophysical-coupling]]
+- **References to review**: ~27 active content files (follow-up task created in todo.md)
+- **Section impact**: concepts/ reduced from 180 to 179 articles (cap: 200)
+
 ## 2026-02-16 15:13 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/attention-as-interface]]
