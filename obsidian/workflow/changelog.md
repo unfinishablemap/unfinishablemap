@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-16 18:13 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-probability-interpretation]]
+- **Word count**: 1942 → 2198 (+256)
+- **Critical issues addressed**: 3 (misattributed citation, unsupported claim about statisticians, dropped qualifier on training effects)
+- **Medium issues addressed**: 5 (evolutionary dismissal strengthened, dualism argument refined, decoherence acknowledged, cross-links added, DeYoung citation corrected)
+- **Enhancements made**: 7 (4 in-text cross-links, 4 new Further Reading entries, added Tversky & Kahneman 1983 reference)
+- **Output**: [[reviews/deep-review-2026-02-16-consciousness-and-probability-interpretation]]
+
 ## 2026-02-16 16:58 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Individuation Void — what makes one conscious subject *this* subject rather than another
