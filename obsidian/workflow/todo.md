@@ -109,11 +109,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for agent teleology
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-16. Genuine purpose introduced by conscious agents into an otherwise mechanistic universe, distinguished from cosmic and theological teleology. Referenced in evolution-under-dualism.md. Central to the Map's position on free will and evolution but not yet defined anywhere. See optimistic-2026-02-16.md
-
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
@@ -123,6 +118,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-16: Create concept page for agent teleology
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-16. Genuine purpose introduced by conscious agents into an otherwise mechanistic universe, distinguished from cosmic and theological teleology. Referenced in evolution-under-dualism.md. Central to the Map's position on free will and evolution but not yet defined anywhere. See optimistic-2026-02-16.md
+- **Output**: Create concept page for agent teleology
 
 ### ✓ 2026-02-16: Create concept page for Galilean exclusion
 - **Type**: expand-topic
