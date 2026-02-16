@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Downgrade choking-as-proof-of-dualism in embodied-cognition.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-16 evening) found embodied-cognition.md claims choking "provides direct evidence for bidirectional interaction," but the standard neuroscience reading is neural resource competition (attention as a neural process competing with motor routines). Downgrade to "consistent with" and acknowledge the physicalist reading is mainstream. Also fix the quantum biology conflation in mental-effort.md's decoherence section and the Brentano "unrefuted" claim in phenomenology.md. See pessimistic-2026-02-16-evening.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-16
-
 ### P2: Verify Gallagher & Zahavi (2025) citation in phenomenology.md
 - **Type**: other
 - **Notes**: Pessimistic review (2026-02-16 evening) flagged "Gallagher, S., & Zahavi, D. (2025). Cognitive science needs phenomenology. *Journal for the Theory of Social Behaviour*. Advance online publication." as potentially fictitious. Verify this citation exists; if not, remove or replace with a verifiable source. See pessimistic-2026-02-16-evening.md
@@ -136,6 +130,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-16: Downgrade choking-as-proof-of-dualism in embodied-cognition.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-16 evening) found embodied-cognition.md claims choking "provides direct evidence for bidirectional interaction," but the standard neuroscience reading is neural resource competition (attention as a neural process competing with motor routines). Downgrade to "consistent with" and acknowledge the physicalist reading is mainstream. Also fix the quantum biology conflation in mental-effort.md's decoherence section and the Brentano "unrefuted" claim in phenomenology.md. See pessimistic-2026-02-16-evening.md
+- **Output**: obsidian/concepts/embodied-cognition.md
+
+Task context:
+Pessimistic review (2026-02-16 evening) found embodied-cognition.md claims choking "provides direct evidence for bidirectional interaction," but the standard neuroscience reading is neural resource competition (attention as a neural process competing with motor routines). Downgrade to "consistent with" and acknowledge the physicalist reading is mainstream. Also fix the quantum biology conflation in mental-effort.md's decoherence section and the Brentano "unrefuted" claim in phenomenology.md. See pessimistic-2026-02-16-evening.md
 
 ### ✓ 2026-02-16: Write article on phenomenology of inferential understanding
 - **Type**: expand-topic

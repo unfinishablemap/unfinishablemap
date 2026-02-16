@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-16 19:13 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/embodied-cognition]], [[concepts/mental-effort]], [[concepts/phenomenology]]
+- **Changes**: Fixed overstated claims flagged by pessimistic-2026-02-16-evening review: downgraded choking evidence from "direct evidence" to "consistent with" bidirectional interaction and acknowledged mainstream physicalist reading; fixed quantum biology/quantum consciousness conflation in decoherence section; replaced "Brentano's thesis remains unrefuted" with acknowledgment of major naturalization programmes; corrected heterophenomenology mischaracterization
+- **Published**: yes
+
 ## 2026-02-16 18:58 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/embodied-cognition.md, concepts/mental-effort.md, concepts/neural-correlates-of-consciousness.md, concepts/phenomenology.md
