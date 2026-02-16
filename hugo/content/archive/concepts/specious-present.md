@@ -175,7 +175,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet warns parsimony is 
 
 ### Binding and Structure
 - [binding-problem](/concepts/binding-problem/) — Feature binding and consciousness
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — Bandwidth constraints on consciousness-matter interaction
+- [psychophysical-coupling](/psychophysical-coupling/) — Bandwidth constraints on consciousness-matter interaction
 - [haecceity](/concepts/haecceity/) — Why *this* present moment is irreducible
 
 ### Challenges

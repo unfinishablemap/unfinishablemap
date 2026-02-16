@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-29
-**Article**: [Psychophysical Coupling](/concepts/psychophysical-coupling/)
+**Article**: [Psychophysical Coupling](/psychophysical-coupling/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

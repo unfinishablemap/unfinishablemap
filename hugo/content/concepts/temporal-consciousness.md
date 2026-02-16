@@ -264,7 +264,7 @@ Temporal consciousness connects to all five tenets:
 - [agent-causation](/concepts/agent-causation/) — The self as originator of action in durée
 - [haecceity](/concepts/haecceity/) — The thisness that grounds temporal identity
 - [binding-problem](/concepts/binding-problem/) — Feature binding and consciousness
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — Bandwidth constraints on consciousness-matter interaction
+- [psychophysical-coupling](/psychophysical-coupling/) — Bandwidth constraints on consciousness-matter interaction
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative access to the flow of time
 - [introspection](/concepts/introspection/) — The reliability of first-person temporal reports
 

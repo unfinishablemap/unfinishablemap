@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-02-06
-**Article**: [Psychophysical Coupling](/concepts/psychophysical-coupling/)
+**Article**: [Psychophysical Coupling](/psychophysical-coupling/)
 **Previous review**: [2026-01-21](/reviews/deep-review-2026-01-21-psychophysical-coupling-law/) (pre-coalescence)
 **Cross-review context**: [psychophysical-coupling-law-mechanisms](/psychophysical-coupling-law-mechanisms/) (reviewed same day)
 

@@ -161,7 +161,7 @@ The taxonomy tightens the Map's framework by replacing vague "selection" languag
 
 ## Further Reading
 
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — The broader framework these modes fit within
+- [psychophysical-coupling](/psychophysical-coupling/) — The broader framework these modes fit within
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of basis and timing control
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum-mind theories
 - [measurement-problem](/concepts/measurement-problem/) — Why outcomes need explanation

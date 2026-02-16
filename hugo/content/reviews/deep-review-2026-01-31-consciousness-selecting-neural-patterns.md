@@ -61,7 +61,7 @@ All major counterarguments from six adversarial personas were reviewed:
 
 ### Cross-links Present
 The article already has comprehensive cross-linking from the previous review:
-- [decoherence](/concepts/decoherence/), [illusionism](/concepts/illusionism/), [introspection](/concepts/introspection/), [voluntary-attention](/voluntary-attention/), [witness-consciousness](/concepts/witness-consciousness/), [haecceity](/concepts/haecceity/), [psychophysical-coupling](/concepts/psychophysical-coupling/), [quantum-consciousness](/concepts/quantum-consciousness/), [mental-effort](/concepts/mental-effort/), [attention](/attention/), [mental-causation](/concepts/mental-causation/), [causal-closure](/concepts/causal-closure/), [measurement-problem](/concepts/measurement-problem/), [interactionist-dualism](/concepts/interactionist-dualism/), [tenets](/tenets/)
+- [decoherence](/concepts/decoherence/), [illusionism](/concepts/illusionism/), [introspection](/concepts/introspection/), [voluntary-attention](/voluntary-attention/), [witness-consciousness](/concepts/witness-consciousness/), [haecceity](/concepts/haecceity/), [psychophysical-coupling](/psychophysical-coupling/), [quantum-consciousness](/concepts/quantum-consciousness/), [mental-effort](/concepts/mental-effort/), [attention](/attention/), [mental-causation](/concepts/mental-causation/), [causal-closure](/concepts/causal-closure/), [measurement-problem](/concepts/measurement-problem/), [interactionist-dualism](/concepts/interactionist-dualism/), [tenets](/tenets/)
 
 ## Remaining Items
 

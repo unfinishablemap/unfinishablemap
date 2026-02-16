@@ -1,45 +1,61 @@
 ---
 ai_contribution: 100
-ai_generated_date: 2026-01-19
-ai_modified: 2026-02-02 18:28:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_generated_date: 2026-01-16
+ai_modified: 2026-02-16 15:44:00+00:00
+ai_system: claude-opus-4-6
 author: null
+coalesced_from:
+- /concepts/psychophysical-laws/
+- /concepts/psychophysical-coupling/
 concepts:
-- '[[psychophysical-coupling]]'
-- '[[psychophysical-coupling]]'
 - '[[selection-laws]]'
-- '[[interactionist-dualism]]'
-- '[[mental-causation]]'
-- '[[integrated-information-theory]]'
+- '[[quantum-consciousness]]'
+- '[[consciousness-selecting-neural-patterns]]'
+- '[[attention]]'
+- '[[attention-as-interface]]'
 - '[[functionalism]]'
+- '[[haecceity]]'
+- '[[integrated-information-theory]]'
 - '[[emergence]]'
 - '[[epiphenomenalism]]'
 - '[[illusionism]]'
 - '[[introspection]]'
 - '[[decoherence]]'
-- '[[haecceity]]'
 - '[[witness-consciousness]]'
-created: 2026-01-19
-date: &id001 2026-01-20
+- '[[mental-effort]]'
+- '[[stapp-quantum-mind]]'
+- '[[phenomenal-unity]]'
+- '[[phenomenal-consciousness]]'
+- '[[binding-problem]]'
+- '[[coupling-modes]]'
+created: 2026-01-16
+date: &id001 2026-02-16
 description: Fundamental principles connecting conscious experience to physical processes.
-  Chalmers' framework for bridging the explanatory gap with new basic laws.
+  Chalmers' framework for bridging the explanatory gap, plus the coupling mechanisms
+  interactionist dualism requires.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-27 22:30:00+00:00
+last_deep_review: 2026-02-06 18:54:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[psychophysical-laws-bridging-mind-and-matter]]'
 - '[[chalmers-psychophysical-laws-2026-01-17]]'
+- '[[psychophysical-coupling-problem-2026-01-15]]'
+- '[[brain-specialness-boundary-2026-01-15]]'
+- '[[epiphenomenalism]]'
 title: Psychophysical Laws
 topics:
 - '[[hard-problem-of-consciousness]]'
+- '[[free-will]]'
+- '[[interactionist-dualism]]'
+- '[[mental-causation]]'
 ---
 
-Psychophysical laws are fundamental principles connecting conscious experience to physical processes. If consciousness is ontologically distinct from physics—as the [Dualism tenet](/tenets/#dualism) holds—then no purely physical explanation can account for why particular brain states are accompanied by particular experiences. New laws are needed: laws relating phenomenal properties to physical properties at the most basic level.
+Psychophysical laws are fundamental principles connecting conscious experience to physical processes. If consciousness is ontologically distinct from physics—as The Unfinishable Map's [Dualism tenet](/tenets/#dualism) holds—then no purely physical explanation can account for why particular brain states are accompanied by particular experiences. New laws are needed: laws relating phenomenal properties to physical properties at the most basic level. But specifying that such laws are needed is not enough. [Interactionist dualism](/concepts/interactionist-dualism/) faces a specification problem: *which* phenomenal properties map to *which* physical selections with enough precision to generate falsifiable predictions?
 
-David Chalmers developed the most influential framework for psychophysical laws, arguing that consciousness requires extending our fundamental ontology. Just as physics has basic laws relating mass, charge, and spacetime, a complete theory of nature requires basic laws relating experience to physics. This page provides deep coverage of Chalmers' framework, distinguishes different types of psychophysical laws, and clarifies how The Unfinishable Map's interactionist position differs from Chalmers' own epiphenomenalist tendency. For focused treatment of Chalmers' contributions, the upward-downward asymmetry, and specific coupling mechanisms, see [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/).
+David Chalmers developed the most influential framework for psychophysical laws, arguing that consciousness requires extending our fundamental ontology. The Map builds on Chalmers while making different choices at key junctions—most critically, insisting on *downward* causation (phenomenal → physical selection) where Chalmers emphasizes *upward* laws (physical → phenomenal). This article covers both the framework (why psychophysical laws are needed and what structure they must have) and the coupling problem (what specific laws and mechanisms might look like). For an integrated overview, see [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/).
 
 ## Why Physics Alone Fails
 
@@ -47,7 +63,7 @@ The [hard problem](/topics/hard-problem-of-consciousness/) shows that even a com
 
 This explanatory gap reveals that phenomenal properties are not logically entailed by physical properties. Unlike temperature or life, which can be functionally analysed in physical terms, experience resists such reduction. The redness of red is not identical to any wavelength or neural firing pattern—it is the *what-it-is-like* of processing that wavelength, which is something over and above the processing itself.
 
-If phenomenal properties are ontologically basic—not derivable from physics—then their relationship to physics must be specified by new fundamental laws. This is what psychophysical laws do: they bridge the gap between the physical domain physics describes and the phenomenal domain of conscious experience.
+If phenomenal properties are ontologically basic—not derivable from physics—then their relationship to physics must be specified by new fundamental laws.
 
 ## Chalmers' Naturalistic Dualism
 
@@ -73,13 +89,13 @@ Supervenience laws specify which physical states are accompanied by which mental
 
 Chalmers primarily discusses supervenience laws. On his framework, once you fix all the physical facts about a system, the psychophysical laws determine what (if any) experience the system has. The laws run *upward*: from physics to phenomenology.
 
-This leaves open whether the mental can causally influence the physical. Chalmers himself tends toward [epiphenomenalism](/arguments/epiphenomenalism/)—the view that mental states are caused by physical states but don't cause physical states in return. Mental states accompany physical processes without affecting them, like shadows accompanying objects without pushing them around.
+This leaves open whether the mental can causally influence the physical. Chalmers himself tends toward [epiphenomenalism](/arguments/epiphenomenalism/)—the view that mental states are caused by physical states but don't cause physical states in return.
 
 ### Causal Laws
 
 Causal laws (or "[selection laws](/concepts/selection-laws/)" in the Map's terminology) specify how mental states influence which physical states become actual. The mental is input; the physical is output.
 
-The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires causal laws—not merely supervenience laws. Consciousness doesn't just accompany brain states; it selects among physically underdetermined alternatives. The [psychophysical-coupling](/concepts/psychophysical-coupling/) page explores what such selection laws might look like.
+The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires causal laws—not merely supervenience laws. Consciousness doesn't just accompany brain states; it selects among physically underdetermined alternatives. The coupling problem (developed in the sections that follow) addresses *implementation*: what specific mappings from phenomenal properties to physical parameters might look like.
 
 **The asymmetry**: Chalmers' framework primarily develops the upward direction (physical → phenomenal). The Map needs laws for both directions, with special emphasis on the downward direction (phenomenal → physical selection).
 
@@ -91,7 +107,7 @@ In "Facing Up to the Problem of Consciousness" (1995), Chalmers proposes three p
 
 The structure of conscious experience corresponds to the structure of cognitive awareness. For every distinction in colour experience, there's a corresponding distinction in visual processing. The three-dimensional structure of colour space maps onto three-dimensional wavelength analysis.
 
-**Limitation**: Structure constrains but doesn't exhaust experience. Inverted spectrum scenarios—where red and green experiences swap while structure remains identical—show that structure alone doesn't determine phenomenal quality. Something more than structure determines *what it's like*.
+**Limitation**: Structure constrains but doesn't exhaust experience. Inverted spectrum scenarios—where red and green experiences swap while structure remains identical—show that structure alone doesn't determine phenomenal quality.
 
 ### Organizational Invariance
 
@@ -99,13 +115,11 @@ Any two systems with identical fine-grained functional organization have qualita
 
 Chalmers defends this through the "fading qualia" thought experiment: gradually replace neurons with functionally identical components. If experience depended on substrate rather than organization, experience could fade while behaviour remained constant—but we couldn't detect this fading. This seems implausible.
 
-**the Map's tension with this principle**: the Map rejects [functionalism](/arguments/functionalism/)—the view that mental states are defined by their functional roles. The zombie argument—central to the hard problem—demonstrates that functional organisation doesn't logically entail experience. If zombies are conceivable, something beyond functional structure determines whether a system is conscious. That "something" cannot itself be functional. The [haecceity](/concepts/haecceity/) of the particular conscious subject may matter, not just abstract patterns.
+**The Map's tension with this principle**: the Map rejects [functionalism](/arguments/functionalism/)—the view that mental states are defined by their functional roles. The zombie argument—central to the hard problem—demonstrates that functional organisation doesn't logically entail experience. If zombies are conceivable, something beyond functional structure determines whether a system is conscious. The [haecceity](/concepts/haecceity/) of the particular conscious subject may matter, not just abstract patterns.
 
 ### The Double-Aspect Theory of Information
 
-Information has two aspects: physical and phenomenal. Where information exists in physical processing, it also has a phenomenal character. This suggests that wherever information is processed, some form of experience may be present—approaching panpsychism from information theory.
-
-**Relation to IIT**: This principle anticipates [Integrated Information Theory](/concepts/integrated-information-theory/), which identifies consciousness with integrated information (phi). The Map is skeptical of IIT's specific measures but the general connection between information and experience remains relevant.
+Information has two aspects: physical and phenomenal. Where information exists in physical processing, it also has a phenomenal character. This principle anticipates [Integrated Information Theory](/concepts/integrated-information-theory/), which identifies consciousness with integrated information (phi). The Map is skeptical of IIT's specific measures but the general connection between information and experience remains relevant.
 
 ## The Quantum Development
 
@@ -113,21 +127,7 @@ In "Consciousness and the Collapse of the Wave Function" (2022), Chalmers and Ke
 
 ### The Super-Resistance Principle
 
-Their key innovation: consciousness resists superposition. Systems with high integrated information don't remain in superpositions of distinct conscious states. Consciousness itself prevents such superpositions through coupling to collapse dynamics.
-
-This addresses why we never seem to experience superpositions of distinct conscious states. Even if the brain were in quantum superposition, the super-resistance principle says consciousness collapses it to a definite state.
-
-### The Decoherence Challenge
-
-Quantum approaches to psychophysical laws face a standard objection: [decoherence](/concepts/decoherence/) destroys quantum superpositions in warm biological systems within femtoseconds (10⁻¹³ seconds)—far too fast for neural processes operating on millisecond timescales. If quantum states decohere before consciousness can influence them, quantum psychophysical laws lose their mechanism.
-
-Three responses are available:
-
-**First**, decoherence selects preferred bases but doesn't solve the measurement problem. Even after decoherence, something must determine *which* outcome occurs. Physics provides probability distributions; it doesn't explain why *this* particular result actualizes. The gap remains open for consciousness to fill.
-
-**Second**, quantum biology research demonstrates that some biological systems maintain coherence longer than simple thermal models predict—cryptochrome radical pairs sustain spin coherence for microseconds, and nuclear spins in Posner molecules may maintain coherence for longer periods. However, most physicists still accept Tegmark's calculations as essentially correct for neural-scale processes. The question is whether any quantum effects survive at scales relevant to consciousness, not whether decoherence is generally fast.
-
-**Third**, Stapp's quantum Zeno mechanism doesn't require sustained coherence. Rapid repeated observation can hold neural patterns even as individual quantum states decohere. The attention-based selection operates through observation *frequency*, not coherence *duration*.
+Their key innovation: consciousness resists superposition. Systems with high integrated information don't remain in superpositions of distinct conscious states. Consciousness itself prevents such superpositions through coupling to collapse dynamics. This addresses why we never seem to experience superpositions of distinct conscious states.
 
 ### Five Constraints on Dualist Laws
 
@@ -147,101 +147,212 @@ The Map builds on Chalmers' framework but makes different choices at key junctio
 
 ### Direction of Causation
 
-Chalmers emphasizes upward laws (physical → phenomenal) and tends toward epiphenomenalism. The Map insists on downward causation (phenomenal → physical). This isn't merely a difference of emphasis—it's a substantive disagreement about whether consciousness makes a difference to what happens.
-
-The Map's argument against epiphenomenalism: if consciousness were causally inert, our beliefs *about* consciousness would be causally disconnected from consciousness itself. We'd be accidentally right at best about our own experiences. This is self-undermining.
+Chalmers emphasizes upward laws (physical → phenomenal) and tends toward epiphenomenalism. The Map insists on downward causation (phenomenal → physical). The Map's argument: if consciousness were causally inert, our beliefs *about* consciousness would be causally disconnected from consciousness itself. We'd be accidentally right at best about our own experiences. This is self-undermining.
 
 ### The Selection Mechanism
 
-Chalmers leaves the mechanism abstract. The Map (following Stapp) specifies attention as the mental variable and quantum Zeno maintenance as the mechanism. Conscious attention holds desired neural patterns actual through repeated observation—not by injecting energy, but by affecting which quantum possibilities become actual.
-
-This page discusses psychophysical laws at the level of *form*—what such laws must accomplish, what constraints they must satisfy. The companion article [psychophysical-coupling](/concepts/psychophysical-coupling/) addresses *implementation*—five specific proposals for which phenomenal properties map to which physical parameters through what pathways. The two articles are complementary: this page explains why psychophysical laws are needed and what structure they must have; the mechanisms page evaluates concrete proposals meeting (or failing to meet) those structural requirements.
+Chalmers leaves the mechanism abstract. The Map (following Stapp) specifies attention as the mental variable and quantum Zeno maintenance as the mechanism. Conscious attention holds desired neural patterns actual through repeated observation—not by injecting energy, but by affecting which quantum possibilities become actual. The candidate mechanisms are developed in detail in the sections that follow.
 
 ### Rejection of Organizational Invariance
 
-The Map doesn't accept that functional organization alone determines experience. Substrate matters—not because silicon can't be conscious, but because the particular physical instantiation may affect phenomenal character in ways that functional description misses. The Map's rejection of functionalism creates this divergence.
+The Map doesn't accept that functional organization alone determines experience. Substrate matters—not because silicon can't be conscious, but because the particular physical instantiation may affect phenomenal character in ways that functional description misses.
 
 ### Bandwidth Constraints
 
-The Map incorporates the ~10 bits/second limitation on conscious processing. Whatever psychophysical laws govern consciousness, they must respect this bandwidth constraint. Consciousness operates at the level of policies and action patterns, not individual quantum events. Chalmers' framework doesn't specify such information-theoretic constraints.
+The Map incorporates the ~10 bits/second limitation on conscious processing (Zheng & Meister 2024). Whatever psychophysical laws govern consciousness, they must respect this bandwidth constraint. Consciousness operates at the level of policies and action patterns, not individual quantum events. Chalmers' framework doesn't specify such information-theoretic constraints.
 
-### Haecceity and Organizational Invariance
+The bandwidth constraint sharply limits what selection can accomplish:
 
-The Map's rejection of organizational invariance connects to [haecceity](/concepts/haecceity/)—the primitive "thisness" of particular conscious subjects. Chalmers holds that functional duplicates have identical experiences; the Map holds that the particular subject matters. Two systems could share all functional properties yet differ in which consciousness accompanies them. Organizational invariance treats consciousness as a pattern; the Map treats it as a particular. See [chalmers-psychophysical-coupling](/chalmers-psychophysical-coupling/#organizational-invariance) for the full argument.
+| Bandwidth | Implication |
+|-----------|-------------|
+| ~10 bits/second | Selection is coarse-grained—action patterns, not individual neurons |
+| ~3-4 choices/second | Matches deliberate decision-making phenomenology |
+| Cumulative over time | Sustained attention, not instantaneous |
+
+## The Coupling Problem
+
+Without specifying *which* phenomenal properties map to *which* physical selections, "consciousness selects" remains a metaphor rather than a research program. A psychophysical coupling law would specify:
+
+1. **Variables on the mental side**: What aspects of conscious experience map to selection? Attention? Intention? Valence? Effort?
+2. **Variables on the physical side**: What quantum degrees of freedom are targetable? Individual outcomes? Probability weights? Basis choice?
+3. **Bandwidth**: How much information can consciousness inject per unit time?
+4. **Scope constraints**: What is *not* selectable?
+
+What Schaffer calls the "t-shirt problem"—the lack of a compact systematization of psychophysical correlations—remains unsolved.
+
+## Candidate Coupling Laws
+
+Four families of coupling laws emerge. These operate through different [coupling-modes](/concepts/coupling-modes/)—basis control (selecting the question), timing control (selecting when collapse occurs), or probability control (reweighting outcomes):
+
+### Law Family 1: Attention-Bounded Selection
+
+**Mental variable**: Directed attention (à la James-Stapp)
+**Physical variable**: Neural firing patterns in attention-controlled circuits
+**Bandwidth**: ~10 bits/second (matching conscious processing capacity)
+**Scope**: Only neural systems integrated into subject's attention loop
+
+The law: **Attention selects what it attends to.** The pattern of conscious attention determines which neural representation becomes actual among quantum-superposed alternatives.
+
+**The dissociation constraint**: [Empirical evidence](/topics/attention-consciousness-dissociation/) shows attention and consciousness can come apart—peripheral awareness delivers conscious content without focal attention. This means coupling operates specifically through *directed* attention (the [interface](/concepts/attention-as-interface/) through which consciousness engages matter), not through consciousness as such.
+
+### Law Family 2: Policy-Level Selection
+
+**Mental variable**: Intentions, goals, action schemas
+**Physical variable**: Macroscopic neural patterns representing action alternatives
+**Bandwidth**: Discrete choices among pre-prepared alternatives
+
+The law: **Consciousness selects among prepared action policies.** The brain generates options; consciousness chooses among them. This aligns with Libet's findings: readiness potential precedes conscious awareness of intention, but consciousness retains "veto power" over whether the action executes.
+
+### Law Family 3: Basis-Choice Selection
+
+**Mental variable**: What question to ask (which observable to measure)
+**Physical variable**: The measurement basis itself—not the outcome
+
+The law: **Consciousness chooses the question; physics provides the answer.** This is the minimal interpretation of Stapp's Process 1. Consciousness shapes possibility space but doesn't determine specific outcomes. Different questions yield different probability distributions over outcomes.
+
+### Law Family 4: Indexical Selection
+
+**Mental variable**: The "now" of conscious awareness—this moment, this perspective
+**Physical variable**: Which outcome is experienced as actual
+
+The law: **Consciousness doesn't cause outcomes; it selects which outcome is "this one."** Unlike MWI's treatment of self-locating uncertainty—where all branches exist and the question is merely "which branch am I in?"—this law holds that selection makes one outcome *actual* and precludes the others. This connects to the Map's [No Many Worlds](/tenets/#no-many-worlds) tenet.
+
+## Five Candidate Mechanisms
+
+Beyond the law families, specific mechanisms have been proposed. Only two have developed implementations; three remain underspecified.
+
+### 1. Attention as Observation Rate {#attention}
+
+Henry Stapp's quantum Zeno model provides the most developed coupling mechanism. **Phenomenal property**: intensity and focus of attention, the phenomenology of effort. **Physical selection**: rate of quantum measurements. **Mechanism**: Attending to a neural pattern increases observation rate, "freezing" the pattern via the quantum Zeno effect.
+
+**Testable predictions**: Meditation training should increase ability to sustain high observation rates. OCD patients using mindful attention to resist compulsions showed measurable changes in caudate nucleus activation (Schwartz et al., 1996)—though this evidence is compatible with physicalist neuroplasticity accounts and does not uniquely confirm Stapp's model.
+
+**Major objection**: Monte Carlo simulations by Georgiev (2015) showed the quantum Zeno effect breaks down for timescales exceeding brain decoherence time. **Possible response**: Consciousness could bias outcome selection *after* decoherence, at the point where physics leaves the outcome undetermined—less exotic but still causally efficacious, though generating fewer unique predictions.
+
+### 2. Intention as Probability Weighting {#intention}
+
+John Eccles' psychon-dendron theory proposes that **mental intention acts as a quantum probability field**, altering the likelihood of neurotransmitter vesicle release via quantum tunneling. Each mental unit (psychon) couples to a neural unit (dendron); intention modulates quantum tunneling probability without violating conservation laws.
+
+**Major objection**: The [pairing problem](/concepts/pairing-problem/). How do immaterial psychons locate specific dendrons? Without spatial properties, mental entities cannot have spatial relations to neural structures.
+
+### 3. Valence as Motivational Force {#valence}
+
+**Phenomenal property**: positive or negative felt quality—pleasure and pain. **Physical selection**: action selection, approach versus avoidance. Pain asymbolia provides key evidence: patients represent tissue damage without feeling its badness, and lack normal motivational responses.
+
+**Gap**: No quantum-level mechanism has been proposed. Unlike attention (observation rate) or intention (probability weighting), valence lacks a candidate physical parameter to modulate.
+
+### 4. Qualia as Basis Selection {#qualia}
+
+**Phenomenal property**: specific qualitative character—the redness of red. **Physical selection**: which observable (which measurement basis) gets selected in quantum collapse.
+
+**Gap**: No developed theory exists. The proposal remains at the level of conceptual possibility.
+
+### 5. Unity as Sustained Entanglement {#unity}
+
+**Phenomenal property**: [phenomenal unity](/phenomenal-unity/)—the binding of sensory modalities into a single experiential field. **Physical selection**: which neural patterns sustain quantum entanglement. Kerskens and Pérez (2022) reported possible entanglement signatures in human brain activity using MRI—though this requires replication.
+
+**Gap**: Correlation versus causation. Even if phenomenal unity correlates with entanglement, this doesn't establish that consciousness *causes* or *sustains* entanglement.
+
+### Comparative Analysis
+
+| Mechanism | Phenomenal Property | Physical Selection | Development | Main Objection |
+|-----------|-------------------|-------------------|-------------|----------------|
+| **Attention→Observation** | Focus, effort | Measurement rate | High (but challenged) | Decoherence timescale |
+| **Intention→Probability** | Volition, willing | Vesicle release | Medium | Pairing problem |
+| **Valence→Motivation** | Pleasure/pain | Action selection | Low | No quantum mechanism |
+| **Qualia→Basis** | Qualitative character | Measurement basis | Very low | Purely speculative |
+| **Unity→Entanglement** | [Phenomenal binding](/concepts/binding-problem/) | Sustained coherence | Low | Correlation≠causation |
+
+Stapp's attention mechanism provides the most developed account: clear phenomenal property (effort), clear physical parameter (observation rate), clear mechanism (Zeno effect), testable predictions, and experimental evidence (though contested).
+
+## What's Not Selectable
+
+A coupling law must specify exclusions—what consciousness cannot select:
+
+- External quantum events (selection requires neural representation)
+- Others' brains (attention scope is first-personal)
+- Macroscopic objects (no quantum indeterminacy at relevant scale)
+- Events outside attention scope
+- Information beyond bandwidth limit (~10 bits/second)
+
+Selection operates through attention, which is neurally implemented. The brain specialness problem resolves: selection is brain-local because attention is brain-local.
+
+## The Decoherence Challenge
+
+Any coupling law faces the [decoherence](/concepts/decoherence/) objection: quantum superpositions in warm biological systems decay within femtoseconds—far too fast for neural processes operating on millisecond timescales. Three responses are available:
+
+**First**, decoherence selects preferred bases but doesn't solve the measurement problem. Even after decoherence, something must determine *which* outcome occurs. Physics provides probability distributions; it doesn't explain why *this* particular result actualizes. The gap remains open for consciousness to fill.
+
+**Second**, quantum biology research demonstrates that some biological systems maintain coherence longer than simple thermal models predict—cryptochrome radical pairs sustain spin coherence for microseconds, and nuclear spins in Posner molecules may maintain coherence for longer periods. However, most physicists still accept Tegmark's calculations as essentially correct for neural-scale processes. The question is whether any quantum effects survive at scales relevant to consciousness, not whether decoherence is generally fast.
+
+**Third**, Stapp's quantum Zeno mechanism doesn't require sustained coherence. Rapid repeated observation can hold neural patterns even as individual quantum states decohere. The attention-based selection operates through observation *frequency*, not coherence *duration*—though Georgiev's simulations challenge whether the Zeno effect achieves this in biologically realistic conditions.
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) like Daniel Dennett and Keith Frankish argue that the need for psychophysical laws rests on a mistake. If phenomenal consciousness is an introspective illusion—if there's nothing that brain states need to be *accompanied* by—then no bridging laws are required. The explanatory gap disappears because there's nothing non-physical to explain.
-
-### Three Illusionist Arguments Against Psychophysical Laws
-
-**First**, illusionists claim the "hard problem" reflects a cognitive bias, not a genuine gap. We introspect our brain's representations of its own states and mistake these representations for irreducible qualia. The apparent need for psychophysical laws stems from this systematic error.
-
-**Second**, if consciousness is illusory, the self-stultification argument doesn't apply. We discuss consciousness because our brains generate complex models that represent themselves as phenomenally conscious—not because consciousness causes anything. The discussions are accurate *about the representations*, even though the representations misrepresent their own nature.
-
-**Third**, parsimony favours eliminating psychophysical laws rather than positing them. If neuroscience can eventually explain why we *believe* we're conscious without invoking phenomenal properties, the additional ontological commitment is unnecessary.
-
-### The Map's Response
+[Illusionists](/concepts/illusionism/) like Daniel Dennett and Keith Frankish argue that the need for psychophysical laws rests on a mistake. If phenomenal consciousness is an introspective illusion, no bridging laws are required.
 
 The illusionist position faces a regress problem, as [Raymond Tallis observes](/concepts/introspection/): "misrepresentation presupposes presentation." For something to *seem* phenomenally conscious, there must be a subject to whom it seems that way. This seeming is itself experiential. The "illusion" of consciousness requires consciousness to be an illusion *for*—and that consciousness cannot be another illusion without infinite regress.
 
-More directly: the Map holds that we know phenomenal consciousness exists more certainly than we know any eliminativist argument is sound. The Moorean response applies—(1) I feel pain; (2) if illusionism is correct, no one feels pain; (3) therefore, illusionism is false. The existence of experience is more evident than any premises used to deny it.
-
-If phenomenal consciousness is real, and it isn't identical to physical processes (as the hard problem reveals), then something must specify the relationship. Psychophysical laws are not optional additions to physics—they're required by the existence of what we know most directly: our own experience.
+More directly: the Map holds that we know phenomenal consciousness exists more certainly than we know any eliminativist argument is sound. The Moorean response applies—(1) I feel pain; (2) if illusionism is correct, no one feels pain; (3) therefore, illusionism is false.
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy offers a complementary framework for psychophysical laws. For Whitehead, reality consists of "actual occasions"—momentary events with both physical and experiential aspects. Experience is not something that mysteriously emerges from non-experiential matter; it pervades reality at every level.
+Alfred North Whitehead's process philosophy offers a complementary framework. For Whitehead, reality consists of "actual occasions"—momentary events with both physical and experiential aspects. Experience pervades reality at every level.
 
-On this view, psychophysical laws describe how actual occasions relate—how the experiential and physical aspects of moments of becoming connect. The physical pole "prehends" (grasps) prior occasions physically; the mental pole prehends them experientially. What Chalmers calls psychophysical laws are, for Whitehead, structural features of how actuality works.
-
-**Whitehead on the Upward Direction**: Each actual occasion inherits physical data from its predecessors. The "physical pole" integrates these data into the occasion's determinate character. This corresponds to supervenience—the physical inheritance constrains what the mental pole can work with.
-
-**Whitehead on the Downward Direction**: Each actual occasion has a "subjective aim"—its way of synthesizing inherited data toward a novel satisfaction. This subjective aim involves genuine creativity: the occasion doesn't merely receive physical data but transforms it through experiential synthesis. This corresponds to the Map's selection laws—the mental pole influences which physical outcome actualizes.
-
-The process framework dissolves certain puzzles. Why is there something it is like to be a physical system? Because physical systems *are* experiential at their most fundamental level—experience is part of what actual occasions are, not something added. Why can consciousness influence physics? Because the experiential and physical are aspects of the same occasions, not separate domains requiring miraculous interaction.
+Each actual occasion inherits physical data from predecessors (the "physical pole"—corresponding to supervenience laws) and synthesizes them through a "subjective aim" involving genuine creativity (the "mental pole"—corresponding to the Map's selection laws). The process framework dissolves certain puzzles: the experiential and physical are aspects of the same occasions, not separate domains requiring miraculous interaction.
 
 ## Contemplative Evidence
 
-Contemplative traditions offer phenomenological evidence relevant to psychophysical laws. Meditation practices reveal something about how conscious states relate to physical processes.
+Contemplative traditions offer phenomenological evidence relevant to psychophysical laws.
 
-**The Witness Dimension**: [Witness consciousness](/concepts/witness-consciousness/) reveals a structural feature of experience—the capacity to observe mental contents without identifying with them. This subject-object structure, accessed through introspection, provides phenomenological support for dualism: the witness cannot become an object of its own observation, suggesting consciousness is categorically different from its contents.
+**The Witness Dimension**: [Witness consciousness](/concepts/witness-consciousness/) reveals a structural feature of experience—the capacity to observe mental contents without identifying with them. This subject-object structure provides phenomenological support for dualism: the witness cannot become an object of its own observation, suggesting consciousness is categorically different from its contents.
 
-**Bidirectional Evidence**: [Mental effort](/concepts/mental-effort/)—the phenomenology of trying, attending, and directing—provides first-person evidence for downward causation. Effort feels like *doing* something to neural patterns, not like observing events that happen to correlate with effort. This phenomenology grounds the claim that consciousness selects, not merely accompanies. Skeptics object that phenomenology can be systematically misleading—the feeling of effort might be confabulation generated by brain processes that have already determined the outcome. The Map acknowledges this possibility but holds that systematically discounting first-person evidence about consciousness is self-undermining: if we can't trust introspection about mental effort, we have no access to the explanandum we're trying to explain.
+**Bidirectional Evidence**: [Mental effort](/concepts/mental-effort/)—the phenomenology of trying, attending, and directing—provides first-person evidence for downward causation. Effort feels like *doing* something to neural patterns, not like observing events that happen to correlate with effort. Skeptics object that phenomenology can be systematically misleading, but the Map holds that systematically discounting first-person evidence about consciousness is self-undermining.
 
-**The Quiet Mind**: Advanced meditators report states where conscious experience continues while cognitive processing dramatically reduces. If psychophysical laws were merely supervenience laws (physical→phenomenal), reducing physical activity should reduce experience. That it doesn't—that awareness persists in states of minimal neural activity—suggests the relationship is more bidirectional than Chalmers' framework implies.
+**The Quiet Mind**: Advanced meditators report states where conscious experience continues while cognitive processing dramatically reduces. If psychophysical laws were merely supervenience laws (physical→phenomenal), reducing physical activity should reduce experience. That it doesn't suggests the relationship is more bidirectional than Chalmers' framework implies.
 
-These contemplative observations don't prove any particular psychophysical law, but they provide data that any adequate account must accommodate. The phenomenology of mental effort, witnessing, and quiet awareness constrains what psychophysical laws can plausibly assert.
+**The Phenomenology of Attention**: [Advanced meditators](/concepts/witness-consciousness/) report increasingly fine-grained awareness of how attention operates—the discrete, effortful quality of redirecting attention, the difference between sustained attention and attention that "holds itself," the bandwidth constraint directly experienced. This phenomenology supports attention-bounded selection.
+
+## Testing the Coupling Law
+
+**Random number generator experiments** have attempted to detect consciousness influencing external quantum outcomes, with mixed results often attributed to publication bias. If the coupling law restricts selection to attention-controlled neural systems, RNG experiments should fail by design—the RNG is external.
+
+**A better test**: Measure whether conscious effort correlates with neural pattern stability in attention networks. If Stapp's Zeno mechanism is real, effort should map to pattern persistence.
+
+**Bandwidth measurement**: If selection is real, it should have measurable information-theoretic constraints that match conscious processing bandwidth.
+
+## What Would Challenge This View?
+
+The framework would face serious difficulty if: (1) the hard problem dissolves—if neuroscience explains our *belief* in consciousness without invoking phenomenal properties; (2) quantum mechanisms prove unavailable at neural scales, removing the Map's proposed pathway for downward causation; (3) organizational invariance is demonstrated through successful consciousness uploading, undermining the Map's rejection of functionalism; (4) many-worlds interpretation is confirmed, reducing selection laws to indexical uncertainty; (5) the ~10 bits/second bandwidth constraint proves incompatible with any quantum selection mechanism; or (6) RNG experiments consistently succeed, requiring revision of the attention-bounded scope restriction.
 
 ## Relation to Site Perspective
 
 Psychophysical laws are where the Map's tenets become theoretically precise.
 
-**[Dualism](/tenets/#dualism)** requires psychophysical laws by definition. If consciousness is ontologically distinct from physics, something must specify how they relate.
+**[Dualism](/tenets/#dualism)** requires psychophysical laws by definition. If consciousness is ontologically distinct from physics, something must specify how they relate. The coupling law presupposes mental and physical as distinct variables, lawfully related.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** requires that these laws run in both directions—not just upward supervenience, but downward selection. The Map's [psychophysical-coupling](/concepts/psychophysical-coupling/) articulates what such selection laws must accomplish.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** requires that these laws run in both directions—not just upward supervenience, but downward selection. This tenet most directly requires the coupling law: consciousness causally influences the physical world—but through what mechanism? Through attention, intention, or effort mapping to which quantum outcomes become actual.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains what kind of psychophysical laws are admissible. Consciousness biases quantum outcomes without violating conservation laws—the smallest intervention physics permits.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains what kind of psychophysical laws are admissible. Consciousness biases quantum outcomes without violating conservation laws—the smallest intervention physics permits. The bandwidth constraint (~10 bits/second) further minimizes the channel.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** means psychophysical laws govern genuine collapse, not indexical selection among equally real branches. Consciousness selects what becomes *actually* true, not which branch contains "this" observer.
+**[No Many Worlds](/tenets/#no-many-worlds)** means psychophysical laws govern genuine collapse, not indexical selection among equally real branches. Consciousness selects what becomes *actually* true, not which branch contains "this" observer. The selected outcome is *this* outcome, with [indexical identity](/concepts/haecceity/) that branching models cannot capture.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** justifies the ontological expansion psychophysical laws require. Adding new fundamental laws seems less parsimonious than physicalism. But a parsimonious theory that explains nothing is not genuinely simpler—it just ignores the explanandum. If consciousness exists and isn't physical, psychophysical laws are not optional additions but necessary completions of our picture of nature. The apparent complexity is the price of taking experience seriously.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** justifies the ontological expansion psychophysical laws require. A parsimonious theory that explains nothing is not genuinely simpler—it just ignores the explanandum. If consciousness exists and isn't physical, psychophysical laws are not optional additions but necessary completions of our picture of nature.
 
-Chalmers provides the philosophical framework; the Map develops the operational specification. Where Chalmers explains that psychophysical laws are needed, the Map works toward saying what those laws actually are.
-
-## What Would Challenge This View?
-
-The framework would face serious difficulty if: (1) the hard problem dissolves—if neuroscience explains our *belief* in consciousness without invoking phenomenal properties; (2) quantum mechanisms prove unavailable at neural scales, removing the Map's proposed pathway for downward causation; (3) organizational invariance is demonstrated through successful consciousness uploading, undermining the Map's rejection of functionalism; (4) many-worlds interpretation is confirmed, reducing selection laws to indexical uncertainty; or (5) the ~10 bits/second bandwidth constraint proves incompatible with any quantum selection mechanism. See [psychophysical-laws-framework](/psychophysical-laws-framework/#what-would-challenge-this-view) for extended discussion.
+The Map cannot resolve which coupling law is correct—this is an open empirical and philosophical question. What the Map can do is articulate the problem clearly, specify what any adequate coupling law must accomplish, and evaluate existing proposals against those requirements.
 
 ## Further Reading
 
-- [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Chalmers' framework, the upward-downward asymmetry, and coupling mechanisms
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — Specific mechanism proposals (attention→observation, intention→probability, valence→motivation, qualia→basis, unity→entanglement)
+- [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Integrated overview: Chalmers' framework, the upward-downward asymmetry, and coupling mechanisms
 - [selection-laws](/concepts/selection-laws/) — The downward direction: how conscious states select physical outcomes
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — The Map's specific coupling law problem
+- [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The mechanism the coupling law governs
+- [coupling-modes](/concepts/coupling-modes/) — Taxonomy of how consciousness might couple: basis, timing, or probability control
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework requiring bidirectional laws
 - [mental-causation](/concepts/mental-causation/) — How consciousness causes physical effects
-- [quantum-consciousness](/concepts/quantum-consciousness/) — Specific quantum mechanisms
+- [quantum-consciousness](/concepts/quantum-consciousness/) — Major theories of quantum-consciousness interface
+- [attention-interface-mechanisms](/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions
+- [mental-effort](/concepts/mental-effort/) — The phenomenology Stapp's mechanism requires
+- [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of attention-observation mechanism
 - [decoherence](/concepts/decoherence/) — The decoherence challenge and biological quantum effects
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge to psychophysical laws
 - [introspection](/concepts/introspection/) — Reliability of phenomenal reports motivating the hard problem
@@ -250,8 +361,10 @@ The framework would face serious difficulty if: (1) the hard problem dissolves�
 - [emergence](/concepts/emergence/) — Why emergentism doesn't solve the hard problem
 - [functionalism](/arguments/functionalism/) — The view the Map rejects
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view Chalmers tends toward (and the Map rejects)
+- [binding-problem](/concepts/binding-problem/) — How distributed neural processes combine into unified experience
 - [chalmers-psychophysical-laws-2026-01-17](/research/chalmers-psychophysical-laws-2026-01-17/) — Research notes on Chalmers' framework
-- [tenets](/tenets/) — the Map's foundational commitments
+- [psychophysical-coupling-problem-2026-01-15](/research/psychophysical-coupling-problem-2026-01-15/) — Research notes on the coupling problem
+- [tenets](/tenets/) — The Map's foundational commitments
 
 ## References
 
@@ -259,9 +372,18 @@ The framework would face serious difficulty if: (1) the hard problem dissolves�
 2. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 3. Chalmers, D.J. & McQueen, K.J. (2022). "Consciousness and the Collapse of the Wave Function." In S. Gao (ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
 4. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
-5. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies* 23(11-12), 11-39.
-6. Georgiev, D. (2024). "Causal potency of consciousness in the physical world." *International Journal of Modern Physics B*.
-7. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-8. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
-9. Wagner-Altendorf, T.A. (2024). "Progress in Understanding Consciousness?" *Acta Analytica*.
-10. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+5. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
+6. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies* 23(11-12), 11-39.
+7. Georgiev, D.D. (2015). "Monte Carlo simulation of quantum Zeno effect in the brain." *International Journal of Modern Physics B* 29(7), 1550039. arXiv:1412.4741.
+8. Georgiev, D. (2024). "Causal potency of consciousness in the physical world." *International Journal of Modern Physics B*.
+9. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews* 11(1), 39-78.
+10. Kerskens, C.M. & Pérez, D.L. (2022). "Experimental indications of non-classical brain functions." *Journal of Physics Communications* 6(10).
+11. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
+12. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
+13. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+14. Stapp, H.P. "Quantum Interactive Dualism: An Alternative to Materialism." https://www-physics.lbl.gov/~stapp/QID.pdf
+15. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
+16. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
+17. Wagner-Altendorf, T.A. (2024). "Progress in Understanding Consciousness?" *Acta Analytica*.
+18. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+19. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.

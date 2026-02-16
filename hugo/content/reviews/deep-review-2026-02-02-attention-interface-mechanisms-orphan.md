@@ -54,7 +54,7 @@ The following articles now link to `[attention-interface-mechanisms](/attention-
 4. **[structure-of-attention](/topics/structure-of-attention/)** — Added both in-text reference (at 300ms timing discussion) and Further Reading link
 5. **[mental-effort](/concepts/mental-effort/)** — Added to Further Reading section
 6. **[free-will](/topics/free-will/)** — Added contextual link in the mechanisms discussion section
-7. **[psychophysical-coupling](/concepts/psychophysical-coupling/)** — Added to Further Reading section
+7. **[psychophysical-coupling](/psychophysical-coupling/)** — Added to Further Reading section
 
 ### Rationale for Link Placements
 

@@ -259,7 +259,7 @@ Together, these explain why consciousness acts on brains specifically: (a) brain
 - [attention-as-interface](/concepts/attention-as-interface/) — The quantum Zeno mechanism for mind-body interaction
 - [voluntary-attention](/voluntary-attention/) — Willed attention as the locus of conscious control
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The proposed mechanism for selection
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — Constraints on the coupling between mind and brain
+- [psychophysical-coupling](/psychophysical-coupling/) — Constraints on the coupling between mind and brain
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and the Map's response
 - [decoherence](/concepts/decoherence/) — The decoherence objection and quantum biology responses
 - [introspection](/concepts/introspection/) — First-person access to consciousness and its reliability

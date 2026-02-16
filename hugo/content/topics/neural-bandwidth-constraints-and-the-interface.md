@@ -87,7 +87,7 @@ The specific rate—~10 bits per second—constrains what kind of selection cons
 
 ### Policy-Level, Not Neuron-Level
 
-At 10 bits per second, consciousness cannot select individual neural firing events (which occur at millisecond timescales across billions of neurons). It selects *patterns*—action policies, attentional targets, cognitive strategies. "Reach for the cup" rather than "fire motor neuron N₄₅₆₇₈." The [coupling law](/concepts/psychophysical-coupling/) must respect this: selection operates at the level of macroscopic neural patterns, not microscopic events.
+At 10 bits per second, consciousness cannot select individual neural firing events (which occur at millisecond timescales across billions of neurons). It selects *patterns*—action policies, attentional targets, cognitive strategies. "Reach for the cup" rather than "fire motor neuron N₄₅₆₇₈." The [coupling law](/psychophysical-coupling/) must respect this: selection operates at the level of macroscopic neural patterns, not microscopic events.
 
 This matches the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. Consciousness doesn't micromanage neural events—it makes coarse-grained selections that cascade through neural systems. The minimality isn't arbitrary; it follows from the bandwidth constraint. Consciousness *cannot* interact at finer grain even if the metaphysics permitted it, because the channel is too narrow.
 
@@ -165,7 +165,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 
 - [attention-as-selection-interface](/topics/attention-as-selection-interface/) — How the interface operates through attention and motor planning
 - [attentional-economics](/concepts/attentional-economics/) — Agency as allocation of the scarce conscious resource
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — The coupling law connecting conscious states to physical selections
+- [psychophysical-coupling](/psychophysical-coupling/) — The coupling law connecting conscious states to physical selections
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model and the bandwidth as filter parameter
 - [working-memory](/concepts/working-memory/) — Working memory as the workspace where the interface operates
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing constraints on quantum consciousness mechanisms

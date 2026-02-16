@@ -176,7 +176,7 @@ The **consciousness-modulated CSL** model (McQueen's CSL-IIT or similar) best in
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: This tenet *requires* spontaneous collapse theories. Without baseline physical collapse, consciousness would need to collapse every quantum event in the universe (panpsychism) or solve the prebiotic collapse problem. GRW/CSL provide the minimal design: consciousness modulates existing stochastic processes.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Modulating collapse rate, location, or outcome provides concrete mechanism for consciousness causally influencing the physical world. See [psychophysical-coupling](/concepts/psychophysical-coupling/) for specification of coupling laws.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Modulating collapse rate, location, or outcome provides concrete mechanism for consciousness causally influencing the physical world. See [psychophysical-coupling](/psychophysical-coupling/) for specification of coupling laws.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Objective collapse theories explicitly reject branching. Wave function collapse is real, non-reversible, and creates definite outcomes. Indexical identity matters.
 
@@ -191,7 +191,7 @@ The **consciousness-modulated CSL** model (McQueen's CSL-IIT or similar) best in
 - [quantum-consciousness](/concepts/quantum-consciousness/) - how consciousness modulates baseline collapse
 - [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) - neural loci for quantum effects (radical pairs, microtubules, ion tunneling)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) - alternative consciousness-collapse model (observer-selection)
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) - how phenomenal properties map to physical parameters
+- [psychophysical-coupling](/psychophysical-coupling/) - how phenomenal properties map to physical parameters
 - [decoherence](/concepts/decoherence/) - relationship between environmental decoherence and objective collapse
 - [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) - basis selection vs. outcome selection distinction
 - [many-worlds](/arguments/many-worlds/) - the Map's rejection of branching interpretations

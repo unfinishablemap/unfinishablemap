@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-03 19:52:00+00:00
+ai_modified: 2026-02-16 13:13:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -142,15 +142,11 @@ But the 2025 findings suggest consciousness *resists* fragmentation. Even minima
 
 On this view, the question "How many minds does a split-brain patient have?" is malformed not because minds resist counting, but because "mind" as a unified conscious entity doesn't exist. What exists are cognitive processes, some of which model themselves as having unified experience. When the corpus callosum is severed, different cognitive subsystems generate different self-models. The patient's verbal system reports one thing; the non-verbal system acts on another. No deeper metaphysical puzzle remains.
 
-### The Regress Response
+### Why Split-Brain Cases Resist the Illusionist Reading
 
-Yet illusionism faces its own problem with split-brain cases. The phenomenological reports from split-brain patients—the conflicting experiences, the sense of being one person despite divided perception—are data that something must explain. If these are illusions, the illusion must appear *to* something.
+The illusionist reading faces a challenge specific to split-brain cases: the phenomenological reports from patients—conflicting experiences, the sense of being one person despite divided perception—are data that something must explain. Split-brain patients don't merely *report* divided experience; they *undergo* it. Each hemisphere has visual experience when conflicting images are shown.
 
-The structural point cuts deeper: split-brain patients don't merely *report* divided experience; they *undergo* it. When conflicting images are shown, each hemisphere has visual experience. Calling this experience "illusory" doesn't eliminate it—it relocates the puzzle. What is it like for each hemisphere to undergo its respective experience? The "seeming" to see is itself phenomenal.
-
-### The Indeterminacy as Evidence
-
-Nagel's indeterminacy—too much unity for two, too much separation for one—may actually strengthen the anti-illusionist case. If consciousness were simply identical to certain neural patterns or cognitive processes, we would expect a determinate answer: the patterns either unify or divide, the processes either coordinate or separate. That consciousness resists clean physical description suggests something isn't captured by the physical story alone.
+The general [regress objection](/concepts/illusionism/#regress) applies here—calling experience "illusory" requires something to experience the illusion—though as discussed in the [illusionism](/concepts/illusionism/) article, many philosophers consider this objection question-begging since it presupposes the phenomenal character of seeming. What is distinctive about the split-brain case is Nagel's indeterminacy: consciousness resists the clean physical description that illusionism predicts. If consciousness were simply identical to certain neural patterns or cognitive processes, we would expect a determinate answer—the patterns either unify or divide. That consciousness is too unified for two minds yet too divided for one suggests something isn't captured by the physical story alone.
 
 This doesn't prove dualism. But it shows that split-brain cases pose genuine puzzles even if—perhaps especially if—we try to explain consciousness away.
 
@@ -267,3 +263,17 @@ This is not a failure to find an answer. It may be a clue to what consciousness 
 - Elizabeth Schechter, *Self-Consciousness and "Split" Brains* (2018)
 - Gazzaniga, M.S., "Cerebral specialization and interhemispheric communication," *Brain* (2000)
 - Whitehead, A.N., *Process and Reality* (1929)
+
+<!-- AI REFINEMENT LOG - 2026-02-16
+Changes made:
+- Collapsed "The Regress Response" and "The Indeterminacy as Evidence" subsections into single "Why Split-Brain Cases Resist the Illusionist Reading" subsection
+- Removed duplicate deployment of regress argument; added cross-reference to illusionism.md#regress for canonical treatment
+- Added acknowledgment that many philosophers consider the regress objection question-begging
+- Preserved split-brain-specific contribution: Nagel's indeterminacy as evidence against illusionism (consciousness resists clean physical description)
+- Reduced ~250 words of repeated general argument to ~150 words focused on what's distinctive
+
+Based on pessimistic-2026-02-16-afternoon.md review (Issue #1: repetitive illusionism self-refutation across articles).
+Key improvements: Eliminates repetition fatigue; focuses on what split-brain cases specifically reveal about illusionism's limitations.
+
+This log should be removed after human review.
+-->

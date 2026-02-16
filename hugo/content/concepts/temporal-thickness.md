@@ -84,7 +84,7 @@ Cessation states (*nirodha samapatti*) provide negative evidence: when temporal 
 
 ## Neural Correlates
 
-Working memory provides a candidate neural correlate. The ~10 bits/second bandwidth limit on conscious processing, which the Map's research connects to [coupling constraints](/concepts/psychophysical-coupling/), may set the maximum temporal thickness available at any moment. You can deepen retention or extend protention, but only within this bandwidth.
+Working memory provides a candidate neural correlate. The ~10 bits/second bandwidth limit on conscious processing, which the Map's research connects to [coupling constraints](/psychophysical-coupling/), may set the maximum temporal thickness available at any moment. You can deepen retention or extend protention, but only within this bandwidth.
 
 Gamma-band oscillations (30-100 Hz) correlate with temporal binding and conscious processing. Higher gamma power and wider coherence may correspond to thicker temporal experience — more elements held together in the experienced present. The multi-scale hierarchy of temporal processing (different mechanisms for sub-second versus supra-second timescales) suggests temporal thickness is implemented through nested oscillatory structures.
 

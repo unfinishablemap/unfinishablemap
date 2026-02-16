@@ -57,7 +57,7 @@ Decoherence pressure means consciousness cannot hold options open indefinitely. 
 
 ### Coupling Imprecision
 
-The [coupling laws](/concepts/psychophysical-coupling/) connecting conscious states to neural selections are not perfectly tight. Intention does not map one-to-one onto neural outcome. The same intention can produce different neural implementations depending on context, fatigue, arousal, and competing neural activity. Conversely, similar neural states can serve different conscious purposes.
+The [coupling laws](/psychophysical-coupling/) connecting conscious states to neural selections are not perfectly tight. Intention does not map one-to-one onto neural outcome. The same intention can produce different neural implementations depending on context, fatigue, arousal, and competing neural activity. Conversely, similar neural states can serve different conscious purposes.
 
 This coupling imprecision is familiar from everyday experience. The word you wanted escapes you. The movement you intended overshoots or undershoots. The thought you tried to hold dissolves before you can articulate it. These failures are not random noise—they reflect the imprecision of mapping between two fundamentally different domains (mental and physical) through a finite interface.
 
@@ -108,7 +108,7 @@ On production models, the equivalent phenomena are simply neural processing limi
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The two-layer architecture where friction operates
 - [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/) — The bandwidth bottleneck as primary friction source
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why the interface is brain-local
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — The coupling laws friction degrades
+- [psychophysical-coupling](/psychophysical-coupling/) — The coupling laws friction degrades
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the primary friction-bearing mechanism
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of interface cost
 - [attentional-economics](/concepts/attentional-economics/) — Attention as scarce resource under friction constraints

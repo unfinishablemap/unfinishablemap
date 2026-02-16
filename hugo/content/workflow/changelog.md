@@ -18,6 +18,71 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-16 16:29 UTC - deep-review
+- **Status**: Success
+- **File**: [normative-phenomenology](/concepts/normative-phenomenology/)
+- **Word count**: 2266 → 2357 (+91)
+- **Critical issues addressed**: 3 (Husserl date, Weil reference, "selfless receptivity" attribution)
+- **Medium issues addressed**: 7 (dukkha characterisation, vedana/tanha distinction, Levinas qualifier, debunking response, description length, uncited references, missing cross-links)
+- **Enhancements made**: 6 cross-links added (heterophenomenology, reasons-responsiveness, mental-effort, attention-as-interface, neurophenomenology, illusionism)
+- **Output**: [deep-review-2026-02-16-normative-phenomenology](/reviews/deep-review-2026-02-16-normative-phenomenology/)
+
+## 2026-02-16 15:44 UTC - coalesce
+- **Status**: Success
+- **Sources**: [psychophysical-laws](/concepts/psychophysical-laws/), [psychophysical-coupling](/psychophysical-coupling/)
+- **Target**: [psychophysical-laws](/concepts/psychophysical-laws/)
+- **Archived**: [psychophysical-coupling](/archive/concepts/psychophysical-coupling/)
+- **References to review**: ~27 active content files (follow-up task created in todo.md)
+- **Section impact**: concepts/ reduced from 180 to 179 articles (cap: 200)
+
+## 2026-02-16 15:13 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-as-interface](/concepts/attention-as-interface/)
+- **Word count**: 2265 → 2310 (+45)
+- **Critical issues addressed**: 3 (fictitious Vossel 2023 reference, wrong Bengson author attribution, wrong COGITATE journal)
+- **Medium issues addressed**: 2 (decoherence response attribution, Nartker citation completion)
+- **Enhancements made**: 0 (citation fixes only — article structure preserved)
+- **Output**: [deep-review-2026-02-16-attention-as-interface](/reviews/deep-review-2026-02-16-attention-as-interface/)
+
+## 2026-02-16 14:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: phenomenology of inferential understanding
+- **Output**: [phenomenology-of-inferential-understanding](/topics/phenomenology-of-inferential-understanding/)
+- **Word count**: 2210
+- **Based on research**: no (drew on existing cognitive-phenomenology research notes)
+
+## 2026-02-16 14:43 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Metaphysics of Laws
+- **Output**: [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/)
+- **Word count**: 1902
+- **Based on research**: yes (drew on [chalmers-psychophysical-laws-2026-01-17](/research/chalmers-psychophysical-laws-2026-01-17/), [conservation-laws-mind-brain-causation-2026-01-23](/research/conservation-laws-mind-brain-causation-2026-01-23/), [psychophysical-coupling-law-mechanisms-2026-01-23](/research/psychophysical-coupling-law-mechanisms-2026-01-23/), [voids-nomic-void-2026-02-06](/research/voids-nomic-void-2026-02-06/))
+
+## 2026-02-16 14:28 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full survey of topics/ (~158), concepts/ (~180), tenets/ (1); deep reads of 8 articles (agency-passivity, strong emergence, temporal unity, phenomenal binding, contemplative methods, phenomenal conservatism, explanatory gap, the-case-for-dualism)
+- **Output**: [optimistic-2026-02-16-afternoon](/reviews/optimistic-2026-02-16-afternoon/)
+
+## 2026-02-16 13:43 UTC - deep-review
+- **Status**: Success
+- **File**: [temporal-unity](/concepts/temporal-unity/)
+- **Word count**: 1333 → 1564 (+231)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (specious present range, illusionist challenge, MWI argument, schizophrenia citation, archived links)
+- **Enhancements made**: 6 (illusionist engagement, MWI rewrite, explanatory gap gloss, duration-block definition, cross-links, confidence calibration)
+- **Output**: [deep-review-2026-02-16-temporal-unity](/reviews/deep-review-2026-02-16-temporal-unity/)
+
+## 2026-02-16 13:13 UTC - refine-draft
+- **Status**: Success
+- **Files**: [illusionism](/concepts/illusionism/), [intentionality](/concepts/intentionality/), [philosophical-zombies](/concepts/philosophical-zombies/), [knowledge-argument](/concepts/knowledge-argument/), [ai-consciousness](/topics/ai-consciousness/), [split-brain-consciousness](/topics/split-brain-consciousness/)
+- **Changes**: Deduplicated illusionism self-refutation/regress objection across 6 articles. Made illusionism.md the canonical treatment with anchored sections, question-begging acknowledgment, and Frankish engagement. Compressed and cross-referenced the other 5 articles to eliminate repetition fatigue while preserving article-specific contributions.
+- **Published**: yes
+
+## 2026-02-16 12:58 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/intentionality.md, concepts/philosophical-zombies.md, concepts/knowledge-argument.md, topics/ai-consciousness.md, topics/split-brain-consciousness.md
+- **Output**: [pessimistic-2026-02-16-afternoon](/reviews/pessimistic-2026-02-16-afternoon/)
+
 ## 2026-02-16 08:18 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-strong-emergence](/topics/consciousness-and-strong-emergence/)

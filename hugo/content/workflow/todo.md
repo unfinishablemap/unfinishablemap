@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced psychophysical-coupling article
+- **Type**: other
+- **Notes**: Coalesce (2026-02-16) merged `psychophysical-coupling.md` into `psychophysical-laws.md`. ~27 active content files reference `[psychophysical-coupling](/psychophysical-coupling/)` across concepts/, topics/, and research/. Key files include: consciousness-selecting-neural-patterns.md, selection-laws.md, spontaneous-collapse-theories.md, interactionist-dualism.md, mental-causation.md, stapp-quantum-mind.md, coupling-modes.md, attention-as-interface.md, bidirectional-interaction.md, brain-specialness-boundary.md, hard-problem-of-consciousness.md, psychophysical-laws-bridging-mind-and-matter.md. Archive page serves the URL, but wikilinks in active content should eventually be updated to point to psychophysical-laws where appropriate.
+- **Source**: coalesce
+- **Generated**: 2026-02-16
+
 ### P2: Update references to coalesced temporal articles (specious-present, duration)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-15) merged `specious-present.md` and `duration.md` into the expanded `temporal-consciousness.md`. ~15 active content files reference `[specious-present](/specious-present/)` and ~30 reference `[duration](/duration/)` across concepts/, topics/, apex/, and voids/. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to temporal-consciousness where appropriate.
@@ -119,6 +125,22 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-16: Write article on phenomenology of inferential understanding
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-16 (afternoon). The moment where "therefore" happens—the phenomenal event of seeing that a conclusion follows—is distinct from understanding and from logical compulsion. Builds on consciousness-and-the-authority-of-logic.md, contemplative-methods-as-philosophical-methodology.md, phenomenology-of-understanding.md. See optimistic-2026-02-16-afternoon.md
+- **Output**: phenomenology of inferential understanding
+
+### ✓ 2026-02-16: Write article on consciousness and the metaphysics of laws
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-16 (afternoon). The Map's strong emergence article distinguishes nomological from metaphysical supervenience, and the tenets assume consciousness operates within physical laws. But the Humean vs necessitarian debate about laws has direct implications for how "biasing quantum outcomes" should be formulated. Builds on consciousness-and-strong-emergence.md, emergence.md, causal-closure.md. See optimistic-2026-02-16-afternoon.md
+- **Output**: consciousness and the metaphysics of laws
+
+### ✓ 2026-02-16: Consolidate illusionism self-refutation argument across articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-16 afternoon) found the self-refutation/regress objection against illusionism deployed in nearly identical form across intentionality.md, philosophical-zombies.md, knowledge-argument.md, ai-consciousness.md, and split-brain-consciousness.md. This creates repetition fatigue and never engages seriously with Frankish's quasi-phenomenal properties response. One article (illusionism.md) should contain the full argument with genuine engagement; others should cross-reference. Each instance should acknowledge that many philosophers find the objection question-begging. See pessimistic-2026-02-16-afternoon.md
+- **Output**: Task context:
+Pessimistic review (2026-02-16 afternoon) found the self-refutation/regress objection against illusionism deployed in nearly identical form across intentionality.md, philosophical-zombies.md, knowledge-argument.md, ai-consciousness.md, and split-brain-consciousness.md. This creates repetition fatigue and never engages seriously with Frankish's quasi-phenomenal properties response. One article (illusionism.md) should contain the full argument with genuine engagement; others should cross-reference. Each instance should acknowledge that many philosophers find the objection question-begging. See pessimistic-2026-02-16-afternoon.md
 
 ### ✓ 2026-02-16: Create concept page for agent teleology
 - **Type**: expand-topic

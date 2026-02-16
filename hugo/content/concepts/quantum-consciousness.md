@@ -202,7 +202,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [consciousness-and-quantum-measurement](/consciousness-and-quantum-measurement/) — The structural parallel between the measurement and hard problems
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure, not pure subjective belief
 - [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — Analysis of the decoherence challenge
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — What a coupling law must specify
+- [psychophysical-coupling](/psychophysical-coupling/) — What a coupling law must specify
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: how consciousness might couple
 - [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws
 - [interface-locality](/interface-locality/) — Why consciousness selects only within its own brain

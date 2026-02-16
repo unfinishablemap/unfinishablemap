@@ -168,7 +168,7 @@ The model generates falsifiable predictions:
 
 ## Further Reading
 
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — Comparative analysis; Stapp's model as most developed
+- [psychophysical-coupling](/psychophysical-coupling/) — Comparative analysis; Stapp's model as most developed
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: taxonomy of coupling mechanisms
 - [voluntary-attention](/voluntary-attention/) — Neural signatures of willed attention
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer

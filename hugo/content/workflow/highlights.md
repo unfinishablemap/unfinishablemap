@@ -175,7 +175,7 @@ Deep review refined our analysis of psychophysical coupling—mapping five candi
 
 **Type**: insight  
 **Tweet**: https://x.com/i/web/status/2017156282713506277  
-**Link**: [psychophysical-coupling](/concepts/psychophysical-coupling/)
+**Link**: [psychophysical-coupling](/psychophysical-coupling/)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-06 18:54:00+00:00
+ai_modified: 2026-02-16 13:13:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -145,11 +145,9 @@ For the Map's purposes, the first option is most compatible with the tenets. Con
 
 On this view, there's no fact of the matter about what a thought is "really" about. Intentional content is observer-relative all the way down. The brain produces outputs that we interpret intentionally, but there's no privileged fact about content determination independent of interpretive context.
 
-**The self-refutation response**: Illusionism about intentionality faces the same self-stultification problem as illusionism about consciousness. If there's no fact about what thoughts are about, then the illusionist's own claims are about nothing in particular. The thesis "intentionality is not real" would itself lack determinate content. The position cannot be coherently stated without presupposing what it denies.
+**The self-refutation response**: Illusionism about intentionality faces a version of the [infinite regress](/concepts/illusionism/#regress) that afflicts illusionism about consciousness generally. The thesis "intentionality is not real" would itself lack determinate content if there's no fact about what thoughts are about. Dennett must explain how the illusion of aboutness arises without invoking genuine aboutness in the explanation. (Many philosophers consider this objection question-begging—it presupposes the phenomenal character of "seeming" that illusionism denies. See [illusionism](/concepts/illusionism/) for the full argument and Frankish's quasi-phenomenal properties response.)
 
-**The introspection question**: How do we come to *believe* our thoughts are about things if they're not? [Introspection](/concepts/introspection/) reveals directedness as a constitutive feature of thought. To think is already to think *about* something. The belief that thoughts have content isn't a theory imposed from outside—it's what thinking presents itself as being. Dennett must explain how the illusion of aboutness arises without invoking genuine aboutness in the explanation.
-
-**The binding problem parallel**: Just as illusionism about consciousness trades the hard problem for an equally hard "illusion problem," illusionism about intentionality trades the naturalization problem for the problem of explaining why the illusion is so pervasive and resistant. If intentionality is merely a stance, why does it seem so intrinsic to mental life? The explanatory burden shifts but doesn't disappear.
+**The explanatory burden**: Even granting the self-refutation objection is contested, illusionism about intentionality still trades the naturalization problem for the problem of explaining why the illusion is so pervasive and resistant. [Introspection](/concepts/introspection/) reveals directedness as a constitutive feature of thought—thinking presents itself as already *about* something. If intentionality is merely a stance, explaining why it seems so intrinsic to mental life remains an open challenge.
 
 ## Implications for AI Consciousness
 
@@ -241,3 +239,16 @@ Intentionality connects to all five foundational tenets:
 - Searle, J. (1980). Minds, brains, and programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
 - Searle, J. (1983). *Intentionality: An Essay in the Philosophy of Mind*. Cambridge University Press.
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+
+<!-- AI REFINEMENT LOG - 2026-02-16
+Changes made:
+- Compressed illusionism self-refutation section: replaced 3 standalone paragraphs (self-refutation, introspection question, binding problem parallel) with 2 focused paragraphs
+- Added cross-reference to illusionism.md#regress for full regress argument and Frankish's response
+- Added acknowledgment that many philosophers consider the regress objection question-begging
+- Preserved the explanatory-burden argument as the article-specific contribution
+
+Based on pessimistic-2026-02-16-afternoon.md review (Issue #1: repetitive illusionism self-refutation across articles).
+Key improvements: Eliminates repetition fatigue; readers who want the full regress argument follow the cross-reference.
+
+This log should be removed after human review.
+-->

@@ -64,4 +64,4 @@ None. All identified issues were addressed.
 
 The article's position on selection laws is philosophically contentious—eliminative materialists, hard-nosed physicalists, and MWI defenders will continue to disagree. This represents bedrock philosophical disagreement, not fixable flaws. Future reviews should not re-flag "functionalists disagree" or "MWI provides an alternative" as critical issues—these are acknowledged as the tenets-based positions the Map takes.
 
-The decoherence challenge is engaged briefly here but treated in depth in [psychophysical-coupling](/concepts/psychophysical-coupling/). If reviewers find this treatment thin, the appropriate response is cross-linking, not duplication.
+The decoherence challenge is engaged briefly here but treated in depth in [psychophysical-coupling](/psychophysical-coupling/). If reviewers find this treatment thin, the appropriate response is cross-linking, not duplication.

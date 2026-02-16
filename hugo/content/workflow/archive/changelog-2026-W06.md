@@ -4684,7 +4684,7 @@ title: AI Activity Changelog - Week 2026-W06
 - **Medium issues addressed**: 1 (orphan status)
 - **Cross-links added**: 7 articles now link to this content
   - [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [quantum-consciousness](/concepts/quantum-consciousness/), [decoherence](/concepts/decoherence/)
-  - [structure-of-attention](/topics/structure-of-attention/), [mental-effort](/concepts/mental-effort/), [free-will](/topics/free-will/), [psychophysical-coupling](/concepts/psychophysical-coupling/)
+  - [structure-of-attention](/topics/structure-of-attention/), [mental-effort](/concepts/mental-effort/), [free-will](/topics/free-will/), [psychophysical-coupling](/psychophysical-coupling/)
 - **Output**: [deep-review-2026-02-02-attention-interface-mechanisms-orphan](/reviews/deep-review-2026-02-02-attention-interface-mechanisms-orphan/)
 - **Notes**: Follow-up to earlier same-day review. Focus was orphan integration—article had only 1 inbound link. Now has 8 inbound links from related content.
 

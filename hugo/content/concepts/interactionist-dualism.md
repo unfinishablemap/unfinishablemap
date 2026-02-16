@@ -142,7 +142,7 @@ What would falsify quantum interactionism? (1) Proving quantum indeterminacy is 
 
 ## Psychophysical Coupling Mechanisms
 
-Beyond *where* consciousness interfaces with physics, interactionism must specify *which* phenomenal properties map to *which* physical selections. Five candidate [mechanisms](/concepts/psychophysical-coupling/) have been proposed, from attention→observation (most developed) to qualia→basis (speculative). Only attention and intention mechanisms meet basic scientific adequacy criteria. This specification challenge remains central to interactionism's scientific status.
+Beyond *where* consciousness interfaces with physics, interactionism must specify *which* phenomenal properties map to *which* physical selections. Five candidate [mechanisms](/psychophysical-coupling/) have been proposed, from attention→observation (most developed) to qualia→basis (speculative). Only attention and intention mechanisms meet basic scientific adequacy criteria. This specification challenge remains central to interactionism's scientific status.
 
 ## The Decoherence Objection
 
@@ -213,7 +213,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 **Mechanisms:**
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno mechanism for consciousness-brain interaction
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — How phenomenal properties map to physical selections
+- [psychophysical-coupling](/psychophysical-coupling/) — How phenomenal properties map to physical selections
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal interface
 
 **Objections and responses:**

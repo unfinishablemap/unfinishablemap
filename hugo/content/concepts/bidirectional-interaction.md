@@ -81,7 +81,7 @@ Two concrete mechanisms have been proposed:
 
 All three share what bidirectional interaction requires: consciousness selecting among outcomes physics leaves undetermined. The specific [coupling mode](/concepts/coupling-modes/)—basis control, timing control, or probability control—varies between proposals, with Stapp emphasizing the first two and Penrose-Hameroff implying the third.
 
-For detailed specification of how phenomenal properties map to physical parameters, see [psychophysical-coupling](/concepts/psychophysical-coupling/). The attention mechanism is currently the most developed, with [voluntary-attention](/voluntary-attention/) documenting the ~300ms deployment window and neural signatures (frontal theta, DLPFC/ACC activation) that distinguish willed from instructed attention.
+For detailed specification of how phenomenal properties map to physical parameters, see [psychophysical-coupling](/psychophysical-coupling/). The attention mechanism is currently the most developed, with [voluntary-attention](/voluntary-attention/) documenting the ~300ms deployment window and neural signatures (frontal theta, DLPFC/ACC activation) that distinguish willed from instructed attention.
 
 ### The Timing Challenge
 
@@ -140,7 +140,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 
 ## Further Reading
 
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — Specification of how phenomenal properties map to physical parameters
+- [psychophysical-coupling](/psychophysical-coupling/) — Specification of how phenomenal properties map to physical parameters
 - [coupling-modes](/concepts/coupling-modes/) — Three ways consciousness might influence quantum outcomes: basis, timing, or probability control
 - [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from decoherence to neural decisions

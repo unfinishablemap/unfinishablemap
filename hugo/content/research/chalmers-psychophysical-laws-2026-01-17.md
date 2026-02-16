@@ -24,7 +24,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-This research explores David Chalmers' framework for psychophysical laws in depth—the fundamental principles he proposes for bridging phenomenal experience and physical processes. The Unfinishable Map's [psychophysical-coupling](/concepts/psychophysical-coupling/) page references Chalmers but could benefit from fuller development of his framework.
+This research explores David Chalmers' framework for psychophysical laws in depth—the fundamental principles he proposes for bridging phenomenal experience and physical processes. The Unfinishable Map's [psychophysical-coupling](/psychophysical-coupling/) page references Chalmers but could benefit from fuller development of his framework.
 
 ## The Core Framework
 

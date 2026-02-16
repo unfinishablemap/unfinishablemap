@@ -132,7 +132,7 @@ Even granting that quantum indeterminacy provides an opening for mental causatio
 
 The [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) provides the conceptual structure for addressing this challenge. Chalmers distinguished *supervenience laws* (which physical states produce which experiences) from what the Map calls *[selection laws](/concepts/selection-laws/)* (which mental states influence which physical outcomes). Mental causation requires selection laws—not merely supervenience laws running upward from physics to phenomenology, but laws specifying how consciousness participates in determining physical outcomes.
 
-The [psychophysical-coupling](/concepts/psychophysical-coupling/) article surveys five candidate mechanisms:
+The [psychophysical-coupling](/psychophysical-coupling/) article surveys five candidate mechanisms:
 
 1. **Attention → observation rate** (Stapp): Sustained attention increases quantum measurement frequency, "freezing" neural patterns via the quantum Zeno effect. The most developed proposal with testable predictions.
 
@@ -231,7 +231,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The evolutionary argument that consciousness must have causal effects to be selected
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Integrated overview of the framework requiring selection laws for mental causation
 - [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws: how mental states select physical outcomes
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — Five candidate mechanisms specifying how mental causation might work at the neural interface
+- [psychophysical-coupling](/psychophysical-coupling/) — Five candidate mechanisms specifying how mental causation might work at the neural interface
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy of how consciousness couples: basis, timing, or probability control
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's 2025 response to exclusion: experiences preempt rather than overdetermine
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Empirical evidence: conscious interference with automatized skills demonstrates causation

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-12 21:34:00+00:00
+ai_modified: 2026-02-16 15:13:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ description: Attention serves as the interface where consciousness influences th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-16 15:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,7 +88,7 @@ If consciousness can influence matter, why not everywhere? The [interface-locali
 
 ## The Willed Attention Distinction
 
-Not all top-down attention is willed. Research (Vossel 2023) identifies three levels:
+Not all top-down attention is willed. Research (Nadra & Mangun 2023) identifies three levels:
 
 | Mode | Trigger | Deployment Time | Effort |
 |------|---------|-----------------|--------|
@@ -98,7 +98,7 @@ Not all top-down attention is willed. Research (Vossel 2023) identifies three le
 
 The willed/instructed distinction is critical. When you follow instructions, the decision about *what* to attend to was made externally. When you freely choose where to attend, different neural processes engage—additional frontal recruitment, theta oscillations, and bidirectional coherence that instructed attention does not produce.
 
-Three neural markers distinguish willed from instructed attention (Bengson et al. 2019):
+Three neural markers distinguish willed from instructed attention (Rajan et al. 2019):
 
 **Frontal theta oscillations**: Willed attention decisions produce frontal theta oscillations (~500ms post-decision) absent in instructed attention. Theta marks genuine decision—something beyond implementing an external instruction.
 
@@ -140,7 +140,7 @@ Conscious processing operates at roughly 10 bits/second (Meister 2024)—vastly 
 
 Selection effects accumulate through sustained attention over time. Brief attention produces minimal impact; sustained effort produces neuroplasticity. The [attentional-economics](/concepts/attentional-economics/) framework interprets this deployment time as the cost of "investing" attentional capital—consciousness allocating its bandwidth-limited resource.
 
-The bandwidth constraint connects to the [psychophysical-coupling](/concepts/psychophysical-coupling/) specifying what consciousness can and cannot do. The specific [coupling mode](/concepts/coupling-modes/) matters: basis control (selecting the question) is consistent with coarse-grained policy-level selection.
+The bandwidth constraint connects to the [psychophysical-coupling](/psychophysical-coupling/) specifying what consciousness can and cannot do. The specific [coupling mode](/concepts/coupling-modes/) matters: basis control (selecting the question) is consistent with coarse-grained policy-level selection.
 
 ## Meditation as Interface Training
 
@@ -169,7 +169,7 @@ The 2025 COGITATE adversarial testing found neither GWT nor IIT clearly vindicat
 
 **The Stochastic Pre-State Challenge**: Pre-decision EEG alpha activity predicts subsequent free choices ~1000ms before participants decide. The Map's response parallels its response to the [libet-experiments](/concepts/libet-experiments/): stochastic activity provides options; consciousness selects among them. Finding that neural activity precedes choice does not show it *causes* choice in a way that excludes conscious selection.
 
-**The Decoherence Objection**: Tegmark (2000) calculated neural quantum coherence decays in femtoseconds. Three responses: revised calculations extend coherence times by seven orders of magnitude; biological precedent (avian magnetoreception) demonstrates quantum effects in warm tissue; and the Zeno mechanism does not require sustained coherence—each attentional "observation" constitutes a rapid measurement before decoherence acts. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the timing hierarchy.
+**The Decoherence Objection**: Tegmark (2000) calculated neural quantum coherence decays in femtoseconds. Three responses: revised calculations (Hagan et al. 2002) extend coherence times by several orders of magnitude; biological precedent (avian magnetoreception) demonstrates quantum effects in warm tissue; and the Zeno mechanism does not require sustained coherence—each attentional "observation" constitutes a rapid measurement before decoherence acts. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the timing hierarchy.
 
 **The Illusionist Challenge**: If phenomenal consciousness is illusory, no special interface is needed. The Map's response: illusionism faces the regress problem. If the sense of effort is an illusion, something must experience that illusion. The persistence of effort phenomenology—even philosophers who accept illusionism report attention *still feels* effortful—suggests something more than representation is at stake.
 
@@ -197,7 +197,7 @@ The hypothesis would fail if:
 
 ## Further Reading
 
-**Core concepts**: [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/), [psychophysical-coupling](/concepts/psychophysical-coupling/), [interface-locality](/interface-locality/), [coupling-modes](/concepts/coupling-modes/), [attentional-economics](/concepts/attentional-economics/), [Attention Disorders and the Interface](/topics/attention-disorders-and-quantum-interface/)
+**Core concepts**: [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/), [psychophysical-coupling](/psychophysical-coupling/), [interface-locality](/interface-locality/), [coupling-modes](/concepts/coupling-modes/), [attentional-economics](/concepts/attentional-economics/), [Attention Disorders and the Interface](/topics/attention-disorders-and-quantum-interface/)
 
 **Motor convergence**: [motor-selection](/concepts/motor-selection/), [dopamine-selection-interface](/dopamine-selection-interface/), [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)
 
@@ -213,22 +213,23 @@ The hypothesis would fail if:
 
 ## References
 
-- Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+- Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 - Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567-575.
 - Cisek, P., & Kalaska, J.F. (2005). Neural correlates of reaching decisions in dorsal premotor cortex. *Neuron*, 45(5), 801-814.
 - Dennett, D.C. (2016). Illusionism as the Obvious Default Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 65-72.
+- Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 - Kaeser, P.A. et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*.
 - Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
 - McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
 - Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121.
-- Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Science*.
+- Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Nature*, 642(8066), 133-142.
 - Michel, M. & Doerig, A. (2025). The Integrated Information Theory needs attention. *Erkenntnis*.
-- Nartker, M. et al. (2025). Sensitivity to visual features in inattentional blindness. *eLife*.
+- Nadra, J.G. & Mangun, G.R. (2023). Placing willed attention in context: A review of attention and free will. *Frontiers in Cognition*, 2, 1205618.
+- Nartker, M. et al. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 14, e97156.
 - Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
 - Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*, 159.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 - Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
-- Vossel, S. et al. (2023). Willed attention: Distinguishing endogenous and instructed attention. *Frontiers in Psychology*, 14, 1023456.
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
