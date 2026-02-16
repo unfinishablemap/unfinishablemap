@@ -53,7 +53,7 @@ This review focused on **orphan integration**—the article had no inbound links
 ### Cross-links Added (to other articles)
 Added links TO leibnizs-mill-argument FROM:
 - [phenomenal-unity](/phenomenal-unity/) — "Leibniz's Insight" section now links to full article
-- [arguments-for-dualism](/concepts/arguments-for-dualism/) — Explanatory Gap section now mentions Leibniz's Mill
+- [arguments-for-dualism](/arguments-for-dualism/) — Explanatory Gap section now mentions Leibniz's Mill
 - [explanatory-gap](/concepts/explanatory-gap/) — Added paragraph connecting gap to Leibniz's anticipation
 - [dualism](/concepts/dualism/) — Explanatory Gap section now references Leibniz's Mill
 - [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) — Leibniz Closure section now mentions the mill argument

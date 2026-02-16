@@ -29,7 +29,7 @@ last_deep_review: 2026-01-29 08:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[arguments-for-dualism]]'
+- '[[the-case-for-dualism]]'
 - '[[conservation-laws-and-mind]]'
 - '[[objections-to-interactionist-dualism-2026-01-15]]'
 title: Objections to Interactionist Dualism
@@ -309,7 +309,7 @@ These objections have been taken seriously throughout the history of philosophy.
 - [mental-causation](/concepts/mental-causation/) — The phenomenon the exclusion argument challenges
 - [downward-causation](/concepts/downward-causation/) — How higher-level properties influence lower-level processes
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view the evolutionary argument targets
-- [arguments-for-dualism](/concepts/arguments-for-dualism/) — Positive arguments for the Map's position
+- [the-case-for-dualism](/concepts/the-case-for-dualism/) — Positive arguments for the Map's position
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The mechanism for mind-matter interface
 - [decoherence](/concepts/decoherence/) — The quantum biology challenge and evidence
 - [interface-locality](/interface-locality/) — Why consciousness can only select within its own brain

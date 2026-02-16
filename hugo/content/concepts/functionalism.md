@@ -14,7 +14,7 @@ concepts:
 - '[[llm-consciousness]]'
 - '[[substrate-independence-critique]]'
 - '[[temporal-consciousness]]'
-- '[[arguments-against-materialism]]'
+- '[[the-case-for-dualism]]'
 - '[[mental-causation]]'
 - '[[illusionism]]'
 - '[[heterophenomenology]]'
@@ -128,7 +128,7 @@ The Map rejects functionalism on multiple grounds:
 
 ### Dualism and Qualia
 
-If consciousness is not reducible to physical processes, it's not reducible to functional organization either—functional description is still physical description (or at least physically implementable). The Map takes qualia seriously: the felt quality of experience transcends functional role. The arguments against functionalism—absent qualia, inverted qualia, Chinese Room, explanatory gap—form part of a larger [convergence argument](/concepts/arguments-against-materialism/) against materialism.
+If consciousness is not reducible to physical processes, it's not reducible to functional organization either—functional description is still physical description (or at least physically implementable). The Map takes qualia seriously: the felt quality of experience transcends functional role. The arguments against functionalism—absent qualia, inverted qualia, Chinese Room, explanatory gap—form part of a larger [convergence argument](/concepts/the-case-for-dualism/) against materialism.
 
 ### Bidirectional Interaction
 
@@ -170,7 +170,7 @@ The Map's response: the substrate matters because consciousness involves somethi
 
 ## Further Reading
 
-- [arguments-against-materialism](/concepts/arguments-against-materialism/) — The convergence of arguments against physicalism
+- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The convergence of arguments against physicalism
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Simple organisms reveal functionalism's limits
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — The emergence problem functionalism cannot solve
 - [functionalism](/arguments/functionalism/) — Five formal arguments against functionalism

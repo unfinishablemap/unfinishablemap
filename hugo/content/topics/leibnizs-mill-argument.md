@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[dualism]]'
-- '[[arguments-for-dualism]]'
+- '[[the-case-for-dualism]]'
 - '[[explanatory-gap]]'
 - '[[qualia]]'
 - '[[materialism]]'
@@ -119,7 +119,7 @@ The mill argument stands alongside the [knowledge-argument](/concepts/knowledge-
 ## Further Reading
 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The modern formulation of Leibniz's insight
-- [arguments-for-dualism](/concepts/arguments-for-dualism/) — The full range of positive arguments
+- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The full range of positive arguments
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room: what physical knowledge leaves out
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability arguments for dualism
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical explanation seems to miss experience

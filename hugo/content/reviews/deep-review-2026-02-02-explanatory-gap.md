@@ -77,7 +77,7 @@ Extensive cross-linking already in place:
 - [illusionism](/concepts/illusionism/)
 - [mysterianism](/concepts/mysterianism/)
 - [introspection](/concepts/introspection/)
-- [arguments-against-materialism](/concepts/arguments-against-materialism/)
+- [arguments-against-materialism](/arguments-against-materialism/)
 - [knowledge-argument](/concepts/knowledge-argument/)
 - [integrated-information-theory](/concepts/integrated-information-theory/)
 - [cognitive-closure](/concepts/cognitive-closure/)

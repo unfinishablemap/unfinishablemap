@@ -63,7 +63,7 @@ topics: []
 ### Cross-links Added
 - [introspection](/concepts/introspection/) — Introspective reliability debate bears on illusionism
 - [decoherence](/concepts/decoherence/) — Quantum skeptic objection and responses
-- [arguments-for-dualism](/concepts/arguments-for-dualism/) — Converging evidence for dualism
+- [arguments-for-dualism](/arguments-for-dualism/) — Converging evidence for dualism
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist challenge to the witness
 
 ## Remaining Items

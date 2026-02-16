@@ -10,7 +10,7 @@ concepts:
 - '[[cognitive-closure]]'
 - '[[interactionist-dualism]]'
 - '[[materialism]]'
-- '[[arguments-for-dualism]]'
+- '[[the-case-for-dualism]]'
 - '[[consciousness]]'
 - '[[introspection]]'
 - '[[explanatory-gap]]'
@@ -75,7 +75,7 @@ The prediction error that signals "unexpected red" could occur in a system with 
 
 Cognitive science is sometimes weaponised against dualism through a genetic fallacy: explaining *why* people believe in dualism supposedly shows dualism is false. If Bloom is right that separate cognitive systems generate dualist intuitions, then dualism is "just" a cognitive artefact. If Barrett is right that dualism is culturally learned, then it's "just" a cultural artefact.
 
-Both inferences are invalid. Explaining why someone believes something tells you nothing about whether the belief is true. We can explain why people believe in gravity (perceptual experience of falling objects, vestibular system) without this undermining the truth of gravitational theory. Folk physics captures real features of the world despite its cognitive origins. The [positive case for dualism](/concepts/arguments-for-dualism/) — the [explanatory-gap](/concepts/explanatory-gap/), [conceivability arguments](/concepts/philosophical-zombies/), the [knowledge-argument](/concepts/knowledge-argument/) — stands or falls on its own merits, independent of why people find it intuitive or counterintuitive.
+Both inferences are invalid. Explaining why someone believes something tells you nothing about whether the belief is true. We can explain why people believe in gravity (perceptual experience of falling objects, vestibular system) without this undermining the truth of gravitational theory. Folk physics captures real features of the world despite its cognitive origins. The [positive case for dualism](/concepts/the-case-for-dualism/) — the [explanatory-gap](/concepts/explanatory-gap/), [conceivability arguments](/concepts/philosophical-zombies/), the [knowledge-argument](/concepts/knowledge-argument/) — stands or falls on its own merits, independent of why people find it intuitive or counterintuitive.
 
 The genetic fallacy cuts both ways. If cognitive naturalness discredits dualism, it equally discredits intuitive materialism. Barrett et al.'s participants who expected mental states to cease at death were expressing evolved intuitions shaped by survival pressures, not philosophical analysis. Evolution selects for behaviourally useful heuristics, not metaphysical truth.
 
@@ -107,7 +107,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) receives perhaps th
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's integration of first-person and third-person methods
 - [cognitive-closure](/concepts/cognitive-closure/) — McGinn's thesis on constitutional limits of human cognition
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why no amount of functional description explains experience
-- [arguments-for-dualism](/concepts/arguments-for-dualism/) — The philosophical case independent of cognitive science
+- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The philosophical case independent of cognitive science
 - [mental-causation](/concepts/mental-causation/) — How consciousness might causally influence the physical world
 
 ## References

@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[philosophical-zombies]]'
 - '[[knowledge-argument]]'
-- '[[arguments-for-dualism]]'
+- '[[the-case-for-dualism]]'
 - '[[explanatory-gap]]'
 - '[[phenomenal-concepts-strategy]]'
 created: 2026-02-11
@@ -146,7 +146,7 @@ Both moves carry costs. The first requires demonstrating where zombie conceiving
 
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The most famous application of conceivability-possibility reasoning
 - [knowledge-argument](/concepts/knowledge-argument/) — Another argument exploiting conceivability of phenomenal-physical separation
-- [arguments-for-dualism](/concepts/arguments-for-dualism/) — How conceivability arguments fit into the broader case for dualism
+- [the-case-for-dualism](/concepts/the-case-for-dualism/) — How conceivability arguments fit into the broader case for dualism
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience that conceivability arguments exploit
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Physicalism's most sophisticated response to conceivability-based arguments
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure as a targeted challenge to conceivability reasoning about consciousness

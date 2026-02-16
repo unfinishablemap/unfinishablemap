@@ -17,7 +17,7 @@ concepts:
 - '[[prebiotic-collapse]]'
 - '[[indexical-identity-quantum-measurement]]'
 - '[[quantum-probability-consciousness]]'
-- '[[arguments-for-dualism]]'
+- '[[the-case-for-dualism]]'
 - '[[qualia]]'
 - '[[spontaneous-collapse-theories]]'
 - '[[free-will]]'

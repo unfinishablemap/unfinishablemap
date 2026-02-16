@@ -24,7 +24,7 @@ concepts:
 - '[[intentionality]]'
 - '[[binding-problem]]'
 - '[[causal-closure]]'
-- '[[arguments-for-dualism]]'
+- '[[the-case-for-dualism]]'
 - '[[multi-mind-collapse-problem]]'
 - '[[interface-locality]]'
 - '[[prebiotic-collapse]]'

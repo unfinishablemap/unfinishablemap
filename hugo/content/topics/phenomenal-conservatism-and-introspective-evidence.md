@@ -27,7 +27,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[epistemic-advantages-of-dualism]]'
-- '[[arguments-for-dualism]]'
+- '[[the-case-for-dualism]]'
 - '[[introspection-reliability-first-person-2026-01-15]]'
 - '[[introspection-rehabilitation]]'
 - '[[modal-structure-of-phenomenal-properties]]'
@@ -137,7 +137,7 @@ What PC rules out is treating the qualitative presentations of consciousness as 
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/) — How training recovers introspective reliability
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — The distinctive modal profile of phenomenal properties PC protects
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — The broader case for taking non-materialist theories seriously
-- [arguments-for-dualism](/concepts/arguments-for-dualism/) — The positive philosophical case
+- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The positive philosophical case
 - [illusionism](/concepts/illusionism/) — The strongest denial of phenomenal consciousness
 - [qualia](/concepts/qualia/) — The phenomenal properties phenomenal conservatism defends
 

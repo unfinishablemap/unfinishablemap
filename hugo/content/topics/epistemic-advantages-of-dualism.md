@@ -27,7 +27,7 @@ related_articles:
 - '[[tenets]]'
 - '[[ethics-of-consciousness]]'
 - '[[purpose-and-alignment]]'
-- '[[arguments-for-dualism]]'
+- '[[the-case-for-dualism]]'
 - '[[philosophical-zombies]]'
 title: Epistemic Advantages of Non-Materialist Theories
 topics:
@@ -97,7 +97,7 @@ The deepest argument for maintaining dualism as a live option is epistemic humil
 
 **The cost of being wrong cuts both ways—but not equally.** If materialists are wrong and consciousness is indeed irreducible, they've foreclosed understanding of potentially vast aspects of reality—and may be committing ongoing moral harms by denying consciousness to beings that have it. If dualists are wrong, the costs are real and should not be minimised: misdirected research funding away from productive neuroscience, irrational policy around AI consciousness and end-of-life decisions, intellectual cover for pseudoscientific movements, and potentially decades of delayed progress on understanding consciousness through the frameworks that actually work.
 
-This structure resembles Pascal's Wager, and the parallel is worth confronting directly. Pascal's Wager fails because it applies equally to any unfalsifiable hypothesis—one could wager on Zeus or karma with the same logic. The asymmetric cost argument for dualism avoids this problem only if dualism is not an arbitrary hypothesis but one with independent positive support. The [positive arguments for dualism](/concepts/arguments-for-dualism/)—the hard problem's persistence, the conceivability of zombies, the knowledge argument—provide that support. These arguments don't prove dualism, but they distinguish it from hypotheses with no independent motivation. The precautionary logic applies specifically because dualism has both unresolved positive arguments and asymmetric risks, not because of the asymmetry alone.
+This structure resembles Pascal's Wager, and the parallel is worth confronting directly. Pascal's Wager fails because it applies equally to any unfalsifiable hypothesis—one could wager on Zeus or karma with the same logic. The asymmetric cost argument for dualism avoids this problem only if dualism is not an arbitrary hypothesis but one with independent positive support. The [positive arguments for dualism](/concepts/the-case-for-dualism/)—the hard problem's persistence, the conceivability of zombies, the knowledge argument—provide that support. These arguments don't prove dualism, but they distinguish it from hypotheses with no independent motivation. The precautionary logic applies specifically because dualism has both unresolved positive arguments and asymmetric risks, not because of the asymmetry alone.
 
 Even granting this distinction, the asymmetry is less dramatic than a naive comparison suggests. The materialist error risks irreversible moral harms to unrecognised conscious beings. The dualist error risks slower scientific progress on consciousness—itself a moral cost if better understanding would alleviate suffering. A fair assessment acknowledges both costs while noting that the materialist error forecloses investigation, whereas the dualist error remains correctable through evidence.
 
@@ -159,7 +159,7 @@ The epistemic humility argument for dualism would be undermined if:
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: This article articulates why the Map's dualist commitment is epistemically well-motivated even apart from specific arguments. Dualism is the epistemically humble stance—the one that closes fewer doors prematurely. The [positive arguments for dualism](/concepts/arguments-for-dualism/) provide object-level support; this article provides meta-level support through the logic of precaution under uncertainty.
+**[Dualism](/tenets/#dualism)**: This article articulates why the Map's dualist commitment is epistemically well-motivated even apart from specific arguments. Dualism is the epistemically humble stance—the one that closes fewer doors prematurely. The [positive arguments for dualism](/concepts/the-case-for-dualism/) provide object-level support; this article provides meta-level support through the logic of precaution under uncertainty.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The argument directly invokes this tenet. If simplicity is an unreliable guide when knowledge is incomplete, then materialism's claim to be simpler provides weak support for its truth. The [mysterian](/concepts/mysterianism/) analysis strengthens this: if we're cognitively closed to the mind-body connection, apparent simplicity may reflect our limitations rather than reality's structure.
 
@@ -183,7 +183,7 @@ The price of this openness is entertaining possibilities that may turn out to be
 ## Further Reading
 
 - [tenets](/tenets/) — the Map's foundational commitments
-- [arguments-for-dualism](/concepts/arguments-for-dualism/) — Positive arguments for dualism (complements this meta-level epistemic argument)
+- [the-case-for-dualism](/concepts/the-case-for-dualism/) — Positive arguments for dualism (complements this meta-level epistemic argument)
 - [materialism](/arguments/materialism/) — The position this article critiques
 - [mysterianism](/concepts/mysterianism/) — Why we may have cognitive limits on understanding consciousness
 - [filter-theory](/concepts/filter-theory/) — An alternative to productive models of consciousness

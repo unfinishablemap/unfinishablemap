@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[qualia]]'
 - '[[philosophical-zombies]]'
-- '[[arguments-against-materialism]]'
+- '[[the-case-for-dualism]]'
 - '[[knowledge-argument]]'
 - '[[illusionism]]'
 - '[[mysterianism]]'
@@ -136,7 +136,7 @@ How do we know about the gap in the first place? Through [introspection](/concep
 
 This critique targets the wrong level. Studies like Nisbett and Wilson's concern process access—why we make decisions. The gap argument depends on content access—recognizing that experience has qualitative character at all. Even systematic errors about *why* we prefer one face don't undermine that we *have* visual experience. The gap argument requires only that something is like something to us—and this seems undeniable regardless of introspection's reliability about causes.
 
-The explanatory gap is one of several independent [arguments against materialism](/concepts/arguments-against-materialism/). What makes the cumulative case powerful is convergence: the gap argument, the [knowledge argument](/concepts/knowledge-argument/), the [zombie argument](/concepts/philosophical-zombies/), Kripke's modal argument, and Nagel's subjectivity argument all proceed through different routes to the same conclusion. When independent lines of reasoning converge, the probability that they're all mistaken decreases.
+The explanatory gap is one of several independent [arguments against materialism](/concepts/the-case-for-dualism/). What makes the cumulative case powerful is convergence: the gap argument, the [knowledge argument](/concepts/knowledge-argument/), the [zombie argument](/concepts/philosophical-zombies/), Kripke's modal argument, and Nagel's subjectivity argument all proceed through different routes to the same conclusion. When independent lines of reasoning converge, the probability that they're all mistaken decreases.
 
 ## Process Philosophy Perspective
 
@@ -187,7 +187,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 ## Further Reading
 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The metaphysical problem the gap points to
-- [arguments-against-materialism](/concepts/arguments-against-materialism/) — The explanatory gap as one of seven converging arguments
+- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The explanatory gap as one of seven converging arguments
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room: the gap dramatized through a thought experiment
 - [qualia](/concepts/qualia/) — The experiential properties the gap concerns
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment that converts the gap into an argument against physicalism

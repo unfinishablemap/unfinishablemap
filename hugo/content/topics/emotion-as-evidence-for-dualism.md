@@ -11,7 +11,7 @@ concepts:
 - '[[epiphenomenalism]]'
 - '[[explanatory-gap]]'
 - '[[agent-causation]]'
-- '[[arguments-for-dualism]]'
+- '[[the-case-for-dualism]]'
 created: 2026-02-15
 date: &id001 2026-02-15
 description: Emotions provide distinctive evidence for dualism through valence irreducibility,
@@ -66,7 +66,7 @@ Michael Tye and Brian Cutter make the broader point: "It is only in virtue of th
 
 ## Emotion as a Distinctive Argument
 
-How does the emotional argument relate to the established [arguments-for-dualism](/concepts/arguments-for-dualism/)? It contributes something each of the standard arguments lacks on its own.
+How does the emotional argument relate to the established [the-case-for-dualism](/concepts/the-case-for-dualism/)? It contributes something each of the standard arguments lacks on its own.
 
 **The conceivability argument** (philosophical zombies) shows consciousness is logically separable from physics. But conceivability alone does not demonstrate causal relevance—a zombie's functional behaviour is identical to ours. The emotional argument goes further: not only is valence separable from functional states, its absence produces *different behaviour* in the actual world.
 
@@ -113,7 +113,7 @@ The moral and motivational significance of valence depends on indexical identity
 ## Further Reading
 
 - [emotional-consciousness](/topics/emotional-consciousness/) — Comprehensive treatment of emotional consciousness, valence, and their philosophical implications
-- [arguments-for-dualism](/concepts/arguments-for-dualism/) — The full range of positive arguments for dualism
+- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The full range of positive arguments for dualism
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why physical explanations leave phenomenal experience unexplained
 - [qualia](/concepts/qualia/) — Intrinsic properties of experience that resist functional reduction
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal character

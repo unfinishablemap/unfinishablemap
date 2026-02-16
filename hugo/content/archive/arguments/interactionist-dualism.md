@@ -218,7 +218,7 @@ The arguments directly support the site's foundational [tenets](/tenets/):
 
 ## Further Reading
 
-- [arguments-for-dualism](/concepts/arguments-for-dualism/) — Comprehensive concept treatment
+- [arguments-for-dualism](/arguments-for-dualism/) — Comprehensive concept treatment
 - [materialism](/arguments/materialism/) — The case against the main alternative
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The position defended here
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail

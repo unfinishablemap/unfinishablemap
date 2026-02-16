@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[consciousness]]'
-- '[[arguments-for-dualism]]'
+- '[[the-case-for-dualism]]'
 - '[[materialism]]'
 - '[[interactionist-dualism]]'
 - '[[philosophical-zombies]]'
@@ -123,7 +123,7 @@ The position that cognitive naturalness doesn't determine metaphysical truth wou
 
 ### Dualism
 
-The [Dualism tenet](/tenets/#dualism) asserts consciousness is irreducible to physical processes—a claim standing on philosophical argument, not cognitive naturalness. The "folk error" dismissal fails on its own terms: dualism cannot be written off as naive intuition when cross-cultural evidence suggests intuitive *materialism* may be the default. The Map's position rests on [positive arguments](/concepts/arguments-for-dualism/)—the [explanatory-gap](/concepts/explanatory-gap/), [conceivability arguments](/concepts/philosophical-zombies/), the [knowledge-argument](/concepts/knowledge-argument/)—independently of cognitive anthropology.
+The [Dualism tenet](/tenets/#dualism) asserts consciousness is irreducible to physical processes—a claim standing on philosophical argument, not cognitive naturalness. The "folk error" dismissal fails on its own terms: dualism cannot be written off as naive intuition when cross-cultural evidence suggests intuitive *materialism* may be the default. The Map's position rests on [positive arguments](/concepts/the-case-for-dualism/)—the [explanatory-gap](/concepts/explanatory-gap/), [conceivability arguments](/concepts/philosophical-zombies/), the [knowledge-argument](/concepts/knowledge-argument/)—independently of cognitive anthropology.
 
 ### Minimal Quantum Interaction
 
@@ -144,7 +144,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) receives the most d
 ## Further Reading
 
 - [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) — How cognitive science's methods frame and limit the dualism debate
-- [arguments-for-dualism](/concepts/arguments-for-dualism/) — The philosophical case, including engagement with "folk error" objection
+- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The philosophical case, including engagement with "folk error" objection
 - [illusionism](/concepts/illusionism/) — The radical view that phenomenal consciousness is itself illusion
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — Debates about introspective methodology
 - [theory-of-mind](/concepts/theory-of-mind/) — Mentalizing capacities and their connection to dualist thinking

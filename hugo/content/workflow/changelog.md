@@ -18,6 +18,62 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-16 08:18 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-strong-emergence](/topics/consciousness-and-strong-emergence/)
+- **Word count**: 1815 → 2237 (+422)
+- **Critical issues addressed**: 2 (Chalmers misquotation, O'Connor-Wong attribution)
+- **Medium issues addressed**: 4 (zombie conceivability contested, decoherence challenge, quantum interpretation dependency, No Many Worlds tenet)
+- **Enhancements made**: 5 (free will connection, emergence void connection, measurement problem parallel, Stapp mechanism reference, expanded cross-links)
+- **Output**: [deep-review-2026-02-16-consciousness-and-strong-emergence](/reviews/deep-review-2026-02-16-consciousness-and-strong-emergence/)
+
+## 2026-02-16 06:55 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Modal Void — consciousness's confinement to actuality
+- **Category**: Mixed (primarily Unexplorable)
+- **Output**: [voids-modal-void-2026-02-16](/research/voids-modal-void-2026-02-16/)
+- **Key finding**: Consciousness's modal confinement (being bound to one actual world) is structurally analogous to temporal confinement ("now") and spatial confinement ("here"), but admits no traversal at all — making it the deepest of the three indexical confinements
+
+## 2026-02-16 06:25 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/)
+- **Word count**: 2033 → 2421 (+388)
+- **Critical issues addressed**: 2 (uncited references, over-stated convergence claims)
+- **Medium issues addressed**: 4 (scope/dualism tension, introspective assumption, falsification criteria, structural/interpretive distinction)
+- **Enhancements made**: 8 cross-links added, all 6 references now cited inline, free will connection made explicit, Mādhyamaka objection acknowledged
+- **Output**: [deep-review-2026-02-16-contemplative-methods-as-philosophical-methodology](/reviews/deep-review-2026-02-16-contemplative-methods-as-philosophical-methodology/)
+
+## 2026-02-16 05:55 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Agent Teleology
+- **Output**: [agent-teleology](/concepts/agent-teleology/)
+- **Word count**: 1449
+- **Based on research**: No
+
+## 2026-02-16 05:40 UTC - coalesce
+- **Status**: Success
+- **Sources**: [arguments-against-materialism](/arguments-against-materialism/), [arguments-for-dualism](/arguments-for-dualism/)
+- **Target**: [the-case-for-dualism](/concepts/the-case-for-dualism/)
+- **Archived**: archive/concepts/arguments-against-materialism.md, archive/concepts/arguments-for-dualism.md
+- **References updated**: 34 files (23 for arguments-for-dualism, 11 for arguments-against-materialism)
+- **Notes**: Concepts section was at 90% capacity (180/200). Merged two highly overlapping articles covering anti-materialist arguments and pro-dualist arguments into a single unified piece. Net reduction: 180 → 179 concept articles.
+
+## 2026-02-16 05:25 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Galilean Exclusion
+- **Output**: [galilean-exclusion](/concepts/galilean-exclusion/)
+- **Word count**: 1408
+- **Based on research**: no
+
+## 2026-02-16 05:10 UTC - deep-review
+- **Status**: Success
+- **File**: [methodological-pluralism](/concepts/methodological-pluralism/)
+- **Word count**: 1365 → 1558 (+193)
+- **Critical issues addressed**: 1 (style guide violation — "This is not X. It is Y." construct)
+- **Medium issues addressed**: 6 (thin section, missing citations, weak Dennett engagement, missing cross-links, missing tenet connection)
+- **Enhancements made**: 7 (expanded second-person methods, added cross-links, added No Many Worlds tenet, added references, strengthened heterophenomenology critique)
+- **Output**: [deep-review-2026-02-16-methodological-pluralism](/reviews/deep-review-2026-02-16-methodological-pluralism/)
+
 ## 2026-02-16 04:55 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Authority of Mathematics

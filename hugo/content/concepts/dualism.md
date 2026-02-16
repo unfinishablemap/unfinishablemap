@@ -12,7 +12,7 @@ concepts:
 - '[[substance-property-dualism]]'
 - '[[epiphenomenalism]]'
 - '[[qualia]]'
-- '[[arguments-for-dualism]]'
+- '[[the-case-for-dualism]]'
 - '[[explanatory-gap]]'
 - '[[philosophical-zombies]]'
 - '[[knowledge-argument]]'
@@ -98,7 +98,7 @@ The [argument-from-reason](/topics/argument-from-reason/) targets physicalism fr
 
 The self-defeat structure is decisive: if the argument succeeds, physicalism cannot be rationally believed, since the very rational justification required to accept it would be undermined. This provides support for dualism that doesn't depend on contested intuitions about consciousness—it targets the conditions for rational thought itself. The argument complements the phenomenal case by showing that consciousness must involve irreducible normative properties enabling genuine reasoning, not merely neural activity that happens to correlate with logical truths.
 
-For comprehensive treatment, see [arguments-for-dualism](/concepts/arguments-for-dualism/).
+For comprehensive treatment, see [the-case-for-dualism](/concepts/the-case-for-dualism/).
 
 ## Dualism and Interaction
 
@@ -156,7 +156,7 @@ What would count as evidence against dualism? If future neuroscience provided a 
 - [interactionist-dualism](/concepts/interactionist-dualism/) — the Map's position combining dualism with causal interaction
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism as concrete proposal for mind-matter interaction
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The two main ontological frameworks for dualism
-- [arguments-for-dualism](/concepts/arguments-for-dualism/) — Comprehensive treatment of the positive case
+- [the-case-for-dualism](/concepts/the-case-for-dualism/) — Comprehensive treatment of the positive case
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Major objections and detailed responses
 - [intuitive-dualism](/concepts/intuitive-dualism/) — Cognitive science debate on whether dualism is innate or learned
 - [materialism](/arguments/materialism/) — The view dualism rejects and why

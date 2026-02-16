@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-06
-**Article**: [Arguments for Dualism](/concepts/arguments-for-dualism/)
+**Article**: [Arguments for Dualism](/arguments-for-dualism/)
 **Previous review**: [2026-01-27](/reviews/deep-review-2026-01-27-arguments-for-dualism/)
 
 ## Pessimistic Analysis Summary

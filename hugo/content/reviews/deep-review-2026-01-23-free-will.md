@@ -74,7 +74,7 @@ topics: []
 
 - [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/) - in Mystery of Selection section
 - [philosophical-zombies](/concepts/philosophical-zombies/) - in Mystery of Selection section
-- [arguments-for-dualism](/concepts/arguments-for-dualism/) - in Mystery of Selection section
+- [arguments-for-dualism](/arguments-for-dualism/) - in Mystery of Selection section
 - All already present in Further Reading (article comprehensively cross-linked)
 
 ## Remaining Items

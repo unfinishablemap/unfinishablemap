@@ -15,7 +15,7 @@ concepts:
 - '[[introspection]]'
 - '[[mysterianism]]'
 - '[[knowledge-argument]]'
-- '[[arguments-against-materialism]]'
+- '[[the-case-for-dualism]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 description: The radical claim that phenomenal consciousness is an introspective illusion.
@@ -154,7 +154,7 @@ Recent work has focused on several questions:
 - Whether illusionism can be empirically distinguished from ordinary [materialism](/arguments/materialism/)
 - The "hardest aspect" of the illusion problem: why the illusion resists dissolution
 - Whether illusionism is self-refuting (if our beliefs about consciousness are illusions, why trust our belief in illusionism?)
-- How illusionism handles the [convergence argument](/concepts/arguments-against-materialism/)—multiple independent routes to the same anti-materialist conclusion
+- How illusionism handles the [convergence argument](/concepts/the-case-for-dualism/)—multiple independent routes to the same anti-materialist conclusion
 
 ## Relation to Site Perspective
 
@@ -173,7 +173,7 @@ The persistence of the illusion problem suggests illusionism doesn't escape the 
 ### Site Content
 - [attention-schema-theory](/concepts/attention-schema-theory/) — The neuroscientific mechanism for illusionism, and the Map's critique
 - [attention](/attention/) — What AST claims consciousness is a model of
-- [arguments-against-materialism](/concepts/arguments-against-materialism/) — Illusionism as the most radical physicalist response
+- [the-case-for-dualism](/concepts/the-case-for-dualism/) — Illusionism as the most radical physicalist response
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap illusionism claims doesn't need bridging
 - [introspection](/concepts/introspection/) — The reliability of phenomenal reports illusionism must challenge
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what illusionism must say about learning

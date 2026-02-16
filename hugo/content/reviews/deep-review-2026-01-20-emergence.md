@@ -60,7 +60,7 @@ None identified.
 - [phenomenal-unity](/phenomenal-unity/) to frontmatter and Further Reading
 - [binding-problem](/concepts/binding-problem/) to frontmatter and Further Reading (already mentioned in text)
 - [minimal-consciousness](/concepts/minimal-consciousness/) to frontmatter and Further Reading
-- [arguments-against-materialism](/concepts/arguments-against-materialism/) to Further Reading
+- [arguments-against-materialism](/arguments-against-materialism/) to Further Reading
 
 ## Remaining Items
 

@@ -14,7 +14,7 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[materialism]]'
 - '[[functionalism]]'
-- '[[arguments-against-materialism]]'
+- '[[the-case-for-dualism]]'
 - '[[conceivability-possibility-inference]]'
 created: 2026-02-10
 date: &id001 2026-02-15
@@ -121,7 +121,7 @@ The modal structure of phenomenal properties provides some of the strongest supp
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability of absent experience
 - [inverted-qualia](/concepts/inverted-qualia/) — The conceivability of varied qualitative character
 - [knowledge-argument](/concepts/knowledge-argument/) — Phenomenal knowledge beyond physical facts
-- [arguments-against-materialism](/concepts/arguments-against-materialism/) — The full convergence of anti-materialist arguments, including Kripke's modal argument
+- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The full convergence of anti-materialist arguments, including Kripke's modal argument
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — The physicalist's strongest response and its limits
 - [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) — The bridge from conceivability to metaphysical possibility
 - [haecceity](/concepts/haecceity/) — Irreducible particularity in consciousness

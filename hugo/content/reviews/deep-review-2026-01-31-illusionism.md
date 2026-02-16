@@ -66,7 +66,7 @@ All cross-links from previous review remain valid:
 - `[introspection](/concepts/introspection/)`
 - `[mysterianism](/concepts/mysterianism/)`
 - `[knowledge-argument](/concepts/knowledge-argument/)`
-- `[arguments-against-materialism](/concepts/arguments-against-materialism/)`
+- `[arguments-against-materialism](/arguments-against-materialism/)`
 - `[mental-effort](/concepts/mental-effort/)`
 
 ## Remaining Items

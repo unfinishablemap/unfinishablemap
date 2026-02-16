@@ -88,16 +88,16 @@ Frontmatter:
 - [decoherence](/concepts/decoherence/)
 - [haecceity](/concepts/haecceity/)
 - [witness-consciousness](/concepts/witness-consciousness/)
-- [arguments-for-dualism](/concepts/arguments-for-dualism/)
+- [arguments-for-dualism](/arguments-for-dualism/)
 - [philosophical-zombies](/concepts/philosophical-zombies/)
 
 Inline:
 - [quantum-biology](/concepts/quantum-biology/)
-- [arguments-for-dualism](/concepts/arguments-for-dualism/)
+- [arguments-for-dualism](/arguments-for-dualism/)
 - [mysterianism](/concepts/mysterianism/) (additional context)
 
 Further Reading:
-- [arguments-for-dualism](/concepts/arguments-for-dualism/)
+- [arguments-for-dualism](/arguments-for-dualism/)
 - [illusionism](/concepts/illusionism/)
 - [introspection](/concepts/introspection/)
 - [decoherence](/concepts/decoherence/)
