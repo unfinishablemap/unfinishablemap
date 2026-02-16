@@ -37,6 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Consolidate illusionism self-refutation argument across articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-02-16 afternoon) found the self-refutation/regress objection against illusionism deployed in nearly identical form across intentionality.md, philosophical-zombies.md, knowledge-argument.md, ai-consciousness.md, and split-brain-consciousness.md. This creates repetition fatigue and never engages seriously with Frankish's quasi-phenomenal properties response. One article (illusionism.md) should contain the full argument with genuine engagement; others should cross-reference. Each instance should acknowledge that many philosophers find the objection question-begging. See pessimistic-2026-02-16-afternoon.md
+
 ### P2: Update references to coalesced temporal articles (specious-present, duration)
 - **Type**: other
 - **Notes**: Coalesce (2026-02-15) merged `specious-present.md` and `duration.md` into the expanded `temporal-consciousness.md`. ~15 active content files reference `[[specious-present]]` and ~30 reference `[[duration]]` across concepts/, topics/, apex/, and voids/. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to temporal-consciousness where appropriate.
