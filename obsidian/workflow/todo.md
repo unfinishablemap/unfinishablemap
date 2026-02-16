@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Write article on the interface specification problem
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The specification problem—how consciousness selects specific quantum outcomes rather than random ones—is the Map's most significant open challenge. Synthesise current approaches and honestly assess the gap. Builds on mental-causation.md, interactionist-dualism.md, measurement-problem.md. See optimistic-2026-02-16-evening.md
-
 ### P3: Create concept page for process haecceitism
 - **Type**: expand-topic
 - **Status**: pending
@@ -140,6 +135,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-16: Write article on the interface specification problem
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The specification problem—how consciousness selects specific quantum outcomes rather than random ones—is the Map's most significant open challenge. Synthesise current approaches and honestly assess the gap. Builds on mental-causation.md, interactionist-dualism.md, measurement-problem.md. See optimistic-2026-02-16-evening.md
+- **Output**: the interface specification problem
 
 ### ✓ 2026-02-16: Write article on phenomenology of moral perception
 - **Type**: expand-topic
