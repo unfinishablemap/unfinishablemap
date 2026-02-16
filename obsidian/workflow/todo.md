@@ -109,6 +109,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
+### P3: Write article on philosophy of perception under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-16. How does the Map handle the relationship between perception and reality if consciousness is irreducible? Direct realism, representationalism, and naive realism each have different implications for dualist interactionism. The Galilean exclusion creates pressure: if secondary qualities were excluded from physics, are they real features of the world or of consciousness? Builds on consciousness-and-scientific-methodology.md, phenomenology-of-perceptual-constancy.md, phenomenal-transparency.md. See optimistic-2026-02-16.md
+
+### P3: Write article on consciousness and the authority of mathematics
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-16. Mathematics involves existence claims that logic alone does not. If logical authority is phenomenal (per consciousness-and-the-authority-of-logic.md), is mathematical existence phenomenal too? Gödel's platonism versus formalism becomes a consciousness question. The Map's dualism has natural affinity with mathematical platonism. Builds on consciousness-and-the-authority-of-logic.md, consciousness-and-mathematical-understanding.md. See optimistic-2026-02-16.md
+
+### P3: Create concept page for Galilean exclusion
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-16. The foundational methodological move that excluded subjectivity from science. Referenced in consciousness-and-scientific-methodology.md and implicit across the Map's epistemological arguments. Deserves its own concept page linking to objectivity-and-consciousness, explanatory-gap, hard-problem-of-consciousness. See optimistic-2026-02-16.md
+
+### P3: Create concept page for agent teleology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-16. Genuine purpose introduced by conscious agents into an otherwise mechanistic universe, distinguished from cosmic and theological teleology. Referenced in evolution-under-dualism.md. Central to the Map's position on free will and evolution but not yet defined anywhere. See optimistic-2026-02-16.md
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
