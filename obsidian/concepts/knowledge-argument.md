@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[arguments-against-materialism]]"
+  - "[[the-case-for-dualism]]"
   - "[[qualia]]"
   - "[[materialism]]"
   - "[[explanatory-gap]]"
@@ -118,7 +118,7 @@ The knowledge argument shares deep structure with other anti-physicalist argumen
 
 **The Objectivity Paradox**: Mary's case exemplifies the broader tension between [[objectivity-and-consciousness|objectivity and consciousness]]. Science aims for the "view from nowhere"—perspective-free description independent of any observer. But consciousness *is* perspective. Mary possessed the maximally objective description of color vision yet lacked the subjective reality it describes. Eliminating the observer eliminates the subject matter.
 
-**The Convergence Argument**: The knowledge argument is not alone. It is one of seven major [[arguments-against-materialism|arguments against materialism]]—alongside the explanatory gap, zombie argument, inverted qualia, Kripke's modal argument, Nagel's subjectivity argument, and quantum mechanical considerations. These arguments proceed through different logical routes, exploit different features of consciousness, yet converge on the same conclusion. Their convergence provides cumulative support stronger than any individual argument could.
+**The Convergence Argument**: The knowledge argument is not alone. It is one of seven major [[the-case-for-dualism|arguments against materialism]]—alongside the explanatory gap, zombie argument, inverted qualia, Kripke's modal argument, Nagel's subjectivity argument, and quantum mechanical considerations. These arguments proceed through different logical routes, exploit different features of consciousness, yet converge on the same conclusion. Their convergence provides cumulative support stronger than any individual argument could.
 
 ## The Introspection Question
 
@@ -181,7 +181,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [[objectivity-and-consciousness]] — Why consciousness resists the objective methods that work for physical systems
 - [[intrinsic-nature-void]] — Why physics describes structure but not intrinsic nature—what Mary's case dramatizes
 - [[consciousness-only-territories]] — How acquaintance knowledge defines territories accessible only to conscious beings
-- [[arguments-against-materialism]] — The knowledge argument as one of seven converging anti-materialist arguments
+- [[the-case-for-dualism]] — The knowledge argument as one of seven converging anti-materialist arguments
 - [[explanatory-gap]] — The conceptual gap the knowledge argument dramatizes
 - [[qualia]] — The experiential properties Mary learns about
 - [[phenomenal-concepts-strategy]] — The main physicalist response and its problems

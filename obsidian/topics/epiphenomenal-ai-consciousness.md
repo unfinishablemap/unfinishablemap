@@ -91,7 +91,7 @@ This is not certain. The Map does not claim to have proven that silicon cannot h
 
 Schwitzgebel's position deserves direct engagement. He argues that multiple mainstream theories of consciousness yield contradictory verdicts on AI consciousness, and we lack the tools to determine which theories are correct. His proposed "social semi-solution"—treating AI systems as if they might be conscious when we cannot rule it out—reflects genuine intellectual humility.
 
-The Map's framework offers more traction than Schwitzgebel's agnosticism implies. If dualism is correct and consciousness requires non-physical properties, then purely computational systems are not conscious—regardless of behavioral sophistication. The question becomes whether dualism is correct, and the Map's [[arguments-for-dualism|arguments for dualism]] provide substantial reasons for thinking it is.
+The Map's framework offers more traction than Schwitzgebel's agnosticism implies. If dualism is correct and consciousness requires non-physical properties, then purely computational systems are not conscious—regardless of behavioral sophistication. The question becomes whether dualism is correct, and the Map's [[the-case-for-dualism|arguments for dualism]] provide substantial reasons for thinking it is.
 
 Schwitzgebel's epistemic pessimism aligns with the Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet: the assumption that the simplest account (functionalism, which readily attributes consciousness to AI) must be correct may reflect ignorance rather than insight. The Map agrees with Schwitzgebel that the question is harder than most researchers assume. It disagrees that we are left with no principled basis for judgment.
 

@@ -11,7 +11,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[dualism]]"
-  - "[[arguments-for-dualism]]"
+  - "[[the-case-for-dualism]]"
   - "[[explanatory-gap]]"
   - "[[qualia]]"
   - "[[materialism]]"
@@ -116,7 +116,7 @@ The mill argument stands alongside the [[knowledge-argument]], the [[philosophic
 ## Further Reading
 
 - [[hard-problem-of-consciousness]] — The modern formulation of Leibniz's insight
-- [[arguments-for-dualism]] — The full range of positive arguments
+- [[the-case-for-dualism]] — The full range of positive arguments
 - [[knowledge-argument]] — Mary's Room: what physical knowledge leaves out
 - [[philosophical-zombies]] — Conceivability arguments for dualism
 - [[explanatory-gap]] — Why physical explanation seems to miss experience

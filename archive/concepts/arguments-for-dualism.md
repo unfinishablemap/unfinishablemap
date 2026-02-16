@@ -6,6 +6,11 @@ modified: 2026-01-14
 human_modified: null
 ai_modified: 2026-02-15T17:09:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-16T05:40:00+00:00
+superseded_by: "/concepts/the-case-for-dualism/"
+archive_reason: "Coalesced into The Case for Dualism"
+original_path: "/concepts/arguments-for-dualism/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:

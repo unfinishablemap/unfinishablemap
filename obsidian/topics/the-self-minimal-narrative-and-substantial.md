@@ -23,7 +23,7 @@ concepts:
   - "[[mind-brain-separation]]"
   - "[[qualia]]"
   - "[[agent-causation]]"
-  - "[[arguments-against-materialism]]"
+  - "[[the-case-for-dualism]]"
 related_articles:
   - "[[tenets]]"
   - "[[eastern-philosophy-consciousness]]"
@@ -138,7 +138,7 @@ These challenges remain unmet, but they are not trivial. The contemplative evide
 
 The three-layered self connects directly to the Map's foundational commitments.
 
-**[[tenets#^dualism|Dualism]]**: The substantial self is the dualist's strongest exhibit. If the self were merely a narrative construction or a self-model, it could in principle be explained by neuroscience—a product of brain processes, nothing more. But the substantial self—*this* irreducible conscious particular—resists physicalist reduction in the same way consciousness itself does. The [[arguments-against-materialism|case against materialism]] gains force here: the hard problem is hard precisely because the subject investigating it cannot be captured by the investigation's third-person methods.
+**[[tenets#^dualism|Dualism]]**: The substantial self is the dualist's strongest exhibit. If the self were merely a narrative construction or a self-model, it could in principle be explained by neuroscience—a product of brain processes, nothing more. But the substantial self—*this* irreducible conscious particular—resists physicalist reduction in the same way consciousness itself does. The [[the-case-for-dualism|case against materialism]] gains force here: the hard problem is hard precisely because the subject investigating it cannot be captured by the investigation's third-person methods.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Only a substantial self can be a genuine causal agent. Perspectives do not cause events; stories do not move matter. If consciousness causally influences quantum outcomes, there must be an entity doing the influencing—not merely a viewpoint or a narrative but a substantial particular whose choices are real. This is also the foundation for the Map's account of [[free-will]]: genuine agency requires a substantial agent.
 

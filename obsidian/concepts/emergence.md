@@ -169,7 +169,7 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 
 ## Further Reading
 
-- [[arguments-against-materialism]] — Seven converging arguments that physical description cannot capture consciousness
+- [[the-case-for-dualism]] — Seven converging arguments that physical description cannot capture consciousness
 - [[mental-causation]] — The philosophical problem strong emergence addresses
 - [[evolution-of-consciousness]] — When consciousness emerged and what this reveals about emergence theory
 - [[reductionism]] — The three types of reductionism and why consciousness resists each

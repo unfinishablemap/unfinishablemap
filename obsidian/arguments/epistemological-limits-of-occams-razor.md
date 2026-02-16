@@ -10,12 +10,12 @@ topics:
   - "[[materialism]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[arguments-for-dualism]]"
+  - "[[the-case-for-dualism]]"
   - "[[philosophical-zombies]]"
   - "[[interactionist-dualism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[arguments-against-materialism]]"
+  - "[[the-case-for-dualism]]"
   - "[[mysterianism]]"
 ai_contribution: 100
 author:
@@ -93,8 +93,8 @@ The Map does not claim parsimony is useless. It remains a valuable heuristic in 
 
 ## Further Reading
 
-- [[arguments-for-dualism]]
-- [[arguments-against-materialism]]
+- [[the-case-for-dualism]]
+- [[the-case-for-dualism]]
 - [[hard-problem-of-consciousness]]
 - [[explanatory-gap]]
 - [[causal-closure]]

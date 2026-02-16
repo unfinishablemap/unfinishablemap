@@ -14,7 +14,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[epiphenomenalism]]"
   - "[[causal-closure]]"
-  - "[[arguments-for-dualism]]"
+  - "[[the-case-for-dualism]]"
   - "[[explanatory-gap]]"
   - "[[mysterianism]]"
   - "[[stapp-quantum-mind]]"
@@ -144,7 +144,7 @@ The physicalist might respond: "What's the difference? If the outputs match corr
 
 ## Further Reading
 
-- [[arguments-for-dualism]] - Multiple independent arguments converging on irreducibility of consciousness
+- [[the-case-for-dualism]] - Multiple independent arguments converging on irreducibility of consciousness
 - [[causal-closure]] - The physicalist principle that the argument from reason challenges
 - [[explanatory-gap]] - The conceptual distinction between physical and phenomenal that the argument exploits
 - [[agent-causation]] - How rational agents causally influence beliefs through recognizing reasons

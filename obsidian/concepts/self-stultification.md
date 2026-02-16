@@ -14,7 +14,7 @@ concepts:
   - "[[mental-causation]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
-  - "[[arguments-for-dualism]]"
+  - "[[the-case-for-dualism]]"
   - "[[introspection]]"
 related_articles:
   - "[[argument-from-reason]]"
@@ -141,7 +141,7 @@ The argument also supports the [[tenets#^occams-limits|Occam's Razor Has Limits]
 - [[bidirectional-interaction]] — The Map's tenet that consciousness causes things
 - [[interactionist-dualism]] — The framework that escapes self-stultification
 - [[free-will]] — Self-stultification extends to libertarian free will: choices disconnected from reasons aren't rationally authored
-- [[arguments-for-dualism]] — Multiple arguments converging on irreducibility
+- [[the-case-for-dualism]] — Multiple arguments converging on irreducibility
 
 ## References
 

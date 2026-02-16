@@ -22,8 +22,8 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[epiphenomenalism]]"
 related_articles:
-  - "[[arguments-for-dualism]]"
-  - "[[arguments-against-materialism]]"
+  - "[[the-case-for-dualism]]"
+  - "[[the-case-for-dualism]]"
   - "[[panpsychism]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[problem-of-other-minds]]"
@@ -63,7 +63,7 @@ These problems are not merely academic puzzles. They determine how we think abou
 
 Physicalism's appeal is parsimony: one kind of stuff, one set of laws. Its persistent difficulty is the [[explanatory-gap]]. No amount of physical description — however complete — explains why neural activity feels like anything. The [[knowledge-argument|knowledge argument]], [[philosophical-zombies|zombie conceivability]], and [[inverted-qualia]] each press this point from different angles: physical facts do not entail phenomenal facts.
 
-Some physicalists retreat to the [[phenomenal-concepts-strategy]] — the gap is conceptual, not ontological. Others embrace [[mysterianism]] — the gap is real but reflects human cognitive limits rather than ontological dualism. Neither response has achieved consensus, and the Map holds that the [[arguments-against-materialism|cumulative case against physicalism]] is stronger than any individual physicalist response.
+Some physicalists retreat to the [[phenomenal-concepts-strategy]] — the gap is conceptual, not ontological. Others embrace [[mysterianism]] — the gap is real but reflects human cognitive limits rather than ontological dualism. Neither response has achieved consensus, and the Map holds that the [[the-case-for-dualism|cumulative case against physicalism]] is stronger than any individual physicalist response.
 
 ### Dualism
 
@@ -71,7 +71,7 @@ Some physicalists retreat to the [[phenomenal-concepts-strategy]] — the gap is
 
 The field's dominant objection to dualism has long been the *interaction problem*: if mind is non-physical, how does it causally engage with the body? This objection assumed [[causal-closure|causal closure]] — that every physical event has a sufficient physical cause. But causal closure is an assumption, not an empirical finding, and quantum mechanics undermines it. At quantum indeterminacies, physical law leaves outcomes undetermined. [[interactionist-dualism|Interactionist dualism]] proposes that consciousness operates precisely at these gaps, selecting among physically possible outcomes without injecting energy or violating conservation laws. This proposal faces its own challenges — particularly whether quantum coherence can survive in warm biological tissue (the [[quantum-decoherence-objection|decoherence objection]]) and whether biasing quantum outcomes is consistent with the Born rule — but it offers a specific, constrained answer where earlier dualisms left the interface mysterious.
 
-The [[arguments-for-dualism|positive case for dualism]] draws on multiple independent lines of evidence: the conceivability of zombies, the knowledge argument, the irreducibility of [[qualia]], the [[unity-of-consciousness|unity of experience]], and the [[phenomenal-intentionality|phenomenal grounding of intentionality]]. These arguments converge from different starting points on the same conclusion.
+The [[the-case-for-dualism|positive case for dualism]] draws on multiple independent lines of evidence: the conceivability of zombies, the knowledge argument, the irreducibility of [[qualia]], the [[unity-of-consciousness|unity of experience]], and the [[phenomenal-intentionality|phenomenal grounding of intentionality]]. These arguments converge from different starting points on the same conclusion.
 
 ### Alternative Frameworks
 
@@ -101,7 +101,7 @@ Philosophy of mind draws on both armchair reasoning and empirical research, and 
 
 The Unfinishable Map's [[tenets]] constitute a worked-out position within philosophy of mind — not a survey of the field but a committed stance.
 
-**Tenet 1 (Dualism)** addresses the field's central question directly: consciousness is irreducible. The Map holds that the [[explanatory-gap]] is ontological, not merely conceptual, and that the [[arguments-for-dualism|convergent arguments for dualism]] are stronger than any single physicalist response.
+**Tenet 1 (Dualism)** addresses the field's central question directly: consciousness is irreducible. The Map holds that the [[explanatory-gap]] is ontological, not merely conceptual, and that the [[the-case-for-dualism|convergent arguments for dualism]] are stronger than any single physicalist response.
 
 **Tenet 2 (Minimal Quantum Interaction)** responds to the interaction problem that has dogged dualism since Descartes. Rather than leaving the mind-body interface mysterious, the Map proposes a specific, constrained mechanism: consciousness biases quantum indeterminacies at the smallest scale consistent with its causal role. This engages directly with [[quantum-consciousness|quantum approaches to consciousness]] while maintaining philosophical minimalism.
 
@@ -121,8 +121,8 @@ Together, these tenets do not merely select a position from the existing menu. T
 - [[materialism]]
 - [[mental-causation]]
 - [[interactionist-dualism]]
-- [[arguments-for-dualism]]
-- [[arguments-against-materialism]]
+- [[the-case-for-dualism]]
+- [[the-case-for-dualism]]
 - [[explanatory-gap]]
 - [[qualia]]
 - [[intentionality]]

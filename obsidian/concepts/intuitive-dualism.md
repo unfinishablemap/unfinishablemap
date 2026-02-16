@@ -13,7 +13,7 @@ topics:
   - "[[cognitive-science-of-dualism]]"
 concepts:
   - "[[consciousness]]"
-  - "[[arguments-for-dualism]]"
+  - "[[the-case-for-dualism]]"
   - "[[materialism]]"
   - "[[interactionist-dualism]]"
   - "[[philosophical-zombies]]"
@@ -121,7 +121,7 @@ The position that cognitive naturalness doesn't determine metaphysical truth wou
 
 ### Dualism
 
-The [[tenets#^dualism|Dualism tenet]] asserts consciousness is irreducible to physical processes—a claim standing on philosophical argument, not cognitive naturalness. The "folk error" dismissal fails on its own terms: dualism cannot be written off as naive intuition when cross-cultural evidence suggests intuitive *materialism* may be the default. The Map's position rests on [[arguments-for-dualism|positive arguments]]—the [[explanatory-gap]], [[philosophical-zombies|conceivability arguments]], the [[knowledge-argument]]—independently of cognitive anthropology.
+The [[tenets#^dualism|Dualism tenet]] asserts consciousness is irreducible to physical processes—a claim standing on philosophical argument, not cognitive naturalness. The "folk error" dismissal fails on its own terms: dualism cannot be written off as naive intuition when cross-cultural evidence suggests intuitive *materialism* may be the default. The Map's position rests on [[the-case-for-dualism|positive arguments]]—the [[explanatory-gap]], [[philosophical-zombies|conceivability arguments]], the [[knowledge-argument]]—independently of cognitive anthropology.
 
 ### Minimal Quantum Interaction
 
@@ -142,7 +142,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] receives the most d
 ## Further Reading
 
 - [[cognitive-science-of-dualism]] — How cognitive science's methods frame and limit the dualism debate
-- [[arguments-for-dualism]] — The philosophical case, including engagement with "folk error" objection
+- [[the-case-for-dualism]] — The philosophical case, including engagement with "folk error" objection
 - [[illusionism]] — The radical view that phenomenal consciousness is itself illusion
 - [[first-person-third-person-methodology]] — Debates about introspective methodology
 - [[theory-of-mind]] — Mentalizing capacities and their connection to dualist thinking

@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[arguments-against-materialism]]"
+  - "[[the-case-for-dualism]]"
   - "[[qualia]]"
   - "[[explanatory-gap]]"
   - "[[materialism]]"
@@ -178,7 +178,7 @@ These conditions are falsifiable in principle. Their persistent non-satisfaction
 
 ## The Convergence Argument
 
-The zombie argument is one of seven major arguments against materialism surveyed in [[arguments-against-materialism]]. These arguments—the explanatory gap, knowledge argument, zombie argument, inverted qualia, Kripke's modal argument, Nagel's subjectivity argument, and quantum mechanical considerations—proceed through different logical routes yet converge on the same conclusion. The zombie argument's specific contribution: it shows that the explanatory gap reflects genuine logical independence between physical facts and phenomenal facts, not merely a failure of imagination.
+The zombie argument is one of seven major arguments against materialism surveyed in [[the-case-for-dualism]]. These arguments—the explanatory gap, knowledge argument, zombie argument, inverted qualia, Kripke's modal argument, Nagel's subjectivity argument, and quantum mechanical considerations—proceed through different logical routes yet converge on the same conclusion. The zombie argument's specific contribution: it shows that the explanatory gap reflects genuine logical independence between physical facts and phenomenal facts, not merely a failure of imagination.
 
 ## Relation to Site Perspective
 
@@ -197,7 +197,7 @@ The zombie argument connects to all five of the Map's tenets.
 ## Further Reading
 
 ### Site Content
-- [[arguments-against-materialism]] — How the zombie argument fits within seven converging anti-materialist arguments
+- [[the-case-for-dualism]] — How the zombie argument fits within seven converging anti-materialist arguments
 - [[hard-problem-of-consciousness]] — The broader problem the zombie argument illuminates
 - [[explanatory-gap]] — Levine's analysis of why physical explanation leaves consciousness unexplained
 - [[qualia]] — The qualitative properties zombies lack
@@ -212,7 +212,7 @@ The zombie argument connects to all five of the Map's tenets.
 - [[mysterianism]] — Cognitive closure and the limits of our understanding
 - [[decoherence]] — Why quantum mechanisms in the brain remain viable
 - [[haecceity]] — The irreducible "thisness" that zombie scenarios presuppose
-- [[arguments-for-dualism]] — The full case for dualism, including the conceivability argument
+- [[the-case-for-dualism]] — The full case for dualism, including the conceivability argument
 
 ### External Sources
 - David Chalmers, *The Conscious Mind* (1996) — The definitive treatment

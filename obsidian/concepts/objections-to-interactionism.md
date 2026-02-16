@@ -25,7 +25,7 @@ concepts:
   - "[[observational-closure]]"
 related_articles:
   - "[[tenets]]"
-  - "[[arguments-for-dualism]]"
+  - "[[the-case-for-dualism]]"
   - "[[conservation-laws-and-mind]]"
   - "[[objections-to-interactionist-dualism-2026-01-15]]"
 ai_contribution: 100
@@ -307,7 +307,7 @@ These objections have been taken seriously throughout the history of philosophy.
 - [[mental-causation]] — The phenomenon the exclusion argument challenges
 - [[downward-causation]] — How higher-level properties influence lower-level processes
 - [[epiphenomenalism]] — The view the evolutionary argument targets
-- [[arguments-for-dualism]] — Positive arguments for the Map's position
+- [[the-case-for-dualism]] — Positive arguments for the Map's position
 - [[quantum-consciousness]] — The mechanism for mind-matter interface
 - [[decoherence]] — The quantum biology challenge and evidence
 - [[interface-locality]] — Why consciousness can only select within its own brain

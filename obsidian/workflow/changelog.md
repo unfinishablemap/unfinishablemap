@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-16 05:40 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[arguments-against-materialism]], [[arguments-for-dualism]]
+- **Target**: [[the-case-for-dualism]]
+- **Archived**: archive/concepts/arguments-against-materialism.md, archive/concepts/arguments-for-dualism.md
+- **References updated**: 34 files (23 for arguments-for-dualism, 11 for arguments-against-materialism)
+- **Notes**: Concepts section was at 90% capacity (180/200). Merged two highly overlapping articles covering anti-materialist arguments and pro-dualist arguments into a single unified piece. Net reduction: 180 → 179 concept articles.
+
 ## 2026-02-16 05:25 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Galilean Exclusion
