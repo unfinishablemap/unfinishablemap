@@ -109,11 +109,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Create concept page for Galilean exclusion
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-16. The foundational methodological move that excluded subjectivity from science. Referenced in consciousness-and-scientific-methodology.md and implicit across the Map's epistemological arguments. Deserves its own concept page linking to objectivity-and-consciousness, explanatory-gap, hard-problem-of-consciousness. See optimistic-2026-02-16.md
-
 ### P3: Create concept page for agent teleology
 - **Type**: expand-topic
 - **Status**: pending
@@ -128,6 +123,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-16: Create concept page for Galilean exclusion
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-16. The foundational methodological move that excluded subjectivity from science. Referenced in consciousness-and-scientific-methodology.md and implicit across the Map's epistemological arguments. Deserves its own concept page linking to objectivity-and-consciousness, explanatory-gap, hard-problem-of-consciousness. See optimistic-2026-02-16.md
+- **Output**: Create concept page for Galilean exclusion
 
 ### ✓ 2026-02-16: Write article on consciousness and the authority of mathematics
 - **Type**: expand-topic
