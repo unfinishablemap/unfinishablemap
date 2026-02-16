@@ -4,7 +4,7 @@ description: "Mary knows all physical facts about color but seems to learn somet
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-07T10:21:00+00:00
+ai_modified: 2026-02-16T13:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -94,7 +94,9 @@ But this seems to miss the point. Even if Mary could predict her behavioral resp
 
 [[illusionism|Illusionists]] offer the most radical dismissal: Mary learns nothing substantive because there are no phenomenal facts to learn. What she gains upon leaving is simply a new representational state—a new way her brain models its own processing—not access to some non-physical property. The "learning" intuition reflects our mistaken belief that experience has intrinsic qualitative properties when it doesn't.
 
-This response faces the same regress that afflicts illusionism generally. If Mary *seems* to learn something—if there is something it is like for her to have the new experience—then that seeming itself is phenomenal. The illusionist must explain why Mary reports learning something new, and this explanation cannot invoke the very phenomenal properties being denied. As Raymond Tallis argues, "misrepresentation presupposes presentation"—Mary's supposed illusion of learning requires experience to appear illusory *to*. The illusionist strategy trades the hard problem for an equally difficult "illusion problem" that smuggles experience back in. See [[illusionism#Connection to the Knowledge Argument]] for extended treatment.
+Critics deploy the [[illusionism#regress|infinite regress objection]]: if Mary *seems* to learn something, the seeming itself appears phenomenal, and the illusionist must explain it without invoking phenomenal properties. But many philosophers—including Frankish himself—argue this objection is question-begging, since it presupposes that seeming is phenomenal rather than functional. See [[illusionism#illusionist-response|the illusionist response]] for Frankish's quasi-phenomenal properties account and why the Map finds it ultimately insufficient.
+
+What is specific to Mary's case: the illusionist must explain not just the general seeming of phenomenal consciousness, but the *specific character* of Mary's new experience—why seeing red seems *like that* and not some other way. The learning intuition has force because Mary's situation isolates the phenomenal contribution: she possessed every physical and functional fact, yet something changed. If the change is "merely" a new functional state, the illusionist owes an account of why this particular functional change strikes virtually everyone—including Mary—as revelatory.
 
 ## Jackson's Self-Rejection
 
@@ -210,20 +212,15 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis, and the Misrepresentation of Humanity*. Acumen.
 - Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 
-<!-- AI REFINEMENT LOG - 2026-02-07
+<!-- AI REFINEMENT LOG - 2026-02-16
 Changes made:
-- Opening paragraph: "to show" → "to argue"; "learns something new" → "appears to learn something new"; added "if sound" qualifier
-- Added note that persuasiveness depends on contested methodological question about intuition reliability
-- Premise 2 discussion: "The strength lies in" → "The argument's intuitive force comes largely from"; "Surveys consistently show" → "Surveys suggest"; added forward-reference to new intuition reliability section
-- Phenomenal concepts strategy: expanded Chalmers dilemma discussion to acknowledge Type-B physicalist responses; noted debate is "ongoing" not "settled"
-- Added new section "The Reliability of Consciousness Intuitions" engaging methodological debates about whether intuitions are evidential (Dennett, Schwitzgebel, Machery); covers framing effects, experimental philosophy challenges, and cognitive limitation concerns
-- Process philosophy section: qualified Russell's structure/intrinsic-nature claim with "(and many physicalists contest it)"
-- What Would Challenge closing: rewritten with conditional framing rather than burden-shifting
-- Relation to Site Perspective: "provides powerful support" → "if sound, provides powerful support"; qualified Occam's Razor connection
-- Description field: rewritten with conditional language
+- Rewrote Illusionist Response section: replaced inline regress argument with cross-reference to illusionism.md#regress
+- Added acknowledgment that many philosophers (including Frankish) consider regress objection question-begging
+- Preserved Mary-specific contribution: the specific character problem (why red seems *like that*) and the force of the learning intuition when all physical/functional facts are already known
+- Removed Tallis "misrepresentation presupposes presentation" quote (now in canonical illusionism.md treatment only)
 
-Based on pessimistic review (2026-02-05) finding that intuition treated as near-probative without engaging methodological debates, and that strong claims in main text had uncertainty buried in caveats.
-Key improvements: New section on intuition reliability; conditional language integrated throughout; phenomenal concepts debate presented as ongoing.
+Based on pessimistic-2026-02-16-afternoon.md review (Issue #1: repetitive illusionism self-refutation across articles).
+Key improvements: Eliminates repetition; focuses on what's specific to Mary's case rather than re-running the general regress.
 
 This log should be removed after human review.
 -->

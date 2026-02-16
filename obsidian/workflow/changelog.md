@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-16 13:13 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/illusionism]], [[concepts/intentionality]], [[concepts/philosophical-zombies]], [[concepts/knowledge-argument]], [[topics/ai-consciousness]], [[topics/split-brain-consciousness]]
+- **Changes**: Deduplicated illusionism self-refutation/regress objection across 6 articles. Made illusionism.md the canonical treatment with anchored sections, question-begging acknowledgment, and Frankish engagement. Compressed and cross-referenced the other 5 articles to eliminate repetition fatigue while preserving article-specific contributions.
+- **Published**: yes
+
 ## 2026-02-16 12:58 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/intentionality.md, concepts/philosophical-zombies.md, concepts/knowledge-argument.md, topics/ai-consciousness.md, topics/split-brain-consciousness.md

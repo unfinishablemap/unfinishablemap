@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-03T16:37:00+00:00
+ai_modified: 2026-02-16T13:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -110,21 +110,11 @@ This connects to the critique of [[epiphenomenalism]]: if consciousness doesn't 
 
 Daniel Dennett proposes treating first-person reports as data about "how things seem" rather than direct access to phenomenal facts. On this view, there's no additional phenomenal reality the zombie lacks—we're *all* in the zombie's epistemic position, just confused about it. Our sense of having ineffable qualitative properties reflects cognitive limitations, not a genuine ontological category.
 
-### The Regress Objection and Frankish's Response
+### The Regress Objection
 
-Raymond Tallis argues that illusionism compounds rather than solves the problem: "Misrepresentation presupposes presentation"—to be under an illusion, something must experience the illusion.
+Raymond Tallis argues that illusionism compounds rather than solves the problem: "Misrepresentation presupposes presentation"—to be under an illusion, something must experience the illusion. Keith Frankish responds with "quasi-phenomenal properties"—non-phenomenal physical properties that introspection *misrepresents* as phenomenal, where the misrepresentation itself is purely functional. Many philosophers consider this exchange a standoff: the regress objection presupposes that "seeming" is phenomenal, which is exactly what Frankish denies. See [[illusionism#regress|the full regress argument]] and [[illusionism#illusionist-response|Frankish's response]] for detailed treatment.
 
-Keith Frankish responds with "quasi-phenomenal properties"—non-phenomenal physical properties that introspection *misrepresents* as phenomenal. The misrepresentation itself is purely functional. On this view, both humans and zombies would have quasi-phenomenal properties—the same neural states misrepresented as phenomenal. There would be no difference between us.
-
-### Why the Regress Objection Persists
-
-The Map maintains that Frankish's response doesn't fully escape the regress:
-
-**The specific character problem.** Why does the neural correlate of experiencing red produce representations *as of redness* rather than blueness? "Misrepresentation" relocates rather than dissolves this explanatory demand.
-
-**The conceivability survives.** If quasi-phenomenal properties are purely functional, we can still conceive of a being with all the same functional representations who nonetheless lacks whatever makes those representations *seem* some way. The conceivability argument regenerates at the level of the seeming itself.
-
-**Contemplative evidence.** Trained introspective attention typically refines phenomenal access rather than revealing it as empty. The seeming deepens under investigation, which better fits reality than illusion.
+The Map maintains Frankish's response doesn't fully escape the regress, for reasons specific to the zombie context: if quasi-phenomenal properties are purely functional, we can still conceive of a being with all the same functional representations who nonetheless lacks whatever makes those representations *seem* some way. The conceivability argument regenerates at the level of the seeming itself.
 
 ### Why Illusionism Strengthens the Zombie Argument
 
@@ -219,3 +209,18 @@ The zombie argument connects to all five of the Map's tenets.
 - David Chalmers, "Does Conceivability Entail Possibility?" (2002)
 - Joseph Levine, "Materialism and Qualia: The Explanatory Gap" (1983)
 - Keith Frankish, "Illusionism as a Theory of Consciousness" (2016)
+
+<!-- AI REFINEMENT LOG - 2026-02-16
+Changes made:
+- Collapsed "The Regress Objection and Frankish's Response" and "Why the Regress Objection Persists" into single compressed "The Regress Objection" subsection
+- Removed duplicate deployment of Tallis's "misrepresentation presupposes presentation" argument
+- Added cross-references to illusionism.md#regress and illusionism.md#illusionist-response for full treatment
+- Added acknowledgment that many philosophers consider the regress objection question-begging
+- Preserved the zombie-specific contribution: conceivability regenerates at the level of seeming itself
+- Removed "specific character problem" and "contemplative evidence" points (covered in illusionism.md)
+
+Based on pessimistic-2026-02-16-afternoon.md review (Issue #1: repetitive illusionism self-refutation across articles).
+Key improvements: Eliminates ~200 words of near-identical argument; focuses on what's specific to zombie conceivability.
+
+This log should be removed after human review.
+-->

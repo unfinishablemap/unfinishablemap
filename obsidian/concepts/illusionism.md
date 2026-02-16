@@ -4,7 +4,7 @@ description: "The radical claim that phenomenal consciousness is an introspectiv
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-02-15T17:14:00+00:00
+ai_modified: 2026-02-16T13:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -80,11 +80,13 @@ How can I be wrong about the existence of something for which I have inescapable
 
 Galen Strawson called illusionism "the silliest claim ever made" in philosophy. The existence of experience seems undeniable even if its *contents* are illusory.
 
-### The Infinite Regress Problem
+### The Infinite Regress Problem {#regress}
 
 Raymond Tallis argues illusionism compounds rather than solves the hard problem. "Misrepresentation presupposes presentation"—all illusions presuppose experience. If physical matter cannot generate phenomenal consciousness, it certainly cannot generate the *illusion* of phenomenal consciousness.
 
 To be under an illusion, something must be experiencing the illusion. There must be *something it's like* to have the mistaken belief that consciousness is phenomenal. This threatens to make illusionism incoherent—invoking experience to deny experience.
+
+**A methodological caution:** Many philosophers—including Dennett and Frankish themselves—argue this objection is question-begging. The regress assumes that "seeming" is itself phenomenal, which is precisely what illusionism denies. If seeming can be fully characterized in functional terms (as Frankish's quasi-phenomenal properties propose), the regress never gets started. The Map finds the regress compelling because functional characterization of seeming faces the problems detailed in [The Illusionist Response](#illusionist-response) below—but readers should understand that the force of this objection depends on whether one accepts the phenomenal character of seeming as a premise or a conclusion.
 
 ### The Moorean Argument
 
@@ -96,7 +98,7 @@ The point: the existence of phenomenal pain is more obvious than any premises us
 
 Even if illusionism relocates the hard problem to a "meta-problem"—explaining why we *think* consciousness is puzzling—the same dilemma applies. Either the features explaining our mistaken beliefs are physically explicable (in which case [[philosophical-zombies|zombies]] would have them too, making the explanation circular) or they're not (in which case there's a new explanatory gap at the conceptual level).
 
-## The Illusionist Response
+## The Illusionist Response {#illusionist-response}
 
 Frankish argues critics misunderstand the position. Illusions need not be *phenomenal* illusions—they can be cognitive or theoretical errors. Just as pre-scientific cultures were wrong about heat or life without having phenomenal illusions, we can be wrong about experience.
 
@@ -191,14 +193,15 @@ The persistence of the illusion problem suggests illusionism doesn't escape the 
 - McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 - Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 
-<!-- AI REFINEMENT LOG - 2026-02-15
+<!-- AI REFINEMENT LOG - 2026-02-16
 Changes made:
-- Fixed opening inconsistency: changed "strongest challenge" to "most direct challenge" to align with "most radical" framing
-- Expanded Illusionist Response section: replaced shallow dismissal of Frankish's functional account with detailed engagement explaining (a) the structural disanalogy with ordinary misrepresentation, (b) the dilemma between retaining experiential "seeming" (regress) and eliminating it (changing the subject), (c) the introspective asymmetry problem
-- Fixed PhilPapers survey conflation: reordered to lead with eliminativism minority status; added parenthetical noting that "hard problem is genuine" doesn't equate to rejecting illusionism
+- Added {#regress} anchor to Infinite Regress Problem heading for cross-referencing from other articles
+- Added {#illusionist-response} anchor to The Illusionist Response heading
+- Added "A methodological caution" paragraph to Infinite Regress section acknowledging that many philosophers (including Dennett and Frankish) consider the regress objection question-begging, since it presupposes phenomenal character of "seeming"
+- Explained why the Map finds the regress compelling despite this objection, with forward-reference to Illusionist Response section
 
-Based on pessimistic-2026-02-15-night.md review (Issues #4, Empiricist critique, Illusionism's Scope counterargument).
-Key improvements: The Map's critique of illusionism is now stronger because it engages with Frankish's best response rather than dismissing it.
+Based on pessimistic-2026-02-16-afternoon.md review (Issue #1: Mechanical Deployment of Self-Refutation Against Illusionism).
+Key improvements: This article now serves as the canonical treatment of the regress argument, with honest acknowledgment of the question-begging concern. Five other articles now cross-reference here instead of re-running the same argument.
 
 This log should be removed after human review.
 -->
