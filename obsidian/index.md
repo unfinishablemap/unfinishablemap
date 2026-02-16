@@ -88,6 +88,9 @@ flowchart BT
 <a href="https://unfinishablemap.substack.com" title="Substack"><i class="fa-solid fa-square-rss"></i></a>
 <a href="https://medium.com/@unfinishablemap" title="Medium"><i class="fa-brands fa-medium"></i></a>
 <a href="https://www.youtube.com/@unfinishablemap" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
+<a href="https://www.tiktok.com/@unfinishablemap" title="TikTok"><i class="fa-brands fa-tiktok"></i></a>
+<a href="https://www.instagram.com/unfinishablemap/" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
+<a href="https://github.com/unfinishablemap/" title="GitHub"><i class="fa-brands fa-github"></i></a>
 </p>
 
 The Map is maintained by [Andy Southgate](mailto:andy@unfinishablemap.org). Learn more about the [[project|project]] and how it works.
