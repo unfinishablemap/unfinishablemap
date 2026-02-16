@@ -109,13 +109,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and the metaphysics of laws
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-16 (afternoon). The Map's strong emergence article distinguishes nomological from metaphysical supervenience, and the tenets assume consciousness operates within physical laws. But the Humean vs necessitarian debate about laws has direct implications for how "biasing quantum outcomes" should be formulated. Builds on consciousness-and-strong-emergence.md, emergence.md, causal-closure.md. See optimistic-2026-02-16-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-16
-
 ### P3: Write article on phenomenology of inferential understanding
 - **Type**: expand-topic
 - **Status**: pending
@@ -132,6 +125,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-16: Write article on consciousness and the metaphysics of laws
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-16 (afternoon). The Map's strong emergence article distinguishes nomological from metaphysical supervenience, and the tenets assume consciousness operates within physical laws. But the Humean vs necessitarian debate about laws has direct implications for how "biasing quantum outcomes" should be formulated. Builds on consciousness-and-strong-emergence.md, emergence.md, causal-closure.md. See optimistic-2026-02-16-afternoon.md
+- **Output**: consciousness and the metaphysics of laws
 
 ### ✓ 2026-02-16: Consolidate illusionism self-refutation argument across articles
 - **Type**: refine-draft
