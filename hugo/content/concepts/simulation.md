@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-02-07 10:21:00+00:00
+ai_modified: 2026-02-16 03:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -100,7 +100,9 @@ Quantum mechanics might be the point where the simulation handles indeterminacy.
 
 The "minimal quantum interaction" tenet describes exactly what a well-designed mind-matter interface would look like in a simulation.
 
-**Timescale caveat**: The standard [decoherence](/concepts/decoherence/) objection—that quantum coherence decays in femtoseconds in warm biological systems—applies within the simulation regardless of the hypothesis. The simulation framework doesn't dissolve this objection but reframes it: if the simulation implements quantum mechanics faithfully, consciousness would still need to interface with quantum indeterminacy at appropriate timescales. The hypothesis suggests such an interface was *designed*, not that physics magically cooperates.
+**Timescale caveat**: The standard [decoherence](/concepts/decoherence/) objection—that quantum coherence decays rapidly in warm biological systems—applies within the simulation regardless of the hypothesis. The simulation framework doesn't dissolve this objection but reframes it: if the simulation implements quantum mechanics faithfully, consciousness would still need to interface with quantum indeterminacy at appropriate timescales.
+
+The Map takes decoherence seriously as an open empirical challenge rather than dismissing it. Three responses apply whether or not we are simulated: (1) decoherence selects preferred bases but doesn't solve the measurement problem—something must still select which outcome occurs; (2) biological quantum effects like avian magnetoreception demonstrate that evolution can exploit quantum coherence in warm systems; (3) the quantum Zeno mechanism may not require sustained coherence at all. See the [decoherence article](/concepts/decoherence/) for the full treatment. In the simulation context, the hypothesis adds only that such an interface might have been *designed*—not that physics magically cooperates.
 
 ### Bidirectional Interaction
 
@@ -195,7 +197,7 @@ These contributions are philosophical, not empirical. The simulation hypothesis 
 Acknowledging the hypothesis's value requires acknowledging its limits:
 
 - **It doesn't explain consciousness.** The hard problem shifts from "how does matter produce experience?" to "what computational structures instantiate experience?"—but the question remains unanswered. Relocating the mystery is not solving it.
-- **It doesn't solve decoherence.** As noted above, if the simulation implements quantum mechanics faithfully, quantum coherence still decays in femtoseconds. The timing problem for quantum consciousness persists.
+- **It doesn't solve decoherence.** As noted above, if the simulation implements quantum mechanics faithfully, the decoherence challenge persists. The Map's responses to decoherence—the measurement problem gap, biological quantum effects, and the Zeno mechanism—apply within simulated physics just as they would in base reality.
 - **It provides no empirical tests.** The hypothesis guides intuitions, not experiments. Anyone seeking scientific evidence should look elsewhere.
 
 The simulation hypothesis is valuable as a framework for thinking—a way to reveal hidden assumptions in our metaphysics—not as a scientific theory. It shows that certain objections to dualism rest on contingent features of one metaphysical picture, not on necessary truths. That is genuine philosophical work, even if it's not empirical work.
@@ -291,20 +293,15 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 - Chalmers, D. (2022). *Reality+: Virtual Worlds and the Problems of Philosophy*. W.W. Norton.
 - Tegmark, M. (2014). *Our Mathematical Universe*. Knopf.
 
-<!-- AI REFINEMENT LOG - 2026-02-07
+<!-- AI REFINEMENT LOG - 2026-02-16
 Changes made:
-- Replaced "dissolves" language throughout with conditional framing ("would dissolve", "reframes", "reveals as contingent")
-- Opening paragraph: "lose their force" → "rest on contingent assumptions rather than necessary truths"
-- "Locality Becomes Trivial" → "Locality Would Become Trivial" with explicit note that this doesn't answer the objection in our reality
-- Mind-matter interface section: qualified "shows coupling is possible" → "suggests coupling is possible in at least some contexts" with acknowledgment of conceivable/actual gap
-- Physical laws section: added explicit caveat that simulation doesn't show closure IS contingent, only that it deserves scrutiny
-- "What Simulation Provides" section: all four points rewritten with conditional framing; added closing note about gap between thought experiment and reality
-- Status section: "defeats" → "challenges"; "dissolves" → "reframes"; added explicit final sentence distinguishing "revealing assumptions as contingent" from "answering objections"
-- Description field: rewritten with conditional language
-- Further Reading: "dissolves" → "reframes"
+- Expanded decoherence timescale caveat to include the Map's three-response framework (measurement problem, biological quantum effects, Zeno mechanism)
+- Added cross-reference to dedicated decoherence article
+- Updated "What Simulation Cannot Do" decoherence point for consistency with site-wide position
+- Removed claim that "quantum coherence still decays in femtoseconds" (overly specific and disputed)
 
-Based on pessimistic review (2026-02-05) finding that strong claims in main text had uncertainty buried in caveats.
-Key improvements: Conditional language integrated throughout main text, not just in caveats.
+Based on pessimistic review 2026-02-16 identifying inconsistent treatment of decoherence across retrocausality, simulation, and animal-consciousness articles.
+Key improvements: Consistent decoherence position treating it as a serious open challenge with specific responses rather than an unsolved blocker.
 
 This log should be removed after human review.
 -->

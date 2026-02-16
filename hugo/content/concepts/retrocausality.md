@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-02-05 18:14:00+00:00
+ai_modified: 2026-02-16 03:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -60,24 +60,32 @@ Retrocausality has serious proponents and empirical grounding in physics.
 
 **Wheeler's delayed-choice**: Experiments confirm that measurement choices made *after* a particle passes through a double-slit can determine whether it behaved as wave or particle *earlier*. The 2017 satellite experiment extended this over thousands of kilometres. Wheeler extended this cosmologically in his "participatory universe"—future observers retroactively selecting the entire cosmic history. See [prebiotic-collapse](/concepts/prebiotic-collapse/#wheelers-participatory-universe) for how this addresses the question of what collapsed wavefunctions before consciousness existed.
 
-**The transactional interpretation**: Cramer's interpretation (1986) makes retrocausality explicit. Quantum events involve offer waves propagating forward, confirmation waves propagating backward, and an atemporal "handshake" that creates the transaction. The wave function is physically real; collapse occurs along the entire transaction simultaneously. This interpretation remains a minority view—critics including Tim Maudlin have argued it faces difficulties with specific experimental setups, and Ruth Kastner has developed a modified version (the possibilist transactional interpretation) attempting to address these concerns. The debate continues, but the interpretation provides a coherent framework in which retrocausality is built into physics.
+**The transactional interpretation**: Cramer's interpretation (1986) makes retrocausality explicit. Quantum events involve offer waves propagating forward, confirmation waves propagating backward, and an atemporal "handshake" that creates the transaction. The wave function is physically real; collapse occurs along the entire transaction simultaneously.
+
+Tim Maudlin (2011) mounted the most influential challenge. His "contingent absorber" thought experiment places an absorber whose position depends on whether a particle has already been detected elsewhere. The confirmation wave from the contingent absorber presupposes the outcome it is supposed to help determine, creating a causal loop in which the probabilities become either inconsistent or undefined. This is a genuine problem for Cramer's original formulation.
+
+Ruth Kastner's possibilist transactional interpretation (PTI) responds by relocating offer and confirmation waves to a pre-spacetime realm of possibilities rather than actual spacetime (Kastner 2012). On PTI, the contingent absorber setup cannot be constructed as described—macroscopic absorber positions are already determined by prior transactions. Kastner (2016) further argues that extending TI to the relativistic domain eliminates the Maudlin challenge entirely, since composite systems like atoms cannot serve as the slow-moving quantum objects Maudlin's setup requires. Peter Lewis (2013) contested the adequacy of these responses; Kastner (2014) replied. The debate has reached a stable impasse rather than resolution—typical of quantum interpretation disputes, where empirical tests cannot currently distinguish the candidates.
+
+The transactional interpretation thus remains contested but not refuted. The Map's use of TI as a framework for retrocausal consciousness should be understood accordingly: it is a coherent option, not an established fact.
 
 **Bell tests**: Retrocausal models offer an alternative to nonlocality for explaining entanglement correlations—later measurements retroactively influence earlier states, preserving locality at the cost of temporal direction.
 
 ## Application to Consciousness
 
-The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets propose that consciousness selects among superposed neural states. If this selection operates retrocausally—as would be natural on the transactional interpretation—then:
+The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets propose that consciousness selects among superposed neural states. If the transactional interpretation (or something like it) is correct, and if this selection operates retrocausally, then:
 
 1. The brain prepares multiple possible action patterns (superposition)
 2. Consciousness "selects" which pattern becomes actual
 3. This selection propagates backward, determining which neural history becomes real
 4. The readiness potential is part of the selected package, not a prior cause
 
+This application is conditional: it requires both a retrocausal interpretation of quantum mechanics and a quantum account of consciousness. Neither is established. But retrocausality is not the only route to dissolving the Libet problem—the Schurger neural-noise reinterpretation and classical models of temporally extended decision-making also offer resolutions. Retrocausality provides the most radical dissolution, while the alternatives chip away at the premises.
+
 The [systematic treatment of quantum indeterminacy and free will](/concepts/quantum-indeterminacy-free-will/) develops this in detail.
 
 ### The Atemporal Selection Model
 
-On the transactional interpretation, if consciousness operates at the level of the quantum handshake, asking "when does consciousness make the decision?" may be the wrong question. The decision isn't made *at* a time; it determines *which* times become real. See [collapse-and-time](/concepts/collapse-and-time/) for the implications. This model requires accepting both the transactional interpretation and the claim that consciousness interfaces with quantum transactions—a coherent package, though each element is contested.
+If the transactional interpretation is correct and consciousness operates at the level of the quantum handshake, asking "when does consciousness make the decision?" may be the wrong question. The decision isn't made *at* a time; it determines *which* times become real. See [collapse-and-time](/concepts/collapse-and-time/) for the implications. This model requires accepting both the transactional interpretation—including a satisfactory response to Maudlin's contingent absorber challenge—and the claim that consciousness interfaces with quantum transactions. Each element is contested; the package is coherent but speculative.
 
 ### Addressing Objections
 
@@ -99,9 +107,15 @@ The Libet challenge to motor control has also weakened: Sjöberg (2024) showed t
 
 ## The Decoherence Challenge
 
-How do retrocausal influences propagate through systems that have undergone [decoherence](/concepts/decoherence/)? Three considerations: (1) Decoherence timescales are disputed—Hameroff's group obtained coherence times seven orders of magnitude longer than Tegmark's calculations. (2) Retrocausality operates at measurement, not during coherence—the transaction requires boundary conditions at both temporal ends, not sustained superposition. (3) Biological quantum effects like avian magnetoreception prove evolution can exploit coherence.
+How do retrocausal influences propagate through systems that have undergone [decoherence](/concepts/decoherence/)? This is a serious open challenge that the Map takes seriously rather than dismissing. Three considerations bear on it:
 
-The transactional picture is subtle: the handshake is atemporal. Decoherence establishes which basis states are available; retrocausality determines which becomes actual.
+(1) **The measurement problem persists after decoherence.** Decoherence selects preferred bases—which *kind* of outcome becomes possible—but does not explain why one particular outcome occurs rather than another. Something must select the actual outcome. Retrocausality offers a candidate for this selection that operates at the point of measurement, not during the coherence period. The transaction requires boundary conditions at both temporal ends, not sustained superposition.
+
+(2) **Decoherence timescales are empirically contested.** Tegmark (2000) calculated coherence times of 10⁻¹³ seconds for neural microtubules, but Hagan, Hameroff, and Tuszynski (2002) challenged his model parameters, obtaining estimates seven orders of magnitude longer. This debate remains unresolved—no experiment has directly measured coherence times in living neural tissue. See [the decoherence article](/concepts/decoherence/) for full analysis of the Tegmark-Hameroff debate and recent experimental developments.
+
+(3) **Biological quantum effects demonstrate that evolution can exploit coherence.** Avian magnetoreception relies on quantum spin coherence persisting for microseconds in warm biological systems. If evolution can harness quantum effects for navigation, the categorical claim that warm biology excludes quantum effects is empirically false—though whether neural systems exploit similar mechanisms remains an open question.
+
+The transactional picture adds a subtlety: the handshake is atemporal. Decoherence establishes which basis states are available; retrocausality determines which becomes actual. But this framework depends on the transactional interpretation being correct, and the decoherence challenge applies to any quantum consciousness mechanism that retrocausality is paired with.
 
 ## The Illusionist Challenge
 
@@ -139,7 +153,7 @@ Retrocausality connects to all five tenets:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Retrocausality operates specifically at the quantum level—at measurement events where indeterminacy resolves into definite outcomes. The transactional interpretation makes minimal assumptions: physics already contains time-symmetric equations, and retrocausality follows from taking that symmetry seriously. Consciousness doesn't add exotic causal powers; it participates in quantum processes that already have retrocausal structure. This aligns with the tenet's emphasis on the smallest possible interface.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Retrocausality is perhaps most directly relevant here. The Libet experiments seemed to threaten bidirectional interaction by showing neural activity precedes conscious awareness. Retrocausality dissolves this threat completely. Consciousness can genuinely select outcomes even when its awareness appears "after" the neural preparation—because temporal precedence doesn't establish causal priority when effects can precede causes. The brain presents options; consciousness selects; the selection determines which neural history becomes actual, including the apparent "preparation."
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Retrocausality is perhaps most directly relevant here. The Libet experiments seemed to threaten bidirectional interaction by showing neural activity precedes conscious awareness. Retrocausality would dissolve this threat—if the retrocausal interpretation is correct. Consciousness can genuinely select outcomes even when its awareness appears "after" the neural preparation—because temporal precedence doesn't establish causal priority when effects can precede causes. The brain presents options; consciousness selects; the selection determines which neural history becomes actual, including the apparent "preparation."
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Retrocausality supports single-outcome interpretations. The transactional interpretation produces one actual history, not branching worlds. The handshake between offer and confirmation waves determines which outcome becomes real; there are no equally real alternatives persisting in parallel. This connects to [haecceity](/concepts/haecceity/): the selected history is *this* history, with haecceitistic identity that branching models cannot capture. You don't merely find yourself in one branch—you *are* one history, selected through the atemporal transaction.
 
@@ -166,23 +180,28 @@ The Libet experiments don't refute conscious causation—provided one accepts an
 ## References
 
 - Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
+- Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
+- Kastner, R. E. (2014). Maudlin's challenge refuted: A reply to Lewis. *Studies in History and Philosophy of Modern Physics*, 47, 15-20.
+- Kastner, R. E. (2016). The relativistic transactional interpretation: Immune to the Maudlin challenge. *Foundations of Physics*, 46, 1-16.
+- Lewis, P. J. (2013). Retrocausal quantum mechanics: Maudlin's challenge revisited. *Studies in History and Philosophy of Modern Physics*, 44, 442-449.
 - Libet, B. et al. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623-642.
+- Maudlin, T. (2011). *Quantum Non-Locality and Relativity* (3rd ed.). Wiley-Blackwell.
 - Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
 - Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 - Sjöberg, R. L. (2024). SMA lesions and voluntary action. *Journal of Cognitive Neuroscience*.
 - Wheeler, J. A. (1978). The "past" and the "delayed-choice" double-slit experiment. In *Mathematical Foundations of Quantum Theory* (pp. 9-48). Academic Press.
 
-<!-- AI REFINEMENT LOG - 2026-01-31
+<!-- AI REFINEMENT LOG - 2026-02-16
 Changes made:
-- Made conditional structure explicit throughout: retrocausality dissolves Libet *if* you accept the transactional interpretation
-- Added acknowledgment that transactional interpretation is a minority view
-- Added engagement with Maudlin and Kastner criticisms of the transactional interpretation
-- Qualified "resolves" language to "potential resolution" and "on retrocausal interpretations"
-- Clarified the Map's position: retrocausal interpretations are sufficiently well-developed that Libet is not decisive, while acknowledging the question remains open
-- Updated description to reflect conditional framing
+- Replaced vague Maudlin/Kastner name-checks with substantive engagement: Maudlin's contingent absorber argument, the causal loop problem, and why it challenges Cramer's original TI
+- Added Kastner's PTI response (pre-spacetime possibilities), her relativistic argument (2016), and the Lewis (2013)/Kastner (2014) exchange
+- Made consciousness-application section explicitly conditional: "If the transactional interpretation (or something like it) is correct, and if this selection operates retrocausally"
+- Added paragraph noting retrocausality is not the only Libet dissolution (Schurger, classical models)
+- Made atemporal selection model conditional on satisfactory response to Maudlin's challenge
+- Added references: Maudlin 2011, Kastner 2012/2014/2016, Lewis 2013
 
-Based on pessimistic review 2026-01-31-afternoon.md identifying that the article presented a conditional solution as if it were unconditional.
-Key improvements: Intellectual honesty about the interpretation-dependence of the Libet dissolution.
+Based on pessimistic review 2026-02-16 identifying that article name-checks Maudlin and Kastner without substantive engagement, then builds consciousness-application on TI unconditionally.
+Key improvements: Genuine engagement with the Maudlin debate; consciousness claims now explicitly conditional on TI's correctness.
 
 This log should be removed after human review.
 -->
