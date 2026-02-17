@@ -121,6 +121,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
+### P3: Write article on consciousness and aesthetic value
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The value/emotion cluster is the Map's weakest major cluster. Aesthetic experience as evidence for consciousness's evaluative capacity bridges emotion (valence), perception (phenomenology), and value (phenomenal realism). Beauty's resistance to functional reduction parallels the hard problem. Builds on aesthetics-of-consciousness.md, emotional-consciousness.md, phenomenal-value-realism.md, consciousness-and-creativity.md. See optimistic-2026-02-17.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-17
+
+### P3: Write article on consciousness and temporal creativity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. If consciousness constitutes temporal structure through collapse, and creativity requires generating genuine novelty, then creative acts might be moments where consciousness generates new temporal structure. Unifies the Map's temporal metaphysics and creativity arguments. Builds on consciousness-and-creativity.md, time-collapse-and-agency.md, temporal-consciousness.md, process-haecceitism.md. See optimistic-2026-02-17.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-17
+
+### P3: Write article on phenomenology of philosophical disagreement
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. If phenomenal seemings justify beliefs (phenomenal conservatism), and trained contemplatives reach contradictory conclusions, how should the Map handle deep philosophical disagreement? Epistemologically urgent for a platform that uses introspective evidence. Builds on contemplative-reliability.md, phenomenal-conservatism-and-introspective-evidence.md, phenomenology-of-belief-revision.md. See optimistic-2026-02-17.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-17
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
