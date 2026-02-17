@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Harmonize NDE statistics across death-and-consciousness.md and filter-theory.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-02-17) found incompatible NDE statistics: death-and-consciousness.md cites 9-18% from Van Lommel and Parnia studies, while filter-theory.md claims "approximately 40%" without citation. Harmonize figures and ensure consistent sourcing. See pessimistic-2026-02-17.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-17
+
+### P2: Propagate unfalsifiability caveat to articles citing quantum mechanisms
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-02-17) found that measurement-problem.md honestly admits consciousness-selection is empirically indistinguishable from random collapse, but death-and-consciousness.md, filter-theory.md, and personal-identity.md invoke quantum mechanisms without propagating this caveat. Add brief acknowledgments in each article. See pessimistic-2026-02-17.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-17
+
 ### P2: Verify Gallagher & Zahavi (2025) citation in phenomenology.md
 - **Type**: other
 - **Notes**: Pessimistic review (2026-02-16 evening) flagged "Gallagher, S., & Zahavi, D. (2025). Cognitive science needs phenomenology. *Journal for the Theory of Social Behaviour*. Advance online publication." as potentially fictitious. Verify this citation exists; if not, remove or replace with a verifiable source. See pessimistic-2026-02-16-evening.md
