@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-15 04:00:00+00:00
+ai_modified: 2026-02-17 19:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /concepts/temporal-consciousness/
 - /concepts/specious-present/
 - /concepts/duration/
+- /concepts/temporal-unity/
 concepts:
 - '[[qualia]]'
 - '[[functionalism]]'
@@ -37,8 +38,12 @@ concepts:
 - '[[materialism]]'
 - '[[mental-effort]]'
 - '[[combination-problem]]'
+- '[[unity-of-consciousness]]'
+- '[[varieties-of-unity]]'
+- '[[phenomenal-unity]]'
+- '[[stapp-quantum-mind]]'
 created: 2026-01-14
-date: &id001 2026-02-15
+date: &id001 2026-02-17
 description: Consciousness flows through time in the specious present—Bergson's durée.
   This temporal structure resists physical description and may be constitutive of
   time itself.
@@ -55,6 +60,9 @@ related_articles:
 - '[[consciousness-working-memory-2026-01-17]]'
 - '[[consciousness-time-perception-2026-01-14]]'
 - '[[process-and-consciousness]]'
+- '[[consciousness-and-temporal-integration]]'
+- '[[temporal-structure-of-consciousness]]'
+- '[[consciousness-and-temporal-asymmetry]]'
 title: Temporal Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -160,6 +168,20 @@ The "cinematic model" proposes that consciousness comes in discrete frames (~100
 
 This binding problem is where artificial systems fail. An AI that processes token 1, then (statelessly) processes token 2, lacks whatever connects moments into experience. The problem is whether there's anyone home to experience the succession.
 
+## Temporal Unity and Its Disruption
+
+Temporal unity—the phenomenal binding of successive moments into a continuous stream—is what makes experience *flow* rather than arriving as disconnected snapshots. It is the diachronic dimension of the [unity of consciousness](/concepts/unity-of-consciousness/), distinct from synchronic unity (binding features within a moment) and subject unity (establishing who experiences). While the specious present establishes the window within which temporal unity operates, temporal unity names the property that makes succession experienced rather than merely sequential.
+
+Temporal unity operates at multiple scales. The Map's treatment of [temporal integration](/topics/consciousness-and-temporal-integration/) distinguishes micro-integration (within the specious present), meso-integration (across successive specious presents), and macro-integration (the [temporal self](/autonoetic-consciousness/) spanning a lifetime). Micro- and meso-integration depend on retention and protention; macro-integration involves additional capacities—episodic memory, narrative identity—that extend beyond temporal unity proper.
+
+Temporal unity can degrade or disappear, revealing it as a contingent property rather than an automatic entailment of having experience:
+
+**Temporal disintegration in schizophrenia** disrupts the binding between moments while leaving within-moment experience relatively intact. Patients report moments losing connection to what came before—actions feeling disconnected from consequences, experience fragmenting into isolated episodes (Fuchs, 2007; Vogeley & Kupke, 2007). This dissociation supports temporal unity as a distinct phenomenal property rather than an artefact of other cognitive processes.
+
+**Absorption and flow states** alter temporal unity without destroying it. Moments become intensely vivid yet loosely coupled to neighbours, producing the paradox of "timelessness" within ongoing experience.
+
+These disruptions matter for the Map's framework because they show temporal unity is not merely computational sequence but a phenomenal achievement—something that requires explanation beyond information processing.
+
 ## Connection to Quantum Consciousness
 
 The Map's framework proposes consciousness participates in [quantum collapse](/concepts/quantum-consciousness/) and that [collapse constitutes time's arrow](/concepts/collapse-and-time/). The specious present may be the phenomenological manifestation.
@@ -264,6 +286,10 @@ Temporal consciousness connects to all five tenets:
 - [agent-causation](/concepts/agent-causation/) — The self as originator of action in durée
 - [haecceity](/concepts/haecceity/) — The thisness that grounds temporal identity
 - [binding-problem](/concepts/binding-problem/) — Feature binding and consciousness
+- [unity-of-consciousness](/concepts/unity-of-consciousness/) — The broader unity problem across all dimensions
+- [varieties-of-unity](/concepts/varieties-of-unity/) — Taxonomy: synchronic, diachronic, and subject unity
+- [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/) — How moments bind into a temporal stream
+- [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno model of consciousness-brain interaction
 - [psychophysical-coupling](/psychophysical-coupling/) — Bandwidth constraints on consciousness-matter interaction
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative access to the flow of time
 - [introspection](/concepts/introspection/) — The reliability of first-person temporal reports
@@ -292,4 +318,7 @@ Temporal consciousness connects to all five tenets:
 - Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
 - Varela, F.J. (1999). "The Specious Present: A Neurophenomenology of Time Consciousness." In *Naturalizing Phenomenology*, ed. J. Petitot et al.
 - Whitehead, A.N. (1929/1978). *Process and Reality*. Free Press.
+- Bayne, T. & Chalmers, D. (2003). What is the unity of consciousness? In A. Cleeremans (Ed.), *The Unity of Consciousness: Binding, Integration and Dissociation*. Oxford University Press.
+- Fuchs, T. (2007). The temporal structure of intentionality and its disturbance in schizophrenia. *Psychopathology*, 40(4), 229-235.
+- Vogeley, K. & Kupke, C. (2007). Disturbances of time consciousness from a phenomenological and a neuroscientific perspective. *Schizophrenia Bulletin*, 33(1), 157-165.
 - Baker, J. & Cariani, P. (2025). Time-domain brain. *Frontiers in Computational Neuroscience*.

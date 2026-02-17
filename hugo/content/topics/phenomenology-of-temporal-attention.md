@@ -8,7 +8,6 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[temporal-thickness]]'
 - '[[attention-as-interface]]'
-- '[[temporal-unity]]'
 - '[[mental-effort]]'
 - '[[duration]]'
 created: 2026-02-15

@@ -18,6 +18,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 19:42 UTC - coalesce
+- **Status**: Success
+- **Sources**: [temporal-unity](/temporal-unity/)
+- **Target**: [temporal-consciousness](/concepts/temporal-consciousness/)
+- **Archived**: [temporal-unity](/archive/concepts/temporal-unity/)
+- **References to review**: 2 (narrative-coherence.md, phenomenology-of-temporal-attention.md — updated in-session)
+
 ## 2026-02-17 19:27 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Interaction Problem in Non-Western Philosophy

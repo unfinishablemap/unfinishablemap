@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[self-and-consciousness]]"
   - "[[autonoetic-consciousness]]"
-  - "[[temporal-unity]]"
+  - "[[temporal-consciousness]]"
   - "[[parfit-reductionism]]"
   - "[[haecceity]]"
   - "[[phenomenology-of-choice]]"
@@ -37,7 +37,7 @@ The Unfinishable Map treats narrative coherence as a building block for several 
 
 Narrative coherence has three distinguishing features.
 
-**Temporal binding of meaning.** Isolated events acquire significance through their position in a larger arc. A year of gruelling study means something different as part of a medical career than as an aimless period of one's twenties. The events are identical; the coherence relation transforms their significance. This goes beyond [[temporal-unity]]—the binding of moments into a continuous experiential stream. Temporal unity ensures you experience *flow*; narrative coherence ensures you experience *direction*.
+**Temporal binding of meaning.** Isolated events acquire significance through their position in a larger arc. A year of gruelling study means something different as part of a medical career than as an aimless period of one's twenties. The events are identical; the coherence relation transforms their significance. This goes beyond [[temporal-consciousness]]—the binding of moments into a continuous experiential stream. Temporal unity ensures you experience *flow*; narrative coherence ensures you experience *direction*.
 
 **Intelligibility from the inside.** Narrative coherence is first-personal. An external observer might judge a life coherent or incoherent, but the phenomenon that matters is whether *you* experience your life as making sense. A biographer's narrative about you is not the same as the narrative coherence you live through. This connects to [[autonoetic-consciousness]]: the capacity to mentally re-inhabit past decisions and project into future consequences is the cognitive machinery through which narrative coherence operates.
 
@@ -85,7 +85,7 @@ Narrative coherence connects to the Map's foundational commitments through its d
 - [[the-self-minimal-narrative-and-substantial]] — Three layers of selfhood and where narrative fits
 - [[personal-identity]] — Why indexical identity matters for the coherent subject
 - [[autonoetic-consciousness]] — The cognitive machinery of temporal self-projection
-- [[temporal-unity]] — Experiential flow across time, which narrative coherence builds upon
+- [[temporal-consciousness]] — Temporal unity and experiential flow across time, which narrative coherence builds upon
 - [[parfit-reductionism]] — Why psychological continuity alone is insufficient
 - [[moral-responsibility]] — How coherence enables responsibility across time
 - [[consciousness-and-probability-interpretation]] — Narrative coherence as consciousness's default lens

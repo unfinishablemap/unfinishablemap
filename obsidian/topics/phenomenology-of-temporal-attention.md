@@ -14,7 +14,6 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[temporal-thickness]]"
   - "[[attention-as-interface]]"
-  - "[[temporal-unity]]"
   - "[[mental-effort]]"
   - "[[duration]]"
 related_articles:

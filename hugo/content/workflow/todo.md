@@ -110,12 +110,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P3: Write article on the interaction problem in non-Western philosophy
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review. The Elisabeth article maps the Western response space brilliantly; Indian philosophy addressed the interaction problem independently (Sāṃkhya puruṣa-prakṛti dualism, Śaṅkara's Advaita resolution). Cross-cultural convergence on the mind-body distinction strengthens the Map's position. Builds on elisabeths-contemporaries-and-the-interaction-debate.md, eastern-philosophy-consciousness.md, the-hard-problem-in-non-western-philosophy.md. See optimistic-2026-02-17-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-17
-
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -143,6 +137,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-17: Write article on the interaction problem in non-Western philosophy
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Elisabeth article maps the Western response space brilliantly; Indian philosophy addressed the interaction problem independently (Sāṃkhya puruṣa-prakṛti dualism, Śaṅkara's Advaita resolution). Cross-cultural convergence on the mind-body distinction strengthens the Map's position. Builds on elisabeths-contemporaries-and-the-interaction-debate.md, eastern-philosophy-consciousness.md, the-hard-problem-in-non-western-philosophy.md. See optimistic-2026-02-17-evening.md
+- **Output**: the interaction problem in non-Western philosophy
 
 ### ✓ 2026-02-17: Write article on binding and beauty (the aesthetic unity problem)
 - **Type**: expand-topic

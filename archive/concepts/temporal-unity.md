@@ -32,6 +32,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
 last_deep_review: 2026-02-16T13:43:00+00:00
+archived: true
+archived_date: 2026-02-17T19:42:00+00:00
+superseded_by: "/concepts/temporal-consciousness/"
+archive_reason: "Coalesced into Temporal Consciousness"
+original_path: "/concepts/temporal-unity/"
 ---
 
 Temporal unity is the phenomenal property by which successive moments of experience belong to a single, continuous stream rather than occurring as disconnected instants. The Unfinishable Map distinguishes it from [[varieties-of-unity|synchronic unity]] (which binds features within a moment) and [[varieties-of-unity|subject unity]] (which establishes who experiences). Temporal unity answers a specific question: what makes experience *flow*? Without it, consciousness would be a series of vivid snapshots with nothing connecting one to the next. Temporal unity is what makes a melody more than a sequence of tones and a thought more than a series of unrelated mental states.

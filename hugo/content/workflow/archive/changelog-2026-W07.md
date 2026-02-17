@@ -1410,7 +1410,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-13 03:34 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Temporal unity
-- **Output**: [temporal-unity](/concepts/temporal-unity/)
+- **Output**: [temporal-unity](/temporal-unity/)
 - **Word count**: 1333
 - **Based on research**: No
 

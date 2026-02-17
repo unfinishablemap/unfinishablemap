@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-16
-**Article**: [Temporal Unity](/concepts/temporal-unity/)
+**Article**: [Temporal Unity](/temporal-unity/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
