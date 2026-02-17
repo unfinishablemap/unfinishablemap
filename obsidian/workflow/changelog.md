@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 05:27 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/filter-theory]], [[topics/personal-identity]]
+- **Changes**: Propagated unfalsifiability caveat from measurement-problem.md to both articles' quantum mechanism references; added measurement-problem to concepts frontmatter in both files
+- **Context**: Completes Issue 1 (Cross-Article Unfalsifiability Leak) from pessimistic-2026-02-17.md. Caveat previously added to death-and-consciousness.md; now all four cluster articles are consistent.
+- **Published**: yes
+
 ## 2026-02-17 05:12 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/death-and-consciousness]]

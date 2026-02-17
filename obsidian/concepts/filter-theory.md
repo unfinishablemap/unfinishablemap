@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-17T05:12:00+00:00
+ai_modified: 2026-02-17T05:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ concepts:
   - "[[near-death-experiences]]"
   - "[[dreams-and-consciousness]]"
   - "[[brain-specialness]]"
+  - "[[measurement-problem]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -160,7 +161,7 @@ Filter theory doesn't require locating consciousness spatially. Consciousness mi
 
 ### "What is the mechanism of transmission?"
 
-This is a fair challenge. How does non-physical consciousness interface with physical brain? the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes one mechanism: consciousness influences quantum indeterminacies in neural systems. At points where physics leaves outcomes undetermined, consciousness selects. This provides the "interface" filter theory requires without violating physical law.
+This is a fair challenge. How does non-physical consciousness interface with physical brain? the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes one mechanism: consciousness influences quantum indeterminacies in neural systems. At points where physics leaves outcomes undetermined, consciousness selects. This provides the "interface" filter theory requires without violating physical law. However, as the [[measurement-problem]] article acknowledges, such consciousness-selection is empirically indistinguishable from random collapse—the mechanism is a philosophical framework compatible with physics, not a testable physical hypothesis.
 
 ### "Why brains specifically?"
 
@@ -196,7 +197,7 @@ Filter theory supports and is supported by the Map's [[tenets|foundational commi
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Filter theory naturally accommodates consciousness influencing the brain. If consciousness exists independently and uses the brain as interface, it can affect brain states just as brain states affect conscious experience. The interaction is bidirectional: brain-to-consciousness (interface configuration shapes what manifests) and consciousness-to-brain (consciousness selects among neural possibilities).
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The quantum mechanism provides concrete content to the transmission metaphor. Where exactly does consciousness "connect" to the brain? At quantum indeterminacies—points where physics permits multiple outcomes and consciousness selects which becomes actual. This is the interface point the filter theory requires.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The quantum mechanism provides concrete content to the transmission metaphor. Where exactly does consciousness "connect" to the brain? At quantum indeterminacies—points where physics permits multiple outcomes and consciousness selects which becomes actual. This is the interface point the filter theory requires. A significant caveat: consciousness-selection within Born probabilities is empirically indistinguishable from random collapse, making this mechanism philosophical rather than testable (see the [[measurement-problem]] article). The interface point is conceptually motivated, not empirically demonstrated.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Materialists argue that "brain produces consciousness" is simpler than "brain filters consciousness." But simplicity judgments depend on what we're trying to explain. Production models must explain the hard problem—how physical activity generates experience. Filter theory doesn't solve the hard problem but doesn't create it either: consciousness exists; the brain interfaces with it. Neither view is obviously simpler; both face deep puzzles.
 
@@ -255,3 +256,15 @@ The Buddhist framework offers something filter theory lacks: a detailed phenomen
 - Mashour, G. A., et al. (2024). Differential thalamic mechanisms of propofol and ketamine anaesthesia. *Anesthesiology*, 140(5), 923-934.
 - Parnia, S., et al. (2023). "AWAreness during REsuscitation II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation*, 191, 109903.
 - Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
+
+<!-- AI REFINEMENT LOG - 2026-02-17
+Changes made:
+- Added unfalsifiability caveat to "What is the mechanism of transmission?" objection response, noting consciousness-selection is empirically indistinguishable from random collapse per measurement-problem article
+- Added unfalsifiability caveat to Minimal Quantum Interaction section in Relation to Site Perspective, clarifying the interface point is conceptually motivated, not empirically demonstrated
+- Added measurement-problem to concepts frontmatter
+
+Based on pessimistic review pessimistic-2026-02-17.md (Issue 1: Cross-Article Unfalsifiability Leak).
+Key improvements: honest propagation of measurement-problem article's own unfalsifiability admission to quantum mechanism references.
+
+This log should be removed after human review.
+-->

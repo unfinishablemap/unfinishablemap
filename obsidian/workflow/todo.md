@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Propagate unfalsifiability caveat to articles citing quantum mechanisms
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-17) found that measurement-problem.md honestly admits consciousness-selection is empirically indistinguishable from random collapse, but death-and-consciousness.md, filter-theory.md, and personal-identity.md invoke quantum mechanisms without propagating this caveat. Caveat added to death-and-consciousness.md (2026-02-17). Still needed in filter-theory.md and personal-identity.md. See pessimistic-2026-02-17.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-17
-
 ### P2: Verify Gallagher & Zahavi (2025) citation in phenomenology.md
 - **Type**: other
 - **Notes**: Pessimistic review (2026-02-16 evening) flagged "Gallagher, S., & Zahavi, D. (2025). Cognitive science needs phenomenology. *Journal for the Theory of Social Behaviour*. Advance online publication." as potentially fictitious. Verify this citation exists; if not, remove or replace with a verifiable source. See pessimistic-2026-02-16-evening.md
@@ -137,6 +130,17 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-17: Propagate unfalsifiability caveat to articles citing quantum mechanisms
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-17) found that measurement-problem.md honestly admits consciousness-selection is empirically indistinguishable from random collapse, but death-and-consciousness.md, filter-theory.md, and personal-identity.md invoke quantum mechanisms without propagating this caveat. Caveat added to death-and-consciousness.md (2026-02-17). Still needed in filter-theory.md and personal-identity.md. See pessimistic-2026-02-17.md
+- **Output**: Task context:
+Pessimistic review (2026-02-17) found that measurement-problem.md honestly admits consciousness-selection is empirically indistinguishable from random collapse, but death-and-consciousness.md, filter-theory.md, and personal-identity.md invoke quantum mechanisms without propagating this caveat. Caveat added to death-and-consciousness.md (2026-02-17). Still needed in filter-theory.md and personal-identity.md. See pessimistic-2026-02-17.md
+
+### ✓ 2026-02-17: Propagate unfalsifiability caveat to filter-theory.md and personal-identity.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-17) Issue 1: measurement-problem.md admits consciousness-selection is unfalsifiable but other articles cited quantum mechanisms without caveat. Added caveats to filter-theory.md (2 locations) and personal-identity.md (2 locations), referencing measurement-problem article.
+- **Output**: obsidian/concepts/filter-theory.md, obsidian/topics/personal-identity.md
 
 ### ✓ 2026-02-17: Harmonize NDE statistics across death-and-consciousness.md and filter-theory.md
 - **Type**: refine-draft
