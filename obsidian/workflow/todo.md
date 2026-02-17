@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-17
 
-### P2: Address critical gaps in concepts/reductionism.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-17 afternoon) found two high-severity issues: (1) Multiple realizability argument is overstated—dismisses Kim's disjunctive response in one sentence and ignores Bechtel-Mundale/Polger-Shapiro criticisms that undermine the Putnam-Fodor framing. (2) Article focuses exclusively on outdated Nagelian bridge-law reduction (1961) and never engages with functional reduction (Lewis, later Kim), which is the dominant contemporary framework. Also: Buddhism/process philosophy paragraph in Relation to Site Perspective undercuts the Map's own dualism by dissolving the consciousness/matter categories the Map requires. See pessimistic-2026-02-17-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-17
-
 ### P2: Verify Gallagher & Zahavi (2025) citation in phenomenology.md
 - **Type**: other
 - **Notes**: Pessimistic review (2026-02-16 evening) flagged "Gallagher, S., & Zahavi, D. (2025). Cognitive science needs phenomenology. *Journal for the Theory of Social Behaviour*. Advance online publication." as potentially fictitious. Verify this citation exists; if not, remove or replace with a verifiable source. See pessimistic-2026-02-16-evening.md
@@ -142,6 +136,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-17: Address critical gaps in concepts/reductionism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-17 afternoon) found two high-severity issues: (1) Multiple realizability argument is overstated—dismisses Kim's disjunctive response in one sentence and ignores Bechtel-Mundale/Polger-Shapiro criticisms that undermine the Putnam-Fodor framing. (2) Article focuses exclusively on outdated Nagelian bridge-law reduction (1961) and never engages with functional reduction (Lewis, later Kim), which is the dominant contemporary framework. Also: Buddhism/process philosophy paragraph in Relation to Site Perspective undercuts the Map's own dualism by dissolving the consciousness/matter categories the Map requires. See pessimistic-2026-02-17-afternoon.md
+- **Output**: obsidian/concepts/reductionism.md
+
+Task context:
+Pessimistic review (2026-02-17 afternoon) found two high-severity issues: (1) Multiple realizability argument is overstated—dismisses Kim's disjunctive response in one sentence and ignores Bechtel-Mundale/Polger-Shapiro criticisms that undermine the Putnam-Fodor framing. (2) Article focuses exclusively on outdated Nagelian bridge-law reduction (1961) and never engages with functional reduction (Lewis, later Kim), which is the dominant contemporary framework. Also: Buddhism/process philosophy paragraph in Relation to Site Perspective undercuts the Map's own dualism by dissolving the consciousness/matter categories the Map requires. See pessimistic-2026-02-17-afternoon.md
 
 ### ✓ 2026-02-17: Write article on phenomenology of philosophical disagreement
 - **Type**: expand-topic

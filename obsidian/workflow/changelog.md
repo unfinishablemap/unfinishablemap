@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 11:12 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/reductionism]]
+- **Changes**: Added functional reduction section (Lewis-Kim), rewrote multiple realizability with Bechtel-Mundale/Polger-Shapiro critiques, fixed Buddhism paragraph undercutting dualism, added 6 references
+- **Published**: yes
+
 ## 2026-02-17 10:57 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/reductionism.md
