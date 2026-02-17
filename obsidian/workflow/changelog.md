@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 12:42 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology of Conceptual Change
+- **Output**: [[topics/phenomenology-of-conceptual-change]]
+- **Word count**: 2243
+- **Based on research**: No
+
 ## 2026-02-17 12:27 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: ~345 published articles (topics 167, concepts 173, tenets 1, apex 11). Deep sampling of 9 recently created/refined articles plus all 11 apex synthesis articles.

@@ -127,11 +127,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the phenomenology of conceptual change
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. What happens during a genuine paradigm shift in an individual thinker? How does the phenomenal landscape reorganise when fundamental commitments change? Builds on phenomenology-of-philosophical-disagreement.md, phenomenology-of-belief-revision.md, phenomenology-of-understanding.md. See optimistic-2026-02-17-afternoon.md
-
 ### P3: Write article on consciousness and the authority of testimony
 - **Type**: expand-topic
 - **Status**: pending
@@ -151,6 +146,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-17: Write article on the phenomenology of conceptual change
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. What happens during a genuine paradigm shift in an individual thinker? How does the phenomenal landscape reorganise when fundamental commitments change? Builds on phenomenology-of-philosophical-disagreement.md, phenomenology-of-belief-revision.md, phenomenology-of-understanding.md. See optimistic-2026-02-17-afternoon.md
+- **Output**: the phenomenology of conceptual change
 
 ### ✓ 2026-02-17: Address critical gaps in concepts/reductionism.md
 - **Type**: refine-draft
