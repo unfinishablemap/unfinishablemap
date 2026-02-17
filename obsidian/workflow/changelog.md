@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 08:57 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Participation Void
+- **Category**: Unexplorable / Occluded (Mixed)
+- **Output**: [[research/voids-participation-void-2026-02-17]]
+- **Key finding**: Multiple philosophical traditions (Heidegger, Merleau-Ponty, Ryle, Polanyi, Dreyfus) converge on the claim that consciousness has a constitutively participatory dimension — aspects that exist only in enactment and vanish under reflective representation, creating a structural void distinct from acquaintance gaps or introspective opacity.
+
 ## 2026-02-17 08:27 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/indexical-knowledge-and-identity]]
