@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 01:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/moral-perception]]
+- **Word count**: 1345 → 1760 (+415)
+- **Critical issues addressed**: 2 (Prinz misrepresentation, phantom references)
+- **Medium issues addressed**: 4 (Palazzo reinterpretation, contemplative one-sidedness, inferentialism straw man, missing cross-links)
+- **Enhancements made**: 10 (McDowell integration, Murdoch integration, Rawlette integration, blindsight parallel, moral responsibility implication, cross-traditional convergence, sophisticated inferentialism engagement, 10 new cross-links)
+- **Output**: [[reviews/deep-review-2026-02-17-moral-perception]]
+
 ## 2026-02-16 20:59 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Interface Specification Problem
