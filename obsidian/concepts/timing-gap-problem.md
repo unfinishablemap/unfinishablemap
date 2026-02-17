@@ -14,7 +14,7 @@ concepts:
   - "[[decoherence]]"
   - "[[measurement-problem]]"
   - "[[stapp-quantum-mind]]"
-  - "[[quantum-decoherence-objection]]"
+  - "[[decoherence]]"
 related_articles:
   - "[[quantum-neural-timing-constraints]]"
   - "[[comparing-quantum-consciousness-mechanisms]]"
@@ -87,7 +87,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is relevant here: t
 - [[quantum-neural-timing-constraints]]
 - [[comparing-quantum-consciousness-mechanisms]]
 - [[decoherence]]
-- [[quantum-decoherence-objection]]
+- [[decoherence]]
 - [[quantum-consciousness]]
 - [[process-philosophy]]
 - [[temporal-consciousness]]

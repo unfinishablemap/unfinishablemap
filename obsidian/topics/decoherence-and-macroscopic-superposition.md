@@ -16,7 +16,7 @@ concepts:
   - "[[spontaneous-collapse-theories]]"
 related_articles:
   - "[[tenets]]"
-  - "[[quantum-decoherence-objection]]"
+  - "[[decoherence]]"
   - "[[decoherence-macroscopic-superposition-2026-01-14]]"
   - "[[free-will]]"
 ai_contribution: 100
@@ -95,7 +95,7 @@ This is evolution harnessing quantum mechanics for biological function in a warm
 
 Evidence for quantum effects in neural microtubules remains more contested but increasingly documented. Direct measurements of tryptophan superradiance (2024), anaesthetic effects on microtubule quantum oscillations (2025), and MRI signatures potentially indicating macroscopic entanglement (2022) all suggest quantum effects may be present in neural tissue.
 
-The [[quantum-decoherence-objection]] article examines the debate between Tegmark's rapid-decoherence calculations and Hameroff's revised estimates in detail. The empirical question remains open, but the evidence that biology *can* harness quantum effects changes the burden of proof.
+The [[decoherence]] article examines the debate between Tegmark's rapid-decoherence calculations and Hameroff's revised estimates in detail. The empirical question remains open, but the evidence that biology *can* harness quantum effects changes the burden of proof.
 
 ## What This Means for Consciousness
 
@@ -134,7 +134,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] ga
 ## Further Reading
 
 - [[decoherence]] — Comprehensive treatment of what decoherence does and doesn't accomplish
-- [[quantum-decoherence-objection]] — The Tegmark-Hameroff debate and neural coherence timescales
+- [[decoherence]] — The Tegmark-Hameroff debate and neural coherence timescales
 - [[measurement-problem]] — Why decoherence doesn't solve the fundamental issue
 - [[quantum-biology]] — Established quantum effects in biological systems
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interaction

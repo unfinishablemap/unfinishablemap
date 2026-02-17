@@ -20,7 +20,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[psychophysical-laws]]"
   - "[[causal-closure]]"
-  - "[[quantum-decoherence-objection]]"
+  - "[[decoherence]]"
   - "[[quantum-biology]]"
 related_articles:
   - "[[tenets]]"
@@ -73,7 +73,7 @@ If consciousness genuinely improves fitness—as the [[evolutionary-case-for-men
 
 What would selection for interface quality look like? Several features of brain evolution become suggestive:
 
-**Neural coherence**: If consciousness interfaces with quantum processes in neural tissue, brains that maintain [[quantum-coherence-and-binding-evidence|quantum coherence]] in behaviourally relevant circuits would have fitness advantages. The [[quantum-decoherence-objection|decoherence objection]]—that warm biological tissue destroys quantum coherence too rapidly—remains the primary challenge here, but [[quantum-biology|quantum biology]] has demonstrated that photosynthesis and avian magnetoreception exploit quantum effects in warm environments. If evolution solved that engineering problem for navigation and energy capture, it could have solved it for consciousness. The evolution of microtubule organisation, myelination patterns, and synaptic architecture might reflect selection for quantum-friendly structures alongside selection for computational efficiency.
+**Neural coherence**: If consciousness interfaces with quantum processes in neural tissue, brains that maintain [[quantum-coherence-and-binding-evidence|quantum coherence]] in behaviourally relevant circuits would have fitness advantages. The [[decoherence|decoherence objection]]—that warm biological tissue destroys quantum coherence too rapidly—remains the primary challenge here, but [[quantum-biology|quantum biology]] has demonstrated that photosynthesis and avian magnetoreception exploit quantum effects in warm environments. If evolution solved that engineering problem for navigation and energy capture, it could have solved it for consciousness. The evolution of microtubule organisation, myelination patterns, and synaptic architecture might reflect selection for quantum-friendly structures alongside selection for computational efficiency.
 
 **Attentional systems**: The [[attention-as-interface|attention-as-interface]] hypothesis suggests that attention is the mechanism through which consciousness engages with neural processing. The elaborate attentional systems found in mammals and birds—systems far more sophisticated than what pure information processing would require—might reflect selection for richer conscious access to neural content.
 

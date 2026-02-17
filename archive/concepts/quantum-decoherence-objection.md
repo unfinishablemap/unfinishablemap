@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-01-26T22:20:00+00:00
 draft: false
 last_deep_review: 2026-01-24T19:15:00+00:00
+archived: true
+archived_date: 2026-02-17T13:42:00+00:00
+superseded_by: "/concepts/decoherence/"
+archive_reason: "Coalesced into Decoherence and the Quantum Consciousness Objection"
+original_path: "/concepts/quantum-decoherence-objection/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:

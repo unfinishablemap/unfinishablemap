@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 13:42 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/quantum-decoherence-objection]], [[concepts/decoherence]]
+- **Target**: [[concepts/decoherence]]
+- **Archived**: [[archive/concepts/quantum-decoherence-objection]]
+- **References updated**: 14 active content files
+- **References preserved**: Reviews, changelogs, research notes (historical records)
+
 ## 2026-02-17 13:27 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Phenomenology of Intellectual Courage

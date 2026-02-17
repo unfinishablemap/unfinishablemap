@@ -14,7 +14,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[decoherence]]"
   - "[[neural-correlates-of-consciousness]]"
-  - "[[quantum-decoherence-objection]]"
+  - "[[decoherence]]"
   - "[[quantum-neural-timing-constraints]]"
   - "[[measurement-problem]]"
   - "[[causal-closure]]"
@@ -72,7 +72,7 @@ Do radical pair mechanisms extend beyond magnetoreception to cognition? The Univ
 
 ## Microtubules: Gaining Ground
 
-Microtubule-based proposals—particularly Penrose and Hameroff's [[quantum-consciousness|Orchestrated Objective Reduction (Orch OR)]]—have historically been dismissed due to [[quantum-decoherence-objection|decoherence concerns]]. However, 2024-2025 experimental results have shifted the evidential landscape.
+Microtubule-based proposals—particularly Penrose and Hameroff's [[quantum-consciousness|Orchestrated Objective Reduction (Orch OR)]]—have historically been dismissed due to [[decoherence|decoherence concerns]]. However, 2024-2025 experimental results have shifted the evidential landscape.
 
 ### Recent Supporting Evidence
 
@@ -235,7 +235,7 @@ None of these has been demonstrated to be the *actual* mechanism of conscious in
 - [[quantum-neural-mechanisms]] — Survey of all five proposed mechanisms
 - [[quantum-biology]] — Established quantum effects in living systems
 - [[quantum-neural-timing-constraints]] — The timing hierarchy and decoherence challenge
-- [[quantum-decoherence-objection]] — The decoherence critique in detail
+- [[decoherence]] — The decoherence critique in detail
 - [[neural-correlates-of-consciousness]] — Where consciousness correlates with brain activity
 - [[quantum-consciousness]] — Overview of quantum approaches
 

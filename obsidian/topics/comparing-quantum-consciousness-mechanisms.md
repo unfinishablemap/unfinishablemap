@@ -23,7 +23,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[quantum-biology-and-the-consciousness-debate]]"
-  - "[[quantum-decoherence-objection]]"
+  - "[[decoherence]]"
   - "[[prebiotic-collapse]]"
   - "[[coupling-modes]]"
   - "[[quantum-measurement-consciousness-interface]]"
@@ -141,7 +141,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [[spontaneous-collapse-theories]] — GRW, CSL, and Penrose OR models
 - [[quantum-neural-mechanisms]] — Five neural quantum mechanisms with evidence
 - [[quantum-biology-and-the-consciousness-debate]] — Why quantum biology shifts the burden of proof
-- [[quantum-decoherence-objection]] — The decoherence challenge in detail
+- [[decoherence]] — The decoherence challenge in detail
 - [[quantum-neural-timing-constraints]] — Decoherence and timing considerations for neural quantum effects
 - [[quantum-measurement-consciousness-interface]] — How consciousness relates to quantum measurement
 - [[quantum-indeterminacy-free-will]] — Why mechanism choice matters for libertarian free will

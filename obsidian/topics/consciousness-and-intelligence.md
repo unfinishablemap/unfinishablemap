@@ -19,7 +19,7 @@ concepts:
   - "[[epiphenomenalism]]"
   - "[[global-workspace-theory]]"
   - "[[heterophenomenology]]"
-  - "[[quantum-decoherence-objection]]"
+  - "[[decoherence]]"
   - "[[explanatory-gap]]"
 related_articles:
   - "[[tenets]]"
@@ -158,7 +158,7 @@ The [[tenets#^dualism|Dualism]] tenet holds that consciousness is irreducible to
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims consciousness causally influences the physical world. The amplification hypothesis specifies *how*: through flexible deployment, metacognitive monitoring, and counterfactual simulation. Consciousness doesn't just accompany intelligence; it enables specific cognitive capacities that neural processing alone cannot achieve.
 
-The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes a mechanism: consciousness influences neural states through quantum selection at points of indeterminacy. This provides the physical interface where consciousness and intelligence meet—the brain presents quantum alternatives, consciousness selects among them, and the selection shapes cognitive outcomes. The [[quantum-decoherence-objection|decoherence objection]]—that quantum coherence cannot survive in warm brains—remains a serious challenge, though corrected calculations and evidence from quantum biology suggest the timescales may be longer than initially claimed.
+The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes a mechanism: consciousness influences neural states through quantum selection at points of indeterminacy. This provides the physical interface where consciousness and intelligence meet—the brain presents quantum alternatives, consciousness selects among them, and the selection shapes cognitive outcomes. The [[decoherence|decoherence objection]]—that quantum coherence cannot survive in warm brains—remains a serious challenge, though corrected calculations and evidence from quantum biology suggest the timescales may be longer than initially claimed.
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects interpretations where consciousness fragments across branches. If intelligence requires selection—choosing *this* over *that*—then the selecting consciousness must produce determinate outcomes. Many-worlds defenders respond that each branch contains a complete observer making determinate choices—but this multiplies decision-makers rather than preserving the selecting agent who weighs alternatives. The Map holds that genuine deliberation requires a single outcome, not parallel realisations of every option.
 
