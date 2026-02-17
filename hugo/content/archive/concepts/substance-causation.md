@@ -93,7 +93,7 @@ Substance causation shifts the dialectic. The question isn't whether physical *e
 
 The Map's quantum framework strengthens this response. At quantum indeterminacies, physics specifies probabilities but not outcomes—there's no sufficient physical cause because physics is genuinely incomplete there. Consciousness as substance exercises powers precisely at these openings. The exclusion argument fails because its key premise fails: physical events *don't* have sufficient physical causes at quantum measurement.
 
-This quantum proposal faces the [decoherence](/concepts/decoherence/) objection: quantum coherence in warm brains supposedly decays too fast for conscious influence. The Map's response (detailed in [quantum decoherence objection](/concepts/quantum-decoherence-objection/)) involves the scale of quantum effects and the possibility that consciousness operates at timescales compatible with neural quantum processes.
+This quantum proposal faces the [decoherence](/concepts/decoherence/) objection: quantum coherence in warm brains supposedly decays too fast for conscious influence. The Map's response (detailed in [quantum decoherence objection](/quantum-decoherence-objection/)) involves the scale of quantum effects and the possibility that consciousness operates at timescales compatible with neural quantum processes.
 
 ## Challenges to Substance Causation
 
@@ -161,7 +161,7 @@ Substance causation provides the metaphysical foundation for the Map's position 
 - [free-will](/topics/free-will/) — The broader question
 - [emergence](/concepts/emergence/) — Related concept of novel causal powers
 - [decoherence](/concepts/decoherence/) — The quantum challenge to consciousness-brain interaction
-- [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — The Map's response to decoherence concerns
+- [quantum-decoherence-objection](/quantum-decoherence-objection/) — The Map's response to decoherence concerns
 
 ## References
 

@@ -67,7 +67,7 @@ A 2025 twin study by Escolà-Gascón provided additional evidence. When 106 mono
 
 ## The Decoherence Objection Weakens
 
-For decades, the primary objection to quantum consciousness theories has been [decoherence](/concepts/decoherence/): quantum coherence cannot survive in warm, wet biological systems. Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds—far too short for neural processes operating at millisecond timescales. This [decoherence objection](/concepts/quantum-decoherence-objection/) seemed to close the door on quantum consciousness entirely.
+For decades, the primary objection to quantum consciousness theories has been [decoherence](/concepts/decoherence/): quantum coherence cannot survive in warm, wet biological systems. Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds—far too short for neural processes operating at millisecond timescales. This [decoherence objection](/quantum-decoherence-objection/) seemed to close the door on quantum consciousness entirely.
 
 Yet the Tegmark-Hameroff debate remains unsettled. Hagan, Hameroff, and Tuszynski (2002) challenged several of Tegmark's assumptions:
 - Tegmark assumed unrealistically large superposition separation distances
@@ -129,7 +129,7 @@ A final caveat: the possibility remains that the consciousness-quantum connectio
 ## Further Reading
 
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from femtosecond decoherence to 300ms neural decisions
-- [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — Comprehensive analysis of the decoherence objection and corrected calculations
+- [quantum-decoherence-objection](/quantum-decoherence-objection/) — Comprehensive analysis of the decoherence objection and corrected calculations
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental effort and discrete observation
 - [binding-problem](/concepts/binding-problem/) — The philosophical puzzle this evidence addresses
 - [phenomenal-unity](/phenomenal-unity/) — What quantum binding aims to explain

@@ -73,7 +73,7 @@ None. The article had no factual errors, attribution errors, or internal contrad
 - [philosophical-zombies](/concepts/philosophical-zombies/)
 - [inverted-qualia](/concepts/inverted-qualia/)
 - [substance-property-dualism](/concepts/substance-property-dualism/)
-- [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/)
+- [quantum-decoherence-objection](/quantum-decoherence-objection/)
 - [global-workspace-theory](/concepts/global-workspace-theory/)
 - [integrated-information-theory](/concepts/integrated-information-theory/)
 - [arguments-against-materialism](/arguments-against-materialism/)

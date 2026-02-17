@@ -28,7 +28,7 @@ related_articles:
 - '[[tenets]]'
 - '[[measurement-problem]]'
 - '[[prebiotic-collapse]]'
-- '[[quantum-decoherence-objection]]'
+- '[[decoherence]]'
 - '[[brain-specialness-boundary]]'
 - '[[mental-causation]]'
 title: Conservation Laws and Mind-Brain Causation
@@ -146,7 +146,7 @@ However, the selection framework doesn't require sustained coherence. It require
 
 Second, Tegmark's calculations have been challenged. Hagan et al. (2002) disputed his model parameters, yielding estimates seven orders of magnitude longer. The [tenets article](/tenets/#minimal-quantum-interaction) discusses this dispute in detail.
 
-The deeper point: decoherence doesn't solve the [measurement-problem](/concepts/measurement-problem/). After the basis is selected and interference suppressed, the system remains in a mixture of possible outcomes. Something determines which becomes actual—and physics doesn't specify what. The role for consciousness at this juncture remains open. See [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) for extended treatment.
+The deeper point: decoherence doesn't solve the [measurement-problem](/concepts/measurement-problem/). After the basis is selected and interference suppressed, the system remains in a mixture of possible outcomes. Something determines which becomes actual—and physics doesn't specify what. The role for consciousness at this juncture remains open. See [decoherence](/concepts/decoherence/) for extended treatment.
 
 ### "Many-Worlds Eliminates the Problem"
 

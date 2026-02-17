@@ -76,7 +76,7 @@ Six sympathetic philosopher personas identified strengths:
 
 - [decoherence](/concepts/decoherence/) (added to concepts)
 - [explanatory-gap](/concepts/explanatory-gap/) (added to concepts)
-- [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) (added to related articles)
+- [quantum-decoherence-objection](/quantum-decoherence-objection/) (added to related articles)
 
 ## Remaining Items
 

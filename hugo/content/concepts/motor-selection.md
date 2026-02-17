@@ -19,7 +19,7 @@ concepts:
 - '[[phenomenology-of-choice]]'
 - '[[libet-experiments]]'
 - '[[quantum-neural-timing-constraints]]'
-- '[[quantum-decoherence-objection]]'
+- '[[decoherence]]'
 - '[[consciousness-as-amplifier]]'
 - '[[illusionism]]'
 - '[[downward-causation]]'
@@ -177,7 +177,7 @@ This explains the common phenomenology. Sustaining motor intention feels effortf
 
 ### Decoherence Considerations
 
-The [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) addresses the standard challenge—rapid decoherence in warm brains. Corrected calculations for biological conditions (Hameroff 2014) yield coherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer than Tegmark's estimates—allowing roughly 1000 quantum cycles within a single motor commitment event. Additionally, the [post-decoherence selection response](/psychophysical-coupling-mechanisms/) proposes consciousness might bias outcome selection *after* decoherence, at measurement collapse.
+The [decoherence](/concepts/decoherence/) addresses the standard challenge—rapid decoherence in warm brains. Corrected calculations for biological conditions (Hameroff 2014) yield coherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer than Tegmark's estimates—allowing roughly 1000 quantum cycles within a single motor commitment event. Additionally, the [post-decoherence selection response](/psychophysical-coupling-mechanisms/) proposes consciousness might bias outcome selection *after* decoherence, at measurement collapse.
 
 ## The Phenomenology of Motor Choice
 
@@ -230,7 +230,7 @@ This framework identifies *where* consciousness might influence motor selection�
 - [downward-causation](/concepts/downward-causation/) — How consciousness affects neural processes
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of choosing
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis of readiness potential experiments
-- [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — The decoherence challenge and responses
+- [decoherence](/concepts/decoherence/) — The decoherence challenge and responses
 - [free-will](/topics/free-will/) — The topic page on free will and determinism
 
 ## References

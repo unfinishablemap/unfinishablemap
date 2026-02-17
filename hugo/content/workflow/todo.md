@@ -128,11 +128,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the phenomenology of intellectual courage
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Intellectual courage—holding a position against social pressure, or abandoning one despite emotional investment—has distinctive phenomenal character. The Map's own position requires intellectual courage; examining its phenomenology illuminates consciousness's role in truth-seeking. Builds on phenomenology-of-philosophical-disagreement.md, phenomenology-of-evidence-assessment.md. See optimistic-2026-02-17-afternoon.md
-
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
@@ -142,6 +137,19 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-17: Address critical gaps in binding-problem-systematic-treatment.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-17 afternoon 2) found two high-severity issues: (1) The "coordination is not identity" argument (BP2 gap) is asserted rather than argued — never engages with the identity response (that identities like "water = H₂O" are discovered, not produced). (2) The dissociation arguments (NREM sleep, anesthesia) oversell the BP1/BP2 split — during NREM sleep, long-range cortical connectivity is disrupted, not just phenomenal binding. IIT predicts exactly this pattern but the article dismisses IIT without engaging its specific sleep/anesthesia predictions. Also missing a "What Would Challenge This View?" section. See pessimistic-2026-02-17-afternoon-2.md
+- **Output**: binding-problem-systematic-treatment.md
+
+Task context:
+Pessimistic review (2026-02-17 afternoon 2) found two high-severity issues: (1) The "coordination is not identity" argument (BP2 gap) is asserted rather than argued — never engages with the identity response (that identities like "water = H₂O" are discovered, not produced). (2) The dissociation arguments (NREM sleep, anesthesia) oversell the BP1/BP2 split — during NREM sleep, long-range cortical connectivity is disrupted, not just phenomenal binding. IIT predicts exactly this pattern but the article dismisses IIT without engaging its specific sleep/anesthesia predictions. Also missing a "What Would Challenge This View?" section. See pessimistic-2026-02-17-afternoon-2.md
+
+### ✓ 2026-02-17: Write article on the phenomenology of intellectual courage
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Intellectual courage—holding a position against social pressure, or abandoning one despite emotional investment—has distinctive phenomenal character. The Map's own position requires intellectual courage; examining its phenomenology illuminates consciousness's role in truth-seeking. Builds on phenomenology-of-philosophical-disagreement.md, phenomenology-of-evidence-assessment.md. See optimistic-2026-02-17-afternoon.md
+- **Output**: the phenomenology of intellectual courage
 
 ### ✓ 2026-02-17: Write article on consciousness and the authority of testimony
 - **Type**: expand-topic

@@ -30,7 +30,7 @@ None. The article contains no factual errors, misattributions, or internal contr
 
 1. **Strawman of physicalist teleology**: The original article presented physicalist teleology as merely "as if" purpose, ignoring the sophisticated functionalist position (Dennett's "real patterns"). **Resolution**: Added engagement with the functionalist claim that purposes are "real patterns" and explained why the Map finds this insufficient — real patterns identified from the outside are not purposes experienced from the inside.
 
-2. **No engagement with decoherence objection**: The "Selection Pressure on Interfaces" section speculated about quantum-friendly neural structures without mentioning the standard scientific objection. **Resolution**: Added acknowledgment of the decoherence objection with cross-link to [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/), and noted the evolutionary response from [quantum-biology](/concepts/quantum-biology/) (photosynthesis, magnetoreception precedents).
+2. **No engagement with decoherence objection**: The "Selection Pressure on Interfaces" section speculated about quantum-friendly neural structures without mentioning the standard scientific objection. **Resolution**: Added acknowledgment of the decoherence objection with cross-link to [quantum-decoherence-objection](/quantum-decoherence-objection/), and noted the evolutionary response from [quantum-biology](/concepts/quantum-biology/) (photosynthesis, magnetoreception precedents).
 
 3. **Missing "What Would Challenge This View?" section**: Sibling articles (evolution-of-consciousness, consciousness-evolution-problem, evolutionary-case-for-mental-causation) all include such sections. **Resolution**: Added section listing four specific conditions that would weaken the framework: epiphenomenalism, disproof of neural quantum effects, unconscious replication of cognitive flexibility, and physicalist resolution of the consciousness-evolution problem.
 
@@ -86,7 +86,7 @@ None. The article contains no factual errors, misattributions, or internal contr
 - [agent-causation](/concepts/agent-causation/) — metaphysics of agency
 - [free-will](/topics/free-will/) — agent teleology and libertarian agency
 - [quantum-coherence-in-neural-systems](/quantum-coherence-in-neural-systems/) — evidence for neural quantum effects
-- [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — primary scientific challenge
+- [quantum-decoherence-objection](/quantum-decoherence-objection/) — primary scientific challenge
 - [quantum-biology](/concepts/quantum-biology/) — biological precedents for warm quantum effects
 - [working-memory](/concepts/working-memory/) — dedicated treatment of working memory and consciousness
 - [psychophysical-laws](/concepts/psychophysical-laws/) — bridging laws for the relocated hard problem
@@ -102,5 +102,5 @@ None. The article contains no factual errors, misattributions, or internal contr
 ## Stability Notes
 
 - Eliminative materialist objections (folk psychology doesn't carve nature correctly) are a bedrock disagreement with the site's framework, not a flaw in this article. Future reviews should not re-flag this.
-- The quantum skeptic's decoherence objection is now addressed at appropriate depth for this article. The detailed treatment belongs in [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) and [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/), not here.
+- The quantum skeptic's decoherence objection is now addressed at appropriate depth for this article. The detailed treatment belongs in [quantum-decoherence-objection](/quantum-decoherence-objection/) and [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/), not here.
 - The Nagarjuna-style objection about reifying consciousness and matter is a challenge to dualism as such. It is addressed at the tenet level, not the article level. Future reviews should not re-flag this.

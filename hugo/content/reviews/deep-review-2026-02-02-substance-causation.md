@@ -53,7 +53,7 @@ topics: []
 
 ### Cross-links Added
 - [decoherence](/concepts/decoherence/)
-- [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/)
+- [quantum-decoherence-objection](/quantum-decoherence-objection/)
 
 ## Remaining Items
 

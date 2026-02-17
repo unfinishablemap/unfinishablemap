@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[stapp-quantum-mind]]'
 - '[[quantum-consciousness]]'
-- '[[quantum-decoherence-objection]]'
+- '[[decoherence]]'
 - '[[motor-selection]]'
 - '[[voluntary-attention]]'
 - '[[attention-motor-quantum-interface]]'
@@ -196,7 +196,7 @@ What would challenge the Map's metaphysical position is not timing evidence but 
 
 ## Further Reading
 
-- [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — The decoherence objection and biological precedents
+- [decoherence](/concepts/decoherence/) — The decoherence objection and biological precedents
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) — Recent experiments pushing the quantum-classical boundary
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental effort
 - [motor-selection](/concepts/motor-selection/) — The 280ms motor commitment point and Libet dissolution

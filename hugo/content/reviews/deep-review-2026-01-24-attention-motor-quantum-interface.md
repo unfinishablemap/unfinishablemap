@@ -59,7 +59,7 @@ Six sympathetic personas (Property Dualist, Quantum Mind Theorist, Phenomenologi
 ### Cross-links Added
 - [libet-experiments](/concepts/libet-experiments/) (in body and Further Reading)
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) (in Further Reading)
-- [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) (in concepts frontmatter)
+- [quantum-decoherence-objection](/quantum-decoherence-objection/) (in concepts frontmatter)
 
 ## Remaining Items
 

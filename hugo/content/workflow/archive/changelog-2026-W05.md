@@ -7621,7 +7621,7 @@ This is the second deep review; article is approaching stability.
 **Reduction**: 80%
 **Technique**: Massive deferral to linked pages; cut redundant sections entirely
 
-**Summary**: Article was at critical length (8222 words vs 2500 target). Core mechanisms (Orch OR, Stapp, Fisher) and quantum opening preserved in condensed form. Cut entirely: extensive Stapp section details (now in [stapp-quantum-mind](/concepts/stapp-quantum-mind/)), multi-mind collapse problem (has own page), process philosophy (tangential), lengthy decoherence debate (covered in [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/)). Deferred: meditation evidence, motor selection details, luck objection argument, timing constraints. Trimmed: Further Reading reorganized by category. All tenet connections preserved. Article now serves as overview pointing to detailed treatment in linked pages.
+**Summary**: Article was at critical length (8222 words vs 2500 target). Core mechanisms (Orch OR, Stapp, Fisher) and quantum opening preserved in condensed form. Cut entirely: extensive Stapp section details (now in [stapp-quantum-mind](/concepts/stapp-quantum-mind/)), multi-mind collapse problem (has own page), process philosophy (tangential), lengthy decoherence debate (covered in [quantum-decoherence-objection](/quantum-decoherence-objection/)). Deferred: meditation evidence, motor selection details, luck objection argument, timing constraints. Trimmed: Further Reading reorganized by category. All tenet connections preserved. Article now serves as overview pointing to detailed treatment in linked pages.
 
 ---
 

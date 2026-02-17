@@ -22,7 +22,7 @@ last_deep_review: 2026-01-27 18:10:02+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[quantum-decoherence-objection]]'
+- '[[decoherence]]'
 - '[[decoherence-macroscopic-superposition-2026-01-14]]'
 - '[[free-will]]'
 title: Decoherence and Macroscopic Superposition
@@ -98,7 +98,7 @@ This is evolution harnessing quantum mechanics for biological function in a warm
 
 Evidence for quantum effects in neural microtubules remains more contested but increasingly documented. Direct measurements of tryptophan superradiance (2024), anaesthetic effects on microtubule quantum oscillations (2025), and MRI signatures potentially indicating macroscopic entanglement (2022) all suggest quantum effects may be present in neural tissue.
 
-The [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) article examines the debate between Tegmark's rapid-decoherence calculations and Hameroff's revised estimates in detail. The empirical question remains open, but the evidence that biology *can* harness quantum effects changes the burden of proof.
+The [decoherence](/concepts/decoherence/) article examines the debate between Tegmark's rapid-decoherence calculations and Hameroff's revised estimates in detail. The empirical question remains open, but the evidence that biology *can* harness quantum effects changes the burden of proof.
 
 ## What This Means for Consciousness
 
@@ -137,7 +137,7 @@ The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) ga
 ## Further Reading
 
 - [decoherence](/concepts/decoherence/) — Comprehensive treatment of what decoherence does and doesn't accomplish
-- [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — The Tegmark-Hameroff debate and neural coherence timescales
+- [decoherence](/concepts/decoherence/) — The Tegmark-Hameroff debate and neural coherence timescales
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve the fundamental issue
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in biological systems
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interaction

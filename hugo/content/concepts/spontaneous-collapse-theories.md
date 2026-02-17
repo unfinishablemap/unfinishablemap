@@ -144,7 +144,7 @@ This is not a defeat. Science routinely works with effective theories whose ulti
 - **Decoherence**: Environmental interaction destroys quantum coherence *in practice*, creating *appearance* of collapse. Wave function still exists in superposition; we just can't access it. No modification of quantum mechanics.
 - **Spontaneous collapse**: Wave function *actually collapses* as objective physical process. Modifies quantum mechanics with nonlinear/stochastic terms.
 
-Decoherence explains why macroscopic systems look classical but doesn't solve the [measurement problem](/concepts/measurement-problem/)—it doesn't select [definite outcomes](/quantum-measurement-and-definite-outcomes/). Collapse theories do. Hybrid models are possible: decoherence rapidly narrows basis options (basis selection), then spontaneous collapse or consciousness selects the outcome (outcome selection). See [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) for detailed analysis.
+Decoherence explains why macroscopic systems look classical but doesn't solve the [measurement problem](/concepts/measurement-problem/)—it doesn't select [definite outcomes](/quantum-measurement-and-definite-outcomes/). Collapse theories do. Hybrid models are possible: decoherence rapidly narrows basis options (basis selection), then spontaneous collapse or consciousness selects the outcome (outcome selection). See [decoherence](/concepts/decoherence/) for detailed analysis.
 
 ## Comparison of Major Theories
 
@@ -193,7 +193,7 @@ The **consciousness-modulated CSL** model (McQueen's CSL-IIT or similar) best in
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) - alternative consciousness-collapse model (observer-selection)
 - [psychophysical-coupling](/psychophysical-coupling/) - how phenomenal properties map to physical parameters
 - [decoherence](/concepts/decoherence/) - relationship between environmental decoherence and objective collapse
-- [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) - basis selection vs. outcome selection distinction
+- [decoherence](/concepts/decoherence/) - basis selection vs. outcome selection distinction
 - [many-worlds](/arguments/many-worlds/) - the Map's rejection of branching interpretations
 - [integrated-information-theory](/concepts/integrated-information-theory/) - Φ as potential collapse operator in hybrid models
 - [causal-closure](/concepts/causal-closure/) - how spontaneous collapse modifies microphysics without violating conservation laws

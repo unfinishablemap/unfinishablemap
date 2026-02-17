@@ -1703,7 +1703,7 @@ Comprehensive deep review of the quantum-binding-experimental-evidence concept a
 - Added post-decoherence selection framework and Stapp mechanism discussion
 - Connected No Many Worlds tenet explicitly
 - Added cognitive closure caveat for epistemic humility
-- Added 5 new concept cross-links: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [illusionism](/concepts/illusionism/), [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/)
+- Added 5 new concept cross-links: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [quantum-decoherence-objection](/quantum-decoherence-objection/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [illusionism](/concepts/illusionism/), [mysterianism-cognitive-closure](/mysterianism-cognitive-closure/)
 - Expanded Further Reading section
 
 ### Output Files

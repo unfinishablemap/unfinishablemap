@@ -9,7 +9,7 @@ concepts:
 - '[[decoherence]]'
 - '[[measurement-problem]]'
 - '[[stapp-quantum-mind]]'
-- '[[quantum-decoherence-objection]]'
+- '[[decoherence]]'
 created: 2026-02-10
 date: &id001 2026-02-15
 description: The 10¹²-fold mismatch between quantum decoherence and neural decision
@@ -89,7 +89,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is relevant here: t
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
 - [decoherence](/concepts/decoherence/)
-- [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/)
+- [decoherence](/concepts/decoherence/)
 - [quantum-consciousness](/concepts/quantum-consciousness/)
 - [process-philosophy](/concepts/process-philosophy/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)

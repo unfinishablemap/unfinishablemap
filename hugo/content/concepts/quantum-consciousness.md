@@ -31,7 +31,7 @@ last_deep_review: 2026-02-05 12:09:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[quantum-decoherence-objection]]'
+- '[[decoherence]]'
 - '[[many-worlds]]'
 - '[[prebiotic-collapse]]'
 - '[[multi-mind-collapse-problem]]'
@@ -66,7 +66,7 @@ Orch OR locates quantum effects in microtubules—protein structures inside neur
 - Room-temperature superradiance in tryptophan networks demonstrates quantum collective behavior at body temperature
 - **2025 Wiest et al.**: Anesthetics abolish a 613 THz quantum oscillation peak in microtubules while non-anesthetics don't—a testable signature
 
-**Challenge**: The [decoherence objection](/concepts/quantum-decoherence-objection/). Tegmark calculated coherence times of 10⁻¹³ seconds—too short for neural relevance. But this assumed thermal equilibrium; revised calculations accounting for protective mechanisms extend estimates to 10⁻⁵ seconds. This remains three orders of magnitude shorter than neural decisions (~300ms), so the timing gap is reduced but not eliminated for mechanisms requiring sustained coherence. However, [alternative mechanisms](/concepts/quantum-neural-mechanisms/) operate through discrete quantum events rather than continuous superposition, sidestepping this constraint entirely. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing analysis.
+**Challenge**: The [decoherence objection](/concepts/decoherence/). Tegmark calculated coherence times of 10⁻¹³ seconds—too short for neural relevance. But this assumed thermal equilibrium; revised calculations accounting for protective mechanisms extend estimates to 10⁻⁵ seconds. This remains three orders of magnitude shorter than neural decisions (~300ms), so the timing gap is reduced but not eliminated for mechanisms requiring sustained coherence. However, [alternative mechanisms](/concepts/quantum-neural-mechanisms/) operate through discrete quantum events rather than continuous superposition, sidestepping this constraint entirely. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing analysis.
 
 ## Quantum Zeno Effect (Stapp)
 
@@ -112,7 +112,7 @@ When protective mechanisms are accounted for, coherence estimates change dramati
 
 ## The Decoherence Challenge
 
-See [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) for comprehensive analysis. The key points:
+See [decoherence](/concepts/decoherence/) for comprehensive analysis. The key points:
 
 **Decoherence doesn't eliminate quantum indeterminacy.** Decoherence explains basis selection but not outcome selection. After decoherence, the system remains in a statistical mixture—something must still select which outcome becomes actual.
 
@@ -201,7 +201,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 **Key concepts:**
 - [consciousness-and-quantum-measurement](/consciousness-and-quantum-measurement/) — The structural parallel between the measurement and hard problems
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure, not pure subjective belief
-- [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — Analysis of the decoherence challenge
+- [decoherence](/concepts/decoherence/) — Analysis of the decoherence challenge
 - [psychophysical-coupling](/psychophysical-coupling/) — What a coupling law must specify
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: how consciousness might couple
 - [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws

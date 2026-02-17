@@ -20,7 +20,7 @@ concepts:
 - '[[haecceity]]'
 - '[[mental-effort]]'
 - '[[epiphenomenalism]]'
-- '[[quantum-decoherence-objection]]'
+- '[[decoherence]]'
 - '[[stapp-quantum-mind]]'
 - '[[phenomenal-unity]]'
 - '[[neural-correlates-of-consciousness]]'
@@ -233,7 +233,7 @@ The assumption that warm biology must be classical turned out false. [Quantum bi
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Quantum entanglement and the binding problem
 - [mental-effort](/concepts/mental-effort/) — Stapp's quantum Zeno framework for voluntary attention
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from femtosecond decoherence to 300ms neural decisions
-- [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — Comprehensive analysis of the decoherence objection
+- [decoherence](/concepts/decoherence/) — Comprehensive analysis of the decoherence objection
 - [phenomenal-unity](/phenomenal-unity/) — What quantum binding aims to explain
 - [illusionism](/concepts/illusionism/) — The challenge that phenomenal unity might be illusory
 - [mysterianism](/concepts/mysterianism/) — The possibility that consciousness-quantum connection exceeds human cognitive reach

@@ -8,7 +8,7 @@ concepts:
 - '[[quantum-biology]]'
 - '[[quantum-consciousness]]'
 - '[[stapp-quantum-mind]]'
-- '[[quantum-decoherence-objection]]'
+- '[[decoherence]]'
 - '[[quantum-neural-timing-constraints]]'
 - '[[measurement-problem]]'
 - '[[decoherence]]'
@@ -42,7 +42,7 @@ Five distinct quantum mechanisms have been proposed for neural systems: radical 
 
 ## The Decoherence Challenge
 
-Before examining specific mechanisms, the central objection must be addressed. [Max Tegmark's 2000 calculation](/concepts/quantum-decoherence-objection/) estimated decoherence times of 10⁻¹³ seconds for ion superpositions in neural membranes—twelve orders of magnitude faster than neural decisions (hundreds of milliseconds). If superpositions collapse in femtoseconds while neurons decide in milliseconds, quantum effects cannot influence outcomes.
+Before examining specific mechanisms, the central objection must be addressed. [Max Tegmark's 2000 calculation](/concepts/decoherence/) estimated decoherence times of 10⁻¹³ seconds for ion superpositions in neural membranes—twelve orders of magnitude faster than neural decisions (hundreds of milliseconds). If superpositions collapse in femtoseconds while neurons decide in milliseconds, quantum effects cannot influence outcomes.
 
 Yet this objection faces two challenges:
 
@@ -282,7 +282,7 @@ The Unfinishable Map's interest in quantum neural mechanisms connects to all fiv
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy and Tegmark critique
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for attention
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum approaches to consciousness
-- [quantum-decoherence-objection](/concepts/quantum-decoherence-objection/) — The decoherence challenge in detail
+- [decoherence](/concepts/decoherence/) — The decoherence challenge in detail
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
 - [voluntary-attention](/voluntary-attention/) — The 300ms window for conscious attention deployment
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The causal efficacy of consciousness
