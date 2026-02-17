@@ -4,7 +4,7 @@ description: "The 17th-century explosion of responses to the interaction problem
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-15T01:14:00+00:00
+ai_modified: 2026-02-17T14:27:00+00:00
 draft: false
 topics:
   - "[[history-of-interactionist-dualism]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[causal-closure]]"
   - "[[mental-causation]]"
   - "[[epiphenomenalism]]"
+  - "[[occasionalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[conservation-laws-and-mind]]"
@@ -27,6 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
+last_deep_review: 2026-02-17T14:27:00+00:00
 ---
 
 Princess Elisabeth of Bohemia's 1643 challenge to Descartes—how can an unextended mind move an extended body?—did not remain a private correspondence. Within decades, the interaction problem generated an extraordinary range of philosophical responses that still define the landscape of mind-body debate. Occasionalists handed all causation to God. Henry More gave spirit spatial extension. Spinoza dissolved the two substances into one. Margaret Cavendish made all matter think. Each response accepted that Descartes had failed to answer Elisabeth, and each drew a different consequence from that failure. The Unfinishable Map's own position—consciousness biasing quantum indeterminacies—is the latest entry in a tradition these thinkers inaugurated.
@@ -45,7 +47,7 @@ The most influential response came from within the Cartesian camp: if created su
 
 **Louis de La Forge** (1632–1666) took the first step. In his *Traité de l'esprit de l'homme* (1665–66), written to complete the account of mind-body relations that Descartes had left unfinished, La Forge argued from continuous creation: since God must continuously recreate extended substance at each moment to sustain it in existence, God determines where each body is at each instant. Bodies therefore lack independent causal power. La Forge's occasionalism was partial—he denied causation to bodies but allowed finite minds genuine causal efficacy. The mind still acts; matter does not.
 
-**Géraud de Cordemoy** (1626–1684) went further. In *Le discernement du corps et de l'âme* (1666), he argued that we never observe a causal connection between volitions and bodily actions—only temporal succession. Heartbeat, digestion, and other bodily processes proceed without our willing them. Paralysed persons will movement that does not follow. Neither minds nor bodies possess genuine causal power; God is the sole cause. Cordemoy's global occasionalism was also distinctive for combining Descartes' physics with atomism—a combination Descartes himself would have rejected.
+**Géraud de Cordemoy** (1626–1684) went further. In *Le discernement du corps et de l'âme* (1666), he argued that we never observe a causal connection between volitions and bodily actions—only temporal succession. Heartbeat, digestion, and other bodily processes proceed without our willing them. Paralysed persons will bodily movement that never occurs. Neither minds nor bodies possess genuine causal power; God is the sole cause. Cordemoy's global occasionalism was also distinctive for combining Descartes' physics with atomism—a combination Descartes himself would have rejected.
 
 **Nicolas Malebranche** (1638–1715) built the most systematic version. In *De la recherche de la vérité* (1674–75), he developed a comprehensive occasionalism: God is the only true cause in nature. When a mind wills bodily movement, God moves the body on the occasion of that volition. When light strikes an eye, God produces the corresponding sensation in the mind. Even billiard balls do not truly cause each other to move—God moves the second on the occasion of the first's impact. Malebranche argued that this was the only consistent reading of Cartesian metaphysics: since mind and body share no properties, no created substance can causally affect any other.
 
@@ -69,17 +71,24 @@ Other thinkers concluded that the interaction problem refuted dualism itself.
 
 **Margaret Cavendish** (c. 1623–1673) developed a vitalist materialism in her *Philosophical Letters* (1664) and *Observations upon Experimental Philosophy* (1666). Her argument was direct: causes must have something in common with their effects. Since Cartesian mind and body share nothing, they cannot interact. Rather than positing a mysterious bridge, Cavendish concluded that all matter is self-moving and thinking. The interaction problem dissolves because there is no inert matter requiring a separate mind to animate it.
 
+## Pre-Established Harmony: Leibniz's Avoidance
+
+**Gottfried Wilhelm Leibniz** (1646–1716) proposed the most elegant sidestep. In the *Monadology* (1714) and the *New System of Nature* (1695), he argued that mind and body never interact at all. God arranged at creation a perfect correspondence between mental and physical sequences—like two clocks synchronised at the start and running in parallel forever after. When I decide to raise my arm, my body raises it—not because the decision caused the motion, but because God pre-coordinated both series from the beginning.
+
+Pre-established harmony preserved [[dualism]]'s distinction between mind and body while avoiding the interaction problem entirely. But the cost was high: [[mental-causation|mental causation]] became an illusion. The mind never moves the body; it only appears to. Leibniz's proposal thus shared a structural problem with occasionalism—both denied that minds genuinely cause physical events, differing only in whether God intervenes continuously (Malebranche) or once at creation (Leibniz).
+
 ## What the Debate Reveals
 
-The diversity of responses matters philosophically. The interaction problem did not produce a consensus—it fractured Cartesian philosophy into at least five distinct strategies:
+The diversity of responses matters philosophically. The interaction problem did not produce a consensus—it fractured Cartesian philosophy into at least six distinct strategies:
 
 1. **Global occasionalism** (Cordemoy, Malebranche): Preserve dualism by denying all creaturely causation
 2. **Partial occasionalism** (La Forge): Deny body-to-body causation while preserving mental causation
 3. **Brute-fact interactionism** (Arnauld, Régis): Accept interaction as real but inexplicable
 4. **Extended spirit** (More): Modify the concept of mind to allow spatial presence
-5. **Monism** (Spinoza, Conway, Cavendish): Reject the dualism that generates the problem
+5. **Pre-established harmony** (Leibniz): Deny interaction while preserving dualism through divine coordination
+6. **Monism** (Spinoza, Conway, Cavendish): Reject the dualism that generates the problem
 
-Each strategy conceded that Descartes had no adequate answer to Elisabeth. They disagreed about what followed. The occasionalists kept both substances but sacrificed creaturely causation. More kept causation but sacrificed the immateriality of spirit. The monists kept causal intelligibility but sacrificed the distinctness of mind from matter.
+Each strategy conceded that Descartes had no adequate answer to Elisabeth. They disagreed about what followed. The occasionalists and Leibniz kept both substances but sacrificed creaturely causation. More kept causation but sacrificed the immateriality of spirit. The monists kept causal intelligibility but sacrificed the distinctness of mind from matter.
 
 No seventeenth-century thinker found a way to preserve all three commitments: genuine dualism, genuine creaturely causation, and causal intelligibility. That combination had to wait for developments in physics that none of them could have anticipated.
 
@@ -87,11 +96,11 @@ No seventeenth-century thinker found a way to preserve all three commitments: ge
 
 The Unfinishable Map's [[tenets]] represent a position that the seventeenth-century debate could not reach—not because those thinkers lacked philosophical sophistication, but because the physics they had available forced impossible choices.
 
-The **Minimal Quantum Interaction** tenet proposes what the occasionalists denied and the brute-fact interactionists could not explain: a specific, intelligible mechanism for mind-body causation. Consciousness biases otherwise indeterminate quantum outcomes without injecting energy. This is creaturely causation (contra Malebranche), operating through a comprehensible physical interface (contra Régis's appeal to faith), and preserving genuine dualism (contra the monists).
+The **Minimal Quantum Interaction** tenet proposes what the occasionalists and Leibniz denied and the brute-fact interactionists could not explain: a specific, intelligible mechanism for mind-body causation. Consciousness biases otherwise indeterminate quantum outcomes without injecting energy. This is creaturely causation (contra Malebranche), operating through a comprehensible physical interface (contra Régis's appeal to faith), and preserving genuine dualism (contra the monists).
 
 The **Bidirectional Interaction** tenet takes Elisabeth's side of the argument—mind really does causally affect body—while learning from More's insight that the interface must be localised. The Map does not give consciousness spatial extension in More's sense, but it does locate the interaction at specific physical sites: quantum indeterminacies in neural systems.
 
-The seventeenth-century occasionalists identified something the Map takes seriously: the difficulty of explaining how fundamentally different kinds of thing interact. The Map agrees that classical mechanics, with its contact causation and deterministic trajectories, leaves no room for non-physical influence. The disagreement is about the consequence. Malebranche concluded that creaturely causation is impossible. The Map holds that quantum mechanics reveals a domain where physics is genuinely incomplete—where outcomes are undetermined and consciousness can participate in determining them without violating any conservation law.
+The seventeenth-century occasionalists identified something the Map takes seriously: the difficulty of explaining how fundamentally different kinds of thing interact. The Map agrees that classical mechanics, with its contact causation and deterministic trajectories, leaves no room for non-physical influence—the basis for the modern [[causal-closure]] argument. The disagreement is about the consequence. Malebranche concluded that creaturely causation is impossible. The Map holds that quantum mechanics reveals a domain where, on the standard (non-Many-Worlds) interpretation, physics is genuinely incomplete—where outcomes are undetermined and consciousness can participate in determining them without violating any conservation law.
 
 The monist responses remain a live challenge. If Spinoza or Conway is right that mind and body are aspects of a single substance, then the interaction problem never arises. The Map's commitment to dualism rests on the [[hard-problem-of-consciousness|hard problem]]: the explanatory gap between physical description and subjective experience suggests that consciousness is not reducible to any physical description, however sophisticated. Monism dissolves the interaction problem at the cost of making this gap mysterious in a different way—if mind and body are one substance, why can we not derive phenomenal facts from physical facts?
 
@@ -116,4 +125,6 @@ The monist responses remain a live challenge. If Spinoza or Conway is right that
 - La Forge, L. de (1666). *Traité de l'esprit de l'homme*. Ed. C. Wolf (1974). Vrin.
 - Cordemoy, G. de (1666). *Le discernement du corps et de l'âme*. Paris.
 - Nadler, S. (2011). *Occasionalism: Causation Among the Cartesians*. Oxford University Press.
+- Leibniz, G. W. (1714). *Monadology*. Trans. R. Latta (1898). Oxford University Press.
+- Leibniz, G. W. (1695). "New System of the Nature and Communication of Substances." *Journal des savants*.
 - Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
