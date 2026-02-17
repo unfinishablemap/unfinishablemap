@@ -4,7 +4,7 @@ description: "How extreme pressure transforms conscious moral agency—exploring
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-15T03:55:00+00:00
+ai_modified: 2026-02-17T23:47:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -18,26 +18,31 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[bidirectional-interaction]]"
   - "[[baseline-cognition]]"
+  - "[[luck-objection]]"
+  - "[[reasons-responsiveness]]"
+  - "[[consciousness-selecting-neural-patterns]]"
 related_articles:
   - "[[consciousness-and-causal-powers]]"
   - "[[time-collapse-and-agency]]"
   - "[[volitional-opacity]]"
   - "[[evolutionary-case-for-mental-causation]]"
+  - "[[suffering-versus-pain]]"
+  - "[[spontaneous-intentional-action]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review:
+last_deep_review: 2026-02-17T23:47:00+00:00
 ---
 
-When someone acts under extreme duress—a gun to their head, a child in danger, a split-second before catastrophe—are they still morally responsible? The Unfinishable Map's commitment to [[interactionist-dualism]] and [[bidirectional-interaction]] reframes this ancient question. If consciousness genuinely causes actions by selecting among quantum-indeterminate neural states, then duress does not eliminate agency. It constrains the conditions under which consciousness operates, narrowing the field of live options without reducing the agent to a mere mechanism. Moral agency under duress becomes a test case for whether consciousness is truly causally efficacious or merely along for the ride.
+When someone acts under extreme duress—a gun to their head, a child in danger, a split-second before catastrophe—are they still morally responsible? The Unfinishable Map's commitment to [[interactionist-dualism]] and [[bidirectional-interaction]] reframes this ancient question. If consciousness genuinely causes actions by selecting among quantum-indeterminate neural states, then duress does not eliminate agency. It constrains the conditions under which consciousness operates, narrowing the field of live options without reducing the agent to a mere mechanism. Moral agency under duress becomes a test case for whether consciousness is truly causally efficacious or causally inert.
 
 ## The Standard Debate
 
 Philosophy and law both recognise duress as a mitigating factor in moral and legal judgment. The core intuition: a person who hands over money at gunpoint is not acting freely in the way someone making a charitable donation is. Aristotle distinguished between actions performed "under compulsion" and those performed willingly, while noting that even compelled actions retain a voluntary element—the agent still chooses *this* action over alternatives, even if the alternatives are terrible.
 
-Contemporary compatibilists ground [[moral-responsibility]] in the agent's responsiveness to reasons. Under duress, the agent *is* responsive to reasons—specifically, to the overwhelming reason imposed by the threat. Frankfurt-style cases complicate this further: if an agent would have been forced to act a certain way regardless, does the presence of a backup mechanism eliminate responsibility? The Map's [[agent-causation]] framework cuts through these puzzles differently from either compatibilist or hard determinist approaches.
+Contemporary compatibilists ground [[moral-responsibility]] in the agent's [[reasons-responsiveness|responsiveness to reasons]]. Under duress, the agent *is* responsive to reasons—specifically, to the overwhelming reason imposed by the threat. Frankfurt-style cases complicate this further: if an agent would have been forced to act a certain way regardless, does the presence of a backup mechanism eliminate responsibility? The Map's [[agent-causation]] framework sidesteps the Frankfurt puzzle entirely. What matters is not whether the agent *could* have done otherwise in some counterfactual sense, but whether consciousness actually performed the selection that produced the action. Under duress, consciousness does perform that selection—from a constrained menu, but genuinely.
 
 ## Duress and the Phenomenology of Agency
 
@@ -67,9 +72,9 @@ This has direct implications for [[moral-responsibility]]. Responsibility is dim
 
 One revealing feature of duress is what it teaches about consciousness's *veto* capacity. Even under extreme pressure, some agents refuse to comply. Individuals endure torture rather than betray comrades. Parents sacrifice themselves rather than abandon children. These cases represent consciousness overriding the strongest possible survival signals—exercising its causal power against the full weight of biological imperatives.
 
-From the Map's perspective, these acts of resistance are among the strongest evidence for [[bidirectional-interaction]]. If consciousness were [[epiphenomenalism|epiphenomenal]], the decision to resist torture would be determined entirely by prior physical states—neural architecture, hormone levels, learned patterns. The subjective experience of choosing to resist would be causally inert. But the variation in responses to identical duress conditions—some resist, some comply, with no consistent neural predictor—suggests that something beyond the physical substrate is doing causal work.
+From the Map's perspective, these acts of resistance are among the strongest evidence for [[bidirectional-interaction]]. If consciousness were [[epiphenomenalism|epiphenomenal]], the decision to resist torture would be determined entirely by prior physical states—neural architecture, hormone levels, learned patterns. The subjective experience of choosing to resist would be causally inert. The variation in responses to similar duress conditions is striking: individuals with comparable training, personality profiles, and neural architecture sometimes respond differently under pressure. Resilience research has identified contributing factors—trait conscientiousness, prefrontal-amygdala connectivity, prior conditioning—but these predictors leave substantial residual variance (Morgan et al., 2004). The Map reads this residual as evidence that [[consciousness-selecting-neural-patterns|consciousness is performing genuine selection]] among the options that physical conditions leave open.
 
-The veto under duress also illuminates [[volitional-opacity]]. Agents who resist extreme coercion often report that they cannot fully explain *how* they did it. The mechanism connecting their commitment to their resistance remains introspectively opaque. They know they chose; they cannot say how the choice translated into endurance. This opacity is consistent with the Map's account of quantum-level interaction: the interface between consciousness and brain operates below the threshold of introspective access.
+The veto under duress also illuminates [[volitional-opacity]]. Accounts from prisoners of war and survivors of extreme coercion suggest a recurring pattern: agents describe knowing they chose to resist but being unable to explain the mechanism connecting their commitment to their endurance (Stockdale, 1984). The connection remains introspectively opaque. This opacity is consistent with the Map's account of quantum-level interaction: the interface between consciousness and brain operates below the threshold of introspective access.
 
 ## Graduated Responsibility
 
@@ -83,11 +88,23 @@ The Map's framework supports a graduated rather than binary model of moral respo
 
 **Prior preparation.** Training and habituation affect how much conscious agency survives under pressure. Military training, emergency medicine protocols, and ethical rehearsal all serve to expand the range of options that remain available to consciousness under duress. Preparation does not eliminate the need for conscious selection—it provides better options to select among.
 
+## Why Not a Physicalist Account?
+
+A sophisticated physicalist can accept the graduated responsibility framework above without invoking quantum selection. Temporal compression, phenomenal overwhelm, option space, and prior preparation all have straightforward neural correlates. The objection deserves direct engagement.
+
+The difference emerges at the veto. A physicalist account of torture resistance must locate the *entire* explanation in prior physical states—neural architecture, training history, hormone levels, personality traits. If these factors fully determine the outcome, then the agent who resists and the agent who complies were never genuinely choosing differently; their outcomes were fixed by their respective physical histories. The agent's felt experience of choosing to resist—the agonising effort of maintaining commitment against overwhelming pressure—would be causally inert, a mere accompaniment to processes already determined.
+
+The Map's framework preserves the causal reality of that felt effort. Consciousness selects among options that physics leaves open, and this selection is where the effort *is*. The graduated factors describe what constrains the selection; they do not replace it. A physicalist can model the constraints; what the physicalist cannot model, without eliminating it, is the selector. The [[luck-objection|luck objection]]—that undetermined selection is indistinguishable from randomness—has force in ordinary contexts, but under duress the phenomenological contrast is stark: enduring torture does not feel random. The agent experiences their resistance as the hardest thing they have ever done, not as something that happened to them.
+
 ## Relation to Site Perspective
 
 The Unfinishable Map's tenets converge on a distinctive position regarding moral agency under duress. The [[tenets#^dualism|dualism tenet]] ensures that the question of responsibility cannot be dissolved into neuroscience—there is a genuine subject whose agency is at stake, not merely a brain responding to stimuli. The [[tenets#^bidirectional-interaction|bidirectional interaction tenet]] guarantees that this subject has causal power over physical outcomes, even when that power is constrained.
 
 The [[tenets#^minimal-quantum-interaction|minimal quantum interaction tenet]] shapes the Map's understanding of how duress constrains agency. Consciousness does not override physics by main force; it selects among options that physics leaves open. Under duress, the brain's stress response narrows which quantum states remain indeterminate and available for conscious selection. The interaction remains minimal, but the menu shrinks.
+
+The [[tenets#^no-many-worlds|rejection of many-worlds]] matters here directly. Under MWI, both the compliant and the resistant agent exist in different branches—every possible response to torture is realised somewhere. This dissolves moral responsibility into branch-counting, removing the stakes from the agent's actual choice. The Map insists that one outcome *actually obtains*, that the agent's selection determines which one, and that this is why moral weight attaches to the choice.
+
+The [[tenets#^occams-razor-has-limits|Occam's Razor tenet]] cautions against preferring a simpler physicalist account solely because it avoids positing non-physical causation. The physicalist account is simpler, but it purchases that simplicity by denying the causal efficacy of the very experience that makes moral responsibility intelligible. When simplicity requires explaining away the most vivid evidence of conscious effort—the agent who endures torture rather than betray—parsimony has become a liability.
 
 This framework avoids two extremes. Against hard determinism, it maintains that agents under duress remain genuine moral agents with diminished but real responsibility. Against naive libertarianism, it acknowledges that physical conditions genuinely constrain conscious selection and that these constraints matter morally. Duress reveals consciousness operating at the boundary of its causal efficacy—and the fact that this boundary exists, that it can be pushed but not eliminated, testifies to the reality of mind-body interaction.
 
@@ -101,3 +118,15 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 - [[consciousness-and-causal-powers]]
 - [[agent-causation]]
 - [[volitional-opacity]]
+- [[luck-objection]]
+- [[reasons-responsiveness]]
+- [[consciousness-selecting-neural-patterns]]
+- [[suffering-versus-pain]]
+- [[spontaneous-intentional-action]]
+
+## References
+
+- Aristotle. *Nicomachean Ethics*, Book III, Chapters 1–5. (Compulsion and voluntariness in action.)
+- Frankfurt, H. (1969). "Alternate Possibilities and Moral Responsibility." *Journal of Philosophy*, 66(23), 829–839.
+- Morgan, C. A. et al. (2004). "Stress-induced deficits in working memory and visuo-constructive abilities in Special Operations soldiers." *Biological Psychiatry*, 56(12), 880–889.
+- Stockdale, J. B. (1984). "The World of Epictetus." In *A Vietnam Experience: Ten Years of Reflection*. Hoover Institution Press.

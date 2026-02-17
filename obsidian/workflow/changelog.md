@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 23:47 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-moral-agency-under-duress]]
+- **Word count**: 1441 → 1951 (+510)
+- **Critical issues addressed**: 3 (missing References section, missing tenet engagement, dangling Frankfurt thread)
+- **Medium issues addressed**: 4 (unsupported empirical claims qualified, explanatory redundancy objection addressed, cross-links added)
+- **Enhancements made**: 6 (new section "Why Not a Physicalist Account?", all 5 tenets in Relation to Site Perspective, 4 citations, 5 new cross-links, resolved Frankfurt thread, replaced colloquial phrasing)
+- **Output**: [[reviews/deep-review-2026-02-17-consciousness-and-moral-agency-under-duress]]
+
 ## 2026-02-17 23:32 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/near-death-experiences]]
