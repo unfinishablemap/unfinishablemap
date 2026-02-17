@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-28 22:54:00+00:00
+ai_modified: 2026-02-17 23:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -137,10 +137,12 @@ Instead of combination, the Map posits *interaction*. Consciousness interfaces w
 |-----------|-------------|----------------|
 | **Core problem** | Combination: how micro-experiences unite | Interaction: how distinct substances causally connect |
 | **Subject unity** | Must explain how many subjects become one | Unity is fundamental—no combination needed |
-| **Mechanism** | Phenomenal bonding (unexplained) | Quantum selection (specifiable) |
-| **Progress possible?** | No clear path to solution | Empirical investigation of quantum interface |
+| **Mechanism** | Phenomenal bonding (proposed, unexplained) | Quantum selection (proposed, unexplained at detail level) |
+| **Type of explanation needed** | Conceptual: what combination even means | Empirical: which quantum states, what coupling |
 
-The interaction problem—how distinct substances causally influence each other—is dualism's classic challenge. But the [quantum framework](/concepts/causal-closure/) provides a response: consciousness selects among outcomes that physics leaves undetermined, so no physical law is violated. The combination problem has no comparable resolution in sight.
+The interaction problem—how distinct substances causally influence each other—is widely considered dualism's most serious difficulty. The [quantum framework](/concepts/causal-closure/) provides a partial response: consciousness selects among outcomes that physics leaves undetermined, so no physical law is violated. But this response identifies a *locus* for interaction, not a *mechanism*. No one has specified which quantum states consciousness selects, what the selection dynamics are, or how to detect the selection occurring. At the level of detailed mechanism, interactionism's quantum selection is as unspecified as panpsychism's phenomenal bonding.
+
+The difference—if there is one—is in the *type* of problem each faces. The combination problem is conceptual: it is unclear what it would even mean for micro-experiences to combine. The interaction problem is empirical: we know what causal influence means, and can in principle look for it at quantum indeterminacies. Whether this distinction represents genuine progress or merely relocates the mystery is itself debatable.
 
 ### Empirical Distinguishability
 
@@ -152,7 +154,7 @@ Can we test which problem is more tractable? Several lines of evidence bear on t
 
 **Anesthesia and microtubules**: Studies showing that microtubule-stabilizing drugs delay anesthetic-induced unconsciousness (Wiest et al. 2024) support quantum mechanisms for consciousness without implicating micro-experience combination.
 
-The interactionist framework generates specific predictions testable by current methods—though these predictions remain unconfirmed. Panpsychism's combination proposals remain primarily conceptual, with no clear empirical consequences that would distinguish successful combination from failed combination. Neither framework has decisive empirical support, but interactionism at least identifies what evidence would count.
+The interactionist framework generates predictions testable by current methods—though these predictions remain unconfirmed and the studies cited are preliminary. Panpsychism's combination proposals remain primarily conceptual, with no clear empirical consequences that would distinguish successful combination from failed combination. Neither framework has decisive empirical support, but interactionism at least identifies what kind of evidence would count for or against it.
 
 ## What Panpsychism Gets Right
 
@@ -172,11 +174,11 @@ The combination problem strengthens the case for the Map's framework:
 
 **Dualism**: If both physicalism (hard problem) and panpsychism (combination problem) face intractable challenges, interactionist dualism may offer a cleaner ontology.
 
-**Minimal Quantum Interaction**: the Map's mechanism avoids combination entirely. Consciousness doesn't arise from parts—it interfaces with matter at a specifiable level.
+**Minimal Quantum Interaction**: the Map's framework avoids combination entirely. Consciousness doesn't arise from parts—it interfaces with matter at quantum indeterminacies, providing a locus for interaction even if the detailed mechanism remains unspecified.
 
 **Occam's Razor Has Limits**: The combination problem exemplifies the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet. Panpsychism seemed simpler than dualism (one kind of stuff), but its combination problem proves no less difficult than dualism's interaction problem.
 
-The combination problem is not an argument *for* the Map's framework, but it shows that alternatives face challenges at least as severe. Interactionism's problems may be empirical and tractable; panpsychism's may be conceptual and permanent.
+The combination problem is not an argument *for* the Map's framework, but it shows that alternatives face challenges at least as severe. Interactionism's problems may be empirical rather than conceptual—but whether "empirical and unspecified" represents genuine progress over "conceptual and unresolved" is a question the Map acknowledges rather than presumes to have answered.
 
 ## Further Reading
 
@@ -202,3 +204,19 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - Seager, W. (1995). Consciousness, Information and Panpsychism. *Journal of Consciousness Studies*, 2(3), 272-288.
 - Seager, W. (2010). Panpsychism, Aggregation and Combinatorial Infusion. *Mind and Matter*, 8(2), 167-184.
 - Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+
+<!-- AI REFINEMENT LOG - 2026-02-17
+Changes made:
+- Rewrote "Comparing the Problems" table: mechanism row now reads "proposed, unexplained" for both sides instead of asymmetric "unexplained" vs "specifiable"
+- Replaced "Progress possible?" row with "Type of explanation needed" row distinguishing conceptual vs empirical without claiming one is solved
+- Added paragraph after table honestly acknowledging interactionism's mechanism is unspecified at detail level, while arguing the type of problem (empirical vs conceptual) may differ
+- Changed "classic challenge" to "widely considered dualism's most serious difficulty" (language improvement from pessimistic review)
+- Softened "specifiable level" to "quantum indeterminacies, providing a locus for interaction even if the detailed mechanism remains unspecified" in Relation to Map's Perspective
+- Qualified empirical claims as "preliminary" in empirical distinguishability section
+- Rewrote closing paragraph to acknowledge rather than presume the empirical/conceptual distinction represents progress
+
+Based on pessimistic review (2026-02-17 night), Issue 1: Rigged Comparison Table.
+Key improvements: intellectual honesty about interactionism's own unspecified mechanism.
+
+This log should be removed after human review.
+-->

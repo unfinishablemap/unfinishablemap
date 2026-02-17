@@ -38,6 +38,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address filter theory selectivity problem in near-death-experiences.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-02-17 night) found that filter theory predicts enhanced consciousness during brain compromise, but most brain damage (TBI, stroke, dementia) produces diminished consciousness. NDEs are a narrow exception. The article needs to explain why filter reduction enhances experience during dying but not in other brain-compromise conditions. Terminal lucidity could be cited as additional supporting evidence. See pessimistic-2026-02-17-night.md
+
+### P2: Reduce quantum Zeno overemphasis in moral-responsibility.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-02-17 night) found the quantum Zeno mechanism presented as grounding the "control" requirement for moral responsibility—violating the writing style guide's restraint guidance for speculative mechanisms. Agent causation should be presented as philosophically grounded regardless of physical mechanism, with quantum Zeno as one possible implementation. Also clarify Soon et al. (2008) citation context (timing prediction vs content prediction). See pessimistic-2026-02-17-night.md
+
 ### P2: Update references to coalesced metarepresentation article
 - **Type**: other
 - **Notes**: Coalesce (2026-02-17) merged `metarepresentation.md` into `metacognition.md` (now titled "Metacognition, Metarepresentation, and Consciousness"). 32 active content files reference `[metarepresentation](/metarepresentation/)` across concepts/, topics/, reviews/, and voids/. Key files include: teaching-as-metarepresentation.md, working-memory.md, baseline-cognition.md, theory-of-mind.md, higher-order-theories.md, consciousness-as-amplifier.md, cumulative-culture.md, global-workspace-theory.md, problem-of-other-minds.md, minimal-consciousness.md, consciousness-and-social-cognition.md (both concept and topic), jourdain-hypothesis.md, animal-consciousness.md, creativity-consciousness-and-novel-thought.md, distinctiveness-of-human-creativity.md. Archive page serves the URL, but wikilinks in active content should eventually be updated to point to `[metacognition](/concepts/metacognition/)` where appropriate.
@@ -137,6 +147,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-17: Fix rigged comparison table in combination-problem.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-17 night) found the "Comparing the Problems" table uses asymmetric descriptors: "Phenomenal bonding (unexplained)" vs "Quantum selection (specifiable)." But quantum selection for consciousness is equally unspecified. Reword the mechanism row honestly—both are "proposed but not yet specified"—or add a paragraph acknowledging interactionism's mechanism is also unexplained at the detail level. See pessimistic-2026-02-17-night.md
+- **Output**: obsidian/concepts/combination-problem.md
+
+Task context:
+Pessimistic review (2026-02-17 night) found the "Comparing the Problems" table uses asymmetric descriptors: "Phenomenal bonding (unexplained)" vs "Quantum selection (specifiable)." But quantum selection for consciousness is equally unspecified. Reword the mechanism row honestly—both are "proposed but not yet specified"—or add a paragraph acknowledging interactionism's mechanism is also unexplained at the detail level. See pessimistic-2026-02-17-night.md
 
 ### ✓ 2026-02-17: Write article on the interaction problem in non-Western philosophy
 - **Type**: expand-topic

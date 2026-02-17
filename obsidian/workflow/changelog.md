@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 23:32 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/near-death-experiences]]
+- **Changes**: Added terminal lucidity subsection with Nahm/Greyson/Batthyány research; added asymmetry problem subsection addressing why most brain damage diminishes consciousness while NDEs enhance it; added honest concession that this remains a genuine tension for filter theory; 5 new references
+- **Trigger**: Pessimistic review (2026-02-17 night) Issue 2: Filter theory asymmetry
+- **Published**: yes
+
 ## 2026-02-17 23:17 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/combination-problem]]

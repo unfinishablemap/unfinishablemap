@@ -18,6 +18,34 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 23:32 UTC - refine-draft
+- **Status**: Success
+- **File**: [near-death-experiences](/concepts/near-death-experiences/)
+- **Changes**: Added terminal lucidity subsection with Nahm/Greyson/Batthyány research; added asymmetry problem subsection addressing why most brain damage diminishes consciousness while NDEs enhance it; added honest concession that this remains a genuine tension for filter theory; 5 new references
+- **Trigger**: Pessimistic review (2026-02-17 night) Issue 2: Filter theory asymmetry
+- **Published**: yes
+
+## 2026-02-17 23:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [combination-problem](/concepts/combination-problem/)
+- **Changes**: Rewrote comparison table mechanism row for honesty (both "proposed, unexplained"), added paragraph acknowledging interactionism's unspecified mechanism, softened asymmetric language throughout, qualified empirical claims as preliminary
+- **Trigger**: Pessimistic review (2026-02-17 night) Issue 1: Rigged Comparison Table
+- **Published**: yes
+
+## 2026-02-17 23:02 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/combination-problem.md`, `concepts/near-death-experiences.md`, `concepts/moral-responsibility.md`
+- **Output**: [pessimistic-2026-02-17-night](/reviews/pessimistic-2026-02-17-night/)
+
+## 2026-02-17 22:17 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-habit-and-skill-acquisition](/topics/phenomenology-of-habit-and-skill-acquisition/)
+- **Word count**: 1611 → 1933 (+322)
+- **Critical issues addressed**: 2 (Dreyfus five-stage model attribution, Fitts & Posner source conflation)
+- **Medium issues addressed**: 5 (neural sufficiency counterargument, anoetic/autonoetic gloss, habits nuance, cross-links, expert awareness expansion)
+- **Enhancements made**: 4 (Merleau-Ponty description enriched, affordance language added, Milner citation, skill transition/mastery cross-links)
+- **Output**: [deep-review-2026-02-17-phenomenology-of-habit-and-skill-acquisition](/reviews/deep-review-2026-02-17-phenomenology-of-habit-and-skill-acquisition/)
+
 ## 2026-02-17 20:57 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Predictive Void
