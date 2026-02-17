@@ -57,7 +57,7 @@ topics: []
 - Added epistemological caveat to contemplative evidence section
 
 ### Cross-links Preserved
-- [metarepresentation](/concepts/metarepresentation/) — Core conceptual connection
+- [metarepresentation](/metarepresentation/) — Core conceptual connection
 - [illusionism](/concepts/illusionism/) — Logical extreme of HOT
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Parallel physicalist strategy
 - [mental-causation](/concepts/mental-causation/) — Where classical framing fails

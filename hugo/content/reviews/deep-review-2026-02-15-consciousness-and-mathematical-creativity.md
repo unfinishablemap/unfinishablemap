@@ -78,7 +78,7 @@ topics: []
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)
 - [incompleteness-void](/voids/incompleteness-void/)
 - [illusionism](/concepts/illusionism/)
-- [metarepresentation](/concepts/metarepresentation/) (frontmatter)
+- [metarepresentation](/metarepresentation/) (frontmatter)
 
 ## Remaining Items
 

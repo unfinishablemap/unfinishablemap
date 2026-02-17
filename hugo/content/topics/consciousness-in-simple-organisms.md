@@ -119,7 +119,7 @@ If baseline cognition marks what neural systems achieve without consciousness, a
 
 ## The Three-Level Metarepresentational Framework
 
-The [metarepresentation literature](/concepts/metarepresentation/) distinguishes three nested levels of representation:
+The [metarepresentation literature](/metarepresentation/) distinguishes three nested levels of representation:
 
 1. **First-order representation**: Representing the world (e.g., knowing there's food nearby)
 2. **Second-order representation**: Representing your first-order representations (e.g., uncertainty monitoring, strategic information-seeking)
@@ -239,7 +239,7 @@ The Map rejects MWI partly because it undermines the [haecceity](/concepts/haecc
 
 ### Core Concepts
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness and why great apes mark the boundary
-- [metarepresentation](/concepts/metarepresentation/) — Why representing representations may require consciousness
+- [metarepresentation](/metarepresentation/) — Why representing representations may require consciousness
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The baseline cognition hypothesis and what consciousness adds
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When did consciousness first emerge?
 - [animal-consciousness](/topics/animal-consciousness/) — Survey of consciousness across species

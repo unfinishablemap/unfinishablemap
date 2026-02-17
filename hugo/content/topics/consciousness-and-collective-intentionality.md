@@ -52,7 +52,7 @@ Why should collective intentionality require phenomenal consciousness? The argum
 
 ### Understanding, Not Just Tracking
 
-Collective intentionality requires that participants understand the joint activity *as* joint. This is [metarepresentational](/concepts/metarepresentation/): you must represent the shared goal *as* shared, represent the other's commitment *as* a commitment, and represent your own role *as* a role in something larger. The "as" in each case marks where mere information processing becomes genuine understanding.
+Collective intentionality requires that participants understand the joint activity *as* joint. This is [metarepresentational](/metarepresentation/): you must represent the shared goal *as* shared, represent the other's commitment *as* a commitment, and represent your own role *as* a role in something larger. The "as" in each case marks where mere information processing becomes genuine understanding.
 
 Consider what representing a promise involves. When someone promises to help you move house, you do not merely update a probability estimate about their future behaviour. You represent them as having *committed* themselves — as having placed themselves under an obligation they recognise and that you both understand binds them. This representation involves grasping [intentional states](/concepts/intentionality/) — beliefs, commitments, obligations — *as* intentional states with normative force.
 
@@ -98,7 +98,7 @@ Between one and three years, children develop shared intentionality: participati
 
 Great apes show limited evidence of these capacities. They coordinate behaviour — hunting in loose groups, travelling together, sharing some activities. But the recursive mutual awareness that characterises human joint attention, the complementary role structure of shared activities, and the normative enforcement that holds participants accountable all appear diminished or absent.
 
-The developmental trajectory suggests that collective intentionality builds on capacities the Map associates with phenomenal consciousness: [metarepresentation](/concepts/metarepresentation/), recursive [mindreading](/concepts/theory-of-mind/), and normative sensitivity. The nine-month milestone coincides with what developmental researchers describe as the emergence of shared experience — the infant's dawning awareness that others have perspectives that can be aligned with or differ from their own.
+The developmental trajectory suggests that collective intentionality builds on capacities the Map associates with phenomenal consciousness: [metarepresentation](/metarepresentation/), recursive [mindreading](/concepts/theory-of-mind/), and normative sensitivity. The nine-month milestone coincides with what developmental researchers describe as the emergence of shared experience — the infant's dawning awareness that others have perspectives that can be aligned with or differ from their own.
 
 ## Institutional Reality as a Test Case
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-06 12:21:00+00:00
+ai_modified: 2026-02-17 05:27:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,7 @@ concepts:
 - '[[introspection]]'
 - '[[decoherence]]'
 - '[[buddhism-and-dualism]]'
+- '[[measurement-problem]]'
 created: 2026-01-08
 date: &id001 2026-01-20
 description: What makes you *you* across time? The Map emphasizes indexical identity—*this*
@@ -100,7 +101,7 @@ This doesn't prove haecceity with certainty. But it shifts the burden: anti-haec
 
 Crucially, haecceity does not require a permanent soul-substance. [Process haecceitism](/topics/eastern-philosophy-consciousness/) shows that particularity can apply to experiential *streams*—*this* series of conscious moments is distinct from *that* series, even without a permanent substrate underlying either. Buddhist contemplatives who deconstruct the self continue to experience as particular beings; the particularity survives the dissolution of substance.
 
-This connects to quantum selection. If consciousness influences which quantum outcomes occur, then *which* consciousness does the selecting matters. A teletransporter replica wouldn't be the consciousness that was making selections—even if psychologically identical. Many-worlds eliminates this role entirely: everything happens in some branch, so there's nothing for consciousness to select.
+This connects to quantum selection. If consciousness influences which quantum outcomes occur, then *which* consciousness does the selecting matters. A teletransporter replica wouldn't be the consciousness that was making selections—even if psychologically identical. Many-worlds eliminates this role entirely: everything happens in some branch, so there's nothing for consciousness to select. (A caveat: consciousness-selection within Born probabilities is empirically indistinguishable from random collapse—see [measurement-problem](/concepts/measurement-problem/). The conceptual point about individuation holds regardless: if *any* non-physical selection occurs, the selector's identity matters.)
 
 ### The Dualism Connection
 
@@ -196,7 +197,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 
 **[Dualism](/tenets/#dualism)**: If consciousness is irreducible to physical processes, personal identity cannot be purely physical or functional. A zombie duplicate would share all physical and functional properties but lack consciousness—and therefore lack *your* identity. This shows that identity involves something non-physical: *this* conscious perspective.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: the Map's proposed mechanism for consciousness-matter interaction has implications for identity. If *this* consciousness makes *these* quantum selections, the selecting consciousness has a unique causal history. A replica's consciousness would begin a new history from its moment of creation—making it a new agent, not you continued. The [decoherence challenge](/concepts/decoherence/) complicates but doesn't eliminate this picture.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: the Map's proposed mechanism for consciousness-matter interaction has implications for identity. If *this* consciousness makes *these* quantum selections, the selecting consciousness has a unique causal history. A replica's consciousness would begin a new history from its moment of creation—making it a new agent, not you continued. The [decoherence challenge](/concepts/decoherence/) complicates but doesn't eliminate this picture. However, as the [measurement-problem](/concepts/measurement-problem/) article acknowledges, consciousness-selection within Born probabilities is empirically indistinguishable from random collapse—the quantum mechanism is a philosophical framework, not a testable hypothesis. The identity argument doesn't depend on quantum mechanics specifically: any non-physical causal contribution would individuate consciousness through its unique history.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Your consciousness doesn't merely observe physical processes—it influences them. This gives your conscious history causal efficacy. The choices you've made, the selections you've performed, constitute *your* life in a way that couldn't be transferred to a replica. Even a perfect copy would be starting its causal contribution from scratch.
 
@@ -234,3 +235,15 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Stanford Encyclopedia of Philosophy: Personal Identity and Ethics. https://plato.stanford.edu/entries/identity-ethics/
+
+<!-- AI REFINEMENT LOG - 2026-02-17
+Changes made:
+- Added unfalsifiability caveat to quantum selection paragraph in "Arguing for Haecceity" section, noting consciousness-selection is empirically indistinguishable from random collapse per measurement-problem article, while clarifying the individuation argument holds regardless
+- Added unfalsifiability caveat to Minimal Quantum Interaction section in Relation to Site Perspective, clarifying the quantum mechanism is philosophical rather than testable, and the identity argument doesn't depend on quantum mechanics specifically
+- Added measurement-problem to concepts frontmatter
+
+Based on pessimistic review pessimistic-2026-02-17.md (Issue 1: Cross-Article Unfalsifiability Leak).
+Key improvements: honest propagation of measurement-problem article's own unfalsifiability admission to quantum mechanism references.
+
+This log should be removed after human review.
+-->

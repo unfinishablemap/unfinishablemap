@@ -84,7 +84,7 @@ Where does minimal consciousness begin? This is the [distribution problem](/topi
 
 ## Metarepresentation and Minimal Consciousness
 
-A key distinction: [metarepresentation](/concepts/metarepresentation/) (representing one's representations as representations) likely requires more than minimal consciousness. But minimal consciousness may suffice for:
+A key distinction: [metarepresentation](/metarepresentation/) (representing one's representations as representations) likely requires more than minimal consciousness. But minimal consciousness may suffice for:
 
 - **First-order representation**: Experiencing the world directly
 - **Second-order states**: Adjusting responses based on one's own states (habituation, sensitisation)
@@ -143,7 +143,7 @@ The concept matters for several reasons:
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences might combine
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A theory that implies widespread minimal consciousness
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative access to awareness without content
-- [metarepresentation](/concepts/metarepresentation/) — The capacity minimal consciousness may lack
+- [metarepresentation](/metarepresentation/) — The capacity minimal consciousness may lack
 - [explanatory-gap](/concepts/explanatory-gap/) — Why we cannot determine consciousness presence from structure
 
 ## References

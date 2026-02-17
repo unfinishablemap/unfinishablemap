@@ -40,7 +40,7 @@ topics:
 
 Consciousness enables a form of creativity that escapes the constraints of [baseline cognition](/concepts/baseline-cognition/). Great apes innovate within what Tomasello calls the "zone of latent solutions"—recombinations accessible through trial-and-error exploration of existing cognitive resources. Humans generate genuinely novel combinations by explicitly representing problems, considering multiple approaches simultaneously, and systematically modifying existing methods. This creative leap requires the kind of global information integration that [only conscious processing provides](/concepts/conscious-vs-unconscious-processing/).
 
-The difference is not merely quantitative. Apes can discover uses for tools their species hasn't discovered before, but only when those uses are reachable by incremental exploration without transcending current representations. Human creativity changes the representation itself—what Margaret Boden calls "transformational creativity." This requires [metarepresentation](/concepts/metarepresentation/): taking your existing solutions as objects of thought to evaluate, critique, and fundamentally revise.
+The difference is not merely quantitative. Apes can discover uses for tools their species hasn't discovered before, but only when those uses are reachable by incremental exploration without transcending current representations. Human creativity changes the representation itself—what Margaret Boden calls "transformational creativity." This requires [metarepresentation](/metarepresentation/): taking your existing solutions as objects of thought to evaluate, critique, and fundamentally revise.
 
 ## The Zone of Latent Solutions
 
@@ -110,7 +110,7 @@ Great apes show no transformational creativity. Their innovations stay within es
 
 ## Why Metarepresentation Requires Consciousness
 
-[Metarepresentation](/concepts/metarepresentation/)—representing your own representations as objects of thought—seems necessary for escaping the zone. But why should metarepresentation require consciousness?
+[Metarepresentation](/metarepresentation/)—representing your own representations as objects of thought—seems necessary for escaping the zone. But why should metarepresentation require consciousness?
 
 The [maintenance/manipulation distinction](/concepts/working-memory/#the-maintenancemanipulation-distinction) is key. Maintaining information can proceed unconsciously (activity-silent short-term memory). But *manipulating* information—using it flexibly—requires conscious reactivation. Metarepresentation is manipulation of mental states: taking your beliefs and methods as objects of thought to evaluate and modify.
 
@@ -198,7 +198,7 @@ None of these conditions currently obtains.
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis in consciousness studies
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
-- [metarepresentation](/concepts/metarepresentation/) — The capacity to represent representations
+- [metarepresentation](/metarepresentation/) — The capacity to represent representations
 - [cumulative-culture](/concepts/cumulative-culture/) — Cultural ratcheting and why it requires metarepresentation
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Imagining non-actual states
 - [working-memory](/concepts/working-memory/) — The workspace where combination occurs

@@ -35,7 +35,7 @@ topics:
 - '[[ai-consciousness]]'
 ---
 
-Theory of mind is the capacity to attribute mental states—beliefs, desires, intentions, knowledge—to others and to understand that these states may differ from one's own. The Unfinishable Map argues that theory of mind admits of levels, and that the higher levels require phenomenal consciousness. Great apes possess impressive social cognition at lower levels (tracking what others see, predicting behaviour from goals) but appear limited at higher levels (recursive mindreading, understanding false beliefs as mental representations). This gap tracks the consciousness-dependent capacity for [metarepresentation](/concepts/metarepresentation/)—representing mental states *as* mental states rather than merely responding to behavioural cues.
+Theory of mind is the capacity to attribute mental states—beliefs, desires, intentions, knowledge—to others and to understand that these states may differ from one's own. The Unfinishable Map argues that theory of mind admits of levels, and that the higher levels require phenomenal consciousness. Great apes possess impressive social cognition at lower levels (tracking what others see, predicting behaviour from goals) but appear limited at higher levels (recursive mindreading, understanding false beliefs as mental representations). This gap tracks the consciousness-dependent capacity for [metarepresentation](/metarepresentation/)—representing mental states *as* mental states rather than merely responding to behavioural cues.
 
 ## The Levels of Theory of Mind
 
@@ -71,7 +71,7 @@ Humans readily engage in fourth-order attribution ("I know that you know that I 
 
 ## The Metarepresentational Threshold
 
-The central claim: Levels 0-1 may operate within [baseline-cognition](/concepts/baseline-cognition/) without requiring phenomenal consciousness. Level 2 is transitional—perhaps achievable through sophisticated implicit tracking, perhaps requiring something more. Level 3 unambiguously requires [metarepresentation](/concepts/metarepresentation/)—and metarepresentation appears to require consciousness.
+The central claim: Levels 0-1 may operate within [baseline-cognition](/concepts/baseline-cognition/) without requiring phenomenal consciousness. Level 2 is transitional—perhaps achievable through sophisticated implicit tracking, perhaps requiring something more. Level 3 unambiguously requires [metarepresentation](/metarepresentation/)—and metarepresentation appears to require consciousness.
 
 Why should metarepresentation require consciousness?
 
@@ -208,7 +208,7 @@ The simpler hypothesis—theory of mind is just sophisticated behaviour predicti
 ## Further Reading
 
 ### Core Concepts
-- [metarepresentation](/concepts/metarepresentation/) — Why representing minds *as* minds requires consciousness
+- [metarepresentation](/metarepresentation/) — Why representing minds *as* minds requires consciousness
 - [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/) — Extended analysis of the consciousness-social cognition relationship
 - [baseline-cognition](/concepts/baseline-cognition/) — The cognitive floor from which consciousness amplifies social abilities
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them

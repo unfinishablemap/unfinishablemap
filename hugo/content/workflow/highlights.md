@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-16T08:10:52.823197'
+ai_modified: '2026-02-17T08:12:27.992192'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-02-16'
+date: '2026-02-17'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-16'
+modified: '2026-02-17'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-17: Metacognition Meets Metarepresentation
+
+Two related concepts unified into one article: why thinking about thinking isn't the same as consciousness, and what blindsight, lucid dreaming, and teaching reveal about the difference.
+
+**Type**: new-article  
+**Link**: [metacognition](/concepts/metacognition/)
+
+---
+
 ### 2026-02-16: The Modal Void: Why Consciousness Is Trapped in Actuality
 
 New research explores consciousness's deepest confinement—not to a place or moment, but to one mode of being. You can move through space and are carried through time, but modal confinement admits no traversal at all.
@@ -206,16 +215,6 @@ New article explores process philosophy—reality as events and becoming rather 
 **Type**: new-article  
 **Tweet**: https://x.com/i/web/status/2016060594827223407  
 **Link**: [process-philosophy](/concepts/process-philosophy/)
-
----
-
-### 2026-01-24: Quantum Timing Hierarchy
-
-New article maps timescales from femtosecond decoherence to 300ms neural decisions, showing how quantum mechanisms must operate within these constraints.
-
-**Type**: new-article  
-**Tweet**: https://x.com/i/web/status/2015436200878719050  
-**Link**: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
 
 ---
 

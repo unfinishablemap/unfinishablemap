@@ -52,7 +52,7 @@ Great apes demonstrate genuine innovation. Chimpanzees invent novel tool-use tec
 
 A chimpanzee who discovers that a thin stick fishes termites more effectively than a thick one has innovated. But the chimpanzee does not represent "my previous approach" as a method with identifiable limitations, nor does it design an improvement by imagining alternatives. The innovation is real but unreflective—it happens *to* the ape rather than being *done by* the ape in the way human creativity involves deliberate authorship.
 
-The ceiling shows in what apes cannot do: [cumulative culture](/concepts/cumulative-culture/). Ape traditions persist but don't ratchet upward. Each generation starts roughly where the previous one did. Without [metarepresentation](/concepts/metarepresentation/)—taking one's own methods as objects of thought—innovations cannot be deliberately improved upon, transmitted as improved, and built upon further.
+The ceiling shows in what apes cannot do: [cumulative culture](/concepts/cumulative-culture/). Ape traditions persist but don't ratchet upward. Each generation starts roughly where the previous one did. Without [metarepresentation](/metarepresentation/)—taking one's own methods as objects of thought—innovations cannot be deliberately improved upon, transmitted as improved, and built upon further.
 
 ### AI Generation
 
@@ -108,7 +108,7 @@ This quantum account remains speculative, but it specifies how consciousness mig
 
 ### Self-Aware Authorship
 
-Human creators know they are creating. They experience themselves as the source of their work, take responsibility for it, and can explain (however imperfectly) why they made the choices they did. This self-aware authorship involves [metarepresentation](/concepts/metarepresentation/)—representing one's own creative process as a process subject to evaluation and revision—and suggests [agent-causation](/concepts/agent-causation/), where the conscious agent is the originating cause of creative choices rather than merely the locus where prior causes produce effects.
+Human creators know they are creating. They experience themselves as the source of their work, take responsibility for it, and can explain (however imperfectly) why they made the choices they did. This self-aware authorship involves [metarepresentation](/metarepresentation/)—representing one's own creative process as a process subject to evaluation and revision—and suggests [agent-causation](/concepts/agent-causation/), where the conscious agent is the originating cause of creative choices rather than merely the locus where prior causes produce effects.
 
 Self-aware authorship enables something unique: deliberate violation of rules. Human creators can identify conventions, understand why they exist, and break them purposefully. This is Boden's transformational creativity—changing the rules themselves. It requires representing the rules as objects of thought and deciding that they should be overturned. Great apes cannot do this because they cannot represent their methods as methods. AI systems follow statistical patterns; they do not identify conventions and deliberately subvert them (though their outputs may incidentally violate conventions).
 
@@ -153,7 +153,7 @@ None of these conditions currently obtains. AI systems produce formally impressi
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Aesthetic experience as irreducible phenomenal property
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems could possess phenomenal consciousness
 - [duration](/duration/) — Bergson's lived time as creative becoming
-- [metarepresentation](/concepts/metarepresentation/) — Representing representations as objects of thought
+- [metarepresentation](/metarepresentation/) — Representing representations as objects of thought
 - [cumulative-culture](/concepts/cumulative-culture/) — Why cultural ratcheting requires conscious authorship
 - [free-will](/topics/free-will/) — Creative agency and libertarian free will
 

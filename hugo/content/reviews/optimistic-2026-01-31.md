@@ -148,7 +148,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively prop
 - **Tenet alignment**: Provides evidence for consciousness states beyond normal waking
 
 #### The Teaching Threshold
-- **Builds on**: [metarepresentation](/concepts/metarepresentation/), [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/), [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/)
+- **Builds on**: [metarepresentation](/metarepresentation/), [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/), [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/)
 - **Would address**: Why humans teach and apes don't, despite sophisticated social cognition
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports baseline cognition hypothesis and consciousness's causal role

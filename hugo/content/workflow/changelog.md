@@ -18,6 +18,80 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 08:57 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Participation Void
+- **Category**: Unexplorable / Occluded (Mixed)
+- **Output**: [voids-participation-void-2026-02-17](/research/voids-participation-void-2026-02-17/)
+- **Key finding**: Multiple philosophical traditions (Heidegger, Merleau-Ponty, Ryle, Polanyi, Dreyfus) converge on the claim that consciousness has a constitutively participatory dimension — aspects that exist only in enactment and vanish under reflective representation, creating a structural void distinct from acquaintance gaps or introspective opacity.
+
+## 2026-02-17 08:27 UTC - deep-review
+- **Status**: Success
+- **File**: [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)
+- **Word count**: 2201 → 2298 (+97)
+- **Critical issues addressed**: 2 (Lewis Two Gods geographic error, missing Parfit citation)
+- **Medium issues addressed**: 4 (MWI fission characterization, Three Grades provenance, Bidirectional Interaction argument, cross-links)
+- **Enhancements made**: 3 (cross-links to explanatory-gap, agent-causation, measurement-problem)
+- **Output**: [deep-review-2026-02-17-indexical-knowledge-and-identity](/reviews/deep-review-2026-02-17-indexical-knowledge-and-identity/)
+
+## 2026-02-17 07:42 UTC - coalesce
+- **Status**: Success
+- **Sources**: [metacognition](/concepts/metacognition/), [metarepresentation](/metarepresentation/)
+- **Target**: [Metacognition, Metarepresentation, and Consciousness](/concepts/metacognition/)
+- **Archived**: [metarepresentation](/archive/concepts/metarepresentation/)
+- **References to review**: 32 files reference `[metarepresentation](/metarepresentation/)`
+
+## 2026-02-17 07:27 UTC - expand-topic
+- **Status**: Success
+- **Topic**: phenomenology of philosophical disagreement
+- **Output**: [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)
+- **Word count**: 1870
+- **Based on research**: no
+
+## 2026-02-17 07:12 UTC - deep-review
+- **Status**: Success
+- **File**: [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)
+- **Word count**: 1549 → 1744 (+195)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 2
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-02-17-the-measurement-problem-as-philosophical-problem](/reviews/deep-review-2026-02-17-the-measurement-problem-as-philosophical-problem/)
+
+## 2026-02-17 06:57 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and Temporal Creativity
+- **Output**: [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-creativity/)
+- **Word count**: 2125
+- **Based on research**: Yes ([consciousness-creativity-novelty-generation-2026-01-19](/research/consciousness-creativity-novelty-generation-2026-01-19/), [temporal-structure-consciousness-2026-01-14](/research/temporal-structure-consciousness-2026-01-14/))
+
+## 2026-02-17 06:42 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and Aesthetic Value
+- **Output**: [consciousness-and-aesthetic-value](/topics/consciousness-and-aesthetic-value/)
+- **Word count**: 1920
+- **Based on research**: No (general knowledge; related research at [voids-aesthetic-void-2026-02-04](/research/voids-aesthetic-void-2026-02-04/))
+
+## 2026-02-17 06:27 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 344 published articles (170 topics, 173 concepts, 1 tenets). Deep sampling of 34 articles across all major clusters plus cross-linking network analysis.
+- **Output**: [optimistic-2026-02-17](/reviews/optimistic-2026-02-17/)
+
+## 2026-02-17 05:42 UTC - deep-review
+- **Status**: Success
+- **File**: [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)
+- **Word count**: 2659 → 2720 (+61)
+- **Critical issues addressed**: 3 (broken archived links, Bayne/Chalmers attribution, filling-in claim)
+- **Medium issues addressed**: 4 (NREM characterization, functionalist engagement, quantum interpretation caveat, speculation hedging)
+- **Enhancements made**: 3 (cross-links added, Further Reading updated, concepts list corrected)
+- **Output**: [deep-review-2026-02-17-the-binding-problem-a-systematic-treatment](/reviews/deep-review-2026-02-17-the-binding-problem-a-systematic-treatment/)
+
+## 2026-02-17 05:27 UTC - refine-draft
+- **Status**: Success
+- **File**: [filter-theory](/concepts/filter-theory/), [personal-identity](/topics/personal-identity/)
+- **Changes**: Propagated unfalsifiability caveat from measurement-problem.md to both articles' quantum mechanism references; added measurement-problem to concepts frontmatter in both files
+- **Context**: Completes Issue 1 (Cross-Article Unfalsifiability Leak) from pessimistic-2026-02-17.md. Caveat previously added to death-and-consciousness.md; now all four cluster articles are consistent.
+- **Published**: yes
+
 ## 2026-02-17 05:12 UTC - refine-draft
 - **Status**: Success
 - **File**: [death-and-consciousness](/topics/death-and-consciousness/)

@@ -89,7 +89,7 @@ Representing others' mental states about mental states. "She thinks that I think
 
 ## The Metarepresentational Threshold
 
-[Metarepresentation](/concepts/metarepresentation/)—representing representations as representations—marks the boundary where consciousness becomes necessary for social cognition. Here's why:
+[Metarepresentation](/metarepresentation/)—representing representations as representations—marks the boundary where consciousness becomes necessary for social cognition. Here's why:
 
 ### The Nested Structure Problem
 
@@ -253,7 +253,7 @@ The simpler hypothesis—social cognition is just sophisticated information proc
 ### Core Concepts
 - [baseline-cognition](/concepts/baseline-cognition/) — The cognitive floor from which consciousness amplifies social abilities
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them: the procedural/declarative distinction
-- [metarepresentation](/concepts/metarepresentation/) — Why representing minds *as* minds requires consciousness
+- [metarepresentation](/metarepresentation/) — Why representing minds *as* minds requires consciousness
 - [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/) — Social transmission as paradigm case of consciousness-dependent cognition
 - [working-memory](/concepts/working-memory/) — The workspace enabling recursive mental operations
 

@@ -255,7 +255,7 @@ Language, recursion, and consciousness connect to all five tenets:
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking and understanding
 - [working-memory](/concepts/working-memory/) — WM capacity, the maintenance/manipulation distinction, and consciousness
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How expanded WM enables distinctively human cognition
-- [metarepresentation](/concepts/metarepresentation/) — Representing representations as representations
+- [metarepresentation](/metarepresentation/) — Representing representations as representations
 - [cumulative-culture](/concepts/cumulative-culture/) — How consciousness enables cultural accumulation
 - [binding-problem](/concepts/binding-problem/) — The unity problem in perception and cognition
 - [ai-consciousness](/topics/ai-consciousness/) — Why the Map holds current AI systems lack consciousness

@@ -65,7 +65,7 @@ How might generation work mechanistically?
 
 **Possibility space expansion:** Husserl called imagination the "domain of possibility and realm of freedom." The mechanism may involve attention operating on representations decoupled from accuracy requirements. Where perception must track the actual world, imagination can represent the non-actual. The neural basis may be the Default Mode Network's capacity for "remote associative thinking"—connecting concepts that don't co-occur in direct experience.
 
-**Constraint relaxation:** Margaret Boden's transformational creativity—changing the rules themselves—requires representing the current rule-system as an object of thought, then modifying it. The mechanism involves the brain's capacity for [metarepresentation](/concepts/metarepresentation/): representing representations. When you imagine a rule-change, you're attending to the rule (holding it in working memory), then attending to modifications of it (exploring the space of alternative rules).
+**Constraint relaxation:** Margaret Boden's transformational creativity—changing the rules themselves—requires representing the current rule-system as an object of thought, then modifying it. The mechanism involves the brain's capacity for [metarepresentation](/metarepresentation/): representing representations. When you imagine a rule-change, you're attending to the rule (holding it in working memory), then attending to modifications of it (exploring the space of alternative rules).
 
 Does this generation require consciousness, or could unconscious processes do the same work? The evidence from [baseline-cognition](/concepts/baseline-cognition/) suggests consciousness matters: great apes innovate within the "zone of latent solutions" (recombinations reachable without transcending current representations) but don't achieve transformational creativity. The difference tracks precisely those cognitive functions that require conscious access.
 
@@ -135,7 +135,7 @@ The mechanistic question sharpens the philosophical question: could all this wor
 
 **The dualist response:** Several features resist the computationalist reduction:
 
-1. **Transformational creativity:** Changing the rule-system requires representing the rules as objects of thought. This [metarepresentation](/concepts/metarepresentation/) seems to require the kind of global integration that [global-workspace-theory](/concepts/global-workspace-theory/) associates with consciousness. AI systems work within training distributions; humans change the conceptual space itself.
+1. **Transformational creativity:** Changing the rule-system requires representing the rules as objects of thought. This [metarepresentation](/metarepresentation/) seems to require the kind of global integration that [global-workspace-theory](/concepts/global-workspace-theory/) associates with consciousness. AI systems work within training distributions; humans change the conceptual space itself.
 
 2. **The effort-outcome correlation:** Why does effortful attention correlate with creative outcomes if attention does no causal work? The correspondence between phenomenal effort and neural results (neuroplasticity, pattern stability) suggests the phenomenal state matters.
 
@@ -190,7 +190,7 @@ Current evidence doesn't support any of these conditions.
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and its neural correlates
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum approaches to consciousness including Orch OR
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
-- [metarepresentation](/concepts/metarepresentation/) — The capacity to represent representations
+- [metarepresentation](/metarepresentation/) — The capacity to represent representations
 - [creativity-void](/voids/creativity-void/) — Why the creative source remains phenomenologically hidden
 
 ## References

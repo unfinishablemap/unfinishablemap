@@ -38,11 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Propagate unfalsifiability caveat to articles citing quantum mechanisms
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-17) found that measurement-problem.md honestly admits consciousness-selection is empirically indistinguishable from random collapse, but death-and-consciousness.md, filter-theory.md, and personal-identity.md invoke quantum mechanisms without propagating this caveat. Caveat added to death-and-consciousness.md (2026-02-17). Still needed in filter-theory.md and personal-identity.md. See pessimistic-2026-02-17.md
-- **Source**: pessimistic-review
+### P2: Update references to coalesced metarepresentation article
+- **Type**: other
+- **Notes**: Coalesce (2026-02-17) merged `metarepresentation.md` into `metacognition.md` (now titled "Metacognition, Metarepresentation, and Consciousness"). 32 active content files reference `[metarepresentation](/metarepresentation/)` across concepts/, topics/, reviews/, and voids/. Key files include: teaching-as-metarepresentation.md, working-memory.md, baseline-cognition.md, theory-of-mind.md, higher-order-theories.md, consciousness-as-amplifier.md, cumulative-culture.md, global-workspace-theory.md, problem-of-other-minds.md, minimal-consciousness.md, consciousness-and-social-cognition.md (both concept and topic), jourdain-hypothesis.md, animal-consciousness.md, creativity-consciousness-and-novel-thought.md, distinctiveness-of-human-creativity.md. Archive page serves the URL, but wikilinks in active content should eventually be updated to point to `[metacognition](/concepts/metacognition/)` where appropriate.
+- **Source**: coalesce
 - **Generated**: 2026-02-17
 
 ### P2: Verify Gallagher & Zahavi (2025) citation in phenomenology.md
@@ -138,6 +137,32 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-17: Write article on phenomenology of philosophical disagreement
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. If phenomenal seemings justify beliefs (phenomenal conservatism), and trained contemplatives reach contradictory conclusions, how should the Map handle deep philosophical disagreement? Epistemologically urgent for a platform that uses introspective evidence. Builds on contemplative-reliability.md, phenomenal-conservatism-and-introspective-evidence.md, phenomenology-of-belief-revision.md. See optimistic-2026-02-17.md
+- **Output**: phenomenology of philosophical disagreement
+
+### ✓ 2026-02-17: Write article on consciousness and temporal creativity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. If consciousness constitutes temporal structure through collapse, and creativity requires generating genuine novelty, then creative acts might be moments where consciousness generates new temporal structure. Unifies the Map's temporal metaphysics and creativity arguments. Builds on consciousness-and-creativity.md, time-collapse-and-agency.md, temporal-consciousness.md, process-haecceitism.md. See optimistic-2026-02-17.md
+- **Output**: consciousness and temporal creativity
+
+### ✓ 2026-02-17: Write article on consciousness and aesthetic value
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The value/emotion cluster is the Map's weakest major cluster. Aesthetic experience as evidence for consciousness's evaluative capacity bridges emotion (valence), perception (phenomenology), and value (phenomenal realism). Beauty's resistance to functional reduction parallels the hard problem. Builds on aesthetics-of-consciousness.md, emotional-consciousness.md, phenomenal-value-realism.md, consciousness-and-creativity.md. See optimistic-2026-02-17.md
+- **Output**: consciousness and aesthetic value
+
+### ✓ 2026-02-17: Propagate unfalsifiability caveat to articles citing quantum mechanisms
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-17) found that measurement-problem.md honestly admits consciousness-selection is empirically indistinguishable from random collapse, but death-and-consciousness.md, filter-theory.md, and personal-identity.md invoke quantum mechanisms without propagating this caveat. Caveat added to death-and-consciousness.md (2026-02-17). Still needed in filter-theory.md and personal-identity.md. See pessimistic-2026-02-17.md
+- **Output**: Task context:
+Pessimistic review (2026-02-17) found that measurement-problem.md honestly admits consciousness-selection is empirically indistinguishable from random collapse, but death-and-consciousness.md, filter-theory.md, and personal-identity.md invoke quantum mechanisms without propagating this caveat. Caveat added to death-and-consciousness.md (2026-02-17). Still needed in filter-theory.md and personal-identity.md. See pessimistic-2026-02-17.md
+
+### ✓ 2026-02-17: Propagate unfalsifiability caveat to filter-theory.md and personal-identity.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-17) Issue 1: measurement-problem.md admits consciousness-selection is unfalsifiable but other articles cited quantum mechanisms without caveat. Added caveats to filter-theory.md (2 locations) and personal-identity.md (2 locations), referencing measurement-problem article.
+- **Output**: obsidian/concepts/filter-theory.md, obsidian/topics/personal-identity.md
 
 ### ✓ 2026-02-17: Harmonize NDE statistics across death-and-consciousness.md and filter-theory.md
 - **Type**: refine-draft

@@ -255,7 +255,7 @@ The baseline cognition hypothesis could be undermined by:
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The complementary article on consciousness's amplifying role
 - [working-memory](/concepts/working-memory/) — The neural workspace where amplification operates
 - [metacognition](/concepts/metacognition/) — Self-monitoring as consciousness-enabled capacity
-- [metarepresentation](/concepts/metarepresentation/) — The capacity to represent representations
+- [metarepresentation](/metarepresentation/) — The capacity to represent representations
 - [cumulative-culture](/concepts/cumulative-culture/) — The ratchet effect and why it requires metarepresentation
 - [animal-consciousness](/topics/animal-consciousness/) — The broader context including evolutionary evidence
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Model organisms and the boundaries of consciousness

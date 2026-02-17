@@ -201,7 +201,7 @@ The simpler hypothesis—that all metacognition is really procedural, that the a
 ## Further Reading
 
 - [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/) — Where the procedural/declarative distinction is clearest: theory of mind levels, shared intentionality, and empathy
-- [metarepresentation](/concepts/metarepresentation/) — The capacity to represent representations as representations
+- [metarepresentation](/metarepresentation/) — The capacity to represent representations as representations
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without metarepresentation
 - [cumulative-culture](/concepts/cumulative-culture/) — Why cultural ratcheting requires the Jourdain transition
 - [metacognition](/concepts/metacognition/) — The enabling relation between consciousness and self-monitoring

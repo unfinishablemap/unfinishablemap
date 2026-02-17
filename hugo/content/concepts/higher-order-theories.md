@@ -58,7 +58,7 @@ Lycan has since retreated from HOP, now favoring attention-based accounts. But t
 
 ## The Metarepresentational Distinction
 
-[Recent analysis](/concepts/metarepresentation/) distinguishes three levels of mental representation:
+[Recent analysis](/metarepresentation/) distinguishes three levels of mental representation:
 
 1. **First-order**: Representing the world (seeing a tree)
 2. **Second-order**: Representing one's representations (believing you see a tree)
@@ -86,7 +86,7 @@ What happens when a higher-order thought targets a mental state that doesn't exi
 
 Animals and infants likely lack the metacognitive sophistication to have genuine higher-order thoughts about their mental states. Yet they seem clearly conscious. If HOT is right, we face an uncomfortable choice: deny consciousness to babies and dogs, or stretch "thought" beyond recognition.
 
-Recent defenders argue that many animals possess the relevant metacognitive capacities. But the [metarepresentational distinction](/concepts/metarepresentation/) complicates this response. Great apes demonstrate sophisticated second-order cognition—uncertainty monitoring, strategic information-seeking—without apparent metarepresentation. They don't seem to represent their beliefs *as* beliefs. If HOT requires genuine metarepresentation (understanding that mental states are mental states), great apes lack it despite having consciousness. If HOT requires only second-order states (functionally monitoring one's cognitive states), it becomes unclear why such monitoring should constitute phenomenal experience rather than merely accompany it.
+Recent defenders argue that many animals possess the relevant metacognitive capacities. But the [metarepresentational distinction](/metarepresentation/) complicates this response. Great apes demonstrate sophisticated second-order cognition—uncertainty monitoring, strategic information-seeking—without apparent metarepresentation. They don't seem to represent their beliefs *as* beliefs. If HOT requires genuine metarepresentation (understanding that mental states are mental states), great apes lack it despite having consciousness. If HOT requires only second-order states (functionally monitoring one's cognitive states), it becomes unclear why such monitoring should constitute phenomenal experience rather than merely accompany it.
 
 The objection points to a deeper issue: HOT seems to make consciousness depend on cognitive sophistication rather than being a more fundamental feature of mental life.
 
@@ -215,7 +215,7 @@ The hard problem remains hard.
 
 ## Further Reading
 
-- [metarepresentation](/concepts/metarepresentation/) — The three-level distinction HOT may conflate
+- [metarepresentation](/metarepresentation/) — The three-level distinction HOT may conflate
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle HOT doesn't solve
 - [global-workspace-theory](/concepts/global-workspace-theory/) — A complementary functionalist theory
 - [metacognition](/concepts/metacognition/) — The cognitive capacity HOT conflates with consciousness

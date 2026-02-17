@@ -107,7 +107,7 @@ Selection alone doesn't explain creativity. Where do the options come from? A pu
 
 **Possibility space expansion:** Husserl called imagination the "domain of possibility and realm of freedom." The mechanism may involve attention operating on representations decoupled from accuracy requirements. Where perception must track the actual world, imagination can represent the non-actual. The neural basis may be the Default Mode Network's capacity for "remote associative thinking"—connecting concepts that don't co-occur in direct experience.
 
-**Constraint relaxation:** Margaret Boden's transformational creativity—changing the rules themselves—requires representing the current rule-system as an object of thought, then modifying it. The mechanism involves the brain's capacity for [metarepresentation](/concepts/metarepresentation/): representing representations. When you imagine a rule-change, you're attending to the rule (holding it in working memory), then attending to modifications of it (exploring the space of alternative rules).
+**Constraint relaxation:** Margaret Boden's transformational creativity—changing the rules themselves—requires representing the current rule-system as an object of thought, then modifying it. The mechanism involves the brain's capacity for [metarepresentation](/metarepresentation/): representing representations. When you imagine a rule-change, you're attending to the rule (holding it in working memory), then attending to modifications of it (exploring the space of alternative rules).
 
 ## Transformational Creativity
 
@@ -127,7 +127,7 @@ Great apes show no transformational creativity. Their innovations stay within es
 
 ### Why Metarepresentation Requires Consciousness
 
-[Metarepresentation](/concepts/metarepresentation/)—representing your own representations as objects of thought—seems necessary for escaping the zone. But why should metarepresentation require consciousness?
+[Metarepresentation](/metarepresentation/)—representing your own representations as objects of thought—seems necessary for escaping the zone. But why should metarepresentation require consciousness?
 
 The [maintenance/manipulation distinction](/concepts/working-memory/#the-maintenancemanipulation-distinction) is key. Maintaining information can proceed unconsciously (activity-silent short-term memory). But *manipulating* information—using it flexibly—requires conscious reactivation. Metarepresentation is manipulation of mental states: taking your beliefs and methods as objects of thought to evaluate and modify.
 
@@ -266,7 +266,7 @@ The mechanistic question sharpens the philosophical question: could all this wor
 
 **The dualist response:** Several features resist the computationalist reduction:
 
-1. **Transformational creativity:** Changing the rule-system requires representing the rules as objects of thought. This [metarepresentation](/concepts/metarepresentation/) seems to require the kind of global integration that [global-workspace-theory](/concepts/global-workspace-theory/) associates with consciousness. AI systems work within training distributions; humans change the conceptual space itself.
+1. **Transformational creativity:** Changing the rule-system requires representing the rules as objects of thought. This [metarepresentation](/metarepresentation/) seems to require the kind of global integration that [global-workspace-theory](/concepts/global-workspace-theory/) associates with consciousness. AI systems work within training distributions; humans change the conceptual space itself.
 
 2. **The effort-outcome correlation:** Why does effortful attention correlate with creative outcomes if attention does no causal work? The correspondence between phenomenal effort and neural results (neuroplasticity, pattern stability) suggests the phenomenal state matters.
 
@@ -311,7 +311,7 @@ Current evidence doesn't support any of these conditions.
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The quantum Zeno mechanism for selection
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
-- [metarepresentation](/concepts/metarepresentation/) — The capacity to represent representations
+- [metarepresentation](/metarepresentation/) — The capacity to represent representations
 - [cumulative-culture](/concepts/cumulative-culture/) — Cultural ratcheting and why it requires metarepresentation
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Imagining non-actual states
 - [working-memory](/concepts/working-memory/) — The workspace where combination occurs

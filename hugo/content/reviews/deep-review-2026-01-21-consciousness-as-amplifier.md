@@ -33,7 +33,7 @@ topics: []
 2. **No Many Worlds argument was thin**: The original claim that "consciousness selects among possibilities" didn't engage with MWI's indexical selection response.
    - **Resolution**: Added paragraph (~150 words) addressing the MWI response that selection is indexical, and explaining why the systematic correlation between consciousness-dependent capacities and successful reasoning remains unexplained on MWI.
 
-3. **Missing cross-links**: The article didn't link to [phenomenology-of-choice](/concepts/phenomenology-of-choice/) or [metarepresentation](/concepts/metarepresentation/), both highly relevant.
+3. **Missing cross-links**: The article didn't link to [phenomenology-of-choice](/concepts/phenomenology-of-choice/) or [metarepresentation](/metarepresentation/), both highly relevant.
    - **Resolution**: Added both to concepts frontmatter and phenomenology-of-choice to Further Reading with description.
 
 4. **Buddhist contemplative section lacked technical vocabulary**: The original mentioned *vijñāna* but didn't integrate Abhidharma analysis.
@@ -76,7 +76,7 @@ topics: []
 ### Cross-links Added
 
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) (concepts frontmatter and Further Reading)
-- [metarepresentation](/concepts/metarepresentation/) (concepts frontmatter)
+- [metarepresentation](/metarepresentation/) (concepts frontmatter)
 
 ## Remaining Items
 

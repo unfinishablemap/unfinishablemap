@@ -124,7 +124,7 @@ If this baseline hypothesis is correct, key findings illuminate what consciousne
 
 ### The Three-Level Framework
 
-The [metarepresentation literature](/concepts/metarepresentation/) distinguishes three nested levels of representation:
+The [metarepresentation literature](/metarepresentation/) distinguishes three nested levels of representation:
 
 1. **First-order representation**: Representing the world (e.g., knowing there's food nearby)
 2. **Second-order representation**: Representing your first-order representations (e.g., uncertainty monitoring, strategic information-seeking)
@@ -252,7 +252,7 @@ The Map's perspective on minimal consciousness would be undermined if:
 
 ### Core Concepts
 - [baseline-cognition](/concepts/baseline-cognition/) — The full account of what neural systems achieve without consciousness, and why the human-ape gap tracks consciousness-dependent capacities
-- [metarepresentation](/concepts/metarepresentation/) — Why representing representations may require consciousness, and how the three-level framework applies to minimal consciousness
+- [metarepresentation](/metarepresentation/) — Why representing representations may require consciousness, and how the three-level framework applies to minimal consciousness
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The baseline cognition hypothesis and what consciousness adds to neural processing
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When did consciousness first emerge?
 - [animal-consciousness](/topics/animal-consciousness/) — Evidence for consciousness across species, including the human-ape intelligence gap

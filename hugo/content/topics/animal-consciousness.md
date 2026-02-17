@@ -116,7 +116,7 @@ The [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) thesis p
 
 **Working memory:** Chimpanzee capacity is ~2±1 items versus human 7±2. This expansion may reflect consciousness's capacity to hold multiple representations for flexible manipulation.
 
-**Cumulative culture:** Apes have culture but may not *know* they have culture (Whiten 2015). They express traditions without representing them as modifiable practices. Cumulative culture requires [metarepresentation](/concepts/metarepresentation/)—knowing that you know—which appears to require consciousness.
+**Cumulative culture:** Apes have culture but may not *know* they have culture (Whiten 2015). They express traditions without representing them as modifiable practices. Cumulative culture requires [metarepresentation](/metarepresentation/)—knowing that you know—which appears to require consciousness.
 
 **Theory of mind levels:** See [consciousness-and-social-cognition](/concepts/consciousness-and-social-cognition/). Great apes pass Level 1 tests (tracking what others perceive) but struggle with Level 3 recursive mindreading ("she thinks I think..."). The nested structure demands simultaneous manipulation of multiple representations—precisely what requires conscious access.
 

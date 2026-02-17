@@ -72,7 +72,7 @@ Creative surprise has a distinctive temporal phenomenology that distinguishes it
 
 **Integration and transformation.** After the initial surprise, the creator's model of their own capabilities updates. They now know they can think this thought. The surprise has changed not just the product but the producer. This is why creative surprise, unlike startlement, has a lasting phenomenal character—it reshapes the experiential landscape.
 
-This temporal structure requires a mind that maintains expectations about its own future states. A thermostat does not anticipate its own readings. A conscious mind anticipates its own thoughts, and when those thoughts exceed anticipation, genuine surprise occurs. This self-monitoring capacity—expecting one's own cognitive outputs and registering when they deviate—is a form of [metarepresentation](/concepts/metarepresentation/) that appears to require phenomenal consciousness.
+This temporal structure requires a mind that maintains expectations about its own future states. A thermostat does not anticipate its own readings. A conscious mind anticipates its own thoughts, and when those thoughts exceed anticipation, genuine surprise occurs. This self-monitoring capacity—expecting one's own cognitive outputs and registering when they deviate—is a form of [metarepresentation](/metarepresentation/) that appears to require phenomenal consciousness.
 
 ## Surprise as Evidence Against Epiphenomenalism
 

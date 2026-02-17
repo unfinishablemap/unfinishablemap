@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-21
-**Article**: [Metarepresentation and Phenomenal Consciousness](/concepts/metarepresentation/)
+**Article**: [Metarepresentation and Phenomenal Consciousness](/metarepresentation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

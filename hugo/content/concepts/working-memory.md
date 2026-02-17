@@ -88,7 +88,7 @@ What makes manipulation specifically consciousness-requiring?
 
 Manipulation involves operating on representations as representations—taking working memory contents as objects of thought rather than merely having them present. When you compare two items, you must simultaneously hold both while attending to their relationship. When you transform an item (rotating a mental image, negating a proposition), you must track both the original and the transformation. When you combine items into novel structures, you must represent the combination as distinct from its parts.
 
-These operations have the structure of [metarepresentation](/concepts/metarepresentation/)—representing representations. The research consensus is that metarepresentation requires conscious access. You cannot take something as an object of thought without being conscious of it; otherwise, it's not an object for you but merely a state you're in. The [phenomenology of deliberate manipulation](/concepts/phenomenology-of-choice/)—holding alternatives, comparing them, settling on one—reflects this structure.
+These operations have the structure of [metarepresentation](/metarepresentation/)—representing representations. The research consensus is that metarepresentation requires conscious access. You cannot take something as an object of thought without being conscious of it; otherwise, it's not an object for you but merely a state you're in. The [phenomenology of deliberate manipulation](/concepts/phenomenology-of-choice/)—holding alternatives, comparing them, settling on one—reflects this structure.
 
 [Mental effort](/concepts/mental-effort/) tracks this distinction precisely. Passive maintenance feels effortless—phone numbers "held in mind" without active work. Active manipulation feels effortful—mental arithmetic, logical reasoning, creative recombination all involve phenomenal cost.
 
@@ -114,7 +114,7 @@ The Bischof-Köhler hypothesis (Bischof-Köhler 1985) proposes that non-human an
 
 Human culture accumulates across generations—each generation builds on previous achievements, producing technologies and knowledge no individual could develop alone. Great ape culture exists (tool traditions, grooming patterns, vocalisations) but doesn't accumulate: cultural practices remain within what Tomasello calls the "zone of latent solutions," never exceeding what single individuals could discover.
 
-Why doesn't great ape culture accumulate? The [baseline cognition hypothesis](/concepts/consciousness-as-amplifier/#the-baseline-cognition-hypothesis) proposes that accumulation requires [metarepresentation](/concepts/metarepresentation/)—treating knowledge as knowledge that can be improved, transmitted, and built upon. This requires representing cultural practices as "our way of doing things" distinct from "how things are done," holding both current practice and possible modifications, and comparing them to select improvements.
+Why doesn't great ape culture accumulate? The [baseline cognition hypothesis](/concepts/consciousness-as-amplifier/#the-baseline-cognition-hypothesis) proposes that accumulation requires [metarepresentation](/metarepresentation/)—treating knowledge as knowledge that can be improved, transmitted, and built upon. This requires representing cultural practices as "our way of doing things" distinct from "how things are done," holding both current practice and possible modifications, and comparing them to select improvements.
 
 With 2±1 working memory capacity, representing current practice and possible modification simultaneously approaches the limit. Adding comparison of alternatives, evaluation of improvement, and planning for transmission exceeds it. The cognitive operations cumulative culture requires are exactly those expanded working memory enables.
 
@@ -200,7 +200,7 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 - [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness and semantic retrieval
 - [metacognition](/concepts/metacognition/) — Self-monitoring as consciousness-enabled capacity
 - [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without conscious amplification
-- [metarepresentation](/concepts/metarepresentation/) — Representing representations as representations
+- [metarepresentation](/metarepresentation/) — Representing representations as representations
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Thinking about what might have been
 - [consciousness-working-memory-2026-01-17](/research/consciousness-working-memory-2026-01-17/) — Detailed research notes
 

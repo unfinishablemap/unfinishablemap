@@ -57,7 +57,7 @@ These are not mutually exclusive. The Map's position is that working memory and 
 
 ## Metarepresentation and the Social Threshold
 
-The concept page on [consciousness and social cognition](/concepts/consciousness-and-social-cognition/) develops the technical argument: [metarepresentation](/concepts/metarepresentation/) — representing mental states *as* mental states — marks the threshold where consciousness becomes necessary. This section draws out what that threshold means for social life.
+The concept page on [consciousness and social cognition](/concepts/consciousness-and-social-cognition/) develops the technical argument: [metarepresentation](/metarepresentation/) — representing mental states *as* mental states — marks the threshold where consciousness becomes necessary. This section draws out what that threshold means for social life.
 
 Consider the difference between two kinds of social competence:
 

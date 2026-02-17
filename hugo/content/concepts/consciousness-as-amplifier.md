@@ -77,7 +77,7 @@ Evidence supporting this framework:
 
 **Procedural versus declarative metacognition**: Great apes show [metacognitive](/concepts/metacognition/) monitoring—they recognise uncertainty, seek information when needed, understand others' goals and knowledge states. But this appears to be *procedural* metacognition: feelings of knowing that guide behaviour without explicit representation. Human metacognition is additionally *declarative*: we can represent our knowledge *as* knowledge, take our beliefs as objects of thought, know that we know. This metarepresentational capacity may require phenomenal consciousness, not merely functional processing.
 
-**The Jourdain Hypothesis**: Great apes have culture—tool-use traditions, grooming patterns, vocalisations that vary between groups—but may not *know* they have culture. As Whiten (2015) argues, they express cultural traditions without representing these as "our way of doing things" subject to deliberate modification and transmission. Cumulative culture requires [metarepresentation](/concepts/metarepresentation/): treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within what Tomasello calls the "zone of latent solutions"—the existing cognitive repertoire without genuine accumulation.
+**The Jourdain Hypothesis**: Great apes have culture—tool-use traditions, grooming patterns, vocalisations that vary between groups—but may not *know* they have culture. As Whiten (2015) argues, they express cultural traditions without representing these as "our way of doing things" subject to deliberate modification and transmission. Cumulative culture requires [metarepresentation](/metarepresentation/): treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within what Tomasello calls the "zone of latent solutions"—the existing cognitive repertoire without genuine accumulation.
 
 **Logical reasoning requires consciousness**: Empirical research (Lieberman et al. 2008; De Neys & Glumicic 2008) demonstrates that rule-based logical reasoning specifically depends on conscious processing. Cognitive load disrupting conscious attention impairs logical reasoning; disrupting unconscious processes does not. Unconscious processing excels at pattern recognition, associative learning, and rapid categorisation. But explicit rule-following—"if P then Q, P, therefore Q"—requires conscious manipulation of representations.
 
@@ -227,7 +227,7 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 - [working-memory](/concepts/working-memory/) — The neural workspace where amplification operates; maintenance/manipulation distinction
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness engages neural systems
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The felt structure of deliberate selection
-- [metarepresentation](/concepts/metarepresentation/) — Representing representations as representations
+- [metarepresentation](/metarepresentation/) — Representing representations as representations
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The broadcasting account of conscious access
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The position the amplification evidence contradicts
 - [interactionist-dualism](/concepts/interactionist-dualism/) — How consciousness influences brain states
