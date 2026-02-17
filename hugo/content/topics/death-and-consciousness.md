@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-03 23:03:00+00:00
+ai_modified: 2026-02-17 05:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,6 +21,7 @@ concepts:
 - '[[haecceity]]'
 - '[[decoherence]]'
 - '[[epiphenomenalism]]'
+- '[[measurement-problem]]'
 created: 2026-01-14
 date: &id001 2026-01-17
 description: Does consciousness survive bodily death? Dualism keeps the question genuinely
@@ -101,9 +102,9 @@ The Map's [interactionist-dualism](/concepts/interactionist-dualism/) leaves the
 
 [Near-death experiences](/concepts/near-death-experiences/) (NDEs) provide intriguing evidence for consciousness beyond brain function. Common features include out-of-body perception, life review, and profound mental clarity. The "paradox of heightened experience" during brain compromise parallels the psychedelic paradox: decreased neural activity, expanded experience.
 
-Studies report varying rates of awareness during cardiac arrest (Van Lommel et al. 2001: 18%; Parnia et al. 2014: 9%). A 2023 study (Xu et al.) found gamma wave surges in dying brains—heightened neural organisation during apparent shutdown. Materialist explanations exist (ketamine-like effects, REM intrusion) but none fully accounts for why failing neural function sometimes produces *heightened* rather than diminished consciousness.
+Prospective studies report varying rates of awareness during cardiac arrest. Van Lommel et al. (2001) found 18% of survivors reported NDEs; Parnia's AWARE II (2023) found 39% reported some form of conscious awareness during arrest, with 21% describing transcendent recalled experiences of death. A 2023 study (Xu et al.) found gamma wave surges in dying brains—heightened neural organisation during apparent shutdown. Materialist explanations exist (ketamine-like effects, REM intrusion) but none fully accounts for why failing neural function sometimes produces *heightened* rather than diminished consciousness.
 
-This doesn't prove survival, but suggests the brain-consciousness relationship may be more complex than simple production. See [near-death-experiences](/concepts/near-death-experiences/) for detailed treatment.
+This doesn't prove survival, but is consistent with the possibility that the brain-consciousness relationship is more complex than simple production. See [near-death-experiences](/concepts/near-death-experiences/) for detailed treatment.
 
 ## Contemplative Perspectives
 
@@ -181,7 +182,7 @@ The Map's openness to survival would face serious difficulty if:
 
 **Dualism**: Makes survival coherent by denying that consciousness reduces to neural processes. If the brain is interface rather than generator—as [filter theory](/concepts/filter-theory/) suggests—brain death might not be consciousness death. The explanatory gap reveals that consciousness has features physical description cannot capture; those features might persist when their physical correlates cease. [Illusionism](/concepts/illusionism/)'s challenge—that consciousness itself is illusory—faces an explanatory burden problem: explaining why brains generate the specific "illusion" of phenomenality may prove as difficult as explaining phenomenality itself. If the illusion problem is as hard as the hard problem, illusionism hasn't dissolved the question of what survives—it has renamed it.
 
-**Minimal Quantum Interaction**: If consciousness operates at the quantum level, quantum conservation laws might preserve something. The [decoherence objection](/concepts/decoherence/) applies more strongly post-mortem—no biological system maintains coherence—but the hypothesis that consciousness acts at collapse rather than requiring sustained coherence remains relevant. If [quantum information](/concepts/quantum-consciousness/) encodes something about conscious states, its conservation might preserve something. Highly speculative, but the framework identifies where to look.
+**Minimal Quantum Interaction**: If consciousness operates at the quantum level, quantum conservation laws might preserve something. The [decoherence objection](/concepts/decoherence/) applies more strongly post-mortem—no biological system maintains coherence—but the hypothesis that consciousness acts at collapse rather than requiring sustained coherence remains relevant. If [quantum information](/concepts/quantum-consciousness/) encodes something about conscious states, its conservation might preserve something. A significant caveat: consciousness-selection within Born probabilities is empirically indistinguishable from random collapse, making this framework philosophical rather than testable (see the [measurement-problem](/concepts/measurement-problem/) article). Highly speculative, but the framework identifies where to look.
 
 **Bidirectional Interaction**: If consciousness causally influences matter rather than merely observing it, it has genuine efficacy—agency that makes choices matter. The question becomes: can this efficacy persist without a physical interface? The [epiphenomenalism](/arguments/epiphenomenalism/) this tenet rejects would make the question moot (an epiphenomenal consciousness has nothing causal to lose), but interactive consciousness has something substantial at stake. Death would end not just experience but genuine causal participation in reality.
 
@@ -218,4 +219,21 @@ What the Map claims: given its dualist commitments, survival is a *coherent poss
 - Hagan, S., Hameroff, S., & Tuszynski, J. (2002). "Quantum computation in brain microtubules." *Physical Review E*.
 - Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
 - Parnia, S., et al. (2014). "AWARE—AWAreness during REsuscitation—A prospective study." *Resuscitation*, 85(12), 1799-1805.
+- Parnia, S., et al. (2023). "AWAreness during REsuscitation II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation*, 191, 109903.
 - Xu, G., et al. (2023). "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain." *PNAS*, 120(19).
+
+<!-- AI REFINEMENT LOG - 2026-02-17
+Changes made:
+- Harmonized NDE statistics: replaced Parnia 2014 (9%) with AWARE II 2023 (39% any awareness, 21% transcendent RED), keeping Van Lommel 2001 (18%). Fixed cross-article inconsistency flagged by pessimistic review.
+- Fixed filter-theory.md: replaced unsourced "approximately 40%" with properly cited and qualified AWARE II figures.
+- Fixed near-death-experiences.md: opening now distinguishes 39% awareness from 21% transcendent RED.
+- Softened NDE conclusion language: "suggests" → "is consistent with the possibility that" per pessimistic review.
+- Added unfalsifiability caveat to Minimal Quantum Interaction tenet section, referencing measurement-problem article (Issue 1 from pessimistic review).
+- Added AWARE II (Parnia 2023) to References.
+- Added measurement-problem concept link to frontmatter.
+
+Based on pessimistic review pessimistic-2026-02-17.md (Issue 4: NDE Statistics, Issue 1: Unfalsifiability Leak).
+Key improvements: cross-article statistical consistency, honest qualification of quantum claims.
+
+This log should be removed after human review.
+-->

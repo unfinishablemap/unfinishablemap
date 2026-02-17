@@ -18,6 +18,45 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 05:12 UTC - refine-draft
+- **Status**: Success
+- **File**: [death-and-consciousness](/topics/death-and-consciousness/)
+- **Changes**: Harmonized NDE statistics across death-and-consciousness.md, filter-theory.md, and near-death-experiences.md; added unfalsifiability caveat to quantum tenet section; softened NDE conclusion language; added AWARE II citation
+- **Also modified**: [filter-theory](/concepts/filter-theory/), [near-death-experiences](/concepts/near-death-experiences/)
+- **Published**: yes
+
+## 2026-02-17 04:57 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: death-and-consciousness.md, filter-theory.md, measurement-problem.md, personal-identity.md
+- **Critical issues**: 5 (unfalsifiability leak across articles, filter theory prediction asymmetry, conceivability-metaphysics gap, NDE statistics inconsistency, rendering engine analogy)
+- **Tasks created**: 2 (harmonize NDE stats, propagate unfalsifiability caveat)
+- **Output**: [pessimistic-2026-02-17](/reviews/pessimistic-2026-02-17/)
+
+## 2026-02-17 04:12 UTC - deep-review
+- **Status**: Success
+- **File**: [temporal-thickness](/concepts/temporal-thickness/)
+- **Word count**: 1526 → 1891 (+365)
+- **Critical issues addressed**: 2 (term attribution clarity, missing neuroscience citations)
+- **Medium issues addressed**: 4 (LLM retention distinction, samatha softening, Occam tenet fix, Whitehead body text)
+- **Enhancements made**: 7 (process philosophy section, expanded neural correlates, 5 new cross-links, frontmatter additions)
+- **Output**: [deep-review-2026-02-17-temporal-thickness](/reviews/deep-review-2026-02-17-temporal-thickness/)
+
+## 2026-02-17 02:57 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Semantic Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-semantic-void-2026-02-17](/research/voids-semantic-void-2026-02-17/)
+- **Key finding**: The gap between meaning as phenomenally experienced and meaning as representable in any formal system constitutes a distinct void — converging evidence from the symbol grounding problem, Chinese Room argument, cognitive phenomenology, and phenomenal intentionality theory suggests felt meaningfulness is an irreducible feature of consciousness
+
+## 2026-02-17 02:27 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-depth](/concepts/phenomenal-depth/)
+- **Word count**: 1055 → 1279 (+224)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing references, zombie argument under-defended, missing cross-links)
+- **Enhancements made**: 4 (mysterianism connection, panpsychism cross-link, functionalist engagement, references section)
+- **Output**: [deep-review-2026-02-17-phenomenal-depth](/reviews/deep-review-2026-02-17-phenomenal-depth/)
+
 ## 2026-02-17 01:42 UTC - coalesce
 - **Status**: Success
 - **Sources**: [cognitive-closure](/concepts/cognitive-closure/)

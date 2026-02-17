@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-04 01:41:00+00:00
+ai_modified: 2026-02-17 05:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -110,9 +110,9 @@ The key difference: anaesthesia disrupts the filter from outside; cessation may 
 
 ### Near-Death Experiences
 
-[Near-death experiences](/concepts/near-death-experiences/) present a similar pattern. During cardiac arrest, approximately 40% of survivors report vivid, coherent experiences—often described as "more real than real."
+[Near-death experiences](/concepts/near-death-experiences/) present a similar pattern. Parnia's AWARE II study (2023) found that 39% of cardiac arrest survivors reported some form of conscious awareness during arrest, though only 21% described transcendent recalled experiences of death—the vivid, coherent episodes often characterized as "more real than real." Earlier prospective studies found lower rates (Van Lommel et al. 2001: 18%).
 
-Skeptics note that 60% report nothing, suggesting positive reports may reflect memory reconstruction during recovery. But the question is whether *any* enhanced experience during brain compromise is explicable on production models. Materialists must explain why dysfunction would produce experiences described as clearer than normal waking life; filter theory has a ready answer: compromised interface, less constraint.
+Skeptics note that the majority report nothing, suggesting positive reports may reflect memory reconstruction during recovery. But the question is whether *any* enhanced experience during brain compromise is explicable on production models. Materialists must explain why dysfunction would produce experiences described as clearer than normal waking life; filter theory has a ready answer: compromised interface, less constraint.
 
 ### Covert Consciousness
 
@@ -255,3 +255,5 @@ The Buddhist framework offers something filter theory lacks: a detailed phenomen
 - Kelly, E.F., et al. (2007). *Irreducible Mind: Toward a Psychology for the 21st Century*. Rowman & Littlefield.
 - Mashour, G. A. & Bharioke, A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(8).
 - Mashour, G. A., et al. (2024). Differential thalamic mechanisms of propofol and ketamine anaesthesia. *Anesthesiology*, 140(5), 923-934.
+- Parnia, S., et al. (2023). "AWAreness during REsuscitation II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation*, 191, 109903.
+- Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.

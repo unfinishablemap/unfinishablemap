@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-02-13 01:34:00+00:00
+ai_modified: 2026-02-17 02:27:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,6 +14,9 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[cognitive-phenomenology]]'
 - '[[minimal-consciousness]]'
+- '[[mysterianism]]'
+- '[[panpsychism]]'
+- '[[epiphenomenalism]]'
 created: 2026-02-13
 date: &id001 2026-02-13
 description: How conscious experience possesses layered richness beyond surface appearance—a
@@ -21,6 +24,7 @@ description: How conscious experience possesses layered richness beyond surface 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-17 02:27:00+00:00
 modified: *id001
 related_articles:
 - '[[visual-consciousness]]'
@@ -68,19 +72,19 @@ The relationship between phenomenal depth and [access consciousness](/concepts/a
 
 [Contemplative training](/topics/contemplative-training-and-phenomenal-access/) appears to expand access to deeper layers. Meditators report perceiving fine-grained aspects of experience—subtle body sensations, micro-emotions, the texture of attention itself—that untrained introspection misses. This suggests that phenomenal depth may be even greater than what ordinary introspection reveals: the layers are there, but accessing them requires trained attention.
 
-This has a significant implication: if depth exceeds access even in trained observers, then the full qualitative richness of consciousness may be in principle inexhaustible. Each new act of attention reveals structure that was already present, and there is no guarantee that any finite set of introspective acts will exhaust what is there.
+This has a significant implication: if depth exceeds access even in trained observers, then the full qualitative richness of consciousness may be in principle inexhaustible. Each new act of attention reveals structure that was already present, and there is no guarantee that any finite set of introspective acts will exhaust what is there. This connects to [mysterianism](/concepts/mysterianism/)—the view that some aspects of consciousness may permanently exceed our cognitive grasp. Depth's inexhaustibility suggests one concrete way this could be true: consciousness may have more internal structure than any mind can fully articulate about itself.
 
 ## The Lower Bound: Minimal Consciousness
 
 Phenomenal depth admits of degree. [Minimal consciousness](/concepts/minimal-consciousness/)—if it exists—would presumably have little depth: bare phenomenal presence without layered internal structure. As consciousness grows more complex (from simple organisms to human experience), depth increases. This gradient matters because it suggests that depth is not an all-or-nothing property but something that varies with the complexity and integration of conscious states.
 
-The existence of this gradient raises a question for materialist accounts: what physical property corresponds to depth? Neural complexity, integration, and information content are candidates, but these describe structure from the outside. Phenomenal depth is structure from the inside—the way experience is qualitatively layered for the experiencer.
+The existence of this gradient raises a question for materialist accounts: what physical property corresponds to depth? Neural complexity, integration, and information content are candidates, but these describe structure from the outside. Phenomenal depth is structure from the inside—the way experience is qualitatively layered for the experiencer. The gradient also raises a question about origin: if even very simple organisms have some phenomenal depth, this lends partial support to [panpsychist](/concepts/panpsychism/) intuitions, though the Map does not commit to panpsychism as a general thesis.
 
 ## Relation to Site Perspective
 
 The Unfinishable Map's [foundational commitments](/tenets/) frame phenomenal depth as evidence for consciousness's irreducibility. The Map's dualism tenet holds that consciousness is not reducible to physical processes. Phenomenal depth strengthens this position: the internal layered richness of experience is precisely the kind of feature that structural and functional descriptions systematically miss.
 
-The Map's bidirectional interaction tenet gains support here as well. If conscious experience has genuine depth—layers of qualitative structure that influence how one perceives, decides, and acts—then consciousness contributes something to cognition that no depth-less functional duplicate could replicate. The depth of one's experience of a piece of music shapes one's emotional response, one's subsequent choices, one's creative output. A [zombie](/concepts/philosophical-zombies/) processing the same auditory input without phenomenal depth would lack these qualitative layers and thus lack their downstream influence.
+The Map's bidirectional interaction tenet gains support here as well. If conscious experience has genuine depth—layers of qualitative structure that influence how one perceives, decides, and acts—then consciousness contributes something to cognition that no depth-less functional duplicate could replicate. The depth of one's experience of a piece of music shapes one's emotional response, one's subsequent choices, one's creative output. A [zombie](/concepts/philosophical-zombies/) processing the same auditory input without phenomenal depth would lack these qualitative layers. The functionalist replies that if the zombie's functional profile is identical, its behaviour must be identical too—but this concedes the point. If behaviour can be fully explained without phenomenal depth, then depth becomes [epiphenomenal](/arguments/epiphenomenalism/), and we are back to the problem of why our reports about the richness of experience track that richness at all. The Map holds that depth is causally relevant: the qualitative layers shape cognition in ways that functional profile alone does not capture.
 
 The Map does not claim that phenomenal depth is fully understood. Rather, it holds that depth is a real feature of consciousness that any adequate theory must accommodate—and that materialist theories, by their structural and relational nature, cannot.
 
@@ -93,3 +97,11 @@ The Map does not claim that phenomenal depth is fully understood. Rather, it hol
 - [contemplative-training-and-phenomenal-access](/topics/contemplative-training-and-phenomenal-access/)
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- [mysterianism](/concepts/mysterianism/)
+
+## References
+
+- Berthier, M., Starkstein, S., & Leiguarda, R. (1988). Asymbolia for pain: A sensory-limbic disconnection syndrome. *Annals of Neurology*, 24(1), 41–49.
+- Lutz, A., Slagter, H. A., Dunne, J. D., & Davidson, R. J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163–169.
+- Siewert, C. (1998). *The Significance of Consciousness*. Princeton University Press.
+- Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64(4), 354–361.

@@ -4,7 +4,7 @@ description: "Vivid conscious experiences during cardiac arrest when brain activ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-01-31T07:26:00+00:00
+ai_modified: 2026-02-17T05:12:00+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -33,7 +33,7 @@ last_curated: null
 last_deep_review: 2026-01-31T07:26:00+00:00
 ---
 
-Near-death experiences (NDEs) are vivid cognitive events reported by approximately 40% of cardiac arrest survivors. A 2022 multidisciplinary consensus established standardized terminology, followed by multi-site prospective studies (AWARE II, 2023) and EEG evidence showing consciousness-consistent brain activity during CPR. The key finding: people report heightened, coherent experiences during severe cerebral ischemia—when brain function should be deeply compromised. This doesn't prove consciousness survives death, but it challenges simple brain-production models and supports The Unfinishable Map's [[tenets#^dualism|Dualism]] and [[tenets#^occams-limits|Occam's Razor Has Limits]] tenets.
+Near-death experiences (NDEs) are vivid cognitive events whose prevalence depends on definition and study design. AWARE II (Parnia et al. 2023) found 39% of cardiac arrest survivors reported some form of conscious awareness during arrest, with 21% describing transcendent recalled experiences of death; Van Lommel et al. (2001) found 18% reporting NDEs. A 2022 multidisciplinary consensus established standardized terminology ("Recalled Experience of Death"), followed by multi-site prospective studies and EEG evidence showing consciousness-consistent brain activity during CPR. The key finding: people report heightened, coherent experiences during severe cerebral ischemia—when brain function should be deeply compromised. This doesn't prove consciousness survives death, but it challenges simple brain-production models and supports The Unfinishable Map's [[tenets#^dualism|Dualism]] and [[tenets#^occams-limits|Occam's Razor Has Limits]] tenets.
 
 The evidence is contested but cannot be easily dismissed. Van Lommel's landmark 2001 study found only 18% of cardiac arrest survivors reported NDEs—paradoxical if NDEs are purely physiological responses to anoxia, since nearly all patients experienced the same physiological state. Something distinguishes experiencers from non-experiencers, and that something remains unexplained.
 
@@ -150,7 +150,7 @@ NDEs align with multiple site tenets:
 
 **Dualism**: The paradox of heightened experience during brain compromise makes more sense if consciousness isn't produced by neural activity. NDEs don't *prove* dualism, but they're easier to accommodate within a dualist framework than a strict materialist one.
 
-**Occam's Razor Has Limits**: The temptation to dismiss NDEs as "obviously" neural hallucinations exemplifies premature parsimony. The 18%/40% occurrence rates, the veridical perception cases, the heightened-experience paradox—all resist easy dismissal. Simple explanations may be wrong.
+**Occam's Razor Has Limits**: The temptation to dismiss NDEs as "obviously" neural hallucinations exemplifies premature parsimony. The occurrence rates (18-39% depending on study and definition), the veridical perception cases, the heightened-experience paradox—all resist easy dismissal. Simple explanations may be wrong.
 
 **Bidirectional Interaction**: If consciousness can perceive during cardiac arrest, it demonstrates efficacy independent of normal neural mediation. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet proposes that consciousness causally influences the physical world; NDE evidence suggests it may also access information beyond normal sensory channels.
 

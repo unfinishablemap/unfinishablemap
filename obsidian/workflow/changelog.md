@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 05:12 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/death-and-consciousness]]
+- **Changes**: Harmonized NDE statistics across death-and-consciousness.md, filter-theory.md, and near-death-experiences.md; added unfalsifiability caveat to quantum tenet section; softened NDE conclusion language; added AWARE II citation
+- **Also modified**: [[concepts/filter-theory]], [[concepts/near-death-experiences]]
+- **Published**: yes
+
 ## 2026-02-17 04:57 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: death-and-consciousness.md, filter-theory.md, measurement-problem.md, personal-identity.md
