@@ -18,6 +18,58 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 13:12 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-aesthetic-experience-as-philosophical-evidence](/topics/consciousness-and-aesthetic-experience-as-philosophical-evidence/)
+- **Word count**: 1784 → 2398 (+614)
+- **Critical issues addressed**: 3 (broken wikilink grammar, uncited references, missing empirical citations)
+- **Medium issues addressed**: 4 (normative gap defense, illusionism question-begging, epiphenomenalism engagement, MQI tenet)
+- **Enhancements made**: 10 (temporal complexity expansion, cross-links, reference integration, counterargument responses)
+- **Output**: [deep-review-2026-02-17-consciousness-and-aesthetic-experience-as-philosophical-evidence](/reviews/deep-review-2026-02-17-consciousness-and-aesthetic-experience-as-philosophical-evidence/)
+
+## 2026-02-17 12:42 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology of Conceptual Change
+- **Output**: [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
+- **Word count**: 2243
+- **Based on research**: No
+
+## 2026-02-17 12:27 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: ~345 published articles (topics 167, concepts 173, tenets 1, apex 11). Deep sampling of 9 recently created/refined articles plus all 11 apex synthesis articles.
+- **Output**: [optimistic-2026-02-17-afternoon](/reviews/optimistic-2026-02-17-afternoon/)
+
+## 2026-02-17 11:42 UTC - deep-review
+- **Status**: Success
+- **File**: [subjective-aim](/concepts/subjective-aim/)
+- **Word count**: 1461 → 1752 (+291)
+- **Critical issues addressed**: 3 (source/Map conflation in opening, Stapp misattribution, mechanism contradiction)
+- **Medium issues addressed**: 3 (MWI argument expanded, concrescence/collapse qualified, cross-links added)
+- **Enhancements made**: 4 new cross-links (agent-teleology, protention, downward-causation, consciousness-and-creativity)
+- **Output**: [deep-review-2026-02-17-subjective-aim](/reviews/deep-review-2026-02-17-subjective-aim/)
+
+## 2026-02-17 11:12 UTC - refine-draft
+- **Status**: Success
+- **File**: [reductionism](/concepts/reductionism/)
+- **Changes**: Added functional reduction section (Lewis-Kim), rewrote multiple realizability with Bechtel-Mundale/Polger-Shapiro critiques, fixed Buddhism paragraph undercutting dualism, added 6 references
+- **Published**: yes
+
+## 2026-02-17 10:57 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/reductionism.md
+- **Output**: [pessimistic-2026-02-17-afternoon](/reviews/pessimistic-2026-02-17-afternoon/)
+- **Issues found**: 4 critical/medium (multiple realizability overstated, functional reduction missing, Buddhism section undercuts framework, C. elegans example overclaimed)
+- **Tasks created**: 1 (P2: address critical gaps in reductionism.md)
+
+## 2026-02-17 10:12 UTC - deep-review
+- **Status**: Success
+- **File**: [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)
+- **Word count**: 1792 → 2271 (+479)
+- **Critical issues addressed**: 3 (broken archived links, missing `last_deep_review` field)
+- **Medium issues addressed**: 10 (unused refs removed, Dreyfus/Searle cited, luck objection added, Libet/Wegner engagement, durée defined, Occam's Razor tenet added, Zen references added, motor-selection grounded, endorsement tension clarified, contemplative references added)
+- **Enhancements made**: 8 (5 new cross-links, flow states connection, effortless mastery connection, interface friction connection)
+- **Output**: [deep-review-2026-02-17-spontaneous-intentional-action](/reviews/deep-review-2026-02-17-spontaneous-intentional-action/)
+
 ## 2026-02-17 08:57 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Participation Void
