@@ -4,7 +4,7 @@ description: "Knowledge expressible only as 'I', 'here', 'now'—irreducible to 
 created: 2026-01-27
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-02-13T21:34:00+00:00
+ai_modified: 2026-02-17T08:27:00+00:00
 draft: false
 topics:
   - "[[vertiginous-question]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review:
+last_deep_review: 2026-02-17T08:27:00+00:00
 coalesced_from:
   - "/concepts/indexical-facts/"
   - "/concepts/indexical-knowledge/"
@@ -49,13 +49,13 @@ David Lewis's scenario sharpens the point with maximal force. Two omniscient god
 
 Yet each god might not know which god they are.
 
-One resides on the tallest mountain, the other in the deepest ocean. The complete physical description doesn't privilege either location. The mountain god knows "one god is on the mountain and one in the ocean." What this god doesn't know from impersonal facts alone is: *I am the mountain god*.
+One resides on the tallest mountain, the other on the coldest mountain. One throws down manna, the other thunderbolts. The complete physical description doesn't privilege either location. The mountain-top god knows "one god is on the tallest mountain and one on the coldest." What this god doesn't know from impersonal facts alone is: *I am the one on the tallest mountain*.
 
 This self-locating knowledge requires something beyond omniscience about the world's structure. Even knowing everything about *what* exists, you can be ignorant about *where you are* among what exists.
 
 ## Three Grades of Indexical Knowledge
 
-Not all indexical knowledge is alike. Three grades can be distinguished:
+Not all indexical knowledge is alike. Drawing on the distinctions in the literature, three grades can be usefully distinguished:
 
 **Perspectival knowledge** is the weakest grade. Knowing "it is raining here" rather than "it is raining in London" involves an indexical, but the content is readily translatable. Most spatial and temporal indexicals fall into this category.
 
@@ -77,7 +77,7 @@ The difference matters for consciousness. If only the epistemic thesis holds, in
 
 The Unfinishable Map's position requires the metaphysical thesis. Three arguments support it:
 
-**The explanatory gap argument**: If self-locating knowledge were merely a way of representing impersonal facts, we should be able to explain *why* this mode of representation exists in purely impersonal terms. But the attempt seems circular. To explain why a system has self-locating representations, we need to specify *which* system—and "which" is itself an indexical notion. The explanatory project presupposes what it's trying to explain away.
+**The [[explanatory-gap]] argument**: If self-locating knowledge were merely a way of representing impersonal facts, we should be able to explain *why* this mode of representation exists in purely impersonal terms. But the attempt seems circular. To explain why a system has self-locating representations, we need to specify *which* system—and "which" is itself an indexical notion. The explanatory project presupposes what it's trying to explain away.
 
 **The phenomenological argument**: The immediacy of self-locating knowledge suggests it tracks something real. You don't infer "I exist" from impersonal premises—the knowledge is given directly. If indexical facts were merely modes of access to impersonal facts, the knowledge should feel derivative. Instead, it has a directness suggesting it is not derived from anything more basic.
 
@@ -117,13 +117,13 @@ The disagreement reveals something about self-locating uncertainty. Beauty doesn
 
 ## Implications for Many-Worlds
 
-The [[many-worlds]] interpretation holds that every quantum measurement causes branching—all outcomes occur in parallel, each equally real. Indexical knowledge creates problems for this picture.
+The [[many-worlds]] interpretation holds that every quantum measurement causes branching—all outcomes occur in parallel, each equally real. Indexical knowledge creates problems for this picture, connecting to the [[the-measurement-problem-as-philosophical-problem|measurement problem]] at its core.
 
 Before measurement, there is one observer. After branching, there are multiple successors in different branches. Everettians propose that pre-measurement uncertainty about which outcome you'll see is "self-locating uncertainty"—uncertainty about which branch you're in, analogous to Beauty's uncertainty about which awakening she's experiencing.
 
 The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet finds these accounts unsatisfying:
 
-**The framework mismatch**: Self-locating uncertainty normally presupposes a single reality with indexically uncertain facts. Beauty is in *one* awakening; she just doesn't know which. In many-worlds, you end up in *all* branches. The uncertainty framework seems inapplicable when all outcomes occur.
+**The framework mismatch**: Self-locating uncertainty normally presupposes a single reality with indexically uncertain facts. Beauty is in *one* awakening; she just doesn't know which. In many-worlds, branching produces multiple successors—each experiencing one outcome—but all outcomes occur. Pre-measurement, there is no single fact about "which branch I will be in" to be uncertain about, since every successor is equally you. The uncertainty framework seems inapplicable when fission replaces selection.
 
 **The haecceitistic problem**: If personal identity involves [[haecceity]], then "which branch am I in?" asks about a haecceitistic fact. But many-worlds provides no such facts. All branches are equally real, all successors equally continuous with you. Nothing grounds the self-locating belief "I am in this branch."
 
@@ -139,7 +139,7 @@ Indexical knowledge and identity connect to The Unfinishable Map's [[tenets]] ac
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Indexical knowledge that *I* experience *this* outcome presupposes a fact about which outcome is mine. Many-worlds denies such facts by making all outcomes equally real. The Map rejects many-worlds partly because indexical identity seems meaningful in ways the interpretation cannot accommodate. Consciousness tracking one definite trajectory suggests genuine selection, not branching into all possibilities.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Reports of indexical knowledge—"I see red," "this hurts," "I am here"—are physical events. If indexical knowledge were epiphenomenal, these reports would be causally disconnected from the knowledge itself. The fact that first-person knowledge reliably produces accurate first-person reports suggests consciousness causally influences physical outcomes.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Reports of indexical knowledge—"I see red," "this hurts," "I am here"—are physical events. If indexical knowledge were epiphenomenal, these reports would be causally disconnected from the knowledge itself. A functionalist might respond that physical states carrying indexical representational content suffice to explain this, but that concedes the point: whatever produces these reports must track the indexical fact, not merely the impersonal state of affairs. The reliability of first-person reports suggests [[agent-causation|causal influence]] flowing from consciousness to physical outcomes.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Eliminating indexical facts seems parsimonious—fewer kinds of facts, simpler ontology. But Perry's case shows this parsimony fails: the impersonal description cannot explain why learning "I am making the mess" changes behaviour when "Perry is making the mess" does not. Simplicity that cannot account for the most familiar features of cognition is inadequate.
 
@@ -164,4 +164,5 @@ Indexical knowledge and identity connect to The Unfinishable Map's [[tenets]] ac
 - Lewis, D. (2001). "Sleeping Beauty: Reply to Elga." *Analysis*, 61(3), 171-176.
 - List, C. (2022). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340.
 - Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+- Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 - Perry, J. (1979). "The Problem of the Essential Indexical." *Noûs*, 13(1), 3-21.

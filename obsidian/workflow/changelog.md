@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 08:27 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/indexical-knowledge-and-identity]]
+- **Word count**: 2201 → 2298 (+97)
+- **Critical issues addressed**: 2 (Lewis Two Gods geographic error, missing Parfit citation)
+- **Medium issues addressed**: 4 (MWI fission characterization, Three Grades provenance, Bidirectional Interaction argument, cross-links)
+- **Enhancements made**: 3 (cross-links to explanatory-gap, agent-causation, measurement-problem)
+- **Output**: [[reviews/deep-review-2026-02-17-indexical-knowledge-and-identity]]
+
 ## 2026-02-17 07:42 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[metacognition]], [[metarepresentation]]
