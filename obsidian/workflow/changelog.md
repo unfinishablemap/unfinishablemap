@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 11:42 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/subjective-aim]]
+- **Word count**: 1461 → 1752 (+291)
+- **Critical issues addressed**: 3 (source/Map conflation in opening, Stapp misattribution, mechanism contradiction)
+- **Medium issues addressed**: 3 (MWI argument expanded, concrescence/collapse qualified, cross-links added)
+- **Enhancements made**: 4 new cross-links (agent-teleology, protention, downward-causation, consciousness-and-creativity)
+- **Output**: [[reviews/deep-review-2026-02-17-subjective-aim]]
+
 ## 2026-02-17 11:12 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/reductionism]]
