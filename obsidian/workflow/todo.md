@@ -127,11 +127,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the phenomenology of intellectual courage
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Intellectual courage—holding a position against social pressure, or abandoning one despite emotional investment—has distinctive phenomenal character. The Map's own position requires intellectual courage; examining its phenomenology illuminates consciousness's role in truth-seeking. Builds on phenomenology-of-philosophical-disagreement.md, phenomenology-of-evidence-assessment.md. See optimistic-2026-02-17-afternoon.md
-
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
@@ -141,6 +136,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-17: Write article on the phenomenology of intellectual courage
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Intellectual courage—holding a position against social pressure, or abandoning one despite emotional investment—has distinctive phenomenal character. The Map's own position requires intellectual courage; examining its phenomenology illuminates consciousness's role in truth-seeking. Builds on phenomenology-of-philosophical-disagreement.md, phenomenology-of-evidence-assessment.md. See optimistic-2026-02-17-afternoon.md
+- **Output**: the phenomenology of intellectual courage
 
 ### ✓ 2026-02-17: Write article on consciousness and the authority of testimony
 - **Type**: expand-topic
