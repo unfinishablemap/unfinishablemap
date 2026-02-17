@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix rigged comparison table in combination-problem.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-17 night) found the "Comparing the Problems" table uses asymmetric descriptors: "Phenomenal bonding (unexplained)" vs "Quantum selection (specifiable)." But quantum selection for consciousness is equally unspecified. Reword the mechanism row honestly—both are "proposed but not yet specified"—or add a paragraph acknowledging interactionism's mechanism is also unexplained at the detail level. See pessimistic-2026-02-17-night.md
-
 ### P2: Address filter theory selectivity problem in near-death-experiences.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -151,6 +146,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-17: Fix rigged comparison table in combination-problem.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-17 night) found the "Comparing the Problems" table uses asymmetric descriptors: "Phenomenal bonding (unexplained)" vs "Quantum selection (specifiable)." But quantum selection for consciousness is equally unspecified. Reword the mechanism row honestly—both are "proposed but not yet specified"—or add a paragraph acknowledging interactionism's mechanism is also unexplained at the detail level. See pessimistic-2026-02-17-night.md
+- **Output**: obsidian/concepts/combination-problem.md
+
+Task context:
+Pessimistic review (2026-02-17 night) found the "Comparing the Problems" table uses asymmetric descriptors: "Phenomenal bonding (unexplained)" vs "Quantum selection (specifiable)." But quantum selection for consciousness is equally unspecified. Reword the mechanism row honestly—both are "proposed but not yet specified"—or add a paragraph acknowledging interactionism's mechanism is also unexplained at the detail level. See pessimistic-2026-02-17-night.md
 
 ### ✓ 2026-02-17: Write article on the interaction problem in non-Western philosophy
 - **Type**: expand-topic

@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 23:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/combination-problem]]
+- **Changes**: Rewrote comparison table mechanism row for honesty (both "proposed, unexplained"), added paragraph acknowledging interactionism's unspecified mechanism, softened asymmetric language throughout, qualified empirical claims as preliminary
+- **Trigger**: Pessimistic review (2026-02-17 night) Issue 1: Rigged Comparison Table
+- **Published**: yes
+
 ## 2026-02-17 23:02 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/combination-problem.md`, `concepts/near-death-experiences.md`, `concepts/moral-responsibility.md`
