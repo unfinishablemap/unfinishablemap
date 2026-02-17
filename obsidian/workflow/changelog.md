@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 23:02 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/combination-problem.md`, `concepts/near-death-experiences.md`, `concepts/moral-responsibility.md`
+- **Output**: [[reviews/pessimistic-2026-02-17-night]]
+
 ## 2026-02-17 22:17 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-habit-and-skill-acquisition]]
