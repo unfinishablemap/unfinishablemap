@@ -38,11 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Create concept page for process haecceitism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Referenced in personal-identity.md and emerging across the site as the Map's distinctive approach to individuation without substance. Link to haecceity, personal-identity, and Buddhist perspectives. See optimistic-2026-02-16-evening.md
-
 ### P2: Verify Gallagher & Zahavi (2025) citation in phenomenology.md
 - **Type**: other
 - **Notes**: Pessimistic review (2026-02-16 evening) flagged "Gallagher, S., & Zahavi, D. (2025). Cognitive science needs phenomenology. *Journal for the Theory of Social Behaviour*. Advance online publication." as potentially fictitious. Verify this citation exists; if not, remove or replace with a verifiable source. See pessimistic-2026-02-16-evening.md
@@ -136,6 +131,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-17: Create concept page for process haecceitism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Referenced in personal-identity.md and emerging across the site as the Map's distinctive approach to individuation without substance. Link to haecceity, personal-identity, and Buddhist perspectives. See optimistic-2026-02-16-evening.md
+- **Output**: Create concept page for process haecceitism
 
 ### ✓ 2026-02-16: Write article on the interface specification problem
 - **Type**: expand-topic

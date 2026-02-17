@@ -25,6 +25,11 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
+archived: true
+archived_date: 2026-02-17T01:42:00+00:00
+superseded_by: "/concepts/mysterianism/"
+archive_reason: "Coalesced into Mysterianism and Cognitive Closure"
+original_path: "/concepts/cognitive-closure/"
 ---
 
 Cognitive closure is Colin McGinn's thesis that certain properties lie permanently beyond the conceptual reach of certain types of minds—not because the properties don't exist or because intelligence is insufficient, but because the relevant concept-forming procedures are unavailable. McGinn formalized this in 1989: "A type of mind M is cognitively closed with respect to a property P if and only if the concept-forming procedures at M's disposal cannot extend to a grasp of P."

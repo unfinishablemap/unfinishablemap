@@ -65,7 +65,7 @@ None. The previous review's resolutions remain adequate. No factual errors, attr
 1. **Fairer heterophenomenology treatment**: Now acknowledges Dennett's position rather than assuming phenomenal realism in the critique
 2. **Epistemic/ontological distinction**: Explicit about the Map's philosophical move from Levine's epistemic gap to ontological claims
 3. **Knowledge argument integration**: Added [knowledge-argument](/concepts/knowledge-argument/) link to strengthen the explanatory gap section
-4. **Cognitive closure link**: Explicit [cognitive-closure](/concepts/cognitive-closure/) wikilink added
+4. **Cognitive closure link**: Explicit [cognitive-closure](/cognitive-closure/) wikilink added
 5. **Consciousness-only territories**: Linked the closing paragraph's claim about truths accessible only from within consciousness
 
 ### Cross-links Added
@@ -73,7 +73,7 @@ None. The previous review's resolutions remain adequate. No factual errors, attr
 - [qualia](/concepts/qualia/)
 - [knowledge-argument](/concepts/knowledge-argument/)
 - [idealism](/concepts/idealism/)
-- [cognitive-closure](/concepts/cognitive-closure/)
+- [cognitive-closure](/cognitive-closure/)
 - [consciousness-only-territories](/voids/consciousness-only-territories/)
 
 ## Remaining Items

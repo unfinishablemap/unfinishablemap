@@ -4798,7 +4798,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 04:09 UTC - deep-review
 - **Status**: Success
-- **File**: [cognitive-closure](/concepts/cognitive-closure/)
+- **File**: [cognitive-closure](/cognitive-closure/)
 - **Word count**: 1270 → 1389 (+119)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (falsifiability not explicitly addressed)

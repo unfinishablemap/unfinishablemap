@@ -11,7 +11,6 @@ topics:
 concepts:
   - "[[intuitive-dualism]]"
   - "[[embodied-cognition]]"
-  - "[[cognitive-closure]]"
   - "[[interactionist-dualism]]"
   - "[[materialism]]"
   - "[[the-case-for-dualism]]"
@@ -80,7 +79,7 @@ The genetic fallacy cuts both ways. If cognitive naturalness discredits dualism,
 
 The [[hard-problem-of-consciousness|hard problem]] is not a gap in current cognitive science that future research will close. It is a structural feature of third-person methodology encountering a first-person phenomenon. No amount of functional, computational, or neural description tells us *why there is something it is like* to be a conscious organism. This was Chalmers's point in 1995, and three decades of cognitive science — including Integrated Information Theory, Global Workspace Theory, and higher-order theories — have not closed the [[explanatory-gap]]. These theories illuminate the *correlates* and *functions* of consciousness without explaining why those functions are accompanied by experience.
 
-Colin McGinn's [[cognitive-closure]] hypothesis takes this further: human cognitive architecture may be constitutionally unable to grasp the property linking brain states to conscious experience. Our concept-forming procedures — perception, [[introspection]], inference — may simply lack the resources to bridge the explanatory gap. Cognitive science can study its own limits but not transcend them.
+Colin McGinn's [[mysterianism|cognitive closure]] hypothesis takes this further: human cognitive architecture may be constitutionally unable to grasp the property linking brain states to conscious experience. Our concept-forming procedures — perception, [[introspection]], inference — may simply lack the resources to bridge the explanatory gap. Cognitive science can study its own limits but not transcend them.
 
 This does not mean cognitive science is useless for the dualism debate. It means cognitive science clarifies the *shape* of the problem without being able to solve it on [[materialism|materialist]] terms. The persistence of the explanatory gap despite enormous empirical progress suggests that something beyond the physical may be involved. A materialist might draw a parallel to vitalism — the "life force" mystery that seemed permanently intractable until biochemistry dissolved it. But the cases differ in a crucial respect: vitalists asked how matter could produce life-functions, and those functions turned out to be fully describable in physical terms. The hard problem asks how matter produces *experience*, and experience is not a function. There is nothing it is like to metabolise; there is something it is like to see red. The explanatory gap concerns a feature — [[phenomenology|phenomenal character]] — that has no analogue in the vitalism case.
 
@@ -102,7 +101,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] receives perhaps th
 - [[predictive-processing]] — The brain as prediction engine and why it leaves consciousness unexplained
 - [[embodied-cognition]] — How bodily dependence reshapes but doesn't resolve the mind-body problem
 - [[neurophenomenology]] — Varela's integration of first-person and third-person methods
-- [[cognitive-closure]] — McGinn's thesis on constitutional limits of human cognition
+- [[mysterianism|cognitive closure]] — McGinn's thesis on constitutional limits of human cognition
 - [[hard-problem-of-consciousness]] — Why no amount of functional description explains experience
 - [[the-case-for-dualism]] — The philosophical case independent of cognitive science
 - [[mental-causation]] — How consciousness might causally influence the physical world

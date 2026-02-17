@@ -23,7 +23,6 @@ concepts:
   - "[[downward-causation]]"
   - "[[reductionism]]"
   - "[[delegatory-dualism]]"
-  - "[[cognitive-closure]]"
   - "[[quantum-indeterminacy-free-will]]"
 related_articles:
   - "[[tenets]]"
@@ -128,7 +127,7 @@ If mental causation is real, how does it avoid producing observable violations? 
 
 #### Observational Closure and Cognitive Closure
 
-[[cognitive-closure|Cognitive closure]] (McGinn) is a distinct concept: the thesis that certain properties lie permanently beyond human conceptual reach. McGinn's closure is *epistemic*—about what we can know or conceive. Saad's observational closure is *methodological*—about what experiments can detect.
+[[mysterianism|Cognitive closure]] (McGinn) is a distinct concept: the thesis that certain properties lie permanently beyond human conceptual reach. McGinn's closure is *epistemic*—about what we can know or conceive. Saad's observational closure is *methodological*—about what experiments can detect.
 
 The two closures may interact. If the consciousness-physics interface involves properties we are cognitively closed to (McGinn's property P), we might be unable even to formulate tests that would reveal observational violations. Our experimental paradigms might be structured by our cognitive limitations in ways that preclude detecting mental causation. But the concepts are independent. Observational closure could hold even if we understood the consciousness-physics interface perfectly; cognitive closure could hold even if observational closure failed.
 
@@ -259,7 +258,7 @@ This is not "god of the gaps" reasoning. It's recognition that physics *describe
 - [[interactionist-dualism]] — The position that mental causation enables
 - [[quantum-consciousness]] — Mechanisms for consciousness-matter interaction; includes decoherence response
 - [[epiphenomenalism]] — The view accepting closure forces
-- [[cognitive-closure]] — McGinn's epistemic closure; distinct from but related to observational closure
+- [[mysterianism|cognitive closure]] — McGinn's epistemic closure; distinct from but related to observational closure
 - [[free-will]] — Implications for agency
 - [[materialism]] — The worldview closure supports
 - [[explanatory-gap]] — Why physical knowledge leaves phenomenal experience unexplained

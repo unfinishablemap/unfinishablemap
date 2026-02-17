@@ -124,7 +124,7 @@ This suggests the gap is not merely in us but in the nature of things. If consci
 
 ### The Mysterian Alternative
 
-[[mysterianism|Mysterianism]] (see Colin McGinn) offers a middle path: perhaps the gap is real but reflects human cognitive limitations rather than consciousness being non-physical. On this view, there *is* a property of the brain that explains consciousness, but humans are [[cognitive-closure|cognitively closed]] to it—as permanently unable to grasp the mind-brain connection as rats are to grasp calculus.
+[[mysterianism|Mysterianism]] (see Colin McGinn) offers a middle path: perhaps the gap is real but reflects human cognitive limitations rather than consciousness being non-physical. On this view, there *is* a property of the brain that explains consciousness, but humans are [[mysterianism|cognitively closed]] to it—as permanently unable to grasp the mind-brain connection as rats are to grasp calculus.
 
 This position takes the gap seriously while remaining agnostic about its ultimate significance. The Unfinishable Map's response: even granting cognitive closure, the gap argument provides evidence for the current conclusion. If we cannot know whether the gap is epistemic or ontological, we should track the evidence we have—and the convergence of multiple independent arguments pointing to consciousness being irreducible tips the balance toward dualism as the better working hypothesis. See [[mysterianism]] for extended discussion.
 

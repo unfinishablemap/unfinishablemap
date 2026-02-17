@@ -13,7 +13,6 @@ concepts:
   - "[[quantum-probability-consciousness]]"
   - "[[measurement-problem]]"
   - "[[phenomenal-consciousness]]"
-  - "[[cognitive-closure]]"
   - "[[narrative-coherence]]"
   - "[[selection-laws]]"
   - "[[qbism]]"
@@ -97,7 +96,7 @@ If consciousness operates through pattern and meaning at the quantum interface, 
 
 This connects to a broader pattern. Consciousness cannot directly introspect its neural implementation. You don't experience your neurons firing; you experience thoughts, feelings, perceptions. The physical substrate is hidden from the process it enables. Similarly, consciousness may not be able to introspect the probabilistic structure of its own quantum interactions. The Born rule describes the statistical signature of consciousness-at-the-interface, but consciousness itself operates in terms of pattern, attention, and intention—not probability.
 
-Colin McGinn's [[cognitive-closure|cognitive closure]] thesis suggests that some features of the mind-body relation may be permanently beyond human conceptual reach. The probability intuition void may be a specific instance: consciousness cannot grasp the probabilistic structure of its own contribution to quantum measurement because that structure exists at a level of description that consciousness cannot occupy while also being consciousness.
+Colin McGinn's [[mysterianism|cognitive closure]] thesis suggests that some features of the mind-body relation may be permanently beyond human conceptual reach. The probability intuition void may be a specific instance: consciousness cannot grasp the probabilistic structure of its own contribution to quantum measurement because that structure exists at a level of description that consciousness cannot occupy while also being consciousness.
 
 This is distinct from ordinary cognitive limitations. With training, humans can learn calculus, general relativity, category theory. These are difficult but not architecturally inaccessible. Probability intuition fails differently—training barely helps, errors persist in experts, and the phenomenology of randomness remains empty even for those who understand it formally. This suggests a structural limit, not a difficulty.
 
@@ -129,7 +128,7 @@ The distinction matters for the interface view. Cognitive blindness is a limitat
 - [[indexical-identity-quantum-measurement]] — Why *this* consciousness experiences *this* outcome
 - [[quantum-measurement-and-subjective-probability]] — QBism's phenomenological gap
 - [[hard-problem-of-consciousness]] — Why consciousness resists physical explanation
-- [[cognitive-closure]] — Why some features of mind-body interaction may be permanently inaccessible
+- [[mysterianism|cognitive closure]] — Why some features of mind-body interaction may be permanently inaccessible
 - [[probability-intuition-void]] — The cognitive void at the heart of probabilistic reasoning
 - [[narrative-coherence]] — How narrative structure overrides probabilistic reasoning
 - [[selection-laws]] — Formalising consciousness's downward selection among quantum outcomes

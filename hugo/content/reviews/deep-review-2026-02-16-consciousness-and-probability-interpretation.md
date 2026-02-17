@@ -31,7 +31,7 @@ topics: []
 - **Evolutionary explanation dismissed without argument**: The article labeled the evolutionary account "deflationary" without explaining why it was insufficient. Resolution: Rewrote the section to engage substantively — the evolutionary account explains the heuristics but not why the biases are structurally entangled with the features that make consciousness probability's prerequisite.
 - **Dualism argument from probability blindness too strong**: The claim that information-processing systems should handle probability correctly was a non sequitur (computational systems routinely have biases). Resolution: Rewrote to distinguish between contingent architectural biases (correctable by redesign) and constitutive entanglement with consciousness's essential features.
 - **No decoherence acknowledgment**: Article made claims about consciousness at quantum indeterminacies without addressing the primary physics objection. Resolution: Added parenthetical acknowledging the decoherence objection with cross-link to the Minimal Quantum Interaction tenet.
-- **Missing cross-links**: Added in-text links to [qbism](/concepts/qbism/), [narrative-coherence](/concepts/narrative-coherence/), [cognitive-closure](/concepts/cognitive-closure/), and [probability-intuition-void](/voids/probability-intuition-void/). Expanded Further Reading with [selection-laws](/concepts/selection-laws/), [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/), and others.
+- **Missing cross-links**: Added in-text links to [qbism](/concepts/qbism/), [narrative-coherence](/concepts/narrative-coherence/), [cognitive-closure](/cognitive-closure/), and [probability-intuition-void](/voids/probability-intuition-void/). Expanded Further Reading with [selection-laws](/concepts/selection-laws/), [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/), and others.
 - **DeYoung et al. citation corrected**: First author is Blain, not DeYoung. Full title includes subtitle. Updated.
 
 ### Counterarguments Considered
@@ -65,7 +65,7 @@ topics: []
 ### Cross-links Added
 - [qbism](/concepts/qbism/) (in-text)
 - [narrative-coherence](/concepts/narrative-coherence/) (in-text)
-- [cognitive-closure](/concepts/cognitive-closure/) (in-text, replacing less-specific [mysterianism](/concepts/mysterianism/) link)
+- [cognitive-closure](/cognitive-closure/) (in-text, replacing less-specific [mysterianism](/concepts/mysterianism/) link)
 - [probability-intuition-void](/voids/probability-intuition-void/) (in-text + Further Reading)
 - [selection-laws](/concepts/selection-laws/) (Further Reading)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) (Further Reading)

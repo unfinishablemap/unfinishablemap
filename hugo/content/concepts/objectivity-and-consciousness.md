@@ -13,7 +13,6 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[mysterianism]]'
 - '[[qualia]]'
-- '[[cognitive-closure]]'
 - '[[knowledge-argument]]'
 - '[[idealism]]'
 - '[[argument-from-reason]]'
@@ -87,7 +86,7 @@ This isn't methodological failure fixable with better instruments. It's conceptu
 
 This is the [explanatory-gap](/concepts/explanatory-gap/) in its sharpest form. Joseph Levine (1983) noted that even if "pain = C-fiber firing" is true, the identity remains explanatorily unsatisfying in a way that "water = H2O" is not. We can see *why* water has its properties given H2O's molecular structure, but we cannot see *why* C-fiber firing hurts. The [knowledge-argument](/concepts/knowledge-argument/) sharpens this further: even complete physical knowledge of colour vision wouldn't convey what red looks like. Levine presented this as an *epistemic* gap—a limitation in our explanatory capacities. The Map takes the stronger position that the gap reflects something ontological: the connection between physical description and phenomenal character lies outside what objective methods can capture, because phenomenal properties are not the kind of thing objective description addresses.
 
-[Mysterianism](/concepts/mysterianism/) suggests this limitation may be permanent. Colin McGinn's [cognitive-closure](/concepts/cognitive-closure/) thesis proposes that humans are constitutionally unable to grasp the property linking consciousness to brain—not because the connection is supernatural but because our cognitive architecture cannot form the relevant concepts. The objectivity paradox would then reflect the structure of human cognition, not merely a temporary epistemic limitation. We access consciousness through introspection and brain through perception, but neither mode of access—nor any combination—reveals how they connect.
+[Mysterianism](/concepts/mysterianism/) suggests this limitation may be permanent. Colin McGinn's [cognitive closure](/concepts/mysterianism/) thesis proposes that humans are constitutionally unable to grasp the property linking consciousness to brain—not because the connection is supernatural but because our cognitive architecture cannot form the relevant concepts. The objectivity paradox would then reflect the structure of human cognition, not merely a temporary epistemic limitation. We access consciousness through introspection and brain through perception, but neither mode of access—nor any combination—reveals how they connect.
 
 ## Methodological Responses
 
@@ -170,7 +169,7 @@ The limits of objectivity are not defects to overcome but features of reality it
 - [argument-from-reason](/topics/argument-from-reason/) — Why rational thought requires irreducible mental causation
 - [qualia](/concepts/qualia/) — The intrinsic subjective qualities that objective description cannot capture
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and why complete physical knowledge leaves out phenomenal facts
-- [cognitive-closure](/concepts/cognitive-closure/) — McGinn's thesis on the permanent limits of human understanding
+- [cognitive closure](/concepts/mysterianism/) — McGinn's thesis on the permanent limits of human understanding
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Knowledge domains accessible only through phenomenal experience
 
 ## References

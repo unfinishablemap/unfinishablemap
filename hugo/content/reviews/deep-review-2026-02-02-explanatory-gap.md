@@ -80,7 +80,7 @@ Extensive cross-linking already in place:
 - [arguments-against-materialism](/arguments-against-materialism/)
 - [knowledge-argument](/concepts/knowledge-argument/)
 - [integrated-information-theory](/concepts/integrated-information-theory/)
-- [cognitive-closure](/concepts/cognitive-closure/)
+- [cognitive-closure](/cognitive-closure/)
 
 ## Remaining Items
 

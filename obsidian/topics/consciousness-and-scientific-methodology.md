@@ -19,7 +19,6 @@ concepts:
   - "[[heterophenomenology]]"
   - "[[objectivity-and-consciousness]]"
   - "[[qualia]]"
-  - "[[cognitive-closure]]"
   - "[[philosophical-zombies]]"
   - "[[introspection]]"
 related_articles:
@@ -123,7 +122,7 @@ The Map's [[tenets]] illuminate why this methodological problem is not merely te
 - [[explanatory-gap]] — Why physical explanation leaves phenomenal character unexplained
 - [[heterophenomenology]] — Dennett's third-person methodology and why the Map finds it insufficient
 - [[the-measurement-problem-as-philosophical-problem]] — The quantum measurement problem developed as a philosophical issue
-- [[cognitive-closure]] — McGinn's thesis that some problems may exceed human cognitive reach
+- [[mysterianism|cognitive closure]] — McGinn's thesis that some problems may exceed human cognitive reach
 - [[philosophical-zombies]] — The conceivability argument that flows from excluding subjectivity
 
 ## References

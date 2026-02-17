@@ -254,7 +254,7 @@ The Map's interactionist framework addresses its challenge through quantum mecha
 
 ### Mysterianism
 
-[Mysterianism](/concepts/mysterianism/) proposes that the hard problem may be permanently beyond human understanding—not because consciousness is supernatural but because our cognitive architecture lacks the resources. Colin McGinn's [cognitive closure](/concepts/cognitive-closure/): just as squirrels cannot understand quantum mechanics, humans may be constitutionally unable to understand consciousness. McGinn holds the explanation exists but human minds cannot grasp it.
+[Mysterianism](/concepts/mysterianism/) proposes that the hard problem may be permanently beyond human understanding—not because consciousness is supernatural but because our cognitive architecture lacks the resources. Colin McGinn's [cognitive closure](/concepts/mysterianism/): just as squirrels cannot understand quantum mechanics, humans may be constitutionally unable to understand consciousness. McGinn holds the explanation exists but human minds cannot grasp it.
 
 This supports the Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet: our sense of which explanations are "simple" may reflect cognitive limitations rather than ontological facts. See [mysterianism](/concepts/mysterianism/) for detailed treatment.
 

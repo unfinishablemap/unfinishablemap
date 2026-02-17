@@ -24,7 +24,6 @@ related_articles:
 - '[[other-minds-void]]'
 - '[[convergent-cognitive-limits]]'
 - '[[embodiment-cognitive-limits]]'
-- '[[cognitive-closure]]'
 - '[[embodied-cognition]]'
 title: Alien Minds as Void Explorers
 topics:
@@ -53,7 +52,7 @@ The bat has experiential territory humans cannot enter. Our map has a void where
 
 ## Cognitive Closure and Alien Access
 
-Colin McGinn's [mysterian](/concepts/mysterianism/) framework formalises what this means. McGinn proposes that minds can be subject to [cognitive-closure](/concepts/cognitive-closure/)—the properties exist but the mind's concept-forming procedures cannot extend to grasp them.
+Colin McGinn's [mysterian](/concepts/mysterianism/) framework formalises what this means. McGinn proposes that minds can be subject to [cognitive closure](/concepts/mysterianism/)—the properties exist but the mind's concept-forming procedures cannot extend to grasp them.
 
 The architecture that makes some things thinkable makes other things unthinkable. Human cognition evolved for survival in African savanna environments. Our concepts, categories, and reasoning patterns reflect those origins. Problems amenable to human cognition—hunting, gathering, social navigation, basic physics—shaped what our minds can do.
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Cognitive Closure](/concepts/cognitive-closure/)
+**Article**: [Cognitive Closure](/cognitive-closure/)
 **Previous review**: Never (standalone article; note: the mysterianism-cognitive-closure combined article was reviewed 2026-01-25)
 
 ## Context

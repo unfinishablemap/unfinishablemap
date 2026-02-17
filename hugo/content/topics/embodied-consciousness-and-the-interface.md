@@ -128,7 +128,7 @@ The interface reading of embodied cognition would face serious difficulty if:
 
 4. **Extended mind necessarily implies extended consciousness.** Clark distinguishes extended cognition from extended consciousness. If arguments emerged showing cognitive extension *necessarily* implies consciousness extension, the clean separation between interface and consciousness would be harder to maintain.
 
-There is also a deeper question the interface reading cannot answer: even if embodied cognition reveals the interface, the interface itself may be [cognitively closed](/concepts/cognitive-closure/) to us. We can map *where* consciousness meets matter without understanding *how* phenomenal experience arises from the meeting. This is not a weakness of the framework so much as a feature of the problem—one the Map acknowledges rather than conceals.
+There is also a deeper question the interface reading cannot answer: even if embodied cognition reveals the interface, the interface itself may be [cognitively closed](/concepts/mysterianism/) to us. We can map *where* consciousness meets matter without understanding *how* phenomenal experience arises from the meeting. This is not a weakness of the framework so much as a feature of the problem—one the Map acknowledges rather than conceals.
 
 ## Relation to Site Perspective
 

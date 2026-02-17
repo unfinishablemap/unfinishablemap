@@ -13,7 +13,6 @@ concepts:
   - "[[mysterianism]]"
   - "[[phenomenology]]"
   - "[[simulation]]"
-  - "[[cognitive-closure]]"
   - "[[qualia]]"
 related_articles:
   - "[[voids]]"
@@ -88,7 +87,7 @@ The probability intuition void spans multiple categories in the [[three-kinds-of
 
 The probability intuition void differs from the [[scale-void|Scale Void]] in important ways. Scale failure concerns magnitude—we cannot intuit a billion because our number systems evolved for smaller quantities. Probability failure concerns something deeper: our relationship to uncertainty itself, to the structure of randomness, to events without pattern or cause.
 
-Colin McGinn's [[cognitive-closure|cognitive closure]] framework illuminates why probability limits might be structural. If consciousness inherently seeks meaning, pattern, and agency—if these orientations are not incidental features but constitutive of what consciousness is—then genuine randomness would be categorically outside its scope. We have the symbols for probability but no phenomenological referent. The formal manipulation succeeds; the understanding does not follow.
+Colin McGinn's [[mysterianism|cognitive closure]] framework illuminates why probability limits might be structural. If consciousness inherently seeks meaning, pattern, and agency—if these orientations are not incidental features but constitutive of what consciousness is—then genuine randomness would be categorically outside its scope. We have the symbols for probability but no phenomenological referent. The formal manipulation succeeds; the understanding does not follow.
 
 This suggests consciousness may be intrinsically intentional in structure—always oriented toward something, seeking pattern, meaning, cause. Pure randomness—events with no pattern, no cause, no meaning—would be precisely what such a consciousness cannot grasp from the inside. The probability intuition void may be one concrete instance of the [[hard-problem-of-consciousness|hard problem]]: we lack phenomenal access to a fundamental feature of reality. We might causally interact with random processes (as quantum mechanics suggests we do) while being phenomenologically blind to their nature.
 
@@ -111,7 +110,7 @@ The probability intuition void connects to the Map's [[tenets]] in several ways.
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[three-kinds-of-void]] — The core taxonomy: unexplored, unexplorable, occluded
 - [[scale-void]] — The related void concerning magnitude comprehension
-- [[cognitive-closure]] — McGinn's framework for permanent cognitive limits
+- [[mysterianism|cognitive closure]] — McGinn's framework for permanent cognitive limits
 - [[convergent-cognitive-limits]] — Cross-cultural evidence that probability errors are species-level, not cultural
 - [[developmental-cognitive-closure]] — How cognitive limits are acquired through development
 - [[embodiment-cognitive-limits]] — How bodies constrain thought

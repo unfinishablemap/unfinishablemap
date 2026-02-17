@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-06 18:25:00+00:00
+ai_modified: 2026-02-17 01:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /topics/mysterianism-cognitive-closure/
+- /concepts/cognitive-closure/
 concepts:
 - '[[minimal-consciousness]]'
 - '[[qualia]]'
@@ -20,8 +21,9 @@ concepts:
 - '[[conceptual-acquisition-limits]]'
 - '[[computational-cognitive-limits]]'
 - '[[convergent-cognitive-limits]]'
+- '[[cognitive-science-of-dualism]]'
 created: 2026-01-15
-date: &id001 2026-01-20
+date: &id001 2026-02-17
 description: 'McGinn''s cognitive closure thesis: human minds may be constitutionally
   unable to solve the mind-body problem, like rats unable to grasp calculus.'
 draft: false
@@ -56,9 +58,17 @@ This position occupies important middle ground. Unlike eliminativism, mysteriani
 
 ## Cognitive Closure
 
-McGinn's key concept is [cognitive closure](/concepts/cognitive-closure/). A type of mind M is cognitively closed with respect to a property P if M's concept-forming procedures cannot extend to a grasp of P. The property exists; M simply cannot conceive it. This isn't about intelligence within a domain—it's about which domains are accessible at all.
+McGinn's key concept is *cognitive closure*. His 1989 definition has three components:
 
-We access consciousness through introspection and brain through perception, but neither mode of access reveals how they connect. The solution might be natural, even simple—but closed to beings like us. McGinn's framework assumes our limits are *natural* features of finite minds; whether this assumption can even be tested is itself a [prior question](/voids/natural-vs-designed-limits/) the voids framework explores.
+1. **A type of mind M** — not individual minds but cognitive architectures. Human minds form one type; bat minds another. Closure is architecture-specific.
+2. **Concept-forming procedures** — the methods by which minds acquire and construct concepts. Humans form concepts through perception, introspection, inference, abstraction. Whatever procedures we use, they define our conceptual reach.
+3. **A property P** — some real feature of the world. Cognitive closure does not deny the property exists; it claims the property lies outside what M's procedures can grasp.
+
+A type of mind M is cognitively closed with respect to a property P if M's concept-forming procedures cannot extend to a grasp of P. The property exists; M simply cannot conceive it. The distinction is between *domain inaccessibility* and *problem difficulty*—a rat cannot grasp calculus regardless of training time, not because calculus is hard but because the relevant conceptual apparatus is missing from rat cognitive architecture.
+
+McGinn argues that property P—the property linking consciousness to brain—is closed to humans because of how we access each side. **Consciousness** is accessed through introspection: we look inward and encounter experiences directly, but introspection reveals nothing about neural mechanisms. **The brain** is accessed through perception and scientific investigation: we observe neural activity and map synaptic connections, but perception reveals nothing about why this activity should feel like anything. Neither mode of access reveals the *connection* between the two. This asymmetric access shapes how [cognitive science studies consciousness](/topics/cognitive-science-of-dualism/): the field's third-person methods capture neural correlates while depending on first-person report to know what those correlates are correlates *of*.
+
+McGinn calls his position "transcendental naturalism": the solution is natural (no supernatural entities required) but transcends our cognitive capacities. Property P is presumably simple and elegant—we just cannot form the concept. Whether this assumption can even be tested is itself a [prior question](/voids/natural-vs-designed-limits/) the voids framework explores.
 
 ## Nagel's Bat
 
@@ -158,6 +168,8 @@ Mysterianism would be undermined if:
 
 After millennia of philosophical investigation and decades of neuroscience, the hard problem remains puzzling. This doesn't prove permanent closure, but the track record favors mysterian humility.
 
+Cognitive closure is falsifiable in principle. The claim is not that the mind-body problem is unanswerable in all possible worlds, but that human cognitive architecture cannot reach the answer. Genuine explanatory progress—not merely correlations between brain states and reports, but transparent understanding of *why* neural activity feels like anything—would refute the closure thesis. The absence of such progress provides inductive support, not proof.
+
 ## Criticisms
 
 ### The Defeatism Objection
@@ -227,6 +239,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Huemer, M. (2009). "When Is Parsimony a Virtue?" *The Philosophical Quarterly*, 59(235), 216-236.
 - McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
+- McGinn, C. (1993). *Problems in Philosophy: The Limits of Inquiry*. Blackwell.
 - McGinn, C. (1999). *The Mysterious Flame: Conscious Minds in a Material World*. Basic Books.
 - Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
 - Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.

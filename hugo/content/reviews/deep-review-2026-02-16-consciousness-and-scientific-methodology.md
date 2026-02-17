@@ -31,7 +31,7 @@ topics: []
 - **Gödel analogy unargued**: The original presented Gödel's limits as directly applicable to consciousness without explaining the structural parallel. Resolution: Rewritten to explicitly state the parallel ("just as sufficiently powerful formal systems contain truths they cannot prove about themselves, consciousness-studying-consciousness may encounter structural boundaries") and softened from "profound" to "suggestive."
 - **Quantum analogy interpretation-dependent**: The measurement problem analogy depends on collapse interpretations of QM; under MWI there is no measurement problem. Resolution: Added a parenthetical acknowledging interpretation-dependence, connecting to the Map's No Many Worlds tenet, and cross-linking to [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/).
 - **Uniqueness claim too strong**: "No other phenomenon in nature presents itself differently" was an unsupported absolute claim. Resolution: Softened to "distinctive to consciousness" and "no other phenomenon presents this gap... with comparable sharpness."
-- **Missing cross-links**: Several existing Map articles on closely related topics were not linked. Resolution: Added cross-links to [heterophenomenology](/concepts/heterophenomenology/), [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/), [cognitive-closure](/concepts/cognitive-closure/), [philosophical-zombies](/concepts/philosophical-zombies/), [qualia](/concepts/qualia/), and [introspection](/concepts/introspection/).
+- **Missing cross-links**: Several existing Map articles on closely related topics were not linked. Resolution: Added cross-links to [heterophenomenology](/concepts/heterophenomenology/), [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/), [cognitive-closure](/cognitive-closure/), [philosophical-zombies](/concepts/philosophical-zombies/), [qualia](/concepts/qualia/), and [introspection](/concepts/introspection/).
 
 ### Counterarguments Considered
 - **Eliminativism** (Churchland): The article assumes "consciousness" is a coherent natural kind. Eliminativists would argue the concept itself may be defective. Not addressed in this review — the article is about methodology for studying consciousness, and engaging with eliminativism here would require a significant structural addition. Deferred as a potential expansion.
@@ -64,7 +64,7 @@ topics: []
 - [introspection](/concepts/introspection/)
 - [heterophenomenology](/concepts/heterophenomenology/)
 - [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)
-- [cognitive-closure](/concepts/cognitive-closure/)
+- [cognitive-closure](/cognitive-closure/)
 - [philosophical-zombies](/concepts/philosophical-zombies/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) (inline link)
 - [tenets](/tenets/#no-many-worlds) (inline link)

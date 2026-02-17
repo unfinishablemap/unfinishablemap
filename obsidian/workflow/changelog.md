@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 01:42 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/cognitive-closure]]
+- **Target**: [[concepts/mysterianism]]
+- **Archived**: [[archive/concepts/cognitive-closure]]
+- **References updated**: 13 active content files (wikilinks redirected to mysterianism)
+- **Notes**: Cognitive closure content integrated into existing mysterianism article (formal definition, falsifiability, asymmetric access argument). Concepts section reduced from 179 to 178 articles (cap: 200).
+
 ## 2026-02-17 01:12 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/moral-perception]]

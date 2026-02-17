@@ -56,7 +56,7 @@ topics: []
 - All five reference citations corrected
 
 ### Cross-links Added
-- [cognitive-closure](/concepts/cognitive-closure/) — in McGinn's mysterian framework discussion
+- [cognitive-closure](/cognitive-closure/) — in McGinn's mysterian framework discussion
 - [embodied-cognition](/concepts/embodied-cognition/) — in architecture-dependent logic section
 
 ## Remaining Items
