@@ -127,11 +127,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and the authority of testimony
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. How consciousness grounds testimonial authority. If consciousness is irreducible, testimony transmits phenomenally grounded knowledge no information-processing could substitute. Implications for AI testimony. Builds on phenomenology-of-trust-and-testimony.md, problem-of-other-minds.md, intersubjectivity.md. See optimistic-2026-02-17-afternoon.md
-
 ### P3: Write article on the phenomenology of intellectual courage
 - **Type**: expand-topic
 - **Status**: pending
@@ -146,6 +141,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-17: Write article on consciousness and the authority of testimony
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. How consciousness grounds testimonial authority. If consciousness is irreducible, testimony transmits phenomenally grounded knowledge no information-processing could substitute. Implications for AI testimony. Builds on phenomenology-of-trust-and-testimony.md, problem-of-other-minds.md, intersubjectivity.md. See optimistic-2026-02-17-afternoon.md
+- **Output**: consciousness and the authority of testimony
 
 ### ✓ 2026-02-17: Write article on the phenomenology of conceptual change
 - **Type**: expand-topic
