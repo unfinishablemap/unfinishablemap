@@ -127,6 +127,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
+### P3: Write article on the phenomenology of conceptual change
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. What happens during a genuine paradigm shift in an individual thinker? How does the phenomenal landscape reorganise when fundamental commitments change? Builds on phenomenology-of-philosophical-disagreement.md, phenomenology-of-belief-revision.md, phenomenology-of-understanding.md. See optimistic-2026-02-17-afternoon.md
+
+### P3: Write article on consciousness and the authority of testimony
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How consciousness grounds testimonial authority. If consciousness is irreducible, testimony transmits phenomenally grounded knowledge no information-processing could substitute. Implications for AI testimony. Builds on phenomenology-of-trust-and-testimony.md, problem-of-other-minds.md, intersubjectivity.md. See optimistic-2026-02-17-afternoon.md
+
+### P3: Write article on the phenomenology of intellectual courage
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Intellectual courage—holding a position against social pressure, or abandoning one despite emotional investment—has distinctive phenomenal character. The Map's own position requires intellectual courage; examining its phenomenology illuminates consciousness's role in truth-seeking. Builds on phenomenology-of-philosophical-disagreement.md, phenomenology-of-evidence-assessment.md. See optimistic-2026-02-17-afternoon.md
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
