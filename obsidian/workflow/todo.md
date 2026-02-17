@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced metarepresentation article
+- **Type**: other
+- **Notes**: Coalesce (2026-02-17) merged `metarepresentation.md` into `metacognition.md` (now titled "Metacognition, Metarepresentation, and Consciousness"). 32 active content files reference `[[metarepresentation]]` across concepts/, topics/, reviews/, and voids/. Key files include: teaching-as-metarepresentation.md, working-memory.md, baseline-cognition.md, theory-of-mind.md, higher-order-theories.md, consciousness-as-amplifier.md, cumulative-culture.md, global-workspace-theory.md, problem-of-other-minds.md, minimal-consciousness.md, consciousness-and-social-cognition.md (both concept and topic), jourdain-hypothesis.md, animal-consciousness.md, creativity-consciousness-and-novel-thought.md, distinctiveness-of-human-creativity.md. Archive page serves the URL, but wikilinks in active content should eventually be updated to point to `[[metacognition]]` where appropriate.
+- **Source**: coalesce
+- **Generated**: 2026-02-17
+
 ### P2: Verify Gallagher & Zahavi (2025) citation in phenomenology.md
 - **Type**: other
 - **Notes**: Pessimistic review (2026-02-16 evening) flagged "Gallagher, S., & Zahavi, D. (2025). Cognitive science needs phenomenology. *Journal for the Theory of Social Behaviour*. Advance online publication." as potentially fictitious. Verify this citation exists; if not, remove or replace with a verifiable source. See pessimistic-2026-02-16-evening.md

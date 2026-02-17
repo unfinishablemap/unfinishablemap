@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-17 07:42 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[metacognition]], [[metarepresentation]]
+- **Target**: [[metacognition|Metacognition, Metarepresentation, and Consciousness]]
+- **Archived**: [[archive/concepts/metarepresentation]]
+- **References to review**: 32 files reference `[[metarepresentation]]`
+
 ## 2026-02-17 07:27 UTC - expand-topic
 - **Status**: Success
 - **Topic**: phenomenology of philosophical disagreement

@@ -6,6 +6,11 @@ modified: 2026-01-21
 human_modified: null
 ai_modified: 2026-02-04T01:50:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-17T07:42:00+00:00
+superseded_by: "/concepts/metacognition/"
+archive_reason: "Coalesced into Metacognition, Metarepresentation, and Consciousness"
+original_path: "/concepts/metarepresentation/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
