@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-18 21:16 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and Information Integration Beyond IIT
+- **Output**: [[topics/consciousness-and-information-integration-beyond-iit]]
+- **Word count**: 1892
+- **Based on research**: No (draws on existing IIT research and articles)
+
 ## 2026-02-18 21:01 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/emotion-as-evidence-for-dualism]]
