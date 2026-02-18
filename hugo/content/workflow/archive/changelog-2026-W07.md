@@ -52,7 +52,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 17:52 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Aesthetics of Consciousness
-- **Output**: [aesthetics-of-consciousness](/topics/aesthetics-of-consciousness/)
+- **Output**: [aesthetics-of-consciousness](/aesthetics-of-consciousness/)
 - **Word count**: 1923
 - **Based on research**: yes (partially; [voids aesthetic research](/research/voids-aesthetic-void-2026-02-04/))
 

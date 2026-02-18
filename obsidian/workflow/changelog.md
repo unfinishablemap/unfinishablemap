@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-18 13:47 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[aesthetics-of-consciousness]], [[consciousness-and-aesthetic-experience-as-philosophical-evidence]], [[consciousness-and-aesthetic-value]]
+- **Target**: [[aesthetic-dimension-of-consciousness]]
+- **Archived**: archive/topics/aesthetics-of-consciousness.md, archive/topics/consciousness-and-aesthetic-experience-as-philosophical-evidence.md, archive/topics/consciousness-and-aesthetic-value.md
+- **References updated**: consciousness-and-aesthetic-creation.md, binding-and-beauty.md
+- **Net reduction**: 3 articles removed from topics/ (177→174)
+
 ## 2026-02-18 13:32 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Problem of Other Properties

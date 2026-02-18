@@ -6,6 +6,11 @@ modified: 2026-02-17
 human_modified:
 ai_modified: 2026-02-17T06:42:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-18T13:47:00+00:00
+superseded_by: "/topics/aesthetic-dimension-of-consciousness/"
+archive_reason: "Coalesced into The Aesthetic Dimension of Consciousness"
+original_path: "/topics/consciousness-and-aesthetic-value/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[aesthetic-dimension-of-consciousness]]"

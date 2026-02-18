@@ -23,7 +23,6 @@ related_articles:
   - "[[aesthetic-dimension-of-consciousness]]"
   - "[[quantum-binding-and-phenomenal-unity]]"
   - "[[aesthetic-void]]"
-  - "[[consciousness-and-aesthetic-experience-as-philosophical-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -121,7 +120,6 @@ The Unfinishable Map's tenets illuminate the aesthetic unity problem from severa
 - [[aesthetic-dimension-of-consciousness]]
 - [[quantum-binding-and-phenomenal-unity]]
 - [[aesthetic-void]]
-- [[consciousness-and-aesthetic-experience-as-philosophical-evidence]]
 - [[phenomenal-unity]]
 - [[unity-of-consciousness]]
 

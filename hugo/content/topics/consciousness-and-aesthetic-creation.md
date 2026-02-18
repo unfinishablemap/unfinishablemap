@@ -30,7 +30,6 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[aesthetic-dimension-of-consciousness]]'
-- '[[consciousness-and-aesthetic-experience-as-philosophical-evidence]]'
 - '[[distinctiveness-of-human-creativity]]'
 - '[[consciousness-and-mathematical-creativity]]'
 - '[[aesthetic-void]]'
@@ -38,7 +37,6 @@ related_articles:
 - '[[creativity-consciousness-and-novel-thought]]'
 - '[[phenomenology-of-flow-states]]'
 - '[[epiphenomenalism]]'
-- '[[consciousness-and-aesthetic-value]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 title: Consciousness and Aesthetic Creation
 topics:
@@ -46,7 +44,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Making art is not the same as appreciating it. The painter confronting a blank canvas, the composer hearing the first bars of something that does not yet exist, the poet searching for the word that will close a line—each faces a phenomenal situation that has no analogue in aesthetic reception. The [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) explores why beauty pervades experience and resists physical reduction. [Aesthetic experience as philosophical evidence](/topics/consciousness-and-aesthetic-experience-as-philosophical-evidence/) examines how encountering beauty strengthens the case for dualism. This article addresses the prior question: what happens in consciousness when beauty is being *made*?
+Making art is not the same as appreciating it. The painter confronting a blank canvas, the composer hearing the first bars of something that does not yet exist, the poet searching for the word that will close a line—each faces a phenomenal situation that has no analogue in aesthetic reception. The [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) explores why beauty pervades experience and resists physical reduction. [The aesthetic dimension](/topics/aesthetic-dimension-of-consciousness/) also examines how encountering beauty strengthens the case for dualism. This article addresses the prior question: what happens in consciousness when beauty is being *made*?
 
 The Unfinishable Map argues that aesthetic creation provides distinctive evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. The creative act in aesthetic domains requires phenomenal consciousness not as a passive accompaniment but as an active, guiding force—one that shapes material outcomes through felt qualities that no functional description exhausts.
 
@@ -150,8 +148,7 @@ The claim that aesthetic creation requires phenomenal consciousness would weaken
 
 ## Further Reading
 
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why beauty pervades experience and resists physical reduction
-- [consciousness-and-aesthetic-experience-as-philosophical-evidence](/topics/consciousness-and-aesthetic-experience-as-philosophical-evidence/) — Aesthetic experience as evidence for dualism
+- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Beauty's pervasiveness, for-ness, and evidential force for dualism
 - [distinctiveness-of-human-creativity](/topics/distinctiveness-of-human-creativity/) — Why human creativity differs in kind from AI and animal creativity
 - [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-creativity/) — Mathematical creativity as the sharpest case for consciousness as causal force
 - [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — The generation-selection synthesis

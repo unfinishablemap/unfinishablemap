@@ -29,7 +29,6 @@ related_articles:
 - '[[aesthetic-dimension-of-consciousness]]'
 - '[[quantum-binding-and-phenomenal-unity]]'
 - '[[aesthetic-void]]'
-- '[[consciousness-and-aesthetic-experience-as-philosophical-evidence]]'
 title: 'Binding and Beauty: The Aesthetic Unity Problem'
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -124,7 +123,6 @@ The Unfinishable Map's tenets illuminate the aesthetic unity problem from severa
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/)
 - [aesthetic-void](/voids/aesthetic-void/)
-- [consciousness-and-aesthetic-experience-as-philosophical-evidence](/topics/consciousness-and-aesthetic-experience-as-philosophical-evidence/)
 - [phenomenal-unity](/phenomenal-unity/)
 - [unity-of-consciousness](/concepts/unity-of-consciousness/)
 
