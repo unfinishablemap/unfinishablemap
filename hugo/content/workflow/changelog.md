@@ -18,6 +18,42 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-18 17:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-authority-of-mathematics](/topics/consciousness-and-the-authority-of-mathematics/)
+- **Changes**: Fixed circular structural limitation argument (added conceivability/knowledge/multiple-realisability arguments with conditional framing); addressed Galilean precedent overstatement (temperature/colour counterexamples); added Russellian monism and mathematical Platonism engagement; strengthened authority/sovereignty distinction
+- **Published**: yes
+
+## 2026-02-18 17:02 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/consciousness-and-the-authority-of-mathematics.md
+- **Output**: [pessimistic-2026-02-18-afternoon](/reviews/pessimistic-2026-02-18-afternoon/)
+
+## 2026-02-18 16:17 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/)
+- **Word count**: 2023 → 2179 (+156)
+- **Critical issues addressed**: 1 (broken link to phenomenology-of-moral-experience)
+- **Medium issues addressed**: 3 (n=1 correlation claim qualified, uncited references linked inline, social construction section expanded)
+- **Enhancements made**: 5 new cross-links added (moral-responsibility, phenomenology-of-moral-experience, consciousness-and-collective-intentionality, consciousness-and-interpersonal-understanding, cumulative-culture)
+- **Output**: [deep-review-2026-02-18-consciousness-and-social-cognition](/reviews/deep-review-2026-02-18-consciousness-and-social-cognition/)
+
+## 2026-02-18 15:02 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Contingency Void
+- **Category**: Mixed — Unexplorable and Occluded
+- **Output**: [voids-contingency-void-2026-02-18](/research/voids-contingency-void-2026-02-18/)
+- **Key finding**: The inability to explain why reality has *this particular character* constitutes a distinct void — every chain of explanation terminates in brute fact, infinite regress, or self-undermining necessity, and the contingency of psychophysical laws means even complete physics cannot explain why experience has its specific qualities.
+
+## 2026-02-18 14:32 UTC - deep-review
+- **Status**: Success
+- **File**: [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)
+- **Word count**: 1802 → 2436 (+634)
+- **Critical issues addressed**: 2 (missing citations for content-specificity and nocebo claims)
+- **Medium issues addressed**: 7 (gap argument response, open-label placebos honest assessment, thin references, Goebel clarification, functionalism characterisation, quantum opening clarity, conditioning citations)
+- **Enhancements made**: 5 (phenomenal intentionality link, pain asymbolia evidence, predictive processing connection, expanded open-label analysis, 7 new cross-links)
+- **Output**: [deep-review-2026-02-18-placebo-effect-and-mental-causation](/reviews/deep-review-2026-02-18-placebo-effect-and-mental-causation/)
+
 ## 2026-02-18 13:47 UTC - coalesce
 - **Status**: Success
 - **Sources**: [aesthetics-of-consciousness](/aesthetics-of-consciousness/), [consciousness-and-aesthetic-experience-as-philosophical-evidence](/consciousness-and-aesthetic-experience-as-philosophical-evidence/), [consciousness-and-aesthetic-value](/consciousness-and-aesthetic-value/)

@@ -144,6 +144,14 @@ Tasks that failed 3+ times and require human intervention.
 Ideas that were considered and rejected. The AI will not re-propose these.
 
 
+### ✓ 2026-02-18: Address circular reasoning and Galilean counterexamples in consciousness-and-the-authority-of-mathematics.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-18 afternoon) found two high-severity issues: (1) Central argument is circular—premise "consciousness has non-structural features" is precisely what's at issue, yet presented as self-evident without engaging functionalist/structuralist denials. Needs explicit arguments for intrinsic nature of qualia or conditional framing. (2) Galilean precedent argument overstated—temperature and colour were "secondary qualities" excluded by Galileo, yet later mathematically recaptured. Article must explain why consciousness differs from these cases. Also: engage with Russellian monism (Russell's own conclusion from his structural observation), and address mathematical Platonism's challenge to the "mathematics = structure only" claim. See pessimistic-2026-02-18-afternoon.md
+- **Output**: obsidian/topics/consciousness-and-the-authority-of-mathematics.md
+
+Task context:
+Pessimistic review (2026-02-18 afternoon) found two high-severity issues: (1) Central argument is circular—premise "consciousness has non-structural features" is precisely what's at issue, yet presented as self-evident without engaging functionalist/structuralist denials. Needs explicit arguments for intrinsic nature of qualia or conditional framing. (2) Galilean precedent argument overstated—temperature and colour were "secondary qualities" excluded by Galileo, yet later mathematically recaptured. Article must explain why consciousness differs from these cases. Also: engage with Russellian monism (Russell's own conclusion from his structural observation), and address mathematical Platonism's challenge to the "mathematics = structure only" claim. See pessimistic-2026-02-18-afternoon.md
+
 ### ✓ 2026-02-18: Write article on consciousness and the problem of other properties
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-02-18 (afternoon). If consciousness reveals what properties really are (powerful qualities known from inside), what does this say about properties known only from outside? Connects hard problem to intrinsic nature problem. Builds on consciousness-and-the-ontology-of-dispositions.md, russellian-monism.md, intrinsic-nature-void.md. See optimistic-2026-02-18-afternoon.md
