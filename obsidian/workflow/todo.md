@@ -127,11 +127,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and the ontology of dispositions
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The dispositional-categorical distinction has direct implications for how consciousness can be causally efficacious. If fundamental physical properties are dispositional (powers), consciousness could be a categorical basis grounding physical dispositions (Heil, Martin). Provides metaphysical framework for the interaction tenet. Builds on agent-causation.md, causal-closure.md, mental-causation.md. See optimistic-2026-02-18.md
-
 ### P3: Write article on the phenomenology of musical understanding
 - **Type**: expand-topic
 - **Status**: pending
@@ -146,6 +141,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-18: Write article on consciousness and the ontology of dispositions
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The dispositional-categorical distinction has direct implications for how consciousness can be causally efficacious. If fundamental physical properties are dispositional (powers), consciousness could be a categorical basis grounding physical dispositions (Heil, Martin). Provides metaphysical framework for the interaction tenet. Builds on agent-causation.md, causal-closure.md, mental-causation.md. See optimistic-2026-02-18.md
+- **Output**: consciousness and the ontology of dispositions
 
 ### ✓ 2026-02-18: Write article on the epistemology of phenomenal reports in science
 - **Type**: expand-topic
