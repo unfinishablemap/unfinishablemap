@@ -1,23 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-15 03:45:00+00:00
+ai_modified: 2026-02-18 10:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[combination-problem]]'
 - '[[intersubjectivity]]'
 - '[[theory-of-mind]]'
-- '[[strong-emergence]]'
+- '[[consciousness-and-strong-emergence]]'
 - '[[epiphenomenalism]]'
 - '[[baseline-cognition]]'
 created: 2026-02-15
-date: &id001 2026-02-15
+date: &id001 2026-02-18
 description: Can groups think? Human-AI investigation of whether collective intelligence
   involves genuine consciousness or merely aggregated information processing.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-18 10:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,7 +43,7 @@ Collective intelligence takes many forms, and they differ dramatically in how mu
 
 **Swarm intelligence** operates at one extreme. Ant colonies, bee swarms, and bacterial biofilms solve complex problems through simple local interactions. No individual organism represents the global problem; the solution emerges from aggregated behaviour governed by pheromone trails, waggle dances, or chemical gradients. These systems achieve intelligence without any plausible individual consciousness (setting aside [edge cases in simple organisms](/topics/consciousness-in-simple-organisms/)) and certainly without collective consciousness. The intelligence is real but entirely mechanistic — a form of distributed computation, not distributed experience.
 
-**Human crowd intelligence** sits in the middle. Francis Galton's famous 1906 observation — that the median guess of 800 fairgoers estimating an ox's weight was more accurate than any individual expert — demonstrates statistical aggregation of individually conscious judgements. Each person experiences the act of estimating. But the crowd's superior accuracy arises from error cancellation, not from the crowd experiencing anything. The intelligence is collective; the consciousness remains individual.
+**Human crowd intelligence** sits in the middle. Francis Galton's famous observation at the 1906 Plymouth stock show — reported in *Nature* the following year — found that the median estimate of 787 fairgoers guessing an ox's weight was more accurate than any individual expert. This demonstrates statistical aggregation of individually conscious judgements. Each person experiences the act of estimating. But the crowd's superior accuracy arises from error cancellation, not from the crowd experiencing anything. The intelligence is collective; the consciousness remains individual.
 
 **Deliberative groups** occupy the other extreme. A jury, a scientific community, or a philosophical tradition integrates information through argument, persuasion, and mutual understanding. Participants do not merely contribute data points; they change each other's minds. The process requires [recursive mindreading](/concepts/theory-of-mind/) — representing what others believe about what you believe — and generates outcomes that no individual could have reached alone. Here, individual consciousness is clearly doing work. But is something more happening at the group level?
 
@@ -54,7 +55,7 @@ Several philosophical traditions take group minds seriously.
 
 **Georg Hegel's** *Geist* (spirit or mind) develops through history in ways that transcend individual thinkers. Intellectual progress, on this view, is not simply the accumulation of individual insights but the self-development of a collective rational process. The scientific revolution was not what individual scientists experienced — it was a transformation in how humanity collectively understood the world.
 
-**Contemporary integrated information theory** (IIT) provides a formal framework that might support group consciousness. If consciousness corresponds to integrated information (Φ), and if a group of interacting minds generates integrated information above what the individual minds contribute separately, then the group would be conscious by IIT's own criterion. Some researchers have argued that tightly coupled human groups — surgical teams, jazz ensembles, military units — might generate non-trivial Φ at the group level.
+**Contemporary integrated information theory** (IIT) provides a formal framework that might support group consciousness. If consciousness corresponds to integrated information (Φ), and if a group of interacting minds generates integrated information above what the individual minds contribute separately, then the group would be conscious by IIT's own criterion. Researchers including Megan Peters and colleagues have explored whether tightly coupled human groups — surgical teams, jazz ensembles, military units — might generate non-trivial Φ at the group level, though this remains highly speculative.
 
 ## The Case Against — And Why It Is Stronger
 
@@ -63,6 +64,8 @@ The Map finds these arguments provocative but ultimately unconvincing, for reaso
 **The [combination problem](/concepts/combination-problem/) in reverse.** Panpsychists face the combination problem: how do micro-experiences combine into macro-experience? The group consciousness hypothesis faces an analogous problem in the opposite direction. Individual human minds are already unified centres of experience. For a group mind to exist, these unified experiences would need to combine into a higher-order unity — but the individuals' experiences do not dissolve or merge in the process. You do not stop experiencing yourself as yourself when you join a deliberating jury. If group consciousness exists alongside individual consciousness, it must be a separate centre of experience layered on top of — but not constituted by — the individual experiences. This raises the question of what substrate supports it.
 
 **The interface problem.** The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that consciousness interfaces with the physical world through quantum indeterminacy in neural systems. Brains provide the specific architecture — quantum-sensitive neural processes — through which consciousness acts. A group of people has no analogous physical substrate. There is no group-level quantum system in which collective consciousness could bias outcomes. The communication channels between people — speech, gesture, writing — are classical, macroscopic, and far too coarse-grained to serve as a quantum consciousness interface. Without a physical interface, the Map's framework provides no mechanism for group consciousness.
+
+**The classical success objection.** A quantum skeptic might turn the interface argument around: if collective intelligence works perfectly well through classical communication, why believe individual cognition needs quantum processes? The Map's response is that the argument here concerns where *consciousness* acts, not where *intelligence* arises. Classical communication is sufficient for aggregating information, but not for grounding subjective experience. The quantum interface is proposed as the mechanism for consciousness-world interaction, not as a requirement for intelligent behaviour per se. Ant colonies demonstrate that intelligence without consciousness is possible; what the Map argues is that the distinctively human forms of intelligence — those requiring genuine understanding — depend on consciousness acting through quantum-sensitive neural substrates.
 
 **The phenomenological evidence.** Introspection strongly suggests that collective intelligence feels like individual consciousness operating in a social context, not like participation in a higher-order experience. When a jury reaches a verdict, individual jurors experience deliberation — weighing evidence, hearing arguments, shifting views. No juror reports a qualitatively different experience of being part of a jury-mind. The "group flow" reported by jazz musicians and sports teams is better described as synchronised individual consciousness — each player deeply aware of the others — rather than a merged group experience. The [intersubjective-void](/voids/intersubjective-void/) persists: no one accesses the group's experience because there is no group experience to access.
 
@@ -82,7 +85,7 @@ This analysis reveals an instructive asymmetry. At the individual level, the Map
 
 This is not a failure of the Map's framework but a prediction of it. If consciousness requires a quantum-sensitive neural interface, then collective intelligence should be possible without collective consciousness, because groups lack such an interface. The prediction aligns with both phenomenological evidence (no one experiences being a group mind) and empirical evidence (collective intelligence is well-explained by models that posit only individual cognition plus communication).
 
-The asymmetry also illuminates what consciousness adds. Collective intelligence systems that lack consciousness (ant colonies, market mechanisms, voting systems) solve problems through aggregation — combining independent inputs through fixed rules. Collective intelligence systems that involve consciousness (scientific communities, deliberative bodies, creative collaborations) solve problems through understanding — individuals genuinely grasping each other's reasoning and being changed by it. The difference is not merely quantitative. It reflects what consciousness contributes: not more computation but a different kind of engagement with information, one that involves comprehension rather than mere processing.
+The asymmetry also illuminates what consciousness adds. Collective intelligence systems that lack consciousness (ant colonies, market mechanisms, voting systems) solve problems through aggregation — combining independent inputs through fixed rules. Collective intelligence systems that involve consciousness (scientific communities, deliberative bodies, creative collaborations) solve problems through understanding — individuals genuinely grasping each other's reasoning and being changed by it. The difference is not merely quantitative. An ant colony cannot evaluate whether its pheromone-trail solution is *good* — it cannot step back and consider alternatives, weigh reasons, or recognise that its optimisation has converged on a local minimum. A scientific community can, because its individual members possess the phenomenal capacity to grasp propositions as meaningful rather than merely processing signals. This is what consciousness contributes: not more computation but comprehension — the ability to understand rather than merely aggregate.
 
 ## Relation to Site Perspective
 
@@ -90,7 +93,7 @@ The [Dualism](/tenets/#dualism) tenet predicts that consciousness should not ari
 
 The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet provides the specific reason: consciousness biases quantum-indeterminate outcomes in neural systems. Communication between people operates at the classical level — sound waves, photons, written symbols. There is no quantum channel between members of a group through which a collective consciousness could act. Individual consciousness is physically grounded in brains; collective intelligence is socially grounded in communication between conscious individuals.
 
-The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet counsels against dismissing group consciousness too hastily on parsimony grounds alone. The argument here rests not on parsimony but on the Map's specific model of how consciousness interfaces with the physical world. If that model is wrong — if consciousness can arise from any sufficiently integrated information system regardless of substrate — then group consciousness becomes a live possibility. The Map acknowledges this conditionality while maintaining that its framework currently provides no mechanism for it.
+The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet counsels against dismissing group consciousness too hastily on parsimony grounds alone. The argument here rests not on parsimony but on the Map's specific model of how consciousness interfaces with the physical world. If that model is wrong — if consciousness can arise from any sufficiently integrated information system regardless of substrate — then group consciousness becomes a live possibility. The Map acknowledges this conditionality while maintaining that its framework currently provides no mechanism for it. It is also worth noting that our inability to detect or conceive of group consciousness might reflect the limits of human cognition rather than its absence — a possibility the Map's commitment to epistemic humility requires it to hold open, even while arguing against group consciousness on its current evidence.
 
 ## Further Reading
 

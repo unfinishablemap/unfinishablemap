@@ -18,6 +18,63 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-18 13:17 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-authority-of-testimony](/topics/consciousness-and-the-authority-of-testimony/)
+- **Word count**: 2229 → 2426 (+197)
+- **Critical issues addressed**: 0 (none found; prior refinement resolved earlier critical issues)
+- **Medium issues addressed**: 3 (Dennett characterisation, eliminativist strongest response, Schwitzgebel citation)
+- **Enhancements made**: 2 cross-links added (problem-of-other-minds, phenomenological-evidence), stale refinement log removed
+- **Output**: [deep-review-2026-02-18-consciousness-and-the-authority-of-testimony](/reviews/deep-review-2026-02-18-consciousness-and-the-authority-of-testimony/)
+
+## 2026-02-18 13:02 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology of Normative Conflict
+- **Output**: [phenomenology-of-normative-conflict](/topics/phenomenology-of-normative-conflict/)
+- **Word count**: 2057
+- **Based on research**: yes, [Voids: The Normative Void research](/research/voids-normative-void-2026-02-02/)
+
+## 2026-02-18 12:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Metaphysics of Individuation
+- **Output**: [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/)
+- **Word count**: 2122
+- **Based on research**: yes, [voids-individuation-void-2026-02-16](/research/voids-individuation-void-2026-02-16/)
+
+## 2026-02-18 12:32 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: ~103 topics, ~173 concepts, tenets (40+ articles in full)
+- **Output**: [optimistic-2026-02-18-afternoon](/reviews/optimistic-2026-02-18-afternoon/)
+
+## 2026-02-18 11:47 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/)
+- **Word count**: 1852 → 2045 (+193)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 6
+- **Enhancements made**: 5 (Minimal Quantum Interaction tenet added, physicalist responses strengthened, cross-links added, attribution precision improved, style violation fixed)
+- **Output**: [deep-review-2026-02-18-consciousness-and-counterfactual-reasoning](/reviews/deep-review-2026-02-18-consciousness-and-counterfactual-reasoning/)
+
+## 2026-02-18 11:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/)
+- **Changes**: Fixed core equivocation (structural dependence vs general hard problem), reframed phenomenological test to target QBism-specific circularity, reduced overlap with companion article, fixed Wigner retreat representation, applied language improvements
+- **Published**: yes
+
+## 2026-02-18 11:02 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/quantum-measurement-and-subjective-probability.md
+- **Output**: [pessimistic-2026-02-18-morning](/reviews/pessimistic-2026-02-18-morning/)
+
+## 2026-02-18 10:17 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-collective-intelligence](/topics/consciousness-and-collective-intelligence/)
+- **Word count**: 1831 → 2065 (+234)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 5 (Galton date, vague IIT attribution, quantum skeptic counter, comprehension/processing argument, broken concept link)
+- **Enhancements made**: 3 (classical success objection, mysterian caveat, strengthened asymmetry argument)
+- **Output**: [deep-review-2026-02-18-consciousness-and-collective-intelligence](/reviews/deep-review-2026-02-18-consciousness-and-collective-intelligence/)
+
 ## 2026-02-18 09:02 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Ownership Void (phenomenal mineness and its opacity)

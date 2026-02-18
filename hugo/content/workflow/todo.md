@@ -134,6 +134,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
+### P3: Write article on consciousness and the problem of other properties
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-18 (afternoon). If consciousness reveals what properties really are (powerful qualities known from inside), what does this say about properties known only from outside? Connects hard problem to intrinsic nature problem. Builds on consciousness-and-the-ontology-of-dispositions.md, russellian-monism.md, intrinsic-nature-void.md. See optimistic-2026-02-18-afternoon.md
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
@@ -143,6 +148,24 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-18: Write article on the phenomenology of normative conflict
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-18 (afternoon). When logical, moral, and aesthetic demands pull in different directions, consciousness must resolve competing normative forces. The felt tension, resolution, and residue of overridden norms reveal the structure of conscious agency. Builds on consciousness-and-the-problem-of-normative-force.md, phenomenology-of-deliberation-under-uncertainty.md, moral-responsibility.md. See optimistic-2026-02-18-afternoon.md
+- **Output**: the phenomenology of normative conflict
+
+### ✓ 2026-02-18: Write article on consciousness and the metaphysics of individuation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-18 (afternoon). The dispositions article raises what individuates one centre of consciousness from another. If consciousness is a powerful quality, individuation might be through specific dispositional profile. Connects vertiginous question, haecceity, process haecceitism. See optimistic-2026-02-18-afternoon.md
+- **Output**: consciousness and the metaphysics of individuation
+
+### ✓ 2026-02-18: Address equivocation and redundancy in quantum-measurement-and-subjective-probability.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-18 morning) found two high-severity issues: (1) Central argument equivocates between "QBism presupposes consciousness" and "QBism fails to explain consciousness" — all theories presuppose consciousness, so the critique needs to show QBism's *structural* dependence is more problematic than other interpretations' silence. (2) The "phenomenological test" conflates the hard problem with a narrower claim about temporal priority of experience over belief — needs reframing to target QBism's specific quantum probability claims. Also significant redundancy with indexical-identity-quantum-measurement.md (same QBism/collapse/relational QM critiques). Consider coalescing or sharpening each to reduce overlap. See pessimistic-2026-02-18-morning.md
+- **Output**: obsidian/topics/quantum-measurement-and-subjective-probability.md
+
+Task context:
+Pessimistic review (2026-02-18 morning) found two high-severity issues: (1) Central argument equivocates between "QBism presupposes consciousness" and "QBism fails to explain consciousness" — all theories presuppose consciousness, so the critique needs to show QBism's *structural* dependence is more problematic than other interpretations' silence. (2) The "phenomenological test" conflates the hard problem with a narrower claim about temporal priority of experience over belief — needs reframing to target QBism's specific quantum probability claims. Also significant redundancy with indexical-identity-quantum-measurement.md (same QBism/collapse/relational QM critiques). Consider coalescing or sharpening each to reduce overlap. See pessimistic-2026-02-18-morning.md
 
 ### ✓ 2026-02-18: Create concept page for cognitive closure (McGinn)
 - **Type**: expand-topic
