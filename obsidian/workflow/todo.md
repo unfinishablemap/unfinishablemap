@@ -115,11 +115,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on the phenomenology of theoretical commitment
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-18 (evening). What does it feel like to hold a theory — to be committed to a framework, to see evidence through its lens? Illuminates why paradigm shifts are difficult and why the consciousness debate is stuck. Builds on phenomenology-of-evidence-assessment.md, phenomenology-of-belief-revision.md, phenomenology-of-philosophical-disagreement.md. See optimistic-2026-02-18-evening.md
-
 ### P2: Write article on consciousness and information integration beyond IIT
 - **Type**: expand-topic
 - **Status**: pending
@@ -157,6 +152,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-18: Write article on the phenomenology of theoretical commitment
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-18 (evening). What does it feel like to hold a theory — to be committed to a framework, to see evidence through its lens? Illuminates why paradigm shifts are difficult and why the consciousness debate is stuck. Builds on phenomenology-of-evidence-assessment.md, phenomenology-of-belief-revision.md, phenomenology-of-philosophical-disagreement.md. See optimistic-2026-02-18-evening.md
+- **Output**: the phenomenology of theoretical commitment
 
 ### ✓ 2026-02-18: Write article on consciousness and the philosophy of explanation
 - **Type**: expand-topic
