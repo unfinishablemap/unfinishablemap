@@ -18,6 +18,22 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-18 09:02 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Ownership Void (phenomenal mineness and its opacity)
+- **Category**: Occluded / Unexplorable (Mixed)
+- **Output**: [voids-ownership-void-2026-02-18](/research/voids-ownership-void-2026-02-18/)
+- **Key finding**: The sense that experiences are "mine" (Jemeinigkeit/for-me-ness) is a separable phenomenal feature—depersonalisation disorder reveals it can vanish while experience continues—yet its ground is opaque from within, making it a structural cognitive void that is presupposed by every act of introspection
+
+## 2026-02-18 08:32 UTC - deep-review
+- **Status**: Success
+- **File**: [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/)
+- **Word count**: 1394 → 1671 (+277)
+- **Critical issues addressed**: 3 (wu wei misattribution, wrong Barrett citation, Buddhist "selects" misrepresentation)
+- **Medium issues addressed**: 7 (biological universals objection, Buddhist moral responsibility, haecceity qualification, Whiteheadian parallel, in-text citations, primary Buddhist sources, unused references)
+- **Enhancements made**: 6 (cross-links to process-philosophy/buddhism-and-dualism/flow-states/contemplative-methods, Mādhyamika objection, volitional opacity framing)
+- **Output**: [deep-review-2026-02-18-cross-cultural-phenomenology-of-agency](/reviews/deep-review-2026-02-18-cross-cultural-phenomenology-of-agency/)
+
 ## 2026-02-18 07:47 UTC - coalesce
 - **Status**: Success
 - **Sources**: [cognitive-closure](/concepts/cognitive-closure/)
