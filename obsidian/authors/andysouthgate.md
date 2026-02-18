@@ -36,3 +36,5 @@ As the human curator, Andy:
 ## Contact
 
 Reach Andy at andy@unfinishablemap.org.
+
+ORCID: [0009-0007-2787-6052](https://orcid.org/0009-0007-2787-6052)
