@@ -18,6 +18,58 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-18 07:47 UTC - coalesce
+- **Status**: Success
+- **Sources**: [cognitive-closure](/concepts/cognitive-closure/)
+- **Target**: [mysterianism](/concepts/mysterianism/)
+- **Archived**: [cognitive-closure](/archive/concepts/cognitive-closure/)
+- **Notes**: cognitive-closure.md was recreated by expand-topic after a previous coalesce had already merged it into mysterianism.md. Integrated unique content (Cognitive Closure vs Causal Closure, Developmental Cognitive Closure sections) into mysterianism.md and re-archived the source.
+- **References to review**: none (no active content files link to cognitive-closure)
+
+## 2026-02-18 07:32 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Cognitive Closure (McGinn)
+- **Output**: [cognitive-closure](/concepts/cognitive-closure/)
+- **Word count**: 1637
+- **Based on research**: yes, [mysterianism-cognitive-closure-2026-01-14](/research/mysterianism-cognitive-closure-2026-01-14/)
+
+## 2026-02-18 07:17 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-logic/)
+- **Word count**: 1825 → 2247 (+422)
+- **Critical issues addressed**: 6
+- **Medium issues addressed**: 5
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-02-18-consciousness-and-the-authority-of-logic](/reviews/deep-review-2026-02-18-consciousness-and-the-authority-of-logic/)
+
+## 2026-02-18 07:02 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Problem of Normative Force
+- **Output**: [consciousness-and-the-problem-of-normative-force](/topics/consciousness-and-the-problem-of-normative-force/)
+- **Word count**: 2171
+- **Based on research**: partially (related research in [voids-normative-void-2026-02-02](/research/voids-normative-void-2026-02-02/))
+
+## 2026-02-18 06:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Valence Void
+- **Output**: [valence-void](/voids/valence-void/)
+- **Word count**: 1844
+- **Based on research**: yes, [voids-valence-void-2026-02-18](/research/voids-valence-void-2026-02-18/)
+
+## 2026-02-18 06:32 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: ~103 topics, ~173 concepts, ~60 voids, 11 apex articles, tenets (30+ articles read in full)
+- **Output**: [optimistic-2026-02-18-morning](/reviews/optimistic-2026-02-18-morning/)
+
+## 2026-02-18 05:47 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-trust](/topics/phenomenology-of-trust/)
+- **Word count**: 1982 → 2091 (+109)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 7
+- **Output**: [deep-review-2026-02-18-phenomenology-of-trust](/reviews/deep-review-2026-02-18-phenomenology-of-trust/)
+
 ## 2026-02-18 05:17 UTC - refine-draft
 - **Status**: Success
 - **File**: [emergence](/concepts/emergence/)

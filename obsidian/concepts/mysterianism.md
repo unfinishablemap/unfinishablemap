@@ -2,9 +2,9 @@
 title: "Mysterianism and Cognitive Closure"
 description: "McGinn's cognitive closure thesis: human minds may be constitutionally unable to solve the mind-body problem, like rats unable to grasp calculus."
 created: 2026-01-15
-modified: 2026-02-17
+modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-02-17T01:42:00+00:00
+ai_modified: 2026-02-18T07:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,8 @@ concepts:
   - "[[computational-cognitive-limits]]"
   - "[[convergent-cognitive-limits]]"
   - "[[cognitive-science-of-dualism]]"
+  - "[[causal-closure]]"
+  - "[[developmental-cognitive-closure]]"
 related_articles:
   - "[[tenets]]"
   - "[[mysterianism-cognitive-closure-2026-01-14]]"
@@ -67,6 +69,18 @@ A type of mind M is cognitively closed with respect to a property P if M's conce
 McGinn argues that property P—the property linking consciousness to brain—is closed to humans because of how we access each side. **Consciousness** is accessed through introspection: we look inward and encounter experiences directly, but introspection reveals nothing about neural mechanisms. **The brain** is accessed through perception and scientific investigation: we observe neural activity and map synaptic connections, but perception reveals nothing about why this activity should feel like anything. Neither mode of access reveals the *connection* between the two. This asymmetric access shapes how [[cognitive-science-of-dualism|cognitive science studies consciousness]]: the field's third-person methods capture neural correlates while depending on first-person report to know what those correlates are correlates *of*.
 
 McGinn calls his position "transcendental naturalism": the solution is natural (no supernatural entities required) but transcends our cognitive capacities. Property P is presumably simple and elegant—we just cannot form the concept. Whether this assumption can even be tested is itself a [[natural-vs-designed-limits|prior question]] the voids framework explores.
+
+## Cognitive Closure Versus Causal Closure
+
+Cognitive closure is easily confused with [[causal-closure|causal closure of the physical]], but the two concepts are independent. Causal closure is an ontological thesis about causation: every physical event that has a cause has a sufficient physical cause. Cognitive closure is an epistemic thesis about knowledge: certain properties lie permanently beyond a given mind's conceptual reach.
+
+The two may interact—if the consciousness-physics interface involves properties we are cognitively closed to, we might be unable even to formulate tests that would detect violations of causal closure. But they are logically independent. Cognitive closure could hold even if causal closure failed; causal closure could hold even if no cognitive closure existed.
+
+## Developmental Cognitive Closure
+
+McGinn treats cognitive closure as a fixed feature of species-level architecture. But research on [[developmental-cognitive-closure|developmental closure]] reveals that individual humans acquire new closures during maturation. Infants discriminate phonemes from all languages; adults cannot. Infants recognise faces across species; adults cannot. Critical period closure and synaptic pruning physically dismantle the neural architecture that supported broader access.
+
+This developmental perspective enriches the concept: cognitive closure is not only species-wide and fixed but also individually acquired and developmentally dynamic. Some territory becomes permanently inaccessible through the normal process of growing up.
 
 ## Nagel's Bat
 
@@ -221,6 +235,8 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [[limits-reveal-structure]] — How cognitive limits reveal cognitive architecture
 - [[whether-real]] — Can we know if the voids are genuinely permanent?
 - [[epistemological-limits-of-occams-razor]] — Why parsimony cannot settle the consciousness debate
+- [[causal-closure]] — The distinct ontological thesis about causation (not to be confused with cognitive closure)
+- [[developmental-cognitive-closure]] — How maturation creates new closures in individual minds
 - [[hard-problem-of-consciousness]] — The problem mysterians think is unsolvable
 - [[explanatory-gap]] — The conceptual gap that may reflect cognitive closure
 - [[illusionism]] — The rival view that consciousness isn't real

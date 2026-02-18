@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-18 07:47 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/cognitive-closure]]
+- **Target**: [[concepts/mysterianism]]
+- **Archived**: [[archive/concepts/cognitive-closure]]
+- **Notes**: cognitive-closure.md was recreated by expand-topic after a previous coalesce had already merged it into mysterianism.md. Integrated unique content (Cognitive Closure vs Causal Closure, Developmental Cognitive Closure sections) into mysterianism.md and re-archived the source.
+- **References to review**: none (no active content files link to cognitive-closure)
+
 ## 2026-02-18 07:32 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Cognitive Closure (McGinn)
