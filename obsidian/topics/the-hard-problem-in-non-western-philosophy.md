@@ -4,7 +4,7 @@ description: "Indian, Islamic, African, and Japanese traditions independently re
 created: 2026-02-14
 modified: 2026-02-14
 human_modified:
-ai_modified: 2026-02-15T00:44:00+00:00
+ai_modified: 2026-02-18T01:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,19 +20,23 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[introspection]]"
   - "[[process-philosophy]]"
+  - "[[agent-causation]]"
+  - "[[filter-theory]]"
+  - "[[combination-problem]]"
 related_articles:
   - "[[tenets]]"
   - "[[materialism]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[eastern-philosophy-consciousness]]"
   - "[[contemplative-path]]"
+  - "[[cross-cultural-phenomenology-of-agency]]"
   - "[[hard-problem-non-western-philosophy-2026-02-14]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-14
 last_curated:
-last_deep_review:
+last_deep_review: 2026-02-18T01:17:00+00:00
 ---
 
 David Chalmers named the hard problem of consciousness in 1995, but the underlying puzzle—why subjective experience exists at all, and how it relates to the physical world—was recognized independently across multiple philosophical traditions spanning thousands of years. The Unfinishable Map argues that this cross-cultural convergence is significant: when Indian, Islamic, African, and Japanese traditions each identify something irreducible about consciousness through independent paths, they may be tracking a real feature of reality. But the convergence is not universal—Chinese philosophical traditions largely dissolve rather than generate the hard problem—and this article takes that challenge seriously.
@@ -41,17 +45,17 @@ This article surveys how non-Western traditions frame the consciousness-matter r
 
 ## Sāṃkhya: The Closest Non-Western Parallel
 
-Sāṃkhya philosophy, one of India's six orthodox schools, posits two irreducible realities: *Puruṣa* (consciousness) and *Prakṛti* (matter/nature). A 2023 article in Cambridge's *Religious Studies* argues explicitly that Sāṃkhya anticipates Chalmers' hard problem.
+Sāṃkhya philosophy, one of India's six orthodox schools, posits two irreducible realities: *Puruṣa* (consciousness) and *Prakṛti* (matter/nature). Karen O'Brien-Kop (2023) argues explicitly in Cambridge's *Religious Studies* that Sāṃkhya anticipates Chalmers' hard problem.
 
 Sāṃkhya's dualism is more radical than Descartes'. In Cartesian dualism, mind thinks and body extends. In Sāṃkhya, *all* mental activity—including mind (*manas*), ego (*ahaṃkāra*), and intellect (*buddhi*)—belongs to *Prakṛti*. Consciousness (*Puruṣa*) is pure witnessing, changeless and causally inert. This separates phenomenal awareness from cognitive processing more sharply than any Western formulation.
 
-The appearance of consciousness in living beings occurs when *sattva* (clarity) predominates among *Prakṛti*'s three qualities, allowing matter to "reflect" *Puruṣa*. This is not emergence—consciousness does not arise from material complexity. It is reflection: consciousness was always present; matter merely becomes transparent to it.
+The appearance of consciousness in living beings occurs when *sattva* (clarity) predominates among *Prakṛti*'s three qualities, allowing matter to "reflect" *Puruṣa*. This is not emergence—consciousness does not arise from material complexity. It is reflection: consciousness was always present; matter merely becomes transparent to it. This resonates with the [[filter-theory]]—the view that brains transmit or filter consciousness rather than producing it.
 
 This framing speaks to the explanatory gap. Where Chalmers asks why physical processing is accompanied by experience, Sāṃkhya answers: it is not. Experience belongs to a fundamentally different order. No arrangement of *Prakṛti* produces *Puruṣa*; the most that matter achieves is ceasing to obstruct what was always there.
 
 ## Nyāya: Realist Interactionism
 
-While Sāṃkhya keeps consciousness passive, the Nyāya school offers something closer to the Map's [[interactionist-dualism]]. Nyāya argues that consciousness is a quality inhering in a non-material self (*ātman*) that interacts causally with the body through sense organs.
+While Sāṃkhya keeps consciousness passive, the Nyāya school offers something closer to the Map's [[interactionist-dualism]]. Nyāya argues that consciousness is a quality inhering in a non-material self (*ātman*) that interacts causally with the body through sense organs—a form of [[agent-causation]] articulated independently of the Western tradition.
 
 Nyāya's arguments against Buddhist no-self are instructive. The 11th-century logician Udayana contended that the unity of consciousness—the fact that a single subject experiences diverse perceptions—requires a unified, enduring subject. Successive cognitive events cannot generate the *experience of unity* without something that persists through the succession. This parallels the [[binding-problem]] in Western philosophy: synchronized neural firing is still firing in separate neurons, and interaction does not explain unity.
 
@@ -71,9 +75,11 @@ Adamson identifies a counterargument: awareness of something without awareness o
 
 Buddhism approaches consciousness differently from all the traditions discussed so far. Rather than asking how matter produces experience (the Western framing) or asserting that consciousness is ontologically separate (Sāṃkhya, Nyāya), Buddhism analyses the *structure* of experience itself.
 
-The Abhidharma traditions developed systematic taxonomies of mental events (*dharmas*), treating consciousness as a stream of momentary, causally connected events. The Buddhist logician-epistemologists Dignāga (c. 480–540 CE) and Dharmakīrti (c. 600–660 CE) developed the doctrine of *svasaṃvedana* (self-awareness): every cognitive event involves a pre-reflective awareness of its own occurrence. As Christian Coseru writes, "each cognitive event is to be understood as involving a pre-reflective implicit awareness of its own occurrence"—consciousness has an "irreducibly circular structure."
+The Abhidharma traditions developed systematic taxonomies of mental events (*dharmas*), treating consciousness as a stream of momentary, causally connected events—a [[process-philosophy|process-oriented]] view that predates Whitehead by millennia. The Buddhist logician-epistemologists Dignāga (c. 480–540 CE) and Dharmakīrti (c. 600–660 CE) developed the doctrine of *svasaṃvedana* (self-awareness): every cognitive event involves a pre-reflective awareness of its own occurrence. As Christian Coseru writes, "each cognitive event is to be understood as involving a pre-reflective implicit awareness of its own occurrence"—giving consciousness a reflexive, circular structure that no external description can capture.
 
-This is directly relevant to the hard problem. If phenomenal awareness is intrinsic to cognition itself—not something added on top of functional processing—then no functional description captures it. *Svasaṃvedana* provides a non-Western foundation for the claim that phenomenal consciousness is irreducible to mechanism.
+*Svasaṃvedana* is not uncontested within Buddhism. The Madhyamaka school—Nāgārjuna's lineage, continued by Candrakīrti—rejects reflexive self-awareness, arguing that it creates an infinite regress and is incompatible with emptiness (*śūnyatā*). This intra-Buddhist debate mirrors the Western disagreement between those who treat phenomenal consciousness as intrinsic and those who think it dissolves under analysis.
+
+Where the doctrine is accepted, it is directly relevant to the hard problem. If phenomenal awareness is intrinsic to cognition itself—not something added on top of functional processing—then no functional description captures it. *Svasaṃvedana* provides a non-Western foundation for the claim that phenomenal consciousness is irreducible to mechanism.
 
 Buddhism sidesteps the hard problem by starting from experience rather than from physical description. The question becomes "what is the structure of experience?" rather than "how does matter produce consciousness?" As the [[eastern-philosophy-consciousness|Eastern Philosophy and Consciousness]] article notes, this reveals that the hard problem's urgency depends on assuming physicalism. Remove that assumption, and the problem transforms.
 
@@ -107,7 +113,7 @@ Ubuntu philosophy challenges the hard problem's most basic assumption: that cons
 
 The Yoruba concept of *ori-inu*—the "invisible self within the self"—offers an independent echo of the explanatory gap from a completely different tradition. *Ori-inu* is described as "a mystery within a mystery... the source of knowing" that is itself unknowable. The knower cannot be known by the same faculty it constitutes—strikingly parallel to the Western recognition that consciousness cannot be captured in third-person description.
 
-Bantu philosophy's concept of vital force (*NTU*) treats consciousness not as a special property of brains but as an aspect of force pervading all reality, varying in intensity across beings. This resembles [[panpsychism]]—and faces the same [[combination-problem]] that panpsychism faces in Western thought.
+Bantu philosophy's concept of vital force (*NTU*), as articulated by Placide Tempels, treats consciousness not as a special property of brains but as an aspect of force pervading all reality, varying in intensity across beings. This resembles [[panpsychism]]—and faces the same [[combination-problem]] that panpsychism faces in Western thought. (Tempels' framework has been challenged as a colonial projection by Aimé Césaire and Frantz Fanon, though others have embraced it as reflecting genuine Bantu thought.)
 
 ## The Cross-Cultural Convergence Argument
 
@@ -141,9 +147,9 @@ The Map's engagement with non-Western philosophy serves all five tenets.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Nyāya provides the strongest non-Western support, with its explicit model of a non-material self interacting causally with the body. Buddhist karma doctrine implies mental causation. Sāṃkhya's passive *Puruṣa* is a genuine tension—one the Map resolves by insisting that consciousness *acts*, not merely witnesses.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Non-Western traditions uniformly emphasise *this* life, *this* moment, *this* path. The Buddhist focus on the present moment, the Yoruba concept of *ori-inu* as one's personal destiny, and the Nyāya insistence on a unified subject all support the Map's rejection of many-worlds' proliferation of observers.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Non-Western traditions do not address many-worlds as a physical theory, but their philosophical orientation resonates with the Map's rejection of observer-proliferation. The Nyāya insistence on a unified, enduring subject and the Buddhist emphasis on *this* stream of consciousness—rather than branching alternatives—share the Map's concern that indexical identity matters. These are thematic parallels, not direct arguments about quantum mechanics.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Millennia of sustained contemplative and philosophical investigation across diverse cultures represent a vast body of evidence that Western analytic philosophy has largely ignored. The apparent simplicity of materialism looks less compelling when traditions with the deepest investigation of consciousness all reject it.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Millennia of sustained contemplative and philosophical investigation across diverse cultures have generated phenomenological data—detailed first-person reports of consciousness under rigorous introspective conditions—that Western analytic philosophy has largely ignored. The apparent simplicity of materialism looks less compelling when the traditions with the deepest phenomenological investigation of consciousness consistently find that it resists physical reduction.
 
 ## Further Reading
 
@@ -154,16 +160,21 @@ The Map's engagement with non-Western philosophy serves all five tenets.
 - [[contemplative-evidence-for-consciousness-theories]] — First-person data as empirical test
 - [[mysterianism]] — McGinn's cognitive closure thesis, paralleled by al-Ghazālī
 - [[explanatory-gap]] — The conceptual chasm these traditions independently identify
+- [[agent-causation]] — The philosophical framework Nyāya independently articulates
+- [[filter-theory]] — Sāṃkhya's "reflection" model as a non-Western parallel to filter/transmission theories
+- [[process-philosophy]] — Buddhist momentariness and Whiteheadian actual occasions
+- [[cross-cultural-phenomenology-of-agency]] — How diverse traditions frame conscious agency
 - [[tenets]] — The Map's foundational commitments
 
 ## References
 
+- Adamson, P. (2016). "What can Avicenna teach us about the mind-body problem?" *Aeon*.
 - Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200–219.
 - Coseru, C. (2012). *Perceiving Reality: Consciousness, Intentionality, and Cognition in Buddhist Philosophy*. Oxford University Press.
 - Ganeri, J. (2017). *Attention, Not Self*. Oxford University Press.
 - Ibn Sīnā. *De Anima* (Kitāb al-Nafs). Various translations.
 - Nishida, K. (1911). *An Inquiry Into the Good*. Trans. M. Abe and C. Ives. Yale University Press, 1990.
-- "The hard problem of 'pure' consciousness: Sāṃkhya dualist ontology." *Religious Studies*, Cambridge University Press, 2023.
+- O'Brien-Kop, K. (2023). "The hard problem of 'pure' consciousness: Sāṃkhya dualist ontology." *Religious Studies*, Cambridge University Press.
 - Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
 - Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
 

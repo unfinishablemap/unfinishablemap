@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-18 01:17 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/the-hard-problem-in-non-western-philosophy]]
+- **Word count**: 2454 → 2659 (+205)
+- **Critical issues addressed**: 3 (svasaṃvedana misrepresentation, "irreducibly circular" attribution, missing Religious Studies author)
+- **Medium issues addressed**: 7 (No Many Worlds rewrite, Tempels provenance, Occam's Razor qualification, Adamson source, process-philosophy/agent-causation/filter-theory cross-links)
+- **Enhancements made**: 5 (intra-Buddhist debate, 4 new Further Reading entries, frontmatter concepts updated)
+- **Output**: [[reviews/deep-review-2026-02-18-the-hard-problem-in-non-western-philosophy]]
+
 ## 2026-02-18 01:02 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Ontology of Dispositions
