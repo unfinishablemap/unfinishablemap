@@ -127,11 +127,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the epistemology of phenomenal reports in science
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. How should science treat first-person reports? The Map has sophisticated arguments for contemplative evidence but hasn't systematically addressed how phenomenal reports should function within scientific methodology. Bridges phenomenological arguments and philosophy of science. Builds on contemplative-verification-of-consciousness-theories.md, first-person-third-person-methodology.md, neurophenomenology.md. See optimistic-2026-02-18.md
-
 ### P3: Write article on consciousness and the ontology of dispositions
 - **Type**: expand-topic
 - **Status**: pending
@@ -151,6 +146,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-18: Write article on the epistemology of phenomenal reports in science
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. How should science treat first-person reports? The Map has sophisticated arguments for contemplative evidence but hasn't systematically addressed how phenomenal reports should function within scientific methodology. Bridges phenomenological arguments and philosophy of science. Builds on contemplative-verification-of-consciousness-theories.md, first-person-third-person-methodology.md, neurophenomenology.md. See optimistic-2026-02-18.md
+- **Output**: the epistemology of phenomenal reports in science
 
 ### ✓ 2026-02-18: Reduce quantum Zeno overemphasis in moral-responsibility.md
 - **Type**: refine-draft
