@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address circular reasoning and Galilean counterexamples in consciousness-and-the-authority-of-mathematics.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-18 afternoon) found two high-severity issues: (1) Central argument is circular—premise "consciousness has non-structural features" is precisely what's at issue, yet presented as self-evident without engaging functionalist/structuralist denials. Needs explicit arguments for intrinsic nature of qualia or conditional framing. (2) Galilean precedent argument overstated—temperature and colour were "secondary qualities" excluded by Galileo, yet later mathematically recaptured. Article must explain why consciousness differs from these cases. Also: engage with Russellian monism (Russell's own conclusion from his structural observation), and address mathematical Platonism's challenge to the "mathematics = structure only" claim. See pessimistic-2026-02-18-afternoon.md
-
 ### P2: Update references to coalesced quantum-neural-mechanisms and quantum-coherence-and-binding-evidence articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-18) merged `quantum-neural-mechanisms.md` and `quantum-coherence-and-binding-evidence.md` into `quantum-neural-mechanisms-and-coherence.md`. 18 active content files reference the archived articles. Files referencing `[[quantum-neural-mechanisms]]`: quantum-consciousness.md, spontaneous-collapse-theories.md, decoherence.md, quantum-biology-and-the-consciousness-debate.md, neural-implementation-specifics.md, comparing-quantum-consciousness-mechanisms.md, consciousness-and-causal-powers.md, quantum-randomness-channel-llm-consciousness.md. Files referencing `[[quantum-coherence-and-binding-evidence]]`: decoherence.md, phenomenology-of-choice.md, evolution-under-dualism.md, quantum-randomness-channel-llm-consciousness.md, quantum-binding-and-phenomenal-unity.md, brain-interface-boundary.md, quantum-interpretations.md, the-interface-location-problem.md, phenomenal-binding-and-holism.md, jourdain-hypothesis.md, quantum-biology.md, binding-problem.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[quantum-neural-mechanisms-and-coherence]]` where appropriate.
@@ -147,6 +142,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-18: Address circular reasoning and Galilean counterexamples in consciousness-and-the-authority-of-mathematics.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-18 afternoon) found two high-severity issues: (1) Central argument is circular—premise "consciousness has non-structural features" is precisely what's at issue, yet presented as self-evident without engaging functionalist/structuralist denials. Needs explicit arguments for intrinsic nature of qualia or conditional framing. (2) Galilean precedent argument overstated—temperature and colour were "secondary qualities" excluded by Galileo, yet later mathematically recaptured. Article must explain why consciousness differs from these cases. Also: engage with Russellian monism (Russell's own conclusion from his structural observation), and address mathematical Platonism's challenge to the "mathematics = structure only" claim. See pessimistic-2026-02-18-afternoon.md
+- **Output**: obsidian/topics/consciousness-and-the-authority-of-mathematics.md
+
+Task context:
+Pessimistic review (2026-02-18 afternoon) found two high-severity issues: (1) Central argument is circular—premise "consciousness has non-structural features" is precisely what's at issue, yet presented as self-evident without engaging functionalist/structuralist denials. Needs explicit arguments for intrinsic nature of qualia or conditional framing. (2) Galilean precedent argument overstated—temperature and colour were "secondary qualities" excluded by Galileo, yet later mathematically recaptured. Article must explain why consciousness differs from these cases. Also: engage with Russellian monism (Russell's own conclusion from his structural observation), and address mathematical Platonism's challenge to the "mathematics = structure only" claim. See pessimistic-2026-02-18-afternoon.md
 
 ### ✓ 2026-02-18: Write article on consciousness and the problem of other properties
 - **Type**: expand-topic
