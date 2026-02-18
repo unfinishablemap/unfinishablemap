@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-18 14:32 UTC - deep-review
+- **Status**: Success
+- **File**: [[placebo-effect-and-mental-causation]]
+- **Word count**: 1802 → 2436 (+634)
+- **Critical issues addressed**: 2 (missing citations for content-specificity and nocebo claims)
+- **Medium issues addressed**: 7 (gap argument response, open-label placebos honest assessment, thin references, Goebel clarification, functionalism characterisation, quantum opening clarity, conditioning citations)
+- **Enhancements made**: 5 (phenomenal intentionality link, pain asymbolia evidence, predictive processing connection, expanded open-label analysis, 7 new cross-links)
+- **Output**: [[reviews/deep-review-2026-02-18-placebo-effect-and-mental-causation]]
+
 ## 2026-02-18 13:47 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[aesthetics-of-consciousness]], [[consciousness-and-aesthetic-experience-as-philosophical-evidence]], [[consciousness-and-aesthetic-value]]
