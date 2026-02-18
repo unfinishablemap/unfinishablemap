@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-18 16:17 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-social-cognition]]
+- **Word count**: 2023 → 2179 (+156)
+- **Critical issues addressed**: 1 (broken link to phenomenology-of-moral-experience)
+- **Medium issues addressed**: 3 (n=1 correlation claim qualified, uncited references linked inline, social construction section expanded)
+- **Enhancements made**: 5 new cross-links added (moral-responsibility, phenomenology-of-moral-experience, consciousness-and-collective-intentionality, consciousness-and-interpersonal-understanding, cumulative-culture)
+- **Output**: [[reviews/deep-review-2026-02-18-consciousness-and-social-cognition]]
+
 ## 2026-02-18 15:02 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Contingency Void
