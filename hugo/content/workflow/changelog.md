@@ -18,6 +18,52 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-18 01:17 UTC - deep-review
+- **Status**: Success
+- **File**: [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)
+- **Word count**: 2454 → 2659 (+205)
+- **Critical issues addressed**: 3 (svasaṃvedana misrepresentation, "irreducibly circular" attribution, missing Religious Studies author)
+- **Medium issues addressed**: 7 (No Many Worlds rewrite, Tempels provenance, Occam's Razor qualification, Adamson source, process-philosophy/agent-causation/filter-theory cross-links)
+- **Enhancements made**: 5 (intra-Buddhist debate, 4 new Further Reading entries, frontmatter concepts updated)
+- **Output**: [deep-review-2026-02-18-the-hard-problem-in-non-western-philosophy](/reviews/deep-review-2026-02-18-the-hard-problem-in-non-western-philosophy/)
+
+## 2026-02-18 01:02 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Ontology of Dispositions
+- **Output**: [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/)
+- **Word count**: 2041
+- **Based on research**: No
+
+## 2026-02-18 00:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Epistemology of Phenomenal Reports in Science
+- **Output**: [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/)
+- **Word count**: 1478
+- **Based on research**: No
+
+## 2026-02-18 00:32 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: ~103 topics, ~173 concepts, tenets (30+ articles sampled in full)
+- **Output**: [optimistic-2026-02-18](/reviews/optimistic-2026-02-18/)
+- **Strengths identified**: Phenomenology cluster depth, self-corrective intellectual honesty, convergence across disciplines, Elisabeth's Challenge as historical anchor, contemplative verification epistemology
+- **Tasks added**: 3 P3 expansion topics (epistemology of phenomenal reports, ontology of dispositions, phenomenology of musical understanding)
+
+## 2026-02-18 00:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [moral-responsibility](/concepts/moral-responsibility/)
+- **Changes**: Decoupled agent causation from quantum Zeno mechanism (style guide compliance), fixed Soon et al. (2008) citation context (timing vs content prediction), acknowledged agent causation as minority position, flagged "irreducible causal power" as primitive, softened decoherence section's mechanism dependence
+- **Driven by**: pessimistic-2026-02-17-night.md (Issues 3, 5)
+- **Published**: yes
+
+## 2026-02-17 23:47 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/)
+- **Word count**: 1441 → 1951 (+510)
+- **Critical issues addressed**: 3 (missing References section, missing tenet engagement, dangling Frankfurt thread)
+- **Medium issues addressed**: 4 (unsupported empirical claims qualified, explanatory redundancy objection addressed, cross-links added)
+- **Enhancements made**: 6 (new section "Why Not a Physicalist Account?", all 5 tenets in Relation to Site Perspective, 4 citations, 5 new cross-links, resolved Frankfurt thread, replaced colloquial phrasing)
+- **Output**: [deep-review-2026-02-17-consciousness-and-moral-agency-under-duress](/reviews/deep-review-2026-02-17-consciousness-and-moral-agency-under-duress/)
+
 ## 2026-02-17 23:32 UTC - refine-draft
 - **Status**: Success
 - **File**: [near-death-experiences](/concepts/near-death-experiences/)

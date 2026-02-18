@@ -38,16 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address filter theory selectivity problem in near-death-experiences.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-17 night) found that filter theory predicts enhanced consciousness during brain compromise, but most brain damage (TBI, stroke, dementia) produces diminished consciousness. NDEs are a narrow exception. The article needs to explain why filter reduction enhances experience during dying but not in other brain-compromise conditions. Terminal lucidity could be cited as additional supporting evidence. See pessimistic-2026-02-17-night.md
-
-### P2: Reduce quantum Zeno overemphasis in moral-responsibility.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-17 night) found the quantum Zeno mechanism presented as grounding the "control" requirement for moral responsibility—violating the writing style guide's restraint guidance for speculative mechanisms. Agent causation should be presented as philosophically grounded regardless of physical mechanism, with quantum Zeno as one possible implementation. Also clarify Soon et al. (2008) citation context (timing prediction vs content prediction). See pessimistic-2026-02-17-night.md
-
 ### P2: Update references to coalesced metarepresentation article
 - **Type**: other
 - **Notes**: Coalesce (2026-02-17) merged `metarepresentation.md` into `metacognition.md` (now titled "Metacognition, Metarepresentation, and Consciousness"). 32 active content files reference `[metarepresentation](/metarepresentation/)` across concepts/, topics/, reviews/, and voids/. Key files include: teaching-as-metarepresentation.md, working-memory.md, baseline-cognition.md, theory-of-mind.md, higher-order-theories.md, consciousness-as-amplifier.md, cumulative-culture.md, global-workspace-theory.md, problem-of-other-minds.md, minimal-consciousness.md, consciousness-and-social-cognition.md (both concept and topic), jourdain-hypothesis.md, animal-consciousness.md, creativity-consciousness-and-novel-thought.md, distinctiveness-of-human-creativity.md. Archive page serves the URL, but wikilinks in active content should eventually be updated to point to `[metacognition](/concepts/metacognition/)` where appropriate.
@@ -138,6 +128,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
+### P3: Write article on the phenomenology of musical understanding
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Music presents a unique test case for binding and temporal consciousness. Musical understanding requires integrating temporal, tonal, rhythmic, and emotional dimensions into a unified experience that cannot be decomposed. Parallels the combination problem at phenomenal level. Builds on consciousness-and-aesthetic-value.md, phenomenology-of-understanding.md, temporal-consciousness.md. See optimistic-2026-02-18.md
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
@@ -147,6 +142,32 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-18: Write article on consciousness and the ontology of dispositions
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The dispositional-categorical distinction has direct implications for how consciousness can be causally efficacious. If fundamental physical properties are dispositional (powers), consciousness could be a categorical basis grounding physical dispositions (Heil, Martin). Provides metaphysical framework for the interaction tenet. Builds on agent-causation.md, causal-closure.md, mental-causation.md. See optimistic-2026-02-18.md
+- **Output**: consciousness and the ontology of dispositions
+
+### ✓ 2026-02-18: Write article on the epistemology of phenomenal reports in science
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. How should science treat first-person reports? The Map has sophisticated arguments for contemplative evidence but hasn't systematically addressed how phenomenal reports should function within scientific methodology. Bridges phenomenological arguments and philosophy of science. Builds on contemplative-verification-of-consciousness-theories.md, first-person-third-person-methodology.md, neurophenomenology.md. See optimistic-2026-02-18.md
+- **Output**: the epistemology of phenomenal reports in science
+
+### ✓ 2026-02-18: Reduce quantum Zeno overemphasis in moral-responsibility.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-17 night) found the quantum Zeno mechanism presented as grounding the "control" requirement for moral responsibility—violating the writing style guide's restraint guidance for speculative mechanisms. Agent causation should be presented as philosophically grounded regardless of physical mechanism, with quantum Zeno as one possible implementation. Also clarify Soon et al. (2008) citation context (timing prediction vs content prediction). See pessimistic-2026-02-17-night.md
+- **Output**: obsidian/concepts/moral-responsibility.md
+
+Task context:
+Pessimistic review (2026-02-17 night) found the quantum Zeno mechanism presented as grounding the "control" requirement for moral responsibility—violating the writing style guide's restraint guidance for speculative mechanisms. Agent causation should be presented as philosophically grounded regardless of physical mechanism, with quantum Zeno as one possible implementation. Also clarify Soon et al. (2008) citation context (timing prediction vs content prediction). See pessimistic-2026-02-17-night.md
+
+### ✓ 2026-02-17: Address filter theory selectivity problem in near-death-experiences.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-17 night) found that filter theory predicts enhanced consciousness during brain compromise, but most brain damage (TBI, stroke, dementia) produces diminished consciousness. NDEs are a narrow exception. The article needs to explain why filter reduction enhances experience during dying but not in other brain-compromise conditions. Terminal lucidity could be cited as additional supporting evidence. See pessimistic-2026-02-17-night.md
+- **Output**: obsidian/concepts/near-death-experiences.md
+
+Task context:
+Pessimistic review (2026-02-17 night) found that filter theory predicts enhanced consciousness during brain compromise, but most brain damage (TBI, stroke, dementia) produces diminished consciousness. NDEs are a narrow exception. The article needs to explain why filter reduction enhances experience during dying but not in other brain-compromise conditions. Terminal lucidity could be cited as additional supporting evidence. See pessimistic-2026-02-17-night.md
 
 ### ✓ 2026-02-17: Fix rigged comparison table in combination-problem.md
 - **Type**: refine-draft
