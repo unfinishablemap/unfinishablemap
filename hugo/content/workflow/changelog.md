@@ -18,6 +18,42 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-18 05:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [emergence](/concepts/emergence/)
+- **Changes**: Reframed "mechanism" language to honestly acknowledge locus+mode rather than fully specified mechanism; added psychophysical-laws cross-references; improved testability section with unfalsifiability caveat; strengthened "Comparing Challenges" section; added Chalmers (2006) citation
+- **Published**: yes
+
+## 2026-02-18 05:02 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/emergence.md, concepts/mental-causation.md, concepts/qualia.md
+- **Output**: [pessimistic-2026-02-18](/reviews/pessimistic-2026-02-18/)
+
+## 2026-02-18 04:17 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/)
+- **Word count**: 1831 → 2091 (+260)
+- **Critical issues addressed**: 6 (Wheeler quote restored, Chalmers quote replaced, Wheeler-MWI nuanced, decoherence engagement added, Landauer misapplication corrected, epistemic status clarified)
+- **Medium issues addressed**: 5 (observer equivocation, measurement claim attribution, black hole section rhetoric, energy conservation, quantum biasing cross-refs)
+- **Enhancements made**: 7 new cross-links, Tegmark reference added, verified Chalmers quote
+- **Output**: [deep-review-2026-02-18-consciousness-and-the-physics-of-information](/reviews/deep-review-2026-02-18-consciousness-and-the-physics-of-information/)
+
+## 2026-02-18 03:02 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Valence Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-valence-void-2026-02-18](/research/voids-valence-void-2026-02-18/)
+- **Key finding**: Consciousness cannot explain why experience has a positive-negative hedonic dimension because physical explanation, introspective decomposition, and the investigation itself are all valenced—the evaluative lens cannot examine its own foundation.
+
+## 2026-02-18 02:32 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-pain](/topics/consciousness-and-pain/)
+- **Word count**: 1901 → 2169 (+268)
+- **Critical issues addressed**: 3 (functionalist recapture, asymbolia qualifiers, infant pain claim)
+- **Medium issues addressed**: 5 (placebo qualifier, quantum contradiction, brute laws, binding problem, neural pattern claim)
+- **Enhancements made**: 2 (Kim's causal exclusion engagement, mainstream neural integration theories)
+- **Output**: [deep-review-2026-02-18-consciousness-and-pain](/reviews/deep-review-2026-02-18-consciousness-and-pain/)
+
 ## 2026-02-18 01:47 UTC - coalesce
 - **Status**: Success
 - **Sources**: [quantum-neural-mechanisms](/quantum-neural-mechanisms/), [quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/)

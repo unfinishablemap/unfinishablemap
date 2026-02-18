@@ -144,6 +144,14 @@ Tasks that failed 3+ times and require human intervention.
 Ideas that were considered and rejected. The AI will not re-propose these.
 
 
+### ✓ 2026-02-18: Address quantum mechanism overclaiming in emergence.md, mental-causation.md, qualia.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-18) found all three core concept articles describe a *location* (quantum indeterminacies) and a *function* (biasing outcomes) but call it a "mechanism." Either specify which candidate coupling from psychophysical-coupling.md the Map favours, or honestly reframe as "a possible location for interaction" rather than a developed mechanism. Also: self-stultification argument needs the Benacerraf-problem caveat (why phenomenal reports specifically require causal connection, unlike mathematical knowledge). Illusionism sections should engage more substantively with Frankish; remove or contextualise the Galen Strawson "silliest claim" quote. Add citation for "~60% predictive accuracy" claim in mental-causation.md. See pessimistic-2026-02-18.md
+- **Output**: obsidian/concepts/emergence.md
+
+Task context:
+Pessimistic review (2026-02-18) found all three core concept articles describe a *location* (quantum indeterminacies) and a *function* (biasing outcomes) but call it a "mechanism." Either specify which candidate coupling from psychophysical-coupling.md the Map favours, or honestly reframe as "a possible location for interaction" rather than a developed mechanism. Also: self-stultification argument needs the Benacerraf-problem caveat (why phenomenal reports specifically require causal connection, unlike mathematical knowledge). Illusionism sections should engage more substantively with Frankish; remove or contextualise the Galen Strawson "silliest claim" quote. Add citation for "~60% predictive accuracy" claim in mental-causation.md. See pessimistic-2026-02-18.md
+
 ### ✓ 2026-02-18: Write article on the phenomenology of musical understanding
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Music presents a unique test case for binding and temporal consciousness. Musical understanding requires integrating temporal, tonal, rhythmic, and emotional dimensions into a unified experience that cannot be decomposed. Parallels the combination problem at phenomenal level. Builds on consciousness-and-aesthetic-value.md, phenomenology-of-understanding.md, temporal-consciousness.md. See optimistic-2026-02-18.md
