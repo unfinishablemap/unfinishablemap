@@ -65,7 +65,7 @@ Both patterns share the same structure: genuine openness followed by determinate
 
 The [retrocausal](/concepts/retrocausality/) dimension adds complexity. If selection operates atemporally—determining which history becomes real—the phenomenology of deciding "now" may be how atemporal selection manifests to time-bound consciousness.
 
-The [decoherence objection](/concepts/decoherence/)—that quantum coherence cannot survive in warm neural tissue—is addressed through [protection mechanisms](/concepts/quantum-coherence-and-binding-evidence/) that may shield relevant superpositions. More fundamentally, consciousness may operate at the point of *outcome selection* after decoherence has selected the measurement basis, biasing which eigenstate becomes actual without requiring sustained coherence.
+The [decoherence objection](/concepts/decoherence/)—that quantum coherence cannot survive in warm neural tissue—is addressed through [protection mechanisms](/quantum-coherence-and-binding-evidence/) that may shield relevant superpositions. More fundamentally, consciousness may operate at the point of *outcome selection* after decoherence has selected the measurement basis, biasing which eigenstate becomes actual without requiring sustained coherence.
 
 ### Authorship: The Sense of Agency
 

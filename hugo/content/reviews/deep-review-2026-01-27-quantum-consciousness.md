@@ -70,7 +70,7 @@ Six sympathetic personas examined the article's strengths and opportunities for 
 
 ### Cross-links Added
 
-- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/)
+- [quantum-neural-mechanisms](/quantum-neural-mechanisms/)
 - [mysterianism](/concepts/mysterianism/)
 
 ## Remaining Items

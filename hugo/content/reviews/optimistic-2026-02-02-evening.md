@@ -168,7 +168,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 | From | To | Reason |
 |------|-----|--------|
 | [predictive-processing](/concepts/predictive-processing/) | [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) | Both address how expectations shape experience |
-| [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) | [attention-interface-mechanisms](/attention-interface-mechanisms/) | Specific mechanisms should cross-reference |
+| [quantum-neural-mechanisms](/quantum-neural-mechanisms/) | [attention-interface-mechanisms](/attention-interface-mechanisms/) | Specific mechanisms should cross-reference |
 | [combination-problem](/concepts/combination-problem/) | [binding-problem](/concepts/binding-problem/) | Structurally parallel problems deserve explicit connection |
 | [existentialism](/concepts/existentialism/) | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | Sartre's analysis of choice directly relevant |
 | [specious-present](/specious-present/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Currently separate—should explicitly connect |

@@ -226,7 +226,7 @@ Classical binding approaches appear simpler—no quantum effects in warm biologi
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR and other quantum consciousness theories
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
 - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) — Why quantum biology shifts the burden of proof
-- [quantum-coherence-and-binding-evidence](/concepts/quantum-coherence-and-binding-evidence/) — Detailed treatment of neural coherence evidence
+- [quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/) — Detailed treatment of neural coherence evidence
 - [decoherence](/concepts/decoherence/) — Why quantum effects might persist in biological systems
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's alternative approach to unity
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on when binding fails

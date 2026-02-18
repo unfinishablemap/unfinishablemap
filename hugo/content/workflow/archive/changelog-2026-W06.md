@@ -164,7 +164,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-08 18:59 UTC - deep-review
 - **Status**: Success
-- **File**: [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/)
+- **File**: [quantum-neural-mechanisms](/quantum-neural-mechanisms/)
 - **Word count**: 2604 → 2606 (+2)
 - **Critical issues addressed**: 1 (Georgiev date inconsistency)
 - **Medium issues addressed**: 3 (overstated claim, missing qualifier, imprecise description)

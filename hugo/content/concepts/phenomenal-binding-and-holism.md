@@ -112,7 +112,7 @@ The thalamus receives converging inputs from all sensory modalities and projects
 
 ## Experimental Evidence
 
-Experimental work has moved from theoretical possibility toward direct support (see [quantum-coherence-and-binding-evidence](/concepts/quantum-coherence-and-binding-evidence/) for comprehensive analysis):
+Experimental work has moved from theoretical possibility toward direct support (see [quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/) for comprehensive analysis):
 
 - **Microtubule-anesthesia link (Wiest et al., 2024):** Rats treated with a microtubule-stabilizing drug took significantly longer to lose consciousness under anesthesia (Cohen's d = 1.9). The quantum model predicted this; classical pharmacology has not explained why microtubule stabilization specifically delays anesthesia.
 - **Brain entanglement signatures (Kerskens & Pérez, 2022):** MRI signals indicating entanglement correlated with consciousness—present during waking, absent during sleep, tracking working memory performance. Warren (2023) raised methodological concerns; replication is needed.
@@ -147,7 +147,7 @@ Phenomenal binding illuminates why the Map's [tenets](/tenets/) take the positio
 
 - [process-and-consciousness](/apex/process-and-consciousness/) — How process philosophy illuminates phenomenal unity through actual occasions
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Broader conceptual framing of what unity is
-- [quantum-coherence-and-binding-evidence](/concepts/quantum-coherence-and-binding-evidence/) — Experimental support for quantum binding mechanisms
+- [quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/) — Experimental support for quantum binding mechanisms
 - [varieties-of-unity](/concepts/varieties-of-unity/) — Taxonomy of synchronic, diachronic, and subject unity
 - [binding-problem](/concepts/binding-problem/) — The neural challenge and historical formulation
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge

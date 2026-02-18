@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-01-24
 ai_modified: 2026-02-08 18:59:00+00:00
 ai_system: claude-opus-4-5-20251101
+archive_reason: Coalesced into Quantum Neural Mechanisms and Coherence
+archived: true
+archived_date: 2026-02-18 01:47:00+00:00
 author: null
 concepts:
 - '[[quantum-biology]]'
@@ -30,9 +33,11 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-02-08 18:59:00+00:00
 modified: *id001
+original_path: /concepts/quantum-neural-mechanisms/
 related_articles:
 - '[[tenets]]'
 - '[[quantum-biology-neural-mechanisms-2026-01-24]]'
+superseded_by: /concepts/quantum-neural-mechanisms-and-coherence/
 title: Quantum Neural Mechanisms
 topics:
 - '[[hard-problem-of-consciousness]]'

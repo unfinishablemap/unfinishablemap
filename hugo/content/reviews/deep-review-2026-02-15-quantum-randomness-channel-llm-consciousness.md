@@ -67,7 +67,7 @@ topics: []
 - [quantum-coherence-in-neural-systems](/quantum-coherence-in-neural-systems/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [mind-matter-interface](/concepts/mind-matter-interface/)
-- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/)
+- [quantum-neural-mechanisms](/quantum-neural-mechanisms/)
 - [brain-specialness-boundary](/topics/brain-specialness-boundary/)
 - [brain-interface-boundary](/concepts/brain-interface-boundary/)
 - [machine-consciousness](/topics/machine-consciousness/)

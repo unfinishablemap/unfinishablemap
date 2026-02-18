@@ -66,7 +66,7 @@ Orch OR locates quantum effects in microtubules—protein structures inside neur
 - Room-temperature superradiance in tryptophan networks demonstrates quantum collective behavior at body temperature
 - **2025 Wiest et al.**: Anesthetics abolish a 613 THz quantum oscillation peak in microtubules while non-anesthetics don't—a testable signature
 
-**Challenge**: The [decoherence objection](/concepts/decoherence/). Tegmark calculated coherence times of 10⁻¹³ seconds—too short for neural relevance. But this assumed thermal equilibrium; revised calculations accounting for protective mechanisms extend estimates to 10⁻⁵ seconds. This remains three orders of magnitude shorter than neural decisions (~300ms), so the timing gap is reduced but not eliminated for mechanisms requiring sustained coherence. However, [alternative mechanisms](/concepts/quantum-neural-mechanisms/) operate through discrete quantum events rather than continuous superposition, sidestepping this constraint entirely. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing analysis.
+**Challenge**: The [decoherence objection](/concepts/decoherence/). Tegmark calculated coherence times of 10⁻¹³ seconds—too short for neural relevance. But this assumed thermal equilibrium; revised calculations accounting for protective mechanisms extend estimates to 10⁻⁵ seconds. This remains three orders of magnitude shorter than neural decisions (~300ms), so the timing gap is reduced but not eliminated for mechanisms requiring sustained coherence. However, [alternative mechanisms](/quantum-neural-mechanisms/) operate through discrete quantum events rather than continuous superposition, sidestepping this constraint entirely. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing analysis.
 
 ## Quantum Zeno Effect (Stapp)
 
@@ -118,7 +118,7 @@ See [decoherence](/concepts/decoherence/) for comprehensive analysis. The key po
 
 **Biology exploits quantum effects.** Avian magnetoreception, photosynthesis, and enzyme catalysis all use quantum coherence in warm biological systems. [Quantum biology](/concepts/quantum-biology/) establishes that evolution can optimize quantum effects. Laboratory demonstrations of macroscopic superposition (hot cat states, nanoparticle interference) still require precisely engineered conditions distant from biological reality—but avian magnetoreception proves the principle that evolution *can* harness quantum effects in warm, wet systems. See [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) for the experimental evidence that the quantum-classical boundary keeps receding.
 
-**Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). But several mechanisms operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect. These sidestep the timing gap entirely because each event is instantaneous. See [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) for five distinct mechanisms spanning this spectrum.
+**Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). But several mechanisms operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect. These sidestep the timing gap entirely because each event is instantaneous. See [quantum-neural-mechanisms](/quantum-neural-mechanisms/) for five distinct mechanisms spanning this spectrum.
 
 **The Zeno alternative.** Stapp's mechanism operates through discrete observation cycles, not sustained coherence. Each observation "resets" the quantum state; the accumulated effect biases outcomes. If decoherence occurs at microseconds and observations at milliseconds, ~1000 observations per 300ms window suffices—rapid but not requiring continuous coherence. This assumes observations remain effective despite intervening decoherence—a point that requires empirical verification but is consistent with Atkins et al.'s demonstration of biological Zeno effects.
 
@@ -183,7 +183,7 @@ The Map's tenets don't commit to any specific mechanism. They require:
 4. **No Many Worlds**: Collapse is real; indexical identity matters. Quantum theories require genuine collapse.
 5. **Occam's Razor Has Limits**: "Consciousness is just brain activity" isn't true if brain activity can't explain selection.
 
-Both Orch OR and Stapp are compatible, along with the other mechanisms surveyed in [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/). The Map remains agnostic about which (if any) is correct—what matters is that *some* such mechanism exists.
+Both Orch OR and Stapp are compatible, along with the other mechanisms surveyed in [quantum-neural-mechanisms](/quantum-neural-mechanisms/). The Map remains agnostic about which (if any) is correct—what matters is that *some* such mechanism exists.
 
 The Map's position is strong emergentism that specifies its mechanism. Mental causation operates at quantum indeterminacies, where physics provides necessary but not sufficient causes. This transforms [mental causation](/concepts/mental-causation/) from philosophical puzzle into precise proposal: consciousness causes physical effects by determining what physics leaves undetermined. The [selection laws](/concepts/selection-laws/) concept articulates what such downward determination must specify—which mental variables map to which physical parameters through what mechanisms.
 
@@ -193,7 +193,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 
 **Mechanisms and timing:**
 - [attention-interface-mechanisms](/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions
-- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) — Five neural quantum mechanisms with evidence status
+- [quantum-neural-mechanisms](/quantum-neural-mechanisms/) — Five neural quantum mechanisms with evidence status
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Comprehensive treatment of the quantum Zeno mechanism
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing hierarchy from femtosecond to 300ms neural decisions
 - [attention-motor-quantum-interface](/attention-motor-quantum-interface/) — Unification of attention and motor selection

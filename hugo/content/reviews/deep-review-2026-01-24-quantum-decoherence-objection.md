@@ -73,7 +73,7 @@ Applied six sympathetic philosopher personas (Property Dualist, Quantum Mind The
 ### Cross-links Added
 
 **Frontmatter concepts:**
-- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/)
+- [quantum-neural-mechanisms](/quantum-neural-mechanisms/)
 - [quantum-biology](/concepts/quantum-biology/)
 - [illusionism](/concepts/illusionism/)
 - [mysterianism](/concepts/mysterianism/)
@@ -83,7 +83,7 @@ Applied six sympathetic philosopher personas (Property Dualist, Quantum Mind The
 - [explanatory-gap](/concepts/explanatory-gap/)
 
 **Further Reading:**
-- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/)
+- [quantum-neural-mechanisms](/quantum-neural-mechanisms/)
 - [quantum-biology](/concepts/quantum-biology/)
 - [illusionism](/concepts/illusionism/)
 - [mysterianism](/concepts/mysterianism/)

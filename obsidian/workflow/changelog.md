@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-18 01:47 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[quantum-neural-mechanisms]], [[quantum-coherence-and-binding-evidence]]
+- **Target**: [[quantum-neural-mechanisms-and-coherence]]
+- **Archived**: archive/concepts/quantum-neural-mechanisms.md, archive/concepts/quantum-coherence-and-binding-evidence.md
+- **References to review**: 18 active content files
+
 ## 2026-02-18 01:32 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Phenomenology of Musical Understanding

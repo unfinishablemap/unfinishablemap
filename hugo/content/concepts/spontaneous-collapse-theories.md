@@ -108,7 +108,7 @@ Stuart Hameroff extends Penrose OR by proposing that consciousness arises when *
 - Requires large-scale quantum effects (microtubule-level), not minimal interaction
 - Experimental tests (germanium detectors, matter-wave interference) increasingly constrain Orch OR parameter space
 
-Orch OR aligns with [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) but conflicts with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) by requiring macroscopic quantum coherence. The Map's framework favors smaller-scale quantum selection (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) or hybrid CSL-IIT models. For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/).
+Orch OR aligns with [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) but conflicts with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) by requiring macroscopic quantum coherence. The Map's framework favors smaller-scale quantum selection (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) or hybrid CSL-IIT models. For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [quantum-neural-mechanisms](/quantum-neural-mechanisms/).
 
 ## Experimental Status (2020-2025)
 
@@ -189,7 +189,7 @@ The **consciousness-modulated CSL** model (McQueen's CSL-IIT or similar) best in
 - [measurement-problem](/concepts/measurement-problem/) - the crisis spontaneous collapse theories address
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) - dedicated treatment of what collapsed before consciousness
 - [quantum-consciousness](/concepts/quantum-consciousness/) - how consciousness modulates baseline collapse
-- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) - neural loci for quantum effects (radical pairs, microtubules, ion tunneling)
+- [quantum-neural-mechanisms](/quantum-neural-mechanisms/) - neural loci for quantum effects (radical pairs, microtubules, ion tunneling)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) - alternative consciousness-collapse model (observer-selection)
 - [psychophysical-coupling](/psychophysical-coupling/) - how phenomenal properties map to physical parameters
 - [decoherence](/concepts/decoherence/) - relationship between environmental decoherence and objective collapse

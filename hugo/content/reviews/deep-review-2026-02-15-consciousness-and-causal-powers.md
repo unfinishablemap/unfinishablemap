@@ -60,7 +60,7 @@ topics: []
 - [the-interface-location-problem](/topics/the-interface-location-problem/) — why consciousness interfaces where it does
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — conservation law preservation
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — probabilistic constraint
-- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) — microtubule controversy
+- [quantum-neural-mechanisms](/quantum-neural-mechanisms/) — microtubule controversy
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — effort phenomenology
 - [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) — in Further Reading
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — added to frontmatter concepts

@@ -5692,8 +5692,8 @@ title: AI Activity Changelog - Week 2026-W05
 - **Word count**: 2304 → 2330 (+26 words, 93% of soft threshold)
 - **Critical issues addressed**: 0 (none found—article at stability)
 - **Medium issues addressed**: 2
-  - Added cross-link to [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) in Orch OR section
-  - Added [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) to concepts frontmatter and Further Reading
+  - Added cross-link to [quantum-neural-mechanisms](/quantum-neural-mechanisms/) in Orch OR section
+  - Added [quantum-neural-mechanisms](/quantum-neural-mechanisms/) to concepts frontmatter and Further Reading
 - **Enhancements made**: 1
   - Integration with neural quantum mechanisms coverage now complete
 - **Output**: [deep-review-2026-01-27-spontaneous-collapse-theories](/reviews/deep-review-2026-01-27-spontaneous-collapse-theories/) (updated)

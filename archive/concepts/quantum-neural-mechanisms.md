@@ -34,6 +34,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-24
 last_curated: null
 last_deep_review: 2026-02-08T18:59:00+00:00
+archived: true
+archived_date: 2026-02-18T01:47:00+00:00
+superseded_by: "/concepts/quantum-neural-mechanisms-and-coherence/"
+archive_reason: "Coalesced into Quantum Neural Mechanisms and Coherence"
+original_path: "/concepts/quantum-neural-mechanisms/"
 ---
 
 Five distinct quantum mechanisms have been proposed for neural systems: radical pair effects in cryptochromes, ion channel quantum tunneling, Fröhlich condensation in microtubules, synaptic vesicle release via SNARE protein tunneling, and phosphorus nuclear spin entanglement in Posner molecules. These mechanisms offer different pathways for consciousness to interface with quantum indeterminacy in the brain. Experimental evidence from 2024-2025 has strengthened the case for some mechanisms while leaving others speculative. The Unfinishable Map's interest in these proposals is not commitment to any specific mechanism but recognition that biological precedents for quantum effects—now well established—remove the categorical objection that brains are "too warm, wet, and noisy" for quantum consciousness.

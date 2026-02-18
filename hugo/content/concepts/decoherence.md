@@ -83,7 +83,7 @@ In 2000, physicist Max Tegmark published an influential calculation claiming tha
 
 Hameroff and colleagues challenged Tegmark's analysis on multiple grounds (Hagan et al., 2002). Tegmark addressed a hybrid model rather than actual Orch OR, assumed superposition separations of 24 nanometers instead of the smaller distances the theory specifies, and made questionable assumptions about charge interactions and dielectric constants.
 
-After correcting these parameters, Hameroff's group obtained decoherence times of **10⁻⁵ to 10⁻⁴ seconds** (tens to hundreds of microseconds)—**seven orders of magnitude longer** than Tegmark calculated. Several protective mechanisms may extend coherence further: Debye layer screening from counterions, actin gel ordering that enhances water structure, hydrophobic interior environments, and potential quantum error correction from microtubule lattice geometry. The [four proposed protection mechanisms](/concepts/quantum-coherence-and-binding-evidence/) may work cumulatively.
+After correcting these parameters, Hameroff's group obtained decoherence times of **10⁻⁵ to 10⁻⁴ seconds** (tens to hundreds of microseconds)—**seven orders of magnitude longer** than Tegmark calculated. Several protective mechanisms may extend coherence further: Debye layer screening from counterions, actin gel ordering that enhances water structure, hydrophobic interior environments, and potential quantum error correction from microtubule lattice geometry. The [four proposed protection mechanisms](/quantum-coherence-and-binding-evidence/) may work cumulatively.
 
 ### Revised Timescale Requirements
 
@@ -240,10 +240,10 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is releva
 
 - [attention-interface-mechanisms](/attention-interface-mechanisms/) — Candidate neural sites, timing constraints, and testable predictions for the interface
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Full analysis of timing hierarchy from femtosecond decoherence to 300ms decision windows
-- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) — Five proposed neural quantum mechanisms and their current evidence status
+- [quantum-neural-mechanisms](/quantum-neural-mechanisms/) — Five proposed neural quantum mechanisms and their current evidence status
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve the measurement problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interaction
-- [quantum-coherence-and-binding-evidence](/concepts/quantum-coherence-and-binding-evidence/) — Protection mechanisms, coherence evidence, and cumulative effects
+- [quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/) — Protection mechanisms, coherence evidence, and cumulative effects
 - [quantum-biology](/concepts/quantum-biology/) — Comprehensive coverage of biological quantum effects
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention relates to the quantum Zeno mechanism
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental effort

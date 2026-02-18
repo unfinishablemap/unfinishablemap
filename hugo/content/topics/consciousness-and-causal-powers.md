@@ -180,7 +180,7 @@ This framework has several virtues:
 
 **Ontological restraint**: It grants consciousness causal efficacy without multiplying unexplained powers. One mechanism (quantum selection) suffices for all forms of mental causation the Map requires.
 
-**Empirical compatibility**: The framework makes no predictions inconsistent with current physics or neuroscience. Quantum effects in neural microtubules are controversial (see [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/)), but the hypothesis is not empirically ruled out.
+**Empirical compatibility**: The framework makes no predictions inconsistent with current physics or neuroscience. Quantum effects in neural microtubules are controversial (see [quantum-neural-mechanisms](/quantum-neural-mechanisms/)), but the hypothesis is not empirically ruled out.
 
 **Explanatory power**: The framework explains the phenomenology of effort, the limits of voluntary control, the correlation between attention and neural persistence, and the evolutionary value of consciousness—all from a single causal mechanism.
 

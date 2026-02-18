@@ -1,58 +1,60 @@
 ---
-ai_contribution: 100
-ai_generated_date: 2026-02-15
-ai_modified: 2026-02-15 18:12:00+00:00
-ai_system: claude-opus-4-6
-author: null
-coalesced_from:
-- /concepts/quantum-coherence-in-neural-systems/
-- /concepts/quantum-binding-experimental-evidence/
-concepts:
-- '[[binding-problem]]'
-- '[[quantum-consciousness]]'
-- '[[decoherence]]'
-- '[[quantum-biology]]'
-- '[[measurement-problem]]'
-- '[[interactionist-dualism]]'
-- '[[illusionism]]'
-- '[[introspection]]'
-- '[[witness-consciousness]]'
-- '[[haecceity]]'
-- '[[mental-effort]]'
-- '[[epiphenomenalism]]'
-- '[[decoherence]]'
-- '[[stapp-quantum-mind]]'
-- '[[phenomenal-unity]]'
-- '[[neural-correlates-of-consciousness]]'
-- '[[mysterianism]]'
-- '[[unity-of-consciousness]]'
+title: "Quantum Coherence and Binding: Evidence"
+description: "Can quantum effects persist in warm brains, and do they bind consciousness? 2024-2025 evidence: revised decoherence estimates, four protection mechanisms, and experimental confirmation."
 created: 2026-01-18
-date: &id001 2026-02-15
-description: 'Can quantum effects persist in warm brains, and do they bind consciousness?
-  2024-2025 evidence: revised decoherence estimates, four protection mechanisms, and
-  experimental confirmation.'
-draft: false
+modified: 2026-02-15
 human_modified: null
+ai_modified: 2026-02-15T18:12:00+00:00
+draft: false
+topics:
+  - "[[hard-problem-of-consciousness]]"
+concepts:
+  - "[[binding-problem]]"
+  - "[[quantum-consciousness]]"
+  - "[[decoherence]]"
+  - "[[quantum-biology]]"
+  - "[[measurement-problem]]"
+  - "[[interactionist-dualism]]"
+  - "[[illusionism]]"
+  - "[[introspection]]"
+  - "[[witness-consciousness]]"
+  - "[[haecceity]]"
+  - "[[mental-effort]]"
+  - "[[epiphenomenalism]]"
+  - "[[decoherence]]"
+  - "[[stapp-quantum-mind]]"
+  - "[[phenomenal-unity]]"
+  - "[[neural-correlates-of-consciousness]]"
+  - "[[mysterianism]]"
+  - "[[unity-of-consciousness]]"
+related_articles:
+  - "[[tenets]]"
+  - "[[quantum-superposition-brain-consciousness-2026-01-18]]"
+  - "[[neural-binding-quantum-entanglement-2026-01-19]]"
+  - "[[quantum-binding-and-phenomenal-unity]]"
+  - "[[integrated-information-theory]]"
+  - "[[quantum-neural-timing-constraints]]"
+ai_contribution: 100
+author: null
+ai_system: claude-opus-4-6
+ai_generated_date: 2026-02-15
 last_curated: null
 last_deep_review: null
-modified: *id001
-related_articles:
-- '[[tenets]]'
-- '[[quantum-superposition-brain-consciousness-2026-01-18]]'
-- '[[neural-binding-quantum-entanglement-2026-01-19]]'
-- '[[quantum-binding-and-phenomenal-unity]]'
-- '[[integrated-information-theory]]'
-- '[[quantum-neural-timing-constraints]]'
-title: 'Quantum Coherence and Binding: Evidence'
-topics:
-- '[[hard-problem-of-consciousness]]'
+coalesced_from:
+  - "/concepts/quantum-coherence-in-neural-systems/"
+  - "/concepts/quantum-binding-experimental-evidence/"
+archived: true
+archived_date: 2026-02-18T01:47:00+00:00
+superseded_by: "/concepts/quantum-neural-mechanisms-and-coherence/"
+archive_reason: "Coalesced into Quantum Neural Mechanisms and Coherence"
+original_path: "/concepts/quantum-coherence-and-binding-evidence/"
 ---
 
-Can quantum superposition persist in neural tissue long enough to matter for consciousness? And if so, does quantum entanglement bind distributed neural processes into unified experience? Recent experimental evidence (2024-2025) answers both questions with qualified optimism. Revised decoherence estimates extend coherence times by seven orders of magnitude beyond initial calculations, four distinct protection mechanisms have been identified, and multiple experiments detect quantum effects correlating with consciousness. The [binding problem](/concepts/binding-problem/)—how distributed brain processes combine into unified awareness—may require the physical holism that only quantum entanglement provides: an entangled state is fundamentally indivisible, not built from separable components.
+Can quantum superposition persist in neural tissue long enough to matter for consciousness? And if so, does quantum entanglement bind distributed neural processes into unified experience? Recent experimental evidence (2024-2025) answers both questions with qualified optimism. Revised decoherence estimates extend coherence times by seven orders of magnitude beyond initial calculations, four distinct protection mechanisms have been identified, and multiple experiments detect quantum effects correlating with consciousness. The [[binding-problem|binding problem]]—how distributed brain processes combine into unified awareness—may require the physical holism that only quantum entanglement provides: an entangled state is fundamentally indivisible, not built from separable components.
 
 ## The Decoherence Challenge
 
-Max Tegmark's 2000 calculation became the standard objection to [quantum consciousness theories](/concepts/quantum-consciousness/). He estimated that quantum coherence in brain microtubules would decay in about 10⁻¹³ seconds (100 femtoseconds). Neural processes operate on millisecond timescales—a gap of ten billion times.
+Max Tegmark's 2000 calculation became the standard objection to [[quantum-consciousness|quantum consciousness theories]]. He estimated that quantum coherence in brain microtubules would decay in about 10⁻¹³ seconds (100 femtoseconds). Neural processes operate on millisecond timescales—a gap of ten billion times.
 
 The calculation assumed thermal equilibrium (appropriate for dead tissue, not living systems), 24 nanometre superposition separations (larger than actual proposals specify), and free interaction with the aqueous environment. Hagan, Hameroff, and Tuszynski (2002) challenged these assumptions directly:
 
@@ -76,9 +78,9 @@ The Fisher estimate is not a revision of Tegmark but an entirely different mecha
 
 Even microsecond coherence times remain three orders of magnitude below the millisecond timescales of neural firing. Two responses address this:
 
-**Quantum Zeno mechanism**: [Stapp's](/concepts/stapp-quantum-mind/) [mental effort](/concepts/mental-effort/) framework doesn't require coherence to persist for milliseconds continuously. Rapid repeated mental "observations" can maintain neural patterns without requiring coherence to survive *between* observations—the quantum Zeno effect refreshes superpositions faster than decoherence destroys them.
+**Quantum Zeno mechanism**: [[stapp-quantum-mind|Stapp's]] [[mental-effort|mental effort]] framework doesn't require coherence to persist for milliseconds continuously. Rapid repeated mental "observations" can maintain neural patterns without requiring coherence to survive *between* observations—the quantum Zeno effect refreshes superpositions faster than decoherence destroys them.
 
-**Cumulative selection**: If consciousness selects among quantum alternatives many times per second rather than once per neural firing event, even microsecond coherence windows provide sufficient opportunity. The question shifts from "how long does coherence last?" to "how fast can selection operate?" See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy.
+**Cumulative selection**: If consciousness selects among quantum alternatives many times per second rather than once per neural firing event, even microsecond coherence windows provide sufficient opportunity. The question shifts from "how long does coherence last?" to "how fast can selection operate?" See [[quantum-neural-timing-constraints]] for the full timing hierarchy.
 
 ## Four Protection Mechanisms
 
@@ -116,11 +118,11 @@ Water near biological surfaces exhibits ordering that reduces thermal noise. The
 
 ### Cumulative Protection
 
-These mechanisms need not operate independently. Hydrophobic shielding protects quantum states in the microtubule interior, Fröhlich pumping maintains coherent oscillations through metabolic energy input, ordered water reduces effective temperature, and nuclear spin isolation provides long-term entanglement storage. The combination could extend effective coherence times far beyond what any single mechanism achieves. [Quantum biology](/concepts/quantum-biology/) demonstrates that evolution has optimised quantum effects in other domains—photosynthesis and magnetoreception both exploit quantum coherence under biological conditions.
+These mechanisms need not operate independently. Hydrophobic shielding protects quantum states in the microtubule interior, Fröhlich pumping maintains coherent oscillations through metabolic energy input, ordered water reduces effective temperature, and nuclear spin isolation provides long-term entanglement storage. The combination could extend effective coherence times far beyond what any single mechanism achieves. [[quantum-biology|Quantum biology]] demonstrates that evolution has optimised quantum effects in other domains—photosynthesis and magnetoreception both exploit quantum coherence under biological conditions.
 
 ## Why Binding Requires Quantum Holism
 
-The [binding problem](/concepts/binding-problem/) asks how distributed brain processes combine into unified consciousness. Redness processed in one region, shape in another, semantic knowledge in a third—yet experience is of one unified object.
+The [[binding-problem|binding problem]] asks how distributed brain processes combine into unified consciousness. Redness processed in one region, shape in another, semantic knowledge in a third—yet experience is of one unified object.
 
 Classical mechanisms—gamma synchrony, thalamocortical loops, integrated information—explain correlation without explaining unity. Neurons firing together remain separate neurons. Quantum entanglement uniquely provides ontological holism: the whole is prior to parts.
 
@@ -156,11 +158,11 @@ A study of 106 monozygotic twin pairs found that entanglement of qubits in stimu
 
 None of this proves quantum consciousness is correct. But it shifts the burden. The quantum hypothesis made specific predictions—microtubule involvement in anaesthesia, measurable entanglement during awareness, viable coherence times—and those predictions held up.
 
-Wiest (2025) argues these findings have implications beyond correlation: if consciousness arises from quantum entanglement in microtubules, it gains genuine causal power. An entangled quantum state is an objective whole with unified properties—not [epiphenomenal](/arguments/epiphenomenalism/) but physically efficacious.
+Wiest (2025) argues these findings have implications beyond correlation: if consciousness arises from quantum entanglement in microtubules, it gains genuine causal power. An entangled quantum state is an objective whole with unified properties—not [[epiphenomenalism|epiphenomenal]] but physically efficacious.
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) argue that consciousness is a systematic misrepresentation—what seems like unified experience is actually fragmented processing that merely *appears* unified. If phenomenal unity is illusory, searching for a quantum mechanism for unity would be misguided.
+[[illusionism|Illusionists]] argue that consciousness is a systematic misrepresentation—what seems like unified experience is actually fragmented processing that merely *appears* unified. If phenomenal unity is illusory, searching for a quantum mechanism for unity would be misguided.
 
 Four responses:
 
@@ -168,21 +170,21 @@ Four responses:
 
 **The zombie reformulation**: Illusionism implies that philosophical zombies would be under the "same illusion"—systems with quasi-phenomenal properties but no phenomenal properties. This makes the conceivability argument stronger, not weaker.
 
-**[Introspection](/concepts/introspection/) survives debunking**: The illusionist claim that qualia are illusions depends on introspective reports about experience. But if introspection is systematically unreliable, why trust the introspective reports that motivate illusionism?
+**[[introspection|Introspection]] survives debunking**: The illusionist claim that qualia are illusions depends on introspective reports about experience. But if introspection is systematically unreliable, why trust the introspective reports that motivate illusionism?
 
 **The selection problem persists**: Even if qualia are "illusions," *something* must select among quantum outcomes where physics leaves outcomes undetermined. Illusionism may revise our description of what does the selecting without eliminating the need for selection.
 
 ## Contemplative Evidence
 
-In [witness consciousness](/concepts/witness-consciousness/) (sakshi in Vedantic traditions), practitioners report observing mental contents arise as if from nothing—phenomenology resembling quantum measurement where definite states emerge from superposition. Buddhist insight practices (vipassana) reveal the constructed, momentary nature of experience—each moment arising and passing in ways that phenomenologically parallel quantum events. Cessation experiences (nirodha) involve complete gaps in conscious experience followed by return, potentially corresponding to periods without quantum selection events.
+In [[witness-consciousness|witness consciousness]] (sakshi in Vedantic traditions), practitioners report observing mental contents arise as if from nothing—phenomenology resembling quantum measurement where definite states emerge from superposition. Buddhist insight practices (vipassana) reveal the constructed, momentary nature of experience—each moment arising and passing in ways that phenomenologically parallel quantum events. Cessation experiences (nirodha) involve complete gaps in conscious experience followed by return, potentially corresponding to periods without quantum selection events.
 
 These contemplative reports are not proof, but they constitute evidence that phenomenology is consistent with quantum selection—the experiential texture of consciousness matches what quantum mechanisms predict better than what classical mechanisms predict.
 
-**Buddhist complication**: The Buddhist doctrine of anattā (no-self) challenges any account requiring a unified observer. Process philosophy's response through [process haecceity](/concepts/haecceity/)—the particular actual occasion as selective locus—accommodates both momentary selection and Buddhist phenomenology without requiring a substantial self.
+**Buddhist complication**: The Buddhist doctrine of anattā (no-self) challenges any account requiring a unified observer. Process philosophy's response through [[haecceity|process haecceity]]—the particular actual occasion as selective locus—accommodates both momentary selection and Buddhist phenomenology without requiring a substantial self.
 
 ## What Coherence Does Not Require
 
-The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness biases quantum outcomes without injecting energy. This may not require sustained coherence at all.
+The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness biases quantum outcomes without injecting energy. This may not require sustained coherence at all.
 
 The coherence question divides quantum consciousness proposals:
 - **Orch OR**: Requires sustained coherence (~10-100 microseconds minimum)
@@ -217,27 +219,27 @@ The epothilone B study directly supports bidirectional interaction: a physical i
 
 ### No Many Worlds
 
-Protected quantum coherence matters only if collapse is real. On Many-Worlds, all outcomes occur in branching universes regardless of decoherence timescales. The significance of protection mechanisms depends on genuine quantum indeterminacy being resolved rather than merely branched. The Map's [commitment to indexical identity](/concepts/haecceity/) requires that protection enable actual selection, not just subjective experience of particular branches.
+Protected quantum coherence matters only if collapse is real. On Many-Worlds, all outcomes occur in branching universes regardless of decoherence timescales. The significance of protection mechanisms depends on genuine quantum indeterminacy being resolved rather than merely branched. The Map's [[haecceity|commitment to indexical identity]] requires that protection enable actual selection, not just subjective experience of particular branches.
 
 ### Occam's Razor Has Limits
 
-The assumption that warm biology must be classical turned out false. [Quantum biology](/concepts/quantum-biology/) has demonstrated that warm, wet systems can harness quantum effects—in photosynthesis, magnetoreception, enzyme catalysis. Classical theories seem simpler, but if neurons alone cannot produce unity, apparent simplicity becomes actual incompleteness.
+The assumption that warm biology must be classical turned out false. [[quantum-biology|Quantum biology]] has demonstrated that warm, wet systems can harness quantum effects—in photosynthesis, magnetoreception, enzyme catalysis. Classical theories seem simpler, but if neurons alone cannot produce unity, apparent simplicity becomes actual incompleteness.
 
 ## Further Reading
 
-- [binding-problem](/concepts/binding-problem/) — How quantum entanglement may solve phenomenal unity
-- [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum consciousness mechanisms including Orch OR and quantum Zeno
-- [decoherence](/concepts/decoherence/) — Why decoherence doesn't solve the measurement problem
-- [quantum-biology](/concepts/quantum-biology/) — Biological systems exploiting quantum effects
-- [measurement-problem](/concepts/measurement-problem/) — Why physics leaves outcomes undetermined
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Quantum entanglement and the binding problem
-- [mental-effort](/concepts/mental-effort/) — Stapp's quantum Zeno framework for voluntary attention
-- [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from femtosecond decoherence to 300ms neural decisions
-- [decoherence](/concepts/decoherence/) — Comprehensive analysis of the decoherence objection
-- [phenomenal-unity](/phenomenal-unity/) — What quantum binding aims to explain
-- [illusionism](/concepts/illusionism/) — The challenge that phenomenal unity might be illusory
-- [mysterianism](/concepts/mysterianism/) — The possibility that consciousness-quantum connection exceeds human cognitive reach
-- [tenets](/tenets/) — The Map's foundational commitments
+- [[binding-problem]] — How quantum entanglement may solve phenomenal unity
+- [[quantum-consciousness]] — Quantum consciousness mechanisms including Orch OR and quantum Zeno
+- [[decoherence]] — Why decoherence doesn't solve the measurement problem
+- [[quantum-biology]] — Biological systems exploiting quantum effects
+- [[measurement-problem]] — Why physics leaves outcomes undetermined
+- [[quantum-binding-and-phenomenal-unity]] — Quantum entanglement and the binding problem
+- [[mental-effort]] — Stapp's quantum Zeno framework for voluntary attention
+- [[quantum-neural-timing-constraints]] — The timing hierarchy from femtosecond decoherence to 300ms neural decisions
+- [[decoherence]] — Comprehensive analysis of the decoherence objection
+- [[phenomenal-unity]] — What quantum binding aims to explain
+- [[illusionism]] — The challenge that phenomenal unity might be illusory
+- [[mysterianism]] — The possibility that consciousness-quantum connection exceeds human cognitive reach
+- [[tenets]] — The Map's foundational commitments
 
 ## References
 

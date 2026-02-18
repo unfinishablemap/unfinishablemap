@@ -142,7 +142,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum approaches to consciousness
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism in detail
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and Penrose OR models
-- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) — Five neural quantum mechanisms with evidence
+- [quantum-neural-mechanisms](/quantum-neural-mechanisms/) — Five neural quantum mechanisms with evidence
 - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) — Why quantum biology shifts the burden of proof
 - [decoherence](/concepts/decoherence/) — The decoherence challenge in detail
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Decoherence and timing considerations for neural quantum effects

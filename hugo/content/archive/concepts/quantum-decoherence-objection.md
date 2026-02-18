@@ -107,7 +107,7 @@ A January 2026 computational study from Princeton confirmed the radical pair mec
 
 Recent experiments have pushed quantum coherence into warmer regimes. Research from Innsbruck (2025) created Schrödinger cat states at 1.8 Kelvin—roughly 60 times warmer than typical quantum computing operating temperatures. The University of Science and Technology of China (2024) achieved coherence lasting 1,400 seconds in isolated ytterbium-173 atoms. While these are engineered laboratory systems far removed from neural conditions, they demonstrate that quantum coherence is not as fragile as early estimates suggested.
 
-Direct evidence for quantum effects in microtubules has emerged. Craddock et al. (2024) reported anesthetic binding studies showing effects on microtubule dynamics consistent with Orch OR predictions. Kerskens and Pérez (2022) published MRI findings suggesting macroscopic quantum states correlated with heartbeat-evoked potentials, though these results remain disputed—Warren (2024) critiqued the signal interpretation. Separately, resonance studies of tubulin dimers (Craddock et al., 2017) found vibrational modes potentially relevant to quantum coherence. These findings remain preliminary and contested, but they shift the burden of proof. See [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) for a comprehensive overview of five proposed neural quantum mechanisms and their current evidence status.
+Direct evidence for quantum effects in microtubules has emerged. Craddock et al. (2024) reported anesthetic binding studies showing effects on microtubule dynamics consistent with Orch OR predictions. Kerskens and Pérez (2022) published MRI findings suggesting macroscopic quantum states correlated with heartbeat-evoked potentials, though these results remain disputed—Warren (2024) critiqued the signal interpretation. Separately, resonance studies of tubulin dimers (Craddock et al., 2017) found vibrational modes potentially relevant to quantum coherence. These findings remain preliminary and contested, but they shift the burden of proof. See [quantum-neural-mechanisms](/quantum-neural-mechanisms/) for a comprehensive overview of five proposed neural quantum mechanisms and their current evidence status.
 
 ## What Decoherence Doesn't Disprove
 
@@ -154,7 +154,7 @@ The existence of quantum effects in avian magnetoreception demonstrates a crucia
 ## Further Reading
 
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Full analysis of timing hierarchy from femtosecond decoherence to 300ms decision windows
-- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) — Five proposed neural quantum mechanisms and their current evidence status
+- [quantum-neural-mechanisms](/quantum-neural-mechanisms/) — Five proposed neural quantum mechanisms and their current evidence status
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in biological systems (magnetoreception, photosynthesis)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental effort
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum approaches to consciousness

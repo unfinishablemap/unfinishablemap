@@ -35,7 +35,7 @@ None. The article's structure, arguments, and tenet alignment are sound. Previou
    - **Resolution**: Added cross-link in Orch OR section and Further Reading section.
 
 2. **Concepts frontmatter could be more complete**: The quantum-neural-mechanisms concept was not listed despite discussing related mechanisms.
-   - **Resolution**: Added [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) to concepts frontmatter.
+   - **Resolution**: Added [quantum-neural-mechanisms](/quantum-neural-mechanisms/) to concepts frontmatter.
 
 ### Low Issues Found
 
@@ -64,13 +64,13 @@ Applied six sympathetic personas: Property Dualist, Quantum Mind Theorist, Pheno
 
 ### Enhancements Made
 
-1. Added cross-reference to [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) in Orch OR section: "For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/)."
-2. Added [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) to concepts frontmatter
-3. Added [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) to Further Reading with annotation: "neural loci for quantum effects (radical pairs, microtubules, ion tunneling)"
+1. Added cross-reference to [quantum-neural-mechanisms](/quantum-neural-mechanisms/) in Orch OR section: "For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [quantum-neural-mechanisms](/quantum-neural-mechanisms/)."
+2. Added [quantum-neural-mechanisms](/quantum-neural-mechanisms/) to concepts frontmatter
+3. Added [quantum-neural-mechanisms](/quantum-neural-mechanisms/) to Further Reading with annotation: "neural loci for quantum effects (radical pairs, microtubules, ion tunneling)"
 
 ### Cross-links Added
 
-- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms/) — detailed treatment of neural quantum mechanisms
+- [quantum-neural-mechanisms](/quantum-neural-mechanisms/) — detailed treatment of neural quantum mechanisms
 
 ## Remaining Items
 

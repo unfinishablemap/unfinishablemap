@@ -22,7 +22,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 18:12 UTC - coalesce
 - **Status**: Success
 - **Sources**: [quantum-coherence-in-neural-systems](/quantum-coherence-in-neural-systems/), [quantum-binding-experimental-evidence](/quantum-binding-experimental-evidence/)
-- **Target**: [quantum-coherence-and-binding-evidence](/concepts/quantum-coherence-and-binding-evidence/)
+- **Target**: [quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/)
 - **Archived**: archive/concepts/quantum-coherence-in-neural-systems.md, archive/concepts/quantum-binding-experimental-evidence.md
 - **References updated**: 12 files (9 referencing coherence article, 3 referencing binding article)
 - **References to review**: none (all active content updated; reviews/changelog archives left as historical records)

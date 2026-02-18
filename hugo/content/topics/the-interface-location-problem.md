@@ -164,7 +164,7 @@ The Map's agnosticism about the specific location is not a weakness of the frame
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the bridge between consciousness and brain
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum selection mechanisms (Stapp, Orch OR)
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge in biological systems
-- [quantum-coherence-and-binding-evidence](/concepts/quantum-coherence-and-binding-evidence/) — Evidence for quantum effects in brain tissue
+- [quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/) — Evidence for quantum effects in brain tissue
 - [psychophysical-coupling](/psychophysical-coupling/) — Bandwidth constraints on the mind-brain connection
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve collapse
 
