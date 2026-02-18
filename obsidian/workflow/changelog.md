@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-18 00:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/moral-responsibility]]
+- **Changes**: Decoupled agent causation from quantum Zeno mechanism (style guide compliance), fixed Soon et al. (2008) citation context (timing vs content prediction), acknowledged agent causation as minority position, flagged "irreducible causal power" as primitive, softened decoherence section's mechanism dependence
+- **Driven by**: pessimistic-2026-02-17-night.md (Issues 3, 5)
+- **Published**: yes
+
 ## 2026-02-17 23:47 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-moral-agency-under-duress]]

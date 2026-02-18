@@ -4,7 +4,7 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-02-03T09:11:00+00:00
+ai_modified: 2026-02-18T00:02:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -31,7 +31,7 @@ last_curated: null
 last_deep_review: 2026-01-30T14:49:00+00:00
 ---
 
-Moral responsibility requires that agents deserve praise or blame for their actions. If an agent couldn't have done otherwise, or wasn't the genuine source of their choice, holding them responsible seems unjust. The Unfinishable Map's [[agent-causation|agent-causal]] framework grounds moral responsibility differently than compatibilism does: agents are genuine sources of action through [[quantum-consciousness|quantum selection]], making desert metaphysically robust rather than merely pragmatic.
+Moral responsibility requires that agents deserve praise or blame for their actions. If an agent couldn't have done otherwise, or wasn't the genuine source of their choice, holding them responsible seems unjust. The Unfinishable Map adopts [[agent-causation|agent causation]]—a minority position among free will theorists, but one the Map finds best suited to grounding genuine desert. On this view, agents are irreducible sources of action, making moral responsibility metaphysically robust rather than merely pragmatic.
 
 This has practical implications. If agents truly author their choices—not as links in deterministic chains but as initiators of causal sequences—then blame and praise track something real about the agent. Moral responsibility isn't a useful fiction but a response to genuine facts about who caused what.
 
@@ -47,21 +47,23 @@ Moral responsibility requires control (could have done otherwise), sourcehood (t
 
 ### Genuine Sourcehood
 
-The agent is the ultimate source of the action. Prior factors influenced but didn't determine. The agent determined by exercising irreducible causal power. This satisfies Robert Kane's sourcehood requirement: free agents must be "ultimate creators (or originators) and sustainers" of their choices. Desert becomes intelligible because the causal buck stops with the agent.
+The agent is the ultimate source of the action. Prior factors influenced but didn't determine. The agent determined by exercising irreducible causal power—a primitive in this framework, analogous to how consciousness itself is primitive on the Map's dualist view. Critics reasonably object that "irreducible causal power" labels the phenomenon without explaining it. The Map accepts this cost: some explanations must bottom out in primitives, and if consciousness is genuinely irreducible, its causal efficacy may be another such primitive. This satisfies Robert Kane's sourcehood requirement: free agents must be "ultimate creators (or originators) and sustainers" of their choices. Desert becomes intelligible because the causal buck stops with the agent.
 
 ### The Luck Objection
 
 If nothing about the agent explains why they chose to help rather than harm, how do they deserve praise or blame? See [[quantum-indeterminacy-free-will]] for the full treatment of this challenge. The Map's [[free-will#Why the Map's Framework Escapes Luck|response]]: consciousness-selected indeterminism differs from lucky indeterminism because the agent selects *for reasons*. You deserve blame for cruelty because *you* selected it when kindness was available, for reasons (malice, indifference) that reflect badly on you.
 
-### The Quantum Zeno Mechanism
+### How Agent Causation Grounds Control
 
-The [[quantum-indeterminacy-free-will#The Quantum Zeno Mechanism in Detail|quantum Zeno mechanism]] grounds the *control* requirement. Mental effort—sustained attention—acts like repeated quantum measurement, holding selected neural patterns stable. Key features:
+The *control* requirement—that the agent could have done otherwise—is grounded philosophically rather than by any particular physical mechanism. Agent causation posits that consciousness selects among genuinely open possibilities for reasons that matter to the agent. This is not randomness: the agent's values, character, and deliberation shape which possibility is actualised, without those factors determining the outcome in advance.
 
-1. **Selection, not randomness**: The agent selects among open possibilities based on what matters to them
-2. **Phenomenology tracks causation**: The felt difficulty of choosing well corresponds to genuine causal engagement
+Three features of this picture support genuine control:
+
+1. **Selection, not randomness**: The agent selects among open possibilities based on what matters to them—reasons, not dice rolls, shape the outcome
+2. **Phenomenology tracks causation**: The felt difficulty of choosing well corresponds to genuine causal engagement with alternatives
 3. **Two-domain evidence**: Both [[attention-as-interface|attention]] and [[motor-selection|motor control]] show identical selection architecture, suggesting consciousness genuinely selects
 
-Consciousness-directed selection provides what responsibility requires: the agent genuinely determined the outcome from among real alternatives.
+One proposed physical implementation is the [[quantum-indeterminacy-free-will#The Quantum Zeno Mechanism in Detail|quantum Zeno mechanism]], where sustained attention acts like repeated quantum measurement, stabilising selected neural patterns. This is speculative—it depends on disputed decoherence timescales and remains Stapp's hypothesis rather than established physics. But the philosophical case for agent-causal control does not depend on this particular mechanism. If quantum Zeno proves unworkable, the Map's position requires only that *some* physical process leaves room for consciousness to influence outcomes—a gap that quantum indeterminacy provides regardless of the specific mechanism.
 
 ## How Desert Differs Under Agent Causation
 
@@ -129,7 +131,7 @@ Three responses preserve desert:
 
 The **[[decoherence]]** objection: quantum superpositions decohere almost instantly in warm neural tissue. If quantum effects can't influence neural processing, consciousness couldn't "select" outcomes. See [[decoherence]] for the full challenge.
 
-Three responses: (1) Tegmark's original calculations are disputed—Hameroff's group obtained estimates seven orders of magnitude longer. (2) [[quantum-biology|Quantum biology]] demonstrates biological quantum effects that Tegmark's calculations seemed to rule out. (3) The quantum Zeno mechanism operates through rapid repeated observation, not sustained coherence. Decoherence doesn't solve the [[measurement-problem|measurement problem]]—consciousness might bias which outcome actualizes *at the moment of decoherence*.
+Three responses: (1) Tegmark's original calculations are disputed—Hameroff's group obtained estimates seven orders of magnitude longer. (2) [[quantum-biology|Quantum biology]] demonstrates biological quantum effects that Tegmark's calculations seemed to rule out. (3) The Map's framework does not require sustained coherence—it requires only that quantum indeterminacy leaves outcomes genuinely open at the moment of measurement. Decoherence doesn't solve the [[measurement-problem|measurement problem]]—consciousness might bias which outcome actualises *at the moment of decoherence*, regardless of how quickly that moment arrives.
 
 ## Objections and Responses
 
@@ -145,7 +147,7 @@ Three responses: (1) Tegmark's original calculations are disputed—Hameroff's g
 
 Agent-causal moral responsibility is falsifiable. Findings that would undermine the framework:
 
-1. **Complete neural prediction of moral choices**: If neuroscience could predict all moral decisions from prior brain states with 100% accuracy at timescales ruling out quantum effects, there would be no "gap" for consciousness to fill. Current predictive accuracy (~60% for simple binary choices in studies like Soon et al. 2008) leaves substantial room.
+1. **Complete neural prediction of moral choices**: If neuroscience could predict all moral decisions from prior brain states with 100% accuracy at timescales ruling out quantum effects, there would be no "gap" for consciousness to fill. Existing studies remain far from this threshold. Soon et al. (2008) famously detected neural activity correlating with decisions up to ten seconds before conscious awareness, but their prediction accuracy for *which* button a subject would press was only ~60%—barely above chance for a binary choice. Subsequent studies have improved timing predictions but not content prediction for complex moral decisions. The gap between predicting *when* someone will act and predicting *what* they will choose remains substantial.
 
 2. **Dissociation of effort phenomenology from desert intuitions**: If sustained mental effort could be shown to have no correlation with judgments of desert—if we praised and blamed equally regardless of how hard the choice felt—the phenomenological support would collapse. Current evidence shows the opposite: we hold agents more responsible for choices they struggled with than for automatic responses.
 
@@ -198,3 +200,17 @@ This framework respects the ordinary intuition that people deserve praise and bl
 - Tallis, R. (2011). *Aping Mankind*. Acumen.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+
+<!-- AI REFINEMENT LOG - 2026-02-18
+Changes made:
+- Restructured "The Quantum Zeno Mechanism" section → "How Agent Causation Grounds Control": agent causation now presented as philosophically grounded regardless of physical mechanism, with quantum Zeno as one speculative possible implementation (writing style guide compliance)
+- Fixed Soon et al. (2008) citation: clarified study predicted timing, not content; ~60% accuracy was for which button, barely above binary chance
+- Acknowledged agent causation as minority position in opening paragraph
+- Flagged "irreducible causal power" as doing significant unexplained work, with honest acknowledgment of the cost of treating it as a primitive
+- Softened decoherence section: removed specific quantum Zeno dependence, reframed around the more general point that consciousness might bias outcomes at the moment of decoherence
+- All changes driven by pessimistic-2026-02-17-night.md (Issues 3, 5; Unsupported Claims table)
+
+Key improvements: Decoupled the philosophical argument for moral responsibility from speculative quantum mechanisms, improving resilience and style guide compliance.
+
+This log should be removed after human review.
+-->
