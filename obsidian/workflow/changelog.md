@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-18 09:02 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Ownership Void (phenomenal mineness and its opacity)
+- **Category**: Occluded / Unexplorable (Mixed)
+- **Output**: [[research/voids-ownership-void-2026-02-18]]
+- **Key finding**: The sense that experiences are "mine" (Jemeinigkeit/for-me-ness) is a separable phenomenal feature—depersonalisation disorder reveals it can vanish while experience continues—yet its ground is opaque from within, making it a structural cognitive void that is presupposed by every act of introspection
+
 ## 2026-02-18 08:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/cross-cultural-phenomenology-of-agency]]
