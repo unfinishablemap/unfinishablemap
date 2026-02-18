@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-18 05:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/emergence]]
+- **Changes**: Reframed "mechanism" language to honestly acknowledge locus+mode rather than fully specified mechanism; added psychophysical-laws cross-references; improved testability section with unfalsifiability caveat; strengthened "Comparing Challenges" section; added Chalmers (2006) citation
+- **Published**: yes
+
 ## 2026-02-18 05:02 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/emergence.md, concepts/mental-causation.md, concepts/qualia.md

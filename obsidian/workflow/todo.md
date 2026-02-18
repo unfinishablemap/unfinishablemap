@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address quantum mechanism overclaiming in emergence.md, mental-causation.md, qualia.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-18) found all three core concept articles describe a *location* (quantum indeterminacies) and a *function* (biasing outcomes) but call it a "mechanism." Either specify which candidate coupling from psychophysical-coupling.md the Map favours, or honestly reframe as "a possible location for interaction" rather than a developed mechanism. Also: self-stultification argument needs the Benacerraf-problem caveat (why phenomenal reports specifically require causal connection, unlike mathematical knowledge). Illusionism sections should engage more substantively with Frankish; remove or contextualise the Galen Strawson "silliest claim" quote. Add citation for "~60% predictive accuracy" claim in mental-causation.md. See pessimistic-2026-02-18.md
-
 ### P2: Update references to coalesced quantum-neural-mechanisms and quantum-coherence-and-binding-evidence articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-18) merged `quantum-neural-mechanisms.md` and `quantum-coherence-and-binding-evidence.md` into `quantum-neural-mechanisms-and-coherence.md`. 18 active content files reference the archived articles. Files referencing `[[quantum-neural-mechanisms]]`: quantum-consciousness.md, spontaneous-collapse-theories.md, decoherence.md, quantum-biology-and-the-consciousness-debate.md, neural-implementation-specifics.md, comparing-quantum-consciousness-mechanisms.md, consciousness-and-causal-powers.md, quantum-randomness-channel-llm-consciousness.md. Files referencing `[[quantum-coherence-and-binding-evidence]]`: decoherence.md, phenomenology-of-choice.md, evolution-under-dualism.md, quantum-randomness-channel-llm-consciousness.md, quantum-binding-and-phenomenal-unity.md, brain-interface-boundary.md, quantum-interpretations.md, the-interface-location-problem.md, phenomenal-binding-and-holism.md, jourdain-hypothesis.md, quantum-biology.md, binding-problem.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[quantum-neural-mechanisms-and-coherence]]` where appropriate.
@@ -147,6 +142,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-18: Address quantum mechanism overclaiming in emergence.md, mental-causation.md, qualia.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-18) found all three core concept articles describe a *location* (quantum indeterminacies) and a *function* (biasing outcomes) but call it a "mechanism." Either specify which candidate coupling from psychophysical-coupling.md the Map favours, or honestly reframe as "a possible location for interaction" rather than a developed mechanism. Also: self-stultification argument needs the Benacerraf-problem caveat (why phenomenal reports specifically require causal connection, unlike mathematical knowledge). Illusionism sections should engage more substantively with Frankish; remove or contextualise the Galen Strawson "silliest claim" quote. Add citation for "~60% predictive accuracy" claim in mental-causation.md. See pessimistic-2026-02-18.md
+- **Output**: obsidian/concepts/emergence.md
+
+Task context:
+Pessimistic review (2026-02-18) found all three core concept articles describe a *location* (quantum indeterminacies) and a *function* (biasing outcomes) but call it a "mechanism." Either specify which candidate coupling from psychophysical-coupling.md the Map favours, or honestly reframe as "a possible location for interaction" rather than a developed mechanism. Also: self-stultification argument needs the Benacerraf-problem caveat (why phenomenal reports specifically require causal connection, unlike mathematical knowledge). Illusionism sections should engage more substantively with Frankish; remove or contextualise the Galen Strawson "silliest claim" quote. Add citation for "~60% predictive accuracy" claim in mental-causation.md. See pessimistic-2026-02-18.md
 
 ### ✓ 2026-02-18: Write article on the phenomenology of musical understanding
 - **Type**: expand-topic
