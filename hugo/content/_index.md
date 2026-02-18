@@ -92,6 +92,7 @@ flowchart BT
 <a href="https://www.tiktok.com/@unfinishablemap" title="TikTok"><i class="fa-brands fa-tiktok"></i></a>
 <a href="https://www.instagram.com/unfinishablemap/" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
 <a href="https://github.com/unfinishablemap/" title="GitHub"><i class="fa-brands fa-github"></i></a>
+<a href="https://orcid.org/0009-0007-2787-6052" title="ORCID"><i class="fa-brands fa-orcid"></i></a>
 </p>
 
 The Map is maintained by [Andy Southgate](mailto:andy@unfinishablemap.org). Learn more about the [project](/project/) and how it works.

@@ -18,6 +18,51 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-18 21:16 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and Information Integration Beyond IIT
+- **Output**: [consciousness-and-information-integration-beyond-iit](/topics/consciousness-and-information-integration-beyond-iit/)
+- **Word count**: 1892
+- **Based on research**: No (draws on existing IIT research and articles)
+
+## 2026-02-18 21:01 UTC - deep-review
+- **Status**: Success
+- **File**: [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/)
+- **Word count**: 1722 → 1914 (+192)
+- **Critical issues addressed**: 1 (misattribution of Cleeremans & Tallon-Baudry as Cutter & Tye)
+- **Medium issues addressed**: 5 (asymbolia argument strengthened, evolutionary byproduct objection addressed, No Many Worlds expanded, James citation added, Smithies reference corrected)
+- **Enhancements made**: 3 (anticipatory rebuttals, expanded argumentation, improved references)
+- **Output**: [deep-review-2026-02-18-emotion-as-evidence-for-dualism](/reviews/deep-review-2026-02-18-emotion-as-evidence-for-dualism/)
+
+## 2026-02-18 20:46 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology of Theoretical Commitment
+- **Output**: [phenomenology-of-theoretical-commitment](/topics/phenomenology-of-theoretical-commitment/)
+- **Word count**: 1493
+- **Based on research**: No
+
+## 2026-02-18 20:31 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Philosophy of Explanation
+- **Output**: [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-philosophy-of-explanation/)
+- **Word count**: 1886
+- **Based on research**: Partially (drew on [voids-explanatory-void-2026-02-15](/research/voids-explanatory-void-2026-02-15/))
+
+## 2026-02-18 18:32 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: ~174 topics, ~174 concepts, tenets (representative sample of 45+ articles read in full)
+- **Focus**: Corpus-level architectural strengths, epistemological framework maturity, phenomenology cluster as distinctive contribution, convergence methodology
+- **Output**: [optimistic-2026-02-18-evening](/reviews/optimistic-2026-02-18-evening/)
+
+## 2026-02-18 17:47 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-imagination](/topics/phenomenology-of-imagination/)
+- **Word count**: 1507 → 2045 (+538)
+- **Critical issues addressed**: 5 (Husserl Phantasie misdescription, Hume misquotation, paradox of fiction misapplication, invalid inference from imaginative constraints, uncited neural claim)
+- **Medium issues addressed**: 6 (functionalism overstated, motor imagery overclaimed, aphantasia overstated, no materialist engagement, missing cross-links, opening style)
+- **Enhancements made**: 5 (free will connection, generative mystery, explanatory gap argument, Walton engagement, materialist engagement)
+- **Output**: [deep-review-2026-02-18-phenomenology-of-imagination](/reviews/deep-review-2026-02-18-phenomenology-of-imagination/)
+
 ## 2026-02-18 17:17 UTC - refine-draft
 - **Status**: Success
 - **File**: [consciousness-and-the-authority-of-mathematics](/topics/consciousness-and-the-authority-of-mathematics/)
