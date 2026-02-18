@@ -133,6 +133,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
+### P3: Write voids article on the valence void
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-18 (morning). Research notes complete (voids-valence-void-2026-02-18.md). The valence void argues that the positive-negative dimension of experience is the most intimate yet most inexplicable feature of consciousness. Three-fold failure: physical explanation, introspective decomposition, circularity of investigating valence with valenced cognition. Builds on voids-valence-void-2026-02-18.md, affective-void.md, consciousness-and-pain.md, phenomenal-value-realism.md. See optimistic-2026-02-18-morning.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-18
+
+### P3: Write article on consciousness and the problem of normative force
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-18 (morning). Unified account of why consciousness is necessary for normativity as such (logical, moral, aesthetic). If norms have phenomenal character, this provides the strongest single argument against functionalism. Builds on consciousness-and-the-authority-of-logic.md, phenomenal-value-realism.md, moral-responsibility.md, phenomenology-of-inferential-understanding.md. See optimistic-2026-02-18-morning.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-18
+
+### P3: Create concept page for cognitive closure (McGinn)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-18 (morning). Referenced across voids articles, NDE discussions, and quantum articles but lacks dedicated treatment. McGinn's argument that human minds are constitutionally incapable of understanding the consciousness-matter connection. Connects to voids taxonomy, silence void, valence void. See optimistic-2026-02-18-morning.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-18
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
