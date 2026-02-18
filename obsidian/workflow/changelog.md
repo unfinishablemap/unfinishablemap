@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-18 11:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [[quantum-measurement-and-subjective-probability]]
+- **Changes**: Fixed core equivocation (structural dependence vs general hard problem), reframed phenomenological test to target QBism-specific circularity, reduced overlap with companion article, fixed Wigner retreat representation, applied language improvements
+- **Published**: yes
+
 ## 2026-02-18 11:02 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/quantum-measurement-and-subjective-probability.md

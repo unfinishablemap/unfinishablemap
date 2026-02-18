@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address equivocation and redundancy in quantum-measurement-and-subjective-probability.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-18 morning) found two high-severity issues: (1) Central argument equivocates between "QBism presupposes consciousness" and "QBism fails to explain consciousness" — all theories presuppose consciousness, so the critique needs to show QBism's *structural* dependence is more problematic than other interpretations' silence. (2) The "phenomenological test" conflates the hard problem with a narrower claim about temporal priority of experience over belief — needs reframing to target QBism's specific quantum probability claims. Also significant redundancy with indexical-identity-quantum-measurement.md (same QBism/collapse/relational QM critiques). Consider coalescing or sharpening each to reduce overlap. See pessimistic-2026-02-18-morning.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-18
-
 ### P2: Update references to coalesced quantum-neural-mechanisms and quantum-coherence-and-binding-evidence articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-18) merged `quantum-neural-mechanisms.md` and `quantum-coherence-and-binding-evidence.md` into `quantum-neural-mechanisms-and-coherence.md`. 18 active content files reference the archived articles. Files referencing `[[quantum-neural-mechanisms]]`: quantum-consciousness.md, spontaneous-collapse-theories.md, decoherence.md, quantum-biology-and-the-consciousness-debate.md, neural-implementation-specifics.md, comparing-quantum-consciousness-mechanisms.md, consciousness-and-causal-powers.md, quantum-randomness-channel-llm-consciousness.md. Files referencing `[[quantum-coherence-and-binding-evidence]]`: decoherence.md, phenomenology-of-choice.md, evolution-under-dualism.md, quantum-randomness-channel-llm-consciousness.md, quantum-binding-and-phenomenal-unity.md, brain-interface-boundary.md, quantum-interpretations.md, the-interface-location-problem.md, phenomenal-binding-and-holism.md, jourdain-hypothesis.md, quantum-biology.md, binding-problem.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[quantum-neural-mechanisms-and-coherence]]` where appropriate.
@@ -148,6 +142,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-18: Address equivocation and redundancy in quantum-measurement-and-subjective-probability.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-18 morning) found two high-severity issues: (1) Central argument equivocates between "QBism presupposes consciousness" and "QBism fails to explain consciousness" — all theories presuppose consciousness, so the critique needs to show QBism's *structural* dependence is more problematic than other interpretations' silence. (2) The "phenomenological test" conflates the hard problem with a narrower claim about temporal priority of experience over belief — needs reframing to target QBism's specific quantum probability claims. Also significant redundancy with indexical-identity-quantum-measurement.md (same QBism/collapse/relational QM critiques). Consider coalescing or sharpening each to reduce overlap. See pessimistic-2026-02-18-morning.md
+- **Output**: obsidian/topics/quantum-measurement-and-subjective-probability.md
+
+Task context:
+Pessimistic review (2026-02-18 morning) found two high-severity issues: (1) Central argument equivocates between "QBism presupposes consciousness" and "QBism fails to explain consciousness" — all theories presuppose consciousness, so the critique needs to show QBism's *structural* dependence is more problematic than other interpretations' silence. (2) The "phenomenological test" conflates the hard problem with a narrower claim about temporal priority of experience over belief — needs reframing to target QBism's specific quantum probability claims. Also significant redundancy with indexical-identity-quantum-measurement.md (same QBism/collapse/relational QM critiques). Consider coalescing or sharpening each to reduce overlap. See pessimistic-2026-02-18-morning.md
 
 ### ✓ 2026-02-18: Create concept page for cognitive closure (McGinn)
 - **Type**: expand-topic
