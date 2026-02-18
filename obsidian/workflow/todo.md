@@ -133,11 +133,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and the problem of other properties
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-18 (afternoon). If consciousness reveals what properties really are (powerful qualities known from inside), what does this say about properties known only from outside? Connects hard problem to intrinsic nature problem. Builds on consciousness-and-the-ontology-of-dispositions.md, russellian-monism.md, intrinsic-nature-void.md. See optimistic-2026-02-18-afternoon.md
-
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
@@ -147,6 +142,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-18: Write article on consciousness and the problem of other properties
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-18 (afternoon). If consciousness reveals what properties really are (powerful qualities known from inside), what does this say about properties known only from outside? Connects hard problem to intrinsic nature problem. Builds on consciousness-and-the-ontology-of-dispositions.md, russellian-monism.md, intrinsic-nature-void.md. See optimistic-2026-02-18-afternoon.md
+- **Output**: consciousness and the problem of other properties
 
 ### ✓ 2026-02-18: Write article on the phenomenology of normative conflict
 - **Type**: expand-topic
