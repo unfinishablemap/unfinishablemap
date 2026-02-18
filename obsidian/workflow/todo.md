@@ -127,6 +127,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
+### P3: Write article on the epistemology of phenomenal reports in science
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How should science treat first-person reports? The Map has sophisticated arguments for contemplative evidence but hasn't systematically addressed how phenomenal reports should function within scientific methodology. Bridges phenomenological arguments and philosophy of science. Builds on contemplative-verification-of-consciousness-theories.md, first-person-third-person-methodology.md, neurophenomenology.md. See optimistic-2026-02-18.md
+
+### P3: Write article on consciousness and the ontology of dispositions
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The dispositional-categorical distinction has direct implications for how consciousness can be causally efficacious. If fundamental physical properties are dispositional (powers), consciousness could be a categorical basis grounding physical dispositions (Heil, Martin). Provides metaphysical framework for the interaction tenet. Builds on agent-causation.md, causal-closure.md, mental-causation.md. See optimistic-2026-02-18.md
+
+### P3: Write article on the phenomenology of musical understanding
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Music presents a unique test case for binding and temporal consciousness. Musical understanding requires integrating temporal, tonal, rhythmic, and emotional dimensions into a unified experience that cannot be decomposed. Parallels the combination problem at phenomenal level. Builds on consciousness-and-aesthetic-value.md, phenomenology-of-understanding.md, temporal-consciousness.md. See optimistic-2026-02-18.md
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
