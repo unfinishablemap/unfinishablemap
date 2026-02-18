@@ -115,11 +115,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P2: Write article on the convergence argument for dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-18 (evening). Make the Map's convergence methodology explicit: multiple independent arguments (knowledge argument, zombies, explanatory gap, inverted qualia, unity, agency) all independently support dualism. When independent probes yield the same result, error probability decreases multiplicatively. Standard scientific methodology applied to philosophy. Builds on the-case-for-dualism.md, knowledge-argument.md, philosophical-zombies.md, explanatory-gap.md. See optimistic-2026-02-18-evening.md
-
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -147,6 +142,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-18: Write article on the convergence argument for dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-18 (evening). Make the Map's convergence methodology explicit: multiple independent arguments (knowledge argument, zombies, explanatory gap, inverted qualia, unity, agency) all independently support dualism. When independent probes yield the same result, error probability decreases multiplicatively. Standard scientific methodology applied to philosophy. Builds on the-case-for-dualism.md, knowledge-argument.md, philosophical-zombies.md, explanatory-gap.md. See optimistic-2026-02-18-evening.md
+- **Output**: the convergence argument for dualism
 
 ### ✓ 2026-02-18: Write article on consciousness and information integration beyond IIT
 - **Type**: expand-topic
