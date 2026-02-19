@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-19 09:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Control-Theoretic Will
+- **Output**: [[concepts/control-theoretic-will]]
+- **Word count**: 1807
+- **Based on research**: No (synthesised from existing Map concepts; originated from outer review inference)
+
 ## 2026-02-19 12:15 UTC - outer-review
 - **Status**: Success
 - **Reviewer**: ChatGPT 5.2 Pro (OpenAI)

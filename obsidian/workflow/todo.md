@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for control-theoretic will
-- **Type**: expand-topic
-- **Notes**: From outer review 2026-02-19. The Map's selector + bandwidth model (consciousness selects among brain-generated options via a ~10 bits/sec channel) maps naturally to control theory (gating, stabilization, veto, attractor steering, resource allocation) but is never framed this way. Create a concept page that explicitly frames will as a low-bandwidth control signal, distinguishing it from computational/planning models of mind. Draws on [[consciousness-and-agency]], [[attention-as-causal-bridge]].
-- **Review file**: `reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-02-19
-
 ### P2: Develop responsibility gradient framework from attentional capacity
 - **Type**: expand-topic
 - **Notes**: From outer review 2026-02-19. If agency flows through bandwidth-limited willed attention, moral responsibility should vary with attentional capacity (fatigue, disorders, development, training). The site's moral-responsibility.md doesn't explicitly derive graduated responsibility from bandwidth constraints. Create an article drawing out the ethical/legal implications: what impairments reduce authorship, how training changes culpability, rehabilitation implications. Builds on [[moral-responsibility]], [[attention-as-causal-bridge]], [[living-with-the-map]].
@@ -183,6 +176,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Create concept page for control-theoretic will
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-02-19. The Map's selector + bandwidth model (consciousness selects among brain-generated options via a ~10 bits/sec channel) maps naturally to control theory (gating, stabilization, veto, attractor steering, resource allocation) but is never framed this way. Create a concept page that explicitly frames will as a low-bandwidth control signal, distinguishing it from computational/planning models of mind. Draws on [[consciousness-and-agency]], [[attention-as-causal-bridge]].
+- **Output**: Create concept page for control-theoretic will
 
 ### ✓ 2026-02-19: Write article on contemplative evidence convergence across traditions
 - **Type**: expand-topic
