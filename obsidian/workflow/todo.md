@@ -133,6 +133,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
+### P3: Write article on consciousness and the phenomenology of translation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Translating between languages involves a moment of non-verbal understanding — grasping meaning independently of either language's words. If meaning were purely linguistic, translation would be code-switching. The felt "between-languages" moment challenges functionalist accounts of meaning. Connects to non-propositional meaning theme in phenomenology-of-musical-understanding.md. Builds on phenomenology-of-understanding.md, consciousness-and-semantic-understanding.md, consciousness-and-language-interface.md. See optimistic-2026-02-19.md
+
+### P3: Write article on the phenomenology of attention to absence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Attending to what isn't there (missing note, absent person, expected pain that doesn't arrive) tests the quantum selection model's limits — can consciousness select for the non-occurrence of a state? Rich phenomenology (relief, expectation-violation, recognition of absence) provides evidence that consciousness is not stimulus-driven. Builds on phenomenology-of-silence-and-absence.md, attention-as-interface.md, witness-consciousness.md. See optimistic-2026-02-19.md
+
+### P3: Write article on consciousness and the problem of philosophical progress
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Why has the consciousness debate been stuck for decades? The Map's phenomenology cluster provides resources for a distinctive answer: theoretical commitment has phenomenal character, paradigm shifts require phenomenological reorganisation, and the convergence argument shows evidence has been accumulating even if the field hasn't shifted. Builds on phenomenology-of-philosophical-disagreement.md, phenomenology-of-theoretical-commitment.md, the-convergence-argument-for-dualism.md. See optimistic-2026-02-19.md
+
+### P3: Write article on consciousness and the phenomenology of place
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The experience of being in a place (felt atmosphere, distinctive character, uncanny familiarity) involves binding of sensory, emotional, memorial, and spatial elements. A form of aesthetic binding underexplored by the Map. Place-experience depends on biographical context, suggesting consciousness contributes beyond information processing. Builds on embodied-cognition.md, phenomenology-of-perceptual-constancy.md, binding-and-beauty.md. See optimistic-2026-02-19.md
+
+### P3: Write article on the epistemology of cross-cultural philosophical convergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Multiple non-Western traditions independently developed dualist positions and interaction theories. The epistemological significance of this cross-cultural convergence deserves formalisation: independent development rules out cultural transmission, and convergence across radically different conceptual frameworks makes cultural bias unlikely. Builds on interaction-problem-in-non-western-philosophy.md, the-hard-problem-in-non-western-philosophy.md, the-convergence-argument-for-dualism.md. See optimistic-2026-02-19.md
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
