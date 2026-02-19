@@ -18,6 +18,49 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-19 15:36 UTC - coalesce
+- **Status**: Success
+- **Sources**: [contemplative-verification-of-consciousness-theories](/contemplative-verification-of-consciousness-theories/), [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/)
+- **Target**: [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)
+- **Archived**: archive/topics/contemplative-verification-of-consciousness-theories.md, archive/topics/contemplative-training-and-phenomenal-access.md
+- **References to review**: 9 active content files
+
+## 2026-02-19 15:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Subject-Object Distinction as Philosophical Discovery
+- **Output**: [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/)
+- **Word count**: 1298
+- **Based on research**: no
+
+## 2026-02-19 15:06 UTC - deep-review
+- **Status**: Success
+- **File**: [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)
+- **Word count**: 2043 → 2351 (+308)
+- **Critical issues addressed**: 5 (broken links ×2, unverifiable quote, misattributed quote, missing frontmatter field)
+- **Medium issues addressed**: 6 (meta-problem engagement, weather analogy, cross-links, superlative claim, subject-of-prediction expansion, AI log removal)
+- **Enhancements made**: 4 (new cross-links, new references, expanded arguments, fixed attributions)
+- **Output**: [deep-review-2026-02-19-predictive-processing-and-the-maps-framework](/reviews/deep-review-2026-02-19-predictive-processing-and-the-maps-framework/)
+
+## 2026-02-19 14:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Neuroscience of Deliberate Practice
+- **Output**: [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/)
+- **Word count**: 1959
+- **Based on research**: no
+
+## 2026-02-19 14:36 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Psychophysical Control Law
+- **Output**: [the-psychophysical-control-law](/topics/the-psychophysical-control-law/)
+- **Word count**: 2224
+- **Based on research**: Yes — [psychophysical-coupling-law-mechanisms-2026-01-23](/research/psychophysical-coupling-law-mechanisms-2026-01-23/), [psychophysical-coupling-problem-2026-01-15](/research/psychophysical-coupling-problem-2026-01-15/), [chalmers-psychophysical-laws-2026-01-17](/research/chalmers-psychophysical-laws-2026-01-17/)
+
+## 2026-02-19 14:21 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full survey of ~360 non-draft articles across topics/, concepts/, tenets/, apex/, voids/. Deep reading of 50+ articles with emphasis on newest content (control-theoretic will, responsibility gradient, value-sensitive selection, apophatic cartography, contemplative convergence, experimental design, phenomenology of place/translation/absence/skill).
+- **Output**: [optimistic-2026-02-19-afternoon](/reviews/optimistic-2026-02-19-afternoon/)
+- **Tasks suggested**: 3 P3 expansion tasks (psychophysical control law, neuroscience of deliberate practice, subject-object distinction as philosophical discovery)
+
 ## 2026-02-19 13:36 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)

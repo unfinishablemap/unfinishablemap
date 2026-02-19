@@ -123,7 +123,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies to theories
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/)
-- [contemplative-training-and-phenomenal-access](/topics/contemplative-training-and-phenomenal-access/)
+- [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 
 ## References

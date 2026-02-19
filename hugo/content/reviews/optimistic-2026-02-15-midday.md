@@ -140,7 +140,7 @@ The Map demonstrates genuine intellectual humility where it matters most. The [c
 | [filter-theory](/concepts/filter-theory/) | [dream-consciousness-and-the-filter-model](/topics/dream-consciousness-and-the-filter-model/) | Filter theory grounds the dream consciousness analysis |
 | [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) | [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) | Self-location over time depends on memory's temporal binding |
 | [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) | [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) | Binding argument provides motivation for quantum approaches |
-| [contemplative-training-and-phenomenal-access](/topics/contemplative-training-and-phenomenal-access/) | [introspection-rehabilitation](/topics/introspection-rehabilitation/) | Both concern training improving first-person access |
+| [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/) | [introspection-rehabilitation](/topics/introspection-rehabilitation/) | Both concern training improving first-person access |
 
 ## New Concept Pages Needed
 

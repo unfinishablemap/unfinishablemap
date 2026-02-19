@@ -35,6 +35,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-11
 last_curated:
 last_deep_review: 2026-02-15T14:55:00+00:00
+archived: true
+archived_date: 2026-02-19T15:36:00+00:00
+superseded_by: "/topics/contemplative-evidence-for-consciousness-theories/"
+archive_reason: "Coalesced into Contemplative Evidence for Consciousness Theories"
+original_path: "/topics/contemplative-training-and-phenomenal-access/"
 ---
 
 Meditation training does not merely calm the mind. It progressively expands what aspects of consciousness become accessible to observation. Untrained introspection accesses a narrow band of phenomenal life—surface-level thoughts, gross emotions, broad sensory impressions. Sustained contemplative practice discloses structures that were always present but invisible: the micro-temporal dynamics of attention, the constructed nature of the self, the distinction between awareness and its contents, and the qualitative character of states that untrained observation cannot reach. The Unfinishable Map holds that this progressive disclosure provides evidence about the nature of consciousness itself.

@@ -93,7 +93,7 @@ Deep review of phenomenal transparency reveals a compound problem: our perceptio
 Contemplative practice progressively discloses structures of experience invisible to untrained introspection—from temporal microstructure to witness consciousness. Neural imaging confirms what meditators report.
 
 **Type**: new-article  
-**Link**: [contemplative-training-and-phenomenal-access](/topics/contemplative-training-and-phenomenal-access/)
+**Link**: [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/)
 
 ---
 

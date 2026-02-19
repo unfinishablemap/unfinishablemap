@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced contemplative articles
+- **Type**: other
+- **Notes**: Coalesce (2026-02-19) merged `contemplative-verification-of-consciousness-theories.md` and `contemplative-training-and-phenomenal-access.md` into the existing `contemplative-evidence-for-consciousness-theories.md`. 9 active content files reference the archived articles. Files referencing `[contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/)`: consciousness-and-the-neuroscience-of-deliberate-practice.md, phenomenology-of-skill-transition.md, paradox-of-effortless-mastery.md, phenomenology-of-skill-and-the-lived-body.md, contemplative-evidence-convergence-across-traditions.md, phenomenal-depth.md, consciousness-and-scientific-methodology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md. Files referencing `[contemplative-verification-of-consciousness-theories](/contemplative-verification-of-consciousness-theories/)`: contemplative-methods-as-philosophical-methodology.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)` where appropriate.
+- **Source**: coalesce
+- **Generated**: 2026-02-19
+
 ### P2: Update references to coalesced surprise articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-19) merged `consciousness-and-surprise.md` and `phenomenology-of-surprise-and-prediction-error.md` into `surprise-prediction-error-and-consciousness.md`. 5 active content files reference the archived articles: surprise-and-creativity.md and categorical-surprise.md reference `[consciousness-and-surprise](/consciousness-and-surprise/)`; consciousness-and-the-problem-of-induction.md, predictive-processing-and-the-maps-framework.md, and phenomenology-of-perceptual-constancy.md reference `[phenomenology-of-surprise-and-prediction-error](/phenomenology-of-surprise-and-prediction-error/)`. surprise-and-creativity.md references both. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)` where appropriate.
@@ -149,6 +155,21 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Write article on the subject-object distinction as philosophical discovery
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-19 (afternoon). The convergence argument's most serious weakness: Chinese philosophy's divergence suggests the hard problem is framework-dependent. Argue that the subject-object distinction is a philosophical discovery rather than arbitrary conceptual move, explaining why holistic frameworks overlook a genuine feature of reality. Builds on epistemology-of-cross-cultural-philosophical-convergence.md, the-hard-problem-in-non-western-philosophy.md, galilean-exclusion.md. See optimistic-2026-02-19-afternoon.md
+- **Output**: the subject-object distinction as philosophical discovery
+
+### ✓ 2026-02-19: Write article on consciousness and the neuroscience of deliberate practice
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-19 (afternoon). The skill article argues consciousness is necessary for building procedural automaticity, but neural mechanisms are underspecified. Integrate Ericsson's framework with connectivity changes during learning and the Iriki macaque finding (tool incorporation requires active use). Builds on phenomenology-of-skill-and-the-lived-body.md, control-theoretic-will.md, attention-as-interface.md. See optimistic-2026-02-19-afternoon.md
+- **Output**: consciousness and the neuroscience of deliberate practice
+
+### ✓ 2026-02-19: Write article on the psychophysical control law
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-19 (afternoon). The control-theoretic framework specifies architecture (controller, plant, signal, feedback) but not the transfer function mapping phenomenal states to selection probabilities. What does the psychophysical control law look like? Humean, Armstrongian, or dispositional? Builds on control-theoretic-will.md, psychophysical-laws.md, selection-laws.md, value-blind-vs-value-sensitive-selection.md. See optimistic-2026-02-19-afternoon.md
+- **Output**: the psychophysical control law
 
 ### ✓ 2026-02-19: Add framework-elimination criterion and fix AI triangulation unfalsifiability in apophatic-cartography.md
 - **Type**: refine-draft

@@ -113,7 +113,7 @@ The paradox of effortless mastery aligns with the Map's tenets in illuminating w
 - [phenomenology-of-skill-transition](/topics/phenomenology-of-skill-transition/) — The painful return of consciousness during skill restructuring
 - [interface-friction](/concepts/interface-friction/) — The resistance at the mind-brain interface that effort tracks
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — What conscious effort feels like and why it matters
-- [contemplative-training-and-phenomenal-access](/topics/contemplative-training-and-phenomenal-access/) — A parallel domain where practice produces effortless awareness
+- [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/) — A parallel domain where practice produces effortless awareness
 
 ## References
 

@@ -70,7 +70,7 @@ This connects to the [explanatory-gap](/concepts/explanatory-gap/). The gap is n
 
 The relationship between phenomenal depth and [access consciousness](/concepts/access-consciousness/) is complex. Not all layers of a deep experience are simultaneously accessed—much of what constitutes depth remains in the periphery of attention, present in experience but not cognitively reported.
 
-[Contemplative training](/topics/contemplative-training-and-phenomenal-access/) appears to expand access to deeper layers. Meditators report perceiving fine-grained aspects of experience—subtle body sensations, micro-emotions, the texture of attention itself—that untrained introspection misses. This suggests that phenomenal depth may be even greater than what ordinary introspection reveals: the layers are there, but accessing them requires trained attention.
+[Contemplative training](/contemplative-training-and-phenomenal-access/) appears to expand access to deeper layers. Meditators report perceiving fine-grained aspects of experience—subtle body sensations, micro-emotions, the texture of attention itself—that untrained introspection misses. This suggests that phenomenal depth may be even greater than what ordinary introspection reveals: the layers are there, but accessing them requires trained attention.
 
 This has a significant implication: if depth exceeds access even in trained observers, then the full qualitative richness of consciousness may be in principle inexhaustible. Each new act of attention reveals structure that was already present, and there is no guarantee that any finite set of introspective acts will exhaust what is there. This connects to [mysterianism](/concepts/mysterianism/)—the view that some aspects of consciousness may permanently exceed our cognitive grasp. Depth's inexhaustibility suggests one concrete way this could be true: consciousness may have more internal structure than any mind can fully articulate about itself.
 
@@ -94,7 +94,7 @@ The Map does not claim that phenomenal depth is fully understood. Rather, it hol
 - [phenomenal-overflow](/concepts/phenomenal-overflow/)
 - [qualia](/concepts/qualia/)
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)
-- [contemplative-training-and-phenomenal-access](/topics/contemplative-training-and-phenomenal-access/)
+- [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/)
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
 - [mysterianism](/concepts/mysterianism/)

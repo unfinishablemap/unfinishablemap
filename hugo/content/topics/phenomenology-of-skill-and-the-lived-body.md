@@ -147,7 +147,7 @@ The strongest physicalist counterargument is that executive attention networks, 
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — The 4E framework and the interface reading
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Perception as mastery of sensorimotor laws
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The cognitive dimension of effortful learning
-- [contemplative-training-and-phenomenal-access](/topics/contemplative-training-and-phenomenal-access/) — Meditation as a parallel case of trained skill
+- [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/) — Meditation as a parallel case of trained skill
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt difference between authored and discovered action
 

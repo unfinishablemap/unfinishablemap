@@ -98,7 +98,7 @@ This directly addresses confabulation. Much confabulation occurs because subject
 
 Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) provides the framework that addresses the calibration problem. Trained first-person reports are combined with third-person neural measurement, allowing each to constrain the other.
 
-The strongest evidence comes from [contemplative research on progressive disclosure](/topics/contemplative-training-and-phenomenal-access/). Trained meditators describe specific phenomenal progressions—the jhāna states, for example—and 7-Tesla fMRI confirms distinct neural signatures for each described state. If trained introspection were merely producing more elaborate confabulations, reports should diverge from neural measurement as training introduces systematic bias. Instead, they converge. Cross-modal confirmation provides the independent check that pure introspection lacks.
+The strongest evidence comes from [contemplative research on progressive disclosure](/contemplative-training-and-phenomenal-access/). Trained meditators describe specific phenomenal progressions—the jhāna states, for example—and 7-Tesla fMRI confirms distinct neural signatures for each described state. If trained introspection were merely producing more elaborate confabulations, reports should diverge from neural measurement as training introduces systematic bias. Instead, they converge. Cross-modal confirmation provides the independent check that pure introspection lacks.
 
 ### Critical Phenomenology
 
@@ -139,7 +139,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains 
 ## Further Reading
 
 - [introspection](/concepts/introspection/) — Comprehensive treatment of the reliability debate
-- [contemplative-training-and-phenomenal-access](/topics/contemplative-training-and-phenomenal-access/) — How training expands phenomenal access
+- [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/) — How training expands phenomenal access
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Epistemological grounding for first-person data
 - [introspective-opacity](/voids/introspective-opacity/) — The structural limits that rehabilitation cannot overcome
 - [neurophenomenology](/concepts/neurophenomenology/) — The framework integrating first-person and third-person methods

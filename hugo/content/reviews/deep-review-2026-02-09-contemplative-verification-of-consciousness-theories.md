@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-09
-**Article**: [Contemplative Verification of Consciousness Theories](/topics/contemplative-verification-of-consciousness-theories/)
+**Article**: [Contemplative Verification of Consciousness Theories](/contemplative-verification-of-consciousness-theories/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-15
-**Article**: [Contemplative Training and Phenomenal Access](/topics/contemplative-training-and-phenomenal-access/)
+**Article**: [Contemplative Training and Phenomenal Access](/contemplative-training-and-phenomenal-access/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
