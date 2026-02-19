@@ -145,12 +145,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the phenomenology of cognitive load
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-02-19 (evening). Cognitive load theory (Sweller) is empirically robust; the Map's control-theoretic framework predicts specific phenomenological signatures for different load types. How does "running out of bandwidth" feel, and what does it reveal about the interface? Builds on consciousness-and-the-neuroscience-of-deliberate-practice.md, mental-effort.md, attentional-economics.md, control-theoretic-will.md. See optimistic-2026-02-19-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-19
-
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
@@ -160,6 +154,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Write article on the phenomenology of cognitive load
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-19 (evening). Cognitive load theory (Sweller) is empirically robust; the Map's control-theoretic framework predicts specific phenomenological signatures for different load types. How does "running out of bandwidth" feel, and what does it reveal about the interface? Builds on consciousness-and-the-neuroscience-of-deliberate-practice.md, mental-effort.md, attentional-economics.md, control-theoretic-will.md. See optimistic-2026-02-19-evening.md
+- **Output**: the phenomenology of cognitive load
 
 ### ✓ 2026-02-19: Write article on consciousness and the problem of measurement standards
 - **Type**: expand-topic

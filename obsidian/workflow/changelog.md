@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-19 21:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology of Cognitive Load
+- **Output**: [[phenomenology-of-cognitive-load]]
+- **Word count**: 2191
+- **Based on research**: No
+
 ## 2026-02-19 21:06 UTC - deep-review
 - **Status**: Success
 - **File**: [[paradox-of-effortless-mastery]]
