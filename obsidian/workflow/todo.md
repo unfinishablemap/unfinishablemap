@@ -145,12 +145,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the psychophysical control law
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-02-19 (evening). The control-theoretic framework specifies architecture but not the transfer function mapping phenomenal states to selection probabilities. What form does it take — Humean, Armstrongian, or dispositional? Builds on control-theoretic-will.md, psychophysical-laws.md, selection-laws.md, value-blind-vs-value-sensitive-selection.md. See optimistic-2026-02-19-evening.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-19
-
 ### P3: Write article on consciousness and the problem of measurement standards
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-02-19 (evening). Science requires measurement standards (units, instruments, calibration). For phenomenal quantities, no analogous standards exist — this is a philosophical consequence of irreducibility, not merely a practical gap. Builds on first-person-third-person-methodology.md, the-epistemology-of-phenomenal-reports-in-science.md, consciousness-and-scientific-methodology.md. See optimistic-2026-02-19-evening.md
@@ -172,6 +166,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Write article on the psychophysical control law
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-19 (evening). The control-theoretic framework specifies architecture but not the transfer function mapping phenomenal states to selection probabilities. What form does it take — Humean, Armstrongian, or dispositional? Builds on control-theoretic-will.md, psychophysical-laws.md, selection-laws.md, value-blind-vs-value-sensitive-selection.md. See optimistic-2026-02-19-evening.md
+- **Output**: the psychophysical control law
 
 ### ✓ 2026-02-19: Strengthen Bayesian independence claims and vitalism disanalogy in the-convergence-argument-for-dualism.md
 - **Type**: refine-draft
