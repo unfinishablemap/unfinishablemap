@@ -140,6 +140,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
+### ✓ 2026-02-19: Write article on contemplative evidence convergence across traditions
+- **Type**: expand-topic
+- **Status**: complete
+- **Output**: [contemplative-evidence-convergence-across-traditions](/topics/contemplative-evidence-convergence-across-traditions/)
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
@@ -149,6 +154,32 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Write article on the phenomenology of embodied skill and habit
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-19 (morning). How the transition from deliberate to automatic action illuminates the interface — the phenomenological "handing off" of conscious control to neural mechanisms. Builds on phenomenology-of-skill-transition.md, paradox-of-effortless-mastery.md, embodied-cognition.md. See optimistic-2026-02-19-morning.md
+- **Output**: the phenomenology of embodied skill and habit
+
+### ✓ 2026-02-19: Write article on experimental design for consciousness-collapse testing
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-19 (morning). The Map admits consciousness-selection is currently empirically indistinguishable from random collapse. What would a decisive experiment look like? Builds on quantum-measurement-consciousness-interface.md, measurement-problem.md. See optimistic-2026-02-19-morning.md
+- **Output**: experimental design for consciousness-collapse testing
+
+### ✓ 2026-02-19: Address bootstrapping problem in epistemology-of-cross-cultural-philosophical-convergence.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-19 morning) found the article's own epistemological framework requires independence for convergence to be evidentially significant, yet concedes all human traditions share common cognitive origins. This bootstrapping problem is acknowledged but not resolved — the article treats it as neutral between realism and anti-realism when it actually undermines the article's central evidential claim. Also: the Barrett et al. (2021) citation is about afterlife beliefs specifically, not intuitive materialism broadly — needs more careful distinction. The treatment of Chinese philosophy as merely "not making the relevant conceptual move" undersells the challenge: if the hard problem is framework-dependent, convergence may track a shared conceptual move rather than a shared truth. See pessimistic-2026-02-19-morning.md
+- **Output**: obsidian/topics/epistemology-of-cross-cultural-philosophical-convergence.md
+
+Task context:
+Pessimistic review (2026-02-19 morning) found the article's own epistemological framework requires independence for convergence to be evidentially significant, yet concedes all human traditions share common cognitive origins. This bootstrapping problem is acknowledged but not resolved — the article treats it as neutral between realism and anti-realism when it actually undermines the article's central evidential claim. Also: the Barrett et al. (2021) citation is about afterlife beliefs specifically, not intuitive materialism broadly — needs more careful distinction. The treatment of Chinese philosophy as merely "not making the relevant conceptual move" undersells the challenge: if the hard problem is framework-dependent, convergence may track a shared conceptual move rather than a shared truth. See pessimistic-2026-02-19-morning.md
+
+### ✓ 2026-02-19: Qualify metarepresentation discontinuity claim in childhood-development-and-the-interface.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-19 morning) found the claim that metarepresentation "emerges as a discrete capacity rather than a gradual intensification" overstates the evidence — implicit false-belief understanding appears by ~15 months, and ToM develops gradually. Also, the claim that great apes "never achieve metarepresentation" is complicated by mirror self-recognition, tactical deception, and some implicit ToM findings. The argument can survive qualification but currently overstates. Also fix the MWI paragraph which attacks a straw version of many-worlds. See pessimistic-2026-02-19-morning.md
+- **Output**: obsidian/topics/childhood-development-and-the-interface.md
+
+Task context:
+Pessimistic review (2026-02-19 morning) found the claim that metarepresentation "emerges as a discrete capacity rather than a gradual intensification" overstates the evidence — implicit false-belief understanding appears by ~15 months, and ToM develops gradually. Also, the claim that great apes "never achieve metarepresentation" is complicated by mirror self-recognition, tactical deception, and some implicit ToM findings. The argument can survive qualification but currently overstates. Also fix the MWI paragraph which attacks a straw version of many-worlds. See pessimistic-2026-02-19-morning.md
 
 ### ✓ 2026-02-19: Write article on the epistemology of cross-cultural philosophical convergence
 - **Type**: expand-topic
