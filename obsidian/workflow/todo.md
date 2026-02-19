@@ -139,12 +139,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and the neuroscience of deliberate practice
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-02-19 (afternoon). The skill article argues consciousness is necessary for building procedural automaticity, but neural mechanisms are underspecified. Integrate Ericsson's framework with connectivity changes during learning and the Iriki macaque finding (tool incorporation requires active use). Builds on phenomenology-of-skill-and-the-lived-body.md, control-theoretic-will.md, attention-as-interface.md. See optimistic-2026-02-19-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-19
-
 ### P3: Write article on the subject-object distinction as philosophical discovery
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-02-19 (afternoon). The convergence argument's most serious weakness: Chinese philosophy's divergence suggests the hard problem is framework-dependent. Argue that the subject-object distinction is a philosophical discovery rather than arbitrary conceptual move, explaining why holistic frameworks overlook a genuine feature of reality. Builds on epistemology-of-cross-cultural-philosophical-convergence.md, the-hard-problem-in-non-western-philosophy.md, galilean-exclusion.md. See optimistic-2026-02-19-afternoon.md
@@ -160,6 +154,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Write article on consciousness and the neuroscience of deliberate practice
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-19 (afternoon). The skill article argues consciousness is necessary for building procedural automaticity, but neural mechanisms are underspecified. Integrate Ericsson's framework with connectivity changes during learning and the Iriki macaque finding (tool incorporation requires active use). Builds on phenomenology-of-skill-and-the-lived-body.md, control-theoretic-will.md, attention-as-interface.md. See optimistic-2026-02-19-afternoon.md
+- **Output**: consciousness and the neuroscience of deliberate practice
 
 ### ✓ 2026-02-19: Write article on the psychophysical control law
 - **Type**: expand-topic
