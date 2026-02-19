@@ -6,6 +6,11 @@ modified: 2026-02-15
 human_modified:
 ai_modified: 2026-02-15T06:50:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-19T03:34:00+00:00
+superseded_by: "/topics/surprise-prediction-error-and-consciousness/"
+archive_reason: "Coalesced into Surprise, Prediction Error, and Consciousness"
+original_path: "/topics/phenomenology-of-surprise-and-prediction-error/"
 topics:
   - "[[consciousness-and-surprise]]"
   - "[[phenomenology-of-belief-revision]]"
