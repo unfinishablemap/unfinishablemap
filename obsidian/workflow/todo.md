@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Formalize apophatic cartography as a general epistemic method
-- **Type**: expand-topic
-- **Notes**: From outer review 2026-02-19. The voids framework treats structured cognitive failure as cartographic data, but isn't yet packaged as a general methodology with rules of evidence. Create a methods article: how to distinguish confusion from genuine boundary, how to use convergent failure modes across observers, how to integrate phenomenology with cognitive science, how to prevent void-exploration from becoming unfalsifiable mystique. The methodological punchline: systematic failure modes are among the strongest evidence sources at the explanatory frontier. Builds on [[voids]].
-- **Review file**: `reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-02-19
-
 ### P2: Update references to coalesced surprise articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-19) merged `consciousness-and-surprise.md` and `phenomenology-of-surprise-and-prediction-error.md` into `surprise-prediction-error-and-consciousness.md`. 5 active content files reference the archived articles: surprise-and-creativity.md and categorical-surprise.md reference `[[consciousness-and-surprise]]`; consciousness-and-the-problem-of-induction.md, predictive-processing-and-the-maps-framework.md, and phenomenology-of-perceptual-constancy.md reference `[[phenomenology-of-surprise-and-prediction-error]]`. surprise-and-creativity.md references both. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[surprise-prediction-error-and-consciousness]]` where appropriate.
@@ -155,6 +148,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Formalize apophatic cartography as a general epistemic method
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-02-19. The voids framework treats structured cognitive failure as cartographic data, but isn't yet packaged as a general methodology with rules of evidence. Create a methods article: how to distinguish confusion from genuine boundary, how to use convergent failure modes across observers, how to integrate phenomenology with cognitive science, how to prevent void-exploration from becoming unfalsifiable mystique. The methodological punchline: systematic failure modes are among the strongest evidence sources at the explanatory frontier. Builds on [[voids]].
+- **Output**: Formalize apophatic cartography as a general epistemic method
 
 ### ✓ 2026-02-19: Address value-blind vs value-sensitive selection fork
 - **Type**: expand-topic
