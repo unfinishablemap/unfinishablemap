@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-19 19:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/contemplative-evidence-for-consciousness-theories]]
+- **Changes**: Added non-reductive physicalism to evidential structure (fixing false trichotomy); added dedicated section on dualism vs NRP; rewrote cessation argument acknowledging physicalist alternative; added falsifiability condition for dualism vs NRP; updated opening summary and description
+- **Based on**: pessimistic review 2026-02-19 evening
+- **Published**: yes
+
 ## 2026-02-19 18:51 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: contemplative-evidence-for-consciousness-theories.md, the-convergence-argument-for-dualism.md
