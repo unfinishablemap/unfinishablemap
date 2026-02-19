@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-15 14:50:00+00:00
+ai_modified: 2026-02-18 22:16:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,15 +11,16 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[mind-brain-separation]]'
 - '[[brain-interface-boundary]]'
+- '[[mysterianism]]'
 created: 2026-02-15
-date: &id001 2026-02-15
+date: &id001 2026-02-18
 description: Perception depends on lawful patterns between movement and sensation.
   These sensorimotor contingencies map the interface through which consciousness engages
   the physical world.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-18 22:16:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -27,12 +28,13 @@ related_articles:
 - '[[embodied-cognition-extended-mind-2026-01-14]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[choking-phenomenon-mental-causation]]'
+- '[[predictive-processing-and-the-maps-framework]]'
 title: Sensorimotor Contingencies and the Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Perception is not the passive reception of sensory data. It is the mastery of lawful patterns linking movement to sensation — what O'Regan and Noë call *sensorimotor contingencies*. When you run your fingers across a textured surface, the tactile sensation changes in structured ways as your hand moves. When you shift your gaze, the visual field transforms according to precise geometric laws. Perceiving is knowing — practically, bodily — how these transformations work. The Unfinishable Map argues that sensorimotor contingencies do not explain consciousness but reveal the structure of the interface through which consciousness engages the physical world.
+Perception is the mastery of lawful patterns linking movement to sensation — what O'Regan and Noë call *sensorimotor contingencies*. When you run your fingers across a textured surface, the tactile sensation changes in structured ways as your hand moves. When you shift your gaze, the visual field transforms according to precise geometric laws. Perceiving is knowing — practically, bodily — how these transformations work. The Unfinishable Map argues that sensorimotor contingencies do not explain consciousness but reveal the structure of the interface through which consciousness engages the physical world.
 
 This article extends the Map's [general treatment of embodied cognition and the interface](/topics/embodied-consciousness-and-the-interface/) by examining the specific phenomenological and empirical details that sensorimotor contingency theory provides. Where the general treatment argues that embodiment reveals the interface rather than eliminating the soul, this article traces *how* the interface operates at the level of bodily engagement.
 
@@ -40,17 +42,15 @@ This article extends the Map's [general treatment of embodied cognition and the 
 
 O'Regan and Noë's sensorimotor contingency theory (2001) makes a radical proposal: the qualitative character of perceptual experience is constituted by the perceiver's practical knowledge of sensorimotor contingencies. The redness of red is not an intrinsic property of a brain state. It is mastery of the specific patterns governing how red-related sensory stimulation varies with movement — how red surfaces behave under changing illumination, how they appear at different angles, how eye movements affect the retinal image.
 
-This theory identifies three levels of contingency:
+O'Regan and Noë identify two main levels of contingency:
 
-**Apparatus-dependent contingencies** arise from the structure of sensory organs. The eye has a high-resolution fovea and a low-resolution periphery; moving the eyes produces predictable changes in detail. The ear processes sound binaurally; turning the head shifts the interaural time difference. These contingencies are shared across all visual or auditory experiences.
+**Apparatus-dependent contingencies** arise from the structure of sensory organs. The eye has a high-resolution fovea and a low-resolution periphery; moving the eyes produces predictable changes in detail. The ear processes sound binaurally; turning the head shifts the interaural time difference. These contingencies are shared across all visual or auditory experiences — and they also explain why different sensory modalities feel different. Seeing differs from hearing not because visual cortex has a special "visual feel" but because the apparatus-dependent laws governing vision (geometric projection) differ fundamentally from those governing audition (wave propagation and binaural processing).
 
 **Object-dependent contingencies** arise from the properties of perceived objects. A sphere produces different sensorimotor patterns than a cube — moving around a sphere yields continuous change, while a cube produces sudden edge transitions. Recognising an object is partly mastering how it behaves under exploration.
 
-**Medium-dependent contingencies** distinguish modalities. Why does seeing differ from hearing? Not because visual cortex has a special "visual feel" but because the sensorimotor laws governing vision differ fundamentally from those governing audition. Vision involves geometric projection laws; audition involves wave propagation and binaural processing.
-
 ## Merleau-Ponty's Body-Subject
 
-Sensorimotor contingency theory has deep roots in Merleau-Ponty's phenomenology of the *corps propre* — the body-subject. Merleau-Ponty distinguished the body as experienced from within (*Leib*) from the body as observed from without (*Körper*). The body-subject is neither a physical object among objects nor a disembodied mind directing a mechanism. It is the medium of engagement with the world, experienced as a field of capacities — what Merleau-Ponty called the "I can" that precedes the "I think."
+Sensorimotor contingency theory has deep roots in Merleau-Ponty's phenomenology of the *corps propre* — the body-subject. Building on Husserl's distinction between the body as experienced from within (*Leib*) and the body as observed from without (*Körper*), Merleau-Ponty argued that the body-subject is neither a physical object among objects nor a disembodied mind directing a mechanism. It is the medium of engagement with the world, experienced as a field of capacities — what Merleau-Ponty called the "I can" that precedes the "I think."
 
 The body schema illustrates this. An experienced driver does not represent the car's dimensions explicitly; the car's boundaries become part of the driver's felt sense of spatial capacity. A blind person's cane is not a perceived object but an extension of tactile reach. Tool incorporation — the body schema expanding to encompass instruments — reveals that the interface between consciousness and world is not fixed at the skin. It is plastic, extending and contracting with skill and equipment.
 
@@ -66,7 +66,7 @@ This is remarkable on any account. On a materialist reading, the brain's plastic
 
 A fair assessment must note that sensory substitution data is *compatible with* the interface reading, not uniquely predicted by it. The neural plasticity account and the interface account make the same empirical predictions about what subjects will experience. The Map prefers the interface reading because it answers a question the plasticity account leaves open — why reorganised neural activity is accompanied by spatial *experience* rather than just spatial *processing* — but this preference is philosophical, not empirically forced.
 
-Bach-y-Rita himself noted that subjects "do not experience the images on their back, but out in front of them." The phenomenology tracks the sensorimotor contingencies, not the receptor surface. The experience moves to where the interface points, not where the stimulation occurs. This is what the Map would predict if consciousness engages the world *through* the interface rather than being *produced by* the sensory apparatus.
+Bach-y-Rita's research consistently found that trained subjects experience objects as located in external space, not as patterns of vibration on their skin. The phenomenology tracks the sensorimotor contingencies, not the receptor surface. The experience moves to where the interface points, not where the stimulation occurs. This is what the Map would predict if consciousness engages the world *through* the interface rather than being *produced by* the sensory apparatus.
 
 Cochlear implants tell a similar story. Recipients initially hear electronic noise. Over months, the noise resolves into speech and music. The sensorimotor contingencies governing the cochlear implant differ radically from those governing the intact cochlea — cruder frequency resolution, different temporal dynamics. Yet consciousness adapts, achieving auditory engagement through a degraded but functional interface.
 
@@ -102,7 +102,7 @@ Ramachandran's mirror box therapy demonstrates that visual feedback can modulate
 
 On a production model of consciousness, phantom limbs are straightforward neural misfire — the cortical map of the missing limb continues generating signals. Treatment works by providing corrective input to that map. On the interface model, something subtler is occurring: the interface retains structure corresponding to the missing limb because the body schema is not a neural map *of* the body but the interface's *grammar for engaging through* the body. Mirror therapy works by providing the interface with sensorimotor contingencies consistent with a functioning limb — restoring grammatical coherence to a disrupted interface.
 
-The distinction matters because it predicts different things about the interface's limits. If phantoms are merely neural misfires, the interface is where the neurons are. If phantoms reflect the interface's own structure, the interface may have properties not fully determined by current neural configuration — it has a history, a habitual orientation, a grammar that was learned and persists beyond the physical structure it was learned through.
+Both readings accommodate the basic phenomenon, but they frame it differently. On the neural misfire account, the phantom is straightforwardly where the cortical map is — and treatment works by correcting that map. On the interface reading, the phantom reveals that the interface retains a grammar learned through the limb that persists beyond the limb's physical existence. The interface has history and habitual orientation not fully determined by current neural configuration. This framing does not generate unique empirical predictions beyond what the cortical account predicts, but it offers a philosophical interpretation that connects phantom persistence to the broader question of whether the body schema is identical to neural representation or whether it reflects something irreducible about embodied consciousness.
 
 ## Relation to Site Perspective
 
@@ -111,6 +111,8 @@ The distinction matters because it predicts different things about the interface
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Sensorimotor contingencies are inherently bidirectional. Perception requires action; action is guided by perception. The perceiver is not a passive recipient but an active explorer. The Map interprets this bidirectionality as reflecting the interface's fundamental character: consciousness acts on the body (directing exploration), and the body constrains consciousness (sensorimotor laws determine what exploration reveals). The interface does not transmit in one direction. It mediates ongoing mutual influence.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Sensorimotor contingency theory locates the interface at the level of whole-body engagement rather than individual neurons. This does not conflict with quantum interaction but specifies the context within which it operates. [Attention](/concepts/attention-as-interface/) selects which sensorimotor contingencies to exercise — where to look, what to explore, which contingencies to activate. If attention operates through some form of quantum-level influence on neural processes — a possibility that remains speculative — sensorimotor contingencies describe the *macro-level structure* within which such selection would produce its effects. The interface has both a grammatical structure (sensorimotor contingencies) and a physical implementation (neural substrates where selection occurs). The Map's core argument here does not depend on any particular physical mechanism for how consciousness influences the brain.
+
+**[No Many Worlds](/tenets/#no-many-worlds)**: Sensorimotor engagement achieves definite outcomes. A hand exploring an object follows one trajectory, revealing one texture, one shape — not all possible explorations simultaneously. If the attention that directs sensorimotor exploration operates through quantum selection, collapse rather than branching produces the determinate bodily engagement that sensorimotor contingency theory describes.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The apparent parsimony of sensorimotor contingency theory — it explains qualitative character without invoking anything beyond bodily engagement — dissolves when the hard problem is taken seriously. Merleau-Ponty himself rejected reductive materialism as firmly as he rejected Cartesian dualism. The phenomenological tradition that grounds sensorimotor theory treats first-person experience as irreducible data, not as an illusion to be explained away. Reducing perceptual experience to sensorimotor mastery only appears simple if one ignores the question of why mastery feels like anything.
 
@@ -123,6 +125,8 @@ The distinction matters because it predicts different things about the interface
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — The body-subject's limits as a window into consciousness
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why brains specifically serve as interfaces
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Bidirectional evidence from skilled performance breakdown
+- [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/) — How sensorimotor contingencies relate to prediction error and precision weighting
+- [mysterianism](/concepts/mysterianism/) — Cognitive closure and why the interface's grammar may be all we can map
 
 ## References
 
@@ -133,15 +137,3 @@ The distinction matters because it predicts different things about the interface
 - Noë, A. (2009). *Out of Our Heads: Why You Are Not Your Brain*. Hill and Wang.
 - O'Regan, J. K., & Noë, A. (2001). A sensorimotor account of vision and visual consciousness. *Behavioral and Brain Sciences*, 24(5), 939-973.
 - Ramachandran, V. S., & Rogers-Ramachandran, D. (1996). Synaesthesia in phantom limbs induced with mirrors. *Proceedings of the Royal Society of London B*, 263(1369), 377-386.
-
-<!-- AI REFINEMENT LOG - 2026-02-15
-Changes made:
-- Fixed "grammatees" typo to "grammars" in The Interface's Grammar section
-- Softened quantum mechanism language: removed specific "ion channels or microtubules" reference, replaced with speculative framing per writing style guide's Subjects Requiring Restraint section. Added note that core argument doesn't depend on particular physical mechanism.
-- Added paragraph in sensory substitution section acknowledging neural plasticity explains the same data — interface reading is compatible with but not uniquely predicted by the evidence. The Map's preference is philosophical, not empirically forced.
-- Added explicit acknowledgment of tension with enactivism in Dualism tenet section: O'Regan/Noë reject the interface concept; the Map disagrees with their ontological conclusion while accepting their phenomenological descriptions.
-
-Based on pessimistic review (pessimistic-2026-02-15-late.md), Issues 2, 4, 5, and Counterargument 1.
-
-This log should be removed after human review.
--->

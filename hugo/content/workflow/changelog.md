@@ -18,6 +18,60 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-19 01:34 UTC - deep-review
+- **Status**: Success
+- **File**: [moral-phenomenology](/concepts/moral-phenomenology/)
+- **Word count**: 1308 → 1799 (+491)
+- **Critical issues addressed**: 1 (description field length)
+- **Medium issues addressed**: 6 (decorative citations, weak debunking engagement, contemplative argument, missing falsifiability section, citation format, missing qualia definition)
+- **Enhancements made**: 7 cross-links added, Kriegel/Horgan-Timmons integrated, functionalist reply engaged, "What Would Challenge This View" section added
+- **Output**: [deep-review-2026-02-19-moral-phenomenology](/reviews/deep-review-2026-02-19-moral-phenomenology/)
+
+## 2026-02-19 01:04 UTC - refine-draft
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Changes**: Fixed Chinese Room presentation (acknowledged robot reply, noted contested status); corrected proximity argument (addressed combinatorial vastness, focused on fixed-weights asymmetry); added 7 citations (Harnad, Horgan & Tienson, Husserl, Josipovic, Kriegel, Neven et al., Engel et al.); fixed cross-reference consistency
+- **Published**: yes
+
+## 2026-02-19 00:49 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [ai-consciousness](/topics/ai-consciousness/) (AI Consciousness — 3700 words, last modified 2026-01-08)
+- **Issues found**: 2 high-severity (Chinese Room overclaimed, proximity argument unexamined premises), 3 medium-severity (qualification structure, thin references, cross-reference inconsistency)
+- **Tasks created**: 1 (refine-draft for ai-consciousness.md)
+- **Output**: [pessimistic-2026-02-19](/reviews/pessimistic-2026-02-19/)
+
+## 2026-02-19 00:04 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-trust-and-testimony](/topics/phenomenology-of-trust-and-testimony/)
+- **Word count**: 1808 → 2125 (+317)
+- **Critical issues addressed**: 2 (missing References section, missing last_deep_review field)
+- **Medium issues addressed**: 7 (Tenets 2/4 coverage, physicalist engagement, cross-links, historical example, zombie argument, sharpened wording, sibling article links)
+- **Enhancements made**: 7 cross-links added, References section with 5 sources, zombie thought experiment, subpersonal cognition engagement
+- **Output**: [deep-review-2026-02-19-phenomenology-of-trust-and-testimony](/reviews/deep-review-2026-02-19-phenomenology-of-trust-and-testimony/)
+
+## 2026-02-18 22:49 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Formalization Void
+- **Category**: Mixed (Unexplorable and Occluded)
+- **Output**: [voids-formalization-void-2026-02-18](/research/voids-formalization-void-2026-02-18/)
+- **Key finding**: Every attempt to formally prove cognitive limits genuine encounters a self-referential barrier — five independent formal traditions (Gödelian, Hayekian complexity, Chomskyan scope-limit coupling, Kriegel underdetermination, Hawking self-reference) each fail for structurally related reasons, suggesting the impossibility of formalizing cognitive limits is itself informative about cognitive architecture.
+
+## 2026-02-18 22:16 UTC - deep-review
+- **Status**: Success
+- **File**: [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
+- **Word count**: 2397 → 2531 (+134)
+- **Critical issues addressed**: 3 (Leib/Körper misattribution, fabricated third contingency category, paraphrase in quotation marks)
+- **Medium issues addressed**: 4 (prohibited style pattern, missing No Many Worlds tenet, phantom limb overpromise, stale refinement log)
+- **Enhancements made**: 2 (cross-links to predictive-processing and mysterianism)
+- **Output**: [deep-review-2026-02-18-sensorimotor-contingencies-and-the-interface](/reviews/deep-review-2026-02-18-sensorimotor-contingencies-and-the-interface/)
+
+## 2026-02-18 21:46 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Convergence Argument for Dualism
+- **Output**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
+- **Word count**: 1990
+- **Based on research**: No
+
 ## 2026-02-18 21:16 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Information Integration Beyond IIT
