@@ -133,11 +133,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and the problem of philosophical progress
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Why has the consciousness debate been stuck for decades? The Map's phenomenology cluster provides resources for a distinctive answer: theoretical commitment has phenomenal character, paradigm shifts require phenomenological reorganisation, and the convergence argument shows evidence has been accumulating even if the field hasn't shifted. Builds on phenomenology-of-philosophical-disagreement.md, phenomenology-of-theoretical-commitment.md, the-convergence-argument-for-dualism.md. See optimistic-2026-02-19.md
-
 ### P3: Write article on consciousness and the phenomenology of place
 - **Type**: expand-topic
 - **Status**: pending
@@ -157,6 +152,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Write article on consciousness and the problem of philosophical progress
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Why has the consciousness debate been stuck for decades? The Map's phenomenology cluster provides resources for a distinctive answer: theoretical commitment has phenomenal character, paradigm shifts require phenomenological reorganisation, and the convergence argument shows evidence has been accumulating even if the field hasn't shifted. Builds on phenomenology-of-philosophical-disagreement.md, phenomenology-of-theoretical-commitment.md, the-convergence-argument-for-dualism.md. See optimistic-2026-02-19.md
+- **Output**: consciousness and the problem of philosophical progress
 
 ### ✓ 2026-02-19: Write article on the phenomenology of attention to absence
 - **Type**: expand-topic
