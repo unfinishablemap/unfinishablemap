@@ -2,9 +2,10 @@
 title: "Consciousness and Temporal Asymmetry"
 description: "Physics provides time's asymmetry, but consciousness constitutes time's felt direction. The phenomenological arrow—experienced flow from open future to settled past—requires more than physics alone."
 created: 2026-02-15
-modified: 2026-02-15
+modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-15T03:10:00+00:00
+ai_modified: 2026-02-19T10:21:00+00:00
+last_deep_review: 2026-02-19T10:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,12 +14,12 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[philosophy-of-time]]"
   - "[[collapse-and-time]]"
-  - "[[duration]]"
-  - "[[autonoetic-consciousness]]"
+  - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[qualia]]"
   - "[[phenomenology]]"
-  - "[[retrocausality]]"
   - "[[process-philosophy]]"
+  - "[[prehension]]"
+  - "[[protention]]"
 related_articles:
   - "[[tenets]]"
   - "[[temporal-structure-of-consciousness]]"
@@ -28,6 +29,8 @@ related_articles:
   - "[[time-collapse-and-agency]]"
   - "[[non-temporal-consciousness]]"
   - "[[growing-block-universe-and-consciousness]]"
+  - "[[phenomenology-of-anticipation]]"
+  - "[[phenomenology-of-memory-and-the-self]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -43,7 +46,7 @@ Fundamental physics provides no arrow. The laws of motion, electromagnetism, and
 
 **The thermodynamic arrow.** Entropy increases toward the future. Eggs break but don't unbreak. The standard explanation traces this to a low-entropy initial condition — the Big Bang — rather than to the laws themselves. But this pushes the question back: why those initial conditions?
 
-**The causal arrow.** Causes precede effects. We can influence the future but not the past. Huw Price argues that this asymmetry may be perspectival — an artifact of our temporal orientation rather than an objective feature of physics. If so, conscious agents don't merely observe causal asymmetry; they may be partly responsible for it.
+**The causal arrow.** Causes precede effects. We can influence the future but not the past. Huw Price argues that this asymmetry is perspectival — an anthropocentric projection arising from our nature as deliberating agents rather than an objective feature of physics. The Map draws a different lesson: if agents' temporal orientation shapes how causation appears, consciousness may play a constitutive role in temporal asymmetry more broadly.
 
 **The epistemic arrow.** We know the past through traces and can only predict the future. The past leaves records — fossils, memories, light from distant stars. The future leaves nothing. This asymmetry grounds the [[temporal-asymmetry-remembering-anticipating|felt difference between remembering and anticipating]].
 
@@ -59,7 +62,7 @@ The block universe of relativity reinforces the point. If past, present, and fut
 
 Three responses dominate the literature:
 
-**The deflationary response** claims that felt temporal flow is an illusion — a cognitive artifact of how brains process sequential states. Daniel Dennett and others argue that the "moving present" is a fiction created by memory mechanisms that tag events with temporal order. The arrow is epistemic, not ontological.
+**The deflationary response** claims that felt temporal flow requires no special explanation beyond what physics and neuroscience already provide. Daniel Dennett and others argue that the "moving present" is a pattern in brain activity: memory mechanisms tag events with temporal order, producing a functional sense of passage. On this view, temporal flow is real as a functional state — not an illusion, exactly, but not something requiring non-physical constitution either. The arrow is epistemic and computational, not ontological.
 
 **The A-theoretic response** insists that temporal becoming is real and that physics is incomplete without it. The [[growing-block-universe-and-consciousness|growing block theory]] (C.D. Broad) holds that the past and present are real but the future is not yet. The block grows as new events become actual. This preserves genuine becoming but must explain what drives the growth.
 
@@ -75,23 +78,25 @@ Why does causal participation in collapse amount to constituting the phenomenolo
 
 This distinction resolves the prebiotic collapse problem. Before conscious beings, collapse still occurred and physical asymmetry still obtained. But there was no phenomenological arrow — no experienced becoming, no felt passage, no qualitative distinction between past and future. The physical arrow is necessary but not sufficient for the phenomenological one. Consciousness adds something that physical description cannot capture: the *what-it-is-like* of temporal direction.
 
-Bergson's concept of [[duration|durée]] captures this phenomenological side. Lived time is not a sequence of static instants but a qualitative flow where the past permeates the present and the present reaches toward the future. This interpenetration — each moment coloured by what preceded it and what it anticipates — is what it is like to participate in irreversible becoming from within. Duration is not a representation of physical time; it is the experiential dimension that physical time lacks.
+An important qualification: if consciousness can exist in modes that lack temporal flow — as contemplative traditions report and the Map's [[non-temporal-consciousness]] article explores — then the constitutive claim applies to temporally structured consciousness specifically, not consciousness as such. The phenomenological arrow is constituted by consciousness *in its temporal mode*, which is the default mode of embodied, collapse-participating minds. Non-temporal awareness, if it exists, would lack a phenomenological arrow — not because it lacks consciousness but because it has exited the temporal structure that collapse participation produces.
+
+Bergson's concept of durée captures this phenomenological side. Lived time is not a sequence of static instants but a qualitative flow where the past permeates the present and the present reaches toward the future. This interpenetration — each moment coloured by what preceded it and what it anticipates — is what it is like to participate in irreversible becoming from within. Duration is not a representation of physical time; it is the experiential dimension that physical time lacks.
 
 ## The Felt Asymmetry
 
 Consciousness doesn't merely register that time passes. It experiences a structured asymmetry between temporal directions with specific phenomenal characteristics.
 
-**The settledness of the past.** Remembered events feel *actual* — they happened, and this happening has a distinctive phenomenal quality. Tulving's [[autonoetic-consciousness]] describes this as self-knowing awareness: when remembering, you know yourself as having been present. The past's settledness isn't inferred from evidence but immediately given in the texture of memory.
+**The settledness of the past.** Remembered events feel *actual* — they happened, and this happening has a distinctive phenomenal quality. Tulving's [[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]] describes this as self-knowing awareness: when remembering, you know yourself as having been present. On the Map's reading, this suggests that the past's settledness isn't inferred from evidence but immediately given in the texture of memory.
 
-**The openness of the future.** Anticipated events feel *possible* rather than actual. Even highly confident predictions lack the settledness of memory. You know you will eat breakfast tomorrow, but this knowledge has a modal character — it could fail to obtain — that yesterday's breakfast lacks. The future's openness is phenomenally available, not merely believed.
+**The openness of the future.** Anticipated events feel *possible* rather than actual. Even highly confident predictions lack the settledness of memory. You know you will eat breakfast tomorrow, but this knowledge has a modal character — it could fail to obtain — that yesterday's breakfast lacks. The future's openness is phenomenally available, not merely believed. (The [[phenomenology-of-anticipation]] explores this forward-directed temporal structure in detail.)
 
-**The irreversibility of the present.** The moment of experience cannot be held or reversed. Each present becomes past as soon as it is grasped. Husserl's retention-protention structure captures this: the just-past echoes in awareness (retention) while the about-to-arrive is anticipated (protention), but the primal impression — the strictly present — is already sliding into pastness. This irreversibility is experienced, not deduced.
+**The irreversibility of the present.** The moment of experience cannot be held or reversed. Each present becomes past as soon as it is grasped. Husserl's retention-[[protention]] structure captures this: the just-past echoes in awareness (retention) while the about-to-arrive is anticipated ([[protention|protention]]), but the primal impression — the strictly present — is already sliding into pastness. This irreversibility is experienced, not deduced.
 
-**The emotional asymmetry.** We care differently about past and future events. Research on "temporal bias" shows that people universally prefer good experiences to be in their future and bad ones in their past. This isn't irrational. It reflects the felt openness of the future — we can still influence what hasn't happened — and the settledness of the past. If consciousness constitutes the phenomenological arrow, the emotional bias tracks a genuine metaphysical distinction rather than a cognitive quirk.
+**The emotional asymmetry.** We care differently about past and future events. Research on temporal bias (Greene & Sullivan 2015; Parfit 1984) shows that people universally prefer good experiences to be in their future and bad ones in their past. This isn't irrational. It reflects the felt openness of the future — we can still influence what hasn't happened — and the settledness of the past. If consciousness constitutes the phenomenological arrow, the emotional bias tracks a genuine metaphysical distinction rather than a cognitive quirk.
 
 ## Process Philosophy and Temporal Asymmetry
 
-Whitehead's [[process-philosophy|process metaphysics]] offers a framework where temporal asymmetry is built into the structure of experience. Each "actual occasion" prehends (grasps) its predecessors — inheriting their actuality as settled fact. The past is available for prehension because it has become definite. The future is not prehensible because it hasn't yet achieved definiteness.
+Whitehead's [[process-philosophy|process metaphysics]] offers a framework where temporal asymmetry is built into the structure of experience. Each "actual occasion" [[prehension|prehends]] (grasps) its predecessors — inheriting their actuality as settled fact. The past is available for prehension because it has become definite. The future is not prehensible because it hasn't yet achieved definiteness.
 
 This asymmetry is intrinsic to experience, not imposed from outside. Whitehead's occasions don't exist in a pre-given temporal framework and then experience asymmetry within it. Rather, the succession of occasions — each prehending its predecessors and becoming available for prehension by successors — *is* temporal order. Time is constituted by experiential inheritance, and the directionality follows from the logic of inheritance: you can inherit what exists, not what doesn't yet.
 
@@ -103,7 +108,7 @@ If the phenomenological arrow is partly constituted by consciousness, materialis
 
 This goes beyond the standard hard problem argument, though it includes it. The standard argument says: physical description misses phenomenal character. The temporal argument says: physical description misses the *experienced directionality* that makes time feel like it passes. Physics provides a gradient; consciousness provides the sense of moving along it.
 
-A materialist can respond that conscious experience of flow is merely a cognitive artifact — the brain tracking thermodynamic asymmetry and constructing an illusion of passage. This is a coherent position. But it faces Weyl's challenge: in the block universe, thermodynamic asymmetry doesn't move or flow. It is a static gradient in a static manifold. Something must account for the experience of becoming — of the present moving along the gradient. If that something is consciousness, and if the experience of becoming cannot be reduced to the static physical facts, then the phenomenological arrow is an irreducible contribution of consciousness to reality. Materialism cannot explain it because it falls outside the physical description entirely.
+A materialist can respond in two ways. The stronger version claims temporal flow is an outright illusion — a cognitive artifact the brain constructs from sequential state-tagging. The subtler version grants that temporal flow is real as a functional pattern in neural activity but denies it requires non-physical constitution: the brain tracks thermodynamic asymmetry, and the tracking *just is* the experience of flow. Both responses are coherent. But both face Weyl's challenge: in the block universe, thermodynamic asymmetry doesn't move or flow. It is a static gradient in a static manifold. The functional pattern exists as a physical structure in the block, but nothing in the physical description accounts for the experience of becoming — of the present moving along the gradient. Even granting that "flow" is a real functional state, the question remains: what is it *like* to be that functional state? If the experiential character of temporal passage cannot be reduced to the static physical facts, then the phenomenological arrow is an irreducible contribution of consciousness to reality. The functional realist must either deny that temporal flow has any phenomenal character beyond its functional role — which collapses back into the illusionist position — or grant an explanatory gap that standard materialism cannot close.
 
 ## Relation to Site Perspective
 
@@ -130,6 +135,8 @@ Temporal asymmetry connects to all five [[tenets]]:
 - [[growing-block-universe-and-consciousness]] — The growing block as temporal metaphysics
 - [[collapse-and-time]] — How collapse introduces irreversibility
 - [[duration]] — Bergson's qualitative lived time
+- [[phenomenology-of-anticipation]] — The phenomenological structure of future-directed experience
+- [[phenomenology-of-memory-and-the-self]] — How remembering constitutes the temporally extended self
 - [[philosophy-of-time]] — A-theory, B-theory, and temporal ontology
 
 ## References
@@ -141,19 +148,6 @@ Temporal asymmetry connects to all five [[tenets]]:
 - Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 - Weyl, H. (1949). *Philosophy of Mathematics and Natural Science*. Princeton University Press.
 - Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+- Greene, P. & Sullivan, M. (2015). Against Time Bias. *Ethics*, 125(4), 947-970.
+- Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 - Stanford Encyclopedia of Philosophy. Temporal Consciousness. https://plato.stanford.edu/entries/consciousness-temporal/
-
-<!-- AI REFINEMENT LOG - 2026-02-15
-Changes made:
-- Distinguished physical asymmetry claim from phenomenological constitution claim throughout
-- Added explicit bridging argument for why causal participation in collapse amounts to constitution (not mere causation) of the phenomenological arrow
-- Resolved prebiotic collapse tension: physical arrow exists independently; consciousness constitutes the phenomenological arrow specifically
-- Updated opening summary, constitutive response framing, main argument section, materialism section, and tenet connections for consistency with refined position
-- Aligned emotional asymmetry paragraph and Minimal Quantum Interaction tenet entry with refined claim
-- Updated description to reflect the physical/phenomenological distinction
-
-Based on pessimistic review (2026-02-15) identifying: (1) conflation of causal participation with metaphysical constitution, (2) prebiotic collapse undermining strong constitutive claim.
-Key improvements: Argument is now philosophically precise about what consciousness constitutes (phenomenological arrow) vs what exists independently (physical arrow), with explicit bridging argument for the constitution claim.
-
-This log should be removed after human review.
--->
