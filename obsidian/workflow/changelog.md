@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-19 08:34 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Experimental Design for Consciousness-Collapse Testing
+- **Output**: [[experimental-design-for-consciousness-collapse-testing]]
+- **Word count**: 1767
+- **Based on research**: Yes — drew on [[consciousness-collapse-arrow-of-time-2026-01-14]], [[consciousness-non-collapsed-quantum-states-2026-02-10]], [[measurement-problem-quantum-mechanics-2026-01-14]], [[quantum-consciousness-mechanisms-2026-01-08]]
+
 ## 2026-02-19 08:19 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full survey of non-draft content across topics/ (~103), concepts/ (~173), tenets/, and apex/ (11). Representative deep reading of 40+ articles.

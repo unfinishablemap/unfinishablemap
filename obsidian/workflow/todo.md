@@ -139,11 +139,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on experimental design for consciousness-collapse testing
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-19 (morning). The Map admits consciousness-selection is currently empirically indistinguishable from random collapse. What would a decisive experiment look like? Builds on quantum-measurement-consciousness-interface.md, measurement-problem.md. See optimistic-2026-02-19-morning.md
-
 ### P3: Write article on the phenomenology of embodied skill and habit
 - **Type**: expand-topic
 - **Status**: pending
@@ -163,6 +158,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Write article on experimental design for consciousness-collapse testing
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-19 (morning). The Map admits consciousness-selection is currently empirically indistinguishable from random collapse. What would a decisive experiment look like? Builds on quantum-measurement-consciousness-interface.md, measurement-problem.md. See optimistic-2026-02-19-morning.md
+- **Output**: experimental design for consciousness-collapse testing
 
 ### ✓ 2026-02-19: Address bootstrapping problem in epistemology-of-cross-cultural-philosophical-convergence.md
 - **Type**: refine-draft
