@@ -4,7 +4,7 @@ description: "Does building institutions, making promises, and sharing goals req
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-15T05:15:00+00:00
+ai_modified: 2026-02-19T18:06:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-social-cognition]]"
@@ -16,7 +16,6 @@ concepts:
   - "[[intersubjectivity]]"
   - "[[theory-of-mind]]"
   - "[[metarepresentation]]"
-  - "[[baseline-cognition]]"
 related_articles:
   - "[[tenets]]"
   - "[[intersubjective-void]]"
@@ -27,6 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
+last_deep_review: 2026-02-19T18:06:00+00:00
 ---
 
 When two people carry a heavy table through a doorway, something happens that no solitary action can replicate. Each adjusts grip, pace, and angle in response to the other — not merely reacting to physical forces but coordinating around a shared goal that both understand and both know the other understands. This is collective intentionality: the capacity of multiple minds to share goals, commitments, and representations in ways that generate a form of "aboutness" no individual mind possesses alone. The Unfinishable Map argues that collective intentionality depends on phenomenal consciousness — not because groups are conscious, but because the individual contributions that make collective intentionality possible require subjects who genuinely understand what they are doing together.
@@ -39,7 +39,7 @@ Collective intentionality is not simply multiple individuals happening to intend
 
 John Searle distinguishes "I-intentionality" from "we-intentionality." When a group of musicians plays in an orchestra, each player's intention is not merely "I play my part" but "I play my part *as part of our playing the symphony*." The we-intention is not reducible to a collection of I-intentions plus mutual beliefs about each other's I-intentions. It has a distinctive character: each participant represents the activity as collective from the start.
 
-Michael Bratman analyses shared cooperative activity through three conditions: each participant must intend the joint activity, intend it partly because of the other's similar intention, and be prepared to mesh their individual plans. The meshing requirement is critical — participants must adjust their sub-plans to fit together, which requires representing both the joint goal and the other's approach to it.
+Michael Bratman characterises shared cooperative activity through three features: mutual responsiveness (each participant responds to the other's intentions and actions), commitment to the joint activity, and commitment to mutual support. His formal account requires that each participant intend the joint activity, intend it in accordance with and because of the other's similar intention, and that their sub-plans mesh. The meshing requirement is critical — participants must adjust their sub-plans to fit together, which requires representing both the joint goal and the other's approach to it.
 
 Michael Tomasello traces a developmental sequence in children. Shared intentionality — the capacity for joint goals with complementary roles — emerges around nine months and develops through early childhood. By age three, children understand and enforce social norms that govern joint activities. Tomasello argues this capacity is what distinguishes human cognition from great ape cognition, more than any enhancement in individual reasoning.
 
@@ -49,9 +49,9 @@ Why should collective intentionality require phenomenal consciousness? The argum
 
 ### Understanding, Not Just Tracking
 
-Collective intentionality requires that participants understand the joint activity *as* joint. This is [[metarepresentation|metarepresentational]]: you must represent the shared goal *as* shared, represent the other's commitment *as* a commitment, and represent your own role *as* a role in something larger. The "as" in each case marks where mere information processing becomes genuine understanding.
+Collective intentionality requires that participants understand the joint activity *as* joint. This is metarepresentational — requiring the capacity to represent representations *as* representations (see [[theory-of-mind]]): you must represent the shared goal *as* shared, represent the other's commitment *as* a commitment, and represent your own role *as* a role in something larger. The "as" in each case marks where mere information processing becomes genuine understanding.
 
-Consider what representing a promise involves. When someone promises to help you move house, you do not merely update a probability estimate about their future behaviour. You represent them as having *committed* themselves — as having placed themselves under an obligation they recognise and that you both understand binds them. This representation involves grasping [[intentionality|intentional states]] — beliefs, commitments, obligations — *as* intentional states with normative force.
+Consider what representing a promise involves. When someone promises to help you move house, you do not merely update a probability estimate about their future behaviour. You represent them as having *committed* themselves — as having placed themselves under an obligation they recognise and that you both understand binds them. This representation involves grasping [[intentionality|intentional states]] — beliefs, commitments, obligations — *as* intentional states with normative force. The [[consciousness-and-interpersonal-understanding|interpersonal understanding]] required is not mere behaviour prediction but genuine comprehension of another mind's commitments.
 
 The [[phenomenal-intentionality]] thesis holds that genuine intentionality — the "aboutness" of mental states — derives from phenomenal consciousness. If this is correct, then the metarepresentational demands of collective intentionality inherit the consciousness requirement. You cannot represent another's commitment *as* a commitment unless you have the phenomenal resources to grasp what commitment means.
 
@@ -62,6 +62,8 @@ Collective intentionality generates normativity. When we engage in a joint activ
 This normative structure distinguishes collective intentionality from collective behaviour. Geese flying in V-formation exhibit coordinated behaviour governed by aerodynamic forces and simple rules. No goose violates an obligation by breaking formation; no goose owes an explanation for changing position. The coordination is real but normatively empty.
 
 Human collective intentionality is normatively loaded because participants represent each other as conscious agents with commitments they can honour or violate. Remove consciousness from the picture, and the normative structure collapses into mere behavioural regularity — functional coordination without genuine obligation.
+
+A functionalist might respond that normative responses — resentment, blame, demands for justification — can be fully characterised by their functional roles without invoking phenomenal consciousness. On this view, what matters is the pattern of social response, not whether it is accompanied by experience. The Map's reply: functional accounts of normativity capture the *structure* of obligation while losing its *force*. A system that produces blame-behaviour without anyone experiencing the violation as a betrayal of trust has the form of normative life without its substance. The felt weight of broken commitment — the sense that someone who *understood* what they were doing chose to breach it — is precisely what distinguishes obligation from mere behavioural expectation.
 
 ### The Searle Problem: Can We-Intentionality Be Physical?
 
@@ -95,7 +97,7 @@ Between one and three years, children develop shared intentionality: participati
 
 Great apes show limited evidence of these capacities. They coordinate behaviour — hunting in loose groups, travelling together, sharing some activities. But the recursive mutual awareness that characterises human joint attention, the complementary role structure of shared activities, and the normative enforcement that holds participants accountable all appear diminished or absent.
 
-The developmental trajectory suggests that collective intentionality builds on capacities the Map associates with phenomenal consciousness: [[metarepresentation]], recursive [[theory-of-mind|mindreading]], and normative sensitivity. The nine-month milestone coincides with what developmental researchers describe as the emergence of shared experience — the infant's dawning awareness that others have perspectives that can be aligned with or differ from their own.
+The developmental trajectory suggests that collective intentionality builds on capacities the Map associates with phenomenal consciousness: metarepresentation, recursive [[theory-of-mind|mindreading]], and normative sensitivity. The nine-month milestone coincides with what developmental researchers describe as the emergence of shared experience — the infant's dawning awareness that others have perspectives that can be aligned with or differ from their own.
 
 ## Institutional Reality as a Test Case
 

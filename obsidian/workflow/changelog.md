@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-19 18:06 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-collective-intentionality]]
+- **Word count**: 2156 → 2323 (+167)
+- **Critical issues addressed**: 1 (broken `[[metarepresentation]]` wikilinks)
+- **Medium issues addressed**: 4 (Bratman formulation, functionalist engagement, frontmatter hygiene, cross-link)
+- **Enhancements made**: 3 (functionalist response paragraph, interpersonal understanding cross-link, theory-of-mind link)
+- **Output**: [[reviews/deep-review-2026-02-19-consciousness-and-collective-intentionality]]
+
 ## 2026-02-19 16:51 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Mattering Void
