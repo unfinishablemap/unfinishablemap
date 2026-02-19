@@ -18,6 +18,22 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-19 16:51 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Mattering Void
+- **Category**: Occluded / Unexplorable (Mixed)
+- **Output**: [voids-mattering-void-2026-02-19](/research/voids-mattering-void-2026-02-19/)
+- **Key finding**: Consciousness and significance may be inseparable — mattering is not an overlay on raw experience but constitutive of it, and the mechanism by which things come to matter is structurally invisible to the consciousness it serves
+
+## 2026-02-19 16:21 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-attention/)
+- **Word count**: 1529 → 1927 (+398)
+- **Critical issues addressed**: 3 (Zeno overreliance, missing No Many Worlds tenet, hard problem restatement acknowledged)
+- **Medium issues addressed**: 5 (Varela overstated, Csikszentmihalyi distinguished, Buddhist tension acknowledged, MWI engaged, instructed attention fixed)
+- **Enhancements made**: 8 cross-links added, inline definitions added, Kent & Wittmann integrated, free will connection established
+- **Output**: [deep-review-2026-02-19-phenomenology-of-temporal-attention](/reviews/deep-review-2026-02-19-phenomenology-of-temporal-attention/)
+
 ## 2026-02-19 15:36 UTC - coalesce
 - **Status**: Success
 - **Sources**: [contemplative-verification-of-consciousness-theories](/contemplative-verification-of-consciousness-theories/), [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/)
