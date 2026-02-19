@@ -4,7 +4,7 @@ description: "How the consciousness-brain interface develops through childhood, 
 created: 2026-02-15
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-19T06:04:00+00:00
+ai_modified: 2026-02-19T07:04:00+00:00
 draft: false
 topics:
   - "[[attention-as-selection-interface]]"
@@ -28,7 +28,7 @@ last_curated:
 last_deep_review: 2026-02-19T06:04:00+00:00
 ---
 
-The Unfinishable Map's [[mind-matter-interface|interface model]] treats the brain as a structured surface through which consciousness engages the physical world. But this interface is not delivered whole at birth. It develops — and the developmental trajectory reveals something important about how consciousness and neural architecture shape each other. Critical periods close off perceptual territories permanently. Metarepresentational capacities emerge only after specific neural infrastructure matures. The interface that an infant consciousness works through differs fundamentally from an adult's, and the transition between them is neither smooth nor reversible.
+The Unfinishable Map's [[mind-matter-interface|interface model]] treats the brain as a structured surface through which consciousness engages the physical world. But this interface is not delivered whole at birth. It develops — and the developmental trajectory reveals something important about how consciousness and neural architecture shape each other. Critical periods close off perceptual territories permanently. Metarepresentational capacities emerge only after specific neural infrastructure matures. The interface that an infant consciousness works through differs substantially from an adult's, and the transition between them is neither smooth nor reversible.
 
 ## The Developing Architecture
 
@@ -40,13 +40,13 @@ This reshaping is visible in [[developmental-cognitive-closure|developmental cog
 
 ## When Metarepresentation Comes Online
 
-The most consequential interface development may be the emergence of metarepresentation — the capacity to represent one's own representations as representations. This capacity, which underlies [[teaching-as-metarepresentation|teaching]], [[cumulative-culture|cumulative culture]], and self-reflective thought, does not appear until roughly ages 3-5, coinciding with passage of false-belief tests and the emergence of explicit theory of mind.
+The most consequential interface development may be the emergence of metarepresentation — the capacity to represent one's own representations as representations. This capacity, which underlies [[teaching-as-metarepresentation|teaching]], [[cumulative-culture|cumulative culture]], and self-reflective thought, develops gradually across childhood rather than switching on at a single moment. Implicit false-belief understanding appears as early as 15 months in looking-time studies, while explicit false-belief task passage typically occurs between ages 3-5. The full suite of metarepresentational abilities — including understanding of belief, desire, knowledge, and perspectival difference — continues developing well into middle childhood.
 
-Before metarepresentation, children have consciousness. They experience the world, form preferences, exhibit emotional responses. But they lack the recursive self-awareness that allows consciousness to take its own operations as objects of attention. A two-year-old sees, but does not see that she sees — at least not in the explicit, reportable sense that metarepresentation requires.
+Before explicit metarepresentation, children have consciousness. They experience the world, form preferences, exhibit emotional responses, and show early implicit sensitivity to others' mental states. But they lack the fully recursive self-awareness that allows consciousness to take its own operations as explicit objects of attention. A two-year-old sees, and may implicitly track what others see, but does not yet reflect on her own seeing in the reportable sense that mature metarepresentation requires.
 
-The Map's interface model suggests a straightforward interpretation: metarepresentation depends on neural infrastructure — particularly prefrontal cortex maturation and frontoparietal network integration — that develops on a biological timetable. Consciousness does not gain new fundamental capacities during this period. Rather, the interface through which it operates gains the structural complexity needed to support recursive processing. The hardware enables a new mode of interaction.
+The Map's interface model suggests a straightforward interpretation: metarepresentation depends on neural infrastructure — particularly prefrontal cortex maturation and frontoparietal network integration — that develops on a biological timetable. Consciousness does not gain new fundamental capacities during this period. Rather, the interface through which it operates gains structural complexity in stages, each stage enabling more sophisticated recursive processing. The graded nature of this development — from implicit sensitivity to explicit, reportable understanding — reflects the interface acquiring new structural features progressively rather than all at once.
 
-This explains why great apes, despite sophisticated cognition, never achieve metarepresentation. Their neural architecture provides an interface that supports tool use, social learning, and procedural skills, but lacks the specific structural features — whatever they turn out to be — that enable the recursive loop. The Map's [[baseline-cognition|baseline cognition]] framework suggests that without consciousness-enabled metarepresentation, cognition plateaus near the ape level regardless of brain size or environmental enrichment.
+This framework also illuminates why great apes, despite sophisticated cognition, appear to reach a ceiling on metarepresentational capacity. Great apes demonstrate mirror self-recognition, tactical deception, and some implicit sensitivity to others' knowledge states — capacities that suggest partial access to self-reflective processing. But they do not develop the explicit, recursive metarepresentation that underlies human teaching, cumulative culture, and systematic self-reflection. Their neural architecture provides an interface that supports tool use, social learning, and impressive social cognition, but apparently lacks the specific structural features — whatever they turn out to be — that enable the full recursive loop. The Map's [[baseline-cognition|baseline cognition]] framework suggests that without this mature metarepresentational capacity, cognition plateaus near the ape level regardless of brain size or environmental enrichment.
 
 ## Critical Periods as Interface Closure
 
@@ -76,9 +76,9 @@ The developmental trajectory of the interface illuminates all five of the Map's 
 
 **Minimal quantum interaction** is consistent with the developmental picture. If consciousness influences neural outcomes through quantum selection, then the developing brain's changing architecture would naturally constrain which quantum events are available for selection. Critical period closure would physically alter the interface sites where such selection occurs. The interaction remains minimal at each point; what changes is the landscape of available interactions.
 
-The rejection of **Many Worlds** finds natural support in developmental closure. Under MWI, every developmental trajectory is realised in some branch — every pattern of synaptic pruning, every possible critical period outcome exists somewhere. But the irreversibility that makes critical periods consequential depends on collapse being real. The infant's broader perceptual access is genuinely gone, not merely unactualised in this branch. Developmental closure is permanent loss, and permanent loss requires that alternatives were genuinely excluded rather than shunted into parallel branches.
+The rejection of **Many Worlds** connects to developmental closure, though the argument requires care. An MWI proponent would rightly note that within any branch, developmental closure is experientially real — the infant in this branch genuinely loses foreign phoneme discrimination. The question is whether the explanatory weight of developmental closure is better served by collapse interpretations, where a single definite outcome is selected, or by branching, where all outcomes are realised but experientially separated. The Map holds that the developmental stakes — the fact that critical period closure permanently shapes what consciousness can access — are most naturally understood when alternatives are genuinely excluded from reality, not merely from one observer's experience. This is not a decisive argument against MWI, but developmental irreversibility sits more comfortably within a framework where quantum outcomes are singular rather than universally realised.
 
-The developmental interface also highlights the limits of **Occam's Razor**. A purely materialist account of development — brain matures, cognition improves — seems simpler. But it cannot explain why metarepresentation emerges as a discrete capacity rather than a gradual intensification of existing processing, or why great apes with similar neural resources never achieve it. The dualist account, while less parsimonious, better fits the developmental evidence: consciousness awaits the right interface before certain capacities become possible.
+The developmental interface also highlights the limits of **Occam's Razor**. A purely materialist account of development — brain matures, cognition improves — seems simpler. But it struggles to explain why metarepresentational capacity, despite its graded development, appears to require specific neural prerequisites that no amount of environmental enrichment can substitute for, or why great apes with sophisticated social cognition reach a ceiling that human children surpass. The dualist account, while less parsimonious, offers a framework for understanding these developmental thresholds: consciousness awaits the right interface before certain capacities become possible.
 
 ## Further Reading
 
@@ -101,3 +101,20 @@ The developmental interface also highlights the limits of **Occam's Razor**. A p
 - Huttenlocher, P. R., & Dabholkar, A. S. (1997). Regional differences in synaptogenesis in human cerebral cortex. *Journal of Comparative Neurology*, 387(2), 167-178.
 - Hensch, T. K. (2005). Critical period plasticity in local cortical circuits. *Nature Reviews Neuroscience*, 6(11), 877-888.
 - Wellman, H. M., Cross, D., & Watson, J. (2001). Meta-analysis of theory-of-mind development: The truth about false belief. *Child Development*, 72(3), 655-684.
+- Onishi, K. H., & Baillargeon, R. (2005). Do 15-month-old infants understand false beliefs? *Science*, 308(5719), 255-258.
+- Call, J., & Tomasello, M. (2008). Does the chimpanzee have a theory of mind? 30 years later. *Trends in Cognitive Sciences*, 12(5), 187-192.
+
+<!-- AI REFINEMENT LOG - 2026-02-19
+Changes made:
+- Qualified metarepresentation emergence: acknowledged graded ToM development (implicit false-belief from ~15 months) rather than presenting it as discrete switch at 3-5 years
+- Qualified great ape claim: acknowledged mirror self-recognition, tactical deception, and implicit ToM findings rather than blanket "never achieve metarepresentation"
+- Rewrote MWI paragraph: engaged with branch-relative loss rather than attacking straw version; acknowledged MWI proponent would note experiential reality of closure within branches
+- Fixed Occam's Razor paragraph to match qualified metarepresentation framing
+- Changed "differs fundamentally" to "differs substantially" (differences are of degree, not kind)
+- Added references: Onishi & Baillargeon 2005 (implicit false beliefs), Call & Tomasello 2008 (ape ToM)
+
+Based on pessimistic review pessimistic-2026-02-19-morning.md.
+Key improvements: Epistemic accuracy — claims now match the evidence rather than overstating for argumentative convenience.
+
+This log should be removed after human review.
+-->

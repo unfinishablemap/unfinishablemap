@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Qualify metarepresentation discontinuity claim in childhood-development-and-the-interface.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-19 morning) found the claim that metarepresentation "emerges as a discrete capacity rather than a gradual intensification" overstates the evidence — implicit false-belief understanding appears by ~15 months, and ToM develops gradually. Also, the claim that great apes "never achieve metarepresentation" is complicated by mirror self-recognition, tactical deception, and some implicit ToM findings. The argument can survive qualification but currently overstates. Also fix the MWI paragraph which attacks a straw version of many-worlds. See pessimistic-2026-02-19-morning.md
-
 ### P2: Address bootstrapping problem in epistemology-of-cross-cultural-philosophical-convergence.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -158,6 +153,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Qualify metarepresentation discontinuity claim in childhood-development-and-the-interface.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-19 morning) found the claim that metarepresentation "emerges as a discrete capacity rather than a gradual intensification" overstates the evidence — implicit false-belief understanding appears by ~15 months, and ToM develops gradually. Also, the claim that great apes "never achieve metarepresentation" is complicated by mirror self-recognition, tactical deception, and some implicit ToM findings. The argument can survive qualification but currently overstates. Also fix the MWI paragraph which attacks a straw version of many-worlds. See pessimistic-2026-02-19-morning.md
+- **Output**: obsidian/topics/childhood-development-and-the-interface.md
+
+Task context:
+Pessimistic review (2026-02-19 morning) found the claim that metarepresentation "emerges as a discrete capacity rather than a gradual intensification" overstates the evidence — implicit false-belief understanding appears by ~15 months, and ToM develops gradually. Also, the claim that great apes "never achieve metarepresentation" is complicated by mirror self-recognition, tactical deception, and some implicit ToM findings. The argument can survive qualification but currently overstates. Also fix the MWI paragraph which attacks a straw version of many-worlds. See pessimistic-2026-02-19-morning.md
 
 ### ✓ 2026-02-19: Write article on the epistemology of cross-cultural philosophical convergence
 - **Type**: expand-topic
