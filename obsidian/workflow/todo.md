@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced skill articles
+- **Type**: other
+- **Notes**: Coalesce (2026-02-19) merged `phenomenology-of-skill-and-the-lived-body.md`, `paradox-of-effortless-mastery.md`, and `phenomenology-of-skill-transition.md` into `consciousness-and-skilled-performance.md`. 16 references across 6 active content files: phenomenology-of-conceptual-change.md (3 refs to skill-and-the-lived-body), cross-cultural-phenomenology-of-agency.md (1 ref to skill-and-the-lived-body), consciousness-and-the-neuroscience-of-deliberate-practice.md (5 refs to all three), phenomenology-of-flow-states.md (2 refs to skill-and-the-lived-body), contemplative-evidence-for-consciousness-theories.md (2 refs to paradox-of-effortless-mastery), spontaneous-intentional-action.md (2 refs to paradox-of-effortless-mastery). Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[consciousness-and-skilled-performance]]` where appropriate.
+- **Source**: coalesce
+- **Generated**: 2026-02-19
+
 ### P2: Update references to coalesced contemplative articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-19) merged `contemplative-verification-of-consciousness-theories.md` and `contemplative-training-and-phenomenal-access.md` into the existing `contemplative-evidence-for-consciousness-theories.md`. 9 active content files reference the archived articles. Files referencing `[[contemplative-training-and-phenomenal-access]]`: consciousness-and-the-neuroscience-of-deliberate-practice.md, phenomenology-of-skill-transition.md, paradox-of-effortless-mastery.md, phenomenology-of-skill-and-the-lived-body.md, contemplative-evidence-convergence-across-traditions.md, phenomenal-depth.md, consciousness-and-scientific-methodology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md. Files referencing `[[contemplative-verification-of-consciousness-theories]]`: contemplative-methods-as-philosophical-methodology.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[contemplative-evidence-for-consciousness-theories]]` where appropriate.

@@ -6,6 +6,11 @@ modified: 2026-02-15
 human_modified:
 ai_modified: 2026-02-19T21:06:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-19T21:36:00+00:00
+superseded_by: "/topics/consciousness-and-skilled-performance/"
+archive_reason: "Coalesced into Consciousness and Skilled Performance"
+original_path: "/topics/paradox-of-effortless-mastery/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"

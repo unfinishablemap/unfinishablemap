@@ -6,6 +6,11 @@ modified: 2026-02-19
 human_modified:
 ai_modified: 2026-02-19T09:34:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-19T21:36:00+00:00
+superseded_by: "/topics/consciousness-and-skilled-performance/"
+archive_reason: "Coalesced into Consciousness and Skilled Performance"
+original_path: "/topics/phenomenology-of-skill-and-the-lived-body/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
