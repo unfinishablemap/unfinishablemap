@@ -18,6 +18,89 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-19 13:36 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)
+- **Word count**: 1869 → 2479 (+610)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 8
+- **Enhancements made**: 8
+- **Output**: [deep-review-2026-02-19-consciousness-and-interpersonal-understanding](/reviews/deep-review-2026-02-19-consciousness-and-interpersonal-understanding/)
+
+## 2026-02-19 13:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [apophatic-cartography](/voids/apophatic-cartography/)
+- **Changes**: Added Criterion 4 (framework independence) to block pseudoscience validation; made AI triangulation falsifiable by distinguishing solving from failing differently; qualified cross-tradition convergence claims; applied language improvements
+- **Published**: yes
+
+## 2026-02-19 12:51 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: voids/apophatic-cartography.md, topics/value-blind-vs-value-sensitive-selection.md
+- **Issues found**: 6 (3 high, 3 medium) — criteria would validate astrology, AI triangulation unfalsifiable, testability hooks don't distinguish from physicalism, forced fork undermined by middle path, cross-tradition convergence overstated, Stapp model overused
+- **Tasks created**: 2
+- **Output**: [pessimistic-2026-02-19-afternoon](/reviews/pessimistic-2026-02-19-afternoon/)
+
+## 2026-02-19 12:06 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-normative-authority](/topics/consciousness-and-normative-authority/)
+- **Word count**: 1524 → 1981 (+457)
+- **Critical issues addressed**: 3 (prohibited LLM pattern in opening, missing References section, incomplete tenet coverage)
+- **Medium issues addressed**: 5 (Kant straw-man, question-begging acknowledgment, epistemic circularity, missing cross-links ×2)
+- **Enhancements made**: 5 (cross-links added, all tenets covered, References section, error-correction account, coherence-argument framing)
+- **Output**: [deep-review-2026-02-19-consciousness-and-normative-authority](/reviews/deep-review-2026-02-19-consciousness-and-normative-authority/)
+
+## 2026-02-19 11:06 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Apophatic cartography as epistemic method
+- **Output**: [apophatic-cartography](/voids/apophatic-cartography/)
+- **Word count**: 2005
+- **Based on research**: No (builds on existing voids articles: apophatic-approaches, topology-of-cognitive-failure)
+
+## 2026-02-19 10:51 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Grounding Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-grounding-void-2026-02-19](/research/voids-grounding-void-2026-02-19/)
+- **Key finding**: Consciousness cannot access its own foundations — the Münchhausen trilemma, Wittgenstein's turning spade, Heidegger's Abgrund, Nagarjuna's emptiness, and Sellars' myth of the given all converge on the same structural impossibility from radically different traditions
+
+## 2026-02-19 10:36 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Value-blind vs value-sensitive selection
+- **Output**: [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/)
+- **Word count**: 2304
+- **Based on research**: No (synthesised from existing Map content and outer review inference #7)
+
+## 2026-02-19 10:21 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-asymmetry/)
+- **Word count**: 2334 → 2619 (+285)
+- **Critical issues addressed**: 3 (broken concept links, phantom frontmatter concept)
+- **Medium issues addressed**: 6 (Price/Tulving attribution, deflationary response, non-temporal consciousness tension, temporal bias citation, cross-links)
+- **Enhancements made**: 5 (functional realism engagement, qualification paragraph, inline cross-links, Further Reading entries, removed stale refinement log)
+- **Output**: [deep-review-2026-02-19-consciousness-and-temporal-asymmetry](/reviews/deep-review-2026-02-19-consciousness-and-temporal-asymmetry/)
+
+## 2026-02-19 10:06 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Responsibility Gradient: From Attentional Capacity to Moral Desert
+- **Output**: [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/)
+- **Word count**: 2227
+- **Based on research**: No (synthesised from existing Map concepts: attentional-economics, moral-responsibility, control-theoretic-will, consciousness-and-moral-agency-under-duress)
+
+## 2026-02-19 09:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Control-Theoretic Will
+- **Output**: [control-theoretic-will](/concepts/control-theoretic-will/)
+- **Word count**: 1807
+- **Based on research**: No (synthesised from existing Map concepts; originated from outer review inference)
+
+## 2026-02-19 12:15 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.2 Pro (OpenAI)
+- **File**: [outer-review-2026-02-19-site-chatgpt-5-2-pro](/reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro/)
+- **Claims verified**: 5 (all site characterizations accurate; no external sources cited)
+- **High-value findings**: 5 (control-theoretic will, responsibility gradient, value-blind/sensitive fork, substrate criteria, apophatic cartography)
+- **Tasks generated**: 5 (P2: 4, P3: 1)
+
 ## 2026-02-19 09:34 UTC - coalesce
 - **Status**: Success
 - **Sources**: [phenomenology-of-habit-and-skill-acquisition](/phenomenology-of-habit-and-skill-acquisition/), [phenomenology-of-embodied-skill-and-habit](/phenomenology-of-embodied-skill-and-habit/)

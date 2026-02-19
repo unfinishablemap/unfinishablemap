@@ -150,6 +150,39 @@ Tasks that failed 3+ times and require human intervention.
 Ideas that were considered and rejected. The AI will not re-propose these.
 
 
+### ✓ 2026-02-19: Add framework-elimination criterion and fix AI triangulation unfalsifiability in apophatic-cartography.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-19 afternoon) found two high-severity issues: (1) The three criteria (structured persistence, cross-observer convergence, signature specificity) would validate pseudoscientific claims like astrology — need an additional criterion requiring failure to resist elimination of the motivating framework. (2) AI triangulation is unfalsifiable as stated — both AI convergence and divergence confirm the framework. Need to specify that AI successfully *solving* the problem (not just failing differently) would count against a void claim. See pessimistic-2026-02-19-afternoon.md
+- **Output**: obsidian/voids/apophatic-cartography.md
+
+Task context:
+Pessimistic review (2026-02-19 afternoon) found two high-severity issues: (1) The three criteria (structured persistence, cross-observer convergence, signature specificity) would validate pseudoscientific claims like astrology — need an additional criterion requiring failure to resist elimination of the motivating framework. (2) AI triangulation is unfalsifiable as stated — both AI convergence and divergence confirm the framework. Need to specify that AI successfully *solving* the problem (not just failing differently) would count against a void claim. See pessimistic-2026-02-19-afternoon.md
+
+### ✓ 2026-02-19: Formalize apophatic cartography as a general epistemic method
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-02-19. The voids framework treats structured cognitive failure as cartographic data, but isn't yet packaged as a general methodology with rules of evidence. Create a methods article: how to distinguish confusion from genuine boundary, how to use convergent failure modes across observers, how to integrate phenomenology with cognitive science, how to prevent void-exploration from becoming unfalsifiable mystique. The methodological punchline: systematic failure modes are among the strongest evidence sources at the explanatory frontier. Builds on [voids](/voids/).
+- **Output**: Formalize apophatic cartography as a general epistemic method
+
+### ✓ 2026-02-19: Address value-blind vs value-sensitive selection fork
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-02-19. The combination of "value resides in experience" (living-with-the-map) and "consciousness selects outcomes" (tenets) forces an unaddressed fork: is selection value-blind (attention as neutral pointer, making value epiphenomenal to selection) or value-sensitive (valence influences which outcomes get selected, implying local teleological physics)? Create a page that states this fork explicitly, maps consequences of each horn, and proposes how each would show up in testability hooks. Builds on [living-with-the-map](/apex/living-with-the-map/), [consciousness-and-agency](/apex/consciousness-and-agency/), [tenets](/tenets/).
+- **Output**: Address value-blind vs value-sensitive selection fork
+
+### ✓ 2026-02-19: Address value-blind vs value-sensitive selection fork
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-02-19. Created article stating the fork explicitly, mapping consequences of each horn, and proposing testability hooks.
+- **Output**: [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/)
+
+### ✓ 2026-02-19: Develop responsibility gradient framework from attentional capacity
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-02-19. If agency flows through bandwidth-limited willed attention, moral responsibility should vary with attentional capacity (fatigue, disorders, development, training). The site's moral-responsibility.md doesn't explicitly derive graduated responsibility from bandwidth constraints. Create an article drawing out the ethical/legal implications: what impairments reduce authorship, how training changes culpability, rehabilitation implications. Builds on [moral-responsibility](/concepts/moral-responsibility/), [attention-as-causal-bridge](/apex/attention-as-causal-bridge/), [living-with-the-map](/apex/living-with-the-map/).
+- **Output**: Develop responsibility gradient framework from attentional capacity
+
+### ✓ 2026-02-19: Create concept page for control-theoretic will
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-02-19. The Map's selector + bandwidth model (consciousness selects among brain-generated options via a ~10 bits/sec channel) maps naturally to control theory (gating, stabilization, veto, attractor steering, resource allocation) but is never framed this way. Create a concept page that explicitly frames will as a low-bandwidth control signal, distinguishing it from computational/planning models of mind. Draws on [consciousness-and-agency](/apex/consciousness-and-agency/), [attention-as-causal-bridge](/apex/attention-as-causal-bridge/).
+- **Output**: Create concept page for control-theoretic will
+
 ### ✓ 2026-02-19: Write article on contemplative evidence convergence across traditions
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-02-19 (morning). Which contemplative findings are genuinely cross-cultural (dissolution of narrative self: robust; pure awareness: contested) versus tradition-specific? Systematic assessment. Builds on contemplative-verification-of-consciousness-theories.md, contemplative-methods-as-philosophical-methodology.md. See optimistic-2026-02-19-morning.md
