@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add framework-elimination criterion and fix AI triangulation unfalsifiability in apophatic-cartography.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-19 afternoon) found two high-severity issues: (1) The three criteria (structured persistence, cross-observer convergence, signature specificity) would validate pseudoscientific claims like astrology — need an additional criterion requiring failure to resist elimination of the motivating framework. (2) AI triangulation is unfalsifiable as stated — both AI convergence and divergence confirm the framework. Need to specify that AI successfully *solving* the problem (not just failing differently) would count against a void claim. See pessimistic-2026-02-19-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-19
-
-### P2: Acknowledge testability hooks don't distinguish dualism from physicalism in value-blind-vs-value-sensitive-selection.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-19 afternoon) found all testability hooks reduce to standard cognitive psychology predictions — "valenced content shows selection advantage" is already established in attention research. None test specifically dualist selection. Also: the "forced fork" framing is undermined by the article's own middle path (valence modulates attention), and Stapp's model is used to structure a core argument despite the writing style guide's restraint guidance. See pessimistic-2026-02-19-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-19
-
 ### P2: Update references to coalesced surprise articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-19) merged `consciousness-and-surprise.md` and `phenomenology-of-surprise-and-prediction-error.md` into `surprise-prediction-error-and-consciousness.md`. 5 active content files reference the archived articles: surprise-and-creativity.md and categorical-surprise.md reference `[[consciousness-and-surprise]]`; consciousness-and-the-problem-of-induction.md, predictive-processing-and-the-maps-framework.md, and phenomenology-of-perceptual-constancy.md reference `[[phenomenology-of-surprise-and-prediction-error]]`. surprise-and-creativity.md references both. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[surprise-prediction-error-and-consciousness]]` where appropriate.
@@ -160,6 +148,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Add framework-elimination criterion and fix AI triangulation unfalsifiability in apophatic-cartography.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-19 afternoon) found two high-severity issues: (1) The three criteria (structured persistence, cross-observer convergence, signature specificity) would validate pseudoscientific claims like astrology — need an additional criterion requiring failure to resist elimination of the motivating framework. (2) AI triangulation is unfalsifiable as stated — both AI convergence and divergence confirm the framework. Need to specify that AI successfully *solving* the problem (not just failing differently) would count against a void claim. See pessimistic-2026-02-19-afternoon.md
+- **Output**: obsidian/voids/apophatic-cartography.md
+
+Task context:
+Pessimistic review (2026-02-19 afternoon) found two high-severity issues: (1) The three criteria (structured persistence, cross-observer convergence, signature specificity) would validate pseudoscientific claims like astrology — need an additional criterion requiring failure to resist elimination of the motivating framework. (2) AI triangulation is unfalsifiable as stated — both AI convergence and divergence confirm the framework. Need to specify that AI successfully *solving* the problem (not just failing differently) would count against a void claim. See pessimistic-2026-02-19-afternoon.md
 
 ### ✓ 2026-02-19: Formalize apophatic cartography as a general epistemic method
 - **Type**: expand-topic
