@@ -139,11 +139,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the phenomenology of embodied skill and habit
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-19 (morning). How the transition from deliberate to automatic action illuminates the interface — the phenomenological "handing off" of conscious control to neural mechanisms. Builds on phenomenology-of-skill-transition.md, paradox-of-effortless-mastery.md, embodied-cognition.md. See optimistic-2026-02-19-morning.md
-
 ### P3: Write article on contemplative evidence convergence across traditions
 - **Type**: expand-topic
 - **Status**: pending
@@ -158,6 +153,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Write article on the phenomenology of embodied skill and habit
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-19 (morning). How the transition from deliberate to automatic action illuminates the interface — the phenomenological "handing off" of conscious control to neural mechanisms. Builds on phenomenology-of-skill-transition.md, paradox-of-effortless-mastery.md, embodied-cognition.md. See optimistic-2026-02-19-morning.md
+- **Output**: the phenomenology of embodied skill and habit
 
 ### ✓ 2026-02-19: Write article on experimental design for consciousness-collapse testing
 - **Type**: expand-topic
