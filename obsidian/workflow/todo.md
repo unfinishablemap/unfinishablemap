@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Create concept page for control-theoretic will
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-02-19. The Map's selector + bandwidth model (consciousness selects among brain-generated options via a ~10 bits/sec channel) maps naturally to control theory (gating, stabilization, veto, attractor steering, resource allocation) but is never framed this way. Create a concept page that explicitly frames will as a low-bandwidth control signal, distinguishing it from computational/planning models of mind. Draws on [[consciousness-and-agency]], [[attention-as-causal-bridge]].
+- **Review file**: `reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-02-19
+
+### P2: Develop responsibility gradient framework from attentional capacity
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-02-19. If agency flows through bandwidth-limited willed attention, moral responsibility should vary with attentional capacity (fatigue, disorders, development, training). The site's moral-responsibility.md doesn't explicitly derive graduated responsibility from bandwidth constraints. Create an article drawing out the ethical/legal implications: what impairments reduce authorship, how training changes culpability, rehabilitation implications. Builds on [[moral-responsibility]], [[attention-as-causal-bridge]], [[living-with-the-map]].
+- **Review file**: `reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-02-19
+
+### P2: Address value-blind vs value-sensitive selection fork
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-02-19. The combination of "value resides in experience" (living-with-the-map) and "consciousness selects outcomes" (tenets) forces an unaddressed fork: is selection value-blind (attention as neutral pointer, making value epiphenomenal to selection) or value-sensitive (valence influences which outcomes get selected, implying local teleological physics)? Create a page that states this fork explicitly, maps consequences of each horn, and proposes how each would show up in testability hooks. Builds on [[living-with-the-map]], [[consciousness-and-agency]], [[tenets]].
+- **Review file**: `reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-02-19
+
+### P2: Consolidate substrate criteria for consciousness beyond LLMs
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-02-19. The site's AI-consciousness exclusion arguments imply a three-part substrate criterion: (1) continuous temporality with binding, (2) accessible indeterminacy/selection interface, (3) recurrent dynamics for willed selection. These are scattered across [[time-consciousness-growing-block]], [[tenets]], [[attention-as-causal-bridge]], [[ai-consciousness]]. Consolidate into a single criteria page with implications for future AI designs (neuromorphic, quantum, non-digital systems).
+- **Review file**: `reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-02-19
+
+### P3: Formalize apophatic cartography as a general epistemic method
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-02-19. The voids framework treats structured cognitive failure as cartographic data, but isn't yet packaged as a general methodology with rules of evidence. Create a methods article: how to distinguish confusion from genuine boundary, how to use convergent failure modes across observers, how to integrate phenomenology with cognitive science, how to prevent void-exploration from becoming unfalsifiable mystique. The methodological punchline: systematic failure modes are among the strongest evidence sources at the explanatory frontier. Builds on [[voids]].
+- **Review file**: `reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro.md`
+- **Source**: outer-review
+- **Generated**: 2026-02-19
+
 ### P2: Update references to coalesced surprise articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-19) merged `consciousness-and-surprise.md` and `phenomenology-of-surprise-and-prediction-error.md` into `surprise-prediction-error-and-consciousness.md`. 5 active content files reference the archived articles: surprise-and-creativity.md and categorical-surprise.md reference `[[consciousness-and-surprise]]`; consciousness-and-the-problem-of-induction.md, predictive-processing-and-the-maps-framework.md, and phenomenology-of-perceptual-constancy.md reference `[[phenomenology-of-surprise-and-prediction-error]]`. surprise-and-creativity.md references both. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[surprise-prediction-error-and-consciousness]]` where appropriate.
