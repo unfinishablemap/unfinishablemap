@@ -90,7 +90,7 @@ Categorical surprise connects to The Unfinishable Map's [tenets](/tenets/) at se
 
 ## Further Reading
 
-- [consciousness-and-surprise](/topics/consciousness-and-surprise/) — The parent treatment of surprise and phenomenal consciousness
+- [consciousness-and-surprise](/consciousness-and-surprise/) — The parent treatment of surprise and phenomenal consciousness
 - [predictive-processing](/concepts/predictive-processing/) — The computational framework that handles ordinary but not categorical surprise
 - [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — Creative insight as framework transcendence
 - [surprise-and-creativity](/topics/surprise-and-creativity/) — Self-surprise and why creators astonish themselves

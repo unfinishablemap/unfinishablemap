@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-15
-**Article**: [The Phenomenology of Surprise and Prediction Error](/topics/phenomenology-of-surprise-and-prediction-error/)
+**Article**: [The Phenomenology of Surprise and Prediction Error](/phenomenology-of-surprise-and-prediction-error/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1843,7 +1843,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-10 14:57 UTC - refine-draft
 - **Status**: Success
-- **Files**: [phenomenology-of-surprise-and-prediction-error](/topics/phenomenology-of-surprise-and-prediction-error/), [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/)
+- **Files**: [phenomenology-of-surprise-and-prediction-error](/phenomenology-of-surprise-and-prediction-error/), [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/)
 - **Changes**: Both articles engaged type-B materialist response to the richness-to-dualism inference (pessimistic review Issue 1). Replaced direct "richness therefore dualism" moves with explicit acknowledgment that physicalists can grant phenomenological descriptions while denying ontological gap. Map's response reframed: accumulated brute psychophysical identities are less parsimonious than dualism, and the pattern of explanatory failure is structural rather than temporary. Touched opening paragraphs, core argument sections, and Relation to Site Perspective in both articles.
 - **Published**: yes
 
@@ -2035,7 +2035,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-10 07:11 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Surprise and Prediction Error
-- **Output**: [phenomenology-of-surprise-and-prediction-error](/topics/phenomenology-of-surprise-and-prediction-error/)
+- **Output**: [phenomenology-of-surprise-and-prediction-error](/phenomenology-of-surprise-and-prediction-error/)
 - **Word count**: 2053
 - **Based on research**: No
 

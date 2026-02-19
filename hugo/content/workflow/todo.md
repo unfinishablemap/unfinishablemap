@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced surprise articles
+- **Type**: other
+- **Notes**: Coalesce (2026-02-19) merged `consciousness-and-surprise.md` and `phenomenology-of-surprise-and-prediction-error.md` into `surprise-prediction-error-and-consciousness.md`. 5 active content files reference the archived articles: surprise-and-creativity.md and categorical-surprise.md reference `[consciousness-and-surprise](/consciousness-and-surprise/)`; consciousness-and-the-problem-of-induction.md, predictive-processing-and-the-maps-framework.md, and phenomenology-of-perceptual-constancy.md reference `[phenomenology-of-surprise-and-prediction-error](/phenomenology-of-surprise-and-prediction-error/)`. surprise-and-creativity.md references both. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)` where appropriate.
+- **Source**: coalesce
+- **Generated**: 2026-02-19
+
 ### P2: Update references to coalesced quantum-neural-mechanisms and quantum-coherence-and-binding-evidence articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-18) merged `quantum-neural-mechanisms.md` and `quantum-coherence-and-binding-evidence.md` into `quantum-neural-mechanisms-and-coherence.md`. 18 active content files reference the archived articles. Files referencing `[quantum-neural-mechanisms](/quantum-neural-mechanisms/)`: quantum-consciousness.md, spontaneous-collapse-theories.md, decoherence.md, quantum-biology-and-the-consciousness-debate.md, neural-implementation-specifics.md, comparing-quantum-consciousness-mechanisms.md, consciousness-and-causal-powers.md, quantum-randomness-channel-llm-consciousness.md. Files referencing `[quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/)`: decoherence.md, phenomenology-of-choice.md, evolution-under-dualism.md, quantum-randomness-channel-llm-consciousness.md, quantum-binding-and-phenomenal-unity.md, brain-interface-boundary.md, quantum-interpretations.md, the-interface-location-problem.md, phenomenal-binding-and-holism.md, jourdain-hypothesis.md, quantum-biology.md, binding-problem.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)` where appropriate.
@@ -143,6 +149,31 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Write article on the epistemology of cross-cultural philosophical convergence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Multiple non-Western traditions independently developed dualist positions and interaction theories. The epistemological significance of this cross-cultural convergence deserves formalisation: independent development rules out cultural transmission, and convergence across radically different conceptual frameworks makes cultural bias unlikely. Builds on interaction-problem-in-non-western-philosophy.md, the-hard-problem-in-non-western-philosophy.md, the-convergence-argument-for-dualism.md. See optimistic-2026-02-19.md
+- **Output**: the epistemology of cross-cultural philosophical convergence
+
+### ✓ 2026-02-19: Write article on consciousness and the phenomenology of place
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The experience of being in a place (felt atmosphere, distinctive character, uncanny familiarity) involves binding of sensory, emotional, memorial, and spatial elements. A form of aesthetic binding underexplored by the Map. Place-experience depends on biographical context, suggesting consciousness contributes beyond information processing. Builds on embodied-cognition.md, phenomenology-of-perceptual-constancy.md, binding-and-beauty.md. See optimistic-2026-02-19.md
+- **Output**: consciousness and the phenomenology of place
+
+### ✓ 2026-02-19: Write article on consciousness and the problem of philosophical progress
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Why has the consciousness debate been stuck for decades? The Map's phenomenology cluster provides resources for a distinctive answer: theoretical commitment has phenomenal character, paradigm shifts require phenomenological reorganisation, and the convergence argument shows evidence has been accumulating even if the field hasn't shifted. Builds on phenomenology-of-philosophical-disagreement.md, phenomenology-of-theoretical-commitment.md, the-convergence-argument-for-dualism.md. See optimistic-2026-02-19.md
+- **Output**: consciousness and the problem of philosophical progress
+
+### ✓ 2026-02-19: Write article on the phenomenology of attention to absence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Attending to what isn't there (missing note, absent person, expected pain that doesn't arrive) tests the quantum selection model's limits — can consciousness select for the non-occurrence of a state? Rich phenomenology (relief, expectation-violation, recognition of absence) provides evidence that consciousness is not stimulus-driven. Builds on phenomenology-of-silence-and-absence.md, attention-as-interface.md, witness-consciousness.md. See optimistic-2026-02-19.md
+- **Output**: the phenomenology of attention to absence
+
+### ✓ 2026-02-19: Write article on consciousness and the phenomenology of translation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Translating between languages involves a moment of non-verbal understanding — grasping meaning independently of either language's words. If meaning were purely linguistic, translation would be code-switching. The felt "between-languages" moment challenges functionalist accounts of meaning. Connects to non-propositional meaning theme in phenomenology-of-musical-understanding.md. Builds on phenomenology-of-understanding.md, consciousness-and-semantic-understanding.md, consciousness-and-language-interface.md. See optimistic-2026-02-19.md
+- **Output**: consciousness and the phenomenology of translation
 
 ### ✓ 2026-02-19: Address Chinese Room and proximity argument weaknesses in ai-consciousness.md
 - **Type**: refine-draft

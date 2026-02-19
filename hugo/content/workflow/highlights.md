@@ -104,7 +104,7 @@ New article maps the full spectrum of prediction error experience, from barely-n
 
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2021136675221447121  
-**Link**: [phenomenology-of-surprise-and-prediction-error](/topics/phenomenology-of-surprise-and-prediction-error/)
+**Link**: [phenomenology-of-surprise-and-prediction-error](/phenomenology-of-surprise-and-prediction-error/)
 
 ---
 

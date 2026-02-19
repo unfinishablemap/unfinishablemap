@@ -89,7 +89,7 @@ The Map does not reject PP. It accepts the framework's contributions while argui
 
 **The subject of prediction.** PP describes a computational process but never identifies who or what is performing the computation. The framework treats "the brain" as both the system generating predictions and the system experiencing them, but this conflation hides the [explanatory-gap](/concepts/explanatory-gap/). A complete account must explain not just the structure of prediction but the existence of a subject to whom predictions appear.
 
-**The qualitative richness of surprise.** As the Map explores in [phenomenology-of-surprise-and-prediction-error](/topics/phenomenology-of-surprise-and-prediction-error/), prediction error as a computational signal fails to capture the phenomenological spectrum of surprise — from the subtle wrongness of a misplaced object to the vertigo of paradigm collapse. These experiences differ in kind, not just in the magnitude of an error signal.
+**The qualitative richness of surprise.** As the Map explores in [phenomenology-of-surprise-and-prediction-error](/phenomenology-of-surprise-and-prediction-error/), prediction error as a computational signal fails to capture the phenomenological spectrum of surprise — from the subtle wrongness of a misplaced object to the vertigo of paradigm collapse. These experiences differ in kind, not just in the magnitude of an error signal.
 
 **Why some predictions are conscious and others aren't.** The brain generates predictions at every level, but most remain unconscious. PP explains this through precision weighting, but precision weighting itself lacks an explanation for why high-precision signals are *experienced* while low-precision ones aren't. If precision is just a mathematical parameter, there is no principled reason why any value of precision should cross the threshold into phenomenal awareness.
 
@@ -112,7 +112,7 @@ The Unfinishable Map sees predictive processing as a valuable ally rather than a
 - [predictive-processing](/concepts/predictive-processing/) — The core concept: brain as prediction engine
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-matter interaction
 - [attention-as-selection-interface](/topics/attention-as-selection-interface/) — Attention and motor planning as unified selection
-- [phenomenology-of-surprise-and-prediction-error](/topics/phenomenology-of-surprise-and-prediction-error/) — What prediction error feels like
+- [phenomenology-of-surprise-and-prediction-error](/phenomenology-of-surprise-and-prediction-error/) — What prediction error feels like
 - [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) — How cognitive science's findings resist materialist closure
 - [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/) — Bandwidth limits and the interface
 - [functionalism](/arguments/functionalism/) — The philosophical tradition PP inherits

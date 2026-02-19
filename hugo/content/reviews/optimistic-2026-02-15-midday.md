@@ -90,7 +90,7 @@ The Map demonstrates genuine intellectual humility where it matters most. The [c
 - **Tenet alignment**: Bidirectional Interaction (body as mediator), Minimal Quantum Interaction (where in the body does the interface operate?)
 
 #### Predictive Processing and the Map's Framework
-- **Builds on**: [predictive-processing](/concepts/predictive-processing/), [consciousness-and-surprise](/topics/consciousness-and-surprise/), [phenomenology-of-surprise-and-prediction-error](/topics/phenomenology-of-surprise-and-prediction-error/)
+- **Builds on**: [predictive-processing](/concepts/predictive-processing/), [consciousness-and-surprise](/consciousness-and-surprise/), [phenomenology-of-surprise-and-prediction-error](/phenomenology-of-surprise-and-prediction-error/)
 - **Would address**: The predictive processing framework (Karl Friston, Andy Clark, Jakob Hohwy) represents the most sophisticated current physicalist account of consciousness. The Map engages with it only tangentially. A dedicated article showing where predictive processing succeeds (explaining perceptual phenomena), where it fails (the hard problem persists within its framework), and how the Map's quantum interface model could integrate with prediction error minimisation would strengthen the framework significantly.
 - **Estimated scope**: Long article
 - **Tenet alignment**: Dualism (predictive processing doesn't solve the hard problem), Bidirectional Interaction (consciousness modulates prediction error processing)
