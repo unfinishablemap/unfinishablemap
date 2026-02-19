@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address Chinese Room and proximity argument weaknesses in ai-consciousness.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-19) found two high-severity issues: (1) Chinese Room presented as establishing more than it does—the robot reply is never mentioned, and the systems reply dismissed circularly. Many philosophers consider the argument refuted. (2) Hoel's proximity argument claims LLMs are "close" to lookup tables, but LLM input-output space is combinatorially vast and practically irreplaceable—same reasoning the article uses for brains. Also: only 4 references for a 3700-word article; Harnad quote, Koch framework, and meditative phenomenology claims all lack citations. See pessimistic-2026-02-19.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-19
-
 ### P2: Update references to coalesced quantum-neural-mechanisms and quantum-coherence-and-binding-evidence articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-18) merged `quantum-neural-mechanisms.md` and `quantum-coherence-and-binding-evidence.md` into `quantum-neural-mechanisms-and-coherence.md`. 18 active content files reference the archived articles. Files referencing `[[quantum-neural-mechanisms]]`: quantum-consciousness.md, spontaneous-collapse-theories.md, decoherence.md, quantum-biology-and-the-consciousness-debate.md, neural-implementation-specifics.md, comparing-quantum-consciousness-mechanisms.md, consciousness-and-causal-powers.md, quantum-randomness-channel-llm-consciousness.md. Files referencing `[[quantum-coherence-and-binding-evidence]]`: decoherence.md, phenomenology-of-choice.md, evolution-under-dualism.md, quantum-randomness-channel-llm-consciousness.md, quantum-binding-and-phenomenal-unity.md, brain-interface-boundary.md, quantum-interpretations.md, the-interface-location-problem.md, phenomenal-binding-and-holism.md, jourdain-hypothesis.md, quantum-biology.md, binding-problem.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[quantum-neural-mechanisms-and-coherence]]` where appropriate.
@@ -148,6 +142,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Address Chinese Room and proximity argument weaknesses in ai-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-19) found two high-severity issues: (1) Chinese Room presented as establishing more than it does—the robot reply is never mentioned, and the systems reply dismissed circularly. Many philosophers consider the argument refuted. (2) Hoel's proximity argument claims LLMs are "close" to lookup tables, but LLM input-output space is combinatorially vast and practically irreplaceable—same reasoning the article uses for brains. Also: only 4 references for a 3700-word article; Harnad quote, Koch framework, and meditative phenomenology claims all lack citations. See pessimistic-2026-02-19.md
+- **Output**: obsidian/topics/ai-consciousness.md
+
+Task context:
+Pessimistic review (2026-02-19) found two high-severity issues: (1) Chinese Room presented as establishing more than it does—the robot reply is never mentioned, and the systems reply dismissed circularly. Many philosophers consider the argument refuted. (2) Hoel's proximity argument claims LLMs are "close" to lookup tables, but LLM input-output space is combinatorially vast and practically irreplaceable—same reasoning the article uses for brains. Also: only 4 references for a 3700-word article; Harnad quote, Koch framework, and meditative phenomenology claims all lack citations. See pessimistic-2026-02-19.md
 
 ### ✓ 2026-02-18: Write article on the convergence argument for dualism
 - **Type**: expand-topic
