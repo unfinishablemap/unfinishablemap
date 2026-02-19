@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-19 10:06 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Responsibility Gradient: From Attentional Capacity to Moral Desert
+- **Output**: [[topics/responsibility-gradient-from-attentional-capacity]]
+- **Word count**: 2227
+- **Based on research**: No (synthesised from existing Map concepts: attentional-economics, moral-responsibility, control-theoretic-will, consciousness-and-moral-agency-under-duress)
+
 ## 2026-02-19 09:51 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Control-Theoretic Will

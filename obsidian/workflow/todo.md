@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Develop responsibility gradient framework from attentional capacity
-- **Type**: expand-topic
-- **Notes**: From outer review 2026-02-19. If agency flows through bandwidth-limited willed attention, moral responsibility should vary with attentional capacity (fatigue, disorders, development, training). The site's moral-responsibility.md doesn't explicitly derive graduated responsibility from bandwidth constraints. Create an article drawing out the ethical/legal implications: what impairments reduce authorship, how training changes culpability, rehabilitation implications. Builds on [[moral-responsibility]], [[attention-as-causal-bridge]], [[living-with-the-map]].
-- **Review file**: `reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-02-19
-
 ### P2: Address value-blind vs value-sensitive selection fork
 - **Type**: expand-topic
 - **Notes**: From outer review 2026-02-19. The combination of "value resides in experience" (living-with-the-map) and "consciousness selects outcomes" (tenets) forces an unaddressed fork: is selection value-blind (attention as neutral pointer, making value epiphenomenal to selection) or value-sensitive (valence influences which outcomes get selected, implying local teleological physics)? Create a page that states this fork explicitly, maps consequences of each horn, and proposes how each would show up in testability hooks. Builds on [[living-with-the-map]], [[consciousness-and-agency]], [[tenets]].
@@ -176,6 +169,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Develop responsibility gradient framework from attentional capacity
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-02-19. If agency flows through bandwidth-limited willed attention, moral responsibility should vary with attentional capacity (fatigue, disorders, development, training). The site's moral-responsibility.md doesn't explicitly derive graduated responsibility from bandwidth constraints. Create an article drawing out the ethical/legal implications: what impairments reduce authorship, how training changes culpability, rehabilitation implications. Builds on [[moral-responsibility]], [[attention-as-causal-bridge]], [[living-with-the-map]].
+- **Output**: Develop responsibility gradient framework from attentional capacity
 
 ### ✓ 2026-02-19: Create concept page for control-theoretic will
 - **Type**: expand-topic
