@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced skill articles
+- **Type**: other
+- **Notes**: Coalesce (2026-02-19) merged `phenomenology-of-skill-and-the-lived-body.md`, `paradox-of-effortless-mastery.md`, and `phenomenology-of-skill-transition.md` into `consciousness-and-skilled-performance.md`. 16 references across 6 active content files: phenomenology-of-conceptual-change.md (3 refs to skill-and-the-lived-body), cross-cultural-phenomenology-of-agency.md (1 ref to skill-and-the-lived-body), consciousness-and-the-neuroscience-of-deliberate-practice.md (5 refs to all three), phenomenology-of-flow-states.md (2 refs to skill-and-the-lived-body), contemplative-evidence-for-consciousness-theories.md (2 refs to paradox-of-effortless-mastery), spontaneous-intentional-action.md (2 refs to paradox-of-effortless-mastery). Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)` where appropriate.
+- **Source**: coalesce
+- **Generated**: 2026-02-19
+
 ### P2: Update references to coalesced contemplative articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-19) merged `contemplative-verification-of-consciousness-theories.md` and `contemplative-training-and-phenomenal-access.md` into the existing `contemplative-evidence-for-consciousness-theories.md`. 9 active content files reference the archived articles. Files referencing `[contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/)`: consciousness-and-the-neuroscience-of-deliberate-practice.md, phenomenology-of-skill-transition.md, paradox-of-effortless-mastery.md, phenomenology-of-skill-and-the-lived-body.md, contemplative-evidence-convergence-across-traditions.md, phenomenal-depth.md, consciousness-and-scientific-methodology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md. Files referencing `[contemplative-verification-of-consciousness-theories](/contemplative-verification-of-consciousness-theories/)`: contemplative-methods-as-philosophical-methodology.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)` where appropriate.
@@ -155,6 +161,37 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Write article on the phenomenology of cognitive load
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-19 (evening). Cognitive load theory (Sweller) is empirically robust; the Map's control-theoretic framework predicts specific phenomenological signatures for different load types. How does "running out of bandwidth" feel, and what does it reveal about the interface? Builds on consciousness-and-the-neuroscience-of-deliberate-practice.md, mental-effort.md, attentional-economics.md, control-theoretic-will.md. See optimistic-2026-02-19-evening.md
+- **Output**: the phenomenology of cognitive load
+
+### ✓ 2026-02-19: Write article on consciousness and the problem of measurement standards
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-19 (evening). Science requires measurement standards (units, instruments, calibration). For phenomenal quantities, no analogous standards exist — this is a philosophical consequence of irreducibility, not merely a practical gap. Builds on first-person-third-person-methodology.md, the-epistemology-of-phenomenal-reports-in-science.md, consciousness-and-scientific-methodology.md. See optimistic-2026-02-19-evening.md
+- **Output**: consciousness and the problem of measurement standards
+
+### ✓ 2026-02-19: Write article on the psychophysical control law
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-19 (evening). The control-theoretic framework specifies architecture but not the transfer function mapping phenomenal states to selection probabilities. What form does it take — Humean, Armstrongian, or dispositional? Builds on control-theoretic-will.md, psychophysical-laws.md, selection-laws.md, value-blind-vs-value-sensitive-selection.md. See optimistic-2026-02-19-evening.md
+- **Output**: the psychophysical control law
+
+### ✓ 2026-02-19: Strengthen Bayesian independence claims and vitalism disanalogy in the-convergence-argument-for-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-19 evening) found two high-severity issues: (1) The Bayesian framework assumes conditional independence of arguments, but several share dependencies (authority of phenomenal intuition, reality of the explanatory gap). The cumulative force is less than claimed. Needs explicit identification of shared assumptions and honest assessment of remaining force. (2) The vitalism analogy backfires—the response ("no analogous dissolution has occurred") is exactly what vitalists would have said pre-biochemistry. Strengthen the disanalogy with specifics (vitalism faced incremental progress; the hard problem has not). Also: overclaims about cross-cultural independence need qualification. See pessimistic-2026-02-19-evening.md
+- **Output**: obsidian/topics/the-convergence-argument-for-dualism.md
+
+Task context:
+Pessimistic review (2026-02-19 evening) found two high-severity issues: (1) The Bayesian framework assumes conditional independence of arguments, but several share dependencies (authority of phenomenal intuition, reality of the explanatory gap). The cumulative force is less than claimed. Needs explicit identification of shared assumptions and honest assessment of remaining force. (2) The vitalism analogy backfires—the response ("no analogous dissolution has occurred") is exactly what vitalists would have said pre-biochemistry. Strengthen the disanalogy with specifics (vitalism faced incremental progress; the hard problem has not). Also: overclaims about cross-cultural independence need qualification. See pessimistic-2026-02-19-evening.md
+
+### ✓ 2026-02-19: Address false trichotomy in contemplative-evidence-for-consciousness-theories.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-19 evening) found the evidential structure presents only three options (epiphenomenalism, reductive materialism, interactionist dualism), omitting non-reductive physicalism—the most common contemporary position—which accepts mental causation without dualism. All cited evidence (neuroplasticity, content specificity, therapeutic efficacy) is equally compatible with non-reductive physicalism. Also: cessation argument relies on retrospective self-report without acknowledging physicalist explanation (offline self-monitoring). See pessimistic-2026-02-19-evening.md
+- **Output**: obsidian/topics/contemplative-evidence-for-consciousness-theories.md
+
+Task context:
+Pessimistic review (2026-02-19 evening) found the evidential structure presents only three options (epiphenomenalism, reductive materialism, interactionist dualism), omitting non-reductive physicalism—the most common contemporary position—which accepts mental causation without dualism. All cited evidence (neuroplasticity, content specificity, therapeutic efficacy) is equally compatible with non-reductive physicalism. Also: cessation argument relies on retrospective self-report without acknowledging physicalist explanation (offline self-monitoring). See pessimistic-2026-02-19-evening.md
 
 ### ✓ 2026-02-19: Write article on the subject-object distinction as philosophical discovery
 - **Type**: expand-topic

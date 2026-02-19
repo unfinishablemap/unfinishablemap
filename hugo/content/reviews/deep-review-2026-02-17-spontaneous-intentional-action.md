@@ -58,7 +58,7 @@ topics: []
 - "What Would Challenge This View?" section — intellectual honesty
 
 ### Enhancements Made
-- Added cross-links to [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/), [paradox-of-effortless-mastery](/topics/paradox-of-effortless-mastery/), [interface-friction](/concepts/interface-friction/), [libet-experiments](/concepts/libet-experiments/), [reasons-responsiveness](/concepts/reasons-responsiveness/)
+- Added cross-links to [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/), [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/), [interface-friction](/concepts/interface-friction/), [libet-experiments](/concepts/libet-experiments/), [reasons-responsiveness](/concepts/reasons-responsiveness/)
 - Strengthened "Against Determinism" with Libet/Wegner engagement
 - Added luck objection engagement with cross-reference to agent-causation
 - Added motor-selection reference grounding the neural mechanism
@@ -70,7 +70,7 @@ topics: []
 
 ### Cross-links Added
 - [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/)
-- [paradox-of-effortless-mastery](/topics/paradox-of-effortless-mastery/)
+- [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/)
 - [interface-friction](/concepts/interface-friction/)
 - [libet-experiments](/concepts/libet-experiments/)
 - [reasons-responsiveness](/concepts/reasons-responsiveness/)

@@ -117,8 +117,8 @@ This asymmetry is philosophically significant for the Map's framework. If consci
 - [phenomenology-of-habit-and-skill-acquisition](/phenomenology-of-habit-and-skill-acquisition/) — The cognitive arc of skill learning: scaffolding, delegation, and withdrawal
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — The 4E framework and the interface reading of embodied cognition
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Perception as mastery of sensorimotor laws
-- [phenomenology-of-skill-transition](/topics/phenomenology-of-skill-transition/) — What happens when established skills must be restructured
-- [paradox-of-effortless-mastery](/topics/paradox-of-effortless-mastery/) — The puzzle of consciousness building systems that replace it
+- [phenomenology-of-skill-transition](/phenomenology-of-skill-transition/) — What happens when established skills must be restructured
+- [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/) — The puzzle of consciousness building systems that replace it
 - [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) — The fullest expression of body schema integration
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — What happens when consciousness disrupts the body it trained
 

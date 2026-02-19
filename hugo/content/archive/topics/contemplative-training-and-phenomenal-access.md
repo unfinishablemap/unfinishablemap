@@ -157,7 +157,7 @@ The connection between contemplative phenomenology and quantum interpretation is
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Neural changes from meditation training
 - [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — Detailed phenomenology of the witness phenomenon
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — The micro-phenomenology of attentional recovery during practice
-- [paradox-of-effortless-mastery](/topics/paradox-of-effortless-mastery/) — The developmental arc from effortful practice to effortless mastery
+- [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/) — The developmental arc from effortful practice to effortless mastery
 
 ## References
 

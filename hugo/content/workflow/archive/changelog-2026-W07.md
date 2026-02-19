@@ -378,7 +378,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 10:48 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Paradox of Effortless Mastery
-- **Output**: [paradox-of-effortless-mastery](/topics/paradox-of-effortless-mastery/)
+- **Output**: [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/)
 - **Word count**: 1477
 - **Based on research**: no
 
@@ -848,7 +848,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 03:40 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Phenomenology of Skill Transition
-- **Output**: [phenomenology-of-skill-transition](/topics/phenomenology-of-skill-transition/)
+- **Output**: [phenomenology-of-skill-transition](/phenomenology-of-skill-transition/)
 - **Word count**: 1614
 - **Based on research**: no
 

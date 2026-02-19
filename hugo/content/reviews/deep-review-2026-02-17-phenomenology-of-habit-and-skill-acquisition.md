@@ -72,8 +72,8 @@ topics: []
 
 ### Cross-links Added
 
-- [phenomenology-of-skill-transition](/topics/phenomenology-of-skill-transition/)
-- [paradox-of-effortless-mastery](/topics/paradox-of-effortless-mastery/)
+- [phenomenology-of-skill-transition](/phenomenology-of-skill-transition/)
+- [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/)
 - [habituation-void](/voids/habituation-void/) (fixed from generic [voids](/voids/) link)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
 

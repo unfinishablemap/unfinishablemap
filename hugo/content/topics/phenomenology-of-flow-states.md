@@ -152,7 +152,7 @@ Flow fits naturally into the Map's selection framework. Consciousness doesn't ne
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — How the body shapes conscious engagement with the world
 - [contemplative-path](/apex/contemplative-path/) — Contemplative practices that cultivate flow-like states
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal vs. narrative self and the layers of self-awareness
-- [phenomenology-of-skill-and-the-lived-body](/topics/phenomenology-of-skill-and-the-lived-body/) — How skill development creates the conditions for flow
+- [phenomenology-of-skill-and-the-lived-body](/phenomenology-of-skill-and-the-lived-body/) — How skill development creates the conditions for flow
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The consciousness levels that flow navigates between
 - [pain-asymbolia](/concepts/pain-asymbolia/) — Another case where phenomenal experience dissociates from its expected functional role
 
