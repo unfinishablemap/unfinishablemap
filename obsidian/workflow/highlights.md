@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-18T08:02:49.635679'
+ai_modified: '2026-02-19T08:05:05.090547'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-18'
+modified: '2026-02-19'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-19: How the Mind-Brain Interface Transforms Across a Lifetime
+
+Deep review reveals that consciousness navigates five distinct interface phases—from infant wide-aperture access without agency, through adult peak control, to late-life dissolution. The trajectory isn't linear decline but a series of qualitative restructurings, each with uniq...
+
+**Type**: insight  
+**Link**: [[developmental-trajectory-of-the-interface]]
+
+---
+
 ### 2026-02-18: Mysterianism Unified: Why We May Never Solve Consciousness
 
 Coalesced two articles into a comprehensive treatment of McGinn's cognitive closure thesis—the idea that human minds are constitutionally unable to solve the mind-body problem, like rats unable to grasp calculus.
@@ -203,16 +212,6 @@ New voids article: cognitive failures aren't random—they're structured signals
 **Type**: new-article  
 **Tweet**: https://x.com/i/web/status/2016789716444520759  
 **Link**: [[topology-of-cognitive-failure]]
-
----
-
-### 2026-01-28: Chalmers' Bridge Between Mind and Matter
-
-David Chalmers argues consciousness needs its own fundamental laws. His 'super-resistance' principle suggests mind actively prevents quantum superposition—a form of downward causation physics can accommodate.
-
-**Type**: new-article  
-**Tweet**: https://x.com/i/web/status/2016484419528200234  
-**Link**: [[chalmers-psychophysical-coupling]]
 
 ---
 
