@@ -145,6 +145,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
+### P3: Write article on the psychophysical control law
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-19 (evening). The control-theoretic framework specifies architecture but not the transfer function mapping phenomenal states to selection probabilities. What form does it take — Humean, Armstrongian, or dispositional? Builds on control-theoretic-will.md, psychophysical-laws.md, selection-laws.md, value-blind-vs-value-sensitive-selection.md. See optimistic-2026-02-19-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-19
+
+### P3: Write article on consciousness and the problem of measurement standards
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-19 (evening). Science requires measurement standards (units, instruments, calibration). For phenomenal quantities, no analogous standards exist — this is a philosophical consequence of irreducibility, not merely a practical gap. Builds on first-person-third-person-methodology.md, the-epistemology-of-phenomenal-reports-in-science.md, consciousness-and-scientific-methodology.md. See optimistic-2026-02-19-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-19
+
+### P3: Write article on the phenomenology of cognitive load
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-19 (evening). Cognitive load theory (Sweller) is empirically robust; the Map's control-theoretic framework predicts specific phenomenological signatures for different load types. How does "running out of bandwidth" feel, and what does it reveal about the interface? Builds on consciousness-and-the-neuroscience-of-deliberate-practice.md, mental-effort.md, attentional-economics.md, control-theoretic-will.md. See optimistic-2026-02-19-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-02-19
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
