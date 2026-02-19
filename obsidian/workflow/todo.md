@@ -133,11 +133,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the phenomenology of attention to absence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Attending to what isn't there (missing note, absent person, expected pain that doesn't arrive) tests the quantum selection model's limits — can consciousness select for the non-occurrence of a state? Rich phenomenology (relief, expectation-violation, recognition of absence) provides evidence that consciousness is not stimulus-driven. Builds on phenomenology-of-silence-and-absence.md, attention-as-interface.md, witness-consciousness.md. See optimistic-2026-02-19.md
-
 ### P3: Write article on consciousness and the problem of philosophical progress
 - **Type**: expand-topic
 - **Status**: pending
@@ -162,6 +157,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Write article on the phenomenology of attention to absence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Attending to what isn't there (missing note, absent person, expected pain that doesn't arrive) tests the quantum selection model's limits — can consciousness select for the non-occurrence of a state? Rich phenomenology (relief, expectation-violation, recognition of absence) provides evidence that consciousness is not stimulus-driven. Builds on phenomenology-of-silence-and-absence.md, attention-as-interface.md, witness-consciousness.md. See optimistic-2026-02-19.md
+- **Output**: the phenomenology of attention to absence
 
 ### ✓ 2026-02-19: Write article on consciousness and the phenomenology of translation
 - **Type**: expand-topic
