@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address value-blind vs value-sensitive selection fork
-- **Type**: expand-topic
-- **Notes**: From outer review 2026-02-19. The combination of "value resides in experience" (living-with-the-map) and "consciousness selects outcomes" (tenets) forces an unaddressed fork: is selection value-blind (attention as neutral pointer, making value epiphenomenal to selection) or value-sensitive (valence influences which outcomes get selected, implying local teleological physics)? Create a page that states this fork explicitly, maps consequences of each horn, and proposes how each would show up in testability hooks. Builds on [[living-with-the-map]], [[consciousness-and-agency]], [[tenets]].
-- **Review file**: `reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-02-19
-
-### P2: Consolidate substrate criteria for consciousness beyond LLMs
-- **Type**: expand-topic
-- **Notes**: From outer review 2026-02-19. The site's AI-consciousness exclusion arguments imply a three-part substrate criterion: (1) continuous temporality with binding, (2) accessible indeterminacy/selection interface, (3) recurrent dynamics for willed selection. These are scattered across [[time-consciousness-growing-block]], [[tenets]], [[attention-as-causal-bridge]], [[ai-consciousness]]. Consolidate into a single criteria page with implications for future AI designs (neuromorphic, quantum, non-digital systems).
-- **Review file**: `reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro.md`
-- **Source**: outer-review
-- **Generated**: 2026-02-19
-
 ### P3: Formalize apophatic cartography as a general epistemic method
 - **Type**: expand-topic
 - **Notes**: From outer review 2026-02-19. The voids framework treats structured cognitive failure as cartographic data, but isn't yet packaged as a general methodology with rules of evidence. Create a methods article: how to distinguish confusion from genuine boundary, how to use convergent failure modes across observers, how to integrate phenomenology with cognitive science, how to prevent void-exploration from becoming unfalsifiable mystique. The methodological punchline: systematic failure modes are among the strongest evidence sources at the explanatory frontier. Builds on [[voids]].
@@ -169,6 +155,16 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Address value-blind vs value-sensitive selection fork
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-02-19. The combination of "value resides in experience" (living-with-the-map) and "consciousness selects outcomes" (tenets) forces an unaddressed fork: is selection value-blind (attention as neutral pointer, making value epiphenomenal to selection) or value-sensitive (valence influences which outcomes get selected, implying local teleological physics)? Create a page that states this fork explicitly, maps consequences of each horn, and proposes how each would show up in testability hooks. Builds on [[living-with-the-map]], [[consciousness-and-agency]], [[tenets]].
+- **Output**: Address value-blind vs value-sensitive selection fork
+
+### ✓ 2026-02-19: Address value-blind vs value-sensitive selection fork
+- **Type**: expand-topic
+- **Notes**: From outer review 2026-02-19. Created article stating the fork explicitly, mapping consequences of each horn, and proposing testability hooks.
+- **Output**: [[topics/value-blind-vs-value-sensitive-selection]]
 
 ### ✓ 2026-02-19: Develop responsibility gradient framework from attentional capacity
 - **Type**: expand-topic
