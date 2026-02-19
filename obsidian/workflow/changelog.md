@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-19 14:36 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Psychophysical Control Law
+- **Output**: [[topics/the-psychophysical-control-law]]
+- **Word count**: 2224
+- **Based on research**: Yes — [[psychophysical-coupling-law-mechanisms-2026-01-23]], [[psychophysical-coupling-problem-2026-01-15]], [[chalmers-psychophysical-laws-2026-01-17]]
+
 ## 2026-02-19 14:21 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full survey of ~360 non-draft articles across topics/, concepts/, tenets/, apex/, voids/. Deep reading of 50+ articles with emphasis on newest content (control-theoretic will, responsibility gradient, value-sensitive selection, apophatic cartography, contemplative convergence, experimental design, phenomenology of place/translation/absence/skill).

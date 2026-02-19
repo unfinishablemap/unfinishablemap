@@ -139,12 +139,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the psychophysical control law
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic review 2026-02-19 (afternoon). The control-theoretic framework specifies architecture (controller, plant, signal, feedback) but not the transfer function mapping phenomenal states to selection probabilities. What does the psychophysical control law look like? Humean, Armstrongian, or dispositional? Builds on control-theoretic-will.md, psychophysical-laws.md, selection-laws.md, value-blind-vs-value-sensitive-selection.md. See optimistic-2026-02-19-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-19
-
 ### P3: Write article on consciousness and the neuroscience of deliberate practice
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review 2026-02-19 (afternoon). The skill article argues consciousness is necessary for building procedural automaticity, but neural mechanisms are underspecified. Integrate Ericsson's framework with connectivity changes during learning and the Iriki macaque finding (tool incorporation requires active use). Builds on phenomenology-of-skill-and-the-lived-body.md, control-theoretic-will.md, attention-as-interface.md. See optimistic-2026-02-19-afternoon.md
@@ -166,6 +160,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Write article on the psychophysical control law
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-19 (afternoon). The control-theoretic framework specifies architecture (controller, plant, signal, feedback) but not the transfer function mapping phenomenal states to selection probabilities. What does the psychophysical control law look like? Humean, Armstrongian, or dispositional? Builds on control-theoretic-will.md, psychophysical-laws.md, selection-laws.md, value-blind-vs-value-sensitive-selection.md. See optimistic-2026-02-19-afternoon.md
+- **Output**: the psychophysical control law
 
 ### ✓ 2026-02-19: Add framework-elimination criterion and fix AI triangulation unfalsifiability in apophatic-cartography.md
 - **Type**: refine-draft
