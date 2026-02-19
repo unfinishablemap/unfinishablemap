@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address bootstrapping problem in epistemology-of-cross-cultural-philosophical-convergence.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-19 morning) found the article's own epistemological framework requires independence for convergence to be evidentially significant, yet concedes all human traditions share common cognitive origins. This bootstrapping problem is acknowledged but not resolved — the article treats it as neutral between realism and anti-realism when it actually undermines the article's central evidential claim. Also: the Barrett et al. (2021) citation is about afterlife beliefs specifically, not intuitive materialism broadly — needs more careful distinction. The treatment of Chinese philosophy as merely "not making the relevant conceptual move" undersells the challenge: if the hard problem is framework-dependent, convergence may track a shared conceptual move rather than a shared truth. See pessimistic-2026-02-19-morning.md
-
 ### P2: Update references to coalesced surprise articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-19) merged `consciousness-and-surprise.md` and `phenomenology-of-surprise-and-prediction-error.md` into `surprise-prediction-error-and-consciousness.md`. 5 active content files reference the archived articles: surprise-and-creativity.md and categorical-surprise.md reference `[[consciousness-and-surprise]]`; consciousness-and-the-problem-of-induction.md, predictive-processing-and-the-maps-framework.md, and phenomenology-of-perceptual-constancy.md reference `[[phenomenology-of-surprise-and-prediction-error]]`. surprise-and-creativity.md references both. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[surprise-prediction-error-and-consciousness]]` where appropriate.
@@ -153,6 +148,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Address bootstrapping problem in epistemology-of-cross-cultural-philosophical-convergence.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-19 morning) found the article's own epistemological framework requires independence for convergence to be evidentially significant, yet concedes all human traditions share common cognitive origins. This bootstrapping problem is acknowledged but not resolved — the article treats it as neutral between realism and anti-realism when it actually undermines the article's central evidential claim. Also: the Barrett et al. (2021) citation is about afterlife beliefs specifically, not intuitive materialism broadly — needs more careful distinction. The treatment of Chinese philosophy as merely "not making the relevant conceptual move" undersells the challenge: if the hard problem is framework-dependent, convergence may track a shared conceptual move rather than a shared truth. See pessimistic-2026-02-19-morning.md
+- **Output**: obsidian/topics/epistemology-of-cross-cultural-philosophical-convergence.md
+
+Task context:
+Pessimistic review (2026-02-19 morning) found the article's own epistemological framework requires independence for convergence to be evidentially significant, yet concedes all human traditions share common cognitive origins. This bootstrapping problem is acknowledged but not resolved — the article treats it as neutral between realism and anti-realism when it actually undermines the article's central evidential claim. Also: the Barrett et al. (2021) citation is about afterlife beliefs specifically, not intuitive materialism broadly — needs more careful distinction. The treatment of Chinese philosophy as merely "not making the relevant conceptual move" undersells the challenge: if the hard problem is framework-dependent, convergence may track a shared conceptual move rather than a shared truth. See pessimistic-2026-02-19-morning.md
 
 ### ✓ 2026-02-19: Qualify metarepresentation discontinuity claim in childhood-development-and-the-interface.md
 - **Type**: refine-draft
