@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-19 22:51 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Recognition Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[research/voids-recognition-void-2026-02-19]]
+- **Key finding**: Recognition — matching present experience to prior knowledge — has at least two dissociable components (perceptual identification and affective familiarity) revealed by the Capgras/prosopagnosia double dissociation; the binding of these components is structurally hidden from the consciousness it constitutes, making recognition a foundational void at the interface between physical processing and phenomenal experience.
+
 ## 2026-02-19 22:21 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-perceptual-constancy]]
