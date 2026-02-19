@@ -61,6 +61,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-17
 
+### P2: Address false trichotomy in contemplative-evidence-for-consciousness-theories.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-02-19 evening) found the evidential structure presents only three options (epiphenomenalism, reductive materialism, interactionist dualism), omitting non-reductive physicalism—the most common contemporary position—which accepts mental causation without dualism. All cited evidence (neuroplasticity, content specificity, therapeutic efficacy) is equally compatible with non-reductive physicalism. Also: cessation argument relies on retrospective self-report without acknowledging physicalist explanation (offline self-monitoring). See pessimistic-2026-02-19-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-19
+
+### P2: Strengthen Bayesian independence claims and vitalism disanalogy in the-convergence-argument-for-dualism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-02-19 evening) found two high-severity issues: (1) The Bayesian framework assumes conditional independence of arguments, but several share dependencies (authority of phenomenal intuition, reality of the explanatory gap). The cumulative force is less than claimed. Needs explicit identification of shared assumptions and honest assessment of remaining force. (2) The vitalism analogy backfires—the response ("no analogous dissolution has occurred") is exactly what vitalists would have said pre-biochemistry. Strengthen the disanalogy with specifics (vitalism faced incremental progress; the hard problem has not). Also: overclaims about cross-cultural independence need qualification. See pessimistic-2026-02-19-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-19
+
 ### P2: Verify Gallagher & Zahavi (2025) citation in phenomenology.md
 - **Type**: other
 - **Notes**: Pessimistic review (2026-02-16 evening) flagged "Gallagher, S., & Zahavi, D. (2025). Cognitive science needs phenomenology. *Journal for the Theory of Social Behaviour*. Advance online publication." as potentially fictitious. Verify this citation exists; if not, remove or replace with a verifiable source. See pessimistic-2026-02-16-evening.md
