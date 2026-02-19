@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-19 22:21 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-perceptual-constancy]]
+- **Word count**: 1421 → 1696 (+275)
+- **Critical issues addressed**: 2 (sub-millisecond factual error, straw physicalism in core argument)
+- **Medium issues addressed**: 5 (predictive processing engagement, cross-links, constancy breakdown phenomenology, spectral precision, Palmer citation)
+- **Enhancements made**: 5 (5 new cross-links, predictive processing references, phenomenological expansion, conscious/unconscious distinction, restructured core argument)
+- **Output**: [[reviews/deep-review-2026-02-19-phenomenology-of-perceptual-constancy]]
+
 ## 2026-02-19 21:36 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[phenomenology-of-skill-and-the-lived-body]], [[paradox-of-effortless-mastery]], [[phenomenology-of-skill-transition]]
