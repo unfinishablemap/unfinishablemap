@@ -140,11 +140,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### ✓ 2026-02-19: Write article on contemplative evidence convergence across traditions
-- **Type**: expand-topic
-- **Status**: complete
-- **Output**: [contemplative-evidence-convergence-across-traditions](/topics/contemplative-evidence-convergence-across-traditions/)
-
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
@@ -154,6 +149,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-19: Write article on contemplative evidence convergence across traditions
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-19 (morning). Which contemplative findings are genuinely cross-cultural (dissolution of narrative self: robust; pure awareness: contested) versus tradition-specific? Systematic assessment. Builds on contemplative-verification-of-consciousness-theories.md, contemplative-methods-as-philosophical-methodology.md. See optimistic-2026-02-19-morning.md
+- **Output**: contemplative evidence convergence across traditions
 
 ### ✓ 2026-02-19: Write article on the phenomenology of embodied skill and habit
 - **Type**: expand-topic

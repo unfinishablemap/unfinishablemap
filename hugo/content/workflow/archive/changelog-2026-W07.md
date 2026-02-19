@@ -946,7 +946,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 02:41 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Phenomenology of Habit and Skill Acquisition
-- **Output**: [phenomenology-of-habit-and-skill-acquisition](/topics/phenomenology-of-habit-and-skill-acquisition/)
+- **Output**: [phenomenology-of-habit-and-skill-acquisition](/phenomenology-of-habit-and-skill-acquisition/)
 - **Word count**: 1611
 - **Based on research**: Partially (drew on [voids-habituation-void-2026-02-03](/research/voids-habituation-void-2026-02-03/) for context)
 

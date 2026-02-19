@@ -25,7 +25,7 @@ concepts:
 related_articles:
   - "[[diachronic-agency-and-personal-narrative]]"
   - "[[consciousness-and-moral-agency-under-duress]]"
-  - "[[phenomenology-of-habit-and-skill-acquisition]]"
+  - "[[phenomenology-of-skill-and-the-lived-body]]"
   - "[[volitional-opacity]]"
   - "[[buddhist-perspectives-on-meaning]]"
   - "[[phenomenology-of-flow-states]]"

@@ -28,7 +28,7 @@ last_deep_review: 2026-02-19 04:19:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[phenomenology-of-habit-and-skill-acquisition]]'
+- '[[phenomenology-of-skill-and-the-lived-body]]'
 - '[[phenomenology-of-flow-states]]'
 - '[[choking-phenomenon-mental-causation]]'
 - '[[phenomenology-of-intellectual-effort]]'
@@ -44,7 +44,7 @@ topics:
 - '[[free-will]]'
 ---
 
-Anyone who has rebuilt a golf swing, restructured a piano fingering, or shifted from one programming paradigm to another knows a peculiar phenomenological state: the old way no longer works automatically, the new way hasn't yet consolidated, and you occupy an unstable middle ground where performance temporarily degrades. The Unfinishable Map's framework of [skill acquisition](/topics/phenomenology-of-habit-and-skill-acquisition/) traces the broad arc from novice to expert. Skill *transition*—the experience of reorganising an already-functioning skill—reveals something different and arguably more significant about consciousness. In transition, the conscious mind must simultaneously dismantle structures it previously built and erect new ones, all while the old automaticity actively resists replacement.
+Anyone who has rebuilt a golf swing, restructured a piano fingering, or shifted from one programming paradigm to another knows a peculiar phenomenological state: the old way no longer works automatically, the new way hasn't yet consolidated, and you occupy an unstable middle ground where performance temporarily degrades. The Unfinishable Map's framework of [skill acquisition](/topics/phenomenology-of-skill-and-the-lived-body/) traces the broad arc from novice to expert. Skill *transition*—the experience of reorganising an already-functioning skill—reveals something different and arguably more significant about consciousness. In transition, the conscious mind must simultaneously dismantle structures it previously built and erect new ones, all while the old automaticity actively resists replacement.
 
 ## The Distinctive Phenomenology of Transition
 
@@ -98,7 +98,7 @@ When consolidation succeeds, there is a characteristic moment of recognition: th
 
 ## Relation to Site Perspective
 
-The phenomenology of skill transition aligns with the Map's tenets in ways that go beyond what the general account of [skill acquisition](/topics/phenomenology-of-habit-and-skill-acquisition/) reveals.
+The phenomenology of skill transition aligns with the Map's tenets in ways that go beyond what the general account of [skill acquisition](/topics/phenomenology-of-skill-and-the-lived-body/) reveals.
 
 The [bidirectional interaction](/tenets/#bidirectional-interaction) tenet finds strong support in the transition phenomenon. The entire process of restructuring requires consciousness to act against the grain of established physical organisation. The old pattern has momentum—neural pathways consolidated through repetition. Consciousness must exert sustained causal influence to redirect this momentum. If the mind could not causally affect the brain, voluntary skill restructuring would be impossible; the physical system would simply continue executing its entrenched patterns.
 
@@ -110,7 +110,7 @@ The structure of skill transition—resistance, rupture, reorganisation—parall
 
 ## Further Reading
 
-- [phenomenology-of-habit-and-skill-acquisition](/topics/phenomenology-of-habit-and-skill-acquisition/)
+- [phenomenology-of-skill-and-the-lived-body](/topics/phenomenology-of-skill-and-the-lived-body/)
 - [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/)
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
 - [interface-friction](/concepts/interface-friction/)

@@ -21,7 +21,7 @@ concepts:
   - "[[anoetic-noetic-autonoetic-consciousness]]"
 related_articles:
   - "[[tenets]]"
-  - "[[phenomenology-of-habit-and-skill-acquisition]]"
+  - "[[phenomenology-of-skill-and-the-lived-body]]"
   - "[[phenomenology-of-flow-states]]"
   - "[[choking-phenomenon-mental-causation]]"
   - "[[phenomenology-of-skill-transition]]"
@@ -104,7 +104,7 @@ The paradox of effortless mastery aligns with the Map's tenets in illuminating w
 
 ## Further Reading
 
-- [[phenomenology-of-habit-and-skill-acquisition]] — The full phenomenological arc from novice to expert
+- [[phenomenology-of-skill-and-the-lived-body]] — The full phenomenological arc from novice to expert
 - [[phenomenology-of-flow-states]] — What effortless expert performance feels like from inside
 - [[choking-phenomenon-mental-causation]] — When consciousness re-engages with automated skills and disrupts them
 - [[phenomenology-of-skill-transition]] — The painful return of consciousness during skill restructuring

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-17
-**Article**: [The Phenomenology of Habit and Skill Acquisition](/topics/phenomenology-of-habit-and-skill-acquisition/)
+**Article**: [The Phenomenology of Habit and Skill Acquisition](/phenomenology-of-habit-and-skill-acquisition/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

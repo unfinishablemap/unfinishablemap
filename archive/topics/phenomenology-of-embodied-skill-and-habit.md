@@ -6,6 +6,11 @@ modified: 2026-02-19
 human_modified:
 ai_modified: 2026-02-19T08:49:00+00:00
 draft: false
+archived: true
+archived_date: 2026-02-19T09:34:00+00:00
+superseded_by: "/topics/phenomenology-of-skill-and-the-lived-body/"
+archive_reason: "Coalesced into The Phenomenology of Skill, Habit, and the Lived Body"
+original_path: "/topics/phenomenology-of-embodied-skill-and-habit/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
