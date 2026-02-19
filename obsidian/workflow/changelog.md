@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-19 04:49 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Substrate Void — what non-physical consciousness is "made of"
+- **Category**: Unexplorable / Occluded
+- **Output**: [[research/voids-substrate-void-2026-02-19]]
+- **Key finding**: 2,500 years of philosophy have produced no positive, non-circular account of mental substance; every attempt collapses into negation (not-extended, not-spatial) or circularity (defined by reference to consciousness itself), suggesting the void is structural rather than merely epistemically difficult
+
 ## 2026-02-19 04:19 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-skill-transition]]
