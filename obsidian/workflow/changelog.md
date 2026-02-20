@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 16:51 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Threshold Void
+- **Category**: Mixed — Unexplorable and Occluded
+- **Output**: [[research/voids-threshold-void-2026-02-20]]
+- **Key finding**: The impossibility of identifying where consciousness begins or ends operates through a "double invisibility" — from the inside, consciousness cannot witness its own onset or cessation; from the outside, no measurement definitively establishes the presence of consciousness
+
 ## 2026-02-20 16:21 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-inferential-understanding]]
