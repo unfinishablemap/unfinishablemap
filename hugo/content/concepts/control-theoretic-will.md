@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-02-19 09:51:00+00:00
+ai_modified: 2026-02-20 13:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,7 +31,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map's framework implies that consciousness operates not as a computational planner but as a **low-bandwidth control signal**. The brain generates options, runs simulations, and prepares competing action plans; consciousness selects among them through a ~10 bits/second channel. This architecture maps directly onto control theory—the engineering discipline concerned with how a system steers itself toward desired states given feedback, constraints, and limited authority over the plant it governs. Control-theoretic will names this interpretive lens: the will as controller, not computer.
+The Unfinishable Map's framework implies that consciousness operates not as a computational planner but as a **low-bandwidth control signal**. The brain generates options, runs simulations, and prepares competing action plans; consciousness selects among them through a ~10 bits/second channel. This architecture finds a natural analogue in control theory—the engineering discipline concerned with how a system steers itself toward desired states given feedback, constraints, and limited authority over the plant it governs. Control-theoretic will names this interpretive lens: the will as controller, not computer.
 
 This reframing matters because it specifies what consciousness *can* and *cannot* do within the Map's commitments, distinguishes the Map's position from computational models of mind, and connects to formal tools (stability analysis, feedback loops, gain parameters) that could make the Map's claims more precise.
 
@@ -44,7 +44,7 @@ Computational models of mind treat consciousness as a processing system—one th
 - [Attentional economics](/concepts/attentional-economics/) describes how a scarce resource (~10 bits/second) gets allocated among competing demands
 - [Motor selection](/concepts/motor-selection/) shows the brain generating multiple action plans in parallel, with consciousness biasing which one reaches threshold
 
-In control-theoretic terms: the brain is the **plant** (the system being controlled), unconscious neural processing is the **dynamics** (the plant's own behaviour), and consciousness is the **controller**—an external agent that observes state, applies a control law, and outputs a low-bandwidth signal that steers the plant without replacing its dynamics.
+In control-theoretic terms: the brain is the **plant** (the system being controlled), unconscious neural processing is the **dynamics** (the plant's own behaviour), and consciousness is the **controller**—the agent that observes state, applies a control law, and outputs a low-bandwidth signal that steers the plant without replacing its dynamics.
 
 | Control Theory | Map Framework |
 |----------------|---------------|
@@ -114,9 +114,21 @@ This framing must be distinguished from several positions it resembles but does 
 
 **Not eliminativism about rich inner life.** Saying consciousness operates as a controller does not reduce phenomenal experience to control signals. Qualia, the felt quality of experience, is how the controller *receives* feedback—the sensor channel. The richness of phenomenal life is the richness of the feedback the controller gets from the plant.
 
+## Analogy, Model, and Ontology
+
+The mapping table above, and the controller/plant vocabulary throughout this article, function as a **modelling tool**—not as evidence for any particular ontology. This distinction matters and deserves explicit treatment.
+
+Control theory is a mathematical framework for describing systems with feedback and regulation. Engineers apply it to thermostats, aircraft, and chemical plants. Nothing in the formalism requires the controller and plant to be ontologically distinct substances. A cruise control system is part of the same physical car it governs. A thermostat is embedded in the thermal system it regulates. The controller/plant distinction is *functional*, not necessarily *metaphysical*.
+
+A physicalist could adopt every element of the control-theoretic framing in this article—the five operations, the bandwidth constraint, the stability analysis—while maintaining that consciousness is an emergent property of brain processes. The "controller" would then be a functional description of certain neural subsystems, not a separate substance. The framing would remain useful for predicting behaviour, characterising disorders, and specifying what consciousness does, all without dualist commitments.
+
+The Unfinishable Map *does* hold that the controller is ontologically distinct from the plant. But this commitment comes from the Map's independent arguments for dualism (the hard problem, the conceivability argument, the limits of physical explanation), not from control theory itself. The control-theoretic framing is compatible with dualism and *illuminates* what dualist interaction might look like in practice, but it does not *establish* dualism. The argument runs: *if* consciousness is distinct from the brain (for independent reasons), *then* control theory provides a precise vocabulary for how that distinct entity could interact with the brain through a low-bandwidth channel.
+
+Conflating the model with the ontology would be a category error—treating a useful description of *what happens* as proof of *what exists*. The five control operations remain valuable descriptions of conscious function regardless of one's metaphysical commitments. What the Map adds is the claim that these operations are performed by a genuinely non-physical controller, a claim that must be defended on independent grounds.
+
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: The control-theoretic framing presupposes dualism. The controller is distinct from the plant it governs. If consciousness were identical to brain processes, the controller/plant distinction would collapse—one cannot steer oneself from outside oneself without a distinction between steerer and steered.
+**[Dualism](/tenets/#dualism)**: The Map's dualism is not derived from the control-theoretic framing but is *expressed through* it. The independent case for dualism (the hard problem, conceivability arguments, the explanatory gap) gives reason to treat the controller as ontologically separate from the plant. Control theory then specifies what this separation looks like in practice: a low-bandwidth, feedback-dependent regulatory relationship. The framing makes dualist interaction concrete and testable without itself being the argument for dualism.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Control theory naturally accommodates minimal intervention. A well-designed controller uses the smallest signal necessary to maintain desired behaviour. The ~10 bits/second bandwidth is not a limitation to be lamented but a design feature consistent with minimal coupling—consciousness exerts just enough influence to steer, no more.
 
@@ -154,3 +166,16 @@ This framing must be distinguished from several positions it resembles but does 
 - Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Wiener, N. (1948). *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press.
+
+<!-- AI REFINEMENT LOG - 2026-02-20
+Changes made:
+- Added "Analogy, Model, and Ontology" section explicitly addressing the gap between control-theoretic modelling and ontological claims
+- Rewrote dualism paragraph in "Relation to Site Perspective" to clarify that dualism is expressed through (not derived from) the control-theoretic framing
+- Softened "maps directly onto" to "finds a natural analogue in" in the opening summary
+- Removed "external" from "an external agent" in controller description to avoid begging the ontological question
+
+Based on pessimistic review (2026-02-20 afternoon) identifying analogy-to-ontology gap.
+Key improvements: Article now honestly distinguishes the modelling tool from the ontological commitment, acknowledging that a physicalist could use the same control vocabulary without dualist commitments.
+
+This log should be removed after human review.
+-->

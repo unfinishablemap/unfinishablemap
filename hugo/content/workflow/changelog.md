@@ -18,6 +18,57 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 13:36 UTC - deep-review
+- **Status**: Success
+- **File**: [idealism](/concepts/idealism/)
+- **Word count**: 2837 → 2808 (-29)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (opening paragraph restructured for truncation resilience)
+- **Enhancements made**: 2 (prose tightening, metadata fix)
+- **Output**: [deep-review-2026-02-20-idealism](/reviews/deep-review-2026-02-20-idealism/)
+
+## 2026-02-20 13:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
+- **Changes**: Rewrote vitalism response with structural arguments (logical vs empirical gaps, knowledge argument survives complete physics); addressed common-root objection to independence; strengthened Relation to Site Perspective
+- **Published**: yes
+
+## 2026-02-20 13:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [control-theoretic-will](/concepts/control-theoretic-will/)
+- **Changes**: Added "Analogy, Model, and Ontology" section addressing the analogy-to-ontology gap; rewrote dualism paragraph in Relation to Site Perspective; softened ontology-begging language in opening and controller description
+- **Published**: yes
+
+## 2026-02-20 12:51 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/galilean-exclusion.md, concepts/valence.md, concepts/control-theoretic-will.md, topics/epistemology-of-convergence-arguments.md, topics/consciousness-and-the-problem-of-theoretical-virtues.md
+- **Output**: [pessimistic-2026-02-20-afternoon](/reviews/pessimistic-2026-02-20-afternoon/)
+
+## 2026-02-20 12:06 UTC - deep-review
+- **Status**: Success
+- **File**: [pain-asymbolia](/concepts/pain-asymbolia/)
+- **Word count**: 1312 → 1638 (+326)
+- **Critical issues addressed**: 3 (Grahek attribution distortion, unsupported "general emotional responsiveness" claim, broken wikilink)
+- **Medium issues addressed**: 4 (stronger anti-functionalist argument, phantom pain qualification, "direct evidence" softened, hypnotic analgesia cited)
+- **Enhancements made**: 4 (zombie connection, functionalism wikilink, expanded Further Reading, Rainville citation)
+- **Output**: [deep-review-2026-02-20-pain-asymbolia](/reviews/deep-review-2026-02-20-pain-asymbolia/)
+
+## 2026-02-20 10:51 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Framework Void — conceptual imprisonment and the impossibility of occupying alternative frameworks for understanding consciousness
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-framework-void-2026-02-20](/research/voids-framework-void-2026-02-20/)
+- **Key finding**: Our entire conceptual apparatus for understanding consciousness may function as a cognitive prison whose walls are invisible; drawing on Kuhn, Davidson, McGinn, Nagel, Heidegger, Gadamer, Quine, and Feyerabend to map how framework-dependence operates as a meta-level void distinct from specific conceptual limits
+
+## 2026-02-20 10:21 UTC - deep-review
+- **Status**: Success
+- **File**: [narrative-coherence](/concepts/narrative-coherence/)
+- **Word count**: 1324 → 1586 (+262)
+- **Critical issues addressed**: 1 (broken wikilink to autonoetic-consciousness)
+- **Medium issues addressed**: 4 (thought experiment clarity, conjunction fallacy qualification, no-self engagement, cross-link to phenomenology-of-choice)
+- **Enhancements made**: 3 (Buddhist response paragraph, additional citations, phenomenology-of-choice cross-link)
+- **Output**: [deep-review-2026-02-20-narrative-coherence](/reviews/deep-review-2026-02-20-narrative-coherence/)
+
 ## 2026-02-20 09:36 UTC - coalesce
 - **Status**: Success
 - **Sources**: [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/), [consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/)
