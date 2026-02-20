@@ -151,11 +151,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and the problem of theoretical virtues
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-20. The measurement standards article shows standard scientific methodology breaks down for consciousness. Systematically evaluate how consciousness resists each standard theoretical virtue (prediction, unification, scope, fertility) — and whether this resistance is diagnostic of irreducibility or merely practical difficulty. Builds on consciousness-and-the-problem-of-measurement-standards.md, consciousness-and-the-philosophy-of-explanation.md, the-convergence-argument-for-dualism.md. See optimistic-2026-02-20.md
-
 ### P3: Write article on the interface location problem revisited
 - **Type**: expand-topic
 - **Status**: pending
@@ -170,6 +165,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Write article on consciousness and the problem of theoretical virtues
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-20. The measurement standards article shows standard scientific methodology breaks down for consciousness. Systematically evaluate how consciousness resists each standard theoretical virtue (prediction, unification, scope, fertility) — and whether this resistance is diagnostic of irreducibility or merely practical difficulty. Builds on consciousness-and-the-problem-of-measurement-standards.md, consciousness-and-the-philosophy-of-explanation.md, the-convergence-argument-for-dualism.md. See optimistic-2026-02-20.md
+- **Output**: consciousness and the problem of theoretical virtues
 
 ### ✓ 2026-02-20: Write article on the phenomenology of cognitive automatisation
 - **Type**: expand-topic
