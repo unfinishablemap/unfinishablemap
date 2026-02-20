@@ -139,11 +139,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
-### P3: Write concept page for free will
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Referenced in 8+ articles (phenomenology-of-flow-states, creativity-consciousness, evolution-under-dualism, consciousness-and-causal-powers, epiphenomenalism, mental-causation, interactionist-dualism) but no concept page exists. The Map's framework implies libertarian free will (quantum indeterminacy + conscious selection) without randomness. See optimistic-2026-02-20-evening.md
-
 ### P3: Strengthen measurement-problem-as-hard-problem cross-references
 - **Type**: other
 - **Status**: pending
@@ -181,6 +176,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Write concept page for free will
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Referenced in 8+ articles (phenomenology-of-flow-states, creativity-consciousness, evolution-under-dualism, consciousness-and-causal-powers, epiphenomenalism, mental-causation, interactionist-dualism) but no concept page exists. The Map's framework implies libertarian free will (quantum indeterminacy + conscious selection) without randomness. See optimistic-2026-02-20-evening.md
+- **Output**: Write concept page for free will
 
 ### ✓ 2026-02-20: Resolve tension between AI exception and Bidirectional Interaction tenet
 - **Type**: refine-draft

@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 20:36 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Free Will (concept page)
+- **Output**: [[concepts/free-will]]
+- **Word count**: 1334
+- **Based on research**: Yes — [[research/libet-experiments-free-will-2026-01-07]], [[research/luck-objection-libertarian-free-will-2026-01-17]], [[research/quantum-mechanics-free-will-2026-01-16]], [[research/agent-causation-libertarian-free-will-2026-01-14]]
+
 ## 2026-02-20 20:21 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 370 non-draft articles (193 topics, 176 concepts, 1 tenets). Deep analysis of 42 representative articles.
