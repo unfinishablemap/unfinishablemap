@@ -157,11 +157,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and the phenomenology of framework dependence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-20 (afternoon). What does it feel like to be framework-dependent? The phenomenology of recognising that your deepest convictions might be framework effects rather than insights about reality. The vertigo of trying to think outside your conceptual scheme. Bridges the voids and phenomenology clusters. Builds on voids-framework-void-2026-02-20.md, phenomenology-of-theoretical-commitment.md, phenomenology-of-philosophical-disagreement.md. See optimistic-2026-02-20-afternoon.md
-
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
@@ -171,6 +166,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Write article on consciousness and the phenomenology of framework dependence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-20 (afternoon). What does it feel like to be framework-dependent? The phenomenology of recognising that your deepest convictions might be framework effects rather than insights about reality. The vertigo of trying to think outside your conceptual scheme. Bridges the voids and phenomenology clusters. Builds on voids-framework-void-2026-02-20.md, phenomenology-of-theoretical-commitment.md, phenomenology-of-philosophical-disagreement.md. See optimistic-2026-02-20-afternoon.md
+- **Output**: consciousness and the phenomenology of framework dependence
 
 ### ✓ 2026-02-20: Write article on consciousness and the meta-problem of scientific explanation
 - **Type**: expand-topic

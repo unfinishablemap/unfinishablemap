@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 15:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Phenomenology of Framework Dependence
+- **Output**: [[topics/consciousness-and-the-phenomenology-of-framework-dependence]]
+- **Word count**: 1737
+- **Based on research**: yes, [[research/voids-framework-void-2026-02-20]]
+
 ## 2026-02-20 15:06 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/philosophy-of-perception-under-dualism]]
