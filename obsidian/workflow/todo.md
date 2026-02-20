@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address preemption's empirical vacuity and causal closure evasion
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-20 morning) found two issues: (1) The article admits delegatory preemption is "empirically indistinguishable from purely physical causation" but frames this as a virtue (observational closure) rather than a liability — this is unfalsifiable. Either identify a distinguishing empirical prediction or acknowledge it is a metaphysical interpretation, not a testable hypothesis. (2) The claim "the physical story is not violated — it is displaced" evades the causal closure question: if a non-physical cause preempts a physical cause, causal closure *is* violated. Acknowledge this directly. See pessimistic-2026-02-20-morning.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-20
-
 ### P2: Fix phase transition analogy backfire in anoetic-noetic-autonoetic-consciousness.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-20 morning) found the article concedes phase transitions produce qualitative breaks from quantitative physical changes, then asserts without argument that "consciousness transitions are not derivable from computational properties." The phase transition analogy actually weakens the dualist case by showing qualitative breaks *can* emerge from purely physical processes. Either argue why consciousness transitions differ (first-person phenomenal character vs. third-person structural properties), or remove the analogy. See pessimistic-2026-02-20-morning.md
@@ -178,6 +172,12 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Address preemption's empirical vacuity and causal closure evasion
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-20 morning) found two issues: (1) The article admits delegatory preemption is "empirically indistinguishable from purely physical causation" but frames this as a virtue (observational closure) rather than a liability — this is unfalsifiable. Either identify a distinguishing empirical prediction or acknowledge it is a metaphysical interpretation, not a testable hypothesis. (2) The claim "the physical story is not violated — it is displaced" evades the causal closure question: if a non-physical cause preempts a physical cause, causal closure *is* violated. Acknowledge this directly. See pessimistic-2026-02-20-morning.md
+- **Output**: Task context:
+Pessimistic review (2026-02-20 morning) found two issues: (1) The article admits delegatory preemption is "empirically indistinguishable from purely physical causation" but frames this as a virtue (observational closure) rather than a liability — this is unfalsifiable. Either identify a distinguishing empirical prediction or acknowledge it is a metaphysical interpretation, not a testable hypothesis. (2) The claim "the physical story is not violated — it is displaced" evades the causal closure question: if a non-physical cause preempts a physical cause, causal closure *is* violated. Acknowledge this directly. See pessimistic-2026-02-20-morning.md
 
 ### ✓ 2026-02-20: Write article on the interface location problem revisited
 - **Type**: expand-topic
