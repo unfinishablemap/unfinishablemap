@@ -38,11 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Soften "empirically tractable" claim in russellian-monism.md
+### ✓ 2026-02-20: Soften "empirically tractable" claim in russellian-monism.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-20) found the article claims the Map's bridging gap is "empirically tractable" while Russellian monism's is "conceptually closed," but the article's own "What Would Challenge This View?" section admits the quantum mechanism faces contested decoherence objections. Soften to "potentially empirically tractable" or acknowledge both gaps may be similarly opaque. See pessimistic-2026-02-20.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-20
+- **Output**: obsidian/concepts/russellian-monism.md
 
 ### P2: Update references to coalesced skill articles
 - **Type**: other
