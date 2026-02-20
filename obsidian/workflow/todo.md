@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address mechanism smuggling and simulation ad-hoc argument in locality.md and authentic-vs-inauthentic-choice.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-20) found three high-severity issues: (1) locality.md's simulation argument is ad hoc—introduced solely to dissolve the locality objection with no independent motivation. Either remove or independently motivate. (2) authentic-vs-inauthentic-choice.md's "Neural Evidence" section presents neural signatures (frontal theta, decision windows) as supporting the Map's non-physical selection function, when they equally support physicalism. Reframe as "consistent with" rather than "supporting." (3) locality.md's Response 1 commits a category error—physical law coordination is descriptive regularity, not an additional causal agent; the analogy fails at its core. Also fix broken anchor in phenomenal-overflow.md (^bidirectional should be ^bidirectional-interaction). See pessimistic-2026-02-20.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-20
+
+### P2: Strengthen discourse argument in intersubjectivity.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-20) found the discourse argument contains a non-sequitur: cross-cultural convergence on consciousness vocabulary is claimed to track real phenomenology, but the article dismisses the "shared neural architecture" alternative by appeal to "specificity" without a principled criterion for what level of specificity distinguishes phenomenological tracking from neural convergence. Also: the article never engages with non-reductive physicalism—intersubjective convergence supports phenomenological realism but not directly substance dualism. See pessimistic-2026-02-20.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-20
+
+### P2: Soften "empirically tractable" claim in russellian-monism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-20) found the article claims the Map's bridging gap is "empirically tractable" while Russellian monism's is "conceptually closed," but the article's own "What Would Challenge This View?" section admits the quantum mechanism faces contested decoherence objections. Soften to "potentially empirically tractable" or acknowledge both gaps may be similarly opaque. See pessimistic-2026-02-20.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-20
+
 ### P2: Update references to coalesced skill articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-19) merged `phenomenology-of-skill-and-the-lived-body.md`, `paradox-of-effortless-mastery.md`, and `phenomenology-of-skill-transition.md` into `consciousness-and-skilled-performance.md`. 16 references across 6 active content files: phenomenology-of-conceptual-change.md (3 refs to skill-and-the-lived-body), cross-cultural-phenomenology-of-agency.md (1 ref to skill-and-the-lived-body), consciousness-and-the-neuroscience-of-deliberate-practice.md (5 refs to all three), phenomenology-of-flow-states.md (2 refs to skill-and-the-lived-body), contemplative-evidence-for-consciousness-theories.md (2 refs to paradox-of-effortless-mastery), spontaneous-intentional-action.md (2 refs to paradox-of-effortless-mastery). Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[consciousness-and-skilled-performance]]` where appropriate.
