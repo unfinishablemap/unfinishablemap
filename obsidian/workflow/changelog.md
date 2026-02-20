@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 16:21 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-inferential-understanding]]
+- **Word count**: 2210 → 2862 (+652)
+- **Critical issues addressed**: 1 (broken link to non-existent article)
+- **Medium issues addressed**: 5 (GWT engagement, associationism modernised, MWI rewritten, What Would Challenge section added, mysterian epistemic humility)
+- **Enhancements made**: 6 (blind inference enriched, 6 cross-links added, phenomenal binding link, MWI tenet strengthened, falsifiability section, mysterian note)
+- **Output**: [[reviews/deep-review-2026-02-20-phenomenology-of-inferential-understanding]]
+
 ## 2026-02-20 15:36 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[topics/consciousness-and-the-problem-of-normative-force]], [[topics/consciousness-and-normative-authority]], [[topics/consciousness-and-the-problem-of-normative-integration]]
