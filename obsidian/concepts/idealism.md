@@ -4,7 +4,7 @@ description: "Consciousness is fundamental; matter is derivative or appearance. 
 created: 2026-01-08
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-02-15T13:26:00+00:00
+ai_modified: 2026-02-20T13:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,15 +31,17 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-20T13:36:00+00:00
 coalesced_from:
   - "/concepts/idealism/"
   - "/concepts/analytic-idealism/"
 ---
 
-Idealism is the view that consciousness is fundamental and matter is derivative—the inverse of physicalism. In its contemporary analytic form, developed primarily by Bernardo Kastrup, matter doesn't exist independently at all; it is the extrinsic appearance of mental processes. Physical reality is what universal consciousness looks like from a dissociated perspective. The Unfinishable Map shares idealism's conviction that consciousness is fundamental but maintains a crucial difference: physical reality exists distinctly and consciousness interacts with it bidirectionally. The Map's [[dualism|dualist framework]] takes consciousness seriously (with idealism) while also taking physics seriously (against idealism).
+Idealism is the view that consciousness is fundamental and matter is derivative—the inverse of physicalism. The Unfinishable Map shares idealism's conviction that consciousness is fundamental but maintains a crucial difference: physical reality exists distinctly and consciousness interacts with it bidirectionally. The Map's [[dualism|dualist framework]] takes consciousness seriously (with idealism) while also taking physics seriously (against idealism).
 
-This difference matters for how we understand causation, science, and individual significance. If matter is merely appearance, what is consciousness interacting with when you decide to raise your arm and the arm rises? The Map's [[interactionist-dualism|interactionist position]] holds that something genuinely physical responds to conscious choice—a claim idealism cannot accommodate without reducing "interaction" to one part of consciousness affecting another.
+In its contemporary analytic form, developed primarily by Bernardo Kastrup, matter doesn't exist independently at all; it is the extrinsic appearance of mental processes. Physical reality is what universal consciousness looks like from a dissociated perspective.
+
+This difference matters for causation, science, and individual significance. If matter is merely appearance, what is consciousness interacting with when you decide to raise your arm? The Map's [[interactionist-dualism|interactionist position]] holds that something genuinely physical responds to conscious choice—a claim idealism cannot accommodate without reducing "interaction" to one part of consciousness affecting another.
 
 ## The Idealist Vision
 
@@ -71,9 +73,9 @@ The Map accepts the hard problem's force and avoids it via dualism—consciousne
 
 How does one consciousness become many? Kastrup's answer: dissociation.
 
-Dissociative identity disorder (DID) demonstrates that a single psyche can split into apparently separate personalities, each with its own experiences and memories. Analytic idealism proposes something similar at cosmic scale: universal consciousness dissociates into individual minds, each experiencing itself as separate.
+Dissociative identity disorder (DID) demonstrates that a single psyche can split into apparently separate personalities, each with its own experiences and memories. Analytic idealism proposes something similar at cosmic scale: universal consciousness dissociates into individual minds.
 
-This explains why minds are similar (dissociations of the same consciousness share basic structure), why we can communicate (language bridges dissociated alters), and why physical laws are uniform ("matter" is how universal consciousness constrains its own dissociations).
+This explains why minds share basic structure, why communication is possible, and why physical laws are uniform ("matter" is how universal consciousness constrains its own dissociations).
 
 The brain, on this view, is what the dissociation *looks like* from outside. Neural correlates of consciousness are the extrinsic appearance of the dissociation boundary, not the production of consciousness from non-conscious matter.
 
@@ -81,7 +83,7 @@ The brain, on this view, is what the dissociation *looks like* from outside. Neu
 
 [[panpsychism|Panpsychism]] faces the [[combination-problem]]—how do micro-experiences combine into unified consciousness? Idealism faces the inverse: how does unified consciousness *divide* into separate experiences?
 
-Kastrup argues the dissociation problem is easier. We have an empirical model—DID—for how unity becomes apparent plurality. We have no model for how plurality becomes genuine unity. Critics respond that DID involves a brain already functioning as a unified system; applying dissociation cosmically is a large extrapolation. Kastrup's response: dissociation as a psychological phenomenon (one perspective fragmenting into subjectively separate viewpoints) could occur at any scale where consciousness exists. The analogy isn't "brains can do it, so the cosmos can"; it's "division of perspective is conceptually possible."
+Kastrup argues the dissociation problem is easier: we have an empirical model (DID) for how unity becomes apparent plurality, but no model for how plurality becomes genuine unity. Critics respond that DID involves a brain already functioning as a unified system; applying dissociation cosmically is a large extrapolation. Kastrup's response: dissociation as a psychological phenomenon could occur at any scale where consciousness exists. The analogy isn't "brains can do it, so the cosmos can"; it's "division of perspective is conceptually possible."
 
 ## Agreements with the Map
 
@@ -185,7 +187,7 @@ Idealism and dualism may seem empirically equivalent—both predict the same bra
 
 **Interface specificity**: Dualism predicts consciousness interfaces with matter at specific sites. If [[interface-locality]] proves empirically robust—if consciousness really is bounded by embodiment—this supports a genuine physical interface rather than patterns in universal mind.
 
-**Multiple observer scenarios**: The [[multi-mind-collapse-problem]] asks how multiple consciousnesses coordinate. Dualism answers: each interfaces only with its own brain, while objective physical processes determine shared facts. A decisive experiment would require scenarios where dualism and idealism make different predictions about intersubjective coordination—difficult to construct, but not obviously impossible.
+**Multiple observer scenarios**: The [[multi-mind-collapse-problem]] asks how multiple consciousnesses coordinate. Dualism answers: each interfaces only with its own brain, while objective physical processes determine shared facts. A decisive experiment would require scenarios where the two frameworks make different predictions about intersubjective coordination—difficult to construct, but not obviously impossible.
 
 **Filter theory predictions**: If [[filter-theory]] is correct—if reduced neural activity can *expand* consciousness rather than just diminishing it—this favors consciousness's independence from the brain. But filter theory is neutral between dualism and idealism; the evidence supports consciousness's independence, not its exclusive ontological status.
 
