@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 19:36 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/valence]]
+- **Word count**: 1055 → 1150 (+95)
+- **Critical issues addressed**: 3 (misattribution Cutter & Tye → Cleeremans & Tallon-Baudry, author order Russell & Barrett, Smithies date fix)
+- **Medium issues addressed**: 1 (functionalist reinterpretation of asymbolia)
+- **Enhancements made**: 4 (functionalist rebuttal paragraph, 3 cross-links added)
+- **Output**: [[reviews/deep-review-2026-02-20-valence]]
+
 ## 2026-02-20 19:21 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/epiphenomenalism]]
