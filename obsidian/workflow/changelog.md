@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 07:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [[phenomenal-acquaintance]]
+- **Changes**: Engaged Loar's PCS and non-reductive physicalism substantively; added HOT theory challenge with dualist reply; reframed Dualism tenet section to distinguish substance dualism from phenomenological realism; sharpened opening paragraph
+- **Published**: yes
+
 ## 2026-02-20 07:36 UTC - deep-review
 - **Status**: Success
 - **File**: [[episodic-memory]]

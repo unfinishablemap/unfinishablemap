@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Engage non-reductive physicalism in phenomenal-acquaintance.md and categorical-surprise.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-20 morning) found that both articles treat the argumentative landscape as a binary between reductive physicalism and dualism, ignoring non-reductive physicalism — the dominant contemporary position — which accepts phenomenal properties' reality and mental causation without substance dualism. Phenomenal-acquaintance.md should engage Loar's phenomenal concepts strategy more substantively. Categorical-surprise.md should address emergentist physicalist accounts where framework transcendence is a higher-order physical capacity. Both should explain why their arguments support substance dualism specifically, not merely phenomenological realism. See pessimistic-2026-02-20-morning.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-20
-
 ### P2: Update references to coalesced skill articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-19) merged `phenomenology-of-skill-and-the-lived-body.md`, `paradox-of-effortless-mastery.md`, and `phenomenology-of-skill-transition.md` into `consciousness-and-skilled-performance.md`. 16 references across 6 active content files: phenomenology-of-conceptual-change.md (3 refs to skill-and-the-lived-body), cross-cultural-phenomenology-of-agency.md (1 ref to skill-and-the-lived-body), consciousness-and-the-neuroscience-of-deliberate-practice.md (5 refs to all three), phenomenology-of-flow-states.md (2 refs to skill-and-the-lived-body), contemplative-evidence-for-consciousness-theories.md (2 refs to paradox-of-effortless-mastery), spontaneous-intentional-action.md (2 refs to paradox-of-effortless-mastery). Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[consciousness-and-skilled-performance]]` where appropriate.
@@ -166,6 +160,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Engage non-reductive physicalism in phenomenal-acquaintance.md and categorical-surprise.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-20 morning) found that both articles treat the argumentative landscape as a binary between reductive physicalism and dualism, ignoring non-reductive physicalism — the dominant contemporary position — which accepts phenomenal properties' reality and mental causation without substance dualism. Phenomenal-acquaintance.md should engage Loar's phenomenal concepts strategy more substantively. Categorical-surprise.md should address emergentist physicalist accounts where framework transcendence is a higher-order physical capacity. Both should explain why their arguments support substance dualism specifically, not merely phenomenological realism. See pessimistic-2026-02-20-morning.md
+- **Output**: obsidian/concepts/phenomenal-acquaintance.md
+
+Task context:
+Pessimistic review (2026-02-20 morning) found that both articles treat the argumentative landscape as a binary between reductive physicalism and dualism, ignoring non-reductive physicalism — the dominant contemporary position — which accepts phenomenal properties' reality and mental causation without substance dualism. Phenomenal-acquaintance.md should engage Loar's phenomenal concepts strategy more substantively. Categorical-surprise.md should address emergentist physicalist accounts where framework transcendence is a higher-order physical capacity. Both should explain why their arguments support substance dualism specifically, not merely phenomenological realism. See pessimistic-2026-02-20-morning.md
 
 ### ✓ 2026-02-20: Fix phase transition analogy backfire in anoetic-noetic-autonoetic-consciousness.md
 - **Type**: refine-draft
