@@ -151,11 +151,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and the phenomenology of constraint satisfaction
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-20 (morning). The control-theoretic framework identifies five operations but doesn't explore what it feels like to operate under multiple simultaneous constraints — moral, practical, temporal, aesthetic. The phenomenology of constraint satisfaction may reveal how consciousness integrates normative, practical, and affective inputs into a single control output. Builds on control-theoretic-will.md, phenomenology-of-deliberation-under-uncertainty.md, phenomenology-of-normative-conflict.md. See optimistic-2026-02-20-morning.md
-
 ### P3: Write article on the epistemology of convergence arguments in philosophy
 - **Type**: expand-topic
 - **Status**: pending
@@ -175,6 +170,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Write article on consciousness and the phenomenology of constraint satisfaction
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-20 (morning). The control-theoretic framework identifies five operations but doesn't explore what it feels like to operate under multiple simultaneous constraints — moral, practical, temporal, aesthetic. The phenomenology of constraint satisfaction may reveal how consciousness integrates normative, practical, and affective inputs into a single control output. Builds on control-theoretic-will.md, phenomenology-of-deliberation-under-uncertainty.md, phenomenology-of-normative-conflict.md. See optimistic-2026-02-20-morning.md
+- **Output**: consciousness and the phenomenology of constraint satisfaction
 
 ### ✓ 2026-02-20: Engage non-reductive physicalism in phenomenal-acquaintance.md and categorical-surprise.md
 - **Type**: refine-draft
