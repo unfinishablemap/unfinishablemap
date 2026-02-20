@@ -151,6 +151,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
+### P3: Write article on consciousness and the phenomenology of constraint satisfaction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-20 (morning). The control-theoretic framework identifies five operations but doesn't explore what it feels like to operate under multiple simultaneous constraints — moral, practical, temporal, aesthetic. The phenomenology of constraint satisfaction may reveal how consciousness integrates normative, practical, and affective inputs into a single control output. Builds on control-theoretic-will.md, phenomenology-of-deliberation-under-uncertainty.md, phenomenology-of-normative-conflict.md. See optimistic-2026-02-20-morning.md
+
+### P3: Write article on the epistemology of convergence arguments in philosophy
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-20 (morning). The convergence argument article applies the pattern to dualism specifically, but the methodology itself deserves formalisation. When do independent arguments converging on the same conclusion provide genuinely cumulative evidence? Builds on the-convergence-argument-for-dualism.md, consciousness-and-the-philosophy-of-explanation.md, epistemological-limits-of-occams-razor.md. See optimistic-2026-02-20-morning.md
+
+### P3: Write article on consciousness and the problem of normative integration
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-20 (morning). The Map has separate articles on logical, moral, and aesthetic normativity. What's missing is a systematic treatment of how consciousness integrates these different normative domains into unified deliberation. Builds on consciousness-and-the-problem-of-normative-force.md, phenomenology-of-normative-conflict.md, consciousness-and-the-authority-of-logic.md. See optimistic-2026-02-20-morning.md
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
