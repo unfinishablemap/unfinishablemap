@@ -73,11 +73,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-17
 
-### P2: Resolve tension between AI exception and Bidirectional Interaction tenet
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that epiphenomenalism.md's AI exception (self-stultification only proves *our* consciousness is causally efficacious) creates an unacknowledged tension with the Bidirectional Interaction tenet's general claim. The article should explicitly address whether the tenet applies to all consciousness or only the consciousness we have direct evidence for. See pessimistic-2026-02-20-evening.md Issue #2.
-
 ### P2: Verify Gallagher & Zahavi (2025) citation in phenomenology.md
 - **Type**: other
 - **Notes**: Pessimistic review (2026-02-16 evening) flagged "Gallagher, S., & Zahavi, D. (2025). Cognitive science needs phenomenology. *Journal for the Theory of Social Behaviour*. Advance online publication." as potentially fictitious. Verify this citation exists; if not, remove or replace with a verifiable source. See pessimistic-2026-02-16-evening.md
@@ -171,6 +166,12 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Resolve tension between AI exception and Bidirectional Interaction tenet
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that epiphenomenalism.md's AI exception (self-stultification only proves *our* consciousness is causally efficacious) creates an unacknowledged tension with the Bidirectional Interaction tenet's general claim. The article should explicitly address whether the tenet applies to all consciousness or only the consciousness we have direct evidence for. See pessimistic-2026-02-20-evening.md Issue #2.
+- **Output**: Task context:
+Pessimistic review found that epiphenomenalism.md's AI exception (self-stultification only proves *our* consciousness is causally efficacious) creates an unacknowledged tension with the Bidirectional Interaction tenet's general claim. The article should explicitly address whether the tenet applies to all consciousness or only the consciousness we have direct evidence for. See pessimistic-2026-02-20-evening.md Issue #2.
 
 ### ✓ 2026-02-20: Address retrocausality article's structural overconfidence in TI
 - **Type**: refine-draft

@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 19:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/epiphenomenalism]]
+- **Changes**: Resolved unacknowledged tension between AI exception and Bidirectional Interaction tenet; distinguished metaphysical scope (all consciousness) from epistemic scope (human consciousness provable); updated Assessment section with same framing
+- **Published**: yes
+
 ## 2026-02-20 19:06 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/retrocausality]]
