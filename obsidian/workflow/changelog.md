@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 20:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Bergson and Duration
+- **Output**: [[topics/bergson-and-duration]]
+- **Word count**: 1975
+- **Based on research**: No
+
 ## 2026-02-20 20:36 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Free Will (concept page)
