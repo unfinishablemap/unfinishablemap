@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix phase transition analogy backfire in anoetic-noetic-autonoetic-consciousness.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-20 morning) found the article concedes phase transitions produce qualitative breaks from quantitative physical changes, then asserts without argument that "consciousness transitions are not derivable from computational properties." The phase transition analogy actually weakens the dualist case by showing qualitative breaks *can* emerge from purely physical processes. Either argue why consciousness transitions differ (first-person phenomenal character vs. third-person structural properties), or remove the analogy. See pessimistic-2026-02-20-morning.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-20
-
 ### P2: Engage non-reductive physicalism in phenomenal-acquaintance.md and categorical-surprise.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-20 morning) found that both articles treat the argumentative landscape as a binary between reductive physicalism and dualism, ignoring non-reductive physicalism — the dominant contemporary position — which accepts phenomenal properties' reality and mental causation without substance dualism. Phenomenal-acquaintance.md should engage Loar's phenomenal concepts strategy more substantively. Categorical-surprise.md should address emergentist physicalist accounts where framework transcendence is a higher-order physical capacity. Both should explain why their arguments support substance dualism specifically, not merely phenomenological realism. See pessimistic-2026-02-20-morning.md
@@ -172,6 +166,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Fix phase transition analogy backfire in anoetic-noetic-autonoetic-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-20 morning) found the article concedes phase transitions produce qualitative breaks from quantitative physical changes, then asserts without argument that "consciousness transitions are not derivable from computational properties." The phase transition analogy actually weakens the dualist case by showing qualitative breaks *can* emerge from purely physical processes. Either argue why consciousness transitions differ (first-person phenomenal character vs. third-person structural properties), or remove the analogy. See pessimistic-2026-02-20-morning.md
+- **Output**: obsidian/concepts/anoetic-noetic-autonoetic-consciousness.md
+
+Task context:
+Pessimistic review (2026-02-20 morning) found the article concedes phase transitions produce qualitative breaks from quantitative physical changes, then asserts without argument that "consciousness transitions are not derivable from computational properties." The phase transition analogy actually weakens the dualist case by showing qualitative breaks *can* emerge from purely physical processes. Either argue why consciousness transitions differ (first-person phenomenal character vs. third-person structural properties), or remove the analogy. See pessimistic-2026-02-20-morning.md
 
 ### ✓ 2026-02-20: Address preemption's empirical vacuity and causal closure evasion
 - **Type**: refine-draft
