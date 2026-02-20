@@ -78,7 +78,7 @@ topics: []
 
 Body text:
 - [emotional-consciousness](/topics/emotional-consciousness/) — in the emotional reality section
-- [free-will](/topics/free-will/) — in counterfactual inhabitation
+- [free-will](/concepts/free-will/) — in counterfactual inhabitation
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — open alternatives for deliberation
 - [creativity-void](/voids/creativity-void/) — generative mystery of imagination
 - [mysterianism](/concepts/mysterianism/) — opacity of imaginative construction

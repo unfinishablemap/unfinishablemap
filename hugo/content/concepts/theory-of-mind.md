@@ -171,7 +171,7 @@ Consider the difference between:
 
 Only the third supports moral blame. Responsibility requires representing the agent as aware of their mental states—capable of evaluating reasons and choosing among alternatives. This is why we don't hold young children or great apes morally responsible for harms in the way we hold human adults responsible: they lack the metarepresentational capacity to stand back from their impulses and choose.
 
-The connection to [free will](/topics/free-will/) is direct. Libertarian free will requires consciousness enabling consideration of alternatives; moral responsibility requires theory of mind enabling attribution of that same consciousness to others. Both depend on the metarepresentational threshold—and if that threshold requires phenomenal consciousness, then moral cognition does too.
+The connection to [free will](/concepts/free-will/) is direct. Libertarian free will requires consciousness enabling consideration of alternatives; moral responsibility requires theory of mind enabling attribution of that same consciousness to others. Both depend on the metarepresentational threshold—and if that threshold requires phenomenal consciousness, then moral cognition does too.
 
 ## The Illusionist Challenge
 

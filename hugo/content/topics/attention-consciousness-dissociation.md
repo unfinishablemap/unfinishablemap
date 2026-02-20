@@ -171,7 +171,7 @@ When you sustain focus against distraction, something works. The experience of e
 
 The [attention-as-interface](/concepts/attention-as-interface/) hypothesis offers an interpretation: effort feels real because it *is* real work. On Stapp's quantum Zeno mechanism, sustained attention requires continuous engagement to hold neural patterns stable through repeated observation. The phenomenology of effort corresponds to actual engagement.
 
-This connects dissociation to [free-will](/topics/free-will/). If attention can be effortful, and if that effort produces differential outcomes (neuroplastic change under sustained attention but not passive observation), then the felt sense of striving has genuine causal consequences. Dissociation evidence locates where this causation operates: through attention, not identically with it.
+This connects dissociation to [free-will](/concepts/free-will/). If attention can be effortful, and if that effort produces differential outcomes (neuroplastic change under sustained attention but not passive observation), then the felt sense of striving has genuine causal consequences. Dissociation evidence locates where this causation operates: through attention, not identically with it.
 
 ## Relation to Site Perspective
 

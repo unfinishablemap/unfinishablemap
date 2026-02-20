@@ -1,21 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-02-16 20:59:00+00:00
+ai_modified: 2026-02-20 21:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[mental-causation]]'
 - '[[selection-laws]]'
-- '[[psychophysical-coupling]]'
+- '[[psychophysical-laws]]'
 - '[[interactionist-dualism]]'
 - '[[quantum-consciousness]]'
 - '[[attention-as-interface]]'
 - '[[causal-closure]]'
 - '[[epiphenomenalism]]'
 - '[[pairing-problem]]'
-- '[[interface-locality]]'
 - '[[coupling-modes]]'
+- '[[valence]]'
 created: 2026-02-16
 date: &id001 2026-02-16
 description: 'The hardest open challenge for interactionist dualism: specifying exactly
@@ -24,6 +24,7 @@ description: 'The hardest open challenge for interactionist dualism: specifying 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-20 21:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,7 +37,9 @@ topics:
 - '[[free-will]]'
 ---
 
-If consciousness influences the physical world by biasing quantum outcomes in the brain, exactly which conscious states bias which outcomes, through what mechanism, and by how much? This is the interface specification problem—the most significant open challenge facing The Unfinishable Map's interactionist framework. The Map can say *that* consciousness acts on matter (the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet), *where* it acts (at quantum indeterminacies, per [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)), and *through what neural architecture* it acts (the unified [attention-motor interface](/topics/attention-as-selection-interface/)). What remains unspecified is the lawful mapping from phenomenal properties to physical selections—what Jonathan Schaffer calls the "t-shirt problem," the absence of anything as compact and precise as F=ma for the mind-matter interface.
+If consciousness influences the physical world by biasing quantum outcomes in the brain, exactly which conscious states bias which outcomes, through what mechanism, and by how much? This is the interface specification problem—the most significant open challenge facing The Unfinishable Map's interactionist framework.
+
+The Map can say *that* consciousness acts on matter (the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet), *where* it acts (at quantum indeterminacies, per [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)), and *through what neural architecture* it acts (the unified [attention-motor interface](/topics/attention-as-selection-interface/)). What remains unspecified is the lawful mapping from phenomenal properties to physical selections—what Chalmers (1996, p. 214) calls the "t-shirt problem": the absence of psychophysical laws compact and precise enough to fit on a t-shirt, as F=ma can. The problem is a descendant of [Princess Elisabeth's original challenge](/topics/princess-elizabeths-challenge/) to Descartes: if mind and body are distinct, how do they interact?
 
 This article examines what the specification problem demands, what partial answers exist, why it remains unsolved, and whether its difficulty is a temporary embarrassment or a permanent feature.
 
@@ -50,7 +53,7 @@ A fully specified interface would answer four questions:
 
 **3. What is the transfer function?** How does a given mental state map quantitatively to a physical effect? More attention should produce more effect—but how much more? Linearly? With diminishing returns? With a threshold below which nothing happens? Without a transfer function, "consciousness biases outcomes" is a qualitative sketch, not a testable theory.
 
-**4. What are the boundary conditions?** Under what circumstances does selection operate, and under what circumstances does it fail? The ~10 bits/second [bandwidth constraint](/topics/neural-bandwidth-constraints-and-the-interface/) on conscious processing suggests one boundary. [Interface-locality](/interface-locality/)—the restriction of mental causation to the subject's own brain—suggests another. A complete specification would derive these constraints rather than stipulating them.
+**4. What are the boundary conditions?** Under what circumstances does selection operate, and under what circumstances does it fail? The ~10 bits/second [bandwidth constraint](/topics/neural-bandwidth-constraints-and-the-interface/) on conscious processing suggests one boundary. Interface locality—the restriction of mental causation to the subject's own brain (a constraint related to the [pairing-problem](/concepts/pairing-problem/))—suggests another. A complete specification would derive these constraints rather than stipulating them.
 
 ## Partial Answers
 
@@ -65,7 +68,7 @@ Henry Stapp's quantum Zeno model provides the most detailed specification availa
 **Transfer function**: Higher attention → higher observation rate → longer pattern persistence. The relationship is monotonic, though the precise functional form is unspecified.
 **Boundary conditions**: Only neural systems already within the subject's attentional scope. Only genuinely quantum-indeterminate events.
 
-Stapp's proposal meets the basic adequacy standard—it specifies *which* phenomenal property affects *which* physical parameter through *what* mechanism. Schwartz's OCD research provides indirect support: patients who direct sustained attention to reframe intrusive thoughts show measurable changes in caudate metabolism. The 2019 Rajan et al. findings on theta-band oscillations during willed attention provide a neural signature distinguishing willed from automatic processing, consistent with (though not proving) a distinct causal mechanism.
+Stapp's proposal meets the basic adequacy standard—it specifies *which* phenomenal property affects *which* physical parameter through *what* mechanism. Schwartz's OCD research provides indirect support: patients who direct sustained attention to reframe intrusive thoughts show measurable changes in caudate metabolism. The 2019 Rajan et al. findings on theta-band oscillations during willed attention provide a neural signature distinguishing willed from instructed processing, consistent with (though not proving) a distinct causal mechanism.
 
 The limitations are real. Georgiev's Monte Carlo simulations challenge whether the Zeno effect operates on the timescales required. Stapp responds that these simulations oversimplify the quantum system, but consensus has not emerged.
 
@@ -84,7 +87,7 @@ This proposal is less developed than Stapp's and faces the [pairing-problem](/co
 
 Three other candidates remain at the qualitative stage:
 
-- **Valence → action selection**: Felt pleasure and pain bias approach/avoidance. Evidence from pain asymbolia (patients who register pain cognitively but lack the felt badness, and fail to avoid harm) supports the causal role of phenomenal valence. But no quantum mechanism has been proposed.
+- **[Valence](/concepts/valence/) → action selection**: Felt pleasure and pain bias approach/avoidance. Evidence from pain asymbolia (patients who register pain cognitively but lack the felt badness, and fail to avoid harm) supports the causal role of phenomenal valence. But no quantum mechanism has been proposed.
 - **Qualia → basis selection**: Qualitative character might determine which quantum measurement basis applies. Purely speculative.
 - **Phenomenal unity → sustained entanglement**: The binding of experience into a unified field might correspond to sustained quantum coherence. But correlation does not establish the causal direction.
 
@@ -176,20 +179,21 @@ The specification problem is the Map's most significant open challenge. Acknowle
 ## Further Reading
 
 - [selection-laws](/concepts/selection-laws/) — What selection laws must specify and candidate formulations
-- [psychophysical-coupling](/psychophysical-coupling/) — Five candidate mechanisms for mind-matter coupling
+- [psychophysical-laws](/concepts/psychophysical-laws/) — Fundamental principles connecting conscious experience to physical processes
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy of how consciousness couples: basis, timing, or probability control
 - [mental-causation](/concepts/mental-causation/) — The broader case for consciousness causing physical effects
 - [attention-as-selection-interface](/topics/attention-as-selection-interface/) — The unified attention-motor interface where selection occurs
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Integrated overview of psychophysical laws
 - [neural-bandwidth-constraints-and-the-interface](/topics/neural-bandwidth-constraints-and-the-interface/) — The ~10 bits/second constraint on conscious selection
 - [pairing-problem](/concepts/pairing-problem/) — What connects a particular mind to a particular body
-- [interface-locality](/interface-locality/) — Why consciousness affects only its own brain
 - [princess-elizabeths-challenge](/topics/princess-elizabeths-challenge/) — The original formulation of the interaction problem
 
 ## References
 
 - Bell, J.S. (1990). Against 'Measurement'. *Physics World*, 3(8), 33-40.
+- Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 - Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
+- Georgiev, D. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039.
 - Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 - Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
 - Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.

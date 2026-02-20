@@ -74,7 +74,7 @@ topics: []
 ### Cross-links Added
 
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) - agency and temporal structure
-- [free-will](/topics/free-will/) - temporal agency
+- [free-will](/concepts/free-will/) - temporal agency
 - [agent-causation](/concepts/agent-causation/) - self as originator in time
 - [illusionism](/concepts/illusionism/) - challenge to temporal phenomenology
 - [philosophy-of-time](/concepts/philosophy-of-time/) - A-theory, B-theory

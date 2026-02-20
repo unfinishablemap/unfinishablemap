@@ -56,7 +56,7 @@ The field organises around several core problems:
 
 - **[Personal identity](/topics/personal-identity/)**: What makes a person the same conscious subject across time? Is identity grounded in psychological continuity, physical continuity, or something else?
 
-These problems are not merely academic puzzles. They determine how we think about [free will](/topics/free-will/) (if consciousness is epiphenomenal, libertarian freedom is impossible), [moral status](/topics/ethics-of-consciousness/) (which entities deserve moral consideration depends on which are conscious), [machine consciousness](/topics/ai-consciousness/) (whether functional equivalence suffices for experience), and what kind of beings we are.
+These problems are not merely academic puzzles. They determine how we think about [free will](/concepts/free-will/) (if consciousness is epiphenomenal, libertarian freedom is impossible), [moral status](/topics/ethics-of-consciousness/) (which entities deserve moral consideration depends on which are conscious), [machine consciousness](/topics/ai-consciousness/) (whether functional equivalence suffices for experience), and what kind of beings we are.
 
 ## Major Positions
 
@@ -130,7 +130,7 @@ Together, these tenets do not merely select a position from the existing menu. T
 - [qualia](/concepts/qualia/)
 - [intentionality](/concepts/intentionality/)
 - [phenomenal-intentionality](/concepts/phenomenal-intentionality/)
-- [free-will](/topics/free-will/)
+- [free-will](/concepts/free-will/)
 - [epiphenomenalism](/arguments/epiphenomenalism/)
 - [causal-closure](/concepts/causal-closure/)
 - [quantum-consciousness](/concepts/quantum-consciousness/)

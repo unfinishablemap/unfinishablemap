@@ -80,7 +80,7 @@ None. The article was well-structured and philosophically sound.
 - [qualia](/concepts/qualia/) - Added to concepts and in-text
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) - Added to concepts, in-text, and Further Reading
 - [moral-responsibility](/concepts/moral-responsibility/) - Added to concepts and in-text
-- [free-will](/topics/free-will/) - Added to concepts, in-text, and Further Reading
+- [free-will](/concepts/free-will/) - Added to concepts, in-text, and Further Reading
 - [mysterianism](/concepts/mysterianism/) - Added to concepts and in-text
 - [emergence](/concepts/emergence/) - Added in-text connection
 

@@ -124,7 +124,7 @@ This asymmetry should discipline the Map's argumentation. Where the Map draws on
 
 ### Bidirectional Interaction
 
-Contemplative verification is strongest here. The neuroplasticity findings meet all three verification conditions (specificity, independence, replicability) and provide strong evidence against [epiphenomenalism](/arguments/epiphenomenalism/). The Map can cite this as genuine verification that consciousness is causally efficacious—a finding that also bears on [the free will debate](/topics/free-will/), since it demonstrates empirically the kind of mental causation that libertarian theories require.
+Contemplative verification is strongest here. The neuroplasticity findings meet all three verification conditions (specificity, independence, replicability) and provide strong evidence against [epiphenomenalism](/arguments/epiphenomenalism/). The Map can cite this as genuine verification that consciousness is causally efficacious—a finding that also bears on [the free will debate](/concepts/free-will/), since it demonstrates empirically the kind of mental causation that libertarian theories require.
 
 ### Dualism
 

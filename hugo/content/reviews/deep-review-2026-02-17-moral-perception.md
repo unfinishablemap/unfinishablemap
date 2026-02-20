@@ -67,7 +67,7 @@ topics: []
 - [emotional-consciousness](/topics/emotional-consciousness/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [explanatory-gap](/concepts/explanatory-gap/)
-- [phenomenology-of-moral-perception](/topics/phenomenology-of-moral-perception/)
+- [phenomenology-of-moral-perception](/phenomenology-of-moral-perception/)
 - [moral-phenomenology](/concepts/moral-phenomenology/)
 - [phenomenal-normativity](/concepts/phenomenal-normativity/)
 - [affective-void](/voids/affective-void/)

@@ -78,7 +78,7 @@ None. The article had no factual errors, attribution errors, or internal contrad
 - [integrated-information-theory](/concepts/integrated-information-theory/)
 - [arguments-against-materialism](/arguments-against-materialism/)
 - [phenomenal-intentionality](/concepts/phenomenal-intentionality/)
-- [free-will](/topics/free-will/)
+- [free-will](/concepts/free-will/)
 - [epiphenomenalism](/arguments/epiphenomenalism/)
 - [causal-closure](/concepts/causal-closure/)
 - [quantum-consciousness](/concepts/quantum-consciousness/)

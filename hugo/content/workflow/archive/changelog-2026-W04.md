@@ -4017,7 +4017,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
   - Better engagement with many-worlds decision theory before explaining phenomenology problem
 - **Enhancements made**: 4
   - New "Implications for Free Will" section connecting to libertarian free will
-  - Cross-links to [free-will](/topics/free-will/) and [introspection](/concepts/introspection/)
+  - Cross-links to [free-will](/concepts/free-will/) and [introspection](/concepts/introspection/)
   - Updated concepts frontmatter and Further Reading
   - Cleaned up References section
 - **Output**: `reviews/deep-review-2026-01-22-baseline-cognition.md`
@@ -6715,7 +6715,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
 - Lieberman reference: corrected year (2007) and softened claim to match cited source
 **Medium issues addressed**: 2
 - Access/phenomenal consciousness: strengthened discussion to show access consciousness is still consciousness
-- Cross-links: added [qualia](/concepts/qualia/), [knowledge-argument](/concepts/knowledge-argument/), [free-will](/topics/free-will/)
+- Cross-links: added [qualia](/concepts/qualia/), [knowledge-argument](/concepts/knowledge-argument/), [free-will](/concepts/free-will/)
 **Enhancements made**: Added voluntary action → free will connection
 **Output**: `reviews/deep-review-2026-01-25-conscious-vs-unconscious-processing.md`
 

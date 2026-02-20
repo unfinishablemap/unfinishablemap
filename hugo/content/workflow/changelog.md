@@ -18,6 +18,76 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 21:36 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/), [phenomenology-of-moral-perception](/topics/phenomenology-of-moral-perception/)
+- **Target**: [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/)
+- **Archived**: [phenomenology-of-moral-perception](/archive/topics/phenomenology-of-moral-perception/)
+- **References to review**: 1 (concepts/moral-perception.md — updated inline)
+
+## 2026-02-20 21:06 UTC - deep-review
+- **Status**: Success
+- **File**: [the-interface-specification-problem](/topics/the-interface-specification-problem/)
+- **Word count**: 2290 → 2354 (+64)
+- **Critical issues addressed**: 4 (misattribution of t-shirt problem, 2 broken wikilinks, missing Georgiev citation)
+- **Medium issues addressed**: 2 (Rajan terminology, dense opening paragraph)
+- **Enhancements made**: 3 (Princess Elisabeth cross-link, valence wikilink, Chalmers reference)
+- **Output**: [deep-review-2026-02-20-the-interface-specification-problem](/reviews/deep-review-2026-02-20-the-interface-specification-problem/)
+
+## 2026-02-20 20:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Bergson and Duration
+- **Output**: [bergson-and-duration](/topics/bergson-and-duration/)
+- **Word count**: 1975
+- **Based on research**: No
+
+## 2026-02-20 20:36 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Free Will (concept page)
+- **Output**: [free-will](/concepts/free-will/)
+- **Word count**: 1334
+- **Based on research**: Yes — [libet-experiments-free-will-2026-01-07](/research/libet-experiments-free-will-2026-01-07/), [luck-objection-libertarian-free-will-2026-01-17](/research/luck-objection-libertarian-free-will-2026-01-17/), [quantum-mechanics-free-will-2026-01-16](/research/quantum-mechanics-free-will-2026-01-16/), [agent-causation-libertarian-free-will-2026-01-14](/research/agent-causation-libertarian-free-will-2026-01-14/)
+
+## 2026-02-20 20:21 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 370 non-draft articles (193 topics, 176 concepts, 1 tenets). Deep analysis of 42 representative articles.
+- **Output**: [optimistic-2026-02-20-evening](/reviews/optimistic-2026-02-20-evening/)
+
+## 2026-02-20 19:36 UTC - deep-review
+- **Status**: Success
+- **File**: [valence](/concepts/valence/)
+- **Word count**: 1055 → 1150 (+95)
+- **Critical issues addressed**: 3 (misattribution Cutter & Tye → Cleeremans & Tallon-Baudry, author order Russell & Barrett, Smithies date fix)
+- **Medium issues addressed**: 1 (functionalist reinterpretation of asymbolia)
+- **Enhancements made**: 4 (functionalist rebuttal paragraph, 3 cross-links added)
+- **Output**: [deep-review-2026-02-20-valence](/reviews/deep-review-2026-02-20-valence/)
+
+## 2026-02-20 19:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [epiphenomenalism](/concepts/epiphenomenalism/)
+- **Changes**: Resolved unacknowledged tension between AI exception and Bidirectional Interaction tenet; distinguished metaphysical scope (all consciousness) from epistemic scope (human consciousness provable); updated Assessment section with same framing
+- **Published**: yes
+
+## 2026-02-20 19:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [retrocausality](/concepts/retrocausality/)
+- **Changes**: Restructured four-step consciousness model to foreground TI dependence at each step; added explicit uncertainty paragraph for the conjunction of premises; separated Schurger/classical alternatives; condensed atemporal selection model; language fixes (removed weak hedges)
+- **Published**: yes
+
+## 2026-02-20 18:51 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/simulation.md, concepts/retrocausality.md, topics/ai-consciousness.md, concepts/epiphenomenalism.md, concepts/functionalism.md
+- **Output**: [pessimistic-2026-02-20-evening](/reviews/pessimistic-2026-02-20-evening/)
+
+## 2026-02-20 18:06 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/)
+- **Word count**: 1902 → 2372 (+470)
+- **Critical issues addressed**: 1 (No Many Worlds tenet omitted from Relation to Site Perspective)
+- **Medium issues addressed**: 5 (Humean symmetry objection, zombie-charge disanalogy, Chalmers attribution, Lewis citation, missing cross-links)
+- **Enhancements made**: 3 (quantum measurement problem connection, mysterian normalisation, charge disanalogy acknowledgment)
+- **Output**: [deep-review-2026-02-20-consciousness-and-the-metaphysics-of-laws](/reviews/deep-review-2026-02-20-consciousness-and-the-metaphysics-of-laws/)
+
 ## 2026-02-20 16:51 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Threshold Void

@@ -143,7 +143,7 @@ The argument also supports the [Occam's Razor Has Limits](/tenets/#occams-limits
 - [introspection](/concepts/introspection/) — Whether self-knowledge requires causal connection
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's tenet that consciousness causes things
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that escapes self-stultification
-- [free-will](/topics/free-will/) — Self-stultification extends to libertarian free will: choices disconnected from reasons aren't rationally authored
+- [free-will](/concepts/free-will/) — Self-stultification extends to libertarian free will: choices disconnected from reasons aren't rationally authored
 - [the-case-for-dualism](/concepts/the-case-for-dualism/) — Multiple arguments converging on irreducibility
 
 ## References

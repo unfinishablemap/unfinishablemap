@@ -168,7 +168,7 @@ The gradient occupies the space between these extremes. Agents are genuine autho
 - [attention-as-interface](/concepts/attention-as-interface/) — Why attention serves as consciousness's interface with matter
 - [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — What attentional impairments reveal about the interface
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — Responsiveness to reasons as a condition for responsibility
-- [free-will](/topics/free-will/) — The broader framework of agency and determinism
+- [free-will](/concepts/free-will/) — The broader framework of agency and determinism
 
 ## References
 

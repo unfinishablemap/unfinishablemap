@@ -156,7 +156,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [motor-selection](/concepts/motor-selection/) — The agency-passivity contrast in movement
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Phenomenological layers of ownership in choice
 - [volitional-opacity](/voids/volitional-opacity/) — Why the mechanism connecting will to action is invisible
-- [free-will](/topics/free-will/) — The broader philosophical context
+- [free-will](/concepts/free-will/) — The broader philosophical context
 - [consciousness-and-agency](/apex/consciousness-and-agency/) — Apex synthesis of agency across the Map
 
 ## References

@@ -268,7 +268,7 @@ The convergence of Kane's event-causal libertarianism (now incorporating agent-c
 
 ## Further Reading
 
-- [free-will](/topics/free-will/) — The broader free will question and the Map's position
+- [free-will](/concepts/free-will/) — The broader free will question and the Map's position
 - [luck-objection](/concepts/luck-objection/) — Detailed treatment of the central challenge to libertarian free will
 - [agent-causation](/concepts/agent-causation/) — Agent vs event causation and why the Map's framework is agent-causal
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific quantum mechanisms (Stapp, Penrose-Hameroff)

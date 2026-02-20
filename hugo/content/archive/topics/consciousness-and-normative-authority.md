@@ -131,7 +131,7 @@ The Map's position yields a distinctive implication: normative authority is not 
 - [normative-phenomenology](/concepts/normative-phenomenology/)
 - [moral-responsibility](/concepts/moral-responsibility/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
-- [free-will](/topics/free-will/)
+- [free-will](/concepts/free-will/)
 
 ## References
 

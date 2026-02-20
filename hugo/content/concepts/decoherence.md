@@ -230,7 +230,7 @@ This article surveys four responses:
 
 **Fourth**, corrected calculations and revised timescale requirements substantially narrow the gap. Tegmark's original critique rested on parameters that Orch OR does not assume, and Bandyopadhyay's discovery of higher-frequency microtubule oscillations reduces required coherence times to ranges approaching experimental feasibility.
 
-The neural decision windows (280–300ms) are precisely the timescales where [free-will](/topics/free-will/) would need to operate. If consciousness influences quantum outcomes during this window, it provides a physical substrate for [agent-causation](/concepts/agent-causation/)—genuine authorship of decisions rather than passive observation of predetermined neural activity. The [argument-from-reason](/topics/argument-from-reason/) strengthens the case: if genuine rational thought requires consciousness to have causal influence on neural activity (because purely physical causation cannot ground rational justification), then there must be *some* mechanism for mind-brain interaction. Quantum indeterminacy, properly constrained by decoherence considerations, provides a candidate mechanism.
+The neural decision windows (280–300ms) are precisely the timescales where [free-will](/concepts/free-will/) would need to operate. If consciousness influences quantum outcomes during this window, it provides a physical substrate for [agent-causation](/concepts/agent-causation/)—genuine authorship of decisions rather than passive observation of predetermined neural activity. The [argument-from-reason](/topics/argument-from-reason/) strengthens the case: if genuine rational thought requires consciousness to have causal influence on neural activity (because purely physical causation cannot ground rational justification), then there must be *some* mechanism for mind-brain interaction. Quantum indeterminacy, properly constrained by decoherence considerations, provides a candidate mechanism.
 
 The decoherence objection is a serious empirical challenge, not a philosophical refutation. Recent experiments have weakened it considerably. The quantum-classical boundary keeps receding, and no principled barrier has been found. The Map's tenets remain defensible: consciousness operating at quantum indeterminacies is not ruled out by current physics.
 
@@ -250,7 +250,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is releva
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge to consciousness studies
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of human understanding
 - [many-worlds](/arguments/many-worlds/) — Arguments against the interpretation that dissolves the measurement problem differently
-- [free-will](/topics/free-will/) — How quantum indeterminacy might ground libertarian agency
+- [free-will](/concepts/free-will/) — How quantum indeterminacy might ground libertarian agency
 - [argument-from-reason](/topics/argument-from-reason/) — Why rational thought may require consciousness to have causal efficacy
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework
 - [tenets](/tenets/) — the Map's foundational commitments

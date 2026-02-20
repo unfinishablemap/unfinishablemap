@@ -211,7 +211,7 @@ This argument is contested but highlights reflexivity: if the belief in causal c
 
 ## Causal Closure and Free Will
 
-The connection to [free-will](/topics/free-will/) is immediate. If every physical event has a sufficient physical cause, there's no room for "my choice" to make a difference—the outcome was physically determined (or randomly fluctuated within fixed probabilities).
+The connection to [free-will](/concepts/free-will/) is immediate. If every physical event has a sufficient physical cause, there's no room for "my choice" to make a difference—the outcome was physically determined (or randomly fluctuated within fixed probabilities).
 
 The Map takes a different route. Quantum indeterminism means physical outcomes are not fully determined. If consciousness can bias which indeterminate outcome occurs, it can influence events in a way that's neither determined nor random—what libertarian free will requires. Robert Kane's Self-Forming Actions framework parallels this: free will emerges at indeterministic moments where the agent's effort influences which outcome occurs. The Map provides the *mechanism* Kane leaves underspecified.
 
@@ -261,7 +261,7 @@ This is not "god of the gaps" reasoning. It's recognition that physics *describe
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-matter interaction; includes decoherence response
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view accepting closure forces
 - [cognitive closure](/concepts/mysterianism/) — McGinn's epistemic closure; distinct from but related to observational closure
-- [free-will](/topics/free-will/) — Implications for agency
+- [free-will](/concepts/free-will/) — Implications for agency
 - [materialism](/arguments/materialism/) — The worldview closure supports
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical knowledge leaves phenomenal experience unexplained
 

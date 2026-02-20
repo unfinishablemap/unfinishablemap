@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-28
-**Article**: [Free Will and Determinism](/topics/free-will/)
+**Article**: [Free Will and Determinism](/concepts/free-will/)
 **Previous review**: [2026-01-27](/reviews/deep-review-2026-01-27-free-will/)
 **Cross-review context**: motor-selection.md
 

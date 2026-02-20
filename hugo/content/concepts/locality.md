@@ -114,7 +114,7 @@ The bidirectional interaction tenet survives the locality challenge. It faces ot
 - [quantum-entanglement](/quantum-entanglement/) — The non-local correlations that challenge strict locality
 - [binding-problem](/concepts/binding-problem/) — How distributed activity yields unified experience
 - [tenets](/tenets/) — The foundational commitments these concepts serve
-- [free-will](/topics/free-will/) — How quantum selection relates to libertarian free will
+- [free-will](/concepts/free-will/) — How quantum selection relates to libertarian free will
 
 ## References
 

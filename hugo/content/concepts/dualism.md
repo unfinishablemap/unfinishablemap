@@ -165,7 +165,7 @@ What would count as evidence against dualism? If future neuroscience provided a 
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room explained
 - [qualia](/concepts/qualia/) — The phenomenal properties dualism holds are irreducible
-- [free-will](/topics/free-will/) — Why interactionist dualism matters for genuine agency
+- [free-will](/concepts/free-will/) — Why interactionist dualism matters for genuine agency
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — How Buddhist philosophy engages with dualist frameworks
 - [tenets](/tenets/) — the Map's five foundational commitments
 

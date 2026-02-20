@@ -26,7 +26,7 @@ topics: []
 
 ### Topics (4)
 1. [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) - Central to site's concerns ✓
-2. [free-will](/topics/free-will/) - Connects to bidirectional interaction ✓ (NEW)
+2. [free-will](/concepts/free-will/) - Connects to bidirectional interaction ✓ (NEW)
 3. [meaning-of-life](/topics/meaning-of-life/) - Philosophical implications ✓ (NEW)
 4. [ai-consciousness](/topics/ai-consciousness/) - Contemporary relevance ✓ (NEW)
 

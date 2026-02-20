@@ -229,7 +229,7 @@ Contemplative evidence is first-person evidence generalised across trained obser
 
 ### Bidirectional Interaction
 
-Contemplative evidence provides the strongest empirical support for this tenet. The neuroplasticity findings show consciousness causally influencing brain states; the phenomenological training effects show brain states influencing phenomenological access. Neither direction is eliminable; both are necessary. The verification meets all three conditions (specificity, independence, replicability) and provides strong evidence against [epiphenomenalism](/arguments/epiphenomenalism/) — a finding that also bears on [the free will debate](/topics/free-will/), since it demonstrates empirically the kind of mental causation that libertarian theories require.
+Contemplative evidence provides the strongest empirical support for this tenet. The neuroplasticity findings show consciousness causally influencing brain states; the phenomenological training effects show brain states influencing phenomenological access. Neither direction is eliminable; both are necessary. The verification meets all three conditions (specificity, independence, replicability) and provides strong evidence against [epiphenomenalism](/arguments/epiphenomenalism/) — a finding that also bears on [the free will debate](/concepts/free-will/), since it demonstrates empirically the kind of mental causation that libertarian theories require.
 
 ### Dualism
 

@@ -70,7 +70,7 @@ topics: []
 
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Henry Stapp's quantum Zeno mechanism
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge
-- [free-will](/topics/free-will/) — How quantum selection relates to agent causation
+- [free-will](/concepts/free-will/) — How quantum selection relates to agent causation
 
 ## Word Count
 

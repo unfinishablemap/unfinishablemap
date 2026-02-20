@@ -1,38 +1,46 @@
 ---
-title: "Phenomenology of Moral Perception"
-description: "How moral properties appear in conscious experience—the gestalt structure, attentional dynamics, and distinctive intentionality of perceiving wrongness, obligation, and goodness directly."
-created: 2026-02-16
-modified: 2026-02-16
-human_modified:
-ai_modified: 2026-02-16T20:43:00+00:00
-draft: false
-topics:
-  - "[[ethics-of-consciousness]]"
-  - "[[phenomenology-of-moral-experience]]"
-concepts:
-  - "[[moral-perception]]"
-  - "[[phenomenology]]"
-  - "[[qualia]]"
-  - "[[phenomenal-normativity]]"
-  - "[[normative-phenomenology]]"
-  - "[[introspection]]"
-related_articles:
-  - "[[tenets]]"
-  - "[[phenomenal-value-realism]]"
-  - "[[consciousness-value-connection]]"
-  - "[[normative-void]]"
-  - "[[moral-phenomenology]]"
-  - "[[contemplative-evidence-for-consciousness-theories]]"
 ai_contribution: 100
-author:
-ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-16
-last_curated:
+ai_modified: 2026-02-16 20:43:00+00:00
+ai_system: claude-opus-4-6
+archive_reason: Coalesced into The Phenomenology of Moral Experience
+archived: true
+archived_date: 2026-02-20 21:36:00+00:00
+author: null
+concepts:
+- '[[moral-perception]]'
+- '[[phenomenology]]'
+- '[[qualia]]'
+- '[[phenomenal-normativity]]'
+- '[[normative-phenomenology]]'
+- '[[introspection]]'
+created: 2026-02-16
+date: &id001 2026-02-16
+description: How moral properties appear in conscious experience—the gestalt structure,
+  attentional dynamics, and distinctive intentionality of perceiving wrongness, obligation,
+  and goodness directly.
+draft: false
+human_modified: null
+last_curated: null
+modified: *id001
+original_path: /topics/phenomenology-of-moral-perception/
+related_articles:
+- '[[tenets]]'
+- '[[phenomenal-value-realism]]'
+- '[[consciousness-value-connection]]'
+- '[[normative-void]]'
+- '[[moral-phenomenology]]'
+- '[[contemplative-evidence-for-consciousness-theories]]'
+superseded_by: /topics/phenomenology-of-moral-experience/
+title: Phenomenology of Moral Perception
+topics:
+- '[[ethics-of-consciousness]]'
+- '[[phenomenology-of-moral-experience]]'
 ---
 
-Moral perception—the direct apprehension of ethical properties in situations—has a distinctive phenomenological structure that differs from both sensory perception and moral reasoning. The Unfinishable Map holds that [[moral-perception]] is genuine: wrongness, obligation, and goodness present themselves as features of situations rather than conclusions derived from neutral facts. This article examines *how* that perceiving unfolds in experience—its temporal structure, attentional demands, gestalt character, and the specific mode of intentionality through which moral properties become phenomenally present.
+Moral perception—the direct apprehension of ethical properties in situations—has a distinctive phenomenological structure that differs from both sensory perception and moral reasoning. The Unfinishable Map holds that [moral-perception](/concepts/moral-perception/) is genuine: wrongness, obligation, and goodness present themselves as features of situations rather than conclusions derived from neutral facts. This article examines *how* that perceiving unfolds in experience—its temporal structure, attentional demands, gestalt character, and the specific mode of intentionality through which moral properties become phenomenally present.
 
-The existing [[moral-perception|concept article]] establishes *that* moral properties can be perceived. The [[phenomenology-of-moral-experience]] explores what moral experience *feels like*. This article occupies the space between: the phenomenology of the perceptual act itself.
+The existing [concept article](/concepts/moral-perception/) establishes *that* moral properties can be perceived. The [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) explores what moral experience *feels like*. This article occupies the space between: the phenomenology of the perceptual act itself.
 
 ## Moral Seeing as Gestalt Apprehension
 
@@ -84,29 +92,29 @@ This articulability gap parallels similar gaps in other perceptual domains. A wi
 
 For moral perception, the articulability gap has practical consequences. People regularly perceive moral properties they cannot defend in argument. A person who perceives that a technically legal business practice is wrong, but cannot articulate the relevant moral principle, faces a social disadvantage in contexts where articulable reasons are demanded as prerequisites for moral standing. The phenomenology suggests this demand is backwards: moral perception provides the data; moral reasoning articulates and systematises it afterward.
 
-The [[normative-void]] takes this further: some moral properties may be permanently inarticulate—perceived by consciousness but resistant to any linguistic or conceptual framework. If so, moral perception grants access to evaluative features of reality that will never be fully captured by moral theory.
+The [normative-void](/voids/normative-void/) takes this further: some moral properties may be permanently inarticulate—perceived by consciousness but resistant to any linguistic or conceptual framework. If so, moral perception grants access to evaluative features of reality that will never be fully captured by moral theory.
 
 ## Relation to Site Perspective
 
-The phenomenology of moral perception connects to the Map's [[tenets|foundational commitments]] at several points.
+The phenomenology of moral perception connects to the Map's [foundational commitments](/tenets/) at several points.
 
-**[[tenets#^dualism|Dualism]]**: The gestalt character of moral perception—the way wrongness organises an entire perceptual field rather than being assembled from neutral components—resists functional reduction. A system that processes neutral inputs and outputs a "wrong" label does not replicate the phenomenology of perceiving a situation *as wrong*. The organising, transformative quality of moral intentionality is a phenomenal property that the explanatory gap encompasses.
+**[Dualism](/tenets/#dualism)**: The gestalt character of moral perception—the way wrongness organises an entire perceptual field rather than being assembled from neutral components—resists functional reduction. A system that processes neutral inputs and outputs a "wrong" label does not replicate the phenomenology of perceiving a situation *as wrong*. The organising, transformative quality of moral intentionality is a phenomenal property that the explanatory gap encompasses.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Moral perception's dependence on attentional quality suggests that consciousness is not passively receiving moral data but actively constituting the perceptual conditions under which moral properties appear. The sustained, receptive, ego-diminished attention that reveals moral properties is itself a conscious act. If consciousness were epiphenomenal, the quality of attention should not affect what moral properties are perceived—yet it manifestly does.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Moral perception's dependence on attentional quality suggests that consciousness is not passively receiving moral data but actively constituting the perceptual conditions under which moral properties appear. The sustained, receptive, ego-diminished attention that reveals moral properties is itself a conscious act. If consciousness were epiphenomenal, the quality of attention should not affect what moral properties are perceived—yet it manifestly does.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The most parsimonious account of moral "perception" reduces it to emotional reaction plus post-hoc rationalisation. But this simple story cannot accommodate the temporal phenomenology (pre-reflective apprehension preceding emotion), the gestalt character (moral properties organising the perceptual field), or the deepening through sustained attention (which should reveal the constructive mechanism if projectivism were correct, but instead reveals more moral structure). The simpler theory fails the data.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The most parsimonious account of moral "perception" reduces it to emotional reaction plus post-hoc rationalisation. But this simple story cannot accommodate the temporal phenomenology (pre-reflective apprehension preceding emotion), the gestalt character (moral properties organising the perceptual field), or the deepening through sustained attention (which should reveal the constructive mechanism if projectivism were correct, but instead reveals more moral structure). The simpler theory fails the data.
 
 ## Further Reading
 
-- [[moral-perception]] — The capacity to perceive ethical properties directly
-- [[phenomenology-of-moral-experience]] — What moral experience feels like from the inside
-- [[moral-phenomenology]] — The philosophical study of moral experience's felt character
-- [[phenomenal-normativity]] — The thesis that phenomenal states carry intrinsic normative force
-- [[normative-phenomenology]] — First-person investigation of normative experience broadly
-- [[phenomenal-value-realism]] — The metaethical position grounding value in phenomenal properties
-- [[normative-void]] — Where moral perception reaches its limits
-- [[consciousness-value-connection]] — Why consciousness is necessary for value
-- [[contemplative-evidence-for-consciousness-theories]] — The epistemological role of contemplative practice
+- [moral-perception](/concepts/moral-perception/) — The capacity to perceive ethical properties directly
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral experience feels like from the inside
+- [moral-phenomenology](/concepts/moral-phenomenology/) — The philosophical study of moral experience's felt character
+- [phenomenal-normativity](/concepts/phenomenal-normativity/) — The thesis that phenomenal states carry intrinsic normative force
+- [normative-phenomenology](/concepts/normative-phenomenology/) — First-person investigation of normative experience broadly
+- [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — The metaethical position grounding value in phenomenal properties
+- [normative-void](/voids/normative-void/) — Where moral perception reaches its limits
+- [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — The epistemological role of contemplative practice
 
 ## References
 

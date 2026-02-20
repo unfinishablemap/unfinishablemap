@@ -40,7 +40,7 @@ topics: []
 
 7. **Missing cross-link to consciousness-value-connection**: This concept appeared in frontmatter but never in the body. Resolution: Added natural inline link in the Authority Problem section.
 
-8. **Missing cross-links**: Resolution: Added links to [epiphenomenalism](/arguments/epiphenomenalism/), [qualia](/concepts/qualia/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), and [free-will](/topics/free-will/).
+8. **Missing cross-links**: Resolution: Added links to [epiphenomenalism](/arguments/epiphenomenalism/), [qualia](/concepts/qualia/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), and [free-will](/concepts/free-will/).
 
 ### Counterarguments Considered
 
@@ -83,7 +83,7 @@ topics: []
 - [qualia](/concepts/qualia/)
 - [epiphenomenalism](/arguments/epiphenomenalism/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
-- [free-will](/topics/free-will/)
+- [free-will](/concepts/free-will/)
 
 ## Remaining Items
 

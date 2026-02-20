@@ -72,7 +72,7 @@ topics: []
 
 ### Cross-links Added
 
-- [free-will](/topics/free-will/)
+- [free-will](/concepts/free-will/)
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)
 - [consciousness-and-agency](/apex/consciousness-and-agency/)
 - [knowledge-argument](/concepts/knowledge-argument/)

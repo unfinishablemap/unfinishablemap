@@ -204,7 +204,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The causal closure loophole provides exactly the opening for minimal consciousness-physics interaction: selecting among undetermined outcomes without violating [conservation laws](/topics/conservation-laws-and-mind/).
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness selects outcomes, then conscious choices make a difference to what happens physically. This preserves the causal efficacy that [epiphenomenalism](/arguments/epiphenomenalism/) denies. This is central to [free-will](/topics/free-will/): genuine agency requires that our conscious choices make a difference to what happens.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness selects outcomes, then conscious choices make a difference to what happens physically. This preserves the causal efficacy that [epiphenomenalism](/arguments/epiphenomenalism/) denies. This is central to [free-will](/concepts/free-will/): genuine agency requires that our conscious choices make a difference to what happens.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The framework requires collapse to be real. Many-Worlds eliminates collapse, and with it consciousness's selective role. If all outcomes occur, consciousness selects nothing—it merely discovers which branch it's in. The phenomenology of single experienced outcomes is not systematically misleading.
 

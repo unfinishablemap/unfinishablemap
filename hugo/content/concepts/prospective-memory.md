@@ -175,7 +175,7 @@ Prospective memory and future-oriented consciousness support all five foundation
 - [working-memory](/concepts/working-memory/) — The cognitive workspace for future simulation
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and temporal structure
 - [specious-present](/specious-present/) — The experienced duration of "now"
-- [free-will](/topics/free-will/) — How consciousness shapes action
+- [free-will](/concepts/free-will/) — How consciousness shapes action
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of intention formation
 - [motor-selection](/concepts/motor-selection/) — Willed movement and the attention-selection interface
 - [mental-effort](/concepts/mental-effort/) — The quantum Zeno mechanism for sustained attention

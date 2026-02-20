@@ -87,7 +87,7 @@ Optimistic nihilism (sometimes called "positive nihilism" or "liberating nihilis
 
 If nothing matters inherently, then nothing *prevents* us from mattering to ourselves. The absence of a script means we can write our own. The universe's indifference is not an insult but an open invitation.
 
-This is close to existentialism, though existentialists typically resist the "nihilist" label. The distinction may be largely rhetorical. Crucially, optimistic nihilism requires [free-will](/topics/free-will/)—the ability to genuinely choose one's own meaning. If choices are illusory or determined, the freedom celebrated by optimistic nihilists would itself be a comforting fiction.
+This is close to existentialism, though existentialists typically resist the "nihilist" label. The distinction may be largely rhetorical. Crucially, optimistic nihilism requires [free-will](/concepts/free-will/)—the ability to genuinely choose one's own meaning. If choices are illusory or determined, the freedom celebrated by optimistic nihilists would itself be a comforting fiction.
 
 ## Nietzsche and the Crisis of Nihilism
 
@@ -143,7 +143,7 @@ The [mysterian](/concepts/mysterianism/) position adds a note of humility here. 
 - [existentialism](/concepts/existentialism/) - The philosophical response to nihilism
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) - Buddhist approaches to meaning and consciousness
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) - Why conscious experience grounds objective value
-- [free-will](/topics/free-will/) - The metaphysics of choice and why choices matter
+- [free-will](/concepts/free-will/) - The metaphysics of choice and why choices matter
 - [tenets](/tenets/) - the Map's foundational commitments
 
 ## References

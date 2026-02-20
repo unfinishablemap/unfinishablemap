@@ -250,7 +250,7 @@ The Map's position on quantum biology connects to all five tenets:
 - **Hypothesised**: Consciousness interfaces with quantum indeterminacy in neural systems.
 - **Uncertain**: Whether specific theories (Orch OR, QBIT, quantum Zeno) are correct.
 
-The relevance of quantum biology is primarily *defensive*: it removes a major objection to quantum consciousness without itself proving that consciousness involves quantum effects. The positive case rests on arguments from the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [mental-causation](/concepts/mental-causation/), and [free-will](/topics/free-will/)—not on quantum biology alone.
+The relevance of quantum biology is primarily *defensive*: it removes a major objection to quantum consciousness without itself proving that consciousness involves quantum effects. The positive case rests on arguments from the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [mental-causation](/concepts/mental-causation/), and [free-will](/concepts/free-will/)—not on quantum biology alone.
 
 ## Process Philosophy Perspective
 

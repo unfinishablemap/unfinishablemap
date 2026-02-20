@@ -151,7 +151,7 @@ The physicalist might respond: "What's the difference? If the outputs match corr
 - [explanatory-gap](/concepts/explanatory-gap/) - The conceptual distinction between physical and phenomenal that the argument exploits
 - [agent-causation](/concepts/agent-causation/) - How rational agents causally influence beliefs through recognizing reasons
 - [epiphenomenalism](/arguments/epiphenomenalism/) - The self-defeating position that denies mental causation
-- [free-will](/topics/free-will/) - Rational choice as paradigm case of consciousness selecting among neural patterns
+- [free-will](/concepts/free-will/) - Rational choice as paradigm case of consciousness selecting among neural patterns
 - [interactionist-dualism](/concepts/interactionist-dualism/) - The Map's framework for mind-body causation
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) - A candidate mechanism for consciousness influencing neural states
 - [voluntary-attention](/voluntary-attention/) - The phenomenology of intellectual effort and its role in reasoning

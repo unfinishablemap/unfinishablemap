@@ -73,7 +73,7 @@ topics: []
 
 - **Stapp section expanded**: Added observation frequency estimate (~1,000 per 300ms window), biological Zeno precedent (Atkins et al. 2024 cryptochrome), and phenomenological prediction (effort as signature of repetitive observation). Cross-linked to [mental-effort](/concepts/mental-effort/).
 
-- **Free will connection developed**: Added paragraph connecting the timing gap to the Map's grounding for libertarian free will through quantum indeterminacy. Cross-linked to [agent-causation](/concepts/agent-causation/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [free-will](/topics/free-will/).
+- **Free will connection developed**: Added paragraph connecting the timing gap to the Map's grounding for libertarian free will through quantum indeterminacy. Cross-linked to [agent-causation](/concepts/agent-causation/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [free-will](/concepts/free-will/).
 
 - **No Many Worlds connection added**: New paragraph in Relation to Site Perspective explaining why MWI dissolves both the problem and the proposed responses.
 
@@ -83,7 +83,7 @@ topics: []
 
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) (inline link on Stapp's quantum Zeno approach)
 - [mental-effort](/concepts/mental-effort/) (Zeno phenomenological prediction)
-- [free-will](/topics/free-will/) (gap's implications for free will)
+- [free-will](/concepts/free-will/) (gap's implications for free will)
 - [agent-causation](/concepts/agent-causation/) (Map's grounding for libertarian agency)
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) (detailed treatment of the quantum-free-will connection)
 - [measurement-problem](/concepts/measurement-problem/) (independent motivation for outcome selection question)

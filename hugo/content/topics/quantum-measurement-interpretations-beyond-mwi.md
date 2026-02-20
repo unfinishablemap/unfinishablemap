@@ -73,7 +73,7 @@ The [collapse-and-time](/concepts/collapse-and-time/) page already draws on this
 
 **Important caveat**: While time-symmetric physics is well-established mathematically, how consciousness would "participate" in transactions remains unspecified. What physical substrate in neural tissue carries retrocausal influence? How would consciousness bias confirmation waves without violating Born statistics? These are open questions, not solved problems. The interpretation *permits* consciousness-involvement but doesn't *require* it.
 
-**Relation to the Map:** High conceptual compatibility, though speculative. Time-symmetric interpretations align with the Map's use of retrocausality to preserve [free-will](/topics/free-will/). They offer a *framework* for consciousness to influence quantum outcomes without requiring faster-than-light signaling or energy injection—but the specific mechanism remains unspecified. The Map considers this the most promising interpretation family for its purposes while acknowledging the framework is philosophical, not empirically established.
+**Relation to the Map:** High conceptual compatibility, though speculative. Time-symmetric interpretations align with the Map's use of retrocausality to preserve [free-will](/concepts/free-will/). They offer a *framework* for consciousness to influence quantum outcomes without requiring faster-than-light signaling or energy injection—but the specific mechanism remains unspecified. The Map considers this the most promising interpretation family for its purposes while acknowledging the framework is philosophical, not empirically established.
 
 ## Objective Collapse Theories
 

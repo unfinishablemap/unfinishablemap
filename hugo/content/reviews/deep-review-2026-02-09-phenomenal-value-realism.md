@@ -77,7 +77,7 @@ topics: []
 ### Cross-links Added
 
 - [philosophical-zombies](/concepts/philosophical-zombies/) — in "Why Dualism Matters Here" section
-- [free-will](/topics/free-will/) — in "Beyond Hedonism" (agency discussion)
+- [free-will](/concepts/free-will/) — in "Beyond Hedonism" (agency discussion)
 - [agent-causation](/concepts/agent-causation/) — in "Beyond Hedonism" (agency discussion)
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — in "Beyond Hedonism" (understanding discussion)
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — in "The Hardest Objection" (contemplative response)

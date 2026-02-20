@@ -98,7 +98,7 @@ If [overflow](/concepts/phenomenal-overflow/) is real, attention selects what be
 
 If [consciousness causally influences the brain](/tenets/#bidirectional), access consciousness is plausibly part of that mechanism. P-consciousness operates *through* A-consciousness machinery: by modulating attention, consciousness determines what becomes A-conscious. The *machinery* of access (global workspace, prefrontal-parietal networks) is physical, but what *drives* selection may be phenomenal consciousness operating through quantum-level interactions. See [causal-closure](/concepts/causal-closure/) for how this avoids violating conservation laws.
 
-**Free will connection**: Libertarian free will requires that agents genuinely select among alternatives. A-consciousness is where alternatives become explicit—available for deliberation and choice. See [free-will](/topics/free-will/) and [the phenomenology of choice](/concepts/phenomenology-of-choice/).
+**Free will connection**: Libertarian free will requires that agents genuinely select among alternatives. A-consciousness is where alternatives become explicit—available for deliberation and choice. See [free-will](/concepts/free-will/) and [the phenomenology of choice](/concepts/phenomenology-of-choice/).
 
 ## Relation to Site Perspective {#tenets}
 

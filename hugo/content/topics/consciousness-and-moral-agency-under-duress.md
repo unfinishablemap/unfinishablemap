@@ -112,7 +112,7 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 
 ## Further Reading
 
-- [free-will](/topics/free-will/)
+- [free-will](/concepts/free-will/)
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/)
 - [moral-responsibility](/concepts/moral-responsibility/)
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/)

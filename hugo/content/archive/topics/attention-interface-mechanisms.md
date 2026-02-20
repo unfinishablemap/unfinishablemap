@@ -208,7 +208,7 @@ Different timescales interact at the interface:
 | ~300 ms | Willed attention deployment (Rajan et al.) | Full interface engagement |
 | Sustained | Maintained willed attention | Where Zeno effects accumulate |
 
-The convergence of ~280ms motor commitment and ~300ms willed attention deployment is striking. If attention and motor selection share a mechanism, this shared timescale marks where consciousness engages. This timing window is directly relevant to [free-will](/topics/free-will/) debates: it identifies when deliberation resolves into commitment—the locus where [agent-causation](/concepts/agent-causation/) could operate.
+The convergence of ~280ms motor commitment and ~300ms willed attention deployment is striking. If attention and motor selection share a mechanism, this shared timescale marks where consciousness engages. This timing window is directly relevant to [free-will](/concepts/free-will/) debates: it identifies when deliberation resolves into commitment—the locus where [agent-causation](/concepts/agent-causation/) could operate.
 
 For quantum mechanisms to work, decoherence must be slow enough to permit meaningful influence before quantum effects dissipate. Tegmark's original calculations ruled this out; revised estimates (supported by 2025 research on biological quantum effects) may permit it.
 
@@ -400,7 +400,7 @@ The Map doesn't commit to a specific mechanism. The commitment is to the framewo
 - [structure-of-attention](/topics/structure-of-attention/) — Willed, instructed, and exogenous attention
 - [dopamine-selection-interface](/dopamine-selection-interface/) — Dopamine's role in threshold modulation
 - [psychophysical-coupling](/psychophysical-coupling/) — Constraints on what consciousness can influence
-- [free-will](/topics/free-will/) — How the timing constraints relate to libertarian free will
+- [free-will](/concepts/free-will/) — How the timing constraints relate to libertarian free will
 - [agent-causation](/concepts/agent-causation/) — The selection model as agent causation
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis of readiness potential experiments
 

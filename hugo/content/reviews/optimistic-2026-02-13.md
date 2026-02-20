@@ -58,7 +58,7 @@ The Map avoids crude substance dualism in favour of what might be called "proces
 
 ### The Libertarian Free Will Defender (Kane)
 
-Kane would find the Map's treatment of free will among the most developed philosophical defences of libertarian agency available in a single resource. The [free-will](/topics/free-will/) article marshals phenomenological evidence (felt difference between choosing and observing), neural signatures (Sjöberg 2024 on SMA resection), and the Desmurget-Fried distinction (parietal stimulation produces urges; frontal stimulation produces movements) into a cumulative case.
+Kane would find the Map's treatment of free will among the most developed philosophical defences of libertarian agency available in a single resource. The [free-will](/concepts/free-will/) article marshals phenomenological evidence (felt difference between choosing and observing), neural signatures (Sjöberg 2024 on SMA resection), and the Desmurget-Fried distinction (parietal stimulation produces urges; frontal stimulation produces movements) into a cumulative case.
 
 The supporting network is where the Map exceeds what most treatments offer:
 - [agent-causation](/concepts/agent-causation/) develops the metaphysical framework

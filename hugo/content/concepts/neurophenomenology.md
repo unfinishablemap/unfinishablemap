@@ -143,7 +143,7 @@ None demonstrated. Fox et al. shows robust training effects; cross-traditional s
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Meditation demonstrates consciousness's active capacity. [Contemplative-neuroscience](/concepts/contemplative-neuroscience/) distinguishes willed attention (distinct frontal theta), instructed attention, and exogenous attention. The *content* of conscious intention matters causally: cultivating compassion produces different neural changes than sustaining breath attention.
 
-Meditation exhibits the structure of [self-forming actions](/topics/free-will/): the meditator sustains attention against competing impulses, and through effort, neural infrastructure reorganizes. The [two modes](/concepts/meditation-and-consciousness-modes/)—willed attention (effortful selection) versus witnessing awareness (effortless reception)—reveal different forms of causal efficacy.
+Meditation exhibits the structure of [self-forming actions](/concepts/free-will/): the meditator sustains attention against competing impulses, and through effort, neural infrastructure reorganizes. The [two modes](/concepts/meditation-and-consciousness-modes/)—willed attention (effortful selection) versus witnessing awareness (effortless reception)—reveal different forms of causal efficacy.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum)**: The [attention-as-interface](/concepts/attention-as-interface/) hypothesis receives support. [Stapp's quantum Zeno mechanism](/concepts/stapp-quantum-mind/) doesn't require sustained coherence; *repeated* observations can hold quantum systems in specific states despite decoherence between observations. Meditation trains exactly this: the ability to return focus rapidly and repeatedly. The temporal microstructure (~25-35ms gamma cycles) operates at scales where Zeno dynamics could accumulate effects.
 
@@ -168,7 +168,7 @@ Meditation exhibits the structure of [self-forming actions](/topics/free-will/):
 - [qualia](/concepts/qualia/) — The qualitative features that contemplative training discloses
 - [illusionism](/concepts/illusionism/) — The challenge that phenomenal consciousness is an illusion
 - [decoherence](/concepts/decoherence/) — The quantum objection and biological responses
-- [free-will](/topics/free-will/) — Self-forming actions and meditation practice
+- [free-will](/concepts/free-will/) — Self-forming actions and meditation practice
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — The contemplative traditions informing this research
 - [mysterianism](/concepts/mysterianism/) — Cognitive limits that neurophenomenology respects
 - [neurophenomenology-meditation-studies-2026-01-14](/research/neurophenomenology-meditation-studies-2026-01-14/) — Research notes on this topic

@@ -69,7 +69,7 @@ A musical phrase exemplifies this. Each note is heard *in light of* what came be
 
 ## Duration and Free Will
 
-Bergson connected durée directly to [free will](/topics/free-will/). His first major work, *Time and Free Will* (1889), argued that the apparent conflict between freedom and determinism rests on a confusion—treating lived duration as if it were spatialized time.
+Bergson connected durée directly to [free will](/concepts/free-will/). His first major work, *Time and Free Will* (1889), argued that the apparent conflict between freedom and determinism rests on a confusion—treating lived duration as if it were spatialized time.
 
 Determinism assumes that mental states are discrete, separable, and subject to causal law: state A causes state B with the same necessity as billiard ball A causes billiard ball B to move. But if mental states interpenetrate in qualitative multiplicity, this model fails. There's no distinct "state A" to serve as cause. The whole of one's past converges in each moment, not as a sum of separate influences but as an indivisible movement.
 
@@ -159,7 +159,7 @@ Bergson's durée aligns with all five site tenets:
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How duration's creative novelty relates to the generation-selection model
 - [neurophenomenology](/concepts/neurophenomenology/) — Contemplative science and access to temporal microstructure
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
-- [free-will](/topics/free-will/) — How temporal structure relates to agency
+- [free-will](/concepts/free-will/) — How temporal structure relates to agency
 - [agent-causation](/concepts/agent-causation/) — The self as originator of action in durée
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that durée parallels
 - [ai-consciousness](/topics/ai-consciousness/) — Why disembodied systems may lack temporal experience

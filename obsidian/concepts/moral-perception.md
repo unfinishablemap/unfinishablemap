@@ -25,7 +25,7 @@ related_articles:
   - "[[normative-void]]"
   - "[[consciousness-value-connection]]"
   - "[[contemplative-evidence-for-consciousness-theories]]"
-  - "[[phenomenology-of-moral-perception]]"
+  - "[[phenomenology-of-moral-experience]]"
   - "[[emotional-consciousness]]"
   - "[[downward-causation]]"
   - "[[affective-void]]"
@@ -105,8 +105,7 @@ Moral perception connects to the Map's [[tenets|foundational commitments]] at se
 
 ## Further Reading
 
-- [[phenomenology-of-moral-perception]] — The phenomenology of the perceptual act itself
-- [[phenomenology-of-moral-experience]] — Extended exploration of what moral experience feels like from the inside
+- [[phenomenology-of-moral-experience]] — What moral experience feels like and how moral perception works
 - [[moral-phenomenology]] — The broader study of moral experience's phenomenal character
 - [[phenomenal-value-realism]] — The metaethical position grounding value in phenomenal properties
 - [[phenomenal-normativity]] — How phenomenal properties carry normative force

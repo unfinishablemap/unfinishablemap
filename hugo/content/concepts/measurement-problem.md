@@ -195,7 +195,7 @@ The measurement problem is central to the Map's framework. It creates the logica
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and consciousness-modulated collapse
 - [interactionist-dualism](/concepts/interactionist-dualism/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The broader framework
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/), [interface-locality](/interface-locality/), [prebiotic-collapse](/concepts/prebiotic-collapse/) — How the Map resolves coordination puzzles
-- [free-will](/topics/free-will/) — How quantum indeterminacy enables libertarian free will
+- [free-will](/concepts/free-will/) — How quantum indeterminacy enables libertarian free will
 - [haecceity](/concepts/haecceity/) — The "thisness" grounding indexical identity
 - [mysterianism](/concepts/mysterianism/) — Why some explanatory gaps may be unclosable
 - [tenets](/tenets/) — The Map's foundational commitments

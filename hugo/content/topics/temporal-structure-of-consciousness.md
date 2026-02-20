@@ -181,7 +181,7 @@ The temporal structure of consciousness connects to all five [tenets](/tenets/):
 - [duration](/duration/) — Bergson's durée and qualitative lived time
 - [specious-present](/specious-present/) — The experienced duration of the present moment
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
-- [free-will](/topics/free-will/) — Temporal agency and the determination question
+- [free-will](/concepts/free-will/) — Temporal agency and the determination question
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader challenge of explaining experience
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — What it's like to choose, including temporal aspects
 - [neurophenomenology](/concepts/neurophenomenology/) — Integrating first-person methods with neuroscience

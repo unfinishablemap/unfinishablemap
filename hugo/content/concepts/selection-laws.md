@@ -129,7 +129,7 @@ Selection laws are where the Map's tenets become operationally precise.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** justifies the ontological commitment. Adding selection laws seems less parsimonious than physicalism. But a theory that ignores robust data isn't genuinely simpler—it's inadequate. If consciousness is causally efficacious, selection laws are necessary completions of our picture.
 
-Selection laws also bear on [free-will](/topics/free-will/). If consciousness selects among physically underdetermined alternatives, this provides a mechanism for [agent-causation](/concepts/agent-causation/)—genuine authorship of choices that isn't mere randomness. The selection isn't arbitrary; it reflects the agent's intentions and attention. This connects the metaphysics of consciousness to the metaphysics of agency.
+Selection laws also bear on [free-will](/concepts/free-will/). If consciousness selects among physically underdetermined alternatives, this provides a mechanism for [agent-causation](/concepts/agent-causation/)—genuine authorship of choices that isn't mere randomness. The selection isn't arbitrary; it reflects the agent's intentions and attention. This connects the metaphysics of consciousness to the metaphysics of agency.
 
 ## What Would Challenge This View?
 
@@ -156,7 +156,7 @@ None of these currently succeeds, but they mark conditions under which the frame
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for selection
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The attention-observation mechanism in detail
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view selection laws are designed to avoid
-- [free-will](/topics/free-will/) — How selection laws provide a mechanism for libertarian free will
+- [free-will](/concepts/free-will/) — How selection laws provide a mechanism for libertarian free will
 - [agent-causation](/concepts/agent-causation/) — Genuine authorship through mental selection
 - [tenets](/tenets/) — The Map's foundational commitments
 

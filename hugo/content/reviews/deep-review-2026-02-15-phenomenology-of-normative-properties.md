@@ -53,7 +53,7 @@ topics: []
 
 ### Enhancements Made
 - Added [valence](/concepts/valence/) cross-link in moral normativity section connecting hedonic valence to normative phenomenology
-- Added [free-will](/topics/free-will/) and [phenomenology-of-choice](/concepts/phenomenology-of-choice/) cross-links in prudential normativity section, connecting normative conflict to self-forming actions
+- Added [free-will](/concepts/free-will/) and [phenomenology-of-choice](/concepts/phenomenology-of-choice/) cross-links in prudential normativity section, connecting normative conflict to self-forming actions
 - Added [explanatory-gap](/concepts/explanatory-gap/) explicit wikilink in "Implications for Dualism" section
 - Added [consciousness-and-normative-authority](/consciousness-and-normative-authority/) to related_articles and Further Reading
 - Engaged with Prinz's sentimentalism and functionalist objections as explicit counterpoints
@@ -62,7 +62,7 @@ topics: []
 ### Cross-links Added
 - [valence](/concepts/valence/) (inline, moral normativity section)
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) (inline, prudential normativity section)
-- [free-will](/topics/free-will/) (inline, prudential normativity section + Further Reading + related_articles)
+- [free-will](/concepts/free-will/) (inline, prudential normativity section + Further Reading + related_articles)
 - [explanatory-gap](/concepts/explanatory-gap/) (inline with display text, implications section + Further Reading)
 - [consciousness-and-normative-authority](/consciousness-and-normative-authority/) (Further Reading + related_articles)
 

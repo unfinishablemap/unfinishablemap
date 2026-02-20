@@ -104,7 +104,7 @@ Evidence:
 
 ### 3. Spontaneous Intentional Action
 
-The spontaneous generation of goal-directed behavior—acting without external triggers—requires consciousness. Unconscious processing can respond to stimuli but cannot initiate action from internal states alone. This has implications for [free will](/topics/free-will/): if voluntary action depends on consciousness, then debates about whether we have free will are also debates about what consciousness can do.
+The spontaneous generation of goal-directed behavior—acting without external triggers—requires consciousness. Unconscious processing can respond to stimuli but cannot initiate action from internal states alone. This has implications for [free will](/concepts/free-will/): if voluntary action depends on consciousness, then debates about whether we have free will are also debates about what consciousness can do.
 
 The mechanism: voluntary action requires maintaining future goals while selecting appropriate motor programs. This temporal bridging between current state and desired outcome requires the sustained, flexible representations that only conscious access provides.
 

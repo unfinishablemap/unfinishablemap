@@ -188,7 +188,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - [binding-problem](/concepts/binding-problem/) — The neural coordination challenge (related but distinct)
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical testing ground in simple organisms
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The alternative avoiding the problem
-- [free-will](/topics/free-will/) — Mental causation implications of the interaction alternative
+- [free-will](/concepts/free-will/) — Mental causation implications of the interaction alternative
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem panpsychism aimed to solve
 - [qualia](/concepts/qualia/) — What must combine (or not)
 - [tenets](/tenets/) — the Map's foundational commitments

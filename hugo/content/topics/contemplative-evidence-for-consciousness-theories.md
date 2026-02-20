@@ -259,7 +259,7 @@ The causal efficacy argument depends on a collapse interpretation—consciousnes
 
 ### Free Will
 
-The distinction between willed attention and exogenous attention in contemplative neuroscience bears on [free-will](/topics/free-will/). If willed mental practice produces different outcomes than passive exposure—and the evidence suggests it does—then deliberate intention is genuine authorship, not epiphenomenal accompaniment. The meditator's choice to practise matters causally, supporting libertarian intuitions about freedom.
+The distinction between willed attention and exogenous attention in contemplative neuroscience bears on [free-will](/concepts/free-will/). If willed mental practice produces different outcomes than passive exposure—and the evidence suggests it does—then deliberate intention is genuine authorship, not epiphenomenal accompaniment. The meditator's choice to practise matters causally, supporting libertarian intuitions about freedom.
 
 ## Further Reading
 

@@ -51,12 +51,12 @@ None. The article had no factual errors, misattributions, internal contradiction
 - Added computation analogy engagement in mistake objection section
 - Added caveat about intuition reliability with explanation of why this case differs
 - Added cross-link to [consciousness](/concepts/consciousness/) concept in emergence section
-- Added cross-links to [functionalism](/arguments/functionalism/) and [free-will](/topics/free-will/) in Further Reading
+- Added cross-links to [functionalism](/arguments/functionalism/) and [free-will](/concepts/free-will/) in Further Reading
 
 ### Cross-links Added
 - [consciousness](/concepts/consciousness/)
 - [functionalism](/arguments/functionalism/) (Further Reading)
-- [free-will](/topics/free-will/) (Further Reading)
+- [free-will](/concepts/free-will/) (Further Reading)
 
 ## Word Count
 

@@ -55,7 +55,7 @@ topics: []
 
 ### Cross-links Added
 - [global-workspace-theory](/concepts/global-workspace-theory/) (was mentioned but unlinked)
-- [free-will](/topics/free-will/)
+- [free-will](/concepts/free-will/)
 
 ## Remaining Items
 

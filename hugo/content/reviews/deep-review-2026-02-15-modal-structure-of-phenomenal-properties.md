@@ -76,7 +76,7 @@ None. The article contains no factual errors, attribution errors, internal contr
 ## Remaining Items
 
 - **Process Philosophy Perspective section**: Several comparable articles include dedicated process philosophy sections. Could be added in a future review if the article needs expansion.
-- **Free will connection**: The Bidirectional Interaction tenet connection implies libertarian free will but doesn't make the connection explicit. A sentence linking to [free-will](/topics/free-will/) could be added.
+- **Free will connection**: The Bidirectional Interaction tenet connection implies libertarian free will but doesn't make the connection explicit. A sentence linking to [free-will](/concepts/free-will/) could be added.
 - **Falsifiability discussion**: Unlike some comparable articles, this one lacks a "What Would Challenge This View?" section. Not critical given the article's scope but could improve intellectual completeness.
 
 ## Stability Notes

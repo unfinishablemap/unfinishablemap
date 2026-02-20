@@ -183,6 +183,6 @@ This apex article synthesises:
 ## Further Reading
 
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative access to consciousness stripped of content
-- [free-will](/topics/free-will/) — How consciousness enables genuine agency through deliberation
+- [free-will](/concepts/free-will/) — How consciousness enables genuine agency through deliberation
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why physical explanation leaves experience unexplained
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding consciousness

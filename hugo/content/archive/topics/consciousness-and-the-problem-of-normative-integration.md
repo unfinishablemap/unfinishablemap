@@ -134,7 +134,7 @@ If consciousness is irreducible, as the Map holds, then normative integration as
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — The phenomenology of deliberative processes
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — Value as constituted by conscious experience
 - [normative-void](/voids/normative-void/) — Where normative perception reaches its limits
-- [free-will](/topics/free-will/) — Genuine choice at the site of normative conflict
+- [free-will](/concepts/free-will/) — Genuine choice at the site of normative conflict
 
 ## References
 

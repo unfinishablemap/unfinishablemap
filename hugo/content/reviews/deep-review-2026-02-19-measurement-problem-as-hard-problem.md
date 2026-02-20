@@ -71,7 +71,7 @@ topics: []
 - [mysterianism](/concepts/mysterianism/)
 - [process-philosophy](/concepts/process-philosophy/)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
-- [free-will](/topics/free-will/)
+- [free-will](/concepts/free-will/)
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/)
 - [agent-causation](/concepts/agent-causation/)
 

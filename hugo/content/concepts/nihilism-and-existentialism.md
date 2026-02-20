@@ -68,7 +68,7 @@ The recognition that life lacks cosmic meaning admits of different responses.
 
 **Optimistic nihilism** accepts the absence of cosmic meaning but treats this as freedom rather than tragedy. If nothing matters inherently, then nothing *prevents* us from mattering to ourselves. The universe's indifference is not an insult but an open invitation.
 
-This optimistic response is close to existentialism—though existentialists typically resist the "nihilist" label. Crucially, optimistic nihilism requires [free-will](/topics/free-will/): if choices are illusory or determined, the freedom it celebrates would itself be a comforting fiction.
+This optimistic response is close to existentialism—though existentialists typically resist the "nihilist" label. Crucially, optimistic nihilism requires [free-will](/concepts/free-will/): if choices are illusory or determined, the freedom it celebrates would itself be a comforting fiction.
 
 ### Nietzsche's Diagnosis
 
@@ -184,7 +184,7 @@ The existentialist-dualist synthesis would face difficulty if:
 - [meaning-of-life](/topics/meaning-of-life/) — The positive case for consciousness-grounded meaning
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Buddhist approaches to meaning and consciousness
 - [phenomenal-value-realism](/concepts/phenomenal-value-realism/) — Why conscious experience grounds objective value
-- [free-will](/topics/free-will/) — The metaphysics of choice and agency
+- [free-will](/concepts/free-will/) — The metaphysics of choice and agency
 - [personal-identity](/topics/personal-identity/) — What constitutes the self across time
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — The compatibility thesis: irreducibility without permanence
 - [agent-causation](/concepts/agent-causation/) — Libertarian accounts of free agency

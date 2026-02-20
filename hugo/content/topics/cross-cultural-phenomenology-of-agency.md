@@ -86,13 +86,13 @@ The Map interprets this as evidence for the irreducibility of consciousness. If 
 
 The Map's commitment to [bidirectional interaction](/concepts/interactionist-dualism/) — that consciousness genuinely causes physical outcomes — gains indirect support from cross-cultural phenomenology. If the felt sense of agency were a cultural confabulation, one would expect cultures that explicitly deny the authoring self (Buddhism) or effortful willing (Daoism) to report its absence. They do not. Even traditions that theoretically dissolve the agent preserve the phenomenological distinction between doing and undergoing. This cross-cultural persistence is what one would expect if the sense of agency tracks genuine causal efficacy rather than serving as a post-hoc narrative.
 
-The tenet of [minimal quantum interaction](/topics/free-will/) specifies *how* consciousness might cause outcomes — by biasing otherwise indeterminate quantum events. Cross-cultural phenomenology cannot speak to mechanism directly. But it does impose a constraint: any proposed mechanism must accommodate both effortful willing (Western paradigm) and effortless action (*wu wei*), since both appear to be genuine modes of conscious causation rather than one being illusory.
+The tenet of [minimal quantum interaction](/concepts/free-will/) specifies *how* consciousness might cause outcomes — by biasing otherwise indeterminate quantum events. Cross-cultural phenomenology cannot speak to mechanism directly. But it does impose a constraint: any proposed mechanism must accommodate both effortful willing (Western paradigm) and effortless action (*wu wei*), since both appear to be genuine modes of conscious causation rather than one being illusory.
 
 The Map's commitment to Occam's Razor having limits is also relevant. The "simplest" account of cross-cultural variation in agency experience would reduce it to cultural construction — different stories about the same meaningless neural events. But this fails to explain why certain phenomenological features persist across cultures that explicitly try to dissolve them. Sometimes the more complex explanation — that consciousness has irreducible structural features that culture modulates — better fits the evidence.
 
 ## Further Reading
 
-- [free-will](/topics/free-will/)
+- [free-will](/concepts/free-will/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)

@@ -93,7 +93,7 @@ Six philosopher personas applied supportive analysis:
 - [illusionism](/concepts/illusionism/) (new)
 - [mysterianism](/concepts/mysterianism/) (new)
 - [explanatory-gap](/concepts/explanatory-gap/) (new)
-- [free-will](/topics/free-will/) (new)
+- [free-will](/concepts/free-will/) (new)
 - [agent-causation](/concepts/agent-causation/) (new)
 - [argument-from-reason](/topics/argument-from-reason/) (new)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) (new)

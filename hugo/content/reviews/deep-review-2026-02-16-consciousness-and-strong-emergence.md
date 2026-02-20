@@ -63,7 +63,7 @@ topics: []
 - Added No Many Worlds tenet paragraph
 
 ### Cross-links Added
-- [free-will](/topics/free-will/) — agency implication of causal powers
+- [free-will](/concepts/free-will/) — agency implication of causal powers
 - [philosophical-zombies](/concepts/philosophical-zombies/) — further reading (was inline-only before)
 - [knowledge-argument](/concepts/knowledge-argument/) — further reading
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — quantum Zeno mechanism

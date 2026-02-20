@@ -38,7 +38,7 @@ Most impressively, the Map distinguishes between mechanisms requiring *sustained
 
 ### The Phenomenologist (Nagel)
 
-The Map centers first-person experience appropriately. [free-will](/topics/free-will/) begins with phenomenology—"the felt difference between choosing and observing, the effort of deliberation"—and lets this evidence drive the metaphysics rather than dismissing it as illusion to be explained away.
+The Map centers first-person experience appropriately. [free-will](/concepts/free-will/) begins with phenomenology—"the felt difference between choosing and observing, the effort of deliberation"—and lets this evidence drive the metaphysics rather than dismissing it as illusion to be explained away.
 
 [meaning-of-life](/topics/meaning-of-life/) grounds value in consciousness itself rather than external validation. "A beautiful sunset doesn't need to serve a divine plan to be beautiful. The experience of beauty is itself valuable." This phenomenological turn avoids both supernaturalist dependency and subjectivist arbitrariness.
 
@@ -54,7 +54,7 @@ The integration of quantum selection with process metaphysics is suggestive: if 
 
 ### The Libertarian Free Will Defender (Kane)
 
-[free-will](/topics/free-will/) takes agency seriously without retreating to compatibilist redescription. The agent-causal framework—"the agent as persisting substance directly causes actions, irreducible to prior mental events"—captures what libertarians mean by genuine authorship.
+[free-will](/concepts/free-will/) takes agency seriously without retreating to compatibilist redescription. The agent-causal framework—"the agent as persisting substance directly causes actions, irreducible to prior mental events"—captures what libertarians mean by genuine authorship.
 
 The treatment of Libet's experiments is exemplary. Rather than accepting the "consciousness arrives too late" narrative, the Map presents Schurger's stochastic reinterpretation and Sjöberg's surgical evidence: patients with SMA resection retain their sense of voluntary action. The readiness potential may reflect noise, not decision. "The Libet challenge has been substantially weakened. The space for conscious contribution remains open."
 
@@ -85,7 +85,7 @@ This combination of philosophical rigor with appropriate humility about limits i
 - **Notable quote**: "The space of reasons isn't just a different way of describing physical causation—it involves properties (normativity, logical entailment, justification) that physical description cannot capture."
 - **Why it works**: Immune to standard objections because it doesn't depend on controversial intuitions about qualia—it targets the conditions for rational belief itself. The treatment of reliabilism's failure is thorough.
 
-### [free-will](/topics/free-will/)
+### [free-will](/concepts/free-will/)
 - **Strongest point**: Integration of phenomenology, neuroscience, and metaphysics around agent-causation; treatment of Libet experiments via Schurger and Sjöberg
 - **Notable quote**: "Choosing feels fundamentally different from observing—when you choose, you participate in determining the outcome rather than receiving it passively. This phenomenological distinction maps onto neural reality."
 - **Why it works**: Takes the phenomenology of effort seriously without dismissing neuroscientific evidence—shows how both can be accommodated in an agent-causal framework.
@@ -105,7 +105,7 @@ This combination of philosophical rigor with appropriate humility about limits i
 ### High Priority
 
 #### Consciousness and Causal Powers
-- **Builds on**: [agent-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation/), [free-will](/topics/free-will/)
+- **Builds on**: [agent-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation/), [free-will](/concepts/free-will/)
 - **Would address**: The metaphysics of how substances exercise causal powers—what it means for consciousness to "cause" in a non-Humean sense
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Directly supports Bidirectional Interaction by explaining the metaphysical framework for mental causation
@@ -160,7 +160,7 @@ This combination of philosophical rigor with appropriate humility about limits i
 | [normative-void](/voids/normative-void/) | [meaning-of-life](/topics/meaning-of-life/) | Extends mysterianism to value questions |
 | [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) | [time-symmetric-physics](/concepts/time-symmetric-physics/) | Empirical claims connect to theoretical framework |
 | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | [motor-selection](/concepts/motor-selection/) | Choice phenomenology parallels motor selection phenomenology |
-| [volitional-opacity](/voids/volitional-opacity/) | [free-will](/topics/free-will/) | Explains why willing's mechanism is hidden |
+| [volitional-opacity](/voids/volitional-opacity/) | [free-will](/concepts/free-will/) | Explains why willing's mechanism is hidden |
 | [epistemic-emotions](/concepts/epistemic-emotions/) | [argument-from-reason](/topics/argument-from-reason/) | Emotions like certainty/doubt ground normative tracking |
 
 ## New Concept Pages Needed

@@ -223,7 +223,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances cognitive capacity
 - [working-memory](/concepts/working-memory/) — The capacity constraints on teaching
 - [global-workspace-theory](/concepts/global-workspace-theory/) — How conscious access enables cognitive integration
-- [free-will](/topics/free-will/) — The deliberate choices teaching requires
+- [free-will](/concepts/free-will/) — The deliberate choices teaching requires
 - [animal-consciousness](/topics/animal-consciousness/) — The great ape comparison
 
 ## References

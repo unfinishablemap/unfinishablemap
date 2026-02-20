@@ -74,7 +74,7 @@ topics: []
 - [illusionism](/concepts/illusionism/)
 - [mysterianism](/concepts/mysterianism/)
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
-- [free-will](/topics/free-will/)
+- [free-will](/concepts/free-will/)
 - [agent-causation](/concepts/agent-causation/)
 - [argument-from-reason](/topics/argument-from-reason/)
 - [explanatory-gap](/concepts/explanatory-gap/)

@@ -62,7 +62,7 @@ The haecceity treatment draws explicitly on Whitehead: each actual occasion is u
 
 ### The Libertarian Free Will Defender (Kane)
 
-The [free-will](/topics/free-will/) article provides one of the most sophisticated defenses of libertarian free will available. The integration of:
+The [free-will](/concepts/free-will/) article provides one of the most sophisticated defenses of libertarian free will available. The integration of:
 - Quantum indeterminacy (providing room for genuine alternatives)
 - Agent causation (preserving genuine authorship)
 - Phenomenology of choice (grounding the account in experience)
@@ -130,7 +130,7 @@ The [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) 
 ### High Priority
 
 #### Consciousness and Creativity
-- **Builds on**: [free-will](/topics/free-will/), [agent-causation](/concepts/agent-causation/), [voluntary-attention](/voluntary-attention/)
+- **Builds on**: [free-will](/concepts/free-will/), [agent-causation](/concepts/agent-causation/), [voluntary-attention](/voluntary-attention/)
 - **Would address**: The gap in treatment of how consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Bidirectional Interaction—creativity as paradigm case of consciousness contributing what physics doesn't determine

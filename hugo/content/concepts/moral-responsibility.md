@@ -53,7 +53,7 @@ The agent is the ultimate source of the action. Prior factors influenced but did
 
 ### The Luck Objection
 
-If nothing about the agent explains why they chose to help rather than harm, how do they deserve praise or blame? See [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) for the full treatment of this challenge. The Map's [response](/topics/free-will/#why-the-maps-framework-escapes-luck): consciousness-selected indeterminism differs from lucky indeterminism because the agent selects *for reasons*. You deserve blame for cruelty because *you* selected it when kindness was available, for reasons (malice, indifference) that reflect badly on you.
+If nothing about the agent explains why they chose to help rather than harm, how do they deserve praise or blame? See [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) for the full treatment of this challenge. The Map's [response](/concepts/free-will/#why-the-maps-framework-escapes-luck): consciousness-selected indeterminism differs from lucky indeterminism because the agent selects *for reasons*. You deserve blame for cruelty because *you* selected it when kindness was available, for reasons (malice, indifference) that reflect badly on you.
 
 ### How Agent Causation Grounds Control
 
@@ -177,7 +177,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 ## Further Reading
 
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum indeterminacy supports libertarian free will and responds to luck
-- [free-will](/topics/free-will/) — The broader free will question and the Map's position
+- [free-will](/concepts/free-will/) — The broader free will question and the Map's position
 - [agent-causation](/concepts/agent-causation/) — Agent vs. event causation in detail
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Consciousness as the foundation of moral status
 - [mental-causation](/concepts/mental-causation/) — How consciousness can cause physical effects

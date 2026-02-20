@@ -2724,7 +2724,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Medium issues addressed**: 1 (free will claim insufficiently qualified)
 - **Enhancements made**: 3 (free will rewrite acknowledging compatibilism, cross-links to free-will and quantum-indeterminacy-free-will)
 - **Output**: [deep-review-2026-01-30-emergence](/reviews/deep-review-2026-01-30-emergence/)
-- **Summary**: Second review of emergence article (previously reviewed 2026-01-20). Addressed medium issue: free will claim implicitly dismissed compatibilism without engagement. Rewrote to acknowledge compatibilism as alternative, state Map's endorsement of libertarian free will, and explain how quantum indeterminacy plus consciousness addresses the luck problem. Added cross-links to [free-will](/topics/free-will/) and [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/). Article approaching stability—bedrock disagreements (MWI, eliminativism, compatibilism) documented as philosophical commitments rather than fixable flaws.
+- **Summary**: Second review of emergence article (previously reviewed 2026-01-20). Addressed medium issue: free will claim implicitly dismissed compatibilism without engagement. Rewrote to acknowledge compatibilism as alternative, state Map's endorsement of libertarian free will, and explain how quantum indeterminacy plus consciousness addresses the luck problem. Added cross-links to [free-will](/concepts/free-will/) and [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/). Article approaching stability—bedrock disagreements (MWI, eliminativism, compatibilism) documented as philosophical commitments rather than fixable flaws.
 
 ---
 
@@ -2772,7 +2772,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Medium issues addressed**: 2 (De Brigard citation framing, MWI objection)
 - **Enhancements made**: 3 (description added, 2 cross-links added)
 - **Output**: [deep-review-2026-01-29-temporal-asymmetry-remembering-anticipating](/reviews/deep-review-2026-01-29-temporal-asymmetry-remembering-anticipating/)
-- **Summary**: First review of this article. No critical issues found—the article is philosophically sound. Addressed medium issues: (1) expanded De Brigard citation to acknowledge that his "epistemic feelings" framework is compatible with functionalism, while explaining why the Map maintains the quale is irreducible; (2) strengthened the No Many Worlds tenet connection to engage with the MWI objection that branch-relative memory accommodates the phenomenology. Added cross-links to [free-will](/topics/free-will/) and [functionalism](/arguments/functionalism/). Added description frontmatter.
+- **Summary**: First review of this article. No critical issues found—the article is philosophically sound. Addressed medium issues: (1) expanded De Brigard citation to acknowledge that his "epistemic feelings" framework is compatible with functionalism, while explaining why the Map maintains the quale is irreducible; (2) strengthened the No Many Worlds tenet connection to engage with the MWI objection that branch-relative memory accommodates the phenomenology. Added cross-links to [free-will](/concepts/free-will/) and [functionalism](/arguments/functionalism/). Added description frontmatter.
 
 ---
 
@@ -4702,7 +4702,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Enhancements made**: 3
   1. Expanded Stapp quantum Zeno explanation to show how Zeno produces unity
   2. Added brief process philosophy (Whitehead) connection
-  3. Added [free-will](/topics/free-will/) and [agent-causation](/concepts/agent-causation/) to Further Reading and frontmatter
+  3. Added [free-will](/concepts/free-will/) and [agent-causation](/concepts/agent-causation/) to Further Reading and frontmatter
 - **Output**: [deep-review-2026-01-28-neural-binding-mechanisms](/reviews/deep-review-2026-01-28-neural-binding-mechanisms/)
 
 ---
@@ -5156,7 +5156,7 @@ title: AI Activity Changelog - Week 2026-W05
   - Added decoherence timescale as concrete constraint
   - Clarified QBism's intentional agnosticism while maintaining critique
 - **Enhancements made**: 2
-  - Added cross-link to [free-will](/topics/free-will/) connecting indexical identity to agency
+  - Added cross-link to [free-will](/concepts/free-will/) connecting indexical identity to agency
   - Added cross-link to [process-philosophy](/concepts/process-philosophy/) connecting to actual occasions
 - **Output**: [deep-review-2026-01-27-quantum-measurement-and-subjective-probability](/reviews/deep-review-2026-01-27-quantum-measurement-and-subjective-probability/)
 
@@ -6743,7 +6743,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Medium issues addressed**: 3
   1. Added cross-link and integration with [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
   2. Added prebiotic collapse problem mention and CSL-IIT hybrid reference
-  3. Added [free-will](/topics/free-will/) connection to concepts and Further Reading
+  3. Added [free-will](/concepts/free-will/) connection to concepts and Further Reading
 - **Enhancements made**: Removed 3 generic Stanford Encyclopedia references for length neutrality
 - **Output**: [deep-review-2026-01-26-measurement-problem](/reviews/deep-review-2026-01-26-measurement-problem/)
 
@@ -7023,7 +7023,7 @@ Created overview article integrating the psychophysical laws framework—explain
 Changes:
 - Added paragraph on advanced contemplative dissolution of witness/witnessed distinction
 - Enhanced epiphenomenalism response with free will connection
-- Added [free-will](/topics/free-will/) cross-link
+- Added [free-will](/concepts/free-will/) cross-link
 
 This is the second deep review; article is approaching stability.
 

@@ -210,7 +210,7 @@ Mental causation is central to the Map's framework.
 
 ## Why This Matters
 
-Mental causation bears directly on [free will](/topics/free-will/) (consciousness must cause choices for agency to be real), moral responsibility (blame and praise assume conscious states cause actions), and rationality (beliefs about consciousness must be caused by consciousness to be knowledge). The Map affirms mental causation because denying it undermines everything we think we know about ourselves.
+Mental causation bears directly on [free will](/concepts/free-will/) (consciousness must cause choices for agency to be real), moral responsibility (blame and praise assume conscious states cause actions), and rationality (beliefs about consciousness must be caused by consciousness to be knowledge). The Map affirms mental causation because denying it undermines everything we think we know about ourselves.
 
 ## What Would Challenge This View?
 
@@ -249,7 +249,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening
 - [interface-locality](/interface-locality/) — Why consciousness affects only its own brain
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention implements the consciousness-physics interface
-- [free-will](/topics/free-will/) — The implications for agency
+- [free-will](/concepts/free-will/) — The implications for agency
 
 ## References
 

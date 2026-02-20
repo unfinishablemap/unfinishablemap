@@ -155,7 +155,7 @@ None of these conditions currently obtains. AI systems produce formally impressi
 - [duration](/duration/) — Bergson's lived time as creative becoming
 - [metarepresentation](/metarepresentation/) — Representing representations as objects of thought
 - [cumulative-culture](/concepts/cumulative-culture/) — Why cultural ratcheting requires conscious authorship
-- [free-will](/topics/free-will/) — Creative agency and libertarian free will
+- [free-will](/concepts/free-will/) — Creative agency and libertarian free will
 
 ## References
 

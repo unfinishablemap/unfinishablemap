@@ -221,7 +221,7 @@ Against [epiphenomenalism](/arguments/epiphenomenalism/): substance causation co
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Systematic treatment including Kane's 2024 convergence
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — Deliberation, decision, authorship
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Generation beyond selection
-- [free-will](/topics/free-will/) — The broader question and Map's position
+- [free-will](/concepts/free-will/) — The broader question and Map's position
 - [interactionist-dualism](/concepts/interactionist-dualism/) — Mind-body interaction
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-physics interface
 - [luck-objection](/concepts/luck-objection/) — Full response to the luck challenge

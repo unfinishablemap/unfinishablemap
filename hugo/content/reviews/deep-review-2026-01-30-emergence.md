@@ -49,11 +49,11 @@ None identified. The article has proper structure, tenet integration, and refere
 
 ### Enhancements Made
 - Rewrote free will bullet to acknowledge compatibilism and explain the Map's libertarian position
-- Added [free-will](/topics/free-will/) cross-link in text and Further Reading section
+- Added [free-will](/concepts/free-will/) cross-link in text and Further Reading section
 - Added [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) to frontmatter concepts and linked in free will discussion
 
 ### Cross-links Added
-- [free-will](/topics/free-will/) to text and Further Reading
+- [free-will](/concepts/free-will/) to text and Further Reading
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) to frontmatter concepts and text
 
 ## Remaining Items

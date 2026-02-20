@@ -69,7 +69,7 @@ The primary enhancement was resolving the orphan status by adding inbound links 
 2. **[integrated-information-theory](/concepts/integrated-information-theory/)** - Added link when discussing CSL-IIT hybrid models
 3. **[quantum-interpretations](/concepts/quantum-interpretations/)** - Added link in Objective Collapse Theories section
 4. **[prebiotic-collapse](/concepts/prebiotic-collapse/)** - Added link where GRW/CSL are discussed
-5. **[free-will](/topics/free-will/)** - Added link in Physical Mechanism Question section
+5. **[free-will](/concepts/free-will/)** - Added link in Physical Mechanism Question section
 6. **[bidirectional-interaction](/concepts/bidirectional-interaction/)** - Added as third mechanism alongside Stapp and Penrose-Hameroff
 7. **[causal-closure](/concepts/causal-closure/)** - Added link in emergentist response section
 

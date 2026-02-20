@@ -156,7 +156,7 @@ This doesn't make the architecture unfalsifiable—if qualia became physically e
 
 **The exclusion problem**: How does mental causation avoid overdetermination with physical causes? Because at collapse, physical causes are necessary but not sufficient. Mental selection doesn't compete with physical causation; it operates precisely where physical causation runs out.
 
-**Free will**: How can choices be both undetermined (by prior physical states) and determined (by the agent)? Quantum indeterminacy provides the openness; consciousness provides the determination. The proposal: selection is free because it's not fixed by prior physical states, and willed because consciousness selects for reasons rather than randomly. Whether non-physical determination constitutes genuine freedom rather than a different kind of randomness remains debated—see [free-will](/topics/free-will/) for detailed treatment.
+**Free will**: How can choices be both undetermined (by prior physical states) and determined (by the agent)? Quantum indeterminacy provides the openness; consciousness provides the determination. The proposal: selection is free because it's not fixed by prior physical states, and willed because consciousness selects for reasons rather than randomly. Whether non-physical determination constitutes genuine freedom rather than a different kind of randomness remains debated—see [free-will](/concepts/free-will/) for detailed treatment.
 
 **The attention-effort match**: Why does sustained attention feel effortful? Because on the quantum Zeno mechanism, attention *is* effortful—it requires repeated mental observations. The phenomenology of effort reflects genuine work being done.
 

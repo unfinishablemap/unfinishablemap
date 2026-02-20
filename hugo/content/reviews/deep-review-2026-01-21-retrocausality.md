@@ -88,7 +88,7 @@ Six sympathetic philosopher perspectives were applied:
 - [witness-consciousness](/concepts/witness-consciousness/)
 - [haecceity](/concepts/haecceity/)
 - [introspection](/concepts/introspection/)
-- [free-will](/topics/free-will/) (topic)
+- [free-will](/concepts/free-will/) (topic)
 
 ### New References Added
 - Schurger et al. (2012) - accumulator model

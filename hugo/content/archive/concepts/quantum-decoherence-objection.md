@@ -147,7 +147,7 @@ The decoherence objection, properly understood, clarifies rather than refutes th
 
 The existence of quantum effects in avian magnetoreception demonstrates a crucial principle: evolution can harness quantum mechanics for biological function when selection pressure favors it. The evolutionary argument for [Bidirectional Interaction](/tenets/#bidirectional-interaction)—that consciousness must have causal effects to be selected for—suggests that if quantum consciousness provides adaptive advantage, evolution would optimize the neural architecture to support it.
 
-**Free Will Connection**: The neural decision windows (280-300ms) are precisely the timescales where [free-will](/topics/free-will/) would need to operate. If consciousness influences quantum outcomes during this window, it provides a physical substrate for [agent-causation](/concepts/agent-causation/)—genuine authorship of decisions rather than mere passive observation of predetermined neural activity. The decoherence objection, by clarifying which mechanisms are viable and which are not, helps identify where in the causal chain consciousness could exercise genuine agency.
+**Free Will Connection**: The neural decision windows (280-300ms) are precisely the timescales where [free-will](/concepts/free-will/) would need to operate. If consciousness influences quantum outcomes during this window, it provides a physical substrate for [agent-causation](/concepts/agent-causation/)—genuine authorship of decisions rather than mere passive observation of predetermined neural activity. The decoherence objection, by clarifying which mechanisms are viable and which are not, helps identify where in the causal chain consciousness could exercise genuine agency.
 
 **Argument from Reason**: The [argument-from-reason](/topics/argument-from-reason/) strengthens the case for taking quantum consciousness seriously. If genuine rational thought requires consciousness to have causal influence on neural activity (because purely physical causation cannot ground rational justification), then there must be *some* mechanism for mind-brain interaction. Quantum indeterminacy, properly constrained by decoherence considerations, provides a candidate mechanism. The decoherence objection doesn't eliminate this possibility; it specifies the constraints any such mechanism must satisfy.
 
@@ -163,7 +163,7 @@ The existence of quantum effects in avian magnetoreception demonstrates a crucia
 - [interactionist-dualism](/concepts/interactionist-dualism/) — How consciousness might influence physical outcomes
 - [illusionism](/concepts/illusionism/) — The strongest physicalist challenge to taking consciousness seriously
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of human understanding
-- [free-will](/topics/free-will/) — How quantum indeterminacy might ground libertarian agency
+- [free-will](/concepts/free-will/) — How quantum indeterminacy might ground libertarian agency
 - [argument-from-reason](/topics/argument-from-reason/) — Why rational thought may require consciousness to have causal efficacy
 
 ## References

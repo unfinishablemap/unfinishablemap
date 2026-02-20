@@ -166,7 +166,7 @@ This void appears in the [tenet-generated voids](/voids/tenet-generated-voids/) 
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — Physics describes what matter does, not what it is
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — The causal interface as a specific instance of cognitive closure
-- [Free Will](/topics/free-will/) — The broader context for questions of agency
+- [Free Will](/concepts/free-will/) — The broader context for questions of agency
 - [Agent Causation](/concepts/agent-causation/) — The philosophical concept of the self as cause
 
 ## References

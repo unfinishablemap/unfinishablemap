@@ -62,7 +62,7 @@ The [baseline cognition hypothesis](/concepts/baseline-cognition/) provides comp
 
 ### Voluntary Action Generation
 
-Third: the spontaneous generation of intentional behaviour. Unconscious processing is reactive—responding to stimuli, executing habits, following learned scripts. Voluntary action—deciding to start a new task, redirecting [attention](/attention/) based on goals, initiating behaviour without external trigger—requires consciousness. This has implications for [free will](/topics/free-will/): if voluntary action depends on consciousness, then debates about whether we have free will are also debates about what consciousness can do.
+Third: the spontaneous generation of intentional behaviour. Unconscious processing is reactive—responding to stimuli, executing habits, following learned scripts. Voluntary action—deciding to start a new task, redirecting [attention](/attention/) based on goals, initiating behaviour without external trigger—requires consciousness. This has implications for [free will](/concepts/free-will/): if voluntary action depends on consciousness, then debates about whether we have free will are also debates about what consciousness can do.
 
 The evidence from subliminal perception: masked stimuli can prime compatible responses but cannot initiate complex action sequences. You cannot subliminally instruct someone to write a paragraph or solve a novel problem. Voluntary action requires the agent to consciously represent goals and means.
 

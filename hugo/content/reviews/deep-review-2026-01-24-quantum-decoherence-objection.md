@@ -77,7 +77,7 @@ Applied six sympathetic philosopher personas (Property Dualist, Quantum Mind The
 - [quantum-biology](/concepts/quantum-biology/)
 - [illusionism](/concepts/illusionism/)
 - [mysterianism](/concepts/mysterianism/)
-- [free-will](/topics/free-will/)
+- [free-will](/concepts/free-will/)
 - [agent-causation](/concepts/agent-causation/)
 - [argument-from-reason](/topics/argument-from-reason/)
 - [explanatory-gap](/concepts/explanatory-gap/)
@@ -87,7 +87,7 @@ Applied six sympathetic philosopher personas (Property Dualist, Quantum Mind The
 - [quantum-biology](/concepts/quantum-biology/)
 - [illusionism](/concepts/illusionism/)
 - [mysterianism](/concepts/mysterianism/)
-- [free-will](/topics/free-will/)
+- [free-will](/concepts/free-will/)
 - [argument-from-reason](/topics/argument-from-reason/)
 
 ## Changes Made

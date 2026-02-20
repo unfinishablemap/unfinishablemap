@@ -66,7 +66,7 @@ The growing block offers consciousness something neither rival provides: a tempo
 
 This isn't merely a matter of phenomenological comfort. The growing block provides structural resources for understanding consciousness:
 
-**Genuine openness of the future.** Because the future doesn't exist, conscious deliberation and choice engage with real indeterminacy. [Free will](/topics/free-will/) doesn't require overcoming a fixed future (as on eternalism) or operating without a stable past (as on presentism). The agent stands at the leading edge, with accumulated reality behind and genuine possibility ahead.
+**Genuine openness of the future.** Because the future doesn't exist, conscious deliberation and choice engage with real indeterminacy. [Free will](/concepts/free-will/) doesn't require overcoming a fixed future (as on eternalism) or operating without a stable past (as on presentism). The agent stands at the leading edge, with accumulated reality behind and genuine possibility ahead.
 
 **Objective present.** The present isn't merely where an observer happens to be located (eternalism's indexical "now"). It's the ontological frontier—where reality is being constituted. If consciousness marks this frontier, its specialness isn't a cognitive error but a reflection of temporal structure.
 

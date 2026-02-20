@@ -149,7 +149,7 @@ The creative process may also illuminate [cognitive closure](/concepts/mysterian
 - [mental-imagery](/concepts/mental-imagery/) — Voluntary imagery as paradigm case of consciousness generating and manipulating possibilities
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding consciousness
 - [neurophenomenology](/concepts/neurophenomenology/) — Contemplative access to the temporal microstructure of creative experience
-- [free-will](/topics/free-will/) — How creativity connects to free action
+- [free-will](/concepts/free-will/) — How creativity connects to free action
 - [creativity-void](/voids/creativity-void/) — The void where creative insight originates
 - [consciousness-creativity-novelty-generation-2026-01-19](/research/consciousness-creativity-novelty-generation-2026-01-19/) — Research notes underlying this article
 

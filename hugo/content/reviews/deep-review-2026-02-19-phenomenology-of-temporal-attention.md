@@ -64,7 +64,7 @@ topics: []
 - Added inline definition for "temporal thickness" (previously used without definition)
 - Integrated Kent & Wittmann (2021) into body text (previously orphaned in references)
 - Added Slagter et al. (2007) as experimental support for meditation/temporal processing claim
-- Connected temporal selection to libertarian free will (new cross-link to [free-will](/topics/free-will/))
+- Connected temporal selection to libertarian free will (new cross-link to [free-will](/concepts/free-will/))
 - Added engagement with many-worlds objection to temporal asymmetry
 - Connected temporal creativity and growing block frameworks to asymmetry argument
 
@@ -73,7 +73,7 @@ topics: []
 - [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) — in flow states paragraph
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — in meditative attention paragraph
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — in temporal selection section
-- [free-will](/topics/free-will/) — in temporal selection section (new thematic connection)
+- [free-will](/concepts/free-will/) — in temporal selection section (new thematic connection)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — in temporal asymmetry section
 - [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-creativity/) — in temporal asymmetry section
 - [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) — in temporal asymmetry section

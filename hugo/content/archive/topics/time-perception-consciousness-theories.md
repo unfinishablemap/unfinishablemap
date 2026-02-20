@@ -190,7 +190,7 @@ This analysis connects to all five of the Map's [foundational commitments](/tene
 
 ### Agency and Interaction
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/)—how temporal structure enables genuine choosing
-- [free-will](/topics/free-will/)—temporal agency and the determination question
+- [free-will](/concepts/free-will/)—temporal agency and the determination question
 - [agent-causation](/concepts/agent-causation/)—the self as originator of action in time
 
 ### Methods

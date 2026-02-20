@@ -157,7 +157,7 @@ This matches phenomenal unity's structure. Experience does not feel assembled fr
 - [decoherence](/concepts/decoherence/) — Why quantum effects might persist in biological systems
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Classical alternative (information broadcasting)
 - [integrated-information-theory](/concepts/integrated-information-theory/) — Classical alternative (Φ as consciousness)
-- [free-will](/topics/free-will/) — How quantum binding enables genuine choice
+- [free-will](/concepts/free-will/) — How quantum binding enables genuine choice
 - [agent-causation](/concepts/agent-causation/) — Consciousness as causal participant
 
 ## References

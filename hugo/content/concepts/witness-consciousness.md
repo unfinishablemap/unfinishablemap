@@ -150,7 +150,7 @@ The Map's position would face serious difficulty if: (1) contemplative tradition
 
 **The Regress Objection**: If the witness observes thoughts, what observes the witness? *Response*: The witness is self-luminous (*svayam-prakasha*)—it is the knowing itself. Just as light illuminates without needing a second light, awareness is aware without requiring awareness of that awareness.
 
-**The Epiphenomenalism Worry**: If the witness only observes, isn't it causally inert? *Response*: The witness mode is one mode among others. Consciousness can witness without intervening, but it need not always do so. Neither mode alone exhausts what consciousness is. Indeed, the capacity to refrain from acting—to witness rather than select—is itself significant for [libertarian free will](/topics/free-will/). The ability to hold back, to observe without intervention, is as important to genuine agency as the ability to initiate action.
+**The Epiphenomenalism Worry**: If the witness only observes, isn't it causally inert? *Response*: The witness mode is one mode among others. Consciousness can witness without intervening, but it need not always do so. Neither mode alone exhausts what consciousness is. Indeed, the capacity to refrain from acting—to witness rather than select—is itself significant for [libertarian free will](/concepts/free-will/). The ability to hold back, to observe without intervention, is as important to genuine agency as the ability to initiate action.
 
 **The Reification Concern**: Making the witness an identity recreates the ego. *Response*: The distinction is between *being* a witness and *identifying as* a witness. Witness consciousness is not identity but structure—the irreducible subject-side of experience.
 

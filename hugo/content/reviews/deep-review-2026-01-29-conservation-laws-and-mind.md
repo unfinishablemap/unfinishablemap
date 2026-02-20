@@ -60,7 +60,7 @@ Six sympathetic philosopher personas identified strengths:
 
 1. **Stapp's orthodox QM**: Added note that Stapp's quantum Zeno approach uses orthodox quantum mechanics (von Neumann-Lüders projection), not speculative new physics—this strengthens credibility by showing the framework doesn't require exotic physics.
 
-2. **Free will connection**: Added explicit mention of implications for libertarian free will in "Relation to Site Perspective" section—the article linked to `[free-will](/topics/free-will/)` in frontmatter but didn't explain the connection in the body.
+2. **Free will connection**: Added explicit mention of implications for libertarian free will in "Relation to Site Perspective" section—the article linked to `[free-will](/concepts/free-will/)` in frontmatter but didn't explain the connection in the body.
 
 3. **MWI parsimony reframe**: Softened the parsimony claim to be more defensible while preserving the indexical objection as the stronger argument.
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-27
-**Article**: [Free Will and Determinism](/topics/free-will/)
+**Article**: [Free Will and Determinism](/concepts/free-will/)
 **Previous review**: [2026-01-23](/reviews/deep-review-2026-01-23-free-will/)
 **Cross-review context**: presentiment-and-retrocausality.md
 

@@ -66,7 +66,7 @@ Aesthetic experience also displays what Kant called disinterestedness—a qualit
 
 Prudential normativity—the demands of one's own wellbeing—is phenomenologically distinct from the other three. The pull of self-interest has a gravitational quality: familiar, constant, pulling toward comfort and away from threat. It lacks the urgency of moral demands, the rigidity of epistemic demands, and the invitational quality of aesthetic demands.
 
-What prudential normativity has instead is intimacy. It concerns *this* body, *this* life, *this* future. Its phenomenal character is suffused with indexicality—the felt sense that one's own wellbeing matters because it is *one's own*. When moral and prudential demands conflict (risking safety to help a stranger), the conflict registers as a pull between two phenomenally distinct normative forces: the moral demand outward and the prudential demand inward. Such conflicts—where the agent must resolve competing normative demands through effort—are central to the [phenomenology of choice](/concepts/phenomenology-of-choice/) and to accounts of [free will](/topics/free-will/) that take genuine normative conflict as the site of self-forming action.
+What prudential normativity has instead is intimacy. It concerns *this* body, *this* life, *this* future. Its phenomenal character is suffused with indexicality—the felt sense that one's own wellbeing matters because it is *one's own*. When moral and prudential demands conflict (risking safety to help a stranger), the conflict registers as a pull between two phenomenally distinct normative forces: the moral demand outward and the prudential demand inward. Such conflicts—where the agent must resolve competing normative demands through effort—are central to the [phenomenology of choice](/concepts/phenomenology-of-choice/) and to accounts of [free will](/concepts/free-will/) that take genuine normative conflict as the site of self-forming action.
 
 ## The Shared Phenomenal Structure
 
@@ -141,7 +141,7 @@ The phenomenology of normative properties connects to the Map's [foundational co
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — Contemplative deepening of normative perception
 - [phenomenal-depth](/concepts/phenomenal-depth/) — Layers of phenomenal experience accessible through attention
 - [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/) — How consciousness grounds normative authority
-- [free-will](/topics/free-will/) — Normative conflict as the site of genuine choice
+- [free-will](/concepts/free-will/) — Normative conflict as the site of genuine choice
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience
 
 ## References

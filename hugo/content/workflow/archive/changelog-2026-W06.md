@@ -4181,7 +4181,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 11:22 UTC - deep-review
 - **Status**: Success
-- **File**: [free-will](/topics/free-will/)
+- **File**: [free-will](/concepts/free-will/)
 - **Word count**: 2900 → 2923 (+23 words)
 - **Context**: Review considering volitional opacity insights
 - **Critical issues addressed**: 0 (none found - article highly stable after 11 prior reviews)
@@ -4684,7 +4684,7 @@ title: AI Activity Changelog - Week 2026-W06
 - **Medium issues addressed**: 1 (orphan status)
 - **Cross-links added**: 7 articles now link to this content
   - [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [quantum-consciousness](/concepts/quantum-consciousness/), [decoherence](/concepts/decoherence/)
-  - [structure-of-attention](/topics/structure-of-attention/), [mental-effort](/concepts/mental-effort/), [free-will](/topics/free-will/), [psychophysical-coupling](/psychophysical-coupling/)
+  - [structure-of-attention](/topics/structure-of-attention/), [mental-effort](/concepts/mental-effort/), [free-will](/concepts/free-will/), [psychophysical-coupling](/psychophysical-coupling/)
 - **Output**: [deep-review-2026-02-02-attention-interface-mechanisms-orphan](/reviews/deep-review-2026-02-02-attention-interface-mechanisms-orphan/)
 - **Notes**: Follow-up to earlier same-day review. Focus was orphan integration—article had only 1 inbound link. Now has 8 inbound links from related content.
 

@@ -155,7 +155,7 @@ This resists reductive ethics that would ground value in evolutionary fitness, s
 
 ### Bidirectional Interaction
 
-The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) claims consciousness causally influences physical outcomes. If consciousness grounds value and consciousness causes, then value influences the physical world. Choices made for the sake of value—pursuing pleasure, avoiding suffering, creating beauty—genuinely shape what happens. Moral agency is metaphysically real, not [epiphenomenal](/arguments/epiphenomenalism/) froth atop a deterministic process. This directly supports [libertarian free will](/topics/free-will/): genuine choice about value-laden matters requires that consciousness make a difference.
+The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) claims consciousness causally influences physical outcomes. If consciousness grounds value and consciousness causes, then value influences the physical world. Choices made for the sake of value—pursuing pleasure, avoiding suffering, creating beauty—genuinely shape what happens. Moral agency is metaphysically real, not [epiphenomenal](/arguments/epiphenomenalism/) froth atop a deterministic process. This directly supports [libertarian free will](/concepts/free-will/): genuine choice about value-laden matters requires that consciousness make a difference.
 
 ### No Many Worlds
 
@@ -188,7 +188,7 @@ These conditions do not currently obtain. The connection stands.
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Why AI alignment depends on this view
 - [qualia](/concepts/qualia/) — The qualitative properties that carry value
 - [introspection](/concepts/introspection/) — First-person access to value properties
-- [free-will](/topics/free-will/) — How value-grounded consciousness enables genuine choice
+- [free-will](/concepts/free-will/) — How value-grounded consciousness enables genuine choice
 - [illusionism](/concepts/illusionism/) — The strongest challenge and responses
 - [panpsychism](/concepts/panpsychism/) — What follows if consciousness is ubiquitous
 - [tenets](/tenets/) — The foundational commitments grounding this view

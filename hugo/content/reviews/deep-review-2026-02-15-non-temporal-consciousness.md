@@ -70,7 +70,7 @@ topics: []
 ### Cross-links Added
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's concrescence as parallel non-temporal constituting activity
 - [witness-consciousness](/concepts/witness-consciousness/) — The observing awareness meditation reveals
-- [free-will](/topics/free-will/) — Non-temporal ground dissolves Libet timing objection
+- [free-will](/concepts/free-will/) — Non-temporal ground dissolves Libet timing objection
 - [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — Added in MQI tenet section
 
 ## Remaining Items

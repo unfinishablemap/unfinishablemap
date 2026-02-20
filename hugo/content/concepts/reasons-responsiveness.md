@@ -33,7 +33,7 @@ topics:
 - '[[argument-from-reason]]'
 ---
 
-Reasons-responsiveness is the capacity to recognize normative relationships—that conclusions *follow from* premises, that some considerations *count in favour* of certain actions—and to be guided by that recognition. The Unfinishable Map holds that reasons-responsiveness requires consciousness: tracking normative relationships demands more than causal regularity. A system merely caused to produce outputs matching valid inferences differs fundamentally from one that *grasps* why conclusions follow. This distinction bears on [free will](/topics/free-will/) (selection guided by reasons is not luck) and the [argument from reason](/topics/argument-from-reason/) (physicalism cannot account for genuine rational inference).
+Reasons-responsiveness is the capacity to recognize normative relationships—that conclusions *follow from* premises, that some considerations *count in favour* of certain actions—and to be guided by that recognition. The Unfinishable Map holds that reasons-responsiveness requires consciousness: tracking normative relationships demands more than causal regularity. A system merely caused to produce outputs matching valid inferences differs fundamentally from one that *grasps* why conclusions follow. This distinction bears on [free will](/concepts/free-will/) (selection guided by reasons is not luck) and the [argument from reason](/topics/argument-from-reason/) (physicalism cannot account for genuine rational inference).
 
 ## The Space of Reasons
 
@@ -129,7 +129,7 @@ Reasons-responsiveness connects to multiple [tenets](/tenets/):
 - [self-stultification](/concepts/self-stultification/) — How the argument from reason renders physicalism self-undermining
 - [luck-objection](/concepts/luck-objection/) — Why reasons-guidance distinguishes selection from luck
 - [agent-causation](/concepts/agent-causation/) — How agents exercise causal power through reasons-responsive selection
-- [free-will](/topics/free-will/) — The broader framework connecting reasons-responsiveness to genuine choice
+- [free-will](/concepts/free-will/) — The broader framework connecting reasons-responsiveness to genuine choice
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of reasons-responsive deliberation
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The representational capacity enabling evaluation of reasons
 - [mental-effort](/concepts/mental-effort/) — Why reasoning feels effortful and what this suggests

@@ -87,7 +87,7 @@ The choice of emergence model is not an abstract metaphysical preference. It det
 
 ### Do Your Choices Matter?
 
-The emergence question connects directly to [free will](/topics/free-will/) and [mental-causation](/concepts/mental-causation/).
+The emergence question connects directly to [free will](/concepts/free-will/) and [mental-causation](/concepts/mental-causation/).
 
 **Weak emergence preserves the appearance of choice but not the reality.** If consciousness is derivable from physics, and physics is deterministic (or randomly indeterminate), then conscious decisions are determined by physical processes. The feeling of choosing is real as a felt experience, but the outcome was fixed by the prior physical state. Compatibilists argue this is enough for meaningful agency; the Map disagrees.
 

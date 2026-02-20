@@ -119,7 +119,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to the baseline hyp
 
 ### Free Will and Agent Causation
 
-The metarepresentational threshold connects to [free-will](/topics/free-will/) and [agent-causation](/concepts/agent-causation/). Humans don't merely respond to stimuli through fixed mappings; we deliberate, consider alternatives, and choose based on reasons. This deliberative capacity—absent in great apes—may be where consciousness exercises agent causation. The ability to hold multiple options in mind (expanded working memory), evaluate them against criteria (logical reasoning), and select based on that evaluation (flexible response) constitutes the phenomenology of free choice. If this capacity requires consciousness and cannot be achieved by unconscious processing alone, free will is not illusory but functionally essential.
+The metarepresentational threshold connects to [free-will](/concepts/free-will/) and [agent-causation](/concepts/agent-causation/). Humans don't merely respond to stimuli through fixed mappings; we deliberate, consider alternatives, and choose based on reasons. This deliberative capacity—absent in great apes—may be where consciousness exercises agent causation. The ability to hold multiple options in mind (expanded working memory), evaluate them against criteria (logical reasoning), and select based on that evaluation (flexible response) constitutes the phenomenology of free choice. If this capacity requires consciousness and cannot be achieved by unconscious processing alone, free will is not illusory but functionally essential.
 
 ### Occam's Razor Has Limits
 
@@ -137,7 +137,7 @@ The hypothesis illustrates the [limits of Occam's Razor](/tenets/#occams-limits)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Detailed analysis of what consciousness enables vs. what unconscious processing achieves
 - [illusionism](/concepts/illusionism/) — The radical physicalist view that phenomenal consciousness doesn't exist
 - [mysterianism](/concepts/mysterianism/) — Whether the consciousness-cognition link may be cognitively closed
-- [free-will](/topics/free-will/) — How deliberation and choice connect to conscious amplification
+- [free-will](/concepts/free-will/) — How deliberation and choice connect to conscious amplification
 - [voluntary-attention](/voluntary-attention/) — Attention control as the mechanism for conscious selection
 
 ## References

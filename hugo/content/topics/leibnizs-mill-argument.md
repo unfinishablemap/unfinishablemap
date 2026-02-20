@@ -125,7 +125,7 @@ The mill argument stands alongside the [knowledge-argument](/concepts/knowledge-
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical explanation seems to miss experience
 - [panpsychism](/concepts/panpsychism/) — One response to the mill that Leibniz himself endorsed
 - [functionalism](/arguments/functionalism/) — The view that mental states are causal roles, and why it doesn't escape the mill
-- [free-will](/topics/free-will/) — How the mill argument supports the reality of conscious choice
+- [free-will](/concepts/free-will/) — How the mill argument supports the reality of conscious choice
 
 ## References
 

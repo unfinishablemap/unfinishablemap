@@ -130,7 +130,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet warns against prema
 - [decoherence](/concepts/decoherence/) — What environmental interaction does and doesn't explain
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's concrescence as the metaphysical counterpart to outcome determination
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — A concrete mechanism for consciousness at quantum measurement
-- [free-will](/topics/free-will/) — How the selection gap connects to agent causation and libertarian free will
+- [free-will](/concepts/free-will/) — How the selection gap connects to agent causation and libertarian free will
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — What consciousness does during superposition
 
 ## References

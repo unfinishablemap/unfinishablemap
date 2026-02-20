@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-15 18:07:00+00:00
+ai_modified: 2026-02-20 19:36:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: The positive-negative dimension of experience—why pain feels bad 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-20 19:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,9 +34,9 @@ Valence is the positive-negative dimension of conscious experience—the felt go
 
 ## What Valence Is
 
-Every conscious experience carries some degree of valence. Pain is negatively valenced; pleasure is positively valenced; emotions blend valence with other phenomenal qualities (fear's urgency differs from sadness's heaviness, though both feel bad). Lisa Feldman Barrett and James Russell's core affect theory holds that we are never affectively neutral—a background hedonic tone is always present, combining valence (pleasure-displeasure) with arousal (activation-deactivation).
+Every conscious experience carries some degree of valence. Pain is negatively valenced; pleasure is positively valenced; emotions blend valence with other phenomenal qualities (fear's urgency differs from sadness's heaviness, though both feel bad). James Russell and Lisa Feldman Barrett's core affect theory holds that we are never affectively neutral—a background hedonic tone is always present, combining valence (pleasure-displeasure) with arousal (activation-deactivation).
 
-Valence is not the same as the specific character of an experience. The painfulness of a burn and the painfulness of a betrayal share negative valence while differing in every other phenomenal respect. This generality is what makes valence fundamental: it provides a common evaluative dimension across all conscious experience, a "mental currency" (Cutter & Tye 2022) enabling comparison between otherwise incommensurable states.
+Valence is not the same as the specific character of an experience. The painfulness of a burn and the painfulness of a betrayal share negative valence while differing in every other phenomenal respect. This generality is what makes valence fundamental: it provides a common evaluative dimension across all conscious experience, a "mental currency" (Cleeremans & Tallon-Baudry 2022) enabling comparison between otherwise incommensurable states.
 
 ## Two Competing Accounts
 
@@ -60,7 +60,9 @@ The explanatory gap for valence is particularly stark because the property seems
 
 ## Valence Does Causal Work
 
-[Epiphenomenalists](/arguments/epiphenomenalism/) might argue that felt badness merely accompanies the functional states that actually motivate behavior. Pain asymbolia refutes this. Patients with intact functional pain processing but absent felt badness do not avoid painful stimuli with normal urgency. The phenomenal property—the felt badness—is what makes pain motivating. Remove it, and the functional system produces different behavioral results.
+[Epiphenomenalists](/arguments/epiphenomenalism/) might argue that felt badness merely accompanies the functional states that actually motivate behavior. Pain asymbolia challenges this. Patients with intact sensory pain processing but absent felt badness do not avoid painful stimuli with normal urgency. The phenomenal property—the felt badness—is what makes pain motivating. Remove it, and the behavioral output changes.
+
+A [functionalist](/arguments/functionalism/) might object that asymbolia simply shows which functional subsystem is damaged—that the missing motivation *is* the missing function, redescribed in phenomenal language. But this response concedes the point in disguise: if "the function of felt badness" is exactly what's missing, the functionalist must explain what distinguishes this function from the intact nociceptive processing that remains. The most parsimonious answer is that the felt quality is a distinct property doing distinct causal work—precisely what the dualist claims.
 
 This has direct implications for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If valenced phenomenal states motivate behavior, consciousness influences physical outcomes. The felt quality is not along for the ride—it is doing real work.
 
@@ -90,12 +92,15 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet co
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The subjective, felt aspect of mental states
 - [functionalism](/arguments/functionalism/) — The view that mental states are defined by functional roles
 - [epiphenomenalism](/arguments/epiphenomenalism/) — The view that consciousness has no causal efficacy
+- [consciousness-and-pain](/topics/consciousness-and-pain/) — Extended treatment of pain and conscious experience
+- [suffering-versus-pain](/topics/suffering-versus-pain/) — Why suffering and pain are not the same phenomenon
+- [normative-phenomenology](/concepts/normative-phenomenology/) — How phenomenal properties ground normative claims
 
 ## References
 
-- Barrett, L. F., & Russell, J. A. (1999). Core affect, prototypical emotional episodes, and other things called emotion. *Journal of Personality and Social Psychology*, 76(5), 805-819.
+- Russell, J. A., & Barrett, L. F. (1999). Core affect, prototypical emotional episodes, and other things called emotion: Dissecting the elephant. *Journal of Personality and Social Psychology*, 76(5), 805-819.
 - Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680.
-- Cutter, B. & Tye, M. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1).
+- Cleeremans, A., & Tallon-Baudry, C. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1).
 - Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
 - Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
-- Smithies, D. (2021). Hedonic consciousness and moral status. PhilArchive.
+- Smithies, D. (forthcoming). Hedonic consciousness and moral status. In U. Kriegel (Ed.), *Oxford Studies in Philosophy of Mind* (Vol. 5). Oxford University Press.

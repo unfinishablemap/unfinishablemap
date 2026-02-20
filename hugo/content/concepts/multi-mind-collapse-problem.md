@@ -133,7 +133,7 @@ See [brain-interface-boundary](/concepts/brain-interface-boundary/#what-would-ch
 
 **"Doesn't this make consciousness's role trivially small?"**
 
-The scope is limited—one brain—but not the significance. Consciousness modulating neural patterns is the mechanism for [mental-causation](/concepts/mental-causation/) and [free will](/topics/free-will/). The alternative (epiphenomenalism) makes consciousness do nothing at all. Doing something in one brain is infinitely more than doing nothing anywhere.
+The scope is limited—one brain—but not the significance. Consciousness modulating neural patterns is the mechanism for [mental-causation](/concepts/mental-causation/) and [free will](/concepts/free-will/). The alternative (epiphenomenalism) makes consciousness do nothing at all. Doing something in one brain is infinitely more than doing nothing anywhere.
 
 **"Doesn't relativity still create problems?"**
 

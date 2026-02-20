@@ -77,11 +77,11 @@ None. No factual errors, no missing required sections, no internal contradiction
 **In body:**
 - [philosophical-zombies](/concepts/philosophical-zombies/) — in "Protention Is Not Prediction" section
 - [agent-causation](/concepts/agent-causation/) — in "Agency and Anticipatory Consciousness" section
-- [free-will](/topics/free-will/) — in "Agency and Anticipatory Consciousness" section
+- [free-will](/concepts/free-will/) — in "Agency and Anticipatory Consciousness" section
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — in Minimal Quantum Interaction tenet connection
 
 **In Further Reading:**
-- [free-will](/topics/free-will/)
+- [free-will](/concepts/free-will/)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
 - [agent-causation](/concepts/agent-causation/)
 
@@ -92,7 +92,7 @@ None. No factual errors, no missing required sections, no internal contradiction
 
 **In frontmatter related_articles:**
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
-- [free-will](/topics/free-will/)
+- [free-will](/concepts/free-will/)
 
 ## Remaining Items
 

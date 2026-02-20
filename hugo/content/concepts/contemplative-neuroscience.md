@@ -95,7 +95,7 @@ Focused attention meditation implicates default-mode, control (dlPFC, lateral pa
 
 These are trainable skills. The fact that deliberate practice enhances attentional capacities demonstrates [attention](/attention/) isn't purely bottom-up. [Voluntary-attention-control](/voluntary-attention-control/) can be systematically developed through conscious training.
 
-Connection to [free-will](/topics/free-will/): If [phenomenal-consciousness](/concepts/phenomenal-consciousness/) were epiphenomenal, how would willed effort produce measurable improvements in attentional stability? The training paradigm assumes consciousness can causally influence its own processing.
+Connection to [free-will](/concepts/free-will/): If [phenomenal-consciousness](/concepts/phenomenal-consciousness/) were epiphenomenal, how would willed effort produce measurable improvements in attentional stability? The training paradigm assumes consciousness can causally influence its own processing.
 
 ### The Meditation Modes Distinction
 
@@ -199,7 +199,7 @@ The more sophisticated our phenomenological categories and neural correlates bec
 - [Witness-consciousness](/concepts/witness-consciousness/): Eastern contemplative traditions' phenomenological framework that meditation cultivates
 - [Voluntary-attention-control](/voluntary-attention-control/): Neural mechanisms underlying willed vs. instructed vs. exogenous attention
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/): The two modes: active selection and passive witnessing
-- [Free-will](/topics/free-will/): How meditation evidence connects to agent causation and libertarian accounts
+- [Free-will](/concepts/free-will/): How meditation evidence connects to agent causation and libertarian accounts
 - [Emotional-consciousness](/topics/emotional-consciousness/): Phenomenal character of emotions and their role in consciousness
 - [Epiphenomenalism](/arguments/epiphenomenalism/): Why contemplative neuroscience challenges the view that consciousness is causally inert
 - [Bidirectional-interaction](/concepts/bidirectional-interaction/): The central tenet that contemplative neuroscience supports empirically

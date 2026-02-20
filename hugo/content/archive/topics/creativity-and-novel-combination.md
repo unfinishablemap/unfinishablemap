@@ -204,7 +204,7 @@ None of these conditions currently obtains.
 - [working-memory](/concepts/working-memory/) — The workspace where combination occurs
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Broadcasting account of conscious access
 - [duration](/duration/) — Bergson's lived time as creative becoming
-- [free-will](/topics/free-will/) — How creative agency connects to libertarian free will
+- [free-will](/concepts/free-will/) — How creative agency connects to libertarian free will
 - [creativity-void](/voids/creativity-void/) — Why the creative process is phenomenologically hidden
 
 ## References

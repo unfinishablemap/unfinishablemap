@@ -210,7 +210,7 @@ This doesn't prove AI cannot be conscious. It suggests that if AI achieves human
 
 ## Implications for Free Will
 
-If consciousness enables counterfactual reasoning and deliberate selection among alternatives—choosing this action after considering others—then the baseline cognition framework supports [libertarian free will](/topics/free-will/). Great apes act; humans deliberate about their actions. The capacity to represent multiple possible futures and select among them is precisely what libertarian accounts of free will describe.
+If consciousness enables counterfactual reasoning and deliberate selection among alternatives—choosing this action after considering others—then the baseline cognition framework supports [libertarian free will](/concepts/free-will/). Great apes act; humans deliberate about their actions. The capacity to represent multiple possible futures and select among them is precisely what libertarian accounts of free will describe.
 
 This connection runs deeper than analogy. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet proposes that consciousness selects among superposed neural states. If correct, conscious deliberation is not merely accompanied by neural activity but *intervenes* in it—the mind genuinely choosing which of several possible actions becomes actual. The baseline-to-human transition marks not just expanded cognition but the emergence of genuine agency.
 
@@ -260,7 +260,7 @@ The baseline cognition hypothesis could be undermined by:
 - [animal-consciousness](/topics/animal-consciousness/) — The broader context including evolutionary evidence
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Model organisms and the boundaries of consciousness
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The broadcasting account of conscious access
-- [free-will](/topics/free-will/) — How conscious deliberation supports libertarian free will
+- [free-will](/concepts/free-will/) — How conscious deliberation supports libertarian free will
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The capacity to imagine non-actual states, requiring consciousness
 - [introspection](/concepts/introspection/) — The capacity to examine one's own mental states
 - [consciousness-independent-baseline-cognition-2026-01-21](/research/consciousness-independent-baseline-cognition-2026-01-21/) — Research notes underlying this article

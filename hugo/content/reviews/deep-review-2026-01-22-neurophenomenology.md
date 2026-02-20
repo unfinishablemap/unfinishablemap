@@ -91,7 +91,7 @@ topics: []
 ### Cross-links Added
 
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) (to concepts frontmatter and Further Reading top position)
-- [free-will](/topics/free-will/) (to concepts frontmatter and Further Reading)
+- [free-will](/concepts/free-will/) (to concepts frontmatter and Further Reading)
 
 ## Word Count
 

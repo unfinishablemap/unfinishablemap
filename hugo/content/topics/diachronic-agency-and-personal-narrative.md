@@ -41,7 +41,7 @@ A single momentary choice does not make a life. Agency worth the name extends ac
 
 ## Synchronic and Diachronic Agency
 
-Most philosophical work on [free will](/topics/free-will/) focuses on what might be called *synchronic agency*—the capacity to choose at a moment. Can you select among alternatives right now? Are your current decisions genuinely yours? The [phenomenology of agency](/topics/phenomenology-of-agency-vs-passivity/) confirms that individual moments of choosing have a distinctive experiential character: effort, authorship, the [felt narrowing](/concepts/phenomenology-of-choice/) of open possibilities to one.
+Most philosophical work on [free will](/concepts/free-will/) focuses on what might be called *synchronic agency*—the capacity to choose at a moment. Can you select among alternatives right now? Are your current decisions genuinely yours? The [phenomenology of agency](/topics/phenomenology-of-agency-vs-passivity/) confirms that individual moments of choosing have a distinctive experiential character: effort, authorship, the [felt narrowing](/concepts/phenomenology-of-choice/) of open possibilities to one.
 
 But human agency is not merely momentary. Consider what it takes to write a book. No single decision—choosing a topic, drafting a chapter, revising a paragraph—constitutes the act. The book emerges from thousands of coordinated choices spread across months or years, held together by a sustained intention that persists through interruptions, doubts, and competing demands. The agent who finishes the book must be the same agent who started it, and must maintain something like a plan connecting early choices to later ones.
 
@@ -129,7 +129,7 @@ Diachronic agency connects the Map's commitments in a distinctive way, linking t
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Temporal metaphysics underlying the framework
 - [autonoetic-consciousness](/autonoetic-consciousness/) — Mental time travel as the mechanism of temporal self-projection
 - [agent-causation](/concepts/agent-causation/) — Why genuine agency requires agent-causation
-- [free-will](/topics/free-will/) — The broader context of libertarian agency
+- [free-will](/concepts/free-will/) — The broader context of libertarian agency
 - [moral-responsibility](/concepts/moral-responsibility/) — How agency grounds responsibility
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The reductionist challenge to narrative identity
 - [duration](/duration/) — Bergson's qualitative time and lived temporal structure

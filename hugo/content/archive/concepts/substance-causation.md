@@ -158,7 +158,7 @@ Substance causation provides the metaphysical foundation for the Map's position 
 - [causal-closure](/concepts/causal-closure/) — The principle substance causation challenges
 - [luck-objection](/concepts/luck-objection/) — The main challenge to agent causation
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body
-- [free-will](/topics/free-will/) — The broader question
+- [free-will](/concepts/free-will/) — The broader question
 - [emergence](/concepts/emergence/) — Related concept of novel causal powers
 - [decoherence](/concepts/decoherence/) — The quantum challenge to consciousness-brain interaction
 - [quantum-decoherence-objection](/quantum-decoherence-objection/) — The Map's response to decoherence concerns

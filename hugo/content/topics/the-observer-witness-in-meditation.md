@@ -107,7 +107,7 @@ This explains why contemplative traditions describe both effort and grace, disci
 
 ## Witnessing and Freedom
 
-The witness phenomenon bears on the question of [free will](/topics/free-will/). If freedom requires the capacity for genuine alternatives—if the agent must be able to do otherwise—then the capacity to *not act* matters as much as the capacity to act.
+The witness phenomenon bears on the question of [free will](/concepts/free-will/). If freedom requires the capacity for genuine alternatives—if the agent must be able to do otherwise—then the capacity to *not act* matters as much as the capacity to act.
 
 The witness mode demonstrates consciousness can suspend its selecting function. This is itself a form of freedom: freedom from compulsive engagement, freedom from reactive identification, freedom to observe rather than intervene.
 

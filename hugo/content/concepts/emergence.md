@@ -94,7 +94,7 @@ Three features of consciousness resist reduction:
 
 **Qualia.** The qualitative character of experience seems "dimensionally mismatched" with neural complexity. Jackson's [knowledge argument](/concepts/knowledge-argument/) and Chalmers' zombie argument suggest phenomenal properties resist physical characterization. Putnam's [multiple realizability](/concepts/reductionism/#multiple-realizability) argument reinforces this—if the same quale can be realized by different physical substrates, qualia cannot be identified with any particular neural state.
 
-**[Free will](/topics/free-will/).** Agential experience suggests conscious choice exercises distinctive powers. Compatibilists argue this can be reconciled with determinism, but the Map endorses libertarian free will—the position that genuine alternatives are open at the moment of choice. If correct, [quantum indeterminacy](/concepts/quantum-indeterminacy-free-will/) provides the opening where physics doesn't determine outcomes, while consciousness provides the direction that transforms indeterminacy into agency rather than mere randomness.
+**[Free will](/concepts/free-will/).** Agential experience suggests conscious choice exercises distinctive powers. Compatibilists argue this can be reconciled with determinism, but the Map endorses libertarian free will—the position that genuine alternatives are open at the moment of choice. If correct, [quantum indeterminacy](/concepts/quantum-indeterminacy-free-will/) provides the opening where physics doesn't determine outcomes, while consciousness provides the direction that transforms indeterminacy into agency rather than mere randomness.
 
 Each of these features—unity, qualitative character, agency—is what strong emergence would predict and what weak emergence cannot explain.
 
@@ -181,7 +181,7 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 - [causal-closure](/concepts/causal-closure/) — The principle strong emergentism must deny
 - [downward-causation](/concepts/downward-causation/) — How emergent properties causally influence lower levels
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reduction
-- [free-will](/topics/free-will/) — The debate over whether genuine choice exists and what it requires
+- [free-will](/concepts/free-will/) — The debate over whether genuine choice exists and what it requires
 - [binding-problem](/concepts/binding-problem/) — How distributed processes achieve phenomenal unity
 - [phenomenal-unity](/phenomenal-unity/) — The unity of conscious experience that binding must explain
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge

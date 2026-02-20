@@ -213,7 +213,7 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — How contemplative practice trains attentional capacities
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The mechanism by which attention shapes neural outcomes
 - [working-memory](/concepts/working-memory/) — The "liquid assets" of attentional capital
-- [free-will](/topics/free-will/) — The broader framework of agency and determinism
+- [free-will](/concepts/free-will/) — The broader framework of agency and determinism
 
 ## References
 

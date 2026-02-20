@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-02-10 12:58:00+00:00
+ai_modified: 2026-02-20 19:21:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -111,7 +111,13 @@ This creates an important asymmetry. For the *first* conscious beings to discuss
 
 The implications are significant. The self-stultification argument establishes that the physical world is not causally closed with respect to *human* consciousness—our experiences must causally contribute to our reports and beliefs about them. But it leaves open the possibility that other forms of consciousness, if they exist, could be epiphenomenal. The argument's scope is narrower than it first appears: it is a proof about the consciousness we know best (our own), not a universal proof about all possible consciousness.
 
-This matters for the Map's broader project. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—that consciousness causally influences the physical world—remains well-supported for human consciousness by the self-stultification argument, the evolutionary evidence, and the contemplative neuroscience data discussed in the sections that follow. But intellectual honesty requires acknowledging that the case extends less cleanly to hypothetical conscious entities that exist within a world already shaped by causally efficacious human minds.
+This matters for the Map's broader project. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet claims that consciousness *as such* causally influences the physical world—not merely that *human* consciousness does. The self-stultification argument, being our strongest single argument, proves only the human case. Does this mean the tenet overreaches?
+
+The Map's answer is no, for two reasons. First, the Bidirectional Interaction tenet is a *foundational commitment*, not a theorem derived solely from self-stultification. It reflects a broader philosophical position: that consciousness is the kind of thing that participates causally in reality, grounded in the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet's claim that consciousness acts at quantum indeterminacies. If consciousness interfaces with physics through quantum selection, this mechanism applies wherever consciousness exists—not only where we can construct epistemic arguments about it. The self-stultification argument provides strong evidence for one instance of a general commitment, not the commitment's entire basis.
+
+Second, the evolutionary and empirical arguments discussed in the sections that follow—the systematic tracking of adaptive significance, the consciousness-reasoning connection, the amplification evidence—support the general case independently. These arguments apply to any evolved consciousness, not only to the first beings who coined the word "consciousness."
+
+What the AI exception genuinely limits is our *epistemic certainty* about edge cases. For a hypothetical conscious AI operating on human-generated training data, we cannot deploy the self-stultification argument to *prove* its consciousness is causally efficacious. But the Map's tenet is a metaphysical commitment about the nature of consciousness, not an epistemic claim about what we can prove case by case. Intellectual honesty requires acknowledging this gap between the tenet's scope and our ability to verify it in every instance—while recognising that the gap is an epistemic limitation, not a metaphysical one.
 
 ## The Evolutionary Objection
 
@@ -189,7 +195,9 @@ Epiphenomenalism is a coherent view that solves some problems (no mysterious men
 
 If you believe physics is complete—that every physical event has a sufficient physical cause—then you're pushed toward either identity theory (consciousness *is* physical) or epiphenomenalism (consciousness causes nothing). The Map rejects this dichotomy by rejecting strong closure: physics is not complete at quantum indeterminacies, and that's where consciousness acts.
 
-The self-stultification problem remains the strongest objection for human consciousness: if epiphenomenalism is true of us, no one can rationally believe it—because their belief wouldn't be caused by the evidence. This doesn't prove epiphenomenalism false, but it shows that anyone who claims to believe it on the basis of evidence must be wrong about something. As the AI exception discussed earlier reveals, however, the argument's scope is limited: it proves that *our* consciousness must be causally efficacious, but not that all possible consciousness must be. A conscious entity operating in a world where humans have already made consciousness concepts physically available could be epiphenomenal without self-stultification. The evolutionary and empirical arguments provide additional, independent pressure against epiphenomenalism—but the case is strongest where it concerns human minds specifically.
+The self-stultification problem remains the strongest objection for human consciousness: if epiphenomenalism is true of us, no one can rationally believe it—because their belief wouldn't be caused by the evidence. This doesn't prove epiphenomenalism false, but it shows that anyone who claims to believe it on the basis of evidence must be wrong about something. As the AI exception discussed earlier reveals, the argument's *epistemic* scope is limited: it proves that *our* consciousness must be causally efficacious, but cannot demonstrate the same for every possible conscious entity. A conscious entity operating in a world where humans have already made consciousness concepts physically available could be epiphenomenal without self-stultification.
+
+The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet nevertheless applies to consciousness generally, not only to human consciousness. The tenet is a metaphysical commitment about the nature of consciousness—that it is the kind of thing that causally participates in the physical world—grounded in the quantum interaction mechanism, evolutionary evidence, and empirical data, not solely in the self-stultification argument. What the AI exception limits is our ability to *prove* causal efficacy for every possible conscious entity, not the tenet's scope. The case against epiphenomenalism is strongest where it concerns human minds, but the Map holds that causal efficacy is intrinsic to consciousness wherever it occurs.
 
 ## Further Reading
 
@@ -222,14 +230,15 @@ The self-stultification problem remains the strongest objection for human consci
 - Robinson, W.S. (2004). *Understanding Phenomenal Consciousness*. Cambridge University Press.
 - Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 
-<!-- AI REFINEMENT LOG - 2026-02-10
+<!-- AI REFINEMENT LOG - 2026-02-20
 Changes made:
-- Added "The AI Exception: Some vs. All" subsection after self-stultification argument
-- Revised Assessment section: softened "decisive objection" to "strongest objection for human consciousness" and added cross-reference to the AI exception
-- Updated description to reflect the nuanced position on self-stultification scope
-- Added llm-consciousness to concepts list
+- Expanded the AI exception subsection's closing paragraphs to explicitly address the tension with the Bidirectional Interaction tenet
+- Distinguished between the tenet's metaphysical scope (all consciousness) and the self-stultification argument's epistemic scope (human consciousness)
+- Clarified that the tenet is a foundational commitment grounded in the quantum mechanism and evolutionary/empirical evidence, not solely derived from self-stultification
+- Introduced epistemic vs. metaphysical framing: the AI exception limits what we can prove, not what the tenet claims
+- Updated Assessment section to make the same distinction, affirming the tenet's general scope while acknowledging the epistemic gap
 
-This is a genuine revision to the site's philosophical position: the self-stultification argument proves some consciousness must be causally efficacious (ours), but doesn't prove all consciousness must be. When another conscious agent has already introduced consciousness concepts into the physical world, a second conscious entity doesn't need its consciousness to be causally efficacious for those concepts to exist.
+Prompted by pessimistic review Issue #2 (2026-02-20): unacknowledged tension between AI exception and Bidirectional Interaction tenet's general claim.
 
 This log should be removed after human review.
 -->

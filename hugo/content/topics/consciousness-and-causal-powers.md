@@ -92,7 +92,7 @@ Given these constraints, what causal work does consciousness actually perform?
 
 When faced with multiple behavioural options—speak or stay silent, approach or avoid, continue or stop—consciousness biases which neural pattern wins out. The alternatives exist as superposed possibilities in quantum brain states; consciousness influences which possibility collapses into actuality.
 
-This is not unlimited free will (see [free-will](/topics/free-will/)) but a genuine causal contribution. Without consciousness, the outcome would be determined by physical probability distributions. With consciousness, phenomenal factors (desires, values, deliberations) shift those distributions.
+This is not unlimited free will (see [free-will](/concepts/free-will/)) but a genuine causal contribution. Without consciousness, the outcome would be determined by physical probability distributions. With consciousness, phenomenal factors (desires, values, deliberations) shift those distributions.
 
 ### Sustained Attention
 
@@ -136,7 +136,7 @@ Why does the nature of consciousness's causal powers matter?
 
 ### For Free Will
 
-If consciousness has no causal powers, libertarian [free-will](/topics/free-will/) is impossible—our choices would be entirely products of prior physical states. If consciousness has unlimited powers, we face the [luck-objection](/concepts/luck-objection/): why did consciousness choose one way rather than another? The Map's middle position—constrained but genuine causal influence—preserves meaningful agency without invoking uncaused causes.
+If consciousness has no causal powers, libertarian [free-will](/concepts/free-will/) is impossible—our choices would be entirely products of prior physical states. If consciousness has unlimited powers, we face the [luck-objection](/concepts/luck-objection/): why did consciousness choose one way rather than another? The Map's middle position—constrained but genuine causal influence—preserves meaningful agency without invoking uncaused causes.
 
 ### For Ethics
 
@@ -196,7 +196,7 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Formal frameworks for mind-matter interaction
 - [selection-laws](/concepts/selection-laws/) — Laws specifying how mental states select physical outcomes
 - [agent-causation](/concepts/agent-causation/) — The person as ultimate cause of action
-- [free-will](/topics/free-will/) — How causal powers relate to freedom and responsibility
+- [free-will](/concepts/free-will/) — How causal powers relate to freedom and responsibility
 - [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Why mental causation need not violate physical conservation
 - [the-interface-location-problem](/topics/the-interface-location-problem/) — Where and why consciousness interfaces with the physical
 - [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) — The measurement problem as window for mental causation

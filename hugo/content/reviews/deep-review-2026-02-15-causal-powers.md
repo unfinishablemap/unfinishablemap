@@ -63,7 +63,7 @@ topics: []
 - [causal-closure](/concepts/causal-closure/)
 - [agent-causation](/concepts/agent-causation/)
 - [objections-to-interactionism](/concepts/objections-to-interactionism/)
-- [free-will](/topics/free-will/)
+- [free-will](/concepts/free-will/)
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) (in Further Reading, replacing broken links)
 
 ## Remaining Items

@@ -91,7 +91,7 @@ Nihilism assumes that without cosmic purpose, existence is valueless. But why sh
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world. We're not passive observers of a predetermined show; our choices shape what happens.
 
-This connects to the [free-will](/topics/free-will/) discussion and [agent-causation](/concepts/agent-causation/). The Map's quantum framework proposes that consciousness influences which neural patterns become actual—not by violating physical law, but by biasing quantum outcomes at moments of genuine indeterminacy. This provides the metaphysical grounding existentialists assume but never explain.
+This connects to the [free-will](/concepts/free-will/) discussion and [agent-causation](/concepts/agent-causation/). The Map's quantum framework proposes that consciousness influences which neural patterns become actual—not by violating physical law, but by biasing quantum outcomes at moments of genuine indeterminacy. This provides the metaphysical grounding existentialists assume but never explain.
 
 What you do matters because it has real consequences mediated by irreducible consciousness. Your choices aren't epiphenomenal froth; they're causally efficacious interventions in reality. If consciousness shapes physical outcomes, we're constitutive participants, not negligible spectators.
 
@@ -267,7 +267,7 @@ The position takes seriously what we actually know: consciousness exists, it's r
 
 ### Consciousness and Experience
 - [witness-consciousness](/concepts/witness-consciousness/) — Pure awareness and its significance for meaning
-- [free-will](/topics/free-will/) — The metaphysics of choice and why choices matter
+- [free-will](/concepts/free-will/) — The metaphysics of choice and why choices matter
 - [haecceity](/concepts/haecceity/) — Indexical identity and the unrepeatability of conscious perspectives
 
 ### Perspectives and Limits

@@ -168,7 +168,7 @@ Alternative interpretations—particularly [time-symmetric](/concepts/collapse-a
 - [haecceity](/concepts/haecceity/) — Why indexical identity matters
 - [measurement-problem](/concepts/measurement-problem/) — What all interpretations must solve
 - [collapse-and-time](/concepts/collapse-and-time/) — Time-symmetric alternatives and retrocausal solutions
-- [free-will](/topics/free-will/) — Why genuine selection requires collapse
+- [free-will](/concepts/free-will/) — Why genuine selection requires collapse
 - [tenets](/tenets/) — The foundational commitment against MWI
 - [illusionism](/concepts/illusionism/) — The strongest physicalist challenge and why it doesn't help MWI
 - [decoherence](/concepts/decoherence/) — What decoherence does and doesn't explain

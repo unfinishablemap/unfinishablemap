@@ -80,7 +80,7 @@ topics: []
 
 ## Remaining Items
 
-- The connection to [free-will](/topics/free-will/) (phenomenal normativity supports robust moral agency through direct normative apprehension) remains unexplored. Natural expansion point for future review.
+- The connection to [free-will](/concepts/free-will/) (phenomenal normativity supports robust moral agency through direct normative apprehension) remains unexplored. Natural expansion point for future review.
 - Mackie's argument from queerness is referenced but not fully engaged. The "Relation to Dualism" section notes that dualism defuses queerness, but a more direct engagement with the argument could strengthen the article.
 - The Relation to Phenomenal Value Realism section could more precisely explain the independence of the two views.
 

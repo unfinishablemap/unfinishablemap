@@ -145,7 +145,7 @@ The luck objection directly challenges the Map's [Bidirectional Interaction](/te
 ## Further Reading
 
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Comprehensive systematization including Kane's 2024 convergence and motor selection evidence
-- [free-will](/topics/free-will/) — Broader treatment of free will and determinism
+- [free-will](/concepts/free-will/) — Broader treatment of free will and determinism
 - [agent-causation](/concepts/agent-causation/) — How agents cause actions as substances
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and quantum Zeno mechanism
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The broader framework for consciousness-physics interaction

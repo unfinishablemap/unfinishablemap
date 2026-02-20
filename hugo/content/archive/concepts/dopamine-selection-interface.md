@@ -261,7 +261,7 @@ The quantum selection framework gains explanatory purchase where the simpler vie
 - [motor-selection](/concepts/motor-selection/) — Motor selection mechanisms in detail
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for consciousness-brain interaction
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework
-- [free-will](/topics/free-will/) — The broader topic this illuminates
+- [free-will](/concepts/free-will/) — The broader topic this illuminates
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential character of selection
 - [mental-effort](/concepts/mental-effort/) — Why selection feels effortful
 - [downward-causation](/concepts/downward-causation/) — How consciousness affects neural processes

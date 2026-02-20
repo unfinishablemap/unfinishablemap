@@ -64,7 +64,7 @@ topics: []
 
 - [qualia](/concepts/qualia/) (in new physicalist response section)
 - [knowledge-argument](/concepts/knowledge-argument/) (in new physicalist response section)
-- [free-will](/topics/free-will/) (in voluntary action section and related_articles)
+- [free-will](/concepts/free-will/) (in voluntary action section and related_articles)
 
 ## Word Count
 

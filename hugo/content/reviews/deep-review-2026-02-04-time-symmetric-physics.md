@@ -64,7 +64,7 @@ Added inbound links from six articles that discuss time-symmetric concepts:
 3. **[philosophy-of-time](/concepts/philosophy-of-time/)** — Added link in Quantum Mechanics subsection on time-symmetric interpretations
 4. **[quantum-interpretations](/concepts/quantum-interpretations/)** — Added introductory sentence to TI/TSVF section referencing the physics foundation
 5. **[libet-experiments](/concepts/libet-experiments/)** — Made "Time-symmetric physics" a wikilink in the Retrocausal Resolution section
-6. **[free-will](/topics/free-will/)** — Added link in temporal problem section grounding retrocausality in fundamental physics
+6. **[free-will](/concepts/free-will/)** — Added link in temporal problem section grounding retrocausality in fundamental physics
 
 ### Files Modified
 - `obsidian/concepts/retrocausality.md`

@@ -288,7 +288,7 @@ The assumption that warm biology must be classical turned out false. [Quantum bi
 - [phenomenal-unity](/phenomenal-unity/) — What quantum binding aims to explain
 - [illusionism](/concepts/illusionism/) — The challenge that phenomenal consciousness may be illusory
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and limits of human understanding
-- [free-will](/topics/free-will/) — How quantum indeterminacy relates to libertarian free will
+- [free-will](/concepts/free-will/) — How quantum indeterminacy relates to libertarian free will
 - [agent-causation](/concepts/agent-causation/) — Consciousness as cause at the quantum level
 
 ## References

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Free Will and Determinism](/topics/free-will/)
+**Article**: [Free Will and Determinism](/concepts/free-will/)
 **Previous review**: [2026-01-15](/reviews/deep-review-2026-01-15-free-will/)
 
 ## Pessimistic Analysis Summary

@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 21:36 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/phenomenology-of-moral-experience]], [[topics/phenomenology-of-moral-perception]]
+- **Target**: [[topics/phenomenology-of-moral-experience]]
+- **Archived**: [[archive/topics/phenomenology-of-moral-perception]]
+- **References to review**: 1 (concepts/moral-perception.md — updated inline)
+
 ## 2026-02-20 21:06 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/the-interface-specification-problem]]

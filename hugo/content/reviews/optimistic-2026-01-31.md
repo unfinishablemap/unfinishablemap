@@ -54,7 +54,7 @@ The honest acknowledgment of tensions between process philosophy's panpsychism a
 
 ### The Libertarian Free Will Defender (Kane)
 
-The Map provides perhaps the strongest coherent defense of libertarian free will currently available. The [free-will](/topics/free-will/) article addresses the luck objection directly through three independent markers distinguishing conscious selection from lucky indeterminism: effort phenomenology (random processes don't feel like work), success tracking (lucky events don't feel like achievements), and reason-responsiveness (selection follows normative guidance).
+The Map provides perhaps the strongest coherent defense of libertarian free will currently available. The [free-will](/concepts/free-will/) article addresses the luck objection directly through three independent markers distinguishing conscious selection from lucky indeterminism: effort phenomenology (random processes don't feel like work), success tracking (lucky events don't feel like achievements), and reason-responsiveness (selection follows normative guidance).
 
 The [luck-objection](/concepts/luck-objection/) article engages Kane's 2024 updates explicitly, incorporating agent-causal elements into the event-causal framework. The phenomenology of effort provides the key response: if choices were passive reception of determined or random outcomes, the distinctive feel of deliberative struggle would be deeply mysterious.
 
@@ -166,7 +166,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively prop
 
 | From | To | Reason |
 |------|-----|--------|
-| [free-will](/topics/free-will/) | [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) | Meditation reveals capacity to refrain from selection |
+| [free-will](/concepts/free-will/) | [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) | Meditation reveals capacity to refrain from selection |
 | [machine-consciousness](/topics/machine-consciousness/) | [baseline-cognition](/concepts/baseline-cognition/) | Consciousness as amplifier of baseline capacities |
 | [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) | [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) | Both involve non-decomposable understanding |
 | [personal-identity](/topics/personal-identity/) | [vertiginous-question](/topics/vertiginous-question/) | Both concerned with irreducible indexicality |

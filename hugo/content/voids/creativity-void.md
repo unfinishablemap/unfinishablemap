@@ -144,7 +144,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to the haecceity of
 - [Defended Territory](/voids/defended-territory/) — Thoughts blocked by commitment rather than impossibility
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural cognitive limits
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
-- [Free Will and Determinism](/topics/free-will/) — How creative selection connects to agent causation
+- [Free Will and Determinism](/concepts/free-will/) — How creative selection connects to agent causation
 - [agent-causation](/concepts/agent-causation/) — The framework for consciousness as cause
 
 ## References

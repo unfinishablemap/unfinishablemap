@@ -78,7 +78,7 @@ The concept does significant work in the Map's treatment of [authentic versus in
 
 Inauthentic choice lacks temporal thickness. It responds to immediate pressures without drawing on the depth of accumulated experience. The choice is reactive rather than expressive — present-moment compression where the temporal horizons collapse to near-zero.
 
-This distinction matters for [free-will](/topics/free-will/). If freedom requires that your choices emerge from who you genuinely are — your accumulated experience, your deepest commitments — then temporally thin choices may not be fully free even if they are undetermined. Randomness at a temporally thin moment is mere noise. Indeterminacy at a temporally thick moment, where consciousness selects from possibilities saturated with personal history, is agency.
+This distinction matters for [free-will](/concepts/free-will/). If freedom requires that your choices emerge from who you genuinely are — your accumulated experience, your deepest commitments — then temporally thin choices may not be fully free even if they are undetermined. Randomness at a temporally thin moment is mere noise. Indeterminacy at a temporally thick moment, where consciousness selects from possibilities saturated with personal history, is agency.
 
 ## Contemplative Evidence
 

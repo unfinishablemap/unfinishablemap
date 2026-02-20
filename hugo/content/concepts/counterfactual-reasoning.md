@@ -36,7 +36,7 @@ topics:
 
 Counterfactual reasoning is the capacity to imagine situations that do not, did not, or might not exist—to ask "what if?" and mentally simulate alternative possibilities. The Unfinishable Map proposes that this capacity requires consciousness: explicitly representing non-actual states demands the kind of flexible, integrated processing that baseline cognition cannot achieve. Counterfactual reasoning sits at the heart of what distinguishes human intelligence from sophisticated animal cognition.
 
-The claim is not merely that counterfactual thoughts happen to be conscious but that consciousness is strongly implicated in generating and manipulating representations of non-actual states. This connects counterfactual reasoning to [free will](/topics/free-will/)—if consciousness enables us to represent alternative possibilities and select among them, then genuine choice requires more than neural processing alone.
+The claim is not merely that counterfactual thoughts happen to be conscious but that consciousness is strongly implicated in generating and manipulating representations of non-actual states. This connects counterfactual reasoning to [free will](/concepts/free-will/)—if consciousness enables us to represent alternative possibilities and select among them, then genuine choice requires more than neural processing alone.
 
 ## What Counterfactual Reasoning Involves
 
@@ -82,7 +82,7 @@ Humans transcend this limitation. We plan for need-states we don't currently exp
 
 ## Counterfactual Reasoning and Free Will
 
-Counterfactual reasoning bears directly on [free will](/topics/free-will/). Libertarian free will requires the capacity to have done otherwise—to genuinely select among alternatives rather than following a single determined path. This requires:
+Counterfactual reasoning bears directly on [free will](/concepts/free-will/). Libertarian free will requires the capacity to have done otherwise—to genuinely select among alternatives rather than following a single determined path. This requires:
 
 1. **Representing alternatives**: You must imagine what would happen under different choices
 2. **Evaluating alternatives**: You must assess the counterfactual scenarios against your values and goals
@@ -173,7 +173,7 @@ Counterfactual reasoning connects to multiple [tenets](/tenets/):
 
 - [baseline-cognition](/concepts/baseline-cognition/) — The framework distinguishing consciousness-dependent from baseline cognition
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognitive capacity
-- [free-will](/topics/free-will/) — Counterfactual reasoning's role in genuine choice
+- [free-will](/concepts/free-will/) — Counterfactual reasoning's role in genuine choice
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experience of deliberating among alternatives
 - [working-memory](/concepts/working-memory/) — The workspace where counterfactual scenarios are constructed
 - [agent-causation](/concepts/agent-causation/) — How the agent selects among counterfactually represented options

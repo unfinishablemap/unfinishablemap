@@ -65,7 +65,7 @@ None identified. The article is well-constructed with appropriate caveats and he
 
 ### Cross-links Added
 - [explanatory-gap](/concepts/explanatory-gap/) in text
-- [free-will](/topics/free-will/) in Further Reading
+- [free-will](/concepts/free-will/) in Further Reading
 - [agent-causation](/concepts/agent-causation/) in Further Reading
 - Added corresponding concepts to frontmatter
 

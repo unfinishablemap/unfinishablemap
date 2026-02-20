@@ -56,7 +56,7 @@ Six sympathetic philosopher personas (Property Dualist, Quantum Mind Theorist, P
 
 ### Cross-links Added (Outbound)
 - [introspection](/concepts/introspection/)
-- [free-will](/topics/free-will/)
+- [free-will](/concepts/free-will/)
 
 ### Cross-links Added (Inbound - Orphan Integration)
 The article was identified as orphaned (no inbound links). Added backlinks from:

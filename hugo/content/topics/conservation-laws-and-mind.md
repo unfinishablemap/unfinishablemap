@@ -172,7 +172,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet—
 
 This doesn't prove consciousness acts at quantum indeterminacies. It shows that if consciousness does so act, physics provides no barrier. The positive case for interaction comes from philosophical arguments: the [explanatory-gap](/concepts/explanatory-gap/), the [knowledge-argument](/concepts/knowledge-argument/), the self-stultification of epiphenomenalism, and the [empirical evidence](/concepts/baseline-cognition/) that consciousness enables cognitive functions the unconscious baseline cannot achieve.
 
-The selection framework also has implications for [free-will](/topics/free-will/). If consciousness can select among quantum-permitted neural outcomes, this provides a mechanism for agent causation that libertarians about free will require—a locus where mind genuinely determines what happens rather than merely accompanying physical processes.
+The selection framework also has implications for [free-will](/concepts/free-will/). If consciousness can select among quantum-permitted neural outcomes, this provides a mechanism for agent causation that libertarians about free will require—a locus where mind genuinely determines what happens rather than merely accompanying physical processes.
 
 ## Further Reading
 

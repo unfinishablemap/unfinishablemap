@@ -170,7 +170,7 @@ This topic intersects all five tenets:
 - [measurement-problem](/concepts/measurement-problem/) - Why definite outcomes occur
 - [mind-matter-interface](/concepts/mind-matter-interface/) - How consciousness meets matter
 - [interactionist-dualism](/concepts/interactionist-dualism/) - Causal connection between mind and body
-- [free-will](/topics/free-will/) - If consciousness grounds indexical determination at quantum measurement, the self may be genuinely causal in a libertarian sense
+- [free-will](/concepts/free-will/) - If consciousness grounds indexical determination at quantum measurement, the self may be genuinely causal in a libertarian sense
 
 ## References
 

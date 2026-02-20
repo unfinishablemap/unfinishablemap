@@ -71,7 +71,7 @@ The article was substantially rewritten between the previous review (2026-01-25)
 3. Added wikilinks:
    - [metacognition](/concepts/metacognition/) for procedural metacognition
    - [Temporal expansion](/concepts/temporal-consciousness/) for temporal expansion bullet
-   - [free-will](/topics/free-will/) for flexibility bullet
+   - [free-will](/concepts/free-will/) for flexibility bullet
 
 4. Removed outdated AI refinement log comment.
 
@@ -79,7 +79,7 @@ The article was substantially rewritten between the previous review (2026-01-25)
 
 - [metacognition](/concepts/metacognition/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)
-- [free-will](/topics/free-will/)
+- [free-will](/concepts/free-will/)
 
 ## Word Count
 

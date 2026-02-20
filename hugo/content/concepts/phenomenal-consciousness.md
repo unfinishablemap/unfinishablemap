@@ -121,7 +121,7 @@ The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) holds 
 
 The [argument-from-reason](/topics/argument-from-reason/) provides independent support: only conscious awareness can grasp reasons *as* reasons. Unconscious systems might implement reliable truth-tracking, but genuine rational inference—appreciating *why* conclusions follow—requires phenomenal awareness. P-consciousness is not merely real but causally efficacious in reasoning.
 
-This connects to [free-will](/topics/free-will/) and [agent-causation](/concepts/agent-causation/): if phenomenal consciousness influences physical outcomes, we are genuine agents, not spectators. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) specifies one possible interface where consciousness might influence quantum indeterminacies without violating conservation laws.
+This connects to [free-will](/concepts/free-will/) and [agent-causation](/concepts/agent-causation/): if phenomenal consciousness influences physical outcomes, we are genuine agents, not spectators. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) specifies one possible interface where consciousness might influence quantum indeterminacies without violating conservation laws.
 
 ### Access/Phenomenal Distinction and Dualism
 
@@ -150,7 +150,7 @@ Thomas Nagel's analysis in [objectivity-and-consciousness](/concepts/objectivity
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - What it's like to think
 - [mysterianism](/concepts/mysterianism/) - Cognitive closure and the limits of understanding consciousness
 - [argument-from-reason](/topics/argument-from-reason/) - Why rational inference requires phenomenal consciousness
-- [free-will](/topics/free-will/) - P-consciousness and genuine agency
+- [free-will](/concepts/free-will/) - P-consciousness and genuine agency
 - [agent-causation](/concepts/agent-causation/) - Conscious agents as irreducible causes
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) - The tension between objective description and subjective experience
 

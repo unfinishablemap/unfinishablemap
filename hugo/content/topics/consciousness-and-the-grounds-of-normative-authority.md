@@ -214,7 +214,7 @@ The consciousness-based account of normative authority would face pressure if:
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Beauty, sublimity, and phenomenal experience
 - [normative-phenomenology](/concepts/normative-phenomenology/) — The phenomenology of normative experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reductive explanation
-- [free-will](/topics/free-will/) — Genuine choice at the site of normative conflict
+- [free-will](/concepts/free-will/) — Genuine choice at the site of normative conflict
 
 ## References
 

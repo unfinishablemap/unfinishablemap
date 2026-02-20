@@ -126,7 +126,7 @@ The self extends beyond the specious present. [Personal identity](/topics/person
 
 The self extends forward as well as backward. [Diachronic agency](/topics/diachronic-agency-and-personal-narrative/) is the capacity to author one's future through intention, planning, and commitment. When you form an intention today that will guide action tomorrow, you assume continuity between present self and future self. Life projects, sustained commitments, and long-term plans all depend on prospective integration—the confidence that the person who will carry out these intentions is continuous with the person forming them now.
 
-This prospective dimension matters for [free will](/topics/free-will/). If consciousness can influence future brain states through quantum selection, and if these influences extend across time through memory and intention, then agency becomes temporally thick—not confined to instantaneous choice but woven through life. Each choice shapes the neural substrate for future choices, creating a self-reinforcing pattern where the self is genuinely self-forming across time.
+This prospective dimension matters for [free will](/concepts/free-will/). If consciousness can influence future brain states through quantum selection, and if these influences extend across time through memory and intention, then agency becomes temporally thick—not confined to instantaneous choice but woven through life. Each choice shapes the neural substrate for future choices, creating a self-reinforcing pattern where the self is genuinely self-forming across time.
 
 ## Integration and Indexical Identity
 

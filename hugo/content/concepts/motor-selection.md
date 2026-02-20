@@ -231,7 +231,7 @@ This framework identifies *where* consciousness might influence motor selection�
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of choosing
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis of readiness potential experiments
 - [decoherence](/concepts/decoherence/) — The decoherence challenge and responses
-- [free-will](/topics/free-will/) — The topic page on free will and determinism
+- [free-will](/concepts/free-will/) — The topic page on free will and determinism
 
 ## References
 

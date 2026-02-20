@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-05
-**Article**: [Free Will and Determinism](/topics/free-will/)
+**Article**: [Free Will and Determinism](/concepts/free-will/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-free-will/)
 **Context**: Cross-review considering creativity-consciousness insights
 

@@ -29,7 +29,7 @@ topics: []
 - **Randeniya scope overstatement**: Article implied the 2025 meta-analysis debunked unconscious processing broadly, but it specifically addressed fMRI subliminal processing studies (80 conditions from 16 studies). Resolution: Reworded to accurately scope the finding — "16 fMRI studies claiming to demonstrate subliminal processing" and "the neuroimaging case for extensive unconscious cognition."
 - **Phenomenal vs. access consciousness conflation**: Article used "consciousness" ambiguously — preparation requiring "conscious work" could be restated in physicalist terms as global workspace access. Resolution: Added explicit paragraph clarifying the claim is about phenomenal consciousness, not merely global workspace access, with the REM/NREM evidence as discriminating test.
 - **Operationalizability of "different mode"**: The claim that mind-wandering is "consciousness in a different mode" risked being unfalsifiable redefinition (Empiricist persona). Resolution: The added phenomenal consciousness paragraph addresses this by providing an empirical discriminator — REM vs NREM creative outcomes.
-- **Missing free will connection**: Article listed [free-will](/topics/free-will/) in topics but never discussed it. Resolution: Added free will paragraph to Relation to Site Perspective connecting incubation's selection phase to libertarian free will structure.
+- **Missing free will connection**: Article listed [free-will](/concepts/free-will/) in topics but never discussed it. Resolution: Added free will paragraph to Relation to Site Perspective connecting incubation's selection phase to libertarian free will structure.
 
 ### Counterarguments Considered
 - **Eliminative Materialist**: ECN-to-DMN transition is neural — calling it "shift in conscious mode" may add nothing explanatory. Addressed by the new phenomenal consciousness paragraph showing that phenomenal mode (REM vs NREM) predicts outcomes beyond neural architecture.
@@ -56,7 +56,7 @@ topics: []
 ### Cross-links Added
 - [global-workspace-theory](/concepts/global-workspace-theory/) — in phenomenal consciousness paragraph
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — in dream section (hard problem connection)
-- [free-will](/topics/free-will/) — in Relation to Site Perspective
+- [free-will](/concepts/free-will/) — in Relation to Site Perspective
 
 ## Citation Verification
 

@@ -108,7 +108,7 @@ A musical phrase exemplifies this. Each note is heard *in light of* what came be
 
 ### Duration and Free Will
 
-Bergson connected durée directly to [free will](/topics/free-will/) in *Time and Free Will* (1889). Determinism assumes mental states are discrete, separable, and subject to causal law. But if mental states interpenetrate in qualitative multiplicity, this model fails. There's no distinct "state A" to serve as cause. The whole of one's past converges in each moment as an indivisible movement.
+Bergson connected durée directly to [free will](/concepts/free-will/) in *Time and Free Will* (1889). Determinism assumes mental states are discrete, separable, and subject to causal law. But if mental states interpenetrate in qualitative multiplicity, this model fails. There's no distinct "state A" to serve as cause. The whole of one's past converges in each moment as an indivisible movement.
 
 A free act, for Bergson, emerges from the whole self—from the full depth of one's duration. This connects to the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: the creative novelty Bergson attributes to duration is the opening where consciousness exercises causal power.
 
@@ -282,7 +282,7 @@ Temporal consciousness connects to all five tenets:
 - [tenets](/tenets/) — The foundational commitments of the Map
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How duration's creative novelty relates to the generation-selection model
 - [neurophenomenology](/concepts/neurophenomenology/) — Contemplative science and access to temporal microstructure
-- [free-will](/topics/free-will/) — How temporal structure relates to agency
+- [free-will](/concepts/free-will/) — How temporal structure relates to agency
 - [agent-causation](/concepts/agent-causation/) — The self as originator of action in durée
 - [haecceity](/concepts/haecceity/) — The thisness that grounds temporal identity
 - [binding-problem](/concepts/binding-problem/) — Feature binding and consciousness

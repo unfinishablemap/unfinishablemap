@@ -254,7 +254,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [experiential-alignment](/concepts/experiential-alignment/) — Operationalising phenomenal value realism for AI alignment
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Why AI alignment should target experiential quality
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The evaluative dimension of the explanatory gap
-- [free-will](/topics/free-will/) — Agency as intrinsically valuable phenomenal experience
+- [free-will](/concepts/free-will/) — Agency as intrinsically valuable phenomenal experience
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — What contemplative practice reveals about value and consciousness
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why aesthetic value resists hedonistic reduction
 - [emotional-consciousness](/topics/emotional-consciousness/) — Valence as the felt quality of emotions

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-31
-**Article**: [Free Will and Determinism](/topics/free-will/)
+**Article**: [Free Will and Determinism](/concepts/free-will/)
 **Previous review**: [2026-01-30](/reviews/deep-review-2026-01-30-free-will/)
 **Cross-review context**: causal-interface.md
 

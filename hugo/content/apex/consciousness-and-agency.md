@@ -157,7 +157,7 @@ This article draws on all five tenets. **[Dualism](/tenets/#dualism)**: Agent ca
 ## Source Articles
 
 This apex article synthesizes:
-- [Free Will and Determinism](/topics/free-will/) — The comprehensive treatment of libertarian free will, quantum selection, and the Map's position
+- [Free Will and Determinism](/concepts/free-will/) — The comprehensive treatment of libertarian free will, quantum selection, and the Map's position
 - [Agent Causation](/concepts/agent-causation/) — The metaphysics of agents as irreducible sources of action
 - [Mental Causation](/concepts/mental-causation/) — How consciousness causes physical effects through quantum selection
 - [The Argument from Reason](/topics/argument-from-reason/) — The self-defeat of physicalism and non-phenomenological route to mental causation

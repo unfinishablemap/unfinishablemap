@@ -182,7 +182,7 @@ The **consciousness-modulated CSL** model (McQueen's CSL-IIT or similar) best in
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The measurement problem cannot be solved by simplicity-worship. Spontaneous collapse theories modify quantum mechanics, adding complexity, but gain falsifiability and explanatory power. Experimental accountability demonstrates this is science, not metaphysical speculation.
 
-**Connection to Free Will**: Spontaneous collapse provides a physical locus for [libertarian free will](/topics/free-will/). If consciousness can modulate collapse outcomes within the Born rule probabilities, choices are neither determined (consciousness makes a difference) nor random (modulation is guided by reasons and intentions). This is precisely what [agent causation](/concepts/agent-causation/) requires: a causal power that is neither reducible to prior physical causes nor arbitrary. The baseline stochasticity of GRW/CSL provides the "openness" libertarianism needs; consciousness modulation provides the "control" that distinguishes free action from mere chance. See also the [luck-objection](/concepts/luck-objection/) for how this framework addresses the concern that quantum randomness doesn't constitute genuine freedom.
+**Connection to Free Will**: Spontaneous collapse provides a physical locus for [libertarian free will](/concepts/free-will/). If consciousness can modulate collapse outcomes within the Born rule probabilities, choices are neither determined (consciousness makes a difference) nor random (modulation is guided by reasons and intentions). This is precisely what [agent causation](/concepts/agent-causation/) requires: a causal power that is neither reducible to prior physical causes nor arbitrary. The baseline stochasticity of GRW/CSL provides the "openness" libertarianism needs; consciousness modulation provides the "control" that distinguishes free action from mere chance. See also the [luck-objection](/concepts/luck-objection/) for how this framework addresses the concern that quantum randomness doesn't constitute genuine freedom.
 
 ## Further Reading
 
@@ -197,7 +197,7 @@ The **consciousness-modulated CSL** model (McQueen's CSL-IIT or similar) best in
 - [many-worlds](/arguments/many-worlds/) - the Map's rejection of branching interpretations
 - [integrated-information-theory](/concepts/integrated-information-theory/) - Φ as potential collapse operator in hybrid models
 - [causal-closure](/concepts/causal-closure/) - how spontaneous collapse modifies microphysics without violating conservation laws
-- [free-will](/topics/free-will/) - how spontaneous collapse enables libertarian free will
+- [free-will](/concepts/free-will/) - how spontaneous collapse enables libertarian free will
 - [illusionism](/concepts/illusionism/) - the eliminativist challenge this framework must address
 - [mysterianism](/concepts/mysterianism/) - cognitive limits on understanding the consciousness-collapse interface
 - [argument-from-reason](/topics/argument-from-reason/) - why consciousness must be causally efficacious

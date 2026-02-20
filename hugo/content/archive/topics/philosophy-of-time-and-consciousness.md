@@ -130,7 +130,7 @@ The [hard problem](/topics/hard-problem-of-consciousness/) asks why physical pro
 
 ### For Free Will
 
-The [free will](/topics/free-will/) debate gains new dimensions. If consciousness selects among quantum possibilities and collapse creates irreversibility, then agents participate in creating the temporal structure within which their actions unfold. [Agent causation](/concepts/agent-causation/) isn't action within pre-existing time but participation in time's constitution.
+The [free will](/concepts/free-will/) debate gains new dimensions. If consciousness selects among quantum possibilities and collapse creates irreversibility, then agents participate in creating the temporal structure within which their actions unfold. [Agent causation](/concepts/agent-causation/) isn't action within pre-existing time but participation in time's constitution.
 
 The Libet experiments—showing neural activity preceding conscious awareness—lose their force. If selection is atemporal, it needn't temporally precede neural activity. Consider the analogy: a mathematical function determines which curve appears on a graph without being located at any point on the graph. Similarly, consciousness's selection determines which temporal ordering becomes actual without itself occurring at a time within that ordering. The neural activity "preceding" awareness and the awareness itself are both parts of the selected transaction. The apparent temporal gap between neural readiness potential and conscious decision may reflect our perspective from within the selected transaction, not a causal sequence consciousness must fit into.
 
@@ -161,7 +161,7 @@ The bidirectional relationship between time and consciousness connects to all fi
 - [duration](/duration/) — Bergson's durée and qualitative lived time
 - [specious-present](/specious-present/) — The experienced duration of the present moment
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
-- [free-will](/topics/free-will/) — Temporal agency and the determination question
+- [free-will](/concepts/free-will/) — Temporal agency and the determination question
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader challenge of explaining experience
 
 ## References

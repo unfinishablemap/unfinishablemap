@@ -60,7 +60,7 @@ topics: []
 - Added cross-link to [explanatory-gap](/concepts/explanatory-gap/) in BP2 definition
 - Added cross-link to [prehension](/concepts/prehension/) in Whitehead passage
 - Added cross-link to [mysterianism](/concepts/mysterianism/) in remaining gap passage
-- Added cross-links to [agent-causation](/concepts/agent-causation/) and [free-will](/topics/free-will/) in body text
+- Added cross-links to [agent-causation](/concepts/agent-causation/) and [free-will](/concepts/free-will/) in body text
 - Added [quantum-binding-experimental-evidence](/quantum-binding-experimental-evidence/) to related_articles
 - Strengthened No Many Worlds tenet section with branch-relative engagement
 - Trimmed concepts frontmatter from 23 to 15 (removed concepts no longer referenced in condensed text)
@@ -72,7 +72,7 @@ topics: []
 - [prehension](/concepts/prehension/)
 - [mysterianism](/concepts/mysterianism/)
 - [agent-causation](/concepts/agent-causation/) (body text)
-- [free-will](/topics/free-will/) (body text)
+- [free-will](/concepts/free-will/) (body text)
 - [indexical-identity](/indexical-identity/) (tenet section)
 
 ## Word Count

@@ -94,7 +94,7 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 - **Notable quote**: "This is the darkest implication: uploading might enable perfect murder disguised as immortality."
 - **Why it works**: Takes the philosophical conclusion seriously rather than treating it as abstract theorizing.
 
-### [free-will](/topics/free-will/)
+### [free-will](/concepts/free-will/)
 - **Strongest point**: The three-level structure of agency—selecting among options, refraining from selection (witness mode), or choosing which mode to operate in (meta-level agency).
 - **Notable quote**: "A passive recipient of random quantum events couldn't choose to be passive. The very capacity for witness mode shows consciousness does something rather than merely receiving outcomes."
 - **Why it works**: The phenomenology of meditation provides evidence beyond standard free will debates.
@@ -116,7 +116,7 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 - **Tenet alignment**: Supports Bidirectional Interaction by identifying phenomenal signatures of genuine agency.
 
 #### Bergson and the Duration of Consciousness
-- **Builds on**: [duration](/duration/), [temporal-consciousness](/concepts/temporal-consciousness/), [free-will](/topics/free-will/)
+- **Builds on**: [duration](/duration/), [temporal-consciousness](/concepts/temporal-consciousness/), [free-will](/concepts/free-will/)
 - **Would address**: Bergson is cited but deserves more systematic treatment. His durée concept—lived time as opposed to spatialized clock time—provides crucial resources for understanding why consciousness resists quantification.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism through the argument that consciousness has temporal structure physics cannot capture.
@@ -158,7 +158,7 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 | [phenomenal-value-realism](/concepts/phenomenal-value-realism/) | [existentialism](/concepts/existentialism/) | Sartre's authentic choice has phenomenal character that matters |
 | [meaning-of-life](/topics/meaning-of-life/) | [existentialism](/concepts/existentialism/) | Existentialist answers to meaning need the new systematic treatment |
 | [idealism](/concepts/idealism/) | [symbol-grounding-problem](/concepts/symbol-grounding-problem/) | Idealism dissolves SGP differently than dualism |
-| [free-will](/topics/free-will/) | [existentialism](/concepts/existentialism/) | Sartre's radical freedom aligns with libertarian position |
+| [free-will](/concepts/free-will/) | [existentialism](/concepts/existentialism/) | Sartre's radical freedom aligns with libertarian position |
 
 ## New Concept Pages Needed
 

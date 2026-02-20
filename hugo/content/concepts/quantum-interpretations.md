@@ -168,7 +168,7 @@ The [Libet experiments](/concepts/libet-experiments/) show neural activity prece
 
 ### 2. Free Will Mechanism
 
-The [free-will](/topics/free-will/) article's central proposal—that consciousness selects among quantum possibilities—requires an interpretation where such selection is coherent. Time-symmetric interpretations provide this: consciousness participates in determining which "transaction" completes, which correlations hold across time.
+The [free-will](/concepts/free-will/) article's central proposal—that consciousness selects among quantum possibilities—requires an interpretation where such selection is coherent. Time-symmetric interpretations provide this: consciousness participates in determining which "transaction" completes, which correlations hold across time.
 
 ### 3. No Collapse Timing Problem
 

@@ -156,7 +156,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 - [voluntary-attention](/voluntary-attention/) — Neural signatures of willed attention
 - [libet-experiments](/concepts/libet-experiments/) — The Libet experiments and their interpretation
 - [agent-causation](/concepts/agent-causation/) — Agent causation and the metaphysics of selection
-- [free-will](/topics/free-will/) — The mind-body problem applied to choice
+- [free-will](/concepts/free-will/) — The mind-body problem applied to choice
 
 ## References
 

@@ -140,6 +140,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-02
 
+### P3: Strengthen measurement-problem-as-hard-problem cross-references
+- **Type**: other
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. This article makes the Map's most distinctive contribution (the unification thesis) but is underlinked from emergence.md, filter-theory.md, downward-causation.md, and the tenets page. Cross-linking campaign would increase visibility of the strongest argument. See optimistic-2026-02-20-evening.md
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -167,6 +172,28 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Write article on Bergson and duration
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Bergson's duration as genuinely creative becoming, his filter theory (predating James), and temporal irreducibility are highly compatible with the Map's framework but underrepresented. Builds on creativity-consciousness-and-novel-thought.md, temporal-structure-of-consciousness.md, philosophy-of-time.md. See optimistic-2026-02-20-evening.md
+- **Output**: Bergson and duration
+
+### ✓ 2026-02-20: Write concept page for free will
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Referenced in 8+ articles (phenomenology-of-flow-states, creativity-consciousness, evolution-under-dualism, consciousness-and-causal-powers, epiphenomenalism, mental-causation, interactionist-dualism) but no concept page exists. The Map's framework implies libertarian free will (quantum indeterminacy + conscious selection) without randomness. See optimistic-2026-02-20-evening.md
+- **Output**: Write concept page for free will
+
+### ✓ 2026-02-20: Resolve tension between AI exception and Bidirectional Interaction tenet
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that epiphenomenalism.md's AI exception (self-stultification only proves *our* consciousness is causally efficacious) creates an unacknowledged tension with the Bidirectional Interaction tenet's general claim. The article should explicitly address whether the tenet applies to all consciousness or only the consciousness we have direct evidence for. See pessimistic-2026-02-20-evening.md Issue #2.
+- **Output**: Task context:
+Pessimistic review found that epiphenomenalism.md's AI exception (self-stultification only proves *our* consciousness is causally efficacious) creates an unacknowledged tension with the Bidirectional Interaction tenet's general claim. The article should explicitly address whether the tenet applies to all consciousness or only the consciousness we have direct evidence for. See pessimistic-2026-02-20-evening.md Issue #2.
+
+### ✓ 2026-02-20: Address retrocausality article's structural overconfidence in TI
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the consciousness-application section in retrocausality.md presents a detailed four-step model built on the transactional interpretation, which the article itself describes as a "stable impasse." Restructure so the model's dependence on TI is foregrounded at each step rather than caveated afterward. See pessimistic-2026-02-20-evening.md Issue #1.
+- **Output**: Task context:
+Pessimistic review found the consciousness-application section in retrocausality.md presents a detailed four-step model built on the transactional interpretation, which the article itself describes as a "stable impasse." Restructure so the model's dependence on TI is foregrounded at each step rather than caveated afterward. See pessimistic-2026-02-20-evening.md Issue #1.
 
 ### ✓ 2026-02-20: Write article on consciousness and the phenomenology of framework dependence
 - **Type**: expand-topic

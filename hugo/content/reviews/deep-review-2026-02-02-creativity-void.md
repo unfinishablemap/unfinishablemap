@@ -57,7 +57,7 @@ None. The article contains no factual errors, attribution errors, or internal co
 - [creativity-and-novel-combination](/creativity-and-novel-combination/) — In related_articles and Further Reading
 - [default-mode-network](/concepts/default-mode-network/) — Inline link in Process Void section
 - [agent-causation](/concepts/agent-causation/) — In concepts frontmatter and Further Reading
-- [free-will](/topics/free-will/) — In related_articles and Further Reading
+- [free-will](/concepts/free-will/) — In related_articles and Further Reading
 - [process-and-consciousness](/apex/process-and-consciousness/) — In related_articles
 
 **Inbound links added FROM other articles:**
@@ -65,7 +65,7 @@ None. The article contains no factual errors, attribution errors, or internal co
 - [creativity-and-novel-combination](/creativity-and-novel-combination/) — Added inline link in Bergson section and Further Reading link
 - [the-unobservable-self](/voids/the-unobservable-self/) — Added inline link noting structural parallel
 - [voids](/voids/) — Added to "Specific Voids" navigation section
-- [free-will](/topics/free-will/) — Added inline link in creativity section
+- [free-will](/concepts/free-will/) — Added inline link in creativity section
 - [mysterianism](/concepts/mysterianism/) — Added inline link in concept nativism section
 
 ## Remaining Items

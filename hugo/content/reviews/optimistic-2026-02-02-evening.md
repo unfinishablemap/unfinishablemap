@@ -54,7 +54,7 @@ The Map avoids crude substance dualism by treating the consciousness-brain inter
 
 ### The Libertarian Free Will Defender (Kane)
 
-The [free-will](/topics/free-will/) article provides the most philosophically careful treatment of libertarian free will I've encountered in popular consciousness studies. The distinction between agent-causal and event-causal libertarianism is preserved: "The agent as persisting substance directly causes choices, irreducible to prior mental events."
+The [free-will](/concepts/free-will/) article provides the most philosophically careful treatment of libertarian free will I've encountered in popular consciousness studies. The distinction between agent-causal and event-causal libertarianism is preserved: "The agent as persisting substance directly causes choices, irreducible to prior mental events."
 
 The engagement with the luck objection is direct and serious. The response through agent causation—"The agent's exercise of causal power *is* the explanation"—respects the philosophical difficulty while providing a coherent framework.
 
@@ -94,7 +94,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 - **Notable quote**: "The witness concept points to what Dualism asserts: something beyond physical description. The witnessing perspective is not one more object in the physical world—it is the condition for there being objects of experience at all."
 - **Why it works**: Shows how millennia of contemplative investigation converge with contemporary philosophy and neuroscience.
 
-### [free-will](/topics/free-will/)
+### [free-will](/concepts/free-will/)
 
 - **Strongest point**: The phenomenological grounding of agent causation—the felt difference between choosing and observing is treated as evidence, not illusion.
 - **Notable quote**: "The philosophical core is agent causation: you (the persisting conscious subject) cause your choices. The physical implementation—how this causation interfaces with the brain—is a separate question."
@@ -173,7 +173,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 | [existentialism](/concepts/existentialism/) | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | Sartre's analysis of choice directly relevant |
 | [specious-present](/specious-present/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Currently separate—should explicitly connect |
 | [semantic-memory](/concepts/semantic-memory/) | [autonoetic-consciousness](/autonoetic-consciousness/) | Memory types and conscious awareness |
-| [counterfactual-reasoning](/concepts/counterfactual-reasoning/) | [free-will](/topics/free-will/) | Already connected but could be stronger |
+| [counterfactual-reasoning](/concepts/counterfactual-reasoning/) | [free-will](/concepts/free-will/) | Already connected but could be stronger |
 
 ## New Concept Pages Needed
 
