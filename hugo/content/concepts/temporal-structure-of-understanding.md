@@ -190,7 +190,7 @@ This doesn't prove AI cannot understand. It suggests that if AI does understand,
 
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The broader debate about whether thinking has phenomenal character
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How consciousness structures time experience more generally
-- [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) — Mathematical insight as paradigm case of understanding
+- [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) — Mathematical insight as paradigm case of understanding
 - [specious-present](/specious-present/) — The temporal window within which binding occurs
 - [working-memory](/concepts/working-memory/) — The cognitive system supporting temporal manipulation
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings of knowing, curiosity, and other understanding-related phenomenology

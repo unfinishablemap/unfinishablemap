@@ -68,7 +68,7 @@ A potential complication: some artists with aphantasia—the absence of voluntar
 
 ### The Aesthetic Sense as Real-Time Guide
 
-During creation, aesthetic judgment operates continuously and pre-reflectively. The jazz musician improvising does not stop to evaluate each note; the aesthetic sense operates within the [flow](/topics/phenomenology-of-flow-states/) of performance, accepting or rejecting possibilities faster than deliberate judgment could manage. [Poincaré described](/topics/consciousness-and-mathematical-creativity/) a "special sensibility" that filters mathematical combinations for elegance—an unconscious aesthetic criterion that selects promising ideas before they reach deliberate awareness. Aesthetic creation involves an analogous filter: the artist's felt sense that *this* is working and *that* is not, operating in real time as a phenomenal selection mechanism rather than a rule-following procedure.
+During creation, aesthetic judgment operates continuously and pre-reflectively. The jazz musician improvising does not stop to evaluate each note; the aesthetic sense operates within the [flow](/topics/phenomenology-of-flow-states/) of performance, accepting or rejecting possibilities faster than deliberate judgment could manage. [Poincaré described](/consciousness-and-mathematical-creativity/) a "special sensibility" that filters mathematical combinations for elegance—an unconscious aesthetic criterion that selects promising ideas before they reach deliberate awareness. Aesthetic creation involves an analogous filter: the artist's felt sense that *this* is working and *that* is not, operating in real time as a phenomenal selection mechanism rather than a rule-following procedure.
 
 This real-time aesthetic guidance is phenomenal through and through. It requires there to be something it is like to encounter the work-in-progress. The guidance does not operate on formal properties alone—it responds to meaning, context, emotional resonance, and the creator's own experiential history. A musical phrase that sounds trite to one improviser sounds fresh to another because their aesthetic landscapes differ, shaped by different histories of listening and playing.
 
@@ -150,7 +150,7 @@ The claim that aesthetic creation requires phenomenal consciousness would weaken
 
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Beauty's pervasiveness, for-ness, and evidential force for dualism
 - [distinctiveness-of-human-creativity](/topics/distinctiveness-of-human-creativity/) — Why human creativity differs in kind from AI and animal creativity
-- [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-creativity/) — Mathematical creativity as the sharpest case for consciousness as causal force
+- [consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/) — Mathematical creativity as the sharpest case for consciousness as causal force
 - [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/) — The generation-selection synthesis
 - [aesthetic-void](/voids/aesthetic-void/) — Cognitive limits revealed by profound aesthetic encounter
 - [creativity-void](/voids/creativity-void/) — The inaccessibility of creative origins

@@ -164,7 +164,7 @@ The [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-an
 - **Sleep architecture and consciousness modes**: Beyond the existing sleep article—detailed treatment of sleep stages as interface modulations, with the hypnagogic state as a partially disengaged interface
 - **Ecological consciousness**: How environmental awareness and "nature connectedness" connect to embodied cognition and the interface
 - **Animal grief and mourning**: Extending ethics-of-consciousness through evidence of sophisticated emotional consciousness in other species
-- **The philosophy of mathematics and consciousness**: Extending [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) into philosophy of mathematics proper—are mathematical objects discovered or created, and what does the interface hypothesis imply?
+- **The philosophy of mathematics and consciousness**: Extending [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) into philosophy of mathematics proper—are mathematical objects discovered or created, and what does the interface hypothesis imply?
 
 ## Cross-Linking Suggestions
 

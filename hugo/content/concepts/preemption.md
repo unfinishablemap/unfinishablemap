@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-20 01:36:00+00:00
+ai_modified: 2026-02-20 07:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -82,7 +82,7 @@ Several causal structures could model mental causation. Preemption has advantage
 - **Overdetermination** posits redundant causation. If the physical cause suffices, the mental cause is explanatorily idle—exactly the epiphenomenalist conclusion the dualist wants to avoid.
 - **Joint causation** (neither suffices alone) requires denying that the physical state is sufficient. This conflicts with what physics seems to show about causal completeness—though a physicalist would note that the completeness of physical causal chains is precisely what's at issue between dualists and physicalists.
 - **Constitution** (the mental cause *is* the physical cause under another description) amounts to reductionism, abandoning dualism.
-- **Preemption** preserves the physical state's *capacity* to cause the effect (respecting the spirit of physical sufficiency) while denying it *exercises* that capacity (making room for mental causation). The physical story is not violated—it is displaced.
+- **Preemption** preserves the physical state's *capacity* to cause the effect while denying it *exercises* that capacity (making room for mental causation). This does violate causal closure as standardly formulated: closure requires that every physical event has a sufficient physical cause that *actually operates*, not merely one that *could have* operated. Delegatory preemption accepts this violation. Its defence is not that physical causation is preserved, but that the violation is principled—governed by psychophysical law rather than arbitrary—and that the observable causal pattern remains intact even though the underlying causal structure differs from what physicalism asserts.
 
 ## Relation to Site Perspective
 
@@ -94,13 +94,13 @@ Preemption connects to The Unfinishable Map's framework at multiple points.
 
 **Agent Causation**: The [agent-causal](/concepts/agent-causation/) tradition holds that substances—not prior events—originate actions directly. Agent-causal theories explain *what kind of entity* initiates causation (the conscious agent as substance), while preemption explains *how that initiation relates to the physical causal structure*: the agent's exercise of causal power preempts the physical state's default contribution. Together, substance causation and delegatory preemption answer both the ontological question (who causes?) and the structural question (how does that cause interact with physical causes?).
 
-**Observational Closure**: Saad's model satisfies [observational-closure](/observational-closure/)—no observable violations of physical causal patterns. Preemption produces exactly the effects the physical state would have produced by default. Experiments detect no anomalies, because the causal outcome is identical whether the experience or the physical state does the work. This aligns with the Map's commitment that mental causation should not produce empirically detectable anomalies. It also raises a legitimate methodological tension: if preemption is empirically indistinguishable from purely physical causation, the case for it rests on philosophical arguments (the reality of consciousness, the failure of reductive accounts) rather than direct empirical evidence.
+**Observational Closure**: Saad's model satisfies [observational-closure](/observational-closure/)—no observable violations of physical causal patterns. Preemption produces exactly the effects the physical state would have produced by default. Experiments detect no anomalies, because the causal outcome is identical whether the experience or the physical state does the work. This means delegatory preemption is a metaphysical interpretation of the causal structure, not an empirically testable hypothesis. No experiment can distinguish a world where experiences preempt physical causes from one where physical causes operate unpreempted. The case for preemption rests entirely on philosophical arguments: that consciousness is real and irreducible, that reductive accounts fail, and that a principled causal structure is needed to accommodate non-physical mental causation. Those who find these philosophical arguments compelling have reason to accept preemption; those who demand empirical distinguishability from physicalism will find it wanting.
 
 ## Further Reading
 
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's full framework applying preemption to mental causation
 - [mental-causation](/concepts/mental-causation/) — The broader problem of how consciousness causes physical effects
-- [causal-closure](/concepts/causal-closure/) — The principle that preemption-based dualism challenges
+- [causal-closure](/concepts/causal-closure/) — The principle that delegatory preemption explicitly violates
 - [observational-closure](/observational-closure/) — Why preemption leaves no empirical trace
 - [agent-causation](/concepts/agent-causation/) — The metaphysical framework for conscious agents as causal originators
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Other responses to the exclusion problem
@@ -112,3 +112,15 @@ Preemption connects to The Unfinishable Map's framework at multiple points.
 - Schaffer, J. (2000). Trumping Preemption. *Journal of Philosophy*, 97(4), 165-181.
 - Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
 - Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+
+<!-- AI REFINEMENT LOG - 2026-02-20
+Changes made:
+- Rewrote "Why Preemption Rather Than Other Structures?" bullet to explicitly acknowledge that delegatory preemption violates causal closure as standardly formulated, rather than evasively claiming the physical story is merely "displaced"
+- Rewrote "Observational Closure" paragraph to clearly state that preemption is a metaphysical interpretation, not an empirically testable hypothesis, and that no experiment can distinguish it from standard physicalism
+- Updated further reading entry for causal-closure to reflect the honest acknowledgment
+
+Based on pessimistic review (pessimistic-2026-02-20-morning.md), Issues 1 and 7.
+Key improvements: Intellectual honesty about the framework's empirical status and its relationship to causal closure.
+
+This log should be removed after human review.
+-->

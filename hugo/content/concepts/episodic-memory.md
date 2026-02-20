@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-02-15 06:32:00+00:00
+ai_modified: 2026-02-20 07:36:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ description: Episodic memory is constructive re-experiencing, not data retrieval
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-20 07:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +69,7 @@ Endel Tulving (1927–2023) introduced the episodic/semantic distinction in 1972
 
 **Noetic consciousness** accompanies [semantic memory](/concepts/semantic-memory/)—knowing that Paris is in France, that water boils at 100°C. You are aware of knowing these facts, but the awareness doesn't involve re-experiencing when you learned them. The fact is simply available. Yet noetic consciousness isn't phenomenologically empty—the tip-of-the-tongue phenomenon reveals that semantic retrieval has its own qualitative character. See [cognitive-phenomenology](/concepts/cognitive-phenomenology/) for more on the phenomenology of factual knowledge.
 
-**Autonoetic consciousness** accompanies episodic memory. Tulving defined it as "the capacity that allows adult humans to mentally represent and to become aware of their protracted existence across subjective time." When you remember an episode, you are aware of yourself as having experienced it—you travel back in time to re-inhabit the event.
+**Autonoetic consciousness** accompanies episodic memory. Wheeler, Stuss, and Tulving (1997) defined it as "the capacity that allows adult humans to mentally represent and to become aware of their protracted existence across time." When you remember an episode, you are aware of yourself as having experienced it—you travel back in time to re-inhabit the event.
 
 ### Mental Time Travel
 
@@ -93,7 +93,7 @@ Constructive memory is the principle that remembering is an act of building, not
 
 **Reconsolidation**: Each retrieval makes the memory labile again. During reconsolidation, the reassembled memory is re-stored in modified form—incorporating current emotional states, intervening experiences, and the context of retrieval itself. Frequently retrieved memories drift from the original event through repeated reconstruction. The act of remembering literally changes the memory.
 
-**Schema assimilation**: Bartlett's classic studies demonstrated that memories are progressively regularised toward cultural and personal schemas. Details fitting the schema are preserved; conflicting details are dropped or altered. Memory is "an affair of reconstruction rather than mere reproduction."
+**Schema assimilation**: Bartlett's classic studies demonstrated that memories are progressively regularised toward cultural and personal schemas. Details fitting the schema are preserved; conflicting details are dropped or altered. As Bartlett concluded, memory is an affair of reconstruction rather than mere reproduction.
 
 ### False Memories
 
@@ -107,7 +107,7 @@ Between encoding and retrieval lies consolidation: during [sleep](/concepts/slee
 
 During sleep consolidation, [binding](/concepts/binding-problem/) operations occur—linking memory elements, integrating them with schemas—but without generating experiential unity. This reveals a distinction between *computational binding* (neural operations integrating distributed information) and *phenomenal binding* (the unified experiential result).
 
-If consciousness were identical to neural computation, unconscious memory consolidation would be mysterious. Why does encoding computation produce experience while consolidation computation, equally complex, produces nothing? The answer suggested by sleep research: consciousness engages with neural processes through specific interface mechanisms that are offline during NREM sleep. Memory consolidation doesn't lack consciousness accidentally—it *requires* consciousness withdrawal to operate at the necessary scale and speed.
+If consciousness were identical to neural computation, unconscious memory consolidation would be mysterious. Why does encoding computation produce experience while consolidation computation produces nothing? The answer suggested by sleep research: consciousness engages with neural processes through specific interface mechanisms that are offline during NREM sleep. Memory consolidation proceeds without consciousness during NREM sleep, suggesting the two processes operate under different conditions rather than differing merely in complexity.
 
 ## The Phenomenology of Remembering
 
@@ -143,9 +143,7 @@ Why should construction generate experience? The neural operations involved—pa
 
 ## Hippocampal Binding
 
-The hippocampus binds disparate features—objects, locations, temporal context, emotional tone—into unified episodes. Pattern separation distinguishes similar events; pattern completion enables retrieval from partial cues; relational binding links items to spatial and temporal context, making memory *episodic* rather than merely semantic.
-
-The [binding problem](/concepts/binding-problem/) in consciousness and the binding problem in memory may be the same problem. If the hippocampus generates unified conscious experience through the same processes that encode unified memories, then memory formation is constitutively linked to consciousness. The phenomenal character of re-experiencing might be the same mechanism that generated the original experience, now reactivated in reconstruction.
+The hippocampus binds disparate features—objects, locations, temporal context, emotional tone—into unified episodes through pattern separation, pattern completion, and relational binding. The [binding problem](/concepts/binding-problem/) in consciousness and the binding problem in memory may be the same problem: if the hippocampus generates unified conscious experience through the same processes that encode unified memories, then memory formation is constitutively linked to consciousness. The phenomenal character of re-experiencing might be the same binding mechanism that generated the original experience, now reactivated in reconstruction.
 
 ## Working Memory and Mental Time Travel
 
@@ -161,7 +159,7 @@ The sense of being the same person rests on the immediate phenomenal quality of 
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) claims phenomenal consciousness is an illusion. Keith Frankish proposes that autonoetic consciousness involves "quasi-phenomenal properties"—representations that *seem* to have phenomenal character without actually having it. Perhaps the brain simply tags memories with a "pastness marker" that we misinterpret as a genuine phenomenal property.
+[Illusionism](/concepts/illusionism/) claims phenomenal consciousness is an illusion. Keith Frankish proposes that all phenomenal consciousness involves "quasi-phenomenal properties"—representations that *seem* to have phenomenal character without actually having it. Applied to memory, this would mean the brain tags memories with a "pastness marker" that we misinterpret as a genuine phenomenal property.
 
 ### The Regress Response
 
@@ -175,7 +173,7 @@ The Map finds this insufficient for autonoetic consciousness specifically. The r
 
 ### Contemplative Evidence
 
-[Witness consciousness](/concepts/witness-consciousness/) traditions provide supporting evidence. Experienced meditators report observing memories arising with their temporal markers intact—the pastness appears as a phenomenal quality, distinguishable from present-moment awareness. In jhāna states, autobiographical memories cease; upon emergence, meditators report the contrast highlights the pastness quale's distinctive character. The capacity to observe the pastness quale as a phenomenal property suggests temporal qualia are genuine features of experience, not artefacts of ordinary engagement.
+[Witness consciousness](/concepts/witness-consciousness/) traditions provide supporting evidence. Experienced meditators report observing memories arising with their temporal markers intact—the pastness appears as a phenomenal quality, distinguishable from present-moment awareness. In jhāna states, autobiographical memories cease; upon emergence, meditators report the contrast highlights the pastness quale's distinctive character. These traditions themselves characterise all phenomenal properties as dependently arisen rather than ultimately real—but this does not undermine the observation that pastness functions as a distinct phenomenal quality within experience, which is the claim the Map requires.
 
 ## What Would Challenge This View?
 
@@ -225,8 +223,7 @@ Episodic memory supports all five foundational commitments.
 - Nader, K., Schafe, G.E., & Le Doux, J.E. (2000). Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval. *Nature*, 406(6797), 722-726.
 - Moscovitch, M. et al. (2016). Episodic memory and beyond: The hippocampus and neocortex in transformation. *Annual Review of Psychology*, 67, 105-134.
 - Hassabis, D. & Maguire, E.A. (2007). Deconstructing episodic memory with construction. *Trends in Cognitive Sciences*, 11(7), 299-306.
-- Klein, S.B. (2015). Memory and the sense of personal identity. *Mind*, 121(483), 677-702.
+- Klein, S.B. & Nichols, S. (2012). Memory and the sense of personal identity. *Mind*, 121(483), 677-702.
 - Berntsen, D. (2010). The unbidden past: Involuntary autobiographical memories as a basic mode of remembering. *Current Directions in Psychological Science*, 19(3), 138-142.
 - Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-- Tallis, R. (2016). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
+- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.

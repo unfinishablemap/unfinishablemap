@@ -157,7 +157,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article is genuinely inno
 - **Tenet alignment**: Universal phenomenology would strengthen the evidence base for Bidirectional Interaction
 
 #### The Phenomenology of Mathematical Creativity
-- **Builds on**: [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/), [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/)
+- **Builds on**: [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/), [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/)
 - **Would address**: What mathematicians report about insight, proof discovery, and the "rightness" of solutions
 - **Estimated scope**: Short article
 - **Tenet alignment**: Supports consciousness's role in novel combination beyond recombination

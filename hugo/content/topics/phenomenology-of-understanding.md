@@ -219,7 +219,7 @@ Several findings would weaken the claim that understanding has irreducible pheno
 
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The broader debate about whether thinking has phenomenal character
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — The temporal unfolding of comprehension
-- [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) — Mathematical insight as paradigm case
+- [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) — Mathematical insight as paradigm case
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge itself
 - [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/) — Whether meaning requires phenomenal experience
 - [phenomenology](/concepts/phenomenology/) — The philosophical method of first-person investigation

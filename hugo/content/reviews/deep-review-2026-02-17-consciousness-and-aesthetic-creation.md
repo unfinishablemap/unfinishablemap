@@ -72,7 +72,7 @@ topics: []
 - [epiphenomenalism](/arguments/epiphenomenalism/)
 - [consciousness-and-aesthetic-value](/consciousness-and-aesthetic-value/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
-- [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-creativity/) (body text link)
+- [consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/) (body text link)
 - [mental-imagery](/concepts/mental-imagery/) (body text link)
 
 ## Remaining Items

@@ -18,6 +18,89 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 09:36 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/), [consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/)
+- **Target**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)
+- **Archived**: [consciousness-and-mathematical-understanding](/archive/topics/consciousness-and-mathematical-understanding/), [consciousness-and-mathematical-creativity](/archive/topics/consciousness-and-mathematical-creativity/)
+- **References to review**: 12 active content files
+
+## 2026-02-20 09:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Problem of Normative Integration
+- **Output**: [consciousness-and-the-problem-of-normative-integration](/topics/consciousness-and-the-problem-of-normative-integration/)
+- **Word count**: 2068
+- **Based on research**: Partially (drew on [voids-normative-void-2026-02-02](/research/voids-normative-void-2026-02-02/))
+
+## 2026-02-20 09:06 UTC - deep-review
+- **Status**: Success
+- **File**: [interface-friction](/concepts/interface-friction/)
+- **Word count**: 1296 → 1671 (+375)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 6
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-02-20-interface-friction](/reviews/deep-review-2026-02-20-interface-friction/)
+
+## 2026-02-20 08:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Epistemology of Convergence Arguments
+- **Output**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
+- **Word count**: 1744
+- **Based on research**: no
+
+## 2026-02-20 08:36 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Phenomenology of Constraint Satisfaction
+- **Output**: [consciousness-and-the-phenomenology-of-constraint-satisfaction](/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/)
+- **Word count**: 1537
+- **Based on research**: no
+
+## 2026-02-20 08:21 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content across topics (~189), concepts (~176), tenets (1), apex (13), voids (~63)
+- **Output**: [optimistic-2026-02-20-morning](/reviews/optimistic-2026-02-20-morning/)
+
+## 2026-02-20 07:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
+- **Changes**: Engaged Loar's PCS and non-reductive physicalism substantively; added HOT theory challenge with dualist reply; reframed Dualism tenet section to distinguish substance dualism from phenomenological realism; sharpened opening paragraph
+- **Published**: yes
+
+## 2026-02-20 07:36 UTC - deep-review
+- **Status**: Success
+- **File**: [episodic-memory](/concepts/episodic-memory/)
+- **Word count**: 3285 → 3288 (+3, length-neutral mode)
+- **Critical issues addressed**: 5 (Klein citation wrong year/missing co-author, Tulving quote misattributed and embellished, orphan Whitehead reference, Frankish misattribution, Tallis reprint year)
+- **Medium issues addressed**: 4 (consolidation "equally complex" claim, unsupported "consciousness withdrawal required" claim, uncertain Bartlett quote, contemplative evidence selectivity)
+- **Enhancements made**: 1 (tightened Hippocampal Binding section)
+- **Output**: [deep-review-2026-02-20-episodic-memory](/reviews/deep-review-2026-02-20-episodic-memory/)
+
+## 2026-02-20 07:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
+- **Changes**: Rewrote phase transition passage to address pessimistic review finding—now explicitly argues why consciousness transitions (first-person phenomenal properties) differ from physical phase transitions (third-person structural properties) rather than asserting the difference without argument
+- **Published**: yes
+
+## 2026-02-20 07:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [preemption](/concepts/preemption/)
+- **Changes**: Addressed two issues from pessimistic review: (1) explicitly acknowledged delegatory preemption violates causal closure rather than evasively claiming physical story is "displaced"; (2) clearly stated preemption is a metaphysical interpretation, not an empirically testable hypothesis
+- **Published**: yes
+
+## 2026-02-20 06:51 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/protention.md, concepts/categorical-surprise.md, concepts/phenomenal-acquaintance.md, concepts/preemption.md, concepts/anoetic-noetic-autonoetic-consciousness.md, topics/the-interface-location-problem.md, voids/apophatic-cartography.md
+- **Output**: [pessimistic-2026-02-20-morning](/reviews/pessimistic-2026-02-20-morning/)
+
+## 2026-02-20 06:06 UTC - deep-review
+- **Status**: Success
+- **File**: [protention](/concepts/protention/)
+- **Word count**: 1371 → 1574 (+203)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 9
+- **Enhancements made**: 7
+- **Output**: [deep-review-2026-02-20-protention](/reviews/deep-review-2026-02-20-protention/)
+
 ## 2026-02-20 04:51 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Configuration Void

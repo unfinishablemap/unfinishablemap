@@ -3219,7 +3219,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Medium issues addressed**: 4
   - Lucas-Penrose argument now explicitly noted as minority position rejected by most cognitive scientists
   - Wolfram's computational irreducibility clarified as thesis rather than proven universal result
-  - Added cross-link to [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) in Gödel section
+  - Added cross-link to [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) in Gödel section
   - Added cross-links to [mysterianism](/concepts/mysterianism/) and [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
 - **Enhancements made**: 3
   - consciousness-and-mathematical-understanding added to frontmatter concepts

@@ -113,7 +113,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is illustrated by t
 
 - [creativity-consciousness-and-novel-thought](/topics/creativity-consciousness-and-novel-thought/)
 - [consciousness-and-surprise](/consciousness-and-surprise/)
-- [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-creativity/)
+- [consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/)
 - [phenomenology-of-surprise-and-prediction-error](/phenomenology-of-surprise-and-prediction-error/)
 - [distinctiveness-of-human-creativity](/topics/distinctiveness-of-human-creativity/)
 - [creativity-void](/voids/creativity-void/)

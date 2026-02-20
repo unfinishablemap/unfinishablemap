@@ -1055,7 +1055,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-15 01:24 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-creativity/)
+- **File**: [consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/)
 - **Word count**: 2230 → 2828 (+598)
 - **Critical issues addressed**: 3 (missing falsification section, MWI mischaracterization, creation-vs-discovery contradiction)
 - **Medium issues addressed**: 6 (illusionist challenge, introspective caveat, AI section update, infinite domains nuance, cross-links x2)

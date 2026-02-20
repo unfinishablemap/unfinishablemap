@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-15
-**Article**: [Consciousness and Mathematical Creativity](/topics/consciousness-and-mathematical-creativity/)
+**Article**: [Consciousness and Mathematical Creativity](/consciousness-and-mathematical-creativity/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

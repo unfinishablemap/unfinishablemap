@@ -131,7 +131,7 @@ This combination of philosophical rigor with appropriate humility about limits i
 - **Tenet alignment**: Supports Dualism by showing unity resists physical explanation
 
 #### Consciousness and Mathematical Intuition
-- **Builds on**: [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/), [argument-from-reason](/topics/argument-from-reason/)
+- **Builds on**: [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/), [argument-from-reason](/topics/argument-from-reason/)
 - **Would address**: Why mathematical insight seems to require consciousness—extending the argument from reason to mathematical knowledge
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism by showing mathematical understanding involves irreducible phenomenology
@@ -155,7 +155,7 @@ This combination of philosophical rigor with appropriate humility about limits i
 | From | To | Reason |
 |------|-----|--------|
 | [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) | [argument-from-reason](/topics/argument-from-reason/) | Understanding's phenomenology supports argument that grasping reasons requires consciousness |
-| [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) | [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) | Mathematical understanding as paradigm case |
+| [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) | [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) | Mathematical understanding as paradigm case |
 | [dreamless-sleep-void](/voids/dreamless-sleep-void/) | [personal-identity](/topics/personal-identity/) | Deep sleep challenges continuity accounts of identity |
 | [normative-void](/voids/normative-void/) | [meaning-of-life](/topics/meaning-of-life/) | Extends mysterianism to value questions |
 | [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) | [time-symmetric-physics](/concepts/time-symmetric-physics/) | Empirical claims connect to theoretical framework |

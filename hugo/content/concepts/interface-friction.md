@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-15 03:15:00+00:00
+ai_modified: 2026-02-20 09:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,6 +23,7 @@ description: Interface friction is the resistance consciousness encounters when 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-20 09:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -37,7 +38,7 @@ topics:
 
 Interface friction is the resistance consciousness encounters when operating through the brain. If The Unfinishable Map's [two-layer architecture](/concepts/mind-matter-interface/) is correct—consciousness exists independently and acts through a neural interface—then that interface imposes costs. Selections take effort. Bandwidth is narrow. Intentions lose precision as they cross from mental to physical. Interface friction names these costs collectively: the gap between what consciousness intends and what the brain delivers.
 
-This concept matters because friction is not a defect. It is diagnostic. The specific ways the interface resists reveal its structure, just as the drag on a tool reveals properties of the material it cuts.
+This concept matters because friction is diagnostic. The specific ways the interface resists reveal its structure, just as the drag on a tool reveals properties of the material it cuts. Unlike a physicalist redescription—where attentional limits, motor error, and cognitive load are simply neural processing bottlenecks—interface friction predicts that these costs should exhibit a distinctive pattern: systematic rather than random, responsive to effort, and structured by the narrowness of a cross-domain channel.
 
 ## Sources of Friction
 
@@ -45,7 +46,7 @@ Interface friction arises from at least four distinct sources, each operating at
 
 ### Bandwidth Limitation
 
-Conscious processing operates at roughly 10 bits per second while the brain handles on the order of 10⁹ bits per second. This [bandwidth constraint](/topics/neural-bandwidth-constraints-and-the-interface/) is the most fundamental source of friction. Consciousness cannot address the brain's full computational output—it selects among prepared options through a channel seven orders of magnitude narrower than the brain's internal processing.
+Conscious processing operates at roughly 10–50 bits per second—depending on modality and task—while the brain handles on the order of 10⁹ bits per second (Zimmermann 1986; Norretranders 1998). This [bandwidth constraint](/topics/neural-bandwidth-constraints-and-the-interface/) is the most fundamental source of friction. Consciousness cannot address the brain's full computational output—it selects among prepared options through a channel seven orders of magnitude narrower than the brain's internal processing.
 
 The bandwidth limitation means consciousness operates at the policy level, not the neuron level. "Reach for the cup" rather than "fire motor neuron N₄₅₆₇₈." Every conscious intention must be translated into neural implementation details that consciousness cannot directly specify. This translation introduces friction—the gap between the coarse grain of intention and the fine grain of neural execution.
 
@@ -63,7 +64,9 @@ This coupling imprecision is familiar from everyday experience. The word you wan
 
 ### Attentional Cost
 
-Sustaining conscious influence requires [effort](/concepts/mental-effort/). The phenomenology of effortful concentration—the felt strain of maintaining focus, the relief when attention relaxes—reflects genuine work at the interface. On the quantum Zeno interpretation, holding a neural pattern stable against decoherence requires repeated observation. Each observation costs something, and the cost accumulates.
+Sustaining conscious influence requires [effort](/concepts/mental-effort/). The phenomenology of effortful concentration—the felt strain of maintaining focus, the relief when attention relaxes—reflects genuine work at the interface. On the quantum Zeno interpretation (Stapp 2001; Schwartz et al. 2005), holding a neural pattern stable against decoherence requires repeated observation. Each observation costs something, and the cost accumulates.
+
+A tension exists between the bandwidth limitation (tens of bits per second) and the observation rate the quantum Zeno effect would require (potentially far faster than conscious deliberation). One resolution: the observations that sustain Zeno stabilisation need not be individually conscious. Consciousness may set the *target* pattern at low bandwidth while a sub-personal coupling mechanism sustains the high-frequency observations. The felt effort of concentration would then reflect the cost of maintaining this target specification against competing demands, not the cost of each individual quantum observation.
 
 [Attentional economics](/concepts/attentional-economics/) treats this cost seriously. Attention is a scarce resource because the interface channel is narrow and maintaining selection against the brain's default dynamics is effortful. Interface friction explains *why* attention is scarce: the mind-brain channel has finite capacity and maintaining influence through it requires sustained expenditure.
 
@@ -91,7 +94,9 @@ These are speculative interpretations, offered to illustrate the concept's expla
 
 Interface friction has a natural home in [filter theory](/concepts/filter-theory/). If the brain constrains consciousness rather than producing it, friction is the cost of that constraint. Consciousness presses against the filter; the filter resists. The bandwidth limitation is the filter's aperture. Decoherence pressure is the physical environment degrading the filter's sensitivity. Coupling imprecision is the filter's resolution limit.
 
-On production models, the equivalent phenomena are simply neural processing limitations—bottlenecks in information processing, noise in neural coding, resource constraints in attention. These are adequate descriptions but they lack the explanatory structure that the filter framework provides. The filter model predicts that reduced neural constraint should produce *expanded* rather than *degraded* conscious experience—and psychedelic research, where default-mode network suppression correlates with reports of enriched phenomenology, is consistent with this prediction.
+On production models, the equivalent phenomena are neural processing limitations—bottlenecks in information processing, noise in neural coding, resource constraints in attention. These descriptions are adequate locally but leave a question unanswered: why should the system's constraints exhibit the specific pattern they do—systematic, effort-responsive, and asymmetric between novel and practised operations? The filter framework provides a structural answer: friction has the shape it does because it reflects a cross-domain coupling, not merely internal noise.
+
+The filter model also generates a distinctive prediction: reduced neural constraint should produce *expanded* rather than *degraded* conscious experience. Psychedelic research offers partial support—default-mode network suppression correlates with reports of enriched phenomenology (Carhart-Harris et al. 2012). The evidence is mixed, however, since psychedelics also impair task performance and narrative coherence. The filter interpretation accommodates this: loosening the filter widens the aperture but sacrifices the precision that normal friction provides.
 
 ## Relation to Site Perspective
 
@@ -100,6 +105,8 @@ On production models, the equivalent phenomena are simply neural processing limi
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The minimality of the interaction *produces* friction. A larger interaction—more energy, broader scope, finer grain—would reduce friction but violate the constraint. The interface is narrow precisely because the tenet demands minimal intervention. Friction is the price of minimality.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Friction operates in both directions. Consciousness-to-brain: the bandwidth limitation, decoherence pressure, and coupling imprecision described here. Brain-to-consciousness: the filter's constraint on what reaches awareness, the limitations of [introspection](/concepts/introspection/), the opacity of unconscious processing to conscious inspection. The [causal interface void](/voids/causal-interface/)—our inability to observe how intention becomes action—may itself be a form of friction in the brain-to-consciousness direction.
+
+**[No Many Worlds](/tenets/#no-many-worlds)**: The concept of friction depends on genuine selection—consciousness resolving a quantum indeterminacy into one outcome rather than another. Under many-worlds, every outcome is realised in some branch and there is no selection to resist. Friction requires collapse (or an equivalent single-outcome interpretation) so that the costs of choosing are real rather than illusory.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Interface friction adds complexity to the mind-brain picture. A simpler model would have consciousness either identical to neural processing (no friction, no interface) or entirely disconnected (infinite friction, no interaction). The intermediate position—real but imperfect coupling—is messier but matches the phenomenology of effortful cognition, partial control, and the gap between intention and execution.
 
@@ -115,3 +122,11 @@ On production models, the equivalent phenomena are simply neural processing limi
 - [causal-interface](/voids/causal-interface/) — The void at the heart of the interface
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge as friction source
 - [filter-theory](/concepts/filter-theory/) — The filter model where friction has its natural home
+
+## References
+
+- Carhart-Harris, R. L., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *Proceedings of the National Academy of Sciences*, 109(6), 2138–2143.
+- Norretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
+- Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309–1327.
+- Stapp, H. P. (2001). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+- Zimmermann, M. (1986). Neurophysiology of sensory systems. In R. F. Schmidt (Ed.), *Fundamentals of Sensory Physiology* (3rd ed., pp. 68–116). Springer.

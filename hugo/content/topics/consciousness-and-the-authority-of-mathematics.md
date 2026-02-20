@@ -158,8 +158,8 @@ The view would be *supported* by:
 
 ## Further Reading
 
-- [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) — The phenomenology of mathematical insight as evidence for irreducible consciousness
-- [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-creativity/) — Mathematical creation as the strongest evidence for consciousness doing causal work
+- [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) — The phenomenology of mathematical insight as evidence for irreducible consciousness
+- [consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/) — Mathematical creation as the strongest evidence for consciousness doing causal work
 - [mathematical-void](/voids/mathematical-void/) — Where formal manipulation succeeds but genuine understanding fails
 - [consciousness-and-normative-authority](/topics/consciousness-and-normative-authority/) — Parallel case for consciousness grounding authority in normative domains
 - [against-materialism](/against-materialism/) — The broader argument against reducing consciousness to physical processes

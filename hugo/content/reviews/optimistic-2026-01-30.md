@@ -115,7 +115,7 @@ The Map's honesty about what remains uncertain—whether specific quantum mechan
 - **Tenet alignment**: All five tenets bear on this question; would strengthen Dualism's practical relevance.
 
 #### The Phenomenology of Mathematical Understanding
-- **Builds on**: [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/), [argument-from-reason](/topics/argument-from-reason/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
+- **Builds on**: [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/), [argument-from-reason](/topics/argument-from-reason/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - **Would address**: The argument from reason suggests consciousness is needed for genuine understanding. What is it like to grasp a mathematical truth? This could strengthen the case that computation alone doesn't suffice.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism and Bidirectional Interaction through the reasoning connection.

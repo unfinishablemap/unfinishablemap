@@ -121,7 +121,7 @@ The phenomenology of inferential understanding is not just a philosophical curio
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The experience of reasoning as work
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The debate over whether thinking has phenomenal character
 - [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — How phenomenal consciousness grounds aboutness
-- [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) — Mathematical inference as paradigm case
+- [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) — Mathematical inference as paradigm case
 - [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-logic/) — Why logical relationships carry normative force
 - [phenomenology-of-evidence-assessment](/topics/phenomenology-of-evidence-assessment/) — The felt weight of reasons
 - [argument-from-reason](/topics/argument-from-reason/) — Why genuine reasoning requires consciousness

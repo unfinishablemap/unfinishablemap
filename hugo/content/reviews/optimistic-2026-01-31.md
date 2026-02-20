@@ -168,7 +168,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively prop
 |------|-----|--------|
 | [free-will](/topics/free-will/) | [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) | Meditation reveals capacity to refrain from selection |
 | [machine-consciousness](/topics/machine-consciousness/) | [baseline-cognition](/concepts/baseline-cognition/) | Consciousness as amplifier of baseline capacities |
-| [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) | [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) | Both involve non-decomposable understanding |
+| [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) | [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) | Both involve non-decomposable understanding |
 | [personal-identity](/topics/personal-identity/) | [vertiginous-question](/topics/vertiginous-question/) | Both concerned with irreducible indexicality |
 | [death-and-consciousness](/topics/death-and-consciousness/) | [near-death-experiences](/concepts/near-death-experiences/) | Obvious pairing, currently mentioned but not cross-linked |
 | [implicit-memory](/concepts/implicit-memory/) | [voluntary-attention](/voluntary-attention/) | Choking shows attention's causal efficacy |

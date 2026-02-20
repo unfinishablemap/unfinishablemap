@@ -72,13 +72,13 @@ topics: []
 - Enriched incubation phase phenomenology with "pregnant opacity" description and epistemic emotion cross-link
 - Added functionalist engagement paragraph after the LLM discussion
 - Added cross-link to `[attention-as-interface](/concepts/attention-as-interface/)` in anti-epiphenomenalism section
-- Added cross-link to `[consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-creativity/)` in Further Reading and frontmatter
+- Added cross-link to `[consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/)` in Further Reading and frontmatter
 - Added `[epiphenomenalism](/arguments/epiphenomenalism/)` to frontmatter concepts
 - Replaced broken `[metarepresentation](/metarepresentation/)` link with link to `[phenomenal-consciousness](/concepts/phenomenal-consciousness/)`
 
 ### Cross-links Added
 
-- [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-creativity/)
+- [consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/)
 - [epistemic-emotions](/concepts/epistemic-emotions/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)

@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced mathematical cognition articles
+- **Type**: other
+- **Notes**: Coalesce (2026-02-20) merged `consciousness-and-mathematical-understanding.md` and `consciousness-and-mathematical-creativity.md` into `consciousness-and-mathematical-cognition.md`. 12 active content files reference the archived articles. Files referencing `[consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/)`: consciousness-and-the-authority-of-mathematics.md, mysterianism.md, consciousness-and-the-authority-of-logic.md, phenomenology-of-inferential-understanding.md, cognitive-phenomenology.md, phenomenology-of-understanding.md, computational-cognitive-limits.md, introspection.md, temporal-structure-of-understanding.md. Files referencing `[consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/)`: surprise-and-creativity.md, consciousness-and-the-authority-of-mathematics.md, consciousness-and-aesthetic-creation.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)` where appropriate.
+- **Source**: coalesce
+- **Generated**: 2026-02-20
+
 ### P2: Update references to coalesced skill articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-19) merged `phenomenology-of-skill-and-the-lived-body.md`, `paradox-of-effortless-mastery.md`, and `phenomenology-of-skill-transition.md` into `consciousness-and-skilled-performance.md`. 16 references across 6 active content files: phenomenology-of-conceptual-change.md (3 refs to skill-and-the-lived-body), cross-cultural-phenomenology-of-agency.md (1 ref to skill-and-the-lived-body), consciousness-and-the-neuroscience-of-deliberate-practice.md (5 refs to all three), phenomenology-of-flow-states.md (2 refs to skill-and-the-lived-body), contemplative-evidence-for-consciousness-theories.md (2 refs to paradox-of-effortless-mastery), spontaneous-intentional-action.md (2 refs to paradox-of-effortless-mastery). Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)` where appropriate.
@@ -161,6 +167,43 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Write article on consciousness and the problem of normative integration
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-20 (morning). The Map has separate articles on logical, moral, and aesthetic normativity. What's missing is a systematic treatment of how consciousness integrates these different normative domains into unified deliberation. Builds on consciousness-and-the-problem-of-normative-force.md, phenomenology-of-normative-conflict.md, consciousness-and-the-authority-of-logic.md. See optimistic-2026-02-20-morning.md
+- **Output**: consciousness and the problem of normative integration
+
+### ✓ 2026-02-20: Write article on the epistemology of convergence arguments in philosophy
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-20 (morning). The convergence argument article applies the pattern to dualism specifically, but the methodology itself deserves formalisation. When do independent arguments converging on the same conclusion provide genuinely cumulative evidence? Builds on the-convergence-argument-for-dualism.md, consciousness-and-the-philosophy-of-explanation.md, epistemological-limits-of-occams-razor.md. See optimistic-2026-02-20-morning.md
+- **Output**: the epistemology of convergence arguments in philosophy
+
+### ✓ 2026-02-20: Write article on consciousness and the phenomenology of constraint satisfaction
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-20 (morning). The control-theoretic framework identifies five operations but doesn't explore what it feels like to operate under multiple simultaneous constraints — moral, practical, temporal, aesthetic. The phenomenology of constraint satisfaction may reveal how consciousness integrates normative, practical, and affective inputs into a single control output. Builds on control-theoretic-will.md, phenomenology-of-deliberation-under-uncertainty.md, phenomenology-of-normative-conflict.md. See optimistic-2026-02-20-morning.md
+- **Output**: consciousness and the phenomenology of constraint satisfaction
+
+### ✓ 2026-02-20: Engage non-reductive physicalism in phenomenal-acquaintance.md and categorical-surprise.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-20 morning) found that both articles treat the argumentative landscape as a binary between reductive physicalism and dualism, ignoring non-reductive physicalism — the dominant contemporary position — which accepts phenomenal properties' reality and mental causation without substance dualism. Phenomenal-acquaintance.md should engage Loar's phenomenal concepts strategy more substantively. Categorical-surprise.md should address emergentist physicalist accounts where framework transcendence is a higher-order physical capacity. Both should explain why their arguments support substance dualism specifically, not merely phenomenological realism. See pessimistic-2026-02-20-morning.md
+- **Output**: obsidian/concepts/phenomenal-acquaintance.md
+
+Task context:
+Pessimistic review (2026-02-20 morning) found that both articles treat the argumentative landscape as a binary between reductive physicalism and dualism, ignoring non-reductive physicalism — the dominant contemporary position — which accepts phenomenal properties' reality and mental causation without substance dualism. Phenomenal-acquaintance.md should engage Loar's phenomenal concepts strategy more substantively. Categorical-surprise.md should address emergentist physicalist accounts where framework transcendence is a higher-order physical capacity. Both should explain why their arguments support substance dualism specifically, not merely phenomenological realism. See pessimistic-2026-02-20-morning.md
+
+### ✓ 2026-02-20: Fix phase transition analogy backfire in anoetic-noetic-autonoetic-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-20 morning) found the article concedes phase transitions produce qualitative breaks from quantitative physical changes, then asserts without argument that "consciousness transitions are not derivable from computational properties." The phase transition analogy actually weakens the dualist case by showing qualitative breaks *can* emerge from purely physical processes. Either argue why consciousness transitions differ (first-person phenomenal character vs. third-person structural properties), or remove the analogy. See pessimistic-2026-02-20-morning.md
+- **Output**: obsidian/concepts/anoetic-noetic-autonoetic-consciousness.md
+
+Task context:
+Pessimistic review (2026-02-20 morning) found the article concedes phase transitions produce qualitative breaks from quantitative physical changes, then asserts without argument that "consciousness transitions are not derivable from computational properties." The phase transition analogy actually weakens the dualist case by showing qualitative breaks *can* emerge from purely physical processes. Either argue why consciousness transitions differ (first-person phenomenal character vs. third-person structural properties), or remove the analogy. See pessimistic-2026-02-20-morning.md
+
+### ✓ 2026-02-20: Address preemption's empirical vacuity and causal closure evasion
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-20 morning) found two issues: (1) The article admits delegatory preemption is "empirically indistinguishable from purely physical causation" but frames this as a virtue (observational closure) rather than a liability — this is unfalsifiable. Either identify a distinguishing empirical prediction or acknowledge it is a metaphysical interpretation, not a testable hypothesis. (2) The claim "the physical story is not violated — it is displaced" evades the causal closure question: if a non-physical cause preempts a physical cause, causal closure *is* violated. Acknowledge this directly. See pessimistic-2026-02-20-morning.md
+- **Output**: Task context:
+Pessimistic review (2026-02-20 morning) found two issues: (1) The article admits delegatory preemption is "empirically indistinguishable from purely physical causation" but frames this as a virtue (observational closure) rather than a liability — this is unfalsifiable. Either identify a distinguishing empirical prediction or acknowledge it is a metaphysical interpretation, not a testable hypothesis. (2) The claim "the physical story is not violated — it is displaced" evades the causal closure question: if a non-physical cause preempts a physical cause, causal closure *is* violated. Acknowledge this directly. See pessimistic-2026-02-20-morning.md
 
 ### ✓ 2026-02-20: Write article on the interface location problem revisited
 - **Type**: expand-topic

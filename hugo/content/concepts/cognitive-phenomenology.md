@@ -77,7 +77,7 @@ Hearing the word "bank" and understanding it as a financial institution versus a
 
 ### Sudden Insight
 
-"Aha" moments have phenomenal character that precedes any accompanying imagery or emotional response. [Mathematical insight](/topics/consciousness-and-mathematical-understanding/) provides the paradigm case: mathematicians report solutions arriving fully formed, with phenomenal character distinctly different from mechanical verification. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) examines the complement: not the sudden arrival of understanding, but the sustained work that precedes and enables it—the strain of holding premises together, the effort of tracing implications.
+"Aha" moments have phenomenal character that precedes any accompanying imagery or emotional response. [Mathematical insight](/consciousness-and-mathematical-understanding/) provides the paradigm case: mathematicians report solutions arriving fully formed, with phenomenal character distinctly different from mechanical verification. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) examines the complement: not the sudden arrival of understanding, but the sustained work that precedes and enables it—the strain of holding premises together, the effort of tracing implications.
 
 ### The Temporal Structure of Understanding
 
@@ -133,7 +133,7 @@ PCT explains several puzzles:
 
 ## The Mathematical Understanding Case
 
-[Mathematical understanding](/topics/consciousness-and-mathematical-understanding/) provides compelling evidence because three phenomenal stages are clearly delineated: **verification** (checking steps follow rules), **understanding** (grasping *why* it works), and **insight** (sudden arrival of solutions). The transition from verification to understanding is phenomenally marked—the same symbols, different experience.
+[Mathematical understanding](/consciousness-and-mathematical-understanding/) provides compelling evidence because three phenomenal stages are clearly delineated: **verification** (checking steps follow rules), **understanding** (grasping *why* it works), and **insight** (sudden arrival of solutions). The transition from verification to understanding is phenomenally marked—the same symbols, different experience.
 
 Mathematical understanding shows tight coupling between phenomenology and performance: those who report genuine understanding can apply insights to new problems, while mere verifiers cannot. If the phenomenal difference were confabulation, it wouldn't predict cognitive success so reliably.
 
@@ -264,7 +264,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — Recursive language as evidence for consciousness-dependent cognition
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where speakable and thinkable part ways
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Consciousness enables rather than accompanies cognition
-- [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/) — Mathematical insight as paradigm case
+- [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) — Mathematical insight as paradigm case
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Curiosity, doubt, certainty, and other epistemic feelings
 - [semantic-memory](/concepts/semantic-memory/) — TOT/FOK phenomenology and noetic consciousness
 - [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — How consciousness grounds intentional content

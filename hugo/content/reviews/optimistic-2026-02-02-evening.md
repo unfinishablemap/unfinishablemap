@@ -135,7 +135,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 
 #### Consciousness and Conceptual Understanding vs. Pattern Matching
 
-- **Builds on**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/), [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-understanding/), [argument-from-reason](/topics/argument-from-reason/)
+- **Builds on**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/), [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/), [argument-from-reason](/topics/argument-from-reason/)
 - **Would address**: What distinguishes genuine understanding from sophisticated pattern matching? LLMs demonstrate that impressive outputs can emerge from statistical correlation. What, if anything, does consciousness add? The phenomenology of understanding—the "aha" experience—suggests something beyond information processing. Critical for AI consciousness debates.
 - **Estimated scope**: Long article
 - **Tenet alignment**: Dualism (understanding may require phenomenal consciousness), connections to [llm-consciousness](/concepts/llm-consciousness/)

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-22
-**Article**: [Consciousness and Mathematical Understanding](/topics/consciousness-and-mathematical-understanding/)
+**Article**: [Consciousness and Mathematical Understanding](/consciousness-and-mathematical-understanding/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
