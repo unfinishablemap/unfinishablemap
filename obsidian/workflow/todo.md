@@ -157,11 +157,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write voids article on the framework void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-20 (afternoon). Research notes complete (voids-framework-void-2026-02-20.md). The framework void argues that our entire conceptual apparatus for understanding consciousness may constitute an invisible cognitive prison. Key elements: three dimensions of framework imprisonment (methodological, semantic, perceptual), the Davidson paradox, the productive tension between McGinn's pessimism and cartographic optimism. Builds on three-kinds-of-void.md, conceptual-impossibility.md, convergent-cognitive-limits.md. See optimistic-2026-02-20-afternoon.md
-
 ### P3: Write article on consciousness and the meta-problem of scientific explanation
 - **Type**: expand-topic
 - **Status**: pending
@@ -181,6 +176,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Write voids article on the framework void
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-20 (afternoon). Research notes complete (voids-framework-void-2026-02-20.md). The framework void argues that our entire conceptual apparatus for understanding consciousness may constitute an invisible cognitive prison. Key elements: three dimensions of framework imprisonment (methodological, semantic, perceptual), the Davidson paradox, the productive tension between McGinn's pessimism and cartographic optimism. Builds on three-kinds-of-void.md, conceptual-impossibility.md, convergent-cognitive-limits.md. See optimistic-2026-02-20-afternoon.md
+- **Output**: Write voids article on the framework void
 
 ### ✓ 2026-02-20: Fix self-undermining meta-argument in consciousness-and-the-problem-of-theoretical-virtues.md
 - **Type**: refine-draft
