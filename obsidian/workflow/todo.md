@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address analogy-to-ontology gap in control-theoretic-will.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-20 afternoon) found the control-theoretic mapping table and controller/plant distinction are presented as architectural descriptions but function as analogies. The article briefly notes it "describes what consciousness does, not what consciousness is" but then draws ontological conclusions (controller must be distinct from plant → dualism). Add a section explicitly addressing the analogy-to-ontology gap. Acknowledge that control-theoretic language is a modelling tool, not evidence for dualism. See pessimistic-2026-02-20-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-20
+
+### P2: Strengthen vitalism disanalogy in epistemology-of-convergence-arguments.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-20 afternoon) found the vitalism precedent undermines the Map's convergence argument more than acknowledged. The response ("no dissolution has been provided") is an argument from current ignorance. Article should articulate the structural difference: the conceivability argument targets a logical relationship not an empirical one, and the knowledge argument doesn't depend on scientific ignorance. Deploy these arguments rather than resting on absence of dissolution. See pessimistic-2026-02-20-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-20
+
+### P2: Fix self-undermining meta-argument in consciousness-and-the-problem-of-theoretical-virtues.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-20 afternoon) found the article argues theoretical virtues malfunction for consciousness, then claims this is "predicted by dualism and anomalous for physicalism." This is inconsistent — you cannot argue theory-choice machinery is broken, then use theory-choice reasoning to prefer dualism. Either acknowledge virtue-failure is neutral between dualism and physicalism, or develop the meta-argument more carefully by distinguishing first-order virtue application from second-order reasoning. Also engage with mysterianism as a genuine competitor (cognitive closure offers equally parsimonious reading of virtue failure). See pessimistic-2026-02-20-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-02-20
+
 ### P2: Update references to coalesced mathematical cognition articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-20) merged `consciousness-and-mathematical-understanding.md` and `consciousness-and-mathematical-creativity.md` into `consciousness-and-mathematical-cognition.md`. 12 active content files reference the archived articles. Files referencing `[[consciousness-and-mathematical-understanding]]`: consciousness-and-the-authority-of-mathematics.md, mysterianism.md, consciousness-and-the-authority-of-logic.md, phenomenology-of-inferential-understanding.md, cognitive-phenomenology.md, phenomenology-of-understanding.md, computational-cognitive-limits.md, introspection.md, temporal-structure-of-understanding.md. Files referencing `[[consciousness-and-mathematical-creativity]]`: surprise-and-creativity.md, consciousness-and-the-authority-of-mathematics.md, consciousness-and-aesthetic-creation.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[consciousness-and-mathematical-cognition]]` where appropriate.
