@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 22:51 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Perspectival Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[research/voids-perspectival-void-2026-02-20]]
+- **Key finding**: Reality may be perspectivally structured such that no single viewpoint can access all truths—List's quadrilemma shows this is formally inevitable for any reality containing multiple conscious subjects
+
 ## 2026-02-20 22:21 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/agent-teleology]]
