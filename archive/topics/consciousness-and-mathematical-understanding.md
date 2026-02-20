@@ -30,6 +30,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-21
 last_curated: null
 last_deep_review: 2026-01-27T19:30:00+00:00
+archived: true
+archived_date: 2026-02-20T09:36:00+00:00
+superseded_by: "/topics/consciousness-and-mathematical-cognition/"
+archive_reason: "Coalesced into Consciousness and Mathematical Cognition"
+original_path: "/topics/consciousness-and-mathematical-understanding/"
 ---
 
 Mathematical understanding presents a challenge to physicalist accounts of mind. When you grasp why a proof works—not merely verify each step but *see* the necessity—something happens that resists description in purely computational terms. Roger Penrose argued that this mathematical insight demonstrates consciousness cannot be algorithmic. Whether or not his specific argument succeeds, the phenomenology of mathematical understanding reveals features of consciousness that physical description struggles to capture.
