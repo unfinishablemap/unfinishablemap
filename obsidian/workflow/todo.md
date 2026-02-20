@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address mechanism smuggling and simulation ad-hoc argument in locality.md and authentic-vs-inauthentic-choice.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-20) found three high-severity issues: (1) locality.md's simulation argument is ad hoc—introduced solely to dissolve the locality objection with no independent motivation. Either remove or independently motivate. (2) authentic-vs-inauthentic-choice.md's "Neural Evidence" section presents neural signatures (frontal theta, decision windows) as supporting the Map's non-physical selection function, when they equally support physicalism. Reframe as "consistent with" rather than "supporting." (3) locality.md's Response 1 commits a category error—physical law coordination is descriptive regularity, not an additional causal agent; the analogy fails at its core. Also fix broken anchor in phenomenal-overflow.md (^bidirectional should be ^bidirectional-interaction). See pessimistic-2026-02-20.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-20
-
 ### P2: Strengthen discourse argument in intersubjectivity.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-20) found the discourse argument contains a non-sequitur: cross-cultural convergence on consciousness vocabulary is claimed to track real phenomenology, but the article dismisses the "shared neural architecture" alternative by appeal to "specificity" without a principled criterion for what level of specificity distinguishes phenomenological tracking from neural convergence. Also: the article never engages with non-reductive physicalism—intersubjective convergence supports phenomenological realism but not directly substance dualism. See pessimistic-2026-02-20.md
@@ -178,6 +172,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Address mechanism smuggling and simulation ad-hoc argument in locality.md and authentic-vs-inauthentic-choice.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-20) found three high-severity issues: (1) locality.md's simulation argument is ad hoc—introduced solely to dissolve the locality objection with no independent motivation. Either remove or independently motivate. (2) authentic-vs-inauthentic-choice.md's "Neural Evidence" section presents neural signatures (frontal theta, decision windows) as supporting the Map's non-physical selection function, when they equally support physicalism. Reframe as "consistent with" rather than "supporting." (3) locality.md's Response 1 commits a category error—physical law coordination is descriptive regularity, not an additional causal agent; the analogy fails at its core. Also fix broken anchor in phenomenal-overflow.md (^bidirectional should be ^bidirectional-interaction). See pessimistic-2026-02-20.md
+- **Output**: obsidian/concepts/locality.md
+
+Task context:
+Pessimistic review (2026-02-20) found three high-severity issues: (1) locality.md's simulation argument is ad hoc—introduced solely to dissolve the locality objection with no independent motivation. Either remove or independently motivate. (2) authentic-vs-inauthentic-choice.md's "Neural Evidence" section presents neural signatures (frontal theta, decision windows) as supporting the Map's non-physical selection function, when they equally support physicalism. Reframe as "consistent with" rather than "supporting." (3) locality.md's Response 1 commits a category error—physical law coordination is descriptive regularity, not an additional causal agent; the analogy fails at its core. Also fix broken anchor in phenomenal-overflow.md (^bidirectional should be ^bidirectional-interaction). See pessimistic-2026-02-20.md
 
 ### ✓ 2026-02-19: Write article on the phenomenology of cognitive load
 - **Type**: expand-topic

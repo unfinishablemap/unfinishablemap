@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 01:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [[locality]]
+- **Additional files**: [[authentic-vs-inauthentic-choice]], [[phenomenal-overflow]]
+- **Changes**: Fixed category error in Response 1 (physical law analogy), replaced ad hoc simulation argument (Response 3) with independently motivated metaphysical argument, reframed "Neural Evidence" as "Neural Correlates" in authentic-vs-inauthentic-choice.md, fixed broken ^bidirectional anchor in phenomenal-overflow.md
+- **Published**: yes
+
 ## 2026-02-20 00:51 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: authentic-vs-inauthentic-choice.md, russellian-monism.md, locality.md, intersubjectivity.md, phenomenal-overflow.md
