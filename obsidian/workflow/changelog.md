@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 02:36 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology of Cognitive Automatisation
+- **Output**: [[phenomenology-of-cognitive-automatisation]]
+- **Word count**: 1580
+- **Based on research**: No
+
 ## 2026-02-20 02:21 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All non-draft content (~440 articles across topics/, concepts/, tenets/, apex/, voids/). Special focus on 7 recently created/refined articles.

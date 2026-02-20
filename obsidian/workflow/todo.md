@@ -151,11 +151,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the phenomenology of cognitive automatisation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-20. The cognitive load article describes approaching capacity limits; the complementary experience — when previously effortful tasks become automatic and "drop below" the interface — is equally informative. What does it feel like when a skill transfers from conscious control to unconscious execution? Builds on phenomenology-of-cognitive-load.md, consciousness-and-skilled-performance.md, control-theoretic-will.md. See optimistic-2026-02-20.md
-
 ### P3: Write article on consciousness and the problem of theoretical virtues
 - **Type**: expand-topic
 - **Status**: pending
@@ -175,6 +170,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Write article on the phenomenology of cognitive automatisation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-20. The cognitive load article describes approaching capacity limits; the complementary experience — when previously effortful tasks become automatic and "drop below" the interface — is equally informative. What does it feel like when a skill transfers from conscious control to unconscious execution? Builds on phenomenology-of-cognitive-load.md, consciousness-and-skilled-performance.md, control-theoretic-will.md. See optimistic-2026-02-20.md
+- **Output**: the phenomenology of cognitive automatisation
 
 ### ✓ 2026-02-20: Soften "empirically tractable" claim in russellian-monism.md
 - **Type**: refine-draft
