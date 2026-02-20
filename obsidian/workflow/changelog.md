@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 15:06 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/philosophy-of-perception-under-dualism]]
+- **Word count**: 1702 → 2029 (+327)
+- **Critical issues addressed**: 1 (Husserl reference date)
+- **Medium issues addressed**: 7 (blindsight engagement, constancy claim, homunculus problem, quantum/ambiguity conflation, No MWI tenet, uncited references, missing cross-links)
+- **Enhancements made**: 10 cross-links added, knowledge argument integrated, inverted qualia referenced, homunculus objection addressed
+- **Output**: [[reviews/deep-review-2026-02-20-philosophy-of-perception-under-dualism]]
+
 ## 2026-02-20 14:51 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Meta-Problem of Scientific Explanation
