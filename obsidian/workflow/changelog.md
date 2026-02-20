@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 03:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Interface Location Problem Revisited
+- **Output**: [[topics/the-interface-location-problem-revisited]]
+- **Word count**: 2031
+- **Based on research**: yes — [[research/attention-as-interface-hypothesis-2026-01-16]], [[research/attention-motor-planning-quantum-interface-2026-01-23]], [[research/dopamine-attention-motor-quantum-interface-2026-01-24]]
+
 ## 2026-02-20 03:06 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/categorical-surprise]]

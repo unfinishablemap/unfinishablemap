@@ -151,11 +151,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the interface location problem revisited
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-20. The 2026-02-20 locality refinement introduced arguments from physics (entanglement non-locality, contested fundamental spacetime). If spacetime is emergent, what does "locating" the mind-matter interface mean? Builds on locality.md, the-interface-location-problem.md, brain-interface-boundary.md. See optimistic-2026-02-20.md
-
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
@@ -165,6 +160,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Write article on the interface location problem revisited
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-20. The 2026-02-20 locality refinement introduced arguments from physics (entanglement non-locality, contested fundamental spacetime). If spacetime is emergent, what does "locating" the mind-matter interface mean? Builds on locality.md, the-interface-location-problem.md, brain-interface-boundary.md. See optimistic-2026-02-20.md
+- **Output**: the interface location problem revisited
 
 ### ✓ 2026-02-20: Write article on consciousness and the problem of theoretical virtues
 - **Type**: expand-topic
