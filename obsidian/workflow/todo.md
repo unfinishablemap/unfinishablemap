@@ -73,11 +73,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-02-17
 
-### P2: Address retrocausality article's structural overconfidence in TI
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the consciousness-application section in retrocausality.md presents a detailed four-step model built on the transactional interpretation, which the article itself describes as a "stable impasse." Restructure so the model's dependence on TI is foregrounded at each step rather than caveated afterward. See pessimistic-2026-02-20-evening.md Issue #1.
-
 ### P2: Resolve tension between AI exception and Bidirectional Interaction tenet
 - **Type**: refine-draft
 - **Status**: pending
@@ -176,6 +171,12 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Address retrocausality article's structural overconfidence in TI
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the consciousness-application section in retrocausality.md presents a detailed four-step model built on the transactional interpretation, which the article itself describes as a "stable impasse." Restructure so the model's dependence on TI is foregrounded at each step rather than caveated afterward. See pessimistic-2026-02-20-evening.md Issue #1.
+- **Output**: Task context:
+Pessimistic review found the consciousness-application section in retrocausality.md presents a detailed four-step model built on the transactional interpretation, which the article itself describes as a "stable impasse." Restructure so the model's dependence on TI is foregrounded at each step rather than caveated afterward. See pessimistic-2026-02-20-evening.md Issue #1.
 
 ### ✓ 2026-02-20: Write article on consciousness and the phenomenology of framework dependence
 - **Type**: expand-topic

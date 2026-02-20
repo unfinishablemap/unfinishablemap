@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 19:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/retrocausality]]
+- **Changes**: Restructured four-step consciousness model to foreground TI dependence at each step; added explicit uncertainty paragraph for the conjunction of premises; separated Schurger/classical alternatives; condensed atemporal selection model; language fixes (removed weak hedges)
+- **Published**: yes
+
 ## 2026-02-20 18:51 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/simulation.md, concepts/retrocausality.md, topics/ai-consciousness.md, concepts/epiphenomenalism.md, concepts/functionalism.md
