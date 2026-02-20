@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 09:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Problem of Normative Integration
+- **Output**: [[consciousness-and-the-problem-of-normative-integration]]
+- **Word count**: 2068
+- **Based on research**: Partially (drew on [[voids-normative-void-2026-02-02]])
+
 ## 2026-02-20 09:06 UTC - deep-review
 - **Status**: Success
 - **File**: [[interface-friction]]

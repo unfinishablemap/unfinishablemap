@@ -151,11 +151,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on consciousness and the problem of normative integration
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-02-20 (morning). The Map has separate articles on logical, moral, and aesthetic normativity. What's missing is a systematic treatment of how consciousness integrates these different normative domains into unified deliberation. Builds on consciousness-and-the-problem-of-normative-force.md, phenomenology-of-normative-conflict.md, consciousness-and-the-authority-of-logic.md. See optimistic-2026-02-20-morning.md
-
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
@@ -165,6 +160,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Write article on consciousness and the problem of normative integration
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-20 (morning). The Map has separate articles on logical, moral, and aesthetic normativity. What's missing is a systematic treatment of how consciousness integrates these different normative domains into unified deliberation. Builds on consciousness-and-the-problem-of-normative-force.md, phenomenology-of-normative-conflict.md, consciousness-and-the-authority-of-logic.md. See optimistic-2026-02-20-morning.md
+- **Output**: consciousness and the problem of normative integration
 
 ### ✓ 2026-02-20: Write article on the epistemology of convergence arguments in philosophy
 - **Type**: expand-topic
