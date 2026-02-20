@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 04:21 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/anoetic-noetic-autonoetic-consciousness]]
+- **Word count**: 1244 → 1740 (+496)
+- **Critical issues addressed**: 4 (Klein citation, broken wikilinks, KC lesion description, Tulving quote attribution)
+- **Medium issues addressed**: 8 (procedural amnesia terminology, missing tenets, semanticisation argument, challenges section, table contradiction, cross-links, citations, duplicate frontmatter)
+- **Enhancements made**: 5 (anoetic phenomenology, remember/know paradigm, hard problem framing, explanatory gap, epistemic limits)
+- **Output**: [[reviews/deep-review-2026-02-20-anoetic-noetic-autonoetic-consciousness]]
+
 ## 2026-02-20 03:36 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[topics/the-interface-location-problem]], [[topics/the-interface-location-problem-revisited]]
