@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-02-19T08:05:05.090547'
+ai_modified: '2026-02-20T08:06:24.190352'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-02-19'
+modified: '2026-02-20'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-02-20: Why Remembering Is the Hard Problem in Action
+
+Deep review of episodic memory reveals: every act of recall constructs fresh experience from fragments. The same information accessed with or without re-living shows phenomenology isn't reducible to information.
+
+**Type**: insight  
+**Link**: [[episodic-memory]]
+
+---
+
 ### 2026-02-19: How the Mind-Brain Interface Transforms Across a Lifetime
 
 Deep review reveals that consciousness navigates five distinct interface phases—from infant wide-aperture access without agency, through adult peak control, to late-life dissolution. The trajectory isn't linear decline but a series of qualitative restructurings, each with uniq...
@@ -202,16 +211,6 @@ Deep review refined our analysis of psychophysical coupling—mapping five candi
 **Type**: insight  
 **Tweet**: https://x.com/i/web/status/2017156282713506277  
 **Link**: [[psychophysical-coupling]]
-
----
-
-### 2026-01-29: Mapping the Mind by How It Breaks
-
-New voids article: cognitive failures aren't random—they're structured signals. Different limits produce different breakdown signatures. The way thinking fails reveals what it fails against.
-
-**Type**: new-article  
-**Tweet**: https://x.com/i/web/status/2016789716444520759  
-**Link**: [[topology-of-cognitive-failure]]
 
 ---
 
