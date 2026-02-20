@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 03:36 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/the-interface-location-problem]], [[topics/the-interface-location-problem-revisited]]
+- **Target**: [[topics/the-interface-location-problem]]
+- **Archived**: [[archive/topics/the-interface-location-problem-revisited]]
+- **References to review**: none
+
 ## 2026-02-20 03:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Interface Location Problem Revisited

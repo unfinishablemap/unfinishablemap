@@ -32,6 +32,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-20
 last_curated:
+archived: true
+archived_date: 2026-02-20T03:36:00+00:00
+superseded_by: "/topics/the-interface-location-problem/"
+archive_reason: "Coalesced into The Interface Location Problem"
+original_path: "/topics/the-interface-location-problem-revisited/"
 ---
 
 The Unfinishable Map's [[the-interface-location-problem|original treatment]] of the interface location problem surveyed four candidate sites — microtubules, ion channels, cortical microcolumns, and attention networks — and argued for principled agnosticism. That agnosticism was appropriate at the time: the candidates appeared roughly co-viable and the Map lacked the internal framework to discriminate among them. Since then, several lines of development have changed the situation. The Map now has a [[coupling-modes|coupling mode taxonomy]], a detailed [[attention-as-selection-interface|attention-motor convergence]] account, a [[developmental-trajectory-of-the-interface|developmental trajectory]], dopamine research clarifying the selection-threshold architecture, and a sharper understanding of what the [[the-interface-specification-problem|specification problem]] demands. These developments do not resolve the location problem. They do constrain it — replacing open agnosticism with what might be called *constrained pluralism*, where the viable candidates and their relationships become clearer.
