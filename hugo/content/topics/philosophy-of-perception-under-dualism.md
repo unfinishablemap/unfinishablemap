@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-02-16 04:40:00+00:00
+ai_modified: 2026-02-20 15:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,15 +11,19 @@ concepts:
 - '[[intentionality]]'
 - '[[explanatory-gap]]'
 - '[[interactionist-dualism]]'
+- '[[downward-causation]]'
+- '[[knowledge-argument]]'
+- '[[mind-matter-interface]]'
+- '[[binding-problem]]'
 created: 2026-02-16
-date: &id001 2026-02-16
+date: &id001 2026-02-20
 description: How dualism reshapes the philosophy of perception—from the nature of
   perceptual experience to the role consciousness plays in constituting the world
   we perceive.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-20 15:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -28,6 +32,8 @@ related_articles:
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[phenomenal-acquaintance]]'
 - '[[phenomenal-intentionality]]'
+- '[[surprise-prediction-error-and-consciousness]]'
+- '[[conscious-vs-unconscious-processing]]'
 title: Philosophy of Perception Under Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -54,9 +60,9 @@ Dualism changes the terrain. If consciousness is ontologically distinct from the
 
 ## Perception and the Explanatory Gap
 
-The [explanatory-gap](/concepts/explanatory-gap/) is sharpest at perception. We can trace the causal chain from photons reflecting off a surface, through retinal transduction, lateral geniculate processing, and cortical computation. At each step, the physical description is in principle complete: wavelengths, firing rates, activation patterns. Yet somewhere in this chain, the redness of red appears. The physical description never entails the phenomenal quality.
+The [explanatory-gap](/concepts/explanatory-gap/) is sharpest at perception. We can trace the causal chain from photons reflecting off a surface, through retinal transduction, lateral geniculate processing, and cortical computation (Palmer, 1999). At each step, the physical description is in principle complete: wavelengths, firing rates, activation patterns. Yet somewhere in this chain, the redness of red appears—the physical description never entails the phenomenal quality (Nagel, 1974).
 
-This is the [hard problem](/topics/hard-problem-of-consciousness/) applied to perception specifically, and it is arguably where the hard problem is most vivid. Perception provides the clearest cases of [qualia](/concepts/qualia/)—the redness of red, the loudness of a sound, the warmth of a surface—and these are the paradigm examples of what physical description leaves out.
+This is the [hard problem](/topics/hard-problem-of-consciousness/) applied to perception specifically, and it is where the hard problem is most vivid. Perception provides the clearest cases of [qualia](/concepts/qualia/)—the redness of red, the loudness of a sound, the warmth of a surface—and these are the paradigm examples of what physical description leaves out. The [knowledge-argument](/concepts/knowledge-argument/) crystallises this: a neuroscientist who knows everything about colour processing but has never seen red still learns something when she finally sees it (Jackson, 1982).
 
 A physicalist can acknowledge the explanatory gap while insisting it is merely epistemic—a gap in our understanding, not in reality. The dualist holds that the gap is ontological: phenomenal qualities are genuinely distinct from the physical properties that occasion them. If this is correct, then no completed neuroscience of vision will explain why red looks the way it does, because the explanation requires crossing into a domain that neuroscience does not describe.
 
@@ -68,7 +74,7 @@ Dualism does not simply insert a mystery into the causal chain. It reframes seve
 
 If [qualia](/concepts/qualia/) are irreducible, then the qualities we perceive—colours, sounds, tastes—are not identical with physical properties of objects or with neural activation patterns. This gives the dualist a distinctive position in the debate between colour realism (colours are mind-independent properties of surfaces) and colour anti-realism (colours exist only in experience).
 
-The Map's position: perceptual qualities are constituted at the interface between physical processing and conscious experience. They are neither "out there" on surfaces nor "merely in the head" as neural patterns. They arise where consciousness meets the information delivered by sensory systems. Colour is real—genuinely experienced, with determinate qualitative character—but its reality is phenomenal rather than physical. The banana's yellowness is a property of the experience, not of the surface reflectance, yet it is no less real for that.
+The Map's position: perceptual qualities are constituted at the [mind-matter-interface](/concepts/mind-matter-interface/) between physical processing and conscious experience. They are neither "out there" on surfaces nor "merely in the head" as neural patterns. They arise where consciousness meets the information delivered by sensory systems. Colour is real—genuinely experienced, with determinate qualitative character—but its reality is phenomenal rather than physical. The banana's yellowness is a property of the experience, not of the surface reflectance, yet it is no less real for that. (The [inverted-qualia](/concepts/inverted-qualia/) thought experiment reinforces this: two people could process identical wavelengths yet experience different colours, because the phenomenal quality is not fixed by the physical property.)
 
 ### Perception as Active Constitution
 
@@ -76,23 +82,23 @@ Under physicalism, the conscious subject is typically treated as the endpoint of
 
 The Map's [bidirectional interaction](/tenets/#bidirectional-interaction) tenet opens a different possibility. If consciousness causally influences physical processes, then perception is not a one-way street. Consciousness may actively shape what is perceived—not in the sense of hallucinating or distorting, but in the sense of selecting, organising, and constituting the perceptual field.
 
-This aligns with [perceptual constancy](/topics/phenomenology-of-perceptual-constancy/). A white wall looks white under candlelight and fluorescent light despite radically different wavelength compositions reaching the eye. The constancy is a feature of experience, not of the physical signal. If consciousness contributes to maintaining this stability—selecting the stable distal interpretation over the fluctuating proximal stimulus—then perception involves downward causation from consciousness to neural processing.
+This aligns with [perceptual constancy](/topics/phenomenology-of-perceptual-constancy/). A white wall looks white under candlelight and fluorescent light despite radically different wavelength compositions reaching the eye. Neuroscience explains much of this through adaptation, gain control, and cortical normalisation (Palmer, 1999), but the constancy as *experienced*—the seamless stability of the perceived world—goes beyond what these mechanisms predict. If consciousness contributes to maintaining this experiential stability—selecting the stable distal interpretation over the fluctuating proximal stimulus—then perception involves [downward-causation](/concepts/downward-causation/) from consciousness to neural processing.
 
 The [attentional selection](/topics/attention-as-selection-interface/) framework extends this further. Attention determines which sensory signals reach consciousness and in what form. If attention is the interface where consciousness selects among competing neural representations, then the content of perception is partly determined by consciousness itself. The perceiver is not a passive screen on which the world projects images but an active participant in constituting what appears.
 
 ### Blindsight and the Necessity of Consciousness for Perception
 
-[Blindsight](/concepts/blindsight/) provides perhaps the most striking empirical evidence for the dualist position on perception. Patients with damage to primary visual cortex can respond accurately to visual stimuli they report not seeing. They can point to a light's location, discriminate orientations, and detect motion—all while sincerely denying any visual experience.
+[Blindsight](/concepts/blindsight/) provides perhaps the most striking empirical evidence for the dualist position on perception. Patients with damage to primary visual cortex can respond accurately to visual stimuli they report not seeing (Weiskrantz, 1986). They can point to a light's location, discriminate orientations, and detect motion—all while sincerely denying any visual experience.
 
-Physicalism struggles with blindsight in both directions. If perception is just information processing, blindsight patients *are* perceiving—the information reaches cortex and guides behaviour. But they report no experience. If perception requires experience, then something is present in normal vision that blindsight lacks, and that something is not captured by the information-processing description.
+Physicalists offer several responses. Some argue that blindsight patients retain degraded [conscious processing](/concepts/conscious-vs-unconscious-processing/)—a dim, impoverished visual awareness they fail to report. Others maintain that perception simply is information processing, and what blindsight patients lack is not perception itself but a particular mode of access to it. These responses have force. But they face a persistent difficulty: the functional performance of blindsight patients is strikingly inferior to normal vision. They require forced-choice procedures, respond slowly, and lack confidence. If consciousness were merely epiphenomenal—riding atop processing without contributing to it—this performance gap would be puzzling. Something about conscious vision makes perception *work better*.
 
-For dualism, blindsight separates what it cleanly predicts should be separable: the physical processing of visual information and the conscious experience of seeing. The brain can process visual input without consciousness being involved, producing accurate behavioural responses. Normal perception adds something the physical processing alone does not provide—phenomenal awareness, the *what it is like* of seeing. Blindsight is perception without consciousness: functional but experientially hollow.
+For dualism, blindsight separates what it cleanly predicts should be separable: the physical processing of visual information and the conscious experience of seeing. The brain can process visual input without consciousness being involved, producing accurate but degraded behavioural responses. Normal perception adds something the physical processing alone does not provide—phenomenal awareness, the *what it is like* of seeing. Blindsight is processing without full consciousness: functional but experientially and behaviourally impoverished.
 
 ## Perception and the Interaction Problem
 
 Any dualist theory of perception must address the interaction problem: how does consciousness, if ontologically distinct from the physical, interact with brain processes to generate perceptual experience?
 
-The Map's framework offers a response through the [minimal quantum interaction](/tenets/#minimal-quantum-interaction) tenet. Consciousness does not inject energy or information into the brain from outside. Instead, it biases otherwise indeterminate quantum events in neural processing. In perception, this might operate at the point where ambiguous sensory input could resolve into multiple possible percepts. Consciousness selects among these possibilities without violating physical conservation laws—precisely the kind of minimal intervention the tenet describes.
+The Map's framework offers a response through the [minimal quantum interaction](/tenets/#minimal-quantum-interaction) tenet. Consciousness does not inject energy or information into the brain from outside. Instead, it biases otherwise indeterminate quantum events in neural processing—a mechanism explored in detail by [Stapp's quantum mind model](/concepts/stapp-quantum-mind/). In perception, this might operate where neural computation reaches genuinely indeterminate branch points. Perceptual ambiguity (such as binocular rivalry) is a macroscopic, population-level phenomenon, but the neural processes resolving such ambiguity may involve micro-level indeterminacies where [conscious selection](/questions/consciousness-selecting-neural-patterns/) could operate without violating physical conservation laws—precisely the kind of minimal intervention the tenet describes.
 
 This is speculative, and the Map does not claim it as established. But it addresses a genuine puzzle: how can a non-physical consciousness participate in a physical process like perception without breaking the causal structure that makes perception reliable? If consciousness operates at quantum indeterminacies—points where physics itself leaves outcomes undetermined—it can participate without disrupting the physical regularities that make veridical perception possible.
 
@@ -100,9 +106,9 @@ This is speculative, and the Map does not claim it as established. But it addres
 
 [Predictive processing](/topics/predictive-processing-and-the-maps-framework/) theories describe perception as the brain's best prediction about the causes of sensory input, updated by prediction errors. The brain does not passively receive sensory data but actively generates predictions, comparing them against incoming signals and revising when mismatches occur.
 
-This framework is often presented in physicalist terms, but it is compatible with dualism—and arguably more natural under it. If perception is a process of prediction and correction, someone or something is doing the predicting. Under physicalism, "the brain predicts" is shorthand for neural mechanisms operating without any experiencing subject. Under dualism, the predictive process has a subject: consciousness engages with the predictions, experiences the resulting percept, and may influence which predictions are maintained or revised.
+This framework is often presented in physicalist terms (Clark, 2013), but it is compatible with dualism—and may sit more naturally within it. The physicalist reads "the brain predicts" as shorthand for neural mechanisms that require no experiencing subject. This works as far as the computational story goes. But predictive processing also generates *phenomenal predictions*—the experienced world as the brain's best guess—and here the framework tacitly relies on there being something it is like to have the prediction confirmed or violated. [Prediction error](/topics/surprise-prediction-error-and-consciousness/) feels like something; the smooth confirmation of an expectation feels like something else. Dualism makes this phenomenal dimension explicit rather than leaving it as an unexplained accompaniment to the computation.
 
-The phenomenology of perception supports this reading. Perceptual experience does not feel like passive reception. It feels like engagement—active, directed, attentive. We *look at* things, *listen to* sounds, *attend to* features. This agentive quality of perception is precisely what dualism's bidirectional interaction predicts: consciousness is not an endpoint but a participant.
+The phenomenology of perception supports this reading. Perceptual experience does not feel like passive reception. It feels like engagement—active, directed, attentive. We *look at* things, *listen to* sounds, *attend to* features (Husserl, 1913/1982). This agentive quality of perception is precisely what dualism's bidirectional interaction predicts: consciousness is not an endpoint but a participant. The objection that this smuggles in a homunculus—a little perceiver inside the perceiver—misses the point. The dualist does not posit an inner agent doing extra processing; the claim is that consciousness itself is the subject of experience, irreducible to the neural mechanisms it co-operates with.
 
 ## Relation to Site Perspective
 
@@ -113,6 +119,8 @@ The Unfinishable Map's [tenets](/tenets/) reshape the philosophy of perception i
 **Bidirectional interaction** means perception is not a one-way causal chain from world to experience. Consciousness contributes to what is perceived—through attention, through maintaining perceptual constancies, through selecting among ambiguous interpretations. Perception is a dialogue between consciousness and the physical world, not a monologue from world to mind.
 
 **Minimal quantum interaction** provides a candidate mechanism for how consciousness participates in perception without violating conservation laws. The Map does not claim this mechanism is established but holds that the interaction problem has principled answers available.
+
+**No Many Worlds** matters here because the Map's account of perception requires that there be a determinate fact about what the perceiver experiences. Under Many-Worlds interpretations, every perceptual ambiguity resolves in all possible ways across branching worlds—there is no selection, only branching. The Map holds that indexical identity matters: *this* perceiver sees *this* scene, and the phenomenal determinacy of perception is evidence that quantum outcomes are genuinely resolved, not merely indexed to branches.
 
 **Occam's Razor has limits** reminds us that the simpler physicalist account—perception is "just" neural processing—is simpler only if we ignore the explanatory gap. Including the phenomenal dimension requires a richer ontology, but ignoring it produces an account of perception that leaves out the most salient feature of perceiving: that there is something it is like.
 
@@ -129,13 +137,19 @@ The Unfinishable Map's [tenets](/tenets/) reshape the philosophy of perception i
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)
 - [interactionist-dualism](/concepts/interactionist-dualism/)
+- [knowledge-argument](/concepts/knowledge-argument/)
+- [downward-causation](/concepts/downward-causation/)
+- [mind-matter-interface](/concepts/mind-matter-interface/)
+- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
+- [binding-problem](/concepts/binding-problem/)
+- [phenomenal-transparency](/concepts/phenomenal-transparency/)
 
 ## References
 
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 - Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127–136.
 - Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
-- Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Martinus Nijhoff.
+- Husserl, E. (1913/1982). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Trans. F. Kersten. Martinus Nijhoff.
 - Clark, A. (2013). "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences*, 36(3), 181–204.
 - Palmer, S. E. (1999). *Vision Science: Photons to Phenomenology*. MIT Press.
 - Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435–450.

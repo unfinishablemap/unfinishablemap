@@ -25,7 +25,7 @@ related_articles:
 - '[[consciousness-and-mathematical-understanding]]'
 - '[[consciousness-and-mathematical-creativity]]'
 - '[[mathematical-void]]'
-- '[[consciousness-and-normative-authority]]'
+- '[[consciousness-and-the-grounds-of-normative-authority]]'
 - '[[against-materialism]]'
 title: Consciousness and the Authority of Mathematics
 topics:
@@ -161,7 +161,7 @@ The view would be *supported* by:
 - [consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/) — The phenomenology of mathematical insight as evidence for irreducible consciousness
 - [consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/) — Mathematical creation as the strongest evidence for consciousness doing causal work
 - [mathematical-void](/voids/mathematical-void/) — Where formal manipulation succeeds but genuine understanding fails
-- [consciousness-and-normative-authority](/topics/consciousness-and-normative-authority/) — Parallel case for consciousness grounding authority in normative domains
+- [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/) — Parallel case for consciousness grounding authority in normative domains
 - [against-materialism](/against-materialism/) — The broader argument against reducing consciousness to physical processes
 - [explanatory-gap](/concepts/explanatory-gap/) — The central challenge mathematics faces with consciousness
 

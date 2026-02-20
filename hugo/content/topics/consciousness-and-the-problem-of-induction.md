@@ -26,7 +26,7 @@ related_articles:
 - '[[phenomenology-of-surprise-and-prediction-error]]'
 - '[[consciousness-and-semantic-understanding]]'
 - '[[consciousness-and-temporal-integration]]'
-- '[[consciousness-and-normative-authority]]'
+- '[[consciousness-and-the-grounds-of-normative-authority]]'
 - '[[contemplative-epistemology]]'
 - '[[self-stultification]]'
 - '[[phenomenal-conservatism-and-introspective-evidence]]'
@@ -81,7 +81,7 @@ Inductive reasoning requires capacities that resist purely physical explanation:
 
 - **[Counterfactual assessment](/topics/consciousness-and-counterfactual-reasoning/)**: Evaluating what *would* happen under conditions that have not been observed. Induction relies not just on what has occurred but on our grasp of what could and could not occur. This modal reasoning—holding actual and merely possible scenarios together in deliberation—appears tied to the kind of conscious evaluation that the [phenomenology of deliberation](/topics/phenomenology-of-deliberation-under-uncertainty/) reveals.
 
-- **[Normative sensitivity](/topics/consciousness-and-normative-authority/)**: Recognising that some inferences are better supported than others. The difference between strong and weak induction is not a physical property of the inference but a rational assessment. Functionalist accounts of [reasons-responsiveness](/concepts/reasons-responsiveness/) claim this can be cashed out purely in terms of dispositional structure, but the phenomenology suggests otherwise: the felt difference between a compelling inference and a shaky one is part of what makes the assessment genuinely *normative* rather than merely causal.
+- **[Normative sensitivity](/topics/consciousness-and-the-grounds-of-normative-authority/)**: Recognising that some inferences are better supported than others. The difference between strong and weak induction is not a physical property of the inference but a rational assessment. Functionalist accounts of [reasons-responsiveness](/concepts/reasons-responsiveness/) claim this can be cashed out purely in terms of dispositional structure, but the phenomenology suggests otherwise: the felt difference between a compelling inference and a shaky one is part of what makes the assessment genuinely *normative* rather than merely causal.
 
 If these capacities depend on consciousness as the Map argues, then physicalism faces a dilemma: either inductive reasoning is not real reasoning (in which case physicalism undermines its own evidential basis), or consciousness genuinely enables it (in which case consciousness is causally efficacious and the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains support). The functionalist tries to split the horns by granting that reasoning is "real" as a computational phenomenon without requiring non-physical consciousness. But this concedes the normative dimension to functional structure alone—and it remains unexplained why one computational state *should* follow from another in the way that reasons require. The "should" of good inference is not a physical relation between hardware states.
 
@@ -112,7 +112,7 @@ The Map's tenets illuminate the consciousness-induction relationship in several 
 - [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/)
 - [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/)
 - [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/)
-- [consciousness-and-normative-authority](/topics/consciousness-and-normative-authority/)
+- [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/)
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/)

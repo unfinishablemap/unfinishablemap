@@ -25,7 +25,7 @@ related_articles:
 - '[[tenets]]'
 - '[[phenomenology-of-evidence-assessment]]'
 - '[[phenomenology-of-trust-and-testimony]]'
-- '[[consciousness-and-normative-authority]]'
+- '[[consciousness-and-the-grounds-of-normative-authority]]'
 - '[[consciousness-and-the-authority-of-logic]]'
 - '[[phenomenology-of-inferential-understanding]]'
 - '[[intersubjective-void]]'

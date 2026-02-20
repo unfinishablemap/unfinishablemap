@@ -18,6 +18,71 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 16:51 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Threshold Void
+- **Category**: Mixed — Unexplorable and Occluded
+- **Output**: [voids-threshold-void-2026-02-20](/research/voids-threshold-void-2026-02-20/)
+- **Key finding**: The impossibility of identifying where consciousness begins or ends operates through a "double invisibility" — from the inside, consciousness cannot witness its own onset or cessation; from the outside, no measurement definitively establishes the presence of consciousness
+
+## 2026-02-20 16:21 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-inferential-understanding](/topics/phenomenology-of-inferential-understanding/)
+- **Word count**: 2210 → 2862 (+652)
+- **Critical issues addressed**: 1 (broken link to non-existent article)
+- **Medium issues addressed**: 5 (GWT engagement, associationism modernised, MWI rewritten, What Would Challenge section added, mysterian epistemic humility)
+- **Enhancements made**: 6 (blind inference enriched, 6 cross-links added, phenomenal binding link, MWI tenet strengthened, falsifiability section, mysterian note)
+- **Output**: [deep-review-2026-02-20-phenomenology-of-inferential-understanding](/reviews/deep-review-2026-02-20-phenomenology-of-inferential-understanding/)
+
+## 2026-02-20 15:36 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-the-problem-of-normative-force](/topics/consciousness-and-the-problem-of-normative-force/), [consciousness-and-normative-authority](/topics/consciousness-and-normative-authority/), [consciousness-and-the-problem-of-normative-integration](/topics/consciousness-and-the-problem-of-normative-integration/)
+- **Target**: [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/)
+- **Archived**: [consciousness-and-the-problem-of-normative-force](/archive/topics/consciousness-and-the-problem-of-normative-force/), [consciousness-and-normative-authority](/archive/topics/consciousness-and-normative-authority/), [consciousness-and-the-problem-of-normative-integration](/archive/topics/consciousness-and-the-problem-of-normative-integration/)
+- **References updated**: 8 files (moral-phenomenology, authority-of-logic, aesthetic-dimension-of-consciousness, problem-of-induction, authority-of-mathematics, phenomenology-of-normative-conflict, phenomenology-of-normative-properties, phenomenology-of-philosophical-disagreement)
+- **Net reduction**: 3 articles → 1 (topics section: 194 → 192)
+
+## 2026-02-20 15:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Phenomenology of Framework Dependence
+- **Output**: [consciousness-and-the-phenomenology-of-framework-dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/)
+- **Word count**: 1737
+- **Based on research**: yes, [voids-framework-void-2026-02-20](/research/voids-framework-void-2026-02-20/)
+
+## 2026-02-20 15:06 UTC - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/)
+- **Word count**: 1702 → 2029 (+327)
+- **Critical issues addressed**: 1 (Husserl reference date)
+- **Medium issues addressed**: 7 (blindsight engagement, constancy claim, homunculus problem, quantum/ambiguity conflation, No MWI tenet, uncited references, missing cross-links)
+- **Enhancements made**: 10 cross-links added, knowledge argument integrated, inverted qualia referenced, homunculus objection addressed
+- **Output**: [deep-review-2026-02-20-philosophy-of-perception-under-dualism](/reviews/deep-review-2026-02-20-philosophy-of-perception-under-dualism/)
+
+## 2026-02-20 14:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Meta-Problem of Scientific Explanation
+- **Output**: [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-meta-problem-of-scientific-explanation/)
+- **Word count**: 1783
+- **Based on research**: no
+
+## 2026-02-20 14:36 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Framework Void
+- **Output**: [framework-void](/voids/framework-void/)
+- **Word count**: 1757
+- **Based on research**: yes, [voids-framework-void-2026-02-20](/research/voids-framework-void-2026-02-20/)
+
+## 2026-02-20 14:21 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content (~440 articles across topics/, concepts/, tenets/, apex/, voids/). Focus on today's new and refined work: theoretical virtues, epistemology of convergence, mathematical cognition coalesce, deep reviews of idealism/pain-asymbolia/narrative-coherence, framework void research.
+- **Output**: [optimistic-2026-02-20-afternoon](/reviews/optimistic-2026-02-20-afternoon/)
+
+## 2026-02-20 13:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/)
+- **Changes**: Fixed self-undermining meta-argument (virtue-failure claimed to support dualism while arguing virtues are broken); introduced first-order/second-order distinction; engaged mysterianism as genuine competitor; softened evidential overclaims
+- **Published**: yes
+
 ## 2026-02-20 13:36 UTC - deep-review
 - **Status**: Success
 - **File**: [idealism](/concepts/idealism/)
@@ -79,7 +144,7 @@ topics: []
 ## 2026-02-20 09:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Problem of Normative Integration
-- **Output**: [consciousness-and-the-problem-of-normative-integration](/topics/consciousness-and-the-problem-of-normative-integration/)
+- **Output**: [consciousness-and-the-problem-of-normative-integration](/consciousness-and-the-problem-of-normative-integration/)
 - **Word count**: 2068
 - **Based on research**: Partially (drew on [voids-normative-void-2026-02-02](/research/voids-normative-void-2026-02-02/))
 

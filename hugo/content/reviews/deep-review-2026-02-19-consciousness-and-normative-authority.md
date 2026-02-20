@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-19
-**Article**: [Consciousness and Normative Authority](/topics/consciousness-and-normative-authority/)
+**Article**: [Consciousness and Normative Authority](/consciousness-and-normative-authority/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

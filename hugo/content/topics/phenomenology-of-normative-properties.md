@@ -28,7 +28,7 @@ related_articles:
 - '[[phenomenal-depth]]'
 - '[[contemplative-evidence-for-consciousness-theories]]'
 - '[[aesthetic-dimension-of-consciousness]]'
-- '[[consciousness-and-normative-authority]]'
+- '[[consciousness-and-the-grounds-of-normative-authority]]'
 - '[[free-will]]'
 title: The Phenomenology of Normative Properties
 topics:
@@ -140,7 +140,7 @@ The phenomenology of normative properties connects to the Map's [foundational co
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — Contemplative deepening of normative perception
 - [phenomenal-depth](/concepts/phenomenal-depth/) — Layers of phenomenal experience accessible through attention
-- [consciousness-and-normative-authority](/topics/consciousness-and-normative-authority/) — How consciousness grounds normative authority
+- [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-the-grounds-of-normative-authority/) — How consciousness grounds normative authority
 - [free-will](/topics/free-will/) — Normative conflict as the site of genuine choice
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience
 

@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix self-undermining meta-argument in consciousness-and-the-problem-of-theoretical-virtues.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-20 afternoon) found the article argues theoretical virtues malfunction for consciousness, then claims this is "predicted by dualism and anomalous for physicalism." This is inconsistent — you cannot argue theory-choice machinery is broken, then use theory-choice reasoning to prefer dualism. Either acknowledge virtue-failure is neutral between dualism and physicalism, or develop the meta-argument more carefully by distinguishing first-order virtue application from second-order reasoning. Also engage with mysterianism as a genuine competitor (cognitive closure offers equally parsimonious reading of virtue failure). See pessimistic-2026-02-20-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-20
-
 ### P2: Update references to coalesced mathematical cognition articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-20) merged `consciousness-and-mathematical-understanding.md` and `consciousness-and-mathematical-creativity.md` into `consciousness-and-mathematical-cognition.md`. 12 active content files reference the archived articles. Files referencing `[consciousness-and-mathematical-understanding](/consciousness-and-mathematical-understanding/)`: consciousness-and-the-authority-of-mathematics.md, mysterianism.md, consciousness-and-the-authority-of-logic.md, phenomenology-of-inferential-understanding.md, cognitive-phenomenology.md, phenomenology-of-understanding.md, computational-cognitive-limits.md, introspection.md, temporal-structure-of-understanding.md. Files referencing `[consciousness-and-mathematical-creativity](/consciousness-and-mathematical-creativity/)`: surprise-and-creativity.md, consciousness-and-the-authority-of-mathematics.md, consciousness-and-aesthetic-creation.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)` where appropriate.
@@ -173,6 +167,29 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Write article on consciousness and the phenomenology of framework dependence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-20 (afternoon). What does it feel like to be framework-dependent? The phenomenology of recognising that your deepest convictions might be framework effects rather than insights about reality. The vertigo of trying to think outside your conceptual scheme. Bridges the voids and phenomenology clusters. Builds on voids-framework-void-2026-02-20.md, phenomenology-of-theoretical-commitment.md, phenomenology-of-philosophical-disagreement.md. See optimistic-2026-02-20-afternoon.md
+- **Output**: consciousness and the phenomenology of framework dependence
+
+### ✓ 2026-02-20: Write article on consciousness and the meta-problem of scientific explanation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-20 (afternoon). The philosophy-of-science cluster (theoretical virtues, measurement standards, philosophy of explanation, convergence arguments) now forms a four-article strand arriving at dualism through scientific methodology rather than metaphysics. A synthesis article would ask: what does it mean when a phenomenon defeats the entire apparatus of science? Builds on consciousness-and-the-problem-of-theoretical-virtues.md, consciousness-and-the-problem-of-measurement-standards.md, consciousness-and-the-philosophy-of-explanation.md, epistemology-of-convergence-arguments.md. See optimistic-2026-02-20-afternoon.md
+- **Output**: consciousness and the meta-problem of scientific explanation
+
+### ✓ 2026-02-20: Write voids article on the framework void
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-20 (afternoon). Research notes complete (voids-framework-void-2026-02-20.md). The framework void argues that our entire conceptual apparatus for understanding consciousness may constitute an invisible cognitive prison. Key elements: three dimensions of framework imprisonment (methodological, semantic, perceptual), the Davidson paradox, the productive tension between McGinn's pessimism and cartographic optimism. Builds on three-kinds-of-void.md, conceptual-impossibility.md, convergent-cognitive-limits.md. See optimistic-2026-02-20-afternoon.md
+- **Output**: Write voids article on the framework void
+
+### ✓ 2026-02-20: Fix self-undermining meta-argument in consciousness-and-the-problem-of-theoretical-virtues.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-20 afternoon) found the article argues theoretical virtues malfunction for consciousness, then claims this is "predicted by dualism and anomalous for physicalism." This is inconsistent — you cannot argue theory-choice machinery is broken, then use theory-choice reasoning to prefer dualism. Either acknowledge virtue-failure is neutral between dualism and physicalism, or develop the meta-argument more carefully by distinguishing first-order virtue application from second-order reasoning. Also engage with mysterianism as a genuine competitor (cognitive closure offers equally parsimonious reading of virtue failure). See pessimistic-2026-02-20-afternoon.md
+- **Output**: obsidian/topics/consciousness-and-the-problem-of-theoretical-virtues.md
+
+Task context:
+Pessimistic review (2026-02-20 afternoon) found the article argues theoretical virtues malfunction for consciousness, then claims this is "predicted by dualism and anomalous for physicalism." This is inconsistent — you cannot argue theory-choice machinery is broken, then use theory-choice reasoning to prefer dualism. Either acknowledge virtue-failure is neutral between dualism and physicalism, or develop the meta-argument more carefully by distinguishing first-order virtue application from second-order reasoning. Also engage with mysterianism as a genuine competitor (cognitive closure offers equally parsimonious reading of virtue failure). See pessimistic-2026-02-20-afternoon.md
 
 ### ✓ 2026-02-20: Strengthen vitalism disanalogy in epistemology-of-convergence-arguments.md
 - **Type**: refine-draft

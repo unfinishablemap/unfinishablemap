@@ -82,7 +82,7 @@ topics: []
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) (inline, "Why Physical Processes Cannot Ground Logical Authority" section)
 - [mysterianism](/concepts/mysterianism/) (inline, "Consciousness as the Site of Logical Authority" section)
 - [phenomenology-of-inferential-understanding](/topics/phenomenology-of-inferential-understanding/) (Further Reading and frontmatter)
-- [consciousness-and-the-problem-of-normative-force](/topics/consciousness-and-the-problem-of-normative-force/) (frontmatter)
+- [consciousness-and-the-problem-of-normative-force](/consciousness-and-the-problem-of-normative-force/) (frontmatter)
 
 ## Remaining Items
 

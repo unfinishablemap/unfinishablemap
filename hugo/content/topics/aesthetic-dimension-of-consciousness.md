@@ -46,7 +46,7 @@ related_articles:
 - '[[ethics-of-consciousness]]'
 - '[[knowledge-argument]]'
 - '[[philosophical-zombies]]'
-- '[[consciousness-and-normative-authority]]'
+- '[[consciousness-and-the-grounds-of-normative-authority]]'
 - '[[emotion-as-evidence-for-dualism]]'
 title: The Aesthetic Dimension of Consciousness
 topics:
@@ -115,7 +115,7 @@ Physical description is value-neutral. Physics tells us what *is*, not what *oug
 
 This creates what might be called the *normative gap*, distinct from the standard [explanatory-gap](/concepts/explanatory-gap/). The standard gap asks: why does this neural state feel like *anything*? The normative gap asks: why does this experience carry the authority of *mattering*? Even if some future neuroscience closed the standard gap, the normative dimension would remain unexplained. No physical fact entails that anything *should* seem beautiful.
 
-[Phenomenal value realism](/concepts/phenomenal-value-realism/) takes this seriously: the normativity of aesthetic experience is intrinsic to the experience, not projected onto it. The [broader question of normative authority](/topics/consciousness-and-normative-authority/) extends across moral, epistemic, and aesthetic domains. If this is right, aesthetic experience provides evidence for an ontological category—intrinsically normative phenomenal states—that physicalism cannot accommodate.
+[Phenomenal value realism](/concepts/phenomenal-value-realism/) takes this seriously: the normativity of aesthetic experience is intrinsic to the experience, not projected onto it. The [broader question of normative authority](/topics/consciousness-and-the-grounds-of-normative-authority/) extends across moral, epistemic, and aesthetic domains. If this is right, aesthetic experience provides evidence for an ontological category—intrinsically normative phenomenal states—that physicalism cannot accommodate.
 
 ### Gestalt Dependence
 
