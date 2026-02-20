@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Strengthen discourse argument in intersubjectivity.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-20) found the discourse argument contains a non-sequitur: cross-cultural convergence on consciousness vocabulary is claimed to track real phenomenology, but the article dismisses the "shared neural architecture" alternative by appeal to "specificity" without a principled criterion for what level of specificity distinguishes phenomenological tracking from neural convergence. Also: the article never engages with non-reductive physicalism—intersubjective convergence supports phenomenological realism but not directly substance dualism. See pessimistic-2026-02-20.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-20
-
 ### P2: Soften "empirically tractable" claim in russellian-monism.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-20) found the article claims the Map's bridging gap is "empirically tractable" while Russellian monism's is "conceptually closed," but the article's own "What Would Challenge This View?" section admits the quantum mechanism faces contested decoherence objections. Soften to "potentially empirically tractable" or acknowledge both gaps may be similarly opaque. See pessimistic-2026-02-20.md
@@ -172,6 +166,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Strengthen discourse argument in intersubjectivity.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-20) found the discourse argument contains a non-sequitur: cross-cultural convergence on consciousness vocabulary is claimed to track real phenomenology, but the article dismisses the "shared neural architecture" alternative by appeal to "specificity" without a principled criterion for what level of specificity distinguishes phenomenological tracking from neural convergence. Also: the article never engages with non-reductive physicalism—intersubjective convergence supports phenomenological realism but not directly substance dualism. See pessimistic-2026-02-20.md
+- **Output**: obsidian/concepts/intersubjectivity.md
+
+Task context:
+Pessimistic review (2026-02-20) found the discourse argument contains a non-sequitur: cross-cultural convergence on consciousness vocabulary is claimed to track real phenomenology, but the article dismisses the "shared neural architecture" alternative by appeal to "specificity" without a principled criterion for what level of specificity distinguishes phenomenological tracking from neural convergence. Also: the article never engages with non-reductive physicalism—intersubjective convergence supports phenomenological realism but not directly substance dualism. See pessimistic-2026-02-20.md
 
 ### ✓ 2026-02-20: Address mechanism smuggling and simulation ad-hoc argument in locality.md and authentic-vs-inauthentic-choice.md
 - **Type**: refine-draft
