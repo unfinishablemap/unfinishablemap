@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-15 06:40:00+00:00
+ai_modified: 2026-02-20 01:36:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,13 +12,13 @@ concepts:
 - '[[epiphenomenalism]]'
 - '[[agent-causation]]'
 created: 2026-02-15
-date: &id001 2026-02-15
+date: &id001 2026-02-20
 description: Causal preemption occurs when one cause renders another idle—central
   to delegatory dualism's solution to the exclusion problem for mental causation.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-20 01:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,7 +80,7 @@ This resolves the exclusion problem without overdetermination. The physical stat
 Several causal structures could model mental causation. Preemption has advantages over the alternatives:
 
 - **Overdetermination** posits redundant causation. If the physical cause suffices, the mental cause is explanatorily idle—exactly the epiphenomenalist conclusion the dualist wants to avoid.
-- **Joint causation** (neither suffices alone) requires denying that the physical state is sufficient, which conflicts with the apparent completeness of physical causal chains.
+- **Joint causation** (neither suffices alone) requires denying that the physical state is sufficient. This conflicts with what physics seems to show about causal completeness—though a physicalist would note that the completeness of physical causal chains is precisely what's at issue between dualists and physicalists.
 - **Constitution** (the mental cause *is* the physical cause under another description) amounts to reductionism, abandoning dualism.
 - **Preemption** preserves the physical state's *capacity* to cause the effect (respecting the spirit of physical sufficiency) while denying it *exercises* that capacity (making room for mental causation). The physical story is not violated—it is displaced.
 
@@ -92,9 +92,9 @@ Preemption connects to The Unfinishable Map's framework at multiple points.
 
 **Minimal Quantum Interaction**: The Map's quantum framework addresses the *mechanism* question (where in the physical story does consciousness act?), while Saad's preemption model addresses the *structure* question (how does mental causation avoid overdetermination?). The Map integrates both: quantum indeterminacy provides the physical substrate; delegation and preemption describe the causal logic. These frameworks complement rather than compete.
 
-**Agent Causation**: The [agent-causal](/concepts/agent-causation/) tradition holds that substances originate actions directly. Preemption specifies how this origination relates to the physical causal structure—the agent's exercise of causal power preempts the physical state's default contribution, providing the structural detail that agent-causal theories sometimes lack.
+**Agent Causation**: The [agent-causal](/concepts/agent-causation/) tradition holds that substances—not prior events—originate actions directly. Agent-causal theories explain *what kind of entity* initiates causation (the conscious agent as substance), while preemption explains *how that initiation relates to the physical causal structure*: the agent's exercise of causal power preempts the physical state's default contribution. Together, substance causation and delegatory preemption answer both the ontological question (who causes?) and the structural question (how does that cause interact with physical causes?).
 
-**Observational Closure**: Saad's model satisfies [observational-closure](/observational-closure/)—no observable violations of physical causal patterns. Preemption produces exactly the effects the physical state would have produced by default. Experiments detect no anomalies, because the causal outcome is identical whether the experience or the physical state does the work. This aligns with the Map's commitment that mental causation should not produce empirically detectable anomalies.
+**Observational Closure**: Saad's model satisfies [observational-closure](/observational-closure/)—no observable violations of physical causal patterns. Preemption produces exactly the effects the physical state would have produced by default. Experiments detect no anomalies, because the causal outcome is identical whether the experience or the physical state does the work. This aligns with the Map's commitment that mental causation should not produce empirically detectable anomalies. It also raises a legitimate methodological tension: if preemption is empirically indistinguishable from purely physical causation, the case for it rests on philosophical arguments (the reality of consciousness, the failure of reductive accounts) rather than direct empirical evidence.
 
 ## Further Reading
 

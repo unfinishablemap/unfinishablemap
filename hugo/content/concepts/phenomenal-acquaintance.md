@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-15 04:36:00+00:00
+ai_modified: 2026-02-20 00:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,13 +13,14 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[phenomenal-concepts-strategy]]'
 created: 2026-02-15
-date: &id001 2026-02-15
+date: &id001 2026-02-20
 description: Phenomenal acquaintance—the direct, non-inferential relation between
   consciousness and its own qualities—grounds the epistemic asymmetry between first-person
   experience and third-person description.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-20 00:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -27,6 +28,7 @@ related_articles:
 - '[[consciousness-only-territories]]'
 - '[[pre-conceptual-knowing]]'
 - '[[modal-structure-of-phenomenal-properties]]'
+- '[[phenomenal-intentionality]]'
 title: Phenomenal Acquaintance
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -60,9 +62,11 @@ Phenomenal acquaintance grounds several moves in philosophy of consciousness:
 
 **The knowledge argument.** When Mary sees red for the first time, what she gains is not merely a new concept or ability—she enters into a new acquaintance relation with the qualitative character of redness. Her prior physical knowledge was complete at the propositional level. What it lacked was this relation. The [knowledge-argument](/concepts/knowledge-argument/) depends on the claim that phenomenal acquaintance provides access to facts that propositional knowledge cannot capture.
 
-**Introspective justification.** [Phenomenal conservatism](/topics/phenomenal-conservatism-and-introspective-evidence/) holds that if it seems to you that something is the case, you have prima facie justification for believing it. Phenomenal acquaintance explains *why* certain introspective seemings are especially resistant to cognitive penetration. When the seeming arises from direct acquaintance with a phenomenal quality—when pain itself generates the seeming that it hurts—no background theory or bias mediates between experience and judgement. The relation is too immediate for distortion to enter.
+**Introspective justification.** [Phenomenal conservatism](/topics/phenomenal-conservatism-and-introspective-evidence/)—associated with Michael Huemer—holds that if it seems to you that something is the case, you have prima facie justification for believing it. Phenomenal acquaintance explains *why* certain introspective seemings are especially resistant to cognitive penetration. When the seeming arises from direct acquaintance with a phenomenal quality—when pain itself generates the seeming that it hurts—no background theory or bias mediates between experience and judgement. The directness of the relation limits the channels through which distortion can enter, even if it does not eliminate every source of error (as the section on acquaintance and error explores).
 
-**The limits of description.** Acquaintance reveals what [consciousness-only-territories](/voids/consciousness-only-territories/) make vivid: some epistemic territories are accessible only through experience. A complete description of the neural correlates of tasting mango leaves out what acquaintance with the taste provides. The description is not incomplete by its own standards—it captures all the structure and function. It is incomplete by the standard of acquaintance, which reveals qualitative character that structure and function do not encode.
+**Phenomenal intentionality.** [Phenomenal intentionality](/concepts/phenomenal-intentionality/) holds that genuine *aboutness* derives from phenomenal consciousness. Acquaintance is the mechanism: acquaintance with the qualitative character of thinking about coffee is what makes the thought genuinely *about* coffee, rather than merely a symbol causally correlated with coffee. Without acquaintance, intentionality reduces to functional covariation—and functional covariation, absent a subject who grasps the content, never constitutes genuine understanding.
+
+**The limits of description.** Acquaintance reveals what [consciousness-only-territories](/voids/consciousness-only-territories/) make vivid: some epistemic territories are accessible only through experience. A complete description of the neural correlates of tasting mango leaves out what acquaintance with the taste provides. The description is not incomplete by its own standards—it captures all the structure and function. It is incomplete by the standard of acquaintance, which reveals the [qualitative character](/topics/modal-structure-of-phenomenal-properties/) that structure and function do not encode.
 
 ## Acquaintance and Error
 
@@ -72,13 +76,15 @@ The resolution lies in distinguishing the relation from judgements based on it. 
 
 This is not to claim that acquaintance is infallible in any metaphysically loaded sense. The point is structural: the immediacy of phenomenal acquaintance means that certain kinds of error—those involving misrepresentation across a causal chain—do not arise. Other kinds of error—misclassification, inattention, imprecise description—remain possible because they involve operations that go beyond the acquaintance relation itself.
 
+Representationalists raise a different challenge. If [introspection](/concepts/introspection/) is *transparent*—if attending to your experience of red just is attending to the redness of the object—then acquaintance gives access to represented properties of the world, not to intrinsic qualities of experience. The dualist response is that transparency itself presupposes acquaintance: the reason attending to the experience of red feels like attending to redness is that the qualitative character *of the experience* constitutively involves redness. Transparency describes how acquaintance operates, not evidence that it fails to reach [phenomenal qualities](/concepts/phenomenal-consciousness/).
+
 A stronger concern emerges from the distinction between phenomenal acquaintance (being directly presented with a quality) and metaphysical characterisation (judging what that quality's ontological status is). Acquaintance with pain positions you to know *what pain is like*. It does not automatically position you to determine whether pain is ontologically reducible to physical processes. The step from "I am acquainted with this quality" to "this quality is non-physical" requires philosophical argument, not mere acquaintance.
 
 ## Relation to Site Perspective
 
 **[Dualism](/tenets/#dualism)**: Phenomenal acquaintance is part of the evidential foundation for the Map's dualism. If acquaintance provides access to qualitative character that no physical description captures—if the relation reveals something that structural and functional accounts leave out—then reality contains more than physical description encompasses. The knowledge argument, the explanatory gap, and the conceivability argument all gain traction from the claim that phenomenal acquaintance is genuinely irreducible. The Map does not claim that acquaintance alone establishes dualism. It holds that acquaintance secures the data—the reality of qualitative character—that these further arguments build upon.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If phenomenal acquaintance were [epiphenomenal](/arguments/epiphenomenalism/)—if the relation to qualitative character were causally inert—then reports about that character would be causally disconnected from the acquaintance itself. Mary's exclamation upon seeing red would bear no causal relation to her acquaintance with redness. That acquaintance reliably produces accurate reports suggests the relation is causally efficacious, consistent with consciousness influencing physical outcomes.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If phenomenal acquaintance were [epiphenomenal](/arguments/epiphenomenalism/)—if the relation to qualitative character were causally inert—then reports about that character would be causally disconnected from the acquaintance itself. Mary's exclamation upon seeing red would bear no causal relation to her acquaintance with redness. That acquaintance reliably produces accurate reports suggests the relation is causally efficacious, consistent with consciousness influencing physical outcomes. A physicalist can reply that brain states cause both the experience and the report without acquaintance doing independent causal work. But this response struggles to explain *why* reports track qualitative character so precisely—why the causal structure reliably links the right reports to the right qualities—without granting that the acquaintance relation itself plays a role in shaping the output.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Physicalist strategies that reduce acquaintance to recognitional capacity or conceptual competence achieve apparent parsimony by explaining away the relation rather than explaining it. If phenomenal acquaintance is genuine—if the immediacy and subject-dependence are real features, not artefacts of how we think about experience—then parsimony-driven reductions may reflect oversimplification rather than insight.
 
@@ -90,6 +96,8 @@ A stronger concern emerges from the distinction between phenomenal acquaintance 
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Epistemic territories accessible only through phenomenal acquaintance
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — The pre-conceptual character of acquaintance
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — The physicalist response that locates the gap in concepts rather than acquaintance
+- [phenomenal-intentionality](/concepts/phenomenal-intentionality/) — The thesis that genuine aboutness derives from phenomenal consciousness via acquaintance
+- [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — The structural features of the qualities acquaintance reveals
 - [introspection](/concepts/introspection/) — The reliability debate and the relation between acquaintance and introspective judgement
 
 ## References

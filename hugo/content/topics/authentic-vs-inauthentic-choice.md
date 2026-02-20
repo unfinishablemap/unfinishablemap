@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-01-30 21:35:00+00:00
+ai_modified: 2026-02-20 01:06:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -135,11 +135,11 @@ Inauthentic choice, by contrast, may not engage the selection function. When you
 
 This gives authenticity metaphysical significance: authentic choice is where consciousness *actually does* something rather than passively observing. Inauthenticity may represent the atrophy of genuine agency—going through the motions while consciousness idles.
 
-### The Neural Evidence
+### Neural Correlates
 
-The neural signatures of [willed action](/voluntary-attention/)—frontal theta oscillations, bidirectional frontoparietal coherence (Botvinick et al., 2001; Cavanagh & Frank, 2014)—appear in voluntary, effortful choice but not in automatic or instructed behavior. If authentic choice is characteristically effortful and inauthentic choice characteristically automatic, this neural distinction may track the authenticity difference.
+The neural signatures of [willed action](/voluntary-attention/)—frontal theta oscillations, bidirectional frontoparietal coherence (Botvinick et al., 2001; Cavanagh & Frank, 2014)—appear in voluntary, effortful choice but not in automatic or instructed behavior. These patterns are consistent with the Map's proposal that authentic choice engages consciousness's selection function, though they do not uniquely support it—a physicalist can explain the same signatures as markers of more complex computational processing without invoking non-physical causation.
 
-The [decision window](/concepts/motor-selection/) for willed movements (~300ms versus ~100ms for instructed movements; Haggard, 2008) suggests that genuine selection requires time for candidate neural patterns to develop and consciousness to engage. Scripted, automatic responses may bypass this deliberative interval.
+The [decision window](/concepts/motor-selection/) for willed movements (~300ms versus ~100ms for instructed movements; Haggard, 2008) is similarly consistent with either interpretation. On the Map's account, the longer window provides time for consciousness to engage with neural superpositions. On a physicalist account, it reflects the additional computational demands of non-routine decisions. The neural data alone cannot adjudicate between these frameworks, but the phenomenological distinctiveness of authentic choice—the felt quality of genuine self-expression versus scripted compliance—remains a datum that physicalism must accommodate.
 
 ### Agent Causation and the Whole Self
 

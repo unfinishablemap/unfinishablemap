@@ -18,6 +18,58 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 01:36 UTC - deep-review
+- **Status**: Success
+- **File**: [preemption](/concepts/preemption/)
+- **Word count**: 1260 → 1352 (+92)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-02-20-preemption](/reviews/deep-review-2026-02-20-preemption/)
+
+## 2026-02-20 01:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [intersubjectivity](/concepts/intersubjectivity/)
+- **Changes**: Fixed discourse argument non-sequitur (replaced vague "specificity" rebuttal with substantive engagement with neural convergence alternative); fixed parallel issue in contemplative evidence section; added non-reductive physicalism clarification to dualism subsection (intersubjectivity establishes phenomenological realism, not dualism directly)
+- **Published**: yes
+
+## 2026-02-20 01:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [locality](/concepts/locality/)
+- **Additional files**: [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/), [phenomenal-overflow](/concepts/phenomenal-overflow/)
+- **Changes**: Fixed category error in Response 1 (physical law analogy), replaced ad hoc simulation argument (Response 3) with independently motivated metaphysical argument, reframed "Neural Evidence" as "Neural Correlates" in authentic-vs-inauthentic-choice.md, fixed broken ^bidirectional anchor in phenomenal-overflow.md
+- **Published**: yes
+
+## 2026-02-20 00:51 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: authentic-vs-inauthentic-choice.md, russellian-monism.md, locality.md, intersubjectivity.md, phenomenal-overflow.md
+- **Output**: [pessimistic-2026-02-20](/reviews/pessimistic-2026-02-20/)
+
+## 2026-02-20 00:06 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
+- **Word count**: 1353 → 1609 (+256)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-02-20-phenomenal-acquaintance](/reviews/deep-review-2026-02-20-phenomenal-acquaintance/)
+
+## 2026-02-19 22:51 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Recognition Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-recognition-void-2026-02-19](/research/voids-recognition-void-2026-02-19/)
+- **Key finding**: Recognition — matching present experience to prior knowledge — has at least two dissociable components (perceptual identification and affective familiarity) revealed by the Capgras/prosopagnosia double dissociation; the binding of these components is structurally hidden from the consciousness it constitutes, making recognition a foundational void at the interface between physical processing and phenomenal experience.
+
+## 2026-02-19 22:21 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-perceptual-constancy](/topics/phenomenology-of-perceptual-constancy/)
+- **Word count**: 1421 → 1696 (+275)
+- **Critical issues addressed**: 2 (sub-millisecond factual error, straw physicalism in core argument)
+- **Medium issues addressed**: 5 (predictive processing engagement, cross-links, constancy breakdown phenomenology, spectral precision, Palmer citation)
+- **Enhancements made**: 5 (5 new cross-links, predictive processing references, phenomenological expansion, conscious/unconscious distinction, restructured core argument)
+- **Output**: [deep-review-2026-02-19-phenomenology-of-perceptual-constancy](/reviews/deep-review-2026-02-19-phenomenology-of-perceptual-constancy/)
+
 ## 2026-02-19 21:36 UTC - coalesce
 - **Status**: Success
 - **Sources**: [phenomenology-of-skill-and-the-lived-body](/phenomenology-of-skill-and-the-lived-body/), [paradox-of-effortless-mastery](/paradox-of-effortless-mastery/), [phenomenology-of-skill-transition](/phenomenology-of-skill-transition/)

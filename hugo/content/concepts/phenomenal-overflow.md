@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-01-29 00:58:54+00:00
+ai_modified: 2026-02-20 01:06:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -146,7 +146,7 @@ Each shows phenomenal properties are not identical to functional properties. If 
 
 ### Bidirectional Interaction
 
-The [Bidirectional Interaction tenet](/tenets/#bidirectional) holds that consciousness causally influences the physical world. Overflow complicates but doesn't undermine this claim.
+The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) holds that consciousness causally influences the physical world. Overflow complicates but doesn't undermine this claim.
 
 If phenomenology exceeds access, what role does the "extra" phenomenology play? One possibility: the overflowing phenomenal field is where consciousness operates most fundamentally. [Attention selects](/concepts/attention-as-interface/) from this field what enters access—and attention may be where consciousness exercises causal influence.
 
