@@ -151,6 +151,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
+### P3: Write article on the phenomenology of cognitive automatisation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-20. The cognitive load article describes approaching capacity limits; the complementary experience — when previously effortful tasks become automatic and "drop below" the interface — is equally informative. What does it feel like when a skill transfers from conscious control to unconscious execution? Builds on phenomenology-of-cognitive-load.md, consciousness-and-skilled-performance.md, control-theoretic-will.md. See optimistic-2026-02-20.md
+
+### P3: Write article on consciousness and the problem of theoretical virtues
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-20. The measurement standards article shows standard scientific methodology breaks down for consciousness. Systematically evaluate how consciousness resists each standard theoretical virtue (prediction, unification, scope, fertility) — and whether this resistance is diagnostic of irreducibility or merely practical difficulty. Builds on consciousness-and-the-problem-of-measurement-standards.md, consciousness-and-the-philosophy-of-explanation.md, the-convergence-argument-for-dualism.md. See optimistic-2026-02-20.md
+
+### P3: Write article on the interface location problem revisited
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-20. The 2026-02-20 locality refinement introduced arguments from physics (entanglement non-locality, contested fundamental spacetime). If spacetime is emergent, what does "locating" the mind-matter interface mean? Builds on locality.md, the-interface-location-problem.md, brain-interface-boundary.md. See optimistic-2026-02-20.md
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
