@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 15:36 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/consciousness-and-the-problem-of-normative-force]], [[topics/consciousness-and-normative-authority]], [[topics/consciousness-and-the-problem-of-normative-integration]]
+- **Target**: [[topics/consciousness-and-the-grounds-of-normative-authority]]
+- **Archived**: [[archive/topics/consciousness-and-the-problem-of-normative-force]], [[archive/topics/consciousness-and-normative-authority]], [[archive/topics/consciousness-and-the-problem-of-normative-integration]]
+- **References updated**: 8 files (moral-phenomenology, authority-of-logic, aesthetic-dimension-of-consciousness, problem-of-induction, authority-of-mathematics, phenomenology-of-normative-conflict, phenomenology-of-normative-properties, phenomenology-of-philosophical-disagreement)
+- **Net reduction**: 3 articles → 1 (topics section: 194 → 192)
+
 ## 2026-02-20 15:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Phenomenology of Framework Dependence

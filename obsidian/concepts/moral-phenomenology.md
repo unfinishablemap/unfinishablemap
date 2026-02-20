@@ -123,7 +123,7 @@ None of these findings currently obtains. The challenge for sceptics is to produ
 - [[normative-void]] — Where moral perception reaches its limits
 - [[moral-responsibility]] — How agent causation grounds moral desert
 - [[agent-causation]] — The metaphysics of origination underlying moral agency
-- [[consciousness-and-the-problem-of-normative-force]] — Why moral experience carries binding force
+- [[consciousness-and-the-grounds-of-normative-authority|Consciousness and the Problem of Normative Force]] — Why moral experience carries binding force
 - [[phenomenology-of-choice]] — The felt character of deliberation and decision
 
 ## References

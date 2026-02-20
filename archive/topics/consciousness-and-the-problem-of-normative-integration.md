@@ -31,6 +31,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-20
 last_curated:
+archived: true
+archived_date: 2026-02-20T15:36:00+00:00
+superseded_by: "/topics/consciousness-and-the-grounds-of-normative-authority/"
+archive_reason: "Coalesced into Consciousness and the Grounds of Normative Authority"
+original_path: "/topics/consciousness-and-the-problem-of-normative-integration/"
 ---
 
 Consciousness faces a binding problem not just for perception but for normativity. The Unfinishable Map has explored how [[phenomenology-of-normative-properties|normative properties appear across domains]] — moral, epistemic, aesthetic, prudential — and how [[consciousness-and-the-problem-of-normative-force|consciousness grounds their binding force]]. But a deeper question remains: how does a single conscious agent *integrate* these diverse normative demands into a unified field that guides coherent action? When duty conflicts with self-interest, evidence clashes with loyalty, and beauty beckons away from obligation, the agent does not simply register each demand separately. Something integrates them — weighing, coordinating, and sometimes sacrificing one for another — producing a unified normative orientation from which the agent acts. This normative integration is among the most distinctive things consciousness does, and no existing theory adequately explains it.

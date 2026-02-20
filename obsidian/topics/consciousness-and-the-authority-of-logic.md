@@ -18,12 +18,11 @@ concepts:
   - "[[causal-closure]]"
 related_articles:
   - "[[argument-from-reason]]"
-  - "[[consciousness-and-normative-authority]]"
+  - "[[consciousness-and-the-grounds-of-normative-authority]]"
   - "[[consciousness-and-mathematical-understanding]]"
   - "[[phenomenology-of-intellectual-effort]]"
   - "[[objectivity-and-consciousness]]"
   - "[[phenomenology-of-inferential-understanding]]"
-  - "[[consciousness-and-the-problem-of-normative-force]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -33,7 +32,7 @@ last_curated:
 
 Logical laws do not merely describe patterns in how people reason. They *compel*. When you grasp that if all mammals are warm-blooded and whales are mammals, then whales are warm-blooded, you do not experience this as one option among many. You experience it as something you *must* accept — as binding in a way that physical regularities are not. The Unfinishable Map argues that this binding force, this authority that logical laws exercise over thought, depends on consciousness in ways that physicalism cannot accommodate.
 
-This is a narrower claim than the [[argument-from-reason]], which targets whether physicalism is self-defeating. It is also more specific than [[consciousness-and-normative-authority]], which examines normative force across moral, epistemic, and aesthetic domains. The question here is pointed: what gives logic its peculiar grip, and what does that grip reveal about consciousness?
+This is a narrower claim than the [[argument-from-reason]], which targets whether physicalism is self-defeating. It is also more specific than [[consciousness-and-the-grounds-of-normative-authority|Consciousness and Normative Authority]], which examines normative force across moral, epistemic, and aesthetic domains. The question here is pointed: what gives logic its peculiar grip, and what does that grip reveal about consciousness?
 
 ## The Compulsion of Validity
 
@@ -112,7 +111,7 @@ The authority of logic provides distinctive support for three of the Map's [[ten
 ## Further Reading
 
 - [[argument-from-reason]] — The broader self-defeat challenge to physicalism
-- [[consciousness-and-normative-authority]] — Normative authority across moral, epistemic, and aesthetic domains
+- [[consciousness-and-the-grounds-of-normative-authority]] — Normative authority across moral, epistemic, and aesthetic domains
 - [[cognitive-phenomenology]] — Whether thinking has its own phenomenal character
 - [[consciousness-and-mathematical-understanding]] — Mathematical insight as a paradigm case
 - [[phenomenology-of-intellectual-effort]] — The felt experience of reasoning
