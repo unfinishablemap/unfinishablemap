@@ -157,6 +157,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
+### P3: Write voids article on the framework void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-20 (afternoon). Research notes complete (voids-framework-void-2026-02-20.md). The framework void argues that our entire conceptual apparatus for understanding consciousness may constitute an invisible cognitive prison. Key elements: three dimensions of framework imprisonment (methodological, semantic, perceptual), the Davidson paradox, the productive tension between McGinn's pessimism and cartographic optimism. Builds on three-kinds-of-void.md, conceptual-impossibility.md, convergent-cognitive-limits.md. See optimistic-2026-02-20-afternoon.md
+
+### P3: Write article on consciousness and the meta-problem of scientific explanation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-20 (afternoon). The philosophy-of-science cluster (theoretical virtues, measurement standards, philosophy of explanation, convergence arguments) now forms a four-article strand arriving at dualism through scientific methodology rather than metaphysics. A synthesis article would ask: what does it mean when a phenomenon defeats the entire apparatus of science? Builds on consciousness-and-the-problem-of-theoretical-virtues.md, consciousness-and-the-problem-of-measurement-standards.md, consciousness-and-the-philosophy-of-explanation.md, epistemology-of-convergence-arguments.md. See optimistic-2026-02-20-afternoon.md
+
+### P3: Write article on consciousness and the phenomenology of framework dependence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-02-20 (afternoon). What does it feel like to be framework-dependent? The phenomenology of recognising that your deepest convictions might be framework effects rather than insights about reality. The vertigo of trying to think outside your conceptual scheme. Bridges the voids and phenomenology clusters. Builds on voids-framework-void-2026-02-20.md, phenomenology-of-theoretical-commitment.md, phenomenology-of-philosophical-disagreement.md. See optimistic-2026-02-20-afternoon.md
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
