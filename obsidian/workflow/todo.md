@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address analogy-to-ontology gap in control-theoretic-will.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-20 afternoon) found the control-theoretic mapping table and controller/plant distinction are presented as architectural descriptions but function as analogies. The article briefly notes it "describes what consciousness does, not what consciousness is" but then draws ontological conclusions (controller must be distinct from plant → dualism). Add a section explicitly addressing the analogy-to-ontology gap. Acknowledge that control-theoretic language is a modelling tool, not evidence for dualism. See pessimistic-2026-02-20-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-20
-
 ### P2: Strengthen vitalism disanalogy in epistemology-of-convergence-arguments.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-20 afternoon) found the vitalism precedent undermines the Map's convergence argument more than acknowledged. The response ("no dissolution has been provided") is an argument from current ignorance. Article should articulate the structural difference: the conceivability argument targets a logical relationship not an empirical one, and the knowledge argument doesn't depend on scientific ignorance. Deploy these arguments rather than resting on absence of dissolution. See pessimistic-2026-02-20-afternoon.md
@@ -184,6 +178,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Address analogy-to-ontology gap in control-theoretic-will.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-20 afternoon) found the control-theoretic mapping table and controller/plant distinction are presented as architectural descriptions but function as analogies. The article briefly notes it "describes what consciousness does, not what consciousness is" but then draws ontological conclusions (controller must be distinct from plant → dualism). Add a section explicitly addressing the analogy-to-ontology gap. Acknowledge that control-theoretic language is a modelling tool, not evidence for dualism. See pessimistic-2026-02-20-afternoon.md
+- **Output**: obsidian/concepts/control-theoretic-will.md
+
+Task context:
+Pessimistic review (2026-02-20 afternoon) found the control-theoretic mapping table and controller/plant distinction are presented as architectural descriptions but function as analogies. The article briefly notes it "describes what consciousness does, not what consciousness is" but then draws ontological conclusions (controller must be distinct from plant → dualism). Add a section explicitly addressing the analogy-to-ontology gap. Acknowledge that control-theoretic language is a modelling tool, not evidence for dualism. See pessimistic-2026-02-20-afternoon.md
 
 ### ✓ 2026-02-20: Write article on consciousness and the problem of normative integration
 - **Type**: expand-topic

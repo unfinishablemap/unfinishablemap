@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 13:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [[control-theoretic-will]]
+- **Changes**: Added "Analogy, Model, and Ontology" section addressing the analogy-to-ontology gap; rewrote dualism paragraph in Relation to Site Perspective; softened ontology-begging language in opening and controller description
+- **Published**: yes
+
 ## 2026-02-20 12:51 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/galilean-exclusion.md, concepts/valence.md, concepts/control-theoretic-will.md, topics/epistemology-of-convergence-arguments.md, topics/consciousness-and-the-problem-of-theoretical-virtues.md
