@@ -4,7 +4,7 @@ description: "What laws of nature are—Humean regularities, governing principle
 created: 2026-02-16
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-02-16T14:43:00+00:00
+ai_modified: 2026-02-20T18:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-16
 last_curated:
-last_deep_review:
+last_deep_review: 2026-02-20T18:06:00+00:00
 ---
 
 The question of whether consciousness can interact with the physical world depends not only on physics but on what laws of nature *are*. The Unfinishable Map holds that [[psychophysical-laws|psychophysical laws]]—fundamental principles connecting phenomenal experience to physical processes—must exist if [[tenets#^dualism|dualism]] is true. But whether such laws are coherent, and what form they could take, turns on a prior metaphysical question: what is a law of nature in the first place? Three rival accounts—Humean regularity theory, the governing laws view, and dispositional essentialism—yield sharply different consequences for the mind-body problem. Each opens certain doors for dualist interaction and closes others.
@@ -60,7 +60,9 @@ Humeanism is surprisingly hospitable to psychophysical laws. If laws are just th
 
 The Humean view asks only: do psychophysical regularities exist? If whenever certain neural configurations occur, certain experiences follow—and whenever certain intentions arise, certain neural patterns are selected—then these regularities deserve inclusion in the best system. No metaphysical mechanism is needed. The patterns themselves suffice.
 
-The challenge for dualists on Humean grounds is different from what one might expect. The problem is not that psychophysical laws are impossible but that they lack *explanatory depth*. Saying "it is a law that brain state B produces experience E" provides no more explanation than saying "it regularly happens that B is followed by E." The Humean dualist gets correlation without illumination—precisely the deficiency Chalmers identifies when he calls for psychophysical laws that explain *why* certain physical states yield certain experiences.
+The challenge for dualists on Humean grounds is different from what one might expect. The problem is not that psychophysical laws are impossible but that they lack *explanatory depth*. Saying "it is a law that brain state B produces experience E" provides no more explanation than saying "it regularly happens that B is followed by E." The Humean dualist gets correlation without illumination. This is, in a sense, the [[hard-problem-of-consciousness|hard problem]] transplanted into the metaphysics of laws: the regularity tells us *that* brain states and experiences correlate, but never *why* this particular pairing holds rather than another.
+
+A Humean might respond that this demand for deeper explanation is unfair—Humean physical laws are equally "shallow." The regularity that masses attract provides no mechanism either. If brute regularity is good enough for gravity, why not for consciousness? The dualist's answer is that the explanatory gap between physical and phenomenal is qualitatively different from the gap between one physical regularity and another. Physical regularities at least involve commensurable quantities; psychophysical regularities bridge [[emergence|ontologically distinct domains]], making the absence of deeper explanation more troubling.
 
 A deeper concern: Humean supervenience holds that everything supervenes on the mosaic of local particular matters of fact. If consciousness adds something beyond the physical mosaic—as dualism claims—then Humean supervenience fails. The Humean picture may accommodate psychophysical *regularities* while being unable to accommodate the non-physical *facts* those regularities describe. A committed Humean might accept psychophysical correlations into the best system while denying that phenomenal properties are ontologically additional—which collapses back into a form of physicalism.
 
@@ -70,17 +72,21 @@ If laws govern by relating universals, psychophysical laws require that phenomen
 
 The difficulty is what might be called the *legislation problem*: who or what legislates the psychophysical laws? For physical laws, the governing theorist can treat them as brute modal facts—they hold necessarily (or contingently but primitively) as features of reality's fundamental structure. But psychophysical laws connect two ontologically distinct domains. Why should the relation between neural configuration and phenomenal quality hold at all? Physical governing laws relate physical universals that share an ontological category. Cross-domain legislation between radically different ontological kinds is harder to motivate without some underlying principle explaining *why* these particular connections hold.
 
-The governing view does, however, support the Map's bidirectional framework. If laws are genuinely prescriptive—if they *make* things happen rather than summarising what happens—then downward psychophysical laws could prescribe that certain conscious states produce certain physical outcomes. The law doesn't merely record that intention is followed by action; it governs the process by which intention produces action. This gives psychophysical causation the same metaphysical status as physical causation: both are law-governed.
+The governing view does, however, support the Map's bidirectional framework. If laws are genuinely prescriptive—if they *make* things happen rather than summarising what happens—then downward psychophysical laws could prescribe that certain conscious states produce certain physical outcomes. The law doesn't merely record that intention is followed by action; it governs the process by which intention produces action. This gives [[mental-causation|psychophysical causation]] the same metaphysical status as physical causation: both are law-governed.
+
+This has a further consequence for the quantum measurement problem. If governing laws prescribe physical outcomes, a psychophysical governing law could serve as the missing prescription for *when and how* quantum superpositions resolve in neural contexts. Physics leaves quantum measurement unexplained—no purely physical law specifies which outcome obtains. A psychophysical governing law would fill that gap, not as an ad hoc addition but as a completion of the lawful structure that physics itself requires. The Map's [[selection-laws|selection law]] framework—where consciousness biases otherwise indeterminate quantum outcomes—is naturally expressed as a governing law prescribing minimal, specific interventions at sites of neural quantum indeterminacy.
 
 ### Dispositional Essentialism and Phenomenal Powers
 
 Dispositional essentialism offers the most natural home for the Map's framework, but at a price. If laws are grounded in the essential natures of properties, and if phenomenal properties have essential dispositional natures that include capacities to influence physical processes, then [[psychophysical-laws]] express what phenomenal properties inherently *are*. The law connecting conscious intention to quantum selection is not an imposed correlation or a brute regularity—it flows from the essential nature of intention itself.
 
-This is the view explored in the Map's [[causal-powers]] article: phenomenal states possess irreducible causal powers, and psychophysical laws express those powers. The attraction is explanatory depth. We don't just observe that intention biases neural quantum outcomes; we understand *why*—because that biasing capacity is part of what intention essentially is, just as attracting other charges is part of what charge essentially is.
+This is the view explored in the Map's [[consciousness-and-causal-powers]] article: phenomenal states possess irreducible causal powers—the antithesis of [[epiphenomenalism]]—and psychophysical laws express those powers. The attraction is explanatory depth. We don't just observe that intention biases neural quantum outcomes; we understand *why*—because that biasing capacity is part of what intention essentially is, just as attracting other charges is part of what charge essentially is.
 
-The price is ontological commitment. Dispositional essentialism about phenomenal properties means consciousness has a fixed essential nature—its causal profile could not have been otherwise. This seems to conflict with the contingency of psychophysical laws that zombie arguments suggest. If a zombie world is conceivable—a world physically identical to ours but lacking consciousness—then consciousness is not metaphysically necessary given the physical facts. And if consciousness is not necessary, its causal profile cannot be essential in the way dispositional essentialism requires.
+The price is ontological commitment. Dispositional essentialism about phenomenal properties means consciousness has a fixed essential nature—its causal profile could not have been otherwise. This seems to conflict with the contingency that [[philosophical-zombies|zombie arguments]] suggest. If a zombie world is conceivable—a world physically identical to ours but lacking consciousness—then consciousness is not metaphysically necessary given the physical facts. And if consciousness is not necessary, its causal profile cannot be essential in the way dispositional essentialism requires.
 
 One resolution: phenomenal properties are contingent additions to the physical world, but *given that they exist*, their dispositional natures are essential. Charge could fail to exist (in some possible world), but wherever charge exists, it necessarily obeys Coulomb's law. Similarly, consciousness could fail to exist (zombie worlds), but wherever it exists, it necessarily possesses the power to bias quantum outcomes. The psychophysical law is necessary *conditional on* consciousness existing, even though consciousness's existence is itself contingent.
+
+The analogy is imperfect. A world without charge would be a *physically different* world—the absence of a physical property changes the physical facts. A zombie world, by contrast, is supposed to be *physically identical* to ours while lacking consciousness entirely. This asymmetry means phenomenal dispositions occupy a different modal position than physical dispositions: their existence is contingent relative to the physical facts in a way that charge's existence is not. The conditional necessity move still works—essential natures conditional on existence are coherent—but the disanalogy shows that phenomenal dispositions cannot be fully assimilated to their physical counterparts.
 
 ## Why This Matters for the Mind-Body Problem
 
@@ -91,6 +97,8 @@ If Humeanism is correct, the hard problem cannot be solved by discovering psycho
 If governing laws are correct, psychophysical laws have genuine modal force—they hold across counterfactual scenarios and support explanations. But the cross-domain legislation problem means we need an account of *why* phenomenal and physical universals stand in these particular relations. Without such an account, governing psychophysical laws are brute necessities—more explanatorily robust than Humean regularities but still ultimately unexplained.
 
 If dispositional essentialism is correct, psychophysical laws are grounded in the natures of phenomenal properties themselves. This provides the deepest explanation: consciousness interacts with physics because that's what consciousness *is*—a set of dispositions that include physical effects. The price is strong metaphysical commitment to the essential nature of phenomenal properties, combined with the tension between dispositional necessity and zombie-world contingency.
+
+A broader observation: none of the three accounts fully explains even purely physical laws. Humean regularities provide no mechanism. Governing laws face a regress—what grounds the governing laws themselves? Dispositional essences raise questions about why properties have the natures they do. If we cannot fully explain *why* charge obeys Coulomb's law on any account, our inability to fully explain why neural configurations produce experiences is less a special indictment of dualism and more a general feature of metaphysical inquiry. The difficulty of psychophysical laws is partly inherited from the difficulty of *all* laws.
 
 The Map does not need to settle the metaphysics of laws to maintain its core commitments. All three accounts are compatible with psychophysical laws of some kind. But recognising which account one implicitly assumes clarifies what explanatory resources are available and what explanatory gaps remain.
 
@@ -103,6 +111,8 @@ The Map's [[tenets]] have differential affinities with each account of laws.
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** receives strongest support from the governing laws view (laws genuinely prescribe, including psychophysical ones) and dispositional essentialism (consciousness has essential powers to affect physics). Humeanism can accommodate bidirectional regularities but struggles to ground genuine causation as opposed to constant conjunction.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** sits comfortably with dispositional essentialism: consciousness has a minimal essential disposition to bias quantum outcomes, no more and no less. On the governing view, the minimality of the interaction is a contingent feature of the psychophysical law. On Humeanism, minimality is merely what happens to be the case.
+
+**[[tenets#^no-many-worlds|No Many Worlds]]** is implicitly assumed throughout this analysis. All three accounts evaluate psychophysical laws within a single-outcome framework where [[quantum-consciousness|quantum measurement]] yields definite results. Under Many-Worlds, the legislation problem dissolves—all branches are realised, so no law needs to explain why a particular psychophysical correlation holds rather than another. The Map's rejection of Many-Worlds is what makes the metaphysics of laws question urgent: if only one outcome obtains, something must account for *which* outcome.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** gains force from the metaphysics of laws debate. If the correct account of laws requires dispositional essences for phenomenal properties—entities and structures that parsimony-driven physicalism would reject—this illustrates how Occam's Razor can mislead when knowledge is incomplete. The simpler account (no phenomenal properties, no psychophysical laws) may be wrong precisely because it eliminates something real.
 
@@ -129,5 +139,7 @@ Dretske, F. (1977). "Laws of Nature." *Philosophy of Science* 44(2): 248-268.
 Ellis, B. (2001). *Scientific Essentialism*. Cambridge University Press.
 
 Lewis, D. (1973). *Counterfactuals*. Harvard University Press.
+
+Lewis, D. (1994). "Humean Supervenience Debugged." *Mind* 103(412): 473-490.
 
 Tooley, M. (1977). "The Nature of Laws." *Canadian Journal of Philosophy* 7(4): 667-698.
