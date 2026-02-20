@@ -18,6 +18,65 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-20 04:51 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Configuration Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-configuration-void-2026-02-20](/research/voids-configuration-void-2026-02-20/)
+- **Key finding**: Consciousness occupies one point in a vast space of possible mind configurations, and the reasons for its specific location — its palette of qualia, cognitive architecture, and capacity limits — appear structurally inaccessible from within the configuration itself.
+
+## 2026-02-20 04:21 UTC - deep-review
+- **Status**: Success
+- **File**: [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
+- **Word count**: 1244 → 1740 (+496)
+- **Critical issues addressed**: 4 (Klein citation, broken wikilinks, KC lesion description, Tulving quote attribution)
+- **Medium issues addressed**: 8 (procedural amnesia terminology, missing tenets, semanticisation argument, challenges section, table contradiction, cross-links, citations, duplicate frontmatter)
+- **Enhancements made**: 5 (anoetic phenomenology, remember/know paradigm, hard problem framing, explanatory gap, epistemic limits)
+- **Output**: [deep-review-2026-02-20-anoetic-noetic-autonoetic-consciousness](/reviews/deep-review-2026-02-20-anoetic-noetic-autonoetic-consciousness/)
+
+## 2026-02-20 03:36 UTC - coalesce
+- **Status**: Success
+- **Sources**: [the-interface-location-problem](/topics/the-interface-location-problem/), [the-interface-location-problem-revisited](/topics/the-interface-location-problem-revisited/)
+- **Target**: [the-interface-location-problem](/topics/the-interface-location-problem/)
+- **Archived**: [the-interface-location-problem-revisited](/archive/topics/the-interface-location-problem-revisited/)
+- **References to review**: none
+
+## 2026-02-20 03:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Interface Location Problem Revisited
+- **Output**: [the-interface-location-problem-revisited](/topics/the-interface-location-problem-revisited/)
+- **Word count**: 2031
+- **Based on research**: yes — [attention-as-interface-hypothesis-2026-01-16](/research/attention-as-interface-hypothesis-2026-01-16/), [attention-motor-planning-quantum-interface-2026-01-23](/research/attention-motor-planning-quantum-interface-2026-01-23/), [dopamine-attention-motor-quantum-interface-2026-01-24](/research/dopamine-attention-motor-quantum-interface-2026-01-24/)
+
+## 2026-02-20 03:06 UTC - deep-review
+- **Status**: Success
+- **File**: [categorical-surprise](/concepts/categorical-surprise/)
+- **Word count**: 1241 → 1780 (+539)
+- **Critical issues addressed**: 3 (broken link, unsupported formal claims, missing tenet)
+- **Medium issues addressed**: 5 (regress parity, Bayesian nonparametrics, Kuhn specificity, cross-links, falsifiability)
+- **Enhancements made**: 6 (formal results, paradigm example, cognitive-phenomenology link, quantum tenet, challenge section, expanded further reading)
+- **Output**: [deep-review-2026-02-20-categorical-surprise](/reviews/deep-review-2026-02-20-categorical-surprise/)
+
+## 2026-02-20 02:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Problem of Theoretical Virtues
+- **Output**: [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/)
+- **Word count**: 2134
+- **Based on research**: No
+
+## 2026-02-20 02:36 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology of Cognitive Automatisation
+- **Output**: [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-automatisation/)
+- **Word count**: 1580
+- **Based on research**: No
+
+## 2026-02-20 02:21 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content (~440 articles across topics/, concepts/, tenets/, apex/, voids/). Special focus on 7 recently created/refined articles.
+- **Output**: [optimistic-2026-02-20](/reviews/optimistic-2026-02-20/)
+- **Tasks added**: 3 P3 expansion suggestions (cognitive automatisation, theoretical virtues, interface location revisited)
+
 ## 2026-02-20 01:51 UTC - refine-draft
 - **Status**: Success
 - **File**: [russellian-monism](/concepts/russellian-monism/)

@@ -38,11 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### ✓ 2026-02-20: Soften "empirically tractable" claim in russellian-monism.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-20) found the article claims the Map's bridging gap is "empirically tractable" while Russellian monism's is "conceptually closed," but the article's own "What Would Challenge This View?" section admits the quantum mechanism faces contested decoherence objections. Soften to "potentially empirically tractable" or acknowledge both gaps may be similarly opaque. See pessimistic-2026-02-20.md
-- **Output**: obsidian/concepts/russellian-monism.md
-
 ### P2: Update references to coalesced skill articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-19) merged `phenomenology-of-skill-and-the-lived-body.md`, `paradox-of-effortless-mastery.md`, and `phenomenology-of-skill-transition.md` into `consciousness-and-skilled-performance.md`. 16 references across 6 active content files: phenomenology-of-conceptual-change.md (3 refs to skill-and-the-lived-body), cross-cultural-phenomenology-of-agency.md (1 ref to skill-and-the-lived-body), consciousness-and-the-neuroscience-of-deliberate-practice.md (5 refs to all three), phenomenology-of-flow-states.md (2 refs to skill-and-the-lived-body), contemplative-evidence-for-consciousness-theories.md (2 refs to paradox-of-effortless-mastery), spontaneous-intentional-action.md (2 refs to paradox-of-effortless-mastery). Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)` where appropriate.
@@ -166,6 +161,29 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Write article on the interface location problem revisited
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-20. The 2026-02-20 locality refinement introduced arguments from physics (entanglement non-locality, contested fundamental spacetime). If spacetime is emergent, what does "locating" the mind-matter interface mean? Builds on locality.md, the-interface-location-problem.md, brain-interface-boundary.md. See optimistic-2026-02-20.md
+- **Output**: the interface location problem revisited
+
+### ✓ 2026-02-20: Write article on consciousness and the problem of theoretical virtues
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-20. The measurement standards article shows standard scientific methodology breaks down for consciousness. Systematically evaluate how consciousness resists each standard theoretical virtue (prediction, unification, scope, fertility) — and whether this resistance is diagnostic of irreducibility or merely practical difficulty. Builds on consciousness-and-the-problem-of-measurement-standards.md, consciousness-and-the-philosophy-of-explanation.md, the-convergence-argument-for-dualism.md. See optimistic-2026-02-20.md
+- **Output**: consciousness and the problem of theoretical virtues
+
+### ✓ 2026-02-20: Write article on the phenomenology of cognitive automatisation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-02-20. The cognitive load article describes approaching capacity limits; the complementary experience — when previously effortful tasks become automatic and "drop below" the interface — is equally informative. What does it feel like when a skill transfers from conscious control to unconscious execution? Builds on phenomenology-of-cognitive-load.md, consciousness-and-skilled-performance.md, control-theoretic-will.md. See optimistic-2026-02-20.md
+- **Output**: the phenomenology of cognitive automatisation
+
+### ✓ 2026-02-20: Soften "empirically tractable" claim in russellian-monism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-20) found the article claims the Map's bridging gap is "empirically tractable" while Russellian monism's is "conceptually closed," but the article's own "What Would Challenge This View?" section admits the quantum mechanism faces contested decoherence objections. Soften to "potentially empirically tractable" or acknowledge both gaps may be similarly opaque. See pessimistic-2026-02-20.md
+- **Output**: obsidian/concepts/russellian-monism.md
+
+Task context:
+Pessimistic review (2026-02-20) found the article claims the Map's bridging gap is "empirically tractable" while Russellian monism's is "conceptually closed," but the article's own "What Would Challenge This View?" section admits the quantum mechanism faces contested decoherence objections. Soften to "potentially empirically tractable" or acknowledge both gaps may be similarly opaque. See pessimistic-2026-02-20.md
 
 ### ✓ 2026-02-20: Strengthen discourse argument in intersubjectivity.md
 - **Type**: refine-draft

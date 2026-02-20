@@ -1,23 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-11 00:10:00+00:00
+ai_modified: 2026-02-20 03:36:00+00:00
 ai_system: claude-opus-4-6
 author: null
+coalesced_from:
+- /topics/the-interface-location-problem/
+- /topics/the-interface-location-problem-revisited/
 concepts:
 - '[[quantum-consciousness]]'
 - '[[attention-as-interface]]'
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[brain-interface-boundary]]'
 - '[[decoherence]]'
+- '[[coupling-modes]]'
 - '[[quantum-coherence-and-binding-evidence]]'
 - '[[attention]]'
 - '[[measurement-problem]]'
 - '[[psychophysical-coupling]]'
+- '[[motor-selection]]'
+- '[[mental-effort]]'
 created: 2026-02-09
-date: &id001 2026-02-11
-description: Where exactly does consciousness meet the brain? Multiple candidate sites
-  exist. Systematic comparison reveals why the Map remains agnostic about specifics.
+date: &id001 2026-02-20
+description: Where does consciousness meet the brain? Four candidate sites exist.
+  Converging evidence from attention-motor research, dopamine dynamics, and developmental
+  neuroscience moves the Map from open agnosticism to constrained pluralism.
 draft: false
 human_modified: null
 last_curated: null
@@ -26,16 +33,20 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[mind-matter-interface]]'
+- '[[the-interface-specification-problem]]'
+- '[[the-psychophysical-control-law]]'
+- '[[developmental-trajectory-of-the-interface]]'
 - '[[attention-motor-planning-quantum-interface-2026-01-23]]'
 title: The Interface Location Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[free-will]]'
+- '[[attention-as-selection-interface]]'
 ---
 
 If consciousness interfaces with the brain at quantum indeterminacies — as The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds — a natural question follows: *where in the brain* does this interface operate? Multiple candidate sites have been proposed, each with distinct mechanisms, timescales, and empirical support. The interface location problem asks which of these sites actually serves as the point of contact between consciousness and neural activity, and whether the question even has a single answer.
 
-The Map currently remains agnostic about the specific location. This article explains why that agnosticism is principled rather than evasive — and what any successful answer must account for.
+The Map's position has evolved. An initial survey of four candidate sites supported principled agnosticism — the evidence was genuinely inconclusive. Subsequent developments in attention-motor convergence research, dopamine dynamics, and developmental neuroscience have narrowed the field. The Map now holds a position better described as *constrained pluralism*: the interface operates through the attention-motor architecture, with molecular-level quantum effects providing the physical substrate.
 
 ## Why Location Matters
 
@@ -63,7 +74,7 @@ Roger Penrose and Stuart Hameroff propose that consciousness interfaces with the
 
 Henry Stapp proposes that consciousness operates through quantum effects at ion channels — the narrow protein pores (less than 1 nanometre at their narrowest) through which ions cross neural membranes. At this scale, quantum uncertainty applies: whether a particular channel opens or closes is not fully determined by classical physics. Schwartz, Stapp, and Beauregard (2005) argue that "owing to certain structural features of ion channels critical to synaptic function, contemporary physical theory must in principle be used when analysing human brain dynamics."
 
-**Strengths.** Ion channels are uncontroversially quantum-mechanical at their narrowest points. The proposal connects directly to synaptic function — whether a neuron fires depends on which channels open. Stapp's quantum Zeno mechanism provides a specific account of how consciousness might hold desired channel states through repeated observation. Schwartz's OCD neuroplasticity evidence demonstrates that directed mental effort (attention) can systematically reshape neural circuits, though this evidence establishes only that attention affects neural structure, not that quantum mechanisms are involved — the neuroplasticity findings are compatible with classical neural dynamics.
+**Strengths.** Ion channels are uncontroversially quantum-mechanical at their narrowest points. The proposal connects directly to synaptic function — whether a neuron fires depends on which channels open. Stapp's quantum Zeno mechanism provides a specific account of how consciousness might hold desired channel states through repeated observation. Schwartz's OCD neuroplasticity evidence demonstrates that directed mental effort (attention) can systematically reshape neural circuits, though this evidence establishes only that attention affects neural structure, not that quantum mechanisms are involved.
 
 **Difficulties.** The Zeno mechanism requires observation rates at femtosecond timescales, while attention operates at ~100ms timescales — a gap of roughly ten orders of magnitude. Monte Carlo simulations (Litt et al. 2006) found the quantum Zeno effect breaks down for timescales exceeding decoherence time in simplified models, though Stapp contested their model as too simple. The mechanism for coordinating individual ion channel quantum events into coherent macroscopic decisions remains unspecified.
 
@@ -87,7 +98,7 @@ Rather than identifying a specific molecular site, some formulations locate the 
 
 Regardless of which candidate proves correct, any successful account of the interface location must address five constraints:
 
-**1. The decoherence constraint.** The proposed site must maintain quantum effects long enough for consciousness to influence outcomes. This means either: quantum coherence persisting on relevant timescales, or consciousness operating at the point of measurement even after decoherence has selected a preferred basis. The latter possibility remains viable because [decoherence](/concepts/decoherence/) only explains why quantum superpositions become unobservable at macroscopic scales — it doesn't explain which specific outcome becomes actual, which is what the [measurement problem](/concepts/measurement-problem/) asks. If consciousness selects the actual outcome from decoherence-narrowed alternatives, quantum coherence at neural timescales may not be required.
+**1. The decoherence constraint.** The proposed site must maintain quantum effects long enough for consciousness to influence outcomes. This means either: quantum coherence persisting on relevant timescales, or consciousness operating at the point of measurement even after decoherence has selected a preferred basis. The latter possibility remains viable because [decoherence](/concepts/decoherence/) only explains why quantum superpositions become unobservable at macroscopic scales — it doesn't explain which specific outcome becomes actual, which is what the [measurement problem](/concepts/measurement-problem/) asks.
 
 **2. The bandwidth match.** The interface must explain why conscious selection operates at roughly 10 bits per second. A molecular-level interface selecting among billions of quantum states per second would need an account of why conscious experience reflects only a tiny fraction of those selections.
 
@@ -97,100 +108,117 @@ Regardless of which candidate proves correct, any successful account of the inte
 
 **5. The phenomenal match.** Interface activity must correlate with the phenomenology of conscious effort and choice. Sites where selection occurs should show increased activity during effortful attention and reduced activity during automatic processing or loss of consciousness.
 
-## Why the Map Remains Agnostic
+## From Agnosticism to Constrained Pluralism
 
-The Map does not commit to a specific interface location for three principled reasons.
+Three developments have narrowed the field since the initial candidate survey.
 
-**The evidence is genuinely inconclusive.** Each candidate has empirical support and empirical difficulties. The microtubule proposal has suggestive pharmacological evidence (epothilone B) but faces serious decoherence objections. The ion channel proposal has established quantum mechanics on its side but faces the timescale gap. The cortical column proposal has the right functional scale but limited empirical grounding. Committing prematurely risks building the Map's framework on a foundation that collapses.
+### The Attention-Motor Convergence
 
-**The core philosophical claims are location-independent.** The Map's tenets assert that consciousness is irreducible, that it causally influences the brain, and that it does so at quantum indeterminacies without injecting energy. These claims hold regardless of whether the relevant indeterminacies are in microtubules, ion channels, or cortical columns. The philosophical framework should not be hostage to empirical details that could change with the next experiment.
+The premotor theory of attention (Rizzolatti) proposes that attention and motor preparation share neural substrates — spatial attention *is* motor planning. The Map's [attention-as-selection-interface](/topics/attention-as-selection-interface/) article integrates this with quantum selection: if attention is motor planning, and consciousness acts through attention, then the interface location must be within the overlapping attention-motor architecture. This eliminates candidates outside that architecture's scope.
 
-**Multiple sites may be correct simultaneously.** The candidates are not mutually exclusive. Consciousness might interface at multiple levels: microtubule states shaping individual neural responses while attention networks select among large-scale patterns. A hierarchical interface — quantum effects at molecular sites feeding into column-level selection feeding into network-level attention — could explain both the fine-grained neural correlates of consciousness and the coarse-grained phenomenology of choice.
+The 2025 COGITATE adversarial collaboration reinforced this constraint by distinguishing attention networks (frontoparietal) from consciousness networks (posterior "hot zone"). If consciousness *resides* in posterior cortex but *acts* through frontoparietal attention-motor systems, the interface location is where these systems meet — not in either system alone.
 
-## The Hierarchical Possibility
+### Dopamine and the Threshold Architecture
 
-The most plausible resolution may be that the interface location problem has no single answer. Consider an analogy: asking "where does a computer process information?" has no unique correct answer. Processing occurs at transistors, logic gates, circuits, and software — each level describes real computational work at different scales.
+A 2024 *Nature* study demonstrated that tonic dopamine supports movement capacity while phasic dopamine drives motivated action — mice with disrupted phasic dopamine "can move" but "won't move." Separate research (Westbrook et al. 2023) showed that striatal dopamine regulates the decision threshold at which competing motor programmes resolve.
 
-Similarly, the consciousness-brain interface might operate hierarchically:
+This clarifies the relationship between the Map's framework and the physical substrate. Dopamine does not generate movement or select actions — it sets the conditions under which selection occurs. The neural competition model (Cisek 2007) shows that multiple action representations exist simultaneously in premotor cortex, competing until one crosses a threshold. Dopamine modulates that threshold; consciousness, on the Map's account, determines which option crosses first. The interface location, then, must be wherever threshold-crossing events involve quantum indeterminacy.
 
-- **Molecular level**: Quantum effects in microtubules or ion channels provide the physical openings where consciousness can influence outcomes
+### The Developmental Trajectory
+
+The Map's [lifespan analysis](/topics/developmental-trajectory-of-the-interface/) revealed that the interface undergoes systematic restructuring — wide aperture in infancy, narrowing through critical periods, peaking in structured control during adulthood, loosening again in age. Any candidate site must account for this trajectory. Static molecular sites (microtubules, individual ion channels) do not obviously explain why the interface character changes with developmental phase. Sites embedded in the attention-motor architecture — which itself undergoes dramatic developmental restructuring — do.
+
+## Reordering the Candidates
+
+These developments do not eliminate candidates so much as reorder them.
+
+**Attention-motor architecture: promoted.** The functional-level account gains the most from recent developments. The attention-motor convergence gives it anatomical specificity it previously lacked. The dopamine research provides a mechanism for how competition and threshold-crossing work. The developmental trajectory matches the maturation of frontoparietal networks. The original objection — that a functional account must eventually be grounded in physics — remains valid, but now points toward a specific research programme rather than a general inadequacy.
+
+**Ion channels: constrained but viable.** Stapp's ion channel proposal gains from being the most physically specific account of how quantum effects might operate within the attention-motor architecture. Ion channels at synaptic junctions in frontoparietal-premotor circuits are precisely where threshold-crossing events occur. The timescale objection (femtosecond-scale observation vs. ~100ms attention) remains serious. Stapp's response — that the two-level model used in Monte Carlo critiques is too simple — is possible but has not been supported by more detailed modelling.
+
+**Cortical microcolumns: constrained but viable.** The microcolumn proposal matches the bandwidth constraint and connects to established neuroscience. Its compatibility with the attention-motor framework is straightforward: microcolumns within frontoparietal and premotor regions could serve as the functional units among which consciousness selects. The quantum coherence mechanism (zero-point field coupling) remains without experimental support.
+
+**Microtubules: demoted.** Orch OR fits least naturally with the developments above. The theory locates quantum effects inside individual neurons rather than at the architectural level where attention-motor competition occurs. The developmental trajectory creates a further problem: microtubules exist in all neurons throughout development and do not obviously explain why the interface character changes with the maturation of attention networks. Microtubules might still serve as the molecular substrate *within* the attention-motor architecture, but this makes them a supporting mechanism rather than an independent candidate.
+
+## The Hierarchical Model
+
+The most plausible resolution is that the interface location problem has no single answer. Consider an analogy: asking "where does a computer process information?" has no unique correct answer. Processing occurs at transistors, logic gates, circuits, and software — each level describes real computational work at different scales.
+
+Similarly, the consciousness-brain interface operates hierarchically:
+
+- **Molecular level**: Quantum effects in ion channels or microtubules provide the physical openings where consciousness can influence outcomes
 - **Cellular level**: These quantum effects aggregate into neural firing decisions — which neurons fire, which synapses strengthen
 - **Network level**: Attention systems select among competing neural patterns, implementing the coarse-grained choices that reach conscious awareness
 - **Phenomenal level**: What consciousness experiences as "choosing" corresponds to network-level selection, not molecular-level quantum events
 
-On this picture, asking "where is the interface?" is like asking "where is the computation?" — the answer is "at every level, in different ways." The molecular level provides the *possibility* of non-physical influence; the network level provides the *structure* for meaningful selection.
+Constrained pluralism adds direction to this hierarchy: it should be understood as attention-motor architecture all the way down, with the molecular level providing the physical substrate for quantum effects that the functional level organises.
 
-This hierarchical model is speculative but has the advantage of reconciling the candidates rather than forcing a choice among them. It also explains why consciousness feels coarse-grained (you choose actions, not molecular configurations) while quantum mechanics operates at the molecular level: the interface spans multiple scales, and conscious experience corresponds to the upper levels of the hierarchy.
+The picture is of nested selection: consciousness acts through the attention-motor system, which selects among competing neural patterns, which resolve through threshold-crossing events, which involve quantum indeterminacies at molecular sites. Each level is real and does genuine work. The emerging answer to "at which level does consciousness act?" is "at the functional level, through the molecular level."
 
-## What Would Resolve the Problem
+## What Constrained Pluralism Predicts
 
-The interface location problem is empirical, not purely philosophical. Several lines of evidence could narrow the candidates:
+Moving from agnosticism to constrained pluralism generates specific expectations.
 
-**Selective disruption experiments.** If disrupting one candidate site eliminates conscious influence while leaving others intact, that site is essential. The epothilone B study represents a first step — showing that microtubule stability affects anaesthetic response, though the mechanism may be classical rather than quantum. Similar experiments targeting ion channels or cortical column synchrony could identify which sites are necessary.
+**Developmental correlation.** Interface effectiveness should track the maturation of frontoparietal attention-motor systems, not microtubule abundance or ion channel density per se. The predicted developmental peak is in early adulthood, when executive function peaks.
 
-**Quantum biology advances.** Better measurements of decoherence timescales in living neural tissue would constrain which sites can maintain quantum effects. If microtubules prove to sustain coherence at functional timescales while ion channels do not, the field narrows.
+**Disruption specificity.** Agents disrupting the attention-motor architecture (lesions to frontoparietal cortex, TMS to premotor regions) should disrupt conscious selection more specifically than agents disrupting general neural function.
 
-**Neural correlate refinement.** As the neural correlates of consciousness become more precisely mapped — particularly the distinction between attention networks and consciousness networks (COGITATE) — the interface location should emerge where these systems interact.
+**Theta-beta oscillatory signatures.** If the interface operates through attention-motor threshold-crossing, the transition from beta oscillations (13-30 Hz, movement suppression) to theta oscillations (4-10 Hz, prokinetic states and willed attention) should correlate with moments of conscious selection.
 
-**Computational modelling.** Simulations of quantum effects at each candidate site, connected to neural network models, could show which configurations reproduce the known features of conscious processing (bandwidth limits, attention effects, effort phenomenology).
+**Scale-appropriate bandwidth.** The ~10 bits/second constraint should match the scale of attention-motor competition — the number of discriminable action alternatives consciousness can select among per unit time — rather than the number of molecular events per second at any individual site.
+
+## What Remains Open
+
+Constrained pluralism narrows the problem without solving it.
+
+**The molecular ground.** Within the attention-motor architecture, which molecular mechanism hosts the relevant quantum indeterminacies? Ion channels at synaptic junctions remain the most physically specific candidate. Whether the Zeno mechanism works at biologically relevant timescales — or whether some other quantum effect operates — is an empirical question.
+
+**The coupling law.** Even knowing the location, the [psychophysical control law](/topics/the-psychophysical-control-law/) remains unspecified. How does phenomenal effort map quantitatively to physical selection bias? The location problem and the specification problem are logically independent.
+
+**Whether the hierarchy is continuous.** The hierarchical model assumes that molecular-level quantum effects aggregate smoothly into network-level selection. There might instead be a sharp transition — a particular level at which consciousness acts, with other levels merely implementing the result.
 
 ## What Would Falsify the Framework
 
-The interface location problem is resolvable because it makes testable predictions. But what if all candidates fail?
+The interface location problem is resolvable because it makes testable predictions. If systematic experimental investigation rules out quantum effects at microtubules, ion channels, cortical columns, and attention networks — finding either that decoherence eliminates quantum indeterminacy at these sites or that disrupting them doesn't affect conscious influence — the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework would face serious difficulty.
 
-If systematic experimental investigation rules out quantum effects at microtubules, ion channels, cortical columns, and attention networks — finding either that decoherence eliminates quantum indeterminacy at these sites or that disrupting them doesn't affect conscious influence — the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) framework would face serious difficulty.
-
-The hierarchical possibility (consciousness operating at multiple levels) provides some theoretical flexibility, but this flexibility is not unlimited. If no neural substrate can be found where (a) quantum indeterminacies persist on relevant timescales and (b) consciousness demonstrably selects among outcomes, the quantum interface hypothesis requires revision. The framework would need to either identify novel candidate sites with better empirical support, or acknowledge that consciousness interfaces with the brain through mechanisms other than quantum selection.
-
-This falsifiability constraint prevents the framework from becoming a "theory of everything" that accommodates any result. The candidates may be multiple, the interface may be hierarchical, but there must be *some* physical site where consciousness demonstrably acts on quantum indeterminacies — or the tenet fails.
+The hierarchical possibility provides some theoretical flexibility, but this flexibility is not unlimited. If no neural substrate can be found where (a) quantum indeterminacies persist on relevant timescales and (b) consciousness demonstrably selects among outcomes, the quantum interface hypothesis requires revision. This falsifiability constraint prevents the framework from becoming a "theory of everything" that accommodates any result.
 
 ## Relation to Site Perspective
 
-The interface location problem illustrates both the ambition and the honesty of the Map's framework.
+The interface location problem sits at the intersection of the Map's philosophical commitments and empirical science. The shift from agnosticism to constrained pluralism reflects the framework becoming specific enough to constrain empirical questions it originally left open.
 
-The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet commits the Map to consciousness operating at quantum indeterminacies. This is a specific enough claim to be testable in principle — but the tenet deliberately does not specify *which* indeterminacies. The location problem is where the tenet meets empirical neuroscience, and the Map acknowledges that the empirical question remains open.
+The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet requires that consciousness acts at quantum indeterminacies. Constrained pluralism specifies: at quantum indeterminacies *within the attention-motor architecture*, at sites involved in *threshold-crossing events* during action selection.
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires that consciousness causally influences the brain. The location problem asks: through which physical structures? The Map proposes [attention as the bridge](/concepts/attention-as-interface/), which constrains the location to sites within attentional scope — but within that constraint, multiple candidates remain.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains from the dopamine research. The "can move / won't move" dissociation in dopamine-deficient mice — motor capacity intact, goal-directed initiative absent — maps onto the Map's distinction between neural computation (which generates options) and conscious selection (which determines which option becomes action). Dopamine sets the conditions; consciousness does the selecting.
 
-The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is relevant because the simplest version of the Map's framework (one interface site, one mechanism) may not be correct. The hierarchical possibility suggests the interface is complex — operating at multiple scales simultaneously. If nature is complex in this way, parsimony should not override evidence.
-
-The Map's agnosticism about the specific location is not a weakness of the framework. It is an honest acknowledgment that the philosophical case for non-physical consciousness interfacing with quantum indeterminacies does not, by itself, resolve where in the brain those indeterminacies are most relevant. That is a question for experimental science, not armchair philosophy — and the Map waits for the evidence.
+The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies to the hierarchical model itself. A single-site answer would be simpler. But if the interface actually spans multiple levels — molecular, cellular, network — insisting on a single site would sacrifice accuracy for parsimony. The Map should follow the evidence toward complexity if that is where the evidence leads.
 
 ## Further Reading
 
+- [the-interface-specification-problem](/topics/the-interface-specification-problem/) — The hardest open challenge: how conscious states map to physical selections
+- [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) — Candidate formal mappings from phenomenal states to physical effects
+- [attention-as-selection-interface](/topics/attention-as-selection-interface/) — How attention and motor planning converge as a unified interface
+- [coupling-modes](/concepts/coupling-modes/) — Three modes of consciousness-physics interaction
+- [developmental-trajectory-of-the-interface](/topics/developmental-trajectory-of-the-interface/) — How the interface transforms across the lifespan
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The two-layer architecture unifying filter theory and quantum selection
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness acts only in brains (the five criteria)
 - [consciousness-selecting-neural-patterns](/questions/consciousness-selecting-neural-patterns/) — The proposed selection mechanism in detail
-- [attention-as-interface](/concepts/attention-as-interface/) — Attention as the bridge between consciousness and brain
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum selection mechanisms (Stapp, Orch OR)
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge in biological systems
-- [quantum-coherence-and-binding-evidence](/quantum-coherence-and-binding-evidence/) — Evidence for quantum effects in brain tissue
 - [psychophysical-coupling](/psychophysical-coupling/) — Bandwidth constraints on the mind-brain connection
-- [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve collapse
 
 ## References
 
+- Cisek, P. (2007). Cortical mechanisms of action selection: the affordance competition hypothesis. *Philosophical Transactions of the Royal Society B*, 362(1485), 1585-1599.
 - Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+- Kaeser, P.A., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*. https://doi.org/10.1038/s41586-024-08038-z
 - Litt, A., et al. (2006). Is the brain a quantum computer? *Cognitive Science*, 30(3), 593–603.
 - Meister, M. (2024). The physical limits of perception. *Proceedings of the National Academy of Sciences*, 121(14), e2400258121.
 - Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Science*.
 - Penrose, R. & Hameroff, S. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39–78.
+- Rizzolatti, G., et al. (1987). Reorienting attention across the horizontal and vertical meridians. *Neuropsychologia*, 25(1A), 31-40.
 - Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309–1327.
 - Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 - Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194–4206.
+- Westbrook, A., et al. (2023). Dopamine regulates decision thresholds in human reinforcement learning in males. *Nature Communications*, 14, 5340.
 - Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
-
-<!-- AI REFINEMENT LOG - 2026-02-09
-Changes made:
-- Fixed epothilone B claim: changed "confirming an Orch OR prediction" to "consistent with an Orch OR prediction, though also explicable by non-quantum accounts"
-- Added qualification to Hagan et al. decoherence estimates: noted they are contested and not independently replicated
-- Strengthened Difficulties paragraph: decoherence timescale problem presented as severe rather than merely unresolved
-- Fixed "seven orders of magnitude" misplacement: removed from gap-to-neural-timescales context (the 7 OoM describes Tegmark-to-Hagan improvement, not gap to neural timescales)
-- Fixed "epothilone B confirmation" in agnosticism section to "suggestive pharmacological evidence"
-- Fixed "showing microtubule stability matters for consciousness" to properly qualified "affects anaesthetic response, though mechanism may be classical"
-
-Based on pessimistic review 2026-02-09b (Issue 4: Interface Location Overstates Empirical Support, severity High).
-Key improvements: confidence calibration for empirical claims about Orch OR and decoherence timescales.
-
-This log should be removed after human review.
--->
