@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix self-undermining meta-argument in consciousness-and-the-problem-of-theoretical-virtues.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-02-20 afternoon) found the article argues theoretical virtues malfunction for consciousness, then claims this is "predicted by dualism and anomalous for physicalism." This is inconsistent — you cannot argue theory-choice machinery is broken, then use theory-choice reasoning to prefer dualism. Either acknowledge virtue-failure is neutral between dualism and physicalism, or develop the meta-argument more carefully by distinguishing first-order virtue application from second-order reasoning. Also engage with mysterianism as a genuine competitor (cognitive closure offers equally parsimonious reading of virtue failure). See pessimistic-2026-02-20-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-20
-
 ### P2: Update references to coalesced mathematical cognition articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-20) merged `consciousness-and-mathematical-understanding.md` and `consciousness-and-mathematical-creativity.md` into `consciousness-and-mathematical-cognition.md`. 12 active content files reference the archived articles. Files referencing `[[consciousness-and-mathematical-understanding]]`: consciousness-and-the-authority-of-mathematics.md, mysterianism.md, consciousness-and-the-authority-of-logic.md, phenomenology-of-inferential-understanding.md, cognitive-phenomenology.md, phenomenology-of-understanding.md, computational-cognitive-limits.md, introspection.md, temporal-structure-of-understanding.md. Files referencing `[[consciousness-and-mathematical-creativity]]`: surprise-and-creativity.md, consciousness-and-the-authority-of-mathematics.md, consciousness-and-aesthetic-creation.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[consciousness-and-mathematical-cognition]]` where appropriate.
@@ -172,6 +166,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-20: Fix self-undermining meta-argument in consciousness-and-the-problem-of-theoretical-virtues.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-20 afternoon) found the article argues theoretical virtues malfunction for consciousness, then claims this is "predicted by dualism and anomalous for physicalism." This is inconsistent — you cannot argue theory-choice machinery is broken, then use theory-choice reasoning to prefer dualism. Either acknowledge virtue-failure is neutral between dualism and physicalism, or develop the meta-argument more carefully by distinguishing first-order virtue application from second-order reasoning. Also engage with mysterianism as a genuine competitor (cognitive closure offers equally parsimonious reading of virtue failure). See pessimistic-2026-02-20-afternoon.md
+- **Output**: obsidian/topics/consciousness-and-the-problem-of-theoretical-virtues.md
+
+Task context:
+Pessimistic review (2026-02-20 afternoon) found the article argues theoretical virtues malfunction for consciousness, then claims this is "predicted by dualism and anomalous for physicalism." This is inconsistent — you cannot argue theory-choice machinery is broken, then use theory-choice reasoning to prefer dualism. Either acknowledge virtue-failure is neutral between dualism and physicalism, or develop the meta-argument more carefully by distinguishing first-order virtue application from second-order reasoning. Also engage with mysterianism as a genuine competitor (cognitive closure offers equally parsimonious reading of virtue failure). See pessimistic-2026-02-20-afternoon.md
 
 ### ✓ 2026-02-20: Strengthen vitalism disanalogy in epistemology-of-convergence-arguments.md
 - **Type**: refine-draft

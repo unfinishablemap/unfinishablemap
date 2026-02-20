@@ -4,7 +4,7 @@ description: "Theoretical virtues—simplicity, explanatory power, fertility, el
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-20T02:51:00+00:00
+ai_modified: 2026-02-20T13:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ ai_generated_date: 2026-02-20
 last_curated:
 ---
 
-Theoretical virtues — the properties that make one theory preferable to another — are the engine of rational theory choice in science. Simplicity, explanatory power, empirical adequacy, fertility, scope, elegance, and unificatory strength normally help scientists navigate between competing hypotheses. The Unfinishable Map argues that consciousness breaks the machinery of theoretical virtues in distinctive and underappreciated ways. Not just parsimony (addressed separately in [[epistemological-limits-of-occams-razor]]), but the entire suite of virtues malfunctions when the target phenomenon is subjective experience. This systematic failure is itself evidence about the nature of consciousness.
+Theoretical virtues — the properties that make one theory preferable to another — are the engine of rational theory choice in science. Simplicity, explanatory power, empirical adequacy, fertility, scope, elegance, and unificatory strength normally help scientists navigate between competing hypotheses. The Unfinishable Map argues that consciousness breaks the machinery of theoretical virtues in distinctive and underappreciated ways. Not just parsimony (addressed separately in [[epistemological-limits-of-occams-razor]]), but the entire suite of virtues malfunctions when the target phenomenon is subjective experience. This systematic failure may itself be diagnostic of something about consciousness's nature — though interpreting it requires care, as the article explores.
 
 ## The Standard Account of Theoretical Virtues
 
@@ -106,15 +106,17 @@ Dualism sacrifices unificatory scope but gains explanatory honesty. By recognisi
 
 The individual failures catalogued above are significant. But the pattern they form matters more. It is not that consciousness poses minor difficulties for one or two theoretical virtues. Every major virtue malfunctions when applied to the mind-body problem. Empirical adequacy cannot discriminate. Explanatory power cannot be assessed. Simplicity lacks a metric. Scope conflates verbal coverage with genuine reach. Fertility measures activity rather than progress. Elegance reflects priors. Unification is syntactic rather than semantic.
 
-This systematic failure admits two interpretations. The first: consciousness is simply harder than other problems, and the virtues will eventually engage once we develop better theories. The second: consciousness is a different *kind* of problem — one that the theoretical virtues, evolved for selecting between competing physical theories, are not equipped to adjudicate.
+This systematic failure admits three interpretations. The first: consciousness is simply harder than other problems, and the virtues will eventually engage once we develop better theories. The second: consciousness is a different *kind* of problem — one that the theoretical virtues, evolved for selecting between competing physical theories, are not equipped to adjudicate. The third, associated with [[mysterianism|mysterian]] philosophers like Colin McGinn, is that human cognitive architecture lacks the conceptual resources to solve the mind-body problem. On this view, the virtues fail not because the answer is non-physical, but because our minds cannot grasp the answer at all.
 
-The Map favours the second interpretation. The virtues work well for physical phenomena because they were developed for, calibrated on, and refined through application to physical phenomena. Their failure with consciousness is not incidental. It reflects the fact that consciousness does not belong to the domain these tools were built for.
+The Map favours the second interpretation, though the third deserves serious engagement. The "harder problem" reading (interpretation one) offers no explanation for *why* the virtues fail so uniformly — it simply predicts that they will eventually succeed, a promissory note with no expiration date. The mysterian reading (interpretation three) is more formidable: cognitive closure would indeed predict systematic virtue failure, and does so without positing non-physical ontology. The Map's reason for preferring dualism over mysterianism is that cognitive closure is itself a claim about the limits of consciousness — and explaining *why* consciousness cannot grasp its own nature seems to require substantive facts about what consciousness is. Mysterianism, in other words, is an epistemological thesis that presupposes but does not provide an underlying metaphysics. Dualism at least offers a candidate answer: the virtues fail because they are tools calibrated for one ontological domain being applied to another.
+
+A crucial distinction underlies this reasoning. The article's first-order claim — that theoretical virtues cannot adjudicate between physicalism and dualism on the mind-body problem — does not entail that *no* reasoning can bear on the question. What fails is the direct application of virtues developed for choosing between competing physical theories. What remains available is second-order reasoning: asking *why* the virtues fail systematically, and which metaphysical picture best accounts for that failure. This second-order question is not itself an application of the theoretical virtues; it is an inference about the conditions under which domain-specific tools lose their grip.
 
 ## Relation to Site Perspective
 
 The Unfinishable Map's fifth tenet — that [[tenets#^occams-limits|Occam's Razor has limits]] — is a special case of a broader claim this article develops. Not just simplicity but the entire toolkit of theoretical virtues fails to settle the consciousness debate. The Map interprets this failure as diagnostic: it marks the boundary where physical description ends and a different kind of reality begins.
 
-This connects to the [[tenets#^dualism|Dualism]] tenet directly. If the theory-selection tools designed for physical science cannot adjudicate the mind-body problem, this is exactly what we would expect if consciousness is genuinely non-physical. Physical-domain tools should work for physical-domain questions and fail outside their domain. The systematic failure of theoretical virtues is predicted by dualism and anomalous for physicalism.
+This connects to the [[tenets#^dualism|Dualism]] tenet, though the connection requires the first-order/second-order distinction developed in the preceding section. The article's first-order claim — that theoretical virtues cannot settle the mind-body problem — is neutral between dualism and physicalism. Both camps should accept it. The second-order question is why the virtues fail so systematically. Dualism offers a candidate explanation: physical-domain tools should work for physical-domain questions and lose traction outside their domain. Physicalism must instead treat the failure as temporary — a promissory note that future physical theories will restore the virtues' grip. Neither reading is entailed by the first-order analysis alone. The Map finds the dualist reading more explanatory but acknowledges that mysterianism (cognitive closure) provides a competing second-order account that deserves engagement on its own terms.
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains support from the circularity identified in several virtues. Explanatory power, elegance, and fertility are assessed through phenomenal states — understanding, aesthetic response, and the felt sense of productive inquiry. If consciousness causally contributes to theory selection (as these virtues require), then the process of choosing between theories of consciousness is not a neutral evaluation. It is an exercise in which consciousness reflexively evaluates theories about itself. This self-reference does not invalidate the inquiry, but it demands more caution than standard theory choice requires.
 
@@ -137,4 +139,19 @@ The Map does not claim that theoretical virtues are useless. In their home domai
 - Laudan, L. (1984). *Science and Values*. University of California Press.
 - Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
 - Lipton, P. (2004). *Inference to the Best Explanation*. 2nd ed. Routledge.
+- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 - McMullin, E. (2008). "The Virtues of a Good Theory." In S. Psillos & M. Curd (eds.), *The Routledge Companion to Philosophy of Science*. Routledge.
+
+<!-- AI REFINEMENT LOG - 2026-02-20
+Changes made:
+- Fixed self-undermining meta-argument: article previously argued virtues are broken, then used virtue-style reasoning to prefer dualism. Now distinguishes first-order virtue application (which fails) from second-order reasoning about why virtues fail (which remains available).
+- Engaged with mysterianism as a genuine competitor: added McGinn's cognitive closure as a third interpretation of systematic virtue failure, with explicit argument for why the Map prefers dualism over mysterianism.
+- Softened opening paragraph's evidential overclaim ("is itself evidence" → "may itself be diagnostic... though interpreting it requires care").
+- Revised Relation to Site Perspective to acknowledge that first-order virtue-failure is neutral between dualism and physicalism, with second-order reasoning required for any metaphysical interpretation.
+- Added McGinn (1989) to references.
+
+Based on pessimistic review (2026-02-20 afternoon).
+Key improvements: Logical consistency of the meta-argument; engagement with mysterianism; first-order/second-order distinction.
+
+This log should be removed after human review.
+-->
