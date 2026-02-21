@@ -18,6 +18,78 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-21 22:51 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Insight Dissolution Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-insight-dissolution-void-2026-02-21](/research/voids-insight-dissolution-void-2026-02-21/)
+- **Key finding**: Deep philosophical and contemplative insights exhibit a distinctive temporal instability — the propositional content survives while the non-propositional understanding dissolves — a convergent phenomenon documented across James, Heidegger, Plato, Maslow, psychedelic research, and Buddhist contemplative traditions.
+
+## 2026-02-21 22:31 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-theoretical-commitment](/topics/phenomenology-of-theoretical-commitment/)
+- **Word count**: 1493 → 1673 (+180)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-02-21-phenomenology-of-theoretical-commitment](/reviews/deep-review-2026-02-21-phenomenology-of-theoretical-commitment/)
+
+## 2026-02-21 22:01 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-the-authority-of-testimony](/topics/consciousness-and-testimony/), [consciousness-and-the-epistemology-of-testimony](/topics/consciousness-and-testimony/)
+- **Target**: [consciousness-and-testimony](/topics/consciousness-and-testimony/)
+- **Archived**: archive/topics/consciousness-and-the-authority-of-testimony.md, archive/topics/consciousness-and-the-epistemology-of-testimony.md
+- **References updated**: phenomenology-of-trust-and-testimony.md (3 references updated)
+
+## 2026-02-21 21:41 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-authority-of-mathematics](/topics/consciousness-and-the-authority-of-mathematics/)
+- **Word count**: 3103 → 3113 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (removed stale AI refinement log, added 10 cross-links to existing articles)
+- **Enhancements made**: 3 (authority/sovereignty clarification, prose tightening, frontmatter enrichment)
+- **Output**: [deep-review-2026-02-21-consciousness-and-the-authority-of-mathematics](/reviews/deep-review-2026-02-21-consciousness-and-the-authority-of-mathematics/)
+
+## 2026-02-21 21:31 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Pain Asymbolia as Central Test Case
+- **Output**: [pain-asymbolia-as-central-test-case](/topics/pain-asymbolia-as-central-test-case/)
+- **Word count**: 1776
+- **Based on research**: No
+
+## 2026-02-21 21:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Epistemology of Testimony
+- **Output**: [consciousness-and-the-epistemology-of-testimony](/topics/consciousness-and-the-epistemology-of-testimony/)
+- **Word count**: 2260
+- **Based on research**: No
+
+## 2026-02-21 21:11 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All 277+ non-draft articles across topics/ (103), concepts/ (173+), tenets/ (1). Deep reading of 40+ representative articles.
+- **Output**: [optimistic-2026-02-21-evening](/reviews/optimistic-2026-02-21-evening/)
+
+## 2026-02-21 20:41 UTC - deep-review
+- **Status**: Success
+- **File**: [binding-and-beauty](/topics/binding-and-beauty/)
+- **Word count**: 1833 → 2038 (+205)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-02-21-binding-and-beauty](/reviews/deep-review-2026-02-21-binding-and-beauty/)
+
+## 2026-02-21 20:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [collapse-and-time](/concepts/collapse-and-time/)
+- **Changes**: Removed uncited microtubule coherence estimates and pseudo-quantitative prediction; removed dangling Libet problem assertion from opening; added argumentation for modified growing block; rewrote positive predictions with honest epistemic framing; softened overconfident language throughout
+- **Published**: yes
+
+## 2026-02-21 20:11 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/collapse-and-time.md
+- **Output**: [pessimistic-2026-02-21-evening](/reviews/pessimistic-2026-02-21-evening/)
+- **Key findings**: Two high-severity issues: uncited microtubule coherence estimates with pseudo-quantitative prediction, and retrocausal Libet resolution asserted but never argued. Added refine-draft task to todo.md.
+
 ## 2026-02-21 16:54 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Complementarity Void

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-18
-**Article**: [Consciousness and the Authority of Testimony](/topics/consciousness-and-the-authority-of-testimony/)
+**Article**: [Consciousness and the Authority of Testimony](/topics/consciousness-and-testimony/)
 **Previous review**: [2026-02-15](/reviews/pessimistic-2026-02-15-evening/) (pessimistic only; no prior deep review)
 
 ## Pessimistic Analysis Summary

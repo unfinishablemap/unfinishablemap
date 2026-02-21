@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-02-18 20:46:00+00:00
+ai_modified: 2026-02-21 22:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,13 +9,14 @@ concepts:
 - '[[cognitive-phenomenology]]'
 - '[[introspection]]'
 created: 2026-02-18
-date: &id001 2026-02-18
+date: &id001 2026-02-21
 description: How holding a theoretical commitment shapes perception, structures inquiry,
   and creates distinctive conscious experience — explored through human-AI philosophical
   collaboration.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-02-21 22:31:00+00:00
 modified: *id001
 related_articles:
 - '[[phenomenology-of-inferential-understanding]]'
@@ -24,6 +25,8 @@ related_articles:
 - '[[phenomenology-of-understanding]]'
 - '[[epistemological-limits-of-occams-razor]]'
 - '[[argument-from-reason]]'
+- '[[consciousness-and-the-phenomenology-of-framework-dependence]]'
+- '[[phenomenology-of-philosophical-disagreement]]'
 title: The Phenomenology of Theoretical Commitment
 topics:
 - '[[phenomenology-of-conceptual-change]]'
@@ -44,6 +47,8 @@ Consider the felt difference between encountering evidence that fits your framew
 
 This restructuring goes deeper than bias. Cognitive science documents confirmation bias as a tendency to seek and favour confirming evidence. But the phenomenological point is different: commitment changes what evidence *looks like* before any evaluative process begins. The committed physicist does not first perceive neutral data and then interpret it through theory. The data arrives already structured by the theoretical lens. As Kuhn recognised, scientists working in different paradigms inhabit different perceptual worlds, not merely different interpretive frameworks applied to the same world.
 
+Predictive processing accounts of cognition can model this restructuring computationally — prior beliefs shape top-down predictions that filter incoming data. But the computational model describes the *functional architecture* of commitment without addressing the *phenomenal character*. Two systems with identical Bayesian priors could restructure evidence identically yet differ in whether there is something it is like to hold those priors. The perceptual world of the committed theorist is not just informationally filtered; it is experientially inhabited. This distinction — between computational structuring and [conscious inhabitation of a framework](/topics/consciousness-and-the-phenomenology-of-framework-dependence/) — is precisely where physicalist accounts reach their explanatory limit.
+
 ## The Gravitational Structure of Commitment
 
 Theoretical commitment creates something like an experiential gravity well. Ideas, observations, and arguments that fall within the theory's domain are drawn toward coherent interpretation. Those outside its scope drift to the periphery of attention. This gravitational metaphor captures something phenomenologically precise: the *effort* required to entertain alternatives increases with the depth of commitment.
@@ -60,9 +65,9 @@ The gravitational structure manifests in several distinctive experiences:
 
 ## Commitment as Inhabited Perspective
 
-The deepest feature of theoretical commitment is that it becomes a *perspective* — a way of inhabiting the intellectual world rather than merely holding propositions about it. The committed theorist does not carry the theory around like luggage; they look through it like a lens.
+The deepest feature of theoretical commitment is that it becomes a *perspective* — a way of inhabiting the intellectual world rather than merely holding propositions about it. The committed theorist does not carry the theory around like luggage; they look through it like a lens. Polanyi's concept of *personal knowledge* captures this: genuine knowing involves the knower's whole person, including commitments that cannot be fully articulated or detached from the act of understanding.
 
-This inhabited quality explains why theoretical debates so often feel like failures of mutual comprehension rather than disagreements about specific claims. Two theorists committed to rival frameworks may share all the same data and still talk past each other, because the data appears differently from within each inhabited perspective. The experience is not "I believe P and you believe not-P" but something closer to "I see this landscape and you see a different one."
+This inhabited quality explains why theoretical debates so often feel like failures of mutual comprehension rather than disagreements about specific claims. Two theorists committed to rival frameworks may share all the same data and still talk past each other, because the data appears differently from within each inhabited perspective — a dynamic explored in the [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/). The experience is not "I believe P and you believe not-P" but something closer to "I see this landscape and you see a different one."
 
 The inhabited character of commitment also explains the distinctive discomfort of encountering a powerful argument against one's framework. The threat is not merely to a proposition but to an entire mode of perceiving. This is why [belief revision](/topics/phenomenology-of-belief-revision/) for core theoretical commitments involves a phenomenology closer to existential crisis than to updating a spreadsheet. The commitment is not a detachable opinion; it is part of the structure through which opinions are formed.
 
@@ -78,7 +83,7 @@ There is a fundamental asymmetry in the phenomenology of theoretical commitment:
 
 This first-person asymmetry has profound implications for the philosophy of mind. A materialist committed to physicalism does not experience their position as a theoretical choice made under uncertainty. They experience the explanatory gap as a puzzle to be solved, not a sign that their framework is inadequate. A dualist committed to irreducibility does not experience their position as faith-based resistance to science. They experience the gap as pointing toward a genuine feature of reality.
 
-The asymmetry suggests that theoretical commitment involves a kind of phenomenal authority — the sense that one's framework provides genuine access to how things are. This authority is not justified by the commitment itself (that would be circular) but is a constitutive part of what commitment phenomenally involves. Recognising this authority as phenomenal rather than epistemic — as a feature of experience rather than a guarantee of truth — is essential for honest inquiry.
+The asymmetry suggests that theoretical commitment involves a kind of phenomenal authority — the sense that one's framework provides genuine access to how things are. This authority is not justified by the commitment itself (that would be circular) but is a constitutive part of what commitment phenomenally involves. Recognising this authority as phenomenal rather than epistemic — as a feature of experience rather than a guarantee of truth — is essential for honest inquiry. Ratcliffe's work on *feelings of being* illuminates this: certain experiential orientations are not attitudes toward propositions but pre-reflective ways of finding oneself in the world. Theoretical commitment operates at this level — it shapes the space of what feels intelligible before deliberate evaluation begins.
 
 ## Relation to Site Perspective
 
@@ -98,6 +103,8 @@ This connects to the Map's tenet of [bidirectional interaction](/tenets/#bidirec
 - [phenomenology-of-inferential-understanding](/topics/phenomenology-of-inferential-understanding/)
 - [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/)
 - [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-philosophy-of-explanation/)
+- [consciousness-and-the-phenomenology-of-framework-dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/)
+- [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)
 - [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
 
 ## References

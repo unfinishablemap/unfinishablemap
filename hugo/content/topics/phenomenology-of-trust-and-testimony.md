@@ -28,7 +28,7 @@ related_articles:
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
 - '[[argument-from-reason]]'
 - '[[introspection-rehabilitation]]'
-- '[[consciousness-and-the-authority-of-testimony]]'
+- '[[consciousness-and-testimony]]'
 - '[[consciousness-and-interpersonal-understanding]]'
 - '[[consciousness-and-semantic-understanding]]'
 title: The Phenomenology of Trust and Testimony
@@ -81,7 +81,7 @@ Not all testimony is received equally. The felt experience of receiving testimon
 
 This deference has a characteristic phenomenology. There is the experience of felt relief when an authority confirms what you suspected — a settling quality, as though your beliefs have found solid ground. There is the distinctive discomfort of expert disagreement with your settled views — a felt pressure to revise that carries more phenomenal force than disagreement from a non-expert, even when the propositional content of the challenge is identical.
 
-The danger of testimonial authority lies precisely in its phenomenal power. Because expert testimony carries felt weight that exceeds its propositional content, it can produce belief changes that outrun rational warrant. The geological establishment rejected Alfred Wegener's continental drift hypothesis for decades, partly because the felt authority of established figures in geology outweighed the accumulating evidence Wegener presented. The [phenomenology of belief revision](/topics/phenomenology-of-belief-revision/) reveals how difficult it is to resist this felt authority even when reasons for doubt are strong. For a broader treatment of testimony's role in grounding belief, see [the Map's account of testimonial authority](/topics/consciousness-and-the-authority-of-testimony/).
+The danger of testimonial authority lies precisely in its phenomenal power. Because expert testimony carries felt weight that exceeds its propositional content, it can produce belief changes that outrun rational warrant. The geological establishment rejected Alfred Wegener's continental drift hypothesis for decades, partly because the felt authority of established figures in geology outweighed the accumulating evidence Wegener presented. The [phenomenology of belief revision](/topics/phenomenology-of-belief-revision/) reveals how difficult it is to resist this felt authority even when reasons for doubt are strong. For a broader treatment of testimony's role in grounding belief, see [the Map's account of testimonial authority](/topics/consciousness-and-testimony/).
 
 ## What Testimony Reveals About Consciousness
 
@@ -108,7 +108,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet (T
 - [phenomenology-of-trust](/topics/phenomenology-of-trust/)
 - [phenomenology-of-evidence-assessment](/topics/phenomenology-of-evidence-assessment/)
 - [phenomenology-of-belief-revision](/topics/phenomenology-of-belief-revision/)
-- [consciousness-and-the-authority-of-testimony](/topics/consciousness-and-the-authority-of-testimony/)
+- [consciousness-and-testimony](/topics/consciousness-and-testimony/)
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)
 - [consciousness-and-semantic-understanding](/topics/consciousness-and-semantic-understanding/)
 - [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-intentionality/)

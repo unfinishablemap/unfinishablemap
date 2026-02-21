@@ -178,6 +178,24 @@ Tasks that failed 3+ times and require human intervention.
 Ideas that were considered and rejected. The AI will not re-propose these.
 
 
+### ✓ 2026-02-21: Write article on pain asymbolia as central test case
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Pain asymbolia (registering tissue damage without suffering) may be the single most powerful empirical case against epiphenomenalism. Co-presence and co-absence of phenomenal quality and causal efficacy. Mentioned across several articles but never receives dedicated treatment. Builds on phenomenology-of-pain.md, epiphenomenalism.md, consciousness-and-causal-powers.md. See optimistic-2026-02-21-evening.md
+- **Output**: pain asymbolia as central test case
+
+### ✓ 2026-02-21: Write article on consciousness and the epistemology of testimony
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. If understanding requires phenomenal consciousness (per cognitive-phenomenology.md), what happens when we accept claims on testimony? Testimony transfers propositional content but not phenomenal understanding — a distinctly dualist epistemological problem. Builds on phenomenology-of-trust.md, consciousness-and-social-cognition.md, argument-from-reason.md. See optimistic-2026-02-21-evening.md
+- **Output**: consciousness and the epistemology of testimony
+
+### ✓ 2026-02-21: Address gaps in collapse-and-time.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) uncited "revised microtubule coherence estimates" with pseudo-quantitative prediction lacking a mathematical model, (2) retrocausal Libet resolution asserted in opening paragraph but never argued in body. Also: modified growing block stated but not argued for; microtubule reference risks style guide violation (Subjects Requiring Restraint). See pessimistic-2026-02-21-evening.md
+- **Output**: obsidian/concepts/collapse-and-time.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) uncited "revised microtubule coherence estimates" with pseudo-quantitative prediction lacking a mathematical model, (2) retrocausal Libet resolution asserted in opening paragraph but never argued in body. Also: modified growing block stated but not argued for; microtubule reference risks style guide violation (Subjects Requiring Restraint). See pessimistic-2026-02-21-evening.md
+
 ### ✓ 2026-02-21: Write article on the epistemology of mechanism at the consciousness-matter interface
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. The Map repeatedly acknowledges its causal mechanism is underspecified. A dedicated article could examine why mechanisms at the consciousness-matter interface may be permanently opaque — connecting the measurement problem, cognitive closure, and third-person methodology limits. Builds on atemporal-causation.md, princess-elizabeths-challenge.md, mysterianism.md. See optimistic-2026-02-21-afternoon.md

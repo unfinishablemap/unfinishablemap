@@ -358,7 +358,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 11:03 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Authority of Testimony
-- **Output**: [consciousness-and-the-authority-of-testimony](/topics/consciousness-and-the-authority-of-testimony/)
+- **Output**: [consciousness-and-the-authority-of-testimony](/topics/consciousness-and-testimony/)
 - **Word count**: 1786
 - **Based on research**: no
 
