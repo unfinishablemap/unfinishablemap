@@ -144,11 +144,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. This article makes the Map's most distinctive contribution (the unification thesis) but is underlinked from emergence.md, filter-theory.md, downward-causation.md, and the tenets page. Cross-linking campaign would increase visibility of the strongest argument. See optimistic-2026-02-20-evening.md
 
-### P3: Write article on Indian philosophy of mind (Samkhya, Nyaya, Vedanta)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Buddhism appears but its sister traditions do not. Samkhya's purusha/prakriti dualism parallels interactionist dualism — consciousness as witness/selector and nature as the dynamic substrate. Nyaya's arguments for the self anticipate Western substance dualism. Builds on buddhism-and-dualism.md, eastern-philosophy-consciousness.md. See optimistic-2026-02-21.md
-
 ### P3: Strengthen galilean-exclusion cross-links
 - **Type**: other
 - **Status**: pending
@@ -186,6 +181,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-21: Write article on Indian philosophy of mind (Samkhya, Nyaya, Vedanta)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Buddhism appears but its sister traditions do not. Samkhya's purusha/prakriti dualism parallels interactionist dualism — consciousness as witness/selector and nature as the dynamic substrate. Nyaya's arguments for the self anticipate Western substance dualism. Builds on buddhism-and-dualism.md, eastern-philosophy-consciousness.md. See optimistic-2026-02-21.md
+- **Output**: Indian philosophy of mind (Samkhya, Nyaya, Vedanta)
 
 ### ✓ 2026-02-20: Write article on Bergson and duration
 - **Type**: expand-topic
