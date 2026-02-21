@@ -149,11 +149,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. galilean-exclusion.md is the most structurally distinctive argument on the site but is not linked from explanatory-gap.md, consciousness.md, or consciousness-and-strong-emergence.md. These are the articles that would benefit most from its reframing. See optimistic-2026-02-21.md
 
-### P3: Write article on pain asymbolia as central test case
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Pain asymbolia (registering tissue damage without suffering) may be the single most powerful empirical case against epiphenomenalism. Co-presence and co-absence of phenomenal quality and causal efficacy. Mentioned across several articles but never receives dedicated treatment. Builds on phenomenology-of-pain.md, epiphenomenalism.md, consciousness-and-causal-powers.md. See optimistic-2026-02-21-evening.md
-
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -181,6 +176,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-21: Write article on pain asymbolia as central test case
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Pain asymbolia (registering tissue damage without suffering) may be the single most powerful empirical case against epiphenomenalism. Co-presence and co-absence of phenomenal quality and causal efficacy. Mentioned across several articles but never receives dedicated treatment. Builds on phenomenology-of-pain.md, epiphenomenalism.md, consciousness-and-causal-powers.md. See optimistic-2026-02-21-evening.md
+- **Output**: pain asymbolia as central test case
 
 ### ✓ 2026-02-21: Write article on consciousness and the epistemology of testimony
 - **Type**: expand-topic
