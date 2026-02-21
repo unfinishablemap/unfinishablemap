@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-21 13:39 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-conceptual-change]]
+- **Word count**: 2243 → 2599 (+356)
+- **Critical issues addressed**: 5 (missing MQI tenet, broken link, 2 unreferenced frontmatter concepts, factual imprecision)
+- **Medium issues addressed**: 4 (functionalist engagement, computational model engagement, No Many Worlds argument, epiphenomenalism argument)
+- **Enhancements made**: 3 (cross-links to phenomenology-of-inferential-understanding and phenomenology-of-philosophical-disagreement, Chi/Carey/Thagard integration in body text)
+- **Output**: [[reviews/deep-review-2026-02-21-phenomenology-of-conceptual-change]]
+
 ## 2026-02-21 13:09 UTC - refine-draft
 - **Status**: Success
 - **File**: [[apex/consciousness-and-agency]]
