@@ -167,13 +167,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P3: Write article on the epistemology of mechanism at the consciousness-matter interface
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map repeatedly acknowledges its causal mechanism is underspecified. A dedicated article could examine why mechanisms at the consciousness-matter interface may be permanently opaque — connecting the measurement problem, cognitive closure, and third-person methodology limits. Builds on atemporal-causation.md, princess-elizabeths-challenge.md, mysterianism.md. See optimistic-2026-02-21-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-02-21
-
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
@@ -183,6 +176,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-21: Write article on the epistemology of mechanism at the consciousness-matter interface
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map repeatedly acknowledges its causal mechanism is underspecified. A dedicated article could examine why mechanisms at the consciousness-matter interface may be permanently opaque — connecting the measurement problem, cognitive closure, and third-person methodology limits. Builds on atemporal-causation.md, princess-elizabeths-challenge.md, mysterianism.md. See optimistic-2026-02-21-afternoon.md
+- **Output**: the epistemology of mechanism at the consciousness-matter interface
 
 ### ✓ 2026-02-21: Write article on phenomenal normativity and environmental ethics
 - **Type**: expand-topic
