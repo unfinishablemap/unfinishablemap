@@ -18,6 +18,42 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-21 03:36 UTC - coalesce
+- **Status**: Success
+- **Sources**: [contemplative-evidence-and-verification](/topics/contemplative-evidence-and-verification/)
+- **Target**: [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)
+- **Archived**: [contemplative-evidence-and-verification](/archive/topics/contemplative-evidence-and-verification/)
+- **References updated**: 2 (contemplative-evidence-convergence-across-traditions.md)
+- **Notes**: Merged verification article into the more comprehensive theories article. Added Problem of Other Minds to "Where Verification Fails" section, added introspection-rehabilitation cross-link, updated coalesced_from provenance. Topics section now 193/200.
+
+## 2026-02-21 03:06 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/)
+- **Word count**: 2342 → 2513 (+171)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 3 cross-links added, compatibilism engagement, strengthened tenet connections
+- **Output**: [deep-review-2026-02-21-phenomenology-of-intellectual-courage](/reviews/deep-review-2026-02-21-phenomenology-of-intellectual-courage/)
+
+## 2026-02-21 02:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenological Psychiatry and Altered Experience
+- **Output**: [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/)
+- **Word count**: 1837
+- **Based on research**: yes ([phenomenological-psychiatry-altered-experience-2026-02-21](/research/phenomenological-psychiatry-altered-experience-2026-02-21/), [altered-states-consciousness-2026-01-19](/research/altered-states-consciousness-2026-01-19/), [phenomenology-first-person-methods-2026-01-14](/research/phenomenology-first-person-methods-2026-01-14/))
+
+## 2026-02-21 02:36 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Indian Philosophy of Mind (Samkhya, Nyaya, Vedanta)
+- **Output**: [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)
+- **Word count**: 2140
+- **Based on research**: no
+
+## 2026-02-21 02:21 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 35+ non-draft articles across topics/, concepts/, tenets/, apex/, voids/
+- **Output**: [optimistic-2026-02-21](/reviews/optimistic-2026-02-21/)
+
 ## 2026-02-21 01:36 UTC - deep-review
 - **Status**: Success
 - **File**: [the-case-for-dualism](/concepts/the-case-for-dualism/)

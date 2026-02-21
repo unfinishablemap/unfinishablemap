@@ -2,9 +2,9 @@
 title: "Contemplative Evidence for Consciousness Theories"
 description: "How meditation training tests consciousness theories—eliminating epiphenomenalism and reductive materialism, then honestly assessing what distinguishes dualism from non-reductive physicalism."
 created: 2026-01-27
-modified: 2026-02-19
+modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-19T19:06:00+00:00
+ai_modified: 2026-02-21T03:36:00+00:00
 last_deep_review: 2026-02-05T18:55:00+00:00
 draft: false
 topics:
@@ -32,6 +32,7 @@ related_articles:
   - "[[the-observer-witness-in-meditation]]"
   - "[[phenomenology-of-returning-attention]]"
   - "[[paradox-of-effortless-mastery]]"
+  - "[[introspection-rehabilitation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -40,6 +41,7 @@ last_curated:
 coalesced_from:
   - "/topics/contemplative-verification-of-consciousness-theories/"
   - "/topics/contemplative-training-and-phenomenal-access/"
+  - "/topics/contemplative-evidence-and-verification/"
 ---
 
 Contemplative traditions provide evidence that distinguishes between theories of consciousness. Meditation training progressively discloses structures of experience invisible to untrained introspection, and these findings—combined with neuroplasticity data—create empirical test cases. If consciousness is epiphenomenal, deliberate mental practice should not produce measurable effects; if reductive materialism is true, first-person training should be eliminable. The evidence rules out these positions. Whether it further distinguishes interactionist dualism from non-reductive physicalism is a harder question that this article addresses directly. The Unfinishable Map treats contemplative evidence as genuine data, not as religious testimony or subjective noise.
@@ -206,6 +208,8 @@ The evidence points to a pattern. Three conditions distinguish genuine verificat
 
 **Cross-traditional metaphysical disagreements**: Buddhist traditions report that deep meditation reveals *anattā* (no-self). Advaita Vedānta reports the opposite: deep meditation reveals *ātman*, a permanent witness-consciousness. Both traditions agree on the phenomenological territory—the constructed self can be seen through—but disagree on what, if anything, persists. This disagreement does not invalidate contemplative verification altogether, but it reveals a boundary: phenomenological access outruns metaphysical interpretation.
 
+**The problem of other minds**: Contemplative evidence is first-person evidence generalised across trained observers. It cannot directly address whether others have phenomenal consciousness or whether their reports reflect genuine phenomenology. The mutual constraints framework works because trained subjects report reliably—but we cannot verify phenomenology exists without assuming it does.
+
 ### The Asymmetric Verification Thesis
 
 Contemplative practice verifies *structural* claims about consciousness more reliably than *metaphysical* claims about its ultimate nature. Structural claims concern how consciousness works: its causal efficacy, its modes and states, its trainable depth. Metaphysical claims concern what consciousness *is*: substance, property, or process; required substrates; mechanism of interaction. Asking meditation to reveal whether consciousness is a substance is like asking a microscope to reveal whether light is a particle—the instrument reveals what the phenomenon *does*, not what it *is*.
@@ -272,6 +276,7 @@ The distinction between willed attention and exogenous attention in contemplativ
 - [[first-person-third-person-methodology]] — Why both perspectives are necessary
 - [[eastern-philosophy-consciousness]] — The contemplative traditions providing this evidence
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience
+- [[introspection-rehabilitation]] — The case for rehabilitating introspective methods
 - [[phenomenology-of-returning-attention]] — The micro-phenomenology of attentional recovery during practice
 - [[paradox-of-effortless-mastery]] — The developmental arc from effortful practice to effortless mastery
 
@@ -288,19 +293,3 @@ The distinction between willed attention and exogenous attention in contemplativ
 - Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 - Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
 - Weng, H. Y., Fox, A. S., Shackman, A. J., Stodola, D. E., Caldwell, J. Z. K., Olson, M. C., Rogers, G. M., & Davidson, R. J. (2013). Compassion training alters altruism and neural responses to suffering. *Psychological Science*, 24(7), 1171-1180.
-
-<!-- AI REFINEMENT LOG - 2026-02-19
-Changes made:
-- Added non-reductive physicalism as fourth position in evidential structure, fixing false trichotomy
-- Rewrote opening summary to avoid claiming evidence straightforwardly "favours interactionist dualism"
-- Added "The Non-Reductive Physicalism Challenge" section honestly assessing what distinguishes dualism from NRP
-- Added clarifying paragraph to "Evidence for Interactionist Dualism" acknowledging NRP shares the interactionist picture
-- Rewrote cessation argument to acknowledge retrospective-report limitation and physicalist explanation (offline self-monitoring)
-- Added falsifiability condition for dualism vs non-reductive physicalism
-- Updated description to reflect improved treatment
-
-Based on pessimistic review (2026-02-19 evening).
-Key improvements: Eliminated false trichotomy; honest engagement with non-reductive physicalism as strongest competitor; weakened cessation argument to appropriate confidence level.
-
-This log should be removed after human review.
--->

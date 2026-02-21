@@ -2,9 +2,9 @@
 title: "Contemplative Evidence and Verification for Consciousness Theories"
 description: "How meditation phenomenology and neuroplasticity distinguish between dualism, materialism, and epiphenomenalism — and the epistemological limits of contemplative verification."
 created: 2026-01-27
-modified: 2026-02-18
+modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-18T21:31:00+00:00
+ai_modified: 2026-02-21T03:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,6 +34,11 @@ last_curated:
 coalesced_from:
   - "/topics/contemplative-evidence-for-consciousness-theories/"
   - "/topics/contemplative-verification-of-consciousness-theories/"
+archived: true
+archived_date: 2026-02-21T03:36:00+00:00
+superseded_by: "/topics/contemplative-evidence-for-consciousness-theories/"
+archive_reason: "Coalesced into Contemplative Evidence for Consciousness Theories"
+original_path: "/topics/contemplative-evidence-and-verification/"
 ---
 
 Contemplative traditions provide evidence that distinguishes between theories of consciousness — and some of that evidence rises to the level of genuine verification. The Unfinishable Map treats meditation phenomenology, neuroplasticity findings, and trained first-person reports as real data bearing on metaphysical claims. This article examines both what contemplative practice reveals and the epistemological question of how much weight it can bear: which claims about consciousness can contemplative methods actually verify, and where do they reach their limits?

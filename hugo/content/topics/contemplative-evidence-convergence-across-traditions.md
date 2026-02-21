@@ -25,7 +25,7 @@ last_deep_review: null
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[contemplative-evidence-and-verification]]'
+- '[[contemplative-evidence-for-consciousness-theories]]'
 - '[[epistemology-of-cross-cultural-philosophical-convergence]]'
 - '[[contemplative-training-and-phenomenal-access]]'
 - '[[contemplative-methods-as-philosophical-methodology]]'
@@ -94,7 +94,7 @@ The evidential value of convergence increases when we map where it breaks down. 
 
 As noted throughout, traditions converge on phenomenological structure but diverge on metaphysical interpretation. Buddhist traditions interpret the deconstructed self as revealing *śūnyatā* (emptiness). Hindu traditions interpret the same phenomenological deconstruction as revealing *ātman* (eternal self). Christian traditions see divine indwelling. These are not minor interpretive variations — they represent fundamentally different metaphysical conclusions drawn from similar phenomenological data.
 
-This divergence reveals an important epistemic boundary. [contemplative practice verifies structural claims about consciousness](/topics/contemplative-evidence-and-verification/) more reliably than metaphysical claims about its ultimate nature. The convergence supports the structural claims; the divergence shows where contemplative evidence reaches its limits.
+This divergence reveals an important epistemic boundary. [contemplative practice verifies structural claims about consciousness](/contemplative-evidence-and-verification/) more reliably than metaphysical claims about its ultimate nature. The convergence supports the structural claims; the divergence shows where contemplative evidence reaches its limits.
 
 ### Ethical Framing
 
@@ -122,7 +122,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) connects through th
 
 ## Further Reading
 
-- [contemplative-evidence-and-verification](/topics/contemplative-evidence-and-verification/) — What contemplative practice can and cannot verify
+- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — What contemplative practice can and cannot verify
 - [epistemology-of-cross-cultural-philosophical-convergence](/topics/epistemology-of-cross-cultural-philosophical-convergence/) — When convergence constitutes genuine evidence
 - [contemplative-training-and-phenomenal-access](/contemplative-training-and-phenomenal-access/) — How meditation training progressively discloses consciousness structure
 - [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — The witness phenomenon across traditions

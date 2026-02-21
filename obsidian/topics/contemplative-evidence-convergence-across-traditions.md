@@ -20,7 +20,7 @@ concepts:
   - "[[phenomenal-consciousness]]"
 related_articles:
   - "[[tenets]]"
-  - "[[contemplative-evidence-and-verification]]"
+  - "[[contemplative-evidence-for-consciousness-theories]]"
   - "[[epistemology-of-cross-cultural-philosophical-convergence]]"
   - "[[contemplative-training-and-phenomenal-access]]"
   - "[[contemplative-methods-as-philosophical-methodology]]"
@@ -119,7 +119,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] connects through th
 
 ## Further Reading
 
-- [[contemplative-evidence-and-verification]] — What contemplative practice can and cannot verify
+- [[contemplative-evidence-for-consciousness-theories]] — What contemplative practice can and cannot verify
 - [[epistemology-of-cross-cultural-philosophical-convergence]] — When convergence constitutes genuine evidence
 - [[contemplative-training-and-phenomenal-access]] — How meditation training progressively discloses consciousness structure
 - [[the-observer-witness-in-meditation]] — The witness phenomenon across traditions

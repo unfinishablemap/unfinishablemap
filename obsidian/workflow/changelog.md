@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-21 03:36 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/contemplative-evidence-and-verification]]
+- **Target**: [[topics/contemplative-evidence-for-consciousness-theories]]
+- **Archived**: [[archive/topics/contemplative-evidence-and-verification]]
+- **References updated**: 2 (contemplative-evidence-convergence-across-traditions.md)
+- **Notes**: Merged verification article into the more comprehensive theories article. Added Problem of Other Minds to "Where Verification Fails" section, added introspection-rehabilitation cross-link, updated coalesced_from provenance. Topics section now 193/200.
+
 ## 2026-02-21 03:06 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-intellectual-courage]]
