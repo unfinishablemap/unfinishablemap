@@ -12,7 +12,7 @@ from rich.console import Console
 # Add parent to path for imports
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from tools.sync import convert_obsidian_to_hugo
+from tools.sync import SyncValidationError, convert_obsidian_to_hugo
 from tools.sync.redirects import generate_redirects
 from tools.curate.validate import validate_directory
 
@@ -72,12 +72,16 @@ def main(
     # Step 1: Sync Obsidian → Hugo
     if not skip_sync:
         console.print("[bold]Step 1:[/bold] Syncing Obsidian -> Hugo")
-        with console.status("Syncing..."):
-            converted = convert_obsidian_to_hugo(
-                obsidian_path=obsidian,
-                hugo_content_path=content_dir,
-            )
-        console.print(f"  [green]Done[/green] Synced {len(converted)} files\n")
+        try:
+            with console.status("Syncing..."):
+                converted = convert_obsidian_to_hugo(
+                    obsidian_path=obsidian,
+                    hugo_content_path=content_dir,
+                )
+            console.print(f"  [green]Done[/green] Synced {len(converted)} files\n")
+        except SyncValidationError as e:
+            console.print(f"  [red]FAIL[/red] {e}")
+            sys.exit(1)
 
         # Generate redirects from archived content
         archive_path = obsidian.parent / "archive"

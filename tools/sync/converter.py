@@ -1,13 +1,18 @@
 """Convert Obsidian markdown files to Hugo-compatible format."""
 
+import logging
 import re
 import shutil
+import sys
 from pathlib import Path
 from typing import Optional
 
 import frontmatter
 
+from .errors import BrokenWikilink, SlugCollision, SyncReport, SyncValidationError
 from .wikilinks import convert_wikilinks, convert_block_references
+
+log = logging.getLogger(__name__)
 
 
 def convert_obsidian_to_hugo(
@@ -29,6 +34,7 @@ def convert_obsidian_to_hugo(
         List of paths to converted files
     """
     converted_files: list[Path] = []
+    report = SyncReport()
 
     # Directories to sync (exclude .obsidian, drafts if configured)
     sync_dirs = [
@@ -47,13 +53,14 @@ def convert_obsidian_to_hugo(
     ]
 
     # Build content index for wikilink resolution
-    content_index = build_content_index(obsidian_path, sync_dirs, exclude_drafts)
+    content_index, collisions = build_content_index(obsidian_path, sync_dirs, exclude_drafts)
+    report.slug_collisions = collisions
 
     # Handle root index.md -> _index.md (site landing page)
     root_index = obsidian_path / "index.md"
     if root_index.exists():
         target_file = hugo_content_path / "_index.md"
-        converted_content = convert_file(root_index, content_index)
+        converted_content = convert_file(root_index, content_index, report)
         if not dry_run:
             target_file.write_text(converted_content, encoding="utf-8")
         converted_files.append(target_file)
@@ -81,7 +88,7 @@ def convert_obsidian_to_hugo(
                 target_file = target_dir / rel_path
 
             # Convert the file with content-aware link resolver
-            converted_content = convert_file(md_file, content_index)
+            converted_content = convert_file(md_file, content_index, report)
 
             if not dry_run:
                 target_file.parent.mkdir(parents=True, exist_ok=True)
@@ -109,13 +116,26 @@ def convert_obsidian_to_hugo(
                 target_file = archive_target / rel_path
 
                 # Convert the file with content-aware link resolver
-                converted_content = convert_file(md_file, content_index)
+                converted_content = convert_file(md_file, content_index, report)
 
                 if not dry_run:
                     target_file.parent.mkdir(parents=True, exist_ok=True)
                     target_file.write_text(converted_content, encoding="utf-8")
 
                 converted_files.append(target_file)
+
+    # Log slug collisions
+    for c in report.slug_collisions:
+        log.warning(
+            "Slug collision: '%s' exists in multiple sections: %s",
+            c.slug,
+            ", ".join(c.urls),
+        )
+
+    # Raise if there are broken wikilinks
+    if report.has_errors:
+        print(report.format_report(), file=sys.stderr)
+        raise SyncValidationError(report)
 
     return converted_files
 
@@ -124,9 +144,12 @@ def build_content_index(
     obsidian_path: Path,
     sync_dirs: list[str],
     exclude_drafts: bool = True,
-) -> dict[str, str]:
+) -> tuple[dict[str, str], list[SlugCollision]]:
     """
     Build an index mapping page names to their Hugo URLs.
+
+    Detects slug collisions (same filename in multiple sections) and includes
+    archive redirects for archived content with superseded_by metadata.
 
     Args:
         obsidian_path: Path to Obsidian vault root
@@ -134,11 +157,15 @@ def build_content_index(
         exclude_drafts: Whether to exclude drafts
 
     Returns:
-        Dict mapping slugified page names to Hugo URLs
+        Tuple of (content_index, slug_collisions).
+        Colliding slugs are excluded from the index — bare wikilinks to them
+        will be reported as errors. Authors must use path-qualified wikilinks.
     """
     from .wikilinks import slugify
 
     index: dict[str, str] = {}
+    # Track all URLs per slug to detect collisions
+    all_urls: dict[str, list[str]] = {}
 
     for sync_dir in sync_dirs:
         source_dir = obsidian_path / sync_dir
@@ -149,30 +176,49 @@ def build_content_index(
             if exclude_drafts and "drafts" in md_file.parts:
                 continue
 
-            # Get the page name (filename without extension)
             page_name = md_file.stem
             slug = slugify(page_name)
 
-            # Build the Hugo URL
-            # If file has same name as its parent folder, it becomes the section index
             if page_name.lower() == sync_dir.lower():
                 url = f"/{sync_dir}/"
             else:
                 url = f"/{sync_dir}/{slug}/"
 
-            # Index by slug (for wikilink lookup)
+            all_urls.setdefault(slug, []).append(url)
             index[slug] = url
 
-    # Archived content is intentionally excluded from the content index.
-    # This prevents active articles from linking into the archive via wikilinks.
-    # Archive pages have noindex and are hidden from search engines.
+    # Detect collisions and remove colliding slugs from index
+    collisions: list[SlugCollision] = []
+    for slug, urls in all_urls.items():
+        if len(urls) > 1:
+            collisions.append(SlugCollision(slug=slug, urls=urls))
+            del index[slug]
 
-    return index
+    # Include archive redirects: map archived slugs to their superseded_by target.
+    # This allows wikilinks to archived content to resolve to the replacement article
+    # instead of producing broken links.
+    archive_source = obsidian_path.parent / "archive"
+    if archive_source.exists():
+        for md_file in archive_source.rglob("*.md"):
+            try:
+                post = frontmatter.load(md_file)
+            except Exception:
+                continue
+            superseded_by = post.metadata.get("superseded_by")
+            if not superseded_by:
+                continue
+            slug = slugify(md_file.stem)
+            # Only add if not already in live index and not a colliding slug
+            if slug not in index and slug not in {c.slug for c in collisions}:
+                index[slug] = superseded_by
+
+    return index, collisions
 
 
 def convert_file(
     source_path: Path,
     content_index: Optional[dict[str, str]] = None,
+    report: Optional[SyncReport] = None,
 ) -> str:
     """
     Convert a single Obsidian markdown file to Hugo format.
@@ -180,6 +226,7 @@ def convert_file(
     Args:
         source_path: Path to source markdown file
         content_index: Optional dict mapping page slugs to Hugo URLs
+        report: Optional SyncReport to collect broken wikilink errors
 
     Returns:
         Converted markdown content as string
@@ -233,7 +280,17 @@ def convert_file(
             slug = slugify(target)
             if slug in content_index:
                 return content_index[slug]
-            # Fallback to root-level path
+            # Record error — target not found in content index
+            if report is not None:
+                report.broken_wikilinks.append(
+                    BrokenWikilink(
+                        source_file=source_path,
+                        target=target,
+                        slug=slug,
+                    )
+                )
+            # Still return a URL so the Hugo file is syntactically valid.
+            # The error is raised after ALL files are processed.
             return f"/{slug}/"
 
         content = convert_wikilinks(content, link_resolver=link_resolver)

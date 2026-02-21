@@ -199,28 +199,3 @@ def extract_wikilinks(content: str) -> list[dict]:
     return links
 
 
-def validate_wikilinks(
-    content: str,
-    known_pages: set[str],
-) -> list[dict]:
-    """
-    Validate wikilinks against known pages.
-
-    Args:
-        content: Markdown content
-        known_pages: Set of known page names/paths
-
-    Returns:
-        List of invalid/broken links
-    """
-    links = extract_wikilinks(content)
-    broken = []
-
-    for link in links:
-        target = link["target"].lower().replace(" ", "-")
-
-        # Check if target exists in known pages
-        if target not in known_pages:
-            broken.append(link)
-
-    return broken

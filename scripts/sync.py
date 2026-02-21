@@ -11,7 +11,7 @@ from rich.table import Table
 # Add parent to path for imports
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from tools.sync import convert_obsidian_to_hugo
+from tools.sync import SyncValidationError, convert_obsidian_to_hugo
 
 
 console = Console()
@@ -57,12 +57,16 @@ def main(
     if dry_run:
         console.print("  [yellow]Dry run - no changes will be made[/yellow]")
 
-    converted = convert_obsidian_to_hugo(
-        obsidian_path=obsidian,
-        hugo_content_path=hugo,
-        exclude_drafts=not include_drafts,
-        dry_run=dry_run,
-    )
+    try:
+        converted = convert_obsidian_to_hugo(
+            obsidian_path=obsidian,
+            hugo_content_path=hugo,
+            exclude_drafts=not include_drafts,
+            dry_run=dry_run,
+        )
+    except SyncValidationError as e:
+        console.print(f"\n[bold red]Sync failed:[/bold red] {e}")
+        raise SystemExit(1)
 
     if converted:
         table = Table(title=f"{'Would sync' if dry_run else 'Synced'} {len(converted)} files")
