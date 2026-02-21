@@ -4,7 +4,8 @@ description: "Galileo's founding methodological move excluded subjective experie
 created: 2026-02-16
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-02-16T05:25:00+00:00
+ai_modified: 2026-02-21T00:06:00+00:00
+last_deep_review: 2026-02-21T00:06:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-scientific-methodology]]"
@@ -15,6 +16,8 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[objectivity-and-consciousness]]"
   - "[[phenomenal-consciousness]]"
+  - "[[functionalism]]"
+  - "[[process-philosophy]]"
 related_articles:
   - "[[first-person-third-person-methodology]]"
   - "[[introspection-rehabilitation]]"
@@ -35,7 +38,7 @@ In *The Assayer* (1623), Galileo argued that qualities like heat, colour, and ta
 
 What remains when subjective qualities are stripped away is the mathematical skeleton: particles in motion, describable by geometry and number. Galileo's insight was that this skeleton is sufficient for physics. You do not need to know what red looks like to predict the wavelength of light. You do not need to feel heat to calculate thermal dynamics. The subjective dimension is expendable — for physics.
 
-Descartes formalised the exclusion further. His division of reality into *res extensa* (extended, measurable substance) and *res cogitans* (thinking substance) made the Galilean move explicit: mind and matter are ontologically separate domains. Physics governs *res extensa*; experience belongs to *res cogitans* and falls outside physical description. What began as a methodological convenience in Galileo became, in Descartes, a metaphysical architecture.
+Descartes deepened the exclusion. His division of reality into *res extensa* (extended, measurable substance) and *res cogitans* (thinking substance) gave the Galilean move a metaphysical foundation: mind and matter are ontologically separate domains. Physics governs *res extensa*; experience belongs to *res cogitans* and falls outside physical description. (The explicit terminology of "primary" and "secondary" qualities came later, from Boyle and Locke, but Descartes's substance dualism provided the architecture that made the distinction systematic.) What began as a methodological convenience in Galileo became, through Descartes, a metaphysical framework.
 
 ## Why the Exclusion Worked
 
@@ -49,9 +52,13 @@ The filter's success reinforced itself. Each new scientific triumph confirmed th
 
 The Galilean exclusion generates a distinctive difficulty when science turns to study consciousness itself. [[qualia|Qualia]] — the redness of red, the painfulness of pain — are precisely the secondary qualities Galileo excluded. They are what consciousness *consists of*. Asking a methodology designed to work without subjectivity to explain subjectivity creates a structural mismatch.
 
+A natural objection: modern cognitive science has moved beyond Galileo. Neuroscientists routinely incorporate subjective reports as data, and [[functionalism]] maps mental states to functional roles rather than ignoring them. But this accommodation operates within the Galilean framework rather than transcending it. Subjective reports enter as third-person data *about* experience — verbal behaviour, button presses, ratings on scales — not as experience itself. The structural issue remains: the tools of description are observer-independent, even when the target of description is not.
+
 This is not a claim about the limits of scientific effort or intelligence. It is a claim about the relationship between a method and its founding assumptions. A sieve that filters out sand cannot then be used to study sand — not because sieves are poorly made, but because filtering out sand is what the sieve *does*. The Galilean exclusion filters out phenomenal quality. A science built on that exclusion faces a structural obstacle when phenomenal quality becomes the target.
 
-The [[explanatory-gap]] between neural description and felt experience gains sharper diagnosis in this light. The gap is not merely a hard empirical problem awaiting further research. It reflects the fact that the very framework of scientific explanation was constructed by removing from its domain the phenomenon now under investigation. As Evan Thompson argues in *Mind in Life* (2007), modern science inherited from Galileo the assumption that mathematical-physical description exhausts what is objectively real. Everything excluded from that description — including experience — becomes either reducible to physics or scientifically invisible.
+The [[explanatory-gap]] between neural description and felt experience gains sharper diagnosis in this light. The gap is not merely a hard empirical problem awaiting further research. It reflects the fact that the very framework of scientific explanation was constructed by removing from its domain the phenomenon now under investigation. Husserl made this argument in *The Crisis of European Sciences* (1936), identifying what he called the "mathematization of nature" — the substitution of mathematical idealisations for the concrete world of lived experience. Thompson builds on Husserl's critique across his work, arguing that modern science inherited from Galileo the assumption that mathematical-physical description exhausts what is objectively real (Thompson, 2007; Frank, Gleiser, & Thompson, 2024). Everything excluded from that description — including experience — becomes either reducible to physics or scientifically invisible.
+
+Whitehead identified the same structural problem from a different angle, calling it the "bifurcation of nature" — the splitting of reality into the scientifically respectable (mathematical structure) and the scientifically dismissed (experienced quality). For Whitehead, this bifurcation was not a discovery about nature but an artefact of the Galilean method, one that [[process-philosophy]] was designed to overcome.
 
 ## Not a Discovery but a Decision
 
@@ -86,7 +93,9 @@ The Unfinishable Map's [[tenets]] engage with the Galilean exclusion at multiple
 - [[consciousness-and-scientific-methodology]] — How the exclusion shapes and constrains the methods available for studying consciousness
 - [[consciousness-and-the-authority-of-mathematics]] — Mathematics' power over the primary qualities Galileo kept, and its limits regarding the secondary qualities he excluded
 - [[explanatory-gap]] — The structural gap between physical description and phenomenal experience
+- [[functionalism]] — The approach that maps mental states to functional roles — an accommodation within, not an escape from, the Galilean framework
 - [[objectivity-and-consciousness]] — Nagel's argument that objectivity has limits when applied to inherently subjective phenomena
+- [[process-philosophy]] — Whitehead's attempt to overcome the bifurcation of nature that the Galilean exclusion produced
 - [[qualia]] — The secondary qualities themselves — what the exclusion left out
 - [[hard-problem-of-consciousness]] — The problem the exclusion made structurally inevitable
 
@@ -94,6 +103,12 @@ The Unfinishable Map's [[tenets]] engage with the Galilean exclusion at multiple
 
 Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 
+Frank, A., Gleiser, M., & Thompson, E. (2024). *The Blind Spot: Why Science Cannot Ignore Human Experience*. MIT Press.
+
 Galilei, G. (1623/1957). *The Assayer*. Trans. S. Drake. In *Discoveries and Opinions of Galileo*. Doubleday.
 
+Husserl, E. (1936/1970). *The Crisis of European Sciences and Transcendental Phenomenology*. Trans. D. Carr. Northwestern University Press.
+
 Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+
+Whitehead, A. N. (1925). *Science and the Modern World*. Macmillan.
