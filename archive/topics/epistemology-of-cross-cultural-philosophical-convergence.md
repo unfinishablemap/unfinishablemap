@@ -2,9 +2,9 @@
 title: "The Epistemology of Cross-Cultural Philosophical Convergence"
 description: "When independent philosophical traditions converge on similar conclusions, what does this tell us about truth? An epistemological analysis of convergence as evidence, applied to consciousness."
 created: 2026-02-19
-modified: 2026-02-19
+modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-19T07:19:00+00:00
+ai_modified: 2026-02-21T15:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
 last_deep_review:
+archived: true
+archived_date: 2026-02-21T15:39:00+00:00
+superseded_by: "/topics/epistemology-of-convergence-arguments/"
+archive_reason: "Coalesced into The Epistemology of Convergence Arguments"
+original_path: "/topics/epistemology-of-cross-cultural-philosophical-convergence/"
 ---
 
 When philosophical traditions that developed independently — separated by geography, language, and centuries — arrive at structurally similar conclusions, the convergence demands explanation. The Unfinishable Map argues that cross-cultural philosophical convergence functions as a distinctive kind of evidence, one that standard epistemology has underexplored. Applied to consciousness, where Indian, Islamic, Buddhist, and Western traditions independently identify something irreducible about subjective experience, the convergence carries significant epistemological weight — though determining exactly how much requires careful analysis of the conditions under which convergence is evidentially significant.
@@ -133,17 +138,3 @@ The Map interprets cross-cultural convergence as one strand among several suppor
 - Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
 - McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98, 349-366.
 - O'Brien-Kop, K. (2023). Classical Sāṃkhya and the hard problem of consciousness. *Religious Studies*. Cambridge University Press.
-
-<!-- AI REFINEMENT LOG - 2026-02-19
-Changes made:
-- Fixed Barrett et al. (2021) citation: clarified the study was specifically about afterlife beliefs, not intuitive materialism broadly
-- Addressed bootstrapping problem in Independence subsection: acknowledged that convergence framework requires independence it cannot fully establish; developed specificity as partial (not complete) rescue; calibrated article's evidential claims as suggestive rather than demonstrative
-- Substantially rewrote Chinese philosophy divergence section: engaged seriously with framework-dependence challenge; presented the realist response as requiring argument not assumption; acknowledged this as a genuine limitation on convergence's evidential weight
-- Calibrated confidence in Relation to Site Perspective: replaced "most parsimonious" with "most adequate"; acknowledged shared cognitive architecture as a live alternative
-- Language improvements: "real epistemological weight" → "significant epistemological weight"; softened Avicenna/Descartes parallel claim
-
-Based on pessimistic review 2026-02-19 morning.
-Key improvements: Epistemic rigor — article now honestly confronts its bootstrapping problem and framework-dependence challenge rather than treating them as neutral between positions.
-
-This log should be removed after human review.
--->

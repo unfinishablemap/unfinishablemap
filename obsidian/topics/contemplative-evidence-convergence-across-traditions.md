@@ -21,7 +21,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[contemplative-evidence-for-consciousness-theories]]"
-  - "[[epistemology-of-cross-cultural-philosophical-convergence]]"
+  - "[[epistemology-of-convergence-arguments]]"
   - "[[contemplative-training-and-phenomenal-access]]"
   - "[[contemplative-methods-as-philosophical-methodology]]"
   - "[[the-observer-witness-in-meditation]]"
@@ -115,12 +115,12 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] receiv
 
 The [[tenets#^dualism|Dualism tenet]] finds support in the convergence on the awareness-content distinction. Multiple independent traditions discover that awareness is not identical to its contents — a finding that physicalist frameworks struggle to accommodate. If consciousness were identical to neural activity, the awareness-content distinction should not be discoverable through self-observation. The cross-tradition convergence makes it unlikely that this distinction is an artefact of any particular training methodology.
 
-The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] connects through the pattern of convergent structure with divergent interpretation. The materialist might dismiss any single tradition's contemplative findings as culturally conditioned. The cross-tradition convergence makes this dismissal far more costly: one must explain why traditions with no mutual influence and opposed theoretical commitments independently discover the same structural features of consciousness. The Map holds that the simpler explanation — they are tracking real features of experience — is correct, while acknowledging the [[epistemology-of-cross-cultural-philosophical-convergence|bootstrapping problem]] that shared cognitive architecture poses for convergence arguments.
+The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] connects through the pattern of convergent structure with divergent interpretation. The materialist might dismiss any single tradition's contemplative findings as culturally conditioned. The cross-tradition convergence makes this dismissal far more costly: one must explain why traditions with no mutual influence and opposed theoretical commitments independently discover the same structural features of consciousness. The Map holds that the simpler explanation — they are tracking real features of experience — is correct, while acknowledging the [[epistemology-of-convergence-arguments|bootstrapping problem]] that shared cognitive architecture poses for convergence arguments.
 
 ## Further Reading
 
 - [[contemplative-evidence-for-consciousness-theories]] — What contemplative practice can and cannot verify
-- [[epistemology-of-cross-cultural-philosophical-convergence]] — When convergence constitutes genuine evidence
+- [[epistemology-of-convergence-arguments]] — When convergence constitutes genuine evidence
 - [[contemplative-training-and-phenomenal-access]] — How meditation training progressively discloses consciousness structure
 - [[the-observer-witness-in-meditation]] — The witness phenomenon across traditions
 - [[eastern-philosophy-consciousness]] — Hindu, Buddhist, and Taoist traditions on consciousness
