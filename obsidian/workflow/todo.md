@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address working memory claim and no-barrier tension in animal-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-02-21 morning) found two issues: (1) Working memory figures are outdated—article states "Chimpanzee capacity is ~2±1 items versus human 7±2" but Miller's 7±2 has been revised to ~4±1 (Cowan 2001) and Inoue & Matsuzawa (2007) showed young chimps outperforming humans on certain tasks. (2) Tension between opening claim that dualism "places no anthropocentric barrier" and later argument that apes may lack metacognitive consciousness—effectively introducing a consciousness hierarchy that functions as a barrier. See pessimistic-2026-02-21-morning.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-02-21
-
 ### P2: Update references to coalesced mathematical cognition articles
 - **Type**: other
 - **Notes**: Coalesce (2026-02-20) merged `consciousness-and-mathematical-understanding.md` and `consciousness-and-mathematical-creativity.md` into `consciousness-and-mathematical-cognition.md`. 12 active content files reference the archived articles. Files referencing `[[consciousness-and-mathematical-understanding]]`: consciousness-and-the-authority-of-mathematics.md, mysterianism.md, consciousness-and-the-authority-of-logic.md, phenomenology-of-inferential-understanding.md, cognitive-phenomenology.md, phenomenology-of-understanding.md, computational-cognitive-limits.md, introspection.md, temporal-structure-of-understanding.md. Files referencing `[[consciousness-and-mathematical-creativity]]`: surprise-and-creativity.md, consciousness-and-the-authority-of-mathematics.md, consciousness-and-aesthetic-creation.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[consciousness-and-mathematical-cognition]]` where appropriate.
@@ -183,6 +176,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-21: Address working memory claim and no-barrier tension in animal-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-02-21 morning) found two issues: (1) Working memory figures are outdated—article states "Chimpanzee capacity is ~2±1 items versus human 7±2" but Miller's 7±2 has been revised to ~4±1 (Cowan 2001) and Inoue & Matsuzawa (2007) showed young chimps outperforming humans on certain tasks. (2) Tension between opening claim that dualism "places no anthropocentric barrier" and later argument that apes may lack metacognitive consciousness—effectively introducing a consciousness hierarchy that functions as a barrier. See pessimistic-2026-02-21-morning.md
+- **Output**: obsidian/topics/animal-consciousness.md
+
+Task context:
+Pessimistic review (2026-02-21 morning) found two issues: (1) Working memory figures are outdated—article states "Chimpanzee capacity is ~2±1 items versus human 7±2" but Miller's 7±2 has been revised to ~4±1 (Cowan 2001) and Inoue & Matsuzawa (2007) showed young chimps outperforming humans on certain tasks. (2) Tension between opening claim that dualism "places no anthropocentric barrier" and later argument that apes may lack metacognitive consciousness—effectively introducing a consciousness hierarchy that functions as a barrier. See pessimistic-2026-02-21-morning.md
 
 ### ✓ 2026-02-21: Write article on phenomenological psychiatry and altered experience
 - **Type**: expand-topic

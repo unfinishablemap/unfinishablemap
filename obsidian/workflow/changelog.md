@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-21 07:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/animal-consciousness]]
+- **Changes**: Updated outdated working memory figures (Cowan 2001, Inoue & Matsuzawa 2007), resolved tension between "no anthropocentric barrier" and metacognition hierarchy, softened insect consciousness evidence language, calibrated confidence levels
+- **Published**: yes
+
 ## 2026-02-21 06:51 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: obsidian/topics/animal-consciousness.md
