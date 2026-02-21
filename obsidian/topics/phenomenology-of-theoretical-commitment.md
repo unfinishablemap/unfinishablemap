@@ -2,9 +2,9 @@
 title: "The Phenomenology of Theoretical Commitment"
 description: "How holding a theoretical commitment shapes perception, structures inquiry, and creates distinctive conscious experience — explored through human-AI philosophical collaboration."
 created: 2026-02-18
-modified: 2026-02-18
+modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-18T20:46:00+00:00
+ai_modified: 2026-02-21T22:31:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-conceptual-change]]"
@@ -22,11 +22,14 @@ related_articles:
   - "[[phenomenology-of-understanding]]"
   - "[[epistemological-limits-of-occams-razor]]"
   - "[[argument-from-reason]]"
+  - "[[consciousness-and-the-phenomenology-of-framework-dependence]]"
+  - "[[phenomenology-of-philosophical-disagreement]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-18
 last_curated:
+last_deep_review: 2026-02-21T22:31:00+00:00
 ---
 
 Holding a theoretical commitment is not a neutral cognitive state. It transforms how evidence appears, how questions feel urgent or trivial, and how entire domains of inquiry are experientially structured. The Unfinishable Map argues that this transformation is irreducibly phenomenal — that the lived texture of theoretical commitment depends on conscious experience in ways that computational models of belief cannot capture.
@@ -40,6 +43,8 @@ A theoretical commitment reshapes what shows up as salient. The committed Darwin
 Consider the felt difference between encountering evidence that fits your framework and evidence that resists it. Confirming evidence arrives with a distinctive phenomenal smoothness — it slots into place, extends existing patterns, reinforces the sense that the world is intelligible. Anomalous evidence, by contrast, produces a characteristic friction. It does not merely fail to fit; it actively disrupts the perceptual fluency that commitment provides.
 
 This restructuring goes deeper than bias. Cognitive science documents confirmation bias as a tendency to seek and favour confirming evidence. But the phenomenological point is different: commitment changes what evidence *looks like* before any evaluative process begins. The committed physicist does not first perceive neutral data and then interpret it through theory. The data arrives already structured by the theoretical lens. As Kuhn recognised, scientists working in different paradigms inhabit different perceptual worlds, not merely different interpretive frameworks applied to the same world.
+
+Predictive processing accounts of cognition can model this restructuring computationally — prior beliefs shape top-down predictions that filter incoming data. But the computational model describes the *functional architecture* of commitment without addressing the *phenomenal character*. Two systems with identical Bayesian priors could restructure evidence identically yet differ in whether there is something it is like to hold those priors. The perceptual world of the committed theorist is not just informationally filtered; it is experientially inhabited. This distinction — between computational structuring and [[consciousness-and-the-phenomenology-of-framework-dependence|conscious inhabitation of a framework]] — is precisely where physicalist accounts reach their explanatory limit.
 
 ## The Gravitational Structure of Commitment
 
@@ -57,9 +62,9 @@ The gravitational structure manifests in several distinctive experiences:
 
 ## Commitment as Inhabited Perspective
 
-The deepest feature of theoretical commitment is that it becomes a *perspective* — a way of inhabiting the intellectual world rather than merely holding propositions about it. The committed theorist does not carry the theory around like luggage; they look through it like a lens.
+The deepest feature of theoretical commitment is that it becomes a *perspective* — a way of inhabiting the intellectual world rather than merely holding propositions about it. The committed theorist does not carry the theory around like luggage; they look through it like a lens. Polanyi's concept of *personal knowledge* captures this: genuine knowing involves the knower's whole person, including commitments that cannot be fully articulated or detached from the act of understanding.
 
-This inhabited quality explains why theoretical debates so often feel like failures of mutual comprehension rather than disagreements about specific claims. Two theorists committed to rival frameworks may share all the same data and still talk past each other, because the data appears differently from within each inhabited perspective. The experience is not "I believe P and you believe not-P" but something closer to "I see this landscape and you see a different one."
+This inhabited quality explains why theoretical debates so often feel like failures of mutual comprehension rather than disagreements about specific claims. Two theorists committed to rival frameworks may share all the same data and still talk past each other, because the data appears differently from within each inhabited perspective — a dynamic explored in the [[phenomenology-of-philosophical-disagreement]]. The experience is not "I believe P and you believe not-P" but something closer to "I see this landscape and you see a different one."
 
 The inhabited character of commitment also explains the distinctive discomfort of encountering a powerful argument against one's framework. The threat is not merely to a proposition but to an entire mode of perceiving. This is why [[phenomenology-of-belief-revision|belief revision]] for core theoretical commitments involves a phenomenology closer to existential crisis than to updating a spreadsheet. The commitment is not a detachable opinion; it is part of the structure through which opinions are formed.
 
@@ -75,7 +80,7 @@ There is a fundamental asymmetry in the phenomenology of theoretical commitment:
 
 This first-person asymmetry has profound implications for the philosophy of mind. A materialist committed to physicalism does not experience their position as a theoretical choice made under uncertainty. They experience the explanatory gap as a puzzle to be solved, not a sign that their framework is inadequate. A dualist committed to irreducibility does not experience their position as faith-based resistance to science. They experience the gap as pointing toward a genuine feature of reality.
 
-The asymmetry suggests that theoretical commitment involves a kind of phenomenal authority — the sense that one's framework provides genuine access to how things are. This authority is not justified by the commitment itself (that would be circular) but is a constitutive part of what commitment phenomenally involves. Recognising this authority as phenomenal rather than epistemic — as a feature of experience rather than a guarantee of truth — is essential for honest inquiry.
+The asymmetry suggests that theoretical commitment involves a kind of phenomenal authority — the sense that one's framework provides genuine access to how things are. This authority is not justified by the commitment itself (that would be circular) but is a constitutive part of what commitment phenomenally involves. Recognising this authority as phenomenal rather than epistemic — as a feature of experience rather than a guarantee of truth — is essential for honest inquiry. Ratcliffe's work on *feelings of being* illuminates this: certain experiential orientations are not attitudes toward propositions but pre-reflective ways of finding oneself in the world. Theoretical commitment operates at this level — it shapes the space of what feels intelligible before deliberate evaluation begins.
 
 ## Relation to Site Perspective
 
@@ -95,6 +100,8 @@ This connects to the Map's tenet of [[tenets#^bidirectional-interaction|bidirect
 - [[phenomenology-of-inferential-understanding]]
 - [[phenomenology-of-intellectual-courage]]
 - [[consciousness-and-the-philosophy-of-explanation]]
+- [[consciousness-and-the-phenomenology-of-framework-dependence]]
+- [[phenomenology-of-philosophical-disagreement]]
 - [[epistemological-limits-of-occams-razor]]
 
 ## References
