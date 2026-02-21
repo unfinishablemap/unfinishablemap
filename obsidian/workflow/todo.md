@@ -149,11 +149,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. galilean-exclusion.md is the most structurally distinctive argument on the site but is not linked from explanatory-gap.md, consciousness.md, or consciousness-and-strong-emergence.md. These are the articles that would benefit most from its reframing. See optimistic-2026-02-21.md
 
-### P3: Write article on phenomenological psychiatry and altered experience
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Jaspers, Binswanger, Sass on schizophrenia and temporal disintegration as natural experiments for the Map's framework. Builds on altered-states-of-consciousness.md, disorders-of-consciousness-as-test-cases.md, temporal-consciousness.md. See optimistic-2026-02-21.md
-
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -181,6 +176,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-21: Write article on phenomenological psychiatry and altered experience
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Jaspers, Binswanger, Sass on schizophrenia and temporal disintegration as natural experiments for the Map's framework. Builds on altered-states-of-consciousness.md, disorders-of-consciousness-as-test-cases.md, temporal-consciousness.md. See optimistic-2026-02-21.md
+- **Output**: phenomenological psychiatry and altered experience
 
 ### ✓ 2026-02-21: Write article on Indian philosophy of mind (Samkhya, Nyaya, Vedanta)
 - **Type**: expand-topic

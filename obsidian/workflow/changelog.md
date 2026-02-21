@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-21 02:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenological Psychiatry and Altered Experience
+- **Output**: [[topics/phenomenological-psychiatry-and-altered-experience]]
+- **Word count**: 1837
+- **Based on research**: yes ([[research/phenomenological-psychiatry-altered-experience-2026-02-21]], [[research/altered-states-consciousness-2026-01-19]], [[research/phenomenology-first-person-methods-2026-01-14]])
+
 ## 2026-02-21 02:36 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Indian Philosophy of Mind (Samkhya, Nyaya, Vedanta)
