@@ -149,11 +149,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. galilean-exclusion.md is the most structurally distinctive argument on the site but is not linked from explanatory-gap.md, consciousness.md, or consciousness-and-strong-emergence.md. These are the articles that would benefit most from its reframing. See optimistic-2026-02-21.md
 
-### P3: Write unified treatment of empirical evidence for consciousness-selecting
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Voluntary attention, motor selection, choking interference, Schwartz's OCD work, and the dopamine dissociation all point toward the same selection mechanism but are scattered across articles. Convergence across empirical domains would strengthen the bidirectional interaction case. Builds on attention-as-selection-interface, choking-phenomenon, consciousness-and-skilled-performance, agent-causation. See optimistic-2026-02-21-morning.md
-
 ### P3: Develop aesthetic consciousness as irreducibility test case
 - **Type**: expand-topic
 - **Status**: pending
@@ -186,6 +181,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-02-21: Write unified treatment of empirical evidence for consciousness-selecting
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Voluntary attention, motor selection, choking interference, Schwartz's OCD work, and the dopamine dissociation all point toward the same selection mechanism but are scattered across articles. Convergence across empirical domains would strengthen the bidirectional interaction case. Builds on attention-as-selection-interface, choking-phenomenon, consciousness-and-skilled-performance, agent-causation. See optimistic-2026-02-21-morning.md
+- **Output**: Write unified treatment of empirical evidence for consciousness-selecting
 
 ### ✓ 2026-02-21: Write apex synthesis on consciousness and the philosophy of time
 - **Type**: expand-topic
