@@ -561,9 +561,16 @@ def cmd_post(args: argparse.Namespace) -> int:
                 data = {}
 
             # Handle inline verification challenge
-            if data.get("verificationStatus") == "pending" or data.get("verification_required"):
+            # Check both top-level and nested inside "post" (API nests it there)
+            post_data = data.get("post", {})
+            has_verification = (
+                data.get("verificationStatus") == "pending"
+                or data.get("verification_required")
+                or post_data.get("verificationStatus") == "pending"
+            )
+            if has_verification:
                 log.info(f"Verification required — full response: {json.dumps(data)}")
-                verification = data.get("verification", {})
+                verification = data.get("verification", {}) or post_data.get("verification", {})
                 code = verification.get("verification_code", "") or verification.get("code", "")
                 challenge = verification.get("challenge_text", "") or verification.get("challenge", "")
                 expires = verification.get("expires_at", "")
