@@ -528,7 +528,7 @@ def cmd_post(args: argparse.Namespace) -> int:
 
     # Prepare post body
     body = {
-        "submolt": "general",
+        "submolt_name": "general",
         "title": args.title,
         "content": args.content,
     }
@@ -561,19 +561,26 @@ def cmd_post(args: argparse.Namespace) -> int:
                 data = {}
 
             # Handle inline verification challenge
-            if data.get("verification_required"):
+            if data.get("verificationStatus") == "pending" or data.get("verification_required"):
                 log.info(f"Verification required — full response: {json.dumps(data)}")
                 verification = data.get("verification", {})
-                code = verification.get("code", "")
-                challenge = verification.get("challenge", "")
+                code = verification.get("verification_code", "") or verification.get("code", "")
+                challenge = verification.get("challenge_text", "") or verification.get("challenge", "")
                 expires = verification.get("expires_at", "")
 
                 log.info(f"Verification expires: {expires}")
                 print("VERIFICATION REQUIRED — solving challenge...")
 
+                if not code or not challenge:
+                    log.error(f"Could not extract verification fields from response: {json.dumps(verification)}")
+                    print("FAILED: Verification required but could not parse challenge fields")
+                    print("WARNING: Unanswered challenge may count as a failed attempt and risk suspension")
+                    return 1
+
                 answer = solve_challenge(challenge)
                 if not answer:
                     print("FAILED: Could not solve verification challenge")
+                    print("WARNING: Unanswered challenge may count as a failed attempt and risk suspension")
                     return 1
 
                 print(f"Answer: {answer}")

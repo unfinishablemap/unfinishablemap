@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-02-18 13:02:00+00:00
+ai_modified: 2026-02-21 15:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[mental-effort]]'
 - '[[phenomenal-normativity]]'
-- '[[topics/phenomenal-value-realism]]'
+- '[[phenomenal-value-realism]]'
 - '[[moral-responsibility]]'
 - '[[phenomenology]]'
 - '[[moral-perception]]'
@@ -21,7 +21,7 @@ description: What it feels like when moral, epistemic, aesthetic, and prudential
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-02-21 15:09:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,7 +51,7 @@ The most familiar form of normative conflict pits demands of the same type again
 
 Within-domain conflict has a characteristic phenomenology of *tearing*. The demands share the same felt quality—both are moral, both carry obligation's distinctive warmth and urgency—yet they pull in opposite directions. The experience differs from simple indecision. In ordinary indecision, the agent lacks sufficient reason to prefer one option; in normative conflict, the agent has *too much* reason, directed at incompatible actions. The phenomenal weight doesn't cancel out. It accumulates.
 
-Bernard Williams analysed the extreme case: tragic dilemmas where both options are morally catastrophic. Agamemnon must sacrifice his daughter or abandon his army. Williams observed that guilt remains appropriate after *either* choice—what he called "moral residue." The phenomenology of tragic dilemma is not confusion about which option is right. It is the recognition that both demands are genuine and neither choice can satisfy both. The agent is, as Williams puts it, "torn, guilty, and tainted" regardless.
+Bernard Williams analysed the extreme case: tragic dilemmas where both options are morally catastrophic. Agamemnon must sacrifice his daughter or abandon his army. Williams argued that what he called "agent-regret" remains appropriate after *either* choice—regret not merely that something bad happened, but that it was *oneself* who made it happen. The overridden obligation persists "with remainder." The phenomenology of tragic dilemma is not confusion about which option is right. It is the recognition that both demands are genuine and neither choice can satisfy both. The agent emerges bearing what the philosophical literature has come to call "moral residue"—an ineliminable trace of the obligation that was acknowledged but could not be fulfilled.
 
 ### Cross-Domain Conflict
 
@@ -77,13 +77,13 @@ When normative demands from different domains collide, something must adjudicate
 
 The Unfinishable Map identifies this arbiter as consciousness itself. The felt effort of resolving normative conflict—the deliberation, the weighing, the eventual commitment—is phenomenologically distinct from both demands. It is a third thing: the experience of being the point where incompatible normative forces meet and a single action must emerge. This is the phenomenology of [agent-causation](/concepts/agent-causation/): not a mechanical aggregation of competing force-vectors but a genuine act of judgment that could have gone otherwise.
 
-The computationalist alternative—that the brain simply runs a weighted sum and produces output—fails to account for several features of the experience. Normative conflict involves sustained attention to both demands, imaginative projection into the consequences of each option, and a moment of commitment that feels discontinuous with the deliberation preceding it. The resolution is not the gradual dominance of one demand over another but a decision that acknowledges both demands and accepts the cost of overriding one. This acceptance—the willingness to bear moral residue—is itself a phenomenal achievement that has no obvious computational analogue.
+The computationalist alternative—that the brain simply runs a weighted sum and produces output—fails to account for several features of the experience. Normative conflict involves sustained attention to both demands, imaginative projection into the consequences of each option, and a moment of commitment that feels discontinuous with the deliberation preceding it. The resolution is not the gradual dominance of one demand over another but a decision that acknowledges both demands and accepts the cost of overriding one. This acceptance—the willingness to bear what persists as moral residue—is itself a phenomenal achievement: the agent does not merely select an option but takes responsibility for the loss that selection entails.
 
 ### Moral Residue as Evidence
 
-Williams's observation about moral residue applies beyond tragic dilemmas. Even in ordinary cross-domain conflicts, choosing to satisfy one demand while overriding another produces a phenomenal trace. The agent who prioritises prudence over morality feels guilt; the agent who prioritises morality over prudence feels the sting of self-sacrifice; the agent who follows evidence over moral caution feels the weight of potential consequences.
+Williams's observation about remainder applies beyond tragic dilemmas. Even in ordinary cross-domain conflicts, choosing to satisfy one demand while overriding another produces a phenomenal trace—what the broader literature calls moral residue. The agent who prioritises prudence over morality feels guilt; the agent who prioritises morality over prudence feels the sting of self-sacrifice; the agent who follows evidence over moral caution feels the weight of potential consequences.
 
-This residue is philosophically significant. A computational aggregation function that outputs a single "winning" option should produce no residue—the calculation is complete, the answer determined. But normative conflict routinely produces residue because the losing demand doesn't vanish. It persists in experience as a genuine normative claim that was acknowledged but could not be satisfied. The phenomenology is of *sacrifice*, not of error correction.
+This residue is philosophically significant. A computational aggregation function that outputs a single "winning" option might seem to leave no room for it—the calculation is complete, the answer determined. A computationalist might respond that multi-objective optimisation routinely produces trade-offs with residual loss on non-selected objectives, and that this is the computational analogue. But the phenomenology of moral residue is not the abstract recognition of a suboptimal trade-off. It is the felt persistence of a demand that one continues to recognise as *legitimate*—a demand that was not outweighed so much as sacrificed. The losing demand doesn't diminish in normative force; it persists in experience as a genuine claim that was acknowledged but could not be satisfied. The phenomenology is of *sacrifice*, not of error correction or Pareto-suboptimality.
 
 If [phenomenal-value-realism](/topics/phenomenal-value-realism/) is correct—if value is constituted by conscious experience—then moral residue is not merely a psychological quirk. It is the felt presence of a real value that was not, and could not be, realised. The residue tracks something genuine: the cost of living in a world where legitimate demands sometimes conflict irreconcilably.
 
@@ -115,6 +115,8 @@ The phenomenology of normative conflict connects to the Map's [foundational comm
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Resolving normative conflict is among the clearest cases of consciousness doing causal work. The agent doesn't just passively register competing demands—she adjudicates between them and acts on the result. If consciousness were epiphenomenal, the felt effort of navigating normative conflict would be causally inert decoration on a process determined entirely by neural computation. But the phenomenology suggests otherwise: the deliberation is the decision-making, not a byproduct of it.
 
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If consciousness influences the physical world through the smallest possible quantum-level nudge, normative conflict may represent a case where the stakes of that influence are highest. Adjudicating between competing normative demands and committing to action is precisely the kind of situation where conscious selection must translate into physical outcome—where the "which way the quantum coin lands" matters most for the agent's life and moral standing.
+
 **[No Many Worlds](/tenets/#no-many-worlds)**: Normative conflict has its phenomenal weight precisely because outcomes are singular. When Agamemnon chooses, one daughter dies and one army marches—in this world, with no branch where the alternative obtained. Many-worlds would mean that every resolution of normative conflict actualises somewhere. If so, moral residue becomes puzzling: why feel the weight of the road not taken when, on another branch, that road was taken? The Map holds that normative conflict's felt gravity depends on the reality of singular outcomes.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Reducing normative conflict to competing desire-strengths or neural activation patterns appears parsimonious. But this parsimony requires ignoring the phenomenological data: the qualitative distinctness of competing demands, the felt character of the arbiter perspective, the persistence of moral residue. As with consciousness itself, the "simpler" account may simply be the one that refuses to look closely at what experience actually reveals.
@@ -132,9 +134,7 @@ The phenomenology of normative conflict connects to the Map's [foundational comm
 
 ## References
 
+- Williams, Bernard. (1973). "Ethical Consistency." In *Problems of the Self: Philosophical Papers 1956-1972*. Cambridge University Press.
 - Williams, Bernard. (1981). "Moral Luck." In *Moral Luck: Philosophical Papers 1973-1980*. Cambridge University Press.
-- Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
-- Murdoch, Iris. (1970). *The Sovereignty of Good*. Routledge.
 - Nagel, Thomas. (1979). "The Fragmentation of Value." In *Mortal Questions*. Cambridge University Press.
-- McDowell, John. (1979). "Virtue and Reason." *The Monist*, 62(3), 331-350.
-- Palazzo, G., Krings, F., & Hoffrage, U. (2012). "Ethical Blindness." *Journal of Business Ethics*, 109(3), 323-338.
+- Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]

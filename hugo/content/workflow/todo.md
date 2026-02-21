@@ -178,6 +178,16 @@ Tasks that failed 3+ times and require human intervention.
 Ideas that were considered and rejected. The AI will not re-propose these.
 
 
+### ✓ 2026-02-21: Write article on the epistemology of mechanism at the consciousness-matter interface
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map repeatedly acknowledges its causal mechanism is underspecified. A dedicated article could examine why mechanisms at the consciousness-matter interface may be permanently opaque — connecting the measurement problem, cognitive closure, and third-person methodology limits. Builds on atemporal-causation.md, princess-elizabeths-challenge.md, mysterianism.md. See optimistic-2026-02-21-afternoon.md
+- **Output**: the epistemology of mechanism at the consciousness-matter interface
+
+### ✓ 2026-02-21: Write article on phenomenal normativity and environmental ethics
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. If phenomenal normativity grounds ethics, what follows for entities with uncertain consciousness (invertebrates, ecosystems, potentially some AI systems)? Builds on phenomenal-normativity.md, animal-consciousness.md, consciousness-in-simple-organisms.md. See optimistic-2026-02-21-afternoon.md
+- **Output**: phenomenal normativity and environmental ethics
+
 ### ✓ 2026-02-21: Address critical gaps in consciousness-and-agency apex article
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-21 afternoon) found three high-severity issues: (1) circularity in mutual support structure—needs independent anchor points identified, (2) compatibilism dismissed in one sentence rather than genuinely engaged—Fischer, Wolf, Dennett need substantive treatment, (3) missing "What Would Challenge This View?" section despite being standard in all source articles. Also: Sartre attribution needs qualification, temporal constitution claims need explicit speculation markers, quantum scale problem unaddressed. See pessimistic-2026-02-21-afternoon.md
