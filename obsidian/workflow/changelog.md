@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-02-21 10:51 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Comparative Phenomenology Void
+- **Category**: Mixed (Unexplorable with Occluded elements)
+- **Output**: [[research/voids-comparative-phenomenology-void-2026-02-21]]
+- **Key finding**: No unit of phenomenal measurement exists; under dualism, the impossibility of calibrating qualitative experience across persons or across time is a predicted consequence of consciousness being non-physical, with structural parallels to the impossibility of interpersonal utility comparison in welfare economics.
+
 ## 2026-02-21 10:21 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-ontology-of-dispositions]]
